@@ -1,4 +1,4 @@
-SKILL_20150317_000001	Attack
+SKILL_20150317_000001	Ataque
 SKILL_20150317_000002	[Elite Kepa] 1 time, Physical, Poison Property, Strike
 SKILL_20150317_000003	[Rafflesia] Spread Poison
 SKILL_20150317_000004	[Rafflesia] Poison Bomb
@@ -17,7 +17,7 @@ SKILL_20150317_000016	[Bushspider] Physical, Strike, Earth Property, Attack 1 ti
 SKILL_20150317_000017	[Fragaras] Quick bite
 SKILL_20150317_000018	[Fragaras] Large Chomp
 SKILL_20150317_000019	[Fragaras] Normal Attack, Conical AoE
-SKILL_20150317_000020	Basic Normal Attack
+SKILL_20150317_000020	Ataque Normal Básico
 SKILL_20150317_000021	[Meduja] Magic, Magic, Lightning Property Attack 1 time
 SKILL_20150317_000022	[Gribaru] Physical, Slash, Lightning Property Attack 1 time
 SKILL_20150317_000023	[Gribaru] Physical, Slash, Lightning Property Knock-back Attack Attack 1 time
@@ -102,10 +102,10 @@ SKILL_20150317_000101	[Mauros] Physical, Strike, Dark Property Smash Attack 1 ti
 SKILL_20150317_000102	[Sauga] Physical Strike Earth Property Attack 1 time
 SKILL_20150317_000103	[Sauga] Physical, Strike, Earth Property Ground Smash
 SKILL_20150317_000104	Pumpkin Normal attack.
-SKILL_20150317_000105	Attack 2
+SKILL_20150317_000105	Ataque 2
 SKILL_20150317_000106	Pumpkin Normal attack 2.
 SKILL_20150317_000107	[Saurman Priest] Normal attack.
-SKILL_20150317_000108	Skills
+SKILL_20150317_000108	Habilidades
 SKILL_20150317_000109	[Saurman Priest] skills.
 SKILL_20150317_000110	Saurman Normal attack.
 SKILL_20150317_000111	Saurman Normal attack 2.
@@ -917,19 +917,19 @@ SKILL_20150317_000916	[Helgasercle Card] Physical Dark Property Slash
 SKILL_20150317_000917	[Yekub Card] Magic Dark Property Strike
 SKILL_20150317_000918	[Physical Shield] Non-Property Magic
 SKILL_20150317_000919	[Sparnasman Card] Physical Non-Property Magic
-SKILL_20150317_000920	Thrust
-SKILL_20150317_000921	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce and push back an enemy.
+SKILL_20150317_000920	Estocada
+SKILL_20150317_000921	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Perfura e empurra um inimigo.
 SKILL_20150317_000922	Attack: #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
-SKILL_20150317_000923	Bash
-SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damage to a target by strongly swinging your weapon.
+SKILL_20150317_000923	Golpe Esmagador
+SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflige danos a um alvo ao balançar fortemente sua arma.
 SKILL_20150317_000925	Gung Ho
-SKILL_20150317_000926	Increases your attack, but decreases your defense.
+SKILL_20150317_000926	Aumenta seu ataque, mas diminui sua defesa.
 SKILL_20150317_000927	Physical Damage: +#{CaptionRatio}#{nl}Physical Defense: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150317_000928	Concentrate
-SKILL_20150317_000929	Increases the power of your attacking skills.
+SKILL_20150317_000928	Concentrar
+SKILL_20150317_000929	Aumenta o poder de suas habilidades de ataque.
 SKILL_20150317_000930	Additional Damage: +#{CaptionRatio2}#{nl}Number of Hits: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
-SKILL_20150317_000931	Restrain
-SKILL_20150317_000932	Decreases your maximum HP, but increases your attack.
+SKILL_20150317_000931	Restringir
+SKILL_20150317_000932	Diminui sua vida máxima, mas aumenta seu ataque.
 SKILL_20150317_000933	Physical Attack: +#{CaptionRatio}#{nl}Maximum HP: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000934	Umbo Blow
 SKILL_20150317_000935	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by bumping your shield. {nl} Inflicts more damage after blocking an enemy's attack.
