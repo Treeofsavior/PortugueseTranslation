@@ -12167,8 +12167,8 @@ ITEM_20161005_012168	Ninth Spiritual Orb
 ITEM_20161005_012169	Tenth Spiritual Orb
 ITEM_20161005_012170	Eleventh Spiritual Orb
 ITEM_20161005_012171	Twelfth Spiritual Orb
-ITEM_20161005_012172	Gohei with a Divine Spirit
-ITEM_20161005_012173	An object brought by the Kedoran Merchant Alliance from another Kingdom. It has a Divine Spirit residing in it.
+ITEM_20161005_012172	Gohei com o Espírito Divino
+ITEM_20161005_012173	Um objeto trazido pela Aliança de Mercadores Kedoran de outro Reino. Um Espírito Divino reside nela.
 ITEM_20161005_012174	Barrier Gohei
 ITEM_20161005_012175	The Gohei that maintains the barrier. It is said that the barrier will react if the Gohei is used in front of it.
 ITEM_20161005_012176	Goddess Gegute's Crystal
@@ -13064,14 +13064,14 @@ ITEM_20161214_013065	Increases attack of the Dark property against characters by
 ITEM_20161214_013066	Use to obtain the following items:{nl}Pode ser usado a partir do Lv. 60.{nl}- 35x Lv4 EXP Card{nl}- 5x Instanced Dungeon Reset Voucher{nl}- 10x Settlement Support Potion{nl}- Settlement Support Chest: Lv75{nl}This item will be removed after the server maintenance of April 7th.
 ITEM_20161214_013067	Coleção: Token of the Demon Treaty
 ITEM_20161214_013068	Coleção: Pasleptas
-ITEM_20161214_013069	Leticia's Secret Cube
+ITEM_20161214_013069	Cubo Secreto da Letícia
 ITEM_20161214_013070	Lv220 Recipe Box - Weapon
 ITEM_20161214_013071	Contains a random recipe for a Lv220 weapon.
 ITEM_20161214_013072	Recipe Box - Armor
 ITEM_20161214_013073	Contains a random recipe for Lv120 ~ 220 armor.
 ITEM_20161214_013074	Lv220 Recipe Box - Accessory
 ITEM_20161214_013075	Contains a random recipe for a Lv220 accessory.
-ITEM_20161214_013076	Leticia's Secret Cube x10 + 1
+ITEM_20161214_013076	Cubo Secreto da Letícia x10 +1
 ITEM_20161214_013077	 Shining Cube Piece
 ITEM_20161214_013078	Can be obtained from Leticia's Secret Cube.{nl}Collect 100 of them to use.
 ITEM_20161214_013079	Lucky Monster Card Box
@@ -14932,7 +14932,7 @@ ITEM_20170522_014931	Title - Finest Moment
 ITEM_20170522_014932	A title given to winners of the Spring Art Festival. {nl}{img mouseclick_right 30 30} para usar.
 ITEM_20170522_014933	[GM] Transformation Scroll
 ITEM_20170522_014934	A scroll that lets the user transform.
-ITEM_20170522_014935	It seems to contain something unknown. {nl}{nl}{img mouseclick_right 30 30} para usar.{nl}Can be used from Lv. 40.	사용하면 무언가 알 수 없는 것을 획득할 수 있을 것 같습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}40 레벨부터 사용할 수 있습니다.				
+ITEM_20170522_014935	Parece conter algo desconhecido. {nl}{nl}{img mouseclick_right 30 30} para usar.{nl}Usável a partir do Lv. 40.	사용하면 무언가 알 수 없는 것을 획득할 수 있을 것 같습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}40 레벨부터 사용할 수 있습니다.				
 ITEM_20170525_014936	Forest Fairy Costume (Male)	숲의 요정 코스튬(남)				
 ITEM_20170525_014937	Turn into a mystical forest fairy. Equip to change your appearance.	숲 속의 요정을 흉내낸 코스튬입니다. 착용하면 외형이 변경 됩니다.				
 ITEM_20170525_014938	Forest Fairy Costume (Female)	숲의 요정 코스튬(여)				
@@ -15139,3 +15139,13 @@ ITEM_20170710_015138	Savior's Bottom Voucher (14 Days)		구원자 하의 큐브 
 ITEM_20170710_015139	Savior's Boots Voucher (14 Days)		구원자 신발 큐브 (14일)	ITEM_20170709_015098	Solmiki Boots Voucher (14 Days)	솔미키 신발 큐브 (14일)	
 ITEM_20170710_015140	Savior's Gloves Voucher (14 Days)		구원자 장갑 큐브 (14일)	ITEM_20170709_015099	Solmiki Gloves Voucher (14 Days)	솔미키 장갑 큐브 (14일)	
 ITEM_20170710_015141	Savior's Accessory Voucher (14 Days)		구원자 장신구 큐브 (14일)	ITEM_20170709_015100	Solmiki Accessory Voucher (14 Days)	솔미키 장신구 큐브 (14일)	
+ITEM_20170717_015142	Beginner Level-up Card
+ITEM_20170717_015143	Aumenta a EXP de Classe e Personagem. Pode ser usado no nível 85 ou menor.
+ITEM_20170717_015144	Intermediate Level-up Card
+ITEM_20170717_015145	Aumenta a EXP de Classe e Personagem. Pode ser usado no nível 185 ou menor.
+ITEM_20170717_015146	Advanced Level-up Card
+ITEM_20170717_015147	Aumenta a EXP de Classe e Personagem. Pode ser usado no nível 280 ou menor.
+ITEM_20170717_015148	High Advanced Level-up Card
+ITEM_20170717_015149	Aumenta a EXP de Classe e Personagem. Pode ser usado no nível 330 ou menor.
+ITEM_20170717_015150	Monster Gem Box: Rank 1
+ITEM_20170717_015151	Contém Gemas de Monstro relacionadas as classes de Swordsman, Wizard, Archer e Cleric.
