@@ -3194,9 +3194,9 @@ ETC_20150317_003193	Good work!
 ETC_20150317_003194	Move to Crystal Mine Lot 2 - 2F
 ETC_20150317_003195	Investigating
 ETC_20150317_003196	Collecting
-ETC_20150317_003197	Vubbe Tribe Flag
+ETC_20150317_003197	Bandeira dos Vubbe
 ETC_20150317_003198	Destroy the Flag of the Vubbe tribe!
-ETC_20150317_003199	Placing the Bomb
+ETC_20150317_003199	Colocando a bomba
 ETC_20150317_003200	Secret passage of Vubbes
 ETC_20150317_003201	Fight back the Vubbes and install a bomb in the secret passage
 ETC_20150317_003202	Monsters are trying to get rid of the seal! Get rid of them!
@@ -3753,7 +3753,7 @@ ETC_20150317_003752	Quest finished directing change layer Goals: 0
 ETC_20150317_003753	Current layer:
 ETC_20150317_003754	Quest finished presentation layer before change
 ETC_20150317_003755	The end of the track
-ETC_20150317_003756	Insufficient items
+ETC_20150317_003756	Itens insuficientes
 ETC_20150317_003757	Your inventory is full. You can not receive any more items! {nl}
 ETC_20150317_003758	Open the Kiro Instant Shop and empty your inventory
 ETC_20150317_003759	An empty slot in your inventory is required
@@ -5504,7 +5504,7 @@ ETC_20150317_005503	The Walking Dead
 ETC_20150317_005504	Achieved by resurrecting at least 100 times using TP.
 ETC_20150317_005505	Crafting Beginner
 ETC_20150317_005506	Succeeded crafting 10 times. Feels pretty good.
-ETC_20150317_005507	Crafting ApprentGelo
+ETC_20150317_005507	Crafting Apprentice
 ETC_20150317_005508	Succeeded crafting 50 times. Getting more used to crafting.
 ETC_20150317_005509	Crafting Expert
 ETC_20150317_005510	Succeeded crafting 100 times. Slowly building up wealth.
@@ -11268,9 +11268,9 @@ ETC_20150428_011269	Derrote 10,000 boss monsters
 ETC_20150428_011270	Boss Killer
 ETC_20150428_011271	Resurrected over 100 times using TP
 ETC_20150428_011272	Again After Death
-ETC_20150428_011273	ApprentGelo
+ETC_20150428_011273	Apprentice
 ETC_20150428_011274	Craft 500 times
-ETC_20150428_011275	Path of the ApprentGelo
+ETC_20150428_011275	Path of the Apprentice
 ETC_20150428_011276	Artisan
 ETC_20150428_011277	Craft 10,000 times
 ETC_20150428_011278	Path of the Artisan
@@ -15470,7 +15470,7 @@ ETC_20151001_015471	Derrote Rikaus and Carapace!
 ETC_20151001_015472	Sobreviva por 5 minutos!{nl}The mission fails if you're wiped out!
 ETC_20151001_015473	Sobreviva por 5 minutos!
 ETC_20151001_015474	Vá para próxima área
-ETC_20151001_015475	Destroy the Vubbe tribe flag within 10 minutos!
+ETC_20151001_015475	Destrua as bandeiras da tribo Vubbe em 10 minutos!
 ETC_20151001_015476	Derrote Shadowgaler!
 ETC_20151001_015477	Monsters have invaded the Mage Tower.{nl}Only you can stop them!
 ETC_20151001_015478	All the players have died.{nl}Mission failed!
@@ -16295,7 +16295,7 @@ ETC_20151022_016296	Fencer Advancement
 ETC_20151022_016297	You will soon move to the character selection.
 ETC_20151022_016298	Grimório
 ETC_20151022_016299	Necronomicon
-ETC_20151022_016300	Can only be used in towns.
+ETC_20151022_016300	Só pode ser usado nas cidades.
 ETC_20151022_016301	Number of Party Quest participated : {count} / {max}{nl}from party
 ETC_20151022_016302	You are doing a quest!
 ETC_20151022_016303	Acquired all necessary breathes
@@ -19173,9 +19173,9 @@ ETC_20151224_019174	Rifle
 ETC_20151224_019175	Poison Pot
 ETC_20151224_019176	Qual personagem receberá o item?
 ETC_20151224_019177	You cannot lock an already locked item.
-ETC_20151224_019178	Male only
-ETC_20151224_019179	Female only
-ETC_20151224_019180	Unable to equip
+ETC_20151224_019178	Masculino
+ETC_20151224_019179	Feminino
+ETC_20151224_019180	N/pode equipar
 ETC_20151224_019181	If you register this item, the potential{nl}will decrease after it is traded{nl}Would you like to register it?
 ETC_20151224_019182	The potential of this item will be decreased after it is traded. Will you accept?
 ETC_20151224_019183	There are no tools to repair.
@@ -25150,7 +25150,7 @@ ETC_20161005_025151	Monk2 Ferreiro
 ETC_20161005_025152	Wagons(NO OBB)
 ETC_20161005_025153	Temporary Memorial Monument(NO OBB)
 ETC_20161005_025154	Area of Ruins_Monument03(Medium Size)
-ETC_20161005_025155	Plague Doctor Mestre ApprentGelo
+ETC_20161005_025155	Plague Doctor Mestre Apprentice
 ETC_20161005_025156	Strange Flower
 ETC_20161005_025157	Magic Core(Small Version)
 ETC_20161005_025158	Stone 1(NO OBB)
@@ -28042,3 +28042,21 @@ ETC_20170709_028203	Selecionar equipamento
 ETC_20170709_028204	Evento: Returning Player
 ETC_20170709_028205	Golden Stone Whale
 ETC_20170710_028206	Golden Stone Whale altar
+ETC_20170717_028207	참조 ?٪? 0???ի? 지?ͬǄ 객체?ƫˈ??
+ETC_20170717_028208	Miko Unlock Voucher
+ETC_20170717_028209	Use para desbloquear a classe Miko depois de alcançar o Rank 6. {nl}{img mouseclick_right 30 30} para usar.
+ETC_20170717_028210	Appraiser Unlock Voucher
+ETC_20170717_028211	Use para desbloquear a classe Appraiser depois de alcançar o Rank 5. {nl}{img mouseclick_right 30 30} para usar.
+ETC_20170717_028212	Rune Caster Unlock Voucher
+ETC_20170717_028213	Use para desbloquear a classe Rune Caster depois de alcançar o Rank 6. {nl}{img mouseclick_right 30 30} para usar.
+ETC_20170717_028214	Shinobi Unlock Voucher
+ETC_20170717_028215	Use para desbloquear a classe Shinobi depois de alcançar o Rank 7. {nl}{img mouseclick_right 30 30} para usar.
+ETC_20170717_028216	Desbloquear: {JOBNAME}
+ETC_20170717_028217	A classe correspondente já está desbloqueada; Não pode usar o item.
+ETC_20170717_028218	Árvore de classe incorreta; Não pode usar o item.
+ETC_20170717_028219	{JOBNAME} Classe desbloqueada
+ETC_20170717_028220	Alcance o Rank{RANK}
+ETC_20170717_028221	 e selecione a 
+ETC_20170717_028222	 classe!
+ETC_20170717_028223	Tem certeza de que deseja usar o voucher e desbloquear a classe {JOBNAME}?
+ETC_20170717_028224	(50% OFF)
