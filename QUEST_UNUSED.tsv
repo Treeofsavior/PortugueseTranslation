@@ -52,7 +52,7 @@ QUEST_UNUSED_20150317_000051	Yes not to want to create to wander me deposited ob
 QUEST_UNUSED_20150317_000052	It is unscrupulous people while small.	작지만 악랄한 녀석들이죠.				신성한 부엉이 조각상
 QUEST_UNUSED_20150317_000053	"sad, but our image does not allow you to carry out the mission given now sculptor like. {nl} to be able to protect myself. {nl}"	슬프지만, 우리 조각상들은 지금 조각가님께서 부여한 임무를 수행 할 수 없습니다.{nl}저 자신을 보호할 수만 있다면..{nl}				신성한 부엉이 조각상
 QUEST_UNUSED_20150317_000054	Soul responsible too many.	책임져야할 영혼들이 너무 많습니다.				신성한 부엉이 조각상
-QUEST_UNUSED_20150317_000055	It is great!	훌륭하군요!				신성한 부엉이 조각상
+QUEST_UNUSED_20150317_000055	It is great!	훌륭하군요!				
 QUEST_UNUSED_20150317_000056	Please proceed to the south. {nl} there will be a statue to go crack like me.	남쪽으로 가세요.{nl}저처럼 부서져 가는 조각상이 있을 겁니다.				신성한 부엉이 조각상
 QUEST_UNUSED_20150317_000057	Gloomy Owl Sculpture	우울한 부엉이 조각상				
 QUEST_UNUSED_20150317_000058	"It is strange that living people come here. Do not look at the soul of {nl}, seems a few years have passed."	살아있는 사람이 이곳에 오다니 신기하군요.{nl}영혼들을 보지 못한지 몇 년은 지난 것 같습니다.				우울한 부엉이 조각상
@@ -354,7 +354,7 @@ QUEST_UNUSED_20150803_000353	Talk with Member Grazina	단원 그라지나와 대
 QUEST_UNUSED_20150803_000354	Hand over the goods to Member Irmantas	이르만타스에게 물품 전달				
 QUEST_UNUSED_20150803_000355	Go meet with Member Alina	단원 알리나 찾아가기				
 QUEST_UNUSED_20150803_000356	Talk with Member Alina	단원 알리나와 대화				
-QUEST_UNUSED_20150803_000357	Talk with Member Allin	단원 알린와 대화	ETC_20150317_001874	Iniciar	시작	
+QUEST_UNUSED_20150803_000357	Talk with Member Allin	단원 알린와 대화	ETC_20150317_001874	Start	시작	
 QUEST_UNUSED_20150804_000358	"To get near the Royal Mausoleum, you should pass all the ordeals of the Great King Zachariel. {nl}To get the next token for the next ordeal, talk with Historian Rexipher."	왕릉에 접근하기 위해서는 자카리엘 대왕의 모든 시련을 통과해야합니다. 다음 시련에 대한 증표를 얻기 위해 사학자 렉시퍼와 대화해 봅시다.	QUEST_LV_0100_20150317_005238	Voc?precisa resolver todos os dilemas do Rei Zachariel para se aproximar do Mausol?. Fale com Rexipher para obter pistas do pr?imo dilema. 	왕릉에 접근하기 위해서는 자카리엘 대왕의 모든 난제를 풀어야 합니다. 다음 난제에 대한 단서를 얻기 위해 사학자 렉시퍼와 대화해 봅시다.	
 QUEST_UNUSED_20150908_000359	Getting rid of it	소각 중	QUEST_LV_0100_20150317_002476	Incinerando/FIRE/2/TRACK_BEFORE/None	소각 중/FIRE/2/TRACK_BEFORE/None	
 QUEST_UNUSED_20150908_000360	There aren't any traces of the storage left	보관소의 흔적조차 남아 있지 않습니다				
@@ -2107,7 +2107,7 @@ QUEST_UNUSED_20151102_002103	"Even so, you don't look like you are hurt... it se
 QUEST_UNUSED_20151102_002104	"I've already gave up on one salvation and I couldn't do anything on Medzio Diena.{nl}However, even so, I can't give up everything.{nl}"	이미 한 번 구원을 포기했고, 신수의 날엔 아무것도 할 수 없었어요.{nl}하지만 그렇다고 해서 전부 포기할 순 없어요.{nl}	QUEST_LV_0300_20151001_000228	I am counting on you to guide all the spirits to the goddesses.	모든 영혼들을 여신의 곁으로 인도할 수 있도록 잘 부탁드리겠습니다.{nl}여신의 가호가 함께 하길..	큐폴 메일레
 QUEST_UNUSED_20151102_002105	I will tell you slowly so please first get the eggs of green infroholders.	차례차례 일러 줄 터이니 일단 초록 인프로홀더의 알을 가져오게.	QUEST_LV_0100_20151001_008509	Vou explicar passo a passo, ent? comece trazendo ovos de Sapo-Raja.	차례차례 일러 줄 터이니 일단 라자태드의 알을 가져오게.	늙은 관리인
 QUEST_UNUSED_20151102_002106	"The eggs of this green infroholder represent the power to bind the souls.{nl}Now, we need to substantiate it."	이 초록 인프로홀더의 알은 영혼을 구속하는 힘이네.{nl}이제 이걸 실체화할 것이 필요하지.	QUEST_LV_0100_20151016_009758	This Rajatad's Egg has the power to restrain the spirits.{nl}What we need to do is to actualize it.	이 라자태드의 알은 영혼을 구속하는 힘이네.{nl}이제 이걸 실체화할 것이 필요하지.	늙은 관리인
-QUEST_UNUSED_20151102_002107	Don't think of it as unpleasant. {nl}This is the best I can do for now.	꺼림칙한 방법이라 생각하지 말게. {nl}지금으로선 내가 자네를 도울 수 있는 최선의 방법이니까.	QUEST_20151001_002605	Pare de pensar que esse é um método ruim. É o melhor método que consegui imaginar para ajudar você por enquanto.	꺼림칙한 방법이라 생각하지 말게. 현재 내가 자네를 도울 수 있는 최선의 방법이네.	늙은 관리인
+QUEST_UNUSED_20151102_002107	Don't think of it as unpleasant. {nl}This is the best I can do for now.	꺼림칙한 방법이라 생각하지 말게. {nl}지금으로선 내가 자네를 도울 수 있는 최선의 방법이니까.	QUEST_20151001_002605	Pare de pensar que esse ?um m?odo ruim. ?o melhor m?odo que consegui imaginar para ajudar voc?por enquanto.	꺼림칙한 방법이라 생각하지 말게. 현재 내가 자네를 도울 수 있는 최선의 방법이네.	늙은 관리인
 QUEST_UNUSED_20151102_002108	Hey!{nl}Please help me.	이보시오!{nl}제발 날 좀 도와주시오.				행상인
 QUEST_UNUSED_20151102_002109	My friends are being attacked by the demons!	내 친구들이 마족들에게 공격 받고 있소!				행상인
 QUEST_UNUSED_20151102_002110	Please save my friends from the demons. I beg you.	마족에게서 내 친구들을 구해주시오. 부탁하오.				행상인
