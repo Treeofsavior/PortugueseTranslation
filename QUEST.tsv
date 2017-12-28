@@ -1,4 +1,4 @@
-QUEST_20150317_000001		퀘스트 수정이 필요한 유저를 선택해주세요.				GM
+QUEST_20150317_000001	Por favor, selecione o usuario que precisa de uma atualizacao de quest.	퀘스트 수정이 필요한 유저를 선택해주세요.				GM
 QUEST_20150317_000002	Estatua da Deusa Vakarine	여신 바카리네의 상				
 QUEST_20150317_000003	Escolha um territorio.	지역을 선택해주세요.				여신 바카리네의 상
 QUEST_20150317_000004	Escolha	선택				
@@ -5820,7 +5820,7 @@ QUEST_20170313_005817	There's an unknown device.	알 수 없는 장치가 있다
 QUEST_20170313_005818	Recovered due to an unknown type of magic.	알 수 없는 마력에 의해 회복된 것 같다				PC
 QUEST_20170313_005820	Level Up Chest Challenge	쿠키와 함께 레벨업				이벤트 알림판
 QUEST_20170313_005821	O evento comecou.{nl}	 이벤트가 시작되었습니다.{nl}				이벤트 알림판
-QUEST_20170313_005822	Level Up Chest 	레벨업 보상 상자				
+QUEST_20170313_005822	Level Up Chest 	레벨업 보상 상자				이벤트 알림판
 QUEST_20170313_005823	Recebeu 10 baus.	 10개를 지급해 드렸습니다.				이벤트 알림판
 QUEST_20170313_005824	 nao pode mais ser recebido.	 는 더 이상 받을 수 없습니다.				이벤트 알림판
 QUEST_20170313_005825	Parabens por ter alcancado o nivel 330!	330 Level에 도달하신 것을 축하드립니다.				이벤트 알림판
@@ -7069,19 +7069,49 @@ QUEST_20171128_007090	Collecting Magic Crystal	마력결정 수집 중
 QUEST_20171128_007091	Acquired Magic Crystal	마력 결정을 획득했습니다				
 QUEST_20171128_007092	Retrieving Flurry's Device Part	플러리의 부품을 회수 중				
 QUEST_20171128_007093	Obtained Flurry's Device Part	플러리의 부품을 획득했습니다				
-QUEST_20171207_007106		캠프 주인				
-QUEST_20171207_007107		날이 어두워집니다.{nl}밤에 산에 있는 것은 위험합니다.				캠프 주인
-QUEST_20171207_007108		깊은 산속의 선물 상자 이벤트가 진행 중입니다.				이벤트 알림판
-QUEST_20171207_007109		착한 거짓말 이벤트가 진행 중입니다.				이벤트 알림판
-QUEST_20171207_007110		너무 이르거나 아직 선물을 건네주지 않았습니다.				이벤트 알림판
-QUEST_20171207_007111		크리스마스 이벤트는 50레벨부터 참여 가능합니다.				이벤트 알림판
-QUEST_20171207_007112		먼저 어린이용 선물 상자를 받아주세요.				이벤트 알림판
-QUEST_20171207_007113		누적 참여 보상{nl}10회 달성 시 : 은빛 모루(14일) 2개{nl}20회 달성 시 : 황금 모루(14일) 2개				이벤트 알림판
-QUEST_20171207_007114		착한 일 한 어린이				
-QUEST_20171207_007115		드디어...!!!!{nl}누구시죠? 산타클로스인가요?{nl}거짓말 아니죠? 와~신난다!!				착한 일 한 어린이
-QUEST_20171207_007116		착한 일 많이 했는데 산타는 언제 오는 걸까요?				착한 일 한 어린이
-QUEST_20171207_007117		감사합니다!! 내일도 착한 일 할 거예요~~				착한 일 한 어린이
+QUEST_20171207_007106	Campsite Manager	캠프 주인				
+QUEST_20171207_007107	It's getting dark.{nl}The mountain's too dangerous at night.	날이 어두워집니다.{nl}밤에 산에 있는 것은 위험합니다.				캠프 주인
+QUEST_20171207_007108	The Xmas Search Mission event has begun.	깊은 산속의 선물 상자 이벤트가 진행 중입니다.				이벤트 알림판
+QUEST_20171207_007109	The Here Comes... Santa? event has begun.	착한 거짓말 이벤트가 진행 중입니다.				이벤트 알림판
+QUEST_20171207_007110	It's either too soon or you haven't delivered the last Present yet.	너무 이르거나 아직 선물을 건네주지 않았습니다.				이벤트 알림판
+QUEST_20171207_007111	This event is for characters of level 50 and above.	크리스마스 이벤트는 50레벨부터 참여 가능합니다.				이벤트 알림판
+QUEST_20171207_007112	Please receive a Present first.	먼저 어린이용 선물 상자를 받아주세요.				이벤트 알림판
+QUEST_20171207_007113	Total count rewards{nl}10 Presents delivered: Silver Anvil (14 Days) x2{nl}20 Presents delivered: Golden Anvil (14 Days) x2	누적 참여 보상{nl}10회 달성 시 : 은빛 모루(14일) 2개{nl}20회 달성 시 : 황금 모루(14일) 2개				이벤트 알림판
+QUEST_20171207_007114	Good Kid	착한 일 한 어린이				
+QUEST_20171207_007115	Hello!!{nl}Who are you? Oh, are you Santa??{nl}Yaaaay!!	드디어...!!!!{nl}누구시죠? 산타클로스인가요?{nl}거짓말 아니죠? 와~신난다!!				착한 일 한 어린이
+QUEST_20171207_007116	I was so good this year! I wonder when Santa's gonna come...	착한 일 많이 했는데 산타는 언제 오는 걸까요?				착한 일 한 어린이
+QUEST_20171207_007117	Thank you!! I'll be good next year, too!	감사합니다!! 내일도 착한 일 할 거예요~~				착한 일 한 어린이
 QUEST_20171211_007130	Your Team Level is 2 or above, or you are participating in the Skilled Savior Event.	팀 레벨이 1보다 높거나 정착 이벤트 참여자입니다.				이벤트 알림판
 QUEST_20171211_007131	Use your Homecoming Gift first to prove that you are a Returning Savior.	먼저 복귀 유저의 선물 상자를 사용해서 복귀 유저를 증명해주세요.				이벤트 알림판
 QUEST_20171211_007132	Your Team Level is 1 or you are participating in the Rookie Savior Event.	팀 레벨이 1이거나 초보 유저의 이벤트 참여자입니다.				이벤트 알림판
 QUEST_20171211_007133	Move to a city of your choice and increase movement speed for 20 seconds.	원하는 마을로 이동할 수 있으며 20초 동안 이동속도가 증가합니다.				오늘의 티켓
+QUEST_20171228_007134		 그리고 모데스타스씨가 보는 앞에서 수상한 
+
+
+이 나더니 황당하게도 납덩이는 순식간에 금괴로 변했습니다. 그리고 알케미스트는 뻔뻔하게도 이렇게 말했습니다.{nl}[이제 자네가 빚진 것은 금괴 하나이니 반드시 가져오게.]{nl}모데스타스씨는 항의도 하고 화도 냈지만, 가만히 따져 보면 알케미스트는 자신의 손에 든 그 물건을 정확하게 납덩이라고 명시한 적이 없었습니다.{nl}	QUEST_20161005_004883	 Unbelievably, the piece of lead turned into gold in front of Modestas after a flash of suspicious light. 	 그리고 모데스타스씨가 보는 앞에서 수상한 
+
+
+
+
+
+이 나더니 황당하게도 납덩이는 순식간에 금괴로 변했습니다. 그리고 알케미스트는 뻔뻔하게도 이렇게 말했습니다.{nl}[이제 자네가 빚진 것은 금괴 하나이니 반드시 가져오게.]{nl}모데스타스씨는 항의도 하고 화도 냈지만, 가만히 따져 보면 알케미스트는 자신의 손에 든 그 물건을 정확하게 납덩이라고 명시한 적이 없었습니다.{nl}	클라페다의 내기꾼
+QUEST_20171228_007135		그러나 상황은 제스티가 생각한 것과는 전혀 다르게 흘러갔다.{nl}‘인간, 인간을 이용하다니.. 저 비루한 족속들을 사용할 생각을 하다니!{nl}
+제스티는 다시 한 번 치밀어 오르는 분노를 억누르며 이제 다음에 어떻게 할지 고민했다.{nl}설마 자신의 힘을 나누어 계시의 형태로 남기고 그것을 인간에게 전달하여 지키게 할 것이라곤 전혀 생각하지 않았다.{nl}여신이 인간을 의지하다니..{nl}제스티는 충분한 시간만 있으면 모든 미래와 모든 가능성을 파악할 수 있는 라이마가 승리를 위해 그 위대한 권능을 놓아두고 인간 따위에게 의지한 사실을 아직도 믿기 어려웠다.	QUEST_20171128_006908	Unfortunately for Gesti, not all would go according to her plans.{nl}"How dare you use humans... How dare you even consider associating with those humans!"{nl}	그러나 상황은 제스티가 생각한 것과는 전혀 다르게 흘러갔다.{nl}‘인간, 인간을 이용하다니.. 저 비루한 족속들을 사용할 생각을 하다니!{nl}
+
+제스티는 다시 한 번 치밀어 오르는 분노를 억누르며 이제 다음에 어떻게 할지 고민했다.{nl}설마 자신의 힘을 나누어 계시의 형태로 남기고 그것을 인간에게 전달하여 지키게 할 것이라곤 전혀 생각하지 않았다.{nl}여신이 인간을 의지하다니..{nl}제스티는 충분한 시간만 있으면 모든 미래와 모든 가능성을 파악할 수 있는 라이마가 승리를 위해 그 위대한 권능을 놓아두고 인간 따위에게 의지한 사실을 아직도 믿기 어려웠다.	라이마의 천년전 3권
+QUEST_20171228_007136		청년이 대답했다.[이런 짓이라니요?나는 당신의 가문을 길이 번창시키고 세상에 명망을 드높여 줄 것이오.따지고 보면 당신은 내가 당신의 가문을 선택한 것을 고맙게 생각해야 합니다.]{nl}
+[네가 내 아들딸들을 다 죽이고..]{nl}[아아, 그것은 어쩔 수 없는 일이었소.내가 본래 사람이 아니라 그저 이 청년의 모습을 빌린 존재라는 것을 알아차릴 가능성이 있는 사람들은 살려둘 수 없었으니까.그런 점에서 당신 역시 이제 그만 떠나는 것이 좋을 것 같소.당신의 영지와 작위를 물려받을 준비는 이제 다 끝났으니 말이오.]{nl}[내가 네 정체를 폭로할 수만 있다면…]	QUEST_20171128_006920	The young man replied.{nl}[What do you mean? I'm going to bring true prosperity to your family, I'm going to make your name known. If anything, you should be thanking me for even having chosen you.]{nl}	청년이 대답했다.[이런 짓이라니요?나는 당신의 가문을 길이 번창시키고 세상에 명망을 드높여 줄 것이오.따지고 보면 당신은 내가 당신의 가문을 선택한 것을 고맙게 생각해야 합니다.]{nl}
+
+[네가 내 아들딸들을 다 죽이고..]{nl}[아아, 그것은 어쩔 수 없는 일이었소.내가 본래 사람이 아니라 그저 이 청년의 모습을 빌린 존재라는 것을 알아차릴 가능성이 있는 사람들은 살려둘 수 없었으니까.그런 점에서 당신 역시 이제 그만 떠나는 것이 좋을 것 같소.당신의 영지와 작위를 물려받을 준비는 이제 다 끝났으니 말이오.]{nl}[내가 네 정체를 폭로할 수만 있다면…]	에미넌트 이야기1
+QUEST_20171228_007137		그 질문에 커닝햄이 대답했다.
+[그래서 너를 여기 봉인하고 이곳 광구를 무너뜨리면 너는 봉인의 마력 탓에 영원히 갇히고, 광부들이 어쩌다 이곳을 파서 널 꺼내줄 리도 없다는 말이다. 그리고 라이마님의 말씀에 따르면 네가 실패하면 네 상관이라는 마왕도 너를 구해줄 리가 없다고 하셨다. 그러니까 너는 여기서 끝이란 말이다.]{nl}그 말과 동시에 커닝햄은 동그란 물체를 하나 꺼냈다. 자세히 본다면 실을 자는데 사용하는 물레를 닮았고, 전체적으로 바퀴(wheel) 모양으로 생긴 것이었다.	QUEST_20171128_006959	Cunningham had his answer ready.	그 질문에 커닝햄이 대답했다.
+
+[그래서 너를 여기 봉인하고 이곳 광구를 무너뜨리면 너는 봉인의 마력 탓에 영원히 갇히고, 광부들이 어쩌다 이곳을 파서 널 꺼내줄 리도 없다는 말이다. 그리고 라이마님의 말씀에 따르면 네가 실패하면 네 상관이라는 마왕도 너를 구해줄 리가 없다고 하셨다. 그러니까 너는 여기서 끝이란 말이다.]{nl}그 말과 동시에 커닝햄은 동그란 물체를 하나 꺼냈다. 자세히 본다면 실을 자는데 사용하는 물레를 닮았고, 전체적으로 바퀴(wheel) 모양으로 생긴 것이었다.	미르티스 이야기
+QUEST_20171228_007138		라이마는 루클리스의 이름이 나오자 다시 슬픔을 느끼며 결국 커닝햄의 말에 동의했다.라이마는 커닝햄의 희생을 축복하고 그 자리를 떠났다. 머지 않아 지금의 기억을 또 다시 오랜 시간 잊고 지낼 것이란 사실이 이 가녀린 여신의 마음을 다시 한번 아프게 만들었다.{nl} 
+다행인지 불행인지 라이마는 커닝햄이 일으킨 폭음을 듣기 전에 수정광산을 벗어날 수 있었다.	QUEST_20171128_006964	Grief washed over Laima at the mention of Ruklys' name and she finally agreed with Cunningham. She blessed his noble sacrifice and left the mine. In Her remained the deep sorrow of the memories She had sought to forget.{nl} 	라이마는 루클리스의 이름이 나오자 다시 슬픔을 느끼며 결국 커닝햄의 말에 동의했다.라이마는 커닝햄의 희생을 축복하고 그 자리를 떠났다. 머지 않아 지금의 기억을 또 다시 오랜 시간 잊고 지낼 것이란 사실이 이 가녀린 여신의 마음을 다시 한번 아프게 만들었다.{nl} 
+
+다행인지 불행인지 라이마는 커닝햄이 일으킨 폭음을 듣기 전에 수정광산을 벗어날 수 있었다.	미르티스 이야기
+QUEST_20171228_007139		네뷸라스는 결국 말로 아우스라를 당할 수 없다고 생각하고 자리를 뜨려다가 마지막으로 물었다.[칼레이마스에서는 내가 내 마음대로 한다고 네 주인이 뭐라 하지는 않겠지?]{nl}아우스라가 차갑게 대답했다.[계시만 찾아내 얻는다면 당신이 그곳에서 무슨 살육의 미학을 추구하든 그것은 제스티님의 관심사 밖의 일입니다.]{nl}
+그 말에 아우스라를 만난 후 처음으로 네뷸라스는 만족스런 기분을 느끼며 그 자리를 떠날 수 있었다.	QUEST_20171128_006983	Nebulas, refusing to let Ausura have the final word, threw at her one last question.{nl}[Your boss won't say anything if I have it my way in Kalejimas, will she?]{nl}Ausura's response was harsh.{nl}[Gesti has no interest in whatever havoc you wreak there, so long as you retrieve the Revelation.]{nl}	네뷸라스는 결국 말로 아우스라를 당할 수 없다고 생각하고 자리를 뜨려다가 마지막으로 물었다.[칼레이마스에서는 내가 내 마음대로 한다고 네 주인이 뭐라 하지는 않겠지?]{nl}아우스라가 차갑게 대답했다.[계시만 찾아내 얻는다면 당신이 그곳에서 무슨 살육의 미학을 추구하든 그것은 제스티님의 관심사 밖의 일입니다.]{nl}
+
+그 말에 아우스라를 만난 후 처음으로 네뷸라스는 만족스런 기분을 느끼며 그 자리를 떠날 수 있었다.	네뷸라스와 칼레이마스

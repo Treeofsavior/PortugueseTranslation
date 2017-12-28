@@ -31135,21 +31135,21 @@ ETC_20171207_031129	Right-click to use and obtain the following items.{nl}- Rudo
 ETC_20171207_031130	Christmas Sled	크리스마스 썰매				
 ETC_20171207_031131	Applied Attribute Level	적용 특성 레벨				
 ETC_20171207_031132	No companion for this skill.	스킬을 사용할 수 있는 컴패니언이 없습니다.				
-ETC_20171207_031133		크리스마스 이벤트 : 깊은 산속의 선물 상자				
-ETC_20171207_031134		크리스마스 이벤트 : 착한 거짓말				
-ETC_20171207_031135		어린이용 선물 상자 받기				
-ETC_20171207_031136		산타클로스라고 말한다				
-ETC_20171207_031137		거짓말을 할 수 없어				
-ETC_20171207_031138		오늘의 착한 일 한 어린이 위치				
-ETC_20171207_031139		오늘의 착한 일 한 어린이는{nl}{MAP}{nl}지역에 있습니다.				
+ETC_20171207_031133	Xmas Search Mission	크리스마스 이벤트 : 깊은 산속의 선물 상자				
+ETC_20171207_031134	Here Comes... Santa?	크리스마스 이벤트 : 착한 거짓말				
+ETC_20171207_031135	Receive Present	어린이용 선물 상자 받기				
+ETC_20171207_031136	Hi, little one! It's me, Santa!	산타클로스라고 말한다				
+ETC_20171207_031137	Sorry, kid.	거짓말을 할 수 없어				
+ETC_20171207_031138	Today's Good Kid Location	오늘의 착한 일 한 어린이 위치				
+ETC_20171207_031139	Today's Good Kid is at {nl}{MAP}!{nl}Go, go, go!	오늘의 착한 일 한 어린이는{nl}{MAP}{nl}지역에 있습니다.				
 ETC_20171207_031140	The mission starts in 20 seconds.	20초 뒤 미션이 시작됩니다				
 ETC_20171207_031141	The mission starts in 10 seconds.	10초 뒤 미션이 시작됩니다				
 ETC_20171207_031142	The mission starts in 5 seconds.	5초 뒤 미션이 시작됩니다				
-ETC_20171207_031143		밤이 되기 전에 선물 상자를 찾으세요.				
-ETC_20171207_031144		날이 저물어 갑니다.				
-ETC_20171207_031145		해가 지고 있습니다.				
-ETC_20171207_031146		달이 떠오르고 있습니다.				
-ETC_20171207_031147		캠프 주인이 준비한 선물을 받으세요				
+ETC_20171207_031143	Find the Lost Present before nightfall.	밤이 되기 전에 선물 상자를 찾으세요.				
+ETC_20171207_031144	It's getting darker.	날이 저물어 갑니다.				
+ETC_20171207_031145	The sun is setting now.	해가 지고 있습니다.				
+ETC_20171207_031146	The moon is rising in the sky.	달이 떠오르고 있습니다.				
+ETC_20171207_031147	Receive Campsite Manager's gift	캠프 주인이 준비한 선물을 받으세요				
 ETC_20171207_031148	The mission will end after 10 seconds.	10초 뒤 미션이 종료됩니다				
 ETC_20171211_031149	You cannot mount a Companion yet.	아직 컴패니언에 탑승할 수 없습니다.				
 ETC_20171211_031150	Level 360 Reward	360 Level 보상				
@@ -31159,4 +31159,13 @@ ETC_20171211_031153	Starting tomorrow, you can receive Returning Savior's Book 
 ETC_20171211_031154	Skilled Savior Event: Receive Reward	정착 지원의 이벤트 : 보상 받기				
 ETC_20171212_031155	You are already participating in an instanced dungeon. Would you like to quit the current dungeon?	이미 참여 중인 인스턴스 던전이 존재합니다.{nl}참여 중인 인스턴스 던전을 포기하시겠습니까?	ETC_20171030_029076	You are already participating in an instanced dungeon. Would you like to quit the current dungeon?	이미 참여 중인 인던이 존재합니다. 참여 중인 인던을 포기하시겠습니까?	
 ETC_20171212_031156	You cannot re-enter. We apologize for the inconvenience.	현재 재입장을 이용할 수 없습니다. 이용에 불편을 드려 죄송합니다.				
-ETC_20171212_031157		습격받은 페디미안				
+ETC_20171218_031157	Fedimian Under Attack	습격받은 페디미안				
+ETC_20171222_031158	Raid Portal Stone Box (x20)	레이드 포탈 스톤 상자 (20개)				
+ETC_20171222_031159	Right-click to obtain the following items:{nl} - Raid Portal Stone x20	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 레이드 포탈 스톤 x20				
+ETC_20171222_031160	Raid Portal Stone Box (x5)	레이드 포탈 스톤 상자 (5개)				
+ETC_20171222_031161	Right-click to obtain the following items:{nl} - Raid Portal Stone x5	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 레이드 포탈 스톤 x5				
+ETC_20171222_031162	Lv 10 Enhancement Card Book	Lv10 강화용 카드북				
+ETC_20171222_031163	Right-click to obtain the following items:{nl} - Lv 10 Enhancement Card x2	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - Lv 10 강화용 카드 x2				
+ETC_20171222_031164	2nd Anniversary Souvenir	2주년 기념수				
+ETC_20171222_031165	PC Zombie Logging Time (ms)	pc 좀비 로깅 타임(ms)				
+ETC_20171222_031166	Making a wish...	새해 소망 비는 중				

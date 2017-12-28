@@ -1,4 +1,4 @@
-ITEM_20150317_000001		없음_helmet				
+ITEM_20150317_000001	Elmo_vazio 	없음_helmet				
 ITEM_20150317_000002	Elmo de Mirmilao 	무르밀로 헬멧				
 ITEM_20150317_000003	Bracadeira_vazia 	없음_armband				
 ITEM_20150317_000004	Bracadeira Vermelha 	붉은 암밴드				
@@ -17189,7 +17189,7 @@ ITEM_20171207_017188	Rudolph Costume	루돌프 코스튬
 ITEM_20171207_017189	Leading Reindeer 	산타의 썰매를 끄는 리더 순록 				
 ITEM_20171207_017190	Rudolph	루돌프				
 ITEM_20171207_017191	 Use to change your appearance.	 코스튬입니다. 착용하면 외형이 변경 됩니다.				
-ITEM_20171207_017192		핫팩(30일)				
+ITEM_20171207_017192	Hot Pack (30 Days)	핫팩(30일)				
 ITEM_20171207_017193	Magical Snowman Wand	눈사람 요술봉				
 ITEM_20171207_017194	Will waving this Magical Snowman Wand create a Christmas miracle?	눈사람 요술봉을 휘두르면 크리스마스의 기적이 일어날까요?				
 ITEM_20171207_017195	Christmas Handbell	크리스마스 핸드벨				
@@ -17202,10 +17202,10 @@ ITEM_20171207_017201	Christmas Tree Ornament Cube	크리스마스 트리 장식 
 ITEM_20171207_017202	Christmas Sled Box	크리스마스 썰매 상자				
 ITEM_20171207_017203	Right-click to use and register your companion.{nl}This companion can be mounted without the riding skill and you will now dismount when attacked.{nl}Use the shortcut keys to mount it anywhere.{nl}Increases movement speed by 8 when mounted.{nl}Cannot use mounted skills while riding this companion.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl}- 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능하고 피격에도 내리지 않습니다. {nl}- 탑승 단축키를 이용하여 어디서든 탑승 가능합니다. {nl}- 탑승 버프 이동속도가 4로 증가합니다.{nl}- 컴패니언을 이용한 스킬을 사용할 수 없습니다.				
 ITEM_20171207_017204	Use to open the popup book. Use again to put it away. Interact with the open book to play the background music. The book closes automatically after 10 minutes.	사용 시 팝업북이 생성됩니다. 재사용 시 팝업북이 사라집니다. 팝업북과 대화를 하시면 배경음악이 변경됩니다. 생성 후 10분 뒤에 팝업북이 자동으로 사라집니다.				
-ITEM_20171207_017205		착한 거짓말 상자				
-ITEM_20171207_017206		크리스마스 이벤트 아이템입니다.{nl}보상 중 1개를 선택할 수 있습니다.				
-ITEM_20171207_017207		어린이용 선물 상자				
-ITEM_20171207_017208		크리스마스 이벤트 아이템입니다.{nl}어린이에게 선물 상자를 건네주세요.				
+ITEM_20171207_017205	Gift Box	착한 거짓말 상자				
+ITEM_20171207_017206	Here's a little gift to you from Santa.{nl}Use it to choose your prize.	크리스마스 이벤트 아이템입니다.{nl}보상 중 1개를 선택할 수 있습니다.				
+ITEM_20171207_017207	Present	어린이용 선물 상자				
+ITEM_20171207_017208	A neat little Christmas present.{nl}Deliver it to a child who was good this year.	크리스마스 이벤트 아이템입니다.{nl}어린이에게 선물 상자를 건네주세요.				
 ITEM_20171207_017209	Fortune Cookie (14 Days)	포춘 쿠키 (14일)				
 ITEM_20171207_017210	Increases EXP gains, movement speed and max. HP with each stack. Maximum of 5 stacks.	30분간 중첩에 따라 경험치, 이동속도, 최대HP가 증가하며, 최대 5중첩까지 가능합니다.				
 ITEM_20171211_017211	Primus Irellis Pants [Untradable]	프리머스 이렐리스 팬츠 [거래 불가]				
@@ -17243,4 +17243,8 @@ ITEM_20171211_017242	Welcome back!{nl}Use this gift to enter the Returning Savio
 ITEM_20171211_017243	New Rank Booster - Weapon Selection Box	New Rank Booster - 무기 선택 상자				
 ITEM_20171211_017244	Use to select a Lv 350 unidentified equipment item.	사용 시 원하는 350레벨 미감정 장비를 선택할 수 있습니다.				
 ITEM_20171211_017245	New Rank Booster - Armor Selection Box	New Rank Booster - 방어구 선택 상자				
-ITEM_20171212_017246		마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl}- 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능하고 피격에도 내리지 않습니다. {nl}- 탑승 단축키를 이용하여 어디서든 탑승 가능합니다. {nl}- 탑승 버프 이동속도가 6으로 증가합니다.{nl}- 컴패니언을 이용한 스킬을 사용할 수 없습니다.	ITEM_20171207_017203	Right-click to use and register your companion.{nl}This companion can be mounted without the riding skill and you will now dismount when attacked.{nl}Use the shortcut keys to mount it anywhere.{nl}Increases movement speed by 8 when mounted.{nl}Cannot use mounted skills while riding this companion.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl}- 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능하고 피격에도 내리지 않습니다. {nl}- 탑승 단축키를 이용하여 어디서든 탑승 가능합니다. {nl}- 탑승 버프 이동속도가 4로 증가합니다.{nl}- 컴패니언을 이용한 스킬을 사용할 수 없습니다.	
+ITEM_20171218_017246	Attribute Points: 500 (14 Days)	특성 포인트 500 (14일)				
+ITEM_20171222_017247	Lv 10 Enhancement Card	Lv10 강화용 카드				
+ITEM_20171222_017248	A card used to enhance a card. Increases a card's EXP by 5,400.	카드를 강화할 때 사용하는 강화용 카드입니다. 카드의 경험치를 5400 만큼 상승시킵니다.				
+ITEM_20171222_017249	New Year's Soup (3 Days)	떡국(3일)				
+ITEM_20171222_017250	Eating a bowl of this soup is said to make you one year older.{nl}Use in a party to increase the EXP gains of all party members by 15% for 30 minutes.	 신년을 맞아 끓인 떡국입니다. 많이 먹으면 빨리 한 살 더 먹을 수도 있다는 이야기가 있습니다. {nl} 다른 유저와 파티중일 때 사용시 30분간 파티원 전체에게 경험치 15% 증가의 효과를 줍니다.				
