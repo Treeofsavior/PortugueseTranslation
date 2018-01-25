@@ -18056,7 +18056,7 @@ ETC_20151224_018051	With Resurrection, you are able to resurrect your character 
 ETC_20151224_018052	There are different options on how to resurrect.{nl} {nl}- Respawn from nearest Revival Point : Revive in the starting location of the map. For dungeons, you will revive outside its entrance.{nl} {nl}- Resurrect using Soul Crystals : Your character will resurrect at the exact location where it became incapable of combat. Using this option, 1 Soul Crystal will be used up from your inventory.	 상태에선 부활 방법을 선택할 수 있습니다.{nl} {nl}-가까운 부활 지점에서 다시하기: 해당 지역의 시작 부분에서 되살아납니다. 던전에서는 던전 밖 입구에서 부활하게 됩니다.{nl} {nl}-소울 크리스탈로 부활하기: 캐릭터가 전투 불능이 된 자리에서 되살아납니다. 인벤토리의 소울 크리스탈이 1개 소모됩니다.	ETC_20150717_013296	- you can select from different options to revive. {nl}{nl} - Respawn from nearest Revival Point : Revive in the starting location of the map. For dungeons, you will revive outside its entrance. {nl}{nl} Respawn here : Revive where the character died. Req	 상태에선 부활 방법을 선택할 수 있습니다.{nl} {nl}-가까운 부활 지점에서 다시하기: 해당 지역의 시작 부분에서 되살아납니다. 던전에서는 던전 밖 입구에서 부활하게 됩니다.{nl} {nl}-제자리에서 다시하기: 캐릭터가 사망한 자리에서 되살아납니다. NXP가 1 소모됩니다.{nl}	
 ETC_20151224_018053	{nl} {nl}When you become incapable of combat in dungeons, the gems you possess from your inventory will be dropped to the ground.	{nl} {nl}던전에서 전투 불능이 되면 인벤토리에 소지하고 있던 젬은 바닥에 떨어뜨리게 됩니다.	ETC_20150729_013733	{nl}{nl}Gems in your inventory will be dropped when you die inside a dungeon.	{nl} {nl}던전에서 사망 시 인벤토리에 소지하고 있던 젬은 바닥에 떨어뜨리게 됩니다.	
 ETC_20151224_018054	{nl} {nl}When you purchase	{nl} {nl}TP 샵에서 미리 				
-ETC_20151224_018055	Soul Crystal	소울 크리스탈				레티샤
+ETC_20151224_018055	Soul Crystal	소울 크리스탈				
 ETC_20151224_018056	from the TP Shop in advance, you will be able to resurrect right away to reduce any losses.	을 구매해두면 제자리에서 부활해 손실을 최소화할 수 있습니다.				
 ETC_20151224_018057	{nl} {nl}When you find a character that meets the requirements of a party, press {img mouseclick_right 30 30}{nl}to invite that character to the party.	{nl} {nl}파티 조건에 일치하는 캐릭터를 찾으면 {img mouseclick_right 40 40}으로{nl}파티 초대를 할 수 있습니다.	ETC_20150729_013737	When you find players that match your set up criteria, {nl}{img mouseclick_right 30 30} to invite the player to your party.	파티 조건에 일치하는 캐릭터를 찾으면 {img mouseclick_right 40 40}으로{nl}파티 초대를 할 수 있습니다.	
 ETC_20151224_018058	{nl} {nl}The defense properties have the following resistances.	{nl} {nl}방어 속성은 다음과 같은 상성을 갖고 있습니다.	ETC_20150317_006097	Element attributes have the following compatibilities	방어 속성은 다음과 같은 상성을 갖고 있습니다.	
@@ -20391,7 +20391,7 @@ ETC_20160224_020386	Formats with %s are not used in clientmessage.xml due to mul
 ETC_20160224_020387	Convent Auto Matching	수녀원 랜덤매칭				
 ETC_20160224_020388	Contains a variety of special benefits for all your characters in this server for 30 days. {nl}{img mouseclick_right 30 30} para usar.{nl}[Benefícios do Token]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Taxa de mercado reduzida (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Able to use Premium Gestures	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 30일간 혜택이 적용됩니다.{nl}[토큰 효과]{nl} - 특성 스킬 2개 동시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 5개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 프리미엄 제스쳐 사용 가능{nl} - 개인 거래 30회 가능				
 ETC_20160224_020389	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nl}After a successful enhancement, the Potential of the equipment will reduce by one. {nl}{img mouseclick_right 30 30} para usar.	모루 위에 장비를 놓고 두드리면 성능이 향상됩니다. 포텐셜이 1이상인 장비에만 사용가능 합니다. 실패해도 장비의 포텐셜이 감소하지 않습니다. 강화 성공 시, 장비의 포텐셜이 -1 감소합니다. 마우스 우클릭으로 사용합니다.				
-ETC_20160224_020390	Enchant Scroll	마법 부여 스크롤				레티샤
+ETC_20160224_020390	Enchant Scroll	마법 부여 스크롤				
 ETC_20160224_020391	Adiciona um status aleatório a um traje de cabelo.{nl} Existe a chance de adicionar até 3 opções com 1 único pergaminho.{nl} Não é possível usar este pergaminho em um item equipado.{nl} Clique com o botão direito do mouse para usar.	헤어 코스튬에 사용 시 랜덤한 옵션이 추가됩니다. 옵션은 최대 3개까지 생성될 수 있습니다. 착용하고 있는 장비에는 사용할 수 없습니다. 마우스 우클릭으로 사용합니다.				
 ETC_20160224_020392	100 TP [Evento]	100 TP[증정용]				
 ETC_20160224_020393	Use to obtain 100 TP.	사용 시 100 TP를 획득합니다.				
@@ -31211,24 +31211,3 @@ ETC_20180122_031205	What do I need to do?	진행 방법에 대한 설명을 듣�
 ETC_20180122_031206	{nl}Assigned location: {MAPNAME}. Defeat the monsters there.{nl}Progress: {COUNT} / 100%	 {nl}{MAPNAME}으로 이동하여 몬스터를 처치하시오.{nl}진행률 : {COUNT} / 100 %				
 ETC_20180122_031207	Receive Event Quest	이벤트 퀘스트 받기				
 ETC_20180122_031208	Hunter's Buff	가문 버프				
-ETC_20180124_031209		비밀 제작서-아브도챠				
-ETC_20180124_031210		비밀 제작서-사크미스				
-ETC_20180124_031211		비밀 제작서-스컬 스매셔				
-ETC_20180124_031212		비밀 제작서-리가드 혼 스태프				
-ETC_20180124_031213		비밀 제작서-하트 오브 글로리				
-ETC_20180124_031214		비밀 제작서-스컬 브레이커				
-ETC_20180124_031215		비밀 제작서-에멘가드 대거				
-ETC_20180124_031216		비밀 제작서-윙샤드 스피어				
-ETC_20180124_031217		비밀 제작서-리가드 혼 파이크				
-ETC_20180124_031218		비밀 제작서-블랙 혼				
-ETC_20180124_031219		비밀 제작서-리가드 혼 크로스보우				
-ETC_20180124_031220		비밀 제작서-아스트라 보우				
-ETC_20180124_031221		비밀 제작서-아스파나 리볼버				
-ETC_20180124_031222		비밀 제작서-에멘가드 머스킷				
-ETC_20180124_031223		비밀 제작서-에멘가드 캐논				
-ETC_20180124_031224		비밀 제작서-에멘가드 실드				
-ETC_20180124_031225		비밀 야시장에 대해 알고 있다.				
-ETC_20180124_031226		탈트 10개를 건네준다.				
-ETC_20180124_031227		비밀 야시장으로 들어간다.				
-ETC_20180124_031228		비밀 야시장을 나간다.				
-ETC_20180124_031229		야시장 상인				
