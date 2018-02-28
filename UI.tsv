@@ -2650,8 +2650,8 @@ UI_20170420_002649	Você pode armazenar itens negociáveis.{nl}Armazenar Silver 
 UI_20170420_002650	{@st41b}Este cubo não pode ser reaberto.{/}	{@st41b}한번 더 열기를 할 수 없는 큐브입니다.{/}				
 UI_20170420_002651	{@st41}Abra o cubo do traje	{@st41}코스튬 큐브  열기				
 UI_20170420_002652	{@st66b}Use para obter um traje.{/}	{@st66b}코스튬을 얻을 수 있습니다.{/}				
-UI_20170510_002653	* Após o reset, você receberá pontos de atributo{nl}equivalentes ao nível de seus atributos antes do reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 특성 포인트를 돌려드립니다.	UI_20161221_002520	* Níveis de atributo comprados antes do reset{nl}podem ser aprendidos novamente sem nenhum custo após o reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 다시 올릴 경우 실버가 소모되지 않습니다.	
-UI_20170510_002654	* EXP Cards de Classe equivalente ao último Nível de Classe {nl} que você atingiu serão enviados para o seu inventário.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.	UI_20161221_002521	* EXP cards equivalent to the last Rank to have achieved{nl}	* 마지막 달성한 	
+UI_20170510_002653	* Após o reset, você receberá pontos de atributo{nl}equivalentes ao nível de seus atributos antes do reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 특성 포인트를 돌려드립니다.				
+UI_20170510_002654	* EXP Cards de Classe equivalente ao último Nível de Classe {nl} que você atingiu serão enviados para o seu inventário.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.				
 UI_20170615_002655	{@st42b}Abrir Cubo secreto da Leticia. X %s	{@st42b}레티샤 큐브 X %s 열기	UI_20161108_002446	{@st42b}Abrir Cubo Secreto da Leticia X %s	{@st42b}레티샤의 비밀 큐브 X %s 열기	
 UI_20170615_002656	{@st43}{s22}Cubo de Receitas{/}	{@st43}{s22}레시피 큐브{/}				
 UI_20170615_002657	{@st41}Selecione uma e confirme{/}	{@st41}레시피를 선택 후 확인을 눌러주세요{/}				
@@ -2984,3 +2984,31 @@ UI_20180115_002983	{@st66d_y}All items will become untradable (Trade NO, Team St
 UI_20180115_002984	{@st42}All items will remain tradable (Trade YES, Team Storage YES){/}	{@st42}거래 후 모든 아이템 팀 창고 이동 및 거래 가능{/}	UI_20160811_002269	{@st42}The item in question will remain tradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 가능{/}	
 UI_20180115_002985	{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	UI_20170726_002661	{@st66d}Se pelo menos um jogador não for usuário de Token,{nl} após a troca, o item se tornará intransferível.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}	
 UI_20180115_002986	{@st42}Untradable Items (Trade NO, Team Storage NO){/}	{@st42}팀 창고 이동 및 거래 속성이 변경되는 아이템 목록{/}	UI_20160811_002274	{@st42}Lista de itens que se tornarão não-trocáveis após a troca{/}	{@st42}거래 속성이 변경되는 아이템 목록{/}	
+UI_20180208_002987		{@st59}전직 정보 창을 닫습니다{/}	UI_20150317_000086	{@st59}Fechar{/}	{@st59}클래스 정보 창을 닫습니다{/}	
+UI_20180208_002988		획득 아이템				
+UI_20180208_002989		서버				
+UI_20180208_002990		캐릭터명				
+UI_20180208_002991		사유				
+UI_20180208_002992		{@st43}{s24}불량유저 신고				
+UI_20180208_002993		{@st41b}신고				
+UI_20180208_002994		신고합니다.				
+UI_20180208_002995		취소합니다.				
+UI_20180208_002996		{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 속성이 팀 창고 이동 및 거래 불가로 변경됨{/}	UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	
+UI_20180208_002997		초월 성공률 100%				
+UI_20180208_002998		* 초월 성공률이 100%가 아닐 경우 실패 할 수도 있습니다. {nl}실패시 포텐셜이 소모됩니다.				
+UI_20180208_002999		축복받은 조각 추출				
+UI_20180208_003000		{@st59b}축복받은 조각 추출{nl}{@st59s}- 초월아이템에서 축복받은 조각 추출{nl}- 축복받은 조각 추출 재료 : 분해의 망치{nl}- 축복받은 조각 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 축복받은 조각으로 되돌려 받을 수 있습니다. {nl}   : 초월에 사용된 축복석의 90%를 환급 받을 수 있습니다.{nl}- 추출은 초월 2단계이상부터 사용할 수 있습니다.{/}	UI_20170313_002552	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracts Blessed Gems from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Blessed Gems will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Blessed Gems, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재 초월 단계와 잔여 포텐셜에 따라 최소 20% ~ 최대 90%의 초월석을 돌려받습니다. {nl}- 추출은 초월 2단계이상부터 사용할 수 있습니다.{/}	
+UI_20180208_003001		축복받은 조각 추출 결과	UI_20160811_002293	Extraction Results	축복석 추출 결과	
+UI_20180208_003002		{@st43b}{s18}적용효과{/}				
+UI_20180208_003003		{@st43b}{s20}적용효과{/}				
+UI_20180208_003004		{@st59}몬스터 카드 적용 옵션을 봅니다{/}				
+UI_20180208_003005		* 초기화 후 사용하지 않은 랭크 카드, 클래스 경험치 복구 카드가{nl} 있을 경우 랭크 다운을 할 수 없습니다.				
+UI_20180208_003006		* 초기화 시 무기 스왑과 같은 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.				
+UI_20180208_003007		{@st43}{s22}소켓 추가{/}				
+UI_20180208_003008		{@st59}사용을 취소합니다{/}				
+UI_20180208_003009		{@st41}{s20}현재 소켓 현황 :{@st43} %s / {@st43}%s				
+UI_20180208_003010		{@st41}{s20}소켓 추가 가격 : %s				
+UI_20180208_003011		{@st41b}소켓 추가{/}				
+UI_20180208_003012		{@st59}소켓을 추가 합니다.{/}				
+UI_20180208_003013		{@st59}전직 정보{/}	UI_20171128_002971	{@st59}Rank Info{/}	{@st59}랭크 정보{/}	
+UI_20180208_003014		{@st66b}드롭 아이템 이름 표시{/}				
