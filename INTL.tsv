@@ -45,22 +45,22 @@ INTL_20170925_000044	Applies Token benefits to all your characters in the server
 INTL_20170925_000045	Applies Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +30% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 30 times{nl} - 1 extra instance entry for missions and dungeons
 INTL_20170925_000046	Grants Token benefits to all your characters in the server for 60 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 60 times{nl} - 1 extra instance entry for missions and dungeons
 INTL_20170925_000047	Applies Token benefits to all your characters in the server for 7 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +30% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - 1 extra instance entry for missions and dungeons
-INTL_20171013_000048	Special Transformation Scroll?
+INTL_20171013_000048	Special Transformation Scroll
 INTL_20171013_000049	A scroll that lets the user transform.
 INTL_20171013_000050	Use to select one level 315 weapon.
 INTL_20171023_000051	Right-click to obtain the following items.{nl}- Puppy Balloon x1{nl}- Diamond Anvil x1{nl}- Golden Anvil x3{nl}- Silver Anvil x3{nl}- Enhancement Coupon: 100,000 Silver x10{nl}- Attribute Points: 1,000 x1{nl}- Highly Condensed HP Potion x20{nl}- Highly Condensed SP Potion x20{nl}- Lv2 Settlement Support Potion x10{nl}- Goddess Statue x5{nl}- Highly Condensed Movement Speed Potion x5
 INTL_20171103_000052	Cursed Doll Cube
-INTL_20171205_000053	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - One additional entry in missions and dungeons{nl} - Able to use Premium Gestures{nl}
+INTL_20171205_000053	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - One additional entry in missions and dungeon
 INTL_20171205_000054	Grants Token benefits to all your characters in the server for 30 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effects){nl} - Able to use Premium Gestures{nl} - Additional +1 reward from Saalus Missions{nl} - Able to use Personal Trade up to 30 times{nl} - 2 Stone discount on Raid Dungeon entries
 INTL_20171222_000055	Monster Card Album Box
 INTL_20171222_000056	Right-click to obtain the following items:{nl} - Monster Card Album: Red x1{nl} - Monster Card Album: Blue x1{nl} - Monster Card Album: Green x1{nl} - Monster Card Album: Purple x1
-INTL_20180102_000057	Title - 2018 Happy New Year
+INTL_20180102_000057	Título - 2018 Happy New Year
 INTL_20180102_000058	A key given to participants of the 2018 Happy New Year Wishes Greetings event.{nl}It looks like it could open Gold Bars.
 INTL_20180108_000059	A key given to participants of the 2018 Happy New Year Wishes Greetings event.{nl}It looks like it could open a kind of vault.
 INTL_20180108_000060	Received one Lucky Key from the Facebook event!{nl}(December 28, 2017 to January 9, 2018)
 INTL_20180108_000061	Vault
 INTL_20180115_000062	Title given to winners of the Rank Update: 4 New Classes Edition! fanart festival.
-INTL_20180115_000063	Title - New Class Artist
+INTL_20180115_000063	Título - New Class Artist
 INTL_20180115_000064	Title given to winners of the Rank Update: 4 New Classes Edition! fanart festival. Right-click to use.
 INTL_20180122_000065	Goro Box
 INTL_20180123_000066	Hunter's Buff - 1
@@ -72,8 +72,8 @@ INTL_20180123_000071	+60% EXP from hunting monsters
 INTL_20180123_000072	Hunter's Buff - 4
 INTL_20180123_000073	+80% EXP from hunting monsters
 INTL_20180123_000074	Hunter's Buff - 5
-INTL_20180202_000075	Box of Chocolates
-INTL_20180202_000076	A lovely box of handmade chocolates for Valentine's Day. Use to apply +50% EXP gains for 1 hour.
+INTL_20180202_000075	Caixa de Chocolates
+INTL_20180202_000076	Uma linda caixa de chocolates artesanais para o Dia dos Namorados. Use para aplicar +50% de EXP ganhos por 1 hora.
 INTL_20180214_000077	Last Winter Buff
 INTL_20180214_000078	+30% EXP from hunting monsters
 INTL_20180214_000079	Winter Key
@@ -98,33 +98,84 @@ INTL_20180305_000097	 {nl}{CUBE}s opened: {@st66d_y}{s18}{SUM}{/}{/}{nl}Open {@s
 INTL_20180305_000098	 {nl}{CUBE}s opened: {@st66d_y}{s18}{SUM}{/}{/}{nl}Open {@st66d_y}{s18}{COUNT}{/}{/} more Cubes to receive the reward for {@st66d_y}{s18}{BOUNS}{/}{/} Cubes.
 INTL_20180305_000099	Bonus Cube
 INTL_20180312_000100	Title given to winners of the 2nd Anniversary fanart event.
-INTL_20180312_000101	Title - Happy 2nd Anniversary!
+INTL_20180312_000101	Título - Feliz 2° Anversário!
 INTL_20180312_000102	Ttitle given to winners of the 2nd Anniversary fanart event. Right-click to use.
-INTL_20180312_000103	 {nl}You've been assigned to team {@st66d_y}{s18}{TEAM}{/}{/}.{nl}Defeat monsters to collect {@st66d_y}{s18}{ITEM}s{/}{/}.
+INTL_20180312_000103	{nl}You've been assigned to team {@st66d_y}{s18}{TEAM}{/}{/}.{nl}Defeat monsters to collect {@st66d_y}{s18}{ITEM}s{/}{/}.
 INTL_20180312_000104	Item Exchange
 INTL_20180312_000105	Vaivora's Team Challenge
 INTL_20180312_000106	Event Buff
 INTL_20180316_000107	The power of the firecracker has spread to all party members.
 INTL_20180316_000108	Shining Battlebird Egg
-INTL_20180316_000109	2nd Anniversary Firecracker
-INTL_20180316_000110	2nd Anniversary Event item.{nl}Increases movement speed +4, AoE attack ratio +1 and EXP gains +25% of all party members for 30 minutes.
+INTL_20180316_000109	Fogos do 2º Aniversário
+INTL_20180316_000110	Item do Evento 2º Aniversário.{nl}Velocidade de movimento +4, Taxa de Ataque em Área +1 e ganhos de EXP +25% para todos os membros do grupo por 30 minutos.
 INTL_20180316_000111	Event Warp Scroll -  Start 2nd Anniversary Event
 INTL_20180316_000112	An event Warp Scroll.{nl}Use it to move to the 2nd Anniversary Event NPC.
 INTL_20180316_000113	Steam 2nd Anniversary Arm Band
 INTL_20180316_000114	An arm band accessory celebrating 2 years of TOS on Steam.
 INTL_20180316_000115	Smiley Orange
-INTL_20180316_000116	GM Orange's little orange friend. This peculiar orange is known for its many expressions, which makes some people think it was affected by Medzio Diena.
+INTL_20180316_000116	Pequena laranjinha do GM Orange. Essa peculiar laranja é conhecida por suas várias expressões, o que faz algumas pessoas pensarem que ela foi afetada pelo Medzio Diena.
 INTL_20180316_000117	Sardine Coffee
-INTL_20180316_000118	GM Papaya's coffee cup. Although it contains coffee (and a sardine), the cup's contents never spill, much to the amusement of onlookers.
+INTL_20180316_000118	Xícara de Café do GM Papaya. Apesar de conter café (e uma sardinha), o que está em seu interior nunca derrama, para a surpresa dos espectadores.
 INTL_20180316_000119	Spiral Glasses
-INTL_20180316_000120	Dr. No's famous spiral glasses. Wear them with a can of Red Ox in your hand for the best results. Side effects: May cause dizziness.
+INTL_20180316_000120	Famosos óculos espirais do Dr. No. Use-os com uma lata de Red Ox na sua mão para melhores resultados. Efeitos colaterais: Pode causar tontura.
 INTL_20180316_000121	Shining Battlebird Egg Package
 INTL_20180316_000122	Right-click to use and obtain the items.{nl} - Shining Battlebird Egg x1{nl} - Battlebird Feed x50
 INTL_20180316_000123	Shining Penguin Egg Package
 INTL_20180316_000124	Right-click to use and obtain the items.{nl} - Shining Penguin Egg x1{nl} - Sardine x50
 INTL_20180316_000125	Right-click to use and obtain the items.{nl} - Steam 2nd Anniversary Arm Ban x1d{nl} - Leaf Penguin Egg x1{nl} - Enhancement Coupon: 100,000 Silver x10{nl}- Attribute Points: 1,000 x1{nl}- Event Warp Scroll - Start 2nd Anniversary Event x1{nl}- Highly Condensed HP Potion x20{nl}- Highly Condensed SP Potion x20{nl}- Lv2 Settlement Support Potion x10{nl}- 2nd Anniversary Firecracker x5{nl}- Goddess Statue x5{nl}- Highly Condensed Movement Speed Potion x5{nl}- Token: 15 Days [Event]
-INTL_20180326_000126	List of Invited Masters
-INTL_20180326_000127	This document lists all the Class Masters invited to TOS' 2nd anniversary celebrations.{nl}(Will be deleted at the end of the event.)
+INTL_20180326_000126	Lista de Mestres Convidados
+INTL_20180326_000127	Este documento lista todos os Mestres de Classe convidados à celebração do 2º Aniversário do TOS. Clique com botão direito para saber quem é o convidado do dia.{nl}(Será deletada ao final do evento.)
 INTL_20180326_000128	An event Warp Scroll.{nl}Use it to move to the 2nd Anniversary Event NPC.
 INTL_20180326_000129	Title - Honorary TPP Reporter
 INTL_20180326_000130	A title given to honorary reporters of The Popolion Post. Right-click to use.
+INTL_20180402_000131	A cute balloon puppy. Be careful around spiky things with it.
+INTL_20180402_000132	Daemon State Record Y/N [True:1, False:0]
+INTL_20180406_000133	Title given to players who have collected the [Event] Revelations. Right-click to use.
+INTL_20180406_000134	[Evento] Revelação da Crystal Mine
+INTL_20180406_000135	An event Revelation.{nl}Can be exchanged for a title at the Event Notice Board.
+INTL_20180406_000136	Título - Revelador da Crystal Mine
+INTL_20180406_000137	Retire o título "Revelador da Crystal Mine" primeiro.
+INTL_20180406_000138	Receber Título
+INTL_20180406_000139	Receber Buff
+INTL_20180406_000140	A 1° Revelação: Crystal Mine
+INTL_20180418_000141	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro
+INTL_20180420_000142	Fedimian's Hero Cube
+INTL_20180420_000143	A cube awarded to the brave heroes who saved Fedimian from the monsters.{nl} Você pode conseguir os seguintes itens aleatoriamente:{nl}- Secret Recipe Selection Box (14 Days) x1{nl}- Goddess’ Blessed Gem x1{nl}- Golden Anvil (14 Days) x1{nl}- Attribute Points: 1000 x1{nl}- Blessed Shard x1{nl}- Instanced Dungeon Reset Voucher (14 Days) x1{nl}- Attribute Points: 500 x1{nl}- Enchant Scroll (14 Days) x1{nl}- Instanced Dungeon 1 Entry Voucher(14 Days) x1{nl}- Goddess Sculpture (14 Days) x1{nl}- Fortune Cookie x1{nl}- EXP Tome (14 Days) x1{nl}- Condensed Keista Protective Potion x1{nl}- Keistas Bravery Potion x1{nl}- Miracle Seeds (3 Days) x1
+INTL_20180503_000144	[Survey Event]{nl}   Prize Manager
+INTL_20180514_000145	Rainbow Trek
+INTL_20180514_000146	Unable to use skills.{nl}Returning to the city map in 60 minutes.
+INTL_20180514_000147	Attribute Points Box Rank S (x3)
+INTL_20180514_000148	A box that contains 3 Rank S Attribute Points Boxes. Right-click to obtain. 
+INTL_20180514_000149	Artisan Diamond Anvil Box
+INTL_20180514_000150	A box containing 5 Diamond Anvils. Right-click to use and obtain the items.
+INTL_20180514_000151	Artisan Weapon Secret Recipe Box (Lv. 315)
+INTL_20180514_000152	Select a Lv 315 recipe that can be crafted with fewer materials. Right-click to use.
+INTL_20180514_000153	Artisan Secret Recipe - Abdochar
+INTL_20180514_000154	Artisan Secret Recipe - Sarkmis
+INTL_20180514_000155	Artisan Secret Recipe - Skull Smasher
+INTL_20180514_000156	Artisan Secret Recipe - Regard Horn Staff
+INTL_20180514_000157	Artisan Secret Recipe - Heart of Glory
+INTL_20180514_000158	Artisan Secret Recipe - Skull Breaker
+INTL_20180514_000159	Artisan Secret Recipe - Emengard Dagger
+INTL_20180514_000160	Artisan Secret Recipe - Wingshard Spear
+INTL_20180514_000161	Artisan Secret Recipe - Regard Horn Pike
+INTL_20180514_000162	Artisan Secret Recipe - Black Horn
+INTL_20180514_000163	Artisan Secret Recipe - Regard Horn Crossbow
+INTL_20180514_000164	Artisan Secret Recipe - Astra Bow
+INTL_20180514_000165	Artisan Secret Recipe - Aspana Revolver 
+INTL_20180514_000166	Artisan Secret Recipe - Emengard Musket
+INTL_20180514_000167	Artisan Secret Recipe - Emengard Cannon
+INTL_20180514_000168	Artisan Secret Recipe - Emengard Shield
+INTL_20180523_000169	Grants Token benefits to all your characters in the server for 60 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl}- Movement speed +3{nl} - +50% EXP from hunting monsters{nl}(Stacks with EXP Tome effects){nl}- Team Storage slots +30{nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 60 times
+INTL_20180523_000170	Grants Token benefits to all your characters in the server for 7 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl}- Movement speed +3{nl} - +50% EXP from hunting monsters{nl}(Stacks with EXP Tome effects){nl}- Team Storage slots +30{nl} - Able to use Premium Gestures
+INTL_20180525_000171	Use to obtain the following costumes.{nl} - The Invited One Costume (Male){nl} - The Invited One Costume (Female)
+INTL_20180615_000172	A title given to the most creative TPP players. Right-click to use.
+INTL_20180615_000173	Cursed Spirit Owner
+INTL_20180615_000174	Cursed Spirit
+INTL_20180615_000175	Show it to the Dispatched Soldier to enter the area of the Cursed Altar.{nl}Alternatively, use to increase movement speed +2, physical attack +50 and magic attack +50 for 10 mins.
+INTL_20180615_000176	You can't go past this point without a Cursed Spirit.
+INTL_20180615_000177	Cursed Spirits come from the monsters that roam around this place. Good luck getting one.
+INTL_20180615_000178	Voice in the Distance
+INTL_20180615_000179	The Stone Whale can only be awakened through a Cursed Spirit...
+INTL_20180615_000180	I have a Cursed Spirit.
+INTL_20180615_000181	{Name} despertou a Cursed Stone Whale.

@@ -1249,7 +1249,6 @@ QUEST_UNUSED_20151022_001248	I was once lost in a forest and I was really thirst
 QUEST_UNUSED_20151022_001249	I don't know what was done to it, but I think it can be used for drinkable water.{nl}Now, the water started to surface so we should have the water.{nl}Can you gather the fruit juice from the ferrets? I am counting on you.
 QUEST_UNUSED_20151022_001250	We are in trouble. While you were out to obtain the fruit juice, ferrets attacked the village and stole the food.{nl}It won't work this way. Even if we retrieve the food, the ferrets will attack the village again.{nl}I will fix the bad habit of the ferrets this time.{nl}
 QUEST_UNUSED_20151022_001251	Look for the food which the ferrets have stolen and spice it with the red water.{nl}The ferrets that consumed it will suffer from pain and will not ever come back to steal food again.{nl}
- 그걸 먹은 페릿은 다신 식량을 훔치러 오지 않을 걸요?{nl}일단 오염된 붉은 물을 떠다주세요.{nl}오염된 붉은 물은 마을 구석에 있는 오래된 우물에서 뜰 수 있어요.	마을 주민
 QUEST_UNUSED_20151022_001252	The polluted red water can be obtained from the well down there.{nl}Please pollute the food that was stolen by the ferrets with the red water.{nl}Especially, you should pollute the beef jerkies. Ferrets really love beef jerkies.
 QUEST_UNUSED_20151022_001253	I know it doesn't feel good to pollute the food, but...{nl}That is the best way in the long term.
 QUEST_UNUSED_20151022_001254	We can call this kind of situation one step back and two steps forward.{nl}I hope the ferrets enjoy the beef jerkies and never come back again.
@@ -1275,14 +1274,12 @@ QUEST_UNUSED_20151022_001273	Save Lada who is captured in Seir Rainforest and st
 QUEST_UNUSED_20151022_001274	Ah... I didn't expect I would see a human here...! Please help me!{nl}I am called Druid Benes. I am trying to find the reason why the ferrets are coopering with the demons.{nl}Recently, I found out that I will be able to talk to the ferrets using the spell of the Druids.{nl}
 QUEST_UNUSED_20151022_001275	But, the problem is that I touched the ferrets too many times while looking for other methods.{nl}Even if I turn into a ferret, they attack me as if they remember my odor.{nl}Can you turn into a ferret on behalf of me and find out about their plans?{nl}
 QUEST_UNUSED_20151022_001276	You would be able to talk with the ferrets naturally. {nl}Talk with the ferrets and find out why they are cooperating with the demons.
-아마 페릿 부족과 자연스럽게 대화도 가능할겁니다. {nl}페릿 부족과 대화해서 페릿이 마족 편에 동조하고 있는 이유를 알아봐 주세요.	드루이드 베네스
 QUEST_UNUSED_20151022_001277	Did the ferrets really tell you so? Of course, I think there's no reason they should lie...{nl}But, I can't believe it... The ferrets were once very kind.{nl}We were good with the ferrets until the demons came here. They spontaneously attacked us...{nl}
 QUEST_UNUSED_20151022_001278	I should find out how much hostility the ferrets have towards humans.{nl}I will try to turn a piece of wood into the appearance of a wounded villager.{nl}When you set this wood, it would look like a wounded villager to anyone.{nl}Set this near the ferrets and find out if the ferrets attack.
 QUEST_UNUSED_20151022_001279	If the ferrets even attack the wounded villager, that will be really dangerous...
 QUEST_UNUSED_20151022_001280	Did the ferrets attack the woods with the spell?{nl}That's not good. That means the ferrets attack humans indiscriminately...
 QUEST_UNUSED_20151022_001281	It became apparent as a result of the experiment. The ferrets are dangerous now.{nl}However, since we can't fight against all the ferrets, We should kick them out from the village.{nl}
 QUEST_UNUSED_20151022_001282	I possess some terrible odor which the ferrets don't like.{nl}Light up a bonfire and when you burn the terrible odor, the ferrets will run away after smelling the odor.{nl}Please spread the odor near Bellai Forest Village where the villagers are gathered around.{nl}The odor is little... disgusting to humans so please keep that in mind...
-하지만 당장 페릿을 어떻게 할 수가 없으니 쫓아내기라도 해야겠어요.{nl}저에게 페릿들이 싫어하는 지독한 향이 있어요.{nl}모닥불을 피워두고 지독한 향을 태우면 페릿들이 냄새를 맡고 도망갈겁니다.{nl}사람한테도 조금.. 고약한 냄새지만 참고 부탁드리겠습니다..	드루이드 베네스
 QUEST_UNUSED_20151022_001283	I guess we should make more incense.{nl}Since we don't know when the effects of the incense would run out.
 QUEST_UNUSED_20151022_001284	Was the smell terrible?{nl}Thanks. Now, the ferrets wouldn't be able to come near the village.{nl}I feel bad because I had used the terrible odor on the ferrets due to the bad tricks of the demons.{nl}When I go back to the village, I should look for a way to restore the ferrets to their original state with Dievdirbys Widas.
 QUEST_UNUSED_20151022_001285	Thank you for saving me...{nl}Although weak, I can feel the power of Laima in you...{nl}You are the savior who Laima talked about before...{nl}
@@ -3257,10 +3254,3 @@ QUEST_UNUSED_20161214_003253	You came back.{nl}How did it go?{nl}
 QUEST_UNUSED_20161214_003254	A weaver?{nl}I told you it was the ghosts.{nl}
 QUEST_UNUSED_20161214_003255	The ghosts got weakened by my powder and they called upon the monster.{nl}You've passed your first test, the young one.{nl}
 QUEST_UNUSED_20161214_003256	You should be proud, you did pass the test given forth by the GREAT Munchausen.
-QUEST_UNUSED_20170330_003257	I can see your passion, but what about your abilities? {nl}Bring me Phyracon Fragments and Red Infrorocktor Shell Fragments from the Mage Tower.
-QUEST_UNUSED_20170330_003258	The Wizard Master considers effort as the most important. Collect Phyracon Fragments and Red Infrorocktor Shell Fragments from the Mage Tower.
-QUEST_UNUSED_20170330_003259	Red Infrorocktor Shell Fragment
-QUEST_UNUSED_20170330_003260	Use the provoking orb at the Penitence Route in the Great Cathedral
-QUEST_UNUSED_20170330_003261	The Swordsman Master taught you that courage to protect allies is very important. Provoke the monsters using the provoking orb at the Penitence Route in the Great Cathedral and defeat them.
-QUEST_UNUSED_20170330_003262	Gather Charcoal Stones from Penitence Route
-QUEST_UNUSED_20170330_003263	The Fletcher Master is asking you to gather good quality Charcoal Stones. Get them from Penitence Route.{nl}
