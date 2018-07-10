@@ -473,9 +473,13 @@ QUEST_LV_0400_20161005_000472	Nobody seems to know the location{nl}of the myster
 QUEST_LV_0400_20161005_000473	The Cave of Legends : Revised Edition Volume 2
 QUEST_LV_0400_20161005_000474	The reasoning behind selecting{nl}the particular locations is as follows.{nl}{nl}The masses are only a little less interested{nl}about riches such as treasure and gold{nl}than they are about the Goddesses.{nl}{nl}We will now go on to the hidden Royal Mausoleum.
 QUEST_LV_0400_20161005_000475	Chapter 2 : Legends of the Hidden Royal Mausoleum{nl}-{nl}The Great Woodlands have been used by the nobles and public alike{nl}as hunting grounds or refuge thanks to their lush vegetation.{nl}As such, it is an inevitability that people have experience.{nl}However, the funny thing is{nl}there is no account related to the royal family.{nl}According to some rumors,{nl}the reason for lack of accounts is because after Taniel II era.{nl}Many offerings were buried in the secret mausoleum.
+	
+{nl}그런데 이상하게도 왕실과 관련된{nl}이야기는 없는데 그 이유가{nl}타니엘 2세 시대에 이곳에{nl}비밀 왕릉을 만든 후 엄청난{nl}부장품을 함께 묻었기 때문이라는{nl}소문이 있습니다.	
 QUEST_LV_0400_20161005_000476	What I am saying is that{nl}the Royalty seemed to leave this place alone{nl}as there was a secret place here.
 QUEST_LV_0400_20161005_000477	To be frank, record of Taniel the Second's funeral{nl}are extremely sparse{nl}which lends extra credibility to these claims.{nl}That is because the other funerals{nl}had some sort of records{nl}no matter how small.{nl}However, even if these claims are true{nl}the Mausoleum will never see the light of day.
 QUEST_LV_0400_20161005_000478	The location of the secret mausoleum remains hidden{nl}for it is almost impossible to avoid{nl}the gaze of  Goddess Medeina.{nl}That is why even if the rumors are true, it is likely that it will remain just a legend.
+	
+아무리 깊은 숲속에서 몰래{nl}왕릉의 위치를 캐고 다니고 싶어도{nl}대삼림지대를 돌보시는 {nl}메데이나 여신의눈을{nl}피하기는 어렵기 때문입니다.{nl}그러므로 이 소문은 설령{nl}사실이라도 영원히 전설로만{nl}남을 것 같습니다.	
 QUEST_LV_0400_20161005_000479	The Cave of Legends : Revised Edition Volume 3
 QUEST_LV_0400_20161005_000480	The reasoning behind selecting{nl}the particular locations is as follows.{nl}{nl}The masses are only a little less interested{nl}about riches such as treasure and gold{nl}than they are about the Goddesses.{nl}{nl}We will continue with the legends of the Golden Veins of Barconsi.
 QUEST_LV_0400_20161005_000481	Chapter 3 : The Golden Veins of Barconsi{nl}-{nl}There are tales that there is a legendary gold vein{nl}in the rural mountains of the Kingdom.{nl}It is said that a demon had found this vein{nl}and a hero defeated the demon before claiming it.
@@ -704,7 +708,7 @@ QUEST_LV_0400_20161005_000703	The lad is more agreeable than I thought he would 
 QUEST_LV_0400_20161005_000704	We will install notifications on the new boundary.{nl}I think that setting one at Pastoghe Bend, Collegia Crossing and Paccituche Trail should be enough.
 QUEST_LV_0400_20161005_000705	{nl}You have done well as mediator.{nl}I give my word that I will take care of the refugees.
 QUEST_LV_0400_20161005_000706	I don't like the results, but what can be done?{nl}The Ryudhas also had some good points in their arguements.
-QUEST_LV_0400_20161005_000707	The Kukheri Tribe and demons...{nl}Investigating Syla Forest has become much more dangerous.
+QUEST_LV_0400_20161005_000707	The Kugheri Tribe and demons...{nl}Investigating Syla Forest has become much more dangerous.
 QUEST_LV_0400_20161005_000708	What I am attempting to do has the lives of many people on the line.{nl}However, it is... extremely difficult. I would appreciate it if I could get some help but...
 QUEST_LV_0400_20161005_000709	I can't believe I am receiving the help of a Revelator here. It seems as if the Goddesses have not forsaken the Kingdom yet.
 QUEST_LV_0400_20161005_000710	I think that the ancient knowledge from the Royal Mausoleum of Taniel the Second will help the reconstruction of the Kingdom.
@@ -719,12 +723,12 @@ QUEST_LV_0400_20161005_000718	Thank you.{nl}We sprinkled liquid that the Kugheri
 QUEST_LV_0400_20161005_000719	{nl}It is said that the Syla Dandelion holds dew in it's flowers.{nl}Could you please gather the dew from the flowers?
 QUEST_LV_0400_20161005_000720	Please bring me the dew from Syla Dandelions.
 QUEST_LV_0400_20161005_000721	Thank you.{nl}We'll be able to rest a bit easier thanks to you.
-QUEST_LV_0400_20161005_000722	{nl}While I realize that this may be rude... I must ask... {nl}Looking at your skill and appearance... Are youa Revelator?
+QUEST_LV_0400_20161005_000722	While I realize that this may be rude... I must ask... {nl}Looking at your skill and appearance... Are you a Revelator?
 QUEST_LV_0400_20161005_000723	I thought you might be.{nl}I have heard many stories.
 QUEST_LV_0400_20161005_000724	{nl}This is an honor.{nl}If you are a Revelator, I should tell you my real mission.
 QUEST_LV_0400_20161005_000725	Marcus
 QUEST_LV_0400_20161005_000726	Do not approach...!{nl}This person is on an important mission!
-QUEST_LV_0400_20161005_000727	Kukheri Tribe...{nl}They have become much stronger in a short time...
+QUEST_LV_0400_20161005_000727	The Kugheri Tribe...{nl}They have become much stronger in such short time...
 QUEST_LV_0400_20161005_000728	I have heard many rumors...{nl}I hope that you will find it in your heart to help...
 QUEST_LV_0400_20161005_000729	You are already being trusted by many people...{nl}You will be able to earn the trust of Royalty if you help with this mission.
 QUEST_LV_0400_20161005_000730	Let me introduce myself once more.{nl}I am not an adventurer.
@@ -1033,7 +1037,7 @@ QUEST_LV_0400_20161005_001032	Perhaps, that farm was not meant for you. How abou
 QUEST_LV_0400_20161005_001033	Forgotten Refugees
 QUEST_LV_0400_20161005_001034	I will go get some help.
 QUEST_LV_0400_20161005_001035	Explaining the situation of Mishekan Forest
-QUEST_LV_0400_20161005_001036	Informing that the news has been delievered to Uska of Klaipeda
+QUEST_LV_0400_20161005_001036	Informing that the news has been delivered to Uska of Klaipeda
 QUEST_LV_0400_20161005_001037	Alembique Tales
 QUEST_LV_0400_20161005_001038	Talk to Kedoran Alliance Merchant Alta
 QUEST_LV_0400_20161005_001039	Kedoran Alliance Merchant Alta is looking some help.
@@ -1472,17 +1476,17 @@ QUEST_LV_0400_20161214_001473	Demon Treaty (1)
 QUEST_LV_0400_20161214_001474	Using the power of fate...
 QUEST_LV_0400_20161214_001475	The magic barrier was disabled and the treaty revealed itself.{nl}To obtain the demon treaty, collect the Impure Blood of Yudejan.
 QUEST_LV_0400_20161214_001476	Demon Treaty (2)
-QUEST_LV_0400_20161214_001477	You have collected the Impure Blood of Yudejan.{nl}Go to the red magic circle in Tamsus Way.
+QUEST_LV_0400_20161214_001477	You have collected the Impure Blood of Yudejan.{nl}Go to the Red Magic Circle in Tamsus Way.
 QUEST_LV_0400_20161214_001478	Demon Treaty (3)
-QUEST_LV_0400_20161214_001479	The evil energy became stronger with the impure blood of Yudejan.{nl}Go to Tamsus Ikeitimas and find the token of the demon treaty.
+QUEST_LV_0400_20161214_001479	The evil energy became stronger with the impure Blood of Yudejan.{nl}Go to Tamsus Ikeitimas and find the token of the Demon Treaty.
 QUEST_LV_0400_20161214_001480	Demon Treaty (4)
 QUEST_LV_0400_20161214_001481	Adding evil energy...
-QUEST_LV_0400_20161214_001482	Acquiring the demon treaty...
-QUEST_LV_0400_20161214_001483	The demon treaty is now in your hands.{nl}Return to the site of the treaty seal.
+QUEST_LV_0400_20161214_001482	Acquiring the Demon Treaty...
+QUEST_LV_0400_20161214_001483	The Demon Treaty is now in your hands.{nl}Return to the site of the treaty seal.
 QUEST_LV_0400_20161214_001484	Goddess Treaty (1)
 QUEST_LV_0400_20161214_001485	Opening the demon seal...
 QUEST_LV_0400_20161214_001486	You have released the demon seal.{nl}As told by the Prophecy Tome, go to Sviesos Way and find the Goddess' Stone of Faith.
-QUEST_LV_0400_20161214_001487	You have found the Goddess' Stone of Faith.{nl}Go to Tamsus Ikeitimas and obtain the token of the goddess treaty.
+QUEST_LV_0400_20161214_001487	You have found the Goddess' Stone of Faith.{nl}Go to Tamsus Ikeitimas and obtain the token of the Goddess Treaty.
 QUEST_LV_0400_20161214_001488	Goddess Treaty (1)
 QUEST_LV_0400_20161214_001489	Acquiring the goddess treaty...
 QUEST_LV_0400_20161214_001490	The goddess treaty is now in your hands.{nl}Return to the site of the treaty seal.
@@ -1555,9 +1559,9 @@ QUEST_LV_0400_20161214_001556	Prophecy Tome: once every light is shining in a di
 QUEST_LV_0400_20161214_001557	Defeat Monsters to Obtain the Impure Blood of Yudejan
 QUEST_LV_0400_20161214_001558	Prophecy Tome: an evil offering is required to obtain the demon treaty. Of course, I don't expect you to be carrying around any evil objects. It may not be the best option, but I believe you can get some evil energy from monster blood. First, hunt the monsters to collect their blood.
 QUEST_LV_0400_20161214_001559	Imbue the Impure Blood of Yudejan with Demon Energy
-QUEST_LV_0400_20161214_001560	Prophecy Tome: the Yudejan blood is not enough. You need more demon energy to have a truly evil offering. The demons left behind some red magic circles in Tamsorce Way. Take the offering and step on the magic circles to infuse it with their evil energy.
+QUEST_LV_0400_20161214_001560	Prophecy Tome: the Yudejan blood is not enough. You need more demon energy to have a truly evil offering. The demons left behind some red magic circles in Tamsorce Way. The demons left behind some red magic circles in Tamsorce Way. Take the offering and step on the magic circles to infuse it with their evil energy.
 QUEST_LV_0400_20161214_001561	Retrieve the Demon Treaty in Tamsus Ikeitimas
-QUEST_LV_0400_20161214_001562	Prophecy Tome: only after the offering is complete can you obtain the demon treaty. The treaty is in Tamsus Ikeitimas.
+QUEST_LV_0400_20161214_001562	Prophecy Tome: only after the offering is complete can you obtain the demon treaty. The treaty is in Tamsus Ikeitimas.
 QUEST_LV_0400_20161214_001563	Retrieve the Demon Treaty
 QUEST_LV_0400_20161214_001564	You have defeated the demon coveting the treaty. Use the impure blood of Yudejan again to obtain the demon treaty.
 QUEST_LV_0400_20161214_001565	Defeat the %s Coveting the Treaty
@@ -1580,7 +1584,7 @@ QUEST_LV_0400_20161214_001581	Ask Kupole Lenja about how to read the contents of
 QUEST_LV_0400_20161214_001582	Use the Yudejan Altar to Read the Treaty
 QUEST_LV_0400_20161214_001583	Place the treaty slate onto the Yudejan Altar and use the tokens of the demon and goddess treaties to read the contents of the main treaty. Go to the Yudejan Altar and read the treaty.
 QUEST_LV_0400_20161214_001584	You have read the contents of the treaty. Return to Kupole Lenja.QUEST_LV_0400_20161221_001585
-QUEST_LV_0400_20170313_001591	You have found the Goddess' Stone of Faith.{nl}Go to Tamsus Ikeitimas and obtain the token of the goddess treaty.
+QUEST_LV_0400_20170313_001591	You have found the Goddess' Stone of Faith.{nl}Go to Tamsus Ikeitimas and obtain the token of the goddess treaty.
 QUEST_LV_0400_20170313_001592	Remove the Mysterious Demon Device
 QUEST_LV_0400_20170313_001593	Kedoran Alliance Merchant Alta has asked you to remove the demon devices affecting the area of Alembique Cave.
 QUEST_LV_0400_20170313_001594	You have removed all mysterious demon devices as requested. Report back to Alta.
@@ -1591,3 +1595,1513 @@ QUEST_LV_0400_20170313_001598	The owner of the trap has appeared. Wait until the
 QUEST_LV_0400_20170330_001605	Thank you. The Kugheri Zabbis were hiding something...{nl}They could be hiding the orders.{nl}
 QUEST_LV_0400_20170330_001606	Please bring me the orders from the Kugheri Zabbis on the road to Stabhas Lot.
 QUEST_LV_0400_20170330_001607	You have found orders written by demons on the body of a Kugheri Zabbi. Indraja might know what it is about so take it to her.
+QUEST_LV_0400_20171128_001608	Let's follow them.
+QUEST_LV_0400_20171128_001609	It's unpleasant but I'll go pollute the holy water with the demon's blood.
+QUEST_LV_0400_20171128_001610	Let's go to Ziureti Hall.
+QUEST_LV_0400_20171128_001611	Really...I can hear music!{nl}It's putting my mind at ease...
+QUEST_LV_0400_20171128_001612	Oh...Goddess Medeina!{nl}You are always by my side.
+QUEST_LV_0400_20171128_001613	Goddess Medeina used the trees to sow a song that she could pass on to the priests.{nl}The priests would then break down the metaphorical lyrics to grasp the Goddess' true meaning. 
+QUEST_LV_0400_20171128_001614	We also need to think about the message behind these lyrics.{nl}Yet, the red pollen from these blooming flowers is so calming...
+QUEST_LV_0400_20171128_001615	Ah! I understand the meaning.
+QUEST_LV_0400_20171128_001616	I heard people living in Teresh Forest used Teresh Pollen to purify blood.{nl}When the pollen was needed, rather than waiting for it to bloom, they would sprinkle Atti Yellow Juice on it to quickly collect the pollen. Because of this, the flowers appear yellow.
+QUEST_LV_0400_20171128_001617	Maybe the Goddess is telling us to sprinkle Atti Yellow Juice on Teresh flowers to collect their pollen.
+QUEST_LV_0400_20171128_001618	Atti appear a lot in Skausmas Crossroads and Gydymo Lot.
+QUEST_LV_0400_20171128_001619	If you defeat the monsters inhabiting Teresh Forest, you'll be able to find the Yellow Juice.
+QUEST_LV_0400_20171128_001620	You've returned with the Atti Yellow Juice. 
+QUEST_LV_0400_20171128_001621	After spraying the Teresh flower with the Atti Yellow Juice the pollen can be collected.{nl}The flower will die shortly after being sprayed so you must collect it quickly.
+QUEST_LV_0400_20171128_001622	In the meantime, I'll collect some Teresh Pollen from Valta Garden.
+QUEST_LV_0400_20171128_001623	You've collected the Teresh Pollen.{nl}But there's no reaction. We must be missing something.
+QUEST_LV_0400_20171128_001624	That's it!{nl}There may be a response if we sprinkle the pollen around the tree.
+QUEST_LV_0400_20171128_001625	The white apple...? I'm not sure of the meaning, but the number of trees humming seems to be growing.{nl}Maybe the trees are all singing the same song.
+QUEST_LV_0400_20171128_001626	Let's go examine the trees in Skauda Lot.
+QUEST_LV_0400_20171128_001627	The nightly glimmer carried out through to daytime, now my heart is open wide...?
+QUEST_LV_0400_20171128_001628	Ah! During the day, people of the Great Woodlands would crush raspberries and sprinkled them around the forest.{nl} This would cause the Starlight to appear. 
+QUEST_LV_0400_20171128_001629	Like this, they could gather the Starlight together and predict people's fortunes.{nl}So, if we use the raspberry scent to direct the Starlight to the singing trees, we'll be able to receive a response like before.
+QUEST_LV_0400_20171128_001630	Wait.{nl}Take this with you.
+QUEST_LV_0400_20171128_001631	It'll be easier to collect Raspberry Juice if you use this bottle.
+QUEST_LV_0400_20171128_001632	I, on the other hand, will look for branches to use to help spread the raspberry smell. 
+QUEST_LV_0400_20171128_001633	You've collected enough Raspberry Juice. Now just wait one moment.
+QUEST_LV_0400_20171128_001634	I've spread the juice evenly on the branches.{nl}If we just fan the branches to spread the raspberry smell, we can direct the starlight to the singing trees and get a response. 
+QUEST_LV_0400_20171128_001635	Slowly seeing evidence of Goddess Medeina makes me feel like we are getting closer to her.
+QUEST_LV_0400_20171128_001636	We've attracted enough starlight, I think...{nl}But still I don't see anything...
+QUEST_LV_0400_20171128_001637	Still, no response...{nl}There must be more to do.
+QUEST_LV_0400_20171128_001638	Yellow apple...{nl}I still don't understand the meaning.
+QUEST_LV_0400_20171128_001639	Maybe we can learn more from the humming trees in Paslepti Lot.
+QUEST_LV_0400_20171128_001640	Goddess Medeina must be talking about the butterflies that come to the flower as the preachers of love.{nl}But "Half of my heart" and "stone"?
+QUEST_LV_0400_20171128_001641	This meaning isn't clear.{nl}Is it really talking about a stone? "Half of my heart" must be about the Goddess's heart...
+QUEST_LV_0400_20171128_001642	Is the stone really just a stone with no other meaning?{nl}If that's true, is the Goddess' heart written on stone?
+QUEST_LV_0400_20171128_001643	I really can't think of the meaning.
+QUEST_LV_0400_20171128_001644	The stone, really is just a stone.
+QUEST_LV_0400_20171128_001645	It seems I was thinking too deeply.
+QUEST_LV_0400_20171128_001646	Ah! You came.{nl}Well, shall we listen to the song?
+QUEST_LV_0400_20171128_001647	We need to collect the different colored apples from the trees and place them on the matching pillars.
+QUEST_LV_0400_20171128_001648	It'll be fine if we just place the colored apple on the matching pillar.
+QUEST_LV_0400_20171128_001649	The ailing Goddess Medeina is recovering in Parias Forest. 
+QUEST_LV_0400_20171128_001650	If it wasn't for you, Traveler, I wouldn't have known where Goddess Medeina disappeared to.{nl} I'm very grateful.
+QUEST_LV_0400_20171128_001651	Well, I'll be going to Parias Forest.{nl}It may be a difficult path but it's where I'll be able to meet the Goddess.
+QUEST_LV_0400_20171128_001652	A Dog with no Owner
+QUEST_LV_0400_20171128_001653	The dog appears to be looking this way.
+QUEST_LV_0400_20171128_001654	Riko why are you back?{nl}Go. I told you to go away...I've already messed up.
+QUEST_LV_0400_20171128_001655	A person coming here...{nl}Leave this place. And tell others that Narvas Temple was attacked.
+QUEST_LV_0400_20171128_001656	Narvas Temple was made by Agailla Flurry to seal the three divided parts of Hauberk.
+QUEST_LV_0400_20171128_001657	The temple's equipment broken down after Medzio Diena, weakening the seal and leaving a small space for Hauberk's energy to escape.
+QUEST_LV_0400_20171128_001658	Hauberk's scouts, who felt the energy, and also those who came to destroy him found themselves at the temple.{nl}{nl}In order to protect it, we went searching for the items needed to repair the temple's equipment.
+QUEST_LV_0400_20171128_001659	But after being attacked we were left like this.{nl}I want to carry out my mission but there's no chance now.
+QUEST_LV_0400_20171128_001660	If it stays like this, Hauberk will return.{nl} Please, in my stead, prevent this. I beg you.
+QUEST_LV_0400_20171128_001661	Right now, the way to Narvas Temple is blocked by Hauberk's scouts and hunters.{nl}Going directly through would be dangerous therefore you'll have to distract them.
+QUEST_LV_0400_20171128_001662	There is a flower called Sporgimo at Tekel Shelter. When burned it creates a huge blast that will help you distract the demon's attention. 
+QUEST_LV_0400_20171128_001663	First, set fire to the Hauberk's hunters' camp to lure them away.{nl}Then if you set a fire near where Hauberk's scouts are guarding, after awhile, they will move to that location.
+QUEST_LV_0400_20171128_001664	Doing it this way will open up a path to Narvas Temple. 
+QUEST_LV_0400_20171128_001665	Make your escape. This place, Izoliacjia Plateau, is overrun with demons.
+QUEST_LV_0400_20171128_001666	I was looking for parts when I was attacked by demons.{nl}Yet, despite the current situation, you have come alone to this place? That is truly amazing.
+QUEST_LV_0400_20171128_001667	{nl}Not too long after my friend left to search for parts, Hauberk's seal broke.{nl}He is currently gathering his scouts and recovering his strength.{nl}Before Hauberk regains his full power I was planning to restore the temple device that prevents the demons from invading Narvas Temple.
+QUEST_LV_0400_20171128_001668	That is why, despite the risk, I am working to restore the defensive system.{nl}But the damage to the system is so great that I do not have time to fix them all.{nl}My plan is to alter the ones that were not badly damaged.
+QUEST_LV_0400_20171128_001669	The defensive systems in Izoliacjia Plateau received the least amount of damage.{nl}I was planning to fix and alter the system, but there is not enough time to go about it alone.{nl}Would you be able to help?
+QUEST_LV_0400_20171128_001670	It is not an easy decision.But it cannot be helped.{nl}I feel like I must ask something difficult of you.
+QUEST_LV_0400_20171128_001671	I would be grateful if you helped.
+QUEST_LV_0400_20171128_001672	Even if we alter the defensive system here it does not have enough energy to protect the temple.{nl}But, we can use Demon Essence as a source of energy.
+QUEST_LV_0400_20171128_001673	Please collect the Demon Essence.{nl}While you do that, I will alter the system.
+QUEST_LV_0400_20171128_001674	While you are collecting the Demon Essence, I will alter the defensive system.
+QUEST_LV_0400_20171128_001675	Is that Demon Essence? Please give it to me.
+QUEST_LV_0400_20171128_001676	I have completed altering the system.{nl}It is time to move on to the defensive system in Ispejimas Lot.
+QUEST_LV_0400_20171128_001677	We need at least 4 defensive systems to protect Narvas Temple.{nl}But, and this is including what we already altered, there are only 3 system that we can alter and use.
+QUEST_LV_0400_20171128_001678	Therefore, we must alter the detector systems here to defensive ones.{nl}{nl}But Agailla Flurry, to ensure the system ran correctly, also installed auxiliary detector systems.
+QUEST_LV_0400_20171128_001679	To change the detectors, the detector and its auxiliary systems must be shut down.{nl}Yet, there are numerous systems. If even one turns back on, the remaining ones will also turn on. Making the task difficult.
+QUEST_LV_0400_20171128_001680	As I will shut down energy to the detector systems, I ask that you, Traveler, turn off all the auxiliary systems.
+QUEST_LV_0400_20171128_001681	I will shut down energy to the detector systems, so I ask that you, Traveler, turn off energy to the auxiliary systems.
+QUEST_LV_0400_20171128_001682	It is completed. We must now alter the defensive systems in Kapetan Pond.
+QUEST_LV_0400_20171128_001683	
+QUEST_LV_0400_20171128_001684	Traveler, are you saying I can leave the demons to you?
+QUEST_LV_0400_20171128_001685	If so, then I will quickly retrieve the parts and return.
+QUEST_LV_0400_20171128_001686	Traveler, thanks to you, I have recovered the necessary parts.{nl}I will now go to repair and alter the defensive system in Kapetan Pond.
+QUEST_LV_0400_20171128_001687	I was just repairing the system when I saw some energy leaving the area around the defensive system.{nl}If all the energy disappears from the defensive system, it will not operate correctly.
+QUEST_LV_0400_20171128_001688	I will alter the defensive system, so during that time please retrieve the escaping energy using the Energy Storing Globe.
+QUEST_LV_0400_20171128_001689	While I alter the defensive system, please retrieve the escaping energy.
+QUEST_LV_0400_20171128_001690	You have returned.{nl}I will now insert the energy.
+QUEST_LV_0400_20171128_001691	Good.{nl}Now we must go to the defensive system located on the way to Narvas Temple.
+QUEST_LV_0400_20171128_001692	This is bad.{nl}This one is overloaded.
+QUEST_LV_0400_20171128_001693	If it continues like this, this defensive system will be completed destroyed.{nl}To cool it down, we need to remove all the energy and turn it off.{nl}If we do not, we will lose the whole system.
+QUEST_LV_0400_20171128_001694	I have a request for you.{nl}When I remove the energy it will escape out.
+QUEST_LV_0400_20171128_001695	At this time, please collect the energy into the Energy Storing Globe.{nl}Then use that energy to reactivate the defensive system.
+QUEST_LV_0400_20171128_001696	I will now turn off the system.{nl}Please wait until I have altered it.
+QUEST_LV_0400_20171128_001697	Monk Aistis is currently altering the defensive system.
+QUEST_LV_0400_20171128_001698	Defensive system alterations are complete.
+QUEST_LV_0400_20171128_001699	To reactive the defensive system we will need to slowly increase the output.{nl}And to increase the output, we will need a lot of energy.
+QUEST_LV_0400_20171128_001700	As I increase the output, I will need you to continually insert all the energy you previously collected.
+QUEST_LV_0400_20171128_001701	Each time the defensive system requires it, insert the energy you just collected.
+QUEST_LV_0400_20171128_001702	The defensive system has activated.
+QUEST_LV_0400_20171128_001703	After checking that the defensive system is working properly, we can leave.
+QUEST_LV_0400_20171128_001704	We nearly left Narvas Temple open to the demons.
+QUEST_LV_0400_20171128_001705	The defensive system seems to be working well. We can make our way back inside.
+QUEST_LV_0400_20171128_001706	Agailla Flurry created various demon suppressing, demon weakening, and defensive systems in Narvas Temple.{nl}This was done to defend against invading demons and those trying to release Hauberk's seal. 
+QUEST_LV_0400_20171128_001707	However, after Medzio Diena these systems were weakened and unable to function properly.{nl}To make matters worse, the demons came and destroyed a few of them.
+QUEST_LV_0400_20171128_001708	We need to prevent other systems from being destroyed while also repairing them to stop Hauberk's return.
+QUEST_LV_0400_20171128_001709	Good.{nl}Let us move on to the demon weakening systems in Atsargus Hall.
+QUEST_LV_0400_20171128_001710	This is good. It seems we have prevented the demons from destroying this system.
+QUEST_LV_0400_20171128_001711	This one can weaken the demon's strength.{nl}If we just alter its functions and reinforce it a bit we can use it to limit their power.{nl}
+QUEST_LV_0400_20171128_001712	It will be okay.{nl}The demons will have no idea that their strength has been weakened.
+QUEST_LV_0400_20171128_001713	I will handle altering the system. Traveler, I need you to collect Strong Essence of Demon that we can use as energy.
+QUEST_LV_0400_20171128_001714	It feels like the demons would notice, but trust him and go collect the Strong Essence of Demon
+QUEST_LV_0400_20171128_001715	Please do not worry yourself, the demons will pay us no mind.
+QUEST_LV_0400_20171128_001716	Reinforcing is complete.{nl} Now on to the systems in Atsargus Hallway.
+QUEST_LV_0400_20171128_001717	Hauberk's scouts have already broken this device.
+QUEST_LV_0400_20171128_001718	Luckily, since the core of the device has not taken too much damage, I will be able to fix and alter it.{nl}However, would you be willing to help me with one part?
+QUEST_LV_0400_20171128_001719	This system, in order to locate unholy beings, runs only on clean essence.{nl}This was to prevent not only demons from coming into the temple but heretics as well. 
+QUEST_LV_0400_20171128_001720	However, since the area is now overrun with demons, it will be more effective if I alter the system to focus simply on them.
+QUEST_LV_0400_20171128_001721	For it to properly track demons, we will need to mix Demon's Blood and Essence together and insert it into the device.{nl}Please collect some tainted essence mixed with Demon's Blood.
+QUEST_LV_0400_20171128_001722	I do understand the unpleasantness of this task.{nl}But this is all to prevent Hauberk's return.
+QUEST_LV_0400_20171128_001723	It will be fine if you just return with Essence mixed with Demon's Blood. 
+QUEST_LV_0400_20171128_001724	Please put in the Essence you collected.
+QUEST_LV_0400_20171128_001725	Wait a minute. Hauberk is over there.{nl}If you run in hastily, he will capture you and do the same thing he did to the others.
+QUEST_LV_0400_20171128_001726	There are too many demons.{nl}It would be better if we first go to Ziureti Hall and check on the system there.
+QUEST_LV_0400_20171128_001727	We do not have time to waste.{nl}We should go now.
+QUEST_LV_0400_20171128_001728	It is extremely dangerous.{nl}They have already passed on.{nl}We must retreat.
+QUEST_LV_0400_20171128_001729	Do you now understand how dangerous this is?{nl}Hauberk could have easily have caught us as well.
+QUEST_LV_0400_20171128_001730	Sigh...{nl}Luckily, you successfully interrupted whatever Hauberk was doing. 
+QUEST_LV_0400_20171128_001731	However, if you were caught, I too would be in danger. 
+QUEST_LV_0400_20171128_001732	Let us not argue and focus on examining the system that is on the way to Ziureti Hall. 
+QUEST_LV_0400_20171128_001733	Unidentified Facility
+QUEST_LV_0400_20171128_001734	Speak with you...I am Agailla Flurry...apparition...
+QUEST_LV_0400_20171128_001735	Deception Hauberk...monk...hypnotize...his side...use you... 
+QUEST_LV_0400_20171128_001736	As he wishes...Hauberk...tired...follow...what I say...
+QUEST_LV_0400_20171128_001737	First...better talk with me...this device...
+QUEST_LV_0400_20171128_001738	...to fix...in Tiesa Hall...Apparition Generator...need...
+QUEST_LV_0400_20171128_001739	The system password...in Agailla Flurry Chronicles...the completed year...
+QUEST_LV_0400_20171128_001740	Narvas Temple...enter locked system password...bring it...put in device...
+QUEST_LV_0400_20171128_001741	The system password...in Agailla Flurry Chronicles...is...Narvas Temple...
+QUEST_LV_0400_20171128_001742	...completed year...enter locked system password...bring it...put in device...
+QUEST_LV_0400_20171128_001743	Agailla Flurry's Spirit
+QUEST_LV_0400_20171128_001744	I wasn't able to convey myself fully, however you still knew to unlock the system, bring the Apparition Generator, and fix the device. I'm impressed.
+QUEST_LV_0400_20171128_001745	You are talking with me, Agailla Flurry's Apparition, also known as the manager of Narvas Temple. 
+QUEST_LV_0400_20171128_001746	I left most of the tasks to the monks, but since the three Hauberks woke up and you have arrived, I've decided to intervene.
+QUEST_LV_0400_20171128_001747	Monk Aistis' fear of dying at the hands of Ambition Hauberk left his mind weak.{nl}This made it easier for Deception Hauberk to hypnotize Aistis and gain the upper hand.
+QUEST_LV_0400_20171128_001748	Deception Hauberk did not anticipate your arrival.{nl}However, after you met Monk Aistis in Izoliacjia Plateau, Deception Hauberk decided to use you aswell.
+QUEST_LV_0400_20171128_001749	You were fooled by Deception Hauberk, but the tables have turned. 
+QUEST_LV_0400_20171128_001750	In this temple is the ruthless, highly ambitions, but non-resourceful, Ambition Hauberk. 
+QUEST_LV_0400_20171128_001751	The constantly suspicious, concerned with preservation and always careful, is Suspicion Hauberk. 
+QUEST_LV_0400_20171128_001752	For thousands of years, preparing but not revealing his true intentions to the others, is Deception Hauberk.
+QUEST_LV_0400_20171128_001753	To become whole they are keeping each other in check, under contact that they will not involve themselves in each others work.{nl}However, little by little Deception Hauberk is shifting the balance.
+QUEST_LV_0400_20171128_001754	The problem is Deception Hauberk is taking the lead to return to his former self, Demon Lord Hauberk. 
+QUEST_LV_0400_20171128_001755	If this happens we will not be able to stop Demon Lord Hauberk's return.{nl}You and I will use the current imbalance to defeat Hauberk. 
+QUEST_LV_0400_20171128_001756	Help Monk Aistis and, to completely break the balance of power, take my staff to Deception Hauberk. 
+QUEST_LV_0400_20171128_001757	I awaited your return.{nl}If you hand over the magic crystal you collected, I will improve the system.
+QUEST_LV_0400_20171128_001758	In Ziureti Hall, the weapon that can defy Hauberk, Agailla Flurry's Staff is protected by a device..{nl}We should there and collect the staff.
+QUEST_LV_0400_20171128_001759	Return to Monk Aistis and follow what he says.
+QUEST_LV_0400_20171128_001760	Able to defy Hauberk, Agailla Flurry's Staff contains an enormous amount power.{n}Thus, if demons are around, the device protecting the staff will not open.
+QUEST_LV_0400_20171128_001761	When there are no demons around, you'll be able to open it.
+QUEST_LV_0400_20171128_001762	You can open the device now.
+QUEST_LV_0400_20171128_001763	Agailla Flurry Apparition
+QUEST_LV_0400_20171128_001764	With that, the balance of power has been shattered.
+QUEST_LV_0400_20171128_001765	Use this imbalance of power ignite a fight amongst themselves.{nl}I will explain more in Narvas Temple Annex.
+QUEST_LV_0400_20171128_001766	Deception Hauberk has acquired Agailla Flurry's staff but to become whole he must absorb Ambition Hauberk and Suspicion Hauberk.{nl}And to explain to the other two Hauberks, without any misunderstand, the events that have occurred here will be difficult. 
+QUEST_LV_0400_20171128_001767	However, Deception Hauberk has not concerned himself with how he will go about absorbing the remaining two.{nl}This we will take advantage of.
+QUEST_LV_0400_20171128_001768	We will make it obvious to the other two Hauberks that Deception Hauberk is planning an attack.{nl}Plant the idea that Deception Hauberk is weakening them in order to easily absorb them.
+QUEST_LV_0400_20171128_001769	Now, if you say that the system in Deception Hauberk's Sealed Hall has been altered, Monk Aistis will say otherwise.{nl}His response will be obvious.
+QUEST_LV_0400_20171128_001770	This is because he does not know what goes on here.{nl}Do not worry about the systems. Instead go to Deception Hauberk and do as I have said.
+QUEST_LV_0400_20171128_001771	Do not concern yourself with the connection between this and the systems.{nl}If you trust me and follow what I say, we will stop Hauberk.
+QUEST_LV_0400_20171128_001772	I will consider what needs to be done and tell you.
+QUEST_LV_0400_20171128_001773	If you wish to fix this system, I will need parts from Flurry's device.{nl}These parts are small making them hard to find.
+QUEST_LV_0400_20171128_001774	Please use this Absorbing Stone.{nl}When you use it it will  attract the small parts and pull them towards you.
+QUEST_LV_0400_20171128_001775	Please use the Absorbing Stone and bring Flurry's Device Parts to me.
+QUEST_LV_0400_20171128_001776	Agailla Flurry Apparition
+QUEST_LV_0400_20171128_001777	Just as I wanted, you have conveyed the message to Deception Hauberk.{nl}You did well in such a dangerous situation.
+QUEST_LV_0400_20171128_001778	Now, we must make Suspicion Hauberk and Ambition Hauberk aware of Deception Hauberk's actions.{nl}Once they are aware, they will begin to fight.
+QUEST_LV_0400_20171128_001779	We will start by informing Suspicion Hauberk.{nl}However, seeing as he is a filled with suspicion, if we do not prepare correctly, he will not fall into our trap. Rather he will simply become more suspicious.
+QUEST_LV_0400_20171128_001780	You must ransform into the trusted King Hammer and inform him of Deception Hauberk's plan.{nl}Suspicion Hauberk believes himself to be the weakest of the Hauberks. 
+QUEST_LV_0400_20171128_001781	Therefore, he will concern himself with how to become whole.{nl}At that point, you most reveal the Contract Token you are carrying.
+QUEST_LV_0400_20171128_001782	He and the other Hauberks have searched madly for this item that, when he sees it, it will increase his trust in you.{nl}And, tell Hauberk that the Token needs to be changed before use or it will inflict great harm.
+QUEST_LV_0400_20171128_001783	If Suspicion Hauberk is of sound mind, he will say to do this right away.{nl}Then leave Suspicion Hauberk's Sealed Hall and come to Ketinimas Hall.
+QUEST_LV_0400_20171128_001784	Agailla Flurry left preparations in case Hauberk was awakened and turned his attacks on the monks.{nl}It's the device right next to me. 
+QUEST_LV_0400_20171128_001785	So that the monks could safety evacuate, this device creates scrolls that change the appearance of the user into a monster. 
+QUEST_LV_0400_20171128_001786	To create a King Hammer transformation scroll you will need a body essence.{nl}If you collect the Flesh of Black Hohen Olben, you can use that in the device.
+QUEST_LV_0400_20171128_001787	First go and collect the Flesh of Black Hohen Olben.
+QUEST_LV_0400_20171128_001788	You have done well.
+QUEST_LV_0400_20171128_001789	Now we need King Hammer's Blood.{nl}In time, the King Hammers searching for the Contract Token will be passing this way.
+QUEST_LV_0400_20171128_001790	Defeat them and insert the King Hammer's Blood into the device.
+QUEST_LV_0400_20171128_001791	The transformation scroll is complete.{nl}Now, use this scroll to transform into King Hammer and approach Suspicion Hauberk.
+QUEST_LV_0400_20171128_001792	You made that look too easy. Well done.
+QUEST_LV_0400_20171128_001793	Now, changing the power within the Contract Token is not easy.{nl}While you were away, I changed the function of the device.
+QUEST_LV_0400_20171128_001794	It took time, but it turned out well.{nl}However, the device still does not have the energy it needs to change the power within the Contract Token.
+QUEST_LV_0400_20171128_001795	Replacing the energy with condensed magic will be suitable.{nl}Yes, strengthening it with condensed magic will do the trick.
+QUEST_LV_0400_20171128_001796	To gain strength, each of Hauberk's Drooper Scouts are in possession of one.{nl}If you defeat them you'll be able to obtain the condensed magic. 
+QUEST_LV_0400_20171128_001797	Gather it and insert it into the device.{nl}When you have inserted enough, insert the Contract Token and I will transform its power.
+QUEST_LV_0400_20171128_001798	You think it's easy changing the Token's power?{nl}Well, in case it was necessary, Agailla Flurry did prepare changeable functions for the devices.
+QUEST_LV_0400_20171128_001799	I have changed the power within the Contract Token.
+QUEST_LV_0400_20171128_001800	Please inform Suspicion Hauberk of the Contract Token's change.
+QUEST_LV_0400_20171128_001801	Suspicion Hauberk has been taken in by your wonderful acting.{nl}We are a little pressed for time, so I will relay the next stage of the plan at Ambition Hauberk's Sealed Hall.
+QUEST_LV_0400_20171128_001802	You have arrived.{nl}Now we must reel in Ambition Hauberk.
+QUEST_LV_0400_20171128_001803	Ambition Hauberk's Elite Banshee King has died by your hand, correct?
+QUEST_LV_0400_20171128_001804	When you defeated the Banshee King, the tortured monks we released.{nl}Due to that, reeling Ambition Hauberk in will not be difficult. 
+QUEST_LV_0400_20171128_001805	Instead, it will be easier.{nl}You'll be able to brainwash the Black Harugal residing under Ambition Hauberk. 
+QUEST_LV_0400_20171128_001806	There is one device created by the monks.{nl}It was created by the High Monk in order for them to not forget the important matters at hand. 
+QUEST_LV_0400_20171128_001807	That device is right here.{nl}If you record the matter into the device it prints it on the Registry Orb.
+QUEST_LV_0400_20171128_001808	For a short period of time, one will not forget the demands contained in the Orb.{nl}To make it simple, you can think of it as a type of suggestive brainwashing.
+QUEST_LV_0400_20171128_001809	To create this Registry Orb we only need to record two sentences into the device. 
+QUEST_LV_0400_20171128_001810	First 
+QUEST_LV_0400_20171128_001811	Deception Hauberk secretly discarded the monk need to transform the spirits. 
+QUEST_LV_0400_20171128_001812	{nl}Second 
+QUEST_LV_0400_20171128_001813	To attack Ambition Hauberk, the Monastery's systems were altered.
+QUEST_LV_0400_20171128_001814	Maybe there will not be enough words to choose from.{nl}Combine what you can and I will perfect the sentences.
+QUEST_LV_0400_20171128_001815	Rememebr, you only need to record two sentences into the Registry Device.
+QUEST_LV_0400_20171128_001816	Selecting the words must have been difficult, yet you did well and created the perfect Registry Orb. 
+QUEST_LV_0400_20171128_001817	Among the Black Harugal are Ambition Hauberk's elite servants. They are marked with a special essence.{nl}This essence is difficult for the human eye to spot.{nl}However, there is a way around this.
+QUEST_LV_0400_20171128_001818	Collect the essence of the Black Harugal and we can use it to create an orb that will be able to determine which of the Harugal are Ambition Hauberk's elite servants.
+QUEST_LV_0400_20171128_001819	Good.{nl}I will now make an orb that will be able to differentiate Ambition Hauberk's elite servants from amongst the Black Harugal
+QUEST_LV_0400_20171128_001820	Just insert the Black Harugal's essence into the device.
+QUEST_LV_0400_20171128_001821	Using the Black Harugal essence for comparison, I have made a Mark of Identification that can spot the elite servant.{nl}Use the Mark of Identification to single out Ambition Hauberk's elite servant and then use the Registry Orb. 
+QUEST_LV_0400_20171128_001822	But I must deliver a warning before you go.{nl}The suggestive power of the Registry Orb does not last long.
+QUEST_LV_0400_20171128_001823	And if there is resistance, the effects of the Registry Orb will not be seen.
+QUEST_LV_0400_20171128_001824	You must work to weaken the Black Harugal before using the Orb.
+QUEST_LV_0400_20171128_001825	And when you use the Mark of Identification, a red glow will appear over the head of Ambition Hauberk's elite servant. 
+QUEST_LV_0400_20171128_001826	Ambition Hauberk will definitely go to Deception Hauberk.
+QUEST_LV_0400_20171128_001827	Wait one moment.
+QUEST_LV_0400_20171128_001828	Since Elite King Hammer has not returned, distrust has grown inside Suspicion Hauberk. He is on his way to Deception Hauberk.
+QUEST_LV_0400_20171128_001829	Give Monk Aistis Flurry's Device Parts and alter the equipment.{nl}When that is completed, Ambition Hauberk and Suspicion Hauberk will draw near.
+QUEST_LV_0400_20171128_001830	If Suspicion Hauberk and Ambition Hauberk see Deception Hauberk with humans, they will not stand idly by.{nl}Especially Ambition Hauberk.
+QUEST_LV_0400_20171128_001831	When it appears that they will start to fight, Revelator, turn on the altered system.{nl}The Hauberks will back off when it reacts.
+QUEST_LV_0400_20171128_001832	Well then, take the portal device besides me and be on your way.
+QUEST_LV_0400_20171128_001833	What took you so long?
+QUEST_LV_0400_20171128_001834	It took you this long to find the parts? Well let me see the parts.
+QUEST_LV_0400_20171128_001835	You did not falter in this situation at all. Well done.{nl}Just as we prepared, the Hauberks will fight amongst themselves.
+QUEST_LV_0400_20171128_001836	There is great power in the Contract Token that will inflict both damage and sap one's energy.{nl}However, you cannot be careless.
+QUEST_LV_0400_20171128_001837	Hauberk will sustain a great amount of damage, but he will be stronger and will recover quickly.
+QUEST_LV_0400_20171128_001838	Before Hauberk completely retains his power, all of Narvas Temple's energy will be directed to one location in order to defeat him.
+QUEST_LV_0400_20171128_001839	I am speaking of the systems Aistis altered.{nl}In the Temple's control system is the Central Control Terminal. The Central Control Terminal will change the system's function set up.{nl}I can change the system myself but I cannot make the final decision. 
+QUEST_LV_0400_20171128_001840	What I need, Revelator, is for you to make that decision.
+QUEST_LV_0400_20171128_001841	Good.
+QUEST_LV_0400_20171128_001842	Suspicion Hauberk's elite servants damaged the Central Control Terminal and carried away parts of it.{nl}I need you to find these parts and repair the device.
+QUEST_LV_0400_20171128_001843	Once the functions have been set, press the button and the temple's systems will stop running.{nl}This will also affect the systems outside of Narvas Temple. 
+QUEST_LV_0400_20171128_001844	Right when the systems reboot use the portal.
+QUEST_LV_0400_20171128_001845	Take the portal back to Deception Hauberk's Sealed Hall and battle Hauberk.{nl}I will power up the systems altered by Monk Aistis and when they reach the same level of power as Hauberk's I will inform you.
+QUEST_LV_0400_20171128_001846	Use the system and attack him.{nl}And I know what I am asking of you is unreasonable. 
+QUEST_LV_0400_20171128_001847	But I am not asking because you are the Revelator.{nl}I am asking because of the courage, will, and power I saw from you today.
+QUEST_LV_0400_20171128_001848	So, I ask that you help me see this to the end.
+QUEST_LV_0400_20171128_001849	Of the possible functions, some cannot be used.
+QUEST_LV_0400_20171128_001850	You we able to defeat Demon Lord Hauberk with your courage and powerful will.
+QUEST_LV_0400_20171128_001851	Since all of the temple system's energy was used while fighting Demon Lord Hauberk, it cannot function anymore.
+QUEST_LV_0400_20171128_001852	I am also a part of the temple's system.{nl}This means that if all of its equipment ceases to function, so do I. 
+QUEST_LV_0400_20171128_001853	That being said, I am honored that, together, we were able to defeat Demon Lord Hauberk.{nl}In your future is a blessing from the Goddess...
+QUEST_LV_0400_20171128_001854	If it's "stone" does it mean the tombstones by the trees?{nl}Let's go check the tombstones.
+QUEST_LV_0400_20171128_001855	This time too, will an apple grow from the singing trees?
+QUEST_LV_0400_20171128_001856	This time it's a blue apple.{nl}It's like the apples are saying something...but the message isn't clear.
+QUEST_LV_0400_20171128_001857	Parts of the song I understand and others I don't.{nl}However, I know of a place that has pillars with those three colors. 
+QUEST_LV_0400_20171128_001858	Let's go straight to Tacasz Stream.{nl}We may learn something from there.
+QUEST_LV_0400_20171128_001859	The perfect place to hide
+QUEST_LV_0400_20171128_001860	It's the perfect place to hide.{nl}Will you hide here?
+QUEST_LV_0400_20171128_001861	As Suspicion Hauberk and Ambition Hauberk draw near, Deception Hauberk's plan will go down the drain.
+QUEST_LV_0400_20171128_001862	Be careful so that you are not discovered by either Suspicion Hauberk nor Ambition Hauberk
+QUEST_LV_0400_20171128_001863	It's time to make the Hauberks fight amongst themselves.
+QUEST_LV_0400_20171128_001864	I am working to stabilize the systems that were altered by Monk Aistis.
+QUEST_LV_0400_20171128_001865	This forest carries with it an unidentifiable sound.{nl}Everyone says the forest is either cursed or haunted, but I think there is another reason.
+QUEST_LV_0400_20171128_001866	People avoid the forest because they can hear sounds coming from it.
+QUEST_LV_0400_20171128_001869	Demon Goddess Giltine came to this place in search of Goddess Laima's revelation.{nl}That revelation should have been for you, Revelator.{nl}Goddess Vaivora believed that Demon Goddess Giltine was looking for a particular book.{nl}One that contained knowledge about her.{nl}But Goddess Laima did not want you to know this much about the revelation.
+QUEST_LV_0400_20171128_001870	This revelation contains truths meant for Giltine.{nl}You must do your best to lose it.{nl}Neringa will tell you Goddess Laima's predictions at the time when you are meant to know.
+QUEST_LV_0400_20171128_001871	Put your faith in Goddess Laima and Neringa shall work with you.
+QUEST_LV_0400_20171128_001872	Outside of us, no one else must learn of Goddess Laima's prediction.
+QUEST_LV_0400_20171128_001873	This is Goddess Vaivora's Fantasy Library, which has on record all of the world's knowledge and history.{nl}In this place, you can only view the information meant for you.{nl}You will not be able to see the books that do not.
+QUEST_LV_0400_20171128_001874	This place has history and wisdom about humanity that even the Goddesses themselves do not know about.
+QUEST_LV_0400_20171128_001875	In the far future, when you are ready to learn of it, you will be able to view it too.{nl}But now is not that time. 
+QUEST_LV_0400_20171128_001876	Neringa knew you would accept the invitation.{nl}And there is much that needs to be said.
+QUEST_LV_0400_20171128_001877	You and Neringa will go together to Goddess Vaivora's domain.{nl}Humans are meant to approach the location primarily by invitation.{nl}But this is still not the case.{nl}There is something you need to know.
+QUEST_LV_0400_20171128_001878	Starting from Neringa...
+QUEST_LV_0400_20171128_001879	Revelator, you must have some concerns about this current situation.{nl}Neringa will convey Goddess Laima's will to you.{nl}Yet only at the times deemed right.
+QUEST_LV_0400_20171128_001880	Together with Neringa, you will go to Fantasy Library.{nl}There you will meet with Goddess Vaivora and her Kupole helper.{nl}They will not welcome a human to the Fantasy Library.{nl}Please do not forget this.
+QUEST_LV_0400_20171128_001881	Neringa recommended you for an invitation.{nl}You are here because Neringa helped you to gain the Goddess' trust.{nl}Please continue to build her trust in you.{nl}Focus on listening to her and completing her requests.
+QUEST_LV_0400_20171128_001882	Neringa will go first and wait for you.
+QUEST_LV_0400_20171128_001883	So, you are the Revelator.{nl}I have heard about you from Neringa.{nl}Where you come from and where you are being pulled towards...I have heard it all.
+QUEST_LV_0400_20171128_001884	{nl}Yet, I still have reservations about Neringa's judgement in inviting you here.
+QUEST_LV_0400_20171128_001885	{nl}I assume you have already heard from Neringa what it that we do.
+QUEST_LV_0400_20171128_001886	{nl}I asked Neringa as well.{nl}What can a human do for us here?
+QUEST_LV_0400_20171128_001887	You will have to prove yourself through sacrifice to answer that question.
+QUEST_LV_0400_20171128_001888	I strive to prevent humans like you from interrupting the Goddesses' work.{nl}Go help Neringa.{nl}That is something you can do.
+QUEST_LV_0400_20171128_001889	As you can see, at the moment there is no opportunity for you to join Goddess Vaivora's plans.{nl}So, solve her smaller issues to gain her trust.
+QUEST_LV_0400_20171128_001890	The defensive system in Sausys Room 9 is weak, allowing demons to trespass easily.{nl}But Goddess Vaivora's Kupole cannot stop them alone.{nl}It would be good to take her place.{nl}Defeat a few of the demons and you will gain a lot of her trust.
+QUEST_LV_0400_20171128_001891	Your ability is already known.{nl}How much you can do is also already known.{nl}Meaning, what you need to know is already known.
+QUEST_LV_0400_20171128_001892	You did well.{nl}Right now Goddess Vaivora is in Valandis Room 3 preparing a trap to capture Demon Goddess Giltine.{nl}She thinks that Giltine wants to get her hands on the book that's about her.{nl}It's not proper work for a goddess, but Giltine won't fall for just any trap.
+QUEST_LV_0400_20171128_001893	You will have to work hard to gain Goddess Vaivora's trust.{nl}But the time, and the work that you have to do, has already been decided.
+QUEST_LV_0400_20171128_001894	Set your mind towards protecting the Goddess' very precious records.{nl}Everywhere is flooded with demons destroying them.{nl}Please go and collect these Scattered Records.{nl}Doing something as simple as this will surely attract the Goddess' attention.
+QUEST_LV_0400_20171128_001895	It would be a great honor for a human to be involved in the fate of the Goddesses. 
+QUEST_LV_0400_20171128_001896	Doing this much will draw the Goddess' attention.
+QUEST_LV_0400_20171128_001897	Goddess Vaivora believes that if Giltine is removed everything will be solved.{nl}This means isolating her from the rest of the world.{nl}But everything that happens is influenced by the demons themselves.{nl}Even if Demon Goddess Giltine disappears other, more uncontrollable versions of her will take her place. 
+QUEST_LV_0400_20171128_001898	{nl}Sadly, Goddess Vaivora does not have faith in Goddess Laima's predictions.{nl}She also does not have faith in you, who was selected by Laima.{nl}Therefore, here, together with the hand of faith, you must match Goddess Laima's prediction.
+QUEST_LV_0400_20171128_001899	Kupole Rugile is alone in Sausys Room 9 dealing with the demons.{nl}Despite being Vaivora's Kupole, she will not be able to handle them all alone.{nl}You must help Kupole Rugile.
+QUEST_LV_0400_20171128_001900	{nl}However, Vaivora's Kupole will be weary of you since you are a human.{nl}Before approaching her, remove the Kupole trap set by the demons.{nl}Rugile will show interest in you after this.{nl}And,of course, this interest will be conveyed to Goddess Vaivora.
+QUEST_LV_0400_20171128_001901	We must be aware of the situation.{nl}Observe everything and tell Neringa.
+QUEST_LV_0400_20171128_001902	Kupole Rugile
+QUEST_LV_0400_20171128_001903	You are the human Neringa invited.{nl}There is something a human can do to to help us...
+QUEST_LV_0400_20171128_001904	You seem strong enough and ready to serve the goddess.{nl}If there is no other place you must be, can you help me?
+QUEST_LV_0400_20171128_001905	It's a difficult situation.{nl}Vaivora and I sealed off all of the passages used by the demons.{nl}But how are they still able to enter?
+QUEST_LV_0400_20171128_001906	{nl}Certainly, by someone's help they are entering.{nl}This scroll can detect the small gaps in which the demons are using to invade.{nl}With this scroll, find the point of invasion and remove it.{nl}I will not be able to hold out for long if this continues.
+QUEST_LV_0400_20171128_001907	This place has been run by Goddess Vaivora and the Kupoles for a long time.{nl}This place is unbeknownst even to the followers of Vaivora.
+QUEST_LV_0400_20171128_001908	Well done.{nl}Maybe you will be able to help Goddess Vaivora just like us Kupoles.
+QUEST_LV_0400_20171128_001909	It's more than just a few demons that have entered.{nl}And they are ruining the library.{nl}I do not know what it is they seek, but I cannot allow them to touch the records at will.
+QUEST_LV_0400_20171128_001910	{nl}Please get rid of the demons you see in the area.
+QUEST_LV_0400_20171128_001911	Possibly the records of the great and unnamed kings have already disappeared. {nl}As time passes, so will more and more records.{nl}Please stop the demons.
+QUEST_LV_0400_20171128_001912	Thank you so much.{nl}Thanks to you we can protect the records that are under our care.
+QUEST_LV_0400_20171128_001913	After seeing your actions here, it seems you would be an even greater help to the Goddess.{nl}We will tell the Goddess of your courage and sacrifice.{nl}Now return to Neringa and tell her of your accomplishments.
+QUEST_LV_0400_20171128_001914	And, by all means, please use your power in the correct place.
+QUEST_LV_0400_20171128_001915	You have returned.{nl}The news of you helping Rugile has been passed on to Goddess Vaivora.{nl}We can now move on to the next stage. 
+QUEST_LV_0400_20171128_001916	You with Neringa will meet someone you have had a long ill-fated relationship with.{nl}Let's go to Sausys Room 10.{nl}
+QUEST_LV_0400_20171128_001917	You are the first to be invited here.{nl}In the past, there was commotion because of those who were not invited.
+QUEST_LV_0400_20171128_001918	Not yet.{nl}I will call you when it is time.
+QUEST_LV_0400_20171128_001919	Slowly more and more demons are invading.{nl}It's hard for me to figure out alone how they are coming here.{nl}I've done all I've could but it's not enough.{nl}However, if you can help me, I will be able to gather some time.
+QUEST_LV_0400_20171128_001920	Suspicious magic gathering demons have been found.{nl}If you can defeat them, it will decrease the amount of demons coming this way.{nl}Please do this for us.
+QUEST_LV_0400_20171128_001921	Although I know a great scale of the Fantasy Library, there are thousands of areas.{nl}If the demons enter through another location this will cause huge problems.
+QUEST_LV_0400_20171128_001922	At least I have one less nuisance to deal with.{nl}I appreciate your help.
+QUEST_LV_0400_20171128_001923	The invading demons are damaging the books.{nl}They do not hesitate with their meaningless plundering.{nl}Maybe their leader said to destroy whatever they could get their hands on.
+QUEST_LV_0400_20171128_001924	If you want to help the Goddess don't allow them to run away with the records.{nl}Please recover the unidentified records that the demon's stole.
+QUEST_LV_0400_20171128_001925	We still have not found a place for all that is contained in the Fantasy Library.{nl}The records that Vaivora and us, the Kupole, still need to classify are slowly coming in.
+QUEST_LV_0400_20171128_001926	I see the damaged records.{nl}Those demons...
+QUEST_LV_0400_20171128_001927	After this is done, Vaivora will punish those demons.{nl} Thank you for your help.
+QUEST_LV_0400_20171128_001928	Everything has been decided.{nl}Even if you try to fight your destiny, the end will be the same.{nl}You are on the right track.{nl}You are doing well.
+QUEST_LV_0400_20171128_001929	Vaivora will help solve everything.
+QUEST_LV_0400_20171128_001930	Goddess Vaivora has almost completed her plan.{nl}But we cannot have the Beholder interfere.{nl}Your work here should stand out.{nl}Therefore, Vaivora will have a request for you in the next District.
+QUEST_LV_0400_20171128_001931	This place is overrun with the Beholder's plans.{nl}Everywhere the Kupole are falling into its traps and getting into trouble.{nl}We must rid Sausys Room 10 of the Beholder's shadow.
+QUEST_LV_0400_20171128_001932	Destroy the first corrupted crystal.{nl}If you leave the corrupted crystal alone, the Beholder and the demons will continue to harass the Kupole.{nl}And, remember, the fact that Neringa is here must not be revealed.
+QUEST_LV_0400_20171128_001933	The Beholder thinks the situation will go according to plan.{nl}But everything will go as predicted.{nl}Focus on your role.
+QUEST_LV_0400_20171128_001934	Destroying that many will be enough.{nl}It will be troublesome if the Beholder becomes aware of us.
+QUEST_LV_0400_20171128_001935	There should be an easy way to get rid of the corrupted crystals.
+QUEST_LV_0400_20171128_001936	Kupole Saya is dealing with the invading demons here.{nl}But there were so many, she went into hiding to replenish her energy.
+QUEST_LV_0400_20171128_001937	{nl}You will present a good impression if you defeat the demons that are near her.{nl}Defeat the demons and then go to Kupole Saya.
+QUEST_LV_0400_20171128_001938	There is no better way.{nl}Follow the chosen path.
+QUEST_LV_0400_20171128_001939	Kupole Saya
+QUEST_LV_0400_20171128_001940	You are the human traveling with Neringa.{nl}I'm surprised that a human can defeat these demons.{nl}You could be a powerful asset to Vaivora.
+QUEST_LV_0400_20171128_001941	As the demons invaded they destroyed most of the protection crystals.{nl}If they are not restored the demons will treat this place like their house.{nl}If you want to help Vaivora, first help to restore the protection crystals.{nl}Please lend a hand.
+QUEST_LV_0400_20171128_001942	The protection crystals were shattered into Trasium Pieces. {nl}Please collect as many Trasium Pieces as possible and return to me.
+QUEST_LV_0400_20171128_001943	I do not know how far you will accomplish..{nl}but I will not refuse you even if you fail.
+QUEST_LV_0400_20171128_001944	{nl}Whereever you go, you are still just human.
+QUEST_LV_0400_20171128_001945	I'm surprised!{nl}You have completely changed my thoughts about humans.{nl}Have all humans become as strong as you?
+QUEST_LV_0400_20171128_001946	While you were away Neringa contacted me.{nl}I told her about your skillfulness.{nl}But Neringa's thinking seem a little different. 
+QUEST_LV_0400_20171128_001947	You did well.{nl}Saya has praised you.{nl}Now there is only one more Kupole to save.
+QUEST_LV_0400_20171128_001948	I'm planning to collect Trasium Pieces in order to restore the protection crystals.{nl}I hope we can use your strength when the time comes.
+QUEST_LV_0400_20171128_001949	The Beholder has installed a magic prison to keep the Kupole trapped.{nl}Goddess Vaivora's main helper, Kupole Ouida is there as well.{nl}If you save her, Goddess Vaivora's expectations of you will rise.
+QUEST_LV_0400_20171128_001950	{nl}Destroy the magic prison and save Kupole Ouida.{nl}She will then have a request for you.{nl}After that we will meet the Beholder.
+QUEST_LV_0400_20171128_001951	I trust and follow you in accordance with the prediction.{nl}Refrain from unnecessary actions and concentrate on your role.
+QUEST_LV_0400_20171128_001952	Kupole Ouida
+QUEST_LV_0400_20171128_001953	And you are?{nl}A human I see...
+QUEST_LV_0400_20171128_001954	I thought I would be saved by Vaivora..{nl}It's not what I expected but thank you for rescuing me.{nl}{nl}
+QUEST_LV_0400_20171128_001955	The Beholder has installed magical prisons everywhere.{nl}The Kupole are in a state of confusion allowing the Beholder to rummage through the library.{nl}But we cannot allow this to continue.{nl}Will you allow them to roam around Vaivora's library?{nl}Open your eyes.
+QUEST_LV_0400_20171128_001956	{nl}The reason they can roam here is because the protection crystals were destroyed.{nl}The remaining one is being attacked by the demons now.{nl}Ride this transportation device to the crystal.{nl}Defeat them all with your power.
+QUEST_LV_0400_20171128_001957	You do not need to return to Ouida.{nl}Time is short. We must go to Goddess Vaivora after facing him.
+QUEST_LV_0400_20171128_001958	The Beholder must be growing aware that their plan is falling apart.{nl}Soon the Beholder will be here.{nl}Are you ready?
+QUEST_LV_0400_20171128_001959	The Beholder follows Demon Goddess Giltine but shows no interest in her safety.{nl}We must leave here.{nl}With Neringa, you will need to go to Valandis Room 2.{nl}When you are ready, follow.
+QUEST_LV_0400_20171128_001960	{nl}Neringa will go first and wait for you.
+QUEST_LV_0400_20171128_001961	The Beholder still does not know you and Neringa are here.{nl}Neringa will stay out of the way until the Beholder thinks the task is done.{nl}If Neringa is discovered here, Giltine will be alerted.
+QUEST_LV_0400_20171128_001962	{nl}Now we have to let them destroy the Fantasy Library.
+QUEST_LV_0400_20171128_001963	Why did they come here at this time?{nl}This is troublesome.
+QUEST_LV_0400_20171128_001964	Talk of you helping Vaivora's Kupoles is circulating amongst them.{nl}Goddess Vaivora will come to look for you soon.{nl}She will trust in you and tell you her plans.{nl}But you and Neringa's plans differ from the Goddess Vaivora's.{nl}Don't forget this.
+QUEST_LV_0400_20171128_001965	{nl}Listen politely to all the Goddess has to say.
+QUEST_LV_0400_20171128_001966	{nl}Goddess is coming.{nl}
+QUEST_LV_0400_20171128_001967	In fact, Goddess Vaivora has more conviction than Neringa thought.{nl}Neringa will need to execute this plan more precisely.
+QUEST_LV_0400_20171128_001968	Kupole Litae and Danute are in charge of this area.{nl}Kupole Danute will still be unsure about you.{nl}But defeat the demons and she will come you way.{nl}Please listen to her request.
+QUEST_LV_0400_20171128_001969	{nl}For Neringa's role, Neringa will leave first.
+QUEST_LV_0400_20171128_001970	Kupole Litae
+QUEST_LV_0400_20171128_001971	I can't believe you came here, but even more so, I can't believe your skills.{nl}I've heard of your courage and sacrifice from the other Kupole.{nl}Thank you very much for coming to help me.
+QUEST_LV_0400_20171128_001972	You've arrived.{nl}Did Kupole Litae greet you well?{nl}The Kupole are also different in their thinking and personalities.{nl}Some listen better than others.
+QUEST_LV_0400_20171128_001973	Goddess Vaivora will come to find you again.{nl}But before that, there is something you need to prepare.
+QUEST_LV_0400_20171128_001974	You and Neringa will face Giltine in Valandis Room 91.{nl}The Demon Goddess can take your life with just one finger.{nl}So please find some Nobrenal Blueprints so that Neringa may use them to protect you.{nl}With Neringa's divine energy and that item, it will be possible to hold back her power.
+QUEST_LV_0400_20171128_001975	Unfortunately, Goddess Laima cannot protect you.{nl}However, Neringa will tell you how to protect yourself.{nl}Believe Neringa and follow what Neringa says.
+QUEST_LV_0400_20171128_001976	That should be enough.{nl}Neringa will tell you when it is time to use it.
+QUEST_LV_0400_20171128_001977	Now go to Goddess Vaivora.{nl}There are still parts Neringa needs to prepare for the plan.
+QUEST_LV_0400_20171128_001978	Your help is making the final preparations much easier.{nl}Now, please help us one last time. 
+QUEST_LV_0400_20171128_001979	{nl}I must leave this place to examine Giltine's actions more closely.{nl}Kupole Danute is coming so please lend a hand.{nl}I hope that you help her.
+QUEST_LV_0400_20171128_001980	Kupole Danute
+QUEST_LV_0400_20171128_001981	As Vaivora predicted, the demons are gathering her to make it easier for Giltine to enter.{nl}There is no time to waste so I must ask you for two items.
+QUEST_LV_0400_20171128_001982	The first is Dimensional Essence.{nl}That will be easy to find around here.{nl}The last one will be a problem...
+QUEST_LV_0400_20171128_001983	Defeat the demons and gather their magic source.{nl}After collecting both, come back here.
+QUEST_LV_0400_20171128_001984	Now with this you can defend the protection crystals.{nl}I will combine this and make you a tool.
+QUEST_LV_0400_20171128_001985	The protection crystals are under attack!{nl}Since all of the library's energy is directed towards the trap,{nl}there is only one protection crystal guarding this area.{nl}If the protection crystals are not working,{nl}Giltine will still be able to escape even if we seal her within our trap.
+QUEST_LV_0400_20171128_001986	Take this tool and until the protection crystals are recharged, fend off the demons!
+QUEST_LV_0400_20171128_001987	Thank you!{nl}And Neringa has returned as well.{nl}I will go and help with Vaivora's seal.{nl}I'm grateful for your help!
+QUEST_LV_0400_20171128_001988	Vaivora has finished her seal for Giltine.{nl}Unfortunately, Giltine will not appear this time.
+QUEST_LV_0400_20171128_001989	Please remain calm and do as Vaivora instructed.{nl}Come back to Neringa when the work there is done.{nl}Neringa is preparing for the next plan. 
+QUEST_LV_0400_20171128_001990	That is a record.{nl}Neringa will give it back to Vaivora.{nl}Right now you must deal with the embarrased Goddess of Knowledge. 
+QUEST_LV_0400_20171128_001991	Goddess Vaivora knows much more than you or Neringa, expect for the future.{nl}Therefore it is impossible to convince Vaivora
+QUEST_LV_0400_20171128_001992	Vaivora will now make an extreme choice.{nl}Give up the revelation and remove Giltine from this world.{nl}She still thinks that is correct.
+QUEST_LV_0400_20171128_001993	In the meantime, let's move to Valandis Room 3.{nl}There you and Neringa will listen to the Goddess plans and follow.{nl}Neringa will go first.
+QUEST_LV_0400_20171128_001994	Goddess Vaivora has instructed you to collect all the magical energy that can be used on the Sealing Altar.{nl}There are devices around the library that you can collect the magic from.{nl}Please activate them.{nl}The activated magic devices will go where they are needed.
+QUEST_LV_0400_20171128_001995	There was a human who came here without an invitation.{nl}But you are the first to be formally invited.
+QUEST_LV_0400_20171128_001996	That looks like enough.{nl}Also, Neringa is looking for you.{nl}It would be good if you go.
+QUEST_LV_0400_20171128_001997	{nl}I will finish the rest of the work here.{nl} I will be off.
+QUEST_LV_0400_20171128_001998	I'm surprised by your work.{nl}Human potential seems to know no bounds.
+QUEST_LV_0400_20171128_001999	To play a part in continuing human history, I will tell you something.{nl}Several hundred years ago, Demon Goddess Giltine had already invaded this place.{nl}She was looking for a record of herself.{nl}But at the time she could not obtain it.{nl}So she comes again today.
+QUEST_LV_0400_20171128_002000	I do not know where she will use it.{nl}But she is coming to this place soon to get her hands on that record.
+QUEST_LV_0400_20171128_002001	We have taken advantage of her greed by preparing a trap.{nl}As she becomes overcome with joy for finally getting her hands on the record, she will disappear from this world.
+QUEST_LV_0400_20171128_002002	If she disappears from this world, every problem will be solved.{nl}All of the Goddesses will return to their rightful places and you too may go home. 
+QUEST_LV_0400_20171128_002003	For this I need your help.{nl}My Kupole are in the final stages of perfecting the trap.{nl}Please help them.{nl}I also have last minute preparations. 
+QUEST_LV_0400_20171128_002004	Once again, thank you for your courage and you sacrifice.{nl}For the sake of the world, please endure just a little bt longer.
+QUEST_LV_0400_20171128_002005	Please collect them quickly!
+QUEST_LV_0400_20171128_002006	How's the protection crystal?
+QUEST_LV_0400_20171128_002007	Danute is still unfocused.{nl}This may be a handful for a human such as yourself.
+QUEST_LV_0400_20171128_002008	But if you have nothing else to do...
+QUEST_LV_0400_20171128_002009	Vaivora wants to destroy part of the Fantasy Library in order to prevent others from entering.{nl}But it will not go according to the Goddess' wish.
+QUEST_LV_0400_20171128_002010	It's quite unfortunate.{nl}To ensure that the prediction comes true, you must artfully disrupt the Goddess's plan.
+QUEST_LV_0400_20171128_002011	And the Goddess must not know that you and Neringa are the ones to blame.{nl}So follow the Goddess's plans for awhile.{nl}When it is time to execute our own plan, Neringa will call you.
+QUEST_LV_0400_20171128_002012	To sacrifice a part of the district to capture Giltine.{nl}Vaivora's plan seems reckless.
+QUEST_LV_0400_20171128_002013	Vaivora will ask you to activate the sealing device set up in Valandis Room 3.{nl}Go about the task.{nl}Neringa will also do as such.
+QUEST_LV_0400_20171128_002014	{nl}Go to Vaivora.{nl}Neringa will call you when it is time.
+QUEST_LV_0400_20171128_002015	Time is running out and there are not many Kupoles remaining that I can call...{nl}You will be able to help me.
+QUEST_LV_0400_20171128_002016	{nl}Here Skywa is helping me to operate the Bluenode Collapsing Device.{nl}But the energy from this device is calling demons to it.{nl}Please go there and protect the device for me.{nl}If we lose even one, Giltine will slip away.
+QUEST_LV_0400_20171128_002017	It hurts me as well to make such a decision.{nl}And I will bear this crime for eternity. 
+QUEST_LV_0400_20171128_002018	{nl}But to save the world from Giltine's grip...{nl}It's an expensive sacrifice that must be done.
+QUEST_LV_0400_20171128_002019	Amazing!{nl}The activated collapsing device will conceal its magic, and will not face attack again.
+QUEST_LV_0400_20171128_002020	{nl}Now Skywa will activate the collapsing device remotely.
+QUEST_LV_0400_20171128_002021	Next we need to activate the second collapsing device.{nl}However, it does not have enough energy to run.
+QUEST_LV_0400_20171128_002022	Gather the Monumental Magic Source around the area of the second collapsing device.{nl}After that, listen to Neringa about what to do next.
+QUEST_LV_0400_20171128_002023	{nl}I will return after surveilling Valandis Room 91.
+QUEST_LV_0400_20171128_002024	I will not be gone long.{nl}However, while I am away please consult Neringa if you need help.
+QUEST_LV_0400_20171128_002025	Our goal is to cause the Balanorth Collapsing Device to overload.{nl}Until then we will continue to follow Vaivora's plan, so as to not alert suspicion.
+QUEST_LV_0400_20171128_002026	Skywa is walking around and managing the collapsing devices.{nl}Operating them is simple enough. 
+QUEST_LV_0400_20171128_002027	Insert the Monumental Magic Source that you have in your possession into the device.{nl}As the device re-energizes, protect it until it can conceal its magic.
+QUEST_LV_0400_20171128_002028	Right now the Goddess is checking on Demon Goddess Giltine's rampage in Valandis Room 91.{nl}As pressing as the matter is, the Goddess will not use the Fantasy Library as a burial ground for Giltine.{nl}Please follow the plan thoughtfully and reliably.
+QUEST_LV_0400_20171128_002029	You have successfully energized the device.{nl}It's good to know the plan is right on schedule.
+QUEST_LV_0400_20171128_002030	{nl}Giltine is currently in Valandis Room 91 searching frankly for the revelation.{nl}Let us finally finish the task before us.
+QUEST_LV_0400_20171128_002031	Now, there are only a few devices left to run.{nl}But is there enough time to leave everything to Skywa...{nl}And it would be difficult to protect.{nl}Would you be willing to help Skywa?
+QUEST_LV_0400_20171128_002032	{nl}Make your way to Ballandans collapsing device.{nl}Skywa will be waiting for you there. 
+QUEST_LV_0400_20171128_002033	Kupole Skywa
+QUEST_LV_0400_20171128_002034	The human helping Vaivora is you?{nl}This is my first time seeing one, but you seem particularly strong.{nl}I have a job for you..{nl}
+QUEST_LV_0400_20171128_002035	Skywa cannot complete this work alone.{nl}Make sure to help.
+QUEST_LV_0400_20171128_002036	Not too long ago, I set the Ballandans Collapsing Device.{nl}I was going to activate another device here as well, but the demons swarmed me.{nl}If I waste my time on them, I won't be able to finish the work Vaivora gave me.
+QUEST_LV_0400_20171128_002037	{nl}How about clearing out those demons from around the Ballandans collapsing device?{nl}You just need to protect it until the device is set and conceals itself..{nl}While you deal with this, I'll be able to go and finish my other remaining tasks. 
+QUEST_LV_0400_20171128_002038	Thank you so much!{nl}Humans are so kind, no?
+QUEST_LV_0400_20171128_002039	{nl}Alright, I'm going to go finish my other preparations.{nl}I'm counting on you.
+QUEST_LV_0400_20171128_002040	Your help is appreciated.{nl}Thanks to you, Skywa was able to complete the rest of the preparations.{nl}Now only Balanorth collapsing device is left.{nl}Shall I give this remaining task to you?
+QUEST_LV_0400_20171128_002041	{nl}When all is ready, just turn on the device.{nl}Oh, right Neringa was looking for you.{nl}It seems she also needs your help.{nl}I'll wait here for your successful return.
+QUEST_LV_0400_20171128_002042	Everything has been prepared.{nl}And Vaivora has no reason to distrust you.{nl}You received the request to handle the Balanorth collapsing device, no?{nl}
+QUEST_LV_0400_20171128_002043	When activating that device, the demon leaders will appear and interrupt you.{nl}When the demon leaders are defeated they will release great amounts of energy.{nl}We will use that.
+QUEST_LV_0400_20171128_002044	Please lure the head monsters closer to the Balanorth device and defeat them there.{nl}Their released energy will overheat the device and destroy it.{nl}Then Vaivora's mission will fail in its final step.{nl}Once you have completed this task, you and Neringa will go together to Valandis Room 91. 
+QUEST_LV_0400_20171128_002045	{nl}Please do not forget.{nl}You must defeat the head monsters when they are nearest to the device. 
+QUEST_LV_0400_20171128_002046	All of history is recorded in Fantasy Library.{nl}Of course, records about you are also here.{nl}This is a situation where a human is involved in both Goddess and demon history. 
+QUEST_LV_0400_20171128_002047	{nl}But, sadly, it will not be recorded.{nl}Neringa has destroyed all records of your involvement.
+QUEST_LV_0400_20171128_002048	Vaivora has sensed that something has gone wrong.{nl}She believed all to be finished.{nl}But right now there is no reason to care about her. 
+QUEST_LV_0400_20171128_002049	{nl}Neringa will head towards Valandis Room 91 first.{nl}I will inform Vaivora that the plan has failed.{nl}Then you must come straight to Valandis Room 91.{nl}Neringa will wait for you there.
+QUEST_LV_0400_20171128_002050	How did it turn out like this?{nl}The device isn't responding.
+QUEST_LV_0400_20171128_002051	You've failed me.{nl}Now I see the human limits.{nl}I was stupid...{nl}But it's not your fault.
+QUEST_LV_0400_20171128_002052	It was my fault for giving such an important task to a human.
+QUEST_LV_0400_20171128_002053	I...{nl}The next plan is...{nl}To stop Giltine I could...
+QUEST_LV_0400_20171128_002054	Everywhere has become polluted and ruined by Demon Goddess Giltine.{nl}Vaivora, before she destroys everything, us included, you must take action.
+QUEST_LV_0400_20171128_002055	At this point...{nl}All we can do is collapse the Fantasy Library and trap Giltine...
+QUEST_LV_0400_20171128_002056	It's no use.{nl}There is a no way a human can complete against a Demon Goddess...{nl}However, a human chosen by Laima may be different.
+QUEST_LV_0400_20171128_002057	{nl}I wish not to put you harm's way.{nl}But I need you to buy us some time until the Kupole and I can figure out how to trap Giltine.{nl}Right now, this is our best plan...
+QUEST_LV_0400_20171128_002058	Demon Goddess Giltine is summoning her demons to Valandis Room 91.{nl}Neringa is sure she is residing there.
+QUEST_LV_0400_20171128_002059	{nl}You need to stop Giltine before she gets her hands on the revelation and escapes.{nl}To do this you must destroy the dimensional doors used to summon the demons.{nl}Then, you and Neringa will need to prepare a way to keep you safe from Giltine.{nl}But first, destroy the doors.
+QUEST_LV_0400_20171128_002060	This incident is coming to and end just as the Goddess predicted.{nl}And your role has become more important.{nl}Neringa will make the necessary preparations and, during this time,{nl}destroy as many Dimensional Doors as possible.
+QUEST_LV_0400_20171128_002061	We have almost reached where Demon Goddess Giltine is residing.{nl}Nearby is the revelation Goddess Laima prepared for Giltine.{nl}Giltine has already burned her way through the library to reach that one revelation.{nl}And Goddess Laima has said that you also must be there.
+QUEST_LV_0400_20171128_002062	{nl}Stay near Neringa.{nl}Neringa will keep you safe.{nl}But you must also keep Neringa safe from the demon minions.{nl}Now let us follow Giltine. 
+QUEST_LV_0400_20171128_002063	{nl}Now we only need to follow Giltine.{nl}Stay close. If you get too far away from Neringa, you will be struck by Giltine's power. 
+QUEST_LV_0400_20171128_002064	The time has come to end this.
+QUEST_LV_0400_20171128_002065	Goddess Laima spoke of a day where Giltine's black wings will be broken.{nl}But this is not that day.
+QUEST_LV_0400_20171128_002066	{nl}From here forward, you will face Giltine alone.{nl}Neringa did not appear in the final scene of Goddess Laima's prediction.{nl}Under the black wing's shadow is the future.{nl}Suppress your fear and continue forward.
+QUEST_LV_0400_20171128_002067	Fate, itself, will protect you.{nl}Go forth.{nl}You are the Revelator. 
+QUEST_LV_0400_20171128_002068	You have successfully fulfilled Goddess Laima's prediction.{nl}Then, Neringa's role here is done.{nl}But the journey for you has not come to an end.
+QUEST_LV_0400_20171128_002069	Now that this is over, Goddess Laima wishes to guide you to Astral Tower.{nl}At the tower will be a revelation for you to find.
+QUEST_LV_0400_20171128_002070	At Astral Tower there will be new hardships and revelations waiting for you.{nl}However, all of this follows from Goddess Laima. You will be safe.
+QUEST_LV_0400_20171128_002071	Before leaving, report to Vaivora that the revelation was not retrieved.{nl}And that Neringa has also left.{nl}She will not ask you why.
+QUEST_LV_0400_20171128_002072	I see.. this is how things turned out..{nl}I appreciate your courage and sacrifice.
+QUEST_LV_0400_20171128_002073	This is the second time I have missed Giltine is my own library.{nl}It seems Laima and my sisters will berate me for this...
+QUEST_LV_0400_20171128_002074	I knew that Neringa would leave eventually.{nl}She was always around but her presence was never imposing.
+QUEST_LV_0400_20171128_002075	If we ever meet again, there is much I want to ask.{nl}But it will have to wait until the world is freed from Giltine's grasp.
+QUEST_LV_0400_20171128_002076	Once again thank you for your sacrifice.{nl}And my apologies.{nl}
+QUEST_LV_0400_20171128_002077	Please take this with you.
+QUEST_LV_0400_20171128_002078	This power was something given to me by Laima through Neringa.{nl}And it was Neringa who told me to pass this on to you, once everything was finished.
+QUEST_LV_0400_20171128_002079	Resistor Skirgaila
+QUEST_LV_0400_20171128_002080	I'm sorry to suddenly stop you, but could you lend me a hand.{nl}We, as part of the resistance, are doing recon in this area.{nl}
+QUEST_LV_0400_20171128_002081	But as were going about this task, the Beholder came and kidnapped our Lieutenant.{nl}There is no one else who can help.Please, please rescue our Lieutenant..
+QUEST_LV_0400_20171128_002082	Sorry, I'm really sorry.If we were more focused, this never would have happened..{nl}To push this request on you so suddenly..but a person's life hangs in the balance. Please, I beg you. 
+QUEST_LV_0400_20171128_002083	Our relationship is in the gutter, but I'm willing to make a deal with you here.{nl}And of course, our intentions are none of your concern.
+QUEST_LV_0400_20171128_002084	But you want to save the so-called Lieutenant, and I want to make a simple deal with you that involves Demon Lord Solcomm.{nl}Think before answering. 
+QUEST_LV_0400_20171128_002085	Alright, here it is. Nearby, Solcomm has installed a Crystal Stone to supply himself with magic power.{nl}Your task is to use this Orb to absorb the magic from the stone and return it to me.
+QUEST_LV_0400_20171128_002086	Oh, and I was told that the Crystal Stone is protected by something or another.{nl}You can just investigate that by yourself. You got this, right?{nl}
+QUEST_LV_0400_20171128_002087	Alright, good.The Crystal Stone we need to work on is the one in Prieblanda Rest Place.{nl}There are pillars near the stone, so maybe that's the defense systems.
+QUEST_LV_0400_20171128_002088	If you activate them in order, the defense field rotating around the crystal will disappear. That will be your cue to absorb the energy.{nl}If you mess up, it won't be a huge problem. But it'll be incredibly annoying.
+QUEST_LV_0400_20171128_002089	You still haven't absorbed the Crystal Stone's energy, yet you show no fear. Why is that?{nl}
+QUEST_LV_0400_20171128_002090	I'll say it again. Activate each of the pillars in Prieblanda Rest Place in order and when the defense field disappears,{nl}absorb the energy from the Crystal Stone.
+QUEST_LV_0400_20171128_002091	There will come a time where you will need my help. Alright, let's move on.{nl}Did you really think doing one task would be enough? Of course not.
+QUEST_LV_0400_20171128_002092	The Crystal Stone I knew the most about was the one in Prieblanda. I only know the location of the others.{nl}The next one is at Lemtis Lot. I'll leave investigating the defense systems and absorbing the magic to you. 
+QUEST_LV_0400_20171128_002093	Why do I want to get rid of Solcomm?{nl}Do you really think that I, the bearer of concepts that existed before humans, will share them with someone such as yourself?
+QUEST_LV_0400_20171128_002094	Looks like you succeeded again. Yet, I'm getting a suspicious vibe.{nl}Hm, well, right now the Crystal Stones are most important.{nl}Let's move on. 
+QUEST_LV_0400_20171128_002095	The next Crystal Stone is in Zibukas Crossroad.{nl}Go ahead first to investigate and I'll follow soon after. 
+QUEST_LV_0400_20171128_002096	You would think that guy would have appeared by now...Of course, the intelligence was correct.{nl}Don't question things you haven't heard. Now stop staring and let's go.
+QUEST_LV_0400_20171128_002097	You sense a strange energy around the Crystal?{nl}It seems that Crystal Stone is protected by a different type of magic. You'll just have to neutralize its effects.
+QUEST_LV_0400_20171128_002098	I gave you a magic nullifying tool, no? The time has come for you to use it.{nl}Right now it has no power, but defeat a few of Solcomm's minions and monsters and fill it up with their spirits. 
+QUEST_LV_0400_20171128_002099	Fill the tool magic by defeating the monsters and Solcomm's minions in the area.{nl}When it's fully charged, go and remove the magic around the Crystal Stone. 
+QUEST_LV_0400_20171128_002100	And like that, the Stone in this area has been handled...But still...{nl}There should have been some sort of appearance when that human broke the first Crystal Stone.
+QUEST_LV_0400_20171128_002101	Are you acting more cautious than before, or are you scared?
+QUEST_LV_0400_20171128_002102	The human I brought along ended up breaking the Crystal Stone that was here.{nl}Trying to make my life difficult, I see.{nl}
+QUEST_LV_0400_20171128_002103	But despite all this, Solcomm has yet to appear.{nl}And now that I think about it, outside Zibukas Crossroad hasn't been checked. I'll have to inspect there as well.
+QUEST_LV_0400_20171128_002104	If Solcomm isn't found, then this whole process has been meaningless.{nl}This doesn't bode well for you either. Go check the location I mentioned.
+QUEST_LV_0400_20171128_002105	Since there was a trap in place, there was no use. That's how he kept his Demon Lord status. Pretty arrogant, no?{nl}One can understand F'vetta's interest. Anyway, since there was a trap there, that means he's in this area. 
+QUEST_LV_0400_20171128_002106	Well, even if it's not necessarily a trap, I think Solcomm is hiding in this area looking for his chance.{nl}Don't be a chicken. Look carefully and smoke him out.
+QUEST_LV_0400_20171128_002107	It's disappointing that Solcomm escaped this time, but he won't be free of me so easily.{nl}There are very few places where he can run off too, so it's only a matter of time. 
+QUEST_LV_0400_20171128_002108	I'm completely grateful that you completed my request, despite its unreasonableness.{nl}And now I know it's shameless to ask you for another, but I do have a favor to ask.{nl}
+QUEST_LV_0400_20171128_002109	Our task here is to do recon on the area but certain circumstances have made it difficult.{nl}I trust your strength and I ask for your help. With it, we can safely complete our work here.
+QUEST_LV_0400_20171128_002110	Really thank you! The first task is to burn the demon's supply chests.{nl}Before you arrived, I had investigated the area and found a few of them here and there.
+QUEST_LV_0400_20171128_002111	The supplies have yet to be arranged.{nl}We cannot miss this opportunity to cause some confusion. I'll provide the materials needed to start a fire, so please help.
+QUEST_LV_0400_20171128_002112	What's happening here... It was quite a lucky chance to come here and see Solcomm's movements.{nl}And the Crystal Stone to be broken... the Lieutenant should have been more careful...
+QUEST_LV_0400_20171128_002113	Thank you. The demons will also face some confusion over their disappearing supplies.
+QUEST_LV_0400_20171128_002114	Seeing as how strong you are, I hope that you can help with another task.{nl}Zibukas Crossroad is always overrun with demons that it makes recon incredibly difficult.
+QUEST_LV_0400_20171128_002115	What I'm saying is: our information is a bit outdated. Please take this Parchment and{nl}record the overall layout of the area in that direction. Would this be possible?
+QUEST_LV_0400_20171128_002116	For a long time we have been unable to investigate Zibukas Crossroad due to the number of demons.{nl}The resistance would greatly benefit from your help in this matter. 
+QUEST_LV_0400_20171128_002117	Thanks to you we can finally update our information.{nl}This will surely help the resistance's future plans. Thank you very much. 
+QUEST_LV_0400_20171128_002118	You mentioned some wagons in the record you wrote. The demons must be using them to move their supplies.{nl}I'll give you the tools necessary to burn down those wagons. Then, the demons will also face some hardships.
+QUEST_LV_0400_20171128_002119	If it wasn't for you, we would have missed these small details.{nl}The information you have recorded for us, will help the resistance.
+QUEST_LV_0400_20171128_002120	Well done! For the time being, the supply line to this direction has been cut.{nl}You did us a great favor. Really, thank you so much!
+QUEST_LV_0400_20171128_002121	Thanks to you, our task has become a bit easier but those demons still weigh on my mind...{nl}To help our recon work run more smoothly, could you please get rid of the demons in the area?
+QUEST_LV_0400_20171128_002122	I am forever indebted to you. And I'm sure the Goddess will also hear of the work you have done for us
+QUEST_LV_0400_20171128_002123	Just amazing! Work will go on a bit more smoothly now.{nl}Of course, completely eliminating the demons will be difficult, but you are free to try.
+QUEST_LV_0400_20171128_002124	Resistor Abraomas
+QUEST_LV_0400_20171128_002125	If it's okay with you, I have a small request. Actually a new recruit who went looking for the Lieutenant went missing.{nl}I went searching for him myself but its a bit hard for me to keep moving.{nl}
+QUEST_LV_0400_20171128_002126	Any kind of information would be good..{nl}In this vicinity, if you find a clue about the new recruit will you please inform me?
+QUEST_LV_0400_20171128_002127	Please... let him be safe. I worry so much. He is full of guts but has so much to learn...Hah.
+QUEST_LV_0400_20171128_002128	T-This...belonged to out new recruit! Then this means something did happen.{nl} Ohhh...if only he was more careful...
+QUEST_LV_0400_20171128_002129	If... he's really gone... M-maybe across there...? But that would be dangerous!{nl}The number of demons there... I'm sorry but could you please go across there and look for him?
+QUEST_LV_0400_20171128_002130	Thank you. I want to go myself but... as you can see, Officer Skirgaila said it is dangerous...{nl}Please go in my stead...
+QUEST_LV_0400_20171128_002131	Any kind of trace of him would be good. No matter what you come across, please tell me.{nl}This person is very important to me...
+QUEST_LV_0400_20171128_002132	That... belonged to him. That was the extra dragger he carried with him.{nl}Ohh, after gathering all these clues, is it still okay to believe he is still alive?
+QUEST_LV_0400_20171128_002133	The last place is Lanko 22 Waters.. that's the demon's post. Which makes me more worried.{nl}Could you please check this final location? Ah, his name 
+QUEST_LV_0400_20171128_002134	Leonardas
+QUEST_LV_0400_20171128_002135	Leonardas.
+QUEST_LV_0400_20171128_002136	Although we are not blood relatives, this recruit is like a brother to me.{nl}He always looked up to me and followed me into the army...If he disappears I...Ohhh...
+QUEST_LV_0400_20171128_002137	Resistor Leonardas
+QUEST_LV_0400_20171128_002138	Wh-Who are you? You? Abraomas asked you to come find me? Ha, haha...thank you.{nl}I really though...I would die...really...I've caused so much trouble...Ah, again, thank you for coming.
+QUEST_LV_0400_20171128_002139	I have something to do so, you, go to Lanko 22 Waters. Find Solcomm and kill him.{nl}If you try to pull anything funny, just remember that I have the person you're looking for. 
+QUEST_LV_0400_20171128_002140	...You've arrived. You've received a request from the Beholder to kill me, no?{nl}Before you do, I have a question. What did the Beholder say about me?
+QUEST_LV_0400_20171128_002141	So that's what he thinks... and you are forced to work with him. I understand everything now.{nl}I'll tell you this. The energy that the Beholder has asked you to gather is not mine.{nl}
+QUEST_LV_0400_20171128_002142	The true purpose of the Crystal Stones is to record information about the area. In other words, what you collected was information.{nl}Now image if this fell into the Beholder's hands..Where will he use it, I wonder.
+QUEST_LV_0400_20171128_002143	You understand quickly. 
+QUEST_LV_0400_20171128_002144	Killing me
+QUEST_LV_0400_20171128_002145	was the request, but there was none for destroying the Crystal Stone.{nl}That's the key. I would recommend interrupting his little plan by destroying them.
+QUEST_LV_0400_20171128_002146	I wouldn't say anything bad to a person who was taken advantage of. Now, tell me your thoughts.
+QUEST_LV_0400_20171128_002147	Your task is to destroy the two Crystal Stones here and the remaining ones in Lanko 26 Waters.{nl}The ones here and the ones there are connected so using the self-destruction device will work fine. It won't be dangerous.{nl}
+QUEST_LV_0400_20171128_002148	Start with the ones over here. Negilus Inner Court is the closest so check that Crystal Stone first.{nl}The security devices are running, so destroy them all. If you do, the Crystal Stone will follow.
+QUEST_LV_0400_20171128_002149	Not only that one, but other Crystal Stones are protected in various ways.{nl}This is protect the records from others. What? This information isn't exclusive. 
+QUEST_LV_0400_20171128_002150	Well... you can also see it from your view.
+QUEST_LV_0400_20171128_002151	Hm... fascinating. Next, the Crystal Stone in the garden.
+QUEST_LV_0400_20171128_002152	The Stone in the garden is protected by magic, just like the ones you saw in the crossroads in Lanko 26 Waters.{nl}The easiest way to destroy it is to use a bomb that can penetrate and remove magic.
+QUEST_LV_0400_20171128_002153	You will have to make this bomb yourself. Here is the recipe and the materials.{nl} The rest are roots that you will have to gather from Lily Velly and Jelly Velly. Once the bomb is made, use it to destroy the Crystal Stone.
+QUEST_LV_0400_20171128_002154	Until now the Beholder has only sent his minions and has not appeared himself.{nl}What is he planning...
+QUEST_LV_0400_20171128_002155	Very good. Now to address the Crystal Stone in Lanko 26 Waters.{nl}We can overlook what type of plan he is devising, but we cannot allow the Beholder to have his way.
+QUEST_LV_0400_20171128_002156	The self-destruction device is hidden between the rocks in Dregnas Lot. Find it and activate it.{nl}But it will take some time, so I recommend keeping a lookout.
+QUEST_LV_0400_20171128_002157	Based on what you told me, I've realized that changing the Beholder's mind won't be possible.{nl}Instead, I'm going to thwart his plans. This is the conclusion I've come to.
+QUEST_LV_0400_20171128_002158	Now all of the Crystal Stone's are gone. The Beholder must be pulling hairs since his plan had been interrupted.{nl}And he will be on his way. Before all is revealed, I have another request for you.
+QUEST_LV_0400_20171128_002159	This request may be difficult for you to accept.{nl}But if you think of your future, this could be profitable. What do you think? Here me out.
+QUEST_LV_0400_20171128_002160	Although the result was different from intended, it was acceptable.{nl}I've already returned the Lieutenant you were looking for.He's possibly on his way back to the other resistance members by now.{nl}
+QUEST_LV_0400_20171128_002161	Well then, we'll part ways here. Stay alive, at least until we meet again.{nl}That will be my reward, no?
+QUEST_LV_0400_20171128_002162	I would like to return, but I've hurt myself here and there, making it hard for me to move.{nl}Would you mind lending me a hand?
+QUEST_LV_0400_20171128_002163	Thank you. Could you collect the materials I need?{nl}First you need to water the Lily Velly and Jelly Velly that live here with lake water and then gather their leaves.
+QUEST_LV_0400_20171128_002164	Have you heard? The water from Star Struck Lake Water is fatal to demons.{nl}What I'm making now will not be as effective, but I'm trying to make it as close to the level of Star Struck Lake as I can.
+QUEST_LV_0400_20171128_002165	Thank you. Now let's move on to the next stage.
+QUEST_LV_0400_20171128_002166	I'm trying to craft magical sap that has the effect of Star Struck Lake. However, we need something more than just the leaf.{nl}There are catalysts that promote magical reactions in the demons' storage nearby. Could you bring those to me?
+QUEST_LV_0400_20171128_002167	I found that storage in the past while trying to hide from demons.{nl}After going inside, I found a box, and saw the catalyst inside. I wanted to make something like this with the catalyst ever since.
+QUEST_LV_0400_20171128_002168	Thank you! All that's left to do is to make the sap.
+QUEST_LV_0400_20171128_002169	We're almost done! Can you craft some sap with the ingredients and the bottle I gave you?{nl}Here is the recipe for the sap. I'm sure you're much better at doing things like this than I am...
+QUEST_LV_0400_20171128_002170	I really hope this works like I hope it does. Everyone must be worried sick about me.{nl}I've even disobeyed orders to come here??I know I'll be in trouble, but I still want to go back soon.
+QUEST_LV_0400_20171128_002171	You're back! We'll be done after testing this sap on a demon.
+QUEST_LV_0400_20171128_002172	Here is a bottle of the sap we've made. Find a demon to test this on.{nl}If it works, you'll see its effects immediately. After that, please make sure to deal with the affected demon.
+QUEST_LV_0400_20171128_002173	How did it go? Did you have any trouble dealing with the demons?{nl}This is the first time I've actually made the sap, so I hope it worked.
+QUEST_LV_0400_20171128_002174	Thank you! I think I've mostly recovered while you were making the sap.{nl}All I have to do now is go back with the sap!
+QUEST_LV_0400_20171128_002175	Wait! I'm sorry to bother you, but I need to get back to my friends. However, I'm hurt...{nl}If you can, will you get rid of the demons around here to help me get back to my friends?
+QUEST_LV_0400_20171128_002176	There are lots of demons scattered around the way back to my friends.{nl}Would you get rid of these demons for me?
+QUEST_LV_0400_20171128_002177	Everyone must be worried about me... I disobeyed orders to find my lieutenant...{nl}I hope Adjutant General and everyone else is okay...
+QUEST_LV_0400_20171128_002178	Thank you. There are still some demons left in the area, but the situation has gotten much better.{nl}If possible, come back anytime to help me a bit more.
+QUEST_LV_0400_20171128_002179	This is troubling... I guess when it rains, it pours...{nl}Hey! Here! Ahh... Never mind. Sorry to bother you.
+QUEST_LV_0400_20171128_002180	My heart goes to you for helping us.{nl}Without you, we would still be regretting what we've done.
+QUEST_LV_0400_20171128_002181	Ah, it's you. Welcome. I've just heard that our lieutenant has returned. I truly appreciate your help!{nl}For now, we'll stay here a bit longer to assess the situation. We still need to carry on with our mission.
+QUEST_LV_0400_20171128_002182	I should have stopped him when I had the chance... If I have, this would not have happened...
+QUEST_LV_0400_20171128_002183	Huh? Is Leonardas still alive? The goddess must be watching over us...{nl}Thank you! And thank the goddess...
+QUEST_LV_0400_20171128_002184	Leonardas is getting ready to come back? With his injuries? Oh, goodness...{nl}We need to do something to help him. Thank you.
+QUEST_LV_0400_20171128_002185	Is there anything left to do? If you're worried about what I'm doing,{nl}don't bother. You wouldn't even understand. Just keep walking.
+QUEST_LV_0400_20171128_002186	Ughh... I need to go back... But my legs won't move the way I want... I hope everyone is okay...
+QUEST_LV_0400_20171128_002187	I need to go back to my comrades as soon as I can, but my injuries...{nl}Will you please help me?
+QUEST_LV_0400_20171128_002188	Thanks to you, I feel much better. I better get going.{nl}I've come this far, so I'll remain here for a bit to record the area. Thanks for your help.
+QUEST_LV_0400_20171128_002189	All right. I'll be brief and to the point.
+QUEST_LV_0400_20171128_002190	Ugh... Monsters took off with our supplies.{nl}We were preoccupied with demons...
+QUEST_LV_0400_20171128_002191	We need to repair the altar...{nl}No one expected demons to come here and destroy the altar...
+QUEST_LV_0400_20171128_002192	Following Jurate's words is becoming harder and harder.
+QUEST_LV_0400_20171128_002193	The demons' attacks are growing fiercer by the day.{nl}We need to do something about this...
+QUEST_LV_0400_20171128_002194	Emmanuelis
+QUEST_LV_0400_20171128_002195	The demons' plan has failed, but there is still much to do.
+QUEST_LV_0400_20171128_002196	This was a beautiful land blessed by the Goddess Jurate. But now, it's all ruined.
+QUEST_LV_0400_20171128_002197	The First Guest's Role (1)
+QUEST_LV_0400_20171128_002198	The First Guest's Role (2)
+QUEST_LV_0400_20171128_002199	I won't do it.
+QUEST_LV_0400_20171128_002200	Change of Focus
+QUEST_LV_0400_20171128_002201	I'll follow the plan
+QUEST_LV_0400_20171128_002202	Organize books
+QUEST_LV_0400_20171128_002203	Trapped Destiny (1)
+QUEST_LV_0400_20171128_002204	Trapped Destiny (2)
+QUEST_LV_0400_20171128_002205	Trapped Destiny (3)
+QUEST_LV_0400_20171128_002206	Trapped Destiny (4)
+QUEST_LV_0400_20171128_002207	I'll think it through
+QUEST_LV_0400_20171128_002208	I refuse.
+QUEST_LV_0400_20171128_002209	Going Below the Shadow (1)
+QUEST_LV_0400_20171128_002210	Going Below the Shadow (2)
+QUEST_LV_0400_20171128_002211	Going Below the Shadow (3)
+QUEST_LV_0400_20171128_002212	Going Below the Shadow (4)
+QUEST_LV_0400_20171128_002213	Going Below the Shadow (5)
+QUEST_LV_0400_20171128_002214	I'll think it through.
+QUEST_LV_0400_20171128_002215	Going Below the Shadow (6)
+QUEST_LV_0400_20171128_002216	I'll protect it with my life.
+QUEST_LV_0400_20171128_002217	Going Below the Shadow (7)
+QUEST_LV_0400_20171128_002218	What are you talking about?
+QUEST_LV_0400_20171128_002219	Necessary Mistake (1)
+QUEST_LV_0400_20171128_002220	Necessary Mistake (2)
+QUEST_LV_0400_20171128_002221	Necessary Mistake (3)
+QUEST_LV_0400_20171128_002222	I'll activate it.
+QUEST_LV_0400_20171128_002223	Necessary Mistake (4)
+QUEST_LV_0400_20171128_002224	Necessary Mistake (5)
+QUEST_LV_0400_20171128_002225	Necessary Mistake (6)
+QUEST_LV_0400_20171128_002226	Necessary Mistake (7)
+QUEST_LV_0400_20171128_002227	I'll protect it with my life.
+QUEST_LV_0400_20171128_002228	Necessary Mistake (8)
+QUEST_LV_0400_20171128_002229	I'll provide support.
+QUEST_LV_0400_20171128_002230	The History that Will Not Be Recorded (1)
+QUEST_LV_0400_20171128_002231	The History that Will Not Be Recorded (2)
+QUEST_LV_0400_20171128_002232	The History that Will Not Be Recorded (3)
+QUEST_LV_0400_20171128_002233	I'm not ready yet.
+QUEST_LV_0400_20171128_002234	The History that Will Not Be Recorded (4)
+QUEST_LV_0400_20171128_002235	I'll follow the instructions.
+QUEST_LV_0400_20171128_002236	The History that Will Not Be Recorded (5)
+QUEST_LV_0400_20171128_002237	I need to take care of something first.
+QUEST_LV_0400_20171128_002238	The History that Will Not Be Recorded (6)
+QUEST_LV_0400_20171128_002239	The History that Will Not Be Recorded (7)
+QUEST_LV_0400_20171128_002240	The History that Will Not Be Recorded (8)
+QUEST_LV_0400_20171128_002241	The History that Will Not Be Recorded (9)
+QUEST_LV_0400_20171128_002242	I will confront Giltine.
+QUEST_LV_0400_20171128_002243	Don't talk.
+QUEST_LV_0400_20171128_002244	Shadow of the Black Wing (1)
+QUEST_LV_0400_20171128_002245	Shadow of the Black Wing (2)
+QUEST_LV_0400_20171128_002246	Shadow of the Black Wing (3)
+QUEST_LV_0400_20171128_002247	Shadow of the Black Wing (4)
+QUEST_LV_0400_20171128_002248	Shadow of the Black Wing (5)
+QUEST_LV_0400_20171128_002249	Let's begin.
+QUEST_LV_0400_20171128_002250	Shadow of the Black Wing (6)
+QUEST_LV_0400_20171128_002251	I will fight back.
+QUEST_LV_0400_20171128_002252	The Clown from the Closing Show
+QUEST_LV_0400_20171128_002253	I will pass this along.
+QUEST_LV_0400_20171128_002254	Stop the Invasion
+QUEST_LV_0400_20171128_002255	Retrieve Unidentified Records
+QUEST_LV_0400_20171128_002256	Trading with Hostage at Stake
+QUEST_LV_0400_20171128_002257	I can't. I have other missions to take care of.
+QUEST_LV_0400_20171128_002258	[Trading with Hostage at Stake]{nl}Clear!
+QUEST_LV_0400_20171128_002259	Crystal Stone at the Rest Place
+QUEST_LV_0400_20171128_002260	I'll take care of it.
+QUEST_LV_0400_20171128_002261	I'm afraid I can't.
+QUEST_LV_0400_20171128_002262	Crystal Stone at the Lot
+QUEST_LV_0400_20171128_002263	Ask for more time.
+QUEST_LV_0400_20171128_002264	Investigating the Crystal Stone
+QUEST_LV_0400_20171128_002265	Crystal Stone at the Crossroad (1)
+QUEST_LV_0400_20171128_002266	I'll look into this.
+QUEST_LV_0400_20171128_002267	I need to rest for a bit.
+QUEST_LV_0400_20171128_002268	Crystal Stone at the Crossroad (2)
+QUEST_LV_0400_20171128_002269	I won't do it.
+QUEST_LV_0400_20171128_002270	It's filled with magical powers!
+QUEST_LV_0400_20171128_002271	Crystal Stone at the Crossroad (3)
+QUEST_LV_0400_20171128_002272	The Hidden Demon Lord
+QUEST_LV_0400_20171128_002273	I'll go check it out.
+QUEST_LV_0400_20171128_002274	Let's investigate the other side.
+QUEST_LV_0400_20171128_002275	It won't be much of a problem.
+QUEST_LV_0400_20171128_002276	Supply Removal Operation
+QUEST_LV_0400_20171128_002277	Can you ask someone else to do it?
+QUEST_LV_0400_20171128_002278	Investigation on Zibukas Crossroad's Ecosystem
+QUEST_LV_0400_20171128_002279	I'll record it for you.
+QUEST_LV_0400_20171128_002280	Burning Before Moving
+QUEST_LV_0400_20171128_002281	Leave it to me.
+QUEST_LV_0400_20171128_002282	I'm afraid it's too difficult for me.
+QUEST_LV_0400_20171128_002283	For Fluid Investigation
+QUEST_LV_0400_20171128_002284	I have other obligations.
+QUEST_LV_0400_20171128_002285	Where is the Recruit? (1)
+QUEST_LV_0400_20171128_002286	That's too much to ask of me.
+QUEST_LV_0400_20171128_002287	Where is the Recruit? (2)
+QUEST_LV_0400_20171128_002288	This will be too difficult to investigate.
+QUEST_LV_0400_20171128_002289	Where is the Recruit? (3)
+QUEST_LV_0400_20171128_002290	I'm afraid I can't.
+QUEST_LV_0400_20171128_002291	Where the Blue Light Leads
+QUEST_LV_0400_20171128_002292	I've just finished a battle. I can't.
+QUEST_LV_0400_20171128_002293	Double Cross Trading
+QUEST_LV_0400_20171128_002294	Telling the story
+QUEST_LV_0400_20171128_002295	I get what you're saying. Tell me what happened next.
+QUEST_LV_0400_20171128_002296	I don't know.
+QUEST_LV_0400_20171128_002297	Crystal Stone in the Courtyard
+QUEST_LV_0400_20171128_002298	It's too difficult for me.
+QUEST_LV_0400_20171128_002299	Checking the crystal stone
+QUEST_LV_0400_20171128_002300	Crystal Stone in the Garden (1)
+QUEST_LV_0400_20171128_002301	No, I won't get involved. It's too complicated.
+QUEST_LV_0400_20171128_002302	Crafted a Magic Nullification Bomb!
+QUEST_LV_0400_20171128_002303	Crystal Stone in the Garden (2)
+QUEST_LV_0400_20171128_002304	For Perfect Removal
+QUEST_LV_0400_20171128_002305	It will be too difficult to find.
+QUEST_LV_0400_20171128_002306	Activating self-destruction
+QUEST_LV_0400_20171128_002307	Conclusion with Different Interests
+QUEST_LV_0400_20171128_002308	I'll listen to it.
+QUEST_LV_0400_20171128_002309	I won't listen to it.
+QUEST_LV_0400_20171128_002310	A Leaf Grown by the Lake
+QUEST_LV_0400_20171128_002311	I'll help you later.
+QUEST_LV_0400_20171128_002312	Ingredient for Maximizing the Effect
+QUEST_LV_0400_20171128_002313	I'll go find it.
+QUEST_LV_0400_20171128_002314	Let's look for other ingredients.
+QUEST_LV_0400_20171128_002315	Spiritually Infused Lakeland Sap
+QUEST_LV_0400_20171128_002316	I'll make it for you.
+QUEST_LV_0400_20171128_002317	That's too much of a hassle.
+QUEST_LV_0400_20171128_002318	Sap of Wonders
+QUEST_LV_0400_20171128_002319	See for yourself.
+QUEST_LV_0400_20171128_002320	Reducing as Much as Possible
+QUEST_LV_0400_20171128_002321	I have other appointments.
+QUEST_LV_0400_20171128_002322	I Can Hear You Singing (1)
+QUEST_LV_0400_20171128_002323	I Can Hear You Singing (2)
+QUEST_LV_0400_20171128_002324	From which monster is the yellow juice from?
+QUEST_LV_0400_20171128_002325	I can't. Ask someone else for help.
+QUEST_LV_0400_20171128_002326	I Can Hear You Singing (3)
+QUEST_LV_0400_20171128_002327	Go look for Teresh pollen.
+QUEST_LV_0400_20171128_002328	I Can Hear You Singing (4)
+QUEST_LV_0400_20171128_002329	Go ahead.
+QUEST_LV_0400_20171128_002330	Do it later, just in case.
+QUEST_LV_0400_20171128_002331	Follow Indrea to Skauda Lot.
+QUEST_LV_0400_20171128_002332	I Can Hear You Singing (5)
+QUEST_LV_0400_20171128_002333	I'll go look for some raspberry juice.
+QUEST_LV_0400_20171128_002334	It'll be better if you look for it yourself.
+QUEST_LV_0400_20171128_002335	Indrea is applying raspberry juice on some branches.
+QUEST_LV_0400_20171128_002336	I Can Hear You Singing (6)
+QUEST_LV_0400_20171128_002337	I'll go lure some star fireflies.
+QUEST_LV_0400_20171128_002338	It'd be better if you do it yourself.
+QUEST_LV_0400_20171128_002339	I Can Hear You Singing (7)
+QUEST_LV_0400_20171128_002340	Let's observe the situation for now.
+QUEST_LV_0400_20171128_002341	Follow Indrea to Paslepti Lot.
+QUEST_LV_0400_20171128_002342	I Can Hear You Singing (8)
+QUEST_LV_0400_20171128_002343	Look around.
+QUEST_LV_0400_20171128_002344	I didn't get what you were saying. Good luck with that.
+QUEST_LV_0400_20171128_002345	I Can Hear You Singing (10)
+QUEST_LV_0400_20171128_002346	Let's listen to the song.
+QUEST_LV_0400_20171128_002347	Have fun listening.
+QUEST_LV_0400_20171128_002348	I Can Hear You Singing (11)
+QUEST_LV_0400_20171128_002349	Try it yourself.
+QUEST_LV_0400_20171128_002350	A Dog Wandering Tekel Shelter
+QUEST_LV_0400_20171128_002351	Follow.
+QUEST_LV_0400_20171128_002352	Don't Follow.
+QUEST_LV_0400_20171128_002353	Into a Dogfight
+QUEST_LV_0400_20171128_002354	It's too difficult. I refuse.
+QUEST_LV_0400_20171128_002355	The road to Narvas Temple is filled with demons fighting amongst themselves.{nl}As the monk said, burn the hunter demons' base to lure them out.
+QUEST_LV_0400_20171128_002356	Creating Distractions (1)
+QUEST_LV_0400_20171128_002357	Creating Distractions (2)
+QUEST_LV_0400_20171128_002358	The situation is under control.{nl}Gather Sporgimo flowers.
+QUEST_LV_0400_20171128_002359	Creating Distractions (3)
+QUEST_LV_0400_20171128_002360	You've gathered enough Sporgimo flowers.{nl}Place the flowers at the demons' structures.
+QUEST_LV_0400_20171128_002361	Creating Distractions (4)
+QUEST_LV_0400_20171128_002362	Creating Distractions (5)
+QUEST_LV_0400_20171128_002363	Hide.
+QUEST_LV_0400_20171128_002364	The situation seems fine so far.
+QUEST_LV_0400_20171128_002365	To Izoliacjia Plateau
+QUEST_LV_0400_20171128_002366	The demons guarding the place have been taken care of.{nl}Go to Narvas Temple through Izoliacjia Plateau.
+QUEST_LV_0400_20171128_002367	Narvas Temple's Barrier (1)
+QUEST_LV_0400_20171128_002368	I've been sent here by a monk from Tekel Shelter.
+QUEST_LV_0400_20171128_002369	I need a moment to take a breath. I'll tell you right after.
+QUEST_LV_0400_20171128_002370	Narvas Temple's Barrier (2)
+QUEST_LV_0400_20171128_002371	Request others for help.
+QUEST_LV_0400_20171128_002372	Narvas Temple's Barrier (3)
+QUEST_LV_0400_20171128_002373	Help Monk Aistis.
+QUEST_LV_0400_20171128_002374	I'll help you shortly after.
+QUEST_LV_0400_20171128_002375	Narvas Temple's Barrier (4)
+QUEST_LV_0400_20171128_002376	I'll deal with the demons. You go gather the components.
+QUEST_LV_0400_20171128_002377	It looks too dangerous.
+QUEST_LV_0400_20171128_002378	Narvas Temple's Barrier (5)
+QUEST_LV_0400_20171128_002379	What do you need me to do?
+QUEST_LV_0400_20171128_002380	Let's leave it be, and go somewhere else.
+QUEST_LV_0400_20171128_002381	Narvas Temple's Barrier (6)
+QUEST_LV_0400_20171128_002382	Turn off the defensive system! Hurry!
+QUEST_LV_0400_20171128_002383	Narvas Temple's Barrier (7)
+QUEST_LV_0400_20171128_002384	Assist Monk Aistis.
+QUEST_LV_0400_20171128_002385	You'll be fine on your own.
+QUEST_LV_0400_20171128_002386	Narvas Temple's Barrier (8)
+QUEST_LV_0400_20171128_002387	Let's go straight inside.
+QUEST_LV_0400_20171128_002388	Narvas Temple's Barrier (9)
+QUEST_LV_0400_20171128_002389	Go inside with Monk Aistis.
+QUEST_LV_0400_20171128_002390	Go inside right away.
+QUEST_LV_0400_20171128_002391	In to the Lion's Mouth (1)
+QUEST_LV_0400_20171128_002392	It's too dangerous. We need more people.
+QUEST_LV_0400_20171128_002393	In to the Lion's Mouth (2)
+QUEST_LV_0400_20171128_002394	Won't the demons notice us?
+QUEST_LV_0400_20171128_002395	Let's look for other energy sources.
+QUEST_LV_0400_20171128_002396	Delivering Strong Essence of Demon.
+QUEST_LV_0400_20171128_002397	In to the Lion's Mouth (3)
+QUEST_LV_0400_20171128_002398	Just say the word, and I'll help.
+QUEST_LV_0400_20171128_002399	I don't think that's a good idea.
+QUEST_LV_0400_20171128_002400	In to the Lion's Mouth (4)
+QUEST_LV_0400_20171128_002401	Delivering Corrupted Essence.
+QUEST_LV_0400_20171128_002402	In to the Lion's Mouth (5)
+QUEST_LV_0400_20171128_002403	Who are you talking about?
+QUEST_LV_0400_20171128_002404	Get out of the area.
+QUEST_LV_0400_20171128_002405	In to the Lion's Mouth (6)
+QUEST_LV_0400_20171128_002406	It can't be! I'll go save the monks.
+QUEST_LV_0400_20171128_002407	Let's just go past them.
+QUEST_LV_0400_20171128_002408	Stopping the spirit transformation device
+QUEST_LV_0400_20171128_002409	In to the Lion's Mouth (7)
+QUEST_LV_0400_20171128_002410	Go to the area.
+QUEST_LV_0400_20171128_002411	Go on ahead.
+QUEST_LV_0400_20171128_002412	In to the Lion's Mouth (8)
+QUEST_LV_0400_20171128_002413	Go to the locked system to bring the parts.
+QUEST_LV_0400_20171128_002414	It seems too difficult for me.
+QUEST_LV_0400_20171128_002415	Placing the Apparition Generator
+QUEST_LV_0400_20171128_002416	In to the Lion's Mouth (9)
+QUEST_LV_0400_20171128_002417	Follow her words.
+QUEST_LV_0400_20171128_002418	In to the Lion's Mouth (10)
+QUEST_LV_0400_20171128_002419	Let's leave it be.
+QUEST_LV_0400_20171128_002420	Everything will go as we planned.
+QUEST_LV_0400_20171128_002421	Listen to further plans.
+QUEST_LV_0400_20171128_002422	It's getting more dangerous by the minute.
+QUEST_LV_0400_20171128_002423	One by One
+QUEST_LV_0400_20171128_002424	Approach Deception Hauberk.
+QUEST_LV_0400_20171128_002425	Suspiciously Secretive (1)
+QUEST_LV_0400_20171128_002426	How shall I conduct the search?
+QUEST_LV_0400_20171128_002427	Suspiciously Secretive (2)
+QUEST_LV_0400_20171128_002428	It seems complicated, but I'll try.
+QUEST_LV_0400_20171128_002429	Let's come up with another plan.
+QUEST_LV_0400_20171128_002430	Placing the flesh of Black Hohen Olben
+QUEST_LV_0400_20171128_002431	Placed the flesh of Black Hohen Olben.
+QUEST_LV_0400_20171128_002432	Suspiciously Secretive (3)
+QUEST_LV_0400_20171128_002433	Go and deal with King Hammer.
+QUEST_LV_0400_20171128_002434	Placing King Hammer's Blood
+QUEST_LV_0400_20171128_002435	Placed King Hammer's Blood
+QUEST_LV_0400_20171128_002436	Suspiciously Secretive (4)
+QUEST_LV_0400_20171128_002437	Prepare to approach Suspicion Hauberk.
+QUEST_LV_0400_20171128_002438	I need some time to prepare.
+QUEST_LV_0400_20171128_002439	Suspiciously Secretive (5)
+QUEST_LV_0400_20171128_002440	Go to alter the system.
+QUEST_LV_0400_20171128_002441	We need more experts.
+QUEST_LV_0400_20171128_002442	Suspiciously Secretive (6)
+QUEST_LV_0400_20171128_002443	Approach Suspicion Hauberk.
+QUEST_LV_0400_20171128_002444	Suspiciously Secretive (7)
+QUEST_LV_0400_20171128_002445	How would you like to do this?
+QUEST_LV_0400_20171128_002446	Leave the area.
+QUEST_LV_0400_20171128_002447	Suspiciously Secretive (8)
+QUEST_LV_0400_20171128_002448	I'll go and retrieve the essence.
+QUEST_LV_0400_20171128_002449	Never mind that. Let's just use the Registry Orb.
+QUEST_LV_0400_20171128_002450	Placing essence of Black Harugal
+QUEST_LV_0400_20171128_002451	Placed essence of Black Harugal.
+QUEST_LV_0400_20171128_002452	Suspiciously Secretive (9)
+QUEST_LV_0400_20171128_002453	Leave and use the Registry Orb.
+QUEST_LV_0400_20171128_002454	I need a moment to prepare.
+QUEST_LV_0400_20171128_002455	Ambition Hauberk's minions are brainwashed.{nl}Closely watch the minions give a false report to Ambition Hauberk.
+QUEST_LV_0400_20171128_002456	Suspiciously Secretive (10)
+QUEST_LV_0400_20171128_002457	Suspiciously Secretive (11)
+QUEST_LV_0400_20171128_002458	Go to Monk Aistis.
+QUEST_LV_0400_20171128_002459	I'm getting nervous...
+QUEST_LV_0400_20171128_002460	Reactivating Narvas Temple
+QUEST_LV_0400_20171128_002461	We can defeat all three Hauberks without using it.
+QUEST_LV_0400_20171128_002462	Narvas Temple is being reactivated.{nl}Use the portal device to go to Hauberk.
+QUEST_LV_0400_20171128_002463	Long Dreams Are Dreamt at Narvas Temple (1)
+QUEST_LV_0400_20171128_002464	Using the portal
+QUEST_LV_0400_20171128_002465	Long Dreams Are Dreamt at Narvas Temple (2)
+QUEST_LV_0400_20171128_002466	What will happen, then?
+QUEST_LV_0400_20171128_002467	Good work. I'll get going now.
+QUEST_LV_0400_20171128_002468	I Can Hear You Singing (9)
+QUEST_LV_0400_20171128_002469	Follow Indrea to Dainuoti Lot.
+QUEST_LV_0400_20171128_002470	First Guest's Role
+QUEST_LV_0400_20171128_002471	Talk to Neringa
+QUEST_LV_0400_20171128_002472	Someone is waiting to meet you from deep inside Nobreer Forest.
+QUEST_LV_0400_20171128_002473	Neringa needs the savior's help to realize what Laima has foreseen. Let's hear what Neringa has to say.
+QUEST_LV_0400_20171128_002474	Neringa has told you of the savior's role in all this. Talk to her and proceed with the plan.
+QUEST_LV_0400_20171128_002475	Neringa is waiting for you to finish the preparations.
+QUEST_LV_0400_20171128_002476	Enter Fantasy Library
+QUEST_LV_0400_20171128_002477	You told Neringa that you will follow Goddess Laima's forecast and act with her. Enter Fantastic Library: Sausys Room 9 through the portal.
+QUEST_LV_0400_20171128_002478	Talk to Goddess Vaivora
+QUEST_LV_0400_20171128_002479	You've entered Sausys Room 9. You are waiting for Goddess Vaivora to give instructions.
+QUEST_LV_0400_20171128_002480	Neringa is waiting for you in Sausys Room 9.
+QUEST_LV_0400_20171128_002481	Defeat the demons who have infiltrated the place
+QUEST_LV_0400_20171128_002482	Neringa instructed you to defeat demons who have intruded Sausys Room 9. By doing this, you might gain Goddess Vaivora's trust.
+QUEST_LV_0400_20171128_002483	You have defeated enough demons. Talk to Neringa and ask for further instructions.
+QUEST_LV_0400_20171128_002484	Defeat the demons in the area
+QUEST_LV_0400_20171128_002485	Collect Scattered Records
+QUEST_LV_0400_20171128_002486	Neringa has asked you to collect Scattered Records that were scattered by demons. Goddess Vaivora wants her records to be properly organized.
+QUEST_LV_0400_20171128_002487	You've collected enough Scattered Records. Return to Neringa to ask what her next plan is.
+QUEST_LV_0400_20171128_002488	Nailed Down Destiny
+QUEST_LV_0400_20171128_002489	Remove demons' Kupole traps
+QUEST_LV_0400_20171128_002490	Neringa has asked you to destroy the traps that demons have set to stop Vaivora's Kupoles. It will be dangerous, but if you help her Kupoles, you will definitely gain her trust.
+QUEST_LV_0400_20171128_002491	Talk to Kupole Rugile
+QUEST_LV_0400_20171128_002492	You've removed enough Kupole traps that were set by demons. Neringa has asked you to tell Kupole Rugile of your success and provide further assistance.
+QUEST_LV_0400_20171128_002493	Kupole Rugile is waiting for you in Sausys Room 9.
+QUEST_LV_0400_20171128_002494	Remove the demons' points of invasion
+QUEST_LV_0400_20171128_002495	Kupole Rugile has asked you to remove the demons' points of invasion by using a Dimensional Search Scroll.
+QUEST_LV_0400_20171128_002496	You've removed enough points of invasion. Return to Kupole Rugile and report.
+QUEST_LV_0400_20171128_002497	Kupole Rugile needs your help in dealing with demons in Sausys Room 9. Defeat demons around the area to help Kupole Rugile.
+QUEST_LV_0400_20171128_002498	You've defeated enough demons. Return to Kupole Rugile and report.
+QUEST_LV_0400_20171128_002499	You've finished all of Kupole Rulgile's requests as Neringa has instructed. Return to Neringa.
+QUEST_LV_0400_20171128_002500	Going Below the Shadow
+QUEST_LV_0400_20171128_002501	Neringa is waiting for you in Sausys Room 10.
+QUEST_LV_0400_20171128_002502	Destroy the corrupted crystals
+QUEST_LV_0400_20171128_002503	Neringa has instructed you to destroy the corrupted crystals, which are planted by demons to incapacitate Fantasy Library's defenses. If these crystals aren't destroyed, Kupoles will be neutralized, which will reveal Neringa's location to the Beholder.
+QUEST_LV_0400_20171128_002504	You've destroyed enough corrupted crystals. Return to Neringa and report.
+QUEST_LV_0400_20171128_002505	Neringa has instructed you to defeat the demons who are threatening Kupole Saya. Defeat the demons around Kupole Saya.
+QUEST_LV_0400_20171128_002506	Talk to Kupole Saya
+QUEST_LV_0400_20171128_002507	You've defeated enough demons as Neringa has instructed. Go to Kupole Saya.
+QUEST_LV_0400_20171128_002508	Kupole Saya is waiting for you in Sausys Room 10
+QUEST_LV_0400_20171128_002509	Collect Trasium Pieces
+QUEST_LV_0400_20171128_002510	Kupole Saya has asked you to collect Trasium Pieces to repair the holy relic.
+QUEST_LV_0400_20171128_002511	You've collected enough Trasium Pieces. Hand them over to Kupole Saya.
+QUEST_LV_0400_20171128_002512	Kupole Saya has told you that Neringa is looking for you. Return to Neringa.
+QUEST_LV_0400_20171128_002513	Deactivate the Magic Prison
+QUEST_LV_0400_20171128_002514	Neringa has told you that Kupole Ouida, Vaivora's right hand, is locked inside a magic prison. Deactivate the magic prison and rescue Kupole Ouida.
+QUEST_LV_0400_20171128_002515	Talk to Kupole Ouida
+QUEST_LV_0400_20171128_002516	You have rescued Kupole Ouida from the magic prison. Talk to Kupole Ouida.
+QUEST_LV_0400_20171128_002517	Kupole Ouida is waiting for you in Sausys Room 10.
+QUEST_LV_0400_20171128_002518	Protect the Protection Crystal.
+QUEST_LV_0400_20171128_002519	Defeat all the demons who are trying to destroy the Protection Crystal.
+QUEST_LV_0400_20171128_002520	You've defeated all the demons who were trying to destroy the Protection Crystal. Talk to Neringa.
+QUEST_LV_0400_20171128_002521	Face to Face with the Beholder
+QUEST_LV_0400_20171128_002522	The Beholder has arrived, just like Neringa said. Listen to what he has to say.
+QUEST_LV_0400_20171128_002523	The Beholder is gone. Ask Neringa about her next plan.
+QUEST_LV_0400_20171128_002524	Necessary Mistake
+QUEST_LV_0400_20171128_002525	Neringa is waiting for you in Valandis Room 2.
+QUEST_LV_0400_20171128_002526	You have finally caught Goddess Vaivora's attention. Talk to Goddess Vaivora.
+QUEST_LV_0400_20171128_002527	Goddess Vaivora has left after giving instructions. Discuss the details with Neringa.
+QUEST_LV_0400_20171128_002528	Neringa has informed you that killing demons will force Litae to come out and ask for more help. Go defeat some demons.
+QUEST_LV_0400_20171128_002529	Talk to Kupole Litae
+QUEST_LV_0400_20171128_002530	Kupole Litae has appeared, and is looking for you.
+QUEST_LV_0400_20171128_002531	Kupole Litae is waiting for you in Valandis Room 2.
+QUEST_LV_0400_20171128_002532	Recharge the Magic Device
+QUEST_LV_0400_20171128_002533	Kupole Litae has told you that you must recharge the magic device for Goddess Vaivora to seal Giltine away. The recharged device will then appear where it's needed. Recharge the magic device.
+QUEST_LV_0400_20171128_002534	You have recharged the magic device. Report to Kupole Litae.
+QUEST_LV_0400_20171128_002535	Collect Nobrenal Powers
+QUEST_LV_0400_20171128_002536	Neringa has asked you to collect Nobrenal Powers to protect yourself when facing Giltine. Collect Nobrenal Powers in Valandis Room 2.
+QUEST_LV_0400_20171128_002537	You have collected enough Nobrenal Powers. Give them to Neringa.
+QUEST_LV_0400_20171128_002538	Neringa has instructed you to meet with Goddess Vaivora.
+QUEST_LV_0400_20171128_002539	Talk to Kupole Danute
+QUEST_LV_0400_20171128_002540	Kupole Danute is waiting for you in Valandis Room 2.
+QUEST_LV_0400_20171128_002541	Collect the necessary tools for maintaining the magic device
+QUEST_LV_0400_20171128_002542	Kupole Danute has mentioned that maintaining magic devices is crucial in carrying out Vaivora's plans. However, more Dimensional Essences are needed for that. You've been asked to defeat demons and take their magic sources.
+QUEST_LV_0400_20171128_002543	You've collected enough magic sources. Give them to Kupole Danute.
+QUEST_LV_0400_20171128_002544	Protect the Protection Crystal
+QUEST_LV_0400_20171128_002545	Kupole Danute has asked you to protect the Protection Crystal in Valandis Room 2. This will help Vaivora's plan. Eliminate the demons around the Protection Crystal to protect it.
+QUEST_LV_0400_20171128_002546	You have protected the Protection Crystal. Report to Kupole Danute.
+QUEST_LV_0400_20171128_002547	Sealing Altar
+QUEST_LV_0400_20171128_002548	Giltine hasn't fallen for Goddess Vaivora's trap. Defeat the Templeshooters and retrieve Record: Giltine from them.
+QUEST_LV_0400_20171128_002549	You've retrieved Record: Giltine by defeating Templeshooters. Discuss with Neringa about the next plan.
+QUEST_LV_0400_20171128_002550	The History that Will Not Be Recorded
+QUEST_LV_0400_20171128_002551	Neringa is waiting for you in Valandis Room 3.
+QUEST_LV_0400_20171128_002552	Neringa has told you to listen to Goddess Vaivora's plans from her, and follow further instructions.
+QUEST_LV_0400_20171128_002553	You have listened to Goddess Vaivora's plans. Before carrying out her plans, discuss with Neringa.
+QUEST_LV_0400_20171128_002554	Goddess Vaivora is waiting for you in Valandis Room 3.
+QUEST_LV_0400_20171128_002555	Protect the Bluenode Collapsing Device
+QUEST_LV_0400_20171128_002556	Goddess Vaivora has asked you to protect the Bluenode Collapsing Device for it to run in a stable state.
+QUEST_LV_0400_20171128_002557	You have defeated all demons who have been attacking the Bluenode Collapsing Device.
+QUEST_LV_0400_20171128_002558	Collect Monumental Magic Sources
+QUEST_LV_0400_20171128_002559	Goddess Vaivora has asked you to collect Monumental Magic Source to recharge the Flicid Collapsing Device. She has also told you to go to Neringa for instructions after collecting the sources.
+QUEST_LV_0400_20171128_002560	You have collected enough Monumental Magic Source. Go to Neringa for further instructions.
+QUEST_LV_0400_20171128_002561	Activate the Flicid Collapsing Device
+QUEST_LV_0400_20171128_002562	Neringa has instructed you on the final plan and how to activate the Flicid Collapsing Device. Activate the Flicid Collapsing Device.
+QUEST_LV_0400_20171128_002563	The Flicid Collapsing Device has been activated. Report to Goddess Vaivora.
+QUEST_LV_0400_20171128_002564	Talk to Kupole Scaia
+QUEST_LV_0400_20171128_002565	Goddess Vaivora has asked you to help Kupole Scaia and activate the Ballandans Collapsing Device. First, go find Kupole Scaia.
+QUEST_LV_0400_20171128_002566	Kupole Scaia is waiting for you in Valandis Room 3.
+QUEST_LV_0400_20171128_002567	Kupole Scaia has asked you to defeat the demons in the area to activate the collapsing device. Defeat the demons and activate the Ballandans Collapsing Device.
+QUEST_LV_0400_20171128_002568	Activate the Ballandans Collapsing Device
+QUEST_LV_0400_20171128_002569	Kupole Scaia has asked you to activate the Ballandans Collapsing Device. Activate the device and protect it from the demons' attacks.
+QUEST_LV_0400_20171128_002570	You have activated the Ballandans Collapsing Device. Return to Goddess Vaivora.
+QUEST_LV_0400_20171128_002571	Defeat Demon Lord Lucy
+QUEST_LV_0400_20171128_002572	Neringa has instructed you to make it look as if demons have destroyed the Ballanorth Collapsing Device. After activating the device, defeat Demon Lord Lucy near the device. After defeating Demon Lord Lucy, the magic explosion will overload the collapsing device and destroy it.
+QUEST_LV_0400_20171128_002573	As planned, Demon Lord Lucy has been defeated, and the Ballanorth Collapsing Device has been destroyed due to overload. Report to Neringa.
+QUEST_LV_0400_20171128_002574	Neringa is waiting for you in Valandis Room 91.
+QUEST_LV_0400_20171128_002575	Shadow of the Black Wing
+QUEST_LV_0400_20171128_002576	Destroy Demon Dimensional Door
+QUEST_LV_0400_20171128_002577	Before fighting Giltine, Neringa has told you to destroy the Dimensional Doors that the demons have been using for their invasions. Destroy all the Dimensional Doors before meeting with Neringa.
+QUEST_LV_0400_20171128_002578	Track down Giltine
+QUEST_LV_0400_20171128_002579	Neringa has told you that Giltine has approached the Revelation. Protect and follow Neringa to track down Giltine.
+QUEST_LV_0400_20171128_002580	Confront Demon Goddess Giltine
+QUEST_LV_0400_20171128_002581	Demon Goddess Giltine has finally reached the Revelation. Neringa has told you to follow Laima's prophecy and put on end to the plan.
+QUEST_LV_0400_20171128_002582	You have followed Laima's prophecy. Report to Goddess Vaivora.
+QUEST_LV_0400_20171128_002583	Defeat the demons carrying Magic Signals
+QUEST_LV_0400_20171128_002584	Kupole Rugile has asked you to eliminate demons who have been creating points of invasions. Defeat the demons who are carrying Magic Signals.
+QUEST_LV_0400_20171128_002585	You have defeated enough demons carrying Magic Signals. Report to Kupole Rugile.
+QUEST_LV_0400_20171128_002586	Kupole Rugile has told you that the demons have stolen unidentified records. Defeat the demons to retrieve the records.
+QUEST_LV_0400_20171128_002587	You have retrieved enough unidentified records. Give them to Kupole Rugile.
+QUEST_LV_0400_20171128_002588	Talk to Skirgaila
+QUEST_LV_0400_20171128_002589	Something has happened to Skirgaila, who is a member of the resistance scouts.{nl}Go talk to Skirgaila.
+QUEST_LV_0400_20171128_002590	Talk to the Beholder
+QUEST_LV_0400_20171128_002591	A lieutenant of the search squad has been captured by the Beholder.{nl}Find the Beholder and ask what happened.
+QUEST_LV_0400_20171128_002592	You'll have to help the Beholder to save the lieutenant.{nl}Talk to the Beholder.
+QUEST_LV_0400_20171128_002593	Absorb magic from a Crystal stone in Prieblanda Rest Place
+QUEST_LV_0400_20171128_002594	In order to remove the protection wall surrounding a Crystal Stone in Prieblanda Rest Place, find the deactivation procedure to deactivate its protection. After the protection has been removed, absorb magic from the Crystal Stone.
+QUEST_LV_0400_20171128_002595	You have deactivated the Crystal Stone and filled the orb with magic.{nl}Give the orb to the Beholder.
+QUEST_LV_0400_20171128_002596	Ask the Beholder where the next crystal is.
+QUEST_LV_0400_20171128_002597	Absorb magic from a Crystal Stone in Lemtis Lot
+QUEST_LV_0400_20171128_002598	The Beholder has asked you to absorb magic from a Crystal Stone in the Lot.{nl}Investigate the Crystal Stone to find the deactivation procedure and deactivate its protection. After the protection has been removed, absorb magic from the Crystal Stone.
+QUEST_LV_0400_20171128_002599	You have absorbed magic from the Crystal Stone in the lot.{nl}Talk to the Beholder to hand over the absorbed magic.
+QUEST_LV_0400_20171128_002600	Investigate the Crystal Stone in Lemtis Lot
+QUEST_LV_0400_20171128_002601	Crystal Stone in the crossroad
+QUEST_LV_0400_20171128_002602	You have absorbed magic from the Crystal Stone in the lot. Hand over the orb to the Beholder and ask where to find next.
+QUEST_LV_0400_20171128_002603	Absorb magic from the Crystal Stone in Zibukas Crossroad
+QUEST_LV_0400_20171128_002604	The Beholder has asked you to check the Crystal Stone in Zibukas Crossroad.{nl}Go to the crossroad to investigate.
+QUEST_LV_0400_20171128_002605	The Crystal Stone in Zibukas Crossroad seems to be protected with strong magic.{nl}Inform the Beholder about this.
+QUEST_LV_0400_20171128_002606	The Beholder might have some ideas on how to remove the protection.{nl}Talk to the Beholder.
+QUEST_LV_0400_20171128_002607	Absorb magic with a Magic Nullifying Tool
+QUEST_LV_0400_20171128_002608	The Beholder has given you a tool to nullify magic, and told you to fill the tool with magic.{nl}Defeat the demons in the area to absorb their souls into the tool.
+QUEST_LV_0400_20171128_002609	You have filled the tool with magic.{nl}Use the tool to nullify the protection and absorb the Crystal Stone's magic.
+QUEST_LV_0400_20171128_002610	You have nullified the protection and absorbed its magic into an orb.{nl}Take it to the Beholder.{nl}
+QUEST_LV_0400_20171128_002611	You have given the Beholder the orb, but the Beholder doesn't seem to be satisfied.{nl}Listen to what the Beholder has to say.
+QUEST_LV_0400_20171128_002612	Investigate the area around the crossroad
+QUEST_LV_0400_20171128_002613	The Beholder has asked you to investigate the area around the crossroad.{nl}Go investigate where the Beholder has mentioned.
+QUEST_LV_0400_20171128_002614	You have defeated all demons who have ambushed you.{nl}Tell the Beholder what happened.
+QUEST_LV_0400_20171128_002615	Defeat ambushing demons
+QUEST_LV_0400_20171128_002616	The Beholder thinks the vanished light has a suspicious quality to it.{nl}Talk to the Beholder.
+QUEST_LV_0400_20171128_002617	Battle with Demon Lord Solcomm
+QUEST_LV_0400_20171128_002618	It was Demon Lord Solcomm who sent out the light.{nl}In order to save the lieutenant from the Beholder, you must defeat Solcomm.
+QUEST_LV_0400_20171128_002619	Injured Solcomm has run away from the battle.{nl}Go to the Beholder and ask what the next plan is.
+QUEST_LV_0400_20171128_002620	Skirgaila seems to have more requests.{nl}Go talk to Skirgaila.
+QUEST_LV_0400_20171128_002621	Burn the Supply Boxes
+QUEST_LV_0400_20171128_002622	Skirgaila says they have found some supply boxes that are owned by demons.{nl} Go to Menua Crossroad and burn the supply boxes in the area.
+QUEST_LV_0400_20171128_002623	You have burned all the supply boxes in the area.{nl}Go back to Skirgaila and report.
+QUEST_LV_0400_20171128_002624	Skirgaila is impressed with your capabilities, and have more favors to ask.{nl}Talk to Skirgaila.
+QUEST_LV_0400_20171128_002625	Investigate Zibukas Crossroad
+QUEST_LV_0400_20171128_002626	Skirgaila has asked you to examine and record the ecosystem of Zibukas Crossroad.{nl}Go to the crossroad and record what you've found.
+QUEST_LV_0400_20171128_002627	You have recorded all the necessary information.{nl}Bring the recorded document and hand it over to Skirgaila.
+QUEST_LV_0400_20171128_002628	Skirgaila has found something from the record you've made.{nl}Talk to Skirgaila.
+QUEST_LV_0400_20171128_002629	Burn the supplies wagon at the crossroad
+QUEST_LV_0400_20171128_002630	Pour oil over the demons' supply wagon and use a match to burn it.
+QUEST_LV_0400_20171128_002631	You have burned all the supply wagons.{nl}Report to Skirgaila.
+QUEST_LV_0400_20171128_002632	Skirgaila needs more help for the investigation.{nl}Talk to Skirgaila.
+QUEST_LV_0400_20171128_002633	Defeat demons around Lanko 26 Waters
+QUEST_LV_0400_20171128_002634	Defeat demons around Lanko 26 Waters for the resistance and their investigations.
+QUEST_LV_0400_20171128_002635	You have defeated all demons around Lanko 26 Waters.{nl}Report to Skirgaila.
+QUEST_LV_0400_20171128_002636	Where is the Recruit?
+QUEST_LV_0400_20171128_002637	Talk to Abraomas
+QUEST_LV_0400_20171128_002638	Abraomas is worried about a recruit who has ignored orders and went out alone to look for the missing lieutenant.{nl}Listen to what Abraomas has to say.
+QUEST_LV_0400_20171128_002639	Track down the recruit
+QUEST_LV_0400_20171128_002640	Search for clues on the whereabouts of the recruit.{nl}Gather everything you can.
+QUEST_LV_0400_20171128_002641	You have gathered enough clues.{nl}Go to Abraomas.
+QUEST_LV_0400_20171128_002642	Abraomas is getting restless after hearing what you've found.{nl}Talk to Abraomas.
+QUEST_LV_0400_20171128_002643	Look for the recruit
+QUEST_LV_0400_20171128_002644	Abraomas isn't ready to give up yet. He has asked you to go to the other side to look for the recruit.{nl}Go over the other side to look for the recruit.
+QUEST_LV_0400_20171128_002645	You have learned some clues to whereabouts of the recruit from a demon you defeated.{nl}Pass the information to Abraomas.
+QUEST_LV_0400_20171128_002646	Looking for clues on the recruit
+QUEST_LV_0400_20171128_002647	Defeated %
+QUEST_LV_0400_20171128_002648	Abraomas seems to be relieved to hear about the recruit.{nl}Talk to Abraomas.
+QUEST_LV_0400_20171128_002649	Talk to Leonardas
+QUEST_LV_0400_20171128_002650	Abraomas has asked you to help the recruit who is in danger.{nl}Go to Lanko 22 Waters and find Leonardas.
+QUEST_LV_0400_20171128_002651	The Beholder wants you to follow Solcomm.{nl}Talk to the Beholder.
+QUEST_LV_0400_20171128_002652	Find Solcomm
+QUEST_LV_0400_20171128_002653	Go to Lanko 22 Waters and track down Solcomm.{nl}
+QUEST_LV_0400_20171128_002654	Talk to Demon Lord Solcomm
+QUEST_LV_0400_20171128_002655	By following the blue light, you were able to find Solcomm, who seems to be injured.{nl}Solcomm wants to tell you something.{nl}Listen to what he has to say.
+QUEST_LV_0400_20171128_002656	Solcomm has a proposition for you.{nl}Talk to Solcomm.
+QUEST_LV_0400_20171128_002657	Solcomm is offering you a deal.{nl}Take the deal, and ask for details.
+QUEST_LV_0400_20171128_002658	Solcomm wants to destroy the crystal stones nearby.{nl}Ask Solcomm for details.
+QUEST_LV_0400_20171128_002659	Destroy the crystal stone in Negilus Inner Court
+QUEST_LV_0400_20171128_002660	Solcomm has told you that the crystal stone in Negilus Inner Court can be destroyed by blowing up its protection devices.{nl}Go to Negilus Inner Court and activate the crystal stone's protection devices by touching them. After that, destroy the devices.
+QUEST_LV_0400_20171128_002661	You have destroyed the crystal stone in the inner court.{nl}Go back to Solcomm.
+QUEST_LV_0400_20171128_002662	Crystal stone in the garden
+QUEST_LV_0400_20171128_002663	There is another crystal stone that needs to be destroyed. Go talk to Solcomm.{nl}
+QUEST_LV_0400_20171128_002664	Craft a Magic Nullification Bomb
+QUEST_LV_0400_20171128_002665	Solcomm wants you to destroy the crystal and its protection magic located in Oro Garden.{nl}With the recipe Solcomm gave you, craft a 
+QUEST_LV_0400_20171128_002666	Magic Nullification Bomb
+QUEST_LV_0400_20171128_002667	The root can be collected from Lily Velly and Jelly Velly.
+QUEST_LV_0400_20171128_002668	Craft %s
+QUEST_LV_0400_20171128_002669	Destroy the crystal stone in Oro Garden
+QUEST_LV_0400_20171128_002670	You have crafted a Magic Nullification Bomb.{nl}Use the bomb to destroy the crystal stone.
+QUEST_LV_0400_20171128_002671	Talk to Solcomm
+QUEST_LV_0400_20171128_002672	You have destroyed the crystal stone in the garden.{nl}Go back to Solcomm.
+QUEST_LV_0400_20171128_002673	Solcomm wants to tell you how to destroy the crystal stone on the other side.{nl}Go and talk to Solcomm.
+QUEST_LV_0400_20171128_002674	Activate the self-destruction device in Dregnas Lot
+QUEST_LV_0400_20171128_002675	Solcomm has hidden a self-destruction device in Dregnas Lot.{nl}Inspect the rocks in the lot to find the device and activate it.{nl}Some demons might appear to attack you.
+QUEST_LV_0400_20171128_002676	You can feel the ground trembling. It seems that the crystal stone was destroyed.{nl}Go back to Solcomm.
+QUEST_LV_0400_20171128_002677	After all the crystal stones have been destroyed, Solcomm is deep in thought.{nl}Talk to Solcomm.
+QUEST_LV_0400_20171128_002678	Battle with Solcomm
+QUEST_LV_0400_20171128_002679	Solcomm wants you to help him to defeat the Beholder. However, in order to save the Lieutenant, you need to defeat Solcomm.{nl}Defeat Solcomm in a battle.
+QUEST_LV_0400_20171128_002680	You have defeated Solcomm.{nl}Go talk to the Beholder to save the Lieutenant.
+QUEST_LV_0400_20171128_002681	Leonardas wants you to do something for him to safely return to his peers.{nl}Talk to Leonardas.
+QUEST_LV_0400_20171128_002682	Collect ingredients
+QUEST_LV_0400_20171128_002683	Leonardas wants to craft a special sap. Collect leaves from Lily Velly and Jelly Velly.
+QUEST_LV_0400_20171128_002684	You have collected the leaves for Leonardas.{nl}Give them to Leonardas.
+QUEST_LV_0400_20171128_002685	Talk to Leonardas to hear what his next plans are.
+QUEST_LV_0400_20171128_002686	Find catalysts from the storage
+QUEST_LV_0400_20171128_002687	Search boxes in a storage near Sviesus Crossroad to find magic catalysts.
+QUEST_LV_0400_20171128_002688	You have gathered enough catalysts.{nl}Give them to Leonardas.
+QUEST_LV_0400_20171128_002689	Found a Magic Catalyst inside the box
+QUEST_LV_0400_20171128_002690	Leonardas has begun crafting the sap.{nl}Receive instructions from Leonardas.
+QUEST_LV_0400_20171128_002691	Combine the Sap with the Lakeland Spirits
+QUEST_LV_0400_20171128_002692	Leonardas has asked you to create the sap by using collected ingredients, his tools, and essence of the lake.{nl}Combine the sap by following his instructions.{nl}
+QUEST_LV_0400_20171128_002693	You have combined the sap.{nl}Go back to Leonardas.
+QUEST_LV_0400_20171128_002694	Leonardas wants to test the combined sap.{nl}Talk to Leonardas.
+QUEST_LV_0400_20171128_002695	Testing the sap on monsters
+QUEST_LV_0400_20171128_002696	Leonardas has asked you to run tests with the combined sap.{nl}Use the sap on demons to check its effectiveness.{nl}After that, defeat the weakened demons.
+QUEST_LV_0400_20171128_002697	You have confirmed the sap's effectiveness.{nl}Go to Leonardas and report.
+QUEST_LV_0400_20171128_002698	Leonardas is having troubles due to his injuries.{nl}Go talk to Leonardas.
+QUEST_LV_0400_20171128_002699	Defeat the surrounding demons and monsters
+QUEST_LV_0400_20171128_002700	Defeat the demons and monsters around the area for Leonardas to return safely back to his peers.
+QUEST_LV_0400_20171128_002701	You have defeated enough demons and monsters.{nl}Go back to Leonardas.
+QUEST_LV_0400_20171128_002702	I Can Hear You Singing
+QUEST_LV_0400_20171128_002703	Follow the faint sound
+QUEST_LV_0400_20171128_002704	You can hear a faint, comforting sound. Go find the source of the sound.
+QUEST_LV_0400_20171128_002705	Find someone who knows the song
+QUEST_LV_0400_20171128_002706	It seems that the song is coming from the trees. Ask the residents of Teresh Forest and passersby about the song.
+QUEST_LV_0400_20171128_002707	Follow Indrea
+QUEST_LV_0400_20171128_002708	Indrea, who is a priestess of Goddess Medeina, went to the singing tree. Follow her to learn about the song.
+QUEST_LV_0400_20171128_002709	Talk to Indrea
+QUEST_LV_0400_20171128_002710	Indrea has heard the song. Go talk to her.
+QUEST_LV_0400_20171128_002711	Collect Atti Yellow Juice
+QUEST_LV_0400_20171128_002712	Indrea has instructed you to follow the lyrics of the song. By sprinkling Atti Yellow Juice on flowers in Teresh, you can gain red stamen from them. Defeat Atties and collect their Yellow Juice.
+QUEST_LV_0400_20171128_002713	You've gathered enough Yellow Juice. Talk to Indrea.
+QUEST_LV_0400_20171128_002714	Use Yellow Juice to gather Teresh Pollen
+QUEST_LV_0400_20171128_002715	Indrea mentioned that the flowers will soon wither away if sprinkled with the juice. Collect Teresh Pollen right after sprinkling Yellow Juice.
+QUEST_LV_0400_20171128_002716	You have gathered enough Teresh stamen. Go to Indrea.
+QUEST_LV_0400_20171128_002717	Indrea is planning to sprinkle red stamen near the tree. Talk to Indrea.
+QUEST_LV_0400_20171128_002718	Listen to the sound from the tree
+QUEST_LV_0400_20171128_002719	After Indrea has sprinkled red stamen, and the tree started singing again. Listen to the song.
+QUEST_LV_0400_20171128_002720	A peculiar white apple has grown out of the tree. Talk to Indrea.
+QUEST_LV_0400_20171128_002721	Follow Indrea
+QUEST_LV_0400_20171128_002722	Follow Indrea and listen to the song coming from the tree.
+QUEST_LV_0400_20171128_002723	Craft Raspberry Juice
+QUEST_LV_0400_20171128_002724	Indrea has told you that people of Teresh Forest have been using the scent from crushed raspberries to attract star fireflies. Its light and direction were used to foresee the future. Indrea wants to do the same. Collect Raspberry Juice from the forest.
+QUEST_LV_0400_20171128_002725	You've gathered enough Raspberry Juice. Talk to Indrea.
+QUEST_LV_0400_20171128_002726	Indrea has applied the juice on branches. Talk to Indrea.
+QUEST_LV_0400_20171128_002727	Attract Starlights to the branches with the raspberry scent
+QUEST_LV_0400_20171128_002728	Indrea has instructed you to shake the branch to spread the scent. Use the branch to attract Starlights to the singing tree.
+QUEST_LV_0400_20171128_002729	You have attracted a Starlight. Talk to Indrea.
+QUEST_LV_0400_20171128_002730	You have attracted enough Starlights. Talk to Indrea.
+QUEST_LV_0400_20171128_002731	After attracting enough Starlights, the tree started singing again. Listen to the song.
+QUEST_LV_0400_20171128_002732	A peculiar yellow apple has grown out of the tree. Talk to Indrea.
+QUEST_LV_0400_20171128_002733	Listen to the song with Indrea
+QUEST_LV_0400_20171128_002734	Listen to the song's lyrics and find the meaning behind them.
+QUEST_LV_0400_20171128_002735	Do as the lyrics say
+QUEST_LV_0400_20171128_002736	Based on what Indrea has told you, Goddess Medeina called butterflies "The Preachers of Love" due to their nature of helping flowers mate. However, Indrea isn't sure what "Half of my heart" means. Find out what the goddess meant by the phrase, and act it out.
+QUEST_LV_0400_20171128_002737	Something is happening to the tree. Talk to Indrea.
+QUEST_LV_0400_20171128_002738	Defeat Rocktortuga
+QUEST_LV_0400_20171128_002739	Rocktortuga has appeared when you were listening to the song with Indrea. Defeat Rocktortuga.
+QUEST_LV_0400_20171128_002740	You have defeated Rocktortuga. Talk to Indrea.
+QUEST_LV_0400_20171128_002741	You have reached the place mentioned in the song. Talk to Indrea.
+QUEST_LV_0400_20171128_002742	Follow the song's lyrics
+QUEST_LV_0400_20171128_002743	There are three pillars at Tacasz Stream. Indrea thinks that something will happen by placing the apples in these pillars. Do as she asks.
+QUEST_LV_0400_20171128_002744	Talk to Indrea
+QUEST_LV_0400_20171128_002745	Talk to the dog with no owner
+QUEST_LV_0400_20171128_002746	The dog with no owner seems to be asking you to follow him. Follow the dog.
+QUEST_LV_0400_20171128_002747	Follow the dog
+QUEST_LV_0400_20171128_002748	The dog is going somewhere. Keep following.
+QUEST_LV_0400_20171128_002749	The dog has lead you to a monk who seems tired. Talk to the monk.
+QUEST_LV_0400_20171128_002750	The monk seems to be in a hurry. Talk to him.
+QUEST_LV_0400_20171128_002751	Go to Narvas Temple
+QUEST_LV_0400_20171128_002752	The monk told you that Arch Mage Agailla Flurry divided Hauberk into three parts and sealed them inside Narvas Temple. However, after Medzio Diena, the seal was cracked and some essence of Hauberk has leaked out. Nearby demons have noticed this, and have been attacking the temple to fully awaken Hauberk. The monk wants you to stop this in his stead. Some demons will be fighting amongst themselves along the way, so the monk has given you instructions on how to go through them. Read the instruction to avoid the demons and reach Narvas Temple.
+QUEST_LV_0400_20171128_002753	The monk told you that Arch Mage Agailla Flurry divided Hauberk into three parts and sealed them inside Narvas Temple. However, after Medzio Diena, the seal was cracked and some essence of Hauberk has leaked out. Nearby demons have noticed this, and have been attacking the temple to fully awaken Hauberk. The monk wants you to stop this in his stead. Some demons will be fighting amongst themselves along the way, so the monk has given you instructions on how to go through them. Read the instruction to avoid the demons and reach Narvas Temple.
+QUEST_LV_0400_20171128_002754	Creating Distractions
+QUEST_LV_0400_20171128_002755	Read the instruction
+QUEST_LV_0400_20171128_002756	Find out how to avoid the demons by reading the instructions.
+QUEST_LV_0400_20171128_002757	You've learned that going straight through them isn't viable. Burn their camp first to create distractions. Defeat the demons in the base to burn the place down.
+QUEST_LV_0400_20171128_002758	Defeat the demons in the camp.
+QUEST_LV_0400_20171128_002759	Collect Sporgimo flowers
+QUEST_LV_0400_20171128_002760	You've learned that going straight through the demons isn't a viable plan. Instead, burn their camp first to create a distraction. Gather Sporgimo flowers, which are highly inflammable, to burn the place down.
+QUEST_LV_0400_20171128_002761	Place Sporgimo flowers
+QUEST_LV_0400_20171128_002762	You've learned that going straight through the demons isn't a viable plan. Instead, burn their camp first to create a distraction. You have gathered enough Sporgimo flowers. Place them near the camp.
+QUEST_LV_0400_20171128_002763	Burn the placed Sporgimo flowers
+QUEST_LV_0400_20171128_002764	You've learned that going straight through demons isn't a viable plan. Instead, burn their camp first to create a distraction. You have placed some Sporgimo flowers around their camp. Light the flowers with fire to create an explosion.
+QUEST_LV_0400_20171128_002765	Go find a place to hide
+QUEST_LV_0400_20171128_002766	The flowers are on fire. These will soon explode, and it will attract demons. Go find a place to hide.
+QUEST_LV_0400_20171128_002767	The flowers are on fire. These will soon explode, and it will attract demons. Go find a place to hide.
+QUEST_LV_0400_20171128_002768	Go to Narvas Temple
+QUEST_LV_0400_20171128_002769	You have set fire on the demons' camp. When the right moment comes, go to Narvas Temple.
+QUEST_LV_0400_20171128_002770	Go to Narvas Temple.
+QUEST_LV_0400_20171128_002771	Go through the demons' defense line
+QUEST_LV_0400_20171128_002772	On the way to the temple, you've found a defense line created by demons. Fight through the line to reach the temple.
+QUEST_LV_0400_20171128_002773	Go to Narvas Temple.
+QUEST_LV_0400_20171128_002774	Defeat monsters who are on your way
+QUEST_LV_0400_20171128_002775	Narvas Temple's barrier
+QUEST_LV_0400_20171128_002776	Talk to Monk Aistis
+QUEST_LV_0400_20171128_002777	Go talk to Monk Aistis.
+QUEST_LV_0400_20171128_002778	Gather Demonic Essence
+QUEST_LV_0400_20171128_002779	Monk Aistis has told you that the barrier's energy is about to run out. He asked you to bring Demonic Essence to use as its energy source. Defeat the demons in Izoliacjia Plateau to collect Demonic Essence.
+QUEST_LV_0400_20171128_002780	Defeat demons to collect %s
+QUEST_LV_0400_20171128_002781	Break the auxiliary detector system
+QUEST_LV_0400_20171128_002782	Aistis has proposed to alter the detector system to turn them into something defensive. To do that, the detector system needs to be shut down. However, auxiliary detector systems will keep that from happening. Aistis will stop the detector system, so you must shut down its auxiliary systems.
+QUEST_LV_0400_20171128_002783	Bring the parts from a destroyed defensive system nearby
+QUEST_LV_0400_20171128_002784	Aistis needs parts from a destroyed defensive system to make repairs. However, there are demons near the place. Aistis will bring the parts, so you must defeat the demons in the area.
+QUEST_LV_0400_20171128_002785	Collect the leaked energy.
+QUEST_LV_0400_20171128_002786	Aistis thinks that despite the repairs, its lack of energy will keep the defensive system from working. He proposed to use the leaked energy to power the system. Use the Energy Storing Globe he gave you to gather the energy.
+QUEST_LV_0400_20171128_002787	Collect the leaked energy
+QUEST_LV_0400_20171128_002788	Aistis found out that defensive systems are overloading. If the problem isn't solved, they will become useless. Aistis says he'll try to shut it down safely to prevent this. But in order to do that, its energy must be taken out, and reuse those energy to reboot the system. Aistis has asked you to gather the energy when he shut down the defensive systems.
+QUEST_LV_0400_20171128_002789	Inject the gathered energy into the defensive system
+QUEST_LV_0400_20171128_002790	Monk Aistis has safely turned off the defensive system. The system needs to be refueled to be turned on again. Refuel the defensive system after Aistis has activated the system.
+QUEST_LV_0400_20171128_002791	Check how the defensive system is working
+QUEST_LV_0400_20171128_002792	Aistis wants to check how the defensive system is working. Check how it is doing with Aistis.
+QUEST_LV_0400_20171128_002793	Defeat demons who are entering Narvas temple
+QUEST_LV_0400_20171128_002794	Go to Narvas Temple with Monk Aistis.
+QUEST_LV_0400_20171128_002795	Into the Lion's Mouth
+QUEST_LV_0400_20171128_002796	Talk to Monk Aistis.
+QUEST_LV_0400_20171128_002797	Defeat followers of Suspicion Hauberk
+QUEST_LV_0400_20171128_002798	Suspicion Hauberk has commanded his demons to destroy Agailla Flurry's equipment. Stop them.
+QUEST_LV_0400_20171128_002799	Defeat followers of Suspicion Hauberk who are trying to destroy Flurry's equipment
+QUEST_LV_0400_20171128_002800	Gather Strong Essence of Demon
+QUEST_LV_0400_20171128_002801	Monk Aistis wants to upgrade Agailla Flurry's equipment. He needs Strong Essence of Demon to power the upgrade. Gather Strong Essence of Demon for him.
+QUEST_LV_0400_20171128_002802	Defeat followers of Suspicion Hauberk to gather %s
+QUEST_LV_0400_20171128_002803	Collect Black Hohen Mage's blood
+QUEST_LV_0400_20171128_002804	Aistis has found out that equipment in the area are already ruined by followers of Suspicion Hauberk. However, its core components are still functional. With enough repairs, it can be fixed and even get upgraded. He needs some demonic blood to do this. Defeat Black Hohen Mage and bring its blood to Aistis.
+QUEST_LV_0400_20171128_002805	Defeat Black Hohen Mage to gather %s
+QUEST_LV_0400_20171128_002806	Collect Holy water mixed with demonic blood
+QUEST_LV_0400_20171128_002807	Aistis thinks if holy water is mixed with demonic blood, the facilities will only target demons. He wants you to bring a bottle of holy water mixed with demonic blood.
+QUEST_LV_0400_20171128_002808	Eavesdrop on Ambition Hauberk and his followers
+QUEST_LV_0400_20171128_002809	Ambition Hauberk and his minions are planning something. Eavesdrop on them to find out what their plan is.
+QUEST_LV_0400_20171128_002810	Talk to Aistis
+QUEST_LV_0400_20171128_002811	Defeat the demons who are transforming monks' spirits
+QUEST_LV_0400_20171128_002812	Some demons are transforming monks' spirits under Ambition Hauberk's command. Defeat them to release the monks' spirits.
+QUEST_LV_0400_20171128_002813	Break the spirit altering device
+QUEST_LV_0400_20171128_002814	Defeat %s, who are torturing the spirits
+QUEST_LV_0400_20171128_002815	Collect Magic Crystals
+QUEST_LV_0400_20171128_002816	Monk Aistis is going to upgrade Agailla Flurry's equipment. He will need some magic crystals after making the upgrade. Collect them for him.
+QUEST_LV_0400_20171128_002817	Look around the unidentified facility
+QUEST_LV_0400_20171128_002818	You've found an unidentified facility by following the light. Look around the place.
+QUEST_LV_0400_20171128_002819	Retrieve the Apparition Generator from the locked system
+QUEST_LV_0400_20171128_002820	Based on what you learned, find the Apparition Generator.
+QUEST_LV_0400_20171128_002821	Place the parts in the unidentified facility
+QUEST_LV_0400_20171128_002822	Place the parts in the unidentified facility.
+QUEST_LV_0400_20171128_002823	Talk to Agailla Flurry Apparition
+QUEST_LV_0400_20171128_002824	Talk to Agailla Flurry Apparition.
+QUEST_LV_0400_20171128_002825	Give the magic crystal to Aistis
+QUEST_LV_0400_20171128_002826	Agailla Flurry Apparition has told you to give the magic crystal to Aistis. Do as she says.
+QUEST_LV_0400_20171128_002827	In order to retrieve Agailla Flurry's Staff from its container, Aistis needs the surrounding demons gone. Defeat the demons to retrieve the staff.
+QUEST_LV_0400_20171128_002828	Approach Deception Hauberk
+QUEST_LV_0400_20171128_002829	Agailla Flurry Apparition has proposed that you approach Deception Hauberk by meddling with his mind. Do as she says.
+QUEST_LV_0400_20171128_002830	Suspiciously Secretive
+QUEST_LV_0400_20171128_002831	Agailla Flurry's equipment
+QUEST_LV_0400_20171128_002832	Monk Aistis needs some parts to upgrade the equipment. However, the monk doesn't know what the parts look like. Because of this, he wants you to use an Absorbing Stone. With the stone, the parts will just come to you. Use the stone to gather the parts.
+QUEST_LV_0400_20171128_002833	Gather Demon's Flesh
+QUEST_LV_0400_20171128_002834	The apparition has told you that Suspicion Hauberk needs to be informed of what Deception Hauberk is doing. However, just like his name, Suspicion Hauberk is quite suspicious of everything, so approaching him won't be easy. The apparition wants you to kill his minion and disguise yourself as it to get close. First, you'll need Demon's Flesh to do this. Go find some.
+QUEST_LV_0400_20171128_002835	Defeat a core follower of Suspicion Hauberk
+QUEST_LV_0400_20171128_002836	The apparition has told you that one of the core followers of Suspicion Hauberk is looking for something. Find the follower and defeat him to use his blood for disguise.
+QUEST_LV_0400_20171128_002837	Defeat King Hammer and collect %s
+QUEST_LV_0400_20171128_002838	Approach Suspicion Hauberk
+QUEST_LV_0400_20171128_002839	A scroll for disguising into one of Suspicion Hauberk's core followers has been completed. Use the scroll to approach him, and inform him of what Deception Hauberk is doing.
+QUEST_LV_0400_20171128_002840	Alter the Contract Token
+QUEST_LV_0400_20171128_002841	Agailla Flurry needs to alter the equipment to utilize the Contract Token. Do as she says.
+QUEST_LV_0400_20171128_002842	Give the Contract Token to Suspicion Hauberk
+QUEST_LV_0400_20171128_002843	The Contract Token is altered. Use the scroll to turn into King Hammer and give the token to Suspicion Hauberk.
+QUEST_LV_0400_20171128_002844	Alter the Registry Orb
+QUEST_LV_0400_20171128_002845	Agailla Flurry has told you that Ambition Hauberk needs to be informed of what Deception Hauberk is doing. His core follower is already dead, so you'll need to brainwash Ambition Hauberk's minions to drive him to action. There is a Registry Orb in the area which helps managers of this place to remember small details. Agailla Flurry has proposed to use the altered version of the orb and use it on their minions. Alter the Registry Orb as she suggested.
+QUEST_LV_0400_20171128_002846	Find the essence of an elite follower of Hauberk
+QUEST_LV_0400_20171128_002847	Agailla Flurry Apparition has told you that you need to brainwash the elite followers of Ambition Hauberk. However, it isn't easy telling the elites apart from the other followers. The apparition is going to craft a Mark of Identification by using the essence from elites. Defeat the elite followers to collect their essence.
+QUEST_LV_0400_20171128_002848	Defeat Harugal to collect %s
+QUEST_LV_0400_20171128_002849	Use the Registry Orb on Black Harugal, one of Ambition Hauberk's elite followers
+QUEST_LV_0400_20171128_002850	The apparition has asked you to use the Mark of Identification to find Black Harugals, who are Ambition Hauberk's elite followers, and use the Registry Orb on them. Weaken them first, and use the Registry Orb on them by clicking on the item in the inventory.
+QUEST_LV_0400_20171128_002851	Observe Ambition Hauberk's situation
+QUEST_LV_0400_20171128_002852	Observe how Ambition Hauberk reacts to what his brainwashed followers are saying.
+QUEST_LV_0400_20171128_002853	Give the parts to Monk Aistis
+QUEST_LV_0400_20171128_002854	Agailla Flurry has asked you to give the parts to Aistis and protect him while the system is being repaired. Do as she says.
+QUEST_LV_0400_20171128_002855	Repair the Central Control Terminal
+QUEST_LV_0400_20171128_002856	Agailla Flurry wants to adjust the power level of the altered system while the three Hauberks are fighting amongst themselves. You'll need to use the Central Control Terminal to do this, but it is broken. Repair the terminal.
+QUEST_LV_0400_20171128_002857	Long Dreams Are Dreamt at Narvas Temple
+QUEST_LV_0400_20171128_002858	Use the Warp Device
+QUEST_LV_0400_20171128_002859	Use the Warp Device to go to where Hauberk is.
+QUEST_LV_0400_20171128_002860	Defeat the united Hauberk
+QUEST_LV_0400_20171128_002861	Three Hauberks are now united into one. His powers aren't fully recovered yet, but are getting stronger by the minute. Defeat Demon Lord Hauberk with the altered system before that happens.
+QUEST_LV_0400_20171128_002862	Near the butterfly, you have read the writing on the tombstone out loud. Talk to Indrea.
+QUEST_LV_0400_20171128_002863	After reading the writing out loud, the tree started singing. Listen to the song.
+QUEST_LV_0400_20171128_002864	A peculiar blue apple has grown out of the tree. Talk to Indrea.
+QUEST_LV_0400_20180208_002873	Demon Goddess Giltine came to this place to look for Goddess Laima's revelation that should have been for you, Revelator.{nl}Goddess Vivora believed that Demon Goddess Giltine was looking for a book that contained knowledge about her.{nl}
+QUEST_LV_0400_20180208_002874	But Goddess Laima did not want you to know this much about the revelation.{nl}This revelation contains truths meant for Giltine.{nl}
+QUEST_LV_0400_20180208_002875	You must do your best to lose it.{nl}Neringa will tell you Goddess Laima's predictions at the time when you are meant to know.{nl}
+QUEST_LV_0400_20180208_002876	Put your faith in Goddess Laima and Neringa shall work with you.{nl}Outside of us, no one else must learn of Goddess Laima's prediction.
+QUEST_LV_0400_20180208_002877	This is Goddess Vaivora's Fantasy Library, which has on record all of the world's knowledge and history.{nl}In this place, you can only view the information meant for you.{nl}
+QUEST_LV_0400_20180208_002878	You will not be able to see the books that are not.{nl}This place has history and wisdom about humanity that even the Goddesses themselves do not know about.{nl}
+QUEST_LV_0400_20180208_002879	In the far future, when you are ready to learn of it, you will be able to view it too.{nl}But now is not that time. 
+QUEST_LV_0400_20180208_002880	Neringa knew you would accept the invitation.{nl}And there is much that needs to be said.{nl}
+QUEST_LV_0400_20180208_002881	You and Neringa will go together to Goddess Vaivora's domain.{nl}Humans are meant to approach the location primarily by invitation.{nl}
+QUEST_LV_0400_20180208_002882	But this is still not the case.{nl}There is something you need to know.{nl}Starting from Neringa...
+QUEST_LV_0400_20180208_002883	Revelator, you must have some concerns about this current situation.{nl}
+QUEST_LV_0400_20180208_002884	Neringa will convey Goddess Laima's will to you.{nl}Yet only at the times deemed right.
+QUEST_LV_0400_20180208_002885	Together with Neringa, you will go to Fantasy Library.{nl}There you will meet with Goddess Vaivora and her Kupole helper.{nl}
+QUEST_LV_0400_20180208_002886	They will not welcome a human to the Fantasy Library.{nl}Please do not forget. Neringa recommended you for an invitation.{nl}
+QUEST_LV_0400_20180208_002887	You are here because Neringa helped you to gain the Goddess' trust.{nl}Please continue to build her trust in you.{nl}
+QUEST_LV_0400_20180208_002888	Focus on listening to her and completing her requests.{nl}Neringa will go first and wait for you.
+QUEST_LV_0400_20180208_002889	So, you are the Revelator.{nl}I have heard about you from Neringa.{nl}Where you come from and where you are being pulled towards... I have heard it all.
+QUEST_LV_0400_20180208_002890	Yet, I still have reservations about Neringa's judgement in inviting you here.{nl}I assume you have already heard from Neringa what it that we do.{nl}
+QUEST_LV_0400_20180208_002891	I asked Neringa as well. What can a human do for us here?{nl}You will have to prove yourself through sacrifice to answer that question.{nl}
+QUEST_LV_0400_20180208_002892	I strive to prevent humans like you from interrupting the Goddesses' work.{nl}Go help Neringa.{nl}That is something you can do.
+QUEST_LV_0400_20180208_002893	As you can see, at the moment there is no opportunity for you to join Goddess Vaivora's plans.{nl}So, solve her smaller issues to gain her trust.{nl}
+QUEST_LV_0400_20180208_002894	The defensive system in Sausys Room 9 is weak, allowing demons to trespass easily.{nl}But Goddess Vaivora's Kupole cannot stop them alone.{nl}
+QUEST_LV_0400_20180208_002895	It would be good to take her place.{nl}Defeat a few of the demons and you will gain a lot Her trust.
+QUEST_LV_0400_20180208_002896	Your ability is already known.{nl}How much you can do is also already known.{nl}Meaning, what you need to know is already known.
+QUEST_LV_0400_20180208_002897	You did well.{nl}Right now Goddess Vaivora is in Valandis Room 2 preparing a trap to capture Demon Goddess Giltine.{nl}
+QUEST_LV_0400_20180208_002898	She thinks that Giltine wants to get her hands on the book that's about her.{nl}It's not proper work for a goddess, but Giltine won't fall for just any trap.
+QUEST_LV_0400_20180208_002899	You will have to work hard to gain Goddess Vaivora's trust.{nl}But the time, and the work that you have to do, has already been decided.
+QUEST_LV_0400_20180208_002900	Set your mind towards protecting the Goddess' very precious records.{nl}Everywhere is flooded with demons destroying them.{nl}
+QUEST_LV_0400_20180208_002901	Please go and collect these scattered records.{nl}Doing something as simple as this will surely attract the Goddess' attention.
+QUEST_LV_0400_20180208_002902	Doing this much will draw the Goddess' attention.{nl}Goddess Vaivora believes that if Giltine is removed everything will be solved.{nl}
+QUEST_LV_0400_20180208_002903	This means isolating her from the rest of the world.{nl}But everything that happens is influenced by the Devine Tree itself.{nl}
+QUEST_LV_0400_20180208_002904	Even if Demon Goddess Giltine disappears other, more uncontrollable versions of her will take her place.{nl}Sadly, Goddess Vaivora does not have faith in Goddess Laima's prediction.{nl}
+QUEST_LV_0400_20180208_002905	She also does not have faith in you, who was selected by Laima.{nl}Therefore, here, together with the hand of faith, you must match Goddess Lamia's prediction.
+QUEST_LV_0400_20180208_002906	Kupole Rugile is alone in Sausys Room 9 dealing with the demons.{nl}Despite being Vaivora's Kupole, she will not be able to handle them all alone.{nl}
+QUEST_LV_0400_20180208_002907	You must help Kupole Rugile.{nl}However, Vaivora's Kupole will be weary of you since you are a human.{nl}
+QUEST_LV_0400_20180208_002908	Before approaching her, remove the Kupole trap set by the demons.{nl}Kupole Rugile will show interest in you after this. And, of course, this interest will be conveyed to Goddess Vaivora.
+QUEST_LV_0400_20180208_002909	You are the human Neringa invited.{nl}There is something a human can do to help us...{nl}
+QUEST_LV_0400_20180208_002910	You seem strong enough and ready to serve the goddess.{nl}If there is no other place you must be, can you help me?
+QUEST_LV_0400_20180208_002911	It's a difficult situation.{nl}Vaivora and I sealed off all of the passages used by the demons.{nl}But how are they still able to enter?{nl}
+QUEST_LV_0400_20180208_002912	Certainly, by someone's help they are entering.{nl}This scroll can detect the small gaps in which the demons are using to invade.{nl}
+QUEST_LV_0400_20180208_002913	With this scroll, find the point of invasion and remove it.{nl}I will not be able to hold out for long if this continues.
+QUEST_LV_0400_20180208_002914	This place has been run by Goddess Vaivora and the Kupoles for a long time.{nl}This place is unbeknownst even to the followers of Vaivora.
+QUEST_LV_0400_20180208_002915	It's more than just a few demons that have entered.{nl}And they are ruining the library.{nl}
+QUEST_LV_0400_20180208_002916	I do not know what it is they seek, but I cannot allow them to touch the records at will.{nl}Please get rid of the demons you see in the area.
+QUEST_LV_0400_20180208_002917	Possibly the records of the great and unnamed kings have already disappeared. {nl}As time passes, so will more and more records.{nl}Please stop the demons.
+QUEST_LV_0400_20180208_002918	Thank you so much.{nl}Thanks to you we can protect the records that are under our care.
+QUEST_LV_0400_20180208_002919	After seeing your actions here, it seems you would be an even greater help to the Goddess.{nl}We will tell the Goddess of your courage and sacrifice.{nl}
+QUEST_LV_0400_20180208_002920	Now return to Neringa and tell her of your accomplishment.{nl}And, by all means, please use your power in correct place.
+QUEST_LV_0400_20180208_002921	You have returned.{nl}The news of you helping Rugile has been passed on to Goddess Vaivora.{nl}We can now move on to the next stage.{nl}
+QUEST_LV_0400_20180208_002922	You with Neringa will meet someone you have had a long ill-fated relationship with.{nl}Let's go to Sausys Room 10.
+QUEST_LV_0400_20180208_002923	You are the first to be invited here.{nl}In the past, there was commotion because of those who were not invited.
+QUEST_LV_0400_20180208_002924	Slowly more and more demons are invading.{nl}It's hard for me to figure out alone how they are coming here.{nl}
+QUEST_LV_0400_20180208_002925	I've done all I've could but it's not enough.{nl}However, if you can help me, I will be able to gather some time.{nl}
+QUEST_LV_0400_20180208_002926	Suspicious magic gathering demons have been found.{nl}If you can defeat them, it will decrease the number of demons coming this way.{nl}Please do this for us.
+QUEST_LV_0400_20180208_002927	Although I know a great scale of the Fantasy Library, there are thousands of areas.{nl}If the demons enter through another location this will cause huge problems.
+QUEST_LV_0400_20180208_002928	At least I have one less nuisance to deal with.{nl}I appreciate your help.
+QUEST_LV_0400_20180208_002929	The invading demons are damaging the books.{nl}They do not hesitate with their meaningless plundering.{nl}
+QUEST_LV_0400_20180208_002930	Maybe their leader said to destroy whatever they could get their hands on.{nl}If you want to help the Goddess don't allow them to run away with the records.{nl}
+QUEST_LV_0400_20180208_002931	Please recover the unidentified records that the demons stole.
+QUEST_LV_0400_20180208_002932	We still have not found a place for all that is contained in the Fantasy Library.{nl}The records that Vaivora and us, the Kupole, still need to classify are slowly coming in.
+QUEST_LV_0400_20180208_002933	I see the damaged records. Those demons...{nl}
+QUEST_LV_0400_20180208_002934	After this is done, Vaivora will punish those demons.{nl} Thank you for your help.
+QUEST_LV_0400_20180208_002935	Everything have been decided.{nl}Even if you try to fight your destiny, the end will be the same.{nl}You are on the right track. You are doing well.
+QUEST_LV_0400_20180208_002936	Vaivora will help solve everything.
+QUEST_LV_0400_20180208_002937	Goddess Vaivora has almost completed her plan.{nl}But we cannot have the Beholder interfere.{nl}
+QUEST_LV_0400_20180208_002938	Your work here should stand out.{nl}Therefore, Vaivora will have a request for you in the next District.{nl}
+QUEST_LV_0400_20180208_002939	This place is overrun with the Beholder's plans.{nl}Everywhere the Kupole are falling into its traps and getting into trouble.{nl}
+QUEST_LV_0400_20180208_002940	We must rid Sausys Room 10 of the Beholder's shadow.{nl}Destroy the first corrupted crystal.{nl}
+QUEST_LV_0400_20180208_002941	If you leave the corrupted crystal alone, the Beholder and the demons will continue to harass the Kupole.{nl}And, remember, the fact that Neringa is here must not be revealed.
+QUEST_LV_0400_20180208_002942	The Beholder thinks the situation will go according to plan.{nl}But everything will go as predicted. Focus on your role.
+QUEST_LV_0400_20180208_002943	Destroying that many will be enough.{nl}It will be troublesome if the Beholder becomes aware of us.
+QUEST_LV_0400_20180208_002944	Destroying the corrupted crystals made the plan smoother.{nl}Kupole Saya is dealing with the invading demons here.{nl}
+QUEST_LV_0400_20180208_002945	But there were so many, she went into hiding to replenish her energy.{nl}You will present a good impression if you defeat the demons that are near her.{nl}
+QUEST_LV_0400_20180208_002946	Defeat the demons and then go to Kupole Saya.
+QUEST_LV_0400_20180208_002947	There is no better way. Follow the chosen path.
+QUEST_LV_0400_20180208_002948	You are the human traveling with Neringa.{nl}I'm surprised that a human can defeat these demons.{nl}You could be a powerful asset to Vaivora.
+QUEST_LV_0400_20180208_002949	As the demons invaded they destroyed most of the protection crystals.{nl}If they are not restored the demons will treat this place like their house.{nl}
+QUEST_LV_0400_20180208_002950	If you want to help Vaivora, first help to restore the protection crystals.{nl}The protection crystals were shattered into Trasium Pieces, please collect as many Trasium Pieces as possible and return to me.
+QUEST_LV_0400_20180208_002951	I do not know how far you will accomplish, but I will not refuse you even if you fail.{nl}Whereever you go, you are still just a human.
+QUEST_LV_0400_20180208_002952	I'm surprised. You have completely changed my thoughts about humans.{nl}Have all humans become as strong as you?
+QUEST_LV_0400_20180208_002953	While you were away Neringa contacted me.{nl}
+QUEST_LV_0400_20180208_002954	I told her about your skillfulness.{nl}But Neringa's thinking seems a little different.
+QUEST_LV_0400_20180208_002955	You did well. Saya has praised you.{nl}Now there is only one more Kupole to save.
+QUEST_LV_0400_20180208_002956	I'm planning to collect Trasium Pieces in order to restore the protection crystals.{nl}I hope we can use your strength when the time comes.
+QUEST_LV_0400_20180208_002957	The Beholder has installed a magic prison to keep the Kupole.{nl}Goddess Vaivora's main helper, Kupole Ouida is here as well.{nl}
+QUEST_LV_0400_20180208_002958	If you save her, Goddess Vaivora's expectations of you will rise.{nl}Destroy the magic prison and save Kupole Ouida.{nl}
+QUEST_LV_0400_20180208_002959	She will then have a request for you.{nl}After that we will meet the Beholder.
+QUEST_LV_0400_20180208_002960	I trust and follow you in accordance with the prediction.{nl}Refrain from unnecessary actions and concentrate on your role.
+QUEST_LV_0400_20180208_002961	And you are?{nl}
+QUEST_LV_0400_20180208_002962	A human... I thought I would be saved by Vaivora...{nl}It's not what I expected but thank you for rescuing me.
+QUEST_LV_0400_20180208_002963	The Beholder has installed magical prisons everywhere.{nl}The Kupole are in a state of confusion allowing the Beholder to rummage through the library.{nl}
+QUEST_LV_0400_20180208_002964	But we cannot allow this to continue.{nl}Will you allow them to roam around Vaivora's library? Open your eyes.{nl}
+QUEST_LV_0400_20180208_002965	The reason they can roam here is because the protection crystals were destroyed.{nl}The remaining one is being attacked by the demons now.{nl}
+QUEST_LV_0400_20180208_002966	Ride this transportation device to the crystal.{nl}Defeat them all with your power.
+QUEST_LV_0400_20180208_002967	You do not need to return to Ouida.{nl}Time is short. We must go to Goddess Vaivora after facing him.
+QUEST_LV_0400_20180208_002968	The Beholder must be growing aware that their plan is falling apart.{nl}Soon the Beholder will be here. Are you ready?
+QUEST_LV_0400_20180208_002969	The Beholder follows Demon Goddess Giltine but shows no interest in her safety.{nl}He will leave soon.{nl}
+QUEST_LV_0400_20180208_002970	With Neringa, you will need to go to Valandis Room 2.{nl}When you are ready, follow. Neringa will go first and wait for you.
+QUEST_LV_0400_20180208_002971	The Beholder still does not know you and Neringa are here.{nl}Neringa will stay out of the way until the Beholder thinks the task is done.{nl}
+QUEST_LV_0400_20180208_002972	If Neringa is discovered here, Giltine will be alerted.{nl}Now we have to let them destroy the Fantasy Library.
+QUEST_LV_0400_20180208_002973	Why did they come here at this time?{nl}This is troublesome.
+QUEST_LV_0400_20180208_002974	Talk of you helping Vaivora's Kupoles is circulating amongst them.{nl}Goddess Vaivora will come to look for you soon.{nl}
+QUEST_LV_0400_20180208_002975	She will trust you and tell you her plans.{nl}But you and Neringa's plans differ from the Goddess Vaivora's.{nl}
+QUEST_LV_0400_20180208_002976	Don't forget this. Listen politely to all the Goddess has to say.{nl}Goddess is coming.
+QUEST_LV_0400_20180208_002977	In fact, Goddess Vaivora has more conviction than Neringa thought.{nl} Neringa will need to execute this plan more precisely.
+QUEST_LV_0400_20180208_002978	Kupole Litae and Danute are in charge of this area.{nl}Kupole Litae will still be unsure about you.{nl}
+QUEST_LV_0400_20180208_002979	But defeat the demons and she will come to your way.{nl}Please listen to her request. For Neringa's role, Neringa will leave first.
+QUEST_LV_0400_20180208_002980	I can't believe you came here, but even more so, I can't believe your skills.{nl}
+QUEST_LV_0400_20180208_002981	I've heard of your courage and sacrifice from the other Kupole.{nl}Thank you very much for coming to help me.
+QUEST_LV_0400_20180208_002982	You've arrived. Did Kupole Litae greet you well?{nl}
+QUEST_LV_0400_20180208_002983	The Kupole are also different in their thinking and personalities.{nl}Some listen better than others.{nl}
+QUEST_LV_0400_20180208_002984	{nl}Goddess Vaivora will come to find you again.{nl}But before that, there is something you need to prepare.{nl}
+QUEST_LV_0400_20180208_002985	You and Neringa will face Giltine in Valandis Room 91.{nl}The Demon God can take your life with just one finger.{nl}
+QUEST_LV_0400_20180208_002986	So please find the item Nobraenal Blueprint so that Neringa may use that to protect you.{nl}With Neringa's divine energy and that item I will be able to hold back her power.{nl}
+QUEST_LV_0400_20180208_002987	Unfortunately, Goddess Laima cannot protect you.{nl}However, Neringa will tell you how to protect yourself.{nl}
+QUEST_LV_0400_20180208_002988	Believe Neringa and follow what Neringa says.
+QUEST_LV_0400_20180208_002989	That should be enough.{nl}Neringa will tell you when it is time to use it.
+QUEST_LV_0400_20180208_002990	Now go to Goddess Vaivora.{nl}There are still parts Neringa needs to prepare for the plan.
+QUEST_LV_0400_20180208_002991	Your help is making the final preparations much easier.{nl}Now, please help us one last time. 
+QUEST_LV_0400_20180208_002992	I must leave this place to examine Giltine's actions more closely.{nl}Kupole Danute is coming so please lend a hand. I hope that you help her.
+QUEST_LV_0400_20180208_002993	As Vaivora predicted, the demons are gathering her to make it easier for Giltine to enter.{nl}There is no time to waste so I must ask you for two items.
+QUEST_LV_0400_20180208_002994	The first is Dimensional Essense. That will be easy to find around here.{nl}The last one will be a problem...
+QUEST_LV_0400_20180208_002995	Defeat the demons and gather their magic source.{nl}After collecting both, come back here.
+QUEST_LV_0400_20180208_002996	The protection crystals are under attack!{nl}Since all of the library's energy is directed towards the trap, there is only one protection crystal guarding this area.{nl}
+QUEST_LV_0400_20180208_002997	If the protection crystals are not working, Giltine will still be able to escape even if we seal her within our trap.{nl}Take this tool and until the protection crystals are recharged fight off the demons!
+QUEST_LV_0400_20180208_002998	Thank you! And Neringa has returned as well.{nl}I will go and help with Vaivora's seal.  I'm grateful for your help!
+QUEST_LV_0400_20180208_002999	Vaivora has finished her seal for Giltine.{nl}Unfortunately, Giltine will not appear this time.
+QUEST_LV_0400_20180208_003000	Please remain calm and do as Vaivora instructed.{nl}Come back to Neringa when the work there is done.{nl}
+QUEST_LV_0400_20180208_003001	Neringa is preparing for the next plan.
+QUEST_LV_0400_20180208_003002	That is a record. Neringa will give it back to Vaivora.{nl}Right now you must deal with the embarrassed Goddess of Knowledge.{nl}
+QUEST_LV_0400_20180208_003003	Goddess Vaivora know much more than you or Neringa, expect for the future.{nl}Therefore it is impossible to convince Vaivora.
+QUEST_LV_0400_20180208_003004	Vaivora will now make an extreme choice.{nl}Give up the revelation and remove Giltine from this world.{nl}
+QUEST_LV_0400_20180208_003005	She still thinks that is correct.{nl}In the meantime, let's move to Valandis Room 3.{nl}
+QUEST_LV_0400_20180208_003006	There you and Neringa will listen to the Goddess plans and follow.{nl}Neringa will go first.
+QUEST_LV_0400_20180208_003007	Goddess Vaivora has instructed you to collect all the magical energy that can be used on the alter for the seal.{nl}There are devices around the library that you can collect the magic from.{nl}
+QUEST_LV_0400_20180208_003008	Please activate them.{nl}The activated magic devices will go where they are needed.
+QUEST_LV_0400_20180208_003009	There was a human who came here without an invitation.{nl}But you are the first to be formally invited.
+QUEST_LV_0400_20180208_003010	That looks like enough.{nl}Also, Neringa is looking for you. It would be good if you go.{nl}
+QUEST_LV_0400_20180208_003011	I will finish the rest of the work here.{nl} I will be off.
+QUEST_LV_0400_20180208_003012	I'm surprised by your work. Human potential seems to know no bounds.{nl}To play a part in continuing human history, I will tell you something.{nl}
+QUEST_LV_0400_20180208_003013	Several hundred years ago, Demon Goddess Giltine had already invaded this place.{nl}She was looking for a record of herself.{nl}
+QUEST_LV_0400_20180208_003014	But at the time she could not obtain it.{nl}So she comes again today.{nl}I do not know where she will use it.{nl}
+QUEST_LV_0400_20180208_003015	But she is coming to this place soon to get her hands on that record.{nl}We have taken advantage of her greed by preparing a trap.{nl}
+QUEST_LV_0400_20180208_003016	As she becomes overcome with joy for finally getting her hands on the record, she will disappear from this world.{nl}If she disappears from this world, every problem will be solved.{nl}
+QUEST_LV_0400_20180208_003017	All of the Goddesses will return to their rightful places and you too may go home.{nl}For this I need you help.{nl}
+QUEST_LV_0400_20180208_003018	My Kupole are in the final stages of perfecting the trap.{nl}Please help them. I also have last minute preparations.{nl}
+QUEST_LV_0400_20180208_003019	Once again, thank you for your courage and you sacrifice.{nl}For the sake of the world, please endure just a little bit longer.
+QUEST_LV_0400_20180208_003020	Please collect them quickly!
+QUEST_LV_0400_20180208_003021	Kupole Danute is still unfocused. This may be a handful for a human such as yourself.{nl}But if you have nothing else to do...
+QUEST_LV_0400_20180208_003022	Vaivora wants to destroy a part of the Fantasy Library in order to block future entry.{nl}But it will not go according to the Goddess' wish.{nl}
+QUEST_LV_0400_20180208_003023	It's quite unfortunate... To ensure that the prediction comes true, you must artfully disrupt the Goddess' plan.{nl}And Goddess must not know what you and Neringa are the ones to blame.{nl}
+QUEST_LV_0400_20180208_003024	So follow the Goddess' plan for awhile.{nl}When it is time to execute our own plan, Neringa will call you.
+QUEST_LV_0400_20180208_003025	To sacrifice a part of the district to capture Giltine.{nl}Vaivora's plan seems reckless.{nl}
+QUEST_LV_0400_20180208_003026	Vaivora will ask you to activate the sealing device set up in Valandis Room 3.{nl}Go about the task.{nl}
+QUEST_LV_0400_20180208_003027	Neringa will also do as such.{nl}Go to Vaivora.{nl}
+QUEST_LV_0400_20180208_003028	Neringa will call you when it is time.
+QUEST_LV_0400_20180208_003029	Time is running out and there are not many Kupoles remaining that I can call...{nl}You will be able to help me.{nl}
+QUEST_LV_0400_20180208_003030	Here Skywa is helping me to operate the Bluenode Collapsing Device.{nl}But the energy from this device is calling demons to it.{nl}
+QUEST_LV_0400_20180208_003031	Please go there and protect the device for me.{nl}If we lose even one, Giltine will slip away.
+QUEST_LV_0400_20180208_003032	It hurts me as well to make such a decision.{nl}And I will bear this crime for eternity.{nl}
+QUEST_LV_0400_20180208_003033	But to save the world from Giltine's grip...{nl}It's an expensive sacrifice that must be done.
+QUEST_LV_0400_20180208_003034	Amazing!{nl}The activated collapsing device will conceal its magic, and will not face attack again.{nl}
+QUEST_LV_0400_20180208_003035	Now Skywa will activate the collapsing device remotely.
+QUEST_LV_0400_20180208_003036	Next we need to activate the second collapsing device.{nl}However, it does not have enough energy to run.{nl}
+QUEST_LV_0400_20180208_003037	Gather the Gigantic magic source around the area of the second collapsing device.{nl}After that, listen to Meringa about what to do next.{nl}
+QUEST_LV_0400_20180208_003038	I will return after surveilling Valandis Room 91.
+QUEST_LV_0400_20180208_003039	I will not be gone long.{nl}However, while I am away please consult Neringa if you need help.
+QUEST_LV_0400_20180208_003040	Our goal is to cause the Blanorth collapsing device to overload.{nl}Until then we will continue to follow Vaivora's plan, so as to not alert suspicion.
+QUEST_LV_0400_20180208_003041	Kupole Skywa is walking around and managing the collapsing devices.{nl}
+QUEST_LV_0400_20180208_003042	Operating them is simple enough. Insert the Gigantic magic source that you have in your possession into the device.{nl}As the device re-energizes, protect it until it can conceal its magic.
+QUEST_LV_0400_20180208_003043	Right now the Goddess is checking on Demon Goddess Giltine's rampage in Valandis Room 91.{nl}
+QUEST_LV_0400_20180208_003044	As pressing as the matter is, the Goddess will not use the Fantasy Library as a burial ground for Giltine.{nl}Please follow the plan thoughtfully and reliably.
+QUEST_LV_0400_20180208_003045	You have successfully energized the device.{nl}It's good to know the plan is right on schedule.{nl}
+QUEST_LV_0400_20180208_003046	Giltine is currently in Valandis Room 91 searching frankly for the revelation.{nl}Let us finally finish the task before us.
+QUEST_LV_0400_20180208_003047	Now, there are only a few devices left to run.{nl}
+QUEST_LV_0400_20180208_003048	But is there enough time to leave everything to Skywa... And it would be difficult to protect.{nl}Would you be willing to help Skywa?{nl}
+QUEST_LV_0400_20180208_003049	Make you way to Ballandans collapsing device.{nl}Skywa will be waiting for you there.
+QUEST_LV_0400_20180208_003050	The human helping Vaivora is you?{nl}This is my first time seeing one, but you seem particularly strong.{nl}
+QUEST_LV_0400_20180208_003051	I have a job for you...
+QUEST_LV_0400_20180208_003052	Not too long ago, I set the Ballandans Collapsing Device.{nl}I was going activate another devicce here as well, but the demons swarmed me.{nl}
+QUEST_LV_0400_20180208_003053	If I waste my time on them, I won't be able to finish the work Vaivora gave me.{nl}How about clearing demons from around the Ballandans collapsing device?{nl}
+QUEST_LV_0400_20180208_003054	You just need to protect it until the device is set and conseals itself...{nl}While you deal with this, I'll be able to go and finish my other remaining tasks.
+QUEST_LV_0400_20180208_003055	Thank you so much! Humans are so kind, no?{nl}Alright, I'm going to go finish my other preparations. I'm counting on you.
+QUEST_LV_0400_20180208_003056	Your help is appreciated. Thanks to you, Skywa was able to complete the rest of the preparations.{nl}Now only Balanorth collapsing device is left.{nl}
+QUEST_LV_0400_20180208_003057	Shall I give this remaining task to you?{nl}When all is ready, just turn on the device.{nl}
+QUEST_LV_0400_20180208_003058	Oh, right Neringa was looking for you. It seems she also needs your help.{nl}I'll wait here for your successful return.
+QUEST_LV_0400_20180208_003059	Everything has been prepared.{nl}And Vaivora has no reason to distrust you.{nl}
+QUEST_LV_0400_20180208_003060	You received the request to handle the Balanorth collapsing device, no?{nl}When go to run that device, the head monsters will appear and interrupt you.{nl}
+QUEST_LV_0400_20180208_003061	When the head monsters are defeated they will release great amounts of energy.{nl}We will use that.{nl}
+QUEST_LV_0400_20180208_003062	Please lure the head monsters closer to the Balanorth device and defeat them there.{nl}Their released energy will overheat the device and destroy it.{nl}
+QUEST_LV_0400_20180208_003063	Then Vaivora's mission will fail in its final step.{nl}Once you have completed this task, you and Neringa will go together to Valandis Room 91.{nl}
+QUEST_LV_0400_20180208_003064	Please do not forget.{nl}You must defeat the head monsters when they are nearest to the device.
+QUEST_LV_0400_20180208_003065	All of history is recorded in Fantasy Library. Of course, records about you are also here.{nl}This is a situation where a human is involved in both Goddess and demon history.{nl}
+QUEST_LV_0400_20180208_003066	But, sadly, it will not be recorded.{nl}Neringa has destroyed all records of your involvement.
+QUEST_LV_0400_20180208_003067	Vaivora has sensed that something has gone wrong.{nl}She believed all to be finished.{nl}
+QUEST_LV_0400_20180208_003068	But right now there is no reason to care about her.{nl}Neringa will head towards Valandis Room 91 first.{nl}
+QUEST_LV_0400_20180208_003069	Inform Vaivora that the plan has failed.{nl}Then you must come straight to Valandis Room 91.{nl}
+QUEST_LV_0400_20180208_003070	Neringa will wait for you there.
+QUEST_LV_0400_20180208_003071	How did it turn out like this?{nl}The device isn't responding.{nl}
+QUEST_LV_0400_20180208_003072	You've failed me.{nl}Now I see the human limit.{nl}
+QUEST_LV_0400_20180208_003073	I was stupid...{nl}
+QUEST_LV_0400_20180208_003074	But it's not your fault.{nl}It was my fault for giving such an important task to a human.{nl}
+QUEST_LV_0400_20180208_003075	I...{nl}
+QUEST_LV_0400_20180208_003076	The Next plan is...{nl}
+QUEST_LV_0400_20180208_003077	To stop Giltine I could...
+QUEST_LV_0400_20180208_003078	Everywhere has become polluted and ruined by Demon Goddess Giltine.{nl}Vaivora, before she destroys everything, us included, you must take action.
+QUEST_LV_0400_20180208_003079	It's no use.{nl}There is no way a human can compete against a Demon God..{nl}
+QUEST_LV_0400_20180208_003080	However, a human chosen by Laima may be different.{nl}I wish not to put you harm's way.{nl}
+QUEST_LV_0400_20180208_003081	But I need you to buy us some time until the Kupole and I can figure out how to trap Giltine.{nl}Right now, this is our best plan..
+QUEST_LV_0400_20180208_003082	Demon Goddess Giltine is summoning her demons to Valandis Room 91.{nl}
+QUEST_LV_0400_20180208_003083	Neringa is sure she is residing there.{nl}You need to stop Giltine before she gets her hands on the revelation and escapes.{nl}
+QUEST_LV_0400_20180208_003084	To do this you must destroy the dimensional doors used to summon the demons.{nl}Then, you and Neringa will need to prepare a way to keep you safe from Giltine.{nl}
+QUEST_LV_0400_20180208_003085	But first, destroy the doors.{nl}This incident is coming to an end just as the Goddess predicted.{nl}
+QUEST_LV_0400_20180208_003086	And your role has become more important.{nl}Neringa will make the necessary preparations and, during this time, destroy as many dimensional doors as possible.
+QUEST_LV_0400_20180208_003087	We have almost reached where Demon God Giltine is residing.{nl}Nearby is the revelation Goddess Laima prepared for Giltine.{nl}
+QUEST_LV_0400_20180208_003088	Giltine has already burned her way through the library to reach that one revelation.{nl}And Goddess Laima has said that you also must be there.{nl}
+QUEST_LV_0400_20180208_003089	Stay near Neringa. Neringa will keep you safe.{nl}But you must also keep Neringa safe from the demon minions.{nl}
+QUEST_LV_0400_20180208_003090	Now let us follow Giltine.{nl}Now we only need to follow Giltine.{nl}Stay close. If you get too far away from Neringa, you will be struck by Giltine's power.
+QUEST_LV_0400_20180208_003091	Goddess Laima spoke of a day where Giltine's black wings will be broken.{nl}But this is not that day.{nl}
+QUEST_LV_0400_20180208_003092	From here forward, you will face Giltine alone.{nl}Neringa did not appear in the final scene of Goddess Laima's prediction.{nl}
+QUEST_LV_0400_20180208_003093	Under the black wing's shadow is the future.{nl}suppress your fear and continue forward.
+QUEST_LV_0400_20180208_003094	Fate, itself, will protect you.{nl}Go forth, Revelator.
+QUEST_LV_0400_20180208_003095	You have successfully fulfilled Goddess Laima's prediction.Then, Neringa's role here is done.{nl}But the journey for you has not come to an end.
+QUEST_LV_0400_20180208_003096	Now that this is over, Goddess Laima wished to guide you to Astral Tower.{nl}At the tower will be a revelation for you to find.{nl}
+QUEST_LV_0400_20180208_003097	At Astral Tower there will be new hardships and revelations waiting for you.{nl}However, all of this follows from Goddess Laima. You will be safe.{nl}
+QUEST_LV_0400_20180208_003098	Before leaving, report to Vaivora that the revelation was not retrieved.{nl}And that Neringa has also left.{nl}She will not ask you why.
+QUEST_LV_0400_20180208_003099	I see.. this is how things turned out.{nl}I appreciate your courage and sacrifice.{nl}
+QUEST_LV_0400_20180208_003100	This is the second time I have missed Giltine in my own library.{nl}It seems Laima and my sisters will berate me for this..{nl}
+QUEST_LV_0400_20180208_003101	I knew that Neringa would leave eventually.{nl}She was always around but her presence was never imposing.{nl}
+QUEST_LV_0400_20180208_003102	If we meet again, there is much I want to ask.{nl}But it will have to wait until the world is freed from Giltine's grasp.{nl}
+QUEST_LV_0400_20180208_003103	This power was something given to me by Laima through Neringa.{nl}And it was Neringa who told me to pass this on to you, once everything was finished.{nl}
+QUEST_LV_0400_20180208_003104	I pray this will be useful to you.
+QUEST_LV_0400_20180305_003111	
+	
+{nl}그런데 이상하게도 왕실과 관련된{nl}이야기는 없는데 그 이유가{nl}타니엘 2세 시대에 이곳에{nl}비밀 왕릉을 만든 후 엄청난{nl}부장품을 함께 묻었기 때문이라는{nl}소문이 있습니다.	전설 속 동굴 : 개정판 제 2권
+QUEST_LV_0400_20180305_003112	
+QUEST_LV_0400_20180305_003113	
+	
+아무리 깊은 숲속에서 몰래{nl}왕릉의 위치를 캐고 다니고 싶어도{nl}대삼림지대를 돌보시는 {nl}메데이나 여신의눈을{nl}피하기는 어렵기 때문입니다.{nl}그러므로 이 소문은 설령{nl}사실이라도 영원히 전설로만{nl}남을 것 같습니다.	전설 속 동굴 : 개정판 제 2권
+QUEST_LV_0400_20180320_003114	Goddess Medeina used the trees to sow a song that she could pass on to the priests.{nl}The priests would then break down the metaphorical lyrics to grasp the Goddess' true meaning. 
+QUEST_LV_0400_20180320_003115	To change the detectors, the detector and its auxiliary systems must be shut down.{nl}Yet, there are numerous systems. If even one turns back on, the remaining ones will also turn on, making the task difficult.
+QUEST_LV_0400_20180517_003116	Teliavelis
+QUEST_LV_0400_20180517_003117	I see you got a few Spirit Fragments from that Velcoffer monster.{nl}Say, I could make you a fine piece of armor with those.
+QUEST_LV_0400_20180517_003118	Here ya go.{nl}If you get any more Velcoffer Spirit Fragments, just come and talk to me.
+QUEST_LV_0400_20180517_003119	I can fix you up with a new piece of Velcoffer gear any time you need.
+QUEST_LV_0400_20180517_003120	Velcoffer Armor (1)
+QUEST_LV_0400_20180517_003121	Velcoffer Armor (2)
+QUEST_LV_0400_20180517_003122	Here, take them.
+QUEST_LV_0400_20180517_003123	I'll hold on to them for now.
+QUEST_LV_0400_20180517_003124	Velcoffer Armor
+QUEST_LV_0400_20180517_003125	Defeat Velcoffer
+QUEST_LV_0400_20180517_003126	Defeat Velcoffer at Velcoffer's Nest.
+QUEST_LV_0400_20180517_003127	Defeat %s at Velcoffer's Nest.
+QUEST_LV_0400_20180517_003128	Talk to Teliavelis
+QUEST_LV_0400_20180517_003129	Obtained Velcoffer Spirit Fragments. Talk to Blacksmith Teliavelis; he might know how to use them.
