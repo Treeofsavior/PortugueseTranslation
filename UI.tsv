@@ -3017,9 +3017,9 @@ UI_20180320_003016	Level 1 cards do not consume Silver.
 UI_20180320_003017	Recruiting guild quest participants.
 UI_20180320_003018	{@st43}Enhance Legend Card{/}
 UI_20180320_003019	{@st43b}{#ffba00}{s20}Success Rate[%s%]{/}
-UI_20180320_003020	{@st43b}{s17}{#ffba00}Increases Card Level [{img star_mark 2020}] by +1 on success{/}
+UI_20180320_003020	{@st43b}{s17}{#ffba00}Increases Card Level [{img star_mark 20 20}] by +1 on success.{/}
 UI_20180320_003021	{@st43b}{s20}Failure Rate [%s%]{/}
-UI_20180320_003022	{@st43b}{s17}Fodder cards will be deleted, and the Legend Card level will be maintained upon failure.{/}
+UI_20180320_003022	{@st43b}{s17}Fodder cards will be deleted and the Legend Card level will not change.{/}
 UI_20180320_003023	{@st43b}{#898989}{s20}Destruction Rate[%s%]{/}
 UI_20180320_003024	{@st43b}{#898989}{s17}The Legend Card and fodder cards will be deleted upon destruction.{/}
 UI_20180320_003025	{@st59}Close{/}
@@ -3044,3 +3044,337 @@ UI_20180320_003043	This could be the reason.{nl}This could also be the reason.
 UI_20180320_003044	{img notice_br_solution 16 16}{@st99w16}Solution
 UI_20180320_003045	Try this.{nl}Try that.
 UI_20180320_003046	{@st68}Check
+UI_20180402_003047	{img notice_br_link 16 16}{@st99w16}Related Link
+UI_20180409_003048	{@st66b}Draw Shadow
+UI_20180413_003049	{@st43b}{s18}Benefits (Coming Soon){/}
+UI_20180413_003050	ⓘ Please see our official website at treeofsavior.com for more information on Territory Wars rewards and benefits during the beta testing period.
+UI_20180418_003051	{@st47}{s18}See Processed Equipment
+UI_20180418_003052	{@st42}Equippable Titles [%s]{/}
+UI_20180418_003053	{@st42}{#00fec5}Current Title Buff Stage
+UI_20180418_003054	{@st42}Titles Needed for Next Stage
+UI_20180418_003055	{@st42b}Stage %s{/}
+UI_20180418_003056	{@st66b}See Next Stage Effects{/}
+UI_20180418_003057	{@st59}Close transcendence scroll window.{/}
+UI_20180418_003058	{@st41}{s20}Transcendence Scroll{/}
+UI_20180418_003059	Transcendence Value: %s
+UI_20180418_003060	Success Rate: %s%
+UI_20180418_003061	{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}
+UI_20180418_003062	{@st41b}{s20}Transcendence
+UI_20180418_003063	{@st41b}{s20}Confirm
+UI_20180426_003064	{@st59}Back{/}
+UI_20180517_003065	Default
+UI_20180517_003066	{@st66b}Community{/}
+UI_20180517_003067	{@st66b}Guild Info{/}
+UI_20180517_003068	{@st66b}Storage{/}
+UI_20180517_003069	{@st66b}Wars{/}
+UI_20180517_003070	{@st41b}Write
+UI_20180517_003071	{@st66b}Master{/}
+UI_20180517_003072	{@st66b}Guild Master name here{/}
+UI_20180517_003073	{@st66b}Members{/}
+UI_20180517_003074	{@st66b}Founded{/}
+UI_20180517_003075	{@st66b}Funds{/}
+UI_20180517_003076	{@st66b}Guild funds here{/}
+UI_20180517_003077	Position {img %s 13 13}
+UI_20180517_003078	%s online, %s offline
+UI_20180517_003079	{@st43b}{s18}Wars{/}
+UI_20180517_003080	Neutral Status Canceled Alert
+UI_20180517_003081	{@st66b}Guild Promotion{/}
+UI_20180517_003082	{@st66b}Roles and Authorities{/}
+UI_20180517_003083	{@st66b}Applications{/}
+UI_20180517_003084	{@st43b}{s18}Role Settings
+UI_20180517_003085	Roles
+UI_20180517_003086	Authorities
+UI_20180517_003087	{@st42}Guild Management{/}
+UI_20180517_003088	{@st42}Guild Funds{/}
+UI_20180517_003089	{@st42}Guild Community{/}
+UI_20180517_003090	{@st42}Contents{/}
+UI_20180517_003091	{@st41b}{s16}Add
+UI_20180517_003092	{@st41b}{s16}Delete
+UI_20180517_003093	{@st41b}{s16}Save
+UI_20180517_003094	{@st43b}{s18}Give Role
+UI_20180517_003095	Character Level
+UI_20180517_003096	Total Characters
+UI_20180517_003097	{@st41b}{s16}Accept
+UI_20180517_003098	{@st41b}{s16}Decline
+UI_20180517_003099	{@st43b}{s18}Emblem{/}
+UI_20180517_003100	Important
+UI_20180517_003101	{@st41b}{s16}Register
+UI_20180517_003102	{@st43b}{s18}Banner{/}
+UI_20180517_003103	ⓘ Your image must be sized %s and in PNG (24 bit or 32 bit) format.{nl}ⓘ The file name must be composed only of alphanumeric characters.{nl}ⓘ The use of problematic images can result in restrictions.
+UI_20180517_003104	Allow Outsiders
+UI_20180517_003105	Promote Guild
+UI_20180517_003106	{@st43b}{s18}Cover Page{/}
+UI_20180517_003107	ⓘ Your image must be sized %s and in PNG (24 bit or 32 bit) format.{nl}ⓘ The file name must be composed only of alphanumeric characters.{nl}ⓘ The use of problematic images can result in restrictions.
+UI_20180517_003108	1024 in width and 768-3840 in length
+UI_20180517_003109	{@st41b}{s16}Preview
+UI_20180517_003110	{@st43b}{s18}Cover Page Text{/}
+UI_20180517_003111	{@st66b}Register
+UI_20180517_003112	{@st64}Guild
+UI_20180517_003113	{@st43}{s22}More Info{/}
+UI_20180517_003114	{@st43}Guild Info
+UI_20180517_003115	 {@st66}Info
+UI_20180517_003116	 {@st66}Cover Page
+UI_20180517_003117	{@st43}Intro
+UI_20180517_003118	{s18}Name{/}
+UI_20180517_003119	{s18}Guild
+UI_20180517_003120	{@s18}Master{/}
+UI_20180517_003121	{@s18}Founded{/}
+UI_20180517_003122	{@s18}Guild Level{/}
+UI_20180517_003123	{@s18}Status{/}
+UI_20180517_003124	{@s18}Recruiting{/}
+UI_20180517_003125	{@st41}Applications
+UI_20180517_003126	{@s18}Members{/}
+UI_20180517_003127	{@s18}Average Level{/}
+UI_20180517_003128	{@s18}Cover Page Text{/}
+UI_20180517_003129	{@s18}Your guild intro text goes here.{/}
+UI_20180517_003130	{@s18}Members{/}
+UI_20180517_003131	{@st43}Write{/}
+UI_20180517_003132	{@st41b}Write
+UI_20180517_003133	{@st43}Write
+UI_20180517_003134	{@st43}Applicants
+UI_20180517_003135	Team Level: %s {nl}Characters: %s {nl}Adventure Journal Rank: %s {nl}Level of Applying Character: %s {nl} {nl}Message
+UI_20180517_003136	{@st43}{s22}New UI{/}
+UI_20180517_003137	{@st42}Guild Name{/}
+UI_20180517_003138	{@st42}Message{/}
+UI_20180517_003139	Message
+UI_20180517_003140	You can apply for a guild even without entering a message.{nl}ⓘ The following information is automatically displayed to the guild when you send the application:{nl} - Team name{nl} - Team level{nl} - No. of characters{nl} - Level of the applying character{nl} - Adventure Journal ranking{nl}
+UI_20180517_003141	{@st41}Send Application
+UI_20180517_003142	{@st43}{s22}Guild Promotion{/}
+UI_20180517_003143	{@st43}Guild Promotion Board
+UI_20180517_003144	{@st59}Guild Level{/}
+UI_20180517_003145	{@st59}Activation Points{/}
+UI_20180517_003146	{@st59}Average Team Level{/}
+UI_20180517_003147	{@st59}Applicants{/}
+UI_20180517_003148	{@st59}Territory Wars{/}
+UI_20180517_003149	{@st43}Application Log
+UI_20180517_003150	Date
+UI_20180517_003151	Status
+UI_20180517_003152	{@st66b}Daily entries reset every Monday at %s (server time).{/}
+UI_20180517_003153	Equip Ichor
+UI_20180517_003154	Equip
+UI_20180517_003155	{@st43b}{s18}Current Stats
+UI_20180517_003156	{@st43b}{s18}Equip Stats
+UI_20180517_003157	Extraction Kit
+UI_20180517_003158	Extract Ichor
+UI_20180517_003159	Extract
+UI_20180517_003160	{s22}The item was destroyed.
+UI_20180517_003161	{@st43b}{s18}Potential
+UI_20180517_003162	{@st43b}{s18}Options Extracted
+UI_20180517_003163	Dismantle Legend Item
+UI_20180517_003164	Dismantle
+UI_20180517_003165	Apply Set Stats
+UI_20180517_003166	{@st43}Craft Legend Equipment{/}
+UI_20180517_003167	{@st59}Close Legend item crafting UI.{/}
+UI_20180517_003168	{@st42b}See only equippable items
+UI_20180517_003169	{@st43b}{s15}{#ffbf11}Point Difference
+UI_20180517_003170	{@st43b}{s16}%s Points
+UI_20180517_003171	Obtained [ %s] Badges
+UI_20180517_003172	{@st66d}{s20}Returning in %s seconds.{/}
+UI_20180517_003173	{@st66d}Return{/}
+UI_20180517_003174	If you undo your current class advancement, the advancement will be undone and {@st66d_y}your current class EXP will disappear.{/}{/}
+UI_20180517_003175	{@st45tw2}Conditions and Precautions{/}
+UI_20180517_003176	{@st66b}Respawn in Guild Tower{/}
+UI_20180517_003177	{@st59}Guild Promotion (Alt + R){/}
+UI_20180517_003178	{@st66b}Auto Cell Selection{/}
+UI_20180517_003179	{@st66b}Cell Movement Speed (%s){/}
+UI_20180517_003180	{@st43}Purchase List{/}
+UI_20180517_003181	{@st66d_y}{s18}[Probability Items]
+UI_20180517_003182	{@st66d}{s18}[Non-probability Items]
+UI_20180517_003183	{img impossible_red 17 17}Equip Restrictions
+UI_20180517_003184	{img impossible_yellow 17 17}One Purchase Only
+UI_20180517_003185	{img icon_item_tpBox_30 36 36}%s TP will be consumed.
+UI_20180517_003186	Probability Message
+UI_20180517_003187	{@st66b}Yes{/}
+UI_20180517_003188	{@st66b}No{/}
+UI_20180517_003189	{@st66w}Show all tabs{/}
+UI_20180517_003190	{@st66b}In-game, your character and team names will be displayed like this:{nl} 
+UI_20180517_003191	CharacterName TeamName
+UI_20180517_003192	 .{nl}{img exemple_img_teamname}{nl}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}
+UI_20180517_003193	N/A
+UI_20180517_003194	N/A
+UI_20180517_003195	{@st41b}{s14}{#ffffff}Normal
+UI_20180517_003196	{@st41b}{s14}{#0e7fe8}Magic
+UI_20180517_003197	{@st41b}{s14}{#a124d0}Rare
+UI_20180517_003198	{@st41b}{s14}{#d92400}Unique
+UI_20180517_003199	{@st41b}{s14}{#ffa800}Legend
+UI_20180517_003200	Cannot transcend
+UI_20180517_003201	Cannot extract
+UI_20180517_003202	Cannot extract sockets
+UI_20180517_003203	Main Weapon
+UI_20180517_003204	Armor
+UI_20180517_003205	Bottom
+UI_20180517_003206	{@st41b}{s18}Item Set
+UI_20180517_003207	{@st41b}{s16}Set Stats
+UI_20180517_003208	Exchange
+UI_20180517_003209	{@st66d}Player Name{/}
+UI_20180517_003210	{@st66}{s18}Write{/}
+UI_20180517_003211	Weight: %s
+UI_20180517_003212	Total Characters 
+UI_20180517_003213	I want to join
+UI_20180517_003214	Character Class
+UI_20180517_003215	Character Contribution
+UI_20180517_003216	Team Storage Slots +30
+UI_20180523_003217	{@st41_yellow}{s70}Victory 
+UI_20180523_003218	{@st41_yellow}{s70}Defeat
+UI_20180528_003219	{s30}Important
+UI_20180528_003220	{@st41b}{img icon_button_warning 36 36}Yes
+UI_20180629_003221	{@st41d}               Lodge
+UI_20180629_003222	{@st66d}{s20}%s {@st66d_y}{s20}%s{@st66b}{s18}{nl}Change Lodge?
+UI_20180629_003223	{@st66b}Yes
+UI_20180629_003224	{@st66b}No
+UI_20180629_003225	{@st43}Barber Shop (M)
+UI_20180629_003226	{@st43}Barber Shop (F)
+UI_20180629_003227	{@st43}Boutique (M)
+UI_20180629_003228	{@st43}Boutique (F)
+UI_20180629_003229	{@st43}Barber Shop - Wigs (M)
+UI_20180629_003230	{@st43}Barber Shop - Wigs (F)
+UI_20180629_003231	{@st43}Boutique - Cubes
+UI_20180629_003232	{@st43}Berber Shop - Lenses
+UI_20180629_003233	View only equipable items
+UI_20180629_003234	Select Color
+UI_20180629_003235	{img barbershop_scissors_pic 41 36}{@st66b}Select a hairstyle to view the color list.{/}
+UI_20180629_003236	{@st43b}{s20}Preview and Purchase{/}
+UI_20180629_003237	{@st59}Wigs{/}
+UI_20180629_003238	{@st59}Wigs and Dyes{/}
+UI_20180629_003239	{@st59}Toys{/}
+UI_20180629_003240	{@st66}{s18}Try On{/}
+UI_20180629_003241	{@st41b}{s17}Hair Costumes
+UI_20180629_003242	You can hide/show all of your currently equipped hair costumes.
+UI_20180629_003243	   Current TP{/}
+UI_20180629_003244	   Remaining TP{/}
+UI_20180629_003245	Now Wearing
+UI_20180629_003246	{@st59}Close the list.{/}
+UI_20180629_003247	{@st66b}Current TP
+UI_20180629_003248	{@st66b}Purchase List
+UI_20180629_003249	{@st66}- Hair Coupons
+UI_20180629_003250	{@st66}- Dye Coupons
+UI_20180629_003251	{@st66b}{#a70000}Total
+UI_20180629_003252	{@st66}{s18}Purchase all listed items?
+UI_20180629_003253	{ol}Open coupon list.
+UI_20180629_003254	{@st66b}Remaining TP
+UI_20180629_003255	{@st66d}To the Shop{/}
+UI_20180629_003256	{@st66d}Purchase{/}
+UI_20180629_003257	{s17}Coupon List
+UI_20180629_003258	{@st66b}Use
+UI_20180629_003259	{@st43}Barber Shop Coupon Book
+UI_20180629_003260	Exchange Stamps
+UI_20180629_003261	※{b}{ol}{#c21917}Stamps are consumed when you exchange them.{/}{/}{/}{nl}Each type of coupon consumes a different number of stamps.
+UI_20180629_003262	{img barbershop_couponbook_stamp 30 30} %s stamps
+UI_20180629_003263	{@st59}Close weapon appearance UI.{/}
+UI_20180629_003264	{@st43}Change Weapon Appearance{/}
+UI_20180629_003265	{@st66b}Current Potential
+UI_20180629_003266	{@st42}Source Weapon
+UI_20180629_003267	{@st42}Target Weapon
+UI_20180629_003268	{@st42}Keep Potential
+UI_20180629_003269	{img silver 20 20}Price
+UI_20180629_003270	If left unchecked, your item's Potential will be reduced.{nl}Does not consume Silver.
+UI_20180629_003271	Please register a core or a weapon which appearance you wish to keep.
+UI_20180629_003272	{@st43b}{s20}OK
+UI_20180629_003273	Update message board.
+UI_20180629_003274	Awakening Shop
+UI_20180629_003275	{@st42}Close Shop
+UI_20180629_003276	{@st42}Awaken
+UI_20180629_003277	Material
+UI_20180629_003278	{@st42}Open Shop
+UI_20180629_003279	{@st41d}{b}{ol}{s14}{img icon_item_silver 22 22} Acquired Silver: %s%s
+UI_20180629_003280	{#fde43f}{b}{ol}{s14}Acquired Character EXP: %s
+UI_20180629_003281	{#fde43f}{b}{ol}{s14}Acquired Class EXP: %s
+UI_20180629_003282	Artisan Magnifier
+UI_20180629_003283	Re-identify
+UI_20180629_003284	{@st66}{s16}{nl}Select
+UI_20180629_003285	{@st41b}{s18}Current Magnifiers: %s
+UI_20180629_003286	{@st66}{s18}Consumes Artisan Magnifier x%s.
+UI_20180629_003287	Mysterious Magnifier
+UI_20180629_003288	{@st66}{s18}Consumes Mysterious Magnifier x%s.
+UI_20180629_003289	{@st43}Cube List{/}
+UI_20180629_003290	Quantity
+UI_20180629_003291	{@st41b}{s16}{nl}Add to Cart
+UI_20180629_003292	{s22}%s defeated
+UI_20180629_003293	{s22}%s points
+UI_20180629_003294	{s26}%s Badges
+UI_20180629_003295	Ranking
+UI_20180629_003296	{@st66b}Last Week 
+UI_20180629_003297	{@st59}See last week's ranking.{/}
+UI_20180629_003298	{@st66b}This Week 
+UI_20180629_003299	{@st59}See this week's ranking. Updated every hour.{/}
+UI_20180629_003300	{@st59}Close solo dungeon ranking.{/}
+UI_20180629_003301	Remnants of Bernice Ranking
+UI_20180629_003302	{@st66d}Rewards
+UI_20180629_003303	{@st66b}TOP 10 ranking players get {#003997}"Dimensional Incense Burner"{/} items from the previous week's rankings.{nl}Players who participated in the season receive a set of {#003997}"Dimensional Potion"{/} according to their score.{nl} {nl}{s13}Seasons start every Monday at 06:00 (server time).
+UI_20180629_003304	{@st66b}Swordsman
+UI_20180629_003305	{@st66b}Wizard
+UI_20180629_003306	{@st66b}Archer
+UI_20180629_003307	{@st66b}Cleric
+UI_20180629_003308	{@st66d}See Last Week's Rewards
+UI_20180629_003309	Guild Name
+UI_20180629_003310	Class Tree
+UI_20180629_003311	Highest Stage
+UI_20180629_003312	Monster Kills
+UI_20180629_003313	Highest Stage: %s
+UI_20180629_003314	Most Monster Kills: %s
+UI_20180629_003315	Highest Ranking: %s
+UI_20180629_003316	Current Stage: %s
+UI_20180629_003317	Monsters Defeated: %s
+UI_20180629_003318	Current Ranking: %s
+UI_20180629_003319	{@st66b}{s16}All
+UI_20180629_003320	{@st66b}{s16}Wizard
+UI_20180629_003321	{@st66b}{s16}Wizard
+UI_20180629_003322	{@st66b}{s16}Archer
+UI_20180629_003323	{@st66b}{s16}Cleric
+UI_20180629_003324	Returning to town soon.
+UI_20180629_003325	{@st42}{s18}{nl}Go Back{nl}
+UI_20180629_003326	Wig Dye
+UI_20180629_003327	Current Qtt
+UI_20180629_003328	Important {img tip_questionmark 20 20}
+UI_20180629_003329	Please unequip all your equipment first.{nl}Basic class costumes change gender automatically.{/}{nl}{@st67}{#fe7e00}{b}Gendered premium costumes{nl}will no longer fit your character after the gender switch.{/}
+UI_20180629_003330	{@st66b}See Team Name Only{/}
+UI_20180629_003331	{@st66b}See Party Name{/}
+UI_20180629_003332	{@st66b}See Other Characters' Names{/}
+UI_20180629_003333	{@st66b}See HP/SP Under Characters{/}
+UI_20180629_003334	{@st66b}See Drop Item Names{/}
+UI_20180629_003335	{@st66b}See Acquired Silver Alerts{/}
+UI_20180629_003336	{@st66b}See Acquired EXP Alerts{/}
+UI_20180629_003337	{@st66b}See Party's Summon Names{/}
+UI_20180629_003338	{@st66b}See Tile Range{/}
+UI_20180629_003339	{@st66b}Flute UI Size (%s){/}
+UI_20180629_003340	{@st66b}Hear Other Characters' Flutes{/}
+UI_20180629_003341	{@st59}Uncheck if you don't want to hear other characters' flutes.{/}
+UI_20180629_003342	{@st66b}See Frame Data (FPS){/}
+UI_20180629_003343	{@st59}Displays current fps.{/}
+UI_20180629_003344	{@st66b}Premium{/}
+UI_20180629_003345	{@st66b}Cosmetic{/}
+UI_20180629_003346	{@st43}Enter Beauty Shop{/}
+UI_20180629_003347	{s14}Beauty Shop Test
+UI_20180629_003348	Fixed Camera
+UI_20180629_003349	Cancel Fixed Camera
+UI_20180629_003350	Open Hair Shop (F)
+UI_20180629_003351	Open Hair Shop (M)
+UI_20180629_003352	Hair Shop List (F)
+UI_20180629_003353	Hair Shop List (M)
+UI_20180629_003354	Equip Preview_ALL
+UI_20180629_003355	Equip Preview_Hair
+UI_20180629_003356	Equip Preview_Costume
+UI_20180629_003357	Open Costume Shop (F)
+UI_20180629_003358	Open Costume Shop (M)
+UI_20180629_003359	Costume Shop List (F)
+UI_20180629_003360	Costume Shop List (M)
+UI_20180629_003361	Open Simple List
+UI_20180629_003362	Simple List Item Settings
+UI_20180629_003363	Open Wig Shop (F)
+UI_20180629_003364	Open Wig Shop (M)
+UI_20180629_003365	Wig Shop List (F)
+UI_20180629_003366	Wig Shop List (M)
+UI_20180629_003367	Open Others
+UI_20180629_003368	Others List
+UI_20180629_003369	Purchase Test
+UI_20180629_003370	{@st66}{nl}Delete Character
+UI_20180629_003371	{@st66}{nl}Move Lodge
+UI_20180629_003372	{@st66}{nl}New Character
+UI_20180629_003373	Cannot Change Appearance
+UI_20180629_003374	Basic{/}
+UI_20180629_003375	{#003997}{b}Stage Clear: %s
+UI_20180629_003376	{ol}Add to Cart
+UI_20180629_003377	Current Items
+UI_20180629_003378	{@st41b}{S16}%s% Discount Coupon
+UI_20180629_003379	{@st41b}{s16}{nl}Exchange
+UI_20180704_003380	Please register a Weapon Appearance Material or equivalent items.

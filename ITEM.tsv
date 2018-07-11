@@ -14526,7 +14526,7 @@ ITEM_20170420_014525	A strong piece of armor made of monster leather and bones. 
 ITEM_20170420_014526	Vienti Krisius Gauntlets
 ITEM_20170420_014527	A strong piece of armor worn by the royal knights of a faraway nation. It contains pure gold.
 ITEM_20170420_014528	 - Provides the buff effect 
-ITEM_20170420_014529	applies buff effects
+ITEM_20170420_014529	 while equipped
 ITEM_20170420_014530	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}  - Fireball, Fire Wall, Flare, Fire Pillar, Hell Breath, Flame Ground, Meteor, Incineration, Prominence
 ITEM_20170420_014531	 - Increases Magic Amplification as much as {img green_up_arrow 16 16}40% as the HP recovery rate at the time of equipping this item{nl} - Reduces HP recovery rate to 0
 ITEM_20170420_014532	 while equipped{nl}  - Stacks when equipping the same item
@@ -15556,13 +15556,13 @@ ITEM_20170912_015555	Box of Honest Gratitude
 ITEM_20170912_015556	A box containing a gift from someone you helped. Right-click to use and receive one of many material items.
 ITEM_20170912_015557	Big Chest of Kindness
 ITEM_20170912_015558	A chest containing a gift from someone you helped. Right-click to use and receive one of many material items.
-ITEM_20170912_015559	[Card Equip Effect] Earth property damage +[{img star_mark 20 20}*10]
+ITEM_20170912_015559	[Card Equip Effect] Add. Earth Property Damage +[{img star_mark 20 20}*10]
 ITEM_20170912_015560	[Card Equip Effect] [{img star_mark 20 20}]% chance of using Lv1 Pain Barrier upon being hit
-ITEM_20170912_015561	[Card Equip Effect] [Strike] defense +[{img star_mark 20 20}*10]
+ITEM_20170912_015561	[Card Equip Effect] [Strike] Defense +[{img star_mark 20 20}*10]
 ITEM_20170912_015562	[Card Equip Effect] Increases [{img star_mark 20 20}]% damage against Flying-type monsters
 ITEM_20170912_015563	[Card Equip Effect] Increases [{img star_mark 20 20}/2]% damage against Plate-wearing enemies
 ITEM_20170912_015564	[Card Equip Effect] STR +[{img star_mark 20 20}]
-ITEM_20170912_015565	[Card Equip Effect] Dark property damage +[{img star_mark 20 20}*10]
+ITEM_20170912_015565	[Card Equip Effect] Add. Dark Property Damage +[{img star_mark 20 20}*10]
 ITEM_20170912_015566	[Card Equip Effect] Critical Attack +[{img star_mark 20 20}*20]
 ITEM_20170912_015567	[Card Equip Effect] Increases [{img star_mark 20 20}]% damage against Mutant-type property monsters
 ITEM_20170912_015568	[Card Equip Effect] Magic Defense +[{img star_mark 20 20}*10]
@@ -15589,15 +15589,15 @@ ITEM_20170912_015588	[Card Equip Effect] Increases [{img star_mark 20 20}]% dama
 ITEM_20170912_015589	[Card Equip Effect] Evasion +[{img star_mark 20 20}*2]
 ITEM_20170912_015590	[Card Equip Effect] Increases [{img star_mark 20 20}]% damage against Beast-type monsters
 ITEM_20170912_015591	[Card Equip Effect] Attack +[{img star_mark 20 20}*7] when equipping Strike weapons
-ITEM_20170912_015592	[Card Equip Effect] Earth property resistance +[{img star_mark 20 20}*10]
+ITEM_20170912_015592	[Card Equip Effect] Earth Property Resistance +[{img star_mark 20 20}*10]
 ITEM_20170912_015593	[Card Equip Effect] [{img star_mark 20 20}/3]% chance of attack inflicting Poison for 6 seconds
 ITEM_20170912_015594	[Card Equip Effect] Stamina +[{img star_mark 20 20}]
-ITEM_20170912_015595	[Card Equip Effect] Ice property resistance +[{img star_mark 20 20}*10]
+ITEM_20170912_015595	[Card Equip Effect] Ice Property Resistance +[{img star_mark 20 20}*10]
 ITEM_20170912_015596	[Card Equip Effect] [{img star_mark 20 20}]% chance of recovering 5% SP after defeating Fire property monsters
 ITEM_20170912_015597	[Card Equip Effect] Silence state resistance +[{img star_mark 20 20}*2]%
 ITEM_20170912_015598	[Card Equip Effect] [{img star_mark 20 20}/3]% per attack of reducing damage received by 10% for 5 seconds
-ITEM_20170912_015599	[Card Equip Effect] Lightning property resistance +[{img star_mark 20 20}*10]
-ITEM_20170912_015600	[Card Equip Effect] [Pierce] defense +[{img star_mark 20 20}*10]
+ITEM_20170912_015599	[Card Equip Effect] Lightning Property Resistance +[{img star_mark 20 20}*10]
+ITEM_20170912_015600	[Card Equip Effect] [Pierce] Defense +[{img star_mark 20 20}*10]
 ITEM_20170912_015601	[Card Equip Effect] [{img star_mark 20 20}]% chance of recovering 5% SP after defeating Dark property monsters
 ITEM_20170912_015602	[Card Equip Effect] [{img star_mark 20 20}]% chance of recovering 5% SP after defeating Poison property monsters
 ITEM_20170912_015603	[Card Equip Effect] +[{img star_mark 20 20}]% damage against sleeping enemies
@@ -15605,8 +15605,8 @@ ITEM_20170912_015604	[Card Equip Effect] Increases [{img star_mark 20 20}]% dama
 ITEM_20170912_015605	[Card Equip Effect] DEX +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
 ITEM_20170912_015606	[Card Equip Effect] SPR +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
 ITEM_20170912_015607	[Card Equip Effect] Increases [{img star_mark 20 20}]% damage against Lightning property monsters
-ITEM_20170912_015608	[Card Equip Effect] Holy property damage +[{img star_mark 20 20}*10]
-ITEM_20170912_015609	[Card Equip Effect] Holy property resistance +[{img star_mark 20 20}*10]
+ITEM_20170912_015608	[Card Equip Effect] Add. Holy Property Damage +[{img star_mark 20 20}*10]
+ITEM_20170912_015609	[Card Equip Effect] Holy Property Resistance +[{img star_mark 20 20}*10]
 ITEM_20170912_015610	[Card Equip Effect] Increases [{img star_mark 20 20}]% damage against Dark property monsters
 ITEM_20170912_015611	[Card Equip Effect] Increases [{img star_mark 20 20}]% damage against Plant-type monsters
 ITEM_20170912_015612	[Card Equip Effect] Increases [{img star_mark 20 20}/2]% damage against Cloth-wearing enemies
@@ -15615,7 +15615,7 @@ ITEM_20170912_015614	[Card Equip Effect] Magic Attack +[{img star_mark 20 20}]% 
 ITEM_20170912_015615	[Card Equip Effect] Increases [{img star_mark 20 20}]% damage against Insect-type monsters
 ITEM_20170912_015616	[Card Equip Effect] [{img star_mark 20 20}]% chance of recovering 5% SP after defeating Ice property monsters
 ITEM_20170912_015617	[Card Equip Effect] Increases [{img star_mark 20 20}/2]% damage against Large-sized monsters
-ITEM_20170912_015618	[Card Equip Effect] Poison property resistance +[{img star_mark 20 20}*10]
+ITEM_20170912_015618	[Card Equip Effect] Poison Property Resistance +[{img star_mark 20 20}*10]
 ITEM_20170912_015619	[Card Equip Effect] Increases [{img star_mark 20 20}]% damage against Poison property monsters
 ITEM_20170912_015620	[Card Equip Effect] Block Penetration +[{img star_mark 20 20}*1.5]
 ITEM_20170912_015621	[Card Equip Effect] Carry Weight +[{img star_mark 20 20}]%
@@ -15623,7 +15623,7 @@ ITEM_20170912_015622	[Card Equip Effect] Increases [{img star_mark 20 20}/2]% da
 ITEM_20170912_015623	[Card Equip Effect] HP Recovery +[{img star_mark 20 20}*30]
 ITEM_20170912_015624	[Card Equip Effect] Physical Defense +[{img star_mark 20 20}*5], Magic Defense +[{img star_mark 20 20}*5]
 ITEM_20170912_015625	[Card Equip Effect] [{img star_mark 20 20}]% chance of recovering 5% SP after defeating Lightning property monsters
-ITEM_20170912_015626	[Card Equip Effect] Poison property damage +[{img star_mark 20 20}*10]
+ITEM_20170912_015626	[Card Equip Effect] Add. Poison Property Damage +[{img star_mark 20 20}*10]
 ITEM_20170912_015627	[Card Equip Effect] Magic Attack +[{img star_mark 20 20}*5]
 ITEM_20170912_015628	[Card Equip Effect] Maximum SP +[{img star_mark 20 20}*30]
 ITEM_20170912_015629	[Card Equip Effect] +[{img star_mark 20 20}]% damage against frozen enemies
@@ -15631,7 +15631,7 @@ ITEM_20170912_015630	[Card Equip Effect] [{img star_mark 20 20}/3]% chance of at
 ITEM_20170912_015631	[Card Equip Effect] Increases [{img star_mark 20 20}]% damage against Stationary-type monsters
 ITEM_20170912_015632	[Card Equip Effect] Attack speed +[{img star_mark 20 20}] when equipping one-handed weapons
 ITEM_20170912_015633	[Card Equip Effect] Attack +[{img star_mark 20 20}*7] when equipping Missile weapons
-ITEM_20170912_015634	[Card Equip Effect] Dark property resistance +[{img star_mark 20 20}*10]
+ITEM_20170912_015634	[Card Equip Effect] Dark Property Resistance +[{img star_mark 20 20}*10]
 ITEM_20170912_015635	[Card Equip Effect] [{img star_mark 20 20}]% chance of recovering 1% SP when hit by Medium-type monsters
 ITEM_20170912_015636	[Card Equip Effect] Sleep state resistance +[{img star_mark 20 20}*2]%
 ITEM_20170912_015637	[Card Equip Effect] Maximum HP +[{img star_mark 20 20}*90], Maximum SP +[{img star_mark 20 20}*15]
@@ -15640,17 +15640,17 @@ ITEM_20170912_015639	[Card Equip Effect] Physical Defense +[{img star_mark 20 20
 ITEM_20170912_015640	[Card Equip Effect] Accuracy +[{img star_mark 20 20}*1.5]
 ITEM_20170912_015641	[Card Equip Effect] [{img star_mark 20 20}]% chance of resurrecting with 10% HP after becoming incapable of combat
 ITEM_20170912_015642	[Card Equip Effect] Blind state resistance +[{img star_mark 20 20}*2]%
-ITEM_20170912_015643	[Card Equip Effect] [Slash] defense +[{img star_mark 20 20}*10]
+ITEM_20170912_015643	[Card Equip Effect] [Slash] Defense +[{img star_mark 20 20}*10]
 ITEM_20170912_015644	[Card Equip Effect] Bleeding state resistance +[{img star_mark 20 20}*2]%
 ITEM_20170912_015645	[Card Equip Effect] Critical Resistance +[{img star_mark 20 20}*2]
 ITEM_20170912_015646	[Card Equip Effect] Attack +[{img star_mark 20 20}*7] when equipping Slash weapons
-ITEM_20170912_015647	[Card Equip Effect] Physical attack +[{img star_mark 20 20}*5]
+ITEM_20170912_015647	[Card Equip Effect] Physical Attack +[{img star_mark 20 20}*5]
 ITEM_20170912_015648	[Card Equip Effect] INT +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
 ITEM_20170912_015649	[Card Equip Effect] [{img star_mark 20 20}]% chance of recovering 0.5% HP when hit by Small-type monsters
 ITEM_20170912_015650	[Card Equip Effect] [{img star_mark 20 20}/3]% chance per attack of increasing movement speed +4 for 6 seconds
 ITEM_20170912_015651	[Card Equip Effect] INT +[{img star_mark 20 20}]
 ITEM_20170912_015652	[Card Equip Effect] Increases [{img star_mark 20 20}]% damage against knocked-down enemies
-ITEM_20170912_015653	[Card Equip Effect] Lightning property damage +[{img star_mark 20 20}*10]
+ITEM_20170912_015653	[Card Equip Effect] Add. Lightning Property Damage +[{img star_mark 20 20}*10]
 ITEM_20170912_015654	[Card Equip Effect] Stun state resistance +[{img star_mark 20 20}]%, Sleep state resistance +[{img star_mark 20 20}]%
 ITEM_20170912_015655	[Card Equip Effect] AoE Attack Ratio +[{img star_mark 20 20}/5]
 ITEM_20170912_015656	[Card Equip Effect] Maximum HP +[{img star_mark 20 20}*180]
@@ -15658,12 +15658,12 @@ ITEM_20170912_015657	[Card Equip Effect] [{img star_mark 20 20}/3]% chance of at
 ITEM_20170912_015658	[Card Equip Effect] [{img star_mark 20 20}]% chance of recovering 2% HP when hit by Medium-type monsters
 ITEM_20170912_015659	[Card Equip Effect] Stun state resistance +[{img star_mark 20 20}*2]%
 ITEM_20170912_015660	[Card Equip Effect] Maximum secondary physical attack +[{img star_mark 20 20}*3]
-ITEM_20170912_015661	[Card Equip Effect] Ice property damage +[{img star_mark 20 20}*10]
+ITEM_20170912_015661	[Card Equip Effect] Add. Ice Property Damage +[{img star_mark 20 20}*10]
 ITEM_20170912_015662	[Card Equip Effect] STR +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
-ITEM_20170912_015663	[Card Equip Effect] Fire property damage +[{img star_mark 20 20}*10]
+ITEM_20170912_015663	[Card Equip Effect] Add. Fire Property Damage +[{img star_mark 20 20}*10]
 ITEM_20170912_015664	[Card Equip Effect] INT +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
 ITEM_20170912_015665	[Card Equip Effect] [{img star_mark 20 20}]% chance of recovering 3% HP when hit by Large-sized monsters
-ITEM_20170912_015666	[Card Equip Effect] Fire property resistance +[{img star_mark 20 20}*10]
+ITEM_20170912_015666	[Card Equip Effect] Fire Property Resistance +[{img star_mark 20 20}*10]
 ITEM_20170912_015667	Marnox Card
 ITEM_20170912_015668	[Card Equip Effect] Critical Rate +[{img star_mark 20 20}*1.5]
 ITEM_20170912_015669	[Grimoire Equip Effect] Summons Marnox when using Summoning
@@ -16042,7 +16042,7 @@ ITEM_20171128_016041	Primus Pevordimas Crossbow
 ITEM_20171128_016042	Primus Raffye Crossbow
 ITEM_20171128_016043	Masinios Crossbow
 ITEM_20171128_016044	 - All Quarrel Shooter skill levels {img green_up_arrow 16 16}2{nl}  - Running Shot skill level {img green_up_arrow 16 16}1
-ITEM_20171128_016045	Rumor has it that many of the later wizards laughed at the fact that Masinios was not able to create an amazing production method for the crossbow where he could demonstrate the advantage of machinery. Another rumor is that Lucid Winterspoon admonished such mages that they were only entitled to say such a thing if they worked on magic theory even as half as hard as Masinios and held two master seats.
+ITEM_20171128_016045	Rumor has it that many of the later wizards laughed at the fact that Masinios was not able to create an amazing production method for the crossbow where he could demonstrate the advantage of machinery. Another rumor is that Lucid Winterspoon admonished such mages that they were only entitled to say such a thing if they worked on magic theory even half as hard as Masinios and held two master seats.
 ITEM_20171128_016046	(Faded) Replica Migantis Mace
 ITEM_20171128_016047	(Faded) Replica Pevordimas Mace
 ITEM_20171128_016048	(Faded) Migantis Mace
@@ -16070,7 +16070,7 @@ ITEM_20171128_016069	Primus Pevordimas Mace
 ITEM_20171128_016070	Primus Raffye Mace
 ITEM_20171128_016071	Masinios Mace
 ITEM_20171128_016072	 - 30% chance to deal a 2000 Lightning property attack
-ITEM_20171128_016073	It is a weapon that uses a physical pipe to magnify magical power instead of jewels which were used by the majority of the great mages of that era. This was a very Masinios-like decision and the product of his early mid days.
+ITEM_20171128_016073	A weapon that uses a physical pipe to magnify magical power instead of jewels which were used by the majority of the great mages of that era. This was a very Masinios-like decision and the product of his early mid days.
 ITEM_20171128_016074	(Faded) Migantis Two-handed Mace
 ITEM_20171128_016075	(Faded) Pevordimas Two-handed Mace
 ITEM_20171128_016076	Raffye Two-handed Mace
@@ -16092,7 +16092,7 @@ ITEM_20171128_016091	Primus Migantis Two-handed Mace
 ITEM_20171128_016092	Primus Pevordimas Two-handed Mace
 ITEM_20171128_016093	Primus Raffye Two-handed Mace
 ITEM_20171128_016094	Masinios Two-handed Mace
-ITEM_20171128_016095	This is the result of improving the mace made by Masinios himself. Due to the fact that the mace and two-handed mace are distinctly different in performance from each other, it can be seen that it was not his intention. Rather, it can be said that he felt it was okay the that this performance came as a result of him trying.
+ITEM_20171128_016095	This is the result of improving the mace made by Masinios himself. Due to the fact that the mace and two-handed mace are distinctly different in performance from each other, it can be seen that it was not his intention. Rather, it can be said that he felt it was okay that this performance came as a result of him trying.
 ITEM_20171128_016096	(Faded) Replica Migantis Shield
 ITEM_20171128_016097	(Faded) Replica Pevordimas Shield
 ITEM_20171128_016098	Practice Shield
@@ -16912,9 +16912,9 @@ ITEM_20171128_016911	Creto Feather
 ITEM_20171128_016912	Portal Stone
 ITEM_20171128_016913	Item used in Portal Shops.
 ITEM_20171128_016914	Nucle Powder
-ITEM_20171128_016915	A refined unidentified crystal core that mutates both organic and inorganic materials for equipment to use. {nl} {nl} It could be used as crafting material
+ITEM_20171128_016915	A refined unidentified crystal core that mutates both organic and inorganic materials for equipment to use.{nl} {nl}Usage: Reset item options, craft items 
 ITEM_20171128_016916	Sierra Powder
-ITEM_20171128_016917	After the rampage of the vegetations, it starts appearing they absorb sort of energy from nature. To use the energy, it has been fined into powder. {nl} It could be used as crafting material
+ITEM_20171128_016917	After the rampage of the vegetations, it starts appearing they absorb sort of energy from nature. To use the energy, it has been refined into powder.{nl} {nl}Usage: Reset item options, craft items
 ITEM_20171128_016918	Popolion Waterball Orgel
 ITEM_20171128_016919	Use to play music.
 ITEM_20171128_016920	Old Story of Laima, right-click to read.
@@ -17476,7 +17476,7 @@ ITEM_20180208_017475	[Card Equip Effect] Critical Resistance +[{img star_mark 20
 ITEM_20180208_017476	[Card Equip Effect] Attack +[{img star_mark 20 20}*7] when equipping Slash weapons
 ITEM_20180208_017477	[Card Equip Effect] INT +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2] 
 ITEM_20180208_017478	[Card Equip Effect] [{img star_mark 20 20}]% chance of recovering 0.5% HP when attacked by Small-sized monsters{nl}Cooldown 15 sec
-ITEM_20180208_017479	[Card Equip Effect] [{img star_mark 20 20}/3]% chance per attack of increasing movement speed +4 for 6 seconds
+ITEM_20180208_017479	[Card Equip Effect] [{img star_mark 20 20}/3]% chance per attack dealt of increasing Movement Speed +4 for 6 seconds
 ITEM_20180208_017480	[Card Equip Effect] INT +[{img star_mark 20 20}] 
 ITEM_20180208_017481	[Card Equip Effect] Increases damage against knocked-down enemies by [{img star_mark 20 20}]%
 ITEM_20180208_017482	[Card Equip Effect] Stun state resistance +[{img star_mark 20 20}], Sleep state resistance +[{img star_mark 20 20}] 
@@ -17557,11 +17557,11 @@ ITEM_20180312_017556	A token representing Wings of Vaivora's Rosia from Orsha.{n
 ITEM_20180312_017557	Vaivora Token
 ITEM_20180312_017558	A token representing the Wings of Vaivora.{nl}Will be automatically deleted after the event.
 ITEM_20180316_017559	[GM] Special Transformation Scroll
-ITEM_20180320_017560	#N/A
-ITEM_20180320_017561	#N/A
-ITEM_20180320_017562	This style was Masinios' own choice, and corresponds to his early mid-1970s productions.
-ITEM_20180320_017563	 - Increase Backstab damage by 150%{nl}- [Backstab] skill level {img green_up_arrow 16 16} +1
-ITEM_20180320_017564	 - Full Metal Jacket skill level {img green_up_arrow 16 16} 1{nl}  - Limacon skill level {img green_up_arrow 16 16} 1{nl}  - Quick and Dead skill level {img green_up_arrow 16 16} 1
+ITEM_20180320_017560	You need the head to fully transform into a lucky golden puppy! Right-click to use and change your appearance.
+ITEM_20180320_017561	Why stick to looking golden when you can BE gold? 24K, baby. Right-click to use and change your appearance.
+ITEM_20180320_017562	A weapon that uses a physical pipe to magnify magical power instead of jewels which were used by the majority of the great mages of that era. This was a very Masinios-like decision and the product of his early mid days.
+ITEM_20180320_017563	 - Increase Backstab damage by 150%{nl}  - Impale Dagger skill level {img green_up_arrow 16 16}1
+ITEM_20180320_017564	 - Full Metal Jacket skill level {img green_up_arrow 16 16}1{nl}  - Limacon skill level {img green_up_arrow 16 16}1{nl}  - Quick and Dead skill level {img green_up_arrow 16 16}1
 ITEM_20180320_017565	Achiva Bracelet
 ITEM_20180320_017566	A common leather bracelet adorned with a flower trinket.
 ITEM_20180320_017567	Mirti Bracelet
@@ -17583,9 +17583,9 @@ ITEM_20180320_017582	You can wear the crown lopsided and pretend to be a tired k
 ITEM_20180320_017583	Lightning Cloud
 ITEM_20180320_017584	Golden brown, fresh out of the toaster. Too bad you can't eat it.{nl}But you can exchange it for medals at the Exchange Shop.
 ITEM_20180320_017585	An imaginative crown made from a gigantic red pudding. 
-ITEM_20180320_017586	#N/A
+ITEM_20180320_017586	A pair of wings created by to the image of Giltine's. Unfortunately, they don't let you fly.
 ITEM_20180320_017587	A pair of wings made out of ice. Unfortunately they don't let you fly.{nl} Can be exchanged for medals.
-ITEM_20180320_017588	#N/A
+ITEM_20180320_017588	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup
 ITEM_20180320_017589	Shining Lv2 Gem Abrasive
 ITEM_20180320_017590	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 300
 ITEM_20180320_017591	Shining Lv3 Gem Abrasive
@@ -17665,7 +17665,7 @@ ITEM_20180320_017664	This arrow was found in a demon that fought Leonardas in a 
 ITEM_20180320_017665	Leaves that grow from Lily Velly and Jelly Velly monsters. They look moist, as if they were just watered. Collection item.
 ITEM_20180320_017666	It looks like it was just cut off, but at the same time it's wet with water from the lake and it emits a mysterious energy. Collection item.
 ITEM_20180320_017667	A water bottle, like those distributed by supply soldiers. It looks rusty in some places, so it probably doesn't belong to Leonardas. Collection item.
-ITEM_20180320_017668	#N/A
+ITEM_20180320_017668	Use to receive one of the following random items. {nl} - Golden Pup Lucky Pouch{nl} - 24K Gold Bar Pup Helmet {nl} - Golden Pup Armband
 ITEM_20180320_017669	(Old) Mirtis Cube
 ITEM_20180320_017670	(Old) Helgasercle Cube
 ITEM_20180320_017671	(Old) Rexipher Cube
@@ -17702,45 +17702,45 @@ ITEM_20180320_017701	Condensed Earth Tower 25F Cube
 ITEM_20180320_017702	Condensed Earth Tower 30F Cube
 ITEM_20180320_017703	Condensed Earth Tower 35F Cube
 ITEM_20180320_017704	Condensed Earth Tower 40F Cube
-ITEM_20180320_017705	(Old) First Shelter Raid Dungeon Cube
+ITEM_20180320_017705	(Old) The First Refuge Raid Dungeon Cube
 ITEM_20180320_017706	Lv 300 Challenge Cube
-ITEM_20180320_017707	Lv 250 Challenge Cube
+ITEM_20180320_017707	Lv 200 Challenge Cube
 ITEM_20180320_017708	Shining Golden Socket
 ITEM_20180320_017709	Helgasercle Card
 ITEM_20180320_017710	[Grimoire Equip Effect] Summons Helgasercle when using Summoning
 ITEM_20180320_017711	Demon Lord Marnox Card
-ITEM_20180320_017712	[Card Equip Effect] Minimum critical chance +[{img star_mark 20 20}*2]%
+ITEM_20180320_017712	[Card Equip Effect] Minimum Critical Chance +[{img star_mark 20 20}*2]%
 ITEM_20180320_017713	[Grimoire Equip Effect] Summons Demon Lord Marnox when using Summoning
 ITEM_20180320_017714	Demon Lord Blut Card
 ITEM_20180320_017715	[Card Equip Effect] [{img star_mark 20 20}*3]% reduced damage taken in PVP
 ITEM_20180320_017716	[Grimoire Equip Effect] Summons Demon Lord Blut when using Summoning
 ITEM_20180320_017717	Demon Lord Zaura Card
-ITEM_20180320_017718	[Card Equip Effect] Physical defense +[{img star_mark 20 20}*10]%
+ITEM_20180320_017718	[Card Equip Effect] Physical Defense +[{img star_mark 20 20}*10]%
 ITEM_20180320_017719	[Grimoire Equip Effect] Summons Demon Lord Zaura when using Summoning
 ITEM_20180320_017720	Demon Lord Nuaele Card
-ITEM_20180320_017721	[Card Equip Effect] Magic defense +[{img star_mark 20 20}*10]%
+ITEM_20180320_017721	[Card Equip Effect] Magic Defense +[{img star_mark 20 20}*10]%
 ITEM_20180320_017722	[Grimoire Equip Effect] Summons Demon Lord Nuaele when using Summoning
 ITEM_20180320_017723	Demon Lord Helgasercle Card
-ITEM_20180320_017724	[Card Equip Effect] Recovers [{img star_mark 20 20}*20] SP per monsters defeated
+ITEM_20180320_017724	[Card Equip Effect] Recover [{img star_mark 20 20}*20] SP per monster defeated
 ITEM_20180320_017725	[Grimoire Equip Effect] Summons Demon Lord Helgasercle when using Summoning
 ITEM_20180320_017726	Demon Lord Rexipher Card
-ITEM_20180320_017727	[Card Equip Effect] Increase movement speed +[{img star_mark 20 20}]
+ITEM_20180320_017727	[Card Equip Effect] Movement Speed +[{img star_mark 20 20}]
 ITEM_20180320_017728	[Grimoire Equip Effect] Summons Demon Lord Rexipher when using Summoning
 ITEM_20180320_017729	Demon Lord Mirtis Card
-ITEM_20180320_017730	[Card Equip Effect] Reduces property penalties by [{img star_mark 20 20} * 10]% 
+ITEM_20180320_017730	[Card Equip Effect] Reduce property penalties by [{img star_mark 20 20}*10]% 
 ITEM_20180320_017731	[Grimoire Equip Effect] Summons Demon Lord Mirtis when using Summoning
-ITEM_20180320_017732	Prodigious Kucarry Balzermancer Card
+ITEM_20180320_017732	Prodigious Kugheri Balzermancer Card
 ITEM_20180320_017733	[Card Equip Effect] EXP Gain +[{img star_mark 20 20}]%
 ITEM_20180320_017734	Heretic Pantorex Card
-ITEM_20180320_017735	[Card Equip Effect] Increases [{img star_mark 20 20}* 7]% damage against Beast-type monsters
+ITEM_20180320_017735	[Card Equip Effect] Increases damage against Beast-type monsters by [{img star_mark 20 20}*7]%
 ITEM_20180320_017736	Ripped Legend Enhancement Card
-ITEM_20180320_017737	Use to enhance Legend cards up to Lv 4.{nl}Cannot be equipped or used to enhance non-Legend cards.
+ITEM_20180320_017737	Use to enhance Legend cards up to Lv4.{nl}Cannot be equipped or used to enhance non-Legend cards.
 ITEM_20180320_017738	Old Legend Enhancement Card
-ITEM_20180320_017739	Use to enhance Legend cards up to Lv 6.{nl}Cannot be equipped or used to enhance non-Legend cards.
+ITEM_20180320_017739	Use to enhance Legend cards up to Lv6.{nl}Cannot be equipped or used to enhance non-Legend cards.
 ITEM_20180320_017740	Legend Enhancement Card
-ITEM_20180320_017741	Use to enhance Legend cards up to Lv 8.{nl}Cannot be equipped or used to enhance non-Legend cards.
+ITEM_20180320_017741	Use to enhance Legend cards up to Lv8.{nl}Cannot be equipped or used to enhance non-Legend cards.
 ITEM_20180320_017742	Shining Legend Enhancement Card
-ITEM_20180320_017743	Use to enhance Legend cards up to Lv 10.{nl}Cannot be equipped or used to enhance non-Legend cards.
+ITEM_20180320_017743	Use to enhance Legend cards up to Lv10.{nl}Cannot be equipped or used to enhance non-Legend cards.
 ITEM_20180320_017744	Gem Abrasive: 3000
 ITEM_20180320_017745	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 3000
 ITEM_20180320_017746	Time Crystal
@@ -17793,9 +17793,9 @@ ITEM_20180320_017792	Ulstermite
 ITEM_20180320_017793	Mineral of high fire properties created through the combination of Terranium and Mithril. Used as a material for other items.
 ITEM_20180320_017794	Right-click to use. Upon use, the companion is immediately registered.{nl}- Can be mounted without a riding skill, and your character will not dismount when attacked. If you attack, however, you dismount automatically.{nl}- Use the mounting shortcut keys to ride the Sled from wherever you are.{nl}- Buff: +6 movement speed.{nl}- Cannot be used with mounted skills.{nl}- Can be exchanged for medals.
 ITEM_20180320_017795	Use to open the popup book. Use again to put it away. Interact with the open book to play the background music. The book closes automatically after 10 minutes.{nl}Can be exchanged for medals at the Exchange Shop.
-ITEM_20180320_017796	#N/A
+ITEM_20180320_017796	Hayraven's Unofficial Chronicles Part 1
 ITEM_20180320_017797	Story of Hayraven. Right-click to read. 
-ITEM_20180320_017798	#N/A
+ITEM_20180320_017798	Hayraven's Unofficial Chronicles Part 2
 ITEM_20180320_017799	Golden Note - War Journal Vol.1
 ITEM_20180320_017800	Story of the Golden Note mercenaries. Right-click to read. 
 ITEM_20180320_017801	Golden Note - War Journal Vol.2
@@ -17805,7 +17805,7 @@ ITEM_20180320_017804	Master of the Arena Vol. 2
 ITEM_20180320_017805	Literature of the Kingdom: The Polanyi Territories Vol. 1
 ITEM_20180320_017806	Story of the Pledge of the Blade mercenaries. Right-click to read. 
 ITEM_20180320_017807	Literature of the Kingdom: The Polanyi Territories Vol. 2
-ITEM_20180320_017808	#N/A
+ITEM_20180320_017808	The Origin of Nicopolis
 ITEM_20180320_017809	Story of the origin of Nicopolis. Right-click to read. 
 ITEM_20180320_017810	#N/A
 ITEM_20180320_017811	Story of the royal mausoleum of Zachariel the Great. Right-click to read. 
@@ -17856,3 +17856,1120 @@ ITEM_20180320_017855	Adventurer's Token
 ITEM_20180320_017856	A token made by Anastazija as proof of all the locations she explored. 
 ITEM_20180320_017857	I, Anastazija, have explored this entire region
 ITEM_20180320_017858	Is engraved on the back of the token.
+ITEM_20180402_017859	Preppy Freshman School Uniform (Male)
+ITEM_20180402_017860	Your classic private academy uniform. Use to change your appearance.
+ITEM_20180402_017861	Preppy Freshman School Uniform (Female)
+ITEM_20180402_017862	Mint Freshman School Uniform (Male)
+ITEM_20180402_017863	Look minty fresh and ready for school. Use to change your appearance.
+ITEM_20180402_017864	Pink Freshman School Uniform (Female)
+ITEM_20180402_017865	The best uniform for the Spring semester. Use to change your appearance.
+ITEM_20180402_017866	Student Council School Uniform (Male)
+ITEM_20180402_017867	For the student who is wise and responsible. Use to change your appearance.
+ITEM_20180402_017868	Mint Freshman School Uniform (Female)
+ITEM_20180402_017869	Pink Freshman School Uniform (Male)
+ITEM_20180402_017870	Student Council School Uniform (Female)
+ITEM_20180402_017871	Trouble Gang School Uniform (Male)
+ITEM_20180402_017872	You may be suspended for wearing this to school. Use to change your appearance.
+ITEM_20180402_017873	Trouble Gang School Uniform (Female)
+ITEM_20180402_017874	Velcoffer Horns
+ITEM_20180402_017875	An ornament made from the horns of Velcoffer's guards, said to inspire terror in all the little demons.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180402_017876	Velcoffer Wings Ornament
+ITEM_20180402_017877	An ornament made to the image of Velcoffer's wings. The resemblance is uncanny.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180402_017878	Genealogical Standards Manual
+ITEM_20180402_017879	Wear this book on your head to absorb the information it contains.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180402_017880	Nerd Glasses
+ITEM_20180402_017881	You're not a committed nerd until you're wearing these glasses.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180402_017882	Fancy Backpack
+ITEM_20180402_017883	The latest in designer backpacks.{nl}Can be exchanged for medals.
+ITEM_20180402_017884	Good Student Stamp
+ITEM_20180402_017885	Jump to display the effect.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180402_017886	Freshman School Uniform Box (Male)
+ITEM_20180402_017887	Freshman School Uniform Box (Female)
+ITEM_20180413_017888	An armband given to beta testers of the new Guild Territory Wars.
+ITEM_20180413_017889	Shining 9 Star Gem Abrasive
+ITEM_20180413_017890	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 5414700
+ITEM_20180413_017891	Challenge Portal Scroll
+ITEM_20180413_017892	Title - No. 1 Territory Wars Tester
+ITEM_20180413_017893	A title given to players who provided the best feedback on the Guild Territory Wars.
+ITEM_20180418_017894	TOS Specialty Armband
+ITEM_20180418_017895	A special armband for a special savior. 
+ITEM_20180418_017896	Two-handed Sword [Strike]
+ITEM_20180418_017897	Rod [Strike]
+ITEM_20180418_017898	One-handed Blunt [Strike]
+ITEM_20180418_017899	Two-handed Blunt [Strike]
+ITEM_20180418_017900	Staff [Strike]
+ITEM_20180418_017901	The magic extracted from ferns can be made to possess either light seeking or shunning characteristics. However, due to cost and practicality reasons, it is made to resist darkness even if it is theoretically possible to make it resist light.
+ITEM_20180418_017902	Some wizards tried but have failed to find if the new appearance of magical items in the Allerno region is due to the demons. Items that resist darkness such as this are proof that the theory is unlikely.
+ITEM_20180418_017903	Something of equal equivalence must be paid when depending on the dark energy.
+ITEM_20180418_017904	Sugar Necklace (Physical) (7 Days)
+ITEM_20180418_017905	Special items for a sugary filled day. Equip with the Sugar Bracelet to complete the set and receive the effects. This item will be deleted when the event is over.
+ITEM_20180418_017906	Sugar Necklace (Magic) (7 Days)
+ITEM_20180418_017907	A slightly broken necklace, which seems to be very effective at blocking Dark property damage. It is said to be found occasionally deep inside the labyrinth.
+ITEM_20180418_017908	A necklace which seems to be very effective at blocking Dark property damage. It is said to be found occasionally deep inside the labyrinth.
+ITEM_20180418_017909	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Fireball{nl} - Fire Wall{nl} - Flare{nl} - Fire Pillar{nl} - Hell Breath{nl} - Flame Ground{nl} - Meteor{nl} - Incineration{nl} - Prominence{nl} - Combustion{nl} - Immolation
+ITEM_20180418_017910	Electra Necklace
+ITEM_20180418_017911	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Electrocute{nl} - Zaibas{nl} - Divine Punishment{nl} - Fanatic Illusion
+ITEM_20180418_017912	A necklace made from crystal struck by lightening. It feels as though it could give you a shock. 
+ITEM_20180418_017913	Ledas Necklace
+ITEM_20180418_017914	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Ice Bolt{nl} - Ice Pike{nl} - Ice Blast{nl} - Snow Rolling{nl} - Frost Pillar{nl} - Hail{nl} - Freezing Sphere{nl} - Water Shikigami
+ITEM_20180418_017915	Made by a talented craftsman using icicles that will never melt. Wear it in the summer and you will feel especially cool. 
+ITEM_20180418_017916	Zemej Necklace
+ITEM_20180418_017917	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Earthquake{nl} - Storm Dust{nl} - Greenwood Shikigami{nl} - Toyou
+ITEM_20180418_017918	Emits an unidentifiable warm energy. Equip it and your body will become warm and your cares will fade away.
+ITEM_20180418_017919	A necklace occasionally found in the labyrinth that has been treated to various transmutations and has become very effective at blocking Dark property damage.
+ITEM_20180418_017920	Sugar Bracelet (Physical) (7 Days)
+ITEM_20180418_017921	Special items for a sugary filled day. Equip with the Sugar Necklace to complete the set and receive the effects. This item will be deleted when the event period ends.
+ITEM_20180418_017922	Sugar Bracelet (Magic) (3 Days)
+ITEM_20180418_017923	A slightly broken bracelet, which seems to be very effective at blocking Dark property damage. It is said to be found occasionally deep inside the labyrinth.
+ITEM_20180418_017924	A bracelet which seems to be very effective at blocking Dark property damage. It is said to be found occasionally deep inside the labyrinth.
+ITEM_20180418_017925	A bracelet occasionally found in the labyrinth that has become very effective at blocking Dark property damage due to the various materials added to it.
+ITEM_20180418_017926	Retiarius Tiro Costume
+ITEM_20180418_017927	Tiro is the title given to rookie gladiators and as such, this outfit is given to those just starting their gladiator training. 
+ITEM_20180418_017928	Retiarius Tiro Special Costume
+ITEM_20180418_017929	Retiarius Provocator Costume
+ITEM_20180418_017930	To excite the spectators for the main attraction is a role fit for gladiators who have less experience in the arena. 
+ITEM_20180418_017931	Retiarius Provocator Special Costume
+ITEM_20180418_017932	Retiarius Primus Palus Costume
+ITEM_20180418_017933	Primus Palus, a high ranking gladiator. A title given to gladiators who have survived countless fights in the arena.
+ITEM_20180418_017934	Retiarius Primus Palus Special Costume
+ITEM_20180418_017935	Retiarius Rudiarius Costume
+ITEM_20180418_017936	Rudiarius is a title given to gladiators who have earned their freedom and have fulfilled all requirements to retire from the arena.
+ITEM_20180418_017937	Retiarius Rudiarius Special Costume
+ITEM_20180418_017938	Onmyoji Robe Costume
+ITEM_20180418_017939	A basic outfit given to less experienced Onmyoji.
+ITEM_20180418_017940	Onmyoji Robe Special Costume
+ITEM_20180418_017941	Onmyoji Kingdom Costume
+ITEM_20180418_017942	An outfit that commemorates the kingdom chosen by the Onmyoji.
+ITEM_20180418_017943	Onmyoji Kingdom Special Costume
+ITEM_20180418_017944	Onmyoji Origin Costume 
+ITEM_20180418_017945	An outfit designed to celebrate and remember one's Onmyoji origins. 
+ITEM_20180418_017946	Onmyoji Origin Special Costume 
+ITEM_20180418_017947	Onmyoji Royal Court Costume
+ITEM_20180418_017948	A special outfit that was handed down from the royal family to the Onmyoji thousands of years ago. 
+ITEM_20180418_017949	Onmyoji Royal Court Special Costume
+ITEM_20180418_017950	A hat worn by those participating in a parade or unique event.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017951	Wearing this won't give you any special powers against demons or vice-versa.
+ITEM_20180418_017952	An ornament fashioned to look like a mystical unicorn horn. Sadly, there is nothing that can compare to the real thing.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017953	If you wear this ornament when you feel goosebumps, the ghosts will accept you as one of them{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017954	Rumors say, if you wear this mask, you'll be invited to a party in a faraway land.{nl}Can be exchanged for medals at the Exchange Shop
+ITEM_20180418_017955	A blue ribbon tied in a beautiful knot.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017956	Woohoo! Wear this ornament when you want to throw away your burdens and find a place where you can belong in your natural state of being.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017957	TestHairAccessory5
+ITEM_20180418_017958	Requires a description.
+ITEM_20180418_017959	Rumors say, in a faraway land wearing this will transform you into a passionate dancer. {nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017960	A crown created on behalf of a nameless queen.{nl} Can be exchanged for medals in the Exchange Shop.
+ITEM_20180418_017961	Wear this during an "Yes! Eureka!" moment and you'll be able to maximize the excitement.{nl} Can be exchanged for medals in the Exchange Shop. 
+ITEM_20180418_017962	Wear this when you're angry and you'll be able to convey your absolute fury!{nl}Can be exchanged for medals in the Exchange Shop. 
+ITEM_20180418_017963	What a delicious looking strawberry-flavored dessert pudding! Wait, don't eat it! It's just for looks.{nl}Can be exchanged for medals in the Exchange Shop. 
+ITEM_20180418_017964	A hair accessory in the shape of butterfly wings. the black lace and golden details give it an aura of opulence.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017965	An ornament that embodies the power of a boss bear. It's said that even the strongest of bears will cry and run away after seeing this.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017966	A cool hat that stands out for its red-checkers design.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017967	An ornament made from beautiful starfish and brightly colored seashells. If mermaids exist, you'll attract them with this.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017968	For when you go on a picnic or just simply want to embody the feeling.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017969	This adornment decorated with fresh, delicious hanging fruits will make you want to eat them to abate your hunger.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_017970	[Reveal] Deathweaver Cutter (30 Days)
+ITEM_20180418_017971	[Reveal] Deatheweaver Tooth (30 Days)
+ITEM_20180418_017972	[Reveal] Deathweaver Rod (30 Days)
+ITEM_20180418_017973	[Reveal] Melinas Staff (30 Days)
+ITEM_20180418_017974	[Reveal] Deathweaver Bow (30 Days)
+ITEM_20180418_017975	[Reveal] Deathweaver Cross Bow (30 Days)
+ITEM_20180418_017976	[Reveal] Vubbe Morning Star (30 Days)
+ITEM_20180418_017977	[Reveal] Vubbe Armor (30 Days)
+ITEM_20180418_017978	[Reveal] Vubbe Boots (30 Days)
+ITEM_20180418_017979	[Reveal] Cheminis Sword (30 Days)
+ITEM_20180418_017980	[Reveal] Chapparition Two-Hand Sword (30 Days)
+ITEM_20180418_017981	[Reveal] Chapparition Rod (30 Days)
+ITEM_20180418_017982	[Reveal] Patrice Staff (30 Days)
+ITEM_20180418_017983	[Reveal] Chapparition Bow (30 Days)
+ITEM_20180418_017984	[Reveal] Chapparition Shooter (30 Days)
+ITEM_20180418_017985	[Reveal] Chapparition Mace (30 Days)
+ITEM_20180418_017986	[Reveal] Silver Spear (30 Days)
+ITEM_20180418_017987	[Reveal] Cheminis Pike (30 Days)
+ITEM_20180418_017988	[Reveal] Mark Tunic (30 Days)
+ITEM_20180418_017989	[Reveal] Mark Pants (30 Days)
+ITEM_20180418_017990	[Reveal] Durandal (30 Days)
+ITEM_20180418_017991	[Reveal] Flamini (30 Days)
+ITEM_20180418_017992	[Reveal] Secretum (30 Days)
+ITEM_20180418_017993	[Reveal] Candle Staff (30 Days)
+ITEM_20180418_017994	[Reveal] Heart Seeker (30 Days)
+ITEM_20180418_017995	[Reveal] Shooting Star (30 Days)
+ITEM_20180418_017996	[Reveal] Escanciu Mace (30 Days)
+ITEM_20180418_017997	[Reveal] Doom Spear (30 Days)
+ITEM_20180418_017998	[Reveal] Laideca (30 Days)
+ITEM_20180418_017999	[Reveal] Brigandine Armor (30 Days)
+ITEM_20180418_018000	[Reveal] Brigandine Pants (30 Days)
+ITEM_20180418_018001	[Reveal] Belnium (30 Days)
+ITEM_20180418_018002	[Reveal] Tily Two-Hand Sword (30 Days)
+ITEM_20180418_018003	[Reveal] Temere (30 Days)
+ITEM_20180418_018004	[Reveal] Sunflower (30 Days)
+ITEM_20180418_018005	[Reveal] Wilding Bane (30 Days)
+ITEM_20180418_018006	[Reveal] Seimos Crossbow (30 Days)
+ITEM_20180418_018007	[Reveal] Seimos Mace (30 Days)
+ITEM_20180418_018008	[Reveal] Seimos Spear (30 Days)
+ITEM_20180418_018009	[Reveal] Seimos Pike (30 Days)
+ITEM_20180418_018010	[Reveal] Hunting Armor (30 Days)
+ITEM_20180418_018011	[Reveal] Hunting Pants (30 Days)
+ITEM_20180418_018012	[Reveal] Flame (30 Days)
+ITEM_20180418_018013	[Reveal] Hell and Heaven (30 Days)
+ITEM_20180418_018014	[Reveal] Casti Rod (30 Days)
+ITEM_20180418_018015	[Reveal] Maledoom (30 Days)
+ITEM_20180418_018016	[Reveal] Casti Bow (30 Days)
+ITEM_20180418_018017	[Reveal] Caracha Cross Bow (30 Days)
+ITEM_20180418_018018	[Reveal] Drake Tail (30 Days)
+ITEM_20180418_018019	[Reveal] Casti Spear (30 Days)
+ITEM_20180418_018020	[Reveal] Magas Pike (30 Days)
+ITEM_20180418_018021	[Reveal] Dualist (30 Days)
+ITEM_20180418_018022	[Reveal] Veteran Tunic (30 Days)
+ITEM_20180418_018023	[Reveal] Veteran Pants (30 Days)
+ITEM_20180418_018024	[Reveal] Pensara Sword (30 Days)
+ITEM_20180418_018025	[Reveal] Pensara Two-Hand Sword (30 Days)
+ITEM_20180418_018026	[Reveal] Pensara Rod (30 Days)
+ITEM_20180418_018027	[Reveal] Power Staff (30 Days)
+ITEM_20180418_018028	[Reveal] Markmen (30 Days)
+ITEM_20180418_018029	[Reveal] Didel Grand Cross (30 Days)
+ITEM_20180418_018030	[Reveal] Pensara Mace (30 Days)
+ITEM_20180418_018031	[Reveal] Pensara Spear (30 Days)
+ITEM_20180418_018032	[Reveal] Pensara Pike (30 Days)
+ITEM_20180418_018033	[Reveal] Spada (30 Days)
+ITEM_20180418_018034	[Reveal] Finisher (30 Days)
+ITEM_20180418_018035	[Reveal] Bandit Armor (30 Days)
+ITEM_20180418_018036	[Reveal] Bandit Pants (30 Days)
+ITEM_20180418_018037	[Reveal] Primus Migatis Sword (30 Days)
+ITEM_20180418_018038	[Reveal] Primus Migatis Two-handed Sword (30 Days)
+ITEM_20180418_018039	[Reveal] Primus Migatis Rod (30 Days)
+ITEM_20180418_018040	[Reveal] Primus Migatis Bow (30 Days)
+ITEM_20180418_018041	[Reveal] Primus Migatis Crossbow (30 Days)
+ITEM_20180418_018042	[Reveal] Primus Migatis Mace (30 Days)
+ITEM_20180418_018043	[Reveal] Primus Migatis Two-handed Mace (30 Days)
+ITEM_20180418_018044	[Reveal] Primus Migatis Spear (30 Days)
+ITEM_20180418_018045	[Reveal] Primus Migatis Pike (30 Days)
+ITEM_20180418_018046	[Reveal] Primus Migatis Staff (30 Days)
+ITEM_20180418_018047	[Reveal] Primus Migatis Pistol (30 Days)
+ITEM_20180418_018048	[Reveal] Primus Migatis Rapier (30 Days)
+ITEM_20180418_018049	[Reveal] Primus Migatis Cannon (30 Days)
+ITEM_20180418_018050	[Reveal] Primus Migatis Musket (30 Days)
+ITEM_20180418_018051	[Reveal] Primus Albinosas Leather Armor (30 Days)
+ITEM_20180418_018052	A strong piece of armor made from an extremely rare type of white leather.
+ITEM_20180418_018053	[Reveal] Primus Albinosas Leather Pants (30 Days)
+ITEM_20180418_018054	A strong piece of armor made from an extremely rare type of white leather.
+ITEM_20180418_018055	[Reveal] Primus Pevordimas Sword (30 Days)
+ITEM_20180418_018056	[Reveal] Primus Pevordimas Two-handed Sword (30 Days)
+ITEM_20180418_018057	[Reveal] Primus Pevordimas Rod (30 Days)
+ITEM_20180418_018058	[Reveal] Primus Pevordimas Bow (30 Days)
+ITEM_20180418_018059	[Reveal] Primus Pevordimas Crossbow (30 Days)
+ITEM_20180418_018060	[Reveal] Primus Pevordimas Mace (30 Days)
+ITEM_20180418_018061	[Reveal] Primus Pevordimas Two-handed Mace (30 Days)
+ITEM_20180418_018062	[Reveal] Primus Pevordimas Spear (30 Days)
+ITEM_20180418_018063	[Reveal] Primus Pevordimas Pike (30 Days)
+ITEM_20180418_018064	[Reveal] Primus Pevordimas Staff (30 Days)
+ITEM_20180418_018065	[Reveal] Primus Pevordimas Pistol (30 Days)
+ITEM_20180418_018066	[Reveal] Primus Pevordimas Rapier (30 Days)
+ITEM_20180418_018067	[Reveal] Primus Pevordimas Cannon (30 Days)
+ITEM_20180418_018068	[Reveal] Primus Pevordimas Musket (30 Days)
+ITEM_20180418_018069	[Reveal] Primus Kaulas Leather Armor (30 Days)
+ITEM_20180418_018070	[Reveal] Primus Kaulas Leather Pants (30 Days)
+ITEM_20180418_018071	[Event] Pink Candy
+ITEM_20180418_018072	Two delicious pink candies resting on two dollops of cream. 
+ITEM_20180418_018073	The latest in designer backpacks.{nl}Can be exchanged for medals.
+ITEM_20180418_018074	Missio Galerus
+ITEM_20180418_018075	[Retiarius Special Costume]
+ITEM_20180418_018076	Missio were gladiators who were given the right to leave the arena. Their specially designed shoulder guards were everlasting proof of their freedom.
+ITEM_20180418_018077	Regents Diploma Sash
+ITEM_20180418_018078	Onmyoji Special Costume 
+ITEM_20180418_018079	A special ornament given to Onmyoji to recognize their distinguished contributions after Medzio Diena.
+ITEM_20180418_018080	When attacking an enemy, gives 10% chance of applying a curse of elemental damage. The curse adds one of four - Fire, Ice, Poison, Lightning - random elemental damage to the target and it will take 1500-2500 damage each second for 6 seconds. Right-click to use. Cooldown 180 seconds.
+ITEM_20180418_018081	Retribution Potion: Demon
+ITEM_20180418_018082	Increases damage to Demon type bosses by 100% for 10 seconds.{nl}Cooldown 30 seconds.{nl}Up to 30 can be carried at a time.
+ITEM_20180418_018083	Retribution Potion: Mutant
+ITEM_20180418_018084	Increases damage to Mutant type bosses by 100% for 10 seconds.{nl}Cooldown 30 seconds.{nl}Up to 30 can be carried at a time.
+ITEM_20180418_018085	Retribution Potion: Insect
+ITEM_20180418_018086	Increases damage to Insect type bosses by 100% for 10 seconds.{nl}Cooldown 30 seconds.{nl}Up to 30 can be carried at a time.
+ITEM_20180418_018087	Retribution Potion: Plant
+ITEM_20180418_018088	Increases damage to Plant type bosses by 100% for 10 seconds.{nl}Cooldown 30 seconds.{nl}Up to 30 can be carried at a time.
+ITEM_20180418_018089	Retribution Potion: Beast
+ITEM_20180418_018090	Increases damage to Beast type bosses by 100% for 10 seconds.{nl}Cooldown 30 seconds.{nl}Up to 30 can be carried at a time.
+ITEM_20180418_018091	Aegis Potion: Demon
+ITEM_20180418_018092	Reduces damage from Demon type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.
+ITEM_20180418_018093	Aegis Potion: Mutant
+ITEM_20180418_018094	Reduces damage from Mutant type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.
+ITEM_20180418_018095	Aegis Potion: Insect
+ITEM_20180418_018096	Reduces damage from Insect type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.
+ITEM_20180418_018097	Aegis Potion: Plant
+ITEM_20180418_018098	Reduces damage from Plant type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.
+ITEM_20180418_018099	Aegis Potion: Beast
+ITEM_20180418_018100	Reduces damage from Beast type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.
+ITEM_20180418_018101	Collection: Main Building
+ITEM_20180418_018102	Collection: Grand Corridor
+ITEM_20180418_018103	Collection: Penitence Route of Great Cathedral
+ITEM_20180418_018104	Collection: Grand Corridor
+ITEM_20180418_018105	Guild Quest Reward: Special Potion
+ITEM_20180418_018106	An additional prize chest given to guilds who have successfully completed a guild quest mission.{nl}Open them to obtain recipes to create potions with unique effects. 
+ITEM_20180418_018107	[Card Equip Effect] Magic attack +[★*7] when equipping Strike weapons
+ITEM_20180418_018108	[Card Equip Effect] Attack +[★*7] when equipping Strike weapons
+ITEM_20180418_018109	It's a barbed arrow. Adds an additional Strike effect. 
+ITEM_20180418_018110	Rete
+ITEM_20180418_018111	A net used by Retiarii.
+ITEM_20180418_018112	Onmyoji Paper Doll
+ITEM_20180418_018113	Retiarius Fishing Net
+ITEM_20180418_018114	Paper Doll
+ITEM_20180418_018115	A paper doll used by the Onmyoji to call upon Divine Spirits.
+ITEM_20180418_018116	Mineral of high fire properties created through the combination of Terranium and Mithril. Used as a material for other items.
+ITEM_20180418_018117	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without a riding skill.{nl}This companion increases the character's Holy property attack.{nl}- Can be exchanged for medals at the Exchange Shop.
+ITEM_20180418_018118	[Reveal] Goddess Sculpture
+ITEM_20180418_018119	Install a Goddess' Statue which provides Goddess's Blessing for five minutes.
+ITEM_20180418_018120	[Reveal] 5-Star Gem Abrasive
+ITEM_20180418_018121	Used to enhance gems. Amplifies the EXP of gems.{nl}Gem EXP Gain: 14700{nl}Will be deleted when the event period ends.
+ITEM_20180418_018122	[Reveal] Instance One Entry Voucher
+ITEM_20180418_018123	Use it to enter an instanced dungeon one more time.
+ITEM_20180418_018124	[Reveal] Instance Dungeon Reset Voucher
+ITEM_20180418_018125	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.
+ITEM_20180418_018126	[Reveal] Booster Pack (Lv.15) 
+ITEM_20180418_018127	Right-click to use. You character must be level 15 or above to use.
+ITEM_20180418_018128	[Reveal] Booster Pack (Lv.40) 
+ITEM_20180418_018129	Right-click to use. You character must be level 40 or above to use.
+ITEM_20180418_018130	[Reveal] Booster Pack (Lv.50) 
+ITEM_20180418_018131	Right-click to use. You character must be level 50 or above to use.
+ITEM_20180418_018132	[Reveal] Booster Pack (Lv.75) 
+ITEM_20180418_018133	Right-click to use. You character must be level 75 or above to use.
+ITEM_20180418_018134	[Reveal] Booster Pack (Lv.85) 
+ITEM_20180418_018135	Right-click to use. You character must be level 85 or above to use.
+ITEM_20180418_018136	[Reveal] Booster Pack (Lv.100) 
+ITEM_20180418_018137	Right-click to use. You character must be level 100 or above to use.
+ITEM_20180418_018138	[Reveal] Booster Pack (Lv.120) 
+ITEM_20180418_018139	Right-click to use. You character must be level 120 or above to use.
+ITEM_20180418_018140	[Reveal] Booster Pack (Lv.140) 
+ITEM_20180418_018141	Right-click to use. You character must be level 140 or above to use.
+ITEM_20180418_018142	[Reveal] Booster Pack (Lv.170) 
+ITEM_20180418_018143	Right-click to use. You character must be level 170 or above to use.
+ITEM_20180418_018144	[Reveal] Booster Pack (Lv.180) 
+ITEM_20180418_018145	Right-click to use. You character must be level 180 or above to use.
+ITEM_20180418_018146	[Reveal] Booster Pack (Lv.200) 
+ITEM_20180418_018147	Right-click to use. You character must be level 200 or above to use.
+ITEM_20180418_018148	[Reveal] Booster Pack (Lv.220) 
+ITEM_20180418_018149	Right-click to use. You character must be level 220 or above to use.
+ITEM_20180418_018150	[Reveal] Booster Pack (Lv.230) 
+ITEM_20180418_018151	Right-click to use. You character must be level 230 or above to use.
+ITEM_20180418_018152	[Reveal] Booster Pack (Lv.270) 
+ITEM_20180418_018153	Right-click to use. You character must be level 270 or above to use.
+ITEM_20180418_018154	[Reveal] Booster Pack (Lv.300) 
+ITEM_20180418_018155	Right-click to use. You character must be level 300 or above to use.
+ITEM_20180418_018156	[Reveal] Booster Pack (Lv.320) 
+ITEM_20180418_018157	Right-click to use. You character must be level 330 or above to use.
+ITEM_20180418_018158	[Reveal] Shining Golden Anvil
+ITEM_20180418_018159	Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. Right-click to use.
+ITEM_20180418_018160	[Reveal] Miracle Seeds
+ITEM_20180418_018161	Use to grow a sprout containing all the grace of the goddesses.
+ITEM_20180418_018162	[Reveal] Booster Pack (Lv.350) 
+ITEM_20180418_018163	Right-click to use. You character must be level 350 or above to use.
+ITEM_20180418_018164	Jumping Character Exchange Ticket
+ITEM_20180418_018165	A ticket from the jumping character package.{nl} Will be deleted when the event period ends.
+ITEM_20180418_018166	[Reveal] Jumping Package 
+ITEM_20180418_018167	Right-click to use. You character must be level 15 or above to use.
+ITEM_20180418_018168	EXP Card (Lv.300)
+ITEM_20180418_018169	Increases EXP up to character level 300. Can be used at level 50 and lower.
+ITEM_20180418_018170	1000 Attribute Points
+ITEM_20180418_018171	Event item.{nl}Gives 1000 Attribute Points. Right-click to use. 
+ITEM_20180418_018172	[Reveal] Daily Attribute Points
+ITEM_20180418_018173	Right-click to use. Can gain 500 Attribute Points every day during the event period.{nl}Will be deleted when the event period ends.
+ITEM_20180418_018174	[Reveal] Title - Ultimate Savior
+ITEM_20180418_018175	A special title to celebrate the Reveal event. Will be deleted when the event period ends. 
+ITEM_20180418_018176	Can be used with the Golden Dog event shop. Will be deleted when the event period ends. 
+ITEM_20180418_018177	obtained. Will be deleted when the event period ends.
+ITEM_20180418_018178	A lucky title to celebrate the Year of the Golden Dog. Will be deleted when the event period ends. 
+ITEM_20180418_018179	Sweet Valentine Chocolates
+ITEM_20180418_018180	When used once, increases EXP gains by 10%, max HP 500, recovers HP 100/ SP 50 every 10 seconds for 30 minutes. Up to 5 can be stacked at a time. Will be deleted when the event ends.
+ITEM_20180418_018181	Mercenary Post One Entry Voucher
+ITEM_20180418_018182	Use to enter a Mercenary Post mission one more time.
+ITEM_20180418_018183	Guild Quest One Entry Voucher
+ITEM_20180418_018184	Use to gain one additional Guild Quest (Mission/Raid) entry. 
+ITEM_20180418_018185	Master Trial Easy Level Voucher
+ITEM_20180418_018186	An item received from the Master Trial Event Helper
+ITEM_20180418_018187	Voucher needed for training.{nl}Can receive one per day from the Master Trial Event Helper.{nl}Will be deleted when the event period ends.
+ITEM_20180418_018188	Small Potential Fragment
+ITEM_20180418_018189	A reward obtained from training with the master.{nl}Collect 5 and trade them to the Master Trial Event Helper for a Infinite Potential Cube.{nl}Will be deleted when the event period ends.
+ITEM_20180418_018190	Infinite Potential Cube
+ITEM_20180418_018191	A reward obtained from training with the master.{nl}Use to receive a random item from the reward's list.{nl}Will be deleted when the event period ends.
+ITEM_20180418_018192	Master Trial Medium Level Voucher
+ITEM_20180418_018193	Master Trial High Level Voucher
+ITEM_20180418_018194	Master Trial Advanced Level Voucher
+ITEM_20180418_018195	A box containing a Retiarius Rudiarius Costume.{nl}You must first advance to Retiarius to use.{nl}The costume cannot be moved to Team Storage. 
+ITEM_20180418_018196	Onmyoji Royal Court Costume Box 
+ITEM_20180418_018197	A box containing a Onmyoji Royal Court Costume.{nl}You must first advance to Onmyoji to use.{nl}The costume cannot be moved to Team Storage.
+ITEM_20180418_018198	Miracle Seeds (1 Day)
+ITEM_20180418_018199	Lift Curse Potion
+ITEM_20180418_018200	Holy water that neutralizes Velcoffer's curse. Will reset the effects of curse. 
+ITEM_20180418_018201	Soaked Monster Card Album (14 Days)
+ITEM_20180418_018202	Lightning Fragment
+ITEM_20180418_018203	Food used to help one's body during basic training. Will recover HP for 3 minutes after digesting.
+ITEM_20180418_018204	Training Dumbbell
+ITEM_20180418_018205	A training dumbbell to fortify muscles.
+ITEM_20180418_018206	Training Sandbag
+ITEM_20180418_018207	A training sandbag to build endurance.
+ITEM_20180418_018208	Check your goals while completing endurance training.
+ITEM_20180418_018209	Retiarius Training Check Orb
+ITEM_20180418_018210	Can check your Retiarius training and HP training stats. Will take into consideration your latest results. 
+ITEM_20180418_018211	List of Supporters
+ITEM_20180418_018212	A list received from Uska. It's a record on each supporter who promised to help gather donations for the Onmyoji Master's country. 
+ITEM_20180418_018213	Saltisdaughter Fur
+ITEM_20180418_018214	Saltisdaughter Fur. Can be made into a Fur Piece. 3 pieces of fur can make 1-2 Fur Pieces. Right-click to make.
+ITEM_20180418_018215	Saltisdaughter Fur Piece
+ITEM_20180418_018216	A fur piece consisting of Saltisdaughter leather and fur.
+ITEM_20180418_018217	Dry Wood
+ITEM_20180418_018218	Not a single bit of water is left on this perfectly dried wood. It looks amazingly sturdy. 
+ITEM_20180418_018219	Mushroom Samples
+ITEM_20180418_018220	Mushroom Samples. They may or may not be contaminated. 
+ITEM_20180418_018221	Grape Seed Samples
+ITEM_20180418_018222	Grape Seed Samples. They may or may not be contaminated. 
+ITEM_20180418_018223	Ducky Leather
+ITEM_20180418_018224	Ducky Leather. Can be made into Processed Leather. 2 pieces of Ducky Leather can make 1 Processed Leather. Right-click to make.
+ITEM_20180418_018225	Processed Ducky Leather
+ITEM_20180418_018226	Processed Ducky Leather that is protected from corruption. 
+ITEM_20180418_018227	Simple Brooch 
+ITEM_20180418_018228	A very simple looking brooch. This looks like the brooch Pirate Captain Lowe is looking for.
+ITEM_20180418_018229	Hard Thistle
+ITEM_20180418_018230	Hard-looking thistle. It gives off an interesting smell.
+ITEM_20180418_018231	Dimensional Stone Detector
+ITEM_20180418_018232	A detector developed to find dimensional stones. Right-click to search for nearby sacks.
+ITEM_20180418_018233	Sample Dimensional Stone Sack
+ITEM_20180418_018234	A sack containing sample dimensional stones. Something about these stones doesn't feel right.
+ITEM_20180418_018235	Spell Scroll
+ITEM_20180418_018236	A spell scroll to prevent food from going bad. Contains a spell that temporarily preserves food. Right click to use the scroll.
+ITEM_20180418_018237	Training Shikiban 
+ITEM_20180418_018238	A divination tool given to you by the Onmyoji Master. The Onmyoji Master has adapted it to fit well with your Focus Training. Use it to change the direction of the moving paper dolls. 
+ITEM_20180418_018239	A pouch given by the Sapper Master.
+ITEM_20180418_018240	This is a pouch given to you by the Sapper Master. As you walk you can hear a soft jingling sound coming from it. 
+ITEM_20180418_018241	A Key from the Linker Submaster
+ITEM_20180418_018242	This is a key given to you by the Linker Submaster. It's made from the materials you gathered. With this key, you will be able to entered the Two dimensional world found in Tenet Church 1F.
+ITEM_20180418_018243	Quest Reward. Gives 100 Attribute Points. Right-click to use.
+ITEM_20180426_018244	Spring Farmer Boy Costume (Male)
+ITEM_20180426_018245	Nothing like Spring in the countryside. Use to change your appearance.
+ITEM_20180426_018246	Spring Farmer Girl Costume (Female)
+ITEM_20180426_018247	Nothing like Spring in the countryside. Use to change your appearance.
+ITEM_20180426_018248	Fruit Snack Basket
+ITEM_20180426_018249	A basket of delicious fresh fruits for you to snack on after a hard day at work on the farm.
+ITEM_20180426_018250	Little Grain of Rice
+ITEM_20180426_018251	This little grain of rice is almost ready to be harvested. For now, it's still a little shy.{nl} Can be exchanged for medals at the Exchange Shop.
+ITEM_20180426_018252	Elephant Watering Can
+ITEM_20180426_018253	Don't forget to water the flowers!{nl} Can be exchanged for medals at the Exchange Shop.
+ITEM_20180426_018254	[Premium] Costume
+ITEM_20180426_018255	Spring Farmer Hat
+ITEM_20180426_018256	Gotta protect your eyes from that afternoon sun.{nl} Can be exchanged for medals.
+ITEM_20180426_018257	Rusty Pitchfork
+ITEM_20180426_018258	Your farmer look isn't complete without a classic pitchfork.{nl} Can be exchanged for medals at the Exchange Shop.
+ITEM_20180517_018259	Velcoffer Helmet
+ITEM_20180517_018260	Dragons can be biologically classified by how magic affects them. For one, it's been proven that dragons belong in the same broad category as Beast type monsters, due to how similarly they react to specific types of magic. 
+ITEM_20180517_018261	 - [Bash] skill level {img green_up_arrow 16 16}10
+ITEM_20180517_018262	 - 5% chance to inflict [Bleeding] on enemies for 30 seconds every 1.5 seconds when using Shark Cutter{nl} - A basic attack will hit 5 successive times every 5 times you apply [Bleeding] to enemies{nl} - {img red_down_arrow 16 16} 50% reduced damage of [Ghost] armor-type targets
+ITEM_20180517_018263	Velcoffer Sword
+ITEM_20180517_018264	Dragons have been known to store the divine vital force they find spread throughout the world in their bodies, in the hopes of gathering the power to defy future goddesses. That vital force, however, can also be used by humans to produce weapons. An example of that is Teliavelis' gear series, where the designs take inspiration from dragons. 
+ITEM_20180517_018265	Velcoffer Two-handed Sword
+ITEM_20180517_018266	Some speculate that goddesses like Austeja are for the preservation of dragons as a means to provide some kind of security for humans in the future. Teliavelis, on the other hand, believes that it is simply a proof of the goddesses' respect for all living creatures.
+ITEM_20180517_018267	Velcoffer Rod
+ITEM_20180517_018268	It is said that those who are spiritually sensitive can discern the energy of both goddesses and dragons in this weapon. The combination of such contrasting powers remains forever unfamiliar to those who experience it.
+ITEM_20180517_018269	Velcoffer Bow
+ITEM_20180517_018270	Many artisans believe they can produce Velcoffer equipment from regular materials. However, Teliavelis has shown that it takes a talented blacksmith to be able to handle materials containing the power of the goddesses.
+ITEM_20180517_018271	 - Increases all Quarrel Shooter skill levels by {img green_up_arrow 16 16}2{nl} - Increases skill level of Running Shot by {img green_up_arrow 16 16}1
+ITEM_20180517_018272	 - Increases Running Shot skill level {img green_up_arrow 16 16}1
+ITEM_20180517_018273	 - Increases all Quarrel Shooter skill levels by {img green_up_arrow 16 16}2{nl} - Increases skill level of Running Shot by {img green_up_arrow 16 16}1
+ITEM_20180517_018274	Velcoffer Crossbow
+ITEM_20180517_018275	This weapon is produced with real dragon scales, although one knows for sure how Teliavelis obtains them.
+ITEM_20180517_018276	Velcoffer Mace
+ITEM_20180517_018277	Teliavelis is the only blacksmith known to have mastered the technique required to quickly solidify metal components. Some believe he uses the intense cooling properties of dragons when casting the metal.
+ITEM_20180517_018278	Velcoffer Two-handed Mace
+ITEM_20180517_018279	Although its handle is made of metal, this weapon produces no unwanted vibration when hitting the target. You could say that it is proof of Teliavelis' extraordinary talent.
+ITEM_20180517_018280	Velcoffer Shield
+ITEM_20180517_018281	According to a recently uncovered Exorcist report, after its design was initially revealed, this shield caught the attention of several high-ranking demons. Realistically, of course, it is highly unlikely that any of them will ever possess one. 
+ITEM_20180517_018282	Velcoffer Spear
+ITEM_20180517_018283	Some artisans and wizards suspect that Teliavelis may have gotten the Velcoffer Spear and Pike designs confused when crafting this weapon. The difference is merely visual, however, as it doesn't affect the weapons' performance.
+ITEM_20180517_018284	 - Deals {img green_up_arrow 16 16}235 additional damage when using [Impaler]
+ITEM_20180517_018285	Velcoffer Pike
+ITEM_20180517_018286	The ornaments may resemble a pair of wings, but this weapon is not intended to be thrown over long distances.
+ITEM_20180517_018287	Velcoffer Dagger
+ITEM_20180517_018288	Some believe that the blade is made not from metal, but dragon bone. Unfortunately, dragon bones are a rare material, making this claim almost impossible to confirm.
+ITEM_20180517_018289	 - 20% chance of dealing additional Fire property damage equal to 33% of your character level for 10 sec when using Hell Breath.
+ITEM_20180517_018290	Velcoffer Staff
+ITEM_20180517_018291	Teliavelis hopes this weapon will once become a symbol of victory over the dragons for humans and goddesses.
+ITEM_20180517_018292	Velcoffer Pistol
+ITEM_20180517_018293	After the reappearance of dragons, Flint Winterwood is said to be researching new ways to create stronger, heat-resistant weapons by using dragon materials.
+ITEM_20180517_018294	Velcoffer Rapier
+ITEM_20180517_018295	Despite its design, this sword provides decent protection to both hands and wrists. Some users, however, say that holding it can feel like touching the inside of a dragon's mouth.
+ITEM_20180517_018296	Velcoffer Cannon
+ITEM_20180517_018297	Recently, the Cannoneer Master has announced her opposition to the use of this weapon for military purposes. She firmly believes that the Royal Army should not mass-produce rare weapons like this one. 
+ITEM_20180517_018298	 - [Covering Fire] skill level {img green_up_arrow 16 16} 1
+ITEM_20180517_018299	Velcoffer Musket
+ITEM_20180517_018300	Experts who have used this weapon tend to have a good impression of it. Its only flaw, they say, is that it can be hard to clean without getting injured. Fortunately, at least, it doesn't seem to backfire any sparks when used.
+ITEM_20180517_018301	Velcoffer Robe
+ITEM_20180517_018302	Surprisingly, the Velcoffer Robe is the most difficult piece to produce out of the entire Velcoffer gear series. This is because the robe is made from very delicate materials.
+ITEM_20180517_018303	Velcoffer Leather Armor
+ITEM_20180517_018304	Many believe, mistakenly, that Velcoffer equipment is made with dragon leather. While it is true that Teliavelis uses dragon materials in his gear, this piece does not include any dragon leather components.
+ITEM_20180517_018305	Velcoffer Plate Armor
+ITEM_20180517_018306	One legend says that Froster Lord used the power of Giltine to freeze over the world of the dragons a long time ago. Such strong magic can only be undone if Giltine herself allows her powers to be used again. 
+ITEM_20180517_018307	Velcoffer Pants
+ITEM_20180517_018308	Some say that Teliavelis has several ideas ready for future gear series, ideas no one has ever thought of before. Apparently, he is just waiting for the right time to reveal them.
+ITEM_20180517_018309	Velcoffer Leather Pants
+ITEM_20180517_018310	According to Teliavelis, after Medzio Diena the magic used to enhance equipment items has been irreversibly changed. Therefore, in his gear he prefers to focus on the performance, leaving the magic components open to more diverse setups.
+ITEM_20180517_018311	Velcoffer Plate Pants
+ITEM_20180517_018312	According to legends, the most powerful dragons are still alive in the dragon world. As long as their realm is dominated by the Froster Lord, however, the dragons will remain trapped there, unable to escape. 
+ITEM_20180517_018313	Sausys Leather Boots
+ITEM_20180517_018314	Although they maintain their traditional style to this day, the original Sausys boots were unimaginably faster.
+ITEM_20180517_018315	Velcoffer Boots
+ITEM_20180517_018316	One legend says that Velcoffer originally worked as a guard for an even stronger dragon. Whether that was true or not, the dragon he was said to work for is no longer alive.
+ITEM_20180517_018317	Velcoffer Leather Boots
+ITEM_20180517_018318	A few Class Masters believe that, if Teliavelis was involved in producing equipment for the goddesses, that could constitute proof that he is part of the Amzinas. The other Amzinas, however, have never confirmed whether that is true or simply a rumor.
+ITEM_20180517_018319	Velcoffer Greaves
+ITEM_20180517_018320	No one knows for sure if there are other dragons besides Boruta and Velcoffer roaming our world, but the possibility is there. Especially after Medzio Diena, these creatures have had more opportunities than ever to escape their confinement.
+ITEM_20180517_018321	Velcoffer Gloves
+ITEM_20180517_018322	While many consider Teliavelis a great craftsman, some believe that there is something more to his originality. It is thought that his pieces were designed with the wisdom of the goddesses, and that he is merely their maker and conveyer.
+ITEM_20180517_018323	Velcoffer Leather Gloves
+ITEM_20180517_018324	Sometimes, finished pieces of Velcoffer gear are found in our world. Strangely enough, they don't seem to have been made by humans, which has led magic Class Masters to assume that the goddesses possessed the original versions of Teliavelis' items.
+ITEM_20180517_018325	Velcoffer Plate Gauntlets
+ITEM_20180517_018326	Legends tell that one powerful dragon named Boruta crossed over to our world a long time ago. They say that, compared to him, Velcoffer is still a relatively young dragon.
+ITEM_20180517_018327	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Fireball{nl} - Fire Wall{nl} - Flare{nl} - Fire Pillar{nl} - Hell Breath{nl} - Flame Ground{nl} - Meteor{nl} - Incineration{nl} - Prominence{nl} - Combustion{nl} - Immolation
+ITEM_20180517_018328	 - Adds {img green_up_arrow 16 16}50% attack when using the following skills{nl}- Ice Bolt{nl} - Ice Pike{nl} - Ice Blast{nl} - Snow Rolling{nl} - Frost Pillar{nl} - Hail{nl} - Freezing Sphere{nl} - Water Shikigami
+ITEM_20180517_018329	Varpas Necklace
+ITEM_20180517_018330	Considering that this necklace can drop from defeated demons, one would think that it does not distinguish between the good and bad nature of the wearer. On the other hand, it could also mean that the necklace is likely to betray its lawful owner.
+ITEM_20180517_018331	Verijo Necklace
+ITEM_20180517_018332	There is a strong possibility that Demon Goddess Ragana is connected to this piece. She is said to belong to a trinity of demon deities. 
+ITEM_20180517_018333	Velcoffer Costume
+ITEM_20180517_018334	Dragons can be biologically classified by how magic affects them. For one, it's been proven that dragons belong in the same broad category as Beast type monsters, due to how similarly they react to specific types of magic. Use to change your appearance.
+ITEM_20180517_018335	Matador Velbestiary Costume (Male)
+ITEM_20180517_018336	A Matador who wears this costume is one with a deep understanding of the behavioral and biological traits of all beasts, as well as the longs history of the demonic world.
+ITEM_20180517_018337	Matador Velbestiary Special Costume
+ITEM_20180517_018338	Retiarius Rudiarius Costume (Male)
+ITEM_20180517_018339	Retiarius Rudiarius Costume (Female)
+ITEM_20180517_018340	Matador Velbestiary Costume (Female)
+ITEM_20180517_018341	Onmyoji Royal Court Costume (Male)
+ITEM_20180517_018342	Onmyoji Royal Court Costume (Female)
+ITEM_20180517_018343	Shadowmancer Super Ensconcer Costume (Male)
+ITEM_20180517_018344	Costume awarded to Shadowmancers who have shown outstanding results in the field of shadow magic. Recently, it has been worn by achievers not only in scientific research, but in other aspects of the Shadowmancer tradition as well.
+ITEM_20180517_018345	Shadowmancer Super Ensconcer Costume (Female)
+ITEM_20180517_018346	Shadowmancer Super Ensconcer Special Costume
+ITEM_20180517_018347	Bullet Marker Flinter Costume (Male)
+ITEM_20180517_018348	Bullet Marker Flinter Costume (Female)
+ITEM_20180517_018349	Bullet Marker Flinter Special Costume
+ITEM_20180517_018350	Zealot Divine Vesture Costume (Male)
+ITEM_20180517_018351	Only the most honored Zealots are allowed to wear these garments. This includes members who have found the goddesses or who have made equally important contributions to the Zealot cause.
+ITEM_20180517_018352	Zealot Divine Vesture Costume (Female)
+ITEM_20180517_018353	Zealot Divine Vesture Special Costume
+ITEM_20180517_018354	Equipment for an Archer Circle 3. Use the item to wear it.{nl}- Changes the effects of Multi Shot.
+ITEM_20180517_018355	Equipment for a Quarrel Shooter Circle 3. Use the item to wear it.{nl}- Changes the arrows of Running Shot.
+ITEM_20180517_018356	Cherry Blossom Hairpin
+ITEM_20180517_018357	Tricolor Treat Hairpin
+ITEM_20180517_018358	Potted Flower
+ITEM_20180517_018359	Take good care of this flower so it can grow strong and beautiful, just like you.
+ITEM_20180517_018360	Blue Beret
+ITEM_20180517_018361	A stunning blue beret.
+ITEM_20180517_018362	Green Beret
+ITEM_20180517_018363	Don't lose it in a forest, or you'll never find it again.
+ITEM_20180517_018364	 Event item.
+ITEM_20180517_018365	2018 Tree Lover Costume (Male)
+ITEM_20180517_018366	Do you love trees? We all love trees. Use to change your appearance.
+ITEM_20180517_018367	2018 Tree Lover Costume (Female)
+ITEM_20180517_018368	The favorite food of Lesser Pandas and Dodo Birds. Completely restores your companion's HP and restores their Stamina by 60.
+ITEM_20180517_018369	Goddess' Retribution Potion: Demon
+ITEM_20180517_018370	Increases damage to Demon type boss monsters by 100% for 10 sec.{nl}Cooldown 30 sec.{nl}Does not stack with other Retribution Potions.
+ITEM_20180517_018371	Goddess' Retribution Potion: Mutant
+ITEM_20180517_018372	Increases damage to Mutant type boss monsters by 100% for 10 sec.{nl}Cooldown 30 sec.{nl}Does not stack with other Retribution Potions.
+ITEM_20180517_018373	Goddess' Retribution Potion: Insect
+ITEM_20180517_018374	Increases damage to Insect type boss monsters by 100% for 10 sec.{nl}Cooldown 30 sec.{nl}Does not stack with other Retribution Potions.
+ITEM_20180517_018375	Goddess' Retribution Potion: Plant
+ITEM_20180517_018376	Increases damage to Plant type boss monsters by 100% for 10 sec.{nl}Cooldown 30 sec.{nl}Does not stack with other Retribution Potions.
+ITEM_20180517_018377	Goddess' Retribution Potion: Beast
+ITEM_20180517_018378	Increases damage to Beast type boss monsters by 100% for 10 sec.{nl}Cooldown 30 sec.{nl}Does not stack with other Retribution Potions.
+ITEM_20180517_018379	Goddess' Aegis Potion: Demon
+ITEM_20180517_018380	Reduces damage received from Demon type boss monsters by 50% for 30 sec.{nl}Cooldown 60 sec.{nl}Does not stack with other Aegis Potions.
+ITEM_20180517_018381	Goddess' Aegis Potion: Mutant
+ITEM_20180517_018382	Reduces damage received from Mutant type boss monsters by 50% for 30 sec.{nl}Cooldown 60 sec.{nl}Does not stack with other Aegis Potions.
+ITEM_20180517_018383	Goddess' Aegis Potion: Insect
+ITEM_20180517_018384	Reduces damage received from Insect type boss monsters by 50% for 30 sec.{nl}Cooldown 60 sec.{nl}Does not stack with other Aegis Potions.
+ITEM_20180517_018385	Goddess' Aegis Potion: Plant
+ITEM_20180517_018386	Reduces damage received from Plant type boss monsters by 50% for 30 sec.{nl}Cooldown 60 sec.{nl}Does not stack with other Aegis Potions.
+ITEM_20180517_018387	Goddess' Aegis Potion: Beast
+ITEM_20180517_018388	Reduces damage received from Beast type boss monsters by 50% for 30 sec.{nl}Cooldown 60 sec.{nl}Does not stack with other Aegis Potions.
+ITEM_20180517_018389	Hero's Retribution Potion: Demon
+ITEM_20180517_018390	Increases damage to Demon type boss monsters by 50% for 10 sec.{nl}Cooldown 30 sec.{nl}Does not stack with other Retribution Potions.
+ITEM_20180517_018391	Hero's Retribution Potion: Mutant
+ITEM_20180517_018392	Increases damage to Mutant type boss monsters by 50% for 10 sec.{nl}Cooldown 30 sec.{nl}Does not stack with other Retribution Potions.
+ITEM_20180517_018393	Hero's Retribution Potion: Insect
+ITEM_20180517_018394	Increases damage to Insect type boss monsters by 50% for 10 sec.{nl}Cooldown 30 sec.{nl}Does not stack with other Retribution Potions.
+ITEM_20180517_018395	Hero's Retribution Potion: Plant
+ITEM_20180517_018396	Increases damage to Plant type boss monsters by 50% for 10 sec.{nl}Cooldown 30 sec.{nl}Does not stack with other Retribution Potions.
+ITEM_20180517_018397	Hero's Retribution Potion: Beast
+ITEM_20180517_018398	Increases damage to Beast type boss monsters by 50% for 10 sec.{nl}Cooldown 30 sec.{nl}Does not stack with other Retribution Potions.
+ITEM_20180517_018399	Hero's Aegis Potion: Demon
+ITEM_20180517_018400	Reduces damage received from Demon type boss monsters by 25% for 30 sec.{nl}Cooldown 60 sec.{nl}Does not stack with other Aegis Potions.
+ITEM_20180517_018401	Hero's Aegis Potion: Mutant
+ITEM_20180517_018402	Reduces damage received from Mutant type boss monsters by 25% for 30 sec.{nl}Cooldown 60 sec.{nl}Does not stack with other Aegis Potions.
+ITEM_20180517_018403	Hero's Aegis Potion: Insect
+ITEM_20180517_018404	Reduces damage received from Insect type boss monsters by 25% for 30 sec.{nl}Cooldown 60 sec.{nl}Does not stack with other Aegis Potions.
+ITEM_20180517_018405	Hero's Aegis Potion: Plant
+ITEM_20180517_018406	Reduces damage received from Plant type boss monsters by 25% for 30 sec.{nl}Cooldown 60 sec.{nl}Does not stack with other Aegis Potions.
+ITEM_20180517_018407	Hero's Aegis Potion: Beast
+ITEM_20180517_018408	Reduces damage received from Beast type boss monsters by 25% for 30 sec.{nl}Cooldown 60 sec.{nl}Does not stack with other Aegis Potions.
+ITEM_20180517_018409	Hero's Retribution Potion: Demon (Feud)
+ITEM_20180517_018410	Hero's Retribution Potion: Mutant (Feud)
+ITEM_20180517_018411	Hero's Retribution Potion: Insect (Feud)
+ITEM_20180517_018412	Hero's Retribution Potion: Plant (Feud)
+ITEM_20180517_018413	Hero's Retribution Potion: Beast (Feud)
+ITEM_20180517_018414	Hero's Aegis Potion: Demon (Feud)
+ITEM_20180517_018415	Hero's Aegis Potion: Mutant (Feud)
+ITEM_20180517_018416	Hero's Aegis Potion: Insect (Feud)
+ITEM_20180517_018417	Hero's Aegis Potion: Plant (Feud)
+ITEM_20180517_018418	Hero's Aegis Potion: Beast (Feud)
+ITEM_20180517_018419	Allows you to enter Earth Tower once.
+ITEM_20180517_018420	Sage Master's Yellow Bookmark
+ITEM_20180517_018421	A yellow bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.
+ITEM_20180517_018422	Artisan Weapon Recipe Box (Lv. 350)
+ITEM_20180517_018423	Select a Lv 350 recipe that can be crafted with fewer materials. Right-click to use.
+ITEM_20180517_018424	(Old) Cube of Blessing
+ITEM_20180517_018425	Sister Aiste's Gift
+ITEM_20180517_018426	A kind gift from Sister Aiste. Open to receive Blessed Shard x2.{nl}- Can be open 3 times per day.
+ITEM_20180517_018427	Velcoffer Cube
+ITEM_20180517_018428	Shining Lv 300 Challenge Cube
+ITEM_20180517_018429	Will not decrease enhancement values even if the attempt fails. However, your item will lose potential. At 0 potential, the item is destroyed.
+ITEM_20180517_018430	Will not decrease enhancement values even if the attempt fails. However, your item will lose potential. At 0 potential, the item is destroyed. Use within 14 days.
+ITEM_20180517_018431	Ichor Extraction Kit
+ITEM_20180517_018432	A tool used to extract Ichors. Can be purchased from Teliavelis.
+ITEM_20180517_018433	[Poison Pot Equip Effect] Activates a Reaverpede skill when using Poison Pot
+ITEM_20180517_018434	[Poison Pot Equip Effect] Activates a Manticen skill when using Poison Pot
+ITEM_20180517_018435	[Poison Pot Equip Effect] Activates a Merge skill when using Poison Pot
+ITEM_20180517_018436	[Poison Pot Equip Effect] Activates a Mothstem skill when using Poison Pot
+ITEM_20180517_018437	[Poison Pot Equip Effect] Activates a Biteregina skill when using Poison Pot
+ITEM_20180517_018438	[Poison Pot Equip Effect] Activates a Chafer skill when using Poison Pot
+ITEM_20180517_018439	[Poison Pot Equip Effect] Activates a Carapace skill when using Poison Pot
+ITEM_20180517_018440	[Poison Pot Equip Effect] Activates a Krimeleech skill when using Poison Pot
+ITEM_20180517_018441	[Poison Pot Equip Effect] Activates a Honeypin skill when using Poison Pot
+ITEM_20180517_018442	[Poison Pot Equip Effect] Activates a Neop skill when using Poison Pot
+ITEM_20180517_018443	[Poison Pot Equip Effect] Activates a Plokste skill when using Poison Pot
+ITEM_20180517_018444	[Poison Pot Equip Effect] Activates a Plokste skill when using Poison Pot
+ITEM_20180517_018445	[Poison Pot Equip Effect] Activates a Velnewt skill when using Poison Pot
+ITEM_20180517_018446	[Poison Pot Equip Effect] Activates a Velpede skill when using Poison Pot
+ITEM_20180517_018447	[Poison Pot Equip Effect] Activates a Canceril skill when using Poison Pot
+ITEM_20180517_018448	Prodigious Kugheri Balzermancer Card
+ITEM_20180517_018449	Velcoffer Card
+ITEM_20180517_018450	[Card Equip Effect] Reduces damage received from monsters by [{img star_mark 20 20} * 3]%
+ITEM_20180517_018451	Broadhead Arrow
+ITEM_20180517_018452	Helps awaken an item without reducing the potential of the equipment. Usable for 14 days after being acquired.
+ITEM_20180517_018453	Helps awaken an item without reducing the potential of the equipment. Usable for 1 minute after being acquired.
+ITEM_20180517_018454	Consumed when using the Forge skill.
+ITEM_20180517_018455	Consumed when using the Shield Charger skill.
+ITEM_20180517_018456	Mercenary Badge
+ITEM_20180517_018457	A badge received in return for delivering Gemstones.
+ITEM_20180517_018458	Gemstone
+ITEM_20180517_018459	Can be exchanged for points at your camp's Gemstone exchanger.
+ITEM_20180517_018460	Velcoffer Spirit Fragment
+ITEM_20180517_018461	Obtained by defeating Velcoffer. These fragments contain an unknown energy that manifests itself as combat power when used to craft equipment items.
+ITEM_20180517_018462	Dodo Bird Egg
+ITEM_20180517_018463	A Dodo Bird egg obtained as an Adventure Journal reward. Right-click to use and register your Companion.{nl}This Companion can be mounted without a riding skill.
+ITEM_20180517_018464	Sapling Growth Crystal
+ITEM_20180517_018465	Event item. Use it to grow a tree. (Will be deleted at the end of the event period.)
+ITEM_20180517_018466	Tree Growth Crystal
+ITEM_20180517_018467	Leafy Tree Growth Crystal
+ITEM_20180517_018468	Sapling Cube
+ITEM_20180517_018469	Use to receive a random item from the rewards list.{nl}Will be deleted when the event period ends.
+ITEM_20180517_018470	Tree Cube
+ITEM_20180517_018471	Leafy Tree Cube
+ITEM_20180517_018472	Title - Tree Lover
+ITEM_20180517_018473	A title given to dedicated tree enthusiasts. Will be deleted at the end of the event period.
+ITEM_20180517_018474	Secret Tree Root Cube
+ITEM_20180517_018475	Use to select an item from the rewards list.{nl}Will be deleted when the event period ends.
+ITEM_20180517_018476	Title - Root Crystal Finder
+ITEM_20180517_018477	A title given to Tree Root Crystal enthusiasts. Will be deleted at the end of the event period.
+ITEM_20180517_018478	Enhancement Chance Package
+ITEM_20180517_018479	Use to receive the contents of the enhancement package.{nl}Will be deleted at the end of the event period.
+ITEM_20180517_018480	Blessed Silver Box (14 Days)
+ITEM_20180517_018481	Use to obtain a random amount of Silver.
+ITEM_20180517_018482	Blessed Enhancement Cube (14 Days)
+ITEM_20180517_018483	Use to receive a random item from the rewards list.
+ITEM_20180517_018484	Best Of Event Costumes Cube (14 Days)
+ITEM_20180517_018485	7 Star Gem Abrasive (14 Days)
+ITEM_20180517_018486	Title - Daredevil
+ITEM_20180517_018487	A title given to those brave enough to face danger.{nl}Will be deleted at the end of the event period.
+ITEM_20180517_018488	Stolen Treasure Cube
+ITEM_20180517_018489	Use to receive a random item from the rewards list.{nl}Will be deleted when the event period ends.
+ITEM_20180517_018490	Dodo Bird Companion Voucher
+ITEM_20180517_018491	A Dodo Bird Companion Voucher obtained as an Adventure Journal Reward. Collect 20 and exchange them for a Dodo Bird Companion at the Wings of Vaivora. 
+ITEM_20180517_018492	Astri Ichor
+ITEM_20180517_018493	[Ichor]
+ITEM_20180517_018494	No one knows whether Ichors really come from the blood of divine beings. What we do know is that their concentrated power manifests in weapons like no other object.
+ITEM_20180517_018495	Stiprus Ichor
+ITEM_20180517_018496	No one knows whether Ichors really come from the blood of divine beings. What we do know is that their concentrated power manifests in armor items like no other object.
+ITEM_20180517_018497	Partis Solution
+ITEM_20180517_018498	[Solution]
+ITEM_20180517_018499	Collects energy released during combat. It must be activated before the battle.
+ITEM_20180517_018500	Use to hold a festival balloon. Will be deleted at the end of the event.
+ITEM_20180517_018501	Some vivacious leaves Believer Dreka wants to offer Goddess Lada.
+ITEM_20180517_018502	Bullets for the Blue Lepusbunnies of Sekta Forest. Register them in your quick slots to use.
+ITEM_20180517_018503	Velcoffer Spirit Fragment
+ITEM_20180517_018504	Fragment obtained by defeating Velcoffer.
+ITEM_20180525_018505	Golden Fairy Wedding Costume (Male)
+ITEM_20180525_018506	The traditional wedding garments of fairies of the past. Use to change your appearance.
+ITEM_20180525_018507	Golden Fairy Wedding Costume (Female)
+ITEM_20180525_018508	Dawn Fairy Wedding Costume (Male)
+ITEM_20180525_018509	A fresh, dewy look for a beautiful Spring day. Use to change your appearance.
+ITEM_20180525_018510	Dawn Fairy Wedding Costume (Female)
+ITEM_20180525_018511	Teeny Fairy Wedding Costume (Male)
+ITEM_20180525_018512	Wedding garments reminiscent of the style of young fairies. Use to change your appearance.
+ITEM_20180525_018513	Teeny Fairy Wedding Costume (Female)
+ITEM_20180525_018514	Frill Ornament Fairy Costume (Male)
+ITEM_20180525_018515	Who is the prettiest, most flowery fairy in the Kingdom? You are! Use to change your appearance.
+ITEM_20180525_018516	Frill Ornament Fairy Costume (Female)
+ITEM_20180525_018517	Golden Fairy Laurel
+ITEM_20180525_018518	Made with real laurel leaves.
+ITEM_20180525_018519	Golden Fairy Flower Tiara
+ITEM_20180525_018520	A pretty tiara decorated with a flower and feather. 
+ITEM_20180525_018521	Dawn Fairy Flower Bud
+ITEM_20180525_018522	A unique but very fairy-like accessory.
+ITEM_20180525_018523	Pink Fairy Flower Bud
+ITEM_20180525_018524	Nothing says "fairy" like a beautiful flower bud.
+ITEM_20180525_018525	Teal Teeny Hat
+ITEM_20180525_018526	A teeny tiny teal hat for a teeny tiny fairy.
+ITEM_20180525_018527	Pink Teeny Hat
+ITEM_20180525_018528	A teeny tiny pink hat for a teeny tiny fairy.
+ITEM_20180525_018529	Golden Fairy Wings
+ITEM_20180525_018530	A pair of wings for a golden fairy. Unfortunately, they don't let you fly.{nl} Can be exchanged for medals.
+ITEM_20180525_018531	Dawn Fairy Wings
+ITEM_20180525_018532	A pair of wings for a dawn fairy. Unfortunately, they don't let you fly.{nl} Can be exchanged for medals.
+ITEM_20180525_018533	Teeny Fairy Wings
+ITEM_20180525_018534	A pair of wings for a teeny fairy. Unfortunately, they don't let you fly.{nl} Can be exchanged for medals.
+ITEM_20180525_018535	Nutritional grains for birds. Fully restores your bird Companion's HP, plus +15 Stamina.{nl}Good for:{nl} - Battlebird {nl} - Fairy Cardinal
+ITEM_20180525_018536	Fairy Wedding Cube x10 + 1
+ITEM_20180525_018537	Fairy Wedding Cube
+ITEM_20180525_018538	Golden Fairy Wedding Costume Selection Box
+ITEM_20180525_018539	Use and select one item from the following.{nl} - Golden Fairy Wedding Costume (Male){nl} - Golden Fairy Wedding Costume (Female)
+ITEM_20180525_018540	Dawn Fairy Wedding Costume Selection Box
+ITEM_20180525_018541	Use and select one item from the following.{nl} - Dawn Fairy Wedding Costume (Male){nl} - Dawn Fairy Wedding Costume (Female)
+ITEM_20180525_018542	Teeny Fairy Wedding Costume Selection Box
+ITEM_20180525_018543	Use and select one item from the following.{nl} - Teeny Fairy Wedding Costume (Male){nl} - Teeny Fairy Wedding Costume (Female)
+ITEM_20180525_018544	Fairy Cardinal Egg
+ITEM_20180525_018545	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without a riding skill.{nl}This companion increases the character's additional Fire property attack.{nl}- Can be exchanged for medals at the Exchange Shop.
+ITEM_20180525_018546	Fairy Wedding Popup Book
+ITEM_20180525_018547	Golden Fairy Lira
+ITEM_20180525_018548	This lira is said to produce beautiful tones that almost sound golden. It can be very hard to play, however, so we advise that you only pose with it.
+ITEM_20180525_018549	Dawn Fairy Lira
+ITEM_20180525_018550	Early in the day is when this lira sounds the most magical. It can be very hard to play, however, so we advise that you only pose with it.
+ITEM_20180525_018551	Teeny Fairy Trumpet
+ITEM_20180525_018552	This is the style of trumpet most often played by little fairies. Give it a try!
+ITEM_20180525_018553	Rose of Love
+ITEM_20180525_018554	Profess your innocent love with a timeless pink rose.
+ITEM_20180615_018555	Captain Armband
+ITEM_20180615_018556	Armband worn by the captain of a soccer team.
+ITEM_20180615_018557	Supporters Armband
+ITEM_20180615_018558	Armband worn by supporters of a soccer team.
+ITEM_20180615_018559	Klaipeda Capricorns Uniform (Male)
+ITEM_20180615_018560	Official uniform of the Klaipeda Unicorns team. Use to change your appearance.
+ITEM_20180615_018561	Klaipeda Capricorns Uniform (Female)
+ITEM_20180615_018562	Orsha Lions Uniform (Male)
+ITEM_20180615_018563	Official uniform of the Orsha Lions team. Use to change your appearance.
+ITEM_20180615_018564	Orsha Lions Uniform (Female)
+ITEM_20180615_018565	Whistle Referee Costume (Male)
+ITEM_20180615_018566	Out on the field, the last word is yours! Use to change your appearance. 
+ITEM_20180615_018567	Whistle Referee Costume (Female)
+ITEM_20180615_018568	Orsha Supporters Uniform (Male)
+ITEM_20180615_018569	Go, Lions! Use to change your appearance.
+ITEM_20180615_018570	Orsha Supporters Uniform (Female)
+ITEM_20180615_018571	Klaipeda Supporters Uniform (Male)
+ITEM_20180615_018572	Go, Unicorns! Use to change your appearance.
+ITEM_20180615_018573	Klaipeda Supporters Uniform (Female)
+ITEM_20180615_018574	Soccer Fan Headband
+ITEM_20180615_018575	Prove that you're a real soccer fan with these massive soccer ball antenna!
+ITEM_20180615_018576	Supporters Vuvuzela
+ITEM_20180615_018577	2018 Kickoff Popup Book
+ITEM_20180615_018578	2018 Kickoff Soccer Ball
+ITEM_20180615_018579	Maybe you're not the best soccer player out there, but you can at least look like it.
+ITEM_20180615_018580	Ultimate Ace Trophy
+ITEM_20180615_018581	Now you know what it feels like to win.
+ITEM_20180615_018582	Orsha Lions Support Banner
+ITEM_20180615_018583	Let the Lions know who's rooting for them!
+ITEM_20180615_018584	Klaipeda Capricorns Support Banner
+ITEM_20180615_018585	Let the Capricorns know who's rooting for them!
+ITEM_20180615_018586	2018 Kickoff Yellow Card
+ITEM_20180615_018587	PREEEEEET! Yellow card! This is your warning.
+ITEM_20180615_018588	2018 Kickoff Red Card
+ITEM_20180615_018589	PREEEEEET! Red card! Out of the field! (Note: This doesn't actually let you expel other folks.)
+ITEM_20180623_018590	Hat Trick Clue
+ITEM_20180623_018591	Use this item to guess a number in the Hat Trick Quiz event. Will be deleted at the end of the event period.
+ITEM_20180623_018592	Title - Klaipeda Capricorns Supporter
+ITEM_20180623_018593	A title for soccer supporters.{nl}This box will be deleted at the end of the event period.
+ITEM_20180623_018594	Title - Orsha Lions Supporter
+ITEM_20180629_018595	Guild Lovers Armband
+ITEM_20180629_018596	An armband created to remember that guilds make TOS. 
+ITEM_20180629_018597	Wig [Male]
+ITEM_20180629_018598	Retro Layered
+ITEM_20180629_018599	Changes your appearance. Does not apply wig dye color.
+ITEM_20180629_018600	Bunny Boy
+ITEM_20180629_018601	Two-tone Dandy Cut
+ITEM_20180629_018602	Noble Wave Ponytail 
+ITEM_20180629_018603	Lamb Towel Hat (Male)
+ITEM_20180629_018604	Wig [Female]
+ITEM_20180629_018605	Equip to change your appearance.
+ITEM_20180629_018606	Romantic Bun
+ITEM_20180629_018607	Goth Loli
+ITEM_20180629_018608	Side Ponytail
+ITEM_20180629_018609	Choppy Bangs
+ITEM_20180629_018610	Lamb Towel Hat (Female)
+ITEM_20180629_018611	An outfit given to beginners who show some level of talent during training. These Pied Pipers are at least able to influence and capture animals. Of course, this outfit also commemorates a special moment for Pied Pipers. 
+ITEM_20180629_018612	Pied Piper Special Costume
+ITEM_20180629_018613	Pied Piper Meinung Costume
+ITEM_20180629_018614	As a Pied Piper, influencing minds is an important task. Those who have mastered this art are more than qualified to wear this costume.
+ITEM_20180629_018615	Pied Piper Meinung Special Costume
+ITEM_20180629_018616	Pied Piper Candy-Blower Costume
+ITEM_20180629_018617	An outfit that makes reference to a very famous scene in Pied Piper lore. It is said that the Pied Piper enticed the children with candy and persuaded them to follow along.
+ITEM_20180629_018618	Pied Piper Candy-Blower Special Costume
+ITEM_20180629_018619	Pied Piper Bergefuehrender Costume
+ITEM_20180629_018620	It is said that truly legendary Pied Pipers can move even mountains to dance and follow along. There has yet to be such a person, but Pied Pipers with extraordinary skills are handed down this outfit.
+ITEM_20180629_018621	Pied Piper Bergefuehrender Special Costume
+ITEM_20180629_018622	Pied Piper Bergefuehrender Costume (Male)
+ITEM_20180629_018623	Pied Piper Bergefuehrender Costume (Female)
+ITEM_20180629_018624	Exorcist Costume
+ITEM_20180629_018625	Exorciser is a term describing a beginner Exorcist. It used to refer to a shaman before the establishment of the Kingdom and now it is embroidered on the garments of the Exorcists.
+ITEM_20180629_018626	Costume Special Costume
+ITEM_20180629_018627	Exorcist Soul Binder Costume
+ITEM_20180629_018628	On becoming an Exorcist of the highest expertise, one learns that the true meaning of the term Exorcist is "The Oath of the Soul Binder". This costume is bestowed upon those who have learned this true meaning.
+ITEM_20180629_018629	Exorcist Soul Binder Special Costume
+ITEM_20180629_018630	Exorcist Rubric Costume
+ITEM_20180629_018631	The scrolls of rituals used during an exorcism are written in crimson ink. The design of this costume was inspired by the color of the exorcism scrolls.
+ITEM_20180629_018632	Exorcist Rubric Special Costume
+ITEM_20180629_018633	Exorcist Concordat Costume
+ITEM_20180629_018634	A long time ago, the Royal Family granted Exorcists judicial power when a possession was identified to be genuine. This costume was created in celebration of that moment in history and the Exorcist Master who mediated such an outcome. Only those wearing this costume will be granted judicial power by law.
+ITEM_20180629_018635	Exorcist Concordat Special Costume
+ITEM_20180629_018636	Exorcist Concordat Costume (Male)
+ITEM_20180629_018637	Exorcist Concordat Costume (Female)
+ITEM_20180629_018638	Highlander Special Costume (Male)
+ITEM_20180629_018639	Changes your appearance and effects when equipped.{nl}- Changes Skyliner visual effects.
+ITEM_20180629_018640	Highlander Special Costume (Female)
+ITEM_20180629_018641	Swordsman Special Costume (Male)
+ITEM_20180629_018642	Changes your appearance and effects when equipped.{nl}- Changes Restrain visual effects.
+ITEM_20180629_018643	Swordsman Special Costume (Female)
+ITEM_20180629_018644	Wizard Special Costume (Male)
+ITEM_20180629_018645	Changes your appearance and effects when equipped.{nl}- Changes Magic Missile visual effects.
+ITEM_20180629_018646	Wizard Special Costume (Female)
+ITEM_20180629_018647	Pyromancer Special Costume (Male)
+ITEM_20180629_018648	Changes your appearance and effects when equipped.{nl}- Changes Fire Pillar visual effects.
+ITEM_20180629_018649	Pyromancer Special Costume (Female)
+ITEM_20180629_018650	Psychokino Special Costume (Male)
+ITEM_20180629_018651	Changes your appearance and effects when equipped.{nl}- Changes Psychic Pressure visual effects.
+ITEM_20180629_018652	Psychokino Special Costume (Female)
+ITEM_20180629_018653	Archer Special Costume (Male)
+ITEM_20180629_018654	Changes your appearance and effects when equipped.{nl}- Changes Multi Shot visual effects.
+ITEM_20180629_018655	Archer Special Costume (Female)
+ITEM_20180629_018656	Quarrel Shooter Special Costume (Male)
+ITEM_20180629_018657	Changes your appearance and effects when equipped.{nl}- Changes Running Shot visual effects.
+ITEM_20180629_018658	Quarrel Shooter Special Costume (Female)
+ITEM_20180629_018659	Ranger Special Costume (Male)
+ITEM_20180629_018660	Changes your appearance and effects when equipped.{nl}- Changes Barrage visual effects.
+ITEM_20180629_018661	Ranger Special Costume (Female)
+ITEM_20180629_018662	Priest Special Costume (Male)
+ITEM_20180629_018663	Changes your appearance and effects when equipped.{nl}- Changes Mass Heal visual effects.
+ITEM_20180629_018664	Priest Special Costume (Female)
+ITEM_20180629_018665	Dievdirbys Special Costume (Male)
+ITEM_20180629_018666	Changes your appearance and effects when equipped.{nl}- Changes Goddess Statue skills' visual effects.
+ITEM_20180629_018667	Dievdirbys Special Costume (Female)
+ITEM_20180629_018668	Monk Special Costume (Male)
+ITEM_20180629_018669	Changes your appearance and effects when equipped.{nl}- Changes Double Punch visual effects.
+ITEM_20180629_018670	Monk Special Costume (Female)
+ITEM_20180629_018671	Cleric Special Costume (Male)
+ITEM_20180629_018672	Changes your appearance and effects when equipped.{nl}- Changes Heal visual effects.
+ITEM_20180629_018673	Cleric Special Costume (Female)
+ITEM_20180629_018674	Deathweaver Cutter (30 Days)
+ITEM_20180629_018675	Deathweaver (30 Days)
+ITEM_20180629_018676	Deathweaver Rod (30 Days)
+ITEM_20180629_018677	Melinas Staff (30 Days)
+ITEM_20180629_018678	Deathweaver Bow (30 Days)
+ITEM_20180629_018679	Deathweaver Crossbow (30 Days)
+ITEM_20180629_018680	Vubbe Morning Star (30 Days)
+ITEM_20180629_018681	Vubbe Armor (30 Days)
+ITEM_20180629_018682	Vubbe Pants (30 Days)
+ITEM_20180629_018683	Cheminis Sword (30 Days)
+ITEM_20180629_018684	Chapparition Two-handed Sword (30 Days)
+ITEM_20180629_018685	Chapparition Rod (30 Days)
+ITEM_20180629_018686	Patrice Staff (30 Days)
+ITEM_20180629_018687	Chapparition Bow (30 Days)
+ITEM_20180629_018688	Chapparition Shooter (30 Days)
+ITEM_20180629_018689	Chapparition Mace (30 Days)
+ITEM_20180629_018690	Silver Spear (30 Days)
+ITEM_20180629_018691	Cheminis Pike (30 Days)
+ITEM_20180629_018692	Mark Tunic (30 Days)
+ITEM_20180629_018693	Mark Pants (30 Days)
+ITEM_20180629_018694	Durandal (30 Days)
+ITEM_20180629_018695	Flamini (30 Days)
+ITEM_20180629_018696	Secretum (30 Days)
+ITEM_20180629_018697	Candle Staff (30 Days)
+ITEM_20180629_018698	Heart Seeker (30 Days)
+ITEM_20180629_018699	Shooting Star (30 Days)
+ITEM_20180629_018700	Escanciu Mace (30 Days)
+ITEM_20180629_018701	Doom Spear (30 Days)
+ITEM_20180629_018702	Laideca (30 Days)
+ITEM_20180629_018703	Brigandine Armor (30 Days)
+ITEM_20180629_018704	Brigandine Pants (30 Days)
+ITEM_20180629_018705	Belnium (30 Days)
+ITEM_20180629_018706	Tily Two-handed Sword (30 Days)
+ITEM_20180629_018707	Temere (30 Days)
+ITEM_20180629_018708	Sunflower (30 Days)
+ITEM_20180629_018709	Wilding Bane (30 Days)
+ITEM_20180629_018710	Seimos Crossbow (30 Days)
+ITEM_20180629_018711	Seimos Mace (30 Days)
+ITEM_20180629_018712	Seimos Spear (30 Days)
+ITEM_20180629_018713	Seimos Pike (30 Days)
+ITEM_20180629_018714	Hunting Armor (30 Days)
+ITEM_20180629_018715	Hunting Pants (30 Days)
+ITEM_20180629_018716	Flame (30 Days)
+ITEM_20180629_018717	Hell and Heaven (30 Days)
+ITEM_20180629_018718	Casti Rod (30 Days)
+ITEM_20180629_018719	Maledoom (30 Days)
+ITEM_20180629_018720	Casti Bow (30 Days)
+ITEM_20180629_018721	Karacha Crossbow (30 Days)
+ITEM_20180629_018722	Drake Tail (30 Days)
+ITEM_20180629_018723	Casti Spear (30 Days)
+ITEM_20180629_018724	Magas Pike (30 Days)
+ITEM_20180629_018725	Duelist (30 Days)
+ITEM_20180629_018726	Veteran Tunic (30 Days)
+ITEM_20180629_018727	Veteran Pants (30 Days)
+ITEM_20180629_018728	Pensara Sword (30 Days)
+ITEM_20180629_018729	Pensara Two-handed Sword (30 Days)
+ITEM_20180629_018730	Pensara Rod (30 Days)
+ITEM_20180629_018731	Power Staff (30 Days)
+ITEM_20180629_018732	Marksman (30 Days)
+ITEM_20180629_018733	Didel Grand Cross (30 Days)
+ITEM_20180629_018734	Pensara Mace (30 Days)
+ITEM_20180629_018735	Pensara Spear (30 Days)
+ITEM_20180629_018736	Pensara Pike (30 Days)
+ITEM_20180629_018737	Spada (30 Days)
+ITEM_20180629_018738	Finisher (30 Days)
+ITEM_20180629_018739	Bandit Armor (30 Days)
+ITEM_20180629_018740	Bandit Pants (30 Days)
+ITEM_20180629_018741	Primus Migantis Sword (30 Days)
+ITEM_20180629_018742	Primus Migantis Two-handed Sword (30 Days)
+ITEM_20180629_018743	Primus Migantis Rod (30 Days)
+ITEM_20180629_018744	Primus Migantis Bow (30 Days)
+ITEM_20180629_018745	Primus Migantis Crossbow (30 Days)
+ITEM_20180629_018746	Primus Migantis Mace (30 Days)
+ITEM_20180629_018747	Primus Migantis Two-handed Mace (30 Days)
+ITEM_20180629_018748	Primus Migantis Spear (30 Days)
+ITEM_20180629_018749	Primus Migantis Pike (30 Days)
+ITEM_20180629_018750	Primus Migantis Staff (30 Days)
+ITEM_20180629_018751	Primus Migantis Pistol (30 Days)
+ITEM_20180629_018752	Primus Migantis Rapier (30 Days)
+ITEM_20180629_018753	Primus Migantis Cannon (30 Days)
+ITEM_20180629_018754	Primus Migantis Musket (30 Days)
+ITEM_20180629_018755	Primus Albinosas Leather Armor (30 Days)
+ITEM_20180629_018756	Primus Albinosas Leather Pants (30 Days)
+ITEM_20180629_018757	Primus Pevordimas Sword (30 Days)
+ITEM_20180629_018758	Primus Pevordimas Two-handed Sword (30 Days)
+ITEM_20180629_018759	Primus Pevordimas Rod (30 Days)
+ITEM_20180629_018760	Primus Pevordimas Bow (30 Days)
+ITEM_20180629_018761	Primus Pevordimas Crossbow (30 Days)
+ITEM_20180629_018762	Primus Pevordimas Mace (30 Days)
+ITEM_20180629_018763	Primus Pevordimas Two-handed Mace (30 Days)
+ITEM_20180629_018764	Primus Pevordimas Spear (30 Days)
+ITEM_20180629_018765	Primus Pevordimas Pike (30 Days)
+ITEM_20180629_018766	Primus Pevordimas Staff (30 Days)
+ITEM_20180629_018767	Primus Pevordimas Pistol (30 Days)
+ITEM_20180629_018768	Primus Pevordimas Rapier (30 Days)
+ITEM_20180629_018769	Primus Pevordimas Cannon (30 Days)
+ITEM_20180629_018770	Primus Pevordimas Musket (30 Days)
+ITEM_20180629_018771	Primus Kaulas Leather Armor (30 Days)
+ITEM_20180629_018772	Primus Kaulas Leather Pants (30 Days)
+ITEM_20180629_018773	Berthas Raffye Sword 
+ITEM_20180629_018774	Berthas Raffye Two-handed Sword
+ITEM_20180629_018775	Berthas Raffye Rod
+ITEM_20180629_018776	Berthas Raffye Bow
+ITEM_20180629_018777	Berthas Raffye Crossbow
+ITEM_20180629_018778	Berthas Raffye Mace
+ITEM_20180629_018779	Berthas Raffye Two-handed Mace
+ITEM_20180629_018780	Berthas Raffye Shield 
+ITEM_20180629_018781	- Final Block Rate {img green_up_arrow 16 16}2%
+ITEM_20180629_018782	Berthas Raffye Spear 
+ITEM_20180629_018783	Berthas Raffye Pike 
+ITEM_20180629_018784	Berthas Raffye Dagger
+ITEM_20180629_018785	Berthas Raffye Staff
+ITEM_20180629_018786	Berthas Raffye Pistol
+ITEM_20180629_018787	Berthas Raffye Rapier
+ITEM_20180629_018788	Berthas Raffye Cannon
+ITEM_20180629_018789	Berthas Raffye Musket 
+ITEM_20180629_018790	You've been gifted Teeny Fairy wings. Sadly, these won't help you fly.{nl} Can be exchanged for medals.
+ITEM_20180629_018791	Vertex Beacon
+ITEM_20180629_018792	[Exorcist Special Costume]
+ITEM_20180629_018793	This item is a symbol of the Exorcist's faith. Those who carry the beacon on their backs have vowed to shine their light on the world even if they end up crucified. Story is told of a famous Exorcist who destroyed all demons within the vicinity of the beacon by allowing himself to be crucified. But, of course, there are few demons who will equal in power to an Exorcist who carries the beacon on their back.
+ITEM_20180629_018794	The Blessings of Terpsichora
+ITEM_20180629_018795	[Pied Piper Special Costume]
+ITEM_20180629_018796	This costume is given to those who have honored the Piped Piper name with exceptional bursts of creativity. Those who wear the costume become the envy of other Pied Pipers and bards alike.
+ITEM_20180629_018797	Half Lycanthropy
+ITEM_20180629_018798	Half Lycanthropy - Exclusive Hair
+ITEM_20180629_018799	Half Lycanthropy (M)
+ITEM_20180629_018800	Half Lycanthropy (F)
+ITEM_20180629_018801	Healthy food for your Penguin. Restores all of the HP and +15 Stamina.{nl}Good for:{nl} - Penguin{nl} - Pengmarine{nl} - Winter Penguin{nl} - Leaf Penguin
+ITEM_20180629_018802	Dimensional Incense Burner
+ITEM_20180629_018803	The Oracle Master built many gadgets in order to release the life force of monsters that accumulated over time in the Other Dimension, of which the Dimensional Incense Burner is one.{nl} {nl}Using the Dimensional Incense Burner will grant you and those around you many beneficial effects.
+ITEM_20180629_018804	Dimensional Potion
+ITEM_20180629_018805	Restores 1234 HP and 617 SP every 2 seconds. {nl}224 HP and SP are restored over 15 seconds. {nl}Right-click to use. Cooldown 100 seconds.
+ITEM_20180629_018806	Uphill Defense Shop Points: 10
+ITEM_20180629_018807	Use to gain 10 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.
+ITEM_20180629_018808	Hidden Class Unlock Voucher Box {nl} List of Unlockable Classes {nl} - Shinobi Unlock Voucher {nl} - Miko Unlock Voucher {nl} - Rune Caster Unlock Voucher {nl} - Appraiser Unlock Voucher {nl} - Nak Muay Unlock Voucher
+ITEM_20180629_018809	Lv 350 Berthas Armor Selection Box
+ITEM_20180629_018810	Select one Lv 350 Berthas armor. Right-click to use.{nl}You cannot change your item once chosen.{nl}This box will be removed at the end of the event period.
+ITEM_20180629_018811	Lv 350 Primus Armor Selection Box
+ITEM_20180629_018812	Select one Lv 350 Primus armor. Right-click to use.{nl}You cannot change your item once chosen.{nl}This box will be removed at the end of the event period.
+ITEM_20180629_018813	Lv 350 Berthas Weapon Selection Box
+ITEM_20180629_018814	Select one Lv 350 Berthas weapon. Right-click to use.{nl}You cannot change your item once chosen.{nl}This box will be removed at the end of the event period.
+ITEM_20180629_018815	Lv 350 Primus Weapon Selection Box
+ITEM_20180629_018816	Select one Lv 350 Primus weapon. Right-click to use.{nl}You cannot change your item once chosen.{nl}This box will be removed at the end of the event period.
+ITEM_20180629_018817	(Old) Attok Box of Materials
+ITEM_20180629_018818	Tool used in the extraction of Ichors. Can be purchased from Teliavelis.
+ITEM_20180629_018819	Silver Ichor Extraction Kit
+ITEM_20180629_018820	Tool used in the extraction of Ichors. It does not require consumables.
+ITEM_20180629_018821	[Card Equip Effect] [{img star_mark 20 20}/2]% chance per attack of applying Frostbite to enemies for 4 sec{nl}(Does not apply to boss monsters.)
+ITEM_20180629_018822	[Card Equip Effect] Attack property penalties reduced by [{img star_mark 20 20} * 10]%. 
+ITEM_20180629_018823	Bodkin Point Arrow
+ITEM_20180629_018824	It is a small rock.
+ITEM_20180629_018825	6-Star Gem Abrasive
+ITEM_20180629_018826	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 57900
+ITEM_20180629_018827	Torture Tools
+ITEM_20180629_018828	A box full of various torture tools.
+ITEM_20180629_018829	Trap Kit
+ITEM_20180629_018830	A kit containing materials used in setting traps.
+ITEM_20180629_018831	Sculpting Wood
+ITEM_20180629_018832	A bundle of wood for sculpting.
+ITEM_20180629_018833	Awakening Powder
+ITEM_20180629_018834	Used for awakening items.
+ITEM_20180629_018835	Gray Lesser Panda Box
+ITEM_20180629_018836	Maybe you're not the best soccer player out there, but you can at least look like it.{nl} Can be exchanged for medals at the Exchange Shop.
+ITEM_20180629_018837	PREEEEEET! Yellow card! This is your warning.{nl} Can be exchanged for medals at the Exchange Shop.
+ITEM_20180629_018838	PREEEEEET! Red card! Out of the field! (Note: This doesn't actually let you expel other folks.){nl} Can be exchanged for medals at the Exchange Shop.
+ITEM_20180629_018839	Goddess Sculpture
+ITEM_20180629_018840	A Goddess Statue will be created that gives the Goddess' Blessing buff for 5 minutes. {nl}This item will be removed at the end of the event period.
+ITEM_20180629_018841	5-Star Gem Abrasive
+ITEM_20180629_018842	Item used for enhancing gems that drastically increases the EXP of gems.{nl} - Gem EXP gained: 14700{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018843	Instanced Dungeon One Entry Voucher
+ITEM_20180629_018844	Use this to enter an instanced dungeons or redo a mercenary mission once more.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018845	Instanced Dungeon Reset Voucher
+ITEM_20180629_018846	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018847	Level Up Chest (Lv 15)
+ITEM_20180629_018848	Right-click to use. This item can be used by players above level 15.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018849	Level Up Chest (Lv 40)
+ITEM_20180629_018850	Right-click to use. This item can be used by players above level 40.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018851	Level Up Chest (Lv 50)
+ITEM_20180629_018852	Right-click to use. This item can be used by players of level 50 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018853	Level Up Chest (Lv 75)
+ITEM_20180629_018854	Right-click to use. This item can be used by players of level 75 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018855	Level Up Chest (Lv 85)
+ITEM_20180629_018856	Right-click to use. This item can be used by players of level 85 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018857	Level Up Chest (Lv 100)
+ITEM_20180629_018858	Right-click to use. This item can be used by players of level 100 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018859	Level Up Chest (Lv 120)
+ITEM_20180629_018860	Right-click to use. This item can be used by players of level 120 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018861	Level Up Chest (Lv 140)
+ITEM_20180629_018862	Right-click to use. This item can be used by players of level 140 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018863	Level Up Chest (Lv 170)
+ITEM_20180629_018864	Right-click to use. This item can be used by players of level 170 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018865	Level Up Chest (Lv 180)
+ITEM_20180629_018866	Right-click to use. This item can be used by players of level 180 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018867	Level Up Chest (Lv 200)
+ITEM_20180629_018868	Right-click to use. This item can be used by players of level 200 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018869	Level Up Chest (Lv 220)
+ITEM_20180629_018870	Right-click to use. This item can be used by players of level 220 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018871	Level Up Chest (Lv 230)
+ITEM_20180629_018872	Right-click to use. This item can be used by players of level 230 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018873	Level Up Chest (Lv 270)
+ITEM_20180629_018874	Right-click to use. This item can be used by players of level 270 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018875	Level Up Chest (Lv 300)
+ITEM_20180629_018876	Right-click to use. This item can be used by players of level 300 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018877	Level Up Chest (Lv 330)
+ITEM_20180629_018878	Right-click to use. This item can be used by players of level 330 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018879	Shining Golden Anvil
+ITEM_20180629_018880	This item can only be used on equipment with 0 Potential. The item will not be destroyed if an enhancement attempt fails, but its enhancement level will be reduced by 1. When you fail with an item enhanced to +12 or higher, the enhancement level will be reduced to +10. Right-click to use.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018881	Miracle Seeds
+ITEM_20180629_018882	A sprout gifted by the Goddess' Blessing will grow when used.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018883	Level Up Chest (Lv 350)
+ITEM_20180629_018884	Right-click to use. This item can be used by players of level 350 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018885	Jumping Package Box
+ITEM_20180629_018886	Daily Attribute Point Box
+ITEM_20180629_018887	Right-click to use. You will gain 500 attribute points every day during the event period.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018888	Title - Ultimate Savior
+ITEM_20180629_018889	Use to obtain the event title. This item will be removed at the end of the event period.
+ITEM_20180629_018890	Weapon Exchange Voucher
+ITEM_20180629_018891	Uska will exchange this voucher for a Rare Lv 350 weapon enhanced to +11 and transcended to Stage 5.{nl}The voucher will be removed at the end of the event period.
+ITEM_20180629_018892	Title - Receiver of the Revelations
+ITEM_20180629_018893	Contains a title awarded for participating in Uska's event. This item will be removed at the end of the event period.
+ITEM_20180629_018894	Retiarius Ruidarius Costume Box
+ITEM_20180629_018895	Lost Invitation Fragment
+ITEM_20180629_018896	Used in the May Wedding Bouquet event. This item will be removed at the end of the event period.
+ITEM_20180629_018897	Barbershop Chair
+ITEM_20180629_018898	Item received through the Beauty Shop event.{nl}Using this item will summon a barbershop chair that you can sit on.
+ITEM_20180629_018899	Firecrackers
+ITEM_20180629_018900	Movement speed +4, AoE attack ratio +1, EXP gains +25% for all party members for a duration of 30 minutes.
+ITEM_20180629_018901	Pied Piper Master's Bergefuehrender Costume Box
+ITEM_20180629_018902	Box containing a Pied Piper costume.{nl}You must advance to the Piped Piper class to use this item.{nl}The costume obtained from this box cannot be stored in your Team Storage. 
+ITEM_20180629_018903	Exorcist Concordat Costume Box
+ITEM_20180629_018904	Box containing an Exorcist Concordat Costume.{nl}You must advance to the Exorcist class to use this item.{nl}The costume obtained from this box cannot be stored in your Team Storage.
+ITEM_20180629_018905	Symbol of Unity
+ITEM_20180629_018906	When in a party, you must equip the  
+ITEM_20180629_018907	  title to use the item. Movement speed +2 and increased EXP gains for all party members for the duration of 30 minutes.{nl}The item will be removed after the event period.
+ITEM_20180629_018908	Title - New Friend
+ITEM_20180629_018909	Title awarded for participating in the Let's Be Partners event.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018910	Guild Lv 4 EXP Card
+ITEM_20180629_018911	This item can only be used with a Lv 1 Guild. The Guild level will be increased to 4.
+ITEM_20180629_018912	Symbol of Guild Membership
+ITEM_20180629_018913	Gives movement speed +1 and Looting Chance +200 for the duration of 30 minutes.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018914	Title - Love My Guild
+ITEM_20180629_018915	Contains a title awarded for participating in the Guilds Make TOS event.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018916	Penalty Shoot-Out
+ITEM_20180629_018917	Lena's Thank You Cube
+ITEM_20180629_018918	Contains items awarded for participating in the Secret Stone Plate Message event.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018919	Stone Plate Collector
+ITEM_20180629_018920	Contains a title awarded for participating in the Secret Stone Plate Message event.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018921	Fairy Costume Box
+ITEM_20180629_018922	Contains a Fairy Costume. Right-click to use.
+ITEM_20180629_018923	Hat Trick Clue
+ITEM_20180629_018924	Use this item to guess a number in the Hat Trick Quiz event. Will be deleted at the end of the event period.
+ITEM_20180629_018925	Title - Big Scorer
+ITEM_20180629_018926	Contains a title awarded for participating in the 3 vs 3 Soccer League event. This item will be removed at the end of the event period.
+ITEM_20180629_018927	Book given by the Exorcist Master. It contains information about the history of the Exorcists.
+ITEM_20180629_018928	Cure
+ITEM_20180629_018929	A cure for the soldiers in Dvaisa Ridge.
+ITEM_20180629_018930	A cure created from the recipe given by the Plague Doctor Master.
+ITEM_20180629_018931	Prayer Book
+ITEM_20180629_018932	A Prayer Book given by the Exorcist Master. It contains passages of the Exorcists' prayers.
+ITEM_20180629_018933	Topaz Fragment
+ITEM_20180629_018934	Quest Item.
+ITEM_20180629_018935	A yellow gemstone. It is said to contain the power to banish demons.
+ITEM_20180629_018936	Blessed Goddess Statue
+ITEM_20180629_018937	Goddess Statue sculpted by Tesla the Sculptor.
+ITEM_20180629_018938	Krivis Master's Certificate of Approval
+ITEM_20180629_018939	A document proving your worth to become an Exorcist as issued by the Krivis Master.
+ITEM_20180629_018940	Cleric Master's Certificate of Approval
+ITEM_20180629_018941	A document proving your worth to become an Exorcist as issued by the Cleric Master.
+ITEM_20180629_018942	Inquisitor Master's Certificate of Approval
+ITEM_20180629_018943	A document proving your worth to become an Exorcist as issued by the Inquisitor Master.
+ITEM_20180629_018944	Exorcist Master's Note
+ITEM_20180629_018945	A parchment containing the steps to becoming an Exorcist given by the Exorcist Master.
+ITEM_20180629_018946	The note contains the items required for performing an exorcism. But it does not mention the order in which to use them.
+ITEM_20180629_018947	Prayer Book
+ITEM_20180629_018948	Use the Prayer Book to banish the Blue Velwriggler.
+ITEM_20180629_018949	Use the Prayer Book to banish the Red Apparition.
+ITEM_20180629_018950	Use the Prayer Book to banish the Green Apparition.
+ITEM_20180629_018951	Use the Prayer Book to banish the evil Hallowventer.
+ITEM_20180629_018952	Sack
+ITEM_20180629_018953	Guild Quest Item
+ITEM_20180629_018954	When given the sacks, Waltas will make bombs and Nagles will build defensive systems. It can also be used to repair damaged boxes or buildings. Use the sacks to load the ballista and turrets with missiles.
+ITEM_20180629_018955	A bomb made by Waltas. Used to destroy solid objects.
+ITEM_20180629_018956	Ballista made by Nagles. Used in defending the shelter from monsters.
+ITEM_20180629_018957	Turret made by Nagles. Used in defending the shelter from monsters.
+ITEM_20180629_018958	Defensive system made by Nagles. Used in defending the shelter from monsters.
+ITEM_20180629_018959	Orb of Guidance
+ITEM_20180629_018960	An orb that guides you through the steps of the Exorcist test. Use the orb when you are stuck while undertaking the tasks for the Exorcist test.
+ITEM_20180629_018961	A note containing the location of the Pied Piper Master.{nl}The Oracle Master's advice was to write down the list of tasks that you will be given once you meet the Pied Piper Master in this note.
+ITEM_20180629_018962	Perilla
+ITEM_20180629_018963	An ingredient required in the making of the Plague Doctor Master's cure.{nl}It has a distinct fragrance.
+ITEM_20180629_018964	Cure for Mental Illness
+ITEM_20180629_018965	The Plague Doctor Master's cure for mental illness.{nl}The effectiveness of the cure has not yet been tested and its potency is known to reduce over time. 
+ITEM_20180629_018966	Empty Glass Bottle
+ITEM_20180629_018967	Empty glass bottle. Collect the Glowing Blue Sand by using this item in places around Igti Coast.
+ITEM_20180629_018968	Full Glass Bottle
+ITEM_20180629_018969	A glass bottle full of Glowing Blue Sand.
+ITEM_20180629_018970	A special vessel filled with the cure for mental illness.
+ITEM_20180629_018971	A cure for mental illness bottled in a special vessel made by the Chronomancer Master. There is a subdued glow radiating from the vessel.
+ITEM_20180629_018972	Blessed Cure for Mental Illness
+ITEM_20180629_018973	The cure for mental illness blessed by the Priest Master. It is quietly glowing.
+ITEM_20180629_018974	Old Flute
+ITEM_20180629_018975	A flute for training given by the Pied Piper Master.{nl}Use the flute in Branginti Hill on Altar Way.{nl}Cooldown time 3 seconds.
