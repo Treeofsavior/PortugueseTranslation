@@ -996,7 +996,7 @@ UI_20150317_000995	{@St41b}Sair do Jogo{/}
 UI_20150317_000996	{@St59}Sair do Tree of Savior{/}
 UI_20150317_000997	{@st41b}Selecione o Canal{/}
 UI_20150317_000998	{@st43}Entrar{/}
-UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v8.2{/}
+UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v8.3{/}
 UI_20150317_001000	{@St43}{s26}Nome do Time{/}
 UI_20150317_001001	{@st59}Nome do Time{/}
 UI_20150317_001002	{@st41b}Mudar nome do time{/}
@@ -3261,13 +3261,13 @@ UI_20180629_003260	Exchange Stamps
 UI_20180629_003261	※{b}{ol}{#c21917}Stamps are consumed when you exchange them.{/}{/}{/}{nl}Each type of coupon consumes a different number of stamps.
 UI_20180629_003262	{img barbershop_couponbook_stamp 30 30} %s stamps
 UI_20180629_003263	{@st59}Fechar.{/}
-UI_20180629_003264	{@st43}Change Weapon Appearance{/}
+UI_20180629_003264	{@st43}Mudar Visual das Armas{/}
 UI_20180629_003265	{@st66b}Potencial Atual
-UI_20180629_003266	{@st42}Arma de Origem
-UI_20180629_003267	{@st42}Arma Alvo
+UI_20180629_003266	{@st42}Materiais
+UI_20180629_003267	{@st42}Visual para Trocar
 UI_20180629_003268	{@st42}Manter Potencial
 UI_20180629_003269	{img silver 20 20}Preço
-UI_20180629_003270	Se não for marcado, o Potencial do seu item será reduzido.{Nl} Não consome Prata.
+UI_20180629_003270	Se desmarcar, o Potencial do seu item será reduzido.{Nl}E não consome Silver.
 UI_20180629_003271	Por favor registre um núcleo ou uma arma que você deseja manter a aparência.
 UI_20180629_003272	{@st43b}{s20}OK
 UI_20180629_003273	Update message board.
@@ -3299,30 +3299,30 @@ UI_20180629_003298	{@st66b}This Week
 UI_20180629_003299	{@st59}See this week's ranking. Updated every hour.{/}
 UI_20180629_003300	{@st59}Close solo dungeon ranking.{/}
 UI_20180629_003301	Remnants of Bernice Ranking
-UI_20180629_003302	{@st66d}Rewards
+UI_20180629_003302	{@st66d}Prêmios
 UI_20180629_003303	{@st66b}TOP 10 ranking players get {#003997}"Dimensional Incense Burner"{/} items from the previous week's rankings.{nl}Players who participated in the season receive a set of {#003997}"Dimensional Potion"{/} according to their score.{nl} {nl}{s13}Seasons start every Monday at 06:00 (server time).
 UI_20180629_003304	{@st66b}Swordsman
 UI_20180629_003305	{@st66b}Wizard
 UI_20180629_003306	{@st66b}Archer
 UI_20180629_003307	{@st66b}Cleric
 UI_20180629_003308	{@st66d}See Last Week's Rewards
-UI_20180629_003309	Guild Name
-UI_20180629_003310	Class Tree
-UI_20180629_003311	Highest Stage
-UI_20180629_003312	Monster Kills
-UI_20180629_003313	Highest Stage: %s
-UI_20180629_003314	Most Monster Kills: %s
-UI_20180629_003315	Highest Ranking: %s
-UI_20180629_003316	Current Stage: %s
-UI_20180629_003317	Monsters Defeated: %s
-UI_20180629_003318	Current Ranking: %s
-UI_20180629_003319	{@st66b}{s16}All
+UI_20180629_003309	Guild
+UI_20180629_003310	Classe
+UI_20180629_003311	Maior Estágio
+UI_20180629_003312	Monstros Derrotados
+UI_20180629_003313	Maior Estágio: %s
+UI_20180629_003314	Maior Monstros Derrotados: %s
+UI_20180629_003315	Maior Ranking: %s
+UI_20180629_003316	Estágio Atual: %s
+UI_20180629_003317	Monstros Derrotados: %s
+UI_20180629_003318	Rank Atual: %s
+UI_20180629_003319	{@st66b}{s16}Todos
 UI_20180629_003320	{@st66b}{s16}Wizard
 UI_20180629_003321	{@st66b}{s16}Wizard
 UI_20180629_003322	{@st66b}{s16}Archer
 UI_20180629_003323	{@st66b}{s16}Cleric
-UI_20180629_003324	Returning to town soon.
-UI_20180629_003325	{@st42}{s18}{nl}Go Back{nl}
+UI_20180629_003324	Retornando em breve
+UI_20180629_003325	{@st42}{s18}{nl}Sair{nl}
 UI_20180629_003326	Wig Dye
 UI_20180629_003327	Current Qtt
 UI_20180629_003328	Important {img tip_questionmark 20 20}
@@ -3372,9 +3372,9 @@ UI_20180629_003371	{@st66}{nl}Mover Lodge
 UI_20180629_003372	{@st66}{nl}Novo Personagem
 UI_20180629_003373	Não é possível alterar a aparência
 UI_20180629_003374	Basic{/}
-UI_20180629_003375	{#003997}{b}Stage Clear: %s
-UI_20180629_003376	{ol}Add to Cart
+UI_20180629_003375	{#003997}{b}Estágio Completo: %s
+UI_20180629_003376	{ol}Add ao Carro
 UI_20180629_003377	Current Items
-UI_20180629_003378	{@st41b}{S16}%s% Discount Coupon
-UI_20180629_003379	{@st41b}{s16}{nl}Exchange
-UI_20180704_003380	Please register a Weapon Appearance Material or equivalent items.
+UI_20180629_003378	{@st41b}{S16}%s% Cupom de Desconto
+UI_20180629_003379	{@st41b}{s16}{nl}Trocar
+UI_20180704_003380	Por favor registre um Material de Aparência ou itens equivalentes.

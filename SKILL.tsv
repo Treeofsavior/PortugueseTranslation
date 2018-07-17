@@ -9811,7 +9811,7 @@ SKILL_20171128_009810	Additional Damage: +#{CaptionRatio}#{nl}Allies Affected:{#
 SKILL_20171128_009811	Holy property attacks +#{CaptionRatio}#{nl}duration{#E5E5E5}{ol}#{CaptionTime}#{/}{/}seconds{nl}Use 1 Gislotis
 SKILL_20171128_009812	Place a glyph on the ground symbolizing Ogoun Feray, the loa of power. Increases STR and AoE attack ratio of your zombies nearby the glyph.
 SKILL_20171128_009813	Zombie Damage +#{CaptionRatio3}#%{nl}STR: +#{CaptionRatio}#{nl}AoE Attack Ratio: +#{CaptionRatio2}#{nl}Duration:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} seconds{nl}Glyph Duration: 15 seconds
-SKILL_20171128_009814	{#993399}{ol}[Mágico] - [Divine]{/}{/}{nl} When melee attacks on the enemies affected by the particular skill receive additional Holy property damage. Activates while pressing the skill button.
+SKILL_20171128_009814	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl} When melee attacks on the enemies affected by the particular skill receive additional Holy property damage. Activates while pressing the skill button.
 SKILL_20171128_009815	Sanctuary
 SKILL_20171128_009816	Increase the elly's Physical Defense and Magice Defense within range. Also deals additional  Holy Property damage when increase defense
 SKILL_20171128_009817	Physical Defense{#339989}{ol} #{CaptionRatio}#{/}{/} Increase {nl}Magic Defense {#429e8f}{ol}#{CaptionRatio2}#{/}{/} Increase{nl}Duration 10 seconds {nl}Holy Water #{SpendItemCount}#ea Consume{nl}SP per 1 second #{CaptionRatio3}#Consume
@@ -11145,20 +11145,20 @@ SKILL_20180517_011141	Shield Charger
 SKILL_20180517_011142	Build a Shield Charger that grants guild members with a protective Shield Gauge.{nl}A 
 SKILL_20180517_011143	Shield Charger
 SKILL_20180517_011144	Crush
-SKILL_20180517_011145	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Push the spear far to attack. Enemies in Crush state get additional damage.
+SKILL_20180517_011145	{#DD5500}{ol}[Físico] - [Pierce]{/}{/}{nl}Push the spear far to attack. Enemies in Crush state get additional damage.
 SKILL_20180517_011146	Cooldown -#{CaptionTime}# sec{nl}100% evasion when casting Back Slide
 SKILL_20180517_011147	Trident Finish
 SKILL_20180517_011148	Disarm
-SKILL_20180517_011149	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack enemies all around with the rete to deal damage and reduce their physical defense. Affected character targets become momentarily unable to equip a shield.
+SKILL_20180517_011149	{#DD5500}{ol}[Físico] - [Strike]{/}{/}{nl}Attack enemies all around with the rete to deal damage and reduce their physical defense. Affected character targets become momentarily unable to equip a shield.
 SKILL_20180517_011150	Attack #{SkillFactor}#%{nl}Enemy physical defense -#{CaptionRatio}#%{nl}Duration #{CaptionRatio2}# sec
 SKILL_20180517_011151	Dagger Finish
 SKILL_20180517_011152	Attack #{SkillFactor}#% x 5{nl}8 Fire Walls{nl}Duration 15 sec
 SKILL_20180517_011153	Hell Breath
-SKILL_20180517_011154	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Attack by continuously fuming fire towards enemies. Deals continuous flame damage to enemies. Likely to receive additional Fire damage for a while. While casting Hell Breath, you receive melee block effect.
+SKILL_20180517_011154	{#993399}{ol}[Mágico] - [Fire]{/}{/}{nl}Attack by continuously fuming fire towards enemies. Deals continuous flame damage to enemies. Likely to receive additional Fire damage for a while. While casting Hell Breath, you receive melee block effect.
 SKILL_20180517_011155	Ice Pike
 SKILL_20180517_011156	Ice Wall
 SKILL_20180517_011157	Attack #{SkillAtkAdd}#{nl}Ice Wall count #{CaptionRatio}#{nl}{#339999}{ol}[Freeze]{/}{/} Duration 5 sec{nl}Ice Wall duration 15 sec
-SKILL_20180517_011158	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Deals damage to frozen or chilled enemies and enemies near the Ice Wall. Chance of canceling Freeze on affected enemies.
+SKILL_20180517_011158	{#993399}{ol}[Mágico] - [Ice]{/}{/}{nl}Deals damage to frozen or chilled enemies and enemies near the Ice Wall. Chance of canceling Freeze on affected enemies.
 SKILL_20180517_011159	Subzero Shield
 SKILL_20180517_011160	Frost Pillar
 SKILL_20180517_011161	Physical Link
@@ -11172,7 +11172,7 @@ SKILL_20180517_011168	Raise Dead
 SKILL_20180517_011169	Flesh Strike
 SKILL_20180517_011170	Raise Skull Archer
 SKILL_20180517_011171	Kundela Slash
-SKILL_20180517_011172	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon evil spirits from the death of enemies. The summoned spirits remain in the field damaging enemies who come into contact with them. The number of attacks is the same as [Dark Theurge]'s evil spirits.
+SKILL_20180517_011172	{#993399}{ol}[Mágico] - [Dark]{/}{/}{nl}Summon evil spirits from the death of enemies. The summoned spirits remain in the field damaging enemies who come into contact with them. The number of attacks is the same as [Dark Theurge]'s evil spirits.
 SKILL_20180517_011173	Dark Theurge
 SKILL_20180517_011174	Multi Shot
 SKILL_20180517_011175	Full Draw
@@ -11203,7 +11203,7 @@ SKILL_20180517_011199	Attack #{SkillFactor}#%{nl}Knocks down targets using Hangi
 SKILL_20180517_011200	Additional cooldown per skill{nl}Covering Fire +5 sec{nl}Penetration Shot +5 sec{nl}Volleyfire +5 sec{nl}Headshot +10 sec{nl}Birdfall +10 sec{nl}Snipe +10 sec
 SKILL_20180517_011201	Hakka Palle
 SKILL_20180517_011202	Cavalry Charge
-SKILL_20180517_011203	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Charge forward and deal damage to enemies coming in contact. Enemies struck by Cavalry Charge become more vulnerable to critical attacks and their critical resistance is reduced.
+SKILL_20180517_011203	{#DD5500}{ol}[Físico] - [Strike]{/}{/}{nl}Charge forward and deal damage to enemies coming in contact. Enemies struck by Cavalry Charge become more vulnerable to critical attacks and their critical resistance is reduced.
 SKILL_20180517_011204	Silver Bullet
 SKILL_20180517_011205	Bwa Kayiman
 SKILL_20180517_011206	Vashita Siddhi
@@ -11682,7 +11682,7 @@ SKILL_20180517_011678	* Increases the damage dealt on an enemy with [Throw Gu Po
 SKILL_20180517_011679	Throw Gu Pot: Enhance 2
 SKILL_20180517_011680	* Enhances damage of [Throw Gu Pot] to Wugushi Circle 3 standards
 SKILL_20180517_011681	Throw Gu Pot: Residual Poison
-SKILL_20180517_011682	* Maintains [Poison] by 2 seconds per attribute level when enemies move outside the range of [Throw Gu Pot]{nl}* Increases SP consumption by 10%
+SKILL_20180517_011682	* Maintains {img attri_Poison 21 21}Veneno by 2 seconds per attribute level when enemies move outside the range of [Throw Gu Pot]{nl}* Increases SP consumption by 10%
 SKILL_20180517_011683	Wugushi: Two-handed Poison
 SKILL_20180517_011684	* Wugushi skills receive the attack values of your subweapon instead of the main weapon
 SKILL_20180517_011685	Backstab: Enhance
@@ -11795,7 +11795,7 @@ SKILL_20180629_011791	Opens a shop to repair damaged equipment. Items can be rep
 SKILL_20180629_011792	Equipment Maintenance
 SKILL_20180629_011793	Opens a shop to process weapons and armor, momentarily increasing their abilities. In the armor category, you can process top, bottom and shield items only. Shop prices increase when installed in a map with a dungeon.
 SKILL_20180629_011794	[Skill Lv] + [Equip Lv] * [Grade] = attack increase{nl}Attack hits x#{CaptionRatio}#{nl}[Skill Lv] + [[Equip Lv] * [Grade] = defense increase{nl}Attacks received x#{CaptionRatio2}#{nl}Duration 1 hour
-SKILL_20180629_011795	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Vault into the air while swinging your spear upwards. Deals additional damage to flying enemies.
+SKILL_20180629_011795	{#DD5500}{ol}[Físico] - [Slash]{/}{/}{nl}Vault into the air while swinging your spear upwards. Deals additional damage to flying enemies.
 SKILL_20180629_011796	Muay Thai
 SKILL_20180629_011797	Reduces the cooldown of Nak Muay skills (except Muay Thai) by 1 second each. Does not reduce the cooldown of basic attacks.
 SKILL_20180629_011798	Cooldown 10 sec{nl}Max. level 1
@@ -11814,12 +11814,12 @@ SKILL_20180629_011810	Attack #{SkillFactor}#% x no. of hits{nl}Trap duration 15 
 SKILL_20180629_011811	Attack #{SkillFactor}#%{nl}No. of arrows #{CaptionRatio}#{nl}Installation range #{CaptionRatio2}#{nl}Consumes Trap Kit x#{SpendItemCount}#
 SKILL_20180629_011812	Attack per 2 sec #{SkillFactor}#%{nl}{#339999}{ol}[Poisonous Insect]{/}{/} attack #{SkillFactor}#%{nl}{#339999}{ol}[Poisonous Insect]{/}{/} max. #{CaptionRatio}#{nl}{#339999}{ol}[Poisonous Insect]{/}{/} duration 3 sec{nl}Consumes Poison Pot Poison x#{SpendPoison}#
 SKILL_20180629_011813	Applies a new deadly poison to your weapon for the next attack.{nl}Damage increases with STR.
-SKILL_20180629_011814	Zhendu duration #{CaptionTime}# sec{nl}Add. Poison property attack #{CaptionRatio}#{nl}Add. Poison property damage #{CaptionRatio2}#{nl}Consumes Poison Pot Poison x#{SpendPoison}#
+SKILL_20180629_011814	Duração: #{CaptionTime}# seg{nl}Add. Ataque Extra de Veneno: #{CaptionRatio}#{nl}Add. Dano Elemental Veneno: #{CaptionRatio2}#{nl}Consome: x#{SpendPoison} veneno#
 SKILL_20180629_011815	Latent Venom
 SKILL_20180629_011816	{#DD5500}{ol}[Missile: Bow] - [Venom]{/}{/}{nl}Fires a poisonous arrow that deals continuous damage for a long period of time. The stronger the poison, the higher the damage.{nl}
 SKILL_20180629_011817	Attack per sec #{SkillFactor}#%{nl}Attack per sec increase #{CaptionRatio}#%{nl}Duration #{CaptionRatio2}# sec{nl}Consumes Poison Pot Poison x#{SpendPoison}#
 SKILL_20180629_011818	Wide Miasma
-SKILL_20180629_011819	{#DD5500}{ol}[Physical] - [Poison]{/}{/}{nl}Throw a vial of poison to the ground and break it. A toxic cloud forms around the broken vial, poisoning enemies within range.
+SKILL_20180629_011819	{#DD5500}{ol}[Físico] - {img attri_Poison 21 21}Veneno{/}{/}{nl}Throw a vial of poison to the ground and break it. A toxic cloud forms around the broken vial, poisoning enemies within range.
 SKILL_20180629_011820	Attack per sec #{SkillFactor}#%{nl}Toxic cloud duration #{CaptionTime}# sec{nl}Consumes Poison Pot Poison x#{SpendPoison}#
 SKILL_20180629_011821	Crescendo Bane
 SKILL_20180629_011822	Amplifies the toxicity of the poison running through the enemy's veins. The duration of the poison decreases, but the debuff cycle accelerates.
@@ -11841,7 +11841,7 @@ SKILL_20180629_011837	Hypnotische Floete
 SKILL_20180629_011838	Play the flute to hypnotize nearby monsters. Hypnotized monsters will follow your character and become unable to evade or block. Applies only to regular monsters.
 SKILL_20180629_011839	Max. targets #{CaptionRatio}#{nl}Max. duration 10 sec
 SKILL_20180629_011840	Hameln Nagetier
-SKILL_20180629_011841	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}When casting certain Pied Piper skills, summons a mouse and applies the Hameln Nagetier buff. You can have a maximum of 5 mice at any time. After the mice are summoned, you can use the Hameln Nagetier skill again to have the mice attack a designated spot. All mice disappear when the Hameln Nagetier buff is canceled.
+SKILL_20180629_011841	{#DD5500}{ol}[Físico] - [Pierce]{/}{/}{nl}When casting certain Pied Piper skills, summons a mouse and applies the Hameln Nagetier buff. You can have a maximum of 5 mice at any time. After the mice are summoned, you can use the Hameln Nagetier skill again to have the mice attack a designated spot. All mice disappear when the Hameln Nagetier buff is canceled.
 SKILL_20180629_011842	Attack #{SkillFactor}#%{nl}Mouse-summoning skills:{nl}- Dissonanz{nl}- Wiegenlied{nl}- Hypnotische Floete{nl}- Friedenslied{nl}- Marschierendeslied
 SKILL_20180629_011843	Friedenslied
 SKILL_20180629_011844	Play the flute to make allies and enemies dance together for 5 seconds.
@@ -11849,25 +11849,25 @@ SKILL_20180629_011845	Targets #{CaptionRatio}#{nl}Max. duration 5 sec
 SKILL_20180629_011846	Marschierendeslied
 SKILL_20180629_011847	Applies a buff that makes you and your party members immune to knockback and knockdown. The buff count decreases every time you are attacked.
 SKILL_20180629_011848	Block count #{CaptionRatio}#{nl}Duration 60 sec
-SKILL_20180629_011849	Attack #{SkillFactor}#%{nl}Heal factor #{SkillFactor}#%{nl}Magic circle duration #{CaptionTime}# sec{nl}No. of heal circles #{CaptionRatio3}#
-SKILL_20180629_011850	Increases the caster's Healing ability.
-SKILL_20180629_011851	Guardian Saint duration 60 sec{nl}Healing +#{CaptionRatio}#%
-SKILL_20180629_011852	Heal factor #{SkillFactor}#%{nl}Torch duration #{CaptionTime}# sec{nl}Add. Fire property damage per magic attack #{CaptionRatio2}#
+SKILL_20180629_011849	Attack #{SkillFactor}#%{nl}Fator de Cura: #{SkillFactor}#%{nl}Magic circle duration #{CaptionTime}# sec{nl}No. of heal circles #{CaptionRatio3}#
+SKILL_20180629_011850	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Aumenta a sua Taxa de Cura.
+SKILL_20180629_011851	Duração: 60 seg{nl}Taxa de Cura +#{CaptionRatio}#%
+SKILL_20180629_011852	Fator de Cura: #{SkillFactor}#%{nl}Torch duration #{CaptionTime}# sec{nl}Add. Fire property damage per magic attack #{CaptionRatio2}#
 SKILL_20180629_011853	Creates a magic circle that extends the duration of beneficial effects on you and your party members. The amount of time that effects are extended by will not surpass 20 seconds. Does not apply to invincibility effects.
 SKILL_20180629_011854	Duration +#{CaptionRatio2}#%{nl}Consumes Holy Powder x5
-SKILL_20180629_011855	Restores the HP of nearby allies.
-SKILL_20180629_011856	Heal factor #{SkillFactor}#%
+SKILL_20180629_011855	{#db20c0}{ol}[SUPORTE]{/}{/}{nl}Restaura o HP dos aliados próximos.
+SKILL_20180629_011856	Fator de Cura #{SkillFactor}#%
 SKILL_20180629_011857	Max. #{CaptionRatio}# warps{nl}Statue duration 30 sec{nl}Consumes Sculpting Wood x1
 SKILL_20180629_011858	SP -#{CaptionRatio}#{nl}SP recovery shortened by 5 sec{nl}Statue duration #{CaptionRatio2}# sec{nl}Consumes Sculpting Wood x1
 SKILL_20180629_011859	Cooldown -#{CaptionRatio}#%{nl}Movement speed -#{CaptionTime}#{nl}Statue duration #{CaptionRatio2}# sec{nl}Consumes Sculpting Wood x1
 SKILL_20180629_011860	Attack #{SkillFactor}#% x 3 hits{nl}Block count #{CaptionRatio}#{nl}Duration 25 sec{nl}Consumes Sculpting Wood x2
 SKILL_20180629_011861	Statue duration #{CaptionRatio}# sec{nl}Consumes Sculpting Wood x1
 SKILL_20180629_011862	{#339999}{ol}[Blessing of the Goddess]{/}{/} Duration #{CaptionRatio}# sec{nl}Statue duration 30 sec{nl}Consumes Sculpting Wood x1
-SKILL_20180629_011863	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Inflicts Holy property magic damage to enemies all around, with a chance of defeating Mutant or Demon enemies instantly (does not apply to characters or boss monsters).
+SKILL_20180629_011863	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Inflicts Holy property magic damage to enemies all around, with a chance of defeating Mutant or Demon enemies instantly (does not apply to characters or boss monsters).
 SKILL_20180629_011864	Magic defense +#{CaptionRatio}#{nl}Duration #{CaptionTime}# sec{nl}Consumes Holy Water x10
 SKILL_20180629_011865	Open a shop to sell your skills with beneficial effects. Shop prices increase when installed in a map with a dungeon.
-SKILL_20180629_011866	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack an enemy with money collected as offerings. The attack has a 10% chance of defeating enemies instantly (except characters and bosses). The chance of immediate death increases by up to 2 times, depending on your SPR.
-SKILL_20180629_011867	{#993399}{ol}[Magic] - [Poison]{/}{/}{nl}Grass temporarily grows on the targeted area. Monsters within the targeted area become Plant-type monsters. Allies who step on the area receive the Floral Scent buff and have their HP restored. Enemies on the area receive the Rash debuff and continuous damage.
+SKILL_20180629_011866	{#DD5500}{ol}[Físico] - [Strike]{/}{/}{nl}Attack an enemy with money collected as offerings. The attack has a 10% chance of defeating enemies instantly (except characters and bosses). The chance of immediate death increases by up to 2 times, depending on your SPR.
+SKILL_20180629_011867	{#993399}{ol}[Mágico] - {img attri_Poison 21 21}Veneno{/}{/}{nl}Grass temporarily grows on the targeted area. Monsters within the targeted area become Plant-type monsters. Allies who step on the area receive the Floral Scent buff and have their HP restored. Enemies on the area receive the Rash debuff and continuous damage.
 SKILL_20180629_011868	Attack #{SkillFactor}#%{nl}Floral Scent recovery #{CaptionRatio}#{nl}Duration #{CaptionTime}# sec
 SKILL_20180629_011869	Temporarily transform into a wolf. Upon transforming, nearby enemies are provoked, with additional provocation applied when using wolf skills. When transformed, you cannot use your character's skills and your SP is continuously consumed. In wolf form, part of your stats increase, and you restore 2% of your max. HP every 8 seconds. You can also use Dash.
 SKILL_20180629_011870	Wolf skills activated{nl}Add. damage +#{CaptionRatio}#%{nl}Critical Rate +#{CaptionRatio2}#{nl}Base movement speed +10{nl}Max. HP +100%{nl}Physical and magic defense +50%{nl}Block penetration +400{nl}Max. duration 30{nl}Consumes 91 SP per sec
@@ -11880,7 +11880,7 @@ SKILL_20180629_011876	Thorn
 SKILL_20180629_011877	Throw thorny vines at nearby enemies to deal continuous damage. If the target is a ground-based monster, it will become trapped in the vines and unable to move.
 SKILL_20180629_011878	Attack #{SkillFactor}#% x 11 hits{nl}Ground enemies become unable to move
 SKILL_20180629_011879	Nachash
-SKILL_20180629_011880	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Use the power of Kabbalah to summon serpents that attack your enemies.
+SKILL_20180629_011880	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Use the power of Kabbalah to summon serpents that attack your enemies.
 SKILL_20180629_011881	Attack #{SkillFactor}#%{nl}Targets 10{nl}Duration 8 sec
 SKILL_20180629_011882	Duration #{CaptionTime}# sec{nl}Magic circle duration #{CaptionRatio2}# sec{nl}Max. HP increases by #{CaptionRatio}#% + #{CaptionRatio3}#
 SKILL_20180629_011883	Attack #{SkillFactor}#%{nl}100% magic damage on collision{nl}100% add. damage on Demon targets{nl}Max. #{CaptionRatio2}# collisions
@@ -11889,21 +11889,21 @@ SKILL_20180629_011885	Invoke a magic circle in the shape of the Tree of Sepiroth
 SKILL_20180629_011886	Duration 10 sec{nl}Damage reduction 50%{nl}Restores #{CaptionRatio}#% of max. HP every 0.4 sec{nl}Consumes Holy Water x10 
 SKILL_20180629_011887	Attack per 0.3 sec #{SkillFactor}#%{nl}Duration #{CaptionTime}# sec{nl}Consumes Torture Tools x3
 SKILL_20180629_011888	Rubric
-SKILL_20180629_011889	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Read commandments imbued with the power of the Goddesses to deal Holy property damage and reduce the enemy's movement speed. When used against Demon type enemies, the skill deals additional hits and its movement speed reducing effects are amplified.
+SKILL_20180629_011889	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Read commandments imbued with the power of the Goddesses to deal Holy property damage and reduce the enemy's movement speed. When used against Demon type enemies, the skill deals additional hits and its movement speed reducing effects are amplified.
 SKILL_20180629_011890	Attack per 0.#{CaptionRatio2}# sec #{SkillFactor}#%{nl}{nl}Targets #{CaptionRatio}#{nl}Max. duration 6 sec
 SKILL_20180629_011891	Entity
-SKILL_20180629_011892	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Make hidden entities nearby reveal themselves with a powerful command. Revealed entities take a designated amount of damage.
+SKILL_20180629_011892	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Make hidden entities nearby reveal themselves with a powerful command. Revealed entities take a designated amount of damage.
 SKILL_20180629_011893	Aqua Benedicta
-SKILL_20180629_011894	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sprinkle Holy Water on the ground to purify it. Enemies in the purified area receive continuous damage. Flying enemies that don't step on the purified ground are not attacked.
+SKILL_20180629_011894	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Sprinkle Holy Water on the ground to purify it. Enemies in the purified area receive continuous damage. Flying enemies that don't step on the purified ground are not attacked.
 SKILL_20180629_011895	Attack per 0.4 sec #{SkillFactor}#%{nl}Max. targets 8{nl}Duration 6 sec{nl}Consumes Holy Water x1
 SKILL_20180629_011896	Engkrateia
 SKILL_20180629_011897	Exercise your strong restraint by praying to the Goddesses. During the prayer, you receive less damage and become immune to knockback and knockdown. Additional reduction applied to damage received from Demon type enemies.
 SKILL_20180629_011898	Damage taken -#{CaptionRatio}#%{nl}Duration #{CaptionRatio2}# sec
 SKILL_20180629_011899	Gregorate
-SKILL_20180629_011900	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Sends out a wave of divine energy to overthrow the forces of evil. Debuffs of rank 2 and below applied to you or your allies are canceled, and nearby enemies receive Holy property damage. If the skill is applied to a zombie, the zombie is killed.
+SKILL_20180629_011900	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Sends out a wave of divine energy to overthrow the forces of evil. Debuffs of rank 2 and below applied to you or your allies are canceled, and nearby enemies receive Holy property damage. If the skill is applied to a zombie, the zombie is killed.
 SKILL_20180629_011901	Attack #{SkillFactor}#%{nl}Add. damage per debuff 50%{nl}Max. #{CaptionRatio}# debuffs canceled{nl}Targets 5{nl}Targets hit 8
 SKILL_20180629_011902	Koinonia
-SKILL_20180629_011903	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Consolidate the faith of your party members into a display of divine energy capable of overthrowing demons. Can only be used when 3 or more members are within range. Additional damage applied when 3 or more of the members are of the Cleric tree.
+SKILL_20180629_011903	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Consolidate the faith of your party members into a display of divine energy capable of overthrowing demons. Can only be used when 3 or more members are within range. Additional damage applied when 3 or more of the members are of the Cleric tree.
 SKILL_20180629_011904	Attack per 0.4 sec #{SkillFactor}#%{nl}Duration #{CaptionRatio}# sec
 SKILL_20180629_011905	Attacking monsters applies a chance to steal items from your enemies.
 SKILL_20180629_011906	Applies a new deadly poison to your weapon for the next attack.
@@ -12041,7 +12041,7 @@ SKILL_20180629_012037	Hameln Nagetier: Dirty Fangs
 SKILL_20180629_012038	* Increases the duration of the [Hameln Nagetier] debuff by 1 sec per attribute level{nl}* Increases SP consumption by 50%
 SKILL_20180629_012039	Hameln Nagetier: Rare Species
 SKILL_20180629_012040	* 2% chance per attribute level of summoning a rare mouse species{nl}* Rare mice deal 2 hits on the first attack
-SKILL_20180629_012041	* Increases the damage and heal factor of [Heal] by 0.5% per attribute level{nl}* +10% added bonus at maximum level
+SKILL_20180629_012041	* Increases the damage and Fator de Cura: of [Heal] by 0.5% per attribute level{nl}* +10% added bonus at maximum level
 SKILL_20180629_012042	One-handed Blunt Mastery: Healing
 SKILL_20180629_012043	* Increases Healing by 2% per attribute level when equipping a one-handed blunt weapon.
 SKILL_20180629_012044	Heal: Open Sanctuary
@@ -12050,9 +12050,9 @@ SKILL_20180629_012046	Heal: Exclude Summons
 SKILL_20180629_012047	* Keeps [Heal] effects from applying to summons.
 SKILL_20180629_012048	Heal: Linger
 SKILL_20180629_012049	* Applies a buff that continuously restores the HP of allies healed with Heal or Mass Heal{nl}* The buff lasts 10 sec and restores HP in a value equal to [attribute level x 5]% of your Healing stat{nl}* Increases SP consumption by 30%
-SKILL_20180629_012050	* Increases the heal factor of [Aukuras] by 0.5% per attribute level{nl}* +10% added bonus at maximum level
+SKILL_20180629_012050	* Increases the Fator de Cura: of [Aukuras] by 0.5% per attribute level{nl}* +10% added bonus at maximum level
 SKILL_20180629_012051	Mass Heal: Enhance
-SKILL_20180629_012052	* Increases the heal factor of [Mass Heal] by 0.5% per attribute level{nl}* +10% added bonus at maximum level
+SKILL_20180629_012052	* Increases the Fator de Cura: of [Mass Heal] by 0.5% per attribute level{nl}* +10% added bonus at maximum level
 SKILL_20180629_012053	Spell Shop: Increase Price
 SKILL_20180629_012054	* Increases the price of spells by 30% when the shop is installed in a map with a dungeon.
 SKILL_20180629_012055	* Transform into a human hybrid instead of a wolf when using [Lycanthropy]{nl}* Alters stat increases and changes duration to 60 sec{nl}* Basic attack changes to Scratch (5% chance of Bleeding){nl}* Can use Dash{nl}* 2% of max. HP restored every 8 sec{nl}* Physical damage +[Lycanthropy skill level x 4%]{nl}* Magic damage +[Lycanthropy skill level x 6%]{nl}* Critical rate +[Lycanthropy skill level x 40]

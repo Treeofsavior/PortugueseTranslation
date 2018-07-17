@@ -24641,7 +24641,7 @@ ETC_20161005_024635	I've been bitten, but it isn't too bad
 ETC_20161005_024636	It's time to check what we've extracted from the test subjects
 ETC_20161005_024637	I hope that this works
 ETC_20161005_024638	The monsters are attacking.{nl}Pass the cure safely to Oscaras.
-ETC_20161005_024639	The monsters are coming!{nl}Please pass me the cure when they aren't around!
+ETC_20161005_024639	 Os monstros estão vindo!{nl}Please pass me the cure when they aren't around!
 ETC_20161005_024640	There are demons after the Flechette!{nl}Derrote the demons and retrieve the Flechette.
 ETC_20161005_024641	(Flechette model)
 ETC_20161005_024642	Somebody help me please!
@@ -31784,19 +31784,19 @@ ETC_20180320_031752	Santa Costume Package (Male)
 ETC_20180320_031753	Right-click to use and obtain the items.{nl}- 1x Santa Costume (Male){nl}- 2x Tree Ornament Cube
 ETC_20180320_031754	#N/A
 ETC_20180320_031755	#N/A
-ETC_20180320_031756	If you exchange your current gear for {@st66d_y}Lv 15 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
-ETC_20180320_031757	N key
-ETC_20180320_031758	{/} to open the World Map {@st66d_y}
-ETC_20180320_031759	{/} and find a location to hunt monsters in. You can also purchase equipment from the {@st66d_y}
-ETC_20180320_031760	{/} NPC in town.
-ETC_20180320_031761	If you exchange your current gear for {@st66d_y}Lv 40 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
-ETC_20180320_031762	If you exchange your current gear for {@st66d_y}Lv 75 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
-ETC_20180320_031763	If you exchange your current gear for {@st66d_y}Lv 120 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
-ETC_20180320_031764	If you exchange your current gear for {@st66d_y}Lv 170 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
-ETC_20180320_031765	If you exchange your current gear for {@st66d_y}Lv 220 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
-ETC_20180320_031766	If you exchange your current gear for {@st66d_y}Lv 270 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
-ETC_20180320_031767	If you exchange your current gear for {@st66d_y}Lv 315 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
-ETC_20180320_031768	If you exchange your current gear for {@st66d_y}Lv 350 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20180320_031756	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 15{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031757	N
+ETC_20180320_031758	{/} para abrir o Mapa do Mundo {@st66d_y}
+ETC_20180320_031759	{/} e encontrar um local para caçar monstros. Você também pode comprar equipamentos do {@st66d_y}
+ETC_20180320_031760	{/} NPC nas cidades.
+ETC_20180320_031761	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 40{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031762	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 75{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031763	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 120{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031764	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 170{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031765	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 220{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031766	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 270{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031767	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 315{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031768	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 350{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
 ETC_20180320_031769	{/} {@st66d_y}
 ETC_20180320_031770	{/} NPC to access the instanced dungeons.
 ETC_20180320_031771	Mercenary Post Missions
@@ -32391,8 +32391,8 @@ ETC_20180418_032359	White Paper Doll
 ETC_20180418_032360	Red Paper Doll
 ETC_20180418_032361	Using the Shikiban...
 ETC_20180418_032362	Acquired {add_point} point(s){nl}(Total: {total_point})
-ETC_20180418_032363	Please check [See other characters' effects] under your Game Settings.{nl}You are required to activate this option to continue.
-ETC_20180418_032364	The Wings of Vaivora would love to hear about your new story.{nl}Visit one of their NPCs in town for a reward!
+ETC_20180418_032363	Dica: Marque [Mostrar Outros Efeitos] nas suas Configurações do Jogo.{Nl} Você precisa ativar esta opção para ver certos objetos da quest.
+ETC_20180418_032364	As Asas de Vaivora adoraria ouvir sobre sua nova história.{Nl} Visite um de seus NPCs na cidade para ganhar recompensas!
 ETC_20180418_032365	Cannot be used by teams without a guild.
 ETC_20180418_032366	Can only be used if one or more weekly Guild Quest entries have been consumed.
 ETC_20180418_032367	Applied Guild Quest One Entry Voucher
@@ -33387,8 +33387,8 @@ ETC_20180629_033351	3 vs 3 Soccer League
 ETC_20180629_033352	Stat Reset Potion (30 Days)
 ETC_20180629_033353	Rank Reset Voucher (30 Days)
 ETC_20180629_033354	Attribute Reset Potion
-ETC_20180629_033355	A potion concocted by those who have made good choices; for use by those who have not.{nl}Use this to reset the attributes of your character.
-ETC_20180629_033356	Attribute Reset Potion (14 Days)
+ETC_20180629_033355	Uma poção inventada por aqueles que fizeram boas escolhas, para uso daqueles que não o fizeram escolhas boas.{nl} Use isso para redefinir os atributos do seu personagem.
+ETC_20180629_033356	Poção de Resetar Atributos (14 Dias)
 ETC_20180629_033357	Randomly changes the number, groups and values of stats contained in a random stat item. It also alters the item's stats themselves. Applied stats cannot be reversed. 
 ETC_20180629_033358	Randomly changes the number, groups and values of stats contained in a random stat item. It also alters the item's stats themselves. Applied stats cannot be reversed, but you can select one current stat to remain unaltered.
 ETC_20180629_033359	Nak Muay Class Unlock Voucher
@@ -34356,13 +34356,13 @@ ETC_20180629_034320	You already registered the same item.
 ETC_20180629_034321	This item is already being re-identified.
 ETC_20180629_034322	Cannot apply {CONTENTS}.
 ETC_20180629_034323	Cannot register items that have had their appearance changed.
-ETC_20180629_034324	Uncheck 'Keep Potential'.{nl} {nl}If left unchecked, the item will lose {@st66d_y}Potential -1{/}after changing its appearance. Continue?
+ETC_20180629_034324	'Manter Potencial' Desmarcado.{Nl} {nl}Se não for marcado, o item perderá {@ st66d_y}-1 Potencial{/} depois de alterar sua aparência. Continuar?
 ETC_20180629_034325	Keep Potential' is unchecked.{nl}The item will lose {@st66d_y}Potential -1{/}.{nl} {nl}Your registered item will be consumed.{nl}{@st66d_y}[{BEFORE}]{/}  ▶ {@st66d_y}[{AFTER}]{/}{nl} {nl}{@st66d_y}Changed items cannot be used as sources for other appearance changes.{/}{nl}Continue?
-ETC_20180629_034326	Your registered item will be consumed.{nl}{@st66d_y}[{BEFORE}]{/}  ▶ {@st66d_y}[{AFTER}]{/}{nl} {nl}{@st66d_y}Changed items cannot be used as sources for other appearance changes.{/}{nl}Continue?
-ETC_20180629_034327	The registered item cannot be used. Please try again.
-ETC_20180629_034328	Please register the target weapon.
-ETC_20180629_034329	Please register the source weapon.
-ETC_20180629_034330	Cannot lock while the {UI} UI is open.
+ETC_20180629_034326	Seu item registrado será consumido.{nl}{@st66d_y}[{BEFORE}]{/}  >> {@st66d_y}[{AFTER}]{/}{nl} {nl}{@st66d_y}Itens alterados não podem ser usados como fontes para outras alterações de aparência.{/} {nl} Continuar?
+ETC_20180629_034327	O item registrado não pode ser usado. Tente novamente.
+ETC_20180629_034328	Por favor insira o Visual para Trocar.
+ETC_20180629_034329	Por favor insira os Materiais.
+ETC_20180629_034330	Não é possível travar enquanto a UI {UI} está aberta.
 ETC_20180629_034331	This item is {@st66d_y}enhanced{/} and {@st66d_y}transcended{/}.{nl}Are you sure you want to use it as a source weapon?
 ETC_20180629_034332	{@st66d_y}{s20}{ITEM}{/}{/} {nl}Are you sure you want this coupon?{nl} {nl}Your choice cannot be reverted.
 ETC_20180629_034333	{PC} used the Dimensional Incense Burner in {ZONE} (channel {CHANNEL}).
@@ -34640,7 +34640,7 @@ ETC_20180629_034604	[{USER}] has awakened [{ITEM}].
 ETC_20180629_034605	Switch Gender requires the use of [{ITEM}].
 ETC_20180629_034606	The price of [{SKILL}] must be between [{MIN}] and [{MAX}] Silver.
 ETC_20180629_034607	Without an Awakening Stone,{nl}the item's Potential will be reduced.{nl}Continue?
-ETC_20180629_034608	Healing
+ETC_20180629_034608	Taxa de Cura
 ETC_20180629_034609	Changed to Lodge {target}.
 ETC_20180629_034610	Failed to change Lodge layer.
 ETC_20180629_034611	Cannot read books while using a skill.
@@ -34693,7 +34693,7 @@ ETC_20180629_034657	You already own this dye.{nl}Are you sure you want to purcha
 ETC_20180629_034658	You already own this dye. You may purchase it again after trying it on.{nl}Are you sure you want to try it on?
 ETC_20180629_034659	One or more of your hair costume slots is set to hidden.{nl}Items you try on this slot will remain hidden.
 ETC_20180629_034660	Investigate
-ETC_20180629_034661	The monsters are coming. Defeat them all!
+ETC_20180629_034661	 Os monstros estão vindo! Derrote todos!
 ETC_20180629_034662	Enter the Other Dimension (rec. level: 300).
 ETC_20180629_034663	See those who entered the Other Dimension.
 ETC_20180629_034664	Don't enter.
@@ -34825,4 +34825,9 @@ ETC_20180709_034789	Top trees display period (30 days)
 ETC_20180709_034790	Last = Rank 9
 ETC_20180709_034791	TOP 3 Trees
 ETC_20180709_034792	Count top ranks in web server Y/N (0/1)
-ETC_20180709_034793	[No Authority] Incorrect request.
+ETC_20180709_034793	[Sem Autoridade] Incorrect request.
+ETC_20180716_034794	Você já recebeu uma compensação pela sua primeira vitória.
+ETC_20180716_034795	Enviando recompensas pela participação diária no Guild Territory Wars.
+ETC_20180716_034796	Enviando recompensas pela participação no Guild Territory Wars 5 vezes.
+ETC_20180716_034797	Sua guilda não ganhou as últimas Guild Territory Wars.
+ETC_20180716_034798	Enviando recompensas pela primeira vitória no Guild Territory Wars.
