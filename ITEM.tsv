@@ -18831,7 +18831,7 @@ ITEM_20180629_018817	(Old) Attok Box of Materials
 ITEM_20180629_018818	Tool used in the extraction of Ichors. Can be purchased from Teliavelis.
 ITEM_20180629_018819	Silver Ichor Extraction Kit
 ITEM_20180629_018820	Tool used in the extraction of Ichors. It does not require consumables.
-ITEM_20180629_018821	{#000000}|Efeito| [{img star_mark 20 20}/2]% de chance por ataque de aplicar Frostbite aos inimigos por 4 sec. {Frostbite reduz veloc. de mov. e aumenta o dano recebido de golpes Elétricos}{nl}(Não se aplica a monstros chefes.)
+ITEM_20180629_018821	{#000000}|Efeito| [{img star_mark 20 20}/2]% de chance por ataque de aplicar Frostbite aos inimigos por 4 sec.{nl}{Frostbite reduz veloc. de mov. e aumenta o dano recebido de golpes Elétricos}{nl}(Não se aplica a monstros chefes.){nl} {nl}
 ITEM_20180629_018822	{#000000}|Efeito| Attack property penalties reduced by [{img star_mark 20 20} * 10]%. 
 ITEM_20180629_018823	Bodkin Point Arrow
 ITEM_20180629_018824	It is a small rock.
@@ -18905,7 +18905,7 @@ ITEM_20180629_018891	Uska will exchange this voucher for a Rare Lv 350 weapon en
 ITEM_20180629_018892	Title - Receiver of the Revelations
 ITEM_20180629_018893	Contains a title awarded for participating in Uska's event. This item will be removed at the end of the event period.
 ITEM_20180629_018894	Retiarius Ruidarius Costume Box
-ITEM_20180629_018895	Lost Invitation Fragment
+ITEM_20180629_018895	Fragmento de Convite
 ITEM_20180629_018896	Used in the May Wedding Bouquet event. This item will be removed at the end of the event period.
 ITEM_20180629_018897	Barbershop Chair
 ITEM_20180629_018898	Item received through the Beauty Shop event.{nl}Using this item will summon a barbershop chair that you can sit on.
@@ -18986,3 +18986,10 @@ ITEM_20180629_018972	Blessed Cure for Mental Illness
 ITEM_20180629_018973	The cure for mental illness blessed by the Priest Master. It is quietly glowing.
 ITEM_20180629_018974	Old Flute
 ITEM_20180629_018975	A flute for training given by the Pied Piper Master.{nl}Use the flute in Branginti Hill on Altar Way.{nl}Cooldown time 3 seconds.
+ITEM_20180716_018976	[Event] Elixir of HP Recovery
+ITEM_20180716_018977	Instantly restores 50% of your maximum HP. Additionally restores the other 50% of HP every 2 seconds over 11 seconds.{nl}Right-click to use. Cooldown of 20 seconds.
+ITEM_20180716_018978	[Event] Elixir of SP Recovery
+ITEM_20180716_018979	Instantly restores 50% of your maximum SP. Additionally restores the other 50% of SP every 2 seconds over 11 seconds.{nl}Right-click to use. Cooldown of 20 seconds.
+ITEM_20180716_018980	Lv 350 Berthas Weapon Selection Box (14 Days)
+ITEM_20180716_018981	Select one Lv 350 Berthas weapon. Right-click to use.{nl}You cannot change your item once chosen.
+ITEM_20180716_018982	Miracle Seeds (14 Days)
