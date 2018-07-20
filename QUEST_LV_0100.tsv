@@ -4018,7 +4018,7 @@ QUEST_LV_0100_20150317_004017	Derrote os monstros e verifique o baú do tesouro
 QUEST_LV_0100_20150317_004018	Algo escondido está marcado no mapa do Construtor Pipoti. Derrote os monstros e abra a caixa do tesouro.
 QUEST_LV_0100_20150317_004019	Há outras áreas marcadas no mapa do Construtor Pipoti. Clique com o botão direito do mouse no mapa e vá à área marcada.
 QUEST_LV_0100_20150317_004020	Há outras áreas marcadas no mapa do Construtor Pipoti. Clique com o botão direito do mouse no mapa e vá à área marcada.
-QUEST_LV_0100_20150317_004021	O mapa que o Construtor Pipoti deu mostra onde algo estava escondido. Abra a caixa e derrote o Lobisomem que está interferindo.
+QUEST_LV_0100_20150317_004021	O mapa que o Construtor Pipoti deu mostra onde algo estava escondido. Abra a caixa e derrote o Werewolf que está interferindo.
 QUEST_LV_0100_20150317_004022	Fale com o Aventureiro Varkis
 QUEST_LV_0100_20150317_004023	Explorador Varkis parece estar em apuros. Fale com ele.
 QUEST_LV_0100_20150317_004024	Recupere o diário perdido de Varkis
@@ -7410,7 +7410,7 @@ QUEST_LV_0100_20150714_007409	Você obteve a pedra com o vigor e o veneno dos mo
 QUEST_LV_0100_20150714_007410	Obtenha %s derrotando os monstros
 QUEST_LV_0100_20150714_007411	Obteve o veneno dos monstros
 QUEST_LV_0100_20150714_007412	Há artefatos de um soldado desconhecido que morreu em Saknis Plains devido aos monstros. Ele pode ser o dono do colar que você pegou da última vez. Coloque o colar nele, e reze.
-QUEST_LV_0100_20150714_007413	Então, esse é o Lobisomem que levou o soldado desconhecido à morte. Derrote Lobisomem e reze por sua alma.
+QUEST_LV_0100_20150714_007413	Então, esse é o Werewolf que levou o soldado desconhecido à morte. Derrote Werewolf e reze por sua alma.
 QUEST_LV_0100_20150714_007414	Reze por sua alma na frente das lembranças do soldado desconhecido
 QUEST_LV_0100_20150714_007415	Parece que o mago louco Antares está solto. Derrote o Infroroktor que Antares invocou.
 QUEST_LV_0100_20150714_007416	Você derrotou o Red Infroroktor que Antares invocou. Fale com Grita.
@@ -8581,7 +8581,7 @@ QUEST_LV_0100_20151001_008580	Eu estou de luto por aqueles que morreram injustam
 QUEST_LV_0100_20151001_008581	Chapparition não trará de volta as vidas daqueles que morreram.{nl}É triste... Mas não podemos deixar as coisas assim.
 QUEST_LV_0100_20151001_008582	Como? Você não é um ceifador? {nl}Mas já que viu meu rosto, você será amaldiçoado. {nl}
 QUEST_LV_0100_20151001_008583	Hehe. Coitado. Ele não poderá ver a luz tão cedo. {nl}Seja na prisão ou no caixão, só ele saberá. {nl} Sinto muito pelos soldados mortos.
-QUEST_LV_0100_20151001_008584	A família Legwyn era renomada. {nl}Mas quando o pai de Justina, Gailius Legwyn, desapareceu, outros membros da família e suas divindades adoeceram e morreram. {nl}
+QUEST_LV_0100_20151001_008584	A família Legwyn era renomada. {nl}Mas quando o pai de Justina, Gailus Legwyn, desapareceu, outros membros da família e suas divindades adoeceram e morreram. {nl}
 QUEST_LV_0100_20151001_008585	A mansão onde Justina morava... agora está cheia de monstros.{nl}
 QUEST_LV_0100_20151001_008586	Ouvi dizer que Erikas, amigo dos Legwyn há tempos, está com o tesouro da família, então mal consegui chegar aqui...{nl}Mas eu não esperava que ele fosse se comportar assim.
 QUEST_LV_0100_20151001_008587	Então ele nem sabe onde o túmulo da família Legwyn fica...{nl}Acho que é um mentiroso.{nl}
@@ -8819,7 +8819,7 @@ QUEST_LV_0100_20151001_008818	Desculpe por pedir isso logo depois de entrar para
 QUEST_LV_0100_20151001_008819	Eu despertei o espírito de Carlyle. {nl}Ele costumava tomar uma terra do Reino quando era vivo. {nl}
 QUEST_LV_0100_20151001_008820	Ele não foi capaz de abrir mão disso, mesmo depois de sua morte. {nl}Ele documentou os pecados em algum canto de seu túmulo. {nl}
 QUEST_LV_0100_20151001_008821	Para salvar seu espírito, devemos encontrar o documento escondido e fazê-lo abrir mão de seus arrependimentos de quando era vivo. {nl}Mas parece haver muita cobiça nele, e ele não falará sobre o paradeiro do documento. {nl}
-QUEST_LV_0100_20151001_008822	Você pode tentar persuadir Carlyle? {nl}Já que ele não conhece seu rosto, tente fingir que você não faz parte da seita. {nl}
+QUEST_LV_0100_20151001_008822	Você pode tentar persuadir Carlyle? {nl}Já que ele não conhece seu rosto, tente fingir que você não faz parte da ordem. {nl}
 QUEST_LV_0100_20151001_008823	Se encontrar o paradeiro dos documentos, eu abençoarei você com a graça da Árvore Divina.
 QUEST_LV_0100_20151001_008824	Você não desiste mesmo, hein? {nl}Não sei quem você é ou o que quer. {nl}
 QUEST_LV_0100_20151001_008825	Por que você fica me incomodando se nem me diz para que é isso?
@@ -8843,7 +8843,7 @@ QUEST_LV_0100_20151001_008842	Agora, temos de entalhar a Shaman Doll com a energ
 QUEST_LV_0100_20151001_008843	Tenho certeza de que os Black Crystals são os traços da magia maligna que despertou os mortos. {nl}Você poderia obter mais disso dos mortos que se ergueram?
 QUEST_LV_0100_20151001_008844	Ah, eu cuidarei dos corpos mortos caídos. {nl}Por enquanto, há algo mais importante a ser feito.
 QUEST_LV_0100_20151001_008845	Sim, isso deve bastar. {nl}Vou preparar a Shaman Doll imediatamente. Espere.
-QUEST_LV_0100_20151001_008846	Como? Você não é um seguidor daquela seita? {nl}Você está pedindo que eu confie em você? {nl}
+QUEST_LV_0100_20151001_008846	Como? Você não é um seguidor daquela ordem? {nl}Você está pedindo que eu confie em você? {nl}
 QUEST_LV_0100_20151001_008847	Certo. {nl}Então, destrua o objeto divino que eles afirmam ter recebido as bênçãos da Deusa. {nl}
 QUEST_LV_0100_20151001_008848	Nunca vi um objeto divino abençoado liberando energia maligna. {nl}Acho que aquele objeto está bagunçando o local do túmulo.
 QUEST_LV_0100_20151001_008849	Eu trouxe a lista dos proprietários de terra de Kaliss ao meu túmulo para impedir a corrupção da próxima geração. {nl}Mas, pensando bem, esse registro ficou inútil agora. {nl}
@@ -9012,7 +9012,7 @@ QUEST_LV_0100_20151001_009011	Sobre o Kartas Hunter
 QUEST_LV_0100_20151001_009012	Diga a ele que você vai despertar os subordinados
 QUEST_LV_0100_20151001_009013	Diga a ele que você vai coletar os Corrupt Fangs
 QUEST_LV_0100_20151001_009014	Diga a ele para esperar um pouco
-QUEST_LV_0100_20151001_009015	Colocando os Corrupt Fangs
+QUEST_LV_0100_20151001_009015	Colocando Corrupt Fangs
 QUEST_LV_0100_20151001_009016	Para a cidade natal quente
 QUEST_LV_0100_20151001_009017	Aqueles que estão perturbando as preces
 QUEST_LV_0100_20151001_009018	Diga a ele que é difícil para você
@@ -9052,7 +9052,7 @@ QUEST_LV_0100_20151001_009051	Recuperarei a comida
 QUEST_LV_0100_20151001_009052	Faça como quiser
 QUEST_LV_0100_20151001_009053	A Garota Misteriosa (2)
 QUEST_LV_0100_20151001_009054	Falando sobre a garota misteriosa
-QUEST_LV_0100_20151001_009055	O totem que coloriu Furão
+QUEST_LV_0100_20151001_009055	O totem que coloriu Ferret
 QUEST_LV_0100_20151001_009056	Faça como quiser
 QUEST_LV_0100_20151001_009057	A Garota Misteriosa (3)
 QUEST_LV_0100_20151001_009058	Não posso encontrá-los
@@ -9087,18 +9087,18 @@ QUEST_LV_0100_20151001_009086	Parece que os Vubbes em Miners' Village foram fund
 QUEST_LV_0100_20151001_009087	Você mal derrotou os Vubbes que entraram. Volte até Aras e pergunte a ele sobre as circunstâncias em Miners' Village
 QUEST_LV_0100_20151001_009088	Derrotou Totem Panto e Simorph com as Shaman Dolls, como Mori pediu. Conte isso para Mori.
 QUEST_LV_0100_20151001_009089	Purificou a área poluída e derrotou Carnivore como Mori pediu. Conte isso para Mori.
-QUEST_LV_0100_20151001_009090	Restaure o Altar Carolis
+QUEST_LV_0100_20151001_009090	Restaure o Karolis Altar
 QUEST_LV_0100_20151001_009091	Recolhendo o poder das corujas
 QUEST_LV_0100_20151001_009092	A jovem árvore sagrada na floresta
 QUEST_LV_0100_20151001_009093	O dispositivo com os espíritos
-QUEST_LV_0100_20151001_009094	Barão Secretário Arunas me pediu para me livrar da energia estranha conduzindo um ritual especial. Depois de fazer um círculo mágico com madeira, preciso queimar uma boneca vodu em cima dele.
+QUEST_LV_0100_20151001_009094	Arunas, o Secretário do Barão, me pediu para me livrar da energia estranha conduzindo um ritual especial. Depois de fazer um círculo mágico com madeira, preciso queimar uma boneca vodu em cima dele.
 QUEST_LV_0100_20151001_009095	Você queimou a boneca enfeitiçada, mas, estranhamente, as plantas murcharam. Relate isso a Arunas.
-QUEST_LV_0100_20151001_009096	Coloque a Estátua da Deusa no círculo mágico na Trilha Tylina
+QUEST_LV_0100_20151001_009096	Coloque a Estátua da Deusa no círculo mágico na Tylila Path
 QUEST_LV_0100_20151001_009097	Albina quer remover o resto dos três campos mágicos. Entre eles, fale com ela sobre o campo mágico em Darbas Entrance.
 QUEST_LV_0100_20151001_009098	É difícil destruir o círculo mágico em Darbas Entrance devido à interferência dos monstros. Destrua os monstros que entraram e o círculo mágico.
 QUEST_LV_0100_20151001_009099	Você conseguiu destruir o círculo mágico em Darbas Entrance. Relate o ocorrido a Albina.
 QUEST_LV_0100_20151001_009100	Encontre alguém
-QUEST_LV_0100_20151001_009101	Alguém está pedindo sua ajuda no Platô Pasaka. Encontre-o.
+QUEST_LV_0100_20151001_009101	Alguém está pedindo sua ajuda em Pasaka Plateau. Encontre-o.
 QUEST_LV_0100_20151001_009102	Ajude quem está em perigo
 QUEST_LV_0100_20151001_009103	Alguém que esteve observando algo está em perigo e pedindo ajuda! Você terá primeiro de derrotar os monstros para ouvir sua história.
 QUEST_LV_0100_20151001_009104	Fale com Albinas
@@ -9147,8 +9147,8 @@ QUEST_LV_0100_20151001_009146	Fale com Gedas, que parece ter relaxado depois de 
 QUEST_LV_0100_20151001_009147	Encontre os materiais para a bomba sinalizadora de perigo
 QUEST_LV_0100_20151001_009148	Gedas disse que para encontrar a identidade de Albinas ele investigaria a verdadeira natureza por trás dele. Quando você envia seus colegas para investigar sua verdadeira natureza, bombas sinalizadoras são necessárias caso eles corram perigo. Por isso, pediram para você obter os materiais para criar bombas sinalizadoras. Obtenha com os monstros pó da flame bomb, que é o material usado para fazer bombas sinalizadoras.
 QUEST_LV_0100_20151001_009149	Volte até Gedas
-QUEST_LV_0100_20151001_009150	Você obteve Pós de Chama. Agora, volte até Gedas.
-QUEST_LV_0100_20151001_009151	Obtenha Pós de Chama
+QUEST_LV_0100_20151001_009150	Você obteve Flame Powders. Agora, volte até Gedas.
+QUEST_LV_0100_20151001_009151	Obtenha Flame Powders
 QUEST_LV_0100_20151001_009152	Pergunte a Gedas sobre bombas sinalizadoras e a investigação.
 QUEST_LV_0100_20151001_009153	Fale com Gedas para saber mais sobre Anastos.
 QUEST_LV_0100_20151001_009154	A conclusão
@@ -9172,9 +9172,9 @@ QUEST_LV_0100_20151001_009171	Gedas disse que você precisaria da ajuda de Nesto
 QUEST_LV_0100_20151001_009172	Vá salvar Fabijus
 QUEST_LV_0100_20151001_009173	Vamos ao lugar onde você encontrou Albinas pela primeira vez para salvar Fabijus e derrotar Albinas.
 QUEST_LV_0100_20151001_009174	Derrote Albinas
-QUEST_LV_0100_20151001_009175	À medida que você derramava a água divina, Albinas se transformou no Lorde do Fogo! Devido ao efeito da água divina, o HP do Lorde do Fogo foi reduzido! Não perca essa chance e derrote Lorde do Fogo!
+QUEST_LV_0100_20151001_009175	À medida que você derramava a água divina, Albinas se transformou no Fire Lord! Devido ao efeito da água divina, o HP do Fire Lord foi reduzido! Não perca essa chance e derrote Fire Lord!
 QUEST_LV_0100_20151001_009176	Você derrotou Albinas, que revelou sua verdadeira face. Avise Gedas sobre isso.
-QUEST_LV_0100_20151001_009177	Derrote Lorde do Fogo
+QUEST_LV_0100_20151001_009177	Derrote Fire Lord
 QUEST_LV_0100_20151001_009178	Fale com Leopoldas
 QUEST_LV_0100_20151001_009179	Encontre Leopoldas na parte superior de Kedorlaomer
 QUEST_LV_0100_20151001_009180	Fale com Leopoldas novamente
@@ -9188,7 +9188,7 @@ QUEST_LV_0100_20151001_009187	Como Gerda pediu, você colocou o quadro de aviso 
 QUEST_LV_0100_20151001_009188	Fale com Serapinas
 QUEST_LV_0100_20151001_009189	Parece que Serapinas precisa de ajuda. Descubra do que ele precisa.
 QUEST_LV_0100_20151001_009190	Divulgue os mercadores para os iniciantes.
-QUEST_LV_0100_20151001_009191	Serapinas disse que ela é a responsável pelas promoções da Merchant Alliance. Vá e use o Kedorlaomer Merchant Alliance Scroll em um Revelador novato para promover a Alliance. O novato receberá os benefícios de Kedorlaomer. Somente Reveladores entre níveis 1 e 10 podem receber o benefício 1 vez. Pergunte ao Revelador se ele recebeu o benefício antes.
+QUEST_LV_0100_20151001_009191	Serapinas disse que ela é a responsável pelas promoções da Aliança Comercial. Vá e use o Kedorlaomer Aliança Comercial Scroll em um Revelador novato para promover a Alliance. O novato receberá os benefícios de Kedorlaomer. Somente Reveladores entre níveis 1 e 10 podem receber o benefício 1 vez. Pergunte ao Revelador se ele recebeu o benefício antes.
 QUEST_LV_0100_20151001_009192	Volte até Serapinas
 QUEST_LV_0100_20151001_009193	Você terminou de divulgar Kedorlaomer. Volte para Serapinas e avise-o.
 QUEST_LV_0100_20151001_009194	Obtenha os objetos divinos
@@ -9225,9 +9225,9 @@ QUEST_LV_0100_20151001_009224	Traga-os para Marcelijus
 QUEST_LV_0100_20151001_009225	Você obteve todos os fluidos corporais dos monstros. Traga-os para Marcelijus.
 QUEST_LV_0100_20151001_009226	Construa o sacrário
 QUEST_LV_0100_20151001_009227	Fale com Antanas
-QUEST_LV_0100_20151001_009228	Fale com Antanas na Planície Genar
+QUEST_LV_0100_20151001_009228	Fale com Antanas em Genar Field
 QUEST_LV_0100_20151001_009229	Obtenha os materiais para construir o sacrário
-QUEST_LV_0100_20151001_009230	A organização religiosa Rud está se concentrando em seu trabalho enquanto aguarda o retorno das Deusas na Planície Genar. Entre eles, Antanas está construindo o sacrário. Para ajudá-lo, obtenha os materiais para construir o sacrário.
+QUEST_LV_0100_20151001_009230	A organização religiosa Rud está se concentrando em seu trabalho enquanto aguarda o retorno das Deusas em Genar Field. Entre eles, Antanas está construindo o sacrário. Para ajudá-lo, obtenha os materiais para construir o sacrário.
 QUEST_LV_0100_20151001_009231	Volte até Antanas
 QUEST_LV_0100_20151001_009232	Você obteve todos os materiais para fazer o sacrário. Volte até Antanas.
 QUEST_LV_0100_20151001_009233	Já que você obteve todos os materiais, pergunte se ele pode construir o sacrário.
@@ -9280,8 +9280,8 @@ QUEST_LV_0100_20151001_009279	Absorva as vitalidades colocando os ossos com pode
 QUEST_LV_0100_20151001_009280	Traga os espíritos depois de aprisioná-los
 QUEST_LV_0100_20151001_009281	Depois de aprisionar os espíritos, leve-os ao velho gerente
 QUEST_LV_0100_20151001_009282	Traga o espírito
-QUEST_LV_0100_20151001_009283	Use o lacre de aprisionamento para prender o espírito e levá-lo ao velho gerente
-QUEST_LV_0100_20151001_009284	Fale com o Mestre Escultor
+QUEST_LV_0100_20151001_009283	Use o selo de aprisionamento para prender o espírito e levá-lo ao velho gerente
+QUEST_LV_0100_20151001_009284	Fale com o Mestre Dievdirbys
 QUEST_LV_0100_20151001_009285	Coloque a escultura de coruja e guie os espíritos
 QUEST_LV_0100_20151001_009286	Coloque a escultura de coruja no local onde os espíritos desgarrados estão. Depois de colocar a escultura de coruja, leve o espírito desgarrado até a escultura.
 QUEST_LV_0100_20151001_009287	Olhe para o Eminent usando o Monóculo
@@ -9317,7 +9317,7 @@ QUEST_LV_0100_20151001_009316	Procure pelo diário dos soldados de Ruklys
 QUEST_LV_0100_20151001_009317	O que você ouviu do velho gerente é suspeito. Fale com o velho gerente.
 QUEST_LV_0100_20151001_009318	Vá ao campo de batalha da fortaleza da grande terra
 QUEST_LV_0100_20151001_009319	Fale com o Premier Eminent depois de ir para a fortaleza da grande terra
-QUEST_LV_0100_20151001_009320	Irmantas, membro das Colinas Peretory, precisa da ajuda de alguém.
+QUEST_LV_0100_20151001_009320	Irmantas, membro das Peretory Hills, precisa da ajuda de alguém.
 QUEST_LV_0100_20151001_009321	Derrote quem perseguiu Irmantas
 QUEST_LV_0100_20151001_009322	Quando Irmantas disparou a bomba sinalizadora, os perseguidores desapareceram. Derrote os perseguidores e proteja Irmantas.
 QUEST_LV_0100_20151001_009323	Você derrotou todos os perseguidores. Fale com Irmantas
@@ -9349,9 +9349,9 @@ QUEST_LV_0100_20151001_009348	O ferimento de Alina piorou e ela caiu no chão. F
 QUEST_LV_0100_20151001_009349	Derrote os perseguidores
 QUEST_LV_0100_20151001_009350	Enquanto você seguia em direção ao último destino com Alina, os perseguidores apareceram.
 QUEST_LV_0100_20151001_009351	Conte a Irmantas sobre a morte dela e entregue os bens
-QUEST_LV_0100_20151001_009352	Derrote Lobisomem
+QUEST_LV_0100_20151001_009352	Derrote Werewolf
 QUEST_LV_0100_20151001_009353	Fale com Peregrino Agatas
-QUEST_LV_0100_20151001_009354	O Peregrino Agatas está esperando pela ajuda de alguém na Intersecção Sutatis.
+QUEST_LV_0100_20151001_009354	O Peregrino Agatas está esperando pela ajuda de alguém na Sutatis Trade Route.
 QUEST_LV_0100_20151001_009355	Obtenha Ervas Negras
 QUEST_LV_0100_20151001_009356	Aquele que se apresentou como Demon Lord Hauberk está fazendo o seu melhor para salvar o Peregrino Agatas. Obtenha ervas negras para curar a paralisia causada pelo veneno em Agatas).
 QUEST_LV_0100_20151001_009357	Entregue isso ao Demon Lord Hauberk
@@ -9382,39 +9382,39 @@ QUEST_LV_0100_20151001_009381	Derrote o líder dos monstros
 QUEST_LV_0100_20151001_009382	Hauberk está se preparando para dizer adeus.
 QUEST_LV_0100_20151001_009383	Hauberk disse que precisa manter a promessa que fez a Agatas, então pediu para você entregar a poção separadora de espírito para ele. Se Agatas estiver inconsciente, coloque-a no seu bolso.
 QUEST_LV_0100_20151001_009384	Promoções infinitas
-QUEST_LV_0100_20151001_009385	Fale com Escudeira Williya
-QUEST_LV_0100_20151001_009386	Escudeira Williya e Pardone Erikas estão em uma disputa na Floresta Mochia. Fale com a Escudeira Williya e pergunte o que está acontecendo.
-QUEST_LV_0100_20151001_009387	Obtenha Tinta Azul
-QUEST_LV_0100_20151001_009388	Escudeira Williya disse que em troca do pergaminho dos mortos, a Perdoadora Erikas quer tinta azul. Derrote os monstros na Bifurcação Apgaudin e obtenha Tinta Azul.
-QUEST_LV_0100_20151001_009389	Entregue-a para a Perdoadora Erikas
-QUEST_LV_0100_20151001_009390	Você obteve Tinta Azul suficiente, como requisitado pela Perdoadora Erikas. Entregue a Tinta Azul para Erikas e receba o pergaminho dos mortos.
-QUEST_LV_0100_20151001_009391	Escudeira Williya quer despertar Gailius Legwyn com o pergaminho dos mortos e ouvir a verdade. Fale com Escudeira Williya.
-QUEST_LV_0100_20151001_009392	Procure pelo espírito de Gailius Legwyn
-QUEST_LV_0100_20151001_009393	Escudeira Williya disse que não confia na Perdoadora Erikas. Use o pergaminho dos mortos que você negociou com Erikas na frente da lápide desconhecida em Mires Grave para procurar o espírito de Gailius Legwyn.
-QUEST_LV_0100_20151001_009394	Fale com o espírito de Gailius Legwyn
-QUEST_LV_0100_20151001_009395	Você encontrou o espírito de Gailius Legwyn. Fale com o espírito.
-QUEST_LV_0100_20151001_009396	Gailius Legwyn quer saber por que você o acordou. Fale com Gailius Legwyn.
-QUEST_LV_0100_20151001_009397	Obtenha a fragrância de espírito nas Mochia Fields
-QUEST_LV_0100_20151001_009398	Já que o cristal abençoado serve de lacre para o Kartas Hunter, Gailius Legwyn disse que você não pode encontrar o cristal de novo sem derrotar aquele demônio. Para acordar os subordinados da família Legwyn que poderiam enfrentar o Kartas Hunter, colete a fragrância de espírito nas colinas de Mochia.
-QUEST_LV_0100_20151001_009399	Entregue isso para Gailius Legwyn
-QUEST_LV_0100_20151001_009400	Você obteve fragrância de espírito suficiente. Entregue isso para Gailius Legwyn
-QUEST_LV_0100_20151001_009401	Tudo está pronto para acordar os subordinados da família Legwyn. Fale com o espírito de Gailius Legwyn.
+QUEST_LV_0100_20151001_009385	Fale com Squire Williya
+QUEST_LV_0100_20151001_009386	Squire Williya e Pardoner Erikas estão em uma disputa na Mochia Forest. Fale com a Squire Williya e pergunte o que está acontecendo.
+QUEST_LV_0100_20151001_009387	Obtenha Blue Paint
+QUEST_LV_0100_20151001_009388	Squire Williya disse que em troca do pergaminho dos mortos, Pardoner Erikas quer Blue Paint. Derrote os monstros na Bifurcação Apgaudin e obtenha Blue Paint.
+QUEST_LV_0100_20151001_009389	Entregue-a para Pardoner Erikas
+QUEST_LV_0100_20151001_009390	Você obteve Blue Paint suficiente, como requisitado pelo Pardoner Erikas. Entregue a Blue Paint para Erikas e receba o pergaminho dos mortos.
+QUEST_LV_0100_20151001_009391	Squire Williya quer despertar Gailus Legwyn com o pergaminho dos mortos e ouvir a verdade. Fale com Squire Williya.
+QUEST_LV_0100_20151001_009392	Procure pelo espírito de Gailus Legwyn
+QUEST_LV_0100_20151001_009393	Squire Williya disse que não confia em Pardoner Erikas. Use o pergaminho dos mortos que você negociou com Erikas na frente da lápide desconhecida em Mires Grave para procurar o espírito de Gailus Legwyn.
+QUEST_LV_0100_20151001_009394	Fale com o espírito de Gailus Legwyn
+QUEST_LV_0100_20151001_009395	Você encontrou o espírito de Gailus Legwyn. Fale com o espírito.
+QUEST_LV_0100_20151001_009396	Gailus Legwyn quer saber por que você o acordou. Fale com Gailus Legwyn.
+QUEST_LV_0100_20151001_009397	Obtenha a fragrância de espírito em Mochia Fields
+QUEST_LV_0100_20151001_009398	Já que o cristal abençoado serve de selo para o Kartas Hunter, Gailus Legwyn disse que você não pode encontrar o cristal de novo sem derrotar aquele demônio. Para acordar os subordinados da família Legwyn que poderiam enfrentar o Kartas Hunter, colete a fragrância de espírito nas colinas de Mochia.
+QUEST_LV_0100_20151001_009399	Entregue isso para Gailus Legwyn
+QUEST_LV_0100_20151001_009400	Você obteve fragrância de espírito suficiente. Entregue isso para Gailus Legwyn
+QUEST_LV_0100_20151001_009401	Tudo está pronto para acordar os subordinados da família Legwyn. Fale com o espírito de Gailus Legwyn.
 QUEST_LV_0100_20151001_009402	Procure pelos subordinados da Família Legwyn
-QUEST_LV_0100_20151001_009403	Gailius Legwyn disse que, para lutar contra o Kartas Hunter, você precisará de ajuda dos subordinados. Use a fragrância de espírito na lápide no Regato Kruva para procurar pelos espíritos dos subordinados da Família Legwyn.
-QUEST_LV_0100_20151001_009404	Você encontrou três subordinados da Família Legwyn. Volte até o espírito de Gailius Legwyn.
+QUEST_LV_0100_20151001_009403	Gailus Legwyn disse que, para lutar contra o Kartas Hunter, você precisará de ajuda dos subordinados. Use a fragrância de espírito na lápide no Regato Kruva para procurar pelos espíritos dos subordinados da Família Legwyn.
+QUEST_LV_0100_20151001_009404	Você encontrou três subordinados da Família Legwyn. Volte até o espírito de Gailus Legwyn.
 QUEST_LV_0100_20151001_009405	A tragédia da Família Legwyn
-QUEST_LV_0100_20151001_009406	O espírito de Gailius legwyn disse que antes de derrotar o Kartas Hunter você precisa se preparar. Fale com o espírito de Gailius Legwyn.
-QUEST_LV_0100_20151001_009407	Colete Dente Indevido
-QUEST_LV_0100_20151001_009408	O espírito de Gailius Legwyn disse que o poder divino do cristal abençoado é forte demais, então será difícil arrancar o Kartas Hunter do lacre. Para enfraquecer o espírito divino, cace os monstros próximos e obtenha os Corrupt Fangs.
-QUEST_LV_0100_20151001_009409	Você coletou Corrupt Fangs suficientes. Pergunte ao espírito de Gailius Legwyn sobre a próxima fase do plano.
+QUEST_LV_0100_20151001_009406	O espírito de Gailus Legwyn disse que antes de derrotar o Kartas Hunter você precisa se preparar. Fale com o espírito de Gailus Legwyn.
+QUEST_LV_0100_20151001_009407	Colete Corrupt Fangs
+QUEST_LV_0100_20151001_009408	O espírito de Gailus Legwyn disse que o poder divino do cristal abençoado é forte demais, então será difícil arrancar o Kartas Hunter do lacre. Para enfraquecer o espírito divino, cace os monstros próximos e obtenha os Corrupt Fangs.
+QUEST_LV_0100_20151001_009409	Você coletou Corrupt Fangs suficientes. Pergunte ao espírito de Gailus Legwyn sobre a próxima fase do plano.
 QUEST_LV_0100_20151001_009410	Obteve Corrupt Fangs
-QUEST_LV_0100_20151001_009411	Você está pronto para derrotar o Kartas Hunter. Fale com o espírito de Gailius Legwyn.
+QUEST_LV_0100_20151001_009411	Você está pronto para derrotar o Kartas Hunter. Fale com o espírito de Gailus Legwyn.
 QUEST_LV_0100_20151001_009412	Derrote o Kartas Hunter
-QUEST_LV_0100_20151001_009413	Você está pronto para derrotar o Kartas Hunter. Ajude o espírito de Gailius Legwyn e seus subordinados para derrotar o Kartas Hunter e recupere o cristal abençoado.
-QUEST_LV_0100_20151001_009414	Você derrotou o Kartas Hunter. Fale com o espírito de Gailius Legwyn.
-QUEST_LV_0100_20151001_009415	Parece que o espírito de Gailius Legwyn se livrou de todo seu ressentimento. Fale com o espírito de Gailius novamente.
-QUEST_LV_0100_20151001_009416	Entregue isso à Escudeira Williya
-QUEST_LV_0100_20151001_009417	O espírito de Gailius Legwyn pediu para você entregar o cristal abençoado e contar as histórias que ouviu até agora. Entregue a mensagem de Gailius Legwyn à Escudeira Williya.
+QUEST_LV_0100_20151001_009413	Você está pronto para derrotar o Kartas Hunter. Ajude o espírito de Gailus Legwyn e seus subordinados para derrotar o Kartas Hunter e recupere o cristal abençoado.
+QUEST_LV_0100_20151001_009414	Você derrotou o Kartas Hunter. Fale com o espírito de Gailus Legwyn.
+QUEST_LV_0100_20151001_009415	Parece que o espírito de Gailus Legwyn se livrou de todo seu ressentimento. Fale com o espírito de Gailius novamente.
+QUEST_LV_0100_20151001_009416	Entregue isso à Squire Williya
+QUEST_LV_0100_20151001_009417	O espírito de Gailus Legwyn pediu para você entregar o cristal abençoado e contar as histórias que ouviu até agora. Entregue a mensagem de Gailus Legwyn à Squire Williya.
 QUEST_LV_0100_20151001_009418	Mortimer está olhando para a escritura militar que você está segurando. Fale com Mortimer.
 QUEST_LV_0100_20151001_009419	Obtenha a velha escritura militar
 QUEST_LV_0100_20151001_009420	Mortimer quer enviar as lembranças de seus colegas para a cidade natal. Quando você encontrar escrituras militares ao derrotar os monstros daqui, entregue-as a Mortimer.
@@ -9427,11 +9427,11 @@ QUEST_LV_0100_20151001_009426	Relate isso a Juta
 QUEST_LV_0100_20151001_009427	Você derrotou todos os mortos como Bokor Juta pediu. Volte até Juta e fale com ele.
 QUEST_LV_0100_20151001_009428	Você derrotou todos os mortos como Juta pediu. Fale com Juta e pergunte se você pode ajudar com mais alguma coisa.
 QUEST_LV_0100_20151001_009429	Destrua o caixão dos mortos
-QUEST_LV_0100_20151001_009430	Bokor Juta quer que você elimine os mortos. Destrua os caixões na sala do sono eterno e no Salão Kauru para que não possam despertar novamente.
+QUEST_LV_0100_20151001_009430	Bokor Juta quer que você elimine os mortos. Destrua os caixões na Room of Eternal Sleep e no Kaulu Corridor para que não possam despertar novamente.
 QUEST_LV_0100_20151001_009431	Você destruiu todos os caixões, como Juta pediu. Voltar até Juta.
 QUEST_LV_0100_20151001_009432	Parece que Bokor Juta tem algo a dizer sobre o objeto divino da Deusa. Fale com Bokor Juta novamente.
 QUEST_LV_0100_20151001_009433	Bokor Juta não pode se aproximar do sacrário devido à barreira que está lá. Ele perguntou ao guarda de túmulo Sigis como quebrar a barreira.
-QUEST_LV_0100_20151001_009434	O guarda de túmulo Sigis não gosta do Bokor Juta. Fale com Sigis.
+QUEST_LV_0100_20151001_009434	O guarda de túmulo Sigis não gosta Bokor Juta. Fale com Sigis.
 QUEST_LV_0100_20151001_009435	Creme os mortos ressuscitados
 QUEST_LV_0100_20151001_009436	Sigis disse que ele acreditará nas suas palavras se você trouxer descanso eterno aos mortos. Derrote os mortos e creme-os usando os fósforos que Sigis deu a você.
 QUEST_LV_0100_20151001_009437	Você cremou os mortos ressuscitados. Volte até Sigis.
@@ -9440,7 +9440,7 @@ QUEST_LV_0100_20151001_009439	Entregue a boneca enfeitiçada do guarda de túmul
 QUEST_LV_0100_20151001_009440	Você encontrou a boneca enfeitiçada do guarda de túmulo. Entregue-a para Sigis.
 QUEST_LV_0100_20151001_009441	Você entalhou o traço de magia maligna na boneca enfeitiçada do guarda de túmulo. Pergunte a Sigis como usar a boneca enfeitiçada.
 QUEST_LV_0100_20151001_009442	Investigue o objeto divino da Deusa que foi criado pela Ordem da Árvore da Verdade
-QUEST_LV_0100_20151001_009443	Tudo está pronto para ver o objeto divino da Deusa que foi criado pelos Fiéis da seita de árvore da verdade. Traga a boneca enfeitiçada e verifique o objeto divino da Deusa no Slepti Sielvar Prayer Room.
+QUEST_LV_0100_20151001_009443	Tudo está pronto para ver o objeto divino da Deusa que foi criado pelos Fiéis da Ordem da Árvore da Verdade. Traga a boneca enfeitiçada e verifique o objeto divino da Deusa no Sielvar Prayer Room.
 QUEST_LV_0100_20151001_009444	Você destruiu a barreira, mas quando você se aproximou do objeto divino, a boneca enfeitiçada foi destruída. Volte até Sigis e conte isso a ele.
 QUEST_LV_0100_20151001_009445	Sigis pediu para você dizer ao Bokor Juta que a boneca enfeitiçada foi destruída.
 QUEST_LV_0100_20151001_009446	Investigue o objeto divino da Deusa que foi criado pela Ordem da Árvore da Verdade
@@ -9450,9 +9450,9 @@ QUEST_LV_0100_20151001_009449	Juta quer que você deixe esse lugar estável ajud
 QUEST_LV_0100_20151001_009450	Investigue o Carlyle's Mausoleum.
 QUEST_LV_0100_20151001_009451	O guarda de túmulo Sigis disse que membros da Ordem da Árvore da Verdade foram ao Carlyle's Mausoleum. Investigue o Carlyle's Mausoleum para descobrir o que eles estão planejando.
 QUEST_LV_0100_20151001_009452	Um homem está fugindo dos mortos ressuscitados. Melhor resgatá-lo o quanto antes.
-QUEST_LV_0100_20151001_009453	O homem que você salvou do perigo era membro da seita. Fale com Gintas.
+QUEST_LV_0100_20151001_009453	O homem que você salvou do perigo era membro da ordem. Fale com Gintas.
 QUEST_LV_0100_20151001_009454	Depois de preparar a pedra com pensamentos, derrote os mortos para encher a pedra
-QUEST_LV_0100_20151001_009455	Gintas pediu para você se juntar a ele e encher a pedra. Parece um boa oportunidade para se infiltrar na seita. Depois de preparar a pedra, derrote os mortos para coletar os pensamentos.
+QUEST_LV_0100_20151001_009455	Gintas pediu para você se juntar a ele e encher a pedra. Parece um boa oportunidade para se infiltrar na ordem. Depois de preparar a pedra, derrote os mortos para coletar os pensamentos.
 QUEST_LV_0100_20151001_009456	Entregue a pedra para Gintas
 QUEST_LV_0100_20151001_009457	Você encheu a pedra completamente. Entregue a pedra para Gintas.
 QUEST_LV_0100_20151001_009458	Parece que Gintas tem mais um pedido a fazer. Fale com Gintas.
@@ -9464,25 +9464,25 @@ QUEST_LV_0100_20151001_009463	Fale com o espírito do Fiel
 QUEST_LV_0100_20151001_009464	Enquanto você queimava os corpos dos Fiéis, o espírito reapareceu. Fale com o espírito do Fiel que apareceu.
 QUEST_LV_0100_20151001_009465	Você cuidou dos corpos dos Fiéis, como Gintas pediu. Voltar até Gintas.
 QUEST_LV_0100_20151001_009466	Fale com Margiris
-QUEST_LV_0100_20151001_009467	Você obteve o símbolo da verdade com Gintas. Quando levá-lo a Margiris, você será capaz de entrar na seita.
-QUEST_LV_0100_20151001_009468	Vá encontrar Margiris depois de ser reconhecido como membro da seita por Gintas
-QUEST_LV_0100_20151001_009469	Você encontrou Margiris, líder da seita. Fale com ele.
+QUEST_LV_0100_20151001_009467	Você obteve o símbolo da verdade com Gintas. Quando levá-lo a Margiris, você será capaz de entrar na ordem.
+QUEST_LV_0100_20151001_009468	Vá encontrar Margiris depois de ser reconhecido como membro da ordem por Gintas
+QUEST_LV_0100_20151001_009469	Você encontrou Margiris, líder da ordem. Fale com ele.
 QUEST_LV_0100_20151001_009470	Interrogue Carlyle
-QUEST_LV_0100_20151001_009471	Carlyle se recusa a falar com a seita
+QUEST_LV_0100_20151001_009471	Carlyle se recusa a falar com a ordem
 QUEST_LV_0100_20151001_009472	Margiris disse que Carlyle não diz nada, então ele pediu que você fingisse não ser um Fiel e interrogasse Carlyle.
 QUEST_LV_0100_20151001_009473	O Teste de Carlyle
 QUEST_LV_0100_20151001_009474	Fale com o espírito de Carlyle
-QUEST_LV_0100_20151001_009475	Margiris pediu que você fingisse não ser um membro da seita e falasse com o espírito de Carlyle. Fale com o espírito de Carlyle.
-QUEST_LV_0100_20151001_009476	Destrua o objeto divino da seita
-QUEST_LV_0100_20151001_009477	Carlyle não acredita que você não é membro da seita. Carlyle pediu para você provar que não é membro da seita destruindo seu objeto divino.
-QUEST_LV_0100_20151001_009478	Você destruiu o objeto divino da seita. Fale com Carlyle.
-QUEST_LV_0100_20151001_009479	Como Carlyle pediu, você destruiu o objeto divino da seita. Fale com o espírito de Carlyle.
+QUEST_LV_0100_20151001_009475	Margiris pediu que você fingisse não ser um membro da ordem e falasse com o espírito de Carlyle. Fale com o espírito de Carlyle.
+QUEST_LV_0100_20151001_009476	Destrua o objeto divino da ordem
+QUEST_LV_0100_20151001_009477	Carlyle não acredita que você não é membro da ordem. Carlyle pediu para você provar que não é membro da ordem destruindo seu objeto divino.
+QUEST_LV_0100_20151001_009478	Você destruiu o objeto divino da ordem. Fale com Carlyle.
+QUEST_LV_0100_20151001_009479	Como Carlyle pediu, você destruiu o objeto divino da ordem. Fale com o espírito de Carlyle.
 QUEST_LV_0100_20151001_009480	Derrote Margiris que revelou sua verdadeira natureza
-QUEST_LV_0100_20151001_009481	Margiris revelou sua verdadeira natureza quando viu o objeto divino da seita sendo destruído. Derrote-o.
+QUEST_LV_0100_20151001_009481	Margiris revelou sua verdadeira natureza quando viu o objeto divino da ordem sendo destruído. Derrote-o.
 QUEST_LV_0100_20151001_009482	Você derrotou Margiris que revelou sua verdadeira natureza. Fale com o espírito de Carlyle que apareceu novamente.
-QUEST_LV_0100_20151001_009483	Você derrotou Margiris que revelou sua verdadeira natureza. Para descobrir o plano da seita, fale com Carlyle com a informação que obteve até agora.
+QUEST_LV_0100_20151001_009483	Você derrotou Margiris que revelou sua verdadeira natureza. Para descobrir o plano da ordem, fale com Carlyle com a informação que obteve até agora.
 QUEST_LV_0100_20151001_009484	Obtenha a lista dos donos do jardim oculto
-QUEST_LV_0100_20151001_009485	O espírito de Kalrail disse que querem a lista dos que têm jardim nos quais ele se escondeu. Kalrail pediu que ache a lista daqueles que têm jardim na Seima Stone Chamber.
+QUEST_LV_0100_20151001_009485	O espírito de Carlyle disse que querem a lista dos que têm jardim nos quais ele se escondeu. Carlyle pediu que ache a lista daqueles que têm jardim na Seima Stone Chamber.
 QUEST_LV_0100_20151001_009486	Entregue a lista daqueles que têm jardins para o espírito de Carlyle
 QUEST_LV_0100_20151001_009487	Você coletou todas as listas daqueles que têm jardins que estavam espalhadas pela câmara funerária de Carlyle. Entregue-as a Carlyle.
 QUEST_LV_0100_20151001_009488	Sigis trouxe a boneca enfeitiçada. Fale com Sigis.
@@ -9493,28 +9493,28 @@ QUEST_LV_0100_20151001_009492	Obtenha %s com os mortos ressuscitados
 QUEST_LV_0100_20151001_009493	Você obteve todos os documentos que estavam espalhados na câmara funerária de Carlyle. Fale com o espírito de Carlyle.
 QUEST_LV_0100_20151001_009494	Queime a lista daqueles que possuem jardins
 QUEST_LV_0100_20151001_009495	O espírito de Carlyle pediu para você queimar a lista daqueles que possuem jardins. Você precisará de uma fogueira para queimar a lista. Acenda a fogueira e queime a lista.
-QUEST_LV_0100_20151001_009496	Fale com a Druida Leja
+QUEST_LV_0100_20151001_009496	Fale com a Druid Leja
 QUEST_LV_0100_20151001_009497	Você viu alguém ferido na floresta. Fale com ela e obtenha alguma informação.
-QUEST_LV_0100_20151001_009498	Obtenha as ervas que a Druida Leja pediu
-QUEST_LV_0100_20151001_009499	Druida Leja disse que se feriu enquanto perseguia Furões que fugiram depois de roubar a comida. Para ajudar na recuperação de Leja, obtenha algumas ervas no local que ela indicou.
-QUEST_LV_0100_20151001_009500	Entregue as ervas para a Druida Leja
-QUEST_LV_0100_20151001_009501	Você obteve todas as ervas que a Druida Leja pediu. Voltar até Leja.
+QUEST_LV_0100_20151001_009498	Obtenha as ervas que a Druid Leja pediu
+QUEST_LV_0100_20151001_009499	Druid Leja disse que se feriu enquanto perseguia Ferrets que fugiram depois de roubar a comida. Para ajudar na recuperação de Leja, obtenha algumas ervas no local que ela indicou.
+QUEST_LV_0100_20151001_009500	Entregue as ervas para a Druid Leja
+QUEST_LV_0100_20151001_009501	Você obteve todas as ervas que a Druid Leja pediu. Voltar até Leja.
 QUEST_LV_0100_20151001_009502	Obtenha %s
 QUEST_LV_0100_20151001_009503	Uma Garota Misteriosa
 QUEST_LV_0100_20151001_009504	Encontro com a garota misteriosa
 QUEST_LV_0100_20151001_009505	Algo está atraindo você até um poder misterioso.
 QUEST_LV_0100_20151001_009506	Você encontrou uma garota misteriosa que está sendo perseguida por demônios.
-QUEST_LV_0100_20151001_009507	Enquanto voltava com as ervas que a Druida Leja pediu, você encontrou a garota misteriosa que estava sendo perseguida por demônios. Conte a Leja sobre a garota.
-QUEST_LV_0100_20151001_009508	Enquanto voltava com as ervas que a Druida Leja pediu, você encontrou a garota misteriosa que estava sendo perseguida por demônios. Conte a Leja sobre a garota.
-QUEST_LV_0100_20151001_009509	Obtenha a comida que os Furões roubaram
-QUEST_LV_0100_20151001_009510	Recupere para os habitantes a comida que os Furões roubaram. Quando o HP de Furão estiver abaixo de 50%, você poderá usar Paralysis Powder para recuperar a comida que os Furões roubaram.
-QUEST_LV_0100_20151001_009511	Obtenha %s dos Furões
+QUEST_LV_0100_20151001_009507	Enquanto voltava com as ervas que a Druid Leja pediu, você encontrou a garota misteriosa que estava sendo perseguida por demônios. Conte a Leja sobre a garota.
+QUEST_LV_0100_20151001_009508	Enquanto voltava com as ervas que a Druid Leja pediu, você encontrou a garota misteriosa que estava sendo perseguida por demônios. Conte a Leja sobre a garota.
+QUEST_LV_0100_20151001_009509	Obtenha a comida que os Ferrets roubaram
+QUEST_LV_0100_20151001_009510	Recupere para os habitantes a comida que os Ferrets roubaram. Quando o HP de Ferret estiver abaixo de 50%, você poderá usar Paralysis Powder para recuperar a comida que os Ferrets roubaram.
+QUEST_LV_0100_20151001_009511	Obtenha %s dos Ferrets
 QUEST_LV_0100_20151001_009512	Fale com o ancião da vila
 QUEST_LV_0100_20151001_009513	Quando você voltava com a comida, encontrou a garota misteriosa novamente. A garota fugiu quando notou o movimento dos habitantes. Vá encontrar o ancião da vila, levando a comida.
 QUEST_LV_0100_20151001_009514	Destrua o totem demoníaco
 QUEST_LV_0100_20151001_009515	Você precisa obter informação sobre a garota misteriosa e o folclore repassado por gerações na vila. Fale com o ancião.
-QUEST_LV_0100_20151001_009516	Destrua o totem demoníaco que Controlou os Furões
-QUEST_LV_0100_20151001_009517	O ancião disse que foi depois dos demônios atacarem a vila. O ancião disse que o totem demoníaco que foi colocado pelos demônios Controlou os Furões. Ele pediu para você destruir o totem demoníaco.
+QUEST_LV_0100_20151001_009516	Destrua o totem demoníaco que Controlou os Ferrets
+QUEST_LV_0100_20151001_009517	O ancião disse que foi depois dos demônios atacarem a vila. O ancião disse que o totem demoníaco que foi colocado pelos demônios Controlou os Ferrets. Ele pediu para você destruir o totem demoníaco.
 QUEST_LV_0100_20151001_009518	Você derrotou os demônios que protegiam o totem demoníaco e o destruiu. Volte até o ancião e conte isso a ele.
 QUEST_LV_0100_20151001_009519	O ancião agradeceu por destruir o totem demoníaco. Ouça o pedido do ancião sobre o que fazer daqui em diante.
 QUEST_LV_0100_20151001_009520	Procure por sinais da garota misteriosa
@@ -9522,91 +9522,91 @@ QUEST_LV_0100_20151001_009521	O ancião da vila disse que, enquanto você foi de
 QUEST_LV_0100_20151001_009522	A garota misteriosa desapareceu perto da estátua gigante da Deusa. Siga a garota misteriosa.
 QUEST_LV_0100_20151001_009523	Fale com o habitante
 QUEST_LV_0100_20151001_009524	Pergunte ao habitante se você pode ajudar com algo
-QUEST_LV_0100_20151001_009525	Obtenha o suco da fruta gigante com os Furões
-QUEST_LV_0100_20151001_009526	Devido à poluição, o habitante está preocupado com a água potável e com as frutas que cresceram utilizando a água do rio. Furões usam o suco obtido das frutas gigantes para beber, e parece que eles conhecem uma maneira de eliminar o veneno das frutas. O habitante pediu para você obter o suco de fruta com os Furões.
+QUEST_LV_0100_20151001_009525	Obtenha o suco da fruta gigante com os Ferrets
+QUEST_LV_0100_20151001_009526	Devido à poluição, o habitante está preocupado com a água potável e com as frutas que cresceram utilizando a água do rio. Ferrets usam o suco obtido das frutas gigantes para beber, e parece que eles conhecem uma maneira de eliminar o veneno das frutas. O habitante pediu para você obter o suco de fruta com os Ferrets.
 QUEST_LV_0100_20151001_009527	Entregue o suco de fruta gigante para o habitante
-QUEST_LV_0100_20151001_009528	Você obteve suco de fruta suficiente com os Furões. Entregue-o ao habitante.
-QUEST_LV_0100_20151001_009529	Obtenha %s de Furões
+QUEST_LV_0100_20151001_009528	Você obteve suco de fruta suficiente com os Ferrets. Entregue-o ao habitante.
+QUEST_LV_0100_20151001_009529	Obtenha %s de Ferrets
 QUEST_LV_0100_20151001_009530	Coloque as especiarias
-QUEST_LV_0100_20151001_009531	O habitante disse que enquanto você foi obter o suco de fruta, um bando de Furões atacou a vila e roubou a comida. Fale com o habitante.
+QUEST_LV_0100_20151001_009531	O habitante disse que enquanto você foi obter o suco de fruta, um bando de Ferrets atacou a vila e roubou a comida. Fale com o habitante.
 QUEST_LV_0100_20151001_009532	Obteve a água vermelha poluída do velho poço
-QUEST_LV_0100_20151001_009533	O habitante disse que Furões jamais voltariam para roubar comida se estivessem com dor de barriga, então ele disse que vai poluir a comida roubada com água vermelha. Traga a água vermelha poluída do velho poço para ele.
+QUEST_LV_0100_20151001_009533	O habitante disse que Ferrets jamais voltariam para roubar comida se estivessem com dor de barriga, então ele disse que vai poluir a comida roubada com água vermelha. Traga a água vermelha poluída do velho poço para ele.
 QUEST_LV_0100_20151001_009534	Entregue a água vermelha poluída ao habitante
 QUEST_LV_0100_20151001_009535	Você obteve água vermelha poluída do velho poço suficiente. Entregue a água vermelha poluída ao habitante.
 QUEST_LV_0100_20151001_009536	Obtenha %s do velho poço.
-QUEST_LV_0100_20151001_009537	O habitante disse que você obteve água vermelha suficiente para poluir a comida, e ele indicou o local onde os Furões escondem sua comida. Fale com o habitante.
+QUEST_LV_0100_20151001_009537	O habitante disse que você obteve água vermelha suficiente para poluir a comida, e ele indicou o local onde os Ferrets escondem sua comida. Fale com o habitante.
 QUEST_LV_0100_20151001_009538	Polua a comida fresca com água vermelha
-QUEST_LV_0100_20151001_009539	O habitante disse que Furões escondem a comida roubada entre as cestas de frutas. Ele disse que há comida que foi roubada faz muito tempo, então apenas a comida fresca deve ser poluída.
+QUEST_LV_0100_20151001_009539	O habitante disse que Ferrets escondem a comida roubada entre as cestas de frutas. Ele disse que há comida que foi roubada faz muito tempo, então apenas a comida fresca deve ser poluída.
 QUEST_LV_0100_20151001_009540	Volte até o habitante
 QUEST_LV_0100_20151001_009541	Você encontrou a comida fresca dentro das cestas suspeitas e a poluiu com a água vermelha. Volte até o habitante.
 QUEST_LV_0100_20151001_009542	A Escultura da Paz
 QUEST_LV_0100_20151001_009543	Fale com o neto do Ancião
-QUEST_LV_0100_20151001_009544	O neto do ancião parece ter algo para dizer depois de ir verificar se os Furões ficaram mais gentis desde o colapso do totem demoníaco. Fale com o neto do ancião.
-QUEST_LV_0100_20151001_009545	Fale com Escultor Widas
-QUEST_LV_0100_20151001_009546	O neto do ancião disse que, apesar do totem demoníaco ter sido destruído, os Furões continuam violentos. Pergunte ao Escultor Widas se há uma forma de acalmá-los.
-QUEST_LV_0100_20151001_009547	Escultor Widas estava pesquisando como criar uma escultura que cancelasse os efeitos do totem demoníaco. Fale com Widas.
+QUEST_LV_0100_20151001_009544	O neto do ancião parece ter algo para dizer depois de ir verificar se os Ferrets ficaram mais gentis desde o colapso do totem demoníaco. Fale com o neto do ancião.
+QUEST_LV_0100_20151001_009545	Fale com Dievdirbys Widas
+QUEST_LV_0100_20151001_009546	O neto do ancião disse que, apesar do totem demoníaco ter sido destruído, os Ferrets continuam violentos. Pergunte ao Dievdirbys Widas se há uma forma de acalmá-los.
+QUEST_LV_0100_20151001_009547	Dievdirbys Widas estava pesquisando como criar uma escultura que cancelasse os efeitos do totem demoníaco. Fale com Widas.
 QUEST_LV_0100_20151001_009548	Coloque a escultura da paz
-QUEST_LV_0100_20151001_009549	Escultor Widas criou a escultura da paz depois de um longo período de pesquisa. Ele afirma que os Furões voltarão a ficar calmos quando você colocar a escultura da paz perto deles.
-QUEST_LV_0100_20151001_009550	Quando você coloca a escultura da paz, os Furões ficam mais violentos. Conte isso a Widas.
+QUEST_LV_0100_20151001_009549	Dievdirbys Widas criou a escultura da paz depois de um longo período de pesquisa. Ele afirma que os Ferrets voltarão a ficar calmos quando você colocar a escultura da paz perto deles.
+QUEST_LV_0100_20151001_009550	Quando você coloca a escultura da paz, os Ferrets ficam mais violentos. Conte isso a Widas.
 QUEST_LV_0100_20151001_009551	A Garota Guia
 QUEST_LV_0100_20151001_009552	Procure por sinais da garota misteriosa
 QUEST_LV_0100_20151001_009553	Persiga a garota misteriosa, seguindo a direção na qual ela desapareceu.
 QUEST_LV_0100_20151001_009554	Você pôde ver rastros da garota enquanto a perseguia, seguindo na direção em que ela foi. Parece que você será capaz de encontrá-la se seguir os rastros.
-QUEST_LV_0100_20151001_009555	Você encontrou Druida Leja enquanto persegue a garota. Pergunte a Leja em qual direção a garota foi.
-QUEST_LV_0100_20151001_009556	Druida Leja disse que veio aqui para olhar para a escultura gigante, mas ela está presa por causa do Furões lobotomizados pelo demônio. E então, a garota misteriosa apareceu e os Furões a perseguiram.
-QUEST_LV_0100_20151001_009557	Procure por rastros da garota derrotando Furões
-QUEST_LV_0100_20151001_009558	Druida Leja indicou em qual direção a garota misteriosa foi. Leja sugeriu procurá-la derrotando Furões, já que estão perseguindo a garota.
-QUEST_LV_0100_20151001_009559	Derrote Furões
+QUEST_LV_0100_20151001_009555	Você encontrou Druid Leja enquanto persegue a garota. Pergunte a Leja em qual direção a garota foi.
+QUEST_LV_0100_20151001_009556	Druid Leja disse que veio aqui para olhar para a escultura gigante, mas ela está presa por causa do Ferrets lobotomizados pelo demônio. E então, a garota misteriosa apareceu e os Ferrets a perseguiram.
+QUEST_LV_0100_20151001_009557	Procure por rastros da garota derrotando Ferrets
+QUEST_LV_0100_20151001_009558	Druid Leja indicou em qual direção a garota misteriosa foi. Leja sugeriu procurá-la derrotando Ferrets, já que estão perseguindo a garota.
+QUEST_LV_0100_20151001_009559	Derrote Ferrets
 QUEST_LV_0100_20151001_009560	A Garota Desaparecida
 QUEST_LV_0100_20151001_009561	Procure pela garota misteriosa
-QUEST_LV_0100_20151001_009562	Você sente a energia misteriosa novamente enquanto derrota Furões. Você deveria encontrar a garota seguindo a energia misteriosa.
-QUEST_LV_0100_20151001_009563	A garota misteriosa foi capturada pelo Demon Lord. Relate isso para a Druida Leja.
-QUEST_LV_0100_20151001_009564	O Demon Lord capturou a garota e desapareceu. Relate isso para a Druida Leja.
+QUEST_LV_0100_20151001_009562	Você sente a energia misteriosa novamente enquanto derrota Ferrets. Você deveria encontrar a garota seguindo a energia misteriosa.
+QUEST_LV_0100_20151001_009563	A garota misteriosa foi capturada pelo Demon Lord. Relate isso para a Druid Leja.
+QUEST_LV_0100_20151001_009564	O Demon Lord capturou a garota e desapareceu. Relate isso para a Druid Leja.
 QUEST_LV_0100_20151001_009565	Obtenha as ervas
-QUEST_LV_0100_20151001_009566	Druida Leja disse que viu os Furões desaparecendo enquanto carregavam uma sacola estranha. Ela disse onde fica o acampamento dos Furões. Leja disse a você que criaria uma fragrância que faria os Furões desmaiarem antes de você entrar em seu acampamento. Para isso, ela pediu para você colher certas ervas.
-QUEST_LV_0100_20151001_009567	Entregue as ervas para a Druida Leja
-QUEST_LV_0100_20151001_009568	Você obteve todas as ervas que a Druida Leja pediu. Entregue-as para a Druida Leja.
+QUEST_LV_0100_20151001_009566	Druid Leja disse que viu os Ferrets desaparecendo enquanto carregavam uma sacola estranha. Ela disse onde fica o acampamento dos Ferrets. Leja disse a você que criaria uma fragrância que faria os Ferrets desmaiarem antes de você entrar em seu acampamento. Para isso, ela pediu para você colher certas ervas.
+QUEST_LV_0100_20151001_009567	Entregue as ervas para a Druid Leja
+QUEST_LV_0100_20151001_009568	Você obteve todas as ervas que a Druid Leja pediu. Entregue-as para a Druid Leja.
 QUEST_LV_0100_20151001_009569	Obtenha %s
-QUEST_LV_0100_20151001_009570	Druida Leja disse que ela apontará diversos locais onde Furões podem ter escondido a garota, e também dará a fragrância. Fale com ela.
-QUEST_LV_0100_20151001_009571	Deixe a fragrância se espalhar e vasculhe o acampamento dos Furões
-QUEST_LV_0100_20151001_009572	Você precisa encontrar a garota enquanto os Furões estão desmaiados. Mas para espalhar a fragrância você precisa de uma fogueira, e fique atento, pois o efeito não durará muito tempo.
+QUEST_LV_0100_20151001_009570	Druid Leja disse que ela apontará diversos locais onde Ferrets podem ter escondido a garota, e também dará a fragrância. Fale com ela.
+QUEST_LV_0100_20151001_009571	Deixe a fragrância se espalhar e vasculhe o acampamento dos Ferrets
+QUEST_LV_0100_20151001_009572	Você precisa encontrar a garota enquanto os Ferrets estão desmaiados. Mas para espalhar a fragrância você precisa de uma fogueira, e fique atento, pois o efeito não durará muito tempo.
 QUEST_LV_0100_20151001_009573	Resgate a garota misteriosa
-QUEST_LV_0100_20151001_009574	Você precisa salvar a garota misteriosa enquanto os Furões estão desmaiados com a fragrância.
+QUEST_LV_0100_20151001_009574	Você precisa salvar a garota misteriosa enquanto os Ferrets estão desmaiados com a fragrância.
 QUEST_LV_0100_20151001_009575	Você obteve a pedra!
 QUEST_LV_0100_20151001_009576	Não pode obter nada!
 QUEST_LV_0100_20151016_009577	Essa placa de pedra é a Luz da Salvação?{nl}Me parece ser só uma placa antiga.
 QUEST_LV_0100_20151016_009578	Você está dizendo que quer entrar em Cristal Myne para encontrar a Luz da Salvação? {nl}
 QUEST_LV_0100_20151016_009579	Não estamos em posição de oferecer o auxílio de nossas tropas para defender Reveladores enquanto eles procuram pela Luz da Salvação. {nl}Mas nós também não podemos ignorar a ordem do Bispo e do Cavaleiro Comandante. {nl}
-QUEST_LV_0100_20151016_009580	Ah, deixe-me dar uma informação útil em agradecimento por ajudar o povo da vila.{nl}A Luz da Salvação que os Reveladores estão buscando pode ser encontrada na Área Fechada.
+QUEST_LV_0100_20151016_009580	Ah, deixe-me dar uma informação útil em agradecimento por ajudar o povo da vila.{nl}A Luz da Salvação que os Reveladores estão buscando pode ser encontrada na Closed Area.
 QUEST_LV_0100_20151016_009581	Mas alguma força me impede de me aproximar dela, como se estivesse{nl}destinada à posse de certo ser.{nl}Alguns dias depois do incidente, o Bispo sonhou com a Luz da Salvação.{nl}
 QUEST_LV_0100_20151016_009582	Talvez a força que eu senti fosse a Luz da Salvação...{nl}É o que eu acho.
 QUEST_LV_0100_20151016_009583	Isso é tudo por causa do sonho do Bispo de Klaipeda. {nl}Que história é essa de 'Luz da Salvação' em Crystal Mine? Nunca vi tal coisa. {nl}
 QUEST_LV_0100_20151016_009584	Agradeço pelo resgate.{nl}Você também deve ser um dos Reveladores que veio em busca da Luz da Salvação.{nl}
 QUEST_LV_0100_20151016_009585	De qualquer forma, o Bispo em pessoa também teve um sonho enquanto rezava por um desfecho. {nl}Em seus sonhos, a Deusa disse que a evidência da salvação seria encontrada em Crystal Mine {nl}
 QUEST_LV_0100_20151016_009586	Estou com problemas.{nl}Preciso colocar estes Notice Boards, mas não conseguirei nem com dois de mim.{nl}
-QUEST_LV_0100_20151016_009587	A Kedoran Merchant Alliance é severa com novatos, como pode ver.{nl}Leopoldas é especialmente brutal... Ele me fez fazer tudo sozinho.
+QUEST_LV_0100_20151016_009587	A Aliança Comercial Kedoran é severa com novatos, como pode ver.{nl}Leopoldas é especialmente brutal... Ele me fez fazer tudo sozinho.
 QUEST_LV_0100_20151016_009588	Sério? Você está bem com isso?
 QUEST_LV_0100_20151016_009589	Se é assim, você poderia colocar esses quadros de avisos lá embaixo? {Nl} Jurate está escavando artefatos sagrados lá embaixo. {nl}
 QUEST_LV_0100_20151016_009590	Tenho certeza que você será discreto me ajudando também{nl} Bem, preciso ir. Tenho que ir para outro lugar agora.
 QUEST_LV_0100_20151016_009591	Meus agradecimentos.{nl}Você não se deixou capturar por Leopoldas, certo?
-QUEST_LV_0100_20151016_009592	Meu nome é Serapinas e eu sou um novato na Kedoran Merchant Alliance... e umm... eu estou promovendo essa Aliança de Mercadores agora. Se você tiver algum tempo, se importaria de me ajudar a promovê-la? 
+QUEST_LV_0100_20151016_009592	Meu nome é Serapinas e eu sou um novato na Aliança Comercial Kedoran... e umm... eu estou promovendo essa Aliança de Mercadores agora. Se você tiver algum tempo, se importaria de me ajudar a promovê-la? 
 QUEST_LV_0100_20151016_009593	Edita
-QUEST_LV_0100_20151016_009594	Eu sou Edita. Estou no comando da equipe de Recuperação para a Merchant Alliance. {Nl} Tenho certeza de que você está curioso sobre por que estamos recuperando itens aqui. {Nl} Você talvez tenha ouvido isso de Leopoldas, mas nós estamos fornecendo importantíssimos itens e materiais para a população.
-QUEST_LV_0100_20151016_009595	{nl} Eu estava carregando itens para a Merchant Alliance como qualquer outro dia, passei por aqui em direção à Fedimian. {nl} Mas eu nunca poderia adivinhar. Que seria mais tarde conhecido como Medzio Diena ... {nl} Todos os nossos carrinhos viraram ... Os itens naqueles carrinhos foram enterrados por toda parte.
+QUEST_LV_0100_20151016_009594	Eu sou Edita. Estou no comando da equipe de Recuperação para a Aliança Comercial. {Nl} Tenho certeza de que você está curioso sobre por que estamos recuperando itens aqui. {Nl} Você talvez tenha ouvido isso de Leopoldas, mas nós estamos fornecendo importantíssimos itens e materiais para a população.
+QUEST_LV_0100_20151016_009595	{nl} Eu estava carregando itens para a Aliança Comercial como qualquer outro dia, passei por aqui em direção à Fedimian. {nl} Mas eu nunca poderia adivinhar. Que seria mais tarde conhecido como Medzio Diena ... {nl} Todos os nossos carrinhos viraram ... Os itens naqueles carrinhos foram enterrados por toda parte.
 {nl}정말 중요한 것들이었는데..	QUEST_LV_0100_20151001_008332
 QUEST_LV_0100_20151016_009596	{nl} É por isso que as equipes de recuperação foram criadas e por que eu estou aqui. {nl} Alguns estão localizando-os com detectores para uma recuperação mais eficiente. {nl} Outros estão indo para esses locais para escavar. {nl} Se você deseja ajudar, marcamos um ponto lá, traga de volta o item depois de escavá-lo cuidadosamente. 
-QUEST_LV_0100_20151016_009597	Há muitos monstros próximos ameaçando os membros da Merchant Alliance. {Nl} Você poderia eliminá-los para nós?
+QUEST_LV_0100_20151016_009597	Há muitos monstros próximos ameaçando os membros da Aliança Comercial. {Nl} Você poderia eliminá-los para nós?
 QUEST_LV_0100_20151016_009598	Tome cuidado.
 QUEST_LV_0100_20151016_009599	Obrigado por traze-lo de volta.
 QUEST_LV_0100_20151016_009600	A equipe de escavação acaba de relatar que há algo enterrado lá. {Nl} Você poderia dar uma olhada? {Nl} Levará um tempo até que a equipe de recuperação chegue lá ...
-QUEST_LV_0100_20151016_009601	Estes são os registros da Merchant Alliance.{nl}Foram destruídos...{nl}Provavelmente por monstros.{nl}Me passa elas aqui.
-QUEST_LV_0100_20151016_009602	Estas são anotações dos materias de flecha que a Merchant Alliance havia conseguido para Lydia Schaffen e o primeiro Mestre Fletcher.{nl}É muito difícil para mim recupera-las, vamos quer que tentar na cidade.
+QUEST_LV_0100_20151016_009601	Estes são os registros da Aliança Comercial.{nl}Foram destruídos...{nl}Provavelmente por monstros.{nl}Me passa elas aqui.
+QUEST_LV_0100_20151016_009602	Estas são anotações dos materias de flecha que a Aliança Comercial havia conseguido para Lydia Schaffen e o primeiro Mestre Fletcher.{nl}É muito difícil para mim recupera-las, vamos quer que tentar na cidade.
 QUEST_LV_0100_20151016_009603	Deve haver algo à norte daqui também.{nl}Não consigo achar exatamente onde, infelizmente.{nl}Vou te dar o detector para que você experimente.
 QUEST_LV_0100_20151016_009604	Tente cavar com cuidado depois de que você localizar.
 QUEST_LV_0100_20151016_009605	Tente usar o detector devagar conforme você vai subindo.
 QUEST_LV_0100_20151016_009606	{nl}Está é uma tinta misteriosa. {nl}É uma tinta especial usada para escrever documentos importantes.{nl}Suspeitamos que era usada para esconder alguns registros.
 QUEST_LV_0100_20151016_009607	{nl}Ah, nós cuidaremos do restante nós mesmo.{nl}Você foi de grande ajuda!
-QUEST_LV_0100_20151016_009608	Olá.{nl}Eu sou Margellius, responsável por cuidar dos registros da Kedoran Merchant Alliance.
+QUEST_LV_0100_20151016_009608	Olá.{nl}Eu sou Margellius, responsável por cuidar dos registros da Aliança Comercial Kedoran.
 QUEST_LV_0100_20151016_009609	{nl}Você veio à pedido de Leopoldas.{nl}Você poderia, então, recuperar os materias educativos pegos pelos monstros?{nl}
 QUEST_LV_0100_20151016_009610	Você viu os novatos que estão aos cuidados de Leopoldas, certo?{nl}Este material é necessário para ensina-los.
 QUEST_LV_0100_20151016_009611	Se nós recuperarmos os informativos que os monstros levaram, planejo fazer mais cópias para distribuir aos novatos.
@@ -9693,7 +9693,7 @@ QUEST_LV_0100_20151016_009691	Não tenho ideia do que está escondido nesse cour
 QUEST_LV_0100_20151016_009692	E se os monstros o tivessem comido?
 QUEST_LV_0100_20151016_009693	Deixe me ver.{nl}Hm..{nl}
 QUEST_LV_0100_20151016_009694	Eu já vi este brasão antes...{nl}Ah... Ah!{nl}
-QUEST_LV_0100_20151016_009695	Eu lembro agora. Eu já vi isso em um livro.{nl}Esse é o brasão do "Lunático Demônio Rei", Vaiga!{nl}
+QUEST_LV_0100_20151016_009695	Eu lembro agora. Eu já vi isso em um livro.{nl}Esse é o brasão do Demon King lunático, Vaiga!{nl}
 QUEST_LV_0100_20151016_009696	O que poderia estar acontecendo.{nl}Ninguém além dos que trabalham para Vaiga usa esse brasão.{nl}
 QUEST_LV_0100_20151016_009697	Precisamos alertar os outros sobre isso!{nl}Vá avisar Gedas!{nl}
 QUEST_LV_0100_20151016_009698	Não temos tempo.{nl}Depressa!
@@ -9744,7 +9744,7 @@ QUEST_LV_0100_20151016_009742	Para fazer um certificado, precisamos primeiro de 
 QUEST_LV_0100_20151016_009743	Vamos inscrever a magia da fortaleza no cogumelo que você trouxe.{nl}
 QUEST_LV_0100_20151016_009744	Infelizmente meu corpo nao é o que costumava ser.{nl}Conjurar magias pode sobrecarregar meu corpo.{nl}
 QUEST_LV_0100_20151016_009745	Não se desespere! Os monstros da fortaleza possuem uma energia que pode ser usada para substituir a minha magia.{nl}Por favor, junte-as para mim. {nl}
-QUEST_LV_0100_20151016_009746	Os monstros que vivem nesta área por um tempo sempre têm Earth Crystals neles.
+QUEST_LV_0100_20151016_009746	Os monstros que vivem nesta área por um tempo sempre tem Earth Crystals neles.
 QUEST_LV_0100_20151016_009747	Não é como nos velhos tempos.{nl}O uso imprudente da magia... irá deixar uma marca no meu velho corpo.
 QUEST_LV_0100_20151016_009748	Certificado é somente uma palavra extravagante. O princípio por trás disso é bastante simples.{nl}O que importa são os igredientes e como você os mistura.{nl}
 QUEST_LV_0100_20151016_009749	O processo não vai demorar. {nl}Por favor, espere um momento.
@@ -9794,7 +9794,7 @@ QUEST_LV_0100_20151016_009792	Aquele velho... Não deve bater bem da cabeça.{nl
 QUEST_LV_0100_20151016_009793	Toda essa historinha de certificado.{nl}Como que ele disse? "Pode sobrecarregar meu corpo", uma ova!{nl}
 QUEST_LV_0100_20151016_009794	Há tantos magos e clérigos mais velhos. Como que eles conseguem, eh?{nl}Ele disse isso porque está escondendo algo!{nl}
 QUEST_LV_0100_20151016_009795	Algo está errado com os espíritos também! {nl}Por que eles estariam tão furiosos com ele, já que ele seria um homem tão bom?{nl}
-QUEST_LV_0100_20151016_009796	Sinto que algo algo está muito errado.{nl}Deve haver algo que não estamos conseguindo perceber de cara.
+QUEST_LV_0100_20151016_009796	Sinto que algo está muito errado.{nl}Deve haver algo que não estamos conseguindo perceber de cara.
 QUEST_LV_0100_20151016_009797	Torço para estar errada.{nl}É melhor você retornar para este tal Eminent. Melhor ele não suspeitar de você. {nl}
 QUEST_LV_0100_20151016_009798	Tenha cuidado, por favor.
 QUEST_LV_0100_20151016_009799	Vocês está me dizendo que eles estava jundo dos demônios?{nl}E eles nem o atacaram nem nada?{nl}
@@ -9943,11 +9943,11 @@ QUEST_LV_0100_20151016_009938	Sobre o tupo de materiais
 QUEST_LV_0100_20151016_009939	Começo e Fim
 QUEST_LV_0100_20151016_009940	Achados e Perdidos (1)
 QUEST_LV_0100_20151016_009941	Achados e Perdidos (2)
-QUEST_LV_0100_20151016_009942	O estoque da Merchant Alliance está infestado de monstros!{nl}Destrua-os e ache as pistas!
+QUEST_LV_0100_20151016_009942	O estoque da Aliança Comercial está infestado de monstros!{nl}Destrua-os e ache as pistas!
 QUEST_LV_0100_20151016_009943	Achados e Perdidos (3)
-QUEST_LV_0100_20151016_009944	Materiais Educativos da Kedoran Merchant Alliance (1)
+QUEST_LV_0100_20151016_009944	Materiais Educativos da Aliança Comercial Kedoran (1)
 QUEST_LV_0100_20151016_009945	O que é o Manual do Novo Recruta?
-QUEST_LV_0100_20151016_009946	Materiais Educativos da Kedoran Merchant Alliance (2)
+QUEST_LV_0100_20151016_009946	Materiais Educativos da Aliança Comercial Kedoran (2)
 QUEST_LV_0100_20151016_009947	Erguendo Lápides (1)
 QUEST_LV_0100_20151016_009948	Erguendo Lápides (2)
 QUEST_LV_0100_20151016_009949	Erguendo Lápides (3)
@@ -10077,12 +10077,12 @@ QUEST_LV_0100_20151016_010072	Espalhando o sangue imundo ao redor
 QUEST_LV_0100_20151016_010073	A Coisa Que Não Deveria Deixar Ser
 QUEST_LV_0100_20151016_010074	Eu devo trazer a completa e absoluta destruição
 QUEST_LV_0100_20151016_010075	A Mensagem Secreta da Deusa
-QUEST_LV_0100_20151016_010076	Preparações para Reconstrução do Templo (1)
-QUEST_LV_0100_20151016_010077	Preparações para Reconstrução do Templo (2)
+QUEST_LV_0100_20151016_010076	Reconstruindo o Templo (1)
+QUEST_LV_0100_20151016_010077	Reconstruindo o Templo (2)
 QUEST_LV_0100_20151016_010078	Eu voltarei com respostas
 QUEST_LV_0100_20151016_010079	Por que não vai você mesmo?
 QUEST_LV_0100_20151016_010080	Explicando a situação
-QUEST_LV_0100_20151016_010081	Preparações para Reconstrução do Templo (3)
+QUEST_LV_0100_20151016_010081	Reconstruindo o Templo (3)
 QUEST_LV_0100_20151016_010082	Eu irei purificar
 QUEST_LV_0100_20151016_010083	Acho que não...
 QUEST_LV_0100_20151016_010084	A Flor Enriquecida com a Terra
@@ -10091,39 +10091,39 @@ QUEST_LV_0100_20151016_010086	Fale com Mardas
 QUEST_LV_0100_20151016_010087	Parece que Mardas está sendo perseguido. Escute o que ele tem a dizer.
 QUEST_LV_0100_20151016_010088	Inspecione o Local Infestado de Demônios
 QUEST_LV_0100_20151016_010089	Mardas disse que está sendo perseguido por demônios. Ele pediu para você verificar se eles ainda estão procurando por ele.
-QUEST_LV_0100_20151016_010090	Você viu monstros usando a Owl Sculpture para enviar uma conta de luz. Pergunte a Mardas o que ele sabe.
-QUEST_LV_0100_20151016_010091	Pergunte a Mardas se ele já viu esta conta enviada pela Owl Sculpture
-QUEST_LV_0100_20151016_010092	Siga a luz da Owl Sculpture
-QUEST_LV_0100_20151016_010093	Mardas disse que os demônios estão coletando estas contas em algum lugar. Siga a conta de luz.
-QUEST_LV_0100_20151016_010094	Suba a colina e siga a conta de luz.
-QUEST_LV_0100_20151016_010095	A conta de luz foi enviada para outra Owl Sculpture na colina. Suba-a e não perca de vista...
-QUEST_LV_0100_20151016_010096	Salvou a Owl Chief Sculpture. Parece que ela é capaz de falar. Escute o que tem a dizer.
-QUEST_LV_0100_20151016_010097	A Owl Chief Sculpture, diferente das outras, está sã. Pergunte se sabe o que acontecem em Karolis Springs.
+QUEST_LV_0100_20151016_010090	Você viu monstros usando a Escultura de Coruja para enviar uma luz estranha. Pergunte a Mardas o que ele sabe.
+QUEST_LV_0100_20151016_010091	Pergunte a Mardas se ele já viu esta conta enviada pela Escultura de Coruja
+QUEST_LV_0100_20151016_010092	Siga a luz da Escultura de Coruja
+QUEST_LV_0100_20151016_010093	Mardas disse que os demônios estão coletando estas contas em algum lugar. Siga a luz estranha.
+QUEST_LV_0100_20151016_010094	Suba a colina e siga a luz estranha.
+QUEST_LV_0100_20151016_010095	A luz estranha foi enviada para outra Escultura de Coruja na colina. Suba-a e não perca de vista...
+QUEST_LV_0100_20151016_010096	Salvou a Escultura do Líder Coruja. Parece que ela é capaz de falar. Escute o que tem a dizer.
+QUEST_LV_0100_20151016_010097	A Escultura do Líder Coruja, diferente das outras, está sã. Pergunte se sabe o que acontecem em Karolis Springs.
 QUEST_LV_0100_20151016_010098	Procure pelo Karolis Springs Crystal
-QUEST_LV_0100_20151016_010099	Para conseguir salvar as Owl Sculptures dos demônios, a Karolis Forest precisa ser revivida. Recuperar o Karolis Altar é o primeiro passo. Use o Guide Owl's Will para achar o Karolis Altar Crystal.
+QUEST_LV_0100_20151016_010099	Para conseguir salvar as Esculturas de Coruja dos demônios, a Karolis Forest precisa ser revivida. Recuperar o Karolis Altar é o primeiro passo. Use o Guide Owl's Will para achar o Karolis Altar Crystal.
 QUEST_LV_0100_20151016_010100	Recupere Karolis Altar Fragments dos monstros
 QUEST_LV_0100_20151016_010101	Os monstros têm os fragmentos do Karolis Altar. Derrote-os para consegui-los.
 QUEST_LV_0100_20151016_010102	Teleporte para o local onde o Karolis Altar costumava ficar.
 QUEST_LV_0100_20151016_010103	Vá para o logar onde o Karolis Altar costumava ficar.
 QUEST_LV_0100_20151016_010104	Restaure o altar onde está o que restou dele
-QUEST_LV_0100_20151016_010105	Retorne para o Owl Chief
-QUEST_LV_0100_20151016_010106	Altar restaurado. Retorne para o Owl Chief.
-QUEST_LV_0100_20151016_010107	Não é o suficiente para trazer Karolis Springs de volta à vida. Fale mais com o Owl Chief.
+QUEST_LV_0100_20151016_010105	Retorne para o Líder Coruja
+QUEST_LV_0100_20151016_010106	Altar restaurado. Retorne para o Líder Coruja.
+QUEST_LV_0100_20151016_010107	Não é o suficiente para trazer Karolis Springs de volta à vida. Fale mais com o Líder Coruja.
 QUEST_LV_0100_20151016_010108	Ativar as Luzes de Karolis
 QUEST_LV_0100_20151016_010109	As Luzes de Karolis, ao redor do altar, precisam ser ativadas para restaurar o poder do altar. Há 4 luzes, que se extinguem rapidamente. Seja rápido.
-QUEST_LV_0100_20151016_010110	Altar restaurado. Retorne para o Owl Chief.
-QUEST_LV_0100_20151016_010111	O altar foi restaurado. Pergunte ao Owl Chief se funcionou.
-QUEST_LV_0100_20151016_010112	Colete o poder das Owl Sculptures
-QUEST_LV_0100_20151016_010113	A Owl Chief Sculpture disse que, para garantir a destruição da Mind Control Tower, é necessário coletar o poder das Owl Sculptures. Ache-as e pegue seus poderes.
-QUEST_LV_0100_20151016_010114	Coletado todos os poderes das Owl Sculptures. Retorne para o Owl Chief.
-QUEST_LV_0100_20151016_010115	Coletado todos os poderes das Owl Sculptures. Fale com a Owl Chief Sculpture.
+QUEST_LV_0100_20151016_010110	Altar restaurado. Retorne para o Líder Coruja.
+QUEST_LV_0100_20151016_010111	O altar foi restaurado. Pergunte ao Líder Coruja se funcionou.
+QUEST_LV_0100_20151016_010112	Colete o poder das Esculturas de Coruja
+QUEST_LV_0100_20151016_010113	A Escultura do Líder Coruja disse que, para garantir a destruição da Mind Control Tower, é necessário coletar o poder das Esculturas de Coruja. Ache-as e pegue seus poderes.
+QUEST_LV_0100_20151016_010114	Coletado todos os poderes das Esculturas de Coruja. Retorne para o Líder Coruja.
+QUEST_LV_0100_20151016_010115	Coletado todos os poderes das Esculturas de Coruja. Fale com a Escultura do Líder Coruja.
 QUEST_LV_0100_20151016_010116	Destrua a Mind Control Tower
-QUEST_LV_0100_20151016_010117	Destrua a Mind Control Tower com o poder das Owl Sculptures.
-QUEST_LV_0100_20151016_010118	A Mind Control Tower doi destruída. Retorne para a Owl Chief Sculpture.
-QUEST_LV_0100_20151016_010119	Mardas está parado ao lado da Owl Chief Sculpture. Pergute-o o que estavam conversando.
-QUEST_LV_0100_20151016_010120	Fale com a Owl Chief Sculpture novamente.
-QUEST_LV_0100_20151016_010121	A Owl Chief Sculpture disse que pensará em um plano após ter conversado com Mardas. Enquanto isso, pergunte o que pode fazer.
-QUEST_LV_0100_20151016_010122	A Owl Sculpture está bolando um plano para resolver o problema causado pelos demônios, baseado na história de Mardas. Pergunte o que pode fazer enquanto eles discutem.
+QUEST_LV_0100_20151016_010117	Destrua a Mind Control Tower com o poder das Esculturas de Coruja.
+QUEST_LV_0100_20151016_010118	A Mind Control Tower doi destruída. Retorne para a Escultura do Líder Coruja.
+QUEST_LV_0100_20151016_010119	Mardas está parado ao lado da Escultura do Líder Coruja. Pergute-o o que estavam conversando.
+QUEST_LV_0100_20151016_010120	Fale com a Escultura do Líder Coruja novamente.
+QUEST_LV_0100_20151016_010121	A Escultura do Líder Coruja disse que pensará em um plano após ter conversado com Mardas. Enquanto isso, pergunte o que pode fazer.
+QUEST_LV_0100_20151016_010122	A Escultura de Coruja está bolando um plano para resolver o problema causado pelos demônios, baseado na história de Mardas. Pergunte o que pode fazer enquanto eles discutem.
 QUEST_LV_0100_20151016_010123	Colete a Energy of Karolis Springs
 QUEST_LV_0100_20151016_010124	Vá para o local onde diz conter a maior quantidade de energia e colete-as.
 QUEST_LV_0100_20151016_010125	Destrua as Lápides de Nestopa
@@ -10148,33 +10148,33 @@ QUEST_LV_0100_20151016_010143	Fale as Novidades para Eduinas
 QUEST_LV_0100_20151016_010144	Você precisa contar à Eduinas o que aconteceu até aqui. Fale com Eduinas.
 QUEST_LV_0100_20151016_010145	Fale para Damijonas o que você sabe
 QUEST_LV_0100_20151016_010146	Finalmente, fale com Damijonas
-QUEST_LV_0100_20151016_010147	Encontre Leopoldoas, da Kedoran Merchant Alliance.
+QUEST_LV_0100_20151016_010147	Encontre Leopoldas, da Aliança Comercial Kedoran.
 QUEST_LV_0100_20151016_010148	Fale com Leopoldas, o novo gerente de recrutas.
-QUEST_LV_0100_20151016_010149	Serapinas é o responsável de Relações Públicas. Agora, ache um jogador no campo, usando o Kedoran Merchant Alliance Scroo nele. Você e o jogador receberão os Benefícios da Kedoran Merchant Alliance. Se você ou o outro jogador A)já recebeu os benefícios ou B)Maior que nível 10, os benefícios não serão aplicados. Certifique-se de usar o pergaminho corretamente, pois o tempo de carregamento não é curto.
-QUEST_LV_0100_20151016_010150	Você terminou de promover a Kedoran Merchant Alliance. Volte para Serapinas.
+QUEST_LV_0100_20151016_010149	Serapinas é o responsável de Relações Públicas. Agora, ache um jogador no campo, usando o Aliança Comercial Kedoran Scroll nele. Você e o jogador receberão os Benefícios da Aliança Comercial Kedoran. Se você ou o outro jogador A)já recebeu os benefícios ou B)Maior que nível 10, os benefícios não serão aplicados. Certifique-se de usar o pergaminho corretamente, pois o tempo de carregamento não é curto.
+QUEST_LV_0100_20151016_010150	Você terminou de promover a Aliança Comercial Kedoran. Volte para Serapinas.
 QUEST_LV_0100_20151016_010151	Achados e Perdidos
 QUEST_LV_0100_20151016_010152	Ache Edita
 QUEST_LV_0100_20151016_010153	Vá e econtre Edita.
-QUEST_LV_0100_20151016_010154	Ache os itens perditos da Merchant Alliance
-QUEST_LV_0100_20151016_010155	Vá até o local que Edita disse e recupere os itens perdidos durante Medzio Diena pela Merchant Alliance. Derrote os monstros que você achar no caminho.
+QUEST_LV_0100_20151016_010154	Ache os itens perdidos da Aliança Comercial
+QUEST_LV_0100_20151016_010155	Vá até o local que Edita disse e recupere os itens perdidos durante Medzio Diena pela Aliança Comercial. Derrote os monstros que você achar no caminho.
 QUEST_LV_0100_20151016_010156	Fale com Edita
 QUEST_LV_0100_20151016_010157	Protegeu o que Edita estava falando. Devolva para ela.
-QUEST_LV_0100_20151016_010158	Removendo O Lixo pelo Caminho
+QUEST_LV_0100_20151016_010158	Removendo o Lixo pelo Caminho
 QUEST_LV_0100_20151016_010159	Pergunte à Edita se tem mais alguma coisa para fazer.
 QUEST_LV_0100_20151016_010160	Derrote os monstros e recupere os itens.
 QUEST_LV_0100_20151016_010161	Os Monstros já infestaram a área que os itens devem estar. Ensine uma lição a eles e recupere os itens.
 QUEST_LV_0100_20151016_010162	Você recuperou tudo, mas para saber o que são, você deve verificar com Jurate.
 QUEST_LV_0100_20151016_010163	Escute mais detalhes dos itens recuperados.
 QUEST_LV_0100_20151016_010164	Inspecione as áres onde os itens devem estar.
-QUEST_LV_0100_20151016_010165	Materiais Educativos da Kedoran Merchant Alliance
+QUEST_LV_0100_20151016_010165	Materiais Educativos da Aliança Comercial Kedoran
 QUEST_LV_0100_20151016_010166	Reporte para Edita
 QUEST_LV_0100_20151016_010167	Recuperou todos os itens com sucesso. Entregue-os para Edita.
-QUEST_LV_0100_20151016_010168	Materias Educativos da Kedoran Merchant Alliance
+QUEST_LV_0100_20151016_010168	Materias Educativos da Aliança Comercial Kedoran
 QUEST_LV_0100_20151016_010169	Visite Margellius, que é o responsável pelos registros. Ele parece precisar de ajuda.
-QUEST_LV_0100_20151016_010170	Orientações Educacionais da Kedoran Merchant Alliance
-QUEST_LV_0100_20151016_010171	Recupere os Materias Educativos da Kedoran Merchant Alliance dos monstros.
+QUEST_LV_0100_20151016_010170	Orientações Educacionais da Aliança Comercial Kedoran
+QUEST_LV_0100_20151016_010171	Recupere os Materias Educativos da Aliança Comercial Kedoran dos monstros.
 QUEST_LV_0100_20151016_010172	Recuperou todo o material educacional. Entregue-os para Margellius.
-QUEST_LV_0100_20151016_010173	Normas Educacionas da Kedoran Merchant Alliance
+QUEST_LV_0100_20151016_010173	Normas Educacionais da Aliança Comercial Kedoran
 QUEST_LV_0100_20151016_010174	Pergunte à Margellius se há mais algo a ser feito.
 QUEST_LV_0100_20151016_010175	Para fazer o material educacional, uma tinta especial é necessária. Para faze-la, você precisa de fluidos dos monstros. Utilize as armadilhas que Margellius fez para prender os monstors e obter os fluidos. Lembre-se que os montros morrerão rapidamente depois de presos, então seja rápido.
 QUEST_LV_0100_20151016_010176	Erguendo a Lápide
@@ -10190,7 +10190,7 @@ QUEST_LV_0100_20151016_010185	Vá para Kestas, outro membro de Nestopa.
 QUEST_LV_0100_20151016_010186	Recupere Nestos's Sign
 QUEST_LV_0100_20151016_010187	Recupere Nestos's Signs dos monstros ao redor e devolva-as para Kestas.
 QUEST_LV_0100_20151016_010188	Devolvendo a Marca
-QUEST_LV_0100_20151016_010189	Conseguiu marcas suficientes. Retorne-as para Kestas.
+QUEST_LV_0100_20151016_010189	Conseguiu Nestos's Signs suficientes. Retorne-as para Kestas.
 QUEST_LV_0100_20151016_010190	Derrite estes monstros. Eles estão atrás das marcas.
 QUEST_LV_0100_20151016_010191	Converse mais com Kestas.
 QUEST_LV_0100_20151016_010192	Derrote os montros que estão atrás dos registros.
@@ -10203,7 +10203,7 @@ QUEST_LV_0100_20151016_010198	Amanda sugere separarem-se e procurar pelo poder e
 QUEST_LV_0100_20151016_010199	Nada diferente aqui. Retorne para Amanda.
 QUEST_LV_0100_20151016_010200	Todo este trabalho para nada. Fale com Amanda novamente.
 QUEST_LV_0100_20151016_010201	Procure em Leima Small Square
-QUEST_LV_0100_20151016_010202	Amanda disse que viu algo grande em leima Small Square. Descubra o que foi que ela viu.
+QUEST_LV_0100_20151016_010202	Amanda disse que viu algo grande em Leima Small Square. Descubra o que foi que ela viu.
 QUEST_LV_0100_20151016_010203	Somente um velho gerente estava em Leima Small Square. pergunte à este gerente o que está acontecendo.
 QUEST_LV_0100_20151016_010204	O Velho Gerente ficou feliz em saber de sua busca pela Revelação. Fale com ele novamente.
 QUEST_LV_0100_20151016_010205	Colete Mushrooms
@@ -10238,7 +10238,7 @@ QUEST_LV_0100_20151016_010233	Devagar, você está juntando as peças de informa
 QUEST_LV_0100_20151016_010234	Leve o espírito preso com o Restraint Token.
 QUEST_LV_0100_20151016_010235	O Velho Gerente consegue acessar as memórias mais antigas dos espíritos. Traga os espíritos usando o Restraint Token.
 QUEST_LV_0100_20151016_010236	Tem espíritos que tiveram o descanso eterno roubado e ficaram presos em Fortress of the Land. Talvez um Mestre Dievdirbys possa ajudar.
-QUEST_LV_0100_20151016_010237	O Dievdirbys Master parece que tem um plano para estes espíritos. Fale com ele novamente.
+QUEST_LV_0100_20151016_010237	O Mestre Dievdirbys parece que tem um plano para estes espíritos. Fale com ele novamente.
 QUEST_LV_0100_20151016_010238	Faça uma Escultura Coruja para guiar os espíritos.
 QUEST_LV_0100_20151016_010239	Instale a Escultura Coruja em Storage Quarter de Fortress of the Land. Depois, guie os espíritos até a escultura.
 QUEST_LV_0100_20151016_010240	Você guiou todos os espíritos. Reporte para o Mestre Dievdirbys.
@@ -10288,11 +10288,11 @@ QUEST_LV_0100_20151016_010283	Inspecione a vila XX e descubra o que aconteceu
 QUEST_LV_0100_20151016_010284	Inspecione a vila XX e descubra o que aconteceu
 QUEST_LV_0100_20151016_010285	Fale para Rose sua teoria do que deve ter acontecido.
 QUEST_LV_0100_20151016_010286	Rose encontrou algo. Fale com ela.
-QUEST_LV_0100_20151016_010287	Encontre as bolinhas que caíram no chão.
-QUEST_LV_0100_20151016_010288	Rose disse que estas bolinhas estão tentando nos guiar. Siga o rastro.
+QUEST_LV_0100_20151016_010287	Encontre as contas que caíram no chão.
+QUEST_LV_0100_20151016_010288	Rose disse que estas contas estão tentando nos guiar. Siga o rastro.
 QUEST_LV_0100_20151016_010289	Você não vê mais nenhuma bolinha. Fale com Rose sobre o que fazer agora.
 QUEST_LV_0100_20151016_010290	Consulte Rose sobre o que fazer agora
-QUEST_LV_0100_20151016_010291	Inspecione ao redor para achar bolinhas
+QUEST_LV_0100_20151016_010291	Inspecione ao redor para achar contas
 QUEST_LV_0100_20151016_010292	Rose acha que alguns traços do povo podem ser encontrados pela região. Inespecioe a área para achar alguma pista.
 QUEST_LV_0100_20151016_010293	Fale com o morador da vila XX
 QUEST_LV_0100_20151016_010294	Há alguém que deve ser morador da vila XX. Fale com ele.
@@ -10320,35 +10320,35 @@ QUEST_LV_0100_20151016_010315	O Herbalista Ash quer impedir que a grama cresça.
 QUEST_LV_0100_20151016_010316	Polvilhe o fluído do monstro pela grama
 QUEST_LV_0100_20151016_010317	Derramando o fluído do monstro na grama impedirá que ela volte a crescer. Desta forma, polvilhe o fluído de monstro na grama
 QUEST_LV_0100_20151016_010318	Você terminou de polvilhar todo o fluído! Fale com o Herbalista Ash
-QUEST_LV_0100_20151016_010319	Druid Leja se machucou enquanto perseguia os furões que roubavam a comida. Para recuperar a saúde, encontre a erva apropriada no lugar que ela lhe contou
-QUEST_LV_0100_20151016_010320	Traga de volta os alimentos roubados pelos furões
-QUEST_LV_0100_20151016_010321	Recupere os alimentos roubados pelos furões e devolva-os às pessoas da cidade. Você só podera obter os Alimentos Roubados usando Paralysis Power em furão enquanto seu HP estiver 50% ou abaixo disso
-QUEST_LV_0100_20151016_010322	Recupere %s dos furões
+QUEST_LV_0100_20151016_010319	Druid Leja se machucou enquanto perseguia os Ferrets que roubavam a comida. Para recuperar a saúde, encontre a erva apropriada no lugar que ela lhe contou
+QUEST_LV_0100_20151016_010320	Traga de volta os alimentos roubados pelos Ferrets
+QUEST_LV_0100_20151016_010321	Recupere os alimentos roubados pelos Ferrets e devolva-os às pessoas da cidade. Você só podera obter os Alimentos Roubados usando Paralysis Power em furão enquanto seu HP estiver 50% ou abaixo disso
+QUEST_LV_0100_20151016_010322	Recupere %s dos Ferrets
 QUEST_LV_0100_20151016_010323	Você encontrou a garota misteriosa mais uma vez no meio do caminho enquanto voltava para devolver a comida roubada aos habitantes da cidade. A garota misteriosa saiu correndo depois de perceber que o povo da cidade estava se aproximando. Devolva a comida recuperada ao ancião da cidade.
-QUEST_LV_0100_20151016_010324	Destrua os totens demoníacos controlando os furões
-QUEST_LV_0100_20151016_010325	Ah, ancião fala que os furões ficaram ferozes após a invasão dos demônios. Ele acredita que os totens demoníacos são os culpados e pede que você os destrua.
-QUEST_LV_0100_20151016_010326	Reúna o 'Gigantic Fruit Juice' dos furões
-QUEST_LV_0100_20151016_010327	Uma das maiores preocupações dos cidadãos é a falta de água potável, uma vez que não é só a água do rio, mas também os frutos das arvores, plantas, nas proximidades são envenenados. Os furões, por outro lado, parecem saber uma maneira de purificar o suco das frutas gigantes e beber. As pessoas da cidade pedem para você trazer o suco de frutas extraído e purificado dos furões.
-QUEST_LV_0100_20151016_010328	Há muitas frutas gigantescas dos furões. Traga para o Residente da Aldeia.
-QUEST_LV_0100_20151016_010329	Roube %s dos furões
-QUEST_LV_0100_20151016_010330	Enquanto você estava fora, 'pegando' o suco de frutas gigantescas, os furões invadiram a cidade novamente e roubaram os alimentos da cidade. Fale com os cidadões para saber sobre o ocorrido.
-QUEST_LV_0100_20151016_010331	Os cidadãos dizem que, se você contaminar os alimentos com a água contaminada, os furões não roubarão mais a comida da cidade. Mas esta proeza só deve ser feito com os alimentos que recentemente foram saqueados. Traga a água vermelha do poço antigo para o povo da cidade.
-QUEST_LV_0100_20151016_010332	Isso! A quantidade de água vermelha que você tem é suficiente para contaminar a comida. O povo da cidade lhe dirá onde estão os alimentos. Fale com os cidadões.
-QUEST_LV_0100_20151016_010333	O povo da cidade informaram que os furões escondem os alimentos roubados dentro de cestas de frutas que estão espalhada por alguns lugares. Só que... alguns dos alimentos roubados não são frescos. Inspecione cada um com cuidado para encontrar apenas os novos e despeje um pouco da água vermelha sobre ele.
-QUEST_LV_0100_20151016_010334	O neto do ancião deu uma olhada nos furões para ver se eles voltaram ao normal depois que os totens demoníacos foram destruídos, mas a expressão em seu rosto parece trazer péssimas noticias. Fale com o neto do ancião. 
-QUEST_LV_0100_20151016_010335	O neto do ancião explica que, embora os totens demoníacos tenham sumido, os furões continuam daquele jeito, ferozes. Consulte o 'Dievdirbys Widas' para saber o jeito de reverter esta situação, e trazer os furões de volta ao normal.
-QUEST_LV_0100_20151016_010336	Dievdirbys Widas lhe diz que trata-se de uma escultura da paz, que ele descobriu em seus longos anos de pesquisa, poderia fazer com que isso acontecesse. Monte a escultura da paz para que os furões voltem ao normal e sejam mansos novamente.
-QUEST_LV_0100_20151016_010337	A escultura da paz foi montada, mas isso apenas irritou os furões tornando eles mais violentos ainda. Conte ao Widas sobre o ocorrido.
-QUEST_LV_0100_20151016_010338	Druid Leja estava a caminho para analisar a estátua gigante da Deusa, mas os furões controlados por demônios amarraram seus pés deixando-a de ponta-cabeça. E quando menos se esperava, a garota misteriosa aparece e os furões vão atrás dela.
-QUEST_LV_0100_20151016_010339	Derrote os furões e encontre algum rastro da garota misteriosa.
-QUEST_LV_0100_20151016_010340	Druid Leja aponta a direção que a garota foi. Ela diz que os furões estão indo atrás dela, então dê um fim nos que aparecerem no caminho enquanto vai atrás da garota.
-QUEST_LV_0100_20151016_010341	Derrote os furões
-QUEST_LV_0100_20151016_010342	Enquanto os furões estão sendo derrotados, você tem aquela sensação estranha novamente. Siga essa sensação, ela vai levar você até a garota.
-QUEST_LV_0100_20151016_010343	Druid Leja diz que os furões estavam carregando uma bolsa esquisita e arrastando para algum lugar. Ela informa onde é o esconderijo do furão. Leja diz que é muito perigoso ir sozinho, então ela fará um perfume que fará os furões ficarem fracos. Mas primeiro, pegue-lhe um pouco de Drowsy Herb.
-QUEST_LV_0100_20151016_010344	Druid Leja, juntamente com o Drowsy Scent(perfume) que ela prometeu, lhe dirá também os possíveis locais onde os furões poderiam ter levado a garota. Fale com o Leja.
-QUEST_LV_0100_20151016_010345	Inspecione o esconderijo dos furões depois de aplicar o drowsy scent (perfume).
-QUEST_LV_0100_20151016_010346	Você deve salvar a garota enquanto os furões estão sonolentos com o cheiro. Tenha em mente que o cheiro requer uma fogueira para poder se espalhar no local, e não se esqueça que a sua duração não é tão longa.
-QUEST_LV_0100_20151016_010347	Salve a garota enquanto os furões estão sonolentos.
+QUEST_LV_0100_20151016_010324	Destrua os totens demoníacos controlando os Ferrets
+QUEST_LV_0100_20151016_010325	Ah, ancião fala que os Ferrets ficaram ferozes após a invasão dos demônios. Ele acredita que os totens demoníacos são os culpados e pede que você os destrua.
+QUEST_LV_0100_20151016_010326	Reúna o 'Gigantic Fruit Juice' dos Ferrets
+QUEST_LV_0100_20151016_010327	Uma das maiores preocupações dos cidadãos é a falta de água potável, uma vez que não é só a água do rio, mas também os frutos das arvores, plantas, nas proximidades são envenenados. Os Ferrets, por outro lado, parecem saber uma maneira de purificar o suco das frutas gigantes e beber. As pessoas da cidade pedem para você trazer o suco de frutas extraído e purificado dos Ferrets.
+QUEST_LV_0100_20151016_010328	Há muitas frutas gigantescas dos Ferrets. Traga para o Residente da Aldeia.
+QUEST_LV_0100_20151016_010329	Roube %s dos Ferrets
+QUEST_LV_0100_20151016_010330	Enquanto você estava fora, os Ferrets invadiram a cidade novamente e roubaram os alimentos. Fale com os cidadãos para saber sobre o ocorrido.
+QUEST_LV_0100_20151016_010331	Os cidadãos dizem que, se você contaminar os alimentos com a água contaminada, os Ferrets não roubarão mais a comida da cidade. Mas esta proeza só deve ser feito com os alimentos que recentemente foram saqueados. Traga a água vermelha do poço antigo para o povo da cidade.
+QUEST_LV_0100_20151016_010332	Isso! A quantidade de água vermelha que você tem é suficiente para contaminar a comida. O povo da cidade lhe dirá onde estão os alimentos. Fale com os cidadãos.
+QUEST_LV_0100_20151016_010333	O povo da cidade informaram que os Ferrets escondem os alimentos roubados dentro de cestas de frutas que estão espalhada por alguns lugares. Só que... alguns dos alimentos roubados não são frescos. Inspecione cada um com cuidado para encontrar apenas os novos e despeje um pouco da água vermelha sobre ele.
+QUEST_LV_0100_20151016_010334	O neto do ancião deu uma olhada nos Ferrets para ver se eles voltaram ao normal depois que os totens demoníacos foram destruídos, mas a expressão em seu rosto parece trazer péssimas noticias. Fale com o neto do ancião. 
+QUEST_LV_0100_20151016_010335	O neto do ancião explica que, embora os totens demoníacos tenham sumido, os Ferrets continuam daquele jeito, ferozes. Consulte o 'Dievdirbys Widas' para saber o jeito de reverter esta situação, e trazer os Ferrets de volta ao normal.
+QUEST_LV_0100_20151016_010336	Dievdirbys Widas lhe diz que trata-se de uma escultura da paz, que ele descobriu em seus longos anos de pesquisa, poderia fazer com que isso acontecesse. Monte a escultura da paz para que os Ferrets voltem ao normal e sejam mansos novamente.
+QUEST_LV_0100_20151016_010337	A escultura da paz foi montada, mas isso apenas irritou os Ferrets tornando eles mais violentos ainda. Conte ao Widas sobre o ocorrido.
+QUEST_LV_0100_20151016_010338	Druid Leja estava a caminho para analisar a estátua gigante da Deusa, mas os Ferrets controlados por demônios amarraram seus pés deixando-a de ponta-cabeça. E quando menos se esperava, a garota misteriosa aparece e os Ferrets vão atrás dela.
+QUEST_LV_0100_20151016_010339	Derrote os Ferrets e encontre algum rastro da garota misteriosa.
+QUEST_LV_0100_20151016_010340	Druid Leja aponta a direção que a garota foi. Ela diz que os Ferrets estão indo atrás dela, então dê um fim nos que aparecerem no caminho enquanto vai atrás da garota.
+QUEST_LV_0100_20151016_010341	Derrote os Ferrets
+QUEST_LV_0100_20151016_010342	Enquanto os Ferrets estão sendo derrotados, você tem aquela sensação estranha novamente. Siga essa sensação, ela vai levar você até a garota.
+QUEST_LV_0100_20151016_010343	Druid Leja diz que os Ferrets estavam carregando uma bolsa esquisita e arrastando para algum lugar. Ela informa onde é o esconderijo do furão. Leja diz que é muito perigoso ir sozinho, então ela fará um perfume que fará os Ferrets ficarem fracos. Mas primeiro, pegue-lhe um pouco de Drowsy Herb.
+QUEST_LV_0100_20151016_010344	Druid Leja, juntamente com o Drowsy Scent(perfume) que ela prometeu, lhe dirá também os possíveis locais onde os Ferrets poderiam ter levado a garota. Fale com o Leja.
+QUEST_LV_0100_20151016_010345	Inspecione o esconderijo dos Ferrets depois de aplicar o drowsy scent (perfume).
+QUEST_LV_0100_20151016_010346	Você deve salvar a garota enquanto os Ferrets estão sonolentos com o cheiro. Tenha em mente que o cheiro requer uma fogueira para poder se espalhar no local, e não se esqueça que a sua duração não é tão longa.
+QUEST_LV_0100_20151016_010347	Salve a garota enquanto os Ferrets estão sonolentos.
 QUEST_LV_0100_20151016_010348	A tarefa da Deusa
 QUEST_LV_0100_20151016_010349	No momento em que você liberta a garota, ela corre para algum lugar. Pasmem. Siga os rastros que ela deixou para trás e vá atrás dela.
 QUEST_LV_0100_20151016_010350	Fale com a garota misteriosa
@@ -10359,26 +10359,26 @@ QUEST_LV_0100_20151016_010354	A garota misteriosa fala, com receio, que há algo
 QUEST_LV_0100_20151016_010355	Verifique o Orbe da Deusa
 QUEST_LV_0100_20151016_010356	Encontre o Orbe da Deusa sob a misteriosa Plantinha e verifique-o.
 QUEST_LV_0100_20151016_010357	Fale com o Druid Benes
-QUEST_LV_0100_20151016_010358	Druid Benes estuda os furões e o que os tornou ferozes. Pergunte se existe alguma maneira de torna-los mansos.
-QUEST_LV_0100_20151016_010359	Anote os comportamentos dos furões
-QUEST_LV_0100_20151016_010360	Druid Benes diz que se você se transformar em um furão, você pode se comunicar com os furões. No entanto, os furões conhecem o cheiro de Benes, então eles fogem dele mesmo que ele esteja na forma de furão. Então Benes escreverá para você o Ferret Transformation Scroll e o que você precisa fazer é anotar os comportamentos dos furões nele.
+QUEST_LV_0100_20151016_010358	Druid Benes estuda os Ferrets e o que os tornou ferozes. Pergunte se existe alguma maneira de torna-los mansos.
+QUEST_LV_0100_20151016_010359	Anote os comportamentos dos Ferrets
+QUEST_LV_0100_20151016_010360	Druid Benes diz que se você se transformar em um furão, você pode se comunicar com os Ferrets. No entanto, os Ferrets conhecem o cheiro de Benes, então eles fogem dele mesmo que ele esteja na forma de furão. Então Benes escreverá para você o Ferret Transformation Scroll e o que você precisa fazer é anotar os comportamentos dos Ferrets nele.
 QUEST_LV_0100_20151016_010361	Entregue o Pergaminho ao Druid Benes
-QUEST_LV_0100_20151016_010362	Você anotou com sucesso os comportamentos dos furões. Entregue para o Druid Benes.
-QUEST_LV_0100_20151016_010363	Você anotou os comportamentos dos furões em um pergaminho vazio. Fale com Benes.
-QUEST_LV_0100_20151016_010364	Compreendendo os furões
-QUEST_LV_0100_20151016_010365	O Ferret Transformation Scroll que o Druid Benes deu, fará com que você tenha a habilidade de se transformar em um furão. Pergunte aos furões e descubra por que eles estão atacando as pessoas.
-QUEST_LV_0100_20151016_010366	O motivo dos furões atacar as pessoas era com a intenção de expulsa-los. Volte ao Druid Benes e relate suas descobertas.
+QUEST_LV_0100_20151016_010362	Você anotou com sucesso os comportamentos dos Ferrets. Entregue para o Druid Benes.
+QUEST_LV_0100_20151016_010363	Você anotou os comportamentos dos Ferrets em um pergaminho vazio. Fale com Benes.
+QUEST_LV_0100_20151016_010364	Compreendendo os Ferrets
+QUEST_LV_0100_20151016_010365	O Ferret Transformation Scroll que o Druid Benes deu, fará com que você tenha a habilidade de se transformar em um furão. Pergunte aos Ferrets e descubra por que eles estão atacando as pessoas.
+QUEST_LV_0100_20151016_010366	O motivo dos Ferrets atacar as pessoas era com a intenção de expulsa-los. Volte ao Druid Benes e relate suas descobertas.
 QUEST_LV_0100_20151016_010367	Realidade inacreditável
 QUEST_LV_0100_20151016_010368	Você se transformou em um furão e conversou com eles como se fosse um furão. Relate o verdadeiro motivo ao Druid Benes.
-QUEST_LV_0100_20151016_010369	Coloque o bloco de madeira modificado e observe as reações dos furões
-QUEST_LV_0100_20151016_010370	Druid Benes diz que é muito difícil determinar se os furões estão realmente pensando nisso ou se é meramente devido ao controle mental do demônio. Druid Benes pede que você monte um bloco de madeira modificado em forma de um homem ferido perto dos furões. Se o que eles dizem é realmente verdade, eles não atacarão um homem ferido.
-QUEST_LV_0100_20151016_010371	Os furões atacaram o bloco de madeira em forma de um homem da cidade ferido. Volte ao Druid Benes.
+QUEST_LV_0100_20151016_010369	Coloque o bloco de madeira modificado e observe as reações dos Ferrets
+QUEST_LV_0100_20151016_010370	Druid Benes diz que é muito difícil determinar se os Ferrets estão realmente pensando nisso ou se é meramente devido ao controle mental do demônio. Druid Benes pede que você monte um bloco de madeira modificado em forma de um homem ferido perto dos Ferrets. Se o que eles dizem é realmente verdade, eles não atacarão um homem ferido.
+QUEST_LV_0100_20151016_010371	Os Ferrets atacaram o bloco de madeira em forma de um homem da cidade ferido. Volte ao Druid Benes.
 QUEST_LV_0100_20151016_010372	Realidade inacreditável
-QUEST_LV_0100_20151016_010373	Os furões atacaram o bloco de madeira em forma de um homem da cidade ferido. Volte ao Druid Benes.
-QUEST_LV_0100_20151016_010374	Use o perfume terrível para expulsar os furões
+QUEST_LV_0100_20151016_010373	Os Ferrets atacaram o bloco de madeira em forma de um homem da cidade ferido. Volte ao Druid Benes.
+QUEST_LV_0100_20151016_010374	Use o perfume terrível para expulsar os Ferrets
 QUEST_LV_0100_20151016_010375	Druid Benes acredita que, considerando que eles estão atacando até mesmo os feridos, eles devem estar sob o controle do demônio.
 QUEST_LV_0100_20151016_010376	Volte para o Druid Benes
-QUEST_LV_0100_20151016_010377	Use o perfume terrível para expulsar os furões. Volte para o Druid Benes
+QUEST_LV_0100_20151016_010377	Use o perfume terrível para expulsar os Ferrets. Volte para o Druid Benes
 QUEST_LV_0100_20151016_010378	Procure Deusa Lada
 QUEST_LV_0100_20151016_010379	A Deusa Laima pede para você encontrar a aprisionada Deusa Lada para então acabar com o plano do demônio.
 QUEST_LV_0100_20151016_010380	Fale com a Deusa Lada
@@ -10417,7 +10417,7 @@ QUEST_LV_0100_20151016_010412	Você derrotou os demônios restantes conforme o P
 QUEST_LV_0100_20151016_010413	Encontre o mestre em Orsha que sabe melhor sobre o assunto de purificar a terra e como fazer isto.
 QUEST_LV_0100_20151016_010414	O Priest da aldeia está procurando uma maneira de purificar a terra corrompida.
 QUEST_LV_0100_20151016_010415	Fale com o Priest da Aldeia
-QUEST_LV_0100_20151016_010416	O mestre?? Você o conheceu em Orsha você tem 'Purification Scroll' (item). Volte para o Priest da Aldeia.
+QUEST_LV_0100_20151016_010416	O mestre ?? que você conheceu em Orsha você tem o Purification Scroll. Volte para o Priest da Aldeia.
 QUEST_LV_0100_20151016_010417	Obtenha % s do Mestre em Orsha
 QUEST_LV_0100_20151016_010418	Voce adquiriu 'Purification Scroll' do mestre em Orsha. Fale com o Priest da Aldeia.
 QUEST_LV_0100_20151016_010419	Purifique a Evil Aura
@@ -10436,40 +10436,40 @@ QUEST_LV_0100_20151022_010431	Pelas Deusas! Eu preciso descansar um pouco.{nl}Es
 QUEST_LV_0100_20151022_010432	Eu não sei sobre a real identidade das pedritas de luz.{nl}Mas eu sei que elas não tem a mesma energia que os deomônios que as colecionam tem.
 QUEST_LV_0100_20151022_010433	Chefe da coruja
 QUEST_LV_0100_20151022_010434	Obrigadissimo! Obrigado mesmo!{nl}Só de saber da influencia que esses demônios tem....{nl}Chego arrepiar só de pensar o que poderia ter acontecido com as pobres almas.
-QUEST_LV_0100_20151022_010435	As pedritas de luz que você acabou de ver é uma alma humana.{nl} Almas muito puras. Elas foram mortas pelos demônios invasores.{nl}
+QUEST_LV_0100_20151022_010435	As luzes que você acabou de ver são almas humanas.{nl} Almas muito puras. Elas foram mortas pelos demônios invasores.{nl}
 QUEST_LV_0100_20151022_010436	As Esculturas de Coruja costumavam levar essas almas para o caminho certo.{nl}Mas os demônios corromperam a floresta e as controlaram.{nl}No momento, os meus companheiros são controlados pelos demônios{nl}eles lideram aquelas pobres almas como bem entendem...{nl}
-QUEST_LV_0100_20151022_010437	Eu sei que não mereço isso, mas ...{nl}Eu não quero ver as almas sendo perdidas.{nl}Por favor, destrua a Torre de Controle da Mente que está controlando meus companheiros.
+QUEST_LV_0100_20151022_010437	Eu sei que não mereço isso, mas ...{nl}Eu não quero ver as almas sendo perdidas.{nl}Por favor, destrua a Mind Control Tower que está controlando meus companheiros.
 QUEST_LV_0100_20151022_010438	Oh, graças as Deusas, ela me escutou! Ela te enviou!{nl}
-QUEST_LV_0100_20151022_010439	Se a Torre de Controle da Mente for destruída, o impacto também poderá afetar negativamente meus companheiros{nl}Então, antes de destruir a torre, junte a energia da floresta{nl}
-QUEST_LV_0100_20151022_010440	Restaure o Altar de Karolis e a energia da floresta também será restaurada.{nl}Vou lhe dar a Vontade da Coruja Guia.{nl}Ela vai direcioná-lo para as ruínas do Karolis Altar Altar.
+QUEST_LV_0100_20151022_010439	Se a Mind Control Tower for destruída, o impacto também poderá afetar negativamente meus companheiros{nl}Então, antes de destruir a torre, junte a energia da floresta{nl}
+QUEST_LV_0100_20151022_010440	Restaure o Karolis Altar e a energia da floresta também será restaurada.{nl}Vou lhe dar a Guide Owl's Will.{nl}Ela vai direcioná-lo para as ruínas do Karolis Altar.
 QUEST_LV_0100_20151022_010441	O Karolis Altar costumava coletar a energia da floresta. {nl}Desde que ela foi destruída, a energia da floresta ficou muito fraca.{nl}
 QUEST_LV_0100_20151022_010442	O Altar da Floresta ainda é forte e funcional, mas precisamos que a Luz de Karolis espalhe o poder por toda a floresta. A luz enfraquecida é a causa da energia não se espalhar muito. {Nl}
-QUEST_LV_0100_20151022_010443	Os companheiros retornarão às suas mentes em paz, {nl} se o Altar de Karolis e o da floresta forem restaurados.{nl}Nós, Esculturas da Coruja, iremos viver nas proximidades da Floresta
+QUEST_LV_0100_20151022_010443	Os companheiros retornarão às suas mentes em paz, {nl} se os altares de Karolis e da floresta forem restaurados.{nl}Nós, Esculturas de Coruja, iremos viver nas proximidades da Floresta
 QUEST_LV_0100_20151022_010444	Eu estive esperando por você.{nl}Eu sabia que você conseguiu desde que a energia da floresta foi aumentada.
 QUEST_LV_0100_20151022_010445	Eu tive minhas esperanças, mas parece que o Karolis Altar não esta sendo o suficiente{nl}para restaurar totalmente a energia da floresta. A energia do altar da floresta também precisa ser espalhada.{nl}
 QUEST_LV_0100_20151022_010446	O altar da floresta está atravessando uma lagoa.{nl}Se você chegar lá, a Luz de Karolis poderá espalhar a energia do altar para toda a floresta. {nl}A luz quase extinta precisa ser reacendida e{nl}então a energia se espalhará para todos os cantos da floresta.
 QUEST_LV_0100_20151022_010447	Há quatro lugares onde a Luz de Karolis pode se fazer presente.{nl}Porem, cada um dura pouco tempo, se você conseguir iluminar todos os quatro, essas luzes podem sustentar uma a outra. {nl}Seja rápido e ágil ao acender todos os quatro.
 QUEST_LV_0100_20151022_010448	Nos velhos tempos, havia vários altares, agora só existe um.{nl}Os demônios de fato arruinaram a nossa floresta.
-QUEST_LV_0100_20151022_010449	A energia do altar é espalhada com sucesso.{nl}Agora todas as outras corujas não estão mais sob controle.{nl}A única coisa que resta é destruir a Torre de Controle da Mente e a segurança desta área estara garantida.
-QUEST_LV_0100_20151022_010450	A Torre de Controle da Mente está carregada de energia maligna. Se você relar nele {nl}até poderá correr risco. Os meus camaradas da Escultura de Coruja recuperaram os seus sentidos, {nl}embora, minuto a minuto, emprestemos a nossa força. Ainda não terminamos, mas, estamos juntos, {nl}e seremos o suficiente para lutar contra a energia maligna da Torre de Controle da Mente.
-QUEST_LV_0100_20151022_010451	Fale com as Esculturas de Coruja, que você conheceu no caminho aqui. {nl}Eles querem agradecer quem os salvou. {nl}E emprestarão o poder deles a voce.
+QUEST_LV_0100_20151022_010449	A energia do altar é espalhada com sucesso.{nl}Agora todas as outras corujas não estão mais sob controle.{nl}A única coisa que resta é destruir a Mind Control Tower e a segurança desta área estara garantida.
+QUEST_LV_0100_20151022_010450	A Mind Control Tower está carregada de energia maligna. Se você relar nele {nl}até poderá correr risco. Os meus camaradas da Escultura de Coruja recuperaram os seus sentidos, {nl}embora, minuto a minuto, emprestemos a nossa força. Ainda não terminamos, mas, estamos juntos, {nl}e seremos o suficiente para lutar contra a energia maligna da Mind Control Tower.
+QUEST_LV_0100_20151022_010451	Fale com as Esculturas de Coruja que você conheceu no caminho aqui. {nl}Eles querem agradecer quem as salvou. {nl}E emprestarão o poder deles a voce.
 QUEST_LV_0100_20151022_010452	Por favor, volte para mim depois de reunir o poder de todas as Esculturas de Coruja. {nl}Vou combinar seu poder em um só.
 QUEST_LV_0100_20151022_010453	Espero que nenhum dos meus companheiros tenha dito alguma coisa que tenha te chateado ou algo assim. {nl}Eles são muito gratos pelo que você fez por nós.{nl}
 QUEST_LV_0100_20151022_010454	Agora, eu adicionei meu poder junto aos dos outros. Eu os transformarei em um.
-QUEST_LV_0100_20151022_010455	Eu estava com receio, mas felizmente, quando vi o poder combinado, confirmei que é mais forte do que eu esperava. {nl}Isso ajudará você a destruir a Torre de Controle da Mente.
+QUEST_LV_0100_20151022_010455	Eu estava com receio, mas felizmente, quando vi o poder combinado, confirmei que é mais forte do que eu esperava. {nl}Isso ajudará você a destruir a Mind Control Tower.
 QUEST_LV_0100_20151022_010456	Sinto muito não podermos retribuir tanto {nl}pela tremenda ajuda que você nos deu. {nl}Mas sei que a Deusa ira lhe retribuir por isso. {nl}De alguma forma, eu sei que vai.
 QUEST_LV_0100_20151022_010457	Há uma Escultura de Coruja meio longe daqui. Ainda não esta correspondendo corretamente. {nl}Estou um pouco preocupado ... {nl}Mas temos assuntos mais importantes para ver primeiro.
-QUEST_LV_0100_20151022_010458	Você destruiu a Torre de Controle da Mente também?!?!? {nl}Fi-finalmente, a paz retornará a Karolis Springs depois de todo esse trabalho.
+QUEST_LV_0100_20151022_010458	Você destruiu a Mind Control Tower também?!?!? {nl}Fi-finalmente, a paz retornará a Karolis Springs depois de todo esse trabalho.
 QUEST_LV_0100_20151022_010459	Mardas veio falar com você. {nl}Ele testemunhou muitas atrocidades demoníacas.
-QUEST_LV_0100_20151022_010460	Parece que o Letas Stream está sob o reino dos demônios. {nl}Você poderia nos emprestar sua força mais um pouco? {nl}Você é nossa única esperança.
+QUEST_LV_0100_20151022_010460	Parece que Letas Stream está sob o reino dos demônios. {nl}Você poderia nos emprestar sua força mais um pouco? {nl}Você é nossa única esperança.
 QUEST_LV_0100_20151022_010461	Poderíamos chegar a uma solução se Mardas e eu combinarmos o que sabemos e vimos. {nl}Aí então, encontraremos o caminho para afastar os demônios. {nl}
-QUEST_LV_0100_20151022_010462	Em primeiro lugar, precisamos de Romuva of Suppression que é infundida com o poder divino da floresta. {nl}O guia Owl Sculpture em Letas Stream, de certo modo, será capaz de torná-lo um. {nl}Mas ela não esta correspondendo, isso significa que ainda está sob o controle do demônio.{nl}
-QUEST_LV_0100_20151022_010463	Por favor, encontre o Guia Owl Sculpture no Letas Stream. {nl}Salve-o e diga que eu te enviei e você precisa do Romuva of Suppression.
+QUEST_LV_0100_20151022_010462	Em primeiro lugar, precisamos de Romuva of Suppression que é infundida com o poder divino da floresta. {nl}A Escultura da Coruja Guia em Letas Stream, de certo modo, será capaz de torná-lo um. {nl}Mas ela não esta correspondendo, isso significa que ainda está sob o controle do demônio.{nl}
+QUEST_LV_0100_20151022_010463	Por favor, encontre a Escultura da Coruja Guia no Letas Stream. {nl}Salve-o e diga que eu te enviei e você precisa do Romuva of Suppression.
 QUEST_LV_0100_20151022_010464	Ao norte de Karolis Springs, você encontrará o ponto alto da energia da floresta. {nl}Lá você encontrará a energia de Karolis Springs.{nl}
-QUEST_LV_0100_20151022_010465	Ao Aproximar-se da energia de Karolist Springs, eles se aproximarão de você. {nl}Quando houver o suficiente, eles criarão a essência cristalizada de Karolis Springs. {nl}Leve-o para o Guia Owl Sculpture.
+QUEST_LV_0100_20151022_010465	Ao Aproximar-se da energia de Karolist Springs, eles se aproximarão de você. {nl}Quando houver o suficiente, eles criarão a essência cristalizada de Karolis Springs. {nl}Leve-o para a Escultura da Coruja Guia.
 QUEST_LV_0100_20151022_010466	Oh céus! o horror dos horrores, Mardas testemunhou. {nl}Não devemos deixar que isso continue assim{nl}
 QUEST_LV_0100_20151022_010467	{nl} Poxa aquelas pobres almas ... São incontaveis o numero de almas que demos aos demônios. {nl}Isso realmente parte o meu coração.
-QUEST_LV_0100_20151022_010468	Guia Owl Sculpture
+QUEST_LV_0100_20151022_010468	Escultura da Coruja Guia
 QUEST_LV_0100_20151022_010469	Ugh ... O que aconteceu ... Quem é você? {nl}Você me salvou??!
 QUEST_LV_0100_20151022_010470	A Escultura do Chefe Coruja mandou você? {nl}A Romuva of Suppression ... a crise deve ser esmagadoramente grande, se isso for necessário. {nl}
 QUEST_LV_0100_20151022_010471	A Romuva of Suppression não é algo que se deva fazer tranquilamente, mas a situação desesperadora exige uma medida desesperada. {nl}Para o bem de todos, eu vou fazer um a você. Para fazer um, o Letas' Sacred Branch é necessário. {nl}É um ramo da Árvore Sagrada de Letas. Mas para isso, é necessario uma parte da energia da floresta...
@@ -10483,12 +10483,12 @@ QUEST_LV_0100_20151022_010478	Purifique a energia do mal que os monstros possuem
 QUEST_LV_0100_20151022_010479	Monstros fracos não têm chance contra o ramo sagrado {nl}O poder sagrado arde através da escuridão.
 QUEST_LV_0100_20151022_010480	É altamente confiável para você, pois foi a escultura da coruja chefe que o enviou.
 QUEST_LV_0100_20151022_010481	A energia armazenada no ramo é suficiente?{nl}
-QUEST_LV_0100_20151022_010482	Agora, usarei a Romuva Of Suppression
+QUEST_LV_0100_20151022_010482	Agora, usarei a Romuva of Suppression
 QUEST_LV_0100_20151022_010483	Romuva of Suppression está pronto, mas ... Eu temo que isso não será suficiente. {nl}Eu não sei o que a Escultura Chefe da Coruja é, na verdade. {nl}Eu sou muito fraco. Então, não posso ajudá-lo com isso.
 QUEST_LV_0100_20151022_010484	Uma pessoa chamada Mardas poderia saber a solução?! {nl}O que você está esperando então? Vá falar com ele. {nl}Talvez ele já esteja aqui.
 QUEST_LV_0100_20151022_010485	Somos gratos por Mardas nos ajudar, mas o que aconteceu com ele é uma verdadeira tragédia. {nl}Nós, as Esculturas de Coruja, de fato cumprimos o plano do demônio. Com certeza sentimos grande culpa por ter parte com isso.
 QUEST_LV_0100_20151022_010486	Você chegou na hora! {nl}Então, você conseguiu Romuva of Suppression?
-QUEST_LV_0100_20151022_010487	Ao conversar com a Escultura do Coruja Chefe, tive a sensação de que poderíamos resolver isso. {nl}Os demônios estão usando a energia maligna para corromper o Letas Stream. {nl}E extraindo essa energia para prender almas. {nl}
+QUEST_LV_0100_20151022_010487	Ao conversar com a Escultura do Coruja Chefe, tive a sensação de que poderíamos resolver isso. {nl}Os demônios estão usando a energia maligna para corromper Letas Stream. {nl}E extraindo essa energia para prender almas. {nl}
 QUEST_LV_0100_20151022_010488	A Soul Starvation deve ser destruída, mas a energia maligna é muito densa e é protegida pelo círculo mágico. {nl}Primeiro, elimine a energia maligna.
 QUEST_LV_0100_20151022_010489	A energia maligna está sendo gerada a partir do centro da floresta. Você pode chegar até ele seguindo o caminho certo. {nl}Monte a Romuva de Suppression perto dele, isto irá suprimir a santissima energia.
 QUEST_LV_0100_20151022_010490	Parte o meu coração de pensar sobre as pessoas que poderiam estar em suas casas, mas estou fraco no momento. Tudo o que posso fazer agora é ajudá-lo. Aí então me sentirei reconfortado.
@@ -10504,8 +10504,8 @@ QUEST_LV_0100_20151022_010499	Existe uma ordem específica que voce deve seguir 
 QUEST_LV_0100_20151022_010500	Os demônios podem estar suspeitando. Afinal, a energia maligna e a Fumaça Negra desapareceram. {nl}Você precisa andar logo!
 QUEST_LV_0100_20151022_010501	Se as almas forem libertadas, talvez, essa tristeza e raiva que eu sinto possam ir embora. {nl}Não posso ter tanta certeza sobre isso no momento.
 QUEST_LV_0100_20151022_010502	É assim mesmo. Todas as almas são libertadas. {nl}A Escultura de Coruja Chefe diz que essas almas seriam novamente levadas pelo bem da coruja. {nl}
-QUEST_LV_0100_20151022_010503	Seria melhor dar a Romuva of Suppression para o Guia Owl Sculpture. {nl}Ajudará outras esculturas de coruja a recuperarem os seus poderes. {nl}Entregarei a notícia a Escultura de Coruja chefe.
-QUEST_LV_0100_20151022_010504	É seguro dizer que o Letas Stream está livre da ameaça dos demônios. {nl}Não sei nem como te agradecer, grande guerreiro.{nl}
+QUEST_LV_0100_20151022_010503	Seria melhor dar a Romuva of Suppression para a Escultura da Coruja Guia. {nl}Ajudará outras esculturas de coruja a recuperarem os seus poderes. {nl}Entregarei a notícia a Escultura de Coruja chefe.
+QUEST_LV_0100_20151022_010504	É seguro dizer que Letas Stream está livre da ameaça dos demônios. {nl}Não sei nem como te agradecer, grande guerreiro.{nl}
 QUEST_LV_0100_20151022_010505	Não acredito que não seja por acaso que você tenha vindo até nós. {nl}Sinto a vontade divina da Deusa guiando você até aqui. {nl}Eu oro para que ela o guie sempre.
 QUEST_LV_0100_20151022_010506	A gratidão enche meu coração. {nl}Peço desculpas pela minha grosseria inicial. Eu estava muito confuso sobre tudo.
 QUEST_LV_0100_20151022_010507	Jurus
@@ -10527,15 +10527,15 @@ QUEST_LV_0100_20151022_010522	Parece perigoso, hein?! Estou fora!
 QUEST_LV_0100_20151022_010523	O cordão de luz foi até a colina e desapareceu! {nl}Continue seguindo-o, guiando o seu caminho.
 QUEST_LV_0100_20151022_010524	Não esquenta! Eu vou fazer isso.
 QUEST_LV_0100_20151022_010525	Você tem mãos, certo? Por que você mesmo não faz isso?
-QUEST_LV_0100_20151022_010526	Você encontrou o cristal do Altar de Karolis {nl}Agora, é hora de encontrar os fragmentos do Altar de Karolis.
-QUEST_LV_0100_20151022_010527	Restaurando o Altar de Karolis 
+QUEST_LV_0100_20151022_010526	Você encontrou o cristal do Karolis Altar {nl}Agora, é hora de encontrar os fragmentos do Karolis Altar.
+QUEST_LV_0100_20151022_010527	Restaurando o Karolis Altar 
 QUEST_LV_0100_20151022_010528	Eu vou espalhar a energia do altar
 QUEST_LV_0100_20151022_010529	Empresta-me o teu poder
 QUEST_LV_0100_20151022_010530	Outra Coruja
 QUEST_LV_0100_20151022_010531	Vou explodi-lo
 QUEST_LV_0100_20151022_010532	O que poderia acontecer se eu pegasse o poder e saísse correndo
 QUEST_LV_0100_20151022_010533	Salvando a Coruja Guia
-QUEST_LV_0100_20151022_010534	Eu estou fora para salvar o Guia Owl Sculpture
+QUEST_LV_0100_20151022_010534	Eu estou fora para salvar a Escultura da Coruja Guia
 QUEST_LV_0100_20151022_010535	Mardas fará o resto
 QUEST_LV_0100_20151022_010536	Salvando o Guia Coruja
 QUEST_LV_0100_20151022_010537	Restaurando Karolis Springs
@@ -10570,23 +10570,23 @@ QUEST_LV_0100_20151022_010565	As habilidades que eu uso agora são boas o sufici
 QUEST_LV_0100_20151022_010566	Derrote % s que estão depois da Escultura de Coruja
 QUEST_LV_0100_20151022_010567	Use o Guia Coruja para encontrar % s
 QUEST_LV_0100_20151022_010568	Recupere % s dos monstros usando o Guia Coruja
-QUEST_LV_0100_20151022_010569	Você restaurou com sucesso o Altar de Karolis. Informe a Escultura do Coruja Chefe.
+QUEST_LV_0100_20151022_010569	Você restaurou com sucesso o Karolis Altar. Informe a Escultura do Coruja Chefe.
 QUEST_LV_0100_20151022_010570	Para espalhar a energia do Santuário de Karolis, todas as quatro luzes de Karolis devem ser acesas. Se houver menos de 4 luzes acesas as demais serão apagadas rapidamente.
-QUEST_LV_0100_20151022_010571	A energia do Santuário de Karolis está se espalhando. Reporte-se para o Owl Chief Sculpture.
-QUEST_LV_0100_20151022_010572	A Escultura do Coruja Chefe pediu-lhe para recolher energia o suficiente de Karolis Springs e entregá-lo ao Guia Own Sculpture. Encontre o Guia Owl Sculpture.
+QUEST_LV_0100_20151022_010571	A energia do Santuário de Karolis está se espalhando. Reporte-se para a Escultura do Líder Coruja.
+QUEST_LV_0100_20151022_010572	A Escultura do Coruja Chefe pediu-lhe para recolher energia o suficiente de Karolis Springs e entregá-lo ao Guia Own Sculpture. Encontre a Escultura da Coruja Guia.
 QUEST_LV_0100_20151022_010573	Árvore Sagrada da Floresta
-QUEST_LV_0100_20151022_010574	O guia Owl Sculpture recuperou sua consciência. Conte sobre o que a Escultura de Coruja Chefe lhe disse.
+QUEST_LV_0100_20151022_010574	A Escultura da Coruja Guia recuperou sua consciência. Conte sobre o que a Escultura de Coruja Chefe lhe disse.
 QUEST_LV_0100_20151022_010575	Encontre o ramo sagrado de Letas
-QUEST_LV_0100_20151022_010576	O Guia Owl Sculpture diz que para combater os demônios é necessário o Ramo Sagrado de Letas. Use a Essência Cristalizada de Karolis Springs para encontrar a Árvore Sagrada de Letas e obter seu ramo.
-QUEST_LV_0100_20151022_010577	Reporte ao Guia Owl Sculpture
-QUEST_LV_0100_20151022_010578	Consiga o ramo sagrado de Letas. E volte para o Guia Owl Sculpture.
-QUEST_LV_0100_20151022_010579	Pergunte ao Guia Owl Sculpture o que o ramo pode fazer.
+QUEST_LV_0100_20151022_010576	A Escultura da Coruja Guia diz que para combater os demônios é necessário o Ramo Sagrado de Letas. Use a Essência Cristalizada de Karolis Springs para encontrar a Árvore Sagrada de Letas e obter seu ramo.
+QUEST_LV_0100_20151022_010577	Reporte ao Escultura da Coruja Guia
+QUEST_LV_0100_20151022_010578	Consiga o ramo sagrado de Letas. E volte para a Escultura da Coruja Guia.
+QUEST_LV_0100_20151022_010579	Pergunte ao Escultura da Coruja Guia o que o ramo pode fazer.
 QUEST_LV_0100_20151022_010580	Absorva a energia purificada
-QUEST_LV_0100_20151022_010581	O guia Owl Sculpture diz que o ramo pode purificar os monstros e sua energia. Absorva a energia purificada e colete-a.
-QUEST_LV_0100_20151022_010582	O ramo sagrado de Letas purificou e absorveu energia suficiente. Volte para o Guia Owl Sculpture.
-QUEST_LV_0100_20151022_010583	A Romuva Suppression está completa, mas o Guia Owl Sculpture parece não saber se realmente está. Fale com o Guide Owl Sculpture.
+QUEST_LV_0100_20151022_010581	A Escultura da Coruja Guia diz que o ramo pode purificar os monstros e sua energia. Absorva a energia purificada e colete-a.
+QUEST_LV_0100_20151022_010582	O ramo sagrado de Letas purificou e absorveu energia suficiente. Volte para a Escultura da Coruja Guia.
+QUEST_LV_0100_20151022_010583	A Romuva Suppression está completa, mas a Escultura da Coruja Guia parece não saber se realmente está. Fale com o Guide Owl Sculpture.
 QUEST_LV_0100_20151022_010584	Fale com o Mardas
-QUEST_LV_0100_20151022_010585	O Guia Owl Sculpture pede para você falar com Mardas.
+QUEST_LV_0100_20151022_010585	A Escultura da Coruja Guia pede para você falar com Mardas.
 QUEST_LV_0100_20151022_010586	Mardas veio com uma solução depois de uma longa discussão com a Escultura do Coruja Chefe. Ouça o que Mardas tem a dizer.
 QUEST_LV_0100_20151022_010587	Elimine a energia maligna que está corrompendo a floresta
 QUEST_LV_0100_20151022_010588	Mardas afirma que a energia maligna que corrompe a floresta precisa ser eliminada primeiro. Coloque a Romuva Suppression em torno dela para poder parar a energia do mal.
@@ -10634,7 +10634,7 @@ QUEST_LV_0100_20151102_010629	Welcome! {nl} Oh, so you're the Revelator. I reall
 QUEST_LV_0100_20151102_010630	I heard you successfully removed the seal at Pasagos Cliff.{nl}Now go get the next step from my brothers at the Pillars of the Courtyard.
 QUEST_LV_0100_20151102_010631	There's a piece below Seklus Bridge that is suspected to be a piece from the monument.{nl}But Achat is around there so I can't reach it.
 QUEST_LV_0100_20151102_010632	The light bead, I saw it too.{nl}The demons are collecting them all over the place.{nl}
-QUEST_LV_0100_20151102_010633	The Owl Sculptures are sending them off to somewhere...{nl}Perhaps, you could find its trail from the Owl Sculpture you've just seen, can you?
+QUEST_LV_0100_20151102_010633	The Esculturas de Coruja are sending them off to somewhere...{nl}Perhaps, you could find its trail from the Escultura de Coruja you've just seen, can you?
 QUEST_LV_0100_20151102_010634	If it were anyone else, I would have stopped you but to you, words of warning will only fall flat.{nl}Not sure if it is bravery or recklessness...{nl}
 QUEST_LV_0100_20151102_010635	I should get some rest here for a little bit. I'm running out of breath.{nl}It's dangerous for me to stay with you, because I don't want to risk my life.
 QUEST_LV_0100_20151102_010636	I don't know about the identity of the light bead.{nl}However, it does not have that same feeling that the demons produce.
@@ -10685,7 +10685,7 @@ QUEST_LV_0100_20151102_010680	On the upper side of Karolis Stream, there is a sp
 QUEST_LV_0100_20151102_010681	As the energy concentration increases, it gets condensed and crystalized.{nl}Take the condensed energy to the Guide Owl.
 QUEST_LV_0100_20151102_010682	Mardas has told me about the atrocities that the demons did. Even{nl}from just the descriptions, it puts a cold spear through my heart.{nl}We cannot allow it to continue.{nl}
 QUEST_LV_0100_20151102_010683	O, the poor souls... they are the ones whom we handed over to the demons?{nl}I am made of wood but my wooden heart is aching.
-QUEST_LV_0100_20151102_010684	The Owl Chief sent you, eh?{nl}The Namott of Suppression... Now that's an extreme measure. The situation must be that dire.{nl}
+QUEST_LV_0100_20151102_010684	The Líder Coruja sent you, eh?{nl}The Namott of Suppression... Now that's an extreme measure. The situation must be that dire.{nl}
 QUEST_LV_0100_20151102_010685	The Namott of Suppression is not something to be made lightly...{nl}But for all of us, I will try.{nl}
 QUEST_LV_0100_20151102_010686	The first ingredient we need is Letas' Sacred Branch. It's a branch from Letas' Sacred Tree.{nl}However, the energy of the forest is needed to find Letas' Sacred Tree...
 QUEST_LV_0100_20151102_010687	Wha..? You already had it on you?{nl}What good news. Bring it to the northern side of Letas Stream and sprinkle the energy around.{nl}
@@ -10697,15 +10697,15 @@ QUEST_LV_0100_20151102_010692	I wondered what should we do if the tree does not 
 QUEST_LV_0100_20151102_010693	It seems that Letas' Sacred Branch is weakened by the demons.{nl}Its power is insufficient. We need to fill it up.{nl}
 QUEST_LV_0100_20151102_010694	The branch can purify and absorb the malicious force from the monsters.{nl}Use it on monsters to purify their energies and absorb them.
 QUEST_LV_0100_20151102_010695	The weak ones will not be able to stand the awesome might of the branch.{nl}They will burn like a piece of paper.
-QUEST_LV_0100_20151102_010696	The Owl Chief must trust you very much, seeing that it sent you.
+QUEST_LV_0100_20151102_010696	The Líder Coruja must trust you very much, seeing that it sent you.
 QUEST_LV_0100_20151102_010697	Is the branch all filled up?{nl}Let me make it into the Namott of Suppression.
 QUEST_LV_0100_20151102_010698	The Namott is complete but...{nl}I am not confident it will be enough to combat the demons.{nl}
-QUEST_LV_0100_20151102_010699	I, myself, am not sure what the Owl Chief was thinking.{nl}I too have lost most of my power, I cannot help you.
+QUEST_LV_0100_20151102_010699	I, myself, am not sure what the Líder Coruja was thinking.{nl}I too have lost most of my power, I cannot help you.
 QUEST_LV_0100_20151102_010700	There is someone who can help you on your mission?{nl}What are you waiting for? Go and find out the plan.{nl}
 QUEST_LV_0100_20151102_010701	Perhaps, you don't have to go after all.
 QUEST_LV_0100_20151102_010702	It is a blessing that that Mardas person is helping us out. But the story Mardas told is a very{nl}depressing one.{nl}We are in some ways responsible for such an atrocity. I feel guilty. 
 QUEST_LV_0100_20151102_010703	You are just in time.{nl}Did you get the Namott of Suppression?
-QUEST_LV_0100_20151102_010704	After talking with the Owl Chief, we might have a plan that can work.{nl}The demons are using the evil energy to corrupt Letas Stream and trap the stolen souls there.{nl}
+QUEST_LV_0100_20151102_010704	After talking with the Líder Coruja, we might have a plan that can work.{nl}The demons are using the evil energy to corrupt Letas Stream and trap the stolen souls there.{nl}
 QUEST_LV_0100_20151102_010705	A thing called Soul Starvation is keeping the souls locked up. It must be destroyed but..{nl}The evil energy is far too thick and it is protected by the magic circles.{nl}
 QUEST_LV_0100_20151102_010706	Removing the evil energy corrupting the forest would be first in order.
 QUEST_LV_0100_20151102_010707	Follow the right path and go straight to find the center of the forest, you will find the evil energy.{nl}Set up Namott of Suppression around it to remove the evil energy.
@@ -10716,16 +10716,16 @@ QUEST_LV_0100_20151102_010711	If we remove Black Smoke, the demon structures wil
 QUEST_LV_0100_20151102_010712	It's rather risky but... I want you to infiltrate the place without getting detected by the{nl}Surveillance Spheres spinning around the Surveillance Eyes.{nl}At the end of the path, there is a magic circle managing those eyes.{nl}
 QUEST_LV_0100_20151102_010713	Without the magic circle, the Surveillance Eyes might go away as well.
 QUEST_LV_0100_20151102_010714	Without those pesky eyes, Black Smoke can be easily dealt with by using Namott of Surveillance.{nl}Be careful, it is a near-suicide mission.
-QUEST_LV_0100_20151102_010715	The Owl Chief sure did know a lot.{nl}It is wise and knowledgeable even though it never left this place in its entire existence.
+QUEST_LV_0100_20151102_010715	The Líder Coruja sure did know a lot.{nl}It is wise and knowledgeable even though it never left this place in its entire existence.
 QUEST_LV_0100_20151102_010716	Are you hurt?{nl}It must have been a very dangerous journey, I can imagine... I was just standing here feeling powerless.
 QUEST_LV_0100_20151102_010717	Now, the Soul Starvation is vulnerable.{nl}The magic circles around it are protecting it but they can be easily disabled.{nl}
 QUEST_LV_0100_20151102_010718	There is a certain order in disabling the protection magic circles.{nl}One false step and you have to start all over again from the beginning.{nl}If you remain focused even in the face of failure, you will find the order.
 QUEST_LV_0100_20151102_010719	The evil energy is weakened and Black Smoke is gone. The demons, if they are not completely stupid, will notice thses changes and come after us.{nl}Please, be haste.
 QUEST_LV_0100_20151102_010720	If we manage to set those souls free, will the guilt and sadness I feel can be set free as well?{nl}But what about my rage?{nl}
 QUEST_LV_0100_20151102_010721	I do not know at the moment...
-QUEST_LV_0100_20151102_010722	Is that so... The souls are free now.{nl}The Owl Chief promised to guide the souls to their rightful place, the arms of the goddess.{nl}
+QUEST_LV_0100_20151102_010722	Is that so... The souls are free now.{nl}The Líder Coruja promised to guide the souls to their rightful place, the arms of the goddess.{nl}
 QUEST_LV_0100_20151102_010723	The Namott of Suppression is best left to the Guide Owl.{nl}It will help the owls regain their power.{nl}
-QUEST_LV_0100_20151102_010724	Then, I must go back to the Owl Chief.{nl}I will deliver this good news and want to hear more about it.
+QUEST_LV_0100_20151102_010724	Then, I must go back to the Líder Coruja.{nl}I will deliver this good news and want to hear more about it.
 QUEST_LV_0100_20151102_010725	Perhaps, this place is free of demons after all this time?{nl}My words cannot thank you enough!{nl}
 QUEST_LV_0100_20151102_010726	I do not believe it is no coincidence that you came to us.{nl}I sense the divine will of the goddess guiding you here.{nl}I pray she will continue to guide you.{nl}
 QUEST_LV_0100_20151102_010727	On behalf of the forest and all the owls, {nl}I pray for the divine guidance and protection to be onto you.{nl}Farewell, my friend...
@@ -11378,7 +11378,7 @@ QUEST_LV_0100_20151224_011373	Ugh... What happened... Who are you?{nl}Did you sa
 QUEST_LV_0100_20151224_011374	You have my utmost gratitude.{nl}Right before I lost consciousness, I saw the image of a goddess, it must have been you...
 QUEST_LV_0100_20151224_011375	Wha...? You already had it on you?{nl}That is great news. Bring it to the upper side of Atmesti Uphill and sprinkle the energy around.{nl}
 QUEST_LV_0100_20151224_011376	I believe that utilizing the malicious force of the monsters would be a good idea. {nl}Use it on monsters to purify their energies and absorb them.
-QUEST_LV_0100_20151224_011377	By talking with the Chief Owl Sculpture, I got the feeling we could work this out.{nl}The demons are using the evil energy to corrupt Letas Stream and to trap souls.{nl}
+QUEST_LV_0100_20151224_011377	By talking with the Chief Escultura de Coruja, I got the feeling we could work this out.{nl}The demons are using the evil energy to corrupt Letas Stream and to trap souls.{nl}
 QUEST_LV_0100_20151224_011378	You will find the evil energy concentrated on Svaigulys Hill.{nl}Set up the Namott of Suppression around it to remove the evil energy.
 QUEST_LV_0100_20151224_011379	Our priority is stopping the spot where the energy of the forest is getting drained.{nl}The spot is at Senyvas Yard.
 QUEST_LV_0100_20151224_011380	The Surveillance Spheres are guarding Senyvas Yard, {nl}but without the Black Spirit, the demons' installation will weaken. {nl}Approaching it won't be easy.{nl}
@@ -11387,7 +11387,7 @@ QUEST_LV_0100_20151224_011382	If the magic circle is disabled, the Surveilance S
 QUEST_LV_0100_20151224_011383	The Black Spirit can be removed with the Namott of Suppression, {nl}if we can deal with the Surveilance Spheres. Be careful. {nl}This mission is very dangerous.
 QUEST_LV_0100_20151224_011384	The Soul Starvation is on the lower side of Apsvaiges Path.{nl}
 QUEST_LV_0100_20151224_011385	The evil energy has weakened and the Black Smoke is gone.{nl}The demons, if they are not completely stupid, will notice these changes and come after us.{nl}Please, hurry up.
-QUEST_LV_0100_20151224_011386	Is that so... The souls are free now.{nl}The Owl Chief promised to guide the souls to their rightful place, into the arms of the goddess.{nl}
+QUEST_LV_0100_20151224_011386	Is that so... The souls are free now.{nl}The Líder Coruja promised to guide the souls to their rightful place, into the arms of the goddess.{nl}
 QUEST_LV_0100_20151224_011387	How can we ever repay you...{nl}
 QUEST_LV_0100_20151224_011388	Accessory Merchant Jurus
 QUEST_LV_0100_20151224_011389	This letter is... left by Eras.{nl}
@@ -11571,10 +11571,10 @@ QUEST_LV_0100_20151224_011566	I'll start counting from the very beginning if you
 QUEST_LV_0100_20151224_011567	Is it too hard?{nl}One possible solution is to defeat them before they can reach you.
 QUEST_LV_0100_20151224_011568	It looked as if there wasn't even enough time for a speck of dust to fall on your shoulders.{nl}You seem to be quite nimble.{nl}
 QUEST_LV_0100_20151224_011569	I'm sure you'll be able to learn Scout skills with ease.{nl}I'm happy to be able to teach such a gifted pupil as well.
-QUEST_LV_0100_20151224_011570	Ah, I know about that as well.{nl}It's famous you know, the Owl Sculpture...{nl}
-QUEST_LV_0100_20151224_011571	When people die, their spirits are left behind you know.{nl}It's said that the Owl Sculpture leads them back to the goddesses.{nl}
+QUEST_LV_0100_20151224_011570	Ah, I know about that as well.{nl}It's famous you know, the Escultura de Coruja...{nl}
+QUEST_LV_0100_20151224_011571	When people die, their spirits are left behind you know.{nl}It's said that the Escultura de Coruja leads them back to the goddesses.{nl}
 QUEST_LV_0100_20151224_011572	My grandmother told me that a sculptor crafted it on the orders of Goddess Ausrine.{nl}She said that he received eternal life in return.{nl}
-QUEST_LV_0100_20151224_011573	I heard that he's still making those Owl Sculptures...{nl}I don't know why that sculpture is like that since{nl}it was most likely crafted by the same sculptor.
+QUEST_LV_0100_20151224_011573	I heard that he's still making those Esculturas de Coruja...{nl}I don't know why that sculpture is like that since{nl}it was most likely crafted by the same sculptor.
 QUEST_LV_0100_20151224_011574	Oh, good morning. It seems you've finally woken up.{nl}I've heard that they're making preparations to process people to enter Orsha.
 QUEST_LV_0100_20151224_011575	I've received a lot of help from you on the way here.{nl}You've even saved me when I was surrounded by monsters...{nl}
 QUEST_LV_0100_20151224_011576	In times like these with all the goddesses gone, the villagers are all grateful for your help.{nl}I guess today will be the last of that though.{nl}
@@ -13418,14 +13418,14 @@ QUEST_LV_0100_20151224_013412	And that red gem Mardas saw...{nl}It must be someh
 QUEST_LV_0100_20151224_013413	From what I heard the water at the Pelke Shrine Ruins turned red...{nl}I wonder if that has something to do with that gem?
 QUEST_LV_0100_20151224_013414	(There is no reaction.)
 QUEST_LV_0100_20151224_013415	You should go see a man named Mardas.{nl}I'm sure he has the answer.
-QUEST_LV_0100_20151224_013416	Please talk to our Owl Chief about it as well.{nl}I'm certain it will be a pleasure to meet you.
+QUEST_LV_0100_20151224_013416	Please talk to our Líder Coruja about it as well.{nl}I'm certain it will be a pleasure to meet you.
 QUEST_LV_0100_20151224_013417	Thank you for saving me.{nl}I hope my power will be of use to you, even if by only a little...
 QUEST_LV_0100_20151224_013418	That was unbearable...{nl}If it wasn't for you I would've stayed like that forever.
 QUEST_LV_0100_20151224_013419	I'll do anything, if only I can stand up to the demons.{nl}Thank you for saving me!
 QUEST_LV_0100_20151224_013420	I'm still a bit confused.{nl}I just can't believe what I was doing.
 QUEST_LV_0100_20151224_013421	To think I was helping the demons instead of guiding spirits to the goddess...{nl}I feel terrible, even if that wasn't my intention.
 QUEST_LV_0100_20151224_013422	How sad is the Dievdirbys who made us going to be when they find out...?{nl}I need to be more focused from now on...
-QUEST_LV_0100_20151224_013423	Thank you so much for saving me.{nl}I feel so sorry to our Owl Chief...
+QUEST_LV_0100_20151224_013423	Thank you so much for saving me.{nl}I feel so sorry to our Líder Coruja...
 QUEST_LV_0100_20151224_013424	It's close to the Anga Hall.{nl}I'm glad you're not going out there on your own, but I have a bad feeling about this.
 QUEST_LV_0100_20151224_013425	The water all turned red, you can't get any around here.{nl}You need to go all the way to Letas Stream.{nl}
 QUEST_LV_0100_20151224_013426	If you go to Svaigulys Hill, on the right side you'll see some yellow flowers.{nl}They're Markazi Flowers, it's what we use in times of need.
@@ -13506,7 +13506,7 @@ QUEST_LV_0100_20151224_013500	I want to stop; it's too scary
 QUEST_LV_0100_20151224_013501	I'll get ready and come back
 QUEST_LV_0100_20151224_013502	Trade Route Locked Chest
 QUEST_LV_0100_20151224_013503	A chest that has been locked.{nl}Defeat monsters in the area to obtain the key.
-QUEST_LV_0100_20151224_013504	Educational Materials of the Kedoran Merchant Alliance (2)
+QUEST_LV_0100_20151224_013504	Educational Materials of the Aliança Comercial Kedoran (2)
 QUEST_LV_0100_20151224_013505	I'm running away; it's too dangerous
 QUEST_LV_0100_20151224_013506	I'll help you find your colleagues
 QUEST_LV_0100_20151224_013507	I think it's best to get away from here
@@ -13845,21 +13845,21 @@ QUEST_LV_0100_20151224_013839	Defeat Cerberus
 QUEST_LV_0100_20151224_013840	Cerberus was called out by the red energy and broke free! Defeat it.
 QUEST_LV_0100_20151224_013841	Investigate Bastymosi Field
 QUEST_LV_0100_20151224_013842	Mardas told you to run because the surrounding areas are filled with demons. Go to Bastymosi Field and see what's really happening.
-QUEST_LV_0100_20151224_013843	The monsters seem to be using the Owl Sculptures to send the light beads to somewhere. Ask Mardas if he knows anything about it.
-QUEST_LV_0100_20151224_013844	Ask Mardas if he's ever seen the Owl Sculptures sending light beads anywhere.
+QUEST_LV_0100_20151224_013843	The monsters seem to be using the Esculturas de Coruja to send the light beads to somewhere. Ask Mardas if he knows anything about it.
+QUEST_LV_0100_20151224_013844	Ask Mardas if he's ever seen the Esculturas de Coruja sending light beads anywhere.
 QUEST_LV_0100_20151224_013845	Follow the light bead to Bonewide Cliff
-QUEST_LV_0100_20151224_013846	The light beads were delivered to the Owl Sculptures on top of a slope. Turn around and follow them to Bonewide Cliff.
+QUEST_LV_0100_20151224_013846	The light beads were delivered to the Esculturas de Coruja on top of a slope. Turn around and follow them to Bonewide Cliff.
 QUEST_LV_0100_20151224_013847	Retrieve the Karolis Altar Crystal
-QUEST_LV_0100_20151224_013848	To save the Owl Sculptures possessed by the demons you must restore the energy of Karolis Forest. To do that, you'll have to reconstruct the Karolis Altar destroyed by the demons. Follow the will of the leading owls and find the Karolis Altar Crystal.
+QUEST_LV_0100_20151224_013848	To save the Esculturas de Coruja possessed by the demons you must restore the energy of Karolis Forest. To do that, you'll have to reconstruct the Karolis Altar destroyed by the demons. Follow the will of the leading owls and find the Karolis Altar Crystal.
 QUEST_LV_0100_20151224_013849	To spread out the forest's divine force, you need to find and light up all of Karolis' light rays. Hurry and light up all four of Karolis' rays before their light dies out.
 QUEST_LV_0100_20151224_013850	Destroy the Mind Control Tower at Duoklu Hall
-QUEST_LV_0100_20151224_013851	Destroy the Mind Control Tower at Duoklu Hall with the power of the Owl Sculptures.
-QUEST_LV_0100_20151224_013852	Mardas is with the Owl Chief Sculpture. Listen to what he was saying.
+QUEST_LV_0100_20151224_013851	Destroy the Mind Control Tower at Duoklu Hall with the power of the Esculturas de Coruja.
+QUEST_LV_0100_20151224_013852	Mardas is with the Escultura do Líder Coruja. Listen to what he was saying.
 QUEST_LV_0100_20151224_013853	To save the Guide Owl Sculptures at Letas Stream, go to the birthplace of Karolis, where the energy of Karolis Springs is stronger, and collect that energy.
 QUEST_LV_0100_20151224_013854	Find the Guide Owl Sculpture at Letas Stream
-QUEST_LV_0100_20151224_013855	The Owl Chief Sculpture requested you gather the energy of Karolis Springs and deliver it to the Guide Owl Sculptures. Go find the Guide Owl Sculptures.
-QUEST_LV_0100_20151224_013856	The Owl Chief Sculpture requested a divine branch of Letas in order to defeat the demons. Use the crystal containing the energy of Karolis Springs to find the holy tree of Letas and obtain a branch.
-QUEST_LV_0100_20151224_013857	Mardas seems to have finally found a solution after discussing with the Owl Chief Sculpture. Listen to what Mardas has to say.
+QUEST_LV_0100_20151224_013855	The Escultura do Líder Coruja requested you gather the energy of Karolis Springs and deliver it to the Guide Owl Sculptures. Go find the Guide Owl Sculptures.
+QUEST_LV_0100_20151224_013856	The Escultura do Líder Coruja requested a divine branch of Letas in order to defeat the demons. Use the crystal containing the energy of Karolis Springs to find the holy tree of Letas and obtain a branch.
+QUEST_LV_0100_20151224_013857	Mardas seems to have finally found a solution after discussing with the Escultura do Líder Coruja. Listen to what Mardas has to say.
 QUEST_LV_0100_20151224_013858	Clear out the evil energy contaminating the forest
 QUEST_LV_0100_20151224_013859	The first thing to do is eliminate the evil energy contaminating the forest. Set up the Namott of Suppression around the evil energy to clear it out.
 QUEST_LV_0100_20151224_013860	You have cleared out all of the evil energy. Go back to Mardas and tell him about it.
@@ -13964,12 +13964,12 @@ QUEST_LV_0100_20151224_013958	Deliver to Merrisa
 QUEST_LV_0100_20151224_013959	You have cleared out the monsters and recovered the holy relics. Take them to Merrisa.
 QUEST_LV_0100_20151224_013960	Talk to Merrisa
 QUEST_LV_0100_20151224_013961	Ask Merrisa if you can help with anything else.
-QUEST_LV_0100_20151224_013962	You have recovered the Merchant Alliance's objects. Go and ask Merrisa what they are.
+QUEST_LV_0100_20151224_013962	You have recovered the Aliança Comercial's objects. Go and ask Merrisa what they are.
 QUEST_LV_0100_20151224_013963	Defeat Infroburks to retrieve %s
 QUEST_LV_0100_20151224_013964	Defeat Infroburks and retrieve the Damp Pieces of Paper
 QUEST_LV_0100_20151224_013965	Use Merrisa's detector to investigate the Juikas Field area. Use the detector on the areas shown on the map to check your direction.
 QUEST_LV_0100_20151224_013966	Report to Merrisa
-QUEST_LV_0100_20151224_013967	You have found the Merchant Alliance's objects using the detector. Bring them to Merrisa.
+QUEST_LV_0100_20151224_013967	You have found the Aliança Comercial's objects using the detector. Bring them to Merrisa.
 QUEST_LV_0100_20151224_013968	Obtain Infroburk Body Fluid
 QUEST_LV_0100_20151224_013969	A special ink is needed to make the educational materials. Set up Margellius' trap at the Drose Empty Lot and collect the body fluid of trapped Infroburks.
 QUEST_LV_0100_20151224_013970	Defeat those trying to attack the spirits of the Klaipeda Market
@@ -15608,9 +15608,9 @@ QUEST_LV_0100_20160718_015602	Talk with Blacksmith Ilanai in Orsha and receive t
 QUEST_LV_0100_20160718_015603	You successfully defeated the monster after it suddenly attacking from beneath the water. Ask Napalis if they are all right.
 QUEST_LV_0100_20160718_015604	Dievdirbys Asel is waiting for you at Grynas Hills. Go find Dievdirbys Asel.
 QUEST_LV_0100_20160718_015605	Talk to the Quiet Owl Sculpture at Susipyne Hill Areas
-QUEST_LV_0100_20160718_015606	Dievdirbys Asel suggests that you split up to investigate about the Owl Sculpture. Go and take a look at the Quiet Owl Sculpture at Susipyne Hill Areas.
+QUEST_LV_0100_20160718_015606	Dievdirbys Asel suggests that you split up to investigate about the Escultura de Coruja. Go and take a look at the Quiet Owl Sculpture at Susipyne Hill Areas.
 QUEST_LV_0100_20160718_015607	Talk to Dievdirbys Asel at the Siauras Valley
-QUEST_LV_0100_20160718_015608	Unfortunately, the Quiet Owl Sculpture says that the information you seek is in the hands of the Sleeping Owl Sculpture. Go to Siauras Valley where Dievdirbys Asel is.
+QUEST_LV_0100_20160718_015608	Unfortunately, the Quiet Owl Sculpture says that the information you seek is in the hands of the Sleeping Escultura de Coruja. Go to Siauras Valley where Dievdirbys Asel is.
 QUEST_LV_0100_20160718_015609	Dievdirbys Asel has crafted a Small Owl Sculpture. Take it to the Friendly Owl Sculpture.
 QUEST_LV_0100_20160718_015610	Go back to Dievdirbys Asel
 QUEST_LV_0100_20160718_015611	The Friendly Owl Sculpture has given some of its powers to the Small Owl Sculpture. Go back to Dievdirbys Asel with the Sculpture.
@@ -15750,7 +15750,7 @@ QUEST_LV_0100_20161005_015744	As a cleric, the best way to approach the goddesse
 QUEST_LV_0100_20161005_015745	It's very sad to listen to the commands of demons as the Guardians of the tomb.
 QUEST_LV_0100_20161005_015746	I came here because the historians invited me to this place.{nl}They wanted my advice as a stonemason.
 QUEST_LV_0100_20161005_015747	I heard a Revelator defeated the Demon Lord ransacking the Royal Mausoleum.{nl}As a person undergoing training, I am ashamed that I couldn't go out and fight.
-QUEST_LV_0100_20161005_015748	I heard the monsters in Kateen Forest are eating up the Owl Sculptures I've made. {nl}I'm sure they are trying to use the souls for something else. Like for nourishment... 
+QUEST_LV_0100_20161005_015748	I heard the monsters in Kateen Forest are eating up the Esculturas de Coruja I've made. {nl}I'm sure they are trying to use the souls for something else. Like for nourishment... 
 QUEST_LV_0100_20161005_015749	As a Hunter, my instinct says the monsters in this forest are showing unusual movement. {nl}As if they are controlled by something. 
 QUEST_LV_0100_20161005_015750	Don't just stand there. {nl}Move if you want to help or go away.
 QUEST_LV_0100_20161005_015751	As the mayor, I cannot just leave the village like this. {nl}How could the goddesses be so indifferent?
@@ -16737,7 +16737,7 @@ QUEST_LV_0100_20161214_016731	Carving a message for the victims on the tombstone
 QUEST_LV_0100_20161214_016732	The memorial is complete.{nl}Return to Rona and deliver the news.
 QUEST_LV_0100_20161214_016733	Unexpected News
 QUEST_LV_0100_20161214_016734	I'll go to the Squire Master myself.
-QUEST_LV_0100_20161214_016735	Kedoran Merchant Alliance are helping new Revelators. Please use the scroll of Kedoran Merchant Alliance on new Revelators who are between level 1 and level 25 near Orsha or Klaipeda, or at the Crystal Mine. However, you can't use it on Revelators who already received the benefits.
+QUEST_LV_0100_20161214_016735	Aliança Comercial Kedoran are helping new Revelators. Please use the scroll of Aliança Comercial Kedoran on new Revelators who are between level 1 and level 25 near Orsha or Klaipeda, or at the Crystal Mine. However, you can't use it on Revelators who already received the benefits.
 QUEST_LV_0100_20161214_016736	Defeat the Monsters Attacking the Cave
 QUEST_LV_0100_20161214_016737	While Kupole Medena was away, the demons' numbers grew ever wider, joined by the Tala tribe. Defeat them.
 QUEST_LV_0100_20161214_016738	You have defeated the demons, the Tala and the other monsters as Medena requested. Talk to her.
@@ -16780,7 +16780,7 @@ QUEST_LV_0100_20161214_016774	Talk to the Lost Spirit
 QUEST_LV_0100_20161214_016775	There's a lost spirit wandering around Letas Stream. Talk to the spirit.
 QUEST_LV_0100_20161214_016776	Bring the Lost Spirit to the Frail Owl Sculpture
 QUEST_LV_0100_20161214_016777	The spirit had been looking for an important object all along. Now that he has it back, help the spirit reach the Frail Owl Sculpture so he can finally move on.
-QUEST_LV_0100_20161214_016778	The spirit has successfully reached the Frail Owl Sculpture. Talk to the Owl Sculpture.
+QUEST_LV_0100_20161214_016778	The spirit has successfully reached the Frail Owl Sculpture. Talk to the Escultura de Coruja.
 QUEST_LV_0100_20161214_016779	Open the Inmates' Hidden Locking Device
 QUEST_LV_0100_20161214_016780	You followed the strange notes and found a locking device. Try to unlock it.
 QUEST_LV_0100_20161214_016781	Open the Locking Device
