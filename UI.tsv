@@ -996,7 +996,7 @@ UI_20150317_000995	{@St41b}Sair do Jogo{/}
 UI_20150317_000996	{@St59}Sair do Tree of Savior{/}
 UI_20150317_000997	{@st41b}Selecione o Canal{/}
 UI_20150317_000998	{@st43}Entrar{/}
-UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v8.3{/}
+UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v8.4{/}
 UI_20150317_001000	{@St43}{s26}Nome do Time{/}
 UI_20150317_001001	{@st59}Nome do Time{/}
 UI_20150317_001002	{@st41b}Mudar nome do time{/}
@@ -3378,3 +3378,9 @@ UI_20180629_003377	Current Items
 UI_20180629_003378	{@st41b}{S16}%s% Cupom de Desconto
 UI_20180629_003379	{@st41b}{s16}{nl}Trocar
 UI_20180704_003380	Por favor registre um Material de Aparência ou itens equivalentes.
+UI_20180723_003381	{@st42}{s20}Victory Rewards
+UI_20180723_003382	Seizing Date
+UI_20180723_003383	Victory Rewards
+UI_20180723_003384	ⓘ Victory rewards are applied 1 hour after the end of each GTW session.{nl}ⓘ Only the Guild Master can retrieve these rewards. The items are sent to your Guild Storage.
+UI_20180723_003385	{@st41b}{s16}Victory Rewards
+UI_20180723_003386	{@st42}{s16}Receive
