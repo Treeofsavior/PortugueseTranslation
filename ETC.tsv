@@ -27070,7 +27070,7 @@ ETC_20170313_027064	You have received all the rewards!
 ETC_20170313_027065	Cannot be used in the PvP server!
 ETC_20170313_027066	Já existe um Broto Abençoado nas proximidades.
 ETC_20170313_027067	Cannot be used during cutscenes.
-ETC_20170313_027068	Broto Abençoado
+ETC_20170313_027068	{@st41}{#1cff76}Broto Abençoado
 ETC_20170313_027069	Vá para o broto plantado dentro de {SEC} segundos para receber seus efeitos de buff!
 ETC_20170313_027070	Recebeu o buff estágio {STEP} do Broto Abençoado!
 ETC_20170313_027071	Receber Broto Abençoado
@@ -34615,8 +34615,8 @@ ETC_20180629_034579	I'll go and ask myself.
 ETC_20180629_034580	I'm not too worried about it, to be honest.
 ETC_20180629_034581	That doesn't sound so urgent.
 ETC_20180629_034582	Investigating the mound of grass...
-ETC_20180629_034583	Found Perilla leaves!{nl}({now_cnt} / {max_cnt})
-ETC_20180629_034584	Nothing here looks like Perilla.
+ETC_20180629_034583	Encontrado folhas de Perilla!{nl}({now_cnt} / {max_cnt})
+ETC_20180629_034584	Nada aqui parece uma Perilla.
 ETC_20180629_034585	You have collected enough Perilla leaves now.{nl}Return to the Plague Doctor Master.
 ETC_20180629_034586	Investigating the sand...
 ETC_20180629_034587	Found some Glowing Blue Sand and placed it in the bottle.{nl}({now_cnt} / {max_cnt})
@@ -34624,7 +34624,7 @@ ETC_20180629_034588	There's no Glowing Blue Sand in here.
 ETC_20180629_034589	The bottle is full of Glowing Blue Sand.{nl}Return to the Chronomancer Master.
 ETC_20180629_034590	Here's the cure.
 ETC_20180629_034591	Sorry, I have to go now.
-ETC_20180629_034592	Successful runs +{add_point} (Total successful runs: {total_point})
+ETC_20180629_034592	Concluído +{add_point} (Total Completo: {total_point})
 ETC_20180629_034593	The platform is already heading towards that direction.
 ETC_20180629_034594	[Pied Piper Unlock]{nl}Use the Empty Bottle to collect Glowing Blue Sand.{nl}Check the Oracle Master's Note for more details.
 ETC_20180629_034595	The bombs carried by the monsters were lit by the torches and exploded!{nl}The torches have been damaged!
@@ -34836,3 +34836,85 @@ ETC_20180723_034800	GTW market fee reward delivery standby time (minutes). Recor
 ETC_20180723_034801	Only the Guild Master can retrieve victory rewards.
 ETC_20180723_034802	Your Guild Storage is full.{nl}Please clear it out and try again.
 ETC_20180724_034803	There are no reward items available.
+ETC_20180730_034804	Sailor Popup Book
+ETC_20180730_034805	[Event] Aitheo Coast
+ETC_20180730_034806	Summer Vibes
+ETC_20180730_034807	A title given to event participants. Right-click to use.
+ETC_20180730_034808	Summer Marine Cube
+ETC_20180730_034809	Use to receive one of the following random items.{nl} - Romantic Sailor Costume Selection Box x1{nl} - Marine Beachwear Costume Selection Box x1{nl} - Summer Beachwear Costume Selection Box x1{nl} - Romantic Sailor Whale Costume Selection Box x1{nl} - Marine Beachwear Whale Costume Selection Box x1{nl} - Summer Beachwear Whale Costume Selection Box x1{nl} - Hair Accessory Selection Box: Marine Beret x1{nl} - Hair Accessory Selection Box: Marine Stripe Glasses x1{nl} - Hair Accessory Selection Box: Sailor Beret x1{nl} - Hair Accessory Selection Box: Romantic Marine Scarf x1{nl} - Hair Accessory Selection Box: Blue Anchor x1{nl} - Hair Accessory Selection Box: Lighthouse x1{nl}  - Marine Surfboard x1
+ETC_20180730_034810	Romantic Sailor Costume Selection Box
+ETC_20180730_034811	Use to select one of the following items.{nl} - Romantic Sailor Costume (Male) x1{nl} - Romantic Sailor Costume (Female) x1
+ETC_20180730_034812	Marine Beachwear Costume Selection Box
+ETC_20180730_034813	Use to select one of the following items.{nl} - Marine Beachwear Costume (Male) x1{nl} - Marine Beachwear Costume (Female) x1
+ETC_20180730_034814	Summer Beachwear Costume Selection Box
+ETC_20180730_034815	Use to select one of the following items.{nl} - Summer Beachwear Costume (Male) x1{nl} - Summer Beachwear Costume (Female) x1
+ETC_20180730_034816	Romantic Sailor Whale Costume Selection Box
+ETC_20180730_034817	Use to select one of the following items.{nl} - Romantic Sailor Whale Costume (Male) x1{nl} - Romantic Sailor Whale Costume (Female) x1
+ETC_20180730_034818	Marine Beachwear Whale Costume Selection Box
+ETC_20180730_034819	Use to select one of the following items.{nl} - Marine Beachwear Whale Costume (Male) x1{nl} - Marine Beachwear Whale Costume (Female) x1
+ETC_20180730_034820	Summer Beachwear Whale Costume Selection Box
+ETC_20180730_034821	Use to select one of the following items.{nl} - Summer Beachwear Whale Costume (Male) x1{nl} - Summer Beachwear Whale Costume (Female) x1
+ETC_20180730_034822	Summer Marine Cube x10 +1
+ETC_20180730_034823	Use to receive one of the following random items.{nl} - Romantic Sailor Costume Selection Box x1{nl} - Marine Beachwear Costume Selection Box x1{nl} - Summer Beachwear Costume Selection Box x1{nl} - Romantic Sailor Whale Costume Selection Box x1{nl} - Marine Beachwear Whale Costume Selection Box x1{nl} - Summer Beachwear Whale Costume Selection Box x1{nl} - Hair Accessory Selection Box: Marine Beret x1{nl} - Hair Accessory Selection Box: Marine Stripe Glasses x1{nl} - Hair Accessory Selection Box: Sailor Beret x1{nl} - Hair Accessory Selection Box: Romantic Marine Scarf x1{nl} - Hair Accessory Selection Box: Blue Anchor x1{nl} - Hair Accessory Selection Box: Lighthouse x1{nl}  - Marine Surfboard x1
+ETC_20180730_034824	Hair Accessory Selection Box: Marine Beret
+ETC_20180730_034825	Use to select one of the following items.{nl} - Marine Beret x1{nl} - Enchant Scroll x5
+ETC_20180730_034826	Hair Accessory Selection Box: Marine Stripe Glasses
+ETC_20180730_034827	Use to select one of the following items.{nl} - Marine Stripe Glasses x1{nl} - Enchant Scroll x5
+ETC_20180730_034828	Hair Accessory Selection Box: Sailor Beret
+ETC_20180730_034829	Use to select one of the following items.{nl} - Sailor Beret x1{nl} - Enchant Scroll x5
+ETC_20180730_034830	Hair Accessory Selection Box: Romantic Marine Scarf
+ETC_20180730_034831	Use to select one of the following items.{nl} - Romantic Marine Scarf x1{nl} - Enchant Scroll x5
+ETC_20180730_034832	Hair Accessory Selection Box: Blue Anchor
+ETC_20180730_034833	Use to select one of the following items.{nl} - Blue Anchor x1{nl} - Enchant Scroll x5
+ETC_20180730_034834	Hair Accessory Selection Box: Lighthouse
+ETC_20180730_034835	Use to select one of the following items.{nl} - Lighthouse x1{nl} - Enchant Scroll x5
+ETC_20180730_034836	{@st41}{#FF6700}Organizadora de Festas
+ETC_20180730_034837	{@st41}{#FF6700}Garçom
+ETC_20180730_034838	{@st66d_y}{s20}{ITEM}{/}{/} {nl}Tem certeza de que deseja este item? {Nl} {nl} Sua escolha não pode ser revertida.
+ETC_20180730_034839	I can help you.
+ETC_20180730_034840	Derrote 50 monstros em {ZONE}!
+ETC_20180730_034841	I'll follow the Hawk's cries.
+ETC_20180730_034842	I'm sorry, I have more important things to do.
+ETC_20180730_034843	The Hawk is not replying to the whistle.
+ETC_20180730_034844	A faint Hawk cry is heard.{nl}It is still far.{nl}Distance: {DIST}
+ETC_20180730_034845	The Hawk's cries are growing nearer.{nl}Distance: {DIST}
+ETC_20180730_034846	Another Hawk cry is heard nearby. It's close!{nl}Distance: {DIST}
+ETC_20180730_034847	The Hawk is close by, but it is hiding.{nl}Distance: {DIST}
+ETC_20180730_034848	The Hawk has shown itself.{nl}Bring it to the Falconer Master.
+ETC_20180730_034849	Defeated monsters {KILL}/50
+ETC_20180730_034850	The Carrier Hawk is safe now.{nl}Report back to the Falconer Master for a reward!
+ETC_20180730_034851	A Hawk is heard crying for help in the distance.{nl}Use the Falconer Master's 
+ETC_20180730_034852	Carrier Hawk Whistle 
+ETC_20180730_034853	and find the hidden hawk!
+ETC_20180730_034854	Receive Total Count Rewards (Current Count: {COUNT})
+ETC_20180730_034855	You have already receive your total count rewards.
+ETC_20180730_034856	Failed to escort: {COUNT2}
+ETC_20180730_034857	Thank you for your help.
+ETC_20180730_034858	Thank for coming with us.
+ETC_20180730_034859	You truly are blessed by the goddesses.
+ETC_20180730_034860	I am eternally grateful, Revelator.
+ETC_20180730_034861	We can make it to the Astral Tower.
+ETC_20180730_034862	Total count rewards can be received after your count reaches {COUNT}.
+ETC_20180730_034863	{SEC} segundos 
+ETC_20180730_034864	 para ativar o buff
+ETC_20180730_034865	Comprar BBQ Prawn Skewers [Total Count: {COUNT}]
+ETC_20180730_034866	Comprar Blue Lemonade [Total Count: {COUNT}]
+ETC_20180730_034867	Comprar Fresh Coconut Water [Total Count: {COUNT}]
+ETC_20180730_034868	You can purchase a maximum of {MAX} per day.
+ETC_20180730_034869	Quantos você deseja?{nl}[1 to {MAX}]
+ETC_20180730_034870	You are already using a buff with the same effects.
+ETC_20180730_034871	You already used this item's buff today.
+ETC_20180730_034872	Total Purchase Rewards 
+ETC_20180730_034873	 Item sent.
+ETC_20180730_034874	Log time: {MIN} min{nl}Adquirido Gelo Mágico x5
+ETC_20180730_034875	 Buff activated!
+ETC_20180730_034876	Chutes Restantes: {COUNT}
+ETC_20180730_034877	Entrar no Desafio
+ETC_20180730_034878	Hair Accessory Box
+ETC_20180730_034879	Cook
+ETC_20180730_034880	Começando em 10 segundos. Aguarde a bola de fogo aparecer!
+ETC_20180730_034881	Chute a bola de fogo até o Gol.
+ETC_20180730_034882	Gol
+ETC_20180730_034883	Charge Crystal
+ETC_20180730_034884	Se você cehgar a 0, você irá falhar o desafio. {Nl} Usando uma Charge Crystal adiciona  
+ETC_20180730_034885	+10 chutes
