@@ -364,8 +364,8 @@ UI_20150317_000363	{@st41b}Receber %s
 UI_20150317_000364	{@st41b}Vender
 UI_20150317_000365	{@st41b}Procurar
 UI_20150317_000366	{@st59}Fechar{/}
-UI_20150317_000367	{@st42b}Sort
-UI_20150317_000368	{@st41b}Purchase
+UI_20150317_000367	{@st42b}Organizar
+UI_20150317_000368	{@st41b}Comprar
 UI_20150317_000369	{@st43}{s22}Receber
 UI_20150317_000370	{@st41b}Receber Tudo
 UI_20150317_000371	{@st41b}Receber
@@ -1155,9 +1155,9 @@ UI_20150317_001154	{@St55_c}Registros de Anotações
 UI_20150317_001155	{@St59}Digite um nome. Se não inserir um nome, será usado o nome padrão.{/}
 UI_20150317_001156	{@St59}Digite uma anotação{/}
 UI_20150317_001157	{@St43}Itens Confeccionados
-UI_20150317_001158	{@st42b}%s pontos {/}
+UI_20150317_001158	{@st42b}%s Pontos {/}
 UI_20150317_001159	{@st42b}%s cão {/}
-UI_20150317_001160	{@st42b}%s pontos {/}
+UI_20150317_001160	{@st42b}%s Pontos {/}
 UI_20150317_001161	{@st42b}%s cão {/}
 UI_20150317_001162	{S16}{ol}por preço
 UI_20150317_001163	Preço Total: 1
@@ -1845,16 +1845,16 @@ UI_20151224_001843	{@st66b}Records
 UI_20151224_001844	Legs Quantity
 UI_20151224_001845	{@st41}Confirmar
 UI_20151224_001846	{@st42}Use{/}
-UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}
+UI_20151224_001847	{@st66b18}※ Compras feitas com TP não são reembolsáveis.{/}
 UI_20151224_001848	{@st59}Guild  (/g chat){/}
 UI_20151224_001849	{@st59}Guild   (/g chat){/}
 UI_20151224_001850	{@st42}Tamanho do Texto
-UI_20151224_001851	{@st66b}Information
+UI_20151224_001851	{@st66b}Informações
 UI_20151224_001852	Goddess Statue HP
 UI_20151224_001853	Round
 UI_20151224_001854	Player
-UI_20151224_001855	Ally
-UI_20151224_001856	Enemy
+UI_20151224_001855	Aliado
+UI_20151224_001856	Inimigo
 UI_20151224_001857	{@st66b}Cozinhando
 UI_20151224_001858	{@st66b}Comida
 UI_20151224_001859	{@st66b}Lista
@@ -2250,7 +2250,7 @@ UI_20160718_002248	Tempo para usar :
 UI_20160718_002249	Dia Hora Minuto Segundo
 UI_20160718_002250	{@st42b}Siauliai{/}
 UI_20160718_002251	{#000000}Score{/}
-UI_20160718_002252	{#000000}%s Points{/}
+UI_20160718_002252	{#000000}%s Pontos{/}
 UI_20160718_002253	Regional GvG Rankings
 UI_20160811_002254	{@st66b18}※ The item is consumed when you change Nome.{/}
 UI_20160811_002255	{@st42}Mostrar quem se Conectou
@@ -2556,7 +2556,7 @@ UI_20170313_002554	{@st41b}Coleção{/}
 UI_20170313_002555	{@st66b}[%s]{nl}Peça obtida.{/}
 UI_20170313_002556	{@st59}Fechar Janela.{/}
 UI_20170313_002557	{@st41b}Combinar as {@sti9}%s insígnias selecionadas{/}?{/}
-UI_20170313_002558	{@st59b}Combinar Insígnia{nl}{@st59s} - Select the badges from your inventory.{nl}{/}
+UI_20170313_002558	{@st59b}Combinar Insígnia{nl}{@st59s} - Select ths Medalhas from your inventory.{nl}{/}
 UI_20170313_002559	{@st41b}Combinar
 UI_20170313_002560	{@st66b}Items para reparar
 UI_20170313_002561	{@st66b}Efeitos de drop de item
@@ -2758,7 +2758,7 @@ UI_20170912_002757	Status
 UI_20170912_002758	SPR +6
 UI_20170912_002759	Diário de Aventura Ranking
 UI_20170912_002760	{@st66d_y}%s{/} Batalhas {@st66d_y}%s{/} Vitórias {@st66d_y}%s{/} Derrotas
-UI_20170912_002761	%s Points
+UI_20170912_002761	%s Pontos
 UI_20170912_002762	{@st59}Participação{/}
 UI_20170912_002763	Uphill Defense Ranking
 UI_20170912_002764	Pontos Totais
@@ -2997,11 +2997,11 @@ UI_20180208_002996	{@st59b}Transcendência de Item{nl}{@st59s}- Outra opção pa
 UI_20180208_002997	Chance de Sucesso: 100%
 UI_20180208_002998	*Transcendência pode falhar se a taxa de sucesso não for 100%.{nl}Potential 
 UI_20180208_002999	Extrair Blessed Shard
-UI_20180208_003000	{@st59b}Extract Blessed Shard{nl}{@st59s}- Extract Blessed Shard from Transcended item{nl}- Material for Extracting: Hammer of Dismantlement.{nl}- Extracting Blessed Shards will delete the item, but retain part of the Blessed Stone as Blessed Shards.{nl} :90% of Blessed Stone used to transcend can be returned.{nl}- Your item must be transcended to at least stage 2 in order to extract the shards.{/}
+UI_20180208_003000	{@st59b}Extrair Blessed Shard{nl}{@st59s}- Extrair Blessed Shard do item transcendido{nl}- Material para extração: Hammer of Dismantlement.{nl}- Extrair Blessed Shards irá deletar o item, mas manterá parte do Blessed Stone como Blessed Shards.{nl} :90% das Blessed Stone usadas para trancender podemser obtidas de volta.{nl}- Seu item deve ser transcendido pelo menos ao estágio 2 para extrair as shards.{/}
 UI_20180208_003001	Blessed Shard Resultado
 UI_20180208_003002	{@st43b}{s18}Efeito Aplicado{/}
 UI_20180208_003003	{@st43b}{s20}Efeito Aplicado{/}
-UI_20180208_003004	{@st59}Show Monster Card Apply Option{/}
+UI_20180208_003004	{@st59}Mostrar opção de aplicar cartas de monstro{/}
 UI_20180208_003005	*Você não pode reverter se tiver{nl} cartões de Rank não utilizados ou cartões de Classe EXP.
 UI_20180208_003006	*Os atributos comuns, como Troca de Arma, também serão redefinidos,{nl} e os pontos de atributo serão retornados.
 UI_20180208_003007	{@st43}{s22}Add Soquete{/}
@@ -3025,11 +3025,11 @@ UI_20180320_003024	{@st43b}{#898989}{s17}A Carta Lendária e as cartas materiais
 UI_20180320_003025	{@st59}Fechar{/}
 UI_20180320_003026	Tempo restante
 UI_20180320_003027	Adquirir aleatório
-UI_20180320_003028	{@st59}Shop Pessoal{/}
+UI_20180320_003028	{@st59}Loja Pessoal{/}
 UI_20180320_003029	{@st59}Pescaria{/}
 UI_20180320_003030	Procure pelo nome e aperte Enter
 UI_20180320_003031	{@st66b}Ver mais
-UI_20180320_003032	Qtt to add (count)
+UI_20180320_003032	Qtd. para add (count)
 UI_20180320_003033	Procure o nome do item e pressione Enter
 UI_20180320_003034	Pesquise o item para criar e pressione Enter
 UI_20180320_003035	Pesquise o nome da dungeon instanciada e pressione Enter
@@ -3046,19 +3046,19 @@ UI_20180320_003045	Tente isso.{Nl}Tente isso também.
 UI_20180320_003046	{@st68}Checar
 UI_20180402_003047	{img notice_br_link 16 16}{@st99w16}Link Relacionado
 UI_20180409_003048	{@st66b}Sombras
-UI_20180413_003049	{@st43b}{s18}Benefits (Coming Soon){/}
+UI_20180413_003049	{@st43b}{s18}Benefícios (em breve){/}
 UI_20180413_003050	> Por favor, consulte o nosso site oficial em treeofsavior.com para obter mais informações sobre as recompensas e benefícios do Territory Wars durante o período de testes beta.
-UI_20180418_003051	{@st47}{s18}See Processed Equipment
+UI_20180418_003051	{@st47}{s18}Ver Equipamentos Processados
 UI_20180418_003052	{@st42}Títulos Usáveis [%s]{/}
 UI_20180418_003053	{@st42}{#00fec5}Estágio do buff de Título
 UI_20180418_003054	{@st42}N° para o próximo Estágio
 UI_20180418_003055	{@st42b}Estágio %s{/}
 UI_20180418_003056	{@st66b}Ver Próximos Efeitos{/}
-UI_20180418_003057	{@st59}Close.{/}
+UI_20180418_003057	{@st59}Fechar.{/}
 UI_20180418_003058	{@st41}{s20}Transcendence Scroll{/}
-UI_20180418_003059	Transcendence Value: %s
-UI_20180418_003060	Success Rate: %s%
-UI_20180418_003061	{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}
+UI_20180418_003059	Valor da Transcendência: %s
+UI_20180418_003060	Chance de sucesso: %s%
+UI_20180418_003061	{@st66}Não é possível usar com itens de equipamentos transcendidos.{nl}Usá-lo irá mudar a transcendência para o estágio %s.{/}
 UI_20180418_003062	{@st41b}{s20}Transcendência
 UI_20180418_003063	{@st41b}{s20}Confirmar
 UI_20180426_003064	{@st59}Voltar{/}
@@ -3069,11 +3069,11 @@ UI_20180517_003068	{@st66b}Depósito{/}
 UI_20180517_003069	{@st66b}Guerras{/}
 UI_20180517_003070	{@st41b}Escrever
 UI_20180517_003071	{@st66b}Mestre{/}
-UI_20180517_003072	{@st66b}Guild Master name here{/}
+UI_20180517_003072	{@st66b}Nome do Guild Master aqui{/}
 UI_20180517_003073	{@st66b}Membros{/}
 UI_20180517_003074	{@st66b}Fundado{/}
 UI_20180517_003075	{@st66b}Fundos{/}
-UI_20180517_003076	{@st66b}Guild funds here{/}
+UI_20180517_003076	{@st66b}Fundos da guilda aqui{/}
 UI_20180517_003077	Posição {img %s 13 13}
 UI_20180517_003078	%s online, %s offline
 UI_20180517_003079	{@st43b}{s18}Guerras{/}
@@ -3088,7 +3088,7 @@ UI_20180517_003087	{@st42}Manejar Guilda{/}
 UI_20180517_003088	{@st42}Fundos da Guilda{/}
 UI_20180517_003089	{@st42}Comunidade{/}
 UI_20180517_003090	{@st42}Conteúdo{/}
-UI_20180517_003091	{@st41b}{s16}Add
+UI_20180517_003091	{@st41b}{s16}Adicionar
 UI_20180517_003092	{@st41b}{s16}Deletar
 UI_20180517_003093	{@st41b}{s16}Salvar
 UI_20180517_003094	{@st43b}{s18}Dar Cargo
@@ -3149,12 +3149,12 @@ UI_20180517_003148	{@st59}Guerras Territoriais{/}
 UI_20180517_003149	{@st43}Log de Inscrições
 UI_20180517_003150	Data
 UI_20180517_003151	Status
-UI_20180517_003152	{@st66b}Daily entries reset every Monday at %s (server time).{/}
+UI_20180517_003152	{@st66b}Entradas diarias resetam toda segunda-feira as %s (server time).{/}
 UI_20180517_003153	Equipar Ichor
 UI_20180517_003154	Equipar
 UI_20180517_003155	{@st43b}{s18}Stats Atuais
 UI_20180517_003156	{@st43b}{s18}Stats Equipado
-UI_20180517_003157	Extraction Kit
+UI_20180517_003157	Kit de extração
 UI_20180517_003158	Extrair Ichor
 UI_20180517_003159	Extrair
 UI_20180517_003160	{s22}O item foi destruído.
@@ -3168,7 +3168,7 @@ UI_20180517_003167	{@st59}Fechar.{/}
 UI_20180517_003168	{@st42b}Ver apenas itens equipáveis
 UI_20180517_003169	{@st43b}{s15}{#ffbf11}Diferença de Pontos
 UI_20180517_003170	{@st43b}{s16}%s Pontos
-UI_20180517_003171	Obteve [ %s] Badges
+UI_20180517_003171	Obteve [ %s] Medalhas
 UI_20180517_003172	{@st66d}{s20}Retornando em %s segundos.{/}
 UI_20180517_003173	{@st66d}Retornar{/}
 UI_20180517_003174	Se você desfizer seu avanço de classe atual, o avanço será desfeito e {@ st66d_y} sua EXP de classe atual desaparecerá.{/}{/}
@@ -3183,13 +3183,13 @@ UI_20180517_003182	{@st66d}{s18}[Itens de Não-Probabilidade]
 UI_20180517_003183	{img impossible_red 17 17}Restrições de Equip
 UI_20180517_003184	{img impossible_yellow 17 17}Apenas uma Compra
 UI_20180517_003185	{img icon_item_tpBox_30 36 36}%s TP será consumido.
-UI_20180517_003186	Probability Message
+UI_20180517_003186	Mensagem de probabilidade
 UI_20180517_003187	{@st66b}Sim{/}
 UI_20180517_003188	{@st66b}Não{/}
-UI_20180517_003189	{@st66w}Mostrar todas as tabs{/}
-UI_20180517_003190	{@st66b}No jogo, seus nomes de personagens e Time serão exibidos assim:{nl} 
+UI_20180517_003189	{@st66w}Mostrar todas as abas{/}
+UI_20180517_003190	{@st66b}Em jogo, o nome do seu personagem e Time serão exibidos assim:{nl} 
 UI_20180517_003191	NomedoPersonagem NomedoTime
-UI_20180517_003192	 .{nl}{img exemple_img_teamname}{nl}Your Team name represents all your characters and is used in trading, Guilds, chat, etc.{nl}Changing your Team name consumes 150 TP, so choose it carefully.{/}
+UI_20180517_003192	 .{nl}{img exemple_img_teamname}{nl}O nome do seu time representa todos os seus personagens e é usado em Trades, Guilds, Chat, etc.{nl}Mudar o nome do seu Time consome 150 TP, então escolha com cuidado.{/}
 UI_20180517_003193	N/A
 UI_20180517_003194	N/A
 UI_20180517_003195	{@st41b}{s14}{#ffffff}Normal
@@ -3197,9 +3197,9 @@ UI_20180517_003196	{@st41b}{s14}{#0e7fe8}Mágico
 UI_20180517_003197	{@st41b}{s14}{#a124d0}Raro
 UI_20180517_003198	{@st41b}{s14}{#d92400}Único
 UI_20180517_003199	{@st41b}{s14}{#ffa800}Lendário
-UI_20180517_003200	{img quest_giveup_btn 18 18}Não pode Transcender
-UI_20180517_003201	{img quest_giveup_btn 18 18}Não é Possível Extrair
-UI_20180517_003202	{img quest_giveup_btn 18 18}Não é Possível Extrair soquetes
+UI_20180517_003200	{img quest_giveup_btn 18 18}Sem Trans
+UI_20180517_003201	{img quest_giveup_btn 18 18}Sem Extração
+UI_20180517_003202	{img quest_giveup_btn 18 18}Sem Socket
 UI_20180517_003203	Arma Principal
 UI_20180517_003204	Armadura
 UI_20180517_003205	Parte de Baixo
@@ -3209,11 +3209,11 @@ UI_20180517_003208	Trocar
 UI_20180517_003209	{@st66d}Nome do Jogador{/}
 UI_20180517_003210	{@st66}{s18}Escrever{/}
 UI_20180517_003211	Peso: %s
-UI_20180517_003212	Total Characters 
+UI_20180517_003212	Total de Personagens
 UI_20180517_003213	Quero me Juntar
 UI_20180517_003214	Classe do Personagem
 UI_20180517_003215	Contribuição
-UI_20180517_003216	Armazém Slots +30
+UI_20180517_003216	Espaço do Armazém +30
 UI_20180523_003217	{@st41_yellow}{s70}Vitória
 UI_20180523_003218	{@st41_yellow}{s70}Derrota
 UI_20180528_003219	{s30}Importante
@@ -3226,40 +3226,40 @@ UI_20180629_003225	{@st43}Barber Shop (M)
 UI_20180629_003226	{@st43}Barber Shop (F)
 UI_20180629_003227	{@st43}Boutique (M)
 UI_20180629_003228	{@st43}Boutique (F)
-UI_20180629_003229	{@st43}Barber Shop - Wigs (M)
-UI_20180629_003230	{@st43}Barber Shop - Wigs (F)
-UI_20180629_003231	{@st43}Boutique - Cubes
-UI_20180629_003232	{@st43}Berber Shop - Lenses
-UI_20180629_003233	View only equipable items
-UI_20180629_003234	Select Color
+UI_20180629_003229	{@st43}Barber Shop - Cabelos (M)
+UI_20180629_003230	{@st43}Barber Shop - Cabelos (F)
+UI_20180629_003231	{@st43}Boutique - Cubos
+UI_20180629_003232	{@st43}Berber Shop - Lentes
+UI_20180629_003233	Ver apenas itens equipaveis
+UI_20180629_003234	Selecione a Cor
 UI_20180629_003235	{img barbershop_scissors_pic 41 36}{@st66b}Selecione um penteado para ver a lista de cores.{/}
 UI_20180629_003236	{@st43b}{s20}Visualizar e Comprar{/}
 UI_20180629_003237	{@st59}Cabelos{/}
 UI_20180629_003238	{@st59}Cabelos e Tinturas{/}
-UI_20180629_003239	{@st59}Toys{/}
+UI_20180629_003239	{@st59}Brinquedos{/}
 UI_20180629_003240	{@st66}{s18}Provar{/}
 UI_20180629_003241	{@st41b}{s17}Traje de Cabelo
 UI_20180629_003242	Você pode ocultar/ mostrar todos os seus trajes de cabelo atualmente equipados.
 UI_20180629_003243	   TP Atual{/}
 UI_20180629_003244	   TP Restante{/}
-UI_20180629_003245	Agora vestindo
+UI_20180629_003245	Vestindo Agora
 UI_20180629_003246	{@st59}Fechar.{/}
 UI_20180629_003247	{@st66b}TP atual
 UI_20180629_003248	{@st66b}Lista de Compras
-UI_20180629_003249	{@st66}- Hair Coupons
-UI_20180629_003250	{@st66}- Dye Coupons
+UI_20180629_003249	{@st66}- Cupons de Cabelo
+UI_20180629_003250	{@st66}- Cupons de Tinturas
 UI_20180629_003251	{@st66b}{#a70000}Total
 UI_20180629_003252	{@st66}{s18}Comprar todos os itens listados?
-UI_20180629_003253	{ol}Abra a lista de cupons.
+UI_20180629_003253	{ol}Abrir lista de cupons.
 UI_20180629_003254	{@st66b}TP Restante
 UI_20180629_003255	{@st66d}Para o Shop{/}
 UI_20180629_003256	{@st66d}Comprar{/}
-UI_20180629_003257	{s17}Lista de cupons
+UI_20180629_003257	{s17}Lista de Cupons
 UI_20180629_003258	{@st66b}Usar
-UI_20180629_003259	{@st43}Barber Shop Coupon Book
-UI_20180629_003260	Exchange Stamps
-UI_20180629_003261	※{b}{ol}{#c21917}Stamps are consumed when you exchange them.{/}{/}{/}{nl}Each type of coupon consumes a different number of stamps.
-UI_20180629_003262	{img barbershop_couponbook_stamp 30 30} %s stamps
+UI_20180629_003259	{@st43}Barber Shop - Livro de Cupom
+UI_20180629_003260	Trocar Selos
+UI_20180629_003261	※{b}{ol}{#c21917}Selos são consumidos quando trocados.{/}{/}{/}{nl}Cada tipo cupom consome um número de selos.
+UI_20180629_003262	{img barbershop_couponbook_stamp 30 30} %s selos
 UI_20180629_003263	{@st59}Fechar.{/}
 UI_20180629_003264	{@st43}Mudar Visual das Armas{/}
 UI_20180629_003265	{@st66b}Potencial Atual
@@ -3267,18 +3267,18 @@ UI_20180629_003266	{@st42}Materiais
 UI_20180629_003267	{@st42}Visual para Trocar
 UI_20180629_003268	{@st42}Manter Potencial
 UI_20180629_003269	{img silver 20 20}Preço
-UI_20180629_003270	Se desmarcar, o Potencial do seu item será reduzido.{Nl}E não consome Silver.
+UI_20180629_003270	Se deixar desmarcado, o Potencial do seu item será reduzido.{Nl} Não consome Silver.
 UI_20180629_003271	Por favor registre um núcleo ou uma arma que você deseja manter a aparência.
 UI_20180629_003272	{@st43b}{s20}OK
-UI_20180629_003273	Update message board.
+UI_20180629_003273	Atualizar quadro de mensagens.
 UI_20180629_003274	Loja de Despertar
-UI_20180629_003275	{@st42}Close
+UI_20180629_003275	{@st42}Fechar
 UI_20180629_003276	{@st42}Despertar
 UI_20180629_003277	Material
 UI_20180629_003278	{@st42}Abrir Loja
 UI_20180629_003279	{@st41d}{b}{ol}{s14}{img icon_item_silver 22 22}Silver Adquirido: %s%s
-UI_20180629_003280	{#fde43f}{b}{ol}{s14}EXP de Char ganha: %s
-UI_20180629_003281	{#fde43f}{b}{ol}{s14}EXP de Classe ganha: %s
+UI_20180629_003280	{#fde43f}{b}{ol}{s14}EXP de Char Adquirido: %s
+UI_20180629_003281	{#fde43f}{b}{ol}{s14}EXP de Classe Adquirido: %s
 UI_20180629_003282	Artisan Magnifier
 UI_20180629_003283	Re-identifique
 UI_20180629_003284	{@st66}{s16}{nl}Selecionar
@@ -3288,30 +3288,30 @@ UI_20180629_003287	Mysterious Magnifier
 UI_20180629_003288	{@st66}{s18}Consome Mysterious Magnifier x%s.
 UI_20180629_003289	{@st43}Cube List{/}
 UI_20180629_003290	Quantidade
-UI_20180629_003291	{@st41b}{s16}{nl}Add to Cart
-UI_20180629_003292	{s22}%s defeated
-UI_20180629_003293	{s22}%s points
-UI_20180629_003294	{s26}%s Badges
+UI_20180629_003291	{@st41b}{s16}{nl}Add ao carrinho
+UI_20180629_003292	{s22}%s Derrotados
+UI_20180629_003293	{s22}%s Pontos
+UI_20180629_003294	{s26}%s Medalhas
 UI_20180629_003295	Ranking
-UI_20180629_003296	{@st66b}Last Week 
-UI_20180629_003297	{@st59}See last week's ranking.{/}
-UI_20180629_003298	{@st66b}This Week 
-UI_20180629_003299	{@st59}See this week's ranking. Updated every hour.{/}
+UI_20180629_003296	{@st66b}Semana passada
+UI_20180629_003297	{@st59}Ver ranking da semana passada.{/}
+UI_20180629_003298	{@st66b}Essa semana
+UI_20180629_003299	{@st59}Ver o ranking dessa semana. Atualizado a cada uma hora.{/}
 UI_20180629_003300	{@st59}Close solo dungeon ranking.{/}
 UI_20180629_003301	Remnants of Bernice Ranking
 UI_20180629_003302	{@st66d}Prêmios
-UI_20180629_003303	{@st66b}TOP 10 ranking players get {#003997}"Dimensional Incense Burner"{/} items from the previous week's rankings.{nl}Players who participated in the season receive a set of {#003997}"Dimensional Potion"{/} according to their score.{nl} {nl}{s13}Seasons start every Monday at 06:00 (server time).
+UI_20180629_003303	{@st66b}Os jogadores TOP 10 do ranking recebem um{#003997}"Dimensional Incense Burner"{/} pelo ranking da temporada passada.{nl}jodaores que pariciparem da temporada atual recebem {#003997}"Dimensional Potion"{/}, a quantidade varia de acordo com a pontuação.{nl} {nl}{s13}A temporada começa toda segunda-feira as 06:00 (horário do servidor).
 UI_20180629_003304	{@st66b}Swordsman
 UI_20180629_003305	{@st66b}Wizard
 UI_20180629_003306	{@st66b}Archer
 UI_20180629_003307	{@st66b}Cleric
-UI_20180629_003308	{@st66d}See Last Week's Rewards
+UI_20180629_003308	{@st66d}Ver recompensas da semana passada
 UI_20180629_003309	Guild
-UI_20180629_003310	Classe
+UI_20180629_003310	Árvore da Classe
 UI_20180629_003311	Maior Estágio
 UI_20180629_003312	Monstros Derrotados
 UI_20180629_003313	Maior Estágio: %s
-UI_20180629_003314	Maior Monstros Derrotados: %s
+UI_20180629_003314	Maior Número de Monstros Derrotados: %s
 UI_20180629_003315	Maior Ranking: %s
 UI_20180629_003316	Estágio Atual: %s
 UI_20180629_003317	Monstros Derrotados: %s
@@ -3323,65 +3323,65 @@ UI_20180629_003322	{@st66b}{s16}Archer
 UI_20180629_003323	{@st66b}{s16}Cleric
 UI_20180629_003324	Retornando em breve
 UI_20180629_003325	{@st42}{s18}{nl}Sair{nl}
-UI_20180629_003326	Wig Dye
-UI_20180629_003327	Current Qtt
-UI_20180629_003328	Important {img tip_questionmark 20 20}
-UI_20180629_003329	Please unequip all your equipment first.{nl}Basic class costumes change gender automatically.{/}{nl}{@st67}{#fe7e00}{b}Gendered premium costumes{nl}will no longer fit your character after the gender switch.{/}
-UI_20180629_003330	{@st66b}Ver apenas Nome do Time{/}
+UI_20180629_003326	Tintara de Cabelo
+UI_20180629_003327	Qtd. Atual
+UI_20180629_003328	Importante {img tip_questionmark 20 20}
+UI_20180629_003329	Por favor, remova todo seu equipamento primeiro{nl}Trajes de classe base mudam de genero automaticamente.{/}{nl}{@st67}{#fe7e00}{b}Trajes premium de genero espefico{nl}não irão mais servir em seu personagem após a troca de genero.{/}
+UI_20180629_003330	{@st66b}Ver apenas o nome do Time{/}
 UI_20180629_003331	{@st66b}Ver nome do Grupo{/}
-UI_20180629_003332	{@st66b}Ver nome dos Jogadores{/}
+UI_20180629_003332	{@st66b}Ver o nome de Otros Personagens{/}
 UI_20180629_003333	{@st66b}Ver HP/SP abaixo do Char{/}
 UI_20180629_003334	{@st66b}Ver nome do Item Dropado{/}
-UI_20180629_003335	{@st66b}Mensagem de Silver Ganho{/}
-UI_20180629_003336	{@st66b}Mensagem de EXP Ganho{/}
+UI_20180629_003335	{@st66b}Ver mensagem de Silver ganho{/}
+UI_20180629_003336	{@st66b}Ver mensagem de EXP ganho{/}
 UI_20180629_003337	{@st66b}Ver nome das Invocações{/}
-UI_20180629_003338	{@st66b}See Tile Range{/}
+UI_20180629_003338	{@st66b}Ver Alcance das Telhas{/}
 UI_20180629_003339	{@st66b}Tamanho da UI da Flauta (%s){/}
 UI_20180629_003340	{@st66b}Escutar flauta dos outros{/}
 UI_20180629_003341	{@st59}Desmarque se você não quiser ouvir as flautas de outros personagens.{/}
 UI_20180629_003342	{@st66b}Ver taxa de frames (FPS){/}
-UI_20180629_003343	{@st59}Displays current fps.{/}
+UI_20180629_003343	{@st59}Mostrar FPS atual.{/}
 UI_20180629_003344	{@st66b}Premium{/}
 UI_20180629_003345	{@st66b}Cosmético{/}
 UI_20180629_003346	{@st43}Entrar no Beauty Shop{/}
 UI_20180629_003347	{s14}Beauty Shop Test
-UI_20180629_003348	Fixed Camera
-UI_20180629_003349	Cancel Fixed Camera
-UI_20180629_003350	Open Hair Shop (F)
-UI_20180629_003351	Open Hair Shop (M)
-UI_20180629_003352	Hair Shop List (F)
-UI_20180629_003353	Hair Shop List (M)
+UI_20180629_003348	Camera Fixa
+UI_20180629_003349	Cancelar Camera Fixa
+UI_20180629_003350	Abrir Loja de Cabelos (F)
+UI_20180629_003351	Abrir Loja de Cabelos (M)
+UI_20180629_003352	Loja de Cabelos (F)
+UI_20180629_003353	Loja de Cabelos (M)
 UI_20180629_003354	Equip Preview_ALL
 UI_20180629_003355	Equip Preview_Hair
 UI_20180629_003356	Equip Preview_Costume
-UI_20180629_003357	Open Costume Shop (F)
-UI_20180629_003358	Open Costume Shop (M)
-UI_20180629_003359	Costume Shop List (F)
-UI_20180629_003360	Costume Shop List (M)
-UI_20180629_003361	Open Simple List
-UI_20180629_003362	Simple List Item Settings
-UI_20180629_003363	Open Wig Shop (F)
-UI_20180629_003364	Open Wig Shop (M)
-UI_20180629_003365	Wig Shop List (F)
-UI_20180629_003366	Wig Shop List (M)
-UI_20180629_003367	Open Others
-UI_20180629_003368	Others List
-UI_20180629_003369	Purchase Test
+UI_20180629_003357	Abrir Loja de Trajes (F)
+UI_20180629_003358	Abrir Loja de Trajes (M)
+UI_20180629_003359	Loja de Trajes (F)
+UI_20180629_003360	Loja de Trajes (M)
+UI_20180629_003361	Abrir Lista Simples
+UI_20180629_003362	Config. Lista Simples
+UI_20180629_003363	Abrir Loja de Cabelos (F)
+UI_20180629_003364	Abrir Loja de Cabelos (M)
+UI_20180629_003365	Loja de Cabelos (F)
+UI_20180629_003366	Loja de Cabelos (M)
+UI_20180629_003367	Abrir Outros
+UI_20180629_003368	Outros
+UI_20180629_003369	Teste de Compra
 UI_20180629_003370	{@st66}{nl}Apagar Char
 UI_20180629_003371	{@st66}{nl}Mover Lodge
 UI_20180629_003372	{@st66}{nl}Novo Personagem
 UI_20180629_003373	Não é possível alterar a aparência
-UI_20180629_003374	Basic{/}
+UI_20180629_003374	Basico{/}
 UI_20180629_003375	{#003997}{b}Estágio Completo: %s
 UI_20180629_003376	{ol}Add ao Carro
-UI_20180629_003377	Current Items
+UI_20180629_003377	Itens Genero
 UI_20180629_003378	{@st41b}{S16}%s% Cupom de Desconto
 UI_20180629_003379	{@st41b}{s16}{nl}Trocar
 UI_20180704_003380	Por favor registre um Material de Aparência ou itens equivalentes.
 UI_20180723_003381	{@st42}{s20}Prêmios da Vitória
-UI_20180723_003382	Seizing Date
-UI_20180723_003383	Victory Rewards
-UI_20180723_003384	ⓘ Victory rewards are applied 1 hour after the end of each GTW session.{nl}ⓘ Only the Guild Master can retrieve these rewards. The items are sent to your Guild Storage.
-UI_20180723_003385	{@st41b}{s16}Prêmios da Vitória
+UI_20180723_003382	Data de apreensão
+UI_20180723_003383	Recompensas de Vitória
+UI_20180723_003384	ⓘ As recompensas de vitória são aplicadas 1 hora após o final de cada sessão GTW.{nl}ⓘ Apenas o Mestre da Guilda pode receber essas recompensas. Os itens são enviados para o seu Armazenamento da Guilda.
+UI_20180723_003385	{@st41b}{s16}Prêmios de Vitória
 UI_20180723_003386	{@st42}{s16}Receber
 UI_20180809_003387	{@st41b}Abrir Voucher
