@@ -19025,14 +19025,14 @@ ITEM_20180730_019011	This hairband is adorned with a golden ship handle.
 ITEM_20180730_019012	Lighthouse
 ITEM_20180730_019013	Make sure all ships arrive at their ports in safety by wearing this useful lighthouse on your head.
 ITEM_20180730_019014	Marine Pistol
-ITEM_20180730_019015	Pistol [Appearance]
-ITEM_20180730_019016	This item can only be used to change the appearance of another.{nl}Does not consume Silver when used as appearance material.{nl}Can be exchanged for Medals at the Exchange Shop.
+ITEM_20180730_019015	Pistola [Visual{img barbershop_scissors_pic 19 14}]
+ITEM_20180730_019016	Este item só pode ser usado para alterar a aparência de outro.{Nl} Não consome Silver quando usado como material de aparência.{Nl} Pode ser trocado por medalhas no Exchange Shop.
 ITEM_20180730_019017	Marine Musket
-ITEM_20180730_019018	Musket [Appearance]
+ITEM_20180730_019018	Musket [Visual{img barbershop_scissors_pic 19 14}]
 ITEM_20180730_019019	Marine Rod
-ITEM_20180730_019020	Rod [Appearance]
+ITEM_20180730_019020	Cetro [Visual{img barbershop_scissors_pic 19 14}]
 ITEM_20180730_019021	Marine Staff
-ITEM_20180730_019022	Staff [Appearance]
+ITEM_20180730_019022	Cajado [Visual{img barbershop_scissors_pic 19 14}]
 ITEM_20180730_019023	Instead of smoke, this pipe blows out fun bubbles.{nl}Cooldown 3 sec.
 ITEM_20180730_019024	Telescope
 ITEM_20180730_019025	A telescope lets you see things that are far away.{nl}Cooldown 3 sec.
@@ -19071,3 +19071,59 @@ ITEM_20180730_019057	Grants movement speed +2, AoE attack ratio +1 and EXP gains
 ITEM_20180809_019058	Red Hair Bow
 ITEM_20180809_019059	Big Red Hair Bow
 ITEM_20180809_019060	Shining Silver Ichor Extraction Kit
+ITEM_20180828_019061	Ebony Rook Costume (M)	에보니 룩 코스튬(남)
+ITEM_20180828_019062	A costume invoking the daring, boyish spirit of the rook. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 룩을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019063	Ivory Pawn Costume (F)	아이보리 폰 코스튬(여)
+ITEM_20180828_019064	For valiant pawns, there's nowhere to go but forward. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 폰을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019065	Ivory Bishop Costume (M)	아이보리 비숍 코스튬(남)
+ITEM_20180828_019066	The bishop's solemn nature is well represented in the design of this costume. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 비숍을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019067	Ebony Knight Costume (F)	에보니 나이트 코스튬(여)
+ITEM_20180828_019068	A costume that accentuates the majestic poise of the knight. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 나이트를 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019069	Ebony King Costume (M)	에보니 킹 코스튬(남)
+ITEM_20180828_019070	Cautious but unafraid, the king makes his move. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 킹을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019071	Ivory Queen Costume (F)	아이보리 퀸 코스튬(여)
+ITEM_20180828_019072	All hail the true ruler of the chessboard. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 퀸을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019073	Ebony King Crown	에보니 킹 크라운
+ITEM_20180828_019074	A king cannot be complete without his crown.{nl}Can be exchanged for medals at the Exchange Shop.	체스에서 가장 중요한 킹을 활용한 왕관입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019075	Ivory Queen Crown	아이보리 퀸 크라운
+ITEM_20180828_019076	The elevated crown denotes the queen's power and status.{nl}Can be exchanged for medals at the Exchange Shop.	체스에서 가장 강력한 퀸을 활용한 왕관입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019077	Bishop Fedora	비숍 페도라
+ITEM_20180828_019078	A unique fedora designed around the chess bishop motif.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말인 비숍을 장식으로 사용한 페도라입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019079	Ebony Knight	에보니 나이트
+ITEM_20180828_019080	Turn yourself into an impressive human chess piece with this accessory.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말인 나이트를 그대로 본뜬 헤어 액세서리입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019081	Knight Galea	나이트 갈레아
+ITEM_20180828_019082	A helmet accessory made to look like the armor worn by ancient knights.{nl}Can be exchanged for medals at the Exchange Shop.	전쟁터에 나가는 기사들의 말을 형상화한 투구입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019083	Chessboard	체스판
+ITEM_20180828_019084	The chessboard is much more than part of game; it is a true battlefield.{nl}Can be exchanged for medals at the Exchange Shop.	체스판은 단순한 격나무늬판이지만, 킹 즉 왕국을 지키는 전쟁을 하는 전쟁터와 같습니다.{nl}이러한 체스판을 활용한 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019085	Ebony Rook	에보니 룩
+ITEM_20180828_019086	Turn yourself into an impressive human chess piece with this accessory.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말인 룩을 그대로 본뜬 헤어 액세서리입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019087	This exquisite hair accessory is what experts refer to as a "bow". Impressive, isn't it?{nl}Can be exchanged for medals at the Exchange Shop.	머리에 착용하는 큰 리본 장식입니다. 머나먼 이국에서는 이러한 리본 장식을 헤어 보우 혹은 보우라 부릅니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019088	This exquisite hair accessory is what experts refer to as a "bow". This one in particular is a rather large specimen.{nl}Can be exchanged for medals at the Exchange Shop.	머리에 착용하는 매우 큰 리본 장식입니다. 머나먼 이국에서는 이러한 리본 장식을 헤어 보우 혹은 보우라 부릅니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20180828_019089	Chess Timer	체스 타이머
+ITEM_20180828_019090	Tic, toc, tic, toc. I'm a chess timer.{nl}Cooldown 5 sec.{nl}Time will not wait for you...	똑딱똑딱. 체스 타이머입니다.{nl}재사용 대기 시간 5초{nl}시간은 우리를 기다려 주지 않아..
+ITEM_20180828_019091	Ivory Pawn Two-handed Mace	아이보리 폰 투 핸드 메이스
+ITEM_20180828_019092	Two-handed Blunt [Visual{img barbershop_scissors_pic 19 14}]	양손둔기[외형 변경 전용]
+ITEM_20180828_019093	Ivory Rook Two-handed Mace	에보니 룩 투 핸드 메이스
+ITEM_20180828_019094	Bishop Rapier	비숍 레이피어
+ITEM_20180828_019095	Rapier [Visual{img barbershop_scissors_pic 19 14}]	레이피어[외형 변경 전용]
+ITEM_20180828_019096	Bishop Sword	비숍 소드
+ITEM_20180828_019097	One-handed Sword [Visual{img barbershop_scissors_pic 19 14}]	한손검[외형 변경 전용]
+ITEM_20180828_019098	Knight Sword	나이트 소드
+ITEM_20180828_019099	Knight Rapier	나이트 레이피어
+ITEM_20180828_019100	Ivory Queen Two-handed Sword	아이보리 퀸 투 핸드 소드
+ITEM_20180828_019101	Two-handed Sword [Visual{img barbershop_scissors_pic 19 14}]	양손검[외형 변경 전용]
+ITEM_20180828_019102	Ebony King Two-handed Sword	에보니 킹 투 핸드 소드
+ITEM_20180828_019103	Knight Mace	나이트 메이스
+ITEM_20180828_019104	One-handed Blunt [Visual{img barbershop_scissors_pic 19 14}]	한손둔기[외형 변경 전용]
+ITEM_20180828_019105	Bishop Mace	비숍 메이스
+ITEM_20180828_019106	Ebony King Rod	에보니 킹 로드
+ITEM_20180828_019107	Ivory Queen Rod	아이보리 퀸 로드
+ITEM_20180828_019108	Ebony King Staff	에보니 킹 스태프
+ITEM_20180828_019109	Ivory Queen Staff	아이보리 퀸 스태프
+ITEM_20180828_019110	Chessboard Shield	체스보드 실드
+ITEM_20180828_019111	Shield [Visual{img barbershop_scissors_pic 19 14}]	방패[외형 변경 전용]
+ITEM_20180828_019112	Bishop Bow	비숍 보우
+ITEM_20180828_019113	Bow [Visual{img barbershop_scissors_pic 19 14}]	활[외형 변경 전용]
+ITEM_20180828_019114	Knight Bow	나이트 보우
+ITEM_20180828_019115	Checkmate Popup Book	체크메이트 팝업북
+ITEM_20180828_019116	Event souvenir.	[Summer Festa] 이벤트 기념 아이템 입니다.
