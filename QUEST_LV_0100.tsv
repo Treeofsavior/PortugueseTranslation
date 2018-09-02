@@ -553,7 +553,7 @@ QUEST_LV_0100_20150317_000552	De acordo com os antigos registros,{nl}o rei apago
 QUEST_LV_0100_20150317_000553	Oficial de Intermediação Nian
 QUEST_LV_0100_20150317_000554	Você viu aquilo, não? Por isso falei para você não tocar naquilo.{nl}Por conta disso, recebemos ordem de bater em retirada.{nl}
 QUEST_LV_0100_20150317_000555	Bem, já que é para me envolver nisso, você pode pelo menos me fazer um favor?{nl}Diga a Adelle, em Excavation Team Camp, para ficar de olho nesse tipo de pedra.
-QUEST_LV_0100_20150317_000556	Nós estamos à procura de uma pedra com escrituras peculiares.{nl}Caso aconteca de encontrar uma, por favor nos notifique ao invez de toca-lá.
+QUEST_LV_0100_20150317_000556	Nós estamos à procura de uma pedra com escrituras peculiares.{nl}Caso aconteça de encontrar uma, por favor nos notifique ao invés de toca-lá.
 QUEST_LV_0100_20150317_000557	Historiadora Adelle
 QUEST_LV_0100_20150317_000558	Uma pedra? Sei, sim.{nl}Você quer saber que tipo de pedra é?
 QUEST_LV_0100_20150317_000559	Monstros ficaram violentos e começaram a nos atacar do nada.{nl}Essa não é uma coisa ordinária.
@@ -618,7 +618,7 @@ QUEST_LV_0100_20150317_000617	A presença maligna jamais obterá a Revelação d
 QUEST_LV_0100_20150317_000618	Para que os Guardiões realizem sua missão, você deve corrigir a magia de controle distorcida.
 QUEST_LV_0100_20150317_000619	Se a fonte de poder do Royal Mausoleum for corrompida, os Guardiões falharão em sua missão.{nl}Você pode purificar as origens do poder do Royal Mausoleum acendendo as lanternas de pedra com a Burning Stone que se encontra dentro de um dos Guardiões.
 QUEST_LV_0100_20150317_000620	Manual da Magia Regulatória do Royal
-QUEST_LV_0100_20150317_000621	O Manual da Magia Regulatória do Royal Mausoleum pode ser destruido{nl}enquanto a Activation Stone é carregada. A Activation Stone pode ser carregada{nl}através do Manual da Magia Regulatória do Royal Mausoleum.
+QUEST_LV_0100_20150317_000621	O Manual da Magia Regulatória do Royal Mausoleum pode ser destruído{nl}enquanto a Activation Stone é carregada. A Activation Stone pode ser carregada{nl}através do Manual da Magia Regulatória do Royal Mausoleum.
 QUEST_LV_0100_20150317_000622	Os demônios cortaram a fonte da magia.{nl}Precisamos coletar poder mágico dos Guardiões próximos.
 QUEST_LV_0100_20150317_000623	Muito bem.{nl}Agora, sobre a falta de poder mágico.
 QUEST_LV_0100_20150317_000624	Abrirei o caminho para o problema.{nl}Restaure nosso poder mágico reacendendo a lanterna de pedra do Royal Mausoleum.
@@ -2445,7 +2445,7 @@ QUEST_LV_0100_20150317_002444	Sobre a Closed Area
 QUEST_LV_0100_20150317_002445	Ataque do Netherbovine
 QUEST_LV_0100_20150317_002446	De olhar para/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002447	Demônios da Closed Area
-QUEST_LV_0100_20150317_002448	Buscando ao redor/ LOOK/3/TRACK_BEFORE/None
+QUEST_LV_0100_20150317_002448	Buscando ao redor/LOOK/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002449	Amigo do Construtor Pipoti
 QUEST_LV_0100_20150317_002450	Vou encontrar seu colega
 QUEST_LV_0100_20150317_002451	Vou voltar em breve
@@ -2462,23 +2462,23 @@ QUEST_LV_0100_20150317_002461	Mapa do Tesouro da Família do Construtor (3)
 QUEST_LV_0100_20150317_002462	Aviso/!/A caixa apareceu de novo!{nl}Por favor, verifique dentro da caixa enquanto evita ataques dos monstros!#7
 QUEST_LV_0100_20150317_002463	Aviso/A caixa está vazia!{nl}Clique com o botão direito do mouse no mapa para verificar o próximo local!
 QUEST_LV_0100_20150317_002464	Mapa do Tesouro da Família do Construtor (4)
-QUEST_LV_0100_20150317_002465	Checking/SITGROPE/3/TRACK_BEFORE/SSN_HATE_AROUND
+QUEST_LV_0100_20150317_002465	Verificando/SITGROPE/3/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002466	Aviso/!/A caixa apareceu!{nl}Por favor, verifique dentro da caixa enquanto evita ataques dos monstros!#7
 QUEST_LV_0100_20150317_002467	Aviso/Você falhou em obter o tesouro da família dos construtores!{nl}Pipoti desapareceu, mas você o encontrará novamente no futuro!
 QUEST_LV_0100_20150317_002468	Favor do Aventureiro (1)
 QUEST_LV_0100_20150317_002469	Posso encontrar isso
-QUEST_LV_0100_20150317_002470	Checking/#SITGROPESET2/3.5/TRACK_BEFORE/SSN_HATE_AROUND
+QUEST_LV_0100_20150317_002470	Verificando/#SITGROPESET2/3.5/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002471	Aviso/Obteve o diário de Varkis{nl}Vamos trazê-lo de volta a Varkis!
 QUEST_LV_0100_20150317_002472	Favor do Aventureiro (2)
 QUEST_LV_0100_20150317_002473	Aviso/Resgate Varkis que está sendo atacado!#5
 QUEST_LV_0100_20150317_002474	Aviso/Varkis morreu. Vá ao acampamento de Varkis.#5
 QUEST_LV_0100_20150317_002475	Incinere o diário do aventureiro(1)
-QUEST_LV_0100_20150317_002476	Incinerating/FIRE/2/TRACK_BEFORE/None
-QUEST_LV_0100_20150317_002477	Rubbing/SITREAD/3/TRACK_BEFORE/SSN_HATE_AROUND
+QUEST_LV_0100_20150317_002476	Incinerando/FIRE/2/TRACK_BEFORE/None
+QUEST_LV_0100_20150317_002477	Esfregando/SITREAD/3/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002478	Aviso/Está escrito que o próximo documento está escondido no meio do caminho até o Neck Cliff of Snake#5
 QUEST_LV_0100_20150317_002479	Incinere o diário do aventureiro(2)
 QUEST_LV_0100_20150317_002480	Procurando pelo documento que Varkis escondeu.../#SITGROPESET2/3/TRACK_BEFORE/SSN_HATE_AROUND
-QUEST_LV_0100_20150317_002481	Notice/Defeat Unknocker!#4
+QUEST_LV_0100_20150317_002481	Aviso/Derrote Unknocker!#4
 QUEST_LV_0100_20150317_002482	Aviso/Está escrito que o próximo documento está escondido no Apatinis Cliff#5
 QUEST_LV_0100_20150317_002483	Incinere o diário do aventureiro(3)
 QUEST_LV_0100_20150317_002484	Aviso/Acalme Varkis queimando seu documento no acampamento dele.#3
@@ -2663,7 +2663,7 @@ QUEST_LV_0100_20150317_002662	O Purificador da Circulação (2)
 QUEST_LV_0100_20150317_002663	Aviso/Derrote Carapace que bloqueia o caminho para o filtro! #5
 QUEST_LV_0100_20150317_002664	O Purificador da Circulação (3)
 QUEST_LV_0100_20150317_002665	Aviso/Você se livrou do Carapace. {nl} Verifique o Cano do Filtro no District 2 #5
-QUEST_LV_0100_20150317_002666	Verificando Cano do Filtro/TATEAR/3/TRILHA_ANTERIOR/Nenhuma
+QUEST_LV_0100_20150317_002666	Verificando Cano do Filtro/GROPE/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002667	Aviso/Abriu a válvula do filtro. {nl} Volte ao filtro de circulação e ative-o novamente. #5
 QUEST_LV_0100_20150317_002668	Operando o filtro/HANDLING_LEFT/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002669	Aviso/O Purificador da Circulação está sendo ativado.
@@ -2709,11 +2709,11 @@ QUEST_LV_0100_20150317_002708	Comitiva Inacabada (1)
 QUEST_LV_0100_20150317_002709	Vou encontrar os artefatos
 QUEST_LV_0100_20150317_002710	Diga a ele para procurar alguém mais forte
 QUEST_LV_0100_20150317_002711	Sobre os monstros que comem pedras
-QUEST_LV_0100_20150317_002712	Olhando para as pedras/OLHAR_SENTAR/3/TRILHA_ANTERIOR/SSN_ODIO_REDOR
+QUEST_LV_0100_20150317_002712	Olhando para as pedras/LOOK_SIT/3/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002713	Comitiva Inacabada (2)
 QUEST_LV_0100_20150317_002714	Vou ajudar a derrotar os monstros
 QUEST_LV_0100_20150317_002715	O Stone Pillar sob a Alkune Stairway
-QUEST_LV_0100_20150317_002716	Investigando Stone Pillar/OLHAR/2/TRILHA_ANTERIOR/SSN_ODIO_REDOR
+QUEST_LV_0100_20150317_002716	Investigando Stone Pillar/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002717	Aviso/Novo Stone Pillar apareceu.{nl}Destrua o Stone Pillar dentro do limite de tempo e receba os artefatos.#7
 QUEST_LV_0100_20150317_002718	O Stone Pillar Sobre a Alkune Stairway
 QUEST_LV_0100_20150317_002719	Aviso/monstros surgiram de repente! #7
@@ -2748,7 +2748,7 @@ QUEST_LV_0100_20150317_002747	Encontre o Subalterno do Comandante de Suprimentos
 QUEST_LV_0100_20150317_002748	Selo da Família Real (4)
 QUEST_LV_0100_20150317_002749	Vou romper o selo do local divino
 QUEST_LV_0100_20150317_002750	Sobre o selo do Rei Zachariel
-QUEST_LV_0100_20150317_002751	Rompendo o selo.../FAZENDO/4/TRILHA_ANTERIOR/Nenhuma
+QUEST_LV_0100_20150317_002751	Rompendo o selo.../MAKING/4/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002752	Investigando Miners' Village (1)
 QUEST_LV_0100_20150317_002753	Recupere as Caixas com Mantimentos
 QUEST_LV_0100_20150317_002754	Vou ajudar você a recuperar as caixas
@@ -2759,7 +2759,7 @@ QUEST_LV_0100_20150317_002758	A Dedicação do Gerente (2)
 QUEST_LV_0100_20150317_002759	Vou derrotar os monstros ao redor
 QUEST_LV_0100_20150317_002760	A Preocupação da Curandeira (1)
 QUEST_LV_0100_20150317_002761	Vou trazer os refugiados
-QUEST_LV_0100_20150317_002762	Descrição da localização da Curandeira/FALAR/2/TRILHA_ANTERIOR/Nenhuma
+QUEST_LV_0100_20150317_002762	Descrição da localização da Curandeira/TALK/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002763	A Preocupação da Curandeira (2)
 QUEST_LV_0100_20150317_002764	Vou derrotar os monstros ameaçadores
 QUEST_LV_0100_20150317_002765	Habitantes raptados (1) - Apagar
@@ -3279,10 +3279,10 @@ QUEST_LV_0100_20150317_003278	Vou perseguir Rexipher no Royal Mausoleum
 QUEST_LV_0100_20150317_003279	Ainda preciso me preparar mais
 QUEST_LV_0100_20150317_003280	Pescando em Terra (1)
 QUEST_LV_0100_20150317_003281	Melhor não tocar nisso a não ser que seja necessário
-QUEST_LV_0100_20150317_003282	Instalando/# SENTARTATEARDEFINIR2/2/TRILHA_ANTERIOR/SSN_ODIO_REDOR
+QUEST_LV_0100_20150317_003282	Instalando/# SITGROPESET2/2/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_003283	Pescando em Terra (2)
 QUEST_LV_0100_20150317_003284	Ardor pelo Estudo (2)
-QUEST_LV_0100_20150317_003285	Instalando amuleto/FAZENDO/5/TRILHA_ANTERIOR
+QUEST_LV_0100_20150317_003285	Instalando amuleto/MAKING/5/TRACK_BEFORE
 QUEST_LV_0100_20150317_003286	Ardor pelo Estudo (3)
 QUEST_LV_0100_20150317_003287	Conserte o Practice Wooden Seal (1)
 QUEST_LV_0100_20150317_003288	Vou consertar o Practice Wooden Seal
@@ -3760,7 +3760,7 @@ QUEST_LV_0100_20150317_003759	Ative o Obelisco (3)
 QUEST_LV_0100_20150317_003760	Pergunte onde o Obelisco está localizado
 QUEST_LV_0100_20150317_003761	Restaure você mesmo
 QUEST_LV_0100_20150317_003762	Sobre Deus
-QUEST_LV_0100_20150317_003763	Restaurando Obelisco/OLHAR/3/TRILHA_ANTERIOR/Nenhuma
+QUEST_LV_0100_20150317_003763	Restaurando Obelisco/READ/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003764	Aviso/Vá até o Priest da Andalle Village em Indigo Trees Plateau! #5
 QUEST_LV_0100_20150317_003765	Mofocórnio do Nefrito Valley
 QUEST_LV_0100_20150317_003766	Buscando ao redor/SITGROPE/3/TRACK_BEFORE/None
@@ -5143,7 +5143,7 @@ QUEST_LV_0100_20150317_005142	Gesti escapou, mas ainda há mais coisas para faze
 QUEST_LV_0100_20150317_005143	Encontre a Revelação no santuário oculto
 QUEST_LV_0100_20150317_005144	Use o Seal of Space no pilar para entrar no santuário e encontrar a Revelação.
 QUEST_LV_0100_20150317_005145	Conte a história até aqui ao Mestre Paladin
-QUEST_LV_0100_20150317_005146	A Revelação foi recuperada com suceso, mesmo perdendo Gesti novamente. Vá até Emerald Bluffs para encontrar-se com o Mestre Paladin.
+QUEST_LV_0100_20150317_005146	A Revelação foi recuperada com sucesso, mesmo perdendo Gesti novamente. Vá até Emerald Bluffs para encontrar-se com o Mestre Paladin.
 QUEST_LV_0100_20150317_005147	Fale com o Vigia Allen
 QUEST_LV_0100_20150317_005148	Vigia Allen, em Emerald Bluffs, está esperando alguém para ajuda-lo.
 QUEST_LV_0100_20150317_005149	Colete as peças da barreira destruída
@@ -5392,14 +5392,14 @@ QUEST_LV_0100_20150317_005391	Abra o Portão
 QUEST_LV_0100_20150317_005392	Derrote Mummyghast. Abra os portões da igreja.
 QUEST_LV_0100_20150317_005393	Abriu os portões da igreja. Fale com o Seguidor Donatas.
 QUEST_LV_0100_20150317_005394	Verifique a última lápide
-QUEST_LV_0100_20150317_005395	Encontre a última lápide de Lydia Schaffen no Goddess' Ancient Garden e ilumine-se.
+QUEST_LV_0100_20150317_005395	Encontre a última lápide de Lydia Schaffen em Goddess' Ancient Garden e ilumine-se.
 QUEST_LV_0100_20150317_005396	Fale com Hunter Talus
-QUEST_LV_0100_20150317_005397	Hunter Talus, no Goddess' Ancient Garden, está procurando a ajuda de alguém.
+QUEST_LV_0100_20150317_005397	Hunter Talus, em Goddess' Ancient Garden, está procurando a ajuda de alguém.
 QUEST_LV_0100_20150317_005398	Crie Fire Hardened Arrowheads
 QUEST_LV_0100_20150317_005399	Hunter Talus pediu para você fazer Fire Hardened Arrowheads. Derrote Infroburks no Shiluma Altar Site e use a chama que sobrou para aquecer a flecha que Talus lhe deu.
 QUEST_LV_0100_20150317_005400	Criou as pontas de flecha aquecidas. Entregue-as a Talus.
 QUEST_LV_0100_20150317_005401	Fale com Necromancer Drasius
-QUEST_LV_0100_20150317_005402	Drasius, no Goddess' Ancient Garden, está buscando ajuda para seus experimentos.
+QUEST_LV_0100_20150317_005402	Drasius, em Goddess' Ancient Garden, está buscando ajuda para seus experimentos.
 QUEST_LV_0100_20150317_005403	Traga os sacrifícios ao pote de oferenda na Dumbliu Pond.
 QUEST_LV_0100_20150317_005404	Drasius pediu para você trazer os sacrifícios ao pote de oferenda na Dumbliu Pond para um experimento de necromancia.
 QUEST_LV_0100_20150317_005405	Derrote o Necroventer incontrolável
@@ -5407,7 +5407,7 @@ QUEST_LV_0100_20150317_005406	Necroventer foi invocado como resultado do experim
 QUEST_LV_0100_20150317_005407	O experimento falhou, mas você conseguiu derrotar o Necroventer. Conte isso para Drasius.
 QUEST_LV_0100_20150317_005408	Derrote Necroventer
 QUEST_LV_0100_20150317_005409	Fale com o Espírito Errante
-QUEST_LV_0100_20150317_005410	Você finalizou a operação Tree Dale para o Espírito Errante de Remaining Tree Dale. Porém, o es´pirito parece que tem algo a mais para te dizer. Procure-o.
+QUEST_LV_0100_20150317_005410	Você finalizou a operação Tree Dale para o Espírito Errante de Remaining Tree Dale. Porém, o espirito parece que tem algo a mais para te dizer. Procure-o.
 QUEST_LV_0100_20150317_005411	Devolva o troféu de guerra
 QUEST_LV_0100_20150317_005412	O Espírito Errante quer que você devolva o Chifre de Unicorn que obteve como troféu de guerra ao oficial militar em Fedimian. Encontre o oficial militar.
 QUEST_LV_0100_20150317_005413	Fale com a garota
@@ -5437,7 +5437,7 @@ QUEST_LV_0100_20150317_005436	Parece que você rompeu o selo de treino de madeir
 QUEST_LV_0100_20150317_005437	Obtenha materiais para consertar o selo de madeira
 QUEST_LV_0100_20150317_005438	O Mestre Highlander quer que você repare o boneco de treino, já que você destruiu. Primeiro, colete a madeira necessária dos Firents em Emerald Bluffs, e corda dos Red Panto Spearman.
 QUEST_LV_0100_20150317_005439	Emerald Bluffs/Fallen Tree Garden
-QUEST_LV_0100_20150317_005440	O Mestre Highlander ordena que você pague por quebrar o boneco de treio, reparando o mesmo. Primeiro, colete a madeira necessária dos FIrent em Emerald Bluffs, e corda dos Red Panto Spearman.
+QUEST_LV_0100_20150317_005440	O Mestre Highlander ordena que você pague por quebrar o boneco de treino, reparando o mesmo. Primeiro, colete a madeira necessária dos FIrent em Emerald Bluffs, e corda dos Red Panto Spearman.
 QUEST_LV_0100_20150317_005441	Obtenha %s de Firent
 QUEST_LV_0100_20150317_005442	Obtenha %s de Red Panto Spearman
 QUEST_LV_0100_20150317_005443	Fale com o Vigia James
@@ -5738,7 +5738,7 @@ QUEST_LV_0100_20150317_005737	Use a chave para libertar a Deusa Saule da esfera 
 QUEST_LV_0100_20150317_005738	A Deusa Saule está livre. Fale com ela.
 QUEST_LV_0100_20150317_005739	Derrotou Bramble e obteve a Revelação. Volte até a Deusa Saule.
 QUEST_LV_0100_20150317_005740	A Revelação instrui você a ir até o Royal Mausoleum do Grande Rei Zachariel. Fale com a Deusa.
-QUEST_LV_0100_20150317_005741	Procure por portais perdo de Grassy Brookside
+QUEST_LV_0100_20150317_005741	Procure por portais perto de Grassy Brookside
 QUEST_LV_0100_20150317_005742	De acordo com o Mestre Paladin, o Iridescent Valley da Revelação deve ser a região do Grassy Brookside. Siga a Revelação até lá.
 QUEST_LV_0100_20150317_005743	Obtenha Purifying Stones do Tanu
 QUEST_LV_0100_20150317_005744	Você precisa usar o portal para ir à Deusa Saule, mas ele não está funcionando. O Velho Senhor disse que você precisa da Purifying Stone do Tanu para ativar o portal.
@@ -5819,7 +5819,7 @@ QUEST_LV_0100_20150317_005818	Derrotou todos os monstros que estavam interferind
 QUEST_LV_0100_20150317_005819	Os selos do Sanctum estão em locais diferentes no Broken Pillar Canyon. Ache e destrua o selo no caminho do Collapsed Sanctum.
 QUEST_LV_0100_20150317_005820	Sua tentativa de romper o selo invocou sentinelas. Destrua todos os sentinelas.
 QUEST_LV_0100_20150317_005821	Destrua os sentinelas
-QUEST_LV_0100_20150317_005822	Os selos do Sanctum estão em locais diferentes no Broken Pillar Canyon. Ache e destura o selo à esquerda do Collapsed Sanctum.
+QUEST_LV_0100_20150317_005822	Os selos do Sanctum estão em locais diferentes no Broken Pillar Canyon. Ache e destrua o selo à esquerda do Collapsed Sanctum.
 QUEST_LV_0100_20150317_005823	Biteregina apareceu quando você rompeu o selo! Derrote-a!
 QUEST_LV_0100_20150317_005824	O trabalho de verdade ficou mais sério a partir de agora. Fale com Raudi novamente.
 QUEST_LV_0100_20150317_005825	Verifique os pilares de pedra na Alkune Stairway
@@ -7151,7 +7151,7 @@ QUEST_LV_0100_20150714_007150	Aviso/Resgate Varkis, que está sendo atacado! Der
 QUEST_LV_0100_20150714_007151	Aviso/Infelizmente, Varkis faleceu. {nl}Mas se você for ao acampamento de Varkis, deixe seu diário#5
 QUEST_LV_0100_20150714_007152	Vá embora
 QUEST_LV_0100_20150714_007153	Procurando pelos documentos de Varkis
-QUEST_LV_0100_20150714_007154	Procurando pelo documento que Varkis escondeu.../#SENTARTATEARDEFINIR2/3/TRILHA_ANTERIOR/SSN_ODIO_REDOR
+QUEST_LV_0100_20150714_007154	Procurando pelo documento que Varkis escondeu/#SITGROPESET2/3/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150714_007155	Aviso/Está escrito que o próximo documento está escondido no Apatinis Cliff#5
 QUEST_LV_0100_20150714_007156	Gravando
 QUEST_LV_0100_20150714_007157	Preparando a lenha
@@ -7260,7 +7260,7 @@ QUEST_LV_0100_20150714_007259	Pegue a lenha
 QUEST_LV_0100_20150714_007260	Queime Thorny Vines da Gate Route
 QUEST_LV_0100_20150714_007261	Olhando no bolso
 QUEST_LV_0100_20150714_007262	Combinando
-QUEST_LV_0100_20150714_007263	Purificando/FAZENDO/2/TRILHA_ANTERIOR/Nenhuma
+QUEST_LV_0100_20150714_007263	Purificando/MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150714_007264	Eu sou o Revelador e vou ajudar você
 QUEST_LV_0100_20150714_007265	O Ataque dos Infro Holders
 QUEST_LV_0100_20150714_007266	Aviso/Derrote o Merog e Chaferer que seguiram Bronews!
@@ -8220,7 +8220,7 @@ QUEST_LV_0100_20151001_008219	Você sabia? Um Revelador derrotou a Demon Lord da
 QUEST_LV_0100_20151001_008220	Quando vi os Reveladores pela primeira vez, me perguntei se eles eram dignos desse nome. {nl}Mas eles salvaram a Crystal Mine e Tenet Church. {nl}Definitivamente, há um Salvador enviado pela Deusa.
 QUEST_LV_0100_20151001_008221	Ouvi dizer que um Revelador derrotou a Demon Lord em Crystal Mine. {nl} Incrível. Os Demon Lords não são os melhores entre os demônios?
 QUEST_LV_0100_20151001_008222	Você ficou sabendo do Revelador que impediu a Demon Queen na Tenet Church? {nl}Seria melhor se ela tivesse sido morta de verdade, {nl}mas ela é a Demon Queen, afinal de contas, alguém que nem mesmo o Mestre Paladin foi capaz de derrotar. {nl}Só isso já é incrível o suficiente.
-QUEST_LV_0100_20151001_008223	Como Hunter, meu instinto diz que os montros nesta floresta estão demonstrando{nl}uma movimentação e hábitos muito além do normal.{nl}Como se estivessem sendo controlados por alguma coisa.
+QUEST_LV_0100_20151001_008223	Como Hunter, meu instinto diz que os monstros nesta floresta estão demonstrando{nl}uma movimentação e hábitos muito além do normal.{nl}Como se estivessem sendo controlados por alguma coisa.
 QUEST_LV_0100_20151001_008224	Sinto vergonha de não ter sido capaz de me juntar ao esquadrão na Tenet Church. {nl}Mas não é incrível? A Tenet Church foi salva daquele Demon Lord.
 QUEST_LV_0100_20151001_008225	Era o que eu imaginava. Os monstros nessa floresta foram perseguidos pelos Vubbes. {nl}E o Revelador realmente derrotou o Demon Lord que planejou tudo isso.{nl}Realmente, me pergunto quem era.
 QUEST_LV_0100_20151001_008226	Se fosse minha cidade natal e um demônio ocupasse as Minas, ele seria atacado por todos e haveria uma celebração. {nl}De qualquer jeito, não sei quem é esse Revelador, mas esse reino fragilizado finalmente encontrou alguém útil.
@@ -8878,7 +8878,7 @@ QUEST_LV_0100_20151001_008877	Recolher a Força da Coruja (1)
 QUEST_LV_0100_20151001_008878	Recolher a Força da Coruja (2)
 QUEST_LV_0100_20151001_008879	Vontade da Coruja
 QUEST_LV_0100_20151001_008880	Energia da Nascente Karolis
-QUEST_LV_0100_20151001_008881	Salvando a Líder Coruja
+QUEST_LV_0100_20151001_008881	Salvando a Coruja Líder
 QUEST_LV_0100_20151001_008882	Jovem Árvore Sagrada da Floresta (1)
 QUEST_LV_0100_20151001_008883	Jovem Árvore Sagrada da Floresta (2)
 QUEST_LV_0100_20151001_008884	Assistente Confiável
@@ -9929,7 +9929,7 @@ QUEST_LV_0100_20151016_009924	Resgate os habitantes e procure pela Luz da Salva�
 QUEST_LV_0100_20151016_009925	Restaurando o altar
 QUEST_LV_0100_20151016_009926	Lápides Violadas
 QUEST_LV_0100_20151016_009927	Destrua as Lápides de Nestopa (1)
-QUEST_LV_0100_20151016_009928	Albinas dizia a verdade!!{nl}As lápides foram violadas e estão conjurando montros! Destrua ambos!
+QUEST_LV_0100_20151016_009928	Albinas dizia a verdade!!{nl}As lápides foram violadas e estão conjurando monstros! Destrua ambos!
 QUEST_LV_0100_20151016_009929	Destrua as Lápides de Nestopa (2)
 QUEST_LV_0100_20151016_009930	Explique por que você as destruiu
 QUEST_LV_0100_20151016_009931	Resultado e Responsabilidade
@@ -10097,32 +10097,32 @@ QUEST_LV_0100_20151016_010092	Siga a luz da Escultura de Coruja
 QUEST_LV_0100_20151016_010093	Mardas disse que os demônios estão coletando estas contas em algum lugar. Siga a luz estranha.
 QUEST_LV_0100_20151016_010094	Suba a colina e siga a luz estranha.
 QUEST_LV_0100_20151016_010095	A luz estranha foi enviada para outra Escultura de Coruja na colina. Suba-a e não perca de vista...
-QUEST_LV_0100_20151016_010096	Salvou a Escultura do Líder Coruja. Parece que ela é capaz de falar. Escute o que tem a dizer.
-QUEST_LV_0100_20151016_010097	A Escultura do Líder Coruja, diferente das outras, está sã. Pergunte se sabe o que acontecem em Karolis Springs.
+QUEST_LV_0100_20151016_010096	Salvou a Escultura do Coruja Líder. Parece que ela é capaz de falar. Escute o que tem a dizer.
+QUEST_LV_0100_20151016_010097	A Escultura do Coruja Líder, diferente das outras, está sã. Pergunte se sabe o que acontecem em Karolis Springs.
 QUEST_LV_0100_20151016_010098	Procure pelo Karolis Springs Crystal
 QUEST_LV_0100_20151016_010099	Para conseguir salvar as Esculturas de Coruja dos demônios, a Karolis Forest precisa ser revivida. Recuperar o Karolis Altar é o primeiro passo. Use o Guide Owl's Will para achar o Karolis Altar Crystal.
 QUEST_LV_0100_20151016_010100	Recupere Karolis Altar Fragments dos monstros
 QUEST_LV_0100_20151016_010101	Os monstros têm os fragmentos do Karolis Altar. Derrote-os para consegui-los.
 QUEST_LV_0100_20151016_010102	Teleporte para o local onde o Karolis Altar costumava ficar.
-QUEST_LV_0100_20151016_010103	Vá para o logar onde o Karolis Altar costumava ficar.
+QUEST_LV_0100_20151016_010103	Vá para o lugar onde o Karolis Altar costumava ficar.
 QUEST_LV_0100_20151016_010104	Restaure o altar onde está o que restou dele
-QUEST_LV_0100_20151016_010105	Retorne para o Líder Coruja
-QUEST_LV_0100_20151016_010106	Altar restaurado. Retorne para o Líder Coruja.
-QUEST_LV_0100_20151016_010107	Não é o suficiente para trazer Karolis Springs de volta à vida. Fale mais com o Líder Coruja.
+QUEST_LV_0100_20151016_010105	Retorne para o Coruja Líder
+QUEST_LV_0100_20151016_010106	Altar restaurado. Retorne para o Coruja Líder.
+QUEST_LV_0100_20151016_010107	Não é o suficiente para trazer Karolis Springs de volta à vida. Fale mais com o Coruja Líder.
 QUEST_LV_0100_20151016_010108	Ativar as Luzes de Karolis
 QUEST_LV_0100_20151016_010109	As Luzes de Karolis, ao redor do altar, precisam ser ativadas para restaurar o poder do altar. Há 4 luzes, que se extinguem rapidamente. Seja rápido.
-QUEST_LV_0100_20151016_010110	Altar restaurado. Retorne para o Líder Coruja.
-QUEST_LV_0100_20151016_010111	O altar foi restaurado. Pergunte ao Líder Coruja se funcionou.
+QUEST_LV_0100_20151016_010110	Altar restaurado. Retorne para o Coruja Líder.
+QUEST_LV_0100_20151016_010111	O altar foi restaurado. Pergunte ao Coruja Líder se funcionou.
 QUEST_LV_0100_20151016_010112	Colete o poder das Esculturas de Coruja
-QUEST_LV_0100_20151016_010113	A Escultura do Líder Coruja disse que, para garantir a destruição da Mind Control Tower, é necessário coletar o poder das Esculturas de Coruja. Ache-as e pegue seus poderes.
-QUEST_LV_0100_20151016_010114	Coletado todos os poderes das Esculturas de Coruja. Retorne para o Líder Coruja.
-QUEST_LV_0100_20151016_010115	Coletado todos os poderes das Esculturas de Coruja. Fale com a Escultura do Líder Coruja.
+QUEST_LV_0100_20151016_010113	A Escultura do Coruja Líder disse que, para garantir a destruição da Mind Control Tower, é necessário coletar o poder das Esculturas de Coruja. Ache-as e pegue seus poderes.
+QUEST_LV_0100_20151016_010114	Coletado todos os poderes das Esculturas de Coruja. Retorne para o Coruja Líder.
+QUEST_LV_0100_20151016_010115	Coletado todos os poderes das Esculturas de Coruja. Fale com a Escultura do Coruja Líder.
 QUEST_LV_0100_20151016_010116	Destrua a Mind Control Tower
 QUEST_LV_0100_20151016_010117	Destrua a Mind Control Tower com o poder das Esculturas de Coruja.
-QUEST_LV_0100_20151016_010118	A Mind Control Tower doi destruída. Retorne para a Escultura do Líder Coruja.
-QUEST_LV_0100_20151016_010119	Mardas está parado ao lado da Escultura do Líder Coruja. Pergute-o o que estavam conversando.
-QUEST_LV_0100_20151016_010120	Fale com a Escultura do Líder Coruja novamente.
-QUEST_LV_0100_20151016_010121	A Escultura do Líder Coruja disse que pensará em um plano após ter conversado com Mardas. Enquanto isso, pergunte o que pode fazer.
+QUEST_LV_0100_20151016_010118	A Mind Control Tower foi destruída. Retorne para a Escultura do Coruja Líder.
+QUEST_LV_0100_20151016_010119	Mardas está parado ao lado da Escultura do Coruja Líder. Pergunte-o o que estavam conversando.
+QUEST_LV_0100_20151016_010120	Fale com a Escultura do Coruja Líder novamente.
+QUEST_LV_0100_20151016_010121	A Escultura do Coruja Líder disse que pensará em um plano após ter conversado com Mardas. Enquanto isso, pergunte o que pode fazer.
 QUEST_LV_0100_20151016_010122	A Escultura de Coruja está bolando um plano para resolver o problema causado pelos demônios, baseado na história de Mardas. Pergunte o que pode fazer enquanto eles discutem.
 QUEST_LV_0100_20151016_010123	Colete a Energy of Karolis Springs
 QUEST_LV_0100_20151016_010124	Vá para o local onde diz conter a maior quantidade de energia e colete-as.
@@ -10139,10 +10139,10 @@ QUEST_LV_0100_20151016_010134	Damijonas explicou, furiosamente, que a lápide n�
 QUEST_LV_0100_20151016_010135	Albinas não está no local que estava antes. Volte para Damijonas e explique a situação.
 QUEST_LV_0100_20151016_010136	Explique-se
 QUEST_LV_0100_20151016_010137	Damijonas continua furioso pelo fato da lápide ter sido destruída. Talvez, deixa-lo falar possa diminuir sua raiva. Fale com Damijonas.
-QUEST_LV_0100_20151016_010138	A raiva de Damijonas era longa e severa. Mas acora passou. Pergunte o que você pode fazer agora.
+QUEST_LV_0100_20151016_010138	A raiva de Damijonas era longa e severa. Mas aGora passou. Pergunte o que você pode fazer agora.
 QUEST_LV_0100_20151016_010139	Restaurando a Lápide
 QUEST_LV_0100_20151016_010140	Fale para Damijonas que você arrumará a lápide.
-QUEST_LV_0100_20151016_010141	Obtenha algumas pedras que podem ser usadas para restaurar a lápide, depois traga-as para Nestos Camp. Eles irão transorma-las em material para a restauração.
+QUEST_LV_0100_20151016_010141	Obtenha algumas pedras que podem ser usadas para restaurar a lápide, depois traga-as para Nestos Camp. Eles irão transforma-las em material para a restauração.
 QUEST_LV_0100_20151016_010142	Agora, pergunte à Gevas qual deve ser a etapa final.
 QUEST_LV_0100_20151016_010143	Fale as Novidades para Eduinas
 QUEST_LV_0100_20151016_010144	Você precisa contar à Eduinas o que aconteceu até aqui. Fale com Eduinas.
@@ -10154,7 +10154,7 @@ QUEST_LV_0100_20151016_010149	Serapinas é o responsável de Relações Pública
 QUEST_LV_0100_20151016_010150	Você terminou de promover a Aliança Comercial Kedoran. Volte para Serapinas.
 QUEST_LV_0100_20151016_010151	Achados e Perdidos
 QUEST_LV_0100_20151016_010152	Ache Edita
-QUEST_LV_0100_20151016_010153	Vá e econtre Edita.
+QUEST_LV_0100_20151016_010153	Vá e encontre Edita.
 QUEST_LV_0100_20151016_010154	Ache os itens perdidos da Aliança Comercial
 QUEST_LV_0100_20151016_010155	Vá até o local que Edita disse e recupere os itens perdidos durante Medzio Diena pela Aliança Comercial. Derrote os monstros que você achar no caminho.
 QUEST_LV_0100_20151016_010156	Fale com Edita
@@ -10165,22 +10165,22 @@ QUEST_LV_0100_20151016_010160	Derrote os monstros e recupere os itens.
 QUEST_LV_0100_20151016_010161	Os Monstros já infestaram a área que os itens devem estar. Ensine uma lição a eles e recupere os itens.
 QUEST_LV_0100_20151016_010162	Você recuperou tudo, mas para saber o que são, você deve verificar com Jurate.
 QUEST_LV_0100_20151016_010163	Escute mais detalhes dos itens recuperados.
-QUEST_LV_0100_20151016_010164	Inspecione as áres onde os itens devem estar.
+QUEST_LV_0100_20151016_010164	Inspecione as áreas onde os itens devem estar.
 QUEST_LV_0100_20151016_010165	Materiais Educativos da Aliança Comercial Kedoran
 QUEST_LV_0100_20151016_010166	Reporte para Edita
 QUEST_LV_0100_20151016_010167	Recuperou todos os itens com sucesso. Entregue-os para Edita.
-QUEST_LV_0100_20151016_010168	Materias Educativos da Aliança Comercial Kedoran
+QUEST_LV_0100_20151016_010168	Materiais Educativos da Aliança Comercial Kedoran
 QUEST_LV_0100_20151016_010169	Visite Margellius, que é o responsável pelos registros. Ele parece precisar de ajuda.
 QUEST_LV_0100_20151016_010170	Orientações Educacionais da Aliança Comercial Kedoran
-QUEST_LV_0100_20151016_010171	Recupere os Materias Educativos da Aliança Comercial Kedoran dos monstros.
+QUEST_LV_0100_20151016_010171	Recupere os Materiais Educativos da Aliança Comercial Kedoran dos monstros.
 QUEST_LV_0100_20151016_010172	Recuperou todo o material educacional. Entregue-os para Margellius.
 QUEST_LV_0100_20151016_010173	Normas Educacionais da Aliança Comercial Kedoran
 QUEST_LV_0100_20151016_010174	Pergunte à Margellius se há mais algo a ser feito.
-QUEST_LV_0100_20151016_010175	Para fazer o material educacional, uma tinta especial é necessária. Para faze-la, você precisa de fluidos dos monstros. Utilize as armadilhas que Margellius fez para prender os monstors e obter os fluidos. Lembre-se que os montros morrerão rapidamente depois de presos, então seja rápido.
+QUEST_LV_0100_20151016_010175	Para fazer o material educacional, uma tinta especial é necessária. Para faze-la, você precisa de fluidos dos monstros. Utilize as armadilhas que Margellius fez para prender os monstors e obter os fluidos. Lembre-se que os monstros morrerão rapidamente depois de presos, então seja rápido.
 QUEST_LV_0100_20151016_010176	Erguendo a Lápide
 QUEST_LV_0100_20151016_010177	Procurando Materiais para a Lápide
 QUEST_LV_0100_20151016_010178	Nestopa está trabalhando silenciosamente em Fasika Plateau. Enquanto isso, Antanas está erguendo lápides. Ajude-a levando os materiais necessários.
-QUEST_LV_0100_20151016_010179	Adquirido todo o materia necessário para as lápides. Retorne para Antanas.
+QUEST_LV_0100_20151016_010179	Adquirido todo o matéria necessário para as lápides. Retorne para Antanas.
 QUEST_LV_0100_20151016_010180	Pergunte-a se, agora que possui todos os materiais, ela conseguirá fazer as lápides.
 QUEST_LV_0100_20151016_010181	Siga suas instruções e construa uma lápide com os materiais que possui.
 QUEST_LV_0100_20151016_010182	Você trabalhou bem. Diga adeus à Antanas e continue seu caminho.
@@ -10193,13 +10193,13 @@ QUEST_LV_0100_20151016_010188	Devolvendo a Marca
 QUEST_LV_0100_20151016_010189	Conseguiu Nestos's Signs suficientes. Retorne-as para Kestas.
 QUEST_LV_0100_20151016_010190	Derrite estes monstros. Eles estão atrás das marcas.
 QUEST_LV_0100_20151016_010191	Converse mais com Kestas.
-QUEST_LV_0100_20151016_010192	Derrote os montros que estão atrás dos registros.
+QUEST_LV_0100_20151016_010192	Derrote os monstros que estão atrás dos registros.
 QUEST_LV_0100_20151016_010193	Fale com a Grave Robber Amanda na área habitacional
 QUEST_LV_0100_20151016_010194	Você encontrou um pergaminho estranho na área secreta. Retorne para Amanda e fale com ela de novo.
 QUEST_LV_0100_20151016_010195	O baú que Amanda viu, com um poder especial dentro dele, na verdade contém monstros. Destrua-os primeiro.
 QUEST_LV_0100_20151016_010196	Os monstros foram derrotados. Fale novamente com Amanda.
 QUEST_LV_0100_20151016_010197	Amanda ficou incrivelmente nervosa depois de seu monóculo não ter funcionado. Fale com ela.
-QUEST_LV_0100_20151016_010198	Amanda sugere separarem-se e procurar pelo poder especial. Destrua os montros em Bingcoolers Path e procure por este poder.
+QUEST_LV_0100_20151016_010198	Amanda sugere separarem-se e procurar pelo poder especial. Destrua os monstros em Bingcoolers Path e procure por este poder.
 QUEST_LV_0100_20151016_010199	Nada diferente aqui. Retorne para Amanda.
 QUEST_LV_0100_20151016_010200	Todo este trabalho para nada. Fale com Amanda novamente.
 QUEST_LV_0100_20151016_010201	Procure em Leima Small Square
@@ -10218,7 +10218,7 @@ QUEST_LV_0100_20151016_010213	Você coletou Earth Crystals suficientes. Entregue
 QUEST_LV_0100_20151016_010214	Você finalmente conseguiu a liberação que permite passar em segurança para o Storage Quarter. Fale com o Velho Gerente.
 QUEST_LV_0100_20151016_010215	O Velho Gerente já foi para Storage Quarter e vai te esperar lá. Esta é a chance para deixar um aviso para Amanda conseguir sua própria liberação.
 QUEST_LV_0100_20151016_010216	Fale com o Velho Gerente em Storage Quarter
-QUEST_LV_0100_20151016_010217	Finalizou o aviso apra Amanda. Fale com o Velho Gerente em Storage Quarter.
+QUEST_LV_0100_20151016_010217	Finalizou o aviso pra Amanda. Fale com o Velho Gerente em Storage Quarter.
 QUEST_LV_0100_20151016_010218	Você achou o Velho Gerente. Pergunte o que fazer para achar a Revelação.
 QUEST_LV_0100_20151016_010219	Colete Rajatad's Egg
 QUEST_LV_0100_20151016_010220	Os Espíritos da época de Ruklys sabem onde está a Revelação, mas eles estão muito violentos. Colete Rajatad's Egg para fazer um Restraint Token.
@@ -10242,9 +10242,9 @@ QUEST_LV_0100_20151016_010237	O Mestre Dievdirbys parece que tem um plano para e
 QUEST_LV_0100_20151016_010238	Faça uma Escultura Coruja para guiar os espíritos.
 QUEST_LV_0100_20151016_010239	Instale a Escultura Coruja em Storage Quarter de Fortress of the Land. Depois, guie os espíritos até a escultura.
 QUEST_LV_0100_20151016_010240	Você guiou todos os espíritos. Reporte para o Mestre Dievdirbys.
-QUEST_LV_0100_20151016_010241	Premier Eminent não parce ser humano. Para revelar usa identidade, fale com Amanda.
+QUEST_LV_0100_20151016_010241	Premier Eminent não parece ser humano. Para revelar usa identidade, fale com Amanda.
 QUEST_LV_0100_20151016_010242	Inspecione Premier Eminent com o monóculo
-QUEST_LV_0100_20151016_010243	Amanda pedu para ver o verdadeiro Premier Eminent você mesmo. Use o monóculo para descobrir sua identidade.
+QUEST_LV_0100_20151016_010243	Amanda pediu para ver o verdadeiro Premier Eminent você mesmo. Use o monóculo para descobrir sua identidade.
 QUEST_LV_0100_20151016_010244	Premier Eminent é um demônio! Consulte Amanda sobre o que fazer.
 QUEST_LV_0100_20151016_010245	Premier Eminent está esperando por você. Fale com ele para evitar suspeitas.
 QUEST_LV_0100_20151016_010246	Para poder reparar o aparelho destruído por Ruklys, as peças são necessárias. Procure por partes usáveis das armadilhas de defesa em Ataka Side Road.
@@ -10429,7 +10429,7 @@ QUEST_LV_0100_20151016_010424	Florescimento de uma Earth Flower
 QUEST_LV_0100_20151016_010425	A terra rica em força vital foi encontrada durante uma busca por um local de construção do templo. O oficial pede que você plante uma Semente de Earth Flower. E ele, o oficial, disse que a Earth Flower vai absorvendo a força vital fértil ai ajudará a Deusa Lada a se recuperar muito mais rápido.
 QUEST_LV_0100_20151016_010426	Fale com a Deusa Lada
 QUEST_LV_0100_20151016_010427	Earth Flower finalmente floresce! Fale com a Deusa Lada.
-QUEST_LV_0100_20151022_010428	A pedrita de luz, eu também vi!{nl}Os Demonios estão colecionando isso por todo lugar{nl}
+QUEST_LV_0100_20151022_010428	A pedrita de luz, eu também vi!{nl}Os demônios estão colecionando isso por todo lugar{nl}
 QUEST_LV_0100_20151022_010429	As Esculturas de Coruja estão enviando-as para algum lugar ... {nl}Talvez, você possa encontrar a trilha da Escultura de Coruja que acabou de ver, pode?
 QUEST_LV_0100_20151022_010430	Se fosse qualquer outra pessoa, eu teria parado você, mas sendo você de nada adiantara muito.{nl}Não tenho certeza se é bravura ou imprudência...{nl}
 QUEST_LV_0100_20151022_010431	Pelas Deusas! Eu preciso descansar um pouco.{nl}Estou exausto, sinto minhas forças sumindo de mim.{nl}Se eu ficar mais um minuto com voce, a minha vida nunca mais será tranquila. Deuses me livre!
@@ -10510,12 +10510,12 @@ QUEST_LV_0100_20151022_010505	Não acredito que não seja por acaso que você te
 QUEST_LV_0100_20151022_010506	A gratidão enche meu coração. {nl}Peço desculpas pela minha grosseria inicial. Eu estava muito confuso sobre tudo.
 QUEST_LV_0100_20151022_010507	Jurus
 QUEST_LV_0100_20151022_010508	Esta carta é ...{nl}
-QUEST_LV_0100_20151022_010509	escrito por Eras. {nl}Ele está morto ... esta é a primeira notícia que ouvi sobre ele em anos. Isso é muito triste e horrivel.{nl}
+QUEST_LV_0100_20151022_010509	escrito por Eras. {nl}Ele está morto ... esta é a primeira notícia que ouvi sobre ele em anos. Isso é muito triste e horrível.{nl}
 QUEST_LV_0100_20151022_010510	Obrigado por me entregar esta carta. {nl}Pelo menos agora sei o que aconteceu com ele.
 QUEST_LV_0100_20151022_010511	Os meus companheiros com quem compartilhamos essa mesma vontade provavelmente estão sendo perseguidos assim como eu. {nl}Nós marcamos o ponto de encontro em Orsha, mas sinto em meu coração uma preocupção ...
 QUEST_LV_0100_20151022_010512	Os meus companheiros com quem compartilhamos essa mesma vontade provavelmente estão sendo perseguidos assim como eu. {nl}Nós marcamos o ponto de encontro em Orsha ... Eu me pergunto e me preocupo onde eles possam estar.
 QUEST_LV_0100_20151022_010513	Alina ... também? {nl}Como Ignas poderia fazer algo assim! Ele estava fora de si?{nl}
-QUEST_LV_0100_20151022_010514	Alina está morta já não esta entre nós, mas ela estara sempre em meu coração. Vou continuar o que Lydia Schaffen começou. {nl}Eu vou sobreviver e chegar a Orsha!{nl}
+QUEST_LV_0100_20151022_010514	Alina está morta já não esta entre nós, mas ela estará sempre em meu coração. Vou continuar o que Lydia Schaffen começou. {nl}Eu vou sobreviver e chegar a Orsha!{nl}
 QUEST_LV_0100_20151022_010515	Quando eu te conheci, você era fraco e distraído, mas agora, olhe para você! {nl}Bom, eu vou te ensinar a habilidade final dos bárbaros. {nl}Vou ser franco, eu tenho minhas dúvidas se voce dara conta de aprender esta habilidade..
 QUEST_LV_0100_20151022_010516	Falar é fácil. O que mais importa é você conseguir fazer isso! {nl}Este líquido medicinal não é realmente medicinal. Pelo contrário, é um veneno. De volta para casa, nós a bebemos como parte do treinamento. {nl}Beba e mate os monstros no Apsimesti Crossroads enquanto seu corpo ainda estara sob a influência deste liquido.
 QUEST_LV_0100_20151022_010517	Não vai ser fácil, isso eu te digo! Você já é forte, então eu não irei menosprezar você se você não quiser passar por esse rigoroso treinamento.
@@ -10572,7 +10572,7 @@ QUEST_LV_0100_20151022_010567	Use o Guia Coruja para encontrar % s
 QUEST_LV_0100_20151022_010568	Recupere % s dos monstros usando o Guia Coruja
 QUEST_LV_0100_20151022_010569	Você restaurou com sucesso o Karolis Altar. Informe a Escultura do Coruja Chefe.
 QUEST_LV_0100_20151022_010570	Para espalhar a energia do Santuário de Karolis, todas as quatro luzes de Karolis devem ser acesas. Se houver menos de 4 luzes acesas as demais serão apagadas rapidamente.
-QUEST_LV_0100_20151022_010571	A energia do Santuário de Karolis está se espalhando. Reporte-se para a Escultura do Líder Coruja.
+QUEST_LV_0100_20151022_010571	A energia do Santuário de Karolis está se espalhando. Reporte-se para a Escultura do Coruja Líder.
 QUEST_LV_0100_20151022_010572	A Escultura do Coruja Chefe pediu-lhe para recolher energia o suficiente de Karolis Springs e entregá-lo ao Guia Own Sculpture. Encontre a Escultura da Coruja Guia.
 QUEST_LV_0100_20151022_010573	Árvore Sagrada da Floresta
 QUEST_LV_0100_20151022_010574	A Escultura da Coruja Guia recuperou sua consciência. Conte sobre o que a Escultura de Coruja Chefe lhe disse.
@@ -10607,107 +10607,107 @@ QUEST_LV_0100_20151022_010602	Todos os círculos mágicos que protegem a Soul St
 QUEST_LV_0100_20151022_010603	Os demônios alertados foram derrotados. Agora, use a Romuva of Suppression para destruir a Soul Starvation.
 QUEST_LV_0100_20151022_010604	Derrote % s
 QUEST_LV_0100_20151022_010605	A Soul Starvation esta destruída. Volte ao Mardas.
-QUEST_LV_0100_20151022_010606	Mardas inspecionou cuidadosamente a situação e disse que vai denunciá-la ao coruja chefe.
+QUEST_LV_0100_20151022_010606	Mardas inspecionou cuidadosamente a situação e disse que vai denunciá-la a coruja chefe.
 QUEST_LV_0100_20151022_010607	Olhe dentro do Baú Trancado.
 QUEST_LV_0100_20151022_010608	Ai está, um misterioso baú. Abra e veja o que tem dentro.
 QUEST_LV_0100_20151022_010609	Insira o encantamento dentro do baú.
 QUEST_LV_0100_20151022_010610	Uma força desconhecida está mantendo o baú fechado. Derrote os monstros próximos para inserir o encantamento nele.
 QUEST_LV_0100_20151022_010611	Abra o baú trancado.
-QUEST_LV_0100_20151022_010612	It seems enough of the spell has been injected to the chest. Try opening the chest again.
-QUEST_LV_0100_20151022_010613	Check the letter on the ground
-QUEST_LV_0100_20151022_010614	A letter lies on the ground. Check if someone has lost it.
-QUEST_LV_0100_20151022_010615	Find the recipient to the letter
-QUEST_LV_0100_20151022_010616	The sender of the letter is a person called Eras. It is supposed to go to a person called Jurus in Orsha.
-QUEST_LV_0100_20151022_010617	Check the Letas Altar
-QUEST_LV_0100_20151022_010618	There is a trouble at the Letas Altar, it seems. Check the altar.
-QUEST_LV_0100_20151022_010619	Defeat the nearby monsters disrupting the energy of the Letas Altar
-QUEST_LV_0100_20151022_010620	Letas Altar is weakened by the evil force from the nearby monsters. Defeat the nearby monsters.
-QUEST_LV_0100_20151022_010621	Drink the medicinal fluid and defeat the monsters at Apsimesti Crossroads
-QUEST_LV_0100_20151022_010622	Fight the monsters at Apsimesti Crossroads while in a weakened state.
-QUEST_LV_0100_20151022_010623	You've overcame the extreme hardship. Report back to Barbarian Submaster.
-QUEST_LV_0100_20151102_010624	As a cleric, the best way to approach the goddesses is to serve others.{nl}If you help me heal the soldiers at Miners' Village, I will gladly help you back.
-QUEST_LV_0100_20151102_010625	Good work.{nl}I may not be of much help but I will do my best to lead you closer to the goddess.
-QUEST_LV_0100_20151102_010626	Brilliant.{nl}You've completed the assignment. When you are ready, let's begin the Elementalist lesson.
+QUEST_LV_0100_20151022_010612	Parece que já foi injetado o suficiente do encantamento no baú. Tente abrir o baú novamente.
+QUEST_LV_0100_20151022_010613	Verifique a carta no chão
+QUEST_LV_0100_20151022_010614	Uma carta está no chão. Verifique se alguem a perdeu.
+QUEST_LV_0100_20151022_010615	Encontre o recipiente para a carta
+QUEST_LV_0100_20151022_010616	O remetente da carta é uma pessoa chamada Eras. Ela deveria ir para uma pessoa chamada Jurus em Orsha.
+QUEST_LV_0100_20151022_010617	Verifique o Altar de Letas
+QUEST_LV_0100_20151022_010618	Parece que há problema no Altar de Letas. Verifique o altar.
+QUEST_LV_0100_20151022_010619	Derrote os monstros próximos que estão perturbando a energia do Altar de Letas
+QUEST_LV_0100_20151022_010620	O Altar de Letas enfraquecido pela força maligna dos monstros próximos. Derrote-os.
+QUEST_LV_0100_20151022_010621	Beba o fluido medicinal e derrote os monstros próximos em Apsimesti Crossroads
+QUEST_LV_0100_20151022_010622	Lute contra os monstros em Apsimesti Crossroads enquanto está em um estado enfraquecido.
+QUEST_LV_0100_20151022_010623	Você superou a extrema dificuldade. Reporte para Barbarian Submaster.
+QUEST_LV_0100_20151102_010624	Como um cleric, a melhor forma de se aproximar das deusas é servindo aos outros.{nl}Se você me ajudar a curar os soldados em Miners' Village, será prazer ajudá-lo de volta.
+QUEST_LV_0100_20151102_010625	Bom trabalho.{nl}Eu posso não ser de muita ajuda, mas farei o meu melhor para te levar mais perto da deusa.
+QUEST_LV_0100_20151102_010626	Brilhante.{nl}Você concluiu a tarefa. Quando estiver pronto, vamos começar as aulas de Elementalist.
 QUEST_LV_0100_20151102_010627	As forças do mal jamais obterão a Revelação da Deusa.
 QUEST_LV_0100_20151102_010628	Se está preocupado com sua segurança, dou a você também a Romuva Holy Water. {nl} Ao beber essa água, você ficará invisível aos demônios por um curto intervalo.
 QUEST_LV_0100_20151102_010629	Saudações! {nl}Ah, então você é o Revelador. Queria muito conhecer você. {nl}
-QUEST_LV_0100_20151102_010630	I heard you successfully removed the seal at Pasagos Cliff.{nl}Now go get the next step from my brothers at the Pillars of the Courtyard.
-QUEST_LV_0100_20151102_010631	There's a piece below Seklus Bridge that is suspected to be a piece from the monument.{nl}But Achat is around there so I can't reach it.
-QUEST_LV_0100_20151102_010632	The light bead, I saw it too.{nl}The demons are collecting them all over the place.{nl}
-QUEST_LV_0100_20151102_010633	The Esculturas de Coruja are sending them off to somewhere...{nl}Perhaps, you could find its trail from the Escultura de Coruja you've just seen, can you?
-QUEST_LV_0100_20151102_010634	If it were anyone else, I would have stopped you but to you, words of warning will only fall flat.{nl}Not sure if it is bravery or recklessness...{nl}
-QUEST_LV_0100_20151102_010635	I should get some rest here for a little bit. I'm running out of breath.{nl}It's dangerous for me to stay with you, because I don't want to risk my life.
-QUEST_LV_0100_20151102_010636	I don't know about the identity of the light bead.{nl}However, it does not have that same feeling that the demons produce.
-QUEST_LV_0100_20151102_010637	Thank you. Really, thank you.{nl}If I got under the influence of the demons,{nl}I shudder to think what would have happened to the poor souls...
-QUEST_LV_0100_20151102_010638	The light bead you saw is actually... a human soul.{nl}No memory nor will of its own. Just a pure soul.{nl}
-QUEST_LV_0100_20151102_010639	They are from those who lived around here, lived until those demons...{nl}
-QUEST_LV_0100_20151102_010640	We, owls, lead the souls to the arms of the goddess.{nl}It's a divine duty that Goddess Ausrine gave us.{nl}
-QUEST_LV_0100_20151102_010641	But suddenly the demons invaded the forest, corrupting it in the process. {nl}Then they controlled us.{nl}The controlled owls started to send the souls to wherever the demons told them to.{nl}
-QUEST_LV_0100_20151102_010642	I am fully aware of how shameless of me to ask you this.{nl}But, I cannot bear to see another soul getting sacrificed. {nl}Please, destroy the Mind Control Tower.
-QUEST_LV_0100_20151102_010643	The goddess has not forsaken us after all..{nl}She sent you to us!{nl}
-QUEST_LV_0100_20151102_010644	The ripple damage from destroying the Mind Control Tower might harm the owls.{nl}Please, fill my comrades with the energy of the forest before you destroy the Mind Control Tower.{nl}
-QUEST_LV_0100_20151102_010645	Please, gather the fragments of the Karolis Altar destroyed by the demons.{nl}Restoring the altar will help to recover some of the forest.{nl}
-QUEST_LV_0100_20151102_010646	I will give the Guide Owl's Will to you.{nl}It will guide you to the place where the Karolis Altar used to be.
-QUEST_LV_0100_20151102_010647	The Karolis Altar used to pump energy to the forest.{nl}Ever since it was destroyed, the energy of the forest was reduced quite significantly.{nl}
-QUEST_LV_0100_20151102_010648	The Forest Altar still stands but to spread the energy {nl}throughout the entire forest, it needs Karolis' lights.{nl}The lights went out so did the spreading of the energy.{nl}
-QUEST_LV_0100_20151102_010649	If both the Karolis Altar and the Forest Sanctuary are restored. {nl}My comrades will be back to normal. We, the owls, share lives with the forest.
-QUEST_LV_0100_20151102_010650	I've been waiting for you.{nl}I knew you succeeded when I sensed that the energy of the forest had strengthened.
-QUEST_LV_0100_20151102_010651	I should not have held my hopes too high up... {nl}The restored Karolis Altar was not enough to completely revive the forest.{nl}The Altar of the Forest needs to be revived as well.{nl}
-QUEST_LV_0100_20151102_010652	Ah, the Altar of the Forest is located near the pond across there.{nl}It spreads Karolis' lights throughout the forest.{nl}
-QUEST_LV_0100_20151102_010653	The lights are almost all out...{nl}If you can illuminate them the power of the altar will spread out.
-QUEST_LV_0100_20151102_010654	There are four Karolis' lights.{nl}By illuminating only one light, it will lose its light quickly,{nl}but illuminating all four will maintain the altar's power.{nl}
-QUEST_LV_0100_20151102_010655	Be sure to illuminate them all before they give out.
-QUEST_LV_0100_20151102_010656	Back in the yesteryears, there were numerous altars but now, there is only one.{nl}The demons did indeed ruin the forest and us.
-QUEST_LV_0100_20151102_010657	You did it! You spread the energy around.{nl}It seems that all the other owls are now back to normal.{nl}
-QUEST_LV_0100_20151102_010658	Now, the only thing left to do is to destroy that mind-altering abomination. {nl}Our safety is now guaranteed.
-QUEST_LV_0100_20151102_010659	The tower is filled with very malicous energy.{nl}Even you cannot touch it without any precaution.{nl}
-QUEST_LV_0100_20151102_010660	The rest of the owls have regained themselves. And they are eager to lend you their power.{nl}Small individually but when collected, strong enough {nl}to fend off the malicious force the tower contains.
-QUEST_LV_0100_20151102_010661	Speak with the owls you have come across on the way here,{nl}they want to thank you personally.{nl}
-QUEST_LV_0100_20151102_010662	Explain the situation to them and they will surely lend their power.
-QUEST_LV_0100_20151102_010663	After getting the powers from all the owls, come back to me.{nl}I will combine them together.
-QUEST_LV_0100_20151102_010664	Did any of the owls mention something rude?{nl}They all are deeply grateful for what you have done.{nl}
-QUEST_LV_0100_20151102_010665	Now, I will combine their powers along with mine and make them into one.
-QUEST_LV_0100_20151102_010666	I was fearful of our combined power not being strong enough...{nl}I am glad to be wrong. It is certainly strong.{nl}
-QUEST_LV_0100_20151102_010667	Now, use this power to blow the tower to smithereens!
-QUEST_LV_0100_20151102_010668	I am sorry for not being able to repay you for all that you've done for us.{nl}However, what I can say for sure is that{nl}
-QUEST_LV_0100_20151102_010669	You certainly are being led by the goddess...{nl}I have that feeling.
-QUEST_LV_0100_20151102_010670	Actually, there is one owl a bit far from here...{nl}It's not responding.{nl}
-QUEST_LV_0100_20151102_010671	I am worried about that child but..{nl}The crisis on our hand requires our full attention.
-QUEST_LV_0100_20151102_010672	The wretched demon tower has fallen?{nl}Peace returns at last! {nl}My heart is content.
-QUEST_LV_0100_20151102_010673	Someone named Mardas came here to speak to you.{nl}Mardas has been talking about what he saw. The details on what the demons were doing.
-QUEST_LV_0100_20151102_010674	I believe that Letas Stream is under the demons' control.{nl}Could we ask you to help us a bit longer?{nl}
-QUEST_LV_0100_20151102_010675	To us, you are our only hope...
-QUEST_LV_0100_20151102_010676	Perhaps if Mardas and I can combine both of our knowledges {nl}on what we know about the demons, we can find a solution.{nl}We will be planning here.{nl}
-QUEST_LV_0100_20151102_010677	First, we need the Namott of Suppression.{nl}It contains a high level of divine energy from the forest.{nl}
-QUEST_LV_0100_20151102_010678	The Guide Owl near Letas Stream can make you one.{nl}But seeing how it is not responding to my call, it must still be under the demons' control.
-QUEST_LV_0100_20151102_010679	Please, find the Guide Owl quickly.{nl}When it regains itself, tell it that you need the Namott of Suppression.
-QUEST_LV_0100_20151102_010680	On the upper side of Karolis Stream, there is a spot rich with the energy of the forest.{nl}Stand there and the energy will come to you.{nl}
-QUEST_LV_0100_20151102_010681	As the energy concentration increases, it gets condensed and crystalized.{nl}Take the condensed energy to the Guide Owl.
-QUEST_LV_0100_20151102_010682	Mardas has told me about the atrocities that the demons did. Even{nl}from just the descriptions, it puts a cold spear through my heart.{nl}We cannot allow it to continue.{nl}
-QUEST_LV_0100_20151102_010683	O, the poor souls... they are the ones whom we handed over to the demons?{nl}I am made of wood but my wooden heart is aching.
-QUEST_LV_0100_20151102_010684	The Líder Coruja sent you, eh?{nl}The Namott of Suppression... Now that's an extreme measure. The situation must be that dire.{nl}
-QUEST_LV_0100_20151102_010685	The Namott of Suppression is not something to be made lightly...{nl}But for all of us, I will try.{nl}
-QUEST_LV_0100_20151102_010686	The first ingredient we need is Letas' Sacred Branch. It's a branch from Letas' Sacred Tree.{nl}However, the energy of the forest is needed to find Letas' Sacred Tree...
-QUEST_LV_0100_20151102_010687	Wha..? You already had it on you?{nl}What good news. Bring it to the northern side of Letas Stream and sprinkle the energy around.{nl}
-QUEST_LV_0100_20151102_010688	It might not be easy to spot at the first try.{nl}You need to keep spreading the energy around to make the tree appear.
-QUEST_LV_0100_20151102_010689	Letas' Sacred Tree is a physical manifestation of the forest's will.{nl}Before the demon invasion, it was not a rare sight to see but now it is.{nl}
-QUEST_LV_0100_20151102_010690	However, if the energy of the forest is restored, they will reappear.
-QUEST_LV_0100_20151102_010691	How did it go? Did you find the tree?{nl}
-QUEST_LV_0100_20151102_010692	I wondered what should we do if the tree does not appear even with the energy of the forest.{nl}What a relief! Perhaps, it was no luck but rather you are the special one.
-QUEST_LV_0100_20151102_010693	It seems that Letas' Sacred Branch is weakened by the demons.{nl}Its power is insufficient. We need to fill it up.{nl}
-QUEST_LV_0100_20151102_010694	The branch can purify and absorb the malicious force from the monsters.{nl}Use it on monsters to purify their energies and absorb them.
-QUEST_LV_0100_20151102_010695	The weak ones will not be able to stand the awesome might of the branch.{nl}They will burn like a piece of paper.
-QUEST_LV_0100_20151102_010696	The Líder Coruja must trust you very much, seeing that it sent you.
-QUEST_LV_0100_20151102_010697	Is the branch all filled up?{nl}Let me make it into the Namott of Suppression.
-QUEST_LV_0100_20151102_010698	The Namott is complete but...{nl}I am not confident it will be enough to combat the demons.{nl}
-QUEST_LV_0100_20151102_010699	I, myself, am not sure what the Líder Coruja was thinking.{nl}I too have lost most of my power, I cannot help you.
-QUEST_LV_0100_20151102_010700	There is someone who can help you on your mission?{nl}What are you waiting for? Go and find out the plan.{nl}
-QUEST_LV_0100_20151102_010701	Perhaps, you don't have to go after all.
-QUEST_LV_0100_20151102_010702	It is a blessing that that Mardas person is helping us out. But the story Mardas told is a very{nl}depressing one.{nl}We are in some ways responsible for such an atrocity. I feel guilty. 
-QUEST_LV_0100_20151102_010703	You are just in time.{nl}Did you get the Namott of Suppression?
-QUEST_LV_0100_20151102_010704	After talking with the Líder Coruja, we might have a plan that can work.{nl}The demons are using the evil energy to corrupt Letas Stream and trap the stolen souls there.{nl}
-QUEST_LV_0100_20151102_010705	A thing called Soul Starvation is keeping the souls locked up. It must be destroyed but..{nl}The evil energy is far too thick and it is protected by the magic circles.{nl}
-QUEST_LV_0100_20151102_010706	Removing the evil energy corrupting the forest would be first in order.
+QUEST_LV_0100_20151102_010630	Eu ouvi que você removeu com sucesso o selo em Pasagos Cliff.{nl}Agora vamos pegar o próximo passo de meus irmãos em Pillars of the Courtyard.
+QUEST_LV_0100_20151102_010631	Tem um peça em baixo da Seklus Bridge, que eu suspeito ser uma peça do monumento.{nl}Mas Achat está por perto e eu não consigo alcançar.
+QUEST_LV_0100_20151102_010632	A Esfera de luz, eu vi também.{nl}Os demônios estão coletando elas em todos os lugares{nl}
+QUEST_LV_0100_20151102_010633	A Escultura de Coruja está enviando eles para algum lugar...{nl}Talvez você possa encontrar alguma pistas nessa Escultura de Coruja que viu antes.
+QUEST_LV_0100_20151102_010634	Se fosse qualquer outra pessoa, eu teria parado você, mas palavras de aviso seriam em vão.{nl}Não sei se é bravura ou imprudência...{nl}
+QUEST_LV_0100_20151102_010635	Eu deveria descansar um pouco aqui. Estou sem fôlego.{nl}É perigoso para mim ficar com você, pois não quero arriscar minha vida.
+QUEST_LV_0100_20151102_010636	Eu não sei sobre a identidade da esfera de luz.{nl}No entanto, ela não passa a mesma sensação que os demônios passam.
+QUEST_LV_0100_20151102_010637	Obrigado. De verdade, obrigado.{nl}Se eu ficasse sobre a influência dos demônios,{nl}Eu estremeço só pensar no que teria acontecido com as pobres almas ...
+QUEST_LV_0100_20151102_010638	A esfera de luz que você viu é na verdade... a alma de um humano{nl}Sem memória ou vontade. Apenas uma alma pura.{nl}
+QUEST_LV_0100_20151102_010639	Elas são daqueles que viviam aqui, viviam até que esses demônios...{nl}
+QUEST_LV_0100_20151102_010640	Nós, Corujas, guiamos as almas para os braços da deusa.{nl}É uma tarefa divina que a Deusa Ausrine nos deu.{nl}
+QUEST_LV_0100_20151102_010641	Mas de repente os demônios invadiram a floresta, corrompendo-a no processo. {nl}Então eles nos controlaram.{nl}As corujas controladas começaram a enviar as almas para onde quer que os demônios lhes dissessem.{nl}
+QUEST_LV_0100_20151102_010642	Estou completamente ciente do quão vergonhoso é de minha parte te pedir isso..{nl}Mas, eu não suportaria ver outra alma sendo sacrificada.. {nl}Por favor, destrua a Mind Control Tower.
+QUEST_LV_0100_20151102_010643	A deusa não nos abandonou depois de tudo...{nl}Ela te enviou para nós!{nl}
+QUEST_LV_0100_20151102_010644	A onda de choque causada pela destruição da Mind Control Tower pode machucar as corujas.{nl}Por favor, preencha meus companheiros com a energia da floresta antes de destruir a Mind Control Tower.{nl}
+QUEST_LV_0100_20151102_010645	Por favor, reúna os fragmentos do Altar de Karolis destruído pelos demônios.{nl}Restaurar o altar ajudará a recuperar parte da floresta.{nl}
+QUEST_LV_0100_20151102_010646	Eu vou entregar o Guide Owl's Will para você.{nl}Ele irá guiá-lo para onde o Altar de Karolis costumava ficar.
+QUEST_LV_0100_20151102_010647	O Karolis Altar costumava fornecer energia para a floresta.{nl}E desde que foi destruído, a energia foi reduzida significativamente{nl}
+QUEST_LV_0100_20151102_010648	O Altar da floresta ainda esta de pé, mas para propagar a energia{nl}por toda a floresta, ele precisa da Luz de Karolis.{nl}A luz se foi assim como a propagação da energia.{nl}
+QUEST_LV_0100_20151102_010649	Se ambos o Altar de Karolis e o Santuário da floresta forem restaurados.{nl}Meus companheiros voltarão ao normal. Nós, as corujas, compartilhamos vidas com a floresta.
+QUEST_LV_0100_20151102_010650	Estive esperando por você.{nl}Eu sabia que você teve sucesso quando senti a energia da floresta se fortalecendo.
+QUEST_LV_0100_20151102_010651	Eu não deveria ter mantido minhas esperanças muito altas... {nl}A restauração do Altar de Karolis não suficiente para reviver a floresta completamente.{nl}O Altar da Floresta precisa ser restaurado também.{nl}
+QUEST_LV_0100_20151102_010652	Ah, o Altar da Floresta está perto da lagoa em frente{nl}Ele espalha a Luz de Karolis pela floresta.{nl}
+QUEST_LV_0100_20151102_010653	A luz esta quase apagada...{nl}Se você conseguir iluminá-los, o poder do altar se espalhará.
+QUEST_LV_0100_20151102_010654	Existem quatro luzes.{nl}Se iluminar apenas uma, irá perde sua luz rapidamente,{nl}mas iluminando todas as quatro manterá o poder do altar.{nl}
+QUEST_LV_0100_20151102_010655	Tenha certeza de iluminar todas antes que se apaguem.
+QUEST_LV_0100_20151102_010656	No passado, existiam muitos altares, mas agora só sobrou um.{nl}Os demônios realmente arruinaram a floresta e nós.
+QUEST_LV_0100_20151102_010657	Você conseguiu! Você espalhou a energia.{nl}Parece que todas as corujas voltaram ao normal.{nl}
+QUEST_LV_0100_20151102_010658	Agora, a única coisa que resta a fazer é destruir aquela abominação que altera a mente. {nl}Nossa segurança está garantida.
+QUEST_LV_0100_20151102_010659	A torre está repleta de energia maliciosa.{nl}Nem mesmo você pode tocá-la sem precauções.{nl}
+QUEST_LV_0100_20151102_010660	As corujas voltaram a si. E desejam emprestar seus poderes a você.{nl}Pequenos, mas quando unidos, são fortes o suficiente para {nl}afastar a força maliciosa que a torre contém.
+QUEST_LV_0100_20151102_010661	Fale com as corujas que você encontrou no caminho até aqui,{nl}elas querem te agradecer pessoalmente.{nl}
+QUEST_LV_0100_20151102_010662	Explique a situação para eles, e com certeza irão emprestar seu poder.
+QUEST_LV_0100_20151102_010663	Depois de reunir os poderes das corujas, volte para mim.{nl}Eu irei combiná-los.
+QUEST_LV_0100_20151102_010664	Alguma das corujas disse algo rude??{nl}Todas estão profundamente gratas pelo que você fez.{nl}
+QUEST_LV_0100_20151102_010665	Agora, eu vou combinar seus poderes com os meus e transformá-los em um só.
+QUEST_LV_0100_20151102_010666	Eu temia que nossos poderes combinados não seria forte o suficiente...{nl}Estou feliz por estar errado. Com certeza é forte.{nl}
+QUEST_LV_0100_20151102_010667	Agora, use esse poder para explodir a torre em pedacinhos!
+QUEST_LV_0100_20151102_010668	Eu sinto muito não poder retribuir por tudo que você fez por nós.{nl}Entretanto, o que posso dizer com certeza é que{nl}
+QUEST_LV_0100_20151102_010669	Você certamente está sendo guiado pela deusa...{nl}É o que eu sinto.
+QUEST_LV_0100_20151102_010670	Na verdade, há uma coruja um pouco longe daqui...{nl}Ela não esta respondendo.{nl}
+QUEST_LV_0100_20151102_010671	Estou preocupado com essa criança, mas...{nl}A crise em nossas mãos requer toda nossa atenção.
+QUEST_LV_0100_20151102_010672	A miserável torre demoníaca caiu?{nl}Finalmente paz!{nl}Meu coração está feliz.
+QUEST_LV_0100_20151102_010673	Alguém chamado Mardas veio aqui falar com você.{nl}Ele estava falando sobre o que viu. Os detalhes sobre o que os demônios estão fazendo.
+QUEST_LV_0100_20151102_010674	Acredito que Letas Stream está sob o controle dos demônios.{nl}Podemos pedir que nos ajude um pouco mais?{nl}
+QUEST_LV_0100_20151102_010675	Para nós, você é nossa única esperança ...
+QUEST_LV_0100_20151102_010676	Talvez se eu Mardas pudermos combinar nossos conhecimentos {nl}sobre o que sabemos dos demônios, podemos encontrar uma solução.{nl}Nós estaremos planejando aqui.{nl}
+QUEST_LV_0100_20151102_010677	Primeiro, precisamos do Namott of Suppression.{nl}Ele contém uma grande quantidade de energia divina da floresta.{nl}
+QUEST_LV_0100_20151102_010678	A Guide Owl próxima a Letas Stream pode te fazer um.{nl}Mas vendo que não está respondendo meu chamado, parece que ele ainda deve estar sob o controle dos demônios.
+QUEST_LV_0100_20151102_010679	Por Favor, encontre a Guide Owl rápido.{nl}Quando ela voltar a si, Diga a ela que você precisa do Namott of Suppression.
+QUEST_LV_0100_20151102_010680	Na parte superior Karolis Stream, existe um lugar rico de energia da floresta.{nl}Fique lá e a energia virá até você.{nl}
+QUEST_LV_0100_20151102_010681	Conforme a concentração de energia aumenta, ela se torna condensada e cristalizada.{nl}Leve a energia condensada para a Guide Owl.
+QUEST_LV_0100_20151102_010682	Mardas me contou sobre as atrocidades que os demônios fizeram. Mesmo{nl} com apenas o resumo, isso me deixa com uma dor no coração.{nl}não podemos permitir que isso continue.{nl}
+QUEST_LV_0100_20151102_010683	Oh, as pobres almas... elas são as que entregamos aos demônios?{nl}Eu sou feito de madeira, mas mesmo assim meu coração de madeira dói.
+QUEST_LV_0100_20151102_010684	A Coruja Líder te enviou, em?{nl}O Namott of Suppression... isso sim é uma medida extrema. A situação deve estar terrível.{nl}
+QUEST_LV_0100_20151102_010685	O Namott of Suppression é algo para se levar a sério...{nl}Mas por todos nós, eu vou tentar.{nl}
+QUEST_LV_0100_20151102_010686	O Primeiro ingrediente que precisamos é Letas' Sacred Branch. É um galho da Letas' Sacred Tree.{nl}No entanto, a energia da floresta é necessária para encontrar a Letas' Sacred Tree...
+QUEST_LV_0100_20151102_010687	Que...? Você já tem a energia com você?{nl}Que ótima noticia. Leve para o lado norte de Letas Stream e espalhe a energia por lá.{nl}
+QUEST_LV_0100_20151102_010688	Pode ser difícil encontrar na primeira tentativa.{nl}Você precisa continuar espalhando a energia para encontrar a árvore.
+QUEST_LV_0100_20151102_010689	A Letas' Sacred Tree é uma manifestação física da vontade da floresta.{nl}Antes da invasão dos demônios, não era algo difícil de se ver, diferente de agora.{nl}
+QUEST_LV_0100_20151102_010690	No entanto, se a energia da floresta for restaurada, elas vão reaparecer.
+QUEST_LV_0100_20151102_010691	Como foi? Conseguiu encontrar a árvore?{nl}
+QUEST_LV_0100_20151102_010692	Me perguntava o que deveríamos fazer se a árvore não aparecesse mesmo com a energia da floresta.{nl}Que alivio! Talvez, não tenha sido sorte, mas sim que você é um ser especial.
+QUEST_LV_0100_20151102_010693	Parece que o Letas' Sacred Branch está enfraquecida pelos demônios.{nl}Seu poder não é o suficiente. Nós precisamos encher suas energias.{nl}
+QUEST_LV_0100_20151102_010694	O Galho pode purificar e absorver a força maligna dos monstros.{nl}Use-a nos monstros para purificar e absorver suas energias.
+QUEST_LV_0100_20151102_010695	Os fracos não serão capazes de suportar o incrível poder do galho.{nl}irão queimar igual papel.
+QUEST_LV_0100_20151102_010696	A Coruja Líder deve confiar muito em você, vendo que te enviou.
+QUEST_LV_0100_20151102_010697	O galho está preenchido de energia?{nl}Vamos transforma lo no Namott of Suppression.
+QUEST_LV_0100_20151102_010698	O Namott está completo, mas...{nl}Não estou confiante que sera o bastante para derrotar os demônios.{nl}
+QUEST_LV_0100_20151102_010699	Eu mesmo não sei oque a Coruja Líder estava pensando.{nl}Eu também perdi quase todo meu poder, eu não consigo te ajudar.
+QUEST_LV_0100_20151102_010700	Existe quem possa te ajudar em sua missão?{nl}O que está esperando? Vá descobrir o plano.{nl}
+QUEST_LV_0100_20151102_010701	Talvez, você não precisa ir no final das contas.
+QUEST_LV_0100_20151102_010702	É uma bênção que esse Mardas esteja nos ajudando. Mas a historia que Mardas contou é{nl}uam bem depressiva.{nl}De certa forma, somos responsáveis por tal atrocidade. Me sinto culpado.
+QUEST_LV_0100_20151102_010703	Você chegou bem a tempo.{nl}Você conseguiu o Namott of Suppression?
+QUEST_LV_0100_20151102_010704	Depois de conversar com a Coruja Líder, talvez tenhamos um plano que funcione.{nl}Os demônios estão usando energia maligna para corromper Letas Stream e aprisionar as almas lá.{nl}
+QUEST_LV_0100_20151102_010705	Uma coisa chamada Soul Starvation está mantendo as almas presas. Isso precisa ser destruído...{nl}A energia maligna é muito grossa e está protegida por círculos mágicos.{nl}
+QUEST_LV_0100_20151102_010706	Remover a energia maligna que esta corrompendo a floresta é prioridade.
 QUEST_LV_0100_20151102_010707	Follow the right path and go straight to find the center of the forest, you will find the evil energy.{nl}Set up Namott of Suppression around it to remove the evil energy.
 QUEST_LV_0100_20151102_010708	When I think about the folks back home, I cannot bear it any longer but..{nl}I am powerless. Helping you is my way of doing 'something at all'.
 QUEST_LV_0100_20151102_010709	The evil energy is continuously spawning?{nl}It's more serious than I thought.{nl}
@@ -10716,16 +10716,16 @@ QUEST_LV_0100_20151102_010711	If we remove Black Smoke, the demon structures wil
 QUEST_LV_0100_20151102_010712	It's rather risky but... I want you to infiltrate the place without getting detected by the{nl}Surveillance Spheres spinning around the Surveillance Eyes.{nl}At the end of the path, there is a magic circle managing those eyes.{nl}
 QUEST_LV_0100_20151102_010713	Without the magic circle, the Surveillance Eyes might go away as well.
 QUEST_LV_0100_20151102_010714	Without those pesky eyes, Black Smoke can be easily dealt with by using Namott of Surveillance.{nl}Be careful, it is a near-suicide mission.
-QUEST_LV_0100_20151102_010715	The Líder Coruja sure did know a lot.{nl}It is wise and knowledgeable even though it never left this place in its entire existence.
+QUEST_LV_0100_20151102_010715	The Coruja Líder sure did know a lot.{nl}It is wise and knowledgeable even though it never left this place in its entire existence.
 QUEST_LV_0100_20151102_010716	Are you hurt?{nl}It must have been a very dangerous journey, I can imagine... I was just standing here feeling powerless.
 QUEST_LV_0100_20151102_010717	Now, the Soul Starvation is vulnerable.{nl}The magic circles around it are protecting it but they can be easily disabled.{nl}
 QUEST_LV_0100_20151102_010718	There is a certain order in disabling the protection magic circles.{nl}One false step and you have to start all over again from the beginning.{nl}If you remain focused even in the face of failure, you will find the order.
 QUEST_LV_0100_20151102_010719	The evil energy is weakened and Black Smoke is gone. The demons, if they are not completely stupid, will notice thses changes and come after us.{nl}Please, be haste.
 QUEST_LV_0100_20151102_010720	If we manage to set those souls free, will the guilt and sadness I feel can be set free as well?{nl}But what about my rage?{nl}
 QUEST_LV_0100_20151102_010721	I do not know at the moment...
-QUEST_LV_0100_20151102_010722	Is that so... The souls are free now.{nl}The Líder Coruja promised to guide the souls to their rightful place, the arms of the goddess.{nl}
+QUEST_LV_0100_20151102_010722	Is that so... The souls are free now.{nl}The Coruja Líder promised to guide the souls to their rightful place, the arms of the goddess.{nl}
 QUEST_LV_0100_20151102_010723	The Namott of Suppression is best left to the Guide Owl.{nl}It will help the owls regain their power.{nl}
-QUEST_LV_0100_20151102_010724	Then, I must go back to the Líder Coruja.{nl}I will deliver this good news and want to hear more about it.
+QUEST_LV_0100_20151102_010724	Then, I must go back to the Coruja Líder.{nl}I will deliver this good news and want to hear more about it.
 QUEST_LV_0100_20151102_010725	Perhaps, this place is free of demons after all this time?{nl}My words cannot thank you enough!{nl}
 QUEST_LV_0100_20151102_010726	I do not believe it is no coincidence that you came to us.{nl}I sense the divine will of the goddess guiding you here.{nl}I pray she will continue to guide you.{nl}
 QUEST_LV_0100_20151102_010727	On behalf of the forest and all the owls, {nl}I pray for the divine guidance and protection to be onto you.{nl}Farewell, my friend...
@@ -11387,7 +11387,7 @@ QUEST_LV_0100_20151224_011382	If the magic circle is disabled, the Surveilance S
 QUEST_LV_0100_20151224_011383	The Black Spirit can be removed with the Namott of Suppression, {nl}if we can deal with the Surveilance Spheres. Be careful. {nl}This mission is very dangerous.
 QUEST_LV_0100_20151224_011384	The Soul Starvation is on the lower side of Apsvaiges Path.{nl}
 QUEST_LV_0100_20151224_011385	The evil energy has weakened and the Black Smoke is gone.{nl}The demons, if they are not completely stupid, will notice these changes and come after us.{nl}Please, hurry up.
-QUEST_LV_0100_20151224_011386	Is that so... The souls are free now.{nl}The Líder Coruja promised to guide the souls to their rightful place, into the arms of the goddess.{nl}
+QUEST_LV_0100_20151224_011386	Is that so... The souls are free now.{nl}The Coruja Líder promised to guide the souls to their rightful place, into the arms of the goddess.{nl}
 QUEST_LV_0100_20151224_011387	How can we ever repay you...{nl}
 QUEST_LV_0100_20151224_011388	Accessory Merchant Jurus
 QUEST_LV_0100_20151224_011389	This letter is... left by Eras.{nl}
@@ -12059,7 +12059,7 @@ QUEST_LV_0100_20151224_012053	Ajuda...{nl}Não sei dizer se esta seria a melhor 
 QUEST_LV_0100_20151224_012054	Quatro anos se passaram desde Medzio Diena, mas a reconstrução de Orsha ainda está acontecendo.{nl}Alguns refugiados parecem desapontados quando olham Orsha...{nl}Mas ainda assim é melhor do que outros lugares neste mundo.
 QUEST_LV_0100_20151224_012055	Uma pessoa com as suas habilidades é bem-vinda em Orsha o quanto antes.{nl}Vá para o castelo perto da Central Plaza se você deseja conhecer a Lorde.
 QUEST_LV_0100_20151224_012056	Muito obrigado por me salvar!{nl}Orsha que se dane! Eu.. eu.. eu quase...{nl}
-QUEST_LV_0100_20151224_012057	Você veio enfrentando os montros e nos ajudando todo o caminho até aqui.{nl}Mesmo que as Deusas tenham sumido,{nl}olhando para você tenho a sensação de que elas ainda estão por aí.{nl}
+QUEST_LV_0100_20151224_012057	Você veio enfrentando os monstros e nos ajudando todo o caminho até aqui.{nl}Mesmo que as Deusas tenham sumido,{nl}olhando para você tenho a sensação de que elas ainda estão por aí.{nl}
 QUEST_LV_0100_20151224_012058	Não sei o que passa na cabeça da Lorde, fazer com que fiquemos num lugar perigoso desses.{nl}Eu vou sair com a minha família assim que eles chegarem aqui.
 QUEST_LV_0100_20151224_012059	Mas me diga... você acabou de avançar um nível enfrentando os Kepas?{nl}
 QUEST_LV_0100_20151224_012060	Eu ouvi de um amigo que você recebe um Ponto de Status{nl}toda vez que avança um nível. Incrível!{nl}
@@ -12117,7 +12117,7 @@ QUEST_LV_0100_20151224_012111	Mas isso tinha sido só o início...{nl}Criaturas 
 QUEST_LV_0100_20151224_012112	O mais assustador foi o aparecimento dos demônios.{nl}Eles estavam adormecidos graças ao controle das Deusas, porém começaram a aparecer em todo o reino.{nl}
 QUEST_LV_0100_20151224_012113	As Deusas... elas não respondiam mais.{nl}Mesmo antes do Medzio Diena, elas começaram a sumir aos poucos... mas mesmo assim...{nl}
 QUEST_LV_0100_20151224_012114	Me permita parar o relato aqui... estas memórias são muito fortes para mim...{nl}As coisas não andam fáceis, mas reviver estas memórias ainda é muito pesado.
-QUEST_LV_0100_20151224_012115	Que visão horripilante...{nl}Ouvi dizer que não há local onde as raízes e os montros não afetaram, após o Medzio Diena.{nl}
+QUEST_LV_0100_20151224_012115	Que visão horripilante...{nl}Ouvi dizer que não há local onde as raízes e os monstros não afetaram, após o Medzio Diena.{nl}
 QUEST_LV_0100_20151224_012116	Orsha e Klaipeda são as únicas cidades que ainda estão de pé.{nl}Nesses momentos as pessoas procuram por algo em que possam acreditar,{nl}mas as Deusas não respondem ninguém...{nl}
 QUEST_LV_0100_20151224_012117	Nossa, olha como o tempo passa! Está na hora de eu ir ver os soldados.{nl}Por que não vai falar com o Oficial Lutas? Diga que quer ver o Bispo de Orsha.
 QUEST_LV_0100_20151224_012118	A maldição, ou o que quer que fosse aquele totem, era muito forte.{nl}Vai levar um tempo até que eu me recupere de verdade...
@@ -12134,15 +12134,15 @@ QUEST_LV_0100_20151224_012128	Desculpe-me, mas preciso voltar a processar os dad
 QUEST_LV_0100_20151224_012129	É ótimo saber que Irma está segura.{nl}Eu acho... que preciso descansar um pouco...
 QUEST_LV_0100_20151224_012130	Estou feliz que conseguimos reaver as ordens...{nl}Mas eu sinceramente duvido que tudo acabou.{nl}
 QUEST_LV_0100_20151224_012131	Eu acredito que o que está escrito nelas é um sinal para o início de uma nova catástrofe.{nl}Que as Deusas tenham pena de Orsha...
-QUEST_LV_0100_20151224_012132	Há rumores de que vilas do outro lado das montanhas e{nl}dos rios foram destruidas por montros violentos.{nl}Eu tentei acalmar as pessoas dizendo que os soldados ajudariam...{nl}
+QUEST_LV_0100_20151224_012132	Há rumores de que vilas do outro lado das montanhas e{nl}dos rios foram destruidas por monstros violentos.{nl}Eu tentei acalmar as pessoas dizendo que os soldados ajudariam...{nl}
 QUEST_LV_0100_20151224_012133	O vilarejo vizinho foi destroçado.{nl}Não pude deixar de pensar de que as Deusas devem mesmo ter desistido de nós.{nl}
 QUEST_LV_0100_20151224_012134	Felizmente, as ordens de migração foram expedidas, porém foi muito tarde para alguns.{nl}Elas deveriam ter sido expedidas muito antes...
-QUEST_LV_0100_20151224_012135	Sem muitos recursos, com muitos refugiados...{nl}Às vezes acho que seria mais fácil enfrentar os montros como soldado.{nl}
+QUEST_LV_0100_20151224_012135	Sem muitos recursos, com muitos refugiados...{nl}Às vezes acho que seria mais fácil enfrentar os monstros como soldado.{nl}
 QUEST_LV_0100_20151224_012136	Eu queria poder acomodar você logo... Mas veja pelo meu lado.{nl}Se eu facilitar para você, estas pessoas vão ficar muito irritadas.
 QUEST_LV_0100_20151224_012137	Você até pode entrar em Orsha sem passar pelo processo.{nl}Mas o motivo destas pessoas estarem esperando é por causa da qualificação de refugiados.{nl}
 QUEST_LV_0100_20151224_012138	Você não tem como receber suporte de Orsha sem ter essa qualificação.{nl}Eles sabem que acabarão morrendo de fome sem este suporte, por isso estão aguardando.
 QUEST_LV_0100_20151224_012139	Essa foi por pouco... os soldados estão todos trocando de turno.{nl}Se não fosse você, aquele monstro teria ido direto para Orsha!{nl}
-QUEST_LV_0100_20151224_012140	Eu retiro o que eu disse antes sobre lutar contra os montros como soldado!{nl}Não seria capaz de sobreviver contra monstros feito esse{nl}mesmo se as Deusas me abençoaem duplamente!
+QUEST_LV_0100_20151224_012140	Eu retiro o que eu disse antes sobre lutar contra os monstros como soldado!{nl}Não seria capaz de sobreviver contra monstros feito esse{nl}mesmo se as Deusas me abençoaem duplamente!
 QUEST_LV_0100_20151224_012141	Bem... o processo aqui vai demorar para recomeçar. Reunir todo mundo que fugiu...{nl}Porém, uma pessoa com as suas habilidades seria muito bem-vinda em Orsha.{nl}
 QUEST_LV_0100_20151224_012142	Aliás, a Lorde de Orsha está reunindo pessoas talentosas.{nl}Acredito que ela esteja oferecendo uma espécie de trabalho... por que não fala com ela?{nl}
 QUEST_LV_0100_20151224_012143	A Lorde é uma pessoa com fortes intenções e mente meticulosa.{nl}Vá para o castelo perto da Central Plaza se deseja encontra-la.
@@ -12182,7 +12182,7 @@ QUEST_LV_0100_20151224_012176	Tenho tantas perguntas se algum dia me encontrar c
 QUEST_LV_0100_20151224_012177	Esta quantidade deve ser suficiente.{nl}Aqui, pegue algumas para você.{nl}
 QUEST_LV_0100_20151224_012178	Você recupera Stamina dos Tree Root Crystals ou ao descansar.{nl}Porém você não terá tempo para sentar se estiver sendo perseguido, terá?{nl}
 QUEST_LV_0100_20151224_012179	Estas Stamina Pills valem seu peso em ouro em dias assim.{nl}Eu vou rezar pelas bençãos das Deusas sobre você!
-QUEST_LV_0100_20151224_012180	Você, de alguma forma, viu alguém tentando se aproximar daqui?{nl}O pessoal da minha cidade se separaram por causa do ataque dos montros...{nl}
+QUEST_LV_0100_20151224_012180	Você, de alguma forma, viu alguém tentando se aproximar daqui?{nl}O pessoal da minha cidade se separaram por causa do ataque dos monstros...{nl}
 QUEST_LV_0100_20151224_012181	Eles devem estar tentando chegar aqui, já que é o local seguro mais próximo de Orsha...{nl}Não sei por que eles não chegarm ainda... Estou ficando preocupada se estão perdidos.{nl}
 QUEST_LV_0100_20151224_012182	Desculpe abusar, mas você poderia ascender algumas fogueiras em Adata Highway?{nl}Assim as pessoas poderão se guiar pela fumaça.
 QUEST_LV_0100_20151224_012183	Me reencontrei apenas com algumas pessoas aqui.{nl}Não sei onde todos os outros foram parar...
@@ -12219,7 +12219,7 @@ QUEST_LV_0100_20151224_012213	O mundo, do jeito que está, alguns lugares ou est
 QUEST_LV_0100_20151224_012214	Mas é claro, você pode ou não acreditar nisso tudo.
 QUEST_LV_0100_20151224_012215	Há alguma chance de você ter ido até Randoluma Rest Place?{nl}Um soldado de Orsha disse que voltaria para ajudar se esperássemos por ele lá.{nl}
 QUEST_LV_0100_20151224_012216	Eu não sei o que os soldados de Orsha têm na cabeça.{nl}Não temos como esperar lá por causa dos monstros!{nl}
-QUEST_LV_0100_20151224_012217	Tudo que sabemos é arar o campo e jogar redes... como podemos nos defender?{nl}Será que você poderia nos ajudar, livrando-se dos montros em Randoluma Rest Place?
+QUEST_LV_0100_20151224_012217	Tudo que sabemos é arar o campo e jogar redes... como podemos nos defender?{nl}Será que você poderia nos ajudar, livrando-se dos monstros em Randoluma Rest Place?
 QUEST_LV_0100_20151224_012218	Eu tive muito ressentimento ao abandonar meu vilarejo.{nl}Mas chegar aqui e ver o estado das vilas do norte mudou minha visão.{nl}
 QUEST_LV_0100_20151224_012219	Eu só espero que a vila esteja segura até as ordens de migração serem finalizadas.{nl}Infelizmente, os mais antigos não quiseram abandonar suas moradias.
 QUEST_LV_0100_20151224_012220	Não posso acreditar que pediram para ficarmos em um local cheio de monstros...{nl}Claramente a Lorde não está pensando direito.
@@ -12231,7 +12231,7 @@ QUEST_LV_0100_20151224_012225	Obrigado!{nl}Vou perguntar para o Prefeito Romanas
 QUEST_LV_0100_20151224_012226	O motivo para estar procurando pessoas habilidosas como você...{nl}Bem, antes de tocar no assunto, deixe-me explciar um pouco da atual{nl}situação de Orsha.{nl}
 QUEST_LV_0100_20151224_012227	A aparência de Orsha... Bem, você deve ter se espantado também.{nl}Como pode ver, Orsha ainda está sendo reconstruída.{nl}
 QUEST_LV_0100_20151224_012228	Toda a população está mobilizada na reconstrução,{nl}portanto mal temos soldados para proteger a cidade.{nl}Em outras palavras, nós não temos tropas para enviar para outras regiões.{nl}
-QUEST_LV_0100_20151224_012229	Claro, os montros não se importam com nosso medo.{nl}O dano à outros imigrantes só aumenta, sendo que já tem várias vilas{nl}que foram completamente destruídas.
+QUEST_LV_0100_20151224_012229	Claro, os monstros não se importam com nosso medo.{nl}O dano à outros imigrantes só aumenta, sendo que já tem várias vilas{nl}que foram completamente destruídas.
 QUEST_LV_0100_20151224_012230	Estamos trazend todos que sobreviveram para Orsha...{nl}Mas não temos mãos e recursos suficientes para lidar com os problemas que aparecem.
 QUEST_LV_0100_20151224_012231	Este é o resumo de toda a situação...{nl}Voltemos então para o ponto principal.{nl}
 QUEST_LV_0100_20151224_012232	Em Orsha, há um sério problema que não podemos trazer à público.{nl}Estamos pedindo sua ajuda porque, como disse, mal estamos conseguindo{nl}lidar com todas as situações.{nl}
@@ -12319,7 +12319,7 @@ QUEST_LV_0100_20151224_012313	Você deve ser a pessoa que o mensageiro da Lorde 
 QUEST_LV_0100_20151224_012314	Demônios aparecendo tão próximo de Orsha não é coincidência.{nl}Nunca houve demônios assim tão próximo, mesmo durante a destruição{nl}em Medzio Diena.{nl}
 QUEST_LV_0100_20151224_012315	Minha mãe ficaria em choque se ela descobrisse sobre estes demônios...
 QUEST_LV_0100_20151224_012316	Os monstros estão surgindo aos montes... e não tempos força para revidar...{nl}Eles não querem facilitar nada, não?{nl}
-QUEST_LV_0100_20151224_012317	Eu estou ajudando os outros por trás dos panos, para facilitar as missões deles.{nl}Estou tentando lidar com os montros em Zbuka Inner Court, mas está difícil.
+QUEST_LV_0100_20151224_012317	Eu estou ajudando os outros por trás dos panos, para facilitar as missões deles.{nl}Estou tentando lidar com os monstros em Zbuka Inner Court, mas está difícil.
 QUEST_LV_0100_20151224_012318	Você vai me ajudar mesmo, de verdade?{nl}Acho que eu sou o ajudado, já que não estou ajudando ninguém pelo jeito haha.{nl}Você deve ter sido mesmo enviado pelas Deusas.
 QUEST_LV_0100_20151224_012319	Preciso de sua ajuda com os monstros em Zbuka Inner Court.{nl}Eles são mais perigosos do que parecem, tome cuidado!
 QUEST_LV_0100_20151224_012320	Tem um limite do que uma pessoa pode fazer sozinha!{nl}Do jeito que está, acho que o exército será melhor para lidar com isso tudo...
@@ -13418,14 +13418,14 @@ QUEST_LV_0100_20151224_013412	And that red gem Mardas saw...{nl}It must be someh
 QUEST_LV_0100_20151224_013413	From what I heard the water at the Pelke Shrine Ruins turned red...{nl}I wonder if that has something to do with that gem?
 QUEST_LV_0100_20151224_013414	(There is no reaction.)
 QUEST_LV_0100_20151224_013415	You should go see a man named Mardas.{nl}I'm sure he has the answer.
-QUEST_LV_0100_20151224_013416	Please talk to our Líder Coruja about it as well.{nl}I'm certain it will be a pleasure to meet you.
+QUEST_LV_0100_20151224_013416	Please talk to our Coruja Líder about it as well.{nl}I'm certain it will be a pleasure to meet you.
 QUEST_LV_0100_20151224_013417	Thank you for saving me.{nl}I hope my power will be of use to you, even if by only a little...
 QUEST_LV_0100_20151224_013418	That was unbearable...{nl}If it wasn't for you I would've stayed like that forever.
 QUEST_LV_0100_20151224_013419	I'll do anything, if only I can stand up to the demons.{nl}Thank you for saving me!
 QUEST_LV_0100_20151224_013420	I'm still a bit confused.{nl}I just can't believe what I was doing.
 QUEST_LV_0100_20151224_013421	To think I was helping the demons instead of guiding spirits to the goddess...{nl}I feel terrible, even if that wasn't my intention.
 QUEST_LV_0100_20151224_013422	How sad is the Dievdirbys who made us going to be when they find out...?{nl}I need to be more focused from now on...
-QUEST_LV_0100_20151224_013423	Thank you so much for saving me.{nl}I feel so sorry to our Líder Coruja...
+QUEST_LV_0100_20151224_013423	Thank you so much for saving me.{nl}I feel so sorry to our Coruja Líder...
 QUEST_LV_0100_20151224_013424	It's close to the Anga Hall.{nl}I'm glad you're not going out there on your own, but I have a bad feeling about this.
 QUEST_LV_0100_20151224_013425	The water all turned red, you can't get any around here.{nl}You need to go all the way to Letas Stream.{nl}
 QUEST_LV_0100_20151224_013426	If you go to Svaigulys Hill, on the right side you'll see some yellow flowers.{nl}They're Markazi Flowers, it's what we use in times of need.
@@ -13566,6 +13566,36 @@ QUEST_LV_0100_20151224_013560	First we need to get water
 QUEST_LV_0100_20151224_013561	It's dangerous, stay here
 QUEST_LV_0100_20151224_013562	Let's rest for a while first
 QUEST_LV_0100_20151224_013563	Irei agora mesmo
+QUEST_LV_0100_20151224_013564	I'll take a look around the vestry
+QUEST_LV_0100_20151224_013565	I'm going to rest for a while
+QUEST_LV_0100_20151224_013566	I'll have a look in the vestry
+QUEST_LV_0100_20151224_013567	I'll find the backpack for you
+QUEST_LV_0100_20151224_013568	I'm sorry
+QUEST_LV_0100_20151224_013569	You stay put; I'll do it for you
+QUEST_LV_0100_20151224_013570	Getting some rest first will be better
+QUEST_LV_0100_20151224_013571	Destroy the testing facilities
+QUEST_LV_0100_20151224_013572	Go back to the village
+QUEST_LV_0100_20151224_013573	I'll collect some right away
+QUEST_LV_0100_20151224_013574	I'm not so sure I can help you
+QUEST_LV_0100_20151224_013575	Just give me some time
+QUEST_LV_0100_20151224_013576	What do I have to do?
+QUEST_LV_0100_20151224_013577	I'll collect some mucus for you
+QUEST_LV_0100_20151224_013578	We should consider there won't be any side effects to overloading the device
+QUEST_LV_0100_20151224_013579	I'll destroy the magic crystal
+QUEST_LV_0100_20151224_013580	Rose could be mentally affected; that's not right
+QUEST_LV_0100_20151224_013581	I'll chase away the monsters at the Medie State Apartments
+QUEST_LV_0100_20151224_013582	I'll go see the Wizard Submaster
+QUEST_LV_0100_20151224_013583	I'll go later
+QUEST_LV_0100_20151224_013584	Explaining about Rose and her brother
+QUEST_LV_0100_20151224_013585	Please tell me how
+QUEST_LV_0100_20151224_013586	I'll be back after I'm ready
+QUEST_LV_0100_20151224_013587	The Protective Barrier Crystal is completed.{nl}Go back to Edmundas and set it!
+QUEST_LV_0100_20151224_013588	I can help you; tell me more
+QUEST_LV_0100_20151224_013589	Tell me more about it
+QUEST_LV_0100_20151224_013590	It's okay, just get some rest
+QUEST_LV_0100_20151224_013591	Where Did Everybody Go? (6)
+QUEST_LV_0100_20151224_013592	Let's all help out
+QUEST_LV_0100_20151224_013593	I'll go and collect some Mochia stems
 QUEST_LV_0100_20151224_013594	Pressione "M" para abrir o mapa,{nl}então verifique seu objetivo no mapa
 QUEST_LV_0100_20151224_013595	Monstros poderão surgir
 QUEST_LV_0100_20151224_013596	Pressione F1 para utilizar Pontos de Status
@@ -13824,12 +13854,12 @@ QUEST_LV_0100_20151224_013848	To save the Esculturas de Coruja possessed by the 
 QUEST_LV_0100_20151224_013849	To spread out the forest's divine force, you need to find and light up all of Karolis' light rays. Hurry and light up all four of Karolis' rays before their light dies out.
 QUEST_LV_0100_20151224_013850	Destroy the Mind Control Tower at Duoklu Hall
 QUEST_LV_0100_20151224_013851	Destroy the Mind Control Tower at Duoklu Hall with the power of the Esculturas de Coruja.
-QUEST_LV_0100_20151224_013852	Mardas is with the Escultura do Líder Coruja. Listen to what he was saying.
+QUEST_LV_0100_20151224_013852	Mardas is with the Escultura do Coruja Líder. Listen to what he was saying.
 QUEST_LV_0100_20151224_013853	To save the Guide Owl Sculptures at Letas Stream, go to the birthplace of Karolis, where the energy of Karolis Springs is stronger, and collect that energy.
 QUEST_LV_0100_20151224_013854	Find the Guide Owl Sculpture at Letas Stream
-QUEST_LV_0100_20151224_013855	The Escultura do Líder Coruja requested you gather the energy of Karolis Springs and deliver it to the Guide Owl Sculptures. Go find the Guide Owl Sculptures.
-QUEST_LV_0100_20151224_013856	The Escultura do Líder Coruja requested a divine branch of Letas in order to defeat the demons. Use the crystal containing the energy of Karolis Springs to find the holy tree of Letas and obtain a branch.
-QUEST_LV_0100_20151224_013857	Mardas seems to have finally found a solution after discussing with the Escultura do Líder Coruja. Listen to what Mardas has to say.
+QUEST_LV_0100_20151224_013855	The Escultura do Coruja Líder requested you gather the energy of Karolis Springs and deliver it to the Guide Owl Sculptures. Go find the Guide Owl Sculptures.
+QUEST_LV_0100_20151224_013856	The Escultura do Coruja Líder requested a divine branch of Letas in order to defeat the demons. Use the crystal containing the energy of Karolis Springs to find the holy tree of Letas and obtain a branch.
+QUEST_LV_0100_20151224_013857	Mardas seems to have finally found a solution after discussing with the Escultura do Coruja Líder. Listen to what Mardas has to say.
 QUEST_LV_0100_20151224_013858	Clear out the evil energy contaminating the forest
 QUEST_LV_0100_20151224_013859	The first thing to do is eliminate the evil energy contaminating the forest. Set up the Namott of Suppression around the evil energy to clear it out.
 QUEST_LV_0100_20151224_013860	You have cleared out all of the evil energy. Go back to Mardas and tell him about it.
@@ -14267,7 +14297,7 @@ QUEST_LV_0100_20151224_014291	Dallanas está te observando estranhamente. Fale c
 QUEST_LV_0100_20151224_014292	Venere a Estátua da Deusa Zemyna em Randoluma Rest Place
 QUEST_LV_0100_20151224_014293	Dallanas disse que a Benção da Deusa recai em quem venera suas estátuas. Venere a Estátua da Deusa Zemyna em Randoluma Rest Place e receba suas bençãos.
 QUEST_LV_0100_20151224_014294	Dallanas parece preocupado com algo. Fale com ele.
-QUEST_LV_0100_20151224_014295	Derrote os montros em Randoluma Rest Place
+QUEST_LV_0100_20151224_014295	Derrote os monstros em Randoluma Rest Place
 QUEST_LV_0100_20151224_014296	Pediram a Dallanas para esperar em Randoluma Rest Place antes de adentrar Orsha, mas isto se tornou impossível devido a quantidade de monstros. Vá ateá a área e derrote-os..
 QUEST_LV_0100_20151224_014297	Randoluma Rest Place está seguro. Avise Dallanas.
 QUEST_LV_0100_20151224_014298	Dallanas parece ansioso. Pergunte se á algo errado.
@@ -14326,13 +14356,13 @@ QUEST_LV_0100_20151224_014350	Germeja quer dar aos monstros uma droga estimulant
 QUEST_LV_0100_20151224_014351	O estimulante funciona perfeitamente. Volte e avise Germeja.
 QUEST_LV_0100_20151224_014352	Raitis está pálido de medo. Pergunte ao Chaser qual o problema.
 QUEST_LV_0100_20151224_014353	Derrote os monstros em Bonan Forest Road
-QUEST_LV_0100_20151224_014354	Chaser Raitis disse que viu um montros estranho fazer um minho em Bonan Forest Road. Encontre e destrua o ninho, além de alguns monstros no local.
+QUEST_LV_0100_20151224_014354	Chaser Raitis disse que viu um monstros estranho fazer um minho em Bonan Forest Road. Encontre e destrua o ninho, além de alguns monstros no local.
 QUEST_LV_0100_20151224_014355	Destrua o Ninho em Bonan Forest Road
 QUEST_LV_0100_20151224_014356	Você derrotou os monstros em Bonan Forest Road. Encontre o ninho do monstro misterioso.
 QUEST_LV_0100_20151224_014357	Retorne para Chaser Raitis
 QUEST_LV_0100_20151224_014358	Você destruiu o ninho. Avise Raitis o quanto antes.
 QUEST_LV_0100_20151224_014359	Ulysses está preocupado com a presença dos demônios e acha melhor você avancar até o Priest Pranas o quanto antes. Vá até Paupys Crossing e fale com Chaser Talbasi, que está junto com Pranas.
-QUEST_LV_0100_20151224_014360	Talbasi acretida que eles podem descobrir o que houve quando coletarem todas as anotações da Priest Gelija. Derrote os montros em Unihabited Crossing e tente encontrar essas anotações.
+QUEST_LV_0100_20151224_014360	Talbasi acretida que eles podem descobrir o que houve quando coletarem todas as anotações da Priest Gelija. Derrote os monstros em Unihabited Crossing e tente encontrar essas anotações.
 QUEST_LV_0100_20151224_014361	Entregue para Talbasi
 QUEST_LV_0100_20151224_014362	Você coletou todas as anotações que conseguiu. Entregue-as para Talbasi.
 QUEST_LV_0100_20151224_014363	Colete o item Priest Gelija's Memos
@@ -14368,7 +14398,7 @@ QUEST_LV_0100_20151224_014392	Verifique Deer Hooves Lot
 QUEST_LV_0100_20151224_014393	Agente Notres pediu para que você verifique se Derr Hooves Lot pode ser usado para um acampamento temporário. Vá até lá e analise a área.
 QUEST_LV_0100_20151224_014394	O local não parece ser muito seguro para imigrantes. Avise Notres sobre a avaliação.
 QUEST_LV_0100_20151224_014395	Agente Notres parece que precisa de ajuda. Fale com ele.
-QUEST_LV_0100_20151224_014396	Notres foi enviado para coletar o sangue dos montros para análises, mas isto é difícil de fazer. Derrote alguns montros em Rohonsa Cliff e tente coletar o sangue contaminado.
+QUEST_LV_0100_20151224_014396	Notres foi enviado para coletar o sangue dos monstros para análises, mas isto é difícil de fazer. Derrote alguns monstros em Rohonsa Cliff e tente coletar o sangue contaminado.
 QUEST_LV_0100_20151224_014397	Entregue para o Agente Notres
 QUEST_LV_0100_20151224_014398	Você coletou sangue suficiente. Entregue-o ao Agente Notres.
 QUEST_LV_0100_20151224_014399	Chaser Zegaus precisa de ajuda. Fale com ele.
@@ -15721,7 +15751,7 @@ QUEST_LV_0100_20161005_015745	It's very sad to listen to the commands of demons 
 QUEST_LV_0100_20161005_015746	I came here because the historians invited me to this place.{nl}They wanted my advice as a stonemason.
 QUEST_LV_0100_20161005_015747	I heard a Revelator defeated the Demon Lord ransacking the Royal Mausoleum.{nl}As a person undergoing training, I am ashamed that I couldn't go out and fight.
 QUEST_LV_0100_20161005_015748	I heard the monsters in Kateen Forest are eating up the Esculturas de Coruja I've made. {nl}I'm sure they are trying to use the souls for something else. Like for nourishment... 
-QUEST_LV_0100_20161005_015749	Como Hunter, meu instinto diz que os montros nesta floresta estão demonstrando{nl}uma movimentação e hábitos muito além do normal.{nl}Como se estivessem sendo controlados por alguma coisa.
+QUEST_LV_0100_20161005_015749	Como Hunter, meu instinto diz que os monstros nesta floresta estão demonstrando{nl}uma movimentação e hábitos muito além do normal.{nl}Como se estivessem sendo controlados por alguma coisa.
 QUEST_LV_0100_20161005_015750	Don't just stand there. {nl}Move if you want to help or go away.
 QUEST_LV_0100_20161005_015751	Como prefeito, não posso simplesmente deixa a vila. {nl}Como que as Deusas podem estar tão indiferentes?
 QUEST_LV_0100_20161005_015752	I have already memorized most of them, but the ones left are really important.{nl}They contain information on how to enter the Royal Mausoleum and such.
