@@ -113,7 +113,7 @@ QUEST_LV_0100_20150317_000112	Estou procurando minha assistente, chamada Airine.
 QUEST_LV_0100_20150317_000113	Eu falei para ela não se empolgar, mesmo que encontrasse algo.{nl}E apesar de tudo, ela fez exatamente isso novamente.
 QUEST_LV_0100_20150317_000114	Obrigado.{nl}Vou procurar Airine.
 QUEST_LV_0100_20150317_000115	Mecânico Heinen
-QUEST_LV_0100_20150317_000116	Só quem tem uma licença pode andar nesse bondinho.{nl}Infelizmente terei de pedir que volte para  Ienesa Highlands.
+QUEST_LV_0100_20150317_000116	Só quem tem uma licença pode andar nesse bondinho.{nl}Infelizmente terei de pedir que volte para Ienesa Highlands.
 QUEST_LV_0100_20150317_000117	Mas se você derrotar os monstros que atrapalham esse local, eu vou pensar no assunto.
 QUEST_LV_0100_20150317_000118	Não é melhor usar o bondinho em vez de se ferir tentando passar pelo lugar com monstros?{nl}Claro, isso imaginando que você pode pegar o bondinho.
 QUEST_LV_0100_20150317_000119	Muito melhor do que eu esperava.{nl}Quero fazer uma proposta para você.
@@ -6281,7 +6281,7 @@ QUEST_LV_0100_20150317_006280	Obtenha seiva de árvore na White Oak Forest
 QUEST_LV_0100_20150317_006281	Seiva de árvore é necessária para fazer o corante para restaurar o Obelisco. Obtenha seiva de árvore na White Oak Forest.
 QUEST_LV_0100_20150317_006282	Obtenha %s dos receptáculos de extração de seiva de árvore
 QUEST_LV_0100_20150317_006283	Vá para o Thorn Tree Altar
-QUEST_LV_0100_20150317_006284	Você coletou todos os matérias necessários para restaurar o Obelisco. Vá até o Thorn Tree Altar para misturar os matérias coletados.
+QUEST_LV_0100_20150317_006284	Você coletou todos os materiais necessários para restaurar o Obelisco. Vá até o Thorn Tree Altar para misturar os materiais coletados.
 QUEST_LV_0100_20150317_006285	Colete o Corante em Thorn Tree Altar
 QUEST_LV_0100_20150317_006286	Fez o corante para restaurar o Obelisco. Pegue o corante no altar.
 QUEST_LV_0100_20150317_006287	Obteve o corante para restaurar o Obelisco. Volte e fale com o Priest novamente sobre o que fazer em seguida.
@@ -8873,7 +8873,7 @@ QUEST_LV_0100_20151001_008872	Estátua de Coruja em Perigo
 QUEST_LV_0100_20151001_008873	Recuperando o Karolis Altar (1)
 QUEST_LV_0100_20151001_008874	Recuperando o Karolis Altar (2)
 QUEST_LV_0100_20151001_008875	Recuperando o Karolis Altar (3)
-QUEST_LV_0100_20151001_008876	Altar da Floresta
+QUEST_LV_0100_20151001_008876	Forest Altar
 QUEST_LV_0100_20151001_008877	Recolher a Força da Coruja (1)
 QUEST_LV_0100_20151001_008878	Recolher a Força da Coruja (2)
 QUEST_LV_0100_20151001_008879	Vontade da Coruja
@@ -9600,20 +9600,20 @@ QUEST_LV_0100_20151016_009598	Tome cuidado.
 QUEST_LV_0100_20151016_009599	Obrigado por traze-lo de volta.
 QUEST_LV_0100_20151016_009600	A equipe de escavação acaba de relatar que há algo enterrado lá. {Nl} Você poderia dar uma olhada? {Nl} Levará um tempo até que a equipe de recuperação chegue lá ...
 QUEST_LV_0100_20151016_009601	Estes são os registros da Aliança Comercial.{nl}Foram destruídos...{nl}Provavelmente por monstros.{nl}Me passa elas aqui.
-QUEST_LV_0100_20151016_009602	Estas são anotações dos matérias de flecha que a Aliança Comercial havia conseguido para Lydia Schaffen e o primeiro Mestre Fletcher.{nl}É muito difícil para mim recupera-las, vamos quer que tentar na cidade.
+QUEST_LV_0100_20151016_009602	Estas são anotações dos materiais de flecha que a Aliança Comercial havia conseguido para Lydia Schaffen e o primeiro Mestre Fletcher.{nl}É muito difícil para mim recupera-las, vamos quer que tentar na cidade.
 QUEST_LV_0100_20151016_009603	Deve haver algo à norte daqui também.{nl}Não consigo achar exatamente onde, infelizmente.{nl}Vou te dar o detector para que você experimente.
 QUEST_LV_0100_20151016_009604	Tente cavar com cuidado depois de que você localizar.
 QUEST_LV_0100_20151016_009605	Tente usar o detector devagar conforme você vai subindo.
 QUEST_LV_0100_20151016_009606	{nl}Está é uma tinta misteriosa. {nl}É uma tinta especial usada para escrever documentos importantes.{nl}Suspeitamos que era usada para esconder alguns registros.
 QUEST_LV_0100_20151016_009607	{nl}Ah, nós cuidaremos do restante nós mesmo.{nl}Você foi de grande ajuda!
 QUEST_LV_0100_20151016_009608	Olá.{nl}Eu sou Margellius, responsável por cuidar dos registros da Aliança Comercial Kedoran.
-QUEST_LV_0100_20151016_009609	{nl}Você veio à pedido de Leopoldas.{nl}Você poderia, então, recuperar os matérias educativos pegos pelos monstros?{nl}
+QUEST_LV_0100_20151016_009609	{nl}Você veio à pedido de Leopoldas.{nl}Você poderia, então, recuperar os materiais educativos pegos pelos monstros?{nl}
 QUEST_LV_0100_20151016_009610	Você viu os novatos que estão aos cuidados de Leopoldas, certo?{nl}Este material é necessário para ensina-los.
 QUEST_LV_0100_20151016_009611	Se nós recuperarmos os informativos que os monstros levaram, planejo fazer mais cópias para distribuir aos novatos.
 QUEST_LV_0100_20151016_009612	Agora vou registrar mais dados.{nl}A tinta feita do fluido dos monstros dura mais tempo e é mais durável.{nl}Se eu te der algumas armadilhas, pode coletar esse fluido para mim?
 QUEST_LV_0100_20151016_009613	Instale-as perto dos monstros.{nl}Eles irão desmaiar assim que pisarem na armadilha...{nl}É aí que você será capaz de extrair os fluidos, enquanto eles estão vivos.{nl}Porém, somente os monstros naquela direção possuem o fluido necessário.{nl}Use as armadilhas perto deles.
 QUEST_LV_0100_20151016_009614	Só se consegue o fluido dos monstros naquele local.{nl}Portanto, use a armadilha perto deles.
-QUEST_LV_0100_20151016_009615	Agora posso erguer as lápides.{nl}Você também pode tentar.{nl}Vou te dar os matérias e as armas de novo.
+QUEST_LV_0100_20151016_009615	Agora posso erguer as lápides.{nl}Você também pode tentar.{nl}Vou te dar os materiais e as armas de novo.
 QUEST_LV_0100_20151016_009616	Bom trabalho!{nl}Tenho certeza que Giedra também precisa da sua ajuda, logo ali.
 QUEST_LV_0100_20151016_009617	Encadernar é importante para fazer um livro de registros.{nl}Você deve amarrar tudo com umas cordas firmes.{nl}Cordas feitas de couro de monstro é o ideal, porém são muito curtas.{nl}Vou te dar uma bigorna, você se importa de preparar a Corda de Encadernação com tiras de couro?
 QUEST_LV_0100_20151016_009618	Preste atenção: Primeiro consiga as tiras de couro dos monstros, depois use a bigorna para preparar Lump of Sturdy Strings para encadernar com elas.{nl}Junte todas as cordas pequenas em uma grande.
@@ -9652,7 +9652,7 @@ QUEST_LV_0100_20151016_009650	Já está acabando? Já que vai se responsabilizar
 QUEST_LV_0100_20151016_009651	Quem é você?{nl}E o que é essa pedra que você tem aí?
 QUEST_LV_0100_20151016_009652	Como? Você destruiu a lápide?{nl}Trabalhamos duro para criar essa lápide e você a destruiu?
 QUEST_LV_0100_20151016_009653	Não preciso das suas desculpas.{nl}Já que Damijonas requisitou, vou começar a trabalhar nisso, mas, por favor, jamais faça isso de novo.{nl}
-QUEST_LV_0100_20151016_009654	Eu não quero te ver enquanto arrumo os matérias.{nl}Vá lidar com alguns monstros ou algo do tipo.
+QUEST_LV_0100_20151016_009654	Eu não quero te ver enquanto arrumo os materiais.{nl}Vá lidar com alguns monstros ou algo do tipo.
 QUEST_LV_0100_20151016_009655	Preciso de mais tempo.{nl}Não tenho como fazer uma lápide se materializar magicamente do nada, sabe?
 QUEST_LV_0100_20151016_009656	Tudo pronto. {nl}Agora, nunca mais faça isso de novo.
 QUEST_LV_0100_20151016_009657	Você trouxe o que eu precisava. Vamos ver se consigo consertar.{nl}É muita sorte não ter ficado tão destruído.
@@ -10097,8 +10097,8 @@ QUEST_LV_0100_20151016_010092	Siga a luz da Escultura de Coruja
 QUEST_LV_0100_20151016_010093	Mardas disse que os demônios estão coletando estas contas em algum lugar. Siga a luz estranha.
 QUEST_LV_0100_20151016_010094	Suba a colina e siga a luz estranha.
 QUEST_LV_0100_20151016_010095	A luz estranha foi enviada para outra Escultura de Coruja na colina. Suba-a e não perca de vista...
-QUEST_LV_0100_20151016_010096	Salvou a Escultura do Coruja Líder. Parece que ela é capaz de falar. Escute o que tem a dizer.
-QUEST_LV_0100_20151016_010097	A Escultura do Coruja Líder, diferente das outras, está sã. Pergunte se sabe o que acontecem em Karolis Springs.
+QUEST_LV_0100_20151016_010096	Salvou a Escultura da Coruja Líder. Parece que ela é capaz de falar. Escute o que tem a dizer.
+QUEST_LV_0100_20151016_010097	A Escultura da Coruja Líder, diferente das outras, está sã. Pergunte se sabe o que acontecem em Karolis Springs.
 QUEST_LV_0100_20151016_010098	Procure pelo Karolis Springs Crystal
 QUEST_LV_0100_20151016_010099	Para conseguir salvar as Esculturas de Coruja dos demônios, a Karolis Forest precisa ser revivida. Recuperar o Karolis Altar é o primeiro passo. Use o Guide Owl's Will para achar o Karolis Altar Crystal.
 QUEST_LV_0100_20151016_010100	Recupere Karolis Altar Fragments dos monstros
@@ -10106,23 +10106,23 @@ QUEST_LV_0100_20151016_010101	Os monstros têm os fragmentos do Karolis Altar. D
 QUEST_LV_0100_20151016_010102	Teleporte para o local onde o Karolis Altar costumava ficar.
 QUEST_LV_0100_20151016_010103	Vá para o lugar onde o Karolis Altar costumava ficar.
 QUEST_LV_0100_20151016_010104	Restaure o altar onde está o que restou dele
-QUEST_LV_0100_20151016_010105	Retorne para o Coruja Líder
-QUEST_LV_0100_20151016_010106	Altar restaurado. Retorne para o Coruja Líder.
-QUEST_LV_0100_20151016_010107	Não é o suficiente para trazer Karolis Springs de volta à vida. Fale mais com o Coruja Líder.
+QUEST_LV_0100_20151016_010105	Retorne para a Coruja Líder
+QUEST_LV_0100_20151016_010106	Altar restaurado. Retorne para a Coruja Líder.
+QUEST_LV_0100_20151016_010107	Não é o suficiente para trazer Karolis Springs de volta à vida. Fale mais com a Coruja Líder.
 QUEST_LV_0100_20151016_010108	Ativar as Luzes de Karolis
 QUEST_LV_0100_20151016_010109	As Luzes de Karolis, ao redor do altar, precisam ser ativadas para restaurar o poder do altar. Há 4 luzes, que se extinguem rapidamente. Seja rápido.
-QUEST_LV_0100_20151016_010110	Altar restaurado. Retorne para o Coruja Líder.
-QUEST_LV_0100_20151016_010111	O altar foi restaurado. Pergunte ao Coruja Líder se funcionou.
+QUEST_LV_0100_20151016_010110	Altar restaurado. Retorne para a Coruja Líder.
+QUEST_LV_0100_20151016_010111	O altar foi restaurado. Pergunte à Coruja Líder se funcionou.
 QUEST_LV_0100_20151016_010112	Colete o poder das Esculturas de Coruja
-QUEST_LV_0100_20151016_010113	A Escultura do Coruja Líder disse que, para garantir a destruição da Mind Control Tower, é necessário coletar o poder das Esculturas de Coruja. Ache-as e pegue seus poderes.
-QUEST_LV_0100_20151016_010114	Coletado todos os poderes das Esculturas de Coruja. Retorne para o Coruja Líder.
-QUEST_LV_0100_20151016_010115	Coletado todos os poderes das Esculturas de Coruja. Fale com a Escultura do Coruja Líder.
+QUEST_LV_0100_20151016_010113	A Escultura da Coruja Líder disse que, para garantir a destruição da Mind Control Tower, é necessário coletar o poder das Esculturas de Coruja. Ache-as e pegue seus poderes.
+QUEST_LV_0100_20151016_010114	Coletado todos os poderes das Esculturas de Coruja. Retorne para a Coruja Líder.
+QUEST_LV_0100_20151016_010115	Coletado todos os poderes das Esculturas de Coruja. Fale com a Escultura da Coruja Líder.
 QUEST_LV_0100_20151016_010116	Destrua a Mind Control Tower
 QUEST_LV_0100_20151016_010117	Destrua a Mind Control Tower com o poder das Esculturas de Coruja.
-QUEST_LV_0100_20151016_010118	A Mind Control Tower foi destruída. Retorne para a Escultura do Coruja Líder.
-QUEST_LV_0100_20151016_010119	Mardas está parado ao lado da Escultura do Coruja Líder. Pergunte-o o que estavam conversando.
-QUEST_LV_0100_20151016_010120	Fale com a Escultura do Coruja Líder novamente.
-QUEST_LV_0100_20151016_010121	A Escultura do Coruja Líder disse que pensará em um plano após ter conversado com Mardas. Enquanto isso, pergunte o que pode fazer.
+QUEST_LV_0100_20151016_010118	A Mind Control Tower foi destruída. Retorne para a Escultura da Coruja Líder.
+QUEST_LV_0100_20151016_010119	Mardas está parado ao lado da Escultura da Coruja Líder. Pergunte-o o que estavam conversando.
+QUEST_LV_0100_20151016_010120	Fale com a Escultura da Coruja Líder novamente.
+QUEST_LV_0100_20151016_010121	A Escultura da Coruja Líder disse que pensará em um plano após ter conversado com Mardas. Enquanto isso, pergunte o que pode fazer.
 QUEST_LV_0100_20151016_010122	A Escultura de Coruja está bolando um plano para resolver o problema causado pelos demônios, baseado na história de Mardas. Pergunte o que pode fazer enquanto eles discutem.
 QUEST_LV_0100_20151016_010123	Colete a Energy of Karolis Springs
 QUEST_LV_0100_20151016_010124	Vá para o local onde diz conter a maior quantidade de energia e colete-as.
@@ -10180,7 +10180,7 @@ QUEST_LV_0100_20151016_010175	Para fazer o material educacional, uma tinta espec
 QUEST_LV_0100_20151016_010176	Erguendo a Lápide
 QUEST_LV_0100_20151016_010177	Procurando Materiais para a Lápide
 QUEST_LV_0100_20151016_010178	Nestopa está trabalhando silenciosamente em Fasika Plateau. Enquanto isso, Antanas está erguendo lápides. Ajude-a levando os materiais necessários.
-QUEST_LV_0100_20151016_010179	Adquirido todo o matéria necessário para as lápides. Retorne para Antanas.
+QUEST_LV_0100_20151016_010179	Adquirido todo o material necessário para as lápides. Retorne para Antanas.
 QUEST_LV_0100_20151016_010180	Pergunte-a se, agora que possui todos os materiais, ela conseguirá fazer as lápides.
 QUEST_LV_0100_20151016_010181	Siga suas instruções e construa uma lápide com os materiais que possui.
 QUEST_LV_0100_20151016_010182	Você trabalhou bem. Diga adeus à Antanas e continue seu caminho.
@@ -10443,11 +10443,11 @@ QUEST_LV_0100_20151022_010438	Oh, graças as Deusas, ela me escutou! Ela te envi
 QUEST_LV_0100_20151022_010439	Se a Mind Control Tower for destruída, o impacto também poderá afetar negativamente meus companheiros{nl}Então, antes de destruir a torre, junte a energia da floresta{nl}
 QUEST_LV_0100_20151022_010440	Restaure o Karolis Altar e a energia da floresta também será restaurada.{nl}Vou lhe dar a Guide Owl's Will.{nl}Ela vai direcioná-lo para as ruínas do Karolis Altar.
 QUEST_LV_0100_20151022_010441	O Karolis Altar costumava coletar a energia da floresta. {nl}Desde que ela foi destruída, a energia da floresta ficou muito fraca.{nl}
-QUEST_LV_0100_20151022_010442	O Altar da Floresta ainda é forte e funcional, mas precisamos que a Luz de Karolis espalhe o poder por toda a floresta. A luz enfraquecida é a causa da energia não se espalhar muito. {Nl}
+QUEST_LV_0100_20151022_010442	O Forest Altar ainda é forte e funcional, mas precisamos que a Luz de Karolis espalhe o poder por toda a floresta. A luz enfraquecida é a causa da energia não se espalhar muito. {Nl}
 QUEST_LV_0100_20151022_010443	Os companheiros retornarão às suas mentes em paz, {nl} se os altares de Karolis e da floresta forem restaurados.{nl}Nós, Esculturas de Coruja, iremos viver nas proximidades da Floresta
 QUEST_LV_0100_20151022_010444	Eu estive esperando por você.{nl}Eu sabia que você conseguiu desde que a energia da floresta foi aumentada.
-QUEST_LV_0100_20151022_010445	Eu tive minhas esperanças, mas parece que o Karolis Altar não esta sendo o suficiente{nl}para restaurar totalmente a energia da floresta. A energia do altar da floresta também precisa ser espalhada.{nl}
-QUEST_LV_0100_20151022_010446	O altar da floresta está atravessando uma lagoa.{nl}Se você chegar lá, a Luz de Karolis poderá espalhar a energia do altar para toda a floresta. {nl}A luz quase extinta precisa ser reacendida e{nl}então a energia se espalhará para todos os cantos da floresta.
+QUEST_LV_0100_20151022_010445	Eu tive minhas esperanças, mas parece que o Karolis Altar não esta sendo o suficiente{nl}para restaurar totalmente a energia da floresta. A energia do Forest Altar também precisa ser espalhada.{nl}
+QUEST_LV_0100_20151022_010446	O Forest Altar está atravessando uma lagoa.{nl}Se você chegar lá, a Luz de Karolis poderá espalhar a energia do altar para toda a floresta. {nl}A luz quase extinta precisa ser reacendida e{nl}então a energia se espalhará para todos os cantos da floresta.
 QUEST_LV_0100_20151022_010447	Há quatro lugares onde a Luz de Karolis pode se fazer presente.{nl}Porem, cada um dura pouco tempo, se você conseguir iluminar todos os quatro, essas luzes podem sustentar uma a outra. {nl}Seja rápido e ágil ao acender todos os quatro.
 QUEST_LV_0100_20151022_010448	Nos velhos tempos, havia vários altares, agora só existe um.{nl}Os demônios de fato arruinaram a nossa floresta.
 QUEST_LV_0100_20151022_010449	A energia do altar é espalhada com sucesso.{nl}Agora todas as outras corujas não estão mais sob controle.{nl}A única coisa que resta é destruir a Mind Control Tower e a segurança desta área estará garantida.
@@ -10572,7 +10572,7 @@ QUEST_LV_0100_20151022_010567	Use o Guia Coruja para encontrar % s
 QUEST_LV_0100_20151022_010568	Recupere % s dos monstros usando o Guia Coruja
 QUEST_LV_0100_20151022_010569	Você restaurou com sucesso o Karolis Altar. Informe a Escultura do Coruja Chefe.
 QUEST_LV_0100_20151022_010570	Para espalhar a energia do Santuário de Karolis, todas as quatro luzes de Karolis devem ser acesas. Se houver menos de 4 luzes acesas as demais serão apagadas rapidamente.
-QUEST_LV_0100_20151022_010571	A energia do Santuário de Karolis está se espalhando. Reporte-se para a Escultura do Coruja Líder.
+QUEST_LV_0100_20151022_010571	A energia do Santuário de Karolis está se espalhando. Reporte-se para a Escultura da Coruja Líder.
 QUEST_LV_0100_20151022_010572	A Escultura do Coruja Chefe pediu-lhe para recolher energia o suficiente de Karolis Springs e entregá-lo ao Guia Own Sculpture. Encontre a Escultura da Coruja Guia.
 QUEST_LV_0100_20151022_010573	Árvore Sagrada da Floresta
 QUEST_LV_0100_20151022_010574	A Escultura da Coruja Guia recuperou sua consciência. Conte sobre o que a Escultura de Coruja Chefe lhe disse.
@@ -10618,10 +10618,10 @@ QUEST_LV_0100_20151022_010613	Verifique a carta no chão
 QUEST_LV_0100_20151022_010614	Uma carta está no chão. Verifique se alguem a perdeu.
 QUEST_LV_0100_20151022_010615	Encontre o recipiente para a carta
 QUEST_LV_0100_20151022_010616	O remetente da carta é uma pessoa chamada Eras. Ela deveria ir para uma pessoa chamada Jurus em Orsha.
-QUEST_LV_0100_20151022_010617	Verifique o Altar de Letas
-QUEST_LV_0100_20151022_010618	Parece que há problema no Altar de Letas. Verifique o altar.
-QUEST_LV_0100_20151022_010619	Derrote os monstros próximos que estão perturbando a energia do Altar de Letas
-QUEST_LV_0100_20151022_010620	O Altar de Letas enfraquecido pela força maligna dos monstros próximos. Derrote-os.
+QUEST_LV_0100_20151022_010617	Verifique o Letas Altar
+QUEST_LV_0100_20151022_010618	Parece que há problema no Letas Altar. Verifique o altar.
+QUEST_LV_0100_20151022_010619	Derrote os monstros próximos que estão perturbando a energia do Letas Altar
+QUEST_LV_0100_20151022_010620	O Letas Altar está enfraquecido pela força maligna dos monstros próximos. Derrote-os.
 QUEST_LV_0100_20151022_010621	Beba o fluido medicinal e derrote os monstros próximos em Apsimesti Crossroads
 QUEST_LV_0100_20151022_010622	Lute contra os monstros em Apsimesti Crossroads enquanto está em um estado enfraquecido.
 QUEST_LV_0100_20151022_010623	Você superou a extrema dificuldade. Reporte para Barbarian Submaster.
@@ -10634,7 +10634,7 @@ QUEST_LV_0100_20151102_010629	Saudações! {nl}Ah, então você é o Revelador. 
 QUEST_LV_0100_20151102_010630	Eu ouvi que você removeu com sucesso o selo em Pasagos Cliff.{nl}Agora vamos pegar o próximo passo de meus irmãos em Pillars of the Courtyard.
 QUEST_LV_0100_20151102_010631	Tem um peça em baixo da Seklus Bridge, que eu suspeito ser uma peça do monumento.{nl}Mas Achat está por perto e eu não consigo alcançar.
 QUEST_LV_0100_20151102_010632	A Esfera de luz, eu vi também.{nl}Os demônios estão coletando elas em todos os lugares{nl}
-QUEST_LV_0100_20151102_010633	A Escultura de Coruja está enviando eles para algum lugar...{nl}Talvez você possa encontrar alguma pistas nessa Escultura de Coruja que viu antes.
+QUEST_LV_0100_20151102_010633	As Esculturas de Coruja estão enviando eles para algum lugar...{nl}Talvez você possa encontrar alguma pistas nessa Escultura de Coruja que viu antes.
 QUEST_LV_0100_20151102_010634	Se fosse qualquer outra pessoa, eu teria parado você, mas palavras de aviso seriam em vão.{nl}Não sei se é bravura ou imprudência...{nl}
 QUEST_LV_0100_20151102_010635	Eu deveria descansar um pouco aqui. Estou sem fôlego.{nl}É perigoso para mim ficar com você, pois não quero arriscar minha vida.
 QUEST_LV_0100_20151102_010636	Eu não sei sobre a identidade da esfera de luz.{nl}No entanto, ela não passa a mesma sensação que os demônios passam.
@@ -10646,14 +10646,14 @@ QUEST_LV_0100_20151102_010641	Mas de repente os demônios invadiram a floresta, 
 QUEST_LV_0100_20151102_010642	Estou completamente ciente do quão vergonhoso é de minha parte te pedir isso..{nl}Mas, eu não suportaria ver outra alma sendo sacrificada.. {nl}Por favor, destrua a Mind Control Tower.
 QUEST_LV_0100_20151102_010643	A deusa não nos abandonou depois de tudo...{nl}Ela te enviou para nós!{nl}
 QUEST_LV_0100_20151102_010644	A onda de choque causada pela destruição da Mind Control Tower pode machucar as corujas.{nl}Por favor, preencha meus companheiros com a energia da floresta antes de destruir a Mind Control Tower.{nl}
-QUEST_LV_0100_20151102_010645	Por favor, reúna os fragmentos do Altar de Karolis destruído pelos demônios.{nl}Restaurar o altar ajudará a recuperar parte da floresta.{nl}
-QUEST_LV_0100_20151102_010646	Eu vou entregar o Guide Owl's Will para você.{nl}Ele irá guiá-lo para onde o Altar de Karolis costumava ficar.
+QUEST_LV_0100_20151102_010645	Por favor, reúna os fragmentos do Karolis Altar destruído pelos demônios.{nl}Restaurar o altar ajudará a recuperar parte da floresta.{nl}
+QUEST_LV_0100_20151102_010646	Eu vou entregar o Guide Owl's Will para você.{nl}Ele irá guiá-lo para onde o Karolis Altar costumava ficar.
 QUEST_LV_0100_20151102_010647	O Karolis Altar costumava fornecer energia para a floresta.{nl}E desde que foi destruído, a energia foi reduzida significativamente{nl}
-QUEST_LV_0100_20151102_010648	O Altar da floresta ainda esta de pé, mas para propagar a energia{nl}por toda a floresta, ele precisa da Luz de Karolis.{nl}A luz se foi assim como a propagação da energia.{nl}
-QUEST_LV_0100_20151102_010649	Se ambos o Altar de Karolis e o Santuário da floresta forem restaurados.{nl}Meus companheiros voltarão ao normal. Nós, as corujas, compartilhamos vidas com a floresta.
+QUEST_LV_0100_20151102_010648	O Forest Altar ainda esta de pé, mas para propagar a energia{nl}por toda a floresta, ele precisa da Luz de Karolis.{nl}A luz se foi assim como a propagação da energia.{nl}
+QUEST_LV_0100_20151102_010649	Se ambos o Karolis Altar e o Forest Sanctuary forem restaurados.{nl}Meus companheiros voltarão ao normal. Nós, as corujas, compartilhamos vidas com a floresta.
 QUEST_LV_0100_20151102_010650	Estive esperando por você.{nl}Eu sabia que você teve sucesso quando senti a energia da floresta se fortalecendo.
-QUEST_LV_0100_20151102_010651	Eu não deveria ter mantido minhas esperanças muito altas... {nl}A restauração do Altar de Karolis não suficiente para reviver a floresta completamente.{nl}O Altar da Floresta precisa ser restaurado também.{nl}
-QUEST_LV_0100_20151102_010652	Ah, o Altar da Floresta está perto da lagoa em frente{nl}Ele espalha a Luz de Karolis pela floresta.{nl}
+QUEST_LV_0100_20151102_010651	Eu não deveria ter mantido minhas esperanças muito altas... {nl}A restauração do Karolis Altar não suficiente para reviver a floresta completamente.{nl}O Forest Altar precisa ser restaurado também.{nl}
+QUEST_LV_0100_20151102_010652	Ah, o Forest Altar está perto da lagoa em frente{nl}Ele espalha a Luz de Karolis pela floresta.{nl}
 QUEST_LV_0100_20151102_010653	A luz esta quase apagada...{nl}Se você conseguir iluminá-los, o poder do altar se espalhará.
 QUEST_LV_0100_20151102_010654	Existem quatro luzes.{nl}Se iluminar apenas uma, irá perde sua luz rapidamente,{nl}mas iluminando todas as quatro manterá o poder do altar.{nl}
 QUEST_LV_0100_20151102_010655	Tenha certeza de iluminar todas antes que se apaguem.
@@ -10663,7 +10663,7 @@ QUEST_LV_0100_20151102_010658	Agora, a única coisa que resta a fazer é destrui
 QUEST_LV_0100_20151102_010659	A torre está repleta de energia maliciosa.{nl}Nem mesmo você pode tocá-la sem precauções.{nl}
 QUEST_LV_0100_20151102_010660	As corujas voltaram a si. E desejam emprestar seus poderes a você.{nl}Pequenos, mas quando unidos, são fortes o suficiente para {nl}afastar a força maliciosa que a torre contém.
 QUEST_LV_0100_20151102_010661	Fale com as corujas que você encontrou no caminho até aqui,{nl}elas querem te agradecer pessoalmente.{nl}
-QUEST_LV_0100_20151102_010662	Explique a situação para eles, e com certeza irão emprestar seu poder.
+QUEST_LV_0100_20151102_010662	Explique a situação para elas, e com certeza irão emprestar seu poder.
 QUEST_LV_0100_20151102_010663	Depois de reunir os poderes das corujas, volte para mim.{nl}Eu irei combiná-los.
 QUEST_LV_0100_20151102_010664	Alguma das corujas disse algo rude??{nl}Todas estão profundamente gratas pelo que você fez.{nl}
 QUEST_LV_0100_20151102_010665	Agora, eu vou combinar seus poderes com os meus e transformá-los em um só.
@@ -10700,7 +10700,7 @@ QUEST_LV_0100_20151102_010695	Os fracos não serão capazes de suportar o incrí
 QUEST_LV_0100_20151102_010696	A Coruja Líder deve confiar muito em você, vendo que te enviou.
 QUEST_LV_0100_20151102_010697	O galho está preenchido de energia?{nl}Vamos transforma lo no Namott of Suppression.
 QUEST_LV_0100_20151102_010698	O Namott está completo, mas...{nl}Não estou confiante que sera o bastante para derrotar os demônios.{nl}
-QUEST_LV_0100_20151102_010699	Eu mesmo não sei oque a Coruja Líder estava pensando.{nl}Eu também perdi quase todo meu poder, eu não consigo te ajudar.
+QUEST_LV_0100_20151102_010699	Eu mesmo não sei o que a Coruja Líder estava pensando.{nl}Eu também perdi quase todo meu poder, eu não consigo te ajudar.
 QUEST_LV_0100_20151102_010700	Existe quem possa te ajudar em sua missão?{nl}O que está esperando? Vá descobrir o plano.{nl}
 QUEST_LV_0100_20151102_010701	Talvez, você não precisa ir no final das contas.
 QUEST_LV_0100_20151102_010702	É uma bênção que esse Mardas esteja nos ajudando. Mas a historia que Mardas contou é{nl}uma bem depressiva.{nl}De certa forma, somos responsáveis por tal atrocidade. Me sinto culpado.
