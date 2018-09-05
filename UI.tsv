@@ -996,7 +996,7 @@ UI_20150317_000995	{@St41b}Sair do Jogo{/}
 UI_20150317_000996	{@St59}Sair do Tree of Savior{/}
 UI_20150317_000997	{@st41b}Selecione o Canal{/}
 UI_20150317_000998	{@st43}Entrar{/}
-UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v8.8{/}
+UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v8.9{/}
 UI_20150317_001000	{@St43}{s26}Nome do Time{/}
 UI_20150317_001001	{@st59}Nome do Time{/}
 UI_20150317_001002	{@st41b}Mudar nome do time{/}
@@ -3344,34 +3344,34 @@ UI_20180629_003343	{@st59}Displays current fps.{/}
 UI_20180629_003344	{@st66b}Premium{/}
 UI_20180629_003345	{@st66b}Cosmético{/}
 UI_20180629_003346	{@st43}Entrar no Beauty Shop{/}
-UI_20180629_003347	{s14}Beauty Shop Test
-UI_20180629_003348	Fixed Camera
-UI_20180629_003349	Cancel Fixed Camera
-UI_20180629_003350	Open Hair Shop (F)
-UI_20180629_003351	Open Hair Shop (M)
-UI_20180629_003352	Hair Shop List (F)
-UI_20180629_003353	Hair Shop List (M)
-UI_20180629_003354	Equip Preview_ALL
-UI_20180629_003355	Equip Preview_Hair
-UI_20180629_003356	Equip Preview_Costume
-UI_20180629_003357	Open Costume Shop (F)
-UI_20180629_003358	Open Costume Shop (M)
-UI_20180629_003359	Costume Shop List (F)
-UI_20180629_003360	Costume Shop List (M)
-UI_20180629_003361	Open Simple List
-UI_20180629_003362	Simple List Item Settings
-UI_20180629_003363	Open Wig Shop (F)
-UI_20180629_003364	Open Wig Shop (M)
-UI_20180629_003365	Wig Shop List (F)
-UI_20180629_003366	Wig Shop List (M)
-UI_20180629_003367	Open Others
-UI_20180629_003368	Others List
-UI_20180629_003369	Purchase Test
+UI_20180629_003347	{s14}Beauty Shop Teste
+UI_20180629_003348	Câmera Fixa
+UI_20180629_003349	Cancelar Câmera Fixa
+UI_20180629_003350	Abrir Loja de Cabelos (F)
+UI_20180629_003351	Abrir Loja de Cabelos (M)
+UI_20180629_003352	Loja de Cabelos - Lista (F)
+UI_20180629_003353	Loja de Cabelos - Lista (M)
+UI_20180629_003354	Equipar Visualizar_TODOS
+UI_20180629_003355	Equipar Visualizar_CABELO
+UI_20180629_003356	Equipar Visualizar_VISUAL
+UI_20180629_003357	Abrir Loja de Visuais (F)
+UI_20180629_003358	Abrir Loja de Visuais (M)
+UI_20180629_003359	Loja de Visuais - Lista (F)
+UI_20180629_003360	Loja de Visuais - Lista (M)
+UI_20180629_003361	Abrir Lista Simples
+UI_20180629_003362	Config simples de lista
+UI_20180629_003363	Abrir Loja de Perucas (F)
+UI_20180629_003364	Abrir Loja de Perucas (M)
+UI_20180629_003365	Loja de Perucas - Lista (F)
+UI_20180629_003366	Loja de Perucas - Lista (M)
+UI_20180629_003367	Abrir outros
+UI_20180629_003368	Lista de Outros
+UI_20180629_003369	Teste de Compra
 UI_20180629_003370	{@st66}{nl}Apagar Char
 UI_20180629_003371	{@st66}{nl}Mover Lodge
 UI_20180629_003372	{@st66}{nl}Novo Personagem
 UI_20180629_003373	Não é possível alterar a aparência
-UI_20180629_003374	Basic{/}
+UI_20180629_003374	Básico{/}
 UI_20180629_003375	{#003997}{b}Estágio Completo: %s
 UI_20180629_003376	{ol}Add ao Carro
 UI_20180629_003377	Current Items
@@ -3379,9 +3379,104 @@ UI_20180629_003378	{@st41b}{S16}%s% Cupom de Desconto
 UI_20180629_003379	{@st41b}{s16}{nl}Trocar
 UI_20180704_003380	Por favor registre um Material de Aparência ou itens equivalentes.
 UI_20180723_003381	{@st42}{s20}Prêmios da Vitória
-UI_20180723_003382	Seizing Date
-UI_20180723_003383	Victory Rewards
-UI_20180723_003384	ⓘ Victory rewards are applied 1 hour after the end of each GTW session.{nl}ⓘ Only the Guild Master can retrieve these rewards. The items are sent to your Guild Storage.
+UI_20180723_003382	Data da Captura
+UI_20180723_003383	Recompensas
+UI_20180723_003384	> As recompensas de vitória são aplicadas 1 hora após o final de cada sessão GTW. {Nl} > Apenas o Mestre da Guilda pode retirar essas recompensas. Os itens são enviados para o seu Armazenamento da Guilda.
 UI_20180723_003385	{@st41b}{s16}Prêmios da Vitória
 UI_20180723_003386	{@st42}{s16}Receber
 UI_20180809_003387	{@st41b}Abrir Voucher
+UI_20180827_003388	{@st59}Mensagens do Sistema{/}	{@st59}시스템 메시지{/}			
+UI_20180827_003389	{@st59}Mensagens de Combate{/}	{@st59}전투 메시지{/}			
+UI_20180827_003390	{@st42}{s18}Configurar Chat	
+UI_20180827_003391	Tela	화면			
+UI_20180827_003392	Ver Alertas de Login	접속 알림 표시			
+UI_20180827_003393	Config. Mensagens de Combate	전투 메시지 설정			
+UI_20180827_003394	Dano Recebido	입은 피해			
+UI_20180827_003395	Dano Causado	가한 피해			
+UI_20180827_003396	Uso de Skill
+UI_20180827_003397	Morte/respawn	사망/부활			
+UI_20180827_003398	Morte do Grupo/respawn	파티원의 사망/부활			
+UI_20180827_003399	Max. nível de personagem	최고 캐릭터 레벨			
+UI_20180827_003400	{@st59}Solicite novamente os dados do slot rápido.{/}	{@st59}퀵슬롯 정보를 다시 요청합니다.{/}			
+UI_20180827_003401	{@st66b18}Receber	{@st66b18}완료			
+UI_20180827_003402	{@st66b18}Vender	{@st66b18}판매			
+UI_20180827_003403	{@st66b18}Comprar	{@st66b18}구매			
+UI_20180827_003404	{@st66b}{s18}Categoria	{@st66b}{s18}카테고리			
+UI_20180827_003405	{@st66b}{s18}Nome{/}	{@st66b}{s18}이름{/}			
+UI_20180827_003406	{@st66b}{s18}Level{/}	{@st66b}{s18}레벨{/}			
+UI_20180827_003407	{@st66b}{s18}Preço{/}	{@st66b}{s18}단가{/}			
+UI_20180827_003408	{@st66b}{s18}Quantidade{/}	{@st66b}{s18}구매 개수{/}			
+UI_20180827_003409	{@st66b}{s18}Valor total{/}	{@st66b}{s18}총 금액{/}			
+UI_20180827_003410	{@st66b}{s18}Stats{/}	{@st66b}{s18}능력치{/}			
+UI_20180827_003411	{@st66b}{s18}Sockets{/}	{@st66b}{s18}소켓{/}			
+UI_20180827_003412	{@st66b}{s18}Potencial{/}	{@st66b}{s18}포텐셜{/}			
+UI_20180827_003413	{@st66b}{s18}Quantidade{/}	{@st66b}{s18}금액{/}			
+UI_20180827_003414	{@st66b}{s18}Enchant Stats{/}	{@st66b}{s18}인챈트 옵션{/}			
+UI_20180827_003415	{@st66b}{s18}Roasting Level{/}	{@st66b}{s18}로스팅 레벨{/}			
+UI_20180827_003416	{@st66b}{s18}EXP{/}
+UI_20180827_003417	{@st66b}{s18}Quantidade{/}
+UI_20180827_003418	{@st66b}{s18}Materiais{/}
+UI_20180827_003419	{@st43b}{s18}Detalhes{/}
+UI_20180827_003420	{@st66b}{s18}Valor total{/}
+UI_20180827_003421	{@st66b}{s18}Período de Espera{/}
+UI_20180827_003422	{@st66b}{s18}Status{/}	{@st66b}{s18}상태{/}			
+UI_20180827_003423	Receber {#002d93}%s Silver{/}{/} pela venda do {#8e0000}[%s%s]{/}{/} {#8e0000}x[%s]{/}{/}?	
+UI_20180827_003424	{@st41b}Receber	{@st41b}받기			
+UI_20180827_003425	Retirar {#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}?	
+UI_20180827_003426	Retirar Todos?
+UI_20180827_003427	{@st41b}Lista de Itens			
+UI_20180827_003428	Por favor, registre um item.	
+UI_20180827_003429	{@st66d}Registrar Item	
+UI_20180827_003430	{@st66b}Preço Máx.{img green_up_arrow 12 12}{/}	
+UI_20180827_003431	{@st66b}Preço Min.{img red_down_arrow 12 12}{/}	
+UI_20180827_003432	{@st66b}Menor Preço{/}		
+UI_20180827_003433	{@st66b}{s14}(%s Silver por unidade)		
+UI_20180827_003434	{@st66}Taxa de Registro:	
+UI_20180827_003435	{@st66}Preço Total:		
+UI_20180827_003436	{@st66}Taxas de Mercado: 
+UI_20180827_003437	{@st66}Quantidade final: 	
+UI_20180827_003438	{@st66}%s Dia(s): %s% do preço do item
+UI_20180827_003439	{@st66}{s14}Silver obtido da venda de itens (exceto Tokens){nl} podem ser recuperados do mercado após 48 horas.{/}
+UI_20180827_003440	{@st66b}{s18}Custos{/}
+UI_20180827_003441	{@st66b}{s18}Tempo Restante{/}
+UI_20180827_003442	{ds}{b}{#ffefd6}30 min: {#fe7e00}100 PONTOS
+UI_20180827_003443	Compras (%s/%s){/}
+UI_20180827_003444	{@st42}{s20}Especial %s	
+UI_20180827_003445	{@st66b}Recompensas especiais entregues ao seu inventário.
+UI_20180827_003446	{@st42b}{s16}Receber{/}
+UI_20180827_003447	{@st42b}{s16}Cancelar{/}
+UI_20180827_003448	{@st42}{s22}Pontos Popo
+UI_20180827_003449	{@st59}Recupere os itens novamente.{/}
+UI_20180827_003450	{img test_cooltime 25 25}{s18}Pontos redefinidos em %s dia(s), %s hora(s), %s minuto(s).
+UI_20180827_003451	{@st66b}Principal{/}
+UI_20180827_003452	{@st66b}Point Shop{/}
+UI_20180827_003453	{@st66b}Aluguel de Equips PP{/}
+UI_20180827_003454	{@st66b}Informação{/}
+UI_20180827_003455	{s14}※ Você pode acumular um máximo de 20.000 pontos, que são redefinidos a cada 3 meses (Jan, Abr, Jul e 1 de Outubro às 06:00, horário do servidor).	{s14}※최대 20000포인트까지 누적되며, 매 분기(1,4,7,10월 1일 06시)마다 초기화 됩니다.			
+UI_20180827_003456	{s14}{@st42}Pontos de Hoje: %s	
+UI_20180827_003457	Recompensas de Login
+UI_20180827_003458	{s14}{@st42}Tempo total de Login: %s hr %s min
+UI_20180827_003459	Sem eventos em andamento.	진행중인 이벤트가 없습니다			
+UI_20180827_003460	{@st66b}   Regular{/}
+UI_20180827_003461	{@st66b}   Rotacional{/}
+UI_20180827_003462	{@st66b}   Evento{/}	{@st66b}   이벤트 상품{/}			
+UI_20180827_003463	Itens Disponíveis
+UI_20180827_003464	※ Produtos atualizados a cada 3 meses (1º dia de Janeiro, Abril, Julho e Outubro).	
+UI_20180827_003465	{@st66b}   Armas{/}	{@st66b}   무기{/}			
+UI_20180827_003466	{@st66b}   Armadura{/}	{@st66b}   방어구{/}			
+UI_20180827_003467	Itens para locação
+UI_20180827_003468	Termos e Condições			
+UI_20180827_003469	{s18}Cronômetro da tela principal
+UI_20180827_003470	{@st66b}Reverb ON/OFF{/}	{@st66b}잔향효과 ON/OFF{/}			
+UI_20180827_003471	{@st59}Aplicar Reverb.{/}	{@st59}잔향효과를 적용하려면 체크해 주세요.{/}			
+UI_20180827_003472	{@st66b}Ver Animação no Login
+UI_20180827_003473	 Usar item?
+UI_20180827_003474	Ele será removido de %s e aplicado apenas a %s.{/}	
+UI_20180827_003475	Ver ilustrações de itens	움직이는 일러스트 켜기			
+UI_20180827_003476	{@st41b}Comprar{/}
+UI_20180827_003477	Search crafting materials.	제작서에 필요한 재료를 검색합니다.			
+UI_20180827_003478	{#002d93}%s Silver{/}{/} de {#8e0000}[%s%s]{/}{/} {#8e0000}x[%s]{/}{/}	{#8e0000}[%s%s]{/}{/}아이템 {#8e0000}[%s개]{/}{/}의{nl}수령금액 {#002d93}%s실버{/}{/}			
+UI_20180827_003479	{#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}	{#8e0000}[%s%s]{/}
+UI_20180827_003480	1 dia, 23 horas		
+UI_20180827_003481	Não-Trocável
+UI_20180827_003482	{@st42b}{s16}Preview{/}

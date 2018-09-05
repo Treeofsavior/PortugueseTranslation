@@ -19070,60 +19070,616 @@ ITEM_20180730_019056	Fireworks
 ITEM_20180730_019057	Grants movement speed +2, AoE attack ratio +1 and EXP gains +25% for 30 minutes. Will be automatically deleted at the end of the event.
 ITEM_20180809_019058	Red Hair Bow
 ITEM_20180809_019059	Big Red Hair Bow
-ITEM_20180809_019060	Shining Silver Ichor Extraction Kit
-ITEM_20180828_019061	Ebony Rook Costume (M)	에보니 룩 코스튬(남)
-ITEM_20180828_019062	A costume invoking the daring, boyish spirit of the rook. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 룩을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019063	Ivory Pawn Costume (F)	아이보리 폰 코스튬(여)
-ITEM_20180828_019064	For valiant pawns, there's nowhere to go but forward. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 폰을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019065	Ivory Bishop Costume (M)	아이보리 비숍 코스튬(남)
-ITEM_20180828_019066	The bishop's solemn nature is well represented in the design of this costume. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 비숍을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019067	Ebony Knight Costume (F)	에보니 나이트 코스튬(여)
-ITEM_20180828_019068	A costume that accentuates the majestic poise of the knight. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 나이트를 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019069	Ebony King Costume (M)	에보니 킹 코스튬(남)
-ITEM_20180828_019070	Cautious but unafraid, the king makes his move. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 킹을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019071	Ivory Queen Costume (F)	아이보리 퀸 코스튬(여)
-ITEM_20180828_019072	All hail the true ruler of the chessboard. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 퀸을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019073	Ebony King Crown	에보니 킹 크라운
-ITEM_20180828_019074	A king cannot be complete without his crown.{nl}Can be exchanged for medals at the Exchange Shop.	체스에서 가장 중요한 킹을 활용한 왕관입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019075	Ivory Queen Crown	아이보리 퀸 크라운
-ITEM_20180828_019076	The elevated crown denotes the queen's power and status.{nl}Can be exchanged for medals at the Exchange Shop.	체스에서 가장 강력한 퀸을 활용한 왕관입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019077	Bishop Fedora	비숍 페도라
-ITEM_20180828_019078	A unique fedora designed around the chess bishop motif.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말인 비숍을 장식으로 사용한 페도라입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019079	Ebony Knight	에보니 나이트
-ITEM_20180828_019080	Turn yourself into an impressive human chess piece with this accessory.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말인 나이트를 그대로 본뜬 헤어 액세서리입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019081	Knight Galea	나이트 갈레아
-ITEM_20180828_019082	A helmet accessory made to look like the armor worn by ancient knights.{nl}Can be exchanged for medals at the Exchange Shop.	전쟁터에 나가는 기사들의 말을 형상화한 투구입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019083	Chessboard	체스판
-ITEM_20180828_019084	The chessboard is much more than part of game; it is a true battlefield.{nl}Can be exchanged for medals at the Exchange Shop.	체스판은 단순한 격나무늬판이지만, 킹 즉 왕국을 지키는 전쟁을 하는 전쟁터와 같습니다.{nl}이러한 체스판을 활용한 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019085	Ebony Rook	에보니 룩
-ITEM_20180828_019086	Turn yourself into an impressive human chess piece with this accessory.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말인 룩을 그대로 본뜬 헤어 액세서리입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019087	This exquisite hair accessory is what experts refer to as a "bow". Impressive, isn't it?{nl}Can be exchanged for medals at the Exchange Shop.	머리에 착용하는 큰 리본 장식입니다. 머나먼 이국에서는 이러한 리본 장식을 헤어 보우 혹은 보우라 부릅니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019088	This exquisite hair accessory is what experts refer to as a "bow". This one in particular is a rather large specimen.{nl}Can be exchanged for medals at the Exchange Shop.	머리에 착용하는 매우 큰 리본 장식입니다. 머나먼 이국에서는 이러한 리본 장식을 헤어 보우 혹은 보우라 부릅니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20180828_019089	Chess Timer	체스 타이머
-ITEM_20180828_019090	Tic, toc, tic, toc. I'm a chess timer.{nl}Cooldown 5 sec.{nl}Time will not wait for you...	똑딱똑딱. 체스 타이머입니다.{nl}재사용 대기 시간 5초{nl}시간은 우리를 기다려 주지 않아..
-ITEM_20180828_019091	Ivory Pawn Two-handed Mace	아이보리 폰 투 핸드 메이스
-ITEM_20180828_019092	Two-handed Blunt [Visual{img barbershop_scissors_pic 19 14}]	양손둔기[외형 변경 전용]
-ITEM_20180828_019093	Ivory Rook Two-handed Mace	에보니 룩 투 핸드 메이스
-ITEM_20180828_019094	Bishop Rapier	비숍 레이피어
-ITEM_20180828_019095	Rapier [Visual{img barbershop_scissors_pic 19 14}]	레이피어[외형 변경 전용]
-ITEM_20180828_019096	Bishop Sword	비숍 소드
-ITEM_20180828_019097	One-handed Sword [Visual{img barbershop_scissors_pic 19 14}]	한손검[외형 변경 전용]
-ITEM_20180828_019098	Knight Sword	나이트 소드
-ITEM_20180828_019099	Knight Rapier	나이트 레이피어
-ITEM_20180828_019100	Ivory Queen Two-handed Sword	아이보리 퀸 투 핸드 소드
-ITEM_20180828_019101	Two-handed Sword [Visual{img barbershop_scissors_pic 19 14}]	양손검[외형 변경 전용]
-ITEM_20180828_019102	Ebony King Two-handed Sword	에보니 킹 투 핸드 소드
-ITEM_20180828_019103	Knight Mace	나이트 메이스
-ITEM_20180828_019104	One-handed Blunt [Visual{img barbershop_scissors_pic 19 14}]	한손둔기[외형 변경 전용]
-ITEM_20180828_019105	Bishop Mace	비숍 메이스
-ITEM_20180828_019106	Ebony King Rod	에보니 킹 로드
-ITEM_20180828_019107	Ivory Queen Rod	아이보리 퀸 로드
-ITEM_20180828_019108	Ebony King Staff	에보니 킹 스태프
-ITEM_20180828_019109	Ivory Queen Staff	아이보리 퀸 스태프
-ITEM_20180828_019110	Chessboard Shield	체스보드 실드
-ITEM_20180828_019111	Shield [Visual{img barbershop_scissors_pic 19 14}]	방패[외형 변경 전용]
-ITEM_20180828_019112	Bishop Bow	비숍 보우
-ITEM_20180828_019113	Bow [Visual{img barbershop_scissors_pic 19 14}]	활[외형 변경 전용]
-ITEM_20180828_019114	Knight Bow	나이트 보우
-ITEM_20180828_019115	Checkmate Popup Book	체크메이트 팝업북
-ITEM_20180828_019116	Event souvenir.	[Summer Festa] 이벤트 기념 아이템 입니다.
+ITEM_20180809_019060	Shining Silver Ichor Extraction Kit		
+ITEM_20180827_019061	Astral Tower Hero Armband	별의 탑 영웅 암밴드			
+ITEM_20180827_019062	An armband given to Astral Tower event participants.	별의 탑을 향하여 이벤트 참여자에게 지급되는 암밴드입니다.			
+ITEM_20180827_019063	Zvaigzde Sword	즈바이더 소드			
+ITEM_20180827_019064	This piece of equipment disappeared along with Nicopolis at the time of the experiment. Then, with the influence of Medzio Diena, it somehow found its way back into our world. It is said to have reappeared near the Starlit Lake because of the magic rituals Pbeta executed in order to defeat Solcomm there. 	이 장비는 니코폴리스가 마법 실험으로 사라졌을 때 함께 사라졌습니다. 그런데 신수의 날이 세상에 영향을 끼치자 우리 세계로 돌아오기 시작했습니다. 니코폴리스가 사라질 당시 유통되던 지역에서 다시 나타나는데 별깃든 호수 지역에 나타나는 이유는 프베타가 솔콤을 몰아내면서 행한 마법의식에 이끌렸기 때문이라고 합니다. 			
+ITEM_20180827_019065	Berthas Zvaigzde Sword	베르타스 즈바이더 소드			
+ITEM_20180827_019066	Primus Zvaigzde Sword	프리머스 즈바이더 소드			
+ITEM_20180827_019067	One of the reasons why the Owyn family is active in the region of Nicopolis is the strange reappearance of old weapons that were thought to have vanished along with the city. After studying the returned weapons, Owynia Dilben sought the help of the Bullet Marker Master to produce new copies of the equipment. Curiously, however, until they gain a proper owner, the newly-created weapons seem to disappear and reappear at random times.	오윈 딜벤이 니코폴리스에 일족의 사람을 파견한 이유는 여러가지이지만, 그 중 하나는 니코폴리스가 사라졌을 때 같이 사라진 장비들이 우리 세상으로 돌아오는 현상입니다. 오위니아 딜벤은 받은 임무로 만족하지 않고 돌아온 무기들을 연구한 후, 이 일에 불릿 마커 마스터를 끌어들여 그가 새로운 무기를 만들어내는 데 일조하였습니다. 다만 한 가지 문제가 있는데 이렇게 만들어진 무기는 진정한 주인을 만나기 전에는 제 맘대로 나타났다가 사라집니다			
+ITEM_20180827_019068	Zvaigzde Two-handed Sword	즈바이더 투 핸드 소드			
+ITEM_20180827_019069	Berthas Zvaigzde Two-handed Sword	베르타스 즈바이더 투 핸드 소드			
+ITEM_20180827_019070	Primus Zvaigzde Two-handed Sword	프리머스 즈바이더 투 핸드 소드			
+ITEM_20180827_019071	One of the reasons why the Owyn family is active in the region of Nicopolis is the strange reappearance of old weapons that were thought to have vanished along with the city. After studying the returned weapons, Owynia Dilben sought the help of the Bullet Marker Master to produce new copies of the equipment. Curiously, however, until they gain a proper owner, the newly-created weapons seem to disappear and reappear at random times. 	오윈 딜벤이 니코폴리스에 일족의 사람을 파견한 이유는 여러가지이지만, 그 중 하나는 니코폴리스가 사라졌을 때 같이 사라진 장비들이 우리 세상으로 돌아오는 현상입니다. 오위니아 딜벤은 받은 임무로 만족하지 않고 돌아온 무기들을 연구한 후, 이 일에 불릿 마커 마스터를 끌어들여 그가 새로운 무기를 만들어내는 데 일조하였습니다. 다만 한 가지 문제가 있는데 이렇게 만들어진 무기는 진정한 주인을 만나기 전에는 제 맘대로 나타났다가 사라집니다 			
+ITEM_20180827_019072	Zvaigzde Rod	즈바이더 로드			
+ITEM_20180827_019073	 - Grants 5% chance per attack of applying additional Fire property damage equal to 16% of your minimum magic attack every second for 10 seconds.	 - 공격 시 5% 확률로 적에게 10초간 1초당 최소 마법 공격력의 16%의 불 속성 추가 대미지 주는 효과가 발생합니다.	ITEM_20170420_014226	 - 5% chance to inflict [Burn] on an enemy for 10 seconds, with each second dealing damage equal to 60% of your magic attack	 - 공격 시 5% 확률로 적에게 10초간 1초당 최소 마법 공격력의 16%의 대미지를 주는 화염 효과 발생
+ITEM_20180827_019074	Berthas Zvaigzde Rod	베르타스 즈바이더 로드			
+ITEM_20180827_019075	Primus Zvaigzde Rod	프리머스 즈바이더 로드			
+ITEM_20180827_019076	Zvaigzde Bow	즈바이더 보우			
+ITEM_20180827_019077	Berthas Zvaigzde Bow	베르타스 즈바이더 보우			
+ITEM_20180827_019078	Primus Zvaigzde Bow	프리머스 즈바이더 보우			
+ITEM_20180827_019079	Zvaigzde Crossbow	즈바이더 크로스보우			
+ITEM_20180827_019080	Berthas Zvaigzde Crossbow	베르타스 즈바이더 크로스보우			
+ITEM_20180827_019081	Primus Zvaigzde Crossbow	프리머스 즈바이더 크로스보우			
+ITEM_20180827_019082	Zvaigzde Mace	즈바이더 메이스			
+ITEM_20180827_019083	Berthas Zvaigzde Mace	베르타스 즈바이더 메이스			
+ITEM_20180827_019084	Primus Zvaigzde Mace	프리머스 즈바이더 메이스			
+ITEM_20180827_019085	Zvaigzde Two-handed Mace	즈바이더 투 핸드 메이스			
+ITEM_20180827_019086	Berthas Zvaigzde Two-handed Mace	베르타스 즈바이더 투 핸드 메이스			
+ITEM_20180827_019087	Primus Zvaigzde Two-handed Mace	프리머스 즈바이더 투 핸드 메이스			
+ITEM_20180827_019088	Zvaigzde Shield	즈바이더 실드			
+ITEM_20180827_019089	 - Final block rate {img green_up_arrow 16 16}2.75%	 - 최종블럭률 {img green_up_arrow 16 16}2.75%	ITEM_20161214_012994	 - Final Block Rate {img green_up_arrow 16 16}3%	 - 최종블럭률 {img green_up_arrow 16 16}3%
+ITEM_20180827_019090	 - Final block rate {img green_up_arrow 16 16}1%{nl}- 1% chance to regenerate 40 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1%{nl} - 피격 시 1% 확률로 5초 동안 1초 간격으로 HP 40회복	ITEM_20170420_014279	 - Final Block Rate {img green_up_arrow 16 16}1%{nl}  - 1% chance to regenerate 40 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1% {nl} - 피격 시 1% 확률로 5초 동안 1초 간격으로 HP 40회복 효과 발생
+ITEM_20180827_019091	Berthas Zvaigzde Shield	베르타스 즈바이더 실드			
+ITEM_20180827_019092	Primus Zvaigzde Shield	프리머스 즈바이더 실드			
+ITEM_20180827_019093	Zvaigzde Spear	즈바이더 스피어			
+ITEM_20180827_019094	Berthas Zvaigzde Spear	베르타스 즈바이더 스피어			
+ITEM_20180827_019095	Primus Zvaigzde Spear	프리머스 즈바이더 스피어			
+ITEM_20180827_019096	Zvaigzde Pike	즈바이더 파이크			
+ITEM_20180827_019097	Berthas Zvaigzde Pike	베르타스 즈바이더 파이크			
+ITEM_20180827_019098	Primus Zvaigzde Pike	프리머스 즈바이더 파이크			
+ITEM_20180827_019099	Zvaigzde Dagger	즈바이더 대거			
+ITEM_20180827_019100	Berthas Zvaigzde Dagger	베르타스 즈바이더 대거			
+ITEM_20180827_019101	Primus Zvaigzde Dagger	프리머스 즈바이더 대거			
+ITEM_20180827_019102	Zvaigzde Staff	즈바이더 스태프			
+ITEM_20180827_019103	Berthas Zvaigzde Staff	베르타스 즈바이더 스태프			
+ITEM_20180827_019104	Primus Zvaigzde Staff	프리머스 즈바이더 스태프			
+ITEM_20180827_019105	Zvaigzde Pistol	즈바이더 피스톨			
+ITEM_20180827_019106	Berthas Zvaigzde Pistol	베르타스 즈바이더 피스톨			
+ITEM_20180827_019107	Primus Zvaigzde Pistol	프리머스 즈바이더 피스톨			
+ITEM_20180827_019108	Zvaigzde Rapier	즈바이더 레이피어			
+ITEM_20180827_019109	Berthas Zvaigzde Rapier	베르타스 즈바이더 레이피어			
+ITEM_20180827_019110	Primus Zvaigzde Rapier	프리머스 즈바이더 레이피어			
+ITEM_20180827_019111	Zvaigzde Cannon	즈바이더 캐논			
+ITEM_20180827_019112	Berthas Zvaigzde Cannon	베르타스 즈바이더 캐논			
+ITEM_20180827_019113	Primus Zvaigzde Cannon	프리머스 즈바이더 캐논			
+ITEM_20180827_019114	Zvaigzde Musket	즈바이더 머스킷			
+ITEM_20180827_019115	Berthas Zvaigzde Musket	베르타스 즈바이더 머스킷			
+ITEM_20180827_019116	Primus Zvaigzde Musket	프리머스 즈바이더 머스킷			
+ITEM_20180827_019117	Planeta Robe	플라네타 로브			
+ITEM_20180827_019118	Among the old Nicopolis items that have reappeared after Medzio Diena, many are weapons, but armor items are relatively rare. There is no telling where the people who wore these items disappeared to, but some seem to have left behind their clothing.	니코폴리스에서 사라졌다 수백 년 만에 돌아온 장비 중에 무기류는 새 것인 경우가 많지만, 의류는 그렇지 않은 경우가 많습니다. 이들 장비를 입고 있던 사람들은 어디로 갔는지 알 수 없는데 그들이 남긴 옷만이 돌아온 셈입니다.			
+ITEM_20180827_019119	Ukas Leather Armor	우카스 레더 아머			
+ITEM_20180827_019120	Among the old Nicopolis items that have reappeared after Medzio Diena, many are weapons, but armor items are relatively rare. There is no telling where the people who wore these items disappeared to, but some seem to have left behind their clothing. 	니코폴리스에서 사라졌다 수백 년 만에 돌아온 장비 중에 무기류는 새 것인 경우가 많지만, 의류는 그렇지 않은 경우가 많습니다. 이들 장비를 입고 있던 사람들은 어디로 갔는지 알 수 없는데 그들이 남긴 옷만이 돌아온 셈입니다. 			
+ITEM_20180827_019121	Galaktikos Plate Armor	갈라티카 플레이트 아머			
+ITEM_20180827_019122	Berthas Planeta Robe	베르타스 플라네타 로브			
+ITEM_20180827_019123	Berthas Ukas Leather Armor	베르타스 우카스 레더 아머			
+ITEM_20180827_019124	Berthas Galaktikos Plate Armor	베르타스 갈라티카 플레이트 아머			
+ITEM_20180827_019125	Primus Planeta Robe	프리머스 플라네타 로브			
+ITEM_20180827_019126	Primus Ukas Leather Armor	프리머스 우카스 레더 아머			
+ITEM_20180827_019127	Primus Galaktikos Plate Armor	프리머스 갈라티카 플레이트 아머			
+ITEM_20180827_019128	Planeta Pants	플라네타 팬츠			
+ITEM_20180827_019129	Ukas Leather Pants	우카스 레더 팬츠			
+ITEM_20180827_019130	Galaktikos Plate Pants	갈라티카 플레이트 팬츠			
+ITEM_20180827_019131	Berthas Planeta Pants	베르타스 플라네타 팬츠			
+ITEM_20180827_019132	Berthas Ukas Leather Pants	베르타스 우카스 레더 팬츠			
+ITEM_20180827_019133	Berthas Galaktikos Plate Pants	베르타스 갈라티카 플레이트 팬츠			
+ITEM_20180827_019134	Primus Planeta Pants	프리머스 플라네타 팬츠			
+ITEM_20180827_019135	Primus Ukas Leather Pants	프리머스 우카스 레더 팬츠			
+ITEM_20180827_019136	Primus Galaktikos Plate Pants	프리머스 갈라티카 플레이트 팬츠			
+ITEM_20180827_019137	Planeta Boots	플라네타 부츠			
+ITEM_20180827_019138	Ukas Leather Boots	우카스 레더 부츠			
+ITEM_20180827_019139	Galaktikos Greaves	갈라티카 그리브			
+ITEM_20180827_019140	Sausis Leather Boots	사우시스 레더 부츠	ITEM_20180517_018313	Sausis Leather Boots	사우시스의 레더 부츠
+ITEM_20180827_019141	Berthas Planeta Boots	베르타스 플라네타 부츠			
+ITEM_20180827_019142	Berthas Ukas Leather Boots	베르타스 우카스 레더 부츠			
+ITEM_20180827_019143	Berthas Galaktikos Greaves	베르타스 갈라티카 그리브			
+ITEM_20180827_019144	Primus Planeta Boots	프리머스 플라네타 부츠			
+ITEM_20180827_019145	Primus Ukas Leather Boots	프리머스 우카스 레더 부츠			
+ITEM_20180827_019146	Primus Galaktikos Greaves	프리머스 갈라티카 그리브			
+ITEM_20180827_019147	Planeta Gloves	플라네타 글로브			
+ITEM_20180827_019148	Ukas Leather Gloves	우카스 레더 글로브			
+ITEM_20180827_019149	Galaktikos Gauntlets	갈라티카 건틀릿			
+ITEM_20180827_019150	Berthas Planeta Gloves	베르타스 플라네타 글로브			
+ITEM_20180827_019151	Berthas Ukas Leather Gloves	베르타스 우카스 레더 글로브			
+ITEM_20180827_019152	Berthas Galaktikos Gauntlets	베르타스 갈라티카 건틀릿			
+ITEM_20180827_019153	Sausis Gloves	사우시스 글로브			
+ITEM_20180827_019154	- 10% chance of inflicting the Curse of Sausis debuff.{nl}Cooldown 10 sec{nl}{nl}Curse of Sausis{nl}- Reduces the target's movement speed by 10 and critical resistance by 100.	- 10%확률로 사우시스 저주 디버프를 부여합니다.{nl} 재사용 대기시간: 10초 {nl} {nl}사우시스의 저주 {nl} - 저주에 걸릴 경우 이동속도 10, 치명타 저항 100이 감소합니다.			
+ITEM_20180827_019155	This style of gloves is thought to have been worn by Sausis. His frost powers are known to be virtually insuperable.	사우시스가 사용하던 것으로 추정되는 장갑입니다. 그의 냉기는 쉽게 범접 할 수 없다고 알려져 있습니다.			
+ITEM_20180827_019156	Primus Planeta Gloves	프리머스 플라네타 글로브			
+ITEM_20180827_019157	Primus Ukas Leather Gloves	프리머스 우카스 레더 글로브			
+ITEM_20180827_019158	Primus Galaktikos Gauntlets	프리머스 갈라티카 건틀릿			
+ITEM_20180827_019159	General's Gift	장군의 선물			
+ITEM_20180827_019160	A necklace created by the Class Masters who are working to maintain secrecy in the Astral Tower resistance army. Its magic values have been kept intentionally low, as overly powerful equipment can reveal the social status of both the wearer and the sponsor.	별의 탑 저항군을 지원하기 위헤 비밀리에 뜻을 같이하고 협력한 마스터들이 공을 들여 만든 목걸이입니다. 다만 지나치게 강력한 장비는 제작자와 제작을 후원한 사람들의 신분을 드러낼 우려가 있어서 일부러 마법부여의 수치는 낮추었다고 합니다.			
+ITEM_20180827_019161	Gift of Demise	종말의 선물			
+ITEM_20180827_019162	This necklace has its own name engraved on the back. Many believe that the Linker Master engraved the words in an ambiguous manner so as to both reveal her identity and leave room for speculation.	뒷면에 제작자가 지은 목걸이의 이름이 새겨져 있습니다. 사람들은 링커 마스터가 고의로 목걸이에 새겨진 글자를 애매모호하게 써서 자신을 드러내는 한편 부인할 근거도 마련했다고 생각합니다.			
+ITEM_20180827_019163	Graduation Gift	졸업자의 선물			
+ITEM_20180827_019164	Engraved here as several sets of initials which could be interpreted as the names of current Masters connected to the Astral Tower.	어쩌면 별의 탑과 직간접으로 관련이 있는 현직 마스터들 이름의 약자로 해석할 수도 있는 글자들이 여럿 새겨져 있습니다.			
+ITEM_20180827_019165	Nepagristas Necklace	네파그리스타스 네클리스			
+ITEM_20180827_019166	No one knows for sure who the original owner of this necklace was. According to a famous anecdote, they became frustrated after several failed attempts at tweaking its properties and ultimately decided to sell it.	이 목걸이의 주인이 누구인지는 알지 못하지만, 일화는 유명합니다. 가공에 가공을 거쳐 수많은 돈을 쏟아부었지만 결국 한계를 느끼고 목걸이를 팔았다고 합니다.			
+ITEM_20180827_019167	Nematomas Necklace	네메트마스 네클리스			
+ITEM_20180827_019168	The owner of this necklace attacked their enemy from behind and disappeared without a trace. No one saw who they were, or what they looked like.	이 목걸이의 주인을 본 사람은 아무도 없다고 합니다. 뒤에서 막을 수 없는 공격을 선보이고 사라졌기 때문입니다.			
+ITEM_20180827_019169	Rangovas Necklace	랜고베스 네클리스			
+ITEM_20180827_019170	 - When worn, prevents summons from being knocked back.	 - 착용시 소환수가 넘어지지 않습니다.			
+ITEM_20180827_019171	The summons walked forward, mighty and powerful. The sight was akin to that of an enormous army advancing.	전장의 소환수들은 강건하게 전진했습니다. 그 모습은 마치 거대한 군단이 움직이는 것과 같았다고 합니다.			
+ITEM_20180827_019172	Himil Legacy	히밀의 유산			
+ITEM_20180827_019173	A bracelet left behind by the Himil family at the time they separated from the Schaffenstar. The family later realized their mistake, but being in the possession of the bracelet's recipe, they did not demand to have it returned. It is said that the Schaffenstar themselves were unaware of the bracelet's whereabouts for a long time.	히밀 가문이 샤펜스타에서 독립할 때 미쳐 챙기지 못한 팔찌입니다. 히밀 가문은 나중에 자신들이 빠뜨린 사실을 알았으나 제조법을 알고 있기에 반환 요구를 한 적은 없습니다. 그런데 샤펜스타에서도 오랜 기간 이 팔찌가 어디 있는지 모르고 있었다고 합니다.			
+ITEM_20180827_019174	Schaffen Bracelet Fragment	샤펜의 팔찌 조각			
+ITEM_20180827_019175	Lydia Schaffen used many accessories throughout her lifetime, some of which have since been divided and reconstructed. This bracelet is one of such accessories.	리디아 샤펜은 평생 동안 여러 장신구를 사용하였고, 그 중 일부는 후대에 분해되어 재가공되기도 하였습니다. 이 팔찌도 그 가운데 하나입니다.			
+ITEM_20180827_019176	Heretic's Bracelet	이단자의 팔찌			
+ITEM_20180827_019177	Although they were rare, the Schaffenstar is known to have had its heretics, meaning those who wished to free themselves from the shadow of Lydia Schaffen. These people never managed to make much of an impact, but recently some of their remaining objects were put to use by Elder Adaux.	샤펜스타의 오랜 역사에는 드물긴 하지만 이단자도 존재합니다. 리디아 새펜의 그늘에서 벗어나야 한다고 주장하는 사람들 말입니다. 이런 자들은 반향을 남기지 못하고 사라졌지만, 그들이 남긴 물품은 남아있다가 최근 아다욱스 장로에 의해 사용되었습니다.			
+ITEM_20180827_019178	Nepagristas Bracelet	네파그리스타스 브레이슬릿			
+ITEM_20180827_019179	Be careful not to injure yourself with the sharp metal parts. The identity of the owner of this bracelet remains unknown.	날카로운 철 조각에 찔리지 않도록 조심하세요. 이 브레이슬릿은 주인이 누구인지 알지 못합니다.			
+ITEM_20180827_019180	Nematomas Bracelet	네메트마스 브레이슬릿			
+ITEM_20180827_019181	There is no escape from a powerful attack. One blow is all it takes.	한 번의 강력한 공격 후속 공격은 없습니다. 당신은 막지 못할 테니까요.			
+ITEM_20180827_019182	Rangovas Bracelet	랜고베스 브레이슬릿			
+ITEM_20180827_019183	The owner of this bracelet was fully invested in their summons. The bracelet is a result of their incessant efforts.	브레이슬릿의 주인은 소환수를 너무나 아낀 나머지 자신의 모든 것을 공유하고자 했습니다. 그 결과 이 브레이슬릿이 탄생했습니다.			
+ITEM_20180827_019184	[PP] Black Butler Costume (Male)	[PC방] 블랙 버틀러 코스튬(남)			
+ITEM_20180827_019185	[PP] Black Maid Costume (Female)	[PC방] 블랙 메이드 코스튬(여)			
+ITEM_20180827_019186	Ebony Rook Costume (Male)	에보니 룩 코스튬(남)			
+ITEM_20180827_019187	A costume invoking the daring, boyish spirit of the rook. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 룩을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019188	Ivory Pawn Costume (Female)	아이보리 폰 코스튬(여)			
+ITEM_20180827_019189	For valiant pawns, there's nowhere to go but forward. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 폰을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019190	Ivory Bishop Costume (Male)	아이보리 비숍 코스튬(남)			
+ITEM_20180827_019191	The bishop's solemn nature is well represented in the design of this costume. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 비숍을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019192	Ebony Knight Costume (Female)	에보니 나이트 코스튬(여)			
+ITEM_20180827_019193	A costume that accentuates the majestic poise of the knight. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 나이트를 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019194	Ebony King Costume (Male)	에보니 킹 코스튬(남)			
+ITEM_20180827_019195	Cautious but unafraid, the king makes his move. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 킹을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019196	Ivory Queen Costume (Female)	아이보리 퀸 코스튬(여)			
+ITEM_20180827_019197	All hail the true ruler of the chessboard. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말 중 퀸을 키 포인트로 활용한, 체스 콘셉트 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019198	[PP] Orange Rabbit Ears	[PC방] 주황색 토끼 귀			
+ITEM_20180827_019199	Ebony King Crown	에보니 킹 크라운			
+ITEM_20180827_019200	A king cannot be complete without his crown.{nl}Can be exchanged for medals at the Exchange Shop.	체스에서 가장 중요한 킹을 활용한 왕관입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019201	Ivory Queen Crown	아이보리 퀸 크라운			
+ITEM_20180827_019202	The elevated crown denotes the queen's power and status.{nl}Can be exchanged for medals at the Exchange Shop.	체스에서 가장 강력한 퀸을 활용한 왕관입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019203	Bishop Fedora	비숍 페도라			
+ITEM_20180827_019204	A unique fedora designed around the chess bishop motif.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말인 비숍을 장식으로 사용한 페도라입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019205	Ebony Knight	에보니 나이트			
+ITEM_20180827_019206	Turn yourself into an impressive human chess piece with this accessory.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말인 나이트를 그대로 본뜬 헤어 액세서리입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019207	Knight Galea	나이트 갈레아			
+ITEM_20180827_019208	A helmet accessory made to look like the armor worn by ancient knights.{nl}Can be exchanged for medals at the Exchange Shop.	전쟁터에 나가는 기사들의 말을 형상화한 투구입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019209	Chessboard	체스판			
+ITEM_20180827_019210	The chessboard is much more than part of game; it is a true battlefield.{nl}Can be exchanged for medals at the Exchange Shop.	체스판은 단순한 격나무늬판이지만, 킹 즉 왕국을 지키는 전쟁을 하는 전쟁터와 같습니다.{nl}이러한 체스판을 활용한 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019211	Ebony Rook	에보니 룩			
+ITEM_20180827_019212	Turn yourself into an impressive human chess piece with this accessory.{nl}Can be exchanged for medals at the Exchange Shop.	체스 말인 룩을 그대로 본뜬 헤어 액세서리입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.			
+ITEM_20180827_019213	This exquisite hair accessory is what experts refer to as a "bow". Impressive, isn't it?{nl}Can be exchanged for medals at the Exchange Shop.	머리에 착용하는 큰 리본 장식입니다. 머나먼 이국에서는 이러한 리본 장식을 헤어 보우 혹은 보우라 부릅니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20150317_001645	Connoisseurs often get into disputes regarding the cuteness factor of a straight ear versus a folded ear.	호사가들은 펴진 토끼귀와 굽어있는 토끼귀중에 어느것이 더 귀여운지 논쟁을 벌이곤 합니다.
+ITEM_20180827_019214	This exquisite hair accessory is what experts refer to as a "bow". This one in particular is a rather large specimen.{nl}Can be exchanged for medals at the Exchange Shop.	머리에 착용하는 매우 큰 리본 장식입니다. 머나먼 이국에서는 이러한 리본 장식을 헤어 보우 혹은 보우라 부릅니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20150317_001645	Connoisseurs often get into disputes regarding the cuteness factor of a straight ear versus a folded ear.	호사가들은 펴진 토끼귀와 굽어있는 토끼귀중에 어느것이 더 귀여운지 논쟁을 벌이곤 합니다.
+ITEM_20180827_019215	Got flower petals... on my head... sigh... just leave them there...	벚꽃잎이 머리에.... 떨어졌다.. 귀찮다.. 그냥 두기로 하자..			
+ITEM_20180827_019216	Which color do you think is tastier? They're all mine, mind you, but I'll let you choose.	어떤 색깔이 맛있을까요. 고르기만 하세요.. 모두 제 것 입니다.			
+ITEM_20180827_019217	Chess Timer	체스 타이머			
+ITEM_20180827_019218	Tic, toc, tic, toc. I'm a chess timer.{nl}Cooldown 5 sec.{nl}Time will not wait for you...	똑딱똑딱. 체스 타이머입니다.{nl}재사용 대기 시간 5초{nl}시간은 우리를 기다려 주지 않아..			
+ITEM_20180827_019219	Ivory Pawn Two-handed Mace	아이보리 폰 투 핸드 메이스			
+ITEM_20180827_019220	Two-handed Blunt [Visual{img barbershop_scissors_pic 19 14}]	양손둔기[외형 변경 전용]			
+ITEM_20180827_019221	Ivory Rook Two-handed Mace	에보니 룩 투 핸드 메이스			
+ITEM_20180827_019222	Bishop Rapier	비숍 레이피어			
+ITEM_20180827_019223	Rapier [Visual{img barbershop_scissors_pic 19 14}]	레이피어[외형 변경 전용]			
+ITEM_20180827_019224	Bishop Sword	비숍 소드			
+ITEM_20180827_019225	One-handed Sword [Visual{img barbershop_scissors_pic 19 14}]	한손검[외형 변경 전용]			
+ITEM_20180827_019226	Knight Sword	나이트 소드			
+ITEM_20180827_019227	Knight Rapier	나이트 레이피어			
+ITEM_20180827_019228	Ivory Queen Two-handed Sword	아이보리 퀸 투 핸드 소드			
+ITEM_20180827_019229	Two-handed Sword [Visual{img barbershop_scissors_pic 19 14}]	양손검[외형 변경 전용]			
+ITEM_20180827_019230	Ebony King Two-handed Sword	에보니 킹 투 핸드 소드			
+ITEM_20180827_019231	Knight Mace	나이트 메이스			
+ITEM_20180827_019232	One-handed Blunt [Visual{img barbershop_scissors_pic 19 14}]	한손둔기[외형 변경 전용]			
+ITEM_20180827_019233	Bishop Mace	비숍 메이스			
+ITEM_20180827_019234	Ebony King Rod	에보니 킹 로드			
+ITEM_20180827_019235	Ivory Queen Rod	아이보리 퀸 로드			
+ITEM_20180827_019236	Ebony King Staff	에보니 킹 스태프			
+ITEM_20180827_019237	Ivory Queen Staff	아이보리 퀸 스태프			
+ITEM_20180827_019238	Chessboard Shield	체스보드 실드			
+ITEM_20180827_019239	Shield [Visual{img barbershop_scissors_pic 19 14}]	방패[외형 변경 전용]			
+ITEM_20180827_019240	Bishop Bow	비숍 보우			
+ITEM_20180827_019241	Bow [Visual{img barbershop_scissors_pic 19 14}]	활[외형 변경 전용]			
+ITEM_20180827_019242	Knight Bow	나이트 보우			
+ITEM_20180827_019243	[R10] Deathweaver Cutter (30 Days)	[For 10] 데스위버 커터 (30일)	ITEM_20180629_018674	Deathweaver Cutter (30 Days)	[결속] 데스위버 커터 (30일)
+ITEM_20180827_019244	[R10] Deatheweaver Tooth (30 Days)	[For 10] 데스위버 투스 (30일)	ITEM_20180629_018675	Deathweaver (30 Days)	[결속] 데스위버 투스 (30일)
+ITEM_20180827_019245	[R10] Deathweaver Rod (30 Days)	[For 10] 데스위버 로드 (30일)	ITEM_20180629_018676	Deathweaver Rod (30 Days)	[결속] 데스위버 로드 (30일)
+ITEM_20180827_019246	[R10] Melinas Staff (30 Days)	[For 10] 멜리나스 스태프 (30일)	ITEM_20180629_018677	Melinas Staff (30 Days)	[결속] 멜리나스 스태프 (30일)
+ITEM_20180827_019247	[R10] Deathweaver Bow (30 Days)	[For 10] 데스위버 보우 (30일)	ITEM_20180629_018678	Deathweaver Bow (30 Days)	[결속] 데스위버 보우 (30일)
+ITEM_20180827_019248	[R10] Deathweaver Crossbow (30 Days)	[For 10] 데스위버 크로스보우 (30일)	ITEM_20180629_018679	Deathweaver Crossbow (30 Days)	[결속] 데스위버 크로스보우 (30일)
+ITEM_20180827_019249	[R10] Vubbe Morning Star (30 Days)	[For 10] 부베 모닝스타 (30일)	ITEM_20180629_018680	Vubbe Morning Star (30 Days)	[결속] 부베 모닝스타 (30일)
+ITEM_20180827_019250	[R10] Vubbe Armor (30 Days)	[For 10] 부베 아머 (30일)	ITEM_20180629_018681	Vubbe Armor (30 Days)	[결속] 부베 아머 (30일)
+ITEM_20180827_019251	[R10] Vubbe Pants (30 Days)	[For 10] 부베 팬츠 (30일)	ITEM_20180629_018682	Vubbe Pants (30 Days)	[결속] 부베 팬츠 (30일)
+ITEM_20180827_019252	[R10] Cheminis Sword (30 Days)	[For 10] 케미니스 소드 (30일)	ITEM_20180629_018683	Cheminis Sword (30 Days)	[결속] 케미니스 소드 (30일)
+ITEM_20180827_019253	[R10] Chapparition Two-handed Sword (30 Days)	[For 10] 채퍼리션 투 핸드 소드 (30일)	ITEM_20180629_018684	Chapparition Two-handed Sword (30 Days)	[결속] 채퍼리션 투 핸드 소드 (30일)
+ITEM_20180827_019254	[R10] Chapparition Rod (30 Days)	[For 10] 채퍼리션 로드 (30일)	ITEM_20180629_018685	Chapparition Rod (30 Days)	[결속] 채퍼리션 로드 (30일)
+ITEM_20180827_019255	[R10] Patrice Staff (30 Days)	[For 10] 파트리스 스태프 (30일)	ITEM_20180629_018686	Patrice Staff (30 Days)	[결속] 파트리스 스태프 (30일)
+ITEM_20180827_019256	[R10] Chapparition Bow (30 Days)	[For 10] 채퍼리션 보우 (30일)	ITEM_20180629_018687	Chapparition Bow (30 Days)	[결속] 채퍼리션 보우 (30일)
+ITEM_20180827_019257	[R10] Chapparition Shooter (30 Days)	[For 10] 채퍼리션 슈터 (30일)	ITEM_20180629_018688	Chapparition Shooter (30 Days)	[결속] 채퍼리션 슈터 (30일)
+ITEM_20180827_019258	[R10] Chapparition Mace (30 Days)	[For 10] 채퍼리션 메이스 (30일)	ITEM_20180629_018689	Chapparition Mace (30 Days)	[결속] 채퍼리션 메이스 (30일)
+ITEM_20180827_019259	[R10] Silver Spear (30 Days)	[For 10] 실버 스피어 (30일)	ITEM_20180629_018690	Silver Spear (30 Days)	[결속] 실버 스피어 (30일)
+ITEM_20180827_019260	[R10] Cheminis Pike (30 Days)	[For 10] 케미니스 파이크 (30일)	ITEM_20180629_018691	Cheminis Pike (30 Days)	[결속] 케미니스 파이크 (30일)
+ITEM_20180827_019261	[R10] Mark Tunic (30 Days)	[For 10] 마크 튜닉 (30일)	ITEM_20180629_018692	Mark Tunic (30 Days)	[결속] 마크 튜닉 (30일)
+ITEM_20180827_019262	[R10] Mark Pants (30 Days)	[For 10] 마크 팬츠 (30일)	ITEM_20180629_018693	Mark Pants (30 Days)	[결속] 마크 팬츠 (30일)
+ITEM_20180827_019263	[R10] Durandal (30 Days)	[For 10] 듀란달 (30일)	ITEM_20180629_018694	Durandal (30 Days)	[결속] 듀란달 (30일)
+ITEM_20180827_019264	[R10] Flamini (30 Days)	[For 10] 플라미니 (30일)	ITEM_20180629_018695	Flamini (30 Days)	[결속] 플라미니 (30일)
+ITEM_20180827_019265	[R10] Secretum (30 Days)	[For 10] 세크레툼 (30일)	ITEM_20180629_018696	Secretum (30 Days)	[결속] 세크레툼 (30일)
+ITEM_20180827_019266	[R10] Candle Staff (30 Days)	[For 10] 캔들 스태프 (30일)	ITEM_20180629_018697	Candle Staff (30 Days)	[결속] 캔들 스태프 (30일)
+ITEM_20180827_019267	[R10] Heart Seeker (30 Days)	[For 10] 하트 시커 (30일)	ITEM_20180629_018698	Heart Seeker (30 Days)	[결속] 하트 시커 (30일)
+ITEM_20180827_019268	[R10] Shooting Star (30 Days)	[For 10] 슈팅스타 (30일)	ITEM_20180629_018699	Shooting Star (30 Days)	[결속] 슈팅스타 (30일)
+ITEM_20180827_019269	[R10] Escanciu Mace (30 Days)	[For 10] 에산치우 메이스 (30일)	ITEM_20180629_018700	Escanciu Mace (30 Days)	[결속] 에산치우 메이스 (30일)
+ITEM_20180827_019270	[R10] Doom Spear (30 Days)	[For 10] 둠 스피어 (30일)	ITEM_20180629_018701	Doom Spear (30 Days)	[결속] 둠 스피어 (30일)
+ITEM_20180827_019271	[R10] Laideca (30 Days)	[For 10] 라이데카 (30일)	ITEM_20180629_018702	Laideca (30 Days)	[결속] 라이데카 (30일)
+ITEM_20180827_019272	[R10] Brigandine Armor (30 Days)	[For 10] 브리간딘 아머 (30일)	ITEM_20180629_018703	Brigandine Armor (30 Days)	[결속] 브리간딘 아머 (30일)
+ITEM_20180827_019273	[R10] Brigandine Pants (30 Days)	[For 10] 브리간딘 팬츠 (30일)	ITEM_20180629_018704	Brigandine Pants (30 Days)	[결속] 브리간딘 팬츠 (30일)
+ITEM_20180827_019274	[R10] Velniup (30 Days)	[For 10] 벨니웁 (30일)	ITEM_20180629_018705	Belnium (30 Days)	[결속] 벨니웁 (30일)
+ITEM_20180827_019275	[R10] Tily Two-handed Sword (30 Days)	[For 10] 틸리 투 핸드 소드 (30일)	ITEM_20180629_018706	Tily Two-handed Sword (30 Days)	[결속] 틸리 투 핸드 소드 (30일)
+ITEM_20180827_019276	[R10] Temere (30 Days)	[For 10] 테메레 (30일)	ITEM_20180629_018707	Temere (30 Days)	[결속] 테메레 (30일)
+ITEM_20180827_019277	[R10] Sunflower (30 Days)	[For 10] 선플라워 (30일)	ITEM_20180629_018708	Sunflower (30 Days)	[결속] 선플라워 (30일)
+ITEM_20180827_019278	[R10] Wilding Bane (30 Days)	[For 10] 와이들링 베인 (30일)	ITEM_20180629_018709	Wilding Bane (30 Days)	[결속] 와이들링 베인 (30일)
+ITEM_20180827_019279	[R10] Seimos Crossbow (30 Days)	[For 10] 세이모스 크로스보우 (30일)	ITEM_20180629_018710	Seimos Crossbow (30 Days)	[결속] 세이모스 크로스보우 (30일)
+ITEM_20180827_019280	[R10] Seimos Mace (30 Days)	[For 10] 세이모스 메이스 (30일)	ITEM_20180629_018711	Seimos Mace (30 Days)	[결속] 세이모스 메이스 (30일)
+ITEM_20180827_019281	[R10] Seimos Spear (30 Days)	[For 10] 세이모스 스피어 (30일)	ITEM_20180629_018712	Seimos Spear (30 Days)	[결속] 세이모스 스피어 (30일)
+ITEM_20180827_019282	[R10] Seimos Pike (30 Days)	[For 10] 세이모스 파이크 (30일)	ITEM_20180629_018713	Seimos Pike (30 Days)	[결속] 세이모스 파이크 (30일)
+ITEM_20180827_019283	[R10] Hunting Armor (30 Days)	[For 10] 헌팅 아머 (30일)	ITEM_20180629_018714	Hunting Armor (30 Days)	[결속] 헌팅 아머 (30일)
+ITEM_20180827_019284	[R10] Hunting Pants (30 Days)	[For 10] 헌팅 팬츠 (30일)	ITEM_20180629_018715	Hunting Pants (30 Days)	[결속] 헌팅 팬츠 (30일)
+ITEM_20180827_019285	[R10] Flame (30 Days)	[For 10] 플레임 (30일)	ITEM_20180629_018716	Flame (30 Days)	[결속] 플레임 (30일)
+ITEM_20180827_019286	[R10] Hell and Heaven (30 Days)	[For 10] 헬 엔드 헤븐 (30일)	ITEM_20180629_018717	Hell and Heaven (30 Days)	[결속] 헬 엔드 헤븐 (30일)
+ITEM_20180827_019287	[R10] Casti Rod (30 Days)	[For 10] 카스티 로드 (30일)	ITEM_20180629_018718	Casti Rod (30 Days)	[결속] 카스티 로드 (30일)
+ITEM_20180827_019288	[R10] Maledoom (30 Days)	[For 10] 말레둠 (30일)	ITEM_20180629_018719	Maledoom (30 Days)	[결속] 말레둠 (30일)
+ITEM_20180827_019289	[R10] Casti Bow (30 Days)	[For 10] 카스티 보우 (30일)	ITEM_20180629_018720	Casti Bow (30 Days)	[결속] 카스티 보우 (30일)
+ITEM_20180827_019290	[R10] Karacha Crossbow (30 Days)	[For 10] 카라챠 크로스보우 (30일)	ITEM_20180629_018721	Karacha Crossbow (30 Days)	[결속] 카라챠 크로스보우 (30일)
+ITEM_20180827_019291	[R10] Drake Tail (30 Days)	[For 10] 드레이크 테일 (30일)	ITEM_20180629_018722	Drake Tail (30 Days)	[결속] 드레이크 테일 (30일)
+ITEM_20180827_019292	[R10] Casti Spear (30 Days)	[For 10] 카스티 스피어 (30일)	ITEM_20180629_018723	Casti Spear (30 Days)	[결속] 카스티 스피어 (30일)
+ITEM_20180827_019293	[R10] Magas Pike (30 Days)	[For 10] 마가스 파이크 (30일)	ITEM_20180629_018724	Magas Pike (30 Days)	[결속] 마가스 파이크 (30일)
+ITEM_20180827_019294	[R10] Duelist (30 Days)	[For 10] 듀얼리스트 (30일)	ITEM_20180629_018725	Duelist (30 Days)	[결속] 듀얼리스트 (30일)
+ITEM_20180827_019295	[R10] Veteran Tunic (30 Days)	[For 10] 베테랑 튜닉 (30일)	ITEM_20180629_018726	Veteran Tunic (30 Days)	[결속] 베테랑 튜닉 (30일)
+ITEM_20180827_019296	[R10] Veteran Pants (30 Days)	[For 10] 베테랑 팬츠 (30일)	ITEM_20180629_018727	Veteran Pants (30 Days)	[결속] 베테랑 팬츠 (30일)
+ITEM_20180827_019297	[R10] Pensara Sword (30 Days)	[For 10] 펜사라 소드 (30일)	ITEM_20180629_018728	Pensara Sword (30 Days)	[결속] 펜사라 소드 (30일)
+ITEM_20180827_019298	[R10] Pensara Two-handed Sword (30 Days)	[For 10] 펜사라 투 핸드 소드 (30일)	ITEM_20180629_018729	Pensara Two-handed Sword (30 Days)	[결속] 펜사라 투 핸드 소드 (30일)
+ITEM_20180827_019299	[R10] Pensara Rod (30 Days)	[For 10] 펜사라 로드 (30일)	ITEM_20180629_018730	Pensara Rod (30 Days)	[결속] 펜사라 로드 (30일)
+ITEM_20180827_019300	[R10] Power Staff (30 Days)	[For 10] 파워 스태프 (30일)	ITEM_20180629_018731	Power Staff (30 Days)	[결속] 파워 스태프 (30일)
+ITEM_20180827_019301	[R10] Marksman (30 Days)	[For 10] 마크맨 (30일)	ITEM_20180629_018732	Marksman (30 Days)	[결속] 마크맨 (30일)
+ITEM_20180827_019302	[R10] Didel Grand Cross (30 Days)	[For 10] 디델 그랜드 크로스 (30일)	ITEM_20180629_018733	Didel Grand Cross (30 Days)	[결속] 디델 그랜드 크로스 (30일)
+ITEM_20180827_019303	[R10] Pensara Mace (30 Days)	[For 10] 펜사라 메이스 (30일)	ITEM_20180629_018734	Pensara Mace (30 Days)	[결속] 펜사라 메이스 (30일)
+ITEM_20180827_019304	[R10] Pensara Spear (30 Days)	[For 10] 펜사라 스피어 (30일)	ITEM_20180629_018735	Pensara Spear (30 Days)	[결속] 펜사라 스피어 (30일)
+ITEM_20180827_019305	[R10] Pensara Pike (30 Days)	[For 10] 펜사라 파이크 (30일)	ITEM_20180629_018736	Pensara Pike (30 Days)	[결속] 펜사라 파이크 (30일)
+ITEM_20180827_019306	[R10] Spada (30 Days)	[For 10] 스파다 (30일)	ITEM_20180629_018737	Spada (30 Days)	[결속] 스파다 (30일)
+ITEM_20180827_019307	[R10] Finisher (30 Days)	[For 10] 피니셔 (30일)	ITEM_20180629_018738	Finisher (30 Days)	[결속] 피니셔 (30일)
+ITEM_20180827_019308	[R10] Bandit Armor (30 Days)	[For 10] 밴딧 아머 (30일)	ITEM_20180629_018739	Bandit Armor (30 Days)	[결속] 밴딧 아머 (30일)
+ITEM_20180827_019309	[R10] Bandit Pants (30 Days)	[For 10] 밴딧 팬츠 (30일)	ITEM_20180629_018740	Bandit Pants (30 Days)	[결속] 밴딧 팬츠 (30일)
+ITEM_20180827_019310	[R10] Primus Migantis Sword (30 Days)	[For 10] 프리머스 미간티스 소드 (30일)	ITEM_20180629_018741	Primus Migantis Sword (30 Days)	[결속] 프리머스 미간티스 소드 (30일)
+ITEM_20180827_019311	[R10] Primus Migantis Two-handed Sword (30 Days)	[For 10] 프리머스 미간티스 투 핸드 소드 (30일)	ITEM_20180629_018742	Primus Migantis Two-handed Sword (30 Days)	[결속] 프리머스 미간티스 투 핸드 소드 (30일)
+ITEM_20180827_019312	[R10] Primus Migantis Rod (30 Days)	[For 10] 프리머스 미간티스 로드 (30일)	ITEM_20180629_018743	Primus Migantis Rod (30 Days)	[결속] 프리머스 미간티스 로드 (30일)
+ITEM_20180827_019313	[R10] Primus Migantis Bow (30 Days)	[For 10] 프리머스 미간티스 보우 (30일)	ITEM_20180629_018744	Primus Migantis Bow (30 Days)	[결속] 프리머스 미간티스 보우 (30일)
+ITEM_20180827_019314	[R10] Primus Migantis Crossbow (30 Days)	[For 10] 프리머스 미간티스 크로스보우 (30일)	ITEM_20180629_018745	Primus Migantis Crossbow (30 Days)	[결속] 프리머스 미간티스 크로스보우 (30일)
+ITEM_20180827_019315	[R10] Primus Migantis Mace (30 Days)	[For 10] 프리머스 미간티스 메이스 (30일)	ITEM_20180629_018746	Primus Migantis Mace (30 Days)	[결속] 프리머스 미간티스 메이스 (30일)
+ITEM_20180827_019316	[R10] Primus Migantis Two-handed Mace (30 Days)	[For 10] 프리머스 미간티스 투 핸드 메이스 (30일)	ITEM_20180629_018747	Primus Migantis Two-handed Mace (30 Days)	[결속] 프리머스 미간티스 투 핸드 메이스 (30일)
+ITEM_20180827_019317	[R10] Primus Migantis Spear (30 Days)	[For 10] 프리머스 미간티스 스피어 (30일)	ITEM_20180629_018748	Primus Migantis Spear (30 Days)	[결속] 프리머스 미간티스 스피어 (30일)
+ITEM_20180827_019318	[R10] Primus Migantis Pike (30 Days)	[For 10] 프리머스 미간티스 파이크 (30일)	ITEM_20180629_018749	Primus Migantis Pike (30 Days)	[결속] 프리머스 미간티스 파이크 (30일)
+ITEM_20180827_019319	[R10] Primus Migantis Staff (30 Days)	[For 10] 프리머스 미간티스 스태프 (30일)	ITEM_20180629_018750	Primus Migantis Staff (30 Days)	[결속] 프리머스 미간티스 스태프 (30일)
+ITEM_20180827_019320	[R10] Primus Migantis Pistol (30 Days)	[For 10] 프리머스 미간티스 피스톨 (30일)	ITEM_20180629_018751	Primus Migantis Pistol (30 Days)	[결속] 프리머스 미간티스 피스톨 (30일)
+ITEM_20180827_019321	[R10] Primus Migantis Rapier (30 Days)	[For 10] 프리머스 미간티스 레이피어 (30일)	ITEM_20180629_018752	Primus Migantis Rapier (30 Days)	[결속] 프리머스 미간티스 레이피어 (30일)
+ITEM_20180827_019322	[R10] Primus Migantis Cannon (30 Days)	[For 10] 프리머스 미간티스 캐논 (30일)	ITEM_20180629_018753	Primus Migantis Cannon (30 Days)	[결속] 프리머스 미간티스 캐논 (30일)
+ITEM_20180827_019323	[R10] Primus Migantis Musket (30 Days)	[For 10] 프리머스 미간티스 머스킷 (30일)	ITEM_20180629_018754	Primus Migantis Musket (30 Days)	[결속] 프리머스 미간티스 머스킷 (30일)
+ITEM_20180827_019324	[R10] Primus Albinosas Leather Armor (30 Days)	[For 10] 프리머스 알비노사스 레더 아머 (30일)	ITEM_20180629_018755	Primus Albinosas Leather Armor (30 Days)	[결속] 프리머스 알비노사스 레더 아머 (30일)
+ITEM_20180827_019325	[R10] Primus Albinosas Leather Pants (30 Days)	[For 10] 프리머스 알비노사스 레더 팬츠 (30일)	ITEM_20180629_018756	Primus Albinosas Leather Pants (30 Days)	[결속] 프리머스 알비노사스 레더 팬츠 (30일)
+ITEM_20180827_019326	[R10] Primus Pevordimas Sword (30 Days)	[For 10] 프리머스 페버디마스 소드 (30일)	ITEM_20180629_018757	Primus Pevordimas Sword (30 Days)	[결속] 프리머스 페버디마스 소드 (30일)
+ITEM_20180827_019327	[R10] Primus Pevordimas Two-handed Sword (30 Days)	[For 10] 프리머스 페버디마스 투 핸드 소드 (30일)	ITEM_20180629_018758	Primus Pevordimas Two-handed Sword (30 Days)	[결속] 프리머스 페버디마스 투 핸드 소드 (30일)
+ITEM_20180827_019328	[R10] Primus Pevordimas Rod (30 Days)	[For 10] 프리머스 페버디마스 로드 (30일)	ITEM_20180629_018759	Primus Pevordimas Rod (30 Days)	[결속] 프리머스 페버디마스 로드 (30일)
+ITEM_20180827_019329	[R10] Primus Pevordimas Bow (30 Days)	[For 10] 프리머스 페버디마스 보우 (30일)	ITEM_20180629_018760	Primus Pevordimas Bow (30 Days)	[결속] 프리머스 페버디마스 보우 (30일)
+ITEM_20180827_019330	[R10] Primus Pevordimas Crossbow (30 Days)	[For 10] 프리머스 페버디마스 크로스보우 (30일)	ITEM_20180629_018761	Primus Pevordimas Crossbow (30 Days)	[결속] 프리머스 페버디마스 크로스보우 (30일)
+ITEM_20180827_019331	[R10] Primus Pevordimas Mace (30 Days)	[For 10] 프리머스 페버디마스 메이스 (30일)	ITEM_20180629_018762	Primus Pevordimas Mace (30 Days)	[결속] 프리머스 페버디마스 메이스 (30일)
+ITEM_20180827_019332	[R10] Primus Pevordimas Two-handed Sword (30 Days)	[For 10] 프리머스 페버디마스 투 핸드 메이스 (30일)	ITEM_20180629_018763	Primus Pevordimas Two-handed Mace (30 Days)	[결속] 프리머스 페버디마스 투 핸드 메이스 (30일)
+ITEM_20180827_019333	[R10] Primus Pevordimas Spear (30 Days)	[For 10] 프리머스 페버디마스 스피어 (30일)	ITEM_20180629_018764	Primus Pevordimas Spear (30 Days)	[결속] 프리머스 페버디마스 스피어 (30일)
+ITEM_20180827_019334	[R10] Primus Pevordimas Pike (30 Days)	[For 10] 프리머스 페버디마스 파이크 (30일)	ITEM_20180629_018765	Primus Pevordimas Pike (30 Days)	[결속] 프리머스 페버디마스 파이크 (30일)
+ITEM_20180827_019335	[R10] Primus Pevordimas Staff (30 Days)	[For 10] 프리머스 페버디마스 스태프 (30일)	ITEM_20180629_018766	Primus Pevordimas Staff (30 Days)	[결속] 프리머스 페버디마스 스태프 (30일)
+ITEM_20180827_019336	[R10] Primus Pevordimas Pistol (30 Days)	[For 10] 프리머스 페버디마스 피스톨 (30일)	ITEM_20180629_018767	Primus Pevordimas Pistol (30 Days)	[결속] 프리머스 페버디마스 피스톨 (30일)
+ITEM_20180827_019337	[R10] Primus Pevordimas Rapier (30 Days)	[For 10] 프리머스 페버디마스 레이피어 (30일)	ITEM_20180629_018768	Primus Pevordimas Rapier (30 Days)	[결속] 프리머스 페버디마스 레이피어 (30일)
+ITEM_20180827_019338	[R10] Primus Pevordimas Cannon (30 Days)	[For 10] 프리머스 페버디마스 캐논 (30일)	ITEM_20180629_018769	Primus Pevordimas Cannon (30 Days)	[결속] 프리머스 페버디마스 캐논 (30일)
+ITEM_20180827_019339	[R10] Primus Pevordimas Musket (30 Days)	[For 10] 프리머스 페버디마스 머스킷 (30일)	ITEM_20180629_018770	Primus Pevordimas Musket (30 Days)	[결속] 프리머스 페버디마스 머스킷 (30일)
+ITEM_20180827_019340	[R10] Primus Kaulas Leather Armor (30 Days)	[For 10] 프리머스 카울라스 레더 아머 (30일)	ITEM_20180629_018771	Primus Kaulas Leather Armor (30 Days)	[결속] 프리머스 카울라스 레더 아머 (30일)
+ITEM_20180827_019341	[R10] Primus Kaulas Leather Pants (30 Days)	[For 10] 프리머스 카울라스 레더 팬츠 (30일)	ITEM_20180629_018772	Primus Kaulas Leather Pants (30 Days)	[결속] 프리머스 카울라스 레더 팬츠 (30일)
+ITEM_20180827_019342	Astral Tower Hero Costume (Male)	별의 탑 영웅 코스튬(남)			
+ITEM_20180827_019343	A new hero of the Astral Tower is born. Use to change your appearance.	별의 탑 영웅 코스튬 입니다. 착용하면 외형이 변경됩니다.			
+ITEM_20180827_019344	Astral Tower Hero Costume (Female)	별의 탑 영웅 코스튬(여)			
+ITEM_20180827_019345	[R10] Primus Raffye Sword (30 Days)	[For 10] 프리머스 라파이 소드 (30일)			
+ITEM_20180827_019346	[R10] Primus Raffye Two-handed Sword (30 Days)	[For 10] 프리머스 라파이 투 핸드 소드 (30일)			
+ITEM_20180827_019347	[R10] Primus Raffye Rod (30 Days)	[For 10] 프리머스 라파이 로드 (30일)			
+ITEM_20180827_019348	[R10] Primus Raffye Bow (30 Days)	[For 10] 프리머스 라파이 보우 (30일)			
+ITEM_20180827_019349	[R10] Primus Raffye Crossbow (30 Days)	[For 10] 프리머스 라파이 크로스보우 (30일)			
+ITEM_20180827_019350	[R10] Primus Raffye Mace (30 Days)	[For 10] 프리머스 라파이 메이스 (30일)			
+ITEM_20180827_019351	[R10] Primus Raffye Two-handed Mace (30 Days)	[For 10] 프리머스 라파이 투 핸드 메이스 (30일)			
+ITEM_20180827_019352	[R10] Primus Raffye Shield (30 Days)	[For 10] 프리머스 라파이 실드 (30일)			
+ITEM_20180827_019353	[R10] Primus Raffye Spear (30 Days)	[For 10] 프리머스 라파이 스피어 (30일)			
+ITEM_20180827_019354	[R10] Primus Raffye Pike (30 Days)	[For 10] 프리머스 라파이 파이크 (30일)			
+ITEM_20180827_019355	[R10] Primus Raffye Dagger (30 Days)	[For 10] 프리머스 라파이 대거 (30일)			
+ITEM_20180827_019356	[R10] Primus Raffye Staff (30 Days)	[For 10] 프리머스 라파이 스태프 (30일)			
+ITEM_20180827_019357	[R10] Primus Raffye Pistol (30 Days)	[For 10] 프리머스 라파이 피스톨 (30일)			
+ITEM_20180827_019358	[R10] Primus Raffye Rapier (30 Days)	[For 10] 프리머스 라파이 레이피어 (30일)			
+ITEM_20180827_019359	[R10] Primus Raffye Cannon (30 Days)	[For 10] 프리머스 라파이 캐논 (30일)			
+ITEM_20180827_019360	[R10] Primus Raffye Musket (30 Days)	[For 10] 프리머스 라파이 머스킷 (30일)			
+ITEM_20180827_019361	[R10] Primus Jevenellis Leather Armor (30 Days)	[For 10] 프리머스 제베넬리스 레더 아머 (30일)			
+ITEM_20180827_019362	[R10] Primus Jevenellis Leather Pants (30 Days)	[For 10] 프리머스 제베넬리스 레더 팬츠 (30일)			
+ITEM_20180827_019363	[PP] Sword	[PC방] 소드			
+ITEM_20180827_019364	Special PP reward equipment.	PC방 전용 장비입니다. PC방 접속 종료시 해당 아이템은 회수 됩니다.			
+ITEM_20180827_019365	[PP] Two-handed Sword	[PC방] 투 핸드 소드			
+ITEM_20180827_019366	[PP] Rod	[PC방] 로드			
+ITEM_20180827_019367	[PP] Bow	[PC방] 보우			
+ITEM_20180827_019368	[PP] Crossbow	[PC방] 크로스 보우			
+ITEM_20180827_019369	[PP] Mace	[PC방] 메이스			
+ITEM_20180827_019370	[PP] Spear	[PC방] 스피어			
+ITEM_20180827_019371	[PP] Two-handed Spear	[PC방] 투 핸드 스피어			
+ITEM_20180827_019372	[PP] Staff	[PC방] 스태프			
+ITEM_20180827_019373	[PP] Rapier	[PC방] 레이피어			
+ITEM_20180827_019374	[PP] Leather Armor	[PC방] 레더 아머			
+ITEM_20180827_019375	[PP] Leather Pants	[PC방] 레더 팬츠			
+ITEM_20180827_019376	[PP] Leather Boots	[PC방] 레더 부츠			
+ITEM_20180827_019377	[PP] Leather Gloves	[PC방] 레더 글로브			
+ITEM_20180827_019378	[PP] Mage Robe	[PC방] 메이지 로브			
+ITEM_20180827_019379	[PP] Mage Pants	[PC방] 메이지 팬츠			
+ITEM_20180827_019380	[PP] Mage Boots	[PC방] 메이지 부츠			
+ITEM_20180827_019381	[PP] Mage Gloves	[PC방] 메이지 글로브			
+ITEM_20180827_019382	[PP] Plate Mail	[PC방] 플레이트 메일			
+ITEM_20180827_019383	[PP] Plate Pants	[PC방] 플레이트 팬츠			
+ITEM_20180827_019384	[PP] Plate Greaves	[PC방] 플레이트 그리브			
+ITEM_20180827_019385	[PP] Plate Gauntlets	[PC방] 플레이트 건틀릿			
+ITEM_20180827_019386	[PP] Shield	[PC방] 실드			
+ITEM_20180827_019387	[PP] Dagger	[PC방] 대거			
+ITEM_20180827_019388	[PP] Cannon	[PC방] 캐논			
+ITEM_20180827_019389	[PP] Pistol	[PC방] 피스톨			
+ITEM_20180827_019390	[PP] Musket	[PC방] 머스킷			
+ITEM_20180827_019391	[PP] Two-handed Mace	[PC방] 투 핸드 메이스			
+ITEM_20180827_019392	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이	ITEM_20180320_017588	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개
+ITEM_20180827_019393	[PP] TP Item Random Box	[PC방] TP 아이템 랜덤 상자			
+ITEM_20180827_019394	Right-click to use and obtain of the following random items.{nl}- EXP Tome x1{nl} - Multiply Token x2{nl} - Megaphone x1{nl} - Enchant Scroll (untradable) x1{nl} - Warp Scroll x8{nl} - Soul Crystal x8{nl} - Emergency Repair Kit x3	마우스 우클릭으로 사용 할 수 있습니다. 사용시 랜덤한 아이템을 얻을 수 있습니다.{nl}보상 목록{nl}- 경험의 서 x1{nl} - 인스턴스 던전 배수 토큰 x2{nl}- 확성기 x1{nl}- 마법 부여 스크롤(거래불가) x1{nl}- 워프 주문서 x8{nl}- 소울 크리스탈 x4{nl}- 긴급 수리 키트 x3			
+ITEM_20180827_019395	[PP] Ore Box	[PC방] 광물 상자			
+ITEM_20180827_019396	Right-click to use and obtain a random item.	마우스 우클릭으로 사용 할 수 있습니다. 사용시 랜덤한 아이템을 얻을 수 있습니다.			
+ITEM_20180827_019397	[PP] Small Elixir of HP Recovery 	[PC방] HP 회복 소형 엘릭서 			
+ITEM_20180827_019398	[PP] Small Elixir of SP Recovery 	[PC방] SP 회복 소형 엘릭서 			
+ITEM_20180827_019399	[PP] Beauty Shop Coupon Box	[PC방] 뷰티샵 할인 쿠폰 상자			
+ITEM_20180827_019400	Right-click to use and obtain of the following random items.{nl} - [PP] Hair Dye 50% OFF Coupon{nl} - [PP] FREE Hair Dye Coupon{nl} - [PP] Hair 50% OFF Coupon{nl} - [PP] FREE Hair Coupon	마우스 우클릭으로 사용 할 수 있습니다. 사용시 랜덤한 아이템을 얻을 수 있습니다.{nl}보상 목록{nl} - [PC방] 염색 1회 50% 할인권{nl} - [PC방] 염색 1회 무료 이용권{nl} - [PC방] 헤어 1회 50% 할인권{nl} - [PC방] 헤어 1회 무료 이용권			
+ITEM_20180827_019401	[PP] Buttler & Maid Costume Box	[PC방] 버틀러와 메이드 코스튬 선택 상자			
+ITEM_20180827_019402	Right-click to use and select of the following items: Black Maid Costume (Female) or Black Butler Costume (Male)	마우스 우클릭으로 사용 할 수 있습니다. 사용시 블랙 메이드 코스튬(여) / 블랙 버틀러 코스튬(남) 중 1개를 획득 할 수 있습니다.			
+ITEM_20180827_019403	[PP] Boost Pack	[PC방] 성장 지원 상자			
+ITEM_20180827_019404	Right-click to use and obtain of the following items.{nl} - X8 EXP Tome (14 Days) x1{nl} - Instanced Dungeon Multiply Token x10{nl} - Goddess Statue (14 Days) x10{nl} - Miracle Seeds (14 Days) x10	마우스 우클릭으로 사용 할 수 있습니다. 사용시 아이템을 얻을 수 있습니다.{nl}보상 목록 {nl} - x8 경험의 서(14일) x 1{nl} - 인스턴스 던전 배수 토큰 x 10{nl} - 여신의 조각상(14일) x 10{nl} - 축복이 깃든 씨앗(14일)  x 10			
+ITEM_20180827_019405	[PP] Looting Chance: 300	[PC방] 루팅 찬스: 300			
+ITEM_20180827_019406	Rank 11 Card	11랭크 카드			
+ITEM_20180827_019407	Increases your character's class level to Level 15 of Rank 10. Can only be used on Rank 10 characters. Right-click to use.	캐릭터의 클래스 레벨을 10랭크의 클래스 레벨을 15로 상승시킵니다. 10랭크일때만 사용 가능합니다. 마우스 오른쪽 클릭으로 사용합니다.			
+ITEM_20180827_019408	Fire Enchant Round	불 인챈트탄			
+ITEM_20180827_019409	Activate your Fire Enchant Rounds to increase the critical rate of your next attack. Consumes Fire Enchant Round x1 every time the effects are activated. Right-click to activate.	불 인챈트탄을 활성화하여 공격 시 치명타 발생 확률을 증가시킵니다. 효과가 발동할 때마다 불 인챈트탄이 1개씩 소비됩니다. 마우스 오른쪽 클릭으로 활성화시킵니다.			
+ITEM_20180827_019410	Ice Enchant Round	얼음 인챈트탄			
+ITEM_20180827_019411	Activate your Ice Enchant Rounds to reduce the damage you receive from enemies. Consumes Ice Enchant Round x1 every time the effects are activated. Right-click to activate.	얼음 인챈트탄을 활성화하여 자신이 받는 대미지를 감소시킵니다. 효과가 발동할 때마다 얼음 인챈트탄이 1개씩 소비됩니다. 마우스 오른쪽 클릭으로 활성화시킵니다.			
+ITEM_20180827_019412	[PP] Unlock Voucher Selection Box	[PC방] 해금권 선택 상자			
+ITEM_20180827_019413	Fantasy Library: Sausis Room 9 Dungeon Cube	환상 도서관: 사우시스 9관 던전 큐브			
+ITEM_20180827_019414	Received after clearing Fantasy Library: Sausis Room 9.	환상 도서관: 사우시스 9관을 클리어하여 받은 보상입니다.			
+ITEM_20180827_019415	Lanko Lake Dungeon Cube	란코 호수 던전 큐브			
+ITEM_20180827_019416	Received after clearing the Lanko Lake Dungeon.	란코 호수 던전을 클리어하여 받은 보상입니다.			
+ITEM_20180827_019417	Lv 100 Challenge Cube	Lv100 챌린지 보상 큐브			
+ITEM_20180827_019418	Varle King Card	바를킹 카드			
+ITEM_20180827_019419	[Card Equip Effect] Healing +[{img star_mark 20 20} * 5]	[슬롯 장착 효과] 치유력 +[★ * 5]			
+ITEM_20180827_019420	Demon Lord Froster Lord Card	마군주 프로스터 로드 카드			
+ITEM_20180827_019421	[Card Equip Effect] Reduces the difference between the min. and max. attack of summons by [{img star_mark 20 20} * 10]%{nl}(At Lv 10, min. attack is equal to the value of max. attack.)	[슬롯 장착 효과] 소환수의 최소 공격력과 최대 공격력의 차이가 [★ * 10]% 감소{nl}(10LV 달성 시 소환수의 최소 공격력이 최대 공격력과 동일하게 변경됩니다.)			
+ITEM_20180827_019422	[Grimoire Equip Effect] Summons Demon Lord Froster Lord when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 마군주 프로스터 로드 형태의 악마 소환			
+ITEM_20180827_019423	Ripped Book	찢어진 책장	ITEM_20180320_017771	Bookshelf of Ripped Books	찢어진 책의 책장
+ITEM_20180827_019424	Ripped pages of a book. Collect them and wait for something good to happen.	일부분만 적혀있는 찢어진 책의 책장입니다. 모으면 나중에 좋은 일이 있을 것 같습니다.	ITEM_20180320_017772	A page ripped off a book, like the kind the Sage Master is collecting. Gather a few of these pages and take them to the Sage Master to exchange them for something else.	세이지 마스터가 최근 모으고 있다는 찢어진 책의 책장입니다. 책장을 모아 세이지 마스터에게 가져다주면 책 또는 아이템으로 교환해줍니다.
+ITEM_20180827_019425	Lydia's Red Flower	리디아의 붉은 꽃			
+ITEM_20180827_019426	Starry Dew	별빛이 깃든 이슬			
+ITEM_20180827_019427	Schaffen's Black Flower	샤펜의 검은 꽃			
+ITEM_20180827_019428	Star Guide Lamp	별의 인도자 램프			
+ITEM_20180827_019429	Lydia Schaffen's Lens	리디아 샤펜의 확장된 렌즈			
+ITEM_20180827_019430	Chestnut Shell Arrow	보늬 교훈의 화살			
+ITEM_20180827_019431	Candlestick of Honor	영광의 촛대			
+ITEM_20180827_019432	Nicopolis Star Drop	니코폴리스 은하 방울			
+ITEM_20180827_019433	Nicopolis Feline	니코폴리스 펠라인			
+ITEM_20180827_019434	Royal Blade Fragment	로열 블레이드 파편			
+ITEM_20180827_019435	Goro Egg	댄디 멍뭉이 알			
+ITEM_20180827_019436	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without the riding skill.{nl}This companion increases the player's damage on Beast type monsters by +120.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl} 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능합니다.{nl} 해당 컴패니언과 동행 시 야수형 몬스터에게 주는 대미지가 +120 증가하는 버프를 얻습니다.			
+ITEM_20180827_019437	Checkmate Popup Book	체크메이트 팝업북			
+ITEM_20180827_019438	Event souvenir.	[Summer Festa] 이벤트 기념 아이템 입니다.			
+ITEM_20180827_019439	[PP] Fancy Worms	[PC방] 화려한 지렁이			
+ITEM_20180827_019440	High-quality bait used for fishing.	낚시에 사용하는 상급 미끼입니다. 무언가를 삼키고 있는 물고기가 반응합니다.			
+ITEM_20180827_019441	N/A	넥슨 1,000캐시 당첨을 축하드립니다!{nl}8월 16일 점검 시, 일괄 삭제됩니다.{nl}마우스 오른쪽 버튼 클릭 시 이미지를 확인하실 수 있습니다.	ITEM_20170420_014835	N/A	넥슨 1,000캐시 당첨을 축하드립니다!{nl}점검 시, 일괄 삭제됩니다.{nl}마우스 오른쪽 버튼 클릭 시 이미지를 확인하실 수 있습니다.
+ITEM_20180827_019442	N/A	넥슨 5,000캐시 당첨을 축하드립니다!{nl}8월 16일 점검 시, 일괄 삭제됩니다.{nl}마우스 오른쪽 버튼 클릭 시 이미지를 확인하실 수 있습니다.	ITEM_20170420_014837	N/A	넥슨 5,000캐시 당첨을 축하드립니다!{nl}점검 시, 일괄 삭제됩니다.{nl}마우스 오른쪽 버튼 클릭 시 이미지를 확인하실 수 있습니다.
+ITEM_20180827_019443	N/A	넥슨 10,000캐시 당첨을 축하드립니다!{nl}8월 16일 점검 시, 일괄 삭제됩니다.{nl}마우스 오른쪽 버튼 클릭 시 이미지를 확인하실 수 있습니다.	ITEM_20170420_014839	N/A	넥슨 10,000캐시 당첨을 축하드립니다!{nl}점검 시, 일괄 삭제됩니다.{nl}마우스 오른쪽 버튼 클릭 시 이미지를 확인하실 수 있습니다.
+ITEM_20180827_019444	N/A	넥슨 50,000캐시 당첨을 축하드립니다!{nl}8월 16일 점검 시, 일괄 삭제됩니다.{nl}마우스 오른쪽 버튼 클릭 시 이미지를 확인하실 수 있습니다.	ITEM_20170420_014841	N/A	넥슨 50,000캐시 당첨을 축하드립니다!{nl}점검 시, 일괄 삭제됩니다.{nl}마우스 오른쪽 버튼 클릭 시 이미지를 확인하실 수 있습니다.
+ITEM_20180827_019445	N/A	넥슨 100,000캐시 당첨을 축하드립니다!{nl}8월 16일 점검 시, 일괄 삭제됩니다.{nl}마우스 오른쪽 버튼 클릭 시 이미지를 확인하실 수 있습니다.	ITEM_20170420_014843	N/A	넥슨 100,000캐시 당첨을 축하드립니다!{nl}점검 시, 일괄 삭제됩니다.{nl}마우스 오른쪽 버튼 클릭 시 이미지를 확인하실 수 있습니다.
+ITEM_20180827_019446	[R10] Goddess Sculpture	[For 10] 여신의 조각상	ITEM_20180629_018839	Goddess Sculpture	[결속] 여신의 조각상
+ITEM_20180827_019447	Install this statue to receive the Goddess' Blessing for five minutes.{nl}Will be automatically deleted at the end of the event period.	5분 동안 여신의 축복을 받을 수 있는 여신의 조각상이 설치됩니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018840	A Goddess Statue will be created that gives the Goddess' Blessing buff for 5 minutes. {nl}This item will be removed at the end of the event period.	5분 동안 여신의 축복을 받을 수 있는 여신의 조각상이 설치됩니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019448	[R10] 5-Star Gem Abrasive	[For 10] 5성 젬 연마제	ITEM_20180629_018841	5-Star Gem Abrasive	[결속] 5성 젬 연마제
+ITEM_20180827_019449	Item used for enhancing gems that drastically increases the EXP of gems.{nl} - Gem EXP gained: 14700{nl}Will be automatically deleted at the end of the event period.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 14700{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018842	Item used for enhancing gems that drastically increases the EXP of gems.{nl} - Gem EXP gained: 14700{nl}This item will be removed at the end of the event period.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 14700{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019450	[R10] Instance One Entry Voucher	[For 10] 인스턴스 던전 1회 입장권	ITEM_20180629_018843	Instanced Dungeon One Entry Voucher	[결속] 인스턴스 던전 1회 입장권
+ITEM_20180827_019451	Use it to enter an instanced dungeon one more time.{nl}Will be automatically deleted at the end of the event period.	사용 시 인스턴스 던전과 의뢰소 미션에 1회 더 입장 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018844	Use this to enter an instanced dungeons or redo a mercenary mission once more.{nl}This item will be removed at the end of the event period.	사용 시 인스턴스 던전과 의뢰소 미션에 1회 더 입장 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019452	[R10] Instanced Dungeon Reset Voucher	[For 10] 인스턴스 던전 입장 횟수 초기화권	ITEM_20180629_018845	Instanced Dungeon Reset Voucher	[결속] 인스턴스 던전 입장 횟수 초기화권
+ITEM_20180827_019453	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.{nl}Will be automatically deleted at the end of the event period.	사용 시 인스턴스 던전과 의뢰소 미션의 입장 횟수가 초기화됩니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018846	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.{nl}This item will be removed at the end of the event period.	사용 시 인스턴스 던전과 의뢰소 미션의 입장 횟수가 초기화됩니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019454	[R10] Booster Pack (Lv. 15) 	[For 10] 레벨업 상자 (15레벨)	ITEM_20180629_018847	Level Up Chest (Lv 15)	[결속] 레벨업 상자 (15레벨)
+ITEM_20180827_019455	Right-click to use. You character must be level 15 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.15레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018848	Right-click to use. This item can be used by players above level 15.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.15레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019456	[R10] Booster Pack (Lv. 40) 	[For 10] 레벨업 상자 (40레벨)	ITEM_20180629_018849	Level Up Chest (Lv 40)	[결속] 레벨업 상자 (40레벨)
+ITEM_20180827_019457	Right-click to use. You character must be level 40 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.40레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018850	Right-click to use. This item can be used by players above level 40.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.40레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019458	[R10] Booster Pack (Lv. 50) 	[For 10] 레벨업 상자 (50레벨)	ITEM_20180629_018851	Level Up Chest (Lv 50)	[결속] 레벨업 상자 (50레벨)
+ITEM_20180827_019459	Right-click to use. You character must be level 50 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.50레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018852	Right-click to use. This item can be used by players of level 50 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.50레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019460	[R10] Booster Pack (Lv. 75) 	[For 10] 레벨업 상자 (75레벨)	ITEM_20180629_018853	Level Up Chest (Lv 75)	[결속] 레벨업 상자 (75레벨)
+ITEM_20180827_019461	Right-click to use. You character must be level 75 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.75레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018854	Right-click to use. This item can be used by players of level 75 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.75레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019462	[R10] Booster Pack (Lv. 85) 	[For 10] 레벨업 상자 (85레벨)	ITEM_20180629_018855	Level Up Chest (Lv 85)	[결속] 레벨업 상자 (85레벨)
+ITEM_20180827_019463	Right-click to use. You character must be level 85 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.85레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018856	Right-click to use. This item can be used by players of level 85 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.85레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019464	[R10] Booster Pack (Lv. 100) 	[For 10] 레벨업 상자 (100레벨)	ITEM_20180629_018857	Level Up Chest (Lv 100)	[결속] 레벨업 상자 (100레벨)
+ITEM_20180827_019465	Right-click to use. You character must be level 100 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.100레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018858	Right-click to use. This item can be used by players of level 100 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.100레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019466	[R10] Booster Pack (Lv. 120) 	[For 10] 레벨업 상자 (120레벨)	ITEM_20180629_018859	Level Up Chest (Lv 120)	[결속] 레벨업 상자 (120레벨)
+ITEM_20180827_019467	Right-click to use. You character must be level 120 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.120레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018860	Right-click to use. This item can be used by players of level 120 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.120레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019468	[R10] Booster Pack (Lv. 140) 	[For 10] 레벨업 상자 (140레벨)	ITEM_20180629_018861	Level Up Chest (Lv 140)	[결속] 레벨업 상자 (140레벨)
+ITEM_20180827_019469	Right-click to use. You character must be level 140 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.140레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018862	Right-click to use. This item can be used by players of level 140 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.140레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019470	[R10] Booster Pack (Lv. 170) 	[For 10] 레벨업 상자 (170레벨)	ITEM_20180629_018863	Level Up Chest (Lv 170)	[결속] 레벨업 상자 (170레벨)
+ITEM_20180827_019471	Right-click to use. You character must be level 170 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.170레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018864	Right-click to use. This item can be used by players of level 170 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.170레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019472	[R10] Booster Pack (Lv. 180)	[For 10] 레벨업 상자 (180레벨)	ITEM_20180629_018865	Level Up Chest (Lv 180)	[결속] 레벨업 상자 (180레벨)
+ITEM_20180827_019473	Right-click to use. You character must be level 180 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.180레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018866	Right-click to use. This item can be used by players of level 180 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.180레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019474	[R10] Booster Pack (Lv. 200)	[For 10] 레벨업 상자 (200레벨)	ITEM_20180629_018867	Level Up Chest (Lv 200)	[결속] 레벨업 상자 (200레벨)
+ITEM_20180827_019475	Right-click to use. You character must be level 200 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.200레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018868	Right-click to use. This item can be used by players of level 200 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.200레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019476	[R10] Booster Pack (Lv. 220)	[For 10] 레벨업 상자 (220레벨)	ITEM_20180629_018869	Level Up Chest (Lv 220)	[결속] 레벨업 상자 (220레벨)
+ITEM_20180827_019477	Right-click to use. You character must be level 220 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.220레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018870	Right-click to use. This item can be used by players of level 220 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.220레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019478	[R10] Booster Pack (Lv. 230)	[For 10] 레벨업 상자 (230레벨)	ITEM_20180629_018871	Level Up Chest (Lv 230)	[결속] 레벨업 상자 (230레벨)
+ITEM_20180827_019479	Right-click to use. You character must be level 230 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.230레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018872	Right-click to use. This item can be used by players of level 230 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.230레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019480	[R10] Booster Pack (Lv. 270)	[For 10] 레벨업 상자 (270레벨)	ITEM_20180629_018873	Level Up Chest (Lv 270)	[결속] 레벨업 상자 (270레벨)
+ITEM_20180827_019481	Right-click to use. You character must be level 270 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.270레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018874	Right-click to use. This item can be used by players of level 270 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.270레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019482	[R10] Booster Pack (Lv. 300)	[For 10] 레벨업 상자 (300레벨)	ITEM_20180629_018875	Level Up Chest (Lv 300)	[결속] 레벨업 상자 (300레벨)
+ITEM_20180827_019483	Right-click to use. You character must be level 300 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.300레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018876	Right-click to use. This item can be used by players of level 300 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.300레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019484	[R10] Booster Pack (Lv. 330)	[For 10] 레벨업 상자 (330레벨)	ITEM_20180629_018877	Level Up Chest (Lv 330)	[결속] 레벨업 상자 (330레벨)
+ITEM_20180827_019485	Right-click to use. You character must be level 330 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.330레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018878	Right-click to use. This item can be used by players of level 330 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.330레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019486	[R10] Shining Golden Anvil	[For 10] 빛나는 황금 모루	ITEM_20180629_018879	Shining Golden Anvil	[결속] 빛나는 황금 모루
+ITEM_20180827_019487	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. Does not require a silver fee for enhancement. When you fail at an enhancement level of +12 or higher, it will reduce to +10.{nl}Will be automatically deleted at the end of the event period.	포텐셜이 0인 장비에만 사용가능 하며, 실패해도 장비가 파괴되지 않습니다. 강화시 실버가 필요하지 않습니다. 실패시 강화수치가 1 감소하며, +12 강화 이상에서 실패 시 강화 수치가 +10 강화로 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018880	This item can only be used on equipment with 0 Potential. The item will not be destroyed if an enhancement attempt fails, but its enhancement level will be reduced by 1. When you fail with an item enhanced to +12 or higher, the enhancement level will be reduced to +10. Right-click to use.{nl}This item will be removed at the end of the event period.	포텐셜이 0인 장비에만 사용가능 하며, 실패해도 장비가 파괴되지 않습니다. 실패시 강화수치가 1 감소하며, +12 강화 이상에서 실패 시 강화 수치가 +10 강화로 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019488	[R10] Miracle Seeds	[For 10] 축복이 깃든 씨앗	ITEM_20180629_018881	Miracle Seeds	[결속] 축복이 깃든 씨앗
+ITEM_20180827_019489	A sprout gifted by the Goddess' Blessing will grow when used.{nl}Will be automatically deleted at the end of the event period.	사용 시 여신의 축복이 깃든 새싹이 핍니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018882	A sprout gifted by the Goddess' Blessing will grow when used.{nl}This item will be removed at the end of the event period.	사용 시 여신의 축복이 깃든 새싹이 핍니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019490	[R10] Booster Pack (Lv. 350) 	[For 10] 레벨업 상자 (350레벨)	ITEM_20180629_018883	Level Up Chest (Lv 350)	[결속] 레벨업 상자 (350레벨)
+ITEM_20180827_019491	Right-click to use. You character must be level 350 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.350레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	ITEM_20180629_018884	Right-click to use. This item can be used by players of level 350 or above.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.350레벨 이상에서 사용 가능합니다.{nl}7월 12일 점검 시, 일괄 삭제됩니다.
+ITEM_20180827_019492	[R10] Title - Ultimate Savior	[For 10] 칭호 - 궁극의 구원자	ITEM_20180629_018888	Title - Ultimate Savior	[결속] 칭호 - 궁극의 구원자
+ITEM_20180827_019493	Contains a title awarded for participating in Uska's event. This item will be removed at the end of the event period.	우스카 이벤트에서 선물하는 칭호 상자 입니다.9월 13일 점검 시, 일괄 삭제됩니다.			
+ITEM_20180827_019494	[R10] Title - Receiver of the Revelations	[For 10] 칭호 - 계시를 받은자	ITEM_20180629_018892	Title - Receiver of the Revelations	[결속] 칭호 - 계시를 받은자
+ITEM_20180827_019495	[R10] Booster Pack (Lv. 380) 	[For 10] 레벨업 상자 (380레벨)			
+ITEM_20180827_019496	Right-click to use. You character must be level 380 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.380레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.			
+ITEM_20180827_019497	Use it to track the location of carrier hawks in danger.{nl}Will be automatically deleted at the end of the event period.	전서응에게 문제가 생겼을 때 사용해 전서응의 위치를 파악할 수 있습니다.{nl}7월 19일 점검 시, 일괄 삭제됩니다.			
+ITEM_20180827_019498	Astral Tower Hero Cube	별의 탑 영웅 큐브			
+ITEM_20180827_019499	Use to receive a random item from the rewards list.{nl}Will be automatically deleted at the end of the event period.	별의 탑을 향하여 이벤트 아이템입니다.{nl}사용 시 보상목록 중 랜덤으로 아이템이 획득됩니다.{nl}7월 19일 점검 시, 일괄 삭제됩니다.			
+ITEM_20180827_019500	Astral Tower Hero Costume Selection Box	별의 탑 영웅 코스튬 선택상자			
+ITEM_20180827_019501	A box containing Male and Female Astral Tower Hero Costumes. Right-click to use and select a costume.{nl}Will be automatically deleted at the end of the event period.	별의 탑 영웅 코스튬이 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}8월 9일 점검 시, 일괄 삭제됩니다.			
+ITEM_20180827_019502	[PP] Title - 100 Hours	[PC방] 칭호 - 100시간			
+ITEM_20180827_019503	100 Hours Reward Title Box	PC방 100시간 접속 보상 칭호 상자			
+ITEM_20180827_019504	[PP] Title - 200 Hours	[PC방] 칭호 - 200시간			
+ITEM_20180827_019505	200 Hours Reward Title Box	PC방 200시간 접속 보상 칭호 상자			
+ITEM_20180827_019506	[PP] Title - 300 Hours	[PC방] 칭호 - 300시간			
+ITEM_20180827_019507	300 Hours Reward Title Box	PC방 300시간 접속 보상 칭호 상자			
+ITEM_20180827_019508	[PP] Title - 400 Hours	[PC방] 칭호 - 400시간			
+ITEM_20180827_019509	400 Hours Reward Title Box	PC방 400시간 접속 보상 칭호 상자			
+ITEM_20180827_019510	[PP] Title - 500 Hours	[PC방] 칭호 - 500시간			
+ITEM_20180827_019511	500 Hours Reward Title Box	PC방 500시간 접속 보상 칭호 상자			
+ITEM_20180827_019512	[PP] Title - 1000 Hours	[PC방] 칭호 - 1000시간			
+ITEM_20180827_019513	1000 Hours Reward Title Box	PC방 1000시간 접속 보상 칭호 상자			
+ITEM_20180827_019514	[R10] Star Fragment	[Por 10] 별의 조각			
+ITEM_20180827_019515	Este fragmento ajudará você a redefinir sua build após a chegada do Rank 10. Será excluído automaticamente no final do período do evento.	10랭크 업데이트를 맞이해 랭크 초기화를 도와드릴 별의 조각이 떨어졌습니다. 8월 16일 점검 시, 일괄 삭제됩니다.			
+ITEM_20180827_019516	[R10] Uska's Invitation	[For 10] 우스카의 초대장			
+ITEM_20180827_019517	This invitation will help you level up. Will be automatically deleted at the end of the event period.	레벨업을 도와드리는 우스카의 초대장이 도착했습니다.{nl}클라페다의 우스카를 찾아가 초대장을 보여주세요.{nl}9월 13일 점검 시, 일괄 삭제됩니다.			
+ITEM_20180827_019518	Lv 15 Weapon/Armor Selection Box	15레벨 무기 / 방어구 선택상자			
+ITEM_20180827_019519	Select the equipment you want to receive from the list.{nl}Will be automatically deleted at the end of the event period.	사용 시 리스트 중 원하시는 장비가 지급됩니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.			
+ITEM_20180827_019520	Lv 40 Weapon/Armor Selection Box	40레벨 무기 / 방어구 선택상자			
+ITEM_20180827_019521	Lv 75 Weapon/Armor Selection Box	75레벨 무기 / 방어구 선택상자			
+ITEM_20180827_019522	Lv 120 Weapon/Armor Selection Box	120레벨 무기 / 방어구 선택상자			
+ITEM_20180827_019523	Lv 170 Weapon/Armor Selection Box	170레벨 무기 / 방어구 선택상자			
+ITEM_20180827_019524	Lv 220 Weapon/Armor Selection Box	220레벨 무기 / 방어구 선택상자			
+ITEM_20180827_019525	Lv 270 Weapon/Armor Selection Box	270레벨 무기 / 방어구 선택상자			
+ITEM_20180827_019526	Lv 315 Weapon/Armor Selection Box	315레벨 무기 / 방어구 선택상자			
+ITEM_20180827_019527	Lv 350 Weapon/Armor Selection Box	350레벨 무기 / 방어구 선택상자			
+ITEM_20180827_019528	[R10] Lucky Box (1 Hour)	[For 10]핫타임 행운상자 (1시간)			
+ITEM_20180827_019529	Win up to 10,000 Attribute Points!{nl}Can be used by characters of level 50 and above.{nl}Will be automatically deleted at the end of the event period.	[For 10] 10만 넥슨캐시와 최대 10만 특성포인트 획득 찬스!{nl}50레벨 이상일 때 사용할 수 있습니다.{nl}8월 16일 점검 시, 일괄 삭제됩니다.			
+ITEM_20180827_019530	Title - Little Lightbulb	칭호 - 번뜩이는 뇌를 가진			
+ITEM_20180827_019531	Title given to players selected for the monthly BEST event.	월간 BEST 건의 선정자에게 주어지는 칭호			
+ITEM_20180827_019532	Title - Idea Bank	칭호 - 아이디어 뱅크			
+ITEM_20180827_019533	Title given to players selected for the monthly BEST event 5 times.	월간 BEST 건의 5회 선정자에게 주어지는 칭호			
+ITEM_20180827_019534	Title - Idea Master	칭호 - 건의왕			
+ITEM_20180827_019535	Title given to players selected for the monthly BEST event 10 times.	월간 BEST 건의 10회 선정자에게 주어지는 칭호			
+ITEM_20180827_019536	A Bokor can summon zombies by using this capsule. You must know the [Zombify] skill in order to use it and the maximum zombie count is the same as from [Zombify].	보코르가 캡슐을 사용하여 좀비를 소환할 수 있습니다. 사용하기 위해서는 스킬 [좀비 만들기]를 습득해야 하며, 최대 좀비 생성수는 [좀비 만들기]의 제한 수를 따릅니다.	ITEM_20160704_010700	A Bokor can summon zombies by using this capsule. You must know the [Zombify] skill in order to use it and the maximum zombie count is the same as from [Zombify]. Please note that the zombies will be much less capable than the zombies summoned by defeating monsters.	보코르가 캡슐을 사용하여 좀비를 소환할 수 있습니다. 사용하기 위해서는 스킬 [좀비 만들기]를 습득해야 하며, 최대 좀비 생성수는 [좀비 만들기]의 제한 수를 따릅니다. 몬스터 처치시 소환되는 좀비보다 능력치가 현저히 낮은 좀비가 소환되니, 사용시 참고하세요.
+ITEM_20180827_019537	This object is rumored to bring bad luck to its owner. Most recently, it is thought to have led to the death of a member of the Green family.	소유자는 불행해진다는 소문이 있으며 가장 최근 사례로는 항해중인 르귄 가문 사람에게서 이것을 약탈한 블라디슬로바스 역시 오래지 않아 목숨을 잃었습니다.	ITEM_20150918_006774	The seal of Legwyn Family. It broke long time ago so only parts of it are remaining.	르귄가의 인장. 상당히 오래전에 부서져서 일부만 남아있습니다.
+ITEM_20180827_019538	Baltinel Parish Relic	발티넬 교구의 성물			
+ITEM_20180827_019539	Relic kept by the priests of Baltinel Memorial.	발티넬 기념구의 사제들이 다루던 성물입니다.			
+ITEM_20180827_019540	Kupoles' Belongings	구조된 큐폴의 소지품			
+ITEM_20180827_019541	Objects belonging to the rescued Kupoles.	구조된 큐폴이 잃어버린 물건입니다.			
+ITEM_20180827_019542	Neutralizing Orb	무력화 보주			
+ITEM_20180827_019543	Tool used by the demons to hunt the Kupoles.	마족들이 큐폴들을 사냥하기 위해 사용하는 도구입니다.			
+ITEM_20180827_019544	Fake Keepsake	속임수 증표			
+ITEM_20180827_019545	Magic tool in the shape of a necklace created by Kupole Grisia to trick Kupole Velad.	큐폴 그리시아가 큐폴 블라드를 속이기 위해 만든 목걸이 모양의 마법도구입니다.			
+ITEM_20180827_019546	Grisia's Everything	그리시아의 모든 것			
+ITEM_20180827_019547	Things Kupole Grisia is trying to deliver to Velad.	그리시아가 블라드에게 전달해달라고 부탁한 물건			
+ITEM_20180827_019548	Magic Block	마력 제어 주문서			
+ITEM_20180827_019549	A magic-blocking scroll given by Owynia Dilben. Use it to control the magic of the sculptures in Starry Town.	오위니아 딜벤이 준 마력 제어 주문서. 스타리 타운에 있는 조형물들의 마력을 제어하기 위한 주문서			
+ITEM_20180827_019550	Ball of Electricity	전기 구체			
+ITEM_20180827_019551	Found in Starry Town Square. A powerful electric current is flowing through it.	스타리 소광장에 있는 전기 구체. 강력한 전기가 흐른다.			
+ITEM_20180827_019552	Record of newly-arrived residents in Feline Post Town.	펠라인 포스트 타운으로 입주한 사람들에 대한 기록			
+ITEM_20180827_019553	Blackened Clothes	경비병이 던진 횃불에 그을린 옷			
+ITEM_20180827_019554	Ingredy Powder	잉레디 가루			
+ITEM_20180827_019555	Powder found stuck to a monster. Can be used to detect substances in chemical solutions.	미모랫에게 묻어있는 가루. 약품 등의 성분을 알아내는데 사용되는 마법 가루.			
+ITEM_20180827_019556	Detecting Solution	빙의 판별용 용액			
+ITEM_20180827_019557	A solution produced by the Exorcist Master to detect signs of possession and find the Teal Specter hiding in Feline Post Town.	엑소시스트 마스터가 만든 빙의 판별용 용액. 펠라인 포스트 타운에 숨은 틸스펙터를 찾기 위해서 만든 용액			
+ITEM_20180827_019558	Sealing Coin	결계용 주화			
+ITEM_20180827_019559	Solution made for finding the Teal Specter hiding in the artist's body.	화가의 몸에 숨은 틸스펙터를 찾기 위해서 만든 용액			
+ITEM_20180827_019560	Micro Magic Detector	미세 마력 탐지기			
+ITEM_20180827_019561	A device that detects minute manifestations of magic.	미세한 마력을 탐지하는 탐지기			
+ITEM_20180827_019562	Scroll of Gravity	그라비티 주문서			
+ITEM_20180827_019563	A scroll that can make objects levitate.	물건을 띄울 수 있는 주문서			
+ITEM_20180827_019564	Old Reseach Papers	오래된 연구 기록지			
+ITEM_20180827_019565	Old research documents written in a mysterious hieroglyphic script.	오래된 연구 기록지의 원본이다. 상형문자로 되어 읽기 어렵다.			
+ITEM_20180827_019566	Special Glass Bottle	특수 유리 병			
+ITEM_20180827_019567	Bottle used for collecting the materials that make up the starry stairs in the clock tower square.	스타리 시계탑 광장에 있는 은하수 길을 수집하는 필요한 유리병			
+ITEM_20180827_019568	Hand Net	물고기 채집망			
+ITEM_20180827_019569	A net used for catching fish.	물고기를 채집하기 위해 몰란이 건네 준 채집망.			
+ITEM_20180827_019570	Lake Fish	호수 물고기			
+ITEM_20180827_019571	A fish from the lake. It is still alive.	호수에 사는 민물고기. 아직까지 살아있다.			
+ITEM_20180827_019572	Documents with information on how to operate the Water Facilities.	수반시설의 관리절차가 적혀있는 문서.			
+ITEM_20180827_019573	Bloody Note	피묻은 쪽지			
+ITEM_20180827_019574	A written note, penned by someone who was likely in a hurry. It is stained with blood.	급하게 써내려 간 듯한 쪽지. 피가 말라 붙어있다.			
+ITEM_20180827_019575	Good Magic Stone	쓸만한 마법석			
+ITEM_20180827_019576	A shining Magic Stone. It looks filled with magic and ready to be used.	밝게 빛나는 마법석. 마력을 온전히 가지고 있어 쓸만해 보인다.			
+ITEM_20180827_019577	Water Bag	물 주머니			
+ITEM_20180827_019578	A bag for collecting purified water.	정화된 물을 담기 위해 크론이 건네 준 물 주머니.			
+ITEM_20180827_019579	Rias Weeds	리아스 풀			
+ITEM_20180827_019580	Small plants that grow on the lake. They give off a strong divine energy.	호수에 피는 작은 풀. 신성한 기운을 뿜어내고 있다.			
+ITEM_20180827_019581	Refined Rias Weed Powder	리아스 풀 정제 가루			
+ITEM_20180827_019582	Powder made from refined Rias Weeds.	리아스 풀을 정제해 만든 가루.			
+ITEM_20180827_019583	A bag full of purified water.	정화된 물이 가득 담긴 물 주머니.			
+ITEM_20180827_019584	Trap Removal Tool	함정 제거 도구			
+ITEM_20180827_019585	Tyler's tool for removing traps.	테일러가 건네 준 함정 제거 도구. 함정을 제거할 때 유용해 보인다.			
+ITEM_20180827_019586	Small Poison Bottle	작은 독약병			
+ITEM_20180827_019587	A bottle filled with poison.	독극물이 담긴 병.			
+ITEM_20180827_019588	Magic Detector	마력 감지석			
+ITEM_20180827_019589	A stone that can detect magic. It looks expensive.	마력을 감지해내는 마법석. 꽤 값이 나가보인다.			
+ITEM_20180827_019590	First Half of Ancient Disc	고대 원판의 첫번째 파편			
+ITEM_20180827_019591	Part of an ancient disc. You need the other half in order to read what is written on it.	고대 원판의 파편. 반쪽 짜리라 원판에 쓰인 글을 모두 읽을 수가 없다.			
+ITEM_20180827_019592	Second Half of Ancient Disc	고대 원판의 두번째 파편			
+ITEM_20180827_019593	Revealing Orb	진실을 꿰뚫는 보주			
+ITEM_20180827_019594	Orb created to reveal demons who are disguised as humans.	진실을 꿰뚫는 보주. 인간으로 위장한 마족을 구별할 수 있도록 만들어졌다.			
+ITEM_20180827_019595	Stone with Lake Energy	호수의 기운이 깃든 돌			
+ITEM_20180827_019596	A stone imbued with the magic energy of the lake.	호수의 기운이 깃들어 마력을 가진 돌			
+ITEM_20180827_019597	A stone that absorbs specific types of energy.	특정한 기운을 흡수하는 흡수석.			
+ITEM_20180827_019598	Powerful Arrow Recipe	강력한 화살 제작서			
+ITEM_20180827_019599	Contains instructions on how to craft an arrow using the method developed by the Fletcher Master.	플레처 마스터가 고안해 낸 강력한 화살 제작방식이 적혀있다.			
+ITEM_20180827_019600	Earth Essence	대지의 정수			
+ITEM_20180827_019601	A material that emits a faint shine, at times found on the continent. Rumors say it can be used to produce powerful tools.	은은한 빛이 나는 정수. 대륙에 가끔씩 발견되는 재료이며, 이 정수를 이용해 강력한 물품을 만들어 낸다는 소문이 있다.			
+ITEM_20180827_019602	Natural Obsidian	천연 흑요석			
+ITEM_20180827_019603	A type of Obsidian possessing a distinctive red color. It's imbued with the magic energy of the lake.	붉은빛을 띤 흑요석. 호수의 기운이 깃들어 마력을 가지고 있다.			
+ITEM_20180827_019604	Humming Duke Feather	허밍 듀크의 깃털			
+ITEM_20180827_019605	A type of feather that is exceptionally malleable and robust.	다른 깃털에 비해 유연하면서 질기다.			
+ITEM_20180827_019606	Ziburyte	지부리트 풀			
+ITEM_20180827_019607	A highly poisonous plant, avoided even by insects.	독성이 강한 풀. 독성이 강해 벌레조차 접근하지 않는다.			
+ITEM_20180827_019608	Poisonous Trap	독을 품은 함정			
+ITEM_20180827_019609	A trap made with Ziburyte poison.	헌터 오르트가 지부리트 풀을 이용해 만든 함정.			
+ITEM_20180827_019610	Humming Duke Meat	허밍 듀크의 고기			
+ITEM_20180827_019611	Lean meat obtained from a Humming Duke.	허밍 듀크의 고기. 지방이 거의 없다.			
+ITEM_20180827_019612	Pasto	파스토 수초			
+ITEM_20180827_019613	A water plant that grows on the lake. It possesses outstanding purifying properties.	호수에 자라는 수초. 뛰어난 정화기능을 가지고 있다.			
+ITEM_20180827_019614	Magic Orb	마력이 담긴 구슬			
+ITEM_20180827_019615	A blue orb imbued with magic. It disappears if taken outside of Baubas Cave.	마력이 담긴 푸른 구슬. 해당 아이템은 바우바스 동굴을 벗어나면 사라집니다.			
+ITEM_20180827_019616	Concentrated Blue Crystal	마력이 응집된 푸른색 결정			
+ITEM_20180827_019617	A blue crystal containing concentrated magic. Its uses are unknown. The crystal disappears if taken outside of Baubas Cave.	마력이 응집된 푸른색 결정. 어디에 쓰이는지 알 수 없다. 해당 아이템은 바우바스 동굴을 벗어나면 사라집니다.			
+ITEM_20180827_019618	Concentrated Red Crystal	마력이 응집된 붉은색 결정			
+ITEM_20180827_019619	A red crystal containing concentrated magic. Its uses are unknown. The crystal disappears if taken outside of Baubas Cave.	마력이 응집된 붉은색 결정. 어디에 쓰이는지 알 수 없다. 해당 아이템은 바우바스 동굴을 벗어나면 사라집니다.			
+ITEM_20180827_019620	Concentrated Yellow Crystal	마력이 응집된 노란색 결정			
+ITEM_20180827_019621	A yellow crystal containing concentrated magic. Its uses are unknown. The crystal disappears if taken outside of Baubas Cave.	마력이 응집된 노란색 결정. 어디에 쓰이는지 알 수 없다. 해당 아이템은 바우바스 동굴을 벗어나면 사라집니다.			
+ITEM_20180827_019622	Portal Suppressor	포탈 생성 억제기			
+ITEM_20180827_019623	A device used to suppress the magic of portals.	크론이 라무네스 장로에게 받은 포탈 생성 억제기입니다. 이걸 이용해 포탈의 마력을 억제할 수 있습니다.			
+ITEM_20180827_019624	Portal Bomb	포탈 제거 폭탄			
+ITEM_20180827_019625	A bomb for destroying portals. Use it to eliminate the portals created by the demons.	크론이 준 포탈 제거 폭탄입니다. 이를 이용해 마족이 생성한 포탈을 없앨 수 있습니다.			
+ITEM_20180827_019626	A magic stone fragment that was being held by a demon. Kron wants to use it to create a bomb that can destroy the magic protecting the defensive devices.	마족들이 들고 있던 마석 조각입니다. 크론은 이를 이용해 방어 장치를 보호하는 마법을 없앨 폭탄을 만드려고 합니다.			
+ITEM_20180827_019627	Magic Stone Bomb	마석으로 만든 마력 폭탄			
+ITEM_20180827_019628	A bomb made from magic stone fragments. It may be slow to detonate, but the explosion it produces is powerful enough.	모아온 마석으로 크론이 만들어 준 마력 폭탄입니다. 터지는 데에는 시간이 걸리지만 큰 위력을 발휘한다고 합니다.			
+ITEM_20180827_019629	First Device Lever	1차 방어 장치의 레버			
+ITEM_20180827_019630	This lever can be connected to the first defensive device in order to deactivate the trap.	수호자가 가지고 있었던 레버입니다. 이걸 1차 방어 장치에 연결하여 이용하면 함정을 멈출 수 있습니다.			
+ITEM_20180827_019631	Written Instructions	상관에게 받은 지령서			
+ITEM_20180827_019632	A document obtained from nearby demons containing instructions from a superior. They describe what to do on 4F.	주변의 마족들이 지니고 있던 지령서입니다. 4층에서 어떤 일을 해야할지에 대해 적혀있습니다.			
+ITEM_20180827_019633	Second Device Lever	2차 방어 장치의 레버			
+ITEM_20180827_019634	This lever can be connected to the second defensive device in order to deactivate the trap.	수호자가 가지고 있었던 레버입니다. 이걸 2차 방어 장치에 연결하여 이용하면 함정을 멈출 수 있습니다.			
+ITEM_20180827_019635	Elder Henika's Key	장로 헤니카의 열쇠			
+ITEM_20180827_019636	A key belonging to Elder Henika. It exudes an unpleasant energy. You will need it to use the elevator to 21F.	장로 헤니카가 가지고 있던 열쇠입니다. 손을 대니 기분 나쁜 기운이 느껴집니다. 21층으로 향하는 승강기를 이용하기 위해 필요합니다.			
+ITEM_20180827_019637	Schaffenstar Emergency Meds	샤펜스타의 비상약			
+ITEM_20180827_019638	Emergency medicine commonly provided to members of the Schaffenstar. It includes a powerful antidote. Somehow it was in the hands of a demon.	샤펜스타의 단원들이 들고다니는 비상약입니다. 중독되었을 때에 대비하여 효력 강한 해독제가 담겨있습니다. 어째서인지 마족들이 이걸 가지고 있었습니다.			
+ITEM_20180827_019639	Control Device Handle	제어 장치의 핸들			
+ITEM_20180827_019640	A handle that controls the barrier that's hiding the first defensive device on 12F. You can connect it to the control device and turn the handle to disable it.	12층의 1차 방어 장치를 숨기고 있는 결계를 제어하고 있는 손잡이입니다. 이걸 제어 장치에 연결하여 돌리면 제어 기능을 멈출 수 있습니다.			
+ITEM_20180827_019641	Elder Adaux's Key	장로 아다욱스의 열쇠			
+ITEM_20180827_019642	A key belonging to Elder Adaux. It exudes an unpleasant energy. You will need it to use the elevator to 21F.	장로 아다욱스가 가지고 있던 열쇠입니다. 손을 대니 기분 나쁜 기운이 느껴집니다. 21층으로 향하는 승강기를 이용하기 위해 필요합니다.			
+ITEM_20180827_019643	Suspicious Scroll	수상한 스크롤			
+ITEM_20180827_019644	A scroll being kept by the Schaffenstar members guarding the control device. You can use it to find magic sources hidden nearby.	제어 장치를 지키고 있는 샤펜스타의 부하들이 가지고 있던 스크롤입니다. 이걸 이용해 주변에 숨겨져 있는 마력원을 찾아낼 수 있습니다.			
+ITEM_20180827_019645	Defensive Device Lever	방어 장치의 레버			
+ITEM_20180827_019646	This lever can be connected to the defensive device in order to deactivate the trap.	수호자가 가지고 있었던 레버입니다. 이걸 방어 장치에 연결하여 이용하면 함정을 멈출 수 있습니다.			
+ITEM_20180827_019647	First General Office Key	관리실의 첫 번째 열쇠			
+ITEM_20180827_019648	A key to the General Office on 20F, taken from the demons. It can be used to find another key.	관리실에 있는 마족에게서 찾아낸 20층 관리실의 열쇠입니다. 이걸 이용하여 다른 곳에 있는 열쇠를 찾아낼 수 있습니다.			
+ITEM_20180827_019649	Second General Office Key	관리실의 두 번째 열쇠			
+ITEM_20180827_019650	Another key to the General Office on 20F. It can be used with the other office key to operate the elevator to 21F.	다른 열쇠를 이용해 찾아낸 20층 관리실의 또 다른 열쇠입니다. 다른 열쇠들과 함께 21층으로 향하는 승강기를 이용하기 위해 필요합니다.			
+ITEM_20180827_019651	Magic Arrow	마법이 깃든 화살			
+ITEM_20180827_019652	An arrow given by Byle. It may not be powerful enough to stop Elder Henika, but it can weaken the demons.	바일이 준 화살입니다. 화살에 달린 화살촉은 장로 헤니카를 포박할 때만큼의 강한 힘이 깃들진 않았지만 마족의 힘을 약화시키는 효과가 있다고 합니다.			
+ITEM_20180827_019653	Elder Cezaris' Key	장로 세자리스의 열쇠			
+ITEM_20180827_019654	A key belonging to Elder Cezaris. It exudes an unpleasant energy. You will need it to use the elevator to 21F.	장로 세자리스가 가지고 있던 열쇠입니다. 손을 대니 기분 나쁜 기운이 느껴집니다. 21층으로 향하는 승강기를 이용하기 위해 필요합니다.			
+ITEM_20180827_019655	Magic Residue	마력 잔류물			
+ITEM_20180827_019656	Traces of magic found scattered around. Byle wants to use them to overload the demon devices.	마력이 산재한 곳에서 찾아낸 마력 잔류물입니다. 바일은 이걸 많이 모아 마족의 장치에 넣어 폭파시킬 생각을 하고 있습니다.			
+ITEM_20180827_019657	The tenth Revelation, found at the Astral Tower. Readable.	별의 탑에서 발견된 열 번째 계시. 읽어볼 수 있습니다.			
+ITEM_20180827_019658	Red Bookmark	빨간색 책갈피			
+ITEM_20180827_019659	A red bookmark that can be used to decipher the code used in the Fantasy Library. You need to place all the bookmarks in the correct order to open the portal.	환상도서관에서 이용되는 암호를 풀기 위한 빨간색 책갈피. 모든 책갈피를 알맞은 위치에 배치하면 다음 지역으로 가는 포탈을 열 수 있습니다.			
+ITEM_20180827_019660	Yellow Bookmark	노란색 책갈피			
+ITEM_20180827_019661	A yellow bookmark that can be used to decipher the code used in the Fantasy Library. You need to place all the bookmarks in the correct order to open the portal.	환상도서관에서 이용되는 암호를 풀기 위한 노란색 책갈피. 모든 책갈피를 알맞은 위치에 배치하면 다음 지역으로 가는 포탈을 열 수 있습니다.			
+ITEM_20180827_019662	Green Bookmark	초록색 책갈피			
+ITEM_20180827_019663	A green bookmark that can be used to decipher the code used in the Fantasy Library. You need to place all the bookmarks in the correct order to open the portal.	환상도서관에서 이용되는 암호를 풀기 위한 초록색 책갈피. 모든 책갈피를 알맞은 위치에 배치하면 다음 지역으로 가는 포탈을 열 수 있습니다.			
+ITEM_20180827_019664	Blue Bookmark	파란색 책갈피			
+ITEM_20180827_019665	A blue bookmark that can be used to decipher the code used in the Fantasy Library. You need to place all the bookmarks in the correct order to open the portal.	환상도서관에서 이용되는 암호를 풀기 위한 파란색 책갈피. 모든 책갈피를 알맞은 위치에 배치하면 다음 지역으로 가는 포탈을 열 수 있습니다.			
+ITEM_20180827_019666	Story of the Legendary Archer and Arrow Maker. Readable.	전설의 궁사와 전설의 화살제조자의 이야기. 내용물은 읽어볼 수 없습니다.			
+ITEM_20180827_019667	No target is invisible for a trained archer! Readable.	훈련된 궁수에게 보이지 않는 표적은 없다! 내용물은 읽어볼 수 없습니다.			
+ITEM_20180827_019668	Advice on the use of tools given by Lydia Schaffen to her apprentices. Readable.	리디아 샤펜이 제자들에게 내린 도구에 관한 교훈. 내용물은 읽어볼 수 없습니다.			
+ITEM_20180827_019669	The challenges faced by Lydia Schaffen and her solutions. Readable.	리디아 샤펜에게 던져진 난제들에 대한 그녀의 대처법. 내용물은 읽어볼 수 없습니다.			
+ITEM_20180827_019670	Essential Reading for Linkers: Finding The Nexus Point Of All Ego. Not readable.	링커들을 위한 필독서; 모든 자아의 연결점을 찾아라! 내용물은 읽어볼 수 없습니다.			
+ITEM_20180827_019671	A book sought after by the Sage Master. Not readable.	세이지 마스터가 찾고 있는 책. 내용물은 읽어볼 수 없습니다.			
+ITEM_20180827_019672	A research paper on armors used during the rule of King Kadumel. Not readable.	카듀멜 국왕 시대의 갑옷에 관한 연구서. 내용물은 읽어볼 수 없습니다
