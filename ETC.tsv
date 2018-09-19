@@ -2156,8 +2156,8 @@ ETC_20150317_002155	Central Estátua da Deusa Zemyna
 ETC_20150317_002156	Identity of the old man
 ETC_20150317_002157	Food of Fedimian
 ETC_20150317_002158	Talk to the summoned guardian of Zachariel to unseal!
-ETC_20150317_002159	You received a Status Point!
-ETC_20150317_002160	Nothing happened!
+ETC_20150317_002159	Você recebeu um ponto de Status!
+ETC_20150317_002160	Nada Aconteceu!
 ETC_20150317_002161	Kicking the chest angered a Red Vubbe Fighter!
 ETC_20150317_002162	You've collected Canyon Amalas!
 ETC_20150317_002163	You became confused from the Canyon Amalas' toxins!
@@ -14593,7 +14593,7 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	Ataque Físico Secundário
+ETC_20150918_014598	{s15}Ataque Físico Secundário
 ETC_20150918_014599	Secondary Magical Attack
 ETC_20150918_014600	Você deseja bloquear esse usuário?
 ETC_20150918_014601	You cannot 'Like' yet.
@@ -33007,7 +33007,7 @@ ETC_20180517_032971	Guild Emblem deleted.
 ETC_20180517_032972	No Guild Emblem exists.
 ETC_20180517_032973	Cannot be used in your current location.
 ETC_20180517_032974	This item is already in your basket.{nl}Add to basket?
-ETC_20180517_032975	{s16}{@st66b}{Auto_1}{Auto_2} Set Effects  {nl}
+ETC_20180517_032975	{s16}{@st66b}{Auto_1}{Auto_2} Efeitos do Set  {nl}
 ETC_20180517_032976	Are you sure you want to discard {#85070a}[{ITEM}]{/} x{#85070a}[{COUNT}]{/}?
 ETC_20180517_032977	Are you sure you want to discard {#85070a}[{ITEM}]{/}을 버리시겠습니까?
 ETC_20180517_032978	For more information, check the official website at treeofsavior.com.
@@ -34386,7 +34386,7 @@ ETC_20180629_034350	PC Shop
 ETC_20180629_034351	This item is already being purchased. Please try again.
 ETC_20180629_034352	No purchases failed.
 ETC_20180629_034353	Close Flute mode.
-ETC_20180629_034354	{@st59}Increases max. SP, SP recovery, summon damage, summon HP and Healing{/}
+ETC_20180629_034354	{img skillup 25 25}{@st59}Aumenta o SP max., Recuperação de SP, Dano das Invocações, HP das Invocações e Cura{/}
 ETC_20180629_034355	Unavailable Party Member(s)
 ETC_20180629_034356	{nl}Quest Reward: {REWARD}
 ETC_20180629_034357	{nl}Using Shop: {SHOP}
@@ -34645,7 +34645,7 @@ ETC_20180629_034609	Changed to Lodge {target}.
 ETC_20180629_034610	Failed to change Lodge layer.
 ETC_20180629_034611	Cannot read books while using a skill.
 ETC_20180629_034612	Party invitations are not available in this map.
-ETC_20180629_034613	{@st59}Magic defense increased, Healing increased{/}
+ETC_20180629_034613	{img skillup 25 25}{@st59}Aumenta Defesa Mágica e Taxa de Cura{/}
 ETC_20180629_034614	No enemy to attack.
 ETC_20180629_034615	Cannot use skill.
 ETC_20180629_034616	Entity!
@@ -35662,7 +35662,7 @@ ETC_20180827_035618	ENH: Necklaces and bracelets gain +10 critical rate per enha
 ETC_20180827_035619	Nematomas Set	네메트마스 세트				
 ETC_20180827_035620	Attacking enemies of level 400 and below from the back ignores their block chances.	400레벨 이하의 적에게 후방 공격 판정일 경우 적의 블럭 확률을 무시합니다.				
 ETC_20180827_035621	Rangovas Set	렌고베스 세트				
-ETC_20180827_035622	Transfers 50% of your max. HP and defense to your summons.{nl} {nl}Transfers up to:{nl}Max. HP 30,000{nl}Defense 6,000	착용자의 최대 HP, 방어력 50%를 소환수에게 이전합니다.{nl} {nl}최대 이전 가능 수치{nl}최대 HP: 30,000 {nl}방어력: 6,000				
+ETC_20180827_035622	Transfere 50% do seu HP máximo e defesa para sua invocação.{Nl} {nl} Transfere até:{nl}Max. HP: 30,000{nl}Defesa: 6,000	착용자의 최대 HP, 방어력 50%를 소환수에게 이전합니다.{nl} {nl}최대 이전 가능 수치{nl}최대 HP: 30,000 {nl}방어력: 6,000				
 ETC_20180827_035623	Max. Recipe Materials	제작서 제작 재료 최대 개수				
 ETC_20180827_035624	Materials Shown in Search Results	제작서 재료 검색시 페이지당 보여지는 개수				
 ETC_20180827_035625	PP Party EXP Bonus	넥슨 PC방 파티 추가 경험치				
@@ -36172,7 +36172,7 @@ ETC_20180827_036128	Slime Wizard	슬라임 위자드
 ETC_20180827_036129	Someone is running in your direction.	저 멀리서 누군가 달려오고 있습니다				
 ETC_20180827_036130	The supplies are being destroyed!	보급 물자가 파괴되고 있습니다!				
 ETC_20180827_036131	The soldiers are in danger!	저항군이 위험합니다!				
-ETC_20180827_036132	The portal to the other side of the river has opened.	강 건너로 이동 가능한 포탈이 열렸습니다.				
+ETC_20180827_036132	O portal para o outro lado do rio se abriu.	강 건너로 이동 가능한 포탈이 열렸습니다.				
 ETC_20180827_036133	The gate that was blocking the way has opened.	길을 가로막던 문이 열렸습니다.				
 ETC_20180827_036134	The portal to the next location has opened.	다음 지역으로 이동할 수 있는 포탈이 열렸습니다.				
 ETC_20180827_036135	Support Soldier	저항군 지원병				
@@ -36208,32 +36208,78 @@ ETC_20180827_036164	Find the code and open the portal within the time limit!	시
 ETC_20180827_036165	Go to the locations mentioned by Agailla Flurry{nl}and find the clues for the code to open the portal!	아가일라 플러리의 말에 따라 각 장소로 이동해{nl}암호를 풀 단서를 찾아내 암호를 풀고 포탈을 여세요!				
 ETC_20180827_036166	The portal is open!{nl}Go through it and move to the next location.	암호를 해제하여 포탈이 생성됐습니다!{nl}포탈을 통해 다음 지역으로 이동하세요				
 ETC_20180827_036167	You failed to find the code and stop Giltine's plans.{nl}Returning in 60 seconds.	시간 내에 암호를 풀지 못해 길티네의 계획을 저지하지 못했습니다.{nl}60초 뒤 입장했던 곳으로 이동합니다.				
-ETC_20180827_036168	Protect Agailla Flurry!	아가일라 플러리를 보호하세요!				
-ETC_20180827_036169	Protect Agailla Flurry while she deactivates the barrier device!	아가일라 플러리가 결계 장치를 해제할 때까지 그녀를 보호하세요!				
-ETC_20180827_036170	Agailla Flurry deactivated the barrier device!{nl}Move to the next location.	아가일라 플러리가 결계 장치를 해제했습니다!{nl}다음 지역으로 이동하세요				
-ETC_20180827_036171	Agailla Flurry has been defeated and can no longer carry out the mission.{nl}Returning in 60 seconds.	아가일라 플러리가 쓰러져 계획을 더 이상 진행할 수 없게 됐습니다.{nl}60초 뒤 입장했던 곳으로 이동합니다.				
-ETC_20180827_036172	Agailla Flurry HP: 50%	아가일라 플러리 잔여 HP량 : 50%				
-ETC_20180827_036173	Agailla Flurry HP: 30%	아가일라 플러리 잔여 HP량 : 30%				
-ETC_20180827_036174	Agailla Flurry HP: 10%	아가일라 플러리 잔여 HP량 : 10%				
-ETC_20180827_036175	Destroy all Magical Power Absorption devices!	마력 흡수 장치를 모두 파괴하세요!				
-ETC_20180827_036176	Hauberk is trapped in the absorption device!{nl}Rescue him before all his magic is absorbed!	하우벅이 마력 흡수 장치에 갖혔습니다!{nl}하우벅이 모든 마력을 흡수당하기 전에 그를 구출하세요!				
-ETC_20180827_036177	Until all the Magical Power Absorption devices are destroyed	모든 마력 약화 장치 파괴까지				
-ETC_20180827_036178	All the absorption devices have been destroyed!{nl}Follow Hauberk.	마력 흡수 함정을 전부 파괴했습니다!{nl}하우벅을 따라 이동하세요				
-ETC_20180827_036179	Hauberk lost magic power and can no longer continue the mission.{nl}Returning in 60 seconds.	하우벅의 마력이 소실되어 계획을 더 이상 진행할 수 없습니다{nl}60초 뒤 입장했던 곳으로 이동합니다.				
-ETC_20180827_036180	Hauberk needs a lot of magic power to disable the barrier.{nl}Defeat nearby demons and transfer their power to Hauberk!	하우벅이 결계를 없애기 위해선 많은 마력이 필요하다고 합니다{nl}주변의 마족들을 처치하여 하우벅에게 마력을 주입해주세요!				
-ETC_20180827_036181	Transfer the magic power to Hauberk!	하우벅에게 마력을 주입해주세요!				
-ETC_20180827_036182	Transfer the magic power to Hauberk.	하우벅에게 마력을 전달합니다				
-ETC_20180827_036183	The barrier was destroyed by Hauberk's magic power!{nl}Follow him.	하우벅에게 마력을 주입해 결계를 파괴했습니다!{nl}하우벅을 따라 이동하세요				
-ETC_20180827_036184	Failed to collect enough power within the time limit.{nl}Returning in 60 seconds.	시간 내에 마력을 모으지 못해 계획이 실패했습니다{nl}60초 뒤 입장했던 곳으로 이동합니다.				
-ETC_20180827_036185	Vhaldobas is blocking your way!{nl}Defeat Vhaldobas.	발도바스가 나타나 앞길을 가로막았습니다!{nl}발도바스를 처치하세요				
-ETC_20180827_036186	Defeat Vhaldobas!	발도바스를 처치하세요!				
-ETC_20180827_036187	You defeated Vhaldobas!{nl}Go through the open portal.	발도바스를 물리쳤습니다!{nl}열려진 포탈을 따라 이동하세요				
-ETC_20180827_036188	Failed to defeat Vhaldobas within the time limit.{nl}Returning in 60 seconds.	시간 내에 발도바스를 처치하지 못해 계획이 실패했습니다{nl}60초 뒤 입장했던 곳으로 이동합니다.				
-ETC_20180827_036189	Defeat nearby demons!	주변의 마족들을 처치하세요!				
-ETC_20180827_036190	Agailla Flurry is preparing for the last step of the mission.{nl}Defeat the demons who are trying to stop her!	아가일라 플러리가 계획의 마지막을 준비하고 있습니다{nl}계획을 막으려는 주변의 마족들을 처치하세요!				
-ETC_20180827_036191	Agailla Flurry has finished all preparations!{nl}Talk to her.	아가일라 플러리가 모든 준비를 마쳤습니다!{nl}아가일라 플러리와 대화하세요				
-ETC_20180827_036192	Failed to protect Agailla Flurry from the demons.{nl}Returning in 60 seconds.	마족들로부터 아가일라 플러리를 지키지 못해 계획을 진행할 수 없습니다{nl}60초 뒤 입장했던 곳으로 이동합니다.				
-ETC_20180827_036193	Talk to Agailla Flurry when you are ready!	준비가 됐다면 아가일라 플러리와 대화하여 알려주세요!				
-ETC_20180827_036194	Defeat Froster Lord!	마군주 프로스터 로드를 처치하세요!				
-ETC_20180827_036195	Froster Lord has been defeated!{nl}Agailla Flurry's mission is complete!{nl}Returning in 20 seconds.	마군주 프로스터 로드를 쓰러뜨렸습니다!{nl}아가일라 플러리의 계획을 성공적으로 마쳤습니다!{nl}20초 뒤 입장했던 곳으로 이동합니다.				
-ETC_20180903_036196	Logout: long ago	로그아웃 : 오래 전
+ETC_20180827_036126	Unique Raid Dungeon
+ETC_20180827_036127	Exorcist Daivis
+ETC_20180827_036128	Slime Wizard
+ETC_20180827_036129	Alguém está correndo na sua direção.
+ETC_20180827_036130	Os suprimentos estão sendo destruídos!
+ETC_20180827_036131	Os soldados estão em perigo!
+ETC_20180827_036132	O portal para o outro lado do rio está aberto.
+ETC_20180827_036133	O portão que estava bloqueando o caminho foi aberto.
+ETC_20180827_036134	O portal para o próximo local foi aberto.
+ETC_20180827_036135	Soldado de Apoio
+ETC_20180827_036136	Falha se 20 ou mais Soldados morrerem.
+ETC_20180827_036137	Chegaram reforços!
+ETC_20180827_036138	Proteja os Soldados de Apoio por 3 minutos sem que 20 deles morram!
+ETC_20180827_036139	Os demônios lançaram seu ataque!{nl}Derrote os demônios!
+ETC_20180827_036140	Mais demônios estão chegando!{nl}Continue derrotando todos!
+ETC_20180827_036141	Os demônios estão atacando as posições de frente!{nl}Continue derrotando todos!
+ETC_20180827_036142	Os demônios estão se infiltrando no campo!{nl}Continue derrotando todos!
+ETC_20180827_036143	Missão completada: retornando em 20 segundos.
+ETC_20180827_036144	Todos os membros do grupo ficaram incapazes de continuar. Missão falhou.{nl}Retornando em 60 segundos.
+ETC_20180827_036145	Missão falhou: retornando em 60 segundos.
+ETC_20180827_036146	Retornando em 30 segundos.
+ETC_20180827_036147	Retornando em 20 segundos.
+ETC_20180827_036148	Retornando em 10 segundos.
+ETC_20180827_036149	Dispositivo de Barreira
+ETC_20180827_036150	Você chegou! Me dê cobertura enquanto eu desativo o dispositivo!
+ETC_20180827_036151	Agailla Flurry está procurando por você!{nl}Fale com ela.
+ETC_20180827_036152	Siga as instruções de Agailla Flurry e vá ao próximo local.
+ETC_20180827_036153	Derrote os demônios!
+ETC_20180827_036154	Derrote os demônios que atacam as Red Boundary Stones!
+ETC_20180827_036155	Você protegeu as Boundary Stones dos demônios!{nl}Vá para o próximo local.
+ETC_20180827_036156	As Boundary Stones foram destruídas. Giltine encontrou você.{nl}Retornando em 60 segundos.
+ETC_20180827_036157	HP da Boundary Stone: 50%
+ETC_20180827_036158	HP da Boundary Stone: 30%
+ETC_20180827_036159	HP da Boundary Stone: 10%
+ETC_20180827_036160	Derrote o Specter of Deceit que bloqueia o caminho!
+ETC_20180827_036161	Derrote o Specter of Deceit!
+ETC_20180827_036162	Derrotou o Specter of Deceit!{nl}Vá para o próximo local.
+ETC_20180827_036163	Falhou em derrotar o Specter of Deceit e deter os planos de Giltine.{nl}Retornando em 60 segundos.
+ETC_20180827_036164	Encontre o código e abra o portal dentro do tempo limite!
+ETC_20180827_036165	Vá aos locais mencionados por Agailla Flurry{nl}e ache as pistas para o código que destrava o portal!
+ETC_20180827_036166	O portal está aberto!{nl}Passe por ele e vá ao próximo local.
+ETC_20180827_036167	Falhou em encontrar o código e deter os planos de Giltine.{nl}Retornando em 60 segundos.
+ETC_20180827_036168	Proteja Agailla Flurry!
+ETC_20180827_036169	Proteja Agailla Flurry enquanto ela desativa a barreira!
+ETC_20180827_036170	Agailla Flurry desativou o Dispositivo de Barreira!{nl}Vá para o próximo local.
+ETC_20180827_036171	Agailla Flurry foi derrotada e não pode prosseguir com a missão.{nl}Retornando em 60 segundos.
+ETC_20180827_036172	HP de Agailla Flurry HP: 50%
+ETC_20180827_036173	HP de Agailla Flurry HP: 30%
+ETC_20180827_036174	HP de Agailla Flurry HP: 10%
+ETC_20180827_036175	Destrua todos os Magical Power Absorption Devices!
+ETC_20180827_036176	Hauberk está preso no Absorption Device!{nl}Salve-o antes que todo seu poder seja absorvido!
+ETC_20180827_036177	Enquanto todo os Magical Power Absorption Devices são destruídos
+ETC_20180827_036178	Todos os Absorption Devices foram destruídos!{nl}Siga Hauberk.
+ETC_20180827_036179	Hauberk perdeu sua força mágica e não pode prosseguir.{nl}Retornando em 60 segundos.
+ETC_20180827_036180	Hauberk precisa de muita energia para desativar a barreira.{nl}Derrote os demônios ao redor para transferir a força deles para Hauberk!
+ETC_20180827_036181	Transfira o poder mágico para Hauberk!
+ETC_20180827_036182	Transfira o poder mágico para Hauberk.
+ETC_20180827_036183	A barreira foi destruída pela força de Hauberk!{nl}Siga Hauberk.
+ETC_20180827_036184	Falhou em coletar energia suficiente dentro do tempo limite.{nl}Retornando em 60 segundos.
+ETC_20180827_036185	Vhaldobas está bloqueando o caminho!{nl}Derrote Vhaldobas.
+ETC_20180827_036186	Derrote Vhaldobas!
+ETC_20180827_036187	Derrotou Vhaldobas!{nl}Vá pelo portal aberto.
+ETC_20180827_036188	Falhou em derrotar Vhaldobas dentro do tempo limite.{nl}Retornando em 60 segundos.
+ETC_20180827_036189	Derrote os demônios ao redor!
+ETC_20180827_036190	Agailla Flurry está preparando o próximo passo da missão.{nl}Derrote os demônios que estão tentando impedir!
+ETC_20180827_036191	Agailla Flurry terminou todos os preparos!{nl}Fale com ela.
+ETC_20180827_036192	Falhou em proteger Agailla Flurry dos demônios.{nl}Retornando em 60 segundos.
+ETC_20180827_036193	Fale com Agailla Flurry quando estiver pronto!
+ETC_20180827_036194	Derrote Froster Lord!
+ETC_20180827_036195	Froster Lord foi derrotado!{nl}A missão de Agailla Flurry foi completada!{nl}Retornando em 20 segundos.
+ETC_20180903_036196	Logout: A muito tempo
+ETC_20180914_036197	Missão Especial!
+ETC_20180914_036198	[Evento] Missão especial! Ajude os soldados da Resistência Schaffenstar.
+ETC_20180914_036199	Disponibilize a PP Shop para todos os usuários S/N
+ETC_20180914_036200	Use a mágica de teletransporte dentro da célula da oficina e mova-a para a célula no lado oposto.

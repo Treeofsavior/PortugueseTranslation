@@ -19180,7 +19180,7 @@ ITEM_20180827_019166	No one knows for sure who the original owner of this neckla
 ITEM_20180827_019167	Nematomas Necklace	네메트마스 네클리스			
 ITEM_20180827_019168	The owner of this necklace attacked their enemy from behind and disappeared without a trace. No one saw who they were, or what they looked like.	이 목걸이의 주인을 본 사람은 아무도 없다고 합니다. 뒤에서 막을 수 없는 공격을 선보이고 사라졌기 때문입니다.			
 ITEM_20180827_019169	Rangovas Necklace	랜고베스 네클리스			
-ITEM_20180827_019170	 - When worn, prevents summons from being knocked back.	 - 착용시 소환수가 넘어지지 않습니다.			
+ITEM_20180827_019170	 - Quando usado, previne que suas invocações sejam empurradas.
 ITEM_20180827_019171	The summons walked forward, mighty and powerful. The sight was akin to that of an enormous army advancing.	전장의 소환수들은 강건하게 전진했습니다. 그 모습은 마치 거대한 군단이 움직이는 것과 같았다고 합니다.			
 ITEM_20180827_019172	Himil Legacy	히밀의 유산			
 ITEM_20180827_019173	A bracelet left behind by the Himil family at the time they separated from the Schaffenstar. The family later realized their mistake, but being in the possession of the bracelet's recipe, they did not demand to have it returned. It is said that the Schaffenstar themselves were unaware of the bracelet's whereabouts for a long time.	히밀 가문이 샤펜스타에서 독립할 때 미쳐 챙기지 못한 팔찌입니다. 히밀 가문은 나중에 자신들이 빠뜨린 사실을 알았으나 제조법을 알고 있기에 반환 요구를 한 적은 없습니다. 그런데 샤펜스타에서도 오랜 기간 이 팔찌가 어디 있는지 모르고 있었다고 합니다.			
@@ -19427,12 +19427,12 @@ ITEM_20180827_019413	Fantasy Library: Sausis Room 9 Dungeon Cube	환상 도서�
 ITEM_20180827_019414	Received after clearing Fantasy Library: Sausis Room 9.	환상 도서관: 사우시스 9관을 클리어하여 받은 보상입니다.			
 ITEM_20180827_019415	Lanko Lake Dungeon Cube	란코 호수 던전 큐브			
 ITEM_20180827_019416	Received after clearing the Lanko Lake Dungeon.	란코 호수 던전을 클리어하여 받은 보상입니다.			
-ITEM_20180827_019417	Lv 100 Challenge Cube	Lv100 챌린지 보상 큐브			
-ITEM_20180827_019418	Varle King Card	바를킹 카드			
-ITEM_20180827_019419	[Card Equip Effect] Healing +[{img star_mark 20 20} * 5]	[슬롯 장착 효과] 치유력 +[★ * 5]			
-ITEM_20180827_019420	Demon Lord Froster Lord Card	마군주 프로스터 로드 카드			
-ITEM_20180827_019421	[Card Equip Effect] Reduces the difference between the min. and max. attack of summons by [{img star_mark 20 20} * 10]%{nl}(At Lv 10, min. attack is equal to the value of max. attack.)	[슬롯 장착 효과] 소환수의 최소 공격력과 최대 공격력의 차이가 [★ * 10]% 감소{nl}(10LV 달성 시 소환수의 최소 공격력이 최대 공격력과 동일하게 변경됩니다.)			
-ITEM_20180827_019422	[Grimoire Equip Effect] Summons Demon Lord Froster Lord when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 마군주 프로스터 로드 형태의 악마 소환			
+ITEM_20180827_019417	Lv 100 Challenge Cube
+ITEM_20180827_019418	Varle King Card		
+ITEM_20180827_019419	{#000000}|Efeito| Taxa de Cura +[{img star_mark 20 20} * 5]	
+ITEM_20180827_019420	{@st42}{s17}{#f7bd00}Demon Lord Froster Lord Card
+ITEM_20180827_019421	{@st41b}{s16}{#f7bd00}|Efeito| Reduz a diferença entre o ataque min. e max. das invocações em [{img star_mark 20 20} * 10]%{nl}(No nível 10, o ataque mínimo é igual ao valor do ataque máx.)
+ITEM_20180827_019422	{nl} {nl}[Grimório] Invoca Demon Lord Froster Lord ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}188% {img test_cooltime 21 21}12s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}180% {img test_cooltime 21 21}25s (Mágico)
 ITEM_20180827_019423	Ripped Book	찢어진 책장	ITEM_20180320_017771	Bookshelf of Ripped Books	찢어진 책의 책장
 ITEM_20180827_019424	Ripped pages of a book. Collect them and wait for something good to happen.	일부분만 적혀있는 찢어진 책의 책장입니다. 모으면 나중에 좋은 일이 있을 것 같습니다.	ITEM_20180320_017772	A page ripped off a book, like the kind the Sage Master is collecting. Gather a few of these pages and take them to the Sage Master to exchange them for something else.	세이지 마스터가 최근 모으고 있다는 찢어진 책의 책장입니다. 책장을 모아 세이지 마스터에게 가져다주면 책 또는 아이템으로 교환해줍니다.
 ITEM_20180827_019425	Lydia's Red Flower	리디아의 붉은 꽃			
