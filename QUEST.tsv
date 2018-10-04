@@ -451,7 +451,7 @@ QUEST_20150317_000450	Não é fácil trabalhar na floresta, mas é melhor do que
 QUEST_20150317_000451	Sempre estamos com falta de soldados, mas felizmente nunca de jovens dispostos.
 QUEST_20150317_000452	Então, qual é o problema? {nl}Fazemos soldados, não caixões. {nl}Você precisa de força para entrar na guerra, apenas paixão só levará à derrota.
 QUEST_20150317_000453	A Deusa também é indiferente... {nl}Ainda há muitas coisas que quero fazer... Mas fui morto por um monstro... {nl}Muitos outros também morreram, seus pertences foram espalhados ao redor da floresta.
-QUEST_20150317_000454	Não tenho muitas memórias de quando era vivo. {nl}Os monstros atacaram quando a Estátua da Coruja estava prestes a me guiar, e então fui deixado sozinho. {nl}Espero que não haja outras almas como eu no futuro.
+QUEST_20150317_000454	Não tenho muitas memórias de quando era vivo. {nl}Os monstros atacaram quando a Escultura da Coruja estava prestes a me guiar, e então fui deixado sozinho. {nl}Espero que não haja outras almas como eu no futuro.
 QUEST_20150317_000455	Você é o escolhido. {nl}Jamais se esqueça disso. {nl}A revelação foi preparada para você. {nl}Você precisa obter a revelação e executar a vontade da Deusa.
 QUEST_20150317_000456	Que as bênçãos da Deusa acompanhem a sua jornada.
 QUEST_20150317_000457	Você pode obter vigor destruindo Tree Root Crystals. {nl}Eles crescem de novo depois de destruídos. Estranho, né?
@@ -459,7 +459,7 @@ QUEST_20150317_000458	Quando a Besta Divina atacava a capital, eu nasci.
 QUEST_20150317_000459	Estamos dispostos a aceitar pedidos tradicionais, mas... {nl}Se algo assim acontecesse sem aviso, então... Ufa...
 QUEST_20150317_000460	Vacenin é bem legal, não? {nl}Eu realmente quero me alistar na unidade dele, mas não encontro a oportunidade ideal.
 QUEST_20150317_000461	Bem... É melhor encontrar pessoas quando estão vivas do que mortas, sabe?
-QUEST_20150317_000462	Estava esperando a Estátua da Coruja me guiar. {nl}Mas vi um monstro forte engolir uma alma, então me escondi. {nl}Quase não consegui me salvar, mas você precisa matar o monstros para salvar a alma capturada.
+QUEST_20150317_000462	Estava esperando a Escultura da Coruja me guiar. {nl}Mas vi um monstro forte engolir uma alma, então me escondi. {nl}Quase não consegui me salvar, mas você precisa matar o monstros para salvar a alma capturada.
 QUEST_20150317_000463	Não sei quanto às outras corujas, mas ainda tenho esperança. {nl}A Deusa não nos abandonará. {nl}Olhando para as revelações que restam no mundo, estou certo de que ela tem planos para nós. {nl}Por favor, recolha as revelações espalhadas.
 QUEST_20150317_000464	Os subordinados ainda estão indo à loucura. {nl}Mais pessoas morrerão se isso continuar. {nl}Por favor, ajude os humanos que lutam contra monstros.
 QUEST_20150317_000465	Bem... Por que ainda estou aqui? {nl}Talvez ainda não seja minha hora de partir. {nl}Ninguém sabe, nem as Estátuas de Coruja, nem as outras almas. {nl}A não ser que seja a Deusa que pode ver o futuro. Ninguém conhece seu destino de qualquer forma, certo?
@@ -519,13 +519,13 @@ QUEST_20150317_000518	Por favor, me ajude.
 QUEST_20150317_000519	Leve-me até a Deusa.
 QUEST_20150317_000520	É tão doloroso
 QUEST_20150317_000521	Parece estar adormecido.
-QUEST_20150317_000522	Estátua da Coruja Enraivecida
+QUEST_20150317_000522	Escultura da Coruja Enraivecida
 QUEST_20150317_000523	Sem respostas.
 QUEST_20150317_000524	Alma do Comerciante Arrependido
 QUEST_20150317_000525	Se você não tem dinheiro, não é diferente de um homem morto.
 QUEST_20150317_000526	Deveria ter dado ouvidos à minha esposa. {nl}Ela disse que é má sorte ser amigo de estudiosos... {nl}Vou acabar falido!
 QUEST_20150317_000527	Talvez eu possa compensar a perda se conseguir recuperar os itens...
-QUEST_20150317_000528	Estátua da Coruja Adormecida
+QUEST_20150317_000528	Escultura da Coruja Adormecida
 QUEST_20150317_000529	Parece estar em sono profundo.
 QUEST_20150317_000530	Não há resposta nenhuma.
 QUEST_20150317_000531	Não há nenhum movimento.
@@ -1708,7 +1708,7 @@ QUEST_20150323_001709	Desintegração
 QUEST_20150323_001710	Monstros Descontrolados
 QUEST_20150323_001711	Adaga Suspeita
 QUEST_20150323_001712	Monstros Aproveitadores
-QUEST_20150323_001713	A Fazenda de Louise
+QUEST_20150323_001713	Louise's Farmland
 QUEST_20150323_001714	Grãos Insatisfatórios
 QUEST_20150323_001715	Sementes Velhas
 QUEST_20150323_001716	Teimosia de Shaton
@@ -4466,7 +4466,7 @@ QUEST_20161005_004474	Argh! Monstros! Cuidado!
 QUEST_20161005_004475	Vejo que você ouviu meus problemas dos meus aprendizes.
 QUEST_20161005_004476	Eu sou o irmão do antigo líder da Astral Tower, assim como membro dela.{nl}Eu errei ao passar dados importantes para Ignas quando ele tentou controlar a torre.{nl}Os outros membros da torre nunca mais foram os mesmos comigo.
 QUEST_20161005_004477	Não importa o quanto eu me desculpe, eles se recusam a me escutar.{nl}Por isso decidi me desculpar encontrando o Flechette da Lydia Schaffen.
-QUEST_20161005_004478	Eu vim até aqui porque tenho quase certeza que ele está em Ghibulinas Forest.{nl}Eu e meus aprendizes estamos procurando pelo Flechette, mas nada até agora.
+QUEST_20161005_004478	Eu vim até aqui porque tenho quase certeza que ele está em Ziburynas Forest.{nl}Eu e meus aprendizes estamos procurando pelo Flechette, mas nada até agora.
 QUEST_20161005_004479	Você encontrou ele?{nl}Então é assim que o Flechette se parece.
 QUEST_20161005_004480	Não imagino o trabalho que você teve para conseguir isso.
 QUEST_20161005_004481	Vaivora's Koru está respondendo.{nl}Em uma voz bem suave...
@@ -4615,8 +4615,8 @@ QUEST_20161005_004623	{nl}Esta criação, feita com nossa magia, devorou nossos 
 QUEST_20161005_004624	{nl}Se as larvas forem iguais... nada resolverá se eliminarmos o experimento no. 285.{nl}Será questão de tempo até este local virar o seu lar...
 QUEST_20161005_004625	{nl}Todo este local será seu parque, e nós seus brinquedos.
 QUEST_20161005_004626	{nl}Somos detectáveis até mesmo com o menor movimento.{nl}E quem salvaria aqueles que abandonaram as Deusas...
-QUEST_20161005_004627	Former Fantasy Library - Sausys Room 9
-QUEST_20161005_004628	Former Fantasy Library - Sausys Room 9, Apenas você e os membros do seu grupo podem entrar juntos. {nl}Tem certeza que deseja entrar?{nl}(Lv Recomendado: 315)
+QUEST_20161005_004627	Former Fantasy Library - Sausis Room 9
+QUEST_20161005_004628	Former Fantasy Library - Sausis Room 9, Apenas você e os membros do seu grupo podem entrar juntos. {nl}Tem certeza que deseja entrar?{nl}(Lv Recomendado: 315)
 QUEST_20161005_004629	Earth Tower - Área Solmiki (Lv Recomendado: 310) {nl}Apenas você e os membros do seu grupo podem entrar juntos. {nl}Tem certeza que deseja entrar?
 QUEST_20161005_004630	Claro que é impossível pressionar os dois apoios de pé sozinho.{nl}Você pode usar pedaços de madeira espalhados pelos demônios... ou pedir ajuda.
 QUEST_20161005_004631	Eu mudei o nome deste certificado para você, então me passe os outros documentos.{nl}Garanto tanto seus ativos ou escrituras.{nl}Por favor, deposite como fez na outra vez.
@@ -4713,7 +4713,7 @@ QUEST_20161005_004721	{nl}Fora dito que tanto corpos quanto almas dos humanos n�
 QUEST_20161005_004722	{nl}Deusas e demônios não têm permissão para interferir nos humanos, é vetado violar suas naturezas...{nl}Este fora nosso trato.
 QUEST_20161005_004723	Então, fui capturada por demônios e amaldiçoada pelos poderes de Giltine.{nl}Acabei por destruir florestas ao ser consumida pela energia caótica.
 QUEST_20161005_004724	{nl}Somente a Demon Goddess é capaz de conter esta energia.{nl}Então minhas irmãs realizaram outro acordo com Demon Kings.
-QUEST_20161005_004725	{nl}Concordaram em ignorar a cidade petrificada...{nl}Em troca me manteriam selada aqui por Gesti, Kartas e Vaiga.
+QUEST_20161005_004725	{nl}Concordaram em ignorar a cidade petrificada...{nl}Em troca me manteriam selada aqui por Gesti, Kartas e Baiga.
 QUEST_20161005_004726	{nl}Após trancafiarem-me aqui, passaram o controle desta caverna para minhas irmãs.{nl}A Kupoles gentilmente guardam-me desde então.
 QUEST_20161005_004727	Impossível eles terem escondido Dalia neste local tão óbvio.
 QUEST_20161005_004728	Parece ser um portal usado pelos demônios.
@@ -6083,150 +6083,150 @@ QUEST_20170726_006098	Monk
 QUEST_20170726_006099	Você ouviu o Mestre Monk. Desejo-lhe boa sorte.{nl}O Mestre disse que você deve derrotar 150 monstros se forem tão fortes como você, 100 monstros se forem fortes, ou 300 monstros se forem mais fracos.
 QUEST_20170726_006100	Que pena.{nl}Sem sorte hoje!{nl}Você só precisa de mais treinamento.
 QUEST_20170726_006101	Muito bom! {Nl} Eu sabia que você era a pessoa certa.
-QUEST_20170726_006102	Você pode descansar agora.	오늘은 이만 휴식을 취하시는 게 좋겠어요.
-QUEST_20170726_006103	As Deusas te abençoaram!!{nl} Parabéns.	여신의 축복이 내렸습니다!!!{nl}축하드립니다.
-QUEST_20170726_006104	The Golden Note mercenaries estão ficando mais fortes.	황금노래 용병단이 점차 강해지고 있어.
-QUEST_20170726_006105	Precisamos recrutar mais homens...	우리도 빨리 강한 용병들을 더 모집해야 하는데..
-QUEST_20170726_006106	Você está dizendo que deseja se juntar a nós?	우리 용병단에 들어 오고 싶다고?
-QUEST_20170726_006107	Tudo bem, vejamos isso então.	그럼 네 능력을 증명해봐.
-QUEST_20170726_006108	Nós diremos para onde ir. Prove-se lá e eu vou considerá-lo.	우리 단원이 알려주는 곳에서 능력을 증명하면 고려해 보지.
-QUEST_20170726_006109	Pledge of the Blade Mercenary	칼날서약 용병단원
-QUEST_20170726_006110	Então você quer se juntar ao Pledge of the Blade?	우리 칼날서약 용병단과 함께하는 건 어때?
-QUEST_20170726_006111	Nós apenas aceitamos uma pessoa por equipe, você ainda quer?	한 팀의 한 명만 받을 수 있는데 받을 텐가?
-QUEST_20170726_006112	Altar Misterioso	신비로워 보이는 제단
-QUEST_20170726_006113	Uma energia estranha é exsudada do altar.	제단에서 신비한 기운이 느껴진다.
-QUEST_20170726_006114	O altar parece estar fechado à comunicação.	제단이 교감을 거부하는 것 같다.
-QUEST_20170726_006116	Gerente de Pesca Joha	낚시터 관리인 요하
-QUEST_20170726_006117	Olá!{Nl}Eu sou Joha, gerente de pesca de Klaipeda.	안녕하세요?{nl}저는 클라페다 낚시터를 관리하는 요하라고 해요.
-QUEST_20170726_006118	Eu vendo todos os tipos de suprimentos de pesca.	다양한 낚시 용품을 판매하고 있습니다.
-QUEST_20170726_006119	Você só pode obter isso uma vez por equipe.	팀당 1회만 교환해 드리고 있어요.
-QUEST_20170726_006120	Você precisa de 25 Peixes de Prata para trocar por um traje.	코스튬 교환에는 은빛 물고기 25마리가 필요해요.
-QUEST_20170726_006121	Você quer a versão masculina ou feminina do traje?	남자용, 여자용 어떤 게 필요하신가요?
-QUEST_20170728_006122	Estou responsável por Klaipeda e das regiões que a cercam.{Nl}Você pode me ajudar a cuidar da cidade.{Nl} Eu cuidarei das outras áreas.
+QUEST_20170726_006102	Você pode descansar agora.
+QUEST_20170726_006103	As Deusas te abençoaram!!{nl} Parabéns.
+QUEST_20170726_006104	Os Mercenários Golden Note estão ficando mais fortes.
+QUEST_20170726_006105	Precisamos recrutar mais homens...
+QUEST_20170726_006106	Você está dizendo que deseja se juntar a nós?
+QUEST_20170726_006107	Tudo bem, vejamos isso então.
+QUEST_20170726_006108	Nós diremos para onde ir. Prove-se lá e eu vou considerá-lo.
+QUEST_20170726_006109	Mercenário Pledge of the Blade
+QUEST_20170726_006110	Então você quer se juntar ao Pledge of the Blade?
+QUEST_20170726_006111	Nós apenas aceitamos uma pessoa por equipe, você ainda quer?
+QUEST_20170726_006112	Altar Misterioso
+QUEST_20170726_006113	Uma energia estranha exala do altar.
+QUEST_20170726_006114	O altar parece estar fechado à comunicação.
+QUEST_20170726_006116	Gerente de Pesca Joha
+QUEST_20170726_006117	Olá!{nl}Eu sou Joha, gerente de pesca de Klaipeda.
+QUEST_20170726_006118	Eu vendo todos os tipos de suprimentos de pesca.
+QUEST_20170726_006119	Você só pode obter isso uma vez por equipe.
+QUEST_20170726_006120	Você precisa de 25 Silver Fish para trocar por um traje.
+QUEST_20170726_006121	Você quer a versão masculina ou feminina do traje?
+QUEST_20170728_006122	Estou responsável por Klaipeda e das regiões que a cercam.{nl}Você pode me ajudar a cuidar da cidade.{nl} Eu cuidarei das outras áreas.
 QUEST_20170728_006123	Estamos ultimamente ocupados com solicitações. Basta pedir aos residentes o certificado e trazê-lo.
 QUEST_20170728_006125	Tuxedo Cat
-QUEST_20170728_006126	Você não tem Peixe Prateado suficiente.
+QUEST_20170728_006126	Você não tem Silver Fish suficiente.
 QUEST_20170810_006128	O evento Piece Back Mission está aberto.
-QUEST_20170810_006129	A cidade que você escolher determinará as peças das esculturas que você pode obter dos monstros:{nl}Klaipeda - Goddess Sculpture Head{nl}Orsha - Goddess Sculpture Torso{nl}Fedimian - Goddess Sculpture Legs{nl}Qualquer cidade - Goddess Sculpture Wings{nl} {Nl} Você pode redefinir sua cidade de escolha todas as terças-feiras.
+QUEST_20170810_006129	A cidade que você escolher determinará as peças das esculturas que você pode obter dos monstros:{nl}Klaipeda - Goddess Sculpture Head{nl}Orsha - Goddess Sculpture Torso{nl}Fedimian - Goddess Sculpture Legs{nl}Qualquer cidade - Goddess Sculpture Wings{nl} {nl} Você pode redefinir sua cidade de escolha todas as terças-feiras.
 QUEST_20170810_006130	Você já escolheu sua cidade esta semana.
-QUEST_20170810_006131	É muito cedo.{Nl}Use o comando '/time' no chat para verificar o quanto você precisa esperar.
-QUEST_20170810_006132	A escolha da sua cidade foi resetada.{Nl}Por favor, selecione sua cidade novamente.
+QUEST_20170810_006131	É muito cedo.{nl}Use o comando '/time' no chat para verificar o quanto você precisa esperar.
+QUEST_20170810_006132	A escolha da sua cidade foi resetada.{nl}Por favor, selecione sua cidade novamente.
 QUEST_20170810_006134	Você não pode escolher sua cidade hoje, ou você já escolheu sua cidade para a semana.
-QUEST_20170822_006135	
+QUEST_20170822_006135	QUEST_006135
 QUEST_20170822_006136	Você não pode escolher sua cidade hoje, ou você já escolheu sua cidade para a semana.
 QUEST_20170901_006137	Pledge of the Blade - Investigador
-QUEST_20170901_006138	Eu não posso dizer-lhe os detalhes completos, mas alguns dos nossos homens estavam em missão para recuperar um objeto roubado do Loremaster da Deusa Jurate.{Nl}A última vez que ouvimos falar deles estavam perto de Klaipeda.{Nl}Precisamos verificar se há alguém em West Siauliai Woods que possa ter visto eles.
+QUEST_20170901_006138	Não posso dar detalhes, mas alguns dos nossos homens estavam em missão para recuperar{nl}um objeto roubado do Loremaster da Deusa Jurate. A última vez{nl}que ouvimos falar deles estavam perto de Klaipeda. Precisamos verificar{nl}se há alguém em West Siauliai Woods que possa ter visto eles.
 QUEST_20170901_006139	Pode ser mais difícil encontrar pistas quanto mais tempo tiver passado.
-QUEST_20170901_006140	Pledge of the Blade?{nl}Não recentemente, não. Eu costumava vê-los por aqui antes da vinda dos Reveladores.{Nl}Isso foi há muito tempo, não me lembro bem disso.
-QUEST_20170901_006141	Estou feliz por tê-lo do nosso lado, Revelator!
-QUEST_20170901_006142	Então, eles foram vistos em West Woods, muito bem.{Nl}Certifique-se de perguntar de novo amanhã, outra pessoa pode ter visto eles.
+QUEST_20170901_006140	Pledge of the Blade?{nl}Não recentemente, não. Costumava vê-los aqui antes da vinda dos Reveladores.{nl}Isso foi há muito tempo, não me lembro bem disso.
+QUEST_20170901_006141	Estou feliz por tê-lo do nosso lado, Revelador!
+QUEST_20170901_006142	Então, eles foram vistos em West Siauliai Woods, muito bem.{nl}Certifique-se de perguntar de novo amanhã, outra pessoa pode ter visto eles.
 QUEST_20170901_006143	Dar Recompensa
-QUEST_20170901_006144	Titas me disse.{Nl}Você está procurando o Pledge of the Blade, não é?
-QUEST_20170901_006145	Sim, encontrei-os já tem um tempo.{Nl}Foi antes que a área ficasse infestada de monstros, só posso imaginar onde eles podem estar agora.
+QUEST_20170901_006144	Titas me disse.{nl}Você está procurando o Pledge of the Blade, não é?
+QUEST_20170901_006145	Sim, encontrei-os já tem um tempo.{nl}Foi antes que a área ficasse infestada de monstros, só posso imaginar onde eles podem estar agora.
 QUEST_20170901_006146	Ah! Um deles perguntou se teríamos visto alguém do exterior recentemente e eu disse a eles que vi um grupo de pessoas que pareciam estar vindo da praia
 QUEST_20170901_006147	Você acha que os mercenários estavam tentando encontrá-los?{nl}Suponho que você terá que continuar perseguindo-os para descobrir.
-QUEST_20170901_006148	Este é um criptograma do nosso grupo.{Nl}Está dizendo...
-QUEST_20170901_006149	As pessoas que estavam perseguindo eram uma equipe de piratas.{Nl}Eles lutaram entre si pelos bens roubados, e alguns deles foram mortos tentando escapar com o loot. {Nl} Nossos mercenários os seguiram até Siaulai East Woods.
-QUEST_20170901_006150	Este é o criptograma que você trouxe do East Woods?
+QUEST_20170901_006148	Este é um criptograma do nosso grupo.{nl}Está dizendo...
+QUEST_20170901_006149	As pessoas que estavam perseguindo eram uma equipe de piratas.{nl}Eles lutaram entre si pelos bens roubados, e alguns foram mortos tentando escapar com o loot. {nl} Nossos mercenários os seguiram até East Siaulai Woods.
+QUEST_20170901_006150	Este é o criptograma que você trouxe de East Siauliai Woods?
 QUEST_20170901_006151	Não há muito aqui.{nl}Diz que os traços dos piratas terminam no East Woods.
 QUEST_20170901_006152	Hmm...
 QUEST_20170901_006153	Diz que eles encontraram os piratas e os derrotaram. Mas não há sinais de objetos roubados.
 QUEST_20170901_006154	Este diz que eles encontraram a localização dos objetos.
-QUEST_20170901_006155	They realized some of the crew members were missing after the dispute.{nl}They assumed they had stolen the goods and followed the pirates' trace.{nl}They moved to the Miner's Village.
-QUEST_20170901_006156	That's what it says.
-QUEST_20170901_006157	You're looking for the Pledge of the Blade, you say?{nl}Hmm...
-QUEST_20170901_006158	Oh! I remember.{nl}A long time ago they came to the mine looking for some pirates.{nl}I told them I hadn't seen no pirates, so they asked if I'd seen any outsiders who looked like they were hurt.
-QUEST_20170901_006159	But, you know, it was a lot worse back then so those kinds of people were everywhere.
-QUEST_20170901_006160	It seems like the pirates disguised themselves.{nl}Please check the village for any more clues.
-QUEST_20170901_006161	It appears they found one of the pirates hidden among the refugees and the two groups battled.{nl}They were hurt, but not severely, then they followed the pirate crew to the inside of the mine.
-QUEST_20170901_006162	They managed to corner the pirates in Crystal Mine 2F, but in order to avoid any more victims, they were looking to send their weapons to Klaipeda.
-QUEST_20170901_006163	A group of mercenaries?{nl}That was a long time ago, was it?
-QUEST_20170901_006164	I remember a group of rugged-looking fellows walking up and down the streets, if anyone's seen them it'll be the town merchants.
-QUEST_20170901_006165	We ought to speak with the merchants.{nl}I'll check with the other residents.
-QUEST_20170901_006166	I did have a few merchants here looking for mining gear.{nl}A few days later they came back wanting to buy something for mountain climbing, said they were going to Srautas Gorge.
-QUEST_20170901_006167	Srautas Gorge?{nl}They were either following the pirates there or escaping from them.
-QUEST_20170901_006168	Pledge of the Blade?{nl}Yeah, they went to Gele Plateau!{nl}There were other people looking for them at the time, though.{nl}Are they back?
-QUEST_20170901_006169	So the mercenaries headed to Gele Plateau.{nl}Someone was after them.{nl}I was the only one sent to look for them, meaning...{nl}Whoever it was, they're related to their disappearance.
-QUEST_20170901_006170	This... it says the mercenaries were attacked by an unknown group!{nl}Fortunately they managed to escape.{nl}We should check whether there are any signs of a battle near the cryptogram.
-QUEST_20170901_006171	Some of our men use arrows, but ours don't look like this.{nl}We don't use this kind of arrowhead.{nl}We need to find the source of these arrows.
-QUEST_20170901_006172	You want me to look at an arrow?{nl}Let's see, then...
-QUEST_20170901_006173	I'm no Fletcher Master, but this looks like the arrowheads used by Scouts.
-QUEST_20170901_006174	If these are Scout arrows...{nl}We should ask Scout Submaster Suina in Orsha.
-QUEST_20170901_006175	This arrowhead...
-QUEST_20170901_006176	I don't think I'm the right person to talk about this.{nl}The Ranger Master should be able to tell you more about it.
-QUEST_20170901_006177	Does this mean the Ranger Master knows about the battle?{nl}What on earth could have happened to our mercenaries...
-QUEST_20170901_006178	Are you saying you found this arrowhead in Gele Plateau?
-QUEST_20170901_006179	I think I know what happened...
-QUEST_20170901_006180	This is a bit embarrassing, but I need to pay back some cash to Olfas Grimm and I agreed to send a few of my archers to Gele Plateau if he cut my debt in half.{nl}He wanted me to get some kind of compass.{nl}I guess that's how they ran into the Pledge of the Blade.
-QUEST_20170901_006181	I don't know what happened exactly, but clearly I was in the wrong here so I'll make sure to apologize to Guerra and his men in person.
-QUEST_20170901_006182	I see.{nl}But if they all escaped with only a few injuries, they should have returned by now.{nl}To where did they disappear?{nl}I ought to report this to Guerra and go look for them myself.
-QUEST_20170901_006183	Thanks to you, at least now I know where they went.{nl}We appreciate your assistance.
-QUEST_20170901_006184	I'm going to investigate a few things before I leave.{nl}Again, thank you.
-QUEST_20170901_006185	Are you the Revelator that's been defeating the demons?{nl}If that's fine with you, I could use some help in searching for my mercenaries who went missing.
+QUEST_20170901_006155	Eles perceberam que uns membros sumiram depois da disputa.{nl}Acharam que eles roubaram as coisas e seguiram as pistas dos piratas.{nl}Eles foram para Miner's Village.
+QUEST_20170901_006156	É isso que diz aqui.
+QUEST_20170901_006157	Você não está procurando pela Pledge of the Blade, está?{nl}Hmm...
+QUEST_20170901_006158	Oh! Eu lembro sim.{nl}Há muito tempo atrás, vieram para as minas procurando por piratas.{nl}Eu disse que não tinha visto nenhum, então eles perguntaram se não tinha visto{nl}alguém estranho, parecendo machucado.
+QUEST_20170901_006159	Mas, você sabe, muita gente estava machucada há algum tempo atrás...
+QUEST_20170901_006160	Parece que os piratas acabaram se escondendo.{nl}Por favor, verifique pela vila se há mais pistas.
+QUEST_20170901_006161	Parece que encontraram um pirada escondido entre os refugiados,{nl}e ambos grupos acabaram lutando. Acabaram feridos,{nl}porém não gravemente. Acabaram indo para dentro da mina.
+QUEST_20170901_006162	Conseguiram encurralar os piratas em Crystal Mine 2F porém, para evitar mais{nl}vítimas, estavam tentando enviar suas armas para Klaipeda.
+QUEST_20170901_006163	Um grupo de mercenários?{nl}Isso foi há muito tempo, não foi?
+QUEST_20170901_006164	Lembro de um grupo diferente zanzando pela cidade.{nl}Se alguém reparou neles, devem ter sido os comerciantes.
+QUEST_20170901_006165	Nós desejamos falar com os mercadores.{nl}Vou verificar com outros residentes.
+QUEST_20170901_006166	Tive alguns comerciantes aqui, procurando por itens de mineração.{nl}Alguns dias depois, voltaram querendo itens de escalada,{nl}dizendo que iriam para Srautas Gorge.
+QUEST_20170901_006167	Srautas Gorge?{nl}Eles estavam ou seguindo os piratas, ou escapando deles.
+QUEST_20170901_006168	Pledge of the Blade?{nl}Sim, eles foram para Gele Plateau!{nl}Havia mais gente procurando por eles naquela época...{nl}Eles voltaram?
+QUEST_20170901_006169	Então, os mercenários foram para Gele Plateau.{nl}Alguém estava atrás deles.{nl}Eu fui o único enviado para procurar eles...{nl}Isso com certeza tem ligação com o sumiço deles.
+QUEST_20170901_006170	Isto... isto diz que eles foram atacados por estranhos!{nl}Felizmente, eles conseguiram escapar.{nl}Precisamos ver se há sinais de batalha perto do criptograma.
+QUEST_20170901_006171	Alguns dos nossos homens usam flechas, mas no geram não gostam.{nl}Não usamos nenhum tipo de projétil.{nl}Precisamos achar a origem destas flechas.
+QUEST_20170901_006172	Quer que eu veja uma flecha?{nl}Vamos ver então...
+QUEST_20170901_006173	Não sou nenhum Mestre Fletcher, mas parece que são do tipo usado pelos Scouts.
+QUEST_20170901_006174	Se são flechas dos Scouts...{nl}Devemos falar com Suina, Submestre Scout, em Orsha.
+QUEST_20170901_006175	Esta ponta de flecha...
+QUEST_20170901_006176	Não sei se sou a pessoa certa para falar disso.{nl}A Mestre Ranger deve saber melhor sobre isso.
+QUEST_20170901_006177	Quer dizer que a Mestre Ranger sabe da batalha?{nl}Mas o que será que aconteceu com nossos mercenários...
+QUEST_20170901_006178	Está dizendo que achou essa ponta de flecha em Gele Plateau?
+QUEST_20170901_006179	Acho que sei o que houve...
+QUEST_20170901_006180	É vergonhoso, mas precisava pagar Olfas Grimm, então concordei de enviar{nl}alguns Archers para Gele Plateau se ele diminuisse metade.{nl}Ele queria algum tipo de compasso.{nl}Acho que foi assim que encontraram a Pledge of the Blade.
+QUEST_20170901_006181	Não sei o que houve ao certo, mas claramente fiz algo errado,{nl}então me desculparei com Guerra e seus homens pessoalmente.
+QUEST_20170901_006182	Entendo.{nl}Mas se escaparam com poucos ferimentos, já teriam retornado.{nl}Onde será que foram parar?{nl}Preciso informar Guerra e procurar eles eu mesmo.
+QUEST_20170901_006183	Graças à você, sei por onde eles estiveram.{nl}Agradecemos sua ajuda!
+QUEST_20170901_006184	Vou verificar algumas coisas antes de partir.{nl}Novamente, muito obrigado.
+QUEST_20170901_006185	Você é esse Revelador que está derrotando so demônios?{nl}Se puder, gostaria de ajuda para encontrar meus mercenários desaparecidos.
 QUEST_20170901_006186	Rastros
 QUEST_20170901_006187	Isso parece suspeito.
-QUEST_20170901_006188	Isnel and Panzcir are getting married under the blessing of Goddess Vaivora.{nl}Won't you come and congratulate the new couple?
-QUEST_20170901_006189	
+QUEST_20170901_006188	Isnel e Panzcir vão se casar com as bençãos da Deusa Vaivora.{nl}Você vai parabenizar o mais novo casal?
+QUEST_20170901_006189	QUEST_006189
 QUEST_20170908_006192	O evento The Masters' Unit está aberto.
 QUEST_20170912_006190	Earth Tower - Área Lolopanther (Lv Recomendado: 260) - Apenas você e os membros do seu grupo podem entrar juntos.{nl}Tem certeza de que deseja entrar?
-QUEST_20170912_006191	This is a bit embarrassing, but I need to pay back some cash to Olfas Grimm and I agreed to send a few of my archers to Gele Plateau if he cut my debt in half.{nl}He wanted me to get some kind of compass.{nl}I guess that's how they ran into the Pledge of the Blade.
-QUEST_20170912_006192	I may not have much in stock, but I only have what's good!{nl}Have a look.
-QUEST_20170912_006193	Kupole da Jurate
-QUEST_20170912_006194	A Bússola de Jurate foi perdida na batalha com os demônios.{nl}Desapareceu no mar, ninguém sabe onde está agora..{nl}Estou tentando encontrar a bússola com o poder divino da Deusa, mas o detector parece estar atraindo monstros.{nl}Você poderia me ajudar?
+QUEST_20170912_006191	É vergonhoso, mas precisava pagar Olfas Grimm, então concordei de enviar{nl}alguns Archers para Gele Plateau se ele diminuisse metade.{nl}Ele queria algum tipo de compasso.{nl}Acho que foi assim que encontraram a Pledge of the Blade.
+QUEST_20170912_006192	Não devo ter tanta coisa em estoque, mas tudo o que eu tenho{nl}é de primeira qualidade! Dê uma olhada.
+QUEST_20170912_006193	Kupole de Jurate
+QUEST_20170912_006194	A Bússola de Jurate foi perdida na batalha com os demônios.{nl}Desapareceu no mar, ninguém sabe onde está agora...{nl}Estou tentando encontrar a bússola com o poder divino da Deusa, mas o detector parece estar atraindo monstros.{nl}Você poderia me ajudar?
 QUEST_20170912_006195	Se eu conseguir fazer o detector funcionar, posso descobrir onde está a bússola.{nl}Você vai me ajudar?
 QUEST_20170912_006196	O detector não está sentindo nada.{nl}Suponho que preciso pesquisar em uma área maior.{nl}Obrigado pela sua ajuda.
 QUEST_20170912_006197	Ver Recompensas
 QUEST_20170912_006198	Este item não pode ser movido para o Armazém.{nl}Tem certeza de que deseja recebê-lo?
 QUEST_20170912_006199	Os efeitos do Buff só serão aplicáveis ao personagem atual.{nl}Tem certeza de que deseja recebê-lo?
 QUEST_20170912_006200	Você não tem recompensas para receber.
-QUEST_20170912_006201	O título só se aplicará ao personagem atual.{nl}Tem certeza de que deseja recebê-lo?
-QUEST_20170912_006202	Você tem recompensas para receber do Diário de Aventuras{nl}Gostaria de recebê-los?
+QUEST_20170912_006201	O título aplicará somente ao personagem atual.{nl}Tem certeza de que deseja recebê-lo?
+QUEST_20170912_006202	Você tem recompensas para receber do Diário de Aventuras.{nl}Gostaria de recebê-los?
 QUEST_20170912_006203	Você está aqui para receber suas recompensas do Diário de Aventuras, pelo visto.
 QUEST_20170912_006204	As recompensas resetadas do Diário de Aventuras e o consumo dos items podem ser recebidas até 10 dias após o período correspondente reiniciar.{nl}Certifique-se de receber suas recompensas, pois não podem ser recuperadas depois disso.
-QUEST_20170912_006205	Você já recebeu suas recompensas.{Nl}Mas você pode me mostrar seu Diário de Aventuras.
+QUEST_20170912_006205	Você já recebeu suas recompensas.{nl}Mas você pode me mostrar seu Diário de Aventuras.
 QUEST_20170912_006206	As recompensas resetadas do Diário de Aventuras e o consumo dos items podem ser recebidas até 10 dias após o período correspondente reiniciar.{nl}Certifique-se de receber suas recompensas, pois não podem ser recuperadas depois disso.
-QUEST_20170912_006207	Você já recebeu suas recompensas.{Nl}Mas você pode me mostrar seu Diário de Aventuras.
-QUEST_20170912_006208	Você tem recompensas para receber do Diário de Aventuras{nl}Gostaria de recebê-los?
+QUEST_20170912_006207	Você já recebeu suas recompensas.{nl}Mas você pode me mostrar seu Diário de Aventuras.
+QUEST_20170912_006208	Você tem recompensas para receber do Diário de Aventuras.{nl}Gostaria de recebê-los?
 QUEST_20170912_006209	Vejo que você tem os cupons.{nl}Tudo bem, vamos trocar isso por um mascote lindinho.
 QUEST_20170912_006210	Você precisa de 20 cupons para receber um Mascote.
 QUEST_20170912_006211	Vejo que você tem os cupons.{nl}Tudo bem, vamos trocá-los por um Mascote.
 QUEST_20170912_006212	Você precisa de 20 cupons para receber um Mascote.
-QUEST_20170912_006213	You have rewards to receive from your Adventure Journal resetting content and item consumption.{nl}Would you like to receive them?
-QUEST_20170912_006214	You have rewards to receive from your Adventure Journal item consumption.{nl}Would you like to receive them?
-QUEST_20170912_006215	Adventure Journal rewards for item consumption can be received until 10 days after the corresponding period resets.{nl}Make sure to receive your rewards, as they cannot be retrieved after that.
+QUEST_20170912_006213	Você tem recompensas do conteúdo mensal do Diário de Aventuras.{nl}Gostaria de recebê-las?
+QUEST_20170912_006214	Você tem recompensas do conteúdo de consumo do Diário de Aventuras.{nl}Gostaria de recebê-las?
+QUEST_20170912_006215	Recompensas do conteúdo de consumo do Diário de Aventuras pode ser recebido até 10 dias após o período correspondente resetar.{nl}Tenha certeza de recebê-las dentro do prazo, não é possível após ele.
 QUEST_20170912_006216	Imigrante
-QUEST_20170912_006217	The crops I planted all died because of some strange energy around here...{nl}I'm a little short-handed though; would you help me get all the dead crops and burn them over the fire?
-QUEST_20170912_006218	{nl}If it's too much for you, you can ask other folks to join. I'll make sure to repay you for your hard work.
-QUEST_20170912_006219	Thank you so much. Here's a little gift from the Imigrantes.{nl}If you're free to help us any other time, we'd be much appreciated.
-QUEST_20170912_006220	Hm? This gift is for the people who helped us.{nl}I'm afraid I can't give you anything if you never helped us.
-QUEST_20170912_006221	Hmm... Didn't I already give you something today? I got nothing left to give you.{nl}You need to come back a day after you got your last reward; then I might have something for you.
-QUEST_20170912_006222	Sorry, we don't need help anymore. All the work's done, you see.{nl}If you still want to help, you can come back in a while or tomorrow.
-QUEST_20170912_006223	I heard Fedimian was safe again so I came all the way here... Well, not only was that wrong, I even got attacked by monsters, can you believe?{nl}If it's not asking too much, would you pick up some of the things I dropped when I was running away?
-QUEST_20170912_006224	Oh! Thank you, my friend! But, you see, I was carrying a lot of things. I'm so sorry, but would you pick up some more?{nl}If it's too much, you can get some of your friends to help. I'll make sure to pay you back.
-QUEST_20170912_006225	Oooh! My goodness, I thought the monsters had stolen this!{nl}This is expensive, too, I don't know what I would have done if it was gone! Thank you, thank you!
-QUEST_20170912_006226	Hm? That's my ledger! Boy, I feel so relieved. You really saved me, huh.{nl}Thank you. A merchant's ledger is their entire life, you know.
-QUEST_20170912_006227	Thank you for finding my things! Here's a little gift from me.{nl}It isn't much, but I hope you like it.
-QUEST_20170912_006228	Hey, you didn't help find any of my goods, did you?{nl}I'm sorry then, but there's no gift for you. Go back, will you?
-QUEST_20170912_006229	Hm? You... already got a gift somewhere else, didn't you?{nl}I'm sorry, but the gifts are limited, I'm afraid I can't give you one.
-QUEST_20170912_006230	I can't believe I have to go back with nothing left now.{nl}I'll have to hope I have more luck next time.
-QUEST_20170912_006231	Are you all out of holy water? Here, have some.{nl}Come see me again if you need more.
-QUEST_20170912_006232	Oh, you're all out of holy water. Here, I'll give you some more.{nl}There you go, all set to purify the landmarks.
-QUEST_20170912_006233	You haven't used any of your holy water!{nl}Go to the landmarks and use it there. I'm counting on you.
-QUEST_20170912_006234	Thank you for your help. Here's a little gift for the trouble.{nl}Do come and help me again whenever you're free.
-QUEST_20170912_006235	Oh, I'm sorry. This gift is only for those who are helping me.{nl}I can't give this to you if you're not helping. I'm sorry.
-QUEST_20170912_006236	You already have today's gift, I see. I'm sorry, but I can't give you any more.{nl}If you'd like another one, you can come back one day after you got your last gift.
-QUEST_20170912_006237	I'm sorry, all the work is done now.{nl}Feel free to come see me again in the future.
-QUEST_20170912_006238	Attention
-QUEST_20170912_006239	You have progress saved in this gimmick. Do you want to reset the gimmick and participate?{nl}Resetting the gimmick will delete all data related to your participation in it, including gimmick items.
-QUEST_20170912_006240	Select the area to enter.
-QUEST_20170912_006242	I'm exchanging items obtained in the Earth Tower for other useful items.{nl}For a limited time only, I'm doing the service free of charge!
-QUEST_20170912_006243	If you give me an item obtained inside the Earth Tower and a few materials, I can exchange that for a different item.
-QUEST_20170912_006244	Participation in this event is limited to 1 times per day, with 1 buff corresponding to 1 reward.
+QUEST_20170912_006217	As minhas plantações morreram por causa de uma estranha energia aqui...{nl}Também estou com pouca gente. Poderia me ajudar a remover a plantação perdida e queima-la?
+QUEST_20170912_006218	{nl}Se for muito para você, pode chamar amigos. Prometo que farei um pagamento justo.
+QUEST_20170912_006219	Muito obrigado mesmo! Pegue este presente dos Imigrantes.{nl}Se quiser nos ajudar mais vezes, seremos muito gratos.
+QUEST_20170912_006220	Hm? Este presente é para as pessoas que nos ajudaram.{nl}Sinto que não posso dar ele se você nunca nos ajudou.
+QUEST_20170912_006221	Hmm... Já não dei algo pra você hoje? Não sobrou nada mais.{nl}Retorne sempre um dia depois, quem sabe tenho algo novo.
+QUEST_20170912_006222	Desculpe, não precisamos mais de ajuda. O trabalho foi feito, veja.{nl}Se ainda quer ajudar, volte mais tarde ou amanhã.
+QUEST_20170912_006223	Ouvi que Fedimian está segura novamente, então eu vim até aqui...{nl}Não só isso estava errado, como fui atacado por monstros, acredita?{nl}Se não for pedir demais, poderia me ajudar a achar o que perdi no caminho?
+QUEST_20170912_006224	Oh! Muito obrigado! Porém, eu carregava mais coisas...{nl}Poderia ver e acha o resto? Se for demais, pode pedir ajuda de amigos.{nl}Prometo pagar bem.
+QUEST_20170912_006225	Oh! Pela Deusa, achei que os monstros tinham roubado isso!{nl}Isso é caro, não sei o que eu iria fazer se não recuperasse!{nl}Obrigado, muito obrigado!
+QUEST_20170912_006226	Hm? É o meu livro caixa! Nossa, que alívio. Você me salvou mesmo, hein!{nl}Obrigado. O livro caixa de um mercador é a vida dele, sabe.
+QUEST_20170912_006227	Obrigado por achar os meus pertences! Aqui, pegue este{nl}presente meu. Não é muito, mas espero que goste.
+QUEST_20170912_006228	Ei, você não me ajudou até agora, não?{nl}Desculpe, mas não vou poder dar nada. Vai voltar, não vai?
+QUEST_20170912_006229	Hm? Você... já pegou um presente em outro lugar, não pegou?{nl}Desculpe, mas eles são limitados, não posso dar outro.
+QUEST_20170912_006230	Não acredito que tenho que voltar sem nada agora.{nl}Tomara que eu tenha mais sorte na próxima.
+QUEST_20170912_006231	Acabou toda a sua Holy Water? Aqui, pege um pouco.{nl}Volte se precisar mais.
+QUEST_20170912_006232	Oh, você está sem nenhuma Holy Water. Vou dar umas para você.{nl}Aqui está, pronta para purificar.
+QUEST_20170912_006233	Você não usou nenhuma Holy Water!{nl}Vá para o local e use lá. Conto com você.
+QUEST_20170912_006234	Obrigado pela ajuda. Aqui, um presente pela ajuda.{nl}Volte quando puder para me ajudar novamente.
+QUEST_20170912_006235	Oh, desculpe. O presente é só para os que ajudaram.{nl}Não posso dar a você se não ajudar. Desculpe.
+QUEST_20170912_006236	Vejo que você já ganhou presentes hoje. Infelizmente, não posso dar outro.{nl}Se quiser, precisa voltar outro dia.
+QUEST_20170912_006237	Desculpe por todo o trabalho que você já fez.{nl}Sinta-se à vontade para voltar aqui.
+QUEST_20170912_006238	Atenção
+QUEST_20170912_006239	Você tem progresso salvo nesta charada. Deseja reinicia-la?{nl}Isto irá remover o progesso já salvo, incluindo itens.
+QUEST_20170912_006240	Selecione a área para entrar.
+QUEST_20170912_006242	Estou trocando itens obtidos na Earth Tower por outros.{nl}E não estou cobrando taxas, por tempo limitado!
+QUEST_20170912_006243	Se conseguir um item da Earth Tower e mais alguns materiais,{nl}posso trocar por itens diferentes.
+QUEST_20170912_006244	Participação no evento é limitada a 1 vez por dia. 1 buff corresponde a 1 recompensa.
 QUEST_20170912_006245	Meow
-QUEST_20170912_006246	Participate in the Team Batlle League to win rewards.
-QUEST_20170925_006248	The Masters' Unit event is now open.
+QUEST_20170912_006246	Participe da Team Battle League para ganhar recompensas.
+QUEST_20170925_006248	E evento Masters' Unit está aberto.
 QUEST_20171013_006250	Até amanhã ~
-QUEST_20171013_006251	Selecione o nível do chefe. {Nl} Pode selecionar entre o Boss Lv10 e até 10 níveis acima do nível já concluído.
+QUEST_20171013_006251	Selecione o nível do chefe. {nl} Pode selecionar entre o Boss Lv10 e até 10 níveis acima do nível já concluído.
 QUEST_20171013_006252	Não há monstros capturados.
 QUEST_20171013_006253	Qual monstro você gostaria de aumentar o nível?
 QUEST_20171013_006254	Você não tem itens de evento suficientes.
@@ -6241,284 +6241,284 @@ QUEST_20171023_006262	Eu já lhe dei alguns doces, meu amigo fantasmagórico, ag
 QUEST_20171023_006263	Espantalho Medroso
 QUEST_20171023_006264	O calabouço não está aberto agora.{nl}Você pode entrar todas as horas de :00 a :14 minutos.
 QUEST_20171023_006265	Você já usou todas as suas entradas hoje.
-QUEST_20171023_006266	Bem-vindo! {Nl} Eu sou Espantalho Medroso, o gerente do calabouço de Halloween deste ano.
-QUEST_20171023_006267	Vejo que você já visitou o calabouço. {Nl} Não vou contar isso como uma nova entrada então.
+QUEST_20171023_006266	Bem-vindo! {nl} Eu sou Espantalho Medroso, o gerente do calabouço de Halloween deste ano.
+QUEST_20171023_006267	Vejo que você já visitou o calabouço. {nl} Não vou contar isso como uma nova entrada então.
 QUEST_20171023_006268	Você voltou.
-QUEST_20171023_006269	Vamos lá! {Nl} Indo para a primeira entrada do dia, não é?
-QUEST_20171023_006270	Se você sair agora, os Treats que coletou aqui desaparecerão. {Nl} Você tem certeza de que deseja sair?
-QUEST_20171023_006271	O calabouço está fechado agora. {Nl} Você quer voltar para Klaipeda?
+QUEST_20171023_006269	Vamos lá! {nl} Indo para a primeira entrada do dia, não é?
+QUEST_20171023_006270	Se você sair agora, os Treats que coletou aqui desaparecerão. {nl} Você tem certeza de que deseja sair?
+QUEST_20171023_006271	O calabouço está fechado agora. {nl} Você quer voltar para Klaipeda?
 QUEST_20171023_006272	Você não pode usar isso agora.
 QUEST_20171023_006273	A masmorra do Dia das Bruxas é para personagens do Rank 3 e acima.
 QUEST_20171023_006274	Saia do seu grupo antes de entrar no calabouço.
-QUEST_20171023_006276	Oh, desculpe. {Nl} Para sua segurança, você precisa desequipar todos os itens, excluindo o cabelo, lentes, visuais, asas e braçadeiras.
+QUEST_20171023_006276	Oh, desculpe. {nl} Para sua segurança, você precisa desequipar todos os itens, excluindo o cabelo, lentes, visuais, asas e braçadeiras.
 QUEST_20171023_006277	Espero que você entenda por que precisamos das restrições de equipamentos. Segurança em primeiro lugar.
-QUEST_20171103_006278	The Adventure Journal points and ranking are being updated.{nl}That means you may not be able to receive Adventure Journal rewards for a while.
-QUEST_20171103_006279	Also, when the Adventure Journal is being updated, the points and rankings shown may not correspond to the real ones.{nl}Do you still want to see your Adventure Journal?
-QUEST_20171103_006280	The Adventure Journal points and ranking are being updated.{nl}That means you may not be able to receive Adventure Journal rewards for a while.
-QUEST_20171103_006281	Also, when the Adventure Journal is being updated, the points and rankings shown may not correspond to the real ones.{nl}Do you still want to see your Adventure Journal?
-QUEST_20171103_006280	The Adventure Journal points and ranking are being updated.{nl}That means you may not be able to receive Adventure Journal rewards for a while.
-QUEST_20171103_006281	Also, when the Adventure Journal is being updated, the points and rankings shown may not correspond to the real ones.{nl}Do you still want to see your Adventure Journal?
-QUEST_20171113_006284	You can obtain Candies by hunting monsters or attacking other players.{nl}Are you sure you want to enter?
-QUEST_20171113_006285	You can reenter the dungeon a maximum of 2 times per hour.
-QUEST_20171120_006287	Please select the boss level.
-QUEST_20171120_006289	The selected boss level is too high or not valid.
-UEST_20171128_006290	Historic Site Ruins (Recommended Lv : 120){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
-QUEST_20171128_006291	Demon Prison Guild (Recommended Lv : 180){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
-QUEST_20171128_006292	Event Helper
-QUEST_20171128_006293	I'm sorry, this event is only for new Saviors.
-QUEST_20171128_006294	Today 
-QUEST_20171128_006295	this event
-QUEST_20171128_006296	 You have received the buff.
-QUEST_20171128_006297	I'm giving new Saviors the  
-QUEST_20171128_006298	  buff to help them grow stronger.{nl}You can only receive this buff with one character per day.{nl}Do you want to receive it now?
-QUEST_20171128_006299	You can only receive the  
-QUEST_20171128_006300	  buff at level 330 or lower.
-QUEST_20171128_006301	Invitation Event Helper
-QUEST_20171128_006302	A new adventure in a new land!{nl}How exciting!
-QUEST_20171128_006303	You already received all of the supplies for today.
-QUEST_20171128_006304	You already exchanged all the cubes for today.
-QUEST_20171128_006305	You don't have enough Invitation Badges to exchange for cubes.
-QUEST_20171128_006306	The title will only apply to the current character.{nl}Are you sure you want to receive it?
-QUEST_20171128_006307	You have no total exchange count rewards to receive.
-QUEST_20171128_006308	Select Costume
-QUEST_20171128_006309	Select a costume.{nl}Your choice cannot be reverted.
-QUEST_20171128_006310	Laima's Kupole
-QUEST_20171128_006311	You already received today's supplies.
-QUEST_20171128_006312	My supplies can't be traded or moved through your Team Storage.{nl}Do you want to receive them now?
-QUEST_20171128_006313	I pray this will be useful to you, and the world.
-QUEST_20171128_006314	You already received today's additional entries for the Challenge Mode.
-QUEST_20171128_006315	You can only receive additional entries for the Challenge Mode on Saturdays and Sundays.
-QUEST_20171128_006316	You can receive extra entries after completing your first entry in the Challenge Mode.
-QUEST_20171128_006317	You have received 1 extra entry for the Challenge Mode.
-QUEST_20171128_006318	I'm giving out supplies to those who contributed to reconstructing our world.{nl}The supplies can only be received 3 times per team and you can't transfer them via Team Storage.{nl}Do you want to receive them?
-QUEST_20171128_006319	I hope this will be of use to you. May you stay with the goddesses, always...
-QUEST_20171128_006320	Fallen Legwyn Family Dungeon (Recommended Lv : 230){nl}Only you and your party members can enter together.{nl}Do you want to enter?
-QUEST_20171128_006321	Catacombs Underground Dungeon (Recommended Lv : 270){nl}Only you and your party members can enter together.{nl}Do you want to enter?
-QUEST_20171128_006322	Now I remember how we gobbled up those 2 potatoes without even drinking a drop of water. We choked so hard we had to bang on each other's backs until it went down.
-QUEST_20171128_006323	It sounds like someone is singing, "Fiery pollen of that precious yellow flower, bring peace into our hearts."{nl}It's best to ask someone about it.
-QUEST_20171128_006324	Fiery pollen of that precious yellow flower, bringing peace into our hearts.
-QUEST_20171128_006325	The nightly glimmer carried out through to daytime, now my heart is open wide.
-QUEST_20171128_006326	Half of my heart carved on a stone, the one you chant among the preachers of love.
-QUEST_20171128_006327	I pray that someone will see me, that my hollow heart will reflect a pillar of three lights. Fill my heart with the three colors.
-QUEST_20171128_006328	The fate of the ailing goddess lies with Parias Forest. May She find help before the sun sets over the woods.
-QUEST_20171128_006329	Follow Goddess Medeina's Priest Indrea to Valta Garden.
-QUEST_20171128_006330	It says, "Come, take my hand. I will hand over half of my heart."
-QUEST_20171128_006331	A group of butterflies surrounds a lone dandelion.
-QUEST_20171128_006332	Dandelion with Butterflies
-QUEST_20171128_006333	There are many butterflies surrounding the dandelion.{nl}If feels as if talking to them will transmit a message to someone.
-QUEST_20171128_006334	A seemingly stray dog eagerly looks on, as if asking for help.
-QUEST_20171128_006335	Hauberk's hunter demons set up camp in Ljuba Falls. His scouts created a defense line along the road to Narvas Temple, and both sides are now in conflict at the Gele Vejas Lot. The only way to reach Narvas Temple is to cross the lot, but it doesn't look like that's going to be easy.
-QUEST_20171128_006336	There's a type of highly flammable flower that grows around the Tekel Shelter called Sporgimo. It could be used to set fire to the hunters' camp and lure them there. The same can be done around the scouts' defense line to distract them.
-QUEST_20171128_006337	Collect Sporgimo flowers and set fire to the hunters' camp and the scouts' defense line in order to distract them. Then, make your way to Narvas Temple.
-QUEST_20171128_006338	Suspicion Hauberk
-QUEST_20171128_006339	Agailla Flurry was a very meticulous?�woman. There is no telling what she may have left there. Be sure to destroy everything you see.
-QUEST_20171128_006340	And the Token?{nl}Have you not found it yet?
-QUEST_20171128_006341	How can I be sure you haven't sided with Ambition Hauberk and given him the Contract Token instead?{nl}Or that you aren't plotting with Deception Hauberk to attack me?
-QUEST_20171128_006342	Or, that you have found it, and are waiting to betray me, Hauberk, and take the power of Agailla Flurry for yourself!
-QUEST_20171128_006343	I always suspected you would betray me, from the moment you lowered your head to another Hauberk!
-QUEST_20171128_006344	I will keep my eye on you.{nl}Put one foot out of line and I will not hesitate to exterminate you.
+QUEST_20171103_006278	Ranking e pontos do Diário da Aventura estão sendo atualizados.{nl}Você pode não receber as recompensas por um período.
+QUEST_20171103_006279	Enquanto o Diário da Aventura é atualizado, os pontos exibidos não são os reais.{nl}Deseja ver o seu Diário da Aventura?
+QUEST_20171103_006280	Ranking e pontos do Diário da Aventura estão sendo atualizados.{nl}Você pode não receber as recompensas por um período.
+QUEST_20171103_006281	Enquanto o Diário da Aventura é atualizado, os pontos exibidos não são os reais.{nl}Deseja ver o seu Diário da Aventura?
+QUEST_20171103_006280	Ranking e pontos do Diário da Aventura estão sendo atualizados.{nl}Você pode não receber as recompensas por um período.
+QUEST_20171103_006281	Enquanto o Diário da Aventura é atualizado, os pontos exibidos não são os reais.{nl}Deseja ver o seu Diário da Aventura?
+QUEST_20171113_006284	Você obtém Candies ao enfrentar monstros e outros jogadores.{nl}Deseja entrar?
+QUEST_20171113_006285	Você pode entrar novamente no máximo 2 vezes por hora.
+QUEST_20171120_006287	Por favor, selecione o nível do Boss.
+QUEST_20171120_006289	O nível do Boss selecionada é muito alto, ou inválido.
+QUEST_20171128_006290	Historic Site Ruins (Lv Recomendado : 120){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
+QUEST_20171128_006291	Demon Prison Guild (Lv Recomendado : 180){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
+QUEST_20171128_006292	Ajudante de Evento
+QUEST_20171128_006293	Desculpe, este evento é para novos Salvadores.
+QUEST_20171128_006294	Hoje 
+QUEST_20171128_006295	este evento
+QUEST_20171128_006296	 Você recebeu o buff.
+QUEST_20171128_006297	Estou dando aos novos Salvadores o buff  
+QUEST_20171128_006298	  para ajudar na jornada.{nl}Você só pode receber com um personagem por dia.{nl}Deseja receber o buff agora?
+QUEST_20171128_006299	Você só pode receber o buff  
+QUEST_20171128_006300	  com nível menor que 330.
+QUEST_20171128_006301	Ajudante do Evento de Convite
+QUEST_20171128_006302	Uma nova aventora em novas terras!{nl}Que emocionante!
+QUEST_20171128_006303	Você já recebeu todos os suprimentos por hoje.
+QUEST_20171128_006304	Você já trocou todos os cubos por hoje.
+QUEST_20171128_006305	Você não possui Invitation Bagdes suficients para trocar por cubos.
+QUEST_20171128_006306	O título será aplicado somente ao personagem atual.{nl}Deseja recebe-lo agora?
+QUEST_20171128_006307	Você não possui pontos suficientes para receber recompensas.
+QUEST_20171128_006308	Selecione o Traje
+QUEST_20171128_006309	Selecione um traje.{nl}Sua escolha não poderá ser revertida.
+QUEST_20171128_006310	Kupole de Laima
+QUEST_20171128_006311	Você já recebeu os suprimentos diários.
+QUEST_20171128_006312	Meus suprimentos não poderão ser trocados ou movidos pelo Armazém.{nl}Deseja recebe-los agora?
+QUEST_20171128_006313	Espero que seja útil para você, e para o mundo.
+QUEST_20171128_006314	Você já recebeu entradas adicionais para Modo Desafio hoje.
+QUEST_20171128_006315	Você só pode receber entradas adicionais para o Modo Desafio em sábados e domingos.
+QUEST_20171128_006316	Você pode recebr entradas extras depois de completar uma vez o Modo Desafio.
+QUEST_20171128_006317	Recebeu 1 entrada extra para o Modo Desafio.
+QUEST_20171128_006318	Distribuo suprimentos para os que contribuem na reconstrução de nosso mundo.{nl}Podem ser retirados 3 vezes por time e não podem ser transferidos, nem por Armazém.{nl}Deseja receber agora?
+QUEST_20171128_006319	Espero que possa ser útil a você. Esteja sempre com a Deusa...
+QUEST_20171128_006320	Fallen Legwyn Family Dungeon (Lv Recomendado : 230){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
+QUEST_20171128_006321	Catacombs Underground Dungeon (Lv Recomendado : 270){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
+QUEST_20171128_006322	Lembro de quando engolimos as 2 batatas sem nem tomar água. Chegamos a engasgar, a ponto de bater nas costas para ajudar.
+QUEST_20171128_006323	Parece que alguém está cantando,{nl}"Pólen ardente da preciosa Flor Amarela, traga a paz aos nossos corações."{nl}É melhor perguntar a alguém sobre isso.
+QUEST_20171128_006324	Pólen ardente da preciosa Flor Amarela, traga a paz aos nossos corações.
+QUEST_20171128_006325	No cintilar noturno que alcança o dia, meu coração está entregue.
+QUEST_20171128_006326	Metade de meu coração esculpido em pedra, entre os pregadores do amor.
+QUEST_20171128_006327	Rezo para alguém notar, meu coração vazio refletirá três pilares luz. Preencha-o com suas cores.
+QUEST_20171128_006328	O destino da Deusa enferma está em Parias Forest. Que haja ajuda antes do sol se pôr entre as árvores.
+QUEST_20171128_006329	Siga a Priest da Deusa Medeina, Indrea, até Valta Garden.
+QUEST_20171128_006330	Diz "Venha, pegue minha mão. Vou entregar metade de meu coração".
+QUEST_20171128_006331	Borboletas ao redor de um Dandelion solitário.
+QUEST_20171128_006332	Dandelion com Borboletas
+QUEST_20171128_006333	Há várias borboletas ao redor do Dandelion.{nl}Parece que conversa com elas para trasnmitir uma mensagem à alguém.
+QUEST_20171128_006334	Um cão aparentemente comum olha ansioso, como se pedisse ajuda.
+QUEST_20171128_006335	Os demônios de Hauberk fizeram acampamento em Ljuba Falls. Criaram uma linha defensiva no caminho para Narvas Temple, ambos os lados estão em conflito em Gele Vejas Lot. O único jeito de chegar em Narvas Temple é cruzando o local, mas não parece que será algo fácil.
+QUEST_20171128_006336	Há um tipo inflamável de flor que cresce em Tekel Shelter chamada Sporgimo. Pode ser usada para atear fogo no acampamento e atrai-los. O mesmo pode ser feito na linha de defesa para distrair.
+QUEST_20171128_006337	Colete Sporgimo Flowers, ateie fogo no acampamento e na linha de defesa para criar distração. Assim, avance até Narvas Temple.
+QUEST_20171128_006338	Suspeição de Hauberk
+QUEST_20171128_006339	Agailla Flurry é uma mulher meticulosa. Difícil dizer o que ela pode{nl}ter deixado lá. Tenha certeza de destruir to que ver.
+QUEST_20171128_006340	E o Token?{nl}Já encontrou ele?
+QUEST_20171128_006341	Como posso saber se não se aliou à Ambição e deu o Contract Token pra ele?{nl}Ou que não esteja envolvido com Decepção para me atacar?
+QUEST_20171128_006342	Ou, se encontrou, que não quer me trair e pegar o poder de Flurry para você!
+QUEST_20171128_006343	Sempre suspeitei que fosse me trair,{nl}quando você se curvou para outro Hauberk!
+QUEST_20171128_006344	Vou ficar de olho em você. Pise um milímetro{nl}fora da linha e não vou hesitar em exterminar você.
 QUEST_20171128_006345	Monk Aistis
-QUEST_20171128_006346	I see Suspicion Hauberk has started to doubt his own subordinates.{nl}Seeing how he's giving orders to destroy Flurry's equipment...
-QUEST_20171128_006347	If Flurry's equipment is destroyed, it will be even more difficult to modify. We must protect the equipment.
-QUEST_20171128_006348	Ambition Hauberk
-QUEST_20171128_006349	Transform the monks' spirits, restore my power.
-QUEST_20171128_006350	What is it?{nl}What is the problem?
-QUEST_20171128_006351	You better find me that monk, or you will have the same fate as them!
-QUEST_20171128_006352	And what of that Contract Token?
-QUEST_20171128_006353	Find it!{nl}Bring it to me before the other Hauberks get to it!
-QUEST_20171128_006354	If I don't merge with them, you can be sure the bottom of the spirit engine is the last thing you'll ever see!
-QUEST_20171128_006355	The lights on the devices seem to be pointing towards something.
-QUEST_20171128_006356	Hauberk's hunters destroyed the equipment...{nl}But I believe we can still modify the devices and use them.
-QUEST_20171128_006357	We're going to need a lot of magic crystals to modify the equipment.{nl}Please gather as many as you can from the hallway in Narvas Temple and bring them to me.
-QUEST_20171128_006358	It looks like this is the right device.
-QUEST_20171128_006359	{@ST41}{S20}Year 490 of the Kingdom, Barynwell Year 12{/}{/}{nl}Agailla Flurry is born.{nl}{nl}{@ST41}{S20}Year 490 of the Kingdom, Barynwell Year 30{/}{/}{nl}Agailla Flurry becomes a disciple to Maven, receives divine Revelation.{nl}{nl}{@ST41}{S20}Year 510 of the Kingdom, Barynwell Year 32{/}{/}{nl}Flurry becomes Linker Master after previous Master abdicates position.
-QUEST_20171128_006360	{nl}{@ST41}{S20}Year 515 of the Kingdom, Rael Year 4{/}{/}{nl}Flurry becomes Thaumaturge Master after death of previous Master.{nl}{nl}{@ST41}{S20}Year 517 of the Kingdom, Rael Year 6{/}{/}{nl}Flurry becomes Wizard Master after previous Master retires, Lydia Schaffen dies of natural causes.{nl}{nl}{@ST41}{S20}Year 518 of the Kingdom, Rael Year 7{/}{/}{nl}Flurry signs secret contract with Aliança Kedoran.{nl}{nl}{@ST41}{S20}Year 520 of the Kingdom, Rael Year 9{/}{/}{nl}Flurry begins construction of Mage Tower.
-QUEST_20171128_006361	{@ST41}{S20}Year 521 of the Kingdom, Rael Year 10{/}{/}{nl}Flurry becomes Pyromancer Master after death of previous Master.{nl}{nl}{@ST41}{S20}Year 522 of the Kingdom, Rael Year 11{/}{/}{nl}Flurry conceives original Chronomancer magic, becomes first Master in the field.{nl}{nl}{@ST41}{S20}Year 526 of the Kingdom, Rael Year 15{/}{/}{nl}Flurry becomes Cryomancer Master after death of previous Master.{nl}
-QUEST_20171128_006362	{nl}{@ST41}{S20}Year 529 of the Kingdom, Rael Year 18{/}{/}{nl}Flurry becomes Elementalist Master after previous Master retires.{nl}{nl}{@ST41}{S20}Year 533 of the Kingdom, Rael Year 22{/}{/}{nl}Flurry becomes first individual in history to hold all Class Master positions simultaneously.
-QUEST_20171128_006363	{nl}{@ST41}{S20}Year 534 of the Kingdom, Rael Year 23{/}{/}{nl}Flurry officially nominated Head of Wizards by royal order. Flurry's unprecedented position gives her authority over all wizards in the kingdom. No other individual known to occupy all Master positions or the role of Head of Wizards after Flurry.
-QUEST_20171128_006364	 {nl}{@ST41}{S20}Year 534-536 of the Kingdom, Rael Year 23-25{/}{/}{nl}Flurry's authority inducts a revival of magic studies and wizard professions. Six noteworthy wizards are taken under Flurry's special care as disciples.{nl}{nl}{@ST41}{S20}Year 537 of the Kingdom, Rael Year 26{/}{/}{nl}Flurry completes construction of Mage Tower.
-QUEST_20171128_006365	{@ST41}{S20}Year 540 of the Kingdom, Rael Year 29{/}{/}{nl}Demon Lord Helgasercle discovers Flurry's possession of divine Revelation.{nl}{nl}{@ST41}{S20}Year 541 of the Kingdom, Rael Year 30{/}{/}{nl}King Rael grants autonomy, tax exemption and other special rights to Mage Tower.
-QUEST_20171128_006366	{@ST41}{S20}Year 543 of the Kingdom, Rael Year 32{/}{/}{nl}Helgasercle attempts first attack on Mage Tower, ends defeated.{nl}{@ST41}{S20}Year 555 of the Kingdom, Rael Year 44{/}{/}{nl}Helgasercle initiates war with Mage Tower, killing four of Flurry's six disciples.
-QUEST_20171128_006367	{@ST41}{S20}Year 560 of the Kingdom, Rael Year 49{/}{/}{nl}Helgasercle attempts final attack on Mage Tower. Fails to conquer the tower, but kills Flurry's last remaining disciples.
-QUEST_20171128_006368	{@ST41}{S20}Year 561 of the Kingdom, Rael Year 50{/}{/}{nl}King Rael enacts defensive military plan against demon incursions on Mage Tower.{nl}Helgasercle continues to attempt smaller-scale attacks on the Tower.{nl}Mage Tower invasions via physical means become virtually impossible under Flurry's vigilance.
-QUEST_20171128_006369	{@ST41}{S20}Year 564 of the Kingdom, Rael II Year 1{/}{/}{nl}Rael II succeeds to late King Rael.{nl}Flurry selects new disciples via official contest.{nl}{nl}{@ST41}{S20}Year 578 of the Kingdom, Rael II Year 15{/}{/}{nl}Flurry's three new disciples assassinated by Helgasercle.{nl}
-QUEST_20171128_006370	{@ST41}{S20}Year 579 of the Kingdom, Rael II Year 16{/}{/}{nl}Flurry makes third attempt at selecting new disciples.{nl}{nl}
-QUEST_20171128_006371	{@ST41}{S20}Year 588 of the Kingdom, Rael II Year 25{/}{/}{nl}Flurry's new disciples are once again assassinated by Helgasercle and his disciples, partly from withing Mage Tower. Flurry proves unable to protect both the Tower and her disciples in the face of Helgasercle's attacks.{nl}{nl}
-QUEST_20171128_006372	{@ST41}{S20}Year 595 of the Kingdom, Rael III Year 1{/}{/}{nl}Rael III succeeds to late King Rael II. Helgasercle shows intentions to intercept any successor to Flurry's Mage Tower and take control of the Revelation after her death.{nl}{nl}
-QUEST_20171128_006373	{@ST41}{S20}Year 596 of the Kingdom, Rael III Year 2{/}{/}{nl}Flurry begins last attempt to foster new disciples.{nl}{nl}
-QUEST_20171128_006374	{@ST41}{S20}Year 600 of the Kingdom, Rael III Year 6{/}{/}{nl}Flurry seeks refuge for her new disciples.{nl}{nl}Stage 1: Failed - military guards and wizards annihilated, death of all disciples.{nl}{nl}Stage 2: Failed - attempt to teleport disciples to safe location obstructed by Helgasercle, culminating in battle and death of all Flurry disciples and guards.{nl}{nl}Stage 3: Success - aided by Dievdirbys Master Tesla, Flurry uses goddess statue to transport disciples inside the royal palace without interference from Helgasercle.{nl}{nl}
-QUEST_20171128_006375	{@ST41}{S20}Year 601 of the Kingdom, Rael III Year 7{/}{/}{nl}Throne dispute emerges after death of King Rael III. Helgasercle, taking advantage of the instability, hires human assassins to murder all Flurry disciples residing in the royal palace.
-QUEST_20171128_006376	{@ST41}{S20}Year 601 of the Kingdom, Cosomel Year 1{/}{/}{nl}Cosomel ascends to throne after dispute. In the wake of the war and Flurry's disciples' murders, Cosomel reinforces military forces with special Shinobi units. First Shinobi Master nominated.{nl}
-QUEST_20171128_006377	{nl}{@ST41}{S20}Year 602 of the Kingdom, Cosomel Year 2{/}{/}{nl}King reassesses staff required for Mage Tower maintenance and defense, assigns remaining personnel to different locations in the Kingdom.
-QUEST_20171128_006378	Enter the password.
-QUEST_20171128_006379	Deception Hauberk
-QUEST_20171128_006380	Hm...?{nl}Well, if it isn't the pitiful human again...
-QUEST_20171128_006381	I would very much like to have you dragged to Ambition Hauberk and watch you suffer, but as it is, I'll be kind enough to listen to your plead. Consider it an act of mercy.
-QUEST_20171128_006382	Go ahead, I'm listening.
-QUEST_20171128_006383	Alright, what is it that you wish? Foolish human.
-QUEST_20171128_006384	Is that so?{nl}You realized you can't defeat me and came back to beg, is it?
-QUEST_20171128_006385	How unfortunate.{nl}You see, I simply cannot accept a gullible human such as yourself.
-QUEST_20171128_006386	Not without the proper redemption, that is.
-QUEST_20171128_006387	What are you saying?{nl}You can help me take over the other Hauberks?
-QUEST_20171128_006388	You little...{nl}How do you know that function exists in the monastery?
-QUEST_20171128_006389	So you discovered this information as proof of your submission to me?{nl}I don't know if I can fully trust your newfound "loyalty" just yet.
-QUEST_20171128_006390	Very well. If you can restore the equipment with Monk Aistis and prove that the function exists, I'll consider it.
-QUEST_20171128_006391	What?{nl}Back so soon?
-QUEST_20171128_006392	Is this a plot to betray me?
-QUEST_20171128_006393	Speak, human.
-QUEST_20171128_006394	Have you found the Contract Token?
-QUEST_20171128_006395	You say a human in the monastery is carrying the Contract Token?{nl}And they are not a monk?
-QUEST_20171128_006396	They could be related to Agailla Flurry.{nl}Either way, hurry and get the Contract Token already.
-QUEST_20171128_006397	So the equipment was being repaired so that Deception Hauberk could attack me?{nl}I knew I couldn't trust him.
-QUEST_20171128_006398	He's very wrong if he thinks I'll let this pass.{nl}Yes, he is.
-QUEST_20171128_006399	Are you saying we curse the Contract Token to attack Ambition and Deception Hauberk?{nl}Hm... Yes, if they're injured, I can merge them both into my own being.
-QUEST_20171128_006400	Very well.{nl}Place the curse on the Contract Token and bring it to me.
-QUEST_20171128_006401	Be sure to report back to me.
-QUEST_20171128_006402	Is the Contract Token properly cursed?
-QUEST_20171128_006403	At last, I can merge the other Hauberks.{nl}You have done well, King Hammer.
-QUEST_20171128_006404	Report back immediately if anything happens.
-QUEST_20171128_006405	Registry Orb Generator
-QUEST_20171128_006406	Your sentence has been reset.{nl}Please enter another sentence.
-QUEST_20171128_006407	Please select a phrase.
-QUEST_20171128_006408	Please select a phrase.{nl}Deception Hauberk
-QUEST_20171128_006409	Please select a phrase.{nl}Deception Hauberk secretly took
-QUEST_20171128_006410	Please select a phrase.{nl}Deception Hauberk secretly took the monks
-QUEST_20171128_006411	Please select a phrase.{nl}Deception Hauberk secretly took the monks to transform their spirit.
-QUEST_20171128_006412	Please select a phrase.{nl}Modify
-QUEST_20171128_006413	Please select a phrase.{nl}Modify the monastery equipment
-QUEST_20171128_006414	Please select a phrase.{nl}Modify the monastery equipment and attack Ambition Hauberk.
-QUEST_20171128_006415	What? Deception Hauberk took the monks to transform their spirits?{nl}And Suspicion Hauberk restored the monastery equipment to attack me?
-QUEST_20171128_006416	How dare they betray me...!{nl}I'm sure they will try to merge me into them now.
-QUEST_20171128_006417	Well, I'd like to see them try.
-QUEST_20171128_006418	Prepare. If they really do have plans to attack, I shall be waiting for them!
-QUEST_20171128_006419	Well done, human.{nl}Now I simply need to call for Ambition and Suspicion Hauberk.
-QUEST_20171128_006420	Go and hide now. They'll suspect me if you're here.
-QUEST_20171128_006421	You dare break the machines after we swore not to meddle in each other's business?{nl}I knew you would betray us.
-QUEST_20171128_006422	Aren't you the one who went and repaired Flurry's equipment so you could attack me?
-QUEST_20171128_006423	I have no mercy for traitors.
-QUEST_20171128_006424	What are you talking about, Suspicion Hauberk?{nl}Your suspicion really knows no bounds.
-QUEST_20171128_006425	How do you explain the monk you have with you?{nl}Deception Hauberk, answer me!
-QUEST_20171128_006426	That... That is...
-QUEST_20171128_006427	I don't need your excuses.{nl}Prepare to be merged.
-QUEST_20171128_006428	Humans!{nl}Start Agailla Flurry's devices, now!
-QUEST_20171128_006429	At last, I can merge you and become my own, whole being.
-QUEST_20171128_006430	Do you really think you're the only one with a scheme, Deception Hauberk?
-QUEST_20171128_006431	Do you think I let myself be attacked because I'm weak?{nl}Did you, for one moment, think that I would allow any of you to merge me?
-QUEST_20171128_006432	If so, you are very wrong. I assumed you would betray me, so I had my men find the Contract Token.{nl}I cursed it so that whoever uses its power suffers an agony as painful as death itself.
-QUEST_20171128_006433	And, wouldn't you know... you just used it.
-QUEST_20171128_006434	You may feel like you're dying.{nl}But worry not. The pain will go away after I merge you.
-QUEST_20171128_006435	The time has come to close the contract and fulfill my true ambition!!
-QUEST_20171128_006436	Agailla Flurry Apparition
-QUEST_20171128_006437	Do you really believe you honored our contract, Hauberk?{nl}You have already violated several conditions.
-QUEST_20171128_006438	You agreed not to harm any humans by obtaining my staff, and you agreed not to modify in any way the staff or the Contract Token.{nl}The conditions you violated are too many for me to even mention them all.
-QUEST_20171128_006439	And yet, I complied with every one of our contract's conditions. I have no reason not to confront you anymore.
-QUEST_20171128_006440	Therefore, I shall stand with the Revelator, against you.
-QUEST_20171128_006441	Clever, but not enough.{nl}You and your Revelator are no match for me!
-QUEST_20171128_006442	Goddess Medeina's Priest Indrea
-QUEST_20171128_006443	My name is Indrea. I serve Medeina, the goddess of all forests.{nl}I was looking for clues about Goddess Medeina after she disappeared during Medzio Diena, when I heard rumors of people hearing voices in Teresh Forest.{nl}I came to investigate whether they could be related to Goddess Medeina.
-QUEST_20171128_006444	Really? You heard sounds coming from a tree?{nl}Can you tell me where that tree is?
-QUEST_20171128_006445	I've heard others talk about humming sounds coming from the trees, but a song? That's a first.{nl}I need to investigate the lyrics of that song.
-QUEST_20171128_006446	I'm fine.{nl}Are you okay, traveler?
-QUEST_20171128_006447	I saw three pillars of light in different colors at Tacasz Stream. There must be something else there.
-QUEST_20171128_006448	You can go ahead and investigate first.
-QUEST_20171128_006449	Many say the world is falling apart.{nl}But I still believe.
-QUEST_20171128_006450	We may have to fend for ourselves now, but I know the goddesses will come to save us one day.
-QUEST_20171128_006451	From what I could see, we need one additional piece.
-QUEST_20171128_006452	It says, "Come, take my hand. I will hand over half of my heart."{nl}Saying this sentence out loud near the butterflies might just trigger something to happen.
-QUEST_20171128_006453	White Pillar
-QUEST_20171128_006454	The pillar is white.{nl}The inside is hollow and contains a space big enough for an apple.
-QUEST_20171128_006455	Green Pillar
-QUEST_20171128_006456	The pillar is green.{nl}The inside is hollow and contains a space big enough for an apple.
-QUEST_20171128_006457	Blue Pillar
-QUEST_20171128_006458	The pillar is blue.{nl}The inside is hollow and contains a space big enough for an apple.
-QUEST_20171128_006459	Hauberk's scouts are behaving as though they knew in advance that the defense barrier was down. 
-QUEST_20171128_006460	Well done.{nl}Well done, my servant.
-QUEST_20171128_006461	It seems you're clueless after all.{nl}Allow me, Deception Hauberk, to explain to your cowardly self exactly what happened.
-QUEST_20171128_006462	Agailla Flurry agreed to grant me power, under the condition that I allow her into the Fantasy Library.{nl}I did as she requested, but when it was time for me to receive my power, I had my spirit ripped to pieces by Helgasercle instead.
-QUEST_20171128_006463	She made it so that our contract could be fulfilled only if all three parts of my spirit were set free from their seals.{nl}After we were released, Ambition Hauberk, Suspicion Hauberk and I tried to restore our power through their own means.
-QUEST_20171128_006464	Yet, all the other two Hauberks ever did was mindlessly destroy equipment, transform human spirits...{nl}I decided to be smarter than them.
-QUEST_20171128_006465	I devised a plan to use a human familiar with the monastery in my benefit...{nl}I came across a monk lost in pain and suffering, who I hypnotized in order to use the devices.
-QUEST_20171128_006466	I was using the monk to repair the temple's equipment when you appeared...{nl}With his help, you activated the protection equipment and blocked the entrance to any more of my enemies.
-QUEST_20171128_006467	After that, all that was left was to modify the equipment and restore my power.{nl}You even brought me the staff Agailla Flurry had promised to me.
-QUEST_20171128_006468	I do wish I could repay you for this remarkable favor, but I'm afraid a reward wouldn't do much difference in your case.
-QUEST_20171128_006469	Instead, I will agree to spare your life.{nl}Consider your assistance to me an honor, and disappear from my sight.
-QUEST_20171128_006470	Control Terminal
-QUEST_20171128_006471	Applying the settings will restart all temple devices.{nl}Are you sure you want to apply the settings?
-QUEST_20171128_006472	{@ST41}{S20}Year 603 of the Kingdom, Cosomel Year 3{/}{/}{nl}Flurry declares no future intentions to foster new disciples. With this, Mage Tower is set to become freely managed and protected by volunteering wizards after Flurry's death.{nl}{nl}
-QUEST_20171128_006473	{@ST41}{S20}Until Year 610 of the Kingdom, Cosomel Year 10{/}{/}{nl}Helgasercle continues illegal attempts to conquer Mage Tower. The current layout of the Mage Tower has been kept the same since this era.{nl}{nl}
-QUEST_20171128_006474	{@ST41}{S20}Until Year 611-619 of the Kingdom, Cosomel Year 19{/}{/}{nl}Flurry establishes secret plan and initiates preparations: signs agreement with Aliança Kedoran, investigates magic professions, recruits volunteers and hires experts in several fields, etc.{nl}{nl}
-QUEST_20171128_006475	{@ST41}{S20}Year 620 of the Kingdom, Cosomel Year 20{/}{/}{nl}Narvas Temple construction is completed in 1 year after decade-long secret preparations. Temple is carefully concealed to avoid discovery by outsiders, namely Helgasercle.{nl}{nl}
-QUEST_20171128_006476	{@ST41}{S20}Year 621 of the Kingdom, Cosomel Year 21{/}{/}{nl}Flurry selects Jane as her main disciple. Unable to perform magic innately, Jane learns magic exclusively through theory. This causes Helgasercle not to harm her.{nl}{nl}
-QUEST_20171128_006477	{@ST41}{S20}Until Year 631 of the Kingdom, Gliehel Year 7{/}{/}{nl}Flurry continues to research and plan in secret.{nl}{nl}
-QUEST_20171128_006478	{@ST41}{S20}Year 631 of the Kingdom, Gliehel Year 7{/}{/}{nl}Flurry signs contract with Demon Lord Hauberk as part of her plan.{nl}{nl}{@ST41}{S20}Year 631 of the Kingdom, Gliehel Year 8{/}{/}{nl}Fantasy Library entry case.{nl}{nl}{@ST41}{S20}Year 640 of the Kingdom, Gliehel Year 16{/}{/}{nl}Agailla Flurry dies at 150 years of age.
-QUEST_20171128_006479	If not even the monk knows about it... is it all a lie?
-QUEST_20171128_006480	I never knew this function existed...{nl}How did you find out about it?
-QUEST_20171128_006481	Matador Notice Board
-QUEST_20171128_006482	Matador looking for assistant.{nl}If flashy moves are your thing, come on over to Escanciu Village.
+QUEST_20171128_006346	Vejo que Suspeição de Hauberk está duvidando de seus subordinados.{nl}A julgar pelas ordens de destruir o equipamento de Flurry...
+QUEST_20171128_006347	Se os equipamentos forem destruídos, será mais dificil{nl}ainda de modificar. Precisamo protegê-los.
+QUEST_20171128_006348	Ambição de Hauberk
+QUEST_20171128_006349	Transforme os espíritos dos Monks, restaure meu poder.
+QUEST_20171128_006350	O que é isso?{nl}Qual é o problema?
+QUEST_20171128_006351	Melhor você achar esse Monk, ou terá o mesmo destino deles!
+QUEST_20171128_006352	E o Contract Token?
+QUEST_20171128_006353	Encontre!{nl}Traga ele para mim antes dos outros Hauberks encontrarem!
+QUEST_20171128_006354	Se eu não me fundir à eles, tenha certeza que o chão{nl}do aparelho espiritual é a última coisa que você verá!
+QUEST_20171128_006355	As luzes dos aparelhos parecem apontar para algo.
+QUEST_20171128_006356	Os aliados de Hauberk destruíram o equipamento...{nl}Mas acredito que ainda posso fazer ele funcionar.
+QUEST_20171128_006357	Vamos precisar de muitos Magic Crystals para alterar o equipamento.{nl}Por favor, consiga o máximo que der e traga eles para mim.
+QUEST_20171128_006358	Parece ser o dispositivo correto.
+QUEST_20171128_006359	{@ST41}{S20}Ano 490 do Reino, Ano 12 de Barynwell{/}{/}{nl}Nasce Agailla Flurry.{nl}{nl}{@ST41}{S20}Ano 508 do Reino, Ano 30 de Barynwell{/}{/}{nl}Agailla Flurry torna-se discípula de Maven, recebe Revelação divina.{nl}{nl}{@ST41}{S20}Ano 510 do Reino, Ano 32 de Barynwell{/}{/}{nl}Flurry torna-se Mestre Linker depois do Mestre anterior abdicar da posição.
+QUEST_20171128_006360	{nl}{@ST41}{S20}Ano 515 do Reino, Ano 4 de Rael{/}{/}{nl}Flurry torna-se Mestre Thaumaturge após a morte do Mestre anterior.{nl}{nl}{@ST41}{S20}Ano 517 do Reino, Ano 6 de Rael{/}{/}{nl}Flurry torna-se Mestre Wizard após aposentadoria do Mestre anterior, Lydia Schaffen falece de causas naturais.{nl}{nl}{@ST41}{S20}Ano 518 do Reino, Ano 7 de Rael{/}{/}{nl}Flurry assina contrato secreto com a Aliança {nl}{nl}{@ST41}{S20}Ano 520 do Reino, Ano 9 de Rael{/}{/}{nl}Flurry inicia a construção da Mage Tower.
+QUEST_20171128_006361	{@ST41}{S20}Ano 521 do Reino, Ano 10 de Rael{/}{/}{nl}Flurry torna-se Mestre Pyromancer após a morte do Mestre anterior.{nl}{nl}{@ST41}{S20}Ano 522 do Reino, Ano 11 de Rael{/}{/}{nl}Flurry concebe a magia original de Chronomancer, sendo a primeira Mestre no campo.{nl}{nl}{@ST41}{S20}Ano 526 do Reino, Ano 15 de Rael{/}{/}{nl}Flurry torna-se Mestre Cryomancer após a morte do Mestre anterior.{nl}
+QUEST_20171128_006362	{nl}{@ST41}{S20}Ano 529 do Reino, Ano 18 de Rael{/}{/}{nl}Flurry torna-se Mestre Elementalist após aposentadoria do Mestre anterior.{nl}{nl}{@ST41}{S20}Ano 533 do Reino, Ano 22 de Rael{/}{/}{nl}Flurry torna-se o primeiro indivíduo na história a ter todos os títulos de Mestre simultaneamente.
+QUEST_20171128_006363	{nl}{@ST41}{S20}Ano 534 do Reino, Ano 23 de Rael{/}{/}{nl}Flurry é oficialmente nominada Chefe dos Wizards pela Ordem Real. A posição sem precedentes de Flurry deu-lhe autoridade sobre todos os Wizards do Reino. Nenhum outro indivíduo ocupou todas as posições de Mestre ou o cargo de Chefe dos Wizards após Flurry.
+QUEST_20171128_006364	 {nl}{@ST41}{S20}Anos 534-536 do Reino, Anos 23-25 de Rael{/}{/}{nl}A autoridade de Flurry renasce os estudos de magias e profissões mágicas. Seis notáveis Wizards são postos sob sua tutela especial.{nl}{nl}{@ST41}{S20}Ano 537 do Reino, Ano 26 de Rael{/}{/}{nl}Flurry finaliza a construção da Mage Tower.
+QUEST_20171128_006365	{@ST41}{S20}Ano 540 do Reino, Ano 29 de Rael{/}{/}{nl}Demon Lord Helgasercle descobre que Flurry possui uma Revelação divina.{nl}{nl}{@ST41}{S20}Ano 541 do Reino, Ano 30 de Rael{/}{/}{nl}Rei Rael garante autonomia, isenção fiscal e outros direitos especiais para Mage Tower.
+QUEST_20171128_006366	{@ST41}{S20}Ano 543 do Reino, Ano 32 de Rael{/}{/}{nl}Helgasercle realiza o primeiro ataque à Mage Tower, terminando derrotada.{nl}{@ST41}{S20}Ano 555 do Reino, Ano 44 de Rael{/}{/}{nl}Helgasercle inicia guerra contra Mage Tower, matando quadro dos seis discípulos de Flurry.
+QUEST_20171128_006367	{@ST41}{S20}Ano 560 do Reino, Ano 49 de Rael{/}{/}{nl}Helgasercle realiza último ataque à Mage Tower. Falha em tomar a torre, porém mata o último discípulo restante de Flurry.
+QUEST_20171128_006368	{@ST41}{S20}Ano 561 do Reino, Ano 50 de Rael{/}{/}{nl}Rei Rael promulga plano militar defensivo contra a incursão de demônios à Mage Tower.{nl}Helgasercle continua realizando ataques em pequena escala.{nl}Invasões físicas à Mage Tower tornam-se virtualmente impossíveis sob a vigilância de Flurry.
+QUEST_20171128_006369	{@ST41}{S20}Ano 564 do Reino Ano 1 de Rael II{/}{/}{nl}Rei Rael II sucede Rei Rael.{nl}Flurry seleciona novos discípulos através de concurso oficial.{nl}{nl}{@ST41}{S20}Ano 578 do Reino, Ano 15 de Rael II{/}{/}{nl}Os três novos discípulos de Flurry são assassinados por Helgasercle.{nl}
+QUEST_20171128_006370	{@ST41}{S20}Ano 579 do Reino, Ano 16 de Rael II{/}{/}{nl}Flurry faz terceira tentativa de selecionar novos discípulos.{nl}{nl}
+QUEST_20171128_006371	{@ST41}{S20}Ano 588 do Reino, Ano 25 de Rael II{/}{/}{nl}Novamente, os discípulos de Flurry são assassinados por Helgasercle, parte por causa de infiltrados na torre. Flurry mostra-se incapaz de proteger Mage Tower e seus discípulos ao mesmo tempo dos ataques de Helgasercle.{nl}{nl}
+QUEST_20171128_006372	{@ST41}{S20}Ano 595 do Reino, Ano 1 de Rael III{/}{/}{nl}Rael III sucede Rael II. Helgasercle demonstra intenções de interceptar qualquer sucessor à Mage Tower de Flurry, para tomar controle da Revelação após a morte de Flurry.{nl}{nl}
+QUEST_20171128_006373	{@ST41}{S20}Ano 596 do Reino, Ano 2 de Rael III{/}{/}{nl}Flurry inicia última tentativa de angariar discípulos.{nl}{nl}
+QUEST_20171128_006374	{@ST41}{S20}Ano 600 do Reino, Ano 6 de Rael III{/}{/}{nl}Flurry procura refúgio para seus novos discípulos.{nl}{nl}Estágio 1: Falhou - guardas militares e mágicos aniquilados, todos os discípulos mortos.{nl}{nl}Estágio 2: Falhou - tentativa de teleportar discípulos para logal seguro obstruída por Helgasercle, culminando em batalha e morte dos discípulos e guardas.{nl}{nl}Estágio 3: Realizado - auxiliada por Tesla, Mestre Dievdirbys, Flurry usa a Estátua da Deusa para transportar discípulos para o Palácio Real sem interferências de Helgasercle.{nl}{nl}
+QUEST_20171128_006375	{@ST41}{S20}Ano 601 do Reino, Ano 7 de Rael III{/}{/}{nl}Disputas pelo trono surgem com a morte do Rei Rael III. Helgasercle, tomando vantagem da instabilidade, contrata assassinos humanos para matar os discípulos de Flurry, que residem no Palácio Real.
+QUEST_20171128_006376	{@ST41}{S20}Ano 601 do Reino, Ano 1 de Cosomel{/}{/}{nl}Cosomel ascende ao trono após disputa. Com a escalada da guerra e assassinato dos discípulos de Flurry, Cosomel reforça as forças militares com unidades com treinamento Shinobi. Nominado o primeiro Mestre Shinobi.{nl}
+QUEST_20171128_006377	{nl}{@ST41}{S20}Ano 602 do Reino, Ano 2 de Cosomel{/}{/}{nl}Rei reavalia equipe necessária para a manutenção e defesa da Mage Tower, atribuindo o pessoal restante para diferentes locais do Reino.
+QUEST_20171128_006378	Informe a senha.
+QUEST_20171128_006379	Decepção de Hauberk
+QUEST_20171128_006380	Hm...?{nl}Ora, se não é o humano patético novamente...
+QUEST_20171128_006381	Eu poderia muito bem deixar você nas sofrer nas mãos de Ambição,{nl}mas devido a situação, serei bondoso e ouvirei seu argumento.{nl}Considere um ato de misericórdia.
+QUEST_20171128_006382	Prossiga, sou todo ouvidos.
+QUEST_20171128_006383	Certo, o que é que você deseja? Humano estúpido.
+QUEST_20171128_006384	Estou entendendo bem?{nl}Você percebeu que não pode me derrotar e volta implorando?
+QUEST_20171128_006385	Que pena.{nl}Veja só, eu não posso simplesmente aceitar um humano sujo como você.
+QUEST_20171128_006386	Não sem uma adequada redenção, claro.
+QUEST_20171128_006387	O que você disse?{nl}Você pode me ajudar a derrotar os outros Hauberks?
+QUEST_20171128_006388	Ora seu...{nl}Como você sabe que essa função existe no monastério?
+QUEST_20171128_006389	Você descobriu esta informação como prova de submissão?{nl}Não sei se posso confiar fielmente nessa "lealdade" tão fácil.
+QUEST_20171128_006390	Muito bem. Se você restaurar o equipamento com Monk Aistis{nl}e provar que esta função existe, vou considerar.
+QUEST_20171128_006391	O que?{nl}Já voltou?
+QUEST_20171128_006392	Isso é uma armação para me trair?
+QUEST_20171128_006393	Fale, humano!
+QUEST_20171128_006394	Encontrou o Contract Token?
+QUEST_20171128_006395	Você diz que um humano no monastério carrega o Contract Token?{nl}E não é um Monk?
+QUEST_20171128_006396	Pode ter alguma relação com Agailla Flurry{nl}De qualquer forma, pegue o Contract Token o quanto antes.
+QUEST_20171128_006397	Então, o equipamento estava sendo reparado para que Decepção pudesse me atacar?{nl}Sabia que não podia confiar nele!
+QUEST_20171128_006398	Ele está muito enganado se acha que isso vai ficar assim.{nl}Ah, não vai mesmo.
+QUEST_20171128_006399	Sugere uma maldição no Contract Token para atacar Ambição e Decepção?{nl}Hmm... Sim, se eles forem feridos, posso realizar a fusão de ambos em mim.
+QUEST_20171128_006400	Muito bem.{nl}Faça a maldição no Contract Token e traga ele para mim.
+QUEST_20171128_006401	Tenha certeza de retornar em tempo.
+QUEST_20171128_006402	O Contract Token foi propriamente amaldiçoado?
+QUEST_20171128_006403	Pelo menos, posso me fundir aos outros Hauberks.{nl}Você agiu bem, King Hammer.
+QUEST_20171128_006404	Informe imediatamente caso algo aconteça.
+QUEST_20171128_006405	Gerador de Orbe de Registro
+QUEST_20171128_006406	Sua sentença foi reiniciada.{nl}Por favor, entre uma nova sentença.
+QUEST_20171128_006407	Escolha a frase.
+QUEST_20171128_006408	Escolha a frase.{nl}Decepção de Hauberk
+QUEST_20171128_006409	Escolha a frase.{nl}Decepção de Hauberk pegou secretamente
+QUEST_20171128_006410	Escolha a frase.{nl}Decepção de Hauberk pegou secretamente os Monks
+QUEST_20171128_006411	Escolha a frase.{nl}Decepção de Hauberk pegou secretamente os Monks para transformar seus espíritos.
+QUEST_20171128_006412	Escolha a frase.{nl}Modificar
+QUEST_20171128_006413	Escolha a frase.{nl}Modificar o equipamento do monastério
+QUEST_20171128_006414	Escolha a frase.{nl}Modificar o equipamento do monastério e atacar Ambição de Hauberk.
+QUEST_20171128_006415	O que? Decepção pegou os Monks para transformar seus espíritos?{nl}E Suspeição restaurou o equipamento para me atacar?
+QUEST_20171128_006416	Como ousam me trair...!!{nl}Tenho certeza que tentarão me fundir à eles.
+QUEST_20171128_006417	Muito bem, gostaria de ver eles tentarem!
+QUEST_20171128_006418	Preparar. Se eles realmente tem planos para atacar, estarei esperando eles!
+QUEST_20171128_006419	Muito bem, humano.{nl}Agora só preciso chamar Ambição e Suspeição.
+QUEST_20171128_006420	Vá se esconder. Eles irão suspeitar se virem você.
+QUEST_20171128_006421	Você ousa quebrar as máquinas depois de{nl}jurarmos não interferir uns aos outros?!{nl}Sabia que você nos trairia!
+QUEST_20171128_006422	Não foi você que reparou os equipamentos de Flurry para me atacar?
+QUEST_20171128_006423	Não tenho pena de traidores!
+QUEST_20171128_006424	O que você está falando, Suspeição?!{nl}Suas paranóias realmente não têm limites.
+QUEST_20171128_006425	Como explica esse Monk que está com você?{nl}Me responda, Decepção!
+QUEST_20171128_006426	Ele... Ele é...
+QUEST_20171128_006427	Não quero ouvir suas desculpas!{nl}Prepare-se para ser absorvido!
+QUEST_20171128_006428	Humanos!{nl}Iniciem o dispositivo de Agailla Flurry!{nl}AGORA!
+QUEST_20171128_006429	Enfim, poderei absorver você e me tornar eu mesmo, completo.
+QUEST_20171128_006430	Você realmente acha que é o único com planos, Decepção?
+QUEST_20171128_006431	Acha que me deixei ser atacado por ser fraco?{nl}Você pensou, em algum momento, que eu deixaria você me absorver?
+QUEST_20171128_006432	Se sim, você está muito errado.{nl}Presumi que você iria me trair, então fiz meus aliados encontrarem o Contract Token.{nl}Eu amaldiçoei ele para que, quem for que usasse,{nl}sofresse uma dor agonizante igual a própria morte.
+QUEST_20171128_006433	E, se você não percebeu... acabou de usa-lo.
+QUEST_20171128_006434	Você pode achar que está morrendo.{nl}Mas não tema. A dor vai sumir depois que eu realizar a fusão.
+QUEST_20171128_006435	Chegou a hora de terminar o contrato{nl}e alcançar a minha verdadeira ambição!!
+QUEST_20171128_006436	Aparição de Agailla Flurry
+QUEST_20171128_006437	Você acha mesmo que honrou nosso contrato, Hauberk?{nl}Você já violou muitas cláusulas.
+QUEST_20171128_006438	Você concordou em não fazer mal a nenhum humano,{nl}além não modificar, de nenhuma forma, os aparelhos e o Contract Token.{nl}São tantas as cláusulas violadas que{nl}não consigo nem mencionar todas elas.
+QUEST_20171128_006439	Mesmo assim, cumpri pessoalmente cada uma das cláusulas.{nl}Não tenho razão nenhuma para não confrontar mais você.
+QUEST_20171128_006440	Para tanto, eu devo estar ao lado deste Revelador, contra você.
+QUEST_20171128_006441	Inteligente, mas não o suficiente.{nl}Você e este Revelador não são páreos para mim!
+QUEST_20171128_006442	Priest Indrea
+QUEST_20171128_006443	Meu nome é Indrea. Eu sirvo à Medeina, a Deusa de todas as florestas.{nl}Estava procurando por pistas depois que Ela desapareceu,{nl}quando ouvi rumores de vozes em Teresh Forest.{nl}Então vim investigar se teriam relação com a Deusa Medeina.
+QUEST_20171128_006444	Sério? Você ouviu vozes vindas de uma árvore?{nl}Pode me dizer onde está esta árvore?
+QUEST_20171128_006445	Ouvi rumores de árvores murmurantes, mas um canto? Primeira vez.{nl}Preciso investigar a letra do canto.
+QUEST_20171128_006446	Estou bem.{nl}Tudo certo, viajante?
+QUEST_20171128_006447	Vi três pilares de luzes, com diferentes cores, em Tacasz Stream.{nl}Deve haver mais alguma coisa por lá.
+QUEST_20171128_006448	Pode ir na frente e investigar primeiro.
+QUEST_20171128_006449	Muitos dizem que o mundo está desabando.{nl}Mas eu ainda tenho fé.
+QUEST_20171128_006450	Talvez precisamos nos unir mais agora,{nl}mas sei que as Deusas virão nos salvar um dia.
+QUEST_20171128_006451	Pelo que pude ver, precisamos de uma peça adicional.
+QUEST_20171128_006452	Aqui diz "Venha, pegue minha mão. Entrego metade do meu coração."{nl}Dizer isso perto de borboletas talvez ative alguma coisa.
+QUEST_20171128_006453	Pilar Branco
+QUEST_20171128_006454	O pilar é branco.{nl}O interior está oco e tem espaço para uma maçã.
+QUEST_20171128_006455	Pilar Verde
+QUEST_20171128_006456	O pilar é verde.{nl}O interior está oco e tem espaço para uma maçã.
+QUEST_20171128_006457	Pilar Azul
+QUEST_20171128_006458	O pilar é azul.{nl}O interior está oco e tem espaço para uma maçã.
+QUEST_20171128_006459	Os soldados de Hauberk parecem já saber que a barreira de defesa caiu.
+QUEST_20171128_006460	Muito bem.{nl}Muito bem, meu servente.
+QUEST_20171128_006461	Parece que você não sabe de nada ainda.{nl}Permita-me, Decepção, explicar à sua covardia o que houve.
+QUEST_20171128_006462	Agailla Flurry concordou em me garantir poder, com a condição de permitir{nl}ela entrar na Fantasy Library. Fiz como ela pediu, mas quando foi a hora{nl}de receber meu poder, tive meu espírito destruído por Helgasercle.
+QUEST_20171128_006463	Ela fez isso para que o contrato pudesse ser completado somente{nl}se as três partes de espírito fossem liberadas de seus selos.{nl}Após sermos liberados, Ambição de Hauberk, Suspeição de Hauberk{nl}e eu tentamos restaurar nosso poder nas nossas maneiras.
+QUEST_20171128_006464	Os outros dois Hauberks foram burros, só destruíram equipamentos,{nl}alteraram espíritos humanos... Decidi ser mais esperto que eles.
+QUEST_20171128_006465	Planejei usar um humano conhecedor do monastério em meu benefício...{nl}Encontrei um Monk com dor e sofrendo, que hipnotizei para usar os dispositivos.
+QUEST_20171128_006466	Estava usando ele para reparar os equipamentos quando você apareceu...{nl}Com a ajuda dele, ativei as barreiras para bloquear a entrada de inimigos.
+QUEST_20171128_006467	Depois disso, tudo que restou foi modificar o equipamento e restaurar meu poder.{nl}Você até trouxe itens que Agailla Flurry tinha me prometido.
+QUEST_20171128_006468	Gostaria de poder pagar por este favor{nl}mas acho que minha recompensa não irá ajudar, no seu caso.
+QUEST_20171128_006469	Enfim, acordo em poupar a sua vida.{nl}Considere sua assistência à mim uma honra, e desapareça da minha frente.
+QUEST_20171128_006470	Terminal de Controle
+QUEST_20171128_006471	Aplicar configurações irá reiniciar todos os dispositivos do templo.{nl}Tem certeza que deseja aplicar as configurações?
+QUEST_20171128_006472	{@ST41}{S20}Ano 603 do Reino, Ano 3 de Cosomel{/}{/}{nl}Flurry declara não ter intenções de preparar novos discípulos. Dessa forma, Mage Tower será livremente gerenciada e protegida por Wizards voluntários após sua morte.{nl}{nl}
+QUEST_20171128_006473	{@ST41}{S20}Até ano 610 do Reino, Ano 10 de Cosomel{/}{/}{nl}Helgasercle continua a tentar conquistar Mage Tower ilegalmente. A organização da torre continua a mesma do passado.{nl}{nl}
+QUEST_20171128_006474	{@ST41}{S20}Anos 611-619 do Reino, Anos 11-19 de Cosomel{/}{/}{nl}Flurry estabelece um plano secreto e inicia os preparos: assina acordo com a Aliança Kedoran, investiga profissões mágicas, recruta voluntários e contrata experientes em diversos campos, etc.{nl}{nl}
+QUEST_20171128_006475	{@ST41}{S20}Ano 620 do Reino, Ano 20 de Cosomel{/}{/}{nl}A construção de Narvas Temple é finalizada em 1 ano após uma década de preparos. O templo é selado para evitar ser descoberto, principalmente por Helgasercle.{nl}{nl}
+QUEST_20171128_006476	{@ST41}{S20}Ano 621 do Reino, Ano 21 de Cosomel{/}{/}{nl}Flurry seleciona Jane como discípula principal. Incapaz de realizar magias naturalmente, Jane aprende através de teoria. Isto faz com que Helgasercle não a ameace.{nl}{nl}
+QUEST_20171128_006477	{@ST41}{S20}Até ano 631 do Reino, Ano 7 de Gliehel{/}{/}{nl}Flurry continua a pesquisar e planejar em segredo.{nl}{nl}
+QUEST_20171128_006478	{@ST41}{S20}Ano 631 do Reino, Ano 7 de Gliehel{/}{/}{nl}Flurry assina contrato com Demon Lord Hauberk como parte do plano.{nl}{nl}{@ST41}{S20}Ano 631 do Reino, Ano 8 de Gliehel{/}{/}{nl}Iniciado o caso Fantasy Library{nl}{nl}{@ST41}{S20}Ano 640 do Reino, Ano 16 Gliehel{/}{/}{nl}Agailla Flurry morre aos 150 anos de idade.
+QUEST_20171128_006479	Se nem o Monk sabe sobre isso... não seria mentira?
+QUEST_20171128_006480	Nunca soube que essa função existia...{nl}Como descobriu isso?
+QUEST_20171128_006481	Quadro do Matador
+QUEST_20171128_006482	Matador procura por ajuda.{nl}Se movimentos ágeis são sua área, venha até Escanciu Village.
 QUEST_20171128_006483	Linas
-QUEST_20171128_006484	I don't think the Matador Master went anywhere too far from here.
-QUEST_20171128_006485	I'm not sure where the Matador Master went, but I believe she was headed somewhere in the region of Fediman.
-QUEST_20171128_006486	The Matador Master went to Fedimian.
-QUEST_20171128_006487	The Matador Master said she was going somewhere north of Escanciu Village.
-QUEST_20171128_006488	I did hear that the Matador Master was headed somewhere, although I can't remember exactly where she was going.{nl}I don't think she was leaving the region of Fedimian.
-QUEST_20171128_006489	She had something to do in Fedimian.
+QUEST_20171128_006484	Não acho que a Mestre Matador foi muito longe daqui.
+QUEST_20171128_006485	Não sei onde a Mestre Matador foi, mas acredito que foi para{nl}algum lugar na região de Fedimian.
+QUEST_20171128_006486	A Mestre Matador foi para Fedimian.
+QUEST_20171128_006487	A Mestre Matador disse que iria para norte de Escanciu Village.
+QUEST_20171128_006488	Ouvi que a Mestre Matador ia para outro lugar, porém não lembro onde, exatamente.{nl}Não acho que ela estivesse saindo da região de Fedimian.
+QUEST_20171128_006489	Ela tinha algo a fazer em Fedimian.
 QUEST_20171128_006490	Litis
-QUEST_20171128_006491	I believe she was headed north.
-QUEST_20171128_006492	I think the Matador Master was going somewhere in the region of Fedimian.
-QUEST_20171128_006493	The Matador Master went to Fedimian to help the people there.
-QUEST_20171128_006494	When the Matador Master was here we didn't have to worry about the monsters...{nl}Now that she's gone, I don't know what we'll do.
-QUEST_20171128_006495	It was easy going out to gather wood when the Matador Master was here.{nl}Without her around, things get a little more difficult.
-QUEST_20171128_006496	I felt a lot safer when the Matador Master was around.{nl}Ever since she left, the people at the village have been so worried.
-QUEST_20171128_006497	Matador Master
-QUEST_20171128_006498	The moves of a Matador can be bold and flashy, but they aren't without risks.{nl}Arrogance and low concentration are two things you have to avoid as a Matador.
-QUEST_20171128_006499	So you saw my notice? Hm...{nl}I used to accept anyone as my assistance, but people had a hard time adapting to the techniques. They can get kind of difficult, not to mention dangerous.
-QUEST_20171128_006500	Then I heard there was a Tetriox roaming around Fedimian, so I came thinking I could get rid of it and teach the soldiers some of my techniques, maybe look for an assistance here.
+QUEST_20171128_006491	Acredito que ela foi para o norte.
+QUEST_20171128_006492	Acredito que a Mestre Matador foi para algum lugar na região de Fedimian.
+QUEST_20171128_006493	A Mestre Matador foi para Fedimian ajudar as pessoas de lá.
+QUEST_20171128_006494	Quando a Mestre Matador estava aqui, não nos preocupávamos com os montros...{nl}Agora que ela partiu, não sei o que iremos fazer.
+QUEST_20171128_006495	Era fácil coletar madeira quando a Mestre Matador estava aqui.{nl}Sem ela aqui, as coisas ficaram um pouco mais difíceis.
+QUEST_20171128_006496	Havia mais segurança com a Mestre Matador por aqui.{nl}Desde que ela partiu, as pessoas na vila andam preocupadas.
+QUEST_20171128_006497	Mestre Matador
+QUEST_20171128_006498	Os movimentos de um matador podem ser ousados e notáveis, mas não sem riscos.{nl}Um Matador deve evitar a arrogância e a falta de concentração.
+QUEST_20171128_006499	Então, você viu meu quadro de avisos? Hmm...{nl}Costumava aceitar vários aprendizes, mas todos problemas para adaptar as técnicas.{nl}Elas podem se tornar bem difíceis, além de perigosas.
+QUEST_20171128_006500	Então, ouvi sobre um Tetraox próximo de Fedimian.{nl}Resolvi confronta-lo e ensinar aos soldados algumas técnicas,{nl}e também procurar algum aprendiz aqui.
 QUEST_20171128_006501	I figured someone with a military background would do better than a regular civilian.
 QUEST_20171128_006502	I still need some tools to train the soldiers with, though.
 QUEST_20171128_006503	I asked the merchants around here, but the tools haven't arrived yet.
-QUEST_20171128_006504	Are you saying you want to help? I have nothing against that, of course.{nl}Well, first, the accessory merchant in Fedimian is going to get me something that looks like Tetriox horns.
+QUEST_20171128_006504	Are you saying you want to help? I have nothing against that, of course.{nl}Well, first, the accessory merchant in Fedimian is going to get me something that looks like Tetraox horns.
 QUEST_20171128_006505	The swords, spears and harpoons are being made by the blacksmith in Orsha.{nl}I also need some leather for the Companions to wear, so I asked the Companion Trader in Orsha for that.
 QUEST_20171128_006506	Finally, the merchant in Klaipeda is making the cape we need to lure the beast.
 QUEST_20171128_006507	It'd be great if you could give them a little reminder.{nl}If things work out, I'll make sure to tell you a thing or two about becoming a Matador.
-QUEST_20171128_006508	You came for the?�horns the Matador Master requested?{nl}Well, outside of Fedimian there's nothing but monsters.
+QUEST_20171128_006508	You came for the?�horns the Mestre Matador requested?{nl}Well, outside of Fedimian there's nothing but monsters.
 QUEST_20171128_006509	Not only that, for the kind that she wants I need actual Blue Hohen Gulak horns.{nl}It's almost impossible to find a whole Blue Hohen Gulak horn these days.{nl}I don't know I'm supposed to finish this.
 QUEST_20171128_006510	These are... Blue Hohen Gulak horns! How did you get these?
-QUEST_20171128_006511	You must really be something special if you defeated a monster just for this.{nl}Thanks to your help I can finally get on with the Matador Master's request.
+QUEST_20171128_006511	You must really be something special if you defeated a monster just for this.{nl}Thanks to your help I can finally get on with the Mestre Matador's request.
 QUEST_20171128_006512	I'll finish the horn shape the Master wants and deliver it to her myself.
 QUEST_20171128_006513	I need to find some Blue Hohen Gulak horns.
-QUEST_20171128_006514	So you're here to check on the weapons I'm making for the Matador Master.{nl}Well... to make the weapons I need an ore that only exists in Nevellet Quarry.{nl}But going there is way more dangerous than I would like.
+QUEST_20171128_006514	So you're here to check on the weapons I'm making for the Mestre Matador.{nl}Well... to make the weapons I need an ore that only exists in Nevellet Quarry.{nl}But going there is way more dangerous than I would like.
 QUEST_20171128_006515	These days, not many people are willing to risk their lives going to Nevellet Quarry.
 QUEST_20171128_006516	This is iron ore.{nl}Did you get it yourself?
-QUEST_20171128_006517	I can't believe you got this for me.{nl}Now I can use the ore to make the weapons for the Matador Master.{nl}I'll deliver the weapons to her myself when they're finished.
+QUEST_20171128_006517	I can't believe you got this for me.{nl}Now I can use the ore to make the weapons for the Mestre Matador.{nl}I'll deliver the weapons to her myself when they're finished.
 QUEST_20171128_006518	I need to go find that iron ore.
 QUEST_20171128_006519	This should be enough Blue Hohen Gulak horns.
-QUEST_20171128_006520	So the Matador Master sent you here to bother me, did she?{nl}Well, I would love to send her the Companion armor she ordered, but I'm out of stock now.
+QUEST_20171128_006520	So the Mestre Matador sent you here to bother me, did she?{nl}Well, I would love to send her the Companion armor she ordered, but I'm out of stock now.
 QUEST_20171128_006521	There was a merchant called Rimantas who I used to buy them from, but we lost contact after Medzio Diena.
 QUEST_20171128_006522	Last time I heard about him, he was on his way to Orsha.{nl}I don't know if he stopped by Lemprasa Pond but never arrived, or if he didn't come at all, but I couldn't find him again.
 QUEST_20171128_006523	I need to find Rimantas.
 QUEST_20171128_006524	Rimantas
 QUEST_20171128_006525	I saw my village destroyed by monsters and left to look for a refuge.{nl}I was desperate, but thanks to the Orsha migration orders I gained some hope.
-QUEST_20171128_006526	It sounds like the Matador Master is hoping for too much.{nl}In my situation, what does she expect?
+QUEST_20171128_006526	It sounds like the Mestre Matador is hoping for too much.{nl}In my situation, what does she expect?
 QUEST_20171128_006527	{nl}I barely have enough tools to make new Companion equipment, and I have no materials at all.
-QUEST_20171128_006528	I would need to find some materials, but to make something fit for the Matador Master, they need to be of excellent quality.{nl}Unfortunately, no one these days sells that kind of materials, they're too rare.
+QUEST_20171128_006528	I would need to find some materials, but to make something fit for the Mestre Matador, they need to be of excellent quality.{nl}Unfortunately, no one these days sells that kind of materials, they're too rare.
 QUEST_20171128_006529	Do you really mean it?{nl}
 QUEST_20171128_006530	To make the Companion armor, I need leather that's light but strong enough not to rip or scratch when attacked by monsters.
 QUEST_20171128_006531	I need some Cockatrice Leather, Beetow Feelers and Minivern Skin in good condition.{nl}The problem is, since these are monster materials, they're not sold on the market.
 QUEST_20171128_006532	Let me give you a note with all the materials.
-QUEST_20171128_006533	You picked all these quality materials in such a short time?{nl}I can make great Companion armor for the Matador Master with these.
+QUEST_20171128_006533	You picked all these quality materials in such a short time?{nl}I can make great Companion armor for the Mestre Matador with these.
 QUEST_20171128_006534	I'll make sure to have the Companion equipment delivered to Toras as soon as I'm finished.
-QUEST_20171128_006535	I'm going to need more materials.{nl}This won't be enough for the amount of armor the Matador Master requested.
+QUEST_20171128_006535	I'm going to need more materials.{nl}This won't be enough for the amount of armor the Mestre Matador requested.
 QUEST_20171128_006536	Rimantas' Note
 QUEST_20171128_006537	- 50 pieces of good quality Cockatrice leather (from the Cockatrice monsters in Fedimian Suburbs){nl}- 160 sturdy Beetow feelers (from the Beetow monsters in the Klaipeda region). 
 QUEST_20171128_006538	- 75 pieces of strong Minivern skin (from the Miniverns found inside the Mage Tower).
 QUEST_20171128_006539	My village turned to ruins when the monsters got there.{nl}I managed to escape to the city, but now I don't really know what to do.
 QUEST_20171128_006540	I didn't want to stop working, so I've been doing any sowing job that pops up.
-QUEST_20171128_006541	Do you mean the Matador Master's request?{nl}Yes, I was still a little shaken after I escaped.
+QUEST_20171128_006541	Do you mean the Mestre Matador's request?{nl}Yes, I was still a little shaken after I escaped.
 QUEST_20171128_006542	I was just starting to get settled when the Master came and asked me to sow the capes for her.{nl}At first I didn't want to take the order, because I have no way of getting the silk cocoons I need to make the capes.
-QUEST_20171128_006543	But the Matador Master was so determined on getting her capes, in the end I couldn't refuse her.
+QUEST_20171128_006543	But the Mestre Matador was so determined on getting her capes, in the end I couldn't refuse her.
 QUEST_20171128_006544	To get the cocoons I would need to go all the way to the Emmet Forest, but these days it's just too dangerous to go outside.
 QUEST_20171128_006545	Let's get some cocoons from Emmet Forest.
-QUEST_20171128_006546	You brought the cocoons!{nl}I'll start working on the Matador Master's capes right away. When they're done, I'll deliver them to her myself.
+QUEST_20171128_006546	You brought the cocoons!{nl}I'll start working on the Mestre Matador's capes right away. When they're done, I'll deliver them to her myself.
 QUEST_20171128_006547	The merchants told me you helped them get the materials for my requests.{nl}As promised, it's my turn to help you get into the Matador life.
 QUEST_20171128_006548	Just come see me any time you want to learn.
 QUEST_20171128_006549	I'll make sure to have the Companion equipment delivered to Toras as soon as I'm finished.
@@ -6564,7 +6564,7 @@ QUEST_20171128_006588	The Lightning Bullets are for the Blue Lepusbunny monsters
 QUEST_20171128_006589	Get the recipes for the special bullets from Manager Rota at the Mercenary Post.{nl}For the Frost, Fire and Lightning bullets you need Demon Magic Dust.
 QUEST_20171128_006590	{nl}There's a magic aggregator installed at the Shaton Reservoir that gives out a reddish light.{nl}Get rid of some monsters around it when the light is on and add their flesh.
 QUEST_20171128_006591	You're also going to need some Electric Stones from Grynas Trails, but it's hard to tell them apart from normal stones with the naked eye.{nl}You have to use the special latern I gave you, which makes them glow when you shine it on them.
-QUEST_20171128_006592	Revelator, the one you help... is deceiving...{nl}If you follow the monk's words, Deception Hauberk will...
+QUEST_20171128_006592	Revelator, the one you help... is deceiving...{nl}If you follow the monk's words, Decepção de Hauberk will...
 QUEST_20171128_006593	When you see this, go to Tiesa Hall...{nl}... Enter... completion of... Narvas Temple...
 QUEST_20171128_006594	You and... the monk... helping him.{nl}If you follow him, you are... Hauberk's side.{nl}Revelator... you must escape their wicked trap... the enemy...
 QUEST_20171128_006595	... The Apparition Generator... {nl}... Enter... Flurry Chronicles...
@@ -6655,7 +6655,7 @@ QUEST_20171128_006679	Demon Lord Solcomm
 QUEST_20171128_006680	I had been observing you since the Crystal Stone broke, but to see you use that human...{nl}You already took what was inside the Crystal Stone. What is it that you want from me?
 QUEST_20171128_006681	We finally meet. I'd say your failed attacks on the Astral Tower were bad enough of an offense, don't you think?{nl}Consider yourself lucky I'm not going to talk about all of your pathetic mistakes in front of the human.
 QUEST_20171128_006682	Do your duty as a subject of Giltine and give up the contents of the Crystal Stone.{nl}It's the least you can do to save whatever's left of your dignity. 
-QUEST_20171128_006683	I need the Stone to attack the Astral Tower. I will not give it to anyone without direct orders from Vaiga.{nl}And I will not allow you to doubt me for even one moment. Not when I sacrificed everything I have for this attack!
+QUEST_20171128_006683	I need the Stone to attack the Astral Tower. I will not give it to anyone without direct orders from Baiga.{nl}And I will not allow you to doubt me for even one moment. Not when I sacrificed everything I have for this attack!
 QUEST_20171128_006684	This looks like a good spot to take note of the surroundings.
 QUEST_20171128_006685	Oh, you're better than I though. A bomb like that is enough to destroy it, no doubt.{nl}Alright, go and destroy the Crystal Stone.
 QUEST_20171128_006686	Think carefully before you receive this, as it can only be received once per team.{nl}Are you sure you want to receive this item?
@@ -6691,8 +6691,8 @@ QUEST_20171128_006715	The device of Lhadar Forest is at the hill between Tjibes 
 QUEST_20171128_006716	Sometimes you will see the device glow with a blue light.{nl}If you activate the device then, all the shadows in the region will appear very clearly.
 QUEST_20171128_006717	The influence these shadows receive plays a much larger role in how they appear compared to other regions.{nl}If you see a shadow, you should continue looking for shadows of the same influence.
 QUEST_20171128_006718	Increase the influence and you will receive the shadow traces you need.{nl}That influence decreases when you capture a shadow of a different influence.
-QUEST_20171128_006719	The Ghibulinas device is at the Kyrba Lot.
-QUEST_20171128_006720	The shadows in Ghibulinas Forest are rather dull, despite what they may look like.{nl}You can easily scare them into dropping the traces you need.{nl}
+QUEST_20171128_006719	The Ziburynas device is at the Kyrba Lot.
+QUEST_20171128_006720	The shadows in Ziburynas Forest are rather dull, despite what they may look like.{nl}You can easily scare them into dropping the traces you need.{nl}
 QUEST_20171128_006721	Oh, but there are some who do enjoy scaring people, and they will try to scare you instead.{nl}Be careful not to fall for their pranks when you're in the region.{nl}
 QUEST_20171128_006722	I understand it sounds a little unorthodox, but they're simply ways to make yourself more familiar with the shadows.{nl}Alright, you're ready to go find the traces now.
 QUEST_20171128_006723	The Namu Temple Ruins device is at the Ratas Corridor Area.
@@ -6871,11 +6871,11 @@ QUEST_20171128_006896	Laima's One Thousand Years Vol. 2
 QUEST_20171128_006897	Giltine stood in the abandoned home of Goddess Laima. A message, clearly directed to her, appeared briefly on the wall before fading back into nothing. Giltine meditated on the words. Unlike humans, she was unable to forget anything her eyes had seen.{nl}Her thoughts turned to words in her mind before she voiced them out, at once enraged and insulted.{nl}[So you left without even bothering to speak to me. You still think you are right, don't you?]{nl}
 QUEST_20171128_006898	She continued. [You knew that we would never agree on this, that I would come find you if everything fell through, so you prepared to abandon this place? The place we call our home?]{nl}Giltine's monologue turned into an angry lament. [You're going to roam with the humans now? You're leaving me, making me the enemy? You're running away from the other goddesses, your sisters, to live like that for who knows how long?]{nl}
 QUEST_20171128_006899	As soon as her words dissipated, Giltine heard a noise coming from behind her.{nl}She turned around to glance at the three demons that had arrived under her command.{nl}On the left stood Kartas; his skin pale and ashy, his deranged eyes glistening.{nl}Knowing him, Giltine believed he might very well be able to chase Laima. Kartas was chaos personified after all, there was no telling what he was capable of. Counting on his tenacious and uncontrolled nature, Giltine knew it was only a matter of time before he could find Her.
-QUEST_20171128_006900	On the other hand, Kartas hunted for pleasure and thoroughly enjoyed wreaking havoc. Laima would not die at the hands of Giltine's subordinate, but his destructive impulses seemed like too much of a risk.{nl}She erased from her mind the thought of entrusting Kartas with the goddess. Instead she turned to Vaiga, her most trustworthy subordinate. Vaiga was discreet, intelligent and powerful, a rare combination among Giltine's followers. Short of a true goddess herself, she knew not to expect perfection from her subordinates. Vaiga, however, would not disappoint her.{nl}Capturing a goddess with foreseeing powers would be no easy task. It could take centuries to find Her. And yet, to an immortal being it was not impossible, and Giltine was willing to bet on Vaiga to produce the right results.{nl}Unfortunately for her, there was a bigger, more urgent task reserved for Vaiga that she could not entrust to anyone else.
-QUEST_20171128_006901	 Conformed, Giltine turned her eyes away from Vaiga and onto her third demon.{nl}[Gesti, I want you to chase Laima. Do what you must to find her. I will not tolerate a failure.]{nl}Upon hearing Giltine's words, Vaiga acquiesced. Kartas clenched his teeth and growled loudly in discontent, gazing intently at his superior. Gesti stepped back on one foot, as if preparing for him to suddenly attack.{nl}Predictably, Kartas seemed fixed on the thought that he would have been chosen for the job if it weren't for Gesti. As someone who did not hesitate to defy Giltine herself, he was remarkably less keen on respecting her other subordinates as fellow demon lords.
+QUEST_20171128_006900	On the other hand, Kartas hunted for pleasure and thoroughly enjoyed wreaking havoc. Laima would not die at the hands of Giltine's subordinate, but his destructive impulses seemed like too much of a risk.{nl}She erased from her mind the thought of entrusting Kartas with the goddess. Instead she turned to Baiga, her most trustworthy subordinate. Baiga was discreet, intelligent and powerful, a rare combination among Giltine's followers. Short of a true goddess herself, she knew not to expect perfection from her subordinates. Baiga, however, would not disappoint her.{nl}Capturing a goddess with foreseeing powers would be no easy task. It could take centuries to find Her. And yet, to an immortal being it was not impossible, and Giltine was willing to bet on Baiga to produce the right results.{nl}Unfortunately for her, there was a bigger, more urgent task reserved for Baiga that she could not entrust to anyone else.
+QUEST_20171128_006901	 Conformed, Giltine turned her eyes away from Baiga and onto her third demon.{nl}[Gesti, I want you to chase Laima. Do what you must to find her. I will not tolerate a failure.]{nl}Upon hearing Giltine's words, Baiga acquiesced. Kartas clenched his teeth and growled loudly in discontent, gazing intently at his superior. Gesti stepped back on one foot, as if preparing for him to suddenly attack.{nl}Predictably, Kartas seemed fixed on the thought that he would have been chosen for the job if it weren't for Gesti. As someone who did not hesitate to defy Giltine herself, he was remarkably less keen on respecting her other subordinates as fellow demon lords.
 QUEST_20171128_006902	Giltine let out a deep sigh and adopted a rigid stance, glancing back at Kartas. A few moments passed before he looked away in defeat. As always, the only way to control Kartas was to overpower him into submission. Other than the goddesses, few were able to do that without collateral damage.{nl}
 QUEST_20171128_006903	Now regretting ever having considered Kartas for the important task of finding Laima, Giltine adjusted her posture to speak again.{nl}[Kartas, you stay away from Gesti. You don't want to know what I'll do with you if I catch you out of line. You go to Gesti only if she asks for your help. Do as she says or you will be punished. I will not hesitate to take you down.]{nl}
-QUEST_20171128_006904	Kartas slowly lowered his head, signaling to Giltine his obedience. No words were directed to Gesti.{nl}If needed, she would call for Kartas or his subordinates. He may not have been as brilliant as Vaiga, but Gesti was no fool either. She would be careful not to assign Kartas too big of a role, or push him to the point of releasing his explosive nature.
+QUEST_20171128_006904	Kartas slowly lowered his head, signaling to Giltine his obedience. No words were directed to Gesti.{nl}If needed, she would call for Kartas or his subordinates. He may not have been as brilliant as Baiga, but Gesti was no fool either. She would be careful not to assign Kartas too big of a role, or push him to the point of releasing his explosive nature.
 QUEST_20171128_006905	 Gesti pondered on what task she could entrust to Kartas. Giltine stepped towards her, as if guessing her thoughts.{nl}[Let us leave, before the goddesses realize we came to find Laima.]{nl}Without further discussion, the four demons walked away from the scene, leaving Laima's home empty once again.
 QUEST_20171128_006906	Laima's One Thousand Years Vol. 3
 QUEST_20171128_006907	Gesti was certain Laima remained unaware of her plot. The goddess, on the other hand, had long predicted her actions, and was now more infuriated than ever with the demon's sheer audacity to follow through with them. Laima felt deceived. She felt as if Gesti was infringing the most basic of rules, even if no such rules existed for the demon. That fact only added to Laima's bitter indignation.
@@ -6905,7 +6905,7 @@ QUEST_20171128_006930	Eminent decided not to respond to Lydia's provocation. In 
 QUEST_20171128_006931	Lydia Schaffen's strategy, however, was not to fight physically.{nl}[Do you really think you'll get what you want now that Ruklys is dead? Have you forgotten that I was given the same divine task? If there was any chance of it getting to your hands, do you think he would have died at mine? Your plan will never work. You can be sure of that. But it's time for me to go now. Do me a favor when you deliver the news to His Majesty. Make sure everyone understands exactly what I did.]
 QUEST_20171128_006932	Lydia Schaffen bowed and slowly walked away. Eminent wasn't too concerned yet. True despair wouldn't come for him until 10 days later.
 QUEST_20171128_006933	Eminent Vol. 3
-QUEST_20171128_006934	Emiment kneeled silently before Gesti. They were on the Fortress of the Land Ruklys had once built. Looking down at Eminent, Gesti spoke with despise.{nl}[You scoured through every body of every miserable human in here for years, and you can't tell me where in this fortress it's hidden?]{nl}Eminent replied in an almost inaudible voice.{nl}[Forgive me.]{nl}In his mind, he wondered for a moment if Vaiga would have understood his situation better than Gesti. She interrupted his train of thought immediately.{nl}[What are you going to do about it? You're a chancellor to those humans now. If the King calls you back to the court, how are you going to keep looking for it? Huh? Look at you. Does it look like you did a good job, playing human like that? What good is it now, if you can't even do you real job?]{nl}
+QUEST_20171128_006934	Emiment kneeled silently before Gesti. They were on the Fortress of the Land Ruklys had once built. Looking down at Eminent, Gesti spoke with despise.{nl}[You scoured through every body of every miserable human in here for years, and you can't tell me where in this fortress it's hidden?]{nl}Eminent replied in an almost inaudible voice.{nl}[Forgive me.]{nl}In his mind, he wondered for a moment if Baiga would have understood his situation better than Gesti. She interrupted his train of thought immediately.{nl}[What are you going to do about it? You're a chancellor to those humans now. If the King calls you back to the court, how are you going to keep looking for it? Huh? Look at you. Does it look like you did a good job, playing human like that? What good is it now, if you can't even do you real job?]{nl}
 QUEST_20171128_006935	Eminent could no longer stand listening to Gesti berate him in silence.{nl}[As chancellor I have authority over many human subordinates, including armies. Even if I return to the capital, I can send soldiers under my orders to continue looking...]
 QUEST_20171128_006936	Angered, Gesti spoke over him.{nl}[And start depending on those filthy humans again? You couldn't find it, but you think they can? What are you even thinking??]{nl}Seeing the ire in Gesti's eyes, Eminent lowered his head. She continued.{nl}[You've been living with them for too long. I want you to stop playing chancellor and focus on your job for once. Just find me the Revelation]{nl}Eminent rushed to answer.{nl}[I remind you that my position would be very useful for keeping humans away while we're searching. I can have the measures taken under my orders, then kill my human character and return to this place immediately to continue the search. Please, allow me to do so.]
 QUEST_20171128_006937	Gesti wasn't overly pleased with Eminent's plan, but she agreed to it.{nl}[You were the first to kill Laima's chosen keeper, I suppose. I'll allow it.]{nl}Hearing Gesti's voice soften, Eminent pushed for a second request.{nl}[I have only one more thing to ask.]{nl}[What is it?]
@@ -6956,8 +6956,8 @@ QUEST_20171128_006981	Ausura tried as she could to appear indifferent while Nebu
 QUEST_20171128_006982	Ausura sighed at Nebulas' relentless suspicion.{nl}[The human in charge of the records lived in the capital before the great disaster. However, I must warn you not to go there. These are Gesti's orders. You must focus on Kalejimas. Do not attempt to investigate other locations or engage with any other humans. The chances of discovering any traces of old documents in the Fallen City are minimal. Your only sure lead now lies in Kalejimas.]
 QUEST_20171128_006983	Nebulas, refusing to let Ausura have the final word, threw at her one last question.{nl}[Your boss won't say anything if I have it my way in Kalejimas, will she?]{nl}Ausura's response was harsh.{nl}[Gesti has no interest in whatever havoc you wreak there, so long as you retrieve the Revelation.]{nl}
 QUEST_20171128_006984	The Story of Solcomm
-QUEST_20171128_006985	[Have you called?]{nl}Demon Lord Solcomm stood in front Gesti, the one who had summoned him. Waiting for her reply, he realized once again the complexity of his situation. Formally, he was a servant of Kartas. His work, however, was largely dedicated to Vaiga. And yet there he was, awaiting orders from Gesti. A devoted Agente for all three of those high-rank demons.
-QUEST_20171128_006986	Solcomm's ordeal began with Vaiga designating him to work for Kartas in order to spy on the rival demon lord. Giltine, their master, had promptly agreed to Vaiga's proposal, thinking a reasonable demon such as Solcomm would do well to prevent Kartas' incontrollable nature from getting out of hand.
+QUEST_20171128_006985	[Have you called?]{nl}Demon Lord Solcomm stood in front Gesti, the one who had summoned him. Waiting for her reply, he realized once again the complexity of his situation. Formally, he was a servant of Kartas. His work, however, was largely dedicated to Baiga. And yet there he was, awaiting orders from Gesti. A devoted Agente for all three of those high-rank demons.
+QUEST_20171128_006986	Solcomm's ordeal began with Baiga designating him to work for Kartas in order to spy on the rival demon lord. Giltine, their master, had promptly agreed to Baiga's proposal, thinking a reasonable demon such as Solcomm would do well to prevent Kartas' incontrollable nature from getting out of hand.
 QUEST_20171128_006987	Some centuries later, Gesti was tasked with chasing Laima, and Giltine allowed her to request the help of other demon lord subordinates, Solcomm included.{nl}The decision did nothing to improve Solcomm's situation. His master used the constant "support missions" and "dispatched operations" as an excuse to achieve what was essentially discarding his least favorite henchmen. Not only that, as the most normal and rational of the lower-ranked demon lords, Solcomm was the obvious choice for Gesti.
 QUEST_20171128_006988	A stubborn, deranged character like Warpulis would be of no help to the task at hand.
 QUEST_20171128_006989	Having Nebulas around was more than enough. In the end, it was up to Solcomm to accept the new role under Gesti, now his third master.{nl}In the centuries to come, answering to three masters was bound to do more harm than good, he thought. It lowered the chances of any of them truly supporting him.
@@ -6966,7 +6966,7 @@ QUEST_20171128_006991	[Yes, I've heard of her. She is exceptionally well-known i
 QUEST_20171128_006992	The Beholder thinks Tesla has no Revelation. But Lydia Schaffen is different. This woman is different, I'm telling you.]{nl}Solcomm interceded before Gesti's explanation could get any longer.{nl}[She is different, indeed. She defeated six demon lords in the past 27 years. Completely unheard of for a human. And her arrows! There's not a demon's heart that- ahem, I apologize.]
 QUEST_20171128_006993	His words were momentarily cut off by Gesti's?�piercing look, but soon he continued.{nl}[What I mean is that other humans have absolute faith in her arrows.]{nl}[Yes, they have every reason to. That's the problem.]
 QUEST_20171128_006994	Gesti's incredibly rare compliment to a human's power astonished Solcomm. He took the chance to add, [I'm not sure if you're aware, but there is an even greater problem. All the demons she is known for defeating were victims of ingenious tricks. Schaffen is as intelligent as she is talented, and she is extremely resourceful.]{nl}[That's why I called you here. Giltine thinks you're clever enough not to fall for a trap.]
-QUEST_20171128_006995	[What do you mean?]{nl}[Lately that idiot Ghibulinas thought he could beat brain with brawn and went after Lydia. Ended up crossed by an arrow. Apparently she even got hold of an essence with his magic in it. That's the rumor we heard from his Pawndel minions; the other lords don't know about it yet. He wasn't even assigned to her, who knows why he went and got himself killed for nothing.]
+QUEST_20171128_006995	[What do you mean?]{nl}[Lately that idiot Ziburynas thought he could beat brain with brawn and went after Lydia. Ended up crossed by an arrow. Apparently she even got hold of an essence with his magic in it. That's the rumor we heard from his Pawndel minions; the other lords don't know about it yet. He wasn't even assigned to her, who knows why he went and got himself killed for nothing.]
 QUEST_20171128_006996	[I'm sorry to hear that.]{nl}[If she kills you too, we'll have no one left to go to for this.]{nl}[Pardon? I- What is that you mean by...?]{nl}[It's your job now to get the Revelation from Lydia Schaffen. Your mission is in a place the humans call the Star something Lake. She is busy there building some kind of tower.]{nl}Solcomm knew this was not an order he was allowed to refuse, and so he signaled to Gesti his obedience. With that began the history of his legendary defeat.
 QUEST_20171128_006997	Record of Solcomm's Attacks on the Astral Tower 1
 QUEST_20171128_006998	If the tower is completed, attacking by force is useless, Solcomm thought.{nl}The cold brawl between him and Schaffenstar was beginning to warm up again. It all started when Solcomm was in the process of gathering his demon henchmen. Mobilizing a large group of demons in the human realm was no easy task, especially when it involved staying under the radar of the goddesses.
@@ -7035,7 +7035,7 @@ QUEST_20171128_007060	Despite all this, his army finally reached the tower's ent
 QUEST_20171128_007061	 Of course, streams of boiling water, stones, arrows, fire, and magic started pouring over the demons' heads when they got close enough. Most of the flying demons were hit by arrows soon after the battle began, and they fell on parts of the lake that weren't filled.{nl}Although it seemed like Solcomm was fighting a losing battle, it was still a battle.
 QUEST_20171128_007062	Solcomm was ready to fight to his death, no matter the outcome. All of his demons were already on the lake, and Solcomm himself charged in front of his minions.{nl}Despite popular belief, there is no such thing as an impregnable castle.{nl}Even if all the siege attempts had failed, the defenders are bound to run out of resources without help from allies to attack the surrounding army. Sturdy weaponry and catapults are only there to buy enough time for that to happen. Whether you were on the attacking side, or the defending side, the side who is able to hold out wins.
 QUEST_20171128_007063	Knowing this, Solcomm kept encouraging his demons.{nl}But then, when he looked over his head, he saw Lydia Schaffen herself, aiming an arrow at his head.{nl}It almost looked as if she was waiting for Solcomm to see her aiming at him.
-QUEST_20171128_007064	At that moment, Solcomm immediately recognized the weapon she was holding. It was the bow that killed the Demon Lord Ghibulinas.{nl}A single arrow would be enough to kill Solcomm.{nl}Solcomm was well aware that she would be able to hit him with her arrow if he charged in front.{nl}Despite this, he had to do this to silence the resentment from his minions and superiors.
+QUEST_20171128_007064	At that moment, Solcomm immediately recognized the weapon she was holding. It was the bow that killed the Demon Lord Ziburynas.{nl}A single arrow would be enough to kill Solcomm.{nl}Solcomm was well aware that she would be able to hit him with her arrow if he charged in front.{nl}Despite this, he had to do this to silence the resentment from his minions and superiors.
 QUEST_20171128_007065	He could withstand the scolding from Gesti, but if she sent him back to Kartas, there would be no telling what he would do to Solcomm as punishment.{nl}Being tortured by Kartas was much worse than being killed by Lydia's arrows.
 QUEST_20171128_007066	However, her arrow never came. Instead, she withdrew her arrow and said this: [Fools! You are standing over stones that are controlled with magic.]{nl}Her words could be clearly heard by Solcomm who was still quite far away.{nl}However, he did not understand the meaning behind her words. He was about to find out.
 QUEST_20171128_007067	At that moment, the stones that Solcomm's army was standing on started trembling, and soon after, they started to sink below the lake.{nl}Even demons who generally remain calm in times of chaos started screaming.{nl}Water started pouring over the stones and burned every demon that was on them.{nl}Solcomm couldn't do anything but watch his minions burn and melt in water.{nl}It was then Solcomm finally realized that Lydia was waiting for his entire army to move on to the lake.{nl}The distance his army had to run would take days.{nl}Even his flying minions had to avoid rains of arrows to retreat.
@@ -7047,7 +7047,7 @@ QUEST_20171128_007072	Solcomm's siege on Astral Tower 7
 QUEST_20171128_007073	In the end, the demons failed in surrounding the tower and making humans inside to starve to death.{nl}Lydia Schaffen didn't even have to ask for help. After people found out that she was being attacked by the demons, countless men and women took up arms and went to the lake. Even the Exército Real was deployed due to public demand.
 QUEST_20171128_007074	Since Solcomm didn't want to fight to the death, he retreated his demons and minions, and went into hiding.{nl}After this incident, it became clear that large-scale sieges like this won't be viable unless the humans' unity was broken and their kingdom fell into chaos.{nl}This surely wasn't going to happen anytime soon, and Solcomm wasn't in a hurry.{nl}Although F'vetta kept trying, assembling demons for attacks was becoming more difficult with each passing day.
 QUEST_20171128_007075	Then, Solcomm decided to use humans' one weakness: their mortality.{nl}He decided to simply wait for Lydia Schaffen to grow old and die.{nl}Solcomm was looked down upon by his minions due to this so-called plan, but he was running out of options.{nl}However, he also worked behind the scenes to prevent anyone from becoming Lydia Schaffen's successor or joining Shaffenstar.
-QUEST_20171128_007076	Sadly, his schemes and tricks were all in vain.{nl}Schaffen's legacies and stories were heard all around the kingdom.{nl}The story of her being in disguise and punishing a tyrannical lord by hitting an apple on the head of a farmer's son,{nl}her forest adventures with Jon Himil (who was curiously considered small, despite his huge size) and their group of righteous outlaws during their days as members of Shaffenstar, the tale of her outsmarting Rumpelstiltskin in a bet, and the legend of her killing the demon king Ghibulinas spread far and wide. After hearing of her exploits, countless people came to Shaffenstar to join them.
+QUEST_20171128_007076	Sadly, his schemes and tricks were all in vain.{nl}Schaffen's legacies and stories were heard all around the kingdom.{nl}The story of her being in disguise and punishing a tyrannical lord by hitting an apple on the head of a farmer's son,{nl}her forest adventures with Jon Himil (who was curiously considered small, despite his huge size) and their group of righteous outlaws during their days as members of Shaffenstar, the tale of her outsmarting Rumpelstiltskin in a bet, and the legend of her killing the demon king Ziburynas spread far and wide. After hearing of her exploits, countless people came to Shaffenstar to join them.
 QUEST_20171128_007077	However, with enough patience, the chance to infiltrate the tower could come. Even if it would take centuries.{nl}Solcomm had the necessary patience, and was aware of humans' nature of forgetting their initial stance over time.{nl}What he didn't know, was that his minions weren't as patient as him.
 QUEST_20171128_007078	A Silver Fish is needed to make a rubbing.{nl}Will you make a rubbing?
 QUEST_20171128_007079	Wow! You caught an even bigger fish than last time!
@@ -7085,13 +7085,13 @@ QUEST_20180108_007140	Select one item to receive.
 QUEST_20180108_007141	Your team level is too low.
 QUEST_20180108_007142	Event item received.
 QUEST_20180108_007143	This prize can only be received on Saturdays and Sundays (server time).
-QUEST_20180122_007144	Then I heard there was a Tetriox roaming around Fedimian, so I came thinking I could get rid of it and teach the soldiers some of my techniques, maybe look for an assistant here.
+QUEST_20180122_007144	Then I heard there was a Tetraox roaming around Fedimian, so I came thinking I could get rid of it and teach the soldiers some of my techniques, maybe look for an assistant here.
 QUEST_20180122_007145	I need some tools to teach the soldiers with so I ordered some things from a few merchants, but the orders are taking a while.
 QUEST_20180122_007146	Finally, Rima in Klaipeda is making the cape we need to lure the beast.
 QUEST_20180122_007147	Not only that, for the kind that she wants I need actual Blue Hohen Gulak horns from Kadumel Cliff.
 QUEST_20180122_007148	In pristine condition, too.
 QUEST_20180122_007149	It's almost impossible to find a whole Blue Hohen Gulak horn these days.{nl}I don't know I'm supposed to finish this.
-QUEST_20180122_007150	So you're here to check on the weapons I'm making for the Matador Master.{nl}Well... to make the weapons I need an ore that only exists in Nevellet Quarry.{nl}But going there is way more dangerous than I would like.
+QUEST_20180122_007150	So you're here to check on the weapons I'm making for the Mestre Matador.{nl}Well... to make the weapons I need an ore that only exists in Nevellet Quarry.{nl}But going there is way more dangerous than I would like.
 QUEST_20180122_007151	Bring me 10 pieces of Cockatrice Leather in good condition. The monsters are usually around the Fedimian Suburbs.
 QUEST_20180122_007152	From Veja Ravine, get me 12 sturdy Beetow Feelers.
 QUEST_20180122_007153	I also need 15 pieces of strong Minivern Skin, which you can get from the Miniverns in the Mage Tower 4F.
@@ -7126,7 +7126,7 @@ QUEST_20180122_007181	The shadows of Khonot Forest will run away if you approach
 QUEST_20180122_007182	After some time you will return to your original appearance.{nl}Once transformed into a shadow, quickly approach other shadows and press the Space key to catch them and increase your influence.
 QUEST_20180122_007183	Choose one of the three influences of Lhadar Forest shadows and attack.{nl}After you attack and increase your own influence, make sure to only go after shadows of that same influence.{nl}
 QUEST_20180122_007184	Keep in mind that attacking shadows of a different influence will reduce your own.
-QUEST_20180122_007185	Approach the shadows of Ghibulinas Forest and press the Space key to scare them, increasing your influence.{nl}
+QUEST_20180122_007185	Approach the shadows of Ziburynas Forest and press the Space key to scare them, increasing your influence.{nl}
 QUEST_20180122_007186	Some shadows may be hidden and waiting to scare you.{nl}If you fall victim to their pranks, your own influence decreases.
 QUEST_20180122_007187	Catch the shadows at the Namu Temple Ruins to increase your influence.{nl}
 QUEST_20180122_007188	Some shadows might try and chase you instead.{nl}Your influence decreases if you are caught by them, so be careful. 
@@ -7434,7 +7434,7 @@ QUEST_20180320_007528	Retiarius, and similar gladiators like the Murmillo, gain 
 QUEST_20180320_007529	As a gladiator I have witnessed this many times.{nl}And, rather than live by the cries of the crowd, I have survived by my own determination and have ended here.	일생을 검투사로서 살면서 그런 모습을 많이 봤어요.{nl}그래서 전 관중들의 열렬한 지지보다는 살아 남겠다는 일념 하나로 지금의 이 자리까지 왔습니다.				레티아리이 마스터	
 QUEST_20180320_007530	After Medzio Diena, all the arenas were closed down.{nl}You could say gladiators were no longer needed.	신수의 날이 오고 나서는 검투장은 모두 폐쇄됐어요.{nl}더 이상 검투사 일은 하지 않아도 될 줄 알았죠.				레티아리이 마스터	
 QUEST_20180320_007531	But these days, you never know when the monsters or the demons are going to attack. The battle we fight now is worse than anything we ever faced in the arena.	하지만 언제 몬스터와 마족에게 공격을 받을 줄 모르는 시기, 지금 저는 검투장보다 더 한 생존 싸움을 하고 있네요.				레티아리이 마스터	
-QUEST_20180320_007532	Earth Tower Solmiki Area (Recommended Lv: 310) {nl}Only you and your party members can enter together.
+QUEST_20180320_007532	Earth Tower - Área Solmiki (Lv Recomendado: 310) - Apenas você e os membros do seu grupo podem entrar juntos.{nl}Tem certeza de que deseja entrar?
 QUEST_20180320_007533	Kupole Grisia	큐폴 그리시아					
 QUEST_20180320_007534	Zsaia!{nl}Oh, you're safe.	즈사이아!{nl}무사했구나.				큐폴 그리시아	
 QUEST_20180320_007535	Kupole Zsaia	큐폴 즈사이아					
@@ -7447,7 +7447,7 @@ QUEST_20180320_007541	We can't run!{nl}We have to face them!	우린 절대 도�
 QUEST_20180320_007542	I'm not going to try and run only to have them catch me!{nl}If you want to run away, I'm sorry but you're on your own, Grisia!	도망치다 잡히느니 싸우다가 스스로 소멸하겠어요!{nl}도망치려면 당신 혼자 도망가요, 그리시아!				큐폴 즈사이아	
 QUEST_20180320_007543	I'm going to wake the sisters and get my revenge on the chasers, one way or another.	난 자매들을 깨워서 어떻게든 추격자들에게 복수하겠어요.				큐폴 즈사이아	
 QUEST_20180320_007544	I sense a familiar energy in you.{nl}It's the energy of the goddess. I hadn't felt it in so long.	당신에게 친숙한 기운이 느껴지는 군요.{nl}정말 오랜만에 느끼는 여신의 기운입니다.				큐폴 그리시아	
-QUEST_20180320_007545	{nl}On Medzio Diena, we fought the demons in the front line for the Goddesses and their world.{nl}However, we weren't prepared for the demons led by Guiltine.{nl}And many Kupoles were captured.	{nl}신수의 날, 우린 여신과 그녀들의 세계를 위해 최선두에서 마족들과 싸웠습니다.{nl}하지만 길티네를 필두로한 마족들에게 우린 준비가 되어있지 않았죠.{nl}그래서 많은 큐폴들이 마족들에게 붙잡혀 갔습니다.				큐폴 그리시아	
+QUEST_20180320_007545	{nl}On Medzio Diena, we fought the demons in the front line for the Goddesses and their world.{nl}However, we weren't prepared for the demons led by Giltine.{nl}And many Kupoles were captured.	{nl}신수의 날, 우린 여신과 그녀들의 세계를 위해 최선두에서 마족들과 싸웠습니다.{nl}하지만 길티네를 필두로한 마족들에게 우린 준비가 되어있지 않았죠.{nl}그래서 많은 큐폴들이 마족들에게 붙잡혀 갔습니다.				큐폴 그리시아	
 QUEST_20180320_007546	They sacrificed Kupoles to the Divine Tree.{nl}Our spiritual connection to the goddess was broken, and spirits and strength were absorbed by the Divine Tree.{nl}We gave up hope and were waiting for the painful end.	그들은 여신의 큐폴들을 붙잡아 신수의 제물로 삼았습니다.{nl}여신과의 결속은 끊어졌고 우리의 영혼과 힘은 신수에 흡수당했습니다.{nl}그렇게 고통스럽게 최후를 기다리던 우리는 모든 것을 포기하고 있었습니다.				큐폴 그리시아	
 QUEST_20180320_007547	Then, somehow their restrainment got weaker and we took the chance to escape.{nl}But as you can see, they are trying to take us again.	그러던 중 어찌된 일인지 그들의 속박이 약화되었고 우린 그 기회를 놓치지 않고 탈출했습니다.{nl}하지만 보신것처럼 그들이 우릴 다시 잡아들이려 합니다.				큐폴 그리시아	
 QUEST_20180320_007548	You, receiver of the divine energy...{nl}Help us. Save the Kupoles.	여신의 기운이 깃든이여..{nl}부디 저를 도와 큐폴들을 구해주세요.				큐폴 그리시아	
@@ -7849,7 +7849,7 @@ QUEST_20180320_007943	The moss growing around the lake makes it difficult for us
 QUEST_20180320_007944	But the moss is too much for me to remove it all by myself...{nl}Would you give me a hand?	혼자서 저 많은 이끼를 제거하기엔 너무 벅찬데..{nl}이끼 제거를 도와주시겠습니까?				저항군 마이트	
 QUEST_20180320_007945	Unfortunately there's no way to do it other than getting it out by hand.{nl}My job used to be clearing out the weeds, so I'm used to it.{nl}	이끼를 제거하려면 손으로 직접 제거하는 수밖에 없습니다.{nl}제가 수습단원 그러니까 레이커 시절에는 항상 하던 물풀 제거작업이기도 했었지요.{nl}				저항군 마이트	
 QUEST_20180320_007946	We always have to be careful around the lake because the moss is so slippery.	호수에 자라는 이끼는 밟으면 워낙 미끄러워서 항상 신경 써야 합니다.				저항군 마이트	
-QUEST_20180320_007947	You got most of out. Nice.{nl}I'll finish the rest. Thank you.	많이 제거하셨나 보군요.{nl}나머지는 제가 제거하겠습니다. 감사합니다.				저항군 마이트	
+QUEST_20180320_007947	You got most of it. Nice.{nl}I'll finish the rest. Thank you.	많이 제거하셨나 보군요.{nl}나머지는 제가 제거하겠습니다. 감사합니다.				저항군 마이트	
 QUEST_20180320_007948	Resistance Soldier Molan	저항군 몰란					
 QUEST_20180320_007949	Did you see all the demons walking around?{nl}The soldiers are having a hard time because of them.{nl}	수역 주변에 마족이 돌아다니는 걸 보셨습니까?{nl}저항군이 그 마족들 때문에 피해를 보고 있습니다.{nl}				저항군 몰란	
 QUEST_20180320_007950	We're a little short-handed so I wouldn't dare to take care of them on my own.{nl}I know it's a difficult request, but would you give me a hand?	게다가 마족을 처치할 인원도 부족해서.. 혼자선 엄두가 안 나더군요.{nl}어려운 부탁이지만 주변 마족을 처치해 주시지 않겠습니까?				저항군 몰란	
@@ -7863,15 +7863,15 @@ QUEST_20180320_007957	Oh, but make sure you look into the sections with fewer pe
 QUEST_20180320_007958	People around here drink purified water from the lake. If it gets contaminated...{nl}There's no telling what kind of side effects it could have.	호숫물을 정화해서 식수로 쓰기 때문에 마족들에 의해 호숫물이 오염된다면..{nl}무슨 부작용이 생길지 몰라요.				저항군 몰란	
 QUEST_20180320_007959	This will be enough. Thank you.	이 정도면 충분합니다. 감사해요.				저항군 몰란	
 QUEST_20180320_007960	Near the bottom of the Barynwell Watchtower grows a type of weed called Rias.{nl}It's harmless to us, but strangely it seems to keep the demons away.{nl}	바린웰 감시탑 하층부 근처에 리아스 풀이 자랍니다.{nl}별 볼 일 없는 풀인데 어찌 된 일인지 마족들이 그 풀 근처로 다니지 않더군요.{nl}				저항군 마이트	
-QUEST_20180320_007961	I'm not sure if actually repels them, but just to be sure I would like to find some.{nl}Would you collect some Rias Weeds for me?	제 착각이 아닐까 싶기도 한데.. 그 풀을 한번 확인해 봐야겠습니다.{nl}리아스 풀을 저 대신 채집해 주실 수 있나요?				저항군 마이트	
+QUEST_20180320_007961	I'm not sure if it actually repels them, but just to be sure I would like to find some.{nl}Would you collect some Rias Weeds for me?	제 착각이 아닐까 싶기도 한데.. 그 풀을 한번 확인해 봐야겠습니다.{nl}리아스 풀을 저 대신 채집해 주실 수 있나요?				저항군 마이트	
 QUEST_20180320_007962	Thank you.{nl}I need to keep an eye on our barracks, but I'll be counting on you.	감사합니다.{nl}전 거처를 지키고 있어야 해서.. 부탁드립니다.				저항군 마이트	
 QUEST_20180320_007963	There are Rias Weeds growing at the bottom of the Barynwell Watchtower.{nl}Look closely.	리아스 풀은 바린웰 감시탑 하층부 근처에 있습니다.{nl}잘 살펴보세요.				저항군 마이트	
 QUEST_20180320_007964	You brought a bunch!{nl}Let me see them.	많이도 구해오셨군요.{nl}잠시만 기다려주세요.				저항군 마이트	
 QUEST_20180320_007965	They look like just normal grass.{nl}But they grow with the water from the lake...{nl}	역시나 별다른 풀은 아닌 것 같아요.{nl}그 동안 호숫물을 먹고 자라던 풀인데..{nl}				저항군 마이트	
 QUEST_20180320_007966	Oh! I have an idea. Would you help me?	아! 짐작 가는 게 있는데 절 도와주시겠어요?				저항군 마이트	
-QUEST_20180320_007967	I'm thinking a powder made from ground Rias Weeds.{nl}We should see if it has any effect on the demons.	리아스 풀로 만든 정제 가루입니다.{nl}마족에게 효과가 있는지 한번 확인해 주세요.				저항군 마이트	
+QUEST_20180320_007967	I'm thinking of a powder made from ground Rias Weeds.{nl}We should see if it has any effect on the demons.	리아스 풀로 만든 정제 가루입니다.{nl}마족에게 효과가 있는지 한번 확인해 주세요.				저항군 마이트	
 QUEST_20180320_007968	If my guess is right, a Rias Weed powder could be really useful to us.	제 예상이 맞는다면 정제 가루가 저희에게 큰 도움이 될 거에요.				저항군 마이트	
-QUEST_20180320_007969	A-ha! Now I see why the demons never went near the Rias Weeds.{nl}The grow with the water from the lake.{nl}	역시! 마족들이 리아스 풀 근처로 가지 않은 이유를 알겠네요.{nl}리아스 풀은 그동안 호숫물을 먹고 자랐어요.{nl}				저항군 마이트	
+QUEST_20180320_007969	A-ha! Now I see why the demons never went near the Rias Weeds.{nl}They grow with the water from the lake.{nl}	역시! 마족들이 리아스 풀 근처로 가지 않은 이유를 알겠네요.{nl}리아스 풀은 그동안 호숫물을 먹고 자랐어요.{nl}				저항군 마이트	
 QUEST_20180320_007970	Or they did, until the Water Facilities broke down...{nl}It looks like the purified water from the water point influences the Rias Weeds that grow there.{nl}	수반시설이 고장나기 전까지 호숫물을 먹고 자랐으니..{nl}수반에서 흘러나왔던 정화된 물이 리아스 풀에도 영향을 끼쳤나 봐요.{nl}				저항군 마이트	
 QUEST_20180320_007971	I need to make more of that powder and share it with the other soldiers.{nl}Thanks!	이 정제 가루를 더 만들어 저항군들에게 나눠줘야겠어요.{nl}감사합니다!				저항군 마이트	
 QUEST_20180320_007972	The first person to gather the resistance forces was Elder Ramunas.{nl}Some people also suspected Ignas was behind the assassination of the previous head of the Astral Tower...{nl}	저항군을 처음 결성하신 분은 라무나스 장로님입니다.{nl}전 단장님을 시해했던 에보니폰의 배후에 이그나스가 있다는 의심도 있었지만..{nl}				저항군 부관 베른	
@@ -8081,7 +8081,7 @@ QUEST_20180320_008175	After you set up the traps, make sure to avoid the area.{n
 QUEST_20180320_008176	All the traps are in place now?	함정을 모두 설치하셨군요.				레인저 모르비오	
 QUEST_20180320_008177	Alright, let's move.{nl}We should hurry, in case Pbeta tries anything.	어서 움직이죠.{nl}프베타가 움직일지도 모르니 서둘러야 합니다.				레인저 모르비오	
 QUEST_20180320_008178	Be careful not to let Pbeta find out we're after him.	프베타가 눈치채지 못하게 조심스럽게 움직여요.				레인저 모르비오	
-QUEST_20180320_008179	Revelator, have made your decision?{nl}Whatever you think is best, we'll follow.	계시자님, 결정을 내리셨나요?{nl}계시자님이 어떤 결정을 내리셔도 그 결정에 따르도록 할게요.				플레처 볼레타	
+QUEST_20180320_008179	Revelator, have you made your decision?{nl}Whatever you think is best, we'll follow.	계시자님, 결정을 내리셨나요?{nl}계시자님이 어떤 결정을 내리셔도 그 결정에 따르도록 할게요.				플레처 볼레타	
 QUEST_20180320_008180	Understood.{nl}I'll fire the arrow as soon I see Pbeta.{nl}	알겠습니다.{nl}그럼 프베타를 보자마자 바로 화살을 쏘겠습니다.{nl}				플레처 볼레타	
 QUEST_20180320_008181	Morvio is going to stay and look out for Pbeta's subordinates.{nl}Let's go, then.	모르비오님은 이 곳에서 프베타의 부하들이 몰려오는지 지켜본다고 하시니..{nl}저희끼리 움직이죠.				플레처 볼레타	
 QUEST_20180320_008182	I'm sorry. Pbeta escaped, there was nothing we could do.{nl}	죄송합니다. 프베타가 기습적으로 도망치는 바람에 놓치고 말았네요.{nl}				레인저 모르비오	
@@ -8106,7 +8106,7 @@ QUEST_20180320_008200	I'll be very grateful.	부탁드립니다.				헌터 오�
 QUEST_20180320_008201	Please hurry.	서둘러 주세요.				헌터 오르트	
 QUEST_20180320_008202	Thank you.{nl}I should hurry and feed Inas now.	정말 감사합니다.{nl}이나스에게 어서 고기를 먹여야겠어요.				헌터 오르트	
 QUEST_20180320_008203	I just realized I'm out of water, too.{nl}I think I saw some Pasto water plants nearby.{nl}	그러고 보니 식수가 떨어진 걸 잊고 있었네요.{nl}수역 근처에 파스토 수초가 많은 걸 봤습니다.{nl}				헌터 오르트	
-QUEST_20180320_008204	Pasto plants are known to act as purifiers; I think can use them to filter some lake water.{nl}Would you collect some water plants for me?	파스토 수초는 뛰어난 정화기능을 가지고 있어 호수의 물을 식수로 이용할 수 있어요.{nl}계시자님께서 파스토 수초를 구해다 주실 수 있으신가요?				헌터 오르트	
+QUEST_20180320_008204	Pasto plants are known to act as purifiers; I think I can use them to filter some lake water.{nl}Would you collect some water plants for me?	파스토 수초는 뛰어난 정화기능을 가지고 있어 호수의 물을 식수로 이용할 수 있어요.{nl}계시자님께서 파스토 수초를 구해다 주실 수 있으신가요?				헌터 오르트	
 QUEST_20180320_008205	Pasto plants grow underwater, however, so they're hard to spot with the naked eye.{nl}But check the surface of the water for bubbles, you should find them there.{nl}	파스토 수초는 물 밑에서 자라기 때문에 육안으로 확인하는 게 쉽지 않아요.{nl}물가에 공기 방울이 일어나는 곳을 확인해 보세요.{nl}				헌터 오르트	
 QUEST_20180320_008206	Inas is still a little sensitive, I'm going to have to stay with him for a while.{nl}Thanks for the help.	저는 신경이 예민해진 이나스가 무슨 사고를 칠지 몰라서 곁에 있어야 할 것 같아요.{nl}부탁드릴게요.				헌터 오르트	
 QUEST_20180320_008207	Did you bring the plants?{nl}I'm getting thirsty already.	아직 구해오지 않으셨나요?{nl}목이 좀 마르네요.				헌터 오르트	
@@ -8183,7 +8183,7 @@ QUEST_20180320_008277	Pbeta was hurt by the traps and Voleta's arrow...{nl}It's 
 QUEST_20180320_008278	I'm sure the arrow will work.{nl}As long as Pbeta stays in the dark, we have a real chance of getting to him.	이 화살은 확실히 효과가 있을 겁니다.{nl}프베타가 눈치채지만 않는다면 승산은 있어요.				플레처 볼레타	
 QUEST_20180320_008279	Aghh... I'm sorry, I don't think I can go on like this...{nl}Go, Revelator. Go and defeat Pbeta.	으윽.. 죄송하지만 지금 당장 움직일 수가 없네요..{nl}계시자님께서 프베타를 꼭 처치해 주세요.				플레처 볼레타	
 QUEST_20180320_008280	This entire region was overturned on Medzio Diena.{nl}A lot of roads were destroyed because of that.	신수의 날에 수역의 지형들이 대부분 변형되었습니다.{nl}그 때문에 길도 엉망이 되어버렸죠.				저항군 마이트	
-QUEST_20180320_008281	The villages around the lake were all affected by Medzio Diena.{nl}All the members that had family in those villages we so worried.	호수 주변의 마을들이 신수의 날로 피해를 많이 입었더군요.{nl}마을에 가족들이 있는 단원들은 그 날 걱정을 많이 하더라고요.				저항군 몰란	
+QUEST_20180320_008281	The villages around the lake were all affected by Medzio Diena.{nl}All the members that had family in those villages were so worried.	호수 주변의 마을들이 신수의 날로 피해를 많이 입었더군요.{nl}마을에 가족들이 있는 단원들은 그 날 걱정을 많이 하더라고요.				저항군 몰란	
 QUEST_20180320_008282	There's a controller device between the two magic circles.{nl}Maybe the controller needs to be operated in a certain way.{nl}	두 개의 마법진 중간에 하나의 제어 장치가 자리 잡고 있군요.{nl}아마도 제어장치를 이용해 특정한 규칙을 찾아내야 할 것 같습니다.{nl}				저항군 부관 르온	
 QUEST_20180320_008283	Looking at the first magic circles, they seem to have the same color.{nl}	처음 나타난 마법진들을 살펴보니 서로 같은 색을 가졌더군요.{nl}				저항군 부관 르온	
 QUEST_20180320_008284	If we can use the controller to change the color of the magic circles...{nl}How about we try setting them all to different colors?	제어 장치로 마법진들의 색을 변형시킬 수 있다면..{nl}마법진들을 서로 다른 색으로 만들어 보는건 어떨까요?				저항군 부관 르온	
@@ -8517,7 +8517,7 @@ QUEST_20180418_008624	Attack the sword pell whenever the light blinks.{nl}Your a
 QUEST_20180418_008625	Attack the sword pell whenever the light blinks.{nl}Your attack count goes up by 1 if you hit the pell correctly for 3 consecutive times.{nl}Fail to hit it for 3 consecutive times and your count is reduced by 1.{nl}Do you want to proceed with the training?
 QUEST_20180418_008626	Your training is complete.{nl}You have proven your ability in Retiarius combat, and you are now ready to move on to more advanced techniques.{nl}Come and see me if you're interested.
 QUEST_20180418_008627	Oh, I almost forgot...{nl}Take this orb; it'll show you your training progress.{nl}You can use it to check your status and health.
-QUEST_20180418_008628	Earth Tower Solmiki Area (Recommended Lv: 310) {nl}Only you and your party members can enter together.
+QUEST_20180418_008628	Earth Tower - Área Solmiki (Lv Recomendado: 310) - Apenas você e os membros do seu grupo podem entrar juntos.{nl}Tem certeza de que deseja entrar?
 QUEST_20180418_008629	#N/A
 QUEST_20180418_008630	I hear there are a lot of Saltisdaughters roaming around the Fortress of the Land in the Extension area, and Vedas Plateau.{nl}You should be able to get a good amount of Saltisdaughter Fur from them.{nl}
 QUEST_20180418_008631	I'm going to need about 80 Fur Pieces for my donation.{nl}Alright then, good luck!
@@ -9241,13 +9241,13 @@ QUEST_20180418_009348	 Olfas Grimm smiled wryly.{nl}[How are you ever going to k
 QUEST_20180418_009349	 Chridela took out a stool and sat down without responding.{nl}[Are you not sure if you can kill me? Or are you still trying to hold on to your pride as an old member of the noble class? Hey?]{nl}	 크리델라는 그 말에 대꾸하지 않고 의자를 끌어 거기 앉았다.{nl}[아직은 이 몸을 죽일 자신이 없다는 것인가? 뭐 그것도 있겠지만 스스로 나는 귀족이라는 긍지를 지키고 싶은 마음이 아무래도 더 큰 것 이겠지. 그렇지 않은가?]{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009350	 [Enough. Why did you call me here?]{nl}[Right. Well, I was looking everywhere for a nice spot for you, but the opportunity was never there. Class Master vacancies aren't exactly easy to come by, as you know.{nl}	 [잡담은 그만 하시고, 부른 용건이나 말씀하시죠.]{nl}[그러지. 꽤 열심히 네가 있을 자리를 모색했지만, 지금껏 좋은 기회가 닿지 않았다. 알다시피 마스터 자리라는 것이 그렇게 쉽게 공석이 생기는 자리가 아니니까 당연한 일이지.{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009351	 At the same time, I couldn't just put you into some cleric order or have you learn magic, could I? But now, now I think you might have a real chance at something.]{nl}For the first time, Chridela Otero seemed interested in the Master's words.{nl}	 그렇다고 너를 어떤 교단에 넣거나 마법을 배우게 할 수도 없는 일이니까. 하지만 이번에 운 좋게 기회가 생길 것 같다.]{nl}이 말에는 크리델라 오테로도 관심을 지니고 반응을 보였다.{nl}				크리델라 오테로 이야기 2권	
-QUEST_20180418_009352	 [Is there a Class Master retiring?]{nl}[It's the Matador Master.]{nl}Chridela was confused.{nl}[But I was never trained in Matador combat. And to be honest, I have no interest in Masters connected to the arena.]{nl}	 [어느 마스터께서 은퇴하시나요?]{nl}[마타도르 마스터다.]{nl}그 말에 크리델라의 표정이 굳어지며 이렇게 말했다.{nl}[하지만 나는 마타도르의 기술을 수련한 적이 없습니다. 그리고 솔직히 투기장 관련 마스터는 별로 내키지도 않고 말입니다.]{nl}				크리델라 오테로 이야기 2권	
+QUEST_20180418_009352	 [Is there a Class Master retiring?]{nl}[It's the Mestre Matador.]{nl}Chridela was confused.{nl}[But I was never trained in Matador combat. And to be honest, I have no interest in Masters connected to the arena.]{nl}	 [어느 마스터께서 은퇴하시나요?]{nl}[마타도르 마스터다.]{nl}그 말에 크리델라의 표정이 굳어지며 이렇게 말했다.{nl}[하지만 나는 마타도르의 기술을 수련한 적이 없습니다. 그리고 솔직히 투기장 관련 마스터는 별로 내키지도 않고 말입니다.]{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009353	 [Sure, if you're lucky there could be another empty spot, but if you let it go this could be the last vacancy you'll see in your life. You need to take the chance. Besides, someone of your caliber can learn the Matador style in no time; training won't be a problem.{nl}	 [운이 좋으면 다른 공석이 생길 수도 있지만, 잘못하면 네가 할머니가 될 때까지 빈자리가 안 날 수도 있는 것이 이런 일이다. 그러니 이 기회를 잡아야 한다. 그리고 수련으로 말하자면 너라면 마타도르로서 필요한 모든 것을 익히는 데 긴 시간이 걸리지 않으리라 본다.{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009354	 Even judging by your combat skills alone, you're well within the level accepted for Masters of this field. I know you're interested in the position of Fencer Master, but Sorsha Hutton is still young, and very strong. Heck, not even a scandal could bring her down... That's why you need to take this chance.]{nl}	 그리고 무엇보다 무예로만 치자면 너는 이 계통의 어느 마스터를 하기에도 부족하지 않으리라 본다. 네가 소르샤 허턴의 펜서 마스터에 관심이 있다는 사실은 알지만, 그 애는 아직 젊고 실력도 좋아서 흔들기 어렵다. 추문 따위를 만들어야 먹힐 대상도 아니고.. 그러니 이 자리를 맡아라.]{nl}				크리델라 오테로 이야기 2권	
-QUEST_20180418_009355	 [What about the students of the current Matador Master? You don't expect them to just accept someone out of nowhere taking their place, do you?]{nl}[Frium and I took care of that. Also, you may not know this, but people close to the Matador Master are actually fond of you. It helps that you're a good-looking woman.{nl}	 [투기장의 다른 관련자들 무엇보다 현재 마타도르 마스터의 제자들이 그냥 있겠습니까? 갑자기 엉뚱한 사람이 그 자리를 하겠다고 나서는데..]{nl}[그쪽은 나와 프리엄이 해결하겠다. 그리고 너는 잘 모르지만 마타도르 마스터 주변의 사람들은 사실 너를 좋아한다. 역시 여자는 외모가 출중하면 덕 볼 일이 많다는 증거겠지.{nl}				크리델라 오테로 이야기 2권	
+QUEST_20180418_009355	 [What about the students of the current Mestre Matador? You don't expect them to just accept someone out of nowhere taking their place, do you?]{nl}[Frium and I took care of that. Also, you may not know this, but people close to the Mestre Matador are actually fond of you. It helps that you're a good-looking woman.{nl}	 [투기장의 다른 관련자들 무엇보다 현재 마타도르 마스터의 제자들이 그냥 있겠습니까? 갑자기 엉뚱한 사람이 그 자리를 하겠다고 나서는데..]{nl}[그쪽은 나와 프리엄이 해결하겠다. 그리고 너는 잘 모르지만 마타도르 마스터 주변의 사람들은 사실 너를 좋아한다. 역시 여자는 외모가 출중하면 덕 볼 일이 많다는 증거겠지.{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009356	 As long as you show them that you're good and that you're familiar enough with the Matador techniques, that shouldn't be a problem. Come next year you'll probably be better than all of them, anyway.]{nl}Chridela didn't reply, still pondering on her decision.	 그러니 네가 실력으로도 그들을 압도하고 마타도르로서 기술도 쳐지지 않는다는 것을 알게 되면 문제 없다고 본다. 또한 나는 아마도 평생 그걸 한 그 녀석들보다 내년 이 맘 때는 네가 더 뛰어날 것이라 생각한다.]{nl}크리델라는 더 이상 다른 소리를 하지 않았지만 아직 승낙하지도 않은 채 뭔가를 잠시 생각하였다.{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009357	 The Monk Master took one look at her and asked,{nl}[Something else on your mind? It's about me, isn't it?]{nl}[I was just thinking about the law that forbids Class Masters from carrying out personal disputes through violence.]{nl}	 몽크 마스터가 그런 모습을 보고 물었다.{nl}[뭐 또 걸리는 것이 있는데 말을 못하는 것을 보니 아마도 내게 관련된 일인가 보군.]{nl}[그저 잠시 마스터간에는 사적인 대결을 금한다는 왕국법을 생각하고 있었습니다.]{nl}				크리델라 오테로 이야기 2권	
-QUEST_20180418_009358	 Grimm let out a short chuckle.{nl}[Hah. I know what you're thinking. But the Matador Master is a Master of the arena. The same arena I so often visit as the combat enthusiast that I am. You'll have plenty of opportunities, kid.{nl}	 몽크 마스터가 그 말에 약간 소리를 내어 웃었다.{nl}[하하. 그런가? 뭘 염려하는지 알겠군. 하지만 마타도르는 투기장 마스터이다. 나 역시 투기장에 자주 서는 취미를 지닌 마스터이고 말이다. 너에게 기회는 충분할 것이다.{nl}				크리델라 오테로 이야기 2권	
+QUEST_20180418_009358	 Grimm let out a short chuckle.{nl}[Hah. I know what you're thinking. But the Mestre Matador is a Master of the arena. The same arena I so often visit as the combat enthusiast that I am. You'll have plenty of opportunities, kid.{nl}	 몽크 마스터가 그 말에 약간 소리를 내어 웃었다.{nl}[하하. 그런가? 뭘 염려하는지 알겠군. 하지만 마타도르는 투기장 마스터이다. 나 역시 투기장에 자주 서는 취미를 지닌 마스터이고 말이다. 너에게 기회는 충분할 것이다.{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009359	 But if you really want to kill me, don't you need to pay me back first? I'm pretty sure you can't do anything to me until your debt is repaid. If I remember correctly, it was that strong determination of yours that made me keep you all this time.]{nl}	 하지만 나를 죽이고 싶다면 먼저 내게 빚진 것을 갚아야 하지 않겠나? 나는 네가 빚진 것을 갚기 전에는 나를 어떻게 못할 것이라는 확신이 있었다. 네 실력도 실력이지만 네 그런 가치관이 마음에 들어서 너를 끝까지 거둔 것이다.]{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009360	 [Five years!]{nl}[What?]{nl}[Five years. You adopted me for five years, so that is how much I owe you. After that, you will have no right to demand anything from me.]{nl}	 [5년!]{nl}[뭐?]{nl}[5년입니다. 나를 부양한 시간이 5년이니 앞으로 5년이라는 말입니다. 그 이후에는 더 이상 내게 뭘 요구할 생각을 안 했으면 합니다.]{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009361	 [I beg to differ. Aren't you forgetting something? We didn't just support you with food and shelter. We trained you in the finest martial arts and made you into a capable fighter. We settled not only your personal debt, but your family's as well. Not to mention...]{nl}	 [아니지. 그건 계산이 맞지 않는다. 우리가 네게 의식주만을 제공했다면 그래도 충분하겠지. 그러나 우리는 네가 최고의 무예 실력을 지닌 사람이 되도록 필요한 모든 검법을 제공하고, 훈련시키고 또한 네 어린 시절의 빚뿐만 아니라 네 가문이 지닌 오래된 빚을 청산해주었고, 또..]{nl}				크리델라 오테로 이야기 2권	
@@ -9255,7 +9255,7 @@ QUEST_20180418_009362	 [Five years and three favors. That's as much as I'm willi
 QUEST_20180418_009363	 Olfas Grimm was taken aback by her stare, but he quickly shrugged it off with a cackle.{nl}[Hahah. Alright. You work for us for five years. And you need to complete three missions for me. That's it, after that you're a free woman. I know you're a proud descendant of a noble family, so I trust you to keep your promise.]{nl}	 몽크 마스터 올파스 그림은 그 눈빛을 지지 않고 잠시 마주보다가 이윽고 다시 웃었다.{nl}[하하. 좋다. 5년간 우리를 위해 일한다. 그 5년이 지나면 세 가지 임무를 줄 테니 그것을 완수하라. 그 다음에는 너는 자유다. 네가 자랑하는 귀족 가문의 긍지를 생각하건대 너는 반드시 해낼 것 같군.]{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009364	[I will, but that doesn't mean I don't have my limits. For one, you can't force me to protect your life as my last mission.]{nl}[I'm not a fool. I'm only going to demand favors which I know you won't or can't refuse. Be it in the five years that you serve us, or in the three missions you agreed to complete.{nl}	[그렇다고 무조건 시키는 대로 하지는 않습니다. 특히 마지막 임무로 올파스 그림의 생명을 지켜라 그런 임무는 안 됩니다.]{nl}[나는 바보가 아니다. 네가 할 수 있는 일, 네가 거절하지 않을 일 혹은 거절할 수 없는 일을 시킬 것이다. 5년 동안이든 그 이후 세 가지 임무든 말이다.{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009365	 Besides, I may avoid fighting strong people like you, but I'm no weakling myself. Do I look like a man who's afraid of death? The only reason I haven't died yet is because I have things to do. It's not because I want to live.]{nl}	 그리고 나의 목숨으로 말하자면 너 같은 강자가 싸워보는 일을 피할 만큼 나는 약하지 않다. 내가 죽음 따위를 두려워하는 사람으로 보였나? 내가 지금 죽지 않는 것은 이루고 싶은 일이 있기 때문이다. 결코 살고 싶기 때문이 아니다.]{nl}				크리델라 오테로 이야기 2권	
-QUEST_20180418_009366	 [You know what they say about hopeless dreams...]{nl}[You can make fun of me all you want. But the fact is that you still need to prepare for the position of Matador Master. You can start by reading these.]{nl}	 [이루지 못할 꿈을 보통 뭐라고 하는지 아시는지..]{nl}[마음껏 비꼬아도 좋다. 하지만 그 전에 마타도르 마스터가 될 준비부터 해주면 좋겠군. 그 시작은 여기 이 책을 읽는 것이 좋겠네.]{nl}				크리델라 오테로 이야기 2권	
+QUEST_20180418_009366	 [You know what they say about hopeless dreams...]{nl}[You can make fun of me all you want. But the fact is that you still need to prepare for the position of Mestre Matador. You can start by reading these.]{nl}	 [이루지 못할 꿈을 보통 뭐라고 하는지 아시는지..]{nl}[마음껏 비꼬아도 좋다. 하지만 그 전에 마타도르 마스터가 될 준비부터 해주면 좋겠군. 그 시작은 여기 이 책을 읽는 것이 좋겠네.]{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009367	 Grimm picked up a pile of books from behind him and dropped them on the table before leaving in silence. Chridela watched him for a moment, but soon turned her attention to the heap of books. She picked one up and turned on a reading lamp.{nl}	 그렇게 말하고는 몽크 마스터는 책 무더기를 책상에 쏟아놓고는 그 방을 나섰다.크리델라 오테로는 그 뒷모습을 잠시 쏘아보다가 자리를 잡고 앉아 가장 위의 책을 집고 등불을 당겨 그것을 읽기 시작했다.{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009368	 {nl}"The first combat arenas and gladiators date back to around 900 years ago, to the reign of King Melkhiel.{nl}In time, the arenas began to develop, with more and more specialized varieties of gladiator differentiating themselves from their peers."{nl}	 .. 전략 ..{nl}왕국의 역사에서 최초의 투기장과 검투사가 출현한 때는 약 900년전 멜키엘 국왕 시대이다.{nl}이후 투기장과 검투사는 점점 발전하였고, 다양한 하위 구분을 만들어내며 현재까지 이어져왔다.{nl}				크리델라 오테로 이야기 2권	
 QUEST_20180418_009369	 "Then, around 300 ago during the reign of King Freenel, as the Kingdom opened itself up to the exterior, foreign customs and traditions began to permeate the arenas. This lead to the creation of even more new specializations, like the Matadors."{nl}	 그러다 약 300년전 프리넬Freenel 국왕의 재위기에 왕국 외부의 풍습이 유입되면서 투기장에 기존의 검투사에서 발생한, 여러 하위 직업과는 성격상 큰 차이가 있는 새로운 투기장 관련 직업인 마타도르가 나타나게 된다.{nl}				크리델라 오테로 이야기 2권	
@@ -10224,7 +10224,7 @@ QUEST_20180827_010337	Are you going to try and make a deal with me?{nl}Hahahahah
 QUEST_20180827_010338	Oh, you make my blood boil...!	주체할 수 없을 정도로 피가 들끓는구나..!	QUEST_20180320_007852	Remember, I can destroy you at anytime, Pbeta.	당장이라도 네 녀석을 없애버릴 수 있다는 걸 명심해라. 프베타.	카르타스	
 QUEST_20180827_010339	Please, Kartas. My request is simple.{nl}Give me the power to defeat the Revelator and those who are after me.	아주 간단한 부탁입니다. 카르타스님.{nl}절 궁지로 몰고 있는 계시자와 그 일행들을 처치할 힘을 주십시오.{nl}	QUEST_20180320_007854	Please, Kartas. My request is simple.{nl}Give me the power to end the Revelator and those who are after me.	아주 간단한 부탁입니다. 카르타스님.{nl}절 궁지로 몰고 있는 계시자와 그 일행들을 처치할 힘을 주십시요.{nl}	프베타	
 QUEST_20180827_010340	Yes, that would be good.	그렇게 나오면 재미있는 판을 만들어 주지.	QUEST_20180320_007856	Very well...{nl}I'll grant your wish.	그렇게 나온다면..{nl}네녀석의 부탁을 들어줘야겠지.	카르타스	
-QUEST_20180827_010341	But Pbeta. Don't you dare think about playing me.{nl}Remeber, I am not Solcomm.{nl}	같잖은 계략으로 날 이용할 생각은 하지 않는 게 좋아.{nl}난 그 멍청한 솔콤과는 다르니깐 말이야.{nl}	QUEST_20180320_007857	But Pbeta...{nl}Don't even think about playing me.{nl}	프베타..{nl}같잖은 계략으로 날 속일 생각은 하지 않는 게 좋아.{nl}	카르타스	
+QUEST_20180827_010341	But Pbeta. Don't you dare think about playing me.{nl}Remember, I am not Solcomm.{nl}	같잖은 계략으로 날 이용할 생각은 하지 않는 게 좋아.{nl}난 그 멍청한 솔콤과는 다르니깐 말이야.{nl}	QUEST_20180320_007857	But Pbeta...{nl}Don't even think about playing me.{nl}	프베타..{nl}같잖은 계략으로 날 속일 생각은 하지 않는 게 좋아.{nl}	카르타스	
 QUEST_20180827_010342	You don't want to end up like all the ones who were foolish enough to stand in my way now, do you?{nl}	지금까지 내 눈에 거슬렸던 녀석들이 맞이한 최후를 똑같이 경험하고 싶은 건 아니겠지?{nl}	QUEST_20180320_007858	Don't assume you can trick me like you did with Solcomm.{nl}	날 솔콤처럼 속일 수 있다고 생각하는 건 아니겠지?{nl}	카르타스	
 QUEST_20180827_010343	You do what you have to do and then you come to me.{nl}I don't want you wandering about.	일이 마무리되면 되도록 빨리 날 찾아오는 게 좋을 거야.{nl}이 아이들은 한번 배고프면 못 참는 성격이거든.{nl}	QUEST_20180320_007859	Remember. Once you defeat the Revelator and their group...{nl}You come back to me and hand over Ziburynas' power.{nl}	명심해라. 계시자와 그 일행들을 처치하게 되면..{nl}필히 나에게 돌아와 지부리나스의 힘을 넘겨야 할 것이다.{nl}	카르타스	
 QUEST_20180827_010344	Alright then, let's see what you can do with all that power!	그럼 어디 운 좋게 얻은 그 힘으로 실력 한번 뽐내보거라!	QUEST_20180320_007860	If so, I will cover for what you have done so far.	그렇게만 된다면, 네가 지금까지 저지른 짓은 내 선에서 덮어주도록 하지.	카르타스	
@@ -10279,7 +10279,7 @@ QUEST_20180827_010392	The next Head of the Schaffenstar, should they ascend to t
 QUEST_20180827_010393	Confidential: It is a well-known fact that Lydia Schaffen defeated the great demon Ziburynas and sent another demon by the name of Rumpelstiltskin to the Moon.{nl}Schaffen was not aware of it at the time, but her heroic achievements would produce a significant impact in the hierarchical order of the demonic world.{nl}	비밀 : 리디아 샤펜님이 마왕 지부리나스를 죽이고 또한 유명한 마족인 럼펠스틸스킨을 달로 보내버린 것은 유명한 사실이다.{nl}비록 리디아 샤펜님이 알고 하신 일은 아니나, 후대의 우리가 알아낸 바에 의하면 리디아 샤펜님의 이 영웅적인 업적에 의하여 마계의 질서는 크게 흔들렸다고 한다.{nl}				샤펜스타 비밀문서	
 QUEST_20180827_010394	Lydia Schaffen was the first human to ever become involved in a major power shift of the demonic world, with her actions triggering a full-scale crisis in the demon realm.{nl}The one referred to in ancient texts as the Beholder suffered a significant blow to his status, and while Giltine herself may have remained unscathed, several demons serving her were also severely affected.{nl}	바꿔 말하면 리디아 샤펜님은 인간으로선 처음으로 마계의 권력 이동에 관여하신 셈이고, 정확히 말하면 단순한 관여가 아니라 그 일로 마계에는 온갖 풍파가 일어났다고 한다.{nl}고대의 문서가 주시자라고 말하는 존재가 이 일로 위상에 타격을 받았고, 마족의 수장인 길티네의 위상은 변함이 없었지만, 그 아래 서열의 다른 마신들에게도 영향을 미쳤다고 한다.{nl}				샤펜스타 비밀문서	
 QUEST_20180827_010395	The details of how the death of a demon monarch and the disappearance of Rumpelstiltskin affected the position of several lower-ranked demons remain unknown.{nl}What we know for certain is that those events gave way to a period of serious turbulence in the demons' hierarchical systems.{nl}This shift provides the background information we need to understand the future actions of three demons in particular.{nl}	하급자인 마왕의 죽음과 럼펠스틸스킨의 실종이 어떻게 오히려 상급자인 마신들에게 영향을 미쳤는지 자세한 내막은 모른다.{nl}하지만 이 일로 인해 까마득한 태초 이래로 변함이 없는 상태로 내려오던 마족의 지위 체계가 격동을 일으켰고, 그로 인해 온갖 일이 일어났다는 사실은 틀림없다.{nl}이 같은 마계의 정황을 적는 이유는 그 가운데 우리가 특별히 주목할 세 명의 마족이 있기 때문이다.{nl}				샤펜스타 비밀문서	
-QUEST_20180827_010396	They are Demon Goddess Ragana, Demon Monarch Baiga and Demon Lord Hauberk. Little is known about them, but we have reasons to believe that they will attempt to act contrarily to demon traditions.{nl}This, of course, does not mean that they will act in favor of humans, which is why our society must remain vigilant of the actions of these demons who are at the center of the upheaval.{nl}	이들은 각각 마신 라가나, 마왕 바이가, 마군주 하우벅이라고 하는데 더 자세한 정보는 알 수 없으나 이들이 태초부터 이어오던 마족의 관습을 벗어난 행동을 하려 한다는 정보는 사실로 생각된다.{nl}물론 그렇다고 이들이 인간을 위할 것이라 생각해선 안 된다.{nl}다만 인간과 왕국을 위해선 리디아 샤펜님으로 인해 발생한 마족 내부의 균열과 그 중심 인물을 잘 살필 필요가 있다는 점을 강력히 일러두는 바이다.{nl}				샤펜스타 비밀문서	
+QUEST_20180827_010396	They are Demon Goddess Ragana, Demon Lord Baiga and Demon Lord Hauberk. Little is known about them, but we have reasons to believe that they will attempt to act contrarily to demon traditions.{nl}This, of course, does not mean that they will act in favor of humans, which is why our society must remain vigilant of the actions of these demons who are at the center of the upheaval.{nl}	이들은 각각 마신 라가나, 마왕 바이가, 마군주 하우벅이라고 하는데 더 자세한 정보는 알 수 없으나 이들이 태초부터 이어오던 마족의 관습을 벗어난 행동을 하려 한다는 정보는 사실로 생각된다.{nl}물론 그렇다고 이들이 인간을 위할 것이라 생각해선 안 된다.{nl}다만 인간과 왕국을 위해선 리디아 샤펜님으로 인해 발생한 마족 내부의 균열과 그 중심 인물을 잘 살필 필요가 있다는 점을 강력히 일러두는 바이다.{nl}				샤펜스타 비밀문서	
 QUEST_20180827_010397	17th Head of the Schaffenstar{nl}Gaikang Mcen	샤펜스타 제17대 단장{nl}가이캉 메켄Gaikang Mcen				샤펜스타 비밀문서	
 QUEST_20180827_010398	Record of Defense Operations Against Solcomm Pt. 1	솔콤의 공격에 대한 방어전 기록물 1					
 QUEST_20180827_010399	* Record of Defense Operations Against Solcomm Pt. 1{nl}	*솔콤의 공격에 대한 방어전 기록물 1{nl}				솔콤의 공격에 대한 방어전 기록물 1	
