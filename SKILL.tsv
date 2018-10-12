@@ -12541,3 +12541,5 @@ SKILL_20180903_012537	Attack: #{SkillFactor}#% x 4{nl}Max Charge Time: 3 seconds
 SKILL_20180903_012538	* Increases duration of all debuffs you applied to enemies by 1 sec per attribute level when they are affected by the [Warcry] debuff{nl}* Duration increase reduced to 1/3 in PvP{nl}* Increases SP consumption by 10%
 SKILL_20180914_012539	{#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical energy to launch it towards an enemy.	{#993399}{ol}[마법]{/}{/}{nl}강력한 마법 에너지를 모아 적에게 발사합니다.	SKILL_20150414_003674	{#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical energy to launch it towards an enemy. Increases the inflicted damage depending on the amount of gathered energy.	{#993399}{ol}[마법]{/}{/}{nl}강력한 마법 에너지를 모아 적에게 발사합니다. 에너지를 모은 량에 비례하여 피해량도 증가합니다.
 SKILL_20180914_012540	Steed Charge: Remove Knockback
+SKILL_20181005_012541	Moon Rabbit	달 토끼			
+SKILL_20181005_012542	You are beginning to feel festive.	즐거운 기운이 몸을 감싸고 있습니다.	SKILL_20170609_009489	The power of the firecracker has spread to all party members.	연인을 축하하는 파티 폭죽의 힘이 공유되고 있습니다.
