@@ -5241,7 +5241,7 @@ SKILL_20150918_005240	Increases the monster's physical Ataque converted with [Co
 SKILL_20150918_005241	Conviction: Aprimorar
 SKILL_20150918_005242	Aumenta o dano causado com [Conviction] em 1% por nível de atributo.
 SKILL_20150918_005243	Enemies hit by [Hand Knife] have a 40% chance to be afflicted with [Armor Break] for 7 segundos. Increases the chance by 10% per attribute level from Lv2. 
-SKILL_20150918_005244	Lv. 3 of Swell Left Arm: Aprimorar required
+SKILL_20150918_005244	Lv. 3 of Swell Left Arm required
 SKILL_20151001_005245	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Raises your sword and smashes the area around the center of the body. Deals Dano Adicional on medium and large-type enemies according to how much their defense has been decreased by Skull Swing.
 SKILL_20151001_005246	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Release a strong Ataque on enemies by spinning your body. Increases your critical rate when the Ataque lands and deals Dano Adicional to a stunned enemy.
 SKILL_20151001_005247	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Chance de Crítico: +50{nl}Taxa de Ataque em Área: #{SkillSR}#
