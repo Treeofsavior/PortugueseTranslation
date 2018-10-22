@@ -11639,7 +11639,7 @@ ITEM_20161005_011638	Earth Tower 25F Cube
 ITEM_20161005_011639	Earth Tower 30F Cube
 ITEM_20161005_011640	Earth Tower 35F Cube
 ITEM_20161005_011641	Earth Tower 40F Cube
-ITEM_20161005_011642	Sausys Cube
+ITEM_20161005_011642	Sausis Cube
 ITEM_20161005_011643	Cubo Místico
 ITEM_20161005_011644	Pode abrir uma vez por dia. Após aberto, você receberá um {#8b03d8}Cubo Instável{/}, jamais esqueça de abri-lo!
 ITEM_20161005_011645	Cubo Instável
@@ -17393,7 +17393,7 @@ ITEM_20180202_017385	Chr Lv 1 Boost Pack (14 Days)
 ITEM_20180202_017386	Chr Lv 50 Boost Pack (14 Days)
 ITEM_20180202_017387	A guide cube.{nl}Use to obtain the items it contains.{nl}(Can be used by characters of level 50 and above.)
 ITEM_20180202_017388	Chr Lv 170 Boost Pack (14 Days)
-ITEM_20180202_017389	A guide cube.{nl}Use to obtain the items it contains.{nl}(Can be used by characters of level 70 and above.)
+ITEM_20180202_017389	A guide cube.{nl}Use to obtain the items it contains.{nl}(Can be used by characters of level 170 and above.)
 ITEM_20180202_017390	Chr Lv 220 Boost Pack (14 Days)
 ITEM_20180202_017391	A guide cube.{nl}Use to obtain the items it contains.{nl}(Can be used by characters of level 220 and above.)
 ITEM_20180202_017392	Team Lv 2 Boost Pack (14 Days)
@@ -18323,8 +18323,8 @@ ITEM_20180517_018309	Velcoffer Leather Pants
 ITEM_20180517_018310	According to Teliavelis, after Medzio Diena the magic used to enhance equipment items has been irreversibly changed. Therefore, in his gear he prefers to focus on the performance, leaving the magic components open to more diverse setups.
 ITEM_20180517_018311	Velcoffer Plate Pants
 ITEM_20180517_018312	According to legends, the most powerful dragons are still alive in the dragon world. As long as their realm is dominated by the Froster Lord, however, the dragons will remain trapped there, unable to escape. 
-ITEM_20180517_018313	Sausys Leather Boots
-ITEM_20180517_018314	Although they maintain their traditional style to this day, the original Sausys boots were unimaginably faster.
+ITEM_20180517_018313	Sausis Leather Boots
+ITEM_20180517_018314	Although they maintain their traditional style to this day, the original Sausis boots were unimaginably faster.
 ITEM_20180517_018315	Velcoffer Boots
 ITEM_20180517_018316	One legend says that Velcoffer originally worked as a guard for an even stronger dragon. Whether that was true or not, the dragon he was said to work for is no longer alive.
 ITEM_20180517_018317	Velcoffer Leather Boots
@@ -19683,3 +19683,64 @@ ITEM_20180827_019669	The challenges faced by Lydia Schaffen and her solutions. R
 ITEM_20180827_019670	Essential Reading for Linkers: Finding The Nexus Point Of All Ego. Not readable.	링커들을 위한 필독서; 모든 자아의 연결점을 찾아라! 내용물은 읽어볼 수 없습니다.			
 ITEM_20180827_019671	A book sought after by the Sage Master. Not readable.	세이지 마스터가 찾고 있는 책. 내용물은 읽어볼 수 없습니다.			
 ITEM_20180827_019672	A research paper on armors used during the rule of King Kadumel. Not readable.	카듀멜 국왕 시대의 갑옷에 관한 연구서. 내용물은 읽어볼 수 없습니다
+ITEM_20181005_019673	Moon Rabbit Helmet	달 토끼 헬멧 코스튬		
+ITEM_20181005_019674	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Exchange Shop.{nl}Hair dyes do not apply.	복슬복슬한 털, 상대방의 방심을 유도하는 귀여운 얼굴, 쫑긋 솟은 두 개의 귀를 가진 달 토끼 헬멧 코스튬입니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.{nl}염색약의 색상이 적용되지 않습니다.		
+ITEM_20181005_019675	Green Dumpling Helmet	쑥송편 헬멧 코스튬		
+ITEM_20181005_019676	A sweet dumpling featuring an aromatic herb filling.	풍성한 한가위의 쑥송편 입니다.		
+ITEM_20181005_019677	Moon Rabbit Costume	달 토끼 코스튬		
+ITEM_20181005_019678	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Exchange Shop.	복슬복슬한 털, 적당히 튀어나온 배, 너무나 귀여운 달 토끼로 변신할 수 있는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
+ITEM_20181005_019679	Royal Envoy Costume (Male)	암행어사 예복(남)		
+ITEM_20181005_019680	Undercover envoys of the royal court were special agents who scoured the Kingdom looking for outlaws and troublemakers.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사가 특별한 행사가 있을 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
+ITEM_20181005_019681	Royal Envoy Costume (Female)	암행어사 예복(여)		
+ITEM_20181005_019682	Court Scholar Costume (Male)	장원급제 별감복(남)		
+ITEM_20181005_019683	Becoming a royal scholar was no easy task: only the Kingdom's brightest minds were allowed to serve in the court.{nl}Can be exchanged for medals at the Exchange Shop.	장권급제 후 입궁할 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
+ITEM_20181005_019684	Court Scholar Costume (Female)	장원급제 별감복(여)		
+ITEM_20181005_019685	Black Ceremonial Robes (Male)	어사 흑단령(남)		
+ITEM_20181005_019686	These robes were worn by undercover royal envoys to carry out top-secret missions.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사가 비밀 임무를 맡을 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
+ITEM_20181005_019687	Black Ceremonial Robes (Female)	어사 흑단령(여)		
+ITEM_20181005_019688	Horse Medal	마패		
+ITEM_20181005_019689	This medal was used by undercover envoys to reveal their identity to higher officials and request aid for their missions. Now, it has been reimagined as a hair accessory.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사의 증표인 마패를 본뜬 헤어 액세서리입니다. 암행어사가 된 기분을 느낄 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
+ITEM_20181005_019690	Satgat Hat	삿갓		
+ITEM_20181005_019691	This style of hat was used to avoid the harsh sunlight on long trips to other regions.{nl}Can be exchanged for medals at the Exchange Shop.	여행을 떠날 때 머리에 쏟아지는 따가운 햇빛을 가릴 수 있는 기능성 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
+ITEM_20181005_019692	Black Gat Hat	흑립		
+ITEM_20181005_019693	Those of the noble classes commonly wore this style of hat when walking or riding outside in the sun.{nl}Can be exchanged for medals at the Exchange Shop.	일정 계급 이상의 신분을 가진 사람이 바깥출입을 할 때 착용하는 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
+ITEM_20181005_019694	Wooden Pane Shield	세살문 실드		
+ITEM_20181005_019695	Horse Medal Shield	마패 실드		
+ITEM_20181005_019696	Moon Rabbit Cannon	달 토끼 캐논		
+ITEM_20181005_019697	Cannon [Appearance]	캐논[외형 변경 전용]		
+ITEM_20181005_019698	Moon Rabbit Staff	달 토끼 스태프		
+ITEM_20181005_019699	Dumpling Rod	이색 송편 로드		
+ITEM_20181005_019700	Brush Stroke Spear	일필휘지 스피어		
+ITEM_20181005_019701	One-handed Spear [Appearance]	한손창[외형 변경 전용]		
+ITEM_20181005_019702	Scimitar of Glory	일기당천 언월도		
+ITEM_20181005_019703	Two-handed Spear [Appearance]	양손창[외형 변경 전용]		
+ITEM_20181005_019704	Wooden Stick Mace	윷가락 메이스		
+ITEM_20181005_019705	Apricot Blossom Crossbow	홍매화 크로스보우		
+ITEM_20181005_019706	Crossbow [Appearance]	쇠뇌[외형 변경 전용]		
+ITEM_20181005_019707	Roof Tile Dagger	기와지붕 대거		
+ITEM_20181005_019708	Dagger [Appearance]	단검[외형 변경 전용]		
+ITEM_20181005_019709	Moon Rabbit Kite	달 토끼 방패연		
+ITEM_20181005_019710	This kite features a cute illustration of the Moon Rabbit.{nl}Can be exchanged for medals at the Exchange Shop.	귀여운 달 토끼가 그려진 방패연입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
+ITEM_20181005_019711	Moon Rabbit Balloon	둥실둥실 달 토끼		
+ITEM_20181005_019712	It's the Moon Rabbit! Look at it float!{nl}Can be exchanged for medals at the Exchange Shop.	둥실둥실 귀여운 달 토끼 얼굴 풍선입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
+ITEM_20181005_019713	Knapsack	괴나리봇짐		
+ITEM_20181005_019714	Back Costume	등 코스튬		
+ITEM_20181005_019715	There's nowhere you can't go with a pair of straw shoes and your trusty knapsack.	짚신 한 짝과 봇짐이 함께라면 어디로든 갈 수 있습니다.		
+ITEM_20181005_019716	Royal Envoy Scrolls	진심이 담긴 상소문		
+ITEM_20181005_019717	A stack of scrolls filled with reports from a royal envoy of the Kingdom.	나라를 생각하는 신하들이 왕에게 진심을 담은 글 뭉치입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
+ITEM_20181005_019718	Top Secret Royal Scrolls	사심이 담긴 상소문		
+ITEM_20181005_019719	A stack of scrolls filled with top-secret reports from a royal envoy of the Kingdom.	사심이 듬뿍 담긴 상소문. 어떤 사심일까?		
+ITEM_20181005_019720	Moon Rabbits Pounding Rice	방아 찧는 달 토끼		
+ITEM_20181005_019721	Displays an image of Moon Rabbits pounding rice on the ground every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	착용자가 점프 시 달 토끼가 방아 찧는 모습을 볼 수 있는 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.		
+ITEM_20181005_019722	Royal Envoy Horse Stamp	암행어사 출도야		
+ITEM_20181005_019723	Displays an image of the old horse medals used by undercover royal envoys every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	최신 문물을 활용할 줄 아는 암행어사라면 점프 시 암행어사 마패 이펙트로 자신을 증명합니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.		
+ITEM_20181005_019724	Blossoms in the Wind	흩날리는 벚꽃		
+ITEM_20181005_019725	Be surrounded by delicate cherry blossoms flowing in the wind.{nl}Can be exchanged for medals at the Exchange Shop.	착용 시 로맨틱한 분위기를 만들 수 있도록 착용자의 주변에 벚꽃이 흩날리는 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.		
+ITEM_20181005_019726	Goddess' Blessed Cube x20 +2 Box	축복받은 여신의 큐브x20 +2 상자		
+ITEM_20181005_019727	Use to obtain two Goddess' Blessed Cube x10 +1.	사용 시 축복받은 여신의 큐브 x10 + 1 아이템을 2개 획득할 수 있습니다.		
+ITEM_20181005_019728	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes (will be deleted at the end of the event period).	다채로운 재료를 넣어 열심히 만든 송편입니다. 만드는 과정이 조금 특이해 보였지만, 맛은 보장되어 있습니다. {nl} 이동속도 +2, 최대 HP +5000, 최대 SP +5000가 15분간 상승합니다. (10월 4일 일괄 삭제됩니다.)	ITEM_20161005_012107	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes.
+ITEM_20181005_019729	Fire it up and enjoy with your party.{nl}Grants 60 minutes of +2 movement speed and +50% EXP gains to all party members.	폭죽을 터트려 즐거운 기운을 느껴보세요.{nl}사용 시 60분 동안 파티원 전체의 이동속도 +2, 경험치 50% 증가의 효과를 줍니다.		
+ITEM_20181005_019730	Full Moon Fragment	보름달 조각		
+ITEM_20181005_019731	Event item. Bring it to the corresponding NPC to participate in the event.{nl}Will be deleted at the end of the event.	보름달 이벤트 아이템입니다. NPC에게 전달해 이벤트에 참여하실 수 있습니다.{nl} 10월 4일 점검 시, 일괄 삭제됩니다.		
+ITEM_20181005_019732	Title - Waiting for a Full Moon	칭호 - 달아 달아 밝은 달아		
+ITEM_20181005_019733	Title box awarded for the Out Comes the Full Moon event.	보름달 키우기 대작전에서 선물하는 칭호 상자 입니다.		

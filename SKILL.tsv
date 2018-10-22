@@ -5241,7 +5241,7 @@ SKILL_20150918_005240	Increases the monster's physical Ataque converted with [Co
 SKILL_20150918_005241	Conviction: Aprimorar
 SKILL_20150918_005242	Aumenta o dano causado com [Conviction] em 1% por nível de atributo.
 SKILL_20150918_005243	Enemies hit by [Hand Knife] have a 40% chance to be afflicted with [Armor Break] for 7 segundos. Increases the chance by 10% per attribute level from Lv2. 
-SKILL_20150918_005244	Lv. 3 of Swell Left Arm: Aprimorar required
+SKILL_20150918_005244	Lv. 3 of Swell Left Arm required
 SKILL_20151001_005245	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Raises your sword and smashes the area around the center of the body. Deals Dano Adicional on medium and large-type enemies according to how much their defense has been decreased by Skull Swing.
 SKILL_20151001_005246	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Release a strong Ataque on enemies by spinning your body. Increases your critical rate when the Ataque lands and deals Dano Adicional to a stunned enemy.
 SKILL_20151001_005247	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Chance de Crítico: +50{nl}Taxa de Ataque em Área: #{SkillSR}#
@@ -12541,3 +12541,5 @@ SKILL_20180903_012537	Attack: #{SkillFactor}#% x 4{nl}Max Charge Time: 3 seconds
 SKILL_20180903_012538	* Increases duration of all debuffs you applied to enemies by 1 sec per attribute level when they are affected by the [Warcry] debuff{nl}* Duration increase reduced to 1/3 in PvP{nl}* Increases SP consumption by 10%
 SKILL_20180914_012539	{#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical energy to launch it towards an enemy.	{#993399}{ol}[마법]{/}{/}{nl}강력한 마법 에너지를 모아 적에게 발사합니다.	SKILL_20150414_003674	{#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical energy to launch it towards an enemy. Increases the inflicted damage depending on the amount of gathered energy.	{#993399}{ol}[마법]{/}{/}{nl}강력한 마법 에너지를 모아 적에게 발사합니다. 에너지를 모은 량에 비례하여 피해량도 증가합니다.
 SKILL_20180914_012540	Steed Charge: Remove Knockback
+SKILL_20181005_012541	Moon Rabbit	달 토끼			
+SKILL_20181005_012542	You are beginning to feel festive.	즐거운 기운이 몸을 감싸고 있습니다.	SKILL_20170609_009489	The power of the firecracker has spread to all party members.	연인을 축하하는 파티 폭죽의 힘이 공유되고 있습니다.
