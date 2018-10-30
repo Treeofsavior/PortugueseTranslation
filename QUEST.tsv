@@ -10339,10 +10339,70 @@ QUEST_20180827_010457	Few demons survived. Many members of the Schaffenstar were
 QUEST_20180827_010458	Do you want to move to the next area?	다음 지역으로 이동 하시겠습니까?				포탈	
 QUEST_20180827_010459	The lantern looks like it can be turned on. Light it?	등불에 불을 붙일 수 있을 것 같습니다. 불을 켜시겠습니까?				등불	
 QUEST_20180827_010460	The lantern is turned on. Turn it off?	등불에 불이 붙어 있습니다. 불을 끄시겠습니까?				등불	
-QUEST_20180827_010461	Lanko Lake (Nv Recomendado: 330){nl}Somente você e os membros do grupo podem entrar juntos. {nl} Deseja entrar?	란코 호수 던전(권장레벨:330)으로, 당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.{nl}입장하시겠습니까?				첫 번째 피난처	
-QUEST_20181005_010462	Evento - Kupole Ajudante
-QUEST_20181005_010463	Você recebeu todas as recompensas de hoje.{nl}Volte amanhã!
-QUEST_20181005_010464	Você já recebeu todas as recompensas.{nl}Obrigado por participar!
-QUEST_20181005_010465	Kupole da Lua Cheia
-QUEST_20181005_010466	Hoje tem lua cheia! Faça um pedido...!{nl}Lembre-se, você pode participar no evento diário e{nl}no desafio de criar lua, uma vez por dia.
-QUEST_20181005_010467	Deseja me entregar seus Full Moon Fragments?{nl}Lembre-se, você pode participar deste desafio somente uma vez por dia.
+QUEST_20180827_010461	Lanko Lake (Nv Recomendado: 330){nl}Somente você e os membros do grupo podem entrar juntos. {nl} Deseja entrar?
+QUEST_20181017_010462	Kupole Daina
+QUEST_20181017_010463	Você já recebeu todas as 10 recompensas.
+QUEST_20181017_010464	Estou aqui para entregar um presente da Deusa Vakarine,{nl}um desejo de boa sorte na batalha implacável.{nl}Agora, escolha um número entre 1 e 10, um que ainda não escolheu.
+QUEST_20181017_010465	Escolha um número entre 1 e 10.
+QUEST_20181017_010466	Contagem Total x10 Recompensas
+QUEST_20181017_010467	 — deseja receber a recompensa agora?
+QUEST_20181017_010468	Kupole Ajudante do Evento
+QUEST_20181017_010469	Você recebeu todas as recompensas de hoje.{nl}Volte amanhã.
+QUEST_20181017_010470	Você já recebeu todas as recompensas disponíveis.{nl}Obrigado por participar!
+QUEST_20181017_010471	Kupole da Lua Cheia
+QUEST_20181017_010472	A lua cheia está visível esta noite! Faça um pedido...!{nl}Lembre-se, você pode participar tanto no evento diário{nl}quanto juntar-se ao Desafio da Lua Crescente,{nl} mas não os dois ao mesmo tempo.
+QUEST_20181017_010473	Deseja entregar seus Full Moon Fragments para o ranking?{nl}Lembre-se, você pode participar do Desafio uma vez por dia.
+QUEST_20181017_010474	Kupole Ajudante do Balanceamento
+QUEST_20181017_010475	We are distributing reset items to characters of the following classes.{nl}Sorcerer, 	다음과 같은 클래스로 전직하셨던 분들에게 초기화 아이템을 지원해드리고 있어요.{nl}소서러, 네크로맨서, 인퀴지터 : 랭크 초기화권 (14일) 2개, 스탯 초기화 포션(14일) 2개{nl}캐터프랙트, 도펠죌트너, 팔라딘, 캐노니어, 바바리안 : 스킬 초기화 포션 (14일) 2개, 특성 초기화 포션 (14일) 2개{nl}플레이그닥터 : 스탯 초기화 포션(14일) 2개				밸런스 초기화 지원 도우미
+QUEST_20181017_010476	IMPORTANT: Even if you have advanced into more than one of these classes, you can only receive one set of corresponding reset items.{nl}Example 1) Sorcerer + Necromancer: Rank Reset Voucher (14 Days) x2, Stat Reset Potion (14 Days) x2{nl}Example 2) Paladin + Plague Doctor: Skill Reset Potion (14 Days) x2, Attribute Reset Potion (14 Days) x2, Stat Reset Potion (14 Days) x2	주의 : 전직하신 클래스 중 대상 클래스를 둘 이상 보유 중이셔도 각 아이템은 1회만 지급됩니다.{nl}예시1) 소서러, 네크로맨서를 둘 다 보유하신 경우, 랭크 초기화권 (14일) 2개, 스탯 초기화 포션(14일) 2개{nl}예시2) 팔라딘, 플레이그닥터 둘 다 보유하신 경우, 스킬 초기화 포션 (14일) 2개, 특성 초기화 포션 (14일) {nl}2개, 스탯 초기화 포션(14일) 2개				밸런스 초기화 지원 도우미
+QUEST_20181017_010477	We have sent you the following items.{nl}Rank Reset Voucher (14 Days) x2{nl}Stat Reset Potion (14 Days) x2	다음 아이템을 지원해드렸습니다.{nl}랭크 초기화권 (14일) 2개{nl} 스탯 초기화 포션 (14일) 2개				밸런스 초기화 지원 도우미
+QUEST_20181017_010478	We have sent you the following items.{nl}Skill Reset Potion (14 Days) x2{nl}Attribute Reset Potion (14 Days) x2	다음 아이템을 지원해드렸습니다.{nl}스킬 초기화 포션 (14일) 2개{nl}특성 초기화 포션 (14일) 2개				밸런스 초기화 지원 도우미
+QUEST_20181017_010479	We have sent you the following items.{nl}Skill Reset Potion (14 Days) x2{nl}Attribute Reset Potion (14 Days) x2{nl}Stat Reset Potion (14 Days) x2	다음 아이템을 지원해드렸습니다.{nl}스킬 초기화 포션 (14일) 2개{nl}특성 초기화 포션 (14일) 2개{nl}스탯 초기화 포션 (14일) 2개				밸런스 초기화 지원 도우미
+QUEST_20181017_010480	We have sent you the following items.{nl}Stat Reset Potion (14 Days) x2	다음 아이템을 지원해드렸습니다.{nl}스탯 초기화 포션(14일) 2개				밸런스 초기화 지원 도우미
+QUEST_20181017_010481	One moment. I'll just have a look at the surveillance orb.{nl}Hm, the requesting parties will have to see for themselves, but as far as I'm concerned, there's nothing suspicious here.	잠시만요, 감시 구슬을 살펴볼게요.{nl}감시 구슬은 의뢰인들이 한번 더 보고 판단을 하겠지만, 제가 봤을 때는 별다른 의심 행동은 하지 않으셨네요.	QUEST_20171128_006606	One moment.{nl}I'll just have a look at the surveillance orb.{nl}Hm, the requesting parties will have to see for themselves, but as far as I'm concerned, there's nothing suspicious here.	잠시만요.{nl}감시 구슬을 살펴볼게요.{nl}감시 구슬은 의뢰들이 한번 더 보고 판단을 하겠지만, 제가 봤을 때는 별다른 의심 행동은 하지 않으셨네요.	의뢰소장 로타
+QUEST_20181017_010482	Everyone suspects a criminal.{nl}If word gets out about my crimes, I could lose my place here and get deported from the town.	다들 범죄자를 먼저 의심을 하죠.{nl}그런데다 제 범죄기록까지 마을 사람들에게 퍼지면 전 일자리도 잃고 마을에서 쫓겨나게 되죠.	QUEST_20180827_010196	Everyone suspects a criminal.{nl}If word gets out about my crimes, I could lose my place here and get deported from the town.	다들 범죄자를 먼저 의심을 하죠.{nl}그런데다 제 범죄기록까지 마을 사람들에게 퍼지면 전 일 자리도 잃고 마을에서 쫓겨나게 되죠.	약재사
+QUEST_20181017_010483	A condensed magic orb has appeared.{nl}If caught by a magic circle, it will explode and deal damage all around.	응축된 마력 보주가 생겼습니다.{nl}폭주하는 마법진에 마력 보주가 빨려 들어가면 마력 폭발로 주변에 치명적인 대미지를 입힙니다.				PC
+QUEST_20181017_010484	There is much to gather yet.{nl}But I faith in you.{nl}	아직 더 모아야 할 것이 많을걸세.{nl}하지만 자네들이라면 분명 해낼 거라고 믿네.{nl}	QUEST_20180827_010271	There is much to gather yet.{nl}But I faith in you.{nl}	아직 더 모아야할 것이 많을걸세.{nl}하지만 자네들이라면 분명 해낼 거라고 믿네.{nl}	장로 아다욱스
+QUEST_20181017_010485	Hahahah, you call that an attack?{nl}I feel sorry for you, Commander, underestimating me with an attack like that.{nl}	하하하, 그걸 고작 공격이라고 했단 말이냐!{nl}저항군의 총사령관이라는 녀석이 그딴 공격으로 나를 넘보다니 참으로 한심하군.{nl}	QUEST_20180827_010282	Hahahah, you call that an attack?{nl}I feel sorry for you, Commander, underestimating me with an attack like that.{nl}	하하하, 그걸 고작 공격이라고 했단 말이냐!{nl}저항군의 총사령관이라는 녀석이 그 딴 공격으로 나를 넘보다니 참으로 한심하군.{nl}	샤펜스타 단장 이그나스
+QUEST_20181017_010486	At last, the day for which I have waited for over a thousand years is near.{nl}Soon I will come to you; not as an apparition or a mere image, but as my true self.{nl}	처음 예지의 날로부터 천년이 넘은 저의 기다림도 이제 그 끝을 보이고 있습니다.{nl}환영과 잔상이 아닌 우리가 실체로서 만날 날이 멀지 않았습니다.{nl}	QUEST_20180827_010288	At last, the day for which I have waited for over a thousand years is near.{nl}Soon I will come to you; not as an apparition or a mere image, but as my true self.{nl}	처음 예지의 날로부터 천년이 넘은 저의 기다림도 이제 그 끝을 보이고 있습니다.{nl}환영과 잔상이 아닌 우리가 실체로서 만날 날이 머지 않았습니다.{nl}	여신 라이마
+QUEST_20181017_010487	{nl}Would you have another look at the machines?{nl}I don't think I should do it myself.{nl}I'll stay behind if you need me.	{nl}계시자님께서 장치들을 한번 살펴봐 주시겠습니까?{nl}제가 함부로 살펴봐서는 안 될 것 같군요.{nl}저는 밑에서 지켜보고 있겠습니다.	QUEST_20180320_007810	{nl}Would you have another look at the machines?{nl}I don't think I should do it myself.{nl}I'll stay behind if you need me.	{nl}계시자님께서 장치들을 한번 살펴봐야 주시겠습니까?{nl}제가 함부로 살펴봐서는 안 될 것 같군요.{nl}저는 밑에서 지켜보고 있겠습니다.	저항군 부관 르온
+QUEST_20181017_010488	Morvio, you know I don't have enough arrows.{nl}And we don't even know who this girl is, how are we going to believe her?	모르비오님도 아시다시피 제작된 화살의 수량이 넉넉하지 못합니다.{nl}게다가 신원도 확인되지 않은 소녀의 말을 믿기엔..	QUEST_20180320_007838	Morvio, you know I don't have enough arrows.{nl}And we don't even know who this girl is, how are we going to believe her?	모르비오님도 아시다시피 제작된 화살의 수량이 넉넉하지 못합니다.{nl}게다가 신원도 확인되지 않는 소녀의 말을 믿기엔..	플레처 볼레타
+QUEST_20181017_010489	All cleared — congratulations!{nl}Returning soon.	올 클리어를 축하드립니다.{nl}기존 존으로 돌아갑니다.	QUEST_20180517_009652	Returning to the previous map.{nl}Please check clear time.	원래 존으로 돌아갑니다.{nl}클리어 시간을 확인하세요.	알림
+QUEST_20181017_010490	You already completed this region.	이미 완료한 지역입니다.				이벤트 알림판
+QUEST_20181017_010491	Magic Research Facility	마법 실험 구역				
+QUEST_20181017_010492	Magic Research Facility (Recommended Lv: 380){nl}Only you and your party members can enter together.{nl}Do you want to enter?	마법 실험 구역(권장레벨:380)으로, 당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.{nl}입장하시겠습니까?				마법 실험 구역
+QUEST_20181017_010493	Asiomage Testing Grounds (Recommended Lv: 380){nl}Only you and your party members can enter together.{nl}Do you want to enter?	아시오 메이지의 실험실(권장레벨:380)으로, 당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.{nl}입장하시겠습니까?				아우드로네
+QUEST_20181017_010494	Lanko Lake Dungeon Portal Open	란코 호수 던전 포탈 오픈				
+QUEST_20181017_010495	A portal to the other side of the river has opened.	강 건너로 이동할 수 있는 포탈이 열렸습니다.				란코 호수 던전 포탈 오픈
+QUEST_20181017_010496	Nicopolis Raid Message 1	니코폴리스 레이드 메시지1				
+QUEST_20181017_010497	The gate that was blocking the way is now open.	앞을 가로막고 있던 문이 열렸다.				니코폴리스 레이드 메시지1
+QUEST_20181017_010498	Nicopolis Raid Message 2	니코폴리스 레이드 메시지2				
+QUEST_20181017_010499	You need a key.	열쇠가 필요하다.				니코폴리스 레이드 메시지2
+QUEST_20181017_010500	Nicopolis Raid Message 3	니코폴리스 레이드 메시지3				
+QUEST_20181017_010501	The magic circle that was blocking the way has disappeared.	앞을 가로막고 있던 마법진이 사라졌다.				니코폴리스 레이드 메시지3
+QUEST_20181017_010502	Nicopolis Raid Message 4	니코폴리스 레이드 메시지4				
+QUEST_20181017_010503	Corrupted magic is exuding from the mana devices.	마나 장치에서 변질된 마력이 흘러나오고 있다.				니코폴리스 레이드 메시지4
+QUEST_20181017_010504	Nicopolis Raid Message 5	니코폴리스 레이드 메시지5				
+QUEST_20181017_010505	A large gate is blocking the way. You need to open it to proceed.	길을 막고있는 거대한 문이 보인다. 문을 열어야 앞으로 나아갈 수 있을 것 같다.				니코폴리스 레이드 메시지5
+QUEST_20181017_010506	Nicopolis Raid Message 6	니코폴리스 레이드 메시지6				
+QUEST_20181017_010507	There's a key inside the mana crystal. Destroy the crystal.	마나 조형물 내부에 열쇠가 보인다. 마나 조형물을 파괴하자				니코폴리스 레이드 메시지6
+QUEST_20181017_010508	Nicopolis Raid Message 7	니코폴리스 레이드 메시지7				
+QUEST_20181017_010509	The magic force of the Slime Gemini monsters is blocking the way. Defeat the Slime Gemini.	슬라임 제미니의 마력으로 인해 앞으로 나아갈 수 없다. 슬라임 제미니를 처치하자.				니코폴리스 레이드 메시지7
+QUEST_20181017_010510	Nicopolis Raid Message 8	니코폴리스 레이드 메시지8				
+QUEST_20181017_010511	The Slime Wizard carrying the key is trying to escape by summoning clones. Find the original Slime Wizard and defeat it.	열쇠를 가지고 있던 슬라임 위저드가 분신을 소환하고 도망쳤다. 열쇠를 가지고 있던 슬라임 위저드를 찾아 처치하자.				니코폴리스 레이드 메시지8
+QUEST_20181017_010512	Nicopolis Raid Message 9	니코폴리스 레이드 메시지9				
+QUEST_20181017_010513	The Slime Wizard has the key.	슬라임 위저드가 열쇠를 가지고 있다.				니코폴리스 레이드 메시지9
+QUEST_20181017_010514	Nicopolis Raid Message 10	니코폴리스 레이드 메시지10				
+QUEST_20181017_010515	Five burners have appeared. A faint but powerful magic energy is felt coming from them.	5개의 향로가 보인다. 향로에서 미세하지만 강력한 마력이 흩어지는 것이 보인다.				니코폴리스 레이드 메시지10
+QUEST_20181017_010516	Nicopolis Raid Message 11	니코폴리스 레이드 메시지11				
+QUEST_20181017_010517	The lamp is protecting the mana that's being released.	마나 램프의 효과로 대기중으로 빠져가나는 마나가 보호되는 것을 느낌다.				니코폴리스 레이드 메시지11
+QUEST_20181017_010518	Nicopolis Resident	니코폴리스 주민				
+QUEST_20181017_010519	Savior, help us!!	구원자님 저희 좀 도와주세요!!.				니코폴리스 주민
+QUEST_20181017_010520	We've found the den of a vicious demon named "Asiomage"".	"아시오 메이지"라는 아주 악랄한 마족의 소굴을 발견했습니다.하지만,				니코폴리스 주민
+QUEST_20181017_010521	However, we can't face him on our own. This demon is going to try and destroy all of humanity.{nl}Please, stop the Asiomage before he becomes too powerful!	저희 힘으로는 도저히 감당해 낼 수가 없습니다. 이대로 놔둔다면, 필시 힘을 길러 모든 인간을 죽이려고 할 겁니다.{nl} 아시오 메이지의 힘이 더 커지기 전에 막아주세요!!				니코폴리스 주민
+QUEST_20181017_010522	Novaha Unique Raid Message 2	노바하 유니크 레이드 메시지2				
+QUEST_20181017_010523	The monsters have found the intruder and are starting to attack.{nl}Defeat the monsters within the time limit and enter the testing grounds.	침입자를 발견하여 몬스터들이 몰려오고 있습니다.{nl}제한 시간안에 몬스터를 처치하고 실험실 안쪽으로 들어가보자.				노바하 유니크 레이드 메시지2
+QUEST_20181026_010524	Ajudante de Halloween
+QUEST_20181026_010525	Ooooh! É a temporada assustadora!!{nl}O que será deste Halloween?
+QUEST_20181026_010526	Totalizador de Recompensas
+QUEST_20181026_010527	 não pode ser recebido.
