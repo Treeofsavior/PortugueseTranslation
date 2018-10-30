@@ -996,7 +996,7 @@ UI_20150317_000995	{@St41b}Sair do Jogo{/}
 UI_20150317_000996	{@St59}Sair do Tree of Savior{/}
 UI_20150317_000997	{@st41b}Selecione o Canal{/}
 UI_20150317_000998	{@st43}Entrar{/}
-UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v9.3{/}
+UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v9.5{/}
 UI_20150317_001000	{@St43}{s26}Nome do Time{/}
 UI_20150317_001001	{@st59}Nome do Time{/}
 UI_20150317_001002	{@st41b}Mudar nome do time{/}
@@ -3288,7 +3288,7 @@ UI_20180629_003287	Mysterious Magnifier
 UI_20180629_003288	{@st66}{s18}Consome Mysterious Magnifier x%s.
 UI_20180629_003289	{@st43}Cube List{/}
 UI_20180629_003290	Quantidade
-UI_20180629_003291	{@st41b}{s16}{nl}Add to Cart
+UI_20180629_003291	{@st41b}{s16}{nl}Adicionar
 UI_20180629_003292	{s22}%s defeated
 UI_20180629_003293	{s22}%s points
 UI_20180629_003294	{s26}%s Badges
@@ -3480,3 +3480,103 @@ UI_20180827_003479	{#8e0000}[%s%s]{/} {#8e0000}x[%s]{/}	{#8e0000}[%s%s]{/}
 UI_20180827_003480	1 dia, 23 horas		
 UI_20180827_003481	Não-Trocável
 UI_20180827_003482	{@st42b}{s16}Preview{/}
+UI_20181017_003483	{@st43}Teste os itens temáticos	{@st43}테마 상품 입어보기				
+UI_20181017_003484	Insira o equipamento para o qual você deseja alterar a aparência.	외형을 변경할 장비를 올려주세요.				
+UI_20181017_003485	{@st68}{s16}Lista{/}	{@st68}{s16}목록{/}				
+UI_20181017_003486	{@st41b}Apagar	{@st41b}삭제	ETC_20150317_001649	Delete	삭제	
+UI_20181017_003487	{@st59}Equipamento{/}	{@st59}장비{/}				
+UI_20181017_003488	{@st66b}Aparência{/}	{@st66b}외형{/}				
+UI_20181017_003489	{@st59}Aparência{/}	{@st59}외형{/}				
+UI_20181017_003490	{@st59}Tintura{/}	{@st59}염색{/}				
+UI_20181017_003491	{@st59}Ver Todos{/}	{@st59}모두 보기{/}				
+UI_20181017_003492	{@st59}Consumíveis{/}	{@st59}소비{/}				
+UI_20181017_003493	{@st59}Receitas{/}	{@st59}제작서{/}				
+UI_20181017_003494	{@st59}Cartas{/}	{@st59}카드{/}				
+UI_20181017_003495	{@st59}Materiais{/}	{@st59}재료{/}				
+UI_20181017_003496	{@st59}Gemas{/}	{@st59}젬{/}				
+UI_20181017_003497	{@st59}Premium{/}	{@st59}프리미엄{/}				
+UI_20181017_003498	{@st59}Opção de filtro ON/OFF{/}	{@st59}아이템 필터 옵션 켜기/끄기{/}				
+UI_20181017_003499	{@st41b}Stage %s	{@st41b}%s단계				
+UI_20181017_003500	{@st43}Opções de Inventário{/}	{@st43}인벤토리 옵션{/}				
+UI_20181017_003501	{@st43b}{s18}Raridade do Equipamento{/}	{@st43b}{s18}장비 등급{/}				
+UI_20181017_003502	{@st43b}{s18}Tipo do Equipamento{/}	{@st43b}{s18}장비 타입{/}				
+UI_20181017_003503	{@st43b}{s18}Grupo de Cartas{/}	{@st43b}{s18}카드 그룹{/}				
+UI_20181017_003504	{@st43b}{s18}Tipo de Material{/}	{@st43b}{s18}재료 종류{/}				
+UI_20181017_003505	{@st43b}{s18}Grupo de Gemas{/}	{@st43b}{s18}젬 그룹{/}				
+UI_20181017_003506	{@st66b}Todos Grades{/}	{@st66b}모든 등급{/}				
+UI_20181017_003507	{@st66b}Normal{/}	{@st66b}일반{/}				
+UI_20181017_003508	{@st66b}Magic{/}	{@st66b}매직{/}				
+UI_20181017_003509	{@st66b}Rare{/}	{@st66b}레어{/}				
+UI_20181017_003510	{@st66b}Unique{/}	{@st66b}유니크{/}				
+UI_20181017_003511	{@st66b}Legend{/}	{@st66b}레전드{/}				
+UI_20181017_003512	{@st66b}Mostrar só itens Aprimorados/Transcendidos{/}	{@st66b}강화, 초월된 장비만 보기{/}				
+UI_20181017_003513	{@st66b}Mostrar apenas itens Não-Identificados{/}	{@st66b}미감정 장비만 보기{/}				
+UI_20181017_003514	{@st66b}Todas as Cartas{/}	{@st66b}모든 카드{/}				
+UI_20181017_003515	{@st66b}Cartas Vermelhas{/}	{@st66b}레드 카드{/}				
+UI_20181017_003516	{@st66b}Cartas Azuis{/}	{@st66b}블루 카드{/}				
+UI_20181017_003517	{@st66b}Cartas Verdes{/}	{@st66b}그린 카드{/}				
+UI_20181017_003518	{@st66b}Cartas Roxas{/}	{@st66b}퍼플 카드{/}				
+UI_20181017_003519	{@st66b}Cartas Lendárias{/}	{@st66b}레전드 카드{/}				
+UI_20181017_003520	{@st66b}Outras Cartas{/}	{@st66b}기타 카드{/}				
+UI_20181017_003521	{@st66b}Todos os Tipos{/}	{@st66b}모든 종류{/}				
+UI_20181017_003522	{@st66b}Quest{/}	{@st66b}퀘스트{/}				
+UI_20181017_003523	{@st66b}Outros{/}	{@st66b}기타{/}				
+UI_20181017_003524	{@st66b}Coleção{/}	{@st66b}컬렉션{/}				
+UI_20181017_003525	{@st66b}Para Equipamento{/}	{@st66b}장비 성장{/}				
+UI_20181017_003526	{@st66b}Minérios{/}	{@st66b}광물{/}				
+UI_20181017_003527	{@st66b}Todas as Gemas{/}	{@st66b}모든 젬{/}				
+UI_20181017_003528	{@st66b}Gemas Vermelhas{/}	{@st66b}레드 젬{/}				
+UI_20181017_003529	{@st66b}Gemas Azuis{/}	{@st66b}블루 젬{/}				
+UI_20181017_003530	{@st66b}Gemas Amarelas{/}	{@st66b}옐로우 젬{/}				
+UI_20181017_003531	{@st66b}Gemas Verdes{/}	{@st66b}그린 젬{/}				
+UI_20181017_003532	{@st66b}Gemas Brancas{/}	{@st66b}화이트 젬{/}				
+UI_20181017_003533	{@st66b}Gemas de Monstro{/}	{@st66b}몬스터 젬{/}				
+UI_20181017_003534	Resetar	리셋				
+UI_20181017_003535	{@st43}Retornar	{@st43}뒤로가기				
+UI_20181017_003536	{@st43}Recomçar	{@st43}다시하기				
+UI_20181017_003537	{@st59}Fechar{/}	{@st59}검색 옵션 창을 닫습니다{/}				
+UI_20181017_003538	Salve suas opções de pesquisa de categoria atual. {Nl} As opções não especificadas não serão salvas.	현재 카테고리 검색 옵션을 저장합니다.{nl}값을 입력하지 않은 설정들은 저장되지 않습니다.				
+UI_20181017_003539	Salvar Nome	저장 이름				
+UI_20181017_003540	{@st66d}Salvar: Opções	{@st66d}옵션 저장				
+UI_20181017_003541	{@st41d}Salvar	{@st41d}저장				
+UI_20181017_003542	Importar opções de categoria.	카테고리 옵션을 불러옵니다.				
+UI_20181017_003543	{@st66d}Opções de Importação	{@st66d}옵션 불러오기				
+UI_20181017_003544	Limite de Troca	거래 한도				
+UI_20181017_003545	Enchant Jewels	인챈트 쥬얼				
+UI_20181017_003546	Enchant Stats	인챈트 옵션 부여				
+UI_20181017_003547	{@st41b}{s18}Current Enchant Jewels: %s	{@st41b}{s18}현재 인챈트 쥬얼 보유 개수: %s개				
+UI_20181017_003548	{@st66}{s18}{b}Consumes %s Enchant Jewel(s).	{@st66}{s18}{b}인챈트 쥬얼 %s개가 소비됩니다.				
+UI_20181017_003549	{@st59}Set Main Class{/}	{@st59}대표 클래스 설정{/}				
+UI_20181017_003550	{@st59}Tackle Box (Alt + F){/}	{@st59}낚시 살림통 (Alt + F){/}				
+UI_20181017_003551	{@st59}Habilidades e Atributos (F3){/}	{@st59}스킬과 특성 (F3){/}				
+UI_20181017_003552	Used Items	사용 아이템				
+UI_20181017_003553	Título       %s	칭호       %s	UI_20150401_001453	Title: %s	칭호   %s	
+UI_20181017_003554	Recompensa       %s	보상       %s	UI_20150401_001454	Reward: %s	보상   %s	
+UI_20181017_003555	{@sti7}{s26}Encontre sua Classe	{@sti7}{s26}클래스 선택 가이드				
+UI_20181017_003556	{@st43b}Começar	{@st43b}시작				
+UI_20181017_003557	{@st43}{s15}1° Rank	{@st43}		
+UI_20181017_003558	{@st43}{s15}2° Rank	{@st43}			
+UI_20181017_003559	{@st43}{s15}3° Rank	{@st43}				
+UI_20181017_003560	Level Range	레벨 범위				
+UI_20181017_003561	Normal	노멀				
+UI_20181017_003562	Search Item	아이템 검색				
+UI_20181017_003563	Show only unidentified items	미감정 아이템만 보기				
+UI_20181017_003564	Hide unidentified items	미감정 아이템 제외해서 보기				
+UI_20181017_003565	Advanced Settings	세부 설정				
+UI_20181017_003566	Value	수치 범위				
+UI_20181017_003567	{@st66}{s16}Add Stat	{@st66}{s16}옵션 추가				
+UI_20181017_003568	Stat Group	옵션 그룹				
+UI_20181017_003569	{@st66}{s16}Save	{@st66}{s16}저장				
+UI_20181017_003570	Save search settings.	검색 설정을 저장합니다.				
+UI_20181017_003571	{@st66}{s16}Import	{@st66}{s16}불러오기				
+UI_20181017_003572	Import search settings.	검색 설정을 불러옵니다.				
+UI_20181017_003573	Reset search settings.	검색 설정을 초기화합니다.				
+UI_20181017_003574	Item Level	아이템 레벨				
+UI_20181017_003575	Roast Level	로스팅 레벨				
+UI_20181017_003576	Delete Stat	옵션 삭제				
+UI_20181017_003577	Settings Save Name	설정 저장 이름				
+UI_20181017_003578	Delete Settings	설정 삭제				
+UI_20181017_003579	Rank de Troca	거래 등급 안내				
+UI_20181017_003580	Character Lv %s	캐릭터 레벨 %s				
+UI_20181017_003581	Time com %s+ idade	팀 생성 %s일 이상				
+UI_20181017_003582	%s Revelações Obtidas	계시 %s개 획득				

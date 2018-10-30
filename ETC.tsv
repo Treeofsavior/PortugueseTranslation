@@ -2943,12 +2943,12 @@ ETC_20150317_002942	Esperando para entrar
 ETC_20150317_002943	Movendo
 ETC_20150317_002944	Game in progress
 ETC_20150317_002945	PvP Shop
-ETC_20150317_002946	Tamanho
-ETC_20150317_002947	Tipo de defesa
-ETC_20150317_002948	Atributo Elementar
-ETC_20150317_002949	Rating
-ETC_20150317_002950	Attack Attribute
-ETC_20150317_002951	Enable attack type
+ETC_20150317_002946	Tamanho 
+ETC_20150317_002947	Tipo de defesa 
+ETC_20150317_002948	Atributo Elementar 
+ETC_20150317_002949	Rating 
+ETC_20150317_002950	Attack Attribute 
+ETC_20150317_002951	Enable attack type 
 ETC_20150317_002952	Movimento
 ETC_20150317_002953	Pequeno
 ETC_20150317_002954	Médio
@@ -19828,9 +19828,9 @@ ETC_20151224_019822	Fetching Skill Usage data...
 ETC_20151224_019823	Fetching TP Usage data...
 ETC_20151224_019824	Data Read-in was exceeded, thus request was canceled. {nl} Please inquire management
 ETC_20151224_019825	Requested incorrect history information.{nl}Please inquire management.
-ETC_20151224_019826	You've exceeded the amount that you can list on the Market.
+ETC_20151224_019826	Você excedeu o limite que pode listar no Market.
 ETC_20151224_019827	Initialization Count
-ETC_20151224_019828	Would you like to use {TP} TP to buy a character slot?
+ETC_20151224_019828	Gostaria de usar {TP} TP para comprar um slot de personagem?
 ETC_20151224_019829	Charge TP
 ETC_20151224_019830	Nexon PC Internet Cafe
 ETC_20151224_019831	Taxa de mercado reduzida
@@ -26914,16 +26914,16 @@ ETC_20170313_026908	Matching Error Occurred
 ETC_20170313_026909	Saalus Convent Error
 ETC_20170313_026910	Item data different from DB data.
 ETC_20170313_026911	Resets the restrictions on the instanced dungeons and mercenary missions when used. Upon pick-up, use within 1 hour.
-ETC_20170313_026912	
+ETC_20170313_026912	Grants Token benefits to all your characters in the server for 1 hour. Right-click to use. Remaining time is displayed in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Enables 30 personal trades	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1시간 동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl} - 개인 거래 30회 가능				
 ETC_20170313_026913	Poção de Resetar Skills (14 Days)
-ETC_20170313_026914	
-ETC_20170313_026915	
-ETC_20170313_026916	
-ETC_20170313_026917	
+ETC_20170313_026914	Rocksodon Package
+ETC_20170313_026915	Right-click to use and obtain the following items:{nl} - 650 TP x1{nl} - Rocksodon Box x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 650 TP x1{nl} - 락스돈 상자 x1				
+ETC_20170313_026916	Item Package	구성 패키지				
+ETC_20170313_026917	Right-click to use and obtain the following items:{nl} - Honey Dumpling x30{nl} - Instanced Dungeon Reset Voucher x10	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 대왕 꿀송편 x30{nl} - 인스턴스 던전 입장 초기화권 x10				
 ETC_20170313_026918	Premium Instanced Dungeon Package
 ETC_20170313_026919	Right-click to use and acquire the following items.{nl}- Instanced Clear Voucher [{img star_mark 20 20}] x3{nl} - Instanced Dungeon Reset Voucher x1{nl} - EXP Tome x3
 ETC_20170313_026920	Kupole Server Savior Package
-ETC_20170313_026921	
+ETC_20170313_026921	Appraisers are a class that can identify unidentified items. In combat, Appraisers use their skills to evaluate both allies and enemies.	감정사는 미감정 아이템을 감정할 수 있는 클래스입니다. 전투에서는 아군이나 적을 평가하여 유리한 상황을 이끌어냅니다.				
 ETC_20170313_026922	Avaliador
 ETC_20170313_026923	NPC Hunting Grounds Entrada
 ETC_20170313_026924	Tree Root Crystal 1
@@ -32524,10 +32524,10 @@ ETC_20180420_032492	Estágio 5: Ataque dos Monstros
 ETC_20180420_032493	Objetivo: Derrote todos os Monstros.
 ETC_20180420_032494	Estágio 6: Ataque dos Monstros
 ETC_20180426_032495	Territory Wars Info Log
-ETC_20180426_032496	Spring Farmer Boy Costume Box (Male)
-ETC_20180426_032497	Right-click to open and obtain the following items.{nl}- Spring Farmer Boy Costume (Male) x1{nl}- Fruit Snack Basket x1
-ETC_20180426_032498	Spring Farmer Girl Costume Box (Female)
-ETC_20180426_032499	Right-click to open and obtain the following items.{nl}- Spring Farmer Girl Costume (Female) x1{nl}- Fruit Snack Basket x1
+ETC_20180426_032496	Spring Farmer Boy Costume Box (M)
+ETC_20180426_032497	Right-click to open and obtain the following items.{nl}- Spring Farmer Boy Costume (M) x1{nl}- Fruit Snack Basket x1
+ETC_20180426_032498	Spring Farmer Girl Costume Box (F)
+ETC_20180426_032499	Right-click to open and obtain the following items.{nl}- Spring Farmer Girl Costume (F) x1{nl}- Fruit Snack Basket x1
 ETC_20180426_032500	Stage 3: Derrote o Necroventer.
 ETC_20180426_032501	Stage 5: Derrote os monstros.
 ETC_20180503_032502	Null data bind. Please restart select loop or delete null data in database.
@@ -33175,15 +33175,15 @@ ETC_20180615_033139	Use to receive one of the following random items.{nl} - Klai
 ETC_20180615_033140	2018 Kickoff Double Pack
 ETC_20180615_033141	Use to obtain the following items.{nl} - 2018 Kickoff Cube x2{nl} - Captain Armband x1
 ETC_20180615_033142	Klaipeda Capricorns Selection Box
-ETC_20180615_033143	Use to select one of the following items.{nl} - Klaipeda Capricorns Uniform (Male) x1{nl} - Klaipeda Capricorns Uniform (Female)
+ETC_20180615_033143	Use to select one of the following items.{nl} - Klaipeda Capricorns Uniform (M) x1{nl} - Klaipeda Capricorns Uniform (F)
 ETC_20180615_033144	Orsha Lions Selection Box
-ETC_20180615_033145	Use to select one of the following items.{nl} - Orsha Capricorns Uniform (Male) x1{nl} - Orsha Capricorns Uniform (Female)
+ETC_20180615_033145	Use to select one of the following items.{nl} - Orsha Capricorns Uniform (M) x1{nl} - Orsha Capricorns Uniform (F)
 ETC_20180615_033146	Klaipeda Supporters Selection Box
-ETC_20180615_033147	Use to select one of the following items.{nl} - Klaipeda Supporters Uniform (Male) x1{nl} - Klaipeda Supporters Uniform (Female)
+ETC_20180615_033147	Use to select one of the following items.{nl} - Klaipeda Supporters Uniform (M) x1{nl} - Klaipeda Supporters Uniform (F)
 ETC_20180615_033148	Orsha Supporters Selection Box
-ETC_20180615_033149	Use to select one of the following items.{nl} - Orsha Supporters Uniform (Male) x1{nl} - Orsha Supporters Uniform (Female)
+ETC_20180615_033149	Use to select one of the following items.{nl} - Orsha Supporters Uniform (M) x1{nl} - Orsha Supporters Uniform (F)
 ETC_20180615_033150	Whistle Referee Selection Box
-ETC_20180615_033151	Use to select one of the following items.{nl} - Whistle Referee Costume (Male) x1{nl} - Whistle Referee Costume (Female)
+ETC_20180615_033151	Use to select one of the following items.{nl} - Whistle Referee Costume (M) x1{nl} - Whistle Referee Costume (F)
 ETC_20180615_033152	Cursed Red Anchor
 ETC_20180615_033153	Cursed Rocktor
 ETC_20180615_033154	Cursed Varle Helmsman
@@ -33460,9 +33460,9 @@ ETC_20180629_033424	Flowertree is the smartest plant in history. — Appraiser 
 ETC_20180629_033425	There is no way to tell the monsters from real scarecrows. We also don't know whether these demons are impersonating man-made scarecrows of if that is their original appearance. It could also be a mutated monster from this or another world.
 ETC_20180629_033426	Barber Shop Curtain
 ETC_20180629_033427	Boutique Curtain
-ETC_20180629_033428	2017 May Wedding Female NPC
+ETC_20180629_033428	2017 May Wedding F NPC
 ETC_20180629_033429	Bridal Bouquet
-ETC_20180629_033430	2018 Golden Fairy Wedding Female NPC
+ETC_20180629_033430	2018 Golden Fairy Wedding F NPC
 ETC_20180629_033431	Goalpost
 ETC_20180629_033432	[Fashion Designer]{nl}  Kastytis
 ETC_20180629_033433	[Hair Stylist]{nl}Anabell Swyn
@@ -34379,8 +34379,8 @@ ETC_20180629_034343	Failed to create character. Please try again later.
 ETC_20180629_034344	Insufficient Mysterious Magnifiers.
 ETC_20180629_034345	Insufficient Artisan Magnifiers.
 ETC_20180629_034346	Wigs
-ETC_20180629_034347	Helmets (Male)
-ETC_20180629_034348	Helmets (Female)
+ETC_20180629_034347	Helmets (M)
+ETC_20180629_034348	Helmets (F)
 ETC_20180629_034349	Hair Color
 ETC_20180629_034350	PC Shop
 ETC_20180629_034351	This item is already being purchased. Please try again.
@@ -34671,8 +34671,8 @@ ETC_20180629_034635	Comprar Lentes
 ETC_20180629_034636	Comprar Visuais Masculinos
 ETC_20180629_034637	Comprar Visuais Femininos
 ETC_20180629_034638	Purchase Cubes
-ETC_20180629_034639	This item is for male characters only.{nl}Are you sure you want to purchase it?
-ETC_20180629_034640	This item is for female characters only.{nl}Are you sure you want to purchase it?
+ETC_20180629_034639	This item is for M characters only.{nl}Are you sure you want to purchase it?
+ETC_20180629_034640	This item is for F characters only.{nl}Are you sure you want to purchase it?
 ETC_20180629_034641	This item cannot be equipped by your current character.
 ETC_20180629_034642	This item cannot be equipped by your current character.{nl}Are you sure you want to purchase it?
 ETC_20180629_034643	You can change your hair only one style at a time.{nl}Do you want to change to the currently selected hair?
@@ -34685,8 +34685,8 @@ ETC_20180629_034649	Receive Hair Purchase Event Rewards
 ETC_20180629_034650	You cannot purchase and try on the same hair and dye.
 ETC_20180629_034651	All your hair and dye data will be deleted, and your hair will be replaced with the {@st66d_y}Short Cut Hair{/} style.{nl}Are you sure you want to continue?
 ETC_20180629_034652	Includes probability-based item(s).
-ETC_20180629_034653	This item is for male characters only and it already exists in your inventory.{nl}Are you sure you want to purchase it?
-ETC_20180629_034654	This item is for female characters only and it already exists in your inventory.{nl}Are you sure you want to purchase it?
+ETC_20180629_034653	This item is for M characters only and it already exists in your inventory.{nl}Are you sure you want to purchase it?
+ETC_20180629_034654	This item is for F characters only and it already exists in your inventory.{nl}Are you sure you want to purchase it?
 ETC_20180629_034655	This item cannot be equipped by your character and it already exists in your inventory.{nl}Are you sure you want to purchase it?
 ETC_20180629_034656	You already own this item. You may purchase it again after trying it on.{nl}Are you sure you want to try it on?
 ETC_20180629_034657	You already own this dye.{nl}Are you sure you want to purchase it?
@@ -34713,7 +34713,7 @@ ETC_20180629_034677	Gray
 ETC_20180629_034678	White Blue Highlight
 ETC_20180629_034679	Red White Highlight
 ETC_20180629_034680	Purple White Highlight
-ETC_20180629_034681	Lamb Towel Hat (Male)
+ETC_20180629_034681	Lamb Towel Hat (M)
 ETC_20180629_034682	Black
 ETC_20180629_034683	Blond
 ETC_20180629_034684	Pale Blue
@@ -34730,7 +34730,7 @@ ETC_20180629_034694	Purple Violet
 ETC_20180629_034695	Purple
 ETC_20180629_034696	Black Red Highlight
 ETC_20180629_034697	Midnight Blue Ombre
-ETC_20180629_034698	Lamb Towel Hat (Female)
+ETC_20180629_034698	Lamb Towel Hat (F)
 ETC_20180629_034699	Sky Mint
 ETC_20180629_034700	Apple Mint
 ETC_20180629_034701	Light Brown
@@ -34843,17 +34843,17 @@ ETC_20180730_034807	A title given to event participants. Right-click to use.
 ETC_20180730_034808	Summer Marine Cube
 ETC_20180730_034809	Use to receive one of the following random items.{nl} - Romantic Sailor Costume Selection Box x1{nl} - Marine Beachwear Costume Selection Box x1{nl} - Summer Beachwear Costume Selection Box x1{nl} - Romantic Sailor Whale Costume Selection Box x1{nl} - Marine Beachwear Whale Costume Selection Box x1{nl} - Summer Beachwear Whale Costume Selection Box x1{nl} - Hair Accessory Selection Box: Marine Beret x1{nl} - Hair Accessory Selection Box: Marine Stripe Glasses x1{nl} - Hair Accessory Selection Box: Sailor Beret x1{nl} - Hair Accessory Selection Box: Romantic Marine Scarf x1{nl} - Hair Accessory Selection Box: Blue Anchor x1{nl} - Hair Accessory Selection Box: Lighthouse x1{nl}  - Marine Surfboard x1
 ETC_20180730_034810	Romantic Sailor Costume Selection Box
-ETC_20180730_034811	Use to select one of the following items.{nl} - Romantic Sailor Costume (Male) x1{nl} - Romantic Sailor Costume (Female) x1
+ETC_20180730_034811	Use to select one of the following items.{nl} - Romantic Sailor Costume (M) x1{nl} - Romantic Sailor Costume (F) x1
 ETC_20180730_034812	Marine Beachwear Costume Selection Box
-ETC_20180730_034813	Use to select one of the following items.{nl} - Marine Beachwear Costume (Male) x1{nl} - Marine Beachwear Costume (Female) x1
+ETC_20180730_034813	Use to select one of the following items.{nl} - Marine Beachwear Costume (M) x1{nl} - Marine Beachwear Costume (F) x1
 ETC_20180730_034814	Summer Beachwear Costume Selection Box
-ETC_20180730_034815	Use to select one of the following items.{nl} - Summer Beachwear Costume (Male) x1{nl} - Summer Beachwear Costume (Female) x1
+ETC_20180730_034815	Use to select one of the following items.{nl} - Summer Beachwear Costume (M) x1{nl} - Summer Beachwear Costume (F) x1
 ETC_20180730_034816	Romantic Sailor Whale Costume Selection Box
-ETC_20180730_034817	Use to select one of the following items.{nl} - Romantic Sailor Whale Costume (Male) x1{nl} - Romantic Sailor Whale Costume (Female) x1
+ETC_20180730_034817	Use to select one of the following items.{nl} - Romantic Sailor Whale Costume (M) x1{nl} - Romantic Sailor Whale Costume (F) x1
 ETC_20180730_034818	Marine Beachwear Whale Costume Selection Box
-ETC_20180730_034819	Use to select one of the following items.{nl} - Marine Beachwear Whale Costume (Male) x1{nl} - Marine Beachwear Whale Costume (Female) x1
+ETC_20180730_034819	Use to select one of the following items.{nl} - Marine Beachwear Whale Costume (M) x1{nl} - Marine Beachwear Whale Costume (F) x1
 ETC_20180730_034820	Summer Beachwear Whale Costume Selection Box
-ETC_20180730_034821	Use to select one of the following items.{nl} - Summer Beachwear Whale Costume (Male) x1{nl} - Summer Beachwear Whale Costume (Female) x1
+ETC_20180730_034821	Use to select one of the following items.{nl} - Summer Beachwear Whale Costume (M) x1{nl} - Summer Beachwear Whale Costume (F) x1
 ETC_20180730_034822	Summer Marine Cube x10 +1
 ETC_20180730_034823	Use to receive one of the following random items.{nl} - Romantic Sailor Costume Selection Box x1{nl} - Marine Beachwear Costume Selection Box x1{nl} - Summer Beachwear Costume Selection Box x1{nl} - Romantic Sailor Whale Costume Selection Box x1{nl} - Marine Beachwear Whale Costume Selection Box x1{nl} - Summer Beachwear Whale Costume Selection Box x1{nl} - Hair Accessory Selection Box: Marine Beret x1{nl} - Hair Accessory Selection Box: Marine Stripe Glasses x1{nl} - Hair Accessory Selection Box: Sailor Beret x1{nl} - Hair Accessory Selection Box: Romantic Marine Scarf x1{nl} - Hair Accessory Selection Box: Blue Anchor x1{nl} - Hair Accessory Selection Box: Lighthouse x1{nl}  - Marine Surfboard x1
 ETC_20180730_034824	Hair Accessory Selection Box: Marine Beret
@@ -35407,11 +35407,11 @@ ETC_20180827_035363	Thorn Forest Mission	가시숲 미션
 ETC_20180827_035364	2018 Leticia's Treasure Chest (Season 2)	2018 레티샤의 보물 상자(8월)				
 ETC_20180827_035365	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Token x3{nl} - Merchant Golden Anvil Box x1{nl} - Goddesses' Blessed Gem x100{nl} - Shining 8-Star Gem Abrasive x3	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 토큰 3개{nl} - 장인의 황금 모루 상자 1개{nl} - 여신의 축복석 100개{nl} - 빛나는 8성 젬 연마제 3개				
 ETC_20180827_035366	Rook and Pawn Costume Selection Box	룩 앤 폰 코스튬 선택 상자				
-ETC_20180827_035367	Use to select one of the following items.{nl} - Ebony Rook Costume (Male) x1{nl} - Ivory Pawn Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 에보니 룩 코스튬(남) 1개{nl} - 아이보리 폰 코스튬(여) 1개				
+ETC_20180827_035367	Use to select one of the following items.{nl} - Ebony Rook Costume (M) x1{nl} - Ivory Pawn Costume (F) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 에보니 룩 코스튬(남) 1개{nl} - 아이보리 폰 코스튬(여) 1개				
 ETC_20180827_035368	Bishop and Knight Costume Selection Box	비숍 앤 나이트 코스튬 선택 상자				
-ETC_20180827_035369	Use to select one of the following items.{nl} - Ebony Bishop Costume (Male) x1{nl} - Ivory Knight Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 아이보리 비숍 코스튬(남) 1개{nl} - 에보니 나이트 코스튬(여) 1개				
+ETC_20180827_035369	Use to select one of the following items.{nl} - Ebony Bishop Costume (M) x1{nl} - Ivory Knight Costume (F) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 아이보리 비숍 코스튬(남) 1개{nl} - 에보니 나이트 코스튬(여) 1개				
 ETC_20180827_035370	King and Queen Costume Selection Box	킹 앤 퀸 코스튬 선택 상자				
-ETC_20180827_035371	Use to select one of the following items.{nl} - Ebony King Costume (Male) x1{nl} - Ivory Queen Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 에보니 킹 코스튬(남) 1개{nl} - 아이보리 퀸 코스튬(여) 1개				
+ETC_20180827_035371	Use to select one of the following items.{nl} - Ebony King Costume (M) x1{nl} - Ivory Queen Costume (F) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 에보니 킹 코스튬(남) 1개{nl} - 아이보리 퀸 코스튬(여) 1개				
 ETC_20180827_035372	Use to obtain 500 TP and [Event] 50 TP.	사용 시 500 TP와 50 TP[이벤트]아이템을 획득할 수 있습니다.				
 ETC_20180827_035373	[PP] Skill Reset Potion	[PC방] 스킬 초기화 포션				
 ETC_20180827_035374	[PP] Stat Reset Potion	[PC방] 스탯 초기화 포션				
@@ -35550,8 +35550,8 @@ ETC_20180827_035506	Nicopolis Resident 3 (M)	니코폴리스 주민3(남)
 ETC_20180827_035507	Exorcist Apprentice	엑소시스트 제자				
 ETC_20180827_035508	Nicopolis Sculpture 1	니코폴리스 조형물1				
 ETC_20180827_035509	Nicopolis Sculpture 2	니코폴리스 조형물2				
-ETC_20180827_035510	Nicopolis Male Guard	니코폴리스 남자 경비병				
-ETC_20180827_035511	Nicopolis Female Guard	니코폴리스 여자 경비병				
+ETC_20180827_035510	Nicopolis M Guard	니코폴리스 남자 경비병				
+ETC_20180827_035511	Nicopolis F Guard	니코폴리스 여자 경비병				
 ETC_20180827_035512	Nicopolis 81_3 Elevator	니코폴리스 81_3엘리베이터				
 ETC_20180827_035513	Schaffenstar Officer M1	샤펜스타 간부 남1				
 ETC_20180827_035514	Schaffenstar Officer M2	샤펜스타 간부 남2				
@@ -36283,43 +36283,363 @@ ETC_20180914_036197	Missão Especial!
 ETC_20180914_036198	[Evento] Missão especial! Ajude os soldados da Resistência Schaffenstar.
 ETC_20180914_036199	Disponibilize a PP Shop para todos os usuários S/N
 ETC_20180914_036200	Use a mágica de teletransporte dentro da célula da oficina e mova-a para a célula no lado oposto.
-ETC_20181005_036201	Waiting for a Full Moon	달아 달아 밝은 달아			
-ETC_20181005_036202	A title given to participants of the Out Comes the Full Moon full moon event.	보름달 키우기 대작전 이벤트 참가자분께 주어지는 칭호입니다.			
-ETC_20181005_036203	Appearance Equipment	외형 변경 장비			
-ETC_20181005_036204	Royal Envoy Costume Selection Box	암행어사 예복 선택 상자			
-ETC_20181005_036205	Use to select one of the following costumes.{nl} - Royal Envoy Costume (Male) x1{nl} - Royal Envoy Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 암행어사 예복(남) 1개{nl} - 암행어사 예복(여) 1개			
-ETC_20181005_036206	Court Scholar Costume Selection Box	장원급제 별감복 선택 상자			
-ETC_20181005_036207	Use to select one of the following costumes.{nl} - Court Scholar Costume (Male) x1{nl} - Court Scholar Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 장원급제 별감복(남) 1개{nl} - 장원급제 별감복(여) 1개			
-ETC_20181005_036208	Black Ceremonial Robes Selection Box	어사 흑단령 선택 상자			
-ETC_20181005_036209	Use to select one of the following costumes.{nl} - Black Ceremonial Robes (Male) x1{nl} - Black Ceremonial Robes (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 어사 흑단령(남) 1개{nl} - 어사 흑단령(여) 1개			
-ETC_20181005_036210	Moon Rabbit Costume Set	달 토끼 코스튬 세트			
-ETC_20181005_036211	Use to obtain all of the following items.{nl} - Moon Rabbit Costume x1{nl} - Moon Rabbit Helmet x1	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 달 토끼 코스튬 1개{nl} - 달 토끼 헬멧 코스튬 1개			
-ETC_20181005_036212	Rabbit Stamp	토끼 스탬프			
-ETC_20181005_036213	Horse Medal Stamp	마패 스탬프			
-ETC_20181005_036214	Full Moon	보름달			
-ETC_20181005_036215	Attendance Rewards	출석보상
-ETC_20181005_036216	Log in every day for new prizes!{nl}We're giving away fresh rewards to all players, so remember to come back again!	풍성한 한가위엔 접속만 해도 풍성한 보상이!{nl}한가위를 맞이해 선물을 드리고 있어요.{nl}한가위 연휴에는 더 좋은 선물을 드리니 잊지 말아 주세요.
-ETC_20181005_036217	Receive Gift	선물 받기
-ETC_20181005_036218	Gift	선물
-ETC_20181005_036219	Halloween Reward	한가위 추가 보상
-ETC_20181005_036220	Daily Event	일일 이벤트
-ETC_20181005_036221	Total Count Rewards	누적 보상
-ETC_20181005_036222	Enter Growing Moon Challenge	랭킹 도전
-ETC_20181005_036223	Check Player List	랭킹 확인
-ETC_20181005_036224	Not enough Full Moon Fragments.	보름달 조각이 부족 합니다
-ETC_20181005_036225	You cannot join the daily event now.	일일 이벤트를 진행하실 수 없습니다
-ETC_20181005_036226	You already participated in the growing moon event today.	오늘은 이미 랭킹 도전에 참여하셨습니다
-ETC_20181005_036227	You cannot join the growing moon challenge today.	랭킹 도전에 참여하실 수 없습니다
-ETC_20181005_036228	You can start the daily event after you finish the growing moon event.	랭킹 도전을 끝내셔야 일일 이벤트를 시작하실 수 있습니다
-ETC_20181005_036229	Give All	모두 전달한다
-ETC_20181005_036230	Growing Moon Event	보름달 키우기 대작전 이벤트 랭킹
-ETC_20181005_036231	Full Moon shining on {NAME}	{NAME}님을 비추는 보름달
-ETC_20181005_036232	Finish the daily event and join the growing moon challenge!	일일 이벤트를 완료 하신 후 랭킹에 도전해주세요!
-ETC_20181005_036233	Starting daily event.{nl}Complete quests and defeat boss monsters to obtain  	일일 이벤트를 시작합니다{nl}퀘스트를 완료하고 보스 몬스터를 처치해 
-ETC_20181005_036234	s!	을 획득하세요!
-ETC_20181005_036235	Starting growing moon challenge.{nl}Complete quests and defeat boss monsters to obtain  	랭킹 도전을 시작합니다{nl}퀘스트를 완료하고 보스 몬스터를 처치해 
-ETC_20181005_036236	x{COUNT}	{COUNT} 개
-ETC_20181005_036237	[Total: x{COUNT}]	[누적 : {COUNT} 개]
-ETC_20181005_036238	{nl}{#D50000}Timed items cannot be transferred to your Team Storage. Make sure you're giving them to the correct character!{/}	{nl}{#D50000}기간제 아이템은 팀 창고로 옮길 수 없습니다. 선물을 받기 전에 캐릭터를 꼭! 확인하세요.{/}
-ETC_20181005_036239	Moon Rabbit Helmet (Male)	달 토끼 헬멧(남)
-ETC_20181005_036240	Moon Rabbit Helmet (Female)	달 토끼 헬멧(여)
+ETC_20181017_036201	Asiomage	아시오 메이지				
+ETC_20181017_036202	The Asiomage the Quipmage's other self, created during a failed magic experiment which intended to combine wild magic monsters with docile animals in order to control magic creatures.	아시오 메이지는 큅메이지의 마법 실험 실패로 인하여 생긴 다른 인격의 존재입니다. 이 실험은 다루기 힘든 마법 몬스터를 다루기 쉬운 동물과 결합한 후, 그 동물을 통해 몬스터의 조종을 수월하게 하기 위한 실험이었습니다.				
+ETC_20181017_036203	Wastrel	웨이스트럴				
+ETC_20181017_036204	The Wastrel is a monster created during the great accident of Nicopolis. Its greatest power is the ability to absorb all kinds of magic in the world.	웨이스트럴은 과거 니코폴리스의 마법실험 사고로 인해 생겨난 몬스터입니다. 거대한 마력의 응집체인 웨이스트럴은 세상의 모든 마력을 흡수 할 수 있는 강한 힘을 가지고 있습니다.				
+ETC_20181017_036205	Experimental Silva Griffin	실험체 실바그리핀				
+ETC_20181017_036206	Experimental Velnia Monkey	실험체 벨니아몽키				
+ETC_20181017_036207	Green Apparition	초록 어페리션				
+ETC_20181017_036208	Egg	에그				
+ETC_20181017_036209	Wastrel Egg	웨이스트럴 에그				
+ETC_20181017_036210	Asiomage Testing Grounds	아시오 메이지의 실험실				
+ETC_20181017_036211	[TOS 3-Time Researcher]	[TOS 3기 연구원]				
+ETC_20181017_036212	A title given to those who participate as a TOS 3-Time Researcher.	TOS 3기 연구원으로 참여자께 지급되는 칭호입니다.				
+ETC_20181017_036213	Here to Party	축제를 즐기는				
+ETC_20181017_036214	A title given to participants of the Dainu Svente event.	다이누 슈벤테이벤트 참가자분께 주어지는 칭호입니다.				
+ETC_20181017_036215	Waiting for a Full Moon	달아 달아 밝은 달아				
+ETC_20181017_036216	A title given to participants of the full moon event.	보름달 키우기 대작전 이벤트 참가자분께 주어지는 칭호입니다.				
+ETC_20181017_036217	Wastrel Slayer	마법 실험의 폐해를 바로잡은 자				
+ETC_20181017_036218	Title given to players who defeated the Wastrel at the Magic Research Facility.	마법 실험 구역에서 웨이스트럴을 처치한 유저에게 주어지는 칭호				
+ETC_20181017_036219	Asiomage Slayer	아시오 메이지의 계획을 저지한 자				
+ETC_20181017_036220	Title given to players who defeated the Asiomage at the Novaha Unique Raid.	노바하 유니크 레이드에서 아시오 메이지를 처치한 유저에게 주어지는 칭호				
+ETC_20181017_036221	Try on Beauty Shop themed items	뷰티샵 테마 상품 입어보기				
+ETC_20181017_036222	Costumes (M)	코스튬(남)				
+ETC_20181017_036223	Costumes (F)	코스튬(여)				
+ETC_20181017_036224	Acessório de Cabelo	헤어 액세서리				
+ETC_20181017_036225	Visual de Equipamento	외형 변경 장비				
+ETC_20181017_036226	Traje de Efeito	이펙트 코스튬				
+ETC_20181017_036227	Lapezard Statue Guardian	라페자드 조각상 수호자				
+ETC_20181017_036228	Spirits of the creatures that die near the statue are absorbed to restore vitality.	라페자드 조각상 근처에서 죽은 생명체의 영혼을 흡수해 자신의 생명을 회복합니다.				
+ETC_20181017_036229	Lapezard Statue Guardian Protective Magic	라페자드 조각상 수호자 보호 마법				
+ETC_20181017_036230	The Lapezard statue absorbs the spirits of the creatures that die around it and sends them to the statue guardians to restore their vitality. Defeating the statue guardians influences the Lapezard statue.	라페자드 조각상은 조각상 근처에서 죽은 생명체의 영혼을 흡수해 주위에 있는 라페자드 조각상 수호자에게 돌려주어 생명을 회복시켜줍니다.				
+ETC_20181017_036231	Lapemiter Statue Guardian	라페마이터 조각상 수호자				
+ETC_20181017_036232	Spirits of the creatures that die near the statue are absorbed to restore vitality.	라페마이터 조각상 근처에서 죽은 생명체의 영혼을 흡수해 자신의 생명을 회복합니다.				
+ETC_20181017_036233	Lapemiter Statue Guardian Protective Magic	라페마이터 조각상 수호자 보호 마법				
+ETC_20181017_036234	The Lapemiter statue absorbs the spirits of the creatures that die around it and sends them to the statue guardians to restore their vitality. Defeating the statue guardians influences the Lapemiter statue.	라페마이터 조각상은 조각상 근처에서 죽은 생명체의 영혼을 흡수해 주위에 있는 라페마이터 조각상 수호자에게 돌려주어 생명을 회복시켜줍니다.라페마이터 조각상 수호자가 죽으면 라페마이터 조각상에 영향이 갑니다.				
+ETC_20181017_036235	Lapeman Statue Guardian	라페먼 조각상 수호자				
+ETC_20181017_036236	Spirits of the creatures that die near the statue are absorbed to restore vitality.	라페먼 조각상 근처에서 죽은 생명체의 영혼을 흡수해 자신의 생명을 회복합니다.				
+ETC_20181017_036237	Lapeman Statue Guardian Protective Magic	라페먼 조각상 수호자 보호 마법				
+ETC_20181017_036238	The Lapeman statue absorbs the spirits of the creatures that die around it and sends them to the statue guardians to restore their vitality. Defeating the statue guardians influences the Lapeman statue.	라페먼 조각상은 조각상 근처에서 죽은 생명체의 영혼을 흡수해 주위에 있는 라페먼 조각상 수호자에게 돌려주어 생명을 회복시켜줍니다.라페먼 조각상 수호자가 죽으면 라페먼 조각상에 영향이 갑니다.				
+ETC_20181017_036239	Lapflammer Statue Guardian	라플래머 조각상 수호자				
+ETC_20181017_036240	Spirits of the creatures that die near the statue are absorbed to restore vitality.	라플래머 조각상 근처에서 죽은 생명체의 영혼을 흡수해 자신의 생명을 회복합니다.				
+ETC_20181017_036241	Lapflammer Statue Guardian Protective Magic	라플래머 조각상 수호자 보호 마법				
+ETC_20181017_036242	The Lapflammer statue absorbs the spirits of the creatures that die around it and sends them to the statue guardians to restore their vitality. Defeating the statue guardians influences the Lapflammer statue.	라플래머 조각상은 조각상 근처에서 죽은 생명체의 영혼을 흡수해 주위에 있는 라플래머 조각상 수호자에게 돌려주어 생명을 회복시켜줍니다. 라플래머 조각상 수호자가 죽으면 라플래머 조각상에 영향이 갑니다.				
+ETC_20181017_036243	Guardian Protective Magic	수호자 보호 마법				
+ETC_20181017_036244	Spirits of the creatures that died nearby restore the statue guardian's vitality.	조각상 근처에서 죽은 생명체의 영혼이 조각상 수호자를 회복해줍니다.				
+ETC_20181017_036245	Asiomage boss Pag 3 time	아시오 메이지 보스 페이즈3 시간				
+ETC_20181017_036246	Asiomage Pag 3 time check	아시오 메이지 페이즈3 시간을 체크				
+ETC_20181017_036247	Asiomage enhance magic	아시오 메이지 강화 마법				
+ETC_20181017_036248	Asiomage Pag 3 start	아시오 메이지 페이즈3 시작				
+ETC_20181017_036249	Asiomage Pag 3 start cooltime	아시오 메이지 페이즈3 쿨타임				
+ETC_20181017_036250	Asiomage defense increase.	아시오 메이지의 방어력이 향상됩니다.				
+ETC_20181017_036251	Key Obtained	열쇠 획득				
+ETC_20181017_036252	Key obtained.	열쇠를 획득 했습니다.				
+ETC_20181017_036253	Exploding.	폭발합니다.				
+ETC_20181017_036254	Key	열쇠 보유				
+ETC_20181017_036255	Carrying key.	열쇠를 보유하고 있습니다.				
+ETC_20181017_036256	Mana Loss	마나 소실				
+ETC_20181017_036257	This region causes mana loss. Your SP is gradually consumed.	마나가 소실된 지역 입니다. 대기중으로 SP가 점차 소실됩니다.				
+ETC_20181017_036258	Mana Protection	마나 보호				
+ETC_20181017_036259	Count	카운트				
+ETC_20181017_036260	On	온				
+ETC_20181017_036261	No Recovery	회복 불가				
+ETC_20181017_036262	Incapable of recovery.	회복 불가 상태입니다.				
+ETC_20181017_036263	Summary	요약 설명	ETC_20150317_005889	Short Description	짧은 설명	
+ETC_20181017_036264	Long description	긴 설명	ETC_20150317_005890	Description1	설명1	
+ETC_20181017_036265	The top of the inventory window shows you the items you have equipped.{nl}The Equipment tab lets you see your gear, while the Appearance tab shows you hair accessories and costumes.	인벤토리 창의 상단에는 캐릭터가 각 부위별로 장착중인 장비를 나타냅니다.{nl}장비탭을 누르면 착용한 장비를, 외형 탭을 누르면 착용한 헤어 악세서리와 코스튬 등을 볼 수 있습니다.	ETC_20150729_013716	The upper part of the Inventory window displays equipped items on the character.	인벤토리 창의 상단에는 캐릭터가 각 부위별로 장착중인 장비를 나타냅니다.	
+ETC_20181017_036266	{nl} {nl}The bottom of the window shows you all the items you have in your inventory.	{nl} {nl}하단은 현재 인벤토리에 가지고 있는 아이템들을{nl}나타냅니다.	ETC_20170313_026553	{nl} {nl}Below are the items you have in your inventory, divided into Equipment and Items.	{nl} {nl}하단은 현재 인벤토리에 가지고 있는 아이템들을 {nl}나타내며, 장비와 장비 외의 아이템이 탭으로 구분되어 있습니다.	
+ETC_20181017_036267	The inventory is divided into tabs, with one tab for all items and separate tabs for each kind of item.	인벤토리는 전체 탭과 각 아이템의 종류별 탭으로 나누어져 있으며, 아이템들도 그 종류에 맞게 분류되어 있습니다.	ETC_20150729_013717	Items in the inventory are sorted by item types. {nl}Click Sort to sort the inventory by name.	인벤토리의 아이템들은 종류에 따라 분류되어있습니다.{nl} {nl}인벤토리에서 정리를 누르면 인벤토리 내의 아이템들이 이름 순으로 정리됩니다.	
+ETC_20181017_036268	{nl} {nl}The order buttons help you organize the items in your inventory according to different criteria.	{nl} {nl}정렬 버튼을 통해 선택한 정렬 방식으로 인벤토리 내 아이템을 정렬할 수 있습니다.	ETC_20170313_026554	{nl} {nl}Click on the Sort button to sort the items in your inventory based on price, grade, weight and name.	{nl} {nl}정렬 버튼을 누르면 가격순, 등급순, 무게순, 이름순으로 인벤토리 내 아이템을 등록할 수 있습니다.	
+ETC_20181017_036269	The organization criteria are different for each item tab.	정렬 방식은 각 아이템 탭마다 다릅니다.				
+ETC_20181017_036270	{nl} {nl}If you have a lot of items, you can look for specific ones using the search function.	{nl} {nl}많은 아이템들을 소지하고 있는 경우 검색 기능을 통해{nl}아이템을 간단하게 검색할 수 있습니다.				
+ETC_20181017_036271	{nl} {nl}The bottom section of your inventory displays your carrying weight, TP, Silver, and trade grade.	{nl} {nl}인벤토리 최하단에는 소지하고 있는 아이템의 무게와{nl}TP, 소지금 및 거래 등급을 확인할 수 있습니다.				
+ETC_20181017_036272	{nl} {nl}Every 4 hours you automatically accumulate 1 Free TP, up to a maximum of 5 TP. Premium TP can be purchased from the TOS Steam store in bundles.	{nl} {nl}무료 TP는 매 2시간 마다 1TP가 적립되어 최대 5TP까지 적립이 가능하며, 유료 TP는 TP샵 호출 버튼 및 레티샤에게 구매할 수 있습니다.				
+ETC_20181017_036273	{nl} {nl}Select a category to see the different available options and refine your item search.	{nl} {nl}카테고리를 선택하면 해당 카테고리의 옵션이 나타나며 이를 이용해 찾고자 하는 아이템을 더 자세히 볼 수 있습니다.	ETC_20180827_035341	{nl} {nl}After checking the quantity of the item you want, you can purchase it by clicking the Buy button.	{nl} {nl}구매하려고 하는 아이템의 구매 개수를 선택한 후{nl}구매 버튼을 눌러 구매할 수 있습니다.	
+ETC_20181017_036274	Trade Grade	거래 등급				
+ETC_20181017_036275	Your trade grade determines how much Silver you can trade in the Market, and how much of it you can store in your Inventory and Team Storage.	거래 등급에 따라 마켓에서 거래할 수 있는 금액과 인벤토리 및 팀 창고 내 최대 실버 보유량이 달라집니다.				
+ETC_20181017_036276	To find your trade grade, check the bottom of your inventory window.	거래 등급은 인벤토리 창의 맨 아래에서 확인할 수 있습니다.				
+ETC_20181017_036277	Trade grades are divided into 6 stages, with Stage 0 being the starting stage and Stage 5 being the maximum stage.	거래 등급은 총 6단계로 이루어져 있으며, 시작 등급은 0등급이며 최고 등급은 5등급입니다.				
+ETC_20181017_036278	{nl} {nl}According to your trade grade, there will be a limit on how much Silver per day you can trade at the Market.	{nl} {nl}거래 등급에 따라 마켓에서 거래할 수 있는 일일 거래 금액이 제한됩니다.				
+ETC_20181017_036279	Your daily trade limit takes into account items you buy and sell, and it resets every day at 06:00 (server time).	일일 거래 금액은 아이템을 구입 및 판매한 금액만큼 차감되며, 매일 오전 6시에 초기화됩니다.				
+ETC_20181017_036280	{nl} {nl}The trade grade also sets the limits on how much Silver you can keep in your Inventory and Team Storage.	{nl} {nl}또한 거래 등급에 따라 인벤토리와 팀 창고 내에 보유할 수 있는 최대 실버량이 달라집니다.				
+ETC_20181017_036281	If you reach the Silver limits determined by your trade grade, you will not be able to transfer Silver to your Team Storage or receive more Silver in your inventory by selling items, etc.	거래 등급에 따른 인벤토리에 또는 팀 창고 내 실버량이 최대에 도달할 경우 팀 창고에 입금을 하거나 아이템 판매 등을 통해 인벤토리에 실버를 회수할 수 없습니다.				
+ETC_20181017_036282	{nl} {nl}Your trade grade is influenced by your TP use, Revelations, team creation date, team level and character level.	{nl} {nl}거래 등급은 OTP 사용, 계시 획득, 팀 생성일, 팀 레벨, 캐릭터 레벨에 따라 오를 수 있습니다.				
+ETC_20181017_036283	Challenge Mode Data	챌린지모드 관련 정보				
+ETC_20181017_036284	Shut Down Data	셧다운 관련 정보				
+ETC_20181017_036285	37127 bug tracker	37127 버그 추적을 위한...				
+ETC_20181017_036286	Failed to acquire Market Web Server URL. Check server_info.	Market Web Server URL 획득에 실패하였습니다. server_info 확인 필요.				
+ETC_20181017_036287	Market Web error log	마켓 웹서버 에러 로그				
+ETC_20181017_036288	Enhancement Materials	장비 강화 소재				
+ETC_20181017_036289	Main Weapons	주 무기				
+ETC_20181017_036290	Subweapons	보조 무기				
+ETC_20181017_036291	Special Costumes	스페셜 코스튬				
+ETC_20181017_036292	Popup Books	팝업북				
+ETC_20181017_036293	Skill Gems	스킬 젬				
+ETC_20181017_036294	Card Albums	카드첩				
+ETC_20181017_036295	Enhancement Cards	강화용 카드				
+ETC_20181017_036296	Green Cards	그린 카드				
+ETC_20181017_036297	Red Cards	레드 카드				
+ETC_20181017_036298	Blue Cards	블루 카드				
+ETC_20181017_036299	Purple Cards	퍼플 카드				
+ETC_20181017_036300	Skill Materials	스킬 재료				
+ETC_20181017_036301	Ores	광물				
+ETC_20181017_036302	2018 Leticia's Treasure Chest (Season 3)	2018 레티샤의 보물 상자(9월)				
+ETC_20181017_036303	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Token x1{nl} - Shining Golden Socket x2{nl} - Shining 9-Star Gem Abrasive x2	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 토큰 1개{nl} - 빛나는 황금 소켓 2개{nl} - 빛나는 9성 젬 연마제 2개				
+ETC_20181017_036304	Royal Envoy Costume Selection Box	암행어사 예복 선택 상자				
+ETC_20181017_036305	Use to select one of the following costumes.{nl} - Royal Envoy Costume (Male) x1{nl} - Royal Envoy Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 암행어사 예복(남) 1개{nl} - 암행어사 예복(여) 1개				
+ETC_20181017_036306	Court Scholar Costume Selection Box	장원급제 별감복 선택 상자				
+ETC_20181017_036307	Use to select one of the following costumes.{nl} - Court Scholar Costume (Male) x1{nl} - Court Scholar Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 장원급제 별감복(남) 1개{nl} - 장원급제 별감복(여) 1개				
+ETC_20181017_036308	Black Ceremonial Robes Selection Box	어사 흑단령 선택 상자				
+ETC_20181017_036309	Use to select one of the following costumes.{nl} - Black Ceremonial Robes (Male) x1{nl} - Black Ceremonial Robes (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 어사 흑단령(남) 1개{nl} - 어사 흑단령(여) 1개				
+ETC_20181017_036310	Moon Rabbit Costume Set	달 토끼 코스튬 세트				
+ETC_20181017_036311	Use to obtain all of the following items.{nl} - Moon Rabbit Costume x1{nl} - Moon Rabbit Helmet x1	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 달 토끼 코스튬 1개{nl} - 달 토끼 헬멧 코스튬 1개				
+ETC_20181017_036312	2018 Leticia's Treasure Chest (Season 4)	2018 레티샤의 보물 상자(10월)				
+ETC_20181017_036313	500 TP [Event]	500 TP[증정용]				
+ETC_20181017_036314	Rabbit Stamp	토끼 스탬프				
+ETC_20181017_036315	Horse Medal Stamp	마패 스탬프				
+ETC_20181017_036316	Full Moon	보름달				
+ETC_20181017_036317	Magic Orb	마력 보주				
+ETC_20181017_036318	Baubas Cave 71_1 Elevator	바우바스 동굴 71_1엘리베이터				
+ETC_20181017_036319	Lapflammer Statue	라플래머 조각상				
+ETC_20181017_036320	Lapezard Statue	라페자드 조각상				
+ETC_20181017_036321	Lapemiter Statue	라페마이터 조각상				
+ETC_20181017_036322	Lapeman Statue	라페먼 조각상				
+ETC_20181017_036323	Mana Device	마나 장치				
+ETC_20181017_036324	Mana Crystal	마나 조형물				
+ETC_20181017_036325	Ominous Dark Crystal	불길한 검은 크리스탈				
+ETC_20181017_036326	Spotted Baby Pig	얼룩 아기 돼지				
+ETC_20181017_036327	About the Magic Research Facility	마법 실험 구역 입구에 대해				
+ETC_20181017_036328	Enter the Asiomage Testing Grounds	아시오 메이지의 실험실 입장				
+ETC_20181017_036329	Bracken Raid Monster	고사리 레이드 몬스터				
+ETC_20181017_036330	Chance of dealing 2000-3000 additional damage to a maximum of 10 enemies.{nl}- The chances increase depending on the number of enemies nearby.{nl}- Max. increase 20%	일정 확률로 주위의 적 최대 10명에게 2000 ~ 3000 추가대미지를줍니다.{nl}- 주위의 적 수에 따라 확률이 증가합니다.{nl} - 최대 20%까지 증가	ETC_20180517_032721	Chance of dealing 2000-3000 additional damage.{nl}- The chances increase according to the number of enemies nearby.{nl}- Max. increase 20%	일정 확률로 적에게 2000 ~ 3000 추가대미지를줍니다.{nl}- 주위의 적 수에 따라 확률이 증가합니다.{nl}- 최대 20%까지 증가	
+ETC_20181017_036331	Transfers 50% of your max. HP and physical/magic defense to your summons.{nl} {nl}Transfers up to:{nl}Max. HP 30,000{nl}Defense 6,000	착용자의 최대 HP, 물리 방어력, 마법 방어력 50%를 소환수에게 이전합니다.{nl} {nl}최대 이전 가능 수치{nl}최대 HP: 30,000 {nl}방어력: 6,000	ETC_20180827_035622	Transfers 50% of your max. HP and defense to your summons.{nl} {nl}Transfers up to:{nl}Max. HP 30,000{nl}Defense 6,000	착용자의 최대 HP, 방어력 50%를 소환수에게 이전합니다.{nl} {nl}최대 이전 가능 수치{nl}최대 HP: 30,000 {nl}방어력: 6,000	
+ETC_20181017_036332	Silver Limit	등록 금액 제한				
+ETC_20181017_036333	Able to play the flute	피리 연주 사용 가능				
+ETC_20181017_036334	Max. Rank	최대 랭크	ETC_20180709_034790	Last = Rank 9	마지막은 9랭크	
+ETC_20181017_036335	Revelation Quests	계시 퀘스트				
+ETC_20181017_036336	Recipe - Wastrel Zvaigzde Two-handed Sword	제작서 - 웨이스트럴 즈바이더 투 핸드 소드				
+ETC_20181017_036337	Recipe - Asio Two-handed Sword	제작서 - 아시오 투 핸드 소드				
+ETC_20181017_036338	Recipe - Wastrel Zvaigzde Bow	제작서 - 웨이스트럴 즈바이더 보우				
+ETC_20181017_036339	Recipe - Asio Bow	제작서 - 아시오 보우				
+ETC_20181017_036340	Recipe - Wastrel Zvaigzde Two-handed Mace	제작서 - 웨이스트럴 즈바이더 투 핸드 메이스				
+ETC_20181017_036341	Recipe - Asio Two-handed Mace	제작서 - 아시오 투 핸드 메이스				
+ETC_20181017_036342	Recipe - Wastrel Zvaigzde Pike	제작서 - 웨이스트럴 즈바이더 파이크				
+ETC_20181017_036343	Recipe - Asio Pike	제작서 - 아시오 파이크				
+ETC_20181017_036344	Recipe - Wastrel Zvaigzde Staff	제작서 - 웨이스트럴 즈바이더 스태프				
+ETC_20181017_036345	Recipe - Asio Staff	제작서 - 아시오 스태프				
+ETC_20181017_036346	Recipe - Wastrel Zvaigzde Musket	제작서 - 웨이스트럴 즈바이더 머스킷				
+ETC_20181017_036347	Recipe - Asio Musket	제작서 - 아시오 머스킷				
+ETC_20181017_036348	Recipe - Wastrel Zvaigzde Sword	제작서 - 웨이스트럴 즈바이더 소드				
+ETC_20181017_036349	Recipe - Asio Sword	제작서 - 아시오 소드				
+ETC_20181017_036350	Recipe - Asio Rod	제작서 - 아시오 로드				
+ETC_20181017_036351	Recipe - Wastrel Zvaigzde Rod	제작서 - 웨이스트럴 즈바이더 로드				
+ETC_20181017_036352	Recipe - Wastrel Zvaigzde Crossbow	제작서 - 웨이스트럴 즈바이더 크로스보우				
+ETC_20181017_036353	Recipe - Asio Crossbow	제작서 - 아시오 크로스보우				
+ETC_20181017_036354	Recipe - Wastrel Zvaigzde Mace	제작서 - 웨이스트럴 즈바이더 메이스				
+ETC_20181017_036355	Recipe - Asio Mace	제작서 - 아시오 메이스				
+ETC_20181017_036356	Recipe - Wastrel Zvaigzde Shield	제작서 - 웨이스트럴 즈바이더 실드				
+ETC_20181017_036357	Recipe - Asio Shield	제작서 - 아시오 실드				
+ETC_20181017_036358	Recipe - Wastrel Zvaigzde Spear	제작서 - 웨이스트럴 즈바이더 스피어				
+ETC_20181017_036359	Recipe - Asio Spear	제작서 - 아시오 스피어				
+ETC_20181017_036360	Recipe - Wastrel Zvaigzde Dagger	제작서 - 웨이스트럴 즈바이더 대거				
+ETC_20181017_036361	Recipe - Asio Dagger	제작서 - 아시오 대거				
+ETC_20181017_036362	Recipe - Wastrel Zvaigzde Pistol	제작서 - 웨이스트럴 즈바이더 피스톨				
+ETC_20181017_036363	Recipe - Asio Pistol	제작서 - 아시오 피스톨				
+ETC_20181017_036364	Recipe - Wastrel Zvaigzde Rapier	제작서 - 웨이스트럴 즈바이더 레이피어				
+ETC_20181017_036365	Recipe - Asio Rapier	제작서 - 아시오 레이피어				
+ETC_20181017_036366	Recipe - Wastrel Zvaigzde Cannon	제작서 - 웨이스트럴 즈바이더 캐논				
+ETC_20181017_036367	Recipe - Asio Cannon	제작서 - 아시오 캐논				
+ETC_20181017_036368	Bullet Marker	불릿마커				
+ETC_20181017_036369	One-handed Weapon	한손 무기				
+ETC_20181017_036370	Two-handed Weapon	양손 무기				
+ETC_20181017_036371	Tipo Ofensiso	공격형				
+ETC_20181017_036372	Tipo Defensivo	방어형				
+ETC_20181017_036373	Montaria	탑승 스킬				
+ETC_20181017_036374	Shop/Construção	상점/제작 스킬				
+ETC_20181017_036375	Skills de Grupo	파티 스킬				
+ETC_20181017_036376	Provocation Skill	도발 스킬				
+ETC_20181017_036377	Sem Função	기능 없음				
+ETC_20181017_036378	Dano em Área	광역 스킬				
+ETC_20181017_036379	Controle em Massa	군중 제어 스킬				
+ETC_20181017_036380	Tipo Suporte	보조형				
+ETC_20181017_036381	Invocador	소환 스킬				
+ETC_20181017_036382	Habilidades de Buff	버프 스킬				
+ETC_20181017_036383	Causar Debuffs	디버프 스킬				
+ETC_20181017_036384	Alvos Únicos	단일 스킬				
+ETC_20181017_036385	Elemento Veneno	독 속성				
+ETC_20181017_036386	Psychokinesis Property	염 속성				
+ETC_20181017_036387	No Property	속성 없음				
+ETC_20181017_036388	Holy Property	신성 속성				
+ETC_20181017_036389	Long Distance	장거리				
+ETC_20181017_036390	Short Distance	근거리				
+ETC_20181017_036391	Melee Weapon	근접 무기				
+ETC_20181017_036392	Companion Skill	동행 스킬				
+ETC_20181017_036393	Stealth Skill	은신 스킬				
+ETC_20181017_036394	Installation Skill	설치 스킬				
+ETC_20181017_036395	Enchant Skill	마법 부여 스킬				
+ETC_20181017_036396	Music Skill	연주 스킬				
+ETC_20181017_036397	Transformation Skill	변신 스킬				
+ETC_20181017_036398	Timed	기간제				
+ETC_20181017_036399	Unidentified	미감정				
+ETC_20181017_036400	Search All	통합 검색				
+ETC_20181017_036401	Equipment Rental	PC방 대여				
+ETC_20181017_036402	Appearance Items	외형 변환 아이템				
+ETC_20181017_036403	Equipment items that have been {@st47}{s18}enhanced, transcended, added enchant stats, equipped with gems, added sockets or awakened{/}{/} can be dismantled.	{@st47}{s18}강화, 초월, 젬 장착, 소켓 추가, 인챈트 옵션, 각성 {/}{/}된 장비 아이템이 분해될 수 있습니다.	ETC_20180418_032160	Equipment items that have been {@st47}{s18}enhanced, transcended, equipped with gems, added sockets or awakened{/}{/} can be dismantled.	{@st47}{s18}강화, 초월, 젬 장착, 소켓 추가, 각성{/}{/}된 장비 아이템이 분해될 수 있습니다.	
+ETC_20181017_036404	Hair dye registered.{nl}Do you want to apply {@st66d_y}{s19}{COLOR}{/}{/} now?{nl} {nl} {@st43b}{s16}* You can go to the Appearance tab of your inventory to change your hair color.{/}{/}	염색약이 정상적으로 적용 되었습니다.{nl}현재 {@st66d_y}{s19}{COLOR}{/}{/}를 적용하시겠습니까?{nl} {nl} {@st43b}{s16}* 인벤토리 외형 탭의 가발 슬롯에서 가발 염색을 변경할 수 있습니다.{/}{/}	ETC_20180208_031536	Hair dye registered.{nl}Do you want to apply {@st66d_y}{s19}{COLOR}{/}{/} now?{nl} {nl} {@st43b}{s16}* You can go to character settings to change your hair color.{/}{/}	염색약이 정상적으로 적용 되었습니다.{nl}현재 {@st66d_y}{s19}{COLOR}{/}{/}를 적용하시겠습니까?{nl} {nl} {@st43b}{s16}* 캐릭터 설정에서 헤어 염색을 바꿀 수 있습니다.{/}{/}	
+ETC_20181017_036405	If dismantled, the Legend item will be consumed and you may receive  	해당 아이템을 분해할 경우{nl}레전드 아이템은 사라지며 일정 확률로{nl}	ETC_20180517_032906	If dismantled, the Legend item will be consumed and you will receive  	해당 아이템을 분해할 경우{nl}레전드 아이템은 사라지며 	
+ETC_20181017_036406	 or 	 또는 	ETC_20180517_032907	 .{nl}Do you want to dismantle the item?	 아이템이 지급됩니다.{nl}분해하시겠습니까?	
+ETC_20181017_036407	Legend Jewel	레전드 쥬얼				
+ETC_20181017_036408	Equippable on equipment of level {LEVEL} and below.	{LEVEL} 레벨 이하 아이템에 장착 가능				
+ETC_20181017_036409	You have used all level {LEVEL} Enchant Jewel items.{nl}Close the Enchant Jewel UI?	{LEVEL} 레벨의 인챈트 쥬얼 아이템을 모두 사용하였습니다.{nl}인챈트 쥬얼 UI를 닫으시겠습니까?				
+ETC_20181017_036410	Unable to apply Enchant Jewel ({REASON}).	인챈트 쥬얼을 적용할 수 없는 [{REASON}] 아이템입니다.				
+ETC_20181017_036411	Failed to apply Rare stats.	레어 옵션 부여에 실패했습니다.				
+ETC_20181017_036412	Change [Enchant Stat]. The stat will be applied immediately and cannot be reverted.{nl}If you equip multiple items with the same Enchant Stat, only the highest value will apply to the character.{nl}Continue?	[인챈트 옵션]을 변경합니다. 옵션은 바로 적용되며 되돌릴 수 없습니다.{nl} 동일한 인챈트 옵션을 가진 장비 아이템 여러 개를 장착하는 경우, 가장 높은 수치의 인챈트 옵션만 캐릭터에게 적용됩니다.{nl}진행하시겠습니까?				
+ETC_20181017_036413	Updating trade limits. Please try again.	거래 한도를 받아오는 중입니다. 다시 시도해주세요.				
+ETC_20181017_036414	Your current market trade limit is {AMOUNT} Silver.{nl}Are you sure you want to complete the purchase?	현재 남은 마켓 거래 한도는 {AMOUNT} 실버 입니다.{nl}정말 구매하시겠습니까?				
+ETC_20181017_036415	Enchant stats cannot be applied to currently equipped items.	장착 중인 장비에 인챈트 옵션을 부여할 수 없습니다.				
+ETC_20181017_036416	Insert the equipment you want to change the appearance for.	외형을 변경할 장비를 먼저 등록해주세요.				
+ETC_20181017_036417	You can no longer save Market search options.	더 이상 마켓 검색 옵션을 저장할 수 없습니다.				
+ETC_20181017_036418	You already saved this search option.	이미 설정된 검색 옵션입니다.				
+ETC_20181017_036419	Cannot cancel. The item was not registered by the current character.	해당 캐릭터가 등록한 아이템이 아니기 때문에 취소할 수 없습니다.				
+ETC_20181017_036420	Steam Guard	OTP 또는 플레이 패스 사용				
+ETC_20181017_036421	You cannot use the Dungeon Multiply Token right now.	지금은 배수 토큰을 사용할 수 없습니다.				
+ETC_20181017_036422	{@st47}{s18}{WARNINGPROP}{/}{/} item included.{nl} {nl}{DEFAULTMSG}	{@st47}{s18}{WARNINGPROP}{/}{/} 아이템이 포함되어 있습니다.{nl} {nl}{DEFAULTMSG}	ETC_20180208_031539	{@st47}{s18}{WARNINGPROP}{/}{/}One item included.{nl} {nl}{DEFAULTMSG}	{@st47}{s18}{WARNINGPROP}{/}{/}한 아이템이 포함되어 있습니다.{nl} {nl}{DEFAULTMSG}	
+ETC_20181017_036423	[Enchant Stat]	[인챈트 옵션]				
+ETC_20181017_036424	Item Enchant Effects	아이템 인챈트 효과				
+ETC_20181017_036425	Insufficient number of required items.	필요한 아이템 개수가 충분하지 않아 아이템을 사용 할 수 없습니다.				
+ETC_20181017_036426	By Quantity	소지량순				
+ETC_20181017_036427	By Level	레벨순				
+ETC_20181017_036428	You cannot create a new character because the [Lodge{layer]]is full.{nl}Please try again in a different lodge.	현재 [숙소{layer}]가 가득차 더 이상 캐릭터를 생성할 수 없습니다. 숙소를 변경하여 시도해 주세요.				
+ETC_20181017_036429	Exceeded Market trade limit ({LIMIT} Silver).	마켓 거래 한도인 {LIMIT}실버를 초과하였습니다.	ETC_20161214_026110	Exceeded the maximum silver limit of {LIMIT}.	등록 가능한 최대 금액인 {LIMIT}실버를 초과하였습니다.	
+ETC_20181017_036430	You cannot have more than {MaxStack} [{Name}] items.	[{Name}] 아이템은 {MaxStack}개 이상 소유할 수 없습니다.				
+ETC_20181017_036431	{#ffc500}{s14}Option applied	{#ffc500}{s14}옵션 적용중				
+ETC_20181017_036432	{TeamName}'s Camp	{TeamName}의 캠프				
+ETC_20181017_036433	{TeamName}'s Table	{TeamName}의 배식대				
+ETC_20181017_036434	Participation: {COUNT} time(s){nl}No. selected: {NUMLIST}{nl}Rewards	참여횟수 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상	ETC_20170313_027060	Total count: {COUNT}{nl}Selected numbers: {NUMLIST}{nl}Reward(	누적 출석 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상(	
+ETC_20181017_036435	Participation: 0{nl}Go to the Klaipeda, Orsha or Fedimian   	참여횟수 : 0회{nl}클라페다, 오르샤, 페디미안의 	ETC_20170313_027061	Total count: 0{nl}Go to the Klaipeda, Orsha or Fedimian  	누적 출석 : 0회{nl}클라페다, 오르샤, 페디미안의 	
+ETC_20181017_036436	Remaining Rewards	남은 보상	ETC_20170313_027063	Remaining rewards(	남은 보상(	
+ETC_20181017_036437	Attendance Rewards	출석보상				
+ETC_20181017_036438	Dainu Svente	다이누 슈벤테 이벤트				
+ETC_20181017_036439	Please select a costume.	축제용 코스튬을 선택해주세요				
+ETC_20181017_036440	Please select a toy.	축제용 장난감을 선택해주세요				
+ETC_20181017_036441	Log in every day for new prizes!{nl}We're giving away fresh rewards to all players, so remember to come back again!{nl}	풍성한 한가위엔 접속만 해도 풍성한 보상이!{nl}한가위를 맞이해 선물을 드리고 있어요.{nl}한가위 연휴에는 더 좋은 선물을 드리니 잊지 말아 주세요.				
+ETC_20181017_036442	Receive Gift	선물 받기				
+ETC_20181017_036443	Gift	선물				
+ETC_20181017_036444	Halloween Reward	한가위 추가 보상				
+ETC_20181017_036445	Daily Event	일일 이벤트				
+ETC_20181017_036446	Total Count Rewards	누적 보상				
+ETC_20181017_036447	Growing Moon Challenge	랭킹 도전				
+ETC_20181017_036448	Check Player List	랭킹 확인				
+ETC_20181017_036449	Not enough Full Moon Fragments.	보름달 조각이 부족 합니다				
+ETC_20181017_036450	You cannot join the daily event now.	일일 이벤트를 진행하실 수 없습니다				
+ETC_20181017_036451	You already participated in the growing moon event today.	오늘은 이미 랭킹 도전에 참여하셨습니다				
+ETC_20181017_036452	You cannot join the growing moon challenge.	랭킹 도전에 참여하실 수 없습니다				
+ETC_20181017_036453	You can start the daily event after you finish the growing moon event.	랭킹 도전을 끝내셔야 일일 이벤트를 시작하실 수 있습니다				
+ETC_20181017_036454	Give All	모두 전달한다				
+ETC_20181017_036455	Growing Moon Event	보름달 키우기 대작전 이벤트 랭킹				
+ETC_20181017_036456	Full Moon shining on {NAME}	{NAME}님을 비추는 보름달				
+ETC_20181017_036457	Finish the daily event and join the growing moon challenge!	일일 이벤트를 완료 하신 후 랭킹에 도전해주세요!				
+ETC_20181017_036458	Starting daily event.{nl}Complete quests and defeat boss monsters to obtain  	일일 이벤트를 시작합니다{nl}퀘스트를 완료하고 보스 몬스터를 처치해 				
+ETC_20181017_036459	s!	을 획득하세요!				
+ETC_20181017_036460	Starting growing moon challenge.{nl}Complete quests and defeat boss monsters to obtain  	랭킹 도전을 시작합니다{nl}퀘스트를 완료하고 보스 몬스터를 처치해 				
+ETC_20181017_036461	x{COUNT}	{COUNT} 개				
+ETC_20181017_036462	[Total: x{COUNT}]	[누적 : {COUNT} 개]				
+ETC_20181017_036463	{nl}{#D50000}Timed items cannot be transferred to your Team Storage. Make sure you're giving them to the correct character!{/}	{nl}{#D50000}기간제 아이템은 팀 창고로 옮길 수 없습니다. 선물을 받기 전에 캐릭터를 꼭! 확인하세요.{/}				
+ETC_20181017_036464	Exchange for Spotted Baby Pig Companion	얼룩 아기 돼지 컴패니언으로 교환한다	ETC_20180208_031576	Exchange for Pig Companion	돼지 컴패니언으로 교환한다	
+ETC_20181017_036465	You can use this dungeon after completing{nl}the "Remnants of the Past" quest.	스타리 타운 "과거의 잔재" 퀘스트 완료 후{nl}던전을 이용하실 수 있습니다				
+ETC_20181017_036466	A barrier is blocking the way.	결계로 인해 지나갈 수 없습니다				
+ETC_20181017_036467	Obtained Pereja Bead.	페레자 구슬을 획득했습니다				
+ETC_20181017_036468	You already have the Pereja Bead.	이미 페레자 구슬을 소지하고 있습니다				
+ETC_20181017_036469	You cannot cross the barrier without the Pereja Bead.	페레자 구슬 없이는 결계 안으로 들어갈 수 없습니다				
+ETC_20181017_036470	Using the Pereja Bead...	페레자 구슬을 사용하는 중				
+ETC_20181017_036471	Crossed the barrier.	페레자 구슬을 사용해 결계 안으로 입장했습니다				
+ETC_20181017_036472	Checking the beads...	구슬더미를 확인 중				
+ETC_20181017_036473	Disabling the magic circle...	마법진 비활성시키는 중				
+ETC_20181017_036474	Move closer to the magic circle.	마법진과 거리가 멉니다				
+ETC_20181017_036475	This magic circle is already disabled.	이미 비활성화된 마법진입니다				
+ETC_20181017_036476	The magic orb triggered a huge explosion.	폭주하는 마법진에 마력 보주가 들어가 큰 폭발을 일으켰습니다				
+ETC_20181017_036477	Receive Reset Items	초기화 아이템 지원받기				
+ETC_20181017_036478	There is no lever here.	여기엔 레버가 없습니다.				
+ETC_20181017_036479	[{name}]: Received rewards for first Unique Raid cleared.	[{name}]유니크 레이드 첫 클리어 보상을 받았습니다.				
+ETC_20181017_036480	Registration fees consume {Price} Silver,{nl} and {@st66d_y}{s19}Cancelling the registration{nl}will not restore your trade limits.{/}{/}{nl}Register the item?	등록 수수료 {Price}실버가 소비됩니다.{/}{nl}등록하시겠습니까?	ETC_20151224_019732	{Price} silver will be required to register this item.{nl}Do you want to continue?	등록수수료 {Price}실버가 소비됩니다. 등록하시겠습니까?	
+ETC_20181017_036481	This item may not appear in the Market due to a synchronization error. Market Item Index: {marketidx}	해당 아이템이 동기화 문제로 마켓에 보이지 않을 수 있습니다. MarketItem Index : {marketidx}				
+ETC_20181017_036482	You can purchase only one item at once.	한번에 하나의 아이템만 구매하실 수 있습니다.				
+ETC_20181017_036483	Activation Scrolls	활성화 주문서				
+ETC_20181017_036484	Accessories	액세서리				
+ETC_20181017_036485	Special Gear Materials	특수 장비 강화 소재				
+ETC_20181017_036486	Ichors - Weapons	아이커 - 무기				
+ETC_20181017_036487	Ichors - Armor	아이커 - 방어구				
+ETC_20181017_036488	Stats	능력				
+ETC_20181017_036489	The request cannot be executed on an automatching server.	자동 매칭 서버에서는 수행할 수 없습니다.				
+ETC_20181017_036490	Cannot use while the instanced dungeon UI is open. If the problem persists, please restart the game and try again.	인던 신청 UI가 열려 있는 상태에선 신청할 수 없습니다. 문제가 지속된다면 재접속을 해보시기 바랍니다.				
+ETC_20181017_036491	Failed to import instanced dungeon data. If the problem persists, please restart the game and try again.	인던 정보를 얻어오는데 실패했습니다. 문제가 지속된다면 재접속을 해보시기 바랍니다.				
+ETC_20181017_036492	There isn't enough space to create a portal.	공간이 협소하여 포탈을 생성할 수 없습니다.				
+ETC_20181017_036493	Clear time: {MIN} min {SEC} sec.	클리어 시간 : {MIN}분 {SEC}초	ETC_20180517_032982	Clear time: {MIN} min {SEC} sec.	클리어 시간 : {MIN}분 {SEC}초 입니다.	
+ETC_20181017_036494	This item cannot be equipped by your current character.	해당 캐릭터는 착용할 수 없는 상품입니다.				
+ETC_20181017_036495	Equipping this item may {nl}{@st66d_y}hide some back costumes or lenses{nl} you may be wearing.{/}{nl}Proceed with the purchase?	해당 헤어 구매 시 {nl}일부 {@st66d_y}등 코스튬과 렌즈가 {nl}보이지 않을 수 있습니다.{/}{nl}그래도 구매하시겠습니까?				
+ETC_20181017_036496	Unpurchasable Item	구매 불가능한 아이템				
+ETC_20181017_036497	Equipping this item may {nl}{@st66d_y}hide you back costumes or lenses{nl}.{/}{nl}Proceed with the purchase?	해당 아이템 착용 시 {nl}일부 {@st66d_y}등 코스튬이 보이지 않을 수 있습니다.{/}{nl}그래도 구매하시겠습니까?				
+ETC_20181017_036498	Try on themed items	테마 상품 입어보기				
+ETC_20181017_036499	This item cannot be purchased separately.{nl}You have a chance of obtaining it from the {@st66d_y}Goddess' Blessed Cube{nl}.{/}	해당 상품은 개별 구매가 불가능하며,{nl}{@st66d_y}여신의 큐브에서 {nl}확률적으로 획득할 수 있는 아이템입니다.{/}				
+ETC_20181017_036500	This item has been sold or cancelled.	해당 아이템은 이미 팔렸거나 취소된 아이템입니다.				
+ETC_20181017_036501	You are not the owner of this item.	아이템의 소유주가 아닙니다.				
+ETC_20181017_036502	Failed to import item data.	아이템 정보를 얻어오는데 실패했습니다.				
+ETC_20181017_036503	Incorrect parameter data sent to server.	서버로 잘못된 Parameter 정보가 전달되었습니다.				
+ETC_20181017_036504	Unable to process due to server error.	서버오류로 정상적인 처리가 되지 않았습니다.				
+ETC_20181017_036505	Deactivating...	해제중..				
+ETC_20181017_036506	Operating the mana core...	마나 핵 작동중..				
+ETC_20181017_036507	Operating the magic device...	마력 장치 작동중..				
+ETC_20181017_036508	To use the Mana Lamp you need to collect mana from your surroundings.	마나 램프를 사용하려면 대기중의 마나를 수집해야 합니다.				
+ETC_20181017_036509	Weapon Posture	무기 자세				
+ETC_20181017_036510	Role	역할				
+ETC_20181017_036511	Function	기능				
+ETC_20181017_036512	Weapon Type	무기 종류				
+ETC_20181017_036513	Moon Rabbit Helmet (Male)	달 토끼 헬멧(남)				
+ETC_20181017_036514	Moon Rabbit Helmet (Female)	달 토끼 헬멧(여)				
+ETC_20181017_036515	Magic Research Facility Entrance	마법 실험 구역 입구	ETC_20180827_036126	Unique Raid Dungeon	유니크 레이드 던전	
+ETC_20181017_036516	Teleportation Device	텔레포트 장치				
+ETC_20181017_036517	Debuff on connected PC	접속한 pc에게 디버프				
+ETC_20181017_036518	Calabouço fechando em 10 segundos.	10초 후 던전이 종료됩니다.				
+ETC_20181017_036519	Começando em 10 segundos.	10초 뒤 시작합니다				
+ETC_20181017_036520	Derrote todos os monstros em 10 minutos.	10분 내로 모든 몬스터를 처치하기				
+ETC_20181017_036521	A barreira desapareceu.{Nl} Vá para a próxima sala.	결계가 사라졌습니다{nl}다음 방으로 이동하세요				
+ETC_20181017_036522	Um monstro apareceu.{nl}(1/10)	몬스터가 등장합니다{nl}(1/10)				
+ETC_20181017_036523	Um monstro apareceu.{nl}(2/10)	몬스터가 등장합니다{nl}(2/10)				
+ETC_20181017_036524	Um monstro apareceu.{nl}(3/10)	몬스터가 등장합니다{nl}(3/10)				
+ETC_20181017_036525	Um monstro apareceu.{nl}(4/10)	몬스터가 등장합니다{nl}(4/10)				
+ETC_20181017_036526	Um monstro apareceu.{nl}(5/10)	몬스터가 등장합니다{nl}(5/10)				
+ETC_20181017_036527	Um monstro apareceu.{nl}(6/10)	몬스터가 등장합니다{nl}(6/10)				
+ETC_20181017_036528	Um monstro apareceu.{nl}(7/10)	몬스터가 등장합니다{nl}(7/10)				
+ETC_20181017_036529	Um monstro apareceu.{nl}(8/10)	몬스터가 등장합니다{nl}(8/10)				
+ETC_20181017_036530	Um monstro apareceu.{nl}(9/10)	몬스터가 등장합니다{nl}(9/10)				
+ETC_20181017_036531	Um monstro apareceu.{nl}(10/10)	몬스터가 등장합니다{nl}(10/10)				
+ETC_20181017_036532	The Asiomage has escaped.{nl}Returning in 30 seconds.	아시오 메이지가 도망쳤습니다{nl}30초 뒤에 존으로 돌아갑니다				
+ETC_20181017_036533	5 minutes left.	5분 남았습니다				
+ETC_20181017_036534	3 minutes left.	3분 남았습니다				
+ETC_20181017_036535	1 minute left.	1분 남았습니다				
+ETC_20181017_036536	Destroy all the statues.	모든 조각상을 파괴하기				
+ETC_20181017_036537	Defeat the Mandara and Obtain the Pereja Bead	만다라를 처치해 아시오 메이지에게로 갈 수 있는 페레자 구슬 구하기				
+ETC_20181017_036538	Obtain the Pereja Bead and defeat the Asiomage.	아시오 메이지에게 갈 수 있는 페레자 구슬을 구하고{nl}아시오 메이지를 처치하세요				
+ETC_20181017_036539	Derrote o Asiomage	아시오 메이지 처치하기				
+ETC_20181017_036540	Derrote o Asiomage!	아시오 메이지 처치!				
+ETC_20181017_036541	Retornando em 60 segundos	60초 후 존으로 돌아갑니다				
+ETC_20181017_036542	Retornando em 20 segundos.	20초 뒤 존으로 돌아갑니다				
+ETC_20181017_036543	Você atingiu o limite de 60 minutos.{Nl} Retornando em 60 segundos.	제한 시간 60분을 전부 소모했습니다.{nl}60초 후 이동했던 곳으로 이동합니다.				
+ETC_20181017_036544	Resta 15 minutos.	제한 시간 15분 남았습니다.				
+ETC_20181017_036545	Resta 5 minutos.	제한 시간 5분 남았습니다.				
+ETC_20181026_036546	Halloween Uphill Defense	와글와글 할로윈 업힐 디펜스				
+ETC_20181026_036547	White Wolf Costume Selection Box	화이트 울프 코스튬 선택 상자				
+ETC_20181026_036548	Use to select one of the following items.{nl} - White Wolf Costume (Male) x1{nl} - White Wolf Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 화이트 울프 코스튬(남) 1개{nl} - 화이트 울프 코스튬(여) 1개				
+ETC_20181026_036549	Black Cat Costume Selection Box	블랙 캣 코스튬 선택 상자				
+ETC_20181026_036550	Use to select one of the following items.{nl} - Black Cat Costume (Male) x1{nl} - Black Cat (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 블랙 캣 코스튬(남) 1개{nl} - 블랙 캣 코스튬(여) 1개				
+ETC_20181026_036551	Spider Web Costume Selection Box	스파이더 웹 코스튬 선택 상자				
+ETC_20181026_036552	Use to select one of the following items.{nl} - Spider Web Costume (Male) x1{nl} - Spider Web Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 스파이더 웹 코스튬(남) 1개{nl} - 스파이더 웹 코스튬(여) 1개				
+ETC_20181026_036553	Pumpkin Stamp	호박 스탬프				
+ETC_20181026_036554	Timed items will continue to count down when placed in the storage.{nl}Continue?{nl}{@st66d_y}[IMPORTANT] 	기간제 아이템을 창고에 넣어도 기간은 동작하며, 창고 안에서 기간이 만료될 수 있습니다.{nl}계속하시겠습니까?{nl}{@st66d_y}[주의] 				
+ETC_20181026_036555	Multiply Token	배수 토큰				
+ETC_20181026_036556	 Expired items will disappear when retrieved from the storage.{/}	 아이템은 창고 안에서 기간이 만료되었을 경우 수령시 사라지게 됩니다.{/}				
+ETC_20181026_036557	Select a Pumpkin Costume.	호박 코스튬을 선택해주세요				
+ETC_20181026_036558	Total number of daily rewards received: {COUNT}	일일 보상 누적 횟수 보상을 받는다 : 현재 {COUNT}				
+ETC_20181026_036559	Today's number of completed missions: {COUNT}	금일 미션 완료 횟수 : {COUNT}				
+ETC_20181026_036560	You have an item equipped in the weapon swap slot.	무기 스왑 슬롯에 아이템이 현재 장착중에 있습니다.				

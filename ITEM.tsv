@@ -1,4 +1,4 @@
-ITEM_20150317_000001	Empty_helmet
+﻿ITEM_20150317_000001	Empty_helmet
 ITEM_20150317_000002	Murmillo Helmet
 ITEM_20150317_000003	Empty_armband
 ITEM_20150317_000004	Red Armband
@@ -15291,9 +15291,9 @@ ITEM_20170726_015288	Camarão	새우
 ITEM_20170726_015289	Um bom tipo de isca usada para pescar. Você pode esperar que ele atraia bons prêmios.	낚시에 사용하는 중급 미끼입니다. 보상을 기대해도 좋을 것 같습니다.
 ITEM_20170726_015290	Lure	루어
 ITEM_20170726_015291	Um excelente tipo de isca usada para a pesca. Você pode esperar que ele atraia prêmios muito agradáveis.	낚시에 사용하는 고급 미끼입니다. 좋은 보상을 기대해도 좋을 것 같습니다.
-ITEM_20170726_015292	Isca Colada	보급형 떡밥
+ITEM_20170726_015292	Isca Artificial	보급형 떡밥
 ITEM_20170726_015293	Chance de sucesso adicional: 0,5% {nl} Duração: 10 min {nl} Use-o em um ponto de pesca para aumentar suas chances de sucesso.	낚시 확률 0.5% 추가 {nl}지속시간 10분{nl}낚시터에서 사용하면 해당 낚시터의 낚시 확률이 증가합니다.
-ITEM_20170726_015294	Isca Colada Avançada	고급 떡밥
+ITEM_20170726_015294	Isca Artificial Avançada	고급 떡밥
 ITEM_20170726_015295	Chance de sucesso adicional: 2,2% {nl} Duração: 10 min {nl} Use-o em um ponto de pesca para aumentar suas chances de sucesso.	낚시 확률 2.2% 추가 {nl}지속시간 10분{nl}낚시터에서 사용하면 해당 낚시터의 낚시 확률이 증가합니다.
 ITEM_20170726_015296	Fogueira de Pesca	낚시 모닥불
 ITEM_20170726_015297	Diminui o ciclo de pesca em 10 segundos.{Nl} Duração: 10 min{nl} Só pode ser usado em pontos de pesca.	낚시 주기 10초 감소 {nl}지속시간 10분 {nl}낚시터에서만 사용할 수 있습니다.
@@ -15305,7 +15305,7 @@ ITEM_20170726_015302	Peixe Prateado	은빛 물고기
 ITEM_20170726_015303	Um grande peixe de prata. Você pode grelhar sobre o fogo.	은빛의 큰 물고기 입니다. 불이 있다면 구워먹을 수 있습니다.
 ITEM_20170726_015304	Peixe Dourado	황금 물고기
 ITEM_20170726_015305	Um belo peixe dourado.	아름다운 황금색 물고기 입니다.
-ITEM_20170726_015306	Enhancement Card Encharcado	물에 젖은 강화용 카드
+ITEM_20170726_015306	Soaked Enhancement Card
 ITEM_20170726_015307	Um cartão de aprimoramento molhado. Pode ser usado para aumentar o EXP de outros cards em +300.	물에 젖은 강화용 카드입니다. 카드 강화에 사용 시 +300의 경험치를 획득할 수 있습니다.
 ITEM_20170726_015308	Request Complete Certificate	의뢰완료 확인증
 ITEM_20170726_015309	A certificate proving the completion of a request by the Golden Note mercenaries.	황금노래 용병단에 요청한 의뢰가 완료되었음을 증명함.{nl}6월 29일 점검 시, 일괄 삭제됩니다.
@@ -18117,8 +18117,8 @@ ITEM_20180418_018103	Collection: Penitence Route of Great Cathedral
 ITEM_20180418_018104	Collection: Grand Corridor
 ITEM_20180418_018105	Guild Quest Reward: Special Potion
 ITEM_20180418_018106	An additional prize chest given to guilds who have successfully completed a guild quest mission.{nl}Open them to obtain recipes to create potions with unique effects. 
-ITEM_20180418_018107	[Card Equip Effect] Magic attack +[★*7] when equipping Strike weapons
-ITEM_20180418_018108	[Card Equip Effect] Attack +[★*7] when equipping Strike weapons
+ITEM_20180418_018107	{#000000}|Efeito| Ataque Mágico + [★*7] ao equipar armas do tipo Impacto
+ITEM_20180418_018108	{#000000}|Efeito| Ataque Físico + [★*7] ao equipar armas do tipo Impacto
 ITEM_20180418_018109	It's a barbed arrow. Adds an additional Strike effect. 
 ITEM_20180418_018110	Rete
 ITEM_20180418_018111	A net used by Retiarii.
@@ -19683,64 +19683,316 @@ ITEM_20180827_019669	The challenges faced by Lydia Schaffen and her solutions. R
 ITEM_20180827_019670	Essential Reading for Linkers: Finding The Nexus Point Of All Ego. Not readable.	링커들을 위한 필독서; 모든 자아의 연결점을 찾아라! 내용물은 읽어볼 수 없습니다.			
 ITEM_20180827_019671	A book sought after by the Sage Master. Not readable.	세이지 마스터가 찾고 있는 책. 내용물은 읽어볼 수 없습니다.			
 ITEM_20180827_019672	A research paper on armors used during the rule of King Kadumel. Not readable.	카듀멜 국왕 시대의 갑옷에 관한 연구서. 내용물은 읽어볼 수 없습니다
-ITEM_20181005_019673	Moon Rabbit Helmet	달 토끼 헬멧 코스튬		
-ITEM_20181005_019674	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Exchange Shop.{nl}Hair dyes do not apply.	복슬복슬한 털, 상대방의 방심을 유도하는 귀여운 얼굴, 쫑긋 솟은 두 개의 귀를 가진 달 토끼 헬멧 코스튬입니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.{nl}염색약의 색상이 적용되지 않습니다.		
-ITEM_20181005_019675	Green Dumpling Helmet	쑥송편 헬멧 코스튬		
-ITEM_20181005_019676	A sweet dumpling featuring an aromatic herb filling.	풍성한 한가위의 쑥송편 입니다.		
-ITEM_20181005_019677	Moon Rabbit Costume	달 토끼 코스튬		
-ITEM_20181005_019678	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Exchange Shop.	복슬복슬한 털, 적당히 튀어나온 배, 너무나 귀여운 달 토끼로 변신할 수 있는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019679	Royal Envoy Costume (Male)	암행어사 예복(남)		
-ITEM_20181005_019680	Undercover envoys of the royal court were special agents who scoured the Kingdom looking for outlaws and troublemakers.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사가 특별한 행사가 있을 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019681	Royal Envoy Costume (Female)	암행어사 예복(여)		
-ITEM_20181005_019682	Court Scholar Costume (Male)	장원급제 별감복(남)		
-ITEM_20181005_019683	Becoming a royal scholar was no easy task: only the Kingdom's brightest minds were allowed to serve in the court.{nl}Can be exchanged for medals at the Exchange Shop.	장권급제 후 입궁할 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019684	Court Scholar Costume (Female)	장원급제 별감복(여)		
-ITEM_20181005_019685	Black Ceremonial Robes (Male)	어사 흑단령(남)		
-ITEM_20181005_019686	These robes were worn by undercover royal envoys to carry out top-secret missions.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사가 비밀 임무를 맡을 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019687	Black Ceremonial Robes (Female)	어사 흑단령(여)		
-ITEM_20181005_019688	Horse Medal	마패		
-ITEM_20181005_019689	This medal was used by undercover envoys to reveal their identity to higher officials and request aid for their missions. Now, it has been reimagined as a hair accessory.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사의 증표인 마패를 본뜬 헤어 액세서리입니다. 암행어사가 된 기분을 느낄 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019690	Satgat Hat	삿갓		
-ITEM_20181005_019691	This style of hat was used to avoid the harsh sunlight on long trips to other regions.{nl}Can be exchanged for medals at the Exchange Shop.	여행을 떠날 때 머리에 쏟아지는 따가운 햇빛을 가릴 수 있는 기능성 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019692	Black Gat Hat	흑립		
-ITEM_20181005_019693	Those of the noble classes commonly wore this style of hat when walking or riding outside in the sun.{nl}Can be exchanged for medals at the Exchange Shop.	일정 계급 이상의 신분을 가진 사람이 바깥출입을 할 때 착용하는 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019694	Wooden Pane Shield	세살문 실드		
-ITEM_20181005_019695	Horse Medal Shield	마패 실드		
-ITEM_20181005_019696	Moon Rabbit Cannon	달 토끼 캐논		
-ITEM_20181005_019697	Cannon [Appearance]	캐논[외형 변경 전용]		
-ITEM_20181005_019698	Moon Rabbit Staff	달 토끼 스태프		
-ITEM_20181005_019699	Dumpling Rod	이색 송편 로드		
-ITEM_20181005_019700	Brush Stroke Spear	일필휘지 스피어		
-ITEM_20181005_019701	One-handed Spear [Appearance]	한손창[외형 변경 전용]		
-ITEM_20181005_019702	Scimitar of Glory	일기당천 언월도		
-ITEM_20181005_019703	Two-handed Spear [Appearance]	양손창[외형 변경 전용]		
-ITEM_20181005_019704	Wooden Stick Mace	윷가락 메이스		
-ITEM_20181005_019705	Apricot Blossom Crossbow	홍매화 크로스보우		
-ITEM_20181005_019706	Crossbow [Appearance]	쇠뇌[외형 변경 전용]		
-ITEM_20181005_019707	Roof Tile Dagger	기와지붕 대거		
-ITEM_20181005_019708	Dagger [Appearance]	단검[외형 변경 전용]		
-ITEM_20181005_019709	Moon Rabbit Kite	달 토끼 방패연		
-ITEM_20181005_019710	This kite features a cute illustration of the Moon Rabbit.{nl}Can be exchanged for medals at the Exchange Shop.	귀여운 달 토끼가 그려진 방패연입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019711	Moon Rabbit Balloon	둥실둥실 달 토끼		
-ITEM_20181005_019712	It's the Moon Rabbit! Look at it float!{nl}Can be exchanged for medals at the Exchange Shop.	둥실둥실 귀여운 달 토끼 얼굴 풍선입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019713	Knapsack	괴나리봇짐		
-ITEM_20181005_019714	Back Costume	등 코스튬		
-ITEM_20181005_019715	There's nowhere you can't go with a pair of straw shoes and your trusty knapsack.	짚신 한 짝과 봇짐이 함께라면 어디로든 갈 수 있습니다.		
-ITEM_20181005_019716	Royal Envoy Scrolls	진심이 담긴 상소문		
-ITEM_20181005_019717	A stack of scrolls filled with reports from a royal envoy of the Kingdom.	나라를 생각하는 신하들이 왕에게 진심을 담은 글 뭉치입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.		
-ITEM_20181005_019718	Top Secret Royal Scrolls	사심이 담긴 상소문		
-ITEM_20181005_019719	A stack of scrolls filled with top-secret reports from a royal envoy of the Kingdom.	사심이 듬뿍 담긴 상소문. 어떤 사심일까?		
-ITEM_20181005_019720	Moon Rabbits Pounding Rice	방아 찧는 달 토끼		
-ITEM_20181005_019721	Displays an image of Moon Rabbits pounding rice on the ground every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	착용자가 점프 시 달 토끼가 방아 찧는 모습을 볼 수 있는 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.		
-ITEM_20181005_019722	Royal Envoy Horse Stamp	암행어사 출도야		
-ITEM_20181005_019723	Displays an image of the old horse medals used by undercover royal envoys every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	최신 문물을 활용할 줄 아는 암행어사라면 점프 시 암행어사 마패 이펙트로 자신을 증명합니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.		
-ITEM_20181005_019724	Blossoms in the Wind	흩날리는 벚꽃		
-ITEM_20181005_019725	Be surrounded by delicate cherry blossoms flowing in the wind.{nl}Can be exchanged for medals at the Exchange Shop.	착용 시 로맨틱한 분위기를 만들 수 있도록 착용자의 주변에 벚꽃이 흩날리는 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.		
-ITEM_20181005_019726	Goddess' Blessed Cube x20 +2 Box	축복받은 여신의 큐브x20 +2 상자		
-ITEM_20181005_019727	Use to obtain two Goddess' Blessed Cube x10 +1.	사용 시 축복받은 여신의 큐브 x10 + 1 아이템을 2개 획득할 수 있습니다.		
-ITEM_20181005_019728	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes (will be deleted at the end of the event period).	다채로운 재료를 넣어 열심히 만든 송편입니다. 만드는 과정이 조금 특이해 보였지만, 맛은 보장되어 있습니다. {nl} 이동속도 +2, 최대 HP +5000, 최대 SP +5000가 15분간 상승합니다. (10월 4일 일괄 삭제됩니다.)	ITEM_20161005_012107	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes.
-ITEM_20181005_019729	Fire it up and enjoy with your party.{nl}Grants 60 minutes of +2 movement speed and +50% EXP gains to all party members.	폭죽을 터트려 즐거운 기운을 느껴보세요.{nl}사용 시 60분 동안 파티원 전체의 이동속도 +2, 경험치 50% 증가의 효과를 줍니다.		
-ITEM_20181005_019730	Full Moon Fragment	보름달 조각		
-ITEM_20181005_019731	Event item. Bring it to the corresponding NPC to participate in the event.{nl}Will be deleted at the end of the event.	보름달 이벤트 아이템입니다. NPC에게 전달해 이벤트에 참여하실 수 있습니다.{nl} 10월 4일 점검 시, 일괄 삭제됩니다.		
-ITEM_20181005_019732	Title - Waiting for a Full Moon	칭호 - 달아 달아 밝은 달아		
-ITEM_20181005_019733	Title box awarded for the Out Comes the Full Moon event.	보름달 키우기 대작전에서 선물하는 칭호 상자 입니다.		
+ITEM_20181017_019673	1st Anniversary Armband	태국 1주년 암밴드				
+ITEM_20181017_019674	An armband accessory celebrating 1 year of TOS.	태국 1주년을 기념하여 제작된 암밴드 입니다.				
+ITEM_20181017_019675	Twinkle Purple Lenses	트윙클 퍼플 렌즈				
+ITEM_20181017_019676	Twinkle Forest Lenses	트윙클 포레스트 렌즈				
+ITEM_20181017_019677	Amber Cross Lenses	엠버크로스 렌즈				
+ITEM_20181017_019678	Black Drop Lenses	블루 드롭 렌즈				
+ITEM_20181017_019679	Moon Rabbit Helmet	달 토끼 헬멧 코스튬				
+ITEM_20181017_019680	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Exchange Shop.{nl}Hair dyes do not apply.	복슬복슬한 털, 상대방의 방심을 유도하는 귀여운 얼굴, 쫑긋 솟은 두 개의 귀를 가진 달 토끼 헬멧 코스튬입니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.{nl}염색약의 색상이 적용되지 않습니다.				
+ITEM_20181017_019681	Green Dumpling Helmet	쑥송편 헬멧 코스튬				
+ITEM_20181017_019682	A sweet dumpling featuring an aromatic herb filling.	풍성한 한가위의 쑥송편 입니다.				
+ITEM_20181017_019683	Wastrel Zvaigzde Sword	웨이스트럴 즈바이더 소드				
+ITEM_20181017_019684	 - 10% chance per Strike attack to increase Critical Rate by 2x for 5 sec	 - 때리기 공격시 10% 확률로 5초간 치명타 발생 2배증가				
+ITEM_20181017_019685	The Wastrel itself has no interest in artifacts returned from the past. It's the powerful magic accumulated in its body that attracts old artifacts and even connects them to it. 	웨이스트럴은 과거에서 돌아온 유물에 관심이 없습니다. 그러나 그 몸에 축적된 강력한 마력이 유물을 끌어당기고 어떤 것은 웨이스트럴의 신체에 융화까지 됩니다. 				
+ITEM_20181017_019686	Asio Sword	아시오 소드				
+ITEM_20181017_019687	{nl} {nl}Sharp Blade{nl} - Critical attacks delivered with a One-handed Sword apply a buff that increases critical attack by +250 for 10 sec{nl} {nl}- While Sharp Blade is active, every critical attack increases your critical attack values by an additional +80{nl}(Max. increase: 400)	{nl} {nl}예리한 칼날{nl} - 한손검으로 공격하여 치명타 발생시 10초 동안 치명타 공격력이 250 증가하는 예리한 칼날 버프 적용{nl} {nl}- 예리한 칼날 버프가 걸린 상태에서 치명타 발생 할 때마다 치명타 공격력 80 추가 상승 {nl}(추가 상승 치명타 공격력 최대 400)				
+ITEM_20181017_019688	This piece of equipment disappeared with the accident of Nicopolis, but it returned to our world around the same time as the Asiomage and the Quipmage. 	이 장비는 니코폴리스 사고 때 세상에서 사라졌지만 아시오 메이지와 큅메이지가 분리되어 이 세상으로 귀환할 때 장비도 같이 돌아왔습니다. 				
+ITEM_20181017_019689	Wastrel Zvaigzde Two-handed Sword	웨이스트럴 즈바이더 투 핸드 소드				
+ITEM_20181017_019690	 - Increases movement speed while Cyclone is active	 - 사이클론 유지 시간 동안 이동속도 증가				
+ITEM_20181017_019691	Ancient artifacts attracted by the Wastrel are known to interact with the monster's peculiar magic. One cannot tell what new kinds of magic may arise from those interactions.	웨이스트럴에게 끌려든 과거의 유물은 웨이스트럴이 지닌 마력과 상호작용합니다. 여기서 어떤 새로운 마법이 부여될지 알 수 없습니다.				
+ITEM_20181017_019692	Asio Two-handed Sword	아시오 투 핸드 소드				
+ITEM_20181017_019693	The Quipmage was always interested in expanding his influence. To achieve this, he had plans to recruit mercenaries and provide them with weapons that could surpass the power of those used by the Royal Army.	퍼베이딩 퀸만은 못하지만 큅메이지 역시 세력 확장에는 관심이 있었습니다. 그는 때가 이르면 용병을 고용할 생각이었고, 그들에게 주어질 무기는 왕국군을 넘어서야 한다고 생각했습니다.				
+ITEM_20181017_019694	  - 1% chance to reduce an enemy's magic defense by 50% of your own magic defense and {img green_up_arrow 16 16} increase physical defense for 30 seconds with a basic attack (Does not apply to boss monsters)	 - 기본 공격 시 1% 확률로 적에게 30초간 상대방 마법 방어력의 50%만큼, 마법 방어력 {img red_down_arrow 16 16}감소, 물리 방어력 {img green_up_arrow 16 16}증가 효과 (보스몬스터에게 미적용)	ITEM_20170420_014225	 - 1% chance to reduce an enemy's magic defense by 50% of your own magic defense and {img green_up_arrow 16 16} increase physical defense for 30 seconds with a basic attack	 - 기본 공격 시 1% 확률로 적에게 30초간 상대방 마법 방어력의 50%만큼, 마법 방어력 {img red_down_arrow 16 16}감소, 물리 방어력 {img green_up_arrow 16 16}증가 효과	
+ITEM_20181017_019695	Asio Rod	아시오 로드				
+ITEM_20181017_019696	The Asiomage is notably fond of this weapon, as it provides an increase in intelligence. More than a tool, it serves as a sort of mood-boosting toy to the monster. 	아시오 메이지 본인 한정으로 이것을 들 때 기분이 좋아집니다. 정신력이 올라가기 때문입니다. 정작 기분 전환용 장난감같은 정서적인 이유라고 생각합니다. 				
+ITEM_20181017_019697	Wastrel Zvaigzde Rod	웨이스트럴 즈바이더 로드				
+ITEM_20181017_019698	A long time ago, a wizard created a giant lock and key, and with that they produced this weapon. Despite its appearance, however, it's often used as a cane for walking.	아주 오래 전 어떤 마법사가 매우 큰 자물쇠를 만들고 그 열쇠로 이것을 만들었다고 합니다. 열쇠로 만들어졌지만, 지팡이로 짚고 다니는 일이 더 많았다고 합니다.				
+ITEM_20181017_019699	Wastrel Zvaigzde Bow	웨이스트럴 즈바이더 보우				
+ITEM_20181017_019700	All the equipment that disappeared during the accident of Nicopolis has returned in the exact same conditions, without any signs of the time that has passed. 	돌아온 니코폴리스의 장비는 사라질 때 구조와 모양이 그대로 입니다. 다시 말해 시간의 경과에 따른 노후화는 전혀 없습니다. 				
+ITEM_20181017_019701	Asio Bow	아시오 보우				
+ITEM_20181017_019702	{nl} {nl}Animal Friend: Rabbit{nl} - Skill attacks grant a 10% chance of summoning a rabbit, which applies one of two random buffs.{nl} {nl} - Smiley Bunny: critical rate +20  per stack for 10 sec, triggers Angry Bunny after 3 stacks.{nl} - Angry Bunny: AoE arrack ratio +2, last buff applied by rabbit (duration 15 sec).	{nl} {nl}동물 친구: 토끼{nl} - 스킬 공격시 10% 확률로 토끼가 소환됩니다.{nl} 토끼는 5초마다 2개의 버프 중 1개의 버프를 줍니다.{nl} {nl} - 스마일 바니: 10초간 치명타 발생 20씩 증가 3중첩시 앵그리 바니 발동 {nl} - 앵그리 바니: 광역 공격 비율 2증가 토끼가 더이상 버프를 주지 않습니다. (지속시간 15초)				
+ITEM_20181017_019703	The Asiomage is carrying out research to improve the equipment originally developed by his other self, the Quipmage. This item, for example, is already more effective than when it first returned to our world.	아시오 메이지는 그의 다른 분체인 큅메이지가 제조한 장비를 개선하는 연구를 진행중입니다. 그러므로 이 장비는 우리 세계로 처음 돌아왔을 때보다 좋아졌습니다.				
+ITEM_20181017_019704	Wastrel Zvaigzde Crossbow	웨이스트럴 즈바이더 크로스보우				
+ITEM_20181017_019705	All Nicopolis equipment has returned to our world in the exact same conditions as when it disappeared, from its basic components down to the coatings of oil, now centuries old.	다시 우리 세계로 돌아온 니코폴리스 장비는 활줄같이 약한 부분은 물론이고 심지어 수백년 전에 칠해진 기름까지 그대로 남아있습니다.				
+ITEM_20181017_019706	Asio Crossbow	아시오 크로스보우				
+ITEM_20181017_019707	The Asiomage is not fond of this weapon. He still remembers being used as a living bullseye in past experiments, particularly for crossbows.	아시오 메이지는 이 장비를 싫어합니다. 이유는 자신이 실험체였던 당시 크로스보우의 표적이 된 일이 있기 때문입니다.				
+ITEM_20181017_019708	Wastrel Zvaigzde Mace	웨이스트럴 즈바이더 메이스				
+ITEM_20181017_019709	Some wizards of old Nicopolis were secretly opposed to the Kingdom, but in order to feign support, they developed a few weapons that make use of divine power. This is one of such weapons.	과거 니코폴리스의 일부 마법사는 내심으로는 왕국을 적대하면서 겉으로는 아닌 척하느라 신성력에 기반한 무기도 만들 필요가 있었습니다. 이 장비가 그 한 예입니다.				
+ITEM_20181017_019710	Asio Mace	아시오 메이스				
+ITEM_20181017_019711	{nl} {nl}Summon Shaman Doll{nl}  - One-handed Blunt weapon attacks grant a 10% chance of summoning a shaman doll (duration 5 sec, max. 1 doll).{nl} {nl}  - Destroy the doll to deal damage all around in proportion to its HP.{nl}  (Shaman doll HP: 30,000-50,000)	{nl} {nl}주술 인형 소환{nl}  - 한손 둔기로 공격시 10% 확률로 주술 인형을 소환합니다. (유지 시간: 5초, 최대 소환 가능 수: 1){nl} {nl}  - 주술 인형을 공격하여 파괴시 주술 인형의 체력에 비례하여 주위에 대미지를 줍니다.{nl}  (주술 인형 체력: 30,000 ~ 50,000)				
+ITEM_20181017_019712	Some scientists complain that the name of this item is arbitrary, as it bears no resemblance to owls whatsoever.	책만 보는 일부 학자는 이 무기의 어디에도 올빼미의 특징이 없는데 왜 이런 이름인지 모르겠다고 불평합니다.				
+ITEM_20181017_019713	Wastrel Zvaigzde Two-handed Mace	웨이스트럴 즈바이더 투 핸드 메이스				
+ITEM_20181017_019714	Some of the items attracted by the Wastrel's bodily magic are actually harmful to it. Otherwise, the Wastrel would be even more powerful than it is now.	어떤 마법 장비는 웨이스트럴의 몸속에서 웨이스트럴에게 나쁜 영향을 미칩니다. 그렇지 않았다면 웨이스트럴은 지금보다 더 강했을 것입니다.				
+ITEM_20181017_019715	Asio Two-handed Mace	아시오 투 핸드 메이스				
+ITEM_20181017_019716	 - Demolition skill level {img green_up_arrow 16 16}2{nl}  - God Smash skill level {img green_up_arrow 16 16}2	 - 데몰리션 스킬 레벨 {img green_up_arrow 16 16}2증가{nl}  - 갓 스매시 스킬 레벨 {img green_up_arrow 16 16}2 증가				
+ITEM_20181017_019717	This weapon is said to have been intended for an army of Golem monsters. It is unknown whether the Quipmage or the Asiomage have any memory of that fact.	본래의 제작의도는 골렘 종류의 병사를 많이 만들고 그들에게 이 무기를 주려고 했다고 합니다. 다만 지금의 큅메이지나 아시오 메이지에게 그런 과거의 기억이 있는지 모르겠습니다.				
+ITEM_20181017_019718	Wastrel Zvaigzde Shield	웨이스트럴 즈바이더 실드				
+ITEM_20181017_019719	 - Final block rate {img green_up_arrow 16 16}2%{nl}  -  5% chance of resisting rank 2 or lower status ailments	 - 최종블럭률 {img green_up_arrow 16 16}2%{nl}  -  5% 확률로 2랭크 이하 상태 이상 저항				
+ITEM_20181017_019720	Fortunately for everyone, the Wastrel does not use this shield for protection. However, the shield is said to ease the pain of generating new equipment items.	다행히도 웨이스트럴이 이것으로 자신의 방어력을 올릴 일은 없습니다. 다만 다른 장비들이 발생시키는 고통은 조금 덜어준다고 합니다.				
+ITEM_20181017_019721	Asio Shield	아시오 실드				
+ITEM_20181017_019722	 - Final block rate {img green_up_arrow 16 16}2%{nl} {nl} Eye of the Asiomage{nl} - Provocation targets {img green_up_arrow 16 16}1	 - 최종블럭률 {img green_up_arrow 16 16}2%{nl} {nl} 아시오 메이지의 주시{nl} - 도발 대상 수 {img green_up_arrow 16 16}1명				
+ITEM_20181017_019723	Unlike other Asio items, this one faithfully represents the style and conventions popular in old Nicopolis before the great accident.	다른 아시오 무기들과 달리 이것은 과거 니코폴리스가 사라진 시대에 유행하던 방식을 잘 나타낸 방패입니다.				
+ITEM_20181017_019724	Wastrel Zvaigzde Spear	웨이스트럴 즈바이더 스피어				
+ITEM_20181017_019725	Most items that contain magic gems have negative effects on the Wastrel's body. That can be considered a fortunate occurrence.	대개 이렇게 마법 보석이 포함된 장비는 웨이스트럴의 몸안에서 악영향을 미칩니다. 다행한 일입니다.				
+ITEM_20181017_019726	Asio Spear	아시오 스피어				
+ITEM_20181017_019727	A spear designed by a wizard. The Quipmage doesn't seem to have thought that the shape of this weapon would pose any problem.	마법사가 고안한 창다운 모습입니다. 용병에게 대량 공급하려 한 의도와 달리 모양에 문제가 있다는 생각을 큅메이지는 하지 못했습니다.				
+ITEM_20181017_019728	Wastrel Zvaigzde Pike	웨이스트럴 즈바이더 파이크				
+ITEM_20181017_019729	Of all the items attracted by the Wastrel, some are incorporated physically, while some have only their magic properties absorbed. Physically assimilated objects are thought to be constantly prodding the body of the Wastrel.	웨이스트럴에게 끌린 장비는 물리적으로 그 몸안에 있는 경우와 실체없이 마법적으로 함유된 경우가 있습니다. 물리적인 경우 끊임없이 웨이스트럴을 콕콕 찌르는 셈입니다.				
+ITEM_20181017_019730	Asio Pike	아시오 파이크				
+ITEM_20181017_019731	The Asiomage is missing crucial memories about his line of equipment, while the Quipmage wonders why he remembers such useless information. This is thought to be the reason why there is still no upgraded version of the Asio Pike. 	장비에 관련하여 아시오 메이지는 몇몇 꼭 필요한 부분에서 기억이 없습니다. 반면에 큅메이지는 자신이 왜 그런 쓸모없는 기억을 지니고 있는지 궁금해합니다. 따라서 아시오 파이크의 개량품은 나오지 않습니다. 				
+ITEM_20181017_019732	Wastrel Zvaigzde Dagger	웨이스트럴 즈바이더 대거				
+ITEM_20181017_019733	{nl} {nl}Black & White Mask{nl}ENH: Additional Holy property attack +30 per weapon enhancement stage starting from +10{nl} {nl}TRA: Additional Dark property attack +30 per transcendence stage{nl}(Max. increase in additional Holy/Dark attack: 300)	{nl} {nl}흑백 가면 {nl}강화: 무기 10강 이상부터 강화 수치 1당 신성 속성 추가 대미지 30 증가 {nl} {nl}초월: 초월 수치 1당 어둠 속성 추가 대미지 30 증가 {nl}(신성 속성 추가 대미지, 어둠 속성 추가 대미지 최대 증가량: 300)				
+ITEM_20181017_019734	This item is thought to flow in the veins of the Wastrel. Although the monster's blood and circulatory system are very different from that of most living beings, it still seems to cause the Wastrel pain when it passes through certain regions of its body.	이 장비는 웨이스트럴의 혈관을 타고 그 몸안을 돌아다닌다고 합니다. 웨이스트럴의 피와 혈관은 일반적인 생물과는 많이 달라진 마법적인 성질을 지녔지만 그래도 특정부위를 지날 때는 아프다고 합니다.				
+ITEM_20181017_019735	Asio Dagger	아시오 대거				
+ITEM_20181017_019736	 - Dagger attacks in stealth mode increase damage by 15%	 - 은신 상태일 때 단검으로 공격시 대미지 15% 증가				
+ITEM_20181017_019737	The Quipmage intended to use this weapon to assassinate the Pervading Queen and the Teal Specter. All three of these wizards had plans to annihilate the others, each through their own methods. 	이 장비는 큅메이지 본인이 직접 사용하려 했습니다. 물론 상대는 퍼베이딩 퀸과 틸스팩터이며 당연히 암살용입니다. 방법은 다르지만 이 세 마법사는 모두 상대의 등을 노리긴 마찬가지였습니다. 				
+ITEM_20181017_019738	Wastrel Zvaigzde Staff	웨이스트럴 즈바이더 스태프				
+ITEM_20181017_019739	In the early days of this weapon, it was common for it to break down into three pieces. Large amounts of magic were used to increase its durability, so much so that, now, it will not break even when it is fused into the Wastrel.	이 장비는 제조 초기에 세 부분으로 부러지는 일이 잦았습니다. 형체를 유지하도록 내구도를 올리는데 많은 마력이 사용되었고, 덕분에 웨이스트럴에 결합되어서도 부서지지 않았습니다.				
+ITEM_20181017_019740	Asio Staff	아시오 스태프				
+ITEM_20181017_019741	Unlike the Asio Rod, the Asio Staff is known to bring down the spirits of the Asiomage. The intelligence boost causes him to relive even more memories of his turbulent past.	아시오 로드와 달리 아시오 스태프는 아시오 메이지의 기분을 좋지 않게 합니다. 지능이 상승하기 때문에 불쾌한 기억들이 더 많이 생각나기 때문입니다.				
+ITEM_20181017_019742	Wastrel Zvaigzde Pistol	웨이스트럴 즈바이더 피스톨				
+ITEM_20181017_019743	 - Full Metal Jacket skill level {img green_up_arrow 16 16}2{nl}  - Retreat Shot skill level {img green_up_arrow 16 16}2	 - 풀 메탈 자켓 스킬 레벨 {img green_up_arrow 16 16} 2{nl}  - 후퇴 사격 스킬 레벨 {img green_up_arrow 16 16} 2				
+ITEM_20181017_019744	Due to the gap created by Medzio Diena, the Wastrel's living quarters have begun to attract common items found in the present. This means that the Wastrel is not only surrounded by weapons like this pistol, but also by miscellaneous items like worn-out shoes and broken chairs.	웨이스트럴의 거처가 신수의 날 탓에 틈이 생기자 과거에서 넘어온 장비뿐 아니라 잡다한 현재의 다른 물품도 빨려들어갔다고 합니다. 따라서 이런 총이 아니라 헌 신발이나 부서진 의자 같은 그야말로 잡동사니가 나왔을 수도 있습니다.				
+ITEM_20181017_019745	Asio Pistol	아시오 피스톨				
+ITEM_20181017_019746	{nl} {nl}Target Set{nl} - Pistol attacks grant a 20% chance of applying the Target Set debuff.{nl} {nl} - Target Set deals 5,000-7,000 damage to 10 nearby enemies when it reaches 3 stacks.{nl} {nl} - Damage increased by 30% per nearby enemy affected by Target Set (max. increase: 700%).	{nl} {nl}타겟 설정{nl} - 피스톨 공격시 20% 확률로 피격된 적에게 타겟 설정 디버프를 부여합니다.{nl} {nl} - 타겟 설정 디버프 3회 중첩시 주위의 적 10명에게 5,000 ~ 7,000 대미지를 줍니다. {nl} {nl} - 주위에 타겟 설정 디버프에 걸린 대상 1당 * 30%씩 대미지가 증가합니다. (대미지 최대 700% 증가)				
+ITEM_20181017_019747	The Asiomage is quite proud of this weapon. He began designing his own gunpowder weapons after returning to our world. 	아시오 메이지는 이 무기를 무척 자랑스럽게 여깁니다. 왜냐하면 화약을 사용하는 무기는 그가 귀환한 후 혼자서 고안한 것이기 때문입니다. 				
+ITEM_20181017_019748	Wastrel Zvaigzde Rapier	웨이스트럴 즈바이더 레이피어				
+ITEM_20181017_019749	Weapons like these with low slashing power can easily end up lodged in the Wastrel's body. Fortunately for the Wastrel, however, they do not cause him pain.	베는 힘이 약한 이런 장비는 웨이스트럴의 몸안에 쉽게 고정됩니다. 웨이스트럴 입장에서는 그나마 고통을 안 주는 유형입니다.				
+ITEM_20181017_019750	Asio Rapier	아시오 레이피어				
+ITEM_20181017_019751	 - Epee Garde skill level {img green_up_arrow 16 16}2	 - 에페 갸르드 스킬 {img green_up_arrow 16 16}2 증가				
+ITEM_20181017_019752	Although the original designer of this weapon was the Pervading Queen, the Asiomage is the one currently developing it. The Pervading Queen has long lost interest in the production of equipment.	이 장비의 원래 고안자는 퍼베이딩 퀸입니다. 하여간 지금은 아시오 메이지가 개량중입니다. 퍼베이딩퀸은 장비제조에 관해서 관심을 잃은 지 오래입니다.				
+ITEM_20181017_019753	  - Sweeping Cannon skill level {img green_up_arrow 16 16}1{nl}  - Cannon Barrage skill level 	 - 스위핑 캐논 스킬 레벨 {img green_up_arrow 16 16}1{nl}  - 캐논 배라지 스킬 레벨{img green_up_arrow 16 16}1	ITEM_20171128_016306	 - Sweeping Cannon skill level {img green_up_arrow 16 16}1{nl}  - Bazooka skill level {img green_up_arrow 16 16}1	 - 스위핑 캐논 스킬 레벨 {img green_up_arrow 16 16}1{nl}  - 바주카 스킬 레벨{img green_up_arrow 16 16}1	
+ITEM_20181017_019754	Wastrel Zvaigzde Cannon	웨이스트럴 즈바이더 캐논				
+ITEM_20181017_019755	 - Attacks in Bazooka status grant a 10% chance of applying the same damage as the previous attack.	 - 바주카 상태일 때 공격시 10% 확률로 이전 대미지와 동일한 대미지를 줍니다.				
+ITEM_20181017_019756	Seeing as so many weapons are absorbed into the Wastrel's body, one would think at least some of them would be deployed inside of it.	이왕 이렇게 현대적으로 제조된 장비가 웨이스트럴에게 빨려들어갈 상황이라면 몸 안에서 몇발 발사되었다면 좋았을 텐데 말입니다.				
+ITEM_20181017_019757	Asio Cannon	아시오 캐논				
+ITEM_20181017_019758	 - Sweeping Cannon skill level {img green_up_arrow 16 16}2{nl}  - Siege Burst skill level {img green_up_arrow 16 16}2	 - 스위핑 캐논 스킬 레벨{img green_up_arrow 16 16}2{nl}  - 시즈 버스트 스킬 레벨{img green_up_arrow 16 16}2				
+ITEM_20181017_019759	The Asiomage was heavily influenced by the excessive scholarly fervor that is typical of wizards, which led him to create unnecessary weapons for no apparent reason.	아시오 메이지가 그의 분체에게서 깊은 영향을 받은 것이 마법사 특유의 지나친 학구열입니다. 그저 만들 수 있다는 이유로 자신에게는 전혀 쓸모없는 무기를 만들어냈습니다.				
+ITEM_20181017_019760	Wastrel Zvaigzde Musket	웨이스트럴 즈바이더 머스킷				
+ITEM_20181017_019761	This weapon was not absorbed into the Wastrel's body by traveling through the gap that appeared during Medzio Diena. It is said to have been carried by an adventurer who attempted to defeat the Wastrel.	이 장비는 현대의 장비가 신수의 날로 벌어진 틈을 타고 웨이스트럴에게 들어간 것이 아닙니다. 웨이스트럴을 잡아보겠다고 들어간 어느 모험가의 유품이라고 봅니다.				
+ITEM_20181017_019762	Asio Musket	아시오 머스킷				
+ITEM_20181017_019763	After returning to our world and learning that many bird species had mutated into monsters, the Asiomage made plans to create his own army of birds to carry this weapon. A rather birdish thought, one might say.	그가 돌아온 세계에 조류가 변형된 몬스터가 많아졌다는 사실을 알게된 아시오 메이지는 그들에게 이 무기를 주어 자신의 군대를 만들 수 있다고 생각합니다. 새다운 생각입니다.				
+ITEM_20181017_019764	Moon Rabbit Costume	달 토끼 코스튬				
+ITEM_20181017_019765	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Exchange Shop.	복슬복슬한 털, 적당히 튀어나온 배, 너무나 귀여운 달 토끼로 변신할 수 있는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181017_019766	Royal Envoy Costume (Male)	암행어사 예복(남)				
+ITEM_20181017_019767	Undercover envoys of the royal court were special agents who scoured the Kingdom looking for outlaws and troublemakers.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사가 특별한 행사가 있을 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181017_019768	Royal Envoy Costume (Female)	암행어사 예복(여)				
+ITEM_20181017_019769	Court Scholar Costume (Male)	장원급제 별감복(남)				
+ITEM_20181017_019770	Becoming a royal scholar was no easy task: only the Kingdom's brightest minds were allowed to serve in the court.{nl}Can be exchanged for medals at the Exchange Shop.	장권급제 후 입궁할 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181017_019771	Court Scholar Costume (Female)	장원급제 별감복(여)				
+ITEM_20181017_019772	Black Ceremonial Robes (Male)	어사 흑단령(남)				
+ITEM_20181017_019773	These robes were worn by undercover royal envoys to carry out top-secret missions.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사가 비밀 임무를 맡을 때 착용하는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181017_019774	Black Ceremonial Robes (Female)	어사 흑단령(여)				
+ITEM_20181017_019775	The chessboard is much more than part of game; it is a true battlefield.{nl}Can be exchanged for medals at the Exchange Shop.	체스판은 단순한 격자무늬판이지만, 킹 즉 왕국을 지키는 전쟁을 하는 전쟁터와 같습니다.{nl}이러한 체스판을 활용한 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20180827_019210	The chessboard is much more than part of game; it is a true battlefield.{nl}Can be exchanged for medals at the Exchange Shop.	체스판은 단순한 격나무늬판이지만, 킹 즉 왕국을 지키는 전쟁을 하는 전쟁터와 같습니다.{nl}이러한 체스판을 활용한 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	
+ITEM_20181017_019776	Horse Medal	마패				
+ITEM_20181017_019777	This medal was used by undercover envoys to reveal their identity to higher officials and request aid for their missions. Now, it has been re-imagined as a hair accessory.{nl}Can be exchanged for medals at the Exchange Shop.	암행어사의 증표인 마패를 본뜬 헤어 액세서리입니다. 암행어사가 된 기분을 느낄 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181017_019778	Satgat Hat	삿갓				
+ITEM_20181017_019779	This style of hat was used to avoid the harsh sunlight on long trips to faraway regions.{nl}Can be exchanged for medals at the Exchange Shop.	여행을 떠날 때 머리에 쏟아지는 따가운 햇빛을 가릴 수 있는 기능성 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181017_019780	Black Gat Hat	흑립				
+ITEM_20181017_019781	Those of the noble classes commonly wore this style of hat when walking or riding outside in the sun.{nl}Can be exchanged for medals at the Exchange Shop.	일정 계급 이상의 신분을 가진 사람이 바깥출입을 할 때 착용하는 모자입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181017_019782	Wooden Pane Shield	세살문 실드				
+ITEM_20181017_019783	Horse Medal Shield	마패 실드				
+ITEM_20181017_019784	Moon Rabbit Cannon	달 토끼 캐논				
+ITEM_20181017_019785	Cannon [Appearance]	캐논[외형 변경 전용]				
+ITEM_20181017_019786	Moon Rabbit Staff	달 토끼 스태프				
+ITEM_20181017_019787	Dumpling Rod	이색 송편 로드				
+ITEM_20181017_019788	Brush Stroke Spear	일필휘지 스피어				
+ITEM_20181017_019789	One-handed Spear [Appearance]	한손창[외형 변경 전용]				
+ITEM_20181017_019790	Scimitar of Glory	일기당천 언월도				
+ITEM_20181017_019791	Two-handed Spear [Appearance]	양손창[외형 변경 전용]				
+ITEM_20181017_019792	Wooden Stick Mace	윷가락 메이스				
+ITEM_20181017_019793	Apricot Blossom Crossbow	홍매화 크로스보우				
+ITEM_20181017_019794	Crossbow [Appearance]	쇠뇌[외형 변경 전용]				
+ITEM_20181017_019795	Roof Tile Dagger	기와지붕 대거				
+ITEM_20181017_019796	Dagger [Appearance]	단검[외형 변경 전용]				
+ITEM_20181017_019797	Let's show everyone your support! Voooooooo! Event item.	응원도구 입니다. 뿌우우우우. 9월 11일 점검 시, 일괄 삭제됩니다.	ITEM_20170726_015206	Event item.	 6월 29일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019798	It lets you dig. Event item.	땅을 파낼 수 있습니다. 9월 11일 점검 시, 일괄 삭제됩니다.	ITEM_20180517_018364	 Event item.	 6월 28일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019799	Ah! You found something! Event item.	앗! 뭔가 발견한 것 같습니다. 9월 11일 점검 시, 일괄 삭제됩니다.	ITEM_20170726_015206	Event item.	 6월 29일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019800	Work on your biceps. Event item.	근력을 키우는데 도움이 됩니다. 9월 11일 점검 시, 일괄 삭제됩니다.	ITEM_20170726_015210	Work on your biceps. Event item.	근력을 키우는데 도움이 됩니다. 6월 29일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019801	Bursting the little plastic bubbles is the most satisfying feeling ever. Event item.	뽁 하고 터트리면 기분이 좋아집니다. 9월 11일 점검 시, 일괄 삭제됩니다.	ITEM_20170726_015212	Bursting the little plastic bubbles is the most satisfying feeling ever. Event item.	뽁 하고 터트리면 기분이 좋아집니다. 6월 29일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019802	Blow it and make it sound like a real party. Use a maximum of once in 30 seconds. Event item.	입으로 불면 경쾌한 소리가 나지만 30초에 한번 사용 할 수 있습니다. 9월 11일 점검 시, 일괄 삭제됩니다.	ITEM_20170726_015214	Blow it and make it sound like a real party. Use a maximum of once in 30 seconds. Event item.	입으로 불면 경쾌한 소리가 나지만 30초에 한번 사용 할 수 있습니다. 6월 29일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019803	Snow is falling. Event item.	눈이 내립니다. 9월 11일 점검 시, 일괄 삭제됩니다.	ITEM_20170726_015206	Event item.	 6월 29일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019804	Just have a seat. Event item.	잠시 쉬고 싶습니다. 9월 11일 점검 시, 일괄 삭제됩니다.	ITEM_20170726_015206	Event item.	 6월 29일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019805	[Event] TOS Celebration Costume (Male)	[이벤트]축제용 심플 코스튬(남)				
+ITEM_20181017_019806	A Dainu Svente event item. Use to change your appearance.	다이누 슈벤테 이벤트 아이템 입니다. 착용하면 외형이 변경됩니다.				
+ITEM_20181017_019807	[Event] TOS Celebration Costume (Female)	[이벤트]축제용 심플 코스튬(여)				
+ITEM_20181017_019808	Moon Rabbit Kite	달 토끼 방패연				
+ITEM_20181017_019809	This kite features a cute illustration of the Moon Rabbit.{nl}Can be exchanged for medals at the Exchange Shop.	귀여운 달 토끼가 그려진 방패연입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181017_019810	Moon Rabbit Balloon	둥실둥실 달 토끼				
+ITEM_20181017_019811	It's the Moon Rabbit! Look at it float!{nl}Can be exchanged for medals at the Exchange Shop.	둥실둥실 귀여운 달 토끼 얼굴 풍선입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181017_019812	Knapsack	괴나리봇짐				
+ITEM_20181017_019813	Asas (Costas)	등 코스튬				
+ITEM_20181017_019814	There's nowhere you can't go with a pair of straw shoes and your trusty knapsack.	짚신 한 짝과 봇짐이 함께라면 어디로든 갈 수 있습니다.				
+ITEM_20181017_019815	Royal Envoy Scrolls	진심이 담긴 상소문				
+ITEM_20181017_019816	A stack of scrolls filled with reports from a royal envoy of the Kingdom.	나라를 생각하는 신하들이 왕에게 진심을 담은 글 뭉치입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181017_019817	Top Secret Royal Scrolls	사심이 담긴 상소문				
+ITEM_20181017_019818	A stack of scrolls filled with top-secret reports from a royal envoy of the Kingdom.	사심이 듬뿍 담긴 상소문. 어떤 사심일까?				
+ITEM_20181017_019819	Moon Rabbits Pounding Rice	방아 찧는 달 토끼				
+ITEM_20181017_019820	Displays an image of Moon Rabbits pounding rice on the ground every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	착용자가 점프 시 달 토끼가 방아 찧는 모습을 볼 수 있는 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20181017_019821	Royal Envoy Horse Stamp	암행어사 출도야				
+ITEM_20181017_019822	Displays an image of the old horse medals used by undercover royal envoys every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	최신 문물을 활용할 줄 아는 암행어사라면 점프 시 암행어사 마패 이펙트로 자신을 증명합니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20181017_019823	Blossoms in the Wind	흩날리는 벚꽃				
+ITEM_20181017_019824	Be surrounded by delicate cherry blossoms flowing in the wind.{nl}Can be exchanged for medals at the Exchange Shop.	착용 시 로맨틱한 분위기를 만들 수 있도록 착용자의 주변에 벚꽃이 흩날리는 이펙트를 만들어냅니다. {nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20181017_019825	GM's Thank You Box	GM의 감사 박스				
+ITEM_20181017_019826	Right-click to use and receive the following items and buffs.{nl}Rewards:{nl} - [Event] 10 TP x1{nl}Buff: {nl} - Red Ox (30 Min) {nl} - Movement speed increase - Event (30 Min) {nl} - Nearby HP restored - Event (30 Min) {nl} - Nearby HP restored - Event (30 Min)	마우스 우클릭으로 사용 할 수 있습니다. 사용시 아이템및 버프를 얻을 수 있습니다. {nl}보상 아이템{nl} - 10TP[증정용] x1{nl}보상 버프 {nl} - 레드옥스(30분) {nl} - 이동속도 증가 - 이벤트(30분) {nl} - 주변 HP 회복 - 이벤트(30분) {nl} - 주변 SP 회복 - 이벤트(30분)				
+ITEM_20181017_019827	GM's Apology Box	GM의 사과 박스				
+ITEM_20181017_019828	[PP] Red Vampire Costume Selection Box	[PC방] 붉은 뱀파이어 코스튬 선택 상자				
+ITEM_20181017_019829	Right-click to use. You can select one item from the following.{nl}-Red Vampire Costume (Male) / Red Vampire Costume (Female).{nl}Can be used after the maintenance on October 4.	마우스 우클릭으로 사용 할 수 있습니다. 사용시 붉은 뱀파이어 코스튬(여) / 붉은 뱀파이어 코스튬(남) 중 1개를 획득 할 수 있습니다.{nl} - 10월 4일 점검 이후부터 사용 가능합니다.				
+ITEM_20181017_019830	Error Compensation Silver Box: 1,000	오류 보상용 실버 지급 상자 : 1,000				
+ITEM_20181017_019831	Use to obtain Silver x1,000.	사용 시 1,000 x 소지량 만큼 실버를 획득할 수 있습니다.				
+ITEM_20181017_019832	Error Compensation Silver Box: 10,000	오류 보상용 실버 지급 상자 : 10,000				
+ITEM_20181017_019833	Use to obtain Silver x10,000.	사용 시 10,000 x 소지량 만큼 실버를 획득할 수 있습니다.				
+ITEM_20181017_019834	Goddess' Blessed Cube x20 +2 Box	축복받은 여신의 큐브x20 +2 상자				
+ITEM_20181017_019835	Use to obtain two Goddess' Blessed Cube x10 +1.	사용 시 축복받은 여신의 큐브 x10 + 1 아이템을 2개 획득할 수 있습니다.				
+ITEM_20181017_019836	Asiomage Testing Grounds Raid Cube	아시오 메이지의 실험실 레이드 큐브				
+ITEM_20181017_019837	Spirit Fragment: Asiomage	영혼 조각: 아시오 메이지				
+ITEM_20181017_019838	Collect 50 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.	레시피 조각 50개를 모아서 사용하면 레서피 혹은 완제품을 얻을 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.				
+ITEM_20181017_019839	Magic Research Facility Raid Cube	마법 실험 구역 레이드 큐브				
+ITEM_20181017_019840	Spirit Fragment: Wastrel	영혼 조각: 웨이스트럴				
+ITEM_20181017_019841	Collect 50 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.	레시피 조각 50개를 모아서 사용하면 레서피 혹은 완제품을 얻을 수 있습니다.  마우스 오른쪽 버튼 클릭으로 사용합니다.				
+ITEM_20181017_019842	Asiomage Card	아시오 메이지 카드				
+ITEM_20181017_019843	[Card Equip Effect] Critical Rate +[{img star_mark 20 20}*15]	[슬롯 장착 효과] 치명타 발생 +[★ * 15]				
+ITEM_20181017_019844	Wastrel Card	웨이스트럴 카드				
+ITEM_20181017_019845	[Card Equip Effect] Maximum HP +[{img star_mark 20 20}*500]	[슬롯 장착 효과] 최대 HP +[★ * 500]				
+ITEM_20181017_019846	A mystical hammer said to dismantle everything it touches. Its mysterious powers seem to have run out.	닿은 것을 분해하는 힘이 있는 신비한 망치로 알려졌습니다. 신비한 힘이 다했는지 작동하지 않습니다.	ITEM_20180208_017512	A hammer with mysterious powers that allow it to dismantle all that it touches. Used to extract Blessed Shards.	닿은 것을 분해하는 힘이 있는 신비한 망치입니다. 축복받은 조각 추출에 사용되는 재료입니다.	
+ITEM_20181017_019847	Said to absorb magic from its surroundings. Now, it no longer reacts to magic energy.	여기저기 솟아난 침은 주변의 마력을 흡수했다고 알려졌습니다. 현재는 마력에 반응하지 않습니다.	ITEM_20160811_011116	Absorbs magic from its surroundings. Used to extract items.	여기저기 솟아난 침은 주변의 마력을 흡수합니다. 아이템 추출에 사용되는 재료입니다.	
+ITEM_20181017_019848	Spotted Baby Pig Egg	얼룩 아기 돼지 알				
+ITEM_20181017_019849	A baby pig egg obtained as an Adventure Journal reward. Right-click to use and register your Companion.{nl}This Companion can be mounted without a riding skill.	모험일지 보상인 컴패니언 교환권으로 획득한 얼룩 아기 돼지 알. 마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다.{nl}해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능합니다.				
+ITEM_20181017_019850	A book sought after by the Sage Master. You can read it.	세이지 마스터가 찾고 있는 책. 읽어볼 수 있습니다.				
+ITEM_20181017_019851	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes (will be deleted at the end of the event period).	다채로운 재료를 넣어 열심히 만든 송편입니다. 만드는 과정이 조금 특이해 보였지만, 맛은 보장되어 있습니다. {nl} 이동속도 +2, 최대 HP +5000, 최대 SP +5000가 15분간 상승합니다. (10월 4일 일괄 삭제됩니다.)	ITEM_20161005_012107	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes.	다채로운 재료를 넣어 열심히 만든 송편입니다. 만드는 과정이 조금 특이해 보였지만, 맛은 보장되어 있습니다. {nl} 이동속도 +2, 최대 HP +5000, 최대 SP +5000가 15분간 상승합니다. (10월 20일 일괄 삭제됩니다.)	
+ITEM_20181017_019852	Install this statue to receive the Goddess' Blessing for five minutes.{nl}Will be automatically deleted at the end of the event period.	5분 동안 여신의 축복을 받을 수 있는 여신의 조각상이 설치됩니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019447	Install this statue to receive the Goddess' Blessing for five minutes.{nl}Will be automatically deleted at the end of the event period.	5분 동안 여신의 축복을 받을 수 있는 여신의 조각상이 설치됩니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019853	Item used for enhancing gems that drastically increases their EXP.{nl} - Gem EXP gained: 14700{nl}Will be automatically deleted at the end of the event period.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 14700{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019449	Item used for enhancing gems that drastically increases the EXP of gems.{nl} - Gem EXP gained: 14700{nl}Will be automatically deleted at the end of the event period.	젬을 강화시킬 때 사용합니다. 젬의 경험치를 대폭 올려줍니다.{nl} - 획득 젬 경험치: 14700{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019854	Use it to enter an instanced dungeon one more time.{nl}Will be automatically deleted at the end of the event period.	사용 시 인스턴스 던전과 의뢰소 미션에 1회 더 입장 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019451	Use it to enter an instanced dungeon one more time.{nl}Will be automatically deleted at the end of the event period.	사용 시 인스턴스 던전과 의뢰소 미션에 1회 더 입장 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019855	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.{nl}Will be automatically deleted at the end of the event period.	사용 시 인스턴스 던전과 의뢰소 미션의 입장 횟수가 초기화됩니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019453	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.{nl}Will be automatically deleted at the end of the event period.	사용 시 인스턴스 던전과 의뢰소 미션의 입장 횟수가 초기화됩니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019856	Use it when you need some time out.{nl}Will be automatically deleted at the end of the event period.	관심이 필요할 때 사용하세요. 9월 11일 점검 시, 일괄 삭제됩니다.	ITEM_20170726_015315	Use it when you need some time out.	관심이 필요할 때 사용하세요. 6월 29일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019857	Fire it up and enjoy with your party.{nl}Grants 60 minutes of +2 movement speed and +50% EXP gains to all party members.	폭죽을 터트려 즐거운 기운을 느껴보세요.{nl}사용 시 60분 동안 파티원 전체의 이동속도 +2, 경험치 50% 증가의 효과를 줍니다.				
+ITEM_20181017_019858	Right-click to use. Your character must be level 15 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.15레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019455	Right-click to use. You character must be level 15 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.15레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019859	Right-click to use. Your character must be level 40 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.40레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019457	Right-click to use. You character must be level 40 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.40레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019860	Right-click to use. Your character must be level 50 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.50레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019459	Right-click to use. You character must be level 50 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.50레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019861	Right-click to use. Your character must be level 75 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.75레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019461	Right-click to use. You character must be level 75 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.75레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019862	Right-click to use. Your character must be level 85 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.85레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019463	Right-click to use. You character must be level 85 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.85레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019863	Right-click to use. Your character must be level 100 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.100레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019465	Right-click to use. You character must be level 100 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.100레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019864	Right-click to use. Your character must be level 120 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.120레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019467	Right-click to use. You character must be level 120 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.120레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019865	Right-click to use. Your character must be level 140 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.140레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019469	Right-click to use. You character must be level 140 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.140레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019866	Right-click to use. Your character must be level 170 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.170레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019471	Right-click to use. You character must be level 170 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.170레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019867	Right-click to use. Your character must be level 180 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.180레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019473	Right-click to use. You character must be level 180 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.180레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019868	Right-click to use. Your character must be level 200 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.200레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019475	Right-click to use. You character must be level 200 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.200레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019869	Right-click to use. Your character must be level 220 or above to use.{nl}Will be automatically 	마우스 오른쪽 버튼 클릭으로 사용합니다.220레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019477	Right-click to use. You character must be level 220 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.220레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019870	Right-click to use. Your character must be level 230 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.230레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019479	Right-click to use. You character must be level 230 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.230레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019871	Right-click to use. Your character must be level 270 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.270레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019481	Right-click to use. You character must be level 270 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.270레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019872	Right-click to use. Your character must be level 300 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.300레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019483	Right-click to use. You character must be level 300 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.300레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019873	Right-click to use. Your character must be level 330 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.330레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019485	Right-click to use. You character must be level 330 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.330레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019874	Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon 	포텐셜이 0인 장비에만 사용가능 하며, 실패해도 장비가 파괴되지 않습니다. 강화시 실버가 필요하지 않습니다. 실패시 강화수치가 1 감소하며, +12 강화 이상에서 실패 시 강화 수치가 +10 강화로 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019487	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. Does not require a silver fee for enhancement. When you fail at an enhancement level of +12 or higher, it will reduce to +10.{nl}Will be automatically deleted at the end of the event period.	포텐셜이 0인 장비에만 사용가능 하며, 실패해도 장비가 파괴되지 않습니다. 강화시 실버가 필요하지 않습니다. 실패시 강화수치가 1 감소하며, +12 강화 이상에서 실패 시 강화 수치가 +10 강화로 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019875	A sprout gifted by the Goddess' Blessing will grow when used.{nl}Will be automatically deleted at the end of the event period.	사용 시 여신의 축복이 깃든 새싹이 핍니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019489	A sprout gifted by the Goddess' Blessing will grow when used.{nl}Will be automatically deleted at the end of the event period.	사용 시 여신의 축복이 깃든 새싹이 핍니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019876	Right-click to use. Your character must be level 350 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.350레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019491	Right-click to use. You character must be level 350 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.350레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019877	Contains a title awarded for participating in Uska's event. This item will be removed at the end of the event period.	우스카 이벤트에서 선물하는 칭호 상자 입니다.9월 20일 점검 시, 일괄 삭제됩니다.				
+ITEM_20181017_019878	Right-click to use. Your character must be level 380 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.380레벨 이상에서 사용 가능합니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019496	Right-click to use. You character must be level 380 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.380레벨 이상에서 사용 가능합니다.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019879	Right-click and enter the name of a gesture to make all characters within a range of 100 adopt the same gesture.{nl}To see the names of gestures, open [F8].{nl}Characters not using a Token will not be able to adopt Token-exclusive gestures.{nl}Will be automatically deleted at the end of the event period.	아이템을 우클릭 하여 제스처 이름을 입력하면 주변 범위 100 이내의 모든 캐릭터가 같은 제스처를 합니다.{nl}[F8]을 누르면 제스처 이름을 확인할 수 있습니다.{nl}단, 토큰을 사용하지 않은 캐릭터로 토큰 혜택 제스처를 입력할 경우 해당 제스처로 움직이지 않습니다.{nl}9월 11일 점검 시, 일괄 삭제됩니다.				
+ITEM_20181017_019880	This invitation will help you level up. Will be automatically deleted at the end of the event period.	레벨업을 도와드리는 우스카의 초대장이 도착했습니다.{nl}클라페다의 우스카를 찾아가 초대장을 보여주세요.{nl}9월 20일 점검 시, 일괄 삭제됩니다.	ITEM_20180827_019517	This invitation will help you level up. Will be automatically deleted at the end of the event period.	레벨업을 도와드리는 우스카의 초대장이 도착했습니다.{nl}클라페다의 우스카를 찾아가 초대장을 보여주세요.{nl}9월 13일 점검 시, 일괄 삭제됩니다.	
+ITEM_20181017_019881	Select the equipment you want to receive from the list.{nl}Will be automatically deleted at the end of the event period.	사용 시 리스트 중 원하시는 장비가 지급됩니다.{nl}9월 20일 점검 시, 일괄 삭제됩니다.				
+ITEM_20181017_019882	Title - TOS Popular Researcher	칭호 - TOS 인기 연구원				
+ITEM_20181017_019883	Title granted to popular TOS researchers	TOS 인기 연구원에게 주어지는 칭호				
+ITEM_20181017_019884	Title - TOS 3-Time Researcher	칭호 - TOS 3기 연구원				
+ITEM_20181017_019885	A title granted to 3-time TOS researchers	TOS 3기 연구원에게 주어지는 칭호				
+ITEM_20181017_019886	[Event] Rainbow Dust	[이벤트]무지개빛 가루				
+ITEM_20181017_019887	A souvenir for each rainbow city completed. Take it to the Event Notice Board and win additional rewards.{nl}Will be deleted at the end of the event.	무지개를 넘어서 이벤트의 각 도시를 완주를 기념해 드리는 아이템입니다. 이벤트 알림판 NPC를 통해서 추가 보상과 교환 하실 수 있습니다.{nl} 9월 11일 점검 시, 일괄 삭제됩니다.				
+ITEM_20181017_019888	TOS Celebration Costume Selection Box	축제용 심플 코스튬 선택상자				
+ITEM_20181017_019889	Right-click to use and select the Male or Female version of the TOS Celebration Costume.{nl}Will be deleted at the end of the event.	다이누 슈벤테 이벤트 아이템 입니다. 축제용 심플 코스튬이 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.{nl} 9월 11일 점검 시, 일괄 삭제됩니다.				
+ITEM_20181017_019890	TOS Celebration Toy Selection Box	축제용 장난감 선택상자				
+ITEM_20181017_019891	Right-click to use and select a toy from the list.{nl}Will be deleted at the end of the event.	다이누 슈벤테 이벤트 아이템 입니다. 사용 시 리스트 중 원하시는 장난감이 지급됩니다.{nl}9월 11일 점검 시, 일괄 삭제됩니다.				
+ITEM_20181017_019892	Title - Here to Party	칭호 - 축제를 즐기는				
+ITEM_20181017_019893	Title box awarded for the Dainu Svente event.	다이누 슈벤테 이벤트에서 선물하는 칭호 상자 입니다.				
+ITEM_20181017_019894	Full Moon Fragment	보름달 조각				
+ITEM_20181017_019895	Event item. Bring it to the corresponding NPC to participate in the event.{nl}Will be deleted at the end of the event.	보름달 이벤트 아이템입니다. NPC에게 전달해 이벤트에 참여하실 수 있습니다.{nl} 10월 4일 점검 시, 일괄 삭제됩니다.				
+ITEM_20181017_019896	Title - Waiting for a Full Moon	칭호 - 달아 달아 밝은 달아				
+ITEM_20181017_019897	Title box awarded for the full moon event.	보름달 키우기 대작전에서 선물하는 칭호 상자 입니다.				
+ITEM_20181017_019898	Spotted Baby Pig Companion Voucher	얼룩 아기 돼지 컴패니언 교환권				
+ITEM_20181017_019899	A Companion Voucher obtained as an Adventure Journal Reward. Collect 20 and exchange them for a Spotted Baby Pig Companion at the Wings of Vaivora. 	모험일지 보상으로 얻은 얼룩 아기 돼지 컴패니언 교환권, 바이보라 날개에게서 교환권 20개로 얼룩 아기 돼지 컴패니언을 교환할 수 있습니다. 				
+ITEM_20181017_019900	Rare Enchant Jewel	레어 인챈트 쥬얼				
+ITEM_20181017_019901	[Enchant Jewel]	[인챈트 쥬얼]				
+ITEM_20181017_019902	Rare-grade Enchant Jewel. Can apply [Enchant Stats] to weapons and armor.	레어 등급 인챈트 쥬얼입니다. 무기 / 방어구에 [인챈트 옵션]을 부여 할 수 있습니다.				
+ITEM_20181017_019903	Unique Enchant Jewel	유니크 인챈트 쥬얼				
+ITEM_20181017_019904	Unique-grade Enchant Jewel. Can apply [Enchant Stats] to weapons and armor.	유니크 등급 인챈트 쥬얼입니다. 무기 / 방어구에 [인챈트 옵션]을 부여 할 수 있습니다.				
+ITEM_20181017_019905	Legend Enchant Jewel	레전드 인챈트 쥬얼				
+ITEM_20181017_019906	Legend-grade Enchant Jewel. Can apply [Enchant Stats] to weapons and armor.	레전드 등급 인챈트 쥬얼입니다. 무기 / 방어구에 [인챈트 옵션]을 부여 할 수 있습니다.				
+ITEM_20181017_019907	Records of the goddess spread around the Fantasy Library. They are written in an unknown language.	환상도서관에 흩어져있는 여신의 기록지입니다. 알 수 없는 언어로 적혀있어 내용을 읽을 수 없습니다.	ITEM_20170313_013898	Magic Tracer Map: Tevhrin Stalactite Cave Section 1	마력 추적도 : 테브린 종유동 1구역	
+ITEM_20181017_019908	A Dimensional Search Scroll given by Kupole Rugile. Use it to check the dimensional crack that is being invaded by the demons.	큐폴 루길레가 준 차원 탐색 스크롤입니다. 이걸 이용하면 마족이 침공하는 차원의 틈새를 확인할 수 있습니다.	ITEM_20170313_013898	Magic Tracer Map: Tevhrin Stalactite Cave Section 1	마력 추적도 : 테브린 종유동 1구역	
+ITEM_20181017_019909	Unidentified records by Goddess Vaivora and the Kupoles. They are written in an unknown language.	여신 바이보라와 큐폴들이 분류하지 못한 미식별 기록지입니다. 알 수 없는 언어로 적혀있어 내용을 읽을 수 없습니다.	ITEM_20170313_013898	Magic Tracer Map: Tevhrin Stalactite Cave Section 1	마력 추적도 : 테브린 종유동 1구역	
+ITEM_20181017_019910	A fragmented piece of the Crystal of Protection. Kupole Saya wants to gather these fragments to repair the crystals.	파괴된 수호의 수정에서 나온 조각입니다. 큐폴 사야는 이 조각들을 모아 수호의 수정을 복원하려고 합니다.	ITEM_20171128_017007	A fragmented Trasium Piece. With enough pieces, it may be possible to repair the protection crystals.	파괴된 수호의 수정에서 나온 조각. 이 조각을 모아서 수호의 수정을 복원하려고 하는 것 같다.	
+ITEM_20181017_019911	Blueprints for a very complex looking formula. A mysterious force is surrounding it. It appears that the blueprint itself is capable of generating magical power.	무언가 알 수 없는 복잡한 수식이 적힌 설계도입니다. 알 수 없는 마력이 느껴지는 걸 보면 이 설계도 만으로도 마력을 만들어내는 것 같습니다.	ITEM_20171128_017009	Blueprints for a very complex looking formula. A mysterious force is surrounding it. It appears that the blueprint itself is capable of generating magical power.	무언가 알 수 없는 복잡한 수식이 적힌 설계도. 알 수없는 마력이 느껴진다. 이 설계도 만으로도 마력을 만들어내는 것 같다.	
+ITEM_20181017_019912	A crystalized fragment of a distorted dimension. It radiates in many different colors.	차원의 일그러짐이 결정화된 파편입니다. 아름다운 빛깔로 빛나고 있습니다.	ITEM_20171128_017011	A crystalized fragment of a distorted dimension. It radiates in many different colors.	차원의 일그러짐이 결정화된 파편. 아름다운 빛깔로 빛나고 있다.	
+ITEM_20181017_019913	A core containing demonic energy. Only Kupole Danute knows what it will be used for.	마족의 마력이 담긴 핵입니다. 어디에 어떻게 사용할지는 모아달라고 부탁한 큐폴 다누테 만이 알고 있습니다.	ITEM_20171128_017013	A core filled with a demon's magic. This can probably be used somewhere.	마족의 마력이 담긴 핵. 어디에 사용하려는 건지 궁금증이 생긴다.	
+ITEM_20181017_019914	A protective crystal made from several fragments of a dimension. It is said to be used to maintain the potency of protection crystals.	마족의 마력과 차원의 정수로 만든 수정입니다. 수호의 수정을 유지하는데 사용됩니다.	ITEM_20171128_017015	A protective crystal made from several fragments of a dimension. It is said to be used to maintain the potency of protection crystals.	마족의 마력과 차원의 정수로 만든 수정. 수호의 수정을 유지하는데 사용된다고 한다.	
+ITEM_20181017_019915	A record of Giltine. Written in an unknown language and images.	마신 길티네에 대한 내용이 기록되어 있습니다. 알 수 없는 언어와 그림이 적혀있습니다.	ITEM_20171128_017017	A Record of Giltine. Written with unknown language and pictures.	마신 길티네에 대한 내용이 기록되어있습니다. 알 수 없는 언어와 그림이 적혀있습니다.	
+ITEM_20181017_019916	A source of magic used to charge the Flicid Collapsing Device.	푸른 빛을 띠고 있는 마력원입니다. 플리시드 붕괴장치를 충전하기 위해 사용됩니다.	ITEM_20171128_017019	A magical source of blue light. It can be used to charge the Flicid Collapsing Device.	푸른 빛읠 띄고있는 마력원. 플리시드 붕괴장치를 충전하기 위해 사용된다고 한다.	
+ITEM_20181017_019917	A key that can open the door to a locked dimension. The key can be used to locate concealed objects inside hidden dimensions.	잠겨진 차원을 여는 열쇠입니다. 보이지 않도록 숨겨진 차원을 열어 다른 차원에 감춰진 것을 현 차원으로 꺼내오는 마법의 열쇠입니다.	ITEM_20171128_017021	A key that can open the door to a locked dimension. The key can be used to locate concealed objects inside hidden dimensions.	잠겨진 차원을 여는 열쇠. 보이지 않게 숨겨진 차원을 열어 다른 차원에 감춰진 것을 현 차원으로 꺼내오는 마법의 열쇠이다.	
+ITEM_20181017_019918	Bullets for the Red Spions of Salvia Forest. Register them in your quick slots to use.	살비야스 숲에 있는 붉은 스피온에게 사용할 냉기 탄. 퀵 슬롯에 등록해서 사용하세요.	ITEM_20171128_017085	Bullets for the Red Spions of Salvia Forest. Register them in your quick slots to use.	살비아스 숲에 있는 붉은 스피온에게 사용할 냉기 탄. 퀵 슬롯에 등록해서 사용하세요.	
+ITEM_20181017_019919	Can check your Retiarius training and HP training stats. Will take into consideration your latest results. 	레티아리이 훈련과 훈련 체력 상황을 확인 할 수 있습니다. 아이템 사용 시 최신 상황으로 갱신합니다.	ITEM_20180418_018210	Can check your Retiarius training and HP training stats. Will take into consideration your latest results. 	레티아리이 훈련과 훈련 체력 상황을 확인 할 수 있습니다. 아이템을 사용해야지 최신 상황으로 갱신합니다.	
+ITEM_20181017_019920	Royal Templar Appointment Letter	로열 템플러 임명장				
+ITEM_20181017_019921	An official letter appointing a Royal Templar.	로열 템플러를 임명하는 임명장				
+ITEM_20181017_019922	Pereja Bead	페레자 구슬				
+ITEM_20181017_019923	A bead the allows you to cross the barrier set up by the Asiomage.	아시오 메이지가 걸어둔 결계를 통과할 수 있게끔 도움을 주는 구슬				
+ITEM_20181017_019924	There's something written on the stone plate, but it's hard to make out. This item will disappear if you move away from the Stalactite Cave.	석판에 그림이 그려져 있지만 훼손이 심해 알아보기가 힘들다. 해당 아이템은 종유동굴을 벗어나면 사라집니다.				
+ITEM_20181017_019925	A supply bottle that was distributed to the resistance troops as supplies. The bottle is quite heavy as it has been filled up by Leonildas.	저항군의 부대원들에게 보급품으로 나눠준 물병. 레오나르다스가 미리 물을 떠놔서인지 내용물이 묵직합니다.	ITEM_20171128_017156	A supply bottle that was distributed to the resistance troops as supplies. The bottle is quite heavy as it has been filled up by Kayetonas.	저항군의 부대원들에게 보급품으로 나눠준 물병. 카예토나스가 미리 물을 떠놔서인지 내용물이 묵직합니다.	
+ITEM_20181017_019926	Mana Lamp	마나 램프				
+ITEM_20181017_019927	A lamp that collects mana from the air around it.	대기중의 마나를 수집할 수 있는 램프입니다.				
+ITEM_20181026_019928	White Wolf Costume (Male)	화이트 울프 코스튬(남)				
+ITEM_20181026_019929	Wear this costume on a night of full moon to create a spooky ambiance. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	보름달이 뜨는 밤에 이 코스튬을 착용하면, 공포스러운 분위기를 만들 수 있습니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019930	White Wolf Costume (Female)	화이트 울프 코스튬(여)				
+ITEM_20181026_019931	Black Cat Costume (Male)	블랙 캣 코스튬(남)				
+ITEM_20181026_019932	Become a mysterious black cat on Halloween and wander into the night. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	할로윈 때 이 코스튬을 착용한다면, 멋과 공포스러운 분위기를 만족시킬 수 있는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019933	Black Cat Costume (Female)	블랙 캣 코스튬(여)				
+ITEM_20181026_019934	Become a mysterious black cat on Halloween and wander into the night. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	할로윈 때 이 코스튬을 착용한다면, 아름다움과 공포스러운 분위기를 만족시킬 수 있는 코스튬입니다. 착용하면 외형이 변경됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019935	Spider Web Costume (Male)	스파이더 웹 코스튬(남)				
+ITEM_20181026_019936	This costume is made of real spider webs processed through a special method. It's both cute and spooky, perfect for Halloween.{nl}Can be exchanged for medals at the Exchange Shop.	거미줄을 특수한 가공법으로 가공하여 만든 코스튬입니다. 귀여움과 약간의 공포스러운 분위기를 만족시킬 수 있는 코스튬입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019937	Spider Web Costume (Female)	스파이더 웹 코스튬(여)				
+ITEM_20181026_019938	Jack-O-Lantern Costume (Male)	잭오랜턴 코스튬(남)				
+ITEM_20181026_019939	It's no Halloween without the traditional Jack-O-Lantern, complete with creepy yellow eyes.	할로윈 잭오랜턴 코스튬입니다. 노랗게 빛나는 눈을 보면 으스스한 기분이 듭니다.				
+ITEM_20181026_019940	Jack-O-Lantern Costume (Female)	잭오랜턴 코스튬(여)				
+ITEM_20181026_019941	Wolf Mask	울프 마스크				
+ITEM_20181026_019942	Awooooo! I'm a wolf!{nl}Can be exchanged for medals at the Exchange Shop.	아우우우~! 무서운 늑대 가면입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019943	Black Cat Ears	검은 고양이 귀				
+ITEM_20181026_019944	Cute kitty ears for Halloween.{nl}Can be exchanged for medals at the Exchange Shop.	할로윈 고양이의 귀 장식입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019945	Pumpkin Hair Accessory	호박 장식				
+ITEM_20181026_019946	A fun hair accessory made to look like a neat little Jack-O-Lantern.	잭오랜턴을 귀엽게 형상화한 호박 머리 장식입니다.				
+ITEM_20181026_019947	Purple Ribbon Witch Hat	보라 리본 마녀 모자				
+ITEM_20181026_019948	The iconic hat of Halloween witches. This one comes with a purple ribbon.{nl}Can be exchanged for medals at the Exchange Shop.	멋쟁이 마녀와 마술사의 상징인 마녀 모자입니다. 보라색 리본이 달려있습니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019949	Red Ribbon Witch Hat	빨간 리본 마녀 모자				
+ITEM_20181026_019950	The iconic hat of Halloween witches. This one comes with a red ribbon.{nl}Can be exchanged for medals at the Exchange Shop.	멋쟁이 마녀와 마술사의 상징인 마녀 모자입니다. 빨간색 리본이 달려있습니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019951	Latte Art: Bunny	거품 토끼				
+ITEM_20181026_019952	A cute foam bunny peeping out of a warm latte cup.	라떼 아트로 만든 토끼입니다.				
+ITEM_20181026_019953	Latte Art: Kitty	거품 고양이				
+ITEM_20181026_019954	A curious foam kitty peeping out of a warm latte cup.	라떼 아트로 만든 고양이입니다.				
+ITEM_20181026_019955	Latte Art: Popolion	거품 포포리온				
+ITEM_20181026_019956	A Popolion made by a latte artist.	라떼 아트로 만든 포포리온입니다.				
+ITEM_20181026_019957	Jack-O-Lantern Two-handed Mace	잭오랜턴 투 핸드 메이스				
+ITEM_20181026_019958	This item can only be used to change the appearance of another.{nl}Includes visual effects, which vary based on enhancement values.{nl}Does not consume Silver when used as appearance material.{nl}Can be exchanged for Medals at the Exchange Shop.	외형 변경 전용 아이템입니다.{nl}전용 이펙트가 존재합니다. 이펙트는 강화도에 따라 크기가 증가합니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019959	Pumpkin Rapier	펌프킨 레이피어				
+ITEM_20181026_019960	Triple Jack-O-Lantern Sword	트리플 잭오랜턴 소드				
+ITEM_20181026_019961	Chainsaw Two-handed Sword	공포의 전기톱 투 핸드 소드				
+ITEM_20181026_019962	This item can only be used to change the appearance of another.{nl}Includes visual and sound effects, which play whenever the target is hit.{nl}Does not consume Silver when used as appearance material.{nl}Can be exchanged for Medals at the Exchange Shop.	외형 변경 전용 아이템입니다.{nl}전용 애니와 사운드가 존재합니다. 사운드는 대상을 공격 시 재생됩니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019963	Jack-O-Lantern Mace	잭오랜턴 메이스				
+ITEM_20181026_019964	Broomstick Staff	마녀의 빗자루 스태프				
+ITEM_20181026_019965	Bat Bow	박쥐 보우				
+ITEM_20181026_019966	Jack-O-Lantern Spear	잭오랜턴 스피어				
+ITEM_20181026_019967	Jack-O-Lantern Pike	잭오랜턴 파이크				
+ITEM_20181026_019968	Pumpkin Dagger	펌프킨 대거				
+ITEM_20181026_019969	Cat Pistol	고양이 피스톨				
+ITEM_20181026_019970	This item can only be used to change the appearance of another.{nl}Includes sound effects, which play whenever the target is hit.{nl}Does not consume Silver when used as appearance material.{nl}Can be exchanged for Medals at the Exchange Shop.	외형 변경 전용 아이템입니다.{nl}전용 사운드가 존재합니다. 사운드는 대상을 공격 시 재생됩니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019971	Red Syringe Musket	빨간 물약 주사기 머스킷				
+ITEM_20181026_019972	Jack-O-Lantern Balloon	잭오랜턴 풍선				
+ITEM_20181026_019973	Trick or treat! It's Haloween!{nl}Can be exchanged for Medals at the Exchange Shop.	트릭 오어 트릿! 할로윈의 대명사인 잭오랜턴 풍선입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019974	Spooky Ghost Balloon	무서운 유령 풍선				
+ITEM_20181026_019975	Be careful, this balloon may be haunted by a real ghost.{nl}Can be exchanged for Medals at the Exchange Shop.	으스스한 유령 풍선입니다. 단, 희박한 확률로 진짜 유령이 쫒아 온다는 소문이 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019976	Meow Cat Balloon	냐옹냐옹 고양이 풍선				
+ITEM_20181026_019977	Carry around this cute — and slightly creepy — kitty cat balloon.{nl}Can be exchanged for Medals at the Exchange Shop.	냐아옹~귀엽지만 조금 무서운 고양이 풍선입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20181026_019978	Spooky Jack-O-Lantern	무서운 잭오랜턴				
+ITEM_20181026_019979	Jump to display a spooky Jack-O-Lantern effect.{nl}Can be exchanged for medals at the Exchange Shop.	착용자가 점프 시 무서운 잭오랜턴의 이펙트를 만들어냅니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20181026_019980	Creepy Ghost Party	으스스한 유령 파티				
+ITEM_20181026_019981	Equip to display spooky ghost designs under your feet.{nl}Can be exchanged for medals at the Exchange Shop.	착용 시 으스스한 유령들이 착용자의 발 밑에서 등장하는 이펙트를 만들어냅니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20181026_019982	A candy only available during the Halloween season. When used, increases all stats by 5. Right-click to use. Will be automatically deleted at the end of the event.	할로윈 기간에만 볼 수 있는 할로윈 사탕입니다. 사용시 모든 스테이터스를 5 증가시켜줍니다. 마우스 오른쪽 버튼 클릭으로 사용합니다. (11월 15일 일괄 삭제됩니다.)	ITEM_20161214_013207	A candy only available during the Halloween season/ When used increases all stats by 5. Right-click to use. (Removed From the Game in December 15th)	할로윈 기간에만 볼 수 있는 할로윈 사탕입니다. 사용시 모든 스테이터스를 5 증가시켜줍니다. 마우스 오른쪽 버튼 클릭으로 사용합니다. (12월 15일 일괄 삭제됩니다.)	
+ITEM_20181026_019983	Attribute Points: 100 (14 Days)	특성 포인트 100 (14일)				
+ITEM_20181026_019984	Jack-O-Lantern Costume Selection Box	잭오랜턴 코스튬 선택상자				
+ITEM_20181026_019985	Contains one Jack-O-Lantern Costume of your choice (Male or Female). Right-click to use and select a costume.	와글와글 할로윈 업힐 디펜스 이벤트 아이템 입니다. 잭오랜턴 코스튬이 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.				
