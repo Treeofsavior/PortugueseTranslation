@@ -7898,56 +7898,56 @@ QUEST_20180320_007997	Sênior Ramunas está no ponto de encontro.
 QUEST_20180320_007998	Prazer em conhecer você. Meu nome é Taylor.
 QUEST_20180320_007999	Sênior Ramunas disse isso?{nl}Hmm... muito bem.{nl}
 QUEST_20180320_008000	Estamos com pouco pessoal, acho que você poderia ser útil mesmo.{nl}Mas primeiro, preciso perguntar uma coisa.{nl}
-QUEST_20180320_008001	We think Ignas' side set up traps at the assembly area without us noticing.{nl}One of our soldiers hurt his leg because of it.{nl}	이그나스 측에서 집결지 앞에 함정들을 몰래 설치한 모양입니다.{nl}한 동료가 그곳에서 그 함정 때문에 다리에 중상을 입었더군요.{nl}				저항군 부관 테일러	
-QUEST_20180320_008002	Would you help dismantle and remove the traps?	계시자님께서 그 함정들을 대신 해체해 주실 수 있겠습니까?				저항군 부관 테일러	
-QUEST_20180320_008003	This the tool we use.{nl}I wish I could go with you, but I need to go check on our supplies.{nl}	여기 함정을 해체할 도구입니다.{nl}도와드리고 싶지만 제가 지금 보급 물자를 관리해야 돼서요.{nl}				저항군 부관 테일러	
-QUEST_20180320_008004	Oh, after you get all the traps, you can go see our Adjutant Lehon.{nl}	아, 그리고 함정을 모두 해체하시면 근처에서 르온님을 찾아보세요.{nl}				저항군 부관 테일러	
-QUEST_20180320_008005	Lehon is out now doing recon for our next operation...{nl}But he's the one who developed this tool, if you show it to him he'll know what it is.{nl}	르온님은 지금 교란 작전을 위해 정찰을 나가셨는데.. {nl}이 도구를 르온님이 제작하셨으니 도구를 보여드리면 알아보실 겁니다.{nl}				저항군 부관 테일러	
-QUEST_20180320_008006	If you meet Lehon, help him prepare for the operation.	르온님을 만나게 되면 르온님을 도와 교란 작전을 시작해 주세요.				저항군 부관 테일러	
-QUEST_20180320_008007	We're counting on you to get all the traps.{nl}It'll help us move around better.	함정을 모두 해체해야 저항군들이 움직이기 수월해집니다.{nl}부탁드립니다.				저항군 부관 테일러	
-QUEST_20180320_008008	Are you from the resistance?{nl}That tool you have... I recognize it.	저항군인가?{nl}그보다 당신이 들고 있는 그 도구.. 낯이 익군.				저항군 부관 르온	
-QUEST_20180320_008009	A request from the elder, you say...{nl}Oh, I almost forgot to introduce myself. My name is Lehon.{nl}	장로님께서 직접 부탁하신 일이라..{nl}아, 제 소개가 늦었습니다. 전 르온이라고 합니다.{nl}				저항군 부관 르온	
-QUEST_20180320_008010	Sorry if I suspected you.{nl}I'm a little on edge after going on that recon operation to Ignas' camp.{nl}	초면에 까칠한 태도를 보인 건 죄송합니다.{nl}보시다시피 이그나스 측을 정찰하면서 신경이 예민해진 상태라서요.{nl}				저항군 부관 르온	
-QUEST_20180320_008011	I was just preparing for the rearguard attack and...{nl}It seems the rearguard on their side are mostly neutral members.{nl}	교란 작전에 필요한 부분들을 앞서 확인하고 있었는데..{nl}이그나스 측 후방지역에 중립 성향을 가진 자들이 다수 포함되어 있더군요.{nl}				저항군 부관 르온	
-QUEST_20180320_008012	If there was a way I could bring them over to our side...{nl}	그들을 저항군 측으로 회유할 수만 있다면 좋을 텐데..{nl}				저항군 부관 르온	
-QUEST_20180320_008013	Would you help us convince them? I'll tell you exactly what to say.{nl}I really think we can make at least some of them cross over.	제가 어떤 말을 알려드릴 테니 계시자님께서 그들을 회유해 주실 수 있으신가요?{nl}이 말을 들으면 아마도 저희 쪽으로 넘어오는 단원이 있을지도 모릅니다.				저항군 부관 르온	
-QUEST_20180320_008014	They already know what I look like, but I think we can disguise you as a member of the Schaffenstar.{nl}You should be okay as long as you don't make a fuss.{nl}	저는 얼굴이 알려진 터라.. 제가 계시자님을 샤펜스타 단원처럼 보이도록 위장시켜 드리겠습니다.{nl}소란을 피우지 않는 한 계시자님의 정체가 걸릴 일은 없을 겁니다.{nl}				저항군 부관 르온	
-QUEST_20180320_008015	Here's what you can say; listen carefully.	위장 하면서 계시자님께 제가 어떤 말을 알려 드릴테니 귀담아 들으세요.				저항군 부관 르온	
-QUEST_20180320_008016	Did you finish talking to the members on the other side?	회유는 모두 끝내셨습니까?				저항군 부관 르온	
-QUEST_20180320_008017	It looks like your work is done.{nl}Very well, let's carry on with the operation.	회유를 모두 끝내셨나 보군요.{nl}그럼 바로 다음 작전을 진행하죠.				저항군 부관 르온	
-QUEST_20180320_008018	The rearguard on Ignas' camp has its fair share of supplies stocked up, I'm sure you saw them too.{nl}What I want you to do is spray this poison over their supplies.	계시자님도 보셨겠지만 이그나스 측 후방지역에 보급 물자가 많이 쌓여 있습니다. {nl}계시자님께서 그 보급 물자에 제가 제작한 독을 뿌려 주시지 않겠습니까?				저항군 부관 르온	
-QUEST_20180320_008019	The venom is inside this bottle.{nl}I'll be watching from down here.{nl}	여기 독이 들어있는 병입니다.{nl}전 이곳에서 상황을 지켜보고 있겠습니다.{nl}				저항군 부관 르온	
-QUEST_20180320_008020	Make sure no one is around when you do it. You don't want the others suspecting you.	혹시나 저들이 이상하게 볼지도 모르니 근처에 아무도 없을 때 독을 뿌리세요.				저항군 부관 르온	
-QUEST_20180320_008021	Did you spray the poison on the supplies?{nl}It won't kill them, but it'll stop them for a while. 	보급 물자에 독을 모두 뿌리셨나요? {nl}아마 대부분 죽지는 않을 테지만 한 동안 거동은 못할 겁니다. 				저항군 부관 르온	
-QUEST_20180320_008022	That was great!{nl}Little by little the supplies should begin to poison them. Thank you.	모두 뿌리고 오셨군요!{nl}시간이 지나면 보급물자에 뿌려진 독에 중독된 자들이 생길 겁니다. 감사합니다.				저항군 부관 르온	
-QUEST_20180320_008023	There's dark smoke coming out of the assembly area.{nl}Something must have happened...{nl}	지금 저항군 집결지 근처에서 검은 연기가 피어오르고 있습니다.{nl}무슨일이 일어난 것 같은데..{nl}				저항군 부관 르온	
-QUEST_20180320_008024	Would you check the area for me?	계시자님이 한번 확인해 주시지 않겠습니까?				저항군 부관 르온	
-QUEST_20180320_008025	Hurry.{nl}The smoke is getting more intense!	서둘러야겠습니다.{nl}연기가 계속 피어올라요!				저항군 부관 르온	
-QUEST_20180320_008026	It's a disaster!{nl}The demons attacked our rearguard!	큰일 났네!{nl}후방지역에서 마족이 기습을 감행했네!				장로 라무나스	
-QUEST_20180320_008027	All of our supplies are there!{nl}If the demons destroy them we're doomed!{nl}	후방지역에 저항군의 보급품들이 모두 모여있다네!{nl}그게 모두 파괴된다면 큰일이야!{nl}				장로 라무나스	
-QUEST_20180320_008028	Please, can you help us with the demons?	자네가 기습한 마족을 처치해 주지 않겠나?				장로 라무나스	
-QUEST_20180320_008029	They attacked when there was no one at the assembly area...{nl}Hurry!	집결지에 인원이 없을 때 기습을 해오다니..{nl}서둘러주게!				장로 라무나스	
-QUEST_20180320_008030	Move, now!	어서 움직여주게!				장로 라무나스	
-QUEST_20180320_008031	There's no doubt Sênior Henika was one of the people colliding with the demons!{nl}	마족과 같이 섞여 있던 자는 헤니카 장로가 분명합니다!{nl}				저항군 부관 테일러	
-QUEST_20180320_008032	There were rumors saying Ignas had sided with them...{nl}I guess they were true.{nl}	이그나스가 마족과 결탁했다는 말이 있던데..{nl}그게 사실이었나 봅니다.{nl}				저항군 부관 테일러	
-QUEST_20180320_008033	I must tell Sênior Ramunas.	라무나스 장로님에게 서둘러 이 사실을 알려야겠군요.				저항군 부관 테일러	
-QUEST_20180320_008034	I'm going there now!	그럼 먼저 가서 라무나스 장로님에게 이 사실을 알리겠습니다!				저항군 부관 테일러	
-QUEST_20180320_008035	Sênior Henika...{nl}If Ignas really did side with the demons, it's plausible, yes.	헤니카 장로라..{nl}이그나스가 마족과 결탁한 게 사실이라면 가능한 일이지.				장로 라무나스	
-QUEST_20180320_008036	There are two magic circles inside the Astral Tower leading to this area.{nl}Now, I know where those circles were installed, so I don't think Henika will have used them.{nl}	별의 탑에서 이곳 수역으로 이동할 수 있는 이동 마법진이 두 군데 있다네.{nl}나 역시 이동 마법진이 설치된 위치를 알기 때문에 헤니카 장로가 그 마법진을 이용하진 못했을 거야.{nl}				장로 라무나스	
-QUEST_20180320_008037	Not only that, our soldiers have an eye on that area at all times, they would have told us immediately if something happened.{nl}That means Ignas' side must have made a new magic circle to teleport here and attack us.{nl}	게다가 그 지역을 저항군들이 경계하고 있으니 이용했다면 보고가 들어왔겠지.{nl}그렇다는 얘기는 이그나스 측에서 새로운 이동 마법진을 만들어 기습한 게 분명하단 뜻일세.{nl}				장로 라무나스	
-QUEST_20180320_008038	If they attacked the rearguard, the magic circle must have been near Waters 85...{nl}Will you check if anything's there?	후방 지역을 기습한 거로 보아 85수역으로 가는 길 근처에 이동 마법진을 만든 것 같은데..{nl}자네가 그 마법진을 찾아서 파괴해 주지 않겠나?				장로 라무나스	
-QUEST_20180320_008039	I'll give you this detector.{nl}You can use it to find any magic circles that may be hidden.{nl}	여기 감지석을 받게.{nl}그 감지석을 이용하면 이동 마법진을 발견할 수 있을 거야.{nl}				장로 라무나스	
-QUEST_20180320_008040	If you do find one, don't hesitate. Destroy it immediately.{nl}The magic circles we were watching must also be destroyed.	마법진을 발견하면 지체말고 파괴시키게.{nl}우린 경계하고 있던 이동 마법진들을 파괴할 테니 말일세.				장로 라무나스	
-QUEST_20180320_008041	Alright, hurry out to Waters 85.{nl}If there's any magic circle there, it'll be near the rearguard.	85수역으로 이동해 찾아보게.{nl}분명 후방지역과 가까운 곳에 이동 마법진을 설치했을 거야.				장로 라무나스	
-QUEST_20180320_008042	Very good.{nl}The other magic circles were also destroyed. They have no way to launch a sudden attack now.	고생했네.{nl}다른 이동 마법진도 모두 파괴했으니 이제 급습당할 일은 없겠군.				장로 라무나스	
-QUEST_20180320_008043	And... there is something I should tell you.{nl}I heard this a long time ago, when I was still in the Schaffenstar, from the old head of the Tower.{nl}	긴히 자네에게 해줄 얘기가 있네.{nl}내 오래전 샤펜스타에 있을 당시, 전대 단장과의 대화 중에 중요한 비밀을 들었네.{nl}				장로 라무나스	
-QUEST_20180320_008044	They didn't say too much about it but...{nl}They mentioned that Lydia Schaffen kept certain... provisions around the Tower.{nl}	지나가는 말로 하신 얘기였겠지만..{nl}리디아 샤펜님이 여러 군데에 안배를 마련해 놓았다고 하더군.{nl}				장로 라무나스	
-QUEST_20180320_008045	A kind of tool to use in case the Astral Tower was to face any sort of threat.{nl}Again, I don't know the details, but there's no doubt we could use something like that right now.{nl}	별의 탑이 위험에 빠지고 세계가 위험할 때를 대비해 마련한 장치라고 했네.{nl}자세한 이야기는 듣지 못했지만 난 지금 이 순간이 그 위험한 순간이라고 생각하네.{nl}				장로 라무나스	
-QUEST_20180320_008046	I mean, look at what's happening! The Tower's been completely taken by demons after Medzio Diena!{nl}As a Revelator, do you think you can find Schaffen's provisions?	신수의 날 이후로 마족들이 넘쳐나고 별의 탑이 위기에 처한 지금 이 순간 말일세!{nl}자네가 계시자라면 분명 리디아 샤펜님이 남겨놓은 안배를 복원할 수 있지 않겠나?				장로 라무나스	
-QUEST_20180320_008047	Thank you for doing this.{nl}From what I remember, the way to find Schaffen's provisions began at the top of Rombas Hill Road...{nl}	이렇게 나서주니 정말 고마울 따름일세.{nl}전대 단장에게 듣기로는 롬바스 오름길을 올라간 자에게 기회가 주어진다는 얘기만 하시더군..{nl}				장로 라무나스	
-QUEST_20180320_008048	My guess is that one of the provisions could be hidden in this area.{nl}You might find the clues for it will be on Rombas Hill Road.{nl}	아마 이 수역에 그 안배 중 하나가 숨겨져 있을지도 모르겠네.{nl}특히 롬바스 오름길 어딘가에서 그 실마리를 찾을 수 있을 거야.{nl}				장로 라무나스	
-QUEST_20180320_008049	It won't be easy recovering Schaffen's provisions... I suggest you take Lehon with you.	안배를 복원하는 과정은 멀고도 힘들 테니.. 르온과 함께 움직이도록 하게.				장로 라무나스	
-QUEST_20180320_008050	Sênior Ramunas said that?	라무나스 장로님께서 그런 얘기를 하셨단 말입니까?				저항군 부관 르온	
+QUEST_20180320_008001	Achamos que Ignas instalou armadilhas nos pontos de encontro sem notarmos.{nl}Um de nossos soldados teve sua perna machucada por causa disso.{nl}
+QUEST_20180320_008002	Você nos ajudaria a desmontar e remover estas armadilhas?
+QUEST_20180320_008003	Esta é a ferramenta que usamos.{nl}Gostaria de ir junto, mas preciso verificar nossos suprimentos.{nl}
+QUEST_20180320_008004	Ah, depois de reunir todas as armadilhas,{nl}fale com nosso Ajudante Lehon.{nl}
+QUEST_20180320_008005	Lehon está em missão de reconhecimento para a próxima operação...{nl}Mas foi ele quem desenvolveu esta ferramenta, se você mostrar{nl}isso para ele, certamente reconhecerá.{nl}
+QUEST_20180320_008006	Se encontrar Lehon, ajude-o na preparação da operação.
+QUEST_20180320_008007	Estamos confiando em você para reunir as armadilhas.{nl}Isso vai nos ajudar na mobilidade dentro da área.
+QUEST_20180320_008008	Você é da resistência?{nl}Esta sua ferramenta... eu conheço ela.
+QUEST_20180320_008009	Um pedido do Sênior, você disse...{nl}Ah, quase esqueci de me apresentar. Meu nome é Lehon.{nl}
+QUEST_20180320_008010	Desculpe se eu suspeitei de você.{nl}Estou agitado após fazer o reconhecimento do acampamento de Ignas.{nl}
+QUEST_20180320_008011	Estava me preparando para o ataque na retaguarda, mas...{nl}Parece que ela é composta por muitos soldados neutros.{nl}
+QUEST_20180320_008012	Se tivesse um jeito de trazer eles para o nosso lado...{nl}
+QUEST_20180320_008013	Você nos ajudaria a convencer os soldados?{nl}Vou explicar tdo que você precisa dizer.{nl}Acredito que conseguiríamos trazer alguns deles para o lado de cá.
+QUEST_20180320_008014	Eles já me conhecem, mas acho que você poderia{nl}se disfarçar como membro da Schaffenstar.{nl}Eles não devem desconfiar, caso você não haja muito estranho.{nl}
+QUEST_20180320_008015	Aqui está o que você precisa dizer, escute atentamente.
+QUEST_20180320_008016	Terminou de conversar com os soldados do outro lado?
+QUEST_20180320_008017	Bom, vamos ver os resultados após ter terminado sua tarefa.{nl}Vamos seguir adiante com a operação.
+QUEST_20180320_008018	A retaguarda no acampamento de Ignas possui uma boa quantidade de{nl}suprimentos estocados, acredito que você passou por eles.{nl}Quero que você jogue este veneno nos suprimentos.
+QUEST_20180320_008019	O veneno está dentro desta garrafa.{nl}Vou estar acompanhando daqui.{nl}
+QUEST_20180320_008020	Tenha certeza de fazer isso quando ninguém estiver por perto.{nl}É melhor não deixar que eles suspeitem de algo.
+QUEST_20180320_008021	Conseguiu colocar o veneno nos suprimentos?{nl}Isso não irá matar ninguém, mas vai atrapalhar suas tarefas.
+QUEST_20180320_008022	Isso foi incrível!{nl}Aos poucos, os soldados devem ser afetados. Obrigado!
+QUEST_20180320_008023	Tem uma fumaça escura vindo do ponto de encontro...{nl}Alguma coisa deve ter acontecido!{nl}
+QUEST_20180320_008024	Poderia verificar isso para mim?
+QUEST_20180320_008025	Rápido!{nl}A fumaça está ficando mais densa!
+QUEST_20180320_008026	É um desastre!{nl}Os demônios atacaram a nossa retaguarda!
+QUEST_20180320_008027	Todos os nossos suprimentos estão lá!{nl}Se os demônios detruírem tudo, estaremos perdidos!{nl}
+QUEST_20180320_008028	Por favor, você poderia nos ajudar com os demônios?
+QUEST_20180320_008029	Eles atacaram quando não havia ninguém no ponto de encontro...{nl}Rápido!
+QUEST_20180320_008030	Vamos, agora!
+QUEST_20180320_008031	Não há duvida que o Sênior Henika estava de conluio com os demônios!{nl}
+QUEST_20180320_008032	Haviam rumores dizendo que Ignas havia se aliado a eles...{nl}Pelo jeito, era tudo verdade.
+QUEST_20180320_008033	Preciso avisar o Sênior Ramunas.
+QUEST_20180320_008034	Estou indo agora!
+QUEST_20180320_008035	Sênior Henika...{nl}Se Ignas realmente se aliou aso demônios, faria sentido.
+QUEST_20180320_008036	Há dois círculos mágicos dentro da Astral Tower, que se ligam a esta área.{nl}Eu sei onde estes círculos estão instalados, duvido que Henika usaria eles.{nl}
+QUEST_20180320_008037	Não so isso, nossos soldados patrulham a área constantemente,{nl}eles teriam visto e avisado imediatamente caso invadissem por eles.{nl}Isso tudo significa que Ignas deve ter feito um novo círculo mágico{nl}de teleporte, exclusivo para nos atacar.{nl}
+QUEST_20180320_008038	Tendo atacado nossa retaguarda, o teleporte deve levar próximo de Waters 85...{nl}Poderia verificar a região?
+QUEST_20180320_008039	Pegue este detector.{nl}Use isto para procurar possíveis círculos mágicos escondidos.{nl}
+QUEST_20180320_008040	Se encontrar algo, não hesite em destruir imediatamente.{nl}Os círculos mágicos que vigiamos também devem ser destruídos.
+QUEST_20180320_008041	Muito bem, corra para Waters 85.{nl}Provavelmente você encontrará algo próximo da entrada para cá.
+QUEST_20180320_008042	Muito bem.{nl}Os outros círculos mágicos também foram destruídos.{nl}Eles não poderão fazer nenhum ataque surpresa agora.
+QUEST_20180320_008043	E... tem mais uma coisa que preciso dizer a você.{nl}Ouvi isso há algum tempo do antigo chefe da torre,{nl}quando ainda estava dentro da Schaffenstar.{nl}
+QUEST_20180320_008044	Ele não disse muitos detalhes sobre...{nl}Mas mencionaram que Lydia Schaffen manteve certas...{nl}Provisões ao redor da torre.{nl}
+QUEST_20180320_008045	Um tipo de ferramenta para usar caso a Astral Tower enfrentasse{nl}alguma ameaça. Repito, não tenho detalhes, mas não há dúvidas{nl}de que poderia ser algo útil para nós.{nl}
+QUEST_20180320_008046	Digo, veja o que está acontecendo!{nl}A torre foi completamente tomada por demônios após Medzio Diena!{nl}Como Revelador, acha que conseguiria achar estas provisões?
+QUEST_20180320_008047	Muito obrigado por fazer isso por nós!{nl}Pelo que lembro, a busca deve compeçar no topo de Rombas Hill Road...{nl}
+QUEST_20180320_008048	Meu palpute é que uma destas provisões poderia estar escondida lá.{nl}Talvez haja mais pistas em Rombas Hill Road.{nl}
+QUEST_20180320_008049	Não deverá ser fácil recuperar estas provisões...{nl}Recomendo levar Lehon para ajudar você.
+QUEST_20180320_008050	Sênior Ramunas disse isso?
 QUEST_20180320_008051	If he mentioned Rombas Hill Road, there must be something there...{nl}Oh! I remember seeing an old tombstone at the end of the road, could that be a lead?	롬바스 오름길을 얘기하신 걸 봐선 그곳에 뭔가가 있나 보군요..{nl}아! 롬바스 오름길 끝에 오래된 비석이 하나 있는데 그 비석을 확인해 보는 게 어떻겠습니까?				저항군 부관 르온	
 QUEST_20180320_008052	We should investigate all the possible clues one by one.	지금은 단서가 될만한 것부터 하나씩 확인해 봐야겠습니다.				저항군 부관 르온	
 QUEST_20180320_008053	So the secret really was in the tombstone... It only revealed itself because you approached it.{nl}May I see the disk?	비석에 이런 비밀이 숨겨져 있었다니.. 계시자님이 접근하니까 비로소 그 비밀이 드러나는군요.{nl}그보다 그 원판을 볼 수 있을까요?				저항군 부관 르온	
