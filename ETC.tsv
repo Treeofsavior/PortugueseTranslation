@@ -3927,25 +3927,25 @@ ETC_20150317_003926	Drop
 ETC_20150317_003927	Shortage
 ETC_20150317_003928	Key of the Puzzle Box
 ETC_20150317_003929	It is available to have in the inventory!
-ETC_20150317_003930	Enter the three-digit number that is different in the chat Ventoow
-ETC_20150317_003931	During operation, enter the three-digit number that is different in the chat Ventoow
+ETC_20150317_003930	Enter the three-digit number that is different in the chat window
+ETC_20150317_003931	During operation, enter the three-digit number that is different in the chat window
 ETC_20150317_003932	Obtain
 ETC_20150317_003933	Failure, Can restart when item drop
 ETC_20150317_003934	Each three-digit number must be different
 ETC_20150317_003935	There is no three-digit number
 ETC_20150317_003936	No number matched the nearby boxes
 ETC_20150317_003937	Acquisition Buff
-ETC_20150317_003938	Enter a number between 0 and 10000 into the chat Ventoow
-ETC_20150317_003939	In operation. Enter a number between 0 and 10000 into the chat Ventoow
+ETC_20150317_003938	Enter a number between 0 and 10000 into the chat window
+ETC_20150317_003939	In operation. Enter a number between 0 and 10000 into the chat window
 ETC_20150317_003940	Lower
 ETC_20150317_003941	Higher
 ETC_20150317_003942	The number entered is not between 0 and 10000
 ETC_20150317_003943	2. Derrote the crowd monsters
 ETC_20150317_003944	Chalk for Scribbles
 ETC_20150317_003945	Available in this inventory!
-ETC_20150317_003946	Write the scribble information in a chat Ventoow
+ETC_20150317_003946	Write the scribble information in a chat window
 ETC_20150317_003947	Prohibition Scribbles
-ETC_20150317_003948	3. Put the desired message into the chat Ventoow
+ETC_20150317_003948	3. Put the desired message into the chat window
 ETC_20150317_003949	In Operation, Write scribble information
 ETC_20150317_003950	Blank
 ETC_20150317_003951	Message:
@@ -4119,10 +4119,10 @@ ETC_20150317_004118	Output the control set
 ETC_20150317_004119	Turning the value to original due to an error
 ETC_20150317_004120	You cannot change the value
 ETC_20150317_004121	Remove
-ETC_20150317_004122	Unlock the Ventoow
-ETC_20150317_004123	Creating a new Ventoow
-ETC_20150317_004124	Changing the Ventoow Properties
-ETC_20150317_004125	Delete Ventoow
+ETC_20150317_004122	Unlock the window
+ETC_20150317_004123	Creating a new window
+ETC_20150317_004124	Changing the window Properties
+ETC_20150317_004125	Delete window
 ETC_20150317_004126	Duração: 
 ETC_20150317_004127	I will not restore HP and SP.
 ETC_20150317_004128	Increase the STR and INT.
@@ -5571,7 +5571,7 @@ ETC_20150317_005570	N/A
 ETC_20150317_005571	For Testing
 ETC_20150317_005572	Fogo Swords Middle Guild
 ETC_20150317_005573	Hotel
-ETC_20150317_005574	Evaporation OffGelo
+ETC_20150317_005574	Evaporation Office
 ETC_20150317_005575	Mountain Top
 ETC_20150317_005576	Baehyeon Moon
 ETC_20150317_005577	Bomung Top
@@ -5916,11 +5916,11 @@ ETC_20150317_005915	You can check the map of relevant area to drag mouse to the 
 ETC_20150317_005916	Info Básica
 ETC_20150317_005917	Inventory
 ETC_20150317_005918	Your inventory displays items and materials you own, currently equipped items and its weight.
-ETC_20150317_005919	You can open the inventory Ventoow by pressing {img F2 40 40}.
+ETC_20150317_005919	You can open the inventory window by pressing {img F2 40 40}.
 ETC_20150317_005920	{nl} {nl}The upper row of your inventory displays the variety of equipped items on your character. 
 ETC_20150317_005921	{nl} {nl}The middle row of your inventory displays items.{nl}These items are sorted by category.{nl} {nl}
 ETC_20150317_005922	{nl} {nl}The bottom row of your inventory displays the total weight of your items, obtained medals and current silver.{nl} {nl}
-ETC_20150317_005923	You can check the information on your quests through the quest Ventoow.
+ETC_20150317_005923	You can check the information on your quests through the quest window.
 ETC_20150317_005924	Press the {img F5 40 40} key to view the list of quests in progress. {nl} {nl}
 ETC_20150317_005925	{nl} {nl} Quest Progress Indicators{nl} {img minimap_1_MAIN 24 24}: Main Quest Available {nl} {img minimap_2_MAIN 24 24}: Main Quest In Progress {nl} {img minimap_3_MAIN 24 24}: Main Quest Completed {nl} {img minimap_1_SUB 24 24}: Subquest Available {nl} {img minimap_2_SUB 24 24}: Subquest In Progress {nl} {img minimap_3_SUB 24 24}: Subquest Completed{nl}{nl}
 ETC_20150317_005926	Select the quest to view detailed quest information.
@@ -5931,7 +5931,7 @@ ETC_20150317_005930	tab. {nl} {nl}
 ETC_20150317_005931	Restart
 ETC_20150317_005932	the quest immediately by using the Restart button. {nl} {nl}
 ETC_20150317_005933	You can manage the skills of your character through the skill window. 
-ETC_20150317_005934	You can open the Skill Ventoow by pressing {img F3 40 40}.
+ETC_20150317_005934	You can open the Skill window by pressing {img F3 40 40}.
 ETC_20150317_005935	Click the {img skillup 40 40} button to raise the level of a skill.
 ETC_20150317_005936	The skill level will increase after you click 'Apply'.
 ETC_20150317_005937	Skills learned are added to the keyboard slot.
@@ -5940,11 +5940,11 @@ ETC_20150317_005939	You can learn the attributes from Mestre NPC of each class.
 ETC_20150317_005940	{nl} {nl} You need silver to learn attributes. Also, each attribute requires time to Mestre. {nl} {nl}
 ETC_20150317_005941	Attributes can be used after they have been Mestreed.
 ETC_20150317_005942	{nl} {nl} Attributes are automatically added when you start learning. Only one attribute can be trained at a time.{nl} {nl}
-ETC_20150317_005943	{nl} {nl} Attributes you have already Mestreed can be found at the bottom of the skill Ventoow. {nl} {nl}
+ETC_20150317_005943	{nl} {nl} Attributes you have already Mestreed can be found at the bottom of the skill window. {nl} {nl}
 ETC_20150317_005944	{nl} {nl} Attributes can be enabled or disabled depending on the situation. {nl} {nl}
 ETC_20150317_005945	Diário de Aventura
 ETC_20150317_005946	You can check the progress of your game and character rankings through the Diário de Aventura.
-ETC_20150317_005947	Press {img F4 40 40} to open the Diário de Aventura Ventoow. 
+ETC_20150317_005947	Press {img F4 40 40} to open the Diário de Aventura window. 
 ETC_20150317_005948	{nl} {nl}You can check the updated score and ranking of each group in the Diário de Aventura.{nl} {nl}
 ETC_20150317_005949	The achievement of Diário de Aventura is placed at city
 ETC_20150317_005950	Bybora's Wings
@@ -5967,7 +5967,7 @@ ETC_20150317_005966	Can leave the party to select.
 ETC_20150317_005967	Combat
 ETC_20150317_005968	Monster Info
 ETC_20150317_005969	Displays a nearby monster's information
-ETC_20150317_005970	The monster's level, name and its HP can be viewed through the Monster Info Ventoow.
+ETC_20150317_005970	The monster's level, name and its HP can be viewed through the Monster Info window.
 ETC_20150317_005971	Certain classes have access to additional information on monsters.
 ETC_20150317_005972	Consumed HP/SP/Stamina can be recovered through the following options.
 ETC_20150317_005973	[Spontaneous Recovery]:
@@ -6008,13 +6008,13 @@ ETC_20150317_006007	Shop System
 ETC_20150317_006008	You can buy and sell items through the Merchant NPCs.
 ETC_20150317_006009	You can find merchant NPCs around the city
 ETC_20150317_006010	Find the merchant NPCs located in safe zones. {nl} {nl}
-ETC_20150317_006011	Use the trade Ventoow at the bottom to trade items with NPCs.{nl}{nl}[Buy] : Right-click the items you want to buy, set qty, then settle. {nl}[Sell]: Right-click the items you want to sell from your inventory, set qty, then settle. {nl} {nl}
+ETC_20150317_006011	Use the trade window at the bottom to trade items with NPCs.{nl}{nl}[Buy] : Right-click the items you want to buy, set qty, then settle. {nl}[Sell]: Right-click the items you want to sell from your inventory, set qty, then settle. {nl} {nl}
 ETC_20150317_006012	Hold down {img Shift 45 45} and right-click to trade multiple quantities at a time. {nl} {nl}
 ETC_20150317_006013	Items sold to the store can be bought back.
 ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking on the item. {nl} {nl}
 ETC_20150317_006015	Status Points
 ETC_20150317_006016	Use your Status Points gained from leveling up to make your character become stronger.
-ETC_20150317_006017	You can check your character's abilities in the Character Information Ventoow ({img F1 40 40}).
+ETC_20150317_006017	You can check your character's abilities in the Character Information window ({img F1 40 40}).
 ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Ataque Físico and Dano Crítico {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Resistencia a Crítico and max Inventory Weight {nl} {nl} INT: Increase in Ataque Mágico and Perfuração de bloqueio {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Precisão, Esquiva and Critical Chance {nl}
 ETC_20150317_006020	You can preview the effects of a status when you click 
 ETC_20150317_006021	 in the information tab.
@@ -6031,7 +6031,7 @@ ETC_20150317_006031	When using the Warp Scroll, you can only warp to areas with 
 ETC_20150317_006032	By using the Warp Scroll again, you will be warped to your last location.
 ETC_20150317_006033	Warp Scrolls can be bought from the shop or acquired from quests.
 ETC_20150317_006034	You can use the 'Return' button to complete quests more easily and faster.
-ETC_20150317_006035	When you complete quests, in the mission Ventoow UI 
+ETC_20150317_006035	When you complete quests, in the mission window UI 
 ETC_20150317_006036	 this button will be activated.
 ETC_20150317_006037	Return button
 ETC_20150317_006038	 allows you to teleport to the Quest NPC right away by clicking on the {img questinfo_return 40 40} button.
@@ -6060,8 +6060,8 @@ ETC_20150317_006060	You can enhance your equipment through the enhancement syste
 ETC_20150317_006061	Use {img F2 40 40} to open your inventory and {img mouseclick_right 30 30} on the 
 ETC_20150317_006062	 to enhance item.
 ETC_20150317_006063	 can be bought from the Merchant NPC or by hunting monsters.
-ETC_20150317_006064	After using the Anvil, select the item for the Item Enhancement Ventoow to appear.
-ETC_20150317_006065	From the Item Enhancement Ventoow, when you click the 
+ETC_20150317_006064	After using the Anvil, select the item for the Item Enhancement window to appear.
+ETC_20150317_006065	From the Item Enhancement window, when you click the 
 ETC_20150317_006066	 button, an 
 ETC_20150317_006067	 will appear. Hit the 
 ETC_20150317_006068	 three times to enhance your equipment.
@@ -6734,7 +6734,7 @@ ETC_20150317_006734	Large Transport Magic Circle
 ETC_20150317_006735	Defense Activation Device 
 ETC_20150317_006736	Reading Room
 ETC_20150317_006737	Large Reading Room
-ETC_20150317_006738	OffGelo
+ETC_20150317_006738	Office
 ETC_20150317_006739	Place for Debate
 ETC_20150317_006740	Laboratory
 ETC_20150317_006741	Central Control Room
@@ -7080,8 +7080,8 @@ ETC_20150317_007080	Table 1
 ETC_20150317_007081	Lost Stuff of Vendor 1
 ETC_20150317_007082	Lost Stuff of Vendor 2
 ETC_20150317_007083	Soldier's Relic
-ETC_20150317_007084	Steel-barred Ventoow
-ETC_20150317_007085	Steel-barred Ventoow 1
+ETC_20150317_007084	Steel-barred window
+ETC_20150317_007085	Steel-barred window 1
 ETC_20150317_007086	Literature 1
 ETC_20150317_007087	Literature 2
 ETC_20150317_007088	Literature 3
@@ -7572,7 +7572,7 @@ ETC_20150317_007572	Lydia Schaffen is leaving zeolite (1)
 ETC_20150317_007573	Activated Guard Device
 ETC_20150317_007574	Rexipher treatment
 ETC_20150317_007575	Chafer's Attack
-ETC_20150317_007576	 - Press this to open Skill Ventoow and learn skills
+ETC_20150317_007576	 - Press this to open Skill window and learn skills
 ETC_20150317_007577	Bait for Demons (1)
 ETC_20150317_007578	Bait for Demons (2)
 ETC_20150317_007579	Bait for Demons (3)
@@ -7740,7 +7740,7 @@ ETC_20150317_007740	Answer Cordelier's quiz
 ETC_20150317_007741	Answer Transmuter Furry Odd's quiz
 ETC_20150317_007742	Got a sheet from a wizard's book inside the laboratory at Mage Tower 3F
 ETC_20150317_007743	For Failure and Success
-ETC_20150317_007744	Enter numbers to the chat Ventoow.
+ETC_20150317_007744	Enter numbers to the chat window.
 ETC_20150317_007745	For Open Sesame
 ETC_20150317_007746	Defend yourself from the monsters
 ETC_20150317_007747	Read to the tombstone at Dykyne Fork on the left
@@ -8798,8 +8798,8 @@ ETC_20150317_008798	Enhancement Tip
 ETC_20150317_008799	Use the anvil to enhance your weapons and armor to become stronger.
 ETC_20150317_008800	Potential Tip
 ETC_20150317_008801	The Potential of an item decreases by player trading, adding sockets, equipping magic amulets or failing an enhancement.
-ETC_20150317_008802	Chat Ventoow Tip
-ETC_20150317_008803	Press Enter to open the chat Ventoow and press Enter again to close it.
+ETC_20150317_008802	Chat window Tip
+ETC_20150317_008803	Press Enter to open the chat window and press Enter again to close it.
 ETC_20150317_008804	Megaphone Tip
 ETC_20150317_008805	Entering /y before your chat allows you to broadcast your message. Requires the Megaphone item.
 ETC_20150317_008806	Repair Tip
@@ -8839,7 +8839,7 @@ ETC_20150317_008839	Press F6 to view your party.
 ETC_20150317_008840	Party Request Tip
 ETC_20150317_008841	Right-click on another player to send a party request. When a request is accepted, you can play together in a party.
 ETC_20150317_008842	Public Party List Tip
-ETC_20150317_008843	Click on Public Party List in the party Ventoow to view the current parties in the game.
+ETC_20150317_008843	Click on Public Party List in the party window to view the current parties in the game.
 ETC_20150317_008844	Friends List Tip
 ETC_20150317_008845	Press F7 to view your Friends List.
 ETC_20150317_008846	Pose Tip
@@ -11325,7 +11325,7 @@ ETC_20150428_011326	Fourth Isolation Area
 ETC_20150428_011327	Ferreiro's Workshop
 ETC_20150428_011328	Freight House
 ETC_20150428_011329	Worker's Rest Area
-ETC_20150428_011330	Management OffGelo
+ETC_20150428_011330	Management Office
 ETC_20150428_011331	Gathering Hall
 ETC_20150428_011332	Chapel
 ETC_20150428_011333	Prayer Room
@@ -11336,7 +11336,7 @@ ETC_20150428_011337	Central Passage
 ETC_20150428_011338	Explosives Warehouse
 ETC_20150428_011339	PractGelo Polishing Room
 ETC_20150428_011340	Worker's Waiting Room
-ETC_20150428_011341	Inventory Management OffGelo
+ETC_20150428_011341	Inventory Management Office
 ETC_20150428_011342	Wagon Warehouse
 ETC_20150428_011343	Siauliai Discolored Grass4
 ETC_20150428_011344	Teleport Magic Circle
@@ -12431,7 +12431,7 @@ ETC_20150714_012432	Recalled a number!{nl}
 ETC_20150714_012433	The seal of Archon has been weakened
 ETC_20150714_012434	 segundos remaining
 ETC_20150714_012435	The purification of the evil energy has been completed!{nl}Light energy has spread throughout the Royal Mausoleum Workers Lodge!
-ETC_20150714_012436	The barrier at the Management OffGelo has been removed!
+ETC_20150714_012436	The barrier at the Management Office has been removed!
 ETC_20150714_012437	The altar has already been activated
 ETC_20150714_012438	The light power, that is lethal to the monsters at the chapel area, has been activated
 ETC_20150714_012439	Unable to create Hauberk from invalid coordinates
@@ -12849,11 +12849,11 @@ ETC_20150714_012850	POSSIBLE Status NPC movement use
 ETC_20150714_012851	PROGRESS Status NPC movement use
 ETC_20150714_012852	SUCCESS Status NPC movement use
 ETC_20150714_012853	Grouping
-ETC_20150714_012854	Quest mission Ventoow Story explanation display
+ETC_20150714_012854	Quest mission window Story explanation display
 ETC_20150714_012855	Abandon button UI display
 ETC_20150714_012856	Quest Possible Status Update in progress
-ETC_20150714_012857	Quest information Ventoow
-ETC_20150714_012858	Mission Ventoow
+ETC_20150714_012857	Quest information window
+ETC_20150714_012858	Mission window
 ETC_20150714_012859	 should be overwritten?
 ETC_20150714_012860	Recall quest party member
 ETC_20150714_012861	Whether to track auto-completion upon quest completion
@@ -12861,7 +12861,7 @@ ETC_20150714_012862	Track use
 ETC_20150714_012863	Whether to use the move function towards the quest start location when quest is not completed.
 ETC_20150714_012864	*Quest ClassID
 ETC_20150714_012865	Quest suitable level
-ETC_20150714_012866	Mission Ventoow text display area
+ETC_20150714_012866	Mission window text display area
 ETC_20150714_012867	Story Explanation
 ETC_20150714_012868	*Completion NPC
 ETC_20150714_012869	*Completion NPC ready
@@ -13055,13 +13055,13 @@ ETC_20150714_013056	Before selecting 2 or more quests
 ETC_20150714_013057	NPC name
 ETC_20150714_013058	Starting area marked on zone map
 ETC_20150714_013059	Zone with starting NPC
-ETC_20150714_013060	Starting position Text appearing in the mission Ventoow
+ETC_20150714_013060	Starting position Text appearing in the mission window
 ETC_20150714_013061	Progression area marked on the zone map
 ETC_20150714_013062	Zone with the progression NPC
-ETC_20150714_013063	Progression location appearing on the mission Ventoow
+ETC_20150714_013063	Progression location appearing on the mission window
 ETC_20150714_013064	Completion area marked on the zone map
 ETC_20150714_013065	Zone with the completion NPC
-ETC_20150714_013066	Completion area Text appearing on the mission Ventoow
+ETC_20150714_013066	Completion area Text appearing on the mission window
 ETC_20150714_013067	Only start-able in target location
 ETC_20150714_013068	Only start-able by target class
 ETC_20150714_013069	Only start-able with specific quest or property prerequisite fulfilled
@@ -13249,14 +13249,14 @@ ETC_20150717_013250	Press the {img N 40 40} to open the World Map.
 ETC_20150717_013251	Areas you haven't been to will not be shown on the World Map,{nl}while areas you have already been to will be activated. 
 ETC_20150717_013252	Moving your mouse over the activated area will show the map that the character has completed. 
 ETC_20150717_013253	You can check your items, equipment, money, and weight through the Inventory. 
-ETC_20150717_013254	Press {img F2 40 40} to open the Inventory Ventoow. 
-ETC_20150717_013255	Upper area of the Inventory Ventoow shows items that the character equipped. 
+ETC_20150717_013254	Press {img F2 40 40} to open the Inventory window. 
+ETC_20150717_013255	Upper area of the Inventory window shows items that the character equipped. 
 ETC_20150717_013256	Below are the item that the character holds.
 ETC_20150717_013257	Items in the inventory are sorted by item types. 
 ETC_20150717_013258	Click on Sort to sort the inventory by name.
 ETC_20150717_013259	Use the search function to quickly find items.
 ETC_20150717_013260	The lower area shows total carry weight of your items, funds, and TPs.
-ETC_20150717_013261	Available quests are found in the Quest Ventoow.
+ETC_20150717_013261	Available quests are found in the Quest window.
 ETC_20150717_013262	Press {img F5 40 40} to view the quests in progress.
 ETC_20150717_013263	Select an entry from the Quests in Progress list for detailed information.
 ETC_20150717_013264	You can drop certain quests with the 
@@ -13266,13 +13266,13 @@ ETC_20150717_013267	 tab.
 ETC_20150717_013268	button allows you to restart the quest immediately. Some quests cannot be abandoned.
 ETC_20150717_013269	Track a quest by marking the checkbox.
 ETC_20150717_013270	Manage skills with skill points gained on level up.
-ETC_20150717_013271	Press {img F3 40 40} to open your Skill Ventoow.
+ETC_20150717_013271	Press {img F3 40 40} to open your Skill window.
 ETC_20150717_013272	Learned skills will appear in your Quick Slots where you can change the keys to your own choGelo.
 ETC_20150717_013273	Learn attributes by visiting the Class Mestre NPC of a specific Class.
 ETC_20150717_013274	Learning attributes will cost Silver and time. {nl} {nl}
 ETC_20150717_013275	You can use the attribute after you've learned it, {nl}but other attributes cannot be learned while you are learning. 
-ETC_20150717_013276	Attributes that you have already Mestreed can be found in the Attribute List in the Skill Ventoow.
-ETC_20150717_013277	Attributes you have already Mestreed can be found at the bottom of the Skill Ventoow.
+ETC_20150717_013276	Attributes that you have already Mestreed can be found in the Attribute List in the Skill window.
+ETC_20150717_013277	Attributes you have already Mestreed can be found at the bottom of the Skill window.
 ETC_20150717_013278	Your character's game progress is recorded in the Diário de Aventura. Press F4 to view it.
 ETC_20150717_013279	You can complete the Adventure Index through Items, Monsters, Crafting, Map, and Game Progression.
 ETC_20150717_013280	You can receive rewards from 
@@ -13294,10 +13294,10 @@ ETC_20150717_013295	. {nl}{nl}
 ETC_20150717_013296	- you can select from different options to revive. {nl}{nl} - Respawn from nearest Revival Point : Revive in the starting location of the map. For dungeons, you will revive outside its entrance. {nl}{nl} Respawn here : Revive where the character died. Req
 ETC_20150717_013297	The gems in your inventory will be dropped when you die inside a dungeon.
 ETC_20150717_013298	You can earn achievements through character's activities and receive rewards.
-ETC_20150717_013299	You can see your characer's achievements by pressing {img F1 40 40} to open the Character Ventoow, and going to the Achievements tab.
+ETC_20150717_013299	You can see your characer's achievements by pressing {img F1 40 40} to open the Character window, and going to the Achievements tab.
 ETC_20150717_013300	You can receive rewards for each achievement you earn.
 ETC_20150717_013301	Party Settings
-ETC_20150717_013302	Press {img F6 40 40} to open the Party Ventoow.
+ETC_20150717_013302	Press {img F6 40 40} to open the Party window.
 ETC_20150717_013303	You can form a party by pressing the Create Party button. You must not currently be in a party to form a new one.
 ETC_20150717_013304	You can set your play style and party members in Members tab.
 ETC_20150717_013305	This information will be used when you use Search Party function.
@@ -13305,7 +13305,7 @@ ETC_20150717_013306	You can enjoy Party Events with other party members.
 ETC_20150717_013307	In Settings, you can set the Party Name, Party Description, Item and EXP distribution rules, etc.
 ETC_20150717_013308	You can check the list of public parties on the right.
 ETC_20150717_013309	You can select the party you like to join from the list of Public Parties.
-ETC_20150717_013310	You can check the monster's level, name, HP, etc in the Monster Ventoow.
+ETC_20150717_013310	You can check the monster's level, name, HP, etc in the Monster window.
 ETC_20150717_013311	attacks are effective against
 ETC_20150717_013312	type monsters.
 ETC_20150717_013313	attacks are effective against
@@ -13335,7 +13335,7 @@ ETC_20150717_013336	button to begin crafting.
 ETC_20150717_013337	You can add names or memos on crafted items.
 ETC_20150717_013338	Shop System
 ETC_20150717_013339	You can find Merchant NPCs in your travels.
-ETC_20150717_013340	Use the trade Ventoow to trade items with NPCs.{nl}{nl}[Buy] : Select the items you want to buy with {img mouseclick_right 30 30}, then press
+ETC_20150717_013340	Use the trade window to trade items with NPCs.{nl}{nl}[Buy] : Select the items you want to buy with {img mouseclick_right 30 30}, then press
 ETC_20150717_013341	Confirm 
 ETC_20150717_013342	 button to trade. {nl}To trade multiple items, use {img mouseclick_right 30 30} to set quantity. {nl}{nl}[Sell]: {img mouseclick_right 30 30} on the items you want to sell from your inventory, and set quantity, then press
 ETC_20150717_013343	button to trade. {nl}Double {img mouseclick_right 30 30} to sell all of that item.
@@ -13344,14 +13344,14 @@ ETC_20150717_013345	 button enables you to reset all items added for Buy and Sel
 ETC_20150717_013346	{img mouseclick_right 30 30} on the item from 'My Sold Items' below to buy back item delete it from the list.
 ETC_20150717_013347	You require money and an anvil to enhance equipment.
 ETC_20150717_013348	 can be purchased from the Mercador de Itens or obtained from monsters.
-ETC_20150717_013349	Press {img mouseclick_right 30 30} on the anvil, then select an equipment item to open the Enhancement Ventoow. Select
+ETC_20150717_013349	Press {img mouseclick_right 30 30} on the anvil, then select an equipment item to open the Enhancement window. Select
 ETC_20150717_013350	 and 
 ETC_20150717_013351	 will appear. Hit the 
 ETC_20150717_013352	 three times to enhance the item.
 ETC_20150717_013353	When enhancing a weapon beyond +5, Potential will be consumed on failure and its effects will be reset. The item will be destroyed when Potential drops to zero.
 ETC_20150717_013354	Enhancement penalties occur beyond +2 for armors, bracelets, and necklaces.
 ETC_20150717_013355	You can't use an item with 0 durability.
-ETC_20150717_013356	Repair items in the Repair Ventoow.{nl}Select an item, then click Repair to restore durability to 100%.
+ETC_20150717_013356	Repair items in the Repair window.{nl}Select an item, then click Repair to restore durability to 100%.
 ETC_20150717_013357	A repair fee will be charged. Higher ranked items are usually more expensive to repair.
 ETC_20150717_013358	Use Gems on your items for additional effects.  
 ETC_20150717_013359	Gems can be used for extra item effects and are obtained from dungeons.
@@ -13422,7 +13422,7 @@ ETC_20150717_013423	Use the Social Function to interact with other players.
 ETC_20150717_013424	[Helper] You can leave your character to be used as a Helper when you log out. You need to be at least Rank 3 and TP is consumed.
 ETC_20150717_013425	Other players may hire you as Helpers by paying TPs.
 ETC_20150717_013426	A Helper will follow the host character and assist in combat.
-ETC_20150717_013427	[Friend] Press F7 to open the Friends Ventoow. Players can add each other to Friends List.
+ETC_20150717_013427	[Friend] Press F7 to open the Friends window. Players can add each other to Friends List.
 ETC_20150717_013428	Friends can see each other's online status and location.
 ETC_20150717_013429	[Like] Press {img mouseclick_right 30 30} on another character and press
 ETC_20150717_013430	to use the Like function.
@@ -13441,7 +13441,7 @@ ETC_20150717_013442	Empty NPC for Petrified City
 ETC_20150717_013443	NPC_Kepa_Temporal Use
 ETC_20150717_013444	Hidden Trigger for Petrifying Frost
 ETC_20150717_013445	Boss Hunting Mission
-ETC_20150717_013446	Request OffGelo Mission
+ETC_20150717_013446	Request Office Mission
 ETC_20150717_013447	Talk to Fedimian Mercenary Post Recepcionista Ramda at the Mercenary Post to request a mission.
 ETC_20150717_013448	DoTimeAction:Looking for the parts:3:SITGROPE:None
 ETC_20150717_013449	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/NotGelo:NOTGelo_Dm_GetItem:You've found the parts!:5/NPCDead
@@ -13694,7 +13694,7 @@ ETC_20150729_013695	Press {img N 40 40} to open the World Map.
 ETC_20150729_013696	Only the areas you have already discovered will be activated. Undiscovered areas are not shown on the World Map.
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
 ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
-ETC_20150729_013699	Press {img F1 40 40} to open the Character Information Ventoow to view info about your character.
+ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
 ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Ataque Físico and Dano Crítico {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Resistencia a Crítico and Max Inventory Weight {nl} {nl} INT : Increase in Ataque Mágico{nl}{nl} SPR : Increase in Max SP and SP Recovery, Defesa Mágica and Perfuração de bloqueio {nl} {nl} DEX : Increase in Precisão, Esquiva and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	You can manage the skills of your character through the Skill window. 
@@ -13710,12 +13710,12 @@ ETC_20150729_013711	After selecting a class to advance to, you will receive an a
 ETC_20150729_013712	Once you begin the advancement quest, you cannot change your class until the next advancement.
 ETC_20150729_013713	Complete the quest to advance.
 ETC_20150729_013714	You can check your items, equipment, funds, and weight in the inventory that the character has.
-ETC_20150729_013715	Press {img F2 40 40} to open the Inventory Ventoow.
-ETC_20150729_013716	The upper part of the Inventory Ventoow displays equipped items on the character.
+ETC_20150729_013715	Press {img F2 40 40} to open the Inventory window.
+ETC_20150729_013716	The upper part of the Inventory window displays equipped items on the character.
 ETC_20150729_013717	Items in the inventory are sorted by item types. {nl}Click Sort to sort the inventory by name.
 ETC_20150729_013718	{nl}{nl}Use the search function to find specific items{nl} in your inventory.
 ETC_20150729_013719	{nl}{nl}The lower part displays the total carry weight of your items, funds, and TPs.
-ETC_20150729_013720	Available quests can be found in the Quest Ventoow.
+ETC_20150729_013720	Available quests can be found in the Quest window.
 ETC_20150729_013721	Press {img F5 40 40} to view available quests {nl}or quests that are in progress.
 ETC_20150729_013722	{nl}{nl}You can restart abandoned quests by pressing the 
 ETC_20150729_013723	 button appears on quests that cannot be abandoned.
@@ -13724,13 +13724,13 @@ ETC_20150729_013725	Check your character's game progress and rankings{nl} in you
 ETC_20150729_013726	Your character's progress is recorded in the Diário de Aventura. Press {img F4 40 40} to view.
 ETC_20150729_013727	You can earn Adventure Index through Items, Monsters, Crafting, Map, and Game Progression.
 ETC_20150729_013728	You can receive rewards from 
-ETC_20150729_013729	Press {img F1 40 40} to open Character Information Ventoow and choose the Achievement tab to view character's achievements.
+ETC_20150729_013729	Press {img F1 40 40} to open Character Information window and choose the Achievement tab to view character's achievements.
 ETC_20150729_013730	Revive your character's death by using Resurrection.
 ETC_20150729_013731	A character will die when its HP reaches 0 and becomes 
 ETC_20150729_013732	. {nl}{nl}The durability of equipped items will decrease drastically when a character becomes incapable of combat.
 ETC_20150729_013733	{nl}{nl}Gems in your inventory will be dropped when you die inside a dungeon.
 ETC_20150729_013734	A party can be created to play with other players. 
-ETC_20150729_013735	Press {img F6 40 40} to open the Party Ventoow.{nl}{nl}Click on the 'Create' button to make a party.
+ETC_20150729_013735	Press {img F6 40 40} to open the Party window.{nl}{nl}Click on the 'Create' button to make a party.
 ETC_20150729_013736	You can set up your own play style and preferences through the party settings.{nl}{nl}This information will be used when you use the Search Party Member function.
 ETC_20150729_013737	When you find players that match your set up criteria, {nl}{img mouseclick_right 30 30} to invite the player to your party.
 ETC_20150729_013738	You can enjoy Party Events with other party members.
@@ -13760,7 +13760,7 @@ ETC_20150729_013761	{nl}{nl}To craft, press {img Insert 40 40} and switch to Res
 ETC_20150729_013762	{nl}{nl}If you have all required materials, press the 
 ETC_20150729_013763	 button to begin crafting.
 ETC_20150729_013764	Optionally, you can add a unique name or memo on your newly crafted item.
-ETC_20150729_013765	Use the trade Ventoow to trade items with Merchant NPCs.
+ETC_20150729_013765	Use the trade window to trade items with Merchant NPCs.
 ETC_20150729_013766	[Buy] : Select the item you want to buy with {img mouseclick_right 30 30}, then press 
 ETC_20150729_013767	button to trade. {nl}To trade multiple items, use {img shift 40 40}+{img mouseclick_right 30 30} to set a quantity. {nl}{nl}[Sell] : {img mouseclick_right 30 30} on the items you want to sell from your inventory, and set quantity, then press
 ETC_20150729_013768	button to trade. {nl}Double {img mouseclick_right 30 30} to sell all of that item. {nl}{nl}
@@ -13769,11 +13769,11 @@ ETC_20150729_013770	{img mouseclick_right 30 30} on the item from 'My Sold Items
 ETC_20150729_013771	Enhance your equipment to increase its power.
 ETC_20150729_013772	You need funds and an anvil to enhance your item.
 ETC_20150729_013773	 can be purchased from the Mercador de Itens or obtained from monsters.
-ETC_20150729_013774	{nl}{nl}{img mouseclick_right 30 30} on the anvil, then select an item to open Enhancement Ventoow.
+ETC_20150729_013774	{nl}{nl}{img mouseclick_right 30 30} on the anvil, then select an item to open Enhancement window.
 ETC_20150729_013775	{nl}{nl}When your equipment is enhanced, its power increases. 
 ETC_20150729_013776	{nl}{nl}When enhancing a weapon beyond +5, Potential will be consumed on failure and the effects will be reset. The item will be destroyed when Potential drops to 0.
 ETC_20150729_013777	Repair items with low durability through the Ferreiro NPC.
-ETC_20150729_013778	Repair items with low durability in the Item Repair Ventoow.
+ETC_20150729_013778	Repair items with low durability in the Item Repair window.
 ETC_20150729_013779	{nl}{nl}Select an item, then click Repair to restore its durability to 100%.
 ETC_20150729_013780	{nl} {#ff3030}{s23}Fencer Gems{/}{/}{nl} {nl}Lunge  -  Denden Gem{nl}Sept Etoiles  -  Lemuria Gem{nl}Attaque Coquille  -  Corrupt Belfigi Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#DD5500}{s23}Fletcher Gems{/}{/}{nl} {nl}Broadhead  -  Rambear Archer Gem{nl}Bodkin Point  -  Colifly Gem{nl}Barbed Arrow  -  Stoulet Gem{nl}Cross Fire  -  Pure Loftlem Gem{nl}Magic Arrow  -  Lupusbunny Gem{nl}Divine Machine Arrow  -  Black Colifly Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#ff3030}{s23}Highlander Gems{/}{/}{nl} {nl}Wagon Wheel  -  Puragi Gem{nl}Cartar Stroke  -  Vubbe Fighter Gem{nl}Crown  -  Mallardu Gem{nl}Cross Guard  - Brown Rodelin Gem{nl}Moulinet  -  Glizardon Gem{nl}Sky Liner  -  Lauzinutena Gem{nl}Cross Cut  -  Loftlem Gem{nl}Skull Swing  -  Deadborn Scap Gem{nl}Vertical Slash  -  Boowook Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#ff3030}{s23}Hoplite Gems{/}{/}{nl} {nl}Stabbing  -  Mushcarfung Gem{nl}Pierce  -  Groll Gem{nl}Finestra  -  Chafperor Gem{nl}Synchro Thrusting  -  Thornball Gem{nl}Long Stride  -  Bite Gem{nl}Spear Lunge  -  Cementery Golem Gem{nl}Throwing Spear  -  Black Drake Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#DD5500}{s23}Hunter Gems{/}{/}{nl} {nl}Coursing  -  Merog Stinger Gem{nl}Snatching  -  Wendigo Archer Gem{nl}Pointing  -  Lichenclops Gem{nl}Rush Dog  -  Tucen Gem{nl}Retrieve  -  White Operor Gem{nl}Hounding  -  Orange Dandel Gem{nl}Growling  -  Socket Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#25f205}{s23}Krivis Gems{/}{/}{nl} {nl}Aukuras  -  Zignuts Gem{nl}Zalciai  -  Grummer Gem{nl}Daino  -  Tipio Gem{nl}Zaibas  -  Large Panto Spearman Gem{nl}Divine Stigma  -  Mentiwood Gem{nl}Melstis  -  Earth Spectra Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#8a2be2}{s23}Linker Gems{/}{/}{nl} {nl}Physical Link  -  Coliflower Gem{nl}Joint Penalty  -  Dandel Gem(nl}Hangman's Knot  -  Velwriggler Gem{nl}Spiritual Chain  -  Zinutekas Gem{nl}Lifeline  -  Cyst Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#25f205}{s23}Monk Gems{/}{/}{nl} {nl}Iron Skin  -  Green Griba Gem{nl}Double Punch  -  Blue Velwriggler Gem{nl}Palm Strik  -  Siaulamb Warrior Gem{nl}Hand Knife  -  Orange Gribaru Gem{nl}Energy Blast  -  Goblin Warrior Gem{nl}Golden Bell Shield  -  Black Umbrella Moss Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#8a2be2}{s23}Necromancer Gems{/}{/}{nl} {nl}Flesh Cannon  -  Kepa Raider Magician Gem{nl}Corpse Tower  -  Rambear Magician Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#25f205}{s23}Oracle Gems{/}{/}{nl} {nl}Arcane Energy  -  Hallowventor Shawn Gem{nl}Counter Spell  -  Corrupt Pyran Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#25f205}{s23}Paladin Gems{/}{/}{nl} {nl}Smite  -  Tontulia Gem{nl}Restoration  -  Ashrong Gem{nl}Resist Elements  -  Lizardman Gem{nl}Turn Undead  - Shaman Doll Gem{nl}Conversion  -  Confined Long Branched Tree Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#25f205}{s23}Pardoner Gems{/}{/}{nl} {nl}Simony  -  Levi Gem{nl}Indulgentia  -  Elma Gem{nl}Discern Evil  -  Honeybean Gem{nl}Increase Magic Defense  -  Wendigo Shaman Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#ff3030}{s23}Peltasta Gems{/}{/}{nl} {nl}UmboBlow  -  Egnome Gem{nl}Rim Blow  -  Yognome Gem{nl}Swash Buckling  -  Pawndel Gem{nl}Guardian  -  Beetow Gem{nl}Shield Lob  -  Earth Wood Goblin Gem{nl}High Guard  -  Ammon Gem{nl}Butterfly  -  Vikaras Mage Gem{nl}Umbo Thrust  -  Infroburk Gem{nl} {nl}------------------------------------------------- {nl} {nl}                                                 
 ETC_20150729_013781	{nl} {nl}{#25f205}{s23}Priest Gems{/}{/}{nl} {nl}Aspersion  -  Rodelin Gem{nl}Monstrance  -  Leafly Gem{nl}Blessing  -  Doyor Gem{nl}Sacrament  -  Blue Fragaras Gem{nl}Revive  -  Cronewt Poison Needler Gem{nl}MassHeal  -  Earth Shredded Gem{nl}Exorcise  -  Earth Hallowventor Gem{nl}Stone Skin  -  Hogma Shaman Gem{nl}{nl} {nl}------------------------------------------------- {nl} {nl}{#8a2be2}{s23}Psychokino Gems{/}{/}{nl} {nl}Psychic Pressure  -  Green Apparition Gem{nl}Telekinesis  -  Wendigo Magician Gem{nl}Swap  -  Colitile Gem{nl}Teleportation  -  Catacomb Leaf Bug Gem{nl}Magnetic Force  -  Hallowventor Gem{nl}Raise  -  Elet Gem{nl}Gravity Pole  -  Orange Tama Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#8a2be2}{s23}Pyromancer Gems{/}{/}{nl} {nl}Fire Ball  -  Deadborn Scap Gem{nl}Fire Wall  -  Desmodus Gem{nl}Enchant Fire  -  Black Maize Gem{nl}Flare  -  Tiny Magician Gem{nl}Flame Ground  -  Galok Gem{nl}Fire Pillar  -  Desert Chupacabra Gem{nl}Hell Breath  -  Colimen Magician Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#DD5500}{s23}Quarrel Shooter Gems{/}{/}{nl} {nl}Deploy Pavise  -  Upent Gem{nl}Scatter Caltrop  -  Panto Archer Gem{nl}Stone Shot  -  Brown Zigri Gem{nl}Rapid Fire  -  Spoiled Coliflower Gem{nl}Teardown  -  Lepusbunny Assassin Gem{nl}Running Shot  -  Deadborn Scap Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#DD5500}{s23}Ranger Gems{/}{/}{nl} {nl}Barrage  -  Spion Archer Gem{nl}High Anchoring  -  Panto Pathfinder Gem{nl}Critical Shot  -  Vubbe Archer Gem{nl}Steady Aim  -  Colifly Gem{nl}Time Bomb Arrow  -  Truffle Gem{nl}Bounce Shot  -  Red Fisherman Gem{nl}Spiral Arrow  -  Ellom Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#ff3030}{s23}Rodelero Gems{/}{/}{nl} {nl}Shield Charge  -  Tree Ambulo Gem{nl}Montano  -  High Vubbe Gem{nl}Targe Smash  -  Old Kepa Shell Gem{nl}Shield Push  -  Drake Gem{nl}Shield Shoving  -  Giant Bat Gem{nl}Shield Bash  -  Blue Raffly Gem{nl}Slithering  -  Nuka Gem{nl}Shooting Star  -  Goblin Charger Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#DD5500}{s23}Rogue Gems{/}{/}{nl} {nl}Sneak Hit  -  Hohen Leader Gem{nl}Feint  -  Minos Archer Gem{nl}Capture  -  Nuodai Gem{nl}Vendetta  -  Wendigo Searcher Gem{nl}Backstab  -  Velaphid Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#25f205}{s23}Sadhu Gems{/}{/}{nl} {nl}Out of Body  -  Flash Magician Gem{nl}Astral Body Explosions  -  Shtayim Gem{nl}Vashita Siddhi  -  Cronewt Gem{nl}Possession  -  Infroblood Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#DD5500}{s23}Sapper Gems{/}{/}{nl} {nl}Stack Stockades  -  Catacomb Mushcarfung Gem{nl}Conceal  -  Orange Sakmoli Gem{nl}Claymore  -  Infroholder Archer Gem{nl}Punji Stake  -  Hogma Archer Gem{nl}Deonate Traps  -  Merog Shaman Gem{nl}Broom Trap  -  Vikaras Gem{nl}Collar Bomb  -  Rubblem Gem{nl}Spike Shooter  -  Infro Holder Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#DD5500}{s23}Schwarze Reiter Gems{/}{/}{nl} {nl}Concentrated Fire  -  Corrupted Deadborn Scap Archer Gem{nl}Caracole  -  Socket Archer Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#DD5500}{s23}Scout Gems{/}{/}{nl} {nl}Flu Flu  -  Yonazolem Gem{nl}Flare Shot  -  High Vubbe Archer Gem{nl}Cloaking  -  Sakmoli Gem{nl}Perspective Distortion  -  Red Zigri Gem{nl} {nl}------------------------------------------------- {nl} {nl}{#8a2be2}{s23}Sorcerer Gems{/}{/}{nl} {nl}Summoning  -  Siaulav Mage Gem{nl}Summon Familiar  -  Terra Imp Gem{nl}Summon Salamion  -  Guardian Spider Gem{nl} {nl}------------------------------------------------- {nl} {nl}                                                 
@@ -13795,7 +13795,7 @@ ETC_20150729_013796	You can use the Market through the Mercador.
 ETC_20150729_013797	You can look at items offered by other players, and purchase items from the list.
 ETC_20150729_013798	You can also put up your items to sell.
 ETC_20150729_013799	{img mouseclick_right 30 30} on the item you want to sell from your inventory, set a quantity and its selling price.
-ETC_20150729_013800	{nl}{nl}[Buy-in Shop] Press {img F1 40 40} to open the Information Ventoow and click on Character to open Buy-in Shop.
+ETC_20150729_013800	{nl}{nl}[Buy-in Shop] Press {img F1 40 40} to open the Information window and click on Character to open Buy-in Shop.
 ETC_20150729_013801	Select the items you need, then set a quantity and price for other players to sell items to you.
 ETC_20150729_013802	The Buy-in Shop will remain even if you log off from the server.
 ETC_20150729_013803	Use Warp to quickly move to an area of your choGelo.
@@ -13842,7 +13842,7 @@ ETC_20150729_013843	Use {img mouseclick_right 30 30} to send a request to anothe
 ETC_20150729_013844	You can view the login status and location of your friends.
 ETC_20150729_013845	{nl} {nl}[Like] Use {img mouseclick_right 30 30} to 
 ETC_20150729_013846	 other characters!
-ETC_20150729_013847	 can be viewed from the Other Character Info Ventoow.
+ETC_20150729_013847	 can be viewed from the Other Character Info window.
 ETC_20150729_013848	Add Magic Amulet on weapons and shields for additional effects.
 ETC_20150729_013849	After {img mouseclick_left 40 40} Magic Amulet, when you {img mouseclick_right 30 30} the equipment, a magic amulet will be attached to the equipment.
 ETC_20150729_013850	Potential is consumed when you attach a Magic Amulet.
@@ -13852,7 +13852,7 @@ ETC_20150729_013853	When you are equipped with the equipment with a magic amulet
 ETC_20150729_013854	Overkill will be activated if you inflict more damages with a powerful attack to a monster than its remaining HP.
 ETC_20150729_013855	You can engage in a 1:1 Card Battle with another player using Monster Cards.
 ETC_20150729_013856	When you defeat a Boss Monster, it is possible to obtain its Monster Card.
-ETC_20150729_013857	Chatting Ventoow
+ETC_20150729_013857	Chatting window
 ETC_20150729_013858	When you input, Card Battle Table will be opened.{nl}Your opponent can participate in a Card Battle by pressing {img SPACE 40 40}.
 ETC_20150729_013859	You will be ready for the Card Battle once you have selected a card from your inventory.{nl}The selected card will be shown as undisclosed to your opponent.
 ETC_20150729_013860	When both players have decided on their cards, they'll disclose their cards and the win/loss will be decided using the Roulette.
@@ -13871,14 +13871,14 @@ ETC_20150729_013872	Karda Fortress
 ETC_20150729_013873	Skyda Fortress
 ETC_20150729_013874	Avansa Hall
 ETC_20150729_013875	Dvus Street
-ETC_20150729_013876	Zinios Survey OffGelo
+ETC_20150729_013876	Zinios Survey Office
 ETC_20150729_013877	Bakaleja Market Lot
 ETC_20150729_013878	Siokas Residential Area
 ETC_20150729_013879	Watchtower
 ETC_20150729_013880	Filma Parapet Wall
 ETC_20150729_013881	Collapsed Temple Lot
 ETC_20150729_013882	Tarima Downtown
-ETC_20150729_013883	Dingofasil Governmental OffGelo
+ETC_20150729_013883	Dingofasil Governmental Office
 ETC_20150729_013884	Vepavi Corridor
 ETC_20150729_013885	Kaulu Corridor
 ETC_20150729_013886	Room of Eternal Sleep
@@ -13907,7 +13907,7 @@ ETC_20150729_013908	Monk3 Down
 ETC_20150729_013909	Monk4 Down
 ETC_20150729_013910	Carpet
 ETC_20150729_013911	When Party Leader accepts the boss hunting mission, go to the area with your party members to start the boss hunting.
-ETC_20150729_013912	When Party Leader accepts the mission, you can go to Fedimian Mercenary Reception OffGelo to start the mission with your party members. When the party members are all gathered, Party Leader should talk to the receptionist, Ramda to move to the mission location to start the mission.
+ETC_20150729_013912	When Party Leader accepts the mission, you can go to Fedimian Mercenary Reception Office to start the mission with your party members. When the party members are all gathered, Party Leader should talk to the receptionist, Ramda to move to the mission location to start the mission.
 ETC_20150729_013913	When Party Leader accepts the party quest, party members can also receive the quest. After receiving the party quest, move to to the quest location to start the quest.
 ETC_20150729_013914	When Party Leader accepts Team Battle League, you can compete against other parties by forming a team with your party members. After accepting, please wait until your opponent is selected.
 ETC_20150729_013915	DoTimeAction:Collecting:2:SITGROPE:None
@@ -14271,8 +14271,8 @@ ETC_20150918_014272	Drapeliun fall lifeless!
 ETC_20150918_014273	Steal the liveliness
 ETC_20150918_014274	This demon is losing its vitality to the bone that is endowed with the magical power
 ETC_20150918_014275	When you catch it, you will accumulate lots of EXP points
-ETC_20150918_014276	You can check Party Information Ventoow using {img F6 40 40}.{nl} {nl}When you don't belong to a party, press Create a Party button at the bottom of the screen to create a party.
-ETC_20150918_014277	You can put the name of your party and its description and it will also display your party members' information.{nl} {nl}When you press Party Invite Tag, a tag of your party will be displayed in the chat Ventoow. 
+ETC_20150918_014276	You can check Party Information window using {img F6 40 40}.{nl} {nl}When you don't belong to a party, press Create a Party button at the bottom of the screen to create a party.
+ETC_20150918_014277	You can put the name of your party and its description and it will also display your party members' information.{nl} {nl}When you press Party Invite Tag, a tag of your party will be displayed in the chat window. 
 ETC_20150918_014278	Each content will be exposed in the Party Event tab whenever you fulfill certain requirements, and you'll be able to participate in them with your party members.
 ETC_20150918_014279	In Settings, the rules for distributing items and EXP can be set along with Party Recruit Settings.
 ETC_20150918_014280	At the right side of Party Interface, you will be able to see Party List and Player List.
@@ -14897,7 +14897,7 @@ ETC_20151001_014897	Gehima Empty Lot
 ETC_20151001_014898	Camping Ground
 ETC_20151001_014899	Skaika Supply Route
 ETC_20151001_014900	First Almol Work Place
-ETC_20151001_014901	Work Management OffGelo
+ETC_20151001_014901	Work Management Office
 ETC_20151001_014902	Ulksh Camp
 ETC_20151001_014903	Second Almol Work Place
 ETC_20151001_014904	Nubarsk Cliff
@@ -14998,7 +14998,7 @@ ETC_20151001_014998	Obtain the last breath from the petrified monsters
 ETC_20151001_014999	Destroy the barrier stone using the last breath
 ETC_20151001_015000	Obtain the detonator from the monsters
 ETC_20151001_015001	Protect the pillar from the monsters
-ETC_20151001_015002	Enter the correct number to chat Ventoow
+ETC_20151001_015002	Enter the correct number to chat window
 ETC_20151001_015003	Someone's record(3)
 ETC_20151001_015004	Collect the shiny moss
 ETC_20151001_015005	Help the people attacked by the monsters
@@ -15831,7 +15831,7 @@ ETC_20151016_015825	Already detected
 ETC_20151016_015826	Not being detected well{nl}Activate it again
 ETC_20151016_015827	It seems that it is out of the range of the detector{nl}Move within the range marked on the map and activate it again
 ETC_20151016_015828	You have excavated what Jurate was talking about!
-ETC_20151016_015829	Correct numbers should be typed in the chat Ventoow{nl}Check the number on the pillar again
+ETC_20151016_015829	Correct numbers should be typed in the chat window{nl}Check the number on the pillar again
 ETC_20151016_015830	Listen to the importance of the tombstone of Anastospa
 ETC_20151016_015831	Listen to the story of aura that shines from the tombstone
 ETC_20151016_015832	Tell that you will be responsible and apologize one more time
@@ -18039,7 +18039,7 @@ ETC_20151224_018033	{nl} {nl}Places you've never been are not shown on the World
 ETC_20151224_018034	{nl} {nl}You can view the World Map by pressing {img N 40 40}.
 ETC_20151224_018035	{nl} {nl}Hover your mouse cursor on the marked areas,{nl}to view maps which your character has completed so far.
 ETC_20151224_018036	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Dano Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistencia a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Perfuração de bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Esquiva and Chance de Crítico{nl}
-ETC_20151224_018037	{nl} {nl}The effects of the status that you want to invest can be previewed below in the character Ventoow.
+ETC_20151224_018037	{nl} {nl}The effects of the status that you want to invest can be previewed below in the character window.
 ETC_20151224_018038	{nl} {nl}Your skill level increases after clicking on the + button.
 ETC_20151224_018039	{nl} {nl}Some attributes can be turned on or off depending on the circumstances.
 ETC_20151224_018040	{nl} {nl}You are able to advance once you've completed your advancement quest.
@@ -18050,7 +18050,7 @@ ETC_20151224_018044	Using the Lock feature helps you protect your items safely.
 ETC_20151224_018045	{nl} {nl}Clique no botão Classificar para ordenar os itens no inventário em: preço, classificação, peso e nome.
 ETC_20151224_018046	At the bottom of your inventory, the amount of weight, TP and silver can be shown.
 ETC_20151224_018047	{nl} {nl}When you select a quest from the quest list, you can view information of a specific quest in detail.
-ETC_20151224_018048	{nl} {nl}By checking in front of the name of the quest, you can either register or cancel quest instruction Ventoow.
+ETC_20151224_018048	{nl} {nl}By checking in front of the name of the quest, you can either register or cancel quest instruction window.
 ETC_20151224_018049	On the right side, you can check your ranking from the Diário de Aventura and the Team Battle League.
 ETC_20151224_018050	Based on your Adventure Index, you can receive rewards from the Vaivora NPC in the cities.
 ETC_20151224_018051	With Resurrection, you are able to resurrect your character that has become incapable of combat.
@@ -18324,7 +18324,7 @@ ETC_20151224_018318	Bulvytes Bridge
 ETC_20151224_018319	Abandoned Bee Farm
 ETC_20151224_018320	Gaulu Slope
 ETC_20151224_018321	Shabby Cabin
-ETC_20151224_018322	Orsha Migration OffGelo
+ETC_20151224_018322	Orsha Migration Office
 ETC_20151224_018323	Randoluma Rest Place
 ETC_20151224_018324	Temporary Settler Camp
 ETC_20151224_018325	Amzina Fork
@@ -19124,7 +19124,7 @@ ETC_20151224_019118	Recipe - Cat Ears
 ETC_20151224_019119	Recipe - Cannon
 ETC_20151224_019120	Recipe - Superior Cannon
 ETC_20151224_019121	FAQ : Erros ao Logar{nl}1) Vá na pasta 'release' no local que está instalado o jogo.{nl}2) Apague os arquivos .XML {nl}3) Verifique a integridade dos arquivos pela Steam. {nl}4) Persistindo o problema, entre em contato com o suporte no site.
-ETC_20151224_019122	Enter '/y' in the chat Ventoow to send a world message. (Requires a Megaphone)
+ETC_20151224_019122	Enter '/y' in the chat window to send a world message. (Requires a Megaphone)
 ETC_20151224_019123	Level Reset
 ETC_20151224_019124	/guildinvite
 ETC_20151224_019125	The client has been shutdown due to a display driver error.{nl}Please contact the manufacturer for assistance
@@ -19890,7 +19890,7 @@ ETC_20151224_019884	Hairstyle17
 ETC_20151224_019885	Hairstyle18
 ETC_20151224_019886	Underground Catacombs Dungeon Entrance
 ETC_20151224_019887	[Lojista Premiun]{nl}     Leticia
-ETC_20151224_019888	[Mestre Templar]{nl}Knight Commander Uska
+ETC_20151224_019888	        [Mestre Templar]{nl}Cavaleiro Comandante Uska
 ETC_20151224_019889	[Mestre Cryomancer]{nl}     Aleister Crowley
 ETC_20151224_019890	[Ferreiro]{nl}   Ilanai
 ETC_20151224_019891	[Mercador de Equips]{nl}                Jura
@@ -22279,7 +22279,7 @@ ETC_20160718_022273	Recipe - Eki Musket
 ETC_20160718_022274	Characters will be unable to run when their STA becomes 0 and will walk.
 ETC_20160718_022275	Using a Token will increase the EXP gained from hunting monsters by 30%.
 ETC_20160718_022276	O nível do seu Time sobe conforme seus personagens e mascotes evoluem.
-ETC_20160718_022277	You can use the option in the settings menu to automatically scroll down the chat Ventoow with when
+ETC_20160718_022277	You can use the option in the settings menu to automatically scroll down the chat window with when
 ETC_20160718_022278	the move down function
 ETC_20160718_022279	is enabled.
 ETC_20160718_022280	You can use the Guild Chatting function by pressing Alt+Enter.
@@ -25048,7 +25048,7 @@ ETC_20161005_025042	Jeromel Park Entrance
 ETC_20161005_025043	Jeromel Park Walkway
 ETC_20161005_025044	Jeromel Park Exit
 ETC_20161005_025045	Jeromel Square
-ETC_20161005_025046	Jeromel Park Management OffGelo
+ETC_20161005_025046	Jeromel Park Management Office
 ETC_20161005_025047	Park Residential Area
 ETC_20161005_025048	Shopping Street Entrance
 ETC_20161005_025049	Ystis Control Room
@@ -25754,10 +25754,10 @@ ETC_20161112_025748	Instanced Dungeon: Cupom de 1 Entrada (14 Days)
 ETC_20161112_025749	Silver Commission for Shop Skills (%)
 ETC_20161112_025750	Obtain Seed
 ETC_20161112_025751	 {nl}Time left: {TIME} minutos.{nl}{nl}The prize will be ready to harvest after the time is up.
-ETC_20161114_025752	Applies Token benefits to all your characters in the server for 3 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info Ventoow.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
-ETC_20161114_025753	Applies Token benefits to all your characters in the server for 5 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info Ventoow.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
-ETC_20161114_025754	Applies Token benefits to all your characters in the server for 7 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info Ventoow.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
-ETC_20161114_025755	Applies Token benefits to all your characters in the server for 15 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info Ventoow.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Taxa de mercado reduzida (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
+ETC_20161114_025752	Applies Token benefits to all your characters in the server for 3 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info window.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
+ETC_20161114_025753	Applies Token benefits to all your characters in the server for 5 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info window.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
+ETC_20161114_025754	Applies Token benefits to all your characters in the server for 7 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info window.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
+ETC_20161114_025755	Applies Token benefits to all your characters in the server for 15 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info window.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Taxa de mercado reduzida (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
 ETC_20161114_025756	Market sales silver payment delay: 48 hours.
 ETC_20161114_025757	Market sales silver payment delay: 48 hours. (Token)
 ETC_20161114_025758	Instanced Dungeon One-Entry Voucher (14 Days)
