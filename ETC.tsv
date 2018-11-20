@@ -24767,9 +24767,9 @@ ETC_20161005_024761	I'll finish what we've come here for{nl}while you take care 
 ETC_20161005_024762	There isn't enough time{nl}Please start at once
 ETC_20161005_024763	I'm just a bit worn out
 ETC_20161005_024764	I suppose we will have to do so
-ETC_20161005_024765	Derrote the Frost Lord
-ETC_20161005_024766	Bring me what I am looking for
-ETC_20161005_024767	Hauberk... Stay silent
+ETC_20161005_024765	Derrote o Froster Lord!
+ETC_20161005_024766	Traga-me o que estou procurando.
+ETC_20161005_024767	Hauberk... fique em silêncio.
 ETC_20161005_024768	Giltine!
 ETC_20161005_024769	Kupole Theodora
 ETC_20161005_024770	Goddess, please forgive me...
@@ -25557,7 +25557,7 @@ ETC_20161005_025551	You've failed in operating the surveillance orb. Derrote all
 ETC_20161005_025552	Dungeon cleared!
 ETC_20161005_025553	Confirm to move out of the mission.
 ETC_20161005_025554	Waiting for Agailla Flurry
-ETC_20161005_025555	You've all come
+ETC_20161005_025555	You've all come.
 ETC_20161005_025556	I have come to keep my promise...
 ETC_20161005_025557	Enter Solmiki Area
 ETC_20161005_025558	A missão em Earth Tower 21F começará em breve
@@ -33038,10 +33038,10 @@ ETC_20180517_033002	Insufficient Gemstones.{nl}You need at least 10.
 ETC_20180517_033003	Tem A lost {POINT} points.
 ETC_20180517_033004	Tem B lost {POINT} points.
 ETC_20180517_033005	Acquired {COUNT}!
-ETC_20180517_033006	Gemstone Feud começando em 30 minutos.
-ETC_20180517_033007	Gemstone Feud começando em 10 minutos.
-ETC_20180517_033008	Gemstone Feud começando em 5 minutos.{nl}A entrada é no extremo norte da Miners' Village.
-ETC_20180517_033009	The Gemstone Feud começará agora!{nl}A entrada fica em Miners' Village.
+ETC_20180517_033006	Gemstone Feud começa em 30 minutos.
+ETC_20180517_033007	Gemstone Feud começa em 10 minutos.
+ETC_20180517_033008	Gemstone Feud começa em 5 minutos.{nl}Entre pelo norte da Miners' Village.
+ETC_20180517_033009	Gemstone Feud começará agora!{nl}A entrada fica em Miners' Village.
 ETC_20180517_033010	[{name}] dealt the last blow to a monster!{nl}(No benefits are applied since your guild is already holding the Spot.)
 ETC_20180517_033011	[{name}] dealt the last blow to an Amplifier!{nl}(You already have the highest level of [{buff}] buff.)
 ETC_20180517_033012	Tree Root Crystal (Speed)
@@ -36642,4 +36642,13 @@ ETC_20181026_036556	 Expired items will disappear when retrieved from the storag
 ETC_20181026_036557	Select a Pumpkin Costume.	호박 코스튬을 선택해주세요				
 ETC_20181026_036558	Total number of daily rewards received: {COUNT}	일일 보상 누적 횟수 보상을 받는다 : 현재 {COUNT}				
 ETC_20181026_036559	Today's number of completed missions: {COUNT}	금일 미션 완료 횟수 : {COUNT}				
-ETC_20181026_036560	You have an item equipped in the weapon swap slot.	무기 스왑 슬롯에 아이템이 현재 장착중에 있습니다.				
+ETC_20181026_036560	You have an item equipped in the weapon swap slot.	무기 스왑 슬롯에 아이템이 현재 장착중에 있습니다.		
+ETC_20181120_036561	Nicopolis Guard Costume Selection Box	니코폴리스 경비병 코스튬 선택 상자
+ETC_20181120_036562	Use to select one of the following items.{nl} - Nicopolis Guard Costume (Male) x1{nl} - Nicopolis Guard Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 니코폴리스 경비병 코스튬(남) 1개{nl} - 니코폴리스 경비병 코스튬(여) 1개
+ETC_20181120_036563	Pit-a-pat Dress and Veil Box	콩닥콩닥 드레스와 면사포 상자
+ETC_20181120_036564	Use to obtain all of the following items.{nl} - Pit-a-pat Dress (Female) x1{nl} - Pit-a-pat Veil x1	사용 시 아래의 구성물 모두를 획득할 수 있습니다.{nl} - 콩닥콩닥 드레스(여) 1개{nl} - 콩닥콩닥 면사포 1개
+ETC_20181120_036565	Black Sailor Costume Selection Box	블랙 세일러복 코스튬 선택 상자
+ETC_20181120_036566	Use to select one of the following items.{nl} - Black Sailor Costume (Male) x1{nl} - Black Sailor Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 블랙 세일러복 코스튬(남) 1개{nl} - 블랙 세일러복 코스튬(여) 1개
+ETC_20181120_036567	Coral Blue Bunny Costume Selection Box	코랄 블루 바니 코스튬 선택 상자
+ETC_20181120_036568	Use to select one of the following items.{nl} - Coral Blue Bunny Boy Costume (Male) x1{nl} - Coral Blue Bunny Girl Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 코랄 블루 바니보이 코스튬(남) 1개{nl} - 코랄 블루 바니걸 코스튬(여) 1개				
+		
