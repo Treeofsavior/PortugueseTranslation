@@ -996,7 +996,7 @@ UI_20150317_000995	{@St41b}Sair do Jogo{/}
 UI_20150317_000996	{@St59}Sair do Tree of Savior{/}
 UI_20150317_000997	{@st41b}Selecione o Canal{/}
 UI_20150317_000998	{@st43}Entrar{/}
-UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v9.5{/}
+UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v9.7{/}
 UI_20150317_001000	{@St43}{s26}Nome do Time{/}
 UI_20150317_001001	{@st59}Nome do Time{/}
 UI_20150317_001002	{@st41b}Mudar nome do time{/}
@@ -2549,7 +2549,7 @@ UI_20170313_002547	{@st59}Fechar janela do item.{/}
 UI_20170313_002548	{@st41b}%s {nl}Você obteve um item!
 UI_20170313_002549	{@st59}Reexpandir o armazém da guilda.{/}
 UI_20170313_002550	Só pode ser usado em dungeons instanciadas e missões mercenárias.
-UI_20170313_002551	{@st66}Selecionar Item Equipado
+UI_20170313_002551	{@st66}Somente Equipados
 UI_20170313_002552	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracts Blessed Gems from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Blessed Gems will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Blessed Gems, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}
 UI_20170313_002553	!! Exploração do Mapa Completa !!
 UI_20170313_002554	{@st41b}Coleção{/}
@@ -3554,9 +3554,9 @@ UI_20181017_003553	Título       %s	칭호       %s	UI_20150401_001453	Title: %s
 UI_20181017_003554	Recompensa       %s	보상       %s	UI_20150401_001454	Reward: %s	보상   %s	
 UI_20181017_003555	{@sti7}{s26}Encontre sua Classe	{@sti7}{s26}클래스 선택 가이드				
 UI_20181017_003556	{@st43b}Começar	{@st43b}시작				
-UI_20181017_003557	{@st43}{s15}1° Rank	{@st43}		
-UI_20181017_003558	{@st43}{s15}2° Rank	{@st43}			
-UI_20181017_003559	{@st43}{s15}3° Rank	{@st43}				
+UI_20181017_003557	{@st43}{s15}1°	{@st43}		
+UI_20181017_003558	{@st43}{s15}2°	{@st43}			
+UI_20181017_003559	{@st43}{s15}3°	{@st43}				
 UI_20181017_003560	Level Range	레벨 범위				
 UI_20181017_003561	Normal	노멀				
 UI_20181017_003562	Search Item	아이템 검색				
