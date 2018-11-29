@@ -727,7 +727,7 @@ UI_20150317_000726	{@st59}Informações do Personagem (F1){/}
 UI_20150317_000727	{@st59}Inventário (F2){/}
 UI_20150317_000728	{@st59}Classes & Skills (F3){/}
 UI_20150317_000729	{@st59}Diário de Aventura (F4){/}
-UI_20150317_000730	{@st59}Quests (F5){/}
+UI_20150317_000730	{@st59}Missões (F5){/}
 UI_20150317_000731	{@st59}Grupo (F6){/}
 UI_20150317_000732	{@st59}Amigos (F7){/}
 UI_20150317_000733	{@st59}Macro (F8) {/}
@@ -2697,7 +2697,7 @@ UI_20170726_002695	{@st66b}Mostrar quantidade de Veneno{/}	{@st66b}메인 화면
 UI_20170726_002696	{s20}Veneno	{s20}독의 양
 UI_20170726_002697	{@st42}Veneno no Poison Pot{/}	{@st42}포이즌 팟의 독의 양{/}
 UI_20170726_002698	{@st59}Caixa de Pesca{/}	{@st59}낚시 살림통{/}
-UI_20170726_002699	{@st59}Dungeon Info (F10){/}	{@st59}던전 정보(F10){/}
+UI_20170726_002699	{@st59}Info de Dungeon (F10){/}	{@st59}던전 정보(F10){/}
 UI_20170726_002700	{@st66b}Ver Info básica dos chars{/}	{@st66b}캐릭터 기본 정보 보기{/}
 UI_20170726_002701	{@st66b}Mostrar barra de HP e SP{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
 UI_20170726_002702	{@st66b}Usar multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}
@@ -3547,7 +3547,7 @@ UI_20181017_003546	Enchant Stats	인챈트 옵션 부여
 UI_20181017_003547	{@st41b}{s18}Current Enchant Jewels: %s	{@st41b}{s18}현재 인챈트 쥬얼 보유 개수: %s개				
 UI_20181017_003548	{@st66}{s18}{b}Consumes %s Enchant Jewel(s).	{@st66}{s18}{b}인챈트 쥬얼 %s개가 소비됩니다.				
 UI_20181017_003549	{@st59}Set Main Class{/}	{@st59}대표 클래스 설정{/}				
-UI_20181017_003550	{@st59}Tackle Box (Alt + F){/}	{@st59}낚시 살림통 (Alt + F){/}				
+UI_20181017_003550	{@st59}Caixa de Pesca (Alt+F){/}	{@st59}낚시 살림통 (Alt + F){/}				
 UI_20181017_003551	{@st59}Habilidades e Atributos (F3){/}	{@st59}스킬과 특성 (F3){/}				
 UI_20181017_003552	Used Items	사용 아이템				
 UI_20181017_003553	Título       %s	칭호       %s	UI_20150401_001453	Title: %s	칭호   %s	
