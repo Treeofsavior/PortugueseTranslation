@@ -1816,7 +1816,7 @@ SKILL_20150317_001815	Casting skills will not be canceled during casting.
 SKILL_20150317_001816	Casting speed of the next casting skill becomes faster.
 SKILL_20150317_001817	Shock
 SKILL_20150317_001818	Reduced INT and SPR.
-SKILL_20150317_001819	Increased critical Ataque
+SKILL_20150317_001819	Increased critical attack
 SKILL_20150317_001820	Decreased critical resistance
 SKILL_20150317_001821	Divine Stigma buff
 SKILL_20150317_001822	Increased stats.
@@ -2100,7 +2100,7 @@ SKILL_20150317_002099	Deals damage equal to 10% of your physical damage per attr
 SKILL_20150317_002100	Cross Guard: Defense
 SKILL_20150317_002101	Diminui o dano recebido em: 10% per level when at least 3 enemies or more are provoked when using [Cross Guard].
 SKILL_20150317_002102	Two-handed Sword Mastery
-SKILL_20150317_002103	[Espada de Duas Mãos] wearing critical Ataque is increased by 10% per level of features.
+SKILL_20150317_002103	[Espada de Duas Mãos] wearing critical attack is increased by 10% per level of features.
 SKILL_20150317_002104	Moulinet: Chance de Crítico
 SKILL_20150317_002105	Chance de Crítico for [Moulinet] is increased by 10% per Attribute level.
 SKILL_20150317_002106	Stabbing: Esquiva
@@ -2112,7 +2112,7 @@ SKILL_20150317_002111	Gain a 2% probability per attribute level that an enemy hi
 SKILL_20150317_002112	Finestra: Dano Físico
 SKILL_20150317_002113	Adiciona 10% da sua INT ao dano físico enquanto [Finestra] está ativo.{nl}Consumo de SP +5
 SKILL_20150317_002114	Synchro Thrusting: Chance de Crítico
-SKILL_20150317_002115	Increases the rate for the next critical Ataque by 5% for 5 segundos per attribute level, when successfully countering an Ataque with [Synchro Thrusting]
+SKILL_20150317_002115	Increases the rate for the next critical attack by 5% for 5 segundos per attribute level, when successfully countering an Ataque with [Synchro Thrusting]
 SKILL_20150317_002116	Synchro Thrusting: Perfurar
 SKILL_20150317_002117	Strike damage of the shield Ataque decrease by 10% per attribute level while the  Pierce damage increase by 20% per attribute level.
 SKILL_20150317_002118	Finestra: Espalhar
@@ -4253,7 +4253,7 @@ SKILL_20150714_004252	Shovel status effect
 SKILL_20150714_004253	Status effect can activate Legacy of Legwyn Family
 SKILL_20150714_004254	Block Increase
 SKILL_20150714_004255	Increased block
-SKILL_20150714_004256	Increased critical Ataque
+SKILL_20150714_004256	Increased critical attack
 SKILL_20150714_004257	Mágico Amplification Increase
 SKILL_20150714_004258	Increase Mágico Amplification
 SKILL_20150714_004259	Armor Penetration
@@ -4341,7 +4341,7 @@ SKILL_20150714_004340	Increases the Critical Chance of [Savagery] by 5% per attr
 SKILL_20150714_004341	Frenzy: Manter Acúmulo
 SKILL_20150714_004342	Mantém os acúmulos de [Frenzy] ao mudar para outro alvo, mas a quantidade máxima de acúmulos será reduzida pela metade.{nl}Consumo de SP +10
 SKILL_20150714_004343	Aggressor: Affinity Ataque
-SKILL_20150714_004344	While [Aggressor] is active, the character's added Critical Ataque is proportional to the Physical Ataque. Increases an additional amount by 35% per attribute level. 
+SKILL_20150714_004344	While [Aggressor] is active, the character's added Critical attack is proportional to the Physical Ataque. Increases an additional amount by 35% per attribute level. 
 SKILL_20150714_004345	Pouncing: Aprimorar
 SKILL_20150714_004346	Aumenta o dano causado com [Pouncing] em 1% por nível de atributo.
 SKILL_20150714_004347	Aumenta o dano causado com [Shield Charge] em 1% por nível de atributo.
@@ -4503,8 +4503,8 @@ SKILL_20150714_004502	Decreases the cooldown time of [Dig].
 SKILL_20150714_004503	Physical ATK and Mágico ATK will be increased for 30 mins for the allies that participated in [Item Awakening] dungeon. ATK rate will increase by 20% per Attribute level.
 SKILL_20150714_004504	Tincturing: Block Potion
 SKILL_20150714_004505	Obtain the recipe of 'Block Potion' that can be crafted with [Tincturing].
-SKILL_20150714_004506	Tincturing: Critical Ataque Potion
-SKILL_20150714_004507	Obtain the recipe of 'Critical Ataque Potion' that can be crafted with [Tincturing].
+SKILL_20150714_004506	Tincturing: Critical Attack Potion
+SKILL_20150714_004507	Obtain the recipe of 'Critical Attack Potion' that can be crafted with [Tincturing].
 SKILL_20150714_004508	Tincturing: Mágico Amplification Potion
 SKILL_20150714_004509	Obtain the recipe of 'Mágico Amplification Potion' that can be crafted with [Tincturing].
 SKILL_20150714_004510	Aumenta o dano causado com [Multi Shot] em 1% por nível de atributo.
@@ -5037,7 +5037,7 @@ SKILL_20150804_005036	Cartar Stroke: Remover Empurro
 SKILL_20150804_005037	Pushing power of [Cartar Stroke] becomes 0. (You will not be pushed if this attribute is ON.)
 SKILL_20150804_005038	Aumenta suas propriedades de Fogo, Gelo e Elétrico em 5. A partir de Lv2, ela aumenta em 1 por nível de atributo.
 SKILL_20150804_005039	Increases the reflection of [Iron Skin] by 5% per attribute level.
-SKILL_20150807_005040	While [Aggressor] is active, the character's added critical Ataque is proportional to the physical Ataque. Increases an addtional amount by 5% per attribute level.
+SKILL_20150807_005040	While [Aggressor] is active, the character's added critical attack is proportional to the physical Ataque. Increases an addtional amount by 5% per attribute level.
 SKILL_20150918_005041	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Ataque um inimigo jogando seu escudo. Seu escudo cai na área alvo, e sua defesa física diminui com base no valor do equipamento. O escudo pode ser apanhado ou ele retornará automaticamente ao seu inventário após um certo tempo. A defesa física diminuída retornará ao normal uma vez que seu escudo estiver de volta ao inventário.
 SKILL_20150918_005042	Umbo Thrust
 SKILL_20150918_005043	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Golpeie fortemente os inimigos usando seu escudo. Inimigos atingidos pela habilidade podem perder temporariamente os efeitos de suas armaduras.
@@ -6018,7 +6018,7 @@ SKILL_20151224_006017	Increases the physical Ataque, while your maximum HP decre
 SKILL_20151224_006018	Increases the maximum HP of your character by 5% per attribute level when [Swash Buckling] is active.
 SKILL_20151224_006019	Aumenta sua defesa física em 10% por nível de atributo quando [Guard] estiver ativo.
 SKILL_20151224_006020	Aumenta a esquiva do personagem em 6% por nível de atributo quando [Guardian] está ativo.{nl}Consumo de SP +10.
-SKILL_20151224_006021	Adds critical Ataque proportional to physical Ataque when [Aggressor] is active. Increases by 5% per attribute level.
+SKILL_20151224_006021	Adds critical attack proportional to physical Ataque when [Aggressor] is active. Increases by 5% per attribute level.
 SKILL_20151224_006022	Shield Shoving: Aprimorar
 SKILL_20151224_006023	Aumenta o dano causado com [Shield Shoving] em 1% por nível de atributo.
 SKILL_20151224_006024	Shield Bash: Aprimorar
@@ -6341,9 +6341,9 @@ SKILL_20160317_006340	- Able to learn up to 2 attributes simultaneously{nl} - Re
 SKILL_20160323_006341	Party Horn
 SKILL_20160323_006342	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Additional Chance de Crítico: 62%
 SKILL_20160323_006343	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Defesa Física: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Chance de Crítico Extra: 40%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
-SKILL_20160323_006344	Increased movement speed and physical/Mágico Ataque
-SKILL_20160323_006345	Mágico Amplification
-SKILL_20160323_006346	Amplified Mágico after a critical Ataque.
+SKILL_20160323_006344	Increased movement speed and physical/magical attack
+SKILL_20160323_006345	Magic Amplification
+SKILL_20160323_006346	Amplified magic after a critical attack.
 SKILL_20160323_006347	Decreased defense.
 SKILL_20160323_006348	Team Level
 SKILL_20160323_006349	 - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl}
