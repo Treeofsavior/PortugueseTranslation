@@ -287,7 +287,7 @@ UI_20150317_000286	{@st42}Executar
 UI_20150317_000287	{@st42}Item Visado{/}
 UI_20150317_000288	{@st59}Anel 1{/}
 UI_20150317_000289	{@st43}Construir Item{/}
-UI_20150317_000290	{@st42b}Mostrar itens craftáveis{/}
+UI_20150317_000290	{@st42b}Mostrar itens construíveis{/}
 UI_20150317_000291	{@st59}Fechar{/}
 UI_20150317_000292	{@st43}{s22}Dividir Item
 UI_20150317_000293	{@st59}Digite a quantidade{/}
@@ -727,7 +727,7 @@ UI_20150317_000726	{@st59}Informações do Personagem (F1){/}
 UI_20150317_000727	{@st59}Inventário (F2){/}
 UI_20150317_000728	{@st59}Classes & Skills (F3){/}
 UI_20150317_000729	{@st59}Diário de Aventura (F4){/}
-UI_20150317_000730	{@st59}Quests (F5){/}
+UI_20150317_000730	{@st59}Missões (F5){/}
 UI_20150317_000731	{@st59}Grupo (F6){/}
 UI_20150317_000732	{@st59}Amigos (F7){/}
 UI_20150317_000733	{@st59}Macro (F8) {/}
@@ -1867,7 +1867,7 @@ UI_20151224_001865	Procurando participantes do evento da guilda.
 UI_20151224_001866	{@st41b}Upgrade & Rank
 UI_20151224_001867	{@st41b}Atributos da Guilda
 UI_20151224_001868	{@st43}Melhorar Guilda{/}
-UI_20151224_001869	Ch / Location
+UI_20151224_001869	Ch / Local
 UI_20151224_001870	Summon
 UI_20151224_001871	To Guild Member
 UI_20151224_001872	Go
@@ -2288,7 +2288,7 @@ UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Carta de Monstro{/}
 UI_20160811_002287	Transcender Item
 UI_20160811_002288	Transcendência
 UI_20160811_002289	{@st59b}Transcender Item{nl}{@st59s}- Outra maneira de aprimorar o desempenho do item além da bigorna{nl}- Itens que podem transcender : Armas, armaduras e acessórios{nl}- Taxa de Sucessão de Transcendência = Ingredientes Usados / Máximo de Ingredientes Requeridos{nl}- Aumenta o estágio de Transcendência em 1 caso tenha sucesso (Maximo de 10 estágios){nl}- Diminui o estágio de transcendência em 1 caso falhe (Sem perda de potencial){nl}- Itens transcendidos não podem ser negociados{/}
-UI_20160811_002290	{@st42}Etapa %s{/}
+UI_20160811_002290	{@st42}Estágio %s{/}
 UI_20160811_002291	Extrair Blessed Gem
 UI_20160811_002292	{@st59b}Extrair Blessed Gem{nl}{@st59s}- Extrai Blessed Gem de itens transcendidos{nl}- Requerimento de extração : Hammer of Dismantlement{nl}- Você vai receber algumas das Blessed Gems utilizadas para a transcendência, mas o item será destruído. {nl}- Você não pode usar isso quando seu item estiver no estágio 0 de Transcendência.{/}
 UI_20160811_002293	Extraction Results
@@ -2449,9 +2449,9 @@ UI_20161108_002447	{@st41}Open Compensation Cube
 UI_20161108_002448	{@st59}Fechar{/}
 UI_20161108_002449	{@st66b}Poderá obter algo misterioso{nl}quando abrir.{/}
 UI_20161121_002450	{@st41}Entry Count Reset : 06:00 AM Every Day{/}
-UI_20161121_002451	Nome/Location
+UI_20161121_002451	Nome/Local
 UI_20161121_002452	Nível para Entrar
-UI_20161121_002453	N° de Entradas
+UI_20161121_002453	Entradas
 UI_20161121_002454	Entradas na Dungeon
 UI_20161121_002455	%s/%s
 UI_20161121_002456	Principais Itens dropáveis
@@ -2549,7 +2549,7 @@ UI_20170313_002547	{@st59}Fechar janela do item.{/}
 UI_20170313_002548	{@st41b}%s {nl}Você obteve um item!
 UI_20170313_002549	{@st59}Reexpandir o armazém da guilda.{/}
 UI_20170313_002550	Só pode ser usado em dungeons instanciadas e missões mercenárias.
-UI_20170313_002551	{@st66}Somente Equipados
+UI_20170313_002551	{@st66}Somente Usados
 UI_20170313_002552	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracts Blessed Gems from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Blessed Gems will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Blessed Gems, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}
 UI_20170313_002553	!! Exploração do Mapa Completa !!
 UI_20170313_002554	{@st41b}Coleção{/}
@@ -2602,7 +2602,7 @@ UI_20170330_002600	{s18}Itens com data para usar
 UI_20170330_002601	Item (s) perto da data de validade. Fechar?
 UI_20170330_002602	{@st43}{s20}Itens expirados{/}
 UI_20170330_002603	{s17}Excluir todos os itens acima?		
-UI_20170330_002604	Itens dropáveis principais
+UI_20170330_002604	Principais itens para se obter
 UI_20170330_002605	{@st41b}Procurar 2 a 4 jogadores{/}
 UI_20170330_002606	{@st41b}Procurar 2 a 4 jogadores	
 UI_20170330_002607	{@st59}Excluir itens expirados{/}
@@ -2681,8 +2681,8 @@ UI_20170726_002679	Uma entrada diária adicional concedida aos usuários de Toke
 UI_20170726_002680	Nível para entrar	입장 레벨
 UI_20170726_002681	Dificuldade	난이도
 UI_20170726_002682	Ordenar	별
-UI_20170726_002683	{@st66b}Ordenar - menor p/ maior{/}	{@st66b}레벨 오름차순{/}
-UI_20170726_002684	{@st66b}Ordenar - maior p/ menor{/}	{@st66b}레벨 내림차순{/}
+UI_20170726_002683	{@st66b}Menor p/ maior{/}	{@st66b}레벨 오름차순{/}
+UI_20170726_002684	{@st66b}Maior p/ menor{/}	{@st66b}레벨 내림차순{/}
 UI_20170726_002685	{@st66b}As entradas diárias são reiniciadas todos os dias as %s.{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}
 UI_20170726_002686	{@st43}{s22}Ver Localização{/}	{@st43}{s22}던전 위치 보기{/}
 UI_20170726_002687	{@st59}Fechar.{/}	{@st59}던전 위치 보기 창을 닫습니다{/}
@@ -2697,7 +2697,7 @@ UI_20170726_002695	{@st66b}Mostrar quantidade de Veneno{/}	{@st66b}메인 화면
 UI_20170726_002696	{s20}Veneno	{s20}독의 양
 UI_20170726_002697	{@st42}Veneno no Poison Pot{/}	{@st42}포이즌 팟의 독의 양{/}
 UI_20170726_002698	{@st59}Caixa de Pesca{/}	{@st59}낚시 살림통{/}
-UI_20170726_002699	{@st59}Dungeon Info (F10){/}	{@st59}던전 정보(F10){/}
+UI_20170726_002699	{@st59}Info de Dungeon (F10){/}	{@st59}던전 정보(F10){/}
 UI_20170726_002700	{@st66b}Ver Info básica dos chars{/}	{@st66b}캐릭터 기본 정보 보기{/}
 UI_20170726_002701	{@st66b}Mostrar barra de HP e SP{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
 UI_20170726_002702	{@st66b}Usar multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}
@@ -2995,7 +2995,7 @@ UI_20180208_002994	Reportar.
 UI_20180208_002995	Cancelar.
 UI_20180208_002996	{@st59b}Transcendência de Item{nl}{@st59s}- Outra opção para melhorar a performance do item sem usar a bigorna{nl}- Transcendíveis : Arma, Equipamento, Acessório{nl}- Chance de Transcendência = Quantidade de Ingredientes / Máximo Necessário{nl}- Se bem-sucedido, o nível da Transcendência aumentará em 1(Máx. 10){nl}- Se falhar, o nível da Transcendência diminuirá em 1(Nível da Transcendência não pode ficar abaixo de 1){nl}- Itens Transcendentes não podem ser trocados{/}
 UI_20180208_002997	Chance de Sucesso: 100%
-UI_20180208_002998	*Transcendência pode falhar se a taxa de sucesso não for 100%.{nl}Potential 
+UI_20180208_002998	*Transcendência pode falhar se não atingir 100%.{nl}Potencial será reduzido caso falhe.
 UI_20180208_002999	Extrair Blessed Shard
 UI_20180208_003000	{@st59b}Extract Blessed Shard{nl}{@st59s}- Extract Blessed Shard from Transcended item{nl}- Material for Extracting: Hammer of Dismantlement.{nl}- Extracting Blessed Shards will delete the item, but retain part of the Blessed Stone as Blessed Shards.{nl} :90% of Blessed Stone used to transcend can be returned.{nl}- Your item must be transcended to at least stage 2 in order to extract the shards.{/}
 UI_20180208_003001	Blessed Shard Resultado
@@ -3149,7 +3149,7 @@ UI_20180517_003148	{@st59}Guerras Territoriais{/}
 UI_20180517_003149	{@st43}Log de Inscrições
 UI_20180517_003150	Data
 UI_20180517_003151	Status
-UI_20180517_003152	{@st66b}Daily entries reset every Monday at %s (server time).{/}
+UI_20180517_003152	{@st66b}Entradas Semanais reiniciam na Segunda - %s (servidor).{/}
 UI_20180517_003153	Equipar Ichor
 UI_20180517_003154	Equipar
 UI_20180517_003155	{@st43b}{s18}Stats Atuais
@@ -3267,7 +3267,7 @@ UI_20180629_003266	{@st42}Materiais
 UI_20180629_003267	{@st42}Visual para Trocar
 UI_20180629_003268	{@st42}Manter Potencial
 UI_20180629_003269	{img silver 20 20}Preço
-UI_20180629_003270	Se desmarcar, o Potencial do seu item será reduzido.{Nl}E não consome Silver.
+UI_20180629_003270	Se desmarcar, o Potencial do seu item será reduzido,{Nl}porém não consumirá Silver.
 UI_20180629_003271	Por favor registre um núcleo ou uma arma que você deseja manter a aparência.
 UI_20180629_003272	{@st43b}{s20}OK
 UI_20180629_003273	Update message board.
@@ -3481,7 +3481,7 @@ UI_20180827_003480	1 dia, 23 horas
 UI_20180827_003481	Não-Trocável
 UI_20180827_003482	{@st42b}{s16}Preview{/}
 UI_20181017_003483	{@st43}Teste os itens temáticos	{@st43}테마 상품 입어보기				
-UI_20181017_003484	Insira o equipamento para o qual você deseja alterar a aparência.	외형을 변경할 장비를 올려주세요.				
+UI_20181017_003484	Insira o equipamento para alterar a aparência.
 UI_20181017_003485	{@st68}{s16}Lista{/}	{@st68}{s16}목록{/}				
 UI_20181017_003486	{@st41b}Apagar	{@st41b}삭제	ETC_20150317_001649	Delete	삭제	
 UI_20181017_003487	{@st59}Equipamento{/}	{@st59}장비{/}				
@@ -3547,7 +3547,7 @@ UI_20181017_003546	Enchant Stats	인챈트 옵션 부여
 UI_20181017_003547	{@st41b}{s18}Current Enchant Jewels: %s	{@st41b}{s18}현재 인챈트 쥬얼 보유 개수: %s개				
 UI_20181017_003548	{@st66}{s18}{b}Consumes %s Enchant Jewel(s).	{@st66}{s18}{b}인챈트 쥬얼 %s개가 소비됩니다.				
 UI_20181017_003549	{@st59}Set Main Class{/}	{@st59}대표 클래스 설정{/}				
-UI_20181017_003550	{@st59}Tackle Box (Alt + F){/}	{@st59}낚시 살림통 (Alt + F){/}				
+UI_20181017_003550	{@st59}Caixa de Pesca (Alt+F){/}	{@st59}낚시 살림통 (Alt + F){/}				
 UI_20181017_003551	{@st59}Habilidades e Atributos (F3){/}	{@st59}스킬과 특성 (F3){/}				
 UI_20181017_003552	Used Items	사용 아이템				
 UI_20181017_003553	Título       %s	칭호       %s	UI_20150401_001453	Title: %s	칭호   %s	

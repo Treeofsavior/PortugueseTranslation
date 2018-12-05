@@ -2708,8 +2708,8 @@ ETC_20150317_002707	Seu item foi cancelado com sucesso. {nl} Verifique se recebe
 ETC_20150317_002708	An equipped item cannot be added.
 ETC_20150317_002709	Private
 ETC_20150317_002710	Confirm
-ETC_20150317_002711	Preço: Menor para Maior
-ETC_20150317_002712	Preço: Maior para Menor
+ETC_20150317_002711	Preço: Menor
+ETC_20150317_002712	Preço: Maior
 ETC_20150317_002713	Newly Listed
 ETC_20150317_002714	Price entered must be at least 1.
 ETC_20150317_002715	Only skills that consume items are possible.
@@ -2919,7 +2919,7 @@ ETC_20150317_002918	Unblock
 ETC_20150317_002919	The friend request was not sent.
 ETC_20150317_002920	Initial payment
 ETC_20150317_002921	Mais Info
-ETC_20150317_002922	Location
+ETC_20150317_002922	Local
 ETC_20150317_002923	Rank
 ETC_20150317_002924	{From}{nl}quer trocar com você.
 ETC_20150317_002925	O pedido de troca foi recusado.
@@ -25750,7 +25750,7 @@ ETC_20161108_025744	Ataque Elemental: Psíquico
 ETC_20161108_025745	Resistencia Elemental: Psíquico
 ETC_20161108_025746	Unable to use while joined by a companion.
 ETC_20161108_025747	Unregistered job. Please contact the management team.
-ETC_20161112_025748	Instanced Dungeon: Cupom de 1 Entrada (14 Days)
+ETC_20161112_025748	Instanced Dungeon: 1 Entry Voucher (14 dias)
 ETC_20161112_025749	Silver Commission for Shop Skills (%)
 ETC_20161112_025750	Obtain Seed
 ETC_20161112_025751	 {nl}Time left: {TIME} minutos.{nl}{nl}The prize will be ready to harvest after the time is up.
@@ -34365,7 +34365,7 @@ ETC_20180629_034329	Por favor insira os Materiais.
 ETC_20180629_034330	Não é possível travar enquanto a UI {UI} está aberta.
 ETC_20180629_034331	This item is {@st66d_y}enhanced{/} and {@st66d_y}transcended{/}.{nl}Are you sure you want to use it as a source weapon?
 ETC_20180629_034332	{@st66d_y}{s20}{ITEM}{/}{/} {nl}Are you sure you want this coupon?{nl} {nl}Your choice cannot be reverted.
-ETC_20180629_034333	{PC} used the Dimensional Incense Burner in {ZONE} (channel {CHANNEL}).
+ETC_20180629_034333	{PC} usou o Dimensional Incense Burner em {ZONE} (canal {CHANNEL}).
 ETC_20180629_034334	Move Down
 ETC_20180629_034335	Move Up
 ETC_20180629_034336	Are you sure you want to change the stats of {@st66}{b}{s18}{#8e0000}[{ItemName}]{/}{/}{/}{s18} as follows?
@@ -36394,7 +36394,7 @@ ETC_20181017_036308	Black Ceremonial Robes Selection Box	어사 흑단령 선택
 ETC_20181017_036309	Use to select one of the following costumes.{nl} - Black Ceremonial Robes (Male) x1{nl} - Black Ceremonial Robes (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 어사 흑단령(남) 1개{nl} - 어사 흑단령(여) 1개				
 ETC_20181017_036310	Moon Rabbit Costume Set	달 토끼 코스튬 세트				
 ETC_20181017_036311	Use to obtain all of the following items.{nl} - Moon Rabbit Costume x1{nl} - Moon Rabbit Helmet x1	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 달 토끼 코스튬 1개{nl} - 달 토끼 헬멧 코스튬 1개				
-ETC_20181017_036312	2018 Leticia's Treasure Chest (Season 4)	2018 레티샤의 보물 상자(10월)				
+ETC_20181017_036312	2018 Leticia's Treasure Chest (Season 3)	2018 레티샤의 보물 상자(10월)				
 ETC_20181017_036313	500 TP [Event]	500 TP[증정용]				
 ETC_20181017_036314	Rabbit Stamp	토끼 스탬프				
 ETC_20181017_036315	Horse Medal Stamp	마패 스탬프				
@@ -36562,7 +36562,7 @@ ETC_20181017_036476	The magic orb triggered a huge explosion.	폭주하는 마�
 ETC_20181017_036477	Receive Reset Items	초기화 아이템 지원받기				
 ETC_20181017_036478	There is no lever here.	여기엔 레버가 없습니다.				
 ETC_20181017_036479	[{name}]: Received rewards for first Unique Raid cleared.	[{name}]유니크 레이드 첫 클리어 보상을 받았습니다.				
-ETC_20181017_036480	Registration fees consume {Price} Silver,{nl} and {@st66d_y}{s19}Cancelling the registration{nl}will not restore your trade limits.{/}{/}{nl}Register the item?	등록 수수료 {Price}실버가 소비됩니다.{/}{nl}등록하시겠습니까?	ETC_20151224_019732	{Price} silver will be required to register this item.{nl}Do you want to continue?	등록수수료 {Price}실버가 소비됩니다. 등록하시겠습니까?	
+ETC_20181017_036480	Taxa de registro consumirá {Price} Silver,{nl} e {@st66d_y}{s19}Cancelar o registro{nl}não devolverá o limite de trocas.{/}{/}{nl}Registrar o item?
 ETC_20181017_036481	This item may not appear in the Market due to a synchronization error. Market Item Index: {marketidx}	해당 아이템이 동기화 문제로 마켓에 보이지 않을 수 있습니다. MarketItem Index : {marketidx}				
 ETC_20181017_036482	You can purchase only one item at once.	한번에 하나의 아이템만 구매하실 수 있습니다.				
 ETC_20181017_036483	Activation Scrolls	활성화 주문서				
@@ -36598,7 +36598,7 @@ ETC_20181017_036512	Weapon Type	무기 종류
 ETC_20181017_036513	Moon Rabbit Helmet (Male)	달 토끼 헬멧(남)				
 ETC_20181017_036514	Moon Rabbit Helmet (Female)	달 토끼 헬멧(여)				
 ETC_20181017_036515	Magic Research Facility Entrance	마법 실험 구역 입구	ETC_20180827_036126	Unique Raid Dungeon	유니크 레이드 던전	
-ETC_20181017_036516	Teleportation Device	텔레포트 장치				
+ETC_20181017_036516	Dispositivo de Teleporte
 ETC_20181017_036517	Debuff on connected PC	접속한 pc에게 디버프				
 ETC_20181017_036518	Calabouço fechando em 10 segundos.	10초 후 던전이 종료됩니다.				
 ETC_20181017_036519	Começando em 10 segundos.	10초 뒤 시작합니다				
@@ -36650,5 +36650,6 @@ ETC_20181120_036564	Use to obtain all of the following items.{nl} - Pit-a-pat Dr
 ETC_20181120_036565	Black Sailor Costume Selection Box	블랙 세일러복 코스튬 선택 상자
 ETC_20181120_036566	Use to select one of the following items.{nl} - Black Sailor Costume (Male) x1{nl} - Black Sailor Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 블랙 세일러복 코스튬(남) 1개{nl} - 블랙 세일러복 코스튬(여) 1개
 ETC_20181120_036567	Coral Blue Bunny Costume Selection Box	코랄 블루 바니 코스튬 선택 상자
-ETC_20181120_036568	Use to select one of the following items.{nl} - Coral Blue Bunny Boy Costume (Male) x1{nl} - Coral Blue Bunny Girl Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 코랄 블루 바니보이 코스튬(남) 1개{nl} - 코랄 블루 바니걸 코스튬(여) 1개				
-		
+ETC_20181120_036568	Use to select one of the following items.{nl} - Coral Blue Bunny Boy Costume (Male) x1{nl} - Coral Blue Bunny Girl Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 코랄 블루 바니보이 코스튬(남) 1개{nl} - 코랄 블루 바니걸 코스튬(여) 1개
+ETC_20181130_036569	 {nl}Plantios só podem ser colhidos pelo Time que o plantou.
+ETC_20181130_036570	Você está muito próximo do plantio de outra pessoa.

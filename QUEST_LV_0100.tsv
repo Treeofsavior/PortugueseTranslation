@@ -276,7 +276,7 @@ QUEST_LV_0100_20150317_000275	Siga por Shadow Forest Road e você deve chegar a 
 QUEST_LV_0100_20150317_000276	Faça-me um favor se estiver seguindo para Klaipeda.{nl}Não é fácil ficar indo e voltando de Klaipeda hoje em dia por conta dos Infroroktor.
 QUEST_LV_0100_20150317_000277	Talvez cuidar das estátuas faça as Deusas retornarem mais cedo...
 QUEST_LV_0100_20150317_000278	Siga a estrada da esquerda na encruzilhada do acampamento.{nl}{-scp SCR_DIALOG_NPC_ANIM(
-QUEST_LV_0100_20150317_000279	)} Você encontrará as tropas imediatamente.
+QUEST_LV_0100_20150317_000279	)}Você encontrará as tropas imediatamente.
 QUEST_LV_0100_20150317_000280	)}Muito bem, bom trabalho.{nl}Você chegará a Klaipeda logo em seguida se seguir por Shadow Forest Road.{nl}Não se esqueça de visitar Sir Uska.
 QUEST_LV_0100_20150317_000281	Comandante de Batalha
 QUEST_LV_0100_20150317_000282	Pedirei aos meus homens que notifiquem as tropas para se reunirem.{nl}Pode voltar para Sir Titas para avisá-lo.
@@ -553,7 +553,7 @@ QUEST_LV_0100_20150317_000552	De acordo com os antigos registros,{nl}o rei apago
 QUEST_LV_0100_20150317_000553	Oficial de Intermediação Nian
 QUEST_LV_0100_20150317_000554	Você viu aquilo, não? Por isso falei para você não tocar naquilo.{nl}Por conta disso, recebemos ordem de bater em retirada.{nl}
 QUEST_LV_0100_20150317_000555	Bem, já que é para me envolver nisso, você pode pelo menos me fazer um favor?{nl}Diga a Adelle, em Excavation Team Camp, para ficar de olho nesse tipo de pedra.
-QUEST_LV_0100_20150317_000556	Nós estamos à procura de uma pedra com escrituras peculiares.{nl}Caso aconteça de encontrar uma, por favor nos notifique ao invés de toca-lá.
+QUEST_LV_0100_20150317_000556	Nós estamos à procura de uma pedra com escrituras peculiares.{nl}Caso aconteça de encontrar uma, por favor nos notifique ao invés de tocá-la.
 QUEST_LV_0100_20150317_000557	Historiadora Adelle
 QUEST_LV_0100_20150317_000558	Uma pedra? Sei, sim.{nl}Você quer saber que tipo de pedra é?
 QUEST_LV_0100_20150317_000559	Monstros ficaram violentos e começaram a nos atacar do nada.{nl}Essa não é uma coisa ordinária.
@@ -9589,7 +9589,7 @@ QUEST_LV_0100_20151016_009588	Sério? Você está bem com isso?
 QUEST_LV_0100_20151016_009589	Se é assim, você poderia colocar esses quadros de avisos lá embaixo? {Nl} Jurate está escavando artefatos sagrados lá embaixo. {nl}
 QUEST_LV_0100_20151016_009590	Tenho certeza que você será discreto me ajudando também{nl} Bem, preciso ir. Tenho que ir para outro lugar agora.
 QUEST_LV_0100_20151016_009591	Meus agradecimentos.{nl}Você não se deixou capturar por Leopoldas, certo?
-QUEST_LV_0100_20151016_009592	Meu nome é Serapinas e eu sou um novato na Aliança Comercial Kedoran... e umm... eu estou promovendo essa Aliança de Mercadores agora. Se você tiver algum tempo, se importaria de me ajudar a promovê-la? 
+QUEST_LV_0100_20151016_009592	Meu nome é Serapinas e eu sou um novato na Aliança Comercial Kedoran e... hum... eu estou promovendo essa Aliança de Mercadores agora. Se você tiver algum tempo, se importaria de me ajudar a promovê-la? 
 QUEST_LV_0100_20151016_009593	Edita
 QUEST_LV_0100_20151016_009594	Eu sou Edita. Estou no comando da equipe de Recuperação para a Aliança Comercial. {Nl} Tenho certeza de que você está curioso sobre por que estamos recuperando itens aqui. {Nl} Você talvez tenha ouvido isso de Leopoldas, mas nós estamos fornecendo importantíssimos itens e materiais para a população.
 QUEST_LV_0100_20151016_009595	{nl} Eu estava carregando itens para a Aliança Comercial como qualquer outro dia, passei por aqui em direção à Fedimian. {nl} Mas eu nunca poderia adivinhar. Que seria mais tarde conhecido como Medzio Diena ... {nl} Todos os nossos carrinhos viraram ... Os itens naqueles carrinhos foram enterrados por toda parte.
@@ -9935,7 +9935,7 @@ QUEST_LV_0100_20151016_009934	Pergunte o que devo fazer
 QUEST_LV_0100_20151016_009935	Refazendo a Lápide (2)
 QUEST_LV_0100_20151016_009936	Refazendo a Lápide (3)
 QUEST_LV_0100_20151016_009937	Pergunte por Albinas
-QUEST_LV_0100_20151016_009938	Sobre o tupo de materiais
+QUEST_LV_0100_20151016_009938	Sobre o tipo de materiais
 QUEST_LV_0100_20151016_009939	Começo e Fim
 QUEST_LV_0100_20151016_009940	Achados e Perdidos (1)
 QUEST_LV_0100_20151016_009941	Achados e Perdidos (2)
@@ -10848,33 +10848,33 @@ QUEST_LV_0100_20151102_010847	Você provavelmente já ouviu falar do Carlyle's M
 QUEST_LV_0100_20151102_010848	Derrote demônios em Carlyle's Mausoleum e prove seu valor.
 QUEST_LV_0100_20151102_010849	Muito bem.{nl}Quando você se tornou tão poderoso assim?{nl}
 QUEST_LV_0100_20151102_010850	As habilidades avançadas de Ranger podem ser complicadas, mas você não terá problema em aprendê-las.{nl}Observe com cuidado a minha demonstração.
-QUEST_LV_0100_20151102_010851	You want to learn the Quarrel Shooter's advanced skills?{nl}Since we use a crossbow as our main weapon, we are able to equip a shield.{nl}The shield ensures our safety in combat.{nl}
-QUEST_LV_0100_20151102_010852	The place is dangerous but a good place to train yourself. {nl}Get yourself a fine shield and show me that you are prepared.{nl}Then, I will be able to share you info on the Quarrel Shooter's advanced skills.
-QUEST_LV_0100_20151102_010853	A shield enhanced to +5 or beyond will do just nicely.{nl}Don't worry, I will give it back to you as soon as I check it.
-QUEST_LV_0100_20151102_010854	That's enough preparation.{nl}Always be mindful and always be prepared.{nl}
-QUEST_LV_0100_20151102_010855	As I promised, the advanced skills of the Quarrel Shooter.
-QUEST_LV_0100_20151102_010856	You want to learn more Sapper skills?{nl}Well, just like the last time, help me on an experiment to improve Sapper skills. {nl}As a compensation, I will teach you.{nl}
-QUEST_LV_0100_20151102_010857	The task I am working on currently is on how to make the bombs stronger.{nl}The monsters in the Castlefield 65_1, 2 and 3 have the necessary materials.{nl}Get me the necessary materials to make a stronger bomb.
-QUEST_LV_0100_20151102_010858	Retrieve necessary materials from monsters in Castlefield 65_1, 2 and 3 for the bomb experiment.
-QUEST_LV_0100_20151102_010859	These would suffice. I hope it will work this time.{nl}Before I carry on with my experiment, I will teach you the advanced Sapper skills.
-QUEST_LV_0100_20151102_010860	You want to learn more Hunter skills?{nl}My, my. You are one eager fellow.{nl}
-QUEST_LV_0100_20151102_010861	I have already set up a test for people like you.{nl}It's a simple quest that involves a fetch. Want to have go at it?
-QUEST_LV_0100_20151102_010862	Get me a Hunter's Pass one each from Castlefield 65_1, 2 and 3.{nl}I have placed a Hunter's Pass in a chest in each place. You just get me all three.
-QUEST_LV_0100_20151102_010863	Get three Hunter's Passes one each from the chests in Castlefield 65_1, 2 and 3.
-QUEST_LV_0100_20151102_010864	Let's see... you've got them all.{nl}
-QUEST_LV_0100_20151102_010865	Good. Now, I will give you the lessons on high-leveled Hunter skills.{nl}Focus and observe.
-QUEST_LV_0100_20151102_010866	Welcome! So you want to become a Wugushi?{nl}Having more allies is always a good thing.{nl}
-QUEST_LV_0100_20151102_010867	Basically, Wugushis utilize poison. Where do we get the poison?{nl}You cannot make a poison by yourself yet so I will teach {nl}you the way of getting and using a pre-existing poison.
-QUEST_LV_0100_20151102_010868	A good question.{nl}At the moment, the poison you can get would be a poison from a thorn poison.{nl}You can get the poison from the monsters in Carlyle's Mausoleum.
-QUEST_LV_0100_20151102_010869	Defeat the monsters in Carlyle's Mausoleum to obtain the poison.
-QUEST_LV_0100_20151102_010870	Handle poisons with utmost caution.{nl}There's no telling if the next victim will be you.{nl}
-QUEST_LV_0100_20151102_010871	You've got the poison, let's begin the lesson, shall we?{nl}Watch my movements carefully and follow them.
-QUEST_LV_0100_20151102_010872	You are looking to become a Scout, aren't you?{nl}Scouts specializes in fields of spying on enemy bases and infiltrating them.{nl}Speed is crucial in the life of a Scout.
-QUEST_LV_0100_20151102_010873	If you really want to become a Scout, show me how quick you are, {nl}quick enough to use Scout's skills.{nl}Only then I will teach you the path.
-QUEST_LV_0100_20151102_010874	Now then. The point of the test is to see how many times can you attack before getting hit.{nl}Hit them but don't get hit. If you get hit, the counter resets.
-QUEST_LV_0100_20151102_010875	Attack a monster continuously without taking a hit.{nl}When you get hit once, the counter resets.
-QUEST_LV_0100_20151102_010876	Nimble!{nl}
-QUEST_LV_0100_20151102_010877	You seem to be capable of handling the Scout's skills.{nl}Now, let me teach you some scouting skills.
+QUEST_LV_0100_20151102_010851	Você quer aprender habilidades avançadas de Quarrel Shooter?{nl}Já que usamos um Crossbow como nossa principal arma, somos capazes de utilizar escudos.{nl}O escudo garante nossa segurança em combate.{nl}
+QUEST_LV_0100_20151102_010852	Esse é um lugar perigoso, mas é ótimo para treinar. {nl}Consiga um escudo para você e me mostre do que é capaz.{nl}E então, serei capaz de compartilhar meu conhecimento com você.
+QUEST_LV_0100_20151102_010853	Um escudo aprimorado em +5 ou mais vai ser o suficiente.{nl}Não se preocupe, irei te devolver assim que terminar de avalia-lo.
+QUEST_LV_0100_20151102_010854	já é o bastante de preparação.{nl}Sempre esteja atento e esteja sempre preparado.{nl}
+QUEST_LV_0100_20151102_010855	E como prometido, as habilidades avançadas de  Quarrel Shooter.
+QUEST_LV_0100_20151102_010856	Você quer aprender mais habilidades de Sapper?{nl}Bbem, assim como da ultima vez, me ajude em um experimento para aprimorar nossas habilidades. {nl}E como compensação, irei te ensiná-las.{nl}
+QUEST_LV_0100_20151102_010857	A tarefa que estou trabalhando atualmente é sobre como tornar as bombas mais fortes.{nl}Os monstros em Castlefield 65_1, 2 e 3 tem os materiais necessários.{nl}Pegue para mim os materiais necessários para fazer bombas mais fortes.
+QUEST_LV_0100_20151102_010858	Traga os materiais necessários dos monstros em Castlefield 65_1, 2 e 3 para o experimento da bomba.
+QUEST_LV_0100_20151102_010859	Estes serão suficientes. Espero que funcione desta vez.{nl}Antes de continuar com o meu experimento, vou ensinar-lhe as habilidades avançadas de Sapper.
+QUEST_LV_0100_20151102_010860	Você quer aprender mais habilidades de Hunter?{nl}Ora, ora. Você é um sujeito interessante.{nl}
+QUEST_LV_0100_20151102_010861	Eu já preparado um teste para pessoas como você.{nl}É uma simples missão que envolve uma busca. Quer tentar?
+QUEST_LV_0100_20151102_010862	Me traga os Hunter's Pass que estão em Castlefield 65_1, 2 e 3.{nl}Eu coloquei um baú com um Hunter's Pass em cada local. Me traga as três.
+QUEST_LV_0100_20151102_010863	Consiga três Hunter's Passes de cada baú em Castlefield 65_1, 2 e 3.
+QUEST_LV_0100_20151102_010864	Vejamos... você conseguiu todos.{nl}
+QUEST_LV_0100_20151102_010865	Otimo. Agora, Eu vou te ensinar sobre as habilidades de alto nível de um Hunter.{nl}Mantenha foco e atenção.
+QUEST_LV_0100_20151102_010866	Bem vindo! Então você quer se tornar um Wugushi?{nl}Ter mais aliados é sempre uma coisa boa.{nl}
+QUEST_LV_0100_20151102_010867	Basicamente, Wugushis utilizam veneno. Onde pegamos o veneno?{nl}Você não pode fazer um veneno sozinho ainda, então eu vou te ensinar {nl}uma maneira de obter e usar venenos pré-existente.s
+QUEST_LV_0100_20151102_010868	Uma boa pergunta.{nl}No momento, o veneno que você pode obter seria um veneno de espinho venenoso.{nl}Você pode pegar o veneno dos monstros em Carlyle's Mausoleum.
+QUEST_LV_0100_20151102_010869	Derrote os monstros em Carlyle's Mausoleum para obter o veneno.
+QUEST_LV_0100_20151102_010870	Lide com venenos com extrema cautela.{nl}Não há como dizer se a próxima vítima será você.{nl}
+QUEST_LV_0100_20151102_010871	Você tem o veneno, pois bem, vamos começar a aula?{nl}Oberve meus movimentos com cuidado e siga-os.
+QUEST_LV_0100_20151102_010872	Você está procurando ser um Scout, não é mesmo?{nl}Scouts se especializam em espionagem de bases inimigas e infiltração.{nl}Velocidade é crucial na vida de um Scout.
+QUEST_LV_0100_20151102_010873	Se você realmente quer se tornar um Scout, me mostre o quão você é rápido, {nl}rápido o suficiente para usar habilidades de Scout.{nl}Só assim poderei te ensinar o caminho.
+QUEST_LV_0100_20151102_010874	Agora, então. O objetivo do teste é ver quantas vezes você pode atacar antes de ser atingido.{nl}Atinja mas não seja atingido. Caso seja, o contador reinicia.
+QUEST_LV_0100_20151102_010875	Ataque um monstro continuamente sem ser atingido.{nl}Se for atingido uma vez, o contador reinicia.
+QUEST_LV_0100_20151102_010876	Veloz!{nl}
+QUEST_LV_0100_20151102_010877	Você aparenta ser capaz de lidar com as habilidades de Scout.{nl}Agora, vou lhe ensina-las.
 QUEST_LV_0100_20151102_010878	O Barão disse que a aura estranha é perigosa, e nos instruiu a não nos aproximarmos dela. {nl}Mas não acho que seja o caso.
 QUEST_LV_0100_20151102_010879	Há um círculo de magia instável no caminho para Ramus Crossroads. {nl}Disseram para não nos aproximarmos, já que uma aura estranha flui de lá. Mas não parece ser o caso. {nl}
 QUEST_LV_0100_20151102_010880	The Apsimesti Crossroads always has been a final testing ground for Hoplites.{nl}Many of forerunners before you would fight monsters till their spears broke.{nl}Of course, there were those who got severely injured.
