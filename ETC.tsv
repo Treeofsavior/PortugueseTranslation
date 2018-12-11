@@ -364,7 +364,7 @@ ETC_20150317_000363	Dice
 ETC_20150317_000364	Catapult
 ETC_20150317_000365	Thicket of Butterfly
 ETC_20150317_000366	Bramble Bush
-ETC_20150317_000367	Sword Pell
+ETC_20150317_000367	Boneco de Treino
 ETC_20150317_000368	Bait
 ETC_20150317_000369	Hit object
 ETC_20150317_000370	Long-Branched Tree
@@ -5368,7 +5368,7 @@ ETC_20150317_005367	Huh...!!
 ETC_20150317_005368	Derrote the Large Kepa!
 ETC_20150317_005369	It's a Large Kepa!
 ETC_20150317_005370	Alchemist Vaidotas
-ETC_20150317_005371	Lot 2 Closure NotGelo
+ETC_20150317_005371	Lot 2 Closure Notice
 ETC_20150317_005372	Evacuate the residents!
 ETC_20150317_005373	Stop that person!!
 ETC_20150317_005374	Eastern Woods Soldier
@@ -9211,7 +9211,7 @@ ETC_20150317_009211	[Gestor de Mercado]{nl}             Logi
 ETC_20150317_009212	[Treinador de Mascote]{nl}            Christina
 ETC_20150317_009213	[Oficial]{nl} Dortina
 ETC_20150317_009214	[Asas da Vaivora]{nl}            Lena
-ETC_20150317_009215	[Associação Mágica de Klaipeda.]{nl}                     Henrika
+ETC_20150317_009215	[Sociedade Mágica de Klaipeda.]{nl}                     Henrika
 ETC_20150317_009216	[Mestre Bokor]{nl}Mama Marie Lavoie
 ETC_20150317_009217	Scripture of Prediction
 ETC_20150317_009218	Scripture of Earth
@@ -9888,17 +9888,17 @@ ETC_20150323_009889	Crystal Processing Device
 ETC_20150323_009890	Use Elementalist Attributes
 ETC_20150323_009891	Hunt boss monsters with party members.
 ETC_20150323_009892	DoTimeAction:Collecting Woods:3#SITGROPESET2:None
-ETC_20150323_009893	Property:1/PropertyAdd:1/GiveItem:SIAULIAI50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/NotGelo:NOTGelo_Dm_Clear:Acquired wood!:3
+ETC_20150323_009893	Property:1/PropertyAdd:1/GiveItem:SIAULIAI50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTGelo_Dm_Clear:Acquired wood!:3
 ETC_20150323_009894	DoTimeAction:Looking through greenery:2:SITGROPE:None
-ETC_20150323_009895	Property:1/PropertyAdd:1/GiveItem:FARM47_4_SQ_040_ITEM_1:1:0/NPCDead/EffectNPC:Local:F_pc_making_finish_white:2:BOT/NotGelo:NOTGelo_Dm_Clear:Found Hardtack!:5
-ETC_20150323_009896	NPCDead/Sleep:500/NotGelo:NOTGelo_Dm_!:Nothing can be seen!:5
+ETC_20150323_009895	Property:1/PropertyAdd:1/GiveItem:FARM47_4_SQ_040_ITEM_1:1:0/NPCDead/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTGelo_Dm_Clear:Found Hardtack!:5
+ETC_20150323_009896	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing can be seen!:5
 ETC_20150323_009897	DoTimeAction:Cutting the trees that will be used for round woodsticks:4:CUTVINE_LOOP:None
-ETC_20150323_009898	NotGelo:NOTGelo_Dm_!:Did not get anything!:5/NPCDead
+ETC_20150323_009898	Notice:NOTICE_Dm_!:Did not get anything!:5/NPCDead
 ETC_20150323_009899	DoTimeAction:Extracting Dandelions:2:None
-ETC_20150323_009900	PCSelfDown:10/NotGelo:NOTGelo_Dm_!:Roots of Dandelions have been cut!:5/NPCDead
-ETC_20150323_009901	PCSelfDown:10/NotGelo:NOTGelo_Dm_!:Roots of Dandelions have been cut!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
+ETC_20150323_009900	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have been cut!:5/NPCDead
+ETC_20150323_009901	PCSelfDown:10/Notice:NOTICE_Dm_!:Roots of Dandelions have been cut!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
 ETC_20150323_009902	DoTimeAction:Drying after putting the monster meats inside:5:None
-ETC_20150323_009903	AnimNPC:Local:OPEN:0/NotGelo:NOTGelo_Dm_!:The meats are being dried! The beef jerkies are going to come out when the lid opens after 5 secs!\:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_Trevas:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
+ETC_20150323_009903	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meats are being dried! The beef jerkies are going to come out when the lid opens after 5 secs!\:3/Sleep:5/AnimNPC:Local:OPEN:0/EffectNPC:Local:F_smoke135_Trevas:2:BOT/Property:1/PropertyAdd:1/GiveItem:FARM47_1_SQ_060_ITEM_2:1:0/TakeItem:FARM47_1_SQ_060_ITEM_1:1:0
 ETC_20150323_009904	DoTimeAction:Retrieving:2:MAKING:None
 ETC_20150323_009905	According to rumors around Fedimian, when the pilgrims passed by the Pilgrim Path
 ETC_20150323_009906	According to the survivors, survivors of the Fallen City lost their belongings or their lives in the Altar Way while going to Fedimian.
@@ -10522,10 +10522,10 @@ ETC_20150401_010523	Valley Barrier Chain
 ETC_20150401_010524	Valley Device 8
 ETC_20150401_010525	DoTimeAction:Collecting wood:3:#SITGROPESET2:SSN_HATE_AROUND
 ETC_20150401_010526	DoTimeAction:Searching the grass:2:#SITGROPESET:None
-ETC_20150401_010527	NPCDead/Sleep:500/NotGelo:NOTGelo_Dm_!:Cannot find anything.:5
+ETC_20150401_010527	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Cannot find anything.:5
 ETC_20150401_010528	DoTimeAction:Extracting Nioles:2:None
-ETC_20150401_010529	PCSelfDown:10/NotGelo:NOTGelo_Dm_!:Niole root is cut off!:5/NPCDead
-ETC_20150401_010530	PCSelfDown:10/NotGelo:NOTGelo_Dm_!:Niole root is cut off!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
+ETC_20150401_010529	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!:5/NPCDead
+ETC_20150401_010530	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole root is cut off!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT
 ETC_20150401_010531	IvnItem:FARM47_1_SQ_060_ITEM_1:1:0/DoTimeAction:Drying after the putting the meats of the monsters:3:MAKING:None
 ETC_20150401_010532	Get rid of the monster by hitting it with a flare
 ETC_20150401_010533	Get Maven's Fourth Key from Apgaule Altar
@@ -10980,7 +10980,7 @@ ETC_20150414_010981	Buy Fletcher Items
 ETC_20150414_010982	World Formation
 ETC_20150414_010983	Use Falconer Attribute
 ETC_20150414_010984	IvnItem:FARM47_1_SQ_060_ITEM_1:1/DoTimeAction:Making meat jerky:3:MAKING:None
-ETC_20150414_010985	AnimNPC:Local:OPEN:0/NotGelo:NOTGelo_Dm_!:Made jerky!:3/Sleep:5000/AnimNPC:Local:CLOSE:0/EffectNPC:Local:F_smoke135_Trevas:2:BOT/GiveItem:FARM47_1_SQ_060_ITEM_2:1/TakeItem:FARM47_1_SQ_060_ITEM_1:1/Property:2/PropertyAdd:1
+ETC_20150414_010985	AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:Made jerky!:3/Sleep:5000/AnimNPC:Local:CLOSE:0/EffectNPC:Local:F_smoke135_Trevas:2:BOT/GiveItem:FARM47_1_SQ_060_ITEM_2:1/TakeItem:FARM47_1_SQ_060_ITEM_1:1/Property:2/PropertyAdd:1
 ETC_20150414_010986	Stop Rexipher
 ETC_20150414_010987	Destroy the Scattered Tree Root Crystal Cores
 ETC_20150414_010988	Activate the Gedulah Altar before Rexipher destroys it
@@ -11550,7 +11550,7 @@ ETC_20150428_011551	The Helper's level is higher than the character level.
 ETC_20150428_011552	The Helper has been hired.
 ETC_20150428_011553	The Helper was let go.
 ETC_20150428_011554	You've already hired a Helper.
-ETC_20150428_011555	Só pode ser adicionado no NPC Associação Mágica de Klaipeda.
+ETC_20150428_011555	Só pode ser adicionado na NPC Sociedade Mágica de Klaipeda.
 ETC_20150428_011556	This cannot be used while moving.
 ETC_20150428_011557	You do not have enough SP.
 ETC_20150428_011558	You do not have enough STA.
@@ -12078,17 +12078,17 @@ ETC_20150714_012079	You've found a fellow player whom you've played with before.
 ETC_20150714_012080	A player whom you've played with before is inviting you to their party again. Join this party again!
 ETC_20150714_012081	Party Quest 
 ETC_20150714_012082	A random quest will be selected for all party members who meet the required criteria.
-ETC_20150714_012083	NPCDead/Sleep:500/NotGelo:NOTGelo_Dm_!:Nothing was found!:5
-ETC_20150714_012084	PCSelfDown:10/NotGelo:NOTGelo_Dm_!:Niole Roots were disconnected!!:5/Func:SCR_FARM47_HERB_ROOT_EVENT/NPCDead
+ETC_20150714_012083	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing was found!:5
+ETC_20150714_012084	PCSelfDown:10/Notice:NOTICE_Dm_!:Niole Roots were disconnected!!:5/Func:SCR_FARM47_HERB_ROOT_EVENT/NPCDead
 ETC_20150714_012085	DoTimeAction:Collecting:2:SITGROPE:SSN_HATE_AROUND
-ETC_20150714_012086	NotGelo:NOTGelo_Dm_!:It's dried too much so the juGelo doesn't come out!:5/EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead
+ETC_20150714_012086	Notice:NOTICE_Dm_!:It's dried too much so the juGelo doesn't come out!:5/EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead
 ETC_20150714_012087	DoTimeAction:Collecting the bushes:3:#SITGROPESET:None
 ETC_20150714_012088	Property:1/PropertyAdd:1/NPCDead/EffectNPC:Local:F_pc_making_finish_white:1:TOP/GiveItem:REMAINS37_2_SQ_050_ITEM_1:1/Notice:NOTGelo_Dm_Clear:Acquired well dried bushes!:5
-ETC_20150714_012089	DamagePC:5/NPCDead/NotGelo:NOTGelo_Dm_!:You've been pricked by thorns of bushes!:5
+ETC_20150714_012089	DamagePC:5/NPCDead/Notice:NOTICE_Dm_!:You've been pricked by thorns of bushes!:5
 ETC_20150714_012090	DoTimeAction:Digging the gold Metal:2:#SITGROPESET:SSN_HATE_AROUND
-ETC_20150714_012091	Property:1/PropertyAdd:1/PCSelfDown:10/NPCDead/NotGelo:NOTGelo_Dm_Clear:You fell down while you were digging the gold Metal that was stuck, but you managed to dig it well!:5/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
-ETC_20150714_012092	Property:1/PropertyAdd:1/Func:SCR_REMAINS37_3_SQ_040_SUMMON/NPCSelfDown:10/NotGelo:NOTGelo_Dm_!:The monsters suddenly appeared near the gold Metal!:5/NPCDead/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
-ETC_20150714_012093	Property:1/PropertyAdd:1/NotGelo:NOTGelo_Dm_Clear:You've digged the gold Metal well!:5/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
+ETC_20150714_012091	Property:1/PropertyAdd:1/PCSelfDown:10/NPCDead/Notice:NOTGelo_Dm_Clear:You fell down while you were digging the gold Metal that was stuck, but you managed to dig it well!:5/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
+ETC_20150714_012092	Property:1/PropertyAdd:1/Func:SCR_REMAINS37_3_SQ_040_SUMMON/NPCSelfDown:10/Notice:NOTICE_Dm_!:The monsters suddenly appeared near the gold Metal!:5/NPCDead/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
+ETC_20150714_012093	Property:1/PropertyAdd:1/Notice:NOTGelo_Dm_Clear:You've digged the gold Metal well!:5/GiveItem:REMAINS37_3_SQ_040__ITEM_1:1
 ETC_20150714_012094	DoTimeAction:Collecting:1.2:WEEDING:None
 ETC_20150714_012095	Collect the keepsakes of the advance party that is petrified
 ETC_20150714_012096	Test the Symbol of Silt
@@ -12410,8 +12410,8 @@ ETC_20150714_012411	Already rubbed in the Scented Stone powders!
 ETC_20150714_012412	Monsters have become more agile due to the effects from the Symbol of Silt
 ETC_20150714_012413	Using the symbol
 ETC_20150714_012414	It doesn't look like it will be activated anytime soon
-ETC_20150714_012415	A recruitment notGelo attached by the Royal Army.{nl}It is still well attached.
-ETC_20150714_012416	You have obtained the petrified recruitment notGelo.
+ETC_20150714_012415	A recruitment Notice attached by the Royal Army.{nl}It is still well attached.
+ETC_20150714_012416	You have obtained the petrified recruitment Notice.
 ETC_20150714_012417	You have rubbed the monster's scent on the supplies
 ETC_20150714_012418	The monster's scent is already rubbed on the supplies
 ETC_20150714_012419	You've destroyed the Floating Petrified Records
@@ -12605,7 +12605,7 @@ ETC_20150714_012606	Thank you so much.
 ETC_20150714_012607	There's nothing here! To the lower side!
 ETC_20150714_012608	Anyway, where did it hide?
 ETC_20150714_012609	There are only monsters here!
-ETC_20150714_012610	Did they already notGelo it?
+ETC_20150714_012610	Did they already Notice it?
 ETC_20150714_012611	They haven't already run away, have they?
 ETC_20150714_012612	Have you seen Evoniphon?
 ETC_20150714_012613	He's not here!{nl}Please check the lower side!
@@ -13444,17 +13444,17 @@ ETC_20150717_013445	Boss Hunting Mission
 ETC_20150717_013446	Request Office Mission
 ETC_20150717_013447	Talk to Fedimian Mercenary Post Recepcionista Ramda at the Mercenary Post to request a mission.
 ETC_20150717_013448	DoTimeAction:Looking for the parts:3:SITGROPE:None
-ETC_20150717_013449	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/NotGelo:NOTGelo_Dm_GetItem:You've found the parts!:5/NPCDead
-ETC_20150717_013450	NotGelo:NOTGelo_Dm_!:You didn't find anything!:5/NPCDead
+ETC_20150717_013449	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTGelo_Dm_GetItem:You've found the parts!:5/NPCDead
+ETC_20150717_013450	Notice:NOTICE_Dm_!:You didn't find anything!:5/NPCDead
 ETC_20150717_013451	DoTimeAction:Collecting:3:SITGROPE:None
-ETC_20150717_013452	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_020_ITEM_1:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/NotGelo:NOTGelo_Dm_Clear:Acquired Venenoous plants!:5
-ETC_20150717_013453	NPCDead/NotGelo:NOTGelo_Dm_!:You couldn't obtain anything!:5
+ETC_20150717_013452	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_020_ITEM_1:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTGelo_Dm_Clear:Acquired Venenoous plants!:5
+ETC_20150717_013453	NPCDead/Notice:NOTICE_Dm_!:You couldn't obtain anything!:5
 ETC_20150717_013454	DoTimeAction:Colleting the petrification liquid powders:5:GROPE:None
-ETC_20150717_013455	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_050_ITEM_2:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/NPCDead/NotGelo:NOTGelo_Dm_Clear:Acquired the petrification liquid powders!:5
-ETC_20150717_013456	NPCDead/NotGelo:NOTGelo_Dm_!:You've failed to obtain the petrification liquid powders!:5
+ETC_20150717_013455	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_050_ITEM_2:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/NPCDead/Notice:NOTGelo_Dm_Clear:Acquired the petrification liquid powders!:5
+ETC_20150717_013456	NPCDead/Notice:NOTICE_Dm_!:You've failed to obtain the petrification liquid powders!:5
 ETC_20150717_013457	Func:SCR_FLASH_58_PETRIFICATION_MON_PRECHCEK/DoTimeAction:Pulling out the monster's core:3:SITGROPE:None
-ETC_20150717_013458	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_060_ITEM_1:1/EffectNPC:Local:FLASH_58_SQ_060_ITEM_1:1:TOP/NPCDead/NotGelo:NOTGelo_Dm_Clear:Obtained the core!:5
-ETC_20150717_013459	NotGelo:NOTGelo_Dm_!:You haven't obtained anything:5
+ETC_20150717_013458	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_060_ITEM_1:1/EffectNPC:Local:FLASH_58_SQ_060_ITEM_1:1:TOP/NPCDead/Notice:NOTGelo_Dm_Clear:Obtained the core!:5
+ETC_20150717_013459	Notice:NOTICE_Dm_!:You haven't obtained anything:5
 ETC_20150717_013460	Release the petrified victims at Vienti Fortress
 ETC_20150717_013461	The Past of the Crystal Mine [Alchemist Advancement]
 ETC_20150717_013462	Pass the corridor by dispersing the monsters
@@ -13912,7 +13912,7 @@ ETC_20150729_013913	When Party Leader accepts the party quest, party members can
 ETC_20150729_013914	When Party Leader accepts Team Battle League, you can compete against other parties by forming a team with your party members. After accepting, please wait until your opponent is selected.
 ETC_20150729_013915	DoTimeAction:Collecting:2:SITGROPE:None
 ETC_20150729_013916	DoTimeAction:Extracting the core of the Monster:3:SITGROPE:None
-ETC_20150729_013917	NotGelo:NOTGelo_Dm_!:You haven't obtained anything:5/NPCDead
+ETC_20150729_013917	Notice:NOTICE_Dm_!:You haven't obtained anything:5/NPCDead
 ETC_20150729_013918	The Secret of the Chamber - Swordsman type_Conditions
 ETC_20150729_013919	The Secret of the Chamber - Wizard type_Conditions
 ETC_20150729_013920	The Secret of the Chamber - Archer type_Conditions
@@ -14038,7 +14038,7 @@ ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
 ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Dano Crítico and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistencia a Crítico and Max Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Perfuração de bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Esquiva and Chance de Crítico{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
-ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/NotGelo:NOTGelo_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
+ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTGelo_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
 ETC_20150730_014045	Survive by avoiding the monsters within the time limit
 ETC_20150730_014046	Registre as memórias no orbe
@@ -14098,12 +14098,12 @@ ETC_20150803_014099	Screenshots taken will be stored in the screenshot folder lo
 ETC_20150803_014100	{nl} {nl}With {img F12 40 40}, you can use the Video Capture function.
 ETC_20150803_014101	When you press {img F12 40 40} again, the captured video will be stored.{nl}The captured video will be stored in the 'TreeOfSavior\release\avicapture' directory.
 ETC_20150803_014102	DoTimeAction:Collectign:2:SITGROPE:None
-ETC_20150803_014103	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/NotGelo:NOTGelo_Dm_GetItem:Collected the copses and saved the keepsakes!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_2:1
-ETC_20150803_014104	NotGelo:NOTGelo_Dm_GetItem:You've collected the corpses!:5/NPCDead
-ETC_20150803_014105	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/NotGelo:NOTGelo_Dm_!:You haven't collected anything!:5
-ETC_20150803_014106	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/NotGelo:NOTGelo_Dm_!:You've failed to collect the petrification powder!:5
+ETC_20150803_014103	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTGelo_Dm_GetItem:Collected the copses and saved the keepsakes!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_2:1
+ETC_20150803_014104	Notice:NOTGelo_Dm_GetItem:You've collected the corpses!:5/NPCDead
+ETC_20150803_014105	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:You haven't collected anything!:5
+ETC_20150803_014106	EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:You've failed to collect the petrification powder!:5
 ETC_20150803_014107	DoTimeAction:Collecting:1:WEEDING:None
-ETC_20150803_014108	Property:1/PropertyAdd:1/GiveItem:UNDER67_MQ4_ITEM01:1/NPCKill/NotGelo:NOTGelo_Dm_GetItem:Obtained bushes:3/EffectNPC:Local:F_pc_making_finish_white:1:TOP
+ETC_20150803_014108	Property:1/PropertyAdd:1/GiveItem:UNDER67_MQ4_ITEM01:1/NPCKill/Notice:NOTGelo_Dm_GetItem:Obtained bushes:3/EffectNPC:Local:F_pc_making_finish_white:1:TOP
 ETC_20150803_014109	Give a present to Scout Mestre secretly without being caught
 ETC_20150803_014110	Give the demons the slip by using temporary flare
 ETC_20150803_014111	Collect Red Leaf
@@ -14757,7 +14757,7 @@ ETC_20151001_014758	My powers... end here.
 ETC_20151001_014759	Va-Vakarine!!!!
 ETC_20151001_014760	Curse you all!!!
 ETC_20151001_014761	Kedorlaomer Merchant's Benefit
-ETC_20151001_014762	PR NotGelo : Join Kedorlaomer Merchants!{nl}Benefit Effect : Temporary increase in attack and Ataque Mágico!
+ETC_20151001_014762	PR Notice : Join Kedorlaomer Merchants!{nl}Benefit Effect : Temporary increase in attack and Ataque Mágico!
 ETC_20151001_014763	For display of 2 hour buff icon
 ETC_20151001_014764	For running 2 hour
 ETC_20151001_014765	Corpse
@@ -15676,8 +15676,8 @@ ETC_20151016_015670	What! Demons!
 ETC_20151016_015671	There they are!
 ETC_20151016_015672	You check it with Monocle.
 ETC_20151016_015673	Cozy Lodge
-ETC_20151016_015674	Kedoran Merchant Alliance Benefit
-ETC_20151016_015675	PR NotGelo : Join the Kedoran Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and Ataque Mágico!
+ETC_20151016_015674	Kedora Merchant Alliance Benefit
+ETC_20151016_015675	PR Notice : Join the Kedora Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and Ataque Mágico!
 ETC_20151016_015676	Drowsy Ferret
 ETC_20151016_015677	Observe
 ETC_20151016_015678	The ferret has been already observed.
@@ -15826,7 +15826,7 @@ ETC_20151016_015820	Por Peso
 ETC_20151016_015821	Por Preço
 ETC_20151016_015822	Por Nome
 ETC_20151016_015823	Hidden Pillar
-ETC_20151016_015824	Kedoran Merchant Alliance Benefits!
+ETC_20151016_015824	Kedora Merchant Alliance Benefits!
 ETC_20151016_015825	Already detected
 ETC_20151016_015826	Not being detected well{nl}Activate it again
 ETC_20151016_015827	It seems that it is out of the range of the detector{nl}Move within the range marked on the map and activate it again
@@ -16286,7 +16286,7 @@ ETC_20151022_016280	Eliminate the power source
 ETC_20151022_016281	Eliminate the Device that forms the defensive layer
 ETC_20151022_016282	Eliminate the cauldron
 ETC_20151022_016283	Extract the shiny moss
-ETC_20151022_016284	Use the Kedoran Merchant Alliance Scroll to the novGelo Revelators near the fields of Klaipeda or Orsha
+ETC_20151022_016284	Use the Kedora Merchant Alliance Scroll to the novice Revelators near the fields of Klaipeda or Orsha
 ETC_20151022_016285	Collect the fresh body fluid of monsters
 ETC_20151022_016286	Collect the materials of tombstones from the rocks nearby
 ETC_20151022_016287	Collect the short Couro strings from monsters
@@ -16307,7 +16307,7 @@ ETC_20151022_016301	Number of Party Quest participated : {count} / {max}{nl}from
 ETC_20151022_016302	You are doing a quest!
 ETC_20151022_016303	Acquired all necessary breathes
 ETC_20151022_016304	You can't see any peculiarities anymore
-ETC_20151022_016305	You've used the Kedoran Merchant Alliance Scroll!
+ETC_20151022_016305	You've used the Kedora Merchant Alliance Scroll!
 ETC_20151022_016306	The level of the Revelator is too high!
 ETC_20151022_016307	You've set the trap.
 ETC_20151022_016308	Obtaining the body fluid
@@ -16465,11 +16465,11 @@ ETC_20151022_016459	Protection Magic
 ETC_20151022_016460	Protection Magic Circle
 ETC_20151022_016461	Letter on the Ground
 ETC_20151022_016462	Suspicious Sack
-ETC_20151022_016463	[Kedoran Merchant Alliance]{nl}   Leopoldas
-ETC_20151022_016464	[Kedoran Merchant Alliance]{nl}     Edita
-ETC_20151022_016465	[Kedoran Merchant Alliance]{nl} Margellius
-ETC_20151022_016466	[Kedoran Merchant Alliance]{nl}     Gerda
-ETC_20151022_016467	[Kedoran Merchant Alliance]{nl}   Serapinas
+ETC_20151022_016463	[Aliança Comercial Kedora]{nl}   Leopoldas
+ETC_20151022_016464	[Aliança Comercial Kedora]{nl}     Edita
+ETC_20151022_016465	[Aliança Comercial Kedora]{nl} Margellius
+ETC_20151022_016466	[Aliança Comercial Kedora]{nl}     Gerda
+ETC_20151022_016467	[Aliança Comercial Kedora]{nl}   Serapinas
 ETC_20151022_016468	[Mestre Fencer]{nl}  Sorscha Hutton
 ETC_20151022_016469	[Barbarian SubMestre]{nl}        Twinhal Koreont
 ETC_20151022_016470	[Dievdirbys SubMestre]{nl}        Zenoa Gallant
@@ -19917,7 +19917,7 @@ ETC_20151224_019911	[Scout SubMestre]{nl}          Suina
 ETC_20151224_019912	[Companion Trader]{nl}            Toras
 ETC_20151224_019913	[Gestor de Mercado]{nl}          Tilliana
 ETC_20151224_019914	[Armazenador]{nl}           Aisa
-ETC_20151224_019915	[Orsha's Magic Association]{nl}           Florianna
+ETC_20151224_019915	[Sociedade Mágica de Orsha]{nl}           Florianna
 ETC_20151224_019916	[Asas da Vaivora]{nl}            Rosia
 ETC_20151224_019917	Novaha Relic
 ETC_20151224_019918	Mind Control Crystal
@@ -19956,7 +19956,7 @@ ETC_20151224_019950	Mind Control Tower
 ETC_20151224_019951	Black Energy
 ETC_20151224_019952	Charged Device
 ETC_20151224_019953	Temporary
-ETC_20151224_019954	[Kedoran Merchant Alliance]{nl}     Merrisa
+ETC_20151224_019954	[Aliança Comercial Kedora]{nl}     Merrisa
 ETC_20151224_019955	[Mestre Sorcerer]{nl}    Dame Circe
 ETC_20151224_019956	Fallen Legwyn Family Dungeon: Entrada
 ETC_20151224_019957	Fencer Sword Pell
@@ -20600,7 +20600,7 @@ ETC_20160224_020594	Iniciar Area Lolopanther
 ETC_20160224_020595	Pergunte sobre a origem da Earth Tower
 ETC_20160224_020596	Ask where the goddess is
 ETC_20160224_020597	Trocar por Equipamentos
-ETC_20160224_020598	Pergunte sobre a Aliança de Comerciantes Kedoran
+ETC_20160224_020598	Pergunte sobre a Aliança de Comerciantes Kedora
 ETC_20160224_020599	Pergunte sobre o Coletor de Relíquia
 ETC_20160224_020600	A aura da Earth Tower está sumindo
 ETC_20160224_020601	A aura da Earth Tower está aumentando
@@ -20714,7 +20714,7 @@ ETC_20160224_020708	Soldier
 ETC_20160224_020709	Injured Soldier
 ETC_20160224_020710	Injured Refugee
 ETC_20160224_020711	Team Battle League{nl}     Valis
-ETC_20160224_020712	[Aliança de Comércio Kedoran]{nl}  Coletor de Relíquia
+ETC_20160224_020712	[Aliança Comercial Kedora]{nl}   Coletor de Relíquia
 ETC_20160224_020713	Earth Tower: Entrada
 ETC_20160224_020714	[Mestre Rune Caster]{nl}      Shelly Pennington
 ETC_20160224_020715	Team 2 wins
@@ -22395,7 +22395,7 @@ ETC_20160718_022389	You have found a fruit that has a peculiar scent
 ETC_20160718_022390	You have gathered Yellow Saspus
 ETC_20160718_022391	You have picked up a Spiritual Stone
 ETC_20160718_022392	Use the Suspecious Blue Leaf
-ETC_20160718_022393	Pretend not to notGelo
+ETC_20160718_022393	Pretend not to Notice
 ETC_20160718_022394	The wandering spirit is following you
 ETC_20160718_022395	You have lead the wandering spirit
 ETC_20160718_022396	Dievdirbys Asel is following you
@@ -25533,7 +25533,7 @@ ETC_20161005_025527	Castle Dungeon Entrance
 ETC_20161005_025528	[Mestre Inquisitor]{nl}Thomas Iquinostasys
 ETC_20161005_025529	[Mestre Hackapell]{nl} Flyntess
 ETC_20161005_025530	  [Mestre Mergen]{nl}Vhangomont Breogen
-ETC_20161005_025531	[Kedoran Merchant Alliance]{nl} Operator
+ETC_20161005_025531	[Aliança Comercial Kedora]{nl}         Operador
 ETC_20161005_025532	[Mestre Taoist]{nl} Geuhong
 ETC_20161005_025533	Whitetree Forest 22_2
 ETC_20161005_025534	Whitetree Forest 22_3
@@ -25869,7 +25869,7 @@ ETC_20161214_025863	Change Petrification Detector
 ETC_20161214_025864	Petrification Detector Color Changing
 ETC_20161214_025865	Summon Party Members
 ETC_20161214_025866	Summon all player characters in the map to you every 50 segundos. If the character in question is within the range of 50, the summon doesn't happen.
-ETC_20161214_025867	PR Notice : Join the Kedoran Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and Ataque Mágico!
+ETC_20161214_025867	PR Notice : Join the Kedora Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and Ataque Mágico!
 ETC_20161214_025868	Curse of the Red Waters
 ETC_20161214_025869	Be careful! It looks like the energy is escaping!{nl}Stop moving to keep the stamina from decreasing!{nl}Moving zones or logging out will also make the curse disappear.
 ETC_20161214_025870	Happy Cat
@@ -25904,7 +25904,7 @@ ETC_20161214_025898	A Manticen has appeared at Shaton Reservoir. Hide in the cav
 ETC_20161214_025899	Apparently, the bees at Dina Bee Farm have started to disappear little by little. Someone found a gigantic spider web in the forest, and soon after a Honeypin appeared at the Farm. Derrote the Honeypin before it destroys the entire region.
 ETC_20161214_025900	Derrote the Kurmis
 ETC_20161214_025901	An enormous monster has appeared in Viltis Forest and is attacking the adventurers. Derrote the monster and make the forest safe again.
-ETC_20161214_025902	The Kedoran Alliance, who the Mage Tower adventurers support, suffered a monster attack at Istora Ruins. They request your help to defeat their biggest threat, the Yonazolem. Derrote the Yonazolem and help the Mage Tower adventurers proceed with their work in safety.
+ETC_20161214_025902	The Kedora Alliance, who the Mage Tower adventurers support, suffered a monster attack at Istora Ruins. They request your help to defeat their biggest threat, the Yonazolem. Derrote the Yonazolem and help the Mage Tower adventurers proceed with their work in safety.
 ETC_20161214_025903	The Naktis so often mentioned by the adventurers has suddenly disappeared. Meanwhile, the adventurers exploring the Kaliss Province say they were attacked at the Roxona Reconstruction Agency West Building by someone under the form of the Naktis. Go and investigate!
 ETC_20161214_025904	Derrote Demon Lord Hauberk
 ETC_20161214_025905	The Kupoles of Demon Prison District 4 say Demon Lord Hauberk has been appearing in the area recently. Go and check whether he has returned, or if it's just another one of his fragments.
@@ -25912,7 +25912,7 @@ ETC_20161214_025906	Derrote the Gosal
 ETC_20161214_025907	The Gosal that suddenly appeared at Uskis Arable Land is causing serious harm to the hardworking farmers in the area. Derrote the Gosal and save the farmers.
 ETC_20161214_025908	The rumor that there is something watching between the lush trees of Spring Light Woods has been around for a long time. This time, the rumor became true and there is a creature threatening the passing residents. Find the Woodspirit in Spring Light Woods and defeat it.
 ETC_20161214_025909	The soldiers operating at the thorny Glade Hillroad seem to be facing a problem with an enormous monster. According to the reports, the monster is a Bebraspion. Go and check whether the gigantic Bebraspion is really roaming the thorny area.
-ETC_20161214_025910	A few members of the Kedoran Alliance were walking past the nearly-deserted Laukyme Swamp when they heard a deafening roar. They believe the sound came from a Gaigalas. The Alliance is now looking for an adventurer to defeat the Gaigalas and make the road safe again.
+ETC_20161214_025910	A few members of the Kedora Alliance were walking past the nearly-deserted Laukyme Swamp when they heard a deafening roar. They believe the sound came from a Gaigalas. The Alliance is now looking for an adventurer to defeat the Gaigalas and make the road safe again.
 ETC_20161214_025911	Guild Raid Sample
 ETC_20161214_025912	Guild Raid Sample
 ETC_20161214_025913	The Dievdirbys Mestre received a letter from Tesla.{nl}Tesla created several Spirit Guide Owl Sculptures and the Sequoia to protect them. However, the Sequoia was corrupted by the demons' evil energy and is destroying the statues and setting Fogo to the forest. Tesla is now looking for a brave adventurer to defeat the Sequoia.
@@ -26043,7 +26043,7 @@ ETC_20161214_026037	Ask the Young Settler
 ETC_20161214_026038	Ask the Orsha Citizen
 ETC_20161214_026039	Sprikle the Divino Powder on the Box
 ETC_20161214_026040	Bury the Strange Crystals
-ETC_20161214_026041	Use the Kedoran Merchant Alliance Scroll to the novGelo Revelators near the fields of Klaipeda or Orsha
+ETC_20161214_026041	Use the Kedora Merchant Alliance Scroll to the novice Revelators near the fields of Klaipeda or Orsha
 ETC_20161214_026042	Take Notes About the Sentry Bailey
 ETC_20161214_026043	Take Notes About the Drill Ground of Confliction
 ETC_20161214_026044	Take Notes About the Resident Quarter
@@ -26875,7 +26875,7 @@ ETC_20170313_026869	{nl} {nl}The different areas of Earth Tower are divided by f
 ETC_20170313_026870	{nl} {nl}Some floors of Earth Tower will contain a boss monster that can drop special material items after it is defeated.
 ETC_20170313_026871	{nl} {nl}Also, after you defeat a boss monster and obtain the rewards, you can choose whether to stop or continue to another mission.
 ETC_20170313_026872	{nl} {nl}If you decide to stop, you will receive an Earth Tower cube as reward, from which you can obtain special material items.
-ETC_20170313_026873	{nl} {nl}These special materials obtained from Earth Tower can be exchanged for powerful equipment items at the Kedoran Alliance NPC located by the entrance of Earth Tower.
+ETC_20170313_026873	{nl} {nl}These special materials obtained from Earth Tower can be exchanged for powerful equipment items at the Kedora Alliance NPC located by the entrance of Earth Tower.
 ETC_20170313_026874	At the Former Fantasy Library, you can experience events that happened in the past.
 ETC_20170313_026875	The Former Fantasy Library can only be accessed by characters of a certain level, and it has a daily entry limit.
 ETC_20170313_026876	Press {img space 40 40} at the entrance to be matched with other players before you enter the Former Fantasy Library.
@@ -27194,7 +27194,7 @@ ETC_20170313_027188	Using the Draining Orb...
 ETC_20170313_027189	Drained the evil spirit.
 ETC_20170313_027190	Evil Spirit
 ETC_20170313_027191	The detector has sensed something buried.
-ETC_20170313_027192	Found part of the Kedoran Alliance ledger.
+ETC_20170313_027192	Found part of the Kedora Alliance ledger.
 ETC_20170313_027193	Region already found.
 ETC_20170313_027194	I'll try and put it together.
 ETC_20170313_027195	I'll try and find more.
@@ -29201,7 +29201,7 @@ ETC_20171128_029174	A magical creature created to protect the Royal Mausoleum. D
 ETC_20171128_029175	The Tree Ambulo is not a mutation of a plant. In fact, it has it's origins in the demonic world. However, the demons to seem to think of it as some sort of pot plant.
 ETC_20171128_029176	A lesser demon that acts as a sort of everyday object for other demons.
 ETC_20171128_029177	The souls of liers and crooks turned into monsters in the demonic world end up like this.
-ETC_20171128_029178	The Kedoran Merchant Alliance is thinking of ways to make a product out of this monster.
+ETC_20171128_029178	The Kedora Merchant Alliance is thinking of ways to make a product out of this monster.
 ETC_20171128_029179	Shredded is a demon monster that was derived from the by-product that results when you transform a monster into a powerful ghost. 
 ETC_20171128_029180	The Ritasfung eats small animals and feeds off them as they decay in it's body. However, it is known to try to bite whatever it can so larger animals also need to take care.
 ETC_20171128_029181	The Tisfung is a monster mutated from mushrooms. As such, it can easily spread it's pores. That's why it isn't uncommon for people that live in dark and humid areas to be attacked by Tisfung that have grown overnight. 
@@ -29566,7 +29566,7 @@ ETC_20171128_029539	You might think that the Ragbird doesn't look like much. You
 ETC_20171128_029540	Did they raise crops in the demonic world and were they affected by Medzio Diena? Nobody knows, but it is an interesting topic to think about.
 ETC_20171128_029541	It is impossible to tell if it is a real scarecrow or a monster. It might look similar because a demon might have imitated a human scarecrow. It might also be a mutation from the demonic world, but nobody knows for certain.
 ETC_20171128_029542	What passes for a cute puppy in the demonic world is a savage beast by human standards.
-ETC_20171128_029543	Rumpelstiltskin is the first demon who dealt with the Kedoran Merchant Alliance, but Vhaldobas is the demon who dealt with them the most. Vhaldobas had a strong sense of curiosity for a demon and especially so for science and engineering. Vhaldobas did not mind trading with humans. Of course, this doesn't mean that any human can trade with demons. 
+ETC_20171128_029543	Rumpelstiltskin is the first demon who dealt with the Kedora Merchant Alliance, but Vhaldobas is the demon who dealt with them the most. Vhaldobas had a strong sense of curiosity for a demon and especially so for science and engineering. Vhaldobas did not mind trading with humans. Of course, this doesn't mean that any human can trade with demons. 
 ETC_20171128_029544	They are not high ranking demons. In fact, they even play the role of clowns in front of high ranking demons. However, demons will sometimes boast that they are simply close to stronger demons.
 ETC_20171128_029545	They are not high ranking demons. In fact, they even play the role of clowns in front of high ranking demons. While some will boast about being near stronger demons, most dislike grouping up. As such, these demons are looked down upon.
 ETC_20171128_029546	They are not high ranking demons. In fact, they even play the role of clowns in front of high ranking demons. They play various clown roles due to the complexity of demon society.
@@ -29626,7 +29626,7 @@ ETC_20171128_029599	This evil demon will do all that it can to torment those wea
 ETC_20171128_029600	Lavisher
 ETC_20171128_029601	Lavishers are all evil, but how they torment their prey depends on an individual level. This particular specimen loves to torment it's prey without saying anything until the prey manages to understand what the Lavisher wants. 
 ETC_20171128_029602	Lake Golem
-ETC_20171128_029603	A magical levitation stone from the Starfilled Lake that turned into a monster during Medzio Diena. It was thought to only exist near Starfilled Lake since most of the magical levitation stones throughout human history were used there, but it seems as if the Kedoran Merchant Alliance and Agailla Flurry had quite a few of their own. 
+ETC_20171128_029603	A magical levitation stone from the Starfilled Lake that turned into a monster during Medzio Diena. It was thought to only exist near Starfilled Lake since most of the magical levitation stones throughout human history were used there, but it seems as if the Kedora Merchant Alliance and Agailla Flurry had quite a few of their own. 
 ETC_20171128_029604	Fondus
 ETC_20171128_029605	Fondus were known to occasionally appear near Starfilled Lake even before Medzio Diena. There was a massive increase in their population after Medzio Diena. The liquid on top of the Fondus is an extremely rare foodstuff. It costs a fortune to detoxicate it enough to be fit for human consumption. It may be put back on the tables of nobles if the Scharffen Star manages to recover.  
 ETC_20171128_029606	Anchor Golem
@@ -31827,8 +31827,8 @@ ETC_20180320_031795	F key for Card Synthesis
 ETC_20180320_031796	{/} to open the corresponding UI.
 ETC_20180320_031797	Heretic Pantorex
 ETC_20180320_031798	Magical Orb
-ETC_20180320_031799	[Aliança Kedoran]{nl}Geraldasia
-ETC_20180320_031800	[Aliança Kedoran]{nl}Geraldason
+ETC_20180320_031799	[Aliança Kedora]{nl}Geraldasia
+ETC_20180320_031800	[Aliança Kedora]{nl}Geraldason
 ETC_20180320_031801	Comprar itens de Thaumaturge
 ETC_20180320_031802	Comprar itens de Cryomancer
 ETC_20180320_031803	Comprar itens de Wizard
@@ -32336,7 +32336,7 @@ ETC_20180418_032304	Sorry, I have no time to talk.
 ETC_20180418_032305	I don't think I can do that much.
 ETC_20180418_032306	Klaipeda Item Merchant
 ETC_20180418_032307	Lord of Orsha, Inesa Hamondale
-ETC_20180418_032308	Kedora Merchant Alliance, Leopoldas
+ETC_20180418_032308	Aliança Comercial Kedora, Leopoldas
 ETC_20180418_032309	Add in.
 ETC_20180418_032310	Crafting Fur Pieces...
 ETC_20180418_032311	Not enough materials to craft the Fur Pieces.{nl}(Min. {cnt} items required)
@@ -32650,31 +32650,31 @@ ETC_20180517_032614	{nl} {nl}Inside Velcoffer's Nest there are several obstacles
 ETC_20180517_032615	{nl} {nl}Soul Crystal use is restricted inside Velcoffer's Nest. Each party can use only a specific amount of Crystals (the count is shared with all party members). After that, you will no longer be able to respawn using Soul Crystals.
 ETC_20180517_032616	{nl} {nl}At the end of the dungeon is Velcoffer, a dragon who escaped its confinement after being sealed during a war with the goddesses many eras ago. Your goal is to defeat Velcoffer to obtain its special rewards.
 ETC_20180517_032617	Gemstone Feud
-ETC_20180517_032618	In the Gemstone Feud, you can make points and exchange them for useful items.
-ETC_20180517_032619	Talk to the Crystal Mine (PvP) NPC located in the north section of the Miner's Village to enter the Gemstone Feud.
-ETC_20180517_032620	{nl}[Important]{nl}- The Feud opens at 10:00, 14:00, 18:00 and 22:00 (server time).{nl}- Only characters of level 350 and above not included in a party can join the Feud.{nl}- Entrance is allowed only until 10 minutes after the start of the session.
-ETC_20180517_032621	{nl} {nl}After entering the Gemstone Feud, you are automatically assigned to a random camp.
-ETC_20180517_032622	- Once you have a camp, you are transported to the starting point (safe zone), where you are granted a state of
-ETC_20180517_032623	 .{nl}- Your camp may change if you re-enter the session.
-ETC_20180517_032624	{nl} {nl}Inside, your goal is to destroy monsters and crystals to collect  
+ETC_20180517_032618	No Gemstone Feud, você pode fazer pontos e trocar por itens úteis.
+ETC_20180517_032619	Fale com o NPC Crystal Mine (PvP), localizado na área norte de Miner's Village, para entrar no Gemstone Feud.
+ETC_20180517_032620	{nl}[Importante]{nl}- Aberto às 10:00, 14:00, 18:00 e 22:00 (horário do servidor).{nl}- Somente personagens de nível 350 ou mais, sem estar dentro de um grupo, podem participar.{nl}- A entrada é permitida até 10 minutos após o início da sessão.
+ETC_20180517_032621	{nl} {nl}Após entrar no Gemstone Feud, você é automaticamente direcionado para um acampamento aleatório.
+ETC_20180517_032622	- Após ter um acampamento, você será transportado para o ponto de início (área segura), onde é garantido um estado de
+ETC_20180517_032623	 .{nl}- Seu acampamento talvez mude se você re-entrar na sessão.
+ETC_20180517_032624	{nl} {nl}Lá dentro, seu objetivo é destruir monstros e coletar cristais para coletar  
 ETC_20180517_032625	s.
-ETC_20180517_032626	Every time you defeat a monster, you receive the  
-ETC_20180517_032627	  buff, which stacks up as you defeat more monsters. You can have a maximum of 50 buff stacks.
-ETC_20180517_032628	s can be collected and exchanged for Mine Points at your camp's Gemstone exchanger.
-ETC_20180517_032629	You get points according to how many  
-ETC_20180517_032630	 s you exchange at once.{nl}- Less than 50 Gemstones = 1 point per stone{nl}- 50 or more Gemstones = 1.2 points per stone{nl}- 100 or more Gemstones = 1.5 points per stone
-ETC_20180517_032631	{nl} {nl}If you defeat a character or the Gemstone exchanger of the opposite camp, you can steal their  
-ETC_20180517_032632	s.
-ETC_20180517_032633	The number of  
-ETC_20180517_032634	 s you steal increases in proportion to how many they are carrying. If you defeat the exchanger, their  
-ETC_20180517_032635	s are equally distributed throughout all camp members.
-ETC_20180517_032636	{nl} {nl}After 10 minutes in the session, a boss monster appears.
-ETC_20180517_032637	The boss spawns in the center of the map, and defeating it gives 50 points to each of your camp mates.
-ETC_20180517_032638	{nl} {nl}You can check your current score at the board in the upper section of the screen.
-ETC_20180517_032639	The scoreboard shows you the points of both camps, how much time is left, and how many members are in each camp.
-ETC_20180517_032640	{nl} {nl}The session lasts 15 minutes. After it ends, the final results are revealed and the rewards are sent to the participants.
-ETC_20180517_032641	Victory is decided based on the total of points gathered by each camp. After the results are announced, you receive a set of Mercenary Badges according to the number of Gemstones you traded with the exchanger. The winning camp receives an additional 500 Badges, while the losing camp receives 100 extra Badges. In the event of a tie, both camps receive a bonus of 100 Badges.
-ETC_20180517_032642	{nl} {nl}The Mercenary Badges collected from the Gemstone Feud can be exchanged for other items at the Crystal Mine (PvP) NPC.
+ETC_20180517_032626	Sempre que derrotar um monstro, você receberá o buff  
+ETC_20180517_032627	  , que acumula conforme você derrota mais monstros. Você pode acumular no máximo 50.
+ETC_20180517_032628	s pode ser coletados e trocados por Mine Points no Gemstone Exchanger do seu acampamento.
+ETC_20180517_032629	Você ganha pontos conforme quantos  
+ETC_20180517_032630	 s você troca por vez.{nl}- Menos de 50 Gemstones = 1 ponto por cada{nl}- 50 ou mais Gemstones = 1.2 pontos por cada{nl}- 100 ou mais Gemstones = 1.5 pontos por cada
+ETC_20180517_032631	{nl} {nl}Se você derrotar um personagem ou o Gemstone Exchanger do acampamento oposto, você pode roubar os   
+ETC_20180517_032632	s deles.
+ETC_20180517_032633	O número de  
+ETC_20180517_032634	 s roubados aumenta em proporção à quantidade que estão carregando. Se derrotar o Exchanger, os  
+ETC_20180517_032635	s são igualmente distribuídos entre todos os membros do acampamento.
+ETC_20180517_032636	{nl} {nl}Após 10 minutos na sessão, um Chefe aparecerá.
+ETC_20180517_032637	O Chefe aparece no centro do mapa, e derrotar ele garante 50 pontos para todos os membros do acampamento.
+ETC_20180517_032638	{nl} {nl}Você pode verificar sua pontuação atual na parte superior da tela.
+ETC_20180517_032639	O placar mostra os pontos de ambos os campos, quanto tempo resta, além de quantos membros em cada acampamento.
+ETC_20180517_032640	{nl} {nl}A sessão dura 15 minutos. Após o término, o resultado final é revelado e as recompensas entregues aos participantes.
+ETC_20180517_032641	A Vitória é decidida baseado no total de pontos de cada acampamento. Após os resultados anunciados, você recebe uma quantidade de Mercenary Badges, de acordo com o número de Gemstones você trocou no Exchanger. O acampamento vencedor recebe 500 Badges adicionais, enquanto o campo perdedor recebe 100 Badges adicionais. Empate gera 100 Badges para ambos.
+ETC_20180517_032642	{nl} {nl}As Mercenary Badges obtidas no Gemstone Feud podem ser trocadas por outros itens no NPC Crystal Mine (PvP).
 ETC_20180517_032643	Redis Insert failed.
 ETC_20180517_032644	Redis Pending Queue is full.
 ETC_20180517_032645	Failed to acquire Web Server URL. Check server_info.
@@ -34660,9 +34660,9 @@ ETC_20180629_034624	You scored {GOAL} consecutive goals!
 ETC_20180629_034625	 {nl}No records.
 ETC_20180629_034626	Ultimate Ace
 ETC_20180629_034627	Ultimate Ace Ranking
-ETC_20180629_034628	The Gemstone Feud is starting now!{nl}Enter at the north end of the Miners' Village.
-ETC_20180629_034629	Session 2 of the Gemstone Feud starting in 3 minutes.{nl}The entrance is at the north end of the Miners' Village.
-ETC_20180629_034630	Session 2 of the Gemstone Feud is starting now!{nl}Enter at the north end of the Miners' Village.
+ETC_20180629_034628	Gemstone Feud começará agora!{nl}A entrada fica em Miners' Village
+ETC_20180629_034629	Sessão 2 do Gemstone Feud começa em 3 minutos.{nl}A entrada fica em Miners' Village.
+ETC_20180629_034630	Sessão 2 do Gemstone Feud começará agora!{nl}A entrada fica em Miners' Village.
 ETC_20180629_034631	Mudar Penteado
 ETC_20180629_034632	Comprar Cabelos e Tinturas
 ETC_20180629_034633	Mudar Penteado
