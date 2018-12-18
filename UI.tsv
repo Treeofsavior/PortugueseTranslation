@@ -2683,7 +2683,7 @@ UI_20170726_002681	Dificuldade	난이도
 UI_20170726_002682	Ordenar	별
 UI_20170726_002683	{@st66b}Menor p/ maior{/}	{@st66b}레벨 오름차순{/}
 UI_20170726_002684	{@st66b}Maior p/ menor{/}	{@st66b}레벨 내림차순{/}
-UI_20170726_002685	{@st66b}As entradas diárias são reiniciadas todos os dias as %s.{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}
+UI_20170726_002685	{@st66b}Entradas Diárias reiniciam todos os dias - %s (servidor).{/}	{@st66b}입장 횟수는 매일 %s시에 초기화 됩니다.{/}
 UI_20170726_002686	{@st43}{s22}Ver Localização{/}	{@st43}{s22}던전 위치 보기{/}
 UI_20170726_002687	{@st59}Fechar.{/}	{@st59}던전 위치 보기 창을 닫습니다{/}
 UI_20170726_002688	{@st43}Eventos{/}	{@st43}이벤트 안내{/}
@@ -2876,7 +2876,7 @@ UI_20170912_002875	{@st42b}{s20}Continuar Comprando
 UI_20170912_002876	{@st42b}{s20}Fechar
 UI_20170912_002877	{@st66}Fechar
 UI_20170912_002878	{@st59}Trocar Equipamento (Alt+Z){/}
-UI_20170912_002879	{img monsterbtn_image 29 28}{@st66b}{s12}Cartas{/}
+UI_20170912_002879	{img monsterbtn_image 29 28}{@st66b}{s12}  Cartas{/}
 UI_20170912_002880	{@st59}Abrir janela de Cartas de Monstros{/}
 UI_20170912_002881	{@st43}{s22}Leticia's Secret Cube{/}
 UI_20170912_002882	Cube Name

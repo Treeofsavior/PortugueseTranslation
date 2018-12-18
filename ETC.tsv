@@ -685,7 +685,7 @@ ETC_20150317_000684	Frantic Giant Wood Goblin
 ETC_20150317_000685	Deadborn of Steel
 ETC_20150317_000686	Leaping Ironbaum
 ETC_20150317_000687	Shaking Achat
-ETC_20150317_000688	Shnayim moving Again
+ETC_20150317_000688	Reanimated Shnayim
 ETC_20150317_000689	Excited Minotaur
 ETC_20150317_000690	Fluttering Denoptic
 ETC_20150317_000691	Precarious Clymen
@@ -25752,8 +25752,8 @@ ETC_20161108_025746	Unable to use while joined by a companion.
 ETC_20161108_025747	Unregistered job. Please contact the management team.
 ETC_20161112_025748	Instanced Dungeon: 1 Entry Voucher (14 dias)
 ETC_20161112_025749	Silver Commission for Shop Skills (%)
-ETC_20161112_025750	Obtain Seed
-ETC_20161112_025751	 {nl}Time left: {TIME} minutos.{nl}{nl}The prize will be ready to harvest after the time is up.
+ETC_20161112_025750	Obter Red Seed
+ETC_20161112_025751	 {nl}Tempo restante: {TIME} minuto(s).{nl}{nl}O prêmio poderá ser colhido depois que este tempo passar.
 ETC_20161114_025752	Applies Token benefits to all your characters in the server for 3 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info window.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
 ETC_20161114_025753	Applies Token benefits to all your characters in the server for 5 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info window.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
 ETC_20161114_025754	Applies Token benefits to all your characters in the server for 7 days. {nl}{img mouseclick_right 30 30} para usar. Remaining time can be checked in the Character Info window.{nl}[Benefícios do Token]{nl} - Capaz de aprender atributos na hora{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl} - Increased maximum buff count{nl} - Permite usar gestos Premium
@@ -28466,7 +28466,7 @@ ETC_20170726_028439	Comendo o peixe...	물고기 구워 먹는 중
 ETC_20170726_028440	Não pode usar perto de outro jogador pescando.	가까이에 다른 낚시꾼이 있어 사용할 수 없습니다.
 ETC_20170726_028441	Você pegou um peixe!	물고기를 낚았습니다!
 ETC_20170726_028442	O peixe cuspiu algo e se mandou!{nl}{ItemName}	물고기가 무언가를 뱉어내고 도망갔습니다!{nl}{ItemName}
-ETC_20170726_028443	Um field boss aparecerá em breve:{nl}{#d81111}{Name}
+ETC_20170726_028443	Um Chefe perigoso aparecerá em breve:{nl}{#d81111}{Name}
 ETC_20170726_028444	Black Cherry
 ETC_20170726_028445	Camellia
 ETC_20170726_028446	Bamboo
@@ -31274,8 +31274,8 @@ ETC_20180202_031247	Event Info
 ETC_20180202_031248	 {nl}Entregue esses chocolates para o Menino Fofo em {MAP}.{Nl}Ou...coma-os?{Nl}Você vai comer os chocolates?
 ETC_20180202_031249	Você não tem {ITEMNAME}.
 ETC_20180202_031250	Entregues {ITEMNAME}.
-ETC_20180202_031251	Rookie/Returning Savior Event
-ETC_20180202_031252	Log Calendar
+ETC_20180202_031251	Evento - Salvador Novato / Retornando
+ETC_20180202_031252	Evento - Calendário Diário
 ETC_20180202_031253	 {nl}Essa é a sua recompensa do dia {COUNT}.{Nl} Não se esqueça de voltar amanhã!
 ETC_20180202_031254	Golden Dog Warrior Helmet
 ETC_20180202_031255	Menino Fofo
@@ -31886,15 +31886,15 @@ ETC_20180320_031854	Failed to transfer TP.{nl}Please try again later.{nl}If the 
 ETC_20180320_031855	Please select a guild quest
 ETC_20180320_031856	Item: {COUNT} time(s) per team
 ETC_20180320_031857	{ITEM} x{COUNT}
-ETC_20180320_031858	Use Monster Energy x{COUNT} to level up {NAME} to Lv {LV}
-ETC_20180320_031859	You need Monster Energy x{COUNT} to increase one level.
-ETC_20180320_031860	Receive Blue Orb Dungeon Coin
-ETC_20180320_031861	You have less than Blue Orb Dungeon Coin x{COUNT} in your inventory!
-ETC_20180320_031862	Capture Successful!
-ETC_20180320_031863	Capture Failed!
-ETC_20180320_031864	Unable to proceed while joined by a companion.
-ETC_20180320_031865	Level {LV} or higher are allowed.
-ETC_20180320_031866	Treasure Chest can be opened after defeating the Boss Monster.
+ETC_20180320_031858	Usado Energia de Monstro x{COUNT} para avançar {NAME} para o Nv {LV}
+ETC_20180320_031859	Você precisa de Energia de Monstro x{COUNT} para avançar 1 nível.
+ETC_20180320_031860	Blue Orb Dungeon Coin Obtido
+ETC_20180320_031861	Você tem menos que Blue Orb Dungeon Coin x{COUNT} em seu inventário!
+ETC_20180320_031862	Capturado com Sucesso!
+ETC_20180320_031863	Captura Falhou!
+ETC_20180320_031864	Impossível prosseguir acompanhado de um Mascote.
+ETC_20180320_031865	Nível {LV} ou mais permitido.
+ETC_20180320_031866	Baú do Tesouro pode ser aberto após derrotar o Monstro Chefe.
 ETC_20180320_031867	{@st42}{s18}Previous quest [currently logged in character]{/}
 ETC_20180320_031868	Rank Reset para Shinobi
 ETC_20180320_031869	Rank Reset para Wizards
@@ -31930,13 +31930,13 @@ ETC_20180320_031898	Deseja comprar?{nl}{ol}{Price} Silver{/}
 ETC_20180320_031899	Verifique a próxima lista de compensação da coleção
 ETC_20180320_031900	Close
 ETC_20180320_031901	Falha ao recuperar o traje.
-ETC_20180320_031902	 {nl}Monster name : {NAME} / Current level :  {LV}{nl}In order to increase the level 
-ETC_20180320_031903	  is required. 
-ETC_20180320_031904	 Enter the amount.{nl}You need 1  
-ETC_20180320_031905	  per level, and to increase 5 levels at a time you need one  
-ETC_20180320_031906	.
+ETC_20180320_031902	{nl}Monstro: {NAME} / Nível atual: {LV}{nl}Você precisará de  
+ETC_20180320_031903	 para aumentar o nível do monstro.{nl} Digite a quantidade de 
+ETC_20180320_031904	 que deseja aplicar.{nl}Você precisa de 1 
+ETC_20180320_031905	 por nível, e 1 
+ETC_20180320_031906	 adicional a cada 5 níveis.
 ETC_20180320_031907	Fedimian Under Attack Event
-ETC_20180320_031908	Special Blue Orb Event
+ETC_20180320_031908	Evento Especial - Pokémon
 ETC_20180320_031909	Chance de Drop +100 (30 min.): {@st66d}{needSilver} Silver{/}
 ETC_20180320_031910	[Kedora Alliance]{nl}Geraldasia
 ETC_20180320_031911	[Kedora Alliance]{nl}Geraldason
@@ -32548,11 +32548,11 @@ ETC_20180503_032516	Anúncios no Instagram
 ETC_20180514_032517	Rainbow Klaipeda
 ETC_20180514_032518	Rainbow Orsha
 ETC_20180514_032519	Rainbow Fedimian
-ETC_20180514_032520	Rainbow Trek Event
+ETC_20180514_032520	Evento - Rainbow Trek
 ETC_20180514_032517	Rainbow Klaipeda
 ETC_20180514_032518	Rainbow Orsha
 ETC_20180514_032519	Rainbow Fedimian
-ETC_20180514_032520	Rainbow Trek Event
+ETC_20180514_032520	Evento - Rainbow Trek
 ETC_20180517_032521	It is unclear whether Worgs are beings that commune with human spirits, or if they are an ancient wolf species.
 ETC_20180517_032522	After the ill-fated Svitrigaila was caught in the petrification curse, he became despised even by his fellow demons, and has since endured a series of misfortunes. His own twin sibling is no longer caring for Svitrigaila, wishing only that he dies as soon as possible.  
 ETC_20180517_032523	It is unclear whether Worgs are beings that commune with human spirits, or if they are an ancient wolf species. 
@@ -36653,3 +36653,7 @@ ETC_20181120_036567	Coral Blue Bunny Costume Selection Box	코랄 블루 바니 
 ETC_20181120_036568	Use to select one of the following items.{nl} - Coral Blue Bunny Boy Costume (Male) x1{nl} - Coral Blue Bunny Girl Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 코랄 블루 바니보이 코스튬(남) 1개{nl} - 코랄 블루 바니걸 코스튬(여) 1개
 ETC_20181130_036569	 {nl}Plantios só podem ser colhidos pelo Time que o plantou.
 ETC_20181130_036570	Você está muito próximo do plantio de outra pessoa.
+ETC_20181214_036571	Wrap Me Up Santa Costume Selection Box
+ETC_20181214_036572	Use para escolher um dos seguintes itens:{nl} - Wrap Me Up Santa Costume (Male) x1{nl} - Wrap Me Up Santa Costume (Female) x1
+ETC_20181214_036573	Fluffy Penguin Costume Set
+ETC_20181214_036574	Use para obter todos os seguintes itens:{nl} - Fluffy Penguin Costume x1{nl} - Fluffy Penguin Helmet x1

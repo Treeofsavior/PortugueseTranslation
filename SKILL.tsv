@@ -1471,7 +1471,7 @@ SKILL_20150317_001470	Divine Attributes Ataque +{#339989}{ol} #{CaptionRatio}#{/
 SKILL_20150317_001471	Protection
 SKILL_20150317_001472	Dodola
 SKILL_20150317_001473	Hexing
-SKILL_20150317_001474	Curse an enemy and decrease its Mágico defense.
+SKILL_20150317_001474	Curse an enemy and decrease its magic defense.
 SKILL_20150317_001475	Defesa Mágica: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Duração do Feitiço: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150317_001476	Effigy
 SKILL_20150317_001477	{#993399}{ol}[Mágico] - {img attri_Dark 21 21}Trevas{/}{/}{nl}Damage enemies affected by Hexing. The third Ataque deals Dano Adicional.
@@ -1665,7 +1665,7 @@ SKILL_20150317_001664	Increased SP & Stamina
 SKILL_20150317_001665	Increases the amount of SP and Stamina recovery
 SKILL_20150317_001666	Decreased Defense and Ataque.
 SKILL_20150317_001667	Rage
-SKILL_20150317_001668	Become enraged. Increases STR, Physical Ataque and Movement Speed., but decreases INT, Physical and Mágico Defense.
+SKILL_20150317_001668	Become enraged. Increases STR, Physical Ataque and Movement Speed., but decreases INT, Physical and magic defense.
 SKILL_20150317_001669	Cursed a target.
 SKILL_20150317_001670	Recuperação natural impossível, Defesa Mágica diminuída.
 SKILL_20150317_001671	Addiction Aura
@@ -4043,7 +4043,7 @@ SKILL_20150428_004042	Maximum Links:{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Dura
 SKILL_20150428_004043	Tighten link to gather up enemy.
 SKILL_20150428_004044	{#339999}{ol}[Aperto]{/}{/} Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150428_004045	Temporarily enlarge the your and party members' hands that are carrying sword and shield.
-SKILL_20150428_004046	Physical/Mágico Defense {#006fec}{ol}+#{CaptionRatio}#{/}{/} for Shield{nl}Physical/Mágico Defense + {#339989}{ol}#{CaptionRatio2}#{/}{/} for Sword{nl}No effect with other subweapons{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150428_004046	Physical/magic defense {#006fec}{ol}+#{CaptionRatio}#{/}{/} for Shield{nl}Physical/magic defense + {#339989}{ol}#{CaptionRatio2}#{/}{/} for Sword{nl}No effect with other subweapons{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150428_004047	Summon Demon type boss{nl}Demon power {#006fec}{ol}+#{CaptionRatio}#{/}{/}% {nl}Additional Demon damage {#339989}{ol}#{CaptionRatio2}#{/}{/}
 SKILL_20150428_004048	Effect applies{#339989}{ol} #{CaptionRatio}#{/}{/} times
 SKILL_20150428_004049	Back masking range100{nl}Cannot back mask for 10segundos in target area{nl}Use 1 Piece of Dimension
@@ -4071,7 +4071,7 @@ SKILL_20150428_004070	{#00c3a1}{ol}[BUFF]{/}{/} - {#d81111}{ol}[DEBUFF]{/}{/}{nl
 SKILL_20150428_004071	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Dá uma bênção concedendo Dano Adicional aos Ataques de seus membros do grupo e aliados.
 SKILL_20150428_004072	Dano Adicional: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Número de Hits: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Allies Affected:{#E5E5E5}{ol} #{CaptionTime}#{/}{/}{nl}Duração: 45 segundos{nl}Consome 1 Holy Powder
 SKILL_20150428_004073	Body's moving range{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Body's Ataque +{#339989}{ol}#{CaptionRatio2}#{/}{/}
-SKILL_20150428_004074	Reflect as much as target's Physical Ataque{nl}Dano Adicional reflected {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Max. Duração{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Range projectile, Mágico defense not possible
+SKILL_20150428_004074	Reflect as much as target's Physical Ataque{nl}Dano Adicional reflected {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Max. Duração{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Range projectile, magic defense not possible
 SKILL_20150428_004075	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Use 2 Stamina
 SKILL_20150428_004076	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Ataque enemies with the tip of your hand to cause internal damage.
 SKILL_20150428_004077	Ataque per strike {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Usa{#339989}{ol} #{CaptionRatio}#{/}{/} SP per 0.5 segundos
@@ -4271,7 +4271,7 @@ SKILL_20150714_004270	Permite você equipar [Mace].
 SKILL_20150714_004271	Permite você equipar [Wand].
 SKILL_20150714_004272	Permite você equipar [Pistola].
 SKILL_20150714_004273	Maestria do Tecido: Mágico
-SKILL_20150714_004274	Able to equip [Cloth] armor. In addition, increases your maximum SP and Mágico Defense depending on the number of equipped [Cloth] armor and the attribute level. (Applies from 3 armor pieces)
+SKILL_20150714_004274	Able to equip [Cloth] armor. In addition, increases your maximum SP and magic defense depending on the number of equipped [Cloth] armor and the attribute level. (Applies from 3 armor pieces)
 SKILL_20150714_004275	Maestria do Couro: Destreza
 SKILL_20150714_004276	Able to equip [Leather] armor. In addition, increases your Evasion depending on the number of equipped [Leather] armor and the attribute level. (Applies from 3 armor pieces)
 SKILL_20150714_004277	Maestria da Placa: Defesa
@@ -4913,7 +4913,7 @@ SKILL_20150729_004912	Decreases Skill Cooldown Time by 10%
 SKILL_20150729_004913	Increase Physical Ataque, Mágico Ataque
 SKILL_20150729_004914	Physical Ataque +10%{nl}Ataque Mágico +10%
 SKILL_20150729_004915	Aumenta Defesa Física, Defesa Mágica
-SKILL_20150729_004916	Defesa Física +10%{nl}Mágico Defense +10%
+SKILL_20150729_004916	Defesa Física +10%{nl}magic defense +10%
 SKILL_20150729_004917	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Abre uma loja para fortificar armas e aumentar temporariamente seu poder de ataque.
 SKILL_20150729_004918	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Abre uma loja para fortificar armaduras e aumentar temporariamente sua defesa. Repara apenas parte de Cima, Calças e Escudos.
 SKILL_20150729_004919	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Cria um acampamento base para os membros do grupo. Os membros podem usar o acampamento como armazenamento ou para teletransporte. A duração dos buffs usados em torno do acampamento aumentará.
@@ -5160,7 +5160,7 @@ SKILL_20150918_005159	Decreased Fire, Ice, Lightning, Earth and Poison propertie
 SKILL_20150918_005160	Bloqueio Aumentado
 SKILL_20150918_005161	Precisão diminuída
 SKILL_20150918_005162	Agvenipa Set Buff
-SKILL_20150918_005163	Able to equip [Cloth] armor. In addition, your maximum SP increases when you equip 3 or more pieces of [Cloth] armor. Your Mágico Defense increases once you have 4 [Cloth] armor pieces equipped.
+SKILL_20150918_005163	Able to equip [Cloth] armor. In addition, your maximum SP increases when you equip 3 or more pieces of [Cloth] armor. Your magic defense increases once you have 4 [Cloth] armor pieces equipped.
 SKILL_20150918_005164	Permite equipar armadura tipo [Couro]. {nl} Quando equipado com 3 ou mais peças de [Couro], sua Esquiva aumentará.{nl} {nl}Quando equipado com 4 peças de [Couro], sua Esquiva aumenta em um adicional de 50%.
 SKILL_20150918_005165	Permite equipar armadura tipo [Placa]. In addition, your maximum HP increases when you equip 3 or more pieces of [Plate] armor. Your maximum Stamina increases once you have 4 [Plate] armor pieces equipped.
 SKILL_20150918_005166	Double Slash: Crítico
@@ -5261,7 +5261,7 @@ SKILL_20151001_005260	Deals Mágico damage in Out of Body by drawing a barrier.
 SKILL_20151001_005261	Increases your critical rate.
 SKILL_20151001_005262	Conjuração de skills mais rápida.
 SKILL_20151001_005263	Aumento no dano mágico.
-SKILL_20151001_005264	Allows you to equip [Cloth] armor.{nl}When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and Mágico damage taken is decreased by 5%.{nl} {nl}When equipped with 4 [Cloth] armor pieces, your Mágico Defense increases and Mágico damage taken is decreased by an additional 10%.
+SKILL_20151001_005264	Allows you to equip [Cloth] armor.{nl}When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and Mágico damage taken is decreased by 5%.{nl} {nl}When equipped with 4 [Cloth] armor pieces, your magic defense increases and Mágico damage taken is decreased by an additional 10%.
 SKILL_20151001_005265	Allows you to equip [Plate] armor.{nl}When equipped with 3 or more pieces of [Plate] armor, increases your maximum HP and physical damage taken is decreased by 5%.{nl} {nl}When equipped with 4 [Plate] armor pieces, your maximum Stamina increases and physical damage taken is decreased by an additional 10%.
 SKILL_20151001_005266	Provoke
 SKILL_20151001_005267	Increases provocation when enemies Ataque by 50% per attribute level.
@@ -5492,7 +5492,7 @@ SKILL_20151022_005491	Increases the critical rate of the transformed animal-type
 SKILL_20151022_005492	Druid: Plant-type Speciality
 SKILL_20151022_005493	Increases the HP recovery and SP recovery of the transformed plant-type monster via [Shape Shifting] or [Transform] by 10% per attribute level.
 SKILL_20151022_005494	Druid: Insect-type Speciality
-SKILL_20151022_005495	Increases the defense and Mágico defense of the transformed insect-type monster via [Shape Shifting] or [Transform] by 8% per attribute level.
+SKILL_20151022_005495	Increases the defense and magic defense of the transformed insect-type monster via [Shape Shifting] or [Transform] by 8% per attribute level.
 SKILL_20151022_005496	Resetting: Decreased Cooldown
 SKILL_20151022_005497	Decreases the cooldown of [Resetting] by 30 segundos.
 SKILL_20151022_005498	Forecast: Increased Nullification
@@ -5585,7 +5585,7 @@ SKILL_20151102_005584	Decreased movement speed.
 SKILL_20151102_005585	Gae Bulg: Ataque Zone
 SKILL_20151102_005586	Ataque físico e mágico aumentado
 SKILL_20151102_005587	Gae Bulg: Defense Zone
-SKILL_20151102_005588	Increased physical defense and Mágico defense
+SKILL_20151102_005588	Increased physical defense and magic defense
 SKILL_20151102_005589	Increases block penetration by 10% per attribute level when Ataqueing an enemy with a [Lança de Duas Mãos].
 SKILL_20151102_005590	Inflicts [Bleeding] on an enemy Ataqueed with [Keel Hauling] for 5 segundos. Increases the Duração of [Bleeding] by 1 segundo per attribute level. Bleeding damage is proportional to the character's STR.
 SKILL_20151102_005591	Kunai: Aprimorar
@@ -5614,7 +5614,7 @@ SKILL_20151102_005613	Serpentine: Bleeding
 SKILL_20151102_005614	Enemies hit by [Serpentine] have a 2% chance per attribute level to be afflicted with [Bleeding] for 8 segundos. Bleeding damage is proportional to the character's physical Ataque.
 SKILL_20151102_005615	Gae Bulg: Aprimorar
 SKILL_20151102_005616	Aumenta o dano causado com [Gae Bulg] em 1% por nível de atributo.
-SKILL_20151102_005617	Creates a defense zone for 15 segundos where the spear is thrown. Increases physical defense and Mágico defense by 2% for party members within the zone.
+SKILL_20151102_005617	Creates a defense zone for 15 segundos where the spear is thrown. Increases physical defense and magic defense by 2% for party members within the zone.
 SKILL_20151102_005618	Creates an Ataque zone for 15 segundos where the spear is thrown. Increases physical Ataque and Ataque Mágico by 2% for party members within the zone.
 SKILL_20151102_005619	Dragon Soar: Aprimorar
 SKILL_20151102_005620	Aumenta o dano causado com [Dragon Soar] em 1% por nível de atributo.
@@ -5980,7 +5980,7 @@ SKILL_20151224_005979	Aumenta Defesa Mágica
 SKILL_20151224_005980	Aumenta Ataque Mágico
 SKILL_20151224_005981	Ataque Mágico aumentado
 SKILL_20151224_005982	Porapore
-SKILL_20151224_005983	Increases Holy and Ataque Elemental: Trevass equal to 6% Mágico defense for 10 segundos when stacked 100 times.
+SKILL_20151224_005983	Increases Holy and Ataque Elemental: Trevass equal to 6% magic defense for 10 segundos when stacked 100 times.
 SKILL_20151224_005984	Porapore Activation
 SKILL_20151224_005985	Light and Ataque Elemental: Trevas Increase
 SKILL_20151224_005986	Maven Necklace
@@ -6396,8 +6396,8 @@ SKILL_20160718_006395	In a state of confusion. Reduced physical defense while ph
 SKILL_20160718_006396	Fastly Decreases Duração of Harmful Effects
 SKILL_20160718_006397	GvG Spectator
 SKILL_20160718_006398	Pre-GvG
-SKILL_20160718_006399	Defense and Mágico Defense Increase
-SKILL_20160718_006400	Increased defense and Mágico defense.
+SKILL_20160718_006399	Defense and magic defense Increase
+SKILL_20160718_006400	Increased defense and magic defense.
 SKILL_20160718_006401	Penguin Buff
 SKILL_20160718_006402	Aumenta defesa física e mágica
 SKILL_20160718_006403	Aumenta ataque físico e mágico
@@ -6425,7 +6425,7 @@ SKILL_20160723_006424	Duração:{#339989}{ol} #{CaptionRatio}#{/}{/} segundos{nl
 SKILL_20160723_006425	Resistência Elemental: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Dano Elemental:{#339989}{ol} -#{SkillSR}#%{/}{/}{nl}Chance de Negação: {#339989}{ol}#{CaptionRatio2}#{/}{/}%{nl}Defesa Mágica Inimiga: {#006fec}{ol}-#{SkillFactor}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20160723_006426	You have been reincarnated.
 SKILL_20160723_006427	Increased defense effects
-SKILL_20160723_006428	Increased physical and Mágico defense, maximum HP.
+SKILL_20160723_006428	Increased physical and magic defense, maximum HP.
 SKILL_20160723_006429	Reset cooldown time
 SKILL_20160723_006430	Necklace of Protection - Darkness
 SKILL_20160723_006431	Reduces Darkness property damage by 25%.
@@ -6817,7 +6817,7 @@ SKILL_20161005_006816	Parcialmente anula os status defensivos dos equipamentos.
 SKILL_20161005_006817	Malleus Maleficarum: Mana Burn
 SKILL_20161005_006818	Acréscimo no Elemento Elétrico.
 SKILL_20161005_006819	Aumento do SP máximo. Aumento do nível do personagem.
-SKILL_20161005_006820	Merkabah: Increased Mágico Defense
+SKILL_20161005_006820	Merkabah: Increased magic defense
 SKILL_20161005_006821	Bayonet Thrust: Reduced Recovery
 SKILL_20161005_006822	Recuperação de HP e SP reduzidos
 SKILL_20161005_006823	Velocidade de ataque da arma principal aumentado.
@@ -6843,7 +6843,7 @@ SKILL_20161005_006842	Ataque aumentado.
 SKILL_20161005_006843	SP Increased State
 SKILL_20161005_006844	Total de SP e Recuperação de SP aumentados.
 SKILL_20161005_006845	HP Increased State
-SKILL_20161005_006846	HP amount, defense and Mágico defense increased.
+SKILL_20161005_006846	HP amount, defense and magic defense increased.
 SKILL_20161005_006847	Manahas' Protection
 SKILL_20161005_006848	Adiciona 110 de dano do Elemento Gelo aos seus ataques.
 SKILL_20161005_006849	Champagne
@@ -7092,7 +7092,7 @@ SKILL_20161005_007091	Reduce Level: Additional Reduction
 SKILL_20161005_007092	Reduces the additional level of [Reduce Level] by 1 per attribute level.
 SKILL_20161005_007093	Merkabah: Aprimorard Durability
 SKILL_20161005_007094	Increases the durability of the wheel from [Merkabah] which only receives 1 damage for any Ataques. The wheel can withstand 5 times of damage per attribute level.
-SKILL_20161005_007095	Increases an ally's Mágico defense when nearby the wheel of [Merkabah] by 10 per attribute level
+SKILL_20161005_007095	Increases an ally's magic defense when nearby the wheel of [Merkabah] by 10 per attribute level
 SKILL_20161005_007096	Inquisitor: Burn
 SKILL_20161005_007097	Upon defeating an enemy, there is 1% chance per attribute level that flame erupts from the fallen enemy attribute level. The flame lasts for 10 segundos.
 SKILL_20161005_007098	Iron Maiden: Aprimorar
@@ -7244,7 +7244,7 @@ SKILL_20161214_007243	Receives additional Propriedade Divino damage from melee A
 SKILL_20161214_007244	Wild Nature
 SKILL_20161214_007245	Correr aumenta o dano das skills de Barbarian.
 SKILL_20161214_007246	Mounted demon becomes stronger.
-SKILL_20161214_007247	Increases Holy and Ataque Elemental: Trevass equal to 8% Mágico defense for 10 segundos when stacked 100 times.
+SKILL_20161214_007247	Increases Holy and Ataque Elemental: Trevass equal to 8% magic defense for 10 segundos when stacked 100 times.
 SKILL_20161214_007248	Solmiki Plate Set
 SKILL_20161214_007249	Able to activate the special effect of Solmiki plate set
 SKILL_20161214_007250	Solmiki Plate Set Effect
@@ -12599,3 +12599,4 @@ SKILL_20181017_012595	* Decreases the damage received from missile or force atta
 SKILL_20181017_012596	* Has 20% chance to ignite a flame where the enemy has fell when defeated{nl}* Does damage to a maximum of 5 enemies{nl}* Maximum of 3 flames ignited	* 적 처치시 20% 확률로 그 자리에 불길 활성화{nl}* 불길은 10초간 지속{nl}* 최대 5 개체 적에게 대미지{nl}* 불길 최대 3개 생성	SKILL_20170313_008338	* Upon defeating an enemy, there is 1% chance per attribute level that flames erupt{nl}* Flames last for 10 seconds	* 적 처치시 특성 레벨당 1% 확률로 그 자리에 불길 활성화{nl}* 불길은 10초간 지속	
 SKILL_20181017_012597	Requires Cannoneer Circle 2	캐노니어 2 서클 필요				
 SKILL_20181026_012598	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Ability to list up to 10 items on the Market{nl} - Ability to retrieve Market silver instantaneously{nl} - Able to register items in	- 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 판매금 즉시 수령{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 캐릭터 이동속도 +3{nl} - 몬스터 처치 시 획득 경험치 증가{nl} - 프리미엄 제스쳐 사용 가능{nl} - 팀 창고 +30칸 증가	SKILL_20180827_012276	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Ability to list up to 10 items on the Market{nl} - Ability to retrieve Market silver instantaneously{nl} - Able to register items in	- 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 판매금 즉시 수령{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 캐릭터 이동속도 +3{nl} - 몬스터 처치 시 획득 경험치 증가{nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능{nl} - 팀 창고 +30칸 증가	
+SKILL_20181214_012599	Aurora Borealis	북극의 오로라 
