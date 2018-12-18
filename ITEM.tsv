@@ -10967,7 +10967,7 @@ ITEM_20160811_010965	Card Cube: Devil-type
 ITEM_20160811_010966	Use to obtain a random Devil-type Card. {nl}{img mouseclick_right 30 30} para usar.
 ITEM_20160811_010967	Card Cube: Animal-type
 ITEM_20160811_010968	Use to obtain a random Animal-type Card. {nl}{img mouseclick_right 30 30} para usar.
-ITEM_20160811_010969	Cubo da Bênção
+ITEM_20160811_010969	Cube of Blessing
 ITEM_20160811_010970	Um cubo que lhe irá entregar uma Blessed Shard ou uma Goddesses' Blessed Gem.
 ITEM_20160811_010971	Golden Chest
 ITEM_20160811_010972	A chest containing random items.{nl}Open this chest to obtain a random item.
@@ -15311,7 +15311,7 @@ ITEM_20170726_015308	Request Complete Certificate	의뢰완료 확인증
 ITEM_20170726_015309	A certificate proving the completion of a request by the Golden Note mercenaries.	황금노래 용병단에 요청한 의뢰가 완료되었음을 증명함.{nl}6월 29일 점검 시, 일괄 삭제됩니다.
 ITEM_20170726_015310	Poção da Nota Dourada	황금노래 용병단원 포션
 ITEM_20170726_015311	{img mouseclick_right 30 30} para usar..{nl}Aumenta o HP máximo em +3,000 por 1 hora.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}1시간 동안 최대 HP +3000{nl}7월 6일 점검 시, 일괄 삭제됩니다.
-ITEM_20170726_015312	Poção do Crente	수행자의 포션
+ITEM_20170726_015312	Believer's Potion	수행자의 포션
 ITEM_20170726_015313	{img mouseclick_right 30 30} para usar..{nl}Aumenta o ataque físico e mágico em +100 por 1 hora.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}1시간 동안 물리,마법 공격력 +100{nl}7월 13일 점검 시, 일괄 삭제됩니다.
 ITEM_20170726_015314	Festival Cardboard Box	축제용 종이상자
 ITEM_20170726_015315	Use it when you need some time out.	관심이 필요할 때 사용하세요. 6월 29일 점검 시, 일괄 삭제됩니다.
@@ -15797,8 +15797,8 @@ ITEM_20171013_015790	A longish spear made from bamboo.
 ITEM_20171013_015791	Pumpkin Lantern
 ITEM_20171013_015792	A lantern made by carving a face into a pumpkin and placing a candle inside.
 ITEM_20171013_015793	Pokébola
-ITEM_20171013_015794	Convocará um monstro quando usado.
-ITEM_20171013_015795	Só pode ser usado
+ITEM_20171013_015794	Convocará um monstro quando usado. 
+ITEM_20171013_015795	Só pode ser usado 
 ITEM_20171013_015796	durante a missão evento.{nl}Será excluído quando o período do evento terminar.
 ITEM_20171013_015797	Armadilha Especial
 ITEM_20171013_015798	Instalará uma armadilha de monstro quando usada. {Nl} Será excluído quando o período do evento terminar. 
