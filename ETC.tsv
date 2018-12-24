@@ -2156,7 +2156,7 @@ ETC_20150317_002155	Central Estátua da Deusa Zemyna
 ETC_20150317_002156	Identity of the old man
 ETC_20150317_002157	Food of Fedimian
 ETC_20150317_002158	Talk to the summoned guardian of Zachariel to unseal!
-ETC_20150317_002159	Você recebeu um ponto de Status!
+ETC_20150317_002159	Você recebeu 1 ponto de Atributo!
 ETC_20150317_002160	Nada Aconteceu!
 ETC_20150317_002161	Kicking the chest angered a Red Vubbe Fighter!
 ETC_20150317_002162	You've collected Canyon Amalas!
@@ -9211,7 +9211,7 @@ ETC_20150317_009211	[Gestor de Mercado]{nl}             Logi
 ETC_20150317_009212	[Treinador de Mascote]{nl}            Christina
 ETC_20150317_009213	[Oficial]{nl} Dortina
 ETC_20150317_009214	[Asas da Vaivora]{nl}            Lena
-ETC_20150317_009215	[Sociedade Mágica de Klaipeda.]{nl}                     Henrika
+ETC_20150317_009215	[Sociedade Mágica de Klaipeda]{nl}                       Henrika
 ETC_20150317_009216	[Mestre Bokor]{nl}Mama Marie Lavoie
 ETC_20150317_009217	Scripture of Prediction
 ETC_20150317_009218	Scripture of Earth
@@ -10019,7 +10019,7 @@ ETC_20150323_010020	User Buy-in Shop
 ETC_20150323_010021	Buff Shop
 ETC_20150323_010022	Crafter is still using the skill.
 ETC_20150323_010023	O refinamento do item foi concluído.
-ETC_20150323_010024	Consume
+ETC_20150323_010024	Consumível
 ETC_20150323_010025	Hire as a Mercenary
 ETC_20150323_010026	{Price} TPs will be consumed to hire for {minuto} minutos. Do you wish to continue?
 ETC_20150323_010027	Fogo the Mercenary
@@ -19201,7 +19201,7 @@ ETC_20151224_019195	Limited Costumes
 ETC_20151224_019196	Pet
 ETC_20151224_019197	Cabelo Masculino
 ETC_20151224_019198	Cabelo Feminino
-ETC_20151224_019199	Appearance
+ETC_20151224_019199	Aparência
 ETC_20151224_019200	Limited Items
 ETC_20151224_019201	[Memo]
 ETC_20151224_019202	You already have this item.
@@ -34661,8 +34661,8 @@ ETC_20180629_034625	 {nl}No records.
 ETC_20180629_034626	Ultimate Ace
 ETC_20180629_034627	Ultimate Ace Ranking
 ETC_20180629_034628	Gemstone Feud começará agora!{nl}A entrada fica em Miners' Village
-ETC_20180629_034629	Sessão 2 do Gemstone Feud começa em 3 minutos.{nl}A entrada fica em Miners' Village.
-ETC_20180629_034630	Sessão 2 do Gemstone Feud começará agora!{nl}A entrada fica em Miners' Village.
+ETC_20180629_034629	Gemstone Feud Sessão 2 começa em 3 minutos.{nl}A entrada fica em Miners' Village.
+ETC_20180629_034630	Gemstone Feud Sessão 2 começará agora!{nl}A entrada fica em Miners' Village.
 ETC_20180629_034631	Mudar Penteado
 ETC_20180629_034632	Comprar Cabelos e Tinturas
 ETC_20180629_034633	Mudar Penteado
@@ -36482,7 +36482,7 @@ ETC_20181017_036396	Music Skill	연주 스킬
 ETC_20181017_036397	Transformation Skill	변신 스킬				
 ETC_20181017_036398	Timed	기간제				
 ETC_20181017_036399	Unidentified	미감정				
-ETC_20181017_036400	Search All	통합 검색				
+ETC_20181017_036400	Busca Geral
 ETC_20181017_036401	Equipment Rental	PC방 대여				
 ETC_20181017_036402	Appearance Items	외형 변환 아이템				
 ETC_20181017_036403	Equipment items that have been {@st47}{s18}enhanced, transcended, added enchant stats, equipped with gems, added sockets or awakened{/}{/} can be dismantled.	{@st47}{s18}강화, 초월, 젬 장착, 소켓 추가, 인챈트 옵션, 각성 {/}{/}된 장비 아이템이 분해될 수 있습니다.	ETC_20180418_032160	Equipment items that have been {@st47}{s18}enhanced, transcended, equipped with gems, added sockets or awakened{/}{/} can be dismantled.	{@st47}{s18}강화, 초월, 젬 장착, 소켓 추가, 각성{/}{/}된 장비 아이템이 분해될 수 있습니다.	
@@ -36567,9 +36567,9 @@ ETC_20181017_036481	This item may not appear in the Market due to a synchronizat
 ETC_20181017_036482	You can purchase only one item at once.	한번에 하나의 아이템만 구매하실 수 있습니다.				
 ETC_20181017_036483	Activation Scrolls	활성화 주문서				
 ETC_20181017_036484	Accessories	액세서리				
-ETC_20181017_036485	Special Gear Materials	특수 장비 강화 소재				
-ETC_20181017_036486	Ichors - Weapons	아이커 - 무기				
-ETC_20181017_036487	Ichors - Armor	아이커 - 방어구				
+ETC_20181017_036485	Materiais Especiais
+ETC_20181017_036486	Ichors - Armas
+ETC_20181017_036487	Ichors - Armaduras
 ETC_20181017_036488	Stats	능력				
 ETC_20181017_036489	The request cannot be executed on an automatching server.	자동 매칭 서버에서는 수행할 수 없습니다.				
 ETC_20181017_036490	Cannot use while the instanced dungeon UI is open. If the problem persists, please restart the game and try again.	인던 신청 UI가 열려 있는 상태에선 신청할 수 없습니다. 문제가 지속된다면 재접속을 해보시기 바랍니다.				
