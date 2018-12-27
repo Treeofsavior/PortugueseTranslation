@@ -953,7 +953,7 @@ ITEM_20150317_000952	It has poor ventilation despite how it looks.
 ITEM_20150317_000953	Chain Pants
 ITEM_20150317_000954	There's no need to take the whole thing apart just because one of the middle rings are missing.
 ITEM_20150317_000955	Chainmail
-ITEM_20150317_000956	Parte de Cima [Placa]
+ITEM_20150317_000956	Parte de Cima [Metal]
 ITEM_20150317_000957	Believe it or not, the crafter claims this equipment offers protection on par with plate armor.
 ITEM_20150317_000958	Mark Gloves
 ITEM_20150317_000959	It has even more overhead for improvement than Chain Gloves due to its better materials.
@@ -5116,9 +5116,9 @@ ITEM_20150714_005115	Yorgis' Fedimian Club
 ITEM_20150714_005116	Luvas [Couro]
 ITEM_20150714_005117	Botas [Couro]
 ITEM_20150714_005118	Calças [Couro]
-ITEM_20150714_005119	Luvas [Placa]
-ITEM_20150714_005120	Botas [Placa]
-ITEM_20150714_005121	Calças [Placa]
+ITEM_20150714_005119	Luvas [Metal]
+ITEM_20150714_005120	Botas [Metal]
+ITEM_20150714_005121	Calças [Metal]
 ITEM_20150714_005122	Luvas [Tecido]
 ITEM_20150714_005123	Botas [Tecido]
 ITEM_20150714_005124	Calças [Tecido]
@@ -15566,7 +15566,7 @@ ITEM_20170912_015559	{#000000}|Efeito| Dano Elemental Terra{img attri_Earth 20 2
 ITEM_20170912_015560	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de usar Pain Barrier Lv1 ao ser atacado.
 ITEM_20170912_015561	{#000000}|Efeito| Defesa contra [Impacto] +[{img star_mark 20 20}*10]
 ITEM_20170912_015562	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros voadores.
-ITEM_20170912_015563	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o dano contra armadura tipo Placa.
+ITEM_20170912_015563	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o dano contra armadura tipo Metal.
 ITEM_20170912_015564	{#000000}|Efeito| STR +[{img star_mark 20 20}]
 ITEM_20170912_015565	{#000000}|Efeito| Dano Elemental Trevas{img attri_Dark 20 20} +[{img star_mark 20 20}*10]
 ITEM_20170912_015566	{#000000}|Efeito| Ataque Crítico +[{img star_mark 20 20}*20]
@@ -17432,7 +17432,7 @@ ITEM_20180208_017418	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de usa
 ITEM_20180208_017419	{#000000}|Efeito| Defesa Física +[{img star_mark 20 20}]% por 10 segundos ao usar poções de HP
 ITEM_20180208_017420	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros Voadores
 ITEM_20180208_017421	{#000000}|Efeito| Ataque Físico +[{img star_mark 20 20}]% por 6 segundos quando usar qualquer tipo de poção de SP
-ITEM_20180208_017422	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o dano contra inimigos que usam armadura de Placa
+ITEM_20180208_017422	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o dano contra inimigos que usam armadura de Metal
 ITEM_20180208_017423	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros do tipo Mutante
 ITEM_20180208_017424	{#000000}|Efeito| Ataque +[{img star_mark 20 20}*7] quando equipado com armas do tipo Perfurante
 ITEM_20180208_017425	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 5% do SP depois de derrotar monstros com Elemento Terra 

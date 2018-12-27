@@ -2796,7 +2796,7 @@ ETC_20150317_002795	Bloqueio
 ETC_20150317_002796	Perfuração de bloqueio
 ETC_20150317_002797	Dano contra armadura de Tecido 
 ETC_20150317_002798	Dano contra armadura de Couro
-ETC_20150317_002799	Dano contra armadura de Placa
+ETC_20150317_002799	Dano contra armadura de Metal
 ETC_20150317_002800	Dano contra armadura Fantasma
 ETC_20150317_002801	Magic Penetration
 ETC_20150317_002802	Item EXP
@@ -2841,7 +2841,7 @@ ETC_20150317_002840	Object
 ETC_20150317_002841	{#000000}Tipo-Inseto {img monster_insect 30 30}
 ETC_20150317_002842	Tecido
 ETC_20150317_002843	Couro
-ETC_20150317_002844	Placa
+ETC_20150317_002844	Metal
 ETC_20150317_002845	Chain
 ETC_20150317_002846	Ghost
 ETC_20150317_002847	This mercenary already belongs to somebody else.
@@ -11431,7 +11431,7 @@ ETC_20150428_011432	Recipe - Superior Key Pendant
 ETC_20150428_011433	Recipe - Sage Necklace
 ETC_20150428_011434	Recipe - Superior Rune Bracelet
 ETC_20150428_011435	Recipe - Star Bracelet
-ETC_20150428_011436	FAQ : Dano de Armas{nl}1) Ataques [Cortantes] são fortes contra armaduras do tipo [Tecido]. {nl}2) Ataques de [Impacto] são fortes contra armaduras do tipo [Placa].{nl}3) Ataques [Perfurante] são fortes contra armaduras do tipo [Couro]. {nl}4) Ataques básicos Mágicos são fortes contra armaduras do tipo Fantasma.
+ETC_20150428_011436	FAQ : Dano de Armas{nl}1) Ataques [Cortantes] são fortes contra armaduras do tipo [Tecido]. {nl}2) Ataques de [Impacto] são fortes contra armaduras do tipo [Metal].{nl}3) Ataques [Perfurante] são fortes contra armaduras do tipo [Couro]. {nl}4) Ataques básicos Mágicos são fortes contra armaduras do tipo Fantasma.
 ETC_20150428_011437	FAQ : Character HP, SP, STA {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and cannot run anymore. {nl} STA is also used when learning certain attributes. {nl} STA can be recovered by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
 ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15. 
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
@@ -31296,7 +31296,7 @@ ETC_20180208_031264	Defesa contra Impacto +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031265	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%% for 10 sec when using HP potions
 ETC_20180208_031266	Dano contra monstros Voadores +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031267	Dano Físico +{@st66d_y}{s16}[%d]{/}{/}%% por 6 sec ao usar potes de SP
-ETC_20180208_031268	Dano contra armadura tipo Placa +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031268	Dano contra armadura tipo Metal +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031269	STR +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031270	Dano adicional Trevas{img attri_Dark 20 20} +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031271	Ataque Crítico +{@st66d_y}{s16}[%d]{/}{/}
