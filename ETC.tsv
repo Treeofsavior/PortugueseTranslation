@@ -1781,7 +1781,7 @@ ETC_20150317_001780	Gloves Effect
 ETC_20150317_001781	Ataque Máximo
 ETC_20150317_001782	Ataque Mínimo
 ETC_20150317_001783	Defense Rate
-ETC_20150317_001784	Chance de Esquiva
+ETC_20150317_001784	Chance de Evasão
 ETC_20150317_001785	Fogo Attack Rate
 ETC_20150317_001786	Skill Ability
 ETC_20150317_001787	Peso: {All} / {Max}
@@ -1807,7 +1807,7 @@ ETC_20150317_001806	Por favor, desmonte do seu mascote para alimentá-lo.
 ETC_20150317_001807	Ataque Físico
 ETC_20150317_001808	Defesa Física
 ETC_20150317_001809	{img green_up_arrow 16 16}Defesa enquanto Montado
-ETC_20150317_001810	{img green_up_arrow 16 16}Esquiva enquanto Montado
+ETC_20150317_001810	{img green_up_arrow 16 16}Evasão enquanto Montado
 ETC_20150317_001811	{img green_up_arrow 16 16}HP enquanto Montado
 ETC_20150317_001812	STR
 ETC_20150317_001813	CON
@@ -2721,7 +2721,7 @@ ETC_20150317_002720	[Construível]
 ETC_20150317_002721	Stamina
 ETC_20150317_002722	Ataque
 ETC_20150317_002723	Attacking Speed
-ETC_20150317_002724	Chance de Crítico
+ETC_20150317_002724	Taxa de Crítico
 ETC_20150317_002725	Durabilidade
 ETC_20150317_002726	Splash
 ETC_20150317_002727	Precisão
@@ -2757,7 +2757,7 @@ ETC_20150317_002756	Rear Attack Range
 ETC_20150317_002757	Use specific skill
 ETC_20150317_002758	Possible
 ETC_20150317_002759	Unavailable
-ETC_20150317_002760	Dano Crítico
+ETC_20150317_002760	Ataque Crítico
 ETC_20150317_002761	Critical Defense
 ETC_20150317_002762	Trocável
 ETC_20150317_002763	N/ Trocável
@@ -3600,7 +3600,7 @@ ETC_20150317_003599	Increase Dark Attack by +10
 ETC_20150317_003600	Increase attack by +5 against Beast types, You can hear what the cat said...
 ETC_20150317_003601	Increase SP recovery by +2
 ETC_20150317_003602	Feels like the chance to acquire item will increase
-ETC_20150317_003603	Aumento na Chance de Crítico
+ETC_20150317_003603	Aumento na Taxa de Crítico
 ETC_20150317_003604	Ataque Aumentado
 ETC_20150317_003605	Defesa Aumentada
 ETC_20150317_003606	Attack increased significantly
@@ -4337,10 +4337,10 @@ ETC_20150317_004336	Preço total: {Auto_1}, Quantidade: {Auto_2} ea
 ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires TP.{nl}Are you sure you want to reset?
-ETC_20150317_004340	{@st59} Aumento em Ataque Físico e Dano Crítico{/}
+ETC_20150317_004340	{@st59} Aumento em Ataque Físico e Ataque Crítico{/}
 ETC_20150317_004341	{@st59} Aumenta HP, HP Recovery, Resistencia a Crítico, Peso Máximo Carregável{/}
 ETC_20150317_004342	{@st59} Aumento em Dano Mágico e Perfuração de bloqueio{/}
-ETC_20150317_004343	{@st59} Aumenta Precisão, Esquiva e Chance de Crítico {/}
+ETC_20150317_004343	{@st59} Aumenta Precisão, Evasão e Taxa de Crítico {/}
 ETC_20150317_004344	] Do you want to use this card?
 ETC_20150317_004345	Distance
 ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
@@ -5854,7 +5854,7 @@ ETC_20150317_005853	Increased Attack Buff
 ETC_20150317_005854	Increased Attack Exponential Buff
 ETC_20150317_005855	Decreased Attack Debuff
 ETC_20150317_005856	Aggressor Buff
-ETC_20150317_005857	Decreased Chance de Esquiva, increased Precisão rate
+ETC_20150317_005857	Decreased Chance de Evasão, increased Precisão rate
 ETC_20150317_005858	Transpose Buff
 ETC_20150317_005859	Convert monster's HP into attack
 ETC_20150317_005860	During throw
@@ -6015,7 +6015,7 @@ ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking o
 ETC_20150317_006015	Status Points
 ETC_20150317_006016	Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006017	You can check your character's abilities in the Character Information window ({img F1 40 40}).
-ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Ataque Físico and Dano Crítico {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Resistencia a Crítico and max Inventory Weight {nl} {nl} INT: Increase in Ataque Mágico and Perfuração de bloqueio {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Precisão, Esquiva and Critical Chance {nl}
+ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Ataque Físico and Ataque Crítico {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Resistencia a Crítico and max Inventory Weight {nl} {nl} INT: Increase in Ataque Mágico and Perfuração de bloqueio {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Precisão, Evasão and Critical Chance {nl}
 ETC_20150317_006020	You can preview the effects of a status when you click 
 ETC_20150317_006021	 in the information tab.
 ETC_20150317_006022	Convenience
@@ -7360,7 +7360,7 @@ ETC_20150317_007360	Precisão +%d
 ETC_20150317_007361	Defense +%d
 ETC_20150317_007362	Defense +%d
 ETC_20150317_007363	Critical Damage Resistance +%d
-ETC_20150317_007364	Esquiva +%d
+ETC_20150317_007364	Evasão +%d
 ETC_20150317_007365	Devil-type +%d
 ETC_20150317_007366	Devil-type Resistance +%d
 ETC_20150317_007367	Plant-type +%d
@@ -8779,7 +8779,7 @@ ETC_20150317_008779	The INT stat increases your Ataque Mágico.
 ETC_20150317_008780	SPR Stat Tip
 ETC_20150317_008781	The SPR stat increases your max SP and SP recovery rate.
 ETC_20150317_008782	DEX Stat Tip
-ETC_20150317_008783	The DEX stat increases your Precisão, Chance de Crítico and Esquiva.
+ETC_20150317_008783	The DEX stat increases your Precisão, Taxa de Crítico and Evasão.
 ETC_20150317_008784	Continuous Attack Tip
 ETC_20150317_008785	Hold down Z to attack continuously.
 ETC_20150317_008786	Stamina Tip
@@ -8871,7 +8871,7 @@ ETC_20150317_008871	Attacking with countering properties on monsters can cause m
 ETC_20150317_008872	Archer Tip
 ETC_20150317_008873	Press and hold the attack button to continuously attack a targeted enemy. You can also move while attacking using the arrow keys.
 ETC_20150317_008874	The attacks of the Archer has a maximum range. Higher damage can be dealt when shooting from afar.
-ETC_20150317_008875	Precisão and Esquiva increases when an Archer-type class gains a level.
+ETC_20150317_008875	Precisão and Evasão increases when an Archer-type class gains a level.
 ETC_20150317_008876	An Archer's basic attack can cause more damage to Flying-type monsters.
 ETC_20150317_008877	Wizard Tip
 ETC_20150317_008878	When a Wizard-type class is attacked during skill casting, the skill can be canceled.
@@ -8956,10 +8956,10 @@ ETC_20150317_008956	Lava
 ETC_20150317_008957	Poison Pot
 ETC_20150317_008958	Resistance
 ETC_20150317_008959	Threat
-ETC_20150317_008960	Chance de Crítico
+ETC_20150317_008960	Taxa de Crítico
 ETC_20150317_008961	Movement Speed
 ETC_20150317_008962	Range
-ETC_20150317_008963	Dano Crítico
+ETC_20150317_008963	Ataque Crítico
 ETC_20150317_008964	Critical Defense
 ETC_20150317_008965	HP Regeneration
 ETC_20150317_008966	SP Regeneration
@@ -12256,8 +12256,8 @@ ETC_20150714_012257	Ataque Físico Mínimo
 ETC_20150714_012258	Amplificação Mágica
 ETC_20150714_012259	Ataque Mágico Mínimo
 ETC_20150714_012260	Ataque Mágico Máximo
-ETC_20150714_012261	Add {Value} Chance de Crítico to your Companion
-ETC_20150714_012262	Add {Value} Esquiva to your Companion
+ETC_20150714_012261	Add {Value} Taxa de Crítico to your Companion
+ETC_20150714_012262	Add {Value} Evasão to your Companion
 ETC_20150714_012263	You don't have the attribute to mount this Companion.
 ETC_20150714_012264	Return to Lodge.
 ETC_20150714_012265	Normal Attack
@@ -13657,7 +13657,7 @@ ETC_20150729_013658	Corpse
 ETC_20150729_013659	Fallen corpse.
 ETC_20150729_013660	Hanging on companion
 ETC_20150729_013661	EXP Jackpot
-ETC_20150729_013662	Increased Esquiva.
+ETC_20150729_013662	Increased Evasão.
 ETC_20150729_013663	Explosion
 ETC_20150729_013664	Explodes upon death.
 ETC_20150729_013665	Resistance
@@ -13695,7 +13695,7 @@ ETC_20150729_013696	Only the areas you have already discovered will be activated
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
 ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
 ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
-ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Ataque Físico and Dano Crítico {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Resistencia a Crítico and Max Inventory Weight {nl} {nl} INT : Increase in Ataque Mágico{nl}{nl} SPR : Increase in Max SP and SP Recovery, Defesa Mágica and Perfuração de bloqueio {nl} {nl} DEX : Increase in Precisão, Esquiva and Critical Chance {nl}
+ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Ataque Físico and Ataque Crítico {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Resistencia a Crítico and Max Inventory Weight {nl} {nl} INT : Increase in Ataque Mágico{nl}{nl} SPR : Increase in Max SP and SP Recovery, Defesa Mágica and Perfuração de bloqueio {nl} {nl} DEX : Increase in Precisão, Evasão and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	You can manage the skills of your character through the Skill window. 
 ETC_20150729_013703	Aperte {img F3 40 40} para abrir a janela de Skill.
@@ -14012,7 +14012,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	You found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Taxa de Exploração {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Exploração Completa
-ETC_20150729_014017	{@st59} Increases Ataque Físico, Dano Crítico and Peso Máximo Carregável{/}
+ETC_20150729_014017	{@st59} Increases Ataque Físico, Ataque Crítico and Peso Máximo Carregável{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Mestre Doppelsoeldner]{nl}          Guerra
@@ -14036,7 +14036,7 @@ ETC_20150730_014037	Damage taken will be shared with the connected objects.
 ETC_20150730_014038	Buff effects will be shared with the connected objects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Dano Crítico and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistencia a Crítico and Max Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Perfuração de bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Esquiva and Chance de Crítico{nl}
+ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistencia a Crítico and Max Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Perfuração de bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTGelo_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -14366,7 +14366,7 @@ ETC_20150918_014367	Stamina {img green_up_arrow 16 16} 10
 ETC_20150918_014368	Darkness Resistencia Elementar {img green_up_arrow 16 16} 10
 ETC_20150918_014369	SPR {img green_up_arrow 16 16} 6
 ETC_20150918_014370	Agvenipa Set
-ETC_20150918_014371	[Backstab] Attack x4{nl}Esquiva {img red_down_arrow 16 16} 188
+ETC_20150918_014371	[Backstab] Attack x4{nl}Evasão {img red_down_arrow 16 16} 188
 ETC_20150918_014372	Bokor Zombie Count
 ETC_20150918_014373	blowSound volume except for my character
 ETC_20150918_014374	Character Advancement Rank Limit
@@ -14593,7 +14593,7 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	{s18}Ataque Físico Secundário
+ETC_20150918_014598	{s18}Ataque Secundário
 ETC_20150918_014599	Secondary Magical Attack
 ETC_20150918_014600	Você deseja bloquear esse usuário?
 ETC_20150918_014601	You cannot 'Like' yet.
@@ -16951,7 +16951,7 @@ ETC_20151102_016945	Retrieve the sacred objects destroyed by the demons
 ETC_20151102_016946	Deliver an item that can overload the Device to Edmundas
 ETC_20151102_016947	Find the Experiment Journal written by a mysterious wizard
 ETC_20151102_016948	Deactivate the Giant Bracken Spore Breeding Device
-ETC_20151102_016949	Increases [Backstab] damage by 4x when attacking an enemy from behind{nl}Esquiva {img red_down_arrow 16 16} 188
+ETC_20151102_016949	Increases [Backstab] damage by 4x when attacking an enemy from behind{nl}Evasão {img red_down_arrow 16 16} 188
 ETC_20151102_016950	Player's Max Level
 ETC_20151102_016951	OptDesc/ - Thrust Skill Lv +1
 ETC_20151102_016952	OptDesc/ - Bash Skill Lv +1
@@ -17141,7 +17141,7 @@ ETC_20151102_017135	OptDesc/ - Feint Skill Lv +1
 ETC_20151102_017136	OptDesc/ - Capture Skill Lv +1
 ETC_20151102_017137	OptDesc/ - Vendetta Skill Lv +1
 ETC_20151102_017138	OptDesc/ - Burrow Skill Lv +1
-ETC_20151102_017139	OptDesc/ - Esquiva Skill Lv +1
+ETC_20151102_017139	OptDesc/ - Evasion Skill Lv +1
 ETC_20151102_017140	OptDesc/ - Lachrymator Skill Lv +1
 ETC_20151102_017141	OptDesc/ - Backstab Skill Lv +1
 ETC_20151102_017142	OptDesc/ - Concentrated Fogo Skill Lv +1
@@ -18038,7 +18038,7 @@ ETC_20151224_018032	{nl} {nl}Press {img Alt 40 40} to immediately stop movement 
 ETC_20151224_018033	{nl} {nl}Places you've never been are not shown on the World Map.
 ETC_20151224_018034	{nl} {nl}You can view the World Map by pressing {img N 40 40}.
 ETC_20151224_018035	{nl} {nl}Hover your mouse cursor on the marked areas,{nl}to view maps which your character has completed so far.
-ETC_20151224_018036	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Dano Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistencia a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Perfuração de bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Esquiva and Chance de Crítico{nl}
+ETC_20151224_018036	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistencia a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Perfuração de bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
 ETC_20151224_018037	{nl} {nl}The effects of the status that you want to invest can be previewed below in the character window.
 ETC_20151224_018038	{nl} {nl}Your skill level increases after clicking on the + button.
 ETC_20151224_018039	{nl} {nl}Some attributes can be turned on or off depending on the circumstances.
@@ -18656,7 +18656,7 @@ ETC_20151224_018650	Magic Power War Objective
 ETC_20151224_018651	Monster and NPC Test
 ETC_20151224_018652	Magic Power Deliver Objective
 ETC_20151224_018653	Karacha Set
-ETC_20151224_018654	Increases [Backstab] damage by 3x when attacking an enemy from behind{nl}Esquiva {img red_down_arrow 16 16} 188
+ETC_20151224_018654	Increases [Backstab] damage by 3x when attacking an enemy from behind{nl}Evasão {img red_down_arrow 16 16} 188
 ETC_20151224_018655	Velnia Monkey Set
 ETC_20151224_018656	DEX {img green_up_arrow 16 16} 6
 ETC_20151224_018657	Elgos Set
@@ -18666,7 +18666,7 @@ ETC_20151224_018660	INT {img green_up_arrow 16 16} 15
 ETC_20151224_018661	Ibre Set
 ETC_20151224_018662	Defesa Física {img green_up_arrow 16 16} 5
 ETC_20151224_018663	Defesa Física {img green_up_arrow 16 16} 10
-ETC_20151224_018664	Esquiva {img green_up_arrow 16 16} 15
+ETC_20151224_018664	Evasão {img green_up_arrow 16 16} 15
 ETC_20151224_018665	Grynas Set
 ETC_20151224_018666	Resistencia Elementar Dark {img green_up_arrow 16 16} 10
 ETC_20151224_018667	Resistencia Elementar Dark {img green_up_arrow 16 16} 20
@@ -18888,7 +18888,7 @@ ETC_20151224_018882	OptDesc/Feint Skill Lv +1
 ETC_20151224_018883	OptDesc/Capture Skill Lv +1
 ETC_20151224_018884	OptDesc/Vendetta Skill Lv +1
 ETC_20151224_018885	OptDesc/Burrow Skill Lv +1
-ETC_20151224_018886	OptDesc/Esquiva Skill Lv +1
+ETC_20151224_018886	OptDesc/Evasion Skill Lv +1
 ETC_20151224_018887	OptDesc/Lachrymator Skill Lv +1
 ETC_20151224_018888	OptDesc/Backstab Skill Lv +1
 ETC_20151224_018889	OptDesc/Concentrated Fogo Skill Lv +1
@@ -20282,7 +20282,7 @@ ETC_20160224_020276	In A Forgotten Place
 ETC_20160224_020277	A letter arrived from Historian Cyrenia Odell.{nl}The demons have secretly invaded the church that was destroyed to keep the secret of the Royal Mausoleum of the Great King Zachariel after its construction. Cyrenia is now looking for someone to stop the demons before they can build up their forces.
 ETC_20160224_020278	Demon Uprising
 ETC_20160224_020279	A message arrived from Goddess Vakarine.{nl}After the Revelators punished the Demon Lords in the Demon Prison, their second-in-command vassals are gathering forces to succeed to their positions. Goddess Vakarine and the Kupoles have yet to recover from recent events and are looking for a Revelator to help stop the demons.
-ETC_20160224_020280	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Dano Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, HP Recovery of Spells and Potions, Block, Resistencia a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico{nl} {nl}- SPR : Increase in Max SP, SP Recovery, SP Recovery of Spells and Potions, Defesa Mágica, Perfurar Bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Esquiva and Chance de Crítico{nl}
+ETC_20160224_020280	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, HP Recovery of Spells and Potions, Block, Resistencia a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico{nl} {nl}- SPR : Increase in Max SP, SP Recovery, SP Recovery of Spells and Potions, Defesa Mágica, Perfurar Bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
 ETC_20160224_020281	Nexon NGS error
 ETC_20160224_020282	Failed to reset IDSpace in XML.
 ETC_20160224_020283	Failed to enter instanced dungeon.
@@ -20437,7 +20437,7 @@ ETC_20160224_020431	SP Recovery {img green_up_arrow 16 16} 100
 ETC_20160224_020432	Ataque Elemental Terra {img green_up_arrow 16 16} 42
 ETC_20160224_020433	INT {img green_up_arrow 16 16} 25
 ETC_20160224_020434	Lolopanther Couro Set
-ETC_20160224_020435	Chance de Crítico {img green_up_arrow 16 16} 46
+ETC_20160224_020435	Taxa de Crítico {img green_up_arrow 16 16} 46
 ETC_20160224_020436	DEX {img green_up_arrow 16 16} 25
 ETC_20160224_020437	Lolopanther Metal Set
 ETC_20160224_020438	HP Recovery {img green_up_arrow 16 16} 100
@@ -21640,7 +21640,7 @@ ETC_20160411_021634	Feint Skill Lv +1
 ETC_20160411_021635	Capture Skill Lv +1
 ETC_20160411_021636	Vendetta Skill Lv +1
 ETC_20160411_021637	Burrow Skill Lv +1
-ETC_20160411_021638	Esquiva Skill Lv +1
+ETC_20160411_021638	Evasion Skill Lv +1
 ETC_20160411_021639	Lachrymator Skill Lv +1
 ETC_20160411_021640	Backstab Skill Lv +1
 ETC_20160411_021641	Concentrated Fogo Skill Lv +1
@@ -22318,7 +22318,7 @@ ETC_20160718_022312	Itens que expiraram não podem ser equipados.
 ETC_20160718_022313	{img star_mark 18 18}{@st41b}{s15}{#2c7e58}Transcendência Estágio {#e3a31b}{Count}{/} - Dano{/}{/}
 ETC_20160718_022314	Transcendência Estágio {img star_mark 19 19}{Count} - Defesa Física
 ETC_20160718_022315	Transcendência Estágio {img star_mark 19 19}{Count} - Precisão
-ETC_20160718_022316	Transcendência Estágio {img star_mark 19 19}{Count} - Esquiva
+ETC_20160718_022316	Transcendência Estágio {img star_mark 19 19}{Count} - Evasão
 ETC_20160718_022317	Transcendência Estágio {img star_mark 19 19}{Count} - Amplificação Mágica
 ETC_20160718_022318	Transcendência Estágio {img star_mark 19 19}{Count} - CON
 ETC_20160718_022319	Transcendência Estágio {img star_mark 19 19}{Count} - Defesa Mágica
@@ -22927,7 +22927,7 @@ ETC_20160723_022921	The {GN} Team has activated the {Obj}.
 ETC_20160723_022922	An object used to summon the guardian has been regenerated.
 ETC_20160723_022923	You cannot participate without being in a guild.
 ETC_20160723_022924	Do you wish to enter an ongoing battle?
-ETC_20160723_022925	{@st59}Increases Physical and Dano Crítico, Perfuração de bloqueio and Peso Máximo Carregável{/}
+ETC_20160723_022925	{@st59}Increases Physical and Ataque Crítico, Perfuração de bloqueio and Peso Máximo Carregável{/}
 ETC_20160723_022926	You either don't have a socket or using all sockets
 ETC_20160723_022927	é requerido.
 ETC_20160723_022928	The Token matches
@@ -26079,8 +26079,8 @@ ETC_20161214_026073	Max. SP {img green_up_arrow 16 16}1437 Increase
 ETC_20161214_026074	Earth Property Additional Damage {img green_up_arrow 16 16}162
 ETC_20161214_026075	Ataque Físico {img green_up_arrow 16 16}571{nl}                         Amplificação Mágica {img green_up_arrow 16 16}69
 ETC_20161214_026076	Solmiki Couro Set
-ETC_20161214_026077	Dano Crítico {img green_up_arrow 16 16}225 Increase{nl}                         Precisão {img green_up_arrow 16 16}100 Increase
-ETC_20161214_026078	Esquiva {img green_up_arrow 16 16}48{nl}                         Chance de Crítico {img green_up_arrow 16 16}72
+ETC_20161214_026077	Ataque Crítico {img green_up_arrow 16 16}225 Increase{nl}                         Precisão {img green_up_arrow 16 16}100 Increase
+ETC_20161214_026078	Evasão {img green_up_arrow 16 16}48{nl}                         Taxa de Crítico {img green_up_arrow 16 16}72
 ETC_20161214_026079	Ataque Físico {img green_up_arrow 16 16}818
 ETC_20161214_026080	Max. HP {img green_up_arrow 16 16}3942 Increase
 ETC_20161214_026081	Ataque Físico {img green_up_arrow 16 16}201{nl}                         5% chance of HP recovery for 5 segundos when attacked by a Devil-type enemy
@@ -27849,15 +27849,15 @@ ETC_20170420_027822	You have unused Rank Cards.{nl}You can reset your Rank after
 ETC_20170420_027823	You don't have enough silver stored.	보관 중인 금액이 부족합니다.				
 ETC_20170420_027824	You have surpassed the Rank at which this card can be used.{nl}Confirm to delete the Rank Card.	이미 사용할 수 있는 랭크를 초과하였습니다.{nl}확인을 누르면 랭크 카드가 삭제됩니다.				
 ETC_20170420_027825	No attributes to apply.	착용할 수 있는 특성이 없습니다.				
-ETC_20170420_027826	Dano Elemental Psíquico		ETC_20161108_025742	Psychokinesis Property Attack	염속성 공격력	
-ETC_20170420_027827	Dano Elemental Fogo{img attri_Fire 23 23}			
-ETC_20170420_027828	Dano Elemental Gelo{img attri_Ice 23 23}			
-ETC_20170420_027829	Dano Elemental Elétrico{img attri_Lightning 23 23} 		
-ETC_20170420_027830	Dano Elemental Terra{img attri_Earth 23 23}	땅 속성 추가 대미지				
-ETC_20170420_027831	Dano Elemental Veneno{img attri_Poison 23 23}	독 속성 추가 대미지				
-ETC_20170420_027832	Dano Elemental Divino{img attri_Holy 23 23}	신성 속성 추가 대미지				
-ETC_20170420_027833	Dano Elemental Trevas{img attri_Dark 23 23}	어둠 속성 추가 대미지				
-ETC_20170420_027834	Dano Elemental Psíquico{img notice_br_link 17 17}	염 속성 추가 대미지				
+ETC_20170420_027826	Dano Adicional: Psíquico{img notice_br_link 17 17}		ETC_20161108_025742	Psychokinesis Property Attack	염속성 공격력	
+ETC_20170420_027827	Dano Adicional: Fogo{img attri_Fire 23 23}			
+ETC_20170420_027828	Dano Adicional: Gelo{img attri_Ice 23 23}			
+ETC_20170420_027829	Dano Adicional: Elétrico{img attri_Lightning 23 23} 		
+ETC_20170420_027830	Dano Adicional: Terra{img attri_Earth 23 23}	땅 속성 추가 대미지				
+ETC_20170420_027831	Dano Adicional: Veneno{img attri_Poison 23 23}	독 속성 추가 대미지				
+ETC_20170420_027832	Dano Adicional: Divino{img attri_Holy 23 23}	신성 속성 추가 대미지				
+ETC_20170420_027833	Dano Adicional: Trevas{img attri_Dark 23 23}	어둠 속성 추가 대미지				
+ETC_20170420_027834	Dano Adicional: Psíquico{img notice_br_link 17 17}	염 속성 추가 대미지				
 ETC_20170420_027835	Você não é a classe certa para este equipamento.	착용할 수 있는 클래스가 아닙니다				
 ETC_20170420_027836	Os requisitos de nível dos materiais consumidos devem ser iguais ou superiores aos dos itens a combinar.	소비재료는 합성무기보다 사용 레벨이 높거나 같아야 합니다.	ETC_20150323_010031	Consume material should have the same or more stars that the item to combine.	소비재료는 합성무기보다 별이 높거나 같아야 합니다.	
 ETC_20170420_027837	You have collected the young leaves!	여린 잎을 채취했습니다!	ETC_20150323_010047	Collected a Young Leaf, but the tough leaf cut you!	여린 잎을 채취했지만 실수로 질긴 잎에 베였습니다!	
@@ -27895,7 +27895,7 @@ ETC_20170420_027868	Failed to apply team name.	팀 이름 적용에 실패했습
 ETC_20170420_027869	A Wendigo jumped out of the chasm along with the key!	열쇠와 함께 틈새에서 웬디고가 튀어나왔습니다!	ETC_20150804_014179	A Wendigo jumped out of the chasm!	틈새에서 웬디고가 튀어나왔습니다!	
 ETC_20170420_027870	{img skillup 25 25}{@st59}Aumenta o ataque físico e a precisão{/}	{@st59}물리 공격력, 명중 증가{/}				
 ETC_20170420_027871	{img skillup 25 25}{@st59}Aumenta o máximo de HP, recuperação da HP, máx. stamina e bloqueio{/}	{@st59}최대 HP, HP 회복력, 최대 스태미나, 블록 증가{/}				
-ETC_20170420_027872	{img skillup 25 25}{@st59}Aumenta a velocidade básica de ataque, ataque crítico, perfuração de bloqueio e esquiva{/}	{@st59}기본 공격 속도, 치명타 공격력, 블록 관통, 회피 증가{/}				
+ETC_20170420_027872	{img skillup 25 25}{@st59}Aumenta a velocidade básica de ataque, ataque crítico, perfuração de bloqueio e Evasão{/}	{@st59}기본 공격 속도, 치명타 공격력, 블록 관통, 회피 증가{/}				
 ETC_20170420_027873	Can no longer store in the team storage.	더 이상 팀 창고에 보관할 수 없습니다.				
 ETC_20170420_027874	Reset Helper	초기화 지원관				
 ETC_20170420_027875	Information Board	안내 게시판	QUEST_20150317_001042	Request Bulletin Board	의뢰 게시판	
@@ -28339,7 +28339,7 @@ ETC_20170726_028312	Festival Toy Kiosk	축제용 장난감 가판대
 ETC_20170726_028313	Festival Balloon Kiosk	축제용 풍선 가판대
 ETC_20170726_028314	CON {img green_up_arrow 16 16} 25	체력 {img green_up_arrow 16 16}25 증가
 ETC_20170726_028315	Aumenta o ataque elemental em valor equivalente à sua resistência elemental{nl}- Todos os Elementos afetados{nl}- Máx. 300 por elemento	속성 저항력만큼 속성 공격력 증가 {nl}- 적용 속성: 독, 불, 얼음, 전기, 독, 어둠, 신성, 땅, 염{nl}- 각 속성당 최대 300까지 전환
-ETC_20170726_028316	Ataque em área {img green_up_arrow 16 16}1{nl}Dano Crítico {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl}                         치명타 공격력 {img green_up_arrow 16 16}231
+ETC_20170726_028316	Ataque em área {img green_up_arrow 16 16}1{nl}Ataque Crítico {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl}                         치명타 공격력 {img green_up_arrow 16 16}231
 ETC_20170726_028317 Chance de causar dano adicional de 2000 a 3000 no inimigo.{Nl}- Chance aumenta com o n° de inimigos próximos.{nl}- Max. Aumento de 20%
 ETC_20170726_028318	HP {img green_up_arrow 16 16}1023{nl}DEX {img green_up_arrow 16 16}10	HP {img green_up_arrow 16 16}1023 증가{nl}                         민첩 {img green_up_arrow 16 16}10
 ETC_20170726_028319	- Aumenta o ataque físico e mágico em 10 por cada golpe recebido.{nl} 50 cargas aumentam o ataque físico e mágico em 500 e mantêm-se por 10 segundos.	1회 피격시 물리, 마법 방어력이 10씩 상승합니다. 50스택 달성시 물리, 마법방어력 500 추가 증가 후 10초간 유지됩니다.
@@ -31299,7 +31299,7 @@ ETC_20180208_031267	Dano Físico +{@st66d_y}{s16}[%d]{/}{/}%% por 6 sec ao usar 
 ETC_20180208_031268	Dano contra armadura tipo Placa +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031269	STR +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031270	Dano adicional Trevas{img attri_Dark 20 20} +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031271	Dano Crítico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031271	Ataque Crítico +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031272	Dano contra monstros Mutantes +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031273	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031274	Efeito de poções de STA +{@st66d_y}{s16}[%d]{/}{/}%%
@@ -31324,7 +31324,7 @@ ETC_20180208_031292	DEX +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{
 ETC_20180208_031293	Dano contra alvos Pequenos +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031294	Veloc. de Mov. +{@st66d_y}{s16}[%d]{/}{/} ao usar armas de Duas-Mãos
 ETC_20180208_031295	Dano contra monstros tipo Terra +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031296	Esquiva +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031296	Evasão +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031297	Dano contra monstros Fera +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031298	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas Impacto
 ETC_20180208_031299	Resistência ao elemento Terra +{@st66d_y}{s16}[%d]{/}{/}
@@ -31410,7 +31410,7 @@ ETC_20180208_031378	INT +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{
 ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 3%% do HP ao ser atingido por mobs Grandes
 ETC_20180208_031380	Resistência ao Elemento fogo +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031381	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031382	Chance de Crítico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031382	Taxa de Crítico +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031383	Provocação por ataque +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031384	Dano em inimigos sangrando + {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031385	Dano em inimigos envenenados + {@st66d_y}{s16}[%d]{/}{/}%%

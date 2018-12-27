@@ -11071,7 +11071,7 @@ ITEM_20160811_011070	{#000000}|Efeito| [Cortante] Defesa +[{img star_mark 20 20}
 ITEM_20160811_011071	{#000000}|Efeito| resistência ao status sangramento +[{img star_mark 20 20}/2]%
 ITEM_20160811_011072	{#000000}|Efeito| resistência critica +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade de Basilisk quando usar Poison Pot
 ITEM_20160811_011073	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
-ITEM_20160811_011074	{#000000}|Efeito| Ataque Físico Secundário máximo +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade do Plokste quando usar Poison Pot
+ITEM_20160811_011074	{#000000}|Efeito| Ataque Secundário máximo +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade do Plokste quando usar Poison Pot
 ITEM_20160811_011075	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
 ITEM_20160811_011076	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 0.5% de SP Quando atacado por monstros do tipo pequeno{nl}[Poison Pot] Ativa a habilidade do Velnewt quando usar Poison Pot
 ITEM_20160811_011077	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: terra em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl}[Poison Pot] Ativa a habilidade do Velpede quando usar Poison Pot
@@ -13105,7 +13105,7 @@ ITEM_20161214_013104	 {#000000}|Efeito| 1% de chance de causar [Atordoar] por 3 
 ITEM_20161214_013105	[Grimório] Invoca Minotaur ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}20s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}192% {img test_cooltime 21 21}30s (Mágico)
 ITEM_20161214_013106	 {#000000}|Efeito| 1% de dano adicional contra monstros do tipo pequeno
 ITEM_20161214_013107	[Grimório] Invoca Mirtis ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}2s (Cortante){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}226% {img test_cooltime 21 21}7s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}413%	{img test_cooltime 21 21}30s (Mágico)
-ITEM_20161214_013108	 {#000000}|Efeito| Esquiva +[{img star_mark 20 20}]
+ITEM_20161214_013108	 {#000000}|Efeito| Evasão +[{img star_mark 20 20}]
 ITEM_20161214_013109	[Grimório] Invoca Velorchard ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}277% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}15s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}186% {img test_cooltime 21 21}45s (Mágico)
 ITEM_20161214_013110	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter 10 venenos de (Wugushi) depois de derrotar monstros do tipo inseto
 ITEM_20161214_013111	[Poison Pot] Ativa a habilidade do Biteregina quando usar Poison Pot
@@ -13163,7 +13163,7 @@ ITEM_20161214_013162	 {@st41b}{s16}{#f98d00}|Efeito| CON +[{img star_mark 20 20}
 ITEM_20161214_013163	[Grimório] Invoca Blut ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}513% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}261% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}155% {img test_cooltime 21 21}30s (Mágico)
 ITEM_20161214_013164	 {#000000}|Efeito| Resistência a Crítico +[{img star_mark 20 20}]
 ITEM_20161214_013165	[Poison Pot] Ativa a habilidade do Basilisk quando usar Poison Pot
-ITEM_20161214_013166	 {#000000}|Efeito| Ataque Físico Secundário máximo +[{img star_mark 20 20}
+ITEM_20161214_013166	 {#000000}|Efeito| Ataque Secundário máximo +[{img star_mark 20 20}
 ITEM_20161214_013167	[Poison Pot] Ativa a habilidade do Plokste quando usar Poison Pot
 ITEM_20161214_013168	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 0.5% de SP quando atacado por monstros do tipo pequeno
 ITEM_20161214_013169	[Poison Pot] Ativa a habilidade do Velnewt quando usar Poison Pot
@@ -15569,7 +15569,7 @@ ITEM_20170912_015562	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dan
 ITEM_20170912_015563	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o dano contra armadura tipo Placa.
 ITEM_20170912_015564	{#000000}|Efeito| STR +[{img star_mark 20 20}]
 ITEM_20170912_015565	{#000000}|Efeito| Dano Elemental Trevas{img attri_Dark 20 20} +[{img star_mark 20 20}*10]
-ITEM_20170912_015566	{#000000}|Efeito| Dano Crítico +[{img star_mark 20 20}*20]
+ITEM_20170912_015566	{#000000}|Efeito| Ataque Crítico +[{img star_mark 20 20}*20]
 ITEM_20170912_015567	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros Mutantes.
 ITEM_20170912_015568	{#000000}|Efeito| Defesa Mágica +[{img star_mark 20 20}*10]
 ITEM_20170912_015569	{#000000}|Efeito| Ataque +[{img star_mark 20 20}*7] quando equipado com armas tipo Perfurante
@@ -15592,7 +15592,7 @@ ITEM_20170912_015585	{#000000}|Efeito| DEX +[{img star_mark 20 20}/2], SPR +[{im
 ITEM_20170912_015586	{@st41b}{s16}{#f98d00}|Efeito| Aumenta o dano em [{img star_mark 20 20}/2]% contra mosntros de tamanho Pequeno
 ITEM_20170912_015587	{#000000}|Efeito| Velocidade de Ataque{img tooltip_speedofatk} +[{img star_mark 20 20}] quando equipado com armas de duas mãos
 ITEM_20170912_015588	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros da propriedade Terra
-ITEM_20170912_015589	{#000000}|Efeito| Esquiva +[{img star_mark 20 20} * 2]
+ITEM_20170912_015589	{#000000}|Efeito| Evasão +[{img star_mark 20 20} * 2]
 ITEM_20170912_015590	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros do tipo feral
 ITEM_20170912_015591	{#000000}|Efeito| Ataque +[{img star_mark 20 20}*7] quando equipado com armas tipo Impacto
 ITEM_20170912_015592	{#000000}|Efeito| Resistencia a propriedade Terra +[{img star_mark 20 20}*10]
@@ -15663,7 +15663,7 @@ ITEM_20170912_015656	{#000000}|Efeito| HP Máximo +[{img star_mark 20 20} * 180]
 ITEM_20170912_015657	{#000000}|Efeito| [{img star_mark 20 20}/3]% chance of attack inflicting Slow for 3 seconds
 ITEM_20170912_015658	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de recuperar 2% do HP quando atingido por monstros tamanho Médio
 ITEM_20170912_015659	{#000000}|Efeito| Resistência a Atordoar +[{img star_mark 20 20} * 2]%
-ITEM_20170912_015660	{#000000}|Efeito| Máximo ataque físico secundário +[{img star_mark 20 20}*3]
+ITEM_20170912_015660	{#000000}|Efeito| Máximo Ataque Secundário +[{img star_mark 20 20}*3]
 ITEM_20170912_015661	{#000000}|Efeito| Dano Elemental Gelo{img attri_Ice 20 20} +[{img star_mark 20 20}*10]
 ITEM_20170912_015662	{#000000}|Efeito| STR +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2] 
 ITEM_20170912_015663	{#000000}|Efeito| Dano Elemental Fogo{img attri_Fire 20 20} +[{img star_mark 20 20}*10]
@@ -15671,7 +15671,7 @@ ITEM_20170912_015664	{#000000}|Efeito| INT +[{img star_mark 20 20}/2], SPR +[{im
 ITEM_20170912_015665	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de recuperar 3% de HP quando atingido por monstros de tamanho Grande
 ITEM_20170912_015666	{#000000}|Efeito| Resistência Elemental Fogo{img attri_Fire 20 20} +[{img star_mark 20 20}*10]
 ITEM_20170912_015667	{#f98d00}Marnox Card{/}
-ITEM_20170912_015668	{@st41b}{s16}{#f98d00}|Efeito| Chance de Crítico +[{img star_mark 20 20} * 1.5]
+ITEM_20170912_015668	{@st41b}{s16}{#f98d00}|Efeito| Taxa de Crítico +[{img star_mark 20 20} * 1.5]
 ITEM_20170912_015669	[Grimório] Invoca Marnox ao usar Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 22 22}Ataque: {img tooltip_speedofatk 20 20}296%{s15} {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 21 21}Skill 1: {img tooltip_speedofatk 20 20}423% {img test_cooltime 21 21}20s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}287%{img attri_Fire 20 20} {img test_cooltime 21 21}35s (Mágico)
 ITEM_20170912_015670	{#f98d00}Zaura Card{/}
 ITEM_20170912_015671	{@st41b}{s16}{#f98d00}|Efeito| Defesa Física +[{img star_mark 20 20}]%
@@ -16289,7 +16289,7 @@ ITEM_20171128_016282	Primus Migatis Rapier
 ITEM_20171128_016283	Primus Pevordimas Rapier
 ITEM_20171128_016284	Primus Raffy Rapier
 ITEM_20171128_016285	Masinios Rapier
-ITEM_20171128_016286	{@st41b}{s16}{#f98d00} - 15% de chance de, ao atacar, obter o status [Afiação] por 5 segundos. Quando [Afiação] acumular 5 vezes, seu próximo ataque básico golpeará 5 vezes.{nl} {nl}[Afiação]{nl} - Dano Crítico {img green_up_arrow 16 16} 60
+ITEM_20171128_016286	{@st41b}{s16}{#f98d00} - 15% de chance de, ao atacar, obter o status [Afiação] por 5 segundos. Quando [Afiação] acumular 5 vezes, seu próximo ataque básico golpeará 5 vezes.{nl} {nl}[Afiação]{nl} - Ataque Crítico {img green_up_arrow 16 16} 60
 ITEM_20171128_016287	According to one theory, the reason that Masinios became a wizard and devoted himself to the machine is contradictory, but it is due to Agailla Flurry, the ultimate wizard of all time. It is argued that she was attracted to the machine installed in the tower of the wizard she created. This rapier is said to be the work of the time when Masinios still considered magic and added machines.
 ITEM_20171128_016288	(Faded) Replica Migantis Cannon
 ITEM_20171128_016289	(Faded)  Replica Pevordimas Cannon
@@ -17722,7 +17722,7 @@ ITEM_20180320_017708	Shining Golden Socket
 ITEM_20180320_017709	{#f98d00}Helgasercle Card{/}
 ITEM_20180320_017710	[Grimório] Invoca Helgasercle ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}1s (Cortante){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}301% {img test_cooltime 21 21}30s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}231% {img test_cooltime 21 21}50s (Mágico)
 ITEM_20180320_017711	{@st42}{s17}{#f7bd00}Demon Lord Marnox Card
-ITEM_20180320_017712	{@st41b}{s16}{#f7bd00}|Efeito| Chance de Crítico mínima +[{img star_mark 20 20}*2]%
+ITEM_20180320_017712	{@st41b}{s16}{#f7bd00}|Efeito| Taxa de Crítico mínima +[{img star_mark 20 20}*2]%
 ITEM_20180320_017713	[Grimório] Invoca Demon Lord Marnox ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 22 22}Ataque: {img tooltip_speedofatk 20 20}296%{s15} {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 21 21}Skill 1: {img tooltip_speedofatk 20 20}423% {img test_cooltime 21 21}20s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}287%{img attri_Fire 20 20} {img test_cooltime 21 21}35s (Mágico)
 ITEM_20180320_017714	{@st42}{s17}{#f7bd00}Demon Lord Blut Card
 ITEM_20180320_017715	{@st41b}{s16}{#f7bd00}|Efeito| Reduz em [{img star_mark 20 20}*3]% o dano recebido em PVP
