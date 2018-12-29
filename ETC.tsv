@@ -2725,7 +2725,7 @@ ETC_20150317_002724	Taxa de Crítico
 ETC_20150317_002725	Durabilidade
 ETC_20150317_002726	Splash
 ETC_20150317_002727	Precisão
-ETC_20150317_002728	Resistencia a Crítico
+ETC_20150317_002728	Resistência a Crítico
 ETC_20150317_002729	Splash Defense
 ETC_20150317_002730	INT
 ETC_20150317_002731	SPR
@@ -2771,17 +2771,17 @@ ETC_20150317_002770	Ataque Elemental: Divino
 ETC_20150317_002771	Ataque Elemental: Trevas
 ETC_20150317_002772	Velocidade de Movimento
 ETC_20150317_002773	Recuperação de HP
-ETC_20150317_002774	Dano contra monstros Planta{img monster_plant 24 24}
-ETC_20150317_002775	Dano contra monstros Fera{img monster_wild 24 24}
-ETC_20150317_002776	Dano contra monstros Demônio{img monster_devil 24 24}
-ETC_20150317_002777	Dano contra monstros Mutante{img monster_variation 24 24}
+ETC_20150317_002774	Ataque Contra Planta{img monster_plant 24 24}
+ETC_20150317_002775	Ataque Contra Fera{img monster_wild 24 24}
+ETC_20150317_002776	Ataque Contra Demônio{img monster_devil 24 24}
+ETC_20150317_002777	Ataque Contra Mutante{img monster_variation 24 24}
 ETC_20150317_002778	Ataque Elemental: Vento
-ETC_20150317_002779	Resistencia Elemental: Fogo
-ETC_20150317_002780	Resistencia Elemental: Gelo
-ETC_20150317_002781	Resistencia Elemental: Veneno
-ETC_20150317_002782	Resistencia Elemental: Eletrico
-ETC_20150317_002783	Resistencia Elemental: Divino
-ETC_20150317_002784	Resistencia Elemental: Trevas
+ETC_20150317_002779	Resistência: Fogo
+ETC_20150317_002780	Resistência: Gelo
+ETC_20150317_002781	Resistência: Veneno
+ETC_20150317_002782	Resistência: Elétrico
+ETC_20150317_002783	Resistência: Divino
+ETC_20150317_002784	Resistência: Trevas
 ETC_20150317_002785	Taxa de Ataque em Área
 ETC_20150317_002786	Taxa de Defesa em Área
 ETC_20150317_002787	2% de chance de +300 de dano adicional ao atacar
@@ -2793,7 +2793,7 @@ ETC_20150317_002792	Dano contra alvos Pequenos
 ETC_20150317_002793	Dano contra alvos Médios
 ETC_20150317_002794	Dano contra alvos Grandes
 ETC_20150317_002795	Bloqueio
-ETC_20150317_002796	Perfuração de bloqueio
+ETC_20150317_002796	Penetração de Bloqueio
 ETC_20150317_002797	Dano contra armadura de Tecido 
 ETC_20150317_002798	Dano contra armadura de Couro
 ETC_20150317_002799	Dano contra armadura de Metal
@@ -2802,9 +2802,9 @@ ETC_20150317_002801	Magic Penetration
 ETC_20150317_002802	Item EXP
 ETC_20150317_002803	Shooting Distance
 ETC_20150317_002804	Speed
-ETC_20150317_002805	Dano contra monstros Inseto{img monster_insect 24 24}
+ETC_20150317_002805	Ataque Contra Inseto{img monster_insect 24 24}
 ETC_20150317_002806	Ataque Elemental: Terra
-ETC_20150317_002807	Resistencia Elemental: Terra
+ETC_20150317_002807	Resistência: Terra
 ETC_20150317_002808	Physical Damage when mounted
 ETC_20150317_002809	Magic Damage when mounted
 ETC_20150317_002810	Defesa Perfurante
@@ -2958,7 +2958,7 @@ ETC_20150317_002957	Fantasma
 ETC_20150317_002958	Sem atributo
 ETC_20150317_002959	Fogo
 ETC_20150317_002960	Agua
-ETC_20150317_002961	Eletrico
+ETC_20150317_002961	Elétrico
 ETC_20150317_002962	Veneno
 ETC_20150317_002963	Trevas
 ETC_20150317_002964	Divino
@@ -4338,8 +4338,8 @@ ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires TP.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{@st59} Aumento em Ataque Físico e Ataque Crítico{/}
-ETC_20150317_004341	{@st59} Aumenta HP, HP Recovery, Resistencia a Crítico, Peso Máximo Carregável{/}
-ETC_20150317_004342	{@st59} Aumento em Dano Mágico e Perfuração de bloqueio{/}
+ETC_20150317_004341	{@st59} Aumenta HP, HP Recovery, Resistência a Crítico, Peso Máximo Carregável{/}
+ETC_20150317_004342	{@st59} Aumento em Dano Mágico e Penetração de Bloqueio{/}
 ETC_20150317_004343	{@st59} Aumenta Precisão, Evasão e Taxa de Crítico {/}
 ETC_20150317_004344	] Do you want to use this card?
 ETC_20150317_004345	Distance
@@ -5822,11 +5822,11 @@ ETC_20150317_005821	Invincibility
 ETC_20150317_005822	You temporarily become invincible, but cannot execute any attacks.
 ETC_20150317_005823	Kubus
 ETC_20150317_005824	Kubus: Flame
-ETC_20150317_005825	Increased Resistencia Elementar Fogo of Kubus.
+ETC_20150317_005825	Increased Resistência Elementar Fogo of Kubus.
 ETC_20150317_005826	Kubus: Water
-ETC_20150317_005827	Increased Resistencia Elemental: Gelo of Kubus.
+ETC_20150317_005827	Increased Resistência Elemental: Gelo of Kubus.
 ETC_20150317_005828	Kubus: Tempest
-ETC_20150317_005829	Increased Resistencia Elemental: Elétrico of Kubus.
+ETC_20150317_005829	Increased Resistência Elemental: Elétrico of Kubus.
 ETC_20150317_005830	Dispel Magic
 ETC_20150317_005831	Dispel Ataque Mágico
 ETC_20150317_005832	Ataque Físico Accumulation
@@ -6015,7 +6015,7 @@ ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking o
 ETC_20150317_006015	Status Points
 ETC_20150317_006016	Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006017	You can check your character's abilities in the Character Information window ({img F1 40 40}).
-ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Ataque Físico and Ataque Crítico {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Resistencia a Crítico and max Inventory Weight {nl} {nl} INT: Increase in Ataque Mágico and Perfuração de bloqueio {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Precisão, Evasão and Critical Chance {nl}
+ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Ataque Físico and Ataque Crítico {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Resistência a Crítico and max Inventory Weight {nl} {nl} INT: Increase in Ataque Mágico and Penetração de Bloqueio {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Precisão, Evasão and Critical Chance {nl}
 ETC_20150317_006020	You can preview the effects of a status when you click 
 ETC_20150317_006021	 in the information tab.
 ETC_20150317_006022	Convenience
@@ -7992,7 +7992,7 @@ ETC_20150317_007992	Additional Darkness Property Damage +30
 ETC_20150317_007993	Jude Set
 ETC_20150317_007994	Movement Speed +5
 ETC_20150317_007995	Ismin Set
-ETC_20150317_007996	Resistencia Elemental: Fogo +15
+ETC_20150317_007996	Resistência Elemental: Fogo +15
 ETC_20150317_007997	Poratore Set
 ETC_20150317_007998	Divino Property Damage +168 {nl} Dark Property Damage +168
 ETC_20150317_007999	Cafrisun Set
@@ -8000,7 +8000,7 @@ ETC_20150317_008000	HP Recovery +16
 ETC_20150317_008001	All Stats +1
 ETC_20150317_008002	Earth Property Damage +12
 ETC_20150317_008003	Riena Set
-ETC_20150317_008004	Resistencia Elemental: Fogo +16
+ETC_20150317_008004	Resistência Elemental: Fogo +16
 ETC_20150317_008005	N/A
 ETC_20150317_008006	N/A
 ETC_20150317_008007	N/A
@@ -8773,7 +8773,7 @@ ETC_20150317_008773	Press Z to attack.
 ETC_20150317_008774	STR Stat Tip
 ETC_20150317_008775	The STR stat increases your physical damage and critical damage. 
 ETC_20150317_008776	CON Stat Tip
-ETC_20150317_008777	The CON stat increases your max HP, HP recovery rate, inventory weight, Resistencia a Crítico and shield Chance de Bloqueio.
+ETC_20150317_008777	The CON stat increases your max HP, HP recovery rate, inventory weight, Resistência a Crítico and shield Chance de Bloqueio.
 ETC_20150317_008778	INT Stat Tip
 ETC_20150317_008779	The INT stat increases your Ataque Mágico.
 ETC_20150317_008780	SPR Stat Tip
@@ -11374,7 +11374,7 @@ ETC_20150428_011375	Gives additional Earth property damage when receiving Ataque
 ETC_20150428_011376	Earth Leather Armor Set
 ETC_20150428_011377	Earth Metal Armor Set
 ETC_20150428_011378	Legwyn Family's Tecido Armor Set
-ETC_20150428_011379	Resistencia Elemental: Dark +10
+ETC_20150428_011379	Resistência Elemental: Dark +10
 ETC_20150428_011380	SPR +6
 ETC_20150428_011381	1% chance of recovering 200 SP for 5 segundos when attacked by a Devil-type enemy
 ETC_20150428_011382	Legwyn Family's Leather Armor Set
@@ -13609,7 +13609,7 @@ ETC_20150717_013610	Suspicious Crystal
 ETC_20150717_013611	Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} Silver obtained.
-ETC_20150717_013614	{@st59}Aumento em SP Máx, Recuperação de SP e Perfuração de bloqueio{/}
+ETC_20150717_013614	{@st59}Aumento em SP Máx, Recuperação de SP e Penetração de Bloqueio{/}
 ETC_20150717_013615	{@st59}Aumenta o Ataque Mágico{/}
 ETC_20150729_013616	Colimen
 ETC_20150729_013617	Minas
@@ -13665,7 +13665,7 @@ ETC_20150729_013666	Damage Weapon
 ETC_20150729_013667	Potential decrease when using Ataque Físico
 ETC_20150729_013668	Arrow Resistance
 ETC_20150729_013669	Increased resistance against arrow attacks.
-ETC_20150729_013670	Resistencia Elementar
+ETC_20150729_013670	Resistência Elementar
 ETC_20150729_013671	Magic resistance increase based on property
 ETC_20150729_013672	Level Up
 ETC_20150729_013673	Mutant type monsters level up instead of sleeping when casted with sleep type debuff.
@@ -13695,7 +13695,7 @@ ETC_20150729_013696	Only the areas you have already discovered will be activated
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
 ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
 ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
-ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Ataque Físico and Ataque Crítico {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Resistencia a Crítico and Max Inventory Weight {nl} {nl} INT : Increase in Ataque Mágico{nl}{nl} SPR : Increase in Max SP and SP Recovery, Defesa Mágica and Perfuração de bloqueio {nl} {nl} DEX : Increase in Precisão, Evasão and Critical Chance {nl}
+ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Ataque Físico and Ataque Crítico {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Resistência a Crítico and Max Inventory Weight {nl} {nl} INT : Increase in Ataque Mágico{nl}{nl} SPR : Increase in Max SP and SP Recovery, Defesa Mágica and Penetração de Bloqueio {nl} {nl} DEX : Increase in Precisão, Evasão and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	You can manage the skills of your character through the Skill window. 
 ETC_20150729_013703	Aperte {img F3 40 40} para abrir a janela de Skill.
@@ -13963,7 +13963,7 @@ ETC_20150729_013964	This monster has a detonator!
 ETC_20150729_013965	The terminal rejected accesss!
 ETC_20150729_013966	You will lost your energy to the terminal for 1 minuto!{nl}Svitrigaila could eliminate all the evil energy!
 ETC_20150729_013967	Obtained all core required.
-ETC_20150729_013968	{@st59}Increases Max SP, SP Recovery, Perfuração de bloqueio and Defesa Mágica{/}
+ETC_20150729_013968	{@st59}Increases Max SP, SP Recovery, Penetração de Bloqueio and Defesa Mágica{/}
 ETC_20150729_013969	You hear the sounds of working machinery!{nl}Go to District 5 and look for lubricant.
 ETC_20150729_013970	Asking about the eternal life
 ETC_20150729_013971	SacrifGelo a Big Siaulamb Sinew as an offering
@@ -14036,7 +14036,7 @@ ETC_20150730_014037	Damage taken will be shared with the connected objects.
 ETC_20150730_014038	Buff effects will be shared with the connected objects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistencia a Crítico and Max Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Perfuração de bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
+ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistência a Crítico and Max Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Penetração de Bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTGelo_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -14187,19 +14187,19 @@ ETC_20150807_014188	Dano Elemental Elétrico{img attri_Lightning 23 23} {img red
 ETC_20150807_014189	Defesa {img red_up_arrow 16 16} 6
 ETC_20150807_014190	Dano Elemental Trevas{img attri_Dark 23 23} {img red_up_arrow 16 16} 30
 ETC_20150807_014191	Veloc. de Movimento {img red_up_arrow 16 16} 5
-ETC_20150807_014192	Resistencia Elementar Fogo {img red_up_arrow 16 16} 15
+ETC_20150807_014192	Resistência Elementar Fogo {img red_up_arrow 16 16} 15
 ETC_20150807_014193	Ataque Elemental Divino {img red_up_arrow 16 16} 168{nl}Ataque Elemental Trevas {img red_up_arrow 16 16} 168
 ETC_20150807_014194	HP Recovery {img red_up_arrow 16 16} 16
 ETC_20150807_014195	Todos os Stats {img red_up_arrow 16 16} 1
 ETC_20150807_014196	Adiciona um Hit Extra de Terra no valor de {img red_up_arrow 13 13}12 no ataque básico 
-ETC_20150807_014197	Resistencia Elemental Fogo {img red_up_arrow 16 16} 16
+ETC_20150807_014197	Resistência Elemental Fogo {img red_up_arrow 16 16} 16
 ETC_20150807_014198	Dano contra monstros Demônio {img red_up_arrow 16 16} 6
 ETC_20150807_014199	Dano contra monstros Demônio {img red_up_arrow 16 16} 8 por 30 segundos em 1% chance ao usar ataques básicos
 ETC_20150807_014200	1% de chance de aumentar o dano contra monstros Demônio em {img red_up_arrow 16 16} 157 por 30 segundos
 ETC_20150807_014201	Todos os Stats {img red_up_arrow 16 16} 3
 ETC_20150807_014202	CON {img red_up_arrow 16 16} 5
 ETC_20150807_014203	STA {img red_up_arrow 16 16} 10
-ETC_20150807_014204	Resistencia Elemental Trevas{img red_up_arrow 16 16} 10
+ETC_20150807_014204	Resistência Elemental Trevas{img red_up_arrow 16 16} 10
 ETC_20150807_014205	SPR {img red_up_arrow 16 16} 6
 ETC_20150807_014206	Group Settings {img white_right_arrow 18 18}
 ETC_20150807_014207	{@st41b}Fold {img red_up_arrow 16 16} 
@@ -14356,14 +14356,14 @@ ETC_20150918_014357	Ataque Elemental Divino {img green_up_arrow 16 16}168{nl}Dan
 ETC_20150918_014358	HP Recovery {img green_up_arrow 16 16} 16
 ETC_20150918_014359	Todos os Stats {img green_up_arrow 16 16} 1
 ETC_20150918_014360	Earth Property Additional Damage {img green_up_arrow 16 16} 12
-ETC_20150918_014361	Resistencia Elementar Fogo {img green_up_arrow 16 16} 16
+ETC_20150918_014361	Resistência Elementar Fogo {img green_up_arrow 16 16} 16
 ETC_20150918_014362	Dano contra monstros Devil {img green_up_arrow 16 16} 6
 ETC_20150918_014363	Dano contra monstros Devil {img green_up_arrow 16 16} 8
 ETC_20150918_014364	1% chance to gain 30 segundos of increased Dano contra monstros Devil by {img green_up_arrow 16 16} 157 
 ETC_20150918_014365	Todos os Stats {img green_up_arrow 16 16} 3
 ETC_20150918_014366	CON {img green_up_arrow 16 16} 5
 ETC_20150918_014367	Stamina {img green_up_arrow 16 16} 10
-ETC_20150918_014368	Darkness Resistencia Elementar {img green_up_arrow 16 16} 10
+ETC_20150918_014368	Darkness Resistência Elementar {img green_up_arrow 16 16} 10
 ETC_20150918_014369	SPR {img green_up_arrow 16 16} 6
 ETC_20150918_014370	Agvenipa Set
 ETC_20150918_014371	[Backstab] Attack x4{nl}Evasão {img red_down_arrow 16 16} 188
@@ -14593,7 +14593,7 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	{s18}Ataque Secundário
+ETC_20150918_014598	{s18}Atq. Físico Secundário
 ETC_20150918_014599	Secondary Magical Attack
 ETC_20150918_014600	Você deseja bloquear esse usuário?
 ETC_20150918_014601	You cannot 'Like' yet.
@@ -16584,7 +16584,7 @@ ETC_20151102_016578	I'm sorry. Please leave
 ETC_20151102_016579	We came to investigate...
 ETC_20151102_016580	Namott
 ETC_20151102_016581	Namott Divino Water Effect: Invisible to demons
-ETC_20151102_016582	Reduced Resistencia Elementar Gelo
+ETC_20151102_016582	Reduced Resistência Elementar Gelo
 ETC_20151102_016583	Psychokinesis Scroll's Effect
 ETC_20151102_016584	You're currently affected by the Psychokinesis Scroll.
 ETC_20151102_016585	Pearl Powder
@@ -18038,7 +18038,7 @@ ETC_20151224_018032	{nl} {nl}Press {img Alt 40 40} to immediately stop movement 
 ETC_20151224_018033	{nl} {nl}Places you've never been are not shown on the World Map.
 ETC_20151224_018034	{nl} {nl}You can view the World Map by pressing {img N 40 40}.
 ETC_20151224_018035	{nl} {nl}Hover your mouse cursor on the marked areas,{nl}to view maps which your character has completed so far.
-ETC_20151224_018036	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistencia a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Perfuração de bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
+ETC_20151224_018036	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistência a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Penetração de Bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
 ETC_20151224_018037	{nl} {nl}The effects of the status that you want to invest can be previewed below in the character window.
 ETC_20151224_018038	{nl} {nl}Your skill level increases after clicking on the + button.
 ETC_20151224_018039	{nl} {nl}Some attributes can be turned on or off depending on the circumstances.
@@ -18668,8 +18668,8 @@ ETC_20151224_018662	Defesa Física {img green_up_arrow 16 16} 5
 ETC_20151224_018663	Defesa Física {img green_up_arrow 16 16} 10
 ETC_20151224_018664	Evasão {img green_up_arrow 16 16} 15
 ETC_20151224_018665	Grynas Set
-ETC_20151224_018666	Resistencia Elementar Dark {img green_up_arrow 16 16} 10
-ETC_20151224_018667	Resistencia Elementar Dark {img green_up_arrow 16 16} 20
+ETC_20151224_018666	Resistência Elementar Dark {img green_up_arrow 16 16} 10
+ETC_20151224_018667	Resistência Elementar Dark {img green_up_arrow 16 16} 20
 ETC_20151224_018668	HP {img green_up_arrow 16 16}1020
 ETC_20151224_018669	{img green_up_arrow 16 16} 6 Defesa Mágica, {img red_down_arrow 16 16} 6 Defesa Física for 30 segundos with every basic and Ataque Físico{nl}Increases Divino and Ataque Elemental Dark equal to 7.5% Defesa Mágica for 10 segundos when stacked 20 times
 ETC_20151224_018670	Minimum Combo Count
@@ -20282,7 +20282,7 @@ ETC_20160224_020276	In A Forgotten Place
 ETC_20160224_020277	A letter arrived from Historian Cyrenia Odell.{nl}The demons have secretly invaded the church that was destroyed to keep the secret of the Royal Mausoleum of the Great King Zachariel after its construction. Cyrenia is now looking for someone to stop the demons before they can build up their forces.
 ETC_20160224_020278	Demon Uprising
 ETC_20160224_020279	A message arrived from Goddess Vakarine.{nl}After the Revelators punished the Demon Lords in the Demon Prison, their second-in-command vassals are gathering forces to succeed to their positions. Goddess Vakarine and the Kupoles have yet to recover from recent events and are looking for a Revelator to help stop the demons.
-ETC_20160224_020280	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, HP Recovery of Spells and Potions, Block, Resistencia a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico{nl} {nl}- SPR : Increase in Max SP, SP Recovery, SP Recovery of Spells and Potions, Defesa Mágica, Perfurar Bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
+ETC_20160224_020280	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, HP Recovery of Spells and Potions, Block, Resistência a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico{nl} {nl}- SPR : Increase in Max SP, SP Recovery, SP Recovery of Spells and Potions, Defesa Mágica, Perfurar Bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
 ETC_20160224_020281	Nexon NGS error
 ETC_20160224_020282	Failed to reset IDSpace in XML.
 ETC_20160224_020283	Failed to enter instanced dungeon.
@@ -20662,7 +20662,7 @@ ETC_20160224_020656	Storing an item in Team Storage{nl}reduces its Potential.{nl
 ETC_20160224_020657	Storing an item in Team Storage{nl}reduces the number of items you can trade.{nl}Do you still want to store it?
 ETC_20160224_020658	You've exhausted your available trades.
 ETC_20160224_020659	Golpes de Impacto
-ETC_20160224_020660	Defesa contra golpes de Impacto
+ETC_20160224_020660	Defesa Contra Impacto
 ETC_20160224_020661	Encanto
 ETC_20160224_020662	Esta Coleção é compartilhada com seu time.{nl}O item não pode ser devolvido depois de ter sido adicionado. Gostaria de adicionar?
 ETC_20160224_020663	Você já registrou esta receita.
@@ -22927,7 +22927,7 @@ ETC_20160723_022921	The {GN} Team has activated the {Obj}.
 ETC_20160723_022922	An object used to summon the guardian has been regenerated.
 ETC_20160723_022923	You cannot participate without being in a guild.
 ETC_20160723_022924	Do you wish to enter an ongoing battle?
-ETC_20160723_022925	{@st59}Increases Physical and Ataque Crítico, Perfuração de bloqueio and Peso Máximo Carregável{/}
+ETC_20160723_022925	{@st59}Increases Physical and Ataque Crítico, Penetração de Bloqueio and Peso Máximo Carregável{/}
 ETC_20160723_022926	You either don't have a socket or using all sockets
 ETC_20160723_022927	é requerido.
 ETC_20160723_022928	The Token matches
@@ -25747,7 +25747,7 @@ ETC_20161108_025741	O Rank reset começou. Aguarde...
 ETC_20161108_025742	Ataque Elemental: Psíquico
 ETC_20161108_025743	Unable to use this item in its current state.
 ETC_20161108_025744	Ataque Elemental: Psíquico
-ETC_20161108_025745	Resistencia Elemental: Psíquico
+ETC_20161108_025745	Resistência: Psíquico
 ETC_20161108_025746	Unable to use while joined by a companion.
 ETC_20161108_025747	Unregistered job. Please contact the management team.
 ETC_20161112_025748	Instanced Dungeon: 1 Entry Voucher (14 dias)
@@ -26426,7 +26426,7 @@ ETC_20170126_026420	Right-click to use and obtain the following items.{nl} - Han
 ETC_20170213_026421	A title given to the winners of the Fan Art Fest: The Art of Loving event.
 ETC_20170213_026422	Tile Resistance
 ETC_20170213_026423	Receive less damage from tile attacks.
-ETC_20170213_026424	Resistencia a Joint Penalty
+ETC_20170213_026424	Resistência a Joint Penalty
 ETC_20170213_026425	Contagem total de entrada de instâncias e missões em DB Y/N. 1=Y
 ETC_20170213_026426	Forcefully restores mission instance after specific time if not yet restored (seconds)
 ETC_20170213_026427	Recipe - Valentine Chocolates
@@ -27895,7 +27895,7 @@ ETC_20170420_027868	Failed to apply team name.	팀 이름 적용에 실패했습
 ETC_20170420_027869	A Wendigo jumped out of the chasm along with the key!	열쇠와 함께 틈새에서 웬디고가 튀어나왔습니다!	ETC_20150804_014179	A Wendigo jumped out of the chasm!	틈새에서 웬디고가 튀어나왔습니다!	
 ETC_20170420_027870	{img skillup 25 25}{@st59}Aumenta o ataque físico e a precisão{/}	{@st59}물리 공격력, 명중 증가{/}				
 ETC_20170420_027871	{img skillup 25 25}{@st59}Aumenta o máximo de HP, recuperação da HP, máx. stamina e bloqueio{/}	{@st59}최대 HP, HP 회복력, 최대 스태미나, 블록 증가{/}				
-ETC_20170420_027872	{img skillup 25 25}{@st59}Aumenta a velocidade básica de ataque, ataque crítico, perfuração de bloqueio e Evasão{/}	{@st59}기본 공격 속도, 치명타 공격력, 블록 관통, 회피 증가{/}				
+ETC_20170420_027872	{img skillup 25 25}{@st59}Aumenta a velocidade básica de ataque, ataque crítico, Penetração de Bloqueio e Evasão{/}	{@st59}기본 공격 속도, 치명타 공격력, 블록 관통, 회피 증가{/}				
 ETC_20170420_027873	Can no longer store in the team storage.	더 이상 팀 창고에 보관할 수 없습니다.				
 ETC_20170420_027874	Reset Helper	초기화 지원관				
 ETC_20170420_027875	Information Board	안내 게시판	QUEST_20150317_001042	Request Bulletin Board	의뢰 게시판	
@@ -31357,7 +31357,7 @@ ETC_20180208_031325	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP afte
 ETC_20180208_031326	Dano contra alvos Grandes +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031327	Resistência Elemental Veneno +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031328	Dano contra monstros tipo Veneno +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031329	Perfuração de Bloqueio +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031329	Penetração de Bloqueio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031330	Peso Carregável +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031331	Dano contra monstros Chefe +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031332	Recuperação de HP +{@st66d_y}{s16}[%d]{/}{/}
