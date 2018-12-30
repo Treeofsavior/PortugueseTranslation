@@ -1580,7 +1580,7 @@ ETC_20150317_001579	Falha ao comprar item! Um erro desconhecido ocorreu.
 ETC_20150317_001580	Muito perto.
 ETC_20150317_001581	{s20}{ol}{#46ffc8} Você não tem Stamina suficiente
 ETC_20150317_001582	Object needed for the skill is not available.
-ETC_20150317_001583	Você não pode equipar uma Arma-secundária enquanto estiver usando uma arma de duas mãos.
+ETC_20150317_001583	Você não pode equipar uma Arma Secundária enquanto estiver usando uma arma de duas mãos.
 ETC_20150317_001584	Você não pode usar 'Retornar' enquanto estiver sentado.
 ETC_20150317_001585	Another character has taken the request.
 ETC_20150317_001586	The previous game did not end.
@@ -1708,7 +1708,7 @@ ETC_20150317_001707	Construção Completa!
 ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001710	Tree
-ETC_20150317_001711	Quest
+ETC_20150317_001711	Missão
 ETC_20150317_001712	Arma
 ETC_20150317_001713	Armadura
 ETC_20150317_001714	Espada de Duas Mãos
@@ -1748,7 +1748,7 @@ ETC_20150317_001747	Mostrar tudo
 ETC_20150317_001748	Consumível
 ETC_20150317_001749	Livro
 ETC_20150317_001750	Dinheiro
-ETC_20150317_001751	Arma-Secundária
+ETC_20150317_001751	Arma Secundária
 ETC_20150317_001752	Cetro
 ETC_20150317_001753	Coat
 ETC_20150317_001754	Chapéu
@@ -1971,7 +1971,7 @@ ETC_20150317_001970	Right-click to remove
 ETC_20150317_001971	 de Nível ou Maior
 ETC_20150317_001972	Repair Cost
 ETC_20150317_001973	{Auto_2} of {Auto_1} items used
-ETC_20150317_001974	Item Rarity
+ETC_20150317_001974	Raridade do Item
 ETC_20150317_001975	Available
 ETC_20150317_001976	In progress
 ETC_20150317_001977	Complete
@@ -2383,7 +2383,7 @@ ETC_20150317_002382	Absorbed the energy of the guardian
 ETC_20150317_002383	Moving.
 ETC_20150317_002384	Do not move.
 ETC_20150317_002385	{@st59} Increase SP and SP recovery {/}
-ETC_20150317_002386	{nl} Quest Completa
+ETC_20150317_002386	{nl} Missão Completa
 ETC_20150317_002387	I saw it. It's obviously not Deadborn.
 ETC_20150317_002388	It's not Deadborn.
 ETC_20150317_002389	Why would I have followed it if it is Deadborn?
@@ -2823,7 +2823,7 @@ ETC_20150317_002822	{@st41}Reward Received:
 ETC_20150317_002823	{@st64} Aproxime-se do NPC e aperte 
 ETC_20150317_002824	Barra de Espaço
 ETC_20150317_002825	 para iniciar uma conversa
-ETC_20150317_002826	Abandonar a quest
+ETC_20150317_002826	Abandonar Missão
 ETC_20150317_002827	Abandonar
 ETC_20150317_002828	Warp to
 ETC_20150317_002829	Objective: 
@@ -3353,7 +3353,7 @@ ETC_20150317_003352	Found the demonic monsters! {nl} Tell the Weak Owl Sculpture
 ETC_20150317_003353	I want to learn
 ETC_20150317_003354	Experiment on laboratory bait successful!
 ETC_20150317_003355	Set up the decoy first, then defeat the monster!
-ETC_20150317_003356	Quest completed. Go to the information offGelor!
+ETC_20150317_003356	Quest completed. Go to the information Officer!
 ETC_20150317_003357	There is a hostile monster in that location.
 ETC_20150317_003358	Collecting Butterfly Fragrance
 ETC_20150317_003359	Please... Help!
@@ -3434,7 +3434,7 @@ ETC_20150317_003433	Derrote the servants of Rexipher!
 ETC_20150317_003434	Get rid of the monsters and get the clue!
 ETC_20150317_003435	Guardian Stone
 ETC_20150317_003436	Destroy the three guardian systems!
-ETC_20150317_003437	NA Guardian offGelor
+ETC_20150317_003437	NA Guardian Officer
 ETC_20150317_003438	Kotodama protector
 ETC_20150317_003439	Derrote Bearkaras!
 ETC_20150317_003440	Assisting
@@ -3659,7 +3659,7 @@ ETC_20150317_003658	Collected enough hook charcoals! {nl} Check the contents of 
 ETC_20150317_003659	Collected enough hook charcoals
 ETC_20150317_003660	s HP [
 ETC_20150317_003661	%] left!
-ETC_20150317_003662	Record OffGelor
+ETC_20150317_003662	Record Officer
 ETC_20150317_003663	Quest fails when hit!
 ETC_20150317_003664	Quest complete! {nl} Jonas wakes up.
 ETC_20150317_003665	Activate when the Device is sparkling{nl} to shorten the time.
@@ -3794,7 +3794,7 @@ ETC_20150317_003793	There are no quests available for this level range.
 ETC_20150317_003794	CANCEL selection or nil value
 ETC_20150317_003795	{/} Begin Quest
 ETC_20150317_003796	Quest In Progress NPC Talk
-ETC_20150317_003797	Quest Completa
+ETC_20150317_003797	Missão Completa
 ETC_20150317_003798	Show quest info in C: \
 ETC_20150317_003799	Give up Quest
 ETC_20150317_003800	Go to Start NPC
@@ -4083,7 +4083,7 @@ ETC_20150317_004082	Column of Quest Succ_MonKill_ItemGive2 should be none
 ETC_20150317_004083	Column of Quest Succ_MonKillCount2 must be greater than 0.
 ETC_20150317_004084	Column of Quest Succ_MonKill_ItemGive1 should be none
 ETC_20150317_004085	Column of Quest Succ_MonKillCount1 must be greater than 0.
-ETC_20150317_004086	Quest
+ETC_20150317_004086	Missão
 ETC_20150317_004087	There is no session object in the PC
 ETC_20150317_004088	Column of Quest Succ_OverKill_ItemGive6 should be None
 ETC_20150317_004089	Column of Quest Succ_OverKillCount6 must be greater than 0.
@@ -6171,7 +6171,7 @@ ETC_20150317_006171	Resurrect at the nearest area
 ETC_20150317_006172	to move to the dungeon entrance. {nl} Be careful when you're deep inside a dungeon!
 ETC_20150317_006173	Gems can be obtained by hunting monsters and bosses in dungeons. {nl} Be careful, as the gems may be lost when you die.
 ETC_20150317_006174	Equipamento
-ETC_20150317_006175	Arma-Secundária
+ETC_20150317_006175	Arma Secundária
 ETC_20150317_006176	Consumível
 ETC_20150317_006177	Companion Equipment
 ETC_20150317_006178	N/A
@@ -6920,11 +6920,11 @@ ETC_20150317_006920	Eastern Woods Scout
 ETC_20150317_006921	Head of Guard Troop
 ETC_20150317_006922	Western Woods Scout
 ETC_20150317_006923	Village Woman
-ETC_20150317_006924	Female OffGelor
+ETC_20150317_006924	Female Officer
 ETC_20150317_006925	Fallen Soldier
-ETC_20150317_006926	Crux Knights OffGelor (Male)
-ETC_20150317_006927	Crux Knights OffGelor
-ETC_20150317_006928	Crux Knights OffGelor (Female)
+ETC_20150317_006926	Crux Knights Officer (Male)
+ETC_20150317_006927	Crux Knights Officer
+ETC_20150317_006928	Crux Knights Officer (Female)
 ETC_20150317_006929	Militia General Laudrup 
 ETC_20150317_006930	Holger Danske
 ETC_20150317_006931	Innkeeper Genora 
@@ -7660,7 +7660,7 @@ ETC_20150317_007660	Request of the Archivist
 ETC_20150317_007661	Parchment of the Archivist
 ETC_20150317_007662	Ink of the Archivist
 ETC_20150317_007663	Protect Archivist Jonas
-ETC_20150317_007664	The Archivist and the Liaison OffGelor
+ETC_20150317_007664	The Archivist and the Liaison Officer
 ETC_20150317_007665	Hidden Archives
 ETC_20150317_007666	Fear of the Archivist
 ETC_20150317_007667	Request of Archivist
@@ -8934,7 +8934,7 @@ ETC_20150317_008934	Remove monsters
 ETC_20150317_008935	Toggle NPC Hide
 ETC_20150317_008936	NPC Function Name
 ETC_20150317_008937	Test Quest Tracking
-ETC_20150317_008938	Quest
+ETC_20150317_008938	Missão
 ETC_20150317_008939	Go to NPC Quest Track
 ETC_20150317_008940	Reset the smart gen previous place
 ETC_20150317_008941	Smart Gen Test
@@ -11595,7 +11595,7 @@ ETC_20150511_011596	Activate the 1st sealed Device
 ETC_20150511_011597	Activate the 2nd sealed Device
 ETC_20150511_011598	Activate the 3rd sealed Device
 ETC_20150511_011599	FAQ : Durability & Potential{nl}1) Durability : Starts to decrease slowly when you play with equipped equipment.{nl}    When an item's durability is below a certain value, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
-ETC_20150511_011600	]{nl}Quest Completa!
+ETC_20150511_011600	]{nl}Missão Completa!
 ETC_20150511_011601	Why now...!
 ETC_20150511_011602	Did you defeat them all?
 ETC_20150511_011603	Uh...!
@@ -13521,7 +13521,7 @@ ETC_20150717_013522	Você quer aprender este atributo?
 ETC_20150717_013523	Conectando no servidor...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click{nl}to sell multiple quantities of an item.{nl}Double-click to sell all.
 ETC_20150717_013525	Este canal está lotado{nl} Você será movido para outro.
-ETC_20150717_013526	Ao refinar armaduras, arma-secundária, braceletes ou colares acima de + {Auto_1}, se ele falhar, o Potencial desse item diminuirá em 1.{nl} {nl}Quando o Potencial cair abaixo de 0, o item será destruído. Você quer continuar?
+ETC_20150717_013526	Ao refinar armaduras, Arma Secundária, braceletes ou colares acima de + {Auto_1}, se ele falhar, o Potencial desse item diminuirá em 1.{nl} {nl}Quando o Potencial cair abaixo de 0, o item será destruído. Você quer continuar?
 ETC_20150717_013527	Ao refinar armas acima de + {Auto_1}, se falhar, o Potencial e o Refino desse item diminuirá em 1.{nl} {nl}Quando o Potencial cair abaixo de 0, o item será destruído. Você quer continuar?
 ETC_20150717_013528	Will be entered automatically after 5 secs
 ETC_20150717_013529	O Despertar irá falhar se sair da dungeon.{nl}Deseja proceder?
@@ -14881,7 +14881,7 @@ ETC_20151001_014881	Kingdom Camp
 ETC_20151001_014882	Leima Small Square
 ETC_20151001_014883	Mailruma Steeple
 ETC_20151001_014884	Nucisto collapsed Area
-ETC_20151001_014885	OffGelor House
+ETC_20151001_014885	Officer House
 ETC_20151001_014886	Bingcoolers Path
 ETC_20151001_014887	Vitina Waterway
 ETC_20151001_014888	Barrack
@@ -15180,7 +15180,7 @@ ETC_20151001_015180	What is the Device which was destroyed by Ruklys!
 ETC_20151001_015181	I will follow you
 ETC_20151001_015182	There are no usable components
 ETC_20151001_015183	Looking for components
-ETC_20151001_015184	Ruklys Army OffGelor
+ETC_20151001_015184	Ruklys Army Officer
 ETC_20151001_015185	Returning
 ETC_20151001_015186	Looking for woods
 ETC_20151001_015187	You've found the woods for barricade
@@ -15233,7 +15233,7 @@ ETC_20151001_015233	Priest Irma2
 ETC_20151001_015234	Priest Gelija
 ETC_20151001_015235	Abandoned Kingdom Guard's Bag
 ETC_20151001_015236	Supply Box
-ETC_20151001_015237	Ruklys Army OffGelor's Spirit
+ETC_20151001_015237	Ruklys Army Officer's Spirit
 ETC_20151001_015238	Petrified Kingdom Guard
 ETC_20151001_015239	Barrier Crystal
 ETC_20151001_015240	Rajatoad's Egg
@@ -15248,7 +15248,7 @@ ETC_20151001_015248	Mayor's Grandson
 ETC_20151001_015249	Village Headman
 ETC_20151001_015250	Village Resident
 ETC_20151001_015251	Dievdirbys Widas
-ETC_20151001_015252	Newly-Appointed Village OffGelor
+ETC_20151001_015252	Newly-Appointed Village Officer
 ETC_20151001_015253	FreeDungeon_4_1
 ETC_20151001_015254	Goddess Restrain Device
 ETC_20151001_015255	Vitality Absorption Device
@@ -15908,7 +15908,7 @@ ETC_20151016_015902	Braken Forest 63-1
 ETC_20151016_015903	Braken Forest 63-3
 ETC_20151016_015904	Braken Forest 42_1
 ETC_20151016_015905	Braken Herbs
-ETC_20151016_015906	Liaison OffGelor Mardas
+ETC_20151016_015906	Liaison Officer Mardas
 ETC_20151016_015907	Owl Chief Sculpture
 ETC_20151016_015908	Karolis Altar
 ETC_20151016_015909	Karolis' Light
@@ -15921,7 +15921,7 @@ ETC_20151016_015915	For effects of flame bombs
 ETC_20151016_015916	Golden Pillar
 ETC_20151016_015917	Silver Pillar
 ETC_20151016_015918	Bronze Pillar
-ETC_20151016_015919	OffGelor Lutas
+ETC_20151016_015919	Officer Lutas
 ETC_20151016_015920	Derrote Gray Golem and Carapace!
 ETC_20151022_015921	Yellow Colifly
 ETC_20151022_015922	Evil Necroventer
@@ -16241,7 +16241,7 @@ ETC_20151022_016235	Destroy the Mind Control Tower
 ETC_20151022_016236	Purified Power
 ETC_20151022_016237	Remove the magic circle that manages the Eyes of Surveillance
 ETC_20151022_016238	Derrote the monsters that are in the forest of the beginning
-ETC_20151022_016239	Help Liaison OffGelor Moren
+ETC_20151022_016239	Help Liaison Officer Moren
 ETC_20151022_016240	Find the hideout
 ETC_20151022_016241	Check the Fogueira
 ETC_20151022_016242	Check the Scattered Goods
@@ -19944,7 +19944,7 @@ ETC_20151224_019938	Demonic Power Intensive Device
 ETC_20151224_019939	Mysterious Obelisk
 ETC_20151224_019940	Power Supply Device
 ETC_20151224_019941	Shield Creation Device
-ETC_20151224_019942	OffGelor's Journal
+ETC_20151224_019942	Officer's Journal
 ETC_20151224_019943	Broken Demonic Power Supply Device
 ETC_20151224_019944	Soggy Book
 ETC_20151224_019945	       [Knights of Kaliss]{nl}Alchemist Salliamornas
@@ -22468,14 +22468,14 @@ ETC_20160718_022462	I never thought I'd be able to see my colleagues again
 ETC_20160718_022463	You have obtained a bomb
 ETC_20160718_022464	You already have a bomb
 ETC_20160718_022465	You are being protected by the orb
-ETC_20160718_022466	You have obtained a token from the OffGelor's Soul
-ETC_20160718_022467	Take the Soldier's Soul to the OffGelor's Soul
+ETC_20160718_022466	You have obtained a token from the Officer's Soul
+ETC_20160718_022467	Take the Soldier's Soul to the Officer's Soul
 ETC_20160718_022468	You have a Soldier's Soul following you
 ETC_20160718_022469	The soul refuses to follow you if you don't have the token
-ETC_20160718_022470	Ask the soldier to follow you to the OffGelor's Soul
-ETC_20160718_022471	I will follow you to the OffGelor's Soul
-ETC_20160718_022472	You have led the Soldier's Soul to the OffGelor's Soul
-ETC_20160718_022473	A monster's soul is trying to attack the OffGelor's Soul.{nl}Protect the OffGelor's Soul
+ETC_20160718_022470	Ask the soldier to follow you to the Officer's Soul
+ETC_20160718_022471	I will follow you to the Officer's Soul
+ETC_20160718_022472	You have led the Soldier's Soul to the Officer's Soul
+ETC_20160718_022473	A monster's soul is trying to attack the Officer's Soul.{nl}Protect the Officer's Soul
 ETC_20160718_022474	Você falhou em destroy all of the Devices
 ETC_20160718_022475	Destroy the Devices
 ETC_20160718_022476	You have succeeded in destroying all of the Devices{nl}You are rewarded with the Strength Vigor buff
@@ -22496,10 +22496,10 @@ ETC_20160718_022490	You can only use it in the refugee residential area
 ETC_20160718_022491	You have obtained {POINTS} points and received the Lv1 reward
 ETC_20160718_022492	You have obtained {POINTS} points and received the Lv2 reward
 ETC_20160718_022493	You have obtained {POINTS} points and received the Lv3 reward
-ETC_20160718_022494	The OffGelor's Soul has 15% health left{nl}You will not be able to receive your reward if the OffGelor's Soul disappears
-ETC_20160718_022495	The OffGelor's Soul has 50% health left{nl}You will not be able to receive your reward if the OffGelor's Soul disappears
-ETC_20160718_022496	The OffGelor's Soul has 70% health left{nl}You will not be able to receive your reward if the OffGelor's Soul disappears
-ETC_20160718_022497	The OffGelor's Soul has disappeared
+ETC_20160718_022494	The Officer's Soul has 15% health left{nl}You will not be able to receive your reward if the Officer's Soul disappears
+ETC_20160718_022495	The Officer's Soul has 50% health left{nl}You will not be able to receive your reward if the Officer's Soul disappears
+ETC_20160718_022496	The Officer's Soul has 70% health left{nl}You will not be able to receive your reward if the Officer's Soul disappears
+ETC_20160718_022497	The Officer's Soul has disappeared
 ETC_20160718_022498	Absorbing Flames
 ETC_20160718_022499	Restore all Divine Torches [Requires x{COUNT} Flame Crystals]
 ETC_20160718_022500	Create Hindrance Magic Circle [Requires x{COUNT} Flame Crystals]
@@ -22875,7 +22875,7 @@ ETC_20160723_022869	You require sap from an Ouaas Tree
 ETC_20160723_022870	Monk Mattas
 ETC_20160723_022871	Let's take a look.
 ETC_20160723_022872	The suppressive Device has broken down
-ETC_20160723_022873	High OffGelor Medea
+ETC_20160723_022873	High Officer Medea
 ETC_20160723_022874	My legs hurt. I'll go a bit slowly if that's okay with you.
 ETC_20160723_022875	There is some distance between you and Medea
 ETC_20160723_022876	I won't run, don't worry.
@@ -23251,7 +23251,7 @@ ETC_20160811_023245	Investigate the hermit's tomb
 ETC_20160811_023246	Destroy the energy suppressing Device using Ouaas tree sap
 ETC_20160811_023247	Destroy the energy suppression Device in Rijekavi Fields
 ETC_20160811_023248	Pour the sap and destroy Medea's protection barrier
-ETC_20160811_023249	Take High OffGelor Medea to Monk Mattas
+ETC_20160811_023249	Take High Officer Medea to Monk Mattas
 ETC_20160811_023250	Clear out the monsters in front of the monastery gate
 ETC_20160811_023251	Help Stella find books about the demons
 ETC_20160811_023252	Escort Stella back to the barrier
@@ -25133,7 +25133,7 @@ ETC_20161005_025127	Red Boundary Stones
 ETC_20161005_025128	Blue Boundary Stones
 ETC_20161005_025129	Ghost Soldier2
 ETC_20161005_025130	Ghost Soldier3
-ETC_20161005_025131	Ghost OffGelor
+ETC_20161005_025131	Ghost Officer
 ETC_20161005_025132	Ghost OffGelor2
 ETC_20161005_025133	Alchemist Female2
 ETC_20161005_025134	Building Rubble1
@@ -27524,8 +27524,8 @@ ETC_20170403_027518	Unknown Message
 ETC_20170403_027519	Error due to duplicate login sessions
 ETC_20170403_027520	Instanced Dungeon Reset Time 6 AM
 ETC_20170403_027521	 {nl}Derrote monstros do tipo a seguir e colete 10 insígnias.{nl} - Monstro : {RACE}{nl} - Level : Maior que {LV}
-ETC_20170403_027522	Receber Quest
-ETC_20170403_027523	Evento de Quest diária
+ETC_20170403_027522	Receber Missão
+ETC_20170403_027523	Evento de Missão Diária
 ETC_20170403_027524	O próximo nível alvo é {LEVELCOUNT}.
 ETC_20170410_027525	Mishekan Forest Dungeon
 ETC_20170410_027526	Contagem de participação no evento
@@ -27974,7 +27974,7 @@ ETC_20170605_027947	Não pode ser usado no status atual.
 ETC_20170605_027948	You have received {COUNT} Wooden Planks
 ETC_20170605_027949	{MIN} minuto(s) se passaram desde o início do evento.
 ETC_20170605_027950	You have already participated in the event today. 
-ETC_20170605_027951	Quest 
+ETC_20170605_027951	Missão 
 ETC_20170605_027952	{nl} If you are about to use Cheat
 ETC_20170605_027953	{nl}while using the quest tool
 ETC_20170605_027954	{nl}click the ESC key to cancel.
@@ -28422,7 +28422,7 @@ ETC_20170726_028395	Contagem de Badges: {ADDCOUNT}{nl}Última badge recebida: {M
 ETC_20170726_028396	Você não recebeu nenhuma badge do evento Ways of the Mercenaries 2.	용병의 길2 이벤트에서 획득하신 증표가 없습니다
 ETC_20170726_028397	Se você morrer em {ZONE}{nl}, pode perder as gemas que você possui em seu inventário.{nl}Vá até 	던전 : {ZONE} 에서 사망 시{nl}갖고계신 인벤토리의 젬이 바닥에 떨어집니다.{nl}젬은 도시 
 ETC_20170726_028398	uma cidade para armazenar suas gemas com segurança.	에게 맡기시면 안전합니다.
-ETC_20170726_028399	Ataque físico aplicado a arma-secundária	보조 무기로 공격 시 적용되는 물리 공격력
+ETC_20170726_028399	Ataque físico aplicado a Arma Secundária	보조 무기로 공격 시 적용되는 물리 공격력
 ETC_20170726_028400	N° de alvos afetados por ataques em Área	광역 공격 시 몇 개의 타겟을 공격할 수 있는지 나타내는 수치
 ETC_20170726_028401	Redução do Ataque em área inimigo	광역 공격을 받았을 때 공격자의 광역 공격 비율을 감소시키는 수치
 ETC_20170726_028402	[Distância: {DISTANCE}]	[거리 : {DISTANCE}]
@@ -30480,7 +30480,7 @@ ETC_20171128_030453	Using a token will reduce the number of items needed to ente
 ETC_20171128_030454	Learn Attributes
 ETC_20171128_030455	Search Attributes
 ETC_20171128_030456	/Invite
-ETC_20171128_030457	Toy
+ETC_20171128_030457	Brinquedo
 ETC_20171128_030458	A random option item which is not appraised yet.
 ETC_20171128_030459	Selecione um item a ser desmontado.
 ETC_20171128_030460	Dismantle Price: {Price}{nl}Are you sure you want to dismantle?
@@ -36308,7 +36308,7 @@ ETC_20181017_036222	Costumes (M)	코스튬(남)
 ETC_20181017_036223	Costumes (F)	코스튬(여)				
 ETC_20181017_036224	Acessório de Cabelo	헤어 액세서리				
 ETC_20181017_036225	Visual de Equipamento	외형 변경 장비				
-ETC_20181017_036226	Traje de Efeito	이펙트 코스튬				
+ETC_20181017_036226	Efeito Especial
 ETC_20181017_036227	Lapezard Statue Guardian	라페자드 조각상 수호자				
 ETC_20181017_036228	Spirits of the creatures that die near the statue are absorbed to restore vitality.	라페자드 조각상 근처에서 죽은 생명체의 영혼을 흡수해 자신의 생명을 회복합니다.				
 ETC_20181017_036229	Lapezard Statue Guardian Protective Magic	라페자드 조각상 수호자 보호 마법				
@@ -36370,20 +36370,20 @@ ETC_20181017_036284	Shut Down Data	셧다운 관련 정보
 ETC_20181017_036285	37127 bug tracker	37127 버그 추적을 위한...				
 ETC_20181017_036286	Failed to acquire Market Web Server URL. Check server_info.	Market Web Server URL 획득에 실패하였습니다. server_info 확인 필요.				
 ETC_20181017_036287	Market Web error log	마켓 웹서버 에러 로그				
-ETC_20181017_036288	Enhancement Materials	장비 강화 소재				
-ETC_20181017_036289	Main Weapons	주 무기				
-ETC_20181017_036290	Subweapons	보조 무기				
-ETC_20181017_036291	Special Costumes	스페셜 코스튬				
-ETC_20181017_036292	Popup Books	팝업북				
-ETC_20181017_036293	Skill Gems	스킬 젬				
-ETC_20181017_036294	Card Albums	카드첩				
-ETC_20181017_036295	Enhancement Cards	강화용 카드				
-ETC_20181017_036296	Green Cards	그린 카드				
-ETC_20181017_036297	Red Cards	레드 카드				
-ETC_20181017_036298	Blue Cards	블루 카드				
-ETC_20181017_036299	Purple Cards	퍼플 카드				
-ETC_20181017_036300	Skill Materials	스킬 재료				
-ETC_20181017_036301	Ores	광물				
+ETC_20181017_036288	Materiais de Aprimoramento
+ETC_20181017_036289	Armas Principais
+ETC_20181017_036290	Armas Secundárias
+ETC_20181017_036291	Trajes Especiais
+ETC_20181017_036292	Livros Popup
+ETC_20181017_036293	Gemas de Habilidades
+ETC_20181017_036294	Álbuns de Cartas
+ETC_20181017_036295	Cartas de Aprimoramento
+ETC_20181017_036296	Cartas Verdes
+ETC_20181017_036297	Cartas Vermelhas
+ETC_20181017_036298	Cartas Azuis
+ETC_20181017_036299	Cartas Roxas
+ETC_20181017_036300	Materiais para Habilidades
+ETC_20181017_036301	Minérios
 ETC_20181017_036302	2018 Leticia's Treasure Chest (Season 3)	2018 레티샤의 보물 상자(9월)				
 ETC_20181017_036303	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Token x1{nl} - Shining Golden Socket x2{nl} - Shining 9-Star Gem Abrasive x2	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 토큰 1개{nl} - 빛나는 황금 소켓 2개{nl} - 빛나는 9성 젬 연마제 2개				
 ETC_20181017_036304	Royal Envoy Costume Selection Box	암행어사 예복 선택 상자				
