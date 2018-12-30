@@ -2776,12 +2776,12 @@ ETC_20150317_002775	Ataque Contra Fera{img monster_wild 24 24}
 ETC_20150317_002776	Ataque Contra Demônio{img monster_devil 24 24}
 ETC_20150317_002777	Ataque Contra Mutante{img monster_variation 24 24}
 ETC_20150317_002778	Ataque Elemental: Vento
-ETC_20150317_002779	Resistência: Fogo
-ETC_20150317_002780	Resistência: Gelo
-ETC_20150317_002781	Resistência: Veneno
-ETC_20150317_002782	Resistência: Elétrico
-ETC_20150317_002783	Resistência: Divino
-ETC_20150317_002784	Resistência: Trevas
+ETC_20150317_002779	Resistência Elemental: Fogo{img attri_Fire 23 23}
+ETC_20150317_002780	Resistência Elemental: Gelo{img attri_Ice 23 23}
+ETC_20150317_002781	Resistência Elemental: Veneno{img attri_Poison 23 23}
+ETC_20150317_002782	Resistência Elemental: Elétrico{img attri_Lightning 23 23}
+ETC_20150317_002783	Resistência Elemental: Divino{img attri_Holy 23 23}
+ETC_20150317_002784	Resistência Elemental: Trevas{img attri_Dark 23 23}
 ETC_20150317_002785	Taxa de Ataque em Área
 ETC_20150317_002786	Taxa de Defesa em Área
 ETC_20150317_002787	2% de chance de +300 de dano adicional ao atacar
