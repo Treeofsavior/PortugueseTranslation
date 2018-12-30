@@ -1711,12 +1711,12 @@ ETC_20150317_001710	Tree
 ETC_20150317_001711	Missão
 ETC_20150317_001712	Arma
 ETC_20150317_001713	Armadura
-ETC_20150317_001714	Espada de Duas Mãos
+ETC_20150317_001714	Espada de 2 Mãos
 ETC_20150317_001715	Arco
 ETC_20150317_001716	Besta
-ETC_20150317_001717	Espada de uma Mão
-ETC_20150317_001718	Wand
-ETC_20150317_001719	Clava
+ETC_20150317_001717	Espada de 1 Mão
+ETC_20150317_001718	Cetro
+ETC_20150317_001719	Maça
 ETC_20150317_001720	Outro
 ETC_20150317_001721	Lança
 ETC_20150317_001722	Wand
@@ -1752,7 +1752,7 @@ ETC_20150317_001751	Arma Secundária
 ETC_20150317_001752	Cetro
 ETC_20150317_001753	Coat
 ETC_20150317_001754	Chapéu
-ETC_20150317_001755	Lança de Duas Mãos
+ETC_20150317_001755	Lança de 2 Mãos
 ETC_20150317_001756	Coloque um item.
 ETC_20150317_001757	Gemas
 ETC_20150317_001758	Socket
@@ -2808,7 +2808,7 @@ ETC_20150317_002807	Resistência: Terra
 ETC_20150317_002808	Physical Damage when mounted
 ETC_20150317_002809	Magic Damage when mounted
 ETC_20150317_002810	Defesa Perfurante
-ETC_20150317_002811	Defesa Cortante
+ETC_20150317_002811	Defesa Corte
 ETC_20150317_002812	Defesa de Impacto
 ETC_20150317_002813	Peso Máximo Carregável
 ETC_20150317_002814	Muito Fácil
@@ -2964,7 +2964,7 @@ ETC_20150317_002963	Trevas
 ETC_20150317_002964	Divino
 ETC_20150317_002965	Terra
 ETC_20150317_002966	NA
-ETC_20150317_002967	Cortante
+ETC_20150317_002967	Corte
 ETC_20150317_002968	Perfurar
 ETC_20150317_002969	Impacto
 ETC_20150317_002970	Magico
@@ -4807,16 +4807,16 @@ ETC_20150317_004806	The muddy aura by Bramble disappeared.
 ETC_20150317_004807	Retrieving the relevation
 ETC_20150317_004808	Reparar
 ETC_20150317_004809	Equipamento secundário
-ETC_20150317_004810	Espada de uma Mãos
-ETC_20150317_004811	Espada de Duas Mãos
+ETC_20150317_004810	Espada de 1 Mãos
+ETC_20150317_004811	Espada de 2 Mãos
 ETC_20150317_004812	Cetro
 ETC_20150317_004813	Cajado
 ETC_20150317_004814	Arco
 ETC_20150317_004815	Besta
-ETC_20150317_004816	Clava
+ETC_20150317_004816	Maça
 ETC_20150317_004817	Wand
-ETC_20150317_004818	Lança de uma Mãos
-ETC_20150317_004819	Lança de Duas Mãos
+ETC_20150317_004818	Lança de 1 Mão
+ETC_20150317_004819	Lança de 2 Mãos
 ETC_20150317_004820	Escudo
 ETC_20150317_004821	Adaga
 ETC_20150317_004822	Woah, what's this taste?
@@ -6244,7 +6244,7 @@ ETC_20150317_006244	{s18}{#001100}You can progress the quest by pressing the Spa
 ETC_20150317_006245	{s18}{#001100}You can increase various of stats by collecting items for a Coleção. {/}
 ETC_20150317_006246	Swordsmen are warriors who have strong physical abilities.{nl}They use various weapons to deal with enemies up close{nl}and stand at the front lines.
 ETC_20150317_006247	Highlander
-ETC_20150317_006248	Highlanders are tough fighters who use Espada de Duas Mãoss. They make enemies collide against each other or against Earthin, so they are great for handling multiple enemies.
+ETC_20150317_006248	Highlanders are tough fighters who use Espada de 2 Mãos. They make enemies collide against each other or against Earthin, so they are great for handling multiple enemies.
 ETC_20150317_006249	Peltasta
 ETC_20150317_006250	Peltastas are defensive warriors who use shields to block enemy attacks and provoke enemies.
 ETC_20150317_006251	Hoplites use spears with a long attack range. They gain a bonus when fighting against strong, large-sized enemies.
@@ -6253,7 +6253,7 @@ ETC_20150317_006253	Centurions command the battle with formations. They control 
 ETC_20150317_006254	Barbarian
 ETC_20150317_006255	Barbarians are reckless and aggressive warriors who are not bound to the rules of battle, and would do anything to ensure victory.
 ETC_20150317_006256	Cataphract
-ETC_20150317_006257	Cataphracts use Lança de Duas Mãoss. They act as cavalry who break through and scatter enemy formations.
+ETC_20150317_006257	Cataphracts use Lança de 2 Mãos. They act as cavalry who break through and scatter enemy formations.
 ETC_20150317_006258	Corsair
 ETC_20150317_006259	Doppelsoeldner
 ETC_20150317_006260	Rodelero
@@ -8128,9 +8128,9 @@ ETC_20150317_008128	Square
 ETC_20150317_008129	Diamond
 ETC_20150317_008130	Star
 ETC_20150317_008131	Empty
-ETC_20150317_008132	Espada de Duas Mãos Stance
-ETC_20150317_008133	Espada de Uma Mão Stance
-ETC_20150317_008134	Espada de Uma Mão Shield Stance
+ETC_20150317_008132	Espada de 2 Mãos Stance
+ETC_20150317_008133	Espada de 1 Mão Stance
+ETC_20150317_008134	Espada de 1 Mão Shield Stance
 ETC_20150317_008135	Two-handed Bow Stance
 ETC_20150317_008136	Blunt Shield Stance
 ETC_20150317_008137	Blunt Stance
@@ -8141,9 +8141,9 @@ ETC_20150317_008141	Besta Stance
 ETC_20150317_008142	Double Arrow Stance
 ETC_20150317_008143	Secondary Bow Stance
 ETC_20150317_008144	Bow Shield Stance
-ETC_20150317_008145	Lança de Uma Mão Stance
-ETC_20150317_008146	Lança de Uma Mão Shield Stance
-ETC_20150317_008147	Lança de Duas Mãos Stance
+ETC_20150317_008145	Lança de 1 Mão Stance
+ETC_20150317_008146	Lança de 1 Mão Shield Stance
+ETC_20150317_008147	Lança de 2 Mãos Stance
 ETC_20150317_008148	Wizard Two-handed Staff
 ETC_20150317_008149	Bar Stance
 ETC_20150317_008150	Kill Monster
@@ -8268,8 +8268,8 @@ ETC_20150317_008268	Recipe - Wizard Slayer
 ETC_20150317_008269	Recipe - Luciduce
 ETC_20150317_008270	Recipe - Hell and Heaven
 ETC_20150317_008271	Recipe - Nulis
-ETC_20150317_008272	Recipe - Smith Espada de Duas Mãos
-ETC_20150317_008273	Recipe - Klavis Espada de Duas Mãos
+ETC_20150317_008272	Recipe - Smith Espada de 2 Mãos
+ETC_20150317_008273	Recipe - Klavis Espada de 2 Mãos
 ETC_20150317_008274	Recipe - Cane Rover
 ETC_20150317_008275	Recipe - Cane
 ETC_20150317_008276	Recipe - Crook
@@ -10913,7 +10913,7 @@ ETC_20150414_010914	voices: voice of the King
 ETC_20150414_010915	Secret codes criss-cross your mind.
 ETC_20150414_010916	Charge Monster Power
 ETC_20150414_010917	Spider Web
-ETC_20150414_010918	Highlanders are tough fighters who use Espada de Duas Mãoss. They make enemies collide against each other or against Earthin, so they are great for handling multiple enemies.
+ETC_20150414_010918	Highlanders are tough fighters who use Espada de 2 Mãos. They make enemies collide against each other or against Earthin, so they are great for handling multiple enemies.
 ETC_20150414_010919	Centurions command the battle with formations. They control their allies and use different formations depending on the situation.
 ETC_20150414_010920	Corsairs are specialized in dual-wielding and ambushing enemies from behind. Anyone who joins a Corsair's party becomes a pirate.
 ETC_20150414_010921	Ataque, Equipe
@@ -11167,9 +11167,9 @@ ETC_20150414_011168	Please save me!
 ETC_20150414_011169	Summon monster
 ETC_20150414_011170	Enter party description
 ETC_20150414_011171	Amount entered is more than the amount you have, or you entered a negative number.
-ETC_20150414_011172	Equip Espada de Duas Mãos
-ETC_20150414_011173	Equip Espada de Uma Mão
-ETC_20150414_011174	Equip Espada de Uma Mão and Shield
+ETC_20150414_011172	Equip Espada de 2 Mãos
+ETC_20150414_011173	Equip Espada de 1 Mão
+ETC_20150414_011174	Equip Espada de 1 Mão and Shield
 ETC_20150414_011175	Equip Two-handed Bow
 ETC_20150414_011176	Equip Blunt Weapon and Shield
 ETC_20150414_011177	Equip Shield
@@ -11179,9 +11179,9 @@ ETC_20150414_011180	Equip Besta
 ETC_20150414_011181	Equip Double Bow
 ETC_20150414_011182	Equip Sub-bow
 ETC_20150414_011183	Equip Bow and Shield
-ETC_20150414_011184	Equip Lança de Uma Mão
-ETC_20150414_011185	Equip Lança de Uma Mão and Shield
-ETC_20150414_011186	Equip Lança de Duas Mãos
+ETC_20150414_011184	Equip Lança de 1 Mão
+ETC_20150414_011185	Equip Lança de 1 Mão and Shield
+ETC_20150414_011186	Equip Lança de 2 Mãos
 ETC_20150414_011187	Equip Two-handed Staff
 ETC_20150414_011188	Equip Pistol and Shield
 ETC_20150414_011189	Equip Pistol Sub-weapon
@@ -11386,7 +11386,7 @@ ETC_20150428_011387	Recipe - Firangi
 ETC_20150428_011388	Recipe - Thorn Cutter
 ETC_20150428_011389	Recipe - Zweihander
 ETC_20150428_011390	Recipe - Executioner's Sword
-ETC_20150428_011391	Recipe - Lumai Espada de Duas Mãos
+ETC_20150428_011391	Recipe - Lumai Espada de 2 Mãos
 ETC_20150428_011392	Recipe - Elder Rod
 ETC_20150428_011393	Recipe - Meteor Rod
 ETC_20150428_011394	Recipe - Ring Rod
@@ -11439,7 +11439,7 @@ ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by cli
 ETC_20150428_011441	FAQ : Rest Mode{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a Fogueira, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Lenha" to create a Fogueira. {nl} HP, SP, STA is restored quicker when you use a Fogueira.{nl}4) Other functions will be added in the near future.
 ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Decreases a little bit when you play with the equipment on.{nl}    When an item's durability decreases below a certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Mercador de Itens in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
-ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Mestres. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Highlander, you can learn the "Use Espada de Duas Mãoss" attribute from the Highlander Mestre and use Espada de Duas Mãoss. {nl}3) Mestres who teach attributes are located all around the map.
+ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Mestres. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Highlander, you can learn the "Use Espada de 2 Mãos" attribute from the Highlander Mestre and use Espada de 2 Mãos. {nl}3) Mestres who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
 ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Controller UI Mode" through game settings when you are using a controller. {nl}2) There is a special "Low Mode" for PCs with minimum system requirements.
 ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} It requires a Megaphone item to do so. {nl}2) Party Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
@@ -11452,8 +11452,8 @@ ETC_20150428_011453	Your search query must contain at least {LEN} characters.
 ETC_20150428_011454	Sending successful. Thank you.
 ETC_20150428_011455	Failed to send.
 ETC_20150428_011456	This card is unequipped. Cannot be summoned.
-ETC_20150428_011457	Clava de Uma Mão
-ETC_20150428_011458	Lança de Uma Mão
+ETC_20150428_011457	Maça de 1 Mão
+ETC_20150428_011458	Lança de 1 Mão
 ETC_20150428_011459	Pistola
 ETC_20150428_011460	Artifact
 ETC_20150428_011461	Selecione um personagem com o qual deseja que seu Mascote acompanhe.
@@ -14378,10 +14378,10 @@ ETC_20150918_014379	Recipe - Escanciu Sword
 ETC_20150918_014380	Recipe - Krag Sword
 ETC_20150918_014381	Recipe - Pilgrim Sword
 ETC_20150918_014382	Recipe - Istora Sword
-ETC_20150918_014383	Recipe - Escanciu Espada de Duas Mãos
-ETC_20150918_014384	Recipe - Krag Espada de Duas Mãos
-ETC_20150918_014385	Recipe - Pilgrim Espada de Duas Mãos
-ETC_20150918_014386	Recipe - Istora Espada de Duas Mãos
+ETC_20150918_014383	Recipe - Escanciu Espada de 2 Mãos
+ETC_20150918_014384	Recipe - Krag Espada de 2 Mãos
+ETC_20150918_014385	Recipe - Pilgrim Espada de 2 Mãos
+ETC_20150918_014386	Recipe - Istora Espada de 2 Mãos
 ETC_20150918_014387	Recipe - Escanciu Rod
 ETC_20150918_014388	Recipe - Krag Rod
 ETC_20150918_014389	Recipe - Pilgrim Rod
@@ -15016,11 +15016,11 @@ ETC_20151001_015016	Obtain the stone from the rocks nearby
 ETC_20151001_015017	Obtain the Couro string from the monsters
 ETC_20151001_015018	Make the string bunch for bookbinding through the Couro string
 ETC_20151001_015019	Plateau Defense Target NPC
-ETC_20151001_015020	Espada de Uma Mão Dagger
-ETC_20151001_015021	Espada de Uma Mão Sub
+ETC_20151001_015020	Espada de 1 Mão Dagger
+ETC_20151001_015021	Espada de 1 Mão Sub
 ETC_20151001_015022	Besta Dagger
-ETC_20151001_015023	Lança de Uma Mão Dagger
-ETC_20151001_015024	Lança de Uma Mão Sub
+ETC_20151001_015023	Lança de 1 Mão Dagger
+ETC_20151001_015024	Lança de 1 Mão Sub
 ETC_20151001_015025	Blunt Dagger
 ETC_20151001_015026	Blunt Sub
 ETC_20151001_015027	Pistol Dagger
@@ -15198,11 +15198,11 @@ ETC_20151001_015198	I will go!
 ETC_20151001_015199	There are no fallen items nearby.
 ETC_20151001_015200	Skull Slash!!
 ETC_20151001_015201	Level {Level}
-ETC_20151001_015202	Equip Espada de Uma Mão Dagger
-ETC_20151001_015203	Equip Espada de Uma Mão Sub
+ETC_20151001_015202	Equip Espada de 1 Mão Dagger
+ETC_20151001_015203	Equip Espada de 1 Mão Sub
 ETC_20151001_015204	Equip Besta Dagger
-ETC_20151001_015205	Equip Lança de Uma Mão Dagger
-ETC_20151001_015206	Equip Lança de Uma Mão Sub
+ETC_20151001_015205	Equip Lança de 1 Mão Dagger
+ETC_20151001_015206	Equip Lança de 1 Mão Sub
 ETC_20151001_015207	Equip Blunt Dagger
 ETC_20151001_015208	Equip Blunt Sub
 ETC_20151001_015209	Equip Pistol Dagger
@@ -18299,7 +18299,7 @@ ETC_20151224_018293	Recovers the durability of your equipment by +5.
 ETC_20151224_018294	50 TP [Evento]
 ETC_20151224_018295	Use to obtain 50 TP.
 ETC_20151224_018296	Shinobis are warriors who are familiar with special tactics called Ninjutsu. Only few can overcome the long and harsh training required to become a Shinobi.
-ETC_20151224_018297	Dragoons are elite warriors who are specialized in using spears for battle. They benefit from using Lança de Duas Mãoss.
+ETC_20151224_018297	Dragoons are elite warriors who are specialized in using spears for battle. They benefit from using Lança de 2 Mãos.
 ETC_20151224_018298	Templars are commanding leaders who organize guilds and lead those within their guild. Only a Templar can become a guild Mestre and determine the outcome of his or her guild.
 ETC_20151224_018299	Suporte
 ETC_20151224_018300	Criomantes usam magias de gelo poderosas para congelar inimigos, ou proteger seus aliados de inimigos usando defesas de gelo.
@@ -18982,8 +18982,8 @@ ETC_20151224_018976	OptDesc/Conversion Skill Lv +1
 ETC_20151224_018977	OptDesc/Barrier Skill Lv +1
 ETC_20151224_018978	OptDesc/Conviction Skill Lv +1
 ETC_20151224_018979	Two-handed Bow
-ETC_20151224_018980	Espada de Uma Mão Pistol
-ETC_20151224_018981	Lança de Uma Mão Pistol
+ETC_20151224_018980	Espada de 1 Mão Pistol
+ETC_20151224_018981	Lança de 1 Mão Pistol
 ETC_20151224_018982	Rapier Pistol
 ETC_20151224_018983	Recipe - Protection Barrier Crystal
 ETC_20151224_018984	A recipe to create a Protection Barrier Crystal
@@ -20489,10 +20489,10 @@ ETC_20160224_020483	Recipe - Seimos Sword
 ETC_20160224_020484	Recipe - Ruma Sword
 ETC_20160224_020485	Recipe - Magas Sword
 ETC_20160224_020486	Recipe - Catacombs Blade
-ETC_20160224_020487	Recipe - Seimos Espada de Duas Mãos
-ETC_20160224_020488	Recipe - Tilly Espada de Duas Mãos
-ETC_20160224_020489	Recipe - Khasti Espada de Duas Mãos
-ETC_20160224_020490	Recipe - Magi Espada de Duas Mãos
+ETC_20160224_020487	Recipe - Seimos Espada de 2 Mãos
+ETC_20160224_020488	Recipe - Tilly Espada de 2 Mãos
+ETC_20160224_020489	Recipe - Khasti Espada de 2 Mãos
+ETC_20160224_020490	Recipe - Magi Espada de 2 Mãos
 ETC_20160224_020491	Recipe - Seimos Rod
 ETC_20160224_020492	Recipe - Tilly Rod
 ETC_20160224_020493	Recipe - Khasti Rod
@@ -22266,7 +22266,7 @@ ETC_20160718_022260	Pile of Consumables / Miscellaneous
 ETC_20160718_022261	Pile of Costumes
 ETC_20160718_022262	Pile of Cosmetics
 ETC_20160718_022263	Recipe - Futere Scimitar
-ETC_20160718_022264	Recipe - Eki Lumai Espada de Duas Mãos
+ETC_20160718_022264	Recipe - Eki Lumai Espada de 2 Mãos
 ETC_20160718_022265	Recipe - Duris Battle Rod
 ETC_20160718_022266	Recipe - Gelo Evil Staff
 ETC_20160718_022267	Recipe - Magi Kaman
@@ -26093,15 +26093,15 @@ ETC_20161214_026087	Recipe - Instanced Clear Voucher [{img star_mark 20 20}{img 
 ETC_20161214_026088	Recipe - Mystical Cube
 ETC_20161214_026089	Recipe - Mystical Cube Recipe
 ETC_20161214_026090	Recipe - Agny Necklace
-ETC_20161214_026091	Recipe - Cardboard Cube (Espada de Uma Mão)
-ETC_20161214_026092	Recipe - Cardboard Cube (Espada de Duas Mãos)
+ETC_20161214_026091	Recipe - Cardboard Cube (Espada de 1 Mão)
+ETC_20161214_026092	Recipe - Cardboard Cube (Espada de 2 Mãos)
 ETC_20161214_026093	Recipe - Cardboard Cube (Cetro)
 ETC_20161214_026094	Recipe - Cardboard Cube (Arco)
 ETC_20161214_026095	Recipe - Cardboard Cube (Besta)
-ETC_20161214_026096	Recipe - Cardboard Cube (Clava)
+ETC_20161214_026096	Recipe - Cardboard Cube (Maça)
 ETC_20161214_026097	Recipe - Cardboard Cube (Escudo)
-ETC_20161214_026098	Recipe - Cardboard Cube (Lança de Uma Mão)
-ETC_20161214_026099	Recipe - Cardboard Cube (Lança de Duas Mãos)
+ETC_20161214_026098	Recipe - Cardboard Cube (Lança de 1 Mão)
+ETC_20161214_026099	Recipe - Cardboard Cube (Lança de 2 Mãos)
 ETC_20161214_026100	Recipe - Cardboard Cube (Adaga)
 ETC_20161214_026101	Recipe - Cardboard Cube (Cajado)
 ETC_20161214_026102	Recipe - Cardboard Cube (Revolver)
@@ -28782,7 +28782,7 @@ ETC_20170912_028755	Unit: time (ex.: 7 days * 24 = 168)
 ETC_20170912_028756	1:Silver 2:TP
 ETC_20170912_028757	Consumed COST (ex.: Silver 1000000)
 ETC_20170912_028758	1: open Territory Wars, 2: do not open
-ETC_20170912_028759	Clava de Duas Mãos
+ETC_20170912_028759	Maça de 2 Mãos
 ETC_20170912_028760	Recipe - Vienarazis Two-handed Mace
 ETC_20170912_028761	Recipe - Skull Breaker
 ETC_20170912_028762	Artisan Recipe - Skull Breaker 
@@ -28883,14 +28883,14 @@ ETC_20170912_028856	Selecione o arquivo de imagem.
 ETC_20170912_028857	Alterar Emblema da Guilda
 ETC_20170912_028858	Não é possível usar habilidades de movimento em membros da guilda dentro desta área.
 ETC_20170912_028859	Não pode usar habilidades de i8nvocação em membros da guilda dentro desta área.
-ETC_20170912_028860	Equipar Clava de Duas Mãos
+ETC_20170912_028860	Equipar Maça de 2 Mãos
 ETC_20170912_028861	Reportar Emblema Inadequado
 ETC_20170912_028862	Tem certeza de que deseja denunciar {Name} pelo emblema inapropriado?
 ETC_20170912_028863	{Name} foi reportado. Obrigado.
 ETC_20170912_028864	Use the {Key} key to make {Target} become {Done}.
 ETC_20170912_028865	Uphill Defense Shop
 ETC_20170912_028866	Não é possível criar ou aprimorar itens dentro de dungeons e missões instanciadas.
-ETC_20170912_028867	Clava de Duas Mãos
+ETC_20170912_028867	Maça de 2 Mãos
 ETC_20170912_028868	Não pode ser usado ainda.
 ETC_20170912_028869	Não é possível usar a habilidade Forge perto de uma forja.
 ETC_20170912_028870	Caixa de Pesca
@@ -31384,10 +31384,10 @@ ETC_20180208_031352	Resistência a Cegueira +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031353	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031354	Efeitos de poçoes de HP +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031355	CON +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031356	Defesa contra Cortante +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031356	Defesa contra Corte +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031357	Resistência a Sangramento +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031358	Resistência a Crítico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031359	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Cortante
+ETC_20180208_031359	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Corte
 ETC_20180208_031360	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031361	INT +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031362	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 1%% de SP ao ser atingido por mobs Pequenos
