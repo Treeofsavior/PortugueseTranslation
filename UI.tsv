@@ -2054,12 +2054,12 @@ UI_20160224_002052	You can store tradable items, but at the cost of 1 Potential.
 UI_20160224_002053	Receber Item
 UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Nome (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
 UI_20160224_002055	{@59}Fechar{/}
-UI_20160224_002056	Challenge
-UI_20160224_002057	Please choose to proceed
-UI_20160224_002058	{@st63_yellow}Abandoned :{/}
-UI_20160224_002059	Receive a reward and leave.
-UI_20160224_002060	{@st63_yellow}Challenge :{/}
-UI_20160224_002061	Moving to the next floor
+UI_20160224_002056	Seguir
+UI_20160224_002057	Escolha para uma opção:
+UI_20160224_002058	{@st63_yellow}Abandonar:{/}
+UI_20160224_002059	Receber recompensa e sair
+UI_20160224_002060	{@st63_yellow}Seguir:{/}
+UI_20160224_002061	Continuar subindo
 UI_20160224_002062	{@st43}Coletor de Relíquias{/}
 UI_20160224_002063	{@st59}Fechar{/}
 UI_20160224_002064	{@st59b}Exchange Items{nl}{@st59s} - Able to exchange items obtained from the Earth Tower{nl} - The exchange begins after inserting the item ingredients in the slot.{nl}{/}
