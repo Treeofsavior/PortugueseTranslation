@@ -2804,7 +2804,7 @@ ETC_20150317_002803	Shooting Distance
 ETC_20150317_002804	Speed
 ETC_20150317_002805	Ataque Contra Inseto{img monster_insect 24 24}
 ETC_20150317_002806	Ataque Elemental: Terra
-ETC_20150317_002807	Resistência: Terra
+ETC_20150317_002807	Resistência Elemental: Terra{img attri_Earth 23 23}
 ETC_20150317_002808	Physical Damage when mounted
 ETC_20150317_002809	Magic Damage when mounted
 ETC_20150317_002810	Defesa Perfurante
@@ -25747,7 +25747,7 @@ ETC_20161108_025741	O Rank reset começou. Aguarde...
 ETC_20161108_025742	Ataque Elemental: Psíquico
 ETC_20161108_025743	Unable to use this item in its current state.
 ETC_20161108_025744	Ataque Elemental: Psíquico
-ETC_20161108_025745	Resistência: Psíquico
+ETC_20161108_025745	Resistência Elemental: Psíquico{img notice_br_link 17 17}		
 ETC_20161108_025746	Unable to use while joined by a companion.
 ETC_20161108_025747	Unregistered job. Please contact the management team.
 ETC_20161112_025748	Instanced Dungeon: 1 Entry Voucher (14 dias)
