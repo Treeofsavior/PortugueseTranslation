@@ -1580,7 +1580,7 @@ ETC_20150317_001579	Falha ao comprar item! Um erro desconhecido ocorreu.
 ETC_20150317_001580	Muito perto.
 ETC_20150317_001581	{s20}{ol}{#46ffc8} Você não tem Stamina suficiente
 ETC_20150317_001582	Object needed for the skill is not available.
-ETC_20150317_001583	Você não pode equipar uma Arma-secundária enquanto estiver usando uma arma de duas mãos.
+ETC_20150317_001583	Você não pode equipar uma Arma Secundária enquanto estiver usando uma arma de duas mãos.
 ETC_20150317_001584	Você não pode usar 'Retornar' enquanto estiver sentado.
 ETC_20150317_001585	Another character has taken the request.
 ETC_20150317_001586	The previous game did not end.
@@ -1708,15 +1708,15 @@ ETC_20150317_001707	Construção Completa!
 ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001710	Tree
-ETC_20150317_001711	Quest
+ETC_20150317_001711	Missão
 ETC_20150317_001712	Arma
 ETC_20150317_001713	Armadura
-ETC_20150317_001714	Espada de Duas Mãos
+ETC_20150317_001714	Espada de 2 Mãos
 ETC_20150317_001715	Arco
 ETC_20150317_001716	Besta
-ETC_20150317_001717	Espada de uma Mão
-ETC_20150317_001718	Wand
-ETC_20150317_001719	Clava
+ETC_20150317_001717	Espada de 1 Mão
+ETC_20150317_001718	Cetro
+ETC_20150317_001719	Maça
 ETC_20150317_001720	Outro
 ETC_20150317_001721	Lança
 ETC_20150317_001722	Wand
@@ -1748,11 +1748,11 @@ ETC_20150317_001747	Mostrar tudo
 ETC_20150317_001748	Consumível
 ETC_20150317_001749	Livro
 ETC_20150317_001750	Dinheiro
-ETC_20150317_001751	Arma-Secundária
+ETC_20150317_001751	Arma Secundária
 ETC_20150317_001752	Cetro
 ETC_20150317_001753	Coat
 ETC_20150317_001754	Chapéu
-ETC_20150317_001755	Lança de Duas Mãos
+ETC_20150317_001755	Lança de 2 Mãos
 ETC_20150317_001756	Coloque um item.
 ETC_20150317_001757	Gemas
 ETC_20150317_001758	Socket
@@ -1781,7 +1781,7 @@ ETC_20150317_001780	Gloves Effect
 ETC_20150317_001781	Ataque Máximo
 ETC_20150317_001782	Ataque Mínimo
 ETC_20150317_001783	Defense Rate
-ETC_20150317_001784	Chance de Esquiva
+ETC_20150317_001784	Chance de Evasão
 ETC_20150317_001785	Fogo Attack Rate
 ETC_20150317_001786	Skill Ability
 ETC_20150317_001787	Peso: {All} / {Max}
@@ -1807,7 +1807,7 @@ ETC_20150317_001806	Por favor, desmonte do seu mascote para alimentá-lo.
 ETC_20150317_001807	Ataque Físico
 ETC_20150317_001808	Defesa Física
 ETC_20150317_001809	{img green_up_arrow 16 16}Defesa enquanto Montado
-ETC_20150317_001810	{img green_up_arrow 16 16}Esquiva enquanto Montado
+ETC_20150317_001810	{img green_up_arrow 16 16}Evasão enquanto Montado
 ETC_20150317_001811	{img green_up_arrow 16 16}HP enquanto Montado
 ETC_20150317_001812	STR
 ETC_20150317_001813	CON
@@ -1971,7 +1971,7 @@ ETC_20150317_001970	Right-click to remove
 ETC_20150317_001971	 de Nível ou Maior
 ETC_20150317_001972	Repair Cost
 ETC_20150317_001973	{Auto_2} of {Auto_1} items used
-ETC_20150317_001974	Item Rarity
+ETC_20150317_001974	Raridade do Item
 ETC_20150317_001975	Available
 ETC_20150317_001976	In progress
 ETC_20150317_001977	Complete
@@ -2383,7 +2383,7 @@ ETC_20150317_002382	Absorbed the energy of the guardian
 ETC_20150317_002383	Moving.
 ETC_20150317_002384	Do not move.
 ETC_20150317_002385	{@st59} Increase SP and SP recovery {/}
-ETC_20150317_002386	{nl} Quest Completa
+ETC_20150317_002386	{nl} Missão Completa
 ETC_20150317_002387	I saw it. It's obviously not Deadborn.
 ETC_20150317_002388	It's not Deadborn.
 ETC_20150317_002389	Why would I have followed it if it is Deadborn?
@@ -2721,11 +2721,11 @@ ETC_20150317_002720	[Construível]
 ETC_20150317_002721	Stamina
 ETC_20150317_002722	Ataque
 ETC_20150317_002723	Attacking Speed
-ETC_20150317_002724	Chance de Crítico
+ETC_20150317_002724	Taxa de Crítico
 ETC_20150317_002725	Durabilidade
 ETC_20150317_002726	Splash
 ETC_20150317_002727	Precisão
-ETC_20150317_002728	Resistencia a Crítico
+ETC_20150317_002728	Resistência a Crítico
 ETC_20150317_002729	Splash Defense
 ETC_20150317_002730	INT
 ETC_20150317_002731	SPR
@@ -2757,7 +2757,7 @@ ETC_20150317_002756	Rear Attack Range
 ETC_20150317_002757	Use specific skill
 ETC_20150317_002758	Possible
 ETC_20150317_002759	Unavailable
-ETC_20150317_002760	Dano Crítico
+ETC_20150317_002760	Ataque Crítico
 ETC_20150317_002761	Critical Defense
 ETC_20150317_002762	Trocável
 ETC_20150317_002763	N/ Trocável
@@ -2771,17 +2771,17 @@ ETC_20150317_002770	Ataque Elemental: Divino
 ETC_20150317_002771	Ataque Elemental: Trevas
 ETC_20150317_002772	Velocidade de Movimento
 ETC_20150317_002773	Recuperação de HP
-ETC_20150317_002774	Dano contra monstros Planta{img monster_plant 24 24}
-ETC_20150317_002775	Dano contra monstros Fera{img monster_wild 24 24}
-ETC_20150317_002776	Dano contra monstros Demônio{img monster_devil 24 24}
-ETC_20150317_002777	Dano contra monstros Mutante{img monster_variation 24 24}
+ETC_20150317_002774	Ataque Contra Planta{img monster_plant 24 24}
+ETC_20150317_002775	Ataque Contra Fera{img monster_wild 24 24}
+ETC_20150317_002776	Ataque Contra Demônio{img monster_devil 24 24}
+ETC_20150317_002777	Ataque Contra Mutante{img monster_variation 24 24}
 ETC_20150317_002778	Ataque Elemental: Vento
-ETC_20150317_002779	Resistencia Elemental: Fogo
-ETC_20150317_002780	Resistencia Elemental: Gelo
-ETC_20150317_002781	Resistencia Elemental: Veneno
-ETC_20150317_002782	Resistencia Elemental: Eletrico
-ETC_20150317_002783	Resistencia Elemental: Divino
-ETC_20150317_002784	Resistencia Elemental: Trevas
+ETC_20150317_002779	Resistência Elemental: Fogo{img attri_Fire 23 23}
+ETC_20150317_002780	Resistência Elemental: Gelo{img attri_Ice 23 23}
+ETC_20150317_002781	Resistência Elemental: Veneno{img attri_Poison 23 23}
+ETC_20150317_002782	Resistência Elemental: Elétrico{img attri_Lightning 23 23}
+ETC_20150317_002783	Resistência Elemental: Divino{img attri_Holy 23 23}
+ETC_20150317_002784	Resistência Elemental: Trevas{img attri_Dark 23 23}
 ETC_20150317_002785	Taxa de Ataque em Área
 ETC_20150317_002786	Taxa de Defesa em Área
 ETC_20150317_002787	2% de chance de +300 de dano adicional ao atacar
@@ -2793,22 +2793,22 @@ ETC_20150317_002792	Dano contra alvos Pequenos
 ETC_20150317_002793	Dano contra alvos Médios
 ETC_20150317_002794	Dano contra alvos Grandes
 ETC_20150317_002795	Bloqueio
-ETC_20150317_002796	Perfuração de bloqueio
+ETC_20150317_002796	Penetração de Bloqueio
 ETC_20150317_002797	Dano contra armadura de Tecido 
 ETC_20150317_002798	Dano contra armadura de Couro
-ETC_20150317_002799	Dano contra armadura de Placa
+ETC_20150317_002799	Dano contra armadura de Metal
 ETC_20150317_002800	Dano contra armadura Fantasma
 ETC_20150317_002801	Magic Penetration
 ETC_20150317_002802	Item EXP
 ETC_20150317_002803	Shooting Distance
 ETC_20150317_002804	Speed
-ETC_20150317_002805	Dano contra monstros Inseto{img monster_insect 24 24}
+ETC_20150317_002805	Ataque Contra Inseto{img monster_insect 24 24}
 ETC_20150317_002806	Ataque Elemental: Terra
-ETC_20150317_002807	Resistencia Elemental: Terra
+ETC_20150317_002807	Resistência Elemental: Terra{img attri_Earth 23 23}
 ETC_20150317_002808	Physical Damage when mounted
 ETC_20150317_002809	Magic Damage when mounted
 ETC_20150317_002810	Defesa Perfurante
-ETC_20150317_002811	Defesa Cortante
+ETC_20150317_002811	Defesa Corte
 ETC_20150317_002812	Defesa de Impacto
 ETC_20150317_002813	Peso Máximo Carregável
 ETC_20150317_002814	Muito Fácil
@@ -2823,7 +2823,7 @@ ETC_20150317_002822	{@st41}Reward Received:
 ETC_20150317_002823	{@st64} Aproxime-se do NPC e aperte 
 ETC_20150317_002824	Barra de Espaço
 ETC_20150317_002825	 para iniciar uma conversa
-ETC_20150317_002826	Abandonar a quest
+ETC_20150317_002826	Abandonar Missão
 ETC_20150317_002827	Abandonar
 ETC_20150317_002828	Warp to
 ETC_20150317_002829	Objective: 
@@ -2841,7 +2841,7 @@ ETC_20150317_002840	Object
 ETC_20150317_002841	{#000000}Tipo-Inseto {img monster_insect 30 30}
 ETC_20150317_002842	Tecido
 ETC_20150317_002843	Couro
-ETC_20150317_002844	Placa
+ETC_20150317_002844	Metal
 ETC_20150317_002845	Chain
 ETC_20150317_002846	Ghost
 ETC_20150317_002847	This mercenary already belongs to somebody else.
@@ -2958,13 +2958,13 @@ ETC_20150317_002957	Fantasma
 ETC_20150317_002958	Sem atributo
 ETC_20150317_002959	Fogo
 ETC_20150317_002960	Agua
-ETC_20150317_002961	Eletrico
+ETC_20150317_002961	Elétrico
 ETC_20150317_002962	Veneno
 ETC_20150317_002963	Trevas
 ETC_20150317_002964	Divino
 ETC_20150317_002965	Terra
 ETC_20150317_002966	NA
-ETC_20150317_002967	Cortante
+ETC_20150317_002967	Corte
 ETC_20150317_002968	Perfurar
 ETC_20150317_002969	Impacto
 ETC_20150317_002970	Magico
@@ -3353,7 +3353,7 @@ ETC_20150317_003352	Found the demonic monsters! {nl} Tell the Weak Owl Sculpture
 ETC_20150317_003353	I want to learn
 ETC_20150317_003354	Experiment on laboratory bait successful!
 ETC_20150317_003355	Set up the decoy first, then defeat the monster!
-ETC_20150317_003356	Quest completed. Go to the information offGelor!
+ETC_20150317_003356	Quest completed. Go to the information Officer!
 ETC_20150317_003357	There is a hostile monster in that location.
 ETC_20150317_003358	Collecting Butterfly Fragrance
 ETC_20150317_003359	Please... Help!
@@ -3434,7 +3434,7 @@ ETC_20150317_003433	Derrote the servants of Rexipher!
 ETC_20150317_003434	Get rid of the monsters and get the clue!
 ETC_20150317_003435	Guardian Stone
 ETC_20150317_003436	Destroy the three guardian systems!
-ETC_20150317_003437	NA Guardian offGelor
+ETC_20150317_003437	NA Guardian Officer
 ETC_20150317_003438	Kotodama protector
 ETC_20150317_003439	Derrote Bearkaras!
 ETC_20150317_003440	Assisting
@@ -3600,7 +3600,7 @@ ETC_20150317_003599	Increase Dark Attack by +10
 ETC_20150317_003600	Increase attack by +5 against Beast types, You can hear what the cat said...
 ETC_20150317_003601	Increase SP recovery by +2
 ETC_20150317_003602	Feels like the chance to acquire item will increase
-ETC_20150317_003603	Aumento na Chance de Crítico
+ETC_20150317_003603	Aumento na Taxa de Crítico
 ETC_20150317_003604	Ataque Aumentado
 ETC_20150317_003605	Defesa Aumentada
 ETC_20150317_003606	Attack increased significantly
@@ -3659,7 +3659,7 @@ ETC_20150317_003658	Collected enough hook charcoals! {nl} Check the contents of 
 ETC_20150317_003659	Collected enough hook charcoals
 ETC_20150317_003660	s HP [
 ETC_20150317_003661	%] left!
-ETC_20150317_003662	Record OffGelor
+ETC_20150317_003662	Record Officer
 ETC_20150317_003663	Quest fails when hit!
 ETC_20150317_003664	Quest complete! {nl} Jonas wakes up.
 ETC_20150317_003665	Activate when the Device is sparkling{nl} to shorten the time.
@@ -3794,7 +3794,7 @@ ETC_20150317_003793	There are no quests available for this level range.
 ETC_20150317_003794	CANCEL selection or nil value
 ETC_20150317_003795	{/} Begin Quest
 ETC_20150317_003796	Quest In Progress NPC Talk
-ETC_20150317_003797	Quest Completa
+ETC_20150317_003797	Missão Completa
 ETC_20150317_003798	Show quest info in C: \
 ETC_20150317_003799	Give up Quest
 ETC_20150317_003800	Go to Start NPC
@@ -4083,7 +4083,7 @@ ETC_20150317_004082	Column of Quest Succ_MonKill_ItemGive2 should be none
 ETC_20150317_004083	Column of Quest Succ_MonKillCount2 must be greater than 0.
 ETC_20150317_004084	Column of Quest Succ_MonKill_ItemGive1 should be none
 ETC_20150317_004085	Column of Quest Succ_MonKillCount1 must be greater than 0.
-ETC_20150317_004086	Quest
+ETC_20150317_004086	Missão
 ETC_20150317_004087	There is no session object in the PC
 ETC_20150317_004088	Column of Quest Succ_OverKill_ItemGive6 should be None
 ETC_20150317_004089	Column of Quest Succ_OverKillCount6 must be greater than 0.
@@ -4337,10 +4337,10 @@ ETC_20150317_004336	Preço total: {Auto_1}, Quantidade: {Auto_2} ea
 ETC_20150317_004337	's Bulletin Board
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires TP.{nl}Are you sure you want to reset?
-ETC_20150317_004340	{@st59} Aumento em Ataque Físico e Dano Crítico{/}
-ETC_20150317_004341	{@st59} Aumenta HP, HP Recovery, Resistencia a Crítico, Peso Máximo Carregável{/}
-ETC_20150317_004342	{@st59} Aumento em Dano Mágico e Perfuração de bloqueio{/}
-ETC_20150317_004343	{@st59} Aumenta Precisão, Esquiva e Chance de Crítico {/}
+ETC_20150317_004340	{@st59} Aumento em Ataque Físico e Ataque Crítico{/}
+ETC_20150317_004341	{@st59} Aumenta HP, HP Recovery, Resistência a Crítico, Peso Máximo Carregável{/}
+ETC_20150317_004342	{@st59} Aumento em Dano Mágico e Penetração de Bloqueio{/}
+ETC_20150317_004343	{@st59} Aumenta Precisão, Evasão e Taxa de Crítico {/}
 ETC_20150317_004344	] Do you want to use this card?
 ETC_20150317_004345	Distance
 ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
@@ -4807,16 +4807,16 @@ ETC_20150317_004806	The muddy aura by Bramble disappeared.
 ETC_20150317_004807	Retrieving the relevation
 ETC_20150317_004808	Reparar
 ETC_20150317_004809	Equipamento secundário
-ETC_20150317_004810	Espada de uma Mãos
-ETC_20150317_004811	Espada de Duas Mãos
+ETC_20150317_004810	Espada de 1 Mãos
+ETC_20150317_004811	Espada de 2 Mãos
 ETC_20150317_004812	Cetro
 ETC_20150317_004813	Cajado
 ETC_20150317_004814	Arco
 ETC_20150317_004815	Besta
-ETC_20150317_004816	Clava
+ETC_20150317_004816	Maça
 ETC_20150317_004817	Wand
-ETC_20150317_004818	Lança de uma Mãos
-ETC_20150317_004819	Lança de Duas Mãos
+ETC_20150317_004818	Lança de 1 Mão
+ETC_20150317_004819	Lança de 2 Mãos
 ETC_20150317_004820	Escudo
 ETC_20150317_004821	Adaga
 ETC_20150317_004822	Woah, what's this taste?
@@ -5822,11 +5822,11 @@ ETC_20150317_005821	Invincibility
 ETC_20150317_005822	You temporarily become invincible, but cannot execute any attacks.
 ETC_20150317_005823	Kubus
 ETC_20150317_005824	Kubus: Flame
-ETC_20150317_005825	Increased Resistencia Elementar Fogo of Kubus.
+ETC_20150317_005825	Increased Resistência Elementar Fogo of Kubus.
 ETC_20150317_005826	Kubus: Water
-ETC_20150317_005827	Increased Resistencia Elemental: Gelo of Kubus.
+ETC_20150317_005827	Increased Resistência Elemental: Gelo of Kubus.
 ETC_20150317_005828	Kubus: Tempest
-ETC_20150317_005829	Increased Resistencia Elemental: Elétrico of Kubus.
+ETC_20150317_005829	Increased Resistência Elemental: Elétrico of Kubus.
 ETC_20150317_005830	Dispel Magic
 ETC_20150317_005831	Dispel Ataque Mágico
 ETC_20150317_005832	Ataque Físico Accumulation
@@ -5854,7 +5854,7 @@ ETC_20150317_005853	Increased Attack Buff
 ETC_20150317_005854	Increased Attack Exponential Buff
 ETC_20150317_005855	Decreased Attack Debuff
 ETC_20150317_005856	Aggressor Buff
-ETC_20150317_005857	Decreased Chance de Esquiva, increased Precisão rate
+ETC_20150317_005857	Decreased Chance de Evasão, increased Precisão rate
 ETC_20150317_005858	Transpose Buff
 ETC_20150317_005859	Convert monster's HP into attack
 ETC_20150317_005860	During throw
@@ -6015,7 +6015,7 @@ ETC_20150317_006014	{nl} {nl} Buy back items sold by mistake by right-clicking o
 ETC_20150317_006015	Status Points
 ETC_20150317_006016	Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006017	You can check your character's abilities in the Character Information window ({img F1 40 40}).
-ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Ataque Físico and Dano Crítico {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Resistencia a Crítico and max Inventory Weight {nl} {nl} INT: Increase in Ataque Mágico and Perfuração de bloqueio {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Precisão, Esquiva and Critical Chance {nl}
+ETC_20150317_006018	Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Ataque Físico and Ataque Crítico {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Resistência a Crítico and max Inventory Weight {nl} {nl} INT: Increase in Ataque Mágico and Penetração de Bloqueio {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Precisão, Evasão and Critical Chance {nl}
 ETC_20150317_006020	You can preview the effects of a status when you click 
 ETC_20150317_006021	 in the information tab.
 ETC_20150317_006022	Convenience
@@ -6171,7 +6171,7 @@ ETC_20150317_006171	Resurrect at the nearest area
 ETC_20150317_006172	to move to the dungeon entrance. {nl} Be careful when you're deep inside a dungeon!
 ETC_20150317_006173	Gems can be obtained by hunting monsters and bosses in dungeons. {nl} Be careful, as the gems may be lost when you die.
 ETC_20150317_006174	Equipamento
-ETC_20150317_006175	Arma-Secundária
+ETC_20150317_006175	Arma Secundária
 ETC_20150317_006176	Consumível
 ETC_20150317_006177	Companion Equipment
 ETC_20150317_006178	N/A
@@ -6244,7 +6244,7 @@ ETC_20150317_006244	{s18}{#001100}You can progress the quest by pressing the Spa
 ETC_20150317_006245	{s18}{#001100}You can increase various of stats by collecting items for a Coleção. {/}
 ETC_20150317_006246	Swordsmen are warriors who have strong physical abilities.{nl}They use various weapons to deal with enemies up close{nl}and stand at the front lines.
 ETC_20150317_006247	Highlander
-ETC_20150317_006248	Highlanders are tough fighters who use Espada de Duas Mãoss. They make enemies collide against each other or against Earthin, so they are great for handling multiple enemies.
+ETC_20150317_006248	Highlanders are tough fighters who use Espada de 2 Mãos. They make enemies collide against each other or against Earthin, so they are great for handling multiple enemies.
 ETC_20150317_006249	Peltasta
 ETC_20150317_006250	Peltastas are defensive warriors who use shields to block enemy attacks and provoke enemies.
 ETC_20150317_006251	Hoplites use spears with a long attack range. They gain a bonus when fighting against strong, large-sized enemies.
@@ -6253,7 +6253,7 @@ ETC_20150317_006253	Centurions command the battle with formations. They control 
 ETC_20150317_006254	Barbarian
 ETC_20150317_006255	Barbarians are reckless and aggressive warriors who are not bound to the rules of battle, and would do anything to ensure victory.
 ETC_20150317_006256	Cataphract
-ETC_20150317_006257	Cataphracts use Lança de Duas Mãoss. They act as cavalry who break through and scatter enemy formations.
+ETC_20150317_006257	Cataphracts use Lança de 2 Mãos. They act as cavalry who break through and scatter enemy formations.
 ETC_20150317_006258	Corsair
 ETC_20150317_006259	Doppelsoeldner
 ETC_20150317_006260	Rodelero
@@ -6920,11 +6920,11 @@ ETC_20150317_006920	Eastern Woods Scout
 ETC_20150317_006921	Head of Guard Troop
 ETC_20150317_006922	Western Woods Scout
 ETC_20150317_006923	Village Woman
-ETC_20150317_006924	Female OffGelor
+ETC_20150317_006924	Female Officer
 ETC_20150317_006925	Fallen Soldier
-ETC_20150317_006926	Crux Knights OffGelor (Male)
-ETC_20150317_006927	Crux Knights OffGelor
-ETC_20150317_006928	Crux Knights OffGelor (Female)
+ETC_20150317_006926	Crux Knights Officer (Male)
+ETC_20150317_006927	Crux Knights Officer
+ETC_20150317_006928	Crux Knights Officer (Female)
 ETC_20150317_006929	Militia General Laudrup 
 ETC_20150317_006930	Holger Danske
 ETC_20150317_006931	Innkeeper Genora 
@@ -7360,7 +7360,7 @@ ETC_20150317_007360	Precisão +%d
 ETC_20150317_007361	Defense +%d
 ETC_20150317_007362	Defense +%d
 ETC_20150317_007363	Critical Damage Resistance +%d
-ETC_20150317_007364	Esquiva +%d
+ETC_20150317_007364	Evasão +%d
 ETC_20150317_007365	Devil-type +%d
 ETC_20150317_007366	Devil-type Resistance +%d
 ETC_20150317_007367	Plant-type +%d
@@ -7660,7 +7660,7 @@ ETC_20150317_007660	Request of the Archivist
 ETC_20150317_007661	Parchment of the Archivist
 ETC_20150317_007662	Ink of the Archivist
 ETC_20150317_007663	Protect Archivist Jonas
-ETC_20150317_007664	The Archivist and the Liaison OffGelor
+ETC_20150317_007664	The Archivist and the Liaison Officer
 ETC_20150317_007665	Hidden Archives
 ETC_20150317_007666	Fear of the Archivist
 ETC_20150317_007667	Request of Archivist
@@ -7992,7 +7992,7 @@ ETC_20150317_007992	Additional Darkness Property Damage +30
 ETC_20150317_007993	Jude Set
 ETC_20150317_007994	Movement Speed +5
 ETC_20150317_007995	Ismin Set
-ETC_20150317_007996	Resistencia Elemental: Fogo +15
+ETC_20150317_007996	Resistência Elemental: Fogo +15
 ETC_20150317_007997	Poratore Set
 ETC_20150317_007998	Divino Property Damage +168 {nl} Dark Property Damage +168
 ETC_20150317_007999	Cafrisun Set
@@ -8000,7 +8000,7 @@ ETC_20150317_008000	HP Recovery +16
 ETC_20150317_008001	All Stats +1
 ETC_20150317_008002	Earth Property Damage +12
 ETC_20150317_008003	Riena Set
-ETC_20150317_008004	Resistencia Elemental: Fogo +16
+ETC_20150317_008004	Resistência Elemental: Fogo +16
 ETC_20150317_008005	N/A
 ETC_20150317_008006	N/A
 ETC_20150317_008007	N/A
@@ -8128,9 +8128,9 @@ ETC_20150317_008128	Square
 ETC_20150317_008129	Diamond
 ETC_20150317_008130	Star
 ETC_20150317_008131	Empty
-ETC_20150317_008132	Espada de Duas Mãos Stance
-ETC_20150317_008133	Espada de Uma Mão Stance
-ETC_20150317_008134	Espada de Uma Mão Shield Stance
+ETC_20150317_008132	Espada de 2 Mãos Stance
+ETC_20150317_008133	Espada de 1 Mão Stance
+ETC_20150317_008134	Espada de 1 Mão Shield Stance
 ETC_20150317_008135	Two-handed Bow Stance
 ETC_20150317_008136	Blunt Shield Stance
 ETC_20150317_008137	Blunt Stance
@@ -8141,9 +8141,9 @@ ETC_20150317_008141	Besta Stance
 ETC_20150317_008142	Double Arrow Stance
 ETC_20150317_008143	Secondary Bow Stance
 ETC_20150317_008144	Bow Shield Stance
-ETC_20150317_008145	Lança de Uma Mão Stance
-ETC_20150317_008146	Lança de Uma Mão Shield Stance
-ETC_20150317_008147	Lança de Duas Mãos Stance
+ETC_20150317_008145	Lança de 1 Mão Stance
+ETC_20150317_008146	Lança de 1 Mão Shield Stance
+ETC_20150317_008147	Lança de 2 Mãos Stance
 ETC_20150317_008148	Wizard Two-handed Staff
 ETC_20150317_008149	Bar Stance
 ETC_20150317_008150	Kill Monster
@@ -8268,8 +8268,8 @@ ETC_20150317_008268	Recipe - Wizard Slayer
 ETC_20150317_008269	Recipe - Luciduce
 ETC_20150317_008270	Recipe - Hell and Heaven
 ETC_20150317_008271	Recipe - Nulis
-ETC_20150317_008272	Recipe - Smith Espada de Duas Mãos
-ETC_20150317_008273	Recipe - Klavis Espada de Duas Mãos
+ETC_20150317_008272	Recipe - Smith Espada de 2 Mãos
+ETC_20150317_008273	Recipe - Klavis Espada de 2 Mãos
 ETC_20150317_008274	Recipe - Cane Rover
 ETC_20150317_008275	Recipe - Cane
 ETC_20150317_008276	Recipe - Crook
@@ -8773,13 +8773,13 @@ ETC_20150317_008773	Press Z to attack.
 ETC_20150317_008774	STR Stat Tip
 ETC_20150317_008775	The STR stat increases your physical damage and critical damage. 
 ETC_20150317_008776	CON Stat Tip
-ETC_20150317_008777	The CON stat increases your max HP, HP recovery rate, inventory weight, Resistencia a Crítico and shield Chance de Bloqueio.
+ETC_20150317_008777	The CON stat increases your max HP, HP recovery rate, inventory weight, Resistência a Crítico and shield Chance de Bloqueio.
 ETC_20150317_008778	INT Stat Tip
 ETC_20150317_008779	The INT stat increases your Ataque Mágico.
 ETC_20150317_008780	SPR Stat Tip
 ETC_20150317_008781	The SPR stat increases your max SP and SP recovery rate.
 ETC_20150317_008782	DEX Stat Tip
-ETC_20150317_008783	The DEX stat increases your Precisão, Chance de Crítico and Esquiva.
+ETC_20150317_008783	The DEX stat increases your Precisão, Taxa de Crítico and Evasão.
 ETC_20150317_008784	Continuous Attack Tip
 ETC_20150317_008785	Hold down Z to attack continuously.
 ETC_20150317_008786	Stamina Tip
@@ -8871,7 +8871,7 @@ ETC_20150317_008871	Attacking with countering properties on monsters can cause m
 ETC_20150317_008872	Archer Tip
 ETC_20150317_008873	Press and hold the attack button to continuously attack a targeted enemy. You can also move while attacking using the arrow keys.
 ETC_20150317_008874	The attacks of the Archer has a maximum range. Higher damage can be dealt when shooting from afar.
-ETC_20150317_008875	Precisão and Esquiva increases when an Archer-type class gains a level.
+ETC_20150317_008875	Precisão and Evasão increases when an Archer-type class gains a level.
 ETC_20150317_008876	An Archer's basic attack can cause more damage to Flying-type monsters.
 ETC_20150317_008877	Wizard Tip
 ETC_20150317_008878	When a Wizard-type class is attacked during skill casting, the skill can be canceled.
@@ -8934,7 +8934,7 @@ ETC_20150317_008934	Remove monsters
 ETC_20150317_008935	Toggle NPC Hide
 ETC_20150317_008936	NPC Function Name
 ETC_20150317_008937	Test Quest Tracking
-ETC_20150317_008938	Quest
+ETC_20150317_008938	Missão
 ETC_20150317_008939	Go to NPC Quest Track
 ETC_20150317_008940	Reset the smart gen previous place
 ETC_20150317_008941	Smart Gen Test
@@ -8956,10 +8956,10 @@ ETC_20150317_008956	Lava
 ETC_20150317_008957	Poison Pot
 ETC_20150317_008958	Resistance
 ETC_20150317_008959	Threat
-ETC_20150317_008960	Chance de Crítico
+ETC_20150317_008960	Taxa de Crítico
 ETC_20150317_008961	Movement Speed
 ETC_20150317_008962	Range
-ETC_20150317_008963	Dano Crítico
+ETC_20150317_008963	Ataque Crítico
 ETC_20150317_008964	Critical Defense
 ETC_20150317_008965	HP Regeneration
 ETC_20150317_008966	SP Regeneration
@@ -10913,7 +10913,7 @@ ETC_20150414_010914	voices: voice of the King
 ETC_20150414_010915	Secret codes criss-cross your mind.
 ETC_20150414_010916	Charge Monster Power
 ETC_20150414_010917	Spider Web
-ETC_20150414_010918	Highlanders are tough fighters who use Espada de Duas Mãoss. They make enemies collide against each other or against Earthin, so they are great for handling multiple enemies.
+ETC_20150414_010918	Highlanders are tough fighters who use Espada de 2 Mãos. They make enemies collide against each other or against Earthin, so they are great for handling multiple enemies.
 ETC_20150414_010919	Centurions command the battle with formations. They control their allies and use different formations depending on the situation.
 ETC_20150414_010920	Corsairs are specialized in dual-wielding and ambushing enemies from behind. Anyone who joins a Corsair's party becomes a pirate.
 ETC_20150414_010921	Ataque, Equipe
@@ -11167,9 +11167,9 @@ ETC_20150414_011168	Please save me!
 ETC_20150414_011169	Summon monster
 ETC_20150414_011170	Enter party description
 ETC_20150414_011171	Amount entered is more than the amount you have, or you entered a negative number.
-ETC_20150414_011172	Equip Espada de Duas Mãos
-ETC_20150414_011173	Equip Espada de Uma Mão
-ETC_20150414_011174	Equip Espada de Uma Mão and Shield
+ETC_20150414_011172	Equip Espada de 2 Mãos
+ETC_20150414_011173	Equip Espada de 1 Mão
+ETC_20150414_011174	Equip Espada de 1 Mão and Shield
 ETC_20150414_011175	Equip Two-handed Bow
 ETC_20150414_011176	Equip Blunt Weapon and Shield
 ETC_20150414_011177	Equip Shield
@@ -11179,9 +11179,9 @@ ETC_20150414_011180	Equip Besta
 ETC_20150414_011181	Equip Double Bow
 ETC_20150414_011182	Equip Sub-bow
 ETC_20150414_011183	Equip Bow and Shield
-ETC_20150414_011184	Equip Lança de Uma Mão
-ETC_20150414_011185	Equip Lança de Uma Mão and Shield
-ETC_20150414_011186	Equip Lança de Duas Mãos
+ETC_20150414_011184	Equip Lança de 1 Mão
+ETC_20150414_011185	Equip Lança de 1 Mão and Shield
+ETC_20150414_011186	Equip Lança de 2 Mãos
 ETC_20150414_011187	Equip Two-handed Staff
 ETC_20150414_011188	Equip Pistol and Shield
 ETC_20150414_011189	Equip Pistol Sub-weapon
@@ -11374,7 +11374,7 @@ ETC_20150428_011375	Gives additional Earth property damage when receiving Ataque
 ETC_20150428_011376	Earth Leather Armor Set
 ETC_20150428_011377	Earth Metal Armor Set
 ETC_20150428_011378	Legwyn Family's Tecido Armor Set
-ETC_20150428_011379	Resistencia Elemental: Dark +10
+ETC_20150428_011379	Resistência Elemental: Dark +10
 ETC_20150428_011380	SPR +6
 ETC_20150428_011381	1% chance of recovering 200 SP for 5 segundos when attacked by a Devil-type enemy
 ETC_20150428_011382	Legwyn Family's Leather Armor Set
@@ -11386,7 +11386,7 @@ ETC_20150428_011387	Recipe - Firangi
 ETC_20150428_011388	Recipe - Thorn Cutter
 ETC_20150428_011389	Recipe - Zweihander
 ETC_20150428_011390	Recipe - Executioner's Sword
-ETC_20150428_011391	Recipe - Lumai Espada de Duas Mãos
+ETC_20150428_011391	Recipe - Lumai Espada de 2 Mãos
 ETC_20150428_011392	Recipe - Elder Rod
 ETC_20150428_011393	Recipe - Meteor Rod
 ETC_20150428_011394	Recipe - Ring Rod
@@ -11431,7 +11431,7 @@ ETC_20150428_011432	Recipe - Superior Key Pendant
 ETC_20150428_011433	Recipe - Sage Necklace
 ETC_20150428_011434	Recipe - Superior Rune Bracelet
 ETC_20150428_011435	Recipe - Star Bracelet
-ETC_20150428_011436	FAQ : Dano de Armas{nl}1) Ataques [Cortantes] são fortes contra armaduras do tipo [Tecido]. {nl}2) Ataques de [Impacto] são fortes contra armaduras do tipo [Placa].{nl}3) Ataques [Perfurante] são fortes contra armaduras do tipo [Couro]. {nl}4) Ataques básicos Mágicos são fortes contra armaduras do tipo Fantasma.
+ETC_20150428_011436	FAQ : Dano de Armas{nl}1) Ataques [Cortantes] são fortes contra armaduras do tipo [Tecido]. {nl}2) Ataques de [Impacto] são fortes contra armaduras do tipo [Metal].{nl}3) Ataques [Perfurante] são fortes contra armaduras do tipo [Couro]. {nl}4) Ataques básicos Mágicos são fortes contra armaduras do tipo Fantasma.
 ETC_20150428_011437	FAQ : Character HP, SP, STA {nl}1) You can check your character's information on the upper left side of the screen. {nl}2) STA: This is stamina. When your STA is 0, you can only walk and cannot run anymore. {nl} STA is also used when learning certain attributes. {nl} STA can be recovered by destroying Tree Root Crystals or by using Stamina Pills. {nl} Stamina Pills can be purchased from shops, earned by completing quests or by defeating boss monsters.
 ETC_20150428_011438	FAQ : Character Level & Class Level{nl}1) You can check the info at the lower part of your screen. {nl}2) Character Level: this is the level of your character. {nl}3) Class Level: this is the level of the class you chose. {nl} You can advance to another class when your Class Level has reached 15. 
 ETC_20150428_011439	FAQ : Quick Slot{nl}1) You can add items and skills to the quick slot at the lower part of your screen. {nl}2) Skills are automatically added to the quick slot when you learn them. {nl}3) You can use up to 40 quick slots. {nl}4) Quick slots can be locked or unlocked. {nl}You cannot add or remove items or skills in the quick slot when it is locked.
@@ -11439,7 +11439,7 @@ ETC_20150428_011440	FAQ : Changing Channels{nl}1) You can change channels by cli
 ETC_20150428_011441	FAQ : Rest Mode{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a Fogueira, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Lenha" to create a Fogueira. {nl} HP, SP, STA is restored quicker when you use a Fogueira.{nl}4) Other functions will be added in the near future.
 ETC_20150428_011442	FAQ : Durability & Potential{nl}1) Durability : Decreases a little bit when you play with the equipment on.{nl}    When an item's durability decreases below a certain level, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
 ETC_20150428_011443	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Mercador de Itens in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
-ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Mestres. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Highlander, you can learn the "Use Espada de Duas Mãoss" attribute from the Highlander Mestre and use Espada de Duas Mãoss. {nl}3) Mestres who teach attributes are located all around the map.
+ETC_20150428_011444	FAQ : Attributes{nl}1) There are attributes that you can learn from the class specific Mestres. {nl}2) You can learn different types of attributes depending on what class you are. {nl} If you advance to a Highlander, you can learn the "Use Espada de 2 Mãos" attribute from the Highlander Mestre and use Espada de 2 Mãos. {nl}3) Mestres who teach attributes are located all around the map.
 ETC_20150428_011445	FAQ : Charge Skills{nl}1) Charge Skills are triggered only when you press down the quick slot button of the skill. {nl}2) A Charge Skill is canceled when you are attacked while using it.
 ETC_20150428_011446	FAQ : System Menu{nl}1) You can change to "Controller UI Mode" through game settings when you are using a controller. {nl}2) There is a special "Low Mode" for PCs with minimum system requirements.
 ETC_20150428_011447	FAQ : Chatting{nl}1) Shout: Enter "/y" before your message to show your message to all the players in the game. {nl} It requires a Megaphone item to do so. {nl}2) Party Chat: Enter "/p" before your message to chat with the party members in your party. {nl}Whisper: Enter "/w Team Name" before your message to talk privately with the player of that Team Name.
@@ -11452,8 +11452,8 @@ ETC_20150428_011453	Your search query must contain at least {LEN} characters.
 ETC_20150428_011454	Sending successful. Thank you.
 ETC_20150428_011455	Failed to send.
 ETC_20150428_011456	This card is unequipped. Cannot be summoned.
-ETC_20150428_011457	Clava de Uma Mão
-ETC_20150428_011458	Lança de Uma Mão
+ETC_20150428_011457	Maça de 1 Mão
+ETC_20150428_011458	Lança de 1 Mão
 ETC_20150428_011459	Pistola
 ETC_20150428_011460	Artifact
 ETC_20150428_011461	Selecione um personagem com o qual deseja que seu Mascote acompanhe.
@@ -11595,7 +11595,7 @@ ETC_20150511_011596	Activate the 1st sealed Device
 ETC_20150511_011597	Activate the 2nd sealed Device
 ETC_20150511_011598	Activate the 3rd sealed Device
 ETC_20150511_011599	FAQ : Durability & Potential{nl}1) Durability : Starts to decrease slowly when you play with equipped equipment.{nl}    When an item's durability is below a certain value, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
-ETC_20150511_011600	]{nl}Quest Completa!
+ETC_20150511_011600	]{nl}Missão Completa!
 ETC_20150511_011601	Why now...!
 ETC_20150511_011602	Did you defeat them all?
 ETC_20150511_011603	Uh...!
@@ -12256,8 +12256,8 @@ ETC_20150714_012257	Ataque Físico Mínimo
 ETC_20150714_012258	Amplificação Mágica
 ETC_20150714_012259	Ataque Mágico Mínimo
 ETC_20150714_012260	Ataque Mágico Máximo
-ETC_20150714_012261	Add {Value} Chance de Crítico to your Companion
-ETC_20150714_012262	Add {Value} Esquiva to your Companion
+ETC_20150714_012261	Add {Value} Taxa de Crítico to your Companion
+ETC_20150714_012262	Add {Value} Evasão to your Companion
 ETC_20150714_012263	You don't have the attribute to mount this Companion.
 ETC_20150714_012264	Return to Lodge.
 ETC_20150714_012265	Normal Attack
@@ -13521,7 +13521,7 @@ ETC_20150717_013522	Você quer aprender este atributo?
 ETC_20150717_013523	Conectando no servidor...
 ETC_20150717_013524	{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press and hold the Shift button + right-click{nl}to sell multiple quantities of an item.{nl}Double-click to sell all.
 ETC_20150717_013525	Este canal está lotado{nl} Você será movido para outro.
-ETC_20150717_013526	Ao refinar armaduras, arma-secundária, braceletes ou colares acima de + {Auto_1}, se ele falhar, o Potencial desse item diminuirá em 1.{nl} {nl}Quando o Potencial cair abaixo de 0, o item será destruído. Você quer continuar?
+ETC_20150717_013526	Ao refinar armaduras, Arma Secundária, braceletes ou colares acima de + {Auto_1}, se ele falhar, o Potencial desse item diminuirá em 1.{nl} {nl}Quando o Potencial cair abaixo de 0, o item será destruído. Você quer continuar?
 ETC_20150717_013527	Ao refinar armas acima de + {Auto_1}, se falhar, o Potencial e o Refino desse item diminuirá em 1.{nl} {nl}Quando o Potencial cair abaixo de 0, o item será destruído. Você quer continuar?
 ETC_20150717_013528	Will be entered automatically after 5 secs
 ETC_20150717_013529	O Despertar irá falhar se sair da dungeon.{nl}Deseja proceder?
@@ -13609,7 +13609,7 @@ ETC_20150717_013610	Suspicious Crystal
 ETC_20150717_013611	Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} Silver obtained.
-ETC_20150717_013614	{@st59}Aumento em SP Máx, Recuperação de SP e Perfuração de bloqueio{/}
+ETC_20150717_013614	{@st59}Aumento em SP Máx, Recuperação de SP e Penetração de Bloqueio{/}
 ETC_20150717_013615	{@st59}Aumenta o Ataque Mágico{/}
 ETC_20150729_013616	Colimen
 ETC_20150729_013617	Minas
@@ -13657,7 +13657,7 @@ ETC_20150729_013658	Corpse
 ETC_20150729_013659	Fallen corpse.
 ETC_20150729_013660	Hanging on companion
 ETC_20150729_013661	EXP Jackpot
-ETC_20150729_013662	Increased Esquiva.
+ETC_20150729_013662	Increased Evasão.
 ETC_20150729_013663	Explosion
 ETC_20150729_013664	Explodes upon death.
 ETC_20150729_013665	Resistance
@@ -13665,7 +13665,7 @@ ETC_20150729_013666	Damage Weapon
 ETC_20150729_013667	Potential decrease when using Ataque Físico
 ETC_20150729_013668	Arrow Resistance
 ETC_20150729_013669	Increased resistance against arrow attacks.
-ETC_20150729_013670	Resistencia Elementar
+ETC_20150729_013670	Resistência Elementar
 ETC_20150729_013671	Magic resistance increase based on property
 ETC_20150729_013672	Level Up
 ETC_20150729_013673	Mutant type monsters level up instead of sleeping when casted with sleep type debuff.
@@ -13695,7 +13695,7 @@ ETC_20150729_013696	Only the areas you have already discovered will be activated
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
 ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
 ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
-ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Ataque Físico and Dano Crítico {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Resistencia a Crítico and Max Inventory Weight {nl} {nl} INT : Increase in Ataque Mágico{nl}{nl} SPR : Increase in Max SP and SP Recovery, Defesa Mágica and Perfuração de bloqueio {nl} {nl} DEX : Increase in Precisão, Esquiva and Critical Chance {nl}
+ETC_20150729_013700	Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Ataque Físico and Ataque Crítico {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Resistência a Crítico and Max Inventory Weight {nl} {nl} INT : Increase in Ataque Mágico{nl}{nl} SPR : Increase in Max SP and SP Recovery, Defesa Mágica and Penetração de Bloqueio {nl} {nl} DEX : Increase in Precisão, Evasão and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
 ETC_20150729_013702	You can manage the skills of your character through the Skill window. 
 ETC_20150729_013703	Aperte {img F3 40 40} para abrir a janela de Skill.
@@ -13963,7 +13963,7 @@ ETC_20150729_013964	This monster has a detonator!
 ETC_20150729_013965	The terminal rejected accesss!
 ETC_20150729_013966	You will lost your energy to the terminal for 1 minuto!{nl}Svitrigaila could eliminate all the evil energy!
 ETC_20150729_013967	Obtained all core required.
-ETC_20150729_013968	{@st59}Increases Max SP, SP Recovery, Perfuração de bloqueio and Defesa Mágica{/}
+ETC_20150729_013968	{@st59}Increases Max SP, SP Recovery, Penetração de Bloqueio and Defesa Mágica{/}
 ETC_20150729_013969	You hear the sounds of working machinery!{nl}Go to District 5 and look for lubricant.
 ETC_20150729_013970	Asking about the eternal life
 ETC_20150729_013971	SacrifGelo a Big Siaulamb Sinew as an offering
@@ -14012,7 +14012,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	You found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Taxa de Exploração {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Exploração Completa
-ETC_20150729_014017	{@st59} Increases Ataque Físico, Dano Crítico and Peso Máximo Carregável{/}
+ETC_20150729_014017	{@st59} Increases Ataque Físico, Ataque Crítico and Peso Máximo Carregável{/}
 ETC_20150729_014018	Previous Warp
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[Mestre Doppelsoeldner]{nl}          Guerra
@@ -14036,7 +14036,7 @@ ETC_20150730_014037	Damage taken will be shared with the connected objects.
 ETC_20150730_014038	Buff effects will be shared with the connected objects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Dano Crítico and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistencia a Crítico and Max Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Perfuração de bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Esquiva and Chance de Crítico{nl}
+ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistência a Crítico and Max Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Penetração de Bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
 ETC_20150730_014042	DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTGelo_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -14187,19 +14187,19 @@ ETC_20150807_014188	Dano Elemental Elétrico{img attri_Lightning 23 23} {img red
 ETC_20150807_014189	Defesa {img red_up_arrow 16 16} 6
 ETC_20150807_014190	Dano Elemental Trevas{img attri_Dark 23 23} {img red_up_arrow 16 16} 30
 ETC_20150807_014191	Veloc. de Movimento {img red_up_arrow 16 16} 5
-ETC_20150807_014192	Resistencia Elementar Fogo {img red_up_arrow 16 16} 15
+ETC_20150807_014192	Resistência Elementar Fogo {img red_up_arrow 16 16} 15
 ETC_20150807_014193	Ataque Elemental Divino {img red_up_arrow 16 16} 168{nl}Ataque Elemental Trevas {img red_up_arrow 16 16} 168
 ETC_20150807_014194	HP Recovery {img red_up_arrow 16 16} 16
 ETC_20150807_014195	Todos os Stats {img red_up_arrow 16 16} 1
 ETC_20150807_014196	Adiciona um Hit Extra de Terra no valor de {img red_up_arrow 13 13}12 no ataque básico 
-ETC_20150807_014197	Resistencia Elemental Fogo {img red_up_arrow 16 16} 16
+ETC_20150807_014197	Resistência Elemental Fogo {img red_up_arrow 16 16} 16
 ETC_20150807_014198	Dano contra monstros Demônio {img red_up_arrow 16 16} 6
 ETC_20150807_014199	Dano contra monstros Demônio {img red_up_arrow 16 16} 8 por 30 segundos em 1% chance ao usar ataques básicos
 ETC_20150807_014200	1% de chance de aumentar o dano contra monstros Demônio em {img red_up_arrow 16 16} 157 por 30 segundos
 ETC_20150807_014201	Todos os Stats {img red_up_arrow 16 16} 3
 ETC_20150807_014202	CON {img red_up_arrow 16 16} 5
 ETC_20150807_014203	STA {img red_up_arrow 16 16} 10
-ETC_20150807_014204	Resistencia Elemental Trevas{img red_up_arrow 16 16} 10
+ETC_20150807_014204	Resistência Elemental Trevas{img red_up_arrow 16 16} 10
 ETC_20150807_014205	SPR {img red_up_arrow 16 16} 6
 ETC_20150807_014206	Group Settings {img white_right_arrow 18 18}
 ETC_20150807_014207	{@st41b}Fold {img red_up_arrow 16 16} 
@@ -14356,17 +14356,17 @@ ETC_20150918_014357	Ataque Elemental Divino {img green_up_arrow 16 16}168{nl}Dan
 ETC_20150918_014358	HP Recovery {img green_up_arrow 16 16} 16
 ETC_20150918_014359	Todos os Stats {img green_up_arrow 16 16} 1
 ETC_20150918_014360	Earth Property Additional Damage {img green_up_arrow 16 16} 12
-ETC_20150918_014361	Resistencia Elementar Fogo {img green_up_arrow 16 16} 16
+ETC_20150918_014361	Resistência Elementar Fogo {img green_up_arrow 16 16} 16
 ETC_20150918_014362	Dano contra monstros Devil {img green_up_arrow 16 16} 6
 ETC_20150918_014363	Dano contra monstros Devil {img green_up_arrow 16 16} 8
 ETC_20150918_014364	1% chance to gain 30 segundos of increased Dano contra monstros Devil by {img green_up_arrow 16 16} 157 
 ETC_20150918_014365	Todos os Stats {img green_up_arrow 16 16} 3
 ETC_20150918_014366	CON {img green_up_arrow 16 16} 5
 ETC_20150918_014367	Stamina {img green_up_arrow 16 16} 10
-ETC_20150918_014368	Darkness Resistencia Elementar {img green_up_arrow 16 16} 10
+ETC_20150918_014368	Darkness Resistência Elementar {img green_up_arrow 16 16} 10
 ETC_20150918_014369	SPR {img green_up_arrow 16 16} 6
 ETC_20150918_014370	Agvenipa Set
-ETC_20150918_014371	[Backstab] Attack x4{nl}Esquiva {img red_down_arrow 16 16} 188
+ETC_20150918_014371	[Backstab] Attack x4{nl}Evasão {img red_down_arrow 16 16} 188
 ETC_20150918_014372	Bokor Zombie Count
 ETC_20150918_014373	blowSound volume except for my character
 ETC_20150918_014374	Character Advancement Rank Limit
@@ -14378,10 +14378,10 @@ ETC_20150918_014379	Recipe - Escanciu Sword
 ETC_20150918_014380	Recipe - Krag Sword
 ETC_20150918_014381	Recipe - Pilgrim Sword
 ETC_20150918_014382	Recipe - Istora Sword
-ETC_20150918_014383	Recipe - Escanciu Espada de Duas Mãos
-ETC_20150918_014384	Recipe - Krag Espada de Duas Mãos
-ETC_20150918_014385	Recipe - Pilgrim Espada de Duas Mãos
-ETC_20150918_014386	Recipe - Istora Espada de Duas Mãos
+ETC_20150918_014383	Recipe - Escanciu Espada de 2 Mãos
+ETC_20150918_014384	Recipe - Krag Espada de 2 Mãos
+ETC_20150918_014385	Recipe - Pilgrim Espada de 2 Mãos
+ETC_20150918_014386	Recipe - Istora Espada de 2 Mãos
 ETC_20150918_014387	Recipe - Escanciu Rod
 ETC_20150918_014388	Recipe - Krag Rod
 ETC_20150918_014389	Recipe - Pilgrim Rod
@@ -14593,7 +14593,7 @@ ETC_20150918_014594	There isn't any usable equipment
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	Crafting items.
-ETC_20150918_014598	{s18}Ataque Físico Secundário
+ETC_20150918_014598	{s18}Atq. Físico Secundário
 ETC_20150918_014599	Secondary Magical Attack
 ETC_20150918_014600	Você deseja bloquear esse usuário?
 ETC_20150918_014601	You cannot 'Like' yet.
@@ -14881,7 +14881,7 @@ ETC_20151001_014881	Kingdom Camp
 ETC_20151001_014882	Leima Small Square
 ETC_20151001_014883	Mailruma Steeple
 ETC_20151001_014884	Nucisto collapsed Area
-ETC_20151001_014885	OffGelor House
+ETC_20151001_014885	Officer House
 ETC_20151001_014886	Bingcoolers Path
 ETC_20151001_014887	Vitina Waterway
 ETC_20151001_014888	Barrack
@@ -15016,11 +15016,11 @@ ETC_20151001_015016	Obtain the stone from the rocks nearby
 ETC_20151001_015017	Obtain the Couro string from the monsters
 ETC_20151001_015018	Make the string bunch for bookbinding through the Couro string
 ETC_20151001_015019	Plateau Defense Target NPC
-ETC_20151001_015020	Espada de Uma Mão Dagger
-ETC_20151001_015021	Espada de Uma Mão Sub
+ETC_20151001_015020	Espada de 1 Mão Dagger
+ETC_20151001_015021	Espada de 1 Mão Sub
 ETC_20151001_015022	Besta Dagger
-ETC_20151001_015023	Lança de Uma Mão Dagger
-ETC_20151001_015024	Lança de Uma Mão Sub
+ETC_20151001_015023	Lança de 1 Mão Dagger
+ETC_20151001_015024	Lança de 1 Mão Sub
 ETC_20151001_015025	Blunt Dagger
 ETC_20151001_015026	Blunt Sub
 ETC_20151001_015027	Pistol Dagger
@@ -15180,7 +15180,7 @@ ETC_20151001_015180	What is the Device which was destroyed by Ruklys!
 ETC_20151001_015181	I will follow you
 ETC_20151001_015182	There are no usable components
 ETC_20151001_015183	Looking for components
-ETC_20151001_015184	Ruklys Army OffGelor
+ETC_20151001_015184	Ruklys Army Officer
 ETC_20151001_015185	Returning
 ETC_20151001_015186	Looking for woods
 ETC_20151001_015187	You've found the woods for barricade
@@ -15198,11 +15198,11 @@ ETC_20151001_015198	I will go!
 ETC_20151001_015199	There are no fallen items nearby.
 ETC_20151001_015200	Skull Slash!!
 ETC_20151001_015201	Level {Level}
-ETC_20151001_015202	Equip Espada de Uma Mão Dagger
-ETC_20151001_015203	Equip Espada de Uma Mão Sub
+ETC_20151001_015202	Equip Espada de 1 Mão Dagger
+ETC_20151001_015203	Equip Espada de 1 Mão Sub
 ETC_20151001_015204	Equip Besta Dagger
-ETC_20151001_015205	Equip Lança de Uma Mão Dagger
-ETC_20151001_015206	Equip Lança de Uma Mão Sub
+ETC_20151001_015205	Equip Lança de 1 Mão Dagger
+ETC_20151001_015206	Equip Lança de 1 Mão Sub
 ETC_20151001_015207	Equip Blunt Dagger
 ETC_20151001_015208	Equip Blunt Sub
 ETC_20151001_015209	Equip Pistol Dagger
@@ -15233,7 +15233,7 @@ ETC_20151001_015233	Priest Irma2
 ETC_20151001_015234	Priest Gelija
 ETC_20151001_015235	Abandoned Kingdom Guard's Bag
 ETC_20151001_015236	Supply Box
-ETC_20151001_015237	Ruklys Army OffGelor's Spirit
+ETC_20151001_015237	Ruklys Army Officer's Spirit
 ETC_20151001_015238	Petrified Kingdom Guard
 ETC_20151001_015239	Barrier Crystal
 ETC_20151001_015240	Rajatoad's Egg
@@ -15248,7 +15248,7 @@ ETC_20151001_015248	Mayor's Grandson
 ETC_20151001_015249	Village Headman
 ETC_20151001_015250	Village Resident
 ETC_20151001_015251	Dievdirbys Widas
-ETC_20151001_015252	Newly-Appointed Village OffGelor
+ETC_20151001_015252	Newly-Appointed Village Officer
 ETC_20151001_015253	FreeDungeon_4_1
 ETC_20151001_015254	Goddess Restrain Device
 ETC_20151001_015255	Vitality Absorption Device
@@ -15908,7 +15908,7 @@ ETC_20151016_015902	Braken Forest 63-1
 ETC_20151016_015903	Braken Forest 63-3
 ETC_20151016_015904	Braken Forest 42_1
 ETC_20151016_015905	Braken Herbs
-ETC_20151016_015906	Liaison OffGelor Mardas
+ETC_20151016_015906	Liaison Officer Mardas
 ETC_20151016_015907	Owl Chief Sculpture
 ETC_20151016_015908	Karolis Altar
 ETC_20151016_015909	Karolis' Light
@@ -15921,7 +15921,7 @@ ETC_20151016_015915	For effects of flame bombs
 ETC_20151016_015916	Golden Pillar
 ETC_20151016_015917	Silver Pillar
 ETC_20151016_015918	Bronze Pillar
-ETC_20151016_015919	OffGelor Lutas
+ETC_20151016_015919	Officer Lutas
 ETC_20151016_015920	Derrote Gray Golem and Carapace!
 ETC_20151022_015921	Yellow Colifly
 ETC_20151022_015922	Evil Necroventer
@@ -16241,7 +16241,7 @@ ETC_20151022_016235	Destroy the Mind Control Tower
 ETC_20151022_016236	Purified Power
 ETC_20151022_016237	Remove the magic circle that manages the Eyes of Surveillance
 ETC_20151022_016238	Derrote the monsters that are in the forest of the beginning
-ETC_20151022_016239	Help Liaison OffGelor Moren
+ETC_20151022_016239	Help Liaison Officer Moren
 ETC_20151022_016240	Find the hideout
 ETC_20151022_016241	Check the Fogueira
 ETC_20151022_016242	Check the Scattered Goods
@@ -16584,7 +16584,7 @@ ETC_20151102_016578	I'm sorry. Please leave
 ETC_20151102_016579	We came to investigate...
 ETC_20151102_016580	Namott
 ETC_20151102_016581	Namott Divino Water Effect: Invisible to demons
-ETC_20151102_016582	Reduced Resistencia Elementar Gelo
+ETC_20151102_016582	Reduced Resistência Elementar Gelo
 ETC_20151102_016583	Psychokinesis Scroll's Effect
 ETC_20151102_016584	You're currently affected by the Psychokinesis Scroll.
 ETC_20151102_016585	Pearl Powder
@@ -16951,7 +16951,7 @@ ETC_20151102_016945	Retrieve the sacred objects destroyed by the demons
 ETC_20151102_016946	Deliver an item that can overload the Device to Edmundas
 ETC_20151102_016947	Find the Experiment Journal written by a mysterious wizard
 ETC_20151102_016948	Deactivate the Giant Bracken Spore Breeding Device
-ETC_20151102_016949	Increases [Backstab] damage by 4x when attacking an enemy from behind{nl}Esquiva {img red_down_arrow 16 16} 188
+ETC_20151102_016949	Increases [Backstab] damage by 4x when attacking an enemy from behind{nl}Evasão {img red_down_arrow 16 16} 188
 ETC_20151102_016950	Player's Max Level
 ETC_20151102_016951	OptDesc/ - Thrust Skill Lv +1
 ETC_20151102_016952	OptDesc/ - Bash Skill Lv +1
@@ -17141,7 +17141,7 @@ ETC_20151102_017135	OptDesc/ - Feint Skill Lv +1
 ETC_20151102_017136	OptDesc/ - Capture Skill Lv +1
 ETC_20151102_017137	OptDesc/ - Vendetta Skill Lv +1
 ETC_20151102_017138	OptDesc/ - Burrow Skill Lv +1
-ETC_20151102_017139	OptDesc/ - Esquiva Skill Lv +1
+ETC_20151102_017139	OptDesc/ - Evasion Skill Lv +1
 ETC_20151102_017140	OptDesc/ - Lachrymator Skill Lv +1
 ETC_20151102_017141	OptDesc/ - Backstab Skill Lv +1
 ETC_20151102_017142	OptDesc/ - Concentrated Fogo Skill Lv +1
@@ -18038,7 +18038,7 @@ ETC_20151224_018032	{nl} {nl}Press {img Alt 40 40} to immediately stop movement 
 ETC_20151224_018033	{nl} {nl}Places you've never been are not shown on the World Map.
 ETC_20151224_018034	{nl} {nl}You can view the World Map by pressing {img N 40 40}.
 ETC_20151224_018035	{nl} {nl}Hover your mouse cursor on the marked areas,{nl}to view maps which your character has completed so far.
-ETC_20151224_018036	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Dano Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistencia a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Perfuração de bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Esquiva and Chance de Crítico{nl}
+ETC_20151224_018036	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Resistência a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Defesa Mágica, Penetração de Bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
 ETC_20151224_018037	{nl} {nl}The effects of the status that you want to invest can be previewed below in the character window.
 ETC_20151224_018038	{nl} {nl}Your skill level increases after clicking on the + button.
 ETC_20151224_018039	{nl} {nl}Some attributes can be turned on or off depending on the circumstances.
@@ -18299,7 +18299,7 @@ ETC_20151224_018293	Recovers the durability of your equipment by +5.
 ETC_20151224_018294	50 TP [Evento]
 ETC_20151224_018295	Use to obtain 50 TP.
 ETC_20151224_018296	Shinobis are warriors who are familiar with special tactics called Ninjutsu. Only few can overcome the long and harsh training required to become a Shinobi.
-ETC_20151224_018297	Dragoons are elite warriors who are specialized in using spears for battle. They benefit from using Lança de Duas Mãoss.
+ETC_20151224_018297	Dragoons are elite warriors who are specialized in using spears for battle. They benefit from using Lança de 2 Mãos.
 ETC_20151224_018298	Templars are commanding leaders who organize guilds and lead those within their guild. Only a Templar can become a guild Mestre and determine the outcome of his or her guild.
 ETC_20151224_018299	Suporte
 ETC_20151224_018300	Criomantes usam magias de gelo poderosas para congelar inimigos, ou proteger seus aliados de inimigos usando defesas de gelo.
@@ -18656,7 +18656,7 @@ ETC_20151224_018650	Magic Power War Objective
 ETC_20151224_018651	Monster and NPC Test
 ETC_20151224_018652	Magic Power Deliver Objective
 ETC_20151224_018653	Karacha Set
-ETC_20151224_018654	Increases [Backstab] damage by 3x when attacking an enemy from behind{nl}Esquiva {img red_down_arrow 16 16} 188
+ETC_20151224_018654	Increases [Backstab] damage by 3x when attacking an enemy from behind{nl}Evasão {img red_down_arrow 16 16} 188
 ETC_20151224_018655	Velnia Monkey Set
 ETC_20151224_018656	DEX {img green_up_arrow 16 16} 6
 ETC_20151224_018657	Elgos Set
@@ -18666,10 +18666,10 @@ ETC_20151224_018660	INT {img green_up_arrow 16 16} 15
 ETC_20151224_018661	Ibre Set
 ETC_20151224_018662	Defesa Física {img green_up_arrow 16 16} 5
 ETC_20151224_018663	Defesa Física {img green_up_arrow 16 16} 10
-ETC_20151224_018664	Esquiva {img green_up_arrow 16 16} 15
+ETC_20151224_018664	Evasão {img green_up_arrow 16 16} 15
 ETC_20151224_018665	Grynas Set
-ETC_20151224_018666	Resistencia Elementar Dark {img green_up_arrow 16 16} 10
-ETC_20151224_018667	Resistencia Elementar Dark {img green_up_arrow 16 16} 20
+ETC_20151224_018666	Resistência Elementar Dark {img green_up_arrow 16 16} 10
+ETC_20151224_018667	Resistência Elementar Dark {img green_up_arrow 16 16} 20
 ETC_20151224_018668	HP {img green_up_arrow 16 16}1020
 ETC_20151224_018669	{img green_up_arrow 16 16} 6 Defesa Mágica, {img red_down_arrow 16 16} 6 Defesa Física for 30 segundos with every basic and Ataque Físico{nl}Increases Divino and Ataque Elemental Dark equal to 7.5% Defesa Mágica for 10 segundos when stacked 20 times
 ETC_20151224_018670	Minimum Combo Count
@@ -18888,7 +18888,7 @@ ETC_20151224_018882	OptDesc/Feint Skill Lv +1
 ETC_20151224_018883	OptDesc/Capture Skill Lv +1
 ETC_20151224_018884	OptDesc/Vendetta Skill Lv +1
 ETC_20151224_018885	OptDesc/Burrow Skill Lv +1
-ETC_20151224_018886	OptDesc/Esquiva Skill Lv +1
+ETC_20151224_018886	OptDesc/Evasion Skill Lv +1
 ETC_20151224_018887	OptDesc/Lachrymator Skill Lv +1
 ETC_20151224_018888	OptDesc/Backstab Skill Lv +1
 ETC_20151224_018889	OptDesc/Concentrated Fogo Skill Lv +1
@@ -18982,8 +18982,8 @@ ETC_20151224_018976	OptDesc/Conversion Skill Lv +1
 ETC_20151224_018977	OptDesc/Barrier Skill Lv +1
 ETC_20151224_018978	OptDesc/Conviction Skill Lv +1
 ETC_20151224_018979	Two-handed Bow
-ETC_20151224_018980	Espada de Uma Mão Pistol
-ETC_20151224_018981	Lança de Uma Mão Pistol
+ETC_20151224_018980	Espada de 1 Mão Pistol
+ETC_20151224_018981	Lança de 1 Mão Pistol
 ETC_20151224_018982	Rapier Pistol
 ETC_20151224_018983	Recipe - Protection Barrier Crystal
 ETC_20151224_018984	A recipe to create a Protection Barrier Crystal
@@ -19944,7 +19944,7 @@ ETC_20151224_019938	Demonic Power Intensive Device
 ETC_20151224_019939	Mysterious Obelisk
 ETC_20151224_019940	Power Supply Device
 ETC_20151224_019941	Shield Creation Device
-ETC_20151224_019942	OffGelor's Journal
+ETC_20151224_019942	Officer's Journal
 ETC_20151224_019943	Broken Demonic Power Supply Device
 ETC_20151224_019944	Soggy Book
 ETC_20151224_019945	       [Knights of Kaliss]{nl}Alchemist Salliamornas
@@ -20282,7 +20282,7 @@ ETC_20160224_020276	In A Forgotten Place
 ETC_20160224_020277	A letter arrived from Historian Cyrenia Odell.{nl}The demons have secretly invaded the church that was destroyed to keep the secret of the Royal Mausoleum of the Great King Zachariel after its construction. Cyrenia is now looking for someone to stop the demons before they can build up their forces.
 ETC_20160224_020278	Demon Uprising
 ETC_20160224_020279	A message arrived from Goddess Vakarine.{nl}After the Revelators punished the Demon Lords in the Demon Prison, their second-in-command vassals are gathering forces to succeed to their positions. Goddess Vakarine and the Kupoles have yet to recover from recent events and are looking for a Revelator to help stop the demons.
-ETC_20160224_020280	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Dano Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, HP Recovery of Spells and Potions, Block, Resistencia a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico{nl} {nl}- SPR : Increase in Max SP, SP Recovery, SP Recovery of Spells and Potions, Defesa Mágica, Perfurar Bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Esquiva and Chance de Crítico{nl}
+ETC_20160224_020280	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Ataque Físico, Ataque Crítico and Maximum Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, HP Recovery of Spells and Potions, Block, Resistência a Crítico and Maximum Weight{nl} {nl}- INT : Increase in Ataque Mágico{nl} {nl}- SPR : Increase in Max SP, SP Recovery, SP Recovery of Spells and Potions, Defesa Mágica, Perfurar Bloqueio and Resistance to harmful effects{nl} {nl}- DEX : Increase in Precisão, Evasão and Taxa de Crítico{nl}
 ETC_20160224_020281	Nexon NGS error
 ETC_20160224_020282	Failed to reset IDSpace in XML.
 ETC_20160224_020283	Failed to enter instanced dungeon.
@@ -20437,7 +20437,7 @@ ETC_20160224_020431	SP Recovery {img green_up_arrow 16 16} 100
 ETC_20160224_020432	Ataque Elemental Terra {img green_up_arrow 16 16} 42
 ETC_20160224_020433	INT {img green_up_arrow 16 16} 25
 ETC_20160224_020434	Lolopanther Couro Set
-ETC_20160224_020435	Chance de Crítico {img green_up_arrow 16 16} 46
+ETC_20160224_020435	Taxa de Crítico {img green_up_arrow 16 16} 46
 ETC_20160224_020436	DEX {img green_up_arrow 16 16} 25
 ETC_20160224_020437	Lolopanther Metal Set
 ETC_20160224_020438	HP Recovery {img green_up_arrow 16 16} 100
@@ -20489,10 +20489,10 @@ ETC_20160224_020483	Recipe - Seimos Sword
 ETC_20160224_020484	Recipe - Ruma Sword
 ETC_20160224_020485	Recipe - Magas Sword
 ETC_20160224_020486	Recipe - Catacombs Blade
-ETC_20160224_020487	Recipe - Seimos Espada de Duas Mãos
-ETC_20160224_020488	Recipe - Tilly Espada de Duas Mãos
-ETC_20160224_020489	Recipe - Khasti Espada de Duas Mãos
-ETC_20160224_020490	Recipe - Magi Espada de Duas Mãos
+ETC_20160224_020487	Recipe - Seimos Espada de 2 Mãos
+ETC_20160224_020488	Recipe - Tilly Espada de 2 Mãos
+ETC_20160224_020489	Recipe - Khasti Espada de 2 Mãos
+ETC_20160224_020490	Recipe - Magi Espada de 2 Mãos
 ETC_20160224_020491	Recipe - Seimos Rod
 ETC_20160224_020492	Recipe - Tilly Rod
 ETC_20160224_020493	Recipe - Khasti Rod
@@ -20662,7 +20662,7 @@ ETC_20160224_020656	Storing an item in Team Storage{nl}reduces its Potential.{nl
 ETC_20160224_020657	Storing an item in Team Storage{nl}reduces the number of items you can trade.{nl}Do you still want to store it?
 ETC_20160224_020658	You've exhausted your available trades.
 ETC_20160224_020659	Golpes de Impacto
-ETC_20160224_020660	Defesa contra golpes de Impacto
+ETC_20160224_020660	Defesa Contra Impacto
 ETC_20160224_020661	Encanto
 ETC_20160224_020662	Esta Coleção é compartilhada com seu time.{nl}O item não pode ser devolvido depois de ter sido adicionado. Gostaria de adicionar?
 ETC_20160224_020663	Você já registrou esta receita.
@@ -21640,7 +21640,7 @@ ETC_20160411_021634	Feint Skill Lv +1
 ETC_20160411_021635	Capture Skill Lv +1
 ETC_20160411_021636	Vendetta Skill Lv +1
 ETC_20160411_021637	Burrow Skill Lv +1
-ETC_20160411_021638	Esquiva Skill Lv +1
+ETC_20160411_021638	Evasion Skill Lv +1
 ETC_20160411_021639	Lachrymator Skill Lv +1
 ETC_20160411_021640	Backstab Skill Lv +1
 ETC_20160411_021641	Concentrated Fogo Skill Lv +1
@@ -22266,7 +22266,7 @@ ETC_20160718_022260	Pile of Consumables / Miscellaneous
 ETC_20160718_022261	Pile of Costumes
 ETC_20160718_022262	Pile of Cosmetics
 ETC_20160718_022263	Recipe - Futere Scimitar
-ETC_20160718_022264	Recipe - Eki Lumai Espada de Duas Mãos
+ETC_20160718_022264	Recipe - Eki Lumai Espada de 2 Mãos
 ETC_20160718_022265	Recipe - Duris Battle Rod
 ETC_20160718_022266	Recipe - Gelo Evil Staff
 ETC_20160718_022267	Recipe - Magi Kaman
@@ -22318,7 +22318,7 @@ ETC_20160718_022312	Itens que expiraram não podem ser equipados.
 ETC_20160718_022313	{img star_mark 18 18}{@st41b}{s15}{#2c7e58}Transcendência Estágio {#e3a31b}{Count}{/} - Dano{/}{/}
 ETC_20160718_022314	Transcendência Estágio {img star_mark 19 19}{Count} - Defesa Física
 ETC_20160718_022315	Transcendência Estágio {img star_mark 19 19}{Count} - Precisão
-ETC_20160718_022316	Transcendência Estágio {img star_mark 19 19}{Count} - Esquiva
+ETC_20160718_022316	Transcendência Estágio {img star_mark 19 19}{Count} - Evasão
 ETC_20160718_022317	Transcendência Estágio {img star_mark 19 19}{Count} - Amplificação Mágica
 ETC_20160718_022318	Transcendência Estágio {img star_mark 19 19}{Count} - CON
 ETC_20160718_022319	Transcendência Estágio {img star_mark 19 19}{Count} - Defesa Mágica
@@ -22468,14 +22468,14 @@ ETC_20160718_022462	I never thought I'd be able to see my colleagues again
 ETC_20160718_022463	You have obtained a bomb
 ETC_20160718_022464	You already have a bomb
 ETC_20160718_022465	You are being protected by the orb
-ETC_20160718_022466	You have obtained a token from the OffGelor's Soul
-ETC_20160718_022467	Take the Soldier's Soul to the OffGelor's Soul
+ETC_20160718_022466	You have obtained a token from the Officer's Soul
+ETC_20160718_022467	Take the Soldier's Soul to the Officer's Soul
 ETC_20160718_022468	You have a Soldier's Soul following you
 ETC_20160718_022469	The soul refuses to follow you if you don't have the token
-ETC_20160718_022470	Ask the soldier to follow you to the OffGelor's Soul
-ETC_20160718_022471	I will follow you to the OffGelor's Soul
-ETC_20160718_022472	You have led the Soldier's Soul to the OffGelor's Soul
-ETC_20160718_022473	A monster's soul is trying to attack the OffGelor's Soul.{nl}Protect the OffGelor's Soul
+ETC_20160718_022470	Ask the soldier to follow you to the Officer's Soul
+ETC_20160718_022471	I will follow you to the Officer's Soul
+ETC_20160718_022472	You have led the Soldier's Soul to the Officer's Soul
+ETC_20160718_022473	A monster's soul is trying to attack the Officer's Soul.{nl}Protect the Officer's Soul
 ETC_20160718_022474	Você falhou em destroy all of the Devices
 ETC_20160718_022475	Destroy the Devices
 ETC_20160718_022476	You have succeeded in destroying all of the Devices{nl}You are rewarded with the Strength Vigor buff
@@ -22496,10 +22496,10 @@ ETC_20160718_022490	You can only use it in the refugee residential area
 ETC_20160718_022491	You have obtained {POINTS} points and received the Lv1 reward
 ETC_20160718_022492	You have obtained {POINTS} points and received the Lv2 reward
 ETC_20160718_022493	You have obtained {POINTS} points and received the Lv3 reward
-ETC_20160718_022494	The OffGelor's Soul has 15% health left{nl}You will not be able to receive your reward if the OffGelor's Soul disappears
-ETC_20160718_022495	The OffGelor's Soul has 50% health left{nl}You will not be able to receive your reward if the OffGelor's Soul disappears
-ETC_20160718_022496	The OffGelor's Soul has 70% health left{nl}You will not be able to receive your reward if the OffGelor's Soul disappears
-ETC_20160718_022497	The OffGelor's Soul has disappeared
+ETC_20160718_022494	The Officer's Soul has 15% health left{nl}You will not be able to receive your reward if the Officer's Soul disappears
+ETC_20160718_022495	The Officer's Soul has 50% health left{nl}You will not be able to receive your reward if the Officer's Soul disappears
+ETC_20160718_022496	The Officer's Soul has 70% health left{nl}You will not be able to receive your reward if the Officer's Soul disappears
+ETC_20160718_022497	The Officer's Soul has disappeared
 ETC_20160718_022498	Absorbing Flames
 ETC_20160718_022499	Restore all Divine Torches [Requires x{COUNT} Flame Crystals]
 ETC_20160718_022500	Create Hindrance Magic Circle [Requires x{COUNT} Flame Crystals]
@@ -22875,7 +22875,7 @@ ETC_20160723_022869	You require sap from an Ouaas Tree
 ETC_20160723_022870	Monk Mattas
 ETC_20160723_022871	Let's take a look.
 ETC_20160723_022872	The suppressive Device has broken down
-ETC_20160723_022873	High OffGelor Medea
+ETC_20160723_022873	High Officer Medea
 ETC_20160723_022874	My legs hurt. I'll go a bit slowly if that's okay with you.
 ETC_20160723_022875	There is some distance between you and Medea
 ETC_20160723_022876	I won't run, don't worry.
@@ -22927,7 +22927,7 @@ ETC_20160723_022921	The {GN} Team has activated the {Obj}.
 ETC_20160723_022922	An object used to summon the guardian has been regenerated.
 ETC_20160723_022923	You cannot participate without being in a guild.
 ETC_20160723_022924	Do you wish to enter an ongoing battle?
-ETC_20160723_022925	{@st59}Increases Physical and Dano Crítico, Perfuração de bloqueio and Peso Máximo Carregável{/}
+ETC_20160723_022925	{@st59}Increases Physical and Ataque Crítico, Penetração de Bloqueio and Peso Máximo Carregável{/}
 ETC_20160723_022926	You either don't have a socket or using all sockets
 ETC_20160723_022927	é requerido.
 ETC_20160723_022928	The Token matches
@@ -23251,7 +23251,7 @@ ETC_20160811_023245	Investigate the hermit's tomb
 ETC_20160811_023246	Destroy the energy suppressing Device using Ouaas tree sap
 ETC_20160811_023247	Destroy the energy suppression Device in Rijekavi Fields
 ETC_20160811_023248	Pour the sap and destroy Medea's protection barrier
-ETC_20160811_023249	Take High OffGelor Medea to Monk Mattas
+ETC_20160811_023249	Take High Officer Medea to Monk Mattas
 ETC_20160811_023250	Clear out the monsters in front of the monastery gate
 ETC_20160811_023251	Help Stella find books about the demons
 ETC_20160811_023252	Escort Stella back to the barrier
@@ -25133,7 +25133,7 @@ ETC_20161005_025127	Red Boundary Stones
 ETC_20161005_025128	Blue Boundary Stones
 ETC_20161005_025129	Ghost Soldier2
 ETC_20161005_025130	Ghost Soldier3
-ETC_20161005_025131	Ghost OffGelor
+ETC_20161005_025131	Ghost Officer
 ETC_20161005_025132	Ghost OffGelor2
 ETC_20161005_025133	Alchemist Female2
 ETC_20161005_025134	Building Rubble1
@@ -25747,7 +25747,7 @@ ETC_20161108_025741	O Rank reset começou. Aguarde...
 ETC_20161108_025742	Ataque Elemental: Psíquico
 ETC_20161108_025743	Unable to use this item in its current state.
 ETC_20161108_025744	Ataque Elemental: Psíquico
-ETC_20161108_025745	Resistencia Elemental: Psíquico
+ETC_20161108_025745	Resistência Elemental: Psíquico{img notice_br_link 17 17}		
 ETC_20161108_025746	Unable to use while joined by a companion.
 ETC_20161108_025747	Unregistered job. Please contact the management team.
 ETC_20161112_025748	Instanced Dungeon: 1 Entry Voucher (14 dias)
@@ -26079,8 +26079,8 @@ ETC_20161214_026073	Max. SP {img green_up_arrow 16 16}1437 Increase
 ETC_20161214_026074	Earth Property Additional Damage {img green_up_arrow 16 16}162
 ETC_20161214_026075	Ataque Físico {img green_up_arrow 16 16}571{nl}                         Amplificação Mágica {img green_up_arrow 16 16}69
 ETC_20161214_026076	Solmiki Couro Set
-ETC_20161214_026077	Dano Crítico {img green_up_arrow 16 16}225 Increase{nl}                         Precisão {img green_up_arrow 16 16}100 Increase
-ETC_20161214_026078	Esquiva {img green_up_arrow 16 16}48{nl}                         Chance de Crítico {img green_up_arrow 16 16}72
+ETC_20161214_026077	Ataque Crítico {img green_up_arrow 16 16}225 Increase{nl}                         Precisão {img green_up_arrow 16 16}100 Increase
+ETC_20161214_026078	Evasão {img green_up_arrow 16 16}48{nl}                         Taxa de Crítico {img green_up_arrow 16 16}72
 ETC_20161214_026079	Ataque Físico {img green_up_arrow 16 16}818
 ETC_20161214_026080	Max. HP {img green_up_arrow 16 16}3942 Increase
 ETC_20161214_026081	Ataque Físico {img green_up_arrow 16 16}201{nl}                         5% chance of HP recovery for 5 segundos when attacked by a Devil-type enemy
@@ -26093,15 +26093,15 @@ ETC_20161214_026087	Recipe - Instanced Clear Voucher [{img star_mark 20 20}{img 
 ETC_20161214_026088	Recipe - Mystical Cube
 ETC_20161214_026089	Recipe - Mystical Cube Recipe
 ETC_20161214_026090	Recipe - Agny Necklace
-ETC_20161214_026091	Recipe - Cardboard Cube (Espada de Uma Mão)
-ETC_20161214_026092	Recipe - Cardboard Cube (Espada de Duas Mãos)
+ETC_20161214_026091	Recipe - Cardboard Cube (Espada de 1 Mão)
+ETC_20161214_026092	Recipe - Cardboard Cube (Espada de 2 Mãos)
 ETC_20161214_026093	Recipe - Cardboard Cube (Cetro)
 ETC_20161214_026094	Recipe - Cardboard Cube (Arco)
 ETC_20161214_026095	Recipe - Cardboard Cube (Besta)
-ETC_20161214_026096	Recipe - Cardboard Cube (Clava)
+ETC_20161214_026096	Recipe - Cardboard Cube (Maça)
 ETC_20161214_026097	Recipe - Cardboard Cube (Escudo)
-ETC_20161214_026098	Recipe - Cardboard Cube (Lança de Uma Mão)
-ETC_20161214_026099	Recipe - Cardboard Cube (Lança de Duas Mãos)
+ETC_20161214_026098	Recipe - Cardboard Cube (Lança de 1 Mão)
+ETC_20161214_026099	Recipe - Cardboard Cube (Lança de 2 Mãos)
 ETC_20161214_026100	Recipe - Cardboard Cube (Adaga)
 ETC_20161214_026101	Recipe - Cardboard Cube (Cajado)
 ETC_20161214_026102	Recipe - Cardboard Cube (Revolver)
@@ -26426,7 +26426,7 @@ ETC_20170126_026420	Right-click to use and obtain the following items.{nl} - Han
 ETC_20170213_026421	A title given to the winners of the Fan Art Fest: The Art of Loving event.
 ETC_20170213_026422	Tile Resistance
 ETC_20170213_026423	Receive less damage from tile attacks.
-ETC_20170213_026424	Resistencia a Joint Penalty
+ETC_20170213_026424	Resistência a Joint Penalty
 ETC_20170213_026425	Contagem total de entrada de instâncias e missões em DB Y/N. 1=Y
 ETC_20170213_026426	Forcefully restores mission instance after specific time if not yet restored (seconds)
 ETC_20170213_026427	Recipe - Valentine Chocolates
@@ -27524,8 +27524,8 @@ ETC_20170403_027518	Unknown Message
 ETC_20170403_027519	Error due to duplicate login sessions
 ETC_20170403_027520	Instanced Dungeon Reset Time 6 AM
 ETC_20170403_027521	 {nl}Derrote monstros do tipo a seguir e colete 10 insígnias.{nl} - Monstro : {RACE}{nl} - Level : Maior que {LV}
-ETC_20170403_027522	Receber Quest
-ETC_20170403_027523	Evento de Quest diária
+ETC_20170403_027522	Receber Missão
+ETC_20170403_027523	Evento de Missão Diária
 ETC_20170403_027524	O próximo nível alvo é {LEVELCOUNT}.
 ETC_20170410_027525	Mishekan Forest Dungeon
 ETC_20170410_027526	Contagem de participação no evento
@@ -27849,15 +27849,15 @@ ETC_20170420_027822	You have unused Rank Cards.{nl}You can reset your Rank after
 ETC_20170420_027823	You don't have enough silver stored.	보관 중인 금액이 부족합니다.				
 ETC_20170420_027824	You have surpassed the Rank at which this card can be used.{nl}Confirm to delete the Rank Card.	이미 사용할 수 있는 랭크를 초과하였습니다.{nl}확인을 누르면 랭크 카드가 삭제됩니다.				
 ETC_20170420_027825	No attributes to apply.	착용할 수 있는 특성이 없습니다.				
-ETC_20170420_027826	Dano Elemental Psíquico		ETC_20161108_025742	Psychokinesis Property Attack	염속성 공격력	
-ETC_20170420_027827	Dano Elemental Fogo{img attri_Fire 23 23}			
-ETC_20170420_027828	Dano Elemental Gelo{img attri_Ice 23 23}			
-ETC_20170420_027829	Dano Elemental Elétrico{img attri_Lightning 23 23} 		
-ETC_20170420_027830	Dano Elemental Terra{img attri_Earth 23 23}	땅 속성 추가 대미지				
-ETC_20170420_027831	Dano Elemental Veneno{img attri_Poison 23 23}	독 속성 추가 대미지				
-ETC_20170420_027832	Dano Elemental Divino{img attri_Holy 23 23}	신성 속성 추가 대미지				
-ETC_20170420_027833	Dano Elemental Trevas{img attri_Dark 23 23}	어둠 속성 추가 대미지				
-ETC_20170420_027834	Dano Elemental Psíquico{img notice_br_link 17 17}	염 속성 추가 대미지				
+ETC_20170420_027826	Dano Adicional: Psíquico{img notice_br_link 17 17}		ETC_20161108_025742	Psychokinesis Property Attack	염속성 공격력	
+ETC_20170420_027827	Dano Adicional: Fogo{img attri_Fire 23 23}			
+ETC_20170420_027828	Dano Adicional: Gelo{img attri_Ice 23 23}			
+ETC_20170420_027829	Dano Adicional: Elétrico{img attri_Lightning 23 23} 		
+ETC_20170420_027830	Dano Adicional: Terra{img attri_Earth 23 23}	땅 속성 추가 대미지				
+ETC_20170420_027831	Dano Adicional: Veneno{img attri_Poison 23 23}	독 속성 추가 대미지				
+ETC_20170420_027832	Dano Adicional: Divino{img attri_Holy 23 23}	신성 속성 추가 대미지				
+ETC_20170420_027833	Dano Adicional: Trevas{img attri_Dark 23 23}	어둠 속성 추가 대미지				
+ETC_20170420_027834	Dano Adicional: Psíquico{img notice_br_link 17 17}	염 속성 추가 대미지				
 ETC_20170420_027835	Você não é a classe certa para este equipamento.	착용할 수 있는 클래스가 아닙니다				
 ETC_20170420_027836	Os requisitos de nível dos materiais consumidos devem ser iguais ou superiores aos dos itens a combinar.	소비재료는 합성무기보다 사용 레벨이 높거나 같아야 합니다.	ETC_20150323_010031	Consume material should have the same or more stars that the item to combine.	소비재료는 합성무기보다 별이 높거나 같아야 합니다.	
 ETC_20170420_027837	You have collected the young leaves!	여린 잎을 채취했습니다!	ETC_20150323_010047	Collected a Young Leaf, but the tough leaf cut you!	여린 잎을 채취했지만 실수로 질긴 잎에 베였습니다!	
@@ -27895,7 +27895,7 @@ ETC_20170420_027868	Failed to apply team name.	팀 이름 적용에 실패했습
 ETC_20170420_027869	A Wendigo jumped out of the chasm along with the key!	열쇠와 함께 틈새에서 웬디고가 튀어나왔습니다!	ETC_20150804_014179	A Wendigo jumped out of the chasm!	틈새에서 웬디고가 튀어나왔습니다!	
 ETC_20170420_027870	{img skillup 25 25}{@st59}Aumenta o ataque físico e a precisão{/}	{@st59}물리 공격력, 명중 증가{/}				
 ETC_20170420_027871	{img skillup 25 25}{@st59}Aumenta o máximo de HP, recuperação da HP, máx. stamina e bloqueio{/}	{@st59}최대 HP, HP 회복력, 최대 스태미나, 블록 증가{/}				
-ETC_20170420_027872	{img skillup 25 25}{@st59}Aumenta a velocidade básica de ataque, ataque crítico, perfuração de bloqueio e esquiva{/}	{@st59}기본 공격 속도, 치명타 공격력, 블록 관통, 회피 증가{/}				
+ETC_20170420_027872	{img skillup 25 25}{@st59}Aumenta a velocidade básica de ataque, ataque crítico, Penetração de Bloqueio e Evasão{/}	{@st59}기본 공격 속도, 치명타 공격력, 블록 관통, 회피 증가{/}				
 ETC_20170420_027873	Can no longer store in the team storage.	더 이상 팀 창고에 보관할 수 없습니다.				
 ETC_20170420_027874	Reset Helper	초기화 지원관				
 ETC_20170420_027875	Information Board	안내 게시판	QUEST_20150317_001042	Request Bulletin Board	의뢰 게시판	
@@ -27974,7 +27974,7 @@ ETC_20170605_027947	Não pode ser usado no status atual.
 ETC_20170605_027948	You have received {COUNT} Wooden Planks
 ETC_20170605_027949	{MIN} minuto(s) se passaram desde o início do evento.
 ETC_20170605_027950	You have already participated in the event today. 
-ETC_20170605_027951	Quest 
+ETC_20170605_027951	Missão 
 ETC_20170605_027952	{nl} If you are about to use Cheat
 ETC_20170605_027953	{nl}while using the quest tool
 ETC_20170605_027954	{nl}click the ESC key to cancel.
@@ -28339,7 +28339,7 @@ ETC_20170726_028312	Festival Toy Kiosk	축제용 장난감 가판대
 ETC_20170726_028313	Festival Balloon Kiosk	축제용 풍선 가판대
 ETC_20170726_028314	CON {img green_up_arrow 16 16} 25	체력 {img green_up_arrow 16 16}25 증가
 ETC_20170726_028315	Aumenta o ataque elemental em valor equivalente à sua resistência elemental{nl}- Todos os Elementos afetados{nl}- Máx. 300 por elemento	속성 저항력만큼 속성 공격력 증가 {nl}- 적용 속성: 독, 불, 얼음, 전기, 독, 어둠, 신성, 땅, 염{nl}- 각 속성당 최대 300까지 전환
-ETC_20170726_028316	Ataque em área {img green_up_arrow 16 16}1{nl}Dano Crítico {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl}                         치명타 공격력 {img green_up_arrow 16 16}231
+ETC_20170726_028316	Ataque em área {img green_up_arrow 16 16}1{nl}Ataque Crítico {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl}                         치명타 공격력 {img green_up_arrow 16 16}231
 ETC_20170726_028317 Chance de causar dano adicional de 2000 a 3000 no inimigo.{Nl}- Chance aumenta com o n° de inimigos próximos.{nl}- Max. Aumento de 20%
 ETC_20170726_028318	HP {img green_up_arrow 16 16}1023{nl}DEX {img green_up_arrow 16 16}10	HP {img green_up_arrow 16 16}1023 증가{nl}                         민첩 {img green_up_arrow 16 16}10
 ETC_20170726_028319	- Aumenta o ataque físico e mágico em 10 por cada golpe recebido.{nl} 50 cargas aumentam o ataque físico e mágico em 500 e mantêm-se por 10 segundos.	1회 피격시 물리, 마법 방어력이 10씩 상승합니다. 50스택 달성시 물리, 마법방어력 500 추가 증가 후 10초간 유지됩니다.
@@ -28422,7 +28422,7 @@ ETC_20170726_028395	Contagem de Badges: {ADDCOUNT}{nl}Última badge recebida: {M
 ETC_20170726_028396	Você não recebeu nenhuma badge do evento Ways of the Mercenaries 2.	용병의 길2 이벤트에서 획득하신 증표가 없습니다
 ETC_20170726_028397	Se você morrer em {ZONE}{nl}, pode perder as gemas que você possui em seu inventário.{nl}Vá até 	던전 : {ZONE} 에서 사망 시{nl}갖고계신 인벤토리의 젬이 바닥에 떨어집니다.{nl}젬은 도시 
 ETC_20170726_028398	uma cidade para armazenar suas gemas com segurança.	에게 맡기시면 안전합니다.
-ETC_20170726_028399	Ataque físico aplicado a arma-secundária	보조 무기로 공격 시 적용되는 물리 공격력
+ETC_20170726_028399	Ataque físico aplicado a Arma Secundária	보조 무기로 공격 시 적용되는 물리 공격력
 ETC_20170726_028400	N° de alvos afetados por ataques em Área	광역 공격 시 몇 개의 타겟을 공격할 수 있는지 나타내는 수치
 ETC_20170726_028401	Redução do Ataque em área inimigo	광역 공격을 받았을 때 공격자의 광역 공격 비율을 감소시키는 수치
 ETC_20170726_028402	[Distância: {DISTANCE}]	[거리 : {DISTANCE}]
@@ -28782,7 +28782,7 @@ ETC_20170912_028755	Unit: time (ex.: 7 days * 24 = 168)
 ETC_20170912_028756	1:Silver 2:TP
 ETC_20170912_028757	Consumed COST (ex.: Silver 1000000)
 ETC_20170912_028758	1: open Territory Wars, 2: do not open
-ETC_20170912_028759	Clava de Duas Mãos
+ETC_20170912_028759	Maça de 2 Mãos
 ETC_20170912_028760	Recipe - Vienarazis Two-handed Mace
 ETC_20170912_028761	Recipe - Skull Breaker
 ETC_20170912_028762	Artisan Recipe - Skull Breaker 
@@ -28883,14 +28883,14 @@ ETC_20170912_028856	Selecione o arquivo de imagem.
 ETC_20170912_028857	Alterar Emblema da Guilda
 ETC_20170912_028858	Não é possível usar habilidades de movimento em membros da guilda dentro desta área.
 ETC_20170912_028859	Não pode usar habilidades de i8nvocação em membros da guilda dentro desta área.
-ETC_20170912_028860	Equipar Clava de Duas Mãos
+ETC_20170912_028860	Equipar Maça de 2 Mãos
 ETC_20170912_028861	Reportar Emblema Inadequado
 ETC_20170912_028862	Tem certeza de que deseja denunciar {Name} pelo emblema inapropriado?
 ETC_20170912_028863	{Name} foi reportado. Obrigado.
 ETC_20170912_028864	Use the {Key} key to make {Target} become {Done}.
 ETC_20170912_028865	Uphill Defense Shop
 ETC_20170912_028866	Não é possível criar ou aprimorar itens dentro de dungeons e missões instanciadas.
-ETC_20170912_028867	Clava de Duas Mãos
+ETC_20170912_028867	Maça de 2 Mãos
 ETC_20170912_028868	Não pode ser usado ainda.
 ETC_20170912_028869	Não é possível usar a habilidade Forge perto de uma forja.
 ETC_20170912_028870	Caixa de Pesca
@@ -30480,7 +30480,7 @@ ETC_20171128_030453	Using a token will reduce the number of items needed to ente
 ETC_20171128_030454	Learn Attributes
 ETC_20171128_030455	Search Attributes
 ETC_20171128_030456	/Invite
-ETC_20171128_030457	Toy
+ETC_20171128_030457	Brinquedo
 ETC_20171128_030458	A random option item which is not appraised yet.
 ETC_20171128_030459	Selecione um item a ser desmontado.
 ETC_20171128_030460	Dismantle Price: {Price}{nl}Are you sure you want to dismantle?
@@ -31296,10 +31296,10 @@ ETC_20180208_031264	Defesa contra Impacto +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031265	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%% for 10 sec when using HP potions
 ETC_20180208_031266	Dano contra monstros Voadores +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031267	Dano Físico +{@st66d_y}{s16}[%d]{/}{/}%% por 6 sec ao usar potes de SP
-ETC_20180208_031268	Dano contra armadura tipo Placa +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031268	Dano contra armadura tipo Metal +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031269	STR +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031270	Dano adicional Trevas{img attri_Dark 20 20} +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031271	Dano Crítico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031271	Ataque Crítico +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031272	Dano contra monstros Mutantes +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031273	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031274	Efeito de poções de STA +{@st66d_y}{s16}[%d]{/}{/}%%
@@ -31324,7 +31324,7 @@ ETC_20180208_031292	DEX +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{
 ETC_20180208_031293	Dano contra alvos Pequenos +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031294	Veloc. de Mov. +{@st66d_y}{s16}[%d]{/}{/} ao usar armas de Duas-Mãos
 ETC_20180208_031295	Dano contra monstros tipo Terra +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031296	Esquiva +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031296	Evasão +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031297	Dano contra monstros Fera +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031298	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas Impacto
 ETC_20180208_031299	Resistência ao elemento Terra +{@st66d_y}{s16}[%d]{/}{/}
@@ -31357,7 +31357,7 @@ ETC_20180208_031325	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP afte
 ETC_20180208_031326	Dano contra alvos Grandes +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031327	Resistência Elemental Veneno +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031328	Dano contra monstros tipo Veneno +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031329	Perfuração de Bloqueio +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031329	Penetração de Bloqueio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031330	Peso Carregável +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031331	Dano contra monstros Chefe +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031332	Recuperação de HP +{@st66d_y}{s16}[%d]{/}{/}
@@ -31384,10 +31384,10 @@ ETC_20180208_031352	Resistência a Cegueira +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031353	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031354	Efeitos de poçoes de HP +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031355	CON +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031356	Defesa contra Cortante +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031356	Defesa contra Corte +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031357	Resistência a Sangramento +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031358	Resistência a Crítico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031359	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Cortante
+ETC_20180208_031359	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Corte
 ETC_20180208_031360	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031361	INT +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031362	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 1%% de SP ao ser atingido por mobs Pequenos
@@ -31410,7 +31410,7 @@ ETC_20180208_031378	INT +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{
 ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 3%% do HP ao ser atingido por mobs Grandes
 ETC_20180208_031380	Resistência ao Elemento fogo +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031381	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031382	Chance de Crítico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031382	Taxa de Crítico +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031383	Provocação por ataque +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031384	Dano em inimigos sangrando + {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031385	Dano em inimigos envenenados + {@st66d_y}{s16}[%d]{/}{/}%%
@@ -31899,12 +31899,12 @@ ETC_20180320_031867	{@st42}{s18}Previous quest [currently logged in character]{/
 ETC_20180320_031868	Rank Reset para Shinobi
 ETC_20180320_031869	Rank Reset para Wizards
 ETC_20180320_031870	Searching for the token
-ETC_20180320_031871	You have found the Adventurer's Token!
-ETC_20180320_031872	Try the Riddle
-ETC_20180320_031873	Check total of riddles sloved
-ETC_20180320_031874	Return!
-ETC_20180320_031875	So far you've guessed 
-ETC_20180320_031876	 right.
+ETC_20180320_031871	Você encontrou o Adventurer's Token!
+ETC_20180320_031872	Verificar charada
+ETC_20180320_031873	Verificar total de charadas resolvidas
+ETC_20180320_031874	Retornar!
+ETC_20180320_031875	Você acertou  
+ETC_20180320_031876	 até agora.
 ETC_20180320_031877	What can you tell me about the Bookshelf of Ripped Books?
 ETC_20180320_031878	Sure, I can gather a few Ripped Book Pages.
 ETC_20180320_031879	Please explain.
@@ -36308,7 +36308,7 @@ ETC_20181017_036222	Costumes (M)	코스튬(남)
 ETC_20181017_036223	Costumes (F)	코스튬(여)				
 ETC_20181017_036224	Acessório de Cabelo	헤어 액세서리				
 ETC_20181017_036225	Visual de Equipamento	외형 변경 장비				
-ETC_20181017_036226	Traje de Efeito	이펙트 코스튬				
+ETC_20181017_036226	Efeito Especial
 ETC_20181017_036227	Lapezard Statue Guardian	라페자드 조각상 수호자				
 ETC_20181017_036228	Spirits of the creatures that die near the statue are absorbed to restore vitality.	라페자드 조각상 근처에서 죽은 생명체의 영혼을 흡수해 자신의 생명을 회복합니다.				
 ETC_20181017_036229	Lapezard Statue Guardian Protective Magic	라페자드 조각상 수호자 보호 마법				
@@ -36370,20 +36370,20 @@ ETC_20181017_036284	Shut Down Data	셧다운 관련 정보
 ETC_20181017_036285	37127 bug tracker	37127 버그 추적을 위한...				
 ETC_20181017_036286	Failed to acquire Market Web Server URL. Check server_info.	Market Web Server URL 획득에 실패하였습니다. server_info 확인 필요.				
 ETC_20181017_036287	Market Web error log	마켓 웹서버 에러 로그				
-ETC_20181017_036288	Enhancement Materials	장비 강화 소재				
-ETC_20181017_036289	Main Weapons	주 무기				
-ETC_20181017_036290	Subweapons	보조 무기				
-ETC_20181017_036291	Special Costumes	스페셜 코스튬				
-ETC_20181017_036292	Popup Books	팝업북				
-ETC_20181017_036293	Skill Gems	스킬 젬				
-ETC_20181017_036294	Card Albums	카드첩				
-ETC_20181017_036295	Enhancement Cards	강화용 카드				
-ETC_20181017_036296	Green Cards	그린 카드				
-ETC_20181017_036297	Red Cards	레드 카드				
-ETC_20181017_036298	Blue Cards	블루 카드				
-ETC_20181017_036299	Purple Cards	퍼플 카드				
-ETC_20181017_036300	Skill Materials	스킬 재료				
-ETC_20181017_036301	Ores	광물				
+ETC_20181017_036288	Materiais de Aprimoramento
+ETC_20181017_036289	Armas Principais
+ETC_20181017_036290	Armas Secundárias
+ETC_20181017_036291	Trajes Especiais
+ETC_20181017_036292	Livros Popup
+ETC_20181017_036293	Gemas de Habilidades
+ETC_20181017_036294	Álbuns de Cartas
+ETC_20181017_036295	Cartas de Aprimoramento
+ETC_20181017_036296	Cartas Verdes
+ETC_20181017_036297	Cartas Vermelhas
+ETC_20181017_036298	Cartas Azuis
+ETC_20181017_036299	Cartas Roxas
+ETC_20181017_036300	Materiais para Habilidades
+ETC_20181017_036301	Minérios
 ETC_20181017_036302	2018 Leticia's Treasure Chest (Season 3)	2018 레티샤의 보물 상자(9월)				
 ETC_20181017_036303	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Token x1{nl} - Shining Golden Socket x2{nl} - Shining 9-Star Gem Abrasive x2	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 토큰 1개{nl} - 빛나는 황금 소켓 2개{nl} - 빛나는 9성 젬 연마제 2개				
 ETC_20181017_036304	Royal Envoy Costume Selection Box	암행어사 예복 선택 상자				
@@ -36659,3 +36659,5 @@ ETC_20181214_036573	Fluffy Penguin Costume Set
 ETC_20181214_036574	Use para obter todos os seguintes itens:{nl} - Fluffy Penguin Costume x1{nl} - Fluffy Penguin Helmet x1
 ETC_20181221_036575	Conteúdo excede comprimento máximo.
 ETC_20181221_036576	Você pode usar até {COUNT} caracteres.
+ETC_20181229_036577	2018 Leticia's Treasure Chest (Nov)	2018
+ETC_20181229_036578	Um baú recheado dos itens mais preciosos para Letitia. Use para obter os seguintes itens:{nl} - Token x10{nl} - Shining 9-Star Gem Abrasive x1

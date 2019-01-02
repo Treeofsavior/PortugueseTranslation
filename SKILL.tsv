@@ -963,8 +963,8 @@ SKILL_20150317_000962	Pierce
 SKILL_20150317_000963	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Inflicts damage on an enemy with a strong stab.{nl} A continuous Ataque bonus will apply depending on the enemy's size.
 SKILL_20150317_000964	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Medium target 2 Ataques{nl}Large target 3 Ataques
 SKILL_20150317_000965	Finestra
-SKILL_20150317_000966	Switch into the Window stance.{nl} Increases Chance de Crítico, but decreases Evasion.
-SKILL_20150317_000967	Chance de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Esquiva: {#CC0000}{ol}-{#339989}{ol}#{CaptionRatio2}#{/}{/}{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150317_000966	Switch into the Window stance.{nl} Increases Taxa de Crítico, but decreases Evasion.
+SKILL_20150317_000967	Taxa de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Evasão: {#CC0000}{ol}-{#339989}{ol}#{CaptionRatio2}#{/}{/}{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150317_000968	Synchro Thrusting
 SKILL_20150317_000969	{#DD5500}{ol}[Físico] - [Perfurante] - [Impacto]{/}{/}{nl} Inflicts damage on an enemy by using a shield and spear.
 SKILL_20150317_000970	Spear Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Shield Ataque{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Splash #{SkillSR}#
@@ -1005,8 +1005,8 @@ SKILL_20150317_001004	Frenzy
 SKILL_20150317_001005	Increases your Ataque when you use consecutive basic Ataques on the target.
 SKILL_20150317_001006	Ataque: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Máximo de Acúmulo: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150317_001007	Aggressor
-SKILL_20150317_001008	Your Ataques are guaranteed to hit, but your Chance de Crítico and Critical Evasion decreases.
-SKILL_20150317_001009	Chance de Crítico: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Critical Esquiva: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150317_001008	Your Ataques are guaranteed to hit, but your Taxa de Crítico and Critical Evasion decreases.
+SKILL_20150317_001009	Taxa de Crítico: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Critical Evasão: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150317_001010	Savagery
 SKILL_20150317_001011	While the buff is active, a continuous Ataque bonus applies to {#DD5500}{ol}[Perfurante]{/}{/} Ataques.
 SKILL_20150317_001012	{#DD5500}{ol}[Perfurante]{/}{/}Continuous Ataque Bonus {nl} Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
@@ -1067,7 +1067,7 @@ SKILL_20150317_001066	{#993399}{ol}[Mágico]{/}{/}{nl} Ataque o alvo com uma ene
 SKILL_20150317_001067	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Tempo de conjuração: 1 segundo{nl}Splash #{SkillSR}#
 SKILL_20150317_001068	Lethargy
 SKILL_20150317_001069	Inflict lethargy upon the target.
-SKILL_20150317_001070	Ataque Físico : {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Ataque Mágico : {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Esquiva: {#CC0000}{ol}-{#339989}{ol}#{CaptionRatio2}#{/}{/}{/}{/}{nl}{#339999}{ol}[Letargia]{/}{/} Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150317_001070	Ataque Físico : {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Ataque Mágico : {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Evasão: {#CC0000}{ol}-{#339989}{ol}#{CaptionRatio2}#{/}{/}{/}{/}{nl}{#339999}{ol}[Letargia]{/}{/} Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150317_001071	Sleep
 SKILL_20150317_001072	Inflige 'sono' nos alvos. Os inimigos acordarão ao tomar um certo número de hits, ou quando o efeito acabar.
 SKILL_20150317_001073	{#339999}{ol}[Sono]{/}{/} Duração: {#E5E5E5}{ol}#{SkillFactor}# segundos{/}{/}{nl}Limite de Hits:{#339989}{ol} #{CaptionRatio}#{/}{/}
@@ -1330,7 +1330,7 @@ SKILL_20150317_001329	{#DD5500}{ol}[Físico] [Impacto]{/}{/}{nl}Detonate nearby 
 SKILL_20150317_001330	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Bomb Explosion Count:{#339989}{ol} #{CaptionRatio}#{/}{/}
 SKILL_20150317_001331	Coursing
 SKILL_20150317_001332	Companion bites and holds on to target. Bonus chance of critical is applied on target.
-SKILL_20150317_001333	Additional Chance de Crítico: 30% {nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150317_001333	Additional Taxa de Crítico: 30% {nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150317_001334	Retrieve
 SKILL_20150317_001335	Companion bites the target and brings it to the player.
 SKILL_20150317_001336	Drive in enemies with less HP less than{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl} Duração 4 segundos
@@ -1341,7 +1341,7 @@ SKILL_20150317_001340	Temporarily increase movement speed and Ataque speed of co
 SKILL_20150317_001341	Companion Velocidade de Movimento: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Duração: 60 segundos
 SKILL_20150317_001342	Pointing
 SKILL_20150317_001343	Your Companion taunts and draws attention from the target. Decreases the target's Evasion.
-SKILL_20150317_001344	Esquiva: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Duração: 10 segundos
+SKILL_20150317_001344	Evasão: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Duração: 10 segundos
 SKILL_20150317_001345	Hounding
 SKILL_20150317_001346	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Seu mascote encontra inimigos ocultos nas proximidades.
 SKILL_20150317_001347	Detoxify
@@ -1458,7 +1458,7 @@ SKILL_20150317_001457	{#993399}{ol}[Mágico] - [Divine]{/}{/}{nl}Sprinkle holy w
 SKILL_20150317_001458	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Defense {#006fec}{ol}+#{CaptionRatio}#{/}{/} {nl}Target 10{nl}Duração {#339989}{ol}#{CaptionRatio2}#{/}{/} segundos{nl}Use 1 Holy water
 SKILL_20150317_001459	Monstrance
 SKILL_20150317_001460	Dexterity of allies is increased and randomly create Mágico circle that cause evasion and Physical damage of enemies to decrease.
-SKILL_20150317_001461	Número Máximo de Círculos:{#006fec}{ol}#{SkillFactor}#{/}{/}{nl}Aumento na DEX:{#006fec}{ol}(DEX * 1.3) + 10{/}{/}{nl}Esquiva/Defesa dos inimigos: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Duração do Efeito: {#E5E5E5}{ol} 20 segundos{/}{/}
+SKILL_20150317_001461	Número Máximo de Círculos:{#006fec}{ol}#{SkillFactor}#{/}{/}{nl}Aumento na DEX:{#006fec}{ol}(DEX * 1.3) + 10{/}{/}{nl}Evasão/Defesa dos inimigos: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Duração do Efeito: {#E5E5E5}{ol} 20 segundos{/}{/}
 SKILL_20150317_001462	Blessing
 SKILL_20150317_001463	Increase the damage of party members' skills.
 SKILL_20150317_001464	Dano Adicional +{#339989}{ol} #{CaptionRatio}#{/}{/} {nl} Ataque# {CaptionRatio2} # times{nl} {nl} Duração 30 segundos{nl}Use 1 Holy Powder
@@ -1636,8 +1636,8 @@ SKILL_20150317_001635	Deadly Poison
 SKILL_20150317_001636	Periodically receiving poison damage.
 SKILL_20150317_001637	Contagious Deadly Poison
 SKILL_20150317_001638	Decreased Ataque. Periodically receiving poison damage. The effect can be transferred to nearby targets.
-SKILL_20150317_001639	Esquiva
-SKILL_20150317_001640	Esquiva.
+SKILL_20150317_001639	Evasão
+SKILL_20150317_001640	Evasão.
 SKILL_20150317_001641	Defense Shock
 SKILL_20150317_001642	Blocked by enemy becomes afflicted with [Shock]. Increases the chance of a critical hit from fenemy Ataques by 100%.
 SKILL_20150317_001643	Petrificado
@@ -1799,7 +1799,7 @@ SKILL_20150317_001798	Aumento temporário da velocidade de movimento enquanto at
 SKILL_20150317_001799	Receive Fire damage.
 SKILL_20150317_001800	Increased splash.
 SKILL_20150317_001801	Reduces SP cost.
-SKILL_20150317_001802	Chance de crítico aumentada, esquiva reduzida
+SKILL_20150317_001802	Taxa de Crítico aumentada, Evasão reduzida
 SKILL_20150317_001803	Perspective distortion occurs
 SKILL_20150317_001804	Divine Might
 SKILL_20150317_001805	Os níveis das habilidade são temporariamente aumentados.
@@ -2026,7 +2026,7 @@ SKILL_20150317_002025	Spear Blow has a chance to stun.{nl} (Increases by 5% per 
 SKILL_20150317_002026	Surprise Ataque
 SKILL_20150317_002027	Additional critical chance against stunned enemies. {nl} (Basic chance of 30% + 5% added per level.)
 SKILL_20150317_002028	Concentration
-SKILL_20150317_002029	Chance de Crítico increases when Ataqueing far away enemies. {nl} (Basic chance of 50% + 5% added per level.)
+SKILL_20150317_002029	Taxa de Crítico increases when Ataqueing far away enemies. {nl} (Basic chance of 50% + 5% added per level.)
 SKILL_20150317_002030	Self Vitality
 SKILL_20150317_002031	Potion buff Duração increases. {nl} (Increases by 5% per level.)
 SKILL_20150317_002032	Strike
@@ -2048,7 +2048,7 @@ SKILL_20150317_002047	Wire Rope
 SKILL_20150317_002048	Centrifugal Force
 SKILL_20150317_002049	Tricks
 SKILL_20150317_002050	Shiver
-SKILL_20150317_002051	[Swash Buckling] Increases Chance de Crítico. {nl} (Increases by 1% per level)
+SKILL_20150317_002051	[Swash Buckling] Increases Taxa de Crítico. {nl} (Increases by 1% per level)
 SKILL_20150317_002052	Thrust: Knockback Distance
 SKILL_20150317_002053	Increases the knockback power by 50 per attribute level.
 SKILL_20150317_002054	Thrust: Ataque Contínuo
@@ -2101,9 +2101,9 @@ SKILL_20150317_002100	Cross Guard: Defense
 SKILL_20150317_002101	Diminui o dano recebido em: 10% per level when at least 3 enemies or more are provoked when using [Cross Guard].
 SKILL_20150317_002102	Two-handed Sword Mastery
 SKILL_20150317_002103	[Espada de Duas Mãos] wearing critical attack is increased by 10% per level of features.
-SKILL_20150317_002104	Moulinet: Chance de Crítico
-SKILL_20150317_002105	Chance de Crítico for [Moulinet] is increased by 10% per Attribute level.
-SKILL_20150317_002106	Stabbing: Esquiva
+SKILL_20150317_002104	Moulinet: Taxa de Crítico
+SKILL_20150317_002105	Taxa de Crítico for [Moulinet] is increased by 10% per Attribute level.
+SKILL_20150317_002106	Stabbing: Evasão
 SKILL_20150317_002107	Evasion increase by 5% per Attribute level when Ataqueing enemy with [Stabbing].
 SKILL_20150317_002108	Pierce: Ataque Contínuo
 SKILL_20150317_002109	Causa 4 hits consecutivos em monstros do tipo Chefe com [Perfurante].{nl}Consumo de SP +10
@@ -2111,7 +2111,7 @@ SKILL_20150317_002110	Pierce: Sangramento
 SKILL_20150317_002111	Gain a 2% probability per attribute level that an enemy hit by [Perfurante] gains the status [Bleeding] for 5 segundos.
 SKILL_20150317_002112	Finestra: Dano Físico
 SKILL_20150317_002113	Adiciona 10% da sua INT ao dano físico enquanto [Finestra] está ativo.{nl}Consumo de SP +5
-SKILL_20150317_002114	Synchro Thrusting: Chance de Crítico
+SKILL_20150317_002114	Synchro Thrusting: Taxa de Crítico
 SKILL_20150317_002115	Increases the rate for the next critical attack by 5% for 5 segundos per attribute level, when successfully countering an Ataque with [Synchro Thrusting]
 SKILL_20150317_002116	Synchro Thrusting: Perfurar
 SKILL_20150317_002117	Strike damage of the shield Ataque decrease by 10% per attribute level while the  Pierce damage increase by 20% per attribute level.
@@ -2121,12 +2121,12 @@ SKILL_20150317_002120	Warcry: Defesa Reduzida
 SKILL_20150317_002121	Number of enemies that lose defese when [Warcry] is used increases by 1 per level.
 SKILL_20150317_002122	Warcry: Duração
 SKILL_20150317_002123	Duração of [Warcry] will increase by 2 segundos per level
-SKILL_20150317_002124	Aggressor: Chance de Crítico
+SKILL_20150317_002124	Aggressor: Taxa de Crítico
 SKILL_20150317_002125	Decreases the added accuracy by half, but increases the critical rate equal to the decreased evasion when [Aggressor] is active.
 SKILL_20150317_002126	Aggressor: Additional Accuracy
 SKILL_20150317_002127	Increases the additional added accuracy by 2% per level and decreases the additional reduced evasion by 2% per level when [Aggressor] is active.
-SKILL_20150317_002128	Savagery: Chance de Crítico
-SKILL_20150317_002129	Chance de Crítico for [Savagery] is increased by 5% per Attribute level.
+SKILL_20150317_002128	Savagery: Taxa de Crítico
+SKILL_20150317_002129	Taxa de Crítico for [Savagery] is increased by 5% per Attribute level.
 SKILL_20150317_002130	Savagery: Continuous Slash
 SKILL_20150317_002131	Applies the Continuous Ataque bonus to slash Ataques for [Savagery].
 SKILL_20150317_002132	Targe Smash: Frozen Stone
@@ -2191,7 +2191,7 @@ SKILL_20150317_002190	Telekinesis: Forced move
 SKILL_20150317_002191	Inflicts damage equal to 20% Ataque Mágico per level to nearby enemies when moving with [Telekinesis].
 SKILL_20150317_002192	Psychic Pressure: Atordoar
 SKILL_20150317_002193	Enemy falls under [Atordoar] for 1 segundo at a 10% chance per Attribute level when hit with [Psychic Pressure].
-SKILL_20150317_002194	Gravity Pole: Esquiva
+SKILL_20150317_002194	Gravity Pole: Evasão
 SKILL_20150317_002195	Evasion increases by 10 per attribute level when using [Gravity Pole].
 SKILL_20150317_002196	Magnetic Force: Atordoar
 SKILL_20150317_002197	Enemies Ataqueed with [Magnetic Force] falls under [Atordoar] for 1 segundo at chance of 5% per attribute level.
@@ -2229,11 +2229,11 @@ SKILL_20150317_002228	Prominence: Vagando
 SKILL_20150317_002229	[Prominence] wanders within a smaller range.
 SKILL_20150317_002230	Hail: Congele
 SKILL_20150317_002231	Enemies Ataqueed with [Hail] falls under [Congelar] at a 5% chance per Attribute level.
-SKILL_20150317_002232	Meteor: Esquiva
+SKILL_20150317_002232	Meteor: Evasão
 SKILL_20150317_002233	Evasion increase by 10 per attribute level when charging [Meteor].
 SKILL_20150317_002234	Elementalist: Resistance
 SKILL_20150317_002235	Fire, Ice, and Lightning Resistances increase by 5 per attribute level.
-SKILL_20150317_002236	Quicken: Chance de Crítico
+SKILL_20150317_002236	Quicken: Taxa de Crítico
 SKILL_20150317_002237	Critical chance for [Quicken] increases by 5% per attribute level, while evasion is reduced by 2% per attribute level.
 SKILL_20150317_002238	Slow : Critical defense
 SKILL_20150317_002239	Decreases the enemy's Critical Resistance affected by the [Slow] status effect by the amount of your INT.
@@ -3067,7 +3067,7 @@ SKILL_20150323_003066	Spike Shooter
 SKILL_20150323_003067	Collar Bomb
 SKILL_20150323_003068	Growling
 SKILL_20150323_003069	Capture
-SKILL_20150323_003070	Esquiva
+SKILL_20150323_003070	Evasion
 SKILL_20150323_003071	Vendetta
 SKILL_20150323_003072	Lachrymator
 SKILL_20150323_003073	Backstab
@@ -3083,7 +3083,7 @@ SKILL_20150323_003082	Death Sentence
 SKILL_20150323_003083	Protegido de se tornar incapaz de combater uma vez.
 SKILL_20150323_003084	Throw left-hand weapon
 SKILL_20150323_003085	Resist Elements
-SKILL_20150323_003086	Chance de Crítico é maior ao atacar pelas costas.
+SKILL_20150323_003086	Taxa de Crítico é maior ao atacar pelas costas.
 SKILL_20150323_003087	Periodic decrease of SP and damage
 SKILL_20150323_003088	Removes harmful effects
 SKILL_20150323_003089	Diminui continuamente seu SP.
@@ -3271,27 +3271,27 @@ SKILL_20150401_003270	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Shoot arrow
 SKILL_20150401_003271	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Shoot flash arrows on the ground. Flash pops and shoots sparks to enemies nearby.
 SKILL_20150401_003272	Duração Máxima: 10 segundos{nl}Consome{#339989}{ol} #{CaptionRatio}#{/}{/} SP por segundo
 SKILL_20150401_003273	Temporarily increases your critical chance when you launch an Ataque from behind.
-SKILL_20150401_003274	Chance de Crítico: {#006fec}{ol}+#{CaptionRatio}#%{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150401_003274	Taxa de Crítico: {#006fec}{ol}+#{CaptionRatio}#%{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150401_003275	Reduces the target's evasion in front of you.
-SKILL_20150401_003276	Esquiva: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Alvos: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150401_003276	Evasão: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Alvos: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150401_003277	Hide under the ground
 SKILL_20150401_003278	Can only use basic Ataques in the Burrow state
 SKILL_20150401_003279	Steals the enemy's trap and Mágico circle. You may use it later when you need it.
 SKILL_20150401_003280	Captura{#339989}{ol} #{CaptionRatio}#{/}{/} círculos Mágicos/Armadilhas do inimigo
-SKILL_20150401_003281	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Aumenta sua esquiva
-SKILL_20150401_003282	Esquiva: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150401_003281	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Aumenta sua Evasão
+SKILL_20150401_003282	Evasão: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150401_003283	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}If the target dies from this Ataque, it explodes. Party members gain STR for a period of time.
 SKILL_20150401_003284	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}STR: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150401_003285	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Throw tear gas at a targeted area. Targets who are affected by this are blinded.
 SKILL_20150401_003286	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Lachrymator Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150401_003287	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Continuously Ataque using your dagger. Increases your critical chance and varies the amount of strikes each time.
-SKILL_20150401_003288	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Strikes 1~4 times{nl}Chance de Crítico:{#339989}{ol} #{CaptionRatio}#{/}{/}%
+SKILL_20150401_003288	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Strikes 1~4 times{nl}Taxa de Crítico:{#339989}{ol} #{CaptionRatio}#{/}{/}%
 SKILL_20150401_003289	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Launches an arrow that inflicts Bleeding on targets.
 SKILL_20150401_003290	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Bleeding Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Duração do Sangramento: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Consome 1 Broadhead Arrow
 SKILL_20150401_003291	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Launches an arrow that reduces the target's defense and removes its shield.
 SKILL_20150401_003292	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Defesa Física: -30%{nl}Consome 1 Bodkin Point Arrow
 SKILL_20150401_003293	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Launches a barbed arrow. The number of strikes depends on the enemy's defense type.
-SKILL_20150401_003294	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Armadura tipo Pano: 3 hits{nl}Armadura tipo Couro: 2 hits{nl}Armadura tipo Placa: 1 hit{nl}Armadura tipo Fantasma: Nullifies{nl}Consome 1 Barbed Arrow
+SKILL_20150401_003294	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Armadura tipo Pano: 3 hits{nl}Armadura tipo Couro: 2 hits{nl}Armadura tipo Metal: 1 hit{nl}Armadura tipo Fantasma: Nullifies{nl}Consome 1 Barbed Arrow
 SKILL_20150401_003295	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Launches an arrow that explodes a monster in the form of a cross when killed.
 SKILL_20150401_003296	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Explosion Ataque:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Consome 1 Hail Mary Arrow
 SKILL_20150401_003297	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Fires multiple bullets toward the target.
@@ -3616,7 +3616,7 @@ SKILL_20150414_003615	{#db20c0}{ol}[SUPORTE]{/}{/}{nl}Bata seu escudo para provo
 SKILL_20150414_003616	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Aumenta sua defesa e diminui seu ataque. Não pode ser usado com a skill Gung Ho.
 SKILL_20150414_003617	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Throw shield to Ataque. Shield dropped on ground may disappear if not picked up within time limit.
 SKILL_20150414_003618	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Mude para uma postura de defesa ativa usando seu escudo. Aumenta o seu bloqueio enquanto o ataque e a taxa crítica diminuem.
-SKILL_20150414_003619	Bloqueio: {#006fec}{ol}+#{CaptionRatio}#{/}{/} {nl}Ataque: -#{CaptionTime}#% {nl}Chance de Crítico: -{#339989}{ol}#{CaptionRatio2}#{/}{/}
+SKILL_20150414_003619	Bloqueio: {#006fec}{ol}+#{CaptionRatio}#{/}{/} {nl}Ataque: -#{CaptionTime}#% {nl}Taxa de Crítico: -{#339989}{ol}#{CaptionRatio2}#{/}{/}
 SKILL_20150414_003620	{#DD5500}{ol}[Físico] - [Impacto] - [Cortante]{/}{/}{nl}Use your shield and sword to Ataque enemies with continuous Ataques.
 SKILL_20150414_003621	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Faça um balanço para cima com sua arma, lançando um inimigo.
 SKILL_20150414_003622	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Golpeia sua arma na cabeça de um inimigo. Diminui temporariamente INT e SPR do alvo.
@@ -3790,8 +3790,8 @@ SKILL_20150414_003789	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Shoot arrow
 SKILL_20150414_003790	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Esconda-se temporariamente da visão de um inimigo. Você fica exposto quando pula ou ataca.
 SKILL_20150414_003791	{#db20c0}{ol}[SUPORTE]{/}{/}{nl}Distorce a sensação de distância para fazer ataques de aliados possível fora de seu alcance normal.
 SKILL_20150414_003792	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Mostra itens ocultos e inimigos dentro do alcance.
-SKILL_20150414_003793	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Aumenta temporariamente sua Chance de Crítico ao atacar inimigos por trás.
-SKILL_20150414_003794	{#d81111}{ol}[DEBUFF]{/}{/}{nl}Engane um inimigo para faze-lo baixar a guarda. Temporariamente diminui a esquiva dos alvos na sua frente.
+SKILL_20150414_003793	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Aumenta temporariamente sua Taxa de Crítico ao atacar inimigos por trás.
+SKILL_20150414_003794	{#d81111}{ol}[DEBUFF]{/}{/}{nl}Engane um inimigo para faze-lo baixar a guarda. Temporariamente diminui a Evasão dos alvos na sua frente.
 SKILL_20150414_003795	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Oculta-se no subterrâneo para esconder sua presença. Neste estado você pode atacar, mas não pode se mover.
 SKILL_20150414_003796	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Rouba a armadilha do inimigo e/ou círculo mágico. Você pode usá-lo mais tarde quando você precisar dele.
 SKILL_20150414_003797	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Temporarily increases the STR of you and your party members when a target dies and explodes from this Ataque.
@@ -4054,20 +4054,20 @@ SKILL_20150428_004053	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Splash{#3399
 SKILL_20150428_004054	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Casting 3 segundos{nl}Use 3 Pine Tree
 SKILL_20150428_004055	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Detona armadilhas nas proximidades e círculos mágicos para causar dano aos inimigos.
 SKILL_20150428_004056	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}#{CaptionRatio}# arrows{nl}Install range {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Use 2 wires
-SKILL_20150428_004057	Esquiva: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Pointing AI Duração: 90 segundos
+SKILL_20150428_004057	Evasão: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Pointing AI Duração: 90 segundos
 SKILL_20150428_004058	Detects hidden monsters {nl}Hounding AI Duração: 90 segundos
 SKILL_20150428_004059	Consome #{SpendPoison}# Venenos do Poison Pot
 SKILL_20150428_004060	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Duração 30 segundos
 SKILL_20150428_004061	Throw tear gas at a targeted area. The target becomes afflicted with [Blind].
 SKILL_20150428_004062	Lachrymator Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
-SKILL_20150428_004063	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Strike 2 times{nl}Chance de Crítico{#339989}{ol} #{CaptionRatio}#{/}{/}%
+SKILL_20150428_004063	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Strike 2 times{nl}Taxa de Crítico{#339989}{ol} #{CaptionRatio}#{/}{/}%
 SKILL_20150428_004064	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Duração do Sangramento: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Consome 1 Broadhead Arrow
 SKILL_20150428_004065	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Defesa Física: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Consome 1 Bodkin Arrow
 SKILL_20150428_004066	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Duração: 10 segundos{nl}Consome 1 Mágico Arrow
 SKILL_20150428_004067	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Duração: 10 segundos{nl}Consome 1 Divine Machine Arrow
 SKILL_20150428_004068	Hanging Shot
 SKILL_20150428_004069	Guardian Saint Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Chance on Hit: 50%{nl}Charges:{#339989}{ol} #{CaptionRatio}#{/}{/}
-SKILL_20150428_004070	{#00c3a1}{ol}[BUFF]{/}{/} - {#d81111}{ol}[DEBUFF]{/}{/}{nl}Cria um círculo mágico na sua frente que diminui a esquiva e defesa física dos inimigos. Os membros de sua equipe receberão um buff de   DEX sem precisar pisar no círculo mágico.
+SKILL_20150428_004070	{#00c3a1}{ol}[BUFF]{/}{/} - {#d81111}{ol}[DEBUFF]{/}{/}{nl}Cria um círculo mágico na sua frente que diminui a Evasão e defesa física dos inimigos. Os membros de sua equipe receberão um buff de   DEX sem precisar pisar no círculo mágico.
 SKILL_20150428_004071	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Dá uma bênção concedendo Dano Adicional aos Ataques de seus membros do grupo e aliados.
 SKILL_20150428_004072	Dano Adicional: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Número de Hits: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Allies Affected:{#E5E5E5}{ol} #{CaptionTime}#{/}{/}{nl}Duração: 45 segundos{nl}Consome 1 Holy Powder
 SKILL_20150428_004073	Body's moving range{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Body's Ataque +{#339989}{ol}#{CaptionRatio2}#{/}{/}
@@ -4103,7 +4103,7 @@ SKILL_20150428_004102	Legwyn Family Set Buff
 SKILL_20150428_004103	Status buff where Legacy of Legwyn Family buff can be triggered
 SKILL_20150428_004104	Legwyn Family's Legacy
 SKILL_20150428_004105	Recover SP por segundo. Total of 200 SP is recovered for 5 segundos.
-SKILL_20150428_004106	Chance de Crítico of [Estocada] is increase by 5% per level.
+SKILL_20150428_004106	Taxa de Crítico of [Estocada] is increase by 5% per level.
 SKILL_20150428_004107	Strike damage of [Synchro Thrusting] decrease by 10% per attribute level, and Pierce damage increease by 20% per attribute level.
 SKILL_20150428_004108	Splash increases by 3 while [Finestra] is activated, Evasion decrease rate is doubled
 SKILL_20150428_004109	[Montano] triggered [Slow] on target for 10 segundos. Duração of [Slow] increases by 3/2/1 segundo for small/medium/large monsters respectively.
@@ -4196,10 +4196,10 @@ SKILL_20150714_004195	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atri
 SKILL_20150714_004196	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Confusão]{/}{/}{nl}Maximum of Nearby Alvos:{#339989}{ol} #{CaptionRatio}#{/}{/} {#339999}{ol}[Fear]{/}{/}{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/}
 SKILL_20150714_004197	Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Duração: 30 segundos
 SKILL_20150714_004198	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}STR: {#006fec}{ol}+#{CaptionRatio}#{/}{/} {nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
-SKILL_20150714_004199	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Golpeia 2 vezes{nl}Chance de crítico:{#339989}{ol} #{CaptionRatio}#{/}{/}%
+SKILL_20150714_004199	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Golpeia 2 vezes{nl}Taxa de Crítico:{#339989}{ol} #{CaptionRatio}#{/}{/}%
 SKILL_20150714_004200	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio2}#%{/}{/}{nl}Duração do Sangramento: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Consome 1 Broadhead Arrow
 SKILL_20150714_004201	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Defesa Física: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}% {nl}Remove Reflect Shield{nl}Consome 1 Bodkin Arrow
-SKILL_20150714_004202	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Armadura tipo Pano: 3 hits{nl}Armadura tipo Couro: 2 hits{nl}Armadura tipo Placa: 1 hit{nl}Armadura tipo Fantasma: Nullifies{nl}Consome 1 Barbed Arrow
+SKILL_20150714_004202	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Armadura tipo Pano: 3 hits{nl}Armadura tipo Couro: 2 hits{nl}Armadura tipo Metal: 1 hit{nl}Armadura tipo Fantasma: Nullifies{nl}Consome 1 Barbed Arrow
 SKILL_20150714_004203	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Explosion Ataque:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Consome 1 Hail Mary Arrow
 SKILL_20150714_004204	Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Duração: 10 segundos{nl}Número de Hits: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Consome 1 Mágico Arrow
 SKILL_20150714_004205	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Duração: 10 segundos{nl}Consome 1 Divine Machine Arrow
@@ -4274,7 +4274,7 @@ SKILL_20150714_004273	Maestria do Tecido: Mágico
 SKILL_20150714_004274	Able to equip [Cloth] armor. In addition, increases your maximum SP and magic defense depending on the number of equipped [Cloth] armor and the attribute level. (Applies from 3 armor pieces)
 SKILL_20150714_004275	Maestria do Couro: Destreza
 SKILL_20150714_004276	Able to equip [Leather] armor. In addition, increases your Evasion depending on the number of equipped [Leather] armor and the attribute level. (Applies from 3 armor pieces)
-SKILL_20150714_004277	Maestria da Placa: Defesa
+SKILL_20150714_004277	Maestria da Metal: Defesa
 SKILL_20150714_004278	Able to equip [Plate] armor. In addition, increases your maximum HP and Defesa Física depending on the number of equipped [Plate] armor and the attribute level. (Applies from 3 armor pieces)
 SKILL_20150714_004279	Dagger Mastery
 SKILL_20150714_004280	Deals 20 Dano Adicional per attribute level when Ataqueing behind the enemy with a dagger. 
@@ -4306,7 +4306,7 @@ SKILL_20150714_004305	High Guard: Especialista em Rim Blow
 SKILL_20150714_004306	Aplica seu dano de [Rim Blow] a 250% ao usar [High Guard]. A partir do Lv2, os danos aumentam em 20% por nível de atributo.
 SKILL_20150714_004307	High Guard: Especialista em Umbo Blow
 SKILL_20150714_004308	Aplica seu dano de [Umbo Blow] a 250% ao usar [High Guard]. A partir do Lv2, os danos aumentam em 20% por nível de atributo.
-SKILL_20150714_004309	Guardian: Esquiva
+SKILL_20150714_004309	Guardian: Evasão
 SKILL_20150714_004310	Increases the character's evasion by 6% per attribute level when [Guardian] is active.
 SKILL_20150714_004311	Aumenta o dano causado com [Cartar Stroke] em 1% por nível de atributo.
 SKILL_20150714_004312	Aumenta o dano causado com [Crown] em 1% por nível de atributo.
@@ -4434,7 +4434,7 @@ SKILL_20150714_004433	Aumenta o dano causado com [Telekinesis] em 1% por nível 
 SKILL_20150714_004434	Aumenta o dano causado com [Psychic Pressure] em 1% por nível de atributo.
 SKILL_20150714_004435	Aumenta o dano causado com [Magnetic Force] em 1% por nível de atributo.
 SKILL_20150714_004436	Os inimigos atingidos por [Psychic Pressure] têm uma chance de 10% por nível de atributo de receberem [Atordoar] por 1 segundo.{nl}Tempo de Recarga +9seg.
-SKILL_20150714_004437	Aumenta a esquiva em 10% por nível de atributo enquanto usa [Gravity Pole].
+SKILL_20150714_004437	Aumenta a Evasão em 10% por nível de atributo enquanto usa [Gravity Pole].
 SKILL_20150714_004438	The enemy that was shot by [Magnetic Force] will fall into [Atordoar] status for 1 sec with the probability of 5%.
 SKILL_20150714_004439	Decreases the physical defense by 5% per attribute level on enemies that are pulled by [Gravity Pole].
 SKILL_20150714_004440	Swap: Friendly
@@ -4460,7 +4460,7 @@ SKILL_20150714_004459	Deals 35 Dano Adicional per attribute level on enemies aff
 SKILL_20150714_004460	Swell Left Arm: Swell Body Speciality
 SKILL_20150714_004461	When you Ataque an enemy that is in [Swell Body] when [Left Arm Enhancement] is being activated, the weakened ATK rate status will continue. Duração will increase by 8 secs per Attribute level and the weakened ATK rate can be overlapped max 10 times.
 SKILL_20150714_004462	Swell Arm Enhance: Rapidez
-SKILL_20150714_004463	Não usar uma adaga nem um escudo, aumenta sua precisão e esquiva em 6% por nível de atributo.
+SKILL_20150714_004463	Não usar uma adaga nem um escudo, aumenta sua precisão e Evasão em 6% por nível de atributo.
 SKILL_20150714_004464	Transpose: Equilibrium
 SKILL_20150714_004465	Balance your INT and CON when using [Transpose], causing each to become the average of both.
 SKILL_20150714_004466	Reversi: Capture Only
@@ -4515,7 +4515,7 @@ SKILL_20150714_004514	Aumenta o dano causado com [Twin Arrows] em 1% por nível 
 SKILL_20150714_004515	Increases the critical chance of [Multi Shot] em 1% por nível de atributo.
 SKILL_20150714_004516	Aumenta sua taxa crítica durante [Kneeling Shot] em 2% por nível de atributo. Custo de SP aumenta em 5.
 SKILL_20150714_004517	Enemies that are hit by [Oblique Shot] while [Swift Step] is active will be affected by [Slow] with a 5% chance per attribute level.
-SKILL_20150714_004518	Increases your Chance de Crítico by 10% per attribute level while [Swift Step] is active.
+SKILL_20150714_004518	Increases your Taxa de Crítico by 10% per attribute level while [Swift Step] is active.
 SKILL_20150714_004519	Decreases the enemy's physical defense threaded with [Full Draw] by 2% per attribute level.
 SKILL_20150714_004520	Aumenta o dano causado com [Barrage] em 1% por nível de atributo.
 SKILL_20150714_004521	Aumenta o dano causado com [High Anchoring] em 1% por nível de atributo.
@@ -4711,9 +4711,9 @@ SKILL_20150714_004710	Increases the number of times [Repair] can be used by 1 pe
 SKILL_20150717_004711	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}{#339999}{ol}[Atordoar]{/}{/} Duração: 1 segundo
 SKILL_20150717_004712	Velocidade de Movimento: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150717_004713	Your Ataque hits target but chance of critical and critical evasion decreases.
-SKILL_20150717_004714	Chance de Crítico: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Critical Resistance: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150717_004714	Taxa de Crítico: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Critical Resistance: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150717_004715	Shout a warcry that causes your enemies to panic and drop their defense, bolstering your Ataque proportionally.
-SKILL_20150717_004716	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Pula e pisoteia o inimigo no ar. Aumenta o ataque de acordo com a altura do salto do personagem e a esquiva da bota.
+SKILL_20150717_004716	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Pula e pisoteia o inimigo no ar. Aumenta o ataque de acordo com a altura do salto do personagem e a Evasão da bota.
 SKILL_20150717_004717	Capture Time:{#339989}{ol} #{CaptionRatio}#{/}{/} segundos
 SKILL_20150717_004718	Ataque: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}% {nl}Increased defense equal to the decreased Ataque{nl}Additonal Defesa: {#339989}{ol}#{CaptionRatio2}#{/}{/}%{nl}Consome 1% SP per 2 segundos
 SKILL_20150717_004719	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Duração: {#339989}{ol}#{CaptionRatio2}#{/}{/} segundos{nl}Taxa de Ataque em Área: #{SkillSR}#
@@ -4752,7 +4752,7 @@ SKILL_20150717_004751	Causa Dano Adicional igual a 50% do Ataque Físico em  ini
 SKILL_20150717_004752	The enemy that was Ataqueed by [Skull Swing] will not be able to jump for 3 segundos.
 SKILL_20150717_004753	The enemy that is Ataqueed by [Perfurante] will be in [Bleeding] for 5 segundos with 2% probability. Beeeding damage will be decided based on Physical ATK.
 SKILL_20150717_004754	Diminui o dano de ataques tipo [Impacto] em 10%, e aumenta o dano do tipo [Perfurante] em 10% por nível de atributo de [Synchro Thrusting].
-SKILL_20150717_004755	Aumenta a Taxa de Ataque em Área em 3, mas reduz a sua esquiva em x2 mais do valor existente quando [Finestra] está ativa.{Tempo de Recarga + 6s/ Consumo de SP -3
+SKILL_20150717_004755	Aumenta a Taxa de Ataque em Área em 3, mas reduz a sua Evasão em x2 mais do valor existente quando [Finestra] está ativa.{Tempo de Recarga + 6s/ Consumo de SP -3
 SKILL_20150717_004756	Diminui o tempo de recarga de [Long Stride] em 10 segundos.
 SKILL_20150717_004757	Increases the physical damage increase effect of [Warcry] by 1 per attribute level. (This attribute only applies after the enemy's defense is decreased.)
 SKILL_20150717_004758	Warcry: + Alvos
@@ -4992,7 +4992,7 @@ SKILL_20150729_004991	Aumenta o número máximo de zumbis de [Zombify] em 1.{nl}
 SKILL_20150730_004992	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Invoca um Boss com base na carta colocada no Grimório. O ataque e a defesa do Boss convocado é afetado pela sua INT e SPR, respectivamente. Os status do boss invocado aumentam em   10% para cada estrela na carta. Somente cartas tipo Demônio podem ser colocados no Grimório. Se você ficar fora de combate por mais de 1 minuto, a invocação irá parar de atacar e só voltará ao normal se você entrar em combate novamente.{nl}Cancela a invocação clicando com o botão direito em cima do buff
 SKILL_20150730_004993	Creates a Shoggoth based on the card placed in the Necronomicon. The Ataque and defense of the summoned devil is affected by your INT and SPR. Increases the abilities by 10% proportional to the amount of stars of the card. Only Animal, Plant and Mutant-type cards can be placed in the Necronomicon.
 SKILL_20150730_004994	Your companion bites and holds onto a target. Decreases the physical defense of the bitten target. You receive a critical chance bonus against the target.
-SKILL_20150730_004995	Defesa Física: {#CC0000}{ol}-#{CaptionRatio}#{/}{/} {nl}Additional Chance de Crítico: 30%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150730_004995	Defesa Física: {#CC0000}{ol}-#{CaptionRatio}#{/}{/} {nl}Additional Taxa de Crítico: 30%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150803_004996	Quick Cast
 SKILL_20150803_004997	{#DD5500}{ol}[Físico] - [Projétil]{/}{/}{nl}Kneel to increase focus. Increases your Ataque, range and Ataque speed.
 SKILL_20150803_004998	Dano Físico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Alcance: +{#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Velocidade de Ataque: +#{CaptionTime}#
@@ -5008,7 +5008,7 @@ SKILL_20150803_005007	Possível usar as skills do monstro{nl}Duração Máxima: 
 SKILL_20150803_005008	Effigy Enhance
 SKILL_20150803_005009	Increases the Ataque bonus of Effigy
 SKILL_20150803_005010	Aumenta o Dano Adicional de [Concentrate] em 2 por nível de atributo.
-SKILL_20150803_005011	Aumenta a sua esquiva e defesa mágica em 5% por nível de atributo ao usar [Stabbing].{nl}Consumo de SP +5
+SKILL_20150803_005011	Aumenta a sua Evasão e defesa mágica em 5% por nível de atributo ao usar [Stabbing].{nl}Consumo de SP +5
 SKILL_20150803_005012	Os inimigos atingidos por [Perfurante] têm uma chance de 2% por nível de atributo de receberem [Sangramento] por 6 segundos. Dano de sangramento é proporcional ao ataque físico do personagem.{nl}Tempo de Recarga + 3s/ Consumo de SP +5
 SKILL_20150803_005013	Aumenta a quantidade de ataque físico ganha com [Warcry] em 3 por nível de atributo. (Esse atributo se aplica depois que a defesa do inimigo é reduzida.)
 SKILL_20150803_005014	Increases the Ataque increase effect of [Swell Left Arm] by 3 per attribute level.
@@ -5024,10 +5024,10 @@ SKILL_20150803_005023	Increases the HP recovery effect of [Restoration] by 2 per
 SKILL_20150803_005024	Lv3 Blessing required
 SKILL_20150803_005025	Lv3 Steady Aim required
 SKILL_20150803_005026	Lv3 Concentrate required
-SKILL_20150804_005027	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Muda sua postura de ataque. Aumenta a chance de crítico e o bloqueio, diminuindo a esquiva.
-SKILL_20150804_005028	Chance de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Bloqueio: {#006fec}{ol}+{#006fec}{ol}#{SkillFactor}#%{/}{/}{/}{/}{nl}Esquiva: -{#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
-SKILL_20150804_005029	Your Ataques are guaranteed to hit, increasing your Chance de Crítico and Critical Resistance.
-SKILL_20150804_005030	Chance de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Critical Resistance: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150804_005027	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Muda sua postura de ataque. Aumenta a Taxa de Crítico e o bloqueio, diminuindo a Evasão.
+SKILL_20150804_005028	Taxa de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Bloqueio: {#006fec}{ol}+{#006fec}{ol}#{SkillFactor}#%{/}{/}{/}{/}{nl}Evasão: -{#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150804_005029	Your Ataques are guaranteed to hit, increasing your Taxa de Crítico and Critical Resistance.
+SKILL_20150804_005030	Taxa de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Critical Resistance: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150804_005031	Ataque 300% + {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Tempo de Conjuração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Taxa de Ataque em Área: #{SkillSR}#
 SKILL_20150804_005032	{#DD5500}{ol}[Físico] {img attri_Poison 21 21}Veneno - [Perfurante]{/}{/}{nl}Launches a contagious poisonous arrow. Poison spreads through the target whenever it gets Ataqueed. 
 SKILL_20150804_005033	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl} Launches an arrow that explodes on enemy impact in a cross.
@@ -5100,9 +5100,9 @@ SKILL_20150918_005099	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Ataques the
 SKILL_20150918_005100	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Número de Hits: {#339989}{ol}#{CaptionRatio}#{/}{/}
 SKILL_20150918_005101	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Bloqueios: ranged projectiles:{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Pavise Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20150918_005102	Increases Ataque, accuracy and critical rate of your companion for a given Duração.
-SKILL_20150918_005103	Companion's Ataque: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Companion's Precisão: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Companion's Chance de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
-SKILL_20150918_005104	{#d81111}{ol}[DEBUFF]{/}{/}{nl}Seu companheiro vagueia em torno do alvo e o fixa. Diminui a esquiva e a precisão do alvo.
-SKILL_20150918_005105	Esquiva: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Precisão: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Duração da Indicação da IA: 90 segundos
+SKILL_20150918_005103	Companion's Ataque: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Companion's Precisão: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Companion's Taxa de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20150918_005104	{#d81111}{ol}[DEBUFF]{/}{/}{nl}Seu companheiro vagueia em torno do alvo e o fixa. Diminui a Evasão e a precisão do alvo.
+SKILL_20150918_005105	Evasão: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Precisão: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Duração da Indicação da IA: 90 segundos
 SKILL_20150918_005106	Consome #{SpendPoison}# Venenos do Poison Pot{nl}Duração dos insetos: 20 segundos
 SKILL_20150918_005107	Zhendu
 SKILL_20150918_005108	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Aplica um veneno uma vez na sua arma, e de seus membros do grupo, para o próximo ataque.
@@ -5112,7 +5112,7 @@ SKILL_20150918_005111	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atri
 SKILL_20150918_005112	Summons a holy torch, improving the HP recovery of nearby allies. Decreases the accuracy of nearby enemies.
 SKILL_20150918_005113	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino - [BUFF]{/}{/}{nl}Borrifa água benta para ajudar a aumentar a defesa física de você e seus aliados e infligir dano aos inimigos.
 SKILL_20150918_005114	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Defesa Física: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Alvos: 10{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Consome 1 Holy Water
-SKILL_20150918_005115	Número Máximo de Círculos:{#006fec}{ol}#{SkillFactor}#{/}{/}{nl}Aumento na DEX:{#006fec}{ol}(DEX * 1.3) + 10{/}{/}{nl}Esquiva/Defesa dos inimigos: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Duração do Efeito: {#E5E5E5}{ol} 20 segundos{/}{/}
+SKILL_20150918_005115	Número Máximo de Círculos:{#006fec}{ol}#{SkillFactor}#{/}{/}{nl}Aumento na DEX:{#006fec}{ol}(DEX * 1.3) + 10{/}{/}{nl}Evasão/Defesa dos inimigos: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Duração do Efeito: {#E5E5E5}{ol} 20 segundos{/}{/}
 SKILL_20150918_005116	Mass Heal
 SKILL_20150918_005117	{#db20c0}{ol}[SUPORTE]{/}{/}{nl}Recupera o seu HP e de seus aliados lançando uma onda de energia na sua frente.
 SKILL_20150918_005118	Recupera {#006fec}{ol}#{CaptionRatio}#%{/}{/}do HP máximo{nl}Recuperação de HP Extra: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}
@@ -5161,8 +5161,8 @@ SKILL_20150918_005160	Bloqueio Aumentado
 SKILL_20150918_005161	Precisão diminuída
 SKILL_20150918_005162	Agvenipa Set Buff
 SKILL_20150918_005163	Able to equip [Cloth] armor. In addition, your maximum SP increases when you equip 3 or more pieces of [Cloth] armor. Your magic defense increases once you have 4 [Cloth] armor pieces equipped.
-SKILL_20150918_005164	Permite equipar armadura tipo [Couro]. {nl} Quando equipado com 3 ou mais peças de [Couro], sua Esquiva aumentará.{nl} {nl}Quando equipado com 4 peças de [Couro], sua Esquiva aumenta em um adicional de 50%.
-SKILL_20150918_005165	Permite equipar armadura tipo [Placa]. In addition, your maximum HP increases when you equip 3 or more pieces of [Plate] armor. Your maximum Stamina increases once you have 4 [Plate] armor pieces equipped.
+SKILL_20150918_005164	Permite equipar armadura tipo [Couro]. {nl} Quando equipado com 3 ou mais peças de [Couro], sua Evasão aumentará.{nl} {nl}Quando equipado com 4 peças de [Couro], sua Evasão aumenta em um adicional de 50%.
+SKILL_20150918_005165	Permite equipar armadura tipo [Metal]. In addition, your maximum HP increases when you equip 3 or more pieces of [Plate] armor. Your maximum Stamina increases once you have 4 [Plate] armor pieces equipped.
 SKILL_20150918_005166	Double Slash: Crítico
 SKILL_20150918_005167	Protetor de Escudo
 SKILL_20150918_005168	Umbo Thrust: Aprimorar
@@ -5244,7 +5244,7 @@ SKILL_20150918_005243	Enemies hit by [Hand Knife] have a 40% chance to be afflic
 SKILL_20150918_005244	Lv. 3 of Swell Left Arm required
 SKILL_20151001_005245	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Raises your sword and smashes the area around the center of the body. Deals Dano Adicional on medium and large-type enemies according to how much their defense has been decreased by Skull Swing.
 SKILL_20151001_005246	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Release a strong Ataque on enemies by spinning your body. Increases your critical rate when the Ataque lands and deals Dano Adicional to a stunned enemy.
-SKILL_20151001_005247	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Chance de Crítico: +50{nl}Taxa de Ataque em Área: #{SkillSR}#
+SKILL_20151001_005247	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Taxa de Crítico: +50{nl}Taxa de Ataque em Área: #{SkillSR}#
 SKILL_20151001_005248	Flame Ground
 SKILL_20151001_005249	{#993399}{ol}[Mágico] - {img attri_Fire 21 21}Fogo{/}{/}{nl}Cria um círculo mágico de chamas em uma área alvo. Causa dano contínuo de fogo aos inimigos em cima dele.
 SKILL_20151001_005250	Freezing Sphere
@@ -5289,7 +5289,7 @@ SKILL_20151001_005288	Aumenta o dano causado com [Split Arrow] em 1% por nível 
 SKILL_20151001_005289	Causa dano igual a 100% do Ataque Mágico em monstros tipo Devil próximos ao usar [Divine Might].{nl}Consumo de SP +12.
 SKILL_20151001_005290	Corsair Rank 2 requerido
 SKILL_20151001_005291	Lv. 2 Create Shoggoth required
-SKILL_20151016_005292	Chance de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Bloqueio: {#006fec}{ol}+{#006fec}{ol}#{SkillFactor}#%{/}{/}{/}{/} {nl}Esquiva: -{#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20151016_005292	Taxa de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Bloqueio: {#006fec}{ol}+{#006fec}{ol}#{SkillFactor}#%{/}{/}{/}{/} {nl}Evasão: -{#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20151016_005293	Spear Lunge
 SKILL_20151016_005294	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Apunhala um inimigo na sua frente para torná-lo mais vulnerável aos ataques tipo [Perfurante].
 SKILL_20151016_005295	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Attribute Damage{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Dano Extra Perfurante:{#006fec}{ol} 50%{/}{/}{nl}Duração:{#E5E5E5}{ol} 6 Segundos{/}{/}
@@ -5361,15 +5361,15 @@ SKILL_20151022_005360	Zucken
 SKILL_20151022_005361	Attaque Composee
 SKILL_20151022_005362	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Perfura um inimigo na sua frente.
 SKILL_20151022_005363	Lunge
-SKILL_20151022_005364	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Abaixe sua postura e alcance para atacar um inimigo. Sua taxa de esquiva aumenta e o inimigo se torna mais vulnerável aos ataques do tipo [Cortante].
-SKILL_20151022_005365	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Esquiva: {#339989}{ol}+#{CaptionRatio2}#%{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20151022_005364	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Abaixe sua postura e alcance para atacar um inimigo. Sua taxa de Evasão aumenta e o inimigo se torna mais vulnerável aos ataques do tipo [Cortante].
+SKILL_20151022_005365	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Evasão: {#339989}{ol}+#{CaptionRatio2}#%{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20151022_005366	Sept Etoiles
 SKILL_20151022_005367	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Perfura um inimigo com golpes sucessivos.
 SKILL_20151022_005368	Attaque Coquille
 SKILL_20151022_005369	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}Ataque um inimigo com a guarda de sua espada. A defesa do inimigo é ignorada quando atacado novamente com ataques tipo [Perfurante].
 SKILL_20151022_005370	Esquive Toucher
 SKILL_20151022_005371	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Mova-se rapidamente para evitar ataques inimigos e entregar ataques sucessivos complexos.
-SKILL_20151022_005372	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Esquiva: {#339989}{ol}+#{CaptionRatio2}#%{/}{/}
+SKILL_20151022_005372	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Evasão: {#339989}{ol}+#{CaptionRatio2}#%{/}{/}
 SKILL_20151022_005373	Preparation
 SKILL_20151022_005374	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Torce a ponta de sua espada para desviar de um ataque inimigo e se preparar para o ataque. O próximo ataque [Perfurante] que você fizer irá causar o dobro de dano.
 SKILL_20151022_005375	Duração Máxima: {#339989}{ol}#{CaptionRatio2}#{/}{/} segundos{nl}{#006fec}{ol}+#{CaptionRatio}#{/}{/}% block during skill Duração{nl}Duração: 15 segundos
@@ -5395,12 +5395,12 @@ SKILL_20151022_005394	You and your party members are temporarily granted an incr
 SKILL_20151022_005395	Property Resistance: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Nullification Chance: {#339989}{ol}#{CaptionRatio2}#{/}{/}%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20151022_005396	{#DD5500}{ol}[Físico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Junte energia e libere-a na sua frente, causando dano e empurrando para trás todos os inimigos em seu caminho.
 SKILL_20151022_005397	Enemy's companion bites and holds. Decreased defense.
-SKILL_20151022_005398	Aumenta a taxa de esquiva.
+SKILL_20151022_005398	Aumenta a taxa de Evasão.
 SKILL_20151022_005399	Fraco contra ataques tipo Cortante.
 SKILL_20151022_005400	Ignora a defesa ao usar ataques Perfurantes.
 SKILL_20151022_005401	Bloqueio aumentado.
 SKILL_20151022_005402	Aumenta o dano do próximo ataque Perfurante 
-SKILL_20151022_005403	Esquiva aumentada.
+SKILL_20151022_005403	Evasão aumentada.
 SKILL_20151022_005404	Mais velocidade de movimento
 SKILL_20151022_005405	Healing Factor
 SKILL_20151022_005406	Regeneração de HP
@@ -5521,7 +5521,7 @@ SKILL_20151102_005520	{#DD5500}{ol}[Projétil]{/}{/}{nl}Demonstre sua força dis
 SKILL_20151102_005521	{#DD5500}{ol}[Projétil]{/}{/}{nl}Faz dois disparos simultâneos no inimigo.
 SKILL_20151102_005522	{#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara 5 flechas em arco na sua frente.
 SKILL_20151102_005523	{#DD5500}{ol}[Projétil]{/}{/}{nl}Mira com a ponta de sua flecha e penetra{nl}através dos inimigos na sua frente.
-SKILL_20151102_005524	{#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com alta chance de crítico em um alvo.
+SKILL_20151102_005524	{#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com alta Taxa de Crítico em um alvo.
 SKILL_20151102_005525	Increases the Ataque of [Projétil] skills while decreasing the Ataque speed.
 SKILL_20151102_005526	{#DD5500}{ol}[Projétil]{/}{/}{nl}Dispara uma flecha com uma bomba anexada. Ao atingir um alvo, a flecha explodirá após um período de tempo, causando dano extra. Pode derrubar o alvo por 2 segundos.
 SKILL_20151102_005527	{#DD5500}{ol}[Projétil]{/}{/}{nl}Atira uma flecha que se divide ao atingir um alvo para atingir outros inimigos adjacentes.
@@ -5735,7 +5735,7 @@ SKILL_20151102_005734	Ein Sof: SP Recovery
 SKILL_20151102_005735	Exchanges half the maximum HP increase of [Ein Sof] for SP instead.
 SKILL_20151102_005736	Lv. 3 Ein Sof required
 SKILL_20151224_005737	Mining
-SKILL_20151224_005738	Bloqueio: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Ataque: -#{CaptionTime}#%{nl}Chance de Crítico: -{#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: {#E5E5E5}{ol}30 segundos{/}{/}
+SKILL_20151224_005738	Bloqueio: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Ataque: -#{CaptionTime}#%{nl}Taxa de Crítico: -{#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: {#E5E5E5}{ol}30 segundos{/}{/}
 SKILL_20151224_005739	Langort
 SKILL_20151224_005740	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Bloqueie e golpeie simultaneamente usando uma espada e um escudo.
 SKILL_20151224_005741	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Ataca com um corte vertical descendente. Causa dano adicional em inimigos de tamanho médio e grande de acordo com o quanto a sua defesa foi diminuída pela skill [Skull Swing]. Um dano bônus adicional será aplicado dependendo da quantidade de debuffs que foram aplicados ao inimigo.
@@ -5829,8 +5829,8 @@ SKILL_20151224_005828	Rune of Justice
 SKILL_20151224_005829	{#993399}{ol}[Mágico]{/}{/}Ataque enemies in front of you with a flash of holy light.
 SKILL_20151224_005830	Rune of Protection
 SKILL_20151224_005831	{#993399}{ol}[Mágico]{/}{/}Increases the chance of resistance of you and your party member against status ailments.
-SKILL_20151224_005832	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Temporariamente aumenta sua velocidade de movimento e esquiva enquanto se move {nl}atacando, e sua defesa física é reduzida.
-SKILL_20151224_005833	Velocidade de Movimento ao Atacar:{#006fec}{ol} {#006fec}{ol}+{#006fec}{ol}#{SkillFactor}#%{/}{/}{/}{/}{/}{/}{nl}Esquiva:{#006fec}{ol} +{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Defesa Física:{#CC0000}{ol} {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{/}{/}{nl}Duração:{#E5E5E5}{ol}{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{/}{/}
+SKILL_20151224_005832	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Temporariamente aumenta sua velocidade de movimento e Evasão enquanto se move {nl}atacando, e sua defesa física é reduzida.
+SKILL_20151224_005833	Velocidade de Movimento ao Atacar:{#006fec}{ol} {#006fec}{ol}+{#006fec}{ol}#{SkillFactor}#%{/}{/}{/}{/}{/}{/}{nl}Evasão:{#006fec}{ol} +{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Defesa Física:{#CC0000}{ol} {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{/}{/}{nl}Duração:{#E5E5E5}{ol}{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{/}{/}
 SKILL_20151224_005834	Set up an upright shield to protect yourself from enemies and long-ranged Ataques. Enemies without a target will Ataque the pavise instead.
 SKILL_20151224_005835	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}N° de Espinhos: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração dos Espinhos: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Velocidade de movimento do inimigo -10 por 5 segundos
 SKILL_20151224_005836	{#db20c0}{ol}[SUPORTE]{/}{/}{nl}Pega pedras do chão que serão usadas como munição para o Stone Shot.
@@ -5841,7 +5841,7 @@ SKILL_20151224_005840	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atri
 SKILL_20151224_005841	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo:{#E5E5E5}{ol} #{CaptionTime}#{/}{/}%{nl}Arrow Count:{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Set up Alcance: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Consome 2 Wires
 SKILL_20151224_005842	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}The bitten enemy will have its physical defense reduced while critical chance bonus is applied against the enemy.
 SKILL_20151224_005843	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}The companion bites an airborne enemy and lower it to the ground.
-SKILL_20151224_005844	Companion Ataque: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Companion Precisão: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Companion Chance de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Nível Máximo: 5
+SKILL_20151224_005844	Companion Ataque: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Companion Precisão: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Companion Taxa de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Nível Máximo: 5
 SKILL_20151224_005845	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}The companion bites and drags the enemy towards their owner.
 SKILL_20151224_005846	Detecta inimigos ocultos {#339989}{ol}#{CaptionRatio}# vezes{/}{/}{nl}Duração da Procura: 90 segundos
 SKILL_20151224_005847	{#db20c0}{ol}[SUPORTE]{/}{/}{nl}Desintoxica um aliado envenenado. Se o veneno é de um nível mais elevado do que o antídoto, a duração do veneno será reduzida ao invés de ser curado.
@@ -5850,7 +5850,7 @@ SKILL_20151224_005849	{#DD5500}{ol}[Físico] {img attri_Poison 21 21}Veneno{/}{/
 SKILL_20151224_005850	{#DD5500}{ol}[Físico] {img attri_Poison 21 21}Veneno{/}{/}{nl}Throw Jincan to Ataque enemies. Defeated enemies are replaced with a newly born poison insect.
 SKILL_20151224_005851	Block Count:{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Velocidade de Movimento: -{#339989}{ol}#{CaptionRatio2}#{/}{/}
 SKILL_20151224_005852	Duração Máxima: {#339989}{ol}#{CaptionRatio2}#{/}{/} segundos{nl}Consome{#339989}{ol} #{CaptionRatio}#{/}{/} SP por segundo
-SKILL_20151224_005853	Skill Chance de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%
+SKILL_20151224_005853	Skill Taxa de Crítico: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%
 SKILL_20151224_005854	Wild Shot
 SKILL_20151224_005855	{#DD5500}{ol}[Projétil]{/}{/}{nl}Ataque um inimigo simultaneamente segurando uma besta e uma pistola em cada mão.
 SKILL_20151224_005856	Sonic Strike
@@ -5962,8 +5962,8 @@ SKILL_20151224_005961	Increased Mágico amplification at the cost of reducing HP
 SKILL_20151224_005962	Aumenta INT
 SKILL_20151224_005963	Aumenta Defesa
 SKILL_20151224_005964	Shield reduced instead of HP when hit by enemies
-SKILL_20151224_005965	Chance de Crítico aumentada
-SKILL_20151224_005966	Aumento da Chance de Crítico
+SKILL_20151224_005965	Taxa de Crítico aumentada
+SKILL_20151224_005966	Aumento da Taxa de Crítico
 SKILL_20151224_005967	Physical Ataque Increase
 SKILL_20151224_005968	Aumento do Ataque Físico
 SKILL_20151224_005969	Resistência a Fogo Aumentado
@@ -6008,8 +6008,8 @@ SKILL_20151224_006007	Unlimited Instanced Dungeon Entry
 SKILL_20151224_006008	Able to enter Instanced Dungeons and Office Missions an unlimited amount of times.
 SKILL_20151224_006009	Permite você equipar [Pistol]. You can also press the C button to Ataque.
 SKILL_20151224_006010	Permite equipar armadura tipo [Tecido]. {nl}Quando equipado com 3 ou mais peças de [Tecido], aumenta seu SP máximo e o dano Mágico recebido é diminuído em 5%. Quando equipado com 4 peças de [Tecido], a sua defesa mágica aumenta e o dano mágico recebido é diminuído em 10%.
-SKILL_20151224_006011	Permite equipar armadura tipo [Couro]. {nl}Quando equipado com 3 ou mais peças de [Couro], sua Esquiva aumenta. Quando equipado com 4 peças de couro, sua Esquiva aumenta em mais 50%.
-SKILL_20151224_006012	Permite equipar armadura tipo [Placa].{nl}{nl}Quando equipado com 3 ou mais peças de [Placa], aumenta seu HP máximo e os danos físicos recebidos diminuem em 5%.{nl}Quando equipado com 4 peças [Placa], sua Stamina máxima aumenta e o dano físico é diminuído em um adicional de 10%.
+SKILL_20151224_006011	Permite equipar armadura tipo [Couro]. {nl}Quando equipado com 3 ou mais peças de [Couro], sua Evasão aumenta. Quando equipado com 4 peças de couro, sua Evasão aumenta em mais 50%.
+SKILL_20151224_006012	Permite equipar armadura tipo [Metal].{nl}{nl}Quando equipado com 3 ou mais peças de [Metal], aumenta seu HP máximo e os danos físicos recebidos diminuem em 5%.{nl}Quando equipado com 4 peças [Metal], sua Stamina máxima aumenta e o dano físico é diminuído em um adicional de 10%.
 SKILL_20151224_006013	Increases the Stamina reduction cycle of your companion by 10 segundos per attribute level.
 SKILL_20151224_006014	Quando o HP do seu mascote é inferior a 50%, ele ativará o efeito [First Aid] e recuperará o HP por 2 segundos. A duração é aumentada em 1 segundo por nível de atributo a partir do Lv. 2. [First Aid] não pode ser usado por mais de 10 minutos depois de ter sido ativado.
 SKILL_20151224_006015	Bash: Especialização
@@ -6017,7 +6017,7 @@ SKILL_20151224_006016	Aumenta o dano causado por [Bash] em 28 por nível de atri
 SKILL_20151224_006017	Increases the physical Ataque, while your maximum HP decreases of [Restrain] per attribute level.
 SKILL_20151224_006018	Increases the maximum HP of your character by 5% per attribute level when [Swash Buckling] is active.
 SKILL_20151224_006019	Aumenta sua defesa física em 10% por nível de atributo quando [Guard] estiver ativo.
-SKILL_20151224_006020	Aumenta a esquiva do personagem em 6% por nível de atributo quando [Guardian] está ativo.{nl}Consumo de SP +10.
+SKILL_20151224_006020	Aumenta a Evasão do personagem em 6% por nível de atributo quando [Guardian] está ativo.{nl}Consumo de SP +10.
 SKILL_20151224_006021	Adds critical attack proportional to physical Ataque when [Aggressor] is active. Increases by 5% per attribute level.
 SKILL_20151224_006022	Shield Shoving: Aprimorar
 SKILL_20151224_006023	Aumenta o dano causado com [Shield Shoving] em 1% por nível de atributo.
@@ -6217,7 +6217,7 @@ SKILL_20160224_006216	Ataque: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Adicional
 SKILL_20160224_006217	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Duração da Bomba: {#E5E5E5}{ol}2 segundos{/}{/}
 SKILL_20160224_006218	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Permite-lhe atacar enquanto se move rapidamente. Aumenta a velocidade de ataque e causa dano adicional ao usar ataques básicos.
 SKILL_20160224_006219	{#DD5500}{ol}[Físico]{/}{/}{nl}Your companion holds on to a target. Decreases a target's physical defense and Ataques against the target will have an increased critical chance.
-SKILL_20160224_006220	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Defesa Física: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Additional Chance de Crítico: 30%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20160224_006220	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Defesa Física: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Additional Taxa de Crítico: 30%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20160224_006221	{#DD5500}{ol}[Físico]{/}{/}{nl}Peça ao seu mascote que derrube um monstro do tipo Voador no chão, causando [Sangramento].
 SKILL_20160224_006222	{#DD5500}{ol}[Físico]{/}{/}{nl}Peça ao seu mascote para investir e atacar um inimigo.
 SKILL_20160224_006223	{#DD5500}{ol}[Físico]{/}{/}{nl}Order your companion to drag a target towards you.
@@ -6241,8 +6241,8 @@ SKILL_20160224_006240	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Alvos Máxim
 SKILL_20160224_006241	Ataque por Hit: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Consome 30 SP por segundo
 SKILL_20160224_006242	Reduced SP usage, and deals Dano Adicional when Ataqueing.
 SKILL_20160224_006243	Unable to move.
-SKILL_20160224_006244	High Anchoring: Chance de Crítico
-SKILL_20160224_006245	Rapid Fire: Chance de Crítico
+SKILL_20160224_006244	High Anchoring: Taxa de Crítico
+SKILL_20160224_006245	Rapid Fire: Taxa de Crítico
 SKILL_20160224_006246	Increased maximum HP, defense, and movement speed.
 SKILL_20160224_006247	Weak against physical Ataque Elementars.
 SKILL_20160224_006248	Langort: Bloqueio
@@ -6339,15 +6339,15 @@ SKILL_20160317_006338	Ataque: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Adicional
 SKILL_20160317_006339	- Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - Can only trade up to 30 times{nl
 SKILL_20160317_006340	- Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - Can only trade up to 30 times{nl
 SKILL_20160323_006341	Party Horn
-SKILL_20160323_006342	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Additional Chance de Crítico: 62%
-SKILL_20160323_006343	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Defesa Física: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Chance de Crítico Extra: 40%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20160323_006342	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Additional Taxa de Crítico: 62%
+SKILL_20160323_006343	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}{#339989}{ol}#{CaptionRatio2}#{/}{/}%{/}{/}{nl}Defesa Física: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}{nl}Taxa de Crítico Extra: 40%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20160323_006344	Increased movement speed and physical/magical attack
 SKILL_20160323_006345	Magic Amplification
 SKILL_20160323_006346	Amplified magic after a critical attack.
 SKILL_20160323_006347	Decreased defense.
 SKILL_20160323_006348	Team Level
 SKILL_20160323_006349	 - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl}
-SKILL_20160323_006350	Aumenta a chance de crítico de [Double Slash] em 7% por nível de atributo.{nl} Consumo de SP +8.
+SKILL_20160323_006350	Aumenta a Taxa de Crítico de [Double Slash] em 7% por nível de atributo.{nl} Consumo de SP +8.
 SKILL_20160323_006351	Aumenta a chance crítica de [Moulinet] em 12% por nível de atributo.{nl}Consumo de SP +11.
 SKILL_20160323_006352	Aumenta a Taxa de Crítico do [Multi Shot] em 1.5% por nível de atributo. Custo de SP aumenta em 5.
 SKILL_20160323_006353	Causa 20% de Dano Adicional por nível de atributo em monstros voadores quando equipado com [Arco]
@@ -6359,7 +6359,7 @@ SKILL_20160425_006358	 - Able to learn attributes instantaneously{nl} - Reduced 
 SKILL_20160426_006359	 - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use 
 SKILL_20160718_006360	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Oferece temporariamente uma alta resistência a ser empurrado, derrubado ou atordoado. Além disso, aumenta a chance de resistir a status anormais.
 SKILL_20160718_006361	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Corre para frente enquanto corta, atacando todos os inimigos que bloqueiam o seu caminho. Tem a chance de causar dano adicional a um inimigo atordoado.
-SKILL_20160718_006362	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Libera um forte ataque aos inimigos girando seu corpo. Aumenta sua chance de crítico quando o ataque acerta e causa dano adicional a um inimigo atordoado.{nl} Além disso, o alvo recebe 50% de dano adicional do tipo Cortante por 5 segundos.
+SKILL_20160718_006362	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Libera um forte ataque aos inimigos girando seu corpo. Aumenta sua Taxa de Crítico quando o ataque acerta e causa dano adicional a um inimigo atordoado.{nl} Além disso, o alvo recebe 50% de dano adicional do tipo Cortante por 5 segundos.
 SKILL_20160718_006363	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Use seu escudo para empurrar os inimigos. Alvos próximos cairão quando bater com o escudo. Enquanto Shield Charge está ativo, aumenta a chance de bloquear ataques do tipo projétil.
 SKILL_20160718_006364	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Mantenha pressionada a tecla para agachar e avançar. Aumenta as chances de esquivar e bloquear ataques inimigos e aumenta a resistência contra status negativos.{nl}Aciona um ataque imediatamente após o movimento ter terminado.
 SKILL_20160718_006365	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Use seu escudo e espada para atacar sucessivamente os inimigos.
@@ -6374,7 +6374,7 @@ SKILL_20160718_006373	Duração do Gigante: {#E5E5E5}{ol}#{CaptionTime}# segundo
 SKILL_20160718_006374	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Consome 1 Rune Stone{nl}Tempo de Conjuração: 6 segundos
 SKILL_20160718_006375	Resistance Effect Chance: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Consome 1 Rune Stone{nl}Tempo de Conjuração: 6 segundos
 SKILL_20160718_006376	Ajoelha-se para melhorar sua concentração. Aumenta o seu Ataque, Velocidade de Ataque  e Alcance. Pular ou utilizar a skill novamente irá remover o estado ajoelhado.
-SKILL_20160718_006377	{#DD5500}{ol}[Físico]{/}{/}{nl}Seu mascote fixa em um alvo. Diminui a defesa física do alvo e os ataques contra ele terão uma chance de crítico maior. Além disso, causa dano contínuo ao inimigo.
+SKILL_20160718_006377	{#DD5500}{ol}[Físico]{/}{/}{nl}Seu mascote fixa em um alvo. Diminui a defesa física do alvo e os ataques contra ele terão uma Taxa de Crítico maior. Além disso, causa dano contínuo ao inimigo.
 SKILL_20160718_006378	{#DD5500}{ol}[Físico]{/}{/}{nl}Peça seu mascote para arrastar um alvo em sua direção. O alvo torna-se incapaz de atacar e sofre dano contínuo.
 SKILL_20160718_006379	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Comanda seu falcão para mergulhar violentamente em inimigos várias vezes na área alvo. O alvo é provável ser afligido com [Cegueira].
 SKILL_20160718_006380	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{KDownPower}#%{/}{/}{nl}Recuperação de HP adicional: {#006fec}{ol}#{CaptionRatio}# ~ {#339989}{ol}#{CaptionRatio2}#{/}{/}{/}{/}{nl}Recupera HP igual a 5% do seu HP máximo{nl}Duração do Círculo:  {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
@@ -6403,7 +6403,7 @@ SKILL_20160718_006402	Aumenta defesa física e mágica
 SKILL_20160718_006403	Aumenta ataque físico e mágico
 SKILL_20160718_006404	Aumenta ataque físico e mágico
 SKILL_20160718_006405	Lesser Panda Buff
-SKILL_20160718_006406	Aumenta Chance de Crítico e Dano Crítico.
+SKILL_20160718_006406	Aumenta Taxa de Crítico e Ataque Crítico.
 SKILL_20160718_006407	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to u
 SKILL_20160718_006408	Field Boss Cube Unobtainable
 SKILL_20160718_006409	Cubo de chefe de campo adquirido.{nl}Durante a duração deste efeito, você não será capaz de obter cubos de chefes de campo.
@@ -6505,7 +6505,7 @@ SKILL_20161005_006504	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Corta várias
 SKILL_20161005_006505	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Taxa de Ataque em Área: #{SkillSR}#
 SKILL_20161005_006506	Ataque Por acúmulo: {#006fec}{ol}+#{CaptionRatio}#{/}{/}%{nl}Defense Por acúmulo: {#CC0000}{ol}-#{CaptionRatio}#{/}{/}%{nl}Máximo de Acúmulo: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20161005_006507	Zwerchhau
-SKILL_20161005_006508	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Balança a espada em uma mão para atacar uma grande quantidade de inimigos. Os alvos que não têm armadura tipo Placa tornam-se mais vulneráveis a ataques tipo Cortante.
+SKILL_20161005_006508	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Balança a espada em uma mão para atacar uma grande quantidade de inimigos. Os alvos que não têm armadura tipo Metal tornam-se mais vulneráveis a ataques tipo Cortante.
 SKILL_20161005_006509	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20161005_006510	Sturtzhau
 SKILL_20161005_006511	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Golpeia em diagonal. O ataque ignora uma parte da defesa inimiga.
@@ -6557,7 +6557,7 @@ SKILL_20161005_006556	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Aremessa a 
 SKILL_20161005_006557	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Duração: 10 segundos
 SKILL_20161005_006558	Head Strike
 SKILL_20161005_006559	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Aim for the head and deals an Ataque with high crit chance.
-SKILL_20161005_006560	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Additional Chance de Crítico: CaptionRatio2}#%
+SKILL_20161005_006560	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Additional Taxa de Crítico: CaptionRatio2}#%
 SKILL_20161005_006561	Joust
 SKILL_20161005_006562	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Corre para atirar a lança no inimigo e destruir os círculos mágicos. Os status INT e SPR do alvo são reduzidos e as classes de Cleric e Wizard serão silenciados e os ataques e habilidades normais não podem ser usados.
 SKILL_20161005_006563	Unhorsing
@@ -6627,7 +6627,7 @@ SKILL_20161005_006626	Grants the main weapon and top armor of nearby allies brie
 SKILL_20161005_006627	Increased Ataque:{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Increased Defesa: {#339989}{ol}#{CaptionRatio2}#{/}{/}{nl}Duração: 10 segundos
 SKILL_20161005_006628	Agility
 SKILL_20161005_006629	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Encanta temporariamente os sapatos de aliados próximos com o buff [Agilidade]. Esse Buff aumenta a Stamina máxima e a chance de evitar um ataque inimigo proporcional a sua Stamina atual.
-SKILL_20161005_006630	STA {#006fec}{ol}+{#339989}{ol} #{CaptionRatio}#{/}{/}{/}{/}{nl}Chance de Esquiva: {#339989}{ol}+[Current STA] × #{CaptionRatio2}#{/}{/}% {nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
+SKILL_20161005_006630	STA {#006fec}{ol}+{#339989}{ol} #{CaptionRatio}#{/}{/}{/}{/}{nl}Chance de Evasão: {#339989}{ol}+[Current STA] × #{CaptionRatio2}#{/}{/}% {nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20161005_006631	Enchant Armor
 SKILL_20161005_006632	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Abre uma loja que concede encantamentos para armaduras.
 SKILL_20161005_006633	O número de encantamentos disponíveis aumenta conforme o nível da skill
@@ -6641,13 +6641,13 @@ SKILL_20161005_006640	Empowering
 SKILL_20161005_006641	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Aumenta temporariamente o Nível e SP máximo dos membros do seu grupo. O nível aumentado não será explicitamente mostrado, mas ao entrar em instâncias, será muito útil
 SKILL_20161005_006642	Nível do Personagem: {#006fec}{ol}+#{CaptionRatio}#{/}{/} {nl}SP Máximo: {#339989}{ol}+#{CaptionRatio2}#{/}{/}% {nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}
 SKILL_20161005_006643	{#db20c0}{ol}[SUPORTE]{/}{/}{nl}Aumenta temporariamente o ataque, precisão, chance crítico e a velocidade de ataque do seu mascote.
-SKILL_20161005_006644	Ataque do Mascote: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Precisão do Mascote: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Chance de Crítico do Mascote: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Velocidade de Ataque do Mascote + {#339989}{ol}#{CaptionRatio2}#{/}{/} segundos {nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Nível Máximo: 5
+SKILL_20161005_006644	Ataque do Mascote: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Precisão do Mascote: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Taxa de Crítico do Mascote: {#006fec}{ol}+#{CaptionRatio}#{/}{/}{nl}Velocidade de Ataque do Mascote + {#339989}{ol}#{CaptionRatio2}#{/}{/} segundos {nl}Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Nível Máximo: 5
 SKILL_20161005_006645	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Lança uma bomba de gás lacrimogêneo na área selecionada. O alvo afetado recebe o status de escuridão e não poderá atacar.
 SKILL_20161005_006646	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Enquanto montado, aumenta sua mobilidade e dano nos inimigos. Quando o efeito Limacon está ativo, você pode atirar usando sua pistola como se fosse um arco normal enquanto se move em alta velocidade.
 SKILL_20161005_006647	Duração: {#E5E5E5}{ol}#{CaptionTime}# segundos{/}{/}{nl}Ataque Adicional: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo: {#006fec}{ol}#{CaptionRatio}#%{/}{/}{nl}Usável enquanto montado
 SKILL_20161005_006648	Evasive Action
-SKILL_20161005_006649	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Enquanto montado, a habilidade aumenta a taxa de esquiva e diminui a velocidade de movimento por um período de tempo.
-SKILL_20161005_006650	Taxa de Esquiva: {#006fec}{ol}+#{CaptionRatio}#%{/}{/}{nl}Velocidade de Movimento: {#CC0000}{ol}{ol}-#{CaptionRatio2}#{/}{/}
+SKILL_20161005_006649	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Enquanto montado, a habilidade aumenta a taxa de Evasão e diminui a velocidade de movimento por um período de tempo.
+SKILL_20161005_006650	Taxa de Evasão: {#006fec}{ol}+#{CaptionRatio}#%{/}{/}{nl}Velocidade de Movimento: {#CC0000}{ol}{ol}-#{CaptionRatio2}#{/}{/}
 SKILL_20161005_006651	Marching Fire
 SKILL_20161005_006652	{#DD5500}{ol}[Projétil]{/}{/}{nl}Marcha para frente enquanto atira. Os inimigos serão atacados violentamente com múltiplos disparos.
 SKILL_20161005_006653	Combination
@@ -6798,7 +6798,7 @@ SKILL_20161005_006797	When Ataqueing, there is a chance to give the enemy confus
 SKILL_20161005_006798	Reward (Weapon)
 SKILL_20161005_006799	Reward (Top)
 SKILL_20161005_006800	Hamaya (Holy)
-SKILL_20161005_006801	Fica vulnerável a golpes do tipo [Cortante]. Não se aplica a armaduras do tipo [Placa].
+SKILL_20161005_006801	Fica vulnerável a golpes do tipo [Cortante]. Não se aplica a armaduras do tipo [Metal].
 SKILL_20161005_006802	Bloqueia ataques do tipo Projétil e ataques de força mágica.
 SKILL_20161005_006803	Gets HP drain from the target and heals the Ataqueer's HP. SP unrecoverable.
 SKILL_20161005_006804	Absorbs evil spirits and expells their energy around. Your normal Ataques become imbued with the evil spirit.
@@ -7368,9 +7368,9 @@ SKILL_20170313_007367	Devaluation
 SKILL_20170313_007368	{#d81111}{ol}[DEBUFF]{/}{/}{nl}Fornece a chance de transformar todos os valores de aprimoramento e transcendência do equipamento inimigo em 0. Quando o inimigo é um monstro, reduz o ataque físico/mágico e a defesa. Este valor é reduzido pela metade se o inimigo é um monstro chefe.
 SKILL_20170313_007369	Chance de desvalorização: {#339989}{ol}#{CaptionTime}#%{/}{/}{nl}Alvos: {#339989}{ol}#{CaptionRatio}#{/}{/}{nl}Redução do ataque físico/mágico: {#339989}{ol}#{CaptionRatio2}#%{/}{/}{nl}Redução da defesa física/mágica: {#339989}{ol}#{CaptionRatio3}#%{/}{/}{nl}Duração: {#E5E5E5}{ol}120 segundos{/}{/}
 SKILL_20170313_007370	Blindside
-SKILL_20170313_007371	{#DD5500}{ol}[Projétil]{/}{/}{nl}Use uma lupa para encontrar o ponto cego do inimigo. O ataque será sempre aplicado como crítico. Os inimigos ao redor do alvo atacado terão maiores chances de serem atingidos por ataques críticos.(Os efeitos de Blindside e a chance de crítico do personagem aplicam-se separadamente.)
+SKILL_20170313_007371	{#DD5500}{ol}[Projétil]{/}{/}{nl}Use uma lupa para encontrar o ponto cego do inimigo. O ataque será sempre aplicado como crítico. Os inimigos ao redor do alvo atacado terão maiores chances de serem atingidos por ataques críticos.(Os efeitos de Blindside e a Taxa de Crítico do personagem aplicam-se separadamente.)
 SKILL_20170313_007372	Ataque: {#006fec}{ol}#{SkillAtkAdd}#{/}{/}{nl}Dano de Atributo:{#339989}{ol} #{CaptionRatio2}#%{/}{/}{nl}Aumento das Chances de Ataque Crítico Min.{nl}Duração:{#E5E5E5}{ol}{#339989}{ol} #{CaptionRatio}#{/}{/} segundos{/}{/}
-SKILL_20170313_007373	Número Máximo de Círculos:{#006fec}{ol} #{SkillFactor}#{/}{/}{nl}Aumento na DEX:{#006fec}{ol}(DEX * 1.3) + 10{/}{/}{nl}Esquiva e Defesa dos inimigos:{#339989}{ol} -#{CaptionRatio}#{/}{/}{nl} Duração em Aliados:{#E5E5E5}{ol}{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{/}{/}{nl}Duração em Inimigos{#E5E5E5}{ol} {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos{/}{/}
+SKILL_20170313_007373	Número Máximo de Círculos:{#006fec}{ol} #{SkillFactor}#{/}{/}{nl}Aumento na DEX:{#006fec}{ol}(DEX * 1.3) + 10{/}{/}{nl}Evasão e Defesa dos inimigos:{#339989}{ol} -#{CaptionRatio}#{/}{/}{nl} Duração em Aliados:{#E5E5E5}{ol}{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{/}{/}{nl}Duração em Inimigos{#E5E5E5}{ol} {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos{/}{/}
 SKILL_20170313_007374	{#db20c0}{ol}[SUPORTE]{/}{/}{nl}Mude para um estado onde você se torne temporariamente invencível de todos os ataques.
 SKILL_20170313_007375	Duração Max.: 1.5 segundos{nl}Long range projectile, can defend magic
 SKILL_20170313_007376	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Summons the wagon of the goddess to explode at a predetermined spot, dealing damage to nearby enemies.
@@ -7380,7 +7380,7 @@ SKILL_20170313_007379	Jolly Roger: Enemy Debuff
 SKILL_20170313_007380	Hit the enemy to increase the number of combos.
 SKILL_20170313_007381	Aprimoramento de armas-secundárias aumentado	보조무기의 강화도를 올려준다				
 SKILL_20170313_007382	Reveal Weak Spot	약점 노출				
-SKILL_20170313_007383	Revela o ponto fraco do inimigo para aumentar a chance de crítico.
+SKILL_20170313_007383	Revela o ponto fraco do inimigo para aumentar a Taxa de Crítico.
 SKILL_20170313_007384	Ignora aprimoramento e transcendência
 SKILL_20170313_007385	Fever
 SKILL_20170313_007386	Aumento no dano de ataques tipo Projétil
@@ -7418,8 +7418,8 @@ SKILL_20170313_007417	* Permite equipar [Mace]
 SKILL_20170313_007418	* Permite equipar [Wand] 
 SKILL_20170313_007419	* Permite equipar [Pistola] {nl}* Permite atacar com a pistola usando o botão C
 SKILL_20170313_007420	* Permite equipar armadura tipo [Tecido]{nl}* Quando equipado com 3 ou mais peças de [Tecido], aumenta o SP máximo proporcionalmente ao nível de atributo e diminui o dano mágico recebido em 5%{nl}* Quando equipado com 4 peças de [Tecido], aumenta a defesa mágica proporcionalmente ao nível de atributo e diminui o dano mágico recebido em 10%
-SKILL_20170313_007421	* Permite equipar armadura tipo [Couro]{nl}* Quando equipado com 3 ou mais peças de [Couro], aumenta a esquiva proporcionalmente ao nível de atributo{nl}* Quando equipado com 4 peças de [Couro], aumenta a esquiva obtida por atributos em 50%.
-SKILL_20170313_007422	* Permite equipar armadura tipo [Placa]{nl}* Quando equipado com 3 ou mais peças de [Placa], aumenta o HP máximo proporcionalmente ao nível de atributo e diminui o dano físico recebido em 5%{nl}* Quando equipado com 4 peças de [Placa], aumenta a stamina máxima proporcionalmente ao nível de atributo e diminui o dano físico recebido em 10%
+SKILL_20170313_007421	* Permite equipar armadura tipo [Couro]{nl}* Quando equipado com 3 ou mais peças de [Couro], aumenta a Evasão proporcionalmente ao nível de atributo{nl}* Quando equipado com 4 peças de [Couro], aumenta a Evasão obtida por atributos em 50%.
+SKILL_20170313_007422	* Permite equipar armadura tipo [Metal]{nl}* Quando equipado com 3 ou mais peças de [Metal], aumenta o HP máximo proporcionalmente ao nível de atributo e diminui o dano físico recebido em 5%{nl}* Quando equipado com 4 peças de [Metal], aumenta a stamina máxima proporcionalmente ao nível de atributo e diminui o dano físico recebido em 10%
 SKILL_20170313_007423	* Causa 2.5% de dano adicional por nível de atributo ao atacar um inimigo por trás com uma adaga
 SKILL_20170313_007424	* Pode usar habilidades enquanto estiver montando e um mascote
 SKILL_20170313_007425	* Permite equipar [Florete] 
@@ -7444,7 +7444,7 @@ SKILL_20170313_007443	* Aumenta o dano causado com [Double Slash] em 1% por nív
 SKILL_20170313_007444	* Aumenta a Taxa de Ataque em Área de [Bash] em 1 por nível de atributo{nl}* Consumo de SP +5
 SKILL_20170313_007445	* Ativa ataques consecutivos ao usar [Thrust] em 1% de chance por nível de atributo.{nl}* Consumo de SP +3
 SKILL_20170313_007446	* Inimigos atingidos por [Bash] serão derrubados{nl}* Consumo de SP +2{nl}* Tempo de Recarga +2 segundos
-SKILL_20170313_007447	* Aumenta a chance de crítico de [Double Slash] em 7% por nível de atributo{nl}* Consumo de SP +8
+SKILL_20170313_007447	* Aumenta a Taxa de Crítico de [Double Slash] em 7% por nível de atributo{nl}* Consumo de SP +8
 SKILL_20170313_007448	* Inflige [Sangramento] por 5 segundos usando [Thrust] em inimigos atordoados {nl}* Dano de sangramento é proporcional a STR do personagem{nl}* Consumo de SP +5
 SKILL_20170313_007449	* Os inimigos atordoados por [Restrain] tornam-se mais lentos depois que o atordoar desaparece{nl}* Aumenta a duração do efeito de lentidão em 3 segundos por nível de atributo{nl}* Consumo de SP +8
 SKILL_20170313_007450	* Increases the duration of stun from [Restrain] by 1 segundo per attribute level{nl}* Tempo de Recarga +3 segundos
@@ -7470,7 +7470,7 @@ SKILL_20170313_007469	* Os inimigos atingidos por [Umbo Blow] serão derrubados{
 SKILL_20170313_007470	* Increases defense by 1 per attribute level when using [High Guard]
 SKILL_20170313_007471	* Aplica 250% do seu dano de [Rim Blow] ao usar [High Guard]{nl}* A partir do Lv2, os danos aumentam em 20% por nível de atributo.
 SKILL_20170313_007472	* Aplica 250% do seu dano de [Umbo Blow] ao usar [High Guard]{nl}* A partir do Lv2, os danos aumentam em 20% por nível de atributo.
-SKILL_20170313_007473	* Aumenta a esquiva do personagem em 6% por nível de atributo quando [Guardian] está ativo{nl}* Consumo de SP +10
+SKILL_20170313_007473	* Aumenta a Evasão do personagem em 6% por nível de atributo quando [Guardian] está ativo{nl}* Consumo de SP +10
 SKILL_20170313_007474	* Aumenta o dano causado com [Umbo Thrust] em 1% por nível de atributo
 SKILL_20170313_007475	* Aumenta o dano causado com [Langort] em 1% por nível de atributo
 SKILL_20170313_007476	* Usando [Langort] aumenta a chance de bloquear ataques inimigos em 5% por nível de atributo{nl}* Depois de um bloqueio bem sucedido, o inimigo recebe [Silêncio] por 3 segundos{nl}* Consumo de SP +7
@@ -7492,7 +7492,7 @@ SKILL_20170313_007491	* Increases knockback power of [Cartar Stroke] by 50 per a
 SKILL_20170313_007492	* Aumenta a quantidade reduzida de INT e SPR do inimigo usando [Crown] em 2% por nível de atributo{nl}* Consumo de SP +6
 SKILL_20170313_007493	* Aumenta a Taxa de Ataque em Área de [Wagon Wheel] em 1{nl}* Consumo de SP +1
 SKILL_20170313_007494	* Aumenta em 10% o ataque crítico quando equipado com [Espada de Duas Mãos]
-SKILL_20170313_007495	* Aumenta a chance de crítico de [Moulinet] em 12% por nível de atributo{nl}* Consumo de SP +11
+SKILL_20170313_007495	* Aumenta a Taxa de Crítico de [Moulinet] em 12% por nível de atributo{nl}* Consumo de SP +11
 SKILL_20170313_007496	* Estende a duração em que um inimigo bloqueado por [Cross Guard] permanece desabilitado em 1 segundo por nível de atributo{nl}* Consumo de SP +5
 SKILL_20170313_007497	* Causa Dano Adicional igual a 50% do Ataque Físico em  inimigos empurrados com [Cartar Stroke]{nl}* Consumo de SP +7
 SKILL_20170313_007498	* Os inimigos não podem pular quando atacados com [Skull Swing]
@@ -7542,7 +7542,7 @@ SKILL_20170313_007541	* Aumenta o dano causado com [Helm Chopper] em 1% por nív
 SKILL_20170313_007542	* Aumenta o dano causado com [Seism] em 1% por nível de atributo
 SKILL_20170313_007543	* Aumenta o dano causado com [Cleave] em 1% por nível de atributo
 SKILL_20170313_007544	* Enemies hit by [Pouncing] have a 8% chance per attribute level of being knocked down{nl}* Consumo de SP +5{nl}* Tempo de Recarga +5 segundos
-SKILL_20170313_007545	Ativa o buff Wild Nature nas skills de barbarian enquanto corre. Você ganha um acúmulo do buff para cada segundo em que você correu (Máx 5 Acúmulos). Para cada acúmulo, as skills de Barbarian ganham dano e efeitos extras:{nl}* {#E5E5E5}{ol}Cleave:{/}{/} Chance de crítico aumenta em 10 por acúmulo de Wild Nature.{nl}* {#E5E5E5}{ol}Embowel:{/}{/} adiciona o efeito de atordoar por 2 segundos para cada carga de Wild Nature (em PvP, atordoar reduzido em 1/4).{nl}* {#E5E5E5}{ol}Giant Swing:{/}{/} O Aumento de dano é aplicado em dobro por cada carga de Wild Nature.{nl}* {#E5E5E5}{ol}Helm Chopper:{/}{/} Chance de stun aumenta em 7% por acúmulo de Wild Nature.{nl}* {#E5E5E5}{ol}Pouncing:{/}{/} Chance de dano adicional aos inimigos atordoados aumenta em 6% por acúmulo de Wild Nature.{nl}* {#E5E5E5}{ol}Stomping Kick:{/}{/} Alcance de ataque aumenta em 2 por acúmulo de Wild Nature.
+SKILL_20170313_007545	Ativa o buff Wild Nature nas skills de barbarian enquanto corre. Você ganha um acúmulo do buff para cada segundo em que você correu (Máx 5 Acúmulos). Para cada acúmulo, as skills de Barbarian ganham dano e efeitos extras:{nl}* {#E5E5E5}{ol}Cleave:{/}{/} Taxa de Crítico aumenta em 10 por acúmulo de Wild Nature.{nl}* {#E5E5E5}{ol}Embowel:{/}{/} adiciona o efeito de atordoar por 2 segundos para cada carga de Wild Nature (em PvP, atordoar reduzido em 1/4).{nl}* {#E5E5E5}{ol}Giant Swing:{/}{/} O Aumento de dano é aplicado em dobro por cada carga de Wild Nature.{nl}* {#E5E5E5}{ol}Helm Chopper:{/}{/} Chance de stun aumenta em 7% por acúmulo de Wild Nature.{nl}* {#E5E5E5}{ol}Pouncing:{/}{/} Chance de dano adicional aos inimigos atordoados aumenta em 6% por acúmulo de Wild Nature.{nl}* {#E5E5E5}{ol}Stomping Kick:{/}{/} Alcance de ataque aumenta em 2 por acúmulo de Wild Nature.
 SKILL_20170313_007546	Wild Nature: Duração
 SKILL_20170313_007547	* Aumenta a duração do buff de Wild Nature em 5 segundos
 SKILL_20170313_007548	Warcry: Debuff Duração
@@ -7619,7 +7619,7 @@ SKILL_20170313_007618	* Aumenta o dano causado com [Punish] em 1% por nível de 
 SKILL_20170313_007619	* Permite se movimentar ao usar [Cyclone]{nl}* Tempo de Recarga +10 segundos
 SKILL_20170313_007620	* Diminui o dano recebido de 3x para 2x enquanto [Double Pay Earn] está ativo{nl}* Consumo de SP +15
 SKILL_20170313_007621	* Seus golpes tornam-se críticos enquanto ataca inimigos com armadura de tipo Pano usando [Mordschlag]{nl}* Consumo de SP +8
-SKILL_20170313_007622	* Ao usar [Pain Barrier], aumenta a velocidade de movimento em 5%, mas diminui a esquiva em 10% por nível de atributo, respectivamente{nl}* Consumo de SP +4{nl}* Tempo de Recarga +5seg
+SKILL_20170313_007622	* Ao usar [Pain Barrier], aumenta a velocidade de movimento em 5%, mas diminui a Evasão em 10% por nível de atributo, respectivamente{nl}* Consumo de SP +4{nl}* Tempo de Recarga +5seg
 SKILL_20170313_007623	* Aumenta o dano causado com [Zonhau] em 1% por nível de atributo
 SKILL_20170313_007624	* Aumenta o dano causado com [Redel] em 1% por nível de atributo
 SKILL_20170313_007625	* Aumenta o dano causado com [Zucken] em 1% por nível de atributo
@@ -7776,7 +7776,7 @@ SKILL_20170313_007775	* Causa dano igual a 20% do ataque mágico ao alterar o ta
 SKILL_20170313_007776	* Causa dano igual a 20% do ataque mágico ao alterar o tamanho do inimigo com [Shrink Body] por nível de atributo.{nl}* Consumo de SP +20
 SKILL_20170313_007777	* Causa 35 de dano adicional por nível de atributo em inimigos afetados por [Shrink Body] quando [Swell Left Arm] está ativo{nl}* Consumo de SP +15
 SKILL_20170313_007778	* Atacar inimigos afetados por [Swell Body] quando [Swell Left Arm] estiver em efeito faz com que [Ataque Reduzido] persista em duração{nl}* Aumenta a duração em 8 segundos por nível de atributo{nl}* [Ataque Reduido] pode ser acumulado até 10 vezes{nl}* Consumo de SP +15
-SKILL_20170313_007779	* Não usar uma adaga ou um escudo, dá 6% mais precisão e esquiva por nível de atributo{nl}* Consumo de SP +8
+SKILL_20170313_007779	* Não usar uma adaga ou um escudo, dá 6% mais precisão e Evasão por nível de atributo{nl}* Consumo de SP +8
 SKILL_20170313_007780	* Aplica a média de INT e CON a ambos os stats ao usar [Transpose]
 SKILL_20170313_007781	* Changes ally tiles to enemy tiles when using [Reversi]{nl}* Activates when enemies are nearby
 SKILL_20170313_007782	* Aumenta o dano causado com [Prominence] em 1% por nível de atributo
@@ -7794,7 +7794,7 @@ SKILL_20170313_007793	* Causa dano adicional igual a 50% do seu ataque mágico p
 SKILL_20170313_007794	* Aumenta o número de alvos que podem ser afetados por [Petrificar] com [Stone Curse] por nível de atributo.{nl}* Consumo de SP +10
 SKILL_20170313_007795	* [Prominence] vagueia dentro de uma área menor{nl}* Consumo de SP +5
 SKILL_20170313_007796	* Os inimigos atingidos por [Hail] têm uma chance de 5% por nível de atributo de ficarem com [Congelar] por 5 segundos.{nl}* Consumo de SP +10{nl}* Tempo de Recarga +5 segundos
-SKILL_20170313_007797	* Aumenta sua esquiva em 10% por nível de atributo ao carregar [Meteor].{nl}* Consumo de SP +10
+SKILL_20170313_007797	* Aumenta sua Evasão em 10% por nível de atributo ao carregar [Meteor].{nl}* Consumo de SP +10
 SKILL_20170313_007798	* Increases Fire, Ice and Lightning properties by 5{nl}* From Lv2, it increases by 5 per attribute level
 SKILL_20170313_007799	* Usando ataques do elemento Fogo para finalizar inimigos próximos causará uma explosão e dano em 80% com uma chance de 30%.
 SKILL_20170313_007800	* Usando ataques da propriedade Gelo para matar inimigos, diminuirá a velocidade dos inimigos próximos ao alvo derrotado com uma chance de 50% por 6 segundos.
@@ -7815,13 +7815,13 @@ SKILL_20170313_007814	* A velocidade em que o servo entrega os buffs é aumentad
 SKILL_20170313_007815	* Aumenta o dano causado com [Desmodus] em 1% por nível de atributo
 SKILL_20170313_007816	Riding: Increase Stats
 SKILL_20170313_007817	* Aumenta o ataque físico e mágico do boss em 1% por nível de atributo proporcionalmente ao ataque mágico do personagem  ao usar [Riding]
-SKILL_20170313_007818	* Aumenta a Chance de Crítico em 5% e diminui a evasão em 2% por nível de atributo enquanto [Quicken] está ativo.{nl}* Consumo de SP +5
+SKILL_20170313_007818	* Aumenta a Taxa de Crítico em 5% e diminui a evasão em 2% por nível de atributo enquanto [Quicken] está ativo.{nl}* Consumo de SP +5
 SKILL_20170313_007819	* Os inimigos afetados por [Slow] têm sua resistência crítica diminuída em um valor igual a 15% da INT do conjurador.{nl}* Consumo de SP +10
 SKILL_20170313_007820	* Quando um inimigo afetado por [Reincarnate] morre e é revivido, dois inimigos podem aparecer com uma chance de 1% por nível de atributo.{nl}* Tempo de Recarga +30 segundos
 SKILL_20170313_007821	* Permite [Stop] parar o tempo dos Boss uma vez{nl}* Consumo de SP +10{nl}* Tempo de Recarga +50 segundos
 SKILL_20170313_007822	* Inimigos provocados depois de usar [Backmasking] serão afligidos com [Confusão] por 6 segundos.{nl}* Se o atributo for Lv2, 8 segundos de [Confusão] serão aplicados.{nl}* Consumo de SP +10
 SKILL_20170313_007823	* Diminui a chance de anular um ataque em 6% por nível de atributo quando os inimigos são afetados por [Slow].{nl}* Consumo de SP +4
-SKILL_20170313_007824	* Aumenta em 20 a sua esquiva por nível de atributo enquanto [Haste] está ativo.{nl}* Consumo de SP +5
+SKILL_20170313_007824	* Aumenta em 20 a sua Evasão por nível de atributo enquanto [Haste] está ativo.{nl}* Consumo de SP +5
 SKILL_20170313_007825	* Diminui em 40 o consumo de SP de [Stop]
 SKILL_20170313_007826	* Aumenta o dano causado com [Gather Corpse] em 1% por nível de atributo
 SKILL_20170313_007827	* Aumenta o dano causado com [Flesh Cannon] em 1% por nível de atributo
@@ -7916,10 +7916,10 @@ SKILL_20170313_007915	* Enhances damage of [Heavy Shot] is to Archer Circle 3 st
 SKILL_20170313_007916	* Aumenta o dano causado com [Twin Arrows] em 1% por nível de atributo
 SKILL_20170313_007917	* Aumenta a Taxa de Crítico do [Multi Shot] em 1.5% por nível de atributo{nl}* Consumo de SP +5
 SKILL_20170313_007918	* Aumenta a força do empurrão de [Full Draw] em 50{nl}* Consumo de SP +50
-SKILL_20170313_007919	* Aumenta sua chance de crítico durante [Kneeling Shot] em 2% por nível de atributo{nl}* Consumo de SP +5
+SKILL_20170313_007919	* Aumenta sua Taxa de Crítico durante [Kneeling Shot] em 2% por nível de atributo{nl}* Consumo de SP +5
 SKILL_20170313_007920	* Causa 20% de Dano Adicional por nível de atributo em monstros voadores quando equipado com [Arco]
 SKILL_20170313_007921	* Inimigos atingidos por [Oblique Shot] enquanto [Swift Step] está ativo, têm uma chance de 5% por nível de atributo a ser afetado com [Lentidão] por 7 segundos{nl}* Consumo de SP +5
-SKILL_20170313_007922	* Aumenta sua Chance de Crítico em 5% por nível de atributo enquanto [Swift Step] está ativo{nl}* Consumo de SP +5{nl}* Tempo de Recarga +5 segundos
+SKILL_20170313_007922	* Aumenta sua Taxa de Crítico em 5% por nível de atributo enquanto [Swift Step] está ativo{nl}* Consumo de SP +5{nl}* Tempo de Recarga +5 segundos
 SKILL_20170313_007923	* Diminui a defesa física dos inimigos que forem presos por [Full Draw] em 10% por nível de atributo{nl}* Tempo de Recarga +5 segundos
 SKILL_20170313_007924	* Diminui o tempo de conjuração de [Multi Shot] pela metade{nl}* Tempo de Recarga +3 segundos
 SKILL_20170313_007925	* Ignores 5% of an enemy's defense per attribute level when attacking with a [One-handed Bow]
@@ -7941,7 +7941,7 @@ SKILL_20170313_007940	* Enhances damage of [Time Spring Arrow] to Ranger Circle 
 SKILL_20170313_007941	* Aumenta o dano causado com [Bounce Shot] em 1% por nível de atributo
 SKILL_20170313_007942	* Inimigos atingidos por [Barrage] têm uma chance de 10% por nível de atributo de serem empurrados{nl}* Tempo de Recarga +4 segundos
 SKILL_20170313_007943	* Inimigos atingidos por [Bounce Shot] têm uma chance de 3% por nível de atributo de receberem [Lentidão]{nl}* Consumo de SP +5{nl}* Tempo de Recarga +4 segundos
-SKILL_20170313_007944	* Aumenta a chance de crítico de [Spiral Arrow] em 13% por nível de atributo.{nl}* Tempo de Recarga +7 segundos
+SKILL_20170313_007944	* Aumenta a Taxa de Crítico de [Spiral Arrow] em 13% por nível de atributo.{nl}* Tempo de Recarga +7 segundos
 SKILL_20170313_007945	* Aumenta o dano causado com [Spiral Arrow] em 1% por nível de atributo
 SKILL_20170313_007946	* Inimigos atingidos por [High Anchoring] têm sua resistência a crítico reduzida em 3, por nível de atributo, por 5 segundos.{nl}* Consumo de SP +2
 SKILL_20170313_007947	* Aumenta o dano causado com [Scatter Caltrops] em 1% por nível de atributo
@@ -8012,7 +8012,7 @@ SKILL_20170313_008011	* Personagens desintoxicados por [Detoxify] ficam imunes a
 SKILL_20170313_008012	* Increases duration of [Wugong Gu] infection on an affected target by 1 segundo per attribute level{nl}* Consumo de SP +6
 SKILL_20170313_008013	* Mantém o [Veneno] em 2 segundos por nível de atributo quando os inimigos se movem para fora do alcance de [Throw Gu Pot].{nl}* Consumo de SP +10
 SKILL_20170313_008014	* Diminui o custo de Poison Pot em 1% por nível de atributo ao usa habilidades de Wugushi.
-SKILL_20170313_008015	* Diminui a taxa de esquiva de inimigos afetados por [Jincan Gu] em 5% por nível de atributo.{nl}* Tempo de Recarga +4 segundos
+SKILL_20170313_008015	* Diminui a taxa de Evasão de inimigos afetados por [Jincan Gu] em 5% por nível de atributo.{nl}* Tempo de Recarga +4 segundos
 SKILL_20170313_008016	* Diminui a resistência ao veneno dos inimigos afetados por [Zhendu] em 7 por nível de atributo.{nl}* Consumo de SP +8
 SKILL_20170313_008017	* Increases poison damage dealt with [Needle Blow] by 2 per attribute level
 SKILL_20170313_008018	* Aumenta a duração da infecção de [Wugong Gu] em um alvo infectado em 1 segundo por nível de atributo.
@@ -8097,7 +8097,7 @@ SKILL_20170313_008096	* [Cannon Barrage] tem uma chance de 5% por nível de atri
 SKILL_20170313_008097	Siege Burst: Focus
 SKILL_20170313_008098	* Mantém a conjuração de [Siege Burst] mesmo quando o personagem é atacado{nl}* Tempo de Recarga +3 segundos
 SKILL_20170313_008099	Kneeling Shot: Precise Attack
-SKILL_20170313_008100	* Aumenta a chance de crítico de algumas habilidades de Cannoneer em 1% por nível de atributo quando usando [Kneeling Shot]{nl}*  Aplica-se às seguintes habilidades: Cannon Blast, Cannon Shot, Shootdown, Siege Burst, Cannon Barrage
+SKILL_20170313_008100	* Aumenta a Taxa de Crítico de algumas habilidades de Cannoneer em 1% por nível de atributo quando usando [Kneeling Shot]{nl}*  Aplica-se às seguintes habilidades: Cannon Blast, Cannon Shot, Shootdown, Siege Burst, Cannon Barrage
 SKILL_20170313_008101	* Aumenta a chance de matar instantaneamente um inimigo de tamanho pequeno com um [Rifle] em 0,25% por nível de atributo{nl}* Pode não se aplicar se o inimigo for de um nível mais alto do que o nível do personagem
 SKILL_20170313_008102	* Aumenta o dano causado com [Covering Fire] em 1% por nível de atributo
 SKILL_20170313_008103	* Aumenta o dano causado com [Headshot] em 1% por nível de atributo
@@ -8186,7 +8186,7 @@ SKILL_20170313_008185	* Aumenta sua resistência à Propriedade Trevas em 5 por 
 SKILL_20170313_008186	* Aumenta o número de alvos que podem ser revividos com [Resurrection] em 1 por nível de atributo{nl}* Consumo de SP +5
 SKILL_20170313_008187	* Aumenta a duração do [Revive] em 7 segundos por nível de atributo{nl}* Não se aplica na TBL ou GvG{nl}* Tempo de Recarga +15 segundos
 SKILL_20170313_008188	* Aumenta a Duração de [Monstrance] em 1 segundo por nível de atributo.{nl}* Tempo de Recarga +4 segundos
-SKILL_20170313_008189	* Aumenta a esquiva dos aliados em 2% por nível de atributo quando [Monstrance] está ativo{nl}* Consumo de SP +10
+SKILL_20170313_008189	* Aumenta a Evasão dos aliados em 2% por nível de atributo quando [Monstrance] está ativo{nl}* Consumo de SP +10
 SKILL_20170313_008190	* Aumenta a Duração do círculo Mágico de [Exorcise] em 1 segundo por nível de atributo.{nl}* Consumo de SP +9
 SKILL_20170313_008191	* Aumenta o dano causado com [Effigy] em 1% por nível de atributo
 SKILL_20170313_008192	* Enhanced damage of [Effigy] to Bokor Circle 2 standards
@@ -8224,7 +8224,7 @@ SKILL_20170313_008223	* Enhances damage of [Astral Body Explosion] to Sadhu Circ
 SKILL_20170313_008224	* Aumenta o dano causado no estado de Out of Body em 1% por nível de atributo
 SKILL_20170313_008225	* Aumenta o dano causado com [Possession] em 1% por nível de atributo
 SKILL_20170313_008226	* Enhances damage of [Possession] to Sadhu Circle 3 standards
-SKILL_20170313_008227	* Aumenta a esquiva do corpo em 10% por nível de atributo quando [Out of Body] está ativo.
+SKILL_20170313_008227	* Aumenta a Evasão do corpo em 10% por nível de atributo quando [Out of Body] está ativo.
 SKILL_20170313_008228	* Inimigos atingidos com [Astral Body Explosion] serão derrubados{nl}* Consumo de SP +10
 SKILL_20170313_008229	* Recupera HP igual a 5% do HP máximo por nível de atributo ao usar [Prakriti]{nl}* Consumo de SP +6{nl}* Tempo de Recarga +7 segundos
 SKILL_20170313_008230	* Diminui 30% a defesa física do inimigo com uma chance de 10% por nível de atributo ao usar um ataque básico durante [Out of Body]{nl}* Não é possível ligar / desligar durante Out of Body
@@ -8276,10 +8276,10 @@ SKILL_20170313_008275	* A doação é possível através do Mestre Pardoner{nl}*
 SKILL_20170313_008276	* Aumenta a duração de [Increase Magic Defense] em 1 segundo por nível de atributo{nl}* Tempo de Recarga +5 segundos
 SKILL_20170313_008277	* Aumenta o dano causado com [Carnivory] em 1% por nível de atributo
 SKILL_20170313_008278	* Aumenta a duração de [Chortasmata] em 1 segundo por nível de atributo{nl}* Consumo de SP +10
-SKILL_20170313_008279	* Aumenta a esquiva de monstros do tipo pequeno transformado por [Shape Shifting] ou [Transform] em 20% por nível de atributo
+SKILL_20170313_008279	* Aumenta a Evasão de monstros do tipo pequeno transformado por [Shape Shifting] ou [Transform] em 20% por nível de atributo
 SKILL_20170313_008280	* Aumenta o ataque aos alvos pequenos, médios e grandes dos monstros do tipo médio transformados por [Shape Shifting] ou [Transform] por 22 por nível de atributo
 SKILL_20170313_008281	* Aumenta a HP máximo de monstros do tipo grande transformados por [Shape Shifting] ou [Transform] em 15% por nível de atributo
-SKILL_20170313_008282	* Aumenta a chance de crítico dos monstros do tipo animal transformados por [Shape Shifting] ou [Transform] em 10% por nível de atributo
+SKILL_20170313_008282	* Aumenta a Taxa de Crítico dos monstros do tipo animal transformados por [Shape Shifting] ou [Transform] em 10% por nível de atributo
 SKILL_20170313_008283	* Aumenta a recuperação de HP e SP dos monstros tipo planta transformados por [Shape Shifting] ou [Transform] em 10% por nível de atributo
 SKILL_20170313_008284	* Aumenta a defesa física e mágica dos monstro tipo inseto transformados por [Shape Shifting] ou [Transform] por 8% por nível de atributo
 SKILL_20170313_008285	* Aumenta o tempo de duração de [Carnivory] em 1 segundo por nível de atributo{nl}* Consumo de SP +7
@@ -8408,7 +8408,7 @@ SKILL_20170420_008407	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Strike and pus
 SKILL_20170420_008408	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{nl}Slash the enemy sideways.{nl}Inflicts additional damage on enemies affected by [Bleeding].	{#DD5500}{ol}[물리] - [베기]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}적을 좌우로 크게 베어 공격합니다.{nl}출혈 상태의 적에게 추가대미지를 줍니다.	SKILL_20150918_005045	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}{nl}Slash the enemy sideways.{nl}Inflicts additional damage on enemies affected by [Bleeding].	{#DD5500}{ol}[물리] - [베기]{/}{/}{nl}적을 좌우로 크게 베어 공격합니다.{nl}출혈 상태의 적에게 추가대미지를 줍니다.	
 SKILL_20170420_008409	Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/} x 15{nl}Taxa de Ataque em Área #{SkillSR}#	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x 15회{nl}광역 공격 비율 #{SkillSR}#	SKILL_20150714_004131	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Taxa de Ataque em Área: #{SkillSR}#	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}광역 공격 비율 #{SkillSR}#	
 SKILL_20170420_008410	Ataque: #{SkillFactor}#{nl}Medium target 2 attacks{nl}Large target 3 attacks	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}중형 대상 2연타{nl}대형 대상 3연타	SKILL_20150714_004135	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Medium-type Alvos: 2 consecutive attacks{nl}Large-type Alvos: 3 consecutive attacks	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}중형 대상 2연타{nl}대형 대상 3연타	
-SKILL_20170420_008411	Chance de Crítico: +#{CaptionRatio}# de acréscimo{nl}Bloqueio #{CaptionRatio3}#% de acréscimo{nl}Esquiva: -#{CaptionRatio2}#{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	치명타 발생{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}블록 #{CaptionRatio3}#% 증가{nl}회피 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 감소{nl} 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	SKILL_20151016_005292	Chance de Crítico: +#{CaptionRatio}#{nl}Block: +{#006fec}{ol}#{SkillFactor}#%{/}{/} {nl}Esquiva: -#{CaptionRatio2}#{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	치명타 발생{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}블록 {#006fec}{ol}#{SkillFactor}#%{/}{/} 증가{nl}회피 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 감소{nl} 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
+SKILL_20170420_008411	Taxa de Crítico: +#{CaptionRatio}# de acréscimo{nl}Bloqueio #{CaptionRatio3}#% de acréscimo{nl}Evasão: -#{CaptionRatio2}#{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	치명타 발생{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}블록 #{CaptionRatio3}#% 증가{nl}회피 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 감소{nl} 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	SKILL_20151016_005292	Taxa de Crítico: +#{CaptionRatio}#{nl}Block: +{#006fec}{ol}#{SkillFactor}#%{/}{/} {nl}Evasão: -#{CaptionRatio2}#{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	치명타 발생{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}블록 {#006fec}{ol}#{SkillFactor}#%{/}{/} 증가{nl}회피 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 감소{nl} 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
 SKILL_20170420_008412	Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}{nl}Taxa de Ataque em Área #{SkillSR}#	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}{nl}광역 공격 비율 #{SkillSR}#	SKILL_20150714_004136	Spear Ataque: #{SkillAtkAdd}#{nl}Shield Ataque:{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Taxa de Ataque em Área: #{SkillSR}#	창 공격력 #{SkillAtkAdd}#{nl}방패 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}특성 공격력 #{CaptionRatio2}#%{nl}광역 공격 비율 #{SkillSR}#	
 SKILL_20170420_008413	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Target 5	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}적용 대상 5	SKILL_20170313_007338	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Alvos: 5	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}적용 대상 5	
 SKILL_20170420_008414	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Duração 6 segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}지속시간 6초	SKILL_20151016_005295	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Duração 6 Secs	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}지속시간 6초	
@@ -8420,7 +8420,7 @@ SKILL_20170420_008419	"{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Gira um inimi
 SKILL_20170420_008420	Ataque: #{SkillFactor}#{nl}Gira 9 vezes{nl}Distância Atirada: 150	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}회전 수 9 바퀴{nl}내던지는 거리 150	SKILL_20150428_004033	Ataque: #{SkillAtkAdd}#{nl}Rotates 9 times{nl}Distance Thrown: 150	공격력 #{SkillAtkAdd}#{nl}회전 수 9 바퀴{nl}내던지는 거리 150	
 SKILL_20170420_008421	{#006fec}{ol}#{SkillFactor}#%{/}{/} Ataque por 0.5 segundos{nl}Duração Max 10 segundos{nl}Consome STA	0.5초당 공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}최대 지속시간 10초{nl}스태미나 소모	SKILL_20150714_004145	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Duração Máxima: 10 segundos{nl}Consome Stamina	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}최대 지속시간 10초{nl}스태미나 소모	
 SKILL_20170420_008422	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/} x #{CaptionRatio2}{nl}Taxa de Ataque em Área #{SkillSR}#	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x {#429e8f}{ol}#{CaptionRatio2}#{/}{/}회{nl}광역 공격 비율 #{SkillSR}#	SKILL_20150714_004131	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Taxa de Ataque em Área: #{SkillSR}#	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}광역 공격 비율 #{SkillSR}#	
-SKILL_20170420_008423	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Chance de Crítico: +50{nl}Taxa de Ataque em Área: #{SkillSR}#	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}치명타 발생 50증가{nl}광역 공격 비율 #{SkillSR}#	SKILL_20151001_005247	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Chance de Crítico: +50{nl}Taxa de Ataque em Área: #{SkillSR}#	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}치명타 발생 50증가{nl}광역 공격 비율 #{SkillSR}#	
+SKILL_20170420_008423	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Taxa de Crítico: +50{nl}Taxa de Ataque em Área: #{SkillSR}#	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}치명타 발생 50증가{nl}광역 공격 비율 #{SkillSR}#	SKILL_20151001_005247	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Taxa de Crítico: +50{nl}Taxa de Ataque em Área: #{SkillSR}#	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}치명타 발생 50증가{nl}광역 공격 비율 #{SkillSR}#	
 SKILL_20170420_008424	{#006fec}{ol}#{SkillFactor}#%{/}{/} Ataque por 0.5 segundos{nl}Duração Max 5 segundos{nl}Consume STA	0.5초당 공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}최대 지속시간 5초{nl}스태미나 소모	SKILL_20150714_004137	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Duração Máxima: 5 segundos{nl}Consome Stamina	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}최대 지속시간 5초{nl}스태미나 소모	
 SKILL_20170420_008425	Ataque: #{SkillFactor}#{nl}{#339999}{ol}[Atordoar]{/}{/} Duração 1 segundo	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}{#339999}{ol}[스턴]{/}{/} 지속시간 1초	SKILL_20150717_004711	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}{#339999}{ol}[Atordoar]{/}{/} Duração: 1 segundo	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}{#339999}{ol}[스턴]{/}{/} 지속시간 1초	
 SKILL_20170420_008426	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Use seu escudo para infligir dano a um inimigo com um poderoso golpe. Tem a chance de afligir [Cegueira] no inimigo. Causa danos adicionais a inimigos congelados e petrificados.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}방패로 적을 강하게 내려쳐 피해를 줍니다. 적은 확률에 따라 암흑 상태에 빠질 수 있습니다. 석화, 결빙상태의 적을 공격하면 추가 대미지를 줍니다.	SKILL_20150414_003633	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Use your shield to inflict damage on an enemy with a powerful smash. Has a chance to afflict [Blind] on the enemy.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}방패로 적을 강하게 내려쳐 피해를 줍니다. 적은 확률에 따라 암흑 상태에 빠질 수 있습니다.	
@@ -8457,13 +8457,13 @@ SKILL_20170420_008456	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/} x 3{nl}Taxa de
 SKILL_20170420_008457	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/} x 6{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Ignora a defesa do inimigo em 20%	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x 6회{nl}광역 공격 비율 #{SkillSR}#{nl}적 방어력 20% 무시	SKILL_20161005_006512	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Ignores enemy defense: {#429e8f}{ol}#{CaptionRatio2}#{/}{/}	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}광역 공격 비율 #{SkillSR}#{nl}적 방어력 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 무시	
 SKILL_20170420_008458	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}{nl}Perfura um inimigo na sua frente.	{#DD5500}{ol}[물리] - [찌르기]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}{nl}전방의 적을 찔러 피해를 줍니다.	SKILL_20151022_005362	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Stab an enemy in front of you.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}전방의 적을 찔러 피해를 줍니다.	
 SKILL_20170420_008459	Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/} x 2	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x 2회		
-SKILL_20170420_008460	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Abaixe sua postura e alcance para atacar um inimigo. Sua taxa de esquiva aumenta e o inimigo se torna mais vulnerável aos ataques do tipo [Cortante].	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}자세를 낮추고 팔을 길게뻗어 적을 공격합니다. 자신의 회피율이 증가하고, 공격당한 적은 베기 공격에 취약한 상태가 됩니다.	SKILL_20151022_005364	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Lower your stance and reach out to attack an enemy. Your evasion rate increases and the enemy becomes more vulnerable to [Cortante]-type attacks.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}자세를 낮추고 팔을 길게뻗어 적을 공격합니다. 자신의 회피율이 증가하고, 공격당한 적은 베기 공격에 취약한 상태가 됩니다.	
-SKILL_20170420_008461	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/} x 4{nl}Taxa de Esquiva: +#{CaptionRatio2}# de acréscimo{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x 4회{nl}회피 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 증가{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	SKILL_20151022_005365	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Taxa de Esquiva: +#{CaptionRatio2}#%{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}회피율 증가 #{CaptionRatio2}#%{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
+SKILL_20170420_008460	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Abaixe sua postura e alcance para atacar um inimigo. Sua taxa de Evasão aumenta e o inimigo se torna mais vulnerável aos ataques do tipo [Cortante].	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}자세를 낮추고 팔을 길게뻗어 적을 공격합니다. 자신의 회피율이 증가하고, 공격당한 적은 베기 공격에 취약한 상태가 됩니다.	SKILL_20151022_005364	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Lower your stance and reach out to attack an enemy. Your evasion rate increases and the enemy becomes more vulnerable to [Cortante]-type attacks.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}자세를 낮추고 팔을 길게뻗어 적을 공격합니다. 자신의 회피율이 증가하고, 공격당한 적은 베기 공격에 취약한 상태가 됩니다.	
+SKILL_20170420_008461	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/} x 4{nl}Taxa de Evasão: +#{CaptionRatio2}# de acréscimo{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x 4회{nl}회피 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 증가{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	SKILL_20151022_005365	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Taxa de Evasão: +#{CaptionRatio2}#%{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}회피율 증가 #{CaptionRatio2}#%{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
 SKILL_20170420_008462	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}{nl}Perfura um inimigo com golpes sucessivos.	{#DD5500}{ol}[물리] - [찌르기]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}적을 연속으로 찔러 피해를 줍니다.	SKILL_20151022_005367	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Stab an enemy with successive strikes.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}적을 연속으로 찔러 피해를 줍니다.	
 SKILL_20170420_008463	Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/} x 8	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x 8회	SKILL_20150714_004155	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%	
 SKILL_20170420_008464	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}Ataque um inimigo com a guarda de sua espada. A defesa do inimigo é ignorada quando atacado novamente com ataques tipo [Perfurante].	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}무기의 코퀼을 이용해 적을 공격합니다. 공격당한 적을 찌르기 속성으로 공격하면 방어력이 무시됩니다.	SKILL_20151022_005369	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}Attack an enemy with the guard of your sword. The enemy's defense is ignored when attacked again with [Perfurante]-type attacks.	{#DD5500}{ol}[물리] - [때리기]{/}{/}무기의 코퀼을 이용해 적을 공격합니다. 공격당한 적을 찌르기 속성으로 공격하면 방어력이 무시됩니다.	
 SKILL_20170420_008465	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Mova-se rapidamente para evitar ataques inimigos e cause ataques sucessivos complexos.{nl}(A Duração do buff será alterada para 4 segundos depois de entrar no servidor PvP.)	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}신속하게 움직여 적의 공격을 회피한 직후에 전방을 향해 연속된 복합 공격을 가합니다.{nl}(PVP 서버에선 버프의 지속시간이 4초로 변경됩니다.)	SKILL_20151022_005371	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}Move swiftly to avoid enemy attacks and deliver complex successive attacks.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}신속하게 움직여 적의 공격을 회피한 직후에 전방을 향해 연속된 복합 공격을 가합니다.	
-SKILL_20170420_008466	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/} x 5{nl}Taxa de Esquiva: +#{CaptionRatio2}#%	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x 5회{nl}회피율 증가 #{CaptionRatio2}#%	SKILL_20151022_005372	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Taxa de Esquiva: +#{CaptionRatio2}#%	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}회피율 증가 #{CaptionRatio2}#%	
+SKILL_20170420_008466	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/} x 5{nl}Taxa de Evasão: +#{CaptionRatio2}#%	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x 5회{nl}회피율 증가 #{CaptionRatio2}#%	SKILL_20151022_005372	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Taxa de Evasão: +#{CaptionRatio2}#%	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}회피율 증가 #{CaptionRatio2}#%	
 SKILL_20170420_008467	{#DD5500}{ol}[Físico] - [Cortante]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}Perform a complex upward attack with your rapier. This attack protects you against an enemy attack.	{#DD5500}{ol}[물리] - [베기]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}레이피어를 사용해 아래에서 위로 올려치는 복합적인 공격을 가합니다. 이 공격에는 적의 공격에 대한 방어 기능을 포함하고 있습니다.	SKILL_20151022_005377	{#DD5500}{ol}[Físico] - [Cortante]{/}{/}Perform a complex upward attack with your rapier. This attack protects you against an enemy attack.	{#DD5500}{ol}[물리] - [베기]{/}{/}레이피어를 사용해 아래에서 위로 올려치는 복합적인 공격을 가합니다. 이 공격에는 적의 공격에 대한 방어 기능을 포함하고 있습니다.	
 SKILL_20170420_008468	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Alvos Max.: 10	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}최대 피격 대상 수 10명	SKILL_20161005_006515	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Alvos Max.: 10	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}최대 피격 대상 수 10명	
 SKILL_20170420_008469	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}Strikes the enemy hands to drop their weapons with a rapier. The enemy cannot get the effect of the weapon until they pick it up. (The enemy picks up the weapon automatically after duration.) 	{#DD5500}{ol}[물리] - [찌르기]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}레이피어로 적의 손을 쳐서 무기를 떨어뜨리게 합니다. 상대방은 무기를 줍기 전까지는 무기의 효과를 받지 못합니다. (무기는 일정시간 후 자동으로 회수됩니다.)	SKILL_20161005_006517	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Strikes the enemy hands to drop their weapons with a rapier. The enemy cannot get the effect of the weapon until they pick it up. (The enemy picks up the weapon automatically after duration.) 	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}레이피어로 적의 손을 쳐서 무기를 떨어뜨리게 합니다. 상대방은 무기를 줍기 전까지는 무기의 효과를 받지 못합니다. (무기는 일정시간 후 자동으로 회수됩니다.)	
@@ -8539,7 +8539,7 @@ SKILL_20170420_008538	Ataque #{SkillAtkAdd}#{nl}Duração of Boosted Movement Sp
 SKILL_20170420_008539	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}{#339999}{ol}[Skew]{/}{/} Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}{#339999}{ol}[꿰임]{/}{/} 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	SKILL_20150714_004180	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}{#339999}{ol}[Skew]{/}{/} Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}{#339999}{ol}[꿰임]{/}{/} 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
 SKILL_20170420_008540	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Ajoelha-se para melhorar sua concentração. Aumenta o seu Ataque, Velocidade de Ataque  e Alcance. Pular ou utilizar a skill novamente irá remover o estado ajoelhado.	집중력을 높이기 위해 앉아서 공격합니다. 공격력과 사정거리, 기본 공격 속도가 증가합니다. 닐링샷을 한번 더 시전하거나 점프를 하면 닐링샷 상태가 해제됩니다.	SKILL_20160718_006376	Kneel down to improve your concentration. Increases your attack, attack speed and range. Either casting Kneeling Shot again or jumping will turn the kneeling state off.	집중력을 높이기 위해 앉아서 공격합니다. 공격력과 사정거리, 공격속도가 증가합니다. 닐링샷을 한번 더 시전하거나 점프를 하면 닐링샷 상태가 해제됩니다.	
 SKILL_20170420_008541	Dano Físico: +#{CaptionRatio}#{nl}Range: +#{CaptionRatio2}#{nl}Attack Speed: +#{CaptionTime}#	물리 공격력{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}사정거리 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}증가{nl}기본 공격 속도{#E5E5E5}{ol} #{CaptionTime}#{/}{/}증가	SKILL_20150803_004998	Dano Físico: +#{CaptionRatio}#{nl}Range: +#{CaptionRatio2}#{nl}Attack Speed: +#{CaptionTime}#	물리 공격력{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}사정거리 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}증가{nl}공격속도{#E5E5E5}{ol} #{CaptionTime}#{/}{/}증가	
-SKILL_20170420_008542	Moving Shot Movement Speed: +#{CaptionRatio3}#%{nl}Defesa Física: -#{CaptionRatio}#{nl}Esquiva: +#{CaptionRatio2}#{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	무빙샷 이동속도 #{CaptionRatio3}#% 증가{nl}물리 방어력{#339989}{ol} #{CaptionRatio}#{/}{/} 감소{nl}회피 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 증가{nl}#{CaptionTime}#초 지속	SKILL_20151224_005833	Moving Shot Movement Speed: +{#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Defesa Física: -#{CaptionRatio}#{nl}Esquiva: +#{CaptionRatio2}#%{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	무빙샷 이동속도 {#006fec}{ol}#{SkillFactor}#%{/}{/} 증가{nl}물리 방어력{#339989}{ol} #{CaptionRatio}#{/}{/} 감소{nl}회피 #{CaptionRatio2}#% 증가{nl}#{CaptionTime}#초 지속	
+SKILL_20170420_008542	Moving Shot Movement Speed: +#{CaptionRatio3}#%{nl}Defesa Física: -#{CaptionRatio}#{nl}Evasão: +#{CaptionRatio2}#{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	무빙샷 이동속도 #{CaptionRatio3}#% 증가{nl}물리 방어력{#339989}{ol} #{CaptionRatio}#{/}{/} 감소{nl}회피 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 증가{nl}#{CaptionTime}#초 지속	SKILL_20151224_005833	Moving Shot Movement Speed: +{#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Defesa Física: -#{CaptionRatio}#{nl}Evasão: +#{CaptionRatio2}#%{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	무빙샷 이동속도 {#006fec}{ol}#{SkillFactor}#%{/}{/} 증가{nl}물리 방어력{#339989}{ol} #{CaptionRatio}#{/}{/} 감소{nl}회피 #{CaptionRatio2}#% 증가{nl}#{CaptionTime}#초 지속	
 SKILL_20170420_008543	{#DD5500}{ol}[Projétil]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}Fires an arrow that bounces off of the target to hit an adjacent enemy.	{#DD5500}{ol}[미사일]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}공격시 근처 한 명의 적에게 화살이 튕겨져 나갑니다.	SKILL_20151102_005519	{#DD5500}{ol}[Projétil]{/}{/}{nl}Fires an arrow that bounces off of the target to hit an adjacent enemy.	{#DD5500}{ol}[미사일]{/}{/}{nl}공격시 근처 한 명의 적에게 화살이 튕겨져 나갑니다.	
 SKILL_20170420_008544	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}/Bounced arrow Ataque{#339989}{ol} #{CaptionRatio}#{/}{/}%	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}튕긴 화살 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%	SKILL_20150714_004181	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Bounced Arrow Ataque:{#339989}{ol} #{CaptionRatio}#{/}{/}%	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio2}#%{nl}튕긴 화살 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%	
 SKILL_20170420_008545	{#DD5500}{ol}[Missil]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}Fires two arrow simultaneously to the enemy.	{#DD5500}{ol}[미사일]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}적에게 두 개의 화살을 동시에 발사합니다.	SKILL_20151102_005521	{#DD5500}{ol}[Projétil]{/}{/}{nl}Fires two shots at once at an enemy.	{#DD5500}{ol}[미사일]{/}{/}{nl}적에게 두 개의 화살을 동시에 발사합니다.	
@@ -8568,7 +8568,7 @@ SKILL_20170420_008567	Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}#{CaptionRat
 SKILL_20170420_008568	0.5 segundo Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Physical defense{#339989}{ol} #{CaptionRatio}#{/}{/}% decrease{nl}Add. critical chance 40%{nl}Duração 5.5 segundos	0.5초당 공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}물리 방어력{#339989}{ol} #{CaptionRatio}#{/}{/}% 감소{nl}추가 치명타 확률 40%{nl}지속시간 5.5초	SKILL_20160323_006343	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Defesa Física: -#{CaptionRatio}#{nl}Additional Critical Chance: 40%{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio2}#%{nl}물리 방어력{#339989}{ol} #{CaptionRatio}#{/}{/} 감소{nl}추가 치명타 확률 40%{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
 SKILL_20170420_008569	{#006fec}{ol}#{SkillFactor}#%{/}{/} Ataque por 0.5 segundos{nl}Duração 5 segundos	0.5초당 공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}지속시간 5초	SKILL_20150714_004128	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
 SKILL_20170420_008570	"Temporarily increases companion's Attack, Accuracy, Crit Rate and Basic Attack Speed."	컴패니언의 공격력, 명중, 치명타 발생, 기본 공격 속도를 일시적으로 올립니다.	SKILL_20161005_006643	Temporarily increases your Companion's attack, accuracy, crit rate and attack speed.	컴패니언의 공격력, 명중, 치명타 발생, 공격 속도를 일시적으로 올립니다.	
-SKILL_20170420_008571	Companion Ataque: +#{CaptionRatio}#{nl}Companion Accuracy: +#{CaptionRatio}#{nl}Companion Chance de Crítico: +#{CaptionRatio}#{nl}Companion Attack Speed + {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos {nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Maximum Level: 5	컴패니언의 공격력{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 명중{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 치명타 발생{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 기본 공격 속도 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초 증가{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}5레벨 마스터	SKILL_20161005_006644	Companion Ataque: +#{CaptionRatio}#{nl}Companion Accuracy: +#{CaptionRatio}#{nl}Companion Chance de Crítico: +#{CaptionRatio}#{nl}Companion Attack Speed + {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos {nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Maximum Level: 5	컴패니언의 공격력{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 명중{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 치명타 발생{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 공격 속도 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초 증가{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}5레벨 마스터	
+SKILL_20170420_008571	Companion Ataque: +#{CaptionRatio}#{nl}Companion Accuracy: +#{CaptionRatio}#{nl}Companion Taxa de Crítico: +#{CaptionRatio}#{nl}Companion Attack Speed + {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos {nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Maximum Level: 5	컴패니언의 공격력{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 명중{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 치명타 발생{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 기본 공격 속도 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초 증가{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}5레벨 마스터	SKILL_20161005_006644	Companion Ataque: +#{CaptionRatio}#{nl}Companion Accuracy: +#{CaptionRatio}#{nl}Companion Taxa de Crítico: +#{CaptionRatio}#{nl}Companion Attack Speed + {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos {nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Maximum Level: 5	컴패니언의 공격력{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 명중{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 치명타 발생{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}컴패니언의 공격 속도 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초 증가{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}5레벨 마스터	
 SKILL_20170420_008572	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Duração Máxima: 5 segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}최대 지속시간 5초	SKILL_20160224_006224	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Duração Máxima:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio2}#%{nl}최대 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
 SKILL_20170420_008573	{#DD5500}{ol}[Projétil] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.	{#DD5500}{ol}[미사일] - [독]{/}{/}{nl}입으로 부는 독화살을 발사하여 긴 시간 동안 지속적인 피해를 줍니다.{nl}	SKILL_20151102_005532	{#DD5500}{ol}[Projétil] - [Poison]{/}{/}{nl}Blows a toxic arrow that inflicts damage over a long period of time.	{#DD5500}{ol}[미사일] - [독]{/}{/}{nl}입으로 부는 독화살을 발사하여 긴 시간 동안 지속적인 피해를 줍니다.	
 SKILL_20170420_008574	0.5 segundo Ataque #{SkillAtkAdd}#{nl}{#339999}{ol}[Poison]{/}{/} Duração  {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos{nl}Use #{SpendPoison}# Poison pot	0.5초당 공격력 #{SkillAtkAdd}#{nl}{#339999}{ol}[독]{/}{/} 지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초{nl}포이즌 팟 독 #{SpendPoison}# 소비		
@@ -8618,7 +8618,7 @@ SKILL_20170420_008617	Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/} x3{nl}Status Ai
 SKILL_20170420_008618	{#DD5500}{ol}[Projétil]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}Fire five arrows at once to attack enemies within range.	{#DD5500}{ol}[미사일]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}다섯개의 화살을 한번에 발사하여 범위내에 적들에게 피해를 줍니다.	SKILL_20161005_006692	{#DD5500}{ol}[Projétil]{/}{/}{nl}Fire five arrows at once to attack enemies within range.	{#DD5500}{ol}[미사일]{/}{/}{nl}다섯개의 화살을 한번에 발사하여 범위내에 적들에게 피해를 줍니다.	
 SKILL_20170420_008619	Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/} x no. of hits{nl}Arrow Rain Duração: 3 segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x 타격 횟수{nl}화살비 유지시간 3초	SKILL_20161005_006702	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Arrow Rain Duração: 3 segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}화살비 유지시간 3초	
 SKILL_20170420_008620	Ataque #{SkillAtkAdd}#{nl}AoE Ratio #{SkillSR}#{nl}Reduced Enemy Movement Speed Chance #{CaptionRatio2}#%	공격력 #{SkillAtkAdd}#{nl}광역 공격 비율 #{SkillSR}#{nl}적 이동속도 감소 확률 #{CaptionRatio2}#%	SKILL_20161005_006705	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}AoE Ratio: #{SkillSR}#{nl}Reduced Enemy Movement Speed Chance: #{CaptionRatio2}#%	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}광역 공격 비율 #{SkillSR}#{nl}적 이동속도 감소 확률 #{CaptionRatio2}#%	
-SKILL_20170420_008621	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Min. Chance de crítico de acréscimo{nl}Duração:{#339989}{ol} #{CaptionRatio}#{/}{/} segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}최소 치명타 확률 증가{nl}지속시간{#339989}{ol} #{CaptionRatio}#{/}{/}초	SKILL_20170313_007372	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Increased Min. Critical Attack Chances{nl}Duração:{#339989}{ol} #{CaptionRatio}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio2}#%{nl}최소 치명타 확률 증가{nl}지속시간{#339989}{ol} #{CaptionRatio}#{/}{/}초	
+SKILL_20170420_008621	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Min. Taxa de Crítico de acréscimo{nl}Duração:{#339989}{ol} #{CaptionRatio}#{/}{/} segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}최소 치명타 확률 증가{nl}지속시간{#339989}{ol} #{CaptionRatio}#{/}{/}초	SKILL_20170313_007372	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Increased Min. Critical Attack Chances{nl}Duração:{#339989}{ol} #{CaptionRatio}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio2}#%{nl}최소 치명타 확률 증가{nl}지속시간{#339989}{ol} #{CaptionRatio}#{/}{/}초	
 SKILL_20170420_008622	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Recovers HP equal to 5% of your maximum HP{nl}Additional HP Recovery Rate:{#339989}{ol} #{CaptionRatio}#{/}{/} ~ #{CaptionRatio2}#{nl}Magic Circle Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}최대 HP의 5% 회복{nl}추가 HP 회복량{#339989}{ol} #{CaptionRatio}#{/}{/} ~ #{CaptionRatio2}#{nl}마법진 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	SKILL_20160718_006380	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage: #{KDownPower}#%{nl}Recovers HP equal to 5% of your maximum HP{nl}Additional HP Recovery Rate:{#339989}{ol} #{CaptionRatio}#{/}{/} ~ #{CaptionRatio2}#{nl}Magic Circle Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{KDownPower}#%{nl}최대 HP의 5% 회복{nl}추가 HP 회복량{#339989}{ol} #{CaptionRatio}#{/}{/} ~ #{CaptionRatio2}#{nl}마법진 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
 SKILL_20170420_008623	#{CaptionRatio3}# segundo Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}No. of hits:{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Magic circle duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/}segundos	#{CaptionRatio3}#초당 공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}공격 횟수{#339989}{ol} #{CaptionRatio}#{/}{/}회{nl}마법진 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	SKILL_20150714_004210	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Número de Hits:{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}Magic Circle Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio2}#%{nl}공격 횟수{#339989}{ol} #{CaptionRatio}#{/}{/}회{nl}마법진 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
 SKILL_20170420_008624	Decreases 0.3% per stack{nl}Magic circle duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	중첩 당 0.3%씩 감소{nl}마법진 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	SKILL_20150317_001436	Defesa: -#{CaptionRatio}#{nl}Per Stack: -#{CaptionRatio2}#{nl}Magic Circle Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	방어력{#339989}{ol} #{CaptionRatio}#{/}{/} 감소{nl}중첩 당 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}씩 감소{nl}마법진 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
@@ -8626,7 +8626,7 @@ SKILL_20170420_008625	0.3 segundo Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}
 SKILL_20170420_008626	Creates a magic circle that temporarily maintains the beneficial effects of you and your party members. Duração will no surpass 20 segundos.	자신과 파티원의 이로운 효과 시간을 증가시켜주는 마법진을 생성합니다. 증가하는 시간은 20초를 넘지 않습니다.	SKILL_20150414_003834	Creates a magic circle that temporarily maintains the beneficial effects of you and your party members.	자신과 파티원의 이로운 효과를 유지시켜주는 마법진을 생성합니다.	
 SKILL_20170420_008627	Duração #{CaptionRatio2}#% increase	지속시간 #{CaptionRatio2}#% 증가	SKILL_20150729_004959	Duração Máxima: {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos{nl}Consome{#339989}{ol} #{CaptionRatio}#{/}{/}% SP per segundo	최대 지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초{nl}1초 당 SP{#339989}{ol} #{CaptionRatio}#{/}{/}%소비	
 SKILL_20170420_008628	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Defesa Física:{#339989}{ol} #{CaptionRatio}#{/}{/} de acréscimo{nl}Alvos: 10{nl}Duração{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Consome 1 Holy Water	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}물리 방어력{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}적용 대상 10{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}성수 1개 소비	SKILL_20150918_005114	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio2}#%{nl}Defesa Física: +#{CaptionRatio}#%{nl}Alvos: 10{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Consome 1 Holy Water	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio2}#%{nl}물리 방어력{#339989}{ol} #{CaptionRatio}#{/}{/}% 증가{nl}적용 대상 10{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}성수 1개 소비	
-SKILL_20170420_008629	Círculos Mágicos Máx.: #{CaptionRatio3}#{nl}Aumento na DEX: (DEX * 1.3) + 10{nl}Esquiva Inimiga: -#{CaptionRatio}#{nl}Defesa do Inimigo -10%{nl}Duração p/ Aliados:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Duração p/ Inimigos: {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos	마법진 #{CaptionRatio3}#개 생성{nl}아군 민첩 스탯 증가{nl}적 회피{#339989}{ol} #{CaptionRatio}#{/}{/}감소{nl}적 방어력 10% 감소{nl}아군 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}적 지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초	SKILL_20170313_007373	Max. Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Evasion & Defesa: -#{CaptionRatio}#{nl} Duração for allies:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Duração for enemies {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos	마법진 #{SkillFactor}#개 생성{nl}아군 민첩 스탯 증가{nl}적 회피, 방어력{#339989}{ol} #{CaptionRatio}#{/}{/}감소{nl}아군 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}적 지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초	
+SKILL_20170420_008629	Círculos Mágicos Máx.: #{CaptionRatio3}#{nl}Aumento na DEX: (DEX * 1.3) + 10{nl}Evasão Inimiga: -#{CaptionRatio}#{nl}Defesa do Inimigo -10%{nl}Duração p/ Aliados:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Duração p/ Inimigos: {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos	마법진 #{CaptionRatio3}#개 생성{nl}아군 민첩 스탯 증가{nl}적 회피{#339989}{ol} #{CaptionRatio}#{/}{/}감소{nl}적 방어력 10% 감소{nl}아군 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}적 지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초	SKILL_20170313_007373	Max. Magic Circles: #{SkillFactor}#{nl}Increases DEX for allies{nl}Enemy's Evasion & Defesa: -#{CaptionRatio}#{nl} Duração for allies:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Duração for enemies {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos	마법진 #{SkillFactor}#개 생성{nl}아군 민첩 스탯 증가{nl}적 회피, 방어력{#339989}{ol} #{CaptionRatio}#{/}{/}감소{nl}아군 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}적 지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초	
 SKILL_20170420_008630	{#db20c0}{ol}[SUPORTE]{/}{/}{nl}Ressuscita um alvo que foi derrotado em combate.{nl}No Team Battle League, permite apenas 1 ressureição por rodada.	전투불능 상태에 빠져있는 대상을 회복시켜 줍니다.{nl}팀 배틀 리그에선 라운드당 1회 부활이 가능합니다.	SKILL_20150414_003838	Resurrects a target that has been defeated in combat.	전투불능 상태에 빠져있는 대상을 회복시켜 줍니다. 	
 SKILL_20170420_008631	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Conjuração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}HP recovery after resurrection:{#339989}{ol} #{CaptionRatio}#{/}{/}%	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}캐스팅 시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}전투불능 회복 후 HP{#339989}{ol} #{CaptionRatio}#{/}{/}% 회복	SKILL_20150317_001467	Ataque: #{SkillAtkAdd}#{nl}Conjuração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}HP recovery after resurrection:{#339989}{ol} #{CaptionRatio}#{/}{/}%	공격력 #{SkillAtkAdd}#{nl}캐스팅 시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}전투불능 회복 후 HP{#339989}{ol} #{CaptionRatio}#{/}{/}% 회복	
 SKILL_20170420_008632	Hit Extra do Elemento Divino: +#{CaptionRatio}#{nl}Dano Elemental Adicional: +#{CaptionRatio2}#{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Consome 1 Gyslotis	신성 속성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}속성 추가대미지 +#{CaptionRatio2}#{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}기슬로티스 1개 소비	SKILL_20150401_003308	Holy Property Ataque: +#{CaptionRatio}#{nl}Dano Adicional: +#{CaptionRatio2}#{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Consome 1 Gyslotis	신성 속성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}추가대미지 +#{CaptionRatio2}#{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}기슬로티스 1개 소비	
@@ -8683,7 +8683,7 @@ SKILL_20170420_008682	Sweeps the floor with the purified and divine broom. The s
 SKILL_20170420_008683	0.3 segundo Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Alvos Max.: 10{nl}Duração {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos	0.3초당 공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}최대 공격 대상 10명{nl}지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초	SKILL_20161214_007238	Ataque: #{SkillAtkAdd}#{nl}Attribute Damage:{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}Max. No. of Target  10{nl}Basic Duração: {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}최대 공격 대상 10명{nl}지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초	
 SKILL_20170420_008684	Clap your hands twice. Increases duration for some installations nearby.	자리에서 박수를 2번 칩니다. 자신의 주변 일부 설치류 스킬의 지속시간이 증가합니다.	SKILL_20161214_007239	Clap your hands twice. Increase duration for some of magic circles and installations nearby.	자리에서 박수를 2번 칩니다. 자신의 주변 일부 마법진과 설치류 스킬의 지속시간이 증가합니다.	
 SKILL_20170420_008685	Maximum Duração{#E5E5E5}{ol} #{CaptionTime}#{/}{/}segundos{nl}Consome{#339989}{ol} #{CaptionRatio}#{/}{/}% SP per segundo{nl}Additional Holy property Damage: #{CaptionRatio2}#%	최대 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}1초당 SP 소모량{#339989}{ol} #{CaptionRatio}#{/}{/}{nl}신성 속성 추가 대미지 #{CaptionRatio2}#%	SKILL_20161214_007241	Duração Máxima:{#E5E5E5}{ol} #{CaptionTime}#{/}{/}segundos{nl}Consome{#339989}{ol} #{CaptionRatio}#{/}{/}% SP per segundo{nl}Additional Holy property Damage: #{CaptionRatio2}#%	최대 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}1초당 SP 소모량{#339989}{ol} #{CaptionRatio}#{/}{/}%{nl}신성 속성 추가 대미지 #{CaptionRatio2}#%	
-SKILL_20170420_008686	Aumenta a sua chance de crítico.	자신의 치명타 발생이 증가하는 상태입니다.	SKILL_20151001_005261	Increases your critical rate.	자신의 치명타 발생이 증가하는 상태입니다..	
+SKILL_20170420_008686	Aumenta a sua Taxa de Crítico.	자신의 치명타 발생이 증가하는 상태입니다.	SKILL_20151001_005261	Increases your critical rate.	자신의 치명타 발생이 증가하는 상태입니다..	
 SKILL_20170420_008687	Basic attack speed increased. 	기본 공격 속도가 증가합니다. 	SKILL_20150317_001825	Increased attack speed.	공격속도가 증가합니다. 	
 SKILL_20170420_008688	Dormente. Velocidade de movimento e ataque diminuído.	둔한 상태. 이동속도와 기본 공격 속도가 느려집니다.	SKILL_20161005_006805	Numbed. Movement and attack speed decreased.	둔한 상태. 이동속도와 공격속도가 느려집니다.	
 SKILL_20170420_008689	"When attacking with Hackapell skill, additional damage will be dealt."	하카펠 스킬 공격 시, 추가 피해를 입힙니다.	SKILL_20161005_006808	Defense decreasing effect of arrow attacks will increase from 5 stacks to 7 stacks.	화살 공격의 방어력 감소 효과가 5중첩에서 7중첩으로 증가.	
@@ -8701,7 +8701,7 @@ SKILL_20170420_008700	Reduces Darkness property damage by 15%.	암흑속성 대�
 SKILL_20170420_008701	Receive 7.5% less Darkness property damage per stack.	암흑속성 대미지를 중첩당 7.5% 만큼 덜 받습니다.	SKILL_20160723_006449	Receive 20% less Darkness property damage per stack.	암흑속성 공격력을 중첩당 20% 만큼 덜 받습니다.	
 SKILL_20170420_008702	* Quando 3 peças de armadura tipo [Pano] estão equipadas, o dano mágico é diminuído em 5%{nl}* Quando 4 ou mais peças de armadura tipo [Pano] estão equipadas, o dano mágico é diminuído em 10%	* [천] 계열 방어구 착용 가능{nl}* [천] 계열 방어구 3개 착용 시, 받는 마법 피해 5% 감소{nl}* [천] 계열 방어구 4개 착용 시, 받는 마법 피해 10% 감소	SKILL_20170313_007420	* Can equip [Cloth] armor{nl}* When equipped with 3 or more pieces of [Cloth] armor, increases maximum SP proportionally to attribute level and decreases magic damage taken by 5%{nl}* When equipped with 4 [Cloth] armor pieces, increases magic defense proportionally to attribute level and decreases magic damage taken by 10%	* [천] 계열 방어구 착용 가능{nl}* [천] 계열 방어구 3개 이상 착용 시, 받는 마법 피해가 5%{nl}    감소하며 특성 레벨에 비례하여 최대 SP가 증가{nl}* [천] 계열 방어구 4개 착용 시, 받는 마법 피해가 10% 감소하며{nl}    특성 레벨에 비례하여 마법 방어력이 추가로 증가	
 SKILL_20170420_008703	* Quando 3 peças de armadura tipo [Couro] estão equipadas, o ataque crítico e a precisão são aumentados em 30{nl}* Quando 4 ou mais peças de armadura tipo [Couro] estão equipadas, o ataque crítico e a precisão são aumentados em 50.     * [가죽] 계열 방어구 착용 가능{nl} * [가죽] 계열 방어구 3개 착용 시, 치명타 발생 30 증가{nl} * [가죽] 계열 방어구 3개 착용 시, 명중 30 증가{nl}* [가죽] 계열 방어구 4개 착용 시, 치명타 발생 50 증가{nl}* [가죽] 계열 방어구 4개 착용 시, 명중 50 증가	SKILL_20170313_007421	* Can equip [Leather] armor{nl}* When equipped with 3 or more pieces of [Leather] armor, increases evasion proportionally to attribute level{nl}* When equipped with 4 [Leather] armor pieces, increases evasion obtained from attributes by 50%.	* [가죽] 계열 방어구 착용 가능{nl} * [가죽] 계열 방어구 3개 이상 착용 시, 특성 레벨에 비례하여{nl}    회피가 증가{nl}* [가죽] 계열 방어구 4개 착용 시, 특성으로 증가하는 회피가{nl}    50% 상승	
-SKILL_20170420_008704	* Quando 3 peças de armadura tipo [Placa] estão equipadas, o dano físico recebido é diminuído em 5%{nl}* Quando 4 ou mais peças de armadura tipo [Placa] estão equipadas, o dano físico recebido é diminuído em 10%	* [판금] 계열 방어구 착용 가능{nl} * [판금] 계열 방어구 3개 착용 시, 받는 물리 피해 5% 감소{nl} * [판금] 계열 방어구 4개 착용 시, 받는 물리 피해 10% 감소	SKILL_20170313_007422	* Can equip [Plate] armor{nl}* When equipped with 3 or more pieces of [Plate] armor, increases maximum HP proportionally to attribute level and decreases physical damage taken by 5%{nl}* When equipped with 4 [Cloth] armor pieces, increases maximum stamina proportionally to attribute level and decreases physical damage taken by 10%	* [판금] 계열 방어구 착용 가능{nl} * [판금] 계열 방어구 3개 이상 착용 시, 받는 물리 피해가 5%{nl}    감소하며 특성 레벨에 비례하여 최대 HP가 증가{nl} * [판금] 계열 방어구 4개 착용 시, 받는 물리 피해가 10%{nl}    감소하며 특성 레벨에 비례하여 최대 STA가 추가로 증가	
+SKILL_20170420_008704	* Quando 3 peças de armadura tipo [Metal] estão equipadas, o dano físico recebido é diminuído em 5%{nl}* Quando 4 ou mais peças de armadura tipo [Metal] estão equipadas, o dano físico recebido é diminuído em 10%	* [판금] 계열 방어구 착용 가능{nl} * [판금] 계열 방어구 3개 착용 시, 받는 물리 피해 5% 감소{nl} * [판금] 계열 방어구 4개 착용 시, 받는 물리 피해 10% 감소	SKILL_20170313_007422	* Can equip [Plate] armor{nl}* When equipped with 3 or more pieces of [Plate] armor, increases maximum HP proportionally to attribute level and decreases physical damage taken by 5%{nl}* When equipped with 4 [Cloth] armor pieces, increases maximum stamina proportionally to attribute level and decreases physical damage taken by 10%	* [판금] 계열 방어구 착용 가능{nl} * [판금] 계열 방어구 3개 이상 착용 시, 받는 물리 피해가 5%{nl}    감소하며 특성 레벨에 비례하여 최대 HP가 증가{nl} * [판금] 계열 방어구 4개 착용 시, 받는 물리 피해가 10%{nl}    감소하며 특성 레벨에 비례하여 최대 STA가 추가로 증가	
 SKILL_20170420_008705	* Aumenta os danos causados a um inimigo com [Bash] em 0.5% por nível de atributo	* 적에게 입히는 [배쉬]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_007432	* Aumenta os danos causados a um inimigo com [Bash] by 1% per attribute level	* 적에게 입히는 [배쉬]의 대미지가 특성 레벨당 1% 증가	
 SKILL_20170420_008706	* Aumenta o dano causado com [Thrust] em 0.5% por nível de atributo	* 적에게 입히는 [쓰러스트]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_007435	* Aumenta o dano causado com [Thrust] by 1% per attribute level	* 적에게 입히는 [쓰러스트]의 대미지가 특성 레벨당 1% 증가	
 SKILL_20170420_008707	* Amplifica o efeito de aumento de dano físico e diminui a redução da defesa de [Gung Ho] em 1% por nível de atributo	* 특성 레벨당 [겅호]의 물리 공격력 증가 효과가 1% 상승{nl}* 방어력 감소 효과 1 상승	SKILL_20170313_007438	* Amplifies physical damage increase effect and decreased defense effect of [Gung Ho] by 1 per attribute level	* 특성 레벨당 [겅호]의 물리 공격력 증가 효과가 1 상승{nl}* 방어력 감소 효과 1 상승	
@@ -8711,7 +8711,7 @@ SKILL_20170420_008710	* Aumenta o dano causado com [Double Slash] em 0.5% por n�
 SKILL_20170420_008711	* Aumenta a Taxa de Ataque em Área de [Bash] em 1 por nível de atributo{nl}* Consumo de SP +10%	* 스킬 [배쉬]의 광역 공격 비율이 특성 레벨당 1 추가{nl}* SP 소모 10%증가	SKILL_20170313_007444	* Increases AoE attack ratio of [Bash] by 1 per attribute level{nl}* Consumo de SP +5	* 스킬 [배쉬]의 광역 공격 비율이 특성 레벨당 1 추가{nl}* SP 소모 5증가	
 SKILL_20170420_008712	* Ativa ataques consecutivos ao usar [Thrust] em 1% de chance por nível de atributo{nl}* Consumo de SP +10%	* 스킬 [쓰러스트] 사용 시 특성 레벨당 1% 확률로 연타 발동{nl}* SP 소모 10%증가	SKILL_20170313_007445	* Activates consecutive attacks when using [Thrust] by 1% chance per attribute level{nl}* Consumo de SP +3	* 스킬 [쓰러스트] 사용 시 특성 레벨당 1% 확률로 연타 발동{nl}* SP 소모 3증가	
 SKILL_20170420_008713	* Inimigos atingidos por [Bash] serão derrubados{nl}* Consumo de SP +30%	* 스킬 [배쉬]에 피격된 적에게 넉다운{nl}* SP 소모 30%증가	SKILL_20170313_007446	* Enemies hit by [Bash] are knocked down{nl}* Consumo de SP +2{nl}*Increases cooldown time by 2 segundos	* 스킬 [배쉬]에 피격된 적에게 넉다운{nl}* SP 소모 2증가{nl}* 재사용 대기시간 2초 증가	
-SKILL_20170420_008714	* Aumenta a chance de crítico de [Double Slash] em 7% por nível de atributo{nl}* Consumo de SP +10%	* 스킬 [더블슬래쉬]의 치명타 확률이 특성 레벨당 7% 증가{nl}* SP 소모 10%증가	SKILL_20170313_007447	* Increases critical chance of [Double Slash] by 7% per attribute level{nl}* Consumo de SP +8	* 스킬 [더블슬래쉬]의 치명타 확률이 특성 레벨당 7% 증가{nl}* SP 소모 8증가	
+SKILL_20170420_008714	* Aumenta a Taxa de Crítico de [Double Slash] em 7% por nível de atributo{nl}* Consumo de SP +10%	* 스킬 [더블슬래쉬]의 치명타 확률이 특성 레벨당 7% 증가{nl}* SP 소모 10%증가	SKILL_20170313_007447	* Increases critical chance of [Double Slash] by 7% per attribute level{nl}* Consumo de SP +8	* 스킬 [더블슬래쉬]의 치명타 확률이 특성 레벨당 7% 증가{nl}* SP 소모 8증가	
 SKILL_20170420_008715	* Inflige [Sangramento] por 5 segundos usando [Thrust] em inimigos atordoados {nl}* Dano de sangramento é proporcional a STR do personagem{nl}* Consumo de SP +10%	* [스턴] 상태의 적이 [쓰러스트]에 당하면 5초 동안 [출혈] 디버프{nl}* [출혈] 대미지는 캐릭터의 힘에 비례{nl}* SP 소모 10%증가	SKILL_20170313_007448	* Inflicts [Bleeding] on stunned enemies for 5 segundos with [Thrust]{nl}* Bleeding damage is proportional to character's STR{nl}* Consumo de SP +5	* [스턴] 상태의 적이 [쓰러스트]에 당하면 5초 동안 [출혈] 디버프{nl}* [출혈] 대미지는 캐릭터의 힘에 비례{nl}* SP 소모 5증가	
 SKILL_20170420_008716	* Os inimigos atordoados por [Restrain] tornam-se mais lentos depois que o atordoar desaparece{nl}* Aumenta a duração do efeito de lentidão em 3 segundos por nível de atributo{nl}* Consumo de SP +10%	* [리스트레인]의 효과로 스턴이 걸린 적은 스턴이 해제 된 후{nl}    [슬로우] 디버프{nl}* [슬로우]의 지속시간은 특성 레벨당 3초 증가{nl}* SP 소모 10%증가	SKILL_20170313_007449	* Enemies stunned by [Restrain] become slowed down after stun wears off{nl}* Increases duration of slow effect by 3 segundos per attribute level{nl}* Consumo de SP +8	* [리스트레인]의 효과로 스턴이 걸린 적은 스턴이 해제 된 후{nl}    [슬로우] 디버프{nl}* [슬로우]의 지속시간은 특성 레벨당 3초 증가{nl}* SP 소모 8증가	
 SKILL_20170420_008717	Increases the duration of stun from [Restrain] by 1 segundo per attribute level {nl}* Consumo de SP +20%	* 스킬 [리스트레인]의 스턴 지속시간이 특성 레벨당 1초 증가{nl}* SP 소모 20%증가	SKILL_20170313_007450	* Increases the duration of stun from [Restrain] by 1 segundo per attribute level{nl}* Increases cooldown time by 3 segundos	* 스킬 [리스트레인]의 스턴 지속시간이 특성 레벨당 1초 증가{nl}* 재사용 대기시간 3초 증가	
@@ -9032,10 +9032,10 @@ SKILL_20170420_009031	* Aumenta o dano causado com [Heavy Shot] em 0.5% por nív
 SKILL_20170420_009032	* Aumenta o dano causado com [Twin Arrows] em 0.5% por nível de atributo	* 적에게 입히는 [트윈애로우]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_007916	* Aumenta o dano causado com [Twin Arrows] by 1% per attribute level	* 적에게 입히는 [트윈애로우]의 대미지가 특성 레벨당 1% 증가	
 SKILL_20170420_009033	* Aumenta a Taxa de Crítico do [Multi Shot] em 5% por nível de atributo{nl}* Consumo de SP +10%	* 스킬 [멀티샷]의 치명타 확률이 특성 레벨당 5% 증가{nl}* SP 소모 10%증가	SKILL_20170313_007917	* Increases critical chance of [Multi Shot] by 1.5% per attribute level{nl}* Consumo de SP +5	* 스킬 [멀티샷]의 치명타 확률이 특성 레벨당 1.5% 증가{nl}* SP 소모 5증가	
 SKILL_20170420_009034	* Aumenta a força do empurrão de [Full Draw] em 50{nl}* Consumo de SP +10%	* 스킬 [풀드로우]의 밀치는 힘이 50 증가{nl}* SP 소모 10%증가	SKILL_20170313_007918	* Increases knockback power of [Full Draw] by 50{nl}* Consumo de SP +50	* 스킬 [풀드로우]의 밀치는 힘이 50 증가{nl}* SP 소모 3증가	
-SKILL_20170420_009035	* Aumenta sua chance de crítico durante [Kneeling Shot] em 40 por nível de atributo{nl}* Consumo de SP +30%	* [닐링샷] 상태에서 치명타 발생이 특성 레벨당 40 증가{nl}* SP 소모 30%증가	SKILL_20170313_007919	* Increases critical rate during [Kneeling Shot] by 2% per attribute level{nl}* Consumo de SP +5	* [닐링샷] 상태에서 치명타 발생이 특성 레벨당 2% 증가{nl}* SP 소모 5증가	
+SKILL_20170420_009035	* Aumenta sua Taxa de Crítico durante [Kneeling Shot] em 40 por nível de atributo{nl}* Consumo de SP +30%	* [닐링샷] 상태에서 치명타 발생이 특성 레벨당 40 증가{nl}* SP 소모 30%증가	SKILL_20170313_007919	* Increases critical rate during [Kneeling Shot] by 2% per attribute level{nl}* Consumo de SP +5	* [닐링샷] 상태에서 치명타 발생이 특성 레벨당 2% 증가{nl}* SP 소모 5증가	
 SKILL_20170420_009036	Deals 10% additional damage per attribute level to Flying-type monsters when equipped with a [Two-handed Bow].	* [양손활] 장착 상태에서 공중형 몬스터 공격 시 특성 레벨당{nl}    10% 추가 대미지	SKILL_20170313_007920	* Deals 20% additional damage per attribute level to Flying-type monsters when equipped with a [Two-handed Bow]	* [양손활] 장착 상태에서 공중형 몬스터 공격 시 특성 레벨당{nl}    20% 추가 대미지	
 SKILL_20170420_009037	* Inimigos atingidos por [Oblique Shot] enquanto [Swift Step] está ativo, têm uma chance de 5% por nível de atributo a ser afetado com [Lentidão] por 7 segundos{nl}* Consumo de SP +10%	* 스킬 [스위프트스텝]이 활성화 중일 때, 스킬 [오블리크 샷]{nl}    사용 시 피격된 적들이 특성 레벨당 5% 확률로 7초 동안{nl}    [슬로우] 디버프{nl}* SP 소모 10%증가	SKILL_20170313_007921	* Enemies hit by [Oblique Shot] while [Swift Step] is active have a 5% chance per attribute level to be afflicted with [Slow] for 7 segundos{nl}* Consumo de SP +5	* 스킬 [스위프트스텝]이 활성화 중일 때, 스킬 [오블리크 샷]{nl}    사용 시 피격된 적들이 특성 레벨당 5% 확률로 7초 동안{nl}    [슬로우] 디버프{nl}* SP 소모 5증가	
-SKILL_20170420_009038	* Aumenta sua Chance de Crítico em 30 por nível de atributo enquanto [Swift Step] está ativo{nl}* Consumo de SP +50%	* 스킬 [스위프트스텝]이 활성화 중일 때, 자신의 치명타 발생이{nl}    특성 레벨당 30 증가{nl}* SP 소모 50%증가	SKILL_20170313_007922	* Increases critical rate by 5% per attribute level when [Swift Step] is active{nl}* Consumo de SP +5{nl}* Increases cooldown time by 5 segundos	* 스킬 [스위프트스텝]이 활성화 중일 때, 자신의 치명타 발생이{nl}    특성 레벨당 5% 증가{nl}* SP 소모 5증가{nl}* 재사용 대기시간 5초 증가	
+SKILL_20170420_009038	* Aumenta sua Taxa de Crítico em 30 por nível de atributo enquanto [Swift Step] está ativo{nl}* Consumo de SP +50%	* 스킬 [스위프트스텝]이 활성화 중일 때, 자신의 치명타 발생이{nl}    특성 레벨당 30 증가{nl}* SP 소모 50%증가	SKILL_20170313_007922	* Increases critical rate by 5% per attribute level when [Swift Step] is active{nl}* Consumo de SP +5{nl}* Increases cooldown time by 5 segundos	* 스킬 [스위프트스텝]이 활성화 중일 때, 자신의 치명타 발생이{nl}    특성 레벨당 5% 증가{nl}* SP 소모 5증가{nl}* 재사용 대기시간 5초 증가	
 SKILL_20170420_009039	* Diminui a defesa física dos inimigos que forem presos por [Full Draw] em 2% por nível de atributo{nl}*Consumo de SP + 10%	* 스킬 [풀드로우]로 꿰어진 적의 물리 방어력이 특성 레벨당{nl}    2% 만큼 감소{nl}* SP 소모 10%증가	SKILL_20170313_007923	* Decreases physical defense of enemies by 10% per attribute level when threaded with [Full Draw]{nl}* Increases cooldown time by 5 segundos	* 스킬 [풀드로우]로 꿰어진 적의 물리 방어력이 특성 레벨당{nl}    10% 만큼 감소{nl}* SP 소모 5증가	
 SKILL_20170420_009040	* Diminui o tempo de conjuração de [Multi Shot] pela metade{nl}* Consumo de SP +20%	* 스킬 [멀티샷]의 차징 시간이 절반으로 감소{nl}* SP 소모 20%증가	SKILL_20170313_007924	* Decreases charging time of [Multi Shot] by half{nl}* Increases cooldown time by 3 segundos	* 스킬 [멀티샷]의 차징 시간이 절반으로 감소{nl}* 재사용 대기시간 3초 증가	
 SKILL_20170420_009041	* Aumenta o dano causado com [Barrage] em 0.5% por nível de atributo	* 적에게 입히는 [배라지]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_007929	* Aumenta o dano causado com [Barrage] by 1% per attribute level	* 적에게 입히는 [배라지]의 대미지가 특성 레벨당 1% 증가	
@@ -9046,7 +9046,7 @@ SKILL_20170420_009045	* Aumenta o dano causado com [Time Bomb Arrow] 0.5% per at
 SKILL_20170420_009046	* Aumenta o dano causado com [Bounce Shot] em 0.5% por nível de atributo	* 적에게 입히는 [바운스샷]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_007941	* Aumenta o dano causado com [Bounce Shot] by 1% per attribute level	* 적에게 입히는 [바운스샷]의 대미지가 특성 레벨당 1% 증가	
 SKILL_20170420_009047	* Inimigos atingidos por [Barrage] têm uma chance de 10% por nível de atributo de serem empurrados{nl}* Consumo de SP +20%	* 스킬 [배라지]에 피격된 적이 특성 레벨당 10% 확률로 넉백{nl}* SP 소모 20%증가	SKILL_20170313_007942	* Enemies hit by [Barrage] have a 10% chance per attribute level of being knocked back{nl}* Increases cooldown time by 4 segundos	* 스킬 [배라지]에 피격된 적이 특성 레벨당 10% 확률로 넉백{nl}* 재사용 대기시간 4초 증가	
 SKILL_20170420_009048	* Inimigos atingidos por [Bounce Shot] têm uma chance de 3% por nível de atributo de receberem [Lentidão]{nl}* Consumo de SP +30%	* 스킬 [바운스샷]에 피격된 적이 특성 레벨당 3% 확률로{nl}    [슬로우] 디버프{nl}* SP 소모 30%증가	SKILL_20170313_007943	* Enemies hit by [Bounce Shot] have a 3% chance per attribute level to become afflicted with [Slow]{nl}* Consumo de SP +5{nl}* Increases cooldown time by 5 segundos	* 스킬 [바운스샷]에 피격된 적이 특성 레벨당 3% 확률로{nl}    [슬로우] 디버프{nl}* SP 소모 5증가{nl}* 재사용 대기시간 5초 증가	
-SKILL_20170420_009049	* Aumenta a chance de crítico de [Spiral Arrow] em 13% por nível de atributo.{nl}* Consumo de SP +20%	* 스킬 [스파이럴 애로우]의 치명타 확률이 특성 레벨당{nl}    13% 증가{nl}* SP 소모 20%증가	SKILL_20170313_007944	* Increases critical chance of [Spiral Arrow] by 13% per attribute level{nl}* Increases cooldown time by 7 segundos	* 스킬 [스파이럴 애로우]의 치명타 확률이 특성 레벨당{nl}    13% 증가{nl}* 재사용 대기시간 7초 증가	
+SKILL_20170420_009049	* Aumenta a Taxa de Crítico de [Spiral Arrow] em 13% por nível de atributo.{nl}* Consumo de SP +20%	* 스킬 [스파이럴 애로우]의 치명타 확률이 특성 레벨당{nl}    13% 증가{nl}* SP 소모 20%증가	SKILL_20170313_007944	* Increases critical chance of [Spiral Arrow] by 13% per attribute level{nl}* Increases cooldown time by 7 segundos	* 스킬 [스파이럴 애로우]의 치명타 확률이 특성 레벨당{nl}    13% 증가{nl}* 재사용 대기시간 7초 증가	
 SKILL_20170420_009050	* Aumenta o dano causado com [Spiral Arrow] em 0.5% por nível de atributo	* 적에게 입히는 [스파이럴 애로우]의 대미지가 특성 레벨당{nl}    0.5% 증가	SKILL_20170313_007945	* Aumenta o dano causado com [Spiral Arrow] by 1% per attribute level	* 적에게 입히는 [스파이럴 애로우]의 대미지가 특성 레벨당{nl}    1% 증가	
 SKILL_20170420_009051	* Inimigos atingidos por [High Anchoring] têm sua resistência a crítico reduzida em 15, por nível de atributo, por 5 segundos.{nl}* Consumo de SP +30%	* 스킬 [하이앵커링]에 피격된 적은 5초 동안 치명타 저항이{nl}    특성 레벨당 15 감소{nl}* SP 소모 30%증가	SKILL_20170313_007946	* Enemies hit by [High Anchoring] have their critical resistance reduced by 3 per attribute level for 5 segundos{nl}* Consumo de SP +2	* 스킬 [하이앵커링]에 피격된 적은 5초 동안 치명타 저항이{nl}    특성 레벨당 3 감소{nl}* SP 소모 2증가	
 SKILL_20170420_009052	* Aumenta o dano causado com [Scatter Caltrops] em 0.5% por nível de atributo	* 적에게 입히는 [캘트롭 뿌리기]의 대미지가 특성 레벨당{nl}    0.5% 증가	SKILL_20170313_007947	* Aumenta o dano causado com [Scatter Caltrops] by 1% per attribute level	* 적에게 입히는 [캘트롭 뿌리기]의 대미지가 특성 레벨당{nl}    1% 증가	
@@ -9220,7 +9220,7 @@ SKILL_20170420_009219	* Aumenta sua resistência à Propriedade Trevas em 5 por 
 SKILL_20170420_009220	* Aumenta o número de alvos que podem ser revividos com [Resurrection] em 1 por nível de atributo{nl}* Consumo de SP +10%	* 스킬 [리저렉션]의 부활 대상의 수가 특성 레벨당 1 증가{nl}* SP 소모 10%증가	SKILL_20170313_008186	* Increases number of targets that can be revived with [Resurrection] by 1 per attribute level{nl}* Consumo de SP +5	* 스킬 [리저렉션]의 부활 대상의 수가 특성 레벨당 1 증가{nl}* SP 소모 5증가	
 SKILL_20170420_009221	* Aumenta a duração do [Revive] em 7 segundos por nível de atributo{nl}* Não se aplica na TBL ou GvG{nl}* Consumo de SP +20%	* 스킬 [리바이브]의 지속시간이 특성 레벨당 7초씩 증가{nl}* 팀 배틀리그와 통합 길드배틀에서는 해당 특성이 적용되지 않음{nl}* SP 소모 20%증가	SKILL_20170313_008187	* Increases duration of [Revive] by 7 segundos per attribute level{nl}* Not applicable in TBL or GvG{nl}* Increases cooldown time by 15 segundos	* 스킬 [리바이브]의 지속시간이 특성 레벨당 7초씩 증가{nl}* 팀 배틀리그와 통합 길드배틀에서는 해당 특성이 적용되지 않음{nl}* 재사용 대기시간 15초 증가	
 SKILL_20170420_009222	* Aumenta a Duração de [Monstrance] em 1 segundo por nível de atributo{nl}* Consumo de SP +20%	* [몬스트런스]의 지속시간이 특성 레벨당 1초씩 증가{nl}* SP 소모 20%증가	SKILL_20170313_008188	* Increases duration of [Monstrance] by 1 segundo per attribute level{nl}* Increases cooldown time by 4 segundos	* [몬스트런스]의 지속시간이 특성 레벨당 1초씩 증가{nl}* 재사용 대기시간 4초 증가	
-SKILL_20170420_009223	* Aumenta a esquiva dos aliados em 2% por nível de atributo quando [Monstrance] está ativo{nl}* Consumo de SP +10%	* [몬스트런스]가 활성화 되어 있는 동료들은 회피가 특성 레벨당 2% 증가{nl}* SP 소모 10%증가	SKILL_20170313_008189	* Increases your ally's evasion by 2% per attribute level when [Monstrance] is active{nl}* Consumo de SP +10	* [몬스트런스]가 활성화 되어 있는 동료들은 회피가 특성 레벨당 2% 증가{nl}* SP 소모 10증가	
+SKILL_20170420_009223	* Aumenta a Evasão dos aliados em 2% por nível de atributo quando [Monstrance] está ativo{nl}* Consumo de SP +10%	* [몬스트런스]가 활성화 되어 있는 동료들은 회피가 특성 레벨당 2% 증가{nl}* SP 소모 10%증가	SKILL_20170313_008189	* Increases your ally's evasion by 2% per attribute level when [Monstrance] is active{nl}* Consumo de SP +10	* [몬스트런스]가 활성화 되어 있는 동료들은 회피가 특성 레벨당 2% 증가{nl}* SP 소모 10증가	
 SKILL_20170420_009224	* Aumenta a Duração do círculo Mágico de [Exorcise] em 1 segundo por nível de atributo.{nl}* Consumo de SP +10%	* 스킬 [엑소사이즈]의 마법진 지속시간이 특성 레벨당 1초 증가{nl}* SP 소모 10%증가	SKILL_20170313_008190	* Increases duration of [Exorcise]'s magic circle by 1 segundo per attribute level{nl}* Consumo de SP +9	* 스킬 [엑소사이즈]의 마법진 지속시간이 특성 레벨당 1초 증가{nl}* SP 소모 9증가	
 SKILL_20170420_009225	* Aumenta o dano causado com [Effigy] em 0.5% por nível de atributo	* 적에게 입히는 [에피지]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_008191	* Aumenta o dano causado com [Effigy] by 1% per attribute level	* 적에게 입히는 [에피지]의 대미지가 특성 레벨당 1% 증가	
 SKILL_20170420_009226	* Aumenta o dano causado com [Bwa Kayiman] em 0.5% por nível de atributo	* 적에게 입히는 [브와카이망]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_008195	* Aumenta o dano causado com [Bwa Kayiman] by 1% per attribute level	* 적에게 입히는 [브와카이망]의 대미지가 특성 레벨당 1% 증가	
@@ -9363,7 +9363,7 @@ SKILL_20170510_009362	{#DD5500}{ol}[Projétil: Arco]{/}{/}{nl}Demonstre sua for�
 SKILL_20170510_009363	{#DD5500}{ol}[Projétil: Arco]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}Dispara duas flechas simultâneas no inimigo.	{#DD5500}{ol}[미사일:활]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}적에게 두 개의 화살을 동시에 발사합니다.	SKILL_20170420_008545	{#DD5500}{ol}[Missil]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}Fires two arrow simultaneously to the enemy.	{#DD5500}{ol}[미사일]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}적에게 두 개의 화살을 동시에 발사합니다.	
 SKILL_20170510_009364	{#DD5500}{ol}[Projétil: Arco]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}{nl}Dispara 5 flechas em arco na sua frente.	{#DD5500}{ol}[미사일:활]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}지면을 향해 부채꼴 모양으로 5개의 화살을 발사합니다.	SKILL_20170420_008547	{#DD5500}{ol}[Projétil]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Vel.de Ataque]{/}{/}{nl}{nl}Fires 5 arrows forward in an arc in front of you.	{#DD5500}{ol}[미사일]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}지면을 향해 부채꼴 모양으로 5개의 화살을 발사합니다.	
 SKILL_20170510_009365	{#DD5500}{ol}[Projétil: Arco]{/}{/}{nl}Mira com a ponta de sua flecha e penetra{nl}através dos inimigos na sua frente.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}화살 끝으로 표적을 겨냥해 일직선 상의 적을 관통시킵니다.	SKILL_20151102_005523	{#DD5500}{ol}[Projétil]{/}{/}{nl}Aim with the tip of your arrow and penetrate through enemies in front of you.	{#DD5500}{ol}[미사일]{/}{/}{nl}화살 끝으로 표적을 겨냥해 일직선 상의 적을 관통시킵니다.	
-SKILL_20170510_009366	{#DD5500}{ol}[Projétil: Arco]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk}Velo. de Atk.]{/}{/}{nl}Dispara uma flecha com alta chance de crítico em um alvo.	{#DD5500}{ol}[미사일:활]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}대상에게 치명타 확률이 높은 화살을 발사합니다.	SKILL_20170420_008549	{#DD5500}{ol}[Projétil]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk}공격?Ϋτ]{/}{/}{nl}Fires an arrow with a high chance of critical at a target.	{#DD5500}{ol}[미사일]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}대상에게 치명타 확률이 높은 화살을 발사합니다.
+SKILL_20170510_009366	{#DD5500}{ol}[Projétil: Arco]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk}Velo. de Atk.]{/}{/}{nl}Dispara uma flecha com alta Taxa de Crítico em um alvo.	{#DD5500}{ol}[미사일:활]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}대상에게 치명타 확률이 높은 화살을 발사합니다.	SKILL_20170420_008549	{#DD5500}{ol}[Projétil]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk}공격?Ϋτ]{/}{/}{nl}Fires an arrow with a high chance of critical at a target.	{#DD5500}{ol}[미사일]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}대상에게 치명타 확률이 높은 화살을 발사합니다.
 SKILL_20170510_009367	{#DD5500}{ol}[Projétil: Arco]{/}{/}{nl}Dispara uma flecha com uma bomba anexada. Ao atingir um alvo, a flecha explodirá após um período de tempo, causando dano extra. Pode derrubar o alvo por 2 segundos.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}폭탄이 매달린 화살을 발사합니다. 대상에 명중한 화살은 잠시 후 폭발하여 추가 피해를 입힙니다.	SKILL_20151102_005526	{#DD5500}{ol}[Projétil]{/}{/}{nl}Fires an arrow with a bomb attached. Upon hitting a target, the arrow will explode after an amount of time, dealing extra damage.	{#DD5500}{ol}[미사일]{/}{/}{nl}폭탄이 매달린 화살을 발사합니다. 대상에 명중한 화살은 잠시 후 폭발하여 추가 피해를 입힙니다.	
 SKILL_20170510_009368	{#DD5500}{ol}[Projétil: Arco]{/}{/}{nl}Atira uma flecha que se divide ao atingir um alvo para atingir outros inimigos adjacentes.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}이 공격으로 대상을 공격하면 화살이 여러 개로 쪼개져 주변으로 튕겨 나갑니다.	SKILL_20151102_005527	{#DD5500}{ol}[Projétil]{/}{/}{nl}Fires an arrow that splits upon hitting a target to hit other adjacent enemies.	{#DD5500}{ol}[미사일]{/}{/}{nl}이 공격으로 대상을 공격하면 화살이 여러 개로 쪼개져 주변으로 튕겨 나갑니다.	
 SKILL_20170510_009369	{#DD5500}{ol}[Projétil: Arco]{/}{/}{nl}Dispara uma flecha em espiral que causa múltiplos danos a um alvo.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}나선의 화살로 적을 공격합니다. 화살은 적을 파고들면서 여러 번의 타격을 입힙니다.	SKILL_20151102_005528	{#DD5500}{ol}[Projétil]{/}{/}{nl}Fires a spiraling arrow that deals multiple hits to a target.	{#DD5500}{ol}[미사일]{/}{/}{nl}나선의 화살로 적을 공격합니다. 화살은 적을 파고들면서 여러 번의 타격을 입힙니다.	
@@ -9410,7 +9410,7 @@ SKILL_20170510_009409	{#DD5500}{ol}[Projétil: Arco]{/}{/} {#7AE4FF}{ol}[{img to
 SKILL_20170510_009410	{#DD5500}{ol}[Projétil: Arco]{/}{/}{nl}Atire várias flechas no ar e faça uma tempestade. Os alvos em seu alcance recebem danos por hit.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}여러발의 화살을 공중을 향해 쏴서 지정된 범위에 잠시 동안 화살들이 비처럼 쏟아지게 합니다. 범위 내의 적들은 떨어지는 화살에 맞을때 마다 피해를 받습니다.	SKILL_20161005_006701	{#DD5500}{ol}[Projétil]{/}{/}{nl}Shoot multiple arrows up in the air to bring up a storm of arrows. The targets in its AoE get damage per hit.	{#DD5500}{ol}[미사일]{/}{/}{nl}여러발의 화살을 공중을 향해 쏴서 지정된 범위에 잠시 동안 화살들이 비처럼 쏟아지게 합니다. 범위 내의 적들은 떨어지는 화살에 맞을때 마다 피해를 받습니다.	
 SKILL_20170510_009411	{#DD5500}{ol}[Projétil: Arco]{/}{/}{nl}Salte alto no ar e dispare uma flecha a frente. Os inimigos em sua trajetória recebem danos e tem a velocidade de movimento reduzida.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}높이 점프하여 전방 범위에 화살을 발사합니다. 일직선상에 있던 적들은 피해를 받고 확률적으로 이동속도가 감소합니다.	SKILL_20161005_006704	{#DD5500}{ol}[Projétil]{/}{/}{nl}Jump high up in the air and fire arrow forward. Enemies in its trajectory get damage and movement speed reduced.	{#DD5500}{ol}[미사일]{/}{/}{nl}높이 점프하여 전방 범위에 화살을 발사합니다. 일직선상에 있던 적들은 피해를 받고 확률적으로 이동속도가 감소합니다.	
 SKILL_20170510_009412	{#DD5500}{ol}[Projétil: Arco]{/}{/}{nl}Corra para a frente, mas os ataque sairão na direção oposta. Só funciona enquanto estiver se movendo.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}앞으로 전진하면서 후방을 향해 활 공격을 합니다. 이동 중일 때만 사용 가능합니다.	SKILL_20161005_006707	{#DD5500}{ol}[Projétil]{/}{/}{nl}Charge forward but attack the opposite direction. Only Able to Use while Moving	{#DD5500}{ol}[미사일]{/}{/}{nl}앞으로 전진하면서 후방을 향해 활 공격을 합니다. 이동 중일 때만 사용 가능합니다.	
-SKILL_20170510_009413	{#DD5500}{ol}[Projétil: Arco]{/}{/}{nl}Use uma lupa para encontrar o ponto cego do inimigo. O ataque será sempre aplicado como crítico. Os inimigos ao redor do alvo atacado terão maiores chances de serem atingidos por ataques críticos.(Os efeitos de Blindside e a chance de crítico do personagem aplicam-se separadamente.)	{#DD5500}{ol}[미사일:활]{/}{/}{nl}돋보기를 이용하여 적의 약점을 찾아 공격합니다. 이 공격은 무조건 치명타로 적중합니다. 피격된 적을 기준으로 일정 범위 안의 대상은 치명타에 피격될 확률이 증가합니다.{nl}(약점공격의 효과는 캐릭터의 치명타 발생과는 별도로 적용됩니다.)	SKILL_20170313_007371	{#DD5500}{ol}[Projétil]{/}{/}{nl}Use a magnifying glass to find the enemy's blind side and attack. The attack will apply as critical attack. Foes around the attacked enemy will have higher chances of being hit by critical attacks.{nl}(The effects of Blindside and the character's critical rate apply separately.)	{#DD5500}{ol}[미사일]{/}{/}{nl}돋보기를 이용하여 적의 약점을 찾아 공격합니다. 이 공격은 무조건 치명타로 적중합니다. 피격된 적을 기준으로 일정 범위 안의 대상은 치명타에 피격될 확률이 증가합니다.{nl}(약점공격의 효과는 캐릭터의 치명타 발생과는 별도로 적용됩니다.)	
+SKILL_20170510_009413	{#DD5500}{ol}[Projétil: Arco]{/}{/}{nl}Use uma lupa para encontrar o ponto cego do inimigo. O ataque será sempre aplicado como crítico. Os inimigos ao redor do alvo atacado terão maiores chances de serem atingidos por ataques críticos.(Os efeitos de Blindside e a Taxa de Crítico do personagem aplicam-se separadamente.)	{#DD5500}{ol}[미사일:활]{/}{/}{nl}돋보기를 이용하여 적의 약점을 찾아 공격합니다. 이 공격은 무조건 치명타로 적중합니다. 피격된 적을 기준으로 일정 범위 안의 대상은 치명타에 피격될 확률이 증가합니다.{nl}(약점공격의 효과는 캐릭터의 치명타 발생과는 별도로 적용됩니다.)	SKILL_20170313_007371	{#DD5500}{ol}[Projétil]{/}{/}{nl}Use a magnifying glass to find the enemy's blind side and attack. The attack will apply as critical attack. Foes around the attacked enemy will have higher chances of being hit by critical attacks.{nl}(The effects of Blindside and the character's critical rate apply separately.)	{#DD5500}{ol}[미사일]{/}{/}{nl}돋보기를 이용하여 적의 약점을 찾아 공격합니다. 이 공격은 무조건 치명타로 적중합니다. 피격된 적을 기준으로 일정 범위 안의 대상은 치명타에 피격될 확률이 증가합니다.{nl}(약점공격의 효과는 캐릭터의 치명타 발생과는 별도로 적용됩니다.)	
 SKILL_20170510_009414	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Cria um círculo mágico à sua frente, curando aliados ou causando dano a inimigos. Não afeta inimigos voadores. A quantidade de HP recuperada depende do HP máximo do alvo. A recuperação aumenta de acordo com a INT e SPR do conjurador.	{#993399}{ol}[마법] - [신성]{/}{/}{nl}HP를 회복하거나 적에게 피해를 주는 마법진을 생성합니다. 떠 있는 대상은 적용되지 않습니다. HP 회복량은 대상의 최대 HP에 비례합니다. 시전자의 지능과 정신 능력치에 따라 추가 회복됩니다.	SKILL_20150918_005110	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/}{nl}Creates a magic circle in front of you, healing allies or damaging enemies. Does not affect airborne enemies. Amount of HP recovered depends on the target's maximum HP.	{#993399}{ol}[마법] - [신성]{/}{/}{nl}HP를 회복하거나 적에게 피해를 주는 마법진을 생성합니다. 떠 있는 대상은 적용되지 않습니다. HP 회복량은 대상의 최대 HP에 비례합니다.	
 SKILL_20170510_009415	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Recupera HP igual a 5% do seu HP máximo{nl}Recuperação de HP adicional:{#339989}{ol} #{CaptionRatio}#{/}{/} ~ #{CaptionRatio2}#{nl}Duração do Círculo Mágico:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Blocos do Heal: #{CaptionRatio3}#	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}최대 HP의 5% 회복{nl}추가 HP 회복량{#339989}{ol} #{CaptionRatio}#{/}{/} ~ #{CaptionRatio2}#{nl}마법진 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}힐 마법진 #{CaptionRatio3}#개	SKILL_20170420_008622	Ataque: {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}Recovers HP equal to 5% of your maximum HP{nl}Additional HP Recovery Rate:{#339989}{ol} #{CaptionRatio}#{/}{/} ~ #{CaptionRatio2}#{nl}Magic Circle Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}최대 HP의 5% 회복{nl}추가 HP 회복량{#339989}{ol} #{CaptionRatio}#{/}{/} ~ #{CaptionRatio2}#{nl}마법진 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초	
 SKILL_20170510_009416	STR, INT: +#{CaptionRatio}#{nl}Effect Duração: #{CaptionRatio3}# segundos{nl}Stigma Duração: {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos	힘, 지능{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}효과 지속시간 #{CaptionRatio3}#초{nl}낙인 지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초	SKILL_20150317_001452	STR, INT: +#{CaptionRatio}#{nl}Effect Duração: 30 segundos{nl}Stigma Duração: {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos	힘, 지능{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}효과 지속시간 30초{nl}낙인 지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초	
@@ -9420,17 +9420,17 @@ SKILL_20170510_009419	{#993399}{ol}[Mágico] - {img attri_Holy 21 21}Divino{/}{/
 SKILL_20170510_009420	Donnes' Buff	도네스의 버프		
 SKILL_20170510_009421	+100% EXP from hunting monsters	몬스터 처치 시 획득 경험치 +100%		
 SKILL_20170510_009422	* Amplifica o efeito de aumento de dano físico e reduz o efeito de defesa diminuído de [Gung Ho] em 1% por nível de atributo	* 특성 레벨당 [겅호]의 물리 공격력 증가 효과가 1% 상승{nl}* 방어력 감소 효과 1% 상승	SKILL_20170420_008707	* Amplifies physical damage increase effect and decreased defense effect of [Gung Ho] by 1% per attribute level	* 특성 레벨당 [겅호]의 물리 공격력 증가 효과가 1% 상승{nl}* 방어력 감소 효과 1 상승	
-SKILL_20170510_009423	* Aumenta a esquiva do personagem em 50 por nível de atributo quando [Guardian] está ativo{nl}* Consumo de SP +10%	* [가디언]이 활성화 되어 있는 동안 캐릭터의 회피가{nl}    특성 레벨당 50 증가{nl}* SP 소모 10%증가	SKILL_20170420_008729	* Increases character's evasion by 6% per attribute level when [Guardian] is active{nl}* Consumo de SP +10%	* [가디언]이 활성화 되어 있는 동안 캐릭터의 회피가{nl}    특성 레벨당 6% 증가{nl}* SP 소모 10%증가	
-SKILL_20170510_009424	* Aumenta a esquiva em 50 por nível de atributo enquanto usa [Stabbing]{nl}Aumenta a defesa mágica em 5% por nível de atributo{nl}* Consumo de SP +10	* 스킬 [스태빙] 사용 중 회피가 특성 레벨당 50 증가하고{nl} 마법 방어력이 특성 레벨당 5% 증가{nl}* SP 소모 10%증가	SKILL_20170420_008757	* Increases evasion and magic defense by 5% per attribute level when using [Stabbing]{nl}* Consumo de SP +10%	* 스킬 [스태빙] 사용 중 회피와 마법 방어력이 특성 레벨당{nl}    5% 증가{nl}* SP 소모 10%증가	
+SKILL_20170510_009423	* Aumenta a Evasão do personagem em 50 por nível de atributo quando [Guardian] está ativo{nl}* Consumo de SP +10%	* [가디언]이 활성화 되어 있는 동안 캐릭터의 회피가{nl}    특성 레벨당 50 증가{nl}* SP 소모 10%증가	SKILL_20170420_008729	* Increases character's evasion by 6% per attribute level when [Guardian] is active{nl}* Consumo de SP +10%	* [가디언]이 활성화 되어 있는 동안 캐릭터의 회피가{nl}    특성 레벨당 6% 증가{nl}* SP 소모 10%증가	
+SKILL_20170510_009424	* Aumenta a Evasão em 50 por nível de atributo enquanto usa [Stabbing]{nl}Aumenta a defesa mágica em 5% por nível de atributo{nl}* Consumo de SP +10	* 스킬 [스태빙] 사용 중 회피가 특성 레벨당 50 증가하고{nl} 마법 방어력이 특성 레벨당 5% 증가{nl}* SP 소모 10%증가	SKILL_20170420_008757	* Increases evasion and magic defense by 5% per attribute level when using [Stabbing]{nl}* Consumo de SP +10%	* 스킬 [스태빙] 사용 중 회피와 마법 방어력이 특성 레벨당{nl}    5% 증가{nl}* SP 소모 10%증가	
 SKILL_20170510_009425	* Aumenta a defesa mágica em 5% e a resistência ao elemento gelo em 25% por nível de atributo em proporção ao Escudo equipado	* [방패] 착용 시 방패 방어력의 비례하여{nl}     마법 방어력 특성 레벨당 5%{nl}     얼음 속성 저항력 특성 레벨당 25%증가	SKILL_20170313_007738	* Increases magic defense and Ice property resistance equal to 25% of your equipped [Shield]'s defense per attribute level	* [방패] 착용 시 방패 방어력의 비례하여 마법 방어력과{nl}    얼음 속성 저항력이 증가{nl}* 비례 수치는 특성 레벨당 25%로 적용	
-SKILL_20170510_009426	* Aumenta a esquiva em 50 por nível de atributo ao usar [Gravity Pole]	* 스킬 [그라비티 폴] 사용 중, 회피가 특성 레벨당 50 증가	SKILL_20170313_007749	* Increases evasion by 10% per attribute level when using [Gravity Pole]	* 스킬 [그라비티 폴] 사용 중, 회피가 특성 레벨당 10% 증가	
+SKILL_20170510_009426	* Aumenta a Evasão em 50 por nível de atributo ao usar [Gravity Pole]	* 스킬 [그라비티 폴] 사용 중, 회피가 특성 레벨당 50 증가	SKILL_20170313_007749	* Increases evasion by 10% per attribute level when using [Gravity Pole]	* 스킬 [그라비티 폴] 사용 중, 회피가 특성 레벨당 10% 증가	
 SKILL_20170510_009427	* Diminui a velocidade de movimento de monstros afetados por [Swell Body] em 15% por nível de atributo{nl}* Aumenta o ataque físico e mágico em 10% por nível de atributo{nl}* Efeito não se aplica a personagens	* 스킬 [크기 확대]에 걸린 몬스터는 이동속도가{nl}    특성 레벨당 15% 감소{nl}* 물리, 마법 공격력이 특성 레벨당 10% 증가{nl}* 캐릭터에게는 효과가 적용되지 않음	SKILL_20170313_007773	* Decreases movement speed of monsters affected by [Swell Body] by 15% per attribute level{nl}* Increases physical and magic attack by 20% per attribute level{nl}* Effects do not apply to characters	* 스킬 [크기 확대]에 걸린 몬스터는 이동속도가{nl}    특성 레벨당 15% 감소{nl}* 물리, 마법 공격력이 특성 레벨당 20% 증가{nl}* 캐릭터에게는 효과가 적용되지 않음	
-SKILL_20170510_009428	* Não usar uma adaga ou um escudo como arma-secundária fornece 30 de precisão e esquiva por nível de atributo.{nl}* Consumo de SP +10%	* 보조무기를 끼지 않았거나, 보조무기가 단검 및 방패가 아닌{nl}    대상에게는 명중과 회피가 특성 레벨당 30 증가{nl}* SP 소모 10%증가	SKILL_20170420_008936	* Not using a dagger or a shield as offhand gives 6% higher accuracy and evasion per attribute level{nl}* Consumo de SP +10%	* 보조무기를 끼지 않았거나, 보조무기가 단검 및 방패가 아닌{nl}    대상에게는 명중과 회피가 특성 레벨당 6% 증가{nl}* SP 소모 10%증가	
-SKILL_20170510_009429	* Aumenta a esquiva em 50 por nível de atributo ao conjurar [Meteor]{nl}* Consumo de SP +10%	* 스킬 [메테오] 챠지 중 회피가 특성 레벨당 50 증가{nl}* SP 소모 10%증가	SKILL_20170420_008945	* Increases evasion by 10% per attribute level while charging [Meteor]{nl}* Consumo de SP +10%	* 스킬 [메테오] 챠지 중 회피가 특성 레벨당 10% 증가{nl}* SP 소모 10%증가	
+SKILL_20170510_009428	* Não usar uma adaga ou um escudo como arma-secundária fornece 30 de precisão e Evasão por nível de atributo.{nl}* Consumo de SP +10%	* 보조무기를 끼지 않았거나, 보조무기가 단검 및 방패가 아닌{nl}    대상에게는 명중과 회피가 특성 레벨당 30 증가{nl}* SP 소모 10%증가	SKILL_20170420_008936	* Not using a dagger or a shield as offhand gives 6% higher accuracy and evasion per attribute level{nl}* Consumo de SP +10%	* 보조무기를 끼지 않았거나, 보조무기가 단검 및 방패가 아닌{nl}    대상에게는 명중과 회피가 특성 레벨당 6% 증가{nl}* SP 소모 10%증가	
+SKILL_20170510_009429	* Aumenta a Evasão em 50 por nível de atributo ao conjurar [Meteor]{nl}* Consumo de SP +10%	* 스킬 [메테오] 챠지 중 회피가 특성 레벨당 50 증가{nl}* SP 소모 10%증가	SKILL_20170420_008945	* Increases evasion by 10% per attribute level while charging [Meteor]{nl}* Consumo de SP +10%	* 스킬 [메테오] 챠지 중 회피가 특성 레벨당 10% 증가{nl}* SP 소모 10%증가	
 SKILL_20170510_009430	* Aumenta o dano causado pelo Boss enquanto montado nele em 0.5% por nível de atributo	* [탑승] 시 악마가 적에게 입히는 대미지가 특성 레벨당{nl}    0.5% 증가	SKILL_20170420_008957	*Aumenta o dano causado com Mounted demon em 0.5% por nível de atributo	* [탑승] 시 악마가 적에게 입히는 스킬의 대미지가 특성 레벨당{nl}    0.5% 추가	
-SKILL_20170510_009431	* Aumenta o efeito de chance de crítico de [Quicken] em 30 e diminui a esquiva em 40 por nível de atributo{nl}* Consumo de SP +30%	* 스킬 [퀴큰] 효과에 치명타 발생이 특성 레벨당 30 증가하고{nl}    회피가 특성 레벨당 40 감소{nl}* SP 소모 30%증가	SKILL_20170420_008958	* Increases critical rate effect from [Quicken] by 5% and decreases evasion by 2% per attribute level{nl}* Consumo de SP +20%	* 스킬 [퀴큰] 효과에 치명타 발생이 특성 레벨당 5% 증가하고{nl}    회피가 특성 레벨당 2% 감소{nl}* SP 소모 30%증가	
+SKILL_20170510_009431	* Aumenta o efeito de Taxa de Crítico de [Quicken] em 30 e diminui a Evasão em 40 por nível de atributo{nl}* Consumo de SP +30%	* 스킬 [퀴큰] 효과에 치명타 발생이 특성 레벨당 30 증가하고{nl}    회피가 특성 레벨당 40 감소{nl}* SP 소모 30%증가	SKILL_20170420_008958	* Increases critical rate effect from [Quicken] by 5% and decreases evasion by 2% per attribute level{nl}* Consumo de SP +20%	* 스킬 [퀴큰] 효과에 치명타 발생이 특성 레벨당 5% 증가하고{nl}    회피가 특성 레벨당 2% 감소{nl}* SP 소모 30%증가	
 SKILL_20170510_009432	* Aumenta a evasão de seu aliado em 20 por nível de atributo quando [Monstrance] está ativo{nl}* Consumo de SP +10%	* [몬스트런스]가 활성화 되어 있는 동료들은 회피가 특성 레벨당 20 증가{nl}* SP 소모 10%증가	SKILL_20170420_009223	* Increases your ally's evasion by 2% per attribute level when [Monstrance] is active{nl}* Consumo de SP +10%	* [몬스트런스]가 활성화 되어 있는 동료들은 회피가 특성 레벨당 2% 증가{nl}* SP 소모 10%증가	
-SKILL_20170510_009433	* Aumenta a esquiva do corpo em 10 por nível de atributo quando [Out of Body] está ativo.	* 스킬 [유체이탈]이 활성화 되어 있는 동안 본체의 회피가{nl}    특성 레벨당 10 증가	SKILL_20170313_008227	* Increases the body's evasion by 10% per attribute level when [Out of Body] is active	* 스킬 [유체이탈]이 활성화 되어 있는 동안 본체의 회피가{nl}    특성 레벨당 10% 증가	
+SKILL_20170510_009433	* Aumenta a Evasão do corpo em 10 por nível de atributo quando [Out of Body] está ativo.	* 스킬 [유체이탈]이 활성화 되어 있는 동안 본체의 회피가{nl}    특성 레벨당 10 증가	SKILL_20170313_008227	* Increases the body's evasion by 10% per attribute level when [Out of Body] is active	* 스킬 [유체이탈]이 활성화 되어 있는 동안 본체의 회피가{nl}    특성 레벨당 10% 증가	
 SKILL_20170510_009434	* Diminui 10% a defesa física do inimigo com uma chance de 10% por nível de atributo ao usar um ataque básico durante [Out of Body]{nl}* Não é possível ligar / desligar durante Out of Body	* 유체 상태에서의 기본 공격에 피격 된 적은 특성 레벨당{nl}    10% 확률로 물리 방어력이 10% 감소{nl}* 유체 이탈 중에는 ON/OFF 불가능	SKILL_20170313_008230	* Decreases the enemy's physical defense by 30% with a chance of 10% per attribute level when using a basic attack during Out of Body{nl}* Unable to turn ON/OFF during Out of Body	* 유체 상태에서의 기본 공격에 피격 된 적은 특성 레벨당{nl}    10% 확률로 물리 방어력이 30% 감소{nl}* 유체 이탈 중에는 ON/OFF 불가능	
 SKILL_20170510_009435	* Inimigos perto do alvo inicial de [Telepath] também obtêm o mesmo efeito correspondente ao nível de atributo{nl}* Consumo de SP +10%	* 스킬 [텔레파스] 디버프에 걸린 적 주변의 적도 특성 레벨만큼{nl}    같이 [텔레파스] 디버프에 걸림{nl}* SP 소모 10%증가	SKILL_20170420_009282	* Enemies near the initial target of [Telepath] also get the same effect{nl}* Consumo de SP +10%	* 스킬 [텔레파스] 디버프에 걸린 적 주변의 적도 같이 [텔레파스]{nl}    디버프에 걸림{nl}* SP 소모 10%증가	
 SKILL_20170512_009436	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Reduz o tempo de conjuração das habilidades. O tempo reduzido agora ultrapassará 90% do tempo de conjuração original.	스킬의 캐스팅 시간을 감소시킵니다. 감소되는 시간은 기존 시간의 최대 90%를 넘지 않습니다.
@@ -9445,9 +9445,9 @@ SKILL_20170512_009444	{#993399}{ol}[Mágico] - [{img notice_br_solution 19 19}Ps
 SKILL_20170512_009445	{#db20c0}{ol}[SUPORTE]{/}{/}{nl}Transfira uma parte do seu status de INT para um aliado à sua frente. Causa dano Psíquico adicional proporcional ao seu ataque mágico e um dano extra de 150% ao atacar com habilidades Psíquicas.	자신의 전방에 있는 동료에게 자신의 지능 능력치를 전해줍니다. 자신의 최소 마법 공격력에 비례하는 염속성 추가대미지를 주고, 염속성 스킬로 공격 시 150% 추가대미지를 줍니다. 대신 염속성 공격에 피격 시 50% 추가 피해를 입습니다.
 SKILL_20170512_009446	Transmite:{#339989}{ol} #{CaptionRatio}#{/}{/}% INT{nl}Duração {#429e8f}{ol}#{CaptionRatio2}#{/}{/} segundos{nl}Dano adicional Psíquico: #{CaptionRatio3}#	지능 능력치{#339989}{ol} #{CaptionRatio}#{/}{/}% 전송{nl}지속시간 {#429e8f}{ol}#{CaptionRatio2}#{/}{/}초{nl}염속성 #{CaptionRatio3}# 추가대미지
 SKILL_20170512_009447	Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/} x{#339989}{ol} #{CaptionRatio}#{/}{/}counts{nl}Alvos Max.: 8{nl}Duração{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	공격력 {#006fec}{ol}#{SkillFactor}#%{/}{/} x{#339989}{ol} #{CaptionRatio}#{/}{/}회{nl}최대 피격 대상 수 8명{nl}지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초
-SKILL_20170512_009448	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Temporariamente transforma-se em um lobo. Consome continuamente SP enquanto estiver na forma de lobo. Aumenta o dano e a chance de crítico enquanto é transformado.	일시적으로 늑대로 변신합니다. 변신 상태에서는 지속적으로 SP를 소모합니다. 변신 상태를 유지하는 동안 대미지와 치명타 발생이 상승합니다.
-SKILL_20170512_009449	Possível usar skills de lobo{nl}Dano Add.:{#339989}{ol} #{CaptionRatio}#{/}{/}% de acréscimo{nl}Chance de Crítico: {#429e8f}{ol}#{CaptionRatio2}#{/}{/} de acréscimo{nl}Duração Max.:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} minutos{nl}Consome 70 SP per segundo	늑대 스킬을 사용할 수 있음{nl}추가 대미지{#339989}{ol} #{CaptionRatio}#{/}{/}% 증가{nl}치명타 발생 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 증가{nl}최대 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}분{nl}1초당 SP 소모량 70
-SKILL_20170512_009450	Duração{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Aumento add de dano em 20% quando transformado{nl}Aumenta a chance de crítico em 100 quando transformado	지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}변신 상태 추가 대미지 20% 증가{nl}변신 상태 치명타 발생 100 증가
+SKILL_20170512_009448	{#222d4a}{ol}[UTILITÁRIO]{/}{/}{nl}Temporariamente transforma-se em um lobo. Consome continuamente SP enquanto estiver na forma de lobo. Aumenta o dano e a Taxa de Crítico enquanto é transformado.	일시적으로 늑대로 변신합니다. 변신 상태에서는 지속적으로 SP를 소모합니다. 변신 상태를 유지하는 동안 대미지와 치명타 발생이 상승합니다.
+SKILL_20170512_009449	Possível usar skills de lobo{nl}Dano Add.:{#339989}{ol} #{CaptionRatio}#{/}{/}% de acréscimo{nl}Taxa de Crítico: {#429e8f}{ol}#{CaptionRatio2}#{/}{/} de acréscimo{nl}Duração Max.:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} minutos{nl}Consome 70 SP per segundo	늑대 스킬을 사용할 수 있음{nl}추가 대미지{#339989}{ol} #{CaptionRatio}#{/}{/}% 증가{nl}치명타 발생 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 증가{nl}최대 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}분{nl}1초당 SP 소모량 70
+SKILL_20170512_009450	Duração{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos{nl}Aumento add de dano em 20% quando transformado{nl}Aumenta a Taxa de Crítico em 100 quando transformado	지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초{nl}변신 상태 추가 대미지 20% 증가{nl}변신 상태 치명타 발생 100 증가
 SKILL_20170512_009451	Causa danos Psíquicos adicionais proporcionais ao seu ataque mágico, mas aumenta o dano recebido em 50% quando atacado por elemento Psíquico.	자신의 최소 마법 공격력에 비례하는 염속성 추가대미지를 주지만, 염속성 공격에 피격 시 50% 추가대미지를 입습니다.
 SKILL_20170512_009452	Continuamente recebendo dano de Fogo. Drasticamente reduz a resistência à propriedade de fogo de inimigos afligidos com o debuff.	지속적으로 화염 피해를 입는 상태입니다. 디버프에 걸린 적은 불속성 저항이 소폭 감소합니다.
 SKILL_20170512_009453	Loss of Spirit	영혼소실
@@ -9491,7 +9491,7 @@ SKILL_20170615_009490	Aumenta o seu máximo de SP e HP.
 SKILL_20170709_009491	Stone Spirit
 SKILL_20170709_009492	EXP +100%, Stamina +20, Velocidade de Mov. +3 por 1 hora.
 SKILL_20170717_009493	Hide Buff
-SKILL_20170726_009494	Chance de Crítico: +#{CaptionRatio}# {nl}Bloqueio: #{CaptionRatio3}# {nl}Esquiva: -#{CaptionRatio2}#{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	치명타 발생{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}블록 #{CaptionRatio3}# 증가{nl}회피 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 감소{nl} 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초
+SKILL_20170726_009494	Taxa de Crítico: +#{CaptionRatio}# {nl}Bloqueio: #{CaptionRatio3}# {nl}Evasão: -#{CaptionRatio2}#{nl}Duração:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} segundos	치명타 발생{#339989}{ol} #{CaptionRatio}#{/}{/} 증가{nl}블록 #{CaptionRatio3}# 증가{nl}회피 {#429e8f}{ol}#{CaptionRatio2}#{/}{/} 감소{nl} 지속시간{#E5E5E5}{ol} #{CaptionTime}#{/}{/}초
 SKILL_20170726_009495	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Ataque um inimigo jogando sua lança. Sua lança ficará no chão onde foi jogada, e seu ataque físico será diminuído com base no equipamento jogado até você apanhá-la. Ele retorna automaticamente depois de um certo tempo. O dano aumenta até 2 vezes dependendo da distância.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}창을 던져 적을 공격합니다. 던진 창은 지정 위치에 떨어지고, 자신의 물리 공격력이 장비의 수치만큼 감소됩니다. 창은 가서 줍거나 일정 시간 이후 자동으로 습득되며, 이 때는 감소된 물리 공격력이 원래대로 돌아옵니다. 던지는 거리에 따라 대미지가 최대 2배 증가 합니다.
 SKILL_20170726_009496	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Perfura fortemente o inimigo com a ponta da sua lança.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}적을 창 끝으로 강하게 찌릅니다.
 SKILL_20170726_009497	{#993399}{ol}[Mágico] - {img attri_Fire 21 21}Fogo{/}{/}{nl}Convoca uma bola de fogo. Inimigos que tocam a bola de fogo receberão danos de fogo. Convoca até 5 bolas de fogo.	{#993399}{ol}[마법] - [불]{/}{/}{nl}화염구를 소환합니다. 화염구에 닿은 적은 화염 피해를 입습니다. 최대 5개까지 소환할 수 있습니다.
@@ -9805,7 +9805,7 @@ SKILL_20171128_009804	HP recovers per second{#339989}{ol} #{CaptionRatio}#{/}{/}
 SKILL_20171128_009805	Change your basic attack to magic attack.
 SKILL_20171128_009806	Stigmatized the enemy and give fire magic damage. The stigmatized enemy takes 1.5 times damage to Zaibas, and increases STR and INT temporarily when defeated.
 SKILL_20171128_009807	Attack{#006fec}{ol}#{SkillFactor}#%{/}{/}{nl}STR, INT: +#{CaptionRatio}#{nl}Effect Duration: #{CaptionTime}# seconds{nl}Stigma Duration 15 seconds{nl}No. of targets 5
-SKILL_20171128_009808	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Cria um círculo mágico na frente para reduzir a esquiva e defesa física dos inimigos dentro do alcance. O efeito é mantido por um certo período de tempo, mesmo que esteja fora do alcance do círculo mágico. Ao conjurar, os membros do grupo próximos recebem um bonus em DEX.
+SKILL_20171128_009808	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Cria um círculo mágico na frente para reduzir a Evasão e defesa física dos inimigos dentro do alcance. O efeito é mantido por um certo período de tempo, mesmo que esteja fora do alcance do círculo mágico. Ao conjurar, os membros do grupo próximos recebem um bonus em DEX.
 SKILL_20171128_009809	Increases ally's DEX stat{nl}Enemy's Evasion: -#{CaptionRatio}#{nl}Decreases enemy's defense by 10%{nl}Duration for allies:{#E5E5E5}{ol} #{CaptionTime}#{/}{/} seconds{nl}Duration for enemies {#429e8f}{ol}#{CaptionRatio2}#{/}{/} seconds
 SKILL_20171128_009810	Additional Damage: +#{CaptionRatio}#{nl}Allies Affected:{#E5E5E5}{ol} #{CaptionTime}#{/}{/}{nl}Duration: 300 seconds{nl}Consumes 1 Holy Powder
 SKILL_20171128_009811	Holy property attacks +#{CaptionRatio}#{nl}duration{#E5E5E5}{ol}#{CaptionTime}#{/}{/}seconds{nl}Use 1 Gislotis
@@ -10409,7 +10409,7 @@ SKILL_20180320_010406	{#DD5500}{ol}[Físico] - [Cortante]{/}{/} {#7AE4FF}{ol}[{i
 SKILL_20180320_010407	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk} Attack Speed]{/}{/}{nl}Use uma arma em cada mão para lidar com ataques sucessivos em um inimigo. Se o ataque for preciso, aplica 80% de ataque físico + 60% de ataque físico da arma secundária.
 SKILL_20180320_010408	Quick and Dead
 SKILL_20180320_010409	{#DD5500}{ol}[Missile: Gun]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk} Attack Speed]{/}{/}{nl}A Arma secundária (pistola) dispara atirando por toda parte, danificando os inimigos. A chance crítica mínima é compensada.
-SKILL_20180320_010410	Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/} x 6 tempos{nl} Chance de crítico minimo 15%
+SKILL_20180320_010410	Ataque {#006fec}{ol}#{SkillFactor}#%{/}{/} x 6 tempos{nl} Taxa de Crítico minimo 15%
 SKILL_20180320_010411	Impale Dagger
 SKILL_20180320_010412	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{nl}Ataca os inimigos e causa dano ao redor com a arma secúndaria da adaga.
 SKILL_20180320_010413	Ataque inimigos na área próxima, explodindo a pólvora que você tem. O uso dessa técnica também causará danos a você e poderá causar incapacidade de combate se seu HP estiver muito baixo. Se usado por clones, o Bunshin no Jutsu é cancelado.
@@ -10971,8 +10971,8 @@ SKILL_20180418_010967	Dagger Guard
 SKILL_20180418_010968	{#00c3a1}{ol}[BUFF]{/}{/}{nl}Reflete ataques Cortantes, Impacto e Perfurante com o sua adaga. O buff é cancelado automaticamente se o seu personagem não estiver equipando uma adaga.
 SKILL_20180418_010969	Chance de Bloqueio {#339989}{ol}#{CaptionRatio}#%{/}{/}{nl}Defende #{CaptionRatio2}# ataques{nl}Duração {#E5E5E5}{ol}#{CaptionRatio3}# seg
 SKILL_20180418_010970	Trident Finish
-SKILL_20180418_010971	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk} Veloc. de Ataque]{/}{/}{nl}Perfure inimigos ao redor e cause dano com sua lança. Chance de crítico e dano aumentados ao atacar inimigos afetados pelo debuff rete, Iron Hook ou Arrest. {Nl} * As chances de crítico do personagem são aplicados separadamente. {Nl} * O aumento de dano não é acumulado com efeitos de debuff da rete.
-SKILL_20180418_010972	Ataque {#006fec}{ol}#{SkillFactor}#{/}%{nl}Chance de Crítico Min. +50%{nl}Dano aumenta em 100%
+SKILL_20180418_010971	{#DD5500}{ol}[Físico] - [Perfurante]{/}{/}{#7AE4FF}{ol}[{img tooltip_speedofatk} Veloc. de Ataque]{/}{/}{nl}Perfure inimigos ao redor e cause dano com sua lança. Taxa de Crítico e dano aumentados ao atacar inimigos afetados pelo debuff rete, Iron Hook ou Arrest. {Nl} * As chances de crítico do personagem são aplicados separadamente. {Nl} * O aumento de dano não é acumulado com efeitos de debuff da rete.
+SKILL_20180418_010972	Ataque {#006fec}{ol}#{SkillFactor}#{/}%{nl}Taxa de Crítico Min. +50%{nl}Dano aumenta em 100%
 SKILL_20180418_010973	Disarm
 SKILL_20180418_010974	{#DD5500}{ol}[Físico] - [Impacto]{/}{/}{nl}Ataque inimigos ao redor com o rete para causar dano e reduzir sua defesa física. Os alvos afetados tornam-se momentaneamente incapazes de equipar um escudo.
 SKILL_20180418_010975	Ataque {#006fec}{ol}#{SkillFactor}#{/}%{nl}Defesa Física do alvo -#{CaptionRatio}#%{nl}Duração #{CaptionRatio2}# sec
@@ -11039,9 +11039,9 @@ SKILL_20180418_011035	Valentine Chocolates Stage 5
 SKILL_20180418_011036	EXP gains from hunting monsters +50% {nl}Max. HP +2500{nl}HP 100 and SP 500 restored every 250 sec
 SKILL_20180418_011037	Title Buff
 SKILL_20180418_011038	Pull Rete: Heavy Net
-SKILL_20180418_011039	* Reduz a esquiva de inimigos afetados pelo debuff [Pull Rete] a 0{nl}* Consumo de SP +20%
+SKILL_20180418_011039	* Reduz a Evasão de inimigos afetados pelo debuff [Pull Rete] a 0{nl}* Consumo de SP +20%
 SKILL_20180418_011040	Throw Rete: Heavy Net
-SKILL_20180418_011041	* Reduz a esquiva de inimigos afetados pelo debuff [Throw Rete] a 0{nl}* Consumo de SP +20%
+SKILL_20180418_011041	* Reduz a Evasão de inimigos afetados pelo debuff [Throw Rete] a 0{nl}* Consumo de SP +20%
 SKILL_20180418_011042	Dagger Guard: Enhance
 SKILL_20180418_011043	* Aumenta o bloqueio em 1% por nível de atributo, enquanto o buff de [Dagger Guard] estiver ativo{nl}* Consumo de SP +10%
 SKILL_20180418_011044	Dagger Guard: Deflect Projectiles
