@@ -264,8 +264,8 @@ UI_20150317_000263	Introdução
 UI_20150317_000264	{@st43}Inventário{/}
 UI_20150317_000265	{@st59}Fechar{/}
 UI_20150317_000266	{@st59b}Equipamento {nl} {@st59s}- Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Pode usar armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Topo, Calças, Luvas, Calçados. {nl} - Acessórios: Pode equipar 1 Colar e 2 Braceletes. {nl} {/}
-UI_20150317_000267	{@st59}Enfeite de cabelo 1{/}
-UI_20150317_000268	{@st59}Enfeite de cabelo 2{/}
+UI_20150317_000267	{@st59}Acessório 1{/}
+UI_20150317_000268	{@st59}Acessório 2{/}
 UI_20150317_000269	{@st59}Colar{/}
 UI_20150317_000270	{@st59}Traje{/}
 UI_20150317_000271	{@st59}Topo{/}
@@ -1120,7 +1120,7 @@ UI_20150317_001119	Moldura de Item Personalizado
 UI_20150317_001120	Verde
 UI_20150317_001121	Densidade
 UI_20150317_001122	Conforme HP
-UI_20150317_001123	{@st59}Acessórios de Cabelo{/}
+UI_20150317_001123	{@st59}Acessórios{/}
 UI_20150317_001124	{@st59}Acessórios Auxiliares{/}
 UI_20150317_001125	{@St42}Texto{/}
 UI_20150317_001126	Nome de conteúdo básico
@@ -1887,7 +1887,7 @@ UI_20151224_001885	{@st59}Mais Zoom{/}
 UI_20151224_001886	{@st59}Menos Zoom{/}
 UI_20151224_001887	{@st59}Mostrar último ponto teleportado{/}
 UI_20151224_001888	{@st59}Mostrar sua localização atual{/}
-UI_20151224_001889	{@st59}Hair Costume 3{/}
+UI_20151224_001889	{@st59}Acessório 3{/}
 UI_20151224_001890	{@st59}Penteado{/}
 UI_20151224_001891	{@st41b}Cancelar
 UI_20151224_001892	{@st41b}Confirmar
@@ -3238,8 +3238,8 @@ UI_20180629_003237	{@st59}Cabelos{/}
 UI_20180629_003238	{@st59}Cabelos e Tinturas{/}
 UI_20180629_003239	{@st59}Toys{/}
 UI_20180629_003240	{@st66}{s18}Provar{/}
-UI_20180629_003241	{@st41b}{s17}Traje de Cabelo
-UI_20180629_003242	Você pode ocultar/ mostrar todos os seus trajes de cabelo atualmente equipados.
+UI_20180629_003241	{@st41b}{s17}Acessório
+UI_20180629_003242	Você pode ocultar/ mostrar todos os seus Acessórios atualmente equipados.
 UI_20180629_003243	   TP Atual{/}
 UI_20180629_003244	   TP Restante{/}
 UI_20180629_003245	Agora vestindo

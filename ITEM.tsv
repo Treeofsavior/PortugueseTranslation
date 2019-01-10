@@ -1548,7 +1548,7 @@ ITEM_20150317_001547	Paladins have two sets of costumes for different purpose: o
 ITEM_20150317_001548	Shepherd Costume
 ITEM_20150317_001549	Chaplain Costume
 ITEM_20150317_001550	Empty_Hat
-ITEM_20150317_001551	Traje de cabelo
+ITEM_20150317_001551	Acessório
 ITEM_20150317_001552	A costume for the hair slot.{nl}Right-click to equip.
 ITEM_20150317_001553	Cat Ears
 ITEM_20150317_001554	This will gain you affection from a certain animal.
@@ -8696,9 +8696,9 @@ ITEM_20151224_008694	Beholder Costume
 ITEM_20151224_008695	Mercenary Post Manager Costume
 ITEM_20151224_008696	Paladin Master Costume
 ITEM_20151224_008697	Wings of Vaivora Costume
-ITEM_20151224_008698	Traje de Cabelo 1
-ITEM_20151224_008699	Traje de Cabelo 2
-ITEM_20151224_008700	Traje de Cabelo 3
+ITEM_20151224_008698	Acessório 1
+ITEM_20151224_008699	Acessório 2
+ITEM_20151224_008700	Acessório 3
 ITEM_20151224_008701	A hairpin that is finished with precision with the help of a master craftsman. {nl}Right-click to equip.
 ITEM_20151224_008702	New Hat 01
 ITEM_20151224_008703	White Ribbon Decoration Boater
@@ -15921,20 +15921,20 @@ ITEM_20171128_015914	(Faded) Sketis Sword
 ITEM_20171128_015915	(Faded) Pajoritas Sword
 ITEM_20171128_015916	(Faded) Purine Migantis Sword
 ITEM_20171128_015917	(Faded) Purine Pevordimas Sword
-ITEM_20171128_015918	Bertas Migantis Sword
-ITEM_20171128_015919	Bertas Pevordimas Sword
-ITEM_20171128_015920	Bertas Fyringy
-ITEM_20171128_015921	Bertas Harvester
-ITEM_20171128_015922	Bertas Sketis Sword
-ITEM_20171128_015923	Bertas Pajoritas Sword
-ITEM_20171128_015924	Bertas Raffye Sword
+ITEM_20171128_015918	Berthas Migantis Sword
+ITEM_20171128_015919	Berthas Pevordimas Sword
+ITEM_20171128_015920	Berthas Fyringy
+ITEM_20171128_015921	Berthas Harvester
+ITEM_20171128_015922	Berthas Sketis Sword
+ITEM_20171128_015923	Berthas Pajoritas Sword
+ITEM_20171128_015924	Berthas Raffye Sword
 ITEM_20171128_015925	Primus Migatis Sword
 ITEM_20171128_015926	Primus Pevordimas Sword
 ITEM_20171128_015927	Primus Fyringy
 ITEM_20171128_015928	Primus Harvester
 ITEM_20171128_015929	Primus Sketis Sword
 ITEM_20171128_015930	Primus Pajoritas Sword
-ITEM_20171128_015931	Primus Raffy Sword
+ITEM_20171128_015931	Primus Raffye Sword
 ITEM_20171128_015932	Masinios Sword
 ITEM_20171128_015933	Masinios is a wizard who lived in the age of Frienel. He came up with a very unique idea, and he recalled how to combine the power of magic with a machine and manufactured the equipment to which it was applied. The sushi is a product of late life reflects his life study.
 ITEM_20171128_015934	(Faded) Replica Migantis Two-handed Sword
@@ -15948,20 +15948,20 @@ ITEM_20171128_015941	(Faded) Sketis Two-Handed Sword
 ITEM_20171128_015942	(Faded) Pajoritas Two-Handed Sword
 ITEM_20171128_015943	(Faded) Purine Migantis Two-handed Sword
 ITEM_20171128_015944	(Faded) Purine Pevordimas Two-handed Sword
-ITEM_20171128_015945	Bertas Paulownia
-ITEM_20171128_015946	Bertas Crystaras
-ITEM_20171128_015947	Bertas Sketis Two-handed Sword
-ITEM_20171128_015948	Bertas Pajoritas Two-handed Sword
-ITEM_20171128_015949	Bertas Migantis Two-handed Sword
-ITEM_20171128_015950	Bertas Pevordimas Two-handed Sword
-ITEM_20171128_015951	Bertas Raffye Two-handed Sword
-ITEM_20171128_015952	Bertas Paulownia
+ITEM_20171128_015945	Berthas Paulownia
+ITEM_20171128_015946	Berthas Crystaras
+ITEM_20171128_015947	Berthas Sketis Two-handed Sword
+ITEM_20171128_015948	Berthas Pajoritas Two-handed Sword
+ITEM_20171128_015949	Berthas Migantis Two-handed Sword
+ITEM_20171128_015950	Berthas Pevordimas Two-handed Sword
+ITEM_20171128_015951	Berthas Raffye Two-handed Sword
+ITEM_20171128_015952	Berthas Paulownia
 ITEM_20171128_015953	Primus Crystaras
 ITEM_20171128_015954	Primus Sketis Two-handed Sword
 ITEM_20171128_015955	Primus Pajoritas Two-handed Sword
 ITEM_20171128_015956	Primus Migatis Two-handed Sword
 ITEM_20171128_015957	Primus Pevordimas Two-handed Sword
-ITEM_20171128_015958	Primus Raffy Two-handed Sword
+ITEM_20171128_015958	Primus Raffye Two-handed Sword
 ITEM_20171128_015959	Masinios Two-handed Sword
 ITEM_20171128_015960	{@st41b}{s16}{#f98d00}- 1% de chance de ao atacar, por inimigo próximo, até 10%, de ganhar uma carga. Ao ganhar 5 cargas, recebe o status [War Mode] por 10 segundos{nl} {nl}[War Mode]{nl}- Ataque Físico{img green_up_arrow 16 16}120{nl}- Taxa de Ataque em Área{img green_up_arrow 16 16}2{nl}- Defesa Física{img red_down_arrow 16 16}400{nl}- HP Máximo{img red_down_arrow 16 16} 2000
 ITEM_20171128_015961	Because magic is easy to solve most things, there is no need for a mechanical device that transfers the physical force of magic. However, Masinios was engaged in the idea that the machine delivered power rather than physical power. However, this two-hand sword is called work when his research is still weak. But thanks to it, the magical effect is rather stronger.
@@ -15976,13 +15976,13 @@ ITEM_20171128_015969	(Faded) Sketis Rod
 ITEM_20171128_015970	(Faded) Pajoritas Rod
 ITEM_20171128_015971	(Faded) Purine Migantis Rod
 ITEM_20171128_015972	(Faded) Purine Pevordimas Rod
-ITEM_20171128_015973	Bertas Baule Sphere
-ITEM_20171128_015974	Bertas Pamane Rod
-ITEM_20171128_015975	Bertas Sketis Rod
-ITEM_20171128_015976	Bertas Pajoritas Rod
-ITEM_20171128_015977	Bertas Migantis Rod
-ITEM_20171128_015978	Bertas Pevordimas Rod
-ITEM_20171128_015979	Bertas Raffye Rod
+ITEM_20171128_015973	Berthas Baule Sphere
+ITEM_20171128_015974	Berthas Pamane Rod
+ITEM_20171128_015975	Berthas Sketis Rod
+ITEM_20171128_015976	Berthas Pajoritas Rod
+ITEM_20171128_015977	Berthas Migantis Rod
+ITEM_20171128_015978	Berthas Pevordimas Rod
+ITEM_20171128_015979	Berthas Raffye Rod
 ITEM_20171128_015980	Primus Baule Sphere
 ITEM_20171128_015981	Primus Pamane Rod
 ITEM_20171128_015982	Primus Sketis Rod
@@ -16004,20 +16004,20 @@ ITEM_20171128_015997	(Faded) Sketis Bow
 ITEM_20171128_015998	(Faded) Pajoritas Bow
 ITEM_20171128_015999	(Faded) Purine Migantis Bow
 ITEM_20171128_016000	(Faded) Purine Pevordimas Bow
-ITEM_20171128_016001	Bertas Even Eye
-ITEM_20171128_016002	Bertas Devini Bow
-ITEM_20171128_016003	Bertas Sketis Bow
-ITEM_20171128_016004	Bertas Pajoritas Bow
-ITEM_20171128_016005	Bertas Migantis Bow
-ITEM_20171128_016006	Bertas Pevordimas Bow
-ITEM_20171128_016007	Bertas Raffye Bow
+ITEM_20171128_016001	Berthas Even Eye
+ITEM_20171128_016002	Berthas Devini Bow
+ITEM_20171128_016003	Berthas Sketis Bow
+ITEM_20171128_016004	Berthas Pajoritas Bow
+ITEM_20171128_016005	Berthas Migantis Bow
+ITEM_20171128_016006	Berthas Pevordimas Bow
+ITEM_20171128_016007	Berthas Raffye Bow
 ITEM_20171128_016008	Primus Even Eye
 ITEM_20171128_016009	Primus Devini Bow
 ITEM_20171128_016010	Primus Sketis Bow
 ITEM_20171128_016011	Primus Pajoritas Bow
 ITEM_20171128_016012	Primus Migatis Bow
 ITEM_20171128_016013	Primus Pevordimas Bow
-ITEM_20171128_016014	Primus Raffy Bow
+ITEM_20171128_016014	Primus Raffye Bow
 ITEM_20171128_016015	Masinios Bow
 ITEM_20171128_016016	{@st41b}{s16}{#f98d00}- Chance de 10% de reduzir a Resistência a crítico ao atacar em {img red_down_arrow 16 16}10 por 5 segundos{nl}Acumula 20 vezes
 ITEM_20171128_016017	Rumor has it all, but when this bow was released to the world, Lucid Winter Spoon told me that it would have been nice if Masinios had actually experienced the battle of a different career and widened the scope of the accident. Of course, she can not confirm it because she rarely answers questions about old people who lived in the same era as her past. 
@@ -16032,13 +16032,13 @@ ITEM_20171128_016025	(Faded) Sketis Crossbow
 ITEM_20171128_016026	(Faded) Pajoritas Crossbow
 ITEM_20171128_016027	(Faded) Purine Migantis Crossbow
 ITEM_20171128_016028	(Faded) Purine Pevordimas Crossbow
-ITEM_20171128_016029	Bertas Star Shooter
-ITEM_20171128_016030	Bertas Chrisius Shooter
-ITEM_20171128_016031	Bertas Sketis Crossbow
-ITEM_20171128_016032	Bertas Pajoritas Crossbow
-ITEM_20171128_016033	Bertas Migantis Crossbow
-ITEM_20171128_016034	Bertas Pevordimas Crossbow
-ITEM_20171128_016035	Bertas Raffye Crossbow
+ITEM_20171128_016029	Berthas Star Shooter
+ITEM_20171128_016030	Berthas Chrisius Shooter
+ITEM_20171128_016031	Berthas Sketis Crossbow
+ITEM_20171128_016032	Berthas Pajoritas Crossbow
+ITEM_20171128_016033	Berthas Migantis Crossbow
+ITEM_20171128_016034	Berthas Pevordimas Crossbow
+ITEM_20171128_016035	Berthas Raffye Crossbow
 ITEM_20171128_016036	Primus Star Shooter
 ITEM_20171128_016037	Primus Crisius Shooter
 ITEM_20171128_016038	Primus Sketis Crossbow
@@ -16060,20 +16060,20 @@ ITEM_20171128_016053	(Faded) Sketis Mace
 ITEM_20171128_016054	(Faded) Pajoritas Mace
 ITEM_20171128_016055	(Faded) Purine Migantis Mace
 ITEM_20171128_016056	(Faded) Purine Pevordimas Mace
-ITEM_20171128_016057	Bertas Krendall Mace
-ITEM_20171128_016058	Bertas Reine Mace
-ITEM_20171128_016059	Bertas Sketis Mace
-ITEM_20171128_016060	Bertas Pajoritas Mace
-ITEM_20171128_016061	Bertas Migantis Mace
-ITEM_20171128_016062	Bertas Pevordimas Mace
-ITEM_20171128_016063	Bertas Raffye Mace
+ITEM_20171128_016057	Berthas Krendall Mace
+ITEM_20171128_016058	Berthas Reine Mace
+ITEM_20171128_016059	Berthas Sketis Mace
+ITEM_20171128_016060	Berthas Pajoritas Mace
+ITEM_20171128_016061	Berthas Migantis Mace
+ITEM_20171128_016062	Berthas Pevordimas Mace
+ITEM_20171128_016063	Berthas Raffye Mace
 ITEM_20171128_016064	Primus Krendall Mace
 ITEM_20171128_016065	Primus Reine Mace
 ITEM_20171128_016066	Primus Sketis Mace
 ITEM_20171128_016067	Primus Pajoritas Mace
 ITEM_20171128_016068	Primus Migatis Mace
 ITEM_20171128_016069	Primus Pevordimas Mace
-ITEM_20171128_016070	Primus Raffy Mace
+ITEM_20171128_016070	Primus Raffye Mace
 ITEM_20171128_016071	Masinios Mace
 ITEM_20171128_016072	{@st41b}{s16}{#f98d00}- 30% de chance de causar 2000 de dano da propriedade Elétrico{img attri_Lightning 20 20}
 ITEM_20171128_016073	It is the weapon that uses the physical pipe rather than the jewelery which the majors of the great contemporaries mainly use the expansion of the power. It is a choice of Masinios, and corresponds to his early mid-1970s production.
@@ -16085,18 +16085,18 @@ ITEM_20171128_016078	(Faded) Reine Two-handed Mace
 ITEM_20171128_016079	(Faded) Pajoritas Two-Handed Mace
 ITEM_20171128_016080	(Faded) Purine Migantis Two-handed Mace
 ITEM_20171128_016081	(Faded) Purine Pevordimas Two-handed Mace
-ITEM_20171128_016082	Bertas Krendall Two-handed Mace
-ITEM_20171128_016083	Bertas Reine Two-handed  Mace
-ITEM_20171128_016084	Bertas Pajoritas Two-handed Mace
-ITEM_20171128_016085	Bertas Migantis Two-handed Mace
-ITEM_20171128_016086	Bertas Pevordimas Two-handed Mace
-ITEM_20171128_016087	Bertas Raffye Two-handed Mace
+ITEM_20171128_016082	Berthas Krendall Two-handed Mace
+ITEM_20171128_016083	Berthas Reine Two-handed  Mace
+ITEM_20171128_016084	Berthas Pajoritas Two-handed Mace
+ITEM_20171128_016085	Berthas Migantis Two-handed Mace
+ITEM_20171128_016086	Berthas Pevordimas Two-handed Mace
+ITEM_20171128_016087	Berthas Raffye Two-handed Mace
 ITEM_20171128_016088	Primus Krendall Two-handed Mace
 ITEM_20171128_016089	Primus Reine Two-handed Mace
 ITEM_20171128_016090	Primus Pajoritas Two-handed Mace
 ITEM_20171128_016091	Primus Migatis Two-handed Mace
 ITEM_20171128_016092	rimus Pevordimas Two-handed Mace
-ITEM_20171128_016093	Primus Raffy Two-handed Mace
+ITEM_20171128_016093	Primus Raffye Two-handed Mace
 ITEM_20171128_016094	Masinios Two-handed Mace
 ITEM_20171128_016095	This is the result of improving the mace made by Masinios himself. The mace and two-handed mace are distinctly different in performance from each other. I do not know if I can change the way this performance comes out.
 ITEM_20171128_016096	(Faded) Replica Migantis Shield
@@ -16111,13 +16111,13 @@ ITEM_20171128_016104	(Faded) Sketis Shield
 ITEM_20171128_016105	(Faded) Pajoritas Shield
 ITEM_20171128_016106	(Faded) Purine Migantis Shield
 ITEM_20171128_016107	(Faded) Purine Pevordimas Shield
-ITEM_20171128_016108	Bertas Spike Kindl
-ITEM_20171128_016109	Bertas Rodeleine Shield
-ITEM_20171128_016110	Bertas Sketis Shield
-ITEM_20171128_016111	Bertas Pajoritas Shield
-ITEM_20171128_016112	Bertas Migantis Shield
-ITEM_20171128_016113	Bertas Pevordimas Shield
-ITEM_20171128_016114	Bertas Raffye Shield
+ITEM_20171128_016108	Berthas Spike Kindl
+ITEM_20171128_016109	Berthas Rodeleine Shield
+ITEM_20171128_016110	Berthas Sketis Shield
+ITEM_20171128_016111	Berthas Pajoritas Shield
+ITEM_20171128_016112	Berthas Migantis Shield
+ITEM_20171128_016113	Berthas Pevordimas Shield
+ITEM_20171128_016114	Berthas Raffye Shield
 ITEM_20171128_016115	 - Final Block Rate {img green_up_arrow 16 16}2% - 8% chance to reduce damage by {img red_down_arrow 16 16} 50% when hit
 ITEM_20171128_016116	 - Final Block Rate {img green_up_arrow 16 16}3%{nl} - Increases all Peltasta skill level by {img green_up_arrow 16 16}1 {nl}  -  Increases all Rodelero skill levels by  {img green_up_arrow 16 16}1 
 ITEM_20171128_016117	Primus Spike Kindl
@@ -16126,7 +16126,7 @@ ITEM_20171128_016119	Primus Sketis Shield
 ITEM_20171128_016120	Primus Pajoritas Shield
 ITEM_20171128_016121	Primus Migatis Shield
 ITEM_20171128_016122	Primus Pevordimas Shield
-ITEM_20171128_016123	Primus Raffy Shield
+ITEM_20171128_016123	Primus Raffye Shield
 ITEM_20171128_016124	Masinios Shield
 ITEM_20171128_016125	It is a shield made at the request of an anonymous noble at the time of Marc Nios. Since then, the recipe has not been made known, but according to the will of Marcinius, it has been released to the world after death. This post-release process has been commonly applied to products that he has made upon the request of several nobles to fund his research.
 ITEM_20171128_016126	(Faded) Replica Migantis Spear
@@ -16142,20 +16142,20 @@ ITEM_20171128_016135	(Faded) Sketis Spear
 ITEM_20171128_016136	(Faded) Pajoritas Spear
 ITEM_20171128_016137	(Faded) Purine Migantis Spear
 ITEM_20171128_016138	(Faded) Purine Pevordimas Spear
-ITEM_20171128_016139	Bertas Fluke Spear
-ITEM_20171128_016140	Bertas Golden Spear
-ITEM_20171128_016141	Bertas Sketis Spear
-ITEM_20171128_016142	Bertas Pajoritas Spear
-ITEM_20171128_016143	Bertas Migantis Spear
-ITEM_20171128_016144	Bertas Pevordimas Spear
-ITEM_20171128_016145	Bertas Raffye Spear
+ITEM_20171128_016139	Berthas Fluke Spear
+ITEM_20171128_016140	Berthas Golden Spear
+ITEM_20171128_016141	Berthas Sketis Spear
+ITEM_20171128_016142	Berthas Pajoritas Spear
+ITEM_20171128_016143	Berthas Migantis Spear
+ITEM_20171128_016144	Berthas Pevordimas Spear
+ITEM_20171128_016145	Berthas Raffye Spear
 ITEM_20171128_016146	Primus Fluke Spear
 ITEM_20171128_016147	Primus Golden Spear
 ITEM_20171128_016148	Primus Sketis Spear
 ITEM_20171128_016149	Primus Pajoritas Spear
 ITEM_20171128_016150	Primus Migatis Spear
 ITEM_20171128_016151	Primus Pevordimas Spear
-ITEM_20171128_016152	Primus Raffy Spear
+ITEM_20171128_016152	Primus Raffye Spear
 ITEM_20171128_016153	Masinios Spear
 ITEM_20171128_016154	{@st41b}{s16}{#f98d00} - Adiciona uma chance de 5% de causar dano adicional igual ao seu Dano Elemental Elétrico x10
 ITEM_20171128_016155	Masinios could not get enough of his machine in the future, so he changed his name to Masinios. Because of his renamed name was never known to be buried in the darkness of history forever. However, Masinios Spear is made by the recipe he invented before his rebirth, so he has the potential to track him in reverse through the horsepower left in the recipe. However, since Masinios is not such a popular past person, no one tries that far.
@@ -16171,20 +16171,20 @@ ITEM_20171128_016164	(Faded) Sketis Pike
 ITEM_20171128_016165	(Faded) Pajoritas Pike
 ITEM_20171128_016166	(Faded) Purine Migantis Pike
 ITEM_20171128_016167	(Faded) Purine Pevordimas Pike
-ITEM_20171128_016168	Bertas Benesda
-ITEM_20171128_016169	Bertas Reine Pike
-ITEM_20171128_016170	Bertas Sketis Pike
-ITEM_20171128_016171	Bertas Pajoritas Pike
-ITEM_20171128_016172	Bertas Migantis Pike
-ITEM_20171128_016173	Bertas Pevordimas Pike
-ITEM_20171128_016174	Bertas Raffye Pike
+ITEM_20171128_016168	Berthas Benesda
+ITEM_20171128_016169	Berthas Reine Pike
+ITEM_20171128_016170	Berthas Sketis Pike
+ITEM_20171128_016171	Berthas Pajoritas Pike
+ITEM_20171128_016172	Berthas Migantis Pike
+ITEM_20171128_016173	Berthas Pevordimas Pike
+ITEM_20171128_016174	Berthas Raffye Pike
 ITEM_20171128_016175	Primus Benesda
 ITEM_20171128_016176	Primus Reine Pike
 ITEM_20171128_016177	Primus Sketis Pike
 ITEM_20171128_016178	Primus Pajoritas Pike
 ITEM_20171128_016179	Primus Migatis Pike
 ITEM_20171128_016180	Primus Pevordimas Pike
-ITEM_20171128_016181	Primus Raffy Pike
+ITEM_20171128_016181	Primus Raffye Pike
 ITEM_20171128_016182	Masinios Pike
 ITEM_20171128_016183	{@st41b}{s16}{#f98d00} - 10% de chance ao atacar de reduzir sua Stamina em 1.5 para aplicar o status [Colisão]. [Colisão] mudará para [Contração de Colisão] quando acumulado 10 vezes em 10 segundos. {nl} {nl} *[Contração de Colisão]{nl} - Aplica o debuff de Lentidão por 10 segundos {nl} - Defesa Física {img red_down_arrow 16 16}800
 ITEM_20171128_016184	This Pike is said to have made it to the needs of a certain nobleman when he was no longer paid by the Mages' Association. Wizards of the time would not have been able to understand Masinios, who was studying machinery that could not be called magic.
@@ -16201,20 +16201,20 @@ ITEM_20171128_016194	(Faded) Sketis Dagger
 ITEM_20171128_016195	(Faded) Pajoritas Dagger
 ITEM_20171128_016196	(Faded) Purine Migantis Dagger
 ITEM_20171128_016197	(Faded) Purine Pevordimas Dagger
-ITEM_20171128_016198	Bertas Short Duelist
-ITEM_20171128_016199	Bertas Small Crystaras
-ITEM_20171128_016200	Bertas Sketis Dagger
-ITEM_20171128_016201	Bertas Pajoritas Dagger
-ITEM_20171128_016202	Bertas Migantis Dagger
-ITEM_20171128_016203	Bertas Pevordimas Dagger
-ITEM_20171128_016204	Bertas Raffye Dagger
+ITEM_20171128_016198	Berthas Short Duelist
+ITEM_20171128_016199	Berthas Small Crystaras
+ITEM_20171128_016200	Berthas Sketis Dagger
+ITEM_20171128_016201	Berthas Pajoritas Dagger
+ITEM_20171128_016202	Berthas Migantis Dagger
+ITEM_20171128_016203	Berthas Pevordimas Dagger
+ITEM_20171128_016204	Berthas Raffye Dagger
 ITEM_20171128_016205	Primus Short Duelist
-ITEM_20171128_016206	Bertas Small Crystaras
+ITEM_20171128_016206	Berthas Small Crystaras
 ITEM_20171128_016207	Primus Sketis Dagger
 ITEM_20171128_016208	Primus Pajoritas Dagger
 ITEM_20171128_016209	Primus Migatis Dagger
 ITEM_20171128_016210	Primus Pevordimas Dagger
-ITEM_20171128_016211	Primus Raffy Dagger
+ITEM_20171128_016211	Primus Raffye Dagger
 ITEM_20171128_016212	Masinios Dagger
 ITEM_20171128_016213	{@st41b}{s16}{#f98d00} - Aumenta o dano do Backstab em 150%
 ITEM_20171128_016214	According to rumors, it is said to be a method of production devised at the request of famous Shinobi. Of course, it would have been the greatest reason for funding the research in Masinios.
@@ -16229,20 +16229,20 @@ ITEM_20171128_016222	(Faded) Sketis Staff
 ITEM_20171128_016223	(Faded) Pajoritas Staff
 ITEM_20171128_016224	(Faded) Purine Migantis Staff
 ITEM_20171128_016225	(Faded) Purine Pevordimas Staff
-ITEM_20171128_016226	Bertas Elinis
-ITEM_20171128_016227	Bertas Tiesa Staff
-ITEM_20171128_016228	Bertas Sketis Staff
-ITEM_20171128_016229	Bertas Pajoritas Staff
-ITEM_20171128_016230	Bertas Migantis Staff
-ITEM_20171128_016231	Bertas Pevordimas Staff
-ITEM_20171128_016232	Bertas Raffye Staff
+ITEM_20171128_016226	Berthas Elinis
+ITEM_20171128_016227	Berthas Tiesa Staff
+ITEM_20171128_016228	Berthas Sketis Staff
+ITEM_20171128_016229	Berthas Pajoritas Staff
+ITEM_20171128_016230	Berthas Migantis Staff
+ITEM_20171128_016231	Berthas Pevordimas Staff
+ITEM_20171128_016232	Berthas Raffye Staff
 ITEM_20171128_016233	Primus Elinis
 ITEM_20171128_016234	Primus Tiesa Staff
 ITEM_20171128_016235	Primus Sketis Staff
 ITEM_20171128_016236	Primus Pajoritas Staff
 ITEM_20171128_016237	Primus Migatis Staff
 ITEM_20171128_016238	Primus Pevordimas Staff
-ITEM_20171128_016239	Primus Raffy Staff
+ITEM_20171128_016239	Primus Raffye Staff
 ITEM_20171128_016240	Masinios Staff
 ITEM_20171128_016241	In the tower of the wizard, it was discovered that the devices installed by Agailla Flurry were involved in the collection and accumulation of some power, not the operation of magic, and the magic amplification of Masinios' Performance is high. 
 ITEM_20171128_016242	(Faded) Replica Migantis Pistol
@@ -16256,16 +16256,16 @@ ITEM_20171128_016249	(Faded) Alcris
 ITEM_20171128_016250	(Faded) Pajoritas Pistol
 ITEM_20171128_016251	(Faded) Purine Migantis Pistol
 ITEM_20171128_016252	(Faded) Purine Pevordimas Pistol
-ITEM_20171128_016253	Bertas Alcris
-ITEM_20171128_016254	Bertas Pajoritas Pistol
-ITEM_20171128_016255	Bertas Migantis Pistol
-ITEM_20171128_016256	Bertas Pevordimas Pistol
-ITEM_20171128_016257	Bertas Raffye Pistol
+ITEM_20171128_016253	Berthas Alcris
+ITEM_20171128_016254	Berthas Pajoritas Pistol
+ITEM_20171128_016255	Berthas Migantis Pistol
+ITEM_20171128_016256	Berthas Pevordimas Pistol
+ITEM_20171128_016257	Berthas Raffye Pistol
 ITEM_20171128_016258	Primus Alcris
 ITEM_20171128_016259	Primus Pajoritas Pistol
 ITEM_20171128_016260	Primus Migatis Pistol
 ITEM_20171128_016261	Primus Pevordimas Pistol
-ITEM_20171128_016262	Primus Raffy Pistol
+ITEM_20171128_016262	Primus Raffye Pistol
 ITEM_20171128_016263	Masinios Pistol
 ITEM_20171128_016264	{@st41b}{s16}{#f98d00} - Aumenta o nível das skills Full Metal Jacket, Limacon e Pistol Shot em {img green_up_arrow 16 16}1
 ITEM_20171128_016265	The general assessment of this weapon is that I did not know about the gunpowder because I know the magic and magic, but also the machine.
@@ -16278,16 +16278,16 @@ ITEM_20171128_016271	(Faded) Red Karuna
 ITEM_20171128_016272	(Faded) Pajoritas Rapier
 ITEM_20171128_016273	(Faded) Purine Migantis Rapier
 ITEM_20171128_016274	(Faded) Purine Pevordimas Rapier
-ITEM_20171128_016275	Bertas Red Karuna
-ITEM_20171128_016276	Bertas Pajoritas Rapier
-ITEM_20171128_016277	Bertas Migantis Rapier
-ITEM_20171128_016278	Bertas Pevordimas Rapier
-ITEM_20171128_016279	Bertas Raffye Rapier
+ITEM_20171128_016275	Berthas Red Karuna
+ITEM_20171128_016276	Berthas Pajoritas Rapier
+ITEM_20171128_016277	Berthas Migantis Rapier
+ITEM_20171128_016278	Berthas Pevordimas Rapier
+ITEM_20171128_016279	Berthas Raffye Rapier
 ITEM_20171128_016280	Primus Red Karuna
 ITEM_20171128_016281	Primus Pajoritas Rapier
 ITEM_20171128_016282	Primus Migatis Rapier
 ITEM_20171128_016283	Primus Pevordimas Rapier
-ITEM_20171128_016284	Primus Raffy Rapier
+ITEM_20171128_016284	Primus Raffye Rapier
 ITEM_20171128_016285	Masinios Rapier
 ITEM_20171128_016286	{@st41b}{s16}{#f98d00} - 15% de chance de, ao atacar, obter o status [Afiação] por 5 segundos. Quando [Afiação] acumular 5 vezes, seu próximo ataque básico golpeará 5 vezes.{nl} {nl}[Afiação]{nl} - Ataque Crítico {img green_up_arrow 16 16} 60
 ITEM_20171128_016287	According to one theory, the reason that Masinios became a wizard and devoted himself to the machine is contradictory, but it is due to Agailla Flurry, the ultimate wizard of all time. It is argued that she was attracted to the machine installed in the tower of the wizard she created. This rapier is said to be the work of the time when Masinios still considered magic and added machines.
@@ -16300,14 +16300,14 @@ ITEM_20171128_016293	Raffye Cannon
 ITEM_20171128_016294	(Faded) Pajoritas Cannon
 ITEM_20171128_016295	(Faded) Purine Migantis Cannon
 ITEM_20171128_016296	(Faded) Purine Pevordimas Cannon
-ITEM_20171128_016297	Bertas Pajoritas Cannon
-ITEM_20171128_016298	Bertas Migantis Cannon
-ITEM_20171128_016299	Bertas Pevordimas Cannon
-ITEM_20171128_016300	Bertas Raffye Cannon
+ITEM_20171128_016297	Berthas Pajoritas Cannon
+ITEM_20171128_016298	Berthas Migantis Cannon
+ITEM_20171128_016299	Berthas Pevordimas Cannon
+ITEM_20171128_016300	Berthas Raffye Cannon
 ITEM_20171128_016301	Primus Pajoritas Cannon
 ITEM_20171128_016302	Primus Migatis Cannon
 ITEM_20171128_016303	Primus Pevordimas Cannon
-ITEM_20171128_016304	Primus Raffy Cannon
+ITEM_20171128_016304	Primus Raffye Cannon
 ITEM_20171128_016305	Masinios Cannon
 ITEM_20171128_016306	{@st41b}{s16}{#f98d00} - Aumenta o nível das skills Swiping Cannon e Bazooka em {img green_up_arrow 16 16}1
 ITEM_20171128_016307	It is common to say that the gears, including the serrations that are installed on the tower of the wizard, are not devices that use magic, but rather a device that draws some power and puts it in the tower. Masinios misunderstood this point and handled the machine, so the weapons he invented could have been much better, but they did not. This is also true of Canon.
@@ -16319,14 +16319,14 @@ ITEM_20171128_016312	Raffye Musket
 ITEM_20171128_016313	(Faded) Pajoritas Musket
 ITEM_20171128_016314	(Faded) Purine Migantis Musket
 ITEM_20171128_016315	(Faded) Purine Pevordimas Musket
-ITEM_20171128_016316	Bertas Pajoritas Musket
-ITEM_20171128_016317	Bertas Migantis Musket
-ITEM_20171128_016318	Bertas Pevordimas Musket
-ITEM_20171128_016319	Bertas Raffye Musket
+ITEM_20171128_016316	Berthas Pajoritas Musket
+ITEM_20171128_016317	Berthas Migantis Musket
+ITEM_20171128_016318	Berthas Pevordimas Musket
+ITEM_20171128_016319	Berthas Raffye Musket
 ITEM_20171128_016320	Primus Pajoritas Musket
 ITEM_20171128_016321	Primus Migatis Musket
 ITEM_20171128_016322	Primus Pevordimas Musket
-ITEM_20171128_016323	Primus Raffy Musket
+ITEM_20171128_016323	Primus Raffye Musket
 ITEM_20171128_016324	Masinios Musket
 ITEM_20171128_016325	{@st41b}{s16}{#f98d00}- 10% de chance de, ao acertar um golpe crítico, reduzir o Bloqueio do inimigo em {img red_down_arrow 16 16}400
 ITEM_20171128_016326	The Masinios muskets were made from a method designed in the latter half of Masino's life. He is regarded as a relatively successful work among his attempts to achieve success by combining magic and machine.
@@ -17226,22 +17226,22 @@ ITEM_20171211_017219	Primus Basticle Gauntlets [Untradable]
 ITEM_20171211_017220	Primus Irellis Boots [Untradable]
 ITEM_20171211_017221	Primus Jevenellis Leather Boots [Untradable]
 ITEM_20171211_017222	Primus Basticle Greaves [Untradable]
-ITEM_20171211_017223	Primus Raffy Sword [Untradable]
-ITEM_20171211_017224	Primus Raffy Two-handed Sword [Untradable]
-ITEM_20171211_017225	Primus Raffy Mace [Untradable]
-ITEM_20171211_017226	Primus Raffy Staff [Untradable]
+ITEM_20171211_017223	Primus Raffye Sword [Untradable]
+ITEM_20171211_017224	Primus Raffye Two-handed Sword [Untradable]
+ITEM_20171211_017225	Primus Raffye Mace [Untradable]
+ITEM_20171211_017226	Primus Raffye Staff [Untradable]
 ITEM_20171211_017227	Primus Raffye Rod [Untradable]
-ITEM_20171211_017228	Primus Raffy Two-handed Mace [Untradable]
-ITEM_20171211_017229	Primus Raffy Dagger [Untradable]
-ITEM_20171211_017230	Primus Raffy Spear [Untradable]
-ITEM_20171211_017231	Primus Raffy Pike [Untradable]
-ITEM_20171211_017232	Primus Raffy Rapier [Untradable]
+ITEM_20171211_017228	Primus Raffye Two-handed Mace [Untradable]
+ITEM_20171211_017229	Primus Raffye Dagger [Untradable]
+ITEM_20171211_017230	Primus Raffye Spear [Untradable]
+ITEM_20171211_017231	Primus Raffye Pike [Untradable]
+ITEM_20171211_017232	Primus Raffye Rapier [Untradable]
 ITEM_20171211_017233	Primus Raffye Crossbow [Untradable]
-ITEM_20171211_017234	Primus Raffy Bow [Untradable]
-ITEM_20171211_017235	Primus Raffy Pistol [Untradable]
-ITEM_20171211_017236	Primus Raffy Cannon [Untradable]
-ITEM_20171211_017237	Primus Raffy Musket [Untradable]
-ITEM_20171211_017238	Primus Raffy Shield [Untradable]
+ITEM_20171211_017234	Primus Raffye Bow [Untradable]
+ITEM_20171211_017235	Primus Raffye Pistol [Untradable]
+ITEM_20171211_017236	Primus Raffye Cannon [Untradable]
+ITEM_20171211_017237	Primus Raffye Musket [Untradable]
+ITEM_20171211_017238	Primus Raffye Shield [Untradable]
 ITEM_20171211_017239	This ticket is used to guess today's lucky number.{nl}Each ticket gives you one try at guessing it.{nl}You can also use this ticket to move to a city of your choice instead, and get 20 seconds of increased movement speed.
 ITEM_20171211_017240	Homecoming Gift (14 Days)
 ITEM_20171211_017241	Homecoming Gift (14 Days)
@@ -17824,10 +17824,10 @@ ITEM_20180320_017810	Lenda do Mausoléu
 ITEM_20180320_017811	História do mausoléu real de Zachariel o Grande. Clique com o botão direito do mouse para ler.
 ITEM_20180320_017812	Enciclopédia dos Mestres, Capítulo 3
 ITEM_20180320_017813	História dos atiais Mestres de Classe, escrito pelo Mestre Sage. Clique com o botão direito do mouse para ler.
-ITEM_20180320_017814	Ancient Affairs: Concerning Boruta	태고의 사건들 : 보루타에 관하여				
-ITEM_20180320_017815	Story of the legendary dragon Boruta. Right-click to read. 
-ITEM_20180320_017816	Herrmun-Madale River Crossing Incident	허먼메데일 도하 사건				
-ITEM_20180320_017817	Story of the Herrmun-Madale river crossing incident during the era of Jeromel I. Right-click to read. 
+ITEM_20180320_017814	Assuntos Antigos: Sobre Boruta
+ITEM_20180320_017815	História do lendário dragão Boruta. Clique com o botão direito do mouse para ler.
+ITEM_20180320_017816	Incidente de Herrmun-Madale
+ITEM_20180320_017817	História do incidente Herrmun-Madale de travessia do rio, durante a era de Jeromel I. Clique com o botão direito do mouse para ler.
 ITEM_20180320_017818	Taokaka's Adventure	타오카카의 모험				
 ITEM_20180320_017819	Story of Taokaka's adventure during the era of King Melkhiel. Right-click to read. 
 ITEM_20180320_017820	Chridela Otero Diaries Pt. 1	크리델라 오테로 이야기 1권				
