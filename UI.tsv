@@ -263,12 +263,12 @@ UI_20150317_000262	Consumo de Moedas: 0
 UI_20150317_000263	Introdução
 UI_20150317_000264	{@st43}Inventário{/}
 UI_20150317_000265	{@st59}Fechar{/}
-UI_20150317_000266	{@st59b}Equipamento {nl} {@st59s}- Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Pode usar armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Parte de Cima, Calças, Luvas, Calçados. {nl} - Acessórios: Pode equipar 1 Colar e 2 Braceletes. {nl} {/}
-UI_20150317_000267	{@st59}Enfeite de cabelo 1{/}
-UI_20150317_000268	{@st59}Enfeite de cabelo 2{/}
+UI_20150317_000266	{@st59b}Equipamento {nl} {@st59s}- Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Pode usar armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Topo, Calças, Luvas, Calçados. {nl} - Acessórios: Pode equipar 1 Colar e 2 Braceletes. {nl} {/}
+UI_20150317_000267	{@st59}Acessório 1{/}
+UI_20150317_000268	{@st59}Acessório 2{/}
 UI_20150317_000269	{@st59}Colar{/}
 UI_20150317_000270	{@st59}Traje{/}
-UI_20150317_000271	{@st59}Parte de Cima{/}
+UI_20150317_000271	{@st59}Topo{/}
 UI_20150317_000272	{@st59}Luvas{/}
 UI_20150317_000273	{@st59}Calças{/}
 UI_20150317_000274	{@st59}Sapatos{/}
@@ -1120,7 +1120,7 @@ UI_20150317_001119	Moldura de Item Personalizado
 UI_20150317_001120	Verde
 UI_20150317_001121	Densidade
 UI_20150317_001122	Conforme HP
-UI_20150317_001123	{@st59}Acessórios de Cabelo{/}
+UI_20150317_001123	{@st59}Acessórios{/}
 UI_20150317_001124	{@st59}Acessórios Auxiliares{/}
 UI_20150317_001125	{@St42}Texto{/}
 UI_20150317_001126	Nome de conteúdo básico
@@ -1565,7 +1565,7 @@ UI_20150714_001563	{@st41b}Remover Mesa de Refeição
 UI_20150714_001564	{@st42}Minha Habilidade de Invocação
 UI_20150714_001565	{@st42}Atributo
 UI_20150714_001566	{@st42}Local Atual: %s{/}
-UI_20150714_001567	{@st59b}Equipamento {nl}{@st59s} - Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Parte de Cima, Calças, Luvas, Calçados. {nl} - Acessórios: 1 Colar e 2 Braceletes. {nl} {/}
+UI_20150714_001567	{@st59b}Equipamento {nl}{@st59s} - Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Topo, Calças, Luvas, Calçados. {nl} - Acessórios: 1 Colar e 2 Braceletes. {nl} {/}
 UI_20150714_001568	{@st43}Abrir %s Loja {/}
 UI_20150714_001569	{@st41b}Lapidação{/}
 UI_20150714_001570	{@st66}Selecionar Tudo
@@ -1887,7 +1887,7 @@ UI_20151224_001885	{@st59}Mais Zoom{/}
 UI_20151224_001886	{@st59}Menos Zoom{/}
 UI_20151224_001887	{@st59}Mostrar último ponto teleportado{/}
 UI_20151224_001888	{@st59}Mostrar sua localização atual{/}
-UI_20151224_001889	{@st59}Hair Costume 3{/}
+UI_20151224_001889	{@st59}Acessório 3{/}
 UI_20151224_001890	{@st59}Penteado{/}
 UI_20151224_001891	{@st41b}Cancelar
 UI_20151224_001892	{@st41b}Confirmar
@@ -2054,12 +2054,12 @@ UI_20160224_002052	You can store tradable items, but at the cost of 1 Potential.
 UI_20160224_002053	Receber Item
 UI_20160224_002054	General : /s (chat){nl}Shout : /y (chat){nl}Party : /p (chat){nl}Whisper : /w Team Nome (chat){nl}Reply : /r (chat){nl} {nl}Able to switch with the Tab key
 UI_20160224_002055	{@59}Fechar{/}
-UI_20160224_002056	Challenge
-UI_20160224_002057	Please choose to proceed
-UI_20160224_002058	{@st63_yellow}Abandoned :{/}
-UI_20160224_002059	Receive a reward and leave.
-UI_20160224_002060	{@st63_yellow}Challenge :{/}
-UI_20160224_002061	Moving to the next floor
+UI_20160224_002056	Seguir
+UI_20160224_002057	Escolha para uma opção:
+UI_20160224_002058	{@st63_yellow}Abandonar:{/}
+UI_20160224_002059	Receber recompensa e sair
+UI_20160224_002060	{@st63_yellow}Seguir:{/}
+UI_20160224_002061	Continuar subindo
 UI_20160224_002062	{@st43}Coletor de Relíquias{/}
 UI_20160224_002063	{@st59}Fechar{/}
 UI_20160224_002064	{@st59b}Exchange Items{nl}{@st59s} - Able to exchange items obtained from the Earth Tower{nl} - The exchange begins after inserting the item ingredients in the slot.{nl}{/}
@@ -2976,7 +2976,7 @@ UI_20171128_002975	Voltando à classe anterior.
 UI_20171128_002976	Nome do Mapa
 UI_20171128_002977	{@st42b}Usar
 UI_20171128_002978	Cosumo de itens para entrar em Raid Dungeon -2
-UI_20180108_002979	{@st59}Traje de Efeito{/}
+UI_20180108_002979	{@st59}Efeito Especial{/}
 UI_20180115_002980	{@st66b}{s16}*Itens permanecem trocáveis apenas se possuir N° de Trocas disponíveis.{/}{/}
 UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}Sem trocas disponíveis{/}{@st66b} siginifica que {/} {@st66d_y}todos os itens{nl}não poderão ser comercializados ou depositados no Armazém{/}{@st66b}.{/}{/}
 UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Tokens de evento não possuem n° de trocas.{nl}{/} {@st66b}Certifique-se de verificar a contagem antes da negociação.{/}{/}
@@ -3238,8 +3238,8 @@ UI_20180629_003237	{@st59}Cabelos{/}
 UI_20180629_003238	{@st59}Cabelos e Tinturas{/}
 UI_20180629_003239	{@st59}Toys{/}
 UI_20180629_003240	{@st66}{s18}Provar{/}
-UI_20180629_003241	{@st41b}{s17}Traje de Cabelo
-UI_20180629_003242	Você pode ocultar/ mostrar todos os seus trajes de cabelo atualmente equipados.
+UI_20180629_003241	{@st41b}{s17}Acessório
+UI_20180629_003242	Você pode ocultar/ mostrar todos os seus Acessórios atualmente equipados.
 UI_20180629_003243	   TP Atual{/}
 UI_20180629_003244	   TP Restante{/}
 UI_20180629_003245	Agora vestindo
@@ -3496,7 +3496,7 @@ UI_20181017_003495	{@st59}Materiais{/}
 UI_20181017_003496	{@st59}Gemas{/}
 UI_20181017_003497	{@st59}Premium{/}
 UI_20181017_003498	{@st59}Opção de filtro ON/OFF{/}
-UI_20181017_003499	{@st41b}Stage %s	{@st41b}%s단계
+UI_20181017_003499	{@st41b}Estágio %s
 UI_20181017_003500	{@st43}Opções de Inventário{/}
 UI_20181017_003501	{@st43b}{s18}Raridade do Item{/}
 UI_20181017_003502	{@st43b}{s18}Tipo do Item{/}
@@ -3546,7 +3546,7 @@ UI_20181017_003545	Enchant Jewels
 UI_20181017_003546	Enchant Stats
 UI_20181017_003547	{@st41b}{s18}Enchant Jewels Atuais: %s
 UI_20181017_003548	{@st66}{s18}{b}Consome %s Enchant Jewel(s).
-UI_20181017_003549	{@st59}Set Main Class{/}	{@st59}대표 클래스 설정{/}				
+UI_20181017_003549	{@st59}Definir Classe Principal{/}
 UI_20181017_003550	{@st59}Caixa de Pesca (Alt+F){/}
 UI_20181017_003551	{@st59}Habilidades e Atributos (F3){/}
 UI_20181017_003552	Itens Usados
@@ -3564,19 +3564,19 @@ UI_20181017_003563	Somente Não Identificados
 UI_20181017_003564	Esconder Não Identificados
 UI_20181017_003565	Opções Avançadas
 UI_20181017_003566	Valor
-UI_20181017_003567	{@st66}{s16}Add Stat	{@st66}{s16}옵션 추가				
-UI_20181017_003568	Stat Group	옵션 그룹				
+UI_20181017_003567	{@st66}{s16}Adicionar Atributo
+UI_20181017_003568	Grupo				
 UI_20181017_003569	{@st66}{s16}Salvar
 UI_20181017_003570	Salvar opções de busca.
 UI_20181017_003571	{@st66}{s16}Importar
 UI_20181017_003572	Importar opções de busca.
 UI_20181017_003573	Reiniciar opções de busca
 UI_20181017_003574	Nv. Item
-UI_20181017_003575	Roast Level	로스팅 레벨				
-UI_20181017_003576	Delete Stat	옵션 삭제				
-UI_20181017_003577	Settings Save Name	설정 저장 이름				
-UI_20181017_003578	Delete Settings	설정 삭제				
-UI_20181017_003579	Trade Grade	거래 등급 안내				
-UI_20181017_003580	Character Lv %s	캐릭터 레벨 %s				
-UI_20181017_003581	Team %s+ days old	팀 생성 %s일 이상			
+UI_20181017_003575	Nv. Pureza
+UI_20181017_003576	Remover Atributo
+UI_20181017_003577	Nome Config. Salva
+UI_20181017_003578	Remover Config.
+UI_20181017_003579	Nv Troca
+UI_20181017_003580	Nv Personagem %s
+UI_20181017_003581	TimeTeam %s+ days old	팀 생성 %s일 이상			
 UI_20181017_003582	%s Revelações Obtidas
