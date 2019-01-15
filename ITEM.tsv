@@ -1860,7 +1860,7 @@ ITEM_20150317_001859	Canyon Area Mission Warp Stone
 ITEM_20150317_001860	Royal Mausoleum Mission Warp Stone
 ITEM_20150317_001861	Area of Ruins Mission Warp Stone
 ITEM_20150317_001862	Mage Tower Mission Warp Stone
-ITEM_20150317_001863	Água Benta
+ITEM_20150317_001863	Holy Water
 ITEM_20150317_001864	Water blessed with a holy spirit. Used by priests.
 ITEM_20150317_001865	Holy Powder
 ITEM_20150317_001866	A white powder that is consumed when priests cast a magic spell. It is said to amplify their magical power.
@@ -14230,7 +14230,7 @@ ITEM_20170420_014227	Purine Migantis Rod	퓨리네 미간티스 로드
 ITEM_20170420_014228	"There is strong magic flowing through this rod, but no known way to awaken it; it is, for now, a dormant rod."	강력한 마력이 흐르는 로드이지만, 마력을 활성화 시킬 방법이 없어 마치 잠들어 있는 듯한 로드입니다.				
 ITEM_20170420_014229	Purine Pevordimas Rod	퓨리네 페버디마스 로드				
 ITEM_20170420_014230	There is strong magic actively flowing through this rod.	강력한 마력이 흐르고 있는 로드로, 마력이 활성화된 상태입니다.				
-ITEM_20170420_014231	Arco [Projétil: Arco]	활[미사일:활]				
+ITEM_20170420_014231	Arco [Flecha]	활[미사일:활]				
 ITEM_20170420_014232	Replica Migantis Bow	레플리카 미간티스 보우				
 ITEM_20170420_014233	Replica Pevordimas Bow	레플리카 페버디마스 보우				
 ITEM_20170420_014234	  - All Hunter skill levels {img green_up_arrow 16 16} 2	 - 모든 헌터 스킬 레벨 {img green_up_arrow 16 16}2 증가	ITEM_20150717_005570	 - Increases all Hunter skill levels by 2	 - 모든 헌터 스킬 레벨 +2 증가	
@@ -14244,7 +14244,7 @@ ITEM_20170420_014241	Purine Migantis Bow	퓨리네 미간티스 보우
 ITEM_20170420_014242	"There is strong magic flowing through this bow, but no known way to awaken it; it is, for now, a dormant bow."	강력한 마력이 흐르는 활이지만, 마력을 활성화 시킬 방법이 없어 마치 잠들어 있는 듯한 활입니다.				
 ITEM_20170420_014243	Purine Pevordimas Bow	퓨리네 페버디마스 보우				
 ITEM_20170420_014244	There is magic actively flowing through this bow.	강력한 마력이 흐르고 있는 활로, 마력이 활성화된 상태입니다.				
-ITEM_20170420_014245	Besta [Projétil: Arco]	쇠뇌[미사일:활]				
+ITEM_20170420_014245	Besta [Flecha]	쇠뇌[미사일:활]				
 ITEM_20170420_014246	Replica Migantis Crossbow	레플리카 미간티스 크로스보우				
 ITEM_20170420_014247	Replica Pevordimas Crossbow	레플리카 페버디마스 크로스보우				
 ITEM_20170420_014248	Migantis Crossbow	미간티스 크로스보우				
@@ -14340,7 +14340,7 @@ ITEM_20170420_014337	Purine Migantis Staff	퓨리네 미간티스 스태프
 ITEM_20170420_014338	"There is strong magic flowing through this staff, but no known way to awaken it; it is, for now, a dormant staff."	강력한 마력이 흐르는 스태프이지만, 마력을 활성화 시킬 방법이 없어 마치 잠들어 있는 듯한 스태프입니다.				
 ITEM_20170420_014339	Purine Pevordimas Staff	퓨리네 페버디마스 스태프				
 ITEM_20170420_014340	There is strong magic actively flowing through this staff.	강력한 마력이 흐르고 있는 스태프로, 마력이 활성화된 상태입니다.				
-ITEM_20170420_014341	{s13}Pistola [Projétil: Arma de Fogo]	권총[미사일:총]				
+ITEM_20170420_014341	{s13}Pistola [Arma de Fogo]	권총[미사일:총]				
 ITEM_20170420_014342	Replica Migantis Pistol	레플리카 미간티스 피스톨				
 ITEM_20170420_014343	Replica Pevordimas Pistol	레플리카 페버디마스 피스톨				
 ITEM_20170420_014344	Migantis Pistol	미간티스 피스톨				
@@ -14368,7 +14368,7 @@ ITEM_20170420_014365	 - Increases all Fencer skill levels by {img green_up_arrow
 ITEM_20170420_014366	 - Increases all Fencer skill levels by {img green_up_arrow 16 16} 2	 - 모든 펜서 스킬 레벨 {img green_up_arrow 16 16}2 증가				
 ITEM_20170420_014367	Black Horn	블랙 혼				
 ITEM_20170420_014368	"An elegant black-colored rapier featuring light-weight, highly flexible components."	고급스러운 검정색과 그에 걸맞는 탄성, 가벼운 무게를 자랑하는 레이피어입니다.				
-ITEM_20170420_014369	{s14}Canhão [Projétil: Canhão]	캐논[미사일:캐논]				
+ITEM_20170420_014369	{s14}Canhão [Artilharia]	캐논[미사일:캐논]				
 ITEM_20170420_014370	Replica Migantis Cannon	레플리카 미간티스 캐논				
 ITEM_20170420_014371	Replica Pevordimas Cannon	레플리카 페버디마스 캐논				
 ITEM_20170420_014372	Migantis Cannon	미간티스 캐논				
@@ -14380,7 +14380,7 @@ ITEM_20170420_014377	"There is strong magic flowing through this cannon, but no 
 ITEM_20170420_014378	Purine Pevordimas Cannon	퓨리네 페버디마스 캐논				
 ITEM_20170420_014379	There is magic actively flowing through this cannon.	강력한 마력이 흐르고 있는 캐논으로, 마력이 활성화된 상태입니다.				
 ITEM_20170420_014380	 - Increases all Cannoneer skill levels by {img green_up_arrow 16 16} 1	 - 모든 캐노니어 스킬 레벨 {img green_up_arrow 16 16}1 증가				
-ITEM_20170420_014381	{s12}Mosquete[Projétil: Arma de Fogo]	머스킷[미사일:총]				
+ITEM_20170420_014381	{s12}Mosquete[Arma de Fogo]	머스킷[미사일:총]				
 ITEM_20170420_014382	Replica Migantis Musket	레플리카 미간티스 머스킷				
 ITEM_20170420_014383	Replica Pevordimas Musket	레플리카 페버디마스 머스킷				
 ITEM_20170420_014384	Migantis Musket	미간티스 머스킷				
