@@ -2510,7 +2510,7 @@ ETC_20150317_002509	Acquired the records.
 ETC_20150317_002510	Warp
 ETC_20150317_002511	You... Everyone must die!
 ETC_20150317_002512	It won't end like that!
-ETC_20150317_002513	View Coleção
+ETC_20150317_002513	Ver Coleção
 ETC_20150317_002514	Ver Diário de Aventuras
 ETC_20150317_002515	I'll make a donation
 ETC_20150317_002516	I see the request
@@ -31833,8 +31833,8 @@ ETC_20180320_031801	Comprar itens de Thaumaturge
 ETC_20180320_031802	Comprar itens de Cryomancer
 ETC_20180320_031803	Comprar itens de Wizard
 ETC_20180320_031804	Comprar itens de Sorcerer
-ETC_20180320_031805	Claim Collection Reward Item
-ETC_20180320_031806	Use Magic Association Shop
+ETC_20180320_031805	Receber Recompensas das Coleções
+ETC_20180320_031806	Loja da Sociedade Mágica
 ETC_20180320_031807	Fantasy Library Area Collection
 ETC_20180320_031808	Lanko Waters Area Collection
 ETC_20180320_031809	Defeat the Varle King
@@ -36636,9 +36636,9 @@ ETC_20181026_036550	Use to select one of the following items.{nl} - Black Cat Co
 ETC_20181026_036551	Spider Web Costume Selection Box	스파이더 웹 코스튬 선택 상자				
 ETC_20181026_036552	Use to select one of the following items.{nl} - Spider Web Costume (Male) x1{nl} - Spider Web Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 스파이더 웹 코스튬(남) 1개{nl} - 스파이더 웹 코스튬(여) 1개				
 ETC_20181026_036553	Pumpkin Stamp	호박 스탬프				
-ETC_20181026_036554	Timed items will continue to count down when placed in the storage.{nl}Continue?{nl}{@st66d_y}[IMPORTANT] 	기간제 아이템을 창고에 넣어도 기간은 동작하며, 창고 안에서 기간이 만료될 수 있습니다.{nl}계속하시겠습니까?{nl}{@st66d_y}[주의] 				
-ETC_20181026_036555	Multiply Token	배수 토큰				
-ETC_20181026_036556	 Expired items will disappear when retrieved from the storage.{/}	 아이템은 창고 안에서 기간이 만료되었을 경우 수령시 사라지게 됩니다.{/}				
+ETC_20181026_036554	Itens com tempo continuarão a contar mesmo dentro do Armazém.{nl}Continuar?{nl}{@st66d_y}[IMPORTANTE] 
+ETC_20181026_036555	Multiply Token
+ETC_20181026_036556	 e itens expirados desapareceção quando retirados do Armazém.{/}
 ETC_20181026_036557	Select a Pumpkin Costume.	호박 코스튬을 선택해주세요				
 ETC_20181026_036558	Total number of daily rewards received: {COUNT}	일일 보상 누적 횟수 보상을 받는다 : 현재 {COUNT}				
 ETC_20181026_036559	Today's number of completed missions: {COUNT}	금일 미션 완료 횟수 : {COUNT}				
@@ -37037,7 +37037,7 @@ ETC_20190104_036951	Chaplains são Clerics que juraram servir como Priests nos c
 ETC_20190104_036952	Plague Doctors destacam-se de outros Clerics por não depender fortemente dos poderes da Deusa. Fazem uso de estudos científicos para tratar doenças e, por causa disso, permanecerem nas sombras, pois a bênção da Deusa era o suficiente para curar qualquer problema antes do Medzio Diena. Plague Doctors ganharam destaque após o desastre, quando a Deusa ficou desconectada de nosso mundo.{nl}Plaghe Doctors são Priests que curam doenças dos aliados, ou incineram inimigos. Seu elmo peculiar possui uma droga especial para bloquear efeitos negativos.
 ETC_20190104_036953	Kaballist é um grupo que busca pela máxima verdade que governa o cosmo. Eles previram o Medzio Diena no passado e, também, conseguiram decifrar a profecia da Deusa Laima de transferir a Capital do Reino.{nl}Kabbalists são Priests que praticam a antiga magia conhecida como Cabala. Podem auxiliar alaidos usando poderes infinitos ou atacar usando uma formação defensiva para desintegrar o nome do inimigo.
 ETC_20190104_036954	Inquisitors sempre foram guardiões simbólicos da fé por muitos anos. Também são responsáveis por escrever os ensinamentos da Deusa em palavras que podem ser melhor compreendidas pela população. Desde que a Deusa partiu deste mundo, por causa do Medzio Diena, Inquisitors se tornaram um grupo que toma decisões referentes à função de todo o clero.{nl}Inquisitor é uma classe que julga aqueles que desafiam as Deusas. Possui fortes técnicas ofensivas e é especializado em combate contra usuários de magia.
-ETC_20190104_036955	{/}{/}{#7AE4FF}{ol}[Disponível a partir do Segundo Avanço]{/}{/}{nl}Miko (Kannushi) juntaram-se à adoração da Deusa no Reino antes dos Onmyoji, mas são similares aos Onmyoji no quesito de seus serviços não se direcionarem ao grande público. Foram envolvidos em um incidente com a Princesa Kaonilla, mas a história não é amplamente conhecida pelo povo por ser assunto das cortes reais.{nl}Mikos (Kannushis) recebem a profecia e servem às Deusas. Atacam os inimigos com golpes de propriedade Divina ou auxiliam seus aliados, elevando seus espíritos.
+ETC_20190104_036955	{/}{/}{#7AE4FF}{ol}[Disponível a partir do Segundo Avanço]{/}{/}{nl}Miko (Kannushi) juntaram-se ao culto da Deusa no Reino antes dos Onmyoji, mas são semelhantes à estes, devido seus serviços não serem para o grande público. Se envolveram em um incidente com a Princesa Kaonilla, mas a história não é muito conhecida pelo povo por ser assunto das cortes reais.{nl}Mikos (Kannushis) recebem a profecia e servem às Deusas. Atacam os inimigos com golpes de propriedade Divina e elevam os espíritos dos aliados.
 ETC_20190104_036956	Zealots surgiram dos membros do clero que seguiram o caminho mais difícil, atrás da Deusa quando esta sumiu do nosso mundo. Seus métodos de adoração são considerados um tanto quanto extremos, portanto há muito atrito entre Zealots e outros Clerics. Seu objetivo como grupo é estabelecer e garantir doutrinas estritas para seguir os ensinamentos da Deusa e trazê-la de volta para este mundo.{nl}Zealot é especializado em aprimorar suas capacidades através de habilidades de ataque físico corpo-a-corpo.
 ETC_20190104_036957	Muitos Clerics aventuraram-se em exorcismos no passado, mas a Ordem dos Exorcists foi estabelecida quando Lomel II facilitou a organização de várias ordens e denominações de Clerics. Desde então, somente os sancionados pela corte eram reconhecidos como Exorcists e, assim, autorizados a executar exorcismos.{nl}Exorcists usam magias de propriedade Divina para expulsar energias malignas e derrotar inimigos demoníacos.
 ETC_20190104_036958	Scouts iniciaram suas atividades durante o reinado de Melkhiel, atuando na busca de informações nas divisas durante a guerra. Após a expansão territorial do Reino, Scouts receberam a tarefa de seguir e caçar monstros.{nl}Scout possui uma variedade de habilidades ofensivas e altas taxas de Evasão e Crítico. São mais ofensivos, além de consumirem SP rapidamente.
@@ -37503,7 +37503,7 @@ ETC_20190104_037417	Restricted from trading via Market	마켓 거래 불가
 ETC_20190104_037418	{@st41b}{#0064FF}Title:{/}{/} 	{@st41b}{#0064FF}칭호 :{/}{/} 	ETC_20150317_001957	{@st41b} Title {/}	{@st41b}칭호 :{/} 
 ETC_20190104_037419	{@st59}Increases amount healed, magic critical damage and damage dealt by summons{/}	{@st59}치유력, 마법 치명타 공격력, 소환수의 대미지 증가{/}			
 ETC_20190104_037420	[Allerno Family]{nl}Asta	[아렐르노 남작가]{nl}아스타			
-ETC_20190104_037421	{#003399}[CLASS EXP RECOVERY CARDS]{/} and your {#003399}[EQUIPPED ITEMS]{/} are stored in your {#003399}[MARKET RETRIEVE TAB]{/}.{nl}Talk to the {#003399}[MARKET MANAGER]{/} NPC to retrieve them!	{#003399}[클래스 경험치 복구 카드]{/}와 {#003399}[착용하고 계시던 장비]{/}는 {#003399}[마켓 보관함]{/}에 있습니다.{nl}{#003399}[마켓 관리인]{/} NPC와 대화하여 수령하세요!			
+ETC_20190104_037421	{#003399}[CARTÕES DE EXPERIÊNCIA]{/} e seus {#003399}[ITENS EQUIPADOS]{/} estão guardados {#003399}[DENTRO DO MARKET]{/}.{nl}Fale com algum NC {#003399}[GERENTE DO MERCADO]{/} para receber os itens!
 ETC_20190104_037422	You can use the Goddess Statue to transport yourself to the Master of the class that you have advanced to.	여신상 캠프 워프를 통해서 전직한 클래스의 마스터에게 이동하실 수 있습니다			
 ETC_20190104_037423	The item can be used only until {DAY} (day) of {MONTH} (month).{nl}The item has expired.	{MONTH}월 {DAY}일까지만 사용 가능합니다{nl}사용 기간이 지났습니다	ETC_20180827_035674	The event has ended.	6월 28일까지만 사용 가능합니다{nl}사용 기간이 지났습니다
 ETC_20190104_037424	{#0054FF}[{NUM2}]{/} points will be added because you already have [{NUM1}] points.{nl}Use the item?	[{NUM1}] 포인트을 이미 갖고 계셔서 {#0054FF}[{NUM2}]{/} 포인트가 추가됩니다.{nl}사용하시겠습니까?			
@@ -37740,8 +37740,8 @@ ETC_20190104_037654	Transfer the Guild Master position to [{NAME}]? This will tr
 ETC_20190104_037655	After abandoning a guild, you cannot join a new one for {Number2} days.{nl}You can join a new guild after {Time}	길드 탈퇴 후 {Number2}일 이내에 타 길드에 가입이 불가능 합니다.{nl}가입 가능일 : {Time} 이후			
 ETC_20190104_037656	Without an Awakening Stone,{nl}the item's Potential will be reduced.{nl}Continue?	{@st66d}각성석 미사용 시{nl}아이템의{/} {@st66d_y}포텐셜이 감소{/} {@st66d}합니다.{nl}진행하시겠습니까?{/}	ETC_20180629_034607	Without an Awakening Stone,{nl}the item's Potential will be reduced.{nl}Continue?	각성석 미사용 시{nl}아이템의 포텐셜이 감소합니다.{nl}진행하시겠습니까?
 ETC_20190104_037657	Cannot find the ingredient item. Please try again.	재료 아이템을 찾을 수 없습니다. 다시 시도해 주세요.			
-ETC_20190104_037658	Physical Critical Attack	물리 치명타 공격력			
-ETC_20190104_037659	Magic Critical Attack	마법 치명타 공격력			
+ETC_20190104_037658	Ataque Crítico Físico
+ETC_20190104_037659	Ataque Crítico Mágico
 ETC_20190104_037660	Horizontal Attack Range	가로 공격 범위			
 ETC_20190104_037661	Casting Time Ratio	캐스팅 시간 비율			
 ETC_20190104_037662	Additional Threat Value	추가 위협도			
@@ -40769,6 +40769,6 @@ ETC_20190108_040683	Lucky Golden Pig Costume Set	황금 복돼지 코스튬 세�
 ETC_20190108_040684	Use to obtain all of the following items.{nl} - Lucky Golden Pig Costume x1{nl} - Lucky Golden Pig Helmet x1	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 황금 복돼지 코스튬 1개{nl} - 황금 복돼지 헬멧 코스튬 1개				
 ETC_20190108_040685	Lucky Golden Pig	황금 복돼지				
 ETC_20190108_040686	Lucky Golden Pig Helmet	황금 복돼지 헬멧				
-ETC_20190112_040687	Since the days of Agailla Flurry, necromancy involving the use of human bodies and spirits has been abolished for good. Since then, Necromancers have reorganized themselves as a group of magic users who conduct studies on monsters and not humans.{nl}Necromancers are a class that brings fragments of dead monsters back to life. They can breathe life into the dead monsters to attack their targets or create summons out of them.	아가일라 플러리가 마스터를 겸직한 이래 일부 소수가 비밀리에 행하던 인간의 육신과 영혼을 다루는 네크로맨시는 완전히 박멸되었으며, 몬스터만을 원천으로 사용하는 직업으로 확립되었습니다. {nl}네크로맨서는 사체 파편을 이용한 마법을 사용하는 클래스입니다. 틈틈이 모아둔 사체 파편으로 적을 공격하거나 소환물을 만들어 낼 수 있습니다.	ETC_20190104_036918	Since the days of Agailla Flurry, the Necromancy involving the use of human body and soul had been abolished for good. Since then, Necromancers have reorganized themselves as a group of magic users who conduct studies on monsters and not humans.{nl}Necromancers are a class that bring dead monsters back to life. They can breathe life into the dead monsters to attack their target or create summons out of them.	아가일라 플러리가 마스터를 겸직한 이래 일부 소수가 비밀리에 행하던 인간의 육신과 영혼을 다루는 네크로맨시는 완전히 박멸되었으며, 몬스터만을 원천으로 사용하는 직업으로 확립되었습니다. {nl}네크로맨서는 사체를 이용한 마법을 사용하는 클래스입니다. 틈틈이 모아둔 사체로 적을 공격하거나 소환물을 만들어 낼 수 있습니다.
+ETC_20190112_040687	Desde os dias de Agailla Flurry, a necromancia que envolvia o uso de corpos e espíritos humanos foi abolida. Desde então, Necromancers se reorganizaram como usuários de magias que conduzem estudos em monstros, não humanos.{nl}Necromancer coleta partes dos monstros derrotados para reanimá-los. Podem sobrar vida nestes monstros para atacar alvos ou criar invocações.
 ETC_20190112_040688	Time of forced deletion for zombie status client in barrack server (unit: sec)	배럭 서버에서 Zombie상태가 된 클라이언트의 강제 삭제 시간(단위:초)			
 ETC_20190112_040689	Time of forced deletion for zombie status commander in zone server (unit: sec)	존 서버에서 Zombie상태가 된 커맨더의 강제 삭제 시간(단위:초)			
