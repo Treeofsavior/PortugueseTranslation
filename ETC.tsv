@@ -2807,9 +2807,9 @@ ETC_20150317_002806	Ataque Elemental: Terra{img attri_Earth 23 23}
 ETC_20150317_002807	Resistência Elemental: Terra{img attri_Earth 23 23}
 ETC_20150317_002808	Physical Damage when mounted
 ETC_20150317_002809	Magic Damage when mounted
-ETC_20150317_002810	Defesa Perfurante
-ETC_20150317_002811	Defesa Corte
-ETC_20150317_002812	Defesa de Impacto
+ETC_20150317_002810	Defesa Contra Perfurante
+ETC_20150317_002811	Defesa Contra Corte
+ETC_20150317_002812	Defesa Contra Impacto
 ETC_20150317_002813	Peso Máximo Carregável
 ETC_20150317_002814	Muito Fácil
 ETC_20150317_002815	Fácil
@@ -37743,10 +37743,10 @@ ETC_20190104_037657	Cannot find the ingredient item. Please try again.	재료 �
 ETC_20190104_037658	Ataque Crítico Físico
 ETC_20190104_037659	Ataque Crítico Mágico
 ETC_20190104_037660	Horizontal Attack Range	가로 공격 범위			
-ETC_20190104_037661	Casting Time Ratio	캐스팅 시간 비율			
-ETC_20190104_037662	Additional Threat Value	추가 위협도			
-ETC_20190104_037663	Normal Attack Speed	기본 공격속도			
-ETC_20190104_037664	Skill Attack Speed	스킬 공격속도			
+ETC_20190104_037661	Taxa de Conjuração
+ETC_20190104_037662	Provocação Adicional
+ETC_20190104_037663	Velocidade de Ataque Normal
+ETC_20190104_037664	Vel. Ataque de Habilidade
 ETC_20190104_037665	You already have this collection.	이미 가지고 있는 컬렉션 입니다.	ETC_20150317_002860	You already have this collection.	이미 가지고 있는 콜렉션 입니다.
 ETC_20190104_037666	A collection has been added.	컬렉션이 등록되었습니다.	ETC_20150317_002862	A collection has been added.	콜렉션이 등록되었습니다.
 ETC_20190104_037667	This collection is shared with your team.{nl}It can't be returned once it has been added. Would you like to add this item?	컬렉션은 팀단위로 공유되며, 한번 추가한 아이템은 되돌려 받을 수 없습니다. 아이템을 넣으시겠습니까?	ETC_20160224_020662	This collection is shared with your team.{nl}It can't be returned once it has been added. Would you like to add this item?	콜렉션은 팀단위로 공유되며, 한번 추가한 아이템은 되돌려 받을 수 없습니다. 아이템을 넣으시겠습니까?
