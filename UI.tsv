@@ -2517,7 +2517,7 @@ UI_20161221_002515	{@st59}Estar em uma Cidade{/}
 UI_20161221_002516	{@st59}Não ter Loja aberta{/}
 UI_20161221_002517	{@st59}Não estar construindo itens{/}
 UI_20161221_002518	{@st59}Não ser Mestre de Guilda{/}
-UI_20161221_002519	* As Cartas de Monstros equipadas serão automaticamente{nl}removidos sem penalidades..
+UI_20161221_002519	* As Cartas de Monstros equipadas serão{nl}automaticamente removidas sem penalidades.
 UI_20161221_002520	* Níveis de atributo comprados antes do reset{nl}podem ser aprendidos novamente sem nenhum custo após o reset.
 UI_20161221_002521	* EXP cards equivalent to the last Rank to have achieved{nl}
 UI_20161221_002522	Class Level 15
@@ -3718,11 +3718,11 @@ UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost
 UI_20190104_003718	{@st59}Close the map.{/}	{@st59}지도를 닫습니다{/}			
 UI_20190104_003719	%s{@st42}{s14}{#ffff00}Cancel (Jump Key){/}	%s{@st42}{s14}{#ffff00}취소(점프 키){/}			
 UI_20190104_003720	{@st41b}Collection{/}	{@st41b}컬렉션{/}	UI_20170313_002554	{@st41b}Collection{/}	{@st41b}콜렉션{/}
-UI_20190104_003721	{s20}Change class trees?{/}	{s20}계열 변경을 하시겠습니까?{/}			
-UI_20190104_003722	* After the class tree change, you will receive attribute points{nl}equivalent to the level of your attributes prior to the change.	* 계열 변경 전 올린 특성의 레벨은{nl}계열 변경 후 특성 포인트를 돌려드립니다.			
-UI_20190104_003723	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.	* 마지막 달성한 클래스 레벨을 확인해 그에 해당하는 {nl} 클래스 경험치 카드를 인벤토리로 지급합니다.			
-UI_20190104_003724	* You will return to the barracks after changing class trees.	* 계열 변경 후엔 캐릭터 선택창으로 돌아갑니다.			
-UI_20190104_003725	* You cannot change class trees{nl}if you have any unused EXP Recovery Cards in your inventory.	* 사용하지 않은 클래스 경험치 복구카드가 {nl} 있을 경우 계열 변경을 할 수 없습니다.			
+UI_20190104_003721	{s20}Mudar Classe Base?{/}
+UI_20190104_003722	* Após a mudança, você receberá pontos de atributos{nl}equivalentes ao nível dos atributos que já possuia.
+UI_20190104_003723	* Class EXP Cards equivalentes ao último nv de Classe{nl}conquistado serão adicionados ao seu Inventário.
+UI_20190104_003724	* Você retornará ao Alojamento após a mudança.
+UI_20190104_003725	* Você não pode mudar de Classe Base sem usar{nl}primeiro todos os EXP Recovery Cards do Inventário.
 UI_20190104_003726	Are you sure you want to change to the selected class?{/}	선택하신 클래스를 변경하시겠습니까?{/}	UI_20171128_002964	Would you like to undo your last advancement?{/}	마지막 전직을 취소하고 되돌리시겠습니까?{/}
 UI_20190104_003727	Your class will be changed into the newly-selected class{nl}and {@st66d_y}Class Change Points will be consumed.{/}{/}	해당 클래스의 전직을 취소하고 선택한 클래스로 변경되며{nl}{@st66d_y}클래스 변경 포인트가 소모됩니다.{/}{/}	UI_20180517_003174	If you undo your current class advancement,{nl}the advancement will be undone and{nl}{@st66d_y}your current class EXP will disappear.{/}{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}{@st66d_y}클래스 경험치는 사라집니다.{/}{/}
 UI_20190104_003728	* Skills and attributes of deleted{nl}classes will be returned as points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.			
