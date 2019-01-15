@@ -3594,21 +3594,21 @@ UI_20190104_003593	{@st59}Scout Tree{/}	{@st59}스카우트 계열{/}
 UI_20190104_003594	{@st41b}Identification Cost{/} %s	{@st41b}감정 비용{/}%s			
 UI_20190104_003595	{@st59}Doll{/}	{@st59}인형{/}			
 UI_20190104_003596	{img silver 20 20}Price %s	{img silver 20 20}가격 %s			
-UI_20190104_003597	{@st44}Class List{/}	{@st44}클래스 목록{/}			
-UI_20190104_003598	{@st43}Current Class Info	{@st43}현재 클래스 정보			
-UI_20190104_003599	{@st43}Change Class Tree {img testquesten_button 30 30}	{@st43}클래스 변경 {img testquesten_button 30 30}			
-UI_20190104_003600	The maximum amount of points that can be earned is reset every Monday at 06:00, server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points for players in a guild and players under Token effects){nl} - Successful fishing: 1 point per catch{nl}- Saalus Convent Mission: 15 points{nl}- Legend Raid: 20 points{nl} (Except for Earth Tower, where 5 points are earned every 5 levels){nl}- Uphill Defense Mission: 10 points{nl}- Unique Raid: 20 points{nl}- Level Dungeon: 10 points{nl}- Mercenary Post Mission: 10 points{nl}- Daily Quest: 10 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속: 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공: 1회 당 1 포인트{nl}- 살러스 수녀원 미션: 15 포인트{nl}- 레전드 레이드: 20 포인트{nl}  (단, 대지의 탑은 5층 단위로 5점씩 지급됩니다.){nl}- 업힐 디펜스 미션: 10 포인트{nl}- 유니크 레이드: 20 포인트{nl}- 레벨 던전: 10 포인트{nl}- 의뢰소 미션: 10 포인트{nl}- 일일 퀘스트: 10 포인트			
-UI_20190104_003601	{@st42}Weekly Points{/} {@st66d_y}(%s/%s){/}	{@st42}주간획득 포인트{/} {@st66d_y}(%s/%s){/}			
-UI_20190104_003602	{@st43}Advance	{@st43}전직하기			
-UI_20190104_003603	{@st66d_y}{#ffa800}Stat Growth Ratio	{@st66d_y}{#ffa800}스탯 성장 비율			
+UI_20190104_003597	{@st44}Lista de Classes{/}
+UI_20190104_003598	{@st43}Informação das Classes Atuais
+UI_20190104_003599	{@st43}Mudar de Classe {img testquesten_button 30 30}
+UI_20190104_003600	A quantidade máxima de pontos possíveis de se obter reiniciam toda Segunda às 6AM (Servidor).{nl}Pontos podem ser obtidos através de:{nl} {nl}- Conectar no jogo: 10 pontos (5 adicionais para membros de Guilda e sobre efeitos de Token){nl} - Pescaria: 1 ponto por item pescado{nl}- Missão de Saalus: 15 pontos{nl}- Raid Lendária: 20 points{nl} (Exceto Earth Tower, onde são 5 pontos a cada 5 andares){nl}- Missão de Uphill: 10 pontos{nl}- Raid Única: 20 pontos{nl}- Dungeon Simples: 10 pontos{nl}- Missão Mercenary Post: 10 pontos{nl}- Missão Diária: 10 pontos
+UI_20190104_003601	{@st42}Pontos Semanais{/} {@st66d_y}(%s/%s){/}
+UI_20190104_003602	{@st43}Avançar
+UI_20190104_003603	{@st66d_y}{#ffa800}Modificadores de Atributos
 UI_20190104_003604	{@st42}{#FFCC66}STR	{@st42}{#FFCC66}힘			
 UI_20190104_003605	{@st42}{#FFCC66}CON	{@st42}{#FFCC66}체력			
 UI_20190104_003606	{@st42}{#FFCC66}INT	{@st42}{#FFCC66}지능			
 UI_20190104_003607	{@st42}{#FFCC66}SPR	{@st42}{#FFCC66}정신			
 UI_20190104_003608	{@st42}{#FFCC66}DEX	{@st42}{#FFCC66}민첩			
-UI_20190104_003609	{@st43}Class Information{/}	{@st43}클래스 정보{/}			
-UI_20190104_003610	Close the class change mode.	클래스 변경 모드를 종료합니다.			
-UI_20190104_003611	{@st43}Select a class and click the Advance button.	{@st43}변경 할 클래스를 선택한 후에 전직하기 버튼을 눌러주세요.			
+UI_20190104_003609	{@st43}Informação da Classe{/}
+UI_20190104_003610	Fecha o modo de mudança de classe.
+UI_20190104_003611	{@st43}Selecione uma classe e clique no botão Avançar.
 UI_20190104_003612	{@st66b18}※ TP or items used for name changes cannot be refunded.{/}	{@st66b18}※이름 변경에 사용된 TP 또는 아이템은 환불되지 않습니다.{/}			
 UI_20190104_003613	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}컬렉션{nl}{@st59s} - 게임내 컬렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 컬렉션 덱 아이템 사용했을 경우 컬렉션 단축키가 활성화{nl}{/}	UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}콜렉션{nl}{@st59s} - 게임내 콜렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 콜렉션 덱 아이템 사용했을 경우 콜렉션 단축키가 활성화{nl}{/}
 UI_20190104_003614	{@st59}Close{/}	{@st59}컬렉션 정보를 닫습니다{/}	UI_20150317_000131	{@st59}Close{/}	{@st59}콜렉션 정보를 닫습니다{/}
