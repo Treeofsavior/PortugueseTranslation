@@ -10406,7 +10406,7 @@ QUEST_20181026_010524	Ajudante de Halloween
 QUEST_20181026_010525	Ooooh! É a temporada assustadora!!{nl}O que será deste Halloween?
 QUEST_20181026_010526	Totalizador de Recompensas
 QUEST_20181026_010527	 não pode ser recebido.
-QUEST_20181207_010528	Rank Reset Voucher (1 Day){nl}Stat Reset Potion (1 Day){nl}You can receive 3 of each every day during the event period.	랭크 초기화권 (1일){nl}스탯 초기화 포션 (1일){nl}이벤트 기간 동안 매일 3개씩 지원해드리고 있습니다.				초기화 지원 도우미
+QUEST_20181207_010528	Rank Reset Voucher (1 Day){nl}Stat Reset Potion (1 Day){nl}Você ode receber 3 de cada todos os dias durante o evento.
 QUEST_20190104_010529	You have advanced into your third class.{nl}This is a small gift for all of those that have endeavored to bring peace to the world.	3차 전직을 완료하신 분이시군요.{nl}세상을 위해 힘써주신 분께 드리는 작은 선물이에요.	QUEST_20161005_004318	You're a Revelator that has reached Rank 8.{nl}This is a small gift for all of those that have endeavored to bring peace to the world.	8랭크에 오르신 분이시군요.{nl}세상을 위해 힘써주신 분께 드리는 작은 선물이에요.	레나
 QUEST_20190104_010530	Congratulations on advancing into the third class.{nl}May you be blessed by the Goddesses.	3차 전직 달성을 축하드려요.{nl}계시자님께 여신의 축복이 함께하시길.	QUEST_20161005_004319	Congratulations on reaching Rank 8.{nl}May you be blessed by the Goddesses.	8랭크 달성을 축하드려요.{nl}계시자님께 여신의 축복이 함께하시길.	라시아
 QUEST_20190104_010531	Guild Helper	길드 지원 도우미				
@@ -10431,9 +10431,9 @@ QUEST_20190104_010549	Choose the Class Tree you want to change to.	변경하실 
 QUEST_20190104_010550	We are giving out support items to help you grow.{nl}Would you like to receive your item now?	구원자분들의 성장에 도움이 되는 물품을 지원해드리고 있습니다.{nl}물품을 받으실 건가요?				기사단장 우스카
 QUEST_20190104_010551	Would you like to apply +11 enhancement to your [Re:Build] Masinios weapon?	지급해드린 [Re:Build] 마시니오스 무기에 11강화를 적용하실 건가요?				기사단장 우스카
 QUEST_20190104_010552	Would you like to apply +5 transcendence to your [Re:Build] Masinios weapon?	지급해드린 [Re:Build] 마시니오스 무기에 5초월을 적용하실 건가요?				기사단장 우스카
-QUEST_20190104_010553	May the goddess' blessings be with you in [Re:Build].{nl}We are offering to trade your 	[Re:Build]를 함께해주시는 모든 구원자분들께 바카리네 님의 축복을 기원합니다.{nl}반짝이는 				큐폴 다이나
-QUEST_20190104_010554	[Re:Build] Commemoration Coins	[Re:Build] 기념 주화				
-QUEST_20190104_010555	for gifts. There are also limited time rewards.{nl}Available between January 15 to 29, 2019: {#003399}Attribute Points: 1,000 (14 Days){/}{nl}January 29 to February 12, 2019: {#003399}Skill Reset Potion (14 Days){/}{nl}February 12 to March 5, 2019: {#003399}Character Slot Voucher{/}	를 선물로 교환해드리고 있어요. 기간 한정 특별 선물도 있어요.{nl}2018년 12월 6일(목) 점검 후 ~ 12월 20일(목) 점검 전 : {#003399}넥슨 캐시 추첨권{/}{nl}2018년 12월 20일(목) 점검 후 ~ 2019년 1월 3일(목) 점검 전 : {#003399}스킬 초기화 포션(14일){/}{nl}2019년 1월 3일(목) 점검 후 ~ 2019년 1월 24일(목) 점검 전 : {#003399}캐릭터 슬롯 추가 이용권{/}				큐폴 다이나
+QUEST_20190104_010553	Que as bênçãos da Deusa estejam com você no [Re:Build]!{nl}Troco 
+QUEST_20190104_010554	[Re:Build] Commemoration Coins
+QUEST_20190104_010555	 por presentes. Há alguns com preço especial:{nl}15 de Janeiro até 29 de Janeiro: {#003399}Attribute Points: 1,000 (14 Days){/}{nl}29 de Janeiro até 12 de Fevereiro: {#003399}Skill Reset Potion (14 Days){/}{nl}12 de Fevereiro até 5 de Março: {#003399}Character Slot Voucher{/}
 QUEST_20190104_010556	[Inhouse Testing] Boruta/GTW Area Warp	[사내 테스트]보루타/콜로니전 지역 이동 지원				
 QUEST_20190104_010557	We are providing warps to Boruta Raid and GTW areas as support for inhouse testing.{nl}You can use 	사내 테스트 지원을 위해 보루타 레이드 지역과 콜로니전 지역으로 이동을 지원해드립니다.{nl}돌아오실 때는 				[사내 테스트]보루타/콜로니전 지역 이동 지원
 QUEST_20190104_010558	to return.	를 사용해 돌아오시면 됩니다.				[사내 테스트]보루타/콜로니전 지역 이동 지원
@@ -10482,11 +10482,11 @@ QUEST_20190104_010600	You've completed so many collections...{nl}Thank you for h
 QUEST_20190104_010601	I've prepared another gift for you for helping us out.{nl}Please, accept it as a token of gratitude.	이렇게 도와주신 계시자님을 위해 이번에도 특별한 선물을 준비했어요.{nl}부디 소소한 선물이지만 받아주셔서 잘 사용해 주시길 바라요.				플로아나
 QUEST_20190104_010602	What do you think?{nl}Did you find out if he was possessed?	어떻습니까.{nl}그가 령에 빙의된 건지 알아내셨습니까?				엑소시스트 마스터
 QUEST_20190104_010603	I've heard the news already, but let me ask you again.{nl}Have you completed the exorcism?	다른 사람에게서 소식을 받았습니다만, 다시 여쭤보겠습니다.{nl}확실하게 구마 의식을 마치시고 오셨습니까?				엑소시스트 마스터
-QUEST_20190104_010604	Weapon Type Change Helper	무기 계열 변경 도우미				
-QUEST_20190104_010605	Welcome Savior.{nl}I am the Weapon Change Helper, I will help you change your weapon.{nl}	어서오세요, 계시자님.{nl}저는 계시자님이 가지고 계신 무기의 계열을 변경하는 일을 맡고 있습니다.{nl}				무기 계열 변경 도우미
-QUEST_20190104_010606	There are a couple of things you should be aware of before we proceed.{nl}You can change the type of weapon in your possession one time.{nl}	무기 계열을 변경하시기 전에 알아두셔야 할 점이 있습니다.{nl}본인이 소지하고 있던 무기의 계열을 1회 변경할 수 있습니다.{nl}				무기 계열 변경 도우미
-QUEST_20190104_010607	But there are cases where weapon type cannot be changed.{nl}All weapons that have been enhanced, transcended, awakened, traded or equipped/extracted with Ichor, or had its appearance changed after December 6th, 2018 is not eligible for weapon change.{nl}Please double check that your weapon is eligible for this service.{nl}	단, 특수한 경우로 인해 계열 변경이 불가능한 무기도 있습니다.{nl}12월 6일 이후에 강화, 초월, 소켓, 각성, 거래, 아이커 장착 및 추출, 외형 변경을 한 무기가 이에 해당합니다.{nl}그러니 계열 변경을 하기 전에 위의 조건에 해당하는지 확인하시기 바랍니다.{nl}				무기 계열 변경 도우미
-QUEST_20190104_010608	Would you like to proceed with the Weapon Type Change?	그럼, 무기 계열 변경을 진행하시겠습니까?				무기 계열 변경 도우미
+QUEST_20190104_010604	Kupole para Trocar Armas
+QUEST_20190104_010605	Saudações Salvador!{nl}Sou a Kupole ajudante que auxiliará na troca de armas.{nl}
+QUEST_20190104_010606	Há algumas coisas que você precisa saber antes de prosseguir:{nl}Você pode trocar a arma que possui somente uma vez.{nl}
+QUEST_20190104_010607	Há casos em que a troca não é possível. Todas as armas aprimoradas,{nl}transcendidas, despertadas, trocadas ou com Ichor equipado/extraído,{nl}ou com aparência alterada depois de 6 de Dezembro de 2018, não podem ser trocadas.{nl}Verificque atentamente se sua arma é válida.{nl}
+QUEST_20190104_010608	Deseja prosseguir com a troca de armas?
 QUEST_20190104_010609	The history of the Enchanters may be short, but they have undergone continuous change to achieve their goal.{nl}But despite this change, we have not forgotten the mission set out by Jane. 	인챈터의 역사는 짧은 편에 들지만, 창립된 목적을 이루기 위해 그 성격은 끊임없이 변화해 왔습니다.{nl}하지만 어떤 경우에도 제인이 지녔던 숭고한 사명을 잊은 적은 없습니다. 				인챈터 마스터
 QUEST_20190104_010610	I warned you...{nl}Hey, wake up!	내 그토록 경고를 했건만..{nl}이보게, 정신차리게!	QUEST_20161005_004652	I warned you...{nl}Hey, wake up!	내 그토록 경고를 했건만..{nl}이 보게, 정신차리게!	수수께끼의 사냥꾼
 QUEST_20190104_010611	Territory Wars Helper	콜로니전 베타 도우미				
