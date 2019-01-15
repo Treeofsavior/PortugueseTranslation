@@ -175,7 +175,7 @@ UI_20150317_000174	Selecionar conversa
 UI_20150317_000175	Ajuda de Texto
 UI_20150317_000176	{@st41}Construir Item{/}
 UI_20150317_000177	{@st45tw2}Criando o item...
-UI_20150317_000178	%r seconds
+UI_20150317_000178	%r segundos
 UI_20150317_000179	{@st41}Cancelar{/}
 UI_20150317_000180	{@st45tw2}Quantidade{/}
 UI_20150317_000181	{@st45tw2}Você quer criar este item?
@@ -1450,7 +1450,7 @@ UI_20150401_001448	{@st41}{#ffff00}Minhas TPs: %s{/}
 UI_20150401_001449	Equipado
 UI_20150401_001450	Descrição: {#FFFF00}%s{/}
 UI_20150401_001451	Nível Médio: {#FFFF00}%s{/}
-UI_20150401_001452	Condições
+UI_20150401_001452	Condição
 UI_20150401_001453	Título %s
 UI_20150401_001454	Recompensa %s
 UI_20150401_001455	{@st42}Quantidade
@@ -2317,7 +2317,7 @@ UI_20160811_002315	Carpet-type
 UI_20160811_002316	{@st42b}{s16}Charge{/}
 UI_20160811_002317	{@st66b}{s16}Provar{/}
 UI_20160811_002318	{@st42b}{s16}Adicionar{/}
-UI_20160811_002319	Unlearned
+UI_20160811_002319	Aprender
 UI_20160811_002320	* When battling
 UI_20160811_002321	{@st66d}Arma Equipada
 UI_20161005_002322	Mudar Aparência
@@ -3731,7 +3731,7 @@ UI_20190104_003730	* You will return to your Lodge after confirming.	* 변경 �
 UI_20190104_003731	* Common attributes will also be reset,{nl}and attribute points will be returned.	* 변경 시 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.			
 UI_20190104_003732	{@st41b}Repair Cost{/} %s	{@st41b}수리 비용{/} %s			
 UI_20190104_003733	{@st66b}%sResurrect with a Mysterious Crystal%s{/}	{@st66b}%s신비한 크리스탈로 부활하기%s{/}			
-UI_20190104_003734	{@st42}{s20}Skills and Attributes	{@st42}{s20}스킬과 특성			
+UI_20190104_003734	{@st42}{s20}Habilidades e Atributos
 UI_20190104_003735	{@st43}Craft Scroll	{@st43}주문서 제작	UI_20161005_002365	{@st43}Craft Spellbook	{@st43}스펠북 제작
 UI_20190104_003736	{s18}Are you sure you want to use %s?{/}	{s18}%s 아이템을 사용하시겠습니까?{/}			
 UI_20190104_003737	This item will disappear from your inventory{nl}and %s will be reset.{/}	사용한 아이템은 인벤토리에서 사라지며{nl}%s가 초기화 됩니다.{/}			
@@ -3781,21 +3781,21 @@ UI_20190104_003780	Class Name	직업 이름
 UI_20190104_003781	Change the selected class.	해당 클래스를 변경합니다.			
 UI_20190104_003782	You can change a class that is required for one of your current classes.	특정 클래스의 선행 직업인 경우 변경할 수 없습니다.			
 UI_20190104_003783	Party Member Name	파티원이름이에요			
-UI_20190104_003784	{@st43b}{s18}Skills	{@st43b}{s18}스킬			
-UI_20190104_003785	Skill Points:        %s/%s	스킬 포인트:        %s/%s			
-UI_20190104_003786	Related Attributes	연결 특성			
-UI_20190104_003787	{@st43b}{s18}Attributes	{@st43b}{s18}특성			
-UI_20190104_003788	{@st41d}Cancel	{@st41d}취소			
-UI_20190104_003789	Attribute Points	특성 포인트			
-UI_20190104_003790	Extract Attribute Points	특성 포인트 추출			
-UI_20190104_003791	{@st66}Extract	{@st66}추출			
-UI_20190104_003792	Purchase Attribute Points	특성 포인트 구매			
-UI_20190104_003793	{@st66}Purchase	{@st66}구매			
-UI_20190104_003794	{@st42}{s16}Apply	{@st42}{s16}적용			
-UI_20190104_003795	{@st42}{s16}Allocate	{@st42}{s16}분배			
-UI_20190104_003796	{@st41d}Receive	{@st41d}받기			
-UI_20190104_003797	{@st41b}{s16}Yes	{@st41b}{s16}예			
-UI_20190104_003798	{@st41b}{s16}No	{@st41b}{s16}아니오			
-UI_20190104_003799	Remaining Token Time: {#FF0000}%s{/}	남은 토큰 시간 : {#FF0000}%s{/}					
-UI_20190112_003800	{@st66}{s16}Extract	{@st66}{s16}추출	
-UI_20190112_003801	{@st66}{s16}Purchase	{@st66}{s16}구매	
+UI_20190104_003784	{@st43b}{s18}Habilidades
+UI_20190104_003785	Pontos Disponíveis:        %s/%s
+UI_20190104_003786	Atributos Relacionados
+UI_20190104_003787	{@st43b}{s18}Atributos
+UI_20190104_003788	{@st41d}Cancelar
+UI_20190104_003789	Pontos de Atributo
+UI_20190104_003790	Extrair Pontos
+UI_20190104_003791	{@st66}Extrair
+UI_20190104_003792	Comprar Pontos
+UI_20190104_003793	{@st66}Comprar
+UI_20190104_003794	{@st42}{s16}Aplicar
+UI_20190104_003795	{@st42}{s16}Alocar
+UI_20190104_003796	{@st41d}Receber
+UI_20190104_003797	{@st41b}{s16}Sim
+UI_20190104_003798	{@st41b}{s16}Não
+UI_20190104_003799	Tempo de Token Restante: {#FF0000}%s{/}
+UI_20190112_003800	{@st66}{s16}Extrair
+UI_20190112_003801	{@st66}{s16}Comprar
