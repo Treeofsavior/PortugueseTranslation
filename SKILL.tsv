@@ -2281,7 +2281,7 @@ SKILL_20150317_002280	Resurrection: Revive Count	리저렉션: 부활 횟수
 SKILL_20150317_002281	Number of targets revived by [Resurrection] increases by 1 per Attribute level.	스킬 [리저렉션]의 부활 대상의 수가 특성 레벨 당 1 증가합니다.				
 SKILL_20150317_002282	Blunt Mastery: Stun	둔기 마스터리: 스턴				
 SKILL_20150317_002283	Enemies attacked with [Strike] type basic attacks have a 2% chance per Attribute level of being Stunned.	[둔기] 계열 무기로 평타 공격 시 피격된 적은 특성 레벨 당 2% 확률로 스턴에 걸립니다.				
-SKILL_20150317_002284	Krivis: Fire Property Resistance	크리비: 불속성 저항				
+SKILL_20150317_002284	Krivis: Resistência Elemental Fogo
 SKILL_20150317_002285	Character's Fire Resistance increases by 5 per attribute level while Dark Resistance decreases by 3 per attribute level.	캐릭터의 불속성 저항이 특성 레벨 당 5 증가하고, 암흑 저항이 특성 레벨 당 3 감소합니다.				
 SKILL_20150317_002286	Zalciai: Intelligence	잘챠이: 지능				
 SKILL_20150317_002287	Applies a transformation of STR to INT when [Zalciai] is applied to Cleric-type classes.	스킬 [잘챠이]가 성직자계열에게 주던 효과가 힘에서 지능으로 변경되어 적용됩니다.				
@@ -3827,7 +3827,7 @@ SKILL_20150414_003826	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic cir
 SKILL_20150414_003827	Creates a magic circle that decreases the defense of enemies over time. 	적의 방어력을 지속적으로 감소시키는 마법진을 생성합니다.				
 SKILL_20150414_003828	Creates a magic circle that increases the skill level of allies once.	동료의 스킬 레벨을 1회 증가시켜주는 마법진을 생성합니다. 				
 SKILL_20150414_003829	Summon a holy torch to improve the HP recovery rate of nearby allies.	성스러운 횃불을 소환하여 주변 동료들의 HP 회복능력을 향상시킵니다.				
-SKILL_20150414_003830	Creates a magic circle that increases the critical abilities of allies or decreases the critical abilities of enemies.	동료의 치명타 능력을 향상시키거나 적의 치명타 능력을 하향시키는 마법진을 생성합니다.				
+SKILL_20150414_003830	Cria um círculo mágico que aumenta as habilidades críticas dos aliados ou reduz as resistências críticas do inimigo.
 SKILL_20150414_003831	Increases the number of beneficial effects that you and your party members can receive.	자신과 파티원에게 이로운 효과를 받을 수 있는 갯수를 증가시킵니다.				
 SKILL_20150414_003832	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Creates a magic circle that calls down bolts of lightning on an enemy using the God of Thunder's power.	{#993399}{ol}[마법] - [전기]{/}{/}{nl}뇌신의 힘으로 적에게 번개를 떨어뜨리는 마법진을 생성합니다.				
 SKILL_20150414_003833	Engraves a stigma on an enemy. Increases the STR and INT of you and your party members when the engraved enemy has been defeated.	적에게 낙인을 새깁니다. 낙인이 새겨진 적을 처치한 자신 또는 동료는 힘과 지능이 일시적으로 증가합니다.				
@@ -4617,7 +4617,7 @@ SKILL_20150714_004616	Zalciai: Duration	잘챠이: 지속시간
 SKILL_20150714_004617	Increases the duration of [Zalciai] by 3 seconds per attribute level.	[잘챠이]의 지속시간이 특성 레벨당 3초씩 증가합니다.				
 SKILL_20150714_004618	Zalciai: Magic Amplification	잘챠이: 마법 증폭				
 SKILL_20150714_004619	Increases the character's magic amplification by 12 per attribute level when [Zalciai] is active.	[잘챠이]가 활성화되어 있는 동안 캐릭터의 마법 증폭이 특성 레벨당 12 증가합니다.				
-SKILL_20150714_004620	Divine Stigma: Duration	디바인 스티그마: 지속시간				
+SKILL_20150714_004620	Divine Stigma: Duração
 SKILL_20150714_004621	Increases the duration of [Divine Stigma] by 1 second per attribute level.	[디바인 스티그마]의 효과 지속시간이 특성 레벨당 1초씩 증가합니다.				
 SKILL_20150714_004622	Melstis: Increased Range	멜스티스: 범위 증가				
 SKILL_20150714_004623	The range that will be applied by [Melstis] will be increased.	[멜스티스]가 적용되는 범위가 증가합니다.				
@@ -8165,7 +8165,7 @@ SKILL_20170313_008164	* Increases damage dealt with [Zaibas] by 1% per attribute
 SKILL_20170313_008165	* Enhances damage of [Zaibas] to Krivis Circle 2 standards	* [자이바스] 대미지가 크리비 2서클 수준으로 강화	SKILL_20150317_002761	Enhanced the damage of [Zaibas] to Krivis' 2nd Circle standards.	[자이바스] 대미지가 크리비 2서클 수준으로 강화됩니다.	
 SKILL_20170313_008166	* Enhances damage of [Zaibas] to Krivis Circle 3 standards	* [자이바스] 대미지가 크리비 3서클 수준으로 강화	SKILL_20150317_002763	Enhanced the damage of [Zaibas] to Krivis' 3rd Circle standards.	[자이바스] 대미지가 크리비 3서클 수준으로 강화됩니다.	
 SKILL_20170313_008167	* Increases the HP recovery of [Aukuras] by 1.5 per attribute level	* 특성 레벨당 [아우쿠라스]의 HP 회복력 증가 효과가 1.5 상승	SKILL_20150803_005020	Increases the HP recovery of [Aukuras] by 1.5 per attribute level.	특성 레벨당 [아우쿠라스]의 HP 회복력 증가 효과가 1.5 상승합니다.	
-SKILL_20170313_008168	* Increases the character's Fire property resistance and decreases dark property resistance by 5 and 3 per attribute level respectively	* 캐릭터의 불 속성 저항이 특성 레벨당 5 증가하고{nl}    어둠 속성 저항이 특성 레벨당 3 감소	SKILL_20150717_004826	Increases the character's Fire property resistance and decreases the Dark property resistance by 5 and 3 per attribute level respectively.	캐릭터의 불 속성 저항이 특성 레벨당 5 증가하고, 어둠 속성 저항이 특성 레벨당 3 감소합니다.	
+SKILL_20170313_008168	* Por nível de atributo, aumenta a Resistência Elemental: Fogo em 5 e diminui a Resistência Elemental: Trevas em 3.
 SKILL_20170313_008169	* [Zaibas] is affected by the character's AoE attack ratio and inflicts damage on multiple target at once{nl}* Total count does not increase{nl}* Consumo de SP + 3	* 스킬 [자이바스]가 캐릭터의 광역 공격 비율에 영향을 받아{nl}    한번에 여러 명의 대상에게 피해{nl}* 총 횟수는 유지{nl}* SP 소모 3증가	SKILL_20150717_004827	[Zaibas] is affected by the character's AoE attack ratio and inflicts damage on multiple target at once. (Total count does not increase.)	스킬 [자이바스]가 캐릭터의 광역 공격 비율에 영향을 받아, 한번에 여러 명의 대상에게 피해를 줍니다. (총 횟수가 늘어나진 않습니다.)	
 SKILL_20170313_008170	* Increases the duration of [Daino]'s effect by 40 seconds per attribute level{nl}* Increases cooldown time by 20 seconds	* 스킬 [다이노]의 효과 지속시간이 특성 레벨당 40초 증가{nl}* 재사용 대기시간 20초 증가	SKILL_20150714_004613	Increases the duration of [Daino]'s effect by 40 seconds per attribute level.	스킬 [다이노]의 효과 지속시간이 특성 레벨당 40초 증가합니다.	
 SKILL_20170313_008171	* Increases Fire property resistance by 14 per attribute level when [Aukuras] is active{nl}* Consumo de SP + 10	* [아우쿠라스]가 활성화 되어 있는 동안 캐릭터의 불 속성{nl}    저항력이 특성 레벨당 14 증가{nl}* SP 소모 10증가	SKILL_20151224_006102	Increases Fire property resistance by 14 per attribute level when [Aukuras] is active.	[아우쿠라스]가 활성화 되어 있는 동안 캐릭터의 불 속성 저항력이 특성 레벨당 14 증가합니다.	
@@ -10113,11 +10113,11 @@ SKILL_20171128_010112	* Ignores enemy defense by 10% per attribute level when us
 SKILL_20171128_010113	Mozambique Drill: Ricochet	모잠비크 드릴: 도탄				
 SKILL_20171128_010114	* Creates a ricochet effect on enemies attacked with [Mozambique Drill]{nl}* Consumo de SP + 50%	* 스킬 [모잠비크 드릴]에 피격된 적으로부터 도탄 발생{nl}* SP 소모 50%증가				
 SKILL_20171128_010115	* Increases the duration of [Daino]'s effect by 4 seconds per attribute level{nl}* Consumo de SP + 20%	* 스킬 [다이노]의 효과 지속시간이 특성 레벨당 4초 증가{nl}* SP 소모 20%증가	SKILL_20170420_009207	* Increases the duration of [Daino]'s effect by 40 seconds per attribute level{nl}* Consumo de SP + 20%	* 스킬 [다이노]의 효과 지속시간이 특성 레벨당 40초 증가{nl}* SP 소모 20%증가	
-SKILL_20171128_010116	* Increases duration of [Divine Stigma] by 6 seconds per attribute level{nl} Consumo de SP + 20% 	* [디바인 스티그마]의 효과 지속시간이 특성 레벨당 6초씩 증가{nl}* SP 소모 20%증가	SKILL_20170420_009211	* Increases duration of [Divine Stigma] by 1 second per attribute level{nl} Consumo de SP + 20% 	* [디바인 스티그마]의 효과 지속시간이 특성 레벨당 1초씩 증가{nl}* SP 소모 20%증가	
+SKILL_20171128_010116	* Aumenta a duração de [Divine Stigma] em 6 segundos por nível do atributo.{nl} Consumo de SP + 20%
 SKILL_20171128_010117	* Ally magic attacks within range of [Aukuras] deal additional Fire property damage{nl}* Decreases torch duration by 10 seconds{nl}* Eliminates the amount of HP recovered {nl}* Consumo de SP + 20%{nl}* Decreases cooldown by 30 seconds	* [아우쿠라스] 범위 안에 있는 아군이 마법 공격을 하면{nl}    화속성 추가 대미지를 줌{nl}* 횃불 지속시간 10초 감소{nl}* HP 회복효과 제거{nl}* SP 소모 20%증가{nl}* 재사용 대기시간 30초 감소				
-SKILL_20171128_010118	Divine Stigma: Defeat Devil	디바인 스티그마: 악마처단				
-SKILL_20171128_010119	* Increases [Divine Stigma] damage against Devil-type targets by 10% per attribute level{nl}* Consumo de SP + 20%	* [디바인 스티그마]의 대미지가 악마형 대상에게{nl}    특성 레벨당 10% 증가{nl}* SP 소모 20%증가				
-SKILL_20171128_010120	Divine Stigma: Aprimorar	디바인 스티그마: 강화				
+SKILL_20171128_010118	Divine Stigma: Derrotar o Mal
+SKILL_20171128_010119	* Aumenta o dano causado por [Divine Stigma] contra alvos da raça Demônio em 10% por nível do atributo.{nl}* Consumo de SP + 20%
+SKILL_20171128_010120	Divine Stigma: Aprimorar
 SKILL_20171128_010121	* Increases damage dealt with [Divine Stigma] by 0.5% per attribute level	* 적에게 입히는 [디바인 스티그마]의 대미지가{nl}    특성 레벨당 0.5% 증가				
 SKILL_20171128_010122	Daino: Additional Attack	다이노: 추가 공격				
 SKILL_20171128_010123	* Increases basic attack speed by 10 per skill level while [Daino] is active{nl}Adds an additional attack to basic attacks while active{nl}* Consumo de SP + 50%	* [다이노] 버프 상태에서 기본 공격 속도가 스킬 레벨당 10 증가{nl}* [다이노] 버프 상태에서 기본 공격 시 기본 공격 대미지만큼{nl}    추가 공격{nl}* SP 소모 50%증가				
@@ -11851,7 +11851,7 @@ SKILL_20180629_011850	Aumenta as habilidades de cura do usuário.
 SKILL_20180629_011851	Duração de [Guardian Saint]: 60 seg{nl}Taxa de Cura: +#{CaptionRatio}#%
 SKILL_20180629_011852	Heal Factor: #{SkillFactor}#%{nl}Torch Duração: #{CaptionTime}# seg{nl}Add. Fire Property Dmg. per Magic Attack: #{CaptionRatio2}#	치유계수 #{SkillFactor}#%{nl}횃불 지속시간 #{CaptionTime}#초{nl}마법 공격 시 화속성 추가 대미지 #{CaptionRatio2}#	SKILL_20171128_009804	HP Recovery Per Second: #{CaptionRatio}#{nl}Torch Duração: #{CaptionTime}# segundos{nl}Add. Fire Damage With Magic Attacks: #{CaptionRatio2}#	1초당  HP 회복량 #{CaptionRatio}#{nl}횃불 지속시간 #{CaptionTime}#초{nl}마법 공격 시 화속성 추가 대미지 #{CaptionRatio2}#	
 SKILL_20180629_011853	Creates a magic circle that extends the duration of beneficial effects on you and your party members. The amount of time that effects are extended by will not surpass 20 seconds. Does not apply to invincibility effects.	자신과 파티원의 이로운 효과 시간을 증가시켜주는 마법진을 생성합니다. 증가하는 시간은 20초를 넘지 않습니다. 무적 효과는 적용되지 않습니다.	SKILL_20170420_008626	Creates a magic circle that extends the duration of beneficial effects on you and your party members. The amount of time that effects are extended by will not surpass 20 seconds.	자신과 파티원의 이로운 효과 시간을 증가시켜주는 마법진을 생성합니다. 증가하는 시간은 20초를 넘지 않습니다.	
-SKILL_20180629_011854	Duration +#{CaptionRatio2}#%{nl}Consumes Holy Powder x5	지속시간 #{CaptionRatio2}#% 증가{nl}홀리 파우더 5개 소비	SKILL_20170420_008627	Extends the remaining duration of buffs by #{CaptionRatio2}#%	지속시간 #{CaptionRatio2}#% 증가	
+SKILL_20180629_011854	Duração +#{CaptionRatio2}#%{nl}Consome Holy Powder x5
 SKILL_20180629_011855	Recupera o HP dos aliados próximos.
 SKILL_20180629_011856	Multiplicador de Cura: #{SkillFactor}#%
 SKILL_20180629_011857	Warps Available: #{CaptionRatio}#{nl}Statue Duração: 30 seg{nl}Consumes Sculpting Wood x1	워프 #{CaptionRatio}#회 가능{nl}여신상 지속시간 30초{nl}조각용 나무 1개 소비	SKILL_20150918_005127	Number of Warps: #{CaptionRatio}#{nl}Goddess Statue Duração: 30 seconds{nl}Consumes 1 Oak Wood	워프 #{CaptionRatio}#회 가능{nl}여신상 지속시간 30초{nl}떡갈나무 1개 소비	
@@ -13309,16 +13309,16 @@ SKILL_20190104_013308	Recupera o HP de um alvo selecionado. A quantidade de HP r
 SKILL_20190104_013309	Multiplicador de Cura: #{CaptionRatio2}#%
 SKILL_20190104_013310	Remove debuffs de Nv.1 dos aliados ou causa dano nos inimigos.
 SKILL_20190104_013311	Acerta inimigos com um poderoso ataque. Causa dano adicional em inimigos do tipo Mutante e Demônio.
-SKILL_20190104_013312	Summon a holy torch. Standing near the torch reduces the duration of harmful effects, and adds Fire property damage to your close-range magic attacks.	성스러운 횃불을 소환하여 횃불 가까이 붙어 있을 때 해로운 효과의 지속시간이 감소됩니다. 근처에서 근접, 마법 공격 시 불속성 추가 공격을 합니다.	SKILL_20171128_009803	Summons a holy torch, constantly restoring the HP of nearby allies while reducing the accuracy of nearby enemies. While nearby the torch, the duration of harmful effects will constantly be reduced.	성스러운 횃불을 소환하여 주변 동료들의 HP를 지속적으로 회복하고, 주변 적들의 명중이 감소됩니다. 횃불 가까이 붙어 있을 때 해로운 효과의 지속시간이 감소됩니다.	
-SKILL_20190104_013313	Torch Duração: 60 seconds{nl}Additional Fire Damage on Magic Attacks: #{CaptionRatio2}#	횃불 지속시간 60초{nl}마법 공격 시 화속성 추가 대미지 #{CaptionRatio2}#	SKILL_20180629_011852	Heal Factor: #{SkillFactor}#%{nl}Torch Duração: #{CaptionTime}# seg{nl}Add. Fire Property Dmg. per Magic Attack: #{CaptionRatio2}#	치유계수 #{SkillFactor}#%{nl}횃불 지속시간 #{CaptionTime}#초{nl}마법 공격 시 화속성 추가 대미지 #{CaptionRatio2}#	
-SKILL_20190104_013314	Ally Physical and Magic Critical Damage: +#{CaptionRatio}#%{nl}Enemy Critical Resistance: -#{CaptionRatio2}#%	아군 물리, 마법 치명타 대미지 #{CaptionRatio}#% 증가{nl}적 치명타 저항 #{CaptionRatio2}#% 감소	SKILL_20150317_001444	Ally's Critical Attack: +#{CaptionRatio}#{nl}Enemy's Critical Resistance: -#{CaptionRatio2}#	아군 치명타 공격력 #{CaptionRatio}# 증가{nl}적 치명타 저항 #{CaptionRatio2}# 감소	
-SKILL_20190104_013315	Increases your accuracy.	자신의 명중을 증가시킵니다.	SKILL_20171128_009805	Change your basic attack to a magic attack.	자신의 기본 공격을 마법 공격으로 변경합니다.	
-SKILL_20190104_013316	Accuracy: +#{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos	명중 #{CaptionRatio}#% 증가{nl}지속시간 #{CaptionTime}#초				
-SKILL_20190104_013317	Create a magic circle that calls down bolts of lightning on an enemy using the power of the God of Thunder.	뇌신의 힘으로 적에게 번개를 떨어뜨리는 마법진을 생성합니다.	SKILL_20150414_003832	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Creates a magic circle that calls down bolts of lightning on an enemy using the God of Thunder's power.	{#993399}{ol}[마법] - [전기]{/}{/}{nl}뇌신의 힘으로 적에게 번개를 떨어뜨리는 마법진을 생성합니다.	
-SKILL_20190104_013318	Multiplicador: #{SkillFactor}#% per 0.3 seconds{nl}Number of Hits: #{CaptionRatio}#{nl}Magic Circle Duração: 5 seconds	0.3초당 스킬 계수 #{SkillFactor}#%{nl}공격 횟수 #{CaptionRatio}#회{nl}마법진 지속시간 5초	SKILL_20170420_008625	Attack: #{SkillFactor}#% per 0.3 seg{nl}No. of Hits: #{CaptionRatio}#{nl}Magic Circle Duração: 30 seconds	0.3초당 공격력 #{SkillFactor}#%{nl}공격 횟수 #{CaptionRatio}#회{nl}마법진 지속시간 30초	
-SKILL_20190104_013319	Engrave a stigma on the enemy and deal Fire magic damage. The stigmatized enemy receives additional damage, and after they are defeated your STR and INT increase momentarily.	적에게 낙인을 새겨 불 속성 마법 대미지를 줍니다. 낙인이 새겨진 적은 받는 피해가 증가하며, 처치 시 힘과 지능이 일시적으로 증가합니다.	SKILL_20180320_010512	Engrave a stigma on the enemy and deal Fire magic damage. The stigmatized enemy takes 1.5 times damage from Zaibas, and increases the STR and INT of allies temporarily when defeated.	적에게 낙인을 새겨 불 속성 마법 대미지를 줍니다. 낙인이 새겨진 적은 자이바스에 1.5배의 대미지를 입으며, 처치 시 힘과 지능이 일시적으로 증가합니다.	
-SKILL_20190104_013320	Multiplicador: #{SkillFactor}#%{nl}STR and INT: +#{CaptionRatio}#%{nl}Effect Duração: #{CaptionTime}# segundos{nl}Stigma Duração: 15 seconds{nl}Damage to Enemies: +#{CaptionRatio2}#%{nl}Stigma Targets: 5	스킬 계수 #{SkillFactor}#%{nl}힘, 지능 #{CaptionRatio}#% 증가{nl}효과 지속시간 #{CaptionTime}#초{nl}낙인 지속시간 15초{nl}적에게 대미지 #{CaptionRatio2}#% 증가{nl}낙인 적용 대상 수 5	SKILL_20171128_009807	Attack: #{SkillFactor}#%{nl}STR, INT: +#{CaptionRatio}#{nl}Effect Duração: #{CaptionTime}# segundos{nl}Stigma Duração: 15 seconds{nl}No. of Targets: 5	공격력 #{SkillFactor}#%{nl}힘, 지능 #{CaptionRatio}# 증가{nl}효과 지속시간 #{CaptionTime}#초{nl}낙인 지속시간 15초{nl}낙인 적용 대상 수 5	
-SKILL_20190104_013321	Applies a buff that extends the duration of beneficial effects on yourself. The amount of time that effects are extended by will not surpass 20 seconds. Does not apply to invincibility effects.	자신의 이로운 효과 시간을 증가시켜주는 버프를 겁니다. 증가하는 시간은 20초를 넘지 않습니다. 무적 효과는 적용되지 않습니다.	SKILL_20180629_011853	Creates a magic circle that extends the duration of beneficial effects on you and your party members. The amount of time that effects are extended by will not surpass 20 seconds. Does not apply to invincibility effects.	자신과 파티원의 이로운 효과 시간을 증가시켜주는 마법진을 생성합니다. 증가하는 시간은 20초를 넘지 않습니다. 무적 효과는 적용되지 않습니다.	
+SKILL_20190104_013312	Conjura uma tocha sagrada. Permanecer próximo a esta tocha reduz a duração dos efeitos negativos e causa Dano Adicional: Fogo aos seus ataques mágicos.
+SKILL_20190104_013313	Duração de [Aukuras]: 60 segundos{nl}Dano Adicional Fogo para ataques mágicos: #{CaptionRatio2}#
+SKILL_20190104_013314	Ataque Crítico Físico e Mágico de aliados: +#{CaptionRatio}#%{nl}Resistência à Crítico do inimigo: -#{CaptionRatio2}#%
+SKILL_20190104_013315	Aumenta a sua Precisão.
+SKILL_20190104_013316	Precisão: +#{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos
+SKILL_20190104_013317	Cria um círculo mágico que chama relâmpagos para atacar os inimigos, usando o poder do Deus do Trovão.
+SKILL_20190104_013318	Multiplicador: #{SkillFactor}#% a cada 0.3 segundos{nl}Número de ataques: #{CaptionRatio}#{nl}Duração de [Zaibas]: 5 seconds
+SKILL_20190104_013319	Marque um estigma no inimigo e cause dano mágico de Fogo. O inimigo estigmatizado receberá dano adicional e, ao ser derrotado, aumentará seus atributos de STR e INT momentaneamente.
+SKILL_20190104_013320	Multiplicador: #{SkillFactor}#%{nl}STR e INT: +#{CaptionRatio}#%{nl}Duração do buff: #{CaptionTime}# segundos{nl}Duração de [Divine Stigma]: 15 segundos{nl}Dano adicional: +#{CaptionRatio2}#%{nl}Quantidade de Alvos: 5
+SKILL_20190104_013321	Aplica um buff que extende a duração de efeitos benéficos em si próprio. A quantidade de tempo extendida não passará de 20 segundos. Não se aplica a efeitos de invencibilidade.
 SKILL_20190104_013322	Espalha Holy Water para aumentar a sua Defesa Física e a dos aliados, além de causar dano nos inimigos.
 SKILL_20190104_013323	Defesa Física: +#{CaptionRatio}#%{nl}Alvos: 10{nl}Duração: #{CaptionTime}# segundos{nl}Consome Holy Water x1
 SKILL_20190104_013324	Reduz a Evasão de inimigos à sua frente.
@@ -14324,14 +14324,14 @@ SKILL_20190104_014323	* Increases the skill factor of [Cure] by 0.5% per attribu
 SKILL_20190104_014324	* Aumenta o Multiplicador de Cura de [Heal] em 0.5% por nível de atributo.{nl}* +10% adicionado no nível máximo.
 SKILL_20190104_014325	Guardian Saint: Aprimorar	수호성인: 강화				
 SKILL_20190104_014326	* Aumenta o ganho de Taxa de Cura do [Guardian Saint] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
-SKILL_20190104_014327	* Increases the skill factor of [Zaibas] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [자이바스]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010902	* Increases the damage dealt on an enemy with [Zaibas] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [자이바스]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014328	* Increases [Aukuras]' Fire-property additional damage by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [아우쿠라스]의 불 속성 추가 대미지가 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180629_012050	* Increases the heal factor of [Aukuras] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [아우쿠라스]의 치유계수가 특성 레벨당 0.5%증가{nl}* 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014329	* Increases [Zalciai]'s critical attack by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* 특성 레벨당 [잘챠이]의 치명타 공격력이 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20170420_009213	* Increases critical attack of [Zalciai] by 1% per attribute level	* 특성 레벨당 [잘챠이]의 치명타 공격력이 1% 증가	
-SKILL_20190104_014330	* Increases the skill factor of [Divine Stigma] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [디바인 스티그마]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010903	* Increases the damage dealt on an enemy with [Divine Stigma] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [디바인 스티그마]의 대미지가{nl}    특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014331	Zalciai: Critical	잘챠이: 치명				
-SKILL_20190104_014332	* Increases the critical chance of your physical attacks while under the [Zalciai] buff by 5%	* [잘챠이] 버프 상태에서 물리 공격에 대한 치명타 확률이 5% 증가				
-SKILL_20190104_014333	Zalciai: Amplify	잘챠이: 증폭				
-SKILL_20190104_014334	* Increases the critical chance of your magic attacks while under the [Zalciai] buff by 5%	* [잘챠이] 버프 상태에서 마법 공격에 대한 치명타 확률이 5% 증가				
+SKILL_20190104_014327	* Aumenta o Multiplicador de [Zaibas] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo	*
+SKILL_20190104_014328	* Aumenta o Dano Adicional: Fogo de [Aukuras] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014329	* Aumenta o ganho de Ataque Crítico de [Zalciai] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014330	* Aumenta o Multiplicador de [Divine Stigma] em 0.5% por nível de atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014331	Zalciai: Crítico
+SKILL_20190104_014332	* Aumenta a Taxa de Crítico para seus Ataques Físicos em 5% enquanto estiver sob efeito de [Zalciai]
+SKILL_20190104_014333	Zalciai: Amplificação
+SKILL_20190104_014334	* Aumenta a Taxa de Crítico para seus Ataques Mágicos em 5% enquanto estiver sob efeito de [Zalciai]		
 SKILL_20190104_014335	* Aumenta o ganho de Defesa Física de [Aspersion] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014336	* Aumenta o dano adicional de [Blessing] em 0.5% por nível de atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014337	(Old) Sacrament: Aprimorar	(전)사크라멘트: 강화	SKILL_20150317_002587	Sacrament: Aprimorar	사크라멘트: 강화	
