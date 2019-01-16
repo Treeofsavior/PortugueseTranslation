@@ -12039,8 +12039,8 @@ SKILL_20180629_012038	* Increases the duration of the [Hameln Nagetier] debuff b
 SKILL_20180629_012039	Hameln Nagetier: Rare Species	하멜른 나게티어: 희귀종				
 SKILL_20180629_012040	* 2% chance per attribute level of summoning a rare mouse species{nl}* Rare mice deal 2 hits on the first attack	* 특성 레벨당 2% 확률로 희귀종이 소환됨{nl}* 희귀종이 첫 공격 시 2연타 적용				
 SKILL_20180629_012041	* Increases the damage and heal factor of [Heal] by 0.5% per attribute level{nl}* +10% added bonus at maximum level	* 적에게 입히는 [힐]의 대미지와 [힐]의 치유계수가 특성 레벨당{nl}    0.5%증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010901	* Increases the damage dealt on an enemy with [Heal] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [힐]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20180629_012042	One-handed Blunt Mastery: Healing	한손둔기 마스터리: 치유	SKILL_20170912_009646	One-handed Blunt Mastery: Stun	한손둔기 마스터리: 스턴	
-SKILL_20180629_012043	* Increases Healing by 2% per attribute level when equipping a one-handed blunt weapon.	* 한손 둔기 착용시 특성 레벨당 치유력 2%상승	SKILL_20170313_008154	* Inflicts stun at a 2% chance per attribute level when performing a basic attack on an enemy with a [Blunt] type weapon	* 적에게 [둔기]로 기본 공격 시 특성 레벨당 2% 확률로 [스턴]	
+SKILL_20180629_012042	Maestria em Maça de 1 Mão: Cura
+SKILL_20180629_012043	* Aumenta a Taxa de Cura em 2% por nível do atributo quando equipado com Maça de 1 Mão.
 SKILL_20180629_012044	Heal: Open Sanctuary	힐: 여신의 자리				
 SKILL_20180629_012045	* Extends the effects of [Heal] to neutral characters.	* 스킬 [힐] 대상을 중립 포함으로 변경				
 SKILL_20180629_012046	Heal: Exclude Summons	힐: 소환수 제외				
@@ -13307,7 +13307,7 @@ SKILL_20190104_013306	Damage Dealt: +#{CaptionRatio}#%{nl}Damage Received: +#{Ca
 SKILL_20190104_013307	Castable Skills{nl}* Dissonanz{nl} : If failed, duration reduces 50%{nl}* Wiegenlied{nl} : If failed, Drowsy effects reduce by 50%{nl}* Marschierendeslied{nl} : If failed, duration reduces 50%{nl}* Lied des Weltbaum{nl} : If failed, duration reduces 50%{nl}Maximum Level: 1	발동 스킬{nl}* 디소난츠{nl}  : 실패 시 지속시간이 절반으로 감소{nl}* 비겐리트{nl}  : 실패 시 비몽사몽 명중 감소 효과가 절반으로 감소{nl}* 마쉬렌 데스리트{nl}  : 실패 시 지속시간이 절반으로 감소{nl}* 리트 데스 벨트바움{nl}  : 실패 시 지속시간이 절반으로 감소{nl}1레벨 마스터	SKILL_20180827_012186	Castable Skills{nl}* Dissonanz{nl} : If failed, duration reduces 50%{nl}* Wiegenlied{nl} : If failed, Drowsy effects reduce by 50%{nl}* Marschierendeslied{nl} : If failed, duration reduces 50%{nl}* Lied des Weltbaum{nl} : If failed, duration reduces 50%	발동 스킬{nl}* 디소난츠{nl}  : 실패 시 지속시간이 절반으로 감소{nl}* 비겐리트{nl}  : 실패 시 비몽사몽 명중 감소 효과가 절반으로 감소{nl}* 마쉬렌 데스리트{nl}  : 실패 시 지속시간이 절반으로 감소{nl}* 리트 데스 벨트바움{nl}  : 실패 시 지속시간이 절반으로 감소	
 SKILL_20190104_013308	Recupera o HP de um alvo selecionado. A quantidade de HP recuperada depende da sua Taxa de Cura.
 SKILL_20190104_013309	Multiplicador de Cura: #{CaptionRatio2}#%
-SKILL_20190104_013310	Cure allies with a Lv. 1 status ailment or inflict damage on enemies.	동료의 1레벨 상태이상을 해제하거나 적에게 피해를 줍니다.	SKILL_20150414_003826	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Creates a magic circle that removes a Lv1 status ailment from allies or inflicts damage to enemies. Does not affect airborne enemies.	{#993399}{ol}[마법] - [신성]{/}{/}{nl}동료의 1레벨 상태이상을 해제하거나 적에게 피해를 주는 마법진을 생성합니다. 떠 있는 대상은 적용되지 않습니다.	
+SKILL_20190104_013310	Remove debuffs de Nv.1 dos aliados ou causa dano nos inimigos.
 SKILL_20190104_013311	Strike down enemies with a powerful attack. Deals additional damage to Mutant- and Demon-type enemies.	적을 강하게 내려쳐 피해를 입힙니다. 악마형, 변이형 적에게는 추가 대미지를 줍니다				
 SKILL_20190104_013312	Summon a holy torch. Standing near the torch reduces the duration of harmful effects, and adds Fire property damage to your close-range magic attacks.	성스러운 횃불을 소환하여 횃불 가까이 붙어 있을 때 해로운 효과의 지속시간이 감소됩니다. 근처에서 근접, 마법 공격 시 불속성 추가 공격을 합니다.	SKILL_20171128_009803	Summons a holy torch, constantly restoring the HP of nearby allies while reducing the accuracy of nearby enemies. While nearby the torch, the duration of harmful effects will constantly be reduced.	성스러운 횃불을 소환하여 주변 동료들의 HP를 지속적으로 회복하고, 주변 적들의 명중이 감소됩니다. 횃불 가까이 붙어 있을 때 해로운 효과의 지속시간이 감소됩니다.	
 SKILL_20190104_013313	Torch Duration: 60 seconds{nl}Additional Fire Damage on Magic Attacks: #{CaptionRatio2}#	횃불 지속시간 60초{nl}마법 공격 시 화속성 추가 대미지 #{CaptionRatio2}#	SKILL_20180629_011852	Heal Factor: #{SkillFactor}#%{nl}Torch Duration: #{CaptionTime}# sec{nl}Add. Fire Property Dmg. per Magic Attack: #{CaptionRatio2}#	치유계수 #{SkillFactor}#%{nl}횃불 지속시간 #{CaptionTime}#초{nl}마법 공격 시 화속성 추가 대미지 #{CaptionRatio2}#	
@@ -13863,8 +13863,8 @@ SKILL_20190104_013862	+30% damage on physical attacks and Fire attacks, maximum 
 SKILL_20190104_013863	Caught in Forced Threat	강제 위협에 걸림				
 SKILL_20190104_013864	Rod Mastery	로드 마스터리				
 SKILL_20190104_013865	* Casting speed -50% when equipping a [Rod] weapon	* [로드] 착용 시 캐스팅 속도가 50% 감소함				
-SKILL_20190104_013866	Two-handed Blunt Mastery: Strike	양손둔기 마스터리: 때리기				
-SKILL_20190104_013867	* Strike damage +10% when equipping a [Two-handed Blunt] weapon	* [양손둔기] 착용시 때리기 속성으로 주는 대미지 10% 증가				
+SKILL_20190104_013866	Maestria em Maça de 2 Mãos: Impacto
+SKILL_20190104_013867	* Dano do tipo Impacto +10% ao utilizar Maça de 2 Mãos.
 SKILL_20190104_013868	* Increases the skill factor of [Bash] by 0.5% per attribute level{nl}* +10% added increase at maximum level	* [배시]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180517_011311	* Increases the damage dealt on an enemy with [Bash] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [배시]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_013869	* Increases the skill factor of [Thrust] by 0.5% per attribute level{nl}* +10% added increase at maximum level	* [쓰러스트]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010582	* Increases the damage dealt on an enemy with [Thrust] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [쓰러스트]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_013870	* Increases [Gung Ho]'s physical attack damage increasing effects by 0.5% per attribute level{nl}* +10% added increase at maximum level	* 특성 레벨당 [겅호]의 물리 공격 대미지 증가 효과가 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20170510_009422	* Amplifies physical damage increase effect and decreased defense effect of [Gung Ho] by 1% per attribute level	* 특성 레벨당 [겅호]의 물리 공격력 증가 효과가 1% 상승{nl}* 방어력 감소 효과 1% 상승	
@@ -14557,406 +14557,406 @@ SKILL_20190104_014556	* Grants immunity to status ailments of Lv 3 and below whe
 SKILL_20190104_014557	Rampage: Mad Temper	난동 부리기: 분노조절 실패				
 SKILL_20190104_014558	* Increases [Rampage]'s critical rate by 10% per attribute level for every debuff currently applied to your character{nl}* Consumo de SP + 20%	* 자신에게 적용된 디버프 하나 당, [난동 부리기] 치명타 발생이 특성 레벨당 10% 증가 적용{nl}* SP 소모 20% 증가				
 SKILL_20190104_014559	Increases the threat range of [Swash Buckling] by 0.2m per level	스킬 [스워시버클링]의 강제 위협 범위가 레벨당 0.2m 증가합니다	SKILL_20150317_002071	Increases the provocation range of [Swash Buckling] by 0.2m per level.	스킬 [스워시버클링]의 도발 범위가 레벨당 0.2m 증가합니다	
-SKILL_20190104_014560	Combustion Lv 1 and above	컴버스천 1레벨 이상	SKILL_20151224_006129	Alchemist 1st Circle required	알케미스트 1서클 필요	
-SKILL_20190104_014561	Character Lv 350 and above	캐릭터 350레벨 이상				
-SKILL_20190104_014562	Alchemistic Missile Lv 1 and above	알케미스틱 미사일 1레벨 이상	ETC_20150401_010461	Alchemist 3rd Circle required	알케미스트 3서클 필요	
-SKILL_20190104_014563	Blindside Lv 1 and above	약점공격 1레벨 이상				
-SKILL_20190104_014564	Character Lv 200 and above	캐릭터 200레벨 이상				
-SKILL_20190104_014565	Devaluation Lv 1 and above	평가절하 1레벨 이상				
-SKILL_20190104_014566	Insurance Lv 1 and above	보험증서 1레벨 이상				
-SKILL_20190104_014567	Multi Shot Lv 1 and above	멀티 샷 1레벨 이상				
-SKILL_20190104_014568	Oblique Shot Lv 1 and above	오블리크 샷 1레벨 이상				
-SKILL_20190104_014569	Swift Step Lv 1 and above	스위프트 스텝 1레벨 이상				
-SKILL_20190104_014570	Twin Arrow Lv 1 and above	트윈 애로우 1레벨 이상				
-SKILL_20190104_014571	Concentration Lv 1 and above	콘센트레이션 1레벨 이상				
-SKILL_20190104_014572	Hasisas Lv 1 and above	하시사스 1레벨 이상				
-SKILL_20190104_014573	Character Lv 100 and above	캐릭터 100레벨 이상				
-SKILL_20190104_014574	Character Lv 300 and above	캐릭터 300레벨 이상				
-SKILL_20190104_014575	Behead Lv 1 and above	카트 라시흐 1레벨 이상				
-SKILL_20190104_014576	Instant Acceleration Lv 1 and above	투사르 리히즈인 1레벨 이상				
-SKILL_20190104_014577	Hallucination Smoke Lv 1 and above	두칸 알힐루사 1레벨 이상				
-SKILL_20190104_014578	Piercing Heart Lv 1 and above	타흐카브 알칼브 1레벨 이상				
-SKILL_20190104_014579	Annihilation Lv 1 and above	이브아다탄 1레벨 이상				
-SKILL_20190104_014580	Embowel Lv 1 and above	임바우얼 1레벨 이상	SKILL_20151224_006131	Barbarian 1st Circle required	바바리안 1서클 필요	
-SKILL_20190104_014581	Stomping Kick Lv 1 and above	스톰핑 킥 1레벨 이상	SKILL_20151224_006131	Barbarian 1st Circle required	바바리안 1서클 필요	
-SKILL_20190104_014582	Cleave Lv 1 and above	클리브 1레벨 이상	SKILL_20151224_006131	Barbarian 1st Circle required	바바리안 1서클 필요	
-SKILL_20190104_014583	Character Lv 1 and above	캐릭터 1레벨 이상				
-SKILL_20190104_014584	Warcry Lv 1 and above	워크라이 1레벨 이상	SKILL_20150724_004855	Lv3 Warcry required	워크라이 3레벨 필요	
-SKILL_20190104_014585	Frenzy Lv 1 and above	프렌지 1레벨 이상				
-SKILL_20190104_014586	Seism Lv 1 and above	사이즘 1레벨 이상	ETC_20150317_005424	Barbarian 2nd Circle required	바바리안 2서클 필요	
-SKILL_20190104_014587	Pouncing Lv 1 and above	파운싱 1레벨 이상	ETC_20150317_005425	Barbarian 3rd Circle required	바바리안 3서클 필요	
-SKILL_20190104_014588	Effigy Lv 1 and above	에피지 1레벨 이상	SKILL_20151224_006132	Bokor 1st Circle required	보코르 1서클 필요	
-SKILL_20190104_014589	Character Lv 250 and above	캐릭터 250레벨 이상				
-SKILL_20190104_014590	Bwa Kayiman Lv 1 and above	브와 카이망 1레벨 이상				
-SKILL_20190104_014591	Damballa Lv 1 and above	댐발라 1레벨 이상	ETC_20150317_005427	Bokor 3rd Circle required	보코르 3서클 필요	
-SKILL_20190104_014592	Napalm Bullet Lv 1 and above	소이탄 1레벨 이상	SKILL_20171128_010179	Bulletmarker 1st Circle Required	불릿 마커 1서클 필요	
-SKILL_20190104_014593	Full Metal Jacket Lv 1 and above	풀 메탈 자켓 1레벨 이상	SKILL_20171128_010179	Bulletmarker 1st Circle Required	불릿 마커 1서클 필요	
-SKILL_20190104_014594	R.I.P. Lv 1 and above	R.I.P. 1레벨 이상	SKILL_20171128_010179	Bulletmarker 1st Circle Required	불릿 마커 1서클 필요	
-SKILL_20190104_014595	Bloody Overdrive Lv 1 and above	블러디 오버드라이브 1레벨 이상	SKILL_20171128_010179	Bulletmarker 1st Circle Required	불릿 마커 1서클 필요	
-SKILL_20190104_014596	Mozambique Drill Lv 1 and above	모잠비크 드릴 1레벨 이상	SKILL_20171128_010180	Bulletmarker 2nd Circle Required	불릿 마커 2서클 필요	
-SKILL_20190104_014597	Smash Bullet Lv 1 and above	파쇄탄 1레벨 이상	SKILL_20171128_010180	Bulletmarker 2nd Circle Required	불릿 마커 2서클 필요	
-SKILL_20190104_014598	Outrage Lv 1 and above	아웃레이지 1레벨 이상	SKILL_20180827_012505	Requires Bullet Marker Circle 3	불릿 마커 3서클 필요	
-SKILL_20190104_014599	Cannon Shot Lv 1 and above	캐논 샷 1레벨 이상	SKILL_20151224_006133	Cannoneer 1st Circle required	캐노니어 1서클 필요	
-SKILL_20190104_014600	Cannon Shot Lv 10 and above	캐논 샷 10레벨 이상	SKILL_20171128_010181	Canoneer 3rd Circle Required	캐노니어 3서클 필요	
-SKILL_20190104_014601	Siege Burst Lv 1 and above	시즈 버스트 1레벨 이상	SKILL_20151224_006133	Cannoneer 1st Circle required	캐노니어 1서클 필요	
-SKILL_20190104_014602	Cannon Blast Lv 1 and above	캐논 블래스트 1레벨 이상	SKILL_20151224_006133	Cannoneer 1st Circle required	캐노니어 1서클 필요	
-SKILL_20190104_014603	Cannon Barrage Lv 1 and above	캐논 배라지 1레벨 이상	SKILL_20161005_007149	Cannoneer 2nd Circle Required	캐노니어 2서클 필요	
-SKILL_20190104_014604	Cannon Barrage Lv 5 and above	캐논 배라지 5레벨 이상	SKILL_20171128_010181	Canoneer 3rd Circle Required	캐노니어 3서클 필요	
-SKILL_20190104_014605	Sweeping Cannon Lv 1 and above	스위핑 캐논 1레벨 이상	SKILL_20171128_010181	Canoneer 3rd Circle Required	캐노니어 3서클 필요	
-SKILL_20190104_014606	Impaler Lv 1 and above	임페일러 1레벨 이상	SKILL_20151224_006134	Cataphract 1st Circle required	캐터프랙트 1서클 필요	
-SKILL_20190104_014607	Earth Wave Lv 1 and above	어스 웨이브 1레벨 이상	SKILL_20151224_006134	Cataphract 1st Circle required	캐터프랙트 1서클 필요	
-SKILL_20190104_014608	Steed Charge Lv 1 and above	스티드 차지 1레벨 이상	SKILL_20151224_006134	Cataphract 1st Circle required	캐터프랙트 1서클 필요	
-SKILL_20190104_014609	Doom Spike Lv 1 and above	둠 스파이크 1레벨 이상	SKILL_20150724_004859	Cataphract 2nd Circle required	캐터프랙트 2서클 필요	
-SKILL_20190104_014610	Rush Lv 1 and above	돌격 1레벨 이상	SKILL_20150724_004860	Cataphract 3rd Circle required	캐터프랙트 3서클 필요	
-SKILL_20190104_014611	Acrobatic Mount Lv 1 and above	아크로바틱 마운트 1레벨 이상				
-SKILL_20190104_014612	Last Rites Lv 1 and above	종부성사 1레벨 이상				
-SKILL_20190104_014613	Last Rites Lv 10 and above	종부성사 10레벨 이상				
-SKILL_20190104_014614	Aspergillum Lv 1 and above	아스페르길룸 1레벨 이상				
-SKILL_20190104_014615	Binatio Lv 1 and above	비나시오 1레벨 이상				
-SKILL_20190104_014616	Deploy Cappella Lv 1 and above	카펠라 설치 1레벨 이상				
-SKILL_20190104_014617	Reincarnate Lv 1 and above	환생 1레벨 이상				
-SKILL_20190104_014618	Pass Lv 1 and above	패스 1레벨 이상				
-SKILL_20190104_014619	Heal Lv 1 and above	힐 1레벨 이상	SKILL_20151224_006139	Cleric 1st Circle required	클레릭 1서클 필요	
-SKILL_20190104_014620	Cure Lv 1 and above	큐어 1레벨 이상	SKILL_20151224_006139	Cleric 1st Circle required	클레릭 1서클 필요	
-SKILL_20190104_014621	Smite Lv 1 and above	스마이트 1레벨 이상				
-SKILL_20190104_014622	Guardian Saint Lv 1 and above	수호성인 1레벨 이상				
-SKILL_20190104_014623	Jolly Roger Lv 1 and above	졸리 로저 1레벨 이상				
-SKILL_20190104_014624	Keel Hauling Lv 1 and above	킬홀링 1레벨 이상	SKILL_20151224_006140	Corsair 1st Circle required	커세어 1서클 필요	
-SKILL_20190104_014625	Dust Devil Lv 1 and above	더스트 데블 1레벨 이상	SKILL_20151224_006140	Corsair 1st Circle required	커세어 1서클 필요	
-SKILL_20190104_014626	Hexen Dropper Lv 1 and above	헥슨 드롭퍼 1레벨 이상	SKILL_20151001_005290	Corsair 2nd Circle required	커세어 2서클 필요	
-SKILL_20190104_014627	Quick and Dead Lv 1 and above	퀵 앤드 데드 1레벨 이상	SKILL_20151224_006141	Corsair 3rd Circle required	커세어 3서클 필요	
-SKILL_20190104_014628	Impale Dagger Lv 1 and above	임페일 대거 1레벨 이상	SKILL_20151224_006141	Corsair 3rd Circle required	커세어 3서클 필요	
-SKILL_20190104_014629	Begone Demon Lv 1 and above	급급여율령 1레벨 이상	SKILL_20161005_007150	Taoist 1st Circle Required	도사 1서클 필요	
-SKILL_20190104_014630	Divine Punishment Lv 1 and above	천형부 1레벨 이상	SKILL_20171128_010182	Taoist 2nd Circle Required	도사 2서클 필요	
-SKILL_20190104_014631	Eradication Lv 1 and above	퇴마부 1레벨 이상	SKILL_20180827_012507	Requires Taoist Circle 3	도사 3서클 필요	
-SKILL_20190104_014632	Lightning Charm Lv 1 and above	취전부 1레벨 이상				
-SKILL_20190104_014633	Storm Calling Lv 1 and above	호풍환우부 1레벨 이상				
-SKILL_20190104_014634	Creeping Death Charm Lv 1 and above	파사부 1레벨 이상				
-SKILL_20190104_014635	Tri-disaster Charm Lv 1 and above	삼재부 1레벨 이상				
-SKILL_20190104_014636	Carve Attack Lv 1 and above	목각 공격 1레벨 이상	SKILL_20151224_006142	Dievdirbys 1st Circle required	딥디르비 1서클 필요	
-SKILL_20190104_014637	Carve Owl Lv 1 and above	부엉이 조각상 1레벨 이상	ETC_20150317_005432	Dievdirbys 2nd Circle required	딥디르비 2서클 필요	
-SKILL_20190104_014638	Carve World Tree Lv 1 and above	세계수 조각 1레벨 이상				
-SKILL_20190104_014639	Punish Lv 1 and above	퍼니시 1레벨 이상	SKILL_20151224_006143	Doppelsoeldner 1st Circle required	도펠죌트너 1서클 필요	
-SKILL_20190104_014640	Cyclone Lv 1 and above	사이클론 1레벨 이상	SKILL_20151224_006143	Doppelsoeldner 1st Circle required	도펠죌트너 1서클 필요	
-SKILL_20190104_014641	Zornhau Lv 1 and above	존하우 1레벨 이상	SKILL_20151224_006145	Doppelsoeldner 2nd Circle required	도펠죌트너 2서클 필요	
-SKILL_20190104_014642	Zucken Lv 1 and above	츠켄 1레벨 이상	SKILL_20151224_006145	Doppelsoeldner 2nd Circle required	도펠죌트너 2서클 필요	
-SKILL_20190104_014643	Redel Lv 1 and above	레델 1레벨 이상	SKILL_20151224_006145	Doppelsoeldner 2nd Circle required	도펠죌트너 2서클 필요	
-SKILL_20190104_014644	Zwerchhau Lv 1 and above	즈버크하우 1레벨 이상	SKILL_20161005_007151	Doppelsoeldner 3rd Circle Required	도펠죌트너 3서클 필요	
-SKILL_20190104_014645	Sturtzhau Lv 1 and above	슈트루츠하우 1레벨 이상	SKILL_20161005_007151	Doppelsoeldner 3rd Circle Required	도펠죌트너 3서클 필요	
-SKILL_20190104_014646	Dragontooth Lv 1 and above	드래곤 투스 1레벨 이상	SKILL_20151224_006146	Dragoon 1st Circle required	드라군 1서클 필요	
-SKILL_20190104_014647	Serpentine Lv 1 and above	서펜틴 1레벨 이상	SKILL_20151224_006146	Dragoon 1st Circle required	드라군 1서클 필요	
-SKILL_20190104_014648	Gae Bulg Lv 1 and above	게이 불그 1레벨 이상	SKILL_20151224_006146	Dragoon 1st Circle required	드라군 1서클 필요	
-SKILL_20190104_014649	Dragon Soar Lv 1 and above	드래곤 소어 1레벨 이상	SKILL_20151224_006146	Dragoon 1st Circle required	드라군 1서클 필요	
-SKILL_20190104_014650	Dethrone Lv 1 and above	디쓰론 1레벨 이상	SKILL_20161005_007155	Dragoon 2nd Circle Required	드라군 2서클 필요	
-SKILL_20190104_014651	Dragon Fall Lv 1 and above	드래곤 폴 1레벨 이상	SKILL_20171128_010183	Dragoon 3rd Circle Required	드라군 3서클 필요	
-SKILL_20190104_014652	Sterea Trofh Lv 1 and above	스트레아 트로페 1레벨 이상	SKILL_20151224_006148	Druid 1st Circle required	드루이드 1서클 필요	
-SKILL_20190104_014653	Chortasmata Lv 1 and above	코르타스마타 1레벨 이상				
-SKILL_20190104_014654	Seed Bomb Lv 1 and above	씨앗폭탄 1레벨 이상				
-SKILL_20190104_014655	Thorn Lv 1 and above	가시덩굴 1레벨 이상				
-SKILL_20190104_014656	Electrocute Lv 1 and above	일렉트로큐트 1레벨 이상	SKILL_20151224_006149	Elementalist 1st Circle required	엘리멘탈리스트 1서클 필요	
-SKILL_20190104_014657	Hail Lv 1 and above	헤일 1레벨 이상	SKILL_20151224_006149	Elementalist 1st Circle required	엘리멘탈리스트 1서클 필요	
-SKILL_20190104_014658	Meteor Lv 1 and above	메테오 1레벨 이상	ETC_20150323_009727	Elementalist 3rd Circle required	엘리멘탈리스트 3서클 필요	
-SKILL_20190104_014659	Storm Dust Lv 1 and above	스톰 더스트 1레벨 이상	ETC_20150323_009726	Elementalist 2nd Circle required	엘리멘탈리스트 2서클 필요	
-SKILL_20190104_014660	Enchant Glove Lv 1 and above	인챈트 글로브 1레벨 이상				
-SKILL_20190104_014661	Rubric Lv 1 and above	루브릭 1레벨 이상	SKILL_20180629_012095	Requires Exorcist Circle 1	엑소시스트 1서클 필요	
-SKILL_20190104_014662	Entity Lv 1 and above	엔터티 1레벨 이상	SKILL_20180629_012095	Requires Exorcist Circle 1	엑소시스트 1서클 필요	
-SKILL_20190104_014663	Aqua Benedicta Lv 1 and above	아쿠아 베네틱타 1레벨 이상	SKILL_20180629_012095	Requires Exorcist Circle 1	엑소시스트 1서클 필요	
-SKILL_20190104_014664	Gregorate Lv 1 and above	그레고레이트 1레벨 이상	SKILL_20180629_012096	Requires Exorcist Circle 2	엑소시스트 2서클 필요	
-SKILL_20190104_014665	Koinonia Lv 1 and above	코이노니아 1레벨 이상	SKILL_20180629_012096	Requires Exorcist Circle 2	엑소시스트 2서클 필요	
-SKILL_20190104_014666	Katadikazo Lv 1 and above	카타디카조 1레벨 이상	SKILL_20180827_012513	Requires Exorcist Circle 3	엑소시스트 3서클 필요	
-SKILL_20190104_014667	Pheasant Lv 1 and above	멍텅구 1레벨 이상				
-SKILL_20190104_014668	Sonic Strike Lv 1 and above	음속타 1레벨 이상				
-SKILL_20190104_014669	Sonic Strike Lv 5 and above	음속타 5레벨 이상				
-SKILL_20190104_014670	Tomahawk Lv 1 and above	토마호크 1레벨 이상				
-SKILL_20190104_014671	Blood Bath and Blood Sucking Lv 1 and above	블러드배쓰 1레벨, 흡혈 1레벨 이상	SKILL_20151224_006152	Lv. 1 Blood Bath & Lv. 1 Blood Sucking required	블러드배쓰 1레벨, 흡혈 1레벨 필요	
-SKILL_20190104_014672	Blood Bath Lv 1 and above	블러드배쓰 1레벨 이상	SKILL_20151224_006153	Featherfoot 1st Circle required	페더풋 1서클 필요	
-SKILL_20190104_014673	Blood Sucking Lv 1 and above	흡혈 1레벨 이상	SKILL_20151224_006153	Featherfoot 1st Circle required	페더풋 1서클 필요	
-SKILL_20190104_014674	Bone Pointing Lv 1 and above	본 포인팅 1레벨 이상	SKILL_20151224_006153	Featherfoot 1st Circle required	페더풋 1서클 필요	
-SKILL_20190104_014675	Ngadhundi Lv 1 and above	은가둔디 1레벨 이상	SKILL_20151224_006153	Featherfoot 1st Circle required	페더풋 1서클 필요	
-SKILL_20190104_014676	Kundela Slash Lv 1 and above	쿤델라 슬래시 1레벨 이상	SKILL_20161005_007158	Featherfoot 2nd Circle Required	페더풋 2서클 필요	
-SKILL_20190104_014677	Enervation Lv 1 and above	에너베이션 1레벨 이상				
-SKILL_20190104_014678	Sept Etoiles Lv 1 and above	세테뚜와르 1레벨 이상				
-SKILL_20190104_014679	Esquive Toucher Lv 1 and above	에스뀌브 뚜슈 1레벨 이상				
-SKILL_20190104_014680	Flanconnade Lv 1 and above	플랑코나드 1레벨 이상				
-SKILL_20190104_014681	Attaque Composee Lv 1 and above	아따끄 꽁뽀제 1레벨 이상				
-SKILL_20190104_014682	Balestra Fente Lv 1 and above	발레스트라 팡트 1레벨 이상				
-SKILL_20190104_014683	Epee Garde Lv 1 and above	에페 갸르드 1레벨 이상				
-SKILL_20190104_014684	Fleche Lv 1 and above	플레쉬 1레벨 이상				
-SKILL_20190104_014685	Character Lv 1 and above	캐릭터 레벨 1이상				
-SKILL_20190104_014686	Fireball Lv 1 and above	파이어볼 1레벨 이상	SKILL_20150724_004863	Pyromancer 1st Circle required	파이로맨서 1서클 필요	
-SKILL_20190104_014687	Fire Wall Lv 1 and above	파이어 월 1레벨 이상	SKILL_20150724_004863	Pyromancer 1st Circle required	파이로맨서 1서클 필요	
-SKILL_20190104_014688	Flame Ground Lv 1 and above	플레임 그라운드 1레벨 이상	SKILL_20150724_004863	Pyromancer 1st Circle required	파이로맨서 1서클 필요	
-SKILL_20190104_014689	Fire Pillar Lv 1 and above	파이어 필라 1레벨 이상	ETC_20150317_005436	Pyromancer 2nd Circle required	파이로맨서 2서클 필요	
-SKILL_20190104_014690	Hell Breath Lv 1 and above	헬 브레쓰 1레벨 이상	ETC_20150317_005437	Pyromancer 3rd Circle required	파이로맨서 3서클 필요	
-SKILL_20190104_014691	Prominence Lv 1 and above	홍염 1레벨 이상				
-SKILL_20190104_014692	Broadhead Lv 1 and above	브로드 헤드 1레벨 이상	SKILL_20151224_006157	Fletcher 1st Circle required	플레쳐 1서클 필요	
-SKILL_20190104_014693	Bodkin Point Lv 1 and above	보드킨 포인트 1레벨 이상	SKILL_20151224_006157	Fletcher 1st Circle required	플레쳐 1서클 필요	
-SKILL_20190104_014694	Barbed Arrow Lv 1 and above	바브드 애로우 1레벨 이상	SKILL_20151224_006157	Fletcher 1st Circle required	플레쳐 1서클 필요	
-SKILL_20190104_014695	Crossfire Lv 1 and above	크로스파이어 1레벨 이상	SKILL_20151224_006157	Fletcher 1st Circle required	플레쳐 1서클 필요	
-SKILL_20190104_014696	Magic Arrow Lv 1 and above	매직 애로우 1레벨 이상	ETC_20150401_010464	Fletcher 2nd Circle required	플레쳐 2서클 필요	
-SKILL_20190104_014697	Divine Machine Arrow Lv 1 and above	신기전 1레벨 이상	ETC_20150401_010465	Fletcher 3rd Circle required	플레쳐 3서클 필요	
-SKILL_20190104_014698	Ice Bolt Lv 1 and above	아이스 볼트 1레벨 이상	SKILL_20150724_004864	Cryomancer 1st Circle required	크리오맨서 1서클 필요	
-SKILL_20190104_014699	Ice Pike Lv 1 and above	아이스 파이크 1레벨 이상	SKILL_20150724_004864	Cryomancer 1st Circle required	크리오맨서 1서클 필요	
-SKILL_20190104_014700	Ice Blast Lv 1 and above	아이스 블래스트 1레벨 이상	SKILL_20150724_004864	Cryomancer 1st Circle required	크리오맨서 1서클 필요	
-SKILL_20190104_014701	Snow Rolling Lv 1 and above	스노우 롤링 1레벨 이상	ETC_20150317_005439	Cryomancer 3rd Circle required	크리오맨서 3서클 필요	
-SKILL_20190104_014702	Frost Pillar Lv 1 and above	프로스트 필라 1레벨 이상	ETC_20150317_005439	Cryomancer 3rd Circle required	크리오맨서 3서클 필요	
-SKILL_20190104_014703	Skarphuggning Lv 1 and above	스칼푸그닝 1레벨 이상	SKILL_20161005_007160	Hackapell 1st Circle Required	하카펠 1서클 필요	
-SKILL_20190104_014704	Cavalry Charge Lv 1 and above	카발리 차지 1레벨 이상	SKILL_20161005_007160	Hackapell 1st Circle Required	하카펠 1서클 필요	
-SKILL_20190104_014705	Grind Cutter Lv 1 and above	그라인드 커터 1레벨 이상	SKILL_20171128_010187	Hackapell 2nd Circle Required	하카펠 2서클 필요	
-SKILL_20190104_014706	Infinite Assault Lv 1 and above	인피니트 어썰트 1레벨 이상	SKILL_20180827_012517	Requires Hackapell Circle 3	하카펠 3서클 필요	
-SKILL_20190104_014707	Helm Copper Lv 1 and above	헬름 쵸퍼 1레벨 이상				
-SKILL_20190104_014708	Storm Bolt Lv 1 and above	스톰 볼트 1레벨 이상				
-SKILL_20190104_014709	Wagon Wheel Lv 1 and above	수레바퀴 1레벨 이상	SKILL_20151224_006158	Highlander 1st Circle required	하이랜더 1서클 필요	
-SKILL_20190104_014710	Cartar Stroke Lv 1 and above	카타 스트로크 1레벨 이상	SKILL_20151224_006158	Highlander 1st Circle required	하이랜더 1서클 필요	
-SKILL_20190104_014711	Cartar Stroke Lv 3 and above	카타 스트로크 3레벨 이상				
-SKILL_20190104_014712	Crown Lv 1 and above	크라운 1레벨 이상	SKILL_20151224_006158	Highlander 1st Circle required	하이랜더 1서클 필요	
-SKILL_20190104_014713	Cross Guard Lv 1 and above	크로스 가드 3레벨 이상	SKILL_20150724_004868	Lv3 Cross Guard required	크로스 가드 3레벨 필요	
-SKILL_20190104_014714	Moulinet Lv 1 and above	뮬리넷 1레벨 이상	SKILL_20150724_004869	Highlander 2nd Circle required	하이랜더 2서클 필요	
-SKILL_20190104_014715	Skyliner Lv 1 and above	스카이 라이너 1레벨 이상	SKILL_20150724_004869	Highlander 2nd Circle required	하이랜더 2서클 필요	
-SKILL_20190104_014716	Crosscut Lv 1 and above	크로스컷 1레벨 이상	SKILL_20150724_004869	Highlander 2nd Circle required	하이랜더 2서클 필요	
-SKILL_20190104_014717	Crosscut Lv 7 and above	크로스컷 7레벨 이상				
-SKILL_20190104_014718	Pierce Lv 1 and above	피어스 1레벨 이상				
-SKILL_20190104_014719	Synchro Thrusting Lv 1 and above	양손 찌르기 1레벨 이상				
-SKILL_20190104_014720	Sharp Spear Lv 1 and above	샤프 스피어 1레벨 이상				
-SKILL_20190104_014721	Spear Throw Lv 1 and above	투창 1레벨 이상				
-SKILL_20190104_014722	Spear Lunge Lv 1 and above	스피어 런지 1레벨 이상				
-SKILL_20190104_014723	Finestra Lv 1 and above	피네스트라 1레벨 이상				
-SKILL_20190104_014724	Stabbing Lv 1 and above	스태빙 1레벨 이상				
-SKILL_20190104_014725	Coursing Lv 1 and above	코싱 1레벨 이상	SKILL_20151224_006160	Hunter 1st Circle required	헌터 1서클 필요	
-SKILL_20190104_014726	Rush Dog Lv 1 and above	러시 도그 1레벨 이상	SKILL_20151224_006160	Hunter 1st Circle required	헌터 1서클 필요	
-SKILL_20190104_014727	Retrieve Lv 1 and above	리트리브 1레벨 이상	SKILL_20150724_004872	Hunter 2nd Circle required	헌터 2서클 필요	
-SKILL_20190104_014728	Howling Lv 1 and above	하울링 1레벨 이상				
-SKILL_20190104_014729	God Smash Lv 1 and above	갓 스매시 1레벨 이상	SKILL_20161005_007161	Inquisitor 1st Circle Required	인퀴지터 1서클 필요	
-SKILL_20190104_014730	Pear of Anguish Lv 1 and above	절망의 배 1레벨 이상	SKILL_20161005_007161	Inquisitor 1st Circle Required	인퀴지터 1서클 필요	
-SKILL_20190104_014731	Breaking Wheel Lv 1 and above	브레이킹 휠 1레벨 이상	SKILL_20161005_007161	Inquisitor 1st Circle Required	인퀴지터 1서클 필요	
-SKILL_20190104_014732	Malleus Maleficarum Lv 1 and above	마도 심판 1레벨 이상	SKILL_20161005_007161	Inquisitor 1st Circle Required	인퀴지터 1서클 필요	
-SKILL_20190104_014733	Ripper Lv 1 and above	브레스트 리퍼 1레벨 이상	SKILL_20180827_012519	Requires Inquisitor Circle 3	인퀴지터 3서클 필요	
-SKILL_20190104_014734	Ein Sof Lv 1 and above	아인 소프 1레벨 이상				
-SKILL_20190104_014735	Merkabah Lv 1 and above	메르카바 1레벨 이상				
-SKILL_20190104_014736	Character Lv 150 and above	캐릭터 150레벨 이상				
-SKILL_20190104_014737	Nachash Lv 1 and above	나하시 1레벨 이상				
-SKILL_20190104_014738	Tree of Sepiroth Lv 1 and above	세피로트의 나무 1레벨 이상				
-SKILL_20190104_014739	Aukuras Lv 1 and above	아우쿠라스 1레벨 이상	SKILL_20151224_006162	Krivis 1st Circle required	크리비 1서클 필요	
-SKILL_20190104_014740	Zalciai Lv 1 and above	잘챠이 1레벨 이상	SKILL_20151016_005356	Lv. 3 Zalciai required	잘챠이 3레벨 필요	
-SKILL_20190104_014741	Zaibas Lv 1 and above	자이바스 1레벨 이상	SKILL_20151224_006162	Krivis 1st Circle required	크리비 1서클 필요	
-SKILL_20190104_014742	Divine Stigma Lv 1 and above	디바인 스티그마 1레벨 이상	ETC_20150317_005444	Krivis 2nd Circle required	크리비 2서클 필요	
-SKILL_20190104_014743	Crush Lv 1 and above	크러시 1레벨 이상	SKILL_20161005_007163	Lancer 1st Circle Required	랜서 1서클 필요	
-SKILL_20190104_014744	Joust Lv 1 and above	자우스트 1레벨 이상				
-SKILL_20190104_014745	Unhorsing Lv 1 and above	낙마 공격 1레벨 이상				
-SKILL_20190104_014746	Quintain Lv 1 and above	퀸테인 1레벨 이상				
-SKILL_20190104_014747	Initiate Lv 1 and above	개시 1레벨 이상				
-SKILL_20190104_014748	Rhongomiant Lv 1 and above	롱고미안트 1레벨 이상				
-SKILL_20190104_014749	Gigante Marcha Lv 1 and above	기간테 마르샤 1레벨 이상				
-SKILL_20190104_014750	Muleta Lv 1 and above	물레타 1레벨 이상	SKILL_20171128_010192	Matador 1st Circle Required	마타도르 1서클 필요	
-SKILL_20190104_014751	Faena Lv 1 and above	파에나 1레벨 이상				
-SKILL_20190104_014752	Capote Lv 1 and above	카포티 1레벨 이상				
-SKILL_20190104_014753	Ole Lv 1 and above	올레 1레벨 이상				
-SKILL_20190104_014754	Paso Doble Lv 1 and above	파소 도블레 1레벨 이상	SKILL_20171128_010193	Matador 2nd Circle Required	마타도르 2서클 필요	
-SKILL_20190104_014755	Paso Doble Lv 1 and above	파소 도블레 3레벨 이상	SKILL_20171128_010193	Matador 2nd Circle Required	마타도르 2서클 필요	
-SKILL_20190104_014756	Corrida Finale Lv 1 and above	코리다 피날레 1레벨 이상				
-SKILL_20190104_014757	Spread Shot Lv 1 and above	스프레드 샷 1레벨 이상	SKILL_20161005_007164	Mergen 1st Circle Required	메르겐 1서클 필요	
-SKILL_20190104_014758	Homing Arrow Lv 1 and above	호밍 애로우 1레벨 이상	SKILL_20161005_007164	Mergen 1st Circle Required	메르겐 1서클 필요	
-SKILL_20190104_014759	Triple Arrow Lv 1 and above	트리플 애로우 1레벨 이상				
-SKILL_20190104_014760	Triple Arrow Lv 5 and above	트리플 애로우 5레벨 이상				
-SKILL_20190104_014761	Arrow Sprinkle Lv 1 and above	화살비 1레벨 이상				
-SKILL_20190104_014762	Down Fall Lv 1 and above	다운 폴 1레벨 이상				
-SKILL_20190104_014763	Down Fall Lv 5 and above	다운 폴 5레벨 이상				
-SKILL_20190104_014764	Jump Shot Lv 1 and above	도약 사격 1레벨 이상				
-SKILL_20190104_014765	Zenith Lv 1 and above	제니쓰 1레벨 이상				
-SKILL_20190104_014766	Gohei Lv 1 and above	고헤이 1레벨 이상	SKILL_20161214_007297	Miko 1st Circle required	무녀 1서클 필요	
-SKILL_20190104_014767	Hamaya Lv 1 and above	하마야 1레벨 이상				
-SKILL_20190104_014768	Omikuji Lv 1 and above	오미쿠지 1레벨 이상				
-SKILL_20190104_014769	Double Punch Lv 1 and above	쌍쇄공 1레벨 이상	SKILL_20151224_006164	Monk 1st Circle required	몽크 1서클 필요	
-SKILL_20190104_014770	Palm Strike Lv 1 and above	철사장 1레벨 이상	SKILL_20151224_006164	Monk 1st Circle required	몽크 1서클 필요	
-SKILL_20190104_014771	Hand Knife Lv 1 and above	관음장 1레벨 이상	SKILL_20151224_006164	Monk 1st Circle required	몽크 1서클 필요	
-SKILL_20190104_014772	Energy Blast Lv 1 and above	양광수 1레벨 이상	ETC_20150401_010466	Monk 2nd Circle required	몽크 2서클 필요	
-SKILL_20190104_014773	One Inch Punch Lv 1 and above	촌경 1레벨 이상	ETC_20150401_010466	Monk 2nd Circle required	몽크 2서클 필요	
-SKILL_20190104_014774	God Finger Flick Lv 1 and above	탄지신통 1레벨 이상	ETC_20150401_010466	Monk 2nd Circle required	몽크 2서클 필요	
-SKILL_20190104_014775	Frenzied Slash Lv 1 and above	프렌지드 슬래시 1레벨 이상	SKILL_20161005_007165	Murmillo 1st Circle Required	무르밀로 1서클 필요	
-SKILL_20190104_014776	Evade Thrust Lv 1 and above	이베이드 쓰러스트 1레벨 이상	SKILL_20161005_007165	Murmillo 1st Circle Required	무르밀로 1서클 필요	
-SKILL_20190104_014777	Headbutt Lv 1 and above	헤드버트 1레벨 이상	SKILL_20161005_007165	Murmillo 1st Circle Required	무르밀로 1서클 필요	
-SKILL_20190104_014778	Scutum Hit Lv 1 and above	스큐텀 힛 1레벨 이상	SKILL_20161005_007165	Murmillo 1st Circle Required	무르밀로 1서클 필요	
-SKILL_20190104_014779	Shield Train Lv 1 and above	실드 트레인 1레벨 이상				
-SKILL_20190104_014780	Emperor's Bane Lv 1 and above	엠퍼러즈 베인 1레벨 이상	SKILL_20180827_012526	Requires Murmillo Circle 3	무르밀로 3서클 필요	
-SKILL_20190104_014781	Covering Fire Lv 1 and above	커버링 파이어 1레벨 이상	SKILL_20151224_006165	Musketeer 1st Circle required	머스킷티어 1서클 필요	
-SKILL_20190104_014782	Headshot Lv 1 and above	헤드 샷 1레벨 이상	SKILL_20151224_006165	Musketeer 1st Circle required	머스킷티어 1서클 필요	
-SKILL_20190104_014783	Snipe Lv 1 and above	스나이프 1레벨 이상	SKILL_20161005_007167	Musketeer 2nd Circle Required	머스킷티어 2서클 필요	
-SKILL_20190104_014784	Penetration Shot Lv 1 and above	페네트레이션 샷 1레벨 이상	SKILL_20151224_006165	Musketeer 1st Circle required	머스킷티어 1서클 필요	
-SKILL_20190104_014785	Penetration Shot Lv 10 and above	페네트레이션 샷 10레벨 이상	SKILL_20171128_010196	Musketeer 3rd Circle Required	머스킷티어 3서클 필요	
-SKILL_20190104_014786	Volley Fire Lv 1 and above	발리 파이어 1레벨 이상	SKILL_20161005_007167	Musketeer 2nd Circle Required	머스킷티어 2서클 필요	
-SKILL_20190104_014787	Te Kha Lv 1 and above	때카 1레벨 이상	SKILL_20180208_010376	Nak Muay C1 required	낙무아이 1서클 필요	
-SKILL_20190104_014788	Sok Chiang Lv 1 and above	쏙콴 1레벨 이상	SKILL_20180208_010376	Nak Muay C1 required	낙무아이 1서클 필요	
-SKILL_20190104_014789	Te Trong Lv 1 and above	때트롱 1레벨 이상	SKILL_20180208_010376	Nak Muay C1 required	낙무아이 1서클 필요	
-SKILL_20190104_014790	Khao Loi Lv 1 and above	카오로이 1레벨 이상	SKILL_20180208_010376	Nak Muay C1 required	낙무아이 1서클 필요	
-SKILL_20190104_014791	Ram Muay Lv 1 and above	람무아이 1레벨 이상				
-SKILL_20190104_014792	Gather Corpse Lv 1 and above	게더 콥스 1레벨 이상	SKILL_20151224_006166	Necromancer 1st Circle required	네크로맨서 1서클 필요	
-SKILL_20190104_014793	Create Shoggoth Lv 1 and above	쇼고스 만들기 1레벨 이상				
-SKILL_20190104_014794	Create Shoggoth Lv 3 and above	쇼고스 만들기 3레벨 이상	SKILL_20151001_005291	Lv. 2 Create Shoggoth required	쇼고스 만들기 2레벨 필요	
-SKILL_20190104_014795	Flesh Hoop Lv 1 and above	플레시 후프 1레벨 이상				
-SKILL_20190104_014796	Raise Skull Soldier Lv 1 and above	해골 병사 만들기 1레벨 이상				
-SKILL_20190104_014797	Corpse Tower Lv 1 and above	콥스 타워 1레벨 이상	ETC_20150401_010468	Necromancer 2nd Circle required	네크로맨서 2서클 필요	
-SKILL_20190104_014798	Flesh Cannon Lv 1 and above	플레시 캐논 1레벨 이상				
-SKILL_20190104_014799	Raise Skull Archer Lv 1 and above	헤골 궁수 만들기 1레벨 이상				
-SKILL_20190104_014800	Fire Fox Shikigami Lv 1 and above	불여우 식신령 1레벨 이상				
-SKILL_20190104_014801	Greenwood Shikigami Lv 1 and above	생목의 식신령 1레벨 이상	SKILL_20180418_011097	Requires Onmyoji Circle 1	음양사 1서클 필요	
-SKILL_20190104_014802	Howling White Tiger Lv 1 and above	백호령 1레벨 이상	SKILL_20180418_011097	Requires Onmyoji Circle 1	음양사 1서클 필요	
-SKILL_20190104_014803	Water Shikigami Lv 1 and above	살수의 식신령 1레벨 이상	SKILL_20180418_011097	Requires Onmyoji Circle 1	음양사 1서클 필요	
-SKILL_20190104_014804	Toyou Lv 1 and above	토용 1레벨 이상	SKILL_20180418_011099	Requires Onmyoji Circle 2	음양사 2서클 필요	
-SKILL_20190104_014805	Yin Yang Harmony Lv 1 and above	음양조화 1레벨 이상	SKILL_20180827_012528	Requires Onmyoji Circle 3	음양사 3서클 필요	
-SKILL_20190104_014806	Counter Spell Lv 1 and above	카운터 스펠 1레벨 이상				
-SKILL_20190104_014807	Death Sentence Lv 1 and above	죽음의 선고 1레벨 이상				
-SKILL_20190104_014808	Divine Might Lv 10 and above	디바인 마이트 10레벨 이상				
-SKILL_20190104_014809	Twist of Fate Lv 1 and above	트위스트 오브 페이트 1레벨 이상				
-SKILL_20190104_014810	Throw Sand Lv 1 and above	모래 뿌리기 1레벨 이상				
-SKILL_20190104_014811	Brick Smash Lv 1 and above	벽돌 깨기 1레벨 이상				
-SKILL_20190104_014812	Mangle Lv 1 and above	난도질 1레벨 이상				
-SKILL_20190104_014813	Blindfire Lv 1 and above	난사 1레벨 이상				
-SKILL_20190104_014814	Bully Lv 1 and above	농락 1레벨 이상				
-SKILL_20190104_014815	Rampage Lv 1 and above	난동 부리기 1레벨 이상				
-SKILL_20190104_014816	Stone Skin Lv 1 and above	스톤 스킨 1레벨 이상				
-SKILL_20190104_014817	Restoration Lv 1 and above	리스토레이션 1레벨 이상				
-SKILL_20190104_014818	Resist Elements Lv 1 and above	레지스트 엘리멘츠 1레벨 이상				
-SKILL_20190104_014819	Conviction Lv 1 and above	컨빅션 1레벨 이상				
-SKILL_20190104_014820	Sanctuary Lv 1 and above	생츄어리 1레벨 이상				
-SKILL_20190104_014821	Demolition Lv 1 and above	데몰리션 1레벨 이상				
-SKILL_20190104_014822	Indulgentia Lv 1 and above	인둘겐티아 1레벨 이상	SKILL_20151224_006170	Pardoner 1st Circle required	파드너 1서클 필요	
-SKILL_20190104_014823	Discerning Evil Lv 1 and above	디서닝 이블 1레벨 이상				
-SKILL_20190104_014824	Increase Magic Defense Lv 1 and above	마법 방어력 증가 1레벨 이상				
-SKILL_20190104_014825	Decatose Lv 1 and above	데카토스 1레벨 이상				
-SKILL_20190104_014826	Umbo Blow Lv 1 and above	엄보 블로 1레벨 이상	SKILL_20151224_006171	Peltasta 1st Circle required	펠타스타 1서클 필요	
-SKILL_20190104_014827	Umbo Blow Lv 5 and above	엄보 블로 5레벨 이상				
-SKILL_20190104_014828	Rim Blow Lv 1 and above	림 블로 1레벨 이상	SKILL_20151224_006171	Peltasta 1st Circle required	펠타스타 1서클 필요	
-SKILL_20190104_014829	Rim Blow Lv 3 and above	림 블로 3레벨 이상				
-SKILL_20190104_014830	Guardian Lv 1 and above	가디언 1레벨 이상				
-SKILL_20190104_014831	Shield Lob Lv 1 and above	실드 로브 1레벨 이상	SKILL_20160718_006419	Peltasta 2nd Circle required	펠타스타 2서클 필요	
-SKILL_20190104_014832	High Guard Lv 1 and above	하이 가드 1레벨 이상				
-SKILL_20190104_014833	Hard Shield Lv 1 and above	하드 실드 1레벨 이상				
-SKILL_20190104_014834	Hypnotische Floete Lv 1 and above	힙노티쉐 플뢰테 10레벨 이상	SKILL_20180827_012530	Requires Pied Piper Circle 3	파이드 파이퍼 3서클 필요	
-SKILL_20190104_014835	Hameln Nagetier Lv 1 and above	하멜른 나게티어 1레벨 이상	SKILL_20180629_012097	Requires Pied Piper Circle 1	파이드 파이퍼 1서클 필요	
-SKILL_20190104_014836	Hameln Nagetier Lv 5 and above	하멜른 나게티어 5레벨 이상	SKILL_20180629_012098	Requires Pied Piper Circle 2	파이드 파이퍼 2서클 필요	
-SKILL_20190104_014837	Incineration Lv 1 and above	소각 1레벨 이상	SKILL_20151224_006172	Plague Doctor 1st Circle required	플레이그닥터 1서클 필요	
-SKILL_20190104_014838	Modafinil Lv 1 and above	모다피닐 1레벨 이상				
-SKILL_20190104_014839	Black Death Steam Lv 1 and above	흑사병 증기 1레벨 이상	SKILL_20161005_007169	Plague Doctor 2nd Circle Required	플레이그닥터 2서클 필요	
-SKILL_20190104_014840	Aspersion Lv 1 and above	아스퍼션 1레벨 이상	SKILL_20151224_006173	Priest 1st Circle required	프리스트 1서클 필요	
-SKILL_20190104_014841	Monstrance Lv 1 and above	몬스트런스 1레벨 이상				
-SKILL_20190104_014842	Blessing Lv 1 and above	블레싱 1레벨 이상	SKILL_20150803_005024	Lv3 Blessing required	블레싱 3레벨 필요	
-SKILL_20190104_014843	Sacrament Lv 1 and above	사크라멘트 1레벨 이상				
-SKILL_20190104_014844	Mass Heal Lv 1 and above	매스 힐 1레벨 이상	ETC_20150317_005452	Priest 2nd Circle required	프리스트 2서클 필요	
-SKILL_20190104_014845	Turn Undead Lv 1 and above	턴 언데드 1레벨 이상				
-SKILL_20190104_014846	Psychic Pressure Lv 1 and above	사이킥 프레셔 1레벨 이상	SKILL_20151224_006174	Psychokino 1st Circle required	사이코키노 1서클 필요	
-SKILL_20190104_014847	Magnetic Force Lv 1 and above	마그네틱 포스 1레벨 이상	SKILL_20150724_004885	Psychokino 2nd Circle required	사이코키노 2서클 필요	
-SKILL_20190104_014848	Gravity Pole Lv 1 and above	그라비티 폴 1레벨 이상	SKILL_20150724_004886	Psychokino 3rd Circle required	사이코키노 3서클 필요	
-SKILL_20190104_014849	Heavy Gravity Lv 1 and above	헤비 그라비티 1레벨 이상	SKILL_20150724_004885	Psychokino 2nd Circle required	사이코키노 2서클 필요	
-SKILL_20190104_014850	Deploy Pavise Lv 1 and above	파비스 설치 5레벨 이상				
-SKILL_20190104_014851	Scatter Caltrops Lv 1 and above	캘트롭 뿌리기 1레벨 이상	SKILL_20151224_006175	Quarrel Shooter 1st Circle required	쿼렐슈터 1서클 필요	
-SKILL_20190104_014852	Stone Shot Lv 1 and above	스톤 샷 1레벨 이상				
-SKILL_20190104_014853	Rapid Fire Lv 1 and above	래피드 파이어 1레벨 이상	ETC_20150317_005456	Quarrel Shooter 2nd Circle required	쿼렐슈터 2서클 필요	
-SKILL_20190104_014854	Kneeling Shot Lv 1 and above	닐링 샷 1레벨 이상				
-SKILL_20190104_014855	Teardown Lv 1 and above	철거 1레벨 이상	ETC_20150317_005456	Quarrel Shooter 2nd Circle required	쿼렐슈터 2서클 필요	
-SKILL_20190104_014856	Block and Shoot Lv 1 and above	블록 앤드 샷 1레벨 이상				
-SKILL_20190104_014857	Barrage Lv 1 and above	배라지 1레벨 이상	SKILL_20151224_006176	Ranger 1st Circle required	레인저 1서클 필요	
-SKILL_20190104_014858	Barrage Lv 5 and above	배라지 5레벨 이상	SKILL_20151224_006176	Ranger 1st Circle required	레인저 1서클 필요	
-SKILL_20190104_014859	High Anchoring Lv 1 and above	하이 앵커링 1레벨 이상	SKILL_20151224_006176	Ranger 1st Circle required	레인저 1서클 필요	
-SKILL_20190104_014860	Steady Aim Lv 1 and above	스테디 에임 1레벨 이상				
-SKILL_20190104_014861	Critical Shot Lv 1 and above	크리티컬 샷 1레벨 이상				
-SKILL_20190104_014862	Spiral Arrow Lv 1 and above	스파이럴 애로우 1레벨 이상				
-SKILL_20190104_014863	Bounce Shot Lv 1 and above	바운스 샷 1레벨 이상	ETC_20150317_005459	Ranger 3rd Circle required	레인저 3서클 필요	
-SKILL_20190104_014864	Pull Rete Lv 1 and above	투망 끌기 1레벨 이상				
-SKILL_20190104_014865	Throw Rete Lv 1 and above	투망 던지기 1레벨 이상				
-SKILL_20190104_014866	Dagger Guard Lv 1 and above	대거 가드 1레벨 이상	SKILL_20180418_011101	Requires Retiarius Circle 1	레티아리이 1서클 필요	
-SKILL_20190104_014867	Trident Finish Lv 1 and above	트라이던트 피니시 1레벨 이상	SKILL_20180418_011101	Requires Retiarius Circle 1	레티아리이 1서클 필요	
-SKILL_20190104_014868	Disarm Lv 1 and above	무장 해제 1레벨 이상	SKILL_20180418_011102	Requires Retiarius Circle 2	레티아리이 2서클 필요	
-SKILL_20190104_014869	Dagger Finish Lv 1 and above	대거 피니시 1레벨 이상	SKILL_20180418_011102	Requires Retiarius Circle 2	레티아리이 2서클 필요	
-SKILL_20190104_014870	Blandir Cadena Lv 1 and above	블란디르 카데나 1레벨 이상				
-SKILL_20190104_014871	Shield Charge Lv 1 and above	실드 차지 1레벨 이상	SKILL_20151224_006177	Rodelero 1st Circle required	로델레로 1서클 필요	
-SKILL_20190104_014872	Montano Lv 1 and above	몬타노 1레벨 이상	SKILL_20151224_006177	Rodelero 1st Circle required	로델레로 1서클 필요	
-SKILL_20190104_014873	Targe Smash Lv 1 and above	타지 스매시 1레벨 이상	SKILL_20151224_006177	Rodelero 1st Circle required	로델레로 1서클 필요	
-SKILL_20190104_014874	Shield Push Lv 1 and above	실드 푸시 1레벨 이상	SKILL_20151224_006177	Rodelero 1st Circle required	로델레로 1서클 필요	
-SKILL_20190104_014875	Shield Shoving Lv 1 and above	실드 셔빙 1레벨 이상	SKILL_20151224_006177	Rodelero 1st Circle required	로델레로 1서클 필요	
-SKILL_20190104_014876	Shield Bash Lv 1 and above	실드 배시 1레벨 이상	ETC_20150317_005460	Rodelero 2nd Circle required	로델레로 2서클 필요	
-SKILL_20190104_014877	Slithering Lv 1 and above	회피이동 1레벨 이상	ETC_20150317_005460	Rodelero 2nd Circle required	로델레로 2서클 필요	
-SKILL_20190104_014878	Shooting Star Lv 1 and above	슈팅스타 1레벨 이상	ETC_20150317_005461	Rodelero 3rd Circle required	로델레로 3서클 필요	
-SKILL_20190104_014879	Sneak Hit Lv 5 and above	스닉힛 5레벨 이상	SKILL_20151224_006178	Rogue 1st Circle required	로그 1서클 필요	
-SKILL_20190104_014880	Lachrymator Lv 5 and above	최루 5레벨 이상				
-SKILL_20190104_014881	Backstab Lv 1 and above	백스텝 1레벨 이상				
-SKILL_20190104_014882	Burrow Lv 1 and above	버로우 1레벨 이상				
-SKILL_20190104_014883	Knife Throw Lv 1 and above	나이프 쓰로잉 1레벨 이상				
-SKILL_20190104_014884	Rune of Destruction Lv 1 and above	파괴의 룬 1레벨 이상	SKILL_20160224_006324	Rune Caster 1st Circle required	룬캐스터 1서클 필요	
-SKILL_20190104_014885	Rune of Justice Lv 1 and above	정의의 룬 1레벨 이상	SKILL_20160224_006324	Rune Caster 1st Circle required	룬캐스터 1서클 필요	
-SKILL_20190104_014886	Rune of Ice Lv 1 and above	얼음의 룬 1레벨 이상				
-SKILL_20190104_014887	Rune of Rock Lv 1 and above	돌의 룬 1레벨 이상				
-SKILL_20190104_014888	Rune of Protection Lv 1 and above	보호의 룬 1레벨 이상				
-SKILL_20190104_014889	Out of Body Lv 1 and above	유체이탈 1레벨 이상				
-SKILL_20190104_014890	Astral Body Explosion Lv 1 and above	유체 폭발 1레벨 이상				
-SKILL_20190104_014891	Vashita Siddhi Lv 1 and above	바시타 싯디 1레벨 이상				
-SKILL_20190104_014892	Possession Lv 1 and above	포제션 1레벨 이상				
-SKILL_20190104_014893	Micro Dimension Lv 1 and above	마이크로 디멘션 1레벨 이상	SKILL_20161005_007170	Sage 1st Circle Required	세이지 1서클 필요	
-SKILL_20190104_014894	Ultimate Dimension Lv 1 and above	얼티밋 디멘션 1레벨 이상	SKILL_20161005_007170	Sage 1st Circle Required	세이지 1서클 필요	
-SKILL_20190104_014895	Ultimate Dimension Lv 5 and above	얼티밋 디멘션 5레벨 이상	SKILL_20161005_007170	Sage 1st Circle Required	세이지 1서클 필요	
-SKILL_20190104_014896	Dimension Compression Lv 1 and above	디멘션 컴프레션 1레벨 이상	SKILL_20171128_010200	Sage Circle 2 Required	세이지 2서클 필요	
-SKILL_20190104_014897	Hole of Darkness Lv 1 and above	홀 오브 다크니스 1레벨 이상	SKILL_20180827_012532	Requires Sage Circle 3	세이지 3서클 필요	
-SKILL_20190104_014898	Stake Stockades Lv 1 and above	방책 1레벨 이상	SKILL_20151224_006180	Sapper 1st Circle required	새퍼 1서클 필요	
-SKILL_20190104_014899	Claymore Lv 1 and above	크레모어 1레벨 이상	SKILL_20151224_006180	Sapper 1st Circle required	새퍼 1서클 필요	
-SKILL_20190104_014900	Punji Stake Lv 1 and above	푼지 스테이크 1레벨 이상	SKILL_20151224_006180	Sapper 1st Circle required	새퍼 1서클 필요	
-SKILL_20190104_014901	Spring Trap Lv 1 and above	스프링 트랩 1레벨 이상				
-SKILL_20190104_014902	Detonate Traps Lv 1 and above	데토네이트 트랩 1레벨 이상				
-SKILL_20190104_014903	Broom Trap Lv 1 and above	브룸 트랩 1레벨 이상				
-SKILL_20190104_014904	Broom Trap Lv 5 and above	브룸 트랩 5레벨 이상				
-SKILL_20190104_014905	Leghold Trap Lv 1 and above	레그홀드 트랩 1레벨 이상				
-SKILL_20190104_014906	Spike Shooter Lv 1 and above	스파이크 슈터 1레벨 이상				
-SKILL_20190104_014907	Concentrated Fire Lv 1 and above	집중포화 1레벨 이상	SKILL_20151224_006181	Schwarzer Reiter 1st Circle required	슈바르츠라이터 1서클 필요	
-SKILL_20190104_014908	Caracole Lv 1 and above	카라콜 1레벨 이상	SKILL_20151224_006181	Schwarzer Reiter 1st Circle required	슈바르츠라이터 1서클 필요	
-SKILL_20190104_014909	Caracole Lv 5 and above	카라콜 5레벨 이상	SKILL_20161005_007171	Schwarzer Reiter 3rd Circle Required	슈바르츠라이터 3서클 필요	
-SKILL_20190104_014910	Limacon Lv 1 and above	리마콘 1레벨 이상	SKILL_20151224_006181	Schwarzer Reiter 1st Circle required	슈바르츠라이터 1서클 필요	
-SKILL_20190104_014911	Retreat Shot Lv 1 and above	후퇴 사격 1레벨 이상	SKILL_20151224_006181	Schwarzer Reiter 1st Circle required	슈바르츠라이터 1서클 필요	
-SKILL_20190104_014912	Marching Fire Lv 1 and above	돌격 사격 1레벨 이상	SKILL_20161005_007171	Schwarzer Reiter 3rd Circle Required	슈바르츠라이터 3서클 필요	
-SKILL_20190104_014913	Cloaking Lv 1 and above	클로킹 1레벨 이상				
-SKILL_20190104_014914	Dagger Slash Lv 1 and above	대거 슬래시 1레벨 이상				
-SKILL_20190104_014915	Oblique Fire Lv 1 and above	오블리크 파이어 1레벨 이상				
-SKILL_20190104_014916	Double Attack Lv 1 and above	더블 어택 1레벨 이상				
-SKILL_20190104_014917	Free Step Lv 1 and above	프리 스텝 1레벨 이상				
-SKILL_20190104_014918	Shadow Thorn Lv 1 and above	섀도우 쏜 1레벨 이상	SKILL_20171128_010201	Shadowmancer 1st Circle Required	섀도우맨서 1서클 필요	
-SKILL_20190104_014919	Shadow Conjuration Lv 1 and above	섀도우 컨저레이션 1레벨 이상	SKILL_20171128_010201	Shadowmancer 1st Circle Required	섀도우맨서 1서클 필요	
-SKILL_20190104_014920	Shadow Condensation Lv 1 and above	섀도우 콘덴세이션 1레벨 이상	SKILL_20171128_010202	Shadowmancer 2nd Circle Required	섀도우맨서 2서클 필요	
-SKILL_20190104_014921	Hallucination Lv 1 and above	할루시네이션 1레벨 이상				
-SKILL_20190104_014922	Mijin no Jutsu Lv 1 and above	인법 미진술 1레벨 이상	SKILL_20151224_006184	Shinobi 1st Circle required	시노비 1서클 필요	
-SKILL_20190104_014923	Mokuton no Jutsu Lv 1 and above	인법 목둔술 1레벨 이상				
-SKILL_20190104_014924	Kunai Lv 1 and above	쿠나이 1레벨 이상				
-SKILL_20190104_014925	Raiton no Jutsu Lv 1 and above	인법 뇌둔술 1레벨 이상				
-SKILL_20190104_014926	Summon Familiar Lv 1 and above	사역마 소환 1레벨 이상	SKILL_20151224_006186	Sorcerer 1st Circle required	소서러 1서클 필요	
-SKILL_20190104_014927	Summon Familiar Lv 3 and above	사역마 소환 3레벨 이상	SKILL_20150724_004889	Lv3 Summon Familiar required	사역마 소환 3레벨 필요	
-SKILL_20190104_014928	Desmodus Lv 1 and above	데스모두스 1레벨 이상				
-SKILL_20190104_014929	Evocation Lv 1 and above	이보케이션 1레벨 이상				
-SKILL_20190104_014930	Deadly Combo Lv 1 and above	데들리 콤보 1레벨 이상	SKILL_20161214_007298	Squire 3rd Circle required	스콰이어 3서클 필요	
-SKILL_20190104_014931	Mortal Slash Lv 1 and above	모탈 슬래시 1레벨 이상	SKILL_20161214_007299	Templar 2nd Circle required	템플러 2서클 필요	
-SKILL_20190104_014932	Forge Lv 1 and above	포지 설치 1레벨 이상				
-SKILL_20190104_014933	Shield Charger Lv 1 and above	실드 차저 설치 1레벨 이상				
-SKILL_20190104_014934	Battle Orders Lv 1 and above	배틀 오더스 1레벨 이상				
-SKILL_20190104_014935	Flying Colors Lv 1 and above	플라잉 컬러즈 1레벨 이상				
-SKILL_20190104_014936	Swell Brain Lv 1 and above	스웰 브레인 1레벨 이상				
-SKILL_20190104_014937	Swell Hands Lv 1 and above	스웰 핸즈 1레벨 이상				
-SKILL_20190104_014938	Dark Theurge Lv 1 and above	다크 써지 1레벨 이상				
-SKILL_20190104_014939	Pole of Agony Lv 1 and above	폴 오브 아고니 1레벨 이상				
-SKILL_20190104_014940	Mastema Lv 1 and above	마스테마 1레벨 이상				
-SKILL_20190104_014941	Demon Scratch Lv 1 and above	데몬 스크래치 1레벨 이상				
-SKILL_20190104_014942	Thrust Lv 1 and above	쓰러스트 1레벨 이상	SKILL_20151224_006192	Swordsman 1st Circle required	소드맨 1서클 필요	
-SKILL_20190104_014943	Bash Lv 1 and above	배시 1레벨 이상	SKILL_20151224_006192	Swordsman 1st Circle required	소드맨 1서클 필요	
-SKILL_20190104_014944	Bash Lv 3 and above	배시 3레벨 이상	SKILL_20150724_004898	Lv3 Bash required	배쉬 3레벨 필요	
-SKILL_20190104_014945	Gung Ho Lv 1 and above	겅호 1레벨 이상	SKILL_20150724_004899	Lv3 Gung Ho required	겅호 3레벨 필요	
-SKILL_20190104_014946	Bear Lv 1 and above	베어 1레벨 이상				
-SKILL_20190104_014947	Energy Bolt Lv 1 and above	에너지 볼트 1레벨 이상	SKILL_20160224_006325	Wizard 1st Circle required	위저드 1서클 필요	
-SKILL_20190104_014948	Lethargy Lv 1 and above	레써지 1레벨 이상				
-SKILL_20190104_014949	Earthquake Lv 1 and above	어스퀘이크 1레벨 이상				
-SKILL_20190104_014950	Magic Missile Lv 1 and above	매직 미사일 1레벨 이상	SKILL_20150724_004903	Wizard 3rd Circle required	위저드 3서클 필요	
-SKILL_20190104_014951	Magic Shield Lv 1 and above	매직 실드 1레벨 이상				
-SKILL_20190104_014952	Wugong Gu Lv 1 and above	오공고 1레벨 이상	SKILL_20151224_006194	Wugushi 1st Circle required	무고사 1서클 필요	
-SKILL_20190104_014953	Latent Venom Lv 1 and above	잠독백세 1레벨 이상	SKILL_20151224_006194	Wugushi 1st Circle required	무고사 1서클 필요	
-SKILL_20190104_014954	Poison Pot Lv 1 and above	독 항아리 1레벨 이상	SKILL_20151224_006194	Wugushi 1st Circle required	무고사 1서클 필요	
-SKILL_20190104_014955	Wide Miasma Lv 1 and above	독무만상 1레벨 이상	ETC_20150317_005473	Wugushi 2nd Circle required	무고사 2서클 필요	
-SKILL_20190104_014956	Jincan Gu Lv 1 and above	금잠고 1레벨 이상	ETC_20150317_005473	Wugushi 2nd Circle required	무고사 2서클 필요	
-SKILL_20190104_014957	Immolation Lv 1 and above	이몰레이션 1레벨 이상	SKILL_20171128_010205	Zealot 1st Circle Required	질럿 1서클 필요	
-SKILL_20190104_014958	Fanatic Illusion Lv 1 and above	파나틱 일루젼 1레벨 이상	SKILL_20171128_010206	Zealot Circle 2 required	질럿 2서클 필요	
-SKILL_20190104_014959	Emphatic Trust Lv 1 and above	엠퍼시스 트러스트 1레벨 이상	SKILL_20180827_012536	Requires Zealot Circle 3	질럿 3서클 필요	
+SKILL_20190104_014560	Combustion Nv1 ou mais	컴버스천 1레벨 이상	SKILL_20151224_006129	Alchemist 1st Circle required	알케미스트 1서클 필요	
+SKILL_20190104_014561	Personagem Nv350 ou mais	캐릭터 350레벨 이상				
+SKILL_20190104_014562	Alchemistic Missile Nv1 ou mais	알케미스틱 미사일 1레벨 이상	ETC_20150401_010461	Alchemist 3rd Circle required	알케미스트 3서클 필요	
+SKILL_20190104_014563	Blindside Nv1 ou mais	약점공격 1레벨 이상				
+SKILL_20190104_014564	Personagem Nv200 ou mais	캐릭터 200레벨 이상				
+SKILL_20190104_014565	Devaluation Nv1 ou mais	평가절하 1레벨 이상				
+SKILL_20190104_014566	Insurance Nv1 ou mais	보험증서 1레벨 이상				
+SKILL_20190104_014567	Multi Shot Nv1 ou mais	멀티 샷 1레벨 이상				
+SKILL_20190104_014568	Oblique Shot Nv1 ou mais	오블리크 샷 1레벨 이상				
+SKILL_20190104_014569	Swift Step Nv1 ou mais	스위프트 스텝 1레벨 이상				
+SKILL_20190104_014570	Twin Arrow Nv1 ou mais	트윈 애로우 1레벨 이상				
+SKILL_20190104_014571	Concentration Nv1 ou mais	콘센트레이션 1레벨 이상				
+SKILL_20190104_014572	Hasisas Nv1 ou mais	하시사스 1레벨 이상				
+SKILL_20190104_014573	Personagem Nv100 ou mais	캐릭터 100레벨 이상				
+SKILL_20190104_014574	Personagem Nv300 ou mais	캐릭터 300레벨 이상				
+SKILL_20190104_014575	Behead Nv1 ou mais	카트 라시흐 1레벨 이상				
+SKILL_20190104_014576	Instant Acceleration Nv1 ou mais	투사르 리히즈인 1레벨 이상				
+SKILL_20190104_014577	Hallucination Smoke Nv1 ou mais	두칸 알힐루사 1레벨 이상				
+SKILL_20190104_014578	Piercing Heart Nv1 ou mais	타흐카브 알칼브 1레벨 이상				
+SKILL_20190104_014579	Annihilation Nv1 ou mais	이브아다탄 1레벨 이상				
+SKILL_20190104_014580	Embowel Nv1 ou mais	임바우얼 1레벨 이상	SKILL_20151224_006131	Barbarian 1st Circle required	바바리안 1서클 필요	
+SKILL_20190104_014581	Stomping Kick Nv1 ou mais	스톰핑 킥 1레벨 이상	SKILL_20151224_006131	Barbarian 1st Circle required	바바리안 1서클 필요	
+SKILL_20190104_014582	Cleave Nv1 ou mais	클리브 1레벨 이상	SKILL_20151224_006131	Barbarian 1st Circle required	바바리안 1서클 필요	
+SKILL_20190104_014583	Character Nv1 ou mais	캐릭터 1레벨 이상				
+SKILL_20190104_014584	Warcry Nv1 ou mais	워크라이 1레벨 이상	SKILL_20150724_004855	Lv3 Warcry required	워크라이 3레벨 필요	
+SKILL_20190104_014585	Frenzy Nv1 ou mais	프렌지 1레벨 이상				
+SKILL_20190104_014586	Seism Nv1 ou mais	사이즘 1레벨 이상	ETC_20150317_005424	Barbarian 2nd Circle required	바바리안 2서클 필요	
+SKILL_20190104_014587	Pouncing Nv1 ou mais	파운싱 1레벨 이상	ETC_20150317_005425	Barbarian 3rd Circle required	바바리안 3서클 필요	
+SKILL_20190104_014588	Effigy Nv1 ou mais	에피지 1레벨 이상	SKILL_20151224_006132	Bokor 1st Circle required	보코르 1서클 필요	
+SKILL_20190104_014589	Personagem Nv250 ou mais	캐릭터 250레벨 이상				
+SKILL_20190104_014590	Bwa Kayiman Nv1 ou mais	브와 카이망 1레벨 이상				
+SKILL_20190104_014591	Damballa Nv1 ou mais	댐발라 1레벨 이상	ETC_20150317_005427	Bokor 3rd Circle required	보코르 3서클 필요	
+SKILL_20190104_014592	Napalm Bullet Nv1 ou mais	소이탄 1레벨 이상	SKILL_20171128_010179	Bulletmarker 1st Circle Required	불릿 마커 1서클 필요	
+SKILL_20190104_014593	Full Metal Jacket Nv1 ou mais	풀 메탈 자켓 1레벨 이상	SKILL_20171128_010179	Bulletmarker 1st Circle Required	불릿 마커 1서클 필요	
+SKILL_20190104_014594	R.I.P. Nv1 ou mais	R.I.P. 1레벨 이상	SKILL_20171128_010179	Bulletmarker 1st Circle Required	불릿 마커 1서클 필요	
+SKILL_20190104_014595	Bloody Overdrive Nv1 ou mais	블러디 오버드라이브 1레벨 이상	SKILL_20171128_010179	Bulletmarker 1st Circle Required	불릿 마커 1서클 필요	
+SKILL_20190104_014596	Mozambique Drill Nv1 ou mais	모잠비크 드릴 1레벨 이상	SKILL_20171128_010180	Bulletmarker 2nd Circle Required	불릿 마커 2서클 필요	
+SKILL_20190104_014597	Smash Bullet Nv1 ou mais	파쇄탄 1레벨 이상	SKILL_20171128_010180	Bulletmarker 2nd Circle Required	불릿 마커 2서클 필요	
+SKILL_20190104_014598	Outrage Nv1 ou mais	아웃레이지 1레벨 이상	SKILL_20180827_012505	Requires Bullet Marker Circle 3	불릿 마커 3서클 필요	
+SKILL_20190104_014599	Cannon Shot Nv1 ou mais	캐논 샷 1레벨 이상	SKILL_20151224_006133	Cannoneer 1st Circle required	캐노니어 1서클 필요	
+SKILL_20190104_014600	Cannon Shot Nv10 ou mais	캐논 샷 10레벨 이상	SKILL_20171128_010181	Canoneer 3rd Circle Required	캐노니어 3서클 필요	
+SKILL_20190104_014601	Siege Burst Nv1 ou mais	시즈 버스트 1레벨 이상	SKILL_20151224_006133	Cannoneer 1st Circle required	캐노니어 1서클 필요	
+SKILL_20190104_014602	Cannon Blast Nv1 ou mais	캐논 블래스트 1레벨 이상	SKILL_20151224_006133	Cannoneer 1st Circle required	캐노니어 1서클 필요	
+SKILL_20190104_014603	Cannon Barrage Nv1 ou mais	캐논 배라지 1레벨 이상	SKILL_20161005_007149	Cannoneer 2nd Circle Required	캐노니어 2서클 필요	
+SKILL_20190104_014604	Cannon Barrage Nv5 ou mais	캐논 배라지 5레벨 이상	SKILL_20171128_010181	Canoneer 3rd Circle Required	캐노니어 3서클 필요	
+SKILL_20190104_014605	Sweeping Cannon Nv1 ou mais	스위핑 캐논 1레벨 이상	SKILL_20171128_010181	Canoneer 3rd Circle Required	캐노니어 3서클 필요	
+SKILL_20190104_014606	Impaler Nv1 ou mais	임페일러 1레벨 이상	SKILL_20151224_006134	Cataphract 1st Circle required	캐터프랙트 1서클 필요	
+SKILL_20190104_014607	Earth Wave Nv1 ou mais	어스 웨이브 1레벨 이상	SKILL_20151224_006134	Cataphract 1st Circle required	캐터프랙트 1서클 필요	
+SKILL_20190104_014608	Steed Charge Nv1 ou mais	스티드 차지 1레벨 이상	SKILL_20151224_006134	Cataphract 1st Circle required	캐터프랙트 1서클 필요	
+SKILL_20190104_014609	Doom Spike Nv1 ou mais	둠 스파이크 1레벨 이상	SKILL_20150724_004859	Cataphract 2nd Circle required	캐터프랙트 2서클 필요	
+SKILL_20190104_014610	Rush Nv1 ou mais	돌격 1레벨 이상	SKILL_20150724_004860	Cataphract 3rd Circle required	캐터프랙트 3서클 필요	
+SKILL_20190104_014611	Acrobatic Mount Nv1 ou mais	아크로바틱 마운트 1레벨 이상				
+SKILL_20190104_014612	Last Rites Nv1 ou mais	종부성사 1레벨 이상				
+SKILL_20190104_014613	Last Rites Nv10 ou mais	종부성사 10레벨 이상				
+SKILL_20190104_014614	Aspergillum Nv1 ou mais	아스페르길룸 1레벨 이상				
+SKILL_20190104_014615	Binatio Nv1 ou mais	비나시오 1레벨 이상				
+SKILL_20190104_014616	Deploy Cappella Nv1 ou mais	카펠라 설치 1레벨 이상				
+SKILL_20190104_014617	Reincarnate Nv1 ou mais	환생 1레벨 이상				
+SKILL_20190104_014618	Pass Nv1 ou mais	패스 1레벨 이상				
+SKILL_20190104_014619	Heal Nv1 ou mais	힐 1레벨 이상	SKILL_20151224_006139	Cleric 1st Circle required	클레릭 1서클 필요	
+SKILL_20190104_014620	Cure Nv1 ou mais	큐어 1레벨 이상	SKILL_20151224_006139	Cleric 1st Circle required	클레릭 1서클 필요	
+SKILL_20190104_014621	Smite Nv1 ou mais	스마이트 1레벨 이상				
+SKILL_20190104_014622	Guardian Saint Nv1 ou mais	수호성인 1레벨 이상				
+SKILL_20190104_014623	Jolly Roger Nv1 ou mais	졸리 로저 1레벨 이상				
+SKILL_20190104_014624	Keel Hauling Nv1 ou mais	킬홀링 1레벨 이상	SKILL_20151224_006140	Corsair 1st Circle required	커세어 1서클 필요	
+SKILL_20190104_014625	Dust Devil Nv1 ou mais	더스트 데블 1레벨 이상	SKILL_20151224_006140	Corsair 1st Circle required	커세어 1서클 필요	
+SKILL_20190104_014626	Hexen Dropper Nv1 ou mais	헥슨 드롭퍼 1레벨 이상	SKILL_20151001_005290	Corsair 2nd Circle required	커세어 2서클 필요	
+SKILL_20190104_014627	Quick and Dead Nv1 ou mais	퀵 앤드 데드 1레벨 이상	SKILL_20151224_006141	Corsair 3rd Circle required	커세어 3서클 필요	
+SKILL_20190104_014628	Impale Dagger Nv1 ou mais	임페일 대거 1레벨 이상	SKILL_20151224_006141	Corsair 3rd Circle required	커세어 3서클 필요	
+SKILL_20190104_014629	Begone Demon Nv1 ou mais	급급여율령 1레벨 이상	SKILL_20161005_007150	Taoist 1st Circle Required	도사 1서클 필요	
+SKILL_20190104_014630	Divine Punishment Nv1 ou mais	천형부 1레벨 이상	SKILL_20171128_010182	Taoist 2nd Circle Required	도사 2서클 필요	
+SKILL_20190104_014631	Eradication Nv1 ou mais	퇴마부 1레벨 이상	SKILL_20180827_012507	Requires Taoist Circle 3	도사 3서클 필요	
+SKILL_20190104_014632	Lightning Charm Nv1 ou mais	취전부 1레벨 이상				
+SKILL_20190104_014633	Storm Calling Nv1 ou mais	호풍환우부 1레벨 이상				
+SKILL_20190104_014634	Creeping Death Charm Nv1 ou mais	파사부 1레벨 이상				
+SKILL_20190104_014635	Tri-disaster Charm Nv1 ou mais	삼재부 1레벨 이상				
+SKILL_20190104_014636	Carve Attack Nv1 ou mais	목각 공격 1레벨 이상	SKILL_20151224_006142	Dievdirbys 1st Circle required	딥디르비 1서클 필요	
+SKILL_20190104_014637	Carve Owl Nv1 ou mais	부엉이 조각상 1레벨 이상	ETC_20150317_005432	Dievdirbys 2nd Circle required	딥디르비 2서클 필요	
+SKILL_20190104_014638	Carve World Tree Nv1 ou mais	세계수 조각 1레벨 이상				
+SKILL_20190104_014639	Punish Nv1 ou mais	퍼니시 1레벨 이상	SKILL_20151224_006143	Doppelsoeldner 1st Circle required	도펠죌트너 1서클 필요	
+SKILL_20190104_014640	Cyclone Nv1 ou mais	사이클론 1레벨 이상	SKILL_20151224_006143	Doppelsoeldner 1st Circle required	도펠죌트너 1서클 필요	
+SKILL_20190104_014641	Zornhau Nv1 ou mais	존하우 1레벨 이상	SKILL_20151224_006145	Doppelsoeldner 2nd Circle required	도펠죌트너 2서클 필요	
+SKILL_20190104_014642	Zucken Nv1 ou mais	츠켄 1레벨 이상	SKILL_20151224_006145	Doppelsoeldner 2nd Circle required	도펠죌트너 2서클 필요	
+SKILL_20190104_014643	Redel Nv1 ou mais	레델 1레벨 이상	SKILL_20151224_006145	Doppelsoeldner 2nd Circle required	도펠죌트너 2서클 필요	
+SKILL_20190104_014644	Zwerchhau Nv1 ou mais	즈버크하우 1레벨 이상	SKILL_20161005_007151	Doppelsoeldner 3rd Circle Required	도펠죌트너 3서클 필요	
+SKILL_20190104_014645	Sturtzhau Nv1 ou mais	슈트루츠하우 1레벨 이상	SKILL_20161005_007151	Doppelsoeldner 3rd Circle Required	도펠죌트너 3서클 필요	
+SKILL_20190104_014646	Dragontooth Nv1 ou mais	드래곤 투스 1레벨 이상	SKILL_20151224_006146	Dragoon 1st Circle required	드라군 1서클 필요	
+SKILL_20190104_014647	Serpentine Nv1 ou mais	서펜틴 1레벨 이상	SKILL_20151224_006146	Dragoon 1st Circle required	드라군 1서클 필요	
+SKILL_20190104_014648	Gae Bulg Nv1 ou mais	게이 불그 1레벨 이상	SKILL_20151224_006146	Dragoon 1st Circle required	드라군 1서클 필요	
+SKILL_20190104_014649	Dragon Soar Nv1 ou mais	드래곤 소어 1레벨 이상	SKILL_20151224_006146	Dragoon 1st Circle required	드라군 1서클 필요	
+SKILL_20190104_014650	Dethrone Nv1 ou mais	디쓰론 1레벨 이상	SKILL_20161005_007155	Dragoon 2nd Circle Required	드라군 2서클 필요	
+SKILL_20190104_014651	Dragon Fall Nv1 ou mais	드래곤 폴 1레벨 이상	SKILL_20171128_010183	Dragoon 3rd Circle Required	드라군 3서클 필요	
+SKILL_20190104_014652	Sterea Trofh Nv1 ou mais	스트레아 트로페 1레벨 이상	SKILL_20151224_006148	Druid 1st Circle required	드루이드 1서클 필요	
+SKILL_20190104_014653	Chortasmata Nv1 ou mais	코르타스마타 1레벨 이상				
+SKILL_20190104_014654	Seed Bomb Nv1 ou mais	씨앗폭탄 1레벨 이상				
+SKILL_20190104_014655	Thorn Nv1 ou mais	가시덩굴 1레벨 이상				
+SKILL_20190104_014656	Electrocute Nv1 ou mais	일렉트로큐트 1레벨 이상	SKILL_20151224_006149	Elementalist 1st Circle required	엘리멘탈리스트 1서클 필요	
+SKILL_20190104_014657	Hail Nv1 ou mais	헤일 1레벨 이상	SKILL_20151224_006149	Elementalist 1st Circle required	엘리멘탈리스트 1서클 필요	
+SKILL_20190104_014658	Meteor Nv1 ou mais	메테오 1레벨 이상	ETC_20150323_009727	Elementalist 3rd Circle required	엘리멘탈리스트 3서클 필요	
+SKILL_20190104_014659	Storm Dust Nv1 ou mais	스톰 더스트 1레벨 이상	ETC_20150323_009726	Elementalist 2nd Circle required	엘리멘탈리스트 2서클 필요	
+SKILL_20190104_014660	Enchant Glove Nv1 ou mais	인챈트 글로브 1레벨 이상				
+SKILL_20190104_014661	Rubric Nv1 ou mais	루브릭 1레벨 이상	SKILL_20180629_012095	Requires Exorcist Circle 1	엑소시스트 1서클 필요	
+SKILL_20190104_014662	Entity Nv1 ou mais	엔터티 1레벨 이상	SKILL_20180629_012095	Requires Exorcist Circle 1	엑소시스트 1서클 필요	
+SKILL_20190104_014663	Aqua Benedicta Nv1 ou mais	아쿠아 베네틱타 1레벨 이상	SKILL_20180629_012095	Requires Exorcist Circle 1	엑소시스트 1서클 필요	
+SKILL_20190104_014664	Gregorate Nv1 ou mais	그레고레이트 1레벨 이상	SKILL_20180629_012096	Requires Exorcist Circle 2	엑소시스트 2서클 필요	
+SKILL_20190104_014665	Koinonia Nv1 ou mais	코이노니아 1레벨 이상	SKILL_20180629_012096	Requires Exorcist Circle 2	엑소시스트 2서클 필요	
+SKILL_20190104_014666	Katadikazo Nv1 ou mais	카타디카조 1레벨 이상	SKILL_20180827_012513	Requires Exorcist Circle 3	엑소시스트 3서클 필요	
+SKILL_20190104_014667	Pheasant Nv1 ou mais	멍텅구 1레벨 이상				
+SKILL_20190104_014668	Sonic Strike Nv1 ou mais	음속타 1레벨 이상				
+SKILL_20190104_014669	Sonic Strike Nv5 ou mais	음속타 5레벨 이상				
+SKILL_20190104_014670	Tomahawk Nv1 ou mais	토마호크 1레벨 이상				
+SKILL_20190104_014671	Blood Bath and Blood Sucking Nv1 ou mais	블러드배쓰 1레벨, 흡혈 1레벨 이상	SKILL_20151224_006152	Lv. 1 Blood Bath & Lv. 1 Blood Sucking required	블러드배쓰 1레벨, 흡혈 1레벨 필요	
+SKILL_20190104_014672	Blood Bath Nv1 ou mais	블러드배쓰 1레벨 이상	SKILL_20151224_006153	Featherfoot 1st Circle required	페더풋 1서클 필요	
+SKILL_20190104_014673	Blood Sucking Nv1 ou mais	흡혈 1레벨 이상	SKILL_20151224_006153	Featherfoot 1st Circle required	페더풋 1서클 필요	
+SKILL_20190104_014674	Bone Pointing Nv1 ou mais	본 포인팅 1레벨 이상	SKILL_20151224_006153	Featherfoot 1st Circle required	페더풋 1서클 필요	
+SKILL_20190104_014675	Ngadhundi Nv1 ou mais	은가둔디 1레벨 이상	SKILL_20151224_006153	Featherfoot 1st Circle required	페더풋 1서클 필요	
+SKILL_20190104_014676	Kundela Slash Nv1 ou mais	쿤델라 슬래시 1레벨 이상	SKILL_20161005_007158	Featherfoot 2nd Circle Required	페더풋 2서클 필요	
+SKILL_20190104_014677	Enervation Nv1 ou mais	에너베이션 1레벨 이상				
+SKILL_20190104_014678	Sept Etoiles Nv1 ou mais	세테뚜와르 1레벨 이상				
+SKILL_20190104_014679	Esquive Toucher Nv1 ou mais	에스뀌브 뚜슈 1레벨 이상				
+SKILL_20190104_014680	Flanconnade Nv1 ou mais	플랑코나드 1레벨 이상				
+SKILL_20190104_014681	Attaque Composee Nv1 ou mais	아따끄 꽁뽀제 1레벨 이상				
+SKILL_20190104_014682	Balestra Fente Nv1 ou mais	발레스트라 팡트 1레벨 이상				
+SKILL_20190104_014683	Epee Garde Nv1 ou mais	에페 갸르드 1레벨 이상				
+SKILL_20190104_014684	Fleche Nv1 ou mais	플레쉬 1레벨 이상				
+SKILL_20190104_014685	Character Nv1 ou mais	캐릭터 레벨 1이상				
+SKILL_20190104_014686	Fireball Nv1 ou mais	파이어볼 1레벨 이상	SKILL_20150724_004863	Pyromancer 1st Circle required	파이로맨서 1서클 필요	
+SKILL_20190104_014687	Fire Wall Nv1 ou mais	파이어 월 1레벨 이상	SKILL_20150724_004863	Pyromancer 1st Circle required	파이로맨서 1서클 필요	
+SKILL_20190104_014688	Flame Ground Nv1 ou mais	플레임 그라운드 1레벨 이상	SKILL_20150724_004863	Pyromancer 1st Circle required	파이로맨서 1서클 필요	
+SKILL_20190104_014689	Fire Pillar Nv1 ou mais	파이어 필라 1레벨 이상	ETC_20150317_005436	Pyromancer 2nd Circle required	파이로맨서 2서클 필요	
+SKILL_20190104_014690	Hell Breath Nv1 ou mais	헬 브레쓰 1레벨 이상	ETC_20150317_005437	Pyromancer 3rd Circle required	파이로맨서 3서클 필요	
+SKILL_20190104_014691	Prominence Nv1 ou mais	홍염 1레벨 이상				
+SKILL_20190104_014692	Broadhead Nv1 ou mais	브로드 헤드 1레벨 이상	SKILL_20151224_006157	Fletcher 1st Circle required	플레쳐 1서클 필요	
+SKILL_20190104_014693	Bodkin Point Nv1 ou mais	보드킨 포인트 1레벨 이상	SKILL_20151224_006157	Fletcher 1st Circle required	플레쳐 1서클 필요	
+SKILL_20190104_014694	Barbed Arrow Nv1 ou mais	바브드 애로우 1레벨 이상	SKILL_20151224_006157	Fletcher 1st Circle required	플레쳐 1서클 필요	
+SKILL_20190104_014695	Crossfire Nv1 ou mais	크로스파이어 1레벨 이상	SKILL_20151224_006157	Fletcher 1st Circle required	플레쳐 1서클 필요	
+SKILL_20190104_014696	Magic Arrow Nv1 ou mais	매직 애로우 1레벨 이상	ETC_20150401_010464	Fletcher 2nd Circle required	플레쳐 2서클 필요	
+SKILL_20190104_014697	Divine Machine Arrow Nv1 ou mais	신기전 1레벨 이상	ETC_20150401_010465	Fletcher 3rd Circle required	플레쳐 3서클 필요	
+SKILL_20190104_014698	Ice Bolt Nv1 ou mais	아이스 볼트 1레벨 이상	SKILL_20150724_004864	Cryomancer 1st Circle required	크리오맨서 1서클 필요	
+SKILL_20190104_014699	Ice Pike Nv1 ou mais	아이스 파이크 1레벨 이상	SKILL_20150724_004864	Cryomancer 1st Circle required	크리오맨서 1서클 필요	
+SKILL_20190104_014700	Ice Blast Nv1 ou mais	아이스 블래스트 1레벨 이상	SKILL_20150724_004864	Cryomancer 1st Circle required	크리오맨서 1서클 필요	
+SKILL_20190104_014701	Snow Rolling Nv1 ou mais	스노우 롤링 1레벨 이상	ETC_20150317_005439	Cryomancer 3rd Circle required	크리오맨서 3서클 필요	
+SKILL_20190104_014702	Frost Pillar Nv1 ou mais	프로스트 필라 1레벨 이상	ETC_20150317_005439	Cryomancer 3rd Circle required	크리오맨서 3서클 필요	
+SKILL_20190104_014703	Skarphuggning Nv1 ou mais	스칼푸그닝 1레벨 이상	SKILL_20161005_007160	Hackapell 1st Circle Required	하카펠 1서클 필요	
+SKILL_20190104_014704	Cavalry Charge Nv1 ou mais	카발리 차지 1레벨 이상	SKILL_20161005_007160	Hackapell 1st Circle Required	하카펠 1서클 필요	
+SKILL_20190104_014705	Grind Cutter Nv1 ou mais	그라인드 커터 1레벨 이상	SKILL_20171128_010187	Hackapell 2nd Circle Required	하카펠 2서클 필요	
+SKILL_20190104_014706	Infinite Assault Nv1 ou mais	인피니트 어썰트 1레벨 이상	SKILL_20180827_012517	Requires Hackapell Circle 3	하카펠 3서클 필요	
+SKILL_20190104_014707	Helm Copper Nv1 ou mais	헬름 쵸퍼 1레벨 이상				
+SKILL_20190104_014708	Storm Bolt Nv1 ou mais	스톰 볼트 1레벨 이상				
+SKILL_20190104_014709	Wagon Wheel Nv1 ou mais	수레바퀴 1레벨 이상	SKILL_20151224_006158	Highlander 1st Circle required	하이랜더 1서클 필요	
+SKILL_20190104_014710	Cartar Stroke Nv1 ou mais	카타 스트로크 1레벨 이상	SKILL_20151224_006158	Highlander 1st Circle required	하이랜더 1서클 필요	
+SKILL_20190104_014711	Cartar Stroke Nv3 ou mais	카타 스트로크 3레벨 이상				
+SKILL_20190104_014712	Crown Nv1 ou mais	크라운 1레벨 이상	SKILL_20151224_006158	Highlander 1st Circle required	하이랜더 1서클 필요	
+SKILL_20190104_014713	Cross Guard Nv1 ou mais	크로스 가드 3레벨 이상	SKILL_20150724_004868	Lv3 Cross Guard required	크로스 가드 3레벨 필요	
+SKILL_20190104_014714	Moulinet Nv1 ou mais	뮬리넷 1레벨 이상	SKILL_20150724_004869	Highlander 2nd Circle required	하이랜더 2서클 필요	
+SKILL_20190104_014715	Skyliner Nv1 ou mais	스카이 라이너 1레벨 이상	SKILL_20150724_004869	Highlander 2nd Circle required	하이랜더 2서클 필요	
+SKILL_20190104_014716	Crosscut Nv1 ou mais	크로스컷 1레벨 이상	SKILL_20150724_004869	Highlander 2nd Circle required	하이랜더 2서클 필요	
+SKILL_20190104_014717	Crosscut Nv7 ou mais	크로스컷 7레벨 이상				
+SKILL_20190104_014718	Pierce Nv1 ou mais	피어스 1레벨 이상				
+SKILL_20190104_014719	Synchro Thrusting Nv1 ou mais	양손 찌르기 1레벨 이상				
+SKILL_20190104_014720	Sharp Spear Nv1 ou mais	샤프 스피어 1레벨 이상				
+SKILL_20190104_014721	Spear Throw Nv1 ou mais	투창 1레벨 이상				
+SKILL_20190104_014722	Spear Lunge Nv1 ou mais	스피어 런지 1레벨 이상				
+SKILL_20190104_014723	Finestra Nv1 ou mais	피네스트라 1레벨 이상				
+SKILL_20190104_014724	Stabbing Nv1 ou mais	스태빙 1레벨 이상				
+SKILL_20190104_014725	Coursing Nv1 ou mais	코싱 1레벨 이상	SKILL_20151224_006160	Hunter 1st Circle required	헌터 1서클 필요	
+SKILL_20190104_014726	Rush Dog Nv1 ou mais	러시 도그 1레벨 이상	SKILL_20151224_006160	Hunter 1st Circle required	헌터 1서클 필요	
+SKILL_20190104_014727	Retrieve Nv1 ou mais	리트리브 1레벨 이상	SKILL_20150724_004872	Hunter 2nd Circle required	헌터 2서클 필요	
+SKILL_20190104_014728	Howling Nv1 ou mais	하울링 1레벨 이상				
+SKILL_20190104_014729	God Smash Nv1 ou mais	갓 스매시 1레벨 이상	SKILL_20161005_007161	Inquisitor 1st Circle Required	인퀴지터 1서클 필요	
+SKILL_20190104_014730	Pear of Anguish Nv1 ou mais	절망의 배 1레벨 이상	SKILL_20161005_007161	Inquisitor 1st Circle Required	인퀴지터 1서클 필요	
+SKILL_20190104_014731	Breaking Wheel Nv1 ou mais	브레이킹 휠 1레벨 이상	SKILL_20161005_007161	Inquisitor 1st Circle Required	인퀴지터 1서클 필요	
+SKILL_20190104_014732	Malleus Maleficarum Nv1 ou mais	마도 심판 1레벨 이상	SKILL_20161005_007161	Inquisitor 1st Circle Required	인퀴지터 1서클 필요	
+SKILL_20190104_014733	Ripper Nv1 ou mais	브레스트 리퍼 1레벨 이상	SKILL_20180827_012519	Requires Inquisitor Circle 3	인퀴지터 3서클 필요	
+SKILL_20190104_014734	Ein Sof Nv1 ou mais	아인 소프 1레벨 이상				
+SKILL_20190104_014735	Merkabah Nv1 ou mais	메르카바 1레벨 이상				
+SKILL_20190104_014736	Personagem Nv150 ou mais	캐릭터 150레벨 이상				
+SKILL_20190104_014737	Nachash Nv1 ou mais	나하시 1레벨 이상				
+SKILL_20190104_014738	Tree of Sepiroth Nv1 ou mais	세피로트의 나무 1레벨 이상				
+SKILL_20190104_014739	Aukuras Nv1 ou mais	아우쿠라스 1레벨 이상	SKILL_20151224_006162	Krivis 1st Circle required	크리비 1서클 필요	
+SKILL_20190104_014740	Zalciai Nv1 ou mais	잘챠이 1레벨 이상	SKILL_20151016_005356	Lv. 3 Zalciai required	잘챠이 3레벨 필요	
+SKILL_20190104_014741	Zaibas Nv1 ou mais	자이바스 1레벨 이상	SKILL_20151224_006162	Krivis 1st Circle required	크리비 1서클 필요	
+SKILL_20190104_014742	Divine Stigma Nv1 ou mais	디바인 스티그마 1레벨 이상	ETC_20150317_005444	Krivis 2nd Circle required	크리비 2서클 필요	
+SKILL_20190104_014743	Crush Nv1 ou mais	크러시 1레벨 이상	SKILL_20161005_007163	Lancer 1st Circle Required	랜서 1서클 필요	
+SKILL_20190104_014744	Joust Nv1 ou mais	자우스트 1레벨 이상				
+SKILL_20190104_014745	Unhorsing Nv1 ou mais	낙마 공격 1레벨 이상				
+SKILL_20190104_014746	Quintain Nv1 ou mais	퀸테인 1레벨 이상				
+SKILL_20190104_014747	Initiate Nv1 ou mais	개시 1레벨 이상				
+SKILL_20190104_014748	Rhongomiant Nv1 ou mais	롱고미안트 1레벨 이상				
+SKILL_20190104_014749	Gigante Marcha Nv1 ou mais	기간테 마르샤 1레벨 이상				
+SKILL_20190104_014750	Muleta Nv1 ou mais	물레타 1레벨 이상	SKILL_20171128_010192	Matador 1st Circle Required	마타도르 1서클 필요	
+SKILL_20190104_014751	Faena Nv1 ou mais	파에나 1레벨 이상				
+SKILL_20190104_014752	Capote Nv1 ou mais	카포티 1레벨 이상				
+SKILL_20190104_014753	Ole Nv1 ou mais	올레 1레벨 이상				
+SKILL_20190104_014754	Paso Doble Nv1 ou mais	파소 도블레 1레벨 이상	SKILL_20171128_010193	Matador 2nd Circle Required	마타도르 2서클 필요	
+SKILL_20190104_014755	Paso Doble Nv1 ou mais	파소 도블레 3레벨 이상	SKILL_20171128_010193	Matador 2nd Circle Required	마타도르 2서클 필요	
+SKILL_20190104_014756	Corrida Finale Nv1 ou mais	코리다 피날레 1레벨 이상				
+SKILL_20190104_014757	Spread Shot Nv1 ou mais	스프레드 샷 1레벨 이상	SKILL_20161005_007164	Mergen 1st Circle Required	메르겐 1서클 필요	
+SKILL_20190104_014758	Homing Arrow Nv1 ou mais	호밍 애로우 1레벨 이상	SKILL_20161005_007164	Mergen 1st Circle Required	메르겐 1서클 필요	
+SKILL_20190104_014759	Triple Arrow Nv1 ou mais	트리플 애로우 1레벨 이상				
+SKILL_20190104_014760	Triple Arrow Nv5 ou mais	트리플 애로우 5레벨 이상				
+SKILL_20190104_014761	Arrow Sprinkle Nv1 ou mais	화살비 1레벨 이상				
+SKILL_20190104_014762	Down Fall Nv1 ou mais	다운 폴 1레벨 이상				
+SKILL_20190104_014763	Down Fall Nv5 ou mais	다운 폴 5레벨 이상				
+SKILL_20190104_014764	Jump Shot Nv1 ou mais	도약 사격 1레벨 이상				
+SKILL_20190104_014765	Zenith Nv1 ou mais	제니쓰 1레벨 이상				
+SKILL_20190104_014766	Gohei Nv1 ou mais	고헤이 1레벨 이상	SKILL_20161214_007297	Miko 1st Circle required	무녀 1서클 필요	
+SKILL_20190104_014767	Hamaya Nv1 ou mais	하마야 1레벨 이상				
+SKILL_20190104_014768	Omikuji Nv1 ou mais	오미쿠지 1레벨 이상				
+SKILL_20190104_014769	Double Punch Nv1 ou mais	쌍쇄공 1레벨 이상	SKILL_20151224_006164	Monk 1st Circle required	몽크 1서클 필요	
+SKILL_20190104_014770	Palm Strike Nv1 ou mais	철사장 1레벨 이상	SKILL_20151224_006164	Monk 1st Circle required	몽크 1서클 필요	
+SKILL_20190104_014771	Hand Knife Nv1 ou mais	관음장 1레벨 이상	SKILL_20151224_006164	Monk 1st Circle required	몽크 1서클 필요	
+SKILL_20190104_014772	Energy Blast Nv1 ou mais	양광수 1레벨 이상	ETC_20150401_010466	Monk 2nd Circle required	몽크 2서클 필요	
+SKILL_20190104_014773	One Inch Punch Nv1 ou mais	촌경 1레벨 이상	ETC_20150401_010466	Monk 2nd Circle required	몽크 2서클 필요	
+SKILL_20190104_014774	God Finger Flick Nv1 ou mais	탄지신통 1레벨 이상	ETC_20150401_010466	Monk 2nd Circle required	몽크 2서클 필요	
+SKILL_20190104_014775	Frenzied Slash Nv1 ou mais	프렌지드 슬래시 1레벨 이상	SKILL_20161005_007165	Murmillo 1st Circle Required	무르밀로 1서클 필요	
+SKILL_20190104_014776	Evade Thrust Nv1 ou mais	이베이드 쓰러스트 1레벨 이상	SKILL_20161005_007165	Murmillo 1st Circle Required	무르밀로 1서클 필요	
+SKILL_20190104_014777	Headbutt Nv1 ou mais	헤드버트 1레벨 이상	SKILL_20161005_007165	Murmillo 1st Circle Required	무르밀로 1서클 필요	
+SKILL_20190104_014778	Scutum Hit Nv1 ou mais	스큐텀 힛 1레벨 이상	SKILL_20161005_007165	Murmillo 1st Circle Required	무르밀로 1서클 필요	
+SKILL_20190104_014779	Shield Train Nv1 ou mais	실드 트레인 1레벨 이상				
+SKILL_20190104_014780	Emperor's Bane Nv1 ou mais	엠퍼러즈 베인 1레벨 이상	SKILL_20180827_012526	Requires Murmillo Circle 3	무르밀로 3서클 필요	
+SKILL_20190104_014781	Covering Fire Nv1 ou mais	커버링 파이어 1레벨 이상	SKILL_20151224_006165	Musketeer 1st Circle required	머스킷티어 1서클 필요	
+SKILL_20190104_014782	Headshot Nv1 ou mais	헤드 샷 1레벨 이상	SKILL_20151224_006165	Musketeer 1st Circle required	머스킷티어 1서클 필요	
+SKILL_20190104_014783	Snipe Nv1 ou mais	스나이프 1레벨 이상	SKILL_20161005_007167	Musketeer 2nd Circle Required	머스킷티어 2서클 필요	
+SKILL_20190104_014784	Penetration Shot Nv1 ou mais	페네트레이션 샷 1레벨 이상	SKILL_20151224_006165	Musketeer 1st Circle required	머스킷티어 1서클 필요	
+SKILL_20190104_014785	Penetration Shot Nv10 ou mais	페네트레이션 샷 10레벨 이상	SKILL_20171128_010196	Musketeer 3rd Circle Required	머스킷티어 3서클 필요	
+SKILL_20190104_014786	Volley Fire Nv1 ou mais	발리 파이어 1레벨 이상	SKILL_20161005_007167	Musketeer 2nd Circle Required	머스킷티어 2서클 필요	
+SKILL_20190104_014787	Te Kha Nv1 ou mais	때카 1레벨 이상	SKILL_20180208_010376	Nak Muay C1 required	낙무아이 1서클 필요	
+SKILL_20190104_014788	Sok Chiang Nv1 ou mais	쏙콴 1레벨 이상	SKILL_20180208_010376	Nak Muay C1 required	낙무아이 1서클 필요	
+SKILL_20190104_014789	Te Trong Nv1 ou mais	때트롱 1레벨 이상	SKILL_20180208_010376	Nak Muay C1 required	낙무아이 1서클 필요	
+SKILL_20190104_014790	Khao Loi Nv1 ou mais	카오로이 1레벨 이상	SKILL_20180208_010376	Nak Muay C1 required	낙무아이 1서클 필요	
+SKILL_20190104_014791	Ram Muay Nv1 ou mais	람무아이 1레벨 이상				
+SKILL_20190104_014792	Gather Corpse Nv1 ou mais	게더 콥스 1레벨 이상	SKILL_20151224_006166	Necromancer 1st Circle required	네크로맨서 1서클 필요	
+SKILL_20190104_014793	Create Shoggoth Nv1 ou mais	쇼고스 만들기 1레벨 이상				
+SKILL_20190104_014794	Create Shoggoth Nv3 ou mais	쇼고스 만들기 3레벨 이상	SKILL_20151001_005291	Lv. 2 Create Shoggoth required	쇼고스 만들기 2레벨 필요	
+SKILL_20190104_014795	Flesh Hoop Nv1 ou mais	플레시 후프 1레벨 이상				
+SKILL_20190104_014796	Raise Skull Soldier Nv1 ou mais	해골 병사 만들기 1레벨 이상				
+SKILL_20190104_014797	Corpse Tower Nv1 ou mais	콥스 타워 1레벨 이상	ETC_20150401_010468	Necromancer 2nd Circle required	네크로맨서 2서클 필요	
+SKILL_20190104_014798	Flesh Cannon Nv1 ou mais	플레시 캐논 1레벨 이상				
+SKILL_20190104_014799	Raise Skull Archer Nv1 ou mais	헤골 궁수 만들기 1레벨 이상				
+SKILL_20190104_014800	Fire Fox Shikigami Nv1 ou mais	불여우 식신령 1레벨 이상				
+SKILL_20190104_014801	Greenwood Shikigami Nv1 ou mais	생목의 식신령 1레벨 이상	SKILL_20180418_011097	Requires Onmyoji Circle 1	음양사 1서클 필요	
+SKILL_20190104_014802	Howling White Tiger Nv1 ou mais	백호령 1레벨 이상	SKILL_20180418_011097	Requires Onmyoji Circle 1	음양사 1서클 필요	
+SKILL_20190104_014803	Water Shikigami Nv1 ou mais	살수의 식신령 1레벨 이상	SKILL_20180418_011097	Requires Onmyoji Circle 1	음양사 1서클 필요	
+SKILL_20190104_014804	Toyou Nv1 ou mais	토용 1레벨 이상	SKILL_20180418_011099	Requires Onmyoji Circle 2	음양사 2서클 필요	
+SKILL_20190104_014805	Yin Yang Harmony Nv1 ou mais	음양조화 1레벨 이상	SKILL_20180827_012528	Requires Onmyoji Circle 3	음양사 3서클 필요	
+SKILL_20190104_014806	Counter Spell Nv1 ou mais	카운터 스펠 1레벨 이상				
+SKILL_20190104_014807	Death Sentence Nv1 ou mais	죽음의 선고 1레벨 이상				
+SKILL_20190104_014808	Divine Might Nv10 ou mais	디바인 마이트 10레벨 이상				
+SKILL_20190104_014809	Twist of Fate Nv1 ou mais	트위스트 오브 페이트 1레벨 이상				
+SKILL_20190104_014810	Throw Sand Nv1 ou mais	모래 뿌리기 1레벨 이상				
+SKILL_20190104_014811	Brick Smash Nv1 ou mais	벽돌 깨기 1레벨 이상				
+SKILL_20190104_014812	Mangle Nv1 ou mais	난도질 1레벨 이상				
+SKILL_20190104_014813	Blindfire Nv1 ou mais	난사 1레벨 이상				
+SKILL_20190104_014814	Bully Nv1 ou mais	농락 1레벨 이상				
+SKILL_20190104_014815	Rampage Nv1 ou mais	난동 부리기 1레벨 이상				
+SKILL_20190104_014816	Stone Skin Nv1 ou mais	스톤 스킨 1레벨 이상				
+SKILL_20190104_014817	Restoration Nv1 ou mais	리스토레이션 1레벨 이상				
+SKILL_20190104_014818	Resist Elements Nv1 ou mais	레지스트 엘리멘츠 1레벨 이상				
+SKILL_20190104_014819	Conviction Nv1 ou mais	컨빅션 1레벨 이상				
+SKILL_20190104_014820	Sanctuary Nv1 ou mais	생츄어리 1레벨 이상				
+SKILL_20190104_014821	Demolition Nv1 ou mais	데몰리션 1레벨 이상				
+SKILL_20190104_014822	Indulgentia Nv1 ou mais	인둘겐티아 1레벨 이상	SKILL_20151224_006170	Pardoner 1st Circle required	파드너 1서클 필요	
+SKILL_20190104_014823	Discerning Evil Nv1 ou mais	디서닝 이블 1레벨 이상				
+SKILL_20190104_014824	Increase Magic Defense Nv1 ou mais	마법 방어력 증가 1레벨 이상				
+SKILL_20190104_014825	Decatose Nv1 ou mais	데카토스 1레벨 이상				
+SKILL_20190104_014826	Umbo Blow Nv1 ou mais	엄보 블로 1레벨 이상	SKILL_20151224_006171	Peltasta 1st Circle required	펠타스타 1서클 필요	
+SKILL_20190104_014827	Umbo Blow Nv5 ou mais	엄보 블로 5레벨 이상				
+SKILL_20190104_014828	Rim Blow Nv1 ou mais	림 블로 1레벨 이상	SKILL_20151224_006171	Peltasta 1st Circle required	펠타스타 1서클 필요	
+SKILL_20190104_014829	Rim Blow Nv3 ou mais	림 블로 3레벨 이상				
+SKILL_20190104_014830	Guardian Nv1 ou mais	가디언 1레벨 이상				
+SKILL_20190104_014831	Shield Lob Nv1 ou mais	실드 로브 1레벨 이상	SKILL_20160718_006419	Peltasta 2nd Circle required	펠타스타 2서클 필요	
+SKILL_20190104_014832	High Guard Nv1 ou mais	하이 가드 1레벨 이상				
+SKILL_20190104_014833	Hard Shield Nv1 ou mais	하드 실드 1레벨 이상				
+SKILL_20190104_014834	Hypnotische Floete Nv1 ou mais	힙노티쉐 플뢰테 10레벨 이상	SKILL_20180827_012530	Requires Pied Piper Circle 3	파이드 파이퍼 3서클 필요	
+SKILL_20190104_014835	Hameln Nagetier Nv1 ou mais	하멜른 나게티어 1레벨 이상	SKILL_20180629_012097	Requires Pied Piper Circle 1	파이드 파이퍼 1서클 필요	
+SKILL_20190104_014836	Hameln Nagetier Nv5 ou mais	하멜른 나게티어 5레벨 이상	SKILL_20180629_012098	Requires Pied Piper Circle 2	파이드 파이퍼 2서클 필요	
+SKILL_20190104_014837	Incineration Nv1 ou mais	소각 1레벨 이상	SKILL_20151224_006172	Plague Doctor 1st Circle required	플레이그닥터 1서클 필요	
+SKILL_20190104_014838	Modafinil Nv1 ou mais	모다피닐 1레벨 이상				
+SKILL_20190104_014839	Black Death Steam Nv1 ou mais	흑사병 증기 1레벨 이상	SKILL_20161005_007169	Plague Doctor 2nd Circle Required	플레이그닥터 2서클 필요	
+SKILL_20190104_014840	Aspersion Nv1 ou mais	아스퍼션 1레벨 이상	SKILL_20151224_006173	Priest 1st Circle required	프리스트 1서클 필요	
+SKILL_20190104_014841	Monstrance Nv1 ou mais	몬스트런스 1레벨 이상				
+SKILL_20190104_014842	Blessing Nv1 ou mais	블레싱 1레벨 이상	SKILL_20150803_005024	Lv3 Blessing required	블레싱 3레벨 필요	
+SKILL_20190104_014843	Sacrament Nv1 ou mais	사크라멘트 1레벨 이상				
+SKILL_20190104_014844	Mass Heal Nv1 ou mais	매스 힐 1레벨 이상	ETC_20150317_005452	Priest 2nd Circle required	프리스트 2서클 필요	
+SKILL_20190104_014845	Turn Undead Nv1 ou mais	턴 언데드 1레벨 이상				
+SKILL_20190104_014846	Psychic Pressure Nv1 ou mais	사이킥 프레셔 1레벨 이상	SKILL_20151224_006174	Psychokino 1st Circle required	사이코키노 1서클 필요	
+SKILL_20190104_014847	Magnetic Force Nv1 ou mais	마그네틱 포스 1레벨 이상	SKILL_20150724_004885	Psychokino 2nd Circle required	사이코키노 2서클 필요	
+SKILL_20190104_014848	Gravity Pole Nv1 ou mais	그라비티 폴 1레벨 이상	SKILL_20150724_004886	Psychokino 3rd Circle required	사이코키노 3서클 필요	
+SKILL_20190104_014849	Heavy Gravity Nv1 ou mais	헤비 그라비티 1레벨 이상	SKILL_20150724_004885	Psychokino 2nd Circle required	사이코키노 2서클 필요	
+SKILL_20190104_014850	Deploy Pavise Nv1 ou mais	파비스 설치 5레벨 이상				
+SKILL_20190104_014851	Scatter Caltrops Nv1 ou mais	캘트롭 뿌리기 1레벨 이상	SKILL_20151224_006175	Quarrel Shooter 1st Circle required	쿼렐슈터 1서클 필요	
+SKILL_20190104_014852	Stone Shot Nv1 ou mais	스톤 샷 1레벨 이상				
+SKILL_20190104_014853	Rapid Fire Nv1 ou mais	래피드 파이어 1레벨 이상	ETC_20150317_005456	Quarrel Shooter 2nd Circle required	쿼렐슈터 2서클 필요	
+SKILL_20190104_014854	Kneeling Shot Nv1 ou mais	닐링 샷 1레벨 이상				
+SKILL_20190104_014855	Teardown Nv1 ou mais	철거 1레벨 이상	ETC_20150317_005456	Quarrel Shooter 2nd Circle required	쿼렐슈터 2서클 필요	
+SKILL_20190104_014856	Block and Shoot Nv1 ou mais	블록 앤드 샷 1레벨 이상				
+SKILL_20190104_014857	Barrage Nv1 ou mais	배라지 1레벨 이상	SKILL_20151224_006176	Ranger 1st Circle required	레인저 1서클 필요	
+SKILL_20190104_014858	Barrage Nv5 ou mais	배라지 5레벨 이상	SKILL_20151224_006176	Ranger 1st Circle required	레인저 1서클 필요	
+SKILL_20190104_014859	High Anchoring Nv1 ou mais	하이 앵커링 1레벨 이상	SKILL_20151224_006176	Ranger 1st Circle required	레인저 1서클 필요	
+SKILL_20190104_014860	Steady Aim Nv1 ou mais	스테디 에임 1레벨 이상				
+SKILL_20190104_014861	Critical Shot Nv1 ou mais	크리티컬 샷 1레벨 이상				
+SKILL_20190104_014862	Spiral Arrow Nv1 ou mais	스파이럴 애로우 1레벨 이상				
+SKILL_20190104_014863	Bounce Shot Nv1 ou mais	바운스 샷 1레벨 이상	ETC_20150317_005459	Ranger 3rd Circle required	레인저 3서클 필요	
+SKILL_20190104_014864	Pull Rete Nv1 ou mais	투망 끌기 1레벨 이상				
+SKILL_20190104_014865	Throw Rete Nv1 ou mais	투망 던지기 1레벨 이상				
+SKILL_20190104_014866	Dagger Guard Nv1 ou mais	대거 가드 1레벨 이상	SKILL_20180418_011101	Requires Retiarius Circle 1	레티아리이 1서클 필요	
+SKILL_20190104_014867	Trident Finish Nv1 ou mais	트라이던트 피니시 1레벨 이상	SKILL_20180418_011101	Requires Retiarius Circle 1	레티아리이 1서클 필요	
+SKILL_20190104_014868	Disarm Nv1 ou mais	무장 해제 1레벨 이상	SKILL_20180418_011102	Requires Retiarius Circle 2	레티아리이 2서클 필요	
+SKILL_20190104_014869	Dagger Finish Nv1 ou mais	대거 피니시 1레벨 이상	SKILL_20180418_011102	Requires Retiarius Circle 2	레티아리이 2서클 필요	
+SKILL_20190104_014870	Blandir Cadena Nv1 ou mais	블란디르 카데나 1레벨 이상				
+SKILL_20190104_014871	Shield Charge Nv1 ou mais	실드 차지 1레벨 이상	SKILL_20151224_006177	Rodelero 1st Circle required	로델레로 1서클 필요	
+SKILL_20190104_014872	Montano Nv1 ou mais	몬타노 1레벨 이상	SKILL_20151224_006177	Rodelero 1st Circle required	로델레로 1서클 필요	
+SKILL_20190104_014873	Targe Smash Nv1 ou mais	타지 스매시 1레벨 이상	SKILL_20151224_006177	Rodelero 1st Circle required	로델레로 1서클 필요	
+SKILL_20190104_014874	Shield Push Nv1 ou mais	실드 푸시 1레벨 이상	SKILL_20151224_006177	Rodelero 1st Circle required	로델레로 1서클 필요	
+SKILL_20190104_014875	Shield Shoving Nv1 ou mais	실드 셔빙 1레벨 이상	SKILL_20151224_006177	Rodelero 1st Circle required	로델레로 1서클 필요	
+SKILL_20190104_014876	Shield Bash Nv1 ou mais	실드 배시 1레벨 이상	ETC_20150317_005460	Rodelero 2nd Circle required	로델레로 2서클 필요	
+SKILL_20190104_014877	Slithering Nv1 ou mais	회피이동 1레벨 이상	ETC_20150317_005460	Rodelero 2nd Circle required	로델레로 2서클 필요	
+SKILL_20190104_014878	Shooting Star Nv1 ou mais	슈팅스타 1레벨 이상	ETC_20150317_005461	Rodelero 3rd Circle required	로델레로 3서클 필요	
+SKILL_20190104_014879	Sneak Hit Nv5 ou mais	스닉힛 5레벨 이상	SKILL_20151224_006178	Rogue 1st Circle required	로그 1서클 필요	
+SKILL_20190104_014880	Lachrymator Nv5 ou mais	최루 5레벨 이상				
+SKILL_20190104_014881	Backstab Nv1 ou mais	백스텝 1레벨 이상				
+SKILL_20190104_014882	Burrow Nv1 ou mais	버로우 1레벨 이상				
+SKILL_20190104_014883	Knife Throw Nv1 ou mais	나이프 쓰로잉 1레벨 이상				
+SKILL_20190104_014884	Rune of Destruction Nv1 ou mais	파괴의 룬 1레벨 이상	SKILL_20160224_006324	Rune Caster 1st Circle required	룬캐스터 1서클 필요	
+SKILL_20190104_014885	Rune of Justice Nv1 ou mais	정의의 룬 1레벨 이상	SKILL_20160224_006324	Rune Caster 1st Circle required	룬캐스터 1서클 필요	
+SKILL_20190104_014886	Rune of Ice Nv1 ou mais	얼음의 룬 1레벨 이상				
+SKILL_20190104_014887	Rune of Rock Nv1 ou mais	돌의 룬 1레벨 이상				
+SKILL_20190104_014888	Rune of Protection Nv1 ou mais	보호의 룬 1레벨 이상				
+SKILL_20190104_014889	Out of Body Nv1 ou mais	유체이탈 1레벨 이상				
+SKILL_20190104_014890	Astral Body Explosion Nv1 ou mais	유체 폭발 1레벨 이상				
+SKILL_20190104_014891	Vashita Siddhi Nv1 ou mais	바시타 싯디 1레벨 이상				
+SKILL_20190104_014892	Possession Nv1 ou mais	포제션 1레벨 이상				
+SKILL_20190104_014893	Micro Dimension Nv1 ou mais	마이크로 디멘션 1레벨 이상	SKILL_20161005_007170	Sage 1st Circle Required	세이지 1서클 필요	
+SKILL_20190104_014894	Ultimate Dimension Nv1 ou mais	얼티밋 디멘션 1레벨 이상	SKILL_20161005_007170	Sage 1st Circle Required	세이지 1서클 필요	
+SKILL_20190104_014895	Ultimate Dimension Nv5 ou mais	얼티밋 디멘션 5레벨 이상	SKILL_20161005_007170	Sage 1st Circle Required	세이지 1서클 필요	
+SKILL_20190104_014896	Dimension Compression Nv1 ou mais	디멘션 컴프레션 1레벨 이상	SKILL_20171128_010200	Sage Circle 2 Required	세이지 2서클 필요	
+SKILL_20190104_014897	Hole of Darkness Nv1 ou mais	홀 오브 다크니스 1레벨 이상	SKILL_20180827_012532	Requires Sage Circle 3	세이지 3서클 필요	
+SKILL_20190104_014898	Stake Stockades Nv1 ou mais	방책 1레벨 이상	SKILL_20151224_006180	Sapper 1st Circle required	새퍼 1서클 필요	
+SKILL_20190104_014899	Claymore Nv1 ou mais	크레모어 1레벨 이상	SKILL_20151224_006180	Sapper 1st Circle required	새퍼 1서클 필요	
+SKILL_20190104_014900	Punji Stake Nv1 ou mais	푼지 스테이크 1레벨 이상	SKILL_20151224_006180	Sapper 1st Circle required	새퍼 1서클 필요	
+SKILL_20190104_014901	Spring Trap Nv1 ou mais	스프링 트랩 1레벨 이상				
+SKILL_20190104_014902	Detonate Traps Nv1 ou mais	데토네이트 트랩 1레벨 이상				
+SKILL_20190104_014903	Broom Trap Nv1 ou mais	브룸 트랩 1레벨 이상				
+SKILL_20190104_014904	Broom Trap Nv5 ou mais	브룸 트랩 5레벨 이상				
+SKILL_20190104_014905	Leghold Trap Nv1 ou mais	레그홀드 트랩 1레벨 이상				
+SKILL_20190104_014906	Spike Shooter Nv1 ou mais	스파이크 슈터 1레벨 이상				
+SKILL_20190104_014907	Concentrated Fire Nv1 ou mais	집중포화 1레벨 이상	SKILL_20151224_006181	Schwarzer Reiter 1st Circle required	슈바르츠라이터 1서클 필요	
+SKILL_20190104_014908	Caracole Nv1 ou mais	카라콜 1레벨 이상	SKILL_20151224_006181	Schwarzer Reiter 1st Circle required	슈바르츠라이터 1서클 필요	
+SKILL_20190104_014909	Caracole Nv5 ou mais	카라콜 5레벨 이상	SKILL_20161005_007171	Schwarzer Reiter 3rd Circle Required	슈바르츠라이터 3서클 필요	
+SKILL_20190104_014910	Limacon Nv1 ou mais	리마콘 1레벨 이상	SKILL_20151224_006181	Schwarzer Reiter 1st Circle required	슈바르츠라이터 1서클 필요	
+SKILL_20190104_014911	Retreat Shot Nv1 ou mais	후퇴 사격 1레벨 이상	SKILL_20151224_006181	Schwarzer Reiter 1st Circle required	슈바르츠라이터 1서클 필요	
+SKILL_20190104_014912	Marching Fire Nv1 ou mais	돌격 사격 1레벨 이상	SKILL_20161005_007171	Schwarzer Reiter 3rd Circle Required	슈바르츠라이터 3서클 필요	
+SKILL_20190104_014913	Cloaking Nv1 ou mais	클로킹 1레벨 이상				
+SKILL_20190104_014914	Dagger Slash Nv1 ou mais	대거 슬래시 1레벨 이상				
+SKILL_20190104_014915	Oblique Fire Nv1 ou mais	오블리크 파이어 1레벨 이상				
+SKILL_20190104_014916	Double Attack Nv1 ou mais	더블 어택 1레벨 이상				
+SKILL_20190104_014917	Free Step Nv1 ou mais	프리 스텝 1레벨 이상				
+SKILL_20190104_014918	Shadow Thorn Nv1 ou mais	섀도우 쏜 1레벨 이상	SKILL_20171128_010201	Shadowmancer 1st Circle Required	섀도우맨서 1서클 필요	
+SKILL_20190104_014919	Shadow Conjuration Nv1 ou mais	섀도우 컨저레이션 1레벨 이상	SKILL_20171128_010201	Shadowmancer 1st Circle Required	섀도우맨서 1서클 필요	
+SKILL_20190104_014920	Shadow Condensation Nv1 ou mais	섀도우 콘덴세이션 1레벨 이상	SKILL_20171128_010202	Shadowmancer 2nd Circle Required	섀도우맨서 2서클 필요	
+SKILL_20190104_014921	Hallucination Nv1 ou mais	할루시네이션 1레벨 이상				
+SKILL_20190104_014922	Mijin no Jutsu Nv1 ou mais	인법 미진술 1레벨 이상	SKILL_20151224_006184	Shinobi 1st Circle required	시노비 1서클 필요	
+SKILL_20190104_014923	Mokuton no Jutsu Nv1 ou mais	인법 목둔술 1레벨 이상				
+SKILL_20190104_014924	Kunai Nv1 ou mais	쿠나이 1레벨 이상				
+SKILL_20190104_014925	Raiton no Jutsu Nv1 ou mais	인법 뇌둔술 1레벨 이상				
+SKILL_20190104_014926	Summon Familiar Nv1 ou mais	사역마 소환 1레벨 이상	SKILL_20151224_006186	Sorcerer 1st Circle required	소서러 1서클 필요	
+SKILL_20190104_014927	Summon Familiar Nv3 ou mais	사역마 소환 3레벨 이상	SKILL_20150724_004889	Lv3 Summon Familiar required	사역마 소환 3레벨 필요	
+SKILL_20190104_014928	Desmodus Nv1 ou mais	데스모두스 1레벨 이상				
+SKILL_20190104_014929	Evocation Nv1 ou mais	이보케이션 1레벨 이상				
+SKILL_20190104_014930	Deadly Combo Nv1 ou mais	데들리 콤보 1레벨 이상	SKILL_20161214_007298	Squire 3rd Circle required	스콰이어 3서클 필요	
+SKILL_20190104_014931	Mortal Slash Nv1 ou mais	모탈 슬래시 1레벨 이상	SKILL_20161214_007299	Templar 2nd Circle required	템플러 2서클 필요	
+SKILL_20190104_014932	Forge Nv1 ou mais	포지 설치 1레벨 이상				
+SKILL_20190104_014933	Shield Charger Nv1 ou mais	실드 차저 설치 1레벨 이상				
+SKILL_20190104_014934	Battle Orders Nv1 ou mais	배틀 오더스 1레벨 이상				
+SKILL_20190104_014935	Flying Colors Nv1 ou mais	플라잉 컬러즈 1레벨 이상				
+SKILL_20190104_014936	Swell Brain Nv1 ou mais	스웰 브레인 1레벨 이상				
+SKILL_20190104_014937	Swell Hands Nv1 ou mais	스웰 핸즈 1레벨 이상				
+SKILL_20190104_014938	Dark Theurge Nv1 ou mais	다크 써지 1레벨 이상				
+SKILL_20190104_014939	Pole of Agony Nv1 ou mais	폴 오브 아고니 1레벨 이상				
+SKILL_20190104_014940	Mastema Nv1 ou mais	마스테마 1레벨 이상				
+SKILL_20190104_014941	Demon Scratch Nv1 ou mais	데몬 스크래치 1레벨 이상				
+SKILL_20190104_014942	Thrust Nv1 ou mais	쓰러스트 1레벨 이상	SKILL_20151224_006192	Swordsman 1st Circle required	소드맨 1서클 필요	
+SKILL_20190104_014943	Bash Nv1 ou mais	배시 1레벨 이상	SKILL_20151224_006192	Swordsman 1st Circle required	소드맨 1서클 필요	
+SKILL_20190104_014944	Bash Nv3 ou mais	배시 3레벨 이상	SKILL_20150724_004898	Lv3 Bash required	배쉬 3레벨 필요	
+SKILL_20190104_014945	Gung Ho Nv1 ou mais	겅호 1레벨 이상	SKILL_20150724_004899	Lv3 Gung Ho required	겅호 3레벨 필요	
+SKILL_20190104_014946	Bear Nv1 ou mais	베어 1레벨 이상				
+SKILL_20190104_014947	Energy Bolt Nv1 ou mais	에너지 볼트 1레벨 이상	SKILL_20160224_006325	Wizard 1st Circle required	위저드 1서클 필요	
+SKILL_20190104_014948	Lethargy Nv1 ou mais	레써지 1레벨 이상				
+SKILL_20190104_014949	Earthquake Nv1 ou mais	어스퀘이크 1레벨 이상				
+SKILL_20190104_014950	Magic Missile Nv1 ou mais	매직 미사일 1레벨 이상	SKILL_20150724_004903	Wizard 3rd Circle required	위저드 3서클 필요	
+SKILL_20190104_014951	Magic Shield Nv1 ou mais	매직 실드 1레벨 이상				
+SKILL_20190104_014952	Wugong Gu Nv1 ou mais	오공고 1레벨 이상	SKILL_20151224_006194	Wugushi 1st Circle required	무고사 1서클 필요	
+SKILL_20190104_014953	Latent Venom Nv1 ou mais	잠독백세 1레벨 이상	SKILL_20151224_006194	Wugushi 1st Circle required	무고사 1서클 필요	
+SKILL_20190104_014954	Poison Pot Nv1 ou mais	독 항아리 1레벨 이상	SKILL_20151224_006194	Wugushi 1st Circle required	무고사 1서클 필요	
+SKILL_20190104_014955	Wide Miasma Nv1 ou mais	독무만상 1레벨 이상	ETC_20150317_005473	Wugushi 2nd Circle required	무고사 2서클 필요	
+SKILL_20190104_014956	Jincan Gu Nv1 ou mais	금잠고 1레벨 이상	ETC_20150317_005473	Wugushi 2nd Circle required	무고사 2서클 필요	
+SKILL_20190104_014957	Immolation Nv1 ou mais	이몰레이션 1레벨 이상	SKILL_20171128_010205	Zealot 1st Circle Required	질럿 1서클 필요	
+SKILL_20190104_014958	Fanatic Illusion Nv1 ou mais	파나틱 일루젼 1레벨 이상	SKILL_20171128_010206	Zealot Circle 2 required	질럿 2서클 필요	
+SKILL_20190104_014959	Emphatic Trust Nv1 ou mais	엠퍼시스 트러스트 1레벨 이상	SKILL_20180827_012536	Requires Zealot Circle 3	질럿 3서클 필요	
 SKILL_20190108_014960	Throw Reagent	신약 투척	SKILL_20150317_000786	Basic Attack	기본 공격	
 SKILL_20190108_014961	Lucky Golden Pig	황금 복돼지 보유				
 SKILL_20190108_014962	Looting Chance +777	루팅 찬스 +777				
