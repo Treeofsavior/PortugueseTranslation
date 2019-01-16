@@ -10017,7 +10017,7 @@ ETC_20150323_010018	Visit Barrack
 ETC_20150323_010019	Iniciar Jogo
 ETC_20150323_010020	User Buy-in Shop
 ETC_20150323_010021	Buff Shop
-ETC_20150323_010022	Crafter is still using the skill.
+ETC_20150323_010022	Usuário ainda está usando a habilidade.
 ETC_20150323_010023	O refinamento do item foi concluído.
 ETC_20150323_010024	Consumível
 ETC_20150323_010025	Hire as a Mercenary
@@ -10036,7 +10036,7 @@ ETC_20150323_010037	The distribution table can only be used near the base.
 ETC_20150323_010038	It can be only constructed on one base.
 ETC_20150323_010039	{img squaier_buff 19 19}{@st41b}{s15}{#2c7e58}Buff da Arma 
 ETC_20150323_010040	{img squaier_buff 19 19}{@st41b}{s15}{#2c7e58}Buff da Armadura
-ETC_20150323_010041	{img notice_br_solution 16 16}{@st41b}{s15}{#2c7e58}Bônus de Refino{/}{/}
+ETC_20150323_010041	{img notice_br_solution 16 16}{@st41b}{s15}{#2c7e58}Bônus de Aprimoramento{/}{/}
 ETC_20150323_010042	Add Ataque Físico of Companion by {Value}
 ETC_20150323_010043	%d Players
 ETC_20150323_010044	received your buff.
@@ -31056,7 +31056,7 @@ ETC_20171128_031029	Entrar {ID_NAME} (Nv Recomendado: {ID_LV})?{nl}Only you and 
 ETC_20171128_031030	{ID_NAME} (Nv Recomendado: {ID_LV})
 ETC_20171128_031031	You have obtained a reward for the Refuge Visitor achievement.
 ETC_20171128_031032	Can only be used after entering the Challenge Mode 1 time.
-ETC_20171128_031033	You have received 1 extra entry for the Challenge Mode.
+ETC_20171128_031033	Recebeu uma entrada adicional para o Modo Desafio!
 ETC_20171128_031034	Can only purchase {Value} of this item for each team.{nl}Continue?
 ETC_20171128_031035	Attendance Reward Check
 ETC_20171128_031036	Can only purchase {Value} of this item per month.{nl}Continue?
@@ -37035,7 +37035,7 @@ ETC_20190104_036949	Pardoners diferem-se dos demais Clerics por prover as bênç
 ETC_20190104_036950	Paladins são Clerics que lutam por suas crenças na Deusa e sua lealdade ao Reino. A Tenet Church, construída pelo primeiro dos Paladins, é um símbolo para eles que deve ser defendido a qualquer custo.{nl}Paladins usam seus poderes divinos para proteger aliados e derrotar inimigos através das bênçãos da Deusa.
 ETC_20190104_036951	Chaplains são Clerics que juraram servir como Priests nos campos de batalha. Ao se tornar um, você permanecerá um Chaplain para o resto de sua vida. São especializados em restaurar o espírito dilacerado dos soldados, fatigados pela destruição inevitável da batalha, e fazer uso dos poderes da Deusa para também auxiliá-los em ação.{nl}Chaplain é uma classe militar que usa o poder divino para ajudar aliados em combate. Somente Priests de alto nível conseguem se tornar Chaplain.
 ETC_20190104_036952	Plague Doctors destacam-se de outros Clerics por não depender fortemente dos poderes da Deusa. Fazem uso de estudos científicos para tratar doenças e, por causa disso, permanecerem nas sombras, pois a bênção da Deusa era o suficiente para curar qualquer problema antes do Medzio Diena. Plague Doctors ganharam destaque após o desastre, quando a Deusa ficou desconectada de nosso mundo.{nl}Plaghe Doctors são Priests que curam doenças dos aliados, ou incineram inimigos. Seu elmo peculiar possui uma droga especial para bloquear efeitos negativos.
-ETC_20190104_036953	Kaballist é um grupo que busca pela máxima verdade que governa o cosmo. Eles previram o Medzio Diena no passado e, também, conseguiram decifrar a profecia da Deusa Laima de transferir a Capital do Reino.{nl}Kabbalists são Priests que praticam a antiga magia conhecida como Cabala. Podem auxiliar alaidos usando poderes infinitos ou atacar usando uma formação defensiva para desintegrar o nome do inimigo.
+ETC_20190104_036953	Kaballist é um grupo que busca pela máxima verdade que governa o cosmo. Eles previram o Medzio Diena no passado e, também, conseguiram decifrar a profecia da Deusa Laima de transferir a Capital do Reino.{nl}Kabbalists são Priests que praticam a antiga magia conhecida como Cabala. Podem auxiliar aliados usando poderes infinitos ou atacar usando uma formação defensiva para desintegrar o nome do inimigo.
 ETC_20190104_036954	Inquisitors sempre foram guardiões simbólicos da fé por muitos anos. Também são responsáveis por escrever os ensinamentos da Deusa em palavras que podem ser melhor compreendidas pela população. Desde que a Deusa partiu deste mundo, por causa do Medzio Diena, Inquisitors se tornaram um grupo que toma decisões referentes à função de todo o clero.{nl}Inquisitor é uma classe que julga aqueles que desafiam as Deusas. Possui fortes técnicas ofensivas e é especializado em combate contra usuários de magia.
 ETC_20190104_036955	{/}{/}{#7AE4FF}{ol}[Disponível a partir do Segundo Avanço]{/}{/}{nl}Miko (Kannushi) juntaram-se ao culto da Deusa no Reino antes dos Onmyoji, mas são semelhantes à estes, devido seus serviços não serem para o grande público. Se envolveram em um incidente com a Princesa Kaonilla, mas a história não é muito conhecida pelo povo por ser assunto das cortes reais.{nl}Mikos (Kannushis) recebem a profecia e servem às Deusas. Atacam os inimigos com golpes de propriedade Divina e elevam os espíritos dos aliados.
 ETC_20190104_036956	Zealots surgiram dos membros do clero que seguiram o caminho mais difícil, atrás da Deusa quando esta sumiu do nosso mundo. Seus métodos de adoração são considerados um tanto quanto extremos, portanto há muito atrito entre Zealots e outros Clerics. Seu objetivo como grupo é estabelecer e garantir doutrinas estritas para seguir os ensinamentos da Deusa e trazê-la de volta para este mundo.{nl}Zealot é especializado em aprimorar suas capacidades através de habilidades de ataque físico corpo-a-corpo.
@@ -37503,8 +37503,8 @@ ETC_20190104_037417	Restricted from trading via Market	마켓 거래 불가
 ETC_20190104_037418	{@st41b}{#0064FF}Title:{/}{/} 	{@st41b}{#0064FF}칭호 :{/}{/} 	ETC_20150317_001957	{@st41b} Title {/}	{@st41b}칭호 :{/} 
 ETC_20190104_037419	{@st59}Increases amount healed, magic critical damage and damage dealt by summons{/}	{@st59}치유력, 마법 치명타 공격력, 소환수의 대미지 증가{/}			
 ETC_20190104_037420	[Allerno Family]{nl}Asta	[아렐르노 남작가]{nl}아스타			
-ETC_20190104_037421	{#003399}[CARTÕES DE EXPERIÊNCIA]{/} e seus {#003399}[ITENS EQUIPADOS]{/} estão guardados {#003399}[DENTRO DO MARKET]{/}.{nl}Fale com algum NC {#003399}[GERENTE DO MERCADO]{/} para receber os itens!
-ETC_20190104_037422	You can use the Goddess Statue to transport yourself to the Master of the class that you have advanced to.	여신상 캠프 워프를 통해서 전직한 클래스의 마스터에게 이동하실 수 있습니다			
+ETC_20190104_037421	{#003399}[CARTÕES DE EXPERIÊNCIA]{/} e {#003399}[ITENS EQUIPADOS]{/} estão guardados na {#003399}[ABA RECUPERAR DO MERCADO]{/}.{nl}Fale com algum NPC {#003399}[GERENTE DO MERCADO]{/} para receber os itens!
+ETC_20190104_037422	Você pode usar a Estátua da Deusa para transportar até o Mestre da classe que você escolheu avançar.
 ETC_20190104_037423	The item can be used only until {DAY} (day) of {MONTH} (month).{nl}The item has expired.	{MONTH}월 {DAY}일까지만 사용 가능합니다{nl}사용 기간이 지났습니다	ETC_20180827_035674	The event has ended.	6월 28일까지만 사용 가능합니다{nl}사용 기간이 지났습니다
 ETC_20190104_037424	{#0054FF}[{NUM2}]{/} points will be added because you already have [{NUM1}] points.{nl}Use the item?	[{NUM1}] 포인트을 이미 갖고 계셔서 {#0054FF}[{NUM2}]{/} 포인트가 추가됩니다.{nl}사용하시겠습니까?			
 ETC_20190104_037425	You cannot earn any more points as you already have the maximum amount of points allowed.	이미 최대 포인트를 갖고 계셔서 포인트를 추가할 수 없습니다			
@@ -37551,9 +37551,9 @@ ETC_20190104_037465	{#33FF33}[{NAME}]{/} can revert back to the {#33FF33}[	{#33F
 ETC_20190104_037466	]{/} tree for another {#33FF33}[{DAYCOUNT} days]{/}.	]{/}계열로 변경 하실 수 잇는 기간이 {#33FF33}[{DAYCOUNT}일]{/} 남았습니다.			
 ETC_20190104_037467	Your character is not eligible for a Class Tree Change.	계열 변경 대상 캐릭터가 아닙니다			
 ETC_20190104_037468	The Class Tree Change period has expired for your character.	계열 변경 기간이 종료된 캐릭터 입니다			
-ETC_20190104_037469	{@st64}Class Points have been issued.{nl}Click the  	{@st64}클래스 변경 포인트가 지급되었습니다{nl}하단 메뉴 			
-ETC_20190104_037470	Advancement Info {img sysmenu_jobinfo}	전직 정보 {img sysmenu_jobinfo}			
-ETC_20190104_037471	 button to change your class.	버튼을 눌러 클래스 변경을 사용하실 수 있습니다			
+ETC_20190104_037469	{@st64}Pontos de Classe foram entregues.{nl}Clique no botão 
+ETC_20190104_037470	Info de Avanço {img sysmenu_jobinfo}
+ETC_20190104_037471	{nl}para mudar de classe.
 ETC_20190104_037472	Receive supplies [Remaining: {COUNT}]	지원품을 받는다 [팀 기준 남은 횟수 : {COUNT}] 회			
 ETC_20190104_037473	Uska's Support: Monster Hunt completed [{COUNT}] times!	우스카의 성장 지원 : 몬스터 처치 [{COUNT}] 달성!			
 ETC_20190104_037474	Uska's Support: Raid Completion cleared [{COUNT}] times!	우스카의 성장 지원 : 레이드 클리어 [{COUNT}] 달성!			
