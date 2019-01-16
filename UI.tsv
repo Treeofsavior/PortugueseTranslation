@@ -85,7 +85,7 @@ UI_20150317_000084	{@st41b}Support {@sti7}%s{/}
 UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}
 UI_20150317_000086	{@st59}Fechar{/}
 UI_20150317_000087	Alerta de Progresso
-UI_20150317_000088	{@st43} Mudar de Classe
+UI_20150317_000088	{@st43} Mudar Classe
 UI_20150317_000089	{@sti7}{s14} Personagem {/}
 UI_20150317_000090	{@sti8}{s14} Classe {/}
 UI_20150317_000091	{@st44}Chat{/}
@@ -1230,7 +1230,7 @@ UI_20150317_001229	{@st42b}Preço Atual {img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001230	{@St41}Compra agora! {Img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001231	{@St41b}Receber itens{/}
 UI_20150317_001232	{@st42b} Preço do Lance {img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_001233	{@Sti7}Voltar
+UI_20150317_001233	{@Sti7}Costas
 UI_20150317_001234	{@St59}Cabeça{/}
 UI_20150317_001235	{@St59}Bracelete Esquerdo{/}
 UI_20150317_001236	{@St59}Bracelete Direito{/}
@@ -3778,7 +3778,7 @@ UI_20190104_003777	{@st66d_y}What to know what class is right for you?{/}{nl}   
 UI_20190104_003778	{@st41b}{s16}Move	{@st41b}{s16}이동			
 UI_20190104_003779	{s16}{b}{ol}{ds}Details >>	{s16}{b}{ol}{ds}자세히 보기>>			
 UI_20190104_003780	Class Name	직업 이름			
-UI_20190104_003781	Change the selected class.	해당 클래스를 변경합니다.			
+UI_20190104_003781	Clique para trocar esta classe.
 UI_20190104_003782	You can change a class that is required for one of your current classes.	특정 클래스의 선행 직업인 경우 변경할 수 없습니다.			
 UI_20190104_003783	Party Member Name	파티원이름이에요			
 UI_20190104_003784	{@st43b}{s18}Habilidades
