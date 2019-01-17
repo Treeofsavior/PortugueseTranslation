@@ -1939,7 +1939,7 @@ UI_20151224_001937	Mostrar Equipes próximas
 UI_20151224_001938	Equipes Públicas
 UI_20151224_001939	Diferença de Lv.
 UI_20151224_001940	Usar 'Equipe Recomendada'
-UI_20151224_001941	{@st66b}Insert Party Invite Tag
+UI_20151224_001941	{@st66b}Inserir Link do Grupo
 UI_20151224_001942	Competitive Mission
 UI_20151224_001943	Unit
 UI_20151224_001944	{@st41b}Entrar
@@ -3723,12 +3723,12 @@ UI_20190104_003722	* Após a mudança, você receberá pontos de atributos{nl}eq
 UI_20190104_003723	* Class EXP Cards equivalentes ao último nv de Classe{nl}conquistado serão adicionados ao seu Inventário.
 UI_20190104_003724	* Você retornará ao Alojamento após a mudança.
 UI_20190104_003725	* Você não pode mudar de Classe Base sem usar{nl}primeiro todos os EXP Recovery Cards do Inventário.
-UI_20190104_003726	Are you sure you want to change to the selected class?{/}	선택하신 클래스를 변경하시겠습니까?{/}	UI_20171128_002964	Would you like to undo your last advancement?{/}	마지막 전직을 취소하고 되돌리시겠습니까?{/}
-UI_20190104_003727	Your class will be changed into the newly-selected class{nl}and {@st66d_y}Class Change Points will be consumed.{/}{/}	해당 클래스의 전직을 취소하고 선택한 클래스로 변경되며{nl}{@st66d_y}클래스 변경 포인트가 소모됩니다.{/}{/}	UI_20180517_003174	If you undo your current class advancement,{nl}the advancement will be undone and{nl}{@st66d_y}your current class EXP will disappear.{/}{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}{@st66d_y}클래스 경험치는 사라집니다.{/}{/}
-UI_20190104_003728	* Skills and attributes of deleted{nl}classes will be returned as points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.			
-UI_20190104_003729	* Changing your class will remove the class costumes{nl}for classes you had previously advanced into.	* 클래스 변경을 진행하면 기존에 전직했던{nl} 클래스의 코스튬이 제거됩니다.			
-UI_20190104_003730	* You will return to your Lodge after confirming.	* 변경 후에는 캐릭터 선택창으로 돌아갑니다.			
-UI_20190104_003731	* Common attributes will also be reset,{nl}and attribute points will be returned.	* 변경 시 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.			
+UI_20190104_003726	Tem certeza que deseja trocar de classe?{/}
+UI_20190104_003727	Sua classe será trocada para a classe escolhida{nl}e {@st66d_y}Pontos de Troca de Classe serão consumidos.{/}{/}
+UI_20190104_003728	* Habilidades e atributos da classe{nl}removida retornarão como pontos.
+UI_20190104_003729	* Mudar de classe removerá os Trajes da classe{nl}que está sendo alterada e retirada.
+UI_20190104_003730	* Você retornará para o Alojamento após confirmar.
+UI_20190104_003731	* Atributos em comum também reiniciarão,{nl}e pontos de atributo serão devolvidos.
 UI_20190104_003732	{@st41b}Repair Cost{/} %s	{@st41b}수리 비용{/} %s			
 UI_20190104_003733	{@st66b}%sResurrect with a Mysterious Crystal%s{/}	{@st66b}%s신비한 크리스탈로 부활하기%s{/}			
 UI_20190104_003734	{@st42}{s20}Habilidades e Atributos
