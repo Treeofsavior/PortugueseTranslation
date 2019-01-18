@@ -13688,13 +13688,13 @@ SKILL_20190104_013687	Slow: Enchant Slow	슬로우: 인챈트 슬로우
 SKILL_20190104_013688	1% chance per attribute level of inflicting Slow	적을 공격하면 특성 레벨당 1% 확률로 적 슬로우				
 SKILL_20190104_013689	Reincarnate: Ally	환생: 아군				
 SKILL_20190104_013690	Prevents becoming unable to act.	행동불능 상태를 막아줍니다.				
-SKILL_20190104_013691	Grace: Additional Holy Hits	축복: 신성 추가타				
-SKILL_20190104_013692	Grants additional Holy-property hits to basic attacks	기본 공격에 신성 속성 추가타 부여				
-SKILL_20190104_013693	Grace: Additional Holy Damage	축복: 신성 추가 대미지				
-SKILL_20190104_013694	Grants additional Holy-property damage to attacks	공격에 신성 속성 추가 대미지 부여				
-SKILL_20190104_013695	Grace: Increase Magic Defense	축복: 마법 방어력 증가				
-SKILL_20190104_013696	Grace: Increase Physical Defense	축복: 물리 방어력 증가				
-SKILL_20190104_013697	Physical defense increased	물리 방어력이 증가				
+SKILL_20190104_013691	Graça: Golpe Adicional Sagrado
+SKILL_20190104_013692	Garante golpes adicionais de propriedade Sagrado aos seus ataques básicos
+SKILL_20190104_013693	Graça Dano Adicional Sagrado
+SKILL_20190104_013694	Garante Dano Adicional Sagrado aos seus ataques
+SKILL_20190104_013695	Graça: Aumentar Defesa Mágica
+SKILL_20190104_013696	Graça: Aumentar Defesa Física
+SKILL_20190104_013697	Aumenta a Defesa Física
 SKILL_20190104_013698	Damage taken increased.	받는 피해가 증가합니다.	SKILL_20171128_009869	While the damage received by the target increases, the target's damage is returned to the caster as long as the effect lasts.	대상이 받는 피해가 증가하지만 종료 시 효과가 지속되는 동안 대상이 받은 피해가 시전자에게 되돌아옵니다.	
 SKILL_20190104_013699	The Companion growls. Nearby monsters are inflicted with Fear.	컴패니언이 무섭게 으르렁거림. 근처 몬스터들은 공포에 걸림	SKILL_20150323_003095	Your companion growls fearfully. Nearby monsters may fall under Fear.	컴패니언이 무섭게 으르렁거림. 근처에 온 몬스터는 공포에 걸릴 수 있습니다.	
 SKILL_20190104_013700	Growling: Fear	그로울링: 공포	SKILL_20150323_003068	Growling	그로울링	
