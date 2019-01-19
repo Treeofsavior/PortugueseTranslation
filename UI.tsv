@@ -1966,8 +1966,8 @@ UI_20151224_001964	{@st66b}Configurar Char{/}
 UI_20151224_001965	{@st59}Coleção (F11){/}
 UI_20151224_001966	{@st66b}Key Settings
 UI_20151224_001967	{@st42}Duração: %s{/}
-UI_20151224_001968	Applies to this %s for %s{nl} and Apagar %s from inventory
-UI_20151224_001969	Aplicar apenas em{nl}%s durante %s {nl}e excluir %s do inventário..{/}
+UI_20151224_001968	Remove %s do seu{nl}Inventário, ativando os benefícios por %s{nl}para %s.{/}
+UI_20151224_001969	Remove %s do seu{nl}Inventário e aplica para %s.{/}
 UI_20151224_001970	The duration of your Token can be seen in Character Settings.
 UI_20151224_001971	{@st59}Fechar{/}
 UI_20151224_001972	{@st43}{s18}Provar e Comprar

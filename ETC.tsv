@@ -1978,7 +1978,7 @@ ETC_20150317_001977	Complete
 ETC_20150317_001978	Success
 ETC_20150317_001979	{Auto_1}'s {Auto_2}
 ETC_20150317_001980	This belongs to another character.
-ETC_20150317_001981	Enter a quantity ({Auto_1} ~ {Auto_2})
+ETC_20150317_001981	Entre uma quantidade ({Auto_1} ~ {Auto_2})
 ETC_20150317_001982	This combination is not possible.
 ETC_20150317_001983	Deselected
 ETC_20150317_001984	Deseja usar seus pontos para aumentar a habilidade {Auto_1}?
@@ -19839,8 +19839,8 @@ ETC_20151224_019833	Simultaneous attribute training
 ETC_20151224_019834	The following feature cannot be used.
 ETC_20151224_019835	{Target} does not have the benefits to trade with you.
 ETC_20151224_019836	Trade/Buy-in Shop Available
-ETC_20151224_019837	Aumento de EXP ao derrotar monstros
-ETC_20151224_019838	Increased STA recovery rate
+ETC_20151224_019837	Ganho de EXP ao derrotar monstros
+ETC_20151224_019838	Aumento da Recuperação de Stamina
 ETC_20151224_019839	Aumenta a lista do mercado em {COUNT}
 ETC_20151224_019840	Train {COUNT} attributes simultaneously
 ETC_20151224_019841	Velocidade de Movimento Aumentada em {COUNT}
@@ -37484,7 +37484,7 @@ ETC_20190104_037398	You do not have a class that can mount this companion.	해�
 ETC_20190104_037399	You can only install one Refreshment Table at a time.	하나의 배식 테이블만 설치 가능합니다.	ETC_20150414_011114	You can set up only one refreshment table.	하나의 배식 테이블만 건설 가능합니다.
 ETC_20190104_037400	The skill requires the Companion Riding attribute.{nl}If your character is a class that is able to learn the riding attribute, try again after activating the Companion Riding attribute in the skills/attributes UI.	컴패니언 탑승 특성이 필요한 스킬입니다.{nl}컴패니언 탑승 클래스를 보유한 경우, 스킬/특성 UI에서 탑승 특성을 갱신 후 사용해주세요.	ETC_20160723_022685	You require the Companion Riding attribute to learn this skill.	컴패니언 탑승 특성이 필요한 스킬입니다.
 ETC_20190104_037401	The {OPTIONS} bonus stats of your old items will be transferred.{nl}{ADDINFO}{nl}The maximum potential of the target item cannot be exceeded.{nl}Are you sure you want to exchange?	이전 아이템의 {OPTIONS}옵션이 이전됩니다.{nl}{ADDINFO}{nl}변경될 아이템의 최대 포텐셜을 초과 할 수 없습니다.{nl}교환하시겠습니까?			
-ETC_20190104_037402	Consume {Silver} Silver to extract {Scroll} Attribute Point Scrolls.{nl}Would you like to extract {ConsumePoint} Attribute Points?	{Silver} 실버를 소비하여 특성 포인트 스크롤 {Scroll}개를 추출합니다.{nl}{ConsumePoint} 특성 포인트를 추출하시겠습니까?			
+ETC_20190104_037402	Consome {Silver} Silver para{nl}extrair {Scroll} Attribute Point Scrolls.{nl}Gostaria de extrair{nl}{ConsumePoint} Attribute Points?
 ETC_20190104_037403	Successfully added [{count}] slot(s).	[{count}]개의 슬롯이 성공적으로 추가 되었습니다.			
 ETC_20190104_037404	You cannot add more character slots.	더 이상 캐릭터 슬롯을 추가할 수 없습니다.			
 ETC_20190104_037405	All skills	전체 스킬	SKILL_20150317_000108	Skills	스킬
@@ -37755,7 +37755,7 @@ ETC_20190104_037669	Check Next Collection Compensation List	다음 컬렉션 보
 ETC_20190104_037670	{Auto_1} collection(s) acquired	획득한 컬렉션 {Auto_1}	ETC_20150317_002873	{Auto_1} collection(s) acquired	획득한 콜렉션 {Auto_1}
 ETC_20190104_037671	{Auto_1} collection(s) completed	완성한 컬렉션 {Auto_1}	ETC_20150317_002877	{Auto_1} collection(s) completed	완성한 콜렉션 {Auto_1}
 ETC_20190104_037672	Level {LV} or higher are allowed.	{LEVEL}레벨 이상만 참여 가능합니다.			
-ETC_20190104_037673	{ID_NAME}(Recommended level: {ID_LV}, 1 advancement req.)	{ID_NAME}(권장레벨:{ID_LV}, 전직 1회 이상)	ETC_20180208_031622	{ID_NAME} (Rec-Lv: {ID_LV}, Rank: {PC_RANK})	{ID_NAME}(권장레벨:{ID_LV} 제한랭크:{PC_RANK})
+ETC_20190104_037673	{ID_NAME} (Nv.: {ID_LV}, 1 avanço de classe)
 ETC_20190104_037674	{nl}Avançar para a classe?{nl}(Esta escolha só poderá ser alterada através de Mudança de Classe)
 ETC_20190104_037675	{@st44}Info do próximo Avanço de Classe
 ETC_20190104_037676	{@st59}Increases physical attack{/}	{@st59}물리 공격력 증가{/}			
