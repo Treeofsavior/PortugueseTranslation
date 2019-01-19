@@ -3330,7 +3330,7 @@ SKILL_20150401_003329	Long range projectile, can defend magic	원거리 발사�
 SKILL_20150401_003330	Make a despeller that can block harmful magic and effects.	해로운 마법이나 효과를 막아낼 수 있는 디스펠러를 제작합니다.				
 SKILL_20150401_003331	Activate to defend automatically{nl}Use 1 despeller after defense	소지 후 활성화하면 자동으로 방어{nl}방어 후 디스펠러 1개 소비				
 SKILL_20150401_003332	Make part of your skills into scrolls.	자신이 갖고 있는 스킬의 일부를 주문서로 만들어냅니다.				
-SKILL_20150401_003333	Scrolls disappear after use.	주문서는 사용 후 사라짐				
+SKILL_20150401_003333	Scrolls desaparecem depois de usados.
 SKILL_20150401_003334	Open shop for giving usefull effects of your skill to other players.	자신이 갖고 있는 스킬의 이로운 효과를 대상에게 부여해주는 상점을 개설합니다.				
 SKILL_20150401_003335	Can register skill that use item	아이템 소비하는 스킬 등록 가능				
 SKILL_20150401_003336	Heals target and party members.	파티원과 전방의 있는 대상의 상태이상을 치료합니다.				
@@ -3809,7 +3809,7 @@ SKILL_20150414_003808	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use speed to m
 SKILL_20150414_003809	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot repeatedly in the opposite direction you are moving.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}이동하는 방향의 후방을 향해 사격하며 달립니다.				
 SKILL_20150414_003810	Call	부르기				
 SKILL_20150414_003811	Recall your hawk.	날아가 버린 매를 다시 부릅니다.				
-SKILL_20150414_003812	Maximum Level: 1	1레벨 마스터				
+SKILL_20150414_003812	Nível Máximo: 1
 SKILL_20150414_003813	Looking	응시백				
 SKILL_20150414_003814	Roost	횃대 설치				
 SKILL_20150414_003815	Set up a roost where the hawk can sit. The hawk will wait for the owner's order on the roost. The roost disappears when you move away from it.	매가 대기할 수 있는 횃대를 설치합니다. 횃대에 앉은 매는 매는 주인의 지령을 상시 대기합니다. 횃대에서 멀어지면 횃대는 사라집니다.				
@@ -5903,7 +5903,7 @@ SKILL_20151224_005902	Duração: #{CaptionTime}# segundos{nl}HP: -#{CaptionRatio
 SKILL_20151224_005903	Spray a cloud of antidote that cures the status ailments of an ally. Allies within the effect will be cured of rank 3 or lower status ailments.	동료의 상태 이상을 치료하는 훈증 소독약을 분사합니다. 해당 범위 내 동료들의 3랭크 이하 상태 이상이 모두 치료됩니다.				
 SKILL_20151224_005904	Removes rank 3 and lower status ailments{nl}Applies a maximum of #{CaptionRatio}# times	3랭크 이하 상태이상 제거{nl}최대 #{CaptionRatio}#명 적용				
 SKILL_20151224_005905	Spread all status ailments on targeted enemies to other enemies within the range.	지정된 범위 내의 적들이 갖고 있는 상태 이상이 주변으로 확산됩니다. 				
-SKILL_20151224_005906	Applies a maximum of #{CaptionRatio}# times	최대 #{CaptionRatio}#명 적용				
+SKILL_20151224_005906	Aplica no máximo #{CaptionRatio}# vezes
 SKILL_20151224_005907	Equip the Bird Beak Mask. The front side of the mask has a special drug that prevents rank 2 or lower status ailments from affecting you.	새부리 가면을 씁니다. 이 가면의 앞쪽 공간에는 특수한 약품이 발라져 있어 적의 2랭크 이하의 상태이상을 막아냅니다.				
 SKILL_20151224_005908	Duração: #{CaptionTime}# segundos{nl}100% Immunity to Rank 1 and 2{nl}80% Immunity to Rank 3	지속시간 #{CaptionTime}#초{nl}1, 2랭크 100% 면역{nl}3랭크 80% 면역				
 SKILL_20151224_005909	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Use the power of the goddess to avenge yourself with x7 the power of an enemy's attack.	{#993399}{ol}[마법] - [신성]{/}{/}{nl}여신의 권능으로 자신을 공격한 적에게 7배의 복수로 되갚아주는 상태가 됩니다.				
@@ -6711,7 +6711,7 @@ SKILL_20161005_006710	Lycanthropy	라이칸스로피
 SKILL_20161005_006711	Temporarily transform into a wolf.Continuously consume SP while in the wolf form.	일시적으로 늑대로 변신합니다. 변신 상태에서는 지속적으로 SP를 소모합니다.				
 SKILL_20161005_006712	Able to use Wolf Skills{nl}Additional Attack: #{SkillAtkAdd}#{nl}Maximum Duração: #{CaptionTime}# minutes{nl}Consumes 2% SP per second	늑대 스킬을 사용할 수 있음{nl}추가 공격력 #{SkillAtkAdd}#{nl}최대 지속시간 #{CaptionTime}#분{nl}1초당 SP 소모량 2%				
 SKILL_20161005_006713	Summon the Henge Stone. Increases the skill level of magic circle and installation skills from Cleric type classes by 1 and stats while transformed.	헨지 스톤을 소환합니다. 헨지 스톤 범위 안에서는 성직자 클래스의 마법진과 설치물의 스킬 레벨이 한 단계 높아지고, 변신 상태의 능력치가 증가합니다.				
-SKILL_20161005_006714	Abre uma loja que permite trocar o sexo de um personagem.
+SKILL_20161005_006714	Abre uma loja que permite trocar o sexo de um personagem. 
 SKILL_20161005_006715	 requerido. Podem ser feitas tantas trocas quanto a quantidade de itens possuídos.
 SKILL_20161005_006716	Foretell	포어텔				
 SKILL_20161005_006717	Summon a moving magic circle in front. While on the magic circle, there is a chance to be invincible.	바로 앞에 움직이는 마법진을 소환합니다. 마법진 위에서는 일정 확률로 무적 상태가 됩니다.				
@@ -7233,7 +7233,7 @@ SKILL_20161214_007232	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike down en
 SKILL_20161214_007233	Deal a fixed amount damage to the selected target based on its max HP. But the target continuously recovers its HP and the total amount it will recover matches the double amount lost by this attack. The skill does not apply to the field boss monster.	지정한 적의 최대 HP에 기반하여 고정적인 피해를 주는 대신, 공격 받은 후 적의 HP가 지속적으로 회복됩니다. 회복되는 HP의 총량은 피해 입은 대미지 수치의 2배 입니다. 필드 보스 몬스터에게는 스킬이 적용되지 않습니다.	SKILL_20161005_006720	Deal a fixed amount damage to the selected target based on its maximum HP. The target continuously recovers its HP and the total amount it will recover matches the amount lost by this attack. The skill does not apply to Field Boss monsters.	지정한 적의 최대 HP에 기반하여 고정적인 피해를 주는 대신, 공격 받은 후 적의 HP가 지속적으로 회복됩니다. 회복되는 HP의 총량은 피해 입은 대미지 수치입니다. 필드 보스 몬스터에게는 스킬이 적용되지 않습니다.	
 SKILL_20161214_007234	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Swings a gohei made of a wooden stick and white paper. Removes harmful effects on allies and beneficial effects on enemies in front.	{#993399}{ol}[마법] - [신성]{/}{/}{nl}나무막대기와 흰 종이를 이용해 만든 고헤이를 전방을 향해 휘두릅니다. 전방에 있는 동료의 해로운 효과를 제거하고, 적의 이로운 효과를 제거합니다				
 SKILL_20161214_007235	Sweeps the floor with the purified and divine broom. The sweepred area increases the skill level of an installation on it for a period of time.	정화된 신령한 빗자루를 손에 쥐고 바닥을 청소합니다. 빗자루질로 정화된 지역은 한동안 유지되며 이 위치에서는 설치물의 스킬 레벨이 한 단계 높아집니다.				
-SKILL_20161214_007236	Max. Sweeping Duração: #{CaptionTime}# segundos{nl}Duração do Círculo Mágico: #{CaptionRatio}# seconds	최대 빗자루질 유지시간 #{CaptionTime}#초{nl}마법진 지속시간 #{CaptionRatio}#초				
+SKILL_20161214_007236	Duração máxima de [Sweeping]: #{CaptionTime}# segundos{nl}Duração do Círculo Mágico: #{CaptionRatio}# segundos
 SKILL_20161214_007237	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Throws an arrow in front to cause a great amount of damage to  Devil-type enemies and cause Holy property damage to the enemies nearby the place of impact.	{#993399}{ol}[마법] - [신성]{/}{/}{nl}화살을 손에 쥐고 전방에 던집니다. 악마형 적에게 큰 피해를 주고, 화살이 떨어진 위치 주변은 일시적으로 적에게 신성 피해를 줍니다.				
 SKILL_20161214_007238	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Max. No. of Target  10{nl}Basic Duração: #{CaptionRatio2}# seconds	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio}#%{nl}최대 공격 대상 10명{nl}지속시간 #{CaptionRatio2}#초				
 SKILL_20161214_007239	Clap your hands twice. Increase duration for some of magic circles and installations nearby.	자리에서 박수를 2번 칩니다. 자신의 주변 일부 마법진과 설치류 스킬의 지속시간이 증가합니다.				
@@ -12192,8 +12192,8 @@ SKILL_20180827_012191	God Smash	갓 스매시	SKILL_20161005_006740	God Smash	�
 SKILL_20180827_012192	{#993399}{ol}[Magic]{/}{/}{nl}Release the power of a spellbook to attack. The attacked enemy will have their INT and SPR halved and will receive additional damage in proportion to their own magic attack. Doubles the SP consumption of magic attacks.	{#993399}{ol}[마법]{/}{/}{nl}마도서의 힘을 해방해 적에게 피해를 줍니다. 공격당한 적은 지능과 정신이 절반으로 깎이며 피격 받을 때마다 자신의 마법 공격력에 비례한 추가 피해를 입습니다. 마법 공격 사용 시 소모 SP가 두 배가 됩니다.	SKILL_20161005_006743	{#993399}{ol}[Magic]{/}{/}{nl}Release the power of the spellbook to attack. The attacked enemy will have its INT and SPR halved and SP consumption doubled.	{#993399}{ol}[마법]{/}{/}{nl}마도서의 힘을 해방해 적에게 피해를 줍니다. 공격당한 적은 지능과 정신이 절반으로 깎이며 마법 공격 사용 시 소모 SP가 두 배가 됩니다.	
 SKILL_20180827_012193	Attack: #{SkillFactor}#% x 7{nl}Add. damage equal to #{CaptionRatio}#% of target's magic attack{nl}Duração: 10 seg{nl}Max. 7 targets	공격력 #{SkillFactor}#% x 7회{nl}피격자 마법 공격력의 #{CaptionRatio}#%추가 피해{nl}지속시간 10초{nl}최대 7명 적용	SKILL_20170420_008674	Attack: #{SkillFactor}#% x 7{nl}Duração: #{CaptionTime}# segundos {nl}Maximum Targets: 7	공격력 #{SkillFactor}#% x 7회{nl}지속시간 #{CaptionTime}#초{nl}최대 7명 적용	
 SKILL_20180827_012194	{#993399}{ol}[Magic]{/}{/}{nl}Changes the type of enemies within range to Devil type. Changed targets take 10% additional Holy damage.	{#993399}{ol}[마법]{/}{/}{nl}전방 범위 적의 종족을 악마형으로 변경합니다. 변경된 적은 신성 속성 공격에 10% 추가 피해를 입습니다.	SKILL_20171128_009842	{#993399}{ol}[Magic]{/}{/}{nl}Change the type of enemies within a specified range to Demon type. Enemies take 10% additional Holy damage.	{#993399}{ol}[마법]{/}{/}{nl}지정한 범위 내의 적의 종족을 악마형으로 변경합니다. 변경된 적은 신성 속성 공격에 10% 추가 피해를 입습니다.	
-SKILL_20180827_012195	Duração: #{CaptionTime}# seg{nl}Targets: 10	지속시간 #{CaptionTime}#초{nl}대상 수 10	SKILL_20171128_009843	Duração: #{CaptionTime}# segundos{nl}Applies up to 8 targets	지속시간 #{CaptionTime}#초{nl}최대 8명 적용	
-SKILL_20180827_012196	Ripper	브레스트 리퍼				
+SKILL_20180827_012195	Duração: #{CaptionTime}# seg{nl}Alvos: 10
+SKILL_20180827_012196	Ripper
 SKILL_20180827_012197	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Summon a pair of gigantic scissors to continuously attack enemies in front of you. The skill does not cancel even if you are attacked and it deals increased damage to Devil type enemies.	{#DD5500}{ol}[물리] - [베기]{/}{/}{nl}거대한 가위를 소환하여 전방의 적을 연속으로 공격합니다. 스킬 사용 중 적에게 피격되어도 캔슬되지 않고, 악마형 적에게 주는 대미지가 증가합니다.				
 SKILL_20180827_012198	Attack: #{SkillFactor}#%{nl}Targets: #{CaptionRatio}#{nl}Consumes Torture Tools x2	공격력 #{SkillFactor}#%{nl}대상 수 #{CaptionRatio}#{nl}고문도구 2개 필요				
 SKILL_20180827_012199	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Deal damage to punish a single target. Damage increases proportionally to charging time.	{#993399}{ol}[마법] - [전기]{/}{/}{nl}단일 대상 적에게 천벌을 가합니다. 챠징 시간에 비례하여 대미지가 적용됩니다.	SKILL_20171128_009845	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Deal damage after 3 seconds to a single target.	{#993399}{ol}[마법] - [전기]{/}{/}{nl}단일 대상 적에게 3초 뒤 천벌을 가합니다.	
@@ -13378,7 +13378,7 @@ SKILL_20190104_013377	Joga uma moeda usando a ponta do dedo, causando dano em um
 SKILL_20190104_013378	Multiplicador: #{SkillFactor}#%{nl}Consome #{SpendItemCount}# Silver
 SKILL_20190104_013379	Use para reiniciar o cooldown e aumentar o dano momentaneamente das habilidades de Monk.	
 SKILL_20190104_013380	Dano das Habil. de Monk: +#{CaptionRatio}#%{nl}Duração: 10 segundos
-SKILL_20190104_013381	Cria um Scroll de uma de suas habilidades, permitindo que outros a usem. Só podem ser feitos Scrolls de habilidades em nível máximo (o efeito de Divine Might não é aplicado).
+SKILL_20190104_013381	Cria um Scroll de uma de suas habilidades, permitindo que outros a usem. Só podem ser feitos Scrolls de habilidades em nível máximo (o efeito de [Divine Might] não é aplicado).
 SKILL_20190104_013382	Aplica o buff [Indulgentia] em aliados próximos. Enquanto o buff estiver ativo, os alvos recuperam HP em intervalos regulares.{nl}{#00113F}A quantidade de HP recuperada aumenta em 10% quando [Guardian Saint] estiver ativo.{/}
 SKILL_20190104_013383	Multiplicador de Cura: #{CaptionRatio2}#%{nl}Cura #{CaptionRatio}# aliados
 SKILL_20190104_013384	Extende a duração de debuffs aplicados em inimigos. Uma vez que a duração for aumentada, o debuff não será afetado novamente.{nl}{#00113F}Inimigos afetados por [Discerning Evil] que entrem na área de uma habilidade do elemento Divino irão transferir seus debuffs para os inimigos próximos.{/}
@@ -13437,7 +13437,7 @@ SKILL_20190104_013436	Multiplicador: #{SkillFactor}#%{nl}100% de dano mágico ao
 SKILL_20190104_013437	Máximo de alvos: #{CaptionRatio}#{nl}Nível máximo: 1
 SKILL_20190104_013438	Duração dos clones: [Nr. calculado x 2] + #{CaptionTime}# segundos
 SKILL_20190104_013439	Invoca um círculo mágico no formado da Árvore da Vida, recuperando continuamente o HP dos aliados.
-SKILL_20190104_013440	Duração: #{CaptionTime}# segundos{nl}Recupera #{CaptionRatio}#% do HP Máximo a cada 0.5 segundos{nl}Consome Holy Water x10
+SKILL_20190104_013440	Duração: #{CaptionTime}# segundos{nl}Recupera #{CaptionRatio}#% do HP Máximo a cada 0.5 seg{nl}Consome Holy Water x10
 SKILL_20190104_013441	Aplica o elemento Divino aos seus ataques básicos, permitindo causar um dano extra do elemento Divino. O efeito intensifica quando o seu HP estiver em 40% ou menor.
 SKILL_20190104_013442	Instala um sacrário temporário, envolto por uma toalha. Aumenta o dano de ataques do elemento Divino que forem executados na área de [Deploy Cappella].
 SKILL_20190104_013443	Duração de [Deploy Cappella]: #{CaptionRatio}# segundos{nl}Dano Divino: +#{CaptionRatio2}#{nl}Consome Cape x1
@@ -13459,6 +13459,7 @@ SKILL_20190104_013458	Ergue sua arma aos céus, acima da cabeça, e golpeia com 
 SKILL_20190104_013459	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Ignora 50% da defesa do inimigo
 SKILL_20190104_013460	Libera o poder de um livro de feitiços para atacar. Os inimigos acertados terão INT e SPR reduzidas pela metade, além de receber dano adicional em proporção ao seu próprio Ataque Mágico. Dobra o consumo de SP dos Ataques Mágicos.
 SKILL_20190104_013461	Multiplicador: #{SkillFactor}#% x 7{nl}Dano adicional igual a #{CaptionRatio}#% do Ataque Mágico do alvo{nl}Duração: 10 segundos{nl}Máximo de alvos: 7
+SKILL_20190104_013462	Altera a raça dos inimigos na área para Demônio. Alvos alterados recebem 10% de dano adicional de propriedade Divino.
 SKILL_20190104_013463	Invoca uma tesoura gigante para cusar ataques contínuos nos inimigos na sua frente. A habilidade não será cancelada mesmo se for atacado. Causa dano maior em inimigos da raça Demônio.
 SKILL_20190104_013464	Multiplicador: #{SkillFactor}#%{nl}Alvos: #{CaptionRatio}#{nl}Consome Torture Tools x2
 SKILL_20190104_013465	Balança um gohei, feito de madeira e papel branco. Remove um debuff de Nv.1 ou menor em aliados e um buff de Nv.1 ou menor em inimigos na sua frente.
@@ -14403,8 +14404,7 @@ SKILL_20190104_014403	* Reduz a Velocidade de Movimento dos inimigos afetados po
 SKILL_20190104_014404	Prophecy: Dano Aumentado
 SKILL_20190104_014405	* Aumenta o dano causado nos inimigos em 30% enquanto [Prophecy] estiver ativa.{nl}* Consumo de SP + 10%
 SKILL_20190104_014406	Counter Spell: Aprimorar
-SKILL_20190104_014407	* Aumenta o efeito de redução de dano Físico e Mágico de [Counter Spell] em 0
-5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014407	* Aumenta o efeito de redução de dano Físico e Mágico de [Counter Spell] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014408	Counter Spell: Duração
 SKILL_20190104_014409	* Aumenta a duração de [Counter Spell] em 1 segundo por nível do atributo
 SKILL_20190104_014410	Foretell: Provocação
