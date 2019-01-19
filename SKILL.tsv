@@ -13503,22 +13503,22 @@ SKILL_20190104_013502	Free Step	프리 스텝
 SKILL_20190104_013503	Utiliza movimentos rápidos e ágeis, aumentando temporariamente a Evasão.
 SKILL_20190104_013504	Evasão: +#{CaptionRatio}#%{nl}Duração: 300 segundos
 SKILL_20190104_013505	Hasisas	하시사스				
-SKILL_20190104_013506	Drink a Hasisas Potion and increase your basic attack speed. As a side effect, the potion continuously consumes your HP.	하시사스 포션을 마시는 것으로 일시적으로 신체 능력을 향상시켜 자신의 기본 공격 속도가 증가합니다. 부작용으로 지속적으로 HP가 감소됩니다.				
-SKILL_20190104_013507	Basic Attack Speed: +#{CaptionRatio}#{nl}Reduces 1% HP every #{CaptionRatio2}# seconds{nl}Duração: 300 seconds{nl}Consumes Hasisas Potion x1	기본 공격 속도 #{CaptionRatio}# 증가{nl}#{CaptionRatio2}#초당 HP 1%씩 감소{nl}지속시간 300초{nl}하시사스 포션 1개 필요				
+SKILL_20190104_013506	Bebe uma Hasisas Potion e aumenta a velocidade de ataque básico. Como efeito colateral a poção faz com que você perca HP continuamente.
+SKILL_20190104_013507	Velocidade de Ataque Básico: +#{CaptionRatio}#{nl}Reduz 1% do HP a cada #{CaptionRatio2}# segundos{nl}Duração: 300 segundos{nl}Consome Hasisas Potion x1
 SKILL_20190104_013508	Behead	카트 라시흐				
-SKILL_20190104_013509	Swing your dagger towards the enemy's neck. Attacked enemies become afflicted with [Behead: Bleeding]. In PvP, your character moves behind the enemy to attack.{nl}{#00113F}Deals 200% additional damage when your character is cloaking.{/}	단검을 휘둘러 적의 목을 공격합니다. 공격당한 적은 [카트 라시흐：출혈] 디버프에 걸립니다. PVP시에는 적의 뒤로 이동하여 공격합니다.{nl}{#00113F}[클로킹] 상태에서 카트 라시흐로 공격 시, 적에게 200% 추가대미지를 입힙니다.{/}				
-SKILL_20190104_013510	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}[Bleeding] Duração: 60 seconds	스킬 계수 #{SkillFactor}#%{nl}광역 공격 비율 #{SkillSR}#{nl}[출혈] 지속시간 60초				
+SKILL_20190104_013509	Direciona a sua adaga para o pescoço do inimigo. Alvos atacados sofrerão de [Behead: Bleeding]. Em PvP, você atacará o inimigo pelas costas.{nl}{#00113F}Causa 200% de dano adicional se usado enquanto estiver escondido.{/}
+SKILL_20190104_013510	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Duração de [Behead: Bleeding]: 60 segundos
 SKILL_20190104_013511	Instant Acceleration	투사르 리히즈인				
-SKILL_20190104_013512	Run towards distant enemies at incredible speed to instantly slash them.{nl}{#00113F}If the Agility buff is active, Instant Acceleration deals additional hits.{/}	순간적으로 가속하여 지나간 경로상의 적들을 빠르게 베어버립니다.{nl}{#00113F}어질리티 버프 중 투사르 리히즈인 사용 시 타격 수가 증가합니다.{/}				
+SKILL_20190104_013512	Avança contra inimigos distantes em uma velocidade incrível, acertantando os inimigos no caminho instantaneamente.{nl}{#00113F}Se [Agility] estiver ativo, [Instant Acceleration] causa danos adicionais.{/}
 SKILL_20190104_013513	Hallucination Smoke	두칸 알힐루사				
-SKILL_20190104_013514	Release a hallucinatory smoke around you that reduces your enemies' evasion and critical resistance.	자신의 주변에 환각을 일으키는 연기를 발생 시켜 적들의 회피와 치명타 저항을 감소시킵니다.				
-SKILL_20190104_013515	Evasion: -#{CaptionRatio}#%{nl}Critical Resistance: -#{CaptionRatio}#%{nl}Smoke Duração: #{CaptionTime}# segundos{nl}DeDuração do Buff: 20 seconds	회피 #{CaptionRatio}#% 감소{nl}치명타 저항 #{CaptionRatio}#% 감소{nl}연기 지속시간 #{CaptionTime}#초{nl}디버프 지속시간 20초				
+SKILL_20190104_013514	Libera uma fumaça alucinógena ao redor, reduzindo a Evasão e a Resistência à Crítico dos inimigos.		
+SKILL_20190104_013515	Evasão: -#{CaptionRatio}#%{nl}Resistência à Crítico: -#{CaptionRatio}#%{nl}Duração da fumaça: #{CaptionTime}# segundos{nl}Duração do Debuff: 20 segundos
 SKILL_20190104_013516	Piercing Heart	타흐카브 알칼브				
-SKILL_20190104_013517	Pierce through the enemy's chest with your dagger. Attacked enemies are inflicted with the Heart Arrest debuff and become unable to restore HP.{nl}{#00113F}Piercing Heart attacks apply as critical when used right after Keel Hauling.{/}	적의 심장을 향해 단검으로 강하게 찌릅니다. 공격 당한 적은 심정지 디버프가 적용되어 HP 회복이 불가능해집니다.{nl}{#00113F}킬홀링 직후 타흐카브 알칼브 타격 시 확정 치명타 입니다.{/}				
-SKILL_20190104_013518	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}[Heart Arrest] Duração: #{CaptionTime}# segundos	스킬 계수 #{SkillFactor}#%{nl}광역 공격 비율 #{SkillSR}#{nl}심정지 지속시간 #{CaptionTime}#초				
+SKILL_20190104_013517	Perfura o peito do inimigo com sua adaga. Inimigos acertados sofrerão com o debuff [Heart Arrest], ficando incapazes de recuperar o HP.{nl}{#00113F}Os ataques de [Piercing Heart] serão aplicados como críticos se usados após [Keel Hauling].{/}
+SKILL_20190104_013518	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Duração de [Heart Arrest]: #{CaptionTime}# segundos
 SKILL_20190104_013519	Annihilation	이브아다탄				
-SKILL_20190104_013520	Conceal yourself and quickly slash nearby enemies. You become invincible while the skill is being used.	자신의 모습을 감추고 주변의 적들을 빠르게 베어버립니다. 사용중에는 무적 상태가 됩니다.				
-SKILL_20190104_013521	Multiplicador: #{SkillFactor}#% x 14{nl}Taxa de Ataque em Área: #{SkillSR}#	스킬 계수 #{SkillFactor}#% x 14회{nl}광역 공격 비율 #{SkillSR}#				
+SKILL_20190104_013520	Se esconde rapidamente e ataca os inimigos ao redor. Você não poderá ser abatido enquanto a habilidade é usada.
+SKILL_20190104_013521	Multiplicador: #{SkillFactor}#% x 14{nl}Taxa de Ataque em Área: #{SkillSR}#
 SKILL_20190104_013522	Throw sand at your enemy's eyes. Attacked targets are blinded and have their accuracy and evasion reduced.	상대의 눈에 모래 뿌립니다. 모래에 맞은 적은 암흑 디버프에 걸립니다. 암흑 디버프에 걸린 적은 명중과 회피가 감소합니다.				
 SKILL_20190104_013523	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}[Blind] Duração: 10 seconds{nl}Blinded Enemies: -20% Accuracy and Evasion	스킬 계수 #{SkillFactor}#%{nl}광역 공격 비율 #{SkillSR}#{nl}[암흑] 디버프 지속시간 10초{nl}[암흑] 디버프에 걸린 적 명중, 회피 20% 감소				
 SKILL_20190104_013524	Smash bricks onto nearby enemies with a chance of stunning them.{nl}{#00113F}100% chance of stunning enemies attacked with Brick Smash from the back. Critical chance applies as 2x to enemies gathered with Hangman's Knot.{/}	주변의 적을 이용해서 손에 든 벽돌을 깹니다. 벽돌을 깨는데 사용된 적들은 일정 확률로 스턴 디버프에 걸립니다.{nl}{#00113F}벽돌 깨기로 적의 후방을 공격한다면, 100% 확률로 [스턴] 디버프가 발생하고, 행맨스 낫으로 모인 적에게 사용 시 치명타 확률이 2배 증가합니다.{/}				
@@ -13680,7 +13680,7 @@ SKILL_20190104_013679	Rampage: Don't Stop Me	난동 부리기: 말리지마
 SKILL_20190104_013680	Immunity to Status Ailments of Lv 3 and Below	3레벨 이하 상태이상에 면역				
 SKILL_20190104_013681	Rampage: Mad Temper	난동 부리기: 분노조절실패				
 SKILL_20190104_013682	Critical Rate Increase per Debuff Applied to Caster	자신에게 적용된 디버프 하나당 치명타 발생이 증가				
-SKILL_20190104_013683	Annihilation: Exit Scene	이브아다탄: 현장 이탈				
+SKILL_20190104_013683	Annihilation: Sair de Cena
 SKILL_20190104_013684	Deploy Pavise: Aiming Sight	파비스 설치: 조준 가늠쇠				
 SKILL_20190104_013685	Block Penetration +10%, Pavise Deployer Immune to Knockback/Knockdown	블럭 관통 10% 증가하고, 파비스 설치자는 넉백/넉다운 면역				
 SKILL_20190104_013686	Stop: Break Time	스톱: 휴식 시간				
@@ -14491,39 +14491,39 @@ SKILL_20190104_014490	Double Attack: Aprimorar
 SKILL_20190104_014491	* Aumenta o dano adicional de [Double Attack] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014492	Free Step: Aprimorar
 SKILL_20190104_014493	* Aumenta o ganho de Evasão de [Free Step] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
-SKILL_20190104_014494	Hasisas: Aprimorar	하시사스: 강화				
-SKILL_20190104_014495	* Increases [Hasisas]' basic attack speed increasing effects by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [하시사스]의 기본 공격 속도 증가 효과가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014496	Hasisas: Adaptation	하시사스: 적응				
-SKILL_20190104_014497	* Lengthens the HP reduction cycle by 1 second per attribute level while [Hasisas] is active{nl}* Consumo de SP + 10%	* [하시사스] 적용 중일 때 HP 감소 주기가 특성 레벨당 1초씩 증가{nl}* SP 소모 10% 증가				
-SKILL_20190104_014498	Hasisas: Accelerate Reaction	하시사스: 반응속도 향상				
-SKILL_20190104_014499	* Increases evasion by 20% while [Hasisas] is active{nl}* Consumo de SP + 10%	* [하시사스] 적용 중 회피가 20% 증가{nl}* SP 소모 10% 증가				
-SKILL_20190104_014500	Behead: Aprimorar	카트 라시흐: 강화				
-SKILL_20190104_014501	* Increases the skill factor of [Behead] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [카트 라시흐]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014502	Behead: Silencer	카트 라시흐: 성대 노리기				
-SKILL_20190104_014503	* Inflicts the [Silence] debuff for 5 seconds on enemies hit by [Behead]{nl}* Consumo de SP + 10%	* [카트 라시흐]에 피격 된 적은 5초간 [침묵] 디버프에 걸림{nl}* SP 소모 10% 증가				
-SKILL_20190104_014504	Behead: Deep Wound	카트 라시흐: 깊은 상처				
-SKILL_20190104_014505	* Applies the Bleeding damage of [Behead] in proportion to the target's maximum HP{nl} * Does not apply to boss monsters, and the amount of Bleeding will not exceed 5% of the caster's maximum HP{nl}* Consumo de SP + 30%	* [카트 라시흐]의 출혈 대미지가 대상의 최대 HP에 비례하여 적용됨{nl} * 단, 보스 몬스터에게는 적용되지 않으며, 출혈량은 시전자의 최대 HP 5%를 넘지 않음{nl}* SP 소모 30% 증가				
-SKILL_20190104_014506	Instant Acceleration: Aprimorar	투사르 리히즈인: 강화				
-SKILL_20190104_014507	* Increases the skill factor of [Instant Acceleration] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [투사르 리히즈인]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014508	Instant Acceleration: Two-time Slash	투사르 리히즈인: 두번 베기				
-SKILL_20190104_014509	* Changes [Instant Acceleration]'s attack to 2 consecutive hits (each dealing 25% less damage than a regular hit){nl}* Consumo de SP + 50%	* [투사르 리히즈인]의 타격이 2연타로 변경. (타격 하나의 대미지는 기존보다 25% 감소){nl}* SP 소모 50% 증가				
-SKILL_20190104_014510	Instant Acceleration: Stun	투사르 리히즈인: 스턴				
-SKILL_20190104_014511	* Stuns enemies affected by [Instant Acceleration] for 3 seconds{nl}* Consumo de SP + 10%	* [투사르 리히즈인]에 피격된 적은 3초간 [스턴]에 걸림{nl}* SP 소모 10% 증가				
-SKILL_20190104_014512	Hallucination Smoke: Aprimorar	두칸 알힐루사: 강화				
-SKILL_20190104_014513	* Increases [Hallucination Smoke]'s evasion and critical resistance reducing effects by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [두칸 알힐루사]의 회피와 치명타 저항 감소 효과가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014514	Hallucination Smoke: Reality Shock	두칸 알힐루사: 정신 충격				
-SKILL_20190104_014515	* Deals damage at the end of [Hallucination Smoke]'s Illusion debuff{nl}* Consumo de SP + 30%	* [두칸 알힐루사]의 환각 디버프가 끝나고 피해를 받음{nl}* SP 소모 30% 증가				
-SKILL_20190104_014516	Piercing Heart: Aprimorar	타흐카브 알칼브: 강화				
-SKILL_20190104_014517	* Increases the skill factor of [Piercing Heart] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [타흐카브 알칼브]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014518	Piercing Heart: Arrest Duration	타흐카브 알칼브: 심정지 지속시간				
-SKILL_20190104_014519	* Increases the duration of [Piercing Heart]'s Heart Arrest debuff by 1 second per attribute level	* [타흐카브 알칼브]의 심정지 디버프의 지속시간이 특성 레벨당 1초씩 증가				
-SKILL_20190104_014520	Piercing Heart: Demolisher	타흐카브 알칼브: 심장 파괴자				
-SKILL_20190104_014521	* Increases your critical rate by 50% for 10 seconds after using [Piercing Heart]{nl}* Consumo de SP + 30%	* [타흐카브 알칼브] 사용 후, 10초간 자신의 치명타 발생이 50% 증가{nl}* SP 소모 30% 증가				
-SKILL_20190104_014522	Annihilation: Aprimorar	이브아다탄: 강화				
-SKILL_20190104_014523	* Increases the skill factor of [Annihilation] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [이브아다탄]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014524	* Maintains your stealth mode for 1 second per attribute level after using [Annihilation]{nl} * Your movement speed increases by 5 while the stealth mode is maintained{nl}* Consumo de SP + 30%	* [이브아다탄] 사용 후 특성 레벨당 1초씩 은신 상태가 유지됨.{nl} * 은신 상태가 유지되는 동안에는 이동속도 5 증가{nl}* SP 소모 30% 증가				
-SKILL_20190104_014525	Annihilation: Intensify Wound	이브아다탄: 상처 후비기				
-SKILL_20190104_014526	* Applies twice the critical rate of [Annihilation] to bleeding enemies{nl}* Consumo de SP + 10%	* 출혈에 걸린 적에게 [이브아다탄]이 치명타 발생 2배로 적용됨{nl}* SP 소모 10% 증가				
+SKILL_20190104_014494	Hasisas: Aprimorar
+SKILL_20190104_014495	* Aumenta o ganho de Velocidade de Ataque Básico de [Hasisas] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014496	Hasisas: Adaptação
+SKILL_20190104_014497	* Atenua o ciclo de redução de HP em 1 segundo por nível do atributo enquanto [Hasisas] estiver ativo.{nl}* Consumo de SP + 10%
+SKILL_20190104_014498	Hasisas: Reação Acelerada
+SKILL_20190104_014499	* Aumenta a Evasão em 20% enquanto [Hasisas] estiver ativo.{nl}* Consumo de SP + 10%
+SKILL_20190104_014500	Behead: Aprimorar
+SKILL_20190104_014501	* Aumenta o Multiplicador de [Behead] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014502	Behead: Silenciador
+SKILL_20190104_014503	* Aplica o debuff [Silence] por 5 segundos em inimigos acertados por [Behead]{nl}* Consumo de SP + 10%
+SKILL_20190104_014504	Behead: Corte Profundo
+SKILL_20190104_014505	* Aplica o dano de [Behead: Bleeding] em proporção ao HP Máximo do alvo.{nl} * Não se aplica para monstros Chefe, e a quantidade de dano não ultrapassará 5% do HP Máximo do Assassin.{nl}* Consumo de SP + 30%
+SKILL_20190104_014506	Instant Acceleration: Aprimorar
+SKILL_20190104_014507	* Aumenta o Multiplicador de [Instant Acceleration] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014508	Instant Acceleration: Golpe Duplo
+SKILL_20190104_014509	* Altera o ataque de [Instant Acceleration] para 2 danos consecutivos (cada um causando 25% a menos de dano que o dano regular){nl}* Consumo de SP + 50%
+SKILL_20190104_014510	Instant Acceleration: Atordoar
+SKILL_20190104_014511	* Aplica [Stun] por 3 segundos em inimigos afetados por [Instant Acceleration]{nl}* Consumo de SP + 10%
+SKILL_20190104_014512	Hallucination Smoke: Aprimorar
+SKILL_20190104_014513	* Aumenta os efeitos de redução de Evasão e Resistência à Crítico de [Hallucination Smoke] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014514	Hallucination Smoke: Choque de Realidade
+SKILL_20190104_014515	* Causa dano ao final do debuff de [Hallucination Smoke]{nl}* Consumo de SP + 30%
+SKILL_20190104_014516	Piercing Heart: Aprimorar
+SKILL_20190104_014517	* Aumenta o Multiplicador de [Piercing Heart] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014518	Piercing Heart: Ataque Cardíaco
+SKILL_20190104_014519	* Aumenta a duração do debuff [Heart Arrest] em 1 segundo por nível do atributo.
+SKILL_20190104_014520	Piercing Heart: Devastador
+SKILL_20190104_014521	* Aumenta a sua Taxa de Crítico em 50% por 10 segundos após utilizar [Piercing Heart]{nl}* Consumo de SP + 30%
+SKILL_20190104_014522	Annihilation: Aprimorar
+SKILL_20190104_014523	* Aumenta o Multiplicador de [Annihilation] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014524	* Mantém seu estado de esconderijo em 1 segundo por nível do atributo após utilizar [Annihilation]{nl} * A sua Velocidade de Movimento aumenta em 5 enquanto este estado for mantido.{nl}* Consumo de SP + 30%
+SKILL_20190104_014525	Annihilation: Aproveitador
+SKILL_20190104_014526	* Aplica o dobro da Taxa de Crítico de [Annihilation] em inimigos afetados por [Bleeding]{nl}* Consumo de SP + 10%
 SKILL_20190104_014527	Throw Sand: Aprimorar	모래 뿌리기: 강화				
 SKILL_20190104_014528	* Increases the skill factor of [Throw Sand] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [모래 뿌리기]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
 SKILL_20190104_014529	Throw Sand: 17 Versus 1	모래 뿌리기: 17대1				
