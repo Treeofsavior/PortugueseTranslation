@@ -3787,7 +3787,7 @@ SKILL_20150414_003786	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Thr
 SKILL_20150414_003787	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw poison to inject a parasite into the enemy. Poisonous insects are born when the host is killed.	{#DD5500}{ol}[물리] - [독] - [찌르기]{/}{/}{nl}금잠을 던져 적에게 기생시킵니다. 기생당한 적을 처치하면 독충이 태어납니다.				
 SKILL_20150414_003788	Hide yourself in an empty barrel to prevent attention from enemies. In this state, you are unaffected by a certain amount of physical attacks.	빈 통에 자신의 몸을 숨겨 적의 주의를 끌지 않도록 합니다. 물리 공격도 몇 차례 방어합니다.				
 SKILL_20150414_003789	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow that makes noise. Enemies nearby falls under fear.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}소리를 내는 명적을 대상에게 발사합니다. 대상 주변의 다른 적들은 공포 상태에 빠집니다.				
-SKILL_20150414_003790	Temporarily hide yourself away from an enemy's vision. You become exposed when you jump or attack.	일시적으로 몸을 감춰 적에게 보이지 않는 상태가 됩니다. 공격 또는 점프시 다시 위치가 노출됩니다.				
+SKILL_20150414_003790	Se esconde temporariamente, não sendo visto pelo inimigo. Você ficará exposto se pular ou atacar.
 SKILL_20150414_003791	Distort the sense of distance to make attacks from allies possible outside their range.	거리감을 왜곡시켜서 동료들의 사정거리 바깥에서의 공격을 유효하게 만듭니다.				
 SKILL_20150414_003792	Show hidden items and enemies within range.	전방 범위내에 숨어있거나 숨겨져 있는 것들을 보여줍니다.				
 SKILL_20150414_003793	Temporarily increases your Critical Chance when attacking enemies from behind. 	일시적으로 적의 후방에서 공격시 치명타 확률을 증가시키는 상태가 됩니다.				
@@ -12652,7 +12652,7 @@ SKILL_20190104_012651	Quest Skill 1	퀘스트 스킬1
 SKILL_20190104_012652	Throw Sand	모래 뿌리기				
 SKILL_20190104_012653	Quest Skill 2	퀘스트 스킬2				
 SKILL_20190104_012654	Push the point of your weapon into enemies, performing a strong piercing attack.	적을 무기 끝으로 강하게 찔러 뒤로 밀쳐냅니다.	SKILL_20150414_003606	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Push the point of your weapon into enemies, performing a strong piercing attack.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}적을 무기 끝으로 강하게 찔러 뒤로 밀쳐냅니다.	
-SKILL_20190104_012655	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#	스킬 계수 #{SkillFactor}#%{nl}광역 공격 비율 #{SkillSR}#				
+SKILL_20190104_012655	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#
 SKILL_20190104_012656	Inflict damage on an enemy with a powerful attack.	강한 공격으로 적에게 피해를 줍니다.	SKILL_20150414_003607	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflict damage on an enemy with a powerful attack.	{#DD5500}{ol}[물리] - [베기]{/}{/}{nl}강한 공격으로 적에게 피해를 줍니다.	
 SKILL_20190104_012657	Become determined and temporarily increase your physical attack damage. Does not apply simultaneously with the Bear buff.	각오를 다져 일시적으로 자신의 물리 공격의 대미지를 증가시킵니다. 베어 버프와 동시에 적용되지 않습니다.	SKILL_20150414_003608	Become determined by temporarily increasing your attack, while decreasing your defense.	각오를 다져 일시적으로 자신의 공격력을 증가시키는 대신 방어력을 감소시킵니다.	
 SKILL_20190104_012658	Physical Attack Damage +#{CaptionRatio}#%{nl}Duração: #{CaptionTime}# seg	물리 공격 대미지 #{CaptionRatio}#% 증가{nl}지속시간 #{CaptionTime}#초	SKILL_20150317_000927	Physical Damage: +#{CaptionRatio}#{nl}Physical Defense: -#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos	물리 공격력 #{CaptionRatio}# 증가{nl}물리 방어력 #{CaptionRatio2}# 감소{nl}지속시간 #{CaptionTime}#초	
@@ -13491,17 +13491,17 @@ SKILL_20190104_013490	Consolida a fé de seus aliados em uma demonstração e en
 SKILL_20190104_013491	Multiplicador: #{SkillFactor}#% a cada 0.4 segundos{nl}Duração: #{CaptionRatio}# segundos
 SKILL_20190104_013492	Invoca uma lança de luz divina para acertar os inimigos em nome das Deusas. Alvos acertados pela lança recebem dano de propriedade Divino, com um dano adicional aplicados em inimigos da raça Demônio ou de propriedade Trevas.
 SKILL_20190104_013493	Multiplicador: #{SkillFactor}#% x 3{nl}Alvos: 15
-SKILL_20190104_013494	Damage +#{CaptionRatio}#% when attacking while cloaked{nl}Duração: #{CaptionTime}# segundos	클로킹 상태에서 적 공격시 대미지 #{CaptionRatio}#% 증가{nl}지속시간 #{CaptionTime}# 초				
+SKILL_20190104_013494	Dano +#{CaptionRatio}#% quando atacar enquanto escondido{nl}Duração: #{CaptionTime}# segundos
 SKILL_20190104_013495	Dagger Slash	대거 슬래시				
-SKILL_20190104_013496	Quickly slash with your dagger from side to side to deal damage.	손에 든 단검을 좌우로 빠르게 두 번 휘둘러 적에게 피해를 줍니다.				
+SKILL_20190104_013496	Movimenta a adaga rapidamente de um lado a outro para causar dano.
 SKILL_20190104_013497	Oblique Fire	오블리크 파이어				
-SKILL_20190104_013498	Shoot at a target. The bullet bounces off the initial target into a nearby enemy.{nl}{#00113F}When performed near a Jolly Roger flag, Oblique Fire generates another shot.{/}	권총을 발사하여 적을 공격합니다. 그리고 맞은 대상 근처 한 명의 적에게 총알이 튕겨져 나갑니다.{nl}{#00113F}[졸리 로저] 깃발 주위에서는 오블리크 파이어의 도탄이 한차례 더 발생합니다.{/}				
+SKILL_20190104_013498	Dispara contra um alvo. A bala ricocheteia para além do alvo inicial até o alvo mais próximo.{nl}{#00113F}Utilizar [Oblique Fire] dentro da área de [Jolly Roger] gera mais um ricochete.{/}
 SKILL_20190104_013499	Double Attack	더블 어택				
-SKILL_20190104_013500	Temporarily increases your critical rate. Subweapon basic attacks have a chance of applying as multiple hits.	잠시 동안 치명타 발생이 증가하며, 보조 무기로 기본 공격 시 확률적으로 연타가 발동됩니다.				
-SKILL_20190104_013501	Critical Rate: +20%{nl}Additional Damage: #{CaptionRatio}#%{nl}Multi-hit Chance: #{CaptionRatio2}#%{nl}Duração: 300 seconds	치명타 발생 20% 증가{nl}추가 대미지 #{CaptionRatio}#%{nl}연타 발동 확률 #{CaptionRatio2}#%{nl}지속시간 300초				
+SKILL_20190104_013500	Aumenta a sua Taxa de Crítico temporariamente. Ataques básicos feitos com a Arma Secundária recebem uma chance de aplicar múltiplos danos.
+SKILL_20190104_013501	Taxa de Crítico: +20%{nl}Dano Adicional: #{CaptionRatio}#%{nl}Chance de dano múltiplo: #{CaptionRatio2}#%{nl}Duração: 300 segundos
 SKILL_20190104_013502	Free Step	프리 스텝				
-SKILL_20190104_013503	Make your movements quick and nimble, temporarily increasing evasion.	몸놀림을 가볍게 하여 잠시 동안 회피가 증가하는 상태가 됩니다.				
-SKILL_20190104_013504	Evasion: +#{CaptionRatio}#%{nl}Duração: 300 seconds	회피 #{CaptionRatio}#% 증가{nl}지속시간 300초				
+SKILL_20190104_013503	Utiliza movimentos rápidos e ágeis, aumentando temporariamente a Evasão.
+SKILL_20190104_013504	Evasão: +#{CaptionRatio}#%{nl}Duração: 300 segundos
 SKILL_20190104_013505	Hasisas	하시사스				
 SKILL_20190104_013506	Drink a Hasisas Potion and increase your basic attack speed. As a side effect, the potion continuously consumes your HP.	하시사스 포션을 마시는 것으로 일시적으로 신체 능력을 향상시켜 자신의 기본 공격 속도가 증가합니다. 부작용으로 지속적으로 HP가 감소됩니다.				
 SKILL_20190104_013507	Basic Attack Speed: +#{CaptionRatio}#{nl}Reduces 1% HP every #{CaptionRatio2}# seconds{nl}Duração: 300 seconds{nl}Consumes Hasisas Potion x1	기본 공격 속도 #{CaptionRatio}# 증가{nl}#{CaptionRatio2}#초당 HP 1%씩 감소{nl}지속시간 300초{nl}하시사스 포션 1개 필요				
@@ -14481,16 +14481,16 @@ SKILL_20190104_014480	* Aumenta o Multiplicador de [Aqua Benedicta] em 0.5% por 
 SKILL_20190104_014481	* Aumenta o Multiplicador de [Gregorate] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014482	* Aumenta o Multiplicador de [Koinonia] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014483	* Aumenta o Multiplicador de [Katadikazo] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
-SKILL_20190104_014484	Cloaking: Aprimorar	클로킹: 강화				
-SKILL_20190104_014485	* Increases damage-increasing effects by 0.5% per attribute level when attacking in [Cloaking] status{nl}* +10% de aumento adicional no nível máximo	* [클로킹] 상태에서 공격시 대미지 증가 효과가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014486	Dagger Slash: Aprimorar	대거 슬래시: 강화				
-SKILL_20190104_014487	* Increases the skill factor of [Dagger Slash] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [대거 슬래시]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014488	Oblique Fire: Aprimorar	오블리크 파이어: 강화				
-SKILL_20190104_014489	* Increases the skill factor of [Oblique Fire] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [오블리크 파이어]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014490	Double Attack: Aprimorar	더블 어택: 강화				
-SKILL_20190104_014491	* Increases [Double Attack]'s additional damage by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [더블 어택]의 추가 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014492	Free Step: Aprimorar	프리 스텝 : 강화				
-SKILL_20190104_014493	* Increases [Free Step]'s evasion increasing effects by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [프리 스텝]의 회피 증가 효과가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
+SKILL_20190104_014484	Cloaking: Aprimorar
+SKILL_20190104_014485	* Aumenta o efeito de ganho de dano em 0.5% por nível do atributo quando atacar com [Cloacking] ativo{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014486	Dagger Slash: Aprimorar
+SKILL_20190104_014487	* Aumenta o Multiplicador de [Dagger Slash] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014488	Oblique Fire: Aprimorar
+SKILL_20190104_014489	* Aumenta o Multiplicador de [Oblique Fire] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014490	Double Attack: Aprimorar
+SKILL_20190104_014491	* Aumenta o dano adicional de [Double Attack] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014492	Free Step: Aprimorar
+SKILL_20190104_014493	* Aumenta o ganho de Evasão de [Free Step] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014494	Hasisas: Aprimorar	하시사스: 강화				
 SKILL_20190104_014495	* Increases [Hasisas]' basic attack speed increasing effects by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [하시사스]의 기본 공격 속도 증가 효과가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
 SKILL_20190104_014496	Hasisas: Adaptation	하시사스: 적응				
