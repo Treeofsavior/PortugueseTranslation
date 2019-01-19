@@ -13519,25 +13519,25 @@ SKILL_20190104_013518	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área
 SKILL_20190104_013519	Annihilation	이브아다탄				
 SKILL_20190104_013520	Se esconde rapidamente e ataca os inimigos ao redor. Você não poderá ser abatido enquanto a habilidade é usada.
 SKILL_20190104_013521	Multiplicador: #{SkillFactor}#% x 14{nl}Taxa de Ataque em Área: #{SkillSR}#
-SKILL_20190104_013522	Throw sand at your enemy's eyes. Attacked targets are blinded and have their accuracy and evasion reduced.	상대의 눈에 모래 뿌립니다. 모래에 맞은 적은 암흑 디버프에 걸립니다. 암흑 디버프에 걸린 적은 명중과 회피가 감소합니다.				
-SKILL_20190104_013523	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}[Blind] Duração: 10 seconds{nl}Blinded Enemies: -20% Accuracy and Evasion	스킬 계수 #{SkillFactor}#%{nl}광역 공격 비율 #{SkillSR}#{nl}[암흑] 디버프 지속시간 10초{nl}[암흑] 디버프에 걸린 적 명중, 회피 20% 감소				
-SKILL_20190104_013524	Smash bricks onto nearby enemies with a chance of stunning them.{nl}{#00113F}100% chance of stunning enemies attacked with Brick Smash from the back. Critical chance applies as 2x to enemies gathered with Hangman's Knot.{/}	주변의 적을 이용해서 손에 든 벽돌을 깹니다. 벽돌을 깨는데 사용된 적들은 일정 확률로 스턴 디버프에 걸립니다.{nl}{#00113F}벽돌 깨기로 적의 후방을 공격한다면, 100% 확률로 [스턴] 디버프가 발생하고, 행맨스 낫으로 모인 적에게 사용 시 치명타 확률이 2배 증가합니다.{/}				
-SKILL_20190104_013525	Multiplicador: #{SkillFactor}#%{nl}30% chance of inflicting Stun for 1 second	스킬 계수 #{SkillFactor}#%{nl}30% 확률로 스턴 디버프 1초간 지속				
+SKILL_20190104_013522	Joga areia nos olhos dos inimigos. Alvos acertados sofrerão de [Blind] e terão a sua Precisão e Evasão reduzidas.
+SKILL_20190104_013523	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Duração de [Blind]: 10 segundos{nl}Alvos afetados por [Blind]: -20% de Precisão e Evasão
+SKILL_20190104_013524	Quebra tijolos nos inimigos ao redor, com chance de aplicar [Stun] nos alvos acertados.{nl}{#00113F}100% de chance de aplicar [Stun] quando atacar inimigos por trás com [Brick Smash]. Aplica o dobro de chance de crítico em inimigos reunídos com [Hangman's Knot].{/}
+SKILL_20190104_013525	Multiplicador: #{SkillFactor}#%{nl}30% de chance de aplicar [Stun] por 1 segundo
 SKILL_20190104_013526	Mangle	난도질				
-SKILL_20190104_013527	Continuously slash with your dagger to lacerate enemies in front of you. Increased damage to stunned, blinded and bleeding enemies.	단검을 마구 휘둘러 눈앞의 적들을 베어버립니다. 스턴, 암흑, 출혈 디버프가 걸린 적에게는 대미지가 증가합니다.				
-SKILL_20190104_013528	Multiplicador: #{SkillFactor}#% x9{nl}+50% damage to stunned, blinded and bleeding enemies	스킬 계수 #{SkillFactor}#% x9회{nl}스턴, 암흑, 출혈 디버프에 걸린 적에게 주는 대미지 50% 증가				
+SKILL_20190104_013527	Ataca continuamente com a sua adaga para lacerar inimigos na sua frente. Causa mais dano em inimigos afetados por [Stun], [Blind] ou [Bleed].
+SKILL_20190104_013528	Multiplicador: #{SkillFactor}#% x9{nl}+50% de dano em inimigos afetados por [Stun], [Blind] ou [Bleed]
 SKILL_20190104_013529	Blindfire	난사				
-SKILL_20190104_013530	Fire blindly into a group of enemies in your way. Applies double the critical rate when attacking stunned, blinded and bleeding enemies.	자신의 앞을 가로막는 적들에게 총을 난사합니다. 스턴, 암흑, 출혈 디버프에 걸린 적에게는 치명타 발생이 2배로 적용됩니다.				
-SKILL_20190104_013531	Multiplicador: #{SkillFactor}#%{nl}x2 critical rate to stunned, blinded and bleeding enemies	스킬 계수 #{SkillFactor}#%{nl}스턴, 암흑, 출혈 디버프 적 치명타 발생 2배로 적용				
+SKILL_20190104_013530	Atira loucamente em um grupo de inimigos no seu caminho. Aplica o dobro da Taxa de Crítico em inimigos afetados por [Stun], [Blind] ou [Bleed].
+SKILL_20190104_013531	Multiplicador: #{SkillFactor}#%{nl}Taxa de Crítico em inimigos afetados por [Stun], [Blind] ou [Bleed]: x2
 SKILL_20190104_013532	Bully	농락				
-SKILL_20190104_013533	Use your street smarts and vast combat experience to increase your evasion. Evading an enemy attack during Bully increases the enemy's threat values.	수많은 싸움의 경험이 묻어나는 움직임으로 적의 공격을 잘 피하게 됩니다. 회피가 상승하며 농락 중에 적의 공격을 회피할 경우 적의 위협도가 상승합니다.				
-SKILL_20190104_013534	Evasion: +#{CaptionRatio}#%{nl}Threat Value: +#{CaptionRatio2}#{nl}Duração: 60 seconds	회피 #{CaptionRatio}#% 증가{nl}위협도 #{CaptionRatio2}# 증가{nl}지속시간 60초				
+SKILL_20190104_013533	Usa a sua vasta e sagaz experiência de combate de rua para aumentar a sua Evasão. Evadir um ataque inimigo enquanto [Bully] estiver em efeito aumenta os níveis de Provocação.
+SKILL_20190104_013534	Evasão: +#{CaptionRatio}#%{nl}Provocação: +#{CaptionRatio2}#{nl}Duração: 60 segundos
 SKILL_20190104_013535	Aggress	시비걸기				
-SKILL_20190104_013536	Provoke the enemy into a quarrel, making them recognize you as their primary target.	상대에게 시비를 걸어 도발하는 것으로 자신을 최우선 타겟으로 인식하게 합니다.				
-SKILL_20190104_013537	Threatened Targets: #{CaptionRatio}#{nl}Duração: 10 seconds	위협 대상 수 #{CaptionRatio}#{nl}지속시간 10초				
+SKILL_20190104_013536	Provoca os inimigos ao redor, fazendo com que reconheçam você como a principal ameaça.
+SKILL_20190104_013537	Alvos provocados: #{CaptionRatio}#{nl}Duração: 10 segundos
 SKILL_20190104_013538	Rampage	난동 부리기				
-SKILL_20190104_013539	Release all your pent-up aggression and go on a full rampage, destroying everything around you. Your anger keeps you immune to knockback and knockdown. Attacks to stunned, blinded and bleeding enemies deal less damage but apply as two consecutive hits. After Rampage, a buff is applied that increases the damage you deal and receive. During this buff, you cannot evade enemy damage.	화를 참지 못하고 난동을 부리며 주변을 파괴 합니다. 너무 분노한 나머지 주변 상황에 눈에 들어오지 않아 넉백, 넉다운에 면역 상태가 됩니다. 스턴, 암흑, 출혈 디버프가 걸린 적에게는 대미지가 감소하지만 2연타로 적용됩니다. 난동 부리기 사용 후 적에게 주는 대미지와 적에게 받는 피해가 모두 증가하는 버프가 부여됩니다. 버프 중엔 적에게 받는 피해를 회피할 수 없습니다.				
-SKILL_20190104_013540	Multiplicador: #{SkillFactor}#%{nl}Effects to stunned, blinded and bleeding enemies:{nl}- Damage -30%{nl}- Applies 2 hits{nl}Post-Rampage Duração do Buff: 5 seconds{nl}Damage Dealt w/ Buff: +50%{nl}Damage Taken w/ Buff: +50%	스킬 계수 #{SkillFactor}#%{nl}스턴, 암흑, 출혈 디버프 적{nl}- 대미지 30% 감소{nl}- 2연타 적용{nl}난동 부리기 사용 후 버프 지속시간 5초{nl}버프 중 적에게 주는 대미지 50% 증가{nl}버프 중 적에게 받는 피해 50% 증가				
+SKILL_20190104_013539	Libera toda a sua raiva acumulada em total fúria, destruindo tudo ao redor. A raiva impede que você seja derrubado ou empurrado. Causa menos dano em inimigos afetados por [Stun], [Blind] ou [Bleed], porém aplica dois danos consecutivos. Após terminar [Rampage], um buff é aplicado que aumenta o dano que você causa e recebe. Durante este buff, você não pode evadir ataques inimigos.
+SKILL_20190104_013540	Multiplicador: #{SkillFactor}#%{nl}Efeitos contra inimigos afetados por [Stun], [Blind] ou [Bleed]:{nl}- Dano -30%{nl}- Aplica 2 danos consecutivos{nl}Duração do buff após utilizar [Rampage]: 5 segundos{nl}Dano causado com buff ativo: +50%{nl}Dano recebido com buff ativo: +50%
 SKILL_20190104_013541	Bind enemies, including boss monsters, to prevent them from moving.	보스 몬스터를 포함한 적들을 포박해 움직일 수 없게 만듭니다.				
 SKILL_20190104_013542	Install a base camp for party members. Party members can use the base camp as storage or for teleportation.	필드 위에 파티원들을 위한 베이스캠프를 설치합니다. 파티원들은 캠프에서 개인 창고를 이용할 수 있고, 캠프로 순간 이동할 수 있습니다.				
 SKILL_20190104_013543	Slashes multiple times in front of you.	전방을 향해 무차별 연속베기를 합니다.				
@@ -13672,11 +13672,11 @@ SKILL_20190104_013671	Pierce Damage Received +50%	받는 찌르기 피해가 50%
 SKILL_20190104_013672	Accuracy Increase	명중 상승				
 SKILL_20190104_013673	Damage Increase on Holy Attacks	신성 속성 공격시 대미지 증가				
 SKILL_20190104_013674	Accumulated Damage Dealt on Enemy	기본 공격시 축적했던 대미지를 적에게 줍니다.				
-SKILL_20190104_013675	Mangle: Knife Artist	난도질: 능숙한 칼잡이				
+SKILL_20190104_013675	Mangle: Exibição de Adagas
 SKILL_20190104_013676	Evasion 100%	회피율 100%				
-SKILL_20190104_013677	Blindfire: Bullet Artist	난사: 능숙한 총잡이				
-SKILL_20190104_013678	Aggress: Getaway	시비걸기: 줄행랑				
-SKILL_20190104_013679	Rampage: Don't Stop Me	난동 부리기: 말리지마				
+SKILL_20190104_013677	Blindfire: Exibição de Balas
+SKILL_20190104_013678	Aggress: Escapar
+SKILL_20190104_013679	Rampage: Não Me Segura
 SKILL_20190104_013680	Immunity to Status Ailments of Lv 3 and Below	3레벨 이하 상태이상에 면역				
 SKILL_20190104_013681	Rampage: Mad Temper	난동 부리기: 분노조절실패				
 SKILL_20190104_013682	Critical Rate Increase per Debuff Applied to Caster	자신에게 적용된 디버프 하나당 치명타 발생이 증가				
@@ -14524,36 +14524,36 @@ SKILL_20190104_014523	* Aumenta o Multiplicador de [Annihilation] em 0.5% por n�
 SKILL_20190104_014524	* Mantém seu estado de esconderijo em 1 segundo por nível do atributo após utilizar [Annihilation]{nl} * A sua Velocidade de Movimento aumenta em 5 enquanto este estado for mantido.{nl}* Consumo de SP + 30%
 SKILL_20190104_014525	Annihilation: Aproveitador
 SKILL_20190104_014526	* Aplica o dobro da Taxa de Crítico de [Annihilation] em inimigos afetados por [Bleeding]{nl}* Consumo de SP + 10%
-SKILL_20190104_014527	Throw Sand: Aprimorar	모래 뿌리기: 강화				
-SKILL_20190104_014528	* Increases the skill factor of [Throw Sand] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [모래 뿌리기]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014529	Throw Sand: 17 Versus 1	모래 뿌리기: 17대1				
-SKILL_20190104_014530	* Changes the AoE attack ratio of [Throw Sand] to 17{nl}* Consumo de SP + 10%	* [모래 뿌리기]의 광역 공격 비율이 17로 변경{nl}* SP 소모 10% 증가				
-SKILL_20190104_014531	Brick Smash: Aprimorar	벽돌 깨기: 강화				
-SKILL_20190104_014532	* Increases the skill factor of [Brick Smash] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [벽돌깨기]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
+SKILL_20190104_014527	Throw Sand: Aprimorar
+SKILL_20190104_014528	* Aumenta o Multiplicador de [Throw Sand] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014529	Throw Sand: 17 Contra 1
+SKILL_20190104_014530	* Altera a Taxa de Ataque em Área de [Throw Sand] para 17{nl}* Consumo de SP + 10%
+SKILL_20190104_014531	Brick Smash: Aprimorar
+SKILL_20190104_014532	* Aumenta o Multiplicador de [Brick Smash] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014533	Brick Smash: Hard Brick	벽돌 깨기: 단단한 벽돌				
 SKILL_20190104_014534	* When using [Brick Smash], the brick gains a 5% chance per attribute level of remaining intact, dealing a full shock to the enemy{nl}* Applies critical and inflicts Stun for 2 seconds on every use{nl}* Consumo de SP + 20%	* [벽돌깨기] 사용 시 특성 레벨당 5% 확률로 벽돌이 깨지지 않고 적에게 충격을 그대로 전달.{nl} * 무조건 치명타로 적용되고, 무조건 스턴되며, 스턴시간이 2초로 적용됨{nl}* SP 소모 20% 증가				
-SKILL_20190104_014535	Mangle: Aprimorar	난도질: 강화				
-SKILL_20190104_014536	* Increases the skill factor of [Mangle] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [난도질]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014537	* Allows you to evade all attacks while [Mangle] is in use{nl}* Consumo de SP + 20%	* [난도질] 사용 중에 모든 공격을 회피{nl}* SP 소모 20% 증가				
-SKILL_20190104_014538	Mangle: Skilled Knife	난도질: 숙련된 칼잡이				
-SKILL_20190104_014539	* Increases [Mangle]'s number of hits by 2{nl}* Consumo de SP + 20%	* [난도질]의 타격 횟수가 2회 증가{nl}* SP 소모 20% 증가				
+SKILL_20190104_014535	Mangle: Aprimorar
+SKILL_20190104_014536	* Aumenta o Multiplicador de [Mangle] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014537	* Permite evadir todos os ataques enquanto estiver usando [Mangle]{nl}* Consumo de SP + 20%
+SKILL_20190104_014538	Mangle: Mestre das Adagas
+SKILL_20190104_014539	* Aumenta o numero de danos de [Mangle] em 2{nl}* Consumo de SP + 20%
 SKILL_20190104_014540	Blindfire: Aprimorar	난사: 강화				
 SKILL_20190104_014541	* Increases the skill factor of [Blindfire] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [난사]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014542	* Allows you to evade all attacks while [Blindfire] is in use{nl}* Consumo de SP + 20%	* [난사] 사용 중에 모든 공격을 회피{nl}* SP 소모 20% 증가				
-SKILL_20190104_014543	Blindfire: Skilled Gunman	난사: 숙련된 총잡이				
-SKILL_20190104_014544	* Increases [Blindfire]'s critical damage by 30%{nl}* Consumo de SP + 20%	* [난사]가 치명타 대미지가 30% 증가{nl}* SP 소모 20% 증가				
-SKILL_20190104_014545	Bully: Aprimorar	농락: 강화				
-SKILL_20190104_014546	* Increases the threat values increased by [Bully] by 0.5% per attribute level	* [농락]의 증가하는 위협도가 특성 레벨당 0.5% 증가				
-SKILL_20190104_014547	Bully: Endless Torment	농락: 끝없는 괴롭힘				
-SKILL_20190104_014548	* Increases [Bully]'s duration by 1 second per attribute level every time you successfully evade while using the skill{nl}* Applies to monster attacks only	* [농락] 적용 중 회피에 성공할 때마다 지속시간이 특성 레벨당 1초씩 증가{nl}* 몬스터 공격에만 효과 발동				
-SKILL_20190104_014549	Aggress: Unhinged	시비걸기: 이성상실				
-SKILL_20190104_014550	* Increases the movement speed of enemies affected by [Aggress] by 5, but reduces their accuracy by 3% per attribute level{nl}* Consumo de SP + 10%	* [시비걸기]에 걸린 적은 이동속도가 5 증가하지만, 명중이 특성 레벨당 3% 감소{nl}* SP 소모 10% 증가				
-SKILL_20190104_014551	* Increases your movement speed by 30 for 1 second per attribute level after using [Aggress]{nl}* Consumo de SP + 30%	* [시비걸기] 사용 후 특성 레벨당 1초씩 동안 자신의 이동속도가 30 증가{nl}* SP 소모 30% 증가				
-SKILL_20190104_014552	Rampage: Aprimorar	난동 부리기: 강화				
-SKILL_20190104_014553	* Increases the skill factor of [Rampage] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [난동 부리기]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014554	Rampage: Havoc	난동 부리기: 깽판				
-SKILL_20190104_014555	* 1% chance per attribute level of stunning enemies hit by [Rampage]{nl}* Consumo de SP + 10%	* [난동 부리기]에 피격된 적은 특성 레벨당 1% 확률로 스턴{nl}* SP 소모 10% 증가				
-SKILL_20190104_014556	* Grants immunity to status ailments of Lv 3 and below when using [Rampage]{nl}* Consumo de SP + 30%	* [난동 부리기] 사용 중 3레벨 이하 상태이상에 면역{nl}* SP 소모 30% 증가				
+SKILL_20190104_014542	* Permite evadir todos os ataques enquanto estiver usando [Blindfire]{nl}* Consumo de SP + 20%
+SKILL_20190104_014543	Blindfire: Pistoleiro
+SKILL_20190104_014544	* Aumenta o dano crítico de [Blindfire] em 30%{nl}* Consumo de SP + 20%
+SKILL_20190104_014545	Bully: Aprimorar
+SKILL_20190104_014546	* Aumenta os valores de provocação de [Bully] em 0.5% por nível do atributo
+SKILL_20190104_014547	Bully: Tormento Eterno
+SKILL_20190104_014548	* Aumenta a duração de [Bully] em 1 segundo por nível do atributo sempre que você evadir um ataque.{nl}* Se aplica somente a ataques de monstros
+SKILL_20190104_014549	Aggress: Transtornado
+SKILL_20190104_014550	* Aumenta a Velocidade de Movimento dos inimgos afetados por [Aggress] em 5, porém reduz a Precisão deles em 3% por nível do atributo.{nl}* Consumo de SP + 10%
+SKILL_20190104_014551	* Aumenta a sua Velocidade de Movimento em 30 por 1 segundo por nível do atributo após utilizar [Aggress]{nl}* Consumo de SP + 30%
+SKILL_20190104_014552	Rampage: Aprimorar
+SKILL_20190104_014553	* Aumenta o Multiplicador de [Rampage] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014554	Rampage: Massacrar
+SKILL_20190104_014555	* 1% de chance por nível do atributo de aplicar [Stun] nos inimigos acertados por [Rampage]{nl}* Consumo de SP + 10%
+SKILL_20190104_014556	* Garante imunidade contra debuffs de Nv.3 e menores enquanto utiliza [Rampage]{nl}* Consumo de SP + 30%
 SKILL_20190104_014557	Rampage: Mad Temper	난동 부리기: 분노조절 실패				
 SKILL_20190104_014558	* Increases [Rampage]'s critical rate by 10% per attribute level for every debuff currently applied to your character{nl}* Consumo de SP + 20%	* 자신에게 적용된 디버프 하나 당, [난동 부리기] 치명타 발생이 특성 레벨당 10% 증가 적용{nl}* SP 소모 20% 증가				
 SKILL_20190104_014559	Increases the threat range of [Swash Buckling] by 0.2m per level	스킬 [스워시버클링]의 강제 위협 범위가 레벨당 0.2m 증가합니다	SKILL_20150317_002071	Increases the provocation range of [Swash Buckling] by 0.2m per level.	스킬 [스워시버클링]의 도발 범위가 레벨당 0.2m 증가합니다	
