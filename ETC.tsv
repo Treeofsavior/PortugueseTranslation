@@ -36708,7 +36708,7 @@ ETC_20190104_036622	TBL Ranking Reward [Resets Mondays at 06:00]	팀 배틀 리�
 ETC_20190104_036623	Collection	컬렉션			
 ETC_20190104_036624	Jovial Collector	즐기는 수집가			
 ETC_20190104_036625	You have completed over 50 collections.	완성한 컬렉션이 50개를 넘겼습니다.			
-ETC_20190104_036626	50 completed collections	컬렉션 완성 수 50개			
+ETC_20190104_036626	Complete 50 collections	컬렉션 완성 수 50개				
 ETC_20190104_036627	Obsessive Collector	집착의 수집가			
 ETC_20190104_036628	You have completed over 100 collections.	완성한 컬렉션이 100개를 넘겼습니다.			
 ETC_20190104_036629	Complete 100 collections	컬렉션 완성 수 100개			
@@ -37475,11 +37475,11 @@ ETC_20190104_037389	Efeito: Luvas e Botas
 ETC_20190104_037390	Penetration	관통			
 ETC_20190104_037391	Holy Property Damage	신성 속성 데미지			
 ETC_20190104_037392	Ice Property Damage	얼음 속성 데미지			
-ETC_20190104_037393	Gung Ho damage increase {img green_up_arrow 16 16}{value}%	겅호 대미지 추가 증가 {img green_up_arrow 16 16}{value}%			
-ETC_20190104_037394	Lethargy magic circle additional damage increase {img green_up_arrow 16 16}{value}%	래써지 마법진 대미지 추가 효과 증가 {img green_up_arrow 16 16}{value}%			
-ETC_20190104_037395	Guardian Saint healing and damage increase {img green_up_arrow 16 16}{value}%	수호 성인 사용시 치유력, 대미지 증가 {img green_up_arrow 16 16}{value}%			
-ETC_20190104_037396	Concentration critical rate increase {img green_up_arrow 16 16}{value}%	콘센트레이션 치명타 발생 추가 증가 {img green_up_arrow 16 16}{value}%			
-ETC_20190104_037397	Cloaking damage increase {img green_up_arrow 16 16}{value}%	클로킹 대미지 추가 증가 {img green_up_arrow 16 16}{value}%			
+ETC_20190104_037393	Gung Ho Damage {img green_up_arrow 16 16}{value}%	겅호 대미지 추가 증가 {img green_up_arrow 16 16}{value}%				
+ETC_20190104_037394	Lethargy Added Damage Effects {img green_up_arrow 16 16}{value}%	래써지 마법진 대미지 추가 효과 증가 {img green_up_arrow 16 16}{value}%				
+ETC_20190104_037395	Guardian Saint Healing and Damage {img green_up_arrow 16 16}{value}%	수호 성인 사용시 치유력, 대미지 증가 {img green_up_arrow 16 16}{value}%				
+ETC_20190104_037396	Concentration Critical Rate {img green_up_arrow 16 16}{value}%	콘센트레이션 치명타 발생 추가 증가 {img green_up_arrow 16 16}{value}%				
+ETC_20190104_037397	Cloaking Damage {img green_up_arrow 16 16}{value}%	클로킹 대미지 추가 증가 {img green_up_arrow 16 16}{value}%				
 ETC_20190104_037398	You do not have a class that can mount this companion.	해당 컴패니언을 탑승 할 수 있는 클래스를 가지고 있지 않습니다.	ETC_20150717_013532	You do not have the required attribute to mount this companion.	해당 캐릭터는 이 컴패니언을 탈 수 있는 특성을 가지고 있지 않습니다.
 ETC_20190104_037399	You can only install one Refreshment Table at a time.	하나의 배식 테이블만 설치 가능합니다.	ETC_20150414_011114	You can set up only one refreshment table.	하나의 배식 테이블만 건설 가능합니다.
 ETC_20190104_037400	The skill requires the Companion Riding attribute.{nl}If your character is a class that is able to learn the riding attribute, try again after activating the Companion Riding attribute in the skills/attributes UI.	컴패니언 탑승 특성이 필요한 스킬입니다.{nl}컴패니언 탑승 클래스를 보유한 경우, 스킬/특성 UI에서 탑승 특성을 갱신 후 사용해주세요.	ETC_20160723_022685	You require the Companion Riding attribute to learn this skill.	컴패니언 탑승 특성이 필요한 스킬입니다.
@@ -37501,7 +37501,7 @@ ETC_20190104_037415	You do not have enough vouchers.	소유중인 교환권이 �
 ETC_20190104_037416	[Premium] [10%] Discount off new items	[프리미엄]신규 상품 [10%]할인			
 ETC_20190104_037417	Restricted from trading via Market	마켓 거래 불가			
 ETC_20190104_037418	{@st41b}{#0064FF}Title:{/}{/} 	{@st41b}{#0064FF}칭호 :{/}{/} 	ETC_20150317_001957	{@st41b} Title {/}	{@st41b}칭호 :{/} 
-ETC_20190104_037419	{@st59}Increases amount healed, magic critical damage and damage dealt by summons{/}	{@st59}치유력, 마법 치명타 공격력, 소환수의 대미지 증가{/}			
+ETC_20190104_037419	{@st59}Increases amount healed, magic critical attack and damage dealt by summons{/}	{@st59}치유력, 마법 치명타 공격력, 소환수의 대미지 증가{/}				
 ETC_20190104_037420	[Allerno Family]{nl}Asta	[아렐르노 남작가]{nl}아스타			
 ETC_20190104_037421	{#003399}[CARTÕES DE EXPERIÊNCIA]{/} e {#003399}[ITENS EQUIPADOS]{/} estão guardados na {#003399}[ABA RECUPERAR DO MERCADO]{/}.{nl}Fale com algum NPC {#003399}[GERENTE DO MERCADO]{/} para receber os itens!
 ETC_20190104_037422	Você pode usar a Estátua da Deusa para transportar até o Mestre da classe que você escolheu avançar.

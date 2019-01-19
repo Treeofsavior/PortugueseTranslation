@@ -1280,7 +1280,7 @@ UI_20150317_001279	Janelas
 UI_20150317_001280	Condição
 UI_20150317_001281	Guia
 UI_20150317_001282	Imagem do Item
-UI_20150317_001283	Efeito
+UI_20150317_001283	 - Efeito
 UI_20150317_001284	Control Set
 UI_20150317_001285	{@St41}Dificuldade : %s
 UI_20150317_001286	{@St42}Tempo Restante : %s
@@ -1774,7 +1774,7 @@ UI_20150807_001772	{@st41b}Detalhes {img red_down_arrow 16 16}
 UI_20150807_001773	{@st41b}Preço :{/}
 UI_20150807_001774	{@st41b}Após Reparo :{/}
 UI_20150918_001775	Duração do Acampamento
-UI_20150918_001776	Efeito
+UI_20150918_001776	 - Efeito
 UI_20150918_001777	A duração do acampamento aumenta ao ser renovado{nl} Requer %s de prata.
 UI_20150918_001778	Depósito Pessoal
 UI_20150918_001779	{@st41b}Tipo: {@sti7}%s{/}
@@ -3699,7 +3699,7 @@ UI_20190104_003698	Ranking	랭킹 정보
 UI_20190104_003699	{@st43}News{/}	{@st43}뉴스{/}	UI_20170726_002688	{@st43}NEWS{/}	{@st43}이벤트 안내{/}
 UI_20190104_003700	{@st59}Seals{/}	{@st59}인장{/}			
 UI_20190104_003701	{@st41b}Dismantlement Cost{/}%s	{@st41b}분해 비용{/}%s			
-UI_20190104_003702	{@st66d_y}Inser the Awakening Stone.{/}	{@st66d_y}각성석을 추가해주세요.{/}			
+UI_20190104_003702	{@st66d_y}Insira Awakening Stone.{/}
 UI_20190104_003703	Awakening Stone Item Name	각성석 아이템 이름			
 UI_20190104_003704	{@st66b}* Re-identifying an item maintains the number of stats and the groups (colors) they belong to. Only the particular stats and their values can change.{/}	{@st66b}* 재감정시 옵션 그룹(색상)과 옵션 개수는 유지되며, {nl}세부 옵션과 옵션 수치만 변경됩니다.{/}			
 UI_20190104_003705	{@st43}Enhance Seal	{@st43}인장 강화			
