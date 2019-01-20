@@ -4059,7 +4059,7 @@ SKILL_20150428_004058	Detects hidden monsters {nl}Hounding AI Duração: 90 seco
 SKILL_20150428_004059	Consumes #{SpendPoison}# Poison Pot Poison	포이즌 팟 독 #{SpendPoison}# 소비				
 SKILL_20150428_004060	Attack: #{SkillAtkAdd}#{nl}Duration 30 seconds	공격력 #{SkillAtkAdd}#{nl}지속시간 30초				
 SKILL_20150428_004061	Throw tear gas at a targeted area. The target becomes afflicted with [Blind].	지정한 위치에 최루탄을 던집니다. 최루에 당한 대상은 암흑 상태에 빠집니다.				
-SKILL_20150428_004062	Lachrymator Duração: #{CaptionTime}# segundos	최루탄 지속시간 #{CaptionTime}#초				
+SKILL_20150428_004062	Duração de [Lachrymator]: #{CaptionTime}# segundos
 SKILL_20150428_004063	Attack: #{SkillAtkAdd}#{nl}Strike 2 times{nl}Critical rate #{CaptionRatio}#%	공격력 #{SkillAtkAdd}#{nl}타격수 2회{nl}치명타 확률 #{CaptionRatio}#%				
 SKILL_20150428_004064	Attack: #{SkillAtkAdd}#{nl}Bleeding Duração: #{CaptionTime}# segundos{nl}Consumes 1 Broadhead Arrow	공격력 #{SkillAtkAdd}#{nl}출혈 지속시간 #{CaptionTime}#초{nl}브로드헤드 애로우 1개 소비				
 SKILL_20150428_004065	Attack: #{SkillAtkAdd}#{nl}Physical Defense: -#{CaptionRatio}#%{nl}Consumes 1 Bodkin Arrow	공격력 #{SkillAtkAdd}#{nl}물리 방어력 #{CaptionRatio}#% 감소{nl}보드킨포인트 애로우 1개 소비				
@@ -13491,7 +13491,7 @@ SKILL_20190104_013490	Consolida a fé de seus aliados em uma demonstração e en
 SKILL_20190104_013491	Multiplicador: #{SkillFactor}#% a cada 0.4 segundos{nl}Duração: #{CaptionRatio}# segundos
 SKILL_20190104_013492	Invoca uma lança de luz divina para acertar os inimigos em nome das Deusas. Alvos acertados pela lança recebem dano de propriedade Divino, com um dano adicional aplicados em inimigos da raça Demônio ou de propriedade Trevas.
 SKILL_20190104_013493	Multiplicador: #{SkillFactor}#% x 3{nl}Alvos: 15
-SKILL_20190104_013494	Dano +#{CaptionRatio}#% quando atacar enquanto escondido{nl}Duração: #{CaptionTime}# segundos
+SKILL_20190104_013494	Dano +#{CaptionRatio}#% quando atacar escondido{nl}Duração: #{CaptionTime}# segundos
 SKILL_20190104_013495	Dagger Slash	대거 슬래시				
 SKILL_20190104_013496	Movimenta a adaga rapidamente de um lado a outro para causar dano.
 SKILL_20190104_013497	Oblique Fire	오블리크 파이어				
@@ -13570,7 +13570,7 @@ SKILL_20190104_013569	Velocidade de Ataque: +#{CaptionRatio}#{nl}Duração: #{Ca
 SKILL_20190104_013570	Swell Hands
 SKILL_20190104_013571	Aumenta o tamanho das suas mãos e de seus aliados, aumentando momentaneamente os Ataques Físico e Mágico máximos. Personagens comuma Arma Secundária terão seu Atq. Físico Secundário aumentado. Aqueles que portarem um escudo terão a sua Defesa Física aumentada.{nl}{#00113F}Utilizar [Brick Smash] sob o efeito de [Swell Hands] remove o elmo de inimigos.{/}
 SKILL_20190104_013572	Ataque Máximo: +#{CaptionRatio}#{nl}Duração: 300 segundos{nl}Consome Magic Powder x#{SpendItemCount}#
-SKILL_20190104_013573	Maximum Links: #{CaptionRatio}#{nl}Count Limit: #{CaptionRatio2}#{nl}Duração: 20 seconds	최대 링크 수 #{CaptionRatio}#개{nl}카운트 제한 #{CaptionRatio2}#회{nl}지속시간 20초				
+SKILL_20190104_013573	Máx. Conexões: #{CaptionRatio}#{nl}Contador limite: #{CaptionRatio2}#{nl}Duração: 20 segundos
 SKILL_20190104_013574	Compartilha o seu maior atributo básico com os seus aliados.
 SKILL_20190104_013575	Link yourself to the soul of a single target to inflict mental damage. Can only be used on a single target at a time. Can be canceled by the Unbind skill.	단일 대상의 영혼에 연결하여 정신적인 피해를 주는 공격을 가합니다. 한 번에 한 대상에게만 사용 가능합니다. 언바인드 스킬로 해제가 가능합니다.				
 SKILL_20190104_013576	Multiplicador: #{SkillFactor}#% a cada 0.5 segundos{nl}Duração: #{CaptionRatio}# segundos
@@ -13624,7 +13624,7 @@ SKILL_20190104_013623	Dispara 4 tiros em um alvo único, utilizando Pistolas em 
 SKILL_20190104_013624	Multiplicador: #{SkillFactor}#% x 4{nl}Requer [Double Gun Stance]
 SKILL_20190104_013625	Chance de [Freeze]: #{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos
 SKILL_20190104_013626	Descarrega suas Pistolas enquanto se move. Ataques básicos causam 2 danos consecutivos, com dano e Velocidade de Ataque aumentados. Dano adicional é calculado para ataques básicos de [Double Gun Stance]. Você só poderá utilizar ataques básicos enquanto esta habilidade estiver ativa.
-SKILL_20190104_013627	Additional Multiplicador: #{SkillFactor}#%{nl}Duração: 10 segundos{nl}Máximo de 5 inimigos próximos{nl}Requer [Double Gun Stance]
+SKILL_20190104_013627	Multiplicador Adicional: #{SkillFactor}#%{nl}Duração: 10 segundos{nl}Máximo de 5 inimigos próximos{nl}Requer [Double Gun Stance]
 SKILL_20190104_013628	Physical Damage Increase	물리 대미지 증가				
 SKILL_20190104_013629	Threat	위협				
 SKILL_20190104_013630	Threat values increased.	위협도 증가 상태.	SKILL_20150414_003906	Increased maximum provocation.	최대 도발 수치 증가상태.	
