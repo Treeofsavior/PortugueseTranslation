@@ -1766,7 +1766,7 @@ UI_20150730_001764	{@st56}Meu Rank
 UI_20150730_001765	{@st56}Kill Rank
 UI_20150730_001766	{@st56}Damage Rank
 UI_20150803_001767	Geral: /s chat{nl}Global: /y chat {nl}Grupo: /p chat{nl} Privado: /w TeamNome chat
-UI_20150803_001768	{@st66b}Controller Vibration{/}
+UI_20150803_001768	{@st66b}Vibração do Controle{/}
 UI_20150803_001769	Partida encontrada. Aguarde para entrar.
 UI_20150804_001770	{@st43}{s18}Escolha o personagem para receber{/}
 UI_20150804_001771	Soquetes Máximos : %s
@@ -2888,7 +2888,7 @@ UI_20170912_002887	{@st59}Only Templar Guild Master in Team{/}
 UI_20170912_002888	{@st66b}Renascendo na cidade próxima (30 segundos){/}
 UI_20170912_002889	{@st66b}Ver nome do Grupo{/}
 UI_20170912_002890	{@st66b}Item de Receita Obtido{/}
-UI_20170912_002891	{@st43}PvP Configurar{/}
+UI_20170912_002891	{@st43}Configurar PvP{/}
 UI_20170912_002892	{@st66b}Escala da fonte de Dano (%s){/}
 UI_20170912_002893	{@st66b}Mostrar tiles{/}
 UI_20170912_002894	{@st66b}Usar efeitos de ataque
@@ -3331,11 +3331,11 @@ UI_20180629_003330	{@st66b}Ver apenas Nome do Time{/}
 UI_20180629_003331	{@st66b}Ver nome do Grupo{/}
 UI_20180629_003332	{@st66b}Ver nome dos Jogadores{/}
 UI_20180629_003333	{@st66b}Ver HP/SP abaixo do Char{/}
-UI_20180629_003334	{@st66b}Ver nome do Item Dropado{/}
+UI_20180629_003334	{@st66b}Nome Item Obtido{/}
 UI_20180629_003335	{@st66b}Mensagem de Silver Ganho{/}
 UI_20180629_003336	{@st66b}Mensagem de EXP Ganho{/}
 UI_20180629_003337	{@st66b}Ver nome das Invocações{/}
-UI_20180629_003338	{@st66b}See Tile Range{/}
+UI_20180629_003338	{@st66b}Ver Alcance{/}
 UI_20180629_003339	{@st66b}Tamanho da UI da Flauta (%s){/}
 UI_20180629_003340	{@st66b}Escutar flauta dos outros{/}
 UI_20180629_003341	{@st59}Desmarque se você não quiser ouvir as flautas de outros personagens.{/}
@@ -3741,9 +3741,9 @@ UI_20190104_003740	{@st66b}Top 3 ranking players per class tree receive a{nl}{#0
 UI_20190104_003741	{@st66b}Scout	{@st66b}스카우트			
 UI_20190104_003742	{@st66b}{s16}Scout	{@st66b}{s16}스카우트			
 UI_20190104_003743	{@st59b}My Information{nl}{@st59s}- Stats: Leveling up enhances your 5 basic stats. {nl}- Information: This is information about your character based on your current stats and equipment. {nl}- Title: Titles can be earned by accomplishing achievements. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 증가하는 5가지 능력{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}	UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : Use the points you earned by leveling up to enhance the 5 status attributes. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 얻은 포인트를 사용해서 5가지 능력 강화{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}
-UI_20190104_003744	{@st66b}Compare Equipment{/}	{@st66b}장비 비교하기{/}			
-UI_20190104_003745	{@st66b}Show guild and team names in GTW{/}	{@st66b}콜로니전 길드 이름, 팀 이름 보기{/}			
-UI_20190104_003746	{@st66b}Show effect costumes in GTW{/}	{@st66b}콜로니전 이펙트 코스튬 효과 켜기{/}			
+UI_20190104_003744	{@st66b}Comparar Equipamento{/}
+UI_20190104_003745	{@st66b}Ver Guilda/Nome em GTW{/}
+UI_20190104_003746	{@st66b}Efeitos de Equip. em GTW{/}
 UI_20190104_003747	{@st68b}{@st43b}{s18}{img clock_3 25 25}Time Remaining: %s{/}{/}	{@st68b}{@st43b}{s18}{img clock_3 25 25}남은 상점이용시간 : %s{/}{/}			
 UI_20190104_003748	99 Days 99 Hours 99 Minutes	99일 99시간 99분			
 UI_20190104_003749	  Exchange Vouchers available{/}	  보유중인 교환권{/}			
