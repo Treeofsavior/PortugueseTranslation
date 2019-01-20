@@ -2415,7 +2415,7 @@ SKILL_20150317_002414	Reconnaissance: Pierce Damage	정찰: 찌르기 피해
 SKILL_20150317_002415	Monsters revealed with [Reconaissance] receive 10% more Pierce damage per level while the skill is enabled.	스킬 [정찰] 사용으로 정보가 노출된 적은 스킬 [정찰]의 유지시간 동안 찌르기 피해로 입는 피해가 레벨당 10% 추가됩니다				
 SKILL_20150317_002416	Be Prepared: Reset Aggro	차렷: 어그로 초기화				
 SKILL_20150317_002417	Character's aggro value held by enemy resets when using [Be Prepared].	스킬 [차렷] 사용 시 적이 가지고 있는 캐릭터의 어그로 수치도 초기화됩니다				
-SKILL_20150317_002418	Sneak Hit: Duration	스닉 힛: 지속시간				
+SKILL_20150317_002418	Sneak Hit: Duração
 SKILL_20150317_002419	Duration of [Sneak Hit] increases by 2 seconds per attribute level.	스킬 [스닉 힛]의 지속시간이 특성 레벨 당 2초 증가합니다				
 SKILL_20150317_002420	Feint: Evasion Increase	페인트: 회피 증가				
 SKILL_20150317_002421	Evasion of allies within range of [Feint] increase by the amount the enemy's evasion decreased.	스킬 [페인트] 범위안에 아군이 있으면 적의 회피가 떨어지는 수치만큼 아군의 회피가 증가합니다. 적용되는 아군수는 중앙으로부터 스킬 레벨만큼				
@@ -3271,7 +3271,7 @@ SKILL_20150401_003270	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrows t
 SKILL_20150401_003271	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Shoot flash arrows on the ground. Flash pops and shoots sparks to enemies nearby.	{#DD5500}{ol}[물리] - [타격]{/}{/}{nl}지면에 섬광 화살을 발사합니다. 섬광이 터진 곳은 불꽃이 튀면서 주변에 있는 대상에게 피해를 줍니다.				
 SKILL_20150401_003272	Maximum Duração: 10 seconds{nl}Consumes #{CaptionRatio}# SP per second	최대 지속시간 10초{nl}1초당 SP #{CaptionRatio}# 소모				
 SKILL_20150401_003273	Temporarily increases your critical chance when you launch an attack from behind.	일시적으로 뒤에서 공격하면 치명타 확률이 증가합니다.				
-SKILL_20150401_003274	Critical Chance: +#{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos	치명타 확률 #{CaptionRatio}#% 증가{nl}지속시간 #{CaptionTime}#초				
+SKILL_20150401_003274	Chance de dano crítico: +#{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos
 SKILL_20150401_003275	Reduces the target's evasion in front of you.	전방 일직선 상에 있는 대상의 회피율을 감소시킵니다.				
 SKILL_20150401_003276	Evasion: -#{CaptionRatio}#%{nl}Targets: #{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos	회피율 #{CaptionRatio}#% 감소{nl}적용 대상 #{CaptionRatio2}#{nl}지속시간 #{CaptionTime}#초				
 SKILL_20150401_003277	Hide under the ground	땅속에 숨어 자신의 모습을 감춥니다.				
@@ -3790,7 +3790,7 @@ SKILL_20150414_003789	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow th
 SKILL_20150414_003790	Se esconde temporariamente, não sendo visto pelo inimigo. Você ficará exposto se pular ou atacar.
 SKILL_20150414_003791	Distort the sense of distance to make attacks from allies possible outside their range.	거리감을 왜곡시켜서 동료들의 사정거리 바깥에서의 공격을 유효하게 만듭니다.				
 SKILL_20150414_003792	Show hidden items and enemies within range.	전방 범위내에 숨어있거나 숨겨져 있는 것들을 보여줍니다.				
-SKILL_20150414_003793	Temporarily increases your Critical Chance when attacking enemies from behind. 	일시적으로 적의 후방에서 공격시 치명타 확률을 증가시키는 상태가 됩니다.				
+SKILL_20150414_003793	Aumenta temporariamente a sua chance de causar dano crítico quando atacar inimigos pelas costas.
 SKILL_20150414_003794	Trick an enemy to lower its guard. Temporarily decreases the evasion of enemies in front of you.	적을 속여 긴장을 늦춥니다. 전방의 적들은 일시적으로 회피율이 낮아집니다. 				
 SKILL_20150414_003795	Hide underground to conceal your appearance. In this state you can attack but cannot move.	땅 속에 숨어 자신의 모습을 감춥니다. 이 상태에서 공격은 가능하지만 이동할 수는 없습니다.				
 SKILL_20150414_003796	Steals the enemy's trap and magic circle. You may use it later when you need it.	적의 트랩 및 마법진을 훔칩니다. 훔친 것은 이후 필요시 사용할 수 있습니다.				
@@ -3997,7 +3997,7 @@ SKILL_20150414_003996	Weapon Swap	무기 스왑
 SKILL_20150414_003997	You can change weapon.	무기를 변경 할 수 있습니다.				
 SKILL_20150414_003998	Vendetta: Counter Attack	벤데타: 회심공격				
 SKILL_20150414_003999	Doubles the damage when hitting an enemy affected by the [Bleeding] status ailment with [Vendetta].	출혈 상태인 적에게 스킬 [벤데타] 적중 시 두배의 대미지가 적용됩니다.				
-SKILL_20150414_004000	Backstab: Massive Bleeding	백스텝: 대량출혈				
+SKILL_20150414_004000	Backstab: Hemorragia
 SKILL_20150414_004001	Enemy falls under [Massive Bleed] status when attack with [Back Step] while bleeding.	출혈 상태인 적이 스킬 [백스텝]에 공격당했을 때, 8초 동안 [대량출혈] 상태에 빠집니다.				
 SKILL_20150414_004002	Magic Arrow: Silence	매직 애로우: 침묵				
 SKILL_20150414_004003	Enemies receiving [Magic Arrow] fire attacks have chance of falling under [Silence]. Chance increase by 10% per attribute level.	스킬 [매직 애로우]의 불길에 피격 된 적은 확률적으로 [침묵] 상태에 빠집니다. 확률은 특성 레벨 당 10%씩 증가합니다.				
@@ -4574,7 +4574,7 @@ SKILL_20150714_004573	Increases the damage dealt on an enemy with [Backstab] by 
 SKILL_20150714_004574	Increases the duration of [Sneak Hit] by 2 seconds per attribute level.	스킬 [스닉 힛]의 지속시간이 특성 레벨당 2초 증가합니다				
 SKILL_20150714_004575	Burrow: Damage	버로우: 피해				
 SKILL_20150714_004576	Deals damage equal to your physical attack on nearby enemies while removing [Burrow].	[버로우]를 해제 할 때 주변에 적이 있으면 해당 적에게 물리 공격력 만큼 대미지를 입힙니다.				
-SKILL_20150714_004577	Lachrymator: Increased Range	최루: 범위 증가				
+SKILL_20150714_004577	Lachrymator: Alcance Ampliado
 SKILL_20150714_004578	Increases the range of [Lachrymator].	[최루]가 적용되는 범위가 증가합니다.				
 SKILL_20150714_004579	Increases the damage dealt on an enemy with [Broadhead] by 1% per attribute level.	적에게 입히는 [브로드헤드]의 대미지가 특성 레벨당 1% 증가합니다.				
 SKILL_20150714_004580	Increases the damage dealt on an enemy with [Bodkin Point] by 1% per attribute level.	적에게 입히는 [보드킨 포인트]의 대미지가 특성 레벨당 1% 증가합니다.				
@@ -5232,7 +5232,7 @@ SKILL_20150918_005231	Enemies attacked with [Rush Dog] have a 10% chance per att
 SKILL_20150918_005232	Deals additional damage equal to 50% physical attack to the next used attacking skill during [Cloaking].	스킬 [클로킹] 중 다음 사용하는 공격 스킬이 물리 공격력의 50%만큼 추가 대미지를 줍니다.	SKILL_20150317_002409	Deals additional damage equal to 50% physical damage after the first attack made with [Cloaking].	스킬 [클로킹] 중 다음 사용하는 공격 스킬이 물리 공격력의 50%만큼 추가대미지를 줍니다.	
 SKILL_20150918_005233	Cloaking: Increased Movement Speed	클로킹: 이동속도 증가				
 SKILL_20150918_005234	Increases the movement speed of [Cloaking] by 1 per attribute level.	스킬 [클로킹] 중에 이동속도가 특성 레벨당 1 증가합니다.				
-SKILL_20150918_005235	Feint: Back Roll	페인트: 뒤돌기				
+SKILL_20150918_005235	Feint: Vulnerável
 SKILL_20150918_005236	Increases the chance by 15% per attribute level of enemies turning around when using [Feint]	[페인트] 사용시 적이 뒤돌아 볼 확률이 특성 레벨당 15% 증가합니다.				
 SKILL_20150918_005237	Deals 10% additional damage to Plant-type monsters when equipped with a [Blunt] type weapon.	[둔기] 착용 시 식물형 몬스터에게 특성 레벨당 10%의 추가 대미지를 줍니다.	SKILL_20150714_004657	When equipped with a [Mace], you will inflict additional damage equal to 10% of the physical attack to Plant-type monsters per attribute level.	[둔기] 착용 시 식물형 몬스터에게 특성 레벨당 물리 공격력의 10%만큼 추가대미지를 줍니다.	
 SKILL_20150918_005238	Deals damage equal to 50% of physical attack to enemies knocked into the air by [Smite], on landing. (This effect only activates when the attribute is ON)	스킬 [스마이트]에 공격 당한 적은 공중에 솟구치며, 떨어지면서 물리 공격력의 50%만큼 대미지를 입습니다. (해당 특성이 ON일때만 효과가 발동합니다.)	SKILL_20150317_002339	Inflicts damage equal to 50% of physical attack to an enemy in the air.	스킬 [스마이트]로 공중에 뜬 적이 떨어지면서 물리 공격력의 50%만큼 대미지를 입습니다.	
@@ -9106,11 +9106,11 @@ SKILL_20170420_009105	* Increases damage dealt with [Split Arrow] by 0.5% per at
 SKILL_20170420_009106	* Increases damage dealt with [Vendetta] by 0.5% per attribute level	* 적에게 입히는 [벤데타]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_008032	* Increases damage dealt with [Vendetta] by 1% per attribute level	* 적에게 입히는 [벤데타]의 대미지가 특성 레벨당 1% 증가	
 SKILL_20170420_009107	* Enemies within the range of [Lachrymator] will receive damage equal to [attribute level] every 2 seconds{nl}* Consumo de SP + 10%	* 스킬 [최루] 범위 안에 있는 적들은 2초 마다 [특성 레벨] 만큼{nl}    피해를 받음{nl}* SP 소모 10%증가	SKILL_20170313_008034	* Enemies within the range of [Lachrymator] will receive damage equal to [attribute level] every 2 seconds{nl}* Consumo de SP + 10	* 스킬 [최루] 범위 안에 있는 적들은 2초 마다 [특성 레벨] 만큼{nl}    피해를 받음{nl}* SP 소모 10증가	
 SKILL_20170420_009108	* Increases damage dealt with [Backstab] by 0.5% per attribute level	* 적에게 입히는 [백스텝]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_008035	* Increases damage dealt with [Backstab] by 1% per attribute level	* 적에게 입히는 [백스텝]의 대미지가 특성 레벨당 1% 증가	
-SKILL_20170420_009109	* Increases duration of [Sneak Hit] by 2 seconds per attribute level{nl}* Consumo de SP + 10%	* 스킬 [스닉 힛]의 지속시간이 특성 레벨당 2초 증가{nl}* SP 소모 10%증가	SKILL_20170313_008036	* Increases duration of [Sneak Hit] by 2 seconds per attribute level{nl}* Consumo de SP + 10	* 스킬 [스닉 힛]의 지속시간이 특성 레벨당 2초 증가{nl}* SP 소모 10증가	
+SKILL_20170420_009109	* Aumenta a duração de [Sneak Hit] em 2 segundos por nível do atributo.{nl}* Consumo de SP + 10%
 SKILL_20170420_009110	* Doubles the damage when hitting an enemy affected by the [Bleeding] status ailment with [Vendetta]{nl}* Consumo de SP + 10%	* 출혈 상태인 적에게 스킬 [벤데타] 적중 시 두배의 대미지 적용{nl}* SP 소모 10%증가	SKILL_20170313_008037	* Doubles the damage when hitting an enemy affected by the [Bleeding] status ailment with [Vendetta]{nl}* Consumo de SP + 18	* 출혈 상태인 적에게 스킬 [벤데타] 적중 시 두배의 대미지 적용{nl}* SP 소모 18증가	
 SKILL_20170420_009111	* Inflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding{nl}* Increases the duration by 1 second per attribute level{nl}* Consumo de SP + 30%	* 출혈 상태인 적이 [백스텝]에 공격당했을 때 10초 동안{nl}    [대량출혈] 디버프{nl}* 지속시간이 특성 레벨당 1초씩 증가{nl}* 대량출혈 대미지는 캐릭터의 힘과 물리 공격력에 비례{nl}* SP 소모 30%증가	SKILL_20170313_008038	* Inflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding{nl}* Increases the duration by 1 second per attribute level{nl}* Consumo de SP + 9{nl}* Increases cooldown time by 10 seconds	* 출혈 상태인 적이 [백스텝]에 공격당했을 때 10초 동안{nl}    [대량출혈] 디버프{nl}* 지속시간이 특성 레벨당 1초씩 증가{nl}* 대량출혈 대미지는 캐릭터의 힘과 물리 공격력에 비례{nl}* SP 소모 9증가{nl}* 재사용 대기시간 10초 증가	
 SKILL_20170420_009112	* Deals damage equal to your physical attack on nearby enemies when removing [Burrow]{nl}* Consumo de SP + 10%	* [버로우]를 해제 할 때 주변에 적이 있으면 해당 적에게{nl}    물리 공격력 만큼 대미지{nl}* SP 소모 10%증가	SKILL_20170313_008039	* Deals damage equal to your physical attack on nearby enemies when removing [Burrow]{nl}* Consumo de SP + 15	* [버로우]를 해제 할 때 주변에 적이 있으면 해당 적에게{nl}    물리 공격력 만큼 대미지{nl}* SP 소모 15증가	
-SKILL_20170420_009113	* Increases range of   [Lachrymator] to 75{nl}* Consumo de SP + 40% 	* [최루]가 적용되는 범위가 75로 증가{nl}* SP 소모 40%증가	SKILL_20170313_008040	* Increases range of [Lachrymator] to 75{nl}* Increases cooldown time by 15 seconds	* [최루]가 적용되는 범위가 75로 증가{nl}* 재사용 대기시간 15초 증가	
+SKILL_20170420_009113	* Aumenta a área de [Lachrymator] para 75{nl}* Consumo de SP + 40%
 SKILL_20170420_009114	* Increases chances by 15% per attribute level of enemies turning around when using [Feint]{nl}* Consumo de SP + 10%	* [페인트] 사용시 적이 뒤돌아 볼 확률이 특성 레벨당 15% 증가{nl}* SP 소모 10%증가	SKILL_20170313_008041	* Increases chances by 15% per attribute level of enemies turning around when using [Feint]{nl}* Consumo de SP + 7	* [페인트] 사용시 적이 뒤돌아 볼 확률이 특성 레벨당 15% 증가{nl}* SP 소모 7증가	
 SKILL_20170420_009115	* Allows you to seize not only an enemies' magic circle, but also your allies' with [Capture]{nl}* Consumo de SP + 10%	* 적의 마법진 뿐만 아니라, 파티원의 마법진도 [노획]으로{nl}    획득 가능{nl}* SP 소모 10%증가	SKILL_20170313_008042	* Allows you to seize not only an enemies' magic circle, but also your allies' with [Capturing]{nl}* Consumo de SP + 5	* 적의 마법진 뿐만 아니라, 파티원의 마법진도 [노획]으로{nl}    획득 가능{nl}* SP 소모 5증가	
 SKILL_20170420_009116	* Increases damage dealt with [Broadhead] by 0.5% per attribute level	* 적에게 입히는 [브로드헤드]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_008043	* Increases damage dealt with [Broadhead] by 1% per attribute level	* 적에게 입히는 [브로드헤드]의 대미지가 특성 레벨당 1% 증가	
@@ -11684,8 +11684,8 @@ SKILL_20180517_011683	Wugushi: Two-handed Poison	무고사: 양손의 독
 SKILL_20180517_011684	* Wugushi skills receive the attack values of your subweapon instead of the main weapon	* 무고사 스킬들이 주무기가 아닌 보조무기의 공격력을 받음				
 SKILL_20180517_011685	Backstab: Aprimorar	백스탭: 강화	SKILL_20150401_003449	Backstab: Aprimorar	백스텝: 강화	
 SKILL_20180517_011686	* Increases the damage dealt on an enemy with [Backstab] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [백스탭]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010847	* Increases the damage dealt on an enemy with [Backstab] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [백스텝]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20180517_011687	Backstab: Massive Bleeding	백스탭: 대량출혈	SKILL_20150414_004000	Backstab: Massive Bleeding	백스텝: 대량출혈	
-SKILL_20180517_011688	* Inflicts bleeding enemies with [Massive Bleeding] for 10 seconds when attacked by [Backstab]{nl}* Increases the duration by 1 seg per attribute level{nl}* Consumo de SP + 30%	* 출혈 상태인 적이 [백스탭]에 공격당했을 때 10초 동안{nl}    [대량출혈] 디버프{nl}* 지속시간이 특성 레벨당 1초씩 증가{nl}* 대량출혈 대미지는 캐릭터의 힘과 물리 공격력에 비례{nl}* SP 소모 30%증가	SKILL_20170420_009111	* Inflicts the enemy with [Massive Bleeding] for 10 seconds when attacked with [Backstab] while affected by bleeding{nl}* Increases the duration by 1 second per attribute level{nl}* Consumo de SP + 30%	* 출혈 상태인 적이 [백스텝]에 공격당했을 때 10초 동안{nl}    [대량출혈] 디버프{nl}* 지속시간이 특성 레벨당 1초씩 증가{nl}* 대량출혈 대미지는 캐릭터의 힘과 물리 공격력에 비례{nl}* SP 소모 30%증가	
+SKILL_20180517_011687	Backstab: Hemorragia
+SKILL_20180517_011688	* Inimigos que estiverem sob efeito de [Bleed] sofrerão de [Massive Bleeding] por 10 segundos quando acertados com [Backstab]{nl}* Aumenta a duração em 1 segundo por nível do atributo.{nl}* Consumo de SP + 30%
 SKILL_20180517_011689	Broadhead: Aprimorar	브로드 헤드: 강화	SKILL_20150401_003455	Broadhead: Aprimorar	브로드헤드: 강화	
 SKILL_20180517_011690	* Increases the damage dealt on an enemy with [Broadhead] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [브로드 헤드]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010848	* Increases the damage dealt on an enemy with [Broadhead] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [브로드헤드]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20180517_011691	Broadhead: Aprimorar 2	브로드 헤드: 강화 2	SKILL_20150401_003457	Broadhead: Aprimorar 2	브로드헤드: 강화 2	
@@ -13587,18 +13587,18 @@ SKILL_20190104_013586	Aprimoramento: +#{CaptionRatio}#{nl}Duração: 300 segundo
 SKILL_20190104_013587	Enchant Glove
 SKILL_20190104_013588	Aplica um buff em suas Luvas e nas de seus aliados, aumentando a Precisão. [Enchant Glove] não será aplicado se o personagem não estiver utilizando Luvas.
 SKILL_20190104_013589	Precisão: +#{CaptionRatio}#%{nl}Duração: 300 segundos{nl}Consome Enchant Round x#{SpendItemCount}#
-SKILL_20190104_013590	Trick an enemy to lower their guard. Temporarily decreases the evasion of enemies in front of you, and makes them unable to change direction for 3 seconds.	적을 속여 긴장을 늦춥니다. 전방의 적들은 일시적으로 회피율이 낮아지고, 3초간 이동, 방향전환이 불가능해집니다.				
-SKILL_20190104_013591	Evasion: -#{CaptionRatio}#%{nl}Targets: 15{nl}Duração: 20 seconds{nl}Enemies become unable to move or change direction for 3 seconds	회피율 #{CaptionRatio}#% 감소{nl}적용 대상 15{nl}지속시간 20초{nl}3초간 이동, 방향전환 불가				
-SKILL_20190104_013592	Significantly increases your evasion.	자신의 회피율을 대폭 증가시킵니다.				
-SKILL_20190104_013593	Evasion: +#{CaptionRatio}#%{nl}Duração: 7 seconds	회피율 #{CaptionRatio}#% 증가{nl}지속시간 7초				
-SKILL_20190104_013594	Hide under the ground to conceal your body. When you reveal yourself, your enemies receive a critical attack.	땅 속에 숨어 자신의 모습을 감춥니다. 땅 속에서 모습을 드러낼 때, 적들에게 치명타를 입힙니다.				
-SKILL_20190104_013595	Multiplicador: #{SkillFactor}#%{nl}Duração de [Burrow]: 30 seconds{nl}When Burrow is canceled, the first attack dealt is critical	스킬 계수 #{SkillFactor}#%{nl}버로우 유지시간 30초{nl}버로우 해제 시 공격은 확정 치명타 공격				
-SKILL_20190104_013596	Throw tear gas at a targeted area. The target becomes afflicted with [Blind] and unable to attack.	지정한 위치에 최루탄을 던집니다. 최루에 당한 대상은 [암흑] 디버프에 걸리고, [공격불가] 상태에 빠집니다.				
-SKILL_20190104_013597	Continuously attack using your dagger. A double attack with a high critical rate may stun the enemy. Attacking from the back deals extra damage.	대상을 단검으로 연속 공격합니다. 2연타 공격에 치명타 확률이 높고 동시에 기절 상태로 만들 수도 있습니다. 적 후방을 공격하면 추가대미지를 입힙니다.				
-SKILL_20190104_013598	Multiplicador: #{SkillFactor}#% x 2{nl}Critical Chance: #{CaptionRatio}#%	스킬 계수 #{SkillFactor}#% x 2회{nl}치명타 확률 #{CaptionRatio}#%				
-SKILL_20190104_013599	Knife Throw	나이프 스로잉				
-SKILL_20190104_013600	Throw a knife at an enemy to inflict the [Bull's-eye] debuff. Enemies affected by Bull's-eye have their critical resistance and block reduced, become unable to evade close-range physical attacks, and receive 50% additional damage from Backstab and Burrow.{nl}{#00113F}100% accuracy on targets affected by [Swell Body].{/}	나이프를 투척하여 적들에게 [표적] 디버프를 부여합니다. [표적] 디버프에 걸린 적은 치명타 저항과 블록이 감소하고, 근접 물리 공격의 회피가 불가능하고, 백스탭과 버로우에 50% 추가대미지를 입습니다.{nl}{#00113F}[크기 확대] 적용 대상에게는 나이프 스로잉이 무조건 명중 합니다.{/}				
-SKILL_20190104_013601	Multiplicador: #{SkillFactor}#%{nl}{#339999}{ol}[Bull's-eye]{/}{/} Duração: #{CaptionRatio}# seconds{nl}{#339999}{ol}[Bull's-eye]{/}{/} Debuff:{nl}- Critical Resistance and Block -20%{nl}- Unable to evade melee physical attacks{nl}- 50% more damage received from Backstab and Burrow	스킬 계수 #{SkillFactor}#%{nl}{#339999}{ol}[표적]{/}{/}적용 시간 #{CaptionRatio}# 초{nl}{#339999}{ol}[표적]{/}{/} 디버프{nl}- 치명타 저항, 블록 20% 감소{nl}- 근접 물리 공격 회피 불가{nl}- 백스탭, 버로우에 받는 대미지 50% 증가				
+SKILL_20190104_013590	Engana o inimigo para que baixe a guarda. Reduz temporariamente a Evasão dos inimigos na sua frente, fazendo com que não possam mudar de direção por 3 segundos.
+SKILL_20190104_013591	Evasão: -#{CaptionRatio}#%{nl}Alvos: 15{nl}Duração: 20 segundos{nl}Inimigos não poderão se mover ou mudar de direção por 3 segundos
+SKILL_20190104_013592	Aumenta significativamente a sua Evasão.
+SKILL_20190104_013593	Evasão: +#{CaptionRatio}#%{nl}Duração: 7 segundos
+SKILL_20190104_013594	Se esconde debaixo da terra para ocultar o seu corpo. Ao sair, os inimigos receberão um Ataque Crítico.
+SKILL_20190104_013595	Multiplicador: #{SkillFactor}#%{nl}Duração de [Burrow]: 30 segundos{nl}Quando [Burrow] for cancelado, o primeiro ataque será crítico
+SKILL_20190104_013596	Joga gás lacrimogêneo na área selecionada. Os alvos serão afetados por [Blind] e ficarão incapazes de atacar.
+SKILL_20190104_013597	Ataca continuamente utilizando a sua Adaga. Um ataque duplo, com alta Taxa de Crítico, pode aplicar [Stun] no inimigo. Atacar pelas costas causa dano adicional.
+SKILL_20190104_013598	Multiplicador: #{SkillFactor}#% x 2{nl}Chance de crítico: #{CaptionRatio}#%
+SKILL_20190104_013599	Knife Throw
+SKILL_20190104_013600	Joga uma adaga no inimigo para causar o debuff [Bull's-eye]. Inimigos sob este efeito terão a sua Resistência à Crítico e Bloqueio reduzidos, não poderão evadir ataques físicos de curta distância, além de receber 50% a mais de dano de [Backstab] e [Burrow]{nl}{#00113F}100% de Precisão em alvos afetados por [Swell Body].{/}
+SKILL_20190104_013601	Multiplicador: #{SkillFactor}#%{nl}Duração de {#339999}{ol}[Bull's-eye]{/}{/}: #{CaptionRatio}# segundos{nl}Efeito de {#339999}{ol}[Bull's-eye]{/}{/}:{nl}- Resistência à Crítico e Bloqueio -20%{nl}- Incapaz de evadir ataques físicos corpo-a-corpo{nl}- 50% a mais de dano de [Backstab] e [Burrow]
 SKILL_20190104_013602	Fire multiple bullets at an enemy in rapid succession. Applies 30% additional damage to blinded targets.	적에게 여러 발의 총탄을 집중 사격합니다. [암흑] 상태의 적에게 30% 추가대미지가 적용됩니다.				
 SKILL_20190104_013603	Multiplicador: #{SkillFactor}#% x #{CaptionRatio2}#	스킬 계수 #{SkillFactor}#% x #{CaptionRatio2}#회				
 SKILL_20190104_013604	Shoot forward while pushing yourself back with recoil. Attacked enemies momentarily receive more damage from Missile attacks.	전방을 향해 사격하고, 자신은 뒤로 빠져나갑니다. 피격된 적은 일정 시간동안 미사일 공격으로 받는 피해가 증가합니다.				
@@ -14239,13 +14239,13 @@ SKILL_20190104_014238	* Increases the skill factor of [Flu Flu] by 0.5% per attr
 SKILL_20190104_014239	* Increases the skill factor of [Flare Shot] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [플레어 샷]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010844	* Increases the damage dealt on an enemy with [Flare Shot] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [플레어 샷]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014240	* Increases the skill factor of [Split Arrow] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [스플릿 애로우]의 스킬 계수가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010845	* Increases the damage dealt on an enemy with [Split Arrow] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [스플릿 애로우]의 대미지가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014241	* Increases the skill factor of [Vendetta] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [벤데타]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010846	* Increases the damage dealt on an enemy with [Vendetta] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [벤데타]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014242	* Increases the skill factor of [Backstab] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [백스탭]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180517_011686	* Increases the damage dealt on an enemy with [Backstab] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [백스탭]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
+SKILL_20190104_014242	* Aumenta o Multiplicador de [Backstab] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014243	* Inflicts bleeding enemies with [Massive Bleeding] for 10 seconds when attacked by [Backstab]{nl}* Increases the duration by 1 second per attribute level{nl}* Consumo de SP + 30%	* 출혈 상태인 적이 [백스탭]에 공격당했을 때 10초 동안 [대량출혈] 디버프{nl}* 지속시간이 특성 레벨당 1초씩 증가{nl}* 대량출혈 대미지는 캐릭터의 힘과 물리 공격력에 비례{nl}* SP 소모 30%증가	SKILL_20180517_011688	* Inflicts bleeding enemies with [Massive Bleeding] for 10 seconds when attacked by [Backstab]{nl}* Increases the duration by 1 seg per attribute level{nl}* Consumo de SP + 30%	* 출혈 상태인 적이 [백스탭]에 공격당했을 때 10초 동안{nl}    [대량출혈] 디버프{nl}* 지속시간이 특성 레벨당 1초씩 증가{nl}* 대량출혈 대미지는 캐릭터의 힘과 물리 공격력에 비례{nl}* SP 소모 30%증가	
-SKILL_20190104_014244	* Increases the chances of [Feint] turning the enemy around by 20% per attribute level{nl}* If the target is a character, that chance reduces 25%{nl}* Consumo de SP + 50%	* [페인트] 사용시 적이 뒤돌아 볼 확률이 특성 레벨당 20% 증가{nl}* 대상이 캐릭터라면 확률이 25% 감소{nl}* SP 소모 50%증가	SKILL_20170420_009114	* Increases chances by 15% per attribute level of enemies turning around when using [Feint]{nl}* Consumo de SP + 10%	* [페인트] 사용시 적이 뒤돌아 볼 확률이 특성 레벨당 15% 증가{nl}* SP 소모 10%증가	
-SKILL_20190104_014245	Burrow: Aprimorar	버로우: 강화				
-SKILL_20190104_014246	* Increases the skill factor of [Burrow] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [버로우]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014247	Knife Throw: Aprimorar	나이프 스로잉: 강화				
-SKILL_20190104_014248	* Increases the skill factor of [Knife Throw] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [나이프 스로잉]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
+SKILL_20190104_014244	* Aumenta as chances de [Feint] virar o inimgo em 20% por nível do atributo.{nl}* Se o alvo for outro personagem, a chance reduz em 25%{nl}* Consumo de SP + 50%
+SKILL_20190104_014245	Burrow: Aprimorar
+SKILL_20190104_014246	* Aumenta o Multiplicador de [Burrow] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014247	Knife Throw: Aprimorar
+SKILL_20190104_014248	* Aumenta o Multiplicador de [Knife Throw] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014249	* Increases the skill factor of [Broadhead] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [브로드 헤드]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180517_011690	* Increases the damage dealt on an enemy with [Broadhead] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [브로드 헤드]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014250	* Increases the skill factor of [Bodkin Point] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [보드킨 포인트]의 스킬 계수가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010849	* Increases the damage dealt on an enemy with [Bodkin Point] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [보드킨 포인트]의 대미지가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014251	* Increases the skill factor of [Barbed Arrow] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [바브드 애로우]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180517_011694	* Increases the damage dealt on an enemy with [Barbed Arrow] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [바브드 애로우]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
