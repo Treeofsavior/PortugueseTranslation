@@ -36513,7 +36513,7 @@ ETC_20181017_036427	By Level	레벨순
 ETC_20181017_036428	You cannot create a new character because the [Lodge{layer]]is full.{nl}Please try again in a different lodge.	현재 [숙소{layer}]가 가득차 더 이상 캐릭터를 생성할 수 없습니다. 숙소를 변경하여 시도해 주세요.				
 ETC_20181017_036429	Exceeded Market trade limit ({LIMIT} Silver).	마켓 거래 한도인 {LIMIT}실버를 초과하였습니다.	ETC_20161214_026110	Exceeded the maximum silver limit of {LIMIT}.	등록 가능한 최대 금액인 {LIMIT}실버를 초과하였습니다.	
 ETC_20181017_036430	You cannot have more than {MaxStack} [{Name}] items.	[{Name}] 아이템은 {MaxStack}개 이상 소유할 수 없습니다.				
-ETC_20181017_036431	{#ffc500}{s14}Option applied	{#ffc500}{s14}옵션 적용중				
+ETC_20181017_036431	{#ffc500}{s14}Filtro aplicado
 ETC_20181017_036432	{TeamName}'s Camp	{TeamName}의 캠프				
 ETC_20181017_036433	{TeamName}'s Table	{TeamName}의 배식대				
 ETC_20181017_036434	Participation: {COUNT} time(s){nl}No. selected: {NUMLIST}{nl}Rewards	참여횟수 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상	ETC_20170313_027060	Total count: {COUNT}{nl}Selected numbers: {NUMLIST}{nl}Reward(	누적 출석 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상(	
@@ -37435,7 +37435,7 @@ ETC_20190104_037349	One of the following bonuses will be added at random.	다음
 ETC_20190104_037350	Using the maximum number of Magic Stones to attempt enhancement with the highest success rate.	마정석 개수를 최대로 사용하여 최대 확률로 강화를 시도합니다.			
 ETC_20190104_037351	You have not registered the maximum number of Magic Stones.	현재 마정석 개수가 최대가 아닙니다.			
 ETC_20190104_037352	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable via 1:1{/}.{nl} - If transcendence {#62100c}fails{/}, the item's potential is {#62100c}reduced by 1{/}.	아이템 변경사항 안내{nl} {nl} - 아이템이 {Before}초월에서{#62100c}{After}초월{/}로 변경 {nl} - 초월 성공시{#62100c}1:1거래가 불가능{/} 합니다.{nl} - 초월{#62100c}실패시{/} 포텐셜이{#62100c}1감소{/} 합니다.	ETC_20180418_032163	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable{/}.{nl} - If transcendence {#62100c}fails{/}, the item's potential is {#62100c}reduced by 1{/}.	아이템 변경사항 안내{nl} {nl} - 아이템이 {Before}초월에서{#62100c}{After}초월{/}로 변경 {nl} - 초월 성공시{#62100c}모든 거래가 불가능{/} 합니다.{nl} - 초월{#62100c}실패시{/} 포텐셜이{#62100c}1감소{/} 합니다.
-ETC_20190104_037353	Use Steam Guard	U-OTP 또는 넥슨 OTP 사용	ETC_20181017_036420	Steam Guard	OTP 또는 플레이 패스 사용
+ETC_20190104_037353	Usa Steam Guard
 ETC_20190104_037354	The item is equipped with an Ichor.{nl}The Ichor must first be extracted.	아이커를 통해 옵션이 장착된 아이템입니다.{nl}아이커를 먼저 분리해주세요.			
 ETC_20190104_037355	Items that are traded cannot be traded back.	교환된 아이템은 다시 교환 할 수 없습니다.			
 ETC_20190104_037356	{@st59}Close the {NAME} UI{/}	{@st59}{NAME} UI를 닫습니다{/}			
