@@ -3153,14 +3153,14 @@ SKILL_20150401_003152	Armor Maintenance	방어구 손질
 SKILL_20150401_003153	Open shop for repairing armors. Only top, pants, and shield can be repaired. Physical defense is added when repaired.	방어구를 손질할 수 있는 상점을 개설합니다. 상의, 하의, 방패만 가능하며 손질된 방어구에는 물리 방어력이 더해집니다.				
 SKILL_20150401_003154	Physical Defense: +#{CaptionRatio}#{nl}Number of Shots: #{CaptionRatio2}#{nl}Duração: 4 hours	물리 방어력 #{CaptionRatio}# 증가{nl}피격 #{CaptionRatio2}# 횟수{nl}지속시간 4시간				
 SKILL_20150401_003155	Open shop to repair equipment. Item can be repaired beyond max. durability.	장비를 수리해주는 상점을 개설합니다. 최대 내구도보다 더 높은 수치로 수리가 가능합니다.				
-SKILL_20150401_003156	Repairs #{CaptionRatio}# durability over max.	내구도 #{CaptionRatio}# 초과 수리				
+SKILL_20150401_003156	Repara #{CaptionRatio}# de durabilidade além do máximo
 SKILL_20150401_003157	You're holding the enemy tied on rope. You can also hold the boss monsters.	적을 줄에 묶어 잡고 있습니다. 보스 몬스터도 잡고 있을 수 있습니다.				
 SKILL_20150401_003158	Max. duration 10 seconds	최대 지속시간 10초				
 SKILL_20150401_003159	Base Camp	베이스 캠프 설치				
 SKILL_20150401_003160	Set up a base camp in a field. Party members can use the base camp for personal storage and can freely warp to it.	필드 위에 거점을 설치합니다. 거점을 통해 파티원들은 개인 창고를 이용할 수 있으며 거점으로 자유롭게 워프할 수 있습니다.				
 SKILL_20150401_003161	Duration #{CaptionRatio}# hours	지속시간 #{CaptionRatio}#시간				
 SKILL_20150401_003162	Set up a refreshment table where you can share food with party members. It can be set up nearby a base camp and it will disbanded when the base camp is disbanded.	파티원들과 함께 음식을 먹을 수 있는 배식대를 설치합니다. 거점 주변에서만 설치 할 수 있고, 거점이 철거되면 배식대도 같이 철거됩니다.				
-SKILL_20150401_003163	Increases food effectiveness with each skill level	스킬 레벨별로 음식의 효능 증가				
+SKILL_20150401_003163	Aumenta o efeito das comidas a cada nível da habilidade
 SKILL_20150401_003164	Stick flag that boosts the combat abilities of the pirates on the ground. Kill enemies continuously for fever combo.	해적단의 전투 능력을 고양시키는 깃발을 지면에 꽂습니다. 적을 연속으로 잡으면 피버 콤보가 발동됩니다.				
 SKILL_20150401_003165	Flag Duração: 30 seconds	깃발 지속시간 30초				
 SKILL_20150401_003166	Capture enemies with a hook.	적을 갈고리로 포획합니다.				
@@ -3653,8 +3653,8 @@ SKILL_20150414_003652	Open a shop to repair weapon and temporarily increase its 
 SKILL_20150414_003653	Open a shop to repair damaged equipment. It is possible for repaired equipment to exceed its maximum durability.	손상된 장비 아이템을 수리해주는 상점을 개설합니다. 최대 내구도보다 더 튼튼하게 수리하여 더 오래 사용할 수 있습니다.				
 SKILL_20150414_003654	Bind all enemies, including boss monsters, to prevent them from moving.	보스 몬스터를 포함한 모든 적을 포박해 움직일 수 없게 만듭니다.				
 SKILL_20150414_003655	Install base camp for party members. Party members can use base camp as storage or for teleport.	필드 위에 파티원들을 위한 베이스캠프를 설치합니다. 파티원들은 캠프에서 개인 창고 및 순간 이동을 사용할 수 있습니다.				
-SKILL_20150414_003656	Duração: #{CaptionRatio}# hour(s){nl}Duration of food effects is at least 30 minutes	지속시간 #{CaptionRatio}#시간{nl}음식 효과 지속시간 30분 이상				
-SKILL_20150414_003657	Set up a refreshment table to prepare dishes that temporarily increases the abilities of your party members. A refreshment table can only placed near a base camp. If the camp is removed, the refreshment table will be removed as well.	파티원들의 능력치를 일시적으로 향상시켜주는 요리를 준비할 수 있는 배식대를 설치합니다. 배식대는 베이스 캠프 주변에만 설치할 수 있고, 캠프가 철거되면 배식대도 함께 철거됩니다.				
+SKILL_20150414_003656	Duração: #{CaptionRatio}# hora(s){nl}Efeitos de comidas duram pelo menos 30 minutos
+SKILL_20150414_003657	Monta uma mesa para preparar pratos que temporariamente aumentam as habilidades dos aliados que comerem. A mesa só pode ser colocada próximo da sua barraca. Se a barraca for removida, a mesa também será.
 SKILL_20150414_003658	Ping a flag that boosts pirates' abilities. Kill enemies repeatedly near the flag for combo attack.	해적단의 전투 능력을 고양시키는 해적기를 꽂습니다. 해적기 주변에서 연속으로 적을 처치하면 콤보가 발동됩니다.				
 SKILL_20150414_003659	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Drag and pull enemies captured with Iron Hook. The enemy will receive damage each time it is pulled.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}스킬 아이언 후크로 포획한 적을 당겨서 끌고 옵니다. 적은 끌려올 때마다 피해를 받습니다.				
 SKILL_20150414_003660	Able to use your dagger{nl}without delay after normal attacks{nl}Duração: #{CaptionTime}# segundos	기본 공격 모션 후{nl}딜레이 없이 단검 사용 가능{nl}지속시간 #{CaptionTime}#초				
@@ -3964,13 +3964,13 @@ SKILL_20150414_003963	Magic Arrow: Aprimorar	매직 애로우: 강화
 SKILL_20150414_003964	Damage of [Magic Arrow] increase per attribute level.	특성 레벨당 [매직 애로우] 대미지가 상승합니다.				
 SKILL_20150414_003965	Magic Arrow: Aprimorar 2	매직 애로우: 강화 2				
 SKILL_20150414_003966	Enhanced the damage of [Magic Arrow] to Fletcher's 3rd Circle standards.	[매직 애로우] 대미지가 플레쳐 3서클 수준으로 강화됩니다.				
-SKILL_20150414_003967	Refreshment Table: Salad	배식대: 샐러드				
+SKILL_20150414_003967	Refreshment Table: Salada
 SKILL_20150414_003968	Duration of [Install Distribution Table] Salad increase by a minute per level.	스킬 [배식대 설치]의 샐러드 유지시간이 레벨 당 1분씩 증가합니다.				
-SKILL_20150414_003969	Refreshment Table: Sandwich	배식대: 샌드위치				
+SKILL_20150414_003969	Refreshment Table: Sanduiche
 SKILL_20150414_003970	Duration of [Install Distribution Table] Sandwich increase by a minute per level.	스킬 [배식대 설치]의 샌드위치 유지시간이 레벨 당 1분씩 증가합니다.				
-SKILL_20150414_003971	Refreshment Table: Soup	배식대: 수프				
+SKILL_20150414_003971	Refreshment Table: Sopa
 SKILL_20150414_003972	Duration of [Install Distribution Table] Soupincrease by a minute per level.	스킬 [배식대 설치]의 수프 유지시간이 레벨 당 1분씩 증가합니다.				
-SKILL_20150414_003973	Refreshment Table: Yogurt	배식대: 요거트				
+SKILL_20150414_003973	Refreshment Table: Iogurte
 SKILL_20150414_003974	Duration of [Install Distribution Table] Yogurt increase by a minute per level.	스킬 [배식대 설치]의 요거트 유지시간이 레벨 당 1분씩 증가합니다.				
 SKILL_20150414_003975	High Guard: Increased Defense	하이가드: 방어력 증가				
 SKILL_20150414_003976	Defense of [High Guard] increases by 1 per attribute level.	스킬 [하이 가드] 중일 때 방어력이 특성 레벨 당 1씩 증가합니다.				
@@ -4031,7 +4031,7 @@ SKILL_20150428_004030	Attack: #{SkillAtkAdd}#{nl}Max. duration 5 seconds{nl}Cons
 SKILL_20150428_004031	Attack: +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos	공격력 #{CaptionRatio}# 증가{nl}최대 중첩 #{CaptionRatio2}#회{nl}지속시간 #{CaptionTime}#초				
 SKILL_20150428_004032	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Swing an enemy around, using centrifugal force to throw it away.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}적을 잡아 원심력을 이용해 돌려서 힘껏 내던집니다.				
 SKILL_20150428_004033	Attack: #{SkillAtkAdd}#{nl}Rotates 9 times{nl}Distance Thrown: 150	공격력 #{SkillAtkAdd}#{nl}회전 수 9 바퀴{nl}내던지는 거리 150				
-SKILL_20150428_004034	Maximum Targets: #{CaptionRatio}#{nl}Duração: 10 seconds	최대 #{CaptionRatio}#명 적용{nl}지속시간 10초				
+SKILL_20150428_004034	Máximo de alvos: #{CaptionRatio}#{nl}Duração: 10 segundos
 SKILL_20150428_004035	Pin down a pirate flag, boosting the abilities of a pirate. Defeat enemies continuously near the flag to trigger a combo. (only triggered when party leader is the Corsair)	해적단의 전투 능력을 고양시키는 해적기를 꽂습니다. 해적기 주변에서 연속으로 적을 처치하면 콤보가 발동됩니다.(파티장이 커세어일 경우에만 발동됩니다.)				
 SKILL_20150428_004036	Unlocks low-leveled treasure chests with a key.	보물상자보다 낮은 레벨의 열쇠로 보물상자를 열 수 있습니다.				
 SKILL_20150428_004037	Key Lv.: +#{CaptionRatio}#	열쇠 레벨 +#{CaptionRatio}# 증가				
@@ -7592,10 +7592,10 @@ SKILL_20170313_007591	* Penetrates 10% of an enemy's block chance per attribute 
 SKILL_20170313_007592	* Applies [Slow] with a 4 seconds duration after [Arrest] ends{nl}* Increases duration of [Slow] from Lv2 by 0.4 seconds per attribute level{nl}* Consumo de SP + 6	* 스킬 [포박]이 끝나고 4초 동안 [둔화] 디버프{nl}* 2레벨 부터 [둔화] 지속시간이 특성 레벨당 0.4초 증가{nl}* SP 소모 6증가	SKILL_20150717_004763	Applies [Slow] with a 4 seconds duration after [Arrest] ends. Increases the duration of [Slow] from Lv2 by 0.4 seconds per attribute level.	스킬 [포박]이 끝나고 4초 동안 [둔화]가 남아있으며, 2레벨 부터 [둔화] 지속시간이 특성 레벨당 0.4초 증가합니다.	
 SKILL_20170313_007593	* Increases count of [Weapon Maintenance] by 20 per attribute level	* 스킬 [무기 손질]의 횟수가 특성 레벨당 20씩 증가	SKILL_20150918_005207	Increases the count of [Weapon Maintenance] by 20 per attribute level.	스킬 [무기 손질]의 횟수가 특성 레벨당 20씩 증가합니다.	
 SKILL_20170313_007594	* Increases count of [Armor Maintenance] by 5 per attribute level	* 스킬 [방어구 손질]의 횟수가 특성 레벨당 5씩 증가	SKILL_20150918_005208	Increases the count of [Armor Maintenance] by 5 per attribute level.	스킬 [방어구 손질]의 횟수가 특성 레벨당 5씩 증가합니다.	
-SKILL_20170313_007595	* Increases duration of [Refreshment Table] Salad effects by 1 minute per attribute level	* 스킬 [배식대 설치]의 샐러드 효과의 지속시간이{nl}    특성 레벨당 1분씩 증가	SKILL_20151224_006031	Increases the duration of Salad of [Refreshment Table] by 1 minute per attribute level.	스킬 [배식대 설치]의 샐러드 효과의 지속시간이 특성 레벨당 1분씩 증가합니다.	
-SKILL_20170313_007596	* Increases duration of [Refreshment Table] Sandwich effects by 1 minute per attribute level	* 스킬 [배식대 설치]의 샌드위치 효과의 지속시간이{nl}    특성 레벨당 1분씩 증가	SKILL_20151224_006032	Increases the duration of Sandwich of [Refreshment Table] by 1 minute per attribute level.	스킬 [배식대 설치]의 샌드위치 효과의 지속시간이 특성 레벨당 1분씩 증가합니다.	
-SKILL_20170313_007597	* Increases duration of [Refreshment Table] Soup effects by 1 minute per attribute level	* 스킬 [배식대 설치]의 수프 효과의 지속시간이{nl}    특성 레벨당 1분씩 증가	SKILL_20151224_006033	Increases the duration of Soup of [Refreshment Table] by 1 minute per attribute level.	스킬 [배식대 설치]의 수프 효과의 지속시간이 특성 레벨당 1분씩 증가합니다.	
-SKILL_20170313_007598	* Increases duration of [Refreshment Table] Yogurt effects by 1 minute per attribute level	* 스킬 [배식대 설치]의 요거트 효과의 지속시간이{nl}    특성 레벨당 1분씩 증가	SKILL_20151224_006034	Increases the duration of Yogurt of [Refreshment Table] by 1 minute per attribute level.	스킬 [배식대 설치]의 요거트 효과의 지속시간이 특성 레벨당 1분씩 증가합니다.	
+SKILL_20170313_007595	* Aumenta a duração da Salada na [Refreshment Table] em 1 minuto por nível do atributo
+SKILL_20170313_007596	* Aumenta a duração do Sanduíche na [Refreshment Table] em 1 minuto por nível do atributo
+SKILL_20170313_007597	* Aumenta a duração da Sopa na [Refreshment Table] em 1 minuto por nível do atributo
+SKILL_20170313_007598	* Aumenta a duração do Iogurte na [Refreshment Table] em 1 minuto por nível do atributo
 SKILL_20170313_007599	* Decreases physical defense of enemies affected by [Arrest] by 10% per attribute level.{nl}* Cooldown time increased by 4 seconds	* 적이 [포박]에 걸려 있는 동안 물리 방어력이{nl}    특성 레벨당 10% 감소{nl}* 재사용 대기시간 4초 증가	SKILL_20150714_004375	Decreases the physical defense of an enemy affected by [Arrest] by 10% per attribute level.	적이 [포박]에 걸려 있는 동안 물리 방어력이 특성 레벨당 10% 감소합니다.	
 SKILL_20170313_007600	* When repairing equipment with [Repair], gives a 5% chance per attribute level to repair twice the original value	* [리페어]로 장비를 수리 할 때 특성 레벨당 5% 확률로{nl}    초과 수리량이 2배로 수리	SKILL_20150714_004377	When repairing equipment with [Repair], there is a 5% chance per attribute level to repair twice the original value.	[리페어]로 장비를 수리 할 때 특성 레벨당 5% 확률로 초과 수리량이 2배로 수리됩니다.	
 SKILL_20170313_007601	* Increases damage dealt with [Deadly Combo] by 1% per attribute level	* 적에게 입히는 [데들리 콤보]의 대미지가 특성 레벨당 1% 증가	SKILL_20161214_007264	Increases the damage dealt on an enemy with [Deadly Combo] by 1% per attribute level. 	적에게 입히는 [데들리 콤보]의 대미지가 특성 레벨당 1% 증가합니다.	
@@ -11788,10 +11788,10 @@ SKILL_20180629_011787	Light Kick	약한 발차기
 SKILL_20180629_011788	Normal Kick	보통 발차기				
 SKILL_20180629_011789	Hard Kick	강한 발차기				
 SKILL_20180629_011790	{#DD5500}{ol}[Strike]{/}{/}{nl}Impale a small or medium-type monster with the spear. Allows you to attack other enemies with the impaled enemy. The attack applies as critical to enemies afflicted with [Shock].	{#DD5500}{ol}[때리기]{/}{/}{nl}소형, 중형 몬스터를 창에 관통시켜 꽂고 다닙니다. 꽂힌 적을 이용하여 다른 적을 공격할 수 있습니다. 충격 디버프 상태의 적에게 무조건 치명타가 발생합니다.	SKILL_20180208_010238	{#DD5500}{ol}[Strike]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy. The attack will apply as critical attack to enemies afflicted with [Shock].{nl}{Duration will be changed to 8 seg in PvP.)	{#DD5500}{ol}[때리기]{/}{/}{nl}소형, 중형 몬스터를 창에 관통시켜 꽂고 다닙니다. 꽂힌 적을 이용하여 다른 적을 공격할 수 있습니다. 충격 디버프 상태의 적에게 무조건 치명타가 발생합니다.{nl}(PVP 서버에선 지속시간이 8초로 변경됩니다.)	
-SKILL_20180629_011791	Opens a shop to repair damaged equipment. Items can be repaired beyond their maximum durability and last longer. Shop prices increase when installed in a map with a dungeon.	손상된 장비 아이템을 수리해주는 상점을 개설합니다. 최대 내구도보다 더 튼튼하게 수리하여 더 오래 사용할 수 있습니다. 던전 지역에서 설치 시 가격이 증가합니다.				
+SKILL_20180629_011791	Abre uma loja para reparar equipamentos danificados. Itens podem ser reparados além da durabilidade máxima para durar mais tempo. Os valores da loja aumentam se aberta em um mapa com uma dungeon.
 SKILL_20180629_011792	Equipment Maintenance	장비 손질				
-SKILL_20180629_011793	Opens a shop to process weapons and armor, temporarily increasing their abilities. Armor upgrades are for top, bottom and shield items only. Shop prices increase when installed in a dungeon map.	무기와 방어구를 손질하여 장비의 능력을 일시적으로 향상시키는 상점을 개설합니다. 방어구는 상의, 하의, 방패만 가능합니다. 던전 지역에서 설치 시 가격이 증가합니다.				
-SKILL_20180629_011794	[Skill Level] + [Equip Level] * [Grade] = ATK Inc.{nl}Attack Hit Count: x #{CaptionRatio}#{nl}[Skill Level] + [Equip Level] * [Grade] = DEF Inc.{nl}Attack Receive Count: x #{CaptionRatio2}#{nl}Duração: 1 hour	[스킬레벨]+[장비의 장착 레벨]*[장비의 등급]{nl}만큼 공격력 증가{nl}공격 #{CaptionRatio}# 횟수{nl}[스킬레벨]+[장비의 장착 레벨]*[장비의 등급]만큼 방어력 증가{nl}피격 #{CaptionRatio2}# 횟수{nl}지속시간 1시간				
+SKILL_20180629_011793	Abre uma loja para processar armas e armaduras, temporariamente aumentando suas habilidades. Melhoria de armadura são para Topo, Calças e Escudos, somente. Os valores da loja aumentam se aberta em um mapa com uma dungeon.
+SKILL_20180629_011794	[Nv.Habilidade] + [Nv.Equipamento] * [Raridade] = Aumento em Ataque{nl}Cont. Ataques feitos: x #{CaptionRatio}#{nl}[Nv.Habilidade] + [Nv.Equipamento] * [Raridade] = Aumento em Defesa{nl}Cont. Ataques recebidos: x #{CaptionRatio2}#{nl}Duração: 1 hora
 SKILL_20180629_011795	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Vault into the air while swinging your spear upwards. Deals additional damage to flying enemies.	{#DD5500}{ol}[물리] - [베기]{/}{/}{nl}뛰어오른 반동을 이용해 창을 크게 휘둘러 전방의 적을 공격합니다. 공중형 적에게 대미지가 증가합니다.	SKILL_20180208_010249	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Vault into the air while swinging your spear upwards. Enemies hit with this skill are temporarily launched into the air. Deals additional damage to flying type enemies.	{#DD5500}{ol}[물리] - [베기]{/}{/}{nl}뛰어오른 반동을 이용해 창을 크게 휘둘러 전방의 적을 공격합니다. 대상은 일시적으로 공중에 떠오릅니다. 공중형 적에게 대미지가 증가합니다.	
 SKILL_20180629_011796	Muay Thai	무아이타이				
 SKILL_20180629_011797	Upon using a Nak Muay skill, the cooldown of Nak Muay skills (except Muay Thai) are each reduced by 1 second. Basic attacks do not reduce cooldown time.	낙무아이 스킬을 사용하면 무아이타이 스킬을 제외한 낙무아이 스킬의 재사용 대기시간이 1초씩 감소하는 버프를 겁니다. 기본 공격은 재사용 대기시간을 감소시키지 않습니다.				
@@ -12674,7 +12674,7 @@ SKILL_20190104_012673	Attack an enemy by throwing your shield. If the attack is 
 SKILL_20190104_012674	Switch into an active defense stance using your shield to increase your block. Requires a shield to be equipped. If the shield is unequipped, the effects are canceled.	방패를 앞세우는 적극적인 방어 스탠스로 전환하여 블록을 증가시킵니다. 방패를 착용해야 사용 가능하며, 방패 착용 해제 시 효과가 제거됩니다.	SKILL_20180517_011112	Switch into an active defense stance using your shield. Increases your block.	방패를 앞세우는 적극적인 방어 스탠스로 전환합니다. 블록이 증가합니다.	
 SKILL_20190104_012675	Block: +#{CaptionRatio}#%{nl}Duração: 30 seconds	블록 #{CaptionRatio}#% 증가{nl}지속시간 30초	SKILL_20180517_011113	Block +#{CaptionRatio}#{nl}Duration 30 seg	블록 #{CaptionRatio}# 증가{nl}지속시간 30초	
 SKILL_20190104_012676	Use your shield and sword to attack multiple times. If the attack is accurate, 50% of your shield's physical defense is added as extra physical attack and threat values apply 10 times higher.	방패와 검을 이용해 적을 연속으로 공격합니다. 공격이 적중하면 물리 공격력에 방패의 물리 방어력 50% 추가 적용되고 어그로 수치가 10배 적용됩니다.	SKILL_20180320_010395	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to attack multiple times. When the attack is accurate, adds 100% of shield's physical defense to your physical attack and applies x50 provocation.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}방패와 검을 이용해 적을 연속으로 공격합니다. 공격이 적중하면 물리 공격력에 방패의 물리 방어력 100% 추가 적용되고 도발 수치가 50배 적용됩니다.	
-SKILL_20190104_012677	Multiplicador: #{SkillFactor}#% x 3{nl}Taxa de Ataque em Área: #{SkillSR}#	스킬 계수 #{SkillFactor}#% x 3회{nl}광역 공격 비율 #{SkillSR}#				
+SKILL_20190104_012677	Multiplicador: #{SkillFactor}#% x 3{nl}Taxa de Ataque em Área: #{SkillSR}#
 SKILL_20190104_012678	Heavily strike enemies using the spikes on your shield. Enemies struck by the skill may temporarily lose the effects from their armor. If the attack is accurate, 15% of your shield's physical defense is added as extra physical attack and threat values apply 10 times higher.	양손으로 잡은 방패의 돌기로 적을 강하게 가격해 공격합니다. 적은 일시적으로 방어구들의 효과를 잃어버릴 수 있습니다. 공격이 적중하면 물리 공격력에 방패의 물리 방어력 15% 추가 적용되고 어그로 수치가 10배 적용됩니다.	SKILL_20180320_010396	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Heavily strike enemies using the spikes on your shield. Enemies struck by the skill may temporarily lose the effects from their armors. When the attack is accurate, adds 30% of shield's physical defense to your physical attack and applies x50 provocation.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}양손으로 잡은 방패의 돌기로 적을 강하게 가격해 공격합니다. 적은 일시적으로 방어구들의 효과를 잃어버릴 수 있습니다. 공격이 적중하면 물리 공격력에 방패의 물리 방어력 30% 추가 적용되고 도발 수치가 50배 적용됩니다.	
 SKILL_20190104_012679	Block and strike simultaneously by using both a sword and a shield. If the attack is accurate, threat values apply 50 times higher.	방패와 검을 동시에 찔러 적의 공격을 방어함과 동시에 공격합니다. 공격이 적중하면 어그로 수치가 50배 적용됩니다.	SKILL_20180320_010397	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Block and strike simultaneously by using both a sword and a shield. When the attack is accurate, applies x50 provocation.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}방패와 검을 동시에 찔러 적의 공격을 방어함과 동시에 공격합니다. 공격이 적중하면 도발 수치가 50배 적용됩니다.	
 SKILL_20190104_012680	Multiplicador: #{SkillFactor}#% x 4	스킬 계수 #{SkillFactor}#% x 4회	SKILL_20170420_008400	Attack #{SkillFactor}#% x 4	공격력 #{SkillFactor}#% x 4회	
@@ -13538,9 +13538,9 @@ SKILL_20190104_013537	Alvos provocados: #{CaptionRatio}#{nl}Duração: 10 segund
 SKILL_20190104_013538	Rampage	난동 부리기				
 SKILL_20190104_013539	Libera toda a sua raiva acumulada em total fúria, destruindo tudo ao redor. A raiva impede que você seja derrubado ou empurrado. Causa menos dano em inimigos afetados por [Stun], [Blind] ou [Bleed], porém aplica dois danos consecutivos. Após terminar [Rampage], um buff é aplicado que aumenta o dano que você causa e recebe. Durante este buff, você não pode evadir ataques inimigos.
 SKILL_20190104_013540	Multiplicador: #{SkillFactor}#%{nl}Efeitos contra inimigos afetados por [Stun], [Blind] ou [Bleed]:{nl}- Dano -30%{nl}- Aplica 2 danos consecutivos{nl}Duração do buff após utilizar [Rampage]: 5 segundos{nl}Dano causado com buff ativo: +50%{nl}Dano recebido com buff ativo: +50%
-SKILL_20190104_013541	Bind enemies, including boss monsters, to prevent them from moving.	보스 몬스터를 포함한 적들을 포박해 움직일 수 없게 만듭니다.				
-SKILL_20190104_013542	Install a base camp for party members. Party members can use the base camp as storage or for teleportation.	필드 위에 파티원들을 위한 베이스캠프를 설치합니다. 파티원들은 캠프에서 개인 창고를 이용할 수 있고, 캠프로 순간 이동할 수 있습니다.				
-SKILL_20190104_013543	Slashes multiple times in front of you.	전방을 향해 무차별 연속베기를 합니다.				
+SKILL_20190104_013541	Prende inimigos, inclundo monstros Chefes, evitando que se movam.
+SKILL_20190104_013542	Arma um acampamento para os membros do grupo. Os membros pode usar o acampamento como depósito ou para teleporte.
+SKILL_20190104_013543	Ataca múltiplas vezes à sua frente.
 SKILL_20190104_013544	Place a flag that raises the combat abilities of the pirate crew. A combo is activated if multiple enemies are defeated near the Jolly Roger. Achieving a combo of 100 activates a fever buff that grants additional damage to physical attacks.	해적단의 전투 능력을 고양시키는 해적기를 꽂습니다. 해적기 주변에서 연속으로 적을 타격하면 콤보가 발동됩니다. 콤보를 100회 달성하면 물리 공격의 대미지가 증가하는 피버 버프가 발동됩니다. 콤보는 해적기를 꽂은 뒤 한번만 발동되고, 파티에 속해 있어야 합니다.				
 SKILL_20190104_013545	Flag Duração: 30 seconds{nl}Physical Attack Damage: +#{CaptionRatio}#%{nl}Fever Duração: 10 seconds	깃발 지속시간 30초{nl}물리 공격 대미지 #{CaptionRatio}#% 증가{nl}피버 지속시간 10초				
 SKILL_20190104_013546	Drag and pull enemies captured with Iron Hook. The enemy receives damage each time they are pulled. Dragged enemies receive increased Pierce damage from the caster.	스킬 아이언 후크로 포획한 적을 당겨서 끌고 옵니다. 적은 끌려오며 피해를 받습니다. 끌려온 적은 시전자에게 받는 찌르기 대미지가 증가합니다.				
@@ -13945,7 +13945,7 @@ SKILL_20190104_013944	* Increases the skill factor of [Rush] by 0.5% per attribu
 SKILL_20190104_013945	* Changes the property of [Earth Wave] to Earth property{nl}* Consumo de SP + 10%	* 스킬 [어스 웨이브]의 속성을 땅 속성으로 변경{nl}* SP 소모 10%증가	SKILL_20180320_010634	* Changes the property of [Earth Wave] to Earth property{nl}* Consumo de SP + 10%	* 스킬 [어스웨이브]의 속성을 땅 속성으로 변경{nl}* SP 소모 10%증가	
 SKILL_20190104_013946	Acrobatic Mount: Aprimorar	아크로바틱 마운트: 강화				
 SKILL_20190104_013947	* Increases [Acrobatic Mount]'s mounted skill damage increasing effects by 0.5% per attribute level	* [아크로바틱 마운트]의 탑승 전용 스킬 대미지 증가 효과가 특성 레벨당 0.5% 증가				
-SKILL_20190104_013948	* Increases the skill factor of [Deadly Combo] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [데들리 콤보]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010635	* Increases the damage dealt on an enemy with [Deadly Combo] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [데들리 콤보]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
+SKILL_20190104_013948	* Aumenta o Multiplicador de [Deadly Combo] em 0.5% por nível do atributo{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_013949	* Increases the skill factor of [Keel Hauling] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [킬홀링]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180517_011452	* Increases the damage dealt on an enemy with [Keel Hauling] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [킬홀링]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_013950	* Increases the skill factor of [Dust Devil] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [더스트 데블]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010637	* Increases the damage dealt on an enemy with [Dust Devil] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [더스트 데블]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_013951	* Increases the skill factor of [Hexen Dropper] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [헥슨 드롭퍼]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180517_011457	* Increases the damage dealt on an enemy with [Hexen Dropper] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [헥슨 드롭퍼]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
