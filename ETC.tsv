@@ -3852,8 +3852,8 @@ ETC_20150317_003851	when quest (complete standby-> complete)
 ETC_20150317_003852	in QuestProgressCheck XML
 ETC_20150317_003853	ClassName is missing.
 ETC_20150317_003854	in SessionObject XML
-ETC_20150317_003855	 - Repeatable ({Auto_1}/{Auto_2})
-ETC_20150317_003856	 - Repeatable ({Auto_1}/infinite)
+ETC_20150317_003855	 - Repetível ({Auto_1}/{Auto_2})
+ETC_20150317_003856	 - Repetível ({Auto_1}/infinite)
 ETC_20150317_003857	Check how many quests are in progress. You can have up to 10 at once.
 ETC_20150317_003858	There is no quest information. Please try again.
 ETC_20150317_003859	Cannot give up auto start quest
@@ -13953,7 +13953,7 @@ ETC_20150729_013954	The one with the shortest English name
 ETC_20150729_013955	Por favor coloque uma carta na mesa. 
 ETC_20150729_013956	There is no opponent.
 ETC_20150729_013957	You have not yet reached the required level to start this main quest.
-ETC_20150729_013958	{@st41}Random Reward{/}
+ETC_20150729_013958	{@st41}Recompensa Aleatória{/}
 ETC_20150729_013959	Stunned Wendigo Searcher
 ETC_20150729_013960	You've shot the Wendigo Searcher with the paralyzing needle!{nl}Collect its hair within 10 segundos!
 ETC_20150729_013961	The Wendigo Searcher disappeared!
@@ -20234,7 +20234,7 @@ ETC_20160224_020228	Party Quest (2)
 ETC_20160224_020229	Trustworthy Ally
 ETC_20160224_020230	Progress in a party quest 300 times
 ETC_20160224_020231	Party Quest (3)
-ETC_20160224_020232	Daily Quest Count
+ETC_20160224_020232	Contagem Missão Diária
 ETC_20160224_020233	First Alphabet Event
 ETC_20160224_020234	Sicarius Gimmick
 ETC_20160224_020235	Legwyn Gimmick
