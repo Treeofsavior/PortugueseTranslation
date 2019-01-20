@@ -9774,7 +9774,7 @@ SKILL_20171128_009773	Attack: #{SkillFactor}#%{nl}Backward Movement Distance: #{
 SKILL_20171128_009774	Down Fall	다운 폴				
 SKILL_20171128_009775	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fire several arrows into the air to rain down on a single designated enemy. You will stop inflicting damage if you and the enemy are too far from each other.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}여러발의 화살을 공중을 향해 발사하여 지정된 단일 적에게 화살 공격을 퍼붓습니다. 자신과 적이 일정 거리 이상 멀어지게되면 공격받지 않습니다.				
 SKILL_20171128_009776	Silver Bullet	실버불릿				
-SKILL_20171128_009777	All attacks using a pistol are augmented, changing them to the Holy attribute.	권총을 사용하는 모든 공격이 신성 속성으로 변경되는 버프를 자신에게 부여합니다.				
+SKILL_20171128_009777	Todos os ataques usando Pistola são aumentados, alterando-os para o elemento Divino.
 SKILL_20171128_009778	Duração: #{CaptionTime}# segundos{nl}Able to use while riding	지속시간 #{CaptionTime}#초{nl}탑승 상태에서 사용 가능				
 SKILL_20171128_009779	Tase	테이즈				
 SKILL_20171128_009780	{#DD5500}{ol}[Missile: Gun] - [Lightning]{/}{/}{nl}Fire an electric bullet into the enemy's body, causing the target to take additional Lightning property damage when damaged.	{#DD5500}{ol}[미사일:총] - [전기]{/}{/}{nl}전기가 통하는 탄을 적의 몸에 박아 넣어 대상이 대미지를 입을 때마다 전기 속성 추가 대미지를 입습니다.				
@@ -9795,7 +9795,7 @@ SKILL_20171128_009794	Smash Bullet	파쇄탄
 SKILL_20171128_009795	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Fire a shattering shot that is crushed into a single enemy. The attacked enemy is constantly damaged.	{#DD5500}{ol}[미사일:총]{/}{/}{nl}단일 적에게 부숴지는 파쇄탄을 발사합니다. 공격받은 적은 지속적인 피해를 입습니다.				
 SKILL_20171128_009796	Attack: #{SkillFactor}#%{nl}Duração: 15 seconds{nl}Able to use while riding	공격력 #{SkillFactor}#%{nl}지속시간 15초{nl}탑승 상태에서 사용 가능				
 SKILL_20171128_009797	Tracer Bullet	예광탄				
-SKILL_20171128_009798	Gain a buff that increases your accuracy.	자신의 명중을 증가시키는 버프를 부여합니다.				
+SKILL_20171128_009798	Garante um buff que aumenta a sua Precisão.
 SKILL_20171128_009799	Accuracy: +#{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos{nl}Able to use while riding	명중 #{CaptionRatio}#증가{nl}지속시간 #{CaptionTime}#초{nl}탑승 상태에서 사용 가능				
 SKILL_20171128_009800	Mozambique Drill	모잠비크 드릴				
 SKILL_20171128_009801	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Fire 4 shots to a single target with a pistol in both hands.	{#DD5500}{ol}[미사일:총]{/}{/}{nl}단일 대상을 양손의 권총으로 4발 사격합니다.				
@@ -10104,13 +10104,13 @@ SKILL_20171128_010103	Mozambique Drill: Aprimorar	모잠비크 드릴: 강화
 SKILL_20171128_010104	* Increases damage dealt with [Mozambique Drill] by 0.5% per attribute level	* 적에게 입히는 [모잠비크 드릴]의 대미지가 특성 레벨당 0.5% 증가				
 SKILL_20171128_010105	Smash Bullet: Aprimorar	파쇄탄: 강화				
 SKILL_20171128_010106	* Increases damage with [Smash Bullet] by 0.5% per attribute level	* 적에게 입히는 [파쇄탄]의 대미지가 특성 레벨당 0.5% 증가				
-SKILL_20171128_010107	Tase: Extra Magazine	테이즈: 추가 탄창				
-SKILL_20171128_010108	* Increases continuous count of [Tase] by 1 per attribute level{nl} Consumo de SP + 20% 	* 스킬 [테이즈]의 지속 횟수가 특성 레벨당 1 증가{nl}* SP 소모 20%증가				
-SKILL_20171128_010109	Bloody Overdrive: Ricochet	블러디 오버드라이브: 도탄				
-SKILL_20171128_010110	* Enemies hit by [Bloody Overdrive] have a 5% chance per attribute level of being affected by ricochet{nl}* Consumo de SP + 50%	* 스킬 [블러디 오버드라이브]에 피격된 적이 특성 레벨당 5%{nl}    확률로 도탄 발생{nl}* SP 소모 50%증가				
-SKILL_20171128_010111	Mozambique Drill: Ignore Defense	모잠비크 드릴: 방어 무시				
-SKILL_20171128_010112	* Ignores enemy defense by 10% per attribute level when using [Mozambique Drill]{nl}* Consumo de SP + 30%	* 스킬 [모잠비크 드릴]이 적의 방어력을 특성 레벨당 10% 무시{nl}* SP 소모 30%증가				
-SKILL_20171128_010113	Mozambique Drill: Ricochet	모잠비크 드릴: 도탄				
+SKILL_20171128_010107	Tase: Cartucho Extra
+SKILL_20171128_010108	* Aumenta o contador contínuo de [Tase] em 1 por nível do atributo{nl} Consumo de SP + 20%
+SKILL_20171128_010109	Bloody Overdrive: Ricochete	
+SKILL_20171128_010110	* Inimigos acertados por [Bloody Overdrive] recebem 5% de chance, por nível do atributo, de serem afetados por um ricochete{nl}* Consumo de SP + 50%
+SKILL_20171128_010111	Mozambique Drill: Ignorar Defesa
+SKILL_20171128_010112	* Ignora 10% da Defesa do inimigo, por nível do atributo, ao utilizar [Mozambique Drill]{nl}* Consumo de SP + 30%
+SKILL_20171128_010113	Mozambique Drill: Ricochete		
 SKILL_20171128_010114	* Creates a ricochet effect on enemies attacked with [Mozambique Drill]{nl}* Consumo de SP + 50%	* 스킬 [모잠비크 드릴]에 피격된 적으로부터 도탄 발생{nl}* SP 소모 50%증가				
 SKILL_20171128_010115	* Increases the duration of [Daino]'s effect by 4 seconds per attribute level{nl}* Consumo de SP + 20%	* 스킬 [다이노]의 효과 지속시간이 특성 레벨당 4초 증가{nl}* SP 소모 20%증가	SKILL_20170420_009207	* Increases the duration of [Daino]'s effect by 40 seconds per attribute level{nl}* Consumo de SP + 20%	* 스킬 [다이노]의 효과 지속시간이 특성 레벨당 40초 증가{nl}* SP 소모 20%증가	
 SKILL_20171128_010116	* Aumenta a duração de [Divine Stigma] em 6 segundos por nível do atributo.{nl} Consumo de SP + 20%
@@ -12173,7 +12173,7 @@ SKILL_20180827_012172	Zenith	제니쓰
 SKILL_20180827_012173	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Shoot a stream of arrows in a circle all around to attack enemies within range. Enemies closer to you receive more hits.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}자신을 중심으로 원형 범위의 적에게 관통되는 화살을 발사합니다. 가까운 적에게 더 많은 연타를 가합니다.				
 SKILL_20180827_012174	Attack: #{SkillFactor}#% x 10 max.	공격력 #{SkillFactor}#% x 최대 10회				
 SKILL_20180827_012175	Freeze Bullet	프리즈 불릿				
-SKILL_20180827_012176	Applies a buff to the caster the grants a chance of freezing targets with basic pistol attacks.	권총을 사용하는 기본 공격이 일정 확률로 적을 얼리는 버프를 자신에게 부여합니다.				
+SKILL_20180827_012176	Aplica um buff em você, garantindo a chance de aplicar [Freeze] nos alvos através de ataques básicos com Pistola.
 SKILL_20180827_012177	Freeze Chance: 15%{nl}Duração: #{CaptionTime}# seg{nl}Can be used while mounted	빙결 확률 15%{nl}지속시간 #{CaptionTime}#초{nl}탑승 상태에서 사용 가능				
 SKILL_20180827_012178	Outrage	아웃레이지				
 SKILL_20180827_012179	{#DD5500}{ol}[Missile: Gun]{/}{/}{nl}Fire your guns while moving. Basic attacks deal 2 consecutive hits, with their damage and attack speed increased. Additional damage is calculated for [Double Gun Stance] basic attacks, but the additional damage and hits of [Running Shot] do not apply. You can only use basic attacks while this skill is active.	{#DD5500}{ol}[미사일:총]{/}{/}{nl}이동하며 타겟된 적과 주변 적을 향해 난사합니다. 기본 공격이 2연타로 적용되고 대미지와 공격 속도가 증가합니다. [더블 건 스탠스]의 기본 공격 공격력에 추가 공격력이 합산 되며, [런닝 샷]의 추가 공격력과 연타는 적용되지 않습니다. 스킬 사용 중에는 기본 공격만 사용 할 수 있습니다.				
@@ -12438,17 +12438,17 @@ SKILL_20180827_012437	Down Fall: Broaden	다운 폴: 광역화
 SKILL_20180827_012438	* Deals 50% of the damage of [Down Fall] to enemies within a range of 30 from the skill's original target{nl}* Consumo de SP + 50%	* 스킬 [다운폴]의 피해 대상 기준 30 범위 내 적에게 [다운 폴]의 50% 대미지 피해{nl}* SP 소모 50%증가				
 SKILL_20180827_012439	Zenith: Aprimorar	제니쓰: 강화				
 SKILL_20180827_012440	* Increases the damage dealt on an enemy with [Zenith] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [제니쓰]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20180827_012441	* Enemies hit by [Bloody Overdrive] have a 5% chance per attribute level of being affected by ricochet{nl}* Consumo de SP + 30%	* 스킬 [블러디 오버드라이브]에 피격된 적이 특성 레벨당 5%{nl}    확률로 도탄 발생{nl}* SP 소모 30%증가	SKILL_20171128_010110	* Enemies hit by [Bloody Overdrive] have a 5% chance per attribute level of being affected by ricochet{nl}* Consumo de SP + 50%	* 스킬 [블러디 오버드라이브]에 피격된 적이 특성 레벨당 5%{nl}    확률로 도탄 발생{nl}* SP 소모 50%증가	
-SKILL_20180827_012442	* Creates a ricochet effect on enemies attacked with [Mozambique Drill]{nl}* Consumo de SP + 30%	* 스킬 [모잠비크 드릴]에 피격된 적으로부터 도탄 발생{nl}* SP 소모 30%증가	SKILL_20171128_010114	* Creates a ricochet effect on enemies attacked with [Mozambique Drill]{nl}* Consumo de SP + 50%	* 스킬 [모잠비크 드릴]에 피격된 적으로부터 도탄 발생{nl}* SP 소모 50%증가	
-SKILL_20180827_012443	Outrage: Aprimorar	아웃레이지: 강화				
+SKILL_20180827_012441	* Inimigos afetados por [Bloody Overdrive] recebem 5% de chance, por nível do atributo, de serem afetados por ricochete.{nl}* Consumo de SP + 30%
+SKILL_20180827_012442	* Causa um ricochete em inimigos afetados por [Mozambique Drill]{nl}* Consumo de SP + 30%
+SKILL_20180827_012443	Outrage: Aprimorar
 SKILL_20180827_012444	* Increases the damage dealt on an enemy with [Outrage] by 0.5% per attribute level{nl}* +10% added damage at maximum level{nl}* Applies only to the basic added attack values of [Outrage]	* 적에게 입히는 [아웃레이지]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가 {nl}* [아웃레이지]의 기본 공격 추가 공격력만 증가				
-SKILL_20180827_012445	Bloody Overdrive: Invincible	블러디 오버드라이브: 무적				
-SKILL_20180827_012446	* Grants invincibility while [Bloody Overdrive] is active{nl}* Consumo de SP + 30%	* 스킬 [블러디 오버드라이브] 사용 중 무적{nl}* SP 소모 30%증가				
+SKILL_20180827_012445	Bloody Overdrive: Invencível
+SKILL_20180827_012446	* Garante invencibilidade enquanto estiver usando [Bloody Overdrive]{nl}* Consumo de SP + 30%
 SKILL_20180827_012447	R.I.P.: AoE	R.I.P.: 광역				
 SKILL_20180827_012448	* Increases the AoE attack ratio of [R.I.P.] by 5{nl}* Consumo de SP + 20%	* 스킬 [R.I.P.]의 광역 공격 비율이 5 증가{nl}* SP 소모 20%증가				
-SKILL_20180827_012449	Tracer Bullet: Precision Shot	예광탄: 정확한 사격				
+SKILL_20180827_012449	Tracer Bullet: Tiro Preciso
 SKILL_20180827_012450	* Increases the critical chance of pistol skills (excluding basic attacks) by 3% per attribute level while [Tracer Bullet] is active{nl}* Consumo de SP + 30%	* [예광탄] 버프중 기본 공격을 제외한 권총 스킬 사용 시 치명타가 발생할 확률이 특성 레벨당 3% 증가{nl}* SP 소모 30%증가				
-SKILL_20180827_012451	Smash Bullet: Reduce Block	파쇄탄: 블록 감소				
+SKILL_20180827_012451	Smash Bullet: Bloqueio Reduzido
 SKILL_20180827_012452	* Reduces the block of enemies hit by [Smash Bullet] by 100 per attribute level{nl}* Consumo de SP + 30%	* [파쇄탄]에 피격된 적은 블록이 특성 레벨당 100 감소{nl}* SP 소모 30%증가				
 SKILL_20180827_012453	Hypnotische Floete: Elite	힙노티쉐 플뢰테: 엘리트	SKILL_20180629_012025	Hypnotische Floete: Large Size	힙노티쉐 플뢰테: 대형	
 SKILL_20180827_012454	* Applies [Hypnotische Floete] to Elite monsters as well{nl}* Consumo de SP + 30%	* [힙노티쉐 플뢰테]가 엘리트 몬스터도 적용{nl}* SP 소모 30%증가	SKILL_20180629_012026	* Allows [Hypnotische Floete] to apply to Large-sized and Elite monsters as well{nl}* Applies to all Large monsters starting from Lv 1{nl}* Applies to 1 Elite monster per attribute level{nl}* Consumo de SP + 30%	* [힙노티쉐 플뢰테]가 대형, 엘리트 몬스터도 적용{nl}* 대형은 특성 1레벨부터 무조건 적용{nl}* 엘리트 몬스터는 특성 레벨당 1마리씩 적용{nl}* SP 소모 30%증가	
@@ -12591,7 +12591,7 @@ SKILL_20181017_012590	You are beginning to feel festive.	즐거운 기운이 몸
 SKILL_20181017_012591	* Increases damage dealt by demons summoned through [Summoning] by 3% per attribute level but reduces the demon's HP by 3% every 10 seconds.{nl}* Reduces the caster's SP by 1502 every 10 seconds.	* [서모닝]으로 소환한 악마의 대미지가 3% 증가하는 대신, 악마의 HP가 10초마다 3%씩 감소합니다.{nl}* 시전자의 SP가 10초마다 1502씩 소모됩니다.				
 SKILL_20181017_012592	Bazooka: Steady Fire	바주카: 고정 포격				
 SKILL_20181017_012593	* Adds 50% additional damage for Cannoneer skills used during [Bazooka] status{nl}* Increases skill cooldown time by 20 seconds.	* [바주카] 상태에서 사용하는 캐노니어 스킬 추가 대미지 50%{nl}* 재사용 대기시간 20초 증가				
-SKILL_20181017_012594	* Increases the critical rate by 3% per level{nl}    while using pistol skills under [Tracer Bullet] buff{nl}* Consumo de SP + 30%	* [예광탄] 버프중 기본 공격을 제외한 권총 스킬 사용 시{nl}    치명타가 발생할 확률이 특성 레벨당 3% 증가{nl}* SP 소모 30%증가	SKILL_20180827_012450	* Increases the critical chance of pistol skills (excluding basic attacks) by 3% per attribute level while [Tracer Bullet] is active{nl}* Consumo de SP + 30%	* [예광탄] 버프중 기본 공격을 제외한 권총 스킬 사용 시 치명타가 발생할 확률이 특성 레벨당 3% 증가{nl}* SP 소모 30%증가	
+SKILL_20181017_012594	* Aumenta a Taxa de Crítico em 3% por nível do atributo enquanto utilizar uma Pistola e estiver sob o efeito de [Tracer Bullet].{nl}* Consumo de SP + 30%
 SKILL_20181017_012595	* Decreases the damage received from missile or force attacks{nl}    while inside [Barrier] by 10% per attribute level{nl}* Consumo de SP + 20%	* [배리어] 안에 있을 경우 미사일, 포스 공격의 대미지가{nl}    특성 레벨당 10%씩 감소{nl}* SP 소모 20%증가	SKILL_20170420_009259	* While inside [Barrier], damage received from missile or force attacks decreases by 10% per attribute level{nl}* Consumo de SP + 20%	* [배리어] 안에 있을 경우 미사일, 포스 공격의 대미지가{nl}    특성 레벨당 10%씩 감소{nl}* SP 소모 10증가{nl}* SP 소모 20%증가	
 SKILL_20181017_012596	* Causa 20% de chance de acender uma chama onde um inimigo foi derrotado.{nl}* Esta chama causa dano em até 5 oponentes.{nl}* Máximo de 3 chamas acesas
 SKILL_20181017_012597	Requires Cannoneer Circle 2	캐노니어 2 서클 필요				
@@ -13608,23 +13608,23 @@ SKILL_20190104_013607	Dispara repetidamente na direção contrária do seu movim
 SKILL_20190104_013608	Multiplicador: #{SkillFactor}#% a cada 0.3 segundos x Nr. de golpes{nl}Alvos: 15{nl}Duração: 10 segundos
 SKILL_20190104_013609	Avança atirando, atacando os inimigos na sua frente. Causa 30% de dano adicional em inimigos afetados por [Blind].{nl}(Não ativa troca automática de arma)
 SKILL_20190104_013610	Multiplicador: #{SkillFactor}#% a cada 0.2 segundos{nl}Alvos: 15{nl}Duração: 5 segundos
-SKILL_20190104_013611	Fire an electric bullet into the enemy's body, causing the target to take additional Lightning-property damage when attacked.{nl}{#00113F}Taze lasts longer when an enemy affected by it is attacked with Electric Shock.{/}	전기가 통하는 탄을 적의 몸에 박아 넣어 대상이 대미지를 입을 때마다 전기 속성 추가 대미지를 입습니다.{nl}{#00113F}테이즈에 걸린 적에게 일렉트릭 쇼크 사용 시 테이즈의 지속 횟수가 증가합니다.{/}				
-SKILL_20190104_013612	Multiplicador: #{SkillFactor}#%{nl}Duração: #{CaptionTime}# segundos{nl}Duração: #{CaptionRatio}# hits	스킬 계수 #{SkillFactor}#%{nl}지속시간 #{CaptionTime}#초{nl}지속 횟수 #{CaptionRatio}#회				
-SKILL_20190104_013613	Create an explosion to inflict Fire damage on enemies in front of you.{nl}{#00113F}Lachrymator disappears and triggers a damaging explosion when Napalm Bullet is used on an enemy within its range.{/}	폭발하며 전방의 적에게 불 속성 피해를 줍니다.{nl}{#00113F}최루 범위 안의 적에게 소이탄 사용 시 최루는 사라지며 폭발 대미지를 줍니다.{/}				
-SKILL_20190104_013614	Fire a powerful bullet that ignores half of an enemy's defenses.	적의 방어력을 절반 무시하는 강력한 총알 한 발을 날립니다.				
-SKILL_20190104_013615	Take the weapon in your right hand and place it in your left, assuming a stance. Your basic attack changes and you become able to use Bullet Marker skills.{nl}(Does not allow for automatic weapon swap.)	왼손에 든 무기를 집어넣고 오른손에 든 무기를 양손에 드는 스탠스로 전환합니다. 불릿마커 스킬을 사용할 수 있고, 기본공격이 변경됩니다.{nl}(자동 무기 스왑이 불가능합니다.)				
-SKILL_20190104_013616	Basic Attack Damage: #{SkillFactor}#%{nl}Basic attack changed{nl}Maximum Level: 5 	기본 공격 공격력 #{SkillFactor}#%{nl}기본 공격이 변경됨{nl}5레벨 마스터				
-SKILL_20190104_013617	Attack enemies in front of you using a series of attacks with pistols in both hands.	양손에 든 권총으로 전방의 적에게 연속 공격을 가합니다.				
-SKILL_20190104_013618	Multiplicador: #{SkillFactor}#% x 7{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Can be used after activating Double Gun Stance	스킬 계수 #{SkillFactor}#% x 7회{nl}광역 공격 비율 #{SkillSR}#{nl}더블 건 스탠스 전환 후 사용 가능				
-SKILL_20190104_013619	Attack enemies around you by firing pistols in both hands. Your character cannot be knocked back or knocked down while the skill is in use.	양손에 든 권총을 난사하여 자신 주변의 적을 공격합니다. 사용 중 밀리거나 넘어지지 않습니다.				
-SKILL_20190104_013620	Multiplicador: #{SkillFactor}#% x 20{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Can be used after activating Double Gun Stance	스킬 계수 #{SkillFactor}#% x 20회{nl}광역 공격 비율 #{SkillSR}#{nl}더블 건 스탠스 전환 후 사용 가능				
-SKILL_20190104_013621	Fire a shattering shot at a single enemy. The damage of Smash Bullet is based on the caster's subweapon physical attack, and it gradually diminishes as the target remains under attack. Smash Bullet damage ignores properties and defense.	단일 적에게 몸 속에서 폭발하는 파쇄탄을 발사합니다. 파쇄탄의 피해량은 시전자의 보조 물리 공격력을 기반으로 하며, 시간이 지날수록 피해량이 점차 감소합니다. 파쇄탄의 피해는 속성과 방어력을 무시합니다.				
-SKILL_20190104_013622	Multiplicador: #{SkillFactor}#%{nl}Duração: 15 seconds	스킬 계수 #{SkillFactor}#%{nl}지속시간 15초				
-SKILL_20190104_013623	Fire 4 shots at a single target with pistols in both hands.	단일 대상을 양손의 권총으로 4발 사격합니다.				
-SKILL_20190104_013624	Multiplicador: #{SkillFactor}#% x 4{nl}Can be used after activating Double Gun Stance	스킬 계수 #{SkillFactor}#% x 4회{nl}더블 건 스탠스 전환 후 사용 가능				
-SKILL_20190104_013625	Freeze Chance: #{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos	빙결 확률 #{CaptionRatio}#%{nl}지속시간 #{CaptionTime}#초				
-SKILL_20190104_013626	Fire your guns while moving. Basic attacks deal 2 consecutive hits, with their damage and attack speed increased. Additional damage is calculated for [Double Gun Stance] basic attacks. You can only use basic attacks while this skill is active.	이동하며 타겟된 적과 주변 적을 향해 난사합니다. 기본 공격이 2연타로 적용되고 대미지와 공격 속도가 증가합니다. [더블 건 스탠스]의 기본 공격 공격력에 추가 공격력이 합산됩니다. 스킬 사용 중에는 기본 공격만 사용 할 수 있습니다.				
-SKILL_20190104_013627	Basic Attack Additional Multiplicador: #{SkillFactor}#%{nl}Duração: 10 seconds{nl}Maximum 5 nearby enemies{nl}Can be used after activating Double Gun Stance	기본 공격 추가 스킬 계수 #{SkillFactor}#%{nl}지속시간 10초{nl}주변 적 최대 5명{nl}더블 건 스탠스 전환 후 사용 가능				
+SKILL_20190104_013611	Dispara uma bala elétrica contra o corpo do inimigo, fazendo com que ele receba dano adicional do elemento Raio quando acertado.{nl}{#00113F}[Taze] irá durar mais tempo quando um inimigo afetado por esta habilidade for atacado com [Electric Shock].{/}
+SKILL_20190104_013612	Multiplicador: #{SkillFactor}#%{nl}Duração: #{CaptionTime}# segundos{nl}Duração: #{CaptionRatio}# ataques
+SKILL_20190104_013613	Cria uma explosão que causa dano do elemento Fogo nos inimigos em sua frente.{nl}{#00113F}[Lachrymator] desaparecerá e causará um dano explosivo quando [Napalm Bullet] for usado em um inimigo dentro da sua área.{/}
+SKILL_20190104_013614	Dispara uma bala poderosa, ignorando metade da defesa do inimigo.
+SKILL_20190104_013615	Pega a arma na sua mão direita e coloca na sua esquerda, assumindo uma instância. Seus ataques básicos mudam e habilita o uso das habilidades de Bullet Marker.{nl}(Não ativa troca automática de armas)
+SKILL_20190104_013616	Dano de ataque básico: #{SkillFactor}#%{nl}Ataque Básico alterado{nl}Nível Máximo: 5
+SKILL_20190104_013617	Ataca os inimigos na sua frente, usando uma série de ataques com Pistolas em ambas as mãos.
+SKILL_20190104_013618	Multiplicador: #{SkillFactor}#% x 7{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Requer [Double Gun Stance]
+SKILL_20190104_013619	Ataca inimigos ao redor, descarregando Pistolas em ambas as mãos. Você não pode ser empurrado ou derrubado durante a execução da habilidade.
+SKILL_20190104_013620	Multiplicador: #{SkillFactor}#% x 20{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Requer [Double Gun Stance]
+SKILL_20190104_013621	Dispara uma bala estilhaçada em um único alvo. O dano de [Smash Bullet] baseia-se no seu Atq. Físico Secundário, sendo reduzido gradualmente enquanto o alvo está sob ataque. [Smash Bullet] ignora propriedades e defesa.
+SKILL_20190104_013622	Multiplicador: #{SkillFactor}#%{nl}Duração: 15 segundos
+SKILL_20190104_013623	Dispara 4 tiros em um alvo único, utilizando Pistolas em ambas as mãos.
+SKILL_20190104_013624	Multiplicador: #{SkillFactor}#% x 4{nl}Requer [Double Gun Stance]
+SKILL_20190104_013625	Chance de [Freeze]: #{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos
+SKILL_20190104_013626	Descarrega suas Pistolas enquanto se move. Ataques básicos causam 2 danos consecutivos, com dano e Velocidade de Ataque aumentados. Dano adicional é calculado para ataques básicos de [Double Gun Stance]. Você só poderá utilizar ataques básicos enquanto esta habilidade estiver ativa.
+SKILL_20190104_013627	Additional Multiplicador: #{SkillFactor}#%{nl}Duração: 10 segundos{nl}Máximo de 5 inimigos próximos{nl}Requer [Double Gun Stance]
 SKILL_20190104_013628	Physical Damage Increase	물리 대미지 증가				
 SKILL_20190104_013629	Threat	위협				
 SKILL_20190104_013630	Threat values increased.	위협도 증가 상태.	SKILL_20150414_003906	Increased maximum provocation.	최대 도발 수치 증가상태.	
@@ -14311,14 +14311,14 @@ SKILL_20190104_014310	Devaluation: Aprimorar	평가절하: 강화	SKILL_20170313
 SKILL_20190104_014311	* Increases [Devaluation]'s physical and magic attack and defense reducing effects by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [평가절하]의 물리, 마법 공격력과 방어력 감소 효과가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010893	* Increases the damage dealt on an enemy with [Blindside] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [약점공격]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014312	Insurance: Aprimorar	보험증서: 강화				
 SKILL_20190104_014313	* Increases [Insurance]'s durability penalty decreasing effects by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [보험증서]의 장비 내구도 페널티 감소 효과가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014314	* Increases the skill factor of [Napalm Bullet] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [소이탄]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010894	* Increases the damage dealt on an enemy with [Napalm Bullet] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [소이탄]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014315	* Increases the skill factor of [Full Metal Jacket] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [풀 메탈 자켓]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010895	* Increases the damage dealt on an enemy with [Full Metal Jacket] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [풀 메탈 자켓]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014316	* Increases the skill factor of [R.I.P.] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [R.I.P.]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010896	* Increases the damage dealt on an enemy with [R.I.P.] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [R.I.P.]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014317	* Increases the skill factor of [Bloody Overdrive] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [블러디 오버드라이브]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010897	* Increases the damage dealt on an enemy with [Bloody Overdrive] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [블러디 오버드라이브]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014318	* Increases the skill factor of [Mozambique Drill] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [모잠비크 드릴]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010898	* Increases the damage dealt on an enemy with [Mozambique Drill] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [모잠비크 드릴]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014319	* Increases the skill factor of [Smash Bullet] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [파쇄탄]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010899	* Increases the damage dealt on an enemy with [Smash Bullet] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [파쇄탄]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014320	* Increases the skill factor of [Outrage] by 0.5% per attribute level{nl}* +10% added damage at maximum level{nl}* Applies only to the basic added attack values of [Outrage]	* [아웃레이지]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가 {nl}* [아웃레이지]의 기본 공격 추가 공격력만 증가	SKILL_20180827_012444	* Increases the damage dealt on an enemy with [Outrage] by 0.5% per attribute level{nl}* +10% added damage at maximum level{nl}* Applies only to the basic added attack values of [Outrage]	* 적에게 입히는 [아웃레이지]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가 {nl}* [아웃레이지]의 기본 공격 추가 공격력만 증가	
-SKILL_20190104_014321	* Reduces the block of enemies hit by [Smash Bullet] by 5% per attribute level{nl}* Consumo de SP + 30%	* [파쇄탄]에 피격된 적은 블록이 특성 레벨당 5% 감소{nl}* SP 소모 30%증가	SKILL_20180827_012452	* Reduces the block of enemies hit by [Smash Bullet] by 100 per attribute level{nl}* Consumo de SP + 30%	* [파쇄탄]에 피격된 적은 블록이 특성 레벨당 100 감소{nl}* SP 소모 30%증가	
+SKILL_20190104_014314	* Aumenta o Multiplicador de [Napalm Bullet] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014315	* Aumenta o Multiplicador de [Full Metal Jacket] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014316	* Aumenta o Multiplicador de [R.I.P.] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014317	* Aumenta o Multiplicador de [Bloody Overdrive] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014318	* Aumenta o Multiplicador de [Mozambique Drill] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014319	* Aumenta o Multiplicador de [Smash Bullet] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014320	* Aumenta o Multiplicador de [Outrage] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo{nl}* Aplica somente aos valores de [Outrage]
+SKILL_20190104_014321	* Reduz o Bloqueio dos inimigos afetados por [Smash Bullet] em 0.5% por nível do atributo.{nl}* Consumo de SP + 30%
 SKILL_20190104_014322	* Increases the skill factor of [Hameln Nagetier] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [하멜른 나게티어]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180629_012036	* Increases the damage dealt on an enemy with [Hameln Nagetier] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [하멜른 나게티어]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014323	* Increases the skill factor of [Cure] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [큐어]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010900	* Increases the damage dealt on an enemy with [Cure] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [큐어]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014324	* Aumenta o Multiplicador de Cura de [Heal] em 0.5% por nível de atributo.{nl}* +10% de aumento adicional no nível máximo
