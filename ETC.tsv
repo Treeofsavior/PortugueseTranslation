@@ -1635,7 +1635,7 @@ ETC_20150317_001634	{@st59}Move{/}
 ETC_20150317_001635	Do you want to continue the upgrade?
 ETC_20150317_001636	A boss monster has appeared
 ETC_20150317_001637	A boss monster has appeared in this field.
-ETC_20150317_001638	Este item não pode ser aprimorado.
+ETC_20150317_001638	Este item não pode ser refinado.
 ETC_20150317_001639	{Auto_1} Place
 ETC_20150317_001640	Indisponível neste mapa.
 ETC_20150317_001641	[{The}] feature is enabled.
@@ -1682,15 +1682,15 @@ ETC_20150317_001681	Can no longer be enhanced
 ETC_20150317_001682	Only items with a Potential of over 0 can be enhanced.
 ETC_20150317_001683	If the Potential falls below 0, the item will be destroyed.
 ETC_20150317_001684	{s18}{ol}If the enhancement of armor, bracelets or necklaces above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
-ETC_20150317_001685	Novo Aprimoramento
-ETC_20150317_001686	O item foi aprimorado com êxito
-ETC_20150317_001687	O item falhou em aprimorar.
+ETC_20150317_001685	Novo Refino
+ETC_20150317_001686	O item foi refinado com êxito
+ETC_20150317_001687	O item falhou em refinar.
 ETC_20150317_001688	Add to the above slot to enhance item
-ETC_20150317_001689	Aprimorar
-ETC_20150317_001690	Cancel Enhancement
+ETC_20150317_001689	Refinar
+ETC_20150317_001690	Cancelar Refino
 ETC_20150317_001691	Depositar
 ETC_20150317_001692	Re-enhance
-ETC_20150317_001693	Clique no item p/ Aprimorar
+ETC_20150317_001693	Clique no item p/ Refinar
 ETC_20150317_001694	Sucesso {img emoticon_0002 40 40}
 ETC_20150317_001695	Falhou {img emoticon_0016 40 40}
 ETC_20150317_001696	There is no empty socket that matches this type.
@@ -4174,7 +4174,7 @@ ETC_20150317_004173	Function is not nagging class:
 ETC_20150317_004174	Your inventory is full. {nl}
 ETC_20150317_004175	Enhancement{/}{/} or
 ETC_20150317_004176	Sell{/}{/}to {nl}key instant shops
-ETC_20150317_004177	Você tem alguns materiais de aprimoramento.{nl}
+ETC_20150317_004177	Você tem alguns materiais de refino.{nl}
 ETC_20150317_004178	Tente melhorar um item.
 ETC_20150317_004179	Upgradeable{nl}There are items.{nl}
 ETC_20150317_004180	Use uma poção para restaurar seu HP.
@@ -4183,7 +4183,7 @@ ETC_20150317_004182	Use uma poção para restaurar seu SP.
 ETC_20150317_004183	Use uma poção para restaurar sua Stamina.
 ETC_20150317_004184	{s18}{#001100}You can raise your character's stats {nl} by leveling up.
 ETC_20150317_004185	Clique no botão 'Aplicar'{nl}Depois de aumentar seus status.
-ETC_20150317_004186	{s18}{#001100}{a @UI_TUTO_MORU}Clique com o botão direito na bigorna para aprimorar itens.
+ETC_20150317_004186	{s18}{#001100}{a @UI_TUTO_MORU}Clique com o botão direito na bigorna para refinar itens.
 ETC_20150317_004187	{s18}{#001100}Items sold in Instant Shops are more{nl}expensive than in the regular ones.
 ETC_20150317_004188	The number of links cannot surpass 3.
 ETC_20150317_004189	{@st43} My Page{/}
@@ -10036,7 +10036,7 @@ ETC_20150323_010037	The distribution table can only be used near the base.
 ETC_20150323_010038	It can be only constructed on one base.
 ETC_20150323_010039	{img squaier_buff 19 19}{@st41b}{s15}{#2c7e58}Buff da Arma 
 ETC_20150323_010040	{img squaier_buff 19 19}{@st41b}{s15}{#2c7e58}Buff da Armadura
-ETC_20150323_010041	{img notice_br_solution 16 16}{@st41b}{s15}{#2c7e58}Bônus de Aprimoramento{/}{/}
+ETC_20150323_010041	{img notice_br_solution 16 16}{@st41b}{s15}{#2c7e58}Bônus de Refino{/}{/}
 ETC_20150323_010042	Add Ataque Físico of Companion by {Value}
 ETC_20150323_010043	%d Players
 ETC_20150323_010044	received your buff.
@@ -19746,7 +19746,7 @@ ETC_20151224_019740	Quer utilizar {TP} TP para alterar o nome do seu personagem?
 ETC_20151224_019741	You've failed to accept the friend request.
 ETC_20151224_019742	You've failed to decline the friend request.
 ETC_20151224_019743	Você não pode mais expandir seu armazém.
-ETC_20151224_019744	Equipamentos avançados ou aprimorados estão incluídos. Você quer prosseguir?
+ETC_20151224_019744	Equipamentos avançados ou refinados estão incluídos. Você quer prosseguir?
 ETC_20151224_019745	A play time limit of {TimeStr} has been set as part of the shutdown law.
 ETC_20151224_019746	Excessive gaming can negatively affect your health.
 ETC_20151224_019747	You have been playing for {Time} hour(s).
@@ -27035,7 +27035,7 @@ ETC_20170313_027029	You can equip a maximum of {VALID_CNT} gems of the same type
 ETC_20170313_027030	This item cannot be used as material.
 ETC_20170313_027031	Item has reached maximum level.
 ETC_20170313_027032	Não pode ser usado enquanto refina um item.	강화 중에는 사용할 수 없습니다.				
-ETC_20170313_027033	Não é possível aprimorar ou transcender itens enquanto {BUFFNAME} estiver ativo.	{BUFFNAME} 적용 중에는 강화 또는 초월할 수 없습니다.				
+ETC_20170313_027033	Não é possível refinar ou transcender itens enquanto {BUFFNAME} estiver ativo.	{BUFFNAME} 적용 중에는 강화 또는 초월할 수 없습니다.				
 ETC_20170313_027034	O nome da loja deve ter menos de {ENG_LEN} caracteres.	상점 이름은 최대 한글 {KOR_LEN}자,{nl}영문 {ENG_LEN}자 이내 이어야 합니다.				
 ETC_20170313_027035	O preço de identificação deve ser inferior a {PRICE}.
 ETC_20170313_027036	Básico: Status Básico, com bônus de avanço{nl}Investido: Pontos investidos{nl}Outros: Pontos de itens equipados e outros
@@ -28889,7 +28889,7 @@ ETC_20170912_028862	Tem certeza de que deseja denunciar {Name} pelo emblema inap
 ETC_20170912_028863	{Name} foi reportado. Obrigado.
 ETC_20170912_028864	Use the {Key} key to make {Target} become {Done}.
 ETC_20170912_028865	Uphill Defense Shop
-ETC_20170912_028866	Não é possível criar ou aprimorar itens dentro de dungeons e missões instanciadas.
+ETC_20170912_028866	Não é possível criar ou refinar itens dentro de dungeons e missões instanciadas.
 ETC_20170912_028867	Maça de 2 Mãos
 ETC_20170912_028868	Não pode ser usado ainda.
 ETC_20170912_028869	Não é possível usar a habilidade Forge perto de uma forja.
@@ -32187,8 +32187,8 @@ ETC_20180418_032155	Onmyoji Advancement
 ETC_20180418_032156	Blessed Shards cannot be extracted.{nl} {nl} - Cannot extract from items of Stage 2 and below.{nl} {nl} - Using the scroll requires  
 ETC_20180418_032157	Blessed Gems successfully used for transcendence
 ETC_20180418_032158	.
-ETC_20180418_032159	Itens que foram aprimorados, transcendidos, adicionados soquetes, equipados com gemas ou de outra forma {nl} {@st66d_y}{s19} processados{/}{/} não podem ser usados para aprimorar cartas.
-ETC_20180418_032160	Equipamentos que foram {@st47}{s18}aprimorados, transcendidos, equipados com gemas, soquetes abertos ou despertados{/}{/} podem ser desmontados.
+ETC_20180418_032159	Itens que foram refinados, transcendidos, adicionados soquetes, equipados com gemas ou de outra forma {nl} {@st66d_y}{s19} processados{/}{/} não podem ser usados para aprimorar cartas.
+ETC_20180418_032160	Equipamentos que foram {@st47}{s18}refinados, transcendidos, equipados com gemas, soquetes abertos ou despertados{/}{/} podem ser desmontados.
 ETC_20180418_032161	Clique no item para transcender.
 ETC_20180418_032162	Este item não pode ser transcendido.
 ETC_20180418_032163	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable{/}.{nl} - If transcendence {#62100c}fails{/}, the item's potential is {#62100c}reduced by 1{/}.
@@ -36370,7 +36370,7 @@ ETC_20181017_036284	Shut Down Data	셧다운 관련 정보
 ETC_20181017_036285	37127 bug tracker	37127 버그 추적을 위한...				
 ETC_20181017_036286	Failed to acquire Market Web Server URL. Check server_info.	Market Web Server URL 획득에 실패하였습니다. server_info 확인 필요.				
 ETC_20181017_036287	Market Web error log	마켓 웹서버 에러 로그				
-ETC_20181017_036288	Materiais de Aprimoramento
+ETC_20181017_036288	Materiais de Refino
 ETC_20181017_036289	Armas Principais
 ETC_20181017_036290	Armas Secundárias
 ETC_20181017_036291	Trajes Especiais

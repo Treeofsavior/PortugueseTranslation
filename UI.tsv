@@ -577,7 +577,7 @@ UI_20150317_000576	{@st41b}Aprimorar{/}
 UI_20150317_000577	{@st59}Iniciar Melhoria de Item{/}
 UI_20150317_000578	{@st59}Fechar{/}
 UI_20150317_000579	{@st41b} Você quer refinar os {@sti9}×%s{/} itens selecionados?{/}
-UI_20150317_000580	{@st43}Aprimoramento
+UI_20150317_000580	{@st43}Refinamento
 UI_20150317_000581	{@st44}Melhorar Item{/}
 UI_20150317_000582	{s24}{b}{#000000}Melhoria Concluída!
 UI_20150317_000583	{@st41}Melhorar Novamente{/}
@@ -1746,7 +1746,7 @@ UI_20150729_001744	{@st42}Procurar Integrantes do Grupo{/}
 UI_20150729_001745	Quando um jogador atender aos critérios que você definiu, será exibida a mensagem [Compatível com Grupo!] na tela.
 UI_20150729_001746	{@st41b}Lista de Jogador Recomendado{/}
 UI_20150729_001747	{@st41}Informações de Atributo
-UI_20150729_001748	{@st59}Cancelar Aprimoramento{/}
+UI_20150729_001748	{@st59}Cancelar Refinamento{/}
 UI_20150729_001749	{@st59b}Melhoria de Gema/Carta{nl}{@st59s} - Selecione uma gema ou uma carta do Inventário para melhorar.{nl} - Todos os itens, exceto os de quest, podem ser usados como material para melhorar gemas.{nl} (mais eficiente ao usar uma gema como material){nl} - As cartas apenas podem ser melhorados com outras cartas.{/}
 UI_20150729_001750	{#000000}{s22}Fila do Servidor
 UI_20150729_001751	{#000000}{s22}O servidor está lotado. Aguarde na fila para entrar.
@@ -3509,7 +3509,7 @@ UI_20181017_003508	{@st66b}Mágico{/}
 UI_20181017_003509	{@st66b}Raro{/}
 UI_20181017_003510	{@st66b}Único{/}
 UI_20181017_003511	{@st66b}Lendário{/}
-UI_20181017_003512	{@st66b}Somente Aprimorados/Transcendidos{/}
+UI_20181017_003512	{@st66b}Somente Refinados/Transcendidos{/}
 UI_20181017_003513	{@st66b}Somente Não-Identificados{/}
 UI_20181017_003514	{@st66b}Todas as Cartas{/}
 UI_20181017_003515	{@st66b}Cartas Vermelhas{/}
