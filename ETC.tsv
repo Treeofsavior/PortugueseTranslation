@@ -2779,7 +2779,7 @@ ETC_20150317_002778	Ataque Elemental: Vento
 ETC_20150317_002779	Resistência Elemental: Fogo{img attri_Fire 23 23}
 ETC_20150317_002780	Resistência Elemental: Gelo{img attri_Ice 23 23}
 ETC_20150317_002781	Resistência Elemental: Veneno{img attri_Poison 23 23}
-ETC_20150317_002782	Resistência Elemental: Elétrico{img attri_Lightning 23 23}
+ETC_20150317_002782	Resistência Elemental: Raio{img attri_Lightning 23 23}
 ETC_20150317_002783	Resistência Elemental: Divino{img attri_Holy 23 23}
 ETC_20150317_002784	Resistência Elemental: Trevas{img attri_Dark 23 23}
 ETC_20150317_002785	Taxa de Ataque em Área
@@ -2787,7 +2787,7 @@ ETC_20150317_002786	Taxa de Defesa em Área
 ETC_20150317_002787	2% de chance de +300 de dano adicional ao atacar
 ETC_20150317_002788	3% chance of 20% receiving continuous damage equal to 20% HP when hit
 ETC_20150317_002789	4% chance of +100 additional all resistance when hit by magic
-ETC_20150317_002790	Ataque Elemental Elétrico
+ETC_20150317_002790	Ataque Elemental Raio
 ETC_20150317_002791	Poder de Empurro
 ETC_20150317_002792	Dano contra alvos Pequenos
 ETC_20150317_002793	Dano contra alvos Médios
@@ -2958,14 +2958,14 @@ ETC_20150317_002957	Fantasma
 ETC_20150317_002958	Sem atributo
 ETC_20150317_002959	Fogo
 ETC_20150317_002960	Agua
-ETC_20150317_002961	Elétrico
+ETC_20150317_002961	Raio
 ETC_20150317_002962	Veneno
 ETC_20150317_002963	Trevas
 ETC_20150317_002964	Divino
 ETC_20150317_002965	Terra
 ETC_20150317_002966	NA
 ETC_20150317_002967	Corte
-ETC_20150317_002968	Perfurar
+ETC_20150317_002968	Perfurante
 ETC_20150317_002969	Impacto
 ETC_20150317_002970	Magico
 ETC_20150317_002971	Físico
@@ -14183,7 +14183,7 @@ ETC_20150804_014184	TypeFManager
 ETC_20150804_014185	Place to put the Stone
 ETC_20150804_014186	Zachariel's Epitaph
 ETC_20150807_014187	Taxa de Ataque em Área {img red_up_arrow 16 16} 2
-ETC_20150807_014188	Dano Elemental Elétrico{img attri_Lightning 23 23} {img red_up_arrow 16 16} 30
+ETC_20150807_014188	Dano Elemental Raio{img attri_Lightning 23 23} {img red_up_arrow 16 16} 30
 ETC_20150807_014189	Defesa {img red_up_arrow 16 16} 6
 ETC_20150807_014190	Dano Elemental Trevas{img attri_Dark 23 23} {img red_up_arrow 16 16} 30
 ETC_20150807_014191	Veloc. de Movimento {img red_up_arrow 16 16} 5
@@ -27852,7 +27852,7 @@ ETC_20170420_027825	No attributes to apply.	착용할 수 있는 특성이 없�
 ETC_20170420_027826	Dano Adicional: Psíquico{img notice_br_link 17 17}		ETC_20161108_025742	Psychokinesis Property Attack	염속성 공격력	
 ETC_20170420_027827	Dano Adicional: Fogo{img attri_Fire 23 23}			
 ETC_20170420_027828	Dano Adicional: Gelo{img attri_Ice 23 23}			
-ETC_20170420_027829	Dano Adicional: Elétrico{img attri_Lightning 23 23} 		
+ETC_20170420_027829	Dano Adicional: Raio{img attri_Lightning 23 23} 		
 ETC_20170420_027830	Dano Adicional: Terra{img attri_Earth 23 23}	땅 속성 추가 대미지				
 ETC_20170420_027831	Dano Adicional: Veneno{img attri_Poison 23 23}	독 속성 추가 대미지				
 ETC_20170420_027832	Dano Adicional: Divino{img attri_Holy 23 23}	신성 속성 추가 대미지				
@@ -31334,7 +31334,7 @@ ETC_20180208_031302	Resistência Elemental Gelo +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031303	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs de Fogo
 ETC_20180208_031304	Resistência a Silêncio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031305	{@st66d_y}{s16}[%d]{/}{/}%% chance de reduzir o dano em 10%% for 5 sec
-ETC_20180208_031306	Resistência ao Elemento Elétrico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031306	Resistência ao Elemento Raio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031307	Defesa a Perfurante +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031308	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs das Trevas
 ETC_20180208_031309	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs de Veneno
@@ -31342,7 +31342,7 @@ ETC_20180208_031310	Dano contra alvos Dormindo +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031311	Dano contra monstros tipo Fogo +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031312	DEX +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031313	SPR +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031314	Dano contra monstros tipo Elétrico {@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031314	Dano contra monstros tipo Raio {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031315	DEX +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031316	Dano Elemental Divino +{@st66d_y}{s16}[%d]{/}
 ETC_20180208_031317	Resistência Elemental Divino +{@st66d_y}{s16}[%d]{/}{/}
@@ -31394,7 +31394,7 @@ ETC_20180208_031362	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 1%% de SP ao
 ETC_20180208_031363	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de aumentar +4 veloc. de mov por 6 seg
 ETC_20180208_031364	INT +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031365	Dano a inimigos Caídos +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031366	Dano Elemental Elétrico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031366	Dano Elemental Raio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031367	Resistência a Atordoar +{@st66d_y}{s16}[%d]{/}{/}, Resistência a Sono +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031368	Taxa de Ataque em Área +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031369	HP Max. +{@st66d_y}{s16}[%d]{/}{/}
