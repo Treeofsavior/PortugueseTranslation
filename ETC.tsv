@@ -1,4 +1,4 @@
-﻿ETC_20150317_000001	Kepa
+﻿ETC_20150317_000001	Kepa	케파				
 ETC_20150317_000002	The Kepa is not a strong monster. However, attacking it recklessly may bring you to tears.
 ETC_20150317_000003	Large Kepa
 ETC_20150317_000004	There are people who try to eat the Large Kepa sometimes. Don't let them.
@@ -1635,7 +1635,7 @@ ETC_20150317_001634	{@st59}Move{/}
 ETC_20150317_001635	Do you want to continue the upgrade?
 ETC_20150317_001636	A boss monster has appeared
 ETC_20150317_001637	A boss monster has appeared in this field.
-ETC_20150317_001638	Este item não pode ser aprimorado.
+ETC_20150317_001638	Este item não pode ser refinado.
 ETC_20150317_001639	{Auto_1} Place
 ETC_20150317_001640	Indisponível neste mapa.
 ETC_20150317_001641	[{The}] feature is enabled.
@@ -1682,15 +1682,15 @@ ETC_20150317_001681	Can no longer be enhanced
 ETC_20150317_001682	Only items with a Potential of over 0 can be enhanced.
 ETC_20150317_001683	If the Potential falls below 0, the item will be destroyed.
 ETC_20150317_001684	{s18}{ol}If the enhancement of armor, bracelets or necklaces above level {#ffffcc}+{Auto_1} fails, its Potential will be consumed. When the Potential falls below 0, the item will be destroyed. Do you want to enhance?
-ETC_20150317_001685	Novo Aprimoramento
-ETC_20150317_001686	O item foi aprimorado com êxito
-ETC_20150317_001687	O item falhou em aprimorar.
+ETC_20150317_001685	Novo Refino
+ETC_20150317_001686	O item foi refinado com êxito
+ETC_20150317_001687	O item falhou em refinar.
 ETC_20150317_001688	Add to the above slot to enhance item
-ETC_20150317_001689	Aprimorar
-ETC_20150317_001690	Cancel Enhancement
+ETC_20150317_001689	Refinar
+ETC_20150317_001690	Cancelar Refino
 ETC_20150317_001691	Depositar
 ETC_20150317_001692	Re-enhance
-ETC_20150317_001693	Clique no item p/ Aprimorar
+ETC_20150317_001693	Clique no item p/ Refinar
 ETC_20150317_001694	Sucesso {img emoticon_0002 40 40}
 ETC_20150317_001695	Falhou {img emoticon_0016 40 40}
 ETC_20150317_001696	There is no empty socket that matches this type.
@@ -1775,7 +1775,7 @@ ETC_20150317_001774	Helmet
 ETC_20150317_001775	Cooldown: {Sec} segundos
 ETC_20150317_001776	Efeito na Arma
 ETC_20150317_001777	Efeito na Arma secundária
-ETC_20150317_001778	Efeito: Cima e Calças
+ETC_20150317_001778	Efeito: Topo e Calças
 ETC_20150317_001779	Boots Effect
 ETC_20150317_001780	Gloves Effect
 ETC_20150317_001781	Ataque Máximo
@@ -1978,7 +1978,7 @@ ETC_20150317_001977	Complete
 ETC_20150317_001978	Success
 ETC_20150317_001979	{Auto_1}'s {Auto_2}
 ETC_20150317_001980	This belongs to another character.
-ETC_20150317_001981	Enter a quantity ({Auto_1} ~ {Auto_2})
+ETC_20150317_001981	Entre uma quantidade ({Auto_1} ~ {Auto_2})
 ETC_20150317_001982	This combination is not possible.
 ETC_20150317_001983	Deselected
 ETC_20150317_001984	Deseja usar seus pontos para aumentar a habilidade {Auto_1}?
@@ -2434,8 +2434,8 @@ ETC_20150317_002433	It is very helpful even if it is old
 ETC_20150317_002434	I ask the position of the Device
 ETC_20150317_002435	The relic matches the altar!
 ETC_20150317_002436	You will not be able to put the Divino relics at home.
-ETC_20150317_002437	Insert the Divino Relic of Mercy
-ETC_20150317_002438	Insert the Divino Relic of Salvation
+ETC_20150317_002437	Insert the Divine Relic of Mercy
+ETC_20150317_002438	Insert the Divine Relic of Salvation
 ETC_20150317_002439	Already waiting for the soul of the bishop Aurelius.
 ETC_20150317_002440	Examining
 ETC_20150317_002441	You found the item underground
@@ -2470,7 +2470,7 @@ ETC_20150317_002469	Use the yellow key
 ETC_20150317_002470	Beads begin to glow
 ETC_20150317_002471	There is no key.
 ETC_20150317_002472	Tips on solving the secret
-ETC_20150317_002473	Method for obtaining the Divino Relic
+ETC_20150317_002473	Method for obtaining the Divine Relic
 ETC_20150317_002474	About relics
 ETC_20150317_002475	Ask about a second Device
 ETC_20150317_002476	Navigation of next Device
@@ -2553,7 +2553,7 @@ ETC_20150317_002552	Using Maven's key...
 ETC_20150317_002553	Experimental Matsum
 ETC_20150317_002554	Pouring the Acid Solution
 ETC_20150317_002555	Using the Magic Crystal
-ETC_20150317_002556	Recovering the Divino Relic
+ETC_20150317_002556	Recovering the Divine Relic
 ETC_20150317_002557	Relic not detected
 ETC_20150317_002558	Detecting a Relic
 ETC_20150317_002559	Use Enchant Scroll
@@ -2779,7 +2779,7 @@ ETC_20150317_002778	Ataque Elemental: Vento
 ETC_20150317_002779	Resistência Elemental: Fogo{img attri_Fire 23 23}
 ETC_20150317_002780	Resistência Elemental: Gelo{img attri_Ice 23 23}
 ETC_20150317_002781	Resistência Elemental: Veneno{img attri_Poison 23 23}
-ETC_20150317_002782	Resistência Elemental: Elétrico{img attri_Lightning 23 23}
+ETC_20150317_002782	Resistência Elemental: Raio{img attri_Lightning 23 23}
 ETC_20150317_002783	Resistência Elemental: Divino{img attri_Holy 23 23}
 ETC_20150317_002784	Resistência Elemental: Trevas{img attri_Dark 23 23}
 ETC_20150317_002785	Taxa de Ataque em Área
@@ -2787,7 +2787,7 @@ ETC_20150317_002786	Taxa de Defesa em Área
 ETC_20150317_002787	2% de chance de +300 de dano adicional ao atacar
 ETC_20150317_002788	3% chance of 20% receiving continuous damage equal to 20% HP when hit
 ETC_20150317_002789	4% chance of +100 additional all resistance when hit by magic
-ETC_20150317_002790	Ataque Elemental Elétrico
+ETC_20150317_002790	Ataque Elemental Raio
 ETC_20150317_002791	Poder de Empurro
 ETC_20150317_002792	Dano contra alvos Pequenos
 ETC_20150317_002793	Dano contra alvos Médios
@@ -2958,14 +2958,14 @@ ETC_20150317_002957	Fantasma
 ETC_20150317_002958	Sem atributo
 ETC_20150317_002959	Fogo
 ETC_20150317_002960	Agua
-ETC_20150317_002961	Elétrico
+ETC_20150317_002961	Raio
 ETC_20150317_002962	Veneno
 ETC_20150317_002963	Trevas
 ETC_20150317_002964	Divino
 ETC_20150317_002965	Terra
 ETC_20150317_002966	NA
 ETC_20150317_002967	Corte
-ETC_20150317_002968	Perfurar
+ETC_20150317_002968	Perfurante
 ETC_20150317_002969	Impacto
 ETC_20150317_002970	Magico
 ETC_20150317_002971	Físico
@@ -3852,8 +3852,8 @@ ETC_20150317_003851	when quest (complete standby-> complete)
 ETC_20150317_003852	in QuestProgressCheck XML
 ETC_20150317_003853	ClassName is missing.
 ETC_20150317_003854	in SessionObject XML
-ETC_20150317_003855	 - Repeatable ({Auto_1}/{Auto_2})
-ETC_20150317_003856	 - Repeatable ({Auto_1}/infinite)
+ETC_20150317_003855	 - Repetível ({Auto_1}/{Auto_2})
+ETC_20150317_003856	 - Repetível ({Auto_1}/infinite)
 ETC_20150317_003857	Check how many quests are in progress. You can have up to 10 at once.
 ETC_20150317_003858	There is no quest information. Please try again.
 ETC_20150317_003859	Cannot give up auto start quest
@@ -4174,7 +4174,7 @@ ETC_20150317_004173	Function is not nagging class:
 ETC_20150317_004174	Your inventory is full. {nl}
 ETC_20150317_004175	Enhancement{/}{/} or
 ETC_20150317_004176	Sell{/}{/}to {nl}key instant shops
-ETC_20150317_004177	Você tem alguns materiais de aprimoramento.{nl}
+ETC_20150317_004177	Você tem alguns materiais de refino.{nl}
 ETC_20150317_004178	Tente melhorar um item.
 ETC_20150317_004179	Upgradeable{nl}There are items.{nl}
 ETC_20150317_004180	Use uma poção para restaurar seu HP.
@@ -4183,7 +4183,7 @@ ETC_20150317_004182	Use uma poção para restaurar seu SP.
 ETC_20150317_004183	Use uma poção para restaurar sua Stamina.
 ETC_20150317_004184	{s18}{#001100}You can raise your character's stats {nl} by leveling up.
 ETC_20150317_004185	Clique no botão 'Aplicar'{nl}Depois de aumentar seus status.
-ETC_20150317_004186	{s18}{#001100}{a @UI_TUTO_MORU}Clique com o botão direito na bigorna para aprimorar itens.
+ETC_20150317_004186	{s18}{#001100}{a @UI_TUTO_MORU}Clique com o botão direito na bigorna para refinar itens.
 ETC_20150317_004187	{s18}{#001100}Items sold in Instant Shops are more{nl}expensive than in the regular ones.
 ETC_20150317_004188	The number of links cannot surpass 3.
 ETC_20150317_004189	{@st43} My Page{/}
@@ -5521,7 +5521,7 @@ ETC_20150317_005520	Knocked out 50 players.
 ETC_20150317_005521	Dejected People
 ETC_20150317_005522	Monster Energy
 ETC_20150317_005523	Play 7 days.
-ETC_20150317_005524	Dae-Gil
+ETC_20150317_005524	Great Blessing	대길			
 ETC_20150317_005525	Dae-Gil Stalker
 ETC_20150317_005526	Annoyed Dae-Gil 100 times.
 ETC_20150317_005527	Hair
@@ -10036,7 +10036,7 @@ ETC_20150323_010037	The distribution table can only be used near the base.
 ETC_20150323_010038	It can be only constructed on one base.
 ETC_20150323_010039	{img squaier_buff 19 19}{@st41b}{s15}{#2c7e58}Buff da Arma 
 ETC_20150323_010040	{img squaier_buff 19 19}{@st41b}{s15}{#2c7e58}Buff da Armadura
-ETC_20150323_010041	{img notice_br_solution 16 16}{@st41b}{s15}{#2c7e58}Bônus de Aprimoramento{/}{/}
+ETC_20150323_010041	{img notice_br_solution 16 16}{@st41b}{s15}{#2c7e58}Bônus de Refino{/}{/}
 ETC_20150323_010042	Add Ataque Físico of Companion by {Value}
 ETC_20150323_010043	%d Players
 ETC_20150323_010044	received your buff.
@@ -13953,7 +13953,7 @@ ETC_20150729_013954	The one with the shortest English name
 ETC_20150729_013955	Por favor coloque uma carta na mesa. 
 ETC_20150729_013956	There is no opponent.
 ETC_20150729_013957	You have not yet reached the required level to start this main quest.
-ETC_20150729_013958	{@st41}Random Reward{/}
+ETC_20150729_013958	{@st41}Recompensa Aleatória{/}
 ETC_20150729_013959	Stunned Wendigo Searcher
 ETC_20150729_013960	You've shot the Wendigo Searcher with the paralyzing needle!{nl}Collect its hair within 10 segundos!
 ETC_20150729_013961	The Wendigo Searcher disappeared!
@@ -14183,7 +14183,7 @@ ETC_20150804_014184	TypeFManager
 ETC_20150804_014185	Place to put the Stone
 ETC_20150804_014186	Zachariel's Epitaph
 ETC_20150807_014187	Taxa de Ataque em Área {img red_up_arrow 16 16} 2
-ETC_20150807_014188	Dano Elemental Elétrico{img attri_Lightning 23 23} {img red_up_arrow 16 16} 30
+ETC_20150807_014188	Dano Elemental Raio{img attri_Lightning 23 23} {img red_up_arrow 16 16} 30
 ETC_20150807_014189	Defesa {img red_up_arrow 16 16} 6
 ETC_20150807_014190	Dano Elemental Trevas{img attri_Dark 23 23} {img red_up_arrow 16 16} 30
 ETC_20150807_014191	Veloc. de Movimento {img red_up_arrow 16 16} 5
@@ -15736,33 +15736,33 @@ ETC_20151016_015730	The stones with out obb
 ETC_20151016_015731	The sanctum object without obb
 ETC_20151016_015732	Spirit Condenser2_1
 ETC_20151016_015733	Spirit Condenser2_2
-ETC_20151016_015734	Swordsman SubMestre
-ETC_20151016_015735	Peltasta SubMestre
-ETC_20151016_015736	Highlander SubMestre
-ETC_20151016_015737	Hoplite SubMestre
-ETC_20151016_015738	Barbarian SubMestre
-ETC_20151016_015739	Rodelero SubMestre
-ETC_20151016_015740	Cataphract SubMestre
-ETC_20151016_015741	Wizard SubMestre
-ETC_20151016_015742	Pyromancer SubMestre
-ETC_20151016_015743	Cryomancer SubMestre
-ETC_20151016_015744	Psychokino SubMestre
-ETC_20151016_015745	Linker SubMestre
-ETC_20151016_015746	Thaumaturge SubMestre
-ETC_20151016_015747	Elementalist SubMestre
-ETC_20151016_015748	Archer SubMestre
-ETC_20151016_015749	Ranger SubMestre
-ETC_20151016_015750	Quarrel Shooter SubMestre
-ETC_20151016_015751	Sapper SubMestre
-ETC_20151016_015752	Hunter SubMestre
-ETC_20151016_015753	Wugushi SubMestre
-ETC_20151016_015754	Scout SubMestre
-ETC_20151016_015755	Cleric SubMestre
-ETC_20151016_015756	Krivis SubMestre
-ETC_20151016_015757	Priest SubMestre
-ETC_20151016_015758	Bokor SubMestre
-ETC_20151016_015759	Dievdirbys SubMestre
-ETC_20151016_015760	Paladin SubMestre
+ETC_20151016_015734	Submestre Swordsman
+ETC_20151016_015735	Submestre Peltasta
+ETC_20151016_015736	Submestre Highlander
+ETC_20151016_015737	Submestre Hoplite
+ETC_20151016_015738	Submestre Barbarian
+ETC_20151016_015739	Submestre Rodelero
+ETC_20151016_015740	Submestre Cataphract
+ETC_20151016_015741	Submestre Wizard
+ETC_20151016_015742	Submestre Pyromancer
+ETC_20151016_015743	Submestre Cryomancer
+ETC_20151016_015744	Submestre Psychokino
+ETC_20151016_015745	Submestre Linker
+ETC_20151016_015746	Submestre Thaumaturge
+ETC_20151016_015747	Submestre Elementalist
+ETC_20151016_015748	Submestre Archer
+ETC_20151016_015749	Submestre Ranger
+ETC_20151016_015750	Submestre Quarrel Shooter
+ETC_20151016_015751	Submestre Sapper
+ETC_20151016_015752	Submestre Hunter
+ETC_20151016_015753	Submestre Wugushi
+ETC_20151016_015754	Submestre Scout
+ETC_20151016_015755	Submestre Cleric
+ETC_20151016_015756	Submestre Krivis
+ETC_20151016_015757	Submestre Priest
+ETC_20151016_015758	Submestre Bokor
+ETC_20151016_015759	Submestre Dievdirbys
+ETC_20151016_015760	Submestre Paladin
 ETC_20151016_015761	Mysterious Tree
 ETC_20151016_015762	Big Ferris Wheel
 ETC_20151016_015763	Toucan
@@ -16258,9 +16258,9 @@ ETC_20151022_016252	PractGelo the power
 ETC_20151022_016253	Fill the vitalities of the monsters into the crystal jewel
 ETC_20151022_016254	Light the Fogo on the flameholder using the complete crystal jewel
 ETC_20151022_016255	The blessed start
-ETC_20151022_016256	Receive the blessing from the Cleric SubMestre
-ETC_20151022_016257	Receive the blessing from the Krivis SubMestre
-ETC_20151022_016258	Receive the blessing from the Bokor SubMestre
+ETC_20151022_016256	Receive the blessing from the Cleric Submaster
+ETC_20151022_016257	Receive the blessing from the Krivis Submaster
+ETC_20151022_016258	Receive the blessing from the Bokor Submaster
 ETC_20151022_016259	Cure the refugees that fell down
 ETC_20151022_016260	The Estátua da Deusa Vakarine at Lemprasa Pond
 ETC_20151022_016261	The Estátua da Deusa Zemyna at Lemprasa Pond
@@ -16442,14 +16442,14 @@ ETC_20151022_016436	Equip Rapier Sub
 ETC_20151022_016437	Equip Besta Pistol
 ETC_20151022_016438	Equip Besta Cannon
 ETC_20151022_016439	Mercador de Itens
-ETC_20151022_016440	[SubMestre Swordsman]{nl}              Codill
-ETC_20151022_016441	[SubMestre Peltasta ]{nl}      Nirin Dameoff
-ETC_20151022_016442	[Cleric SubMestre]{nl}     Tamara Easton
-ETC_20151022_016443	[Krivis SubMestre]{nl}     Mellinda Dicherin
-ETC_20151022_016444	[Priest SubMestre]{nl}              Boira
-ETC_20151022_016445	[Bokor SubMestre]{nl}      Bobo Gelolin
+ETC_20151022_016440	[Submestre Swordsman]{nl}              Codill
+ETC_20151022_016441	[Submestre Peltasta]{nl}      Nirin Dameoff
+ETC_20151022_016442	[Submestre Cleric]{nl}     Tamara Easton
+ETC_20151022_016443	[Submestre Krivis]{nl}     Mellinda Dicherin
+ETC_20151022_016444	[Submestre Priest]{nl}              Boira
+ETC_20151022_016445	[Submestre Bokor]{nl}      Bobo Gelolin
 ETC_20151022_016446	[Mestre Sadhu]{nl}Agota Hanska
-ETC_20151022_016447	[Paladin SubMestre]{nl}      Sylvia Naimon
+ETC_20151022_016447	[Submestre Paladin]{nl}      Sylvia Naimon
 ETC_20151022_016448	Flameholder
 ETC_20151022_016449	Boss Manager
 ETC_20151022_016450	Traveling Merchant Varas
@@ -16471,13 +16471,13 @@ ETC_20151022_016465	[Aliança Comercial Kedora]{nl} Margellius
 ETC_20151022_016466	[Aliança Comercial Kedora]{nl}     Gerda
 ETC_20151022_016467	[Aliança Comercial Kedora]{nl}   Serapinas
 ETC_20151022_016468	[Mestre Fencer]{nl}  Sorscha Hutton
-ETC_20151022_016469	[Barbarian SubMestre]{nl}        Twinhal Koreont
-ETC_20151022_016470	[Dievdirbys SubMestre]{nl}        Zenoa Gallant
+ETC_20151022_016469	[Submestre Barbarian]{nl}        Twinhal Koreont
+ETC_20151022_016470	[Submestre Dievdirbys]{nl}        Zenoa Gallant
 ETC_20151022_016471	Padded Leg Herb
 ETC_20151022_016472	Smoking Glue
 ETC_20151022_016473	Smelly Cart
 ETC_20151022_016474	Habitat
-ETC_20151022_016475	[Highlander SubMestre]{nl}        Rahelia Black
+ETC_20151022_016475	[Submestre Highlander]{nl}        Rahelia Black
 ETC_20151022_016476	Injured Refugees
 ETC_20151022_016477	Shelter Fogueira
 ETC_20151022_016478	Shelter Pyre
@@ -16842,7 +16842,7 @@ ETC_20151102_016836	Cronewt Gem
 ETC_20151102_016837	Infro Blood Gem
 ETC_20151102_016838	Pink Chupaluka Gem
 ETC_20151102_016839	Sauga Gem
-ETC_20151102_016840	Catacombs Maggot
+ETC_20151102_016840	Catacombs Maggot Gem	카타콤 마고트의 젬				
 ETC_20151102_016841	Tontus Gem
 ETC_20151102_016842	Karas Mage Gem
 ETC_20151102_016843	Echad Magician Gem
@@ -17392,20 +17392,20 @@ ETC_20151102_017386	Setting the Protective Barrier Crystal
 ETC_20151102_017387	The Protective Barrier Crystal has been set
 ETC_20151102_017388	You've drank the Namott Divino Water{nl}You will temporarily become invisible to demons
 ETC_20151102_017389	Namott Sculpture
-ETC_20151102_017390	[Wizard SubMestre]{nl}Dejamis
-ETC_20151102_017391	[Pyromancer SubMestre]{nl}Cathy Naimos
-ETC_20151102_017392	[Cryomancer SubMestre]{nl}Octavia Iflynn
+ETC_20151102_017390	[Submestre Wizard]{nl}Dejamis
+ETC_20151102_017391	[Submestre Pyromancer]{nl}Cathy Naimos
+ETC_20151102_017392	[Submestre Cryomancer]{nl}Octavia Iflynn
 ETC_20151102_017393	[Mestre Psychokino]{nl}Ili Terid
 ETC_20151102_017394	[Mestre Linker]{nl}Winona Ende
-ETC_20151102_017395	[Thaumaturge SubMestre]{nl}Diemer Fallon
+ETC_20151102_017395	[Submestre Thaumaturge]{nl}Diemer Fallon
 ETC_20151102_017396	[Mestre Elementalist]{nl}Wican Celestic
-ETC_20151102_017397	[Archer SubMestre]{nl}Gunnison
-ETC_20151102_017398	[Ranger SubMestre]{nl}Sheba
-ETC_20151102_017399	[Quarrel Shooter SubMestre]{nl}Shorris
-ETC_20151102_017400	[Sapper SubMestre]{nl}Zubin Katal
-ETC_20151102_017401	[Hunter SubMestre]{nl}Belkin Vellon
+ETC_20151102_017397	[Submestre Archer]{nl}Gunnison
+ETC_20151102_017398	[Submestre Ranger]{nl}Sheba
+ETC_20151102_017399	[Submestre Quarrel Shooter]{nl}Shorris
+ETC_20151102_017400	[Submestre Sapper]{nl}Zubin Katal
+ETC_20151102_017401	[Submestre Hunter]{nl}Belkin Vellon
 ETC_20151102_017402	[Mestre Wugushi]{nl}Wor Pat
-ETC_20151102_017403	[Scout SubMestre]{nl}Suina
+ETC_20151102_017403	[Submestre Scout]{nl}Suina
 ETC_20151102_017404	Experiment Victim (1)
 ETC_20151102_017405	Experiment Victim (2)
 ETC_20151102_017406	XX Villager (1)
@@ -18198,7 +18198,7 @@ ETC_20151224_018192	Wugushi - Poison Pot
 ETC_20151224_018193	A Wugushi is an archer that specializes in using Veneno.
 ETC_20151224_018194	When you advance to a Wugushi, the Poison Pot located at the bottom right side of your screen,
 ETC_20151224_018195	You are able to craft Veneno and use them with your skills as a Wugushi.{nl}The ingredients of the Veneno can be: Veneno Liquid or the loot from Insect-type monsters. 
-ETC_20151224_018196	{nl} {nl}Veneno Liquid can be purchased from the Wugushi Mestre or Wugushi SubMestre.
+ETC_20151224_018196	{nl} {nl}Veneno Liquid can be purchased from the Wugushi Mestre or Wugushi Submaster.
 ETC_20151224_018197	Cannot find a GUID of the item in the inven.
 ETC_20151224_018198	Cannot load the barrack PC. Check the information.
 ETC_20151224_018199	Failed to initialize the Nexon NGS.
@@ -19746,7 +19746,7 @@ ETC_20151224_019740	Quer utilizar {TP} TP para alterar o nome do seu personagem?
 ETC_20151224_019741	You've failed to accept the friend request.
 ETC_20151224_019742	You've failed to decline the friend request.
 ETC_20151224_019743	Você não pode mais expandir seu armazém.
-ETC_20151224_019744	Equipamentos avançados ou aprimorados estão incluídos. Você quer prosseguir?
+ETC_20151224_019744	Equipamentos avançados ou refinados estão incluídos. Você quer prosseguir?
 ETC_20151224_019745	A play time limit of {TimeStr} has been set as part of the shutdown law.
 ETC_20151224_019746	Excessive gaming can negatively affect your health.
 ETC_20151224_019747	You have been playing for {Time} hour(s).
@@ -19839,8 +19839,8 @@ ETC_20151224_019833	Simultaneous attribute training
 ETC_20151224_019834	The following feature cannot be used.
 ETC_20151224_019835	{Target} does not have the benefits to trade with you.
 ETC_20151224_019836	Trade/Buy-in Shop Available
-ETC_20151224_019837	Aumento de EXP ao derrotar monstros
-ETC_20151224_019838	Increased STA recovery rate
+ETC_20151224_019837	Ganho de EXP ao derrotar monstros
+ETC_20151224_019838	Aumento da Recuperação de Stamina
 ETC_20151224_019839	Aumenta a lista do mercado em {COUNT}
 ETC_20151224_019840	Train {COUNT} attributes simultaneously
 ETC_20151224_019841	Velocidade de Movimento Aumentada em {COUNT}
@@ -19899,21 +19899,21 @@ ETC_20151224_019893	[Orsha Bishop]{nl}        Urbonas
 ETC_20151224_019894	[Mercador de Itens]{nl}            Alf
 ETC_20151224_019895	[Mercador de Acessórios]{nl}               Jurus
 ETC_20151224_019896	[Mestre Hoplite]{nl}        Aidas Valor
-ETC_20151224_019897	[Paladin SubMestre]{nl}       Silvia Naimon
-ETC_20151224_019898	[Wizard SubMestre]{nl}          Dejamis
-ETC_20151224_019899	[Pyromancer SubMestre]{nl}        Cathy Naimos
-ETC_20151224_019900	[Cryomancer SubMestre]{nl}           Octavia Ifflyn
+ETC_20151224_019897	[Submestre Paladin]{nl}       Silvia Naimon
+ETC_20151224_019898	[Submestre Wizard]{nl}          Dejamis
+ETC_20151224_019899	[Submestre Pyromancer]{nl}        Cathy Naimos
+ETC_20151224_019900	[Submestre Cryomancer]{nl}           Octavia Ifflyn
 ETC_20151224_019901	[Mestre Psychokino]{nl}            Ili Terid
 ETC_20151224_019902	[Mestre Linker]{nl}  Winona Ende
-ETC_20151224_019903	[Thaumaturge SubMestre]{nl}          Diemer Fallon
+ETC_20151224_019903	[Submestre Thaumaturge]{nl}          Diemer Fallon
 ETC_20151224_019904	[Mestre Elementalist]{nl}         Wican Celestic
-ETC_20151224_019905	[Archer SubMestre]{nl}         Gunnison
-ETC_20151224_019906	[Ranger SubMestre]{nl}            Sheba
-ETC_20151224_019907	[Quarrel Shooter SubMestre]{nl}                   Shorris
-ETC_20151224_019908	[Sapper SubMestre]{nl}     Zubin Katal
-ETC_20151224_019909	[Hunter SubMestre]{nl}       Belkin Vellon
+ETC_20151224_019905	[Submestre Archer]{nl}         Gunnison
+ETC_20151224_019906	[Submestre Ranger]{nl}            Sheba
+ETC_20151224_019907	[Submestre Quarrel Shooter]{nl}                   Shorris
+ETC_20151224_019908	[Submestre Sapper]{nl}     Zubin Katal
+ETC_20151224_019909	[Submestre Hunter]{nl}       Belkin Vellon
 ETC_20151224_019910	[Mestre Wugushi]{nl}          Wor Pat
-ETC_20151224_019911	[Scout SubMestre]{nl}          Suina
+ETC_20151224_019911	[Submestre Scout]{nl}          Suina
 ETC_20151224_019912	[Companion Trader]{nl}            Toras
 ETC_20151224_019913	[Gestor de Mercado]{nl}          Tilliana
 ETC_20151224_019914	[Armazenador]{nl}           Aisa
@@ -19963,13 +19963,13 @@ ETC_20151224_019957	Fencer Sword Pell
 ETC_20151224_019958	[Mestre Dragoon]{nl}  Valeska Himil
 ETC_20151224_019959	[Mestre Kabbalist]{nl}    Libgar Hippathia
 ETC_20151224_019960	[Plague Doctor]{nl}Philip Aurellius
-ETC_20151224_019961	[Rodelero SubMestre]{nl}            Trogen
+ETC_20151224_019961	[Submestre Rodelero]{nl}            Trogen
 ETC_20151224_019962	[Mestre Cataphract]{nl}           Dirk Drigg
 ETC_20151224_019963	[Mestre Thaumaturge]{nl}         Larisa
 ETC_20151224_019964	[Mestre Scout]{nl}    Recon Rimgaile
-ETC_20151224_019965	[Wugushi SubMestre]{nl}          May Patt
+ETC_20151224_019965	[Submestre Wugushi]{nl}          May Patt
 ETC_20151224_019966	Canyon Guild Mission
-ETC_20151224_019967	[Elementalist SubMestre]{nl}              Zeddie Berrant
+ETC_20151224_019967	[Submestre Elementalist]{nl}              Zeddie Berrant
 ETC_20151224_019968	Historic Site Ruins Dungeon
 ETC_20151224_019969	Lumber Pile
 ETC_20151224_019970	Lost Package
@@ -19977,9 +19977,9 @@ ETC_20151224_019971	Unidentified Dust
 ETC_20151224_019972	Lenha
 ETC_20151224_019973	Scared Settler
 ETC_20151224_019974	Somebody's Diary
-ETC_20151224_019975	[Psychokino SubMestre]{nl}          Cielle Gudan
-ETC_20151224_019976	[Linker SubMestre]{nl}      Roddie Kuska
-ETC_20151224_019977	[Hoplite SubMestre]{nl}        Vysiege Thurmore
+ETC_20151224_019975	[Submestre Psychokino]{nl}          Cielle Gudan
+ETC_20151224_019976	[Submestre Linker]{nl}      Roddie Kuska
+ETC_20151224_019977	[Submestre Hoplite]{nl}        Vysiege Thurmore
 ETC_20151224_019978	[Mestre Shinobi]{nl}  Yura Swanjone
 ETC_20151224_019979	Shinobi Mestre Trigger
 ETC_20151224_019980	Revived Believer
@@ -20234,7 +20234,7 @@ ETC_20160224_020228	Party Quest (2)
 ETC_20160224_020229	Trustworthy Ally
 ETC_20160224_020230	Progress in a party quest 300 times
 ETC_20160224_020231	Party Quest (3)
-ETC_20160224_020232	Daily Quest Count
+ETC_20160224_020232	Contagem Missão Diária
 ETC_20160224_020233	First Alphabet Event
 ETC_20160224_020234	Sicarius Gimmick
 ETC_20160224_020235	Legwyn Gimmick
@@ -20389,7 +20389,7 @@ ETC_20160224_020383	UI Log
 ETC_20160224_020384	Reaction time after clicking OBB TEST
 ETC_20160224_020385	Processing overtime log
 ETC_20160224_020386	Formats with %s are not used in clientmessage.xml due to multilingual word order issues.
-ETC_20160224_020387	Convent Auto Matching
+ETC_20160224_020387	Convent - Formar Grupo
 ETC_20160224_020388	Contains a variety of special benefits for all your characters in this server for 30 days. {nl}{img mouseclick_right 30 30} para usar.{nl}[Benefícios do Token]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Taxa de mercado reduzida (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the Internet Cafe benefits & EXP Tome effect){nl} - Permite usar gestos Premium
 ETC_20160224_020389	Place a piece of equipment on this anvil and hit it afterwards to upgrade the quality. Only equipment with a Potential of 1 or higher can be used. {nl}Upon failure, the Potential of the equipment will not be reduced.{nl}After a successful enhancement, the Potential of the equipment will reduce by one. {nl}{img mouseclick_right 30 30} para usar.
 ETC_20160224_020390	Enchant Scroll
@@ -24572,7 +24572,7 @@ ETC_20161005_024566	Soul Starved Demon
 ETC_20161005_024567	Red Sacrificial Crystal
 ETC_20161005_024568	Blue Sacrificial Crystal
 ETC_20161005_024569	Yellow Sacrificial Crystal
-ETC_20161005_024570	Barynwell 84 Waters
+ETC_20161005_024570	Barynwell 85 Waters
 ETC_20161005_024571	Barynwell 86 Waters
 ETC_20161005_024572	Barynwell 87 Waters
 ETC_20161005_024573	Astral Tower 1F
@@ -24885,7 +24885,7 @@ ETC_20161005_024879	The Beast has been wounded by the Revelator and Vilhelmas.
 ETC_20161005_024880	Damaged in accordance to the numbers that are shown as a result of the defense formation.
 ETC_20161005_024881	You receive the effects of buffs that can be shared among part members.
 ETC_20161005_024882	Advance towards the enemy while shooting.
-ETC_20161005_024883	Transfrom into a wolf. Consumes SP while transformed. Remain transformed while you have SP remaining.
+ETC_20161005_024883	Transfromed into a wolf. Consumes SP while transformed. Remain transformed while you have SP remaining.
 ETC_20161005_024884	Telepath: Crowd Control
 ETC_20161005_024885	Decrease Defesa Mágica
 ETC_20161005_024886	Increases Defesa Mágica for a period of time. 
@@ -27035,7 +27035,7 @@ ETC_20170313_027029	You can equip a maximum of {VALID_CNT} gems of the same type
 ETC_20170313_027030	This item cannot be used as material.
 ETC_20170313_027031	Item has reached maximum level.
 ETC_20170313_027032	Não pode ser usado enquanto refina um item.	강화 중에는 사용할 수 없습니다.				
-ETC_20170313_027033	Não é possível aprimorar ou transcender itens enquanto {BUFFNAME} estiver ativo.	{BUFFNAME} 적용 중에는 강화 또는 초월할 수 없습니다.				
+ETC_20170313_027033	Não é possível refinar ou transcender itens enquanto {BUFFNAME} estiver ativo.	{BUFFNAME} 적용 중에는 강화 또는 초월할 수 없습니다.				
 ETC_20170313_027034	O nome da loja deve ter menos de {ENG_LEN} caracteres.	상점 이름은 최대 한글 {KOR_LEN}자,{nl}영문 {ENG_LEN}자 이내 이어야 합니다.				
 ETC_20170313_027035	O preço de identificação deve ser inferior a {PRICE}.
 ETC_20170313_027036	Básico: Status Básico, com bônus de avanço{nl}Investido: Pontos investidos{nl}Outros: Pontos de itens equipados e outros
@@ -27556,9 +27556,9 @@ ETC_20170330_027529	Investigation Room	칼레이마스 심문실
 ETC_20170330_027530	Ruklys Hall of Fame	대지의 요새 루클리스 전당				
 ETC_20170330_027531	Extension	대지의 요새 확장구역				
 ETC_20170330_027532	Evacuation Residential District	대지의 요새 피난거주구				
-ETC_20170330_027533	Tough Luck	소길				
+ETC_20170330_027533	Small Blessing	소길				
 ETC_20170330_027534	Use this and good things are sure to come your way.	착용하고 있으면 좋은 일이 생길 것 같다.				
-ETC_20170330_027535	Lucky One	중길				
+ETC_20170330_027535	Middle Blessing	중길				
 ETC_20170330_027536	Golden Luck	길				
 ETC_20170330_027537	Eternal Fortune	대 길				
 ETC_20170330_027538	Life is Sweet	달콤한 인생				
@@ -27769,11 +27769,11 @@ ETC_20170420_027742	"At the Mercenary Post in Klaipeda, you can play different t
 ETC_20170420_027743	 Klaipeda's  	 클라페다의 	ETC_20170313_026882	 At Fedimian's 	 페디미안의 	
 ETC_20170420_027744	{nl} {nl}In hunting grounds you will also find elite versions of other monsters.	{nl} {nl}또한 프리던전에는 몸집이 거대한 엘리트 몬스터가 등장합니다.	ETC_20170313_026904	{nl} {nl}In hunting grounds you will also find giant versions of other monsters.	{nl} {nl}또한 프리던전에는 몸집이 거대한 자이언트 몬스터가 등장합니다.	
 ETC_20170420_027745	Unidentified items can be identified at the Appraiser Sandra NPC or the Blacksmith NPC  in Fedimian. 	획득한 미감정 아이템은 페디미안의 감정사 산드라와 도시의 대장장이를 통해 감정할 수 있습니다. 	ETC_20170313_026907	Unidentified items can be identified at the Identifier Sandra NPC in Fedimian. 	획득한 미감정 아이템은 페디미안의 감정사 산드라를 통해 감정할 수 있습니다. 	
-ETC_20170420_027746	Normal	노말				
-ETC_20170420_027747	Magic	매직				
-ETC_20170420_027748	Rare	레어				
-ETC_20170420_027749	Unique	유니크				
-ETC_20170420_027750	Legend	레전드				
+ETC_20170420_027746	Normal
+ETC_20170420_027747	Mágico
+ETC_20170420_027748	Raro
+ETC_20170420_027749	Único
+ETC_20170420_027750	Lendário
 ETC_20170420_027751	Stat Reset Potion (1 Day)	스탯 초기화 포션 (1일)				
 ETC_20170420_027752	Skill Reset Potion (1 Day)	스킬 초기화 포션 (1일)				
 ETC_20170420_027753	Rank Reset Voucher (1 Day)	랭크 초기화권 (1일)				
@@ -27852,7 +27852,7 @@ ETC_20170420_027825	No attributes to apply.	착용할 수 있는 특성이 없�
 ETC_20170420_027826	Dano Adicional: Psíquico{img notice_br_link 17 17}		ETC_20161108_025742	Psychokinesis Property Attack	염속성 공격력	
 ETC_20170420_027827	Dano Adicional: Fogo{img attri_Fire 23 23}			
 ETC_20170420_027828	Dano Adicional: Gelo{img attri_Ice 23 23}			
-ETC_20170420_027829	Dano Adicional: Elétrico{img attri_Lightning 23 23} 		
+ETC_20170420_027829	Dano Adicional: Raio{img attri_Lightning 23 23} 		
 ETC_20170420_027830	Dano Adicional: Terra{img attri_Earth 23 23}	땅 속성 추가 대미지				
 ETC_20170420_027831	Dano Adicional: Veneno{img attri_Poison 23 23}	독 속성 추가 대미지				
 ETC_20170420_027832	Dano Adicional: Divino{img attri_Holy 23 23}	신성 속성 추가 대미지				
@@ -28889,7 +28889,7 @@ ETC_20170912_028862	Tem certeza de que deseja denunciar {Name} pelo emblema inap
 ETC_20170912_028863	{Name} foi reportado. Obrigado.
 ETC_20170912_028864	Use the {Key} key to make {Target} become {Done}.
 ETC_20170912_028865	Uphill Defense Shop
-ETC_20170912_028866	Não é possível criar ou aprimorar itens dentro de dungeons e missões instanciadas.
+ETC_20170912_028866	Não é possível criar ou refinar itens dentro de dungeons e missões instanciadas.
 ETC_20170912_028867	Maça de 2 Mãos
 ETC_20170912_028868	Não pode ser usado ainda.
 ETC_20170912_028869	Não é possível usar a habilidade Forge perto de uma forja.
@@ -31334,7 +31334,7 @@ ETC_20180208_031302	Resistência Elemental Gelo +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031303	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs de Fogo
 ETC_20180208_031304	Resistência a Silêncio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031305	{@st66d_y}{s16}[%d]{/}{/}%% chance de reduzir o dano em 10%% for 5 sec
-ETC_20180208_031306	Resistência ao Elemento Elétrico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031306	Resistência ao Elemento Raio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031307	Defesa a Perfurante +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031308	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs das Trevas
 ETC_20180208_031309	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs de Veneno
@@ -31342,7 +31342,7 @@ ETC_20180208_031310	Dano contra alvos Dormindo +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031311	Dano contra monstros tipo Fogo +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031312	DEX +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031313	SPR +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031314	Dano contra monstros tipo Elétrico {@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031314	Dano contra monstros tipo Raio {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031315	DEX +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031316	Dano Elemental Divino +{@st66d_y}{s16}[%d]{/}
 ETC_20180208_031317	Resistência Elemental Divino +{@st66d_y}{s16}[%d]{/}{/}
@@ -31394,7 +31394,7 @@ ETC_20180208_031362	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 1%% de SP ao
 ETC_20180208_031363	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de aumentar +4 veloc. de mov por 6 seg
 ETC_20180208_031364	INT +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031365	Dano a inimigos Caídos +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031366	Dano Elemental Elétrico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031366	Dano Elemental Raio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031367	Resistência a Atordoar +{@st66d_y}{s16}[%d]{/}{/}, Resistência a Sono +{@st66d_y}{s16}[%d]{/}{/} 
 ETC_20180208_031368	Taxa de Ataque em Área +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031369	HP Max. +{@st66d_y}{s16}[%d]{/}{/}
@@ -32187,8 +32187,8 @@ ETC_20180418_032155	Onmyoji Advancement
 ETC_20180418_032156	Blessed Shards cannot be extracted.{nl} {nl} - Cannot extract from items of Stage 2 and below.{nl} {nl} - Using the scroll requires  
 ETC_20180418_032157	Blessed Gems successfully used for transcendence
 ETC_20180418_032158	.
-ETC_20180418_032159	Itens que foram aprimorados, transcendidos, adicionados soquetes, equipados com gemas ou de outra forma {nl} {@st66d_y}{s19} processados{/}{/} não podem ser usados para aprimorar cartas.
-ETC_20180418_032160	Equipamentos que foram {@st47}{s18}aprimorados, transcendidos, equipados com gemas, soquetes abertos ou despertados{/}{/} podem ser desmontados.
+ETC_20180418_032159	Itens que foram refinados, transcendidos, adicionados soquetes, equipados com gemas ou de outra forma {nl} {@st66d_y}{s19} processados{/}{/} não podem ser usados para aprimorar cartas.
+ETC_20180418_032160	Equipamentos que foram {@st47}{s18}refinados, transcendidos, equipados com gemas, soquetes abertos ou despertados{/}{/} podem ser desmontados.
 ETC_20180418_032161	Clique no item para transcender.
 ETC_20180418_032162	Este item não pode ser transcendido.
 ETC_20180418_032163	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable{/}.{nl} - If transcendence {#62100c}fails{/}, the item's potential is {#62100c}reduced by 1{/}.
@@ -34291,7 +34291,7 @@ ETC_20180629_034255	Dimension Honeypin
 ETC_20180629_034256	Dimension Helgasercle
 ETC_20180629_034257	Dimension Specter of Deceit
 ETC_20180629_034258	Dimension Gray Golem
-ETC_20180629_034259	Change Weapon Appearance
+ETC_20180629_034259	Alterar Aparência de Arma
 ETC_20180629_034260	Exchange Weapon Voucher
 ETC_20180629_034261	Can you help me craft a Blessed Goddess Statue?
 ETC_20180629_034262	You need to know about the soldiers in Nheto Forest.
@@ -36370,7 +36370,7 @@ ETC_20181017_036284	Shut Down Data	셧다운 관련 정보
 ETC_20181017_036285	37127 bug tracker	37127 버그 추적을 위한...				
 ETC_20181017_036286	Failed to acquire Market Web Server URL. Check server_info.	Market Web Server URL 획득에 실패하였습니다. server_info 확인 필요.				
 ETC_20181017_036287	Market Web error log	마켓 웹서버 에러 로그				
-ETC_20181017_036288	Materiais de Aprimoramento
+ETC_20181017_036288	Materiais de Refino
 ETC_20181017_036289	Armas Principais
 ETC_20181017_036290	Armas Secundárias
 ETC_20181017_036291	Trajes Especiais
@@ -36496,7 +36496,7 @@ ETC_20181017_036410	Unable to apply Enchant Jewel ({REASON}).	인챈트 쥬얼�
 ETC_20181017_036411	Failed to apply Rare stats.	레어 옵션 부여에 실패했습니다.				
 ETC_20181017_036412	Change [Enchant Stat]. The stat will be applied immediately and cannot be reverted.{nl}If you equip multiple items with the same Enchant Stat, only the highest value will apply to the character.{nl}Continue?	[인챈트 옵션]을 변경합니다. 옵션은 바로 적용되며 되돌릴 수 없습니다.{nl} 동일한 인챈트 옵션을 가진 장비 아이템 여러 개를 장착하는 경우, 가장 높은 수치의 인챈트 옵션만 캐릭터에게 적용됩니다.{nl}진행하시겠습니까?				
 ETC_20181017_036413	Updating trade limits. Please try again.	거래 한도를 받아오는 중입니다. 다시 시도해주세요.				
-ETC_20181017_036414	Your current market trade limit is {AMOUNT} Silver.{nl}Are you sure you want to complete the purchase?	현재 남은 마켓 거래 한도는 {AMOUNT} 실버 입니다.{nl}정말 구매하시겠습니까?				
+ETC_20181017_036414	O seu limite atual do Mercado é{nl}{AMOUNT} Silver.{nl}Tem certeza de que deseja{nl}completar esta compra?
 ETC_20181017_036415	Enchant stats cannot be applied to currently equipped items.	장착 중인 장비에 인챈트 옵션을 부여할 수 없습니다.				
 ETC_20181017_036416	Insert the equipment you want to change the appearance for.	외형을 변경할 장비를 먼저 등록해주세요.				
 ETC_20181017_036417	You can no longer save Market search options.	더 이상 마켓 검색 옵션을 저장할 수 없습니다.				
@@ -36513,7 +36513,7 @@ ETC_20181017_036427	By Level	레벨순
 ETC_20181017_036428	You cannot create a new character because the [Lodge{layer]]is full.{nl}Please try again in a different lodge.	현재 [숙소{layer}]가 가득차 더 이상 캐릭터를 생성할 수 없습니다. 숙소를 변경하여 시도해 주세요.				
 ETC_20181017_036429	Exceeded Market trade limit ({LIMIT} Silver).	마켓 거래 한도인 {LIMIT}실버를 초과하였습니다.	ETC_20161214_026110	Exceeded the maximum silver limit of {LIMIT}.	등록 가능한 최대 금액인 {LIMIT}실버를 초과하였습니다.	
 ETC_20181017_036430	You cannot have more than {MaxStack} [{Name}] items.	[{Name}] 아이템은 {MaxStack}개 이상 소유할 수 없습니다.				
-ETC_20181017_036431	{#ffc500}{s14}Option applied	{#ffc500}{s14}옵션 적용중				
+ETC_20181017_036431	{#ffc500}{s14}Filtro aplicado
 ETC_20181017_036432	{TeamName}'s Camp	{TeamName}의 캠프				
 ETC_20181017_036433	{TeamName}'s Table	{TeamName}의 배식대				
 ETC_20181017_036434	Participation: {COUNT} time(s){nl}No. selected: {NUMLIST}{nl}Rewards	참여횟수 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상	ETC_20170313_027060	Total count: {COUNT}{nl}Selected numbers: {NUMLIST}{nl}Reward(	누적 출석 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상(	
@@ -36708,7 +36708,7 @@ ETC_20190104_036622	TBL Ranking Reward [Resets Mondays at 06:00]	팀 배틀 리�
 ETC_20190104_036623	Collection	컬렉션			
 ETC_20190104_036624	Jovial Collector	즐기는 수집가			
 ETC_20190104_036625	You have completed over 50 collections.	완성한 컬렉션이 50개를 넘겼습니다.			
-ETC_20190104_036626	50 completed collections	컬렉션 완성 수 50개			
+ETC_20190104_036626	Complete 50 collections	컬렉션 완성 수 50개				
 ETC_20190104_036627	Obsessive Collector	집착의 수집가			
 ETC_20190104_036628	You have completed over 100 collections.	완성한 컬렉션이 100개를 넘겼습니다.			
 ETC_20190104_036629	Complete 100 collections	컬렉션 완성 수 100개			
@@ -36967,11 +36967,11 @@ ETC_20190104_036881	Use to select one of the following items.{nl} - Giltine Foll
 ETC_20190104_036882	Giltine Follower Hood Box	길티네 추종자의 두건 상자			
 ETC_20190104_036883	Use to select one of the following items.{nl} - Giltine Follower Hood (M) x1{nl} - Giltine Follower Hood (F) x1{nl} - Giltine's Hood x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 길티네 추종자의 두건(남) 1개{nl} - 길티네 추종자의 두건(여) 1개{nl} - 길티네의 두건 1개			
 ETC_20190104_036884	Token: Starter Package	토큰: 스타터 패키지			
-ETC_20190104_036885	Use to obtain all of the following items.{nl} - Token x1{nl} - Megaphone x20{nl} - Warp Scroll x10{nl} - Soul Crystal x10{nl} - Lv 15 Basic Condensed HP Potion x100{nl} - Lv 15 Basic Condensed HP Potion x100{nl} - Attribute Points: 1,000 x3{nl} - Silver Box: 1,000,000 x1	사용 시 아래의 구성물 모두를 획득할 수 있습니다.{nl} - 토큰 1개{nl} - 확성기 20개{nl} - 워프 주문서 10개{nl} - 소울 크리스탈 10개{nl} - 보급용 농축 HP 포션 LV15 100개{nl} - 보급용 농축 SP 포션 LV15 100개{nl} - 특성 포인트 1,000 3개{nl} - 실버 상자: 1,000,000 1개			
+ETC_20190104_036885	Use to obtain all of the following items.{nl} - Token x1{nl} - Megaphone x20{nl} - Warp Scroll x10{nl} - Soul Crystal x10{nl} - Lv 15 Basic Condensed HP Potion x100{nl} - Lv 15 Basic Condensed SP Potion x100{nl} - Attribute Points: 1,000 x3{nl} - Silver Box: 1,000,000 x1	사용 시 아래의 구성물 모두를 획득할 수 있습니다.{nl} - 토큰 1개{nl} - 확성기 20개{nl} - 워프 주문서 10개{nl} - 소울 크리스탈 10개{nl} - 보급용 농축 HP 포션 LV15 100개{nl} - 보급용 농축 SP 포션 LV15 100개{nl} - 특성 포인트 1,000 3개{nl} - 실버 상자: 1,000,000 1개				
 ETC_20190104_036886	Token: Advanced Package	토큰: 어드밴스드 패키지			
-ETC_20190104_036887	Use to obtain all of the following items.{nl} - Token x1{nl} - x8 EXP Tome x4{nl} - Instanced Dungeon Reset Voucher x10{nl} - Challenge Mode One Entry Voucher x20{nl} - Challenge Portal Scroll x20{nl} - Superior Urgent Repair Kit x10{nl} - Lv 15 Basic Condensed HP Potion x100{nl} - Lv 15 Basic Condensed HP Potion x100{nl} - Attribute Points: 1,000 x5	사용 시 아래의 구성물 모두를 획득할 수 있습니다.{nl} - 토큰 1개{nl} - x8 경험의 서 4개{nl} - 인스턴스 던전 입장 횟수 초기화권 10개{nl} - 챌린지 모드 1회 입장권 20개{nl} - 챌린지 포탈 생성 스크롤 20개{nl} - 최고급 긴급 수리 키트 10개{nl} - 보급용 농축 HP 포션 LV15 100개{nl} - 보급용 농축 SP 포션 LV15 100개{nl} - 특성 포인트 1,000 5개			
+ETC_20190104_036887	Use to obtain all of the following items.{nl} - Token x1{nl} - x8 EXP Tome x4{nl} - Instanced Dungeon Reset Voucher x10{nl} - Challenge Mode One Entry Voucher x20{nl} - Challenge Portal Scroll x20{nl} - Superior Urgent Repair Kit x10{nl} - Lv 15 Basic Condensed HP Potion x100{nl} - Lv 15 Basic Condensed SP Potion x100{nl} - Attribute Points: 1,000 x5	사용 시 아래의 구성물 모두를 획득할 수 있습니다.{nl} - 토큰 1개{nl} - x8 경험의 서 4개{nl} - 인스턴스 던전 입장 횟수 초기화권 10개{nl} - 챌린지 모드 1회 입장권 20개{nl} - 챌린지 포탈 생성 스크롤 20개{nl} - 최고급 긴급 수리 키트 10개{nl} - 보급용 농축 HP 포션 LV15 100개{nl} - 보급용 농축 SP 포션 LV15 100개{nl} - 특성 포인트 1,000 5개				
 ETC_20190104_036888	Token: Premium Package	토큰: 프리미엄 패키지			
-ETC_20190104_036889	Use to obtain all of the following items.{nl} - Token x3{nl} - Silver Anvil x10{nl} - Golden Anvil x3{nl} - Lv 10 Enhancement Card x3{nl} - 5-Star Gem Abrasive x5{nl} - Premium Awakening Stone x3{nl} - Monster Card Album: All Colors x3{nl} - Raid Portal Stone x20{nl} - Challenge Mode One Entry Voucher x10{nl} - Challenge Portal Scroll x10{nl} - Superior Urgent Repair Kit x10{nl} - Lv 15 Basic Condensed HP Potion x100{nl} - Lv 15 Basic Condensed HP Potion x100{nl} - Attribute Points: 10,000 x5	사용 시 아래의 구성물 모두를 획득할 수 있습니다.{nl} - 토큰 3개{nl} - 은빛 모루 10개{nl} - 황금 모루 3개{nl} - Lv10 강화용 카드 3개{nl} - 5성 젬 연마제 5개{nl} - 프리미엄 각성석 3개{nl} - 몬스터 카드첩: 올컬러 3개{nl} - 레이드 포탈 스톤 20개{nl} - 챌린지 모드 1회 입장권 10개{nl} - 챌린지 포탈 생성 스크롤 10개{nl} - 최고급 긴급 수리 세트 10개{nl} - 보급용 농축 HP 포션 LV15 100개{nl} - 보급용 농축 SP 포션 LV15 100개{nl} - 특성 포인트 10,000 5개			
+ETC_20190104_036889	Use to obtain all of the following items.{nl} - Token x3{nl} - Silver Anvil x10{nl} - Golden Anvil x3{nl} - Lv 10 Enhancement Card x3{nl} - 5-Star Gem Abrasive x5{nl} - Premium Awakening Stone x3{nl} - Monster Card Album: All Colors x3{nl} - Raid Portal Stone x20{nl} - Challenge Mode One Entry Voucher x10{nl} - Challenge Portal Scroll x10{nl} - Superior Urgent Repair Kit x10{nl} - Lv 15 Basic Condensed HP Potion x100{nl} - Lv 15 Basic Condensed SP Potion x100{nl} - Attribute Points: 10,000 x5	사용 시 아래의 구성물 모두를 획득할 수 있습니다.{nl} - 토큰 3개{nl} - 은빛 모루 10개{nl} - 황금 모루 3개{nl} - Lv10 강화용 카드 3개{nl} - 5성 젬 연마제 5개{nl} - 프리미엄 각성석 3개{nl} - 몬스터 카드첩: 올컬러 3개{nl} - 레이드 포탈 스톤 20개{nl} - 챌린지 모드 1회 입장권 10개{nl} - 챌린지 포탈 생성 스크롤 10개{nl} - 최고급 긴급 수리 세트 10개{nl} - 보급용 농축 HP 포션 LV15 100개{nl} - 보급용 농축 SP 포션 LV15 100개{nl} - 특성 포인트 10,000 5개				
 ETC_20190104_036890	Silver Chest: 1,000,000	실버 상자: 1,000,000			
 ETC_20190104_036891	You can obtain 1,000,000 silver when used.	사용 시 1,000,000 실버를 획득할 수 있습니다.			
 ETC_20190104_036892	Use to obtain all of the following items.{nl} - Class Change Voucher Lv 3 x1{nl} - Skill+Attribute Reset Package x1	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 클래스 변경권 Lv.3 1개{nl} - 스킬 + 특성 초기화 포션 패키지 1개			
@@ -37027,7 +37027,7 @@ ETC_20190104_036941	Clerics foram aprendizes do clero que completaram seu treina
 ETC_20190104_036942	Vários Priests atuavam próximos da Capital do Reino, sendo assim uma classe de Cleric que mais sofreu perdas com Medzio Diena. O Priest mais velho que se sabe ter sobrevivido deve ter em torno de trinta anos de idade.{nl}Priests são Clerics que dão bênçãos e reanimam os derrotados com seus poderes sagrados.
 ETC_20190104_036943	Krivis são praticantes da adoração tradicional à Deusa. Eles mantém a tradição e autenticidade de seus atos, constituindo-se de vários Clerics mais velhos. A maioria dos Krivis não desvia do caminho que escolheu trilhar, colocando sua fé e suas tradições acima de tudo.{nl}Krivis são Priests que usam o fogo divino para auxiliar aliados a se recuperarem, ou para causar dano massivo aos inimigos.
 ETC_20190104_036944	Druids canalizam seus poderes com a Deusa através de uma conexão espiritual com a natureza, materializando este poder espiritual no mundo. Druids são Clerics que usam o poder da natureza.{nl}Druids utilizam os poderes da natureza para controlar plantas que auxiliam aliados em batalha, além de se transformarem em monstros para utilizarem suas habilidades.
-ETC_20190104_036945	Alguns entram no clero através do aprendizado, outros recebem a bênção da Deusa diretamente para serem escolhidos como seus representantes no mundo. Sadhu é um grupo que foi cuidadosamente selecionado pela Deusa e treinado para servir diretamente em nosso mundo. São mais xamanistas por natureza, mestres dos sonhos e do sono.{nl}Sadhu pode usar seu espírito para atacar inimigos com ataques imprevistos, ou passar seus poderes para terceiros.
+ETC_20190104_036945	Alguns entram no clero através do aprendizado, outros recebem a bênção da Deusa diretamente para serem escolhidos como seus representantes no mundo. Sadhu é um grupo que foi cuidadosamente selecionado pela Deusa e treinado para servir diretamente em nosso mundo. São mais xamanistas por natureza, mestres dos sonhos e do sono.{nl}Sadhu pode usar seu espírito para atacar inimigos com ataques imprevistos.
 ETC_20190104_036946	Até hoje houve somente um Mestre Dievdirbys, desde que foram oficialmente reconhecidos como membros do clero pelo Reino. Ele ainda mantém sua posição, e todos que treinaram para se tornar Dievdirbys estudaram pelo menos uma vez com Tesla, o Mestre Dievdirbys.{nl}Dievdirbys podem esculpir estátuas sagradas. Suas estátuas podem proteger aliados ou atacar inimigos.
 ETC_20190104_036947	Oracles são porta-vozes da Deusa, aqueles que respondem as dúvidas das pessoas. A Deusa não interfere no livre arbítrio dos homens, então várias profecias são passadas por simbolismo e metáfora. Até hoje, estando a Deusa inalcançável, Oracles podem entregar profecias, pois a vontade da Deusa garante sabedoria ilimitada mesmo estando ausente.{nl}Oracles são Clerics que possuem premonição. Podem predizer ou interferir no ataque inimigo e determinar seu destino.
 ETC_20190104_036948	Monks são Clerics que adoram a Deusa através do treinamento físico. Servem à Deusa e provêm seus serviços através de proezas físicas, agindo em livre arbítrio ao invés de realizar somente o desejo e as profecias da Deusa.{nl}Monks são Clerics que treinam artes marciais através da bênção da Deusa.
@@ -37051,7 +37051,7 @@ ETC_20190104_036965	{/}{/}{#7AE4FF}{ol}[Disponível a partir do Segundo Avanço]
 ETC_20190104_036966	Thaumaturges, diferente de outros Wizards, não aprendem magia, mas desenvolvem talentos enquanto descobrem como a magia funciona. Por causa desta diferença, habilidades mágicas latentes são consideradas as mais importantes características de um Thaumaturge de sucesso.{nl}Thaumaturge usa magias que alteram as propriedades e tamanhos dos alvos. Podem reduzir inimigos ou fortalecer aliados em batalha.
 ETC_20190104_036967	A história dos Enchanters é relativamente curta. Jane, aprendiz de Agailla Flurry, não podia usar magia e não passou nos estudos para ser aprendiz, porém seus estudos foram a base para o que viria a ser a arte do encantamento.{nl}Um Enchanter é capaz de auxiliar aliados criando itens ou encantando equipamentos.
 ETC_20190104_036968	Linkers buscam pelo elo entre diferentes materiais, usando estas conexões em busca de um resultado específico. Sua arte gira em torno de encontrar estes elos escondidos entre objetos mundanos, além da imaginação para aplicar e apropriar estas conexões para gerar novos efeitos.{nl}Linkers conectam aliados para reduzir o dano recebido, ou conectam inimigos para aumentar o dano causado.
-ETC_20190104_036969	Rogues eram pessoas procuradas pelo Reino, mas ganharam perdão após a assistência que deram para diversos aventureiros. Há mais ou menos 300 anos, durante o reinado de Nachel I, receberam o perdão que garante imunidade de punição, a não ser que seus crimes fossem muito sérios, como assassinatos ou traição.{nl}Um Rogue fará o que for preciso para vencer uma batalha. É uma classe especializada em emboscar furtivamente os alvos pelas costas, usando suas adagas.
+ETC_20190104_036969	Rogues eram pessoas procuradas pelo Reino, mas ganharam perdão após a assistência que deram para diversos aventureiros. Há mais ou menos 300 anos, durante o reinado de Nachel I, receberam o perdão que garante imunidade de punição, a não ser que seus crimes fossem muito sérios, como assassinatos ou traição.{nl}Um Rogue fará o que for preciso para vencer uma batalha. É uma classe especializada em emboscar furtivamente os alvos pelas costas.
 ETC_20190104_036970	Schwarzer Reiters são uma das principais unidades militares que formam o Exército Real, existindo desde o reinado de Sawsel II. Recentemente iniciaram trabalhos como mercenários, mas seus números cresceram pouco quando foram agrupados como forças especiais do serviço real.{nl}Schwarzer Reiters possuem manobras rápidas. São especializados em diversas técnicas de tiro utilizando Pistola.
 ETC_20190104_036971	Bullet Markers foram estabelecidos muito recentemente, surgindo agora na atualidade. Sendo relativamente nvoos, Flint Winterwood é o primeiro Mestre da classe. O futuro deles está nas mãos daqueles que carregarão o nome de Bullet Marker.
 ETC_20190104_036972	SP {img green_up_arrow 16 16} 1435 {nl}Sumazinti{nl} - Reduces the magic defense of 5 enemies nearby by 15% for 10 seconds (cooldown 100 seconds){nl} {nl}Dragon Strength Lv 1 Effects{nl} - Duration increased to 15 seconds and magic defense reduction increased to 20%	SP {img green_up_arrow 16 16} 1435 {nl}슈마진{nl} - 사용시 10초간 전방의 적 5명에게 마법 방어력 15% 감소 (재사용 대기 시간 100초){nl} {nl}드래곤 기운 1단계 효과{nl} - 유지시간 15초 마법 방어력 20% 감소로 변경	ETC_20180517_032670	SP {img green_up_arrow 16 16} 1435 {nl}Sumazinti{nl} - Reduces the magic defense of 5 enemies nearby by 15% for 10 sec (cooldown 100 sec).	SP {img green_up_arrow 16 16} 1435 {nl}슈마진{nl} - 사용시 10초간 전방의 적 5명에게 마법 방어력 15% 감소 (재사용 대기 시간 100초)
@@ -37138,17 +37138,17 @@ ETC_20190104_037052	Physical Critical Attack {img green_up_arrow 16 16}225{nl}Ac
 ETC_20190104_037053	Magic critical attack {img green_up_arrow 16 16}60	마법 치명타 공격력 {img green_up_arrow 16 16}60 증가	ETC_20180517_032716	Magic Amplification {img green_up_arrow 16 16}60	마법 증폭 {img green_up_arrow 16 16}60 증가
 ETC_20190104_037054	AoE Attack Ratio {img green_up_arrow 16 16}1{nl}Physical critical attack {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl} 물리 치명타 공격력 {img green_up_arrow 16 16}231	ETC_20180517_032720	AoE Attack Ratio {img green_up_arrow 16 16}1{nl}Critical Attack {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl} 치명타 공격력 {img green_up_arrow 16 16}231
 ETC_20190104_037055	Drakonas Kite Moor Set	드라코나스 카이트 무어 세트			
-ETC_20190104_037056	Resistance to Poison, Fire, Ice, Electricity, Dark and Psychokinesis property attacks {img green_up_arrow 16 16}150	독, 불, 얼음, 전기, 독, 어둠, 신성, 땅, 염 속성 저항력 {img green_up_arrow 16 16}150 증가			
+ETC_20190104_037056	Resistance to Poison, Fire, Ice, Electricity, Dark, Psychokinesis, Holy and Earth property attacks {img green_up_arrow 16 16}150	독, 불, 얼음, 전기, 독, 어둠, 신성, 땅, 염 속성 저항력 {img green_up_arrow 16 16}150 증가				
 ETC_20190104_037057	Increases the additional Holy-property damage on every attack by a value equal to your property resistance.{nl}- Properties: Poison, Fire, Ice, Electricity, Poison, Dark, Holy, Earth, Psychokinesis (max. 1,500 increase){nl} {nl}Dragon Strength Lv 2 Effects{nl}Additional Holy-property damage increased by a value equal to 8% of your magic defense (max. 4,000 increase).	공격시 속성 저항력만큼 신성 속성 추가 대미지 증가 {nl}- 적용 속성: 독, 불, 얼음, 전기, 독, 어둠, 신성, 땅, 염(최대: 1,500 증가){nl} {nl}드래곤 기운 2단계 효과{nl}마법 방어력의 8%만큼 신성 속성 공격력이 증가합니다.(최대 4,000 증가)			
 ETC_20190104_037058	Drakonas Frieno Set	드라코나스 프리에노 세트			
-ETC_20190104_037059	AoE Attack Ratio {img green_up_arrow 16 16}3{nl}Physical critical attack {img green_up_arrow 16 16}353	광역 공격 비율 {img green_up_arrow 16 16} 3증가{nl}물리 치명타 공격력 {img green_up_arrow 16 16} 353증가			
+ETC_20190104_037059	AoE Attack Ratio {img green_up_arrow 16 16}3{nl}Physical Critical Attack {img green_up_arrow 16 16}353	광역 공격 비율 {img green_up_arrow 16 16} 3증가{nl}물리 치명타 공격력 {img green_up_arrow 16 16} 353증가				
 ETC_20190104_037060	Gives you 20% chance to inflict between 5000-8000 damage to 10 nearby enemies that are attacked.{nl}Dragon Strength Lv 2{nl}Damage received by target from Drakonas Frieno increases by 10% with a reduced number of enemies targetted.	20% 확률로 피격된 주위의 적 10명에게 5000 ~ 8000의 대미지를 입힙니다.{nl} {nl}드래곤 기운 2단계 효과{nl}대상 적이 적을수록 드라코나스 프리에노의 대미지가 10%씩 상승합니다.			
 ETC_20190104_037061	Drakonas Pasiutes Set	드라코나스 파시우테스 세트			
-ETC_20190104_037062	Critical rate {img green_up_arrow 16 16}135{nl}Physical critical attack {img green_up_arrow 16 16}657	치명타 발생 {img green_up_arrow 16 16}135증가{nl}물리 치명타 공격력  {img green_up_arrow 16 16}657증가			
+ETC_20190104_037062	Critical Rate {img green_up_arrow 16 16}135{nl}Physical Critical Attack {img green_up_arrow 16 16}657	치명타 발생 {img green_up_arrow 16 16}135증가{nl}물리 치명타 공격력  {img green_up_arrow 16 16}657증가				
 ETC_20190104_037063	ENH: Critical rate increases by (5 * sum total ENH Lv of equipped accessories). (Increases up to a maximum of 150){nl} {nl}Dragon Strength Lv 2{nl}TRA: Increases physical critical attack by (30 * sum total TRA Lv of equipped accessories) when under the effect of Dragon Strength.	강화: 치명타 발생 (5 * 악세사리 강화 총합)만큼 상승합니다.(최대 150까지 적용){nl} {nl}드래곤 기운 2단계 효과{nl}초월: 장착시 드래곤 기운이 있을 경우 물리 치명타 공격력 (30 * 악세사리 초월 수치 총합)만큼 상승합니다.			
 ETC_20190104_037064	Drakonas Lynnki Sit Set	드라코나스 리느키 시트 세트			
-ETC_20190104_037065	HP {img green_up_arrow 16 16}35{nl}Casting time reduced by 10%{nl}Magic critical attack {img green_up_arrow 16 16}452	체력 {img green_up_arrow 16 16} 35증가{nl}캐스팅 시간 10% 감소{nl}  마법 치명타 공격력 {img green_up_arrow 16 16}452증가			
-ETC_20190104_037066	Gives you 5% chance to tie down the enemy for 3 seconds.{nl}Dragon Strength Lv 2{nl}The magic defense of tied down enemies is reduced by 15%{/} Elite and Boss monsters will only have their defenses reduced.	공격시 5% 확률로 3초간 적 을 묶어둡니다.{nl} {nl}드래곤 기운 2단계 효과{nl}묶인 적은 마법 방어력이 15% 감소합니다.{nl} 엘리트, 보스급 몬스터는 방어력 감소만 적용됩니다.			
+ETC_20190104_037065	CON {img green_up_arrow 16 16}35{nl}Casting time reduced by 10%{nl}Magic Critical Attack {img green_up_arrow 16 16}452	체력 {img green_up_arrow 16 16} 35증가{nl}캐스팅 시간 10% 감소{nl}  마법 치명타 공격력 {img green_up_arrow 16 16}452증가				
+ETC_20190104_037066	Gives you 5% chance to tie down the enemy for 3 seconds.{nl}Dragon Strength Lv 2{nl}The magic defense of tied down enemies is reduced by 15%.{nl}{/} Elite and Boss monsters will only have their defenses reduced.	공격시 5% 확률로 3초간 적 을 묶어둡니다.{nl} {nl}드래곤 기운 2단계 효과{nl}묶인 적은 마법 방어력이 15% 감소합니다.{nl} 엘리트, 보스급 몬스터는 방어력 감소만 적용됩니다.				
 ETC_20190104_037067	Attribute Point Extraction Fee	특성 포인트 추출 수수료			
 ETC_20190104_037068	Attribute Point Scroll Exchange Ratio	특성 포인트 스크롤 교환 비율			
 ETC_20190104_037069	Guild Rejoin Penalty (YES: 1 or NO: 0)	길드 재가입 시, 패널티 체크 여부(YES:1 or NO:0)			
@@ -37435,7 +37435,7 @@ ETC_20190104_037349	One of the following bonuses will be added at random.	다음
 ETC_20190104_037350	Using the maximum number of Magic Stones to attempt enhancement with the highest success rate.	마정석 개수를 최대로 사용하여 최대 확률로 강화를 시도합니다.			
 ETC_20190104_037351	You have not registered the maximum number of Magic Stones.	현재 마정석 개수가 최대가 아닙니다.			
 ETC_20190104_037352	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable via 1:1{/}.{nl} - If transcendence {#62100c}fails{/}, the item's potential is {#62100c}reduced by 1{/}.	아이템 변경사항 안내{nl} {nl} - 아이템이 {Before}초월에서{#62100c}{After}초월{/}로 변경 {nl} - 초월 성공시{#62100c}1:1거래가 불가능{/} 합니다.{nl} - 초월{#62100c}실패시{/} 포텐셜이{#62100c}1감소{/} 합니다.	ETC_20180418_032163	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable{/}.{nl} - If transcendence {#62100c}fails{/}, the item's potential is {#62100c}reduced by 1{/}.	아이템 변경사항 안내{nl} {nl} - 아이템이 {Before}초월에서{#62100c}{After}초월{/}로 변경 {nl} - 초월 성공시{#62100c}모든 거래가 불가능{/} 합니다.{nl} - 초월{#62100c}실패시{/} 포텐셜이{#62100c}1감소{/} 합니다.
-ETC_20190104_037353	Use Steam Guard	U-OTP 또는 넥슨 OTP 사용	ETC_20181017_036420	Steam Guard	OTP 또는 플레이 패스 사용
+ETC_20190104_037353	Usa Steam Guard
 ETC_20190104_037354	The item is equipped with an Ichor.{nl}The Ichor must first be extracted.	아이커를 통해 옵션이 장착된 아이템입니다.{nl}아이커를 먼저 분리해주세요.			
 ETC_20190104_037355	Items that are traded cannot be traded back.	교환된 아이템은 다시 교환 할 수 없습니다.			
 ETC_20190104_037356	{@st59}Close the {NAME} UI{/}	{@st59}{NAME} UI를 닫습니다{/}			
@@ -37470,21 +37470,21 @@ ETC_20190104_037384	You have either completed the Legend Card Slot unlock quest{
 ETC_20190104_037385	Legend Card Selection Envelope	레전드 카드 선택 봉투			
 ETC_20190104_037386	{nl} {nl}Proceed with the Legend Card Slot Unlock?	{nl}{nl}레전드 카드 슬롯 봉인 해제를 진행하시겠습니까?			
 ETC_20190104_037387	There are Rank Cards that you have not used yet.{nl}Use the Rank Cards of lower levels first and try again.	사용하지 않은 하위 랭크 카드가 있습니다.{nl}하위 랭크 카드를 사용하시고 다시 시도해주세요.			
-ETC_20190104_037388	Weapon, Subweapon Equip Effect	무기, 보조 장비 장착 시 효과			
-ETC_20190104_037389	Glove, Boots Equip Effect	글러브, 부츠 장착 시 효과			
+ETC_20190104_037388	Efeito: Armas Principal e Secundária
+ETC_20190104_037389	Efeito: Luvas e Botas
 ETC_20190104_037390	Penetration	관통			
 ETC_20190104_037391	Holy Property Damage	신성 속성 데미지			
 ETC_20190104_037392	Ice Property Damage	얼음 속성 데미지			
-ETC_20190104_037393	Gung Ho damage increase {img green_up_arrow 16 16}{value}%	겅호 대미지 추가 증가 {img green_up_arrow 16 16}{value}%			
-ETC_20190104_037394	Lethargy magic circle additional damage increase {img green_up_arrow 16 16}{value}%	래써지 마법진 대미지 추가 효과 증가 {img green_up_arrow 16 16}{value}%			
-ETC_20190104_037395	Guardian Saint healing and damage increase {img green_up_arrow 16 16}{value}%	수호 성인 사용시 치유력, 대미지 증가 {img green_up_arrow 16 16}{value}%			
-ETC_20190104_037396	Concentration critical rate increase {img green_up_arrow 16 16}{value}%	콘센트레이션 치명타 발생 추가 증가 {img green_up_arrow 16 16}{value}%			
-ETC_20190104_037397	Cloaking damage increase {img green_up_arrow 16 16}{value}%	클로킹 대미지 추가 증가 {img green_up_arrow 16 16}{value}%			
+ETC_20190104_037393	Gung Ho Damage {img green_up_arrow 16 16}{value}%	겅호 대미지 추가 증가 {img green_up_arrow 16 16}{value}%				
+ETC_20190104_037394	Lethargy Added Damage Effects {img green_up_arrow 16 16}{value}%	래써지 마법진 대미지 추가 효과 증가 {img green_up_arrow 16 16}{value}%				
+ETC_20190104_037395	Guardian Saint Healing and Damage {img green_up_arrow 16 16}{value}%	수호 성인 사용시 치유력, 대미지 증가 {img green_up_arrow 16 16}{value}%				
+ETC_20190104_037396	Concentration Critical Rate {img green_up_arrow 16 16}{value}%	콘센트레이션 치명타 발생 추가 증가 {img green_up_arrow 16 16}{value}%				
+ETC_20190104_037397	Cloaking Damage {img green_up_arrow 16 16}{value}%	클로킹 대미지 추가 증가 {img green_up_arrow 16 16}{value}%				
 ETC_20190104_037398	You do not have a class that can mount this companion.	해당 컴패니언을 탑승 할 수 있는 클래스를 가지고 있지 않습니다.	ETC_20150717_013532	You do not have the required attribute to mount this companion.	해당 캐릭터는 이 컴패니언을 탈 수 있는 특성을 가지고 있지 않습니다.
 ETC_20190104_037399	You can only install one Refreshment Table at a time.	하나의 배식 테이블만 설치 가능합니다.	ETC_20150414_011114	You can set up only one refreshment table.	하나의 배식 테이블만 건설 가능합니다.
 ETC_20190104_037400	The skill requires the Companion Riding attribute.{nl}If your character is a class that is able to learn the riding attribute, try again after activating the Companion Riding attribute in the skills/attributes UI.	컴패니언 탑승 특성이 필요한 스킬입니다.{nl}컴패니언 탑승 클래스를 보유한 경우, 스킬/특성 UI에서 탑승 특성을 갱신 후 사용해주세요.	ETC_20160723_022685	You require the Companion Riding attribute to learn this skill.	컴패니언 탑승 특성이 필요한 스킬입니다.
 ETC_20190104_037401	The {OPTIONS} bonus stats of your old items will be transferred.{nl}{ADDINFO}{nl}The maximum potential of the target item cannot be exceeded.{nl}Are you sure you want to exchange?	이전 아이템의 {OPTIONS}옵션이 이전됩니다.{nl}{ADDINFO}{nl}변경될 아이템의 최대 포텐셜을 초과 할 수 없습니다.{nl}교환하시겠습니까?			
-ETC_20190104_037402	Consume {Silver} Silver to extract {Scroll} Attribute Point Scrolls.{nl}Would you like to extract {ConsumePoint} Attribute Points?	{Silver} 실버를 소비하여 특성 포인트 스크롤 {Scroll}개를 추출합니다.{nl}{ConsumePoint} 특성 포인트를 추출하시겠습니까?			
+ETC_20190104_037402	Consome {Silver} Silver para{nl}extrair {Scroll} Attribute Point Scrolls.{nl}Gostaria de extrair{nl}{ConsumePoint} Attribute Points?
 ETC_20190104_037403	Successfully added [{count}] slot(s).	[{count}]개의 슬롯이 성공적으로 추가 되었습니다.			
 ETC_20190104_037404	You cannot add more character slots.	더 이상 캐릭터 슬롯을 추가할 수 없습니다.			
 ETC_20190104_037405	All skills	전체 스킬	SKILL_20150317_000108	Skills	스킬
@@ -37501,7 +37501,7 @@ ETC_20190104_037415	You do not have enough vouchers.	소유중인 교환권이 �
 ETC_20190104_037416	[Premium] [10%] Discount off new items	[프리미엄]신규 상품 [10%]할인			
 ETC_20190104_037417	Restricted from trading via Market	마켓 거래 불가			
 ETC_20190104_037418	{@st41b}{#0064FF}Title:{/}{/} 	{@st41b}{#0064FF}칭호 :{/}{/} 	ETC_20150317_001957	{@st41b} Title {/}	{@st41b}칭호 :{/} 
-ETC_20190104_037419	{@st59}Increases amount healed, magic critical damage and damage dealt by summons{/}	{@st59}치유력, 마법 치명타 공격력, 소환수의 대미지 증가{/}			
+ETC_20190104_037419	{@st59}Increases amount healed, magic critical attack and damage dealt by summons{/}	{@st59}치유력, 마법 치명타 공격력, 소환수의 대미지 증가{/}				
 ETC_20190104_037420	[Allerno Family]{nl}Asta	[아렐르노 남작가]{nl}아스타			
 ETC_20190104_037421	{#003399}[CARTÕES DE EXPERIÊNCIA]{/} e {#003399}[ITENS EQUIPADOS]{/} estão guardados na {#003399}[ABA RECUPERAR DO MERCADO]{/}.{nl}Fale com algum NPC {#003399}[GERENTE DO MERCADO]{/} para receber os itens!
 ETC_20190104_037422	Você pode usar a Estátua da Deusa para transportar até o Mestre da classe que você escolheu avançar.
@@ -37647,8 +37647,8 @@ ETC_20190104_037561	There is not enough contribution from guilds.	현재 충분�
 ETC_20190104_037562	Requires Urbas Seal.	우르바스 증표가 필요합니다			
 ETC_20190104_037563	There is not enough contribution from players.	현재 충분히 기여한 인원이 없습니다			
 ETC_20190104_037564	You can play quest {Q_NAME} starting at level {Q_LV}.	{Q_NAME} 퀘스트는 {Q_LV}레벨부터 진행할 수 있습니다			
-ETC_20190104_037565	Use the Full Map	전체 지도 이용하기			
-ETC_20190104_037566	Move to Class Master	마스터에게 이동하기			
+ETC_20190104_037565	Teleportar usando o Mapa
+ETC_20190104_037566	Ir para um Mestre de Classe
 ETC_20190104_037567	Astral Tower 5F hasn't been used since Ignas became the head of the Schaffenstar.	별의 탑 5층은 이그나스가 단장에 취임한 이유로 사용하지 않았다네			
 ETC_20190104_037568	I can't believe he would make such modifications and let it run amok with monsters...	그 동안 이 따위로 개조하고 몬스터를 모아 놓다니...			
 ETC_20190104_037569	I am enraged!	다시 생각해도 화가 나는군!			
@@ -37755,7 +37755,7 @@ ETC_20190104_037669	Check Next Collection Compensation List	다음 컬렉션 보
 ETC_20190104_037670	{Auto_1} collection(s) acquired	획득한 컬렉션 {Auto_1}	ETC_20150317_002873	{Auto_1} collection(s) acquired	획득한 콜렉션 {Auto_1}
 ETC_20190104_037671	{Auto_1} collection(s) completed	완성한 컬렉션 {Auto_1}	ETC_20150317_002877	{Auto_1} collection(s) completed	완성한 콜렉션 {Auto_1}
 ETC_20190104_037672	Level {LV} or higher are allowed.	{LEVEL}레벨 이상만 참여 가능합니다.			
-ETC_20190104_037673	{ID_NAME}(Recommended level: {ID_LV}, 1 advancement req.)	{ID_NAME}(권장레벨:{ID_LV}, 전직 1회 이상)	ETC_20180208_031622	{ID_NAME} (Rec-Lv: {ID_LV}, Rank: {PC_RANK})	{ID_NAME}(권장레벨:{ID_LV} 제한랭크:{PC_RANK})
+ETC_20190104_037673	{ID_NAME} (Nv.: {ID_LV}, 1 avanço de classe)
 ETC_20190104_037674	{nl}Avançar para a classe?{nl}(Esta escolha só poderá ser alterada através de Mudança de Classe)
 ETC_20190104_037675	{@st44}Info do próximo Avanço de Classe
 ETC_20190104_037676	{@st59}Increases physical attack{/}	{@st59}물리 공격력 증가{/}			
@@ -37767,7 +37767,7 @@ ETC_20190104_037681	There are objects blocking the area.	해당 위치에 물체
 ETC_20190104_037682	Area out of bounds.	이동할 수 없는 지역입니다.			
 ETC_20190104_037683	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total Token duration time;{nl}- Total duration time for unlimited trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?	이미 토큰 아이템의 혜택을 적용받고 있습니다. 그래도 적용하시겠습니까?{nl}만약 중첩하여 적용 하는 경우{nl}전체 사용 기간과 거래 무제한 기간이{nl}누적하여 추가되며 그외의 혜택은 동일한 수치로 유지됩니다.	ETC_20160323_021378	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total duration time;{nl}- Number of personal trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?	이미 토큰 아이템의 혜택을 적용받고 있습니다. 그래도 적용하시겠습니까?{nl}만약 중첩하여 적용 하는 경우{nl}전체 사용 기간과 개인 거래 횟수가{nl}누적하여 추가되며 그외의 혜택은 동일한 수치로 유지됩니다.
 ETC_20190104_037684	Unlimited Trades	거래 무제한	ETC_20160224_020691	Number of trades allowed	거래 가능 횟수
-ETC_20190104_037685	{@st63_red}{s18}Cannot be transferred through Unlimited Trades{/}{/}	{@st63_red}{s18}무제한 거래 가능 불가{/}{/}	ETC_20180115_031184	{@st63_red}{s18}No Trades Left{/}{/}	{@st63_red}{s18}거래 가능 횟수 0{/}{/}
+ETC_20190104_037685	{@st63_red}{s18}Limited Trade{/}{/}	{@st63_red}{s18}무제한 거래 가능 불가{/}{/}	ETC_20180115_031184	{@st63_red}{s18}No Trades Left{/}{/}	{@st63_red}{s18}거래 가능 횟수 0{/}{/}	
 ETC_20190104_037686	Use Rookie/Returning Player Shop	신규/복귀 상점 이용			
 ETC_20190104_037687	Do you want to move to Klaipeda and use the TP Shop?	TP 상점을 이용하기 위해 클라페다 마을로 이동하시겠습니까?			
 ETC_20190104_037688	You must be Lv. 15 or higher to deposit or withdraw silver.	실버 입금 및 출금은 15레벨 이상 가능합니다.	ETC_20160711_021986	You must be Rank 2 or higher to deposit or withdraw silver.	실버 입금 및 출금은 2랭크 이상 가능합니다.
@@ -40599,176 +40599,178 @@ ETC_20190104_040513	Charcoal	챠콜
 ETC_20190104_040514	Copper Brown	코퍼 브라운			
 ETC_20190104_040515	Dirty Pink	더티 핑크			
 ETC_20190104_040516	Assassin Hood (F)	어쌔신 두건(여)			
-ETC_20190104_040517	[Cleric Master]{nl}Rozalija	[클레릭 마스터]{nl}로잘리야			
-ETC_20190104_040518	[Priest Master]{nl}Boruble	[프리스트 마스터]{nl}보러블			
-ETC_20190104_040519	[Krivis Master]{nl}Herkus	[크리비 마스터]{nl}헤르쿠스			
-ETC_20190104_040520	[Wings of Vaivora]{nl}Lena	[바이보라의 날개]{nl}레나			
-ETC_20190104_040521	[Klaipeda's Magic Association]{nl}Henrika	[마법협회 클라페다 지부]{nl}헤느리카			
-ETC_20190104_040522	[Storage Keeper]{nl}Rita	[창고지기]{nl}리타			
-ETC_20190104_040523	[Oracle Master]{nl}Apolonija Barbora	[오라클 마스터]{nl}아폴로니야 바르보라			
-ETC_20190104_040524	[TP Trader]{nl}Leticia	[TP상인]{nl}레티샤			
-ETC_20190104_040525	Illusion of Giltine	길티네의 환영			
-ETC_20190104_040526	[Blacksmith]{nl}Ilanai	[대장장이]{nl}일라나이			
-ETC_20190104_040527	[Equipment Merchant]{nl}Jura	[장비 상인]{nl}율라			
-ETC_20190104_040528	  [Lord of Orsha]{nl}Inesa Hamondale	[오르샤 영주]{nl}이네사 해먼데일			
-ETC_20190104_040529	[Orsha Bishop]{nl}Urbonas	[오르샤 주교]{nl}우르보나스			
-ETC_20190104_040530	[Item Merchant]{nl}Alf	[잡화 상인]{nl}알프			
-ETC_20190104_040531	[Accessory Merchant]{nl}Jurus	[악세서리 상인]{nl}유르스			
-ETC_20190104_040532	[Peltasta Submaster]{nl}Nirin Dameoff	[펠타스타 서브 마스터]{nl}니린 다메오프			
-ETC_20190104_040533	[Hoplite Master]{nl}Aidas Valor	[하플라이트 마스터]{nl}아이다스 베일러			
-ETC_20190104_040534	[Cleric Submaster]{nl}Tamara Easton	[클레릭 서브 마스터]{nl}타마라 이스턴			
-ETC_20190104_040535	[Krivis Submaster]{nl}Mellinda Dicherin	[크리비 서브 마스터]{nl}멀린다 디체린			
-ETC_20190104_040536	[Priest Submaster]{nl}Boira	[프리스트 서브 마스터]{nl}보이라			
-ETC_20190104_040537	[Bokor Submaster]{nl}Bobo Icelin	[보코르 서브 마스터]{nl}보보 아이슬린			
-ETC_20190104_040538	[Rodelero Master]{nl}Kamiya	[로델레로 마스터]{nl}카미야			
-ETC_20190104_040539	[Cataphract Master]{nl}Memet Culag	[캐터프랙트 마스터]{nl}메멧 쿨라그			
-ETC_20190104_040540	[Paladin Submaster]{nl}Sylvia Naimon	[팔라딘 서브 마스터]{nl}실비아 나이몬			
-ETC_20190104_040541	[Swordman Submaster]{nl}Codill	[소드맨 서브 마스터]{nl}코딜			
-ETC_20190104_040542	[Companion Trader]{nl}Toras	[컴패니언 상인]{nl}토라스			
-ETC_20190104_040543	[Market Manager]{nl}Tilliana	[마켓 관리인]{nl}틸리아나			
-ETC_20190104_040544	[Storage Keeper]{nl}Aisa	[창고지기]{nl}아이사			
-ETC_20190104_040545	[Orsha's Magic Association]{nl}Florianna	[마법협회 오르샤 지부]{nl}플로아나			
-ETC_20190104_040546	[Wings of Vaivora]{nl}Rosia	[바이보라의 날개]{nl}라시아			
-ETC_20190104_040547	[Alchemist Master]{nl}Vaidotas	[알케미스트 마스터]{nl}바이도타스			
-ETC_20190104_040548	[Chaplain Master]{nl}Ceslovas	[채플린 마스터]{nl}케슬로바스			
-ETC_20190104_040549	[Royal Army]{nl}Guard	[왕국군]{nl}경비병			
-ETC_20190104_040550	[Royal Army]{nl}Retia	[왕국군]{nl}레티아			
-ETC_20190104_040551	[Amanda Grave Robbers]{nl}Hubertas	[아만다 도굴단]{nl}후베르타스			
-ETC_20190104_040552	[Royal Army]{nl}Gofden	[왕국군]{nl}고프덴			
-ETC_20190104_040553	[Knights of Kaliss]{nl}Cryomancer Kostas	[칼리스 기사단]{nl}크리오맨서 코스타스			
-ETC_20190104_040554	[Amanda Grave Robbers]{nl}Rudolfas	[아만다 도굴단]{nl}루돌파스			
-ETC_20190104_040555	[Knights of Kaliss]{nl}Chronomancer Sabina	[칼리스 기사단]{nl}크로노맨서 사비나			
-ETC_20190104_040556	[Royal Army]{nl}Nomabis	[왕국군]{nl}노마비스			
-ETC_20190104_040557	[Royal Army]{nl}Lyle	[왕국군]{nl}라일			
-ETC_20190104_040558	[Royal Army]{nl}Rofdel	[왕국군]{nl}로프델			
-ETC_20190104_040559	[Knights of Kaliss]{nl}Adjutant General Hans	[칼리스 기사단]{nl}부관 한스			
-ETC_20190104_040560	[Amanda Grave Robbers]{nl}Stephonas	[아만다 도굴단]{nl}스테포나스			
-ETC_20190104_040561	  [Knights of Kaliss]{nl}Wilhelmina Carriot	[칼리스 기사단]{nl}빌헬미나 캐리어트			
-ETC_20190104_040562	[Musketeer Master]{nl}Alloden Marzarine	[머스킷티어 마스터]{nl}알로덴 마자린			
-ETC_20190104_040563	[Knights of Kaliss]{nl}Bokor Edita	[칼리스 기사단]{nl}보코르 에디타			
-ETC_20190104_040564	[Knights of Kaliss]{nl}Alchemist Saliamonas	[칼리스 기사단]{nl}알케미스트 살리아모나스			
-ETC_20190104_040565	[Kedoran Merchant Alliance]{nl}Leopoldas	[케도라 상단]{nl}레오폴다스			
-ETC_20190104_040566	[Kedoran Merchant Alliance]{nl}Merrisa	[케도라 상단]{nl}메리사			
-ETC_20190104_040567	[Kedoran Merchant Alliance]{nl}Margellius	[케도라 상단]{nl}마르젤리유스			
-ETC_20190104_040568	[Kedoran Merchant Alliance]{nl}Gerda	[케도라 상단]{nl}게르다			
-ETC_20190104_040569	[Kedoran Merchant Alliance]{nl}Serapinas	[케도라 상단]{nl}세라피나스			
-ETC_20190104_040570	[Schwarzer Reiter Master]{nl}Warsis Creak	[슈바르츠라이터 마스터]{nl}워시스 크리크			
-ETC_20190104_040571	[Fencer Master]{nl}Sorscha Hutton	[펜서 마스터]{nl}소르샤 허턴			
-ETC_20190104_040572	[Chronomancer Master]{nl}Lucid Winterspoon	[크로노맨서 마스터]{nl}루시드 윈터스푼			
-ETC_20190104_040573	[Monk Master]{nl}Olfas Grimm	[몽크 마스터]{nl}올파스 그림			
-ETC_20190104_040574	[Rodelero Submaster]{nl}Trogen	[로델레로 서브 마스터]{nl}트로겐			
-ETC_20190104_040575	[Cataphract Submaster]{nl}Dirk Drigg	[캐터프랙트 서브 마스터]{nl}디르크 드릭			
-ETC_20190104_040576	[Thaumaturge Master]{nl}Larisa	[쏘마터지 마스터]{nl}라리사			
-ETC_20190104_040577	[Wugushi Submaster]{nl}May Pat	[무고사 서브 마스터]{nl}메이 팻			
-ETC_20190104_040578	[Highlander Submaster]{nl}Rahelia Black	[하이랜더 서브 마스터]{nl}라헬리아 블랙			
-ETC_20190104_040579	[Hoplite Submaster]{nl}Vysiege Thurmore	[하플라이트 서브 마스터]{nl}바이시지 더모어			
-ETC_20190104_040580	[Dievdirbys Master]{nl}Sculptor Tesla	[딥디르비 마스터]{nl}조각가 테슬라			
-ETC_20190104_040581	[Featherfoot Master]{nl}Kyoll Lurawa	[페더풋 마스터]{nl}키올 루아라와			
-ETC_20190104_040582	[Hair Stylist]{nl}Anabell Swyn	[헤어 디자이너]{nl}애너벨 스윈	ETC_20180629_034704	[Hair Stylist]{nl}    Anabell Swyn	[헤어 디자이너]{nl}    애너벨 스윈
-ETC_20190104_040583	[Fashion Designer]{nl}Kastytis	[패션 디자이너]{nl}카스티스	ETC_20180629_034706	[Fashion Designer]{nl}       Kastytis	[패션 디자이너]{nl}       카스티스
-ETC_20190104_040584	[Squire Master]{nl}Justina Legwyn	[스콰이어 마스터]{nl}유스티나 르귄	ETC_20150317_009176	[Squire Master]{nl} Justina Legwyn	[스콰이어 마스터]{nl}   유스티나 르귄
-ETC_20190104_040585	[Rogue Master]{nl}Gema	[로그 마스터]{nl}게마	ETC_20150918_014644	[Rogue Master]{nl}       Gema	[로그 마스터]{nl}       게마
-ETC_20190104_040586	[Item Merchant]{nl}Muras	[잡화 상인]{nl}뮤라스	ETC_20150918_014645	[Item Merchant]{nl}    Muras	[잡화 상인]{nl}    뮤라스
-ETC_20190104_040587	[Equipment Merchant]{nl}Yorgis	[장비 상인]{nl}요르기스	ETC_20150918_014646	[Equipment Merchant]{nl}    Yorgis	[장비 상인]{nl}   요르기스
-ETC_20190104_040588	[Hackapell Master]{nl}Flint Boulder	[하카펠 마스터]{nl}플린트 보울더	ETC_20150317_009185	[Hackapell Master]{nl} Flint Boulder	[하카펠 마스터]{nl} 플린트 보울더
-ETC_20190104_040589	[Druid Master]{nl}Gina Greene	[드루이드 마스터]{nl}지나 그린	ETC_20150317_009186	[Druid Master]{nl}   Gina Greene	[드루이드 마스터]{nl}    지나 그린
-ETC_20190104_040590	[Doppelsoeldner Master]{nl}Guerra	[도펠죌트너 마스터]{nl}그에라	ETC_20150729_014020	[Doppelsoeldner Master]{nl}          Guerra	[도펠죌트너 마스터]{nl}          그에라
-ETC_20190104_040591	[Blacksmith]{nl}Anna	[대장장이]{nl}안나	ETC_20150918_014647	[Blacksmith]{nl}       Anna	[대장장이]{nl}     안나
-ETC_20190104_040592	[Market Manager]{nl}Molun	[마켓 관리인]{nl}몰른	ETC_20150918_014648	[Market Manager]{nl}     Molun	[마켓 관리인]{nl}       몰른
-ETC_20190104_040593	[Storage Keeper]{nl}Zadan	[창고지기]{nl}자단	ETC_20150918_014649	[Storage Keeper]{nl}      Zadan	[창고지기]{nl}     자단
-ETC_20190104_040594	[Accessory Merchant]{nl}Joana	[악세서리 상인]{nl}요아나	ETC_20150918_014651	[Accessory Merchant]{nl}   Joana	[악세서리 상인]{nl}       요아나
-ETC_20190104_040595	[Identifier]{nl}Sandra	[감정사]{nl}산드라	ETC_20170313_027485	[Identifier]{nl}  Sandra	[감정사]{nl}  산드라
-ETC_20190104_040596	[Appraiser Master]{nl}Sandra	[감정사 마스터]{nl}산드라	ETC_20170313_027486	[Appraiser Master]{nl}        Sandra	[감정사 마스터]{nl}        산드라
-ETC_20190104_040597	[Matador Master]{nl}Kridella Otero	[마타도르 마스터]{nl}크리델라 오테로	ETC_20171128_031068	[Matador Master]{nl}   Kridella Otero	[마타도르 마스터]{nl}   크리델라 오테로
-ETC_20190104_040598	[Exorcist Master]{nl}Sydow Merrinblock	[엑소시스트 마스터]{nl}시도우 메린블록	ETC_20180629_034707	[Exorcist Master]{nl}     Sydow Merrinblock	[엑소시스트 마스터]{nl}     시도우 메린블록
-ETC_20190104_040599	[Blacksmith]{nl}Teliavelis	[대장장이]{nl}테리아베리스	ETC_20180517_033080	  [Blacksmith]{nl}Teliavelis	  [대장장이]{nl}테리아베리스
-ETC_20190104_040600	[Outlaw Master]{nl}Maea Kellefinker	[아웃로 마스터]{nl}마에아 켈러핀커			
-ETC_20190104_040601	[Outlaw Master]{nl}Jazz Kellefinker	[아웃로 마스터]{nl}재즈 켈러핀커			
-ETC_20190104_040602	[Pyromancer Master]{nl}Abreh Melinn	[파이로맨서 마스터]{nl}아브레 멜린	ETC_20150317_009188	[Pyromancer Master]{nl} Abreh Melinn	[파이로맨서 마스터]{nl}      아브레 멜린
-ETC_20190104_040603	[Highlander Master]{nl}Douglas Black	[하이랜더 마스터]{nl}더글라스 블랙	ETC_20150317_009189	[Highlander Master]{nl}      Douglas Black	[하이랜더 마스터]{nl}   더글라스 블랙
-ETC_20190104_040604	[Item Merchant]{nl}Mirina	[잡화 상인]{nl}미리나	ETC_20150717_013603	[Item Merchant]{nl}           Mirina	[잡화 상인]{nl}    미리나
-ETC_20190104_040605	[Equipment Merchant]{nl}Dunkel	[장비 상인]{nl}던켈	ETC_20150317_009196	[Equipment Merchant]{nl}               Dunkel	[장비 상인]{nl}     던켈
-ETC_20190104_040606	[Accessory Merchant]{nl}Ronesa	[악세서리 상인]{nl}로네사	ETC_20150317_009197	[Accessory Merchant]{nl}              Ronesa	[악세서리 상인]{nl}      로네사
-ETC_20190104_040607	[Blacksmith]{nl}Zaras	[대장장이]{nl}자라스	ETC_20150317_009199	[Blacksmith]{nl}       Zaras	[대장장이]{nl}   자라스
-ETC_20190104_040608	[Peltasta Master]{nl}Maria Leed	[펠타스타 마스터]{nl}마리아 리드	ETC_20150317_009200	[Peltasta Master]{nl}      Maria Leed	[펠타스타 마스터]{nl}     마리아 리드
-ETC_20190104_040609	[Cryomancer Master]{nl}Aleister Crowley	[크리오맨서 마스터]{nl}알리스터 크로울리	ETC_20151224_019889	[Cryomancer Master]{nl}     Aleister Crowley	[크리오맨서 마스터]{nl}  알리스터 크로울리
-ETC_20190104_040610	[Quarrel Shooter Master]{nl}Ream Toiler	[쿼렐슈터 마스터]{nl}리엄 토일러	ETC_20150317_009202	[Quarrel Shooter Master]{nl}              Ream Toiler	[쿼렐슈터 마스터]{nl}    리엄 토일러
-ETC_20190104_040611	[Ranger Master]{nl}Nemoken	[레인저 마스터]{nl}니모켄	ETC_20150317_009203	[Ranger Master]{nl}       Nemoken	[레인저 마스터]{nl}       니모켄
-ETC_20190104_040612	[Swordsman Master]{nl}Rashua	[소드맨 마스터]{nl}라슈아	ETC_20150317_009204	[Swordsman Master]{nl}              Rashua	[소드맨 마스터]{nl}       라슈아
-ETC_20190104_040613	[Wizard Master]{nl}Lucia	[위저드 마스터]{nl}루치아	ETC_20150317_009205	[Wizard Master]{nl}          Lucia	[위저드 마스터]{nl}       루치아
-ETC_20190104_040614	[Archer Master]{nl}Edmundas Tiller	[아처 마스터]{nl}에드뮨다스 틸러	ETC_20150317_009206	[Archer Master]{nl} Edmundas Tiller	  [아처 마스터]{nl}에드뮨다스 틸러
-ETC_20190104_040615	[Market Manager]{nl}Logi	[마켓 관리인]{nl}로지	ETC_20150317_009211	[Market Manager]{nl}             Logi	[마켓 관리인]{nl}       로지
-ETC_20190104_040616	[Companion Trader]{nl}Christina	[컴패니언 상인]{nl}크리스티나	ETC_20150317_009212	[Companion Trader]{nl}            Christina	[컴패니언 상인]{nl}   크리스티나
-ETC_20190104_040617	[Fishing Manager]{nl}Joha	[낚시터 관리인]{nl}요하	ETC_20170726_028450	[Fishing Manager]{nl}          Joha	[낚시터 관리인]{nl}          요하
-ETC_20190104_040618	Team Battle League{nl}Valis	팀 배틀리그{nl}발리스	ETC_20160224_020711	Team Battle League{nl}     Valis	팀 배틀리그{nl}     발리스
-ETC_20190104_040619	[Scout Master]{nl}Recon Rimgaile	[스카우트 마스터]{nl}레콘 림가일레	ETC_20180326_031942	[Sapper Master]{nl} Leonard Quicktongue	[새퍼 마스터]{nl}레오나르드 퀵통
-ETC_20190104_040620	[Enchanter Master]{nl}Yena Havindar	[인챈터 마스터]{nl}예나 하빈다르	ETC_20161005_025505	[Enchanter Master]{nl} Yena Havindar	[인챈터 마스터]{nl}   예나 하빈다르
-ETC_20190104_040621	Cave's Depths	동굴 심부			
-ETC_20190104_040622	Cave Exit	동굴 출구			
-ETC_20190104_040623	Fatigued Boruta	지친 보루타			
-ETC_20190104_040624	[Sage Master]{nl}Rhupas Kehel	[세이지 마스터]{nl}루파스 케헬	ETC_20161005_025515	[Sage Master]{nl} Rhupas Kehel	[세이지 마스터]{nl}    루파스 케헬
-ETC_20190104_040625	[Retiarius Master]{nl}Caecilia	[레티아리이 마스터]{nl}카이킬리아	ETC_20180418_032456	[Retiarius Master]{nl}        Caecilia	[레티아리이 마스터]{nl}        카이킬리아
-ETC_20190104_040626	[Bullet Marker Master]{nl}Flint Winterwood	[불릿 마커 마스터]{nl}플린트 윈터우드	ETC_20171128_031080	[Bullet Marker Master]{nl}  Flint Winterwood	[불릿 마커 마스터]{nl}   플린트 윈터우드
-ETC_20190104_040627	[Murmillo Master]{nl}Phelixia	[무르밀로 마스터]{nl}펠릭시아	ETC_20161005_025524	[Murmillo Master]{nl} Phelixia	[무르밀로 마스터]{nl}         펠릭시아
-ETC_20190104_040628	 [Zealot Master]{nl}Aliza Tal	[질럿 마스터]{nl}엘리자 탈	ETC_20171128_031081	 [Zealot Master]{nl}    Aliza Tal	 [질럿 마스터]{nl}     엘리자 탈
-ETC_20190104_040629	[Nak Muay]{nl}Khanom Caolaw	[낙무아이 마스터]{nl}카놈 차울라우	ETC_20180208_031630	[Nak Muay]{nl}     Khanom Caolaw	[낙무아이 마스터]{nl}     카놈 차울라우
-ETC_20190104_040630	[Shadowmancer Master]{nl}Eclipse Ubik	[섀도우맨서 마스터]{nl}이클립스 유빅	ETC_20171128_031082	[Shadowmancer Master]{nl}  Eclipse Ubik	[섀도우맨서 마스터]{nl}      이클립스 유빅
-ETC_20190104_040631	[Pied Piper Master]{nl}Jogaila	[파이드 파이퍼 마스터]{nl}요가일라	ETC_20180629_034708	[Pied Piper Master]{nl}            Jogaila	[파이드 파이퍼 마스터]{nl}            요가일라
-ETC_20190104_040632	[Dragoon Master]{nl}Valeska Himil	[드라군 마스터]{nl}발레스카 히밀	ETC_20151224_019958	[Dragoon Master]{nl}  Valeska Himil	[드라군 마스터]{nl}  발레스카 히밀
-ETC_20190104_040633	[Kabbalist Master]{nl}Libgar Hippathia	[카발리스트 마스터]{nl}리브가 히파티아	ETC_20151224_019959	[Kabbalist Master]{nl}    Libgar Hippathia	[카발리스트 마스터]{nl}    리브가 히파티아
-ETC_20190104_040634	[Kedoran Merchant Alliance]{nl}Relic Collector	[케도라 상단]{nl}유물 수집상	ETC_20160224_020712	[Kedora Merchant Alliance]{nl}  Relic Collector	[케도라 상단]{nl}  유물 수집상
-ETC_20190104_040635	[Hackapell Master]{nl}Flyntess	[하카펠 마스터]{nl}플린테스	ETC_20161005_025529	[Hackapell Master]{nl} Flyntess	[하카펠 마스터]{nl}       플린테스
-ETC_20190104_040636	[Kedoran Merchant Alliance]{nl}Operator	[케도라 상단]{nl}교환원	ETC_20161005_025531	[Kedora Merchant Alliance]{nl} Operator	[케도라 상단]{nl}      교환원
-ETC_20190104_040637	[Rune Caster Master]{nl}Shelly Pennington	[룬캐스터 마스터]{nl}쉘리 페닝튼	ETC_20160224_020714	[Rune Caster Master]{nl}      Shelly Pennington	[룬캐스터 마스터]{nl}      쉘리 페닝튼
-ETC_20190104_040638	[Assassin Master]{nl}Rashid Zabanya	[어쌔신 마스터]{nl}라시드 자바냐	QUEST_20171207_007114	Good Kid	착한 일 한 어린이
-ETC_20190104_040639	[Corsair Master]{nl}Hayraven	[커세어 마스터]{nl}하이레이번	ETC_20150729_014025	[Corsair Master]{nl}    Hayraven	[커세어 마스터]{nl}    하이레이번
-ETC_20190104_040640	[Elementalist Submaster]{nl}Zeddie Berrant	[엘리멘탈리스트 서브 마스터]{nl}제디 베런트	ETC_20151224_019967	[Elementalist Submaster]{nl}              Zeddie Berrant	[엘리멘탈리스트 서브 마스터]{nl}              제디 베런트
-ETC_20190104_040641	[Barbarian Submaster]{nl}Twinhal Koreont	[바바리안 서브 마스터]{nl}트윈할 코런트	ETC_20151022_016469	[Barbarian Submaster]{nl}        Twinhal Koreont	[바바리안 서브 마스터]{nl}        트윈할 코런트
-ETC_20190104_040642	[Dievdirbys Submaster]{nl}Zenoa Gallant	[딥디르비 서브 마스터]{nl}제노아 갤런트	ETC_20151022_016470	[Dievdirbys Submaster]{nl}        Zenoa Gallant	[딥디르비 서브 마스터]{nl}        제노아 갤런트
-ETC_20190104_040643	[Taoist Master]{nl}GeHong	[도사 마스터]{nl}갈홍	ETC_20180326_031947	[Taoist Master]{nl} GeHong	[도사 마스터]{nl}       갈홍
-ETC_20190104_040644	[Barbarian Master]{nl}Walder Junnot	[바바리안 마스터]{nl}윌더 저넛	ETC_20160323_021384	[Barbarian Master]{nl}      Walder Junnot	[바바리안 마스터]{nl}      윌더 저넛
-ETC_20190104_040645	[Psychokino Submaster]{nl}Cielle Gudan	[사이코키노 서브 마스터]{nl}시엘레 그단	ETC_20151224_019975	[Psychokino Submaster]{nl}          Cielle Gudan	[사이코키노 서브 마스터]{nl}          시엘레 그단
-ETC_20190104_040646	[Linker Submaster]{nl}Roddie Kuska	[링커 서브 마스터]{nl}로디 쿠스카	ETC_20151224_019976	[Linker Submaster]{nl}      Roddie Kuska	[링커 서브 마스터]{nl}      로디 쿠스카
-ETC_20190104_040647	[Austeja's Servant]{nl}Kupole Kaze	[아우스테야의 하인]{nl}큐폴 카제			
-ETC_20190104_040648	[Shinobi Master]{nl}Yura Swanjone	[시노비 마스터]{nl}유라 스와요네	ETC_20151224_019978	[Shinobi Master]{nl}  Yura Swanjone	[시노비 마스터]{nl}  유라 스와요네
-ETC_20190104_040649	[Necromancer Master]{nl}Loretta Nimbus	[네크로맨서 마스터]{nl}로레타 님버스	ETC_20150729_014031	[Necromancer Master]{nl}      Loretta Nimbus	[네크로맨서 마스터]{nl}      로레타 님버스
-ETC_20190104_040650	[Miko Master]{nl}Hitomiko	[무녀 마스터]{nl}히토미코	ETC_20161005_025536	[Miko Master]{nl} Hitomiko	[무녀 마스터]{nl}     히토미코
-ETC_20190104_040651	Compete for 8 minutes	8분간 경기			
-ETC_20190104_040652	Royal Supply Officer{nl}Malfredas	왕국 보급 장교{nl}만프래다스			
-ETC_20190104_040653	Boruta gazes far out into the horizon	보루타가 먼 곳을 응시합니다			
-ETC_20190104_040654	Escape Portal	탈출 포탈			
-ETC_20190104_040655	The Echo will soon be heard	곧 메아리가 등장 합니다			
-ETC_20190104_040656	Echo	메아리			
-ETC_20190104_040657	The Echo is heard	메아리가 등장했습니다			
-ETC_20190104_040658	The Roar will soon be heard	절규가 곧 발생합니다			
-ETC_20190104_040659	The Roar is heard	절규가 발생했습니다			
-ETC_20190104_040660	The Vengeful Fever will soon begin	복수의 미열이 곧 등장합니다			
-ETC_20190104_040661	The Vengeful Fever has begun	복수의 미열이 등장했습니다			
-ETC_20190104_040662	Safety Zone will be activated	안전구역이 활성화 됩니다			
+ETC_20190104_040517	[Mestre Cleric]{nl}Rozalija
+ETC_20190104_040518	[Mestre Priest]{nl}Boruble
+ETC_20190104_040519	[Mestre Krivis]{nl}Herkus
+ETC_20190104_040520	[Asas de Vaivora]{nl}Lena
+ETC_20190104_040521	[Sociedade Mágica de Klaipeda]{nl}Henrika
+ETC_20190104_040522	[Armazenadora]{nl}Rita
+ETC_20190104_040523	[Mestre Oracle]{nl}Apolonija Barbora
+ETC_20190104_040524	[Loja de TP]{nl}Leticia
+ETC_20190104_040525	Ilusão de Giltine
+ETC_20190104_040526	[Ferreiro]{nl}Ilanai
+ETC_20190104_040527	[Mercador de Equipamentos]{nl}Jura
+ETC_20190104_040528	[Lorde de Orsha]{nl}Inesa Hamondale
+ETC_20190104_040529	[Bispo de Orsha]{nl}Urbonas
+ETC_20190104_040530	[Mercador de Itens]{nl}Alf
+ETC_20190104_040531	[Mercador de Acessórios]{nl}Jurus
+ETC_20190104_040532	[Submestre Peltasta]{nl}Nirin Dameoff
+ETC_20190104_040533	[Mestre Hoplite]{nl}Aidas Valor
+ETC_20190104_040534	[Submestre Cleric]{nl}Tamara Easton
+ETC_20190104_040535	[Submestre Krivis]{nl}Mellinda Dicherin
+ETC_20190104_040536	[Submestre Priest]{nl}Boira
+ETC_20190104_040537	[Submestre Bokor]{nl}Bobo Icelin
+ETC_20190104_040538	[Mestre Rodelero]{nl}Kamiya
+ETC_20190104_040539	[Mestre Cataphract]{nl}Memet Culag
+ETC_20190104_040540	[Submestre Paladin]{nl}Sylvia Naimon
+ETC_20190104_040541	[Submestre Swordman]{nl}Codill
+ETC_20190104_040542	[Treinador de Mascote]{nl}Toras
+ETC_20190104_040543	[Armazenadora]{nl}Tilliana
+ETC_20190104_040544	[Armazenadora]{nl}Aisa
+ETC_20190104_040545	[Sociedade Mágica de Orsha]{nl}Florianna
+ETC_20190104_040546	[Asas de Vaivora]{nl}Rosia
+ETC_20190104_040547	[Mestre Alchemsit]{nl}Vaidotas
+ETC_20190104_040548	[Mestre Chaplain]{nl}Ceslovas
+ETC_20190104_040549	[Exército Real]{nl}Guarda
+ETC_20190104_040550	[Exército Real]{nl}Retia
+ETC_20190104_040551	[Amanda Grave Robbers]{nl}Hubertas
+ETC_20190104_040552	[Exército Real]{nl}Gofden
+ETC_20190104_040553	[Cavaleiros de Kaliss]{nl}Cryomancer Kostas
+ETC_20190104_040554	[Amanda Grave Robbers]{nl}Rudolfas
+ETC_20190104_040555	[Cavaleiros de Kaliss]{nl}Chronomancer Sabina
+ETC_20190104_040556	[Exército Real]{nl}Nomabis
+ETC_20190104_040557	[Exército Real]{nl}Lyle
+ETC_20190104_040558	[Exército Real]{nl}Rofdel
+ETC_20190104_040559	[Cavaleiros de Kaliss]{nl}General Adjunto Hans
+ETC_20190104_040560	[Amanda Grave Robbers]{nl}Stephonas
+ETC_20190104_040561	[Cavaleiros de Kaliss]{nl}Wilhelmina Carriot
+ETC_20190104_040562	[Mestre Musketeer]{nl}Alloden Marzarine
+ETC_20190104_040563	[Cavaleiros de Kaliss]{nl}Bokor Edita
+ETC_20190104_040564	[Cavaleiros de Kaliss]{nl}Alchemist Saliamonas
+ETC_20190104_040565	[Aliança Comercial Kedora]{nl}Leopoldas
+ETC_20190104_040566	[Aliança Comercial Kedora]{nl}Merrisa
+ETC_20190104_040567	[Aliança Comercial Kedora]{nl}Margellius
+ETC_20190104_040568	[Aliança Comercial Kedora]{nl}Gerda
+ETC_20190104_040569	[Aliança Comercial Kedora]{nl}Serapinas
+ETC_20190104_040570	[Mestre Schwarzer Reiter]{nl}Warsis Creak
+ETC_20190104_040571	[Mestre Fencer Master]{nl}Sorscha Hutton
+ETC_20190104_040572	[Mestre Chronomancer]{nl}Lucid Winterspoon
+ETC_20190104_040573	[Mestre Monk]{nl}Olfas Grimm
+ETC_20190104_040574	[Submestre Rodelero]{nl}Trogen
+ETC_20190104_040575	[Submestre Cataphract]{nl}Dirk Drigg
+ETC_20190104_040576	[Mestre Thaumaturge]{nl}Larisa
+ETC_20190104_040577	[Submestre Wugushi]{nl}May Pat
+ETC_20190104_040578	[Submestre Highlander]{nl}Rahelia Black
+ETC_20190104_040579	[Submestre Hoplite]{nl}Vysiege Thurmore
+ETC_20190104_040580	[Mestre Dievdirbys]{nl}Escultor Tesla
+ETC_20190104_040581	[Mestre Featherfoot]{nl}Kyoll Lurawa
+ETC_20190104_040582	[Cabeleireira]{nl}Anabell Swyn
+ETC_20190104_040583	[Estilista]{nl}Kastytis
+ETC_20190104_040584	[Mestre Squire]{nl}Justina Legwyn
+ETC_20190104_040585	[Mestre Rogue]{nl}Gema
+ETC_20190104_040586	[Mercador de Itens]{nl}Muras
+ETC_20190104_040587	[Mercador de Equipamentos]{nl}Yorgis
+ETC_20190104_040588	[Mestre Hackapell]{nl}Flint Boulder
+ETC_20190104_040589	[Mestre Druid]{nl}Gina Greene
+ETC_20190104_040590	[Mestre Doppelsoeldner]{nl}Guerra
+ETC_20190104_040591	[Ferreira]{nl}Anna
+ETC_20190104_040592	[Gestor de Mercado]{nl}Molun
+ETC_20190104_040593	[Armazenador]{nl}Zadan
+ETC_20190104_040594	[Mercadora de Acessórios]{nl}Joana
+ETC_20190104_040595	[Avaliadora]{nl}Sandra
+ETC_20190104_040596	[Mestre Appraiser]{nl}Sandra
+ETC_20190104_040597	[Mestre Matador]{nl}Kridella Otero
+ETC_20190104_040598	[Mestre Exorcist]{nl}Sydow Merrinblock
+ETC_20190104_040599	[Ferreiro]{nl}Teliavelis
+ETC_20190104_040600	[Mestre Outlaw]{nl}Maea Kellefinker
+ETC_20190104_040601	[Mestre Outlaw]{nl}Jazz Kellefinker
+ETC_20190104_040602	[Mestre Pyromancer]{nl}Abreh Melinn
+ETC_20190104_040603	[Mestre Highlander]{nl}Douglas Black
+ETC_20190104_040604	[Mercadora de Itens]{nl}Mirina
+ETC_20190104_040605	[Mercador de Equipamentos]{nl}Dunkel
+ETC_20190104_040606	[Mercadora de Acessórios]{nl}Ronesa
+ETC_20190104_040607	[Ferreiro]{nl}Zaras
+ETC_20190104_040608	[Mestre Peltasta]{nl}Maria Leed
+ETC_20190104_040609	[Mestre Cryomancer]{nl}Aleister Crowley
+ETC_20190104_040610	[Mestre Quarrel Shooter]{nl}Ream Toiler
+ETC_20190104_040611	[Mestre Ranger]{nl}Nemoken
+ETC_20190104_040612	[Mestre Swordsman]{nl}Rashua
+ETC_20190104_040613	[Mestre Wizard]{nl}Lucia
+ETC_20190104_040614	[Mestre Archer]{nl}Edmundas Tiller
+ETC_20190104_040615	[Gestor de Mercado]{nl}Logi
+ETC_20190104_040616	[Treinadora de Mascote]{nl}Christina
+ETC_20190104_040617	[Diretora de Pesca]{nl}Joha
+ETC_20190104_040618	[Team Battle League]{nl}Valis
+ETC_20190104_040619	[Mestre Scout]{nl}Recon Rimgaile
+ETC_20190104_040620	[Mestre Enchanter]{nl}Yena Havindar
+ETC_20190104_040621	Profundezas da Caverna
+ETC_20190104_040622	Saída da Caverna
+ETC_20190104_040623	Boruta Esgotado
+ETC_20190104_040624	[Mestre Sage]{nl}Rhupas Kehel
+ETC_20190104_040625	[Mestre Retiarius]{nl}Caecilia
+ETC_20190104_040626	[Mestre Bullet Marker]{nl}Flint Winterwood
+ETC_20190104_040627	[Mestre Murmillo]{nl}Phelixia
+ETC_20190104_040628	[Mestre Zealot]{nl}Aliza Tal
+ETC_20190104_040629	[Mestre Nak Muay]{nl}Khanom Caolaw
+ETC_20190104_040630	[Mestre Shadowmancer]{nl}Eclipse Ubik
+ETC_20190104_040631	[Mestre Pied Piper]{nl}Jogaila
+ETC_20190104_040632	[Mestre Dragoon]{nl}Valeska Himil
+ETC_20190104_040633	[Mestre Kabbalist]{nl}Libgar Hippathia
+ETC_20190104_040634	[Aliança Comercial Kedora]{nl}Coletor de Relíquias
+ETC_20190104_040635	[Mestre Hackapell]{nl}Flyntess
+ETC_20190104_040636	[Aliança Comercial Kedora]{nl}Operador
+ETC_20190104_040637	[Mestre Rune Caster]{nl}Shelly Pennington
+ETC_20190104_040638	[Mestre Assassin]{nl}Rashid Zabanya
+ETC_20190104_040639	[Mestre Corsair]{nl}Hayraven
+ETC_20190104_040640	[Submestre Elementalist]{nl}Zeddie Berrant
+ETC_20190104_040641	[Submestre Barbarian]{nl}Twinhal Koreont
+ETC_20190104_040642	[Submestre Dievdirbys]{nl}Zenoa Gallant
+ETC_20190104_040643	[Mestre Taoist]{nl}GeHong
+ETC_20190104_040644	[Mestre Barbarian]{nl}Walder Junnot
+ETC_20190104_040645	[Submestre Psychokino]{nl}Cielle Gudan
+ETC_20190104_040646	[Mestre Linker]{nl}Roddie Kuska
+ETC_20190104_040647	[Servente de Austeja]{nl}Kupole Kaze
+ETC_20190104_040648	[Mestre Shinobi]{nl}Yura Swanjone
+ETC_20190104_040649	[Mestre Necromancer]{nl}Loretta Nimbus
+ETC_20190104_040650	[Mestre Miko]{nl}Hitomiko
+ETC_20190104_040651	Competir por 8 minutos
+ETC_20190104_040652	Oficial de Suprimentos Real{nl}Malfredas
+ETC_20190104_040653	Boruta olha longe para o horizonte
+ETC_20190104_040654	Portal de Fuga
+ETC_20190104_040655	O Eco será escutado em breve
+ETC_20190104_040656	Eco
+ETC_20190104_040657	O Eco se faz ouvir
+ETC_20190104_040658	O Rugido será escutado em breve
+ETC_20190104_040659	O Rugido se faz ouvir
+ETC_20190104_040660	O Fervor de Vingança começará em breve
+ETC_20190104_040661	O Fervor de Vingança iniciou
+ETC_20190104_040662	Safety Zone será ativado
 ETC_20190104_040663	Save mval to PC	pc에게 mval저장	ETC_20180629_034783	Scoreboard	스코어보드
-ETC_20190104_040664	Defeat Ignas who has joined forces with demons	마족과 결탁하여, 음모를 꾸미고 있는 이그나스를 찾아 처치해주세요			
-ETC_20190104_040665	You have entered the Astral Tower Closed Quarters.	별의 탑 폐쇄 구역에 입장했습니다.			
-ETC_20190104_040666	All players have been defeated	모든 PC가 사망하였습니다			
-ETC_20190104_040667	You have exceeded the 1 hour time limit and failed the dungeon	1시간을 초과하여 던전 공략에 실패했습니다			
-ETC_20190104_040668	You will return to your original area after 30 seconds	30초 후 원래 있던 지역으로 돌아갑니다			
-ETC_20190104_040669	I was late	내가 좀 늦었군			
-ETC_20190104_040670	Defeat the monsters to collect their souls{nl}Use the collected souls to charge the integrator and disarm the barrier	몬스터를 처치하고 영혼을 수집하세요{nl}수집한 영혼으로 영혼집약기를 충전하면 결계를 해제할 수 있습니다			
-ETC_20190104_040671	Black Magic Control Device	검은색 마력 제어 장치			
-ETC_20190104_040672	Green Magic Control Device	초속색 마력 제어 장치			
-ETC_20190104_040673	Yellow Magic Control Device	노란색 마력 제어 장치			
-ETC_20190104_040674	Blue Magic Control Device	파란색 마력 제어 장치			
-ETC_20190104_040675	Red Magic Control Device	붉은색 마력 제어 장치			
-ETC_20190104_040676	You failed to defend the Magic Condenser	마력 응축 장치를 지켜내지 못 했습니다			
-ETC_20190104_040677	You have defeated the Prodded Horse	프로디드 호스를 처치했습니다			
-ETC_20190104_040678	Prodded Horse has appeared{nl}Defeat the Prodded Horse to disarm the barrier!	프로디드 호스가 등장했습니다{nl}처치하여 결계를 해제하세요!			
-ETC_20190104_040679	A Power Generator has been destroyed.	동력 장치 한 개가 파괴되었습니다.			
-ETC_20190104_040680	Ignas has appeared!	이그나스가 등장했습니다!			
-ETC_20190104_040681	Ignas has been defeated!	이그나스를 처치했습니다!			
+ETC_20190104_040664	Derrote Ignas, que se juntou com os demônios
+ETC_20190104_040665	Você entrou em Astral Tower Closed Quarters
+ETC_20190104_040666	Todos os jogadores foram derrotados
+ETC_20190104_040667	Você excedeu o limite de 1 hora e falhou a dungeon
+ETC_20190104_040668	Você retornará para a área original após 30 segundos
+ETC_20190104_040669	Eu estava atrasado
+ETC_20190104_040670	Derrote o monstro para coletar suas almas{nl}Use as almas para carregar o integrador e desarmar a barreira
+ETC_20190104_040671	Aparelho de Controle Mágico Preto		
+ETC_20190104_040672	Aparelho de Controle Mágico Verde
+ETC_20190104_040673	Aparelho de Controle Mágico Amarelo
+ETC_20190104_040674	Aparelho de Controle Mágico Azul
+ETC_20190104_040675	Aparelho de Controle Mágico Amarelo
+ETC_20190104_040676	Você falhou em defender o Condensador Mágico
+ETC_20190104_040677	Você derrotou o Prodded Horse
+ETC_20190104_040678	Prodded Horse apareceu{nl}Derrote-o para desarmar a barreira!
+ETC_20190104_040679	Um Gerador de Energia foi destruído.
+ETC_20190104_040680	Ignas apareceu!
+ETC_20190104_040681	Ignas foi derrotado!
 ETC_20190104_040682	Test stage is currently running{nl}Turn off the Stage when the issue has been resolved	현재 테스트용 스테이지가 실행 중입니다{nl}문제가 해결 되면 본  Stage를 off시켜 주세요			
-ETC_20190108_040683	Lucky Golden Pig Costume Set	황금 복돼지 코스튬 세트				
-ETC_20190108_040684	Use to obtain all of the following items.{nl} - Lucky Golden Pig Costume x1{nl} - Lucky Golden Pig Helmet x1	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 황금 복돼지 코스튬 1개{nl} - 황금 복돼지 헬멧 코스튬 1개				
-ETC_20190108_040685	Lucky Golden Pig	황금 복돼지				
-ETC_20190108_040686	Lucky Golden Pig Helmet	황금 복돼지 헬멧				
+ETC_20190108_040683	Lucky Golden Pig Costume Set
+ETC_20190108_040684	Use para obter os seguintes itens:{nl} - Lucky Golden Pig Costume x1{nl} - Lucky Golden Pig Helmet x1
+ETC_20190108_040685	Lucky Golden Pig
+ETC_20190108_040686	Lucky Golden Pig Helmet
 ETC_20190112_040687	Desde os dias de Agailla Flurry, a necromancia que envolvia o uso de corpos e espíritos humanos foi abolida. Desde então, Necromancers se reorganizaram como usuários de magias que conduzem estudos em monstros, não humanos.{nl}Necromancer coleta partes dos monstros derrotados para reanimá-los. Podem sobrar vida nestes monstros para atacar alvos ou criar invocações.
 ETC_20190112_040688	Time of forced deletion for zombie status client in barrack server (unit: sec)	배럭 서버에서 Zombie상태가 된 클라이언트의 강제 삭제 시간(단위:초)			
 ETC_20190112_040689	Time of forced deletion for zombie status commander in zone server (unit: sec)	존 서버에서 Zombie상태가 된 커맨더의 강제 삭제 시간(단위:초)			
+ETC_20190116_040690	Tem certeza que deseja excluir?
+ETC_20190122_040691	FPS indivudial da instância
