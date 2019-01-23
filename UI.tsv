@@ -1,4 +1,4 @@
-﻿UI_20150317_000001	{@st41b}Aprender Atributos{nl}dos Mestres de cada classe.{/}
+﻿UI_20150317_000001		{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
 UI_20150317_000002	{@st43}Lista de Atributos {/}
 UI_20150317_000003	{@st59}Fechar{/}
 UI_20150317_000004	{@st43}Aprender Atributos{/}
@@ -85,7 +85,7 @@ UI_20150317_000084	{@st41b}Support {@sti7}%s{/}
 UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}
 UI_20150317_000086	{@st59}Fechar{/}
 UI_20150317_000087	Alerta de Progresso
-UI_20150317_000088	{@st43} Mudar de Classe
+UI_20150317_000088	{@st43} Mudar Classe
 UI_20150317_000089	{@sti7}{s14} Personagem {/}
 UI_20150317_000090	{@sti8}{s14} Classe {/}
 UI_20150317_000091	{@st44}Chat{/}
@@ -577,7 +577,7 @@ UI_20150317_000576	{@st41b}Aprimorar{/}
 UI_20150317_000577	{@st59}Iniciar Melhoria de Item{/}
 UI_20150317_000578	{@st59}Fechar{/}
 UI_20150317_000579	{@st41b} Você quer refinar os {@sti9}×%s{/} itens selecionados?{/}
-UI_20150317_000580	{@st43}Aprimoramento
+UI_20150317_000580	{@st43}Refinamento
 UI_20150317_000581	{@st44}Melhorar Item{/}
 UI_20150317_000582	{s24}{b}{#000000}Melhoria Concluída!
 UI_20150317_000583	{@st41}Melhorar Novamente{/}
@@ -1230,7 +1230,7 @@ UI_20150317_001229	{@st42b}Preço Atual {img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001230	{@St41}Compra agora! {Img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001231	{@St41b}Receber itens{/}
 UI_20150317_001232	{@st42b} Preço do Lance {img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_001233	{@Sti7}Voltar
+UI_20150317_001233	{@Sti7}Costas
 UI_20150317_001234	{@St59}Cabeça{/}
 UI_20150317_001235	{@St59}Bracelete Esquerdo{/}
 UI_20150317_001236	{@St59}Bracelete Direito{/}
@@ -1280,7 +1280,7 @@ UI_20150317_001279	Janelas
 UI_20150317_001280	Condição
 UI_20150317_001281	Guia
 UI_20150317_001282	Imagem do Item
-UI_20150317_001283	Efeito
+UI_20150317_001283	 - Efeito
 UI_20150317_001284	Control Set
 UI_20150317_001285	{@St41}Dificuldade : %s
 UI_20150317_001286	{@St42}Tempo Restante : %s
@@ -1426,7 +1426,7 @@ UI_20150401_001424	{@st41}Vender Tudo
 UI_20150401_001425	{@st43}Caixa de Oferenda
 UI_20150401_001426	Oferecer
 UI_20150401_001427	Fechar Negociação
-UI_20150401_001428	Estimativa de Saldo
+UI_20150401_001428	Saldo Estimado
 UI_20150401_001429	{@st45tw}Caixa de Oferenda
 UI_20150401_001430	{@st41}Sem Conteúdo
 UI_20150401_001431	{@st43}Lista do usuário da zona atual{/}
@@ -1746,7 +1746,7 @@ UI_20150729_001744	{@st42}Procurar Integrantes do Grupo{/}
 UI_20150729_001745	Quando um jogador atender aos critérios que você definiu, será exibida a mensagem [Compatível com Grupo!] na tela.
 UI_20150729_001746	{@st41b}Lista de Jogador Recomendado{/}
 UI_20150729_001747	{@st41}Informações de Atributo
-UI_20150729_001748	{@st59}Cancelar Aprimoramento{/}
+UI_20150729_001748	{@st59}Cancelar Refinamento{/}
 UI_20150729_001749	{@st59b}Melhoria de Gema/Carta{nl}{@st59s} - Selecione uma gema ou uma carta do Inventário para melhorar.{nl} - Todos os itens, exceto os de quest, podem ser usados como material para melhorar gemas.{nl} (mais eficiente ao usar uma gema como material){nl} - As cartas apenas podem ser melhorados com outras cartas.{/}
 UI_20150729_001750	{#000000}{s22}Fila do Servidor
 UI_20150729_001751	{#000000}{s22}O servidor está lotado. Aguarde na fila para entrar.
@@ -1766,7 +1766,7 @@ UI_20150730_001764	{@st56}Meu Rank
 UI_20150730_001765	{@st56}Kill Rank
 UI_20150730_001766	{@st56}Damage Rank
 UI_20150803_001767	Geral: /s chat{nl}Global: /y chat {nl}Grupo: /p chat{nl} Privado: /w TeamNome chat
-UI_20150803_001768	{@st66b}Controller Vibration{/}
+UI_20150803_001768	{@st66b}Vibração do Controle{/}
 UI_20150803_001769	Partida encontrada. Aguarde para entrar.
 UI_20150804_001770	{@st43}{s18}Escolha o personagem para receber{/}
 UI_20150804_001771	Soquetes Máximos : %s
@@ -1774,7 +1774,7 @@ UI_20150807_001772	{@st41b}Detalhes {img red_down_arrow 16 16}
 UI_20150807_001773	{@st41b}Preço :{/}
 UI_20150807_001774	{@st41b}Após Reparo :{/}
 UI_20150918_001775	Duração do Acampamento
-UI_20150918_001776	Efeito
+UI_20150918_001776	 - Efeito
 UI_20150918_001777	A duração do acampamento aumenta ao ser renovado{nl} Requer %s de prata.
 UI_20150918_001778	Depósito Pessoal
 UI_20150918_001779	{@st41b}Tipo: {@sti7}%s{/}
@@ -1832,12 +1832,12 @@ UI_20151102_001830	TP
 UI_20151224_001831	{@st41b}Change{s18}(Requires 100 TP){/}
 UI_20151224_001832	Consume Quantity
 UI_20151224_001833	Quantity Available
-UI_20151224_001834	{@st43}Loja de Buffs{/}
+UI_20151224_001834	{@st43}Loja de Graças{/}
 UI_20151224_001835	{@st59}Fechar{/}
-UI_20151224_001836	{@st43}Loja de Buffs
-UI_20151224_001837	Loja de Buffs
+UI_20151224_001836	{@st43}Loja de Graças
+UI_20151224_001837	Loja de Graças
 UI_20151224_001838	{@st59}Fechar
-UI_20151224_001839	{@st59}Loja de Buffs{nl} - Você pode receber um buff do jogador pagando em Silver.
+UI_20151224_001839	{@st59}Loja de Graças{nl} - Você pode receber buffs do jogador pagando em Silver.
 UI_20151224_001840	{@st41b}Build
 UI_20151224_001841	{@st41b}Materiais e Preço
 UI_20151224_001842	{@st66b}Basement
@@ -1939,7 +1939,7 @@ UI_20151224_001937	Mostrar Equipes próximas
 UI_20151224_001938	Equipes Públicas
 UI_20151224_001939	Diferença de Lv.
 UI_20151224_001940	Usar 'Equipe Recomendada'
-UI_20151224_001941	{@st66b}Insert Party Invite Tag
+UI_20151224_001941	{@st66b}Inserir Link do Grupo
 UI_20151224_001942	Competitive Mission
 UI_20151224_001943	Unit
 UI_20151224_001944	{@st41b}Entrar
@@ -1966,8 +1966,8 @@ UI_20151224_001964	{@st66b}Configurar Char{/}
 UI_20151224_001965	{@st59}Coleção (F11){/}
 UI_20151224_001966	{@st66b}Key Settings
 UI_20151224_001967	{@st42}Duração: %s{/}
-UI_20151224_001968	Applies to this %s for %s{nl} and Apagar %s from inventory
-UI_20151224_001969	Aplicar apenas em{nl}%s durante %s {nl}e excluir %s do inventário..{/}
+UI_20151224_001968	Remove %s do seu{nl}Inventário, ativando os benefícios por %s{nl}para %s.{/}
+UI_20151224_001969	Remove %s do seu{nl}Inventário e aplica para %s.{/}
 UI_20151224_001970	The duration of your Token can be seen in Character Settings.
 UI_20151224_001971	{@st59}Fechar{/}
 UI_20151224_001972	{@st43}{s18}Provar e Comprar
@@ -2747,7 +2747,7 @@ UI_20170912_002745	Clears
 UI_20170912_002746	Localização
 UI_20170912_002747	%s
 UI_20170912_002748	Pontos de Classe %s
-UI_20170912_002749	Team Level %s
+UI_20170912_002749	Nível do Time %s
 UI_20170912_002750	Exploração
 UI_20170912_002751	%s % Explorado
 UI_20170912_002752	- Lv. Recomendado
@@ -2888,7 +2888,7 @@ UI_20170912_002887	{@st59}Only Templar Guild Master in Team{/}
 UI_20170912_002888	{@st66b}Renascendo na cidade próxima (30 segundos){/}
 UI_20170912_002889	{@st66b}Ver nome do Grupo{/}
 UI_20170912_002890	{@st66b}Item de Receita Obtido{/}
-UI_20170912_002891	{@st43}PvP Configurar{/}
+UI_20170912_002891	{@st43}Configurar PvP{/}
 UI_20170912_002892	{@st66b}Escala da fonte de Dano (%s){/}
 UI_20170912_002893	{@st66b}Mostrar tiles{/}
 UI_20170912_002894	{@st66b}Usar efeitos de ataque
@@ -3048,7 +3048,7 @@ UI_20180402_003047	{img notice_br_link 16 16}{@st99w16}Link Relacionado
 UI_20180409_003048	{@st66b}Sombras
 UI_20180413_003049	{@st43b}{s18}Benefits (Coming Soon){/}
 UI_20180413_003050	> Por favor, consulte o nosso site oficial em treeofsavior.com para obter mais informações sobre as recompensas e benefícios do Territory Wars durante o período de testes beta.
-UI_20180418_003051	{@st47}{s18}See Processed Equipment
+UI_20180418_003051	{@st47}{s18}Exibir Itens Processados
 UI_20180418_003052	{@st42}Títulos Usáveis [%s]{/}
 UI_20180418_003053	{@st42}{#00fec5}Estágio do buff de Título
 UI_20180418_003054	{@st42}N° para o próximo Estágio
@@ -3331,11 +3331,11 @@ UI_20180629_003330	{@st66b}Ver apenas Nome do Time{/}
 UI_20180629_003331	{@st66b}Ver nome do Grupo{/}
 UI_20180629_003332	{@st66b}Ver nome dos Jogadores{/}
 UI_20180629_003333	{@st66b}Ver HP/SP abaixo do Char{/}
-UI_20180629_003334	{@st66b}Ver nome do Item Dropado{/}
+UI_20180629_003334	{@st66b}Nome Item Obtido{/}
 UI_20180629_003335	{@st66b}Mensagem de Silver Ganho{/}
 UI_20180629_003336	{@st66b}Mensagem de EXP Ganho{/}
 UI_20180629_003337	{@st66b}Ver nome das Invocações{/}
-UI_20180629_003338	{@st66b}See Tile Range{/}
+UI_20180629_003338	{@st66b}Ver Alcance{/}
 UI_20180629_003339	{@st66b}Tamanho da UI da Flauta (%s){/}
 UI_20180629_003340	{@st66b}Escutar flauta dos outros{/}
 UI_20180629_003341	{@st59}Desmarque se você não quiser ouvir as flautas de outros personagens.{/}
@@ -3509,7 +3509,7 @@ UI_20181017_003508	{@st66b}Mágico{/}
 UI_20181017_003509	{@st66b}Raro{/}
 UI_20181017_003510	{@st66b}Único{/}
 UI_20181017_003511	{@st66b}Lendário{/}
-UI_20181017_003512	{@st66b}Somente Aprimorados/Transcendidos{/}
+UI_20181017_003512	{@st66b}Somente Refinados/Transcendidos{/}
 UI_20181017_003513	{@st66b}Somente Não-Identificados{/}
 UI_20181017_003514	{@st66b}Todas as Cartas{/}
 UI_20181017_003515	{@st66b}Cartas Vermelhas{/}
@@ -3576,19 +3576,19 @@ UI_20181017_003575	Nv. Pureza
 UI_20181017_003576	Remover Atributo
 UI_20181017_003577	Nome Config. Salva
 UI_20181017_003578	Remover Config.
-UI_20181017_003579	Nv Troca
+UI_20181017_003579	Nível para Trocas
 UI_20181017_003580	Nv Personagem %s
-UI_20181017_003581	Team %s+ days old	팀 생성 %s일 이상			
+UI_20181017_003581	Time tem %s+ dias
 UI_20181017_003582	%s Revelações Obtidas
-UI_20190104_003583	{@st66d}Extract Attribute Points	{@st66d}특성 포인트 추출			
-UI_20190104_003584	{@st59s}Consumes 100,000 silver to extract 1,000 attribute points{nl} to a single Attribute Point Scroll.	{@st59s}100,000실버를 소비하여 특성 포인트 1000당{nl}특성 포인트 스크롤 1개로 추출합니다.			
-UI_20190104_003585	Fee	수수료			
-UI_20190104_003586	%s Silver	%s 실버			
-UI_20190104_003587	Scrolls Extracted	추출할 특성 포인트 스크롤			
-UI_20190104_003588	Amount Spent	소비 실버			
-UI_20190104_003589	Points Extracted	추출 특성 포인트			
-UI_20190104_003590	Points Remaining	잔여 특성 포인트			
-UI_20190104_003591	{@st66b}Extract	{@st66b}추출			
+UI_20190104_003583	{@st66d}Extrair Pontos de Atributo
+UI_20190104_003584	{@st59s}Consome 100,000 Silver para extrair 1,000 pontos de atributo{nl} em um único Attribute Point Scroll.
+UI_20190104_003585	Taxa
+UI_20190104_003586	%s Silver
+UI_20190104_003587	Pergaminhos Extraídos
+UI_20190104_003588	Valor Gasto
+UI_20190104_003589	Pontos Extraídos
+UI_20190104_003590	Pontos Restantes
+UI_20190104_003591	{@st66b}Extrair
 UI_20190104_003592	Collection Effects	컬렉션 효과			
 UI_20190104_003593	{@st59}Scout Tree{/}	{@st59}스카우트 계열{/}			
 UI_20190104_003594	{@st41b}Identification Cost{/} %s	{@st41b}감정 비용{/}%s			
@@ -3696,10 +3696,10 @@ UI_20190104_003695	Show recruiting guilds only	가입 가능한 길드만 보기
 UI_20190104_003696	Skip cube animation	큐브 애니메이션 스킵			
 UI_20190104_003697	{@st43}{s20}Team Use{/}	{@st43}{s20}팀 이용 현황{/}			
 UI_20190104_003698	Ranking	랭킹 정보			
-UI_20190104_003699	{@st43}News{/}	{@st43}뉴스{/}	UI_20170726_002688	{@st43}NEWS{/}	{@st43}이벤트 안내{/}
-UI_20190104_003700	{@st59}Seals{/}	{@st59}인장{/}			
-UI_20190104_003701	{@st41b}Dismantlement Cost{/}%s	{@st41b}분해 비용{/}%s			
-UI_20190104_003702	{@st66d_y}Inser the Awakening Stone.{/}	{@st66d_y}각성석을 추가해주세요.{/}			
+UI_20190104_003699	{@st43}Notícias{/}
+UI_20190104_003700	{@st59}Selos{/}
+UI_20190104_003701	{@st41b}Custo para Desmanchar{/}%s
+UI_20190104_003702	{@st66d_y}Insira Awakening Stone.{/}
 UI_20190104_003703	Awakening Stone Item Name	각성석 아이템 이름			
 UI_20190104_003704	{@st66b}* Re-identifying an item maintains the number of stats and the groups (colors) they belong to. Only the particular stats and their values can change.{/}	{@st66b}* 재감정시 옵션 그룹(색상)과 옵션 개수는 유지되며, {nl}세부 옵션과 옵션 수치만 변경됩니다.{/}			
 UI_20190104_003705	{@st43}Enhance Seal	{@st43}인장 강화			
@@ -3723,12 +3723,12 @@ UI_20190104_003722	* Após a mudança, você receberá pontos de atributos{nl}eq
 UI_20190104_003723	* Class EXP Cards equivalentes ao último nv de Classe{nl}conquistado serão adicionados ao seu Inventário.
 UI_20190104_003724	* Você retornará ao Alojamento após a mudança.
 UI_20190104_003725	* Você não pode mudar de Classe Base sem usar{nl}primeiro todos os EXP Recovery Cards do Inventário.
-UI_20190104_003726	Are you sure you want to change to the selected class?{/}	선택하신 클래스를 변경하시겠습니까?{/}	UI_20171128_002964	Would you like to undo your last advancement?{/}	마지막 전직을 취소하고 되돌리시겠습니까?{/}
-UI_20190104_003727	Your class will be changed into the newly-selected class{nl}and {@st66d_y}Class Change Points will be consumed.{/}{/}	해당 클래스의 전직을 취소하고 선택한 클래스로 변경되며{nl}{@st66d_y}클래스 변경 포인트가 소모됩니다.{/}{/}	UI_20180517_003174	If you undo your current class advancement,{nl}the advancement will be undone and{nl}{@st66d_y}your current class EXP will disappear.{/}{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}{@st66d_y}클래스 경험치는 사라집니다.{/}{/}
-UI_20190104_003728	* Skills and attributes of deleted{nl}classes will be returned as points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.			
-UI_20190104_003729	* Changing your class will remove the class costumes{nl}for classes you had previously advanced into.	* 클래스 변경을 진행하면 기존에 전직했던{nl} 클래스의 코스튬이 제거됩니다.			
-UI_20190104_003730	* You will return to your Lodge after confirming.	* 변경 후에는 캐릭터 선택창으로 돌아갑니다.			
-UI_20190104_003731	* Common attributes will also be reset,{nl}and attribute points will be returned.	* 변경 시 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.			
+UI_20190104_003726	Tem certeza que deseja trocar de classe?{/}
+UI_20190104_003727	Sua classe será trocada para a classe escolhida{nl}e {@st66d_y}Pontos de Troca de Classe serão consumidos.{/}{/}
+UI_20190104_003728	* Habilidades e atributos da classe{nl}removida retornarão como pontos.
+UI_20190104_003729	* Mudar de classe removerá os Trajes da classe{nl}que está sendo alterada e retirada.
+UI_20190104_003730	* Você retornará para o Alojamento após confirmar.
+UI_20190104_003731	* Atributos em comum também reiniciarão,{nl}e pontos de atributo serão devolvidos.
 UI_20190104_003732	{@st41b}Repair Cost{/} %s	{@st41b}수리 비용{/} %s			
 UI_20190104_003733	{@st66b}%sResurrect with a Mysterious Crystal%s{/}	{@st66b}%s신비한 크리스탈로 부활하기%s{/}			
 UI_20190104_003734	{@st42}{s20}Habilidades e Atributos
@@ -3741,9 +3741,9 @@ UI_20190104_003740	{@st66b}Top 3 ranking players per class tree receive a{nl}{#0
 UI_20190104_003741	{@st66b}Scout	{@st66b}스카우트			
 UI_20190104_003742	{@st66b}{s16}Scout	{@st66b}{s16}스카우트			
 UI_20190104_003743	{@st59b}My Information{nl}{@st59s}- Stats: Leveling up enhances your 5 basic stats. {nl}- Information: This is information about your character based on your current stats and equipment. {nl}- Title: Titles can be earned by accomplishing achievements. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 증가하는 5가지 능력{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}	UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : Use the points you earned by leveling up to enhance the 5 status attributes. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 얻은 포인트를 사용해서 5가지 능력 강화{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}
-UI_20190104_003744	{@st66b}Compare Equipment{/}	{@st66b}장비 비교하기{/}			
-UI_20190104_003745	{@st66b}Show guild and team names in GTW{/}	{@st66b}콜로니전 길드 이름, 팀 이름 보기{/}			
-UI_20190104_003746	{@st66b}Show effect costumes in GTW{/}	{@st66b}콜로니전 이펙트 코스튬 효과 켜기{/}			
+UI_20190104_003744	{@st66b}Comparar Equipamento{/}
+UI_20190104_003745	{@st66b}Ver Guilda/Nome em GTW{/}
+UI_20190104_003746	{@st66b}Efeitos de Equip. em GTW{/}
 UI_20190104_003747	{@st68b}{@st43b}{s18}{img clock_3 25 25}Time Remaining: %s{/}{/}	{@st68b}{@st43b}{s18}{img clock_3 25 25}남은 상점이용시간 : %s{/}{/}			
 UI_20190104_003748	99 Days 99 Hours 99 Minutes	99일 99시간 99분			
 UI_20190104_003749	  Exchange Vouchers available{/}	  보유중인 교환권{/}			
@@ -3778,7 +3778,7 @@ UI_20190104_003777	{@st66d_y}What to know what class is right for you?{/}{nl}   
 UI_20190104_003778	{@st41b}{s16}Move	{@st41b}{s16}이동			
 UI_20190104_003779	{s16}{b}{ol}{ds}Details >>	{s16}{b}{ol}{ds}자세히 보기>>			
 UI_20190104_003780	Class Name	직업 이름			
-UI_20190104_003781	Change the selected class.	해당 클래스를 변경합니다.			
+UI_20190104_003781	Clique para trocar esta classe.
 UI_20190104_003782	You can change a class that is required for one of your current classes.	특정 클래스의 선행 직업인 경우 변경할 수 없습니다.			
 UI_20190104_003783	Party Member Name	파티원이름이에요			
 UI_20190104_003784	{@st43b}{s18}Habilidades
