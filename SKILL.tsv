@@ -1719,7 +1719,7 @@ SKILL_20150317_001718	Parrying	패링
 SKILL_20150317_001719	Reduced movement speed.	이동속도가 감소합니다.				
 SKILL_20150317_001720	STR and INT increased when killing enemy in this state	이 상태의 적을 죽이면 힘과 지능이 일시적으로 증가함				
 SKILL_20150317_001721	Increased attack.	공격력이 증가합니다.				
-SKILL_20150317_001722	Increased defense.	방어력이 증가합니다.				
+SKILL_20150317_001722	Defesa aumentada.
 SKILL_20150317_001723	Great Bear camp	북두진				
 SKILL_20150317_001724	Provocação
 SKILL_20150317_001725	During each attack, their threat level will increase.	매 공격시 자신의 위협수준이 증가합니다.				
@@ -1750,7 +1750,7 @@ SKILL_20150317_001749	Sequentially heal all abnormal states.	상태이상을 순
 SKILL_20150317_001750	Continuously receive Holy damage.	지속적으로 신성 피해를 입는 상태입니다.				
 SKILL_20150317_001751	Increased HP recovery speed.	체력 회복속도가 향상됩니다.				
 SKILL_20150317_001752	Holy Baptism	성수 세례				
-SKILL_20150317_001753	Holy property added to your attacks.	신성 속성 공격력 부여				
+SKILL_20150317_001753	Elemento Sagrado adicionado aos ataques.
 SKILL_20150317_001754	Limitation	리미테이션				
 SKILL_20150317_001755	Max. strength increased temporarily	일시적으로 최대 체력이 증가합니다				
 SKILL_20150317_001756	Venom	베놈				
@@ -4087,7 +4087,7 @@ SKILL_20150428_004086	Increased SP recovery speed.	SP 회복 속도 증가.
 SKILL_20150428_004087	Increase Splash.	스플래시 증가.				
 SKILL_20150428_004088	Stamina Recovery	스태미나 회복				
 SKILL_20150428_004089	Continuously recovering Stamina.	지속적인 스태미나 회복.				
-SKILL_20150428_004090	Increased magic defense.	마법 방어력 증가.				
+SKILL_20150428_004090	Aumenta a Defesa Mágica.
 SKILL_20150428_004091	Increased Dark property attack.	어둠 속성 공격력 증가.				
 SKILL_20150428_004092	Red Aura	레드 오라				
 SKILL_20150428_004093	Blue Aura	블루 오라				
@@ -6766,7 +6766,7 @@ SKILL_20161005_006765	Gohei	고헤이
 SKILL_20161005_006766	Sweeping	빗자루질				
 SKILL_20161005_006767	Hamaya	하마야				
 SKILL_20161005_006768	Kagura	카구라				
-SKILL_20161005_006769	Grants additional damage to attacks.	공격에 추가 대미지가 부여됩니다.	SKILL_20150317_001807	Increased attack of the next skill used.	다음 사용하는 스킬의 공격력 증가합니다.	
+SKILL_20161005_006769	Garante dano adicional aos ataques.
 SKILL_20161005_006770	Gradually reduces maximum HP and becomes vulnerable to arrow attacks.	최대 HP가 점차 줄어들며, 화살 공격에 취약해집니다.	SKILL_20150406_003597	Gradually decreases your maximum HP.	최대 HP가 점차 줄어듭니다.	
 SKILL_20161005_006771	Unable to Attack	공격 불가	SKILL_20151224_005938	Skills cannot be used	스킬 사용 불가	
 SKILL_20161005_006772	Serpentine: Melee Attack Bonus	서펜틴: 근접공격 보너스				
@@ -10232,7 +10232,7 @@ SKILL_20180129_010231	Max. HP +1000, AoE attack ratio +1 and unlimited STA for 1
 SKILL_20180129_010232	Market Time Limit	야시장 참여 중				
 SKILL_20180129_010233	Unable to use skills.{nl}Automatically move to city after duration.	스킬을 사용할 수 없습니다.{nl}10분 뒤 마을로 이동합니다.				
 SKILL_20180208_010234	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Repeatedly stab enemies with your spear. Repeated stabs inflicts more damage to enemies.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}창으로 적을 연속으로 찔러 피해를 줍니다. 연속으로 찌를수록 적에게 주는 대미지가 증가합니다.	SKILL_20150414_003626	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Repeatedly stab enemies with your spear.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}창으로 적을 연속으로 찔러 피해를 줍니다.	
-SKILL_20180208_010235	Attack: #{SkillFactor}#% x 15{nl}Taxa de Ataque em Área: #{SkillSR}#{nl} Damage increase up to 100%	공격력 #{SkillFactor}#% x 15회{nl}광역 공격 비율 #{SkillSR}#{nl}대미지 최대 100% 증가	SKILL_20170420_008409	Attack: #{SkillFactor}#% x 15{nl}AoE Attack Ratio #{SkillSR}#	공격력 #{SkillFactor}#% x 15회{nl}광역 공격 비율 #{SkillSR}#	
+SKILL_20180208_010235	Attack: #{SkillFactor}#% x 15{nl}Taxa de Ataque em Área: #{SkillSR}#{nl} Dano aumenta até 100%
 SKILL_20180208_010236	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Inflicts damage to enemies by jumping to your designated location. Damage increases in proportion to inventory weight. Additional damage does not exceed a maximum of 100%.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}순간적으로 지정된 위치로 도약하여 범위 내 적에게 피해를 줍니다. 자신의 인벤토리 무게 비율만큼 대미지가 증가합니다. 무게 비율로 증가하는 대미지는 최대 100%를 넘지 못합니다.	SKILL_20150317_000972	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Inflicts damage to an enemy by jumping to your designated location.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}순간적으로 지정된 위치로 도약하여 범위 내 적에게 피해를 줍니다.	
 SKILL_20180208_010237	Attack: #{SkillFactor}#%{nl}Targets 10	공격력 #{SkillFactor}#%{nl}적용 대상 10	SKILL_20170420_008413	Attack: #{SkillFactor}#%{nl}Target 5	공격력 #{SkillFactor}#%{nl}적용 대상 5	
 SKILL_20180208_010238	{#DD5500}{ol}[Strike]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy. The attack will apply as critical attack to enemies afflicted with [Shock].{nl}{Duration will be changed to 8 seg in PvP.)	{#DD5500}{ol}[때리기]{/}{/}{nl}소형, 중형 몬스터를 창에 관통시켜 꽂고 다닙니다. 꽂힌 적을 이용하여 다른 적을 공격할 수 있습니다. 충격 디버프 상태의 적에게 무조건 치명타가 발생합니다.{nl}(PVP 서버에선 지속시간이 8초로 변경됩니다.)	SKILL_20170420_008436	{#DD5500}{ol}[Strike]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy.{nl}(Duration will be changed once you enter PVP Server)	{#DD5500}{ol}[때리기]{/}{/}{nl}소형, 중형 몬스터를 창에 관통시켜 꽂고 다닙니다. 꽂힌 적을 이용하여 다른 적을 공격할 수 있습니다.{nl}(PVP 서버에선 지속시간이 8초로 변경됩니다.)	
@@ -12696,7 +12696,7 @@ SKILL_20190104_012695	Ataca o inimigo com um movimento em cruz, causando [Bleedi
 SKILL_20190104_012696	Multiplicador: #{SkillFactor}#% x 2{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Duração de {#339999}{ol}[Bleeding]{/}{/}: 10 segundos
 SKILL_20190104_012697	Attack with a descending vertical slash. Deals additional damage on Medium- and Large-sized enemies according to how much their defense has been decreased by [Skull Swing]. An additional bonus damage is applied depending on the number of harmful effects that have been applied to the enemy.	치켜든 검을 몸의 중심 방향을 따라 수직으로 내리꽂는 공격을 합니다. 스컬 스윙으로 방어력이 감소된 중형, 대형 적에게는 깎인 방어력 수치에 비례하여 추가 대미지를 줍니다. 적에게 적용된 해로운 효과의 개수에 따라 추가대미지 보너스가 적용됩니다.	SKILL_20151224_005741	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with a descending vertical slash. Deals additional damage on medium and large-type enemies according to how much their defense has been decreased by [Skull Swing]. An additional bonus damage will be applied depending on the amount of harmful effect that have been applied to the enemy.	{#DD5500}{ol}[물리] - [베기]{/}{/}{nl}치켜든 검을 몸의 중심 방향을 따라 수직으로 내리꽂는 공격을 합니다. 스컬 스윙으로 방어력이 감소된 중형, 대형 적에게는 깎인 방어력 수치에 비례하여 추가 대미지를 줍니다. 적에게 적용된 해로운 효과의 개수에 따라 추가대미지 보너스가 적용됩니다.	
 SKILL_20190104_012698	Ataca os inimigos repetidamente. Quanto maior o número de golpes consecutivos, maior será o dano causado.
-SKILL_20190104_012699	Multiplicador: #{SkillFactor}#% x 15{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Damage increase up to 100%	스킬 계수 #{SkillFactor}#% x 15회{nl}광역 공격 비율 #{SkillSR}#{nl}대미지 최대 100% 증가	SKILL_20180208_010235	Attack: #{SkillFactor}#% x 15{nl}Taxa de Ataque em Área: #{SkillSR}#{nl} Damage increase up to 100%	공격력 #{SkillFactor}#% x 15회{nl}광역 공격 비율 #{SkillSR}#{nl}대미지 최대 100% 증가	
+SKILL_20190104_012699	Multiplicador: #{SkillFactor}#% x 15{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Dano aumenta até 100%
 SKILL_20190104_012700	Perfura os inimigos para causar dano. Quanto maior o inimigo, maior a quantidade de ataques consecutivos causados.{nl}{#00113F}Se você utilizar [Dragoon Helmet], o número de ataques consecutivos de [Pierce] aumenta em 1.{/}
 SKILL_20190104_012701	Multiplicador: #{SkillFactor}#%{nl}Alvos Médios: 2 ataques{nl}Alvos Grandes: 3 ataques{nl}Monstros Chefe: 4 ataques
 SKILL_20190104_012702	Ativa a postura de [Finestra] para atacar. Reduz a sua Evasão, mas aplica uma Taxa de Crítico adicional aos ataques com lança. O efeito de [Finestra] é cancelado se você mudar para qualquer outra arma que não seja uma lança.
@@ -12716,7 +12716,7 @@ SKILL_20190104_012715	Libera um golpe poderoso para perfurar o inimigo, depois c
 SKILL_20190104_012716	Critical Rate: +#{CaptionRatio}#%{nl}Critical Resistance: +#{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos	치명타 발생 #{CaptionRatio}#% 증가{nl}치명타 저항 #{CaptionRatio}#%증가{nl}지속시간 #{CaptionTime}#초	SKILL_20150804_005030	Critical Rate: +#{CaptionRatio}#%{nl}Critical Resistance: +#{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos	치명타 발생 #{CaptionRatio}#%증가{nl}치명타 저항 #{CaptionRatio}#%증가{nl}지속시간 #{CaptionTime}#초	
 SKILL_20190104_012717	Pisoteia um inimigo enquanto estiver no ar ou pulando.
 SKILL_20190104_012718	Reduz temporariamente a defesa dos inimigos ao redor, aumentando o dano causado neles em proporção ao número de alvos ao redor.
-SKILL_20190104_012719	Targets: 10{nl}Defesa Física do inimigo: -10%{nl}Dano Físico: +#{CaptionRatio}# x [alvos afetados x 2.5]%{nl}Reduz a Defesa Física do inimigo por 10 segundos{nl}Aumenta o Dano Físico por #{CaptionTime}# segundos
+SKILL_20190104_012719	Alvos: 10{nl}Defesa Física do inimigo: -10%{nl}Dano Físico: +#{CaptionRatio}# x [alvos afetados x 2.5]%{nl}Reduz a Defesa Física do inimigo por 10 segundos{nl}Aumenta o Dano Físico por #{CaptionTime}# segundos
 SKILL_20190104_012720	Aumenta a Velocidade de Ataque Básico. Acumula gradualmente e aumenta o dano causado, conforme você ataca o inimigo. Os acúmulos de [Frenzy] reduzem em 1 a cada 3 segundos sem atacar.
 SKILL_20190104_012721	Causa +2% de dano por acúmulo{nl}Máximo acumulável: #{CaptionRatio2}# ataques{nl}Consome 101 SP{nl}Velocidade de Ataque Básico: +#{CaptionRatio}#
 SKILL_20190104_012722	Swing an enemy around, using centrifugal force to throw it away. Affected enemies have their accuracy reduced.	적을 잡아 원심력을 이용해 돌려서 힘껏 내던집니다. 피격된 적은 명중이 감소합니다.	SKILL_20170420_008419	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Swing an enemy around, using centrifugal force to throw it away.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}적을 잡아 원심력을 이용해 돌려서 힘껏 내던집니다. 피격된 적은 명중이 감소합니다.	
@@ -12786,7 +12786,7 @@ SKILL_20190104_012785	Move-se rapidamente para evitar ataques inimigos e causar 
 SKILL_20190104_012786	Multiplicador: #{SkillFactor}#% x 5{nl}+100% de Evasão enquanto estiver usado a habilidade
 SKILL_20190104_012787	Bloqueio aumenta em 100% enquanto a habilidade for utilizada{nl}Duração máxima: #{CaptionRatio2}# segundos{nl}Duração do Buff: 45 segundos
 SKILL_20190104_012788	Realiza um ataque complexo com o seu Florete. o bloqueio contra ataques físicos aumenta enquanto estiver usando a habilidade.
-SKILL_20190104_012789	Multiplicador: #{SkillFactor}#% x 2{nl}Increases block by 100% while the skill is in use	스킬 계수 #{SkillFactor}#% x 2회{nl}스킬 사용 중 블록 100% 증가	SKILL_20170420_008459	Attack: #{SkillFactor}#% x 2	공격력 #{SkillFactor}#% x 2회	
+SKILL_20190104_012789	Multiplicador: #{SkillFactor}#% x 2{nl}Aumenta o Bloqueio em 100% equanto estiver utilizando a habilidade
 SKILL_20190104_012790	Avança rapidamente para atacar. Alvos acertados terão sua Resistência à Crítico reduzida.{#00113F}O cooldown de [Back Slide] será reiniciado após utilizar [Balestra Fente].{/}
 SKILL_20190104_012791	Multiplicador: #{SkillFactor}#%{nl}Máximo de alvos: 10{nl}-20% de Resistência à Crítico
 SKILL_20190104_012792	Strike the enemy's hands to make them drop their weapons. The enemy cannot receive the weapon's effects until they pick it up. (The enemy picks up the weapon automatically after some time.)	레이피어로 적의 손을 쳐서 무기를 떨어뜨리게 합니다. 상대방은 무기를 줍기 전까지는 무기의 효과를 받지 못합니다. (무기는 일정시간 후 자동으로 회수됩니다.)	SKILL_20170420_008469	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}Attack Speed]{/}{/}{nl}Strikes the enemy hands to drop their weapons with a rapier. The enemy cannot get the effect of the weapon until they pick it up. (The enemy picks up the weapon automatically after duration.) 	{#DD5500}{ol}[물리] - [찌르기]{/}{/} {#7AE4FF}{ol}[{img tooltip_speedofatk}공격속도]{/}{/}{nl}레이피어로 적의 손을 쳐서 무기를 떨어뜨리게 합니다. 상대방은 무기를 줍기 전까지는 무기의 효과를 받지 못합니다. (무기는 일정시간 후 자동으로 회수됩니다.)	
@@ -14966,7 +14966,7 @@ SKILL_20190112_014965	Necromancer: Corpse Fragment Capacity	네크로맨서: 사
 SKILL_20190112_014966	* Increases Necronomicon's maximum corpse fragment capacity by 100 per attribute level	* 네크로노미콘의 최대 사체 파편 보유량이 특성 레벨당 100 증가	SKILL_20170313_007844	* Increases Necronomicon's maximum corpse capacity by 100 per attribute level	* 네크로노미콘의 최대 사체 보유량이 특성 레벨당 100 증가
 SKILL_20190112_014967	Raise Dead: Collect Corpse Fragments	해골 병사 만들기: 사체 파편 수집	SKILL_20180517_011566	Raise Dead: Collect Corpse	해골 병사 만들기: 사체 수집
 SKILL_20190112_014968	* When a Skull Soldier defeats a monster, the Necronomicon gains 1 corpse fragment per attribute level{nl}* Consumo de SP + 10%	* 해골 병사가 몬스터 처치 시 네크로노미콘의 사체 파편을{nl}    특성 레벨당 1 수집{nl}* SP 소모 10%증가	SKILL_20170420_008982	* When a Skull Soldier defeats a monster, the Necronomicon gains 1 corpse per attribute level{nl}* Consumo de SP + 10%	* 해골 병사가 몬스터 처치 시 네크로노미콘의 사체를{nl}    특성 레벨당 1 수집{nl}* SP 소모 10%증가
-SKILL_20190122_014969	Critical Rate: +#{CaptionRatio}#% applied{nl}Evasion: -20%{nl}Duration: #{CaptionTime}# seconds	치명타 발생 #{CaptionRatio}#% 추가 적용{nl}회피 20% 감소{nl}지속시간 #{CaptionTime}#초	SKILL_20190104_012703	Critical Rate: +#{CaptionRatio}#%{nl}Evasion: -20%{nl}Duration: #{CaptionTime}# seconds	치명타 발생 #{CaptionRatio}#% 증가{nl}회피 20% 감소{nl}지속시간 #{CaptionTime}#초
+SKILL_20190122_014969	Taxa de Crítico: +#{CaptionRatio}#% aplicado{nl}Evasão: -20%{nl}Duração: #{CaptionTime}# segundos
 SKILL_20190122_014970	Additional critical rate applied, evasion reduced	치명타 발생 추가 적용, 회피 감소	SKILL_20150317_001802	Increased critical rate, reduced evasion	치명타 발생 증가, 회피 감소
 SKILL_20190122_014971	Fire Property Skill Damage Increased	불 속성 스킬 대미지 증가			
 SKILL_20190122_014972	* Grants a 10% chance per skill use of applying a buff that increases Fire-property attack damage by 30% for 5 seconds	* 스킬 사용 시 10% 확률로 불 속성 공격 시 대미지가 30% 증가하는 버프가 5초간 걸림	SKILL_20170313_007799	* Using Fire property attacks to finish nearby enemies will cause an explosion and splash damage by 80% with a 30% chance	* 적을 불 속성 공격으로 마무리 하면 30% 확률로 폭발이 일어나{nl}    근처 적들에게 대미지의 80%만큼 대미지

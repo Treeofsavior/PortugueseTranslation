@@ -24044,7 +24044,7 @@ ETC_20160811_024038	The store has not yet opened.
 ETC_20160811_024039	Successfully changed the Lodge Layout.
 ETC_20160811_024040	{CNT} {TP}TP Vouchers
 ETC_20160811_024041	There are no available sockets.
-ETC_20160811_024042	Opinion about the Nheto Forest Painting
+ETC_20160811_024042	Opinião sobre a pintura de Nheto Forest
 ETC_20160811_024043	The truth of the Ruklys Incident
 ETC_20160811_024044	There does not seem to be any books worth reading
 ETC_20160811_024045	King Kadumel's Monument - Revised
@@ -31905,10 +31905,10 @@ ETC_20180320_031873	Verificar total de charadas resolvidas
 ETC_20180320_031874	Retornar!
 ETC_20180320_031875	Você acertou  
 ETC_20180320_031876	 até agora.
-ETC_20180320_031877	What can you tell me about the Bookshelf of Ripped Books?
-ETC_20180320_031878	Sure, I can gather a few Ripped Book Pages.
-ETC_20180320_031879	Please explain.
-ETC_20180320_031880	I have some book pages for you.
+ETC_20180320_031877	E esta prateleira de livros rasgados?
+ETC_20180320_031878	Claro, posso conseguir uns Ripped Book Pages.
+ETC_20180320_031879	Por favor, explique.
+ETC_20180320_031880	Tenho algumas páginas para você.
 ETC_20180320_031881	Woof! Woof!
 ETC_20180320_031882	You have found all the items in this area.{nl}Move to another area and find more collection items there.
 ETC_20180320_031883	Failed to create {TYPE}. Please try again later.
@@ -37501,7 +37501,7 @@ ETC_20190104_037415	You do not have enough vouchers.	소유중인 교환권이 �
 ETC_20190104_037416	[Premium] [10%] Discount off new items	[프리미엄]신규 상품 [10%]할인			
 ETC_20190104_037417	Restricted from trading via Market	마켓 거래 불가			
 ETC_20190104_037418	{@st41b}{#0064FF}Title:{/}{/} 	{@st41b}{#0064FF}칭호 :{/}{/} 	ETC_20150317_001957	{@st41b} Title {/}	{@st41b}칭호 :{/} 
-ETC_20190104_037419	{@st59}Increases amount healed, magic critical attack and damage dealt by summons{/}	{@st59}치유력, 마법 치명타 공격력, 소환수의 대미지 증가{/}				
+ETC_20190104_037419	{@st59}Aumenta a cura, Ataque Crítico Mágico e dano de invocações{/}
 ETC_20190104_037420	[Allerno Family]{nl}Asta	[아렐르노 남작가]{nl}아스타			
 ETC_20190104_037421	{#003399}[CARTÕES DE EXPERIÊNCIA]{/} e {#003399}[ITENS EQUIPADOS]{/} estão guardados na {#003399}[ABA RECUPERAR DO MERCADO]{/}.{nl}Fale com algum NPC {#003399}[GERENTE DO MERCADO]{/} para receber os itens!
 ETC_20190104_037422	Você pode usar a Estátua da Deusa para transportar até o Mestre da classe que você escolheu avançar.
@@ -37679,7 +37679,7 @@ ETC_20190104_037593	Protect me while I charge the Power Supply Device!	동력 �
 ETC_20190104_037594	The Power Supply Device has been charged!	동력 제어 장치의 충전이 끝났군!			
 ETC_20190104_037595	At last, there are no more barriers standing in our way.	이제 이그나스와 우리 사이에 있던{nl}모든 결계가 사라졌네			
 ETC_20190104_037596	Please go defeat Ignas before it's too late!	이그나스가 뭔가 큰 일을 벌이기 전에{nl}그 자를 처리해주게!			
-ETC_20190104_037597	I've gathered the pages of the torn book.	찢어진 책장을 모아왔다고 한다	ETC_20180320_031878	Sure, I can gather a few Ripped Book Pages.	찢어진 책의 책장을 모아왔다고 한다
+ETC_20190104_037597	Consegui as páginas para o livro.
 ETC_20190104_037598	You have found all the items in this area.{nl}Move to another area and find more collection items there.	이곳에 있는 모든 아이템을 찾았습니다.{nl}다른 곳으로 이동해 컬렉션 아이템을 찾아보세요.	ETC_20180320_031882	You have found all the items in this area.{nl}Move to another area and find more collection items there.	이곳에 있는 모든 아이템을 찾았습니다.{nl}다른 곳으로 이동해 콜렉션 아이템을 찾아보세요.
 ETC_20190104_037599	Magic Generating Stones have been successfully blocked!	마력 재생석을 성공적으로 차단했습니다!			
 ETC_20190104_037600	Report the results of the investigation.	조사한 내용을 말한다			
@@ -37758,9 +37758,9 @@ ETC_20190104_037672	Level {LV} or higher are allowed.	{LEVEL}레벨 이상만 �
 ETC_20190104_037673	{ID_NAME} (Nv.: {ID_LV}, 1 avanço de classe)
 ETC_20190104_037674	{nl}Avançar para a classe?{nl}(Esta escolha só poderá ser alterada através de Mudança de Classe)
 ETC_20190104_037675	{@st44}Info do próximo Avanço de Classe
-ETC_20190104_037676	{@st59}Increases physical attack{/}	{@st59}물리 공격력 증가{/}			
-ETC_20190104_037677	{@st59}Increases max HP, physical defense and magic defense{/}	{@st59}최대 HP, 물리 방어력, 마법 방어력 증가{/}			
-ETC_20190104_037678	{@st59}Increases attack speed and physical critical attack{/}	{@st59}공격 속도, 물리 치명타 공격력 증가{/}			
+ETC_20190104_037676	{@st59}Aumenta Ataque Físico{/}
+ETC_20190104_037677	{@st59}Aumenta HP Máximo, Defesa Física e Defesa Mágica{/}
+ETC_20190104_037678	{@st59}Aumenta Velocidade de Ataque e Ataque Crítico Físico{/}
 ETC_20190104_037679	Are you sure you want to discard {#fe7e00}[{ITEM}]{/} x{#fe7e00}[{COUNT}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을/를 {#fe7e00}[{COUNT}]{/}개 버리시겠습니까?	ETC_20180528_033098	Are you sure you want to discard {#fe7e00}[{ITEM}]{/} x{#fe7e00}[{COUNT}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을 {#fe7e00}[{COUNT}]{/}개 버리시겠습니까?
 ETC_20190104_037680	Are you sure you want to discard {#fe7e00}[{ITEM}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을/를 버리시겠습니까?	ETC_20180528_033099	Are you sure you want to discard {#fe7e00}[{ITEM}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을 버리시겠습니까?
 ETC_20190104_037681	There are objects blocking the area.	해당 위치에 물체가 있습니다.			
