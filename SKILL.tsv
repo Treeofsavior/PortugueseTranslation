@@ -6598,8 +6598,8 @@ SKILL_20161005_006597	Absorbable Evil Spirits: #{CaptionRatio}#{nl}Cooldown Redu
 SKILL_20161005_006598	Ghastly Trail	사바쓰				
 SKILL_20161005_006599	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Make the summoned evil spirits to follow you in line.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}현재 소환되어 있는 악령을 시전자 뒤에 줄지어 따라다니게 합니다.				
 SKILL_20161005_006600	Additional Damage: #{SkillAtkAdd}#{nl}Maximum Duração: 5 seconds{nl}Requires summoned Evil Spirits	추가 공격력 #{SkillAtkAdd}#{nl}최대 지속시간 5초{nl}소환된 악령 필요				
-SKILL_20161005_006601	Memorize your current location or create a portal for you or your party members to be able to use. If a location is being saved, it records the coordinates of your current position before going on cooldown, you must wait for the cooldown to end before you are then able to open a portal.	자신과 파티원들이 이용할 수 있게 위치를 저장하거나 포탈을 생성합니다. 위치 저장시 현재 있는곳의 좌표를 저장하며, 원하는 위치의 포탈을 다시 열기 위해서는 대기시간을 기다려야 합니다.				
-SKILL_20161005_006602	Saveable Portals: #{CaptionRatio}#{nl}Portal Cooldown: #{CaptionTime}# minutes{nl}Portal Duração: 15 seconds	포탈 저장 가능 수 #{CaptionRatio}#개{nl}포탈 재사용 대기시간 #{CaptionTime}#분{nl}포탈 지속시간 15초				
+SKILL_20161005_006601	Memoriza a sua localização atual ou cria um portal para que você e seus aliados possam utilizar. Se uma localização estiver sendo salva, as coordenadas da sua posição atual. Para abrir o portal, você precisará aguardar o cooldown da localização recém salva.
+SKILL_20161005_006602	Portais salvos: #{CaptionRatio}#{nl}Cooldown do portal: #{CaptionTime}# minutos{nl}Duração do portal: 15 segundos
 SKILL_20161005_006603	Warp to Friend	친구에게 이동				
 SKILL_20161005_006604	Warps to the selected friend. You cannot warp to a friend who is in an instance dungeon.	지정된 친구의 옆으로 워프합니다. 인스턴스 던전에 입장한 친구에게 이동할 수 없습니다.				
 SKILL_20161005_006605	Warp to Specific Friend's Location	선택한 친구의 위치로 이동				
@@ -6608,14 +6608,14 @@ SKILL_20161005_006607	Distorts the space into a small size to deal damage to ene
 SKILL_20161005_006608	Ultimate Dimension	얼티밋 디멘션				
 SKILL_20161005_006609	Distorts the space into a large size to deal damage to enemies.	공간을 크게 왜곡하여 지정된 범위의 적들에게 피해를 줍니다.				
 SKILL_20161005_006610	Blink	블링크				
-SKILL_20161005_006611	Leave behind an apparition on your location and you get teleported randomly to a different place. The apparition remains for a period of time and receives damage from the monsters in your stead.	자신이 있던 자리에 잔상을 남기고 임의의 위치로 순간 이동합니다. 잔상은 잠시동안 위치에 남아 몬스터의 위협을 대신 받습니다.				
-SKILL_20161005_006612	Apparition Duração: #{CaptionTime}# segundos	잔상 유지시간 #{CaptionTime}#초				
+SKILL_20161005_006611	Deixa uma aparição no seu local, enquanto você é teleportado para um local aleatório. A aparição permanece por um tempo e recebe dano dos montros no seu lugar.
+SKILL_20161005_006612	Duração: #{CaptionTime}# segundos
 SKILL_20161005_006613	Maze	메이즈				
 SKILL_20161005_006614	Locks the enemies in the selected location up in a different dimension. The locked enemies will not be able get attacked by receives continous damage while in the state and once unlocked, get sileneced.	지정한 위치에 있는 적들을 다른 차원 공간에 가둡니다. 가둬진 적들은 외부의 피해를 받지 않지만, 지속적인 피해를 받고 메이즈가 끝나면 침묵 상태가 됩니다.				
 SKILL_20161005_006615	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Dimension Duração: #{CaptionTime}# segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio}#%{nl}공간 지속시간 #{CaptionTime}#초				
 SKILL_20161005_006616	Magic Circle Reduction	마법진 축소				
 SKILL_20161005_006617	Missile Hole	미사일 홀				
-SKILL_20161005_006618	For a period of time, grants an effect that can minimize damage from missile attacks and magic bullet attacks for you and your party members.	일정 시간 동안 자신과 파티원에게 미사일 공격과 마법 탄환 공격의 피해를 극소화 하는 효과를 부여합니다.				
+SKILL_20161005_006618	Por um certo tempo, garante um efeito que minimiza o dano de ataques do tipo Projétil e míssies mágicos, tanto para você como para seus aliados.
 SKILL_20161005_006619	Duração: #{CaptionTime}# segundos{nl}Number of Blocks: #{CaptionRatio}#	지속시간 #{CaptionTime}#초{nl}방어 횟수 #{CaptionRatio}#회	SKILL_20150317_001081	Duração: #{CaptionTime}# segundos	지속시간 #{CaptionTime}#초	
 SKILL_20161005_006620	{#993399}{ol}[Magic]{/}{/}{nl}Sprinkle magic powder around to attack and boost movement speed of the allies.	{#993399}{ol}[마법]{/}{/}{nl}마법 가루를 주위에 뿌려, 주변 적들에게 피해를 주고 아군에게는 일시적으로 이동속도를 증가시킵니다.				
 SKILL_20161005_006621	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Increased Movement Speed Duração: #{CaptionTime}# segundos	공격력 #{SkillAtkAdd}#{nl}특성 공격력 #{CaptionRatio}#%{nl}이동속도 증가 지속시간 #{CaptionTime}#초				
@@ -6969,23 +6969,23 @@ SKILL_20161005_006968	Magic Powder: Aprimorar	마법 가루: 강화
 SKILL_20161005_006969	Increases the damage dealt on an enemy with [Magic Powder] by 1% per attribute level.	적에게 입히는 [마법 가루]의 대미지가 특성 레벨당 1% 증가합니다.				
 SKILL_20161005_006970	Magic Powder: Duration	마법 가루: 지속시간				
 SKILL_20161005_006971	Increases the effect duration of [Magic Powder] by 1 second per attribute level.	스킬 [마법 가루]의 효과 지속시간이 특성 레벨당 1초 증가합니다.				
-SKILL_20161005_006972	Portal: Extra Slots	포탈: 슬롯 추가				
+SKILL_20161005_006972	Portal: Espaços Adicionais
 SKILL_20161005_006973	Increases the amount of Portal slots by 1 per attribute level.	포탈의 슬롯수가 특성 레벨당 1 증가합니다.				
 SKILL_20161005_006974	Micro Dimension: Aprimorar	마이크로 디멘션: 강화				
 SKILL_20161005_006975	Increases the damage dealt on an enemy with [Micro Dimension] by 1% per attribute level.	적에게 입히는 [마이크로 디멘션]의 대미지가 특성 레벨당 1% 증가합니다.				
 SKILL_20161005_006976	Ultimate Dimension: Aprimorar	얼티밋 디멘션: 강화				
 SKILL_20161005_006977	Increases the damage dealt on an enemy with [Ultimate Dimension] by 1% per attribute level.	적에게 입히는 [얼티밋 디멘션]의 대미지가 특성 레벨당 1% 증가합니다.				
-SKILL_20161005_006978	Ultimate Dimension: Confusion	얼티밋 디멘션: 혼란				
+SKILL_20161005_006978	Ultimate Dimension: Confusão
 SKILL_20161005_006979	Inflicts [Confusion] on an enemy with [Ultimate Dimension] for 8 seconds at a 5% chance per attribute level.	스킬 [얼티밋 디멘션]에 피격된 적이 특성 레벨당 5% 확률로 8초동안 [혼란] 상태에 빠집니다.				
-SKILL_20161005_006980	Blink: Duration	블링크: 지속시간				
+SKILL_20161005_006980	Blink: Duração
 SKILL_20161005_006981	Increases the afterimage duration of [Blink] by 1 second per attribute level.	스킬 [블링크]의 잔상 지속시간이 특성 레벨당 1초 증가합니다.				
 SKILL_20161005_006982	Maze: Aprimorar	메이즈: 강화				
 SKILL_20161005_006983	Increases the damage dealt on an enemy with [Maze] by 1% per attribute level.	적에게 입히는 [메이즈]의 대미지가 특성 레벨당 1% 증가합니다.				
 SKILL_20161005_006984	Maze: Confusion	메이즈: 혼란				
 SKILL_20161005_006985	When [Maze]'s effect ends, there is 10% chance per attribute level that the enemy becomes confused rather than silenced.	스킬 [메이즈]의 효과가 끝난 후 적이 특성 레벨당 10% 확률로 [침묵]이 아닌 [혼란] 상태에 빠집니다.				
-SKILL_20161005_006986	Micro Dimension: Duplicate	마이크로 디멘션: 듀플리케이트				
+SKILL_20161005_006986	Micro Dimension: Duplicar
 SKILL_20161005_006987	Doubles ally installments and summons within the range of [Micro Dimension]. Cloned targets will not be further duplicated.	스킬 [마이크로 디멘션]이 공격한 범위 내에 있는 아군의 일부 설치물 및 소환물을 2개로 복제합니다. 복제된 대상은 다시 복제되지 않습니다.				
-SKILL_20161005_006988	Ultimate Dimension: Enlarged Magic Circle	얼티밋 디멘션: 마법진 확대				
+SKILL_20161005_006988	Ultimate Dimension: Amplicar Círculo Mágico
 SKILL_20161005_006989	Increases the range of an ally's magic circle within the range of [Ultimate Dimension] by 10%.	스킬 [얼티밋 디멘션]이 공격한 범위 내에 아군의 마법진이 있으면 마법진의 크기가 10% 확대됩니다.				
 SKILL_20161005_006990	Combination: Aprimorar	콤비네이션: 강화				
 SKILL_20161005_006991	Increases the damage dealt on an enemy with [Combination] by 1% per attribute level.	적에게 입히는 [콤비네이션]의 대미지가 특성 레벨당 1% 증가합니다.				
@@ -9019,7 +9019,7 @@ SKILL_20170420_009018	* [Magic Powder] effect duration increases by 1 second per
 SKILL_20170420_009019	* Increases damage dealt with [Micro Dimension] by 0.5% per attribute level	* 적에게 입히는 [마이크로 디멘션]의 대미지가 특성 레벨당{nl}    0.5% 증가	SKILL_20170313_007897	* Increases damage dealt with [Micro Dimension] by 1% per attribute level	* 적에게 입히는 [마이크로 디멘션]의 대미지가 특성 레벨당{nl}    1% 증가	
 SKILL_20170420_009020	* Increases damage dealt with [Ultimate Dimension] by 0.5% per attribute level	* 적에게 입히는 [얼티밋 디멘션]의 대미지가 특성 레벨당{nl}    0.5% 증가	SKILL_20170313_007898	* Increases damage dealt with [Ultimate Dimension] by 1% per attribute level	* 적에게 입히는 [얼티밋 디멘션]의 대미지가 특성 레벨당{nl}    1% 증가	
 SKILL_20170420_009021	* Grants [Ultimate Dimension] a 5% chance per attribute level to confuse the enemy for 8 seconds{nl}* Consumo de SP + 10%	* 스킬 [얼티밋 디멘션]에 피격된 적이 특성 레벨당 5% 확률로{nl}    8초동안 [혼란] 디버프{nl}* SP 소모 10%증가	SKILL_20170313_007899	* Grants [Ultimate Dimension] a 5% chance per attribute level to confuse the enemy for 8 seconds{nl}* Consumo de SP + 16	* 스킬 [얼티밋 디멘션]에 피격된 적이 특성 레벨당 5% 확률로{nl}    8초동안 [혼란] 디버프{nl}* SP 소모 16증가	
-SKILL_20170420_009022	* Increases [Blink]'s apparition duration by 1 second per attribute level{nl}* Consumo de SP + 10%	* 스킬 [블링크]의 잔상 지속시간이 특성 레벨당 1초 증가{nl}* SP 소모 10%증가	SKILL_20170313_007900	* Increases [Blink]'s apparition duration by 1 second per attribute level{nl}* Consumo de SP + 15	* 스킬 [블링크]의 잔상 지속시간이 특성 레벨당 1초 증가{nl}* SP 소모 15증가	
+SKILL_20170420_009022	* Aumenta a duração de [Blink] em 1 segundo por nível do atributo.{nl}* Consumo de SP + 10%
 SKILL_20170420_009023	* Increases damage dealt with [Maze] by 0.5% per attribute level	* 적에게 입히는 [메이즈]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_007901	* Increases damage dealt with [Maze] by 1% per attribute level	* 적에게 입히는 [메이즈]의 대미지가 특성 레벨당 1% 증가	
 SKILL_20170420_009024	* When [Maze] effect ends, grants 10% chances per attribute level of confusing the enemy instead of silencing them{nl}* Consumo de SP + 10%	* 스킬 [메이즈]의 효과가 끝난 후 적이 특성 레벨당 10% 확률로 [침묵]이 아닌 [혼란] 디버프{nl}* SP 소모 10%증가	SKILL_20170313_007902	* When [Maze] effect ends, grants 10% chances per attribute level of confusing the enemy instead of silencing them{nl}* Consumo de SP + 5	* 스킬 [메이즈]의 효과가 끝난 후 적이 특성 레벨당 10% 확률로 [침묵]이 아닌 [혼란] 디버프{nl}* SP 소모 5증가	
 SKILL_20170420_009025	* Doubles ally installments and summons within the range of [Micro Dimension]{nl}* Cloned targets will not be further duplicated{nl}* Consumo de SP + 50%	* 스킬 [마이크로 디멘션]이 공격한 범위 내에 있는 아군의{nl}    일부 설치물 및 소환물을 2개로 복제{nl}* 복제된 대상은 다시 복제되지 않음{nl}* SP 소모 50%증가	SKILL_20170313_007903	* Doubles ally installments and summons within the range of [Micro Dimension]{nl}* Cloned targets will not be further duplicated{nl}* Consumo de SP + 20	* 스킬 [마이크로 디멘션]이 공격한 범위 내에 있는 아군의{nl}    일부 설치물 및 소환물을 2개로 복제{nl}* 복제된 대상은 다시 복제되지 않음{nl}* SP 소모 20증가	
@@ -9734,8 +9734,8 @@ SKILL_20171128_009733	Additional Attack: #{SkillFactor}#%{nl}Applies 10 times{nl
 SKILL_20171128_009734	Demon Scratch	데몬 스크래치				
 SKILL_20171128_009735	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Create a magic circle that summons a demon's arm in front of you. The summoned demon disappears after attacking.	{#993399}{ol}[마법] - [암흑]{/}{/}{nl}전방에 악마의 팔을 소환하는 마법진을 생성합니다. 소환된 악마는 전방을 공격한 뒤 사라집니다.				
 SKILL_20171128_009736	Portal Shop	포탈 상점				
-SKILL_20171128_009737	Set up a Portal Shop. By learning the Portal skill, allies can move to locations that you have saved.	포탈을 열 수 있는 상점을 개설합니다. 포탈 스킬을 습득해야 사용할 수 있고, 포탈 스킬로 저장한 위치만 이동 가능합니다.				
-SKILL_20171128_009738	Up to 3 saved locations may be used	포탈 개시 가능 수 3회				
+SKILL_20171128_009737	Instala uma loja para vender portais. Você pode vender os portais alvos para quem utilizar a sua loja.
+SKILL_20171128_009738	Pode vender até 3 portais
 SKILL_20171128_009739	Dimension Compression	디멘션 컴프레션				
 SKILL_20171128_009740	Compresses the space around a single enemy, dealing damage. Quick Cast has no effect, but the longer the skill is charged, the more damage that is dealt. Nearby enemies are pulled in.	지정한 단일 적 주변의 공간을 압축하여 적에게 피해를 줍니다. 퀵 캐스트가 적용되지 않지만, 챠지하는 시간이 길수록 적에게 주는 피해도 증가합니다. 주변 적들이 피격 된 적에게 모입니다.				
 SKILL_20171128_009741	Attack: #{SkillFactor}#% x 4{nl}Max Charge Time: 3 seconds{nl}Damage can be increased by up to 2x{nl}Gathers a maximum of 8 enemies	공격력 #{SkillFactor}#%{nl}최대 챠지시간 3초{nl}적에게 주는 피해 최대 2배 증가{nl}최대 8의 적이 모임				
@@ -10036,11 +10036,11 @@ SKILL_20171128_010035	* Kundela Slash hits twice if enemy is affected by 2 or mo
 SKILL_20171128_010036	Levitation: Cursed Blood	레비테이션: 저주받은 피				
 SKILL_20171128_010037	* Increases Featherfoot skill damage by 10% while using [Levitation]{nl}* Consumo de SP + 50%	* [레비테이션] 상태에서는 페더풋 스킬의 대미지가 특성 레벨 당 {nl}    10% 증가{nl}* SP 소모 50%증가				
 SKILL_20171128_010038	* When [Lightning Hands] is active, enemies hit by basic attacks have a 1% chance per attribute level of being afflicted with [Magic Shock]{nl}* Enemies affected by [Magic Shock] receive 20% more damage from magic attacks{nl}* Consumo de SP + 20%	* [라이트닝 핸즈] 적용 중, 기본 공격에 피격된 적은 특성 레벨당{nl}    1% 확률로 [라이트닝 핸즈: 마법 감전] 디버프 적용{nl}* 해당 디버프에 걸린 대상은 마법 공격에 받는 대미지 20%증가{nl}* SP 소모 20%증가				
-SKILL_20171128_010039	Dimension Compression: Aprimorar	디멘션 컴프레션: 강화				
+SKILL_20171128_010039	Dimension Compression: Aprimorar
 SKILL_20171128_010040	* Increases damage dealt with [Dimension Compression] by 0.5% per attribute level	* 적에게 입히는 [디멘션 컴프레션]의 대미지가 특성 레벨당 0.5% 증가				
-SKILL_20171128_010041	Micro Dimension: After Effects	마이크로 디멘션: 축소 왜곡 후유증				
+SKILL_20171128_010041	Micro Dimension: Efeito Posterior
 SKILL_20171128_010042	* Micro Dimension damage hits 1 additional time when compressed space expands after 1.5 seconds, dealing damage to enemies nearby and yourself{nl}* Consumo de SP + 50%	* 피격된 적은 1.5초 후에 압축된 공간이 급속도로 확장되며{nl}    본인 포함 주변에 [마이크로 디멘션] 대미지를 1회 더 적용{nl}* SP 소모 50%증가				
-SKILL_20171128_010043	Ultimate Dimension: After Effects	얼티밋 디멘션: 확대 왜곡 후유증				
+SKILL_20171128_010043	Ultimate Dimension: Efeito Posterior
 SKILL_20171128_010044	* Enemies hit receive additional property-less damage every 0.5 seconds for [Attribute Level * 1 seconds]{nl}* Consumo de SP + 50%	* 피격된 적은 [특성 레벨 x 1초]간 0.5초마다{nl}    무속성 추가 대미지 적용{nl}* SP 소모 50%증가				
 SKILL_20171128_010045	Shadow Thorn: Aprimorar	섀도우 쏜: 강화				
 SKILL_20171128_010046	* Increases damage with [Shadow Thorn] by 0.5% per attribute level	* 적에게 입히는 [섀도우 쏜]의 대미지가 특성 레벨당 0.5% 증가				
@@ -12227,7 +12227,7 @@ SKILL_20180827_012226	Trapped.	붙잡혀 있는 상태입니다.
 SKILL_20180827_012227	Hakka Palle: Endurance	하카 팰레: 인듀어런스				
 SKILL_20180827_012228	Vulnerable to Strike attacks.	때리기 공격에 취약한 상태입니다.				
 SKILL_20180827_012229	Bleeding, additional damage received.	출혈, 추가 피해를 받음				
-SKILL_20180827_012230	Missile Hole: Escape	미사일 홀: 도주				
+SKILL_20180827_012230	Missile Hole: Escapar
 SKILL_20180827_012231	Yin Yang Mediator	음양의 조율자				
 SKILL_20180827_012232	Holy and Dark property damage increased by 20%.	신성 속성, 어둠 속성 공격 대미지 20% 증가				
 SKILL_20180827_012233	Increased damage dealt and received	받는 피해, 주는 피해 증가				
@@ -12378,12 +12378,12 @@ SKILL_20180827_012377	Criar Enchant Round: Gelo
 SKILL_20180827_012378	* Permite construir Ice Enchant Rounds com Magic Powder{nl}* Disponível após aprender [Criar Enchant Round]
 SKILL_20180827_012379	Agility: Movement Speed	어질리티: 이동속도				
 SKILL_20180827_012380	* Increases the movement speed of [Agility]'s caster by 5{nl}* Consumo de SP + 20%	* [어질리티]를 사용한 시전자의 이동속도 5 증가{nl}* SP 소모 20%증가				
-SKILL_20180827_012381	* Doubles ally installments and summons within the range of [Micro Dimension]{nl}* Cloned targets will not be further duplicated{nl}* Consumo de SP + 30%	* 스킬 [마이크로 디멘션]이 공격한 범위 내에 있는 아군의{nl}    일부 설치물 및 소환물을 2개로 복제{nl}* 복제된 대상은 다시 복제되지 않음{nl}* SP 소모 30%증가	SKILL_20170420_009025	* Doubles ally installments and summons within the range of [Micro Dimension]{nl}* Cloned targets will not be further duplicated{nl}* Consumo de SP + 50%	* 스킬 [마이크로 디멘션]이 공격한 범위 내에 있는 아군의{nl}    일부 설치물 및 소환물을 2개로 복제{nl}* 복제된 대상은 다시 복제되지 않음{nl}* SP 소모 50%증가	
-SKILL_20180827_012382	* Increases the range of ally magic circles within the range of [Ultimate Dimension] by 10%{nl}* Consumo de SP + 30%	* 스킬 [얼티밋 디멘션]이 공격한 범위 내에 아군의 마법진이{nl}    있으면 마법진의 크기가 10% 확대{nl}* SP 소모 30%증가	SKILL_20170420_009026	* Increases range of ally magic circles within the range of [Ultimate Dimension] by 10%{nl}* Consumo de SP + 50%	* 스킬 [얼티밋 디멘션]이 공격한 범위 내에 아군의 마법진이{nl}    있으면 마법진의 크기가 10% 확대{nl}* SP 소모 50%증가	
-SKILL_20180827_012383	* [Micro Dimension] damage hits 1 additional time after 1.5 seconds, dealing damage to enemies nearby and yourself{nl}* Consumo de SP + 30%	* 피격된 적은 1.5초 후에 압축된 공간이 급속도로 확장되며{nl}    본인 포함 주변에 [마이크로 디멘션] 대미지를 1회 더 적용{nl}* SP 소모 30%증가	SKILL_20171128_010042	* Micro Dimension damage hits 1 additional time when compressed space expands after 1.5 seconds, dealing damage to enemies nearby and yourself{nl}* Consumo de SP + 50%	* 피격된 적은 1.5초 후에 압축된 공간이 급속도로 확장되며{nl}    본인 포함 주변에 [마이크로 디멘션] 대미지를 1회 더 적용{nl}* SP 소모 50%증가	
-SKILL_20180827_012384	* Enemies hit receive additional property-less damage every 0.5 seg for [attribute level * 1 seg]{nl}* Consumo de SP + 30%	* 피격된 적은 [특성 레벨 x 1초]간 0.5초마다{nl}    무속성 추가 대미지 적용{nl}* SP 소모 30%증가	SKILL_20171128_010044	* Enemies hit receive additional property-less damage every 0.5 seconds for [Attribute Level * 1 seconds]{nl}* Consumo de SP + 50%	* 피격된 적은 [특성 레벨 x 1초]간 0.5초마다{nl}    무속성 추가 대미지 적용{nl}* SP 소모 50%증가	
+SKILL_20180827_012381	* Dobra as instalações aliadas e invocações dentro da área de [Micro Dimension]{nl}* Clones não serão duplicados.{nl}* Consumo de SP + 30%
+SKILL_20180827_012382	* Aumenta em 10% a área de círculos mágicos aliados dentro da área de [Ultimate Dimension].{nl}* Consumo de SP + 30%
+SKILL_20180827_012383	* [Micro Dimension] causa mais 1 ataque após 1.5 segundos, causando dano nos inimigos ao redor{nl}* Consumo de SP + 30%
+SKILL_20180827_012384	* Inimigos alvejados recebem dano neutro a cada 0.5 segundos após utilizar [Ultimate Dimension].{nl}* Duração aumenta em 1 segundo por nível do atributo.{nl}* Consumo de SP + 30%
 SKILL_20180827_012385	* Fixes movement speed at 60 for 3 seg when your defense count reaches 0 while [Missile Hole] is active{nl}* Consumo de SP + 30%	* [미사일 홀] 효과 활성화 중 방어 횟수가 모두 차감되었을 때, 3초 동안 이동속도가 60으로 고정{nl}* SP 소모 30%증가				
-SKILL_20180827_012386	Blink: Looming	블링크: 강렬한 위협				
+SKILL_20180827_012386	Blink: Assombro
 SKILL_20180827_012387	* Doubles the provocation levels of your [Blink] apparition{nl}* Increases cooldown by 10 seg	* 스킬 [블링크] 사용으로 생기는 잔상의 도발 수치가 2배 증가{nl}* 재사용 대기시간 10초 증가				
 SKILL_20180827_012388	Hole of Darkness: Aprimorar	홀 오브 다크니스: 강화				
 SKILL_20180827_012389	* Increases the damage dealt on an enemy with [Hole of Darkness] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [홀 오브 다크니스]의 대미지가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
@@ -13060,13 +13060,13 @@ SKILL_20190104_013059	Damage Taken While Casting: -#{CaptionRatio}#%{nl}Duraçã
 SKILL_20190104_013060	Rune of Rock	돌의 룬				
 SKILL_20190104_013061	Send five giant rocks falling from the sky to deal damage down below.	하늘에서 부터 거대한 돌덩이 5개를 떨어뜨려 적에게 피해를 줍니다.				
 SKILL_20190104_013062	Multiplicador: #{SkillFactor}#%{nl}Consumes Rune Stone x1	스킬 계수 #{SkillFactor}#%{nl}룬 스톤 1개 소모				
-SKILL_20190104_013063	Distorts space into a small size to attack enemies. Deals 50% more damage to Slow enemies.	공간을 작게 왜곡하여 적에게 피해를 줍니다. 슬로우에 걸린 적에게 주는 대미지가 50% 증가합니다.	SKILL_20161005_006607	Distorts the space into a small size to deal damage to enemies.	공간을 작게 왜곡하여 적에게 피해를 줍니다.	
-SKILL_20190104_013064	Distorts space into a large size to deal damage on a targeted range. Deals 50% more damage to Slow enemies.	공간을 크게 왜곡하여 지정된 범위의 적들에게 피해를 줍니다. 슬로우에 걸린 적에게 주는 대미지가 50% 증가합니다.	SKILL_20161005_006609	Distorts the space into a large size to deal damage to enemies.	공간을 크게 왜곡하여 지정된 범위의 적들에게 피해를 줍니다.	
-SKILL_20190104_013065	Multiplicador: #{SkillFactor}#%{nl}Duração: 1.5 seconds	스킬 계수 #{SkillFactor}#%{nl}지속시간 1.5초	SKILL_20170420_008536	Attack: #{SkillFactor}#%{nl}Duração: 1.5 seconds	공격력 #{SkillFactor}#%{nl}지속시간 1.5초	
-SKILL_20190104_013066	Compresses the space around a single enemy, dealing damage. Quick Cast has no effect, but the longer the skill is charged, the more damage is dealt. Nearby enemies are pulled in. Deals 30% more damage to Slow enemies.	지정한 단일 적 주변의 공간을 압축하여 적에게 피해를 줍니다. 퀵 캐스트가 적용되지 않지만, 챠지하는 시간이 길수록 적에게 주는 피해도 증가합니다. 주변 적들이 피격 된 적에게 모입니다. 슬로우에 걸린 적에게 주는 대미지가 30% 증가합니다.	SKILL_20171128_009740	Compresses the space around a single enemy, dealing damage. Quick Cast has no effect, but the longer the skill is charged, the more damage that is dealt. Nearby enemies are pulled in.	지정한 단일 적 주변의 공간을 압축하여 적에게 피해를 줍니다. 퀵 캐스트가 적용되지 않지만, 챠지하는 시간이 길수록 적에게 주는 피해도 증가합니다. 주변 적들이 피격 된 적에게 모입니다.	
-SKILL_20190104_013067	Multiplicador: #{SkillFactor}#% x 4{nl}Maximum Charge Time: 3 seconds{nl}Damage can be increased by up to 2x{nl}Gathers a maximum of 15 enemies	스킬 계수 #{SkillFactor}#% x 4회{nl}최대 챠지시간 3초{nl}적에게 주는 피해 최대 2배 증가{nl}모이는 개체수 최대 15	SKILL_20180903_012537	Attack: #{SkillFactor}#% x 4{nl}Max Charge Time: 3 seconds{nl}Damage can be increased by up to 2x{nl}Gathers a maximum of 8 enemies	공격력 #{SkillFactor}#% x 4회{nl}최대 챠지시간 3초{nl}적에게 주는 피해 최대 2배 증가{nl}최대 8의 적이 모임	
-SKILL_20190104_013068	Summons a hole on the ground leading to another dimension. Enemies within range of the hole are momentarily sucked in and disappear. When the hole dissipates, enemies within range receive damage, with those that disappeared receiving additional damage.	다른 차원으로 빠지는 홀을 지면에 소환합니다. 해당 위치에 있던 적은 일정시간 동안 사라지고, 홀이 사라질 때는 그 위에 있는 적들에게 피해를 줍니다. 사라졌던 적들에게는 추가대미지 보너스가 적용됩니다.	SKILL_20180827_012155	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summons a hole on the ground leading to another dimension. Enemies within range of the hole are momentarily sucked in and disappear. When the hole dissipates, enemies within range receive damage, with those that disappeared receiving additional damage.	{#993399}{ol}[마법] - [어둠]{/}{/}{nl}다른 차원으로 빠지는 홀을 지면에 소환합니다. 해당 위치에 있던 적은 일정시간 동안 사라지고, 홀이 사라질 때는 그 위에 있는 적들에게 피해를 줍니다. 사라졌던 적들에게는 추가대미지 보너스가 적용됩니다.	
-SKILL_20190104_013069	Multiplicador: #{SkillFactor}#%{nl}Duração do Círculo Mágico: 3 seconds{nl}Disappearing Targets: #{CaptionRatio}#{nl}#{CaptionRatio2}#% additional damage to disappearing targets	스킬 계수 #{SkillFactor}#%{nl}마법진 지속시간 3초{nl}사라지는 대상 수 #{CaptionRatio}#{nl}사라지는 적 #{CaptionRatio2}#% 추가대미지	SKILL_20180827_012156	Attack: #{SkillFactor}#%{nl}Duração do Círculo Mágico: #{CaptionTime}# seg{nl}Disappearing Targets: #{CaptionRatio}#{nl}Disappearing targets receive #{CaptionRatio2}#% add. damage	공격력 #{SkillFactor}#%{nl}마법진 지속시간 #{CaptionTime}#초{nl}사라지는 대상 수 #{CaptionRatio}#{nl}사라지는 적 #{CaptionRatio2}#% 추가대미지	
+SKILL_20190104_013063	Distorce o espaço em um pequeno tamanho, causando dano nos inimigos. Causa 50% de dano adicional em inimigos afetados por [Slow].
+SKILL_20190104_013064	Distorce o espaço em um grande tamanho, causando dano nos inimigos. Causa 50% de dano adicional em inimigos afetados por [Slow].
+SKILL_20190104_013065	Multiplicador: #{SkillFactor}#%{nl}Duração: 1.5 segundos
+SKILL_20190104_013066	Comprime o espaço ao redor de um inimigo, causando dano. [Quick Cast] não agiliza a conjuração, mas quanto mais você carregar a habilidade, mais dano será causado. Inimigos próximos serão puxados para este alvo. Causa 30% de dano adicional em inimigos afetados por [Slow].
+SKILL_20190104_013067	Multiplicador: #{SkillFactor}#% x 4{nl}Conjuração máxima: 3 segundos{nl}Dano pode aumentar em até 2x{nl}Puxa até 15 inimigos
+SKILL_20190104_013068	Conjura um buraco negro que leva para outra dimensão. Inimigos dentro da área serão sugados e desapareceção momentaneamente. Quando o buraco se dissipar, os inimigos retornarão e receberão dano.
+SKILL_20190104_013069	Multiplicador: #{SkillFactor}#%{nl}Duração do Círculo Mágico: 3 segundos{nl}Alvos: #{CaptionRatio}#{nl}#{CaptionRatio2}#% de dano adicional em alvos sugados
 SKILL_20190104_013070	Sharp thorns rise from within the shadow of an enemy, dealing damage. Shadow Thorn cannot be blocked or evaded.	적의 그림자에서 뾰족한 가시가 솟아오르며 적을 공격합니다. 섀도우 쏜 스킬은 블록과 회피가 불가능합니다.	SKILL_20180320_010507	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Sharp thorns rise from within the shadow of an enemy, dealing damage.	{#993399}{ol}[마법] - [어둠]{/}{/}{nl}적의 그림자에서 뾰족한 가시가 솟아오르며 적을 공격합니다.	
 SKILL_20190104_013071	Cast your shadow outwards, dealing damage to enemies within it.	자신의 그림자를 전방으로 길게 늘어뜨려서 그림자위에 있는 적을 공격합니다.	SKILL_20180320_010508	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Cast your shadow outwards, dealing damage to enemies within it.	{#993399}{ol}[마법] - [어둠]{/}{/}{nl}자신의 그림자를 전방으로 길게 늘어뜨려서 그림자위에 있는 적을 공격합니다.	
 SKILL_20190104_013072	Summon a shadow that looks exactly like you to take damage in your place. The shadow's HP is a set percentage of your maximum HP.	자신과 똑같이 생긴 그림자 분신을 소환하여 피해를 대신 입게 합니다. 분신의 HP는 본체 HP가 비율로 적용됩니다.	SKILL_20171128_009755	Summon a shadow that looks exactly the same as you to take damage in your place. The shadow has 20% of your maximum HP.	자신과 똑같이 생긴 그림자 분신을 소환하여 피해를 대신 입게 합니다. 분신의 HP는 본체 HP의 20%로 적용됩니다.	
@@ -14157,15 +14157,15 @@ SKILL_20190104_014156	Rune of Rock: Aprimorar	돌의 룬: 강화
 SKILL_20190104_014157	* Increases the skill factor of [Magic Powder] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [마법 가루]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010804	* Increases the damage dealt on an enemy with [Magic Powder] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [마법 가루]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014158	Enchant Glove: Aprimorar
 SKILL_20190104_014159	* Aumenta o ganho de Precisão de [Enchant Gloves] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
-SKILL_20190104_014160	* Increases portal slots by +1	* 포탈의 슬롯수가 1 증가				
-SKILL_20190104_014161	* Increases the skill factor of [Micro Dimension] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [마이크로 디멘션]의 스킬 계수가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010807	* Increases the damage dealt on an enemy with [Micro Dimension] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [마이크로 디멘션]의 대미지가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014162	* Increases the skill factor of [Ultimate Dimension] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [얼티밋 디멘션]의 스킬 계수가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010808	* Increases the damage dealt on an enemy with [Ultimate Dimension] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [얼티밋 디멘션]의 대미지가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014163	* Grants [Ultimate Dimension] a 10% chance per attribute level to confuse the enemy for 8 seconds{nl}* Consumo de SP + 20%	* 스킬 [얼티밋 디멘션]에 피격된 적이 특성 레벨당 10% 확률로 8초동안 [혼란] 디버프{nl}* SP 소모 20%증가	SKILL_20170420_009021	* Grants [Ultimate Dimension] a 5% chance per attribute level to confuse the enemy for 8 seconds{nl}* Consumo de SP + 10%	* 스킬 [얼티밋 디멘션]에 피격된 적이 특성 레벨당 5% 확률로{nl}    8초동안 [혼란] 디버프{nl}* SP 소모 10%증가	
+SKILL_20190104_014160	* Aumenta a quantidade de portais salvos em +1
+SKILL_20190104_014161	* Aumenta o Multiplicador de [Micro Dimension] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014162	* Aumenta o Multiplicador de [Ultimate Dimension] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014163	* [Ultimate Dimension] tem 10% de chance, por nível do atributo, de causar [Confusion] no inimigo por 8 segundos.{nl}* Consumo de SP + 20%
 SKILL_20190104_014164	* Increases the skill factor of [Maze] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [메이즈]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010809	* Increases the damage dealt on an enemy with [Maze] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [메이즈]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014165	* Increases the skill factor of [Dimension Compression] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [디멘션 컴프레션]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010810	* Increases the damage dealt on an enemy with [Dimension Compression] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [디멘션 컴프레션]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014166	* Activating [Missile Hole] sets your movement speed to 60 for 3 seconds{nl}* Consumo de SP + 30%	* [미사일 홀] 효과 활성화 시 3초 동안 이동속도가 60으로 고정{nl}* SP 소모 30%증가	SKILL_20180827_012385	* Fixes movement speed at 60 for 3 seg when your defense count reaches 0 while [Missile Hole] is active{nl}* Consumo de SP + 30%	* [미사일 홀] 효과 활성화 중 방어 횟수가 모두 차감되었을 때, 3초 동안 이동속도가 60으로 고정{nl}* SP 소모 30%증가	
-SKILL_20190104_014167	* Doubles the threat values of your [Blink] apparition{nl}* Increases cooldown by 10 seconds	* 스킬 [블링크] 사용으로 생기는 잔상의 위협도가 2배 증가{nl}* 재사용 대기시간 10초 증가	SKILL_20180827_012387	* Doubles the provocation levels of your [Blink] apparition{nl}* Increases cooldown by 10 seg	* 스킬 [블링크] 사용으로 생기는 잔상의 도발 수치가 2배 증가{nl}* 재사용 대기시간 10초 증가	
-SKILL_20190104_014168	* Increases the skill factor of [Hole of Darkness] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [홀 오브 다크니스]의 스킬 계수가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180827_012389	* Increases the damage dealt on an enemy with [Hole of Darkness] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [홀 오브 다크니스]의 대미지가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
+SKILL_20190104_014165	* Aumenta o Multiplicador de [Dimension Compression] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014166	* Ativar [Missile Hole] coloca a sua Velocidade de Movimento em 60 por 3 segundos.{nl}* Consumo de SP + 30%
+SKILL_20190104_014167	* Dobra a provocação da sua aparição de [Blink].{nl}* Aumenta o cooldown em 10 segundos
+SKILL_20190104_014168	* Aumenta o Multiplicador de [Hole of Darkness] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014169	* Increases the skill factor of [Shadow Thorn] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [섀도우 쏜]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010811	* Increases the damage dealt on an enemy with [Shadow Thorn] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [섀도우 쏜]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014170	* Increases the skill factor of [Shadow Conjuration] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [섀도우 컨저레이션]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010812	* Increases the damage dealt on an enemy with [Shadow Conjuration] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [섀도우 컨저레이션]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014171	* Increases the skill factor of [Shadow Condensation] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [섀도우 콘덴세이션]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010813	* Increases the damage dealt on an enemy with [Shadow Condensation] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [섀도우 콘덴세이션]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
