@@ -2223,15 +2223,15 @@ SKILL_20150317_002222	Swell Right Arm: Duration	오른팔 강화: 지속시간
 SKILL_20150317_002223	Increases the duration of [Swell Right Arm] by 1 second per attribute level.	스킬 [오른팔 강화]의 지속시간이 특성 레벨 당 1초 증가합니다.				
 SKILL_20150317_002224	Electrocute: Freezing Magic Damage	일렉트로큐트: 결빙 마법피해				
 SKILL_20150317_002225	Deals an additional 50% damage per attribute level when using [Electrocute] on enemies under [Freeze].	스킬 [일렉트로큐트]를 [결빙]된 적에게 사용 시, 특성 레벨 당 마법 공격력의 50% 만큼 추가 피해를 입힙니다.				
-SKILL_20150317_002226	Stone Curse: Increased Petrification	스톤 커스: 석화 수 증가				
+SKILL_20150317_002226	Stone Curse: Amplificar
 SKILL_20150317_002227	Increases the number of targets that can be affected by [Petrify] with [Stone Curse] by attribute level.	스킬 [스톤 커스]로 [석화]를 걸 수 있는 수가 특성 레벨만큼 증가합니다.				
 SKILL_20150317_002228	Prominence: Prominence Wandering	홍염: 프로미넌스 배회				
 SKILL_20150317_002229	[Prominence] wanders within a smaller range.	스킬 [홍염]의 프로미넌스가 좀 더 좁은 범위 안에서 배회합니다.				
-SKILL_20150317_002230	Hail: Freeze	헤일: 결빙				
+SKILL_20150317_002230	Hail: Congelar
 SKILL_20150317_002231	Enemies attacked with [Hail] falls under [Freeze] at a 5% chance per Attribute level.	스킬 [헤일]에 적이 피격될 때마다 특성 레벨 당 5% 확률로 [결빙]에 걸립니다.				
 SKILL_20150317_002232	Meteor: Evasion	메테오: 회피				
 SKILL_20150317_002233	Evasion increase by 10 per attribute level when charging [Meteor].	스킬 [메테오] 챠지 중 회피가 특성 레벨 당 10 증가합니다.				
-SKILL_20150317_002234	Elementalist: Resistance	엘레멘탈리스트: 저항				
+SKILL_20150317_002234	Elementalist: Resistência
 SKILL_20150317_002235	Fire, Ice, and Lightning Resistances increase by 5 per attribute level.	자신의 불, 얼음, 전기속성 저항이 특성 레벨 당 5 증가합니다.				
 SKILL_20150317_002236	Quicken: Critical Rate	퀴큰: 치명타 발생				
 SKILL_20150317_002237	Critical chance for [Quicken] increases by 5% per attribute level, while evasion is reduced by 2% per attribute level.	스킬 [퀴큰] 효과에 치명타 발생이 특성 레벨 당 5% 증가하고, 회피가 특성 레벨 당 2% 감소합니다.				
@@ -3093,7 +3093,7 @@ SKILL_20150323_003092	Increased evasion rate	회피율 상승
 SKILL_20150323_003093	Equip virtual weapon	가상무기장착				
 SKILL_20150323_003094	Repair Armor	방어구손질				
 SKILL_20150323_003095	Your companion growls fearfully. Nearby monsters may fall under Fear.	컴패니언이 무섭게 으르렁거림. 근처에 온 몬스터는 공포에 걸릴 수 있습니다.				
-SKILL_20150323_003096	Elementalist: Resistance	엘리멘탈리스트: 저항				
+SKILL_20150323_003096	Elementalist: Resistência
 SKILL_20150323_003097	Carve World Tree: Pull	세계수 조각: 끌어당김				
 SKILL_20150323_003098	Pull enemies within range of [Carve World Tree]	스킬 [세계수 조각] 범위안에 있는 적을 끌어 당깁니다.				
 SKILL_20150323_003099	Resist Elements: Resistance	레지스트 엘리멘츠: 저항	SKILL_20150317_002332	Resist Elements: Resist	레지스트 엘레멘츠: 저항	
@@ -3116,9 +3116,9 @@ SKILL_20150323_003115	Thrust: Bleeding	쓰러스트: 출혈
 SKILL_20150323_003116	Use [Thrust] on stunned enemies for additional Bleed effect.	스턴이 걸린 적에게 [쓰러스트]를 사용하면 출혈 효과가 추가로 부여됩니다.				
 SKILL_20150323_003117	Cross Guard: Debuff	크로스 가드: 디버프				
 SKILL_20150323_003118	Enemies blocked by [Cross Guard] temporarily become vulnerable to stab attacks.	[크로스 가드]에 막힌 적은 잠시 동안 찌르기 공격에 취약해집니다.				
-SKILL_20150323_003119	Fire Property: Explosion	불 속성: 폭발				
+SKILL_20150323_003119	Fire Property: Explosão
 SKILL_20150323_003120	Using Fire property attacks to finish enemies will cause an explosion and splash damage.	방어력 약화된 적을 불 속성 공격으로 마무리 하면 폭발이 일어나 스플래시 피해를 입힙니다.				
-SKILL_20150323_003121	Ice Property: Slow	얼음 속성: 둔화				
+SKILL_20150323_003121	Ice Property: Lentidão
 SKILL_20150323_003122	Using Ice Property attacks to finish enemies will slow down nearby enemies.	방어력 약화된 적을 얼음 속성 공격으로 마무리 하면 주변 적들의 움직임이 느려집니다.				
 SKILL_20150323_003123	Deprotected Zone: Sword Attack	디프로텍티드 존: 검 공격				
 SKILL_20150323_003124	Using sword attacks on enemies with [Depreotected Zone] decreases defense.	[디프로텍티드 존]에 걸린 적에게 검 공격 시, 방어력이 더욱 약해집니다.				
@@ -7795,9 +7795,9 @@ SKILL_20170313_007794	* Increases the number of targets that can be affected by 
 SKILL_20170313_007795	* [Prominence] wanders within a smaller range{nl}* Consumo de SP + 5	* 스킬 [홍염]의 프로미넌스가 좀 더 좁은 범위 안에서 배회{nl}* SP 소모 5증가	SKILL_20150317_002229	[Prominence] wanders within a smaller range.	스킬 [홍염]의 프로미넌스가 좀 더 좁은 범위 안에서 배회합니다.	
 SKILL_20170313_007796	* Enemies hit by [Hail] have a 5% chance per attribute level to be afflicted with [Freeze] for 5 seconds{nl}* Consumo de SP + 10{nl}* Increases cooldown time by 5 seconds	* 스킬 [헤일]에 적이 피격될 때마다 특성 레벨당 5% 확률로{nl}    5초 동안 [결빙] 디버프{nl}* SP 소모 10증가{nl}* 재사용 대기시간 5초 증가	SKILL_20150717_004785	Enemies hit by [Hail] have a 5% chance per attribute level to be afflicted with [Freeze] for 5 seconds.	스킬 [헤일]에 적이 피격될 때마다 특성 레벨당 5% 확률로 5초 동안 [결빙]에 걸립니다.	
 SKILL_20170313_007797	* Increases evasion by 10% per attribute level while charging [Meteor]{nl}* Consumo de SP + 10	* 스킬 [메테오] 챠지 중 회피가 특성 레벨당 10% 증가{nl}* SP 소모 10증가	SKILL_20150717_004786	Increases your evasion by 10% per attribute level while charging [Meteor].	스킬 [메테오] 챠지 중 회피가 특성 레벨당 10% 증가합니다.	
-SKILL_20170313_007798	* Increases Fire, Ice and Lightning properties by 5{nl}* From Lv2, it increases by 5 per attribute level	* 자신의 불, 얼음, 전기속성 저항이 5 증가{nl}* 2레벨 부터 특성 레벨당 1씩 증가	SKILL_20150804_005038	Increases your Fire, Ice and Lightning properties by 5. From Lv2, it increases by 1 per attribute level. 	자신의 불, 얼음, 전기속성 저항이 5 증가하며, 2레벨 부터 특성 레벨당 1씩 증가합니다.	
+SKILL_20170313_007798	* Aumenta os elementos Fogo, Gelo e Raio em 5{nl}* A partir do Nv2, aumenta em 5 por nível do atributo
 SKILL_20170313_007799	* Using Fire property attacks to finish nearby enemies will cause an explosion and splash damage by 80% with a 30% chance	* 적을 불 속성 공격으로 마무리 하면 30% 확률로 폭발이 일어나{nl}    근처 적들에게 대미지의 80%만큼 대미지	SKILL_20150717_004787	Using Fire property attacks to finish nearby enemies will cause an explosion and splash damage by 80% with a 30% chance.	적을 불 속성 공격으로 마무리 하면 30% 확률로 폭발이 일어나 근처 적들에게 대미지의 80%만큼 피해를 입힙니다.	
-SKILL_20170313_007800	* Using Ice property attacks to finish enemies will slow down nearby enemies with a 50% chance for 6 seconds	* 적을 얼음 속성 공격으로 마무리 하면 50% 확률로{nl}    근처 적들은 6초 동안 [둔화] 디버프	SKILL_20150717_004788	Using Ice property attacks to finish enemies will slow down nearby enemies with a 50% chance for 6 seconds.	적을 얼음 속성 공격으로 마무리 하면 50% 확률로 근처 적들은 6초 동안 [둔화]에 걸립니다.	
+SKILL_20170313_007800	* Usar ataques do elemento Gelo para derrotar inimigos causa 50% de chance de causar [Slow] nos inimigos ao redor por 6 segundos
 SKILL_20170313_007801	* Chance to double the duration of [Rain]{nl}* Increases the chance by 5% per attribute level{nl}* Consumo de SP + 10	* 일정 확률로 [레인]의 지속시간이 2배로 적용{nl}* 확률은 특성 레벨당 5% 증가{nl}* SP 소모 10증가	SKILL_20150714_004477	Has a chance to double the duration of [Rain]. Increases the chance by 5% per attribute level.	일정 확률로 [레인]의 지속시간이 2배로 적용됩니다. 확률은 특성 레벨당 5% 증가합니다.	
 SKILL_20170313_007802	* Increases damage dealt with [Frost Cloud] by 1% per attribute level	* 적에게 입히는 [프로스트 클라우드]의 대미지가 특성 레벨당{nl}    1% 증가	SKILL_20151001_005271	Increases the damage dealt on an enemy with [Frost Cloud] by 1% per attribute level.	적에게 입히는 [프로스트 클라우드]의 대미지가 특성 레벨당 1% 증가합니다.	
 SKILL_20170313_007803	* Increases damage dealt with [Freezing Sphere] by 1% per attribute level	* 적에게 입히는 [프리징 스피어]의 대미지가 특성 레벨당{nl}    1% 증가	SKILL_20151016_005341	Increases the damage dealt on an enemy with [Freezing Sphere] by 1% per attribute level.	적에게 입히는 [프리징 스피어]의 대미지가 특성 레벨당 1% 증가합니다.	
@@ -8939,9 +8939,9 @@ SKILL_20170420_008938	* Increases damage dealt with [Hail] by 0.5% per attribute
 SKILL_20170420_008939	* Increases damage dealt with [Electrocute] by 0.5% per attribute level	* 적에게 입히는 [일렉트로큐트]의 대미지가 특성 레벨당{nl}    0.5% 증가	SKILL_20170313_007788	* Increases damage dealt with [Electrocute] by 1% per attribute level	* 적에게 입히는 [일렉트로큐트]의 대미지가 특성 레벨당{nl}    1% 증가	
 SKILL_20170420_008940	* Increases damage dealt with [Meteor] by 0.5% per attribute level	* 적에게 입히는 [메테오]의 대미지가 특성 레벨당 0.5% 증가	SKILL_20170313_007791	* Increases damage dealt with [Meteor] by 1% per attribute level	* 적에게 입히는 [메테오]의 대미지가 특성 레벨당 1% 증가	
 SKILL_20170420_008941	* Deals additional damage equal to 50% of magic attack per attribute level when using [Electrocute] on frozen enemies{nl}* Consumo de SP + 10%	* 스킬 [일렉트로큐트]를 [결빙]된 적에게 사용 시, 특성 레벨당{nl}    마법 공격력의 50% 만큼 추가 피해{nl}* SP 소모 10%증가	SKILL_20170313_007793	* Deals additional damage equal to 50% of magic attack per attribute level when using [Electrocute] on frozen enemies{nl}* Consumo de SP + 10	* 스킬 [일렉트로큐트]를 [결빙]된 적에게 사용 시, 특성 레벨당{nl}    마법 공격력의 50% 만큼 추가 피해{nl}* SP 소모 10증가	
-SKILL_20170420_008942	* Increases the number of targets that can be affected by [Petrify] with [Stone Curse] by attribute level{nl}* Consumo de SP + 10%	* 스킬 [스톤 커스]로 [석화]를 걸 수 있는 수가{nl}    특성 레벨만큼 증가{nl}* SP 소모 10%증가	SKILL_20170313_007794	* Increases the number of targets that can be affected by [Petrify] with [Stone Curse] by attribute level{nl}* Consumo de SP + 10	* 스킬 [스톤 커스]로 [석화]를 걸 수 있는 수가{nl}    특성 레벨만큼 증가{nl}* SP 소모 10증가	
+SKILL_20170420_008942	* Aumenta o número de alvos que receberão [Petrify] por nível do atributo{nl}* Consumo de SP + 10%
 SKILL_20170420_008943	* [Prominence] wanders within a smaller range{nl}* Consumo de SP + 10%	* 스킬 [홍염]의 프로미넌스가 좀 더 좁은 범위 안에서 배회{nl}* SP 소모 10%증가	SKILL_20170313_007795	* [Prominence] wanders within a smaller range{nl}* Consumo de SP + 5	* 스킬 [홍염]의 프로미넌스가 좀 더 좁은 범위 안에서 배회{nl}* SP 소모 5증가	
-SKILL_20170420_008944	* Enemies hit by [Hail] have a 5% chance per attribute level of becoming afflicted with [Freeze] for 5 seconds{nl}* Consumo de SP + 30%	* 스킬 [헤일]에 적이 피격될 때마다 특성 레벨당 5% 확률로{nl}    5초 동안 [결빙] 디버프{nl}* SP 소모 30%증가	SKILL_20170313_007796	* Enemies hit by [Hail] have a 5% chance per attribute level to be afflicted with [Freeze] for 5 seconds{nl}* Consumo de SP + 10{nl}* Increases cooldown time by 5 seconds	* 스킬 [헤일]에 적이 피격될 때마다 특성 레벨당 5% 확률로{nl}    5초 동안 [결빙] 디버프{nl}* SP 소모 10증가{nl}* 재사용 대기시간 5초 증가	
+SKILL_20170420_008944	* Inimigos alvejados por [Hail] terão 5% de chance, por nível do atributo, de sofrerem [Freeze] por 5 segundos.{nl}* Consumo de SP + 30%
 SKILL_20170420_008945	* Increases evasion by 10% per attribute level while charging [Meteor]{nl}* Consumo de SP + 10%	* 스킬 [메테오] 챠지 중 회피가 특성 레벨당 10% 증가{nl}* SP 소모 10%증가	SKILL_20170313_007797	* Increases evasion by 10% per attribute level while charging [Meteor]{nl}* Consumo de SP + 10	* 스킬 [메테오] 챠지 중 회피가 특성 레벨당 10% 증가{nl}* SP 소모 10증가	
 SKILL_20170420_008946	* Chance to double the duration of [Rain]{nl}* Increases the chance by 5% per attribute level{nl}* Consumo de SP + 10%	* 일정 확률로 [레인]의 지속시간이 2배로 적용{nl}* 확률은 특성 레벨당 5% 증가{nl}* SP 소모 10%증가	SKILL_20170313_007801	* Chance to double the duration of [Rain]{nl}* Increases the chance by 5% per attribute level{nl}* Consumo de SP + 10	* 일정 확률로 [레인]의 지속시간이 2배로 적용{nl}* 확률은 특성 레벨당 5% 증가{nl}* SP 소모 10증가	
 SKILL_20170420_008947	* Increases damage dealt with [Frost Cloud] by 0.5% per attribute level	* 적에게 입히는 [프로스트 클라우드]의 대미지가 특성 레벨당{nl}    0.5% 증가	SKILL_20170313_007802	* Increases damage dealt with [Frost Cloud] by 1% per attribute level	* 적에게 입히는 [프로스트 클라우드]의 대미지가 특성 레벨당{nl}    1% 증가	
@@ -10461,8 +10461,8 @@ SKILL_20180320_010460	Temporarily enlarge you and your party member's offhand, i
 SKILL_20180320_010461	Shield, physical defense +#{CaptionRatio}#{nl}Subweapon, subweapon physical attack +#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos{nl}Consumes #{SpendItemCount}# Magic Powder	방패, 물리 방어력 #{CaptionRatio}# 증가{nl}보조무기, 보조 물리 공격력 #{CaptionRatio2}# 증가{nl}지속시간 #{CaptionTime}#초{nl}마법 가루 #{SpendItemCount}#개 소비	SKILL_20170912_009586	Shield, Physical Defense: +#{CaptionRatio}#{nl}Subweapon, Physical/Magic Attack: +#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos	방패, 물리 방어력 #{CaptionRatio}# 증가{nl}보조무기, 물리/마법 공격력 #{CaptionRatio2}# 증가{nl}지속시간 #{CaptionTime}#초	
 SKILL_20180320_010462	Increase INT +#{CaptionRatio}#{nl}Additional Magic Attack +#{CaptionRatio2}#{nl}Duration #{CaptionTime}# seconds{nl}Consumes #{SpendItemCount}# Magic Powder	지능 #{CaptionRatio}# 증가{nl}추가 마법 공격력 +#{CaptionRatio2}#{nl}지속시간 #{CaptionTime}#초{nl}마법 가루 #{SpendItemCount}#개 소비	SKILL_20160718_006368	INT: +#{CaptionRatio}#{nl}Additional Magic Attack: +#{CaptionRatio2}#{nl}Duração: #{CaptionTime}# segundos	지능 #{CaptionRatio}# 증가{nl}추가 마법 공격력 +#{CaptionRatio2}#{nl}지속시간 #{CaptionTime}#초	
 SKILL_20180320_010463	Attack: #{SkillFactor}#% x 4{nl}Number of Targets: #{CaptionRatio}#	공격력 #{SkillFactor}#% x 4회{nl}적용 대상 #{CaptionRatio}#	SKILL_20170420_008509	Attack: #{SkillFactor}#% x 5{nl}Number of Targets: #{CaptionRatio}#	공격력 #{SkillFactor}#% x 5회{nl}적용 대상 #{CaptionRatio}#	
-SKILL_20180320_010464	Temporarily petrifies an enemy. The petrified enemy takes additional damage from Fire and Psychokinesis property attacks and reduced damage from other properties.	적을 일시적으로 석화 상태로 만듭니다. 석화 상태에 걸린 적은 불 속성, 염 속성을 제외한 모든 공격으로 받는 피해가 감소하고, 불 속성, 염 속성 공격에 추가 대미지를 입습니다.	SKILL_20150414_003713	Temporarily petrify an enemy.	적을 일시적으로 석화 상태로 만듭니다.	
-SKILL_20180320_010465	Duração: #{CaptionTime}# segundos{nl}Number of Targets: #{CaptionRatio}#{nl}+50% increased damage from Fire and Psychokinesis property attack	지속시간 #{CaptionTime}#초{nl}적용 대상 #{CaptionRatio}#{nl}불 속성, 염 속성 공격에 50% 추가 대미지	SKILL_20150714_004168	Duração: #{CaptionTime}# segundos{nl}Number of Targets: #{CaptionRatio}#	지속시간 #{CaptionTime}#초{nl}적용 대상 #{CaptionRatio}#	
+SKILL_20180320_010464	Petrifica os inimigos temporariamente. Alvos petrificados receberão dano adicional dos elementos Fogo e Psíquico, e terão o dano de outros elementos reduzidos.
+SKILL_20180320_010465	Duração: #{CaptionTime}# segundos{nl}Alvos: #{CaptionRatio}#{nl}+50% de dano de Fogo e Psíquico
 SKILL_20180320_010466	Attack: #{SkillFactor}#%{nl}Creates 4 over #{CaptionRatio}# times	공격력 #{SkillFactor}#%{nl}생성 개수 4개{nl}생성 횟수 #{CaptionRatio}#회	SKILL_20170512_009437	Attack: #{SkillFactor}#%{nl}Creates 4 over 4 times	공격력 #{SkillFactor}#%{nl}생성 개수 4개{nl}생성 횟수 4회	
 SKILL_20180320_010467	Duração: #{CaptionTime}# segundos{nl}Chance of doubling the Duração: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Damage: +35%{nl}Attack on {#DD5500}{ol}Fire{/}{/}Property Targets: #{SkillFactor}#%	지속시간 #{CaptionTime}#초{nl}#{CaptionRatio}#% 확률로 지속시간 2배{nl}이동속도 10% 감소{nl}{#DD5500}{ol}전기{/}{/}속성 공격 추가 대미지 35%{nl}{#DD5500}{ol}불{/}{/}속성 대상 공격력 #{SkillFactor}#%	SKILL_20170510_009348	Duração: #{CaptionTime}# segundos{nl}Chance of doubling the Duração: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Damage: +35%{nl}Attack on {#DD5500}{ol}Fire{/}{/}Property Targets: #{SkillFactor}#%	지속시간 #{CaptionTime}#초{nl}#{CaptionRatio}#% 확률로 지속시간 2배{nl}이동속도 10% 감소{nl}{#DD5500}{ol}전기{/}{/}속성 공격 추가 대미지 35%{nl}{#DD5500}{ol}화염{/}{/}속성 대상 공격력 #{SkillFactor}#%	
 SKILL_20180320_010468	Storm Dust	스톰 더스트				
@@ -10761,10 +10761,10 @@ SKILL_20180320_010760	Prominence: Additional Summon	홍염: 추가 생성
 SKILL_20180320_010761	* The number of [Prominence] summoned increases by 1 per attribute level	* [홍염]이 나오는 횟수가 특성 레벨당 1회 추가				
 SKILL_20180320_010762	Storm Dust: Aprimorar	스톰 더스트: 강화				
 SKILL_20180320_010763	* Increases the damage dealt on an enemy with [Storm Dust] by 0.5% per attribute level{nl}*+10% added damage at maximum level	* 적에게 입히는 [스톰 더스트]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20180320_010764	Storm Dust: Slow	스톰 더스트: 슬로우				
-SKILL_20180320_010765	* Movement speed of enemies in range of [Storm Dust] decreases by 2 per attribute level	* [스톰 더스트] 범위 안의 적의 이동속도가 특성 레벨당 2씩 감소				
-SKILL_20180320_010766	Storm Dust: Second Storm	스톰 더스트: 후폭풍				
-SKILL_20180320_010767	* Enemies in range of [Storm Dust] when the skill is finished take [Storm Dust] damage for an extra 1.5 seconds per attribute level	* [스톰 더스트] 스킬이 끝날 때 [스톰 더스트]의 범위 안에 있던 적은 특성 레벨당 1.5초간 [스톰 더스트] 대미지 지속				
+SKILL_20180320_010764	Storm Dust: Lentidão
+SKILL_20180320_010765	* Velocidade de Movimento dos inimigos dentro da área de [Storm Dust] reduz em 2 por nível do atributo
+SKILL_20180320_010766	Storm Dust: Tempestade Contínua
+SKILL_20180320_010767	* Inimigos que estiverem na área de [Storm Dust] quando sua duração terminar continuarão recebendo dano por mais 1.5 segundos, por nível do atributo
 SKILL_20180320_010768	Meteor: Flame Ground	메테오: 플레임 그라운드				
 SKILL_20180320_010769	* Enemies on [Flame Ground] take 5 consecutive hits by [Meteor]	* [플레임 그라운드] 위에 있는 적에게 [메테오] 사용 시 5연타 적용				
 SKILL_20180320_010770	* Increases the damage dealt on an enemy with [Summon Familiar] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [사역마 소환]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20170420_008950	* Increases damage dealt with [Summon Familiar] by 0.5% per attribute level	* 적에게 입히는 [사역마 소환]의 대미지가 특성 레벨당 0.5% 증가	
@@ -12352,7 +12352,7 @@ SKILL_20180827_012351	* Deflects ricochet damage to the attacker when a missile 
 SKILL_20180827_012352	Subzero Shield: Contra-Ataque
 SKILL_20180827_012353	* Ao utilizar um Escudo, e [Subzero Shield] estiver ativo, há um aumento no dano do contra-ataque baseado na Defesa do Escudo{nl}* O dano do contra-ataque aumenta em 50% por nível do atributo.{nl}* Consumo de SP + 10%
 SKILL_20180827_012354	Maestria de Escudo: Criomante
-SKILL_20180827_012355	* [Meteor] applies as 5 hits on enemies receiving damage from [Flame Ground]	* [플레임 그라운드]로 피해를 받고 있는 적에게 [메테오] 사용 시 5연타 적용	SKILL_20180320_010769	* Enemies on [Flame Ground] take 5 consecutive hits by [Meteor]	* [플레임 그라운드] 위에 있는 적에게 [메테오] 사용 시 5연타 적용	
+SKILL_20180827_012355	* [Meteor] causa 5 acertos em inimigos que estiverem sob efeito de [Flame Ground]
 SKILL_20180827_012356	Summon Salamion: Ardor
 SKILL_20180827_012357	* Salamion recupera o seu próprio HP e de invocações próximas a cada 20 segundos.{nl}* O ciclo de recuperação reduz em 1 segundo por nível do atributo.
 SKILL_20180827_012358	* Increases the damage dealt by your summoned Shoggoth by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 소환된 쇼고스의 스킬 대미지가 특성 레벨당{nl}    0.5% 증가{nl}* 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010781	* Increases the attack of summoned Shoggoth by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 소환된 쇼고스의 공격력이 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
@@ -12963,21 +12963,21 @@ SKILL_20190104_012962	Cria um campo gravitacional na sua frente em forma de linh
 SKILL_20190104_012963	Multiplicador: #{SkillFactor}#% a cada 0.5 segundos{nl}Alvos: #{CaptionRatio}#{nl}Consome #{CaptionRatio3}# SP por segundo{nl}Duração máxima: 10 segundos
 SKILL_20190104_012964	Aumenta a força gravitacional na área selecionada, causando dano do tipo Psíquico. Inimigos voadores serão forçados contra o chão e considerados terrestres. Se houver [Raise] na área selecionada, a habilidade será cancelada. Causa 50% a mais de dano em inimigos da raça Mutante.
 SKILL_20190104_012965	Multiplicador: #{SkillFactor}#% a cada 0.5 segundos{nl}Duração: 5 segundos
-SKILL_20190104_012966	Release a surge of electricity to attack enemies in front of you.{nl}{#00113F}Electrocute's number of targets is doubled if used within the range of Storm Calling.{/}	전기 사슬을 발사하여 전방의 적들을 연속으로 공격합니다.{nl}{#00113F}호풍환우부 범위 안에서 일렉트로큐트 사용 시 적용 대상 수가 2배로 증가합니다.{/}	SKILL_20150414_003712	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Release a surge of electricity to attack enemies in front of you.	{#993399}{ol}[마법] - [전기]{/}{/}{nl}전기 사슬을 발사하여 전방의 적들을 연속으로 공격합니다. 	
-SKILL_20190104_012967	Multiplicador: #{SkillFactor}#% x 4{nl}Targets: #{CaptionRatio}#	스킬 계수 #{SkillFactor}#% x 4회{nl}적용 대상 #{CaptionRatio}#	SKILL_20180320_010463	Attack: #{SkillFactor}#% x 4{nl}Number of Targets: #{CaptionRatio}#	공격력 #{SkillFactor}#% x 4회{nl}적용 대상 #{CaptionRatio}#	
-SKILL_20190104_012968	Drop chunks of ice to continuously inflict damage on enemies.	지정한 위치에 얼음 덩어리를 무수히 떨어뜨려 적에게 지속적으로 피해를 줍니다.	SKILL_20150414_003714	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Drop chunks of ice to continuously inflict damage on enemies.	{#993399}{ol}[마법] - [얼음]{/}{/}{nl}지정한 위치에 얼음 덩어리를 무수히 떨어뜨려 적에게 지속적으로 피해를 줍니다.	
-SKILL_20190104_012969	Drop a meteor on a targeted area to inflict damage on enemies.	지정한 위치에 운석을 떨어뜨려 적에게 피해를 줍니다.	SKILL_20150414_003716	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Drop a meteor on the targeted area to inflict damage to enemies.	{#993399}{ol}[마법] - [불]{/}{/}{nl}지정한 위치에 운석을 떨어뜨려 적에게 피해를 줍니다.	
-SKILL_20190104_012970	Multiplicador: #{SkillFactor}#%{nl}Casting Time: 2 seconds{nl}Taxa de Ataque em Área: #{SkillSR}#	스킬 계수 #{SkillFactor}#%{nl}캐스팅 시간 2초{nl}광역 공격 비율 #{SkillSR}#	SKILL_20180629_011800	Attack #{SkillFactor}#%{nl}Casting 3 seg{nl}AoE attack ratio #{SkillSR}#	공격력 #{SkillFactor}#%{nl}캐스팅 시간 3초{nl}광역 공격 비율 #{SkillSR}#	
+SKILL_20190104_012966	Libera uma onda de ataque elétrico para alvejar os inimigos que estiverem na sua frente.{nl}{#00113F}O número de alvos que [Electrocute] alcança é dobrado se usado dentro da área de [Storm Calling].{/}
+SKILL_20190104_012967	Multiplicador: #{SkillFactor}#% x 4{nl}Alvos: #{CaptionRatio}#
+SKILL_20190104_012968	Conjura pedaços de gelo que caem do céu, causando dano contínuo nos inimigos.
+SKILL_20190104_012969	Conjura um meteoro na área selecionada, causando dano nos inimigos dentro dela.
+SKILL_20190104_012970	Multiplicador: #{SkillFactor}#%{nl}Conjuração: 2 segundos{nl}Taxa de Ataque em Área: #{SkillSR}#
 SKILL_20190104_012971	Duração: #{CaptionTime}# segundos{nl}#{CaptionRatio}#% chance of doubling the duration{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Damage: +35%{nl}Skill Factor on {#DD5500}{ol}Fire{/}{/} Property Targets: #{SkillFactor}#%	지속시간 #{CaptionTime}#초{nl}#{CaptionRatio}#% 확률로 지속시간 2배{nl}이동속도 10% 감소{nl}{#DD5500}{ol}전기{/}{/}속성 공격 추가 대미지 35%{nl}{#DD5500}{ol}불{/}{/}속성 대상 스킬 계수 #{SkillFactor}#%	SKILL_20180320_010467	Duração: #{CaptionTime}# segundos{nl}Chance of doubling the Duração: #{CaptionRatio}#%{nl}Movement Speed: -10%{nl}Additional {#DD5500}{ol}Lightning{/}{/}Property Damage: +35%{nl}Attack on {#DD5500}{ol}Fire{/}{/}Property Targets: #{SkillFactor}#%	지속시간 #{CaptionTime}#초{nl}#{CaptionRatio}#% 확률로 지속시간 2배{nl}이동속도 10% 감소{nl}{#DD5500}{ol}전기{/}{/}속성 공격 추가 대미지 35%{nl}{#DD5500}{ol}불{/}{/}속성 대상 공격력 #{SkillFactor}#%	
 SKILL_20190104_012972	Throw an Ice Sphere at the enemy to deal damage.	얼음 구체를 날려 적에게 피해를 줍니다.	SKILL_20151016_005301	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Damages an enemy by throwing an Ice Sphere.	{#993399}{ol}[마법] - [얼음]{/}{/}{nl}얼음 구체를 날려 적에게 피해를 줍니다.	
 SKILL_20190104_012973	Creates a magic circle of ice on the targeted area. Deals continuous Ice damage to enemies in the magic circle.	지정한 위치에 얼음 마법진을 생성합니다. 마법진내의 적은 지속적으로 얼음속성 피해를 받습니다.	SKILL_20151001_005252	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Creates a magic circle of ice at a targeted area. Deals continuous ice damage to enemies in the magic circle.	{#993399}{ol}[마법] - [얼음]{/}{/}{nl}지정한 위치에 얼음 마법진을 생성합니다. 마법진내의 적은 지속적으로 얼음속성 피해를 받습니다.	
-SKILL_20190104_012974	Multiplicador: #{SkillFactor}#% per 0.3 seconds{nl}Targets: #{CaptionRatio2}#{nl}Duração: 5.4 seconds	0.3초당 스킬 계수 #{SkillFactor}#%{nl}대상 수 #{CaptionRatio2}#{nl}지속시간 5.4초				
-SKILL_20190104_012975	Creates a sandstorm on the targeted area. Enemies in range of [Storm Dust] take continuous Earth-property damage. Flying-type enemies take half the damage.	지정한 위치에 모래 폭풍을 생성합니다. 모래 폭풍 내의 적은 지속적으로 땅 속성 피해를 받습니다. 공중형 적은 대미지를 절반만 입습니다.	SKILL_20180320_010469	{#993399}{ol}[Magic] - [Earth]{/}{/}{nl}Creates sand storm at the target area. Enemies in range of [Storm Dust] takes continuous Earth property damage. Flying-type enemies takes a half of normal damage.	{#993399}{ol}[마법] - [땅]{/}{/}{nl}지정한 위치에 모래 폭풍을 생성합니다. 모래 폭풍 내의 적은 지속적으로 땅 속성 피해를 받습니다. 공중형 적은 대미지를 절반만 입습니다.	
+SKILL_20190104_012974	Multiplicador: #{SkillFactor}#% a cada 0.3 segundos{nl}Alvos: #{CaptionRatio2}#{nl}Duração: 5.4 segundos
+SKILL_20190104_012975	Cria uma tempestade de areia na área selecionada. Inimigos dentro da área de [Storm Dust] recebem dano do elemento Terra continuamente.
 SKILL_20190104_012976	Fire Claw	파이어 클러				
-SKILL_20190104_012977	Send out a wave of fire all around to attack your enemies.	자신을 중심으로 퍼져나가는 불길을 뿜어내어 적들을 공격합니다.				
+SKILL_20190104_012977	Conjura ondas de fogo que saem em todas as direções, atacando os inimigos que encontrarem.
 SKILL_20190104_012978	Elemental Essence	엘리멘탈 에센스				
-SKILL_20190104_012979	Grants a buff that increases the damage bonus of property attacks when attacking an enemy's weakness.	상대의 약점 속성으로 공격할 때 상성 효과가 더욱 커지는 버프를 부여합니다.				
-SKILL_20190104_012980	Offensive Property Effects: +#{CaptionRatio}#%{nl}Duração: 20 seconds	상성 효과 #{CaptionRatio}#% 증가{nl}지속시간 20초				
+SKILL_20190104_012979	Aumenta o dano causado com ataques elementais quando você utilizar o elemento da fraqueza correta do alvo.
+SKILL_20190104_012980	Efeitos do Elemento ofensivo: +#{CaptionRatio}#%{nl}Duração: 20 segundos
 SKILL_20190104_012981	Invoca morcegos. Eles voarão até o inimigo que você atacar, ou que ataque você, explodindo ao contato. A explosão causa dano baseado no ataque da invocação.
 SKILL_20190104_012982	Multiplicador da Invocação: #{SkillFactor}#%{nl}Quantidade de morcegos: 5{nl}Duração: 60 segundos
 SKILL_20190104_012983	Invoca o demônio da carta secundária colocada no Grimório para atacar os inimigos. O dano causado aumenta em proporção ao seu SPR. O efeito de [Evocation] é aplicado ao demônio criado por [Summoning] quando dano for causado com [Evocation], fazendo com que ignore 20% da defesa física e mágica do inimigo.
@@ -14089,14 +14089,14 @@ SKILL_20190104_014088	* Causa dano adicional igual a 20% do seu Ataque Físico p
 SKILL_20190104_014089	Swell Hands: Aprimorar
 SKILL_20190104_014090	* Aumenta os ganhos de Ataque e Defesa de [Swell Hands] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014091	* Aumenta o Multiplicador de [Prominence] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
-SKILL_20190104_014092	* Increases the skill factor of [Hail] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [헤일]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010755	* Increases the damage dealt on an enemy with [Hail] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [헤일]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014093	* Increases the skill factor of [Electrocute] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [일렉트로큐트]의 스킬 계수가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010756	* Increases the damage dealt on an enemy with [Electrocute] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [일렉트로큐트]의 대미지가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014094	* Increases the skill factor of [Meteor] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [메테오]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010757	* Increases the damage dealt on an enemy with [Meteor] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [메테오]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
+SKILL_20190104_014092	* Aumenta o Multiplicador de [Hail] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014093	* Aumenta o Multiplicador de [Electrocute] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014094	* Aumenta o Multiplicador de [Meteor] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014095	* Increases the skill factor of [Frost Cloud] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [프로스트 클라우드]의 스킬 계수가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010758	* Increases the damage dealt on an enemy with [Frost Cloud] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [프로스트 클라우드]의 대미지가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014096	* Increases the skill factor of [Freezing Spear] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [프리징 스피어]의 스킬 계수가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010759	* Increases the damage dealt on an enemy with [Freezing Sphere] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [프리징 스피어]의 대미지가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014097	* Increases the skill factor of [Storm Dust] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [스톰 더스트]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010763	* Increases the damage dealt on an enemy with [Storm Dust] by 0.5% per attribute level{nl}*+10% added damage at maximum level	* 적에게 입히는 [스톰 더스트]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014098	Fire Claw: Aprimorar	파이어 클러: 강화				
-SKILL_20190104_014099	* Increases the skill factor of [Fire Claw] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [파이어 클러]의 스킬 계수가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
+SKILL_20190104_014097	* Aumenta o Multiplicador de [Storm Dust] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014098	Fire Claw: Aprimorar
+SKILL_20190104_014099	* Aumenta o Multiplicador de [Fire Claw] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014100	* Aumenta o Multiplicador de [Summon Familiar] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014101	* Aumenta o Multiplicador de [Evocation] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014102	* Aumenta o Multiplicador de [Desmodus] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
@@ -14969,4 +14969,4 @@ SKILL_20190112_014968	* Quando um Esqueleto Soldado derrotar um monstro, o Necro
 SKILL_20190122_014969	Taxa de Crítico: +#{CaptionRatio}#% aplicado{nl}Evasão: -20%{nl}Duração: #{CaptionTime}# segundos
 SKILL_20190122_014970	Additional critical rate applied, evasion reduced	치명타 발생 추가 적용, 회피 감소	SKILL_20150317_001802	Increased critical rate, reduced evasion	치명타 발생 증가, 회피 감소
 SKILL_20190122_014971	Fire Property Skill Damage Increased	불 속성 스킬 대미지 증가			
-SKILL_20190122_014972	* Grants a 10% chance per skill use of applying a buff that increases Fire-property attack damage by 30% for 5 seconds	* 스킬 사용 시 10% 확률로 불 속성 공격 시 대미지가 30% 증가하는 버프가 5초간 걸림	SKILL_20170313_007799	* Using Fire property attacks to finish nearby enemies will cause an explosion and splash damage by 80% with a 30% chance	* 적을 불 속성 공격으로 마무리 하면 30% 확률로 폭발이 일어나{nl}    근처 적들에게 대미지의 80%만큼 대미지
+SKILL_20190122_014972	* Garante 10% de chance por habilidade usada de aumentar o dano de ataques do elemento Fogo em 30% por 5 segundos
