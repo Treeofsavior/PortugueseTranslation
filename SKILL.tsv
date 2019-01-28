@@ -12491,8 +12491,8 @@ SKILL_20180827_012490	* A cada nível do atributo, aumenta a duração da roda e
 SKILL_20180827_012491	* Increases the damage dealt on an enemy with [Divine Punishment] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [천형부]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010940	* Increases the damage dealt on an enemy with [Divine Punishment] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [천형부]의  대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20180827_012492	Eradication: Aprimorar	퇴마부: 강화				
 SKILL_20180827_012493	* Increases the damage dealt on an enemy with [Eradication] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [퇴마부]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20180827_012494	Divine Punishment: Broad Strike	천형부: 대풍창				
-SKILL_20180827_012495	* Applies hits to enemies near the original target of [Divine Punishment]{nl}* Damage increases with charging time{nl}* Consumo de SP + 50%	* 스킬 [천형부]가 타겟에 적중되면 주변 적들에게 광역 추가타{nl}* 챠징 시간에 비례하여 대미지 적용{nl}* SP 소모 50%증가				
+SKILL_20180827_012494	Divine Punishment: Alcance Ampliado
+SKILL_20180827_012495	* Causa dano nos inimigos próximos ao alvo original de [Divine Punishment].{nl}* Dano aumenta conforme o tempo que ficou sendo conjurado.{nl}* Consumo de SP + 50%
 SKILL_20180827_012496	* Quando [Beady Eyed] for usado com sucesso, todo o dano que você causar será Crítico pelos próximos 1.5seg{nl}* Consumo de SP + 10%
 SKILL_20180827_012497	* Usar [Immolation] reduz os valores de defesa de seu equipamento e de seus alvos em 10% por nível do atributo.{nl}* Se o alvo for um monstro, reduz a Defesa Física básica dele{nl}* Duração 5 seg{nl}* Consumo de SP + 10%
 SKILL_20180827_012498	* If you become incapable of combat during [Fanaticism], your skills' cooldown is reset and you survive with 1 HP for 2 seg per attribute level{nl}* After that duration, you become incapable of combat{nl}* Consumo de SP + 10%	* 스킬 [파나티시즘]적용중에 죽을 대미지를 입는 경우, 모든 스킬 쿨타임이 초기화 되며 HP가 1인채로 특성 레벨당 2초간 유지{nl}* 유지 시간이 지나면 무조건 전투불능 상태가 됩니다.{nl}*SP 소모 10%증가				
@@ -13096,22 +13096,22 @@ SKILL_20190104_013095	Multiplicador Invocação: #{SkillFactor}#%{nl}Maximum Dur
 SKILL_20190104_013096	Detonates zombies near the targeted area and deals damage to nearby enemies.	지정한 위치 가까이에 있는 좀비들을 폭발시켜 인근의 적에게 피해를 줍니다.				
 SKILL_20190104_013097	Attach a charm that conceals one's presence. Allies in the vicinity of the installed charm are safe from monsters.	적에게서 기척을 숨길수 있는 부적을 설치합니다. 부적 주변에 있는 동료들은 몬스터들에게서 위협받지 않습니다.				
 SKILL_20190104_013098	Multiplicador Explosão: #{SkillFactor}#%{nl}Charm Duração: #{CaptionTime}# segundos{nl}AoE: #{CaptionRatio}#{nl}Consumes Strange Yellow Paper x2	폭발 스킬 계수 #{SkillFactor}#%{nl}부적 유지시간 #{CaptionTime}#초{nl}효과 적용 범위 #{CaptionRatio}#{nl}괴황지 2개 필요				
-SKILL_20190104_013099	Install a charm that calls upon a furious storm. It activates when coming in contact with an enemy, and the enemies within its range get attacked once, then receive additional damage from Lightning-property attacks.	비와 바람을 부를 수 있는 부적을 설치합니다. 범위에 있던 적은 피해를 한번 받습니다. 전기 공격에 대해 보너스 대미지가 적용됩니다.				
-SKILL_20190104_013100	Multiplicador de [Storm Calling]: #{SkillFactor}#%{nl}Lightning Attack Damage: +#{CaptionRatio2}#%{nl}Storm Duração: #{CaptionTime}# segundos{nl}Consumes Strange Yellow Paper x2	호풍환우부 스킬 계수 #{SkillFactor}#%{nl}전기 공격 대미지 #{CaptionRatio2}#% 증가{nl}호풍환우 지속시간 #{CaptionTime}#초{nl}괴황지 2개 필요				
-SKILL_20190104_013101	Instantly activates the spell contained inside the installed charm. Creeping Death and Tri-Disaster explode to attack nearby enemies.	설치된 부적에 담겨 있는 술법을 즉시 실행합니다. 삼재부, 파사부를 폭발시켜 주변에 피해를 줍니다.				
-SKILL_20190104_013102	Install a charm that increases vulnerability to Fire, Ice and Lightning properties. Enemies near the charm receive more damage from Fire, Ice and Lightning attacks. When the charm explodes, affected enemies receive damage of those three properties.	불, 얼음, 전기 속성에 취약해지는 부적을 설치합니다. 부적 주변에 있는 적은 불, 얼음, 전기 속성 공격에 받는 피해가 증가합니다. 부적 폭발시 피해 입은 적은 불, 얼음, 전기 3가지의 속성 피해를 받습니다.				
-SKILL_20190104_013103	Charm Duração: #{CaptionTime}# segundos{nl}+#{CaptionRatio}#% damage received from Fire, Ice and Lightning properties{nl}Consumes Strange Yellow Paper x2	부적 유지시간 #{CaptionTime}#초{nl}불, 얼음, 전기 속성에 받는 대미지 #{CaptionRatio}#% 증가{nl}괴황지 2개 필요				
-SKILL_20190104_013104	Install a Creeping Death Charm that moves slowly forward. Creeping Death deals continuous damage to the targets coming in contact with it while moving. Deals additional damage when exploding via Begone Demon.	앞으로 천천히 이동하는 파사부를 설치합니다. 파사부는 움직이는 동안 부딪치는 적에게 연속적인 피해를 주며, 급급여율령으로 터질때는 추가대미지를 줍니다.				
-SKILL_20190104_013105	Multiplicador: #{SkillFactor}#% x #{CaptionRatio}#{nl}Consumes Strange Yellow Paper x2	스킬 계수 #{SkillFactor}#% x #{CaptionRatio}#회{nl}괴황지 3개 필요				
-SKILL_20190104_013106	Deal damage to punish a single target. Damage increases proportionally to charging time.	단일 대상 적에게 천벌을 가합니다. 챠징 시간에 비례하여 대미지가 적용됩니다.				
-SKILL_20190104_013107	Multiplicador: #{SkillFactor}#%{nl}Consumes Strange Yellow Paper x3	스킬 계수 #{SkillFactor}#%{nl}괴황지 3개 필요				
-SKILL_20190104_013108	Creates a magic circle which allows other magic circles in front of you to affect Flying-type enemies.	전방에 생성된 마법진이 공중형 적에게 효과를 줄 수 있도록 변경하는 마법진을 생성합니다.				
-SKILL_20190104_013109	Duração: 12 seconds{nl}Consumes Strange Yellow Paper x3	지속시간 12초{nl}괴황지 3개 필요				
-SKILL_20190104_013110	Summon a group of talismans behind you and send them forward to attack your enemies.	자신의 등 뒤에 다수의 부적을 소환하여 전방의 적들을 공격합니다.				
-SKILL_20190104_013111	Multiplicador: #{SkillFactor}#% x 8{nl}Targets: 15{nl}Consumes Strange Yellow Paper x3	스킬 계수 #{SkillFactor}#% x 8회{nl}피격 대상 수 15{nl}괴황지 3개 필요				
+SKILL_20190104_013099	Instala um talismã que chama uma tempestade furiosa. Será ativado ao entrar em contato com um inimigo, e os que estiverem dentro da área receberão um ataque, além de receberem dano adicional de habilidades do elemento Raio.
+SKILL_20190104_013100	Multiplicador de [Storm Calling]: #{SkillFactor}#%{nl}Dano do elemento Raio: +#{CaptionRatio2}#%{nl}Duração: #{CaptionTime}# segundos{nl}Consome Strange Yellow Paper x2
+SKILL_20190104_013101	Ativa instantaneamente o feitiço contido dentro de um talismã utilizado. [Creeping Death Charm] e [Tri-disaster Charm] explodem e atacam os inimigos ao redor.
+SKILL_20190104_013102	Instala um talismã que aumenta a vulnerabilidade contra os elementos Fogo, Gelo e Raio. Inimigos dentro da área deste talismã receberão mais dano destes elementos. Explodir o talismã com [Begone Demon] faz com que os inimigos recebam dano destes três elementos.
+SKILL_20190104_013103	Duração: #{CaptionTime}# segundos{nl}Dano recebido de Fogo, Gelo e Raio: +#{CaptionRatio}#%{nl}Consome Strange Yellow Paper x2
+SKILL_20190104_013104	Utiliza um talismã que se movimenta lentamente. Este talismã causa dano contíno nos inimigos que estiverem na sua trajetória. Causa dano adicional ao ser explodido por [Begone Demon].
+SKILL_20190104_013105	Multiplicador: #{SkillFactor}#% x #{CaptionRatio}#{nl}Consome Strange Yellow Paper x2
+SKILL_20190104_013106	Pune o alvo selecionado, causando dano que aumenta em proporção ao tempo que a habilidade ficou sendo conjurada.
+SKILL_20190104_013107	Multiplicador: #{SkillFactor}#%{nl}Consome Strange Yellow Paper x3
+SKILL_20190104_013108	Cria um círculo mágico que permite outros círculos mágicos afetarem inimigos voadores.
+SKILL_20190104_013109	Duração: 12 segundos{nl}Consome Strange Yellow Paper x3
+SKILL_20190104_013110	Invoca vários talismãs atrás de você e envia eles adiante, atacando os inimigos no caminho.
+SKILL_20190104_013111	Multiplicador: #{SkillFactor}#% x 8{nl}Alvos: 15{nl}Consome Strange Yellow Paper x3
 SKILL_20190104_013112	Lightning Charm	취전부				
-SKILL_20190104_013113	Activate a charm containing the power of lightning. Every Taoist skill you use gains a chance of additional Lightning-property attack.	번개의 힘이 담긴 부적을 발동하여 자신에게 부여합니다. 도사 스킬을 사용할 때 마다 확률적으로 전기 속성 추가 공격을 합니다.				
-SKILL_20190104_013114	Additional Attack Damage: #{CaptionRatio}#%{nl}Duração: 30 seconds{nl}Requires Strange Yellow Paper x1{nl}Maximum Level: 1	추가 공격 대미지 #{CaptionRatio}#%{nl}지속시간 30초{nl}괴황지 1개 필요{nl}1레벨 마스터				
+SKILL_20190104_013113	Ativa um talismã que contém o poder do raio. Todas as habilidades de Taoist que você utilizar terão uma chance de causar ataque adicional do elemento Raio.
+SKILL_20190104_013114	Dano do ataque adicional: #{CaptionRatio}#%{nl}Duração: 30 segundos{nl}Consome Strange Yellow Paper x1{nl}Nível máximo: 1
 SKILL_20190104_013115	Quickly fires a number of arrows at the targeted area.	지정한 위치에 여러발의 화살을 빠르게 발사합니다.	SKILL_20170510_009359	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Quickly fires a number of arrows at a targeted area.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}지정한 위치에 여러발의 화살을 빠르게 발사합니다.	
 SKILL_20190104_013116	Multiplicador: #{SkillFactor}#% x #{CaptionRatio}#	스킬 계수 #{SkillFactor}#% x #{CaptionRatio}#회	SKILL_20170420_008443	Attack: #{SkillFactor}#% x #{CaptionRatio}#	공격력 #{SkillFactor}#% x #{CaptionRatio}#회	
 SKILL_20190104_013117	Pull your bowstring back to fire a highly piercing shot. Enemies hit are pinned onto the surrounding terrain.	활 시위를 쭉 당겨 적을 관통하는 화살을 발사합니다. 주변에 다른 적이 있을 시 서로 꿰임 상태가 될 수 있습니다.	SKILL_20170510_009360	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Pull your bowstring back to fire a highly piercing shot. Enemies hit are pinned onto the surrounding terrain.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}활 시위를 쭉 당겨 적을 관통하는 화살을 발사합니다. 주변에 다른 적이 있을 시 서로 꿰임 상태가 될 수 있습니다.	
@@ -14452,19 +14452,19 @@ SKILL_20190104_014451	* Aumenta o Multiplicador de [Ripper] em 0.5% por nível d
 SKILL_20190104_014452	* Increases the skill factor of [Entrenchment] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [인족부지법]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010936	* Increases the damage dealt on an enemy with [Entrenchment] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [인족부지법]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014453	* Increases the skill factor of [Hurling] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [인중법]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010937	* Increases the damage dealt on an enemy with [Hurling] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [인중법]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014454	* Increases the skill factor of [Storm Calling] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [호풍환우]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010938	* Increases the damage dealt on an enemy with [Storm Calling] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [호풍환우]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014455	* Increases the skill factor of [Begone Demon] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [급급여율령]의 부적 폭발 스킬 계수가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010939	* Increases the damage dealt on an enemy with [Begone Demon] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [급급여율령]의 부적 폭발 대미지가 특성 레벨당{nl}    0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014456	* Increases the skill factor of [Divine Punishment] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [천형부]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180827_012491	* Increases the damage dealt on an enemy with [Divine Punishment] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [천형부]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014457	* Increases the skill factor of [Eradication] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [퇴마부]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180827_012493	* Increases the damage dealt on an enemy with [Eradication] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [퇴마부]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014458	Lightning Charm: Aprimorar	취전부: 강화				
-SKILL_20190104_014459	* Increases [Lightning Charm]'s additional hit damage by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [취전부]의 추가타 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014460	Storm Calling: Aprimorar	호풍환우부: 강화				
-SKILL_20190104_014461	* Increases [Storm Calling]'s Lightning property damage increase effects by 0.5% per attribute level	* [호풍환우부]의 전기 속성 대미지 증가 효과가 특성 레벨당 0.5% 증가				
-SKILL_20190104_014462	Storm Calling: Fog	호풍환우부: 안개				
-SKILL_20190104_014463	* Decreases the accuracy of enemies within [Storm Calling] range	* [호풍환우부] 범위에 있는 적 명중 감소				
+SKILL_20190104_014455	* Aumenta o Multiplicador de [Begone Demon] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014456	* Aumenta o Multiplicador de [Divine Punishment] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014457	* Aumenta o Multiplicador de [Eradication] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014458	Lightning Charm: Aprimorar
+SKILL_20190104_014459	* Aumenta o dano do ataque adicional de [Lightning Charm] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014460	Storm Calling: Aprimorar
+SKILL_20190104_014461	* Aumenta o ganho de dano do elemento Raio de [Storm Calling] em 0.5% por nível do atributo
+SKILL_20190104_014462	Storm Calling: Neblina
+SKILL_20190104_014463	* Reduz a Precisão dos inimigos dentro da área de [Storm Calling]
 SKILL_20190104_014464	Creeping Death Charm: Aprimorar
-SKILL_20190104_014465	* Increases the skill factor of [Creeping Death Charm] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [파사부]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190104_014466	Tri-disaster Charm: Aprimora
-SKILL_20190104_014467	* Increases [Tri-disaster Charm]'s property damage increasing effects by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [삼재부]의 속성 피해 증가 효과가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
+SKILL_20190104_014465	* Aumenta o Multiplicador de [Creeping Death Charm] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_014466	Tri-disaster Charm: Aprimorar
+SKILL_20190104_014467	* Aumenta o ganho de dano dos elementos de [Tri-disaster Charm] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014468	* Aumenta o Multiplicador de [Gohei] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014469	* Aumenta o Multiplicador de [Hamaya] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014470	Omikuji: Aprimorar	
