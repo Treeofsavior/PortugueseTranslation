@@ -11534,7 +11534,7 @@ ETC_20150428_011535	The grapes are already withered.
 ETC_20150428_011536	Failed to guide the soldier left behind. 
 ETC_20150428_011537	Unable to resonate the crystal yet.
 ETC_20150428_011538	The crystal is already resonating.
-ETC_20150428_011539	Moving to the entrance of the Royal Mausoleum
+ETC_20150428_011539	Indo para a entrada do Royal Mausoleum
 ETC_20150428_011540	Laying down Dallas' body
 ETC_20150428_011541	Failed to meet the conditions.
 ETC_20150428_011542	Conditions met.
@@ -25769,7 +25769,7 @@ ETC_20161121_025763	Waiting for party members.
 ETC_20161121_025764	Busca com equipe cancelada.
 ETC_20161121_025765	{MEMBER} está fazendo uma busca em equipe na {INDUN}. Para se juntar, vá ao NPC correspondente e selecione 'Buscar com a Equipe'.
 ETC_20161121_025766	Cannot leave while queuing for party entry.
-ETC_20161121_025767	Busca em andamento
+ETC_20161121_025767	Buscando grupo
 ETC_20161121_025768	Busca automática completa.
 ETC_20161121_025769	Não pode ser usado enquanto Buscando.
 ETC_20161121_025770	Deseja entrar?
@@ -28466,7 +28466,7 @@ ETC_20170726_028439	Comendo o peixe...	물고기 구워 먹는 중
 ETC_20170726_028440	Não pode usar perto de outro jogador pescando.	가까이에 다른 낚시꾼이 있어 사용할 수 없습니다.
 ETC_20170726_028441	Você pegou um peixe!	물고기를 낚았습니다!
 ETC_20170726_028442	O peixe cuspiu algo e se mandou!{nl}{ItemName}	물고기가 무언가를 뱉어내고 도망갔습니다!{nl}{ItemName}
-ETC_20170726_028443	Um Chefe perigoso aparecerá em breve:{nl}{#d81111}{Name}
+ETC_20170726_028443	Um Demon Lord perigoso irá aparecer!{nl}{#d81111}{Name}
 ETC_20170726_028444	Black Cherry
 ETC_20170726_028445	Camellia
 ETC_20170726_028446	Bamboo
@@ -28829,7 +28829,7 @@ ETC_20170912_028802	This can only be used on the weekends.
 ETC_20170912_028803	Kupole's Gift{nl}{TEXT}
 ETC_20170912_028804	Total Mission Count: {COUNT}
 ETC_20170912_028805	Receive Total Count Reward
-ETC_20170912_028806	Rewards Received: {COUNT}
+ETC_20170912_028806	Prêmios Recebidos: {COUNT}
 ETC_20170912_028807	Wow, you ranked no. {RANK} in the Diário de Aventura! Congratulations!{nl}The reward is on its way.
 ETC_20170912_028808	Wow, you ranked no. {RANK} in the Diário de Aventura! Congratulations!{nl}The reward is on its way.
 ETC_20170912_028809	Team Storage expanded by 1 slot.
@@ -28849,8 +28849,8 @@ ETC_20170912_028822	The settlers are having a hard time dealing with the dead cr
 ETC_20170912_028823	A merchant has lost all his goods on the way to Fedimian!{nl}Collect the lost goods in the outskirts of Fedimian and bring them back to the merchant!
 ETC_20170912_028824	There are still stone statues left to purify!{nl}Hurry and purify them!
 ETC_20170912_028825	Sorry, it was taken by another player.
-ETC_20170912_028826	Enter Uphill Defense Mission
-ETC_20170912_028827	Open Uphill Defense Shop
+ETC_20170912_028826	Entrar na Missão - Uphill Defense
+ETC_20170912_028827	Abrir loja da Uphill Defense
 ETC_20170912_028828	Change Position
 ETC_20170912_028829	{CallMemberName} used {SkillName}.{nl}Will you accept?
 ETC_20170912_028830	Can only be used nearby a Guild Tower, in a city or inside the Guild Hangout.
@@ -30484,7 +30484,7 @@ ETC_20171128_030457	Brinquedo
 ETC_20171128_030458	A random option item which is not appraised yet.
 ETC_20171128_030459	Selecione um item a ser desmontado.
 ETC_20171128_030460	Dismantle Price: {Price}{nl}Are you sure you want to dismantle?
-ETC_20171128_030461	cannot be used in current party status.
+ETC_20171128_030461	não é permitido enquanto fizer parte de um grupo.
 ETC_20171128_030462	{LAST_INDEX}Cannot be used in current rank because of rank rollback.
 ETC_20171128_030463	Companion's name is too long or too short.
 ETC_20171128_030464	Block the Preface
@@ -34454,8 +34454,8 @@ ETC_20180629_034418	Você encontrou todos os stone plates.
 ETC_20180629_034419	Verificar atual Stone Plates
 ETC_20180629_034420	Hat Trick Quiz
 ETC_20180629_034421	Você quer adivinhar o número do Hat Trick? {Nl} Há recompensas especiais para o total de chutes certos também.
-ETC_20180629_034422	Pontuação atual{nl}{#FF0000}Time Vermelho{/} {TEAM1GOAL} : {#0000FF}Time Azul{/} {TEAM2GOAL}
-ETC_20180629_034423	Pontuação final{nl}Pontuação pessoal: {PCGOAL}{nl}{#FF0000}Time Vermelho{/} {TEAM1GOAL} : {#0000FF}Time Azul{/} {TEAM2GOAL}
+ETC_20180629_034422	Pontuação atual{nl}{#FF0000}Time Vermelho:{/} {TEAM1GOAL} --- {#0000FF}Time Azul:{/} {TEAM2GOAL}
+ETC_20180629_034423	Pontuação final{nl}Pontuação pessoal: {PCGOAL}{nl}{#FF0000}Time Vermelho:{/} {TEAM1GOAL} --- {#0000FF}Time Azul:{/} {TEAM2GOAL}
 ETC_20180629_034424	{nl}O {#FF0000}Time Vermelho{/} é o vencedor!
 ETC_20180629_034425	{nl}O {#0000FF}Time Azul{/} é o vencedor!
 ETC_20180629_034426	{nl}É um Empate!
@@ -36886,10 +36886,10 @@ ETC_20190104_036800	Territory Taxation Info	콜로니 세금 정보
 ETC_20190104_036801	Error code 8 tracking log.	Error code 8 추적 로그.			
 ETC_20190104_036802	Legend Raid: Earth Tower	레전드 레이드 : 대지의 탑			
 ETC_20190104_036803	Legend Raid: Velcoffer's Nest	레전드 레이드 : 벨코퍼의 둥지	ETC_20180517_032649	Legend Raid	레전드 레이드
-ETC_20190104_036804	Assault on Klaipeda	클라페다 대격돌			
-ETC_20190104_036805	Event: Assault on Klaipeda	이벤트:클라페다 대격돌			
-ETC_20190104_036806	Seal	인장			
-ETC_20190104_036807	Doll	인형			
+ETC_20190104_036804	Ataque em Klaipeda
+ETC_20190104_036805	Evento: Ataque em Klaipeda
+ETC_20190104_036806	Selo
+ETC_20190104_036807	Boneco
 ETC_20190104_036808	Deleted Gem	삭제된 젬			
 ETC_20190104_036809	Red Loxodon Gem	붉은 룩소돈의 젬	ETC_20151102_016822	Red Loxodon Gem	붉은 록소돈의 젬
 ETC_20190104_036810	Physical DEF ratio by item type	아이템 재질별 물리 방어 배율			
@@ -37599,13 +37599,13 @@ ETC_20190104_037513	[Vel. Ataque]
 ETC_20190104_037514	[Disponível montado]
 ETC_20190104_037515	[Somente montado]
 ETC_20190104_037516	Summoning...	소환 중			
-ETC_20190104_037517	I trust you are wiser than you look.{nl}So what will it be?{nl}Do you believe the goddesses? Or will you follow me and make true history?	나는 당신이 지혜롭다고 믿어요.{nl}어떤가요?{nl}무력한 여신의 뒤에? 아니면 나를 따라 세상을 움직여 볼 건가요?			
+ETC_20190104_037517	Acredito que tu sejas mais inteligente do que pareces.{nl}Então, o que achas?{nl}Tu acreditas nas Deusas?{nl}Ou irás seguir-me e, de fato, fazer história?
 ETC_20190104_037518	Giltine's Team Clash	길티네를 따라 : 클라페다 대격돌				
-ETC_20190104_037519	Follow Giltine: Assault on Klaipeda	길티네를 따라 : 클라페다 습격 사건			
-ETC_20190104_037520	Nope, this isn't for me.	상대하지 않는다			
-ETC_20190104_037521	You are wise, indeed.	역시 당신은 현명해요.			
-ETC_20190104_037522	You have already collected the event reward for the day.	오늘은 이미 이벤트 보상을 받으셨습니다			
-ETC_20190104_037523	- Click the summoning devices near the Statue of Goddess Ausrine to summon monsters!{nl}- The summoned monsters are sent to the opposing camp.{nl}- The team who successfully sends the most monsters during the 8-minute limit wins.{nl}- You need to defeat the other monsters so they don't trespass into your camp.{nl}- At the 4-minute mark, the team with the lowest number of successful breaks receives a +10 movement speed increase on their monsters.{nl}  Be careful, the monsters are quick!	- 여신 아우슈리네의 상 근처에 있는 붉은 소환 구체를 클릭하여 몬스터를 소환하세요!{nl}- 소환된 몬스터는 상대 진영으로 움직입니다.{nl}- 제한시간 8분 동안 상대 진영으로 몬스터가 많이 이동한 팀이 승리합니다.{nl}- 캐릭터가 속한 팀의 진영으로 몬스터가 오지 않도록 몬스터를 처치하세요.{nl}- 4분이 경과되면 몬스터 이동 수가 적은 팀에서 소환한 몬스터의 이동속도가 +10 증가합니다.{nl}  몬스터가 빠르게 이동하니 조심하세요!				
+ETC_20190104_037519	Seguir Giltine: Ataque em Klaipeda
+ETC_20190104_037520	Não mesmo, isso não é para mim.
+ETC_20190104_037521	Tu és, de fato, inteligente.
+ETC_20190104_037522	Você já coletou a recompensa do evento hoje.
+ETC_20190104_037523	- Invoque monstros interajindo com os objetos próximos da Estátua da Deusa Ausrine!{nl}- Monstros invocados irão até o campo inimigo.{nl}- Vence o time que mais monstros chegaram no campo inimigo.{nl}- Derrote os monstros inimigos e evite que chegem no seu campo.{nl}- Em 4 minutos, o time que estiver perdendo recebe +10 de Velocidade de Movimento nos seus monstros.{nl}  Cuidado, os monstros são rápidos!
 ETC_20190104_037524	 Requires 30 items.	 아이템 30개가 필요합니다			
 ETC_20190104_037525	Select companion	컴패니언 선택			
 ETC_20190104_037526	[Dico Tomb Thieves]{nl}Arghidas	[디코 도굴단]{nl}아르기다스	ETC_20161214_026225	[Dico Tomb Thieves]{nl}    Arghidas	[디코 도굴단]{nl}   아르기다스
@@ -37747,10 +37747,10 @@ ETC_20190104_037661	Taxa de Conjuração
 ETC_20190104_037662	Provocação Adicional
 ETC_20190104_037663	Velocidade de Ataque Normal
 ETC_20190104_037664	Vel. Ataque de Habilidade
-ETC_20190104_037665	You already have this collection.	이미 가지고 있는 컬렉션 입니다.	ETC_20150317_002860	You already have this collection.	이미 가지고 있는 콜렉션 입니다.
-ETC_20190104_037666	A collection has been added.	컬렉션이 등록되었습니다.	ETC_20150317_002862	A collection has been added.	콜렉션이 등록되었습니다.
-ETC_20190104_037667	This collection is shared with your team.{nl}It can't be returned once it has been added. Would you like to add this item?	컬렉션은 팀단위로 공유되며, 한번 추가한 아이템은 되돌려 받을 수 없습니다. 아이템을 넣으시겠습니까?	ETC_20160224_020662	This collection is shared with your team.{nl}It can't be returned once it has been added. Would you like to add this item?	콜렉션은 팀단위로 공유되며, 한번 추가한 아이템은 되돌려 받을 수 없습니다. 아이템을 넣으시겠습니까?
-ETC_20190104_037668	Collection:	컬렉션:	ETC_20170313_027461	Collection: 	콜렉션:
+ETC_20190104_037665	Você já possui esta coleção.
+ETC_20190104_037666	Uma coleção foi adicionada.
+ETC_20190104_037667	A coleção é compartilhada com o time.{nl}Item não pode ser retirado após guardado.{nl}Quer adicionar este item?
+ETC_20190104_037668	Coleção: 
 ETC_20190104_037669	Check Next Collection Compensation List	다음 컬렉션 보상 목록을 본다	ETC_20180320_031899	Check Next Collection Compensation List	다음 콜렉션 보상 목록을 본다
 ETC_20190104_037670	{Auto_1} collection(s) acquired	획득한 컬렉션 {Auto_1}	ETC_20150317_002873	{Auto_1} collection(s) acquired	획득한 콜렉션 {Auto_1}
 ETC_20190104_037671	{Auto_1} collection(s) completed	완성한 컬렉션 {Auto_1}	ETC_20150317_002877	{Auto_1} collection(s) completed	완성한 콜렉션 {Auto_1}
@@ -40752,7 +40752,7 @@ ETC_20190104_040666	Todos os jogadores foram derrotados
 ETC_20190104_040667	Você excedeu o limite de 1 hora e falhou a dungeon
 ETC_20190104_040668	Você retornará para a área original após 30 segundos
 ETC_20190104_040669	Eu estava atrasado
-ETC_20190104_040670	Derrote o monstro para coletar suas almas{nl}Use as almas para carregar o integrador e desarmar a barreira
+ETC_20190104_040670	Derrote os monstros para coletar suas almas.{nl}Use as almas para carregar o integrador e desarmar a barreira
 ETC_20190104_040671	Aparelho de Controle Mágico Preto		
 ETC_20190104_040672	Aparelho de Controle Mágico Verde
 ETC_20190104_040673	Aparelho de Controle Mágico Amarelo
