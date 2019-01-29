@@ -37095,12 +37095,12 @@ ETC_20190104_037009	[Fashion Designer]{nl}Kastytis	[의상 디자이너]{nl}카�
 ETC_20190104_037010	[Hair Stylist]{nl}Henry Swyn	[헤어 디자이너]{nl}헨리 스윈			
 ETC_20190104_037011	Magic Condenser Device	마력 응축 장치			
 ETC_20190104_037012	Black Crystal	검은색 크리스탈			
-ETC_20190104_037013	Magic Control Device	마력 제어 장치			
-ETC_20190104_037014	Power Control Device	동력 제어 장치			
-ETC_20190104_037015	Soul Integrator	영혼집약기			
-ETC_20190104_037016	Soul Amplifier	영혼 증폭석			
-ETC_20190104_037017	Western Power Supply	서쪽 동력 장치			
-ETC_20190104_037018	Eastern Power Supply	동쪽 동력 장치			
+ETC_20190104_037013	Controlador de Magia
+ETC_20190104_037014	Controlador de Força
+ETC_20190104_037015	Integrador de Espíritos
+ETC_20190104_037016	Amplificador de Espíritos
+ETC_20190104_037017	Fonte de Energia Oeste
+ETC_20190104_037018	Fonte de Energia Leste
 ETC_20190104_037019	White Guinea Pig	화이트 기니피그			
 ETC_20190104_037020	Templar Horse	템플러 말			
 ETC_20190104_037021	[Re:Build] Rapid Levels! Uska's Support	[Re:Build] 쾌.속.렙.업! 우스카의 성장 지원			
@@ -37649,36 +37649,36 @@ ETC_20190104_037563	There is not enough contribution from players.	현재 충분
 ETC_20190104_037564	You can play quest {Q_NAME} starting at level {Q_LV}.	{Q_NAME} 퀘스트는 {Q_LV}레벨부터 진행할 수 있습니다			
 ETC_20190104_037565	Teleportar usando o Mapa
 ETC_20190104_037566	Ir para um Mestre de Classe
-ETC_20190104_037567	Astral Tower 5F hasn't been used since Ignas became the head of the Schaffenstar.	별의 탑 5층은 이그나스가 단장에 취임한 이유로 사용하지 않았다네			
-ETC_20190104_037568	I can't believe he would make such modifications and let it run amok with monsters...	그 동안 이 따위로 개조하고 몬스터를 모아 놓다니...			
-ETC_20190104_037569	I am enraged!	다시 생각해도 화가 나는군!			
-ETC_20190104_037570	We must first disarm the barrier to reach Ignas. We'll be able to do that in the Power Supply Room.	이그나스에게 가기 위해 먼저 저 결계부터 해제해야 하네. 동력 장치실로 가면 내가 해제 할 수 있다네.			
-ETC_20190104_037571	We don't know what lies ahead of us but... {nl}Be careful.	뭐가 나올지 모르겠지만..{nl} 조심해주게			
-ETC_20190104_037572	Charging the Spirit Integration Device...	영혼 집약기 충전 중			
-ETC_20190104_037573	Collected Spirits: {COUNT} / 300	수집된 영혼 : {COUNT} / 300			
-ETC_20190104_037574	You have not collected any spirits!{nl}Defeat the monsters to collect their spirits and try again.	수집한 영혼이 없습니다!{nl}몬스터를 처치하여 영혼을 수집 후 다시 시도하세요			
-ETC_20190104_037575	The Spirit Integration Device is the Astral Tower's{nl}automated defense mechanism.	영혼 집약기는 별의 탑 고유의 방어시설로{nl}침입자가 있으면 자동으로 작동하지			
-ETC_20190104_037576	If you fill the integrator with spirits, I will open the door for you.	영혼 집약기에 영혼을 채워 넣으면, 내가 문을 열도록 하겠네			
-ETC_20190104_037577	It's such a hassle to get these doors open. The defensive system here is such a pain.	문을 여는 것도 여간 까다로워서. 이놈의 방어시설은 쓸 대 없이 잘 만들었단 말이지			
-ETC_20190104_037578	You have collected the spirit of a defeated monster.{nl}Collected Spirits: {COUNT} / 50	몬스터를 처치하여 영혼을 수집했습니다{nl}수집된 영혼 : {COUNT} / 50			
-ETC_20190104_037579	You have collected enough spirits.{nl}Charge the Spirit Integration Device!	영혼을 충분히 수집했습니다.{nl}영혼 집약기를 충전하세요!			
-ETC_20190104_037580	Good! You've gathered many spirits.	좋아! 영혼이 계속 모이고 있군			
-ETC_20190104_037581	But we're still short.	그래도 아직 부족하네			
-ETC_20190104_037582	Spirits are being collected.{nl}{COUNT} / 	영혼이 모이고 있습니다{nl}{COUNT} / 			
-ETC_20190104_037583	Operation: {COUNT} / 	가동률 : {COUNT} / 			
-ETC_20190104_037584	I will go scout the area first, stay behind me.	내가 먼저 정찰을 할 태니 조심해서 따라오게			
-ETC_20190104_037585	Hunting down monsters in the vicinity of the integrator will help you gather spirits faster.	증폭석 주변에서 몬스터를 잡으면 더 빨리 영혼을 모을 수 있을 걸세			
-ETC_20190104_037586	Excellent!{nl}I'll meet you in the next area!	훌륭하군!{nl}다음 지역에서 보세!			
-ETC_20190104_037587	You must first activate the integrator to remove the barrier.	이곳은, 마력 응축 장치를 활성화시켜 결계를 없애야 하네			
-ETC_20190104_037588	We will be able to activate the integrator{nl}when all other control devices are activated.	모든 제어 장치가 활성화 되면{nl}마력 응축 장치를 활성화 시킬 수 있네			
-ETC_20190104_037589	When the integrator is activated, defeat the monsters nearby to collect their spirits.	마력 응축 장치가 활성화 되면 주변에서 몬스터를 처치하여 영혼을 모을 수 있을 걸세			
-ETC_20190104_037590	Collecting enough spirits should let us disarm the barrier.	영혼이 충분히 모이면 결계를 해제할 수 있을 걸세			
-ETC_20190104_037591	Be careful not to destroy the integrator.	마력 응축 장치가 {nl}파괴되지 않게 주의하게			
-ETC_20190104_037592	There's no time to muck about!{nl}Come help me!	쉬고 있을 때가 아니네!{nl}가동이라도 돕게!			
-ETC_20190104_037593	Protect me while I charge the Power Supply Device!	동력 제어 장치를 충전하는 동안{nl}보호해주게!			
-ETC_20190104_037594	The Power Supply Device has been charged!	동력 제어 장치의 충전이 끝났군!			
-ETC_20190104_037595	At last, there are no more barriers standing in our way.	이제 이그나스와 우리 사이에 있던{nl}모든 결계가 사라졌네			
-ETC_20190104_037596	Please go defeat Ignas before it's too late!	이그나스가 뭔가 큰 일을 벌이기 전에{nl}그 자를 처리해주게!			
+ETC_20190104_037567	Astral Tower 5F não é usada desde que Ignas se tornou líder da Schaffenstar.
+ETC_20190104_037568	Não acredito que ele faria tais modificações e se aliaria aos monstros...
+ETC_20190104_037569	Estou com raiva!
+ETC_20190104_037570	Devemos primeiro desarmar a barreira para alcançar Ignas. Conseguiremos fazer isso alcançando a Power Supply Room.
+ETC_20190104_037571	Não dá pra saber o que nos espera... {nl}Tenham cuidado.
+ETC_20190104_037572	Carregando espíritos no Integrador...
+ETC_20190104_037573	Espíritos Coletados: {COUNT} / 300
+ETC_20190104_037574	Você não coletou nenhum espírito!{nl}Derrote os monstros para coletar seus espíritos e tente novamente.
+ETC_20190104_037575	O Dispositivo Integrador de Espíritos é um mecanismo de defesa{nl}automático da Astral Tower.
+ETC_20190104_037576	Carregar o integrador com espíritos abrirá o caminho.
+ETC_20190104_037577	É um trabalho enorme passar por estas barreiras. O sistema de defesa daqui é muito complicado.
+ETC_20190104_037578	Você coletou o espírito de um monstro!{nl}Espíritos Coletados: {COUNT} / 50
+ETC_20190104_037579	Você coletou espíritos suficientes.{nl}Carregue-os no Dispositivo Integrador de Espíritos!
+ETC_20190104_037580	Ótimo! Vários espíritos foram coletados.
+ETC_20190104_037581	Mas ainda precisa de mais.
+ETC_20190104_037582	Coletando espíritos.{nl}{COUNT} / 
+ETC_20190104_037583	Operação: {COUNT} / 
+ETC_20190104_037584	Vou averiguar a área primeira, fique atrás de mim.
+ETC_20190104_037585	Derrotar monstros perto de um Integrador ajudará a coletar espíritos mais rapidamente.
+ETC_20190104_037586	Excelente!{nl}Vamos avançar para a próxima área!
+ETC_20190104_037587	Você precisa ativar o integrador para remover a barreira.
+ETC_20190104_037588	Vamos conseguir ativar o integrador{nl}quando as os demais controladores forem ativados.
+ETC_20190104_037589	Quando o integrador for ativado, derrote os monstros para coletar seus espíritos.
+ETC_20190104_037590	Precisamos de espíritos suficientes para desarmar a barreira
+ETC_20190104_037591	Cuidado para não destruir o integrador.
+ETC_20190104_037592	Não podemos perder tempo!{nl}Venha ajudar!
+ETC_20190104_037593	Me proteja enquanto carrego a Fonte de Energia!
+ETC_20190104_037594	A Fonte de Energia foi carregada!
+ETC_20190104_037595	Finalmente! Não há mais barreiras no nosso caminho.
+ETC_20190104_037596	Por favor, pare Ignas antes que seja tarde!
 ETC_20190104_037597	Consegui as páginas para o livro.
 ETC_20190104_037598	You have found all the items in this area.{nl}Move to another area and find more collection items there.	이곳에 있는 모든 아이템을 찾았습니다.{nl}다른 곳으로 이동해 컬렉션 아이템을 찾아보세요.	ETC_20180320_031882	You have found all the items in this area.{nl}Move to another area and find more collection items there.	이곳에 있는 모든 아이템을 찾았습니다.{nl}다른 곳으로 이동해 콜렉션 아이템을 찾아보세요.
 ETC_20190104_037599	Magic Generating Stones have been successfully blocked!	마력 재생석을 성공적으로 차단했습니다!			
