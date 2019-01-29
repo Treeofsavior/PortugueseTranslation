@@ -11534,7 +11534,7 @@ ETC_20150428_011535	The grapes are already withered.
 ETC_20150428_011536	Failed to guide the soldier left behind. 
 ETC_20150428_011537	Unable to resonate the crystal yet.
 ETC_20150428_011538	The crystal is already resonating.
-ETC_20150428_011539	Moving to the entrance of the Royal Mausoleum
+ETC_20150428_011539	Indo para a entrada do Royal Mausoleum
 ETC_20150428_011540	Laying down Dallas' body
 ETC_20150428_011541	Failed to meet the conditions.
 ETC_20150428_011542	Conditions met.
@@ -16809,7 +16809,7 @@ ETC_20151102_016803	Chupacabra Gem
 ETC_20151102_016804	Infrorocktor Gem
 ETC_20151102_016805	Corylus Gem
 ETC_20151102_016806	Beeteros Gem
-ETC_20151102_016807	Infro Holder Shaman
+ETC_20151102_016807	Infro Holder Shaman Gem
 ETC_20151102_016808	Rodelin Gem
 ETC_20151102_016809	Leafly Gem
 ETC_20151102_016810	Doyor Gem
@@ -24044,7 +24044,7 @@ ETC_20160811_024038	The store has not yet opened.
 ETC_20160811_024039	Successfully changed the Lodge Layout.
 ETC_20160811_024040	{CNT} {TP}TP Vouchers
 ETC_20160811_024041	There are no available sockets.
-ETC_20160811_024042	Opinion about the Nheto Forest Painting
+ETC_20160811_024042	Opinião sobre a pintura de Nheto Forest
 ETC_20160811_024043	The truth of the Ruklys Incident
 ETC_20160811_024044	There does not seem to be any books worth reading
 ETC_20160811_024045	King Kadumel's Monument - Revised
@@ -25769,7 +25769,7 @@ ETC_20161121_025763	Waiting for party members.
 ETC_20161121_025764	Busca com equipe cancelada.
 ETC_20161121_025765	{MEMBER} está fazendo uma busca em equipe na {INDUN}. Para se juntar, vá ao NPC correspondente e selecione 'Buscar com a Equipe'.
 ETC_20161121_025766	Cannot leave while queuing for party entry.
-ETC_20161121_025767	Busca em andamento
+ETC_20161121_025767	Buscando grupo
 ETC_20161121_025768	Busca automática completa.
 ETC_20161121_025769	Não pode ser usado enquanto Buscando.
 ETC_20161121_025770	Deseja entrar?
@@ -28466,7 +28466,7 @@ ETC_20170726_028439	Comendo o peixe...	물고기 구워 먹는 중
 ETC_20170726_028440	Não pode usar perto de outro jogador pescando.	가까이에 다른 낚시꾼이 있어 사용할 수 없습니다.
 ETC_20170726_028441	Você pegou um peixe!	물고기를 낚았습니다!
 ETC_20170726_028442	O peixe cuspiu algo e se mandou!{nl}{ItemName}	물고기가 무언가를 뱉어내고 도망갔습니다!{nl}{ItemName}
-ETC_20170726_028443	Um Chefe perigoso aparecerá em breve:{nl}{#d81111}{Name}
+ETC_20170726_028443	Um Demon Lord perigoso irá aparecer!{nl}{#d81111}{Name}
 ETC_20170726_028444	Black Cherry
 ETC_20170726_028445	Camellia
 ETC_20170726_028446	Bamboo
@@ -28829,7 +28829,7 @@ ETC_20170912_028802	This can only be used on the weekends.
 ETC_20170912_028803	Kupole's Gift{nl}{TEXT}
 ETC_20170912_028804	Total Mission Count: {COUNT}
 ETC_20170912_028805	Receive Total Count Reward
-ETC_20170912_028806	Rewards Received: {COUNT}
+ETC_20170912_028806	Prêmios Recebidos: {COUNT}
 ETC_20170912_028807	Wow, you ranked no. {RANK} in the Diário de Aventura! Congratulations!{nl}The reward is on its way.
 ETC_20170912_028808	Wow, you ranked no. {RANK} in the Diário de Aventura! Congratulations!{nl}The reward is on its way.
 ETC_20170912_028809	Team Storage expanded by 1 slot.
@@ -28849,8 +28849,8 @@ ETC_20170912_028822	The settlers are having a hard time dealing with the dead cr
 ETC_20170912_028823	A merchant has lost all his goods on the way to Fedimian!{nl}Collect the lost goods in the outskirts of Fedimian and bring them back to the merchant!
 ETC_20170912_028824	There are still stone statues left to purify!{nl}Hurry and purify them!
 ETC_20170912_028825	Sorry, it was taken by another player.
-ETC_20170912_028826	Enter Uphill Defense Mission
-ETC_20170912_028827	Open Uphill Defense Shop
+ETC_20170912_028826	Entrar na Missão - Uphill Defense
+ETC_20170912_028827	Abrir loja da Uphill Defense
 ETC_20170912_028828	Change Position
 ETC_20170912_028829	{CallMemberName} used {SkillName}.{nl}Will you accept?
 ETC_20170912_028830	Can only be used nearby a Guild Tower, in a city or inside the Guild Hangout.
@@ -30484,7 +30484,7 @@ ETC_20171128_030457	Brinquedo
 ETC_20171128_030458	A random option item which is not appraised yet.
 ETC_20171128_030459	Selecione um item a ser desmontado.
 ETC_20171128_030460	Dismantle Price: {Price}{nl}Are you sure you want to dismantle?
-ETC_20171128_030461	cannot be used in current party status.
+ETC_20171128_030461	não é permitido enquanto fizer parte de um grupo.
 ETC_20171128_030462	{LAST_INDEX}Cannot be used in current rank because of rank rollback.
 ETC_20171128_030463	Companion's name is too long or too short.
 ETC_20171128_030464	Block the Preface
@@ -31143,7 +31143,7 @@ ETC_20171207_031116	Amiss Dogs are monsters created artificially during Medzio D
 ETC_20171207_031117	Quip Mages aren't animals; they are assumed to be cursed humans or failed transmutation experiments.
 ETC_20171207_031118	Medzio Diena was a fortunate event for Madon Maidens, as they managed to possess different creatures in order to become more powerful. However, it is still uncertain whether their possessing spirit is human or demon.
 ETC_20171207_031119	Prodded Horses are a species of unicorn born after Medzio Diena that mutated into a monster.	프로디드 호스는 신수의 날 이후 태어난 유니콘 가운데 일부가 변형되면서 발생합니다.				
-ETC_20171207_031120	Tel Harshas are one of the many forms a human can take when they are reborn as a demon. It may not be the best form, but the fact they they become Tel Harshas?mean they were once highly respected humans.
+ETC_20171207_031120	Tel Harshas are one of the many forms a human can take when they are reborn as a demon. It may not be the best form, but the fact they became Tel Harshas means they were once highly respected humans.	텔하르샤는 인간이 마족으로 다시 태어날 때 지닐 수 있는 형태 가운데 하나입니다. 최고라고는 할 수 없지만, 어떤 인간이든 마족으로 변할 때 텔하르샤가 된다면 인간이었던 시절에도 최강자군에 속하는 사람이었다는 점은 분명합니다.	ETC_20170605_027915	Music Box	오르골	
 ETC_20171207_031121	Christmas Sled Box
 ETC_20171207_031122	You fell asleep. Can't perform any actions until hit by an attack.
 ETC_20171207_031123	Presente Perdido
@@ -31905,10 +31905,10 @@ ETC_20180320_031873	Verificar total de charadas resolvidas
 ETC_20180320_031874	Retornar!
 ETC_20180320_031875	Você acertou  
 ETC_20180320_031876	 até agora.
-ETC_20180320_031877	What can you tell me about the Bookshelf of Ripped Books?
-ETC_20180320_031878	Sure, I can gather a few Ripped Book Pages.
-ETC_20180320_031879	Please explain.
-ETC_20180320_031880	I have some book pages for you.
+ETC_20180320_031877	E esta prateleira de livros rasgados?
+ETC_20180320_031878	Claro, posso conseguir uns Ripped Book Pages.
+ETC_20180320_031879	Por favor, explique.
+ETC_20180320_031880	Tenho algumas páginas para você.
 ETC_20180320_031881	Woof! Woof!
 ETC_20180320_031882	You have found all the items in this area.{nl}Move to another area and find more collection items there.
 ETC_20180320_031883	Failed to create {TYPE}. Please try again later.
@@ -34454,8 +34454,8 @@ ETC_20180629_034418	Você encontrou todos os stone plates.
 ETC_20180629_034419	Verificar atual Stone Plates
 ETC_20180629_034420	Hat Trick Quiz
 ETC_20180629_034421	Você quer adivinhar o número do Hat Trick? {Nl} Há recompensas especiais para o total de chutes certos também.
-ETC_20180629_034422	Pontuação atual{nl}{#FF0000}Time Vermelho{/} {TEAM1GOAL} : {#0000FF}Time Azul{/} {TEAM2GOAL}
-ETC_20180629_034423	Pontuação final{nl}Pontuação pessoal: {PCGOAL}{nl}{#FF0000}Time Vermelho{/} {TEAM1GOAL} : {#0000FF}Time Azul{/} {TEAM2GOAL}
+ETC_20180629_034422	Pontuação atual{nl}{#FF0000}Time Vermelho:{/} {TEAM1GOAL} --- {#0000FF}Time Azul:{/} {TEAM2GOAL}
+ETC_20180629_034423	Pontuação final{nl}Pontuação pessoal: {PCGOAL}{nl}{#FF0000}Time Vermelho:{/} {TEAM1GOAL} --- {#0000FF}Time Azul:{/} {TEAM2GOAL}
 ETC_20180629_034424	{nl}O {#FF0000}Time Vermelho{/} é o vencedor!
 ETC_20180629_034425	{nl}O {#0000FF}Time Azul{/} é o vencedor!
 ETC_20180629_034426	{nl}É um Empate!
@@ -36737,7 +36737,7 @@ ETC_20190104_036651	Strengthened Unity	결속 강화
 ETC_20190104_036652	The power of the connection formed between you and your companion protects you.	충직한 소환수 혹은 컴패니언과의 인연의 힘이 당신을 보호합니다			
 ETC_20190104_036653	Borutos Kapas Test Buff	보루토스 카파스 테스트 버프			
 ETC_20190104_036654	Buff for testing Boruta.	보루타 테스트용 버프입니다.			
-ETC_20190104_036655	Mark: Borutas Kapas	표식 : 보루토스 카파스			
+ETC_20190104_036655	Mark: Borutos Kapas	표식 : 보루토스 카파스			
 ETC_20190104_036656	A mark that the Dragon Boruta has left on the guild members who have contributed greatly in suppressing his return.{nl}Lasts for 2 weeks maximum.	드래곤 보루타가 자신을 저지하는 데 가장 큰 기여를 한 길드의 구성원들에게 남긴 표식입니다.{nl}최대 2주간 지속됩니니다.			
 ETC_20190104_036657	All attacks are ignored except for those stated otherwise.	지정된 스킬 외에는 공격을 무시합니다.			
 ETC_20190104_036658	Increased physical critical attack	물리 치명타 공격력 증가	SKILL_20150317_001819	Increased critical attack	치명타 공격력 증가
@@ -36886,10 +36886,10 @@ ETC_20190104_036800	Territory Taxation Info	콜로니 세금 정보
 ETC_20190104_036801	Error code 8 tracking log.	Error code 8 추적 로그.			
 ETC_20190104_036802	Legend Raid: Earth Tower	레전드 레이드 : 대지의 탑			
 ETC_20190104_036803	Legend Raid: Velcoffer's Nest	레전드 레이드 : 벨코퍼의 둥지	ETC_20180517_032649	Legend Raid	레전드 레이드
-ETC_20190104_036804	Assault on Klaipeda	클라페다 대격돌			
-ETC_20190104_036805	Event: Assault on Klaipeda	이벤트:클라페다 대격돌			
-ETC_20190104_036806	Seal	인장			
-ETC_20190104_036807	Doll	인형			
+ETC_20190104_036804	Ataque em Klaipeda
+ETC_20190104_036805	Evento: Ataque em Klaipeda
+ETC_20190104_036806	Selo
+ETC_20190104_036807	Boneco
 ETC_20190104_036808	Deleted Gem	삭제된 젬			
 ETC_20190104_036809	Red Loxodon Gem	붉은 룩소돈의 젬	ETC_20151102_016822	Red Loxodon Gem	붉은 록소돈의 젬
 ETC_20190104_036810	Physical DEF ratio by item type	아이템 재질별 물리 방어 배율			
@@ -37095,12 +37095,12 @@ ETC_20190104_037009	[Fashion Designer]{nl}Kastytis	[의상 디자이너]{nl}카�
 ETC_20190104_037010	[Hair Stylist]{nl}Henry Swyn	[헤어 디자이너]{nl}헨리 스윈			
 ETC_20190104_037011	Magic Condenser Device	마력 응축 장치			
 ETC_20190104_037012	Black Crystal	검은색 크리스탈			
-ETC_20190104_037013	Magic Control Device	마력 제어 장치			
-ETC_20190104_037014	Power Control Device	동력 제어 장치			
-ETC_20190104_037015	Soul Integrator	영혼집약기			
-ETC_20190104_037016	Soul Amplifier	영혼 증폭석			
-ETC_20190104_037017	Western Power Supply	서쪽 동력 장치			
-ETC_20190104_037018	Eastern Power Supply	동쪽 동력 장치			
+ETC_20190104_037013	Controlador de Magia
+ETC_20190104_037014	Controlador de Força
+ETC_20190104_037015	Integrador de Espíritos
+ETC_20190104_037016	Amplificador de Espíritos
+ETC_20190104_037017	Fonte de Energia Oeste
+ETC_20190104_037018	Fonte de Energia Leste
 ETC_20190104_037019	White Guinea Pig	화이트 기니피그			
 ETC_20190104_037020	Templar Horse	템플러 말			
 ETC_20190104_037021	[Re:Build] Rapid Levels! Uska's Support	[Re:Build] 쾌.속.렙.업! 우스카의 성장 지원			
@@ -37501,7 +37501,7 @@ ETC_20190104_037415	You do not have enough vouchers.	소유중인 교환권이 �
 ETC_20190104_037416	[Premium] [10%] Discount off new items	[프리미엄]신규 상품 [10%]할인			
 ETC_20190104_037417	Restricted from trading via Market	마켓 거래 불가			
 ETC_20190104_037418	{@st41b}{#0064FF}Title:{/}{/} 	{@st41b}{#0064FF}칭호 :{/}{/} 	ETC_20150317_001957	{@st41b} Title {/}	{@st41b}칭호 :{/} 
-ETC_20190104_037419	{@st59}Increases amount healed, magic critical attack and damage dealt by summons{/}	{@st59}치유력, 마법 치명타 공격력, 소환수의 대미지 증가{/}				
+ETC_20190104_037419	{@st59}Aumenta a cura, Ataque Crítico Mágico e dano de invocações{/}
 ETC_20190104_037420	[Allerno Family]{nl}Asta	[아렐르노 남작가]{nl}아스타			
 ETC_20190104_037421	{#003399}[CARTÕES DE EXPERIÊNCIA]{/} e {#003399}[ITENS EQUIPADOS]{/} estão guardados na {#003399}[ABA RECUPERAR DO MERCADO]{/}.{nl}Fale com algum NPC {#003399}[GERENTE DO MERCADO]{/} para receber os itens!
 ETC_20190104_037422	Você pode usar a Estátua da Deusa para transportar até o Mestre da classe que você escolheu avançar.
@@ -37598,14 +37598,14 @@ ETC_20190104_037512	[Psíquico{img notice_br_link 17 17}]
 ETC_20190104_037513	[Vel. Ataque]
 ETC_20190104_037514	[Disponível montado]
 ETC_20190104_037515	[Somente montado]
-ETC_20190104_037516	Summoning	소환 중			
-ETC_20190104_037517	I trust you are wiser than you look.{nl}So what will it be?{nl}Do you believe the goddesses? Or will you follow me and make true history?	나는 당신이 지혜롭다고 믿어요.{nl}어떤가요?{nl}무력한 여신의 뒤에? 아니면 나를 따라 세상을 움직여 볼 건가요?			
-ETC_20190104_037518	Follow Giltine: Assault on Klaipeda	길티네를 따라 : 클라페다 대격돌			
-ETC_20190104_037519	Follow Giltine: Assault on Klaipeda	길티네를 따라 : 클라페다 습격 사건			
-ETC_20190104_037520	Nope, this isn't for me.	상대하지 않는다			
-ETC_20190104_037521	You are wise, indeed.	역시 당신은 현명해요.			
-ETC_20190104_037522	You have already collected the event reward for the day.	오늘은 이미 이벤트 보상을 받으셨습니다			
-ETC_20190104_037523	- Click the red summoning devices near the Statue of Goddess Ausrine to summon monsters!{nl}- The summoned monsters are sent to the opposing camp.{nl}- The team who successfully sends the most monsters during the 8-minute limit wins.{nl}- You need to defeat the other monsters so they don't trespass into your camp.{nl}- At the 4-minute mark, the team with the lowest number of successful breaks receives a +10 movement speed increase on their monsters.{nl}  Be careful, the monsters are quick!	- 여신 아우슈리네의 상 근처에 있는 붉은 소환 구체를 클릭하여 몬스터를 소환하세요!{nl}- 소환된 몬스터는 상대 진영으로 움직입니다.{nl}- 제한시간 8분 동안 상대 진영으로 몬스터가 많이 이동한 팀이 승리합니다.{nl}- 캐릭터가 속한 팀의 진영으로 몬스터가 오지 않도록 몬스터를 처치하세요.{nl}- 4분이 경과되면 몬스터 이동 수가 적은 팀에서 소환한 몬스터의 이동속도가 +10 증가합니다.{nl}  몬스터가 빠르게 이동하니 조심하세요!			
+ETC_20190104_037516	Summoning...	소환 중			
+ETC_20190104_037517	Acredito que tu sejas mais inteligente do que pareces.{nl}Então, o que achas?{nl}Tu acreditas nas Deusas?{nl}Ou irás seguir-me e, de fato, fazer história?
+ETC_20190104_037518	Giltine's Team Clash	길티네를 따라 : 클라페다 대격돌				
+ETC_20190104_037519	Seguir Giltine: Ataque em Klaipeda
+ETC_20190104_037520	Não mesmo, isso não é para mim.
+ETC_20190104_037521	Tu és, de fato, inteligente.
+ETC_20190104_037522	Você já coletou a recompensa do evento hoje.
+ETC_20190104_037523	- Invoque monstros interajindo com os objetos próximos da Estátua da Deusa Ausrine!{nl}- Monstros invocados irão até o campo inimigo.{nl}- Vence o time que mais monstros chegaram no campo inimigo.{nl}- Derrote os monstros inimigos e evite que chegem no seu campo.{nl}- Em 4 minutos, o time que estiver perdendo recebe +10 de Velocidade de Movimento nos seus monstros.{nl}  Cuidado, os monstros são rápidos!
 ETC_20190104_037524	 Requires 30 items.	 아이템 30개가 필요합니다			
 ETC_20190104_037525	Select companion	컴패니언 선택			
 ETC_20190104_037526	[Dico Tomb Thieves]{nl}Arghidas	[디코 도굴단]{nl}아르기다스	ETC_20161214_026225	[Dico Tomb Thieves]{nl}    Arghidas	[디코 도굴단]{nl}   아르기다스
@@ -37649,37 +37649,37 @@ ETC_20190104_037563	There is not enough contribution from players.	현재 충분
 ETC_20190104_037564	You can play quest {Q_NAME} starting at level {Q_LV}.	{Q_NAME} 퀘스트는 {Q_LV}레벨부터 진행할 수 있습니다			
 ETC_20190104_037565	Teleportar usando o Mapa
 ETC_20190104_037566	Ir para um Mestre de Classe
-ETC_20190104_037567	Astral Tower 5F hasn't been used since Ignas became the head of the Schaffenstar.	별의 탑 5층은 이그나스가 단장에 취임한 이유로 사용하지 않았다네			
-ETC_20190104_037568	I can't believe he would make such modifications and let it run amok with monsters...	그 동안 이 따위로 개조하고 몬스터를 모아 놓다니...			
-ETC_20190104_037569	I am enraged!	다시 생각해도 화가 나는군!			
-ETC_20190104_037570	We must first disarm the barrier to reach Ignas. We'll be able to do that in the Power Supply Room.	이그나스에게 가기 위해 먼저 저 결계부터 해제해야 하네. 동력 장치실로 가면 내가 해제 할 수 있다네.			
-ETC_20190104_037571	We don't know what lies ahead of us but... {nl}Be careful.	뭐가 나올지 모르겠지만..{nl} 조심해주게			
-ETC_20190104_037572	Charging the Spirit Integration Device...	영혼 집약기 충전 중			
-ETC_20190104_037573	Collected Spirits: {COUNT} / 300	수집된 영혼 : {COUNT} / 300			
-ETC_20190104_037574	You have not collected any spirits!{nl}Defeat the monsters to collect their spirits and try again.	수집한 영혼이 없습니다!{nl}몬스터를 처치하여 영혼을 수집 후 다시 시도하세요			
-ETC_20190104_037575	The Spirit Integration Device is the Astral Tower's{nl}automated defense mechanism.	영혼 집약기는 별의 탑 고유의 방어시설로{nl}침입자가 있으면 자동으로 작동하지			
-ETC_20190104_037576	If you fill the integrator with spirits, I will open the door for you.	영혼 집약기에 영혼을 채워 넣으면, 내가 문을 열도록 하겠네			
-ETC_20190104_037577	It's such a hassle to get these doors open. The defensive system here is such a pain.	문을 여는 것도 여간 까다로워서. 이놈의 방어시설은 쓸 대 없이 잘 만들었단 말이지			
-ETC_20190104_037578	You have collected the spirit of a defeated monster.{nl}Collected Spirits: {COUNT} / 50	몬스터를 처치하여 영혼을 수집했습니다{nl}수집된 영혼 : {COUNT} / 50			
-ETC_20190104_037579	You have collected enough spirits.{nl}Charge the Spirit Integration Device!	영혼을 충분히 수집했습니다.{nl}영혼 집약기를 충전하세요!			
-ETC_20190104_037580	Good! You've gathered many spirits.	좋아! 영혼이 계속 모이고 있군			
-ETC_20190104_037581	But we're still short.	그래도 아직 부족하네			
-ETC_20190104_037582	Spirits are being collected.{nl}{COUNT} / 	영혼이 모이고 있습니다{nl}{COUNT} / 			
-ETC_20190104_037583	Operation: {COUNT} / 	가동률 : {COUNT} / 			
-ETC_20190104_037584	I will go scout the area first, stay behind me.	내가 먼저 정찰을 할 태니 조심해서 따라오게			
-ETC_20190104_037585	Hunting down monsters in the vicinity of the integrator will help you gather spirits faster.	증폭석 주변에서 몬스터를 잡으면 더 빨리 영혼을 모을 수 있을 걸세			
-ETC_20190104_037586	Excellent!{nl}I'll meet you in the next area!	훌륭하군!{nl}다음 지역에서 보세!			
-ETC_20190104_037587	You must first activate the integrator to remove the barrier.	이곳은, 마력 응축 장치를 활성화시켜 결계를 없애야 하네			
-ETC_20190104_037588	We will be able to activate the integrator{nl}when all other control devices are activated.	모든 제어 장치가 활성화 되면{nl}마력 응축 장치를 활성화 시킬 수 있네			
-ETC_20190104_037589	When the integrator is activated, defeat the monsters nearby to collect their spirits.	마력 응축 장치가 활성화 되면 주변에서 몬스터를 처치하여 영혼을 모을 수 있을 걸세			
-ETC_20190104_037590	Collecting enough spirits should let us disarm the barrier.	영혼이 충분히 모이면 결계를 해제할 수 있을 걸세			
-ETC_20190104_037591	Be careful not to destroy the integrator.	마력 응축 장치가 {nl}파괴되지 않게 주의하게			
-ETC_20190104_037592	There's no time to muck about!{nl}Come help me!	쉬고 있을 때가 아니네!{nl}가동이라도 돕게!			
-ETC_20190104_037593	Protect me while I charge the Power Supply Device!	동력 제어 장치를 충전하는 동안{nl}보호해주게!			
-ETC_20190104_037594	The Power Supply Device has been charged!	동력 제어 장치의 충전이 끝났군!			
-ETC_20190104_037595	At last, there are no more barriers standing in our way.	이제 이그나스와 우리 사이에 있던{nl}모든 결계가 사라졌네			
-ETC_20190104_037596	Please go defeat Ignas before it's too late!	이그나스가 뭔가 큰 일을 벌이기 전에{nl}그 자를 처리해주게!			
-ETC_20190104_037597	I've gathered the pages of the torn book.	찢어진 책장을 모아왔다고 한다	ETC_20180320_031878	Sure, I can gather a few Ripped Book Pages.	찢어진 책의 책장을 모아왔다고 한다
+ETC_20190104_037567	Astral Tower 5F não é usada desde que Ignas se tornou líder da Schaffenstar.
+ETC_20190104_037568	Não acredito que ele faria tais modificações e se aliaria aos monstros...
+ETC_20190104_037569	Estou com raiva!
+ETC_20190104_037570	Devemos primeiro desarmar a barreira para alcançar Ignas. Conseguiremos fazer isso alcançando a Power Supply Room.
+ETC_20190104_037571	Não dá pra saber o que nos espera... {nl}Tenham cuidado.
+ETC_20190104_037572	Carregando espíritos no Integrador...
+ETC_20190104_037573	Espíritos Coletados: {COUNT} / 300
+ETC_20190104_037574	Você não coletou nenhum espírito!{nl}Derrote os monstros para coletar seus espíritos e tente novamente.
+ETC_20190104_037575	O Dispositivo Integrador de Espíritos é um mecanismo de defesa{nl}automático da Astral Tower.
+ETC_20190104_037576	Carregar o integrador com espíritos abrirá o caminho.
+ETC_20190104_037577	É um trabalho enorme passar por estas barreiras. O sistema de defesa daqui é muito complicado.
+ETC_20190104_037578	Você coletou o espírito de um monstro!{nl}Espíritos Coletados: {COUNT} / 50
+ETC_20190104_037579	Você coletou espíritos suficientes.{nl}Carregue-os no Dispositivo Integrador de Espíritos!
+ETC_20190104_037580	Ótimo! Vários espíritos foram coletados.
+ETC_20190104_037581	Mas ainda precisa de mais.
+ETC_20190104_037582	Coletando espíritos.{nl}{COUNT} / 
+ETC_20190104_037583	Operação: {COUNT} / 
+ETC_20190104_037584	Vou averiguar a área primeira, fique atrás de mim.
+ETC_20190104_037585	Derrotar monstros perto de um Integrador ajudará a coletar espíritos mais rapidamente.
+ETC_20190104_037586	Excelente!{nl}Vamos avançar para a próxima área!
+ETC_20190104_037587	Você precisa ativar o integrador para remover a barreira.
+ETC_20190104_037588	Vamos conseguir ativar o integrador{nl}quando as os demais controladores forem ativados.
+ETC_20190104_037589	Quando o integrador for ativado, derrote os monstros para coletar seus espíritos.
+ETC_20190104_037590	Precisamos de espíritos suficientes para desarmar a barreira
+ETC_20190104_037591	Cuidado para não destruir o integrador.
+ETC_20190104_037592	Não podemos perder tempo!{nl}Venha ajudar!
+ETC_20190104_037593	Me proteja enquanto carrego a Fonte de Energia!
+ETC_20190104_037594	A Fonte de Energia foi carregada!
+ETC_20190104_037595	Finalmente! Não há mais barreiras no nosso caminho.
+ETC_20190104_037596	Por favor, pare Ignas antes que seja tarde!
+ETC_20190104_037597	Consegui as páginas para o livro.
 ETC_20190104_037598	You have found all the items in this area.{nl}Move to another area and find more collection items there.	이곳에 있는 모든 아이템을 찾았습니다.{nl}다른 곳으로 이동해 컬렉션 아이템을 찾아보세요.	ETC_20180320_031882	You have found all the items in this area.{nl}Move to another area and find more collection items there.	이곳에 있는 모든 아이템을 찾았습니다.{nl}다른 곳으로 이동해 콜렉션 아이템을 찾아보세요.
 ETC_20190104_037599	Magic Generating Stones have been successfully blocked!	마력 재생석을 성공적으로 차단했습니다!			
 ETC_20190104_037600	Report the results of the investigation.	조사한 내용을 말한다			
@@ -37747,10 +37747,10 @@ ETC_20190104_037661	Taxa de Conjuração
 ETC_20190104_037662	Provocação Adicional
 ETC_20190104_037663	Velocidade de Ataque Normal
 ETC_20190104_037664	Vel. Ataque de Habilidade
-ETC_20190104_037665	You already have this collection.	이미 가지고 있는 컬렉션 입니다.	ETC_20150317_002860	You already have this collection.	이미 가지고 있는 콜렉션 입니다.
-ETC_20190104_037666	A collection has been added.	컬렉션이 등록되었습니다.	ETC_20150317_002862	A collection has been added.	콜렉션이 등록되었습니다.
-ETC_20190104_037667	This collection is shared with your team.{nl}It can't be returned once it has been added. Would you like to add this item?	컬렉션은 팀단위로 공유되며, 한번 추가한 아이템은 되돌려 받을 수 없습니다. 아이템을 넣으시겠습니까?	ETC_20160224_020662	This collection is shared with your team.{nl}It can't be returned once it has been added. Would you like to add this item?	콜렉션은 팀단위로 공유되며, 한번 추가한 아이템은 되돌려 받을 수 없습니다. 아이템을 넣으시겠습니까?
-ETC_20190104_037668	Collection:	컬렉션:	ETC_20170313_027461	Collection: 	콜렉션:
+ETC_20190104_037665	Você já possui esta coleção.
+ETC_20190104_037666	Uma coleção foi adicionada.
+ETC_20190104_037667	A coleção é compartilhada com o time.{nl}Item não pode ser retirado após guardado.{nl}Quer adicionar este item?
+ETC_20190104_037668	Coleção: 
 ETC_20190104_037669	Check Next Collection Compensation List	다음 컬렉션 보상 목록을 본다	ETC_20180320_031899	Check Next Collection Compensation List	다음 콜렉션 보상 목록을 본다
 ETC_20190104_037670	{Auto_1} collection(s) acquired	획득한 컬렉션 {Auto_1}	ETC_20150317_002873	{Auto_1} collection(s) acquired	획득한 콜렉션 {Auto_1}
 ETC_20190104_037671	{Auto_1} collection(s) completed	완성한 컬렉션 {Auto_1}	ETC_20150317_002877	{Auto_1} collection(s) completed	완성한 콜렉션 {Auto_1}
@@ -37758,9 +37758,9 @@ ETC_20190104_037672	Level {LV} or higher are allowed.	{LEVEL}레벨 이상만 �
 ETC_20190104_037673	{ID_NAME} (Nv.: {ID_LV}, 1 avanço de classe)
 ETC_20190104_037674	{nl}Avançar para a classe?{nl}(Esta escolha só poderá ser alterada através de Mudança de Classe)
 ETC_20190104_037675	{@st44}Info do próximo Avanço de Classe
-ETC_20190104_037676	{@st59}Increases physical attack{/}	{@st59}물리 공격력 증가{/}			
-ETC_20190104_037677	{@st59}Increases max HP, physical defense and magic defense{/}	{@st59}최대 HP, 물리 방어력, 마법 방어력 증가{/}			
-ETC_20190104_037678	{@st59}Increases attack speed and physical critical attack{/}	{@st59}공격 속도, 물리 치명타 공격력 증가{/}			
+ETC_20190104_037676	{@st59}Aumenta Ataque Físico{/}
+ETC_20190104_037677	{@st59}Aumenta HP Máximo, Defesa Física e Defesa Mágica{/}
+ETC_20190104_037678	{@st59}Aumenta Velocidade de Ataque e Ataque Crítico Físico{/}
 ETC_20190104_037679	Are you sure you want to discard {#fe7e00}[{ITEM}]{/} x{#fe7e00}[{COUNT}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을/를 {#fe7e00}[{COUNT}]{/}개 버리시겠습니까?	ETC_20180528_033098	Are you sure you want to discard {#fe7e00}[{ITEM}]{/} x{#fe7e00}[{COUNT}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을 {#fe7e00}[{COUNT}]{/}개 버리시겠습니까?
 ETC_20190104_037680	Are you sure you want to discard {#fe7e00}[{ITEM}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을/를 버리시겠습니까?	ETC_20180528_033099	Are you sure you want to discard {#fe7e00}[{ITEM}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을 버리시겠습니까?
 ETC_20190104_037681	There are objects blocking the area.	해당 위치에 물체가 있습니다.			
@@ -40607,7 +40607,7 @@ ETC_20190104_040521	[Sociedade Mágica de Klaipeda]{nl}Henrika
 ETC_20190104_040522	[Armazenadora]{nl}Rita
 ETC_20190104_040523	[Mestre Oracle]{nl}Apolonija Barbora
 ETC_20190104_040524	[Loja de TP]{nl}Leticia
-ETC_20190104_040525	Ilusão de Giltine
+ETC_20190104_040525	Aparição de Giltine
 ETC_20190104_040526	[Ferreiro]{nl}Ilanai
 ETC_20190104_040527	[Mercador de Equipamentos]{nl}Jura
 ETC_20190104_040528	[Lorde de Orsha]{nl}Inesa Hamondale
@@ -40734,7 +40734,7 @@ ETC_20190104_040648	[Mestre Shinobi]{nl}Yura Swanjone
 ETC_20190104_040649	[Mestre Necromancer]{nl}Loretta Nimbus
 ETC_20190104_040650	[Mestre Miko]{nl}Hitomiko
 ETC_20190104_040651	Competir por 8 minutos
-ETC_20190104_040652	Oficial de Suprimentos Real{nl}Malfredas
+ETC_20190104_040652	Oficial de Suprimentos Real{nl}Manfredas
 ETC_20190104_040653	Boruta olha longe para o horizonte
 ETC_20190104_040654	Portal de Fuga
 ETC_20190104_040655	O Eco será escutado em breve
@@ -40752,7 +40752,7 @@ ETC_20190104_040666	Todos os jogadores foram derrotados
 ETC_20190104_040667	Você excedeu o limite de 1 hora e falhou a dungeon
 ETC_20190104_040668	Você retornará para a área original após 30 segundos
 ETC_20190104_040669	Eu estava atrasado
-ETC_20190104_040670	Derrote o monstro para coletar suas almas{nl}Use as almas para carregar o integrador e desarmar a barreira
+ETC_20190104_040670	Derrote os monstros para coletar suas almas.{nl}Use as almas para carregar o integrador e desarmar a barreira
 ETC_20190104_040671	Aparelho de Controle Mágico Preto		
 ETC_20190104_040672	Aparelho de Controle Mágico Verde
 ETC_20190104_040673	Aparelho de Controle Mágico Amarelo
@@ -40774,3 +40774,7 @@ ETC_20190112_040688	Time of forced deletion for zombie status client in barrack 
 ETC_20190112_040689	Time of forced deletion for zombie status commander in zone server (unit: sec)	존 서버에서 Zombie상태가 된 커맨더의 강제 삭제 시간(단위:초)			
 ETC_20190116_040690	Tem certeza que deseja excluir?
 ETC_20190122_040691	FPS indivudial da instância
+ETC_20190126_040692	Aguardando
+ETC_20190126_040693	O item não pode ser instalado nesta área.
+ETC_20190129_040694	Refinos que derem certo {#8e0000}consumirão{/} selos usados de material, enquanto falhas {#8e0000}consumirão{/} o selo principal.
+ETC_20190129_040695	Há muitos [{itemName}]. Por favor, remova alguns.
