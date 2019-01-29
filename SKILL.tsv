@@ -11290,8 +11290,8 @@ SKILL_20180517_011289	Secret Tree Root Crystal	비밀의 나무뿌리 수정
 SKILL_20180517_011290	Movement speed +2	이동 속도 +2				
 SKILL_20180517_011291	Damage received from monsters reduced by [{img star_mark 20 20} * 3]%.	몬스터에게 받는 피해가 [★ * 3]% 감소합니다.				
 SKILL_20180517_011292	Damage received reduced by 30%, immunity to knockback and knockdown.	강력한 몬스터의 기운이 흡수되어 받는 대미지가 30% 감소하고, 넉백, 넉다운에 면역 상태가 됩니다.	SKILL_20180413_010952	Damage received reduced by 30%.	강력한 몬스터의 기운이 흡수되어 받는 대미지가 30% 감소합니다.	
-SKILL_20180517_011293	Invincibility	입장 무적	ETC_20150317_003924	Safe Zone	안전지대	
-SKILL_20180517_011294	Invincible upon entering map.	입장 시, 무적 상태가 됩니다.	SKILL_20170912_009629	Unable to receive damage.	피격받지 않는 상태입니다.	
+SKILL_20180517_011293	Invincibility	입장 무적				
+SKILL_20180517_011294	Invincible upon entering map.	입장 시, 무적 상태가 됩니다.				
 SKILL_20180517_011295	Bonus of +5 points added to each point acquired. The bonus increases by +5 points per stack.	점령 포인트 매 획득 시, 포인트를 +5 만큼 추가 획득할 수 있으며, 중첩 당 추가적으로 +5 씩 더 획득할 수 있습니다.	SKILL_20180413_010954	Bonus of +2 points added to each point acquired. The bonus increases by +2 points per stack.	점령 포인트 매 획득 시, 포인트를 +2 만큼 추가 획득할 수 있으며, 중첩 당 추가적으로 +2 씩 더 획득할 수 있습니다.	
 SKILL_20180517_011296	Damage and Movement Speed Increased	대미지 및 이동속도 증가	SKILL_20150317_001690	Increased Movement Speed	이동속도 증가	
 SKILL_20180517_011297	Amplifier effects: damage +30% and movement speed +5.	증폭기를 파괴한 효과로 대미지가 30% 증가하며 이동 속도가 +5 증가합니다.	SKILL_20180413_010955	Movement speed increased by +5.	증폭기를 파괴한 효과로 이동 속도가 +5 증가합니다.	
@@ -11703,8 +11703,8 @@ SKILL_20180517_011702	* Increases the damage dealt on an enemy with [Siege Burst
 SKILL_20180517_011703	* Flying type monsters hit by [Shootdown] will fall on the ground for 4 seg per attribute level{nl}* From Lv. 2, the duration decreases by 1.8 seg per attribute level{nl}* Fallen monsters receive additional damage from Cannon Shot{nl}* Consumo de SP + 10%	* 스킬 [슛다운]에 피격 된 공중형 몬스터는 4초 동안 땅으로 추락{nl}* 2레벨 부터 지속시간이 특성 레벨당 1.8초씩 증가{nl}* 추락한 공중몬스터는 캐논 샷에 추가피해{nl}* SP 소모 10%증가	SKILL_20170420_009149	* Flying-type monsters hit by [Shootdown] will fall down on the ground for 4 seconds per attribute level{nl}* From Lv. 2, the duration decreases by 1.8 seconds per attribute level{nl}* Flying-type monsters who fall down can receive additional damage by Cannon Shot{nl}* Consumo de SP + 10%	* 스킬 [슛다운]에 피격 된 공중형 몬스터는 4초 동안 땅으로 추락{nl}* 2레벨 부터 지속시간이 특성 레벨당 1.8초씩 증가{nl}* 추락한 공중몬스터는 캐논샷에 추가피해{nl}* SP 소모 10%증가	
 SKILL_20180517_011704	Siege Burst: Increased Range	시즈 버스트: 사거리 증가	SKILL_20151102_005681	Siege Burst: Increased Range	시즈버스트: 사거리 증가	
 SKILL_20180517_011705	* Increases attacking range of [Siege Burst] by 25 per attribute level{nl}* Consumo de SP + 30%	* 스킬 [시즈 버스트] 사용 시 사거리가 특성 레벨당 25 증가{nl}* SP 소모 30%증가	SKILL_20170420_009150	* Increases attacking range of [Siege Burst] by 25 per attribute level{nl}* Consumo de SP + 30%	* 스킬 [시즈버스트] 사용 시 사거리가 특성 레벨당 25 증가{nl}* SP 소모 30%증가	
-SKILL_20180517_011706	Siege Bust: Destroy Magic Circle	시즈 버스트: 마법진 파괴	SKILL_20161005_007004	Siege Bust: Destroy Magic Circle	시즈버스트: 마법진 파괴	
-SKILL_20180517_011707	* [Siege Bust] removes all enemy magic circles at the point of attack{nl}* Consumo de SP + 10%	* 스킬 [시즈 버스트] 공격된 지점에 설치된 적의 마법진을{nl}    모두 제거{nl}* SP 소모 10%증가	SKILL_20170420_009154	* [Siege Bust] removes all of enemy magic circles at the point of attack{nl}* Consumo de SP + 10%	* 스킬 [시즈버스트] 공격된 지점에 설치된 적의 마법진을{nl}    모두 제거{nl}* SP 소모 10%증가	
+SKILL_20180517_011706	Siege Burst: Destroy Magic Circle	시즈 버스트: 마법진 파괴	SKILL_20161005_007004	Siege Bust: Destroy Magic Circle	시즈버스트: 마법진 파괴	
+SKILL_20180517_011707	* [Siege Burst] removes all enemy magic circles at the point of attack{nl}* Consumo de SP + 10%	* 스킬 [시즈 버스트] 공격된 지점에 설치된 적의 마법진을{nl}    모두 제거{nl}* SP 소모 10%증가	SKILL_20170420_009154	* [Siege Bust] removes all of enemy magic circles at the point of attack{nl}* Consumo de SP + 10%	* 스킬 [시즈버스트] 공격된 지점에 설치된 적의 마법진을{nl}    모두 제거{nl}* SP 소모 10%증가	
 SKILL_20180517_011708	Siege Burst: Focus	시즈 버스트: 집중	SKILL_20170313_008097	Siege Burst: Focus	시즈버스트: 집중	
 SKILL_20180517_011709	* Maintains [Siege Burst] casting even when the character is attacked{nl}* Consumo de SP + 20%	* 스킬 [시즈 버스트]를 사용하는 동안 적에게 피격되어도{nl}    캐스팅이 유지{nl}* SP 소모 20%증가	SKILL_20170420_009156	* Maintains [Siege Burst] casting even when character is attacked{nl}* Consumo de SP + 20%	* 스킬 [시즈버스트]를 사용하는 동안 적에게 피격되어도{nl}    캐스팅이 유지{nl}* SP 소모 20%증가	
 SKILL_20180517_011710	Kneeling Shot: Precise Attack	닐링 샷: 조준 포격	SKILL_20170313_008099	Kneeling Shot: Precise Attack	닐링샷: 조준 포격	
@@ -12333,7 +12333,7 @@ SKILL_20180827_012332	* Increases the damage dealt on an enemy with [Corrida Fin
 SKILL_20180827_012333	Corrida Finale: Bis
 SKILL_20180827_012334	* Ao utilizar [Corrida Finale], provoca outro touro após o primeiro, por trás.{nl}* Consumo de SP + 20%
 SKILL_20180827_012335	Muleta: Espetáculo
-SKILL_20180827_012336	* Reduz o cooldown de todas as habilidades de Matador (exceto [Muleta]) em 1 segundo ao contra-atacar com [Muleta]{nl}* Consumo de SP + 10%
+SKILL_20180827_012336	* Reduz o cooldown de todas as habilidades de Matador (exceto [Muleta]) em 1 segundo, por nível do atributo, ao contra-atacar com [Muleta]{nl}* Consumo de SP + 10%
 SKILL_20180827_012337	Faena: Critical Pierce	파에나: 급소 찌르기				
 SKILL_20180827_012338	* Increases the critical chance of [Faena] by 30%{nl}* Consumo de SP + 20%	* [파에나]의 치명타 확률이 30% 증가{nl}* SP 소모 20%증가				
 SKILL_20180827_012339	Back Slide: Movimento Perfeito
@@ -12749,7 +12749,7 @@ SKILL_20190104_012748	Empala um monstro Pequeno ou Médio com a sua lança. Perm
 SKILL_20190104_012749	Multiplicador: #{SkillFactor}#%{nl}Duração: #{CaptionRatio2}# segundos{nl}Ataques: 1{nl}Alvos: 10
 SKILL_20190104_012750	Reúne a sua força e usa a sua arma para atacar os inimigos, esmagando eles contra o chão. Causa mais dano em alvos derrubados.
 SKILL_20190104_012751	Multiplicador: #{SkillFactor}#% x 5{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}+100% de dano em alvos derrubados
-SKILL_20190104_012752	Velocidade de Movimento: +#{CaptionRatio}#{nl}Duração: 10 segundos
+SKILL_20190104_012752	Velocidade de Movimento: +#{CaptionRatio}#{nl}Duração: 30 segundos
 SKILL_20190104_012753	Avança em direção do inimigo, causando dano. Você pode usar a habilidade novamente até 1.5 segundos.
 SKILL_20190104_012754	Ataca fortemente o inimigo com a ponta da sua lança, reduzindo a Resistência à Crítico.
 SKILL_20190104_012755	Multiplicador: #{SkillFactor}#% x 5{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Resistência à Crítico: -10%
@@ -13025,7 +13025,7 @@ SKILL_20190104_013024	Ataca e absorve a energia vital de inimigos da raça Fera,
 SKILL_20190104_013025	Multiplicador: #{SkillFactor}#%{nl}Conversão em HP: #{CaptionRatio2}#%{nl}Consome #{CaptionTime}# SP a cada 0.4 segundos
 SKILL_20190104_013026	Invoca o osso pontiagudo, chamado de Kundela. O osso aponta para os inimigos dentro da área, atacando com fragmentos e aplicando [Curse].
 SKILL_20190104_013027	Multiplicador: #{SkillFactor}#%{nl}Duração de [Bone Pointing]: #{CaptionRatio2}# segundos{nl}Duração de {#339999}{ol}[Curse]{/}{/}: 7 segundos
-SKILL_20190104_013028	Ataca um inimigo com um adaga amaldiçoada, feia de ossos. Os inimigos alvejados sofrerão com [Decay], recebendo dano adicional de ataques físicos ou de elemento Fogo.
+SKILL_20190104_013028	Ataca um inimigo com um adaga amaldiçoada, feia de ossos. Os inimigos alvejados sofrerão com [Corruption], recebendo dano adicional de ataques físicos ou de elemento Fogo.
 SKILL_20190104_013029	Multiplicador: #{SkillFactor}#%{nl}Duração: #{CaptionRatio2}# segundos{nl}Taxa de Ataque em Área: #{SkillSR}#
 SKILL_20190104_013030	Coloca sapatos feitos de cabelo e sangue. Ao caminhar, deixará pegadas de sangue no chão, causando dano e aplicando [Curse] nos inimigos.
 SKILL_20190104_013031	Multiplicador: #{SkillFactor}#%{nl}Duração máxima: #{CaptionRatio}# segundos{nl}Velocidade de Movimento: -#{CaptionRatio2}#{nl}Duração de {#339999}{ol}[Curse]{/}{/}: 7 segundos
@@ -13149,7 +13149,7 @@ SKILL_20190104_013149	Fire a stone bullet to push an enemy away. The target has 
 SKILL_20190104_013150	Multiplicador: #{SkillFactor}#%{nl}{#339999}{ol}[Stun]{/}{/} Chances: #{CaptionRatio}#%{nl}{#339999}{ol}[Stun]{/}{/} Duração: #{CaptionTime}# segundos	스킬 계수 #{SkillFactor}#%{nl}{#339999}{ol}[스턴]{/}{/} 확률 #{CaptionRatio}#%{nl}{#339999}{ol}[스턴]{/}{/} 지속시간 #{CaptionTime}#초	SKILL_20170420_008557	Attack: #{SkillFactor}#%{nl}{#339999}{ol}[Stun]{/}{/}Duração: #{CaptionTime}# segundos{nl}Consumes 1 Stone Bullet	공격력 #{SkillFactor}#%{nl}{#339999}{ol}[스턴]{/}{/} 지속시간 #{CaptionTime}#초{nl}돌 탄환 1개 소비	
 SKILL_20190104_013151	Load multiple arrows into your crossbow and then fire them in quick succession at an enemy.{nl}Deals 50% additional damage to targets in Fear.	여러 개의 화살을 석궁에 장전한 뒤, 대상에게 연속으로 발사합니다.{nl}공포 상태의 적에게 50% 추가대미지를 입힙니다.	SKILL_20170510_009373	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Load multiple arrows into your crossbow and then fire them in quick succession at an enemy.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}여러 개의 화살을 석궁에 장전한 뒤, 대상에게 연속으로 발사합니다.	
 SKILL_20190104_013152	Multiplicador: #{SkillFactor}#% x no. of hits{nl}Maximum Loading Time: 1 second	스킬 계수 #{SkillFactor}#% x 공격 횟수{nl}최대 장전 시간 1초	SKILL_20170726_009503	Attack #{SkillFactor}#% x no. of hits{nl}Max. load time 1 seg	공격력 #{SkillFactor}#% x 공격 횟수{nl}최대 장전 시간 1초	
-SKILL_20190104_013153	Dismantles statues and other obstacles in front of you while dealing damage to nearby enemies.{nl}Allows you to tear down the following:{nl}* Dievdirbys statues, except Vakarine{nl}* Ice Wall, Dirty Wall{nl}* Pavise, Stockade{nl}* Traps summoned by boss monsters	전면의 각종 조각상이나 장애물을 철거함과 동시에 인근의 적에게 피해를 줍니다.{nl}아래 나열한 개체을 철거 할 수 있습니다.{nl}* 바카리네 여신상을 제외한 딥디르비 조각상{nl}* 아이스 월, 더티 월{nl}* 파비스, 방책{nl}* 보스 몬스터가 소환하는 각종 트랩	SKILL_20150414_003771	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Demolish obstacles in front, inflicting damage to nearby enemies.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}전면의 장애물을 철거하면서 동시에 인근의 적에게 피해를 줍니다.	
+SKILL_20190104_013153	Dismantles statues and other obstacles in front of you while dealing damage to nearby enemies.{nl}Allows you to tear down the following:{nl}* Dievdirbys statues, except Vakarine{nl}* Ice Wall{nl}* Pavise, Stockade{nl}* Traps summoned by boss monsters	전면의 각종 조각상이나 장애물을 철거함과 동시에 인근의 적에게 피해를 줍니다.{nl}아래 나열한 개체을 철거 할 수 있습니다.{nl}* 바카리네 여신상을 제외한 딥디르비 조각상{nl}* 아이스 월, 더티 월{nl}* 파비스, 방책{nl}* 보스 몬스터가 소환하는 각종 트랩	SKILL_20150414_003771	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Demolish obstacles in front, inflicting damage to nearby enemies.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}전면의 장애물을 철거하면서 동시에 인근의 적에게 피해를 줍니다.	
 SKILL_20190104_013154	Multiplicador Adicional: #{SkillFactor}#%{nl}Duração: #{CaptionTime}# segundos{nl}Basic Attack Speed: +10%	추가 스킬 계수 #{SkillFactor}#%{nl}지속시간 #{CaptionTime}#초{nl}기본 공격 속도 10% 증가	SKILL_20180208_010276	Additional Attack: #{SkillFactor}#%{nl}Duração: #{CaptionTime}# seg{nl}Basic Attack Speed +10%	추가 공격력 #{SkillFactor}#%{nl}지속시간 #{CaptionTime}#초{nl}기본 공격 속도 10% 증가	
 SKILL_20190104_013155	Kneel down to improve your concentration. Increases your attack, attack speed and range. Using Kneeling Shot again will cancel your kneeling state.	집중력을 높이기 위해 앉아서 공격합니다. 공격력과 사정거리, 기본 공격 속도가 증가합니다. 닐링 샷을 한번 더 시전하면 닐링 샷 상태가 해제됩니다.				
 SKILL_20190104_013156	Physical Damage: +#{CaptionRatio}#%{nl}Range: +35{nl}Basic Attack Speed: +250	물리 공격력 #{CaptionRatio}#% 증가{nl}사정거리 35 증가{nl}기본 공격 속도 250 증가				
@@ -13607,7 +13607,7 @@ SKILL_20190104_013607	Dispara repetidamente na direção contrária do seu movim
 SKILL_20190104_013608	Multiplicador: #{SkillFactor}#% a cada 0.3 segundos x Nr. de golpes{nl}Alvos: 15{nl}Duração: 10 segundos
 SKILL_20190104_013609	Avança atirando, atacando os inimigos na sua frente. Causa 30% de dano adicional em inimigos afetados por [Blind].{nl}(Não ativa troca automática de arma)
 SKILL_20190104_013610	Multiplicador: #{SkillFactor}#% a cada 0.2 segundos{nl}Alvos: 15{nl}Duração: 5 segundos
-SKILL_20190104_013611	Dispara uma bala elétrica contra o corpo do inimigo, fazendo com que ele receba dano adicional do elemento Raio quando acertado.{nl}{#00113F}[Taze] irá durar mais tempo quando um inimigo afetado por esta habilidade for atacado com [Electric Shock].{/}
+SKILL_20190104_013611	Dispara uma bala elétrica contra o corpo do inimigo, fazendo com que ele receba dano adicional do elemento Raio quando acertado.{nl}{#00113F}[Tase] irá durar mais tempo quando um inimigo afetado por esta habilidade for atacado com [Electric Shock].{/}
 SKILL_20190104_013612	Multiplicador: #{SkillFactor}#%{nl}Duração: #{CaptionTime}# segundos{nl}Duração: #{CaptionRatio}# ataques
 SKILL_20190104_013613	Cria uma explosão que causa dano do elemento Fogo nos inimigos em sua frente.{nl}{#00113F}[Lachrymator] desaparecerá e causará um dano explosivo quando [Napalm Bullet] for usado em um inimigo dentro da sua área.{/}
 SKILL_20190104_013614	Dispara uma bala poderosa, ignorando metade da defesa do inimigo.
@@ -13617,7 +13617,7 @@ SKILL_20190104_013617	Ataca os inimigos na sua frente, usando uma série de ataq
 SKILL_20190104_013618	Multiplicador: #{SkillFactor}#% x 7{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Requer [Double Gun Stance]
 SKILL_20190104_013619	Ataca inimigos ao redor, descarregando Pistolas em ambas as mãos. Você não pode ser empurrado ou derrubado durante a execução da habilidade.
 SKILL_20190104_013620	Multiplicador: #{SkillFactor}#% x 20{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Requer [Double Gun Stance]
-SKILL_20190104_013621	Dispara uma bala estilhaçada em um único alvo. O dano de [Smash Bullet] baseia-se no seu Atq. Físico Secundário, sendo reduzido gradualmente enquanto o alvo está sob ataque. [Smash Bullet] ignora propriedades e defesa.
+SKILL_20190104_013621	Dispara uma bala estilhaçada em um único alvo. [Smash Bullet] causa dano contínuo baseado no seu Atq. Físico Secundário, sendo reduzido gradualmente enquanto o alvo está sob ataque. [Smash Bullet] ignora elementos e defesa.
 SKILL_20190104_013622	Multiplicador: #{SkillFactor}#%{nl}Duração: 15 segundos
 SKILL_20190104_013623	Dispara 4 tiros em um alvo único, utilizando Pistolas em ambas as mãos.
 SKILL_20190104_013624	Multiplicador: #{SkillFactor}#% x 4{nl}Requer [Double Gun Stance]
@@ -13875,7 +13875,7 @@ SKILL_20190104_013875	* Aumenta o efeito de redução de dano físico de [Bear] 
 SKILL_20190104_013876	* Aumenta o Multiplicador de [Rim Blow] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_013877	* Aumenta o Multiplicador de [Umbo Blow] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_013878	* Aumenta o efeito de redução de dano de [Guardian] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
-SKILL_20190104_013879	* Aumenta o Multiplicador de [Shield Bash] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190104_013879	* Aumenta o Multiplicador de [Shield Lob] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_013880	* Increases the skill factor of [Butterfly] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [버터플라이]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010588	* Increases the damage dealt on an enemy with [Butterfly] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [버터플라이]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_013881	* Inimigos acertados por [Umbo Blow] terão 5% de chance, por nível do atributo, de sofrerem [Stun] por 3 segundos.{nl}* Consumo de SP + 30%
 SKILL_20190104_013882	* Equipe um Escudo e pressione C para ativar [Guarda]{nl}* Enquanto ativo, aumenta a sua Defesa Física em 10% por nível do atributo.{nl}* Ser atacado durante um duelo ou PvP cancelará o efeito, aplicando um cooldown de 3 segundos
@@ -14969,3 +14969,10 @@ SKILL_20190122_014969	Taxa de Crítico: +#{CaptionRatio}#% aplicado{nl}Evasão: 
 SKILL_20190122_014970	Additional critical rate applied, evasion reduced	치명타 발생 추가 적용, 회피 감소	SKILL_20150317_001802	Increased critical rate, reduced evasion	치명타 발생 증가, 회피 감소
 SKILL_20190122_014971	Fire Property Skill Damage Increased	불 속성 스킬 대미지 증가			
 SKILL_20190122_014972	* Garante 10% de chance por habilidade usada de aumentar o dano de ataques do elemento Fogo em 30% por 5 segundos
+SKILL_20190126_014973	+#{CaptionRatio3}#% de dano por acúmulo.{nl}Máximo de acúmulos: #{CaptionRatio2}# ataques{nl}Consome 101 SP{nl}Vel. Ataque básico: +#{CaptionRatio}#
+SKILL_20190126_014974	Aplica uma chance de saquear Silver sempre que atacar um monstro.
+SKILL_20190126_014975	* Aumenta o ganho de dano de [Frenzy] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190126_014976	(Unused) Frenzy: Enhance	(미사용)프렌지: 강화	SKILL_20150317_002784	Frenzy : Enhance	프렌지: 강화	
+SKILL_20190126_014977	* Aplica uma chance de saquear Silver sempre que atacar um monstro em mapas comuns.{nl}* Os efeitos de [Pilhagem] ativam somente 1 vez por monstro.{nl}* Ativa somente se o líder do grupo é um Corsair
+SKILL_20190126_014978	Elemento Fogo: Amplificar
+SKILL_20190126_014979	* Garante 30% de chance por ataque (incluindo ataques básicos) de aumentar em 30% o dano de ataques do elemento Fogo, com duração de 5 segundos

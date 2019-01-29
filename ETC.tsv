@@ -16809,7 +16809,7 @@ ETC_20151102_016803	Chupacabra Gem
 ETC_20151102_016804	Infrorocktor Gem
 ETC_20151102_016805	Corylus Gem
 ETC_20151102_016806	Beeteros Gem
-ETC_20151102_016807	Infro Holder Shaman
+ETC_20151102_016807	Infro Holder Shaman Gem
 ETC_20151102_016808	Rodelin Gem
 ETC_20151102_016809	Leafly Gem
 ETC_20151102_016810	Doyor Gem
@@ -31143,7 +31143,7 @@ ETC_20171207_031116	Amiss Dogs are monsters created artificially during Medzio D
 ETC_20171207_031117	Quip Mages aren't animals; they are assumed to be cursed humans or failed transmutation experiments.
 ETC_20171207_031118	Medzio Diena was a fortunate event for Madon Maidens, as they managed to possess different creatures in order to become more powerful. However, it is still uncertain whether their possessing spirit is human or demon.
 ETC_20171207_031119	Prodded Horses are a species of unicorn born after Medzio Diena that mutated into a monster.	프로디드 호스는 신수의 날 이후 태어난 유니콘 가운데 일부가 변형되면서 발생합니다.				
-ETC_20171207_031120	Tel Harshas are one of the many forms a human can take when they are reborn as a demon. It may not be the best form, but the fact they they become Tel Harshas?mean they were once highly respected humans.
+ETC_20171207_031120	Tel Harshas are one of the many forms a human can take when they are reborn as a demon. It may not be the best form, but the fact they became Tel Harshas means they were once highly respected humans.	텔하르샤는 인간이 마족으로 다시 태어날 때 지닐 수 있는 형태 가운데 하나입니다. 최고라고는 할 수 없지만, 어떤 인간이든 마족으로 변할 때 텔하르샤가 된다면 인간이었던 시절에도 최강자군에 속하는 사람이었다는 점은 분명합니다.	ETC_20170605_027915	Music Box	오르골	
 ETC_20171207_031121	Christmas Sled Box
 ETC_20171207_031122	You fell asleep. Can't perform any actions until hit by an attack.
 ETC_20171207_031123	Presente Perdido
@@ -36737,7 +36737,7 @@ ETC_20190104_036651	Strengthened Unity	결속 강화
 ETC_20190104_036652	The power of the connection formed between you and your companion protects you.	충직한 소환수 혹은 컴패니언과의 인연의 힘이 당신을 보호합니다			
 ETC_20190104_036653	Borutos Kapas Test Buff	보루토스 카파스 테스트 버프			
 ETC_20190104_036654	Buff for testing Boruta.	보루타 테스트용 버프입니다.			
-ETC_20190104_036655	Mark: Borutas Kapas	표식 : 보루토스 카파스			
+ETC_20190104_036655	Mark: Borutos Kapas	표식 : 보루토스 카파스			
 ETC_20190104_036656	A mark that the Dragon Boruta has left on the guild members who have contributed greatly in suppressing his return.{nl}Lasts for 2 weeks maximum.	드래곤 보루타가 자신을 저지하는 데 가장 큰 기여를 한 길드의 구성원들에게 남긴 표식입니다.{nl}최대 2주간 지속됩니니다.			
 ETC_20190104_036657	All attacks are ignored except for those stated otherwise.	지정된 스킬 외에는 공격을 무시합니다.			
 ETC_20190104_036658	Increased physical critical attack	물리 치명타 공격력 증가	SKILL_20150317_001819	Increased critical attack	치명타 공격력 증가
@@ -37598,14 +37598,14 @@ ETC_20190104_037512	[Psíquico{img notice_br_link 17 17}]
 ETC_20190104_037513	[Vel. Ataque]
 ETC_20190104_037514	[Disponível montado]
 ETC_20190104_037515	[Somente montado]
-ETC_20190104_037516	Summoning	소환 중			
+ETC_20190104_037516	Summoning...	소환 중			
 ETC_20190104_037517	I trust you are wiser than you look.{nl}So what will it be?{nl}Do you believe the goddesses? Or will you follow me and make true history?	나는 당신이 지혜롭다고 믿어요.{nl}어떤가요?{nl}무력한 여신의 뒤에? 아니면 나를 따라 세상을 움직여 볼 건가요?			
-ETC_20190104_037518	Follow Giltine: Assault on Klaipeda	길티네를 따라 : 클라페다 대격돌			
+ETC_20190104_037518	Giltine's Team Clash	길티네를 따라 : 클라페다 대격돌				
 ETC_20190104_037519	Follow Giltine: Assault on Klaipeda	길티네를 따라 : 클라페다 습격 사건			
 ETC_20190104_037520	Nope, this isn't for me.	상대하지 않는다			
 ETC_20190104_037521	You are wise, indeed.	역시 당신은 현명해요.			
 ETC_20190104_037522	You have already collected the event reward for the day.	오늘은 이미 이벤트 보상을 받으셨습니다			
-ETC_20190104_037523	- Click the red summoning devices near the Statue of Goddess Ausrine to summon monsters!{nl}- The summoned monsters are sent to the opposing camp.{nl}- The team who successfully sends the most monsters during the 8-minute limit wins.{nl}- You need to defeat the other monsters so they don't trespass into your camp.{nl}- At the 4-minute mark, the team with the lowest number of successful breaks receives a +10 movement speed increase on their monsters.{nl}  Be careful, the monsters are quick!	- 여신 아우슈리네의 상 근처에 있는 붉은 소환 구체를 클릭하여 몬스터를 소환하세요!{nl}- 소환된 몬스터는 상대 진영으로 움직입니다.{nl}- 제한시간 8분 동안 상대 진영으로 몬스터가 많이 이동한 팀이 승리합니다.{nl}- 캐릭터가 속한 팀의 진영으로 몬스터가 오지 않도록 몬스터를 처치하세요.{nl}- 4분이 경과되면 몬스터 이동 수가 적은 팀에서 소환한 몬스터의 이동속도가 +10 증가합니다.{nl}  몬스터가 빠르게 이동하니 조심하세요!			
+ETC_20190104_037523	- Click the summoning devices near the Statue of Goddess Ausrine to summon monsters!{nl}- The summoned monsters are sent to the opposing camp.{nl}- The team who successfully sends the most monsters during the 8-minute limit wins.{nl}- You need to defeat the other monsters so they don't trespass into your camp.{nl}- At the 4-minute mark, the team with the lowest number of successful breaks receives a +10 movement speed increase on their monsters.{nl}  Be careful, the monsters are quick!	- 여신 아우슈리네의 상 근처에 있는 붉은 소환 구체를 클릭하여 몬스터를 소환하세요!{nl}- 소환된 몬스터는 상대 진영으로 움직입니다.{nl}- 제한시간 8분 동안 상대 진영으로 몬스터가 많이 이동한 팀이 승리합니다.{nl}- 캐릭터가 속한 팀의 진영으로 몬스터가 오지 않도록 몬스터를 처치하세요.{nl}- 4분이 경과되면 몬스터 이동 수가 적은 팀에서 소환한 몬스터의 이동속도가 +10 증가합니다.{nl}  몬스터가 빠르게 이동하니 조심하세요!				
 ETC_20190104_037524	 Requires 30 items.	 아이템 30개가 필요합니다			
 ETC_20190104_037525	Select companion	컴패니언 선택			
 ETC_20190104_037526	[Dico Tomb Thieves]{nl}Arghidas	[디코 도굴단]{nl}아르기다스	ETC_20161214_026225	[Dico Tomb Thieves]{nl}    Arghidas	[디코 도굴단]{nl}   아르기다스
@@ -40607,7 +40607,7 @@ ETC_20190104_040521	[Sociedade Mágica de Klaipeda]{nl}Henrika
 ETC_20190104_040522	[Armazenadora]{nl}Rita
 ETC_20190104_040523	[Mestre Oracle]{nl}Apolonija Barbora
 ETC_20190104_040524	[Loja de TP]{nl}Leticia
-ETC_20190104_040525	Ilusão de Giltine
+ETC_20190104_040525	Aparição de Giltine
 ETC_20190104_040526	[Ferreiro]{nl}Ilanai
 ETC_20190104_040527	[Mercador de Equipamentos]{nl}Jura
 ETC_20190104_040528	[Lorde de Orsha]{nl}Inesa Hamondale
@@ -40734,7 +40734,7 @@ ETC_20190104_040648	[Mestre Shinobi]{nl}Yura Swanjone
 ETC_20190104_040649	[Mestre Necromancer]{nl}Loretta Nimbus
 ETC_20190104_040650	[Mestre Miko]{nl}Hitomiko
 ETC_20190104_040651	Competir por 8 minutos
-ETC_20190104_040652	Oficial de Suprimentos Real{nl}Malfredas
+ETC_20190104_040652	Oficial de Suprimentos Real{nl}Manfredas
 ETC_20190104_040653	Boruta olha longe para o horizonte
 ETC_20190104_040654	Portal de Fuga
 ETC_20190104_040655	O Eco será escutado em breve
@@ -40774,3 +40774,7 @@ ETC_20190112_040688	Time of forced deletion for zombie status client in barrack 
 ETC_20190112_040689	Time of forced deletion for zombie status commander in zone server (unit: sec)	존 서버에서 Zombie상태가 된 커맨더의 강제 삭제 시간(단위:초)			
 ETC_20190116_040690	Tem certeza que deseja excluir?
 ETC_20190122_040691	FPS indivudial da instância
+ETC_20190126_040692	Aguardando
+ETC_20190126_040693	O item não pode ser instalado nesta área.
+ETC_20190129_040694	Refinos que derem certo {#8e0000}consumirão{/} selos usados de material, enquanto falhas {#8e0000}consumirão{/} o selo principal.
+ETC_20190129_040695	Há muitos [{itemName}]. Por favor, remova alguns.
