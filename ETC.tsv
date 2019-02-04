@@ -33008,8 +33008,8 @@ ETC_20180517_032972	No Guild Emblem exists.
 ETC_20180517_032973	Cannot be used in your current location.
 ETC_20180517_032974	This item is already in your basket.{nl}Add to basket?
 ETC_20180517_032975	{s16}{@st66b}{Auto_1}{Auto_2} Efeitos do Set  {nl}
-ETC_20180517_032976	Are you sure you want to discard {#85070a}[{ITEM}]{/} x{#85070a}[{COUNT}]{/}?
-ETC_20180517_032977	Are you sure you want to discard {#85070a}[{ITEM}]{/}을 버리시겠습니까?
+ETC_20180517_032976	Tem certeza que deseja remover {#85070a}[{ITEM}]{/} x{#85070a}[{COUNT}]{/}?
+ETC_20180517_032977	Tem certeza que deseja remover {#85070a}[{ITEM}]{/}?
 ETC_20180517_032978	For more information, check the official website at treeofsavior.com.
 ETC_20180517_032979	Non-probability Items
 ETC_20180517_032980	Probability Items
@@ -37761,8 +37761,8 @@ ETC_20190104_037675	{@st44}Info do próximo Avanço de Classe
 ETC_20190104_037676	{@st59}Aumenta Ataque Físico{/}
 ETC_20190104_037677	{@st59}Aumenta HP Máximo, Defesa Física e Defesa Mágica{/}
 ETC_20190104_037678	{@st59}Aumenta Velocidade de Ataque e Ataque Crítico Físico{/}
-ETC_20190104_037679	Are you sure you want to discard {#fe7e00}[{ITEM}]{/} x{#fe7e00}[{COUNT}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을/를 {#fe7e00}[{COUNT}]{/}개 버리시겠습니까?	ETC_20180528_033098	Are you sure you want to discard {#fe7e00}[{ITEM}]{/} x{#fe7e00}[{COUNT}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을 {#fe7e00}[{COUNT}]{/}개 버리시겠습니까?
-ETC_20190104_037680	Are you sure you want to discard {#fe7e00}[{ITEM}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을/를 버리시겠습니까?	ETC_20180528_033099	Are you sure you want to discard {#fe7e00}[{ITEM}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을 버리시겠습니까?
+ETC_20190104_037679	Tem certeza que deseja remover {#fe7e00}[{ITEM}]{/} x{#fe7e00}[{COUNT}]{/}?
+ETC_20190104_037680	Tem certeza que deseja remover {#fe7e00}[{ITEM}]{/}?
 ETC_20190104_037681	There are objects blocking the area.	해당 위치에 물체가 있습니다.			
 ETC_20190104_037682	Area out of bounds.	이동할 수 없는 지역입니다.			
 ETC_20190104_037683	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total Token duration time;{nl}- Total duration time for unlimited trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?	이미 토큰 아이템의 혜택을 적용받고 있습니다. 그래도 적용하시겠습니까?{nl}만약 중첩하여 적용 하는 경우{nl}전체 사용 기간과 거래 무제한 기간이{nl}누적하여 추가되며 그외의 혜택은 동일한 수치로 유지됩니다.	ETC_20160323_021378	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total duration time;{nl}- Number of personal trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?	이미 토큰 아이템의 혜택을 적용받고 있습니다. 그래도 적용하시겠습니까?{nl}만약 중첩하여 적용 하는 경우{nl}전체 사용 기간과 개인 거래 횟수가{nl}누적하여 추가되며 그외의 혜택은 동일한 수치로 유지됩니다.
