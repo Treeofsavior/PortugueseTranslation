@@ -7048,15 +7048,15 @@ ETC_20150317_007048	Kepa Wagon
 ETC_20150317_007049	Start Point of Golem
 ETC_20150317_007050	Empty Wagon
 ETC_20150317_007051	Supplies Wagon
-ETC_20150317_007052	Divino Ark
+ETC_20150317_007052	Divine Ark
 ETC_20150317_007053	Altar
-ETC_20150317_007054	Red Crystal
-ETC_20150317_007055	Orange Crystal
-ETC_20150317_007056	Yellow Crystal
-ETC_20150317_007057	Green Crystal
-ETC_20150317_007058	Blue Crystal
-ETC_20150317_007059	Navy Crystal
-ETC_20150317_007060	Purple Crystal
+ETC_20150317_007054	Cristal Vermelho
+ETC_20150317_007055	Cristal Laranja
+ETC_20150317_007056	Cristal Amarelo
+ETC_20150317_007057	Cristal Verde
+ETC_20150317_007058	Cristal Azul
+ETC_20150317_007059	Cristal Marinho
+ETC_20150317_007060	Cristal Roxo
 ETC_20150317_007061	Confirm
 ETC_20150317_007062	Thorn Forest Gate 1
 ETC_20150317_007063	Thorn Forest Gate 2
@@ -10965,9 +10965,9 @@ ETC_20150414_010966	Broken Magic Circle
 ETC_20150414_010967	Wing of Goddess Statue
 ETC_20150414_010968	Head of Goddess Statue
 ETC_20150414_010969	NPC Shnayim
-ETC_20150414_010970	Red Crystal
-ETC_20150414_010971	Blue Crystal
-ETC_20150414_010972	Yellow Crystal
+ETC_20150414_010970	Cristal Vermelho
+ETC_20150414_010971	Cristal Azul
+ETC_20150414_010972	Cristal Amarelo
 ETC_20150414_010973	Baron Allerno
 ETC_20150414_010974	Druid Male
 ETC_20150414_010975	Druid Female
@@ -35690,7 +35690,7 @@ ETC_20180827_035646	{#1663c3}{ol}[Combat] {img chat_icon_resurrection 24 24} Par
 ETC_20180827_035647	{#ab1919}{ol}[Combat] {img chat_icon_death 24 24} Party member [{MEMBER}] is incapable of combat.	{#ab1919}{ol}[전투 메시지]{img chat_icon_death 24 24}파티 멤버 [{MEMBER}]가 전투 불능 상태가 되었습니다.				
 ETC_20180827_035648	{#1663c3}{ol}[Combat] {img chat_icon_resurrection 24 24} Character respawned.	{#1663c3}{ol}[전투 메시지]{img chat_icon_resurrection 24 24} 캐릭터가 부활했습니다.				
 ETC_20180827_035649	[{ITEM}] x[{COUNT}] consumed as penalty for becoming incapable of combat.	사망 페널티로 [{ITEM}] 아이템이 [{COUNT}개] 소실되었습니다.				
-ETC_20180827_035650	[{SILVER}] Silver consumed as penalty for becoming incapable of combat.	사망 페널티로 [{SILVER}] 실버가 소실되었습니다.				
+ETC_20180827_035650	[{SILVER}] Silver consumido como penalidade por ter sido derrotado.
 ETC_20180827_035651	All [{ITEM}(s)] consumed.	[{ITEM}] 아이템이 소멸되었습니다.	ETC_20161214_026107	The item was consumed.	아이템이 소멸되었습니다.	
 ETC_20180827_035652	Acquired [{ITEM}] x[{COUNT}].	[{ITEM}] 아이템을 [{COUNT}개] 획득했습니다.				
 ETC_20180827_035653	Discarded [{ITEM}] x[{COUNT}].	[{ITEM}] 아이템을 [{COUNT}개] 버렸습니다.				
@@ -35699,7 +35699,7 @@ ETC_20180827_035655	[{LEVEL} {ITEM}] enhancement: {ISSUCCESS}.	[{LEVEL} {ITEM}] 
 ETC_20180827_035656	Fail	실패				
 ETC_20180827_035657	[{ITEM}] Stage [{LEVEL}] transcendence: {ISSUCCESS}.	[{ITEM}] 아이템이 [초월 {LEVEL}단계]에 {ISSUCCESS}했습니다.				
 ETC_20180827_035658	Acquired [{CHAR}] character EXP / [{JOB}] class EXP	캐릭터 경험치 [{CHAR}] / 클래스 경험치 [{JOB}] 획득				
-ETC_20180827_035659	Gems lost due to map penalty.	사망 페널티로 젬이 떨어졌습니다.				
+ETC_20180827_035659	Gemas perdidas devido a penalidade do mapa.
 ETC_20180827_035660	Failed to sell item. Please restart the game and try again.	아이템 판매에 실패했습니다. 다시 시도하려면 재접속해주세요.				
 ETC_20180827_035661	Special Item Effects	아이템 특수 효과				
 ETC_20180827_035662	Please try again.	PC방 상점의 재시도 버튼을 클릭해주세요				
@@ -37093,8 +37093,8 @@ ETC_20190104_037007	Outlaw Master (Male)	아웃로 마스터 남
 ETC_20190104_037008	Outlaw Master (Female)	아웃로 마스터 여			
 ETC_20190104_037009	[Fashion Designer]{nl}Kastytis	[의상 디자이너]{nl}카스티스	ETC_20180629_033432	[Fashion Designer]{nl}  Kastytis	[의상 디자이너]{nl}  카스티스
 ETC_20190104_037010	[Hair Stylist]{nl}Henry Swyn	[헤어 디자이너]{nl}헨리 스윈			
-ETC_20190104_037011	Magic Condenser Device	마력 응축 장치			
-ETC_20190104_037012	Black Crystal	검은색 크리스탈			
+ETC_20190104_037011	Aparelho Condensador Mágico
+ETC_20190104_037012	Cristal Negro
 ETC_20190104_037013	Controlador de Magia
 ETC_20190104_037014	Controlador de Força
 ETC_20190104_037015	Integrador de Espíritos
@@ -37441,14 +37441,14 @@ ETC_20190104_037355	Items that are traded cannot be traded back.	교환된 아�
 ETC_20190104_037356	{@st59}Close the {NAME} UI{/}	{@st59}{NAME} UI를 닫습니다{/}			
 ETC_20190104_037357	Once an item is altered, {#ff0000}{ol}it can no longer be exchanged.{/}{/} {nl} {nl}{@st66d_y}(This includes enhancement, transcendence, personal and market trade, the addition of sockets, equipping and extracting Ichor, and appearance change){/}{nl}Will you proceed with the exchange?	계열 변경이 가능한 아이템에 변경이 생기는 경우 {#ff0000}{ol}계열 변경의 기회는 사라집니다.{/}{/} {nl} {nl}{@st66d_y}(강화, 초월, 마켓 판매, 개인 거래, 소켓 추가, 각성, 아이커 장착 및 추출, 무기 외형 변환){/}{nl} {nl}계속 하시겠습니까?			
 ETC_20190104_037358	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable via 1:1{/}.	아이템 변경사항 안내{nl} {nl} - 아이템이 {Before}초월에서{#62100c}{After}초월{/}로 변경 {nl} - 초월 성공시{#62100c}1:1거래가 불가능{/} 합니다.			
-ETC_20190104_037359	You have earned the maximum amount of Class Change Points for this week.	주간 획득 가능한 클래스 변경 포인트를 모두 달성하였습니다.			
-ETC_20190104_037360	You cannot earn any more Class Change Points.	더 이상 클래스 변경 포인트를 획득할 수 없습니다.			
-ETC_20190104_037361	You cannot change into the {TARGET} class unless the {JOB} class is changed first.	{JOB} 클래스를 먼저 변경하기 전에는 {TARGET} 클래스로 변경할 수 없습니다.			
-ETC_20190104_037362	You do not have enough points for a Class Change.	클래스 변경을 하기 위한 포인트가 모자랍니다.			
-ETC_20190104_037363	Required Class Level {Level} or above	클래스 레벨 {Level} 이상 필요			
-ETC_20190104_037364	Use the Rank Reset Voucher?	랭크 초기화 아이템을 사용하시겠습니까?			
-ETC_20190104_037365	Change class trees?	계열 변경을 하시겠습니까?			
-ETC_20190104_037366	The Archer Class Tree cannot dash while in combat.	아처 클래스는 전투 중에 대시를 할 수 없습니다.			
+ETC_20190104_037359	Você recebeu o máximo de Pontos de Troca de Classe para a semana.
+ETC_20190104_037360	Você não pode receber mais Pontos de Troca de Classe.
+ETC_20190104_037361	Você não pode mudar para {TARGET} enquanto {JOB} não for trocado primeiro;
+ETC_20190104_037362	Voê não tem pontos suficientes para trocar de classe.
+ETC_20190104_037363	Necessário Nível de Classe {Level} ou maior
+ETC_20190104_037364	Usar o Rank Reset Voucher?
+ETC_20190104_037365	Mudar Classe Base?
+ETC_20190104_037366	Classes Archer não podem correr enquanto em combate.
 ETC_20190104_037367	[Skill] Requires Zornhau Lv 1 or above	[스킬] 존하우 1레벨 이상 필요			
 ETC_20190104_037368	[Skill] Requires Zucken Lv 1 or above	[스킬] 츠켄 1레벨 이상 필요			
 ETC_20190104_037369	[Skill] Requires Palm Strike Lv 1 or above	[스킬] 철사장 1레벨 이상 필요			
@@ -37652,7 +37652,7 @@ ETC_20190104_037566	Ir para um Mestre de Classe
 ETC_20190104_037567	Astral Tower 5F não é usada desde que Ignas se tornou líder da Schaffenstar.
 ETC_20190104_037568	Não acredito que ele faria tais modificações e se aliaria aos monstros...
 ETC_20190104_037569	Estou com raiva!
-ETC_20190104_037570	Devemos primeiro desarmar a barreira para alcançar Ignas. Conseguiremos fazer isso alcançando a Power Supply Room.
+ETC_20190104_037570	Primeiro vamos desarmar a barreira para alcançar Ignas. Conseguiremos fazer isso alcançando a Power Supply Room.
 ETC_20190104_037571	Não dá pra saber o que nos espera... {nl}Tenham cuidado.
 ETC_20190104_037572	Carregando espíritos no Integrador...
 ETC_20190104_037573	Espíritos Coletados: {COUNT} / 300
@@ -37670,7 +37670,7 @@ ETC_20190104_037584	Vou averiguar a área primeira, fique atrás de mim.
 ETC_20190104_037585	Derrotar monstros perto de um Integrador ajudará a coletar espíritos mais rapidamente.
 ETC_20190104_037586	Excelente!{nl}Vamos avançar para a próxima área!
 ETC_20190104_037587	Você precisa ativar o integrador para remover a barreira.
-ETC_20190104_037588	Vamos conseguir ativar o integrador{nl}quando as os demais controladores forem ativados.
+ETC_20190104_037588	Vamos conseguir ativar o integrador quando os{nl}demais controladores forem ativados.
 ETC_20190104_037589	Quando o integrador for ativado, derrote os monstros para coletar seus espíritos.
 ETC_20190104_037590	Precisamos de espíritos suficientes para desarmar a barreira
 ETC_20190104_037591	Cuidado para não destruir o integrador.
@@ -37886,7 +37886,7 @@ ETC_20190104_037800	You must set the dates for search.	조회시간이 존재해
 ETC_20190104_037801	A guild index is required.	조회할 길드 인덱스가 필요합니다.			
 ETC_20190104_037802	The guild has not set a cover page.	해당 길드가 소개 이미지를 설정하지 않았습니다.			
 ETC_20190104_037803	The guild has not registered a promotional text.	해당 길드가 홍보글을 등록하지 않았습니다.			
-ETC_20190104_037804	Traveling across the magic circle...	마법진 너머로 이동중..			
+ETC_20190104_037804	Viajando pelo círculo mágico...
 ETC_20190104_037805	Enter the Other Dimension (rec. level: 300)	이공간에 들어간다(권장레벨:300)	ETC_20180629_034662	Enter the Other Dimension (rec. level: 300).	이공간에 들어간다.(권장레벨:300)
 ETC_20190104_037806	See those who entered the Other Dimension	이공간에 들어간 자들을 살펴본다	ETC_20180629_034663	See those who entered the Other Dimension.	이공간에 들어간 자들을 살펴본다.
 ETC_20190104_037807	Do not enter	들어가지 않는다	ETC_20180629_034664	Don't enter.	들어가지 않는다.
@@ -40751,7 +40751,7 @@ ETC_20190104_040665	Você entrou em Astral Tower Closed Quarters
 ETC_20190104_040666	Todos os jogadores foram derrotados
 ETC_20190104_040667	Você excedeu o limite de 1 hora e falhou a dungeon
 ETC_20190104_040668	Você retornará para a área original após 30 segundos
-ETC_20190104_040669	Eu estava atrasado
+ETC_20190104_040669	Estou atrasado
 ETC_20190104_040670	Derrote os monstros para coletar suas almas.{nl}Use as almas para carregar o integrador e desarmar a barreira
 ETC_20190104_040671	Aparelho de Controle Mágico Preto		
 ETC_20190104_040672	Aparelho de Controle Mágico Verde
@@ -40759,7 +40759,7 @@ ETC_20190104_040673	Aparelho de Controle Mágico Amarelo
 ETC_20190104_040674	Aparelho de Controle Mágico Azul
 ETC_20190104_040675	Aparelho de Controle Mágico Amarelo
 ETC_20190104_040676	Você falhou em defender o Condensador Mágico
-ETC_20190104_040677	Você derrotou o Prodded Horse
+ETC_20190104_040677	Prodded Horse foi derrotado
 ETC_20190104_040678	Prodded Horse apareceu{nl}Derrote-o para desarmar a barreira!
 ETC_20190104_040679	Um Gerador de Energia foi destruído.
 ETC_20190104_040680	Ignas apareceu!
