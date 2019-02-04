@@ -27463,7 +27463,7 @@ ETC_20170313_027457	Use Shop
 ETC_20170313_027458	{img Silver 20 20}
 ETC_20170313_027459	 : seu item foi identificado.
 ETC_20170313_027460	Enter a value between {MIN} and {MAX}.
-ETC_20170313_027461	Collection: 
+ETC_20170313_027461	Coleção: 
 ETC_20170313_027462	By Name
 ETC_20170313_027463	By Status
 ETC_20170313_027464	Cannot be used with no accessories equipped. 
@@ -31715,7 +31715,7 @@ ETC_20180320_031683	Nervous
 ETC_20180320_031684	Evil
 ETC_20180320_031685	Sigh
 ETC_20180320_031686	Peace
-ETC_20180320_031687	Collection: 2nd Demon Prison
+ETC_20180320_031687	Coleção: 2nd Demon Prison
 ETC_20180320_031688	Increase minimum critical chance +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180320_031689	Decrease damage from characters -{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180320_031690	Increase physical defense +{@st66d_y}{s16}[%d]{/}{/}%%
@@ -36254,9 +36254,9 @@ ETC_20180827_036168	Proteja Agailla Flurry!
 ETC_20180827_036169	Proteja Agailla Flurry enquanto ela desativa a barreira!
 ETC_20180827_036170	Agailla Flurry desativou o Dispositivo de Barreira!{nl}Vá para o próximo local.
 ETC_20180827_036171	Agailla Flurry foi derrotada e não pode prosseguir com a missão.{nl}Retornando em 60 segundos.
-ETC_20180827_036172	HP de Agailla Flurry HP: 50%
-ETC_20180827_036173	HP de Agailla Flurry HP: 30%
-ETC_20180827_036174	HP de Agailla Flurry HP: 10%
+ETC_20180827_036172	HP de Agailla Flurry: 50%
+ETC_20180827_036173	HP de Agailla Flurry: 30%
+ETC_20180827_036174	HP de Agailla Flurry: 10%
 ETC_20180827_036175	Destrua todos os Magical Power Absorption Devices!
 ETC_20180827_036176	Hauberk está preso no Absorption Device!{nl}Salve-o antes que todo seu poder seja absorvido!
 ETC_20180827_036177	Enquanto todo os Magical Power Absorption Devices são destruídos
@@ -36768,12 +36768,12 @@ ETC_20190104_036682	Deposit into Shared Guild Storage	길드 공용 창고 입�
 ETC_20190104_036683	Withdraw from Shared Guild Storage	길드 공용 창고 출고			
 ETC_20190104_036684	City Tax Management	도시 세율 관리			
 ETC_20190104_036685	Remove Community Post	커뮤니티 글 삭제			
-ETC_20190104_036686	Collection: Tenet Church B1	컬렉션: 테넷성당 지하 1층	ETC_20151224_017989	Collection: Tenet Church B1	콜렉션:테넷성당 지하 1층
-ETC_20190104_036687	Collection: Tenet Church 1F	컬렉션: 테넷성당 지상 1층	ETC_20151224_017990	Collection: Tenet Church 1F	콜렉션:테넷성당 지상 1층
-ETC_20190104_036688	Collection: Tenet Church 2F	컬렉션: 테넷성당 지상 2층	ETC_20151224_017991	Collection: Tenet Church 2F	콜렉션:테넷성당 지상 2층
-ETC_20190104_036689	Collection: 2nd Demon Prison	컬렉션: 제2 마족수감소	ETC_20180320_031687	Collection: 2nd Demon Prison	콜렉션:제2 마족수감소
-ETC_20190104_036690	Collection: Never-before Seen	컬렉션: 본적이 없는	ETC_20160520_021777	Collection: Never Seen Before	콜렉션:본적이 없는
-ETC_20190104_036691	Collection: Dingofasil District	컬렉션: 딩고파실 지구	ETC_20160811_023041	Collection: Dingofasil District	콜렉션:딩고파실 지구
+ETC_20190104_036686	Coleção: Tenet Church B1	컬렉션: 테넷성당 지하 1층	ETC_20151224_017989	Collection: Tenet Church B1	콜렉션:테넷성당 지하 1층
+ETC_20190104_036687	Coleção: Tenet Church 1F	컬렉션: 테넷성당 지상 1층	ETC_20151224_017990	Collection: Tenet Church 1F	콜렉션:테넷성당 지상 1층
+ETC_20190104_036688	Coleção: Tenet Church 2F	컬렉션: 테넷성당 지상 2층	ETC_20151224_017991	Collection: Tenet Church 2F	콜렉션:테넷성당 지상 2층
+ETC_20190104_036689	Coleção: 2nd Demon Prison	컬렉션: 제2 마족수감소	ETC_20180320_031687	Collection: 2nd Demon Prison	콜렉션:제2 마족수감소
+ETC_20190104_036690	Coleção: Never-before Seen	컬렉션: 본적이 없는	ETC_20160520_021777	Collection: Never Seen Before	콜렉션:본적이 없는
+ETC_20190104_036691	Coleção: Dingofasil District	컬렉션: 딩고파실 지구	ETC_20160811_023041	Collection: Dingofasil District	콜렉션:딩고파실 지구
 ETC_20190104_036692	Physical damage +{@st66d_y}{s16}[%d]{/}{/}%% for 6 seconds after using an SP potion	SP 포션 종류 사용 시 6초간 물리 대미지 +{@st66d_y}{s16}[%d]{/}{/}%%	ETC_20180208_031267	Physical Attack +{@st66d_y}{s16}[%d]{/}{/}%% for 6 sec after using an SP potion	SP 포션 종류 사용 시 6초간 물리 공격력 +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20190104_036693	Magic critical attack +{@st66d_y}{s16}[%d]{/}{/}	마법 치명타 공격력 +{@st66d_y}{s16}[%d]{/}{/}	ETC_20180208_031277	Magic Amplification +{@st66d_y}{s16}[%d]{/}{/}	마법 증폭 +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20190104_036694	Magic damage +{@st66d_y}{s16}[%d]{/}{/}%% for 6 seconds after using an SP potion	SP 포션 종류 사용 시 6초간 마법 대미지 +{@st66d_y}{s16}[%d]{/}{/}%%	ETC_20180208_031323	Magic Attack +{@st66d_y}{s16}[%d]{/}{/}%% for 6 sec after using an SP potion	SP 포션 종류 사용 시 6초간 마법 공격력 +{@st66d_y}{s16}[%d]{/}{/}%%

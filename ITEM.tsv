@@ -13826,7 +13826,7 @@ ITEM_20170313_013823	A cube obtained from Villager Duncan. It contains an item f
 ITEM_20170313_013824	Eighth Collexia Cube
 ITEM_20170313_013825	A cube obtained from Gatre. It contains an item from one of the following collections: Barha Forest, Alemeth Forest. Right-click to open.
 ITEM_20170313_013826	Ninth Collexia Cube
-ITEM_20170313_013827	A cube obtained from Soldier Heulen. It contains an item from the following collection: Ibre Plateau. Right-click to open.
+ITEM_20170313_013827	A cube obtained from Soldier Heulen. It contains an item from the following Coleção: Ibre Plateau. Right-click to open.
 ITEM_20170313_013828	Enhancement Card:500
 ITEM_20170313_013829	A card used to enhance a card. Increases a card's EXP by 500.
 ITEM_20170313_013830	Magnifying Glass
@@ -17616,13 +17616,13 @@ ITEM_20180320_017602	Looting Chance: 300
 ITEM_20180320_017603	Increases looting chance by 300 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- cannot be stacked with other looting chance potion.
 ITEM_20180320_017604	Looting Chance: 500
 ITEM_20180320_017605	Increases looting chance by 500 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.
-ITEM_20180320_017606	Collection: Coasts
-ITEM_20180320_017607	Collection: Fantasy Library
-ITEM_20180320_017608	Collection: Narvas Temple
-ITEM_20180320_017609	Collection: Lanko Waters
-ITEM_20180320_017610	Collection: Sage Master's Bookmark
-ITEM_20180320_017611	Collection: Explorer Finds
-ITEM_20180320_017612	Collection: Little Dexter's Gift
+ITEM_20180320_017606	Coleção: Coasts
+ITEM_20180320_017607	Coleção: Fantasy Library
+ITEM_20180320_017608	Coleção: Narvas Temple
+ITEM_20180320_017609	Coleção: Lanko Waters
+ITEM_20180320_017610	Coleção: Sage Master's Bookmark
+ITEM_20180320_017611	Coleção: Explorer Finds
+ITEM_20180320_017612	Coleção: Little Dexter's Gift
 ITEM_20180320_017613	Sage Master's Red Bookmark
 ITEM_20180320_017614	Collection Exclusive Items
 ITEM_20180320_017615	A red bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.
@@ -18111,10 +18111,10 @@ ITEM_20180418_018097	Aegis Potion: Plant
 ITEM_20180418_018098	Reduces damage from Plant type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.
 ITEM_20180418_018099	Aegis Potion: Beast
 ITEM_20180418_018100	Reduces damage from Beast type bosses by 50% for 30 seconds.{nl}Cooldown 60 seconds.{nl}Up to 30 can be carried at a time.
-ITEM_20180418_018101	Collection: Main Building
-ITEM_20180418_018102	Collection: Grand Corridor
-ITEM_20180418_018103	Collection: Penitence Route of Great Cathedral
-ITEM_20180418_018104	Collection: Grand Corridor
+ITEM_20180418_018101	Coleção: Main Building
+ITEM_20180418_018102	Coleção: Grand Corridor
+ITEM_20180418_018103	Coleção: Penitence Route of Great Cathedral
+ITEM_20180418_018104	Coleção: Grand Corridor
 ITEM_20180418_018105	Guild Quest Reward: Special Potion
 ITEM_20180418_018106	An additional prize chest given to guilds who have successfully completed a guild quest mission.{nl}Open them to obtain recipes to create potions with unique effects. 
 ITEM_20180418_018107	{#000000}|Efeito| Ataque Mágico + [★*7] ao equipar armas do tipo Impacto
@@ -20906,203 +20906,203 @@ ITEM_20190104_020892	Revelation: Opposing Piece Collection	계시록: 대립편 
 ITEM_20190104_020893	A collection of the conflict between demons and goddesses in Goddess Laima's Revelation.{nl}Right-click to add it to the Collection window through the Magic Association NPC.	라이마 여신의 계시 중 여신과 마족의 갈등이 기록된 계시를 모은 컬렉션입니다. 마법협회 NPC의 컬렉션창에서 마우스 오른쪽 버튼 클릭으로 등록할 수 있습니다.	ITEM_20150803_005927	A collection of the conflict between the demons and the goddesses in Goddess Laima's revelation.{nl}Right-click to add it to the Collection window through the Magic Association NPC.	라이마 여신의 계시 중 여신과 마족의 갈등이 기록된 계시를 모은 컬렉션입니다. 마법협회 NPC의 콜렉션창에서 마우스 오른쪽 버튼 클릭으로 등록할 수 있습니다.	
 ITEM_20190104_020894	Revelation: Inside Piece Collection	계시록: 이면편 컬렉션	ITEM_20150714_005272	Revelation: Inside Piece Collection	계시록 : 이면편 콜렉션	
 ITEM_20190104_020895	A collection of one of the world's hidden secrets in Goddess Laima's Revelation.{nl}Right-click to add it to the Collection window through the Magic Association NPC.	라이마 여신의 계시 중 세계의 숨겨진 비밀이 담겨 있는 계시를 모은 컬렉션입니다. 마법협회 NPC의 컬렉션창에서 마우스 오른쪽 버튼 클릭으로 등록할 수 있습니다.	ITEM_20150803_005928	A collection of one of the world's hidden secret in Goddess Laima's revelation.{nl}Right-click to add it to the Collection window through the Magic Association NPC.	라이마 여신의 계시 중 세계의 숨겨진 비밀이 담겨 있는 계시를 모은 컬렉션입니다. 마법협회 NPC의 콜렉션창에서 마우스 오른쪽 버튼 클릭으로 등록할 수 있습니다.	
-ITEM_20190104_020896	Collection: West Siauliai Woods	컬렉션: 샤울레이 서쪽 숲				
-ITEM_20190104_020897	Collection: East Siauliai Woods	컬렉션: 샤울레이 동쪽 숲				
-ITEM_20190104_020898	Collection: Miners' Village	컬렉션: 샤울레이 광산 마을				
-ITEM_20190104_020899	Collection: Crystal Mine 1F	컬렉션: 수정광산 1층				
-ITEM_20190104_020900	Collection: Crystal Mine 2F	컬렉션: 수정광산 2층				
-ITEM_20190104_020901	Collection: Crystal Mine 3F	컬렉션: 수정광산 3층				
-ITEM_20190104_020902	Collection: Srautas Gorge	컬렉션: 스라우타스 협곡				
-ITEM_20190104_020903	Collection: Gele Plateau	컬렉션: 겔리 고원				
-ITEM_20190104_020904	Collection: Nefritas Cliff	컬렉션: 네프리타스 벼랑				
-ITEM_20190104_020905	Collection: Tenet Garden	컬렉션: 테넷 화원				
-ITEM_20190104_020906	Collection: Veja Ravine	컬렉션: 베야 골짜기				
-ITEM_20190104_020907	Collection: Vieta Gorge	컬렉션: 비에타 계곡				
-ITEM_20190104_020908	Collection: Cobalt Forest	컬렉션: 코발트 숲				
-ITEM_20190104_020909	Collection: Septyni Glen	컬렉션: 셉티니 골				
-ITEM_20190104_020910	Collection: Tenet Church B1	컬렉션: 테넷 성당 지하 1층	ITEM_20151224_008902	Collection: Tenet Church B1	콜렉션:테넷 성당 지하 1층	
-ITEM_20190104_020911	Collection: Tenet Church 1F	컬렉션: 테넷 성당 지상 1층	ITEM_20151224_008903	Collection: Tenet Church 1F	콜렉션:테넷 성당 지상 1층	
-ITEM_20190104_020912	Collection: Tenet Church 2F	컬렉션: 테넷 성당 지상 2층	ITEM_20151224_008904	Collection: Tenet Church 2F	콜렉션:테넷 성당 지상 2층	
-ITEM_20190104_020913	Collection: Gate Route	컬렉션: 관문로				
-ITEM_20190104_020914	Collection: Sirdgela Forest	컬렉션: 시르드겔라 숲				
-ITEM_20190104_020915	Collection: Kvailas Forest	컬렉션: 크바일라스 숲				
-ITEM_20190104_020916	Collection: Guards Graveyard	컬렉션: 파수꾼의 묘역				
-ITEM_20190104_020917	Collection: Gateway of the Great King	컬렉션: 대왕의 관문				
-ITEM_20190104_020918	Collection: Ramstis Ridge	컬렉션: 람스티스 협곡				
-ITEM_20190104_020919	Collection: Overlong Bridge Valley	컬렉션: 긴다리 계곡				
-ITEM_20190104_020920	Collection: Akmens Ridge	컬렉션: 아크멘스 능선				
-ITEM_20190104_020921	Collection: Tiltas Valley	컬렉션: 틸타스 협곡				
-ITEM_20190104_020922	Collection: Gytis Settlement Area	컬렉션: 기티스의 개척지				
-ITEM_20190104_020923	Collection: Royal Mausoleum Workers Lodge	컬렉션: 왕릉 노역자 숙소				
-ITEM_20190104_020924	Collection: Royal Mausoleum Constructors' Chapel	컬렉션: 왕릉 건축자 예배당				
-ITEM_20190104_020925	Collection: Royal Mausoleum Storage	컬렉션: 왕릉 적재소				
-ITEM_20190104_020926	Collection: Rukas Plateau	컬렉션: 루카스 고원				
-ITEM_20190104_020927	Collection: King's Plateau	컬렉션: 왕의 고원				
-ITEM_20190104_020928	Collection: Zachariel Crossroads	컬렉션: 자카리엘 교차로				
-ITEM_20190104_020929	Collection: Royal Mausoleum 1F	컬렉션: 왕릉 1층				
-ITEM_20190104_020930	Collection: Royal Mausoleum 2F	컬렉션: 왕릉 2층				
-ITEM_20190104_020931	Collection: Royal Mausoleum 3F	컬렉션: 왕릉 3층				
-ITEM_20190104_020932	Collection: Royal Mausoleum 4F	컬렉션: 왕릉 4층				
-ITEM_20190104_020933	Collection: Royal Mausoleum 5F	컬렉션: 왕릉 5층				
-ITEM_20190104_020934	Collection: Baron Allerno 	컬렉션: 아렐르노 남작령				
-ITEM_20190104_020935	Collection: Myrkiti Farm	컬렉션: 미르키티 농장				
-ITEM_20190104_020936	Collection: Aqueduct Bridge Area	컬렉션: 수로교 지역				
-ITEM_20190104_020937	Collection: Tenants' Farm	컬렉션: 테넌츠 농장				
-ITEM_20190104_020938	Collection: Stele Road	컬렉션: 비석로				
-ITEM_20190104_020939	Collection: Goddess' Ancient Garden	컬렉션: 여신의 옛뜰				
-ITEM_20190104_020940	Collection: Escanciu Village	컬렉션: 에산치우 마을				
-ITEM_20190104_020941	Collection: Fedimian Suburbs	컬렉션: 페디미안 외곽				
-ITEM_20190104_020942	Collection: Crystal Mine Lot 2 - 1F	컬렉션: 수정광산 2광구 1층				
-ITEM_20190104_020943	Collection: Crystal Mine Lot 2 - 2F	컬렉션: 수정광산 2광구 2층				
-ITEM_20190104_020944	Collection: Entrance of Kateen Forest	컬렉션: 카틴 숲 입구				
-ITEM_20190104_020945	Collection: Owl Burial Ground	컬렉션: 매너클 묘지				
-ITEM_20190104_020946	Collection: Poslinkis Forest	컬렉션: 포슬린키스 숲				
-ITEM_20190104_020947	Collection: Saknis Plains	컬렉션: 사크니스 벌판				
-ITEM_20190104_020948	Collection: Mage Tower 1F	컬렉션: 마법사의 탑 1층				
-ITEM_20190104_020949	Collection: Mage Tower 2F	컬렉션: 마법사의 탑 2층				
-ITEM_20190104_020950	Collection: Mage Tower 3F	컬렉션: 마법사의 탑 3층				
-ITEM_20190104_020951	Collection: Mage Tower 4F	컬렉션: 마법사의 탑 4층				
-ITEM_20190104_020952	Collection: Mage Tower 5F	컬렉션: 마법사의 탑 5층				
-ITEM_20190104_020953	Collection: Dvasia Peak	컬렉션: 드바시아 고개				
-ITEM_20190104_020954	Collection: Sunset Flag Forest	컬렉션: 해진깃발숲				
-ITEM_20190104_020955	Collection: Starving Demon's Way	컬렉션: 큰아귀 길				
-ITEM_20190104_020956	Collection: Pilgrim Path	컬렉션: 필그림 들길				
-ITEM_20190104_020957	Collection: Altar Way	컬렉션: 제단로				
-ITEM_20190104_020958	Collection: Forest of Prayer	컬렉션: 기원의 숲				
-ITEM_20190104_020959	Collection: Apsimesti Crossroads	컬렉션: 압시메스티 교차로				
-ITEM_20190104_020960	Collection: Residence of the Fallen Legwyn Family	컬렉션: 쇠락한 르귄가문의 저택				
-ITEM_20190104_020961	Collection: Main Building	컬렉션: 대성당 본당				
-ITEM_20190104_020962	Collection: Grand Corridor	컬렉션: 대성당 대회랑				
-ITEM_20190104_020963	Collection: Penitence Route	컬렉션: 대성당 참회로				
-ITEM_20190104_020964	Collection: Sanctuary	컬렉션: 대성당 지성소				
-ITEM_20190104_020965	Collection: Greene Manor	컬렉션: 그린가의 장원				
-ITEM_20190104_020966	Collection: Shaton Farm	컬렉션: 샤튼 농장				
-ITEM_20190104_020967	Collection: Shaton Reservoir	컬렉션: 샤튼 저수구역				
-ITEM_20190104_020968	Collection: Demon Prison District 1	컬렉션: 마족수감소 1구역				
-ITEM_20190104_020969	Collection: Demon Prison District 2	컬렉션: 마족수감소 2구역				
-ITEM_20190104_020970	Collection: Demon Prison District 3	컬렉션: 마족수감소 3구역				
-ITEM_20190104_020971	Collection: Demon Prison District 4	컬렉션: 마족수감소 4구역				
-ITEM_20190104_020972	Collection: Demon Prison District 5	컬렉션: 마족수감소 5구역				
-ITEM_20190104_020973	Collection: Dina Bee Farm	컬렉션: 다이나 양봉지				
-ITEM_20190104_020974	Collection: Vilna Forest	컬렉션: 빌나 숲				
-ITEM_20190104_020975	Collection: Uskis Arable Land	컬렉션: 우키스 경작지				
-ITEM_20190104_020976	Collection: Spring Light Woods	컬렉션: 봄볕나무 숲				
-ITEM_20190104_020977	Collection: 2nd Demon Prison	컬렉션: 제 2 마족 수감소	ITEM_20151224_008969	Collection: 2nd Demon Prison	콜렉션:제 2 마족 수감소	
-ITEM_20190104_020978	Collection: Nuoridin Falls	컬렉션: 누오로딘 폭포				
-ITEM_20190104_020979	Collection: Namu Temple Ruins	컬렉션: 나뮤 사원터				
-ITEM_20190104_020980	Collection: Istora Ruins	컬렉션: 이스토라 유적지				
-ITEM_20190104_020981	Collection: Glade Hillroad	컬렉션: 글라데 언덕길				
-ITEM_20190104_020982	Collection: Viltis Forest	컬렉션: 빌티스 숲				
-ITEM_20190104_020983	Collection: Laukyme Swamp	컬렉션: 라우키메 저습지				
-ITEM_20190104_020984	Collection: Tyla Monastery	컬렉션: 틸라 수도원				
-ITEM_20190104_020985	Collection: Roxona Reconstruction Agency West Building	컬렉션: 록소나 재건단 서관				
-ITEM_20190104_020986	Collection: Roxona Reconstruction Agency East Building	컬렉션: 록소나 재건단 동관				
-ITEM_20190104_020987	Collection: Verkti Square	컬렉션: 베르크티 광장				
-ITEM_20190104_020988	Collection: Roxona Marketplace	컬렉션: 록소나 장터				
-ITEM_20190104_020989	Collection: Ruklys Street	컬렉션: 루클리스 거리				
-ITEM_20190104_020990	Collection: Downtown	컬렉션: 중심시가				
-ITEM_20190104_020991	Collection: Inner Enceinte District	컬렉션: 내성곽지구				
-ITEM_20190104_020992	Collection: Mokusul Chamber	컬렉션: 모크슬 묘실				
-ITEM_20190104_020993	Collection: Underground Grave of Ritinis	컬렉션: 리티니스 지하묘				
-ITEM_20190104_020994	Collection: Videntis Shrine	컬렉션: 바이덴티스 신당				
-ITEM_20190104_020995	Collection: Valius' Eternal Resting Place	컬렉션: 발류스의 영면지				
-ITEM_20190104_020996	Collection: Lemprasa Pond	컬렉션: 렘파라사 연못				
-ITEM_20190104_020997	Collection: Woods of the Linked Bridges	컬렉션: 덧댄다리 숲				
-ITEM_20190104_020998	Collection: Paupys Crossing	컬렉션: 파우피스 나루				
-ITEM_20190104_020999	Collection: Ashaq Underground Prison 1F	컬렉션: 아샤크 지하감옥 1층				
-ITEM_20190104_021000	Collection: Ashaq Underground Prison 2F	컬렉션: 아샤크 지하감옥 2층				
-ITEM_20190104_021001	Collection: Ashaq Underground Prison 3F	컬렉션: 아샤크 지하감옥 3층				
-ITEM_20190104_021002	Collection: Koru Jungle	컬렉션: 코루 숲				
-ITEM_20190104_021003	Collection: Knidos Jungle	컬렉션: 크니도스 숲				
-ITEM_20190104_021004	Collection: Dadan Jungle	컬렉션: 다단 숲				
-ITEM_20190104_021005	Collection: Nevellet Quarry 1F	컬렉션: 네밸랫 광산 1층				
-ITEM_20190104_021006	Collection: Nevellet Quarry 2F	컬렉션: 네밸랫 광산 2층				
-ITEM_20190104_021007	Collection: Novaha Assembly Hall	컬렉션: 노바하 공회소				
-ITEM_20190104_021008	Collection: Novaha Annex	컬렉션: 노바하 별관				
-ITEM_20190104_021009	Collection: Novaha Institute	컬렉션: 노바하 본원				
-ITEM_20190104_021010	Collection: Karolis Springs	컬렉션: 카롤리스 샘터				
-ITEM_20190104_021011	Collection: Letas Stream	컬렉션: 레타스 개울가				
-ITEM_20190104_021012	Collection: Pelke Shrine Ruins	컬렉션: 펠케 신전터				
-ITEM_20190104_021013	Collection: Absenta Reservoir	컬렉션: 압셈타 수원지				
-ITEM_20190104_021014	Collection: Sienakal Graveyard	컬렉션: 시에나칼 묘역				
-ITEM_20190104_021015	Collection: Carlyle's Mausoleum	컬렉션: 칼라일의 영묘				
-ITEM_20190104_021016	Collection: Delmore Hamlet	컬렉션: 델무어 소작촌				
-ITEM_20190104_021017	Collection: Delmore Manor	컬렉션: 델무어 장원				
-ITEM_20190104_021018	Collection: Delmore Outskirts	컬렉션: 델무어 외성				
-ITEM_20190104_021019	Collection: Feretory Hills	컬렉션: 페레토리 구릉				
-ITEM_20190104_021020	Collection: Mocia Forest	컬렉션: 모치아 숲				
-ITEM_20190104_021021	Collection: Sutatis Trade Route	컬렉션: 수타티스 교역로				
-ITEM_20190104_021022	Collection: Topes Fortress 1F	컬렉션: 토페스 보루 1층				
-ITEM_20190104_021023	Collection: Topes Fortress 2F	컬렉션: 토페스 보루 2층				
-ITEM_20190104_021024	Collection: Bellai Rainforest	컬렉션: 벨라이 숲				
-ITEM_20190104_021025	Collection: Zeraha	컬렉션: 제라하				
-ITEM_20190104_021026	Collection: Seir Rainforest	컬렉션: 세이르 숲				
-ITEM_20190104_021027	Collection: Galeed Plateau	컬렉션: 갈르엣 평야				
-ITEM_20190104_021028	Collection: Fasika Plateau	컬렉션: 파사카 협곡				
-ITEM_20190104_021029	Collection: Manahas	컬렉션: 마나하스				
-ITEM_20190104_021030	Collection: Genar Field	컬렉션: 게나르 평원				
-ITEM_20190104_021031	Collection: Sicarius 1F	컬렉션: 시카리오스 1층				
-ITEM_20190104_021032	Collection: Sicarius 2F	컬렉션: 시카리오스 2층				
-ITEM_20190104_021033	Collection: What Is Falchion	컬렉션: 폴쳔이란 무엇인가				
-ITEM_20190104_021034	Collection: Bug Hater	컬렉션: 곤충 혐오				
-ITEM_20190104_021035	Collection: Love of Foreign Lands	컬렉션: 이국 사랑				
-ITEM_20190104_021036	Collection: Beginner Weapons	컬렉션: 초보자의 무기				
-ITEM_20190104_021037	Collection: Beginner Armor	컬렉션: 초보자의 방어구				
-ITEM_20190104_021038	Collection: Coastal Fortress	컬렉션: 연안요새				
-ITEM_20190104_021039	Collection: Dingofasil	컬렉션: 딩고파실	ITEM_20160811_010938	Collection: Dingofasil	콜렉션:딩고파실	
-ITEM_20190104_021040	Collection: Vedas Plateau	컬렉션: 베다 고원				
-ITEM_20190104_021041	Collection: Mesafasla	컬렉션: 메사파슬라				
-ITEM_20190104_021042	Collection: Stogas Plateau	컬렉션: 스토가스 고원				
-ITEM_20190104_021043	Collection: Nahash Forest	컬렉션: 나하스 숲				
-ITEM_20190104_021044	Collection: Vera Coast	컬렉션: 베라 연안				
-ITEM_20190104_021045	Collection: Elgos Monastery Annex	컬렉션: 엘고스 수도원 별관				
-ITEM_20190104_021046	Collection: Elgos Monastery Main Building	컬렉션: 엘고스 수도원 본원				
-ITEM_20190104_021047	Collection: Alemeth Forest	컬렉션: 알레멧 숲				
-ITEM_20190104_021048	Collection: Barha Forest	컬렉션: 바르하 숲				
-ITEM_20190104_021049	Collection: Cranto Coast	컬렉션: 크란토 연안				
-ITEM_20190104_021050	Collection: Igti Coast	컬렉션: 이기티 연안				
-ITEM_20190104_021051	Collection: Ibre Plateau	컬렉션: 이브레 고원				
-ITEM_20190104_021052	Collection: Grand Yard Mesa	컬렉션: 마당 고원				
-ITEM_20190104_021053	Collection: Sventimas Exile	컬렉션: 스벤티마스 유형지				
-ITEM_20190104_021054	Collection: Kadumel Cliff	컬렉션: 카듀멜 절벽				
-ITEM_20190104_021055	Collection: Steel Heights	컬렉션: 강철 고원				
-ITEM_20190104_021056	Collection: Grynas Trails	컬렉션: 그리나스 숲길				
-ITEM_20190104_021057	Collection: Grynas Training Camp	컬렉션: 그리나스 수련장				
-ITEM_20190104_021058	Collection: Grynas Hills	컬렉션: 그리나스 구릉지				
-ITEM_20190104_021059	Collection: Nheto Forest	컬렉션: 네토 숲				
-ITEM_20190104_021060	Collection: Svalphinghas Forest	컬렉션: 스팔빈가스 숲				
-ITEM_20190104_021061	Collection: Lhadar Forest	컬렉션: 라다르 숲				
-ITEM_20190104_021062	Collection: Timerys Temple	컬렉션: 티메리스 사원				
-ITEM_20190104_021063	Collection: Tevhrin Stalactite Cave Section 1	컬렉션: 테브린 종유동 1구역				
-ITEM_20190104_021064	Collection: Tevhrin Stalactite Cave Section 2	컬렉션: 테브린 종유동 2구역				
-ITEM_20190104_021065	Collection: Tevhrin Stalactite Cave Section 3	컬렉션: 테브린 종유동 3구역				
-ITEM_20190104_021066	Collection: Tevhrin Stalactite Cave Section 4	컬렉션: 테브린 종유동 4구역				
-ITEM_20190104_021067	Collection: Tevhrin Stalactite Cave Section 5	컬렉션: 테브린 종유동 5구역				
-ITEM_20190104_021068	Collection: City Wall District 8	컬렉션: 도심성벽 제 8구역				
-ITEM_20190104_021069	Collection: Jeromel Park	컬렉션: 제로멜 공원				
-ITEM_20190104_021070	Collection: Jonael Memorial	컬렉션: 요나엘 기념구				
-ITEM_20190104_021071	Collection: Taniel I Memorial	컬렉션: 타니엘 1세 기념구				
-ITEM_20190104_021072	Collection: Kule Peak	컬렉션: 쿨레 고개				
-ITEM_20190104_021073	Collection: Arcus Forest	컬렉션: 아르커스 숲				
-ITEM_20190104_021074	Collection: Phamer Forest	컬렉션: 파마르 숲				
-ITEM_20190104_021075	Collection: Ziburynas Forest	컬렉션: 지부리나스 숲				
-ITEM_20190104_021076	Collection: Mollogheo Forest	컬렉션: 몰로게오 숲				
-ITEM_20190104_021077	Collection: Zima Suecourt	컬렉션: 지마 수코트				
-ITEM_20190104_021078	Collection: Emmet Forest	컬렉션: 에메트 숲				
-ITEM_20190104_021079	Collection: Pystis Forest	컬렉션: 피스티스 숲				
-ITEM_20190104_021080	Collection: Syla Forest	컬렉션: 실라 숲				
-ITEM_20190104_021081	Collection: Alembique Cave	컬렉션: 알렘빅 동굴				
-ITEM_20190104_021082	Collection: Nobreer Forest	컬렉션: 노브리어 숲				
-ITEM_20190104_021083	Collection: Yudejan Forest	컬렉션: 유데이안 숲				
-ITEM_20190104_021084	Collection: Token of the Demon Treaty	컬렉션: 여신과 마족의 서약				
-ITEM_20190104_021085	Collection: Pasleptas	컬렉션: 패슬렙타스				
-ITEM_20190104_021086	Collection: Coasts	컬렉션: 해안 지역				
-ITEM_20190104_021087	Collection: Fantasy Library	컬렉션: 환상도서관 지역				
-ITEM_20190104_021088	Collection: Narvas Temple	컬렉션: 나르바스 사원 지역				
-ITEM_20190104_021089	Collection: Lanko Waters	컬렉션: 란코 수역				
-ITEM_20190104_021090	Collection: Sage Master's Bookmark	컬렉션: 세이지 마스터의 책갈피				
-ITEM_20190104_021091	Collection: Explorer Finds	컬렉션: 탐험 중의 발견				
-ITEM_20190104_021092	Collection: Little Dexter's Gift	컬렉션: 대길이의 선물				
+ITEM_20190104_020896	Coleção: West Siauliai Woods	컬렉션: 샤울레이 서쪽 숲				
+ITEM_20190104_020897	Coleção: East Siauliai Woods	컬렉션: 샤울레이 동쪽 숲				
+ITEM_20190104_020898	Coleção: Miners' Village	컬렉션: 샤울레이 광산 마을				
+ITEM_20190104_020899	Coleção: Crystal Mine 1F	컬렉션: 수정광산 1층				
+ITEM_20190104_020900	Coleção: Crystal Mine 2F	컬렉션: 수정광산 2층				
+ITEM_20190104_020901	Coleção: Crystal Mine 3F	컬렉션: 수정광산 3층				
+ITEM_20190104_020902	Coleção: Srautas Gorge	컬렉션: 스라우타스 협곡				
+ITEM_20190104_020903	Coleção: Gele Plateau	컬렉션: 겔리 고원				
+ITEM_20190104_020904	Coleção: Nefritas Cliff	컬렉션: 네프리타스 벼랑				
+ITEM_20190104_020905	Coleção: Tenet Garden	컬렉션: 테넷 화원				
+ITEM_20190104_020906	Coleção: Veja Ravine	컬렉션: 베야 골짜기				
+ITEM_20190104_020907	Coleção: Vieta Gorge	컬렉션: 비에타 계곡				
+ITEM_20190104_020908	Coleção: Cobalt Forest	컬렉션: 코발트 숲				
+ITEM_20190104_020909	Coleção: Septyni Glen	컬렉션: 셉티니 골				
+ITEM_20190104_020910	Coleção: Tenet Church B1	컬렉션: 테넷 성당 지하 1층	ITEM_20151224_008902	Coleção: Tenet Church B1	콜렉션:테넷 성당 지하 1층	
+ITEM_20190104_020911	Coleção: Tenet Church 1F	컬렉션: 테넷 성당 지상 1층	ITEM_20151224_008903	Coleção: Tenet Church 1F	콜렉션:테넷 성당 지상 1층	
+ITEM_20190104_020912	Coleção: Tenet Church 2F	컬렉션: 테넷 성당 지상 2층	ITEM_20151224_008904	Coleção: Tenet Church 2F	콜렉션:테넷 성당 지상 2층	
+ITEM_20190104_020913	Coleção: Gate Route	컬렉션: 관문로				
+ITEM_20190104_020914	Coleção: Sirdgela Forest	컬렉션: 시르드겔라 숲				
+ITEM_20190104_020915	Coleção: Kvailas Forest	컬렉션: 크바일라스 숲				
+ITEM_20190104_020916	Coleção: Guards Graveyard	컬렉션: 파수꾼의 묘역				
+ITEM_20190104_020917	Coleção: Gateway of the Great King	컬렉션: 대왕의 관문				
+ITEM_20190104_020918	Coleção: Ramstis Ridge	컬렉션: 람스티스 협곡				
+ITEM_20190104_020919	Coleção: Overlong Bridge Valley	컬렉션: 긴다리 계곡				
+ITEM_20190104_020920	Coleção: Akmens Ridge	컬렉션: 아크멘스 능선				
+ITEM_20190104_020921	Coleção: Tiltas Valley	컬렉션: 틸타스 협곡				
+ITEM_20190104_020922	Coleção: Gytis Settlement Area	컬렉션: 기티스의 개척지				
+ITEM_20190104_020923	Coleção: Royal Mausoleum Workers Lodge	컬렉션: 왕릉 노역자 숙소				
+ITEM_20190104_020924	Coleção: Royal Mausoleum Constructors' Chapel	컬렉션: 왕릉 건축자 예배당				
+ITEM_20190104_020925	Coleção: Royal Mausoleum Storage	컬렉션: 왕릉 적재소				
+ITEM_20190104_020926	Coleção: Rukas Plateau	컬렉션: 루카스 고원				
+ITEM_20190104_020927	Coleção: King's Plateau	컬렉션: 왕의 고원				
+ITEM_20190104_020928	Coleção: Zachariel Crossroads	컬렉션: 자카리엘 교차로				
+ITEM_20190104_020929	Coleção: Royal Mausoleum 1F	컬렉션: 왕릉 1층				
+ITEM_20190104_020930	Coleção: Royal Mausoleum 2F	컬렉션: 왕릉 2층				
+ITEM_20190104_020931	Coleção: Royal Mausoleum 3F	컬렉션: 왕릉 3층				
+ITEM_20190104_020932	Coleção: Royal Mausoleum 4F	컬렉션: 왕릉 4층				
+ITEM_20190104_020933	Coleção: Royal Mausoleum 5F	컬렉션: 왕릉 5층				
+ITEM_20190104_020934	Coleção: Baron Allerno 	컬렉션: 아렐르노 남작령				
+ITEM_20190104_020935	Coleção: Myrkiti Farm	컬렉션: 미르키티 농장				
+ITEM_20190104_020936	Coleção: Aqueduct Bridge Area	컬렉션: 수로교 지역				
+ITEM_20190104_020937	Coleção: Tenants' Farm	컬렉션: 테넌츠 농장				
+ITEM_20190104_020938	Coleção: Stele Road	컬렉션: 비석로				
+ITEM_20190104_020939	Coleção: Goddess' Ancient Garden	컬렉션: 여신의 옛뜰				
+ITEM_20190104_020940	Coleção: Escanciu Village	컬렉션: 에산치우 마을				
+ITEM_20190104_020941	Coleção: Fedimian Suburbs	컬렉션: 페디미안 외곽				
+ITEM_20190104_020942	Coleção: Crystal Mine Lot 2 - 1F	컬렉션: 수정광산 2광구 1층				
+ITEM_20190104_020943	Coleção: Crystal Mine Lot 2 - 2F	컬렉션: 수정광산 2광구 2층				
+ITEM_20190104_020944	Coleção: Entrance of Kateen Forest	컬렉션: 카틴 숲 입구				
+ITEM_20190104_020945	Coleção: Owl Burial Ground	컬렉션: 매너클 묘지				
+ITEM_20190104_020946	Coleção: Poslinkis Forest	컬렉션: 포슬린키스 숲				
+ITEM_20190104_020947	Coleção: Saknis Plains	컬렉션: 사크니스 벌판				
+ITEM_20190104_020948	Coleção: Mage Tower 1F	컬렉션: 마법사의 탑 1층				
+ITEM_20190104_020949	Coleção: Mage Tower 2F	컬렉션: 마법사의 탑 2층				
+ITEM_20190104_020950	Coleção: Mage Tower 3F	컬렉션: 마법사의 탑 3층				
+ITEM_20190104_020951	Coleção: Mage Tower 4F	컬렉션: 마법사의 탑 4층				
+ITEM_20190104_020952	Coleção: Mage Tower 5F	컬렉션: 마법사의 탑 5층				
+ITEM_20190104_020953	Coleção: Dvasia Peak	컬렉션: 드바시아 고개				
+ITEM_20190104_020954	Coleção: Sunset Flag Forest	컬렉션: 해진깃발숲				
+ITEM_20190104_020955	Coleção: Starving Demon's Way	컬렉션: 큰아귀 길				
+ITEM_20190104_020956	Coleção: Pilgrim Path	컬렉션: 필그림 들길				
+ITEM_20190104_020957	Coleção: Altar Way	컬렉션: 제단로				
+ITEM_20190104_020958	Coleção: Forest of Prayer	컬렉션: 기원의 숲				
+ITEM_20190104_020959	Coleção: Apsimesti Crossroads	컬렉션: 압시메스티 교차로				
+ITEM_20190104_020960	Coleção: Residence of the Fallen Legwyn Family	컬렉션: 쇠락한 르귄가문의 저택				
+ITEM_20190104_020961	Coleção: Main Building	컬렉션: 대성당 본당				
+ITEM_20190104_020962	Coleção: Grand Corridor	컬렉션: 대성당 대회랑				
+ITEM_20190104_020963	Coleção: Penitence Route	컬렉션: 대성당 참회로				
+ITEM_20190104_020964	Coleção: Sanctuary	컬렉션: 대성당 지성소				
+ITEM_20190104_020965	Coleção: Greene Manor	컬렉션: 그린가의 장원				
+ITEM_20190104_020966	Coleção: Shaton Farm	컬렉션: 샤튼 농장				
+ITEM_20190104_020967	Coleção: Shaton Reservoir	컬렉션: 샤튼 저수구역				
+ITEM_20190104_020968	Coleção: Demon Prison District 1	컬렉션: 마족수감소 1구역				
+ITEM_20190104_020969	Coleção: Demon Prison District 2	컬렉션: 마족수감소 2구역				
+ITEM_20190104_020970	Coleção: Demon Prison District 3	컬렉션: 마족수감소 3구역				
+ITEM_20190104_020971	Coleção: Demon Prison District 4	컬렉션: 마족수감소 4구역				
+ITEM_20190104_020972	Coleção: Demon Prison District 5	컬렉션: 마족수감소 5구역				
+ITEM_20190104_020973	Coleção: Dina Bee Farm	컬렉션: 다이나 양봉지				
+ITEM_20190104_020974	Coleção: Vilna Forest	컬렉션: 빌나 숲				
+ITEM_20190104_020975	Coleção: Uskis Arable Land	컬렉션: 우키스 경작지				
+ITEM_20190104_020976	Coleção: Spring Light Woods	컬렉션: 봄볕나무 숲				
+ITEM_20190104_020977	Coleção: 2nd Demon Prison	컬렉션: 제 2 마족 수감소	ITEM_20151224_008969	Coleção: 2nd Demon Prison	콜렉션:제 2 마족 수감소	
+ITEM_20190104_020978	Coleção: Nuoridin Falls	컬렉션: 누오로딘 폭포				
+ITEM_20190104_020979	Coleção: Namu Temple Ruins	컬렉션: 나뮤 사원터				
+ITEM_20190104_020980	Coleção: Istora Ruins	컬렉션: 이스토라 유적지				
+ITEM_20190104_020981	Coleção: Glade Hillroad	컬렉션: 글라데 언덕길				
+ITEM_20190104_020982	Coleção: Viltis Forest	컬렉션: 빌티스 숲				
+ITEM_20190104_020983	Coleção: Laukyme Swamp	컬렉션: 라우키메 저습지				
+ITEM_20190104_020984	Coleção: Tyla Monastery	컬렉션: 틸라 수도원				
+ITEM_20190104_020985	Coleção: Roxona Reconstruction Agency West Building	컬렉션: 록소나 재건단 서관				
+ITEM_20190104_020986	Coleção: Roxona Reconstruction Agency East Building	컬렉션: 록소나 재건단 동관				
+ITEM_20190104_020987	Coleção: Verkti Square	컬렉션: 베르크티 광장				
+ITEM_20190104_020988	Coleção: Roxona Marketplace	컬렉션: 록소나 장터				
+ITEM_20190104_020989	Coleção: Ruklys Street	컬렉션: 루클리스 거리				
+ITEM_20190104_020990	Coleção: Downtown	컬렉션: 중심시가				
+ITEM_20190104_020991	Coleção: Inner Enceinte District	컬렉션: 내성곽지구				
+ITEM_20190104_020992	Coleção: Mokusul Chamber	컬렉션: 모크슬 묘실				
+ITEM_20190104_020993	Coleção: Underground Grave of Ritinis	컬렉션: 리티니스 지하묘				
+ITEM_20190104_020994	Coleção: Videntis Shrine	컬렉션: 바이덴티스 신당				
+ITEM_20190104_020995	Coleção: Valius' Eternal Resting Place	컬렉션: 발류스의 영면지				
+ITEM_20190104_020996	Coleção: Lemprasa Pond	컬렉션: 렘파라사 연못				
+ITEM_20190104_020997	Coleção: Woods of the Linked Bridges	컬렉션: 덧댄다리 숲				
+ITEM_20190104_020998	Coleção: Paupys Crossing	컬렉션: 파우피스 나루				
+ITEM_20190104_020999	Coleção: Ashaq Underground Prison 1F	컬렉션: 아샤크 지하감옥 1층				
+ITEM_20190104_021000	Coleção: Ashaq Underground Prison 2F	컬렉션: 아샤크 지하감옥 2층				
+ITEM_20190104_021001	Coleção: Ashaq Underground Prison 3F	컬렉션: 아샤크 지하감옥 3층				
+ITEM_20190104_021002	Coleção: Koru Jungle	컬렉션: 코루 숲				
+ITEM_20190104_021003	Coleção: Knidos Jungle	컬렉션: 크니도스 숲				
+ITEM_20190104_021004	Coleção: Dadan Jungle	컬렉션: 다단 숲				
+ITEM_20190104_021005	Coleção: Nevellet Quarry 1F	컬렉션: 네밸랫 광산 1층				
+ITEM_20190104_021006	Coleção: Nevellet Quarry 2F	컬렉션: 네밸랫 광산 2층				
+ITEM_20190104_021007	Coleção: Novaha Assembly Hall	컬렉션: 노바하 공회소				
+ITEM_20190104_021008	Coleção: Novaha Annex	컬렉션: 노바하 별관				
+ITEM_20190104_021009	Coleção: Novaha Institute	컬렉션: 노바하 본원				
+ITEM_20190104_021010	Coleção: Karolis Springs	컬렉션: 카롤리스 샘터				
+ITEM_20190104_021011	Coleção: Letas Stream	컬렉션: 레타스 개울가				
+ITEM_20190104_021012	Coleção: Pelke Shrine Ruins	컬렉션: 펠케 신전터				
+ITEM_20190104_021013	Coleção: Absenta Reservoir	컬렉션: 압셈타 수원지				
+ITEM_20190104_021014	Coleção: Sienakal Graveyard	컬렉션: 시에나칼 묘역				
+ITEM_20190104_021015	Coleção: Carlyle's Mausoleum	컬렉션: 칼라일의 영묘				
+ITEM_20190104_021016	Coleção: Delmore Hamlet	컬렉션: 델무어 소작촌				
+ITEM_20190104_021017	Coleção: Delmore Manor	컬렉션: 델무어 장원				
+ITEM_20190104_021018	Coleção: Delmore Outskirts	컬렉션: 델무어 외성				
+ITEM_20190104_021019	Coleção: Feretory Hills	컬렉션: 페레토리 구릉				
+ITEM_20190104_021020	Coleção: Mochia Forest	컬렉션: 모치아 숲				
+ITEM_20190104_021021	Coleção: Sutatis Trade Route	컬렉션: 수타티스 교역로				
+ITEM_20190104_021022	Coleção: Topes Fortress 1F	컬렉션: 토페스 보루 1층				
+ITEM_20190104_021023	Coleção: Topes Fortress 2F	컬렉션: 토페스 보루 2층				
+ITEM_20190104_021024	Coleção: Bellai Rainforest	컬렉션: 벨라이 숲				
+ITEM_20190104_021025	Coleção: Zeraha	컬렉션: 제라하				
+ITEM_20190104_021026	Coleção: Seir Rainforest	컬렉션: 세이르 숲				
+ITEM_20190104_021027	Coleção: Galeed Plateau	컬렉션: 갈르엣 평야				
+ITEM_20190104_021028	Coleção: Fasika Plateau	컬렉션: 파사카 협곡				
+ITEM_20190104_021029	Coleção: Manahas	컬렉션: 마나하스				
+ITEM_20190104_021030	Coleção: Genar Field	컬렉션: 게나르 평원				
+ITEM_20190104_021031	Coleção: Sicarius 1F	컬렉션: 시카리오스 1층				
+ITEM_20190104_021032	Coleção: Sicarius 2F	컬렉션: 시카리오스 2층				
+ITEM_20190104_021033	Coleção: What Is Falchion	컬렉션: 폴쳔이란 무엇인가				
+ITEM_20190104_021034	Coleção: Bug Hater	컬렉션: 곤충 혐오				
+ITEM_20190104_021035	Coleção: Love of Foreign Lands	컬렉션: 이국 사랑				
+ITEM_20190104_021036	Coleção: Beginner Weapons	컬렉션: 초보자의 무기				
+ITEM_20190104_021037	Coleção: Beginner Armor	컬렉션: 초보자의 방어구				
+ITEM_20190104_021038	Coleção: Coastal Fortress	컬렉션: 연안요새				
+ITEM_20190104_021039	Coleção: Dingofasil	컬렉션: 딩고파실	ITEM_20160811_010938	Coleção: Dingofasil	콜렉션:딩고파실	
+ITEM_20190104_021040	Coleção: Vedas Plateau	컬렉션: 베다 고원				
+ITEM_20190104_021041	Coleção: Mesafasla	컬렉션: 메사파슬라				
+ITEM_20190104_021042	Coleção: Stogas Plateau	컬렉션: 스토가스 고원				
+ITEM_20190104_021043	Coleção: Nahash Forest	컬렉션: 나하스 숲				
+ITEM_20190104_021044	Coleção: Vera Coast	컬렉션: 베라 연안				
+ITEM_20190104_021045	Coleção: Elgos Monastery Annex	컬렉션: 엘고스 수도원 별관				
+ITEM_20190104_021046	Coleção: Elgos Monastery Main Building	컬렉션: 엘고스 수도원 본원				
+ITEM_20190104_021047	Coleção: Alemeth Forest	컬렉션: 알레멧 숲				
+ITEM_20190104_021048	Coleção: Barha Forest	컬렉션: 바르하 숲				
+ITEM_20190104_021049	Coleção: Cranto Coast	컬렉션: 크란토 연안				
+ITEM_20190104_021050	Coleção: Igti Coast	컬렉션: 이기티 연안				
+ITEM_20190104_021051	Coleção: Ibre Plateau	컬렉션: 이브레 고원				
+ITEM_20190104_021052	Coleção: Grand Yard Mesa	컬렉션: 마당 고원				
+ITEM_20190104_021053	Coleção: Sventimas Exile	컬렉션: 스벤티마스 유형지				
+ITEM_20190104_021054	Coleção: Kadumel Cliff	컬렉션: 카듀멜 절벽				
+ITEM_20190104_021055	Coleção: Steel Heights	컬렉션: 강철 고원				
+ITEM_20190104_021056	Coleção: Grynas Trails	컬렉션: 그리나스 숲길				
+ITEM_20190104_021057	Coleção: Grynas Training Camp	컬렉션: 그리나스 수련장				
+ITEM_20190104_021058	Coleção: Grynas Hills	컬렉션: 그리나스 구릉지				
+ITEM_20190104_021059	Coleção: Nheto Forest	컬렉션: 네토 숲				
+ITEM_20190104_021060	Coleção: Svalphinghas Forest	컬렉션: 스팔빈가스 숲				
+ITEM_20190104_021061	Coleção: Lhadar Forest	컬렉션: 라다르 숲				
+ITEM_20190104_021062	Coleção: Timerys Temple	컬렉션: 티메리스 사원				
+ITEM_20190104_021063	Coleção: Tevhrin Stalactite Cave Section 1	컬렉션: 테브린 종유동 1구역				
+ITEM_20190104_021064	Coleção: Tevhrin Stalactite Cave Section 2	컬렉션: 테브린 종유동 2구역				
+ITEM_20190104_021065	Coleção: Tevhrin Stalactite Cave Section 3	컬렉션: 테브린 종유동 3구역				
+ITEM_20190104_021066	Coleção: Tevhrin Stalactite Cave Section 4	컬렉션: 테브린 종유동 4구역				
+ITEM_20190104_021067	Coleção: Tevhrin Stalactite Cave Section 5	컬렉션: 테브린 종유동 5구역				
+ITEM_20190104_021068	Coleção: City Wall District 8	컬렉션: 도심성벽 제 8구역				
+ITEM_20190104_021069	Coleção: Jeromel Park	컬렉션: 제로멜 공원				
+ITEM_20190104_021070	Coleção: Jonael Memorial	컬렉션: 요나엘 기념구				
+ITEM_20190104_021071	Coleção: Taniel I Memorial	컬렉션: 타니엘 1세 기념구				
+ITEM_20190104_021072	Coleção: Kule Peak	컬렉션: 쿨레 고개				
+ITEM_20190104_021073	Coleção: Arcus Forest	컬렉션: 아르커스 숲				
+ITEM_20190104_021074	Coleção: Phamer Forest	컬렉션: 파마르 숲				
+ITEM_20190104_021075	Coleção: Ziburynas Forest	컬렉션: 지부리나스 숲				
+ITEM_20190104_021076	Coleção: Mollogheo Forest	컬렉션: 몰로게오 숲				
+ITEM_20190104_021077	Coleção: Zima Suecourt	컬렉션: 지마 수코트				
+ITEM_20190104_021078	Coleção: Emmet Forest	컬렉션: 에메트 숲				
+ITEM_20190104_021079	Coleção: Pystis Forest	컬렉션: 피스티스 숲				
+ITEM_20190104_021080	Coleção: Syla Forest	컬렉션: 실라 숲				
+ITEM_20190104_021081	Coleção: Alembique Cave	컬렉션: 알렘빅 동굴				
+ITEM_20190104_021082	Coleção: Nobreer Forest	컬렉션: 노브리어 숲				
+ITEM_20190104_021083	Coleção: Yudejan Forest	컬렉션: 유데이안 숲				
+ITEM_20190104_021084	Coleção: Token of the Demon Treaty	컬렉션: 여신과 마족의 서약				
+ITEM_20190104_021085	Coleção: Pasleptas	컬렉션: 패슬렙타스				
+ITEM_20190104_021086	Coleção: Coasts	컬렉션: 해안 지역				
+ITEM_20190104_021087	Coleção: Fantasy Library	컬렉션: 환상도서관 지역				
+ITEM_20190104_021088	Coleção: Narvas Temple	컬렉션: 나르바스 사원 지역				
+ITEM_20190104_021089	Coleção: Lanko Waters	컬렉션: 란코 수역				
+ITEM_20190104_021090	Coleção: Sage Master's Bookmark	컬렉션: 세이지 마스터의 책갈피				
+ITEM_20190104_021091	Coleção: Explorer Finds	컬렉션: 탐험 중의 발견				
+ITEM_20190104_021092	Coleção: Little Dexter's Gift	컬렉션: 대길이의 선물				
 ITEM_20190104_021093	Collection Exclusive Items	컬렉션 전용 아이템				
 ITEM_20190104_021094	A red bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 붉은색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 컬렉션 전용 아이템입니다.	ITEM_20180320_017615	A red bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 붉은색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 콜렉션 전용 아이템입니다.	
 ITEM_20190104_021095	An orange bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 주황색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 컬렉션 전용 아이템입니다.	ITEM_20180320_017617	An orange bookmark given by the Sage Master. It emits a faint but interesting energy. Collection item.	세이지 마스터가 준 주황색 책갈피입니다. 신기한 기운이 미약하게 느껴집니다. 콜렉션 전용 아이템입니다.	
@@ -21157,7 +21157,7 @@ ITEM_20190104_021142	A cube obtained from the Warlock Master. It contains an ite
 ITEM_20190104_021143	A cube obtained from Lucienne Winterspoon. It contains an item from one of the following collections: Nahash Forest, Vera Coast. Right-click to open.	루시엔 윈터스푼으로부터 얻은 큐브. 사용 시 나하스 숲 컬렉션에 들어가는 아이템이나, 베라 연안 컬렉션에 들어가는 아이템을 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	ITEM_20170313_013821	A cube obtained from Lucienne Winterspoon. It contains an item from one of the following collections: Nahash Forest, Vera Coast. Right-click to open.	루시엔 윈터스푼으로부터 얻은 큐브. 사용 시 나하스 숲 콜렉션에 들어가는 아이템이나, 베라 연안 콜렉션에 들어가는 아이템을 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	
 ITEM_20190104_021144	A cube obtained from Villager Duncan. It contains an item from one of the following collections: Elgos Monastery Annex, Elgos Monastery Main Building. Right-click to open.	마을 주민 던컨으로부터 얻은 큐브. 사용 시 엘고스 수도원 별관 컬렉션에 들어가는 아이템이나, 엘고스 수도원 본원 컬렉션에 들어가는 아이템을 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	ITEM_20170313_013823	A cube obtained from Villager Duncan. It contains an item from one of the following collections: Elgos Monastery Annex, Elgos Monastery Main Building. Right-click to open.	마을 주민 던컨으로부터 얻은 큐브. 사용 시 엘고스 수도원 별관 콜렉션에 들어가는 아이템이나, 엘고스 수도원 본원 콜렉션에 들어가는 아이템을 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	
 ITEM_20190104_021145	A cube obtained from Gatre. It contains an item from one of the following collections: Barha Forest, Alemeth Forest. Right-click to open.	가트레로부터 얻은 큐브. 사용 시 바르하 숲 컬렉션에 들어가는 아이템이나, 알레멧 숲 컬렉션에 들어가는 아이템을 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	ITEM_20170313_013825	A cube obtained from Gatre. It contains an item from one of the following collections: Barha Forest, Alemeth Forest. Right-click to open.	가트레로부터 얻은 큐브. 사용 시 바르하 숲 콜렉션에 들어가는 아이템이나, 알레멧 숲 콜렉션에 들어가는 아이템을 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	
-ITEM_20190104_021146	A cube obtained from Soldier Heulen. It contains an item from the following collection: Ibre Plateau. Right-click to open.	병사 하일른으로부터 얻은 큐브.사용 시 이브레 고원 컬렉션에 들어가는 아이템을 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	ITEM_20170313_013827	A cube obtained from Soldier Heulen. It contains an item from the following collection: Ibre Plateau. Right-click to open.	병사 하일른으로부터 얻은 큐브.사용 시 이브레 고원 콜렉션에 들어가는 아이템을 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	
+ITEM_20190104_021146	A cube obtained from Soldier Heulen. It contains an item from the following Coleção: Ibre Plateau. Right-click to open.	병사 하일른으로부터 얻은 큐브.사용 시 이브레 고원 컬렉션에 들어가는 아이템을 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	ITEM_20170313_013827	A cube obtained from Soldier Heulen. It contains an item from the following Coleção: Ibre Plateau. Right-click to open.	병사 하일른으로부터 얻은 큐브.사용 시 이브레 고원 콜렉션에 들어가는 아이템을 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	
 ITEM_20190104_021147	(Old) Velcoffer Cube	(구) 벨코퍼 큐브	ITEM_20180517_018427	Velcoffer Cube	벨코퍼 큐브	
 ITEM_20190104_021148	Ignas Raid Cube	이그나스 레이드 큐브				
 ITEM_20190104_021149	Spirit Fragment: Ignas	영혼 조각: 이그나스				
