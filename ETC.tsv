@@ -4717,9 +4717,9 @@ ETC_20150317_004716	{@st61} Normal Chat
 ETC_20150317_004717	And conversation
 ETC_20150317_004718	Normal
 ETC_20150317_004719	Equipe
-ETC_20150317_004720	Group
+ETC_20150317_004720	Grupo
 ETC_20150317_004721	Invite to chat
-ETC_20150317_004722	System
+ETC_20150317_004722	Sistema
 ETC_20150317_004723	{@st61} A new chat message has arrived! {/}
 ETC_20150317_004724	Minimum:
 ETC_20150317_004725	Maximum:
@@ -9462,7 +9462,7 @@ ETC_20150317_009462	Adventurer Varkis' Spirit
 ETC_20150317_009463	Solder's Dead Body
 ETC_20150317_009464	Sviesa Altar
 ETC_20150317_009465	High Crooked Road
-ETC_20150317_009466	Varkis' Records
+ETC_20150317_009466	Registro de Varkis
 ETC_20150317_009467	Royal Mausoleum Guardian Device
 ETC_20150317_009468	Lv1 Treasure Chest
 ETC_20150317_009469	Derrote the Woodspirit Quest trigger
@@ -34820,7 +34820,7 @@ ETC_20180704_034784	User Connection Unavailable Log
 ETC_20180704_034785	IPF Verification
 ETC_20180704_034786	Territory Wars State Transition (ms)
 ETC_20180704_034787	'Manter Potencial' Desmarcado.{Nl} {nl}Se não for marcado, o item perderá {@ st66d_y}-1 Potencial{/} depois de alterar sua aparência.{nl}Usar um Weapon Appearance Material manterá o Potencial do item intacto.{nl}Continuar?
-ETC_20180704_034788	Cannot sell.
+ETC_20180704_034788	Não pode ser vendido.
 ETC_20180709_034789	Top trees display period (30 days)
 ETC_20180709_034790	Last = Rank 9
 ETC_20180709_034791	TOP 3 Trees
@@ -36519,7 +36519,7 @@ ETC_20181017_036433	{TeamName}'s Table	{TeamName}의 배식대
 ETC_20181017_036434	Participation: {COUNT} time(s){nl}No. selected: {NUMLIST}{nl}Rewards	참여횟수 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상	ETC_20170313_027060	Total count: {COUNT}{nl}Selected numbers: {NUMLIST}{nl}Reward(	누적 출석 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상(	
 ETC_20181017_036435	Participation: 0{nl}Go to the Klaipeda, Orsha or Fedimian   	참여횟수 : 0회{nl}클라페다, 오르샤, 페디미안의 	ETC_20170313_027061	Total count: 0{nl}Go to the Klaipeda, Orsha or Fedimian  	누적 출석 : 0회{nl}클라페다, 오르샤, 페디미안의 	
 ETC_20181017_036436	Remaining Rewards	남은 보상	ETC_20170313_027063	Remaining rewards(	남은 보상(	
-ETC_20181017_036437	Attendance Rewards	출석보상				
+ETC_20181017_036437	Recompensas de Participação
 ETC_20181017_036438	Dainu Svente	다이누 슈벤테 이벤트				
 ETC_20181017_036439	Please select a costume.	축제용 코스튬을 선택해주세요				
 ETC_20181017_036440	Please select a toy.	축제용 장난감을 선택해주세요				
@@ -37543,14 +37543,14 @@ ETC_20190104_037457	You cannot carry more than {COUNT}!	{COUNT}개 이상 소지
 ETC_20190104_037458	You do not have enough stones.{nl}Collect more stoles from the rubble!	갖고있는 돌이 부족합니다{nl}돌더미에서 돌을 수집하세요!			
 ETC_20190104_037459	You do not have enough sand.{nl}Collect more sands from the sand pile!	갖고있는 모래가 부족합니다{nl}모래더미에서 모래를 수집하세요!			
 ETC_20190104_037460	You have used all Class Tree Change chances.	계열 변경 기회를 모두 사용하셨습니다			
-ETC_20190104_037461	{#33FF33}[{NAME}]{/} Character's Class Tree Change is available for another {#33FF33}[{DAYCOUNT} days]{/}.{#33FF33}You can visit 	{#33FF33}[{NAME}]{/}캐릭터의 계열변경 기간이 {#33FF33}[{DAYCOUNT}일]{/} 남았습니다.{nl}{#33FF33}클라페다 			
-ETC_20190104_037462	{/} in Klaipeda to change your Class Tree.	{/}를 통해 클래스 계열을 변경하실 수 있습니다			
-ETC_20190104_037463	Change Class Tree [Remaining: {DAYCOUNT} days]	클래스 계열을 변경한다 [남은 기간 : {DAYCOUNT} 일]			
-ETC_20190104_037464	Return to your original class [Remaining: {DAYCOUNT}]	변경 전 클래스 계열로 돌아간다 [남은 기간 : {DAYCOUNT}]			
-ETC_20190104_037465	{#33FF33}[{NAME}]{/} can revert back to the {#33FF33}[	{#33FF33}[{NAME}]{/}캐릭터의 이전 {#33FF33}[			
-ETC_20190104_037466	]{/} tree for another {#33FF33}[{DAYCOUNT} days]{/}.	]{/}계열로 변경 하실 수 잇는 기간이 {#33FF33}[{DAYCOUNT}일]{/} 남았습니다.			
-ETC_20190104_037467	Your character is not eligible for a Class Tree Change.	계열 변경 대상 캐릭터가 아닙니다			
-ETC_20190104_037468	The Class Tree Change period has expired for your character.	계열 변경 기간이 종료된 캐릭터 입니다			
+ETC_20190104_037461	{#33FF33}[{NAME}]{/} - Este personagem pode mudar de Classe base em até {#33FF33}[{DAYCOUNT} dias]{/}.{#33FF33} Procure pela 
+ETC_20190104_037462	{/} em Klaipeda para mudar de Classe Base.
+ETC_20190104_037463	Mudar de Classe Base [Restam: {DAYCOUNT} dias]
+ETC_20190104_037464	Voltar para Classe Base original [Restam: {DAYCOUNT} dias]
+ETC_20190104_037465	{#33FF33}[{NAME}]{/} - Este personagem pode voltar para {#33FF33}[
+ETC_20190104_037466	]{/} em até {#33FF33}[{DAYCOUNT} dias]{/}.
+ETC_20190104_037467	O seu personagem não pode trocar de Classe Base.
+ETC_20190104_037468	O período para trocar de Classe Base expirou para o personagem
 ETC_20190104_037469	{@st64}Pontos de Classe foram entregues.{nl}Clique no botão 
 ETC_20190104_037470	Info de Avanço {img sysmenu_jobinfo}
 ETC_20190104_037471	{nl}para mudar de classe.
