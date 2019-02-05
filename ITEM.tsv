@@ -17722,11 +17722,11 @@ ITEM_20180320_017707	Lv 250 Challenge Cube
 ITEM_20180320_017708	Shining Golden Socket
 ITEM_20180320_017709	Helgasercle Card
 ITEM_20180320_017710	[Grimório] Invoca Helgasercle ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}1s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}301% {img test_cooltime 21 21}30s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}231% {img test_cooltime 21 21}50s (Mágico)
-ITEM_20180320_017711	{@st42}{s17}{#f7bd00}Demon Lord Marnox Card
-ITEM_20180320_017712	{@st41b}{s16}{#f7bd00}|Efeito| Taxa de Crítico mínima +[{img star_mark 20 20}*2]%
+ITEM_20180320_017711	Demon Lord Marnox Card
+ITEM_20180320_017712	[Efeito] Chance Mínima de Crítico +[{img star_mark 20 20}*2]%
 ITEM_20180320_017713	[Grimório] Invoca Demon Lord Marnox ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 22 22}Ataque: {img tooltip_speedofatk 20 20}296%{s15} {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 21 21}Skill 1: {img tooltip_speedofatk 20 20}423% {img test_cooltime 21 21}20s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}287%{img attri_Fire 20 20} {img test_cooltime 21 21}35s (Mágico)
-ITEM_20180320_017714	{@st42}{s17}{#f7bd00}Demon Lord Blut Card
-ITEM_20180320_017715	{@st41b}{s16}{#f7bd00}|Efeito| Reduz em [{img star_mark 20 20}*3]% o dano recebido em PVP
+ITEM_20180320_017714	Demon Lord Blut Card
+ITEM_20180320_017715	[Efeito] [{img star_mark 20 20}*3]% de redução do dano recebido no PVP
 ITEM_20180320_017716	[Grimório] Invoca Demon Lord Blut ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}513% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}261% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}155% {img test_cooltime 21 21}30s (Mágico)
 ITEM_20180320_017717	Demon Lord Zaura Card
 ITEM_20180320_017718	[Efeito] Defesa Física +[{img star_mark 20 20}*10]%
@@ -17735,17 +17735,17 @@ ITEM_20180320_017720	Demon Lord Nuaele Card
 ITEM_20180320_017721	[Efeito] Defesa Mágica +[{img star_mark 20 20}*10]%
 ITEM_20180320_017722	[Grimório] Invoca Demon Lord Nuaele ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}513% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}220% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}241% {img test_cooltime 21 21}30s (Mágico)
 ITEM_20180320_017723	Demon Lord Helgasercle Card
-ITEM_20180320_017724	{@st41b}{s16}{#f7bd00}|Efeito| Recupera [{img star_mark 20 20}*20] de SP por monstro derrotado
+ITEM_20180320_017724	[Efeito] Recupera [{img star_mark 20 20}*20] de SP por monstro derrotado
 ITEM_20180320_017725	[Grimório] Invoca Demon Lord Helgasercle ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}1s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}301% {img test_cooltime 21 21}30s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}231% {img test_cooltime 21 21}50s (Mágico)
 ITEM_20180320_017726	Demon Lord Rexipher Card
-ITEM_20180320_017727	{@st41b}{s16}{#f7bd00}|Efeito| Aumenta a Velocidade de Movimento em +[{img star_mark 20 20}]
+ITEM_20180320_017727	[Efeito] Velocidade de Movimento +[{img star_mark 20 20}]
 ITEM_20180320_017728	[Grimório] Invoca Demon Lord Rexipher ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}275% {img test_cooltime 21 21}10s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}486% {img test_cooltime 21 21}30s (Mágico)
 ITEM_20180320_017729	Demon Lord Mirtis Card
-ITEM_20180320_017730	{@st41b}{s16}{#f7bd00}|Efeito| Reduz as penalidades de propriedade em [{img star_mark 20 20} * 10]% 
+ITEM_20180320_017730	[Efeito] Reduz as penalidades elementais em [{img star_mark 20 20}*10]%
 ITEM_20180320_017731	[Grimório] Invoca Demon Lord Mirtis ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}226% {img test_cooltime 21 21}7s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}413%	{img test_cooltime 21 21}30s (Mágico)
-ITEM_20180320_017732	{@st42}{s16}{#f7bd00}Prodigious Kucarry Balzermancer Card
-ITEM_20180320_017733	{@st41b}{s16}{#f7bd00} Ganho de EXP +[{img star_mark 20 20}]%
-ITEM_20180320_017734	{@st42}{s17}{#f7bd00}Heretic Pantorex Card
+ITEM_20180320_017732	Prodigious Kucarry Balzermancer Card
+ITEM_20180320_017733	[Efeito] Ganho de EXP +[{img star_mark 20 20}]%
+ITEM_20180320_017734	Heretic Pantorex Card
 ITEM_20180320_017735	[Efeito] Aumenta o dano contra monstros da raça Fera em [{img star_mark 20 20}*7]%
 ITEM_20180320_017737	Use para upar cartas Lendárias até o Nv 4.{nl}Não pode ser equipado ou usado para upar cartas que não são Lendárias.
 ITEM_20180320_017738	Old Legend Enhancement Card
@@ -18458,9 +18458,9 @@ ITEM_20180517_018444	[Poison Pot Equip Effect] Activates a Plokste skill when us
 ITEM_20180517_018445	[Poison Pot Equip Effect] Activates a Velnewt skill when using Poison Pot
 ITEM_20180517_018446	[Poison Pot Equip Effect] Activates a Velpede skill when using Poison Pot
 ITEM_20180517_018447	[Poison Pot Equip Effect] Activates a Canceril skill when using Poison Pot
-ITEM_20180517_018448	{@st42}{s15}{#f7bd00}Prodigious Kugheri Balzermancer Card
-ITEM_20180517_018449	{@st42}{s17}{#f7bd00}Velcoffer Card
-ITEM_20180517_018450	{@st41b}{s16}{#f7bd00}|Efeito|Reduz o dano recebido de monstros em [{img star_mark 20 20} * 3]%
+ITEM_20180517_018448	Prodigious Kugheri Balzermancer Card
+ITEM_20180517_018449	Velcoffer Card
+ITEM_20180517_018450	[Efeito] Reduz o dano recebido de monstros em [{img star_mark 20 20} * 3]%
 ITEM_20180517_018451	Broadhead Arrow	브로드 헤드 애로우				
 ITEM_20180517_018452	Helps awaken an item without reducing the potential of the equipment. Usable for 14 days after being acquired.
 ITEM_20180517_018453	Helps awaken an item without reducing the potential of the equipment. Usable for 1 minute after being acquired.
@@ -18832,7 +18832,7 @@ ITEM_20180629_018818	Tool used in the extraction of Ichors. Can be purchased fro
 ITEM_20180629_018819	Silver Ichor Extraction Kit
 ITEM_20180629_018820	Tool used in the extraction of Ichors. It does not require consumables.
 ITEM_20180629_018821	[Efeito] [{img star_mark 20 20}/2]% de chance, por ataque, de causar [Frostbite] em um inimigo por 4 segundos.{nl}(Não aplica em monstros do tipo Chefe)
-ITEM_20180629_018822	{#000000}|Efeito| Attack property penalties reduced by [{img star_mark 20 20} * 10]%. 
+ITEM_20180629_018822	[Efeito] Penalidades de ataques elementais reduzidos em [{img star_mark 20 20} * 10]%
 ITEM_20180629_018823	Bodkin Point Arrow	보드킨 포인트 애로우				
 ITEM_20180629_018824	It is a small rock.
 ITEM_20180629_018825	6-Star Gem Abrasive
@@ -19431,7 +19431,7 @@ ITEM_20180827_019417	Lv 100 Challenge Cube
 ITEM_20180827_019418	Varle King Card		
 ITEM_20180827_019419	[Efeito] Taxa de Cura +[{img star_mark 20 20}*5]
 ITEM_20180827_019420	Demon Lord Froster Lord Card
-ITEM_20180827_019421	{@st41b}{s16}{#f7bd00}|Efeito| Reduz a diferença entre o ataque min. e max. das invocações em [{img star_mark 20 20} * 10]%{nl}(No nível 10, o ataque mínimo é igual ao valor do ataque máx.)
+ITEM_20180827_019421	[Efeito] Reduz a diferença entre ataque mínimo e máximo das invocações em [{img star_mark 20 20} * 10]%{nl}(No nível 10, o ataque mínimo é igual ao ataque máximo)
 ITEM_20180827_019422	{nl} {nl}[Grimório] Invoca Demon Lord Froster Lord ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}188% {img test_cooltime 21 21}12s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}180% {img test_cooltime 21 21}25s (Mágico)
 ITEM_20180827_019423	Ripped Book	찢어진 책장	ITEM_20180320_017771	Bookshelf of Ripped Books	찢어진 책의 책장
 ITEM_20180827_019424	Ripped pages of a book. Collect them and wait for something good to happen.	일부분만 적혀있는 찢어진 책의 책장입니다. 모으면 나중에 좋은 일이 있을 것 같습니다.	ITEM_20180320_017772	A page ripped off a book, like the kind the Sage Master is collecting. Gather a few of these pages and take them to the Sage Master to exchange them for something else.	세이지 마스터가 최근 모으고 있다는 찢어진 책의 책장입니다. 책장을 모아 세이지 마스터에게 가져다주면 책 또는 아이템으로 교환해줍니다.
@@ -19852,10 +19852,10 @@ ITEM_20181017_019838	Collect 50 recipe fragments and use to obtain either a full
 ITEM_20181017_019839	Magic Research Facility Raid Cube	마법 실험 구역 레이드 큐브				
 ITEM_20181017_019840	Spirit Fragment: Wastrel	영혼 조각: 웨이스트럴				
 ITEM_20181017_019841	Collect 50 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.	레시피 조각 50개를 모아서 사용하면 레서피 혹은 완제품을 얻을 수 있습니다.  마우스 오른쪽 버튼 클릭으로 사용합니다.				
-ITEM_20181017_019842	Asiomage Card	아시오 메이지 카드				
-ITEM_20181017_019843	[Card Equip Effect] Critical Rate +[{img star_mark 20 20}*15]	[슬롯 장착 효과] 치명타 발생 +[★ * 15]				
-ITEM_20181017_019844	Wastrel Card	웨이스트럴 카드				
-ITEM_20181017_019845	[Card Equip Effect] Maximum HP +[{img star_mark 20 20}*500]	[슬롯 장착 효과] 최대 HP +[★ * 500]				
+ITEM_20181017_019842	Asiomage Card
+ITEM_20181017_019843	[Efeito] Taxa de Crítico +[{img star_mark 20 20}*15]
+ITEM_20181017_019844	Wastrel Card
+ITEM_20181017_019845	[Efeito] HP Máximo +[{img star_mark 20 20}*500]
 ITEM_20181017_019846	A mystical hammer said to dismantle everything it touches. Its mysterious powers seem to have run out.	닿은 것을 분해하는 힘이 있는 신비한 망치로 알려졌습니다. 신비한 힘이 다했는지 작동하지 않습니다.	ITEM_20180208_017512	A hammer with mysterious powers that allow it to dismantle all that it touches. Used to extract Blessed Shards.	닿은 것을 분해하는 힘이 있는 신비한 망치입니다. 축복받은 조각 추출에 사용되는 재료입니다.	
 ITEM_20181017_019847	Said to absorb magic from its surroundings. Now, it no longer reacts to magic energy.	여기저기 솟아난 침은 주변의 마력을 흡수했다고 알려졌습니다. 현재는 마력에 반응하지 않습니다.	ITEM_20160811_011116	Absorbs magic from its surroundings. Used to extract items.	여기저기 솟아난 침은 주변의 마력을 흡수합니다. 아이템 추출에 사용되는 재료입니다.	
 ITEM_20181017_019848	Spotted Baby Pig Egg	얼룩 아기 돼지 알				
@@ -21182,10 +21182,10 @@ ITEM_20190104_021167	[Efeito] Dano Fisico +[{img star_mark 20 20}]% por 6 segund
 ITEM_20190104_021168	[Efeito] Ataque Crítico Físico +[{img star_mark 20 20}*20]
 ITEM_20190104_021169	[Efeito] Ataque Crítico Mágico +[{img star_mark 20 20}*10]
 ITEM_20190104_021170	[Efeito] Dano Mágico +[{img star_mark 20 20}]% por 6 segundos após usar qualquer poção de SP
-ITEM_20190104_021171	Ignas Card	이그나스 카드				
-ITEM_20190104_021172	[Card Equip Effect] [{img star_mark 20 20}*5]% chance per critical attack of entering stealth state for 6 seconds	[슬롯 장착 효과] 치명타 공격시 [★ * 5]% 확률로 6초 동안 은신합니다.				
+ITEM_20190104_021171	Ignas Card
+ITEM_20190104_021172	[Efeito] [{img star_mark 20 20}*5]% de chance, por ataque crítico, de ficar escondido por 6 segundos
 ITEM_20190104_021173	[Grimoire Equip Effect] Summons Ignas when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 이그나스 형태의 악마 소환				
-ITEM_20190104_021174	Boruta Card	보루타 카드				
+ITEM_20190104_021174	Boruta Card
 ITEM_20190104_021175	[Efeito] Aumenta o dano contra monstros do tipo Chefe em [{img star_mark 20 20}*5]%
 ITEM_20190104_021176	Ripped pages of a book. Collect them and wait for something good to happen.	일부분만 적혀있는 찢어진 책장입니다. 모으면 나중에 좋은 일이 있을 것 같습니다.	ITEM_20180827_019424	Ripped pages of a book. Collect them and wait for something good to happen.	일부분만 적혀있는 찢어진 책의 책장입니다. 모으면 나중에 좋은 일이 있을 것 같습니다.	
 ITEM_20190104_021177	GTW Coin [Event]	콜로니전 기념 주화 [이벤트]				
