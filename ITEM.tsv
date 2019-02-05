@@ -11027,7 +11027,7 @@ ITEM_20160811_011025	{#000000}|Efeito| 1% da dano adicional quando atacar monstr
 ITEM_20160811_011026	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido de ataques do elemento trevas{nl} {nl}[Grimório] invoca Abomination quando usar a skill Summoning
 ITEM_20160811_011027	{#000000}|Efeito| resistência elementar: trevas +[{img star_mark 20 20}]{nl} {nl}[Grimório] invoca Unknocker quando usar a skill Summoning
 ITEM_20160811_011028	{#000000}|Efeito| 1% de dano adicional contras monstros do elemento elétrico
-ITEM_20160811_011029	{#000000}|Efeito| DEX +[{img star_mark 20 20}]{nl} {nl}[Grimório] invoca Ellaganos quando usar a skill Summoning
+ITEM_20160811_011029	[Efeito] DEX +[{img star_mark 20 20}]{nl}[Grimório] Invoca Ellaganos ao utilizar [Summoning]
 ITEM_20160811_011030	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: divino em +[{img star_mark 20 20}] por 7 segundos qunado atacar monstros do tipo pequeno
 ITEM_20160811_011031	[Efeito] Resistência Elemental: Divino +[{img star_mark 20 20}]
 ITEM_20160811_011032	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de Ataques serem considerados como ataques pelas costas.
@@ -11062,12 +11062,12 @@ ITEM_20160811_011060	{#000000}|Efeito| Recuperação de HP, SP +1%
 ITEM_20160811_011061	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: terra +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
 ITEM_20160811_011062	{#000000}|Efeito| Defesa física +[{img star_mark 20 20}]
 ITEM_20160811_011063	{#000000}|Efeito| Precisão +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Naktis quando usar a skill Summoning
-ITEM_20160811_011064	{#000000}|Efeito| SPR +[{img star_mark 20 20}]{/}
+ITEM_20160811_011064	[Efeito] SPR +[{img star_mark 20 20}]
 ITEM_20160811_011065	{#000000}|Efeito| 5% de chance de ser ressuscitado com [{img star_mark 20 20}]% do HP quando morrer em combate{nl} {nl}[Grimório] Invoca Dullahan quando usar a skill Summoning
 ITEM_20160811_011066	{#000000}|Efeito| resistência ao status cegueira +[{img star_mark 20 20}/2]%{nl} {nl}[Grimório] Invoca Riteris quando usar a skill Summoning
 ITEM_20160811_011067	[Efeito] Defesa Mágica +[{img star_mark 20 20}]%{nl}[Grimório] Invoca Nuaele ao utilizar [Summoning]
 ITEM_20160811_011068	{#000000}|Efeito| Efeito das poções de HP +[{img star_mark 20 20}]%{nl}[Poison Pot] Ativa a habilidade de Neop quando usar Poison Pot
-ITEM_20160811_011069	{#000000}|Efeito| CON +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Blut Quando usar a skill Summoning
+ITEM_20160811_011069	[Efeito] CON +[{img star_mark 20 20}]{nl}[Grimório] Invoca Blut ao utilizar [Summoning]
 ITEM_20160811_011070	{#000000}|Efeito| [Corte] Defesa +[{img star_mark 20 20}]
 ITEM_20160811_011071	{#000000}|Efeito| resistência ao status sangramento +[{img star_mark 20 20}/2]%
 ITEM_20160811_011072	{#000000}|Efeito| resistência critica +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade de Basilisk quando usar Poison Pot
@@ -13122,7 +13122,7 @@ ITEM_20161214_013120	 {#000000}|Efeito| +[Máximo{img star_mark 20 20}]% chance 
 ITEM_20161214_013121	[Grimório] Invoca Abomination ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}351% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}138% {img test_cooltime 21 21}15s {nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}263% {img test_cooltime 21 21}30s 
 ITEM_20161214_013122	[Efeito] Resistência Elemental: Trevas +[{img star_mark 20 20}]
 ITEM_20161214_013123	[Grimório] Invoca Unknocker ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}351% {img test_cooltime 21 21}1s (Impacto){nl}{img itemcraft_btn 23 23}Ataque 2: {img tooltip_speedofatk 20 20}396% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}30s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}166% {img test_cooltime 21 21}30s (Impacto){nl}{img itemcraft_btn 23 23}Skill 3: {img tooltip_speedofatk 20 20}363% {img test_cooltime 21 21}30s (Impacto)
-ITEM_20161214_013124	 {#000000}|Efeito| DEX +[{img star_mark 20 20}]
+ITEM_20161214_013124	[Efeito] DEX +[{img star_mark 20 20}]
 ITEM_20161214_013125	[Grimório] Invoca Ellaganos ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Ataque 2: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}297% {img test_cooltime 21 21}30s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}347% {img test_cooltime 21 21}6s (Impacto)
 ITEM_20161214_013126	 {#000000}|Efeito| 1% de dano adicional contras monstros do elemento Trevas
 ITEM_20161214_013127	[Grimório] Invoca Unicorn ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}204% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}363% {img test_cooltime 21 21}25s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}204% {img test_cooltime 21 21}25s (Corte)
@@ -13160,7 +13160,7 @@ ITEM_20161214_013158	[Efeito] Defesa Mágica +[{img star_mark 20 20}]%
 ITEM_20161214_013159	[Grimório] Invoca Nuaele ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}513% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}220% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}241% {img test_cooltime 21 21}30s (Mágico)
 ITEM_20161214_013160	 {#000000}|Efeito| Efeito de poções de HP +[{img star_mark 20 20}]%
 ITEM_20161214_013161	[Poison Pot] Ativa a habilidade do Neop quando usar Poison Pot
-ITEM_20161214_013162	 {@st41b}{s16}{#f98d00}|Efeito| CON +[{img star_mark 20 20}]
+ITEM_20161214_013162	[Efeito] CON +[{img star_mark 20 20}]
 ITEM_20161214_013163	[Grimório] Invoca Blut ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}513% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}261% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}155% {img test_cooltime 21 21}30s (Mágico)
 ITEM_20161214_013164	 {#000000}|Efeito| Resistência a Crítico +[{img star_mark 20 20}]
 ITEM_20161214_013165	[Poison Pot] Ativa a habilidade do Basilisk quando usar Poison Pot
@@ -15568,7 +15568,7 @@ ITEM_20170912_015560	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de usa
 ITEM_20170912_015561	[Efeito] Defesa contra Impacto +[{img star_mark 20 20}*10]
 ITEM_20170912_015562	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros voadores.
 ITEM_20170912_015563	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o dano contra armadura tipo Metal.
-ITEM_20170912_015564	{#000000}|Efeito| STR +[{img star_mark 20 20}]
+ITEM_20170912_015564	[Efeito] STR +[{img star_mark 20 20}]
 ITEM_20170912_015565	{#000000}|Efeito| Dano Elemental Trevas{img attri_Dark 20 20} +[{img star_mark 20 20}*10]
 ITEM_20170912_015566	{#000000}|Efeito| Ataque Crítico +[{img star_mark 20 20}*20]
 ITEM_20170912_015567	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros Mutantes.
@@ -15581,7 +15581,7 @@ ITEM_20170912_015573	{#000000}|Efeito| [{img star_mark 20 20}/3]% chance do ataq
 ITEM_20170912_015574	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 3% SP quando atingido por monstros grandes
 ITEM_20170912_015575	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 5% SP após derrotar monstros do tipo Mutante
 ITEM_20170912_015576	{#000000}|Efeito| Velocidade de Movimento +[{img star_mark 20 20}/5] por 10 segundos quando usar pílilas de Stamina
-ITEM_20170912_015577	{#000000}|Efeito| STR +[{img star_mark 20 20}/2], DEX +[{img star_mark 20 20}/2]
+ITEM_20170912_015577	[Efeito] STR +[{img star_mark 20 20}/2], DEX +[{img star_mark 20 20}/2]
 ITEM_20170912_015578	{#000000}|Efeito| Recuperação de SP +[{img star_mark 20 20} * 6]
 ITEM_20170912_015579	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano em monstros de propriedade de Gelo
 ITEM_20170912_015580	[Efeito] Ataque Mágico +[{img star_mark 20 20}*7] ao utilizar armas do tipo Impacto
@@ -15589,7 +15589,7 @@ ITEM_20170912_015581	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dan
 ITEM_20170912_015582	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o danos em inimigos que usam couro
 ITEM_20170912_015583	{#000000}|Efeito| +[{img star_mark 20 20}]% de dano contra inimigos petrificados
 ITEM_20170912_015584	{#000000}|Efeito| Block +[{img star_mark 20 20} * 2]
-ITEM_20170912_015585	{#000000}|Efeito| DEX +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
+ITEM_20170912_015585	[Efeito] DEX +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
 ITEM_20170912_015586	{@st41b}{s16}{#f98d00}|Efeito| Aumenta o dano em [{img star_mark 20 20}/2]% contra mosntros de tamanho Pequeno
 ITEM_20170912_015587	{#000000}|Efeito| Velocidade de Ataque{img tooltip_speedofatk} +[{img star_mark 20 20}] quando equipado com armas de duas mãos
 ITEM_20170912_015588	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros da propriedade Terra
@@ -15609,8 +15609,8 @@ ITEM_20170912_015601	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recupe
 ITEM_20170912_015602	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 5% de SP ao derrotar monstros da propriedade Veneno
 ITEM_20170912_015603	{#000000}|Efeito| +[{img star_mark 20 20}]% de dano contra inimigos Dormindo
 ITEM_20170912_015604	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano em monstros de propriedade Fogo
-ITEM_20170912_015605	{#000000}|Efeito| DEX +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
-ITEM_20170912_015606	{#000000}|Efeito| SPR +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
+ITEM_20170912_015605	[Efeito] DEX +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
+ITEM_20170912_015606	[Efeito] SPR +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
 ITEM_20170912_015607	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano em monstros de propriedade Elétrico
 ITEM_20170912_015608	{#000000}|Efeito| Danos de propriedade Divina +[{img star_mark 20 20}*10]
 ITEM_20170912_015609	[Efeito] Resistência Elemental: Divino +[{img star_mark 20 20}*10]
@@ -15642,7 +15642,7 @@ ITEM_20170912_015634	[Efeito] Resistência Elemental: Trevas +[{img star_mark 20
 ITEM_20170912_015635	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 1% do SP quando atingido por monstros do tipo 'Medium'
 ITEM_20170912_015636	{#000000}|Efeito| Resistencia de estado de sono +[{img star_mark 20 20}*2]%
 ITEM_20170912_015637	{#000000}|Efeito| HP Maximo +[{img star_mark 20 20}*90], SP Maximo +[{img star_mark 20 20}*15]
-ITEM_20170912_015638	{#000000}|Efeito| STR +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
+ITEM_20170912_015638	[Efeito] STR +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
 ITEM_20170912_015639	[Efeito] Defesa Física +[{img star_mark 20 20}*10]
 ITEM_20170912_015640	{#000000}|Efeito| Precisão +[{img star_mark 20 20}*1.5]
 ITEM_20170912_015641	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de ressuscitar com 10% de HP depois de se tornar incapaz de combater
@@ -15652,10 +15652,10 @@ ITEM_20170912_015644	{#000000}|Efeito| Resistência de estado de sangramento +[{
 ITEM_20170912_015645	{#000000}|Efeito| Resistência a Crítico +[{img star_mark 20 20}*2]
 ITEM_20170912_015646	[Efeito] Ataque +[{img star_mark 20 20}*7] ao utilizar armas do tipo Corte
 ITEM_20170912_015647	[Efeito] Ataque Físico +[{img star_mark 20 20}*5]
-ITEM_20170912_015648	{#000000}|Efeito| INT +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2] 
+ITEM_20170912_015648	[Efeito] INT +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
 ITEM_20170912_015649	{#000000}|Efeito| [{img star_mark 20 20}]% chance of recovering 0.5% HP when hit by Small-type monsters
 ITEM_20170912_015650	{#000000}|Efeito| [{img star_mark 20 20}/3]% chance per attack of increasing movement speed +4 for 6 seconds
-ITEM_20170912_015651	{#000000}|Efeito| INT +[{img star_mark 20 20}] 
+ITEM_20170912_015651	[Efeito] INT +[{img star_mark 20 20}]
 ITEM_20170912_015652	{#000000}|Efeito| Increases [{img star_mark 20 20}]% damage against knocked-down enemies
 ITEM_20170912_015653	{#000000}|Efeito| Dano Elemental Elétrico +[{img star_mark 20 20}*10]
 ITEM_20170912_015654	{#000000}|Efeito| Resistência a Atordoar +[{img star_mark 20 20}], Resistência a Dormir +[{img star_mark 20 20}]
@@ -15666,9 +15666,9 @@ ITEM_20170912_015658	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de rec
 ITEM_20170912_015659	{#000000}|Efeito| Resistência a Atordoar +[{img star_mark 20 20} * 2]%
 ITEM_20170912_015660	[Efeito] Atq. Físico Secundário +[{img star_mark 20 20}*3]
 ITEM_20170912_015661	{#000000}|Efeito| Dano Elemental Gelo{img attri_Ice 20 20} +[{img star_mark 20 20}*10]
-ITEM_20170912_015662	{#000000}|Efeito| STR +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2] 
+ITEM_20170912_015662	[Efeito] STR +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
 ITEM_20170912_015663	{#000000}|Efeito| Dano Elemental Fogo{img attri_Fire 20 20} +[{img star_mark 20 20}*10]
-ITEM_20170912_015664	{#000000}|Efeito| INT +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2] 
+ITEM_20170912_015664	[Efeito] INT +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
 ITEM_20170912_015665	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de recuperar 3% de HP quando atingido por monstros de tamanho Grande
 ITEM_20170912_015666	[Efeito] Resistência Elemental: Fogo +[{img star_mark 20 20}*10]
 ITEM_20170912_015667	Marnox Card
@@ -17442,12 +17442,12 @@ ITEM_20180208_017427	{#000000}|Efeito| [{img star_mark 20 20}/3]% chance por ata
 ITEM_20180208_017428	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 3% do SP quando for atacado por monstros Grandes {nl}Recarga de 5s
 ITEM_20180208_017429	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 5% do SP depois de derrotar monstros Mutantes
 ITEM_20180208_017430	{#000000}|Efeito| Velocidade de Movimento +[{img star_mark 20 20}/5] por 10 segundos depois de usar poção de Stamina
-ITEM_20180208_017431	{#000000}|Efeito| STR +[{img star_mark 20 20}/2], DEX +[{img star_mark 20 20}/2]
+ITEM_20180208_017431	[Efeito] STR +[{img star_mark 20 20}/2], DEX +[{img star_mark 20 20}/2]
 ITEM_20180208_017432	[Efeito] Aumenta o dano contra monstros do elemento Gelo em [{img star_mark 20 20}]%
 ITEM_20180208_017433	[Efeito] Aumenta o dano contra monstros da raça Demônio em [{img star_mark 20 20}]%
 ITEM_20180208_017434	[Efeito] Aumenta o dano contra inimigos com armadura de Couro em [{img star_mark 20 20}/2]%
 ITEM_20180208_017435	[Efeito] Aumenta o dano contra inimigos sob efeito de [Petrify] em [{img star_mark 20 20}]%
-ITEM_20180208_017436	{#000000}|Efeito| DEX +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
+ITEM_20180208_017436	[Efeito] DEX +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
 ITEM_20180208_017437	[Efeito] Aumenta o dano contra monstros de tamanho Pequeno em [{img star_mark 20 20}/2]%
 ITEM_20180208_017438	{#000000}|Efeito| Velocidade de Ataque +[{img star_mark 20 20}] quando equipado com espadas de duas mãos
 ITEM_20180208_017439	[Efeito] Aumenta o dano contra monstros do elemento Terra em [{img star_mark 20 20}]%
@@ -17460,8 +17460,8 @@ ITEM_20180208_017445	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recupe
 ITEM_20180208_017446	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 5% do SP ao derrotar monstros do elemento Veneno
 ITEM_20180208_017447	[Efeito] Aumenta o dano contra monstros sob efeito de [Sleep] em [{img star_mark 20 20}]%
 ITEM_20180208_017448	[Efeito] Aumenta o dano contra monstros do elemento Fogo em [{img star_mark 20 20}]%
-ITEM_20180208_017449	{#000000}|Efeito| DEX +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
-ITEM_20180208_017450	{#000000}|Efeito| SPR +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
+ITEM_20180208_017449	[Efeito] DEX +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
+ITEM_20180208_017450	[Efeito] SPR +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
 ITEM_20180208_017451	[Efeito] Aumenta o dano contra monstros do elemento Raio em [{img star_mark 20 20}]%
 ITEM_20180208_017452	{#000000}|Efeito| [{img star_mark 20 20}]% chance dos ataques serem registados como por trás
 ITEM_20180208_017453	[Efeito] Aumenta o dano contra monstros do elemento Trevas em [{img star_mark 20 20}]%
@@ -17488,17 +17488,17 @@ ITEM_20180208_017473	{#000000}|Efeito| [{img star_mark 20 20}]% chance de ressus
 ITEM_20180208_017474	{#000000}|Efeito| Resistência a Sangramento  +[{img star_mark 20 20}*2]%
 ITEM_20180208_017475	{#000000}|Efeito| Resistência ao Crítico +[{img star_mark 20 20}*2]
 ITEM_20180208_017476	[Efeito] Ataque +[{img star_mark 20 20}*7] ao utilizar armas do tipo Corte
-ITEM_20180208_017477	{#000000}|Efeito| DEX +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
+ITEM_20180208_017477	[Efeito] INT +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
 ITEM_20180208_017478	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 0.5% do HP quando atacado por monstros Pequenos{nl}Tempo de recarga de 15 s
 ITEM_20180208_017479	{#000000}|Efeito| [{img star_mark 20 20}/3]% chance por ataque de aumentar a velocidade de movimento em +4 por 6 segundos
-ITEM_20180208_017480	{#000000}|Efeito| INT +[{img star_mark 20 20}]
+ITEM_20180208_017480	[Efeito] INT +[{img star_mark 20 20}]
 ITEM_20180208_017481	[Efeito] Aumenta o dano contra inimigos derrubados em [{img star_mark 20 20}]%
 ITEM_20180208_017482	{#000000}|Efeito| Resistência a Atordoar +[{img star_mark 20 20}], Resistência a Dormir +[{img star_mark 20 20}]
 ITEM_20180208_017483	[Efeito] Defesa Mágica +[{img star_mark 20 20}]% por 10 segundos após usar qualquer poção de HP
 ITEM_20180208_017484	{#000000}|Efeito| [{img star_mark 20 20}/3]% chance por ataque de desacelerar o inimigo por 3 segundos
 ITEM_20180208_017485	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 2% do HP quando atacado por monstros Médios{nl}Tempo de recarga de 15 s
-ITEM_20180208_017486	{#000000}|Efeito| STR +[{img star_mark 20 20}/2], DEX +[{img star_mark 20 20}/2]
-ITEM_20180208_017487	{#000000}|Efeito| DEX +[{img star_mark 20 20}/2], INT +[{img star_mark 20 20}/2]
+ITEM_20180208_017486	[Efeito] STR +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
+ITEM_20180208_017487	[Efeito] INT +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
 ITEM_20180208_017488	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 3% do HP quando atacado por monstros Grandes{nl}Tempo de recarga 15 s
 ITEM_20180208_017489	[Efeito] Aumenta o dano contra inimigos sob efeito de [Bleeding] em [{img star_mark 20 20}]%
 ITEM_20180208_017490	{#000000}|Efeito| Aumenta a Provocação por ataque +[{img star_mark 20 20}]%
@@ -17511,14 +17511,14 @@ ITEM_20180208_017496	Succubus Card
 ITEM_20180208_017497	{#000000}|Efeito| Provocação por ataque -[{img star_mark 20 20}]%
 ITEM_20180208_017498	[Grimório] Invoca Succubus ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}453% {img test_cooltime 21 21}1s (Empurra){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}531% {img test_cooltime 21 21}30s {nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}443% {img test_cooltime 21 21}50s 
 ITEM_20180208_017499	Stone Froster Card
-ITEM_20180208_017500	{#000000}|Efeito| CON +[{img star_mark 20 20}*1.5] por 10 seg ao usar poções de HP
+ITEM_20180208_017500	[Efeito] CON +[{img star_mark 20 20}*1.5] por 10 segundos após usar qualquer poção de HP
 ITEM_20180208_017501	Rafene Card
-ITEM_20180208_017502	{#000000}|Efeito| STR, CON, INT, SPR, DEX +[{img star_mark 20 20}/3]
+ITEM_20180208_017502	[Efeito] STR, CON, INT, SPR, DEX +[{img star_mark 20 20}/3]
 ITEM_20180208_017503	Lavenzard Card
-ITEM_20180208_017504	{#000000}|Efeito| SPR +[{img star_mark 20 20}*1.5] por 10 seg ao usar poções de SP
+ITEM_20180208_017504	[Efeito] SPR +[{img star_mark 20 20}*1.5] por 10 segundos após usar qualquer poção de SP
 ITEM_20180208_017505	[Grimório] Invoca Lavenzard ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}492% {img test_cooltime 21 21}2s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}399% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}237% {img test_cooltime 21 21}30s (Mágico)
-ITEM_20180208_017506	{#ffea32}Gorkas Card{/}
-ITEM_20180208_017507	{#000000}|Efeito| Chance de Drop +[{img star_mark 20 20}* 5]
+ITEM_20180208_017506	Gorkas Card
+ITEM_20180208_017507	[Efeito] Chance de Drop +[{img star_mark 20 20}*5]
 ITEM_20180208_017508	[Grimório] Invoca Gorkas ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}388% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}399% {img test_cooltime 21 21}10s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}237% {img test_cooltime 21 21}20s (Mágico)
 ITEM_20180208_017509	Froster Lord Card
 ITEM_20180208_017510	{#000000}|Efeito| [{img star_mark 20 20}/2%] de chance por ataque (incluindo skills) de congelar o inimigo por 4 segundos
