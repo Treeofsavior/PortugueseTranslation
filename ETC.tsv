@@ -2771,10 +2771,10 @@ ETC_20150317_002770	Ataque Elemental: Divino
 ETC_20150317_002771	Ataque Elemental: Trevas
 ETC_20150317_002772	Velocidade de Movimento
 ETC_20150317_002773	Recuperação de HP
-ETC_20150317_002774	Ataque Contra Planta{img monster_plant 24 24}
-ETC_20150317_002775	Ataque Contra Fera{img monster_wild 24 24}
-ETC_20150317_002776	Ataque Contra Demônio{img monster_devil 24 24}
-ETC_20150317_002777	Ataque Contra Mutante{img monster_variation 24 24}
+ETC_20150317_002774	Ataque Contra Planta {img monster_plant 24 24}
+ETC_20150317_002775	Ataque Contra Fera {img monster_wild 24 24}
+ETC_20150317_002776	Ataque Contra Demônio {img monster_devil 24 24}
+ETC_20150317_002777	Ataque Contra Mutante {img monster_variation 24 24}
 ETC_20150317_002778	Ataque Elemental: Vento
 ETC_20150317_002779	Resistência Elemental: Fogo{img attri_Fire 23 23}
 ETC_20150317_002780	Resistência Elemental: Gelo{img attri_Ice 23 23}
@@ -2802,7 +2802,7 @@ ETC_20150317_002801	Magic Penetration
 ETC_20150317_002802	Item EXP
 ETC_20150317_002803	Shooting Distance
 ETC_20150317_002804	Speed
-ETC_20150317_002805	Ataque Contra Inseto{img monster_insect 24 24}
+ETC_20150317_002805	Ataque Contra Inseto {img monster_insect 24 24}
 ETC_20150317_002806	Ataque Elemental: Terra{img attri_Earth 23 23}
 ETC_20150317_002807	Resistência Elemental: Terra{img attri_Earth 23 23}
 ETC_20150317_002808	Physical Damage when mounted
@@ -2833,17 +2833,17 @@ ETC_20150317_002832	Archer Type
 ETC_20150317_002833	Cleric Type
 ETC_20150317_002834	Sorcerer Type
 ETC_20150317_002835	Human-type
-ETC_20150317_002836	{#000000}Tipo-Demônio {img monster_devil 30 30}
-ETC_20150317_002837	{#000000}Tipo-Planta {img monster_plant 30 30}
-ETC_20150317_002838	{#000000}Tipo-Fera {img monster_wild 30 30}
-ETC_20150317_002839	{#000000}Tipo-Mutante {img monster_variation 30 30}
+ETC_20150317_002836	Raça: Demônio {img monster_devil 24 24}
+ETC_20150317_002837	Raça: Planta {img monster_plant 24 24}
+ETC_20150317_002838	Raça: Fera {img monster_wild 24 24}
+ETC_20150317_002839	Raça: Mutante {img monster_variation 24 24}
 ETC_20150317_002840	Object
-ETC_20150317_002841	{#000000}Tipo-Inseto {img monster_insect 30 30}
+ETC_20150317_002841	Raça: Inseto {img monster_insect 24 24}
 ETC_20150317_002842	Tecido
 ETC_20150317_002843	Couro
 ETC_20150317_002844	Metal
 ETC_20150317_002845	Chain
-ETC_20150317_002846	Ghost
+ETC_20150317_002846	Fantasma
 ETC_20150317_002847	This mercenary already belongs to somebody else.
 ETC_20150317_002848	The mercenary's level is higher than the PC's level.
 ETC_20150317_002849	The mercenary has been hired.
