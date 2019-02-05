@@ -15579,7 +15579,7 @@ ITEM_20170912_015571	{@st41b}{s16}{#f98d00}|Efeito| Amplificação Mágica +[{im
 ITEM_20170912_015572	[Efeito] Aumenta em [{img star_mark 20 20}/2]% o dano contra monstros de tamanho Médio
 ITEM_20170912_015573	[Efeito] [{img star_mark 20 20}/3]% chance do ataque causar Choque por 3 segundos
 ITEM_20170912_015574	[Efeito] [{img star_mark 20 20}]% chance de recuperar 3% SP quando atingido por monstros grandes
-ITEM_20170912_015575	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% do SP após derrotar monstros da raça Mutante
+ITEM_20170912_015575	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% do SP após derrotar monstros da raça Mutante {img monster_variation 24 24}
 ITEM_20170912_015576	[Efeito] Velocidade de Movimento +[{img star_mark 20 20}/5] por 10 segundos após usar qualquer poção ou pílula de Stamina
 ITEM_20170912_015577	[Efeito] STR +[{img star_mark 20 20}/2], DEX +[{img star_mark 20 20}/2]
 ITEM_20170912_015578	[Efeito] Recuperação de SP +[{img star_mark 20 20}*6]
@@ -17434,24 +17434,24 @@ ITEM_20180208_017419	[Efeito] Defesa Física +[{img star_mark 20 20}]% por 10 se
 ITEM_20180208_017420	[Efeito] Aumenta o dano contra inimigos Voadores em [{img star_mark 20 20}]%
 ITEM_20180208_017421	[Efeito] Ataque Físico +[{img star_mark 20 20}]% por 6 segundos quando usar qualquer tipo de poção de SP
 ITEM_20180208_017422	[Efeito] Aumenta o dano contra inimigos com armadura de Metal em [{img star_mark 20 20}/2]%
-ITEM_20180208_017423	[Efeito] Aumenta o dano contra monstros da raça Mutante em [{img star_mark 20 20}]%
+ITEM_20180208_017423	[Efeito] Aumenta o dano contra monstros da raça Mutante {img monster_variation 24 24} em [{img star_mark 20 20}]%
 ITEM_20180208_017424	[Efeito] Ataque +[{img star_mark 20 20}*7] ao utilizar armas do tipo Perfurante
 ITEM_20180208_017425	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% de SP após derrutar monstros do elemento Terra
 ITEM_20180208_017426	[Efeito] Aumenta o dano contra monstros de tamanho Médio em [{img star_mark 20 20}/2]%
 ITEM_20180208_017427	[Efeito] [{img star_mark 20 20}/3]% de chance, por ataque feito, de causar [Shock] no inimigo por 3 segundos
 ITEM_20180208_017428	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 3% de SP ao ser atacado por monstros de tamanho Grande{nl}Cooldown 5 segundos
-ITEM_20180208_017429	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% de SP após derrotar monstros da raça Mutante
+ITEM_20180208_017429	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% de SP após derrotar monstros da raça Mutante {img monster_variation 24 24}
 ITEM_20180208_017430	[Efeito] Velocidade de Movimento +[{img star_mark 20 20}/5] por 10 segundos após usar qualquer poção ou pílula de Stamina
 ITEM_20180208_017431	[Efeito] STR +[{img star_mark 20 20}/2], DEX +[{img star_mark 20 20}/2]
 ITEM_20180208_017432	[Efeito] Aumenta o dano contra monstros do elemento Gelo em [{img star_mark 20 20}]%
-ITEM_20180208_017433	[Efeito] Aumenta o dano contra monstros da raça Demônio em [{img star_mark 20 20}]%
+ITEM_20180208_017433	[Efeito] Aumenta o dano contra monstros da raça Demônio {img monster_devil 24 24} em [{img star_mark 20 20}]%
 ITEM_20180208_017434	[Efeito] Aumenta o dano contra inimigos com armadura de Couro em [{img star_mark 20 20}/2]%
 ITEM_20180208_017435	[Efeito] Aumenta o dano contra inimigos sob efeito de [Petrify] em [{img star_mark 20 20}]%
 ITEM_20180208_017436	[Efeito] DEX +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
 ITEM_20180208_017437	[Efeito] Aumenta o dano contra monstros de tamanho Pequeno em [{img star_mark 20 20}/2]%
 ITEM_20180208_017438	[Efeito] Velocidade de Ataque +[{img star_mark 20 20}] ao utilizar armas de 2 mãos
 ITEM_20180208_017439	[Efeito] Aumenta o dano contra monstros do elemento Terra em [{img star_mark 20 20}]%
-ITEM_20180208_017440	[Efeito] Aumenta o dano contra monstros da raça Fera em [{img star_mark 20 20}]%
+ITEM_20180208_017440	[Efeito] Aumenta o dano contra monstros da raça Fera {img monster_wild 24 24} em [{img star_mark 20 20}]%
 ITEM_20180208_017441	[Efeito] Ataque +[{img star_mark 20 20}*7] quando equipado com armas do tipo Impacto
 ITEM_20180208_017442	[Efeito] [{img star_mark 20 20}/3]% de chance, por ataque feito, de causar [Poison] no inimigo por 6 segundos
 ITEM_20180208_017443	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% de SP após derrotar monstros do elemento Fogo
@@ -17465,11 +17465,11 @@ ITEM_20180208_017450	[Efeito] SPR +[{img star_mark 20 20}/2], CON +[{img star_ma
 ITEM_20180208_017451	[Efeito] Aumenta o dano contra monstros do elemento Raio em [{img star_mark 20 20}]%
 ITEM_20180208_017452	[Efeito] [{img star_mark 20 20}]% de chance dos ataques serem considerados como ataques pelas costas
 ITEM_20180208_017453	[Efeito] Aumenta o dano contra monstros do elemento Trevas em [{img star_mark 20 20}]%
-ITEM_20180208_017454	[Efeito] Aumenta o dano contra monstros da raça Planta em [{img star_mark 20 20}]%
+ITEM_20180208_017454	[Efeito] Aumenta o dano contra monstros da raça Planta {img monster_plant 24 24} em [{img star_mark 20 20}]%
 ITEM_20180208_017455	[Efeito] Aumenta o dano contra inimigos com armadura de Tecido em [{img star_mark 20 20}/2]%
 ITEM_20180208_017456	[Efeito] Aumenta o dano contra inimigos sob efeito de [Stun] em [{img star_mark 20 20}]%
 ITEM_20180208_017457	[Efeito] Ataque Mágico +[{img star_mark 20 20}]% por 6 segundos quando usar qualquer tipo de poção de SP
-ITEM_20180208_017458	[Efeito] Aumenta o dano contra monstros da raça Inseto em [{img star_mark 20 20}]%
+ITEM_20180208_017458	[Efeito] Aumenta o dano contra monstros da raça Inseto {img monster_insect 24 24} em [{img star_mark 20 20}]%
 ITEM_20180208_017459	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% de SP após derrotar monstros do elemento Gelo
 ITEM_20180208_017460	[Efeito] Aumenta o dano contra monstros de tamanho Grande em [{img star_mark 20 20}/2]%
 ITEM_20180208_017461	[Efeito] Aumenta o dano contra monstros do elemento Veneno em [{img star_mark 20 20}]%
@@ -17746,7 +17746,7 @@ ITEM_20180320_017731	[Grimório] Invoca Demon Lord Mirtis ao utilizar a habilida
 ITEM_20180320_017732	Prodigious Kucarry Balzermancer Card
 ITEM_20180320_017733	[Efeito] Ganho de EXP +[{img star_mark 20 20}]%
 ITEM_20180320_017734	Heretic Pantorex Card
-ITEM_20180320_017735	[Efeito] Aumenta o dano contra monstros da raça Fera em [{img star_mark 20 20}*7]%
+ITEM_20180320_017735	[Efeito] Aumenta o dano contra monstros da raça Fera {img monster_wild 24 24} em [{img star_mark 20 20}*7]%
 ITEM_20180320_017737	Use para upar cartas Lendárias até o Nv 4.{nl}Não pode ser equipado ou usado para upar cartas que não são Lendárias.
 ITEM_20180320_017738	Old Legend Enhancement Card
 ITEM_20180320_017739	Use para upar cartas Lendárias até o Nv 6.{nl}Não pode ser equipado ou usado para upar cartas que não são Lendárias.
