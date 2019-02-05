@@ -10973,126 +10973,126 @@ ITEM_20160811_010971	Golden Chest
 ITEM_20160811_010972	A chest containing random items.{nl}Open this chest to obtain a random item.
 ITEM_20160811_010973	Lightweight Anvil
 ITEM_20160811_010974	Só pode ser usado em um item que não foi aprimorado e não consome Silver. {nl}{img mouseclick_right 30 30} para usar.
-ITEM_20160811_010975	{#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Terra em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros do tipo Grande
+ITEM_20160811_010975	[Efeito] 10% de chance de aumentar o Ataque Elemental: Terra em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros do tipo Grande
 ITEM_20160811_010976	[Efeito] [Número de Cartas]% de chance de utilizar [Pain Barrier] Nv.1 ao ser atacado
-ITEM_20160811_010977	{#000000}|Efeito| Defesa contra ataques tipo [Impacto] +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Gorgon ao usar a skill Summoning
+ITEM_20160811_010977	[Efeito] Defesa contra ataques tipo [Impacto] +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Gorgon ao usar a skill Summoning
 ITEM_20160811_010978	[Efeito] Defesa Física +[{img star_mark 20 20}]% por 10 segundos após usar qualquer poção de HP
-ITEM_20160811_010979	{#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Fogo em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros do tipo médio
-ITEM_20160811_010980	{#000000}|Efeito| Ataque Físico (+[{img star_mark 20 20}]%) durante 6 segundos ao usar qualquer tipo de poção de SP
-ITEM_20160811_010981	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano recebido quando atingido por ataques do elemento Fogo
-ITEM_20160811_010982	{#000000}|Efeito| 10% de chance de aumentar o ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros de tipo médio{nl} {nl}[Grimório] Invoca Netherbovine ao usar a skill Summoning
-ITEM_20160811_010983	{#000000}|Efeito| 10% de chance de aumentar o ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros de tipo pequeno{nl} {nl}[Grimório] Invoca Necroventer ao usar a skill Summoning
-ITEM_20160811_010984	{#000000}|Efeito| Ataque Crítico +[{img star_mark 20 20}]
-ITEM_20160811_010985	{#000000}|Efeito| 1% de dano adicional contra monstros do tipo mutante
-ITEM_20160811_010986	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano recebido quando atingido por ataques do elemento Veneno
+ITEM_20160811_010979	[Efeito] 10% de chance de aumentar o Ataque Elemental: Fogo em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros do tipo médio
+ITEM_20160811_010980	[Efeito] Ataque Físico (+[{img star_mark 20 20}]%) durante 6 segundos ao usar qualquer tipo de poção de SP
+ITEM_20160811_010981	[Efeito] +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano recebido quando atingido por ataques do elemento Fogo
+ITEM_20160811_010982	[Efeito] 10% de chance de aumentar o ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros de tipo médio{nl} {nl}[Grimório] Invoca Netherbovine ao usar a skill Summoning
+ITEM_20160811_010983	[Efeito] 10% de chance de aumentar o ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros de tipo pequeno{nl} {nl}[Grimório] Invoca Necroventer ao usar a skill Summoning
+ITEM_20160811_010984	[Efeito] Ataque Crítico +[{img star_mark 20 20}]
+ITEM_20160811_010985	[Efeito] 1% de dano adicional contra monstros do tipo mutante
+ITEM_20160811_010986	[Efeito] +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano recebido quando atingido por ataques do elemento Veneno
 ITEM_20160811_010987	[Efeito] Efeito das poções e pílulas de Stamina +[{img star_mark 20 20}]%
-ITEM_20160811_010988	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano recebido quando atingido por ataques do elemento Gelo
-ITEM_20160811_010989	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de recuperar 10% SP depois de derrotar um monstro do elemento Terra
-ITEM_20160811_010990	{#000000}|Efeito| Amplificação magica +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Rexipher ao usar a skill Summoning
-ITEM_20160811_010991	{#000000}|Efeito| 1% dano adicional contra monstros do tipo médio{nl}[Poison Pot] Ativa a Habilidade do Reaverpede quando usado no Poison Pot
-ITEM_20160811_010992	{#000000}|Efeito| Efeito da poção de SP  +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Rikaus ao utilizar a habilidade [Summoning]
-ITEM_20160811_010993	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano recebido quando atingido por ataques do elemento Elétrico
-ITEM_20160811_010994	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: Gelo em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros do tipo médio
-ITEM_20160811_010995	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de causar dano aos monstros próximos depois de derrotar monstros do tipo mutante
+ITEM_20160811_010988	[Efeito] +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano recebido quando atingido por ataques do elemento Gelo
+ITEM_20160811_010989	[Efeito] [Máximo{img star_mark 20 20}]% de recuperar 10% SP depois de derrotar um monstro do elemento Terra
+ITEM_20160811_010990	[Efeito] Amplificação magica +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Rexipher ao usar a skill Summoning
+ITEM_20160811_010991	[Efeito] 1% dano adicional contra monstros do tipo médio{nl}[Poison Pot] Ativa a Habilidade do Reaverpede quando usado no Poison Pot
+ITEM_20160811_010992	[Efeito] Efeito da poção de SP  +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Rikaus ao utilizar a habilidade [Summoning]
+ITEM_20160811_010993	[Efeito] +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano recebido quando atingido por ataques do elemento Elétrico
+ITEM_20160811_010994	[Efeito] 10% de chance de aumentar o ataque elemental: Gelo em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros do tipo médio
+ITEM_20160811_010995	[Efeito] [Máximo{img star_mark 20 20}]% de chance de causar dano aos monstros próximos depois de derrotar monstros do tipo mutante
 ITEM_20160811_010996	Manticen Card
-ITEM_20160811_010997	{#000000}|Efeito| Velocidade de movimento (+[Máximo{img star_mark 20 20}/2]) por 5 segundos depois de usar pílulas de stamina{nl}[Poison Pot] Ativa a Habilidade do Manticen quando usado no Poison Pot
-ITEM_20160811_010998	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% chance de causar cegueira aos inimigos próximos depois de derrotas um monstro do tipo demônio{nl} {nl}[Grimório] Invoca Mummyghast ao utilizar a habilidade [Summoning]
-ITEM_20160811_010999	{#000000}|Efeito| 10% chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros do tipo meio
-ITEM_20160811_011000	{#000000}|Efeito| 1% de Dano adicional contra monstros de propriedade gelo{nl}[Poison Pot] Ativa a habilidade do Merge quando usado no Poison Pot
-ITEM_20160811_011001	{#000000}|Efeito| 1% de dano adicional contra monstros do tipo voador{nl}[Poison Pot] Ativa a Habilidade do Mothstem quando usado no Poison Pot
-ITEM_20160811_011002	{#000000}|Efeito| 1% de dano adicional contra monstros do tipo demônio
+ITEM_20160811_010997	[Efeito] Velocidade de movimento (+[Máximo{img star_mark 20 20}/2]) por 5 segundos depois de usar pílulas de stamina{nl}[Poison Pot] Ativa a Habilidade do Manticen quando usado no Poison Pot
+ITEM_20160811_010998	[Efeito] [Máximo{img star_mark 20 20}]% chance de causar cegueira aos inimigos próximos depois de derrotas um monstro do tipo demônio{nl} {nl}[Grimório] Invoca Mummyghast ao utilizar a habilidade [Summoning]
+ITEM_20160811_010999	[Efeito] 10% chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros do tipo meio
+ITEM_20160811_011000	[Efeito] 1% de Dano adicional contra monstros de propriedade gelo{nl}[Poison Pot] Ativa a habilidade do Merge quando usado no Poison Pot
+ITEM_20160811_011001	[Efeito] 1% de dano adicional contra monstros do tipo voador{nl}[Poison Pot] Ativa a Habilidade do Mothstem quando usado no Poison Pot
+ITEM_20160811_011002	[Efeito] 1% de dano adicional contra monstros do tipo demônio
 ITEM_20160811_011003	[Efeito] Resistência Elemental: Terra +[{img star_mark 20 20}]
-ITEM_20160811_011004	{#000000}|Efeito| 10% chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar um monstro do tipo grande
+ITEM_20160811_011004	[Efeito] 10% chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar um monstro do tipo grande
 ITEM_20160811_011005	[Efeito] Bloqueio +[{img star_mark 20 20}]
-ITEM_20160811_011006	{#000000}|Efeito| 1% de chance de causar [Stun] por 3 segundos quando usar um ataque físico{nl} {nl}[Grimório] Invoca Minotaur ao usar a skill Summoning
-ITEM_20160811_011007	{#000000}|Efeito| 1% de dano adicional contra monstros do tipo pequeno{nl} {nl}[Grimório] Invoca Mirtis ao usar a skill Summoning
-ITEM_20160811_011008	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo médio
-ITEM_20160811_011009	{#000000}|Efeito| 1% de dano adicional contra monstros do elemento terra
+ITEM_20160811_011006	[Efeito] 1% de chance de causar [Stun] por 3 segundos quando usar um ataque físico{nl} {nl}[Grimório] Invoca Minotaur ao usar a skill Summoning
+ITEM_20160811_011007	[Efeito] 1% de dano adicional contra monstros do tipo pequeno{nl} {nl}[Grimório] Invoca Mirtis ao usar a skill Summoning
+ITEM_20160811_011008	[Efeito] 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo médio
+ITEM_20160811_011009	[Efeito] 1% de dano adicional contra monstros do elemento terra
 ITEM_20160811_011010	[Efeito] Evasão +[{img star_mark 20 20}]{nl}[Grimório] Invoca Velorchard ao utilizar a habilidade [Summoning]
-ITEM_20160811_011011	{#000000}|Efeito| 1% de dano adicional contra monstros do tipo Besta
-ITEM_20160811_011012	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
-ITEM_20160811_011013	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: divino em +[{img star_mark 20 20}] por 7 seegundos quando atacar monstros do tipo médio
-ITEM_20160811_011014	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter 10 venenos (Wugushi) depois de derrotar monstros do tipo inseto {nl}[Pote de Veneno] Ativa a habilidade de Biteregina ao utilizar a habilidade [Poison Pot]
-ITEM_20160811_011015	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: trevas em +[{img star_mark 20 20}] quando atacar monstros do tipo grande {nl} {nl}[Grimório] Invoca Cyclops ao utilizar a habilidade [Summoning]
+ITEM_20160811_011011	[Efeito] 1% de dano adicional contra monstros do tipo Besta
+ITEM_20160811_011012	[Efeito] 10% de chance de aumentar o dano elemental: fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
+ITEM_20160811_011013	[Efeito] 10% de chance de aumentar o dano elemental: divino em +[{img star_mark 20 20}] por 7 seegundos quando atacar monstros do tipo médio
+ITEM_20160811_011014	[Efeito] [Máximo{img star_mark 20 20}]% de chance de obter 10 venenos (Wugushi) depois de derrotar monstros do tipo inseto {nl}[Pote de Veneno] Ativa a habilidade de Biteregina ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011015	[Efeito] 10% de chance de aumentar o dano elemental: trevas em +[{img star_mark 20 20}] quando atacar monstros do tipo grande {nl} {nl}[Grimório] Invoca Cyclops ao utilizar a habilidade [Summoning]
 ITEM_20160811_011016	[Efeito] Resistência Elemental: Gelo{img attri_Ice 23 23} +[{img star_mark 20 20}]
-ITEM_20160811_011017	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% chance de recuperar 10% de SP depois de derrotar um monstro do elemento fogo
-ITEM_20160811_011018	{#000000}|Efeito| [Silence] resistência ou status +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Shadowgaler ao utilizar a habilidade [Summoning]
-ITEM_20160811_011019	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido de ataques do elemento Terra
+ITEM_20160811_011017	[Efeito] [Máximo{img star_mark 20 20}]% chance de recuperar 10% de SP depois de derrotar um monstro do elemento fogo
+ITEM_20160811_011018	[Efeito] [Silence] resistência ou status +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Shadowgaler ao utilizar a habilidade [Summoning]
+ITEM_20160811_011019	[Efeito] +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido de ataques do elemento Terra
 ITEM_20160811_011020	[Efeito] Resistência Elemental: Raio{img attri_Lightning 23 23} +[{img star_mark 20 20}]
-ITEM_20160811_011021	{#000000}|Efeito| [Perfurante] Defesa +[{img star_mark 20 20}]
-ITEM_20160811_011022	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento trevas{nl} {nl}[Grimório] Invoca Specter Monarch ao utilizar a habilidade [Summoning]
-ITEM_20160811_011023	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento veneno{nl} {nl}[Grimório] Invoca Throneweaver ao utilizar a habilidade [Summoning]
-ITEM_20160811_011024	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
-ITEM_20160811_011025	{#000000}|Efeito| 1% da dano adicional quando atacar monstros do elemente fogo
-ITEM_20160811_011026	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido de ataques do elemento trevas{nl} {nl}[Grimório] Invoca Abomination ao utilizar a habilidade [Summoning]
-ITEM_20160811_011027	{#000000}|Efeito| resistência elementar: trevas +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Unknocker ao utilizar a habilidade [Summoning]
-ITEM_20160811_011028	{#000000}|Efeito| 1% de dano adicional contras monstros do elemento elétrico
+ITEM_20160811_011021	[Efeito] [Perfurante] Defesa +[{img star_mark 20 20}]
+ITEM_20160811_011022	[Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento trevas{nl} {nl}[Grimório] Invoca Specter Monarch ao utilizar a habilidade [Summoning]
+ITEM_20160811_011023	[Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento veneno{nl} {nl}[Grimório] Invoca Throneweaver ao utilizar a habilidade [Summoning]
+ITEM_20160811_011024	[Efeito] 10% de chance de aumentar o dano elemental: fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
+ITEM_20160811_011025	[Efeito] 1% da dano adicional quando atacar monstros do elemente fogo
+ITEM_20160811_011026	[Efeito] +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido de ataques do elemento trevas{nl} {nl}[Grimório] Invoca Abomination ao utilizar a habilidade [Summoning]
+ITEM_20160811_011027	[Efeito] resistência elementar: trevas +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Unknocker ao utilizar a habilidade [Summoning]
+ITEM_20160811_011028	[Efeito] 1% de dano adicional contras monstros do elemento elétrico
 ITEM_20160811_011029	[Efeito] DEX +[{img star_mark 20 20}]{nl}[Grimório] Invoca Ellaganos ao utilizar a habilidade [Summoning]
-ITEM_20160811_011030	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: divino em +[{img star_mark 20 20}] por 7 segundos qunado atacar monstros do tipo pequeno
+ITEM_20160811_011030	[Efeito] 10% de chance de aumentar o dano elemental: divino em +[{img star_mark 20 20}] por 7 segundos qunado atacar monstros do tipo pequeno
 ITEM_20160811_011031	[Efeito] Resistência Elemental: Divino{img attri_Holy 23 23} +[{img star_mark 20 20}]
 ITEM_20160811_011032	[Efeito] [{img star_mark 20 20}]% de chance dos ataques serem considerados como ataques pelas costas
-ITEM_20160811_011033	{#000000}|Efeito| 1% de dano adicional contras monstros do elemento trevas{nl} {nl}[Grimório] Invoca Unicorn ao utilizar a habilidade [Summoning]
-ITEM_20160811_011034	{#000000}|Efeito| 1% de dano adicional contras monstros do tipo planta
-ITEM_20160811_011035	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter 1 fogueira depois de derrotar monstros do tipo planta
-ITEM_20160811_011036	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter wooden piece depois de derrotar monstros do tipo planta
-ITEM_20160811_011037	{#000000}|Efeito| Ataque Mágico +[{img star_mark 20 20}]% por 4 segundos ao usar poções de SP (Não acumula com poções de SP diferentes){nl} {nl}[Grimório] Invoca Chapparition ao utilizar a habilidade [Summoning]
-ITEM_20160811_011038	{#000000}|Efeito| 1% de dano adicional contras monstros do tipo inseto{nl}[Poison Pot] Ativa a habilidade do Chafer ao utilizar a habilidade [Poison Pot]
-ITEM_20160811_011039	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp depois de derrotar monstros do elemento gelo{nl}[Poison Pot] ativa a habilidade do Carapace ao utilizar a habilidade [Poison Pot]
-ITEM_20160811_011040	{#000000}|Efeito| 1% de dano adicional contras monstros do tipo planta
-ITEM_20160811_011041	{#000000}|Efeito| 10% de chance de aumentar o ataque elemento: gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar um monstro do tipo pequeno
-ITEM_20160811_011042	{#000000}|Efeito| 1% de dano adicional contras monstros do elemento veneno
-ITEM_20160811_011043	{#000000}|Efeito| Penetração de bloqueio +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade do Krimeleech ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011033	[Efeito] 1% de dano adicional contras monstros do elemento trevas{nl} {nl}[Grimório] Invoca Unicorn ao utilizar a habilidade [Summoning]
+ITEM_20160811_011034	[Efeito] 1% de dano adicional contras monstros do tipo planta
+ITEM_20160811_011035	[Efeito] [Máximo{img star_mark 20 20}]% de chance de obter 1 fogueira depois de derrotar monstros do tipo planta
+ITEM_20160811_011036	[Efeito] [Máximo{img star_mark 20 20}]% de chance de obter wooden piece depois de derrotar monstros do tipo planta
+ITEM_20160811_011037	[Efeito] Ataque Mágico +[{img star_mark 20 20}]% por 4 segundos ao usar poções de SP (Não acumula com poções de SP diferentes){nl} {nl}[Grimório] Invoca Chapparition ao utilizar a habilidade [Summoning]
+ITEM_20160811_011038	[Efeito] 1% de dano adicional contras monstros do tipo inseto{nl}[Poison Pot] Ativa a habilidade do Chafer ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011039	[Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp depois de derrotar monstros do elemento gelo{nl}[Poison Pot] ativa a habilidade do Carapace ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011040	[Efeito] 1% de dano adicional contras monstros do tipo planta
+ITEM_20160811_011041	[Efeito] 10% de chance de aumentar o ataque elemento: gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar um monstro do tipo pequeno
+ITEM_20160811_011042	[Efeito] 1% de dano adicional contras monstros do elemento veneno
+ITEM_20160811_011043	[Efeito] Penetração de bloqueio +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade do Krimeleech ao utilizar a habilidade [Poison Pot]
 ITEM_20160811_011044	[Efeito] Peso Carregável +[Máximo{img star_mark 20 20}]%
-ITEM_20160811_011045	{#000000}|Efeito| 1% de dano adicional contras monstros do tipo chefe {nl} {nl}[Grimório] Invoca Tomblord ao utilizar a habilidade [Summoning]
+ITEM_20160811_011045	[Efeito] 1% de dano adicional contras monstros do tipo chefe {nl} {nl}[Grimório] Invoca Tomblord ao utilizar a habilidade [Summoning]
 ITEM_20160811_011046	[Efeito] Resistência Elemental: Veneno{img attri_Poison 23 23} +[{img star_mark 20 20}]
 ITEM_20160811_011047	[Efeito] Resistência Elemental: Fogo{img attri_Fire 23 23} +[{img star_mark 20 20}]
-ITEM_20160811_011048	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de SP depois de derrotar monstros do elemento elétrico {nl} {nl}[Grimório] Invoca Harpeia ao utilizar a habilidade [Summoning]
-ITEM_20160811_011049	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno {nl}[Pote de Veneno] Ativa a habilidade de Honeypin ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011048	[Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de SP depois de derrotar monstros do elemento elétrico {nl} {nl}[Grimório] Invoca Harpeia ao utilizar a habilidade [Summoning]
+ITEM_20160811_011049	[Efeito] 10% de chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno {nl}[Pote de Veneno] Ativa a habilidade de Honeypin ao utilizar a habilidade [Poison Pot]
 ITEM_20160811_011050	{@st66b}{#000000}[{img itemcraft_btn 20 20}Efeito da Carta]{/}{/} Ataque magico +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Helgasercle ao utilizar a habilidade [Summoning]{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}1s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}301% {img test_cooltime 21 21}30s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}231% {img test_cooltime 21 21}50s (Mágico)
-ITEM_20160811_011051	{#000000}|Efeito| SP máximo +[{img star_mark 20 20}*15]{nl} {nl}[Grimório] Invoca Specter of Deceit ao utilizar a habilidade [Summoning]
-ITEM_20160811_011052	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar um monstro do tipo chefe
-ITEM_20160811_011053	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter 3 corpos(Necromancer) depois de derrotar monstros do tipo besta
-ITEM_20160811_011054	{#000000}|Efeito| 1% de dano adicional contra monstros imóveis{nl} {nl}[Grimório] Invoca Corrupted ao utilizar a habilidade [Summoning] (incapaz de mover-se)
-ITEM_20160811_011055	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: terra em +[{img star_mark 20 20}] for 7 segundos quando atacar um monstro do tipo médio
-ITEM_20160811_011056	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
-ITEM_20160811_011057	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande{nl} {nl}[Grimório] Invoca Sparnasman ao utilizar a habilidade [Summoning]
-ITEM_20160811_011058	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 1% do SP quando atacado por monstros do tipo medio {nl} {nl}[Grimório] Invoca Cerberus ao utilizar a habilidade [Summoning]
-ITEM_20160811_011059	{#000000}|Efeito| [Sono] resistência ao status +[{img star_mark 20 20}]%
-ITEM_20160811_011060	{#000000}|Efeito| Recuperação de HP, SP +1%
-ITEM_20160811_011061	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: terra +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
-ITEM_20160811_011062	{#000000}|Efeito| Defesa física +[{img star_mark 20 20}]
-ITEM_20160811_011063	{#000000}|Efeito| Precisão +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Naktis ao utilizar a habilidade [Summoning]
+ITEM_20160811_011051	[Efeito] SP máximo +[{img star_mark 20 20}*15]{nl} {nl}[Grimório] Invoca Specter of Deceit ao utilizar a habilidade [Summoning]
+ITEM_20160811_011052	[Efeito] 10% de chance de aumentar o ataque elemental: gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar um monstro do tipo chefe
+ITEM_20160811_011053	[Efeito] [Máximo{img star_mark 20 20}]% de chance de obter 3 corpos(Necromancer) depois de derrotar monstros do tipo besta
+ITEM_20160811_011054	[Efeito] 1% de dano adicional contra monstros imóveis{nl} {nl}[Grimório] Invoca Corrupted ao utilizar a habilidade [Summoning] (incapaz de mover-se)
+ITEM_20160811_011055	[Efeito] 10% de chance de aumentar o ataque elemental: terra em +[{img star_mark 20 20}] for 7 segundos quando atacar um monstro do tipo médio
+ITEM_20160811_011056	[Efeito] 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
+ITEM_20160811_011057	[Efeito] 10% de chance de aumentar o ataque elemental: divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande{nl} {nl}[Grimório] Invoca Sparnasman ao utilizar a habilidade [Summoning]
+ITEM_20160811_011058	[Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 1% do SP quando atacado por monstros do tipo medio {nl} {nl}[Grimório] Invoca Cerberus ao utilizar a habilidade [Summoning]
+ITEM_20160811_011059	[Efeito] [Sono] resistência ao status +[{img star_mark 20 20}]%
+ITEM_20160811_011060	[Efeito] Recuperação de HP, SP +1%
+ITEM_20160811_011061	[Efeito] 10% de chance de aumentar o ataque elemental: terra +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
+ITEM_20160811_011062	[Efeito] Defesa física +[{img star_mark 20 20}]
+ITEM_20160811_011063	[Efeito] Precisão +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Naktis ao utilizar a habilidade [Summoning]
 ITEM_20160811_011064	[Efeito] SPR +[{img star_mark 20 20}]
-ITEM_20160811_011065	{#000000}|Efeito| 5% de chance de ser ressuscitado com [{img star_mark 20 20}]% do HP quando morrer em combate{nl} {nl}[Grimório] Invoca Dullahan ao utilizar a habilidade [Summoning]
-ITEM_20160811_011066	{#000000}|Efeito| resistência ao status cegueira +[{img star_mark 20 20}/2]%{nl} {nl}[Grimório] Invoca Riteris ao utilizar a habilidade [Summoning]
+ITEM_20160811_011065	[Efeito] 5% de chance de ser ressuscitado com [{img star_mark 20 20}]% do HP quando morrer em combate{nl} {nl}[Grimório] Invoca Dullahan ao utilizar a habilidade [Summoning]
+ITEM_20160811_011066	[Efeito] resistência ao status cegueira +[{img star_mark 20 20}/2]%{nl} {nl}[Grimório] Invoca Riteris ao utilizar a habilidade [Summoning]
 ITEM_20160811_011067	[Efeito] Defesa Mágica +[{img star_mark 20 20}]%{nl}[Grimório] Invoca Nuaele ao utilizar a habilidade [Summoning]
 ITEM_20160811_011068	[Efeito] Efeito das poções de HP +[{img star_mark 20 20}]%{nl}[Pote de Veneno] Ativa a habilidade de Neop ao utilizar a habilidade [Poison Pot]
 ITEM_20160811_011069	[Efeito] CON +[{img star_mark 20 20}]{nl}[Grimório] Invoca Blut ao utilizar a habilidade [Summoning]
-ITEM_20160811_011070	{#000000}|Efeito| [Corte] Defesa +[{img star_mark 20 20}]
-ITEM_20160811_011071	{#000000}|Efeito| resistência ao status sangramento +[{img star_mark 20 20}/2]%
-ITEM_20160811_011072	{#000000}|Efeito| resistência critica +[{img star_mark 20 20}]{nl}[Pote de Veneno] Ativa a habilidade de Basilisk ao utilizar a habilidade [Poison Pot]
-ITEM_20160811_011073	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
-ITEM_20160811_011074	{#000000}|Efeito| Ataque Secundário máximo +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade do Plokste ao utilizar a habilidade [Poison Pot]
-ITEM_20160811_011075	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
-ITEM_20160811_011076	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 0.5% de SP Quando atacado por monstros do tipo pequeno{nl}[Poison Pot] Ativa a habilidade do Velnewt ao utilizar a habilidade [Poison Pot]
-ITEM_20160811_011077	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: terra em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl}[Poison Pot] Ativa a habilidade do Velpede ao utilizar a habilidade [Poison Pot]
-ITEM_20160811_011078	{#000000}|Efeito| -1 segundos para a reculperação  de SP {nl} {nl}[Grimório] Invoca Pyroego ao utilizar a habilidade [Summoning] (incapaz de se mover)
-ITEM_20160811_011079	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano quando atingido por ataques do elemento Divino
-ITEM_20160811_011080	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Lithorex ao utilizar a habilidade [Summoning]
-ITEM_20160811_011081	{#000000}|Efeito| resistência a ataques do tipo missel +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Nuodai ao utilizar a habilidade [Summoning] (incapaz de se mover)
-ITEM_20160811_011082	{#000000}|Efeito| AoE Ratio +1{nl} {nl}[Grimório] Invoca Centaurus ao utilizar a habilidade [Summoning]
-ITEM_20160811_011083	{#000000}|Efeito| HP máximo +[{img star_mark 20 20}*120]
-ITEM_20160811_011084	{#000000}|Efeito| Defensa magica +[{img star_mark 20 20}]% por 10 segundos depois de usar poções de hp{nl} {nl}[Grimório] Invoca Progola ao utilizar a habilidade [Summoning]
-ITEM_20160811_011085	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Marionette ao utilizar a habilidade [Summoning] (incapaz de se mover)
-ITEM_20160811_011086	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 2% do SP quando atacado por monstros do tipo grande{nl}[Poison Pot] Ativa a habilidade do Canceril ao utilizar a habilidade [Poison Pot]
-ITEM_20160811_011087	{#000000}|Efeito| [Stun] resistência ao status +[{img star_mark 20 20}/2]%
-ITEM_20160811_011088	{#000000}|Efeito| Ataque físico máximo +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Master Genie ao utilizar a habilidade [Summoning]. (?incapaz de se mover)
-ITEM_20160811_011089	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande{nl} {nl}[Grimório] Invoca Merregina ao utilizar a habilidade [Summoning]
-ITEM_20160811_011090	{#000000}|Efeito| 1% de chance de infligir [Silence] por 5 esgundos quando atacar com ataques do tipo missel{nl} {nl}[Grimório] Invoca Templeshooter ao utilizar a habilidade [Summoning]
-ITEM_20160811_011091	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Fire Lord ao utilizar a habilidade [Summoning]
-ITEM_20160811_011092	{#000000}|Efeito| 1% de chance de induzir [Sono] por 4 segundos quando usar ataques mágicos
-ITEM_20160811_011093	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 3% de SP quando atacando monstro tipo chefe{nl} {nl}[Grimório] Invoca Deathweaver ao utilizar a habilidade [Summoning]
-ITEM_20160811_011094	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: trevas em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Flammidus ao utilizar a habilidade [Summoning]
+ITEM_20160811_011070	[Efeito] [Corte] Defesa +[{img star_mark 20 20}]
+ITEM_20160811_011071	[Efeito] resistência ao status sangramento +[{img star_mark 20 20}/2]%
+ITEM_20160811_011072	[Efeito] resistência critica +[{img star_mark 20 20}]{nl}[Pote de Veneno] Ativa a habilidade de Basilisk ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011073	[Efeito] 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
+ITEM_20160811_011074	[Efeito] Ataque Secundário máximo +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade do Plokste ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011075	[Efeito] 10% de chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
+ITEM_20160811_011076	[Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 0.5% de SP Quando atacado por monstros do tipo pequeno{nl}[Poison Pot] Ativa a habilidade do Velnewt ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011077	[Efeito] 10% de chance de aumentar o ataque elemental: terra em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl}[Poison Pot] Ativa a habilidade do Velpede ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011078	[Efeito] -1 segundos para a reculperação  de SP {nl} {nl}[Grimório] Invoca Pyroego ao utilizar a habilidade [Summoning] (incapaz de se mover)
+ITEM_20160811_011079	[Efeito] +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano quando atingido por ataques do elemento Divino
+ITEM_20160811_011080	[Efeito] 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Lithorex ao utilizar a habilidade [Summoning]
+ITEM_20160811_011081	[Efeito] resistência a ataques do tipo missel +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Nuodai ao utilizar a habilidade [Summoning] (incapaz de se mover)
+ITEM_20160811_011082	[Efeito] AoE Ratio +1{nl} {nl}[Grimório] Invoca Centaurus ao utilizar a habilidade [Summoning]
+ITEM_20160811_011083	[Efeito] HP máximo +[{img star_mark 20 20}*120]
+ITEM_20160811_011084	[Efeito] Defensa magica +[{img star_mark 20 20}]% por 10 segundos depois de usar poções de hp{nl} {nl}[Grimório] Invoca Progola ao utilizar a habilidade [Summoning]
+ITEM_20160811_011085	[Efeito] 10% de chance de aumentar o ataque elemental: divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Marionette ao utilizar a habilidade [Summoning] (incapaz de se mover)
+ITEM_20160811_011086	[Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 2% do SP quando atacado por monstros do tipo grande{nl}[Poison Pot] Ativa a habilidade do Canceril ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011087	[Efeito] [Stun] resistência ao status +[{img star_mark 20 20}/2]%
+ITEM_20160811_011088	[Efeito] Ataque físico máximo +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Master Genie ao utilizar a habilidade [Summoning]. (?incapaz de se mover)
+ITEM_20160811_011089	[Efeito] 10% de chance de aumentar o ataque elemental: gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande{nl} {nl}[Grimório] Invoca Merregina ao utilizar a habilidade [Summoning]
+ITEM_20160811_011090	[Efeito] 1% de chance de infligir [Silence] por 5 esgundos quando atacar com ataques do tipo missel{nl} {nl}[Grimório] Invoca Templeshooter ao utilizar a habilidade [Summoning]
+ITEM_20160811_011091	[Efeito] 10% de chance de aumentar o ataque elemental: fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Fire Lord ao utilizar a habilidade [Summoning]
+ITEM_20160811_011092	[Efeito] 1% de chance de induzir [Sono] por 4 segundos quando usar ataques mágicos
+ITEM_20160811_011093	[Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 3% de SP quando atacando monstro tipo chefe{nl} {nl}[Grimório] Invoca Deathweaver ao utilizar a habilidade [Summoning]
+ITEM_20160811_011094	[Efeito] 10% de chance de aumentar o ataque elemental: trevas em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Flammidus ao utilizar a habilidade [Summoning]
 ITEM_20160811_011095	Lv2 Earth Fragment
 ITEM_20160811_011096	Obtido na Earth Tower, Area Solmiki
 ITEM_20160811_011097	Neop Essence
@@ -13082,79 +13082,79 @@ ITEM_20161214_013080	Contains a random Monster Card.
 ITEM_20161214_013081	Cardboard Cube
 ITEM_20161214_013082	Contains a random recipe. {nl}{img mouseclick_right 30 30} para usar.
 ITEM_20161214_013083	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. {nl}{img mouseclick_right 30 30} para usar.{nl} Pode ser trocado por Medalhas no Exchange Shop.
-ITEM_20161214_013084	 {#000000}|Efeito| Defesa contra ataques tipo [Impacto] +[{img star_mark 20 20}]
+ITEM_20161214_013084	 [Efeito] Defesa contra ataques tipo [Impacto] +[{img star_mark 20 20}]
 ITEM_20161214_013085	[Grimório] Invoca Gorgon ao utilizar a habilidade [Summoning]
-ITEM_20161214_013086	 {#000000}|Efeito| 10% de chance de aumentar o ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros de tipo médio
+ITEM_20161214_013086	 [Efeito] 10% de chance de aumentar o ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros de tipo médio
 ITEM_20161214_013087	[Grimório] Invoca Netherbovine ao utilizar a habilidade [Summoning]
-ITEM_20161214_013088	 {#000000}|Efeito| 10% de chance de aumentar o ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros de tipo pequeno
+ITEM_20161214_013088	 [Efeito] 10% de chance de aumentar o ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros de tipo pequeno
 ITEM_20161214_013089	[Grimório] Invoca Necroventer ao utilizar a habilidade [Summoning]
 ITEM_20161214_013090	 {@st41b}{s16}{#f98d00}|Efeito| Amplificação Mágica +[{img star_mark 20 20}]
 ITEM_20161214_013091	[Grimório] Invoca Rexipher ao utilizar a habilidade [Summoning]
-ITEM_20161214_013092	 {#000000}|Efeito| 1% de dano adicional contra monstros do tipo médio
+ITEM_20161214_013092	 [Efeito] 1% de dano adicional contra monstros do tipo médio
 ITEM_20161214_013093	[Pote de Veneno] Ativa a habilidade de Reaverpede ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013094	[Efeito] Efeito das poções de SP +[{img star_mark 20 20}]%
 ITEM_20161214_013095	[Grimório] Invoca Rikaus ao utilizar a habilidade [Summoning]
-ITEM_20161214_013096	 {#000000}|Efeito| Velocidade de Movimento (+[Máximo{img star_mark 20 20}/2]) por 5 segundos depois de usar pílulas de stamina
+ITEM_20161214_013096	 [Efeito] Velocidade de Movimento (+[Máximo{img star_mark 20 20}/2]) por 5 segundos depois de usar pílulas de stamina
 ITEM_20161214_013097	[Pote de Veneno] Ativa a habilidade de Manticen ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013098	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% chance de causar Cegueira aos inimigos próximos depois de derrotas um monstro do tipo demônio
+ITEM_20161214_013098	 [Efeito] [Máximo{img star_mark 20 20}]% chance de causar Cegueira aos inimigos próximos depois de derrotas um monstro do tipo demônio
 ITEM_20161214_013099	[Grimório] Invoca Mummyghast ao utilizar a habilidade [Summoning]
-ITEM_20161214_013100	 {#000000}|Efeito| 1% de Dano adicional contra monstros de propriedade gelo
+ITEM_20161214_013100	 [Efeito] 1% de Dano adicional contra monstros de propriedade gelo
 ITEM_20161214_013101	[Pote de Veneno] Ativa a habilidade de Merge ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013102	 {#000000}|Efeito| 1% de dano adicional contra monstros do tipo voador
+ITEM_20161214_013102	 [Efeito] 1% de dano adicional contra monstros do tipo voador
 ITEM_20161214_013103	[Pote de Veneno] Ativa a habilidade de Mothstem ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013104	 {#000000}|Efeito| 1% de chance de causar [Atordoar] por 3 segundos quando usar um ataque físico
+ITEM_20161214_013104	 [Efeito] 1% de chance de causar [Atordoar] por 3 segundos quando usar um ataque físico
 ITEM_20161214_013105	[Grimório] Invoca Minotaur ao utilizar a habilidade [Summoning]
-ITEM_20161214_013106	 {#000000}|Efeito| 1% de dano adicional contra monstros do tipo pequeno
+ITEM_20161214_013106	 [Efeito] 1% de dano adicional contra monstros do tipo pequeno
 ITEM_20161214_013107	[Grimório] Invoca Mirtis ao utilizar a habilidade [Summoning]
-ITEM_20161214_013108	 {#000000}|Efeito| Evasão +[{img star_mark 20 20}]
+ITEM_20161214_013108	 [Efeito] Evasão +[{img star_mark 20 20}]
 ITEM_20161214_013109	[Grimório] Invoca Velorchard ao utilizar a habilidade [Summoning]
-ITEM_20161214_013110	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter 10 venenos de (Wugushi) depois de derrotar monstros do tipo inseto
+ITEM_20161214_013110	 [Efeito] [Máximo{img star_mark 20 20}]% de chance de obter 10 venenos de (Wugushi) depois de derrotar monstros do tipo inseto
 ITEM_20161214_013111	[Pote de Veneno] Ativa a habilidade de Biteregina ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013112	 {#000000}|Efeito| 10% de chance de aumentar o Dano Elemental: Trevas em +[{img star_mark 20 20}] quando atacar monstros do tipo grande
+ITEM_20161214_013112	 [Efeito] 10% de chance de aumentar o Dano Elemental: Trevas em +[{img star_mark 20 20}] quando atacar monstros do tipo grande
 ITEM_20161214_013113	[Grimório] Invoca Cyclops ao utilizar a habilidade [Summoning]
-ITEM_20161214_013114	 {#000000}|Efeito| Resistência ao [Silêncio] +[{img star_mark 20 20}]%
+ITEM_20161214_013114	 [Efeito] Resistência ao [Silêncio] +[{img star_mark 20 20}]%
 ITEM_20161214_013115	[Grimório] Invoca Shadowgaler ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}240% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}215% {img test_cooltime 21 21}5s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}210% {img test_cooltime 21 21}25s (Mágico)
-ITEM_20161214_013116	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento Trevas
+ITEM_20161214_013116	 [Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento Trevas
 ITEM_20161214_013117	[Grimório] Invoca Specter Monarch ao utilizar a habilidade [Summoning]
-ITEM_20161214_013118	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento Veneno
+ITEM_20161214_013118	 [Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento Veneno
 ITEM_20161214_013119	[Grimório] Invoca Throneweaver ao utilizar a habilidade [Summoning]
-ITEM_20161214_013120	 {#000000}|Efeito| +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido quando atingido por ataques do elemento Trevas
+ITEM_20161214_013120	 [Efeito] +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido quando atingido por ataques do elemento Trevas
 ITEM_20161214_013121	[Grimório] Invoca Abomination ao utilizar a habilidade [Summoning]
 ITEM_20161214_013122	[Efeito] Resistência Elemental: Trevas{img attri_Dark 23 23} +[{img star_mark 20 20}]
 ITEM_20161214_013123	[Grimório] Invoca Unknocker ao utilizar a habilidade [Summoning]
 ITEM_20161214_013124	[Efeito] DEX +[{img star_mark 20 20}]
 ITEM_20161214_013125	[Grimório] Invoca Ellaganos ao utilizar a habilidade [Summoning]
-ITEM_20161214_013126	 {#000000}|Efeito| 1% de dano adicional contras monstros do elemento Trevas
+ITEM_20161214_013126	 [Efeito] 1% de dano adicional contras monstros do elemento Trevas
 ITEM_20161214_013127	[Grimório] Invoca Unicorn ao utilizar a habilidade [Summoning]
-ITEM_20161214_013128	 {#000000}|Efeito| Ataque Mágico +[{img star_mark 20 20}]% por 4 segundos ao usar poções de SP (Não acumula com poções de SP diferentes)
+ITEM_20161214_013128	 [Efeito] Ataque Mágico +[{img star_mark 20 20}]% por 4 segundos ao usar poções de SP (Não acumula com poções de SP diferentes)
 ITEM_20161214_013129	[Grimório] Invoca Chapparition ao utilizar a habilidade [Summoning]
-ITEM_20161214_013130	 {#000000}|Efeito| 1% de dano adicional contras monstros do tipo inseto
+ITEM_20161214_013130	 [Efeito] 1% de dano adicional contras monstros do tipo inseto
 ITEM_20161214_013131	[Pote de Veneno] Ativa a habilidade de Chafer ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013132	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp depois de derrotar monstros do elemento gelo
+ITEM_20161214_013132	 [Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp depois de derrotar monstros do elemento gelo
 ITEM_20161214_013133	[Pote de Veneno] Ativa a habilidade de Carapace ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013134	 {#000000}|Efeito| Perfuração de Bloqueio +[{img star_mark 20 20}]
+ITEM_20161214_013134	 [Efeito] Perfuração de Bloqueio +[{img star_mark 20 20}]
 ITEM_20161214_013135	[Pote de Veneno] Ativa a habilidade de Krimeleechao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013136	 {#000000}|Efeito| 1% de dano adicional contras monstros do tipo chefe
+ITEM_20161214_013136	 [Efeito] 1% de dano adicional contras monstros do tipo chefe
 ITEM_20161214_013137	[Grimório] Invoca Tomblord ao utilizar a habilidade [Summoning]
-ITEM_20161214_013138	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de SP depois de derrotar monstros do elemento elétrico
+ITEM_20161214_013138	 [Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de SP depois de derrotar monstros do elemento elétrico
 ITEM_20161214_013139	[Grimório] Invoca Harpeia ao utilizar a habilidade [Summoning]
-ITEM_20161214_013140	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno 
+ITEM_20161214_013140	 [Efeito] 10% de chance de aumentar o Ataque Elemental: Veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno 
 ITEM_20161214_013141	[Pote de Veneno] Ativa a habilidade de Honeypin ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013142	 {#000000}|Efeito| Ataque Mágico +[{img star_mark 20 20}]
+ITEM_20161214_013142	 [Efeito] Ataque Mágico +[{img star_mark 20 20}]
 ITEM_20161214_013143	[Grimório] Invoca Helgasercle ao utilizar a habilidade [Summoning]
-ITEM_20161214_013144	 {#000000}|Efeito| SP Máximo +[{img star_mark 20 20}*15]
+ITEM_20161214_013144	 [Efeito] SP Máximo +[{img star_mark 20 20}*15]
 ITEM_20161214_013145	[Grimório] Invoca Specter of Deceit ao utilizar a habilidade [Summoning]
-ITEM_20161214_013146	 {#000000}|Efeito| 1% de dano adicional contra monstros que não se movem.
+ITEM_20161214_013146	 [Efeito] 1% de dano adicional contra monstros que não se movem.
 ITEM_20161214_013147	[Grimório] Invoca Corrupted ao utilizar a habilidade [Summoning]
-ITEM_20161214_013148	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
+ITEM_20161214_013148	 [Efeito] 10% de chance de aumentar o Ataque Elemental: Divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
 ITEM_20161214_013149	[Grimório] Invoca Sparnasman ao utilizar a habilidade [Summoning]
-ITEM_20161214_013150	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 1% do SP quando atacado por monstros do tipo medio
+ITEM_20161214_013150	 [Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 1% do SP quando atacado por monstros do tipo medio
 ITEM_20161214_013151	[Grimório] Invoca Cerberus ao utilizar a habilidade [Summoning]
-ITEM_20161214_013152	 {#000000}|Efeito| Precisão +[{img star_mark 20 20}]
+ITEM_20161214_013152	 [Efeito] Precisão +[{img star_mark 20 20}]
 ITEM_20161214_013153	[Grimório] Invoca Naktis ao utilizar a habilidade [Summoning]
-ITEM_20161214_013154	 {#000000}|Efeito| 5% de chance de ser ressuscitado com [{img star_mark 20 20}]% do HP quando morrer em combate
+ITEM_20161214_013154	 [Efeito] 5% de chance de ser ressuscitado com [{img star_mark 20 20}]% do HP quando morrer em combate
 ITEM_20161214_013155	[Grimório] Invoca Dullahan ao utilizar a habilidade [Summoning]
-ITEM_20161214_013156	 {#000000}|Efeito| Resistência ao debuff cegueira +[{img star_mark 20 20}]%
+ITEM_20161214_013156	 [Efeito] Resistência ao debuff cegueira +[{img star_mark 20 20}]%
 ITEM_20161214_013157	[Grimório] Invoca Riteris ao utilizar a habilidade [Summoning]
 ITEM_20161214_013158	[Efeito] Defesa Mágica +[{img star_mark 20 20}]%
 ITEM_20161214_013159	[Grimório] Invoca Nuaele ao utilizar a habilidade [Summoning]
@@ -13162,39 +13162,39 @@ ITEM_20161214_013160	[Efeito] Efeito das poções de HP +[{img star_mark 20 20}]
 ITEM_20161214_013161	[Pote de Veneno] Ativa a habilidade de Neop ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013162	[Efeito] CON +[{img star_mark 20 20}]
 ITEM_20161214_013163	[Grimório] Invoca Blut ao utilizar a habilidade [Summoning]
-ITEM_20161214_013164	 {#000000}|Efeito| Resistência a Crítico +[{img star_mark 20 20}]
+ITEM_20161214_013164	 [Efeito] Resistência a Crítico +[{img star_mark 20 20}]
 ITEM_20161214_013165	[Pote de Veneno] Ativa a habilidade de Basilisk ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013166	 {#000000}|Efeito| Ataque Secundário máximo +[{img star_mark 20 20}
+ITEM_20161214_013166	 [Efeito] Ataque Secundário máximo +[{img star_mark 20 20}
 ITEM_20161214_013167	[Pote de Veneno] Ativa a habilidade de Plokste ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013168	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 0.5% de SP quando atacado por monstros do tipo pequeno
+ITEM_20161214_013168	 [Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 0.5% de SP quando atacado por monstros do tipo pequeno
 ITEM_20161214_013169	[Pote de Veneno] Ativa a habilidade de Velnewt ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013170	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Terra em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
+ITEM_20161214_013170	 [Efeito] 10% de chance de aumentar o Ataque Elemental: Terra em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
 ITEM_20161214_013171	[Pote de Veneno] Ativa a habilidade de Velpede ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013172	 {#000000}|Efeito| -1 segundos para a recuperação de SP 
+ITEM_20161214_013172	 [Efeito] -1 segundos para a recuperação de SP 
 ITEM_20161214_013173	[Grimório] Invoca Pyroego ao utilizar a habilidade [Summoning]
-ITEM_20161214_013174	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
+ITEM_20161214_013174	 [Efeito] 10% de chance de aumentar o Ataque Elemental: Elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
 ITEM_20161214_013175	[Grimório] Invoca Lithorex ao utilizar a habilidade [Summoning]
-ITEM_20161214_013176	 {#000000}|Efeito| Resistência a ataques do tipo Projétil +[{img star_mark 20 20}]
+ITEM_20161214_013176	 [Efeito] Resistência a ataques do tipo Projétil +[{img star_mark 20 20}]
 ITEM_20161214_013177	[Grimório] Invoca Nuodai ao utilizar a habilidade [Summoning]
-ITEM_20161214_013178	 {#000000}|Efeito| Taxa de Ataque/Defesa em Área +1
+ITEM_20161214_013178	 [Efeito] Taxa de Ataque/Defesa em Área +1
 ITEM_20161214_013179	[Grimório] Invoca Centaurus ao utilizar a habilidade [Summoning]
-ITEM_20161214_013180	 {#000000}|Efeito| Defesa Mágica +[{img star_mark 20 20}]% por 10 segundos depois de usar poções de hp
+ITEM_20161214_013180	 [Efeito] Defesa Mágica +[{img star_mark 20 20}]% por 10 segundos depois de usar poções de hp
 ITEM_20161214_013181	[Grimório] Invoca Progola ao utilizar a habilidade [Summoning]
-ITEM_20161214_013182	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
+ITEM_20161214_013182	 [Efeito] 10% de chance de aumentar o Ataque Elemental: Divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
 ITEM_20161214_013183	[Grimório] Invoca Marionette ao utilizar a habilidade [Summoning]
-ITEM_20161214_013184	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 2% do SP quando atacado por monstros do tipo grande
+ITEM_20161214_013184	 [Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 2% do SP quando atacado por monstros do tipo grande
 ITEM_20161214_013185	[Pote de Veneno] Ativa a habilidade de Canceril ao utilizar a habilidade [Poison Pot]
-ITEM_20161214_013186	 {#000000}|Efeito| Ataque Físico máximo +[{img star_mark 20 20}]
+ITEM_20161214_013186	 [Efeito] Ataque Físico máximo +[{img star_mark 20 20}]
 ITEM_20161214_013187	[Grimório] Invoca Master Genie ao utilizar a habilidade [Summoning]
-ITEM_20161214_013188	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
+ITEM_20161214_013188	 [Efeito] 10% de chance de aumentar o Ataque Elemental: Gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
 ITEM_20161214_013189	[Grimório] Invoca Merregina ao utilizar a habilidade [Summoning]
-ITEM_20161214_013190	 {#000000}|Efeito| 1% de chance de causar Silêncio por 5 esgundos quando atacar com ataques do tipo Projétil
+ITEM_20161214_013190	 [Efeito] 1% de chance de causar Silêncio por 5 esgundos quando atacar com ataques do tipo Projétil
 ITEM_20161214_013191	[Grimório] Invoca Templeshooter ao utilizar a habilidade [Summoning]
-ITEM_20161214_013192	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
+ITEM_20161214_013192	 [Efeito] 10% de chance de aumentar o Ataque Elemental: Fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
 ITEM_20161214_013193	[Grimório] Invoca Fire Lord ao utilizar a habilidade [Summoning]
-ITEM_20161214_013194	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 3% de SP quando atacado por monstros tipo chefe
+ITEM_20161214_013194	 [Efeito] [Máximo{img star_mark 20 20}]% de chance de recuperar 3% de SP quando atacado por monstros tipo chefe
 ITEM_20161214_013195	[Grimório] Invoca Deathweaver ao utilizar a habilidade [Summoning]
-ITEM_20161214_013196	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
+ITEM_20161214_013196	 [Efeito] 10% de chance de aumentar o Ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
 ITEM_20161214_013197	[Grimório] Invoca Flammidus ao utilizar a habilidade [Summoning]
 ITEM_20161214_013198	Ripped Piece of Paper
 ITEM_20161214_013199	Piece of paper, purpose unknown. Strange lines can be seen.
@@ -14796,23 +14796,23 @@ ITEM_20170420_014792	Unidentified Armor Cube (Lv. 315)	미감정 방어구 큐�
 ITEM_20170420_014793	Open to obtain an unidentified Lv 315 magic armor item.	315Lv 미감정 매직 방어구 아이템 중 하나를 획득할 수 있는 상자입니다.				
 ITEM_20170420_014794	Open to obtain an unidentified Lv 315 rare weapon item.	315Lv 미감정 레어 무기 아이템 중 하나를 획득할 수 있는 상자입니다.				
 ITEM_20170420_014795	Open to obtain an unidentified Lv 315 rare armor item.	315Lv 미감정 레어 방어구 아이템 중 하나를 획득할 수 있는 상자입니다.				
-ITEM_20170420_014796	{#000000}|Efeito| Aumenta 1% de dano contra monstros Mutantes	[슬롯 장착 효과] 변이형 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_010985	{#000000}|Efeito| [Number of Cards]% additional damage against Mutant-type monsters	[슬롯 장착 효과] 변이형 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014797	{#000000}|Efeito| Aumenta 1% de dano contra monstros tamanho Médio	[슬롯 장착 효과] 중형 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013092	{#000000}|Efeito| [Number of Cards]% additional damage against Medium-type monsters	[슬롯 장착 효과] 중형 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014798	{#000000}|Efeito| Aumenta 1% de dano contra monstros do elemento Gelo	[슬롯 장착 효과] 얼음 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013100	{#000000}|Efeito| [Number of Cards]% additional damage against Ice property monsters	[슬롯 장착 효과] 얼음 속성 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014799	{#000000}|Efeito| Aumenta 1% de dano contra monstros tipo Voador	[슬롯 장착 효과] 공중형 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013102	{#000000}|Efeito| [Number of Cards]% additional damage against Flying-type monsters	[슬롯 장착 효과] 공중형 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014800	{#000000}|Efeito| Aumenta 1% de dano contra monstros tipo Demônio 	[슬롯 장착 효과] 악마형 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011002	{#000000}|Efeito| [Number of Cards]% additional damage against Devil-type monsters	[슬롯 장착 효과] 악마형 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014801	{#000000}|Efeito| Aumenta 1% de dano contra monstros tamanho Pequeno	[슬롯 장착 효과] 소형 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013106	{#000000}|Efeito| [Number of Cards]% additional damage against Small-type monsters	[슬롯 장착 효과] 소형 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014802	{#000000}|Efeito| Aumenta 1% de dano contra monstros do elemento Terra	[슬롯 장착 효과] 땅 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011009	{#000000}|Efeito| [Number of Cards]% additional damage against Earth property monsters	[슬롯 장착 효과] 땅 속성 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014803	{#000000}|Efeito| Aumenta 1% de dano contra monstros tipo Fera	[슬롯 장착 효과] 야수형 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011011	{#000000}|Efeito| [Number of Cards]% additional damage against Beast-type monsters	[슬롯 장착 효과] 야수형 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014804	{#000000}|Efeito| Aumenta 1% de dano contra monstros do elemento Fogo	[슬롯 장착 효과] 불 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011025	{#000000}|Efeito| [Number of Cards]% additional damage against Fire property monsters	[슬롯 장착 효과] 불 속성 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014805	{#000000}|Efeito| Aumenta 1% de dano contra monstros do elemento Elétrico	[슬롯 장착 효과] 전기 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011028	{#000000}|Efeito| [Number of Cards]% additional damage against Lightning property monsters	[슬롯 장착 효과] 전기 속성 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014806	{#000000}|Efeito| Aumenta 1% de dano contra monstros do elemento Trevas	[슬롯 장착 효과] 어둠 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013126	{#000000}|Efeito| [Number of Cards]% additional damage against Darkness property monsters	[슬롯 장착 효과] 어둠 속성 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014807	{#000000}|Efeito| Aumenta 1% de dano contra monstros tipo Planta	[슬롯 장착 효과] 식물형 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011034	{#000000}|Efeito| [Number of Cards]% additional damage against Plant-type Monsters	[슬롯 장착 효과] 식물형 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014808	{#000000}|Efeito| Aumenta 1% de dano contra monstros tipo Inseto	[슬롯 장착 효과] 곤충형 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013130	{#000000}|Efeito| [Number of Cards]% additional damage against Insect-type Monsters	[슬롯 장착 효과] 곤충형 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014809	{#000000}|Efeito| Aumenta 1% de dano contra monstros tipo Grande	[슬롯 장착 효과] 대형 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011040	{#000000}|Efeito| [Number of Cards]% additional damage against Large-type monsters	[슬롯 장착 효과] 대형 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014810	{#000000}|Efeito| Aumenta 1% de dano contra monstros do elemento Veneno	[슬롯 장착 효과] 독 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011042	{#000000}|Efeito| [Number of Cards]% additional damage against Poison property monsters	[슬롯 장착 효과] 독 속성 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014811	{#000000}|Efeito| Aumenta 1% de dano contra monstros tipo Chefe	[슬롯 장착 효과] 보스 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013136	{#000000}|Efeito| [Number of Cards]% additional damage against Boss-type monsters	[슬롯 장착 효과] 보스 몬스터에 [카드수]% 추가대미지	
-ITEM_20170420_014812	{#000000}|Efeito| Aumenta 1% de dano contra monstros imóveis	[슬롯 장착 효과] 고정형 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013146	{#000000}|Efeito| [Number of Cards]% additional damage against Stationary-type monsters	[슬롯 장착 효과] 고정형 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014796	[Efeito] Aumenta 1% de dano contra monstros Mutantes	[슬롯 장착 효과] 변이형 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_010985	[Efeito] [Number of Cards]% additional damage against Mutant-type monsters	[슬롯 장착 효과] 변이형 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014797	[Efeito] Aumenta 1% de dano contra monstros tamanho Médio	[슬롯 장착 효과] 중형 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013092	[Efeito] [Number of Cards]% additional damage against Medium-type monsters	[슬롯 장착 효과] 중형 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014798	[Efeito] Aumenta 1% de dano contra monstros do elemento Gelo	[슬롯 장착 효과] 얼음 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013100	[Efeito] [Number of Cards]% additional damage against Ice property monsters	[슬롯 장착 효과] 얼음 속성 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014799	[Efeito] Aumenta 1% de dano contra monstros tipo Voador	[슬롯 장착 효과] 공중형 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013102	[Efeito] [Number of Cards]% additional damage against Flying-type monsters	[슬롯 장착 효과] 공중형 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014800	[Efeito] Aumenta 1% de dano contra monstros tipo Demônio 	[슬롯 장착 효과] 악마형 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011002	[Efeito] [Number of Cards]% additional damage against Devil-type monsters	[슬롯 장착 효과] 악마형 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014801	[Efeito] Aumenta 1% de dano contra monstros tamanho Pequeno	[슬롯 장착 효과] 소형 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013106	[Efeito] [Number of Cards]% additional damage against Small-type monsters	[슬롯 장착 효과] 소형 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014802	[Efeito] Aumenta 1% de dano contra monstros do elemento Terra	[슬롯 장착 효과] 땅 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011009	[Efeito] [Number of Cards]% additional damage against Earth property monsters	[슬롯 장착 효과] 땅 속성 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014803	[Efeito] Aumenta 1% de dano contra monstros tipo Fera	[슬롯 장착 효과] 야수형 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011011	[Efeito] [Number of Cards]% additional damage against Beast-type monsters	[슬롯 장착 효과] 야수형 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014804	[Efeito] Aumenta 1% de dano contra monstros do elemento Fogo	[슬롯 장착 효과] 불 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011025	[Efeito] [Number of Cards]% additional damage against Fire property monsters	[슬롯 장착 효과] 불 속성 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014805	[Efeito] Aumenta 1% de dano contra monstros do elemento Elétrico	[슬롯 장착 효과] 전기 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011028	[Efeito] [Number of Cards]% additional damage against Lightning property monsters	[슬롯 장착 효과] 전기 속성 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014806	[Efeito] Aumenta 1% de dano contra monstros do elemento Trevas	[슬롯 장착 효과] 어둠 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013126	[Efeito] [Number of Cards]% additional damage against Darkness property monsters	[슬롯 장착 효과] 어둠 속성 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014807	[Efeito] Aumenta 1% de dano contra monstros tipo Planta	[슬롯 장착 효과] 식물형 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011034	[Efeito] [Number of Cards]% additional damage against Plant-type Monsters	[슬롯 장착 효과] 식물형 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014808	[Efeito] Aumenta 1% de dano contra monstros tipo Inseto	[슬롯 장착 효과] 곤충형 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013130	[Efeito] [Number of Cards]% additional damage against Insect-type Monsters	[슬롯 장착 효과] 곤충형 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014809	[Efeito] Aumenta 1% de dano contra monstros tipo Grande	[슬롯 장착 효과] 대형 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011040	[Efeito] [Number of Cards]% additional damage against Large-type monsters	[슬롯 장착 효과] 대형 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014810	[Efeito] Aumenta 1% de dano contra monstros do elemento Veneno	[슬롯 장착 효과] 독 속성 몬스터에 [카드수]% 데미지 증가	ITEM_20160811_011042	[Efeito] [Number of Cards]% additional damage against Poison property monsters	[슬롯 장착 효과] 독 속성 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014811	[Efeito] Aumenta 1% de dano contra monstros tipo Chefe	[슬롯 장착 효과] 보스 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013136	[Efeito] [Number of Cards]% additional damage against Boss-type monsters	[슬롯 장착 효과] 보스 몬스터에 [카드수]% 추가대미지	
+ITEM_20170420_014812	[Efeito] Aumenta 1% de dano contra monstros imóveis	[슬롯 장착 효과] 고정형 몬스터에 [카드수]% 데미지 증가	ITEM_20161214_013146	[Efeito] [Number of Cards]% additional damage against Stationary-type monsters	[슬롯 장착 효과] 고정형 몬스터에 [카드수]% 추가대미지	
 ITEM_20170420_014813	Goddesses' Blessed Gem	여신의 축복석				
 ITEM_20170420_014814	Uma gema com a benção das deusas.{Nl}Pode ser usada para transcender equipamentos.	여신의 축복이 담긴 돌입니다. 모든 아이템의 효능을 더 좋게 만드는데 쓰입니다.				
 ITEM_20170420_014815	Leaf Penguin Egg	펭그린 알				
@@ -15566,80 +15566,80 @@ ITEM_20170912_015558	A chest containing a gift from someone you helped. Right-cl
 ITEM_20170912_015559	[Efeito] Dano Adicional: Terra{img attri_Earth 23 23} +[{img star_mark 20 20}*10]
 ITEM_20170912_015560	[Efeito] [{img star_mark 20 20}]% de chance de usar [Pain Barrier] Nv.1 ao ser atacado
 ITEM_20170912_015561	[Efeito] Defesa contra Impacto +[{img star_mark 20 20}*10]
-ITEM_20170912_015562	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros voadores.
-ITEM_20170912_015563	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o dano contra armadura tipo Metal.
+ITEM_20170912_015562	[Efeito] Aumenta em [{img star_mark 20 20}]% o dano contra monstros voadores.
+ITEM_20170912_015563	[Efeito] Aumenta em [{img star_mark 20 20}/2]% o dano contra armadura tipo Metal.
 ITEM_20170912_015564	[Efeito] STR +[{img star_mark 20 20}]
 ITEM_20170912_015565	[Efeito] Dano Adicional: Trevas{img attri_Dark 23 23} +[{img star_mark 20 20}*10]
-ITEM_20170912_015566	{#000000}|Efeito| Ataque Crítico +[{img star_mark 20 20}*20]
-ITEM_20170912_015567	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros Mutantes.
+ITEM_20170912_015566	[Efeito] Ataque Crítico +[{img star_mark 20 20}*20]
+ITEM_20170912_015567	[Efeito] Aumenta em [{img star_mark 20 20}]% o dano contra monstros Mutantes.
 ITEM_20170912_015568	[Efeito] Defesa Mágica +[{img star_mark 20 20}*10]
 ITEM_20170912_015569	[Efeito] Ataque +[{img star_mark 20 20}*7] ao utilizar armas do tipo Perfurante
 ITEM_20170912_015570	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% do SP após derrotar monstros do elemento Terra
 ITEM_20170912_015571	{@st41b}{s16}{#f98d00}|Efeito| Amplificação Mágica +[{img star_mark 20 20}*10]
-ITEM_20170912_015572	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o dano contra monstros de tamanho Médio
-ITEM_20170912_015573	{#000000}|Efeito| [{img star_mark 20 20}/3]% chance do ataque causar Choque por 3 segundos
-ITEM_20170912_015574	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 3% SP quando atingido por monstros grandes
+ITEM_20170912_015572	[Efeito] Aumenta em [{img star_mark 20 20}/2]% o dano contra monstros de tamanho Médio
+ITEM_20170912_015573	[Efeito] [{img star_mark 20 20}/3]% chance do ataque causar Choque por 3 segundos
+ITEM_20170912_015574	[Efeito] [{img star_mark 20 20}]% chance de recuperar 3% SP quando atingido por monstros grandes
 ITEM_20170912_015575	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% do SP após derrotar monstros da raça Mutante
 ITEM_20170912_015576	[Efeito] Velocidade de Movimento +[{img star_mark 20 20}/5] por 10 segundos após usar qualquer poção ou pílula de Stamina
 ITEM_20170912_015577	[Efeito] STR +[{img star_mark 20 20}/2], DEX +[{img star_mark 20 20}/2]
 ITEM_20170912_015578	[Efeito] Recuperação de SP +[{img star_mark 20 20}*6]
-ITEM_20170912_015579	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano em monstros de propriedade de Gelo
+ITEM_20170912_015579	[Efeito] Aumenta em [{img star_mark 20 20}]% o dano em monstros de propriedade de Gelo
 ITEM_20170912_015580	[Efeito] Ataque Mágico +[{img star_mark 20 20}*7] ao utilizar armas do tipo Impacto
-ITEM_20170912_015581	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o danos em monstros do tipo Demônios
-ITEM_20170912_015582	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o danos em inimigos que usam couro
-ITEM_20170912_015583	{#000000}|Efeito| +[{img star_mark 20 20}]% de dano contra inimigos petrificados
+ITEM_20170912_015581	[Efeito] Aumenta em [{img star_mark 20 20}]% o danos em monstros do tipo Demônios
+ITEM_20170912_015582	[Efeito] Aumenta em [{img star_mark 20 20}/2]% o danos em inimigos que usam couro
+ITEM_20170912_015583	[Efeito] +[{img star_mark 20 20}]% de dano contra inimigos petrificados
 ITEM_20170912_015584	[Efeito] Bloqueio +[{img star_mark 20 20}*2]
 ITEM_20170912_015585	[Efeito] DEX +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
 ITEM_20170912_015586	{@st41b}{s16}{#f98d00}|Efeito| Aumenta o dano em [{img star_mark 20 20}/2]% contra mosntros de tamanho Pequeno
 ITEM_20170912_015587	[Efeito] Velocidade de Ataque +[{img star_mark 20 20}] ao utilizar armas de 2 mãos
-ITEM_20170912_015588	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros da propriedade Terra
+ITEM_20170912_015588	[Efeito] Aumenta em [{img star_mark 20 20}]% o dano contra monstros da propriedade Terra
 ITEM_20170912_015589	[Efeito] Evasão +[{img star_mark 20 20}*2]
-ITEM_20170912_015590	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros do tipo feral
-ITEM_20170912_015591	{#000000}|Efeito| Ataque +[{img star_mark 20 20}*7] quando equipado com armas tipo Impacto
+ITEM_20170912_015590	[Efeito] Aumenta em [{img star_mark 20 20}]% o dano contra monstros do tipo feral
+ITEM_20170912_015591	[Efeito] Ataque +[{img star_mark 20 20}*7] quando equipado com armas tipo Impacto
 ITEM_20170912_015592	[Efeito] Resistência Elemental: Terra +[{img star_mark 20 20}*10]
-ITEM_20170912_015593	{#000000}|Efeito| [{img star_mark 20 20}/3]% de chance dos ataques causarem Envenenamento por 6 segundos
+ITEM_20170912_015593	[Efeito] [{img star_mark 20 20}/3]% de chance dos ataques causarem Envenenamento por 6 segundos
 ITEM_20170912_015594	[Efeito] Stamina +[{img star_mark 20 20}]
 ITEM_20170912_015595	[Efeito] Resistência Elemental: Gelo{img attri_Ice 23 23} +[{img star_mark 20 20}*10]
 ITEM_20170912_015596	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% de SP após derrotar monstros do elemento Fogo
 ITEM_20170912_015597	[Efeito] Resistência à [Silence] +[{img star_mark 20 20}*2]%
-ITEM_20170912_015598	{#000000}|Efeito| [{img star_mark 20 20}/3]% por ataque de reduzir o de dano recebido em 10% por 5 segundos
+ITEM_20170912_015598	[Efeito] [{img star_mark 20 20}/3]% por ataque de reduzir o de dano recebido em 10% por 5 segundos
 ITEM_20170912_015599	[Efeito] Resistência Elemental: Raio{img attri_Lightning 23 23} +[{img star_mark 20 20}*10]
 ITEM_20170912_015600	[Efeito] Defesa contra Perfurante +[{img star_mark 20 20}*10]
 ITEM_20170912_015601	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% de SP após derrotar monstros do elemento Trevas
-ITEM_20170912_015602	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 5% de SP ao derrotar monstros da propriedade Veneno
-ITEM_20170912_015603	{#000000}|Efeito| +[{img star_mark 20 20}]% de dano contra inimigos Dormindo
-ITEM_20170912_015604	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano em monstros de propriedade Fogo
+ITEM_20170912_015602	[Efeito] [{img star_mark 20 20}]% chance de recuperar 5% de SP ao derrotar monstros da propriedade Veneno
+ITEM_20170912_015603	[Efeito] +[{img star_mark 20 20}]% de dano contra inimigos Dormindo
+ITEM_20170912_015604	[Efeito] Aumenta em [{img star_mark 20 20}]% o dano em monstros de propriedade Fogo
 ITEM_20170912_015605	[Efeito] DEX +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
 ITEM_20170912_015606	[Efeito] SPR +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
-ITEM_20170912_015607	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano em monstros de propriedade Elétrico
+ITEM_20170912_015607	[Efeito] Aumenta em [{img star_mark 20 20}]% o dano em monstros de propriedade Elétrico
 ITEM_20170912_015608	[Efeito] Dano Adicional: Divino{img attri_Holy 23 23} +[{img star_mark 20 20}*10]	
 ITEM_20170912_015609	[Efeito] Resistência Elemental: Divino{img attri_Holy 23 23} +[{img star_mark 20 20}*10]
-ITEM_20170912_015610	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano contra monstros da propriedade Trevas
-ITEM_20170912_015611	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}]% o dano em monstros do tipo Planta
-ITEM_20170912_015612	{#000000}|Efeito| Aumenta em [{img star_mark 20 20}/2]% o danos em inimigos que usam tecidos
-ITEM_20170912_015613	{#000000}|Efeito| +[{img star_mark 20 20}]% de dano contra inimigos atordoados
-ITEM_20170912_015614	{#000000}|Efeito| Ataque Mágico +[{img star_mark 20 20}]% por 6 segundos ao usar poções de SP
-ITEM_20170912_015615	{#000000}|Efeito| Aumenta [{img star_mark 20 20}]% de dano contra monstros do tipo Inseto
+ITEM_20170912_015610	[Efeito] Aumenta em [{img star_mark 20 20}]% o dano contra monstros da propriedade Trevas
+ITEM_20170912_015611	[Efeito] Aumenta em [{img star_mark 20 20}]% o dano em monstros do tipo Planta
+ITEM_20170912_015612	[Efeito] Aumenta em [{img star_mark 20 20}/2]% o danos em inimigos que usam tecidos
+ITEM_20170912_015613	[Efeito] +[{img star_mark 20 20}]% de dano contra inimigos atordoados
+ITEM_20170912_015614	[Efeito] Ataque Mágico +[{img star_mark 20 20}]% por 6 segundos ao usar poções de SP
+ITEM_20170912_015615	[Efeito] Aumenta [{img star_mark 20 20}]% de dano contra monstros do tipo Inseto
 ITEM_20170912_015616	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% do SP após derrotar monstros do elemento Gelo
-ITEM_20170912_015617	{#000000}|Efeito| Aumenta [{img star_mark 20 20}/2]% de danos em monstros grandes
+ITEM_20170912_015617	[Efeito] Aumenta [{img star_mark 20 20}/2]% de danos em monstros grandes
 ITEM_20170912_015618	[Efeito] Resistência Elemental: Veneno{img attri_Poison 23 23} +[{img star_mark 20 20}*10]
-ITEM_20170912_015619	{#000000}|Efeito| Aumenta [{img star_mark 20 20}]% de dano contra monstros da propriedade de Veneno
+ITEM_20170912_015619	[Efeito] Aumenta [{img star_mark 20 20}]% de dano contra monstros da propriedade de Veneno
 ITEM_20170912_015620	[Efeito] Penetração de Bloqueio +[{img star_mark 20 20}*1.5]
 ITEM_20170912_015621	[Efeito] Peso Carregável +[{img star_mark 20 20}]%
-ITEM_20170912_015622	{#000000}|Efeito| Aumenta[{img star_mark 20 20}/2]% de dano contra Boss
+ITEM_20170912_015622	[Efeito] Aumenta[{img star_mark 20 20}/2]% de dano contra Boss
 ITEM_20170912_015623	[Efeito] Recuperação de HP +[{img star_mark 20 20}*30]
 ITEM_20170912_015624	[Efeito] Defesa Física +[{img star_mark 20 20}*5], Defesa Mágica +[{img star_mark 20 20}*5]
 ITEM_20170912_015625	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% de SP após derrotar monstros do elemento Raio
 ITEM_20170912_015626	[Efeito] Dano Adicional: Veneno{img attri_Poison 23 23} +[{img star_mark 20 20}*10]
 ITEM_20170912_015627	[Efeito] Ataque Mágico +[{img star_mark 20 20}*5]
 ITEM_20170912_015628	[Efeito] SP Máximo +[{img star_mark 20 20}*30]
-ITEM_20170912_015629	{#000000}|Efeito| +[{img star_mark 20 20}]% dano contra inimigos congelados
-ITEM_20170912_015630	{#000000}|Efeito| [{img star_mark 20 20}/3]% chance de ataque causando sangramento por 6 segundos
-ITEM_20170912_015631	{#000000}|Efeito| Aumenta [{img star_mark 20 20}]% de dano contra monstros do tipo sem-movimento
+ITEM_20170912_015629	[Efeito] +[{img star_mark 20 20}]% dano contra inimigos congelados
+ITEM_20170912_015630	[Efeito] [{img star_mark 20 20}/3]% chance de ataque causando sangramento por 6 segundos
+ITEM_20170912_015631	[Efeito] Aumenta [{img star_mark 20 20}]% de dano contra monstros do tipo sem-movimento
 ITEM_20170912_015632	[Efeito] Velocidade de Ataque +[{img star_mark 20 20}] ao utilizar armas de 1 mão
-ITEM_20170912_015633	{#000000}|Efeito| Ataque +[{img star_mark 20 20}*7] ao equipar armas de balas
+ITEM_20170912_015633	[Efeito] Ataque +[{img star_mark 20 20}*7] ao equipar armas de balas
 ITEM_20170912_015634	[Efeito] Resistência Elemental: Trevas{img attri_Dark 23 23} +[{img star_mark 20 20}*10]
-ITEM_20170912_015635	{#000000}|Efeito| [{img star_mark 20 20}]% chance de recuperar 1% do SP quando atingido por monstros do tipo 'Medium'
+ITEM_20170912_015635	[Efeito] [{img star_mark 20 20}]% chance de recuperar 1% do SP quando atingido por monstros do tipo 'Medium'
 ITEM_20170912_015636	[Efeito] Resistência à [Sleep] +[{img star_mark 20 20}*2]%
 ITEM_20170912_015637	[Efeito] HP Máximo +[{img star_mark 20 20}*90], SP Máximo +[{img star_mark 20 20}*15]
 ITEM_20170912_015638	[Efeito] STR +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
@@ -15653,23 +15653,23 @@ ITEM_20170912_015645	[Efeito] Resistência à Crítico +[{img star_mark 20 20}*2
 ITEM_20170912_015646	[Efeito] Ataque +[{img star_mark 20 20}*7] ao utilizar armas do tipo Corte
 ITEM_20170912_015647	[Efeito] Ataque Físico +[{img star_mark 20 20}*5]
 ITEM_20170912_015648	[Efeito] INT +[{img star_mark 20 20}/2], CON +[{img star_mark 20 20}/2]
-ITEM_20170912_015649	{#000000}|Efeito| [{img star_mark 20 20}]% chance of recovering 0.5% HP when hit by Small-type monsters
-ITEM_20170912_015650	{#000000}|Efeito| [{img star_mark 20 20}/3]% chance per attack of increasing movement speed +4 for 6 seconds
+ITEM_20170912_015649	[Efeito] [{img star_mark 20 20}]% chance of recovering 0.5% HP when hit by Small-type monsters
+ITEM_20170912_015650	[Efeito] [{img star_mark 20 20}/3]% chance per attack of increasing movement speed +4 for 6 seconds
 ITEM_20170912_015651	[Efeito] INT +[{img star_mark 20 20}]
-ITEM_20170912_015652	{#000000}|Efeito| Increases [{img star_mark 20 20}]% damage against knocked-down enemies
+ITEM_20170912_015652	[Efeito] Increases [{img star_mark 20 20}]% damage against knocked-down enemies
 ITEM_20170912_015653	[Efeito] Dano Adicional: Raio{img attri_Lightning 23 23} +[{img star_mark 20 20}*10]
 ITEM_20170912_015654	[Efeito] Resistência à [Stun] +[{img star_mark 20 20}]%, resistência à [Sleep] +[{img star_mark 20 20}]%
 ITEM_20170912_015655	[Efeito] Taxa de Ataque em Área +[{img star_mark 20 20}/5]
 ITEM_20170912_015656	[Efeito] HP Máximo +[{img star_mark 20 20}*180]
-ITEM_20170912_015657	{#000000}|Efeito| [{img star_mark 20 20}/3]% chance of attack inflicting Slow for 3 seconds
-ITEM_20170912_015658	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de recuperar 2% do HP quando atingido por monstros tamanho Médio
+ITEM_20170912_015657	[Efeito] [{img star_mark 20 20}/3]% chance of attack inflicting Slow for 3 seconds
+ITEM_20170912_015658	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 2% do HP quando atingido por monstros tamanho Médio
 ITEM_20170912_015659	[Efeito] Resistência à [Stun] +[{img star_mark 20 20}*2]%
 ITEM_20170912_015660	[Efeito] Atq. Físico Secundário +[{img star_mark 20 20}*3]
 ITEM_20170912_015661	[Efeito] Dano Adicional: Gelo{img attri_Ice 23 23} +[{img star_mark 20 20}*10]
 ITEM_20170912_015662	[Efeito] STR +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
 ITEM_20170912_015663	[Efeito] Dano Adicional: Fogo{img attri_Fire 23 23} +[{img star_mark 20 20}*10]
 ITEM_20170912_015664	[Efeito] INT +[{img star_mark 20 20}/2], SPR +[{img star_mark 20 20}/2]
-ITEM_20170912_015665	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de recuperar 3% de HP quando atingido por monstros de tamanho Grande
+ITEM_20170912_015665	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 3% de HP quando atingido por monstros de tamanho Grande
 ITEM_20170912_015666	[Efeito] Resistência Elemental: Fogo{img attri_Fire 23 23} +[{img star_mark 20 20}*10]
 ITEM_20170912_015667	Marnox Card
 ITEM_20170912_015668	[Efeito] Taxa de Crítico +[{img star_mark 20 20}*1.5]
@@ -15678,12 +15678,12 @@ ITEM_20170912_015670	Zaura Card
 ITEM_20170912_015671	[Efeito] Defesa Física +[{img star_mark 20 20}]%
 ITEM_20170912_015672	[Grimório] Invoca Zaura ao utilizar a habilidade [Summoning]
 ITEM_20170912_015673	Prison Cutter Card
-ITEM_20170912_015674	{#000000}|Efeito| +[{img star_mark 20 20}]% de dano contra os inimigos sangrando
+ITEM_20170912_015674	[Efeito] +[{img star_mark 20 20}]% de dano contra os inimigos sangrando
 ITEM_20170912_015675	[Grimório] Invoca Prison Cutter ao utilizar a habilidade [Summoning]
 ITEM_20170912_015676	Ferret Marauder Card
-ITEM_20170912_015677	{#000000}|Efeito| Provocação por ataque +[{img star_mark 20 20}]%
+ITEM_20170912_015677	[Efeito] Provocação por ataque +[{img star_mark 20 20}]%
 ITEM_20170912_015678	Velnia Monkey Card
-ITEM_20170912_015679	{#000000}|Efeito| +[{img star_mark 20 20}]% de dano contra inimigos envenenados
+ITEM_20170912_015679	[Efeito] +[{img star_mark 20 20}]% de dano contra inimigos envenenados
 ITEM_20170912_015680	Enhancement Card: 300 (TBL Reward)
 ITEM_20170912_015681	It can be used to increase the EXP of other cards by +300.
 ITEM_20170912_015682	Enhancement Card: 300
@@ -15872,8 +15872,8 @@ ITEM_20171023_015864	Sugar Treat
 ITEM_20171023_015865	Um saboroso remédio em forma de abóbora obtido no calabouço do evento do Dia das Bruxas. Você pode obter um máximo de 300 treats por ida.
 ITEM_20171106_015866	[Efeito] Ataque +[{img star_mark 20 20}*7] ao utilizar armas do tipo Perfurante
 ITEM_20171106_015867	[Efeito] Ataque Mágico +[{img star_mark 20 20}*7] ao utilizar armas do tipo Impacto
-ITEM_20171106_015868	{#000000}|Efeito| Ataque +[{img star_mark 20 20}*7] quando equipado com armas tipo Impacto
-ITEM_20171106_015869	{#000000}|Efeito| Ataque +[{img star_mark 20 20}*7] quando equipado com armas tipo Projétil
+ITEM_20171106_015868	[Efeito] Ataque +[{img star_mark 20 20}*7] quando equipado com armas tipo Impacto
+ITEM_20171106_015869	[Efeito] Ataque +[{img star_mark 20 20}*7] quando equipado com armas tipo Projétil
 ITEM_20171106_015870	[Efeito] Ataque +[{img star_mark 20 20}*7] ao utilizar armas do tipo Corte
 ITEM_20171113_015871	Winter Night Costume (M)
 ITEM_20171113_015872	A costume reflecting the beauty of stargazing on clear winter nights.  Your appearance will change if you equip this.
@@ -17432,7 +17432,7 @@ ITEM_20180208_017417	Use para adicionar um soquete em equipamentos com potencial
 ITEM_20180208_017418	[Efeito] [{img star_mark 20 20}]% de chance de usar [Pain Barrier] Nv.1 ao ser atacado
 ITEM_20180208_017419	[Efeito] Defesa Física +[{img star_mark 20 20}]% por 10 segundos após usar qualquer poção de HP
 ITEM_20180208_017420	[Efeito] Aumenta o dano contra inimigos Voadores em [{img star_mark 20 20}]%
-ITEM_20180208_017421	{#000000}|Efeito| Ataque Físico +[{img star_mark 20 20}]% por 6 segundos quando usar qualquer tipo de poção de SP
+ITEM_20180208_017421	[Efeito] Ataque Físico +[{img star_mark 20 20}]% por 6 segundos quando usar qualquer tipo de poção de SP
 ITEM_20180208_017422	[Efeito] Aumenta o dano contra inimigos com armadura de Metal em [{img star_mark 20 20}/2]%
 ITEM_20180208_017423	[Efeito] Aumenta o dano contra monstros da raça Mutante em [{img star_mark 20 20}]%
 ITEM_20180208_017424	[Efeito] Ataque +[{img star_mark 20 20}*7] ao utilizar armas do tipo Perfurante
@@ -17452,7 +17452,7 @@ ITEM_20180208_017437	[Efeito] Aumenta o dano contra monstros de tamanho Pequeno 
 ITEM_20180208_017438	[Efeito] Velocidade de Ataque +[{img star_mark 20 20}] ao utilizar armas de 2 mãos
 ITEM_20180208_017439	[Efeito] Aumenta o dano contra monstros do elemento Terra em [{img star_mark 20 20}]%
 ITEM_20180208_017440	[Efeito] Aumenta o dano contra monstros da raça Fera em [{img star_mark 20 20}]%
-ITEM_20180208_017441	{#000000}|Efeito| Ataque +[{img star_mark 20 20}*7] quando equipado com armas do tipo Impacto
+ITEM_20180208_017441	[Efeito] Ataque +[{img star_mark 20 20}*7] quando equipado com armas do tipo Impacto
 ITEM_20180208_017442	[Efeito] [{img star_mark 20 20}/3]% de chance, por ataque feito, de causar [Poison] no inimigo por 6 segundos
 ITEM_20180208_017443	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% de SP após derrotar monstros do elemento Fogo
 ITEM_20180208_017444	[Efeito] [{img star_mark 20 20}/3]% de chance, por ataque feito, de reduzir o dano recebido em 10% por 5 segundos
@@ -17468,7 +17468,7 @@ ITEM_20180208_017453	[Efeito] Aumenta o dano contra monstros do elemento Trevas 
 ITEM_20180208_017454	[Efeito] Aumenta o dano contra monstros da raça Planta em [{img star_mark 20 20}]%
 ITEM_20180208_017455	[Efeito] Aumenta o dano contra inimigos com armadura de Tecido em [{img star_mark 20 20}/2]%
 ITEM_20180208_017456	[Efeito] Aumenta o dano contra inimigos sob efeito de [Stun] em [{img star_mark 20 20}]%
-ITEM_20180208_017457	{#000000}|Efeito| Ataque Mágico +[{img star_mark 20 20}]% por 6 segundos quando usar qualquer tipo de poção de SP
+ITEM_20180208_017457	[Efeito] Ataque Mágico +[{img star_mark 20 20}]% por 6 segundos quando usar qualquer tipo de poção de SP
 ITEM_20180208_017458	[Efeito] Aumenta o dano contra monstros da raça Inseto em [{img star_mark 20 20}]%
 ITEM_20180208_017459	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 5% de SP após derrotar monstros do elemento Gelo
 ITEM_20180208_017460	[Efeito] Aumenta o dano contra monstros de tamanho Grande em [{img star_mark 20 20}/2]%
@@ -17493,7 +17493,7 @@ ITEM_20180208_017478	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 0.
 ITEM_20180208_017479	[Efeito] [{img star_mark 20 20}/3]% de chance, por ataque feito, de aumentar a Velocidade de Movimento em +4 por 6 segundos
 ITEM_20180208_017480	[Efeito] INT +[{img star_mark 20 20}]
 ITEM_20180208_017481	[Efeito] Aumenta o dano contra inimigos derrubados em [{img star_mark 20 20}]%
-ITEM_20180208_017482	{#000000}|Efeito| Resistência a Atordoar +[{img star_mark 20 20}], Resistência a Dormir +[{img star_mark 20 20}]
+ITEM_20180208_017482	[Efeito] Resistência a Atordoar +[{img star_mark 20 20}], Resistência a Dormir +[{img star_mark 20 20}]
 ITEM_20180208_017483	[Efeito] Defesa Mágica +[{img star_mark 20 20}]% por 10 segundos após usar qualquer poção de HP
 ITEM_20180208_017484	[Efeito] [{img star_mark 20 20}/3]% de chance, por ataque feito, de causar [Slow] no inimigo por 3 segundos
 ITEM_20180208_017485	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 2% de HP ao ser atacado por monstros de tamanho Médio{nl}Cooldown 15 segundos
@@ -17521,7 +17521,7 @@ ITEM_20180208_017506	Gorkas Card
 ITEM_20180208_017507	[Efeito] Chance de Drop +[{img star_mark 20 20}*5]
 ITEM_20180208_017508	[Grimório] Invoca Gorkas ao utilizar a habilidade [Summoning]
 ITEM_20180208_017509	Froster Lord Card
-ITEM_20180208_017510	{#000000}|Efeito| [{img star_mark 20 20}/2%] de chance por ataque (incluindo skills) de congelar o inimigo por 4 segundos
+ITEM_20180208_017510	[Efeito] [{img star_mark 20 20}/2%] de chance por ataque (incluindo skills) de congelar o inimigo por 4 segundos
 ITEM_20180208_017511	[Grimório] Invoca Froster Lord ao utilizar a habilidade [Summoning]
 ITEM_20180208_017512	A hammer with mysterious powers that allow it to dismantle all that it touches. Used to extract Blessed Shards.
 ITEM_20180208_017513	Golden Dog Warrior Box
