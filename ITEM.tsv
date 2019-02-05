@@ -10988,15 +10988,15 @@ ITEM_20160811_010986	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% de chanc
 ITEM_20160811_010987	[Efeito] Efeito das poções e pílulas de Stamina +[{img star_mark 20 20}]%
 ITEM_20160811_010988	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano recebido quando atingido por ataques do elemento Gelo
 ITEM_20160811_010989	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de recuperar 10% SP depois de derrotar um monstro do elemento Terra
-ITEM_20160811_010990	{#000000}|Efeito| Amplificação magica +[{img star_mark 20 20}]{nl} {nl}[Grimório] invoca Rexipher ao usar a skill Summoning
+ITEM_20160811_010990	{#000000}|Efeito| Amplificação magica +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Rexipher ao usar a skill Summoning
 ITEM_20160811_010991	{#000000}|Efeito| 1% dano adicional contra monstros do tipo médio{nl}[Poison Pot] Ativa a Habilidade do Reaverpede quando usado no Poison Pot
-ITEM_20160811_010992	{#000000}|Efeito| Efeito da poção de SP  +[{img star_mark 20 20}]{nl} {nl}[Grimório] invoca Rikaus quando usar a skill Summoning
+ITEM_20160811_010992	{#000000}|Efeito| Efeito da poção de SP  +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Rikaus ao utilizar a habilidade [Summoning]
 ITEM_20160811_010993	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano recebido quando atingido por ataques do elemento Elétrico
 ITEM_20160811_010994	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: Gelo em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros do tipo médio
 ITEM_20160811_010995	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de causar dano aos monstros próximos depois de derrotar monstros do tipo mutante
 ITEM_20160811_010996	Manticen Card
 ITEM_20160811_010997	{#000000}|Efeito| Velocidade de movimento (+[Máximo{img star_mark 20 20}/2]) por 5 segundos depois de usar pílulas de stamina{nl}[Poison Pot] Ativa a Habilidade do Manticen quando usado no Poison Pot
-ITEM_20160811_010998	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% chance de causar cegueira aos inimigos próximos depois de derrotas um monstro do tipo demônio{nl} {nl}[Grimório] Invoca Mummyghast quando usar a skill Summoning
+ITEM_20160811_010998	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% chance de causar cegueira aos inimigos próximos depois de derrotas um monstro do tipo demônio{nl} {nl}[Grimório] Invoca Mummyghast ao utilizar a habilidade [Summoning]
 ITEM_20160811_010999	{#000000}|Efeito| 10% chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros do tipo meio
 ITEM_20160811_011000	{#000000}|Efeito| 1% de Dano adicional contra monstros de propriedade gelo{nl}[Poison Pot] Ativa a habilidade do Merge quando usado no Poison Pot
 ITEM_20160811_011001	{#000000}|Efeito| 1% de dano adicional contra monstros do tipo voador{nl}[Poison Pot] Ativa a Habilidade do Mothstem quando usado no Poison Pot
@@ -11004,95 +11004,95 @@ ITEM_20160811_011002	{#000000}|Efeito| 1% de dano adicional contra monstros do t
 ITEM_20160811_011003	[Efeito] Resistência Elemental: Terra +[{img star_mark 20 20}]
 ITEM_20160811_011004	{#000000}|Efeito| 10% chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar um monstro do tipo grande
 ITEM_20160811_011005	[Efeito] Bloqueio +[{img star_mark 20 20}]
-ITEM_20160811_011006	{#000000}|Efeito| 1% de chance de causar [Stun] por 3 segundos quando usar um ataque físico{nl} {nl}[Grimório] invoca Minotaur ao usar a skill Summoning
-ITEM_20160811_011007	{#000000}|Efeito| 1% de dano adicional contra monstros do tipo pequeno{nl} {nl}[Grimório] invoca Mirtis ao usar a skill Summoning
+ITEM_20160811_011006	{#000000}|Efeito| 1% de chance de causar [Stun] por 3 segundos quando usar um ataque físico{nl} {nl}[Grimório] Invoca Minotaur ao usar a skill Summoning
+ITEM_20160811_011007	{#000000}|Efeito| 1% de dano adicional contra monstros do tipo pequeno{nl} {nl}[Grimório] Invoca Mirtis ao usar a skill Summoning
 ITEM_20160811_011008	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo médio
 ITEM_20160811_011009	{#000000}|Efeito| 1% de dano adicional contra monstros do elemento terra
-ITEM_20160811_011010	[Efeito] Evasão +[{img star_mark 20 20}]{nl}[Grimório] Invoca Velorchard ao utilizar [Summoning]
+ITEM_20160811_011010	[Efeito] Evasão +[{img star_mark 20 20}]{nl}[Grimório] Invoca Velorchard ao utilizar a habilidade [Summoning]
 ITEM_20160811_011011	{#000000}|Efeito| 1% de dano adicional contra monstros do tipo Besta
 ITEM_20160811_011012	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
 ITEM_20160811_011013	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: divino em +[{img star_mark 20 20}] por 7 seegundos quando atacar monstros do tipo médio
-ITEM_20160811_011014	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter 10 venenos (Wugushi) depois de derrotar monstros do tipo inseto {nl}[Pote de Veneno] Ativa a habilidade de Biteregina ao utilizar [Poison Pot]
-ITEM_20160811_011015	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: trevas em +[{img star_mark 20 20}] quando atacar monstros do tipo grande {nl} {nl}[Grimório] invoca Cyclops quando usar a skill Summoning
+ITEM_20160811_011014	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter 10 venenos (Wugushi) depois de derrotar monstros do tipo inseto {nl}[Pote de Veneno] Ativa a habilidade de Biteregina ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011015	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: trevas em +[{img star_mark 20 20}] quando atacar monstros do tipo grande {nl} {nl}[Grimório] Invoca Cyclops ao utilizar a habilidade [Summoning]
 ITEM_20160811_011016	[Efeito] Resistência Elemental: Gelo{img attri_Ice 23 23} +[{img star_mark 20 20}]
 ITEM_20160811_011017	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% chance de recuperar 10% de SP depois de derrotar um monstro do elemento fogo
-ITEM_20160811_011018	{#000000}|Efeito| [Silence] resistência ou status +[{img star_mark 20 20}]{nl} {nl}[Grimório] invoca Shadowgaler quando usar a skill Summoning
+ITEM_20160811_011018	{#000000}|Efeito| [Silence] resistência ou status +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Shadowgaler ao utilizar a habilidade [Summoning]
 ITEM_20160811_011019	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido de ataques do elemento Terra
 ITEM_20160811_011020	[Efeito] Resistência Elemental: Raio{img attri_Lightning 23 23} +[{img star_mark 20 20}]
 ITEM_20160811_011021	{#000000}|Efeito| [Perfurante] Defesa +[{img star_mark 20 20}]
-ITEM_20160811_011022	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento trevas{nl} {nl}[Grimório] invoca Specter Monarch quando usar a skill Summoning
-ITEM_20160811_011023	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento veneno{nl} {nl}[Grimório] invoca Throneweaver quando usar a skill Summoning
+ITEM_20160811_011022	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento trevas{nl} {nl}[Grimório] Invoca Specter Monarch ao utilizar a habilidade [Summoning]
+ITEM_20160811_011023	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento veneno{nl} {nl}[Grimório] Invoca Throneweaver ao utilizar a habilidade [Summoning]
 ITEM_20160811_011024	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
 ITEM_20160811_011025	{#000000}|Efeito| 1% da dano adicional quando atacar monstros do elemente fogo
-ITEM_20160811_011026	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido de ataques do elemento trevas{nl} {nl}[Grimório] invoca Abomination quando usar a skill Summoning
-ITEM_20160811_011027	{#000000}|Efeito| resistência elementar: trevas +[{img star_mark 20 20}]{nl} {nl}[Grimório] invoca Unknocker quando usar a skill Summoning
+ITEM_20160811_011026	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido de ataques do elemento trevas{nl} {nl}[Grimório] Invoca Abomination ao utilizar a habilidade [Summoning]
+ITEM_20160811_011027	{#000000}|Efeito| resistência elementar: trevas +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Unknocker ao utilizar a habilidade [Summoning]
 ITEM_20160811_011028	{#000000}|Efeito| 1% de dano adicional contras monstros do elemento elétrico
-ITEM_20160811_011029	[Efeito] DEX +[{img star_mark 20 20}]{nl}[Grimório] Invoca Ellaganos ao utilizar [Summoning]
+ITEM_20160811_011029	[Efeito] DEX +[{img star_mark 20 20}]{nl}[Grimório] Invoca Ellaganos ao utilizar a habilidade [Summoning]
 ITEM_20160811_011030	{#000000}|Efeito| 10% de chance de aumentar o dano elemental: divino em +[{img star_mark 20 20}] por 7 segundos qunado atacar monstros do tipo pequeno
 ITEM_20160811_011031	[Efeito] Resistência Elemental: Divino{img attri_Holy 23 23} +[{img star_mark 20 20}]
 ITEM_20160811_011032	[Efeito] [{img star_mark 20 20}]% de chance dos ataques serem considerados como ataques pelas costas
-ITEM_20160811_011033	{#000000}|Efeito| 1% de dano adicional contras monstros do elemento trevas{nl} {nl}[Grimório] invoca Unicorn quando usar a skill Summoning
+ITEM_20160811_011033	{#000000}|Efeito| 1% de dano adicional contras monstros do elemento trevas{nl} {nl}[Grimório] Invoca Unicorn ao utilizar a habilidade [Summoning]
 ITEM_20160811_011034	{#000000}|Efeito| 1% de dano adicional contras monstros do tipo planta
 ITEM_20160811_011035	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter 1 fogueira depois de derrotar monstros do tipo planta
 ITEM_20160811_011036	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter wooden piece depois de derrotar monstros do tipo planta
-ITEM_20160811_011037	{#000000}|Efeito| Ataque Mágico +[{img star_mark 20 20}]% por 4 segundos ao usar poções de SP (Não acumula com poções de SP diferentes){nl} {nl}[Grimório] Invoca Chapparition quando usar a skill Summoning
-ITEM_20160811_011038	{#000000}|Efeito| 1% de dano adicional contras monstros do tipo inseto{nl}[Poison Pot] Ativa a habilidade do Chafer ao utilizar [Poison Pot]
-ITEM_20160811_011039	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp depois de derrotar monstros do elemento gelo{nl}[Poison Pot] ativa a habilidade do Carapace ao utilizar [Poison Pot]
+ITEM_20160811_011037	{#000000}|Efeito| Ataque Mágico +[{img star_mark 20 20}]% por 4 segundos ao usar poções de SP (Não acumula com poções de SP diferentes){nl} {nl}[Grimório] Invoca Chapparition ao utilizar a habilidade [Summoning]
+ITEM_20160811_011038	{#000000}|Efeito| 1% de dano adicional contras monstros do tipo inseto{nl}[Poison Pot] Ativa a habilidade do Chafer ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011039	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp depois de derrotar monstros do elemento gelo{nl}[Poison Pot] ativa a habilidade do Carapace ao utilizar a habilidade [Poison Pot]
 ITEM_20160811_011040	{#000000}|Efeito| 1% de dano adicional contras monstros do tipo planta
 ITEM_20160811_011041	{#000000}|Efeito| 10% de chance de aumentar o ataque elemento: gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar um monstro do tipo pequeno
 ITEM_20160811_011042	{#000000}|Efeito| 1% de dano adicional contras monstros do elemento veneno
-ITEM_20160811_011043	{#000000}|Efeito| Penetração de bloqueio +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade do Krimeleech ao utilizar [Poison Pot]
+ITEM_20160811_011043	{#000000}|Efeito| Penetração de bloqueio +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade do Krimeleech ao utilizar a habilidade [Poison Pot]
 ITEM_20160811_011044	[Efeito] Peso Carregável +[Máximo{img star_mark 20 20}]%
-ITEM_20160811_011045	{#000000}|Efeito| 1% de dano adicional contras monstros do tipo chefe {nl} {nl}[Grimório] invoca Tomblord quando usar a skill Summoning
+ITEM_20160811_011045	{#000000}|Efeito| 1% de dano adicional contras monstros do tipo chefe {nl} {nl}[Grimório] Invoca Tomblord ao utilizar a habilidade [Summoning]
 ITEM_20160811_011046	[Efeito] Resistência Elemental: Veneno{img attri_Poison 23 23} +[{img star_mark 20 20}]
 ITEM_20160811_011047	[Efeito] Resistência Elemental: Fogo{img attri_Fire 23 23} +[{img star_mark 20 20}]
-ITEM_20160811_011048	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de SP depois de derrotar monstros do elemento elétrico {nl} {nl}[Grimório] invoca Harpeia quando usar a skill Summoning
-ITEM_20160811_011049	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno {nl}[Pote de Veneno] Ativa a habilidade de Honeypin ao utilizar [Poison Pot]
-ITEM_20160811_011050	{@st66b}{#000000}[{img itemcraft_btn 20 20}Efeito da Carta]{/}{/} Ataque magico +[{img star_mark 20 20}]{nl} {nl}[Grimório] invoca Helgasercle quando usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}1s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}301% {img test_cooltime 21 21}30s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}231% {img test_cooltime 21 21}50s (Mágico)
-ITEM_20160811_011051	{#000000}|Efeito| SP máximo +[{img star_mark 20 20}*15]{nl} {nl}[Grimório] invoca Specter of Deceit quando usar a skill Summoning
+ITEM_20160811_011048	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de SP depois de derrotar monstros do elemento elétrico {nl} {nl}[Grimório] Invoca Harpeia ao utilizar a habilidade [Summoning]
+ITEM_20160811_011049	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno {nl}[Pote de Veneno] Ativa a habilidade de Honeypin ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011050	{@st66b}{#000000}[{img itemcraft_btn 20 20}Efeito da Carta]{/}{/} Ataque magico +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Helgasercle ao utilizar a habilidade [Summoning]{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}1s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}301% {img test_cooltime 21 21}30s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}231% {img test_cooltime 21 21}50s (Mágico)
+ITEM_20160811_011051	{#000000}|Efeito| SP máximo +[{img star_mark 20 20}*15]{nl} {nl}[Grimório] Invoca Specter of Deceit ao utilizar a habilidade [Summoning]
 ITEM_20160811_011052	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar um monstro do tipo chefe
 ITEM_20160811_011053	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter 3 corpos(Necromancer) depois de derrotar monstros do tipo besta
-ITEM_20160811_011054	{#000000}|Efeito| 1% de dano adicional contra monstros imóveis{nl} {nl}[Grimório] invoca Corrupted quando usar a skill Summoning (incapaz de mover-se)
+ITEM_20160811_011054	{#000000}|Efeito| 1% de dano adicional contra monstros imóveis{nl} {nl}[Grimório] Invoca Corrupted ao utilizar a habilidade [Summoning] (incapaz de mover-se)
 ITEM_20160811_011055	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: terra em +[{img star_mark 20 20}] for 7 segundos quando atacar um monstro do tipo médio
 ITEM_20160811_011056	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
-ITEM_20160811_011057	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande{nl} {nl}[Grimório] invoca Sparnasman quando usar a skill Summoning
-ITEM_20160811_011058	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 1% do SP quando atacado por monstros do tipo medio {nl} {nl}[Grimório] invoca Cerberus quando usar a skill Summoning
+ITEM_20160811_011057	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande{nl} {nl}[Grimório] Invoca Sparnasman ao utilizar a habilidade [Summoning]
+ITEM_20160811_011058	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 1% do SP quando atacado por monstros do tipo medio {nl} {nl}[Grimório] Invoca Cerberus ao utilizar a habilidade [Summoning]
 ITEM_20160811_011059	{#000000}|Efeito| [Sono] resistência ao status +[{img star_mark 20 20}]%
 ITEM_20160811_011060	{#000000}|Efeito| Recuperação de HP, SP +1%
 ITEM_20160811_011061	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: terra +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
 ITEM_20160811_011062	{#000000}|Efeito| Defesa física +[{img star_mark 20 20}]
-ITEM_20160811_011063	{#000000}|Efeito| Precisão +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Naktis quando usar a skill Summoning
+ITEM_20160811_011063	{#000000}|Efeito| Precisão +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Naktis ao utilizar a habilidade [Summoning]
 ITEM_20160811_011064	[Efeito] SPR +[{img star_mark 20 20}]
-ITEM_20160811_011065	{#000000}|Efeito| 5% de chance de ser ressuscitado com [{img star_mark 20 20}]% do HP quando morrer em combate{nl} {nl}[Grimório] Invoca Dullahan quando usar a skill Summoning
-ITEM_20160811_011066	{#000000}|Efeito| resistência ao status cegueira +[{img star_mark 20 20}/2]%{nl} {nl}[Grimório] Invoca Riteris quando usar a skill Summoning
-ITEM_20160811_011067	[Efeito] Defesa Mágica +[{img star_mark 20 20}]%{nl}[Grimório] Invoca Nuaele ao utilizar [Summoning]
-ITEM_20160811_011068	[Efeito] Efeito das poções de HP +[{img star_mark 20 20}]%{nl}[Pote de Veneno] Ativa a habilidade de Neop ao utilizar [Poison Pot]
-ITEM_20160811_011069	[Efeito] CON +[{img star_mark 20 20}]{nl}[Grimório] Invoca Blut ao utilizar [Summoning]
+ITEM_20160811_011065	{#000000}|Efeito| 5% de chance de ser ressuscitado com [{img star_mark 20 20}]% do HP quando morrer em combate{nl} {nl}[Grimório] Invoca Dullahan ao utilizar a habilidade [Summoning]
+ITEM_20160811_011066	{#000000}|Efeito| resistência ao status cegueira +[{img star_mark 20 20}/2]%{nl} {nl}[Grimório] Invoca Riteris ao utilizar a habilidade [Summoning]
+ITEM_20160811_011067	[Efeito] Defesa Mágica +[{img star_mark 20 20}]%{nl}[Grimório] Invoca Nuaele ao utilizar a habilidade [Summoning]
+ITEM_20160811_011068	[Efeito] Efeito das poções de HP +[{img star_mark 20 20}]%{nl}[Pote de Veneno] Ativa a habilidade de Neop ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011069	[Efeito] CON +[{img star_mark 20 20}]{nl}[Grimório] Invoca Blut ao utilizar a habilidade [Summoning]
 ITEM_20160811_011070	{#000000}|Efeito| [Corte] Defesa +[{img star_mark 20 20}]
 ITEM_20160811_011071	{#000000}|Efeito| resistência ao status sangramento +[{img star_mark 20 20}/2]%
-ITEM_20160811_011072	{#000000}|Efeito| resistência critica +[{img star_mark 20 20}]{nl}[Pote de Veneno] Ativa a habilidade de Basilisk ao utilizar [Poison Pot]
+ITEM_20160811_011072	{#000000}|Efeito| resistência critica +[{img star_mark 20 20}]{nl}[Pote de Veneno] Ativa a habilidade de Basilisk ao utilizar a habilidade [Poison Pot]
 ITEM_20160811_011073	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno
-ITEM_20160811_011074	{#000000}|Efeito| Ataque Secundário máximo +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade do Plokste ao utilizar [Poison Pot]
+ITEM_20160811_011074	{#000000}|Efeito| Ataque Secundário máximo +[{img star_mark 20 20}]{nl}[Poison Pot] Ativa a habilidade do Plokste ao utilizar a habilidade [Poison Pot]
 ITEM_20160811_011075	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
-ITEM_20160811_011076	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 0.5% de SP Quando atacado por monstros do tipo pequeno{nl}[Poison Pot] Ativa a habilidade do Velnewt ao utilizar [Poison Pot]
-ITEM_20160811_011077	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: terra em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl}[Poison Pot] Ativa a habilidade do Velpede ao utilizar [Poison Pot]
-ITEM_20160811_011078	{#000000}|Efeito| -1 segundos para a reculperação  de SP {nl} {nl}[Grimório] Invoca Pyroego quando usar a skill Summoning (incapaz de se mover)
+ITEM_20160811_011076	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 0.5% de SP Quando atacado por monstros do tipo pequeno{nl}[Poison Pot] Ativa a habilidade do Velnewt ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011077	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: terra em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl}[Poison Pot] Ativa a habilidade do Velpede ao utilizar a habilidade [Poison Pot]
+ITEM_20160811_011078	{#000000}|Efeito| -1 segundos para a reculperação  de SP {nl} {nl}[Grimório] Invoca Pyroego ao utilizar a habilidade [Summoning] (incapaz de se mover)
 ITEM_20160811_011079	{#000000}|Efeito| +[Máximo{img star_mark 20 20}]% de chance de refletir 50% do dano quando atingido por ataques do elemento Divino
-ITEM_20160811_011080	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] invoca Lithorex quando usar a skill Summoning
-ITEM_20160811_011081	{#000000}|Efeito| resistência a ataques do tipo missel +[{img star_mark 20 20}]{nl} {nl}[Grimório] invoca Nuodai quando usar a skill Summoning (incapaz de se mover)
-ITEM_20160811_011082	{#000000}|Efeito| AoE Ratio +1{nl} {nl}[Grimório] invoca Centaurus quando usar a skill Summoning
+ITEM_20160811_011080	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Lithorex ao utilizar a habilidade [Summoning]
+ITEM_20160811_011081	{#000000}|Efeito| resistência a ataques do tipo missel +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Nuodai ao utilizar a habilidade [Summoning] (incapaz de se mover)
+ITEM_20160811_011082	{#000000}|Efeito| AoE Ratio +1{nl} {nl}[Grimório] Invoca Centaurus ao utilizar a habilidade [Summoning]
 ITEM_20160811_011083	{#000000}|Efeito| HP máximo +[{img star_mark 20 20}*120]
-ITEM_20160811_011084	{#000000}|Efeito| Defensa magica +[{img star_mark 20 20}]% por 10 segundos depois de usar poções de hp{nl} {nl}[Grimório] invoca Progola quando usar a skill Summoning
-ITEM_20160811_011085	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Marionette quando usar a skill Summoning (incapaz de se mover)
-ITEM_20160811_011086	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 2% do SP quando atacado por monstros do tipo grande{nl}[Poison Pot] Ativa a habilidade do Canceril ao utilizar [Poison Pot]
+ITEM_20160811_011084	{#000000}|Efeito| Defensa magica +[{img star_mark 20 20}]% por 10 segundos depois de usar poções de hp{nl} {nl}[Grimório] Invoca Progola ao utilizar a habilidade [Summoning]
+ITEM_20160811_011085	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Marionette ao utilizar a habilidade [Summoning] (incapaz de se mover)
+ITEM_20160811_011086	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 2% do SP quando atacado por monstros do tipo grande{nl}[Poison Pot] Ativa a habilidade do Canceril ao utilizar a habilidade [Poison Pot]
 ITEM_20160811_011087	{#000000}|Efeito| [Stun] resistência ao status +[{img star_mark 20 20}/2]%
-ITEM_20160811_011088	{#000000}|Efeito| Ataque físico máximo +[{img star_mark 20 20}]{nl} {nl}[Grimório] invoca Master Genie quando usar a skill Summoning. (?incapaz de se mover)
-ITEM_20160811_011089	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande{nl} {nl}[Grimório] invoca Merregina quando usar a skill Summoning
-ITEM_20160811_011090	{#000000}|Efeito| 1% de chance de infligir [Silence] por 5 esgundos quando atacar com ataques do tipo missel{nl} {nl}[Grimório] invoca Templeshooter quando usar a skill Summoning
-ITEM_20160811_011091	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Fire Lord quando usar a skill Summoning
+ITEM_20160811_011088	{#000000}|Efeito| Ataque físico máximo +[{img star_mark 20 20}]{nl} {nl}[Grimório] Invoca Master Genie ao utilizar a habilidade [Summoning]. (?incapaz de se mover)
+ITEM_20160811_011089	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande{nl} {nl}[Grimório] Invoca Merregina ao utilizar a habilidade [Summoning]
+ITEM_20160811_011090	{#000000}|Efeito| 1% de chance de infligir [Silence] por 5 esgundos quando atacar com ataques do tipo missel{nl} {nl}[Grimório] Invoca Templeshooter ao utilizar a habilidade [Summoning]
+ITEM_20160811_011091	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Fire Lord ao utilizar a habilidade [Summoning]
 ITEM_20160811_011092	{#000000}|Efeito| 1% de chance de induzir [Sono] por 4 segundos quando usar ataques mágicos
-ITEM_20160811_011093	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 3% de SP quando atacando monstro tipo chefe{nl} {nl}[Grimório] invoca Deathweaver quando usar a skill Summoning
-ITEM_20160811_011094	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: trevas em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] invoca Flammidus quando usar a skill SummoningITEM_20160811_011095	Lv2 Earth Fragment
+ITEM_20160811_011093	{#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 3% de SP quando atacando monstro tipo chefe{nl} {nl}[Grimório] Invoca Deathweaver ao utilizar a habilidade [Summoning]
+ITEM_20160811_011094	{#000000}|Efeito| 10% de chance de aumentar o ataque elemental: trevas em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe{nl} {nl}[Grimório] Invoca Flammidus ao utilizar a habilidade [Summoning]
 ITEM_20160811_011095	Lv2 Earth Fragment
 ITEM_20160811_011096	Obtido na Earth Tower, Area Solmiki
 ITEM_20160811_011097	Neop Essence
@@ -13083,119 +13083,119 @@ ITEM_20161214_013081	Cardboard Cube
 ITEM_20161214_013082	Contains a random recipe. {nl}{img mouseclick_right 30 30} para usar.
 ITEM_20161214_013083	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. {nl}{img mouseclick_right 30 30} para usar.{nl} Pode ser trocado por Medalhas no Exchange Shop.
 ITEM_20161214_013084	 {#000000}|Efeito| Defesa contra ataques tipo [Impacto] +[{img star_mark 20 20}]
-ITEM_20161214_013085	[Grimório] Invoca Gorgon ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}204% {img test_cooltime 21 21}20s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}204% {img test_cooltime 21 21}15s (Mágico)
+ITEM_20161214_013085	[Grimório] Invoca Gorgon ao utilizar a habilidade [Summoning]
 ITEM_20161214_013086	 {#000000}|Efeito| 10% de chance de aumentar o ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros de tipo médio
-ITEM_20161214_013087	[Grimório] Invoca Netherbovine ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}453% {img test_cooltime 21 21}1s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}250% {img test_cooltime 21 21}15s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}359% {img test_cooltime 21 21}30s (Impacto)
+ITEM_20161214_013087	[Grimório] Invoca Netherbovine ao utilizar a habilidade [Summoning]
 ITEM_20161214_013088	 {#000000}|Efeito| 10% de chance de aumentar o ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos ao atacar monstros de tipo pequeno
-ITEM_20161214_013089	[Grimório] Invoca Necroventer ao usar Summoning {nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}433%{s15} {img test_cooltime 21 21}1s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}292% {img test_cooltime 21 21}5s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}392% {img test_cooltime 21 21}10s (Mágico){nl}{img itemcraft_btn 23 23}Skill 3: {img tooltip_speedofatk 20 20}601% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013089	[Grimório] Invoca Necroventer ao utilizar a habilidade [Summoning]
 ITEM_20161214_013090	 {@st41b}{s16}{#f98d00}|Efeito| Amplificação Mágica +[{img star_mark 20 20}]
-ITEM_20161214_013091	[Grimório] Invoca Rexipher ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}275% {img test_cooltime 21 21}10s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}486% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013091	[Grimório] Invoca Rexipher ao utilizar a habilidade [Summoning]
 ITEM_20161214_013092	 {#000000}|Efeito| 1% de dano adicional contra monstros do tipo médio
-ITEM_20161214_013093	[Pote de Veneno] Ativa a habilidade de Reaverpede ao utilizar [Poison Pot]
+ITEM_20161214_013093	[Pote de Veneno] Ativa a habilidade de Reaverpede ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013094	[Efeito] Efeito das poções de SP +[{img star_mark 20 20}]%
-ITEM_20161214_013095	[Grimório] Invoca Rikaus ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}277% {img test_cooltime 21 21}3s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}297% {img test_cooltime 21 21}5s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}186% {img test_cooltime 21 21}9s (Mágico)
+ITEM_20161214_013095	[Grimório] Invoca Rikaus ao utilizar a habilidade [Summoning]
 ITEM_20161214_013096	 {#000000}|Efeito| Velocidade de Movimento (+[Máximo{img star_mark 20 20}/2]) por 5 segundos depois de usar pílulas de stamina
-ITEM_20161214_013097	[Pote de Veneno] Ativa a habilidade de Manticen ao utilizar [Poison Pot]
+ITEM_20161214_013097	[Pote de Veneno] Ativa a habilidade de Manticen ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013098	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% chance de causar Cegueira aos inimigos próximos depois de derrotas um monstro do tipo demônio
-ITEM_20161214_013099	[Grimório] Invoca Mummyghast ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}351% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}319% {img test_cooltime 21 21}10s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}297% {img test_cooltime 21 21}20s (Mágico)
+ITEM_20161214_013099	[Grimório] Invoca Mummyghast ao utilizar a habilidade [Summoning]
 ITEM_20161214_013100	 {#000000}|Efeito| 1% de Dano adicional contra monstros de propriedade gelo
-ITEM_20161214_013101	[Pote de Veneno] Ativa a habilidade de Merge ao utilizar [Poison Pot]
+ITEM_20161214_013101	[Pote de Veneno] Ativa a habilidade de Merge ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013102	 {#000000}|Efeito| 1% de dano adicional contra monstros do tipo voador
-ITEM_20161214_013103	[Pote de Veneno] Ativa a habilidade de Mothstem ao utilizar [Poison Pot]
+ITEM_20161214_013103	[Pote de Veneno] Ativa a habilidade de Mothstem ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013104	 {#000000}|Efeito| 1% de chance de causar [Atordoar] por 3 segundos quando usar um ataque físico
-ITEM_20161214_013105	[Grimório] Invoca Minotaur ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}20s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}192% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013105	[Grimório] Invoca Minotaur ao utilizar a habilidade [Summoning]
 ITEM_20161214_013106	 {#000000}|Efeito| 1% de dano adicional contra monstros do tipo pequeno
-ITEM_20161214_013107	[Grimório] Invoca Mirtis ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}226% {img test_cooltime 21 21}7s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}413%	{img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013107	[Grimório] Invoca Mirtis ao utilizar a habilidade [Summoning]
 ITEM_20161214_013108	 {#000000}|Efeito| Evasão +[{img star_mark 20 20}]
-ITEM_20161214_013109	[Grimório] Invoca Velorchard ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}277% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}15s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}186% {img test_cooltime 21 21}45s (Mágico)
+ITEM_20161214_013109	[Grimório] Invoca Velorchard ao utilizar a habilidade [Summoning]
 ITEM_20161214_013110	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de obter 10 venenos de (Wugushi) depois de derrotar monstros do tipo inseto
-ITEM_20161214_013111	[Pote de Veneno] Ativa a habilidade de Biteregina ao utilizar [Poison Pot]
+ITEM_20161214_013111	[Pote de Veneno] Ativa a habilidade de Biteregina ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013112	 {#000000}|Efeito| 10% de chance de aumentar o Dano Elemental: Trevas em +[{img star_mark 20 20}] quando atacar monstros do tipo grande
-ITEM_20161214_013113	[Grimório] Invoca Cyclops ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}495% {img test_cooltime 21 21}20s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}210% {img test_cooltime 21 21}25s (Mágico)
+ITEM_20161214_013113	[Grimório] Invoca Cyclops ao utilizar a habilidade [Summoning]
 ITEM_20161214_013114	 {#000000}|Efeito| Resistência ao [Silêncio] +[{img star_mark 20 20}]%
 ITEM_20161214_013115	[Grimório] Invoca Shadowgaler ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}240% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}215% {img test_cooltime 21 21}5s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}210% {img test_cooltime 21 21}25s (Mágico)
 ITEM_20161214_013116	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento Trevas
-ITEM_20161214_013117	[Grimório] Invoca Specter Monarch ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}277% {img test_cooltime 21 21}2s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}177% {img test_cooltime 21 21}10s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}429% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013117	[Grimório] Invoca Specter Monarch ao utilizar a habilidade [Summoning]
 ITEM_20161214_013118	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp quando derrotar monstros do elemento Veneno
-ITEM_20161214_013119	[Grimório] Invoca Throneweaver ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}277% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}266% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Mágico)
+ITEM_20161214_013119	[Grimório] Invoca Throneweaver ao utilizar a habilidade [Summoning]
 ITEM_20161214_013120	 {#000000}|Efeito| +[Máximo{img star_mark 20 20}]% chance de refletir 50% do dano recebido quando atingido por ataques do elemento Trevas
-ITEM_20161214_013121	[Grimório] Invoca Abomination ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}351% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}138% {img test_cooltime 21 21}15s {nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}263% {img test_cooltime 21 21}30s 
+ITEM_20161214_013121	[Grimório] Invoca Abomination ao utilizar a habilidade [Summoning]
 ITEM_20161214_013122	[Efeito] Resistência Elemental: Trevas{img attri_Dark 23 23} +[{img star_mark 20 20}]
-ITEM_20161214_013123	[Grimório] Invoca Unknocker ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}351% {img test_cooltime 21 21}1s (Impacto){nl}{img itemcraft_btn 23 23}Ataque 2: {img tooltip_speedofatk 20 20}396% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}30s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}166% {img test_cooltime 21 21}30s (Impacto){nl}{img itemcraft_btn 23 23}Skill 3: {img tooltip_speedofatk 20 20}363% {img test_cooltime 21 21}30s (Impacto)
+ITEM_20161214_013123	[Grimório] Invoca Unknocker ao utilizar a habilidade [Summoning]
 ITEM_20161214_013124	[Efeito] DEX +[{img star_mark 20 20}]
-ITEM_20161214_013125	[Grimório] Invoca Ellaganos ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Ataque 2: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}297% {img test_cooltime 21 21}30s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}347% {img test_cooltime 21 21}6s (Impacto)
+ITEM_20161214_013125	[Grimório] Invoca Ellaganos ao utilizar a habilidade [Summoning]
 ITEM_20161214_013126	 {#000000}|Efeito| 1% de dano adicional contras monstros do elemento Trevas
-ITEM_20161214_013127	[Grimório] Invoca Unicorn ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}204% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}363% {img test_cooltime 21 21}25s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}204% {img test_cooltime 21 21}25s (Corte)
+ITEM_20161214_013127	[Grimório] Invoca Unicorn ao utilizar a habilidade [Summoning]
 ITEM_20161214_013128	 {#000000}|Efeito| Ataque Mágico +[{img star_mark 20 20}]% por 4 segundos ao usar poções de SP (Não acumula com poções de SP diferentes)
-ITEM_20161214_013129	[Grimório] Invoca Chapparition quando usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}1s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}179% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}363% {img test_cooltime 21 21}25s (Mágico)
+ITEM_20161214_013129	[Grimório] Invoca Chapparition ao utilizar a habilidade [Summoning]
 ITEM_20161214_013130	 {#000000}|Efeito| 1% de dano adicional contras monstros do tipo inseto
-ITEM_20161214_013131	[Pote de Veneno] Ativa a habilidade de Chafer ao utilizar [Poison Pot]
+ITEM_20161214_013131	[Pote de Veneno] Ativa a habilidade de Chafer ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013132	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de sp depois de derrotar monstros do elemento gelo
-ITEM_20161214_013133	[Pote de Veneno] Ativa a habilidade de Carapace ao utilizar [Poison Pot]
+ITEM_20161214_013133	[Pote de Veneno] Ativa a habilidade de Carapace ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013134	 {#000000}|Efeito| Perfuração de Bloqueio +[{img star_mark 20 20}]
-ITEM_20161214_013135	[Pote de Veneno] Ativa a habilidade de Krimeleechao utilizar [Poison Pot]
+ITEM_20161214_013135	[Pote de Veneno] Ativa a habilidade de Krimeleechao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013136	 {#000000}|Efeito| 1% de dano adicional contras monstros do tipo chefe
-ITEM_20161214_013137	[Grimório] Invoca Tomblord ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}277% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}204% {img test_cooltime 21 21}10s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}25s (Mágico)
+ITEM_20161214_013137	[Grimório] Invoca Tomblord ao utilizar a habilidade [Summoning]
 ITEM_20161214_013138	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 10% de SP depois de derrotar monstros do elemento elétrico
-ITEM_20161214_013139	[Grimório] Invoca Harpeia ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}495% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}204% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}215% {img test_cooltime 21 21}10s (Perfurante)
+ITEM_20161214_013139	[Grimório] Invoca Harpeia ao utilizar a habilidade [Summoning]
 ITEM_20161214_013140	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Veneno em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo pequeno 
-ITEM_20161214_013141	[Pote de Veneno] Ativa a habilidade de Honeypin ao utilizar [Poison Pot]
+ITEM_20161214_013141	[Pote de Veneno] Ativa a habilidade de Honeypin ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013142	 {#000000}|Efeito| Ataque Mágico +[{img star_mark 20 20}]
-ITEM_20161214_013143	{#f98d00}[Grimório] Invoca Helgasercle ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}1s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}301% {img test_cooltime 21 21}30s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}231% {img test_cooltime 21 21}50s (Mágico)
+ITEM_20161214_013143	[Grimório] Invoca Helgasercle ao utilizar a habilidade [Summoning]
 ITEM_20161214_013144	 {#000000}|Efeito| SP Máximo +[{img star_mark 20 20}*15]
-ITEM_20161214_013145	[Grimório] Invoca Specter of Deceit ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}100% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}100% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}100% {img test_cooltime 21 21}3s (Mágico)
+ITEM_20161214_013145	[Grimório] Invoca Specter of Deceit ao utilizar a habilidade [Summoning]
 ITEM_20161214_013146	 {#000000}|Efeito| 1% de dano adicional contra monstros que não se movem.
-ITEM_20161214_013147	[Grimório] Invoca Corrupted ao usar a skill Summoning (Imóvel){nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}212% {img test_cooltime 21 21}2s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}363% {img test_cooltime 21 21}10s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}297% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013147	[Grimório] Invoca Corrupted ao utilizar a habilidade [Summoning]
 ITEM_20161214_013148	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
-ITEM_20161214_013149	[Grimório] Invoca Sparnasman ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}429% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}363% {img test_cooltime 21 21}15s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}215% {img test_cooltime 21 21}15s (Impacto)
+ITEM_20161214_013149	[Grimório] Invoca Sparnasman ao utilizar a habilidade [Summoning]
 ITEM_20161214_013150	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 1% do SP quando atacado por monstros do tipo medio
-ITEM_20161214_013151	[Grimório] Invoca Cerberus ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}429% {img test_cooltime 21 21}10s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}297% {img test_cooltime 21 21}30s (Impacto){nl}{img itemcraft_btn 23 23}Skill 3: {img tooltip_speedofatk 20 20}192% {img test_cooltime 21 21}20s (Mágico)
+ITEM_20161214_013151	[Grimório] Invoca Cerberus ao utilizar a habilidade [Summoning]
 ITEM_20161214_013152	 {#000000}|Efeito| Precisão +[{img star_mark 20 20}]
-ITEM_20161214_013153	[Grimório] Invoca Naktis ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}215% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}150% {img test_cooltime 21 21}15s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}269% {img test_cooltime 21 21}20s (Mágico)
+ITEM_20161214_013153	[Grimório] Invoca Naktis ao utilizar a habilidade [Summoning]
 ITEM_20161214_013154	 {#000000}|Efeito| 5% de chance de ser ressuscitado com [{img star_mark 20 20}]% do HP quando morrer em combate
-ITEM_20161214_013155	[Grimório] Invoca Dullahan ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}495% {img test_cooltime 21 21}15s (Corte){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}511% {img test_cooltime 21 21}45s (Impacto)
+ITEM_20161214_013155	[Grimório] Invoca Dullahan ao utilizar a habilidade [Summoning]
 ITEM_20161214_013156	 {#000000}|Efeito| Resistência ao debuff cegueira +[{img star_mark 20 20}]%
-ITEM_20161214_013157	[Grimório] Invoca Riteris ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}273% {img test_cooltime 21 21}10s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}363% {img test_cooltime 21 21}12s (Perfurante)
+ITEM_20161214_013157	[Grimório] Invoca Riteris ao utilizar a habilidade [Summoning]
 ITEM_20161214_013158	[Efeito] Defesa Mágica +[{img star_mark 20 20}]%
-ITEM_20161214_013159	[Grimório] Invoca Nuaele ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}513% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}220% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}241% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013159	[Grimório] Invoca Nuaele ao utilizar a habilidade [Summoning]
 ITEM_20161214_013160	[Efeito] Efeito das poções de HP +[{img star_mark 20 20}]%
-ITEM_20161214_013161	[Pote de Veneno] Ativa a habilidade de Neop ao utilizar [Poison Pot]
+ITEM_20161214_013161	[Pote de Veneno] Ativa a habilidade de Neop ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013162	[Efeito] CON +[{img star_mark 20 20}]
-ITEM_20161214_013163	[Grimório] Invoca Blut ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}513% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}261% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}155% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013163	[Grimório] Invoca Blut ao utilizar a habilidade [Summoning]
 ITEM_20161214_013164	 {#000000}|Efeito| Resistência a Crítico +[{img star_mark 20 20}]
-ITEM_20161214_013165	[Pote de Veneno] Ativa a habilidade de Basilisk ao utilizar [Poison Pot]
+ITEM_20161214_013165	[Pote de Veneno] Ativa a habilidade de Basilisk ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013166	 {#000000}|Efeito| Ataque Secundário máximo +[{img star_mark 20 20}
-ITEM_20161214_013167	[Pote de Veneno] Ativa a habilidade de Plokste ao utilizar [Poison Pot]
+ITEM_20161214_013167	[Pote de Veneno] Ativa a habilidade de Plokste ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013168	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 0.5% de SP quando atacado por monstros do tipo pequeno
-ITEM_20161214_013169	[Pote de Veneno] Ativa a habilidade de Velnewt ao utilizar [Poison Pot]
+ITEM_20161214_013169	[Pote de Veneno] Ativa a habilidade de Velnewt ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013170	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Terra em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
-ITEM_20161214_013171	[Pote de Veneno] Ativa a habilidade de Velpede ao utilizar [Poison Pot]
+ITEM_20161214_013171	[Pote de Veneno] Ativa a habilidade de Velpede ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013172	 {#000000}|Efeito| -1 segundos para a recuperação de SP 
-ITEM_20161214_013173	[Grimório] Invoca Pyroego ao usar a skill Summoning (Imóvel){nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}297% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}286% {img test_cooltime 21 21}15s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}359% {img test_cooltime 21 21}40s (Mágico)
+ITEM_20161214_013173	[Grimório] Invoca Pyroego ao utilizar a habilidade [Summoning]
 ITEM_20161214_013174	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Elétrico em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
-ITEM_20161214_013175	[Grimório] Invoca Lithorex ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}240% {img test_cooltime 21 21}2s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}169% {img test_cooltime 21 21}15s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}297% {img test_cooltime 21 21}25s (Mágico)
+ITEM_20161214_013175	[Grimório] Invoca Lithorex ao utilizar a habilidade [Summoning]
 ITEM_20161214_013176	 {#000000}|Efeito| Resistência a ataques do tipo Projétil +[{img star_mark 20 20}]
-ITEM_20161214_013177	[Grimório] Invoca Nuodai ao usar a skill Summoning (Imóvel){nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}297% {img test_cooltime 21 21}3s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}224% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}183% {img test_cooltime 21 21}40s (Mágico)
+ITEM_20161214_013177	[Grimório] Invoca Nuodai ao utilizar a habilidade [Summoning]
 ITEM_20161214_013178	 {#000000}|Efeito| Taxa de Ataque/Defesa em Área +1
-ITEM_20161214_013179	[Grimório] Invoca Centaurus ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}215% {img test_cooltime 21 21}3s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}15s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}495% {img test_cooltime 21 21}15s (Impacto)
+ITEM_20161214_013179	[Grimório] Invoca Centaurus ao utilizar a habilidade [Summoning]
 ITEM_20161214_013180	 {#000000}|Efeito| Defesa Mágica +[{img star_mark 20 20}]% por 10 segundos depois de usar poções de hp
-ITEM_20161214_013181	[Grimório] Invoca Progola ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}132% {img test_cooltime 21 21}2s {nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}92% {img test_cooltime 21 21}30s {nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}156% {img test_cooltime 21 21}50s 
+ITEM_20161214_013181	[Grimório] Invoca Progola ao utilizar a habilidade [Summoning]
 ITEM_20161214_013182	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Divino em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
-ITEM_20161214_013183	[Grimório] Invoca Marionette ao usar a skill Summoning (Imóvel){nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}337% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}337% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}157% {img test_cooltime 21 21}20s (Mágico)
+ITEM_20161214_013183	[Grimório] Invoca Marionette ao utilizar a habilidade [Summoning]
 ITEM_20161214_013184	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 2% do SP quando atacado por monstros do tipo grande
-ITEM_20161214_013185	[Pote de Veneno] Ativa a habilidade de Canceril ao utilizar [Poison Pot]
+ITEM_20161214_013185	[Pote de Veneno] Ativa a habilidade de Canceril ao utilizar a habilidade [Poison Pot]
 ITEM_20161214_013186	 {#000000}|Efeito| Ataque Físico máximo +[{img star_mark 20 20}]
-ITEM_20161214_013187	[Grimório] Invoca Master Genie ao usar a skill Summoning (Imóvel){nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}224% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}266% {img test_cooltime 21 21}12s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}384% {img test_cooltime 21 21}38s (Mágico)
+ITEM_20161214_013187	[Grimório] Invoca Master Genie ao utilizar a habilidade [Summoning]
 ITEM_20161214_013188	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Gelo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo grande
-ITEM_20161214_013189	[Grimório] Invoca Merregina ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}363% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}162% {img test_cooltime 21 21}30s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}159% {img test_cooltime 21 21}50s (Mágico)
+ITEM_20161214_013189	[Grimório] Invoca Merregina ao utilizar a habilidade [Summoning]
 ITEM_20161214_013190	 {#000000}|Efeito| 1% de chance de causar Silêncio por 5 esgundos quando atacar com ataques do tipo Projétil
-ITEM_20161214_013191	[Grimório] Invoca Templeshooter ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 22 22}Ataque: {img tooltip_speedofatk 20 20}304%{s15} {img test_cooltime 21 21}2s (Perfurante){nl}{img itemcraft_btn 21 21}Skill 1: {img tooltip_speedofatk 20 20}205% {img test_cooltime 21 21}30s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}504% {img test_cooltime 21 21}40s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 3: {img tooltip_speedofatk 20 20}347% {img test_cooltime 21 21}50s (Mágico)
+ITEM_20161214_013191	[Grimório] Invoca Templeshooter ao utilizar a habilidade [Summoning]
 ITEM_20161214_013192	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Fogo em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
-ITEM_20161214_013193	[Grimório] Invoca Fire Lord ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}169% {img test_cooltime 21 21}15s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}157% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013193	[Grimório] Invoca Fire Lord ao utilizar a habilidade [Summoning]
 ITEM_20161214_013194	 {#000000}|Efeito| [Máximo{img star_mark 20 20}]% de chance de recuperar 3% de SP quando atacado por monstros tipo chefe
-ITEM_20161214_013195	[Grimório] Invoca Deathweaver ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}297% {img test_cooltime 21 21}20s (Perfurante){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}204% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013195	[Grimório] Invoca Deathweaver ao utilizar a habilidade [Summoning]
 ITEM_20161214_013196	 {#000000}|Efeito| 10% de chance de aumentar o Ataque Elemental: Trevas em +[{img star_mark 20 20}] por 7 segundos quando atacar monstros do tipo chefe
-ITEM_20161214_013197	[Grimório] Invoca Flammidus ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}366% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}215% {img test_cooltime 21 21}15s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}204% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20161214_013197	[Grimório] Invoca Flammidus ao utilizar a habilidade [Summoning]
 ITEM_20161214_013198	Ripped Piece of Paper
 ITEM_20161214_013199	Piece of paper, purpose unknown. Strange lines can be seen.
 ITEM_20161214_013200	Shining Lv9 Gem Abrasive
@@ -15673,13 +15673,13 @@ ITEM_20170912_015665	{#000000}|Efeito| [{img star_mark 20 20}]% de chance de rec
 ITEM_20170912_015666	[Efeito] Resistência Elemental: Fogo{img attri_Fire 23 23} +[{img star_mark 20 20}*10]
 ITEM_20170912_015667	Marnox Card
 ITEM_20170912_015668	[Efeito] Taxa de Crítico +[{img star_mark 20 20}*1.5]
-ITEM_20170912_015669	[Grimório] Invoca Marnox ao usar Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 22 22}Ataque: {img tooltip_speedofatk 20 20}296%{s15} {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 21 21}Skill 1: {img tooltip_speedofatk 20 20}423% {img test_cooltime 21 21}20s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}287%{img attri_Fire 20 20} {img test_cooltime 21 21}35s (Mágico)
+ITEM_20170912_015669	[Grimório] Invoca Marnox ao utilizar a habilidade [Summoning]
 ITEM_20170912_015670	Zaura Card
 ITEM_20170912_015671	[Efeito] Defesa Física +[{img star_mark 20 20}]%
-ITEM_20170912_015672	[Grimório] Invoca Zaura ao usar Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 22 22}Ataque: {img tooltip_speedofatk 20 20}513%{s15} {img test_cooltime 21 21}2s{nl}{img itemcraft_btn 21 21}Skill 1: {img tooltip_speedofatk 20 20}261% {img test_cooltime 21 21}30s{nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}237% {img test_cooltime 21 21}30s
+ITEM_20170912_015672	[Grimório] Invoca Zaura ao utilizar a habilidade [Summoning]
 ITEM_20170912_015673	Prison Cutter Card
 ITEM_20170912_015674	{#000000}|Efeito| +[{img star_mark 20 20}]% de dano contra os inimigos sangrando
-ITEM_20170912_015675	[Grimório] Invoca Prison Cutter ao usar Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}240% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}319% {img test_cooltime 21 21}10s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}179% {img test_cooltime 21 21}20s (Corte)
+ITEM_20170912_015675	[Grimório] Invoca Prison Cutter ao utilizar a habilidade [Summoning]
 ITEM_20170912_015676	Ferret Marauder Card
 ITEM_20170912_015677	{#000000}|Efeito| Provocação por ataque +[{img star_mark 20 20}]%
 ITEM_20170912_015678	Velnia Monkey Card
@@ -17509,20 +17509,20 @@ ITEM_20180208_017494	Armaos Card
 ITEM_20180208_017495	[Efeito] 10% de chance de gerar um escudo de [{img star_mark 20 20}*100], por 10 segundos, ao ser atacado
 ITEM_20180208_017496	Succubus Card
 ITEM_20180208_017497	[Efeito] Provocação ao atacar -[{img star_mark 20 20}]%
-ITEM_20180208_017498	[Grimório] Invoca Succubus ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}453% {img test_cooltime 21 21}1s (Empurra){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}531% {img test_cooltime 21 21}30s {nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}443% {img test_cooltime 21 21}50s 
+ITEM_20180208_017498	[Grimório] Invoca Succubus ao utilizar a habilidade [Summoning]
 ITEM_20180208_017499	Stone Froster Card
 ITEM_20180208_017500	[Efeito] CON +[{img star_mark 20 20}*1.5] por 10 segundos após usar qualquer poção de HP
 ITEM_20180208_017501	Rafene Card
 ITEM_20180208_017502	[Efeito] STR, CON, INT, SPR, DEX +[{img star_mark 20 20}/3]
 ITEM_20180208_017503	Lavenzard Card
 ITEM_20180208_017504	[Efeito] SPR +[{img star_mark 20 20}*1.5] por 10 segundos após usar qualquer poção de SP
-ITEM_20180208_017505	[Grimório] Invoca Lavenzard ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}492% {img test_cooltime 21 21}2s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}399% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}237% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20180208_017505	[Grimório] Invoca Lavenzard ao utilizar a habilidade [Summoning]
 ITEM_20180208_017506	Gorkas Card
 ITEM_20180208_017507	[Efeito] Chance de Drop +[{img star_mark 20 20}*5]
-ITEM_20180208_017508	[Grimório] Invoca Gorkas ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}388% {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}399% {img test_cooltime 21 21}10s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}237% {img test_cooltime 21 21}20s (Mágico)
+ITEM_20180208_017508	[Grimório] Invoca Gorkas ao utilizar a habilidade [Summoning]
 ITEM_20180208_017509	Froster Lord Card
 ITEM_20180208_017510	{#000000}|Efeito| [{img star_mark 20 20}/2%] de chance por ataque (incluindo skills) de congelar o inimigo por 4 segundos
-ITEM_20180208_017511	[Grimório] Invoca Froster Lord ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}188% {img test_cooltime 21 21}12s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}180% {img test_cooltime 21 21}25s (Mágico)
+ITEM_20180208_017511	[Grimório] Invoca Froster Lord ao utilizar a habilidade [Summoning]
 ITEM_20180208_017512	A hammer with mysterious powers that allow it to dismantle all that it touches. Used to extract Blessed Shards.
 ITEM_20180208_017513	Golden Dog Warrior Box
 ITEM_20180208_017514	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without the riding skill.
@@ -17721,28 +17721,28 @@ ITEM_20180320_017706	Lv 300 Challenge Cube
 ITEM_20180320_017707	Lv 250 Challenge Cube
 ITEM_20180320_017708	Shining Golden Socket
 ITEM_20180320_017709	Helgasercle Card
-ITEM_20180320_017710	[Grimório] Invoca Helgasercle ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}1s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}301% {img test_cooltime 21 21}30s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}231% {img test_cooltime 21 21}50s (Mágico)
+ITEM_20180320_017710	[Grimório] Invoca Helgasercle ao utilizar a habilidade [Summoning]
 ITEM_20180320_017711	Demon Lord Marnox Card
 ITEM_20180320_017712	[Efeito] Chance Mínima de Crítico +[{img star_mark 20 20}*2]%
-ITEM_20180320_017713	[Grimório] Invoca Demon Lord Marnox ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 22 22}Ataque: {img tooltip_speedofatk 20 20}296%{s15} {img test_cooltime 21 21}2s (Impacto){nl}{img itemcraft_btn 21 21}Skill 1: {img tooltip_speedofatk 20 20}423% {img test_cooltime 21 21}20s (Impacto){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}287%{img attri_Fire 20 20} {img test_cooltime 21 21}35s (Mágico)
+ITEM_20180320_017713	[Grimório] Invoca Demon Lord Marnox ao utilizar a habilidade [Summoning]
 ITEM_20180320_017714	Demon Lord Blut Card
 ITEM_20180320_017715	[Efeito] [{img star_mark 20 20}*3]% de redução do dano recebido no PVP
-ITEM_20180320_017716	[Grimório] Invoca Demon Lord Blut ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}513% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}261% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}155% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20180320_017716	[Grimório] Invoca Demon Lord Blut ao utilizar a habilidade [Summoning]
 ITEM_20180320_017717	Demon Lord Zaura Card
 ITEM_20180320_017718	[Efeito] Defesa Física +[{img star_mark 20 20}*10]%
-ITEM_20180320_017719	[Grimório] Invoca Demon Lord Zaura ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 22 22}Ataque: {img tooltip_speedofatk 20 20}513%{s15} {img test_cooltime 21 21}2s{nl}{img itemcraft_btn 21 21}Skill 1: {img tooltip_speedofatk 20 20}261% {img test_cooltime 21 21}30s{nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}237% {img test_cooltime 21 21}30s
+ITEM_20180320_017719	[Grimório] Invoca Demon Lord Zaura ao utilizar a habilidade [Summoning]
 ITEM_20180320_017720	Demon Lord Nuaele Card
 ITEM_20180320_017721	[Efeito] Defesa Mágica +[{img star_mark 20 20}*10]%
-ITEM_20180320_017722	[Grimório] Invoca Demon Lord Nuaele ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}513% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}220% {img test_cooltime 21 21}20s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}241% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20180320_017722	[Grimório] Invoca Demon Lord Nuaele ao utilizar a habilidade [Summoning]
 ITEM_20180320_017723	Demon Lord Helgasercle Card
 ITEM_20180320_017724	[Efeito] Recupera [{img star_mark 20 20}*20] de SP por monstro derrotado
-ITEM_20180320_017725	[Grimório] Invoca Demon Lord Helgasercle ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}1s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}301% {img test_cooltime 21 21}30s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}231% {img test_cooltime 21 21}50s (Mágico)
+ITEM_20180320_017725	[Grimório] Invoca Demon Lord Helgasercle ao utilizar a habilidade [Summoning]
 ITEM_20180320_017726	Demon Lord Rexipher Card
 ITEM_20180320_017727	[Efeito] Velocidade de Movimento +[{img star_mark 20 20}]
-ITEM_20180320_017728	[Grimório] Invoca Demon Lord Rexipher ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}3s (Impacto){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}275% {img test_cooltime 21 21}10s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}486% {img test_cooltime 21 21}30s (Mágico)
+ITEM_20180320_017728	[Grimório] Invoca Demon Lord Rexipher ao utilizar a habilidade [Summoning]
 ITEM_20180320_017729	Demon Lord Mirtis Card
 ITEM_20180320_017730	[Efeito] Reduz as penalidades elementais em [{img star_mark 20 20}*10]%
-ITEM_20180320_017731	[Grimório] Invoca Demon Lord Mirtis ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}271% {img test_cooltime 21 21}2s (Corte){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}226% {img test_cooltime 21 21}7s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}413%	{img test_cooltime 21 21}30s (Mágico)
+ITEM_20180320_017731	[Grimório] Invoca Demon Lord Mirtis ao utilizar a habilidade [Summoning]
 ITEM_20180320_017732	Prodigious Kucarry Balzermancer Card
 ITEM_20180320_017733	[Efeito] Ganho de EXP +[{img star_mark 20 20}]%
 ITEM_20180320_017734	Heretic Pantorex Card
@@ -18443,21 +18443,21 @@ ITEM_20180517_018429	Não diminuirá os valores de refino, mesmo se a tentativa 
 ITEM_20180517_018430	Não diminuirá os valores de refino, mesmo se a tentativa falhar. No entanto, seu item perderá potencial. Com 0 potencial, o item é destruído. Use em 14 dias.
 ITEM_20180517_018431	Ichor Extraction Kit
 ITEM_20180517_018432	A tool used to extract Ichors. Can be purchased from Teliavelis.
-ITEM_20180517_018433	[Pote de Veneno] Ativa a habilidade de Reaverpede ao utilizar [Poison Pot]
-ITEM_20180517_018434	[Pote de Veneno] Ativa a habilidade de Manticen ao utilizar [Poison Pot]
-ITEM_20180517_018435	[Pote de Veneno] Ativa a habilidade de Merge ao utilizar [Poison Pot]
-ITEM_20180517_018436	[Pote de Veneno] Ativa a habilidade de Mothstem ao utilizar [Poison Pot]
-ITEM_20180517_018437	[Pote de Veneno] Ativa a habilidade de Biteregina ao utilizar [Poison Pot]
-ITEM_20180517_018438	[Pote de Veneno] Ativa a habilidade de Chafer ao utilizar [Poison Pot]
-ITEM_20180517_018439	[Pote de Veneno] Ativa a habilidade de Carapace ao utilizar [Poison Pot]
-ITEM_20180517_018440	[Pote de Veneno] Ativa a habilidade de Krimeleech ao utilizar [Poison Pot]
-ITEM_20180517_018441	[Pote de Veneno] Ativa a habilidade de Honeypin ao utilizar [Poison Pot]
-ITEM_20180517_018442	[Pote de Veneno] Ativa a habilidade de Neop ao utilizar [Poison Pot]
-ITEM_20180517_018443	[Pote de Veneno] Ativa a habilidade de Basilisk ao utilizar [Poison Pot]
-ITEM_20180517_018444	[Pote de Veneno] Ativa a habilidade de Plokste ao utilizar [Poison Pot]
-ITEM_20180517_018445	[Pote de Veneno] Ativa a habilidade de Velnewt ao utilizar [Poison Pot]
-ITEM_20180517_018446	[Pote de Veneno] Ativa a habilidade de Velpede ao utilizar [Poison Pot]
-ITEM_20180517_018447	[Pote de Veneno] Ativa a habilidade de Canceril ao utilizar [Poison Pot]
+ITEM_20180517_018433	[Pote de Veneno] Ativa a habilidade de Reaverpede ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018434	[Pote de Veneno] Ativa a habilidade de Manticen ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018435	[Pote de Veneno] Ativa a habilidade de Merge ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018436	[Pote de Veneno] Ativa a habilidade de Mothstem ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018437	[Pote de Veneno] Ativa a habilidade de Biteregina ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018438	[Pote de Veneno] Ativa a habilidade de Chafer ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018439	[Pote de Veneno] Ativa a habilidade de Carapace ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018440	[Pote de Veneno] Ativa a habilidade de Krimeleech ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018441	[Pote de Veneno] Ativa a habilidade de Honeypin ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018442	[Pote de Veneno] Ativa a habilidade de Neop ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018443	[Pote de Veneno] Ativa a habilidade de Basilisk ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018444	[Pote de Veneno] Ativa a habilidade de Plokste ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018445	[Pote de Veneno] Ativa a habilidade de Velnewt ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018446	[Pote de Veneno] Ativa a habilidade de Velpede ao utilizar a habilidade [Poison Pot]
+ITEM_20180517_018447	[Pote de Veneno] Ativa a habilidade de Canceril ao utilizar a habilidade [Poison Pot]
 ITEM_20180517_018448	Prodigious Kugheri Balzermancer Card
 ITEM_20180517_018449	Velcoffer Card
 ITEM_20180517_018450	[Efeito] Reduz o dano recebido de monstros em [{img star_mark 20 20} * 3]%
@@ -19432,7 +19432,7 @@ ITEM_20180827_019418	Varle King Card
 ITEM_20180827_019419	[Efeito] Taxa de Cura +[{img star_mark 20 20}*5]
 ITEM_20180827_019420	Demon Lord Froster Lord Card
 ITEM_20180827_019421	[Efeito] Reduz a diferença entre ataque mínimo e máximo das invocações em [{img star_mark 20 20} * 10]%{nl}(No nível 10, o ataque mínimo é igual ao ataque máximo)
-ITEM_20180827_019422	{nl} {nl}[Grimório] Invoca Demon Lord Froster Lord ao usar a skill Summoning{nl} {nl}{nl}---------------------------------------------------{nl}{img monsterbtn_image 29 28}{@st66b}Habilidades{/}{nl}{img itemcraft_btn 23 23}Ataque: {img tooltip_speedofatk 20 20}238% {img test_cooltime 21 21}3s (Mágico){nl}{img itemcraft_btn 23 23}Skill 1: {img tooltip_speedofatk 20 20}188% {img test_cooltime 21 21}12s (Mágico){nl}{img itemcraft_btn 23 23}Skill 2: {img tooltip_speedofatk 20 20}180% {img test_cooltime 21 21}25s (Mágico)
+ITEM_20180827_019422	[Grimório] Invoca Demon Lord Froster Lord ao utilizar a habilidade [Summoning]
 ITEM_20180827_019423	Ripped Book	찢어진 책장	ITEM_20180320_017771	Bookshelf of Ripped Books	찢어진 책의 책장
 ITEM_20180827_019424	Ripped pages of a book. Collect them and wait for something good to happen.	일부분만 적혀있는 찢어진 책의 책장입니다. 모으면 나중에 좋은 일이 있을 것 같습니다.	ITEM_20180320_017772	A page ripped off a book, like the kind the Sage Master is collecting. Gather a few of these pages and take them to the Sage Master to exchange them for something else.	세이지 마스터가 최근 모으고 있다는 찢어진 책의 책장입니다. 책장을 모아 세이지 마스터에게 가져다주면 책 또는 아이템으로 교환해줍니다.
 ITEM_20180827_019425	Lydia's Red Flower	리디아의 붉은 꽃			
@@ -21184,7 +21184,7 @@ ITEM_20190104_021169	[Efeito] Ataque Crítico Mágico +[{img star_mark 20 20}*10
 ITEM_20190104_021170	[Efeito] Dano Mágico +[{img star_mark 20 20}]% por 6 segundos após usar qualquer poção de SP
 ITEM_20190104_021171	Ignas Card
 ITEM_20190104_021172	[Efeito] [{img star_mark 20 20}*5]% de chance, por ataque crítico, de ficar escondido por 6 segundos
-ITEM_20190104_021173	[Grimoire Equip Effect] Summons Ignas when using Summoning	[그리모어 장착 효과] 서모닝 사용 시 이그나스 형태의 악마 소환				
+ITEM_20190104_021173	[Grimório] Invoca Ignas ao utilizar a habilidade [Summoning]
 ITEM_20190104_021174	Boruta Card
 ITEM_20190104_021175	[Efeito] Aumenta o dano contra monstros do tipo Chefe em [{img star_mark 20 20}*5]%
 ITEM_20190104_021176	Ripped pages of a book. Collect them and wait for something good to happen.	일부분만 적혀있는 찢어진 책장입니다. 모으면 나중에 좋은 일이 있을 것 같습니다.	ITEM_20180827_019424	Ripped pages of a book. Collect them and wait for something good to happen.	일부분만 적혀있는 찢어진 책의 책장입니다. 모으면 나중에 좋은 일이 있을 것 같습니다.	
