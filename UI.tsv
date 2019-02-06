@@ -3714,7 +3714,7 @@ UI_20190104_003713	{@st42}Magic Stone	{@st42}마정석
 UI_20190104_003714	{img silver_pic 24 24} Price {img white_right_arrow 16 16} %s	{img silver_pic 24 24} 가격 {img white_right_arrow 16 16} %s			
 UI_20190104_003715	The item has been destroyed.	아이템이 파괴 되었습니다.			
 UI_20190104_003716	{@st42}OK	{@st42}확인			
-UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}	소켓 추가 비용 %s : {#000000}%s{/} {nl}젬 추출 비용 %s : {#000000}%s{/}	UI_20150714_001575	Additional Socket Cost : {#000000}%s{/} {nl}Gem Extraction Cost : {#000000}%s{/}	소켓 추가 비용 : {#000000}%s{/} {nl}젬 추출 비용 : {#000000}%s{/}
+UI_20190104_003717	Custo Para Abrir Soquete %s : {#000000}%s{/} {nl}Custo Para Extrair Gema %s : {#000000}%s{/}
 UI_20190104_003718	{@st59}Close the map.{/}	{@st59}지도를 닫습니다{/}			
 UI_20190104_003719	%s{@st42}{s14}{#ffff00}Cancel (Jump Key){/}	%s{@st42}{s14}{#ffff00}취소(점프 키){/}			
 UI_20190104_003720	{@st41b}Collection{/}	{@st41b}컬렉션{/}	UI_20170313_002554	{@st41b}Collection{/}	{@st41b}콜렉션{/}
