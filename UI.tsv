@@ -2237,7 +2237,7 @@ UI_20160718_002235	{@st45tw2}Nome
 UI_20160718_002236	{@st45tw2}Kills
 UI_20160718_002237	{@st45tw2}Deaths
 UI_20160718_002238	{@st59}Lentes{/}
-UI_20160718_002239	{@st41}Sacrificial Material
+UI_20160718_002239	{@st41}Sacrificar Material
 UI_20160718_002240	{@st66b}Mostrar outros efeitos{/}
 UI_20160718_002241	{@st66b}Aplicar efeitos de fundo{/}
 UI_20160718_002242	{@st59}Mostrar efeitos de fundo.{/}
@@ -2309,8 +2309,8 @@ UI_20160811_002307	{@st41}Lodge %s (%s/%s){/}
 UI_20160811_002308	{@st59}Move to Lodge.
 UI_20160811_002309	{@st59}Please select a server.{/}
 UI_20160811_002310	{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}
-UI_20160811_002311	{@st66b}Mover p/ outro lodge
-UI_20160811_002312	{@st59}Move Lodge.{/}
+UI_20160811_002311	{@st66b}Mudar de Alojamento
+UI_20160811_002312	{@st59}Mover para outro Alojamento{/}
 UI_20160811_002313	{@st59}Apagar Mascote
 UI_20160811_002314	You feel better.
 UI_20160811_002315	Carpet-type
@@ -3004,7 +3004,7 @@ UI_20180208_003003	{@st43b}{s20}Efeito Aplicado{/}
 UI_20180208_003004	{@st59}Show Monster Card Apply Option{/}
 UI_20180208_003005	*Você não pode reverter se tiver{nl} cartões de Rank não utilizados ou cartões de Classe EXP.
 UI_20180208_003006	*Os atributos comuns, como Troca de Arma, também serão redefinidos,{nl} e os pontos de atributo serão retornados.
-UI_20180208_003007	{@st43}{s22}Add Soquete{/}
+UI_20180208_003007	{@st43}{s22}Abrir Soquete{/}
 UI_20180208_003008	{@st59}Cancelar{/}
 UI_20180208_003009	{@st41}{s20}Soquetes Atuais:{@st43} %s / {@st43}%s
 UI_20180208_003010	{@st41}{s20}Novo Soquete: %s
@@ -3714,7 +3714,7 @@ UI_20190104_003713	{@st42}Magic Stone	{@st42}마정석
 UI_20190104_003714	{img silver_pic 24 24} Price {img white_right_arrow 16 16} %s	{img silver_pic 24 24} 가격 {img white_right_arrow 16 16} %s			
 UI_20190104_003715	The item has been destroyed.	아이템이 파괴 되었습니다.			
 UI_20190104_003716	{@st42}OK	{@st42}확인			
-UI_20190104_003717	Extra Socket Cost %s : {#000000}%s{/} {nl}Gem Extraction Cost %s : {#000000}%s{/}	소켓 추가 비용 %s : {#000000}%s{/} {nl}젬 추출 비용 %s : {#000000}%s{/}	UI_20150714_001575	Additional Socket Cost : {#000000}%s{/} {nl}Gem Extraction Cost : {#000000}%s{/}	소켓 추가 비용 : {#000000}%s{/} {nl}젬 추출 비용 : {#000000}%s{/}
+UI_20190104_003717	Custo Para Abrir Soquete %s : {#000000}%s{/} {nl}Custo Para Extrair Gema %s : {#000000}%s{/}
 UI_20190104_003718	{@st59}Close the map.{/}	{@st59}지도를 닫습니다{/}			
 UI_20190104_003719	%s{@st42}{s14}{#ffff00}Cancel (Jump Key){/}	%s{@st42}{s14}{#ffff00}취소(점프 키){/}			
 UI_20190104_003720	{@st41b}Collection{/}	{@st41b}컬렉션{/}	UI_20170313_002554	{@st41b}Collection{/}	{@st41b}콜렉션{/}
@@ -3759,7 +3759,7 @@ UI_20190104_003758	{@st41}Vertical (%s){/}	{@st41}세로 (%s){/}
 UI_20190104_003759	{@st41}Zoom In/Zoom Out (%s){/}	{@st41}확대/축소 (%s){/}			
 UI_20190104_003760	{@st41}Horizontal Camera (%s){/}	{@st41}카메라 가로 (%s){/}			
 UI_20190104_003761	{@st41}Vertical Camera (%s){/}	{@st41}카메라 세로 (%s){/}			
-UI_20190104_003762	{s16}See item tooltip	{s16}아이템 툴팁 보기			
+UI_20190104_003762	{s16}Ver caixa do item
 UI_20190104_003763	{b}Specialized Stats	{b}특화 능력치			
 UI_20190104_003764	{@st66d}Forgery	{@st66d}모조품			
 UI_20190104_003765	{#00fec5}{ol}Class Tree Change (available for 30 days){/}	{#00fec5}{ol}계열 변경 가능(1월 24일까지){/}			
