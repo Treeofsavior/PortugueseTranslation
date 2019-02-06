@@ -31290,138 +31290,138 @@ ETC_20180208_031258	Go with Neringa and track Demon Goddess Giltine!
 ETC_20180208_031259	Kill them, as painfully as possible.
 ETC_20180208_031260	TOS 4EVER
 ETC_20180208_031261	Title given to participants of the fan creation contest.
-ETC_20180208_031262	Dano adicional de Terra{img attri_Earth 20 20} +{@st66d_y}{s16}[%d]{/}
-ETC_20180208_031263	Chance de {@st66d_y}{s16}[%d]{/}{/}%% de ativar Pain Barrier Lv 1
-ETC_20180208_031264	Defesa contra Impacto +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031265	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%% for 10 sec when using HP potions
-ETC_20180208_031266	Dano contra monstros Voadores +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031267	Dano Físico +{@st66d_y}{s16}[%d]{/}{/}%% por 6 sec ao usar potes de SP
-ETC_20180208_031268	Dano contra armadura tipo Metal +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031262	Dano Adicional: Terra{img attri_Earth 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031263	{@st66d_y}{s16}[%d]{/}{/}%% de chance de usar [Pain Barrier] Nv.1 ao ser atacado
+ETC_20180208_031264	Defesa Contra Impacto +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031265	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%% por 10s após usar poção de HP
+ETC_20180208_031266	Dano em monstros Voadores +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031267	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/}%% por 6s após usar poção de SP
+ETC_20180208_031268	Dano contra inimigos com armadura de Metal +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031269	STR +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031270	Dano adicional Trevas{img attri_Dark 20 20} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031270	Dano Adicional: Trevas{img attri_Dark 23 23} +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031271	Ataque Crítico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031272	Dano contra monstros Mutantes +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031272	Dano contra monstros da raça Mutante{img monster_variation 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031273	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031274	Efeito de poções de STA +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031275	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} com armas tipo Perfurante
-ETC_20180208_031276	Chance de {@st66d_y}{s16}[%d]{/}{/}%% de recuperar 5%% SP ao derrotar mosntros Terra
+ETC_20180208_031274	Efeito de poções e pílulas de STA +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031275	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas do tipo Perfurante
+ETC_20180208_031276	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Terra{img attri_Earth 23 23}
 ETC_20180208_031277	Amplificação Mágica +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031278	Dano contra alvos Médios +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031278	Dano contra monstros de tamanho Médio +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031279	Efeito de poções de SP +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031280	{@st66d_y}{s16}[%d]{/}{/}%% chance de causar Shock por 3seg
-ETC_20180208_031281	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 3%% SP ao ser atacado por alvos Grandes
-ETC_20180208_031282	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs Mutantes
-ETC_20180208_031283	Veloci. de Mov. +{@st66d_y}{s16}[%d]{/}{/} por 10 seg ao usar poção de STA 
-ETC_20180208_031284	STR +{@st66d_y}{s16}[%d]{/}{/}, DEX +{@st66d_y}{s16}[%d]{/}{/} 
+ETC_20180208_031280	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Shock] por 3s
+ETC_20180208_031281	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec. 3%% SP quando atacado por monstro Grande
+ETC_20180208_031282	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando raça Mutante{img monster_variation 20 20}
+ETC_20180208_031283	Vel. Movimento +{@st66d_y}{s16}[%d]{/}{/} por 10s após usar poção ou pílula de STA
+ETC_20180208_031284	STR +{@st66d_y}{s16}[%d]{/}{/}, DEX +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031285	Recuperação de SP +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031286	Dano contra monstros tipo Gelo +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031287	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Impacto
-ETC_20180208_031288	Dano contra monstros Demônio +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031289	Dano contra armadura tipo Couro +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031290	Dano contra inimigos Petrificados +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031291	Blqueio +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031292	DEX +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 
-ETC_20180208_031293	Dano contra alvos Pequenos +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031294	Veloc. de Mov. +{@st66d_y}{s16}[%d]{/}{/} ao usar armas de Duas-Mãos
-ETC_20180208_031295	Dano contra monstros tipo Terra +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031296	Evasão +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031297	Dano contra monstros Fera +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031298	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas Impacto
-ETC_20180208_031299	Resistência ao elemento Terra +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031300	{@st66d_y}{s16}[%d]{/}{/}%% chance de envenenar o inimigo por 6 segundos
+ETC_20180208_031286	Dano contra monstros do elemento Gelo{img attri_Ice 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031287	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas do tipo Impacto
+ETC_20180208_031288	Dano contra monstros da raça Demônio{img monster_devil 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031289	Dano contra inimigos com armadura de Couro +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031290	Dano contra inimigos sob efeito de [Petrify] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031291	Bloqueio +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031292	DEX +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031293	Dano contra monstros de tamanho Pequeno +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031294	Velocidade de Ataque +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas de 2 mãos
+ETC_20180208_031295	Dano contra monstros do elemento Terra{img attri_Earth 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031296	Evasão +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031297	Dano contra monstros da raça Fera{img monster_wild 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031298	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas do tipo Impacto
+ETC_20180208_031299	Resistência Elemental: Terra{img attri_Earth 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031300	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Poison] por 6s
 ETC_20180208_031301	Stamina +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031302	Resistência Elemental Gelo +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031303	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs de Fogo
-ETC_20180208_031304	Resistência a Silêncio +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031305	{@st66d_y}{s16}[%d]{/}{/}%% chance de reduzir o dano em 10%% for 5 sec
-ETC_20180208_031306	Resistência ao Elemento Raio +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031307	Defesa a Perfurante +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031308	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs das Trevas
-ETC_20180208_031309	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs de Veneno
-ETC_20180208_031310	Dano contra alvos Dormindo +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031311	Dano contra monstros tipo Fogo +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031312	DEX +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/} 
+ETC_20180208_031302	Resistência Elemental: Gelo{img attri_Ice 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031303	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Fogo{img attri_Fire 23 23}
+ETC_20180208_031304	Resistência à [Silence] +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031305	{@st66d_y}{s16}[%d]{/}{/}%% chance, por ataque, de Dano Recebido -10%% por 5s
+ETC_20180208_031306	Resistência Elemental: Raio{img attri_Lightning 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031307	Defesa Contra Perfurante +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031308	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Trevas{img attri_Dark 23 23}
+ETC_20180208_031309	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Veneno{img attri_Poison 23 23}
+ETC_20180208_031310	Dano contra monstros sob efeito de [Sleep] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031311	Dano contra monstros do elemento Fogo{img attri_Fire 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031312	DEX +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031313	SPR +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031314	Dano contra monstros tipo Raio {@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031314	Dano contra monstros do elemento Raio{img attri_Lightning 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031315	DEX +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031316	Dano Elemental Divino +{@st66d_y}{s16}[%d]{/}
-ETC_20180208_031317	Resistência Elemental Divino +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031318	{@st66d_y}{s16}[%d]{/}{/}%% chance dos ataques sejam considerados pelas costas
-ETC_20180208_031319	Dano contra monstros tipo Trevas +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031320	Dano contra monstros Planta +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031321	Dano contra armadura tipo Pano +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031322	Dano contra alvos atordoados +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031323	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/}%% por 6 seg ao usar poção de SP
-ETC_20180208_031324	Dano contra monstros Inseto +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031325	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Ice monsters
-ETC_20180208_031326	Dano contra alvos Grandes +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031327	Resistência Elemental Veneno +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031328	Dano contra monstros tipo Veneno +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031316	Dano Adicional: Divino{img attri_Holy 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031317	Resistência Elemental: Divino{img attri_Holy 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031318	{@st66d_y}{s16}[%d]{/}{/}%% chance de considerar ataque pelas costas
+ETC_20180208_031319	Dano contra monstros do elemento Trevas{img attri_Dark 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031320	Dano contra monstros da raça Planta{img monster_plant 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031321	Dano contra inimigos com armadura Tecido +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031322	Dano contra monstros sob efeito de [Stun] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031323	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/}%% por 6s após usar poção de SP
+ETC_20180208_031324	Dano contra monstros da raça Inseto{img monster_insect 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031325	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Gelo{img attri_Ice 23 23}
+ETC_20180208_031326	Dano contra monstros de tamanho Grande +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031327	Resistência Elemental: Veneno{img attri_Poison 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031328	Dano contra monstros do elemento Veneno{img attri_Poison 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031329	Penetração de Bloqueio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031330	Peso Carregável +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031331	Dano contra monstros Chefe +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031332	Recuperação de HP +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031333	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}, Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031334	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Lightning monsters
-ETC_20180208_031335	Dano Elemental Veneno +{@st66d_y}{s16}[%d]{/}
+ETC_20180208_031334	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Raio{img attri_Lightning 23 23}
+ETC_20180208_031335	Dano Adicional: Veneno{img attri_Poison 23 23} +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031336	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031337	SP Máximo +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031338	Dano contra alvos Congelados +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031339	{@st66d_y}{s16}[%d]{/}{/}%% chance de causar Sangramento por 6s
-ETC_20180208_031340	Dano contra monstros Imóveis +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031341	Veloc. de Mov. +{@st66d_y}{s16}[%d]{/}{/} usando armar de Uma-Mão
-ETC_20180208_031342	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Projétil
-ETC_20180208_031343	Resistência Elemental Trevas +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031344	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 1%% de SP ao ser atingido por mobs Médios
-ETC_20180208_031345	Resistência a Sono +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031346	HP Max. +{@st66d_y}{s16}[%d]{/}{/}, SP Max. +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031338	Dano contra monstros sob efeito de [Freeze] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031339	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Bleed] por 6s
+ETC_20180208_031340	Dano contra monstros que não se movem +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031341	Velocidade de Ataque +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas de 1 mão
+ETC_20180208_031342	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas do tipo Projétil
+ETC_20180208_031343	Resistência Elemental: Trevas{img attri_Dark 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031344	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec. 1%% SP quando atacado por monstro Pequeno
+ETC_20180208_031345	Resistência à [Sleep] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031346	HP Máximo +{@st66d_y}{s16}[%d]{/}{/}, SP Máximo +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031347	STR +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031348	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031349	Precisão +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031350	SPR +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031351	{@st66d_y}{s16}[%d]{/}{/}%% Chance de reviver com 10%% do HP ao ficar incapacitado 
-ETC_20180208_031352	Resistência a Cegueira +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031351	{@st66d_y}{s16}[%d]{/}{/}%% chance de renascer com 10%% HP após ser derrotado
+ETC_20180208_031352	Resistência à [Blind] +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031353	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031354	Efeitos de poçoes de HP +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031354	Efeito de poções de HP +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031355	CON +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031356	Defesa contra Corte +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031357	Resistência a Sangramento +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031358	Resistência a Crítico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031359	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Corte
+ETC_20180208_031356	Defesa Contra Corte +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031357	Resistência à [Bleed] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031358	Resistência à Crítico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031359	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas do tipo Corte
 ETC_20180208_031360	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031361	INT +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/} 
-ETC_20180208_031362	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 1%% de SP ao ser atingido por mobs Pequenos
-ETC_20180208_031363	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de aumentar +4 veloc. de mov por 6 seg
-ETC_20180208_031364	INT +{@st66d_y}{s16}[%d]{/}{/} 
-ETC_20180208_031365	Dano a inimigos Caídos +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031366	Dano Elemental Raio +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031367	Resistência a Atordoar +{@st66d_y}{s16}[%d]{/}{/}, Resistência a Sono +{@st66d_y}{s16}[%d]{/}{/} 
+ETC_20180208_031361	INT +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031362	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec 0.5%% HP quando atacado por monstro Pequeno
+ETC_20180208_031363	{@st66d_y}{s16}[%d]{/}{/}%% chance, por ataque, de Vel. Movimento +4 por 6s
+ETC_20180208_031364	INT +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031365	Dano contra monstros derrubados +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031366	Dano Adicional: Raio{img attri_Lightning 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031367	Resist. [Stun] +{@st66d_y}{s16}[%d]{/}{/}%%, Resist. [Sleep] +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031368	Taxa de Ataque em Área +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031369	HP Max. +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031370	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}%% por 10s ao usar poções de HP
-ETC_20180208_031371	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar lentidão por 3s
-ETC_20180208_031372	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 2%% do HP ao ser atingido por mobs Médios
-ETC_20180208_031373	Resistência a Atordoar +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031374	Dano da Arma Secundária +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031375	Dano Elemental Gelo +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031376	STR +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 
-ETC_20180208_031377	Dano Elemental Fogo +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031378	INT +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 
-ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 3%% do HP ao ser atingido por mobs Grandes
-ETC_20180208_031380	Resistência ao Elemento fogo +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031369	HP Máximo +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031370	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}%% por 10s ao usar poção de HP
+ETC_20180208_031371	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Slow] por 3s
+ETC_20180208_031372	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec. 2%% HP quando atacado por monstro Médio
+ETC_20180208_031373	Resistência à [Stun] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031374	Ataque Físico da Arma Secundária +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031375	Dano Adicional: Gelo{img attri_Ice 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031376	STR +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031377	Dano Adicional: Fogo{img attri_Fire 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031378	INT +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec. 3%% HP quando atacado por monstro Grande
+ETC_20180208_031380	Resistência Elemental: FogoFogo{img attri_Fire 23 23} +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031381	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031382	Taxa de Crítico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031383	Provocação por ataque +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031384	Dano em inimigos sangrando + {@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031385	Dano em inimigos envenenados + {@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031386	10%% de chance de recuperar {@st66d_y}{s16}[%d]{/}{/} HP quando atacado
-ETC_20180208_031387	10%% de chance de gerar {@st66d_y}{s16}[%d]{/}{/} de Escudo por 10 seg
-ETC_20180208_031388	Provocação por ataque -{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031389	CON +{@st66d_y}{s16}[%d]{/}{/} por 10 seg ao usar SP potions
+ETC_20180208_031383	Provocação ao ser atacado +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031384	Dano contra monstros sob efeito de [Bleed] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031385	Dano contra monstros sob efeito de [Poison] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031386	10%% chance de recuperar {@st66d_y}{s16}[%d]{/}{/} HP quando atacado
+ETC_20180208_031387	10%% chance de gerar escudo de {@st66d_y}{s16}[%d]{/}{/} por 10s quando atacado
+ETC_20180208_031388	Provocação ao ser atacado -{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031389	CON +{@st66d_y}{s16}[%d]{/}{/} por 10s após usar poção de HP
 ETC_20180208_031390	STR, CON, INT, SPR, DEX +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031391	SPR +{@st66d_y}{s16}[%d]{/}{/} por 10 seg ao usar SP potions
+ETC_20180208_031391	SPR +{@st66d_y}{s16}[%d]{/}{/} por 10s após usar poção de SP
 ETC_20180208_031392	Chance de Drop +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031393	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de congelar os inimigos po 4 seg
+ETC_20180208_031393	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Freeze] por 4s
 ETC_20180208_031394	When you participate in Team Battle League, you can fight against other players.
 ETC_20180208_031395	{nl} {nl}- Some buffs are reduced in TBL.{nl}- In TBL, weapon enhancement and transcendence effects apply as 50% less.{nl}- In TBL, you receive 20% less damage.{nl}- In TBL, movement speed increasing and decreasing effects apply as 50% less.
 ETC_20180208_031396	You can extract part of the Blessed Gems used to transcend an item in the form of Blessed Shards.
@@ -31716,15 +31716,15 @@ ETC_20180320_031684	Evil
 ETC_20180320_031685	Sigh
 ETC_20180320_031686	Peace
 ETC_20180320_031687	Coleção: 2nd Demon Prison
-ETC_20180320_031688	Increase minimum critical chance +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031689	Decrease damage from characters -{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031690	Increase physical defense +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031691	Increase Magic defense +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031692	Recovers @{st66d_y}{s16}[%d]{/}{/}SP per monsters defeated
-ETC_20180320_031693	Movement speed +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180320_031694	Decrease Property Compatibility Penalty {@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031695	EXP Gain +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180320_031696	Damage to Beast-type monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031688	Chance mínima de crítico +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031689	Dano de outros jogadores -{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031690	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031691	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031692	Recupera @{st66d_y}{s16}[%d]{/}{/}SP por monstro derrotado
+ETC_20180320_031693	Velocidade de Movimento +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180320_031694	Reduz penalidade elemental em {@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031695	Ganho de EXP +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180320_031696	Dano contra monstros da raça Fera{img monster_wild 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180320_031697	The soldiers operating at the thorny Glade Hillroad seem to be facing a problem with an enormous monster. According to the reports, the monster is a Rocktortuga. Go and check whether the gigantic Rocktortuga is really roaming the thorny area.
 ETC_20180320_031698	The cave Kupoles noticed some suspicious movement in Khonot Forest and they're asking for help. Defeat the Bebraspion and protect the forest.
 ETC_20180320_031699	A fierce plant monster has appeared in Paupys Crossing and it's terrorizing the people of Orsha. Defeat the Colimencia and protect the city.
@@ -32089,8 +32089,8 @@ ETC_20180418_032057	Maldição da Erosão
 ETC_20180418_032058	A maldição de Velcoffer é erosiva para o corpo.
 ETC_20180418_032059	Despertar do Velcoffer
 ETC_20180418_032060	Fire Fox Shikigami buff that takes the caster's attack.
-ETC_20180418_032061	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Impacto
-ETC_20180418_032062	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Impacto
+ETC_20180418_032061	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas tipo Impacto
+ETC_20180418_032062	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas tipo Impacto
 ETC_20180418_032063	#VALUE!
 ETC_20180418_032064	{nl} {nl}After defeating the final boss monster in an instanced dungeon, you will receive that dungeon's cube as a reward.
 ETC_20180418_032065	{nl} {nl}The basic reward for clearing an instanced dungeon is one cube, with additional rewards granted according to your degree of completion.
@@ -33323,8 +33323,8 @@ ETC_20180629_033287	Pied Piper Mouse
 ETC_20180629_033288	Mouse buff that receives the attack of the caster.
 ETC_20180629_033289	Pied Piper White Mouse
 ETC_20180629_033290	Tower
-ETC_20180629_033291	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of applying Frostbite to the target
-ETC_20180629_033292	Attack property penalties -{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180629_033291	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Frostbite]
+ETC_20180629_033292	Penalidades de ataques elementais -{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180629_033293	Mishekan Resident Support
 ETC_20180629_033294	A message has arrived from Knight Commander Uska. A set of portals has appeared in Mishekan Forest, and the demons are beginning to infiltrate the area through them. The refugees need your help to fight off the demons and protect the forest.
 ETC_20180629_033295	TP is a currency that can only be used at the TP Shop. There is Free TP and Premium TP. 
@@ -35377,8 +35377,8 @@ ETC_20180827_035333	Defenses Enhanced	자기 방어력 강화
 ETC_20180827_035334	Physical defense momentarily enhanced.	일시적으로 물리 방어력이 증가합니다				
 ETC_20180827_035335	Guild Intro	길드 소개글	ETC_20180517_032569	Write Announcement	공지 쓰기	
 ETC_20180827_035336	Set/Remove Neutral Status	길드 전쟁 중립 설정/해제	ETC_20180517_032574	Set/Remove Neutral Status	길드 전쟁 중십 설정/해제	
-ETC_20180827_035337	Difference between summon min. and max. attack reduced by {@st66d_y}{s16}[%d]{/}{/}%%	소환수의 최소 공격력과 최대 공격력의 차이 {@st66d_y}{s16}[%d]{/}{/}%% 감소				
-ETC_20180827_035338	Healing +{@st66d_y}{s16}[%d]{/}{/}	치유력 + {@st66d_y}{s16}[%d]{/}{/}				
+ETC_20180827_035337	Diferença no ataque min/max de invocações -{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180827_035338	Taxa de Cura +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180827_035339	Items that you've obtained during your adventures can be sold through the Market.	모험 중에 얻은 아이템은 마켓을 통해 거래할 수 있습니다.	ETC_20151224_018071	Items that you've obtained during your adventure can be sold through the Market.	모험 중에 얻은 아이템은 마켓을 통해 거래를 할 수 있습니다.	
 ETC_20180827_035340	 You are able view the items from other players.	 탭에서 다른 플레이어가 등록한 아이템을 살펴보고 구매할 수 있습니다.	ETC_20170313_026603	you are able to view the items from other players.	란에서 다른 플레이어가 등록한{nl}아이템을 살펴보고 구매할 수 있습니다.	
 ETC_20180827_035341	{nl} {nl}After checking the quantity of the item you want, you can purchase it by clicking the Buy button.	{nl} {nl}구매하려고 하는 아이템의 구매 개수를 선택한 후{nl}구매 버튼을 눌러 구매할 수 있습니다.	ETC_20170313_026604	After checking the quantity of the item you want, you can purchase the it by clicking the check button.	구매하려고 하는 아이템의 구매 개수를 선택한 후{nl}구매 버튼을 눌러 구매할 수 있습니다.	
@@ -36774,10 +36774,10 @@ ETC_20190104_036688	Coleção: Tenet Church 2F	컬렉션: 테넷성당 지상 2�
 ETC_20190104_036689	Coleção: 2nd Demon Prison	컬렉션: 제2 마족수감소	ETC_20180320_031687	Collection: 2nd Demon Prison	콜렉션:제2 마족수감소
 ETC_20190104_036690	Coleção: Never-before Seen	컬렉션: 본적이 없는	ETC_20160520_021777	Collection: Never Seen Before	콜렉션:본적이 없는
 ETC_20190104_036691	Coleção: Dingofasil District	컬렉션: 딩고파실 지구	ETC_20160811_023041	Collection: Dingofasil District	콜렉션:딩고파실 지구
-ETC_20190104_036692	Physical damage +{@st66d_y}{s16}[%d]{/}{/}%% for 6 seconds after using an SP potion	SP 포션 종류 사용 시 6초간 물리 대미지 +{@st66d_y}{s16}[%d]{/}{/}%%	ETC_20180208_031267	Physical Attack +{@st66d_y}{s16}[%d]{/}{/}%% for 6 sec after using an SP potion	SP 포션 종류 사용 시 6초간 물리 공격력 +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20190104_036693	Magic critical attack +{@st66d_y}{s16}[%d]{/}{/}	마법 치명타 공격력 +{@st66d_y}{s16}[%d]{/}{/}	ETC_20180208_031277	Magic Amplification +{@st66d_y}{s16}[%d]{/}{/}	마법 증폭 +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20190104_036694	Magic damage +{@st66d_y}{s16}[%d]{/}{/}%% for 6 seconds after using an SP potion	SP 포션 종류 사용 시 6초간 마법 대미지 +{@st66d_y}{s16}[%d]{/}{/}%%	ETC_20180208_031323	Magic Attack +{@st66d_y}{s16}[%d]{/}{/}%% for 6 sec after using an SP potion	SP 포션 종류 사용 시 6초간 마법 공격력 +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20190104_036695	Successful critical attacks give {@st66d_y}{s16}[%d]{/}{/}%% chance of stealth on self for 6 seconds	치명타 공격시 {@st66d_y}{s16}[%d]{/}{/}%%확률로  6초 동안 은신			
+ETC_20190104_036692	Dano Físico +{@st66d_y}{s16}[%d]{/}{/}%% por 6s após usar poção de SP
+ETC_20190104_036693	Ataque Crítico Mágico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20190104_036694	Dano Mágico +{@st66d_y}{s16}[%d]{/}{/}%% por 6s após usar poção de SP
+ETC_20190104_036695	{@st66d_y}{s16}[%d]{/}{/}%% chance, por atq. crítico, de esconder por 6s
 ETC_20190104_036696	{nl} {nl}Double tap a direction key quickly to dash.{nl}	{nl} {nl}같은 방향 이동키를 빠르게 두 번 입력하여{nl}대쉬를 사용할 수 있습니다.	ETC_20151224_018029	{nl} {nl}Swordsman-type classes are able to sprint if you press the same directional key twice.	{nl} {nl}전사계 클래스는 같은 방향 이동키를 빠르게 두 번 입력하여 대쉬를 사용할 수 있습니다.
 ETC_20190104_036697	Your stats will be increased automatically to fit your class selection when leveling up.	레벨업을 하면 각 클래스의 특성에 맞게 스테이터스 수치가 상승합니다.	ETC_20150729_013698	Use Status Points obtained through leveling up{nl}to upgrade your character's abilities.	레벨업을 통해 얻은 스테이터스 포인트로 캐릭터의 능력치를 성장시킬 수 있습니다.
 ETC_20190104_036698	{nl} {nl} The function of each stat will be displayed on the bottom of the window.	{nl} {nl} 스테이터스의 효과는 하단에서 확인이 가능합니다.			
