@@ -1531,8 +1531,8 @@ ETC_20150317_001530	You have sent the message of a friend request to the charact
 ETC_20150317_001531	The friend request timed out. The request was canceled.
 ETC_20150317_001532	Cannot enter as the number of players exceeded.
 ETC_20150317_001533	Attempt to reconnect %02d times...
-ETC_20150317_001534	Your account has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer ServGelo for details.
-ETC_20150317_001535	Your character has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer ServGelo for details.
+ETC_20150317_001534	Your account has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer service for details.
+ETC_20150317_001535	Your character has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer service for details.
 ETC_20150317_001536	Você não tem {ItemName} suficiente.
 ETC_20150317_001537	This place, please move to the herbivorous you will not be able to use {nl} another location
 ETC_20150317_001538	{Auto_2} recovery will be completed after {Auto_1} segundos
@@ -1731,7 +1731,7 @@ ETC_20150317_001730	Combinando Itens...
 ETC_20150317_001731	Obtido
 ETC_20150317_001732	Coloque a carta no slot para equipá-lo.
 ETC_20150317_001733	Custo de Reparo: {Price}{nl} Tem certeza que quer reparar?
-ETC_20150317_001734	N/Decidido
+ETC_20150317_001734	Indeciso
 ETC_20150317_001735	This item does not have enough Potential.
 ETC_20150317_001736	This item does not have enough sockets.
 ETC_20150317_001737	You don't have enough silver.
@@ -2771,10 +2771,10 @@ ETC_20150317_002770	Ataque Elemental: Divino
 ETC_20150317_002771	Ataque Elemental: Trevas
 ETC_20150317_002772	Velocidade de Movimento
 ETC_20150317_002773	Recuperação de HP
-ETC_20150317_002774	Ataque Contra Planta{img monster_plant 24 24}
-ETC_20150317_002775	Ataque Contra Fera{img monster_wild 24 24}
-ETC_20150317_002776	Ataque Contra Demônio{img monster_devil 24 24}
-ETC_20150317_002777	Ataque Contra Mutante{img monster_variation 24 24}
+ETC_20150317_002774	Ataque Contra Planta {img monster_plant 24 24}
+ETC_20150317_002775	Ataque Contra Fera {img monster_wild 24 24}
+ETC_20150317_002776	Ataque Contra Demônio {img monster_devil 24 24}
+ETC_20150317_002777	Ataque Contra Mutante {img monster_variation 24 24}
 ETC_20150317_002778	Ataque Elemental: Vento
 ETC_20150317_002779	Resistência Elemental: Fogo{img attri_Fire 23 23}
 ETC_20150317_002780	Resistência Elemental: Gelo{img attri_Ice 23 23}
@@ -2802,7 +2802,7 @@ ETC_20150317_002801	Magic Penetration
 ETC_20150317_002802	Item EXP
 ETC_20150317_002803	Shooting Distance
 ETC_20150317_002804	Speed
-ETC_20150317_002805	Ataque Contra Inseto{img monster_insect 24 24}
+ETC_20150317_002805	Ataque Contra Inseto {img monster_insect 24 24}
 ETC_20150317_002806	Ataque Elemental: Terra{img attri_Earth 23 23}
 ETC_20150317_002807	Resistência Elemental: Terra{img attri_Earth 23 23}
 ETC_20150317_002808	Physical Damage when mounted
@@ -2833,17 +2833,17 @@ ETC_20150317_002832	Archer Type
 ETC_20150317_002833	Cleric Type
 ETC_20150317_002834	Sorcerer Type
 ETC_20150317_002835	Human-type
-ETC_20150317_002836	{#000000}Tipo-Demônio {img monster_devil 30 30}
-ETC_20150317_002837	{#000000}Tipo-Planta {img monster_plant 30 30}
-ETC_20150317_002838	{#000000}Tipo-Fera {img monster_wild 30 30}
-ETC_20150317_002839	{#000000}Tipo-Mutante {img monster_variation 30 30}
+ETC_20150317_002836	Raça: Demônio {img monster_devil 24 24}
+ETC_20150317_002837	Raça: Planta {img monster_plant 24 24}
+ETC_20150317_002838	Raça: Fera {img monster_wild 24 24}
+ETC_20150317_002839	Raça: Mutante {img monster_variation 24 24}
 ETC_20150317_002840	Object
-ETC_20150317_002841	{#000000}Tipo-Inseto {img monster_insect 30 30}
+ETC_20150317_002841	Raça: Inseto {img monster_insect 24 24}
 ETC_20150317_002842	Tecido
 ETC_20150317_002843	Couro
 ETC_20150317_002844	Metal
 ETC_20150317_002845	Chain
-ETC_20150317_002846	Ghost
+ETC_20150317_002846	Fantasma
 ETC_20150317_002847	This mercenary already belongs to somebody else.
 ETC_20150317_002848	The mercenary's level is higher than the PC's level.
 ETC_20150317_002849	The mercenary has been hired.
@@ -4717,9 +4717,9 @@ ETC_20150317_004716	{@st61} Normal Chat
 ETC_20150317_004717	And conversation
 ETC_20150317_004718	Normal
 ETC_20150317_004719	Equipe
-ETC_20150317_004720	Group
+ETC_20150317_004720	Grupo
 ETC_20150317_004721	Invite to chat
-ETC_20150317_004722	System
+ETC_20150317_004722	Sistema
 ETC_20150317_004723	{@st61} A new chat message has arrived! {/}
 ETC_20150317_004724	Minimum:
 ETC_20150317_004725	Maximum:
@@ -6264,7 +6264,7 @@ ETC_20150317_006264	Magos usam magia para bloquear ataques e se protegerem.{nl}E
 ETC_20150317_006265	Pyromancer
 ETC_20150317_006266	Os Piromantes usam varias magias de fogo para causar dano contra varios inimigos. Eles realmente dominam o fogo através de sua magia!
 ETC_20150317_006267	Cryomancer
-ETC_20150317_006268	Cryomancers use powerful Gelo magic to freeze enemies, or protect their allies from enemies by using Gelo walls.
+ETC_20150317_006268	Cryomancers use powerful ice magic to freeze enemies, or protect their allies from enemies by using ice walls.
 ETC_20150317_006269	Psychokino
 ETC_20150317_006270	Os Psychokino usam a psicocinese para controlar a gravidade, ou puxam os inimigos e os jogam para longe.
 ETC_20150317_006271	Alchemist
@@ -7048,15 +7048,15 @@ ETC_20150317_007048	Kepa Wagon
 ETC_20150317_007049	Start Point of Golem
 ETC_20150317_007050	Empty Wagon
 ETC_20150317_007051	Supplies Wagon
-ETC_20150317_007052	Divino Ark
+ETC_20150317_007052	Divine Ark
 ETC_20150317_007053	Altar
-ETC_20150317_007054	Red Crystal
-ETC_20150317_007055	Orange Crystal
-ETC_20150317_007056	Yellow Crystal
-ETC_20150317_007057	Green Crystal
-ETC_20150317_007058	Blue Crystal
-ETC_20150317_007059	Navy Crystal
-ETC_20150317_007060	Purple Crystal
+ETC_20150317_007054	Cristal Vermelho
+ETC_20150317_007055	Cristal Laranja
+ETC_20150317_007056	Cristal Amarelo
+ETC_20150317_007057	Cristal Verde
+ETC_20150317_007058	Cristal Azul
+ETC_20150317_007059	Cristal Marinho
+ETC_20150317_007060	Cristal Roxo
 ETC_20150317_007061	Confirm
 ETC_20150317_007062	Thorn Forest Gate 1
 ETC_20150317_007063	Thorn Forest Gate 2
@@ -8278,8 +8278,8 @@ ETC_20150317_008278	Recipe - Owl Rod
 ETC_20150317_008279	Recipe - Rune Rod
 ETC_20150317_008280	Recipe - Crystal Rod
 ETC_20150317_008281	Recipe - Battle Rod
-ETC_20150317_008282	Recipe - Gelo Rod
-ETC_20150317_008283	Recipe - Fogo Rod
+ETC_20150317_008282	Recipe - Ice Rod
+ETC_20150317_008283	Recipe - Fire Rod
 ETC_20150317_008284	Recipe - Vasia Rod
 ETC_20150317_008285	Recipe - Magic Rod
 ETC_20150317_008286	Recipe - Arch Rod
@@ -9462,7 +9462,7 @@ ETC_20150317_009462	Adventurer Varkis' Spirit
 ETC_20150317_009463	Solder's Dead Body
 ETC_20150317_009464	Sviesa Altar
 ETC_20150317_009465	High Crooked Road
-ETC_20150317_009466	Varkis' Records
+ETC_20150317_009466	Registro de Varkis
 ETC_20150317_009467	Royal Mausoleum Guardian Device
 ETC_20150317_009468	Lv1 Treasure Chest
 ETC_20150317_009469	Derrote the Woodspirit Quest trigger
@@ -10170,7 +10170,7 @@ ETC_20150323_010171	You've been transferred to a strange location due to the God
 ETC_20150323_010172	You will be slowed down for 5 segundos due to the Goddess Statue malfunctioning!
 ETC_20150323_010173	You've dug up the head of the Goddess Statue without any trouble
 ETC_20150323_010174	The monsters will be lured since you've installed the pots. The installed pots will disappear in 20 segundos.
-ETC_20150323_010175	Installed Venenoous Pot
+ETC_20150323_010175	Installed Poisonous Pot
 ETC_20150323_010176	You fell into sleep due to the curse of the sealed magic circle
 ETC_20150323_010177	The stones all fell down. Go to Albina to get the stones
 ETC_20150323_010178	The magic circle is destroyed!
@@ -10965,9 +10965,9 @@ ETC_20150414_010966	Broken Magic Circle
 ETC_20150414_010967	Wing of Goddess Statue
 ETC_20150414_010968	Head of Goddess Statue
 ETC_20150414_010969	NPC Shnayim
-ETC_20150414_010970	Red Crystal
-ETC_20150414_010971	Blue Crystal
-ETC_20150414_010972	Yellow Crystal
+ETC_20150414_010970	Cristal Vermelho
+ETC_20150414_010971	Cristal Azul
+ETC_20150414_010972	Cristal Amarelo
 ETC_20150414_010973	Baron Allerno
 ETC_20150414_010974	Druid Male
 ETC_20150414_010975	Druid Female
@@ -11210,7 +11210,7 @@ ETC_20150414_011211	[Mestre Falconer]{nl} Genklas Metai
 ETC_20150414_011212	Search Skill Trigger
 ETC_20150428_011213	Night Maiden
 ETC_20150428_011214	Demon Lord Nuaele
-ETC_20150428_011215	Venenoous Insect
+ETC_20150428_011215	Poisonous Insect
 ETC_20150428_011216	Explosivo
 ETC_20150428_011217	Bomba de Fogo
 ETC_20150428_011218	Espinho Venenoso
@@ -12015,7 +12015,7 @@ ETC_20150714_012016	Marble
 ETC_20150714_012017	Carpet
 ETC_20150714_012018	Steel
 ETC_20150714_012019	Shallow Water
-ETC_20150714_012020	Venenoous Swamp
+ETC_20150714_012020	Poisonous Swamp
 ETC_20150714_012021	Gold
 ETC_20150714_012022	Swampy Area
 ETC_20150714_012023	Dried Land
@@ -12335,7 +12335,7 @@ ETC_20150714_012336	You have placed the pot. The monsters are gathering towards 
 ETC_20150714_012337	You should put the sanctum back to its original position{nl}Go meet with the Priest Mestre
 ETC_20150714_012338	Read
 ETC_20150714_012339	You can only make the rubbing after defeating all monsters 
-ETC_20150714_012340	Venenoous effect is present!
+ETC_20150714_012340	Poisonous effect is present!
 ETC_20150714_012341	It seems that the Veneno is ineffective!
 ETC_20150714_012342	Pulling Out Hair
 ETC_20150714_012343	Stunned Wendigo Archer
@@ -12458,10 +12458,10 @@ ETC_20150714_012459	You've supplied the maximum amount of power!
 ETC_20150714_012460	Move using the power
 ETC_20150714_012461	There isn't enough power inside the portal, so you can't use it.
 ETC_20150714_012462	Demons' energy
-ETC_20150714_012463	The power of the sealed demon sphere is weakening
-ETC_20150714_012464	The sealed demon sphere of AA has been destroyed causing Dullahan to be released!
-ETC_20150714_012465	North Side
-ETC_20150714_012466	South Side
+ETC_20150714_012463	O poder da esfera demoníaca selada está enfraquecendo
+ETC_20150714_012464	A espera demoníaca selada foi destruída e Dullahan foi liberado!
+ETC_20150714_012465	Ala Norte
+ETC_20150714_012466	Ala Sul
 ETC_20150714_012467	Power has been supplied to the north portal using the power of the White Demonic Power Crystal!{nl}(
 ETC_20150714_012468	Power has been supplied to the south portal using the power of the Green Demonic Power Crystal!{nl}(
 ETC_20150714_012469	The north portal is open!
@@ -12535,7 +12535,7 @@ ETC_20150714_012536	Derrote the demons near the sacred symbol of the spiritual p
 ETC_20150714_012537	The demons are defending it!
 ETC_20150714_012538	The name of an unknown person is written on it
 ETC_20150714_012539	You have successfully collected Grapevine Root
-ETC_20150714_012540	As you touch the grapes, Venenoous energy pours over you
+ETC_20150714_012540	As you touch the grapes, Poisonous energy pours over you
 ETC_20150714_012541	You already have a tamed frog!
 ETC_20150714_012542	You have found the seed pouch of Weiss
 ETC_20150714_012543	Nothing was found
@@ -12549,7 +12549,7 @@ ETC_20150714_012550	You can't use it now
 ETC_20150714_012551	With the pieces you have, there's nothing you can craft at the moment
 ETC_20150714_012552	Resonate the magic crystal (20 Crystal Fragments)
 ETC_20150714_012553	Opening the bag
-ETC_20150714_012554	Venenoous gas will soon leak from the broken purification Device!
+ETC_20150714_012554	Poisonous gas will soon leak from the broken purification Device!
 ETC_20150714_012555	The Devices are activating! It's dangerous!
 ETC_20150714_012556	The grapes already dried out and died
 ETC_20150714_012557	Você falhou em escort the soldier who fell behind
@@ -12573,8 +12573,8 @@ ETC_20150714_012574	Jareth misunderstood something
 ETC_20150714_012575	Picking up a page of the scripture
 ETC_20150714_012576	Picking up the mushroom
 ETC_20150714_012577	You've failed the hunting
-ETC_20150714_012578	Extracting the Venenoous liquid under the tree
-ETC_20150714_012579	Checking how Venenoous the spring water is
+ETC_20150714_012578	Extracting the Poisonous liquid under the tree
+ETC_20150714_012579	Checking how Poisonous the spring water is
 ETC_20150714_012580	You can't collect enough Veneno from this spring
 ETC_20150714_012581	Chevas
 ETC_20150714_012582	Chevas found the herbs!
@@ -13447,7 +13447,7 @@ ETC_20150717_013448	DoTimeAction:Looking for the parts:3:SITGROPE:None
 ETC_20150717_013449	Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTGelo_Dm_GetItem:You've found the parts!:5/NPCDead
 ETC_20150717_013450	Notice:NOTICE_Dm_!:You didn't find anything!:5/NPCDead
 ETC_20150717_013451	DoTimeAction:Collecting:3:SITGROPE:None
-ETC_20150717_013452	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_020_ITEM_1:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTGelo_Dm_Clear:Acquired Venenoous plants!:5
+ETC_20150717_013452	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_020_ITEM_1:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTGelo_Dm_Clear:Acquired Poisonous plants!:5
 ETC_20150717_013453	NPCDead/Notice:NOTICE_Dm_!:You couldn't obtain anything!:5
 ETC_20150717_013454	DoTimeAction:Colleting the petrification liquid powders:5:GROPE:None
 ETC_20150717_013455	Property:1/PropertyAdd:1/GiveItem:FLASH_58_SQ_050_ITEM_2:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/NPCDead/Notice:NOTGelo_Dm_Clear:Acquired the petrification liquid powders!:5
@@ -13467,7 +13467,7 @@ ETC_20150717_013468	Check the second petrification Device
 ETC_20150717_013469	Check the third petrification Device
 ETC_20150717_013470	Check the fourth petrification Device
 ETC_20150717_013471	Obtain the parts from the monsters or the soldiers
-ETC_20150717_013472	Obtain Venenoous plants
+ETC_20150717_013472	Obtain Poisonous plants
 ETC_20150717_013473	Obtain petrification liquid powders
 ETC_20150717_013474	Obtain the core from the petrified monsters
 ETC_20150717_013475	Throw the core to the terminal (1)
@@ -17245,7 +17245,7 @@ ETC_20151102_017239	This is not a premium Internet cafe. Please ask the cafe man
 ETC_20151102_017240	There have been too many requests from this IP. Please ask the cafe manager for details.
 ETC_20151102_017241	There have been too many requests from this ID. Please ask the cafe manager for details.
 ETC_20151102_017242	This PC has lost Internet connection. Please ask the Nexon cafe manager for details.
-ETC_20151102_017243	Due to the influx of premium servGelo members, we are temporarily unable to provide the servGelo. Please, reconnect.
+ETC_20151102_017243	Due to the influx of premium service members, we are temporarily unable to provide the service. Please, reconnect.
 ETC_20151102_017244	Disconnected.
 ETC_20151102_017245	The alloted time at the Nexon net cafe has expired, so the game has ended. Please refer to an employee at the net cafe for further inquiry. 
 ETC_20151102_017246	{Price}NXPConsumedToHire{minuto}Continue?
@@ -19469,7 +19469,7 @@ ETC_20151224_019463	It seems that there is no information related to the giant b
 ETC_20151224_019464	Destroying the cauldron
 ETC_20151224_019465	The cauldron has been destroyed
 ETC_20151224_019466	You've removed the power source!
-ETC_20151224_019467	You've been frozen by the Gelo Magic Circle!
+ETC_20151224_019467	You've been frozen by the Ice Magic Circle!
 ETC_20151224_019468	A red light appeared on a monster from the Old Disc
 ETC_20151224_019469	The Old Disc did not show any reaction
 ETC_20151224_019470	Scared Village Resident
@@ -22098,10 +22098,10 @@ ETC_20160718_022092	You have found a Mineral Vein
 ETC_20160718_022093	Searching for Mineral Veins 2
 ETC_20160718_022094	Searching for Mineral Veins 3
 ETC_20160718_022095	You have become stronger by receiving the energy from the ocean.
-ETC_20160718_022096	Poisoned by Venenoous gas
-ETC_20160718_022097	You have become Poisoned by inhaling Venenoous gas
-ETC_20160718_022098	Purify the Venenoous gas
-ETC_20160718_022099	You are purifying the Venenoous gas
+ETC_20160718_022096	Poisoned by Poisonous gas
+ETC_20160718_022097	You have become Poisoned by inhaling Poisonous gas
+ETC_20160718_022098	Purify the Poisonous gas
+ETC_20160718_022099	You are purifying the Poisonous gas
 ETC_20160718_022100	Blessing of Light
 ETC_20160718_022101	The surrounding area seems to have become a bit brighter.
 ETC_20160718_022102	Soul Magic
@@ -22459,7 +22459,7 @@ ETC_20160718_022453	You have given up on the quest
 ETC_20160718_022454	Another Device has been activated as soon as this one was turned off{nl}You cannot touch this Device
 ETC_20160718_022455	I'll head back to the unit
 ETC_20160718_022456	The Device has been deactivated and is no longer accessible
-ETC_20160718_022457	You have been Poisoned{nl}Purify the Venenoous gas
+ETC_20160718_022457	You have been Poisoned{nl}Purify the Poisonous gas
 ETC_20160718_022458	It is difficult to check the cube as you have been Poisoned
 ETC_20160718_022459	Picking up orb fragments
 ETC_20160718_022460	The soul has disappeared
@@ -22489,8 +22489,8 @@ ETC_20160718_022483	You have obtained a total of {POINT} points{nl}You have a ch
 ETC_20160718_022484	You do not have enough points to receive a reward
 ETC_20160718_022485	Monster Soul
 ETC_20160718_022486	You already have materials for the fence
-ETC_20160718_022487	The Venenoous gas has been purified
-ETC_20160718_022488	The Venenoous gas has reappeared
+ETC_20160718_022487	The Poisonous gas has been purified
+ETC_20160718_022488	The Poisonous gas has reappeared
 ETC_20160718_022489	The shield has disappeared allowing you a chance to attack it again
 ETC_20160718_022490	You can only use it in the refugee residential area
 ETC_20160718_022491	You have obtained {POINTS} points and received the Lv1 reward
@@ -24084,18 +24084,18 @@ ETC_20160811_024078	{Relation} When HP is below {P}%
 ETC_20160811_024079	When an enemy of {Size}size is within {Dist}
 ETC_20160811_024080	When {Relation} within {Dist} is {BuffName}
 ETC_20160811_024081	Please select a character you wish to summon as a helper.
-ETC_20160811_024082	Firme
-ETC_20160811_024083	Curador
-ETC_20160811_024084	Enfeitiçado
-ETC_20160811_024085	Abençoado
-ETC_20160811_024086	Divino
-ETC_20160811_024087	Obstinado
-ETC_20160811_024088	Durabilidade do item reduzirá 50% mais devagar
-ETC_20160811_024089	5% na redução de todos os debuffs
-ETC_20160811_024090	5% de aumento na Defesa Mágica
-ETC_20160811_024091	1% de chance em negar ataques.
-ETC_20160811_024092	5% na duração de buffs dos Cleric (Excluindo os dos shops)
-ETC_20160811_024093	Ganha 1 CON para cada 20 pontos em SPR
+ETC_20160811_024082	Reforçar -
+ETC_20160811_024083	Purificar -
+ETC_20160811_024084	Proteger -
+ETC_20160811_024085	Abençoar -
+ETC_20160811_024086	Santificar -
+ETC_20160811_024087	Enfeitiçar -
+ETC_20160811_024088	Durabilidade reduzirá 50% mais devagar
+ETC_20160811_024089	Reduz em 5% a duração de todos os debuffs
+ETC_20160811_024090	Aumenta em 5% a Defesa Mágica
+ETC_20160811_024091	1% de chance de negar ataques inimigos
+ETC_20160811_024092	5% de duração a mais nos buffs de Cleric (menos loja)
+ETC_20160811_024093	Recebe 1 ponto de CON a cada 20 pontos de SPR
 ETC_20160811_024094	Light Salmon
 ETC_20160811_024095	Invisible Hair(Male)
 ETC_20160811_024096	Invisible Hair(Female)
@@ -24491,7 +24491,7 @@ ETC_20161005_024485	Although it was overshadowed by stronger demons in demon ter
 ETC_20161005_024486	Straw Walker
 ETC_20161005_024487	Amberdog
 ETC_20161005_024488	Flowlon
-ETC_20161005_024489	A monster that has transformed from a Venenoous flower that used to grow in Dark places.
+ETC_20161005_024489	A monster that has transformed from a Poisonous flower that used to grow in Dark places.
 ETC_20161005_024490	Flowlevi
 ETC_20161005_024491	Many herbivores had been near their food on Medzio Diena and this caused them to have complex transformations. This is one of those monsters.
 ETC_20161005_024492	Virdney
@@ -24667,7 +24667,7 @@ ETC_20161005_024661	I see you've caught up with me.
 ETC_20161005_024662	I sense that I will regret leaving you alive, so I'm afraid that you must now perish!
 ETC_20161005_024663	The Central Device is attacking!{nl}Destroy the Device!
 ETC_20161005_024664	The road has been blocked off and the monsters have started to attack{nl}Derrote the monsters and get rid of the obstacles
-ETC_20161005_024665	The jars have started to emit a Venenoous gas{nl}Use the Military Grade Antidote and destroy the jars
+ETC_20161005_024665	The jars have started to emit a Poisonous gas{nl}Use the Military Grade Antidote and destroy the jars
 ETC_20161005_024666	Heretic Jaonus
 ETC_20161005_024667	What... I thought you would run away.
 ETC_20161005_024668	Darn, run for it!
@@ -26915,7 +26915,7 @@ ETC_20170313_026909	Saalus Convent Error
 ETC_20170313_026910	Item data different from DB data.
 ETC_20170313_026911	Resets the restrictions on the instanced dungeons and mercenary missions when used. Upon pick-up, use within 1 hour.
 ETC_20170313_026912	Grants Token benefits to all your characters in the server for 1 hour. Right-click to use. Remaining time is displayed in the Character Info window.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement speed{nl} - +20% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl} - Enables 30 personal trades	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 1시간 동안 혜택이 적용됩니다. 캐릭터 정보창에서 잔여시간을 확인하실 수 있습니다.{nl}[토큰 효과]{nl} - 특성 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +20% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 프리미엄 제스쳐 사용 가능{nl} - 최대 버프 적용 개수 증가{nl} - 개인 거래 30회 가능				
-ETC_20170313_026913	Poção de Resetar Skills (14 Days)
+ETC_20170313_026913	Skill Reset Potion (14 Dias)
 ETC_20170313_026914	Rocksodon Package
 ETC_20170313_026915	Right-click to use and obtain the following items:{nl} - 650 TP x1{nl} - Rocksodon Box x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 650 TP x1{nl} - 락스돈 상자 x1				
 ETC_20170313_026916	Item Package	구성 패키지				
@@ -27463,7 +27463,7 @@ ETC_20170313_027457	Use Shop
 ETC_20170313_027458	{img Silver 20 20}
 ETC_20170313_027459	 : seu item foi identificado.
 ETC_20170313_027460	Enter a value between {MIN} and {MAX}.
-ETC_20170313_027461	Collection: 
+ETC_20170313_027461	Coleção: 
 ETC_20170313_027462	By Name
 ETC_20170313_027463	By Status
 ETC_20170313_027464	Cannot be used with no accessories equipped. 
@@ -30187,7 +30187,7 @@ ETC_20171128_030160	Give the Uska's Level Up Chest
 ETC_20171128_030161	Receive the Basic Fishing Gear
 ETC_20171128_030162	Ask about the thing that Matador has requested
 ETC_20171128_030163	Deliver the object
-ETC_20171128_030164	Purchase Sage Items
+ETC_20171128_030164	Comprar Itens de Sage
 ETC_20171128_030165	Use Matador Attributes
 ETC_20171128_030166	Talk About What You Found
 ETC_20171128_030167	Use Shadowmancer Attributes
@@ -31290,138 +31290,138 @@ ETC_20180208_031258	Go with Neringa and track Demon Goddess Giltine!
 ETC_20180208_031259	Kill them, as painfully as possible.
 ETC_20180208_031260	TOS 4EVER
 ETC_20180208_031261	Title given to participants of the fan creation contest.
-ETC_20180208_031262	Dano adicional de Terra{img attri_Earth 20 20} +{@st66d_y}{s16}[%d]{/}
-ETC_20180208_031263	Chance de {@st66d_y}{s16}[%d]{/}{/}%% de ativar Pain Barrier Lv 1
-ETC_20180208_031264	Defesa contra Impacto +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031265	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%% for 10 sec when using HP potions
-ETC_20180208_031266	Dano contra monstros Voadores +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031267	Dano Físico +{@st66d_y}{s16}[%d]{/}{/}%% por 6 sec ao usar potes de SP
-ETC_20180208_031268	Dano contra armadura tipo Metal +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031262	Dano Adicional: Terra{img attri_Earth 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031263	{@st66d_y}{s16}[%d]{/}{/}%% de chance de usar [Pain Barrier] Nv.1 ao ser atacado
+ETC_20180208_031264	Defesa Contra Impacto +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031265	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%% por 10s após usar poção de HP
+ETC_20180208_031266	Dano em monstros Voadores +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031267	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/}%% por 6s após usar poção de SP
+ETC_20180208_031268	Dano contra inimigos com armadura de Metal +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031269	STR +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031270	Dano adicional Trevas{img attri_Dark 20 20} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031270	Dano Adicional: Trevas{img attri_Dark 23 23} +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031271	Ataque Crítico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031272	Dano contra monstros Mutantes +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031272	Dano contra monstros da raça Mutante{img monster_variation 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031273	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031274	Efeito de poções de STA +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031275	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} com armas tipo Perfurante
-ETC_20180208_031276	Chance de {@st66d_y}{s16}[%d]{/}{/}%% de recuperar 5%% SP ao derrotar mosntros Terra
+ETC_20180208_031274	Efeito de poções e pílulas de STA +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031275	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas do tipo Perfurante
+ETC_20180208_031276	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Terra{img attri_Earth 23 23}
 ETC_20180208_031277	Amplificação Mágica +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031278	Dano contra alvos Médios +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031278	Dano contra monstros de tamanho Médio +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031279	Efeito de poções de SP +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031280	{@st66d_y}{s16}[%d]{/}{/}%% chance de causar Shock por 3seg
-ETC_20180208_031281	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 3%% SP ao ser atacado por alvos Grandes
-ETC_20180208_031282	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs Mutantes
-ETC_20180208_031283	Veloci. de Mov. +{@st66d_y}{s16}[%d]{/}{/} por 10 seg ao usar poção de STA 
-ETC_20180208_031284	STR +{@st66d_y}{s16}[%d]{/}{/}, DEX +{@st66d_y}{s16}[%d]{/}{/} 
+ETC_20180208_031280	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Shock] por 3s
+ETC_20180208_031281	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec. 3%% SP quando atacado por monstro Grande
+ETC_20180208_031282	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando raça Mutante{img monster_variation 20 20}
+ETC_20180208_031283	Vel. Movimento +{@st66d_y}{s16}[%d]{/}{/} por 10s após usar poção ou pílula de STA
+ETC_20180208_031284	STR +{@st66d_y}{s16}[%d]{/}{/}, DEX +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031285	Recuperação de SP +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031286	Dano contra monstros tipo Gelo +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031287	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Impacto
-ETC_20180208_031288	Dano contra monstros Demônio +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031289	Dano contra armadura tipo Couro +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031290	Dano contra inimigos Petrificados +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031291	Blqueio +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031292	DEX +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 
-ETC_20180208_031293	Dano contra alvos Pequenos +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031294	Veloc. de Mov. +{@st66d_y}{s16}[%d]{/}{/} ao usar armas de Duas-Mãos
-ETC_20180208_031295	Dano contra monstros tipo Terra +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031296	Evasão +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031297	Dano contra monstros Fera +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031298	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas Impacto
-ETC_20180208_031299	Resistência ao elemento Terra +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031300	{@st66d_y}{s16}[%d]{/}{/}%% chance de envenenar o inimigo por 6 segundos
+ETC_20180208_031286	Dano contra monstros do elemento Gelo{img attri_Ice 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031287	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas do tipo Impacto
+ETC_20180208_031288	Dano contra monstros da raça Demônio{img monster_devil 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031289	Dano contra inimigos com armadura de Couro +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031290	Dano contra inimigos sob efeito de [Petrify] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031291	Bloqueio +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031292	DEX +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031293	Dano contra monstros de tamanho Pequeno +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031294	Velocidade de Ataque +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas de 2 mãos
+ETC_20180208_031295	Dano contra monstros do elemento Terra{img attri_Earth 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031296	Evasão +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031297	Dano contra monstros da raça Fera{img monster_wild 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031298	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas do tipo Impacto
+ETC_20180208_031299	Resistência Elemental: Terra{img attri_Earth 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031300	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Poison] por 6s
 ETC_20180208_031301	Stamina +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031302	Resistência Elemental Gelo +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031303	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs de Fogo
-ETC_20180208_031304	Resistência a Silêncio +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031305	{@st66d_y}{s16}[%d]{/}{/}%% chance de reduzir o dano em 10%% for 5 sec
-ETC_20180208_031306	Resistência ao Elemento Raio +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031307	Defesa a Perfurante +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031308	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs das Trevas
-ETC_20180208_031309	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP ao derrotar mobs de Veneno
-ETC_20180208_031310	Dano contra alvos Dormindo +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031311	Dano contra monstros tipo Fogo +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031312	DEX +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/} 
+ETC_20180208_031302	Resistência Elemental: Gelo{img attri_Ice 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031303	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Fogo{img attri_Fire 23 23}
+ETC_20180208_031304	Resistência à [Silence] +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031305	{@st66d_y}{s16}[%d]{/}{/}%% chance, por ataque, de Dano Recebido -10%% por 5s
+ETC_20180208_031306	Resistência Elemental: Raio{img attri_Lightning 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031307	Defesa Contra Perfurante +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031308	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Trevas{img attri_Dark 23 23}
+ETC_20180208_031309	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Veneno{img attri_Poison 23 23}
+ETC_20180208_031310	Dano contra monstros sob efeito de [Sleep] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031311	Dano contra monstros do elemento Fogo{img attri_Fire 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031312	DEX +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031313	SPR +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031314	Dano contra monstros tipo Raio {@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031314	Dano contra monstros do elemento Raio{img attri_Lightning 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031315	DEX +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031316	Dano Elemental Divino +{@st66d_y}{s16}[%d]{/}
-ETC_20180208_031317	Resistência Elemental Divino +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031318	{@st66d_y}{s16}[%d]{/}{/}%% chance dos ataques sejam considerados pelas costas
-ETC_20180208_031319	Dano contra monstros tipo Trevas +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031320	Dano contra monstros Planta +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031321	Dano contra armadura tipo Pano +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031322	Dano contra alvos atordoados +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031323	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/}%% por 6 seg ao usar poção de SP
-ETC_20180208_031324	Dano contra monstros Inseto +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031325	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Ice monsters
-ETC_20180208_031326	Dano contra alvos Grandes +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031327	Resistência Elemental Veneno +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031328	Dano contra monstros tipo Veneno +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031316	Dano Adicional: Divino{img attri_Holy 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031317	Resistência Elemental: Divino{img attri_Holy 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031318	{@st66d_y}{s16}[%d]{/}{/}%% chance de considerar ataque pelas costas
+ETC_20180208_031319	Dano contra monstros do elemento Trevas{img attri_Dark 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031320	Dano contra monstros da raça Planta{img monster_plant 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031321	Dano contra inimigos com armadura Tecido +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031322	Dano contra monstros sob efeito de [Stun] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031323	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/}%% por 6s após usar poção de SP
+ETC_20180208_031324	Dano contra monstros da raça Inseto{img monster_insect 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031325	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Gelo{img attri_Ice 23 23}
+ETC_20180208_031326	Dano contra monstros de tamanho Grande +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031327	Resistência Elemental: Veneno{img attri_Poison 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031328	Dano contra monstros do elemento Veneno{img attri_Poison 23 23} +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031329	Penetração de Bloqueio +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031330	Peso Carregável +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031331	Dano contra monstros Chefe +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031332	Recuperação de HP +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031333	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}, Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031334	{@st66d_y}{s16}[%d]{/}{/}%% chance of recovering 5%% SP after defeating Lightning monsters
-ETC_20180208_031335	Dano Elemental Veneno +{@st66d_y}{s16}[%d]{/}
+ETC_20180208_031334	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 5%% SP derrotando monstros Raio{img attri_Lightning 23 23}
+ETC_20180208_031335	Dano Adicional: Veneno{img attri_Poison 23 23} +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031336	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031337	SP Máximo +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031338	Dano contra alvos Congelados +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031339	{@st66d_y}{s16}[%d]{/}{/}%% chance de causar Sangramento por 6s
-ETC_20180208_031340	Dano contra monstros Imóveis +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031341	Veloc. de Mov. +{@st66d_y}{s16}[%d]{/}{/} usando armar de Uma-Mão
-ETC_20180208_031342	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Projétil
-ETC_20180208_031343	Resistência Elemental Trevas +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031344	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 1%% de SP ao ser atingido por mobs Médios
-ETC_20180208_031345	Resistência a Sono +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031346	HP Max. +{@st66d_y}{s16}[%d]{/}{/}, SP Max. +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031338	Dano contra monstros sob efeito de [Freeze] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031339	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Bleed] por 6s
+ETC_20180208_031340	Dano contra monstros que não se movem +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031341	Velocidade de Ataque +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas de 1 mão
+ETC_20180208_031342	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas do tipo Projétil
+ETC_20180208_031343	Resistência Elemental: Trevas{img attri_Dark 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031344	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec. 1%% SP quando atacado por monstro Pequeno
+ETC_20180208_031345	Resistência à [Sleep] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031346	HP Máximo +{@st66d_y}{s16}[%d]{/}{/}, SP Máximo +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031347	STR +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031348	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031349	Precisão +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031350	SPR +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031351	{@st66d_y}{s16}[%d]{/}{/}%% Chance de reviver com 10%% do HP ao ficar incapacitado 
-ETC_20180208_031352	Resistência a Cegueira +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031351	{@st66d_y}{s16}[%d]{/}{/}%% chance de renascer com 10%% HP após ser derrotado
+ETC_20180208_031352	Resistência à [Blind] +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031353	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031354	Efeitos de poçoes de HP +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031354	Efeito de poções de HP +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031355	CON +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031356	Defesa contra Corte +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031357	Resistência a Sangramento +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031358	Resistência a Crítico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031359	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Corte
+ETC_20180208_031356	Defesa Contra Corte +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031357	Resistência à [Bleed] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031358	Resistência à Crítico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031359	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas do tipo Corte
 ETC_20180208_031360	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031361	INT +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/} 
-ETC_20180208_031362	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 1%% de SP ao ser atingido por mobs Pequenos
-ETC_20180208_031363	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de aumentar +4 veloc. de mov por 6 seg
-ETC_20180208_031364	INT +{@st66d_y}{s16}[%d]{/}{/} 
-ETC_20180208_031365	Dano a inimigos Caídos +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031366	Dano Elemental Raio +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031367	Resistência a Atordoar +{@st66d_y}{s16}[%d]{/}{/}, Resistência a Sono +{@st66d_y}{s16}[%d]{/}{/} 
+ETC_20180208_031361	INT +{@st66d_y}{s16}[%d]{/}{/}, CON +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031362	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec 0.5%% HP quando atacado por monstro Pequeno
+ETC_20180208_031363	{@st66d_y}{s16}[%d]{/}{/}%% chance, por ataque, de Vel. Movimento +4 por 6s
+ETC_20180208_031364	INT +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031365	Dano contra monstros derrubados +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031366	Dano Adicional: Raio{img attri_Lightning 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031367	Resist. [Stun] +{@st66d_y}{s16}[%d]{/}{/}%%, Resist. [Sleep] +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031368	Taxa de Ataque em Área +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031369	HP Max. +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031370	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}%% por 10s ao usar poções de HP
-ETC_20180208_031371	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar lentidão por 3s
-ETC_20180208_031372	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 2%% do HP ao ser atingido por mobs Médios
-ETC_20180208_031373	Resistência a Atordoar +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031374	Dano da Arma Secundária +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031375	Dano Elemental Gelo +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031376	STR +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 
-ETC_20180208_031377	Dano Elemental Fogo +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031378	INT +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/} 
-ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance de recuperar 3%% do HP ao ser atingido por mobs Grandes
-ETC_20180208_031380	Resistência ao Elemento fogo +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031369	HP Máximo +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031370	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}%% por 10s ao usar poção de HP
+ETC_20180208_031371	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Slow] por 3s
+ETC_20180208_031372	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec. 2%% HP quando atacado por monstro Médio
+ETC_20180208_031373	Resistência à [Stun] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031374	Ataque Físico da Arma Secundária +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031375	Dano Adicional: Gelo{img attri_Ice 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031376	STR +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031377	Dano Adicional: Fogo{img attri_Fire 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031378	INT +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec. 3%% HP quando atacado por monstro Grande
+ETC_20180208_031380	Resistência Elemental: FogoFogo{img attri_Fire 23 23} +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031381	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031382	Taxa de Crítico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031383	Provocação por ataque +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031384	Dano em inimigos sangrando + {@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031385	Dano em inimigos envenenados + {@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031386	10%% de chance de recuperar {@st66d_y}{s16}[%d]{/}{/} HP quando atacado
-ETC_20180208_031387	10%% de chance de gerar {@st66d_y}{s16}[%d]{/}{/} de Escudo por 10 seg
-ETC_20180208_031388	Provocação por ataque -{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180208_031389	CON +{@st66d_y}{s16}[%d]{/}{/} por 10 seg ao usar SP potions
+ETC_20180208_031383	Provocação ao ser atacado +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031384	Dano contra monstros sob efeito de [Bleed] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031385	Dano contra monstros sob efeito de [Poison] +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031386	10%% chance de recuperar {@st66d_y}{s16}[%d]{/}{/} HP quando atacado
+ETC_20180208_031387	10%% chance de gerar escudo de {@st66d_y}{s16}[%d]{/}{/} por 10s quando atacado
+ETC_20180208_031388	Provocação ao ser atacado -{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031389	CON +{@st66d_y}{s16}[%d]{/}{/} por 10s após usar poção de HP
 ETC_20180208_031390	STR, CON, INT, SPR, DEX +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031391	SPR +{@st66d_y}{s16}[%d]{/}{/} por 10 seg ao usar SP potions
+ETC_20180208_031391	SPR +{@st66d_y}{s16}[%d]{/}{/} por 10s após usar poção de SP
 ETC_20180208_031392	Chance de Drop +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031393	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de congelar os inimigos po 4 seg
+ETC_20180208_031393	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Freeze] por 4s
 ETC_20180208_031394	When you participate in Team Battle League, you can fight against other players.
 ETC_20180208_031395	{nl} {nl}- Some buffs are reduced in TBL.{nl}- In TBL, weapon enhancement and transcendence effects apply as 50% less.{nl}- In TBL, you receive 20% less damage.{nl}- In TBL, movement speed increasing and decreasing effects apply as 50% less.
 ETC_20180208_031396	You can extract part of the Blessed Gems used to transcend an item in the form of Blessed Shards.
@@ -31715,16 +31715,16 @@ ETC_20180320_031683	Nervous
 ETC_20180320_031684	Evil
 ETC_20180320_031685	Sigh
 ETC_20180320_031686	Peace
-ETC_20180320_031687	Collection: 2nd Demon Prison
-ETC_20180320_031688	Increase minimum critical chance +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031689	Decrease damage from characters -{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031690	Increase physical defense +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031691	Increase Magic defense +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031692	Recovers @{st66d_y}{s16}[%d]{/}{/}SP per monsters defeated
-ETC_20180320_031693	Movement speed +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180320_031694	Decrease Property Compatibility Penalty {@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031695	EXP Gain +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180320_031696	Damage to Beast-type monsters increased by {@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031687	Coleção: 2nd Demon Prison
+ETC_20180320_031688	Chance mínima de crítico +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031689	Dano de outros jogadores -{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031690	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031691	Defesa Mágica +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031692	Recupera @{st66d_y}{s16}[%d]{/}{/}SP por monstro derrotado
+ETC_20180320_031693	Velocidade de Movimento +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180320_031694	Reduz penalidade elemental em {@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180320_031695	Ganho de EXP +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180320_031696	Dano contra monstros da raça Fera{img monster_wild 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180320_031697	The soldiers operating at the thorny Glade Hillroad seem to be facing a problem with an enormous monster. According to the reports, the monster is a Rocktortuga. Go and check whether the gigantic Rocktortuga is really roaming the thorny area.
 ETC_20180320_031698	The cave Kupoles noticed some suspicious movement in Khonot Forest and they're asking for help. Defeat the Bebraspion and protect the forest.
 ETC_20180320_031699	A fierce plant monster has appeared in Paupys Crossing and it's terrorizing the people of Orsha. Defeat the Colimencia and protect the city.
@@ -32089,8 +32089,8 @@ ETC_20180418_032057	Maldição da Erosão
 ETC_20180418_032058	A maldição de Velcoffer é erosiva para o corpo.
 ETC_20180418_032059	Despertar do Velcoffer
 ETC_20180418_032060	Fire Fox Shikigami buff that takes the caster's attack.
-ETC_20180418_032061	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Impacto
-ETC_20180418_032062	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao usar armas tipo Impacto
+ETC_20180418_032061	Ataque Mágico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas tipo Impacto
+ETC_20180418_032062	Ataque Físico +{@st66d_y}{s16}[%d]{/}{/} ao utilizar armas tipo Impacto
 ETC_20180418_032063	#VALUE!
 ETC_20180418_032064	{nl} {nl}After defeating the final boss monster in an instanced dungeon, you will receive that dungeon's cube as a reward.
 ETC_20180418_032065	{nl} {nl}The basic reward for clearing an instanced dungeon is one cube, with additional rewards granted according to your degree of completion.
@@ -33008,8 +33008,8 @@ ETC_20180517_032972	No Guild Emblem exists.
 ETC_20180517_032973	Cannot be used in your current location.
 ETC_20180517_032974	This item is already in your basket.{nl}Add to basket?
 ETC_20180517_032975	{s16}{@st66b}{Auto_1}{Auto_2} Efeitos do Set  {nl}
-ETC_20180517_032976	Are you sure you want to discard {#85070a}[{ITEM}]{/} x{#85070a}[{COUNT}]{/}?
-ETC_20180517_032977	Are you sure you want to discard {#85070a}[{ITEM}]{/}을 버리시겠습니까?
+ETC_20180517_032976	Tem certeza que deseja remover {#85070a}[{ITEM}]{/} x{#85070a}[{COUNT}]{/}?
+ETC_20180517_032977	Tem certeza que deseja remover {#85070a}[{ITEM}]{/}?
 ETC_20180517_032978	For more information, check the official website at treeofsavior.com.
 ETC_20180517_032979	Non-probability Items
 ETC_20180517_032980	Probability Items
@@ -33323,8 +33323,8 @@ ETC_20180629_033287	Pied Piper Mouse
 ETC_20180629_033288	Mouse buff that receives the attack of the caster.
 ETC_20180629_033289	Pied Piper White Mouse
 ETC_20180629_033290	Tower
-ETC_20180629_033291	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack of applying Frostbite to the target
-ETC_20180629_033292	Attack property penalties -{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180629_033291	{@st66d_y}{s16}[%d]{/}{/}%% chance por ataque de causar [Frostbite]
+ETC_20180629_033292	Penalidades de ataques elementais -{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180629_033293	Mishekan Resident Support
 ETC_20180629_033294	A message has arrived from Knight Commander Uska. A set of portals has appeared in Mishekan Forest, and the demons are beginning to infiltrate the area through them. The refugees need your help to fight off the demons and protect the forest.
 ETC_20180629_033295	TP is a currency that can only be used at the TP Shop. There is Free TP and Premium TP. 
@@ -34820,7 +34820,7 @@ ETC_20180704_034784	User Connection Unavailable Log
 ETC_20180704_034785	IPF Verification
 ETC_20180704_034786	Territory Wars State Transition (ms)
 ETC_20180704_034787	'Manter Potencial' Desmarcado.{Nl} {nl}Se não for marcado, o item perderá {@ st66d_y}-1 Potencial{/} depois de alterar sua aparência.{nl}Usar um Weapon Appearance Material manterá o Potencial do item intacto.{nl}Continuar?
-ETC_20180704_034788	Cannot sell.
+ETC_20180704_034788	Não pode ser vendido.
 ETC_20180709_034789	Top trees display period (30 days)
 ETC_20180709_034790	Last = Rank 9
 ETC_20180709_034791	TOP 3 Trees
@@ -35377,8 +35377,8 @@ ETC_20180827_035333	Defenses Enhanced	자기 방어력 강화
 ETC_20180827_035334	Physical defense momentarily enhanced.	일시적으로 물리 방어력이 증가합니다				
 ETC_20180827_035335	Guild Intro	길드 소개글	ETC_20180517_032569	Write Announcement	공지 쓰기	
 ETC_20180827_035336	Set/Remove Neutral Status	길드 전쟁 중립 설정/해제	ETC_20180517_032574	Set/Remove Neutral Status	길드 전쟁 중십 설정/해제	
-ETC_20180827_035337	Difference between summon min. and max. attack reduced by {@st66d_y}{s16}[%d]{/}{/}%%	소환수의 최소 공격력과 최대 공격력의 차이 {@st66d_y}{s16}[%d]{/}{/}%% 감소				
-ETC_20180827_035338	Healing +{@st66d_y}{s16}[%d]{/}{/}	치유력 + {@st66d_y}{s16}[%d]{/}{/}				
+ETC_20180827_035337	Diferença no ataque min/max de invocações -{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180827_035338	Taxa de Cura +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180827_035339	Items that you've obtained during your adventures can be sold through the Market.	모험 중에 얻은 아이템은 마켓을 통해 거래할 수 있습니다.	ETC_20151224_018071	Items that you've obtained during your adventure can be sold through the Market.	모험 중에 얻은 아이템은 마켓을 통해 거래를 할 수 있습니다.	
 ETC_20180827_035340	 You are able view the items from other players.	 탭에서 다른 플레이어가 등록한 아이템을 살펴보고 구매할 수 있습니다.	ETC_20170313_026603	you are able to view the items from other players.	란에서 다른 플레이어가 등록한{nl}아이템을 살펴보고 구매할 수 있습니다.	
 ETC_20180827_035341	{nl} {nl}After checking the quantity of the item you want, you can purchase it by clicking the Buy button.	{nl} {nl}구매하려고 하는 아이템의 구매 개수를 선택한 후{nl}구매 버튼을 눌러 구매할 수 있습니다.	ETC_20170313_026604	After checking the quantity of the item you want, you can purchase the it by clicking the check button.	구매하려고 하는 아이템의 구매 개수를 선택한 후{nl}구매 버튼을 눌러 구매할 수 있습니다.	
@@ -35690,7 +35690,7 @@ ETC_20180827_035646	{#1663c3}{ol}[Combat] {img chat_icon_resurrection 24 24} Par
 ETC_20180827_035647	{#ab1919}{ol}[Combat] {img chat_icon_death 24 24} Party member [{MEMBER}] is incapable of combat.	{#ab1919}{ol}[전투 메시지]{img chat_icon_death 24 24}파티 멤버 [{MEMBER}]가 전투 불능 상태가 되었습니다.				
 ETC_20180827_035648	{#1663c3}{ol}[Combat] {img chat_icon_resurrection 24 24} Character respawned.	{#1663c3}{ol}[전투 메시지]{img chat_icon_resurrection 24 24} 캐릭터가 부활했습니다.				
 ETC_20180827_035649	[{ITEM}] x[{COUNT}] consumed as penalty for becoming incapable of combat.	사망 페널티로 [{ITEM}] 아이템이 [{COUNT}개] 소실되었습니다.				
-ETC_20180827_035650	[{SILVER}] Silver consumed as penalty for becoming incapable of combat.	사망 페널티로 [{SILVER}] 실버가 소실되었습니다.				
+ETC_20180827_035650	[{SILVER}] Silver consumido como penalidade por ter sido derrotado.
 ETC_20180827_035651	All [{ITEM}(s)] consumed.	[{ITEM}] 아이템이 소멸되었습니다.	ETC_20161214_026107	The item was consumed.	아이템이 소멸되었습니다.	
 ETC_20180827_035652	Acquired [{ITEM}] x[{COUNT}].	[{ITEM}] 아이템을 [{COUNT}개] 획득했습니다.				
 ETC_20180827_035653	Discarded [{ITEM}] x[{COUNT}].	[{ITEM}] 아이템을 [{COUNT}개] 버렸습니다.				
@@ -35699,7 +35699,7 @@ ETC_20180827_035655	[{LEVEL} {ITEM}] enhancement: {ISSUCCESS}.	[{LEVEL} {ITEM}] 
 ETC_20180827_035656	Fail	실패				
 ETC_20180827_035657	[{ITEM}] Stage [{LEVEL}] transcendence: {ISSUCCESS}.	[{ITEM}] 아이템이 [초월 {LEVEL}단계]에 {ISSUCCESS}했습니다.				
 ETC_20180827_035658	Acquired [{CHAR}] character EXP / [{JOB}] class EXP	캐릭터 경험치 [{CHAR}] / 클래스 경험치 [{JOB}] 획득				
-ETC_20180827_035659	Gems lost due to map penalty.	사망 페널티로 젬이 떨어졌습니다.				
+ETC_20180827_035659	Gemas perdidas devido a penalidade do mapa.
 ETC_20180827_035660	Failed to sell item. Please restart the game and try again.	아이템 판매에 실패했습니다. 다시 시도하려면 재접속해주세요.				
 ETC_20180827_035661	Special Item Effects	아이템 특수 효과				
 ETC_20180827_035662	Please try again.	PC방 상점의 재시도 버튼을 클릭해주세요				
@@ -36123,16 +36123,16 @@ ETC_20180827_036079	Canceled	판매 취소	ETC_20170330_027646	Cancelled	판매{
 ETC_20180827_036080	Incorrect format: {MSG}	잘못된 재료목록 형식입니다 : {MSG}				
 ETC_20180827_036081	Request was too fast. Please try again later.	너무 빠른 요청입니다. 잠시 후 다시 시도해주세요.				
 ETC_20180827_036082	Waiting	현재 대기중입니다				
-ETC_20180827_036083	Main Weapon Damage	주 무기 공격시 대미지				
-ETC_20180827_036084	Subweapon Damage	보조 무기 공격시 대미지				
-ETC_20180827_036085	Boss Damage	보스 대상 대미지				
-ETC_20180827_036086	Physical Damage Decrease	물리 피해 감소				
-ETC_20180827_036087	Magic Damage Decrease	마법 피해 감소				
-ETC_20180827_036088	PvP Damage	PVP 대미지				
-ETC_20180827_036089	PvP Damage Decrease	PVP 피해 감소				
-ETC_20180827_036090	Critical Damage	치명타 발생시 대미지				
-ETC_20180827_036091	Block Penetration	블록 관통				
-ETC_20180827_036092	Block	블록				
+ETC_20180827_036083	Dano da Arma Principal
+ETC_20180827_036084	Dano da Arma Secundária
+ETC_20180827_036085	Dano em Monstros Chefe
+ETC_20180827_036086	Redução do Dano Físico
+ETC_20180827_036087	Redução do Dano Mágico
+ETC_20180827_036088	Dano PvP
+ETC_20180827_036089	Redução do Dano PvP
+ETC_20180827_036090	Dano Crítico
+ETC_20180827_036091	Penetração de Bloqueio
+ETC_20180827_036092	Bloqueio
 ETC_20180827_036093	Restored to default values.	기본값으로 복원되었습니다.				
 ETC_20180827_036094	Cannot mount in current location.	해당 위치에서는 탑승할 수 없습니다.				
 ETC_20180827_036095	Already reported. Please try again later.	이미 신고하셨습니다. 잠시 후 다시 시도해주세요.	ETC_20180208_031626	Reporting is limited to one time per day. Thank you.	하루에 한 번만 신고하실 수 있습니다. 감사합니다.	
@@ -36254,9 +36254,9 @@ ETC_20180827_036168	Proteja Agailla Flurry!
 ETC_20180827_036169	Proteja Agailla Flurry enquanto ela desativa a barreira!
 ETC_20180827_036170	Agailla Flurry desativou o Dispositivo de Barreira!{nl}Vá para o próximo local.
 ETC_20180827_036171	Agailla Flurry foi derrotada e não pode prosseguir com a missão.{nl}Retornando em 60 segundos.
-ETC_20180827_036172	HP de Agailla Flurry HP: 50%
-ETC_20180827_036173	HP de Agailla Flurry HP: 30%
-ETC_20180827_036174	HP de Agailla Flurry HP: 10%
+ETC_20180827_036172	HP de Agailla Flurry: 50%
+ETC_20180827_036173	HP de Agailla Flurry: 30%
+ETC_20180827_036174	HP de Agailla Flurry: 10%
 ETC_20180827_036175	Destrua todos os Magical Power Absorption Devices!
 ETC_20180827_036176	Hauberk está preso no Absorption Device!{nl}Salve-o antes que todo seu poder seja absorvido!
 ETC_20180827_036177	Enquanto todo os Magical Power Absorption Devices são destruídos
@@ -36494,7 +36494,7 @@ ETC_20181017_036408	Equippable on equipment of level {LEVEL} and below.	{LEVEL} 
 ETC_20181017_036409	You have used all level {LEVEL} Enchant Jewel items.{nl}Close the Enchant Jewel UI?	{LEVEL} 레벨의 인챈트 쥬얼 아이템을 모두 사용하였습니다.{nl}인챈트 쥬얼 UI를 닫으시겠습니까?				
 ETC_20181017_036410	Unable to apply Enchant Jewel ({REASON}).	인챈트 쥬얼을 적용할 수 없는 [{REASON}] 아이템입니다.				
 ETC_20181017_036411	Failed to apply Rare stats.	레어 옵션 부여에 실패했습니다.				
-ETC_20181017_036412	Change [Enchant Stat]. The stat will be applied immediately and cannot be reverted.{nl}If you equip multiple items with the same Enchant Stat, only the highest value will apply to the character.{nl}Continue?	[인챈트 옵션]을 변경합니다. 옵션은 바로 적용되며 되돌릴 수 없습니다.{nl} 동일한 인챈트 옵션을 가진 장비 아이템 여러 개를 장착하는 경우, 가장 높은 수치의 인챈트 옵션만 캐릭터에게 적용됩니다.{nl}진행하시겠습니까?				
+ETC_20181017_036412	Mudar o [Enchant Stat].{nl}O atributo será aplicado imediatamente e não poderá ser revertido.{nl}[Enchant Stat] iguais, mesmo que em itens diferentes, não acumulam. Somente o valor mais alto será aplicado.{nl}Continuar?
 ETC_20181017_036413	Updating trade limits. Please try again.	거래 한도를 받아오는 중입니다. 다시 시도해주세요.				
 ETC_20181017_036414	O seu limite atual do Mercado é{nl}{AMOUNT} Silver.{nl}Tem certeza de que deseja{nl}completar esta compra?
 ETC_20181017_036415	Enchant stats cannot be applied to currently equipped items.	장착 중인 장비에 인챈트 옵션을 부여할 수 없습니다.				
@@ -36519,7 +36519,7 @@ ETC_20181017_036433	{TeamName}'s Table	{TeamName}의 배식대
 ETC_20181017_036434	Participation: {COUNT} time(s){nl}No. selected: {NUMLIST}{nl}Rewards	참여횟수 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상	ETC_20170313_027060	Total count: {COUNT}{nl}Selected numbers: {NUMLIST}{nl}Reward(	누적 출석 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상(	
 ETC_20181017_036435	Participation: 0{nl}Go to the Klaipeda, Orsha or Fedimian   	참여횟수 : 0회{nl}클라페다, 오르샤, 페디미안의 	ETC_20170313_027061	Total count: 0{nl}Go to the Klaipeda, Orsha or Fedimian  	누적 출석 : 0회{nl}클라페다, 오르샤, 페디미안의 	
 ETC_20181017_036436	Remaining Rewards	남은 보상	ETC_20170313_027063	Remaining rewards(	남은 보상(	
-ETC_20181017_036437	Attendance Rewards	출석보상				
+ETC_20181017_036437	Recompensas de Participação
 ETC_20181017_036438	Dainu Svente	다이누 슈벤테 이벤트				
 ETC_20181017_036439	Please select a costume.	축제용 코스튬을 선택해주세요				
 ETC_20181017_036440	Please select a toy.	축제용 장난감을 선택해주세요				
@@ -36768,16 +36768,16 @@ ETC_20190104_036682	Deposit into Shared Guild Storage	길드 공용 창고 입�
 ETC_20190104_036683	Withdraw from Shared Guild Storage	길드 공용 창고 출고			
 ETC_20190104_036684	City Tax Management	도시 세율 관리			
 ETC_20190104_036685	Remove Community Post	커뮤니티 글 삭제			
-ETC_20190104_036686	Collection: Tenet Church B1	컬렉션: 테넷성당 지하 1층	ETC_20151224_017989	Collection: Tenet Church B1	콜렉션:테넷성당 지하 1층
-ETC_20190104_036687	Collection: Tenet Church 1F	컬렉션: 테넷성당 지상 1층	ETC_20151224_017990	Collection: Tenet Church 1F	콜렉션:테넷성당 지상 1층
-ETC_20190104_036688	Collection: Tenet Church 2F	컬렉션: 테넷성당 지상 2층	ETC_20151224_017991	Collection: Tenet Church 2F	콜렉션:테넷성당 지상 2층
-ETC_20190104_036689	Collection: 2nd Demon Prison	컬렉션: 제2 마족수감소	ETC_20180320_031687	Collection: 2nd Demon Prison	콜렉션:제2 마족수감소
-ETC_20190104_036690	Collection: Never-before Seen	컬렉션: 본적이 없는	ETC_20160520_021777	Collection: Never Seen Before	콜렉션:본적이 없는
-ETC_20190104_036691	Collection: Dingofasil District	컬렉션: 딩고파실 지구	ETC_20160811_023041	Collection: Dingofasil District	콜렉션:딩고파실 지구
-ETC_20190104_036692	Physical damage +{@st66d_y}{s16}[%d]{/}{/}%% for 6 seconds after using an SP potion	SP 포션 종류 사용 시 6초간 물리 대미지 +{@st66d_y}{s16}[%d]{/}{/}%%	ETC_20180208_031267	Physical Attack +{@st66d_y}{s16}[%d]{/}{/}%% for 6 sec after using an SP potion	SP 포션 종류 사용 시 6초간 물리 공격력 +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20190104_036693	Magic critical attack +{@st66d_y}{s16}[%d]{/}{/}	마법 치명타 공격력 +{@st66d_y}{s16}[%d]{/}{/}	ETC_20180208_031277	Magic Amplification +{@st66d_y}{s16}[%d]{/}{/}	마법 증폭 +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20190104_036694	Magic damage +{@st66d_y}{s16}[%d]{/}{/}%% for 6 seconds after using an SP potion	SP 포션 종류 사용 시 6초간 마법 대미지 +{@st66d_y}{s16}[%d]{/}{/}%%	ETC_20180208_031323	Magic Attack +{@st66d_y}{s16}[%d]{/}{/}%% for 6 sec after using an SP potion	SP 포션 종류 사용 시 6초간 마법 공격력 +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20190104_036695	Successful critical attacks give {@st66d_y}{s16}[%d]{/}{/}%% chance of stealth on self for 6 seconds	치명타 공격시 {@st66d_y}{s16}[%d]{/}{/}%%확률로  6초 동안 은신			
+ETC_20190104_036686	Coleção: Tenet Church B1	컬렉션: 테넷성당 지하 1층	ETC_20151224_017989	Collection: Tenet Church B1	콜렉션:테넷성당 지하 1층
+ETC_20190104_036687	Coleção: Tenet Church 1F	컬렉션: 테넷성당 지상 1층	ETC_20151224_017990	Collection: Tenet Church 1F	콜렉션:테넷성당 지상 1층
+ETC_20190104_036688	Coleção: Tenet Church 2F	컬렉션: 테넷성당 지상 2층	ETC_20151224_017991	Collection: Tenet Church 2F	콜렉션:테넷성당 지상 2층
+ETC_20190104_036689	Coleção: 2nd Demon Prison	컬렉션: 제2 마족수감소	ETC_20180320_031687	Collection: 2nd Demon Prison	콜렉션:제2 마족수감소
+ETC_20190104_036690	Coleção: Never-before Seen	컬렉션: 본적이 없는	ETC_20160520_021777	Collection: Never Seen Before	콜렉션:본적이 없는
+ETC_20190104_036691	Coleção: Dingofasil District	컬렉션: 딩고파실 지구	ETC_20160811_023041	Collection: Dingofasil District	콜렉션:딩고파실 지구
+ETC_20190104_036692	Dano Físico +{@st66d_y}{s16}[%d]{/}{/}%% por 6s após usar poção de SP
+ETC_20190104_036693	Ataque Crítico Mágico +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20190104_036694	Dano Mágico +{@st66d_y}{s16}[%d]{/}{/}%% por 6s após usar poção de SP
+ETC_20190104_036695	{@st66d_y}{s16}[%d]{/}{/}%% chance, por atq. crítico, de esconder por 6s
 ETC_20190104_036696	{nl} {nl}Double tap a direction key quickly to dash.{nl}	{nl} {nl}같은 방향 이동키를 빠르게 두 번 입력하여{nl}대쉬를 사용할 수 있습니다.	ETC_20151224_018029	{nl} {nl}Swordsman-type classes are able to sprint if you press the same directional key twice.	{nl} {nl}전사계 클래스는 같은 방향 이동키를 빠르게 두 번 입력하여 대쉬를 사용할 수 있습니다.
 ETC_20190104_036697	Your stats will be increased automatically to fit your class selection when leveling up.	레벨업을 하면 각 클래스의 특성에 맞게 스테이터스 수치가 상승합니다.	ETC_20150729_013698	Use Status Points obtained through leveling up{nl}to upgrade your character's abilities.	레벨업을 통해 얻은 스테이터스 포인트로 캐릭터의 능력치를 성장시킬 수 있습니다.
 ETC_20190104_036698	{nl} {nl} The function of each stat will be displayed on the bottom of the window.	{nl} {nl} 스테이터스의 효과는 하단에서 확인이 가능합니다.			
@@ -37093,8 +37093,8 @@ ETC_20190104_037007	Outlaw Master (Male)	아웃로 마스터 남
 ETC_20190104_037008	Outlaw Master (Female)	아웃로 마스터 여			
 ETC_20190104_037009	[Fashion Designer]{nl}Kastytis	[의상 디자이너]{nl}카스티스	ETC_20180629_033432	[Fashion Designer]{nl}  Kastytis	[의상 디자이너]{nl}  카스티스
 ETC_20190104_037010	[Hair Stylist]{nl}Henry Swyn	[헤어 디자이너]{nl}헨리 스윈			
-ETC_20190104_037011	Magic Condenser Device	마력 응축 장치			
-ETC_20190104_037012	Black Crystal	검은색 크리스탈			
+ETC_20190104_037011	Aparelho Condensador Mágico
+ETC_20190104_037012	Cristal Negro
 ETC_20190104_037013	Controlador de Magia
 ETC_20190104_037014	Controlador de Força
 ETC_20190104_037015	Integrador de Espíritos
@@ -37113,11 +37113,11 @@ ETC_20190104_037027	Buy Archer supplies	아처 물품 구입
 ETC_20190104_037028	I've just come to say hello after hearing about you.	소문을 듣고 인사를 드리러 왔다고 한다			
 ETC_20190104_037029	Reached the third class advancement	3차 전직 달성			
 ETC_20190104_037030	Share Quest Progress to Activate Statue of Goddess Vakarine	퀘스트 진행도를 알리고 바카리네 여신상을 활성화한다			
-ETC_20190104_037031	What can you tell me about the Bookshelf of Ripped Books?	찢어진 책장에 관해 묻는다			
+ETC_20190104_037031	O que me diz desta prateleira de livros rasgados?
 ETC_20190104_037032	[Event] Rota's Special Support	[이벤트]로타의 특별 지원			
 ETC_20190104_037033	Buy Assassin supplies	어쌔신 물품 구입			
-ETC_20190104_037034	View Collection	컬렉션을 본다			
-ETC_20190104_037035	Claim Collection Reward Item	컬렉션 보상 아이템을 받는다			
+ETC_20190104_037034	Ver Coleção
+ETC_20190104_037035	Receber Prêmio de Coleção
 ETC_20190104_037036	Sunday Starting Time	일요일 시작 시간			
 ETC_20190104_037037	Monday Starting Time	월요일 시작 시간			
 ETC_20190104_037038	Tuesday Starting Time	화요일 시작 시간			
@@ -37441,14 +37441,14 @@ ETC_20190104_037355	Items that are traded cannot be traded back.	교환된 아�
 ETC_20190104_037356	{@st59}Close the {NAME} UI{/}	{@st59}{NAME} UI를 닫습니다{/}			
 ETC_20190104_037357	Once an item is altered, {#ff0000}{ol}it can no longer be exchanged.{/}{/} {nl} {nl}{@st66d_y}(This includes enhancement, transcendence, personal and market trade, the addition of sockets, equipping and extracting Ichor, and appearance change){/}{nl}Will you proceed with the exchange?	계열 변경이 가능한 아이템에 변경이 생기는 경우 {#ff0000}{ol}계열 변경의 기회는 사라집니다.{/}{/} {nl} {nl}{@st66d_y}(강화, 초월, 마켓 판매, 개인 거래, 소켓 추가, 각성, 아이커 장착 및 추출, 무기 외형 변환){/}{nl} {nl}계속 하시겠습니까?			
 ETC_20190104_037358	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable via 1:1{/}.	아이템 변경사항 안내{nl} {nl} - 아이템이 {Before}초월에서{#62100c}{After}초월{/}로 변경 {nl} - 초월 성공시{#62100c}1:1거래가 불가능{/} 합니다.			
-ETC_20190104_037359	You have earned the maximum amount of Class Change Points for this week.	주간 획득 가능한 클래스 변경 포인트를 모두 달성하였습니다.			
-ETC_20190104_037360	You cannot earn any more Class Change Points.	더 이상 클래스 변경 포인트를 획득할 수 없습니다.			
-ETC_20190104_037361	You cannot change into the {TARGET} class unless the {JOB} class is changed first.	{JOB} 클래스를 먼저 변경하기 전에는 {TARGET} 클래스로 변경할 수 없습니다.			
-ETC_20190104_037362	You do not have enough points for a Class Change.	클래스 변경을 하기 위한 포인트가 모자랍니다.			
-ETC_20190104_037363	Required Class Level {Level} or above	클래스 레벨 {Level} 이상 필요			
-ETC_20190104_037364	Use the Rank Reset Voucher?	랭크 초기화 아이템을 사용하시겠습니까?			
-ETC_20190104_037365	Change class trees?	계열 변경을 하시겠습니까?			
-ETC_20190104_037366	The Archer Class Tree cannot dash while in combat.	아처 클래스는 전투 중에 대시를 할 수 없습니다.			
+ETC_20190104_037359	Você recebeu o máximo de Pontos de Troca de Classe para a semana.
+ETC_20190104_037360	Você não pode receber mais Pontos de Troca de Classe.
+ETC_20190104_037361	Você não pode mudar para {TARGET} enquanto {JOB} não for trocado primeiro;
+ETC_20190104_037362	Voê não tem pontos suficientes para trocar de classe.
+ETC_20190104_037363	Necessário Nível de Classe {Level} ou maior
+ETC_20190104_037364	Usar o Rank Reset Voucher?
+ETC_20190104_037365	Mudar Classe Base?
+ETC_20190104_037366	Classes Archer não podem correr enquanto em combate.
 ETC_20190104_037367	[Skill] Requires Zornhau Lv 1 or above	[스킬] 존하우 1레벨 이상 필요			
 ETC_20190104_037368	[Skill] Requires Zucken Lv 1 or above	[스킬] 츠켄 1레벨 이상 필요			
 ETC_20190104_037369	[Skill] Requires Palm Strike Lv 1 or above	[스킬] 철사장 1레벨 이상 필요			
@@ -37543,14 +37543,14 @@ ETC_20190104_037457	You cannot carry more than {COUNT}!	{COUNT}개 이상 소지
 ETC_20190104_037458	You do not have enough stones.{nl}Collect more stoles from the rubble!	갖고있는 돌이 부족합니다{nl}돌더미에서 돌을 수집하세요!			
 ETC_20190104_037459	You do not have enough sand.{nl}Collect more sands from the sand pile!	갖고있는 모래가 부족합니다{nl}모래더미에서 모래를 수집하세요!			
 ETC_20190104_037460	You have used all Class Tree Change chances.	계열 변경 기회를 모두 사용하셨습니다			
-ETC_20190104_037461	{#33FF33}[{NAME}]{/} Character's Class Tree Change is available for another {#33FF33}[{DAYCOUNT} days]{/}.{#33FF33}You can visit 	{#33FF33}[{NAME}]{/}캐릭터의 계열변경 기간이 {#33FF33}[{DAYCOUNT}일]{/} 남았습니다.{nl}{#33FF33}클라페다 			
-ETC_20190104_037462	{/} in Klaipeda to change your Class Tree.	{/}를 통해 클래스 계열을 변경하실 수 있습니다			
-ETC_20190104_037463	Change Class Tree [Remaining: {DAYCOUNT} days]	클래스 계열을 변경한다 [남은 기간 : {DAYCOUNT} 일]			
-ETC_20190104_037464	Return to your original class [Remaining: {DAYCOUNT}]	변경 전 클래스 계열로 돌아간다 [남은 기간 : {DAYCOUNT}]			
-ETC_20190104_037465	{#33FF33}[{NAME}]{/} can revert back to the {#33FF33}[	{#33FF33}[{NAME}]{/}캐릭터의 이전 {#33FF33}[			
-ETC_20190104_037466	]{/} tree for another {#33FF33}[{DAYCOUNT} days]{/}.	]{/}계열로 변경 하실 수 잇는 기간이 {#33FF33}[{DAYCOUNT}일]{/} 남았습니다.			
-ETC_20190104_037467	Your character is not eligible for a Class Tree Change.	계열 변경 대상 캐릭터가 아닙니다			
-ETC_20190104_037468	The Class Tree Change period has expired for your character.	계열 변경 기간이 종료된 캐릭터 입니다			
+ETC_20190104_037461	{#33FF33}[{NAME}]{/} - Este personagem pode mudar de Classe base em até {#33FF33}[{DAYCOUNT} dias]{/}.{#33FF33} Procure pela 
+ETC_20190104_037462	{/} em Klaipeda para mudar de Classe Base.
+ETC_20190104_037463	Mudar de Classe Base [Restam: {DAYCOUNT} dias]
+ETC_20190104_037464	Voltar para Classe Base original [Restam: {DAYCOUNT} dias]
+ETC_20190104_037465	{#33FF33}[{NAME}]{/} - Este personagem pode voltar para {#33FF33}[
+ETC_20190104_037466	]{/} em até {#33FF33}[{DAYCOUNT} dias]{/}.
+ETC_20190104_037467	O seu personagem não pode trocar de Classe Base.
+ETC_20190104_037468	O período para trocar de Classe Base expirou para o personagem
 ETC_20190104_037469	{@st64}Pontos de Classe foram entregues.{nl}Clique no botão 
 ETC_20190104_037470	Info de Avanço {img sysmenu_jobinfo}
 ETC_20190104_037471	{nl}para mudar de classe.
@@ -37610,29 +37610,29 @@ ETC_20190104_037524	 Requires 30 items.	 아이템 30개가 필요합니다
 ETC_20190104_037525	Select companion	컴패니언 선택			
 ETC_20190104_037526	[Dico Tomb Thieves]{nl}Arghidas	[디코 도굴단]{nl}아르기다스	ETC_20161214_026225	[Dico Tomb Thieves]{nl}    Arghidas	[디코 도굴단]{nl}   아르기다스
 ETC_20190104_037527	Royal Supplies	왕국 보급품			
-ETC_20190104_037528	[Event] Urbas Seal	[이벤트]우르바스 증표 사용			
-ETC_20190104_037529	Use the Urbas Seal	우르바스 증표 사용			
-ETC_20190104_037530	Patrol the Sulivinas Lair	슬리비나스 레어 정찰			
-ETC_20190104_037531	Check guild rewards	길드보상을 확인한다			
-ETC_20190104_037532	Check individual rewards	개인보상을 확인한다			
-ETC_20190104_037533	Check current contribution points	현재 기여도를 확인한다			
-ETC_20190104_037534	Talk	대화하기			
-ETC_20190104_037535	Enter Sulivinas Lair	슬리비나스 레어에 진입한다			
-ETC_20190104_037536	Check guild contribution rank	길드 기여도 순위 확인			
-ETC_20190104_037537	Check individual contribution rank	개인 기여도 순위 확인			
-ETC_20190104_037538	Check my contribution points	나의 기여도 확인			
-ETC_20190104_037539	There are no accumulated points.	누적된 기여도 없음			
-ETC_20190104_037540	You cannot enter while in a party.{nl}Either leave or disband the party.	파티 상태에서는 진입할 수 없습니다.{nl}파티 탈퇴 혹은 해제해주세요			
-ETC_20190104_037541	Guild rewards can only be retrieved by the Guild Master.	길드 보상은 길드 마스터만 수령할 수 있습니다.			
-ETC_20190104_037542	No rewards available.	수령할 수 있는 보상이 없습니다.			
-ETC_20190104_037543	[Event] Receive support items	[이벤트] 소모품 지원 받기			
-ETC_20190104_037544	You have already collected the support items for today.	오늘은 이미 지원을 받으셨습니다			
-ETC_20190104_037545	You have received the support items.	소모품을 지원 받았습니다			
-ETC_20190104_037546	[Event] Acquire title	[이벤트] 칭호 획득			
-ETC_20190104_037547	You have already collected all the titles	이미 모든 칭호 보상을 획득했습니다			
-ETC_20190104_037548	You have not participated enough times.{nl}Current participation count: 	누적 참여 횟수가 부족합니다{nl}현재 누적 참여 : 			
-ETC_20190104_037549	Title acquired.	칭호를 획득했습니다			
-ETC_20190104_037550	Participation count updated.{nl}Total:  	참여 횟수가 누적되었습니다.{nl}누적 참여일 : 			
+ETC_20190104_037528	[Evento] Urbas Seal
+ETC_20190104_037529	Use o Urbas Seal
+ETC_20190104_037530	Patrulhe Sulivinas Lair
+ETC_20190104_037531	Verificar recompensas de Guilda
+ETC_20190104_037532	Verificar recompensas individuais
+ETC_20190104_037533	Verificar pontos de contribuição atuais
+ETC_20190104_037534	Conversar
+ETC_20190104_037535	Entrar em Sulivinas Lair
+ETC_20190104_037536	Ver ranking de contribuição de Guilda
+ETC_20190104_037537	Ver ranking de contribuição individual
+ETC_20190104_037538	Verificar meus pontos de contribuição
+ETC_20190104_037539	Não há pontos acumulados.
+ETC_20190104_037540	Você não pode entrar enquanto estiver em grupo.{nl}Saia ou desfaça o grupo.
+ETC_20190104_037541	Recompensas de Guilda só podem ser retiradas pelo Líder.
+ETC_20190104_037542	Nenhuma recompensa disponível
+ETC_20190104_037543	[Evento] Receber itens de suporte
+ETC_20190104_037544	Você já recebeu os itens de suporte por hoje.
+ETC_20190104_037545	Você recebeu os itens de suporte.
+ETC_20190104_037546	[Evento] Adquirir título
+ETC_20190104_037547	Você já recebeu todos os títulos
+ETC_20190104_037548	Você não participou o suficiente.{nl}Contador de participações atual: 
+ETC_20190104_037549	Título adquirido!
+ETC_20190104_037550	Contador de participação atualizado.{nl}Total: 
 ETC_20190104_037551	Boruta has appeared again{nl}in the Sulivinas Lair.	슬리비나스 레어의 드래곤 보루타가{nl}다시 나타났습니다			
 ETC_20190104_037552	Boruta of Sulivinas Lair{nl}has been subdued by the Saviors!	슬리비나스 레어의 드래곤 보루타가{nl}구원자들에게 제압 당했습니다!			
 ETC_20190104_037553	You have gained the Strengthened Unity buff.	결속 강화 효과를 얻었습니다.			
@@ -37652,7 +37652,7 @@ ETC_20190104_037566	Ir para um Mestre de Classe
 ETC_20190104_037567	Astral Tower 5F não é usada desde que Ignas se tornou líder da Schaffenstar.
 ETC_20190104_037568	Não acredito que ele faria tais modificações e se aliaria aos monstros...
 ETC_20190104_037569	Estou com raiva!
-ETC_20190104_037570	Devemos primeiro desarmar a barreira para alcançar Ignas. Conseguiremos fazer isso alcançando a Power Supply Room.
+ETC_20190104_037570	Primeiro vamos desarmar a barreira para alcançar Ignas. Conseguiremos fazer isso alcançando a Power Supply Room.
 ETC_20190104_037571	Não dá pra saber o que nos espera... {nl}Tenham cuidado.
 ETC_20190104_037572	Carregando espíritos no Integrador...
 ETC_20190104_037573	Espíritos Coletados: {COUNT} / 300
@@ -37670,7 +37670,7 @@ ETC_20190104_037584	Vou averiguar a área primeira, fique atrás de mim.
 ETC_20190104_037585	Derrotar monstros perto de um Integrador ajudará a coletar espíritos mais rapidamente.
 ETC_20190104_037586	Excelente!{nl}Vamos avançar para a próxima área!
 ETC_20190104_037587	Você precisa ativar o integrador para remover a barreira.
-ETC_20190104_037588	Vamos conseguir ativar o integrador{nl}quando as os demais controladores forem ativados.
+ETC_20190104_037588	Vamos conseguir ativar o integrador quando os{nl}demais controladores forem ativados.
 ETC_20190104_037589	Quando o integrador for ativado, derrote os monstros para coletar seus espíritos.
 ETC_20190104_037590	Precisamos de espíritos suficientes para desarmar a barreira
 ETC_20190104_037591	Cuidado para não destruir o integrador.
@@ -37761,8 +37761,8 @@ ETC_20190104_037675	{@st44}Info do próximo Avanço de Classe
 ETC_20190104_037676	{@st59}Aumenta Ataque Físico{/}
 ETC_20190104_037677	{@st59}Aumenta HP Máximo, Defesa Física e Defesa Mágica{/}
 ETC_20190104_037678	{@st59}Aumenta Velocidade de Ataque e Ataque Crítico Físico{/}
-ETC_20190104_037679	Are you sure you want to discard {#fe7e00}[{ITEM}]{/} x{#fe7e00}[{COUNT}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을/를 {#fe7e00}[{COUNT}]{/}개 버리시겠습니까?	ETC_20180528_033098	Are you sure you want to discard {#fe7e00}[{ITEM}]{/} x{#fe7e00}[{COUNT}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을 {#fe7e00}[{COUNT}]{/}개 버리시겠습니까?
-ETC_20190104_037680	Are you sure you want to discard {#fe7e00}[{ITEM}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을/를 버리시겠습니까?	ETC_20180528_033099	Are you sure you want to discard {#fe7e00}[{ITEM}]{/}?	정말 {#fe7e00}[{ITEM}]{/}을 버리시겠습니까?
+ETC_20190104_037679	Tem certeza que deseja remover {#fe7e00}[{ITEM}]{/} x{#fe7e00}[{COUNT}]{/}?
+ETC_20190104_037680	Tem certeza que deseja remover {#fe7e00}[{ITEM}]{/}?
 ETC_20190104_037681	There are objects blocking the area.	해당 위치에 물체가 있습니다.			
 ETC_20190104_037682	Area out of bounds.	이동할 수 없는 지역입니다.			
 ETC_20190104_037683	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total Token duration time;{nl}- Total duration time for unlimited trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?	이미 토큰 아이템의 혜택을 적용받고 있습니다. 그래도 적용하시겠습니까?{nl}만약 중첩하여 적용 하는 경우{nl}전체 사용 기간과 거래 무제한 기간이{nl}누적하여 추가되며 그외의 혜택은 동일한 수치로 유지됩니다.	ETC_20160323_021378	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total duration time;{nl}- Number of personal trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?	이미 토큰 아이템의 혜택을 적용받고 있습니다. 그래도 적용하시겠습니까?{nl}만약 중첩하여 적용 하는 경우{nl}전체 사용 기간과 개인 거래 횟수가{nl}누적하여 추가되며 그외의 혜택은 동일한 수치로 유지됩니다.
@@ -37886,7 +37886,7 @@ ETC_20190104_037800	You must set the dates for search.	조회시간이 존재해
 ETC_20190104_037801	A guild index is required.	조회할 길드 인덱스가 필요합니다.			
 ETC_20190104_037802	The guild has not set a cover page.	해당 길드가 소개 이미지를 설정하지 않았습니다.			
 ETC_20190104_037803	The guild has not registered a promotional text.	해당 길드가 홍보글을 등록하지 않았습니다.			
-ETC_20190104_037804	Traveling across the magic circle...	마법진 너머로 이동중..			
+ETC_20190104_037804	Viajando pelo círculo mágico...
 ETC_20190104_037805	Enter the Other Dimension (rec. level: 300)	이공간에 들어간다(권장레벨:300)	ETC_20180629_034662	Enter the Other Dimension (rec. level: 300).	이공간에 들어간다.(권장레벨:300)
 ETC_20190104_037806	See those who entered the Other Dimension	이공간에 들어간 자들을 살펴본다	ETC_20180629_034663	See those who entered the Other Dimension.	이공간에 들어간 자들을 살펴본다.
 ETC_20190104_037807	Do not enter	들어가지 않는다	ETC_20180629_034664	Don't enter.	들어가지 않는다.
@@ -40751,7 +40751,7 @@ ETC_20190104_040665	Você entrou em Astral Tower Closed Quarters
 ETC_20190104_040666	Todos os jogadores foram derrotados
 ETC_20190104_040667	Você excedeu o limite de 1 hora e falhou a dungeon
 ETC_20190104_040668	Você retornará para a área original após 30 segundos
-ETC_20190104_040669	Eu estava atrasado
+ETC_20190104_040669	Estou atrasado
 ETC_20190104_040670	Derrote os monstros para coletar suas almas.{nl}Use as almas para carregar o integrador e desarmar a barreira
 ETC_20190104_040671	Aparelho de Controle Mágico Preto		
 ETC_20190104_040672	Aparelho de Controle Mágico Verde
@@ -40759,7 +40759,7 @@ ETC_20190104_040673	Aparelho de Controle Mágico Amarelo
 ETC_20190104_040674	Aparelho de Controle Mágico Azul
 ETC_20190104_040675	Aparelho de Controle Mágico Amarelo
 ETC_20190104_040676	Você falhou em defender o Condensador Mágico
-ETC_20190104_040677	Você derrotou o Prodded Horse
+ETC_20190104_040677	Prodded Horse foi derrotado
 ETC_20190104_040678	Prodded Horse apareceu{nl}Derrote-o para desarmar a barreira!
 ETC_20190104_040679	Um Gerador de Energia foi destruído.
 ETC_20190104_040680	Ignas apareceu!
