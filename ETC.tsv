@@ -37797,17 +37797,17 @@ ETC_20190104_037711	Guild item cannot be used right now.	길드 아이템 재사
 ETC_20190104_037712	An Installation is being built nearby.	근처에서 구조물을 설치중입니다.			
 ETC_20190104_037713	You cannot build any more installations.	구조물을 더이상 설치할 수 없습니다.			
 ETC_20190104_037714	You cannot mount the siege tower.	공성탑에 더는 탑승할 수 없습니다.			
-ETC_20190104_037715	[GTW] [{partyName}]'s guild has successfully seized [{mapName}].	[콜로니전] [{partyName}] 길드가 [{mapName}] 점령에 성공했습니다.			
-ETC_20190104_037716	You cannot receive support because you do not belong to a guild.	길드에 가입되지 않은 경우 지원받을 수 없습니다.			
-ETC_20190104_037717	You cannot receive support because your guild is not participating in GTW.	소속된 길드가 길드 콜로니전 참가 상태가 아닌경우 지원받을 수 없습니다.			
-ETC_20190104_037718	You cannot receive Seize Honor rewards while Guild Territory Wars is ongoing.	콜로니전 진행중에는 점령 명예 보상을 받을 수 없습니다.			
-ETC_20190104_037719	Territory Wars support items can be received between 19:00 ~ 20:59 server time.	콜로니전 베타 지원 물품은 19:00 ~ 20:59 사이에 지급받을 수 있습니다.				
-ETC_20190104_037720	GTW honor rewards are only given to Guilds that have seized Spot Areas when the session has ended.	콜로니전 베타 점령 명예 보상은 각 스팟 지역 최종 점령 길드만 지급됩니다.				
-ETC_20190104_037721	You have already received the rewards.	이미 보상을 받은 상태입니다.			
-ETC_20190104_037722	You have received Guild Territory Wars support items.	콜로니전 베타 지원 물품이 지급되었습니다.				
-ETC_20190104_037723	You have received the GTW honor rewards.	콜로니전 베타 점령 명예 보상이 지급되었습니다.				
-ETC_20190104_037724	Receive Guild Territory Wars support items	콜로니전 베타 지원 물품 받기			
-ETC_20190104_037725	Receive Guild Territory Wars seize rewards	콜로니전 베타 점령 보상 받기			
+ETC_20190104_037715	[GTW] [{partyName}] conquistou [{mapName}]!
+ETC_20190104_037716	Você não pode receber suporte porque não pertence a uma Guilda.
+ETC_20190104_037717	Você não pode receber suporte porque sua Guilda não participa da GTW.
+ETC_20190104_037718	Você não pode receber as recompensas de conquista enquanto GTW está acontecendo.
+ETC_20190104_037719	Os itens de suporte para GTW podem ser recebidos entre 19:00 ~ 20:59 do servidor.
+ETC_20190104_037720	Recompensas de conquista da GTW são dadas para Guildas que conquistaram um território ao final da sessão.
+ETC_20190104_037721	Você já recebeu as recompensas.
+ETC_20190104_037722	Você recebeu os itens de suporte da GTW.
+ETC_20190104_037723	Você recebeu a recompensa de honra da GTW.
+ETC_20190104_037724	Receber Itens de suporte da GTW
+ETC_20190104_037725	Receber recompensas de conquista da GTW
 ETC_20190104_037726	Greetings Saviors.	안녕하세요. 트리 오브 세이비어입니다.			
 ETC_20190104_037727	Today's beta testing of Guild Territory Wars has ended.	금일의 길드 콜로니전 Beta가 종료되었습니다.			
 ETC_20190104_037728	The guilds that have successfully seized Spot Areas are as follows.	스팟 지역을 점령한 길드는 다음과 같습니다.			
