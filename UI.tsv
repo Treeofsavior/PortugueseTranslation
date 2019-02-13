@@ -1271,11 +1271,11 @@ UI_20150317_001270	{@St41b} Memo
 UI_20150317_001271	{@St41b}Criar
 UI_20150317_001272	{@St41b}Preço : %s{/}
 UI_20150317_001273	{@Sti5}Preço : %s{/}
-UI_20150317_001274	{@Sti9} Quest de grupo (%s){/}
+UI_20150317_001274	{@Sti9} Missão em grupo (%s){/}
 UI_20150317_001275	{@st41_yellow} Exploração: %s% {/}
 UI_20150317_001276	{@st41_yellow} Pontos: %s {/}
 UI_20150317_001277	{@st42b}{b}Conquistas{/}
-UI_20150317_001278	{@st59}Participar da Quest de Grupo{/}
+UI_20150317_001278	{@st59}Participar da Missão em Grupo{/}
 UI_20150317_001279	Janelas
 UI_20150317_001280	Condição
 UI_20150317_001281	Guia
@@ -2845,7 +2845,7 @@ UI_20170912_002844	Não Entrar
 UI_20170912_002845	> Guildas com Áreas apreendidas participam automaticamente.{nl}> Depois de definir o status para  
 UI_20170912_002846	, você não pode transferir a posição do Mestre da Guilda.{nl}> Apenas um Mestre da Guilda Templar pode mudar o status da participação.{nl}> Esta opção só pode ser alterada até 5 minutos antes do início da Guerra, ou após 1 minuto após o término.{nl}> O status de participação pode ser alterado independentemente de sua guilda ter uma torre ou não.
 UI_20170912_002847	{@st43b}{s18}Benefícios da Área{/}
-UI_20170912_002848	Areas
+UI_20170912_002848	Áreas
 UI_20170912_002849	Grade
 UI_20170912_002850	Silver Ganho (%)
 UI_20170912_002851	Prêmios do Local
@@ -3077,7 +3077,7 @@ UI_20180517_003076	{@st66b}Guild funds here{/}
 UI_20180517_003077	Posição {img %s 13 13}
 UI_20180517_003078	%s online, %s offline
 UI_20180517_003079	{@st43b}{s18}Guerras{/}
-UI_20180517_003080	{s13}Neutral Status Canceledo
+UI_20180517_003080	{s13}Cancelar Neutro
 UI_20180517_003081	{@st66b}Promover Guilda{/}
 UI_20180517_003082	{@st66b}Cargos e Autoridades{/}
 UI_20180517_003083	{@st66b}Requerimentos{/}
@@ -3622,30 +3622,30 @@ UI_20190104_003621	Utilities	유틸형
 UI_20190104_003622	Deterrents	이동 방지형			
 UI_20190104_003623	Current Points	점령 포인트			
 UI_20190104_003624	Effects	적용 효과			
-UI_20190104_003625	{@st42}{s20}Victory Benefits	{@st42}{s20}점령 혜택			
-UI_20190104_003626	{@st66b}Adjust Tax Rate{/}	{@st66b}세율 조정{/}			
-UI_20190104_003627	{@st66b}Tax Collection{/}	{@st66b}세금 징수{/}			
-UI_20190104_003628	Target Cities	세율 적용 도시			
-UI_20190104_003629	Tax Rate	세율			
-UI_20190104_003630	Payment Day	지급일			
-UI_20190104_003631	Collecting Cities	세금 징수 도시			
-UI_20190104_003632	Remaining Allocation Period	남은 분배 기간			
-UI_20190104_003633	Tax	세금			
-UI_20190104_003634	Tax Allocation	세금 분배			
-UI_20190104_003635	Retrieve Tax	세금 수령			
-UI_20190104_003636	Allocated Sum	분배 금액			
-UI_20190104_003637	{@st66b}Important{/}	{@st66b}유의사항{/}			
-UI_20190104_003638	{@st66b}Taxable Goods{/}	{@st66b}세율 적용 항목{/}			
-UI_20190104_003639	{@st66b}Records{/}	{@st66b}세금 상세 이력{/}			
-UI_20190104_003640	{@st42}{s20}Tax Allocation	{@st42}{s20}세금 분배			
-UI_20190104_003641	Current Sum	현재 금액			
-UI_20190104_003642	Sending	보낼 금액			
-UI_20190104_003643	Remaining Funds	잔여 금액			
-UI_20190104_003644	Team: %s	팀명 %s			
-UI_20190104_003645	Amount	금액			
-UI_20190104_003646	{@st42}{s16}Send	{@st42}{s16}보내기			
-UI_20190104_003647	{@st42}{s20}Retrieve Taxes	{@st42}{s20}세금 수령			
-UI_20190104_003648	Remaining Period	남은 수령 기간			
+UI_20190104_003625	{@st42}{s20}Benefícios de Vitória
+UI_20190104_003626	{@st66b}Ajustar Imposto{/}
+UI_20190104_003627	{@st66b}Coletar Taxas{/}
+UI_20190104_003628	Cidades Alvo
+UI_20190104_003629	Taxa Imposto
+UI_20190104_003630	Data Pgto
+UI_20190104_003631	Cidades Coletoras
+UI_20190104_003632	Tempo Restante
+UI_20190104_003633	Imposto	
+UI_20190104_003634	Alocar Taxa
+UI_20190104_003635	Receber Taxa
+UI_20190104_003636	Total Alocado
+UI_20190104_003637	{@st66b}Importante{/}
+UI_20190104_003638	{@st66b}Itens Taxados{/}
+UI_20190104_003639	{@st66b}Registros{/}
+UI_20190104_003640	{@st42}{s20}Alocar Taxa
+UI_20190104_003641	Total Atual
+UI_20190104_003642	Enviando
+UI_20190104_003643	Fundos Restantes
+UI_20190104_003644	Time: %s
+UI_20190104_003645	Valor
+UI_20190104_003646	{@st42}{s16}Enviar
+UI_20190104_003647	{@st42}{s20}Receber Taxas
+UI_20190104_003648	Período Restante
 UI_20190104_003649	{@st42}{s20}Warp List	{@st42}{s20}워프 목록			
 UI_20190104_003650	Current Status	점령 현황			
 UI_20190104_003651	{img icon_item_silver 20 20}{@st41b}Proceed {/}{img white_right_arrow 15 18} %s	{img icon_item_silver 20 20}{@st41b}거래 정산 {/}{img white_right_arrow 15 18} %s			
@@ -3669,28 +3669,28 @@ UI_20190104_003668	{s18}Expiring soon.	{s18}곧 기간이 만료됩니다.	UI_20
 UI_20190104_003669	{s18}Are you sure you want to close?	{s18}그래도 종료 하시겠습니까?	UI_20170330_002601	Item(s) close to expiration date. Close?	곧 기간이 만료됩니다. 종료하시겠습니까?
 UI_20190104_003670	{@st66b}Upgrade	{@st66b}업그레이드			
 UI_20190104_003671	{@st66b}Shared Storage{/}	{@st66b}공용 창고{/}			
-UI_20190104_003672	ⓘ Guilds defending a Spot are automatically set as participants.{nl}ⓘ Only the Guild Master can change a guild's participation settings, and once they are set to  	ⓘ 스팟 점령 길드는 참가로 고정됩니다.{nl}ⓘ 참가 여부 옵션은 길드 마스터만 변경할 수 있으며, 	UI_20170912_002845	ⓘ Guilds with Spots seized are automatically participating.{nl}ⓘ After setting the status to  	ⓘ 스팟 점령 길드는 참가로 고정됩니다.{nl}ⓘ 참가 여부 옵션을 
-UI_20190104_003673	, the role of Guild Master becomes unavailable for transfer.{nl}ⓘ Participation settings can only be changed until 5 minutes before the Territory Wars begin, or 1 minute after they end.{nl}ⓘ They can be changed regardless of whether your guild has a tower or not.{nl}ⓘ Guild members who abandoned their previous guild less than 14 days in the past cannot participate in GTW.	로 변경 시 길드 마스터 위임이 불가능합니다.{nl}ⓘ 참가 여부 옵션은 길드 콜로니전 시작 5분 전 부터 종료 1분 후까지 변경할 수 없습니다.{nl}ⓘ 참가 여부 옵션은 길드 타워의 설치 유무와 상관없이 변경할 수 있습니다.{nl}ⓘ 이전 길드 탈퇴일을 기점으로 14일 미만인 길드원은 길드 콜로니전에 참가할 수 없습니다.	UI_20170912_002846	, you cannot transfer the position of Guild Master.{nl}ⓘ Only a Templar Guild Master can change the participation status.{nl}ⓘ This option can only be changed until 5 minutes before the Territory Wars begin, or after 1 minute after they end.{nl}ⓘ The participation status can be changed regardless of whether your guild has a tower or not.	로 변경 시, 길드 마스터 위임이 불가능합니다.{nl}ⓘ 참가 여부 옵션은 템플러 클래스를 가진 길드 마스터만 변경할 수 있습니다.{nl}ⓘ 참가 여부 옵션은 길드 콜로니전 시작 5분 전 부터 종료 1분 후까지 변경할 수 없습니다.{nl}ⓘ 참가 여부 옵션은 길드 타워의 설치 유무와 상관없이 변경할 수 있습니다.
-UI_20190104_003674	{@st41b}{s16}Victory Benefits	{@st41b}{s16}점령 혜택	UI_20180723_003385	{@st41b}{s16}Victory Rewards	{@st41b}{s16}점령 보상
+UI_20190104_003672	ⓘ Guildas defendendo um território são definidas automaticamente como participantes.{nl}ⓘ Somente o Líder da Guilda pode mudar a configuração de participação, e uma vez colocado como  
+UI_20190104_003673	, a função de Líder não pode mais ser transferida.{nl}ⓘ Configurações de participação só podem ser mudadas até 5 minutos antes do início da GTW, ou 1 minuto após o final.{nl}ⓘ Mudanças podem ser feitas independente de ter instalado ou não uma Torre de Guilda.{nl}ⓘ Membros da Guilda que abandonaram sua Guilda anterior há menos de 14 dias não podem participar da GTW.
+UI_20190104_003674	{@st41b}{s16}Benefícios da Vitória
 UI_20190104_003675	City Tax	도시 세율			
 UI_20190104_003676	City Tax {img tip_questionmark 20 20}	징수될 도시 세금{img tip_questionmark 20 20}			
 UI_20190104_003677	Market Tax {img tip_questionmark 20 20}	징수될 마켓 세금{img tip_questionmark 20 20}			
 UI_20190104_003678	ⓘ Guilds that seized a Spot can use the Victory Benefits button to adjust city tax rates and collect tax.	ⓘ 점령 길드는 점령 혜택 버튼을 통해 도시의 세율 조정 및 세금 징수가 가능합니다	UI_20180413_003050	ⓘ Please see our official website at treeofsavior.com for more information on Territory Wars rewards and benefits during the beta testing period.	ⓘ Beta로 진행되는 길드 콜로니전의 점령 혜택은 홈페이지 내 공지사항을 통해 확인 바랍니다.
-UI_20190104_003679	{@st43b}{s18}Items{/}	{@st43b}{s18}아이템{/}			
-UI_20190104_003680	{@st66b}Guild Mileage: %s{/}	{@st66b}길드 마일리지:%s{/}			
-UI_20190104_003681	{@st66b}{s18}Retrieve Items{/}	{@st66b}{s18}아이템 수령{/}			
-UI_20190104_003682	{@st43b}{s18}Transaction Records{/}	{@st43b}{s18}입고/출고 내역{/}			
-UI_20190104_003683	{@st66b}Show deposits only	{@st66b}입고만 보기			
-UI_20190104_003684	{@st66b}Show withdrawals only	{@st66b}출고만 보기			
-UI_20190104_003685	{@st41d}3 hours       	{@st41d}3시간       			
-UI_20190104_003686	{@st41d}10 hours       	{@st41d}10시간       			
-UI_20190104_003687	{@st41d}1 day       	{@st41d}1일       			
-UI_20190104_003688	{@st41d}3 days       	{@st41d}3일       			
-UI_20190104_003689	{@st41d}7 days       	{@st41d}7일       			
-UI_20190104_003690	{@st41d}1 month       	{@st41d}1개월       			
-UI_20190104_003691	{@st41d}2 months       	{@st41d}2개월       			
-UI_20190104_003692	{@st41d}3 months       	{@st41d}3개월       			
-UI_20190104_003693	ⓘ Every deposit/withdrawal equals 20 mileage.{nl}ⓘ Mileage is accumulated when guild members login, and when participating in guild quests and Territory Wars.	ⓘ 입고/출고 시 마일리지 20 차감 됩니다. {nl}ⓘ마일리지는 길드원 로그인, 길드 퀘스트, 콜로니전 참여를 통해서 적립됩니다.			
+UI_20190104_003679	{@st43b}{s18}Itens{/}
+UI_20190104_003680	{@st66b}Milhagem da Guilda: %s{/}
+UI_20190104_003681	{@st66b}{s18}Receber Itens{/}
+UI_20190104_003682	{@st43b}{s18}Registro de Transações{/}
+UI_20190104_003683	{@st66b}Somente Depósitos
+UI_20190104_003684	{@st66b}Somente Retiradas
+UI_20190104_003685	{@st41d}3 horas       
+UI_20190104_003686	{@st41d}10 horas       
+UI_20190104_003687	{@st41d}1 dia       
+UI_20190104_003688	{@st41d}3 dias       
+UI_20190104_003689	{@st41d}7 dias       
+UI_20190104_003690	{@st41d}1 mês       
+UI_20190104_003691	{@st41d}2 meses       
+UI_20190104_003692	{@st41d}3 meses       
+UI_20190104_003693	ⓘ Cada depósito/retirada equivale a 20 milhas.{nl}ⓘ A milhagem é acumulada quando membros da guilda conectam, além de participar de missões de guilda e GTW.
 UI_20190104_003694	Check online members with authority to accept applications	가입 승인 직급이 있는 접속한 길드원 표시			
 UI_20190104_003695	Show recruiting guilds only	가입 가능한 길드만 보기			
 UI_20190104_003696	Skip cube animation	큐브 애니메이션 스킵			
@@ -3799,3 +3799,19 @@ UI_20190104_003798	{@st41b}{s16}Não
 UI_20190104_003799	Tempo de Token Restante: {#FF0000}%s{/}
 UI_20190112_003800	{@st66}{s16}Extrair
 UI_20190112_003801	{@st66}{s16}Comprar
+UI_20190201_003802	{@st66b}Ajustar Imposto{/}
+UI_20190201_003803	{@st66b}Distribuir Fundos{/}
+UI_20190201_003804	Cidade Afetada
+UI_20190201_003805	Taxa Imposto
+UI_20190201_003806	Cidade Coletora
+UI_20190201_003807	Fundos Imposto
+UI_20190201_003808	Distribuir Fundos
+UI_20190201_003809	Receber Fundos
+UI_20190201_003810	{@st66b}Itens Aplicáveis{/}
+UI_20190201_003811	{@st66b}Hist. Fundos{/}
+UI_20190201_003812	{@st42}{s20}Distribuir Fundos
+UI_20190201_003813	{@st42}{s20}Receber Fundos
+UI_20190201_003814	Imposto da Cidade
+UI_20190201_003815	Fundos de Imposto{img tip_questionmark 20 20}
+UI_20190201_003816	Taxa de Mercado{img tip_questionmark 20 20}
+UI_20190201_003817	ⓘ Guildas que conquistam um território podem acessar a página de benefícios para ajustar o imposto da cidade e receber os fundos.

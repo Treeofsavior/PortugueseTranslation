@@ -17493,7 +17493,7 @@ ITEM_20180208_017478	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 0.
 ITEM_20180208_017479	[Efeito] [{img star_mark 20 20}/3]% de chance, por ataque feito, de aumentar a Velocidade de Movimento em +4 por 6 segundos
 ITEM_20180208_017480	[Efeito] INT +[{img star_mark 20 20}]
 ITEM_20180208_017481	[Efeito] Aumenta o dano contra inimigos derrubados em [{img star_mark 20 20}]%
-ITEM_20180208_017482	[Efeito] Resistência a Atordoar +[{img star_mark 20 20}], Resistência a Dormir +[{img star_mark 20 20}]
+ITEM_20180208_017482	[Efeito] Resistência à [Stun] +[{img star_mark 20 20}], Resistência à [Sleep] +[{img star_mark 20 20}]
 ITEM_20180208_017483	[Efeito] Defesa Mágica +[{img star_mark 20 20}]% por 10 segundos após usar qualquer poção de HP
 ITEM_20180208_017484	[Efeito] [{img star_mark 20 20}/3]% de chance, por ataque feito, de causar [Slow] no inimigo por 3 segundos
 ITEM_20180208_017485	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 2% de HP ao ser atacado por monstros de tamanho Médio{nl}Cooldown 15 segundos
@@ -17899,7 +17899,7 @@ ITEM_20180402_017884	Good Student Stamp
 ITEM_20180402_017885	Jump to display the effect.{nl}Can be exchanged for medals at the Exchange Shop.
 ITEM_20180402_017886	Freshman School Uniform Box (M)
 ITEM_20180402_017887	Freshman School Uniform Box (F)
-ITEM_20180413_017888	An armband given to beta testers of the new Guild Territory Wars.
+ITEM_20180413_017888	An armband given to participants in thes new Guild Territory Wars.	콜로니전 베타 참여자에게 지급되는 암밴드 입니다.				
 ITEM_20180413_017889	Shining 9 Star Gem Abrasive
 ITEM_20180413_017890	Usado para melhorar gemas. Aumenta o EXP de gemas.{nl}- EXP da Gema: 5414700
 ITEM_20180413_017891	Challenge Portal Scroll
@@ -21433,3 +21433,6 @@ ITEM_20190112_021417	Groucho Glasses	코주부 안경
 ITEM_20190112_021418	Sorry, I think you have the wrong person.{nl}Right-click to equip.	근사한 수염이 어울리는 코가 달린 안경입니다.{nl}오른쪽 클릭으로 장착할 수 있습니다.				
 ITEM_20190112_021419	Grandpa Groucho Glasses	눈 달린 코주부 안경				
 ITEM_20190112_021420	Sorry, I think you have the wrong person. I'm just a jolly old grandpa.{nl}Right-click to equip.	근사한 수염이 어울리는 코가 달린 안경입니다. 눈이 그려져 있어 피곤할 때 눈속임으로 요긴하게 쓸 수 있을 것 같습니다.{nl}오른쪽 클릭으로 장착할 수 있습니다.				
+ITEM_20190201_021421	GTW Coin [Reward]	콜로니전 기념 주화 [보상용]				
+ITEM_20190201_021422	A coin commemorating a victory in the Guild Territory Wars.{nl}Delivered as an alternative to GTW Market tariff fund rewards.{nl}Will be automatically deleted at the end of the event period.	콜로니전 승리를 기념하는 주화입니다.{nl}콜로니전 마켓 적립금 보상을 대체해 지급되는 아이템입니다.{nl}2월 21일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190209_021423	Shining Monster Card Album: Black	빛나는 몬스터 카드첩 : 블랙

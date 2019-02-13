@@ -14976,3 +14976,5 @@ SKILL_20190126_014976	(Unused) Frenzy: Enhance	(미사용)프렌지: 강화	SKIL
 SKILL_20190126_014977	* Aplica uma chance de saquear Silver sempre que atacar um monstro em mapas comuns.{nl}* Os efeitos de [Pilhagem] ativam somente 1 vez por monstro.{nl}* Ativa somente se o líder do grupo é um Corsair
 SKILL_20190126_014978	Elemento Fogo: Amplificar
 SKILL_20190126_014979	* Garante 30% de chance por ataque (incluindo ataques básicos) de aumentar em 30% o dano de ataques do elemento Fogo, com duração de 5 segundos
+SKILL_20190209_014980	Ataca o alvo utilizando facas de entalhe. Monstros da raça Planta sofrem dano adicional.
+SKILL_20190209_014981	Multiplicador: #{SkillFactor}#% x 5{nl}+#{CaptionRatio}# de dano contra raça Planta{nl}Taxa de Ataque em Área: 1
