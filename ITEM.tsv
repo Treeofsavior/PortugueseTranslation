@@ -17493,7 +17493,7 @@ ITEM_20180208_017478	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 0.
 ITEM_20180208_017479	[Efeito] [{img star_mark 20 20}/3]% de chance, por ataque feito, de aumentar a Velocidade de Movimento em +4 por 6 segundos
 ITEM_20180208_017480	[Efeito] INT +[{img star_mark 20 20}]
 ITEM_20180208_017481	[Efeito] Aumenta o dano contra inimigos derrubados em [{img star_mark 20 20}]%
-ITEM_20180208_017482	[Efeito] Resistência a Atordoar +[{img star_mark 20 20}], Resistência a Dormir +[{img star_mark 20 20}]
+ITEM_20180208_017482	[Efeito] Resistência à [Stun] +[{img star_mark 20 20}], Resistência à [Sleep] +[{img star_mark 20 20}]
 ITEM_20180208_017483	[Efeito] Defesa Mágica +[{img star_mark 20 20}]% por 10 segundos após usar qualquer poção de HP
 ITEM_20180208_017484	[Efeito] [{img star_mark 20 20}/3]% de chance, por ataque feito, de causar [Slow] no inimigo por 3 segundos
 ITEM_20180208_017485	[Efeito] [{img star_mark 20 20}]% de chance de recuperar 2% de HP ao ser atacado por monstros de tamanho Médio{nl}Cooldown 15 segundos
