@@ -9585,7 +9585,7 @@ ETC_20150323_009585	Apsimesti Crossroads
 ETC_20150323_009586	Uskis Arable Land
 ETC_20150323_009587	Vilna Forest
 ETC_20150323_009588	Dina Bee Farm
-ETC_20150323_009589	Baron Allerno 
+ETC_20150323_009589	Baron Allerno
 ETC_20150323_009590	Monastery
 ETC_20150323_009591	Verkti Square
 ETC_20150323_009592	Petrified City
@@ -30484,7 +30484,7 @@ ETC_20171128_030457	Brinquedo
 ETC_20171128_030458	A random option item which is not appraised yet.
 ETC_20171128_030459	Selecione um item a ser desmontado.
 ETC_20171128_030460	Dismantle Price: {Price}{nl}Are you sure you want to dismantle?
-ETC_20171128_030461	não é permitido enquanto fizer parte de um grupo.
+ETC_20171128_030461	Não pode ser usado enquanto estiver em grupo.
 ETC_20171128_030462	{LAST_INDEX}Cannot be used in current rank because of rank rollback.
 ETC_20171128_030463	Companion's name is too long or too short.
 ETC_20171128_030464	Block the Preface
@@ -33352,7 +33352,7 @@ ETC_20180629_033316	{nl} {nl}[How to Use the Beauty Shop - Entering the Shop]
 ETC_20180629_033317	The entrance to the Beauty Shop is located in the north section of the city of Klaipeda.
 ETC_20180629_033318	{nl} {nl}[Barber Shop]
 ETC_20180629_033319	On the first floor of the Beauty Shop you can change your hairstyle and color, as well as purchase wigs and hair dyes from Anabell and Henry Swyn.{nl}Hairstyles and colors can only be purchased once at a time. If you are only buying one hairstyle, the color is provided free of charge (the price is listed in the UI, but it will not be charged).{nl}Changing your hair to a different color, however, costs additional TP.
-ETC_20180629_033320	{nl} {nl}[Barber Shop Coupon Book]
+ETC_20180629_033320	{nl} {nl}[Cupons da Barbearia]
 ETC_20180629_033321	Every time you purchase a new hairstyle or dye at the Barber Shop, you get one stamp on your coupon book. You can interact with Anabell or Henry Swyn to check your book.{nl}The stamps you collect earn you different discounts on hairstyles and dyes, but they only apply to one item at once.
 ETC_20180629_033322	{nl} {nl}[Boutique]
 ETC_20180629_033323	On the second floor of the Beauty Shop is the fashion boutique, where you can purchase costumes and Goddess' Blessed Cubes.
@@ -33464,9 +33464,9 @@ ETC_20180629_033428	2017 May Wedding F NPC
 ETC_20180629_033429	Bridal Bouquet
 ETC_20180629_033430	2018 Golden Fairy Wedding F NPC
 ETC_20180629_033431	Goalpost
-ETC_20180629_033432	[Fashion Designer]{nl}  Kastytis
-ETC_20180629_033433	[Hair Stylist]{nl}Anabell Swyn
-ETC_20180629_033434	[Hair Stylist]{nl} Henry Swyn
+ETC_20180629_033432	[Estilista]{nl}  Kastytis
+ETC_20180629_033433	[Cabeleireira]{nl}Anabell Swyn
+ETC_20180629_033434	[Cabeleireiro]{nl} Henry Swyn
 ETC_20180629_033435	Gray Lesser Panda
 ETC_20180629_033436	Dimension Kepa
 ETC_20180629_033437	Dimension Red Kepa
@@ -34677,8 +34677,8 @@ ETC_20180629_034641	This item cannot be equipped by your current character.
 ETC_20180629_034642	This item cannot be equipped by your current character.{nl}Are you sure you want to purchase it?
 ETC_20180629_034643	You can change your hair only one style at a time.{nl}Do you want to change to the currently selected hair?
 ETC_20180629_034644	No items selected to wear.
-ETC_20180629_034645	Cannot exchange. Insufficient stamps.
-ETC_20180629_034646	Check Coupon Book
+ETC_20180629_034645	Impossível trocar. Estampas insuficientes.
+ETC_20180629_034646	Verificar Estampas
 ETC_20180629_034647	No amount to apply coupon discounts.
 ETC_20180629_034648	No item selected for purchase.
 ETC_20180629_034649	Receive Hair Purchase Event Rewards
@@ -36485,7 +36485,7 @@ ETC_20181017_036399	Unidentified	미감정
 ETC_20181017_036400	Busca Geral
 ETC_20181017_036401	Equipment Rental	PC방 대여				
 ETC_20181017_036402	Appearance Items	외형 변환 아이템				
-ETC_20181017_036403	Equipment items that have been {@st47}{s18}enhanced, transcended, added enchant stats, equipped with gems, added sockets or awakened{/}{/} can be dismantled.	{@st47}{s18}강화, 초월, 젬 장착, 소켓 추가, 인챈트 옵션, 각성 {/}{/}된 장비 아이템이 분해될 수 있습니다.	ETC_20180418_032160	Equipment items that have been {@st47}{s18}enhanced, transcended, equipped with gems, added sockets or awakened{/}{/} can be dismantled.	{@st47}{s18}강화, 초월, 젬 장착, 소켓 추가, 각성{/}{/}된 장비 아이템이 분해될 수 있습니다.	
+ETC_20181017_036403	Equipamentos que foram {@st47}{s18}refinados, transcendidos, com atributos de Enchant, com gemas, soquetes ou despertados{/}{/} podem ser desmanchados.
 ETC_20181017_036404	Hair dye registered.{nl}Do you want to apply {@st66d_y}{s19}{COLOR}{/}{/} now?{nl} {nl} {@st43b}{s16}* You can go to the Appearance tab of your inventory to change your hair color.{/}{/}	염색약이 정상적으로 적용 되었습니다.{nl}현재 {@st66d_y}{s19}{COLOR}{/}{/}를 적용하시겠습니까?{nl} {nl} {@st43b}{s16}* 인벤토리 외형 탭의 가발 슬롯에서 가발 염색을 변경할 수 있습니다.{/}{/}	ETC_20180208_031536	Hair dye registered.{nl}Do you want to apply {@st66d_y}{s19}{COLOR}{/}{/} now?{nl} {nl} {@st43b}{s16}* You can go to character settings to change your hair color.{/}{/}	염색약이 정상적으로 적용 되었습니다.{nl}현재 {@st66d_y}{s19}{COLOR}{/}{/}를 적용하시겠습니까?{nl} {nl} {@st43b}{s16}* 캐릭터 설정에서 헤어 염색을 바꿀 수 있습니다.{/}{/}	
 ETC_20181017_036405	If dismantled, the Legend item will be consumed and you may receive  	해당 아이템을 분해할 경우{nl}레전드 아이템은 사라지며 일정 확률로{nl}	ETC_20180517_032906	If dismantled, the Legend item will be consumed and you will receive  	해당 아이템을 분해할 경우{nl}레전드 아이템은 사라지며 	
 ETC_20181017_036406	 or 	 또는 	ETC_20180517_032907	 .{nl}Do you want to dismantle the item?	 아이템이 지급됩니다.{nl}분해하시겠습니까?	
@@ -36682,9 +36682,9 @@ ETC_20190104_036596	A title that is given to participants in the Guild Territory
 ETC_20190104_036597	Safely Guarded	OTP는 0원 보안은 영원			
 ETC_20190104_036598	A title that is given to Saviors who are using Steam Guard.	계정 보호를 기원해 구원자분께 지급되는 칭호입니다.			
 ETC_20190104_036599	Brushed against Boruta	보루타를 건드려 본			
-ETC_20190104_036600	A title given to players who have participated in the Boruta raid more than 5 times.	슬리비나스 레어의 드래곤 보루타 공격에 5회 이상 참여한 구원자에게 주어지는 칭호입니다.			
+ETC_20190104_036600	A title given to players who have participated in the Boruta raid 5 times or more.	슬리비나스 레어의 드래곤 보루타 공격에 5회 이상 참여한 구원자에게 주어지는 칭호입니다.				
 ETC_20190104_036601	Fearless Against Boruta	보루타가 두렵지 않은			
-ETC_20190104_036602	A title given to players who have participated in the Boruta raid more than 10 times.	슬리비나스 레어의 드래곤 보루타 공격에 10회 이상 참여한 구원자에게 주어지는 칭호입니다.			
+ETC_20190104_036602	A title given to players who have participated in the Boruta raid 10 times or more.	슬리비나스 레어의 드래곤 보루타 공격에 10회 이상 참여한 구원자에게 주어지는 칭호입니다.				
 ETC_20190104_036603	Zealous Believer	신실한 광신도			
 ETC_20190104_036604	You have passed the test of the Zealot Order.	질럿 마스터로부터 질럿 교단의 시험을 통과했습니다.			
 ETC_20190104_036605	Wandering Gunman	자유로운 총잡이			
@@ -36921,7 +36921,7 @@ ETC_20190104_036835	You can obtain the following items upon use.{nl} - Legend Ca
 ETC_20190104_036836	Legend Card Slot Unlock Voucher	레전드 카드 장착 슬롯 해금권			
 ETC_20190104_036837	Can only be used after reaching Lv. 100. Using the item will complete the Legend Card Unlock quest and unlock the Legend Card Slot.	100레벨 이상인 경우 사용 가능하며, 사용 시 레전드 카드 슬롯 봉인 해제 퀘스트가 완료된 후 슬롯 봉인이 해제됩니다.			
 ETC_20190104_036838	Legend Card (Demon Lord) Envelope	레전드 카드(마군주)가 담긴 봉투			
-ETC_20190104_036839	You can receive one of the following items when used.{nl} - Demon Lord Marnox Card x1{nl} - Demon Lord Blut Card x1{nl} - Demon Lord Zaura Card x1{nl} - Demon Lord Nuaele Card x1{nl} - Demon Lord Helgasercle Card x1{nl} - Demon Lord Rexipher Card x1{nl} - Demon Lord Froster Card x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 마군주 마르녹스 카드 1개{nl} - 마군주 블룻 카드 1개{nl} - 마군주 자우라 카드 1개{nl} - 마군주 누아엘레 카드 1개{nl} - 마군주 헬가 세르클 카드 1개{nl} - 마군주 렉시퍼 카드 1개{nl} - 마군주 미르티스 카드 1개{nl} - 마군주 프로스터 로드 카드 1개			
+ETC_20190104_036839	You can receive one of the following items when used.{nl} - Demon Lord Marnox Card x1{nl} - Demon Lord Blut Card x1{nl} - Demon Lord Zaura Card x1{nl} - Demon Lord Nuaele Card x1{nl} - Demon Lord Helgasercle Card x1{nl} - Demon Lord Rexipher Card x1{nl} - Demon Lord Froster Lord Card x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 마군주 마르녹스 카드 1개{nl} - 마군주 블룻 카드 1개{nl} - 마군주 자우라 카드 1개{nl} - 마군주 누아엘레 카드 1개{nl} - 마군주 헬가 세르클 카드 1개{nl} - 마군주 렉시퍼 카드 1개{nl} - 마군주 미르티스 카드 1개{nl} - 마군주 프로스터 로드 카드 1개				
 ETC_20190104_036840	Mysterious Magnifier x10 + 1	신비한 돋보기x10 + 1			
 ETC_20190104_036841	Contains Mysterious Magnifier x11.	사용 시 신비한 돋보기 11개를 획득할 수 있습니다.			
 ETC_20190104_036842	Artisan Magnifier x10 + 1	장인의 돋보기x10 + 1			
@@ -37091,8 +37091,8 @@ ETC_20190104_037005	Event Processing Device	이벤트 수정가공기계
 ETC_20190104_037006	Divine Flag	신성한 깃발			
 ETC_20190104_037007	Outlaw Master (Male)	아웃로 마스터 남			
 ETC_20190104_037008	Outlaw Master (Female)	아웃로 마스터 여			
-ETC_20190104_037009	[Fashion Designer]{nl}Kastytis	[의상 디자이너]{nl}카스티스	ETC_20180629_033432	[Fashion Designer]{nl}  Kastytis	[의상 디자이너]{nl}  카스티스
-ETC_20190104_037010	[Hair Stylist]{nl}Henry Swyn	[헤어 디자이너]{nl}헨리 스윈			
+ETC_20190104_037009	[Estilista]{nl}Kastytis
+ETC_20190104_037010	[Cabeleireiro]{nl}Henry Swyn
 ETC_20190104_037011	Aparelho Condensador Mágico
 ETC_20190104_037012	Cristal Negro
 ETC_20190104_037013	Controlador de Magia
@@ -37135,7 +37135,7 @@ ETC_20190104_037049	Borutos Kapas PC Session	보루토스 카파스 PC세션
 ETC_20190104_037050	Activates the stacking Porapore - Roast buff for 8 seconds when using basic attacks. Upon reaching 20 stacks, provides additional Darkness property damage equal to {img green_up_arrow 16 16}8% of your Magic Defense for 10 seconds.	기본 공격 시 8초간 포라포레-가열 중첩{nl}포라포레-가열 20중첩시 10초 동안{nl}빛, 어둠 속성 추가 대미지가 자신의 마법 방어력의 {img green_up_arrow 16 16}8%만큼 증가{nl}(각 속성별 최대 3,000 증가)	ETC_20180517_032705	Activates the stacking [Porapore]{nl}buff for 8 seconds when using physical attacks. Upon reaching 100 stacks, provides additional Holy and Darkness property damage equal to {img green_up_arrow 16 16}8% of your Magic Defense for 10 seconds.	물리 공격 시 8초간 포라포레 버프 효과{nl}포라포레 버프 100중첩 시 10초 동안{nl}빛, 어둠 속성 추가 대미지을{nl}자신의 마법 방어력의 {img green_up_arrow 16 16}8%만큼 증가
 ETC_20190104_037051	Magic Attack {img green_up_arrow 16 16}571{nl}Magic Critical Attack {img green_up_arrow 16 16}69	마법 공격력 {img green_up_arrow 16 16}571 증가{nl} 마법 치명타 공격력 {img green_up_arrow 16 16}69 증가	ETC_20180517_032707	Magic Attack {img green_up_arrow 16 16}571{nl}Magic Amplification {img green_up_arrow 16 16}69	마법 공격력 {img green_up_arrow 16 16}571 증가{nl} 마법증폭 {img green_up_arrow 16 16}69 증가
 ETC_20190104_037052	Physical Critical Attack {img green_up_arrow 16 16}225{nl}Accuracy {img green_up_arrow 16 16}100	물리 치명타 공격력 {img green_up_arrow 16 16}225 증가{nl}명중 {img green_up_arrow 16 16}100 증가	ETC_20180517_032708	Critical Attack {img green_up_arrow 16 16}225{nl}Accuracy {img green_up_arrow 16 16}100	치명타 공격력 {img green_up_arrow 16 16}225 증가{nl}명중 {img green_up_arrow 16 16}100 증가
-ETC_20190104_037053	Magic critical attack {img green_up_arrow 16 16}60	마법 치명타 공격력 {img green_up_arrow 16 16}60 증가	ETC_20180517_032716	Magic Amplification {img green_up_arrow 16 16}60	마법 증폭 {img green_up_arrow 16 16}60 증가
+ETC_20190104_037053	Magic Critical Attack {img green_up_arrow 16 16}60	마법 치명타 공격력 {img green_up_arrow 16 16}60 증가	ETC_20180517_032716	Magic Amplification {img green_up_arrow 16 16}60	마법 증폭 {img green_up_arrow 16 16}60 증가	
 ETC_20190104_037054	AoE Attack Ratio {img green_up_arrow 16 16}1{nl}Physical critical attack {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl} 물리 치명타 공격력 {img green_up_arrow 16 16}231	ETC_20180517_032720	AoE Attack Ratio {img green_up_arrow 16 16}1{nl}Critical Attack {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl} 치명타 공격력 {img green_up_arrow 16 16}231
 ETC_20190104_037055	Drakonas Kite Moor Set	드라코나스 카이트 무어 세트			
 ETC_20190104_037056	Resistance to Poison, Fire, Ice, Electricity, Dark, Psychokinesis, Holy and Earth property attacks {img green_up_arrow 16 16}150	독, 불, 얼음, 전기, 독, 어둠, 신성, 땅, 염 속성 저항력 {img green_up_arrow 16 16}150 증가				
@@ -37341,8 +37341,8 @@ ETC_20190104_037255	Recipe - Ignas Plate Armor	제작서-이그나스 플레이�
 ETC_20190104_037256	Recipe - Ignas Pants	제작서-이그나스 팬츠			
 ETC_20190104_037257	Recipe - Ignas Leather Pants	제작서-이그나스 레더 팬츠			
 ETC_20190104_037258	Recipe - Ignas Plate Pants	제작서-이그나스 플레이트 팬츠			
-ETC_20190104_037259	Recipe - Ignas Glove	제작서-이그나스 글로브			
-ETC_20190104_037260	Recipe - Ignas Leather Glove	제작서-이그나스 레더 글로브			
+ETC_20190104_037259	Recipe - Ignas Gloves	제작서-이그나스 글로브				
+ETC_20190104_037260	Recipe - Ignas Leather Gloves	제작서-이그나스 레더 글로브				
 ETC_20190104_037261	Recipe - Ignas Plate Gauntlets	제작서-이그나스 플레이트 건틀릿			
 ETC_20190104_037262	Recipe - Ignas Boots	제작서-이그나스 부츠			
 ETC_20190104_037263	Recipe - Ignas Leather Boots	제작서-이그나스 레더 부츠			
@@ -37404,7 +37404,7 @@ ETC_20190104_037318	Account/PcEtc/Zone/Instance/Guild/session property revision	
 ETC_20190104_037319	/treechange	/계열변경기간			
 ETC_20190104_037320	/monsterdefeat	/몬스터처치			
 ETC_20190104_037321	/raidclear	/레이드클리어			
-ETC_20190104_037322	{@St59}Select Server{/}	{@st59}접속을 원하는 서버를 선택하여 주세요.			
+ETC_20190104_037322	{@St59}Selecionar Servidor{/}
 ETC_20190104_037323	You don't have enough memory.	메모리가 부족합니다.			
 ETC_20190104_037324	There is no response. Please try again after changing channels or returning to the character select screen.	데이터 응답을 받지 못했습니다. 해당 기능 이용을 위해서는 채널 이동 또는 캐릭터 선택이 필요합니다.			
 ETC_20190104_037325	You cannot learn [{NAME}].	[{NAME}] 스킬을 습득할 수 없습니다.			
@@ -37485,7 +37485,7 @@ ETC_20190104_037399	You can only install one Refreshment Table at a time.	하나
 ETC_20190104_037400	The skill requires the Companion Riding attribute.{nl}If your character is a class that is able to learn the riding attribute, try again after activating the Companion Riding attribute in the skills/attributes UI.	컴패니언 탑승 특성이 필요한 스킬입니다.{nl}컴패니언 탑승 클래스를 보유한 경우, 스킬/특성 UI에서 탑승 특성을 갱신 후 사용해주세요.	ETC_20160723_022685	You require the Companion Riding attribute to learn this skill.	컴패니언 탑승 특성이 필요한 스킬입니다.
 ETC_20190104_037401	The {OPTIONS} bonus stats of your old items will be transferred.{nl}{ADDINFO}{nl}The maximum potential of the target item cannot be exceeded.{nl}Are you sure you want to exchange?	이전 아이템의 {OPTIONS}옵션이 이전됩니다.{nl}{ADDINFO}{nl}변경될 아이템의 최대 포텐셜을 초과 할 수 없습니다.{nl}교환하시겠습니까?			
 ETC_20190104_037402	Consome {Silver} Silver para{nl}extrair {Scroll} Attribute Point Scrolls.{nl}Gostaria de extrair{nl}{ConsumePoint} Attribute Points?
-ETC_20190104_037403	Successfully added [{count}] slot(s).	[{count}]개의 슬롯이 성공적으로 추가 되었습니다.			
+ETC_20190104_037403	[{count}] slot(s) adicionado com sucesso.
 ETC_20190104_037404	You cannot add more character slots.	더 이상 캐릭터 슬롯을 추가할 수 없습니다.			
 ETC_20190104_037405	All skills	전체 스킬	SKILL_20150317_000108	Skills	스킬
 ETC_20190104_037406	Maximum level has been reached.	최대 레벨입니다.			
@@ -37564,7 +37564,7 @@ ETC_20190104_037478	Uska's Support: You have already completed Raid Completion w
 ETC_20190104_037479	The {#33FF33}[Uska's Support Sub Event]{/} has started!{nl} Monster Hunt: Defeat 5,000 monsters (for all areas except Remnants of Bernice){nl}Raid Completion: 10 times (defeat the final boss of Unique/Legend raids) 	{#33FF33}[우스카의 성장 지원 서브 이벤트]{/} 발동!{nl} 몬스터 처치 : 5,000 마리 (베르니케의 파편을 제외한 모든 지역){nl}레이드 클리어 : 10회 (유니크/레전드 레이드 최종 보스 처치) 			
 ETC_20190104_037480	[Re:Build] Your Masinios weapon has been enhanced to +11.	[Re:Build] 마시니오스 무기가 +11강화 되었습니다			
 ETC_20190104_037481	[Re:Build] Your Masinios weapon has been transcended to +5.	[Re:Build] 마시니오스 무기가 +5 초월 되었습니다			
-ETC_20190104_037482	 Your character slots have increased by +1.	 아이템을 사용해 캐릭터 슬롯이 1 증가하였습니다			
+ETC_20190104_037482	 - Aumentou a capacidade de personagens em +1.
 ETC_20190104_037483	You will receive 33 TP (free) instead, as all your character slots are currently open.	캐릭터 슬롯이 모두 개방되어 슬롯 아이템 대신 증정용 33TP 가 지급됩니다			
 ETC_20190104_037484	ENH {COUNT1} TRA {COUNT2}	{COUNT1}강화 {COUNT2}초월			
 ETC_20190104_037485	There are no applicable items.	적용할 장비 아이템이 없습니다			
@@ -40842,3 +40842,27 @@ ETC_20190209_040756	A chest filled with Leticia's most precious items. Use to ob
 ETC_20190209_040757	Event Orsha Resident F1	이벤트 오르샤 주민 여1			
 ETC_20190209_040758	GTW Open Event NPC	콜전 오픈 이벤트 NPC			
 ETC_20190209_040759	Event Girl NPC	이벤트 소녀 NPC			
+ETC_20190216_040760	Hanbok Costume Selection Box	상감과 색동 코스튬 선택상자				
+ETC_20190216_040761	Use to select one of the following items.{nl} - King Hanbok Costume x1{nl} - Striped Hanbok Costume x1{nl}	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 상감 코스튬 1개{nl} - 색동 코스튬 1개				
+ETC_20190216_040762	Spring Shade Hanbok Costume Selection Box	봄빛 한복 코스튬 선택상자				
+ETC_20190216_040763	Use to select one of the following items.{nl} - Spring Shade Hanbok Costume (Male) x1{nl} - Spring Shade Hanbok Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 봄빛 한복 코스튬 (남) 1개{nl} - 봄빛 한복 코스튬 (여) 1개				
+ETC_20190216_040764	Autumn Shade Hanbok Costume Selection Box	가을빛 한복 코스튬 선택상자				
+ETC_20190216_040765	Use to select one of the following items.{nl} - Autumn Shade Hanbok Costume (Male) x1{nl} - Autumn Shade Hanbok Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 가을빛 한복 코스튬 (남) 1개{nl} - 가을빛 한복 코스튬 (여) 1개				
+ETC_20190216_040766	Shining Golden Ichor Box (x10)	빛나는 황금 아이커 상자 (10개)				
+ETC_20190216_040767	Box containing Shining Golden Ichor Extraction Kit x10.{nl}Use to receive the items.	빛나는 황금 아이커 추출 키트 10개가 들어있는 상자입니다.{nl}사용시 아이템이 지급됩니다.				
+ETC_20190216_040768	2019 Leticia's Treasure Chest (Season 3)	2019 레티샤의 보물 상자(2월)				
+ETC_20190216_040769	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Token x3{nl} - Shining Golden Socket Box x1{nl} - Goddesses' Blessed Gem x100{nl} - Shining 8-Star Gem Abrasive x3	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 토큰 3개{nl} - 빛나는 황금 소켓 상자 1개{nl} - 여신의 축복석 100개{nl} - 빛나는 8성 젬 연마제 3개				
+ETC_20190216_040770	A special premium package. Right-click to use and obtain the following items.{nl}- Unique Support Weapon Box x1{nl}- Unique Support Weapon +11 Enhancement Voucher x1{nl}- Unique Support Weapon +5 Transcendence Voucher x1{nl}- Settlement Support Potion Lv2 x30{nl}- Lv15 Basic Condensed HP Potion x200{nl}- Lv15 Basic Condensed SP Potion x200{nl}- Attribute Points 10,000 x5{nl}- Token x1	설날 기념으로 판매되는 패키지입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.{nl} - 유니크 성장 무기상자 x1{nl} - 유니크 성장 무기 +11 강화권 x1{nl} - 유니크 성장 무기 +5 초월권 x1{nl} - 정착 지원 포션 Lv2 x30{nl} - 보급용 농축 HP포션 LV15 x200{nl} - 보급용 농축 SP포션 LV15 x200{nl}- 특성 포인트 10,000 x5{nl}- 토큰 x1				
+ETC_20190216_040771	Wake Up Card and Gem Package	까치까치 설날 카드와 젬 패키지				
+ETC_20190216_040772	A special premium package. Right-click to use and obtain the following items.{nl}- Monster Card Album: Black x9{nl}- Lv10 Enhancement Card x3{nl}- Shining 8-Star Gem Abrasive x3{nl}- Old Golden Coins x50{nl}- Ancient Golden Socket x3	설날 기념으로 판매되는 패키지입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.{nl} - 몬스터 카드첩: 블랙 x9 {nl} - Lv10 강화용 카드 x3{nl} - 빛나는 8성 젬 연마제 x3{nl} - 오래된 황금 주화 x50{nl} - 오래된 황금 소켓 x3				
+ETC_20190216_040773	Wake Up Enhancement Package	까치까치 설날 강화 패키지				
+ETC_20190216_040774	A special premium package. Right-click to use and obtain the following items.{nl}- Silver Anvil x10{nl}- Golden Anvil x5{nl}- [Lv. 390] Unique Enchant Jewel x5{nl}- [Lv. 380] +8 Transcendence Voucher x1	설날 기념으로 판매되는 패키지입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.{nl} - 은빛 모루 x10{nl} - 황금 모루 x5{nl} - [Lv. 390] 유니크 인챈트 쥬얼 x5{nl} - [Lv. 380] +8 초월권 x1				
+ETC_20190216_040775	Wake Up All-in-One Package	까치까치 설날 올인원 패키지				
+ETC_20190216_040776	A special premium package. Right-click to use and obtain the following items.{nl}- Wake Up Growth Package x1{nl}- Wake Up Enhancement Package x1{nl}- Widnium Fragment x3{nl}Widnium Fragments will be automatically removed at the end of the sale period.	설날 기념으로 판매되는 패키지입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.{nl} - 까치까치 설날 성장 패키지 x1{nl} - 까치까치 설날 카드와 젬 패키지 x1{nl} - 까치까치 설날 강화 패키지 x1{nl} - 위드니움 조각 x3{nl}위드니움 조각은 2월 21일 점검 시, 일괄 삭제됩니다.				
+ETC_20190216_040777	Deliver Widnium Fragments	위드니움 조각 전달				
+ETC_20190216_040778	You already have a [Wake Up] weapon that has reached stage 5 transcendence.	이미 인벤토리에 5초월을 한 [까치까치 설날] 무기가 있습니다.				
+ETC_20190216_040779	You already have a [Wake Up] weapon that has reached +11 enhancement.	이미 인벤토리에 강화가 11단계인 [까치까치 설날] 무기가 있습니다.				
+ETC_20190216_040780	You must have only one [Wake Up] weapon in your inventory.	인벤토리에 [까치까치 설날] 무기가 하나만 있어야 합니다.				
+ETC_20190216_040781	You do not have a [Wake Up] weapon in your inventory.	인벤토리에 [까치까치 설날] 무기가 없습니다.				
+ETC_20190216_040782	Give	건네준다				
+ETC_20190216_040783	Days remaining until Widnium Fragment exchange	위드니움 조각 교환까지 남은 일수				
