@@ -37485,7 +37485,7 @@ ETC_20190104_037399	You can only install one Refreshment Table at a time.	하나
 ETC_20190104_037400	The skill requires the Companion Riding attribute.{nl}If your character is a class that is able to learn the riding attribute, try again after activating the Companion Riding attribute in the skills/attributes UI.	컴패니언 탑승 특성이 필요한 스킬입니다.{nl}컴패니언 탑승 클래스를 보유한 경우, 스킬/특성 UI에서 탑승 특성을 갱신 후 사용해주세요.	ETC_20160723_022685	You require the Companion Riding attribute to learn this skill.	컴패니언 탑승 특성이 필요한 스킬입니다.
 ETC_20190104_037401	The {OPTIONS} bonus stats of your old items will be transferred.{nl}{ADDINFO}{nl}The maximum potential of the target item cannot be exceeded.{nl}Are you sure you want to exchange?	이전 아이템의 {OPTIONS}옵션이 이전됩니다.{nl}{ADDINFO}{nl}변경될 아이템의 최대 포텐셜을 초과 할 수 없습니다.{nl}교환하시겠습니까?			
 ETC_20190104_037402	Consome {Silver} Silver para{nl}extrair {Scroll} Attribute Point Scrolls.{nl}Gostaria de extrair{nl}{ConsumePoint} Attribute Points?
-ETC_20190104_037403	Successfully added [{count}] slot(s).	[{count}]개의 슬롯이 성공적으로 추가 되었습니다.			
+ETC_20190104_037403	[{count}] slot(s) adicionado com sucesso.
 ETC_20190104_037404	You cannot add more character slots.	더 이상 캐릭터 슬롯을 추가할 수 없습니다.			
 ETC_20190104_037405	All skills	전체 스킬	SKILL_20150317_000108	Skills	스킬
 ETC_20190104_037406	Maximum level has been reached.	최대 레벨입니다.			
@@ -37564,7 +37564,7 @@ ETC_20190104_037478	Uska's Support: You have already completed Raid Completion w
 ETC_20190104_037479	The {#33FF33}[Uska's Support Sub Event]{/} has started!{nl} Monster Hunt: Defeat 5,000 monsters (for all areas except Remnants of Bernice){nl}Raid Completion: 10 times (defeat the final boss of Unique/Legend raids) 	{#33FF33}[우스카의 성장 지원 서브 이벤트]{/} 발동!{nl} 몬스터 처치 : 5,000 마리 (베르니케의 파편을 제외한 모든 지역){nl}레이드 클리어 : 10회 (유니크/레전드 레이드 최종 보스 처치) 			
 ETC_20190104_037480	[Re:Build] Your Masinios weapon has been enhanced to +11.	[Re:Build] 마시니오스 무기가 +11강화 되었습니다			
 ETC_20190104_037481	[Re:Build] Your Masinios weapon has been transcended to +5.	[Re:Build] 마시니오스 무기가 +5 초월 되었습니다			
-ETC_20190104_037482	 Your character slots have increased by +1.	 아이템을 사용해 캐릭터 슬롯이 1 증가하였습니다			
+ETC_20190104_037482	 - Aumentou a capacidade de personagens em +1.
 ETC_20190104_037483	You will receive 33 TP (free) instead, as all your character slots are currently open.	캐릭터 슬롯이 모두 개방되어 슬롯 아이템 대신 증정용 33TP 가 지급됩니다			
 ETC_20190104_037484	ENH {COUNT1} TRA {COUNT2}	{COUNT1}강화 {COUNT2}초월			
 ETC_20190104_037485	There are no applicable items.	적용할 장비 아이템이 없습니다			
