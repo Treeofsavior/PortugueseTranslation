@@ -12921,7 +12921,7 @@ SKILL_20190104_012920	Cria um escudo protetivo ao redor de você que absorve os 
 SKILL_20190104_012921	Dano recebido: -#{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos
 SKILL_20190104_012922	Causa um poderoso terremoto na sua frente, causando dano nos inimigos.
 SKILL_20190104_012923	Usa míssies mágicos para criar um ataque contínuo. Novos mísseis são disparados se o ataque acertar um alvo. Causa 50% de dano adicional em inimigos afetados por [Slow].
-SKILL_20190104_012924	Multiplicador: #{SkillFactor}#% x 3{nl}Bullet Count: 5	스킬 계수 #{SkillFactor}#% x 3회{nl}생성되는 탄환 5개	SKILL_20170420_008494	Attack: #{SkillFactor}#% x 3{nl}Bullet Count: #{CaptionRatio2}#	공격력 #{SkillFactor}#% x 3회{nl}생성되는 탄환 #{CaptionRatio2}#개	
+SKILL_20190104_012924	Multiplicador: #{SkillFactor}#% x 3{nl}Quantidade de mísseis: 5
 SKILL_20190104_012925	Invoca uma bola de fogo na área selecionada. Inimigos que tocarem esta bola de fogo receberão dano do elemento Fogo. [Fireball] não acertará o mesmo inimigo duas vezes. Você pode usar até 5 bolas de fogo.{nl}{#00113F}Utilizar [Storm Dust] junto com [Fireball] aplica o dano de [Fireball] dentro da área de [Storm Dust].{/}
 SKILL_20190104_012926	Multiplicador: #{SkillFactor}#%{nl}Duração: #{CaptionRatio}# segundos
 SKILL_20190104_012927	Cria uma barreira de fogo que causa dano contínuo nos inimigos que se aproximarem. Inimigos que sofrerem dano serão empurrados.
