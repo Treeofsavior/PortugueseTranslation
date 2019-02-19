@@ -3256,10 +3256,10 @@ UI_20180629_003255	{@st66d}Para o Shop{/}
 UI_20180629_003256	{@st66d}Comprar{/}
 UI_20180629_003257	{s17}Lista de cupons
 UI_20180629_003258	{@st66b}Usar
-UI_20180629_003259	{@st43}Barber Shop Coupon Book
-UI_20180629_003260	Exchange Stamps
-UI_20180629_003261	※{b}{ol}{#c21917}Stamps are consumed when you exchange them.{/}{/}{/}{nl}Each type of coupon consumes a different number of stamps.
-UI_20180629_003262	{img barbershop_couponbook_stamp 30 30} %s stamps
+UI_20180629_003259	{@st43}Cupons da Barbearia
+UI_20180629_003260	Trocar Estampas
+UI_20180629_003261	※{b}{ol}{#c21917}Estampas são consumidas quando realizar uma troca.{/}{/}{/}{nl}Cada tipo de cupom requer uma quantidade diferente de estampas.
+UI_20180629_003262	{img barbershop_couponbook_stamp 30 30} %s estampas
 UI_20180629_003263	{@st59}Fechar.{/}
 UI_20180629_003264	{@st43}Mudar Visual das Armas{/}
 UI_20180629_003265	{@st66b}Potencial Atual
