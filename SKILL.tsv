@@ -10024,7 +10024,7 @@ SKILL_20171128_010023	* Increases damage with [Demon Scratch] by 0.5% per attrib
 SKILL_20171128_010024	Dark Theurge: Anguish	다크써지: 절망				
 SKILL_20171128_010025	* Increases damage dealt with [Dark Theurge] to enemies debuffed with [Fear] by 10% per attribute level{nl}* Consumo de SP + 100%	* 스킬 [다크써지]가 [공포] 디버프에 걸린 적에게 주는 대미지가 특성 레벨당 10% 증가{nl}* SP 소모 100%증가				
 SKILL_20171128_010026	Medo da Escuridão
-SKILL_20171128_010027	* Enemies attacked with [Mastema], [Pole of Agony], or [Demon Scratch] receive the [Fear] debuff{nl}* Consumo de SP + 50%	* [마스테마], [폴 오브 아고니], [데몬 스크래치]에 공격당한 적은 [공포] 디버프에 걸림{nl}* SP 소모 50%증가				
+SKILL_20171128_010027	* Inimigos alvejados por [Mastema], [Pole of Agony] ou [Demon Scratch] sofrerão [Fear].{nl}* Consumo de SP + 50%
 SKILL_20171128_010028	Dark Theurge: Espírito Maligno Forte
 SKILL_20171128_010029	* Applies double the hits with [Dark Theurge]{nl}* Consumo de SP + 50%	* 스킬 [다크써지]의 연타 수가 두배 적용{nl}* SP 소모 50%증가				
 SKILL_20171128_010030	Kurdaitcha: Blood's Footprint	커다이챠: 피의 발자국				
@@ -12891,7 +12891,7 @@ SKILL_20190104_012890	Altera o cooldown de [Te Kha], [Sok Chiang], [Te Trong] e 
 SKILL_20190104_012891	Joga a sua Rete nos inimigos próximos e puxa eles até você. Inimigos presos pela Rete ficam momentaneamente imcapacitados de se mover e recebem dano adicional de ataques do tipo [Perfurante], desde que sejam feitos utilizando uma Lança de 1 Mão.
 SKILL_20190104_012892	Duração: 7 segundos{nl}Alvos: #{CaptionRatio2}#{nl}Dano com Lança de 1 Mão: +#{CaptionRatio}#%{nl}Consome Rete x1
 SKILL_20190104_012893	Joga a sua Rete em uma área designada, imobilizando os inimigos presos nela. Aplica 1/3 da duração em outros personagens e 1/2 em monstros Chefes. Inimigos presos pela Rete recebem dano adicional de ataques do tipo [Perfurante], desde que sejam feitos utilizando uma Lança de 1 Mão.
-SKILL_20190104_012894	Duração: 7 segundos{nl}Alvos: #{CaptionRatio2}#{nl}Dano com Lança de 1 Mão: +#{CaptionRatio3}#%{nl}Consome Rete x1
+SKILL_20190104_012894	Duração: #{CaptionRatio}# segundos{nl}Alvos: #{CaptionRatio2}#{nl}Dano com Lança de 1 Mão: +#{CaptionRatio3}#%{nl}Consome Rete x1
 SKILL_20190104_012895	Permite bloquear enquanto utilizar uma Adaga. Aumenta o Bloqueio contra dano físico. [Dagger Guard] cancela automaticamente se você parar de usar uma Adaga.
 SKILL_20190104_012896	+#{CaptionRatio}#% de Bloqueio contra dano físico{nl}Duração: 20 segundos
 SKILL_20190104_012897	Perfura os inimigos e causa dano com a sua Lança. Atacar inimigos presos por [Pull Rete], [Throw Rete] ou [Arrest] garante uma maior Taxa de Crítico e previne evasões.
@@ -12921,7 +12921,7 @@ SKILL_20190104_012920	Cria um escudo protetivo ao redor de você que absorve os 
 SKILL_20190104_012921	Dano recebido: -#{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos
 SKILL_20190104_012922	Causa um poderoso terremoto na sua frente, causando dano nos inimigos.
 SKILL_20190104_012923	Usa míssies mágicos para criar um ataque contínuo. Novos mísseis são disparados se o ataque acertar um alvo. Causa 50% de dano adicional em inimigos afetados por [Slow].
-SKILL_20190104_012924	Multiplicador: #{SkillFactor}#% x 3{nl}Bullet Count: 5	스킬 계수 #{SkillFactor}#% x 3회{nl}생성되는 탄환 5개	SKILL_20170420_008494	Attack: #{SkillFactor}#% x 3{nl}Bullet Count: #{CaptionRatio2}#	공격력 #{SkillFactor}#% x 3회{nl}생성되는 탄환 #{CaptionRatio2}#개	
+SKILL_20190104_012924	Multiplicador: #{SkillFactor}#% x 3{nl}Quantidade de mísseis: 5
 SKILL_20190104_012925	Invoca uma bola de fogo na área selecionada. Inimigos que tocarem esta bola de fogo receberão dano do elemento Fogo. [Fireball] não acertará o mesmo inimigo duas vezes. Você pode usar até 5 bolas de fogo.{nl}{#00113F}Utilizar [Storm Dust] junto com [Fireball] aplica o dano de [Fireball] dentro da área de [Storm Dust].{/}
 SKILL_20190104_012926	Multiplicador: #{SkillFactor}#%{nl}Duração: #{CaptionRatio}# segundos
 SKILL_20190104_012927	Cria uma barreira de fogo que causa dano contínuo nos inimigos que se aproximarem. Inimigos que sofrerem dano serão empurrados.
@@ -12993,7 +12993,7 @@ SKILL_20190104_012992	Aumenta o tempo de cooldown de uma habilidade aleatória p
 SKILL_20190104_012993	Cooldown: +#{CaptionRatio}# segundos{nl}Alvos: 5
 SKILL_20190104_012994	Libera uma energia maligna no seu oponente. Os corpos dos monstros alvejados podem ser coletados após derrotados.
 SKILL_20190104_012995	Multiplicador: #{SkillFactor}#%{nl}Duração: #{CaptionRatio2}# segundos{nl}Taxa de Ataque em Área: #{SkillSR}#
-SKILL_20190104_012996	Dano do Shoggoth: +#{CaptionRatio}#%{nl}Defesa do Shoggoth: +#{CaptionRatio2}#%{nl}Consome Corpse x#{CaptionTime}#{nl}Duração: 900 segundos
+SKILL_20190104_012996	Ataque do Shoggoth: +#{CaptionRatio}#%{nl}Defesa do Shoggoth: +#{CaptionRatio2}#%{nl}Consome Corpse x#{CaptionTime}#{nl}Duração: 900 segundos
 SKILL_20190104_012997	Joga fragmentos corporais em uma área selecionada, causando dano nos inimigos ao redor. [Necromancer Bane] será aplicado nos inimigos alvejados.
 SKILL_20190104_012998	Multiplicador: #{SkillFactor}#% x 16{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}#{CaptionRatio2}#% de chance de aplicar 5 acúmulos de [Necromancer Bane]{nl}Consome Corpse x#{CaptionRatio}#
 SKILL_20190104_012999	Protege a si mesmo com fragmentos corporais que causam dano nos inimigos ao redor. Chance de causar dano adicional em inimigos afetador por [Decay]. Inimigos alvejados serão afetados por [Necromancer Bane].
@@ -13318,7 +13318,7 @@ SKILL_20190104_013318	Multiplicador: #{SkillFactor}#% a cada 0.3 segundos{nl}Nú
 SKILL_20190104_013319	Marque um estigma no inimigo e cause dano mágico de Fogo. O inimigo estigmatizado receberá dano adicional e, ao ser derrotado, aumentará seus atributos de STR e INT momentaneamente.
 SKILL_20190104_013320	Multiplicador: #{SkillFactor}#%{nl}STR e INT: +#{CaptionRatio}#%{nl}Duração do buff: #{CaptionTime}# segundos{nl}Duração de [Divine Stigma]: 15 segundos{nl}Dano adicional: +#{CaptionRatio2}#%{nl}Quantidade de Alvos: 5
 SKILL_20190104_013321	Aplica um buff que extende a duração de efeitos benéficos em si próprio. A quantidade de tempo extendida não passará de 20 segundos. Não se aplica a efeitos de invencibilidade.
-SKILL_20190104_013322	Espalha Holy Water para aumentar a sua Defesa Física e a dos aliados, além de causar dano nos inimigos.
+SKILL_20190104_013322	Espalha Holy Water para aumentar a sua Defesa Física e a dos aliados.
 SKILL_20190104_013323	Defesa Física: +#{CaptionRatio}#%{nl}Alvos: 10{nl}Duração: #{CaptionTime}# segundos{nl}Consome Holy Water x1
 SKILL_20190104_013324	Reduz a Evasão de inimigos à sua frente.
 SKILL_20190104_013325	Evasão do inimigo: -#{CaptionRatio2}#%{nl}Duração: 30 segundos
@@ -13659,7 +13659,7 @@ SKILL_20190104_013659	Property Effects Against Opposite Properties Increased	약
 SKILL_20190104_013660	Additional Lightning Damage on Taoist Skill Attacks	도사 스킬로 공격시 전기 속성 추가대미지				
 SKILL_20190104_013661	All attacks applied as critical.	적 공격시 치명타로 발동됩니다.				
 SKILL_20190104_013662	Durability Penalty Upon Death Reduced	사망 시 감소하는 장비 내구도가 줄어듦				
-SKILL_20190104_013663	Increased Basic Movement Speed	기본 공격 속도가 빨라짐				
+SKILL_20190104_013663	Increased basic attack speed.	기본 공격 속도가 빨라짐				
 SKILL_20190104_013664	Resistance to Knockback and Knockdown	넉백, 넉다운 저항				
 SKILL_20190104_013665	Basic attack and additional hit damage accumulated.	기본 공격, 추가타 대미지를 축적합니다.				
 SKILL_20190104_013666	Pierce and Missile Damage Increase	찌르기, 미사일 대미지 증가				
@@ -13804,7 +13804,7 @@ SKILL_20190104_013804	Grants a (2.5 * Ignas - Immunity stacks)% chance of resist
 SKILL_20190104_013805	Tactics	전술				
 SKILL_20190104_013806	Triggers Ignas - Tactics with every critical attack.	치명타 공격시 이그나스 - 전술이 발동합니다.				
 SKILL_20190104_013807	Ignas - Tactics	이그나스 - 전술				
-SKILL_20190104_013808	Magic critical attack +250 (maximum 250 stacks).	마법 치명타 공격력 250 증가 (최대 2회 중첩)				
+SKILL_20190104_013808	Magic Critical Attack +250 (maximum 2 stacks).	마법 치명타 공격력 250 증가 (최대 2회 중첩)				
 SKILL_20190104_013809	Dragon Strength	드래곤 기운				
 SKILL_20190104_013810	The energy of the dragon amplifies or supplements certain stats and equipment.	드래곤의 기운은 특정 능력,장비를 증폭하거나 보완합니다.				
 SKILL_20190104_013811	Change Property Attack	속성 공격 변경				
@@ -14450,7 +14450,7 @@ SKILL_20190104_014450	* Aumenta o Multiplicador de [Malleus Maleficarum] em 0.5%
 SKILL_20190104_014451	* Aumenta o Multiplicador de [Ripper] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014452	* Increases the skill factor of [Entrenchment] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [인족부지법]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010936	* Increases the damage dealt on an enemy with [Entrenchment] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [인족부지법]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190104_014453	* Increases the skill factor of [Hurling] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [인중법]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010937	* Increases the damage dealt on an enemy with [Hurling] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [인중법]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190104_014454	* Increases the skill factor of [Storm Calling] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [호풍환우]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010938	* Increases the damage dealt on an enemy with [Storm Calling] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [호풍환우]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
+SKILL_20190104_014454	* Aumenta o Multiplicador de [Storm Calling] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014455	* Aumenta o Multiplicador de [Begone Demon] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014456	* Aumenta o Multiplicador de [Divine Punishment] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190104_014457	* Aumenta o Multiplicador de [Eradication] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
@@ -14976,3 +14976,9 @@ SKILL_20190126_014976	(Unused) Frenzy: Enhance	(미사용)프렌지: 강화	SKIL
 SKILL_20190126_014977	* Aplica uma chance de saquear Silver sempre que atacar um monstro em mapas comuns.{nl}* Os efeitos de [Pilhagem] ativam somente 1 vez por monstro.{nl}* Ativa somente se o líder do grupo é um Corsair
 SKILL_20190126_014978	Elemento Fogo: Amplificar
 SKILL_20190126_014979	* Garante 30% de chance por ataque (incluindo ataques básicos) de aumentar em 30% o dano de ataques do elemento Fogo, com duração de 5 segundos
+SKILL_20190209_014980	Ataca o alvo utilizando facas de entalhe. Monstros da raça Planta sofrem dano adicional.
+SKILL_20190209_014981	Multiplicador: #{SkillFactor}#% x 5{nl}+#{CaptionRatio}# de dano contra raça Planta{nl}Taxa de Ataque em Área: 1
+SKILL_20190216_014982	Usa o poder da Deusa para vingar-se dos ataques inimigos, retornando o dano que eles causarem multiplicado por 7. Não aplica em alguns monstros Chefe.{nl}{#00113F}Se [Omikuji] estiver ativo, [Revenged Sevenfold] causa [Great Curse] no inimigo quando ativado.{/}
+SKILL_20190216_014983	A beautiful, multicolored effect.	우리 것이 좋은, 아름다운 단청 이펙트입니다.				
+SKILL_20190216_014984	A sweet burst effect.	달콤함이 팡팡 터지는 이펙트입니다.				      
+SKILL_20190216_014985	(Old) Storm Calling: Enhance	(전)호풍환우: 강화	SKILL_20161005_007129	Storm Calling: Enhance	호풍환우: 강화	
