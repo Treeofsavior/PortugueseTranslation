@@ -1909,9 +1909,9 @@ ETC_20150317_001908	(Attack Resistance)
 ETC_20150317_001909	Requires a record in the Diário de Aventura. Press the A key to update whilst sitting.
 ETC_20150317_001910	You can now use the [{Auto_1}] title.
 ETC_20150317_001911	Attributes
-ETC_20150317_001912	{@st59} Click for more information {/}
+ETC_20150317_001912	{@st59}Clique para mais informações{/}
 ETC_20150317_001913	O próximo nível de habilidade requer que avançe para a mesma classe.
-ETC_20150317_001914	Use um Ponto de Skill para aumentar o nível da Habilidade.
+ETC_20150317_001914	Use 1 Ponto para aumentar o nível da Habilidade.
 ETC_20150317_001915	Equipamento
 ETC_20150317_001916	Desativado
 ETC_20150317_001917	 Ativado
@@ -2817,7 +2817,7 @@ ETC_20150317_002816	Normal
 ETC_20150317_002817	Difícil
 ETC_20150317_002818	Muito Difícil
 ETC_20150317_002819	{S22}{ol}Next Quest Level: {Auto_1}
-ETC_20150317_002820	Area: 
+ETC_20150317_002820	Área: 
 ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} {/}
 ETC_20150317_002822	{@st41}Reward Received:
 ETC_20150317_002823	{@st64} Aproxime-se do NPC e aperte 
@@ -2826,7 +2826,7 @@ ETC_20150317_002825	 para iniciar uma conversa
 ETC_20150317_002826	Abandonar Missão
 ETC_20150317_002827	Abandonar
 ETC_20150317_002828	Warp to
-ETC_20150317_002829	Objective: 
+ETC_20150317_002829	Objetivo: 
 ETC_20150317_002830	Warrior Type
 ETC_20150317_002831	Wizard Type
 ETC_20150317_002832	Archer Type
@@ -3530,12 +3530,12 @@ ETC_20150317_003529	Even here, there are Large Kepas!
 ETC_20150317_003530	Get rid of the charging Kepas!
 ETC_20150317_003531	Get rid of the Chinencys!
 ETC_20150317_003532	Derrote the Chinencys!
-ETC_20150317_003533	Get rid of the Hanamings!
+ETC_20150317_003533	Se livre dos Hanamings!
 ETC_20150317_003534	Chase the Hamming!
 ETC_20150317_003535	Derrote the Large Kepa!
 ETC_20150317_003536	Derrote the sealed Golem!
 ETC_20150317_003537	Get rid of the Kepa blocking the road!
-ETC_20150317_003538	Ask about the dream
+ETC_20150317_003538	Perguntar sobre o sonho
 ETC_20150317_003539	Ask about the story
 ETC_20150317_003540	Pester and ask about the story
 ETC_20150317_003541	You must talk with the guards first
@@ -3811,7 +3811,7 @@ ETC_20150317_003810	Quest Starting Map:
 ETC_20150317_003811	Start NPC:
 ETC_20150317_003812	 activated {nl}
 ETC_20150317_003813	 Use this to warp anywhere!
-ETC_20150317_003814	You have not activated any other Goddess Statue, so you cannot teleport yet.
+ETC_20150317_003814	Você não ativou nenhuma outra Estátua da Deusa,{nl}então você não pode teleportar ainda.
 ETC_20150317_003815	The rest of the area
 ETC_20150317_003816	Rest of the camp
 ETC_20150317_003817	2. Select Siauliai ??Select West Siauliai Woods
@@ -4231,7 +4231,7 @@ ETC_20150317_004230	Run Script
 ETC_20150317_004231	Enter name
 ETC_20150317_004232	Please select at least one
 ETC_20150317_004233	{@st41} Gesture List
-ETC_20150317_004234	 [Main] 
+ETC_20150317_004234	[Principal]
 ETC_20150317_004235	{@st55_b}{b}Recompensa{/}
 ETC_20150317_004236	{@st55_c}Experience:
 ETC_20150317_004237	Esperando o outro jogador aceitar...
@@ -4307,11 +4307,11 @@ ETC_20150317_004306	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Navigation Rate
 ETC_20150317_004307	{Cl}{s16}{ol}{#ffcc33}{Auto_1}{Auto_2} complete
 ETC_20150317_004308	{b}Recompensa
 ETC_20150317_004309	EXP:
-ETC_20150317_004310	Please select a reward.
+ETC_20150317_004310	Por favor, escolha uma recompensa.
 ETC_20150317_004311	{@st45w3}{s18}{Auto_1} 1
 ETC_20150317_004312	{@st41}Repeatable Quest Finalization Reward{/}
-ETC_20150317_004313	{@st41}Select a reward
-ETC_20150317_004314	{@st41}Reward{/}
+ETC_20150317_004313	{@st41}Escolha uma recompensa
+ETC_20150317_004314	{@st41}Recompensa{/}
 ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} ea
 ETC_20150317_004316	{@st41b} Increase selected number
 ETC_20150317_004317	(TPs {Auto_1} consumption)
@@ -4693,7 +4693,7 @@ ETC_20150317_004692	Number of selected items
 ETC_20150317_004693	Default
 ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Datatree_tooltipset {nl}
 ETC_20150317_004695	{#050505}{s18}{b} Socket Effect :
-ETC_20150317_004696	{#050505}{s22}{b} Item Effect :
+ETC_20150317_004696	{#050505}{s22}{b}Efeito do Item:
 ETC_20150317_004697	{@st42} Use
 ETC_20150317_004698	Shop for sale
 ETC_20150317_004699	Shop not for sale
@@ -4761,7 +4761,7 @@ ETC_20150317_004760	 (usando)
 ETC_20150317_004761	Gelo
 ETC_20150317_004762	{@st41} icon
 ETC_20150317_004763	{@st41}List
-ETC_20150317_004764	{@st54}{b}Select Reward{/}
+ETC_20150317_004764	{@st54}{b}Escolha uma Recompensa{/}
 ETC_20150317_004765	Nudoku I was mounting the Son Bol pocket in Kochi.
 ETC_20150317_004766	Can only be used on Bagworms!
 ETC_20150317_004767	Can only be used on Truffles!
@@ -4782,7 +4782,7 @@ ETC_20150317_004781	About Goddess Laima
 ETC_20150317_004782	About Goddess Gabija
 ETC_20150317_004783	About Goddess Zemyna
 ETC_20150317_004784	About Goddess Vakarine
-ETC_20150317_004785	Ask about Medzio Diena
+ETC_20150317_004785	Perguntar sobre Medzio Diena
 ETC_20150317_004786	Ask what happened next
 ETC_20150317_004787	You've found a lever handle latch!
 ETC_20150317_004788	I found the information about the flow of horsepower.
@@ -4882,13 +4882,13 @@ ETC_20150317_004881	Default session:
 ETC_20150317_004882	Other sessions:
 ETC_20150317_004883	Session List by made NPC creation without basic session
 ETC_20150317_004884	Please check the details of quest by pressing the key{nl}{@st50}Detailed information can be found through the help
-ETC_20150317_004885	 permite que você se teleporte de volta para o NPC da Quest.{nl}{@st50}Você também pode clicar no botão {img questinfo_return 40 40}{/}
+ETC_20150317_004885	 permite que você se teleporte de volta para o NPC da Missão.{nl}{@st50}Você também pode clicar no botão {img questinfo_return 40 40}{/}
 ETC_20150317_004886	{@st50}Key of the Quest Information{/}
 ETC_20150317_004887	The Shaman Doll destroyed the Panto Totem!
 ETC_20150317_004888	The Divino beads have been charged by attacking the Demon forces.
-ETC_20150317_004889	Status Point Distribution
-ETC_20150317_004890	Skill Point Distribution
-ETC_20150317_004891	Move to Klaipeda Entrance
+ETC_20150317_004889	Distribuição dos Pontos de Atributos
+ETC_20150317_004890	Distribuição dos Pontos de Habilidades
+ETC_20150317_004891	Mover para a entrada de Klaipeda
 ETC_20150317_004892	Complete[300]
 ETC_20150317_004893	The Gesti is near.{nl}Try to not get detected!
 ETC_20150317_004894	Acquired a piece of barrier.{nl}Put into the central pillar
@@ -5018,12 +5018,12 @@ ETC_20150317_005017	Using the Liberation Elixir
 ETC_20150317_005018	Making Fogo
 ETC_20150317_005019	Lit the hEarth!
 ETC_20150317_005020	Acquired the record from the Ruklys Era!
-ETC_20150317_005021	{@st41}Open your inventory by pressing the {img F2 40 40} key and use the EXP card. {nl} {@st50} The {img icon_item_expcard 40 40} EXP card will reward you with experience points. {/}
+ETC_20150317_005021	{@st41}Abra seu Inventário pressionando o botão {img F2 40 40} e use o EXP Card.{nl}{@st50}O {img icon_item_expcard 40 40} EXP card vai premiar você com pontos de experiência.{/}
 ETC_20150317_005022	The Mausoleum lanterns are being attacked by the guardians!
 ETC_20150317_005023	Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
 ETC_20150317_005025	Construção
-ETC_20150317_005026	A Revelator?
+ETC_20150317_005026	Um Revelador?
 ETC_20150317_005027	Ask about the current situation
 ETC_20150317_005028	Ask about Medzio Diena
 ETC_20150317_005029	Ask about the disappearance of the goddesses
@@ -5097,7 +5097,7 @@ ETC_20150317_005096	Pot
 ETC_20150317_005097	Great Cathedral Candlestick
 ETC_20150317_005098	Barrier Candlestick
 ETC_20150317_005099	Video
-ETC_20150317_005100	Stop right there!
+ETC_20150317_005100	Parado aí mesmo!
 ETC_20150317_005101	This is a restricted area.
 ETC_20150317_005102	Yes!
 ETC_20150317_005103	Out of the way
@@ -5359,18 +5359,18 @@ ETC_20150317_005358	What's this screaming sound?
 ETC_20150317_005359	Prepare for battle!
 ETC_20150317_005360	It's a surprise attack!!
 ETC_20150317_005361	Refugee
-ETC_20150317_005362	It's... It's moving!!
-ETC_20150317_005363	It's... It's a Golem!!!
-ETC_20150317_005364	Why are there Golem remains here?
-ETC_20150317_005365	Hey!!! It's dangerous!! Run!!
-ETC_20150317_005366	Is it dead?
-ETC_20150317_005367	Huh...!!
-ETC_20150317_005368	Derrote the Large Kepa!
-ETC_20150317_005369	It's a Large Kepa!
+ETC_20150317_005362	Está... Está vivo!!
+ETC_20150317_005363	É... É um Golem!!
+ETC_20150317_005364	Por que tem pedaços de Golem aqui?
+ETC_20150317_005365	Ei!!! É perigoso!! Corra!!
+ETC_20150317_005366	Está morto?
+ETC_20150317_005367	O que...!!
+ETC_20150317_005368	Derrote o Large Kepa!
+ETC_20150317_005369	É um Large Kepa!
 ETC_20150317_005370	Alchemist Vaidotas
 ETC_20150317_005371	Lot 2 Closure Notice
 ETC_20150317_005372	Evacuate the residents!
-ETC_20150317_005373	Stop that person!!
+ETC_20150317_005373	Parem esta pessoa!
 ETC_20150317_005374	Eastern Woods Soldier
 ETC_20150317_005375	Come on let's go! Honey! Dad!
 ETC_20150317_005376	That's really good news. Let's go!
@@ -6047,7 +6047,7 @@ ETC_20150317_006047	is used to warp to other areas.
 ETC_20150317_006048	To use the warp function, the 
 ETC_20150317_006049	 of the area needs to be activated
 ETC_20150317_006050	can obtain character's Status Points
-ETC_20150317_006051	Treasure Chest
+ETC_20150317_006051	Baú do Tesouro
 ETC_20150317_006052	 contain special items that you can obtain.
 ETC_20150317_006053	Hidden in many fields, a 
 ETC_20150317_006054	 can be discovered by your character.
@@ -9067,7 +9067,7 @@ ETC_20150317_009067	Paladin Mestre Follower (A)
 ETC_20150317_009068	Paladin Mestre Follower (B)
 ETC_20150317_009069	Paladin Mestre Follower (D)
 ETC_20150317_009070	Basement Temple Central Barrier
-ETC_20150317_009071	Lv2 Treasure Chest
+ETC_20150317_009071	Baú do Tesouro Nv2
 ETC_20150317_009072	Small Cathedral Underground Second Floor
 ETC_20150317_009073	Small Cathedral Ground Second Floor
 ETC_20150317_009074	Central Barrier
@@ -9078,7 +9078,7 @@ ETC_20150317_009078	Dragon Ascent
 ETC_20150317_009079	Strange Paper
 ETC_20150317_009080	Invisible Trigger
 ETC_20150317_009081	Suspicious Wheels
-ETC_20150317_009082	Lv3 Treasure Chest
+ETC_20150317_009082	Baú do Tesouro Nv3
 ETC_20150317_009083	Hauberk
 ETC_20150317_009084	1st Spell Power Suppressor
 ETC_20150317_009085	2nd Spell Power Suppressor
@@ -9096,7 +9096,7 @@ ETC_20150317_009096	2st Thorn Gate Pillar_1
 ETC_20150317_009097	3rd Thorn Gate Pillar
 ETC_20150317_009098	1st Thorn Gate Pillar_2
 ETC_20150317_009099	2st Thorn Gate Pillar_2
-ETC_20150317_009100	Lv1 Treasure Chest
+ETC_20150317_009100	Baí do Tesouro Nv1
 ETC_20150317_009101	Jibyu Griba
 ETC_20150317_009102	Alan
 ETC_20150317_009103	Wise
@@ -9464,7 +9464,7 @@ ETC_20150317_009464	Sviesa Altar
 ETC_20150317_009465	High Crooked Road
 ETC_20150317_009466	Registro de Varkis
 ETC_20150317_009467	Royal Mausoleum Guardian Device
-ETC_20150317_009468	Lv1 Treasure Chest
+ETC_20150317_009468	Baú do Tesouro Nv1
 ETC_20150317_009469	Derrote the Woodspirit Quest trigger
 ETC_20150317_009470	Rock with moss
 ETC_20150317_009471	Bokor Fray's favor (3)
@@ -11788,7 +11788,7 @@ ETC_20150714_011789	This is a restricted area!
 ETC_20150714_011790	I will take care of this.
 ETC_20150714_011791	This one passes.
 ETC_20150714_011792	Return to your positions!
-ETC_20150714_011793	Stop that person!
+ETC_20150714_011793	Pare esta pessoa!
 ETC_20150714_011794	Hush, don't get spotted. Hurry!
 ETC_20150714_011795	Derrote the attacking Glackuman!
 ETC_20150714_011796	Petrification Detector
@@ -20029,7 +20029,7 @@ ETC_20151224_020023	Protech Malda Altar from the monsters
 ETC_20151224_020024	The Chapparition who failed to destroy the altar is escaping{nl}Derrote Chapparition before it reaches the portal!
 ETC_20151224_020025	Completed [Returning Crisis] Event
 ETC_20151224_020026	Failed [Returning Crisis]{nl}The Chapparition managed to escaped.
-ETC_20151224_020027	Select Reward
+ETC_20151224_020027	Escolha uma Recompensa
 ETC_20151224_020028	Objective completed!{nl}Mover para Royal Mausoleum Workers Lodge
 ETC_20151224_020029	There are monsters coming out from the Royal Mausoleum Workers Lodge
 ETC_20151224_020030	Gorgon is coming out from the Royal Mausoleum Workers Lodge
@@ -20929,7 +20929,7 @@ ETC_20160310_020923	Priest Dominikas! What is going on?
 ETC_20160310_020924	Glutton has appeared from the magic circle of Dominikas!{nl}Derrote Dominikas!
 ETC_20160310_020925	A strange scent has spread instantly!
 ETC_20160310_020926	Derrote the Carapace who is attracted by the scent!
-ETC_20160310_020927	Stop right there!
+ETC_20160310_020927	Parado aí mesmo!
 ETC_20160310_020928	Mayor Moze
 ETC_20160310_020929	How could you do something like that!
 ETC_20160310_020930	Bury him before someone sees us!
@@ -27652,16 +27652,16 @@ ETC_20170330_027625	Criada uma nova sala.
 ETC_20170330_027626	{Name} entrou.
 ETC_20170330_027627	{Name} saiu.	
 ETC_20170330_027628	Blocked player.	차단된 대상입니다.				
-ETC_20170330_027629	(Level {Auto_1} alcançado na conclusão)	(완료 시 {Auto_1} 레벨 달성)	ETC_20150317_001942	{Auto_1} level achievement when completed {@st42b}	{@st42b}완료 시 {Auto_1} 레벨 달성	
+ETC_20170330_027629	(Nível {Auto_1} alcançado na conclusão)
 ETC_20170330_027630	{COUNT} out of {MAXCOUNT} completed.	총 {MAXCOUNT}회 중 {COUNT}회 완료하셨습니다.				
 ETC_20170330_027631	The Kingdom's Lost Treasures	왕국의 잃어버린 보물				
 ETC_20170330_027632	The transformation wore off.{nl}Derrote the Pawndels and Pawnds and use the Transformation Scroll!	변신이 풀렸습니다{nl}자신감 버프가 없다면 폰델과 폰드를 처치 후 변신 스크롤을 사용하세요!				
 ETC_20170330_027633	{ZONE} é uma área de nível {ZONELV}.{nl}Você quer entrar?		
 ETC_20170330_027634	Você tem Cartões de EXP disponíveis. {nl} Deseja mover-se sem usar os cartões?
-ETC_20170330_027635	{@st41b}Class EXP:  	{@st41b}클래스 경험치 : 				
+ETC_20170330_027635	{@st41b}EXP de Classe: 
 ETC_20170330_027636	 Você derrotou {COUNT} monstros!{nl}Receba a recompensa de cartões de EXP na NPC Asas da Vaivora em Klaipeda!	
 ETC_20170330_027637	 Derrote {COUNT} monstros para receber uma recompensa de cartões de EXP!{nl}Recompensas podem ser retiradas na NPC Asas de Vaivora.
-ETC_20170330_027638	 Exploração do mapa completa!{nl}Receba a recompensa de cartões de EXP na NPC Asas da Vaivora em Klaipeda!
+ETC_20170330_027638	 - Exploração do mapa completa!{nl}Receba a recompensa de cartões de EXP na NPC Asas da Vaivora em Klaipeda!
 ETC_20170330_027639	 Exploração de mapas: aumente-a em {PERCENT}% para receber uma recompensa de cartõed de EXP!{nl}Recompensas podem ser retiradas na NPC Asas de Vaivora.
 ETC_20170330_027640	The Pendrosium is knocked out!{nl}Hurry and collect the honey!	팬드로시움이 기절했습니다!{nl}어서 꿀을 채집하세요!	ETC_20170313_027297	The Pendrosium is passed out!{nl}Hurry and collect the honey!	펜드로시움이 기절했습니다!{nl}어서 꿀을 채집하세요!	
 ETC_20170330_027641	Upon declaring a war, you cannot disband your guild until after the ceasefire period that follows the end of the war.{nl}Are you sure you want to declare war?	전쟁을 선포하면, 전쟁이 끝나고 휴전 시간이 끝날 때까지 길드 해산을 할 수 없습니다.{nl}정말 전쟁을 선포하시겠습니까?	ETC_20151224_019677	Are you sure you want to declare a war?	정말 전쟁을 선포하시겠습니까?	
@@ -36514,8 +36514,8 @@ ETC_20181017_036428	You cannot create a new character because the [Lodge{layer]]
 ETC_20181017_036429	Exceeded Market trade limit ({LIMIT} Silver).	마켓 거래 한도인 {LIMIT}실버를 초과하였습니다.	ETC_20161214_026110	Exceeded the maximum silver limit of {LIMIT}.	등록 가능한 최대 금액인 {LIMIT}실버를 초과하였습니다.	
 ETC_20181017_036430	You cannot have more than {MaxStack} [{Name}] items.	[{Name}] 아이템은 {MaxStack}개 이상 소유할 수 없습니다.				
 ETC_20181017_036431	{#ffc500}{s14}Filtro aplicado
-ETC_20181017_036432	{TeamName}'s Camp	{TeamName}의 캠프				
-ETC_20181017_036433	{TeamName}'s Table	{TeamName}의 배식대				
+ETC_20181017_036432	Acampamento de {TeamName}
+ETC_20181017_036433	Mesa de {TeamName}
 ETC_20181017_036434	Participation: {COUNT} time(s){nl}No. selected: {NUMLIST}{nl}Rewards	참여횟수 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상	ETC_20170313_027060	Total count: {COUNT}{nl}Selected numbers: {NUMLIST}{nl}Reward(	누적 출석 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상(	
 ETC_20181017_036435	Participation: 0{nl}Go to the Klaipeda, Orsha or Fedimian   	참여횟수 : 0회{nl}클라페다, 오르샤, 페디미안의 	ETC_20170313_027061	Total count: 0{nl}Go to the Klaipeda, Orsha or Fedimian  	누적 출석 : 0회{nl}클라페다, 오르샤, 페디미안의 	
 ETC_20181017_036436	Remaining Rewards	남은 보상	ETC_20170313_027063	Remaining rewards(	남은 보상(	
@@ -37488,7 +37488,7 @@ ETC_20190104_037402	Consome {Silver} Silver para{nl}extrair {Scroll} Attribute P
 ETC_20190104_037403	[{count}] slot(s) adicionado com sucesso.
 ETC_20190104_037404	You cannot add more character slots.	더 이상 캐릭터 슬롯을 추가할 수 없습니다.			
 ETC_20190104_037405	All skills	전체 스킬	SKILL_20150317_000108	Skills	스킬
-ETC_20190104_037406	Maximum level has been reached.	최대 레벨입니다.			
+ETC_20190104_037406	Nível Máximo alcançado.
 ETC_20190104_037407	Status Points Spent	투자한 스테이터스	ETC_20160224_020569	Stat	스탯
 ETC_20190104_037408	You must make at least one class advancement before being permitted entry.	전직 횟수 1회 이상 부터 입장이 가능합니다.	ETC_20180208_031544	Entrance restricted to Rank {NEED_RANK} and above.	{NEED_RANK} 랭크 부터 입장이 가능합니다.
 ETC_20190104_037409	{nl} minutes	{n}분			

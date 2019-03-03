@@ -8,7 +8,7 @@ QUEST_LV_0100_20150317_000007	Fi... Finalmente! Os reforços chegaram?{nl}Hein?!
 QUEST_LV_0100_20150317_000008	Que papel é esse que você tá segurando? Parece familiar...{nl}Deixa eu ver! O que você tá fazendo? Ei, tem um adulto falando com você!
 QUEST_LV_0100_20150317_000009	Esse papel, ele é meu! Não mais vou me separar dele!!{nl}Não é... algo que você vai precisar - vou rasgá-lo. Pronto.
 QUEST_LV_0100_20150317_000010	Putz, que droga...
-QUEST_LV_0100_20150317_000011	Depois de todas as Deusas desaparecerem, esses sonhos foram uma das primeiras{nl}coisas que surgiram.{nl}Talvez uma dessas pessoas seja quem vai trazer as Deusas de volta.
+QUEST_LV_0100_20150317_000011	Depois de todas as Deusas desaparecerem,{nl}esses sonhos foram uma das primeiras coisas que surgiram.{nl}Talvez uma dessas pessoas seja quem vai trazer as Deusas de volta.
 QUEST_LV_0100_20150317_000012	Soldado Blak
 QUEST_LV_0100_20150317_000013	Atenção!{nl}Monstros estão atacando, então todos civis devem ser evacuados!{nl}O que esses civis estão fazendo na zona militar, afinal de contas?{nl}
 QUEST_LV_0100_20150317_000014	Ah, então você é o Revelador! Me desculpe, não te reconheci.{nl}Monstros estão atacando a base de suprimento neste instante.{nl}Preciso pegar algumas rações importantes da base. Por favor, me ajude!
@@ -306,7 +306,7 @@ QUEST_LV_0100_20150317_000305	Me avise quando estiver pronto para ir à Crystal 
 QUEST_LV_0100_20150317_000306	O Bispo nos disse para enviar Reveladores para a Crystal Mine.{nl}Ele disse que as Deusas o instruíram a fazê-lo.{nl}
 QUEST_LV_0100_20150317_000307	Mas Miners' Village está em guerra com os Vubbes e a entrada{nl}está limitada apenas a pessoas autorizadas. Cavaleiro Aras é quem está comandando as tropas em East Siauliai Woods. {nl}Você deveria falar com ele.
 QUEST_LV_0100_20150317_000308	Monstros estão vagando por aí faz muito tempo, {nl}mas eles só começaram a ficar violentos faz quatro anos. {nl}Os mais afetados foram aqueles da família das plantas. Eles não existiam antes.{nl}
-QUEST_LV_0100_20150317_000309	É claro, feras não são exceção.{nl}Quando monstros que parecem ter se fundido com demônios surgiram, achei que{nl}o fim estava próximo.
+QUEST_LV_0100_20150317_000309	É claro, feras não são exceção.{nl}Quando monstros que parecem ter se fundido com demônios surgiram,{nl}achei que o fim estava próximo.
 QUEST_LV_0100_20150317_000310	Cavaleiro Aras
 QUEST_LV_0100_20150317_000311	Você se machucou?{nl}Agradeço por ter nos livrado do Poata, porque ele era realmente imprudente.
 QUEST_LV_0100_20150317_000312	Você quer entrar nem Crystal Mine?{nl}Miners' Village está em guerra com os Vubbes e é muito perigoso,{nl}então não posso permitir isso.
@@ -1360,7 +1360,7 @@ QUEST_LV_0100_20150317_001359	Estava lá, né? {nl} Meus pressentimentos nunca e
 QUEST_LV_0100_20150317_001360	Apesar de Klaipeda estar logo ali, a situação dos suprimentos aqui não é nada boa. {nl} Só imagine quão pior estaria em outros lugares.
 QUEST_LV_0100_20150317_001361	Meus homens já deveriam ter voltado, mas não há sinal deles. {nl} Eles sabem bem que estou ocupado demais para tomar conta deles.
 QUEST_LV_0100_20150317_001362	Meus homens disseram que iam para Delon Shelter. {nl} O Golem pode aparecer a qualquer instante, e mesmo assim estão muito despreocupados.
-QUEST_LV_0100_20150317_001363	Rocktortuga está vindo nessa direção. {nl}Por favor, nos conceda sua força para nos certificarmos de que ela não ultrapasse nossas defesas.
+QUEST_LV_0100_20150317_001363	Rocktortuga está vindo nessa direção!{nl}Por favor, nos conceda sua força!{nl}Devemos evitar de que ultrapasse nossas defesas!
 QUEST_LV_0100_20150317_001364	Viu algum Baby Poata? {nl} É melhor afastá-los logo para que a mãe Poata não continue aparecendo.
 QUEST_LV_0100_20150317_001365	Os Vubbes construíram sua base fora da vila. {nl} Agora que nem sequer temos tropas, algo sério pode acontecer se não os afugentarmos da base.
 QUEST_LV_0100_20150317_001366	Agradeço muito por sua bravura.
@@ -6698,7 +6698,7 @@ QUEST_LV_0100_20150414_006697	Fiel Domas diz que ele precisa de Coliflower Sap d
 QUEST_LV_0100_20150414_006698	Combine folha de Ridimed e solvente de desintoxicação para fazer antídoto.
 QUEST_LV_0100_20150428_006699	Eu ouvi barulho de briga, então vim aqui correndo... você o derrotou?{nl}Eu só avistei Siaulambs.{nl}Muito bem. Você realizou um feito digno de mérito.
 QUEST_LV_0100_20150428_006700	Estou com o nariz entupido.
-QUEST_LV_0100_20150428_006701	Se tiver tempo, por favor, diga para nossas tropas se reunirem. {nl}Se não quiser fazer isso, você pode simplesmente ir para Klaipeda.
+QUEST_LV_0100_20150428_006701   {nl}Você pode simplesmente ir para Klaipeda.{nl}Se tiver tempo, por favor, diga para nossas tropas se reunirem.
 QUEST_LV_0100_20150428_006702	Agradeço pela sua ajuda.{nl}Vire à esquerda na encruzilhada e siga a estrada. {-scp SCR_DIALOG_NPC_ANIM(
 QUEST_LV_0100_20150428_006703	Vubbe Fighter está se escondendo nas profundezas da Nudeges Falled Area. {nl} Recebemos as ordens para matar, mas talvez seja mais seguro esperar por reforços.
 QUEST_LV_0100_20150428_006704	Devíamos verificar isso esfregando Hallowventer Charcoal.{nl}O próximo epitáfio está do lado direito do Negyvas Field.
@@ -11255,7 +11255,7 @@ QUEST_LV_0100_20151224_011254	I am not sure of what he meant by 'the worthy one'
 QUEST_LV_0100_20151224_011255	It could very well be that all this is according to the goddess' guidance.{nl}So, test yourself and see if you are the worthy one {nl}to take the treasure through the Eyes of the Great King.
 QUEST_LV_0100_20151224_011256	O que você disse é difícil de acreditar.{nl}Esta Revelação é da Deusa Laima e somente quando recuperar todas, ela retornará?{nl}É isto que você quer dizer?{nl}
 QUEST_LV_0100_20151224_011257	A Deusa Laima é tambem chamada de "A Deusa em Livro"{nl}Não há nenhuma história que mencione o nome dela, a não ser os relatos de que{nl}ela teria definido o local para que o Grande Rei Zachariel construisse o reino.{nl}
-QUEST_LV_0100_20151224_011258	Já precisamos nos reunir?{nl}O mundo pode estar a um passo da destruição, mas eu não posso aceitar esse tipo de ordem insana. {nl}Já tenho missões suficientes nas minhas mãos.
+QUEST_LV_0100_20151224_011258	Já precisamos nos reunir?{nl}O mundo pode estar a um passo da destruição,{nl}mas eu não posso aceitar esse tipo de ordem insana.{nl}Já tenho missões suficientes nas minhas mãos.
 QUEST_LV_0100_20151224_011259	Há uma natureza divina por trás de um mero objeto material.{nl}Algumas pessoas chamam isso de Alma.
 QUEST_LV_0100_20151224_011260	According to the ancient texts, the king eased the memories of the stonecutters through magic.{nl}It was done to ensure the security of the Royal Mausoleum. {nl}A precise memory erasure, isn't that incredible?
 QUEST_LV_0100_20151224_011261	Being a Psychokino is something wonderful. I guarantee it!{nl}But first, I need your help on my research.
@@ -16912,8 +16912,8 @@ QUEST_LV_0100_20170330_016911	Serviçal Kupole
 QUEST_LV_0100_20170330_016912	Fale com o Submestre Rodelero em Gateway of the Great King.
 QUEST_LV_0100_20170330_016913	O Submestre Rodelero pediu para você trazer um escudo aprimorado em 4 níveis. Aprimore um escudo que seja reconhecido pelo Submestre Rodelero.
 QUEST_LV_0100_20170330_016914	Follower Donatas pediu para você derrotar alguns Pawndels e Pawnds para você adquirir confiança, para então poder se transformar em um demônio usando o pergaminho de transformação. Depois de transformar você mesmo em um demônio, interaja com Pawndels e Pawnds, atraia-os para o Apsauga Altar e elimine-os.
-QUEST_LV_0100_20170330_016915	Vá para Klaipeda e fale com o Knight Commander Uska
-QUEST_LV_0100_20170330_016916	Pressione a tecla M para abrir o mapa e siga a bandeira até Klaipeda.{nl}Knight Commander Uska está procurando por pessoas que sonharam com as deusas. Conte-lhe seus sonhos com as Revelações.
+QUEST_LV_0100_20170330_016915	Vá para Klaipeda e fale com o Cavaleiro Comandante Uska
+QUEST_LV_0100_20170330_016916	Pressione a tecla M para abrir o mapa e siga a bandeira até Klaipeda.{nl}Cavaleiro Comandante Uska está procurando por pessoas que sonharam com as deusas. Conte-lhe seus sonhos com as Revelações.
 QUEST_LV_0100_20170330_016917	O Mestre Rodelero pediu para você trazer um escudo aprimorado em 4 níveis. Aprimore um escudo que seja reconhecido pelo Mestre Rodelero.
 QUEST_LV_0100_20170330_016918	O Submestre Dievdirbys pediu para você coletar Sparnasman's Horns para usar como material de entalhe. Vá para Novaha Annex e derrote monstros Sparnasman para obter seus chifres.
 QUEST_LV_0100_20170330_016919	Fale com o Treasure Chest Helper
