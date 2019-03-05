@@ -2805,7 +2805,7 @@ UI_20170912_002804	Update the list.
 UI_20170912_002805	{@st41b}{nl}Confirmar
 UI_20170912_002806	{@st41b}{nl}Cancelar
 UI_20170912_002807	{@st43}Guilda
-UI_20170912_002808	Mestre
+UI_20170912_002808	Líder
 UI_20170912_002809	Criação
 UI_20170912_002810	Membros
 UI_20170912_002811	%s/%s
@@ -2815,15 +2815,15 @@ UI_20170912_002814	{@st66}Notas
 UI_20170912_002815	Notícias
 UI_20170912_002816	Notes
 UI_20170912_002817	Membro {img %s 13 13}
-UI_20170912_002818	Level {img %s 13 13}
+UI_20170912_002818	Nível {img %s 13 13}
 UI_20170912_002819	Posição {img %s 13 13}
 UI_20170912_002820	Contribuição
 UI_20170912_002821	{@st66b}{s18}Autoridades{/}
 UI_20170912_002822	%s online      %s offline
 UI_20170912_002823	Ver online
 UI_20170912_002824	{@st41b}Convidar
-UI_20170912_002825	{@st66d_y}{s18}Guild Level{/}
-UI_20170912_002826	{@st43b}{s18}Guild Tower(%s/1){/}
+UI_20170912_002825	{@st66d_y}{s18}Nível da Guilda{/}
+UI_20170912_002826	{@st43b}{s18}Torre da Guilda(%s/1){/}
 UI_20170912_002827	Benefícios
 UI_20170912_002828	Os benefícios da Guild são atualizados para o atual nível da torre do Templar.
 UI_20170912_002829	Pontos de Atributo: %s
@@ -2859,7 +2859,7 @@ UI_20170912_002858	{@st43b}{s18}Configurar Salão{/}
 UI_20170912_002859	Permitir Estranhos
 UI_20170912_002860	{@st43b}{s18}Novidades{/}
 UI_20170912_002861	{@st66}{s18}Registrar{/}
-UI_20170912_002862	{@st43b}{s18}Notas da Guild{/}
+UI_20170912_002862	{@st43b}{s18}Notas da Guilda{/}
 UI_20170912_002863	{@st43b}{s18}Quadro de Mensagens{/}
 UI_20170912_002864	Max. 25 caracteres permitidos.
 UI_20170912_002865	> Você pode postar no Quadro de Mensagens 3 vezes por dia.
