@@ -2433,12 +2433,12 @@ UI_20161107_002431	{@st43d}{s18}- Can only be used when the item purchase is fin
 UI_20161107_002432	{@st67}{s18}A purchase cannot be reverted once it is finalized.{/}
 UI_20161107_002433	{@st66d}{s18}Sim{/}
 UI_20161107_002434	{@st66d}{s18}Não{/}
-UI_20161107_002435	{@st66}{s18}Right to Cancelar{/}
-UI_20161107_002436	{@st42b}{s16}Purchase{/}
+UI_20161107_002435	{@st66}{s18}Right to Cancel{/}
+UI_20161107_002436	{@st42b}{s16}Comprar{/}
 UI_20161107_002437	{@st42}{s16} Medal Cost {/}{img icon_item_recyclemedal 20 20}{/}
 UI_20161107_002438	{@st42}{s16} Obtained Medal {/}{img icon_item_recyclemedal 20 20}{/}
 UI_20161107_002439	Owned: %s
-UI_20161107_002440	{@st42b}{s16}Purchase{/}
+UI_20161107_002440	{@st42b}{s16}Comprar{/}
 UI_20161107_002441	{@st42b}{s16}Exchange for Medal{/}
 UI_20161107_002442	Medal Consumed
 UI_20161107_002443	Medal Obtained
