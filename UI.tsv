@@ -17,7 +17,7 @@ UI_20150317_000016	{@st43}Casa de Leilões{/}
 UI_20150317_000017	{@st59}Fechar{/}
 UI_20150317_000018	{@st41b}Itens Vendidos: ×%s, Itens Não Vendidos:
 UI_20150317_000019	{@st43}{s22}Leilão de Item{/}
-UI_20150317_000020	{@st59}Fechar Informações da Quest{/}
+UI_20150317_000020	{@st59}Fechar Informações da Missão{/}
 UI_20150317_000021	Avaliar
 UI_20150317_000022	{@st41b}Tempo Restante
 UI_20150317_000023	3 horas 16 minutos
@@ -180,7 +180,7 @@ UI_20150317_000179	{@st41}Cancelar{/}
 UI_20150317_000180	{@st45tw2}Quantidade{/}
 UI_20150317_000181	{@st45tw2}Você quer criar este item?
 UI_20150317_000182	{@st41}Confirmar{/}
-UI_20150317_000183	Informações da Quest
+UI_20150317_000183	Informações da Missão
 UI_20150317_000184	{@st59}Cancelar Negociação{/}
 UI_20150317_000185	{@st43}Negociação Pessoal{/}
 UI_20150317_000186	Minha Lista de Negociações
@@ -424,10 +424,10 @@ UI_20150317_000423	Parabéns! Você subiu de nível.
 UI_20150317_000424	Alerta de Item
 UI_20150317_000425	{@st64}Detalhes{/}
 UI_20150317_000426	Como Jogar
-UI_20150317_000427	{@st42b}          Mover uma vez com cada uma das teclas{/}
-UI_20150317_000428	{@st42b}         Realizar um ataque básico{/}
-UI_20150317_000429	{@st42b}                Saltar{/}
-UI_20150317_000430	{@st42b}  Pressione 2 teclas direcionais para se mover na diagonal.{/}
+UI_20150317_000427	{@st42b}Mover uma vez com cada uma das teclas{/}
+UI_20150317_000428	{@st42b}Realizar um ataque básico{/}
+UI_20150317_000429	{@st42b}Realizar um salto{/}
+UI_20150317_000430	{@st42b}Pressione 2 teclas direcionais para se mover na diagonal.{/}
 UI_20150317_000431	Ferramenta de Mapa de Névoa
 UI_20150317_000432	Ferramenta para matar monstros
 UI_20150317_000433	Ferramenta para criar um minimapa
@@ -519,11 +519,11 @@ UI_20150317_000518	{@st43}Quest{/}
 UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - Quando estiver em uma quest, ela será adicionada ao rastreador de quest. {nl} - A quest principal é exibida em amarelo e a quest secundária em azul. {nl} - A seta no pé do personagem leva ao local da sua quest. {nl} - Se concluir a quest, será exibido o ícone 'Voltar' no rastreador de quest. {nl}    (Teleporta você para o NPC da Quest usando a tecla Backspace ou clicando o mouse ) {nl} - Adicione ou remova quests no rastreador de quest selecionando ou desmarcando a caixa na frente do nome da quest. {/}
 UI_20150317_000520	{@st41b}Em Andamento{/}
 UI_20150317_000521	{@st41b}Abandonada{/}
-UI_20150317_000522	{@st43}{s22}Informações da Quest{/}
+UI_20150317_000522	{@st43}{s22}Informações da Missão{/}
 UI_20150317_000523	Missão Concluída
 UI_20150317_000524	{@st41}Concluir{/}
 UI_20150317_000525	Info. de Andamento da Missão
-UI_20150317_000526	{s18}{ol}Informações da Quest
+UI_20150317_000526	{s18}{ol}Informações da Missão
 UI_20150317_000527	{s16}Tempo Restante
 UI_20150317_000528	Usar item de quest
 UI_20150317_000529	Dica de Quest
@@ -996,7 +996,7 @@ UI_20150317_000995	{@St41b}Sair do Jogo{/}
 UI_20150317_000996	{@St59}Sair do Tree of Savior{/}
 UI_20150317_000997	{@st41b}Selecione o Canal{/}
 UI_20150317_000998	{@st43}Entrar{/}
-UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{nl}Tradução v9.7{/}
+UI_20150317_000999	{@St59}Iniciar o jogo com o personagem selecionado{/}
 UI_20150317_001000	{@St43}{s26}Nome do Time{/}
 UI_20150317_001001	{@st59}Nome do Time{/}
 UI_20150317_001002	{@st41b}Mudar nome do time{/}
@@ -1739,7 +1739,7 @@ UI_20150729_001737	{@st43}Lapidação de Gema{/}
 UI_20150729_001738	{@st59b}Confecção de Item{nl}{@st59s} - O item pode ser confeccionado com o uso de uma receita.{nl} - Coloque a fórmula e os materiais necessários no espaço para iniciar a confecção do item. {nl} - Você pode anexar um nome exclusivo e uma anotação ao item.{/}
 UI_20150729_001739	{@st59}Fechar{/}
 UI_20150729_001740	Fragments needed : Mutant %s / Beast %s / Plant %s
-UI_20150729_001741	{@st42b}         Swordsmans podem correr ao apertar duas vezes o direcional{/}
+UI_20150729_001741	{@st42b}Aperte duas vezes o direcional para correr{/}
 UI_20150729_001742	{@st41}Configurar Grupo
 UI_20150729_001743	{@st41}Configurar Recrutamento de Grupo
 UI_20150729_001744	{@st42}Procurar Integrantes do Grupo{/}
@@ -1905,7 +1905,7 @@ UI_20151224_001903	{ol}Message
 UI_20151224_001904	{@st66b18}Receber
 UI_20151224_001905	{@st66b18}Vender
 UI_20151224_001906	{@st66b18}Comprar
-UI_20151224_001907	{@st45tw2}Lv.{/}
+UI_20151224_001907	{@st45tw2}Nv.{/}
 UI_20151224_001908	{@st45tw2}Preço{/}
 UI_20151224_001909	{@st45tw2}Quantidade{/}
 UI_20151224_001910	{@st45tw2}Preço total{/}
@@ -2433,12 +2433,12 @@ UI_20161107_002431	{@st43d}{s18}- Can only be used when the item purchase is fin
 UI_20161107_002432	{@st67}{s18}A purchase cannot be reverted once it is finalized.{/}
 UI_20161107_002433	{@st66d}{s18}Sim{/}
 UI_20161107_002434	{@st66d}{s18}Não{/}
-UI_20161107_002435	{@st66}{s18}Right to Cancelar{/}
-UI_20161107_002436	{@st42b}{s16}Purchase{/}
+UI_20161107_002435	{@st66}{s18}Right to Cancel{/}
+UI_20161107_002436	{@st42b}{s16}Comprar{/}
 UI_20161107_002437	{@st42}{s16} Medal Cost {/}{img icon_item_recyclemedal 20 20}{/}
 UI_20161107_002438	{@st42}{s16} Obtained Medal {/}{img icon_item_recyclemedal 20 20}{/}
 UI_20161107_002439	Owned: %s
-UI_20161107_002440	{@st42b}{s16}Purchase{/}
+UI_20161107_002440	{@st42b}{s16}Comprar{/}
 UI_20161107_002441	{@st42b}{s16}Exchange for Medal{/}
 UI_20161107_002442	Medal Consumed
 UI_20161107_002443	Medal Obtained
@@ -2773,8 +2773,8 @@ UI_20170912_002772	{@st59}Wizard{/}
 UI_20170912_002773	{@st59}Archer{/}
 UI_20170912_002774	{@st59}Cleric{/}
 UI_20170912_002775	{@st66b}Spectate{/}
-UI_20170912_002776	Area: %s
-UI_20170912_002777	Area
+UI_20170912_002776	Área: %s
+UI_20170912_002777	Área
 UI_20170912_002778	{@st42}{s18}Lista de Personagens
 UI_20170912_002779	[%s] Recompensas
 UI_20170912_002780	ⓘ Colete suas recompensas nas Asas da Vaivora.
@@ -2805,7 +2805,7 @@ UI_20170912_002804	Update the list.
 UI_20170912_002805	{@st41b}{nl}Confirmar
 UI_20170912_002806	{@st41b}{nl}Cancelar
 UI_20170912_002807	{@st43}Guilda
-UI_20170912_002808	Mestre
+UI_20170912_002808	Líder
 UI_20170912_002809	Criação
 UI_20170912_002810	Membros
 UI_20170912_002811	%s/%s
@@ -2815,15 +2815,15 @@ UI_20170912_002814	{@st66}Notas
 UI_20170912_002815	Notícias
 UI_20170912_002816	Notes
 UI_20170912_002817	Membro {img %s 13 13}
-UI_20170912_002818	Level {img %s 13 13}
+UI_20170912_002818	Nível {img %s 13 13}
 UI_20170912_002819	Posição {img %s 13 13}
 UI_20170912_002820	Contribuição
 UI_20170912_002821	{@st66b}{s18}Autoridades{/}
 UI_20170912_002822	%s online      %s offline
 UI_20170912_002823	Ver online
 UI_20170912_002824	{@st41b}Convidar
-UI_20170912_002825	{@st66d_y}{s18}Guild Level{/}
-UI_20170912_002826	{@st43b}{s18}Guild Tower(%s/1){/}
+UI_20170912_002825	{@st66d_y}{s18}Nível da Guilda{/}
+UI_20170912_002826	{@st43b}{s18}Torre da Guilda(%s/1){/}
 UI_20170912_002827	Benefícios
 UI_20170912_002828	Os benefícios da Guild são atualizados para o atual nível da torre do Templar.
 UI_20170912_002829	Pontos de Atributo: %s
@@ -2859,7 +2859,7 @@ UI_20170912_002858	{@st43b}{s18}Configurar Salão{/}
 UI_20170912_002859	Permitir Estranhos
 UI_20170912_002860	{@st43b}{s18}Novidades{/}
 UI_20170912_002861	{@st66}{s18}Registrar{/}
-UI_20170912_002862	{@st43b}{s18}Notas da Guild{/}
+UI_20170912_002862	{@st43b}{s18}Notas da Guilda{/}
 UI_20170912_002863	{@st43b}{s18}Quadro de Mensagens{/}
 UI_20170912_002864	Max. 25 caracteres permitidos.
 UI_20170912_002865	> Você pode postar no Quadro de Mensagens 3 vezes por dia.
@@ -3649,7 +3649,7 @@ UI_20190104_003648	Período Restante
 UI_20190104_003649	{@st42}{s20}Warp List	{@st42}{s20}워프 목록			
 UI_20190104_003650	Current Status	점령 현황			
 UI_20190104_003651	{img icon_item_silver 20 20}{@st41b}Proceed {/}{img white_right_arrow 15 18} %s	{img icon_item_silver 20 20}{@st41b}거래 정산 {/}{img white_right_arrow 15 18} %s			
-UI_20190104_003652	{@st41b}Items Bought{/} %s	{@st41b}구입 아이템{/} %s			
+UI_20190104_003652	{@st41b}Itens Comprados{/} %s
 UI_20190104_003653	{@st41b}Total spent vouchers: {/}	{@st41b}총 소비 교환권 : {/}			
 UI_20190104_003654	Do you wish to use the vouchers to exchange them for items?	교환권을 위 아이템으로 교환하시겠습니까?			
 UI_20190104_003655	You can add items to the Alchemy Workshop to use in skills.	연금공방에 아이템을 등록하여 스킬을 사용할 수 있습니다.			
@@ -3760,7 +3760,7 @@ UI_20190104_003759	{@st41}Zoom In/Zoom Out (%s){/}	{@st41}확대/축소 (%s){/}
 UI_20190104_003760	{@st41}Horizontal Camera (%s){/}	{@st41}카메라 가로 (%s){/}			
 UI_20190104_003761	{@st41}Vertical Camera (%s){/}	{@st41}카메라 세로 (%s){/}			
 UI_20190104_003762	{s16}Ver caixa do item
-UI_20190104_003763	{b}Specialized Stats	{b}특화 능력치			
+UI_20190104_003763	{b}Atributos Especializados
 UI_20190104_003764	{@st66d}Forgery	{@st66d}모조품			
 UI_20190104_003765	{#00fec5}{ol}Class Tree Change (available for 30 days){/}	{#00fec5}{ol}계열 변경 가능(1월 24일까지){/}			
 UI_20190104_003766	NO Awakening	각성 불가			
