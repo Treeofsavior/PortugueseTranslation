@@ -1353,7 +1353,7 @@ QUEST_LV_0100_20150317_001352	Obrigado pelas considerações de Laimonas. {nl} V
 QUEST_LV_0100_20150317_001353	Não se esqueça de mandar meus cumprimentos ao Comandante Chefe de Klaipeda
 QUEST_LV_0100_20150317_001354	Quando estiver com tudo pronto, por favor, vá até Aras, em East Siauliai Woods.
 QUEST_LV_0100_20150317_001355	Saudações! {nl}Ah, você é o Revelador. Queria muito conhecer você. {nl}
-QUEST_LV_0100_20150317_001356	Esse é um Warp Scroll. {nl} Você pode ir a qualquer Estátua da Deusa ou voltar para um local previamente visitado usando ele. {nl}
+QUEST_LV_0100_20150317_001356	Esse é um Warp Scroll.{nl}Você pode ir a qualquer Estátua da Deusa,{nl}ou voltar para um local já visitado, usando ele.{nl}
 QUEST_LV_0100_20150317_001357	Vamos dar a você mais do que o Cavaleiro pediu, então, por favor, nos ajude a encontrar as Deusas.
 QUEST_LV_0100_20150317_001358	Acho que o Large Kepa ainda está lá fora. {nl} Você poderia investigar?
 QUEST_LV_0100_20150317_001359	Estava lá, né? {nl} Meus pressentimentos nunca estão errados.
@@ -6338,7 +6338,7 @@ QUEST_LV_0100_20150317_006337	Jurga diz que devemos destruir as raízes colocada
 QUEST_LV_0100_20150317_006338	Removeu todas as raízes de Bramble. Fale com Fiel Jurga.
 QUEST_LV_0100_20150317_006339	Parece que o Mercador de Itens ainda tem algo a dizer. Fale com o Comerciante de Itens.
 QUEST_LV_0100_20150317_006340	Fale com o Comerciante de Acessórios.
-QUEST_LV_0100_20150317_006341	O Mercador de Acessório deu um acessório de presente ao Revelador. Por favor, aceite de forma graciosa.
+QUEST_LV_0100_20150317_006341	A Mercadora de Acessórios deu um acessório de presente ao Revelador. Por favor, aceite de forma graciosa.
 QUEST_LV_0100_20150317_006342	Ouça o que Gustas Jonas tem a dizer para descobrir qual é o próximo passo.
 QUEST_LV_0100_20150317_006343	Encontre Morkus Jonas no Overlong Bridge Valley
 QUEST_LV_0100_20150317_006344	Você saberá o que fazer quando encontrar Morkus Jonas no Overlong Bridge Valley.
@@ -7618,16 +7618,16 @@ QUEST_LV_0100_20150714_007617	Você encheu a Escritura da Deusa Austeja de energ
 QUEST_LV_0100_20150714_007618	Você encheu a Escritura da Deusa Austeja de energia sagrada. Ofereça-a à Torre Selada.
 QUEST_LV_0100_20150714_007619	Você encheu a Escritura da Deusa Austeja de energia sagrada. Ofereça-a à Torre Selada.
 QUEST_LV_0100_20150714_007620	Você restaurou o lacre. Conte isso para Ramelie.
-QUEST_LV_0100_20150717_007621	Também dê uma passada na Comerciante de Ferramentas para obter os pergaminhos de teleporte que deixei com ela.
+QUEST_LV_0100_20150717_007621	Também dê uma passada na Mercadora de Ferramentas para obter os pergaminhos de teleporte que deixei com ela.
 QUEST_LV_0100_20150717_007622	Fale com Cavaleiro Titas (1)
 QUEST_LV_0100_20150717_007623	Fale com Cavaleiro Titas (2)
 QUEST_LV_0100_20150717_007624	Obtenha %s do Purificador Reserva
 QUEST_LV_0100_20150717_007625	Derrote o Red Vubbe Fighter que apareceu de repente
 QUEST_LV_0100_20150717_007626	Red Vubbe Fighter apareceu quando você abriu a caixa! Derrote-o.
-QUEST_LV_0100_20150717_007627	Adore a Deusa e fale com a Comerciante de Ferramentas
-QUEST_LV_0100_20150717_007628	Fale com a Comerciante de Itens.
-QUEST_LV_0100_20150717_007629	Cavaleiro Titas disse que deixou Warp Scrolls para Reveladores com a Item Merchant. Fale com ela.
-QUEST_LV_0100_20150717_007630	A Comerciante de Itens parece ter algo a dizer. Fale com ela.
+QUEST_LV_0100_20150717_007627	Adore a Deusa e fale com a Mercadora de Ferramentas
+QUEST_LV_0100_20150717_007628	Fale com a Mercadora de Itens.
+QUEST_LV_0100_20150717_007629	Cavaleiro Titas disse que deixou Warp Scrolls para Reveladores com a Mercadora de Itens. Fale com ela.
+QUEST_LV_0100_20150717_007630	A Mercadora de Itens parece ter algo a dizer. Fale com ela.
 QUEST_LV_0100_20150717_007631	Ajude Soldado Alan a proteger a Farm Entrance
 QUEST_LV_0100_20150717_007632	Parece que as coisas acabaram de ficar mais difíceis.{nl}Quem imaginaria que Kepas pudessem ficar tão grandes...
 QUEST_LV_0100_20150717_007633	Precisamos permanecer fortes.{nl}Mesmo Aras está resistindo.
@@ -8271,9 +8271,9 @@ QUEST_LV_0100_20151001_008270	A Deusa sempre nos disse para ajudar aqueles ao no
 QUEST_LV_0100_20151001_008271	A provação do Grande Rei Zachariel não é fácil.{nl}Com as suas habilidades, ele deveria ter reconhecido você.
 QUEST_LV_0100_20151001_008272	O reino perdeu toda a esperança. {nl}Não tem nenhuma vontade de resistir mais, e está apenas gritando pela Deusa.{nl}
 QUEST_LV_0100_20151001_008273	Recentemente, entretanto, pessoas têm aparecido dizendo que sonharam com a Deusa. {nl}Você é uma dessas pessoas, Revelador. {nl}
-QUEST_LV_0100_20151001_008274	De qualquer forma, o Bispo em pessoa também teve um sonho enquanto rezava por um desfecho. {nl}Em seus sonhos, a Deusa disse que a evidência da salvação seria encontrada em Crystal Mine. {nl}
-QUEST_LV_0100_20151001_008275	Cavaleiro Aras, em East Siauliai Woods, está responsável por isso, então vá encontrá-lo.
-QUEST_LV_0100_20151001_008276	Quatro anos se passaram desde o incidente, por que a Deusa está{nl}nos enviando Reveladores agora... {nl}Acho que alguém como eu pode não ser capaz de compreender o significado mais profundo da vontade da Deusa.
+QUEST_LV_0100_20151001_008274	De qualquer forma,{nl}o Bispo em pessoa também teve um sonho enquanto rezava por um desfecho.{nl}Em seus sonhos,{nl}a Deusa disse que a evidência da salvação seria encontrada em Crystal Mine.{nl}
+QUEST_LV_0100_20151001_008275	Cavaleiro Aras, em East Siauliai Woods,{nl}é o responsável na região, então vá encontrá-lo.
+QUEST_LV_0100_20151001_008276	Quatro anos se passaram desde o incidente,[nl}por que a Deusa está nos enviando Reveladores agora...{nl}Acho que alguém como eu pode não ser capaz de compreender{nl}o significado mais profundo da vontade da Deusa.
 QUEST_LV_0100_20151001_008277	Mas pelo menos eu sei que os Reveladores são nossa única esperança.{nl}
 QUEST_LV_0100_20151001_008278	Bem, então, siga para East Siauliai Woods. {nl}Não se esqueça de adorar a Estátua da Deusa Ausrine na Central Plaza antes de partir. {nl}
 QUEST_LV_0100_20151001_008279	Além disso, certifique-se de passar pela Comerciante de Itens.{nl}Deixei alguns pergaminhos de teleporte para Reveladores como você.
@@ -8303,8 +8303,8 @@ QUEST_LV_0100_20151001_008302	Eu posso guiar você à Revelação, se eu usar to
 QUEST_LV_0100_20151001_008303	Mas, por favor, não revele minha existência por enquanto. {nl}É da natureza dos humanos querer depender de algo. {nl}Se eles descobrirem sobre a impotência da Deusa, esse mundo será tomado pelo caos.
 QUEST_LV_0100_20151001_008304	Aquele portal é... uma fantasia... Não. Um portal que leva à Deusa Saule. {nl} De qualquer forma, abrir o portal é muito importante.
 QUEST_LV_0100_20151001_008305	Se a armadura protege você de ataques físicos, os acessórios protegem de ataques mágicos. {nl} Espero que isso seja útil.{nl}Prazer em conhecê-lo!{nl}Você é o Revelador que sonhou com a Deusa? {nl}
-QUEST_LV_0100_20151001_008306	Todos em Klaipeda estão falando nisso. {nl}Me pergunto se os Reveladores realmente viram as Deusas desaparecidas em seus sonhos... e onde está esse sonho... {nl}
-QUEST_LV_0100_20151001_008307	Queria saber mais sobre esse sonho, mas tenho certeza de que não podem me contar sobre isso.{nl}Mas tudo bem, já que acredito que os Reveladores são pessoas que encontrarão as Deusas. {nl}
+QUEST_LV_0100_20151001_008306	Todos em Klaipeda estão falando nisso.{nl}Me pergunto se os Reveladores realmente viram as Deusas desaparecidas em seus sonhos...{nl}E onde está esse sonho...{nl}
+QUEST_LV_0100_20151001_008307	Queria saber mais sobre esse sonho,{nl}mas tenho certeza de que não podem me contar sobre isso.{nl}Mas tudo bem,{nl}já que acredito que os Reveladores são pessoas que encontrarão as Deusas.{nl}
 QUEST_LV_0100_20151001_008308	Por favor, leve esse acessório. {nl}Se a armadura protege você de ataques físicos, acessórios protegem de ataques mágicos. {nl}
 QUEST_LV_0100_20151001_008309	Espero que isso lhe seja útil. {nl}Que as bênçãos da Deusa estejam convosco...
 QUEST_LV_0100_20151001_008310	O veneno de Scorpio era algo estranho.{nl}Bem. Já aconteceu, então o que eu posso fazer, afinal? Não me importo, contanto que não coloque minha vida em risco.
@@ -9582,7 +9582,7 @@ QUEST_LV_0100_20151016_009581	Mas alguma força me impede de me aproximar dela, 
 QUEST_LV_0100_20151016_009582	Talvez a força que eu senti fosse a Luz da Salvação...{nl}É o que eu acho.
 QUEST_LV_0100_20151016_009583	Isso é tudo por causa do sonho do Bispo de Klaipeda. {nl}Que história é essa de 'Luz da Salvação' em Crystal Mine? Nunca vi tal coisa. {nl}
 QUEST_LV_0100_20151016_009584	Agradeço pelo resgate.{nl}Você também deve ser um dos Reveladores que veio em busca da Luz da Salvação.{nl}
-QUEST_LV_0100_20151016_009585	De qualquer forma, o Bispo em pessoa também teve um sonho enquanto rezava por um desfecho. {nl}Em seus sonhos, a Deusa disse que a evidência da salvação seria encontrada em Crystal Mine {nl}
+QUEST_LV_0100_20151016_009585	De qualquer forma,{nl}o Bispo em pessoa também teve um sonho enquanto rezava por um desfecho.{nl}Em seus sonhos,{nl}a Deusa disse que a evidência da salvação seria encontrada em Crystal Mine.{nl}
 QUEST_LV_0100_20151016_009586	Estou com problemas.{nl}Preciso colocar estes Notice Boards, mas não conseguirei nem com dois de mim.{nl}
 QUEST_LV_0100_20151016_009587	A Aliança Comercial Kedora é severa com novatos, como pode ver.{nl}Leopoldas é especialmente brutal... Ele me fez fazer tudo sozinho.
 QUEST_LV_0100_20151016_009588	Sério? Você está bem com isso?
@@ -11591,7 +11591,7 @@ QUEST_LV_0100_20151224_011590	Vejo que um seguidor das Deusas veio me ver.{nl}Sa
 QUEST_LV_0100_20151224_011591	Atributos podem garantir habilidade especiais para Status e Skills.{nl}Você consegue aprender atributos com os Mestres e SubMestres, pagando a respectiva taxa.
 QUEST_LV_0100_20151224_011592	Entendeu como funcionam os atributos?{nl}Você será capaz de batalhar melhor agregando atributos nas suas habilidades.
 QUEST_LV_0100_20151224_011593	Ah sim, Ronesa disse que tem um presente que ela deseja te entregar.{nl}Por que não dá um pulinho na loja dela?
-QUEST_LV_0100_20151224_011594	Você vai encontra-la seguindo aqui pela esquerda.
+QUEST_LV_0100_20151224_011594	Você vai encontrar ela seguindo aqui pela esquerda.
 QUEST_LV_0100_20151224_011595	Bem-vindo! {nl}Você é o Revelador que estava sonhando com as Deusas, certo?{nl}
 QUEST_LV_0100_20151224_011596	Você vai encontrar Ronesa seguindo pela esquerda daqui.{nl}
 QUEST_LV_0100_20151224_011597	You'll be able to collect poison by putting pots where the monsters are.{nl}Bring it back when you've gathered enough.
@@ -16913,7 +16913,7 @@ QUEST_LV_0100_20170330_016912	Fale com o Submestre Rodelero em Gateway of the Gr
 QUEST_LV_0100_20170330_016913	O Submestre Rodelero pediu para você trazer um escudo aprimorado em 4 níveis. Aprimore um escudo que seja reconhecido pelo Submestre Rodelero.
 QUEST_LV_0100_20170330_016914	Follower Donatas pediu para você derrotar alguns Pawndels e Pawnds para você adquirir confiança, para então poder se transformar em um demônio usando o pergaminho de transformação. Depois de transformar você mesmo em um demônio, interaja com Pawndels e Pawnds, atraia-os para o Apsauga Altar e elimine-os.
 QUEST_LV_0100_20170330_016915	Vá para Klaipeda e fale com o Cavaleiro Comandante Uska
-QUEST_LV_0100_20170330_016916	Pressione a tecla M para abrir o mapa e siga a bandeira até Klaipeda.{nl}Cavaleiro Comandante Uska está procurando por pessoas que sonharam com as deusas. Conte-lhe seus sonhos com as Revelações.
+QUEST_LV_0100_20170330_016916	 - Pressione esta tecla para abrir o mapa e siga a bandeira até Klaipeda.{nl}Cavaleiro Comandante Uska está procurando por pessoas que sonharam com as deusas. Conte-lhe seus sonhos com as Revelações.
 QUEST_LV_0100_20170330_016917	O Mestre Rodelero pediu para você trazer um escudo aprimorado em 4 níveis. Aprimore um escudo que seja reconhecido pelo Mestre Rodelero.
 QUEST_LV_0100_20170330_016918	O Submestre Dievdirbys pediu para você coletar Sparnasman's Horns para usar como material de entalhe. Vá para Novaha Annex e derrote monstros Sparnasman para obter seus chifres.
 QUEST_LV_0100_20170330_016919	Fale com o Treasure Chest Helper
