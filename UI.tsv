@@ -1873,7 +1873,7 @@ UI_20151224_001871	To Guild Member
 UI_20151224_001872	Go
 UI_20151224_001873	{@st43}History{/}
 UI_20151224_001874	{@st59}Fechar{/}
-UI_20151224_001875	{@st45tw2}Category{/}
+UI_20151224_001875	{@st45tw2}Categoria{/}
 UI_20151224_001876	{@st45tw2}Variation Value{/}
 UI_20151224_001877	{@st45tw2}Time{/}
 UI_20151224_001878	{@st45tw2}Recover{/}
@@ -2077,7 +2077,7 @@ UI_20160224_002075	{@st63}%s participantes (Login %s){/}
 UI_20160224_002076	{@st63_yellow}Local :{/}
 UI_20160224_002077	Cobalt Forest
 UI_20160224_002078	{@st63_yellow}Objetivo :{/}
-UI_20160224_002079	{@st43}Guild Lv. %s{/}
+UI_20160224_002079	{@st43}Guilda Nv. %s{/}
 UI_20160224_002080	{@st66b}Upgrade & Rank
 UI_20160224_002081	{@st66b}Atributos da Guilda
 UI_20160224_002082	Guild Storage
@@ -2113,11 +2113,11 @@ UI_20160224_002111	{@st41}Trocar
 UI_20160224_002112	Come to the merry kingdom
 UI_20160224_002113	Team Battle League Schedule
 UI_20160224_002114	Recent Records
-UI_20160224_002115	{@st45tw2}Category{/}
+UI_20160224_002115	{@st45tw2}Categoria{/}
 UI_20160224_002116	{@st41c}%s{/}
 UI_20160224_002117	{@st41c}%sm{/}
 UI_20160224_002118	Temple Shooter is gathering the Vubbes back to the Crystal Mine that is now void of Mirtis' rule.{nl}Defeat Temple Shooter and Ajuda make Crystal Mine safe once more.
-UI_20160224_002119	{@st41c}Chapter %s{/}
+UI_20160224_002119	{@st41c}Capítulo %s{/}
 UI_20160224_002120	Nome & Class
 UI_20160224_002121	{@st41b}Refresh
 UI_20160224_002122	View Recent History
@@ -2220,7 +2220,7 @@ UI_20160718_002218	Regional GvG Rankings
 UI_20160718_002219	{@st59}Fechar
 UI_20160718_002220	{@st59b}Regional GvG{nl}{@st59s} - Rewards are given on a weekly basis and the rankings will reset.{nl}- Refer to the Rewards List for more details.{nl}{/}
 UI_20160718_002221	{@st66b}Rank %s{/}
-UI_20160718_002222	{@sti8}{s18}{ds}Participants (%s){/}
+UI_20160718_002222	{@sti8}{s18}{ds}Participantes (%s){/}
 UI_20160718_002223	{@st41}Recusado{/}
 UI_20160718_002224	{@st66d}%s participando (Dentre %s logados){/}
 UI_20160718_002225	{@st41}Move to Zone
@@ -3014,7 +3014,7 @@ UI_20180208_003013	{@st59}Info de Avanço{/}
 UI_20180208_003014	{@st66b}Nome do item dropado{/}
 UI_20180320_003015	{img icon_item_silver 24 24}{@st41b}Consome %s Silver{nl}Remova a carta sem perder estrelas{/}
 UI_20180320_003016	Cartas Level 1 não consomem Silver.
-UI_20180320_003017	Recrutando participantes para quest de guilda.
+UI_20180320_003017	Recrutando participantes para Missão de Guilda.
 UI_20180320_003018	{@st43}Aprimorar Carta Lendária{/}
 UI_20180320_003019	{@st43b}{#ffba00}{s20}Chance de Sucesso [%s%]{/}
 UI_20180320_003020	{@st43b}{s17}{#ffba00}Aumenta o nível da carta em +1[{img star_mark 20 20}] no sucesso{/}
