@@ -3815,17 +3815,16 @@ UI_20190201_003814	Imposto da Cidade
 UI_20190201_003815	Fundos de Imposto{img tip_questionmark 20 20}
 UI_20190201_003816	Taxa de Mercado{img tip_questionmark 20 20}
 UI_20190201_003817	ⓘ Guildas que conquistam um território podem acessar a página de benefícios para ajustar o imposto da cidade e receber os fundos.
-UI_20190223_003818	* Attendance rewards can only be received once per day and are automatically issued into the inventory of the first character that you log in with.{nl}* Rewards can only be received during the event period and will no longer be issued when the event period is over.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}	UI_20171128_002927	* Daily attendance rewards will be automatically sent once per day to the inventory of the first character to access the game.{nl}* Enchant Scroll (14 Days).{nl}* Rewards can only be received during the attendance check period. After this period, no more rewards will be sent.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 마법 부여 스크롤(14일)을 제외한 모든 아이템은 팀 창고로 이동할 수 있습니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}	
-UI_20190223_003819	{@st59}Remove the camp{/}	{@st59}캠프를 해제합니다{/}				
-UI_20190223_003820	{@st59}Close equipment appearance UI.{/}	{@st59}장비 외형 초기화 UI를 닫습니다{/}				
-UI_20190223_003821	{@st43}Reset Equipment Appearance{/}	{@st43}장비 외형 초기화{/}				
-UI_20190223_003822	{@st43b}{s22}Before{/}	{@st43b}{s22}변경 전{/}				
-UI_20190223_003823	{@st66d_y}{s22}After{/}	{@st66d_y}{s22}변경 후{/}				
-UI_20190223_003824	{@st43b}{s18}Reset{/}{/}	{@st43b}{s18}초기화 하기{/}{/}				
-UI_20190223_003825	{@st41}Corpse Parts required: %s	{@st41}필요 사체 파편 : %s개	UI_20160323_002156	{@st41}Fragments Required : %s	{@st41}필요 파편 : %s개	
-UI_20190223_003826	Number of Corpse Parts	사체 파편의 개수	UI_20151224_001929	Number of Fragments	파편의 개수	
-UI_20190223_003827	{@st66b}Show No. of Corpse Parts{/}	{@st66b}메인 화면에 사체 파편의 개수 표시하기{/}	UI_20170726_002693	{@st66b}Show No. of Fragments{/}	{@st66b}메인 화면에 파편의 개수 표시하기{/}	
-UI_20190223_003828	{@st42}Number of Corpse Parts{/}	{@st42}사체 파편 개수{/}	UI_20170726_002694	{@st42}Necronomicon Fragments{/}	{@st42}네크로노미콘 파편의 개수{/}	
-UI_20190223_003829	{@st59}Collection (F11){/}	{@st59}컬렉션 (F11){/}	UI_20151224_001965	{@st59}Collection (F11){/}	{@st59}콜렉션 (F11){/}	
-UI_20190223_003830	{@st66b}See Party's Summon HP{/}	{@st66b}파티원 소환물 체력 보기{/}	UI_20180629_003337	{@st66b}See Party's Summon Names{/}	{@st66b}파티원 소환물 이름 보기{/}	
-UI_20190223_003831	Button	버튼				
+UI_20190223_003818	* Recompensas de comparecimento são recebidas uma vez por dia e automaticamente entregues no inventário do primeiro personagem que conectar.{nl}* Recompensas só podem ser recebidas durante o período do evento e não serão entregues quando o mesmo acabar.{nl}
+UI_20190223_003819	{@st59}Remover acampamento{/}
+UI_20190223_003820	{@st59}Fechar Janela de Aparência.{/}
+UI_20190223_003821	{@st43}Reiniciar Aparência de Item{/}
+UI_20190223_003822	{@st43b}{s22}Antes{/}
+UI_20190223_003823	{@st66d_y}{s22}Depois{/}
+UI_20190223_003824	{@st43b}{s18}Reiniciar{/}{/}
+UI_20190223_003825	{@st41}Fragmentos necessários: %s
+UI_20190223_003827	{@st66b}Exibir nr. Fragmentos de Corpos{/}
+UI_20190223_003828	{@st42}Nr. Fragmentos de Corpos{/}
+UI_20190223_003829	{@st59}Coleção (F11){/}
+UI_20190223_003830	{@st66b}Ver HP de Invocação do grupo{/}
+UI_20190223_003831	Botão
