@@ -27134,7 +27134,7 @@ ETC_20170313_027128	I'm interested, yes.
 ETC_20170313_027129	What are you doing here?
 ETC_20170313_027130	I'm worried there might be other victims at the Novaha Monastery.
 ETC_20170313_027131	Insert one Yellow Gazing Golem core.
-ETC_20170313_027132	Acquire rubbed copy.
+ETC_20170313_027132	Obter cópia.
 ETC_20170313_027133	Acquired a rubbed copy of the writings on the tombstone.
 ETC_20170313_027134	Copying the writings...
 ETC_20170313_027135	Inserting the Yellow Gazing Golem core...
@@ -31112,7 +31112,7 @@ ETC_20171128_031085	Tired Monk
 ETC_20171128_031086	Detector System
 ETC_20171128_031087	Auxiliary Detector System
 ETC_20171128_031088	You couldn't destroy all the security devices.
-ETC_20171128_031089	Starting in 10 seconds.
+ETC_20171128_031089	Iniciando em 10 segundos.
 ETC_20171128_031090	When it is finished
 ETC_20171128_031091	3rd Room Gimmick
 ETC_20171128_031092	1st Gimmick
@@ -34633,7 +34633,7 @@ ETC_20180629_034597	Guild quest "{GuildEvent}" has been canceled.
 ETC_20180629_034598	Read
 ETC_20180629_034599	Unread
 ETC_20180629_034600	This item is already in your basket.
-ETC_20180629_034601	{#0000ff}{SELLER}{#000000} sold {#0000ff}{ITEM}{#000000} {#ff0000}x{COUNT}{#000000}
+ETC_20180629_034601	{#0000ff}{SELLER}{#000000} vendeu {#0000ff}{ITEM}{#000000} {#ff0000}x{COUNT}{#000000}
 ETC_20180629_034602	Por favor, retire todos os seus itens.{Nl} Além disso, defina seu cabelo para cor padrão.
 ETC_20180629_034603	No target item.
 ETC_20180629_034604	[{USER}] has awakened [{ITEM}].
@@ -34742,9 +34742,9 @@ ETC_20180629_034706	[Estilista]{nl}       Kastytis
 ETC_20180629_034707	[Mestre Exorcist]{nl}     Sydow Merrinblock
 ETC_20180629_034708	[Mestre Pied Piper]{nl}            Jogaila
 ETC_20180629_034709	Exorcism Site
-ETC_20180629_034710	Starting in 60 seconds!
+ETC_20180629_034710	Iniciando em 60 segundos!
 ETC_20180629_034711	Protect the shelter and destroy the monsters' portals.
-ETC_20180629_034712	Starting in 10 seconds!
+ETC_20180629_034712	Iniciando em 10 segundos!
 ETC_20180629_034713	Go to Curtis.
 ETC_20180629_034714	Pile of Boxes
 ETC_20180629_034715	All the equipment has been destroyed.
@@ -37112,7 +37112,7 @@ ETC_20190104_037026	Buy Swordsman supplies	소드맨 물품 구입
 ETC_20190104_037027	Buy Archer supplies	아처 물품 구입			
 ETC_20190104_037028	I've just come to say hello after hearing about you.	소문을 듣고 인사를 드리러 왔다고 한다			
 ETC_20190104_037029	Reached the third class advancement	3차 전직 달성			
-ETC_20190104_037030	Share Quest Progress to Activate Statue of Goddess Vakarine	퀘스트 진행도를 알리고 바카리네 여신상을 활성화한다			
+ETC_20190104_037030	Compartilhar Progresso de Missões para Ativar Estátuas
 ETC_20190104_037031	O que me diz desta prateleira de livros rasgados?
 ETC_20190104_037032	[Event] Rota's Special Support	[이벤트]로타의 특별 지원			
 ETC_20190104_037033	Buy Assassin supplies	어쌔신 물품 구입			
@@ -37529,7 +37529,7 @@ ETC_20190104_037443	[{#33FF33}{SELF}{/}] has reached [{#33FF33}physical defense 
 ETC_20190104_037444	[{#33FF33}{SELF}{/}] has reached [{#33FF33}magic defense of {NUM}{/}] for the first time in the Guild.	[{#33FF33}{SELF}{/}]님이 길드 최초로 [{#33FF33}마법 방어력 : {NUM}{/}]을 돌파하셨습니다.			
 ETC_20190104_037445	Due to [{#33FF33}{SELF}{/}]'s contribution, the Guild has reached [{#33FF33}Guild Level {NUM}{/}].	[{#33FF33}{SELF}{/}]님의 마지막 기여로 [{#33FF33} 길드 {NUM}레벨{/}]을 달성했습니다.			
 ETC_20190104_037446	You have completed the [{#33FF33}{MISSION}{/}] quest with the help of your guild members.	길드원분들의 참여로 [{#33FF33}{MISSION}{/}] 길드 퀘스트를 성공했습니다.			
-ETC_20190104_037447	The Guild Tower has been built on Channel 1 of the [{#33FF33}{ZONE}{/}] area.	길드 타워가 [{#33FF33}{ZONE}{/}] 지역 1채널에 설치되었습니다.			
+ETC_20190104_037447	A Torre da Guilda foi construída no Canal 1{nl}do mapa [{#33FF33}{ZONE}{/}].
 ETC_20190104_037448	{@st64}Bottom Menu 	{@st64}하단 메뉴 			
 ETC_20190104_037449	You can press the button or the 	버튼이나 			
 ETC_20190104_037450	key 	키를 눌러 			
@@ -37639,7 +37639,7 @@ ETC_20190104_037553	You have gained the Strengthened Unity buff.	결속 강화 �
 ETC_20190104_037554	The effects of Strengthened Unity have worn off.	결속 강화 효과가 사라졌습니다.			
 ETC_20190104_037555	You have been saved by the effects of Strengthened Unity.	결속 강화 효과에 의해 위기를 모면했습니다.			
 ETC_20190104_037556	You have been forcibly banished by Boruta.	보루타에 의해 강제 유폐 당했습니다			
-ETC_20190104_037557	About the source of the supplies	보급품 출처에 대하여			
+ETC_20190104_037557	Sobre a origem dos suprimentos
 ETC_20190104_037558	Death: 	사망 : 			
 ETC_20190104_037559	s attack	의 공격			
 ETC_20190104_037560	Death: Boruta's Attack	사망 : 보루타의 공격			
@@ -37774,7 +37774,7 @@ ETC_20190104_037688	You must be Lv. 15 or higher to deposit or withdraw silver.	
 ETC_20190104_037689	Guild Territory Wars starting in 5 minutes.	길드 콜로니전 시작 5분 전입니다.	ETC_20170912_028929	Guild Territory Wars starting in 5 minutes.{nl}Guilds with Spots seized may enter the Spot Area now.	길드 콜로니전 시작 5분 전입니다.{nl}스팟 점령 길드는 해당 스팟 지역으로 미리 입장할 수 있습니다.
 ETC_20190104_037690	{Name} has been defeated by {From} from {FromGuild}.	{FromGuild} 길드의 {From}님에게 길드원 {Name}님이 당했습니다.	ETC_20180413_031970	{Name} has been defeated by {From} from {FromGuild}.	{FromGuild}의 {From}에게 길드원 {Name}님이 당했습니다.
 ETC_20190104_037691	Guild member {Name} has defeated {Target} of {TargetGuild}.	길드원 {Name}님이 {TargetGuild} 길드의 {Target}님을 처치했습니다.	ETC_20171128_031010	Guild member {Name} has defeated {Target} of {TargetGuild}.	길드원 {Name}님이 {TargetGuild}의 {Target}을 처치했습니다.
-ETC_20190104_037692	Purchase Armaments	군수품 구입			
+ETC_20190104_037692	Comprar Armamentos
 ETC_20190104_037693	Installation cannot be built.	설치할 수 없는 위치입니다.			
 ETC_20190104_037694	Seizing	점령중			
 ETC_20190104_037695	The Mysterious Cyrstal cannot be used right now.	신비한 크리스탈 재사용 대기시간 입니다.			
@@ -37823,7 +37823,7 @@ ETC_20190104_037737	Grade B : Baron Allerno : Not Seized	B등급 아렐르노 �
 ETC_20190104_037738	Territory Amplifiers will be generated in 30 seconds.	30초 뒤에 콜로니 증폭기가 생성됩니다.			
 ETC_20190104_037739	[{name}] dealt the last blow to an Amplifier!{nl}All guild members receive {point} seize points!	길드 내 [{name}] 유저가 증폭기를 마지막으로 타격하는데 성공했습니다!{nl}보상으로 점령 포인트를 {point} 획득했습니다!			
 ETC_20190104_037740	[{name}] dealt the last blow to the amplifier!{nl}(No benefits are applied since your guild is already holding the Spot.)	길드 내 [{name}] 유저가 증폭기를 마지막으로 타격하는데 성공했습니다!{nl}(현재 해당 지역을 점령중이므로 파괴 보상을 받을 수 없습니다.)			
-ETC_20190104_037741	Receive Honor Reward	점령 명예 보상 받기				
+ETC_20190104_037741	Receber Recompensa de Honra
 ETC_20190104_037742	You cannot receive the Honor Reward currently.	지금은 점령 명예 보상을 받을 수 없습니다.				
 ETC_20190104_037743	You have received the Honor Reward!	콜로니전 승리 기념으로 점령 명예 보상을 받았습니다!				
 ETC_20190104_037744	You have already received the Honor Reward	이미 점령 명예 보상을 받았습니다				
@@ -40699,7 +40699,7 @@ ETC_20190104_040613	[Mestre Wizard]{nl}Lucia
 ETC_20190104_040614	[Mestre Archer]{nl}Edmundas Tiller
 ETC_20190104_040615	[Gestor de Mercado]{nl}Logi
 ETC_20190104_040616	[Treinadora de Mascote]{nl}Christina
-ETC_20190104_040617	[Diretora de Pesca]{nl}Joha
+ETC_20190104_040617	[Gerente de Pesca]{nl}Joha
 ETC_20190104_040618	[Team Battle League]{nl}Valis
 ETC_20190104_040619	[Mestre Scout]{nl}Recon Rimgaile
 ETC_20190104_040620	[Mestre Enchanter]{nl}Yena Havindar
@@ -40892,14 +40892,14 @@ ETC_20190223_040806	Exibe a quantidade restante de esqueletos de Necromancer e z
 ETC_20190223_040807	{nl} {nl}Exibe o HP restante da invocação da habilidade [Summoning]{nl}Salamion, Shoggoth e [Corpse Tower].{nl}
 ETC_20190223_040808	Raid de Hangout da Guilda
 ETC_20190223_040809	Você pode participar de uma Raid de Hangout da Guilda quando o Nível da Guilda alcançar o nível 5.
-ETC_20190223_040810	A Raid de Hangout da Guilda acontece no Hangout da sua Guilda.{nl}Requer que a Guilda esteja no nível 5 para que possa ser iniciada.{nl}Interaja com o Sage Emissário no Hangout da sua Guilda para iniciar a Raid.
+ETC_20190223_040810	A Raid de Hangout da Guilda acontece no Hangout da sua Guilda.{nl}Requer que a Guilda esteja no nível 5 para que possa ser iniciada.{nl}Interaja com a Sage Emissária no Hangout da sua Guilda para iniciar a Raid.
 ETC_20190223_040811	{nl} {nl}Para iniciar uma Raid de Hangout da Guilda, você precisa ser o Líder da Guilda ou ter a autoridade para isso.{nl}A dificuldade será ajustada quando a Guilda alcançar o nível 6.
-ETC_20190223_040812	Níveis maiores de dificuldade serão liberado conforme o Nível da Guilda aumenta, atingindo no máximo o nível 15 de dificuldade.
+ETC_20190223_040812	Níveis maiores de dificuldade serão liberados conforme o Nível da Guilda aumenta, atingindo no máximo o nível 15 de dificuldade.
 ETC_20190223_040813	{nl} {nl}Somente membros da Guilda podem participar das Raids, e ela pode ser continuada ao derrotar o monstro Chefe.
 ETC_20190223_040814	Você pode invocar um novo monstro Chefe após derrotar o atual. Se a Raid for interrompida por qualquer motivo, você pode reiniciar de onde parou, com o HP do Chefe da forma que estava quando parou.{nl} {nl}Membros da Guilda que voltaram depois de terem saído não poderão participar destas Raids por 14 dias.{nl}Membros de outras Guildas não poderão participar das Raids da sua Guilda.
-ETC_20190223_040815	{nl} {nl}Participantes recebem 1 ponto de contribuição por 10.000 de dano causado no monstro Chefe.{nl}Os pontos de contribuição serão somados e convertidos em Silver toda Segunda-feira, às 6AM, pelo Sage Emissário.
+ETC_20190223_040815	{nl} {nl}Participantes recebem 1 ponto de contribuição por 10.000 de dano causado no monstro Chefe.{nl}Os pontos de contribuição serão somados e convertidos em Silver toda Segunda-feira, às 6AM, pela Sage Emissária.
 ETC_20190223_040816	A quantidade de Silver dependerá do Nível da Guilda e dos pontos de contribuição de cada membro.{nl}Se a Raid falhar e o Chefe não for derrotado, a contribuição desta sessão em particular não será salva.
-ETC_20190223_040817	{nl} {nl}Os pontos de contribuição acumulados podem ser vistos com o Sage Emissário.
+ETC_20190223_040817	{nl} {nl}Os pontos de contribuição acumulados podem ser vistos com a Sage Emissária.
 ETC_20190223_040818	Info de Invocações
 ETC_20190223_040819	Exibe o número e o HP das invocações.
 ETC_20190223_040820	{nl} {nl}Informação das invocações podem ser vistas em outra aba da janela de grupo.{nl}Pressionando a tecla ({img key~ 40 40}) ou clicando no botão {img button_view_info 40 40) você poderá trocar entre info de grupo ou de invocações.
@@ -40967,7 +40967,7 @@ ETC_20190223_040881	{#0054FF}[{NUM2}]{/} pontos serão adicionados porque você 
 ETC_20190223_040882	{@st64}Você obteve Skill Reset Potion, Attribute Reset Potion{nl}e Class Points{nl}Bottom menu 
 ETC_20190223_040883	{@st64}Você obteve Skill Reset Potion e Attribute Reset potion.
 ETC_20190223_040884	Porquinhos Dourados encontrados: {POINT}
-ETC_20190223_040885	Encontre o Porquinho Dourado: Total de recompensas: - {COUNT}
+ETC_20190223_040885	Encontre o Porquinho Dourado - Recompensas: {COUNT}
 ETC_20190223_040886	Você permaneceu inativo por mais de 100 segundos! Você não irá receber as recompensas!
 ETC_20190223_040887	Melhores Jogadores:{nl}Parabéns, {TEAM}!
 ETC_20190223_040888	Resolução de Ano Novo: Completou {COUNT} vezes
@@ -41056,14 +41056,14 @@ ETC_20190228_040970	2019 Leticia's Treasure Chest (Season 2)
 ETC_20190228_040971	Um baú repleto dos itens mais preciosos da Leticia. Use para obter os seguintes itens:{nl} - Shining 9-Star Gem Abrasive x1{nl} - Token Box (x10) x1
 ETC_20190228_040972	Best Man Costume (30 Dias)
 ETC_20190228_040973	Bridesmaid Costume (30 Dias)
-ETC_20190228_040974	{PC} 	
+ETC_20190228_040974	{PC} usou 
 ETC_20190228_040975	Card Album: Black
-ETC_20190228_040976	 usado para invocar{nl}{BossName}!
+ETC_20190228_040976	 para invocar {BossName}!
 ETC_20190228_040977	Card Album: Ominous
-ETC_20190305_040978	* Recompensas de comparecimento são entregues automaticamente uma vez por dia, para o personagem que conectar primeiro.
-ETC_20190305_040979	* Recompensas de comparecimento só podem ser recebidas durante o período de comparecimento.			
-ETC_20190305_040980	* Comparecimento de jogadores novatos/retornando pode variar de acordo com o dia que iniciou ou retornou para o jogo.
-ETC_20190305_040981	Ajudante do Evento Diário
+ETC_20190305_040978	* Recompensas diárias são entregues automaticamente uma vez por dia, para o personagem que conectar primeiro.
+ETC_20190305_040979	* Recompensas diárias só podem ser recebidas durante o período de comparecimento.			
+ETC_20190305_040980	* Pode variar entre jogadores novatos/retornando de acordo com o dia que iniciou ou retornou para o jogo.
+ETC_20190305_040981	{@st41}{#FF6700}Ajudante do Evento Diário{/}{/}
 ETC_20190305_040982	Mudar para Info de Grupo (`)
 ETC_20190305_040983	Mudar para Info de Invocação (`)
 ETC_20190309_040984	Loja do Gemstone Feud

@@ -2823,7 +2823,7 @@ UI_20170912_002822	%s online      %s offline
 UI_20170912_002823	Ver online
 UI_20170912_002824	{@st41b}Convidar
 UI_20170912_002825	{@st66d_y}{s18}Nível da Guilda{/}
-UI_20170912_002826	{@st43b}{s18}Torre da Guilda(%s/1){/}
+UI_20170912_002826	{@st43b}{s18}Torre da Guilda (%s/1){/}
 UI_20170912_002827	Benefícios
 UI_20170912_002828	Os benefícios da Guild são atualizados para o atual nível da torre do Templar.
 UI_20170912_002829	Pontos de Atributo: %s
@@ -3270,7 +3270,7 @@ UI_20180629_003269	{img silver 20 20}Preço
 UI_20180629_003270	Se desmarcar, o Potencial do seu item será reduzido,{Nl}porém não consumirá Silver.
 UI_20180629_003271	Por favor registre um núcleo ou uma arma que você deseja manter a aparência.
 UI_20180629_003272	{@st43b}{s20}OK
-UI_20180629_003273	Update message board.
+UI_20180629_003273	Atualizar janela de mensagens.
 UI_20180629_003274	Loja de Despertar
 UI_20180629_003275	{@st42}Close
 UI_20180629_003276	{@st42}Despertar
@@ -3668,7 +3668,7 @@ UI_20190104_003667	Token Benefits	토큰 혜택
 UI_20190104_003668	{s18}Expiring soon.	{s18}곧 기간이 만료됩니다.	UI_20170330_002600	{s18}Items with Expiration Date	{s18}기간제 아이템 목록
 UI_20190104_003669	{s18}Are you sure you want to close?	{s18}그래도 종료 하시겠습니까?	UI_20170330_002601	Item(s) close to expiration date. Close?	곧 기간이 만료됩니다. 종료하시겠습니까?
 UI_20190104_003670	{@st66b}Upgrade	{@st66b}업그레이드			
-UI_20190104_003671	{@st66b}Shared Storage{/}	{@st66b}공용 창고{/}			
+UI_20190104_003671	{@st66b}Armazém Compart.{/}
 UI_20190104_003672	ⓘ Guildas defendendo um território são definidas automaticamente como participantes.{nl}ⓘ Somente o Líder da Guilda pode mudar a configuração de participação, e uma vez colocado como  
 UI_20190104_003673	, a função de Líder não pode mais ser transferida.{nl}ⓘ Configurações de participação só podem ser mudadas até 5 minutos antes do início da GTW, ou 1 minuto após o final.{nl}ⓘ Mudanças podem ser feitas independente de ter instalado ou não uma Torre de Guilda.{nl}ⓘ Membros da Guilda que abandonaram sua Guilda anterior há menos de 14 dias não podem participar da GTW.
 UI_20190104_003674	{@st41b}{s16}Benefícios da Vitória
@@ -3693,7 +3693,7 @@ UI_20190104_003692	{@st41d}3 meses
 UI_20190104_003693	ⓘ Cada depósito/retirada equivale a 20 milhas.{nl}ⓘ A milhagem é acumulada quando membros da guilda conectam, além de participar de missões de guilda e GTW.
 UI_20190104_003694	Check online members with authority to accept applications	가입 승인 직급이 있는 접속한 길드원 표시			
 UI_20190104_003695	Show recruiting guilds only	가입 가능한 길드만 보기			
-UI_20190104_003696	Skip cube animation	큐브 애니메이션 스킵			
+UI_20190104_003696	Pular animação do cubo
 UI_20190104_003697	{@st43}{s20}Team Use{/}	{@st43}{s20}팀 이용 현황{/}			
 UI_20190104_003698	Ranking	랭킹 정보			
 UI_20190104_003699	{@st43}Notícias{/}
