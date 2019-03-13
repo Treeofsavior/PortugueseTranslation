@@ -2071,7 +2071,7 @@ UI_20160224_002069	{@st66b}(Pode abrir até 2x se possuir Token){/}
 UI_20160224_002070	{@st41b}You have exceeded the number of times allowed.{/}
 UI_20160224_002071	{@st66b}Info Básica
 UI_20160224_002072	{@st66b}Property
-UI_20160224_002073	O Mestre da Guilda está à procura de participantes para o evento de Guilda.
+UI_20160224_002073	O Líder da Guilda está à procura de participantes para o evento de Guilda.
 UI_20160224_002074	{@st63_yellow}Membros :{/}
 UI_20160224_002075	{@st63}%s participantes (Login %s){/}
 UI_20160224_002076	{@st63_yellow}Local :{/}
@@ -2836,14 +2836,14 @@ UI_20170912_002835	{img in_arrow 20 20}{@st66b}{s18}Depositar  {/}
 UI_20170912_002836	ⓘ This item can be distributed to guild members by the guild master, after which it becomes bound to each character that receives it.{nl}ⓘ To receive the item, check your lodge Message Box.
 UI_20170912_002837	{@st43b}{s18}Guild Wars{/}
 UI_20170912_002838	Neutro Desativado: Alerta
-UI_20170912_002839	O alerta é exibido a partir de 1 dia antes da neutralidade ser cancelada.{Nl}Apenas o Mestre da Guilda pode alterar essa opção.
+UI_20170912_002839	O alerta é exibido a partir de 1 dia antes da neutralidade ser cancelada.{Nl}Apenas o Líder da Guilda pode alterar essa opção.
 UI_20170912_002840	ⓘ Torres de Guilda destruídas em guerras podem ser reconstruídas após 24 horas.{Nl} ⓘ Declarações de guerra podem ser feitas na torre da guilda adversária. {Nl} ⓘ A guerra começa 1 hora depois de ter sido declarada. {Nl} ⓘ Depois de declarar guerra, sua guilda não pode ser dissolvida até depois do fim da guerra. {nl} ⓘ Você não pode declarar uma guerra sem uma Torre da Guilda.
 UI_20170912_002841	{@st43b}{s18}Guerras Territoriais{/}
 UI_20170912_002842	O que são Guerras Territoriais
 UI_20170912_002843	Status
 UI_20170912_002844	Não Entrar
 UI_20170912_002845	> Guildas com Áreas apreendidas participam automaticamente.{nl}> Depois de definir o status para  
-UI_20170912_002846	, você não pode transferir a posição do Mestre da Guilda.{nl}> Apenas um Mestre da Guilda Templar pode mudar o status da participação.{nl}> Esta opção só pode ser alterada até 5 minutos antes do início da Guerra, ou após 1 minuto após o término.{nl}> O status de participação pode ser alterado independentemente de sua guilda ter uma torre ou não.
+UI_20170912_002846	, você não pode transferir a posição do Líder da Guilda.{nl}> Apenas um Líder da Guilda Templar pode mudar o status da participação.{nl}> Esta opção só pode ser alterada até 5 minutos antes do início da Guerra, ou após 1 minuto após o término.{nl}> O status de participação pode ser alterado independentemente de sua guilda ter uma torre ou não.
 UI_20170912_002847	{@st43b}{s18}Benefícios da Área{/}
 UI_20170912_002848	Áreas
 UI_20170912_002849	Grade
@@ -3381,7 +3381,7 @@ UI_20180704_003380	Por favor registre um Material de Aparência ou itens equival
 UI_20180723_003381	{@st42}{s20}Prêmios da Vitória
 UI_20180723_003382	Data da Captura
 UI_20180723_003383	Recompensas
-UI_20180723_003384	> As recompensas de vitória são aplicadas 1 hora após o final de cada sessão GTW. {Nl} > Apenas o Mestre da Guilda pode retirar essas recompensas. Os itens são enviados para o seu Armazenamento da Guilda.
+UI_20180723_003384	> As recompensas de vitória são aplicadas 1 hora após o final de cada sessão GTW. {Nl} > Apenas o Líder da Guilda pode retirar essas recompensas. Os itens são enviados para o seu Armazenamento da Guilda.
 UI_20180723_003385	{@st41b}{s16}Prêmios da Vitória
 UI_20180723_003386	{@st42}{s16}Receber
 UI_20180809_003387	{@st41b}Abrir Voucher
