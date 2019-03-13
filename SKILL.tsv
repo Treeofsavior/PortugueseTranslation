@@ -3019,25 +3019,25 @@ SKILL_20150317_003018	Astral Body Explosion: Aprimorar 2	유체 폭발: 강화 2
 SKILL_20150317_003019	Enhanced the damage of [Astral Body Explosion] to Sadhu's 2nd Circle standards.	[유체 폭발] 대미지가 사두 2서클 수준으로 강화됩니다.				
 SKILL_20150317_003020	Astral Body Explosion: Aprimorar 3	유체 폭발: 강화 3				
 SKILL_20150317_003021	Enhanced the damage of [Astral Body Explosion] to Sadhu's 3rd Circle standards.	[유체 폭발] 대미지가 사두 3서클 수준으로 강화됩니다.				
-SKILL_20150317_003022	Use One-handed Swords	한손검 사용				
+SKILL_20150317_003022	Utilizar Espada de 1 Mão
 SKILL_20150317_003023	Able to use the [One-handed Sword] weapon type	[한손검] 계열 무기가 착용 가능해집니다				
-SKILL_20150317_003024	Use Two-handed Swords	양손검 사용				
+SKILL_20150317_003024	Utilizar Espada de 2 Mãos
 SKILL_20150317_003025	Able to use the [Two-handed Sword] weapon type	[양손검]계열 무기가 착용 가능해집니다				
-SKILL_20150317_003026	Use One-handed Spears	한손창 사용				
+SKILL_20150317_003026	Utilizar Lança de 1 Mão
 SKILL_20150317_003027	Able to use the [One-handed Spear] weapon type	[한손창]계열 무기가 착용 가능해집니다				
-SKILL_20150317_003028	Use Two-handed Spears	양손창 사용				
+SKILL_20150317_003028	Utilizar Lança de 2 Mãos
 SKILL_20150317_003029	Able to use the [Two-handed Spear] weapon type	[양손창]계열 무기가 착용 가능해집니다				
-SKILL_20150317_003030	Use Bows	활 사용				
+SKILL_20150317_003030	Utilizar Arco
 SKILL_20150317_003031	Able to use the [Bow] weapon type	[활]계열 무기가 착용 가능해집니다				
-SKILL_20150317_003032	Use Crossbows	크로스보우 사용				
+SKILL_20150317_003032	Utilizar Besta
 SKILL_20150317_003033	Able to use the [Crossbow] weapon type	[크로스보우]계열 무기가 착용 가능해집니다				
-SKILL_20150317_003034	Use Rods	로드 사용				
+SKILL_20150317_003034	Utilizar Cetro
 SKILL_20150317_003035	Able to use the [Rod] weapon type	[로드]계열 무기가 착용 가능해집니다				
-SKILL_20150317_003036	Use Staves	스태프 사용				
+SKILL_20150317_003036	Utilizar Cajado
 SKILL_20150317_003037	Able to use the [Staff] weapon type	[스태프]계열 무기가 착용 가능해집니다				
-SKILL_20150317_003038	Use Maces	메이스 사용				
+SKILL_20150317_003038	Utilizar Maça
 SKILL_20150317_003039	Able to use the [Mace] weapon type	[메이스]계열 무기가 착용 가능해집니다				
-SKILL_20150317_003040	Use Wands	완드 사용				
+SKILL_20150317_003040	Utilizar Cetro
 SKILL_20150317_003041	Able to use the [Wand] weapon type	[완드]계열 무기가 착용 가능해집니다				
 SKILL_20150323_003042	Pommel Beat	포멀비트				
 SKILL_20150323_003043	Double Slash	더블슬래쉬				
@@ -3528,7 +3528,7 @@ SKILL_20150401_003527	Carnivory: Aprimorar 2	육식화: 강화 2
 SKILL_20150401_003528	Enhanced the damage of [Carnivory] to Druid's 2nd Circle standards.	[육식화] 대미지가 드루이드 2서클 수준으로 강화됩니다.				
 SKILL_20150401_003529	Carnivory: Aprimorar 3	육식화: 강화 3				
 SKILL_20150401_003530	Enhanced the damage of [Carnivory] to Druid's 3rd Circle standards.	[육식화] 대미지가 드루이드 3서클 수준으로 강화됩니다.				
-SKILL_20150401_003531	Use Pistol	권총 사용				
+SKILL_20150401_003531	Utilizar Pistola
 SKILL_20150401_003532	Can use [Pistol] weapons	[권총]계열 무기가 착용 가능해집니다				
 SKILL_20150406_003533	Poisonous Arrow	맹독 화살				
 SKILL_20150406_003534	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use bump of shield to attack.{nl}Block enemy's attack first then attack for additional damage.	{#DD5500}{ol}[물리] - [때리기]{/}{/}{nl}방패 돌기를 이용해 공격합니다.{nl}적의 공격을 블럭후 공격하면 추가대미지를 줍니다.				
@@ -3993,7 +3993,7 @@ SKILL_20150414_003992	Item Awakening: Quick	아이템 어웨이크닝: 속전
 SKILL_20150414_003993	Decreases the amount of monsters in dungeons created with [Item Awakening] by 1.	[아이템 어웨이크닝]으로 생성된 던전의 몬스터 수가 1마리 줄어듭니다.				
 SKILL_20150414_003994	Item Awakening: Prompt Decision	아이템 어웨이크닝: 속결				
 SKILL_20150414_003995	Decreases the amount of waves in dungeons created with [Item Awakening] by 1.	[아이템 어웨이크닝]으로 생성된 던전의 웨이브 수가 1회 줄어듭니다.				
-SKILL_20150414_003996	Weapon Swap	무기 스왑				
+SKILL_20150414_003996	Troca de Arma
 SKILL_20150414_003997	You can change weapon.	무기를 변경 할 수 있습니다.				
 SKILL_20150414_003998	Vendetta: Counter Attack	벤데타: 회심공격				
 SKILL_20150414_003999	Doubles the damage when hitting an enemy affected by the [Bleeding] status ailment with [Vendetta].	출혈 상태인 적에게 스킬 [벤데타] 적중 시 두배의 대미지가 적용됩니다.				
@@ -4270,11 +4270,11 @@ SKILL_20150714_004269	Allows you to equip the [Staff] weapon type.	[스태프] �
 SKILL_20150714_004270	Allows you to equip the [Mace] weapon type.	[메이스] 계열 무기를 착용할 수 있습니다.				
 SKILL_20150714_004271	Allows you to equip the [Wand] weapon type.	[완드] 계열 무기를 착용할 수 있습니다.				
 SKILL_20150714_004272	Allows you to equip the [Pistol] weapon type.	[권총] 계열 무기를 착용할 수 있습니다.				
-SKILL_20150714_004273	Cloth Mastery: Magic	천 마스터리: 마법				
+SKILL_20150714_004273	Maestria em Tecido: Magia
 SKILL_20150714_004274	Able to equip [Cloth] armor. In addition, increases your maximum SP and Magic Defense depending on the number of equipped [Cloth] armor and the attribute level. (Applies from 3 armor pieces)	[천] 계열 방어구를 착용할 수 있습니다. 또한 현재 착용한 [천] 방어구 수와 특성 레벨에 따라 최대 SP와 마법 방어력이 증가합니다. (3개 부터 적용)				
-SKILL_20150714_004275	Leather Mastery: Dexterity	가죽 마스터리: 기민함				
+SKILL_20150714_004275	Maestria em Couro: Destreza
 SKILL_20150714_004276	Able to equip [Leather] armor. In addition, increases your Evasion depending on the number of equipped [Leather] armor and the attribute level. (Applies from 3 armor pieces)	[가죽] 계열 방어구를 착용할 수 있습니다. 또한 현재 착용한 [가죽] 방어구 수와 특성 레벨에 따라 회피가 증가합니다. (3개 부터 적용)				
-SKILL_20150714_004277	Plate Mastery: Defense	판금 마스터리: 방어				
+SKILL_20150714_004277	Maestria em Metal: Defesa
 SKILL_20150714_004278	Able to equip [Plate] armor. In addition, increases your maximum HP and Physical Defense depending on the number of equipped [Plate] armor and the attribute level. (Applies from 3 armor pieces)	[판금] 계열 방어구를 착용할 수 있습니다. 또한 현재 착용한 [판금] 방어구 수와 특성 레벨에 따라 최대 HP와 물리 방어력이 증가합니다. (3개 부터 적용)				
 SKILL_20150714_004279	Dagger Mastery	단검 마스터리				
 SKILL_20150714_004280	Deals 20 additional damage per attribute level when attacking behind the enemy with a dagger. 	적의 후방에서 단검 공격 시 추가 대미지를 특성 레벨당 20 입힙니다.				
@@ -5313,7 +5313,7 @@ SKILL_20151016_005312	Wide Range Attack Rate Increases	광역 공격 비율이 �
 SKILL_20151016_005313	Orb Summon Debuff	오브 소환 디버프				
 SKILL_20151016_005314	Maestria em Adaga: Ataque Súbito
 SKILL_20151016_005315	Deals 2.5% additional damage per attribute level when attacking an enemy from behind with a dagger.	적의 후방에서 단검 기본 공격 시 특성 레벨당 2.5%의 추가 대미지를 입힙니다.	SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.	적의 후방에서 단검 공격 시 특성 레벨당 20의 추가 대미지를 입힙니다.	
-SKILL_20151016_005316	Use Rapiers	레이피어 사용				
+SKILL_20151016_005316	Utilizar Florete
 SKILL_20151016_005317	Allows you to equip the [Rapier] weapon type.	[레이피어] 계열 무기를 착용할 수 있습니다.				
 SKILL_20151016_005318	Aumento da Capacidade de Carga
 SKILL_20151016_005319	Aumenta o Peso Máximo Carregável em seu inventário em 20.
@@ -5415,7 +5415,7 @@ SKILL_20151022_005414	Fumigate state	소독 상태입니다.
 SKILL_20151022_005415	Shield Mastery: Projectile Defense	방패 마스터리: 투사체 방어				
 SKILL_20151022_005416	Poison Immunity	독 면역				
 SKILL_20151022_005417	Continuously decreases STA 	지속적으로 STA가 감소하는 상태입니다				
-SKILL_20151022_005418	Use Rifles	장총 사용				
+SKILL_20151022_005418	Utilizar Mosquete
 SKILL_20151022_005419	Allows you to equip the [Rifle] weapon type.	[장총] 계열 무기를 착용할 수 있습니다.				
 SKILL_20151022_005420	Tax Payment	세금 납부				
 SKILL_20151022_005421	You can pay tax through the Master. A quick way to become a model citizen is by paying a lot and on time.	마스터를 통해 세금을 납부합니다. 꾸준한 세금 납부는 모범 시민이 되는 가장 빠른 방법입니다.				
@@ -7405,28 +7405,28 @@ SKILL_20170313_007404	+30% EXP gains from hunting monsters{nl}+2 movement speed	
 SKILL_20170313_007405	+50% EXP gains from hunting monsters{nl}+3 movement speed{nl}+500 max. HP	몬스터 처치 시 획득 경험치 +50%{nl}이동 속도 +3{nl}최대 체력 + 500	SKILL_20161226_007306	+90% EXP from hunting monsters{nl}+3 movement speed	몬스터 처치 시 획득 경험치 +90%{nl}이동 속도 +3	
 SKILL_20170313_007406	+50% EXP gains from hunting monsters{nl}+4 movement speed{nl}+1000 max. HP	몬스터 처치 시 획득 경험치 +50%{nl}이동 속도 +4{nl}최대 체력 + 1000	SKILL_20161226_007308	+120% EXP from hunting monsters{nl}+4 movement speed	몬스터 처치 시 획득 경험치 +120%{nl}이동 속도 +4	
 SKILL_20170313_007407	+50% EXP gains from hunting monsters{nl}+5 movement speed{nl}+2000 max. HP	몬스터 처치 시 획득 경험치 +50%{nl}이동 속도 +5{nl}최대 체력 + 2000	SKILL_20161226_007310	+150% EXP from hunting monsters{nl}+5 movement speed	몬스터 처치 시 획득 경험치 +150%{nl}이동 속도 +5	
-SKILL_20170313_007408	* Can change weapons	* 무기 변경 가능	SKILL_20150714_004261	You can change weapons.	무기를 변경할 수 있습니다.	
-SKILL_20170313_007409	* Can equip [One-handed Sword] type weapons	* [한손검] 계열 무기 착용 가능	SKILL_20150714_004262	Allows you to equip the [One-handed Sword] weapon type.	[한손검] 계열 무기를 착용할 수 있습니다.	
-SKILL_20170313_007410	* Can equip [Two-handed Sword] type weapons	* [양손검] 계열 무기 착용 가능	SKILL_20150714_004263	Allows you to equip the [Two-handed Sword] weapon type.	[양손검] 계열 무기를 착용할 수 있습니다.	
-SKILL_20170313_007411	* Can equip [One-handed Spear] type weapons	* [한손창] 계열 무기 착용 가능	SKILL_20150714_004264	Allows you to equip the [One-handed Spear] weapon type.	[한손창] 계열 무기를 착용할 수 있습니다.	
-SKILL_20170313_007412	* Can equip [Two-handed Spear] type weapons	* [양손창] 계열 무기 착용 가능	SKILL_20150714_004265	Allows you to equip the [Two-handed Spear] weapon type.	[양손창] 계열 무기를 착용할 수 있습니다.	
-SKILL_20170313_007413	* Can equip [Bow] type weapons	* [활] 계열 무기 착용 가능	SKILL_20150714_004266	Allows you to equip the [Bow] weapon type.	[활] 계열 무기를 착용할 수 있습니다.	
-SKILL_20170313_007414	* Can equip [Crossbow] type weapons	* [크로스보우] 계열 무기 착용 가능	SKILL_20150714_004267	Allows you to equip the [Crossbow] weapon type.	[크로스보우] 계열 무기를 착용할 수 있습니다.	
-SKILL_20170313_007415	* Can equip [Rod] type weapons	* [로드] 계열 무기 착용 가능	SKILL_20150714_004268	Allows you to equip the [Rod] weapon type.	[로드] 계열 무기를 착용할 수 있습니다.	
-SKILL_20170313_007416	* Can equip [Staff] type weapons	* [스태프] 계열 무기 착용 가능	SKILL_20150714_004269	Allows you to equip the [Staff] weapon type.	[스태프] 계열 무기를 착용할 수 있습니다.	
-SKILL_20170313_007417	* Can equip [Mace] type weapons	* [메이스] 계열 무기 착용 가능	SKILL_20150714_004270	Allows you to equip the [Mace] weapon type.	[메이스] 계열 무기를 착용할 수 있습니다.	
-SKILL_20170313_007418	* Can equip [Wand] type weapons	* [완드] 계열 무기 착용 가능	SKILL_20150714_004271	Allows you to equip the [Wand] weapon type.	[완드] 계열 무기를 착용할 수 있습니다.	
-SKILL_20170313_007419	* Can equip [Pistol] type weapons{nl}* Can attack with pistol using C button	* [권총] 계열 무기 착용 가능{nl}* C 버튼으로 권총 공격 가능	SKILL_20151224_006009	Allows you to equip the [Pistol] weapon type. You can also press the C button to attack.	[권총] 계열 무기를 착용할 수 있습니다. 또한 C 버튼으로 권총 공격을 할 수 있습니다.	
+SKILL_20170313_007408	* Permite trocar entre os dois conjuntos de armas equipadas no Inventário.{nl}* Pressione Alt + Z para trocar livremente entre cada um dos dois conjuntos.{nl}* Se uma habilidade requer uma arma específica, a troca será feita automaticamente ao usar a habilidade, desde que a arma esteja equipada em um dos dois conjuntos
+SKILL_20170313_007409	* Permite utilizar armas do tipo [Espada de 1 Mão]
+SKILL_20170313_007410	* Permite utilizar armas do tipo [Espada de 2 Mãos]
+SKILL_20170313_007411	* Permite utilizar armas do tipo [Lança de 1 Mão]
+SKILL_20170313_007412	* Permite utilizar armas do tipo [Lança de 2 Mãos]
+SKILL_20170313_007413	* Permite utilizar armas do tipo [Arco]
+SKILL_20170313_007414	* Permite utilizar armas do tipo [Besta]
+SKILL_20170313_007415	* Permite utilizar armas do tipo [Cetro]
+SKILL_20170313_007416	* Permite utilizar armas do tipo [Cajado]
+SKILL_20170313_007417	* Permite utilizar armas do tipo [Maça]
+SKILL_20170313_007418	* Permite utilizar armas do tipo [Cetro]
+SKILL_20170313_007419	* Permite utilizar armas do tipo [Pistola].{nl}* Pode atacar com a Pistola utilizando o a tecla C
 SKILL_20170313_007420	* Can equip [Cloth] armor{nl}* When equipped with 3 or more pieces of [Cloth] armor, increases maximum SP proportionally to attribute level and decreases magic damage taken by 5%{nl}* When equipped with 4 [Cloth] armor pieces, increases magic defense proportionally to attribute level and decreases magic damage taken by 10%	* [천] 계열 방어구 착용 가능{nl}* [천] 계열 방어구 3개 이상 착용 시, 받는 마법 피해가 5%{nl}    감소하며 특성 레벨에 비례하여 최대 SP가 증가{nl}* [천] 계열 방어구 4개 착용 시, 받는 마법 피해가 10% 감소하며{nl}    특성 레벨에 비례하여 마법 방어력이 추가로 증가	SKILL_20151224_006010	Allows you to equip [Cloth] armor. When equipped with 3 or more pieces of [Cloth] armor, increases your maximum SP and magic damage taken is decreased by 5%. When equipped with 4 [Cloth] armor pieces, your magic defense increases and magic damage taken is decreased by an additional 10%.	[천] 계열 방어구를 착용할 수 있습니다. [천] 계열 방어구 3개 이상 착용 시, 받는 마법 피해가 5% 감소하며 특성 레벨에 비례하여 최대 SP가 증가합니다. [천] 계열 방어구 4개 착용 시, 받는 마법 피해가 10% 감소하며 특성 레벨에 비례하여 마법 방어력이 추가로 증가합니다.	
 SKILL_20170313_007421	* Can equip [Leather] armor{nl}* When equipped with 3 or more pieces of [Leather] armor, increases evasion proportionally to attribute level{nl}* When equipped with 4 [Leather] armor pieces, increases evasion obtained from attributes by 50%.	* [가죽] 계열 방어구 착용 가능{nl} * [가죽] 계열 방어구 3개 이상 착용 시, 특성 레벨에 비례하여{nl}    회피가 증가{nl}* [가죽] 계열 방어구 4개 착용 시, 특성으로 증가하는 회피가{nl}    50% 상승	SKILL_20151224_006011	Allows you to equip [Leather] armor. When equipped with 3 or more pieces of [Leather] armor, increases your evasion. When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.	[가죽] 계열 방어구를 착용할 수 있습니다. [가죽] 계열 방어구 3개 이상 착용 시, 특성 레벨에 비례하여 회피가 증가합니다. [가죽] 계열 방어구 4개 착용 시, 특성으로 증가하는 회피가 50% 상승합니다.	
 SKILL_20170313_007422	* Can equip [Plate] armor{nl}* When equipped with 3 or more pieces of [Plate] armor, increases maximum HP proportionally to attribute level and decreases physical damage taken by 5%{nl}* When equipped with 4 [Cloth] armor pieces, increases maximum stamina proportionally to attribute level and decreases physical damage taken by 10%	* [판금] 계열 방어구 착용 가능{nl} * [판금] 계열 방어구 3개 이상 착용 시, 받는 물리 피해가 5%{nl}    감소하며 특성 레벨에 비례하여 최대 HP가 증가{nl} * [판금] 계열 방어구 4개 착용 시, 받는 물리 피해가 10%{nl}    감소하며 특성 레벨에 비례하여 최대 STA가 추가로 증가	SKILL_20151224_006012	Allows you to equip [Plate] armor.{nl}{nl}When equipped with 3 or more pieces of [Plate] armor, increases your maximum HP and physical damage taken is decreased by 5%.{nl}When equipped with 4 [Plate] armor pieces, your maximum stamina increases and physical damage taken is decreased by an additional 10%.	[판금] 계열 방어구를 착용할 수 있습니다. [판금] 계열 방어구 3개 이상 착용 시, 받는 물리 피해가 5% 감소하며 특성 레벨에 비례하여 최대 HP가 증가합니다. [판금] 계열 방어구 4개 착용 시, 받는 물리 피해가 10% 감소하며 특성 레벨에 비례하여 최대 STA가 추가로 증가합니다.	
 SKILL_20170313_007423	* Deals 2.5% additional damage per attribute level when attacking an enemy from behind with a dagger	* 적의 후방에서 단검 기본 공격 시 특성 레벨당{nl}    2.5%의 추가 대미지	SKILL_20151016_005315	Deals 2.5% additional damage per attribute level when attacking an enemy from behind with a dagger.	적의 후방에서 단검 기본 공격 시 특성 레벨당 2.5%의 추가 대미지를 입힙니다.	
 SKILL_20170313_007424	* Can use skill while riding companion	* 컴패니언에 탑승한채로 스킬 사용 가능	SKILL_20160718_006410	You can use the skill while mounting a companion.	컴패니언에 탑승한채로 스킬을 사용할 수 있습니다.	
-SKILL_20170313_007425	* Can equip [Rapier] type weapons	* [레이피어] 계열 무기 착용 가능	SKILL_20151016_005317	Allows you to equip the [Rapier] weapon type.	[레이피어] 계열 무기를 착용할 수 있습니다.	
+SKILL_20170313_007425	* Permite utilizar armas do tipo [Florete]
 SKILL_20170313_007426	* Increases character's maximum inventory weight by 20	* 캐릭터 인벤토리의 휴대 가능무게가 20 증가	SKILL_20151016_005319	Increases the maximum weight you can carry in your inventory by 20.	캐릭터 인벤토리의 휴대 가능무게가 20 증가합니다.	
 SKILL_20170313_007427	* Aumenta o intervalo de ciclo do consumo de Stamina do Mascote em 10 segundos por nível do atributo.
 SKILL_20170313_007428	* Quando o HP do Mascote baixar de 50%, ativa o efeito de [First Aid] para recuperar HP por 2 segundos.{nl}* A duração aumenta em 1 segundo por nível do atributo, a partir do nível 2.{nl}[First Aid] não pode ser ativado novamente por 10 minutos
-SKILL_20170313_007429	* Can equip [Rifle] type weapons	* [장총] 계열 무기 착용 가능	SKILL_20151022_005419	Allows you to equip the [Rifle] weapon type.	[장총] 계열 무기를 착용할 수 있습니다.	
+SKILL_20170313_007429	* Permite utilizar armas do tipo [Mosquete]
 SKILL_20170313_007430	* Increases character's maximum amount of buffs by 1	* 캐릭터가 받을 수 있는 최대 버프 개수가 1 증가	SKILL_20160224_006279	Increases the maximum amount of buffs you can have by 1.	캐릭터가 받을 수 있는 최대 버프 개수가 1 증가합니다.	
 SKILL_20170313_007431	* [One-handed Sword] type weapons can be equipped on the right hand (sub weapon)	* [한손검] 계열 무기를 오른손(보조 장비)에 착용 가능	SKILL_20161005_006853	[One-handed Sword] type Weapon can be equipped on the right hand (sub weapon).	[한손검] 계열 무기를 오른손(보조 장비)에 착용 가능합니다.	
 SKILL_20170313_007432	* Increases damage dealt on an enemy with [Bash] by 1% per attribute level	* 적에게 입히는 [배쉬]의 대미지가 특성 레벨당 1% 증가	SKILL_20150714_004283	Increases the damage dealt on an enemy with [Bash] by 1% per attribute level.	적에게 입히는 [배쉬]의 대미지가 특성 레벨당 1% 증가합니다.	
@@ -9627,8 +9627,8 @@ SKILL_20170912_009626	Increases physical and magic defense by 50%, with addition
 SKILL_20170912_009627	Thick Skin	견고한 피부				
 SKILL_20170912_009628	Absorbs the energy of monsters to increase physical and magic defense by 100%.	강력한 몬스터의 기운이 흡수되어 물리 방어력과 마법 방어력이 100% 증가합니다.				
 SKILL_20170912_009629	Unable to receive damage.	피격받지 않는 상태입니다.				
-SKILL_20170912_009630	Use Two-handed Blunt Weapon	양손둔기 사용				
-SKILL_20170912_009631	* Can equip [Two-handed Blunt] type weapons	* [양손둔기] 계열 무기 착용 가능				
+SKILL_20170912_009630	Utilizar Maça de 2 Mãos
+SKILL_20170912_009631	* Permite utilizar armas do tipo [Maça de 2 Mãos]
 SKILL_20170912_009632	* Creates a defense zone for 15 seconds where the spear is thrown{nl}* Increases physical defense and magic defense by 8% for party members within the zone{nl}* Consumo de SP + 10%	* 던져진 창 위치에 15초 동안 방어 지대 활성화{nl}* 방어 지대에 있는 동료는 물리 방어력과 마법 방어력이{nl}    8% 증가{nl}* SP 소모 10%증가	SKILL_20170420_008852	* Creates a defense zone for 15 seconds where the spear is thrown{nl}* Increases physical defense and magic defense by 2% for party members within the zone{nl}* Consumo de SP + 15%	* 던져진 창 위치에 15초 동안 방어 지대 활성화{nl}* 방어 지대에 있는 동료는 물리 방어력과 마법 방어력이{nl}    2% 증가{nl}* SP 소모 10%증가	
 SKILL_20170912_009633	* Creates attack zone for 15 seconds where the spear is thrown. Increases physical attack and magic attack by 8% for party members within the zone{nl}* Consumo de SP + 10%	* 던져진 창 위치에 15초 동안 공격 지대 활성화{nl}* 공격 지대에 있는 동료는 물리 공격력과 마법 공격력이{nl}    8% 증가{nl}* SP 소모 10%증가	SKILL_20170420_008853	* Creates attack zone for 15 seconds where the spear is thrown. Increases physical attack and magic attack by 2% for party members within the zone{nl}* Consumo de SP + 10%	* 던져진 창 위치에 15초 동안 공격 지대 활성화{nl}* 공격 지대에 있는 동료는 물리 공격력과 마법 공격력이{nl}    2% 증가{nl}* SP 소모 10%증가	
 SKILL_20170912_009634	Dethrone: Não Empurrar
@@ -12282,10 +12282,10 @@ SKILL_20180827_012281	Unable to enter [Instanced Dungeon] areas while the penalt
 SKILL_20180827_012282	Ripper Immunity	브레스트리퍼일시면역				
 SKILL_20180827_012283	* Can equip [One-handed Spear] type weapons{nl}* Increases attack range by 5 with a [One-handed Spear]{nl}* Increases damage by 5% when attacking Medium and Large-sized enemies with a [One-handed Spear]	* [한손창] 계열 무기 착용 가능{nl}* [한손창] 공격시 공격 범위 5 증가{nl}* [한손창] 공격시 중형, 대형 크기 적에게 주는 대미지 5% 증가	SKILL_20171128_009973	* Can equip [One-handed Spear] type weapons{nl}* Increase attack range by 5 when equipped with a [One-handed Spear].	* [한손창] 계열 무기 착용 가능{nl}* [한손창] 착용시 공격 범위 5 증가{nl}* [한손창] 착용시 중형, 대형 크기 적에게 주는 대미지 5% 증가	
 SKILL_20180827_012284	Crossbow Use	쇠뇌 사용	SKILL_20150317_003032	Use Crossbows	크로스보우 사용	
-SKILL_20180827_012285	* Can equip [Crossbow] type weapons	* [쇠뇌] 계열 무기 착용 가능	SKILL_20170313_007414	* Can equip [Crossbow] type weapons	* [크로스보우] 계열 무기 착용 가능	
+SKILL_20180827_012285	* Permite utilizar armas do tipo [Besta]
 SKILL_20180827_012286	* Adiciona 2% de dano por nível do atributo ao atacar um inimigo por trás com uma Adaga
 SKILL_20180827_012287	Musket Use	머스킷 사용	SKILL_20151022_005418	Use Rifles	장총 사용	
-SKILL_20180827_012288	* Can equip [Musket] type weapons	* [머스킷] 계열 무기 착용 가능	SKILL_20170313_007429	* Can equip [Rifle] type weapons	* [장총] 계열 무기 착용 가능	
+SKILL_20180827_012288	* Permite utilizar armas do tipo [Mosquete]
 SKILL_20180827_012289	Maestria de Maça de 2 Mãos: Paladino
 SKILL_20180827_012290	* Aumenta a Taxa de Ataque em Área em 5 ao utilizar uma Maça de 2 Mãos
 SKILL_20180827_012291	Maestria de Maça de 2 Mãos: Monge
