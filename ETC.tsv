@@ -5964,7 +5964,7 @@ ETC_20150317_005963	You can change the following settings: quest sharing, EXP di
 ETC_20150317_005964	Click on the portrait of your party members to manage them.
 ETC_20150317_005965	If you want to leave a party
 ETC_20150317_005966	Can leave the party to select.
-ETC_20150317_005967	Combat
+ETC_20150317_005967	Combate
 ETC_20150317_005968	Monster Info
 ETC_20150317_005969	Displays a nearby monster's information
 ETC_20150317_005970	The monster's level, name and its HP can be viewed through the Monster Info window.
@@ -35677,28 +35677,28 @@ ETC_20180827_035633	Request Reset Unit (1 sec)	요청 리셋 단위(1초)
 ETC_20180827_035634	Thank you.	풀어주셔서 감사합니다				
 ETC_20180827_035635	Magic is gathering around Solcomm.	솔콤의 주변에 마력이 모여듭니다.				
 ETC_20180827_035636	Unable to proceed.	해당 작업을 수행할 수 없습니다.				
-ETC_20180827_035637	{#1663c3}{ol}[Combat] {img chat_icon_damage 24 24} Dealt [{AMOUNT}] damage to [{TO}].	{#1663c3}{ol}[전투 메시지]{img chat_icon_damage 24 24}[{TO}]에게 [{AMOUNT}]의 피해를 주었습니다.				
-ETC_20180827_035638	{#ab1919}{ol}[Combat] {img chat_icon_damage 24 24} Received [{AMOUNT}] damage from [{FROM}].	{#ab1919}{ol}[전투 메시지]{img chat_icon_damage 24 24}[{FROM}]으로부터 [{AMOUNT}]의 피해를 입었습니다.				
-ETC_20180827_035639	{#1663c3}{ol}[Combat] {img chat_icon_buff 24 24} [{NAME}] buff [applied].	{#1663c3}{ol}[전투 메시지]{img chat_icon_buff 24 24}[{NAME}] 버프가 [적용]되었습니다.				
-ETC_20180827_035640	{#ab1919}{ol}[Combat] {img chat_icon_buff 24 24} [{NAME}] buff [removed].	{#ab1919}{ol}[전투 메시지]{img chat_icon_buff 24 24}[{NAME}] 버프가 [해제]되었습니다.				
-ETC_20180827_035641	{#ab1919}{ol}[Combat] {img chat_icon_debuff 24 24} [{NAME}] debuff [applied].	{#ab1919}{ol}[전투 메시지]{img chat_icon_debuff 24 24}[{NAME}] 디버프가 [적용]되었습니다.				
-ETC_20180827_035642	{#1663c3}{ol}[Combat] {img chat_icon_debuff 24 24} [{NAME}] debuff [removed].	{#1663c3}{ol}[전투 메시지]{img chat_icon_debuff 24 24}[{NAME}] 디버프가 [해제]되었습니다.				
-ETC_20180827_035643	{#ffffff}{ol}[Combat] {img chat_icon_skill 24 24} Used [{NAME}].	{#ffffff}{ol}[전투 메시지]{img chat_icon_skill 24 24}[{NAME}]를 사용했습니다.				
-ETC_20180827_035644	 [{ITEM}] x{COUNT} left.	 남은 [{ITEM}] {COUNT}개.				
-ETC_20180827_035645	{#1663c3}{ol}[Combat] {img chat_icon_death 24 24} You are incapable of combat.	{#1663c3}{ol}[전투 메시지]{img chat_icon_death 24 24}당신은 전투 불능 상태가 되었습니다.				
-ETC_20180827_035646	{#1663c3}{ol}[Combat] {img chat_icon_resurrection 24 24} Party member [{MEMBER}] has respawned.	{#1663c3}{ol}[전투 메시지]{img chat_icon_resurrection 24 24}파티 멤버 [{MEMBER}]가 부활했습니다.				
-ETC_20180827_035647	{#ab1919}{ol}[Combat] {img chat_icon_death 24 24} Party member [{MEMBER}] is incapable of combat.	{#ab1919}{ol}[전투 메시지]{img chat_icon_death 24 24}파티 멤버 [{MEMBER}]가 전투 불능 상태가 되었습니다.				
-ETC_20180827_035648	{#1663c3}{ol}[Combat] {img chat_icon_resurrection 24 24} Character respawned.	{#1663c3}{ol}[전투 메시지]{img chat_icon_resurrection 24 24} 캐릭터가 부활했습니다.				
-ETC_20180827_035649	[{ITEM}] x[{COUNT}] consumed as penalty for becoming incapable of combat.	사망 페널티로 [{ITEM}] 아이템이 [{COUNT}개] 소실되었습니다.				
+ETC_20180827_035637	{#1663c3}{ol}[Combate] {img chat_icon_damage 24 24} Causou [{AMOUNT}] dano em [{TO}].
+ETC_20180827_035638	{#ab1919}{ol}[Combate] {img chat_icon_damage 24 24} Recebeu [{AMOUNT}] dano de [{FROM}].
+ETC_20180827_035639	{#1663c3}{ol}[Combate] {img chat_icon_buff 24 24} Buff [{NAME}] [aplicado].
+ETC_20180827_035640	{#ab1919}{ol}[Combate] {img chat_icon_buff 24 24} Buff [{NAME}] [removido].
+ETC_20180827_035641	{#ab1919}{ol}[Combate] {img chat_icon_debuff 24 24} Debuff [{NAME}] [aplicado].
+ETC_20180827_035642	{#1663c3}{ol}[Combate] {img chat_icon_debuff 24 24} Debuff [{NAME}] [removido].
+ETC_20180827_035643	{#ffffff}{ol}[Combate] {img chat_icon_skill 24 24} [{NAME}] utilizado.
+ETC_20180827_035644	 [{ITEM}] x{COUNT} restantes.
+ETC_20180827_035645	{#1663c3}{ol}[Combate] {img chat_icon_death 24 24} Você foi derrotado.
+ETC_20180827_035646	{#1663c3}{ol}[Combate] {img chat_icon_resurrection 24 24} Membro do grupo [{MEMBER}] renasceu.
+ETC_20180827_035647	{#ab1919}{ol}[Combate] {img chat_icon_death 24 24} Membro do grupo [{MEMBER}] foi derrotado.
+ETC_20180827_035648	{#1663c3}{ol}[Combate] {img chat_icon_resurrection 24 24} Personagem renasceu.
+ETC_20180827_035649	[{ITEM}] x[{COUNT}] consumido devido penalidade ao ser derrotado.
 ETC_20180827_035650	[{SILVER}] Silver consumido como penalidade por ter sido derrotado.
-ETC_20180827_035651	All [{ITEM}(s)] consumed.	[{ITEM}] 아이템이 소멸되었습니다.	ETC_20161214_026107	The item was consumed.	아이템이 소멸되었습니다.	
-ETC_20180827_035652	Acquired [{ITEM}] x[{COUNT}].	[{ITEM}] 아이템을 [{COUNT}개] 획득했습니다.				
-ETC_20180827_035653	Discarded [{ITEM}] x[{COUNT}].	[{ITEM}] 아이템을 [{COUNT}개] 버렸습니다.				
-ETC_20180827_035654	Sold [{ITEM}] x[{COUNT}].	[{ITEM}] 아이템을 [{COUNT}개] 판매했습니다.				
-ETC_20180827_035655	[{LEVEL} {ITEM}] enhancement: {ISSUCCESS}.	[{LEVEL} {ITEM}] 강화에 {ISSUCCESS}했습니다.				
-ETC_20180827_035656	Fail	실패				
-ETC_20180827_035657	[{ITEM}] Stage [{LEVEL}] transcendence: {ISSUCCESS}.	[{ITEM}] 아이템이 [초월 {LEVEL}단계]에 {ISSUCCESS}했습니다.				
-ETC_20180827_035658	Acquired [{CHAR}] character EXP / [{JOB}] class EXP	캐릭터 경험치 [{CHAR}] / 클래스 경험치 [{JOB}] 획득				
+ETC_20180827_035651	Consumido todos os [{ITEM}(s)].
+ETC_20180827_035652	[{ITEM}] x[{COUNT}] obtido.
+ETC_20180827_035653	[{ITEM}] x[{COUNT}] descartado.
+ETC_20180827_035654	[{ITEM}] x[{COUNT}] vendido.
+ETC_20180827_035655	Refino [{LEVEL} {ITEM}]: {ISSUCCESS}.
+ETC_20180827_035656	Falhou
+ETC_20180827_035657	Transcendência [{ITEM}] Estágio [{LEVEL}]: {ISSUCCESS}.
+ETC_20180827_035658	Obtido [{CHAR}] EXP de base / [{JOB}] EXP de classe
 ETC_20180827_035659	Gemas perdidas devido a penalidade do mapa.
 ETC_20180827_035660	Failed to sell item. Please restart the game and try again.	아이템 판매에 실패했습니다. 다시 시도하려면 재접속해주세요.				
 ETC_20180827_035661	Special Item Effects	아이템 특수 효과				
