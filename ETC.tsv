@@ -1616,7 +1616,7 @@ ETC_20150317_001615	The other player is not logged in
 ETC_20150317_001616	The number of purchasable items is limited
 ETC_20150317_001617	24 hours has not elapsed yet since changing your name
 ETC_20150317_001618	Can not be greater than {Auto_1} bytes
-ETC_20150317_001619	Character Name
+ETC_20150317_001619	Nome do Personagem
 ETC_20150317_001620	O vendedor não possui mais materiais.
 ETC_20150317_001621	{S18}{ol}{#ffffcc}Conectando ao servidor ...
 ETC_20150317_001622	Este item não pode ser descartado.
@@ -1826,7 +1826,7 @@ ETC_20150317_001825	Increased Companions attack by {Value}
 ETC_20150317_001826	Increased Companions HP by {Value}
 ETC_20150317_001827	Increased Companions defense by {Value}
 ETC_20150317_001828	Increased Companions hit rate by {Value}
-ETC_20150317_001829	You do not have a companion to summon.
+ETC_20150317_001829	Você não tem um Mascotepara chamar.
 ETC_20150317_001830	Por favor, desmonte do seu mascote primeiro.
 ETC_20150317_001831	Standby
 ETC_20150317_001832	Active
@@ -1859,7 +1859,7 @@ ETC_20150317_001858	Sell to Shop
 ETC_20150317_001859	Cheat key
 ETC_20150317_001860	Trocar
 ETC_20150317_001861	Change Equipment
-ETC_20150317_001862	Construção
+ETC_20150317_001862	Construir
 ETC_20150317_001863	Pocket
 ETC_20150317_001864	Package
 ETC_20150317_001865	Guild Request
@@ -1877,8 +1877,8 @@ ETC_20150317_001876	Item Obtido
 ETC_20150317_001877	Acessório
 ETC_20150317_001878	Set
 ETC_20150317_001879	Receitas
-ETC_20150317_001880	Skill Ativa
-ETC_20150317_001881	Skill Passiva
+ETC_20150317_001880	Habilidade Ativa
+ETC_20150317_001881	Habilidade Passiva
 ETC_20150317_001882	1. Write a message to promote your sale.
 ETC_20150317_001883	2. Insert items for sale into the bottom slot.
 ETC_20150317_001884	1. Write a message to promote your purchase.
@@ -1887,7 +1887,7 @@ ETC_20150317_001886	Life
 ETC_20150317_001887	Prosecutor Event
 ETC_20150317_001888	Unexpected Event
 ETC_20150317_001889	Temporary Event
-ETC_20150317_001890	Acquired
+ETC_20150317_001890	Obtido
 ETC_20150317_001891	You already have it.
 ETC_20150317_001892	A Field Boss appeared!
 ETC_20150317_001893	Item
@@ -1909,9 +1909,9 @@ ETC_20150317_001908	(Attack Resistance)
 ETC_20150317_001909	Requires a record in the Diário de Aventura. Press the A key to update whilst sitting.
 ETC_20150317_001910	You can now use the [{Auto_1}] title.
 ETC_20150317_001911	Attributes
-ETC_20150317_001912	{@st59} Click for more information {/}
+ETC_20150317_001912	{@st59}Clique para mais informações{/}
 ETC_20150317_001913	O próximo nível de habilidade requer que avançe para a mesma classe.
-ETC_20150317_001914	Use um Ponto de Skill para aumentar o nível da Habilidade.
+ETC_20150317_001914	Use 1 Ponto para aumentar o nível da Habilidade.
 ETC_20150317_001915	Equipamento
 ETC_20150317_001916	Desativado
 ETC_20150317_001917	 Ativado
@@ -2189,7 +2189,7 @@ ETC_20150317_002188	Only 10% of the ember is left!!
 ETC_20150317_002189	Obtained a Wooden Arrow! Throw them into the Fogo to keep it burning!
 ETC_20150317_002190	Throwing in a Wooden Arrow
 ETC_20150317_002191	Investigating the stone pillar
-ETC_20150317_002192	Looking into the Eyes of the Great King
+ETC_20150317_002192	Olhando nos Olhos do Grande Rei
 ETC_20150317_002193	While releasing the seal
 ETC_20150317_002194	Unseal it through the summoned subordinates of Zachariel!
 ETC_20150317_002195	It was a fake seal!
@@ -2311,7 +2311,7 @@ ETC_20150317_002310	What is it?
 ETC_20150317_002311	Archon seems to have recovered. Try talking to him!
 ETC_20150317_002312	In the description of the area where you picked up the music box
 ETC_20150317_002313	The garbage is full.{nl}First to use the garbage and then re collect it.
-ETC_20150317_002314	Found a Piece of Vubbe Tecido! {nl} This might be a clue!
+ETC_20150317_002314	Encontrou Piece of Vubbe Cloth!{nl}Isso pode ser uma pista!
 ETC_20150317_002315	The quest failed since the refugees have become exhausted! {nl} This quest cannot be restarted for five minutos.
 ETC_20150317_002316	Failed the quest due to timeout! {nl} This quest cannot be restarted for five minutos.
 ETC_20150317_002317	Using the Crest of Emptiness
@@ -2383,7 +2383,7 @@ ETC_20150317_002382	Absorbed the energy of the guardian
 ETC_20150317_002383	Moving.
 ETC_20150317_002384	Do not move.
 ETC_20150317_002385	{@st59} Increase SP and SP recovery {/}
-ETC_20150317_002386	{nl} Missão Completa
+ETC_20150317_002386	{nl} Missão Concluída
 ETC_20150317_002387	I saw it. It's obviously not Deadborn.
 ETC_20150317_002388	It's not Deadborn.
 ETC_20150317_002389	Why would I have followed it if it is Deadborn?
@@ -2485,7 +2485,7 @@ ETC_20150317_002484	Whereabouts of the last key
 ETC_20150317_002485	Whereabouts of Naktis
 ETC_20150317_002486	The orbs and keys
 ETC_20150317_002487	Absorbed the weak Petrifying Frost.
-ETC_20150317_002488	Collecting
+ETC_20150317_002488	Coletando
 ETC_20150317_002489	Collected petrified flower!
 ETC_20150317_002490	Covering
 ETC_20150317_002491	Covered with fragrant stone powder!
@@ -2817,7 +2817,7 @@ ETC_20150317_002816	Normal
 ETC_20150317_002817	Difícil
 ETC_20150317_002818	Muito Difícil
 ETC_20150317_002819	{S22}{ol}Next Quest Level: {Auto_1}
-ETC_20150317_002820	Area: 
+ETC_20150317_002820	Área: 
 ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} {/}
 ETC_20150317_002822	{@st41}Reward Received:
 ETC_20150317_002823	{@st64} Aproxime-se do NPC e aperte 
@@ -2826,7 +2826,7 @@ ETC_20150317_002825	 para iniciar uma conversa
 ETC_20150317_002826	Abandonar Missão
 ETC_20150317_002827	Abandonar
 ETC_20150317_002828	Warp to
-ETC_20150317_002829	Objective: 
+ETC_20150317_002829	Objetivo: 
 ETC_20150317_002830	Warrior Type
 ETC_20150317_002831	Wizard Type
 ETC_20150317_002832	Archer Type
@@ -3193,7 +3193,7 @@ ETC_20150317_003192	Detailed description is skipped
 ETC_20150317_003193	Good work!
 ETC_20150317_003194	Move to Crystal Mine Lot 2 - 2F
 ETC_20150317_003195	Investigating
-ETC_20150317_003196	Collecting
+ETC_20150317_003196	Coletando
 ETC_20150317_003197	Bandeira dos Vubbe
 ETC_20150317_003198	Destroy the Flag of the Vubbe tribe!
 ETC_20150317_003199	Colocando a bomba
@@ -3241,7 +3241,7 @@ ETC_20150317_003240	Press to proceed with the blessing ceremony
 ETC_20150317_003241	Required! {nl} can be obtained from the Carved Owl nearby
 ETC_20150317_003242	You can safely pass through the barrier if you have a bowl
 ETC_20150317_003243	These gates are blocked {nl} You need the help of the Carved Owl to pass through
-ETC_20150317_003244	Collecting
+ETC_20150317_003244	Coletando
 ETC_20150317_003245	I found the trail of scout troops
 ETC_20150317_003246	Altar of Magic
 ETC_20150317_003247	Obedient Owl Image
@@ -3346,7 +3346,7 @@ ETC_20150317_003345	And to do now!
 ETC_20150317_003346	Scary...
 ETC_20150317_003347	I want to run away but I can't...
 ETC_20150317_003348	Help me, you fools!
-ETC_20150317_003349	Collecting
+ETC_20150317_003349	Coletando
 ETC_20150317_003350	Empty Owl Sculpture
 ETC_20150317_003351	You took to gather the people!
 ETC_20150317_003352	Found the demonic monsters! {nl} Tell the Weak Owl Sculpture about it.
@@ -3462,7 +3462,7 @@ ETC_20150317_003461	Wow, this tree just won't budge!
 ETC_20150317_003462	Whew... when is the shift?
 ETC_20150317_003463	If I don't, then who would?!
 ETC_20150317_003464	Collected the moss
-ETC_20150317_003465	Collecting
+ETC_20150317_003465	Coletando
 ETC_20150317_003466	Collected discolored grass
 ETC_20150317_003467	Vubbe Fighter Melinas
 ETC_20150317_003468	[Troops Advance] should be started in order to pass through
@@ -3484,12 +3484,12 @@ ETC_20150317_003483	Griba
 ETC_20150317_003484	Evon
 ETC_20150317_003485	[Lure Sparnas] must be completed to pass through
 ETC_20150317_003486	Gelsbas High Pokubu
-ETC_20150317_003487	WARNING! CAUTION!{nl}Wrong Way!
+ETC_20150317_003487	AVISO! CUIDADO!{nl}Volte o quanto antes!
 ETC_20150317_003488	Sounds like a good song so let's copy it
-ETC_20150317_003489	Derrote the Chupacabras that raided the supply base!
-ETC_20150317_003490	Derrote the monsters!
-ETC_20150317_003491	Acquired the supplies
-ETC_20150317_003492	This box is suspicious. Stay away!
+ETC_20150317_003489	Derrote os Chupacabras que tomaram a base!
+ETC_20150317_003490	Derrote os montros!
+ETC_20150317_003491	Suprimentos obtidos
+ETC_20150317_003492	Esta caixa está estranha. Se afaste!
 ETC_20150317_003493	Buy Equipment
 ETC_20150317_003494	Buy Tools
 ETC_20150317_003495	Talk
@@ -3530,12 +3530,12 @@ ETC_20150317_003529	Even here, there are Large Kepas!
 ETC_20150317_003530	Get rid of the charging Kepas!
 ETC_20150317_003531	Get rid of the Chinencys!
 ETC_20150317_003532	Derrote the Chinencys!
-ETC_20150317_003533	Get rid of the Hanamings!
+ETC_20150317_003533	Se livre dos Hanamings!
 ETC_20150317_003534	Chase the Hamming!
 ETC_20150317_003535	Derrote the Large Kepa!
 ETC_20150317_003536	Derrote the sealed Golem!
 ETC_20150317_003537	Get rid of the Kepa blocking the road!
-ETC_20150317_003538	Ask about the dream
+ETC_20150317_003538	Perguntar sobre o sonho
 ETC_20150317_003539	Ask about the story
 ETC_20150317_003540	Pester and ask about the story
 ETC_20150317_003541	You must talk with the guards first
@@ -3794,7 +3794,7 @@ ETC_20150317_003793	There are no quests available for this level range.
 ETC_20150317_003794	CANCEL selection or nil value
 ETC_20150317_003795	{/} Begin Quest
 ETC_20150317_003796	Quest In Progress NPC Talk
-ETC_20150317_003797	Missão Completa
+ETC_20150317_003797	Missão Concluída
 ETC_20150317_003798	Show quest info in C: \
 ETC_20150317_003799	Give up Quest
 ETC_20150317_003800	Go to Start NPC
@@ -3811,7 +3811,7 @@ ETC_20150317_003810	Quest Starting Map:
 ETC_20150317_003811	Start NPC:
 ETC_20150317_003812	 activated {nl}
 ETC_20150317_003813	 Use this to warp anywhere!
-ETC_20150317_003814	You have not activated any other Goddess Statue, so you cannot teleport yet.
+ETC_20150317_003814	Você não ativou nenhuma outra Estátua da Deusa,{nl}então você não pode teleportar ainda.
 ETC_20150317_003815	The rest of the area
 ETC_20150317_003816	Rest of the camp
 ETC_20150317_003817	2. Select Siauliai ??Select West Siauliai Woods
@@ -4231,7 +4231,7 @@ ETC_20150317_004230	Run Script
 ETC_20150317_004231	Enter name
 ETC_20150317_004232	Please select at least one
 ETC_20150317_004233	{@st41} Gesture List
-ETC_20150317_004234	 [Main] 
+ETC_20150317_004234	[Principal]
 ETC_20150317_004235	{@st55_b}{b}Recompensa{/}
 ETC_20150317_004236	{@st55_c}Experience:
 ETC_20150317_004237	Esperando o outro jogador aceitar...
@@ -4307,11 +4307,11 @@ ETC_20150317_004306	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Navigation Rate
 ETC_20150317_004307	{Cl}{s16}{ol}{#ffcc33}{Auto_1}{Auto_2} complete
 ETC_20150317_004308	{b}Recompensa
 ETC_20150317_004309	EXP:
-ETC_20150317_004310	Please select a reward.
+ETC_20150317_004310	Por favor, escolha uma recompensa.
 ETC_20150317_004311	{@st45w3}{s18}{Auto_1} 1
 ETC_20150317_004312	{@st41}Repeatable Quest Finalization Reward{/}
-ETC_20150317_004313	{@st41}Select a reward
-ETC_20150317_004314	{@st41}Reward{/}
+ETC_20150317_004313	{@st41}Escolha uma recompensa
+ETC_20150317_004314	{@st41}Recompensa{/}
 ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} ea
 ETC_20150317_004316	{@st41b} Increase selected number
 ETC_20150317_004317	(TPs {Auto_1} consumption)
@@ -4324,7 +4324,7 @@ ETC_20150317_004323	 Circle
 ETC_20150317_004324	Do you want to level up your class?
 ETC_20150317_004325	Do you want to learn a class?
 ETC_20150317_004326	Guest Book
-ETC_20150317_004327	Friends
+ETC_20150317_004327	Amigos
 ETC_20150317_004328	Private Shop
 ETC_20150317_004329	Request Purchase
 ETC_20150317_004330	Item Trading
@@ -4693,7 +4693,7 @@ ETC_20150317_004692	Number of selected items
 ETC_20150317_004693	Default
 ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Datatree_tooltipset {nl}
 ETC_20150317_004695	{#050505}{s18}{b} Socket Effect :
-ETC_20150317_004696	{#050505}{s22}{b} Item Effect :
+ETC_20150317_004696	{#050505}{s22}{b}Efeito do Item:
 ETC_20150317_004697	{@st42} Use
 ETC_20150317_004698	Shop for sale
 ETC_20150317_004699	Shop not for sale
@@ -4761,7 +4761,7 @@ ETC_20150317_004760	 (usando)
 ETC_20150317_004761	Gelo
 ETC_20150317_004762	{@st41} icon
 ETC_20150317_004763	{@st41}List
-ETC_20150317_004764	{@st54}{b}Select Reward{/}
+ETC_20150317_004764	{@st54}{b}Escolha uma Recompensa{/}
 ETC_20150317_004765	Nudoku I was mounting the Son Bol pocket in Kochi.
 ETC_20150317_004766	Can only be used on Bagworms!
 ETC_20150317_004767	Can only be used on Truffles!
@@ -4782,7 +4782,7 @@ ETC_20150317_004781	About Goddess Laima
 ETC_20150317_004782	About Goddess Gabija
 ETC_20150317_004783	About Goddess Zemyna
 ETC_20150317_004784	About Goddess Vakarine
-ETC_20150317_004785	Ask about Medzio Diena
+ETC_20150317_004785	Perguntar sobre Medzio Diena
 ETC_20150317_004786	Ask what happened next
 ETC_20150317_004787	You've found a lever handle latch!
 ETC_20150317_004788	I found the information about the flow of horsepower.
@@ -4882,13 +4882,13 @@ ETC_20150317_004881	Default session:
 ETC_20150317_004882	Other sessions:
 ETC_20150317_004883	Session List by made NPC creation without basic session
 ETC_20150317_004884	Please check the details of quest by pressing the key{nl}{@st50}Detailed information can be found through the help
-ETC_20150317_004885	 permite que você se teleporte de volta para o NPC da Quest.{nl}{@st50}Você também pode clicar no botão {img questinfo_return 40 40}{/}
+ETC_20150317_004885	 permite que você se teleporte de volta para o NPC da Missão.{nl}{@st50}Você também pode clicar no botão {img questinfo_return 40 40}{/}
 ETC_20150317_004886	{@st50}Key of the Quest Information{/}
 ETC_20150317_004887	The Shaman Doll destroyed the Panto Totem!
 ETC_20150317_004888	The Divino beads have been charged by attacking the Demon forces.
-ETC_20150317_004889	Status Point Distribution
-ETC_20150317_004890	Skill Point Distribution
-ETC_20150317_004891	Move to Klaipeda Entrance
+ETC_20150317_004889	Distribuição dos Pontos de Atributos
+ETC_20150317_004890	Distribuição dos Pontos de Habilidades
+ETC_20150317_004891	Mover para a entrada de Klaipeda
 ETC_20150317_004892	Complete[300]
 ETC_20150317_004893	The Gesti is near.{nl}Try to not get detected!
 ETC_20150317_004894	Acquired a piece of barrier.{nl}Put into the central pillar
@@ -5018,12 +5018,12 @@ ETC_20150317_005017	Using the Liberation Elixir
 ETC_20150317_005018	Making Fogo
 ETC_20150317_005019	Lit the hEarth!
 ETC_20150317_005020	Acquired the record from the Ruklys Era!
-ETC_20150317_005021	{@st41}Open your inventory by pressing the {img F2 40 40} key and use the EXP card. {nl} {@st50} The {img icon_item_expcard 40 40} EXP card will reward you with experience points. {/}
+ETC_20150317_005021	{@st41}Abra seu Inventário pressionando o botão {img F2 40 40} e use o EXP Card.{nl}{@st50}O {img icon_item_expcard 40 40} EXP card vai premiar você com pontos de experiência.{/}
 ETC_20150317_005022	The Mausoleum lanterns are being attacked by the guardians!
 ETC_20150317_005023	Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
 ETC_20150317_005025	Construção
-ETC_20150317_005026	A Revelator?
+ETC_20150317_005026	Um Revelador?
 ETC_20150317_005027	Ask about the current situation
 ETC_20150317_005028	Ask about Medzio Diena
 ETC_20150317_005029	Ask about the disappearance of the goddesses
@@ -5066,7 +5066,7 @@ ETC_20150317_005065	Sleek Pottery
 ETC_20150317_005066	Oak Pattern
 ETC_20150317_005067	Rough Pottery
 ETC_20150317_005068	Navy
-ETC_20150317_005069	Tu-Tutu...! Help me!!!
+ETC_20150317_005069	Tu-Tutu...! Me ajude!!!
 ETC_20150317_005070	Derrote Unknocker!
 ETC_20150317_005071	Underground Central Barrier
 ETC_20150317_005072	Take a good look...
@@ -5097,7 +5097,7 @@ ETC_20150317_005096	Pot
 ETC_20150317_005097	Great Cathedral Candlestick
 ETC_20150317_005098	Barrier Candlestick
 ETC_20150317_005099	Video
-ETC_20150317_005100	Stop right there!
+ETC_20150317_005100	Parado aí mesmo!
 ETC_20150317_005101	This is a restricted area.
 ETC_20150317_005102	Yes!
 ETC_20150317_005103	Out of the way
@@ -5349,28 +5349,28 @@ ETC_20150317_005348	You are the Revelator.
 ETC_20150317_005349	The causes which being occurred in this place are somewhere else
 ETC_20150317_005350	It's difficult to talk here so come and find me in the Swaying Arable Land.
 ETC_20150317_005351	Research Tools
-ETC_20150317_005352	Over there, a baby Poata!
-ETC_20150317_005353	Follow it!! You can't lose it this time!!!
-ETC_20150317_005354	Do not go outside the camp!! Unfortunately come back!
-ETC_20150317_005355	Hey!!! Stop! It's dangerous!!
-ETC_20150317_005356	Go back to the camp! Now!
-ETC_20150317_005357	Here, I'll take care of the procedures...
-ETC_20150317_005358	What's this screaming sound?
-ETC_20150317_005359	Prepare for battle!
-ETC_20150317_005360	It's a surprise attack!!
+ETC_20150317_005352	Olhe ali, um bebê Poata!
+ETC_20150317_005353	Siga ele!! Não vamos perder de vista!!
+ETC_20150317_005354	Não saia do acampamento!! Por favor, recue!
+ETC_20150317_005355	Ei!! Pare! É perigoso!!
+ETC_20150317_005356	Voltem pro acampamento! Agora!
+ETC_20150317_005357	Certo, cuidarei dos procedimentos...
+ETC_20150317_005358	Que grito é esse?
+ETC_20150317_005359	Preparar pra batalha!
+ETC_20150317_005360	É um ataque surpresa!!
 ETC_20150317_005361	Refugee
-ETC_20150317_005362	It's... It's moving!!
-ETC_20150317_005363	It's... It's a Golem!!!
-ETC_20150317_005364	Why are there Golem remains here?
-ETC_20150317_005365	Hey!!! It's dangerous!! Run!!
-ETC_20150317_005366	Is it dead?
-ETC_20150317_005367	Huh...!!
-ETC_20150317_005368	Derrote the Large Kepa!
-ETC_20150317_005369	It's a Large Kepa!
+ETC_20150317_005362	Está... Está vivo!!
+ETC_20150317_005363	É... É um Golem!!
+ETC_20150317_005364	Por que tem pedaços de Golem aqui?
+ETC_20150317_005365	Ei!!! É perigoso!! Corra!!
+ETC_20150317_005366	Está morto?
+ETC_20150317_005367	O que...!!
+ETC_20150317_005368	Derrote o Large Kepa!
+ETC_20150317_005369	É um Large Kepa!
 ETC_20150317_005370	Alchemist Vaidotas
 ETC_20150317_005371	Lot 2 Closure Notice
 ETC_20150317_005372	Evacuate the residents!
-ETC_20150317_005373	Stop that person!!
+ETC_20150317_005373	Parem esta pessoa!
 ETC_20150317_005374	Eastern Woods Soldier
 ETC_20150317_005375	Come on let's go! Honey! Dad!
 ETC_20150317_005376	That's really good news. Let's go!
@@ -6047,7 +6047,7 @@ ETC_20150317_006047	is used to warp to other areas.
 ETC_20150317_006048	To use the warp function, the 
 ETC_20150317_006049	 of the area needs to be activated
 ETC_20150317_006050	can obtain character's Status Points
-ETC_20150317_006051	Treasure Chest
+ETC_20150317_006051	Baú do Tesouro
 ETC_20150317_006052	 contain special items that you can obtain.
 ETC_20150317_006053	Hidden in many fields, a 
 ETC_20150317_006054	 can be discovered by your character.
@@ -7025,9 +7025,9 @@ ETC_20150317_007025	Lever 1
 ETC_20150317_007026	Lever 2
 ETC_20150317_007027	Gabija's Torch
 ETC_20150317_007028	Writing Table
-ETC_20150317_007029	Estátua da Deusa Laima
-ETC_20150317_007030	Estátua da Deusa Zemyna
-ETC_20150317_007031	Estátua da Deusa Ausrine
+ETC_20150317_007029	{@st41}{#e39400}Estátua da Deusa Laima
+ETC_20150317_007030	{@st41}{#ff5f05}Estátua da Deusa Zemyna
+ETC_20150317_007031	{@st41}{#BBFFFF}Estátua da Deusa Ausrine
 ETC_20150317_007032	Kepa Dummy
 ETC_20150317_007033	Casemate
 ETC_20150317_007034	Siege Supporting Arms
@@ -9067,7 +9067,7 @@ ETC_20150317_009067	Paladin Mestre Follower (A)
 ETC_20150317_009068	Paladin Mestre Follower (B)
 ETC_20150317_009069	Paladin Mestre Follower (D)
 ETC_20150317_009070	Basement Temple Central Barrier
-ETC_20150317_009071	Lv2 Treasure Chest
+ETC_20150317_009071	Baú do Tesouro Nv2
 ETC_20150317_009072	Small Cathedral Underground Second Floor
 ETC_20150317_009073	Small Cathedral Ground Second Floor
 ETC_20150317_009074	Central Barrier
@@ -9078,7 +9078,7 @@ ETC_20150317_009078	Dragon Ascent
 ETC_20150317_009079	Strange Paper
 ETC_20150317_009080	Invisible Trigger
 ETC_20150317_009081	Suspicious Wheels
-ETC_20150317_009082	Lv3 Treasure Chest
+ETC_20150317_009082	Baú do Tesouro Nv3
 ETC_20150317_009083	Hauberk
 ETC_20150317_009084	1st Spell Power Suppressor
 ETC_20150317_009085	2nd Spell Power Suppressor
@@ -9096,7 +9096,7 @@ ETC_20150317_009096	2st Thorn Gate Pillar_1
 ETC_20150317_009097	3rd Thorn Gate Pillar
 ETC_20150317_009098	1st Thorn Gate Pillar_2
 ETC_20150317_009099	2st Thorn Gate Pillar_2
-ETC_20150317_009100	Lv1 Treasure Chest
+ETC_20150317_009100	Baú do Tesouro Nv1
 ETC_20150317_009101	Jibyu Griba
 ETC_20150317_009102	Alan
 ETC_20150317_009103	Wise
@@ -9140,7 +9140,7 @@ ETC_20150317_009140	Adventurer Varkis' Spirit
 ETC_20150317_009141	Hogma Combat Boss Smart Gen
 ETC_20150317_009142	Seven Valley 58_3
 ETC_20150317_009143	Weaver(Smart Gen)
-ETC_20150317_009144	Supplies Box
+ETC_20150317_009144	Caixa de Suprimentos
 ETC_20150317_009145	Smart Gen_ Chupacabra
 ETC_20150317_009146	Wild Kepa
 ETC_20150317_009147	Melinas Jukopus
@@ -9191,9 +9191,9 @@ ETC_20150317_009191	Practice Post (Fogo)
 ETC_20150317_009192	Practice Post (Veneno)
 ETC_20150317_009193	Practice Post (Lightning)
 ETC_20150317_009194	Practice Post (Earth)
-ETC_20150317_009195	[Mercador de Itens]{nl}         Mirina
+ETC_20150317_009195	[Mercadora de Itens]{nl}      Mirina
 ETC_20150317_009196	[Mercador de Equipamentos]{nl}               Dunkel
-ETC_20150317_009197	[Mercador de Acessórios]{nl}              Ronesa
+ETC_20150317_009197	[Mercadora de Acessórios]{nl}          Ronesa
 ETC_20150317_009198	Estátua da Deusa de Klaipeda.
 ETC_20150317_009199	[Ferreiro]{nl}       Zaras
 ETC_20150317_009200	[Mestre Peltasta]{nl}      Maria Leed
@@ -9208,7 +9208,7 @@ ETC_20150317_009208	[Mestre Priest]{nl}       Boruble
 ETC_20150317_009209	[Mestre Krivis]{nl}       Herkus
 ETC_20150317_009210	[Leiloeiro]{nl} Demares
 ETC_20150317_009211	[Gestor de Mercado]{nl}             Logi
-ETC_20150317_009212	[Treinador de Mascote]{nl}            Christina
+ETC_20150317_009212	[Treinadora de Mascote]{nl}Christina
 ETC_20150317_009213	[Oficial]{nl} Dortina
 ETC_20150317_009214	[Asas da Vaivora]{nl}            Lena
 ETC_20150317_009215	[Sociedade Mágica de Klaipeda]{nl}                       Henrika
@@ -9293,7 +9293,7 @@ ETC_20150317_009293	Kupole Aldona
 ETC_20150317_009294	Kupole Daiva
 ETC_20150317_009295	Kupole Sigita
 ETC_20150317_009296	Goddess Vakarine
-ETC_20150317_009297	Sleeping Boowok
+ETC_20150317_009297	Boowook Adormecido
 ETC_20150317_009298	Power Source Consecration Container
 ETC_20150317_009299	Instructions to use the defensive box
 ETC_20150317_009300	Gate Guardian's Role
@@ -9435,7 +9435,7 @@ ETC_20150317_009435	[Mestre Pardoner]{nl}Mistes Goldmund
 ETC_20150317_009436	[Mestre Sorcerer]{nl}Dame Circe
 ETC_20150317_009437	For the 4th Pardoner Advancement
 ETC_20150317_009438	For the 4th Sorcerer Advancement
-ETC_20150317_009439	Eyes of the Great King
+ETC_20150317_009439	Olhos do Grande Rei
 ETC_20150317_009440	Gorge Area Device
 ETC_20150317_009441	Historian Gorath
 ETC_20150317_009442	Historian Badat
@@ -9464,7 +9464,7 @@ ETC_20150317_009464	Sviesa Altar
 ETC_20150317_009465	High Crooked Road
 ETC_20150317_009466	Registro de Varkis
 ETC_20150317_009467	Royal Mausoleum Guardian Device
-ETC_20150317_009468	Lv1 Treasure Chest
+ETC_20150317_009468	Baú do Tesouro Nv1
 ETC_20150317_009469	Derrote the Woodspirit Quest trigger
 ETC_20150317_009470	Rock with moss
 ETC_20150317_009471	Bokor Fray's favor (3)
@@ -10143,9 +10143,9 @@ ETC_20150323_010144	Nipping off Sweet Herbs
 ETC_20150323_010145	Acquired the Sweet Herb!
 ETC_20150323_010146	The thorns of the Sweet Herb poked you!
 ETC_20150323_010147	It seems that you have entered a spot where food gets spoiled
-ETC_20150323_010148	Go meet Malus and get some new rice cake!
+ETC_20150323_010148	Go meet Marius and get some new rice cake!
 ETC_20150323_010149	The new rice cake is not spoiled! Bring it to Dalius!
-ETC_20150323_010150	The new rice cake is spoiled! Throw away the spoiled cake and go to Malus to get the new rice cake!
+ETC_20150323_010150	The new rice cake is spoiled! Throw away the spoiled cake and go to Marius to get the new rice cake!
 ETC_20150323_010151	Throwing away the spoiled rice cake
 ETC_20150323_010152	An Orange Hamming suddenly appeared
 ETC_20150323_010153	As you throw away the spoiled rice cake, an Orange Hamming appeared!
@@ -10568,9 +10568,9 @@ ETC_20150401_010569	SP recovery time decreases by {Value} segundos for {Time} mi
 ETC_20150401_010570	Click to use the title.
 ETC_20150401_010571	Collecting the Sweet Herb
 ETC_20150401_010572	Arrived at the area where food spoils.
-ETC_20150401_010573	Return to Malus and get new bread.
+ETC_20150401_010573	Return to Marius and get new bread.
 ETC_20150401_010574	The bread is safe. Give it to Dalius.
-ETC_20150401_010575	The bread is spoiled. {nl}Throw it away and get a new one from Malus.
+ETC_20150401_010575	The bread is spoiled. {nl}Throw it away and get a new one from Marius.
 ETC_20150401_010576	Throwing spoiled bread
 ETC_20150401_010577	The Hammings smelled the bread and are coming to attack!
 ETC_20150401_010578	You've rubbed the strange energy to make it disappear!
@@ -11352,7 +11352,7 @@ ETC_20150428_011353	Buy Chronomancer Items
 ETC_20150428_011354	Party Mission
 ETC_20150428_011355	Talk to Fedimian Mercenary Post Recepcionista Ramda to join a party event mission.
 ETC_20150428_011356	Eliminate the helper
-ETC_20150428_011357	Check the Eyes of the Great King
+ETC_20150428_011357	Verificar os Olhos do Grande Rei
 ETC_20150428_011358	Activate the first sealed Device
 ETC_20150428_011359	Activate the second sealed Device
 ETC_20150428_011360	Activate the third sealed Device
@@ -11595,7 +11595,7 @@ ETC_20150511_011596	Activate the 1st sealed Device
 ETC_20150511_011597	Activate the 2nd sealed Device
 ETC_20150511_011598	Activate the 3rd sealed Device
 ETC_20150511_011599	FAQ : Durability & Potential{nl}1) Durability : Starts to decrease slowly when you play with equipped equipment.{nl}    When an item's durability is below a certain value, the item's icon will be displayed on the right side of the quick slot.{nl}   When the durability completely diminishes, you won't be benefit from the effects of your equipment.{nl}2) Potential : Decreases when you trade or enhance an equipment. The item with its Potential all depleted can't be traded or enhanced.
-ETC_20150511_011600	]{nl}Missão Completa!
+ETC_20150511_011600	]{nl}Missão Concluída!
 ETC_20150511_011601	Why now...!
 ETC_20150511_011602	Did you defeat them all?
 ETC_20150511_011603	Uh...!
@@ -11788,7 +11788,7 @@ ETC_20150714_011789	This is a restricted area!
 ETC_20150714_011790	I will take care of this.
 ETC_20150714_011791	This one passes.
 ETC_20150714_011792	Return to your positions!
-ETC_20150714_011793	Stop that person!
+ETC_20150714_011793	Pare esta pessoa!
 ETC_20150714_011794	Hush, don't get spotted. Hurry!
 ETC_20150714_011795	Derrote the attacking Glackuman!
 ETC_20150714_011796	Petrification Detector
@@ -12314,7 +12314,7 @@ ETC_20150714_012315	You have succeeded in destroying the Demon Summoning Circle
 ETC_20150714_012316	You've put the handkerchief back into the box{nl} You can pull it out again
 ETC_20150714_012317	There's no key that works{nl}Try finding the key from the monsters
 ETC_20150714_012318	Obtain the patterned stone again and enter
-ETC_20150714_012319	Return to Malus and get the new bread
+ETC_20150714_012319	Return to Marius and get the new bread
 ETC_20150714_012320	The bread is okay! Hand it over to Dalius
 ETC_20150714_012321	The bread is spoiled{nl}Throw away the spoiled bread and get the new bread from Marius
 ETC_20150714_012322	You've rubbed off the strange aura
@@ -12731,7 +12731,7 @@ ETC_20150714_012732	You have put on Thornball pockets onto Bagworms
 ETC_20150714_012733	You have found the information about the flow of the magical power
 ETC_20150714_012734	You didn't find any particular information
 ETC_20150714_012735	It will be dangerous if you go near
-ETC_20150714_012736	The Eyes of the Great King is whispering to you that the right person has come
+ETC_20150714_012736	Os Olhos do Grande Rei sussuraram que a pessoa certa apareceu
 ETC_20150714_012737	You can only use it in the Lot 2 of the Crystal Mine
 ETC_20150714_012738	Derrote the monsters protecting the Demon Summoning Circle first!
 ETC_20150714_012739	Nepenthes is confused! Collect the Spiritually Enchanted Sap now!
@@ -14245,7 +14245,7 @@ ETC_20150918_014246	Derrote the monsters that appeared near the epitaph!
 ETC_20150918_014247	I heard a noise...
 ETC_20150918_014248	Help me!!
 ETC_20150918_014249	The monsters that led the soldiers to death has appeared!{nl}Derrote them and pray for their rest!
-ETC_20150918_014250	Euahhh!!
+ETC_20150918_014250	Socorro!!
 ETC_20150918_014251	As you opened the chest, a Red Vubbe Warrior yells at you!
 ETC_20150918_014252	Yes, understood!!
 ETC_20150918_014253	Many are injured... We need help!
@@ -14550,7 +14550,7 @@ ETC_20150918_014551	You've found the unexploded bomb!{nl}Talk with Sapper Mestre
 ETC_20150918_014552	Found the unexploded bomb!{nl}Use the toolbox to eliminate the unexploded bomb
 ETC_20150918_014553	Evil Thoughts Stone
 ETC_20150918_014554	The corpse of the believer that fell down
-ETC_20150918_014555	Collecting
+ETC_20150918_014555	Coletando
 ETC_20150918_014556	Burning
 ETC_20150918_014557	Found the explosive!
 ETC_20150918_014558	Help the soldier
@@ -15913,7 +15913,7 @@ ETC_20151016_015907	Owl Chief Sculpture
 ETC_20151016_015908	Karolis Altar
 ETC_20151016_015909	Karolis' Light
 ETC_20151016_015910	Karolis Sanctuary
-ETC_20151016_015911	Mind Control Tower
+ETC_20151016_015911	Torre de Controle Mental
 ETC_20151016_015912	Free Dungeon
 ETC_20151016_015913	Incomplete Kruvina
 ETC_20151016_015914	Energy of Life
@@ -16237,7 +16237,7 @@ ETC_20151022_016231	Use Fencer Attributes
 ETC_20151022_016232	Obtain the information regarding the giant bracken
 ETC_20151022_016233	Chase after the bead of the ray
 ETC_20151022_016234	Obtain the Owl's power
-ETC_20151022_016235	Destroy the Mind Control Tower
+ETC_20151022_016235	Destrua a Torre de Controle Mental
 ETC_20151022_016236	Purified Power
 ETC_20151022_016237	Remove the magic circle that manages the Eyes of Surveillance
 ETC_20151022_016238	Derrote the monsters that are in the forest of the beginning
@@ -16355,7 +16355,7 @@ ETC_20151022_016349	Illuminating Karolis' light
 ETC_20151022_016350	Karolis' light has already been illuminated!
 ETC_20151022_016351	This Owl Sculpture already gave its power to you
 ETC_20151022_016352	Using the power of the Owl Sculptures
-ETC_20151022_016353	The power of the Owl Sculptures is too far away from the Mind Control Tower
+ETC_20151022_016353	O poder das Esculuturas de Coruja está muito distante da Torre de Controle Mental
 ETC_20151022_016354	You can't see Letas' Sacred Tree and the monsters that reacted to the energy of the forest are rushing in!
 ETC_20151022_016355	You didn't find Letas' Sacred Tree
 ETC_20151022_016356	Letas' Sacred Tree has shown up
@@ -17819,7 +17819,7 @@ ETC_20151224_017813	Unused-Siauliai
 ETC_20151224_017814	Lodge
 ETC_20151224_017815	Opening Zone
 ETC_20151224_017816	Laima Directing
-ETC_20151224_017817	Guild Mission
+ETC_20151224_017817	Missão de Guilda
 ETC_20151224_017818	Elgos Monastery Annex
 ETC_20151224_017819	Novaha Assembly Hall
 ETC_20151224_017820	Novaha Annex
@@ -18574,8 +18574,8 @@ ETC_20151224_018568	Operate the Third Sealed Apparatus
 ETC_20151224_018569	Release the left Seal Candlestick's barrier
 ETC_20151224_018570	Release the right Seal Candlestick's barrier
 ETC_20151224_018571	Follow the light bead from the Owl Sculpture in Bastymosi Field
-ETC_20151224_018572	Recharge the demonic power to the Gelo parts by killing the monsters
-ETC_20151224_018573	Achieved Lv. 1 enhancement on a Besta-type equipment
+ETC_20151224_018572	Recharge the demonic power to the ice parts by killing the monsters
+ETC_20151224_018573	Achieved Lv. 1 enhancement on a Crossbow-type equipment
 ETC_20151224_018574	Derrote the monsters by placing the Condensed Fogostone
 ETC_20151224_018575	Uppercut the monsters by using Psychokino's Scroll
 ETC_20151224_018576	Derrote the monsters within the range of the magic detection district
@@ -19703,7 +19703,7 @@ ETC_20151224_019697	All ore sites are depleted.
 ETC_20151224_019698	Atualmente online: {Cur}/{Max}
 ETC_20151224_019699	Do you want to use{nl}{SkillName}?
 ETC_20151224_019700	The guild Mestre used{nl}{SkillName}{nl}Will you accept?
-ETC_20151224_019701	Mestre da Guilda
+ETC_20151224_019701	Líder da Guilda
 ETC_20151224_019702	{PC} is already affiliated with another guild.
 ETC_20151224_019703	You need to be a {Name} in order to create a guild.
 ETC_20151224_019704	{Price} silver will be charged to create a guild.
@@ -19952,7 +19952,7 @@ ETC_20151224_019946	[Amanda Grave Robbers]{nl}        Amanda
 ETC_20151224_019947	  [Mestre Cannoneer]{nl}Eda Saker Bazaras
 ETC_20151224_019948	[Mestre Musketeer]{nl}      Alloden Marzarine
 ETC_20151224_019949	Upper Underground Prison Dungeon Entrance
-ETC_20151224_019950	Mind Control Tower
+ETC_20151224_019950	Torre de Controle Mental
 ETC_20151224_019951	Black Energy
 ETC_20151224_019952	Charged Device
 ETC_20151224_019953	Temporary
@@ -20029,7 +20029,7 @@ ETC_20151224_020023	Protech Malda Altar from the monsters
 ETC_20151224_020024	The Chapparition who failed to destroy the altar is escaping{nl}Derrote Chapparition before it reaches the portal!
 ETC_20151224_020025	Completed [Returning Crisis] Event
 ETC_20151224_020026	Failed [Returning Crisis]{nl}The Chapparition managed to escaped.
-ETC_20151224_020027	Select Reward
+ETC_20151224_020027	Escolha uma Recompensa
 ETC_20151224_020028	Objective completed!{nl}Mover para Royal Mausoleum Workers Lodge
 ETC_20151224_020029	There are monsters coming out from the Royal Mausoleum Workers Lodge
 ETC_20151224_020030	Gorgon is coming out from the Royal Mausoleum Workers Lodge
@@ -20258,8 +20258,8 @@ ETC_20160224_020252	Increases attack and defense and increases damage inflicted/
 ETC_20160224_020253	Stronger Slash Ataque Elementals.
 ETC_20160224_020254	Pollen
 ETC_20160224_020255	Nuodai Veneno
-ETC_20160224_020256	Through the Path of Fogo
-ETC_20160224_020257	Goddess Gabija delivered a message through Grita. The specimens created by the wizards from the past fell in the hands of the demons, causing mayhem inside the tower. Goddess Gabija asks for the help of the Revelators to gain control of the specimens.
+ETC_20160224_020256	Through the Path of Fire
+ETC_20160224_020257	Deusa Gabija mandou uma mensagem através de Grita. Os espécimes criados pelos Wizards no passado caíram nas mãos dos demônios, causando desordem dentro da torre. A Deusa Gabija pede por ajuda de Reveladores para obter o controle dos espécimes.
 ETC_20160224_020258	After the end of Mirtis' reign over the Crystal Mine, the Templeshooter is calling back the Vubbes. {nl}Derrote Templeshooter and make the Crystal Mine safe again.
 ETC_20160224_020259	The followers in charge of Tenet Church reported the appearance of an Abomination, which is causing difficulties in protecting the church. Derrote the Abomination and help the church's followers.
 ETC_20160224_020260	The soldiers searching for the missing residents of Cobalt Forest reported the appearance of a Poata. Derrote the Poata to allow the soldiers to search for the missing people of Cobalt Forest in safety.
@@ -20929,7 +20929,7 @@ ETC_20160310_020923	Priest Dominikas! What is going on?
 ETC_20160310_020924	Glutton has appeared from the magic circle of Dominikas!{nl}Derrote Dominikas!
 ETC_20160310_020925	A strange scent has spread instantly!
 ETC_20160310_020926	Derrote the Carapace who is attracted by the scent!
-ETC_20160310_020927	Stop right there!
+ETC_20160310_020927	Parado aí mesmo!
 ETC_20160310_020928	Mayor Moze
 ETC_20160310_020929	How could you do something like that!
 ETC_20160310_020930	Bury him before someone sees us!
@@ -21199,7 +21199,7 @@ ETC_20160320_021193	Token: 60 Days
 ETC_20160320_021194	Grants Token benefits to all your characters in the server for 30 days. {nl}{img mouseclick_right 30 30} para usar.{nl}[Benefícios do Token]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Taxa de mercado reduzida (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Permite usar gestos Premium{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 60 times{nl} - 1 entrada extra para dungeons e missões
 ETC_20160320_021195	1 entrada extra em Dungeons e Missões
 ETC_20160323_021196	Mage Tower Instanced Dungeon
-ETC_20160323_021197	Guild Mission 2
+ETC_20160323_021197	Missão de Guilda 2
 ETC_20160323_021198	An Orange Crabil suddenly appeared!
 ETC_20160323_021199	Derrote Orange Crabil and save Lutas!
 ETC_20160323_021200	You are unable to move. Where is the enemy?
@@ -24084,12 +24084,12 @@ ETC_20160811_024078	{Relation} When HP is below {P}%
 ETC_20160811_024079	When an enemy of {Size}size is within {Dist}
 ETC_20160811_024080	When {Relation} within {Dist} is {BuffName}
 ETC_20160811_024081	Please select a character you wish to summon as a helper.
-ETC_20160811_024082	Reforçar -
-ETC_20160811_024083	Purificar -
-ETC_20160811_024084	Proteger -
-ETC_20160811_024085	Abençoar -
-ETC_20160811_024086	Santificar -
-ETC_20160811_024087	Enfeitiçar -
+ETC_20160811_024082	Reforçar:
+ETC_20160811_024083	Purificar:
+ETC_20160811_024084	Proteger:
+ETC_20160811_024085	Abençoar:
+ETC_20160811_024086	Santificar:
+ETC_20160811_024087	Enfeitiçar:
 ETC_20160811_024088	Durabilidade reduzirá 50% mais devagar
 ETC_20160811_024089	Reduz em 5% a duração de todos os debuffs
 ETC_20160811_024090	Aumenta em 5% a Defesa Mágica
@@ -24393,7 +24393,7 @@ ETC_20161005_024387	Vilkas Archer
 ETC_20161005_024388	Vilkas Archers are in charge of hunting and attacking those outside of their societies.
 ETC_20161005_024389	Vilkas Fighter
 ETC_20161005_024390	These are Vilkas that have obtained the right to lead others.
-ETC_20161005_024391	Reucy
+ETC_20161005_024391	Lucy
 ETC_20161005_024392	Rytaswort
 ETC_20161005_024393	Green Bavon
 ETC_20161005_024394	Green Rubblem
@@ -24751,13 +24751,13 @@ ETC_20161005_024745	More monsters are appearing
 ETC_20161005_024746	A girl is asking for help
 ETC_20161005_024747	You hear something breaking behind you
 ETC_20161005_024748	A Kupole appeared and broke all of the supplement bottles!{nl}Ask what is going on
-ETC_20161005_024749	Please destroy the boundary stones
-ETC_20161005_024750	Hauberk and myself will be disarming the defences
+ETC_20161005_024749	Please destroy the boundary stones.	그럼 여러분은 경계석을 부셔주십시오			
+ETC_20161005_024750	Hauberk and myself will be disarming the defenses.	저와 하우벅은 도서관의 방어를 무력화 시키겠습니다				
 ETC_20161005_024751	Don't make any mistakes...
-ETC_20161005_024752	Right on time
-ETC_20161005_024753	Look out
-ETC_20161005_024754	Follow me
-ETC_20161005_024755	Deal with the minions{nl}Stop them from getting to me
+ETC_20161005_024752	Right on time.	시간을 딱 맞췄군요				
+ETC_20161005_024753	Look out!	조심하십시오				
+ETC_20161005_024754	Follow me.	너흰 날 따라오거라				
+ETC_20161005_024755	Deal with the minions.{nl}Stop them from getting to me.	내 주변에서 졸개들을{nl}처리해주면 된다				
 ETC_20161005_024756	They're coming
 ETC_20161005_024757	Hauberk, are you okay?
 ETC_20161005_024758	I don't think we'll be able to stop Vhaldobas{nl}in our current state
@@ -25416,7 +25416,7 @@ ETC_20161005_025410	Craft Enchant Pellets
 ETC_20161005_025411	Enchant Crafting attribute required
 ETC_20161005_025412	Charm of Protection Crafting attribute required
 ETC_20161005_025413	Returning to the server selection screen as you tried to access another server.
-ETC_20161005_025414	Unavailable in this area.
+ETC_20161005_025414	Indisponível nesta área.
 ETC_20161005_025415	There is already an instance clear voucher in use.
 ETC_20161005_025416	You are not the right class for this equipment.
 ETC_20161005_025417	You cannot change your equipment before picking up a thrown item.
@@ -25893,7 +25893,7 @@ ETC_20161214_025887	Decreases Crit Resistance and changed Defense into 0.
 ETC_20161214_025888	Distant Resistance
 ETC_20161214_025889	Resists distant attacks 10 times.
 ETC_20161214_025890	Neighbor of Yesterday
-ETC_20161214_025891	A watcher from the Tenet Garden watchers has arrived. It says some Pantos have joined forces with the demons and are plotting to invade the Plateau. The watchers are planning to invade the Pantos' base to stop their attack.
+ETC_20161214_025891	Um Vigia, membro dos Vigias de Tenet Garden, apareceu. Trouxe a informação de que alguns Pantos juntaram forças com os demônos e planejam invadir o platô. Os Vigias planejam invadir a base dos Pantos para impedir o ataque.
 ETC_20161214_025892	Castle
 ETC_20161214_025893	The curiosity of the wizards led to big trouble. Derrote the Fire Lord before the entire Mage Tower burns down.
 ETC_20161214_025894	The sleeping Reaverpede woke up and is attacking the pilgrims. Derrote the Reaverpede and protect the path of the pilgrims!
@@ -26149,7 +26149,7 @@ ETC_20161214_026143	This box does not open.{nl}Try another box.
 ETC_20161214_026144	You have found the treaty slate.{nl}Go to Kupole Lenja, who is waiting opposite the Yudejan Altar.
 ETC_20161214_026145	Looking for the Goddess' Stone of Faith...
 ETC_20161214_026146	Nothing is written here.
-ETC_20161214_026147	Things seem a lot more stable theses days, though.
+ETC_20161214_026147	Things seem a lot more stable these days, though.
 ETC_20161214_026148	What's the rumor?
 ETC_20161214_026149	There, there now.
 ETC_20161214_026150	Let me tell you about Evoniphon.
@@ -27134,7 +27134,7 @@ ETC_20170313_027128	I'm interested, yes.
 ETC_20170313_027129	What are you doing here?
 ETC_20170313_027130	I'm worried there might be other victims at the Novaha Monastery.
 ETC_20170313_027131	Insert one Yellow Gazing Golem core.
-ETC_20170313_027132	Acquire rubbed copy.
+ETC_20170313_027132	Obter cópia.
 ETC_20170313_027133	Acquired a rubbed copy of the writings on the tombstone.
 ETC_20170313_027134	Copying the writings...
 ETC_20170313_027135	Inserting the Yellow Gazing Golem core...
@@ -27652,16 +27652,16 @@ ETC_20170330_027625	Criada uma nova sala.
 ETC_20170330_027626	{Name} entrou.
 ETC_20170330_027627	{Name} saiu.	
 ETC_20170330_027628	Blocked player.	차단된 대상입니다.				
-ETC_20170330_027629	(Level {Auto_1} alcançado na conclusão)	(완료 시 {Auto_1} 레벨 달성)	ETC_20150317_001942	{Auto_1} level achievement when completed {@st42b}	{@st42b}완료 시 {Auto_1} 레벨 달성	
+ETC_20170330_027629	(Nível {Auto_1} alcançado na conclusão)
 ETC_20170330_027630	{COUNT} out of {MAXCOUNT} completed.	총 {MAXCOUNT}회 중 {COUNT}회 완료하셨습니다.				
 ETC_20170330_027631	The Kingdom's Lost Treasures	왕국의 잃어버린 보물				
 ETC_20170330_027632	The transformation wore off.{nl}Derrote the Pawndels and Pawnds and use the Transformation Scroll!	변신이 풀렸습니다{nl}자신감 버프가 없다면 폰델과 폰드를 처치 후 변신 스크롤을 사용하세요!				
 ETC_20170330_027633	{ZONE} é uma área de nível {ZONELV}.{nl}Você quer entrar?		
 ETC_20170330_027634	Você tem Cartões de EXP disponíveis. {nl} Deseja mover-se sem usar os cartões?
-ETC_20170330_027635	{@st41b}Class EXP:  	{@st41b}클래스 경험치 : 				
+ETC_20170330_027635	{@st41b}EXP de Classe: 
 ETC_20170330_027636	 Você derrotou {COUNT} monstros!{nl}Receba a recompensa de cartões de EXP na NPC Asas da Vaivora em Klaipeda!	
 ETC_20170330_027637	 Derrote {COUNT} monstros para receber uma recompensa de cartões de EXP!{nl}Recompensas podem ser retiradas na NPC Asas de Vaivora.
-ETC_20170330_027638	 Exploração do mapa completa!{nl}Receba a recompensa de cartões de EXP na NPC Asas da Vaivora em Klaipeda!
+ETC_20170330_027638	 - Exploração do mapa completa!{nl}Receba a recompensa de cartões de EXP na NPC Asas da Vaivora em Klaipeda!
 ETC_20170330_027639	 Exploração de mapas: aumente-a em {PERCENT}% para receber uma recompensa de cartõed de EXP!{nl}Recompensas podem ser retiradas na NPC Asas de Vaivora.
 ETC_20170330_027640	The Pendrosium is knocked out!{nl}Hurry and collect the honey!	팬드로시움이 기절했습니다!{nl}어서 꿀을 채집하세요!	ETC_20170313_027297	The Pendrosium is passed out!{nl}Hurry and collect the honey!	펜드로시움이 기절했습니다!{nl}어서 꿀을 채집하세요!	
 ETC_20170330_027641	Upon declaring a war, you cannot disband your guild until after the ceasefire period that follows the end of the war.{nl}Are you sure you want to declare war?	전쟁을 선포하면, 전쟁이 끝나고 휴전 시간이 끝날 때까지 길드 해산을 할 수 없습니다.{nl}정말 전쟁을 선포하시겠습니까?	ETC_20151224_019677	Are you sure you want to declare a war?	정말 전쟁을 선포하시겠습니까?	
@@ -28852,7 +28852,7 @@ ETC_20170912_028825	Sorry, it was taken by another player.
 ETC_20170912_028826	Entrar na Missão - Uphill Defense
 ETC_20170912_028827	Abrir loja da Uphill Defense
 ETC_20170912_028828	Change Position
-ETC_20170912_028829	{CallMemberName} used {SkillName}.{nl}Will you accept?
+ETC_20170912_028829	{CallMemberName} usou {SkillName}.{nl}Aceitar a ação?
 ETC_20170912_028830	Can only be used nearby a Guild Tower, in a city or inside the Guild Hangout.
 ETC_20170912_028831	Your guild will be applied to neutral status.{nl}You will not be able to declare wars.{nl}The neutral status will remain valid for 7 days.{nl}Continue?
 ETC_20170912_028832	Neutral status canceled.{nl}You can declare war on other guilds now.{nl}Continue?
@@ -29512,7 +29512,7 @@ ETC_20171128_029485	It has become stronger in exchange for losing its limbs when
 ETC_20171128_029486	It seems as if the Kurmis will become extinct due to it becoming too toxic when it mutated into a large monster during Medzio Diena. Of course, it might be okay if the demons start tending to it, but there haven't been any attempts as far as we know. 
 ETC_20171128_029487	The most characteristic difference between the Starlakhan and other demons is that it is under the influence of Demon God Raghana. Of course, Raghana is still serving under Giltine. 
 ETC_20171128_029488	People like to think that the Vylkhas are hostile towards humans. The fact is, Vylkhas dislike all that are not it's own species. Vylkhas Fighters even dislike their own.
-ETC_20171128_029489	It is unknown when Reucy were first affected by the mysterious powers in the Fantasy Library. However, as soon as the Reucy??�ecame something more than mere rabbits, they started cooperating with the demons. Humans were able to feel this tendency after Medzio Diena. 
+ETC_20171128_029489	It is unknown when Lucy were first affected by the mysterious powers in the Fantasy Library. However, as soon as the Lucy became something more than mere rabbits, they started cooperating with the demons. Humans were able to feel this tendency after Medzio Diena. 
 ETC_20171128_029490	Evoniphon has been known to be the world's best assassin for a long time. He is also widely recognized as the assassin behind the assassination of the Scharffen Star leader. While this made him famous, it also caused the Hunter Master and Ranger Master, both from the Astral Tower, and their apprentices to hunt him. Despite being tracked by these skilled individuals, he was always one step ahead and even managed to assassinate the Chancellor. Whoever takes him down will relieve the world of a burden.  
 ETC_20171128_029491	Banshee Boss
 ETC_20171128_029492	The difference between other ghost type demons and the Banshee Boss is that she isn't a demon from a human's soul. They originate from humans that were born in the demonic world. Humans are rarely born in the demonic world and are usually killed when they are young. As such, those that live long enough and become ghost type demons are much stronger than the average demon.  
@@ -29779,7 +29779,7 @@ ETC_20171128_029752	Protect the Flicid Collapsing Device
 ETC_20171128_029753	Flicid Collapsing Device
 ETC_20171128_029754	Protect the Ballandans Collapsing Device!
 ETC_20171128_029755	Ballandans Collapsing Device
-ETC_20171128_029756	Defeat Demon Lord Luci{nl}near the Ballanos Collapsing Device!
+ETC_20171128_029756	Defeat Demon Lord Lucy{nl}near the Ballanos Collapsing Device!
 ETC_20171128_029757	Ballanos Collapsing Device
 ETC_20171128_029758	Destroy the Demon Dimensional Door
 ETC_20171128_029759	Demon Dimensional Door
@@ -31026,12 +31026,12 @@ ETC_20171128_030999	Ritual offered to God
 ETC_20171128_031000	Universal Divine Energy of World
 ETC_20171128_031001	Divine power of Goddess
 ETC_20171128_031002	Life energy
-ETC_20171128_031003	Chapel Underground (Lv. Recomendado: 50)
-ETC_20171128_031004	Historic Site Ruins (Lv. Recomendado: 120)
-ETC_20171128_031005	Monument of Desire (Lv. Recomendado: 180)
-ETC_20171128_031006	Residence of the Fallen Legwyn Family (Lv. Recomendado: 230)
-ETC_20171128_031007	Catacombs Underground (Lv. Recomendado: 270)
-ETC_20171128_031008	Castle Underground (Lv. Recomendado: 300)
+ETC_20171128_031003	Chapel Underground (Nv. Recomendado: 50)
+ETC_20171128_031004	Historic Site Ruins (Nv. Recomendado: 120)
+ETC_20171128_031005	Monument of Desire (Nv. Recomendado: 180)
+ETC_20171128_031006	Residence of the Fallen Legwyn Family (Nv. Recomendado: 230)
+ETC_20171128_031007	Catacombs Underground (Nv. Recomendado: 270)
+ETC_20171128_031008	Castle Underground (Nv. Recomendado: 300)
 ETC_20171128_031009	Guild member {Name} has been attacked by {From} of {FromGuild}.
 ETC_20171128_031010	Guild member {Name} has defeated {Target} of {TargetGuild}.
 ETC_20171128_031011	The player has denied your request for {SKILL_NAME}.
@@ -31060,17 +31060,17 @@ ETC_20171128_031033	Recebeu uma entrada adicional para o Modo Desafio!
 ETC_20171128_031034	Can only purchase {Value} of this item for each team.{nl}Continue?
 ETC_20171128_031035	Attendance Reward Check
 ETC_20171128_031036	Can only purchase {Value} of this item per month.{nl}Continue?
-ETC_20171128_031037	You've placed the first ranking for the rubbing!
-ETC_20171128_031038	You've placed in the rubbing ranking!
-ETC_20171128_031039	He was a good fish.
-ETC_20171128_031040	Can I eat this?
-ETC_20171128_031041	Don't look at me with those sad eyes.
-ETC_20171128_031042	He might have become a dragon if he were alive.
-ETC_20171128_031043	Only dead fishes just follow the flow of the water.
-ETC_20171128_031044	People also can be caught by the mouth.
-ETC_20171128_031045	What!? Should have caught!?
-ETC_20171128_031046	This is fishy.
-ETC_20171128_031047	There's adzuki beans inside.
+ETC_20171128_031037	Você está no primeiro lugar do ranking destas cópias!
+ETC_20171128_031038	Você entrou no ranking destas cópias!
+ETC_20171128_031039	Ele era um bom peixinho.
+ETC_20171128_031040	Posso comer este?
+ETC_20171128_031041	Não olhe para mim com esses olhinhos tristes.
+ETC_20171128_031042	Ele poderia ter virado um dragão se estivesse vivo.
+ETC_20171128_031043	Só peixe morto que fica seguindo a correnteza.
+ETC_20171128_031044	Pessoas também são pegas pela boca.
+ETC_20171128_031045	O que!? Era pra ter sido pego!?
+ETC_20171128_031046	Isso cheira mal feito peixe.
+ETC_20171128_031047	Tem feijões-azuqui dentro deste.
 ETC_20171128_031048	You can't use this function during the Territory Wars.
 ETC_20171128_031049	This cannot be used in the PvP areas.
 ETC_20171128_031050	Deseja participar do modo desafio?
@@ -31112,7 +31112,7 @@ ETC_20171128_031085	Tired Monk
 ETC_20171128_031086	Detector System
 ETC_20171128_031087	Auxiliary Detector System
 ETC_20171128_031088	You couldn't destroy all the security devices.
-ETC_20171128_031089	Starting in 10 seconds.
+ETC_20171128_031089	Iniciando em 10 segundos.
 ETC_20171128_031090	When it is finished
 ETC_20171128_031091	3rd Room Gimmick
 ETC_20171128_031092	1st Gimmick
@@ -31411,12 +31411,12 @@ ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec. 3%% HP quando ata
 ETC_20180208_031380	Resistência Elemental: FogoFogo{img attri_Fire 23 23} +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031381	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031382	Taxa de Crítico +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20180208_031383	Provocação ao ser atacado +{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031383	Provocação ao atacar +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031384	Dano contra monstros sob efeito de [Bleed] +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031385	Dano contra monstros sob efeito de [Poison] +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031386	10%% chance de recuperar {@st66d_y}{s16}[%d]{/}{/} HP quando atacado
 ETC_20180208_031387	10%% chance de gerar escudo de {@st66d_y}{s16}[%d]{/}{/} por 10s quando atacado
-ETC_20180208_031388	Provocação ao ser atacado -{@st66d_y}{s16}[%d]{/}{/}%%
+ETC_20180208_031388	Provocação ao atacar -{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031389	CON +{@st66d_y}{s16}[%d]{/}{/} por 10s após usar poção de HP
 ETC_20180208_031390	STR, CON, INT, SPR, DEX +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031391	SPR +{@st66d_y}{s16}[%d]{/}{/} por 10s após usar poção de SP
@@ -31664,8 +31664,8 @@ ETC_20180214_031632	Golden Pup
 ETC_20180214_031633	Você não pode bloquear o item em Dungeon Instanciada.
 ETC_20180214_031634	Saque 1 Gema
 ETC_20180214_031635	Não saque
-ETC_20180214_031636	Exchange {GEMPAY} Silver and Gem.
-ETC_20180214_031637	Exchange {@st66d_y}{s16}Old Golden Coin{/}{/} and Gem.
+ETC_20180214_031636	Trocar {GEMPAY} Silver por uma Gema.
+ETC_20180214_031637	Trocar {@st66d_y}{s16}Old Golden Coin{/}{/} por uma Gema.
 ETC_20180214_031638	Winter Penguin
 ETC_20180219_031639	 {nl}"{NAME}" has played "{DAY} Days" in a row.{nl} EXP buff is available after logging in 2 days in a row.{nl}EXP buff varies depending on consecutive attendance days.
 ETC_20180219_031640	Obter EXP buff
@@ -31725,17 +31725,17 @@ ETC_20180320_031693	Velocidade de Movimento +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180320_031694	Reduz penalidade elemental em {@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180320_031695	Ganho de EXP +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180320_031696	Dano contra monstros da raça Fera{img monster_wild 20 20} +{@st66d_y}{s16}[%d]{/}{/}%%
-ETC_20180320_031697	The soldiers operating at the thorny Glade Hillroad seem to be facing a problem with an enormous monster. According to the reports, the monster is a Rocktortuga. Go and check whether the gigantic Rocktortuga is really roaming the thorny area.
-ETC_20180320_031698	The cave Kupoles noticed some suspicious movement in Khonot Forest and they're asking for help. Defeat the Bebraspion and protect the forest.
-ETC_20180320_031699	A fierce plant monster has appeared in Paupys Crossing and it's terrorizing the people of Orsha. Defeat the Colimencia and protect the city.
-ETC_20180320_031700	A wild Kirmeleech has appeared in Viltis Forest and it's attacking a group of adventurers. Defeat the Kirmeleech and protect them.
-ETC_20180320_031701	A deranged Cactusvel has appeared in Overlong Bridge Valley, threatening to take up the place of the Shnayim that once wandered the region. Help the local soldiers defeat the monster and bring peace back into Overlong Bridge Valley.
-ETC_20180320_031702	Alchemist Sophia has been noticing some strange monster activity in Khamadon Forest  and she's trying to get to the source of it. Go to Khamadon Forest and help her investigate.
-ETC_20180320_031703	Defeat Riteris
-ETC_20180320_031704	An urgent message has arrived from the Elgos Abbot. Residual energy from the Kruvina has attracted a lone Riteris which is now threatening the entire monastery. Help the Elgos Abbot protect it.
-ETC_20180320_031705	Defeat Pantorex
-ETC_20180320_031706	Defeat Heretic Pantorex
-ETC_20180320_031707	The watchers in Tenet Garden believe that the Pantos have a new king. They say the dangerous Panto leader is gathering an army in order to take control of the region. The situation must be stopped before it gets out of control.
+ETC_20180320_031697	Os soldados atuando na espinhenta Glade Hillroad parecem estar com problemas contra um enorme monstro. Conforme relatos, o monstro é um Rocktortuga. Verifique se o Rocktortuga gigante está mesmo rondando a área.
+ETC_20180320_031698	As kupoles dentro da caverna perceberam uma movimentasão suspeita em Khonot Forest. Elas estão pedindo por ajuda. Derrote o Bebraspion e proteja a floresta.
+ETC_20180320_031699	Um perigoso montro da raça Planta apareceu em Paupys Crossing e está aterrorizando o povo de Orsha. Derrote a Colimencia e proteja a cidade.
+ETC_20180320_031700	Um Kirmeleech selvagem apareceu em Viltis Foreste está atacando um grupo de aventureiros. Derrote o Kirmeleech e proteja os aventureiros.
+ETC_20180320_031701	Um Cactusvel enlouquecido apareceu em Overlong Bridge Valley, ameaçando tomar o lugar do Shnayim que rondava a região. Ajude os soldados locais a derrotar o montros e trazer paz de volta para Overlong Bridge Valley.
+ETC_20180320_031702	A Alchemist Sophia notou uma atividade estranha de um montros em Khamadon Forest, e ela está tentando chegar na raíz do problema. Vá até Khamadon Forest e ajude ela nesta investigação.
+ETC_20180320_031703	Derrote Riteris
+ETC_20180320_031704	Uma mensagem urgente chegou do Abade de Elgos. Energia resitual da Kruvina atraiu um Riteris, que está ameaçando todo o monastério. Ajude o Abade de Elgos a proteger o monastério.
+ETC_20180320_031705	Derrote Pantorex
+ETC_20180320_031706	Derrote Heretic Pantorex
+ETC_20180320_031707	Os Vigias em Tenet Garden acreditam que os Pantos possuem um novo rei. Eles disseram que o perigoso líder Panto está reunindo um exército para tomar o controle da região. A situação deve ser impedida antes que saia do controle.
 ETC_20180320_031708	Invest stat points in STR/CON/INT/SPR/DEX to develop your character.{nl}{nl}- STR: Increases physical attack and accuracy{nl}{nl}- CON: Increases max. HP, HP recovery (including from spells and potions), max. stamina and block{nl}{nl}- INT: Increases magic attack{nl}{nl}- SPR: Increases max. SP, SP recovery (including from spells and potions) and HP and skill damage of the summons{nl}{nl}- DEX: Increases attack speed, evasion, block penetration and critical attack{nl}
 ETC_20180320_031709	{nl} {nl}From Guild Quests or Instanced Dungeons, you can obtain 	{nl} {nl}길드 퀘스트나 인스턴스 던전 보상을 통해 얻을 수 있는 				
 ETC_20180320_031710	Guild items can be obtained through guild quests. You can {img mouseclick_left 40 40} the items to distribute them to your guild members.	길드 아이템은 길드 퀘스트를 통해 획득할 수 있으며, 획득한 아이템은 {img mouseclick_left 40 40} 후 길드원에게 분배해줄 수 있습니다.				
@@ -31784,19 +31784,19 @@ ETC_20180320_031752	Santa Costume Package (Male)
 ETC_20180320_031753	Right-click to use and obtain the items.{nl}- 1x Santa Costume (Male){nl}- 2x Tree Ornament Cube
 ETC_20180320_031754	#N/A
 ETC_20180320_031755	#N/A
-ETC_20180320_031756	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 15{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031756	Se você trocar seu equipamento atual por novos de {@st66d_y}Nv 15{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
 ETC_20180320_031757	N
-ETC_20180320_031758	{/} para abrir o Mapa do Mundo {@st66d_y}
-ETC_20180320_031759	{/} e encontrar um local para caçar monstros. Você também pode comprar equipamentos do {@st66d_y}
-ETC_20180320_031760	{/} NPC nas cidades.
-ETC_20180320_031761	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 40{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
-ETC_20180320_031762	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 75{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
-ETC_20180320_031763	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 120{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
-ETC_20180320_031764	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 170{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
-ETC_20180320_031765	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 220{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
-ETC_20180320_031766	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 270{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
-ETC_20180320_031767	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 315{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
-ETC_20180320_031768	Se você trocar seu equipamento atual por equips {@st66d_y}Lv 350{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031758	{/} para abrir o Mapa do Mundo e busque por {@st66d_y}
+ETC_20180320_031759	{/}, onde você poderá caçar monstros. Você também pode comprar equipamentos com o {@st66d_y}
+ETC_20180320_031760	{/} que existe em cada cidade.
+ETC_20180320_031761	Se você trocar seu equipamento atual por novos de {@st66d_y}Nv 40{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031762	Se você trocar seu equipamento atual por novos de {@st66d_y}Nv 75{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031763	Se você trocar seu equipamento atual por novos de {@st66d_y}Nv 120{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031764	Se você trocar seu equipamento atual por novos de {@st66d_y}Nv 170{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031765	Se você trocar seu equipamento atual por novos de {@st66d_y}Nv 220{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031766	Se você trocar seu equipamento atual por novos de {@st66d_y}Nv 270{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031767	Se você trocar seu equipamento atual por novos de {@st66d_y}Nv 315{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
+ETC_20180320_031768	Se você trocar seu equipamento atual por novos de {@st66d_y}Nv 350{/}, você pode derrotar monstros ainda mais fortes. Aperte a tecla {@st66d_y}
 ETC_20180320_031769	{/} {@st66d_y}
 ETC_20180320_031770	{/} NPC to access the instanced dungeons.
 ETC_20180320_031771	Mercenary Post Missions
@@ -31914,7 +31914,7 @@ ETC_20180320_031882	You have found all the items in this area.{nl}Move to anothe
 ETC_20180320_031883	Failed to create {TYPE}. Please try again later.
 ETC_20180320_031884	Próximo nv. da guilda
 ETC_20180320_031885	Área da Missão da Guilda
-ETC_20180320_031886	Raid Boss da Guilda
+ETC_20180320_031886	Chefes de Guilda
 ETC_20180320_031887	Missão da Guilda{nl}Gostaria de iniciar {nl}{GuildEvent}?
 ETC_20180320_031888	Você não está participando de uma missão de guilda.
 ETC_20180320_031889	Missão da Guilda
@@ -32138,7 +32138,7 @@ ETC_20180418_032106	Paper Doll (White)
 ETC_20180418_032107	Paper Doll (Red)
 ETC_20180418_032108	Paper Doll (Black)
 ETC_20180418_032109	I came to talk to you about the Onmyoji support project.
-ETC_20180418_032110	You look awfully restless.	오늘따라 초조해 보인다고 얘기한다.				
+ETC_20180418_032110	Você parece muito cansado.
 ETC_20180418_032111	Atributos de Retiarius
 ETC_20180418_032112	Itens de Retiarius
 ETC_20180418_032113	Let me tell you about my journey.
@@ -32508,7 +32508,7 @@ ETC_20180418_032476	Velcoffer has been defeated.
 ETC_20180418_032477	Jump End
 ETC_20180418_032478	Defeat the Tainted Gargoyle.
 ETC_20180418_032479	The dark energy that was blocking the road has disappeared.
-ETC_20180420_032480	Estátua da Deusa Zemyna
+ETC_20180420_032480	{@st41}{#a64200}Estátua da Deusa Zemyna
 ETC_20180420_032481	Estágio 1: Ataque dos Monstros
 ETC_20180420_032482	Mission ending in 5 minutes.
 ETC_20180420_032483	Mission ending in 3 minutes.
@@ -32932,7 +32932,7 @@ ETC_20180517_032896	100M
 ETC_20180517_032897	Os itens transcendidos não podem ser negociados via troca direta (1:1). Falhar ao transcender reduz o potencial do item.{Nl} {nl} Deseja transcender?
 ETC_20180517_032898	Os itens transcendidos não podem ser negociados via troca direta (1:1). Falhar ao transcender reduz o potencial do item.{Nl} {nl} Deseja transcender?
 ETC_20180517_032899	Already linked.
-ETC_20180517_032900	You have reached the maximum enhancement.
+ETC_20180517_032900	Alcançou o nível máximo de aprimoramento.
 ETC_20180517_032901	Using these materials will generate a surplus of {#62100c}[ {EXCEED_EXP} EXP ]{/}{/}. Are you sure you want to continue?
 ETC_20180517_032902	This item does not contain valid random stats.
 ETC_20180517_032903	Stats extracted; the item has been consumed.
@@ -34384,7 +34384,7 @@ ETC_20180629_034348	Helmets (F)
 ETC_20180629_034349	Hair Color
 ETC_20180629_034350	PC Shop
 ETC_20180629_034351	This item is already being purchased. Please try again.
-ETC_20180629_034352	No purchases failed.
+ETC_20180629_034352	Nenhuma compra falhou.
 ETC_20180629_034353	Close Flute mode.
 ETC_20180629_034354	{img skillup 25 25}{@st59}Aumenta o SP max., Recuperação de SP, Dano das Invocações, HP das Invocações e Cura{/}
 ETC_20180629_034355	Unavailable Party Member(s)
@@ -34633,7 +34633,7 @@ ETC_20180629_034597	Guild quest "{GuildEvent}" has been canceled.
 ETC_20180629_034598	Read
 ETC_20180629_034599	Unread
 ETC_20180629_034600	This item is already in your basket.
-ETC_20180629_034601	{#0000ff}{SELLER}{#000000} sold {#0000ff}{ITEM}{#000000} {#ff0000}x{COUNT}{#000000}
+ETC_20180629_034601	{#0000ff}{SELLER}{#000000} vendeu {#0000ff}{ITEM}{#000000} {#ff0000}x{COUNT}{#000000}
 ETC_20180629_034602	Por favor, retire todos os seus itens.{Nl} Além disso, defina seu cabelo para cor padrão.
 ETC_20180629_034603	No target item.
 ETC_20180629_034604	[{USER}] has awakened [{ITEM}].
@@ -34742,9 +34742,9 @@ ETC_20180629_034706	[Estilista]{nl}       Kastytis
 ETC_20180629_034707	[Mestre Exorcist]{nl}     Sydow Merrinblock
 ETC_20180629_034708	[Mestre Pied Piper]{nl}            Jogaila
 ETC_20180629_034709	Exorcism Site
-ETC_20180629_034710	Starting in 60 seconds!
+ETC_20180629_034710	Iniciando em 60 segundos!
 ETC_20180629_034711	Protect the shelter and destroy the monsters' portals.
-ETC_20180629_034712	Starting in 10 seconds!
+ETC_20180629_034712	Iniciando em 10 segundos!
 ETC_20180629_034713	Go to Curtis.
 ETC_20180629_034714	Pile of Boxes
 ETC_20180629_034715	All the equipment has been destroyed.
@@ -36079,7 +36079,7 @@ ETC_20180827_036035	You have gathered enough Humming Duke Meat.{nl}Deliver it to
 ETC_20180827_036036	Collecting water plants...	수초 채집하는 중				
 ETC_20180827_036037	Obtained Pasto water plants.	파스토 수초를 채집했습니다				
 ETC_20180827_036038	You have collected enough Pasto water plants.{nl}Deliver them to Hunter Oort.	파스토 수초를 충분히 채집했습니다{nl}헌터 오르트에게 돌아가 수집한 수초들을 전해주세요				
-ETC_20180827_036039	A treasure chest has been found inside the cave!{nl}Find it and get the treasure!	동굴 안에서 보물 상자가 발견되었습니다!{nl}보물상자를 찾아 보상을 획득하세요!				
+ETC_20180827_036039	Um Baú do Tesouro apareceu dentro da caverna!{nl}Encontre-o e pegue o tesouro!
 ETC_20180827_036040	Offer 1 Concentrated Blue Crystal.	마력이 응집된 푸른색 결정 1개를 제물로 바친다				
 ETC_20180827_036041	Offer 10 Concentrated Blue Crystals.	마력이 응집된 푸른색 결정 10개를 제물로 바친다				
 ETC_20180827_036042	Offer 15 Concentrated Blue Crystals.	마력이 응집된 푸른색 결정 15개를 제물로 바친다				
@@ -36514,8 +36514,8 @@ ETC_20181017_036428	You cannot create a new character because the [Lodge{layer]]
 ETC_20181017_036429	Exceeded Market trade limit ({LIMIT} Silver).	마켓 거래 한도인 {LIMIT}실버를 초과하였습니다.	ETC_20161214_026110	Exceeded the maximum silver limit of {LIMIT}.	등록 가능한 최대 금액인 {LIMIT}실버를 초과하였습니다.	
 ETC_20181017_036430	You cannot have more than {MaxStack} [{Name}] items.	[{Name}] 아이템은 {MaxStack}개 이상 소유할 수 없습니다.				
 ETC_20181017_036431	{#ffc500}{s14}Filtro aplicado
-ETC_20181017_036432	{TeamName}'s Camp	{TeamName}의 캠프				
-ETC_20181017_036433	{TeamName}'s Table	{TeamName}의 배식대				
+ETC_20181017_036432	Acampamento de {TeamName}
+ETC_20181017_036433	Mesa de {TeamName}
 ETC_20181017_036434	Participation: {COUNT} time(s){nl}No. selected: {NUMLIST}{nl}Rewards	참여횟수 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상	ETC_20170313_027060	Total count: {COUNT}{nl}Selected numbers: {NUMLIST}{nl}Reward(	누적 출석 : {COUNT}회{nl}선택한 번호 : {NUMLIST}{nl}보상(	
 ETC_20181017_036435	Participation: 0{nl}Go to the Klaipeda, Orsha or Fedimian   	참여횟수 : 0회{nl}클라페다, 오르샤, 페디미안의 	ETC_20170313_027061	Total count: 0{nl}Go to the Klaipeda, Orsha or Fedimian  	누적 출석 : 0회{nl}클라페다, 오르샤, 페디미안의 	
 ETC_20181017_036436	Remaining Rewards	남은 보상	ETC_20170313_027063	Remaining rewards(	남은 보상(	
@@ -37112,7 +37112,7 @@ ETC_20190104_037026	Buy Swordsman supplies	소드맨 물품 구입
 ETC_20190104_037027	Buy Archer supplies	아처 물품 구입			
 ETC_20190104_037028	I've just come to say hello after hearing about you.	소문을 듣고 인사를 드리러 왔다고 한다			
 ETC_20190104_037029	Reached the third class advancement	3차 전직 달성			
-ETC_20190104_037030	Share Quest Progress to Activate Statue of Goddess Vakarine	퀘스트 진행도를 알리고 바카리네 여신상을 활성화한다			
+ETC_20190104_037030	Compartilhar Progresso de Missões para Ativar Estátuas
 ETC_20190104_037031	O que me diz desta prateleira de livros rasgados?
 ETC_20190104_037032	[Event] Rota's Special Support	[이벤트]로타의 특별 지원			
 ETC_20190104_037033	Buy Assassin supplies	어쌔신 물품 구입			
@@ -37488,7 +37488,7 @@ ETC_20190104_037402	Consome {Silver} Silver para{nl}extrair {Scroll} Attribute P
 ETC_20190104_037403	[{count}] slot(s) adicionado com sucesso.
 ETC_20190104_037404	You cannot add more character slots.	더 이상 캐릭터 슬롯을 추가할 수 없습니다.			
 ETC_20190104_037405	All skills	전체 스킬	SKILL_20150317_000108	Skills	스킬
-ETC_20190104_037406	Maximum level has been reached.	최대 레벨입니다.			
+ETC_20190104_037406	Nível Máximo alcançado.
 ETC_20190104_037407	Status Points Spent	투자한 스테이터스	ETC_20160224_020569	Stat	스탯
 ETC_20190104_037408	You must make at least one class advancement before being permitted entry.	전직 횟수 1회 이상 부터 입장이 가능합니다.	ETC_20180208_031544	Entrance restricted to Rank {NEED_RANK} and above.	{NEED_RANK} 랭크 부터 입장이 가능합니다.
 ETC_20190104_037409	{nl} minutes	{n}분			
@@ -37529,7 +37529,7 @@ ETC_20190104_037443	[{#33FF33}{SELF}{/}] has reached [{#33FF33}physical defense 
 ETC_20190104_037444	[{#33FF33}{SELF}{/}] has reached [{#33FF33}magic defense of {NUM}{/}] for the first time in the Guild.	[{#33FF33}{SELF}{/}]님이 길드 최초로 [{#33FF33}마법 방어력 : {NUM}{/}]을 돌파하셨습니다.			
 ETC_20190104_037445	Due to [{#33FF33}{SELF}{/}]'s contribution, the Guild has reached [{#33FF33}Guild Level {NUM}{/}].	[{#33FF33}{SELF}{/}]님의 마지막 기여로 [{#33FF33} 길드 {NUM}레벨{/}]을 달성했습니다.			
 ETC_20190104_037446	You have completed the [{#33FF33}{MISSION}{/}] quest with the help of your guild members.	길드원분들의 참여로 [{#33FF33}{MISSION}{/}] 길드 퀘스트를 성공했습니다.			
-ETC_20190104_037447	The Guild Tower has been built on Channel 1 of the [{#33FF33}{ZONE}{/}] area.	길드 타워가 [{#33FF33}{ZONE}{/}] 지역 1채널에 설치되었습니다.			
+ETC_20190104_037447	A Torre da Guilda foi construída no Canal 1{nl}do mapa [{#33FF33}{ZONE}{/}].
 ETC_20190104_037448	{@st64}Bottom Menu 	{@st64}하단 메뉴 			
 ETC_20190104_037449	You can press the button or the 	버튼이나 			
 ETC_20190104_037450	key 	키를 눌러 			
@@ -37639,7 +37639,7 @@ ETC_20190104_037553	You have gained the Strengthened Unity buff.	결속 강화 �
 ETC_20190104_037554	The effects of Strengthened Unity have worn off.	결속 강화 효과가 사라졌습니다.			
 ETC_20190104_037555	You have been saved by the effects of Strengthened Unity.	결속 강화 효과에 의해 위기를 모면했습니다.			
 ETC_20190104_037556	You have been forcibly banished by Boruta.	보루타에 의해 강제 유폐 당했습니다			
-ETC_20190104_037557	About the source of the supplies	보급품 출처에 대하여			
+ETC_20190104_037557	Sobre a origem dos suprimentos
 ETC_20190104_037558	Death: 	사망 : 			
 ETC_20190104_037559	s attack	의 공격			
 ETC_20190104_037560	Death: Boruta's Attack	사망 : 보루타의 공격			
@@ -37716,7 +37716,7 @@ ETC_20190104_037630	The [{Name1}] guild has destroyed [{Name2}]'s Guild Tower.	[
 ETC_20190104_037631	The Tower was destroyed by [{Name}] guild.	[{Name}]길드에게 파괴당함.	ETC_20160224_020635	The {Name} guild was destroyed.	{Name}길드에게 파괴당함.
 ETC_20190104_037632	Guild member [{#FF0000}{Name}{/}] has been defeated by [{#FF0000}{FromGuild}{/}]'s [{#FF0000}{From}{/}].	길드원 [{#FF0000}{Name}{/}]님이 [{#FF0000}{FromGuild}{/}]길드의 [{#FF0000}{From}{/}]에게 전투 불능 상태가 되셨습니다.	ETC_20171128_031009	Guild member {Name} has been attacked by {From} of {FromGuild}.	길드원 {Name}님이 {FromGuild}의 {From}에게 당했습니다.
 ETC_20190104_037633	Guild member [{#FF0000}{Name}{/}] has defeated [{#FF0000}{FromGuild}{/}]'s [{#FF0000}{From}{/}].	길드원 [{#FF0000}{Name}{/}]님이 [{#FF0000}{TargetGuild}{/}]길드의 [{#FF0000}{Target}{/}]을 처치했습니다.	ETC_20171128_031010	Guild member {Name} has defeated {Target} of {TargetGuild}.	길드원 {Name}님이 {TargetGuild}의 {Target}을 처치했습니다.
-ETC_20190104_037634	Guild Quest{nl}Would you like to start [{GuildEvent}]?	길드퀘스트{nl}[{GuildEvent}]를 시작하시겠습니까?	ETC_20180320_031887	Guild Quest{nl}Would you like to start {nl}{GuildEvent}?	길드퀘스트{nl}{GuildEvent}를 시작하시겠습니까?
+ETC_20190104_037634	Missão de Guilda{nl}Gostaria de iniciar [{GuildEvent}]?
 ETC_20190104_037635	Guild member [{Name}] received {Item} (x{Count}) from the Guild Storage. 	[{Name}] 길드원이 길드 보관함으로부터 {Item} {Count}개를 받았습니다.	ETC_20160323_021354	Guild member {Name} received {Item} (x{Count}) from the Guild Storage. 	길드원 {Name}이 길드 보관함으로부터 {Item} {Count}개를 받았습니다.
 ETC_20190104_037636	Guild member [{Name}] has become the Guild Master.	[{Name}] 길드원이 길드 마스터가 되었습니다.	ETC_20160718_022569	{Name} has been appointed as Guild Master.	{Name}이 길드 마스터가 되었습니다.
 ETC_20190104_037637	The player has denied your request for {SKILL_NAME}.	상대방이 {SKILL_NAME} 요청을 거절하였습니다.	ETC_20171128_031011	The player has denied your request for {SKILL_NAME}.	상대방이 {SKILL_NAME} 스킬에 대한 요청을 거절하였습니다.
@@ -37774,7 +37774,7 @@ ETC_20190104_037688	You must be Lv. 15 or higher to deposit or withdraw silver.	
 ETC_20190104_037689	Guild Territory Wars starting in 5 minutes.	길드 콜로니전 시작 5분 전입니다.	ETC_20170912_028929	Guild Territory Wars starting in 5 minutes.{nl}Guilds with Spots seized may enter the Spot Area now.	길드 콜로니전 시작 5분 전입니다.{nl}스팟 점령 길드는 해당 스팟 지역으로 미리 입장할 수 있습니다.
 ETC_20190104_037690	{Name} has been defeated by {From} from {FromGuild}.	{FromGuild} 길드의 {From}님에게 길드원 {Name}님이 당했습니다.	ETC_20180413_031970	{Name} has been defeated by {From} from {FromGuild}.	{FromGuild}의 {From}에게 길드원 {Name}님이 당했습니다.
 ETC_20190104_037691	Guild member {Name} has defeated {Target} of {TargetGuild}.	길드원 {Name}님이 {TargetGuild} 길드의 {Target}님을 처치했습니다.	ETC_20171128_031010	Guild member {Name} has defeated {Target} of {TargetGuild}.	길드원 {Name}님이 {TargetGuild}의 {Target}을 처치했습니다.
-ETC_20190104_037692	Purchase Armaments	군수품 구입			
+ETC_20190104_037692	Comprar Armamentos
 ETC_20190104_037693	Installation cannot be built.	설치할 수 없는 위치입니다.			
 ETC_20190104_037694	Seizing	점령중			
 ETC_20190104_037695	The Mysterious Cyrstal cannot be used right now.	신비한 크리스탈 재사용 대기시간 입니다.			
@@ -37823,7 +37823,7 @@ ETC_20190104_037737	Grade B : Baron Allerno : Not Seized	B등급 아렐르노 �
 ETC_20190104_037738	Territory Amplifiers will be generated in 30 seconds.	30초 뒤에 콜로니 증폭기가 생성됩니다.			
 ETC_20190104_037739	[{name}] dealt the last blow to an Amplifier!{nl}All guild members receive {point} seize points!	길드 내 [{name}] 유저가 증폭기를 마지막으로 타격하는데 성공했습니다!{nl}보상으로 점령 포인트를 {point} 획득했습니다!			
 ETC_20190104_037740	[{name}] dealt the last blow to the amplifier!{nl}(No benefits are applied since your guild is already holding the Spot.)	길드 내 [{name}] 유저가 증폭기를 마지막으로 타격하는데 성공했습니다!{nl}(현재 해당 지역을 점령중이므로 파괴 보상을 받을 수 없습니다.)			
-ETC_20190104_037741	Receive Honor Reward	점령 명예 보상 받기				
+ETC_20190104_037741	Receber Recompensa de Honra
 ETC_20190104_037742	You cannot receive the Honor Reward currently.	지금은 점령 명예 보상을 받을 수 없습니다.				
 ETC_20190104_037743	You have received the Honor Reward!	콜로니전 승리 기념으로 점령 명예 보상을 받았습니다!				
 ETC_20190104_037744	You have already received the Honor Reward	이미 점령 명예 보상을 받았습니다				
@@ -40699,7 +40699,7 @@ ETC_20190104_040613	[Mestre Wizard]{nl}Lucia
 ETC_20190104_040614	[Mestre Archer]{nl}Edmundas Tiller
 ETC_20190104_040615	[Gestor de Mercado]{nl}Logi
 ETC_20190104_040616	[Treinadora de Mascote]{nl}Christina
-ETC_20190104_040617	[Diretora de Pesca]{nl}Joha
+ETC_20190104_040617	[Gerente de Pesca]{nl}Joha
 ETC_20190104_040618	[Team Battle League]{nl}Valis
 ETC_20190104_040619	[Mestre Scout]{nl}Recon Rimgaile
 ETC_20190104_040620	[Mestre Enchanter]{nl}Yena Havindar
@@ -40837,7 +40837,7 @@ ETC_20190201_040751	ⓘ Guildas que adquiriram territórios podem usar o botão 
 ETC_20190201_040752	Guilda:  
 ETC_20190201_040753	Cidade:  
 ETC_20190201_040754	Imposto:  
-ETC_20190209_040755	2019 Leticia's Treasure Chest (Season 2)	2019 레티샤의 보물 상자(1월)			
+ETC_20190209_040755	2019 Leticia's Treasure Chest (Season 3)	2019 레티샤의 보물 상자(1월)			
 ETC_20190209_040756	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Lv 10 Enhancement Card Book x9{nl} - Ripped Legend Enhancement Card x7{nl} - Old Legend Enhancement Card x5{nl} - Legend Enhancement Card x3{nl} - Shining Legend Enhancement Card x1	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - Lv10 강화용 카드북 9개{nl} - 찢어진 레전드 강화용 카드 7개{nl} - 오래된 레전드 강화용 카드 5개{nl} - 레전드 강화용 카드 3개{nl} - 빛나는 레전드 강화용 카드 1개			
 ETC_20190209_040757	Event Orsha Resident F1	이벤트 오르샤 주민 여1			
 ETC_20190209_040758	GTW Open Event NPC	콜전 오픈 이벤트 NPC			
@@ -40866,3 +40866,206 @@ ETC_20190216_040780	You must have only one [Wake Up] weapon in your inventory.	�
 ETC_20190216_040781	You do not have a [Wake Up] weapon in your inventory.	인벤토리에 [까치까치 설날] 무기가 없습니다.				
 ETC_20190216_040782	Give	건네준다				
 ETC_20190216_040783	Days remaining until Widnium Fragment exchange	위드니움 조각 교환까지 남은 일수				
+ETC_20190223_040784	Gazer
+ETC_20190223_040785	Gazers são monstros usados pelo Demon King Baiga como seus olhos e ouvidos ao redor do mundo.
+ETC_20190223_040786	Greedy Prisoner
+ETC_20190223_040787	Um demônio aprisionado que foi liberado em nosso mundo com o único propósito de causar estragos.
+ETC_20190223_040788	Puppet M
+ETC_20190223_040789	Um monstro que imita Plague Doctors. Eles matam as pessoas ao invés de curá-las.
+ETC_20190223_040790	Masked Executor
+ETC_20190223_040791	Não sabemos a origem deste monstro, mas certamente são tão cruéis e impiedosos como os próprios demônios.
+ETC_20190223_040792	[Evento] Klaipeda
+ETC_20190223_040793	[Evento] Orsha
+ETC_20190223_040794	[TOS 4-Time Researcher]
+ETC_20190223_040795	Título dado para quem participou como um TOS 4-Time Researcher.
+ETC_20190223_040796	Retorne para o local anterior.
+ETC_20190223_040797	Jogar Raid de Hangout da Guilda
+ETC_20190223_040798	Você já está participando de uma Raid de Hangout da Guilda.
+ETC_20190223_040799	Incapaz de participar de uma Raid de Hangout
+ETC_20190223_040800	Você não pode participar da Raid de Hangout da Guilda por ter sido derrotado em combate.
+ETC_20190223_040801	Gerenciar Raid de Hangout
+ETC_20190223_040802	{nl} {nl}Exibe o número atual de invocações e seu HP.{nl} {nl}O HP de invocações de [Summoning], Salamion, Shoggoth e{nl}[Corpse Tower] serão apresentados.
+ETC_20190223_040803	O HP das invocações é exibido em verde para diferenciar de outros monstros.
+ETC_20190223_040804	Somente cartas da raça Fera, Planta e Mutante podem ser colocadas no Necronomicon, com um máximo de quatro cartas.{nl}Na parte inferior do Necronomicon, você pode ver o número de corpos que você coletou até o momento.
+ETC_20190223_040805	{nl} {nl}Exibe a quantidade de invocações e seu HP.{nl} {nl}Você pode verificar a informação da invocação na aba de Invocações{nl}na janela de informações do grupo. Você pode trocar entre informação de grupo ou invocações{nl}ao pressionar a tecla ({img key~ 40 40}) ou clicando no botão {img button_view_info 40 40}.
+ETC_20190223_040806	Exibe a quantidade restante de esqueletos de Necromancer e zumbis de Bokor.
+ETC_20190223_040807	{nl} {nl}Exibe o HP restante da invocação da habilidade [Summoning]{nl}Salamion, Shoggoth e [Corpse Tower].{nl}
+ETC_20190223_040808	Raid de Hangout da Guilda
+ETC_20190223_040809	Você pode participar de uma Raid de Hangout da Guilda quando o Nível da Guilda alcançar o nível 5.
+ETC_20190223_040810	A Raid de Hangout da Guilda acontece no Hangout da sua Guilda.{nl}Requer que a Guilda esteja no nível 5 para que possa ser iniciada.{nl}Interaja com a Sage Emissária no Hangout da sua Guilda para iniciar a Raid.
+ETC_20190223_040811	{nl} {nl}Para iniciar uma Raid de Hangout da Guilda, você precisa ser o Líder da Guilda ou ter a autoridade para isso.{nl}A dificuldade será ajustada quando a Guilda alcançar o nível 6.
+ETC_20190223_040812	Níveis maiores de dificuldade serão liberados conforme o Nível da Guilda aumenta, atingindo no máximo o nível 15 de dificuldade.
+ETC_20190223_040813	{nl} {nl}Somente membros da Guilda podem participar das Raids, e ela pode ser continuada ao derrotar o monstro Chefe.
+ETC_20190223_040814	Você pode invocar um novo monstro Chefe após derrotar o atual. Se a Raid for interrompida por qualquer motivo, você pode reiniciar de onde parou, com o HP do Chefe da forma que estava quando parou.{nl} {nl}Membros da Guilda que voltaram depois de terem saído não poderão participar destas Raids por 14 dias.{nl}Membros de outras Guildas não poderão participar das Raids da sua Guilda.
+ETC_20190223_040815	{nl} {nl}Participantes recebem 1 ponto de contribuição por 10.000 de dano causado no monstro Chefe.{nl}Os pontos de contribuição serão somados e convertidos em Silver toda Segunda-feira, às 6AM, pela Sage Emissária.
+ETC_20190223_040816	A quantidade de Silver dependerá do Nível da Guilda e dos pontos de contribuição de cada membro.{nl}Se a Raid falhar e o Chefe não for derrotado, a contribuição desta sessão em particular não será salva.
+ETC_20190223_040817	{nl} {nl}Os pontos de contribuição acumulados podem ser vistos com a Sage Emissária.
+ETC_20190223_040818	Info de Invocações
+ETC_20190223_040819	Exibe o número e o HP das invocações.
+ETC_20190223_040820	{nl} {nl}Informação das invocações podem ser vistas em outra aba da janela de grupo.{nl}Pressionando a tecla ({img key~ 40 40}) ou clicando no botão {img button_view_info 40 40) você poderá trocar entre info de grupo ou de invocações.
+ETC_20190223_040821	pvp_mine information log
+ETC_20190223_040822	SOLO RAID information log
+ETC_20190223_040823	Event user information warning.
+ETC_20190223_040824	Mestre Treinador de Monstros
+ETC_20190223_040825	Evento: Treinador de Monstros
+ETC_20190223_040826	Encontre o Porquinho Dourado
+ETC_20190223_040827	Evento: Encontre o Porquinho Dourado
+ETC_20190223_040828	Invasão em Klaipeda
+ETC_20190223_040829	Item Appearance Eraser
+ETC_20190223_040830	Você pode reiniciar a aparência de um item que teve a aparência alterada.{nl}O material usado para alterar a aparência do item será destruído.
+ETC_20190223_040831	Altera aleatoriamente o número, grupos e valores dos atributos presentes em um item que atributos aleatórios. Você pode escolher um atributo de antes ou depois para manter. Para utilizar o item você precisa escolher um atributo para manter.{nl}O item é passado como parte da atualização do [Re:Build]. Este item será removido após o final do período do evento.
+ETC_20190223_040832	[Evento] Mysterious Magnifier
+ETC_20190223_040833	[Evento] Artisan Magnifier
+ETC_20190223_040834	[Evento] Combat Support Box
+ETC_20190223_040835	Uma caixa contendo itens úteis para combate. Clique com o botão direito do mouse para receber:{nl}- [Evento] Small Elixir of HP Recovery x30{nl}- [Evento] Small Elixir of SP Recovery x30{nl}
+ETC_20190223_040836	Rogues eram pessoas procuradas pelo Reino que ganharam perdão após ajudarem vários aventureiros em suas missões. Por volta de 300 anos atrás, durante o reinado de Nachel I, eles receberam o perdão que garante imunidade das punições, desde que os crimes não fossem sérios como assassinato ou traição.{nl}Rogues farão o que for necessário para vencer a batalha. São especializados em emboscar furtivamente seus alvos pelas costas.
+ETC_20190223_040837	Guardian's Antechamber
+ETC_20190223_040838	Checkpoint
+ETC_20190223_040839	Refugee Station
+ETC_20190223_040840	Construction Quarters
+ETC_20190223_040841	Segregated Quarters
+ETC_20190223_040842	Crystal Workshop
+ETC_20190223_040843	Crystal Smelting Site
+ETC_20190223_040844	{@st41}{#FF6700}Porquinho Dourado{/}{/}
+ETC_20190223_040845	Sage Female 1
+ETC_20190223_040846	Utilizar Loja da Asas de Vaivora
+ETC_20190223_040847	[PP] Red Vampire Costume
+ETC_20190223_040848	[PP] Red Winter Night Costume
+ETC_20190223_040849	Salvador Novato/Retornando
+ETC_20190223_040850	Recompensas Diárias de Fevereiro
+ETC_20190223_040851	Recompensas Diárias de Março
+ETC_20190223_040852	Irredian Shelter PC Session
+ETC_20190223_040853	Aumenta o ataque elemental em proporção ao valor equipavente à resistência do elemento{nl}- Elementos afetados: Fogo, Gelo, Raio, Terra, Trevas, Divino e Psíquico{nl}- Máximo 300 por elemento
+ETC_20190223_040854	Resistência contra ataques dos elementos Fogo, Gelo, Terra, Raio, Trevas, Divino e Psíquico {img green_up_arrow 16 16}150
+ETC_20190223_040855	Aumenta o Dano Adicional: Divino, para cada ataque, em um valor igual ao da sua resistência elemental.{nl}- Elementos: Fogo, Gelo, Raio, Terra, Veneno, Trevas, Divino e Psíquico (aumento máximo 1.500){nl} {nl}Efeito de Dragon Strength Nv 2{nl}Dano Adicional: Divino aumenta em 8% da sua Defesa Mágica (aumento máximo 4.000).
+ETC_20190223_040856	Conjunto Abyss Irredian
+ETC_20190223_040857	5% de chance de ativar [Abyss - Fúria] ao ser atacado.{nl} {nl}[Abyss - Fúria]{nl}Aumenta a Taxa de Crítico em 10% por 5 segundos (aumento máximo de 200)
+ETC_20190223_040858	Conjunto Cevisa Irredian
+ETC_20190223_040859	3% de chance de ativar [Cevisa - Proteção] ao atacar.{nl} {nl}[Cevisa - Proteção]{nl}Dano recebido {img green_down_arrow 16 16}10%{nl}Velocidade de Movimento {img green_up_arrow 16 16}5{nl}(Duração: 10 segundos)		
+ETC_20190223_040860	Recipe - Abyss Irredian Necklace
+ETC_20190223_040861	Recipe - Abyss Irredian Bracelet
+ETC_20190223_040862	Recipe - Cevisa Irredian Necklace
+ETC_20190223_040863	Recipe - Cevisa Irredian Bracelet
+ETC_20190223_040864	Você pode pressionar X para pular. Pular consome Stamina.
+ETC_20190223_040865	Você pode avançar para outra classe quando alcançar Nível de Classe 15. Do primeiro avanço em diante, você precisará alcançar o Nível de Classe 45 para avançar mais uma vez.
+ETC_20190223_040866	Personagens da classe Sorcerer precisam de uma Carta de Monstro da raça Demônio para utilizar a habilidade [Summoning].
+ETC_20190223_040867	Pontos de Atributo recebidos através das Estátuas da Deusa e de missões podem ser alocados livremente, pressionando o botão [+]. Você pode adicionar 10 pontos de uma só vez clicando com o botão direito do mouse no botão [+].
+ETC_20190223_040868	Pardoners podem criar lojas para vender seus Buffs.
+ETC_20190223_040869	Você pode utilizar a Warp Stone para retornar ao início do mapa. A Warp Stone pode ser usada novamente a cada 15 minutos.
+ETC_20190223_040870	Personagens de nível 40 ou mais podem começar uma Guilda.
+ETC_20190223_040871	Utilizar um Silver Anvil para refinar um equipamento não consumirá Silver.
+ETC_20190223_040872	Classes Secretas podem ser liberadas a qualquer momento, desde que se complete a missão delas. Mas os jogadores só poderão avançar para uma dessas classes a partir do segundo avanço.
+ETC_20190223_040873	Acampamento / Depósito Pessoal
+ETC_20190223_040874	Ativar Buff do Acampamento
+ETC_20190223_040875	Desmanchar Itens
+ETC_20190223_040876	Sucesso no refino {#8e0000}consumirá{/} os selos usados como material, enquanto falha {#8e0000}consumirá{/} tanto o selo principal quanto os usados como material.
+ETC_20190223_040877	Somente itens que tiveram sua aparência alterada podem ser selecionados.
+ETC_20190223_040878	Accessory Selection Box
+ETC_20190223_040879	Função temporariamente indisponível
+ETC_20190223_040880	Número Alvo: {COUNT}
+ETC_20190223_040881	{#0054FF}[{NUM2}]{/} pontos serão adicionados porque você já possui [{NUM1}] pontos.{nl}Utilizar o item?
+ETC_20190223_040882	{@st64}Você obteve Skill Reset Potion, Attribute Reset Potion{nl}e Class Points{nl}Bottom menu 
+ETC_20190223_040883	{@st64}Você obteve Skill Reset Potion e Attribute Reset potion.
+ETC_20190223_040884	Porquinhos Dourados encontrados: {POINT}
+ETC_20190223_040885	Encontre o Porquinho Dourado - Recompensas: {COUNT}
+ETC_20190223_040886	Você permaneceu inativo por mais de 100 segundos! Você não irá receber as recompensas!
+ETC_20190223_040887	Melhores Jogadores:{nl}Parabéns, {TEAM}!
+ETC_20190223_040888	Resolução de Ano Novo: Completou {COUNT} vezes
+ETC_20190223_040889	Completou Estágio 5 ou mais em um Modo Desafio {#003399}{COUNT}{/} vezes
+ETC_20190223_040890	Completou Dungeon básica {#003399}{COUNT}{/} vezes
+ETC_20190223_040891	Completou Unique Raid {#003399}{COUNT}{/} vezes
+ETC_20190223_040892	Completou Saalus Convent {#003399}{COUNT}{/} vezes
+ETC_20190223_040893	Resolução de Ano Novo feita por {COUNT} dias!{nl}*{nl}
+ETC_20190223_040894	{nl}*{nl}Última tentativa de desafio: {YEAR}/{MONTH}/{DAY}
+ETC_20190223_040895	Você ainda não completou a sua resolução.
+ETC_20190223_040896	Evento Resolução de Ano Novo: 
+ETC_20190223_040897	foi escolhido.{nl}{#003399}Mantenha a sua Resolução de Ano Novo nos próximos 3 dias{/}e volte para pegar sua recompensa.{nl}
+ETC_20190223_040898	{#003399}Mantenha a sua Resolução de Ano Novo nos próximos 3 dias{/}e volte para pegar sua recompensa.
+ETC_20190223_040899	foi selecionado.{nl}
+ETC_20190223_040900	{#FF0000}Você manteve sua resolução por hoje.{/}Tente novamente amanhã!
+ETC_20190223_040901	{nl}Porquinhos Dourados que você encontrou: {POINT} / 
+ETC_20190223_040902	Loja da Asas de Vaivora
+ETC_20190223_040903	Receber Pontos de Classe
+ETC_20190223_040904	{#0054FF}[{NUM2}]{/} pontos serão adicionados porque você já possui [{NUM1}] pontos.{nl}Usar este item?
+ETC_20190223_040905	Receber
+ETC_20190223_040906	Não receber
+ETC_20190223_040907	Portal que leva para Segregated Quarters está aberto.{nl}Permanecerá aberto pelos próximos dois minutos.
+ETC_20190223_040908	Portal que leva para Construction Quarters está aberto.{nl}Permanecerá aberto pelos próximos dois minutos.
+ETC_20190223_040909	Quantidade de entradas restantes nesta semana: {COUNT}.{nl}Uma entrada será utilizada.{nl}Deseja entrar?
+ETC_20190223_040910	Você retornará para o local anterior.
+ETC_20190223_040911	Você não possui mais entradas esta semana.{nl}Tente novamente semana que vem.
+ETC_20190223_040912	O Mestre retornou!
+ETC_20190223_040913	Todos os guardiões, saúdem o Mestre!
+ETC_20190223_040914	Seus patetas preguiçosos!
+ETC_20190223_040915	Portal para a Guardian's Antechambers está aberto.{nl}Permanecerá aberto pelos próximos 30 minutos.
+ETC_20190223_040916	{@st42}{s16}Comparecimento
+ETC_20190223_040917	Vou participar.
+ETC_20190223_040918	Obrigado pela cooperação. Por favor, tenha cuidado.
+ETC_20190223_040919	O Chefe de Raid irá aparecer no Hangout da Guilda.
+ETC_20190223_040920	O Chefe de Raid apareceu no hangout da Guilda.
+ETC_20190223_040921	Seus pontos de contribuição da Raid de Hangout da Guilda são
+ETC_20190223_040922	e seu grau de contribuição é
+ETC_20190223_040923	.
+ETC_20190223_040924	Verificar grau de contribuição
+ETC_20190223_040925	A Raid em aberto foi interrompida por causa do período de reinício.
+ETC_20190223_040926	Monstro Chefe foi Derrotado!
+ETC_20190223_040927	Você não participou de uma Raid de Hangout da Guilda ou não causou dano no Chefe.
+ETC_20190223_040928	Você não pode voltar para o Guild Hall porque está participando em uma Raid de Hangout da Guilda.
+ETC_20190223_040929	Não pode ser usado em locais de Territory War.
+ETC_20190223_040930	Não pode ser usado em Sulivinas Lair.
+ETC_20190223_040931	Não pode ser usado dentro de dungeons.
+ETC_20190223_040932	Tem certeza que quer descartar {#fe7e00}[{COUNT}]{/} {#fe7e00}[{ITEM}]{/}?
+ETC_20190223_040933	Tem certeza que deseja descartar {#fe7e00}[{ITEM}]{/}?
+ETC_20190223_040934	Código de confirmação inválido.
+ETC_20190223_040935	Se quiser descartar {#fe7e00}[{COUNT}]{/} {#fe7e00}[{ITEM}]{/}s, digite [0000] na janela.
+ETC_20190223_040936	Se quiser descartar {#fe7e00}[{ITEM}]{/}, digite [0000] na janela.
+ETC_20190223_040937	Info de Invocação de Membro do Grupo
+ETC_20190223_040938	{HOUR}h {MINf}m até {HOUR}h {MINf2}m{nl}{HOUR}h {MINs}m até {HOUR}h {MINs2}m
+ETC_20190223_040939	Recompensas de participação não estão disponíveis no momento.
+ETC_20190223_040940	Inelegível para a recompensa de participação.
+ETC_20190223_040941	Você não atingiu {point} ou mais pontos durante a última sessão GTW.
+ETC_20190223_040942	{cnt} Membros da Guilda participaram na última sessão GTW.{nl}Pode receber um buff de EXP de Nível {buffLevel}.
+ETC_20190223_040943	Buffs Restantes
+ETC_20190223_040944	x{remainCnt}
+ETC_20190223_040945	Receber Recompensa de Participação
+ETC_20190223_040946	Buff de Nível {buffLevel} recebido.
+ETC_20190223_040947	O seu personagem já está sob efeito de um buff.
+ETC_20190223_040948	Não restaram buffs para receber.
+ETC_20190223_040949	Você atingiu 10 ou mais pontos durante GTW.{nl}Receba as recompensas com o Mercador de Expedição após a sessão.
+ETC_20190223_040950	Portal para Checkpoint
+ETC_20190223_040951	1. Derrote todos os inimigos.{nl}2. Destrua os 5 dispositivos.
+ETC_20190223_040952	Você destruiu todos os dispositivos!{nl}Derrote os inimigos restantes!
+ETC_20190223_040953	Você derrotou todos os inimigos!{nl}Destrua os dispositivos restantes!
+ETC_20190223_040954	Uma fenda dimensional acabou de abrir!{nl}Um demônio poderoso aparecerá em breve.
+ETC_20190223_040955	Um demônio apareceu através da fenda dimensional!{nl}Derrote o demônio que invadiu o Hangout da Guilda!
+ETC_20190223_040956	Um monstro Chefe aparecerá em breve.
+ETC_20190223_040957	Derrote a Madon Maiden
+ETC_20190223_040958	Madon Maiden apareceu.
+ETC_20190223_040959	Madon Maiden foi derrotada!
+ETC_20190223_040960	Não conseguiu derrotar a Madon Maiden.{nl}Você retornará para o local anterior.
+ETC_20190223_040961	Derrote o Amiss Dog
+ETC_20190223_040962	Amiss Dog apareceu.
+ETC_20190223_040963	Amiss Dog foi derrotado!
+ETC_20190223_040964	Não conseguiu derrotar o Amiss Dog.{nl}Você retornará para o local anterior.
+ETC_20190223_040965	Encontre os Porquinhos Dourados em Orsha!
+ETC_20190223_040966	Você só poderá enfrentar o monsro Chefe utilizando os monstros que você capturou.{nl}Seu personagem não poderá utilizar ataques nem habilidades.
+ETC_20190223_040967	Clique com o botão direito no Orbe Azul para invocar seus monstros!
+ETC_20190223_040968	Um membro do grupo pode escolher o nível do monstro Chefe{nl}para invocar, interagindo com o círculo mágico.
+ETC_20190228_040969	Um pacote premium especial. Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Wake Up Growth Package x1{nl}- Wake Up Enhancement Package x1{nl}- Widnium Fragment x3{nl}- Recipe - HP Potion (7 Dias) x1{nl}- Recipe - SP Potion (7 Dias) x1
+ETC_20190228_040970	2019 Leticia's Treasure Chest (Season 2)
+ETC_20190228_040971	Um baú repleto dos itens mais preciosos da Leticia. Use para obter os seguintes itens:{nl} - Shining 9-Star Gem Abrasive x1{nl} - Token Box (x10) x1
+ETC_20190228_040972	Best Man Costume (30 Dias)
+ETC_20190228_040973	Bridesmaid Costume (30 Dias)
+ETC_20190228_040974	{PC} usou 
+ETC_20190228_040975	Card Album: Black
+ETC_20190228_040976	 para invocar {BossName}!
+ETC_20190228_040977	Card Album: Ominous
+ETC_20190305_040978	* Recompensas diárias são entregues automaticamente uma vez por dia, para o personagem que conectar primeiro.
+ETC_20190305_040979	* Recompensas diárias só podem ser recebidas durante o período de comparecimento.			
+ETC_20190305_040980	* Pode variar entre jogadores novatos/retornando de acordo com o dia que iniciou ou retornou para o jogo.
+ETC_20190305_040981	{@st41}{#FF6700}Ajudante do Evento Diário{/}{/}
+ETC_20190305_040982	Mudar para Info de Grupo (`)
+ETC_20190305_040983	Mudar para Info de Invocação (`)
+ETC_20190309_040984	Loja do Gemstone Feud
+ETC_20190309_040985	Entrada permitida somente durante os seguintes horários:{nl}{HOUR}h {MINf}m até {HOUR}h {MINf2}m{nl}{HOUR}h {MINs}m até {HOUR}h {MINs2}m
+ETC_20190309_040986	Entrada do Gemstone Feud

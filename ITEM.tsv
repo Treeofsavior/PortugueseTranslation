@@ -2565,8 +2565,8 @@ ITEM_20150317_002564	Obtained from Sakmolis.
 ITEM_20150317_002565	Shardstatue Claw
 ITEM_20150317_002566	Resin
 ITEM_20150317_002567	A viscous, sticky liquid found inside trees.
-ITEM_20150317_002568	Shnayim Fragment
-ITEM_20150317_002569	It looks like a plain rock. {nl}Obtained from Shnayims.
+ITEM_20150317_002568	Shtayim Fragment	쉬타임 파편				
+ITEM_20150317_002569	It looks like a plain rock. {nl}Obtained from Shtayims.	단순한 돌덩이로 보일 수도 있습니다. 쉬타임에게서 획득합니다.				
 ITEM_20150317_002570	Stoulet Heart
 ITEM_20150317_002571	Obtained from Stoulets.
 ITEM_20150317_002572	Corpse Hand
@@ -4088,7 +4088,7 @@ ITEM_20150323_004087	Leaves of the Sweet Herb. Useful when eaten with bitter med
 ITEM_20150323_004088	Nutritious Tonic
 ITEM_20150323_004089	A nutritious tonic made by diluting the Baron's concentrate with Scorpio venom.
 ITEM_20150323_004090	Brand New Rice Cake
-ITEM_20150323_004091	A rice cake from Malus.
+ITEM_20150323_004091	A rice cake from Marius.
 ITEM_20150323_004092	Spoiled Rice Cake
 ITEM_20150323_004093	Pieces of a spoiled rice cake.
 ITEM_20150323_004094	Fresh Rice Cake
@@ -6981,7 +6981,7 @@ ITEM_20151001_006980	Lv4 Gem Abrasive
 ITEM_20151001_006981	Lv5 Gem Abrasive
 ITEM_20151001_006982	Guerra Civil de Roxona, Capítulo 1
 ITEM_20151001_006983	O primeiro livro escrito sobre a Guerra Civil de Roxona.
-ITEM_20151001_006984	Guerar Civil de Roxona, Capítulo 2
+ITEM_20151001_006984	Guerra Civil de Roxona, Capítulo 2
 ITEM_20151001_006985	O segundo livro escrito sobre a Guerra Civil de Roxona.
 ITEM_20151001_006986	A record of the Ruklys Era. It's hardly readable.
 ITEM_20151001_006987	Scroll of Silence
@@ -9598,16 +9598,16 @@ ITEM_20151224_009596	Sticky Plant Sap
 ITEM_20151224_009597	A material required for restoring Orsha's city wall. {nl}Obtained from Plant-type monsters.
 ITEM_20151224_009598	Sturdy Research Stone
 ITEM_20151224_009599	A very sturdy stone. It's unknown whether it has any real use.
-ITEM_20151224_009600	Spell Detector Orb
+ITEM_20151224_009600	Orbe Detector de Feitiços
 ITEM_20151224_009601	An orb that can detect the flow of spells. Who could have made such a thing?
 ITEM_20151224_009602	A flask for collecting spiritual energy. It feels a bit creepy.
-ITEM_20151224_009603	Delmore Outskirts Gun Powder
+ITEM_20151224_009603	Pólvora de Delmore Outskirts
 ITEM_20151224_009604	Gun powder made in the outskirts of Delmore, requested by the Sapper Submaster. Where could the civilians have gone?
-ITEM_20151224_009605	Wugushi Poison Bottle
+ITEM_20151224_009605	Garrafa de Veneno Wugushi
 ITEM_20151224_009606	A bottle that can carry poison extracted from corpses. Uhm... What?
 ITEM_20151224_009607	A jar that can capture poisonous monsters.
 ITEM_20151224_009608	A record book used by Scouts for reconnaissance missions. Obvious eraser marks can be seen.
-ITEM_20151224_009609	Archer's Test Orb
+ITEM_20151224_009609	Orbe do Teste de Archer
 ITEM_20151224_009610	An orb used to check up on the progress of the Archer's test.
 ITEM_20151224_009611	Evil Spirit Awakening Scroll
 ITEM_20151224_009612	A scroll infused with magic, of which reveals hidden evil spirits.
@@ -20081,7 +20081,7 @@ ITEM_20190104_020066	A hood worn by the followers of Giltine to conceal their id
 ITEM_20190104_020067	Giltine Follower Hood (M)	길티네 추종자의 두건(남)				
 ITEM_20190104_020068	Giltine's Hood	길티네의 두건				
 ITEM_20190104_020069	A hood worn by the followers of Giltine when recruiting others to their cause.{nl}The cute aspect of the hood is said to reduce hostility from potential recruits.{nl}Can be exchanged for medals at the Exchange Shop.{nl}Hair dyes do not apply.	길티네의 추종자들이 새로운 추종자를 모집하기 위한 포교 활동을 할 때 착용하는 헬멧 코스튬입니다.{nl}귀여운 모습으로 위화감을 최소화하기 위해서라고 합니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.{nl}염색약의 색상이 적용되지 않습니다.				
-ITEM_20190104_020070	 - All Quarrel Shooter skill levels {img green_up_arrow 16 16} 2{nl}- Additional non-property attack of 3,000 damage	 - 쿼렐슈터 모든 스킬 레벨 {img green_up_arrow 16 16} 2{nl}  - 대미지 3,000의 무속성 추가 공격				
+ITEM_20190104_020070	 - All Quarrel Shooter skill levels {img green_up_arrow 16 16}2{nl}  - Additional non-property attack of 3,000 damage	 - 쿼렐슈터 모든 스킬 레벨 {img green_up_arrow 16 16} 2{nl}  - 대미지 3,000의 무속성 추가 공격				
 ITEM_20190104_020071	Training Kris Dagger	연습용 크리스 대거				
 ITEM_20190104_020072	Stiletto	스틸레토				
 ITEM_20190104_020073	Blue Stiletto	블루 스틸레토				
@@ -21443,7 +21443,7 @@ ITEM_20190216_021427	Autumn Shade Hanbok Costume (Female)	가을빛 한복 코�
 ITEM_20190216_021428	Spring Shade Hanbok Costume (Male)	봄빛 한복 코스튬 (남)				
 ITEM_20190216_021429	A Hanbok costume inspired by the Spring season. Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.	봄빛 한복 코스튬입니다. 착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
 ITEM_20190216_021430	Spring Shade Hanbok Costume (Female)	봄빛 한복 코스튬 (여)				
-ITEM_20190216_021431	King Hanbok Costume	상감 코스튬				
+ITEM_20190216_021431	Royal Hanbok Costume	상감 코스튬				
 ITEM_20190216_021432	The garment worn by the royal family of the east. Use to change your appearance.{nl}Can be exchanged for medals at the Recycle Shop.	낯선이를 환영하는 깨우친 상감이 입었다던 코스튬입니다. 착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
 ITEM_20190216_021433	Striped Hanbok Costume	색동 코스튬				
 ITEM_20190216_021434	They say that this is the costume worn by the people in the distant lands to the far east.{nl}Use to change your appearance.{nl}Can be exchanged for medals at the Recycle Shop.	동방의 해가 떠오르는 곳에서는 햇빛의 결을 담은 옷을 입었다고 합니다. 착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
@@ -21472,7 +21472,7 @@ ITEM_20190216_021456	[Wake Up] Pistol	[까치까치 설날] 피스톨
 ITEM_20190216_021457	[Wake Up] Musket	[까치까치 설날] 머스킷				
 ITEM_20190216_021458	[Wake Up] Two-handed Mace	[까치까치 설날] 투 핸드 메이스				
 ITEM_20190216_021459	Floral Decoration	꽃 무늬 단청				
-ITEM_20190216_021460	Adds traditional floral effects at the user's feet.{nl}Can be exchanged for medals at the Exchange Shop.	착용자의 발 밑에서 전통의 멋을 느낄 수 있는 단청 문양이 나타납니다.{nl}리사이클샵에서 메달로 교환 가능합니다.				
+ITEM_20190216_021460	Adds traditional floral effects at your feet every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	착용자의 발 밑에서 전통의 멋을 느낄 수 있는 단청 문양이 나타납니다.{nl}리사이클샵에서 메달로 교환 가능합니다.				
 ITEM_20190216_021461	Sweet Explosion	달콤함이 팡팡				
 ITEM_20190216_021462	Splashes candies and chocolates every time you jump.{nl}Can be exchanged for medals at the Exchange Shop.	뛸 때마다 달콤한 초콜릿과 사탕이 팡팡 튀어나오는 이펙트를 만들어냅니다.{nl}리사이클샵에서 메달로 교환 가능합니다.				
 ITEM_20190216_021463	Unique Support Weapon Box	유니크 성장 무기 상자				
@@ -21490,7 +21490,7 @@ ITEM_20190216_021474	Irredian Brooch	이레디안 브로치
 ITEM_20190216_021475	Irredian Crystal Fragment	이레디안 수정 조각				
 ITEM_20190216_021476	Wings of Vaivora Coin	바이보라의 날개 주화				
 ITEM_20190216_021477	You can use the item to exchange for useful items at the Klaipeda's Wings of Vaivora NPC.	클라페다 [바이보라 날개] 레나를 찾아가면 유용한 아이템으로 교환 가능합니다.				
-ITEM_20190216_021478	Widnium  Fragment	위드니움 조각				
+ITEM_20190216_021478	Widnium Fragment	위드니움 조각				
 ITEM_20190216_021479	A rare ore that the Kedora Merchant Alliance has imported from distant lands.{nl}It is rumored that this ore longs to return to its place of origin no matter where it has ended up.{nl}It is said that Teliavelis of Fedimian is looking for these ores to study them.{nl}Deliver the ore to Teliavelis and he will exchange it for a single 	최근 머나먼 어딘가에서 케도라 상단을 통해 들어왔다고 전해지는 희귀한 광물입니다.{nl}이 광물은 누군가가 소지하고 있어도 자신이 본래에 있던 곳으로 돌아가려고 한다는 소문이 있습니다.{nl}페디미안의 테리아베리스 또한 소문을 듣고 연구를 위해 이 광석을 애타게 찾고 있다고 합니다.{nl}이 광석을 테리아베리스에게 전해주면 				
 ITEM_20190216_021480	Diamond Anvil (14 Days)	다이아몬드 모루 (14일)				
 ITEM_20190216_021481	 .{nl}Will be automatically deleted at the end of the event period.	 1개로 교환해줍니다.{nl}이 아이템은 2월 21일 점검 시, 일괄 삭제됩니다.				
@@ -21498,4 +21498,118 @@ ITEM_20190216_021482	Shining Monster Card Album: Ominous	빛나는 몬스터 카
 ITEM_20190216_021483	A dark and sinister card album radiating with ominous aura. You are advised to read it in a quiet, secluded place.{nl}Can be used from level 300 and up.{nl}Use to summon a level 330 high-rank boss monster.{nl}}Can only be used in fields.	기분나쁘고 사악한 기운이 손을 대지 않아도 느껴지는 카드첩입니다. 조용하고 한적한 곳에서 읽어보시길 추천합니다.{nl}300레벨 이상 사용가능{nl}사용시 LV330 상급 필드 보스 몬스터 중 1종이 소환됩니다. {nl}필드에서만 사용할 수 있습니다.				
 ITEM_20190219_021484	[PP] Winter Night Red Costume Selection Box	[PC방] 붉은 겨울밤 코스튬 선택 상자				
 ITEM_20190219_021485	Right-click to use and select one of the following: Winter Night Red Costume (F) / Winter Night Red Costume (M)	마우스 우클릭으로 사용 할 수 있습니다. 사용시 붉은 겨울밤 코스튬(남) / 붉은 겨울밤 코스튬(여) 중 1개를 획득 할 수 있습니다.				
-ITEM_20190227_021486	Class Change Voucher Lv 1 (14 Dias)
+ITEM_20190223_021486	Abyss Irredian Necklace
+ITEM_20190223_021487	Um temível colar feito com uma gema vermelha e o dente de uma fera selvagem.
+ITEM_20190223_021488	Cevisa Irredian Necklace
+ITEM_20190223_021489	Dizem que este item possui grande poder, liberado no momento mais necessário.
+ITEM_20190223_021490	Abyss Irredian Bracelet
+ITEM_20190223_021491	Ninguém sabe como esse bracelete veio a ter seu brilho avermelhado.		
+ITEM_20190223_021492	Cevisa Irredian Bracelet
+ITEM_20190223_021493	Um bracelete feito para salvar seu usuário em momentos de vulnerabilidade.			
+ITEM_20190223_021494	Irredian Seal - Swordsman
+ITEM_20190223_021495	Um selo obtido em Irredian Shelter. Possui um símbolo estranho gravado.
+ITEM_20190223_021496	Irredian Seal - Wizard
+ITEM_20190223_021497	Irredian Seal - Cleric
+ITEM_20190223_021498	Irredian Seal - Archer
+ITEM_20190223_021499	Irredian Seal - Scout
+ITEM_20190223_021500	[Evento] Masinios Sword
+ITEM_20190223_021501	Não pode ser refinado, transcendido ou usado para extrair Ichor.
+ITEM_20190223_021502	[Evento] Masinios Two-handed Sword
+ITEM_20190223_021503	[Evento] Masinios Rod
+ITEM_20190223_021504	[Evento] Masinios Bow
+ITEM_20190223_021505	[Evento] Masinios Crossbow
+ITEM_20190223_021506	[Evento] Masinios Mace
+ITEM_20190223_021507	[Evento] Masinios Two-handed Mace
+ITEM_20190223_021508	[Evento] Masinios Shield
+ITEM_20190223_021509	[Evento] Masinios Spear
+ITEM_20190223_021510	[Evento] Masinios Pike
+ITEM_20190223_021511	[Evento] Masinios Dagger
+ITEM_20190223_021512	[Evento] Masinios Staff
+ITEM_20190223_021513	[Evento] Masinios Pistol
+ITEM_20190223_021514	[Evento] Masinios Rapier
+ITEM_20190223_021515	[Evento] Masinios Cannon
+ITEM_20190223_021516	[Evento] Masinios Musket
+ITEM_20190223_021517	Corpse Parts Urn
+ITEM_20190223_021518	Aumenta o ganho de EXP, Velocidade de Movimento e HP Máximo de acordo com o número de acúmulos, por 30 minutos. Máximo de 5 acúmulos. Será automaticamente removido ao final do período do evento.
+ITEM_20190223_021519	Fantasy Library: Sausis Room 9 Accessory Selection Box
+ITEM_20190223_021520	Use para obter um dos seguintes acessórios:{nl} {nl}- Nepagristas Bracelet{nl}- Nematomas Necklace{nl}- Rangovas Necklace{nl}- Nepagristas Bracelet{nl}- Nematomas Bracelet{nl}- Rangovas Bracelet
+ITEM_20190223_021521	New/Returning Savior Welcome Box
+ITEM_20190223_021522	Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Warp Scroll 10x Box{nl}- Goddess Sculpture (14 Dias) x3{nl}- Miracle Seeds (14 Dias) x3
+ITEM_20190223_021523	New/Returning Savior Support Box
+ITEM_20190223_021524	Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Raid Portal Stone x5{nl}- Challenge Portal Scroll (14 Dias) x5{nl}- Megaphone 50x Box{nl}[Evento] Masinios Weapon Selection Box
+ITEM_20190223_021525	11 ENH 5 TRA Masinios Weapon Selection Box
+ITEM_20190223_021526	Use para obter uma arma Masinios +11 Estágio 5 da sua escolha.
+ITEM_20190223_021527	[Evento] Batata Doce
+ITEM_20190223_021528	Uma deliciosa e nutritiva batata doce.{nl}Recupera 2205 HP, 735 SP e gradualmente recupera 2205 HP e 735 SP a cada 2 segundos, durante 15 segundos. Clique com o botão direito do mouse para usar. Cooldown 45 segundos.{nl}Será removido no final do período do evento.
+ITEM_20190223_021529	Uma coleção pronta para ser completada com itens. Clique com o botão direito para registrar.
+ITEM_20190223_021530	Uma coleção de 5 colares. Cada um é referente a um pecado, presente no caminho de peregrinação. Feitos por Maven, o fundador da Great Cathedral. Clique com o botão direito para registrar.
+ITEM_20190223_021531	Uma coleção do conflito entre demônios e Deusas na Revelação de Laima.{nl}Clique com o botão direito para registrar.
+ITEM_20190223_021532	Uma coleção de um dos segredos mundiais da Revelação de Laima.{nl}Clique com o botão direito para registrar.
+ITEM_20190223_021533	[Recompensa] Boruta Seal - Swordsman Box
+ITEM_20190223_021534	Use para obter Boruta Seal - Swordsman.
+ITEM_20190223_021535	[Recompensa] Boruta Seal - Wizard Box
+ITEM_20190223_021536	Use para obter Boruta Seal - Wizard.
+ITEM_20190223_021537	[Recompensa] Boruta Seal - Cleric Box
+ITEM_20190223_021538	Use para obter Boruta Seal - Cleric.
+ITEM_20190223_021539	[Recompensa] Boruta Seal - Archer Box
+ITEM_20190223_021540	Use para obter Boruta Seal - Archer.
+ITEM_20190223_021541	[Recompensa] Boruta Seal - Scout Box
+ITEM_20190223_021542	Use para obter Boruta Seal - Scout.
+ITEM_20190223_021543	[Recompensa] Irredian Seal - Swordsman Box
+ITEM_20190223_021544	Use para obter Irredian Seal - Swordsman.
+ITEM_20190223_021545	[Recompensa] Irredian Seal - Swordsman Box
+ITEM_20190223_021546	UUse para obter Irredian Seal - Swordsman.
+ITEM_20190223_021547	[Recompensa] Irredian Seal - Cleric Box
+ITEM_20190223_021548	Use para obter Irredian Seal - Cleric.
+ITEM_20190223_021549	[Recompensa] Irredian Seal - Archer Box
+ITEM_20190223_021550	Use para obter Irredian Seal - Archer.
+ITEM_20190223_021551	[Recompensa] Irredian Seal - Scout Box
+ITEM_20190223_021552	Use para obter Irredian Seal - Scout.
+ITEM_20190223_021553	(Old) Underground Chapel Dungeon Cube
+ITEM_20190223_021554	(Old) Historic Site Ruins Dungeon Cube
+ITEM_20190223_021555	(Old) Monument of Desire Dungeon Cube
+ITEM_20190223_021556	(Old) Underground castle Dungeon Cube
+ITEM_20190223_021557	(Old) Lanko Lake Dungeon Cube
+ITEM_20190223_021558	Irredian Cube
+ITEM_20190223_021559	Historic Ruins Site Cube
+ITEM_20190223_021560	Aumenta a Transcendência de um item até o Estágio 5.{nl}Só pode ser usado em itens com Transcendência entre 0 e 4. Clique com o botão direito no pergaminho, depois escolha o item para transcender.{nl}Será removido automaticamente no final do período do evento.
+ITEM_20190223_021561	Clique com o botão direito para usar.{nl}Aumenta o Ataque Físico e Mágico em +100 por 1 hora.{nl}Será removido no final do período do evento.
+ITEM_20190223_021562	 durante a missão do evento.{nl}Será removido quando no final do período do evento.
+ITEM_20190223_021563	Instala uma armadilha de monstro quando utilizado.{nl}Será removido no final do período do evento.
+ITEM_20190223_021564	Item de evento.{nl}Pode ser usado para aumentar o nível de monstros capturados.{nl}Será removido no final do período do evento.
+ITEM_20190223_021565	Use para obter uma recompensa aleatória.{nl}Será removido no final do período do evento.
+ITEM_20190223_021566	Item de evento.{nl}Pode ser trocado por itens úteis.{nl}Será removido no final do período do evento.
+ITEM_20190223_021567	Item necessário para uma missão especial experimental.{nl}Pode ser obtido de um Quadro de Eventos uma vez por dia.{nl}Será removido no final do período do evento.
+ITEM_20190223_021568	Use para obter uma armadura Primus Nv 350 aleatória.{nl}Será removido no final do período do evento.
+ITEM_20190223_021569	Use para obter uma arma principal/secundária Primus Nv 350 aleatória.{nl}Será removido no final do período do evento.
+ITEM_20190223_021570	Ao usar uma vez, aumenta a EXP ganha em 10%, HP Máximo +500, recupera 100 de HP e 50 de SP a cada 10 segundos, durante 30 minutos. Pode ser acumulado até 5 de uma vez. Será removido no final do período do evento.
+ITEM_20190223_021571	Use para escolher uma receita da lista.{nl}Será removido no final do perído do evento.
+ITEM_20190223_021572	[Evento] Class Change Voucher Lv. 3
+ITEM_20190223_021573	Aumenta os Pontos de Troca de Classe em +1.000.{nl}Pontos de Troca de Classe podem ser acumulados até 3.000 e pontos que sobrarem não serão salvos.{nl}Será removido no final do período do evento.
+ITEM_20190223_021574	[Evento] Three Day Trial Box
+ITEM_20190223_021575	Uma caixa de recompensa, obtida no evento Three Day Trial. Use para obter a sua recompensa.{nl}Será removido no final do período do evento.
+ITEM_20190223_021576	[Evento] Golden Pig Box
+ITEM_20190223_021577	Uma caixa de recompensa, obtida no evento 'Encontre o Porquinho Dourado'. Use para obter a sua recompensa.{nl}Será removido no final do período do evento.
+ITEM_20190223_021578	Class Change Voucher Lv. 1 (14 Dias)
+ITEM_20190223_021579	Título - TOS 4-Time Researcher
+ITEM_20190223_021580	Título dado aos participantes do 4-time TOS Researcher
+ITEM_20190223_021581	[Evento] Class Change Voucher Lv. 2 (14 Dias)
+ITEM_20190223_021582	[Evento] New Year Lucky Bag
+ITEM_20190223_021583	Um presente especial do Ano Novo Lunar.{nl}Abra para descobrir o que tem dentro.{nl}Será removido no final do período do evento.
+ITEM_20190223_021584	[Evento] Penguin Selection Box
+ITEM_20190223_021585	Use para escolher um Mascote Pinguim.
+ITEM_20190223_021586	[Evento] Rare Enchant Jewel
+ITEM_20190223_021587	[Evento] Unique Enchant Jewel
+ITEM_20190223_021588	[Evento] Legend Enchant Jewel
+ITEM_20190228_021589	Use para ir até um determinado local.{nl}Você será direcionado para o local da Divine Flag.{nl}Não pode ser usado dentro dos locais de destino.
+ITEM_20190228_021590	Use para ir até um determinado local.{nl}Você será direcionado para o local da Divine Flag.{nl}Não pode ser usado dentro dos locais de destino.
+ITEM_20190309_021591	Boruta Seal - Swordsman Box
+ITEM_20190309_021592	Use para obter Boruta Seal - Swordsman.
+ITEM_20190309_021593	Boruta Seal - Wizard Box
+ITEM_20190309_021594	Use para obter Boruta Seal - Wizard.
+ITEM_20190309_021595	Boruta Seal - Cleric Box
+ITEM_20190309_021596	Use para obter Boruta Seal - Cleric.
+ITEM_20190309_021597	Boruta Seal - Archer Box
+ITEM_20190309_021598	Use para obter Boruta Seal - Archer.
+ITEM_20190309_021599	Boruta Seal - Scout Box
+ITEM_20190309_021600	Use para obter Boruta Seal - Scout.
