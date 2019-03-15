@@ -3502,8 +3502,8 @@ ETC_20150317_003501	Treating
 ETC_20150317_003502	Treated Patient!
 ETC_20150317_003503	Treated Soldier
 ETC_20150317_003504	Obtained the supplies box
-ETC_20150317_003505	Acquired relief supplies
-ETC_20150317_003506	Acquired a stone for wall reinforcement
+ETC_20150317_003505	Obteve os mantimentos
+ETC_20150317_003506	Obteve pedra para reforçar a parede
 ETC_20150317_003507	Spreading
 ETC_20150317_003508	Looks like we're going to have to go back quickly
 ETC_20150317_003509	The town seems safer than here
@@ -3647,7 +3647,7 @@ ETC_20150317_003646	Found treasure chest
 ETC_20150317_003647	Results: Same type recognition confirmed!
 ETC_20150317_003648	The pot will be destroyed if you move further away from it!
 ETC_20150317_003649	Move between camps : Activate Klaipeda
-ETC_20150317_003650	Obtained anvil for equipment enhancement
+ETC_20150317_003650	Anvil obtido para refinar equipamento
 ETC_20150317_003651	obj of killed monster is not found
 ETC_20150317_003652	Use key to absorbed magic circle scroll {nl} then kill monster on top of the magic circle to charge crystal
 ETC_20150317_003653	You have enough headstone pieces to read the contents. Put the pieces together.
@@ -5177,7 +5177,7 @@ ETC_20150317_005176	Patient
 ETC_20150317_005177	Trigger to kill soldiers
 ETC_20150317_005178	Derrote Yonazolem and obtain the faintly burning stone!
 ETC_20150317_005179	Let the fight begin!
-ETC_20150317_005180	Mine Manager
+ETC_20150317_005180	Gerente da Mina
 ETC_20150317_005181	See? Not just a day or two...
 ETC_20150317_005182	Argh! There it is!!!
 ETC_20150317_005183	Derrote Shadowgaler
@@ -5358,7 +5358,7 @@ ETC_20150317_005357	Certo, cuidarei dos procedimentos...
 ETC_20150317_005358	Que grito é esse?
 ETC_20150317_005359	Preparar pra batalha!
 ETC_20150317_005360	É um ataque surpresa!!
-ETC_20150317_005361	Refugee
+ETC_20150317_005361	Refugiado
 ETC_20150317_005362	Está... Está vivo!!
 ETC_20150317_005363	É... É um Golem!!
 ETC_20150317_005364	Por que tem pedaços de Golem aqui?
@@ -5368,14 +5368,14 @@ ETC_20150317_005367	O que...!!
 ETC_20150317_005368	Derrote o Large Kepa!
 ETC_20150317_005369	É um Large Kepa!
 ETC_20150317_005370	Alchemist Vaidotas
-ETC_20150317_005371	Lot 2 Closure Notice
-ETC_20150317_005372	Evacuate the residents!
+ETC_20150317_005371	Fechamento do Lot 2
+ETC_20150317_005372	Evacue os moradores!
 ETC_20150317_005373	Parem esta pessoa!
-ETC_20150317_005374	Eastern Woods Soldier
+ETC_20150317_005374	Soldado de East Woods
 ETC_20150317_005375	Come on let's go! Honey! Dad!
 ETC_20150317_005376	That's really good news. Let's go!
 ETC_20150317_005377	I'm old and just causing you troubles...
-ETC_20150317_005378	Derrote the Vubbes marching in!
+ETC_20150317_005378	Derrote os Vubbes que estão avançando!
 ETC_20150317_005379	Good job!
 ETC_20150317_005380	Where are you!!!
 ETC_20150317_005381	Come out!
@@ -7498,11 +7498,11 @@ ETC_20150317_007498	Attach the Divino Bomb
 ETC_20150317_007499	Collect Spiritual Stone
 ETC_20150317_007500	Information for the barrier (3)
 ETC_20150317_007501	Siauliai Miners' Village (1)
-ETC_20150317_007502	Collect the Relief Supplies
+ETC_20150317_007502	Colete as Caixas com Mantimentos
 ETC_20150317_007503	Mine Manager's Misunderstanding (1)
-ETC_20150317_007504	Gather stones for reinforcement
+ETC_20150317_007504	Obtenha pedras para ajudar no reforço
 ETC_20150317_007505	Mine Manager's Misunderstanding (2)
-ETC_20150317_007506	Take the refugee couple to the Healer Lady
+ETC_20150317_007506	Leve o casal de refugiados até a Curandeira
 ETC_20150317_007507	Rescue the Kidnapped Villagers (1)
 ETC_20150317_007508	Vubbe Sentinel
 ETC_20150317_007509	Rescue the Kidnapped Villagers (2)
@@ -9506,13 +9506,13 @@ ETC_20150317_009506	Mead Storage Box
 ETC_20150317_009507	Elite Mob
 ETC_20150317_009508	Eastern Woods
 ETC_20150317_009509	Crystal Mine unseal track
-ETC_20150317_009510	Relief Box
+ETC_20150317_009510	Caixa de Mantimentos
 ETC_20150317_009511	Wagon Explosion
 ETC_20150317_009512	Hidden house of Krivis
 ETC_20150317_009513	[Mestre Psychokino]{nl} Ili Terid
 ETC_20150317_009514	[Mestre Linker]{nl} Winona Ende
 ETC_20150317_009515	Hidden trigger for 5th advancement Psychokino_Linker_Alchemist
-ETC_20150317_009516	Mine Manager Brinker
+ETC_20150317_009516	Gerente da Mina Brinker
 ETC_20150317_009517	Start Trigger
 ETC_20150317_009518	Medium Boss Golem Trigger
 ETC_20150317_009519	[Mestre Hoplite]{nl}    Adidas Baylor
@@ -10975,7 +10975,7 @@ ETC_20150414_010976	Hawk
 ETC_20150414_010977	Buy Wugushi Items
 ETC_20150414_010978	Buy Squire Items
 ETC_20150414_010979	Use Alchemist Attribute
-ETC_20150414_010980	Buy Alchemist Items
+ETC_20150414_010980	Comprar itens de Alchemist
 ETC_20150414_010981	Buy Fletcher Items
 ETC_20150414_010982	World Formation
 ETC_20150414_010983	Use Falconer Attribute
@@ -14246,9 +14246,9 @@ ETC_20150918_014247	I heard a noise...
 ETC_20150918_014248	Help me!!
 ETC_20150918_014249	The monsters that led the soldiers to death has appeared!{nl}Derrote them and pray for their rest!
 ETC_20150918_014250	Socorro!!
-ETC_20150918_014251	As you opened the chest, a Red Vubbe Warrior yells at you!
-ETC_20150918_014252	Yes, understood!!
-ETC_20150918_014253	Many are injured... We need help!
+ETC_20150918_014251	Ao abrir o baú, um Red Vube Warrior ficou furioso!
+ETC_20150918_014252	Sim, entendido!!
+ETC_20150918_014253	Tem muita gente machucada... Precisamos de ajuda!
 ETC_20150918_014254	Cross here after drinking the Enhanced Thorn Flower Powder!
 ETC_20150918_014255	Protect the Royal Mausoleum's Stone Lanterns from the guardians!
 ETC_20150918_014256	Derrote Echad that can't identify friends from foes
@@ -32728,7 +32728,7 @@ ETC_20180517_032692	Sapling
 ETC_20180517_032693	Tree
 ETC_20180517_032694	Leafy Tree
 ETC_20180517_032695	Flowerbed
-ETC_20180517_032696	Dismantle Legend Equipment
+ETC_20180517_032696	Desmanchar Equipamento Lendário
 ETC_20180517_032697	Craft Legend Equipment
 ETC_20180517_032698	Transcend High Grade Item
 ETC_20180517_032699	Stretch
