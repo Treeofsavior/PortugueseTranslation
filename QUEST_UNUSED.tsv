@@ -374,7 +374,7 @@ QUEST_UNUSED_20150908_000373	Move to another region	다음 지역으로 이동�
 QUEST_UNUSED_20150908_000374	The monsters appeared near the broken owl sculpture!	부서진 부엉이 조각상 주변에 몬스터가 나타났습니다!				
 QUEST_UNUSED_20150908_000375	As you tried to light it up, the monsters suddenly appeared!{nl}Defeat them first and light up the fire again!	불을 붙이려 하자 갑자기 몬스터들이 몰려들었습니다!{nl}일단 이들을 물리치고 다시 불을 붙여 봅시다!				
 QUEST_UNUSED_20150908_000376	You've burnt the owl sculpture well!	부엉이 조각상을 잘 태워 주었습니다!				
-QUEST_UNUSED_20150908_000377	Lighting it up	불 불이는 중	QUEST_LV_0200_20150323_004293	Lighting up the fire/FIRE/3/TRACK_BEFORE/SSN_HATE_AROUND	불 불이는 중/FIRE/3/TRACK_BEFORE/SSN_HATE_AROUND	
+QUEST_UNUSED_20150908_000377	Ascendendo
 QUEST_UNUSED_20150908_000378	Defeat all the monsters while protecting the fire around the pile of sculptures	조각상 더미의 불을 지키면서 몬스터를 모두 처치하세요!				
 QUEST_UNUSED_20150908_000379	Defeat the Lepus that's blocking the way!	길을 막고있는 레푸스를 처치하세요!				
 QUEST_UNUSED_20150908_000380	You have defeated the Lepus that was blocking the way!	길을 막고있는 레푸스를 처치했습니다!				
@@ -549,7 +549,7 @@ QUEST_UNUSED_20151001_000548	That's absurd	말도 안되는 소리라고 한다
 QUEST_UNUSED_20151001_000549	Perfect Shot [Schwarzer Reiter Advancement]	일발필중[슈바르츠라이터 전직]				
 QUEST_UNUSED_20151001_000550	I am confident	자신있다고 한다				
 QUEST_UNUSED_20151001_000551	That's not true	그렇지 않다고 거절한다	QUEST_LV_0200_20150317_001850	Reject	거부	
-QUEST_UNUSED_20151001_000552	I will pass it	전해주겠다고 한다				
+QUEST_UNUSED_20151001_000552	Eu faço a entrega
 QUEST_UNUSED_20151001_000553	I don't want to do it	수상하니 거절해둔다	QUEST_LV_0200_20150323_004490	I need some time to prepare	준비할 시간이 필요하다고 한다	
 QUEST_UNUSED_20151001_000554	I will go get the book	장부를 가져오겠다고 한다	QUEST_LV_0100_20150317_002398	Accept	수락	
 QUEST_UNUSED_20151001_000555	I will come back later	다음에 다시오겠다고 한다	QUEST_LV_0200_20150317_001850	Reject	거부	
@@ -588,20 +588,20 @@ QUEST_UNUSED_20151001_000587	I will collect them	모아보겠다고 한다
 QUEST_UNUSED_20151001_000588	I won't go in again	다시 들어갈 일은 없다고 한다	QUEST_UNUSED_20150717_000281	I'm not really interested in it.	별로 관심 없다고 한다.	
 QUEST_UNUSED_20151001_000589	The story written about the Ruklys Army	루클리스 부대와 관련된 이야기가 적혀있습니다				
 QUEST_UNUSED_20151001_000590	Order to Retreat	퇴각명령				
-QUEST_UNUSED_20151001_000591	The Journey Begins (1)	여정의 시작(1)				
-QUEST_UNUSED_20151001_000592	The Journey Begins (2)	여정의 시작(2)				
-QUEST_UNUSED_20151001_000593	The Journey Begins (3)	여정의 시작(3)				
-QUEST_UNUSED_20151001_000594	The Journey Begins (4)	여정의 시작(4)				
-QUEST_UNUSED_20151001_000595	Orsha (1)	오르샤(1)				
-QUEST_UNUSED_20151001_000596	Orsha (2)	오르샤(2)				
-QUEST_UNUSED_20151001_000597	Orsha (3)	오르샤(3)				
-QUEST_UNUSED_20151001_000598	A Thankful Heart	감사의 마음을 담아				
-QUEST_UNUSED_20151001_000599	Something to Give	꼭 드리고 싶어요				
-QUEST_UNUSED_20151001_000600	Lost in the Forest (1)	숲 속에서 길을 잃다(1)				
-QUEST_UNUSED_20151001_000601	Lost in the Forest (2)	숲 속에서 길을 잃다(2)				
-QUEST_UNUSED_20151001_000602	An Unowned Object	주인없는 물건				
-QUEST_UNUSED_20151001_000603	Unsafe Safety Zone	안전하지 않은 안전지대				
-QUEST_UNUSED_20151001_000604	The Settler Without Rest	쉴 수 없는 이주민				
+QUEST_UNUSED_20151001_000591	A Jornada Começa (1)
+QUEST_UNUSED_20151001_000592	A Jornada Começa (2)
+QUEST_UNUSED_20151001_000593	A Jornada Começa (3)
+QUEST_UNUSED_20151001_000594	A Jornada Começa (4)
+QUEST_UNUSED_20151001_000595	Orsha (1)
+QUEST_UNUSED_20151001_000596	Orsha (2)
+QUEST_UNUSED_20151001_000597	Orsha (3)
+QUEST_UNUSED_20151001_000598	Um Coração Agradecido
+QUEST_UNUSED_20151001_000599	Algo para Contribuir
+QUEST_UNUSED_20151001_000600	Perdido na Floresta (1)
+QUEST_UNUSED_20151001_000601	Perdido na Floresta (2)
+QUEST_UNUSED_20151001_000602	Um Objeto Sem Dono
+QUEST_UNUSED_20151001_000603	Local Não Muito Seguro
+QUEST_UNUSED_20151001_000604	O Imigrante Sem Descanso
 QUEST_UNUSED_20151001_000605	The Missing Bishop (1)	사라진 주교(1)				
 QUEST_UNUSED_20151001_000606	The Missing Bishop (2)	사라진 주교(2)				
 QUEST_UNUSED_20151001_000607	The Missing Bishop (3)	사라진 주교(3)				
@@ -822,15 +822,15 @@ QUEST_UNUSED_20151016_000821	Repairing the pillar	기둥을 수리하는 중
 QUEST_UNUSED_20151016_000822	Look for the pieces of the pillar	기둥 조각 찾기				
 QUEST_UNUSED_20151016_000823	Please tell me what it is	알려달라고 한다	QUEST_LV_0100_20150317_002398	Accept	수락	
 QUEST_UNUSED_20151016_000824	I will ask later	나중에 물어 본다	QUEST_LV_0100_20150317_002379	Cancel	종료	
-QUEST_UNUSED_20151016_000825	I will go	가보겠다고 한다				
-QUEST_UNUSED_20151016_000826	I have something to do	볼일이 있다고 한다	QUEST_LV_0100_20150317_002379	Cancel	종료	
-QUEST_UNUSED_20151016_000827	Please wait	기다려 달라고 한다				
-QUEST_UNUSED_20151016_000828	I will go meet	만나보겠다고 한다	QUEST_LV_0100_20150317_002398	Accept	수락	
-QUEST_UNUSED_20151016_000829	I will come back soon	금방 다녀오겠다고 한다				
-QUEST_UNUSED_20151016_000830	Lighting it up	불 켜는 중				
-QUEST_UNUSED_20151016_000831	I will take a look around	들러보겠다고 한다	QUEST_LV_0100_20150317_002398	Accept	수락	
-QUEST_UNUSED_20151016_000832	I don't need that	굳이 필요 없다고 한다	QUEST_LV_0100_20150317_002379	Cancel	종료	
-QUEST_UNUSED_20151016_000833	It will come if you wait	기다리면 올거라고 한다	QUEST_LV_0100_20150317_002379	Cancel	종료	
+QUEST_UNUSED_20151016_000825	Eu irei
+QUEST_UNUSED_20151016_000826	Eu tenho algo para fazer
+QUEST_UNUSED_20151016_000827	Por favor, aguarde
+QUEST_UNUSED_20151016_000828	Vou ir encontrar
+QUEST_UNUSED_20151016_000829	Voltarei em breve
+QUEST_UNUSED_20151016_000830	Ascendendo
+QUEST_UNUSED_20151016_000831	Vou dar uma olhada ao redor
+QUEST_UNUSED_20151016_000832	Não preciso disso
+QUEST_UNUSED_20151016_000833	Vai vir se você esperar
 QUEST_UNUSED_20151016_000834	It is likely that there are more pillars with someone's records. Look at the pillar. You would be able to read the writings on the pillar even if it's dark if you have the crystals that illuminates a mysterious ray.	누군가의 기록이 담긴 기둥이 더 있을 것 같습니다. 기둥을 살펴 보세요. 기둥의 글귀는 신비한 빛을 내는 결정이 있다면 어두워도 읽을 수 있을 것입니다.	QUEST_UNUSED_20151001_000695	There should be more pillars with records around here. Have a look at the others. We could use the light from the sea sparkles to read the writings on the pillars.	누군가의 기록이 담긴 기둥이 더 있을 것 같습니다. 기둥을 살펴 보세요. 기둥의 글귀는 야광충의 빛이 있다면 어두워도 읽을 수 있을 것입니다.	
 QUEST_UNUSED_20151016_000835	The crystal emanating the mysterious light requires monster oil to shine. Hunt monsters and collect monster oil.	신비한 빛을 내는 결정 충분한 빛을 내려면 몬스터 기름이 있어야 할 것 같습니다. 몬스터를 사냥하여 몬스터 기름을 모으세요.	QUEST_UNUSED_20151001_000697	To make the sea sparkles shine during the day, you need some monster oil. Hunt monsters to collect it.	야광충이 낮에 빛을 내려면 몬스터 기름이 있어야 할 것 같습니다. 몬스터를 사냥하여 몬스터 기름을 모으세요.	
 QUEST_UNUSED_20151016_000836	You have obtained the monster oil. Go back to the pillar with the crystal and use its light to see the writings on it.	몬스터 기름을 모두 모았습니다. 기둥으로 가져 가서 신비한 빛을 내는 결정의 빛으로 기둥에 새겨진 글귀를 읽어 봅시다.	QUEST_UNUSED_20151001_000699	You have collected the monster oil. Take it to the pillar and use the light from the sea sparkles to read the writings on it.	몬스터 기름을 모두 모았습니다. 기둥으로 가져 가서 야광충의 빛으로 기둥에 새겨진 글귀를 읽어 봅시다.	
@@ -841,46 +841,46 @@ QUEST_UNUSED_20151016_000840	If you bring these books to Wilhelmina Carriot, you
 QUEST_UNUSED_20151016_000841	You can see the Ruklys Army Soldier's Spirit that can't go back beside the goddess. Talk to him.	여신의 품으로 돌아가지 못하고 떠도는 루클리스 부대 병사 영혼이 보입니다. 그와 대화하세요	QUEST_UNUSED_20151001_000732	Talk with the Ruklys Army Soldier's Spirit	루클리스 부대 병사 영혼과 대화하세요	
 QUEST_UNUSED_20151016_000842	It seems that he regrets that he couldn't blow the horn to order for retreat. Blow the horn and let other spirits know about the spirit.	루클리스 부대 병사의 영혼은 퇴각을 알리지 못한 게 한이 되는 것 같습니다. 나팔을 불어 루클리스 부대 병사 영혼들에게 퇴각 명령 알리세요.	QUEST_UNUSED_20151001_000734	Blow the horn and pass the retreat order to the Ruklys Army Soldier's Spirits.	나팔을 불어 루클리스 부대 병사 영혼들에게 퇴각 명령 알리세요.	
 QUEST_UNUSED_20151016_000843	You blew the horn and sent out the retreat order. Tell the Ruklys Army Soldier's Spirit about it.	나팔을 불어 퇴각 명령을 알렸스빈다. 루클리스 부대 병사 영혼에게 이 사실을 알리세요.	QUEST_UNUSED_20151001_000732	Talk with the Ruklys Army Soldier's Spirit	루클리스 부대 병사 영혼과 대화하세요	
-QUEST_UNUSED_20151016_000844	Talk with Settler Browein	이주민 보웨인과 대화				
-QUEST_UNUSED_20151016_000845	Talk with Settler Browein at Lemprasa Pond	렘파라사 연못의 이주민 보웨인과 대화하세요				
-QUEST_UNUSED_20151016_000846	Talk with Settler Brophen	이주민 브로펜과 대화				
-QUEST_UNUSED_20151016_000847	Talk with Settler Brophen	이주민 브로펜과 대화하세요				
-QUEST_UNUSED_20151016_000848	Use a Status Point	스탯포인트 사용				
-QUEST_UNUSED_20151016_000849	Press the F1 key to use a Status Point	F1키를 누른 후 스탯포인트를 사용해 보세요				
-QUEST_UNUSED_20151016_000850	Hand over Grass Leaf Ointment	풀 잎 연고 전달				
-QUEST_UNUSED_20151016_000851	Settler Brophen asked you to hand over Grass Leaf Ointment to Settler Layla	이주민 브로펜은 이주민 레일라에게 풀 잎 연고를 전해달라고 부탁했습니다				
-QUEST_UNUSED_20151016_000852	Talk with Mayor Romanas	촌장 로마나스와 대화				
-QUEST_UNUSED_20151016_000853	Mayor Romanas is waiting for you	촌장 로마나스가 당신을 기다리고 있습니다				
-QUEST_UNUSED_20151016_000854	Talk with Officer Lutas	관리관 류타스와 대화				
-QUEST_UNUSED_20151016_000855	Talk with Officer Lutas at the entrance of Lemprasa Pond	렘파라사 연못의 오르샤 입구에서 관리관 류타스와 대화하세요				
-QUEST_UNUSED_20151016_000856	Talk with Officer Lutas	관리관 류타스와 대화하세요				
-QUEST_UNUSED_20151016_000857	Defeat the attacking boss monster	급습한 보스몬스터 처치	QUEST_UNUSED_20150729_000346	Progress	진행	
-QUEST_UNUSED_20151016_000858	Defeat the attacking boss monster	급습한 보스몬스터를 처치하세요	QUEST_UNUSED_20150729_000346	Progress	진행	
-QUEST_UNUSED_20151016_000859	Visit Orsha	오르샤 방문				
-QUEST_UNUSED_20151016_000860	Visit Orsha	도시 오르샤에 방문하세요				
-QUEST_UNUSED_20151016_000861	Talk with Inesa Hamondale	이네사 해먼데일과 대화				
-QUEST_UNUSED_20151016_000862	Talk with Orsha's lord, Inesa Hamondale	오르샤 영주 이네사 해먼데일과 대화하세요				
-QUEST_UNUSED_20151016_000863	Talk with Settler Izna	이주민 이즈나와 대화				
-QUEST_UNUSED_20151016_000864	Talk with Settler Izna	이주민 이즈나와 대화하세요				
-QUEST_UNUSED_20151016_000865	Collect light red leaves	연붉은 잎사귀 수집	QUEST_UNUSED_20150729_000346	Progress	진행	
-QUEST_UNUSED_20151016_000866	Settler Izna has asked you to defeat nearby monsters and collect red leaves.	이주민 이즈나는 주변 몬스터를 처치하여 연붉은 잎사귀를 수집해달라고 부탁했습니다	QUEST_UNUSED_20150729_000346	Progress	진행	
-QUEST_UNUSED_20151016_000867	Obtain light red leaves	연붉은 잎사귀 획득	QUEST_JOBSTEP_20150323_002333	Defeat %s	%s 처치	
-QUEST_UNUSED_20151016_000868	Collect Rampar Mucus	렘파르 점액 수집				
-QUEST_UNUSED_20151016_000869	Settler Izna has asked you to collect Rampas Mucus.	이주민 이즈나는 렘파를 점액을 수집해달라고 부탁했습니다	QUEST_UNUSED_20150729_000346	Progress	진행	
-QUEST_UNUSED_20151016_000870	Guide the settler in the forest	숲 속의 이주민 인도				
-QUEST_UNUSED_20151016_000871	Residents of the northern region have been isolated due to a gigantic monster. Settler Izna has asked you to light up a fire to help them.	이주민 이즈나는 거대한 몬스터 때문에 길을 숲 속에 고립된 북쪽 지역 이주민들을 돕기 위해 모닥불을 켜달라고 했습니다	QUEST_UNUSED_20150729_000346	Progress	진행	
-QUEST_UNUSED_20151016_000872	Light the Last Fire	마지막 모닥불 켜기	QUEST_UNUSED_20150729_000346	Progress	진행	
-QUEST_UNUSED_20151016_000873	Settler Izna has asked you to light a big fire so the residents can see it from far away.	이주민 이즈나는 거대한 모닥불을 켜서 먼 곳에 있는 이주민들이 볼 수 있도록 해 달라고 부탁했습니다	QUEST_UNUSED_20150729_000346	Progress	진행	
-QUEST_UNUSED_20151016_000874	Talk with Settler Ivanayus	이주민 이바나유와 대화				
-QUEST_UNUSED_20151016_000875	Talk with Settler Ivanayus	이주민 이바나유와 대화하세요				
-QUEST_UNUSED_20151016_000876	Collect useful objects	쓸만한 물건 수집				
-QUEST_UNUSED_20151016_000877	Settler Ivanayus wants you to collect useful objects that can be used by settlers that are left by natives.	이주민 이바나유는 원주민들이 두고간 물품을 확인하여 이주민들이 쓸만한 물건을 수집해 달라고 부탁했습니다	QUEST_UNUSED_20150729_000346	Progress	진행	
-QUEST_UNUSED_20151016_000878	Talk with Settler Dallanas	이주민 달라나스와 대화				
-QUEST_UNUSED_20151016_000879	Talk with Settler Dallanas	이주민 달라나스와 대화하세요				
-QUEST_UNUSED_20151016_000880	Worship the Statue of Goddess Zemyna	제미나 여신상에 경배				
-QUEST_UNUSED_20151016_000881	Settler Dallanas would like to bless your explorations and as asked you to worship the statue of Goddess Zemyna to receive her grace.	잊두민 달라나스는 모험길을 축복해주며 제미나 여신상에 경배하여 여신의 가호를 받아보라고 조언해주었습니다				
-QUEST_UNUSED_20151016_000882	Bring the Settlers	이주민 데려오기	QUEST_UNUSED_20150729_000346	Progress	진행	
-QUEST_UNUSED_20151016_000883	Settler Dallanas has asked you to bring the settlers that were spreaded across the area.	이주민 달라나스는 주변에 흩어져 있는 이주민들을 데리고 와다라라고 부탁했습니다	QUEST_UNUSED_20150729_000346	Progress	진행	
+QUEST_UNUSED_20151016_000844	Fale com o Imigrante Bowein
+QUEST_UNUSED_20151016_000845	Fale com o Imigrante Bowein em Lemprasa Pond
+QUEST_UNUSED_20151016_000846	Fale com o Imigrante Brophen
+QUEST_UNUSED_20151016_000847	Fale com o Imigrante Brophen
+QUEST_UNUSED_20151016_000848	Use um Ponto de Atributo
+QUEST_UNUSED_20151016_000849	Pressione a tecla F1 para usar um Ponto de Atributo
+QUEST_UNUSED_20151016_000850	Entregue o Grass Leaf Ointment
+QUEST_UNUSED_20151016_000851	O Imigrante Brophen pediu para entregar o Grass Leaf Ointment para a Imigrante Layla
+QUEST_UNUSED_20151016_000852	Fale com o Prefeito Romanas
+QUEST_UNUSED_20151016_000853	O Prefeito Romanas está esperando por você
+QUEST_UNUSED_20151016_000854	Fale com o Oficial Lutas
+QUEST_UNUSED_20151016_000855	Fale com o Oficial Lutas, na entrada de Lemprasa Pond
+QUEST_UNUSED_20151016_000856	Fale com o Oficial Lutas
+QUEST_UNUSED_20151016_000857	Derrote o monstro Chefe que está atacando
+QUEST_UNUSED_20151016_000858	Derrote o monstro Chefe que está atacando
+QUEST_UNUSED_20151016_000859	Visite Orsha
+QUEST_UNUSED_20151016_000860	Visite Orsha
+QUEST_UNUSED_20151016_000861	Fale com Inesa Hamondale
+QUEST_UNUSED_20151016_000862	Fale com a Lorde de Orsha, Inesa Hamondale
+QUEST_UNUSED_20151016_000863	Fale com a Imigrante Izna
+QUEST_UNUSED_20151016_000864	Fale com a Imigrante Izna
+QUEST_UNUSED_20151016_000865	Colete Light Red Leaves
+QUEST_UNUSED_20151016_000866	Imigrante Izna pediu para que você derrote os montros ao redor e colete Red Leaves.
+QUEST_UNUSED_20151016_000867	Obter Light Red Leaves
+QUEST_UNUSED_20151016_000868	Coletar Rampar Mucus
+QUEST_UNUSED_20151016_000869	Imigrante Izna pediu para você coletar Rampar Mucus.
+QUEST_UNUSED_20151016_000870	Guie os imigrantes pela floresta
+QUEST_UNUSED_20151016_000871	Residentes da região norte ficaram isolados por causa de um monstro gigante. A Imigrante Izna pediu para ascender algumas Fogueiras para ajudar.
+QUEST_UNUSED_20151016_000872	Ascenda a última fogueira
+QUEST_UNUSED_20151016_000873	Imigrante Izna pediu para você ascender um grande fogo, para que os residentes possam ver de longe.
+QUEST_UNUSED_20151016_000874	Fale com o Imigrante Ivanayus
+QUEST_UNUSED_20151016_000875	Fale com o Imigrante Ivanayus
+QUEST_UNUSED_20151016_000876	Obtenha itens úteis
+QUEST_UNUSED_20151016_000877	Imigrante Ivanayus quer que você colete objetos úteis que possam ser usados pelos imigrantes.QUEST_UNUSED_20150729_000346	Progress	진행	
+QUEST_UNUSED_20151016_000878	Fale com o Imigrante Dallanas
+QUEST_UNUSED_20151016_000879	Fale com o Imigrante Dallanas
+QUEST_UNUSED_20151016_000880	Ore na Estátua da Deusa Zemyna
+QUEST_UNUSED_20151016_000881	Imigrante Dallanas gostaria de abençoar a sua exploração e pediu para você orar para a Estátua da Deusa Zemyna.
+QUEST_UNUSED_20151016_000882	Traga os Imigrantes
+QUEST_UNUSED_20151016_000883	Imigrante Dallanas pediu para você trazer os imigrandes que ficaram perdidos na área.
 QUEST_UNUSED_20151022_000884	Can you hand over the records to Wilhelmina?{nl}She told me that she will help us break Gargoyle so don't forget to get something from her when you return.	자. 방금 네가 모아 온 기록물들을 빌헬미나에게 전해 주겠어?{nl}우리가 가고일을 뚫고 들어갈 수 있도록 도와준댔으니까, 올 땐 잊지 말고 뭐라도 꼭 받아와.	QUEST_LV_0200_20151001_009136	Can you hand over the records to Wilhelmina that you've brought?{nl}We told them that we would help penetrate into Gargoyle so don't forget to receive something before you come here. 	자. 방금 네가 모아 온 기록물들을 빌헬미나에게 전해 주겠어?{nl}우리가 가고일을 뚫고 갈 수 있도록 도와준댔으니까 올땐 잊지 말고 뭐라도 꼭 받아와.	도굴꾼 아만다
 QUEST_UNUSED_20151022_000885	Mardas	마르다스				
 QUEST_UNUSED_20151022_000886	Ah... a human in this place...{nl}There are demons here. You better run away.{nl}A while ago, demons appeared from up there and are controlling the monsters.	이..이런 곳에 사람이라니..{nl}이곳엔 마족이 있어요. 어서 도망치시는 게 좋을 거에요.{nl}조금 전에도 저 위에 마족이 나타나서 몬스터를 부리고 있었다구요.				마르다스
@@ -1730,7 +1730,7 @@ QUEST_UNUSED_20151022_001726	Acquired enough Rampar Mucus as Izna requested to y
 QUEST_UNUSED_20151022_001727	In order to help the settlers who are isolated in the forest due to the gigantic monsters, Settler Izna asked you to set the bonfire at the resting areas in the district 3 and 4.	이주민 이즈나는 거대한 몬스터 때문에 길을 숲 속에 고립된 북쪽 지역 이주민들을 돕기 위해 3/4 지역의 쉼터 모닥불을 켜달라고 했습니다				
 QUEST_UNUSED_20151022_001728	Set the fire on woodpiles at the resting area	쉼터 장작더미에 불 지피기				
 QUEST_UNUSED_20151022_001729	Settler Izna asked you to set the fire on the woodpiles of the resting areas for the settlers to see clearly	이주민 이즈나는 쉼터 장작더미에 불을 지펴서 먼 곳에 있는 이주민들이 볼 수 있도록 해 달라고 부탁했습니다				
-QUEST_UNUSED_20151022_001730	Defeat Woodspirit	우드스피릿 처치				
+QUEST_UNUSED_20151022_001730	Derrote Woodspirit
 QUEST_UNUSED_20151022_001731	Settler Dallanas blessed your adventure. And she also advised you to pray in front of the Statue of Goddess Zemyna and receive the protection of the goddess.	이주민 달라나스는 당신의 모험을 축복해주었습니다. 그리고 제미나 여신상에 경배하여 여신의 가호를 받아보라고 조언해주었습니다				
 QUEST_UNUSED_20151022_001732	Defeat the monsters at the temporal resting area	임시 휴식처의 몬스터 처치				
 QUEST_UNUSED_20151022_001733	Settler Dallanas told you that the temporal resting area where the settlers are waiting to enter Orsha has become dangerous due to the ourburst of the monsters recently. Let's defeat the monsters at the temporal resting area.	이주민 달라나스는 이주민들이 오르샤로 들어가기 위해 대기하던 임시 휴식처가 얼마 전부터 몬스터들의 출몰로 위험해졌다고 합니다. 임시 휴식처의 몬스터들을 처리해 줍시다	QUEST_UNUSED_20150729_000346	Progress	진행	
@@ -2803,7 +2803,7 @@ QUEST_UNUSED_20151102_002798	I'll talk to the village resident	마을 주민과 
 QUEST_UNUSED_20151102_002799	We should hurry	서두르자고 한다				
 QUEST_UNUSED_20151102_002800	I'll find the XX essence	XX의 정수 구하러 간다				
 QUEST_UNUSED_20151102_002801	Let's do it later	조금있다가 하자고 한다				
-QUEST_UNUSED_20151102_002802	I'll help you	로제를 돕는다				
+QUEST_UNUSED_20151102_002802	Vou ajudar você
 QUEST_UNUSED_20151102_002803	I can't help her	돕지 않는다				
 QUEST_UNUSED_20151102_002804	I'll check whether I have a recovery potion	회복 물약을 있는지 찾아본다				
 QUEST_UNUSED_20151102_002805	I'll give you one later	나중에 준다.				
@@ -2840,14 +2840,14 @@ QUEST_UNUSED_20151102_002835	Let Edmundas do it	에드문다스에게 시킨다	
 QUEST_UNUSED_20151102_002836	The Demons' Goals	마족의 목적				
 QUEST_UNUSED_20151102_002837	Are you all right?	괜찮냐고 묻는다				
 QUEST_UNUSED_20151102_002838	Gotta go, sorry	갈 길 간다				
-QUEST_UNUSED_20151102_002839	Find Mayor Romanas (1)	촌장 로마나스 찾아가기(1)				
-QUEST_UNUSED_20151102_002840	Find Mayor Romanas (2)	촌장 로마나스 찾아가기(2)				
-QUEST_UNUSED_20151102_002841	Be careful	조심하라고 한다	QUEST_LV_0100_20150317_002398	Accept	수락	
-QUEST_UNUSED_20151102_002842	There's no need to hurry	급할 것 없다고 한다	QUEST_LV_0100_20150317_002379	Cancel	종료	
-QUEST_UNUSED_20151102_002843	Find Mayor Romanas (3)	촌장 로마나스 찾아가기(3)				
-QUEST_UNUSED_20151102_002844	Find Mayor Romanas (4)	촌장 로마나스 찾아가기(4)				
-QUEST_UNUSED_20151102_002845	I'll wait	기다려 주겠다고 한다	QUEST_LV_0200_20150323_004495	I am ready	준비되었다고 한다	
-QUEST_UNUSED_20151102_002846	Follow the green arrow to enter Orsha	녹색 화살표를 이용하여 오르샤로 이동하세요				
+QUEST_UNUSED_20151102_002839	Encontre Prefeito Romanas (1)
+QUEST_UNUSED_20151102_002840	Encontre Prefeito Romanas (2)
+QUEST_UNUSED_20151102_002841	Tenha cuidado
+QUEST_UNUSED_20151102_002842	Não tem razão para se apressar
+QUEST_UNUSED_20151102_002843	Encontre Prefeito Romanas (3)
+QUEST_UNUSED_20151102_002844	Encontre Prefeito Romanas (4)
+QUEST_UNUSED_20151102_002845	Vou esperar
+QUEST_UNUSED_20151102_002846	Siga a seta verde para entrar em Orsha
 QUEST_UNUSED_20151102_002847	Worship the Statue of Goddess Ausrine in the Central Plaza!	중앙 광장의 여신 아우슈리네의 상에 경배하세요!				
 QUEST_UNUSED_20151102_002848	Find the Item Merchant	잡화상인을 찾아가세요				
 QUEST_UNUSED_20151102_002849	Find the Accessory Merchant	악세서리 상인을 찾아가세요				
@@ -2997,8 +2997,8 @@ QUEST_UNUSED_20151102_002992	Obtain Mysterious Wizard's Experiment Journal	의�
 QUEST_UNUSED_20151102_002993	Obtain Mysterious Wizard's Experiment Journal	의문의 마법사의 실험 일지를 구하세요	QUEST_LV_0100_20151016_010278	Guide on the Second Step	중간 설명	
 QUEST_UNUSED_20151102_002994	Shut down the Breeding Device	배양 장치 정지시키기	QUEST_LV_0100_20151016_010277	Second Step	중간 할 일	
 QUEST_UNUSED_20151102_002995	Shut down the giant bracken spore breeding device	거대 고사리 포자를 배양 장치하는 정지시키기	QUEST_LV_0100_20151016_010278	Guide on the Second Step	중간 설명	
-QUEST_UNUSED_20151102_002996	Look for Mayor Romanas	촌장 로마나스 찾아가기				
-QUEST_UNUSED_20151102_002997	Lost in the Forest	숲 속에서 길을 잃다				
+QUEST_UNUSED_20151102_002996	Procure pelo Prefeito Romanas
+QUEST_UNUSED_20151102_002997	Perdido na Floresta
 QUEST_UNUSED_20151102_002998	The Missing Bishop	사라진 주교				
 QUEST_UNUSED_20151102_002999	The Burnt Whereabouts	불타버린 행방				
 QUEST_UNUSED_20151102_003000	Monster Colony	몬스터 군락지				
