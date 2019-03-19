@@ -2072,7 +2072,7 @@ UI_20160224_002070	{@st41b}You have exceeded the number of times allowed.{/}
 UI_20160224_002071	{@st66b}Info Básica
 UI_20160224_002072	{@st66b}Property
 UI_20160224_002073	O Líder da Guilda está à procura de participantes para o evento de Guilda.
-UI_20160224_002074	{@st63_yellow}Membros :{/}
+UI_20160224_002074	{@st63_yellow}Membros:{/}
 UI_20160224_002075	{@st63}%s participantes (Login %s){/}
 UI_20160224_002076	{@st63_yellow}Local :{/}
 UI_20160224_002077	Cobalt Forest
@@ -2222,7 +2222,7 @@ UI_20160718_002220	{@st59b}Regional GvG{nl}{@st59s} - Rewards are given on a wee
 UI_20160718_002221	{@st66b}Rank %s{/}
 UI_20160718_002222	{@sti8}{s18}{ds}Participantes (%s){/}
 UI_20160718_002223	{@st41}Recusado{/}
-UI_20160718_002224	{@st66d}%s participando (Dentre %s logados){/}
+UI_20160718_002224	{@st66d}%s aceitaram (%s online){/}
 UI_20160718_002225	{@st41}Move to Zone
 UI_20160718_002226	{@st46}Guild Battle Results{/}
 UI_20160718_002227	{@st45tw2}Battle Duration{/}

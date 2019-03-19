@@ -17332,7 +17332,7 @@ ETC_20151102_017326	You've already received the Spirit - Attack Buff
 ETC_20151102_017327	The Spirit - Attack Buff wore off
 ETC_20151102_017328	The shaman doll was destroyed!
 ETC_20151102_017329	The entry Device is not operational
-ETC_20151102_017330	Already received compensation
+ETC_20151102_017330	Você já recebeu a compensação
 ETC_20151102_017331	Used 1 Burning Crystal
 ETC_20151102_017332	Used 5 Burning Crystals
 ETC_20151102_017333	Injected a Red Cursed Soul
@@ -25418,7 +25418,7 @@ ETC_20161005_025412	Charm of Protection Crafting attribute required
 ETC_20161005_025413	Returning to the server selection screen as you tried to access another server.
 ETC_20161005_025414	Indisponível nesta área.
 ETC_20161005_025415	There is already an instance clear voucher in use.
-ETC_20161005_025416	You are not the right class for this equipment.
+ETC_20161005_025416	Suas classes não correspondem à esse equipamento.
 ETC_20161005_025417	You cannot change your equipment before picking up a thrown item.
 ETC_20161005_025418	Your character's level cannot be higher than 280 in the Seasonal Server.
 ETC_20161005_025419	You are not the right gender to equip this.
@@ -25902,7 +25902,7 @@ ETC_20161214_025896	At Greene Manor, the deafening sound of enormous bug wings c
 ETC_20161214_025897	The Kupoles of Demon Prison District 2 found a Glackuman. As the Kupoles are busy tackling the imprisoned demons, help them by defeating the Glackuman.
 ETC_20161214_025898	A Manticen has appeared at Shaton Reservoir. Hide in the caves of the Reservoir and defeat the Manticen that's threatening the residents.
 ETC_20161214_025899	Apparently, the bees at Dina Bee Farm have started to disappear little by little. Someone found a gigantic spider web in the forest, and soon after a Honeypin appeared at the Farm. Derrote the Honeypin before it destroys the entire region.
-ETC_20161214_025900	Derrote the Kurmis
+ETC_20161214_025900	Derrote Kurmis
 ETC_20161214_025901	An enormous monster has appeared in Viltis Forest and is attacking the adventurers. Derrote the monster and make the forest safe again.
 ETC_20161214_025902	The Kedora Alliance, who the Mage Tower adventurers support, suffered a monster attack at Istora Ruins. They request your help to defeat their biggest threat, the Yonazolem. Derrote the Yonazolem and help the Mage Tower adventurers proceed with their work in safety.
 ETC_20161214_025903	The Naktis so often mentioned by the adventurers has suddenly disappeared. Meanwhile, the adventurers exploring the Kaliss Province say they were attacked at the Roxona Reconstruction Agency West Building by someone under the form of the Naktis. Go and investigate!
@@ -29043,7 +29043,7 @@ ETC_20171013_029016	Nome do Monstro: {NAME}
 ETC_20171013_029017	 {nl}Nome do Monstro: {NAME}{nl}Nível Atual :  {LV}{nl}{nl}Para aumentar o nível, 
 ETC_20171013_029018	 é necessário.
 ETC_20171013_029019	Libertar
-ETC_20171013_029020	Tamer's Blue Orb Event 
+ETC_20171013_029020	Evento - Treinador de Monstros
 ETC_20171013_029021	 {nl}Monster Info{nl}Lv {LV1} {NAME1}{nl}Lv {LV2} {NAME2}{nl}Lv {LV3} {NAME3}
 ETC_20171013_029022	 {nl}Info da Missão Evento{nl} Nível Máximo Completo : {MAX}
 ETC_20171023_029023	Halloween Dungeon - Creepy Klaipeda
@@ -30935,7 +30935,7 @@ ETC_20171128_030908	The purification device has purified the haze in the sphere!
 ETC_20171128_030909	With the sacred energy, you have earned the title of Purifier!{nl}You now have the right to open a treasure chest somewhere in the tower!
 ETC_20171128_030910	Not enough hazy spheres.
 ETC_20171128_030911	You can't use the device now.
-ETC_20171128_030912	You've collected the daily completion reward.
+ETC_20171128_030912	Você coletou a recompensa diária de conclusão.
 ETC_20171128_030913	You've collected all daily completion rewards.
 ETC_20171128_030914	Look into the pot.
 ETC_20171128_030915	Looking into the pot
@@ -31936,7 +31936,7 @@ ETC_20180320_031904	 que deseja aplicar.{nl}Você precisa de 1
 ETC_20180320_031905	 por nível, e 1 
 ETC_20180320_031906	 adicional a cada 5 níveis.
 ETC_20180320_031907	Fedimian Under Attack Event
-ETC_20180320_031908	Evento Especial - Pokémon
+ETC_20180320_031908	Evento Especial - Treinador
 ETC_20180320_031909	Chance de Drop +100 (30 min.): {@st66d}{needSilver} Silver{/}
 ETC_20180320_031910	[Kedora Alliance]{nl}Geraldasia
 ETC_20180320_031911	[Kedora Alliance]{nl}Geraldason
@@ -32933,7 +32933,7 @@ ETC_20180517_032897	Os itens transcendidos não podem ser negociados via troca d
 ETC_20180517_032898	Os itens transcendidos não podem ser negociados via troca direta (1:1). Falhar ao transcender reduz o potencial do item.{Nl} {nl} Deseja transcender?
 ETC_20180517_032899	Already linked.
 ETC_20180517_032900	Alcançou o nível máximo de aprimoramento.
-ETC_20180517_032901	Using these materials will generate a surplus of {#62100c}[ {EXCEED_EXP} EXP ]{/}{/}. Are you sure you want to continue?
+ETC_20180517_032901	Usar estes materiais gera uma sobra de {#62100c}[ {EXCEED_EXP} EXP ]{/}{/}. Tem certeza que deseja continuar?
 ETC_20180517_032902	This item does not contain valid random stats.
 ETC_20180517_032903	Stats extracted; the item has been consumed.
 ETC_20180517_032904	Equippable on Legend equipment of level {LEVEL} and above.
@@ -36507,7 +36507,7 @@ ETC_20181017_036421	You cannot use the Dungeon Multiply Token right now.	지금�
 ETC_20181017_036422	{@st47}{s18}{WARNINGPROP}{/}{/} item included.{nl} {nl}{DEFAULTMSG}	{@st47}{s18}{WARNINGPROP}{/}{/} 아이템이 포함되어 있습니다.{nl} {nl}{DEFAULTMSG}	ETC_20180208_031539	{@st47}{s18}{WARNINGPROP}{/}{/}One item included.{nl} {nl}{DEFAULTMSG}	{@st47}{s18}{WARNINGPROP}{/}{/}한 아이템이 포함되어 있습니다.{nl} {nl}{DEFAULTMSG}	
 ETC_20181017_036423	[Enchant Stat]	[인챈트 옵션]				
 ETC_20181017_036424	Item Enchant Effects	아이템 인챈트 효과				
-ETC_20181017_036425	Insufficient number of required items.	필요한 아이템 개수가 충분하지 않아 아이템을 사용 할 수 없습니다.				
+ETC_20181017_036425	Número insuficiente de itens necessários.
 ETC_20181017_036426	By Quantity	소지량순				
 ETC_20181017_036427	By Level	레벨순				
 ETC_20181017_036428	You cannot create a new character because the [Lodge{layer]]is full.{nl}Please try again in a different lodge.	현재 [숙소{layer}]가 가득차 더 이상 캐릭터를 생성할 수 없습니다. 숙소를 변경하여 시도해 주세요.				
@@ -37765,7 +37765,7 @@ ETC_20190104_037679	Tem certeza que deseja remover {#fe7e00}[{ITEM}]{/} x{#fe7e0
 ETC_20190104_037680	Tem certeza que deseja remover {#fe7e00}[{ITEM}]{/}?
 ETC_20190104_037681	There are objects blocking the area.	해당 위치에 물체가 있습니다.			
 ETC_20190104_037682	Area out of bounds.	이동할 수 없는 지역입니다.			
-ETC_20190104_037683	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total Token duration time;{nl}- Total duration time for unlimited trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?	이미 토큰 아이템의 혜택을 적용받고 있습니다. 그래도 적용하시겠습니까?{nl}만약 중첩하여 적용 하는 경우{nl}전체 사용 기간과 거래 무제한 기간이{nl}누적하여 추가되며 그외의 혜택은 동일한 수치로 유지됩니다.	ETC_20160323_021378	You already have the Token benefits.{nl}Using another Token will stack:{nl}- Total duration time;{nl}- Number of personal trades;{nl}All other benefits will be{nl}maintained at the same value.{nl}Do you still want to use it?	이미 토큰 아이템의 혜택을 적용받고 있습니다. 그래도 적용하시겠습니까?{nl}만약 중첩하여 적용 하는 경우{nl}전체 사용 기간과 개인 거래 횟수가{nl}누적하여 추가되며 그외의 혜택은 동일한 수치로 유지됩니다.
+ETC_20190104_037683	Você já possui os benefícios de Token.{nl}Utilizar outro acumulará:{nl}- Duração total do Token;{nl}- Duração total de trocas inlimitadas;{nl}Todos os demais benefícios serão{nl}mantidos com os mesmos valores.{nl}Ainda deseja usar?
 ETC_20190104_037684	Unlimited Trades	거래 무제한	ETC_20160224_020691	Number of trades allowed	거래 가능 횟수
 ETC_20190104_037685	{@st63_red}{s18}Limited Trade{/}{/}	{@st63_red}{s18}무제한 거래 가능 불가{/}{/}	ETC_20180115_031184	{@st63_red}{s18}No Trades Left{/}{/}	{@st63_red}{s18}거래 가능 횟수 0{/}{/}	
 ETC_20190104_037686	Use Rookie/Returning Player Shop	신규/복귀 상점 이용			
