@@ -9897,7 +9897,7 @@ SKILL_20171128_009896	SeeRed	씨레드
 SKILL_20171128_009897	Enemies attack the attacking Matador. Increases physical attack by 10% max., reduces physical attack by 50% max.	공격한 마타도르를 최우선으로 공격합니다. 최대 물리 공격력 10%증가, 최소 물리 공격력 50%감소				
 SKILL_20171128_009898	Continuously receiving damage.	지속적인 대미지를 입는 상태입니다.				
 SKILL_20171128_009899	Summoned a shadow clone with 20% of your HP.	자신의 HP의 20%를 가진 분신 소환				
-SKILL_20171128_009900	Able to block magic	마법 블록이 가능한 상태입니다.				
+SKILL_20171128_009900	Able to block magic	마법 블록이 가능한 상태입니다.	SKILL_20170912_009623	Damage received decreased.	받는 피해 감소	
 SKILL_20171128_009901	Fire Property Damage	불 속성 피해				
 SKILL_20171128_009902	Beady Eyed: Ambush	비디 아이드: 기습				
 SKILL_20171128_009903	Critical Chance Increase	치명타 확률 증가				
@@ -11694,7 +11694,7 @@ SKILL_20180517_011693	Barbed Arrow: Aprimorar	바브드 애로우: 강화
 SKILL_20180517_011694	* Increases the damage dealt on an enemy with [Barbed Arrow] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [바브드 애로우]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010850	* Increases the damage dealt on an enemy with [Barbed Arrow] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [바브드애로]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20180517_011695	Barbed Arrow: Aprimorar 2	바브드 애로우: 강화 2				
 SKILL_20180517_011696	* Enhances damage of [Barbed Arrow] to Fletcher Circle 2 standards	* [바브드 애로우] 대미지가 플레쳐 2서클 수준으로 강화	SKILL_20170313_008048	* Enhances damage of [Barbed Arrow] to Fletcher Circle 2 standards	* [바브드애로] 대미지가 플레쳐 2서클 수준으로 강화	
-SKILL_20180517_011697	Broadhead: Bleeding	브로드 헤드: 출혈	SKILL_20150317_002430	Broadhead: Bleeding	브로드헤드: 출혈	
+SKILL_20180517_011697	Broadhead: Bleeding	브로드 헤드: 출혈				 
 SKILL_20180517_011698	* Increases duration of [Bleeding] by 2 seconds per attribute level when an enemy is hit by [Broadhead]	* 스킬 [브로드 헤드]로 피격된 적 상태 [출혈]의 지속시간이 특성 레벨당 2초 증가	SKILL_20170313_008053	* Increases duration of [Bleeding] by 2 seconds per attribute level when an enemy is hit by [Broadhead]	* 스킬 [브로드헤드]로 피격된 적 상태 [출혈]의 지속시간이 특성 레벨당 2초 증가	
 SKILL_20180517_011699	Cannon Shot: Aprimorar	캐논 샷: 강화	SKILL_20151022_005470	Cannon Shot: Aprimorar	캐논샷: 강화	
 SKILL_20180517_011700	* Increases the damage dealt on an enemy with [Cannon Shot] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [캐논 샷]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20180320_010865	* Increases the damage dealt on an enemy with [Cannon Shot] by 0.5% per attribute level{nl}* +10% added damage at maximum level	* 적에게 입히는 [캐논샷]의 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
@@ -13702,7 +13702,7 @@ SKILL_20190104_013702	SP and STA amount at the start of the buff restored after 
 SKILL_20190104_013703	Damage Received From Magic Attacks Reduced	마법 공격에 대한 피해가 감소됨	SKILL_20171128_009870	Dispel Magic Attack	마법 공격 무효화	
 SKILL_20190104_013704	Physical and Magic Critical Damage Increase	물리, 마법 치명타 대미지 증가	SKILL_20150317_001890	The defend enemy attack.	적의 공격을 방어.	
 SKILL_20190104_013705	Additional Holy Attack	신성 속성 추가타	SKILL_20151224_005948	Aspergillum	아스페르길름	
-SKILL_20190104_013706	Immune to knockback and knockdown. Damage received while casting reduced.	넉백, 넉다운 면역. 캐스팅 중 피격 시 받는 피해 감소	SKILL_20171128_009887	Immune to Knockback and Knockdown	넉백, 넉다운 면역 상태	
+SKILL_20190104_013706	Immune to knockback and knockdown. Damage received while casting reduced.	넉백, 넉다운 면역. 캐스팅 중 피격 시 받는 피해 감소				 
 SKILL_20190104_013707	Reduced Field of Vision	시야가 방해 받음	SKILL_20150317_001632	Field of vision interfered.	시야를 방해 받음.	
 SKILL_20190104_013708	Confused, Decreased Physical Defense and Physical Attack	혼란 상태에 빠지며, 물리 방어력이 감소하고 물리 공격력이 증가	SKILL_20160718_006395	In a state of confusion. Reduced physical defense while physical attack is increased.	혼란 상태에 빠지며, 물리 방어력이 감소하고 물리 공격력이 증가.	
 SKILL_20190104_013709	Silenced, unable to perform basic attacks and use skills.	침묵 상태가 되어 기본 공격과 스킬 사용이 불가능해집니다.	SKILL_20180629_011918	Wizard and Cleric tree characters silenced and unable to perform basic attacks and skills.	마법사 계열과 성직자 계열은 침묵 상태가 되어 기본 공격과 스킬 사용이 불가능해집니다.	
@@ -15144,3 +15144,4 @@ SKILL_20190223_015144	Electric Shock Nv 1 ou mais
 SKILL_20190223_015145	Raise Skull Archer Nv 1 ou mais
 SKILL_20190309_015146	* Aumenta o peso máximo do inventário do personagem em 20 por nível do atributo
 SKILL_20190309_015147	* Aumenta o Multiplicador de [Rune of Rock] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo.
+SKILL_20190319_015148	Taxa de Crítico adicional aplicada para magias do elemento Fogo
