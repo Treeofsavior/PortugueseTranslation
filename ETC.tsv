@@ -1908,7 +1908,7 @@ ETC_20150317_001907	EXP
 ETC_20150317_001908	(Attack Resistance)
 ETC_20150317_001909	Requires a record in the Diário de Aventura. Press the A key to update whilst sitting.
 ETC_20150317_001910	You can now use the [{Auto_1}] title.
-ETC_20150317_001911	Attributes
+ETC_20150317_001911	Atributos
 ETC_20150317_001912	{@st59}Clique para mais informações{/}
 ETC_20150317_001913	O próximo nível de habilidade requer que avançe para a mesma classe.
 ETC_20150317_001914	Use 1 Ponto para aumentar o nível da Habilidade.
@@ -19723,7 +19723,7 @@ ETC_20151224_019717	Shield Charge
 ETC_20151224_019718	You lack a shield.
 ETC_20151224_019719	A field boss will appear shortly.
 ETC_20151224_019720	You cannot move to the guild member's instanced dungeon or mission.
-ETC_20151224_019721	Increased guild EXP points.
+ETC_20151224_019721	Aumentou os pontos de Experiência da Guilda!
 ETC_20151224_019722	Item registrado com êxito.{nl}Aguarde 30 minutos a 2 horas para os itens, excluindo Tokens, serem exibidos no Mercado.
 ETC_20151224_019723	{Price} silver is required for the registration fee. The buff will disappear when you register this to the Market. Do you want to register it?
 ETC_20151224_019724	You cannot purchase items registered to the same account.
@@ -24056,7 +24056,7 @@ ETC_20160811_024050	Não é possível salvar o mapa atual.
 ETC_20160811_024051	You do not have the required attribute.
 ETC_20160811_024052	You have already consumed this food. Please try again after a while.
 ETC_20160811_024053	You cannot save the current position.
-ETC_20160811_024054	Guild Name
+ETC_20160811_024054	Nome da Guilda
 ETC_20160811_024055	Enhanced EXP Tome [Evento]
 ETC_20160811_024056	You cannot use the item as you already have the same buff.
 ETC_20160811_024057	Your account is locked.
@@ -31846,7 +31846,7 @@ ETC_20180320_031814	Silver spent per star when removing legend cards
 ETC_20180320_031815	 When left on 1, it applies the time of imc's Namespace local system. Can be changed in the script.
 ETC_20180320_031816	NGS Version 4.0
 ETC_20180320_031817	Weekly instanced dungeon reset day. 1 (Sunday) - 7 (Saturday)
-ETC_20180320_031818	Tormenta is surrounded by an ominous aura.
+ETC_20180320_031818	Tormenta está cercado de uma aura sinistra.
 ETC_20180320_031819	Magic Shield Skill Lv +1
 ETC_20180320_031820	Storm Dust Skill Lv +1
 ETC_20180320_031821	Quick and Dead Skill Lv +1
@@ -31912,7 +31912,7 @@ ETC_20180320_031880	Tenho algumas páginas para você.
 ETC_20180320_031881	Woof! Woof!
 ETC_20180320_031882	You have found all the items in this area.{nl}Move to another area and find more collection items there.
 ETC_20180320_031883	Failed to create {TYPE}. Please try again later.
-ETC_20180320_031884	Próximo nv. da guilda
+ETC_20180320_031884	Próximo Nv. da Guilda
 ETC_20180320_031885	Área da Missão da Guilda
 ETC_20180320_031886	Chefes de Guilda
 ETC_20180320_031887	Missão da Guilda{nl}Gostaria de iniciar {nl}{GuildEvent}?
@@ -33052,11 +33052,11 @@ ETC_20180517_033016	Server connection unstable.
 ETC_20180517_033017	Server authentication failed.
 ETC_20180517_033018	User authentication failed.
 ETC_20180517_033019	Unknown error.
-ETC_20180517_033020	Your team doesn't have the required authority.
+ETC_20180517_033020	Você não possui a autoridade necessária.
 ETC_20180517_033021	Cannot use during a war.
 ETC_20180517_033022	Cannot use during a ceasefire.
 ETC_20180517_033023	Cannot use; there are still guild members left.
-ETC_20180517_033024	No teams.
+ETC_20180517_033024	Time não encontrado.
 ETC_20180517_033025	Limit exceeded.
 ETC_20180517_033026	Cannot change period.
 ETC_20180517_033027	Cannot be used with your current authorities.
@@ -37730,7 +37730,7 @@ ETC_20190104_037644	You currently cannot use the Shared Guild Storage.	길드 �
 ETC_20190104_037645	Your Guild level is not high enough.	길드 레벨이 부족합니다.			
 ETC_20190104_037646	You cannot start a new guild while a GTW session is being held.	길드 콜로니전이 진행중인 시간에는 길드를 개설할 수 없습니다.			
 ETC_20190104_037647	You must complete 12 guild quests first.	길드 퀘스트를 12회 이상 완료하셔야 합니다.			
-ETC_20190104_037648	There are no online Guild members with the authority to accept applications. 	가입 승인 직급이 있는 접속한 길드원이 없습니다. 			
+ETC_20190104_037648	Não há membros da Guilda online no momento que possuem autoridade para aceitar pedidos.
 ETC_20190104_037649	Your Trade Grade is not sufficient to use the Shared Guild Storage.	개인 거래 등급이 낮아 길드 공용 창고를 이용할 수 없습니다.			
 ETC_20190104_037650	This item cannot be stored in the Shared Guild Storage.	길드 공용 창고를 이용할 수 없는 아이템 입니다.			
 ETC_20190104_037651	A new Guild application has arrived.	가입 요청이 들어왔습니다.			

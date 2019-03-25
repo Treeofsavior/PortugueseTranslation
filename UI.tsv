@@ -2043,7 +2043,7 @@ UI_20151224_002041	Recorde de Guerras
 UI_20151224_002042	Lista de Guerra
 UI_20151224_002043	Tempo Restante
 UI_20151224_002044	Torre Disponível
-UI_20151224_002045	Upgrade Guild
+UI_20151224_002045	Fazer Doação
 UI_20151224_002046	Rank de Contribuição
 UI_20151224_002047	Guilda: Skills & Informação
 UI_20151224_002048	{@st42}%s Benefícios{/}
@@ -2197,7 +2197,7 @@ UI_20160520_002195	Declarar Neutro
 UI_20160603_002196	{@st66b}Velocidade de mira de skills (%s){/}
 UI_20160613_002197	{@st42}If both parties are using Tokens,{nl}tradable equipment items will not become untradable.{nl}{#FFFF00}Consumables and material items will become{nl}untradable regardless of Token use.{/}
 UI_20160617_002198	{@st59}Fechar{/}
-UI_20160617_002199	{@st43}{s22}Team Level %s{/}
+UI_20160617_002199	{@st43}{s22}Nv. Time %s{/}
 UI_20160622_002200	{@st41}Reportar{/}
 UI_20160622_002201	Denunciar um item suspeito de ser usado em um comércio estranho.
 UI_20160711_002202	{@st42}Item{/}
@@ -3118,10 +3118,10 @@ UI_20180517_003117	{@st43}Intro
 UI_20180517_003118	{s18}Nome{/}
 UI_20180517_003119	{s18}Guilda
 UI_20180517_003120	{@s18}Mestre{/}
-UI_20180517_003121	{@s18}Fundada{/}
-UI_20180517_003122	{@s18}Nível da Guild{/}
-UI_20180517_003123	{@s18}Status{/}
-UI_20180517_003124	{@s18}Recrutamento{/}
+UI_20180517_003121	{@s18}Fundação{/}
+UI_20180517_003122	{@s18}Nível da Guilda{/}
+UI_20180517_003123	{@s18}Situação{/}
+UI_20180517_003124	{@s18}Recrutando{/}
 UI_20180517_003125	{@st41}Pedidos
 UI_20180517_003126	{@s18}Membros{/}
 UI_20180517_003127	{@s18}Nível Médio{/}
@@ -3396,7 +3396,7 @@ UI_20180827_003395	Dano Causado	가한 피해
 UI_20180827_003396	Uso de Skill
 UI_20180827_003397	Morte/respawn	사망/부활			
 UI_20180827_003398	Morte do Grupo/respawn	파티원의 사망/부활			
-UI_20180827_003399	Max. nível de personagem	최고 캐릭터 레벨			
+UI_20180827_003399	Nível mais alto
 UI_20180827_003400	{@st59}Solicite novamente os dados do slot rápido.{/}	{@st59}퀵슬롯 정보를 다시 요청합니다.{/}			
 UI_20180827_003401	{@st66b18}Receber	{@st66b18}완료			
 UI_20180827_003402	{@st66b18}Vender	{@st66b18}판매			
@@ -3691,11 +3691,11 @@ UI_20190104_003690	{@st41d}1 mês
 UI_20190104_003691	{@st41d}2 meses       
 UI_20190104_003692	{@st41d}3 meses       
 UI_20190104_003693	ⓘ Cada depósito/retirada equivale a 20 milhas.{nl}ⓘ A milhagem é acumulada quando membros da guilda conectam, além de participar de missões de guilda e GTW.
-UI_20190104_003694	Check online members with authority to accept applications	가입 승인 직급이 있는 접속한 길드원 표시			
-UI_20190104_003695	Show recruiting guilds only	가입 가능한 길드만 보기			
+UI_20190104_003694	Marcar membros online com autoridade para aceitar pedidos
+UI_20190104_003695	Exibir somente Guildas recrutando
 UI_20190104_003696	Pular animação do cubo
 UI_20190104_003697	{@st43}{s20}Team Use{/}	{@st43}{s20}팀 이용 현황{/}			
-UI_20190104_003698	Ranking	랭킹 정보			
+UI_20190104_003698	Rank
 UI_20190104_003699	{@st43}Notícias{/}
 UI_20190104_003700	{@st59}Selos{/}
 UI_20190104_003701	{@st41b}Custo para Desmanchar{/}%s
