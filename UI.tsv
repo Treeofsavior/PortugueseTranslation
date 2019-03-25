@@ -2981,9 +2981,9 @@ UI_20180115_002980	{@st66b}{s16}*Itens permanecem trocáveis apenas se possuir N
 UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}Sem trocas disponíveis{/}{@st66b} siginifica que {/} {@st66d_y}todos os itens{nl}não poderão ser comercializados ou depositados no Armazém{/}{@st66b}.{/}{/}
 UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Tokens de evento não possuem n° de trocas.{nl}{/} {@st66b}Certifique-se de verificar a contagem antes da negociação.{/}{/}
 UI_20180115_002983	{@st66d_y}Itens ficarão introcáveis{/}
-UI_20180115_002984	{@st42}Todos os itens permanecerão trocáveis (Troca YES, Armazém YES){/}
-UI_20180115_002985	{@st66d}Os seguintes itens ficarão{nl}  {@st66d_y}introcáveis (Troca {img quest_giveup_btn 25 25}, Armazém {img quest_giveup_btn 25 25}){/}.{/}
-UI_20180115_002986	{@st42}Items Não-Trocáveis(Troca {img quest_giveup_btn 25 25}, Armazém {img quest_giveup_btn 25 25}){/}
+UI_20180115_002984	{@st42}Itens ficam trocáveis, Armazém permitido
+UI_20180115_002985	{@st66d}Itens ficarão{nl}  {@st66d_y}introcáveis (nem pelo Armazém){/}.{/}
+UI_20180115_002986	{@st42}Itens Introcáveis (Troca NÃO, Armazém NÃO){/}
 UI_20180208_002987	{@st59}Fechar{/}
 UI_20180208_002988	Item Adquirido
 UI_20180208_002989	Servidor: {@st40}
@@ -3659,10 +3659,10 @@ UI_20190104_003658	Register HP potions to consume with the Sprinkle HP Potion sk
 UI_20190104_003659	Register SP potions to consume with the Sprinkle SP Potion skill.	스프링클 SP 포션 스킬 사용시 소모될 SP 포션을 등록해주세요.			
 UI_20190104_003660	{@st63}Receive the reward and leave.{/}	{@st63}보상을 획득하고 퇴장합니다.{/}			
 UI_20190104_003661	{@st63}Move to the next floor{/}	{@st63}다음층으로 이동{/}			
-UI_20190104_003662	{@st66b}{s16}* Items will remain tradable after being traded{nl}only if they possess no current trade restrictions.{/}{/}	{@st66b}{s16}*무제한 거래 가능 상태 이어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	UI_20180115_002980	{@st66b}{s16}*Items remain tradable only when there are trades left.{/}{/}	{@st66b}{s16}*잔여 거래 가능 횟수가 있어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}
-UI_20190104_003663	{s16}{@st66b}*{/}{@st66d_y}Trade Restrictions{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}무제한 거래 불가{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}	UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}No Trades Left{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}거래 가능 횟수 0{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}
-UI_20190104_003664	{s16}{@st66b}*{/}{@st66d_y}Event Tokens do not lift trading restrictions.{nl}{/} {@st66b}Please take note.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰으로는 무제한 거래 상태가 될 수 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}	UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Event Tokens offer 0 trade counts.{nl}{/} {@st66b}Make sure to check the count before trading.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰에는 거래 가능 횟수가 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}
-UI_20190104_003665	{@st66d}The items below will be{nl}  {@st66d_y}character-bound.{nl}Team Storage NO, Personal Trade NO, Market NO{/}	{@st66d}아래 아이템은{nl}  {@st66d_y}캐릭터에게 귀속됩니다.{nl}팀 창고 이동, 개인 및 마켓 거래 불가{/}	UI_20180115_002985	{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}
+UI_20190104_003662	{@st66b}{s16}* Itens permancerão trocáveis após a troca{nl}somente se já NÃO possuírem alguma restrição.{/}{/}
+UI_20190104_003663	{s16}{@st66b}*{/}{@st66d_y}Restrição de Troca{/}{@st66b} significa que {/} {@st66d_y}itens trocados{nl}NÃO poderão mais ser trocados ou colocados no Armazém.{/}{@st66b}.{/}{/}
+UI_20190104_003664	{s16}{@st66b}*{/}{@st66d_y}Token de Evento NÃO remove Restrição de Troca.{nl}{/} {@st66b}Por favor, preste atenção neste detalhe.{/}{/}
+UI_20190104_003665	{@st66d}Itens trocados ficarão{nl}  {@st66d_y}presos no personagem{nl}Armazém NÃO, Troca 1:1 NÃO, Mercado NÃO{/}
 UI_20190104_003666	Exchange Artifact	유물 교환			
 UI_20190104_003667	Token Benefits	토큰 혜택			
 UI_20190104_003668	{s18}Expiring soon.	{s18}곧 기간이 만료됩니다.	UI_20170330_002600	{s18}Items with Expiration Date	{s18}기간제 아이템 목록
