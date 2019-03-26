@@ -19256,7 +19256,7 @@ ETC_20151224_019250	 You should first close the shop that is open,{nl}with party
 ETC_20151224_019251	The quest failed since the refugees have died!{nl}This quest can not be restarted for 5 minutos
 ETC_20151224_019252	You failed to obtain useable materials!
 ETC_20151224_019253	Instead of usable materials, an Orange Dandel appeared!
-ETC_20151224_019254	Infrobirk was caught by the trap
+ETC_20151224_019254	Infroburk was caught by the trap
 ETC_20151224_019255	You've absorbed the Guardian's energy!
 ETC_20151224_019256	You've placed the signal flare trap!{nl}Wait until the demons get lured to it!
 ETC_20151224_019257	You've collected the Mochia Stems
@@ -21974,7 +21974,7 @@ ETC_20160613_021968	Minimum level required for trading
 ETC_20160613_021969	Cannot be redeemed by Family Sharing accounts.
 ETC_20160617_021970	Failed to read HTTP connection data.
 ETC_20160617_021971	Please insert the amount of Talt you wish to use.
-ETC_20160617_021972	Falha ao reencarnar. {nl} Este monstro não mais será reencarnado.
+ETC_20160617_021972	Falha ao reencarnar.{nl}Este monstro não pode mais reencarnar.
 ETC_20160617_021973	European
 ETC_20160617_021974	Braid Ponytail
 ETC_20160622_021975	Failed to obtain outer IP address.
@@ -33035,8 +33035,8 @@ ETC_20180517_032999	Exchanging
 ETC_20180517_033000	Crystal Mine Shop
 ETC_20180517_033001	Bring your Gemstones to the exchanger and trade them for points.
 ETC_20180517_033002	Insufficient Gemstones.{nl}You need at least 10.
-ETC_20180517_033003	Tem A lost {POINT} points.
-ETC_20180517_033004	Tem B lost {POINT} points.
+ETC_20180517_033003	Team A lost {POINT} points.
+ETC_20180517_033004	Team B lost {POINT} points.
 ETC_20180517_033005	Acquired {COUNT}!
 ETC_20180517_033006	Gemstone Feud começa em 30 minutos.
 ETC_20180517_033007	Gemstone Feud começa em 10 minutos.
@@ -37498,7 +37498,7 @@ ETC_20190104_037412	{value} seconds	{value}초
 ETC_20190104_037413	Use to reset {value} status points.	사용 시 {value}개의 스테이터스 포인트를 초기화 할 수 있습니다.			
 ETC_20190104_037414	You have no stat points to reset.	초기화 할 수 있는 스탯 포인트가 없습니다.			
 ETC_20190104_037415	You do not have enough vouchers.	소유중인 교환권이 부족합니다.			
-ETC_20190104_037416	[Premium] [10%] Discount off new items	[프리미엄]신규 상품 [10%]할인			
+ETC_20190104_037416	[Premium] New Items [10% OFF]	[프리미엄]신규 상품 [10%]할인				
 ETC_20190104_037417	Restricted from trading via Market	마켓 거래 불가			
 ETC_20190104_037418	{@st41b}{#0064FF}Title:{/}{/} 	{@st41b}{#0064FF}칭호 :{/}{/} 	ETC_20150317_001957	{@st41b} Title {/}	{@st41b}칭호 :{/} 
 ETC_20190104_037419	{@st59}Aumenta a cura, Ataque Crítico Mágico e dano de invocações{/}
@@ -40894,7 +40894,7 @@ ETC_20190223_040808	Raid de Hangout da Guilda
 ETC_20190223_040809	Você pode participar de uma Raid de Hangout da Guilda quando o Nível da Guilda alcançar o nível 5.
 ETC_20190223_040810	A Raid de Hangout da Guilda acontece no Hangout da sua Guilda.{nl}Requer que a Guilda esteja no nível 5 para que possa ser iniciada.{nl}Interaja com a Sage Emissária no Hangout da sua Guilda para iniciar a Raid.
 ETC_20190223_040811	{nl} {nl}Para iniciar uma Raid de Hangout da Guilda, você precisa ser o Líder da Guilda ou ter a autoridade para isso.{nl}A dificuldade será ajustada quando a Guilda alcançar o nível 6.
-ETC_20190223_040812	Níveis maiores de dificuldade serão liberados conforme o Nível da Guilda aumenta, atingindo no máximo o nível 15 de dificuldade.
+ETC_20190223_040812	Níveis maiores de dificuldade serão liberados conforme o Nível da Guilda aumenta, atingindo no máximo o nível 11 de dificuldade quando a Guilda alcança no Nível 15.
 ETC_20190223_040813	{nl} {nl}Somente membros da Guilda podem participar das Raids, e ela pode ser continuada ao derrotar o monstro Chefe.
 ETC_20190223_040814	Você pode invocar um novo monstro Chefe após derrotar o atual. Se a Raid for interrompida por qualquer motivo, você pode reiniciar de onde parou, com o HP do Chefe da forma que estava quando parou.{nl} {nl}Membros da Guilda que voltaram depois de terem saído não poderão participar destas Raids por 14 dias.{nl}Membros de outras Guildas não poderão participar das Raids da sua Guilda.
 ETC_20190223_040815	{nl} {nl}Participantes recebem 1 ponto de contribuição por 10.000 de dano causado no monstro Chefe.{nl}Os pontos de contribuição serão somados e convertidos em Silver toda Segunda-feira, às 6AM, pela Sage Emissária.
@@ -40998,7 +40998,7 @@ ETC_20190223_040912	O Mestre retornou!
 ETC_20190223_040913	Todos os guardiões, saúdem o Mestre!
 ETC_20190223_040914	Seus patetas preguiçosos!
 ETC_20190223_040915	Portal para a Guardian's Antechambers está aberto.{nl}Permanecerá aberto pelos próximos 30 minutos.
-ETC_20190223_040916	{@st42}{s16}Comparecimento
+ETC_20190223_040916	{@st42}{s16}Check
 ETC_20190223_040917	Vou participar.
 ETC_20190223_040918	Obrigado pela cooperação. Por favor, tenha cuidado.
 ETC_20190223_040919	O Chefe de Raid irá aparecer no Hangout da Guilda.
@@ -41071,3 +41071,23 @@ ETC_20190309_040985	Entrada permitida somente durante os seguintes horários:{nl
 ETC_20190309_040986	Entrada do Gemstone Feud
 ETC_20190316_040987	GM's Astro Ambition Costume Selection Box
 ETC_20190316_040988	Use para escolher um dos seguintes itens: {nl} - GM's Astro Ambition Costume (M) x1{nl} - GM's Astro Ambition Costume (F) x1
+ETC_20190322_040989	Doll (Fairy)	인형(구 페어리)				
+ETC_20190322_040990	Class tree change error.	계열 변경 관련 에러				      
+ETC_20190322_040991	Mystic Savior School Uniform Selection Box	미스틱 세이비어 견습생 교복 선택상자				
+ETC_20190322_040992	Use to select one of the following items.{nl} - Mystic Savior School Uniform (M) x1{nl} - Mystic Savior School Uniform (F) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 미스틱 세이비어 견습생 교복 (남) 1개{nl} - 미스틱 세이비어 견습생 교복 (여) 1개				
+ETC_20190322_040993	Mystic Savior - Diamond Selection Box	미스틱 세이비어 - 다이아 선택상자				
+ETC_20190322_040994	Use to select one of the following items.{nl} - Mystic Boy - Diamond (M) x1{nl} - Mystic Girl - Diamond (F) x1{nl} - Mystic Girl - Diamond (M) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 미스틱 세이비어 - 다이아 (남) 1개{nl} - 미스틱 세이비어 - 다이아 (여) 1개{nl} - 미스틱 세이비어 - 다이아 (남→여) 1개				      
+ETC_20190322_040995	Mystic Savior - Heart Selection Box	미스틱 세이비어 - 하트 선택상자				
+ETC_20190322_040996	Will increase attribute points by 5. Right-click to use. 	사용시 특성 포인트가 5 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				      
+ETC_20190322_040997	Magic Circle: Heart	변신 마법진: 하트				      
+ETC_20190322_040998	Magic Circle: Diamond	변신 마법진: 다이아				      
+ETC_20190322_040999	[Event] Oh, oh! What is it?	[이벤트]무엇을 준비했는지 물어본다				
+ETC_20190322_041000	Receive [Event] Fishing Bonfire (1 Day)	[이벤트]낚시 모닥불(1일) 받기				
+ETC_20190322_041001	Receive [Event] Paste Bait (1 Day)	[이벤트]보급형 떡밥(1일) 받기				
+ETC_20190322_041002	Receive daily batch of [Event] Joha's Mudfish	[이벤트]미꾸라지 지원 받기				
+ETC_20190322_041003	Purchase [Event] Joha's Mudfish	[이벤트]요하가 기른 미꾸라지 구입				      
+ETC_20190322_041004	Shining through the darkness! Mystic Savior Diamoooond---!!	눈부신 반짝임을 담아! 미스틱 세이비어 다이아!				
+ETC_20190322_041005	For courage and justice! Mystic Savior Heaaaaart---!!	정열의 마음을 담아! 미스틱 세이비어 하트!				
+ETC_20190322_041006	{s24}Congratulations!{nl}{PC} found {ITEMNAME} in a Hidden Treasure Chest!	{s24}축하드립니다!{nl}{PC} 님이 [이벤트]연못에 숨겨진 보물 상자에서{nl}{ITEMNAME} 를 획득하셨습니다!				
+ETC_20190322_041007	Obtained [Event] Joha's Mudfish.	[이벤트]요하가 기른 미꾸라지를 획득했습니다				
+ETC_20190326_041008	April Attendance Rewards	4월 출석 보상				      

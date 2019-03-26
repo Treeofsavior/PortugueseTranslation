@@ -3616,7 +3616,7 @@ ITEM_20150317_003615	A rubbing of the Fourth Lydia Schaffen Monument
 ITEM_20150317_003616	Fifth Rubbing
 ITEM_20150317_003617	A rubbing of the Fifth Lydia Schaffen Monument
 ITEM_20150317_003618	Arrow Bundle
-ITEM_20150317_003619	An Arrow Bundle that Hunter Talas requested to be fire hardened in order to be used against Infrobirks.
+ITEM_20150317_003619	An Arrow Bundle that Hunter Talas requested to be fire hardened in order to be used against Infroburks.
 ITEM_20150317_003620	Experimental Ingredients
 ITEM_20150317_003621	Experimental materials requested by necromancer Drashus. Take it to Drashus.
 ITEM_20150317_003622	Waterweed
@@ -21310,7 +21310,7 @@ ITEM_20190104_021294	Contains a gift from Demon Goddess Giltine{nl}Will be autom
 ITEM_20190104_021295	Kedora Merchant Alliance Support Selection Box (Lv. 40 weapon and shield)	케도라 상단의 지원 선택상자 (40레벨 무기, 방패)				
 ITEM_20190104_021296	Select a Kedora Merchant Alliance support equipment you want to receive from the list.{nl}Will be automatically deleted at the end of the event period.	사용 시 케도라 상단의 지원품 중 원하시는 장비가 지급됩니다.				
 ITEM_20190104_021297	Kedora Merchant Alliance Support Selection Box (Lv. 40 armor)	케도라 상단의 지원 선택상자 (40레벨 방어구)				
-ITEM_20190104_021298	Kedora Merchant Alliance Support Selection Box (Lv. 40 weapon and shield)	케도라 상단의 지원 선택상자 (75레벨 무기, 방패)				
+ITEM_20190104_021298	Kedora Merchant Alliance Support Selection Box (Lv. 75 weapon and shield)	케도라 상단의 지원 선택상자 (75레벨 무기, 방패)				
 ITEM_20190104_021299	Kedora Merchant Alliance Support Selection Box (Lv. 75 armor)	케도라 상단의 지원 선택상자 (75레벨 방어구)				
 ITEM_20190104_021300	Kedora Merchant Alliance Support Selection Box (Lv. 120 weapon and shield)	케도라 상단의 지원 선택상자 (120레벨 무기, 방패)				
 ITEM_20190104_021301	Kedora Merchant Alliance Support Selection Box (Lv. 120 armor)	케도라 상단의 지원 선택상자 (120레벨 방어구)				
@@ -21620,3 +21620,48 @@ ITEM_20190316_021604	Viaje pelas estrelas com essa clássica roupa espacial bran
 ITEM_20190316_021605	GM's Astro Ambition Costume (F)
 ITEM_20190316_021606	Baby Chick
 ITEM_20190316_021607	Este pequenino filhote de galinha parece que fez um ninho na sua cabeça! Mas cuidado, pois pode acabar ficando pesado quando virar uma galinha...{nl}Pode ser trocado por Medalhas na Exchange Shop.
+ITEM_20190322_021608	Mystic Savior School Uniform (M)	미스틱 세이비어 견습생 교복 (남)				
+ITEM_20190322_021609	The uniform worn by all the wannabe Mystic Saviors.{nl}Use to change your appearance.{nl}Can be exchanged for medals at the Recycle Shop.	미스틱 세이비어를 동경하는 견습생의 교복입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20190322_021610	Mystic Savior School Uniform (F)	미스틱 세이비어 견습생 교복 (여)				
+ITEM_20190322_021611	Mystic Boy - Diamond (M)	미스틱 세이비어 - 다이아 (남)				      
+ITEM_20190322_021612	You are the chosen Diamond Savior!{nl}Use to change your appearance. Allows you to use 	이세계의 구원자로 선택받은 미스틱 세이비어 - 다이아의 교복입니다.{nl}착용하면 외형이 변경 됩니다. 스킬을 통해 				
+ITEM_20190322_021613	.{nl}Can be exchanged for medals at the Exchange Shop.	이 가능합니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20190322_021614	Mystic Girl - Diamond (F)	미스틱 세이비어 - 다이아 (여)				      
+ITEM_20190322_021615	Mystic Boy - Heart (M)	미스틱 세이비어 - 하트 (남)				      
+ITEM_20190322_021616	You are the chosen Heart Savior!{nl}Use to change your appearance. Allows you to use 	이세계의 구원자로 선택받은 미스틱 세이비어 - 하트의 교복입니다.{nl}착용하면 외형이 변경 됩니다. 스킬을 통해 				
+ITEM_20190322_021617	Mystic Girl - Heart (F)	미스틱 세이비어 - 하트 (여)				      
+ITEM_20190322_021618	Mystic Girl - Diamond (M)	미스틱 세이비어 - 다이아 (남→여)				      
+ITEM_20190322_021619	You are the chosen Diamond Savior! The amazing Mystic Girl!{nl}Use to change your appearance. Allows you to use 	이세계의 구원자로 선택받은 미스틱 세이비어 - 다이아의 교복입니다. 왜인지 변신하면 다른 모습이 됩니다.{nl}착용하면 외형이 변경 됩니다. 스킬을 통해 				
+ITEM_20190322_021620	Mystic Girl - Heart (M)	미스틱 세이비어 - 하트 (남→여)				      
+ITEM_20190322_021621	You are the chosen Heart Savior! The amazing Mystic Girl!{nl}Use to change your appearance. Allows you to use 	이세계의 구원자로 선택받은 미스틱 세이비어 - 하트의 교복입니다. 왜인지 변신하면 다른 모습이 됩니다.{nl}착용하면 외형이 변경 됩니다. 스킬을 통해 				
+ITEM_20190322_021622	Mystic Boy Form Change - Heart (M)	미스틱 폼 체인지 - 하트 (남)				
+ITEM_20190322_021623	Transformation of Mystic Boy - Heart.{nl}This item is provided for preview purposes.	변신한 미스틱 세이비어 - 하트입니다.{nl}본 아이템은 미리보기 전용으로 제공됩니다.				
+ITEM_20190322_021624	Mystic Boy Form Change - Diamond (M)	미스틱 폼 체인지 - 다이아 (남)				
+ITEM_20190322_021625	Transformation of Mystic Boy - Diamond.{nl}This item is provided for preview purposes.	변신한 미스틱 세이비어 - 다이아입니다.{nl}본 아이템은 미리보기 전용으로 제공됩니다.				
+ITEM_20190322_021626	Mystic Girl Form Change - Heart (M)	미스틱 폼 체인지 - 하트 (남→여)				
+ITEM_20190322_021627	Transformation of Mystic Girl - Heart.{nl}This item is provided for preview purposes.	변신한 미스틱 세이비어 - 하트입니다. 어딘가 다른 모습입니다.{nl}본 아이템은 미리보기 전용으로 제공됩니다.				
+ITEM_20190322_021628	Mystic Girl Form Change - Diamond (M)	미스틱 폼 체인지 - 다이아 (남→여)				
+ITEM_20190322_021629	Transformation of Mystic Girl - Diamond.{nl}This item is provided for preview purposes.	변신한 미스틱 세이비어 - 다이아입니다. 어딘가 다른 모습입니다.{nl}본 아이템은 미리보기 전용으로 제공됩니다.				
+ITEM_20190322_021630	Mystic Girl Form Change - Heart (F)	미스틱 폼 체인지 - 하트 (여)				
+ITEM_20190322_021631	Mystic Girl Form Change - Diamond (F)	미스틱 폼 체인지 - 다이아 (여)				
+ITEM_20190322_021632	Mystic Savior - Heart Ribbon	미스틱 세이비어 - 하트의 리본				      
+ITEM_20190322_021633	Hair ribbon featuring one of the symbols of the Mystic Savior - the heart!{nl}Can be exchanged for Medals at the Exchange Shop.	미스틱 세이비어의 상징, 하트 브로치가 달린 미스틱 리본입니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.				      
+ITEM_20190322_021634	Mystic Savior - Diamond Ribbon	미스틱 세이비어 - 다이아의 리본				      
+ITEM_20190322_021635	Hair ribbon featuring one of the symbols of the Mystic Savior - the diamond!{nl}Can be exchanged for Medals at the Exchange Shop.	미스틱 세이비어의 상징, 다이아 브로치가 달린 미스틱 리본입니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.				
+ITEM_20190322_021636	Mystic Savior Staff	미스틱 세이비어 스태프				      
+ITEM_20190322_021637	Mystic Savior Rod	미스틱 세이비어 로드				      
+ITEM_20190322_021638	Mystic Savior Mace	미스틱 세이비어 메이스				      
+ITEM_20190322_021639	Mystic Savior Two-handed Mace	미스틱 세이비어 투 핸드 메이스				      
+ITEM_20190322_021640	Magic Circle - Heart	변신 마법진 - 하트				      
+ITEM_20190322_021641	Creates a Magic Savior - Heart magic circle effect under your feet.{nl}Can be exchanged for medals at the Exchange Shop.	미스틱 세이비어 - 하트의 문장인 하트 마법진 이펙트가 나타납니다.{nl}리사이클샵에서 메달로 교환 가능합니다.				      
+ITEM_20190322_021642	Magic Circle - Diamond	변신 마법진 - 다이아				      
+ITEM_20190322_021643	Creates a Magic Savior - Diamond magic circle effect under your feet.{nl}Can be exchanged for medals at the Exchange Shop.	미스틱 세이비어 - 다이아의 문장인 다이아 마법진 이펙트가 나타납니다.{nl}리사이클샵에서 메달로 교환 가능합니다.				      
+ITEM_20190322_021644	Right-click to obtain the following items.{nl} - GM's Astro Ambition Costume Selection Box x1{nl} - GM's Astro Ambition Helmet x1{nl} - Baby Chick x1	우 클릭하여 사용 시 아래의 아이템을 획득할 수 있습니다.{nl} - 폴라리스 우주 비행사 코스튬 선택상자 x1{nl} - 폴라리스 우주 비행사 헬멧 x1{nl} - 삐약삐약 병아리 x1				      
+ITEM_20190322_021645	[Event] Joha's Mudfish	[이벤트]요하가 기른 미꾸라지				      
+ITEM_20190322_021646	A special type of bait used for fishing. Gives you a chance of catching Hidden Treasure Chests, Silver Fish and Small Silver Fish when used as bait.{nl}Will be automatically 	낚시에 사용하는 특별한 미끼입니다. 미끼로 사용할 경우 [이벤트]연못에 숨겨진 보물 상자, 은빛 물고기, 작은 은빛 물고기를 각기 다른 확률로 획득 할 수 있습니다.{nl}사용하지 않은 [이벤트]요하가 기른 미꾸라지는 3/28(목) 점검 시, 				      
+ITEM_20190322_021647	deleted	특성 포인트 5(14일)				
+ITEM_20190322_021648	 at the end of the event period.   	 아이템으로 변경됩니다.   				
+ITEM_20190322_021649	[Event] Paste Bait (1 Day)	[이벤트]보급형 떡밥(1일)				      
+ITEM_20190322_021650	[Event] Fishing Bonfire (1 Day)	[이벤트]낚시 모닥불(1일)				      
+ITEM_20190322_021651	[Event] Hidden Treasure Chest	[이벤트]연못에 숨겨진 보물 상자				      
+ITEM_20190322_021652	Right-click to use and obtain one of the following items.{nl} - Attribute Points: 100 (14 Days) x2{nl} - Enchant Scroll (14 Days) x1{nl} - Enhancement Card: 500 (14 Days) x1{nl} - 5-Star Gem Abrasive (14 Days) x1{nl} - Premium Awakening Stone (14 Days) x1{nl} - Butler & Maid Costume Box (Black) x1{nl}Will be automatically deleted at the end of the event period.	마우스 우클릭으로 사용할 수 있습니다. 사용 시 상자의 내용물 중 하나를 획득할 수 있습니다.{nl} - 특성 포인트 100(14일) x2{nl} - 마법 부여 스크롤(14일) x1{nl} - 강화용 카드 : 500 (14일) x1{nl} - 5성 젬 연마제(14일) x1{nl} - 프리미엄 각성석(14일) x1{nl} - 버틀러와 메이드 코스튬 상자(블랙) x1{nl}3/28(목) 점검 시, 일괄 삭제됩니다.				
