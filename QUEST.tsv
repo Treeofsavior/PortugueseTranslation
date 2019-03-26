@@ -1967,7 +1967,7 @@ QUEST_20150428_001970	Muitos mágicos vieram destruir a barreira, mas não conse
 QUEST_20150428_001971	A todos aventureiros do reino, a Mage Tower oferece ouro àqueles que {nl}trouxerem de volta todos os fragmentos do espírito de Hauberk.
 QUEST_20150428_001972	A Ordem para Derrotar os Demônios
 QUEST_20150428_001973	E assim eu ordeno, em nome de Vakarine! {nl}Depois de Medzio Diena, eles não podem mais ser perdoados. {nl}Eles estão tentando expandir seus poderes penetrando na rachadura que foi criada na barreira.
-QUEST_20150428_001974	Todas Kupoles aqui derrotarão os Demon Lords Boolut, Nuaele e Baltrus, antes de mais nada. {nl}Os inimigos ficarão em pânico sem seus comandantes e serão facilmente derrotados.
+QUEST_20150428_001974	Todas Kupoles aqui derrotarão os Demon Lords Blut, Nuaele e Baltrus, antes de mais nada. {nl}Os inimigos ficarão em pânico sem seus comandantes e serão facilmente derrotados.
 QUEST_20150428_001975	Kupoles incapazes de atacar devem se concentrar em bloquear a rachadura. {nl}Não podemos permitir que mais demônios cheguem até os Lordes Demônio.
 QUEST_20150428_001976	Como devo viver daqui em diante? {nl}Deveria ter me mudado para Klaipeda.
 QUEST_20150428_001977	Já que você os colocou em seu inventário, pode lê-los a qualquer momento.
@@ -10436,9 +10436,9 @@ QUEST_20190104_010555	 por presentes. Há alguns com preço especial:{nl}15 de J
 QUEST_20190104_010556	[Teste Interno] Teleporte Boruta/Área GTW
 QUEST_20190104_010557	Disponibilizamos teleportes para a Raid Boruda e{nl}Áreas GTW como apoio à testes internos.{nl}Use 
 QUEST_20190104_010558	 para retornar.
-QUEST_20190104_010559	Ajudante do Aniversário 3 Anos
-QUEST_20190104_010560	É somente um por dia!{nl}Se perder alguma recompensa,{nl}volte para a recompensa de final de semana em dobro!{nl}
-QUEST_20190104_010561	, traga 30! Vou te dar uma recompensa bem legal em troca.
+QUEST_20190104_010559	{@st41}{#FF6700}Ajudante do Aniversário de 3 Anos{/}{/}
+QUEST_20190104_010560	Somente um prêmio é entregue por dia!{nl}Se perder algum, volte para a recompensa de final de semana em dobro!{nl}Traga 30 
+QUEST_20190104_010561	 para mim!{nl}Vou te dar uma recompensa bem legal em troca.
 QUEST_20190104_010562	Scouts são mestres em reconhecimento.
 QUEST_20190104_010563	Só que, Archon me tirou da Mage Tower.{nl}Por causa disso, a Magic Stone ativou uma magia defensiva,{nl}conectando os nossos espíritos.
 QUEST_20190104_010564	Estou presa aqui por centenas de anos...{nl}Afinal não consigo fazer nada com meu corpo astral.
@@ -10573,8 +10573,8 @@ QUEST_20190216_010692	Selecione um item para transcenter até o Estágio 5.
 QUEST_20190216_010693	Selecione um item para refinar até +11.
 QUEST_20190223_010694	O evento de Treinador de Monstros está de volta!{nl}Capture e treine seus monstros favoritos para derrotar os Chefes!{nl}
 QUEST_20190223_010695	Use a 'Armadilha Especial' para capturar até 3 monstros.{nl}{#003399}Dica!{/}{nl}Capture monstros em mapas comuns, Hunting Grounds e Modos Desafio.{nl}Você só não pode capturar monstros Elite ou Chefe.{nl}Quanto menor o HP, mais fácil de capturar! Só cuidado para não derrotá-los.
-QUEST_20190223_010696	Para poder {#003399}entrar na missão do evento{/},{nl}você precisa  
-UEST_20190223_010697	, que são entregues 12 todos os dias, por time.{nl}Você pode entrar na missão quantas vezes quiser.{nl}
+QUEST_20190223_010696	Para poder {#003399}entrar na missão do evento{/},{nl}você precisa de 
+QUEST_20190223_010697	, que são entregues 12 todos os dias, por time.{nl}Você pode entrar na missão quantas vezes quiser.{nl}
 QUEST_20190223_010698	Selecione um monstro para liberar.{nl}{#003399}Dica!{/}{nl}Você só pode liberar um monstro por vez,{nl}e isso consome Energia de Monstro x30.{nl}Quando capturar um novo, ele terá o mesmo nível daquele que você liberou.
 QUEST_20190223_010699	{@st41}{#FF6700}Ajudante dos Porquinhos Dourados{/}{/}
 QUEST_20190223_010700	Encontre a sua sorte em 2019 com os Porquinhos Dourados!
@@ -10637,3 +10637,16 @@ QUEST_20190223_010756	Você pode entrar durante os seguintes horários:{nl}21:10
 QUEST_20190223_010757	A entrada é permitida no horário programado. Os horários são:{nl}
 QUEST_20190313_010758	Classes válidas são:{nl}Base Swordman: Hackapell, Murmillo{nl}Base Wizard: Necromancer, Psychokino, Cryomancer{nl}Base Cleric: Druid, Monk, Plague Doctor{nl}Base Scout: todas, menos Thaumaturge
 QUEST_20190313_010759	Personagens da base Scout recebem {#0054FF}Skill Reset Potion (14 Dias) x1{/} e{nl}{#0054FF}Attribute Reset Potion (14 dias) x1{/} adicionais.
+QUEST_20190322_010760	Balde de Piramboias da Joha
+QUEST_20190322_010761	Por favor, escolha uma opção.
+QUEST_20190322_010762	E aí!{nl}Veio para mais uma rodada de pescaria?{nl}Ah, e eu tenho algo especial para você hoje.{nl}
+QUEST_20190322_010763	Olha só, são Piramboias!{nl}Eu mesmo que pesquei!
+QUEST_20190322_010764	Não está muito convencido, não?{nl}Ah, qual é! Experimenta usar uma vez só.{nl}
+QUEST_20190322_010765	Todo mundo anda muito interessado em pescar,{nl}os meus negócios estão indo muito bem"{nl}Haha, estou feliz de poder experimentar isso aqui.{nl}
+QUEST_20190322_010766	O que eu quero dizer é que...{nl}Você pode usar estas Piramboias como isca agora!{nl}
+QUEST_20190322_010767	Incrível, não acha?{nl}É, eu sei!{nl}
+QUEST_20190322_010768	Digo, elas não são de graça, é óbvio.{nl}Mas estou vendendo por um bom preço!{nl}
+QUEST_20190322_010769	Além disso, os efeitos dessa isca são bem especiais.{nl}Como que eu sei?... Segredo!{nl}De qualquer forma, vai lá, experimenta usar!{nl}
+QUEST_20190322_010770	Você pode pegar as Piramboias nesse balde aqui.
+QUEST_20190322_010771	Olá, como vai!{nl}Meu nome é Joha e eu administro a pesca aqui em Klaipeda.{nl}Eu também vendo todos os tipos de itens para pescaria.
+QUEST_20190322_010772	Se deseja experimentar,{nl}você tem que usar minha isca especial durante o evento.{nl}Só pegar algumas no balde, logo ali!

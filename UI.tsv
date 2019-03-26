@@ -2043,7 +2043,7 @@ UI_20151224_002041	Recorde de Guerras
 UI_20151224_002042	Lista de Guerra
 UI_20151224_002043	Tempo Restante
 UI_20151224_002044	Torre Disponível
-UI_20151224_002045	Upgrade Guild
+UI_20151224_002045	Fazer Doação
 UI_20151224_002046	Rank de Contribuição
 UI_20151224_002047	Guilda: Skills & Informação
 UI_20151224_002048	{@st42}%s Benefícios{/}
@@ -2197,7 +2197,7 @@ UI_20160520_002195	Declarar Neutro
 UI_20160603_002196	{@st66b}Velocidade de mira de skills (%s){/}
 UI_20160613_002197	{@st42}If both parties are using Tokens,{nl}tradable equipment items will not become untradable.{nl}{#FFFF00}Consumables and material items will become{nl}untradable regardless of Token use.{/}
 UI_20160617_002198	{@st59}Fechar{/}
-UI_20160617_002199	{@st43}{s22}Team Level %s{/}
+UI_20160617_002199	{@st43}{s22}Nv. Time %s{/}
 UI_20160622_002200	{@st41}Reportar{/}
 UI_20160622_002201	Denunciar um item suspeito de ser usado em um comércio estranho.
 UI_20160711_002202	{@st42}Item{/}
@@ -2981,9 +2981,9 @@ UI_20180115_002980	{@st66b}{s16}*Itens permanecem trocáveis apenas se possuir N
 UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}Sem trocas disponíveis{/}{@st66b} siginifica que {/} {@st66d_y}todos os itens{nl}não poderão ser comercializados ou depositados no Armazém{/}{@st66b}.{/}{/}
 UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Tokens de evento não possuem n° de trocas.{nl}{/} {@st66b}Certifique-se de verificar a contagem antes da negociação.{/}{/}
 UI_20180115_002983	{@st66d_y}Itens ficarão introcáveis{/}
-UI_20180115_002984	{@st42}Todos os itens permanecerão trocáveis (Troca YES, Armazém YES){/}
-UI_20180115_002985	{@st66d}Os seguintes itens ficarão{nl}  {@st66d_y}introcáveis (Troca {img quest_giveup_btn 25 25}, Armazém {img quest_giveup_btn 25 25}){/}.{/}
-UI_20180115_002986	{@st42}Items Não-Trocáveis(Troca {img quest_giveup_btn 25 25}, Armazém {img quest_giveup_btn 25 25}){/}
+UI_20180115_002984	{@st42}Itens ficam trocáveis, Armazém permitido
+UI_20180115_002985	{@st66d}Itens ficarão{nl}  {@st66d_y}introcáveis (nem pelo Armazém){/}.{/}
+UI_20180115_002986	{@st42}Itens Introcáveis (Troca NÃO, Armazém NÃO){/}
 UI_20180208_002987	{@st59}Fechar{/}
 UI_20180208_002988	Item Adquirido
 UI_20180208_002989	Servidor: {@st40}
@@ -3118,10 +3118,10 @@ UI_20180517_003117	{@st43}Intro
 UI_20180517_003118	{s18}Nome{/}
 UI_20180517_003119	{s18}Guilda
 UI_20180517_003120	{@s18}Mestre{/}
-UI_20180517_003121	{@s18}Fundada{/}
-UI_20180517_003122	{@s18}Nível da Guild{/}
-UI_20180517_003123	{@s18}Status{/}
-UI_20180517_003124	{@s18}Recrutamento{/}
+UI_20180517_003121	{@s18}Fundação{/}
+UI_20180517_003122	{@s18}Nível da Guilda{/}
+UI_20180517_003123	{@s18}Situação{/}
+UI_20180517_003124	{@s18}Recrutando{/}
 UI_20180517_003125	{@st41}Pedidos
 UI_20180517_003126	{@s18}Membros{/}
 UI_20180517_003127	{@s18}Nível Médio{/}
@@ -3396,7 +3396,7 @@ UI_20180827_003395	Dano Causado	가한 피해
 UI_20180827_003396	Uso de Skill
 UI_20180827_003397	Morte/respawn	사망/부활			
 UI_20180827_003398	Morte do Grupo/respawn	파티원의 사망/부활			
-UI_20180827_003399	Max. nível de personagem	최고 캐릭터 레벨			
+UI_20180827_003399	Nível mais alto
 UI_20180827_003400	{@st59}Solicite novamente os dados do slot rápido.{/}	{@st59}퀵슬롯 정보를 다시 요청합니다.{/}			
 UI_20180827_003401	{@st66b18}Receber	{@st66b18}완료			
 UI_20180827_003402	{@st66b18}Vender	{@st66b18}판매			
@@ -3592,7 +3592,7 @@ UI_20190104_003591	{@st66b}Extrair
 UI_20190104_003592	Collection Effects	컬렉션 효과			
 UI_20190104_003593	{@st59}Scout Tree{/}	{@st59}스카우트 계열{/}			
 UI_20190104_003594	{@st41b}Identification Cost{/} %s	{@st41b}감정 비용{/}%s			
-UI_20190104_003595	{@st59}Doll{/}	{@st59}인형{/}			
+UI_20190104_003595	{@st59}Boneca{/}
 UI_20190104_003596	{img silver 20 20}Price %s	{img silver 20 20}가격 %s			
 UI_20190104_003597	{@st44}Lista de Classes{/}
 UI_20190104_003598	{@st43}Informação das Classes Atuais
@@ -3659,10 +3659,10 @@ UI_20190104_003658	Register HP potions to consume with the Sprinkle HP Potion sk
 UI_20190104_003659	Register SP potions to consume with the Sprinkle SP Potion skill.	스프링클 SP 포션 스킬 사용시 소모될 SP 포션을 등록해주세요.			
 UI_20190104_003660	{@st63}Receive the reward and leave.{/}	{@st63}보상을 획득하고 퇴장합니다.{/}			
 UI_20190104_003661	{@st63}Move to the next floor{/}	{@st63}다음층으로 이동{/}			
-UI_20190104_003662	{@st66b}{s16}* Items will remain tradable after being traded{nl}only if they possess no current trade restrictions.{/}{/}	{@st66b}{s16}*무제한 거래 가능 상태 이어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	UI_20180115_002980	{@st66b}{s16}*Items remain tradable only when there are trades left.{/}{/}	{@st66b}{s16}*잔여 거래 가능 횟수가 있어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}
-UI_20190104_003663	{s16}{@st66b}*{/}{@st66d_y}Trade Restrictions{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}무제한 거래 불가{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}	UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}No Trades Left{/}{@st66b} means that {/} {@st66d_y}all items traded{nl}can no longer be traded or transferred via Team Storage{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}거래 가능 횟수 0{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}
-UI_20190104_003664	{s16}{@st66b}*{/}{@st66d_y}Event Tokens do not lift trading restrictions.{nl}{/} {@st66b}Please take note.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰으로는 무제한 거래 상태가 될 수 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}	UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Event Tokens offer 0 trade counts.{nl}{/} {@st66b}Make sure to check the count before trading.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰에는 거래 가능 횟수가 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}
-UI_20190104_003665	{@st66d}The items below will be{nl}  {@st66d_y}character-bound.{nl}Team Storage NO, Personal Trade NO, Market NO{/}	{@st66d}아래 아이템은{nl}  {@st66d_y}캐릭터에게 귀속됩니다.{nl}팀 창고 이동, 개인 및 마켓 거래 불가{/}	UI_20180115_002985	{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}
+UI_20190104_003662	{@st66b}{s16}* Itens permancerão trocáveis após a troca{nl}somente se já NÃO possuírem alguma restrição.{/}{/}
+UI_20190104_003663	{s16}{@st66b}*{/}{@st66d_y}Restrição de Troca{/}{@st66b} significa que {/} {@st66d_y}itens trocados{nl}NÃO poderão mais ser trocados ou colocados no Armazém.{/}{@st66b}.{/}{/}
+UI_20190104_003664	{s16}{@st66b}*{/}{@st66d_y}Token de Evento NÃO remove Restrição de Troca.{nl}{/} {@st66b}Por favor, preste atenção neste detalhe.{/}{/}
+UI_20190104_003665	{@st66d}Itens trocados ficarão{nl}  {@st66d_y}presos no personagem{nl}Armazém NÃO, Troca 1:1 NÃO, Mercado NÃO{/}
 UI_20190104_003666	Exchange Artifact	유물 교환			
 UI_20190104_003667	Token Benefits	토큰 혜택			
 UI_20190104_003668	{s18}Expiring soon.	{s18}곧 기간이 만료됩니다.	UI_20170330_002600	{s18}Items with Expiration Date	{s18}기간제 아이템 목록
@@ -3691,11 +3691,11 @@ UI_20190104_003690	{@st41d}1 mês
 UI_20190104_003691	{@st41d}2 meses       
 UI_20190104_003692	{@st41d}3 meses       
 UI_20190104_003693	ⓘ Cada depósito/retirada equivale a 20 milhas.{nl}ⓘ A milhagem é acumulada quando membros da guilda conectam, além de participar de missões de guilda e GTW.
-UI_20190104_003694	Check online members with authority to accept applications	가입 승인 직급이 있는 접속한 길드원 표시			
-UI_20190104_003695	Show recruiting guilds only	가입 가능한 길드만 보기			
+UI_20190104_003694	Marcar membros online com autoridade para aceitar pedidos
+UI_20190104_003695	Exibir somente Guildas recrutando
 UI_20190104_003696	Pular animação do cubo
 UI_20190104_003697	{@st43}{s20}Team Use{/}	{@st43}{s20}팀 이용 현황{/}			
-UI_20190104_003698	Ranking	랭킹 정보			
+UI_20190104_003698	Rank
 UI_20190104_003699	{@st43}Notícias{/}
 UI_20190104_003700	{@st59}Selos{/}
 UI_20190104_003701	{@st41b}Custo para Desmanchar{/}%s
