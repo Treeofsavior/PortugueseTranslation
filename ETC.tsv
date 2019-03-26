@@ -34670,7 +34670,7 @@ ETC_20180629_034634	Comprar Cabelos e Tinturas
 ETC_20180629_034635	Comprar Lentes
 ETC_20180629_034636	Comprar Visuais Masculinos
 ETC_20180629_034637	Comprar Visuais Femininos
-ETC_20180629_034638	Purchase Cubes
+ETC_20180629_034638	Comprar Cubos
 ETC_20180629_034639	This item is for M characters only.{nl}Are you sure you want to purchase it?
 ETC_20180629_034640	This item is for F characters only.{nl}Are you sure you want to purchase it?
 ETC_20180629_034641	This item cannot be equipped by your current character.
@@ -36576,14 +36576,14 @@ ETC_20181017_036490	Cannot use while the instanced dungeon UI is open. If the pr
 ETC_20181017_036491	Failed to import instanced dungeon data. If the problem persists, please restart the game and try again.	인던 정보를 얻어오는데 실패했습니다. 문제가 지속된다면 재접속을 해보시기 바랍니다.				
 ETC_20181017_036492	There isn't enough space to create a portal.	공간이 협소하여 포탈을 생성할 수 없습니다.				
 ETC_20181017_036493	Clear time: {MIN} min {SEC} sec.	클리어 시간 : {MIN}분 {SEC}초	ETC_20180517_032982	Clear time: {MIN} min {SEC} sec.	클리어 시간 : {MIN}분 {SEC}초 입니다.	
-ETC_20181017_036494	This item cannot be equipped by your current character.	해당 캐릭터는 착용할 수 없는 상품입니다.				
-ETC_20181017_036495	Equipping this item may {nl}{@st66d_y}hide some back costumes or lenses{nl} you may be wearing.{/}{nl}Proceed with the purchase?	해당 헤어 구매 시 {nl}일부 {@st66d_y}등 코스튬과 렌즈가 {nl}보이지 않을 수 있습니다.{/}{nl}그래도 구매하시겠습니까?				
+ETC_20181017_036494	Este item não pode ser equipado pelo seu personagem atual.
+ETC_20181017_036495	Equipar este item pode {nl}{@st66d_y}esconder alguns trajes ou lentes{nl} que você esteja usando.{/}{nl}Prosseguir com a compra?
 ETC_20181017_036496	Unpurchasable Item	구매 불가능한 아이템				
-ETC_20181017_036497	Equipping this item may {nl}{@st66d_y}hide you back costumes or lenses{nl}.{/}{nl}Proceed with the purchase?	해당 아이템 착용 시 {nl}일부 {@st66d_y}등 코스튬이 보이지 않을 수 있습니다.{/}{nl}그래도 구매하시겠습니까?				
-ETC_20181017_036498	Try on themed items	테마 상품 입어보기				
-ETC_20181017_036499	This item cannot be purchased separately.{nl}You have a chance of obtaining it from the {@st66d_y}Goddess' Blessed Cube{nl}.{/}	해당 상품은 개별 구매가 불가능하며,{nl}{@st66d_y}여신의 큐브에서 {nl}확률적으로 획득할 수 있는 아이템입니다.{/}				
-ETC_20181017_036500	This item has been sold or cancelled.	해당 아이템은 이미 팔렸거나 취소된 아이템입니다.				
-ETC_20181017_036501	You are not the owner of this item.	아이템의 소유주가 아닙니다.				
+ETC_20181017_036497	Equipar este item pode {nl}{@st66d_y}esconder alguns trajes ou lentes{nl}.{/}{nl}Prosseguir com a compra?
+ETC_20181017_036498	Experimentar itens temáticos
+ETC_20181017_036499	Não pode ser comprado individualmente!{nl}Você possui uma chance de obtê-lo através de{nl}{@st66d_y}Goddess' Blessed Cube{nl}.{/}
+ETC_20181017_036500	Este item foi vendido ou cancelado.
+ETC_20181017_036501	Você não é o proprietário deste item.
 ETC_20181017_036502	Failed to import item data.	아이템 정보를 얻어오는데 실패했습니다.				
 ETC_20181017_036503	Incorrect parameter data sent to server.	서버로 잘못된 Parameter 정보가 전달되었습니다.				
 ETC_20181017_036504	Unable to process due to server error.	서버오류로 정상적인 처리가 되지 않았습니다.				
