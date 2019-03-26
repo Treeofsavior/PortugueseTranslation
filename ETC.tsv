@@ -37705,15 +37705,15 @@ ETC_20190104_037619	The player you have invited is not a fellow guild member.	�
 ETC_20190104_037620	You cannot leave the guild while in a party in this area.	해당 지역에서는 파티 상태에서 길드 탈퇴를 할 수 없습니다.			
 ETC_20190104_037621	The player you have invited is not currently in the area.	초대하려는 대상이 해당 지역에 없습니다.			
 ETC_20190104_037622	You cannot form parties with people that do not belong to the same guild as you in this area.	해당 지역에서는 같은 길드 구성원이 아니면 파티에 가입할 수 없습니다.			
-ETC_20190104_037623	The war against the [{GuildName}] guild has begun.	[{GuildName}]길드와 전쟁이 시작되었습니다.	ETC_20151224_019707	The war against the {GuildName} guild has begun.	{GuildName}길드와 전쟁이 시작되었습니다.
-ETC_20190104_037624	The war against the [{GuildName}] guild has ended.	[{GuildName}]길드와 전쟁이 종료되었습니다.	ETC_20151224_019708	The war against the {GuildName} guild has ended.	{GuildName}길드와 전쟁이 종료되었습니다.
-ETC_20190104_037625	The [{Name1}] guild has declared war against the [{Name2}] guild.	[{Name1}]길드가 [{Name2}]길드에게 전쟁을 선포했습니다.	ETC_20160224_020625	The {Name1} guild has declared war against the {Name2} guild.	{Name1}길드가 {Name2}길드에게 전쟁을 선포했습니다.
-ETC_20190104_037626	The [{Name1}] guild has withdrawn their declaration of war against the [{Name2}] guild.	[{Name1}]길드가 [{Name2}]길드에게 전쟁 선포를 취소했습니다.	ETC_20160224_020629	The {Name1} guild has withdrawn their declaration of war against the {Name2} guild.	{Name1}길드가 {Name2}길드에게 전쟁 선포를 취소했습니다.
-ETC_20190104_037627	{Time} remains in the war with the [{Name}] guild.	[{Name}]길드와 전쟁시간이 {Time}남았습니다.	ETC_20160224_020631	{Time} remain in the war with the {Name} guild.	{Name}길드와 전쟁시간이 {Time}남았습니다.
-ETC_20190104_037628	Your Guild Tower is under attack by the [{Name}] guild.	길드타워가 [{Name}]길드에게 공격받고 있습니다.	ETC_20160224_020632	Your Guild Tower is under attack by the {Name} guild.	길드타워가 {Name}길드에게 공격받고 있습니다.
-ETC_20190104_037629	The war between the [{Name1}] guild and the [{Name2}] guild has ended.	[{Name1}]길드와 [{Name2}]길드의 전쟁이 종료되었습니다.	ETC_20160224_020633	The war between the {Name1} guild and the {Name2} guild has ended.	{Name1}길드와 {Name2}길드의 전쟁이 종료되었습니다.
-ETC_20190104_037630	The [{Name1}] guild has destroyed [{Name2}]'s Guild Tower.	[{Name1}]길드가 [{Name2}]길드의 타워를 파괴하였습니다.	ETC_20160224_020634	The {Name1} guild has destroyed {Name2}'s Guild Tower.	{Name1}길드가 {Name2}길드의 타워를 파괴하였습니다.
-ETC_20190104_037631	The Tower was destroyed by [{Name}] guild.	[{Name}]길드에게 파괴당함.	ETC_20160224_020635	The {Name} guild was destroyed.	{Name}길드에게 파괴당함.
+ETC_20190104_037623	A guerra contra a Guilda [{GuildName}] iniciou!
+ETC_20190104_037624	A guerra contra a Guilda [{GuildName}] terminou!
+ETC_20190104_037625	A Guilda [{Name1}] declarou guerra contra a Guilda [{Name2}]!
+ETC_20190104_037626	A Guilda [{Name1}] retirou a declaração de guerra contra a Guilda [{Name2}].
+ETC_20190104_037627	{Time} restante de guerra com a Guilda [{Name}].
+ETC_20190104_037628	A Torre da sua Guilda está sendo atacada pela Guilda [{Name}]!
+ETC_20190104_037629	A guerra entre as Guildas [{Name1}] e [{Name2}] terminou.
+ETC_20190104_037630	A Guilda [{Name1}] destruiu a Torre da Guilda [{Name2}]!
+ETC_20190104_037631	A Torre foi destruída pela Guilda [{Name}]!
 ETC_20190104_037632	Guild member [{#FF0000}{Name}{/}] has been defeated by [{#FF0000}{FromGuild}{/}]'s [{#FF0000}{From}{/}].	길드원 [{#FF0000}{Name}{/}]님이 [{#FF0000}{FromGuild}{/}]길드의 [{#FF0000}{From}{/}]에게 전투 불능 상태가 되셨습니다.	ETC_20171128_031009	Guild member {Name} has been attacked by {From} of {FromGuild}.	길드원 {Name}님이 {FromGuild}의 {From}에게 당했습니다.
 ETC_20190104_037633	Guild member [{#FF0000}{Name}{/}] has defeated [{#FF0000}{FromGuild}{/}]'s [{#FF0000}{From}{/}].	길드원 [{#FF0000}{Name}{/}]님이 [{#FF0000}{TargetGuild}{/}]길드의 [{#FF0000}{Target}{/}]을 처치했습니다.	ETC_20171128_031010	Guild member {Name} has defeated {Target} of {TargetGuild}.	길드원 {Name}님이 {TargetGuild}의 {Target}을 처치했습니다.
 ETC_20190104_037634	Missão de Guilda{nl}Gostaria de iniciar [{GuildEvent}]?
