@@ -15321,7 +15321,7 @@ ITEM_20170726_015317	A badge that will prove yourself to the Doppelsoeldner Mast
 ITEM_20170726_015318	Pledge of the Blade Potion	칼날서약 용병단원 포션
 ITEM_20170726_015319	{img mouseclick_right 30 30} para usar..{nl}Increases physical and magic defense by +100 for 1 hour.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}1시간 동안 물리,마법 방어력 +100{nl}8월 10일 점검 시, 일괄 삭제됩니다.
 ITEM_20170726_015320	N/A
-ITEM_20170726_015321	Use para segurar o balão.	사용 시 축제용 풍선이 함께 합니다. 6월 29일 점검 시, 일괄 삭제됩니다.
+ITEM_20170726_015321	Use para segurar o balão.
 ITEM_20170726_015322	N/A
 ITEM_20170726_015323	N/A
 ITEM_20170726_015324	N/A
@@ -21367,7 +21367,7 @@ ITEM_20190104_021351	[GTW Event] Warp Scroll - GTW	[콜로니전 지원] 워프 
 ITEM_20190104_021352	Use to move to a Spot Area.{nl}    - Defending guild: move to Spot Tower{nl}    - Attacking guild: move to Divine Flag{nl}Cannot be used inside Spot Area maps.{nl}Will be automatically deleted at the end of the event period.	사용 시 스팟 지역으로 이동할 수 있습니다.{nl}    - 점령 길드 : 해당 점령 지역의 콜로니 타워{nl}    - 비점령 길드 : 신성한 깃발이 설치된 위치{nl} 스팟 지역에서는 사용할 수 없습니다.{nl}콜로니전 전투 지원으로 지급되는 아이템입니다.{nl}11월 29일 점검 시, 일괄 삭제됩니다.				
 ITEM_20190104_021353	[GTW] Recon Map	[콜로니전] 정찰용 지도				
 ITEM_20190104_021354	Use to reveal for 5 seconds where the members of the defending guild are on the Spot Area.{nl}Can only be used by members of the guilds attacking the Spot.	사용 시 스팟 지역에 있는 점령 길드 인원들의 위치를 5초간 확인할 수 있습니다.{nl}스팟 지역에 있는 비점령 길드 인원만 사용할 수 있습니다.				
-ITEM_20190104_021355	Use to carry a festival balloon.{nl}Will be automatically deleted at the end of the event period.	사용 시 축제용 풍선이 함께 합니다.{nl}1월 10일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190104_021355	Use para carregar um balão de festa.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20190104_021356	Urbas Seal	우르바스 증표				
 ITEM_20190104_021357	A seal carried by Kupole Urbas, who observed Boruta by order of Goddess Austeja.{nl}Required for entering Boruta's realm. The seal is consumed after entering his realm.	아우스테야를 명으로 드래곤 보루타를 감시하던 큐폴 우르바스가 지니고 다니던 증표입니다.{nl}드래곤 보루타의 영역으로 진입하기 위하여 반드시 필요합니다.{nl}진입시 파괴됩니다.				
 ITEM_20190104_021358	[Event] Urbas Seal	[이벤트] 우르바스 증표				
