@@ -3043,10 +3043,10 @@ ITEM_20150317_003042	Piece of Vubbe Cloth
 ITEM_20150317_003043	A ripped cloth piece from Vubbe. It's from the dirty waist area.
 ITEM_20150317_003044	Weaver Claw
 ITEM_20150317_003045	If you gather enough of these, they may have a use.
-ITEM_20150317_003046	Relief Goods
-ITEM_20150317_003047	Goods used as a provision for emergencies in Miners' Village.
-ITEM_20150317_003048	Reinforcement Stone
-ITEM_20150317_003049	Stone required to reinforce the Crystal Mine's exterior walls. Collect them before the wall crumbles.
+ITEM_20150317_003046	Mantimentos
+ITEM_20150317_003047	Itens usados como provisões nas emergências em Miners' Village.
+ITEM_20150317_003048	Pedra de Construção
+ITEM_20150317_003049	Pedra necessária para reforçar a parede externa da Crystal Mine. Colete-as antes que a parede desmorone.
 ITEM_20150317_003050	Stinging Stick
 ITEM_20150317_003051	A stick used to expel Sequoia. It has a few holy spirits.
 ITEM_20150317_003052	Piece of Wood with Holy Spirit
@@ -9639,8 +9639,8 @@ ITEM_20151224_009637	Grass Leaf Ointment
 ITEM_20151224_009638	A delivery request for ointment, sent from Settler Brophen to Settler Layla.
 ITEM_20151224_009639	Leaves with a slight reddish hue. Settler Izna said that these are great for making an ointment for wounds.
 ITEM_20151224_009640	Mucus with an odd smell. An ingredient used to create a fatigue recovery potion. Really...?
-ITEM_20151224_009641	Useful Object
-ITEM_20151224_009642	Objects left by fleeing lumberjacks. Some of them might be useful if they're repaired.
+ITEM_20151224_009641	Item Útil
+ITEM_20151224_009642	Objetos deixados por lenhadores que fugiram. Alguns destes itens podem ser úteis se forem arrumados.
 ITEM_20151224_009643	Priest Irma's Journal Page
 ITEM_20151224_009644	A page from Priest Irma's journal that's been bitten and torn by monsters.{nl}Is it even readable at all?
 ITEM_20151224_009645	Priest Irma's Journal
@@ -15797,7 +15797,7 @@ ITEM_20171013_015789	Bamboo Spear
 ITEM_20171013_015790	A longish spear made from bamboo. 
 ITEM_20171013_015791	Pumpkin Lantern
 ITEM_20171013_015792	A lantern made by carving a face into a pumpkin and placing a candle inside.
-ITEM_20171013_015793	Pokébola
+ITEM_20171013_015793	Esfera do Treinador
 ITEM_20171013_015794	Convocará um monstro quando usado. 
 ITEM_20171013_015795	Só pode ser usado 
 ITEM_20171013_015796	durante a missão evento.{nl}Será excluído quando o período do evento terminar.
@@ -17288,8 +17288,8 @@ ITEM_20180122_017279	Lets you enhance the level of your Hunter's Buff at any Eve
 ITEM_20180122_017280	Monster Duty Instructions
 ITEM_20180122_017281	Move to your assigned location and defeat the monsters there.{nl}Will be automatically deleted at the end of the event period.
 ITEM_20180122_017282	Hunter Badge
-ITEM_20180122_017283	Blue Ord Dungeon Coin
-ITEM_20180122_017284	Item obtained from the Event Notice Board.
+ITEM_20180122_017283	Moeda da Missão do Treinador
+ITEM_20180122_017284	Item obtido com a placa de Anúncio de Eventos.
 ITEM_20180122_017285	An item required for a special experiment mission.{nl}Can be obtained from an Event Notice Board once per day.{nl}Will be deleted after the event period.
 ITEM_20180122_017286	Armor Cube
 ITEM_20180122_017287	Use to obtain a random Lv 350 Primus armor item.{nl}Will be deleted after the event period.
@@ -19405,7 +19405,7 @@ ITEM_20180827_019390	[PP] Musket	[PC방] 머스킷
 ITEM_20180827_019391	[PP] Two-handed Mace	[PC방] 투 핸드 메이스			
 ITEM_20180827_019392	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이	ITEM_20180320_017588	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개
 ITEM_20180827_019393	[PP] TP Item Random Box	[PC방] TP 아이템 랜덤 상자			
-ITEM_20180827_019394	Right-click to use and obtain of the following random items.{nl}- EXP Tome x1{nl} - Multiply Token x2{nl} - Megaphone x1{nl} - Enchant Scroll (untradable) x1{nl} - Warp Scroll x8{nl} - Soul Crystal x8{nl} - Emergency Repair Kit x3	마우스 우클릭으로 사용 할 수 있습니다. 사용시 랜덤한 아이템을 얻을 수 있습니다.{nl}보상 목록{nl}- 경험의 서 x1{nl} - 인스턴스 던전 배수 토큰 x2{nl}- 확성기 x1{nl}- 마법 부여 스크롤(거래불가) x1{nl}- 워프 주문서 x8{nl}- 소울 크리스탈 x4{nl}- 긴급 수리 키트 x3			
+ITEM_20180827_019394	Right-click to use and obtain of the following random items.{nl}- EXP Tome x1{nl} - Multiply Token x2{nl} - Megaphone x1{nl} - Enchant Scroll (untradable) x1{nl} - Warp Scroll x8{nl} - Soul Crystal x4{nl} - Emergency Repair Kit x3	마우스 우클릭으로 사용 할 수 있습니다. 사용시 랜덤한 아이템을 얻을 수 있습니다.{nl}보상 목록{nl}- 경험의 서 x1{nl} - 인스턴스 던전 배수 토큰 x2{nl}- 확성기 x1{nl}- 마법 부여 스크롤(거래불가) x1{nl}- 워프 주문서 x8{nl}- 소울 크리스탈 x4{nl}- 긴급 수리 키트 x3				
 ITEM_20180827_019395	[PP] Ore Box	[PC방] 광물 상자			
 ITEM_20180827_019396	Right-click to use and obtain a random item.	마우스 우클릭으로 사용 할 수 있습니다. 사용시 랜덤한 아이템을 얻을 수 있습니다.			
 ITEM_20180827_019397	[PP] Small Elixir of HP Recovery 	[PC방] HP 회복 소형 엘릭서 			
@@ -21613,3 +21613,10 @@ ITEM_20190309_021597	Boruta Seal - Archer Box
 ITEM_20190309_021598	Use para obter Boruta Seal - Archer.
 ITEM_20190309_021599	Boruta Seal - Scout Box
 ITEM_20190309_021600	Use para obter Boruta Seal - Scout.
+ITEM_20190316_021601	GM's Astro Ambition Helmet
+ITEM_20190316_021602	Não dá para ir pro espaço sem um capacete de confiança!{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Exchange Shop.			      
+ITEM_20190316_021603	GM's Astro Ambition Costume (M)
+ITEM_20190316_021604	Viaje pelas estrelas com essa clássica roupa espacial branca.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medahas na Exchange Shop.
+ITEM_20190316_021605	GM's Astro Ambition Costume (F)
+ITEM_20190316_021606	Baby Chick
+ITEM_20190316_021607	Este pequenino filhote de galinha parece que fez um ninho na sua cabeça! Mas cuidado, pois pode acabar ficando pesado quando virar uma galinha...{nl}Pode ser trocado por Medalhas na Exchange Shop.

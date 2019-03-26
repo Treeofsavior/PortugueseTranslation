@@ -1946,7 +1946,7 @@ UI_20151224_001944	{@st41b}Entrar
 UI_20151224_001945	{@st66b}Lista de Grupos Públicos{/}
 UI_20151224_001946	{@st66b}Jogadores Recomendados{/}
 UI_20151224_001947	Vida
-UI_20151224_001948	{@st43}Caixa de mensagem
+UI_20151224_001948	{@st43}Caixa de Mensagem
 UI_20151224_001949	{@st66b}Tudo
 UI_20151224_001950	{@st66b}Não Lida
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quests window.{nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue.{nl} - The arrow on your character's foot leads to the location of your quest{nl} - A 'Return' icon is displayed in the quests window when a quest is Completod{nl}  (Teleports you to the Quest NPC using the Backspace key or a mouse-click){nl} - Add or remove quests in the quests window by ticking or unticking the box in front of the quest Nome{/}
@@ -2072,7 +2072,7 @@ UI_20160224_002070	{@st41b}You have exceeded the number of times allowed.{/}
 UI_20160224_002071	{@st66b}Info Básica
 UI_20160224_002072	{@st66b}Property
 UI_20160224_002073	O Líder da Guilda está à procura de participantes para o evento de Guilda.
-UI_20160224_002074	{@st63_yellow}Membros :{/}
+UI_20160224_002074	{@st63_yellow}Membros:{/}
 UI_20160224_002075	{@st63}%s participantes (Login %s){/}
 UI_20160224_002076	{@st63_yellow}Local :{/}
 UI_20160224_002077	Cobalt Forest
@@ -2222,7 +2222,7 @@ UI_20160718_002220	{@st59b}Regional GvG{nl}{@st59s} - Rewards are given on a wee
 UI_20160718_002221	{@st66b}Rank %s{/}
 UI_20160718_002222	{@sti8}{s18}{ds}Participantes (%s){/}
 UI_20160718_002223	{@st41}Recusado{/}
-UI_20160718_002224	{@st66d}%s participando (Dentre %s logados){/}
+UI_20160718_002224	{@st66d}%s aceitaram (%s online){/}
 UI_20160718_002225	{@st41}Move to Zone
 UI_20160718_002226	{@st46}Guild Battle Results{/}
 UI_20160718_002227	{@st45tw2}Battle Duration{/}
@@ -3162,7 +3162,7 @@ UI_20180517_003161	{@st43b}{s18}Potencial
 UI_20180517_003162	{@st43b}{s18}Opções Extraídas
 UI_20180517_003163	Desmontar Item Lendário
 UI_20180517_003164	Desmontar
-UI_20180517_003165	Aplicar Set Stats
+UI_20180517_003165	Aplicar Atributos de Conjunto
 UI_20180517_003166	{@st43}Criar Equip Lendário{/}
 UI_20180517_003167	{@st59}Fechar.{/}
 UI_20180517_003168	{@st42b}Ver apenas itens equipáveis
