@@ -10637,16 +10637,16 @@ QUEST_20190223_010756	Você pode entrar durante os seguintes horários:{nl}21:10
 QUEST_20190223_010757	A entrada é permitida no horário programado. Os horários são:{nl}
 QUEST_20190313_010758	Classes válidas são:{nl}Base Swordman: Hackapell, Murmillo{nl}Base Wizard: Necromancer, Psychokino, Cryomancer{nl}Base Cleric: Druid, Monk, Plague Doctor{nl}Base Scout: todas, menos Thaumaturge
 QUEST_20190313_010759	Personagens da base Scout recebem {#0054FF}Skill Reset Potion (14 Dias) x1{/} e{nl}{#0054FF}Attribute Reset Potion (14 dias) x1{/} adicionais.
-QUEST_20190322_010760	Joha's Bucket of Mudfish	요하의 미꾸라지통				      
-QUEST_20190322_010761	Please select one.	이용할 목록을 선택해주세요				요하의 미꾸라지통
-QUEST_20190322_010762	Hiya! You here for another round of fishing?{nl}Boy do I have something special for you today.{nl}	어서오세요! 오늘도 낚시하러 오셨군요!{nl}오늘은 제가 좀 특별한 걸 준비했어요.{nl}				낚시터 관리인 요하
-QUEST_20190322_010763	Check this out, it's mudfish! I caught them myself!	그건 바로! 제가 직접 기른 미꾸라지랍니다!{nl}				낚시터 관리인 요하
-QUEST_20190322_010764	Not too convinced, are you?{nl}Aw, come on. Just give them a try!{nl}	네? 믿음이 안가신다구요?{nl}에이, 그래도 믿져야 본전이라구요. 한 번 사용해보세요.{nl}				낚시터 관리인 요하
-QUEST_20190322_010765	Everyone's been so keen on fishing these days, my business is doing pretty well!{nl}Hehe, so I'm glad I can finally give this a try.{nl}	최근 여러분들의 불같은 성화에 힘입어서 수입이 좀..{nl}호호, 덕분에 시도해보고 싶었던 양식을 해볼 수 있게 되었어요.{nl}				낚시터 관리인 요하
-QUEST_20190322_010766	What I mean is, you can use my mudfish as bait now!{nl}	그래서 그 결과로서 여러분들께 제가 기른 미꾸라지를 드릴 수 있게 됐단 말씀!{nl}				낚시터 관리인 요하
-QUEST_20190322_010767	Pretty impressive, huh? I know.{nl}	좀 더 칭찬해주셔도 좋다구요?{nl}				낚시터 관리인 요하
-QUEST_20190322_010768	I mean, they aren't free, of course.{nl}But I'm selling them at a good price!{nl}	물론 고생한 만큼 그냥 드리진 않아요.{nl}나름대로 적당한 가격에 파는거라구요!{nl}				낚시터 관리인 요하
-QUEST_20190322_010769	Besides, this bait's effects are very, very special.{nl}How do I know this? ...It's a trade secret, shh!{nl}Anyways, go ahead, give 'em a try!{nl}	대신 이 미끼를 이용하면 신기한 일이 일어날지도 모르죠.{nl}그걸 어떻게 아냐구요? ..영업 비밀이에요, 쉿!{nl}아무튼 한 번 이용해보세요!{nl}				낚시터 관리인 요하
-QUEST_20190322_010770	You can get the mudfish from this bucket here.	제 옆에 놓여있는 미꾸라지통에서 구할 수 있어요.				낚시터 관리인 요하
-QUEST_20190322_010771	Hey there!{nl}My name's Joha, I manage the Fishing Spot here in Klaipeda.{nl}I also sell all sorts of fishing supplies.	안녕하세요?{nl}저는 클라페다 낚시터를 관리하는 요하라고 해요.{nl}다양한 낚시 용품을 판매하고 있습니다.	QUEST_20170726_006117	Hi there!{nl}I'm Joha, Klaipeda's Fishing Manager.	안녕하세요?{nl}저는 클라페다 낚시터를 관리하는 요하라고 해요.	낚시터 관리인 요하
-QUEST_20190322_010772	If you want to have a go, make sure to use my special bait during the event period.{nl}Just get some from the bucket over here!	2/21(목) 점검 후부터 3/28(목) 점검 전까지!{nl}이벤트 기간 동안 제가 열심히 키워놓은 특별 미끼를 애용해주세요.{nl}미끼는 옆에 놓인 요하의 미꾸라지통에서 팔고 있어요!	QUEST_20170726_006118	I sell all sorts of fishing supplies.	다양한 낚시 용품을 판매하고 있습니다.	낚시터 관리인 요하
+QUEST_20190322_010760	Balde de Piramboias da Joha
+QUEST_20190322_010761	Por favor, escolha uma opção.
+QUEST_20190322_010762	E aí!{nl}Veio para mais uma rodada de pescaria?{nl}Ah, e eu tenho algo especial para você hoje.{nl}
+QUEST_20190322_010763	Olha só, são Piramboias!{nl}Eu mesmo que pesquei!
+QUEST_20190322_010764	Não está muito convencido, não?{nl}Ah, qual é! Experimenta usar uma vez só.{nl}
+QUEST_20190322_010765	Todo mundo anda muito interessado em pescar,{nl}os meus negócios estão indo muito bem"{nl}Haha, estou feliz de poder experimentar isso aqui.{nl}
+QUEST_20190322_010766	O que eu quero dizer é que...{nl}Você pode usar estas Piramboias como isca agora!{nl}
+QUEST_20190322_010767	Incrível, não acha?{nl}É, eu sei!{nl}
+QUEST_20190322_010768	Digo, elas não são de graça, é óbvio.{nl}Mas estou vendendo por um bom preço!{nl}
+QUEST_20190322_010769	Além disso, os efeitos dessa isca são bem especiais.{nl}Como que eu sei?... Segredo!{nl}De qualquer forma, vai lá, experimenta usar!{nl}
+QUEST_20190322_010770	Você pode pegar as Piramboias nesse balde aqui.
+QUEST_20190322_010771	Olá, como vai!{nl}Meu nome é Joha e eu administro a pesca aqui em Klaipeda.{nl}Eu também vendo todos os tipos de itens para pescaria.
+QUEST_20190322_010772	Se deseja experimentar,{nl}você tem que usar minha isca especial durante o evento.{nl}Só pegar algumas no balde, logo ali!
