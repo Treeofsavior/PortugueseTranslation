@@ -27867,7 +27867,7 @@ ETC_20170420_027840	"{@st59}Increases max. SP, SP recovery, summon evasion and s
 ETC_20170420_027841	You have collected the spirit essence!{nl}The flying dust has attracted the monsters.	영혼의 정수를 획득하였습니다!{nl}흩날리는 먼지가 몬스터를 자극했습니다	ETC_20150323_010215	Fluttering Dust provoked a monster	흩날리는 먼지가 몬스터를 자극합니다	
 ETC_20170420_027842	You have destroyed the Crystal Pillar!{nl}The evil energy coming from it is affecting you.	수정 기둥을 파괴했지만{nl}수정기둥에서 나온 사악한 기운에 중독되었습니다	ETC_20151224_019533	You've been poisoned by the evil energy from the Crystal Pillar	수정 기둥에서 나온 사악한 기운에 중독되었습니다	
 ETC_20170420_027843	Do you want to learn this attribute?{nl}{PRICE} Point(s)	특성을 배우시겠습니까?{nl}{PRICE} 포인트				
-ETC_20170420_027844	Receive Attendance Reward [Total: {COUNT1}]	출석 보상 받기 [누적 : {COUNT1} 회]				
+ETC_20170420_027844	Receber Prêmio Diário [Total: {COUNT1}]
 ETC_20170420_027845	Receive Invitation Attendance Reward [Total: {COUNT2}]	초청장 출석 보상 받기 [누적 : {COUNT2} 회]				
 ETC_20170420_027846	Today's attendance reward 	이번 출석 보상은 				
 ETC_20170420_027847	Title	칭호				
@@ -37598,18 +37598,18 @@ ETC_20190104_037512	[Psíquico{img notice_br_link 17 17}]
 ETC_20190104_037513	[Vel. Ataque]
 ETC_20190104_037514	[Disponível montado]
 ETC_20190104_037515	[Somente montado]
-ETC_20190104_037516	Summoning...	소환 중			
+ETC_20190104_037516	Invocando...
 ETC_20190104_037517	Acredito que tu sejas mais inteligente do que pareces.{nl}Então, o que achas?{nl}Tu acreditas nas Deusas?{nl}Ou irás seguir-me e, de fato, fazer história?
-ETC_20190104_037518	Giltine's Team Clash	길티네를 따라 : 클라페다 대격돌				
+ETC_20190104_037518	Giltine's Team Clash
 ETC_20190104_037519	Seguir Giltine: Ataque em Klaipeda
 ETC_20190104_037520	Não mesmo, isso não é para mim.
 ETC_20190104_037521	Tu és, de fato, inteligente.
 ETC_20190104_037522	Você já coletou a recompensa do evento hoje.
 ETC_20190104_037523	- Invoque monstros interajindo com os objetos próximos da Estátua da Deusa Ausrine!{nl}- Monstros invocados irão até o campo inimigo.{nl}- Vence o time que mais monstros chegaram no campo inimigo.{nl}- Derrote os monstros inimigos e evite que chegem no seu campo.{nl}- Em 4 minutos, o time que estiver perdendo recebe +10 de Velocidade de Movimento nos seus monstros.{nl}  Cuidado, os monstros são rápidos!
-ETC_20190104_037524	 Requires 30 items.	 아이템 30개가 필요합니다			
-ETC_20190104_037525	Select companion	컴패니언 선택			
-ETC_20190104_037526	[Dico Tomb Thieves]{nl}Arghidas	[디코 도굴단]{nl}아르기다스	ETC_20161214_026225	[Dico Tomb Thieves]{nl}    Arghidas	[디코 도굴단]{nl}   아르기다스
-ETC_20190104_037527	Royal Supplies	왕국 보급품			
+ETC_20190104_037524	 x30 necessários para receber prêmio.
+ETC_20190104_037525	Escolha o Mascote
+ETC_20190104_037526	[Dico Tomb Thieves]{nl}Arghidas
+ETC_20190104_037527	Suprimentos Reais
 ETC_20190104_037528	[Evento] Urbas Seal
 ETC_20190104_037529	Use o Urbas Seal
 ETC_20190104_037530	Patrulhe Sulivinas Lair
