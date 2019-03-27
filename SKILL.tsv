@@ -6345,7 +6345,7 @@ SKILL_20160323_006344	Increased movement speed and physical/magic attack	이동�
 SKILL_20160323_006345	Magic Amplification	마력증폭				
 SKILL_20160323_006346	Amplified magic after a critical attack.	치명타와 공명하여 마력이 증폭된 상태입니다.				
 SKILL_20160323_006347	Decreased defense.	방어력이 감소된 상태입니다.				
-SKILL_20160323_006348	Team Level	팀 레벨				
+SKILL_20160323_006348	Nv. Time
 SKILL_20160323_006349	 - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl}	 - 특성 스킬 2개 동시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 5개{nl} - 캐릭터 이동속도 +3{nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능{nl}	SKILL_20160317_006340	- Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - Can only trade up to 30 times{nl	- 특성 스킬 2개 동시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 5개{nl} - 캐릭터 이동속도 +3{nl} - 개인 거래 횟수 30회{nl} - 미션,던전 2회 추가입장	
 SKILL_20160323_006350	Increases the critical chance of [Double Slash] by 7% per attribute level.	스킬 [더블슬래쉬]의 치명타 확률이 특성 레벨당 7% 증가합니다.	SKILL_20150714_004290	Increases the critical chance of [Double Slash] by 5% per attribute level.	스킬 [더블슬래쉬]의 치명타 확률이 특성 레벨당 5% 증가합니다.	
 SKILL_20160323_006351	Increases the critical chance of [Moulinet] by 12% per attribute level.	스킬 [뮬리넷]의 치명타 확률이 특성 레벨당 12% 증가합니다.	SKILL_20150714_004320	Increases the Critical Chance of [Moulinet] by 10% per attribute level.	스킬 [뮬리넷]의 치명타 확률이 특성 레벨당 10% 증가합니다.	
@@ -14996,7 +14996,7 @@ SKILL_20190223_014996	Coloca a bandeira da vitória para elever a moral dos seus
 SKILL_20190223_014997	Fortalece a sua vontade antes da batalha. Aumenta as chances de penetrar o bloqueio do inimigo. Ataques feito com Lanças de 2 Mãos ignoram parte da defesa do alvo e aumenta a chance de resistir à debuffs.
 SKILL_20190223_014998	Penetração de Bloqueio: + #{CaptionRatio}#%{nl}Ignora 10% da defesa{nl}Chance de resistir à debuff: 70%{nl}Duração: 30 segundos
 SKILL_20190223_014999	Empurra a sua espada fortemente contra o inimigo. Causa dano adicional em alvos do elemento Gelo e afetados pro [Freeze]. Alvos que forem alvejados receberão mais dano de ataques do tipo [Corte].
-SKILL_20190223_015000	Cooldown: -#{CaptionTime}# segundos{nl}Consome Time Crystal x#{SpendItemCount}#
+SKILL_20190223_015000	Cooldown: -#{CaptionTime}# segundos{nl}Consome Time Crystal Fragment x#{SpendItemCount}#
 SKILL_20190223_015001	Libera uma energia maligna no seu oponente. Partes do corpo dos monstros alvejados podem ser coletados após derrotados.
 SKILL_20190223_015002	Ataque do Shoggoth: +#{CaptionRatio}#%{nl}Defesa do Shoggoth: +#{CaptionRatio2}#%{nl}Consome Corpse Parts x#{CaptionTime}#{nl}Duração: 900 segundos
 SKILL_20190223_015003	Joga partes de corpos em uma área selecionada, causando dano nos inimigos ao redor. [Necromancer Bane] será aplicado nos inimigos alvejados.
@@ -15021,7 +15021,7 @@ SKILL_20190223_015021	Derrotar um inimigo sob efeito de [Rash], da habilidade [C
 SKILL_20190223_015022	Multiplicador: #{SkillFactor}#%{nl}Multipl. Cura de [Floral Scent]: #{CaptionRatio}#%{nl}Duração de [Chortasmata]: #{CaptionTime}# segundos{nl}Duração de {#339999}{ol}[Rash]{/}{/}: #{CaptionRatio2}# segundos
 SKILL_20190223_015023	Causa um dano fixo no alvo selecionado, baseado no HP Máximo. Porém o alvo recuperará continuamente o HP, até que o total recuperado seja o dobro do dano causado por este ataque. Somente metade do dano será aplicado em monstros Chefe. Não pode ser usado em field bosses. Não pode ser usado dentro do Hangout da Guilda.
 SKILL_20190223_015024	Multiplicador: #{SkillFactor}#% x 2{nl}Taxa de Ataque em Área: +#{SkillSR}#{nl}20% dano contra alvos sob efeito de [Stun], [Blind] e [Bleed]
-SKILL_20190223_015025	Bebe uma Hasisas Potion e aumenta as suas habilidades físicas. Junto com o aumento de velocidade de ataque e ataque crítico, você ganha dano crítico adicional em proporção ao HP máximo e o HP perdido. Como efeito colateral, a poção faz com que você perca HP continuamente.
+SKILL_20190223_015025	Bebe uma Hasisas Potion e aumenta as suas habilidades físicas. Garante aumento de velocidade de ataque e dano crítico, além de dano crítico adicional em proporção ao HP máximo e o HP perdido. Como efeito colateral, a poção faz com que você perca HP continuamente.
 SKILL_20190223_015026	Vel. Ataque Básico: +#{CaptionRatio}#{nl}Dano Crítico: +#{CaptionRatio3}#%{nl}Reduz 1% do HP a cada #{CaptionRatio2}# segundos{nl}Duração: 300 segundos{nl}Consome Hasisas Potion x1
 SKILL_20190223_015027	Direciona a sua adaga para o pescoço do inimigo. Alvos atacados sofrerão de [Behead: Bleeding]. No PvP, você atacará o inimigo pelas costas.{nl}{#00113F}Causa 200% de dano adicional se usado enquanto estiver escondido.{/}
 SKILL_20190223_015028	Multiplicador: #{SkillFactor}#%{nl}Ignora 30% da defesa do inimigo{nl}Taxa de Ataque em Área: +#{SkillSR}#{nl}Duração de [Bleed]: 30 segundos
@@ -15145,3 +15145,13 @@ SKILL_20190223_015145	Raise Skull Archer Nv 1 ou mais
 SKILL_20190309_015146	* Aumenta o peso máximo do inventário do personagem em 20 por nível do atributo
 SKILL_20190309_015147	* Aumenta o Multiplicador de [Rune of Rock] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo.
 SKILL_20190319_015148	Taxa de Crítico adicional aplicada para magias do elemento Fogo
+SKILL_20190322_015149	Transformação Mística: Diamante
+SKILL_20190322_015150	Salvador Místico - Transformação de Diamante!
+SKILL_20190322_015151	Transformação Mística: Copas
+SKILL_20190322_015152	Salvador Místico - Transformação de Copas!
+SKILL_20190322_015153	Transformação Mística - Diamente
+SKILL_20190322_015154	Salvador Místico - Transformação de Diamante!{nl}Você retornará em breve para sua forma original.
+SKILL_20190322_015155	Transformação Mística - Copas
+SKILL_20190322_015156	Salvador Místico - Transformação de Copas!{nl}Você retornará em breve para a sua forma original.
+SKILL_20190322_015157	Um efeito ao utilizar símbolos de Salvador Místico - Copas.
+SKILL_20190322_015158	Um efeito ao utilizar símbolos de Salvador Místico - Diamente.

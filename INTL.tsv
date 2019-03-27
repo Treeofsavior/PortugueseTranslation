@@ -94,9 +94,9 @@ INTL_20180219_000093	Demon Prison Guild (Recommended Lv : 115){nl}Only you and y
 INTL_20180219_000094	Fallen Legwyn Family (Recommended Lv : 230){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
 INTL_20180219_000095	Castle Underground (Recommended Lv : 300){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
 INTL_20180219_000096	EXP Helper
-INTL_20180305_000097	 {nl}{CUBE}s opened: {@st66d_y}{s18}{SUM}{/}{/}{nl}Open {@st66d_y}{s18}{COUNT}{/}{/} more Cubes to receive the reward for {@st66d_y}{s18}{BOUNS}{/}{/} Cubes.{nl}You can receive the reward(s) for {@st66d_y}{s18}{REWARD}{/}{/} Cubes opened.{nl}Would you like to receive the reward(s) now?
-INTL_20180305_000098	 {nl}{CUBE}s opened: {@st66d_y}{s18}{SUM}{/}{/}{nl}Open {@st66d_y}{s18}{COUNT}{/}{/} more Cubes to receive the reward for {@st66d_y}{s18}{BOUNS}{/}{/} Cubes.
-INTL_20180305_000099	Bonus Cube
+INTL_20180305_000097	 {nl}{CUBE}s abertos: {@st66d_y}{s18}{SUM}{/}{/}{nl}Abra {@st66d_y}{s18}{COUNT}{/}{/} mais para receber a recompensa de {@st66d_y}{s18}{BOUNS}{/}{/} Cubes.{nl}Você pode receber a(s) recompensa(s) para {@st66d_y}{s18}{REWARD}{/}{/} Cubes abertos.{nl}Gostaria de receber a(s) recompensa(s) agora?
+INTL_20180305_000098	 {nl}{CUBE}s abertos: {@st66d_y}{s18}{SUM}{/}{/}{nl}Abra {@st66d_y}{s18}{COUNT}{/}{/} cubos a mais pare receber recompensa de {@st66d_y}{s18}{BOUNS}{/}{/} Cubos.
+INTL_20180305_000099	Cubo Bônus
 INTL_20180312_000100	Title given to winners of the 2nd Anniversary fanart event.
 INTL_20180312_000101	Título - Feliz 2° Anversário!
 INTL_20180312_000102	Ttitle given to winners of the 2nd Anniversary fanart event. Right-click to use.
@@ -310,3 +310,5 @@ INTL_20190309_000309	Wake Up Special Premium Package
 INTL_20190309_000310	Wake Up Special Premium Package x10+1
 INTL_20190316_000311	Receber Chocolates
 INTL_20190316_000312	O evento não está aberto no momento.
+INTL_20190322_000313	Título entregue aos ganhadores do concurso de criadores. Clique com o botão direito do mouse para utilizar.			
+INTL_20190322_000314	Título entregue aos ganhadores do Evento de Aniversário do TOS. Clique com o botão direito do mouse para utilizar.

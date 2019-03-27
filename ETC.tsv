@@ -1830,7 +1830,7 @@ ETC_20150317_001829	Você não tem um Mascotepara chamar.
 ETC_20150317_001830	Por favor, desmonte do seu mascote primeiro.
 ETC_20150317_001831	Standby
 ETC_20150317_001832	Active
-ETC_20150317_001833	You do not have any food.
+ETC_20150317_001833	Você não possui nenhum alimento.
 ETC_20150317_001834	Feed
 ETC_20150317_001835	This companion does not eat this type of food.
 ETC_20150317_001836	Successfully adopted a companion. It is waiting in accommodation for you.
@@ -1908,7 +1908,7 @@ ETC_20150317_001907	EXP
 ETC_20150317_001908	(Attack Resistance)
 ETC_20150317_001909	Requires a record in the Diário de Aventura. Press the A key to update whilst sitting.
 ETC_20150317_001910	You can now use the [{Auto_1}] title.
-ETC_20150317_001911	Attributes
+ETC_20150317_001911	Atributos
 ETC_20150317_001912	{@st59}Clique para mais informações{/}
 ETC_20150317_001913	O próximo nível de habilidade requer que avançe para a mesma classe.
 ETC_20150317_001914	Use 1 Ponto para aumentar o nível da Habilidade.
@@ -9552,7 +9552,7 @@ ETC_20150323_009552	Honeymeli
 ETC_20150323_009553	Casket
 ETC_20150323_009554	Green Eldigo
 ETC_20150323_009555	Gremlin
-ETC_20150323_009556	Vasilisk
+ETC_20150323_009556	Basilisk
 ETC_20150323_009557	Mesa de Banquete
 ETC_20150323_009558	Pink Root Mole
 ETC_20150323_009559	Srautas Gorge
@@ -16483,7 +16483,7 @@ ETC_20151022_016477	Shelter Fogueira
 ETC_20151022_016478	Shelter Pyre
 ETC_20151022_016479	Itens Esquecidos
 ETC_20151022_016480	Lost Settler
-ETC_20151022_016481	Mission Failed: Returning to starting zone in 30 segundos.
+ETC_20151022_016481	A missão falhou: retornando em 30 segundos.
 ETC_20151022_016482	A missão irá começar em 60 segundos.
 ETC_20151022_016483	The 5th room has been opened. {nl} Derrote all of the bosses within the time limit.
 ETC_20151022_016484	Derrote all of the monsters!
@@ -17652,7 +17652,7 @@ ETC_20151224_017646	It is sad that we cannot see animals like Rabbees in their a
 ETC_20151224_017647	Eldigo listens to the orders of stronger monsters in order to survive. But, the opponents it faces are usually stronger so it often gets sacrifGelod.
 ETC_20151224_017648	Sockets used to live deep inside our world and in the demon realm. They believe on Giltine's promise that their territory will be guaranteed in the Earth.
 ETC_20151224_017649	Austeya goddess was upset that the insects which she controls transformed, and she was especially upset after looking at this monster's trasformed appearance. This monster is one of the reasons that Austeya goddess is very firm against the demons after Medzio Diena.
-ETC_20151224_017650	This was a monster that threatened the human society a long time ago. When Roxona turned into a petrified city, there was a rumor that there was a herd of Vasilisks.
+ETC_20151224_017650	This was a monster that threatened the human society a long time ago. When Roxona turned into a petrified city, there was a rumor that there was a herd of Basilisks.
 ETC_20151224_017651	It would be great if they still look for food on the ground, but these beasts nowadays are not the type of animals that we used to know.
 ETC_20151224_017652	Goblins that used to live in certain areas for a long time enhance their attack abilities and adaptability.
 ETC_20151224_017653	Some scholars want to know how grown up Melatinuns are like. But, adventurers, Mestres and soldiers don't want to know about them and they don't want to see their appearances.
@@ -19256,7 +19256,7 @@ ETC_20151224_019250	 You should first close the shop that is open,{nl}with party
 ETC_20151224_019251	The quest failed since the refugees have died!{nl}This quest can not be restarted for 5 minutos
 ETC_20151224_019252	You failed to obtain useable materials!
 ETC_20151224_019253	Instead of usable materials, an Orange Dandel appeared!
-ETC_20151224_019254	Infrobirk was caught by the trap
+ETC_20151224_019254	Infroburk was caught by the trap
 ETC_20151224_019255	You've absorbed the Guardian's energy!
 ETC_20151224_019256	You've placed the signal flare trap!{nl}Wait until the demons get lured to it!
 ETC_20151224_019257	You've collected the Mochia Stems
@@ -19723,7 +19723,7 @@ ETC_20151224_019717	Shield Charge
 ETC_20151224_019718	You lack a shield.
 ETC_20151224_019719	A field boss will appear shortly.
 ETC_20151224_019720	You cannot move to the guild member's instanced dungeon or mission.
-ETC_20151224_019721	Increased guild EXP points.
+ETC_20151224_019721	Aumentou os pontos de Experiência da Guilda!
 ETC_20151224_019722	Item registrado com êxito.{nl}Aguarde 30 minutos a 2 horas para os itens, excluindo Tokens, serem exibidos no Mercado.
 ETC_20151224_019723	{Price} silver is required for the registration fee. The buff will disappear when you register this to the Market. Do you want to register it?
 ETC_20151224_019724	You cannot purchase items registered to the same account.
@@ -21974,7 +21974,7 @@ ETC_20160613_021968	Minimum level required for trading
 ETC_20160613_021969	Cannot be redeemed by Family Sharing accounts.
 ETC_20160617_021970	Failed to read HTTP connection data.
 ETC_20160617_021971	Please insert the amount of Talt you wish to use.
-ETC_20160617_021972	Falha ao reencarnar. {nl} Este monstro não mais será reencarnado.
+ETC_20160617_021972	Falha ao reencarnar.{nl}Este monstro não pode mais reencarnar.
 ETC_20160617_021973	European
 ETC_20160617_021974	Braid Ponytail
 ETC_20160622_021975	Failed to obtain outer IP address.
@@ -22327,8 +22327,8 @@ ETC_20160718_022321	This item has expired or cannot be registered.
 ETC_20160718_022322	You cannot transform into this monster.
 ETC_20160718_022323	You cannot move to this area.
 ETC_20160718_022324	Loja do Evento
-ETC_20160718_022325	This item is tradable for the following amount of times.
-ETC_20160718_022326	This item has exhausted all of its trading counts.
+ETC_20160718_022325	O item pode ser trocado este número de vezes.
+ETC_20160718_022326	Consumido o limite de trocas deste item.
 ETC_20160718_022327	[Premium] Lentes Coloridas
 ETC_20160718_022328	Privado
 ETC_20160718_022329	Notícia
@@ -24056,7 +24056,7 @@ ETC_20160811_024050	Não é possível salvar o mapa atual.
 ETC_20160811_024051	You do not have the required attribute.
 ETC_20160811_024052	You have already consumed this food. Please try again after a while.
 ETC_20160811_024053	You cannot save the current position.
-ETC_20160811_024054	Guild Name
+ETC_20160811_024054	Nome da Guilda
 ETC_20160811_024055	Enhanced EXP Tome [Evento]
 ETC_20160811_024056	You cannot use the item as you already have the same buff.
 ETC_20160811_024057	Your account is locked.
@@ -24335,7 +24335,7 @@ ETC_20160925_024329	Unauthorized transaction confirmed. Unable to purchase.
 ETC_20160925_024330	Please unequip all items.{nl}You must also set you hair color to the default color.
 ETC_20160925_024331	Please inquire if you see this message.
 ETC_20160925_024332	Unable to find a party fit for your level.{nl}Searching again.
-ETC_20160925_024333	Obtained event reward. Please check your inventory.
+ETC_20160925_024333	Obteve recompensa do evento. Por favor, verifique seu Inventário.
 ETC_20160925_024334	Guess Number
 ETC_20160925_024335	Craft Dumpling
 ETC_20161005_024336	Vubbe Archers specialize in using ranged weapons. Thus some people claim that the Vubbes have specific roles.
@@ -24503,7 +24503,7 @@ ETC_20161005_024497	Pierroll
 ETC_20161005_024498	Cave Ravinelarva
 ETC_20161005_024499	Pingping
 ETC_20161005_024500	Pamphene
-ETC_20161005_024501	Fallen City Vasilisk
+ETC_20161005_024501	Fallen City Basilisk
 ETC_20161005_024502	Red Glyquare
 ETC_20161005_024503	Red Anchor
 ETC_20161005_024504	Green Prison Fighter
@@ -27867,7 +27867,7 @@ ETC_20170420_027840	"{@st59}Increases max. SP, SP recovery, summon evasion and s
 ETC_20170420_027841	You have collected the spirit essence!{nl}The flying dust has attracted the monsters.	영혼의 정수를 획득하였습니다!{nl}흩날리는 먼지가 몬스터를 자극했습니다	ETC_20150323_010215	Fluttering Dust provoked a monster	흩날리는 먼지가 몬스터를 자극합니다	
 ETC_20170420_027842	You have destroyed the Crystal Pillar!{nl}The evil energy coming from it is affecting you.	수정 기둥을 파괴했지만{nl}수정기둥에서 나온 사악한 기운에 중독되었습니다	ETC_20151224_019533	You've been poisoned by the evil energy from the Crystal Pillar	수정 기둥에서 나온 사악한 기운에 중독되었습니다	
 ETC_20170420_027843	Do you want to learn this attribute?{nl}{PRICE} Point(s)	특성을 배우시겠습니까?{nl}{PRICE} 포인트				
-ETC_20170420_027844	Receive Attendance Reward [Total: {COUNT1}]	출석 보상 받기 [누적 : {COUNT1} 회]				
+ETC_20170420_027844	Receber Prêmio Diário [Total: {COUNT1}]
 ETC_20170420_027845	Receive Invitation Attendance Reward [Total: {COUNT2}]	초청장 출석 보상 받기 [누적 : {COUNT2} 회]				
 ETC_20170420_027846	Today's attendance reward 	이번 출석 보상은 				
 ETC_20170420_027847	Title	칭호				
@@ -31846,7 +31846,7 @@ ETC_20180320_031814	Silver spent per star when removing legend cards
 ETC_20180320_031815	 When left on 1, it applies the time of imc's Namespace local system. Can be changed in the script.
 ETC_20180320_031816	NGS Version 4.0
 ETC_20180320_031817	Weekly instanced dungeon reset day. 1 (Sunday) - 7 (Saturday)
-ETC_20180320_031818	Tormenta is surrounded by an ominous aura.
+ETC_20180320_031818	Tormenta está cercado de uma aura sinistra.
 ETC_20180320_031819	Magic Shield Skill Lv +1
 ETC_20180320_031820	Storm Dust Skill Lv +1
 ETC_20180320_031821	Quick and Dead Skill Lv +1
@@ -31888,8 +31888,8 @@ ETC_20180320_031856	Item: {COUNT} time(s) per team
 ETC_20180320_031857	{ITEM} x{COUNT}
 ETC_20180320_031858	Usado Energia de Monstro x{COUNT} para avançar {NAME} para o Nv {LV}
 ETC_20180320_031859	Você precisa de Energia de Monstro x{COUNT} para avançar 1 nível.
-ETC_20180320_031860	Blue Orb Dungeon Coin Obtido
-ETC_20180320_031861	Você tem menos que Blue Orb Dungeon Coin x{COUNT} em seu inventário!
+ETC_20180320_031860	Obter Moeda da Missão do Treinador
+ETC_20180320_031861	Você tem menos que {COUNT} [Moeda da Missão do Treinador] em seu inventário!
 ETC_20180320_031862	Capturado com Sucesso!
 ETC_20180320_031863	Captura Falhou!
 ETC_20180320_031864	Impossível prosseguir acompanhado de um Mascote.
@@ -31912,7 +31912,7 @@ ETC_20180320_031880	Tenho algumas páginas para você.
 ETC_20180320_031881	Woof! Woof!
 ETC_20180320_031882	You have found all the items in this area.{nl}Move to another area and find more collection items there.
 ETC_20180320_031883	Failed to create {TYPE}. Please try again later.
-ETC_20180320_031884	Próximo nv. da guilda
+ETC_20180320_031884	Próximo Nv. da Guilda
 ETC_20180320_031885	Área da Missão da Guilda
 ETC_20180320_031886	Chefes de Guilda
 ETC_20180320_031887	Missão da Guilda{nl}Gostaria de iniciar {nl}{GuildEvent}?
@@ -33019,7 +33019,7 @@ ETC_20180517_032983	Etching 1st Place Buff ({serverBuffCount/1)
 ETC_20180517_032984	Looting Chance +100 in the entire server (120 min)
 ETC_20180517_032985	Looting Chance +300 in the entire server (40 min)
 ETC_20180517_032986	Looting Chance +500 in the entire server (20 min)
-ETC_20180517_032987	{Name} applied the Looting Chance buff!{nl}Looting Chance increased by +{LootingChance} for {Time} minutes!
+ETC_20180517_032987	{Name} ativou o buff de Chance de Drop!{nl}Chance de Drop +{LootingChance} por {Time} minutos!
 ETC_20180517_032988	Cannot use any more today.
 ETC_20180517_032989	Mine Point Shop
 ETC_20180517_032990	That's all. Come back next time.
@@ -33035,8 +33035,8 @@ ETC_20180517_032999	Exchanging
 ETC_20180517_033000	Crystal Mine Shop
 ETC_20180517_033001	Bring your Gemstones to the exchanger and trade them for points.
 ETC_20180517_033002	Insufficient Gemstones.{nl}You need at least 10.
-ETC_20180517_033003	Tem A lost {POINT} points.
-ETC_20180517_033004	Tem B lost {POINT} points.
+ETC_20180517_033003	Team A lost {POINT} points.
+ETC_20180517_033004	Team B lost {POINT} points.
 ETC_20180517_033005	Acquired {COUNT}!
 ETC_20180517_033006	Gemstone Feud começa em 30 minutos.
 ETC_20180517_033007	Gemstone Feud começa em 10 minutos.
@@ -33052,11 +33052,11 @@ ETC_20180517_033016	Server connection unstable.
 ETC_20180517_033017	Server authentication failed.
 ETC_20180517_033018	User authentication failed.
 ETC_20180517_033019	Unknown error.
-ETC_20180517_033020	Your team doesn't have the required authority.
+ETC_20180517_033020	Você não possui a autoridade necessária.
 ETC_20180517_033021	Cannot use during a war.
 ETC_20180517_033022	Cannot use during a ceasefire.
 ETC_20180517_033023	Cannot use; there are still guild members left.
-ETC_20180517_033024	No teams.
+ETC_20180517_033024	Time não encontrado.
 ETC_20180517_033025	Limit exceeded.
 ETC_20180517_033026	Cannot change period.
 ETC_20180517_033027	Cannot be used with your current authorities.
@@ -34670,7 +34670,7 @@ ETC_20180629_034634	Comprar Cabelos e Tinturas
 ETC_20180629_034635	Comprar Lentes
 ETC_20180629_034636	Comprar Visuais Masculinos
 ETC_20180629_034637	Comprar Visuais Femininos
-ETC_20180629_034638	Purchase Cubes
+ETC_20180629_034638	Comprar Cubos
 ETC_20180629_034639	This item is for M characters only.{nl}Are you sure you want to purchase it?
 ETC_20180629_034640	This item is for F characters only.{nl}Are you sure you want to purchase it?
 ETC_20180629_034641	This item cannot be equipped by your current character.
@@ -36491,9 +36491,9 @@ ETC_20181017_036405	If dismantled, the Legend item will be consumed and you may 
 ETC_20181017_036406	 or 	 또는 	ETC_20180517_032907	 .{nl}Do you want to dismantle the item?	 아이템이 지급됩니다.{nl}분해하시겠습니까?	
 ETC_20181017_036407	Legend Jewel	레전드 쥬얼				
 ETC_20181017_036408	Equippable on equipment of level {LEVEL} and below.	{LEVEL} 레벨 이하 아이템에 장착 가능				
-ETC_20181017_036409	You have used all level {LEVEL} Enchant Jewel items.{nl}Close the Enchant Jewel UI?	{LEVEL} 레벨의 인챈트 쥬얼 아이템을 모두 사용하였습니다.{nl}인챈트 쥬얼 UI를 닫으시겠습니까?				
-ETC_20181017_036410	Unable to apply Enchant Jewel ({REASON}).	인챈트 쥬얼을 적용할 수 없는 [{REASON}] 아이템입니다.				
-ETC_20181017_036411	Failed to apply Rare stats.	레어 옵션 부여에 실패했습니다.				
+ETC_20181017_036409	Você usou todos os Enchant Jewel de nível {LEVEL}.{nl}Fechar a janela de Enchant Jewel?
+ETC_20181017_036410	Impossível aplicar o Enchant Jewel ({REASON}).
+ETC_20181017_036411	Falha ao palicar atributos Raros.
 ETC_20181017_036412	Mudar o [Enchant Stat].{nl}O atributo será aplicado imediatamente e não poderá ser revertido.{nl}[Enchant Stat] iguais, mesmo que em itens diferentes, não acumulam. Somente o valor mais alto será aplicado.{nl}Continuar?
 ETC_20181017_036413	Updating trade limits. Please try again.	거래 한도를 받아오는 중입니다. 다시 시도해주세요.				
 ETC_20181017_036414	O seu limite atual do Mercado é{nl}{AMOUNT} Silver.{nl}Tem certeza de que deseja{nl}completar esta compra?
@@ -36576,14 +36576,14 @@ ETC_20181017_036490	Cannot use while the instanced dungeon UI is open. If the pr
 ETC_20181017_036491	Failed to import instanced dungeon data. If the problem persists, please restart the game and try again.	인던 정보를 얻어오는데 실패했습니다. 문제가 지속된다면 재접속을 해보시기 바랍니다.				
 ETC_20181017_036492	There isn't enough space to create a portal.	공간이 협소하여 포탈을 생성할 수 없습니다.				
 ETC_20181017_036493	Clear time: {MIN} min {SEC} sec.	클리어 시간 : {MIN}분 {SEC}초	ETC_20180517_032982	Clear time: {MIN} min {SEC} sec.	클리어 시간 : {MIN}분 {SEC}초 입니다.	
-ETC_20181017_036494	This item cannot be equipped by your current character.	해당 캐릭터는 착용할 수 없는 상품입니다.				
-ETC_20181017_036495	Equipping this item may {nl}{@st66d_y}hide some back costumes or lenses{nl} you may be wearing.{/}{nl}Proceed with the purchase?	해당 헤어 구매 시 {nl}일부 {@st66d_y}등 코스튬과 렌즈가 {nl}보이지 않을 수 있습니다.{/}{nl}그래도 구매하시겠습니까?				
+ETC_20181017_036494	Este item não pode ser equipado pelo seu personagem atual.
+ETC_20181017_036495	Equipar este item pode {nl}{@st66d_y}esconder alguns trajes ou lentes{nl} que você esteja usando.{/}{nl}Prosseguir com a compra?
 ETC_20181017_036496	Unpurchasable Item	구매 불가능한 아이템				
-ETC_20181017_036497	Equipping this item may {nl}{@st66d_y}hide you back costumes or lenses{nl}.{/}{nl}Proceed with the purchase?	해당 아이템 착용 시 {nl}일부 {@st66d_y}등 코스튬이 보이지 않을 수 있습니다.{/}{nl}그래도 구매하시겠습니까?				
-ETC_20181017_036498	Try on themed items	테마 상품 입어보기				
-ETC_20181017_036499	This item cannot be purchased separately.{nl}You have a chance of obtaining it from the {@st66d_y}Goddess' Blessed Cube{nl}.{/}	해당 상품은 개별 구매가 불가능하며,{nl}{@st66d_y}여신의 큐브에서 {nl}확률적으로 획득할 수 있는 아이템입니다.{/}				
-ETC_20181017_036500	This item has been sold or cancelled.	해당 아이템은 이미 팔렸거나 취소된 아이템입니다.				
-ETC_20181017_036501	You are not the owner of this item.	아이템의 소유주가 아닙니다.				
+ETC_20181017_036497	Equipar este item pode {nl}{@st66d_y}esconder alguns trajes ou lentes{nl}.{/}{nl}Prosseguir com a compra?
+ETC_20181017_036498	Experimentar itens temáticos
+ETC_20181017_036499	Não pode ser comprado individualmente!{nl}Você possui uma chance de obtê-lo através de{nl}{@st66d_y}Goddess' Blessed Cube{nl}.{/}
+ETC_20181017_036500	Este item foi vendido ou cancelado.
+ETC_20181017_036501	Você não é o proprietário deste item.
 ETC_20181017_036502	Failed to import item data.	아이템 정보를 얻어오는데 실패했습니다.				
 ETC_20181017_036503	Incorrect parameter data sent to server.	서버로 잘못된 Parameter 정보가 전달되었습니다.				
 ETC_20181017_036504	Unable to process due to server error.	서버오류로 정상적인 처리가 되지 않았습니다.				
@@ -37498,7 +37498,7 @@ ETC_20190104_037412	{value} seconds	{value}초
 ETC_20190104_037413	Use to reset {value} status points.	사용 시 {value}개의 스테이터스 포인트를 초기화 할 수 있습니다.			
 ETC_20190104_037414	You have no stat points to reset.	초기화 할 수 있는 스탯 포인트가 없습니다.			
 ETC_20190104_037415	You do not have enough vouchers.	소유중인 교환권이 부족합니다.			
-ETC_20190104_037416	[Premium] [10%] Discount off new items	[프리미엄]신규 상품 [10%]할인			
+ETC_20190104_037416	[Premium] New Items [10% OFF]	[프리미엄]신규 상품 [10%]할인				
 ETC_20190104_037417	Restricted from trading via Market	마켓 거래 불가			
 ETC_20190104_037418	{@st41b}{#0064FF}Title:{/}{/} 	{@st41b}{#0064FF}칭호 :{/}{/} 	ETC_20150317_001957	{@st41b} Title {/}	{@st41b}칭호 :{/} 
 ETC_20190104_037419	{@st59}Aumenta a cura, Ataque Crítico Mágico e dano de invocações{/}
@@ -37598,18 +37598,18 @@ ETC_20190104_037512	[Psíquico{img notice_br_link 17 17}]
 ETC_20190104_037513	[Vel. Ataque]
 ETC_20190104_037514	[Disponível montado]
 ETC_20190104_037515	[Somente montado]
-ETC_20190104_037516	Summoning...	소환 중			
+ETC_20190104_037516	Invocando...
 ETC_20190104_037517	Acredito que tu sejas mais inteligente do que pareces.{nl}Então, o que achas?{nl}Tu acreditas nas Deusas?{nl}Ou irás seguir-me e, de fato, fazer história?
-ETC_20190104_037518	Giltine's Team Clash	길티네를 따라 : 클라페다 대격돌				
+ETC_20190104_037518	Giltine's Team Clash
 ETC_20190104_037519	Seguir Giltine: Ataque em Klaipeda
 ETC_20190104_037520	Não mesmo, isso não é para mim.
 ETC_20190104_037521	Tu és, de fato, inteligente.
 ETC_20190104_037522	Você já coletou a recompensa do evento hoje.
 ETC_20190104_037523	- Invoque monstros interajindo com os objetos próximos da Estátua da Deusa Ausrine!{nl}- Monstros invocados irão até o campo inimigo.{nl}- Vence o time que mais monstros chegaram no campo inimigo.{nl}- Derrote os monstros inimigos e evite que chegem no seu campo.{nl}- Em 4 minutos, o time que estiver perdendo recebe +10 de Velocidade de Movimento nos seus monstros.{nl}  Cuidado, os monstros são rápidos!
-ETC_20190104_037524	 Requires 30 items.	 아이템 30개가 필요합니다			
-ETC_20190104_037525	Select companion	컴패니언 선택			
-ETC_20190104_037526	[Dico Tomb Thieves]{nl}Arghidas	[디코 도굴단]{nl}아르기다스	ETC_20161214_026225	[Dico Tomb Thieves]{nl}    Arghidas	[디코 도굴단]{nl}   아르기다스
-ETC_20190104_037527	Royal Supplies	왕국 보급품			
+ETC_20190104_037524	 x30 necessários para receber prêmio.
+ETC_20190104_037525	Escolha o Mascote
+ETC_20190104_037526	[Dico Tomb Thieves]{nl}Arghidas
+ETC_20190104_037527	Suprimentos Reais
 ETC_20190104_037528	[Evento] Urbas Seal
 ETC_20190104_037529	Use o Urbas Seal
 ETC_20190104_037530	Patrulhe Sulivinas Lair
@@ -37705,15 +37705,15 @@ ETC_20190104_037619	The player you have invited is not a fellow guild member.	�
 ETC_20190104_037620	You cannot leave the guild while in a party in this area.	해당 지역에서는 파티 상태에서 길드 탈퇴를 할 수 없습니다.			
 ETC_20190104_037621	The player you have invited is not currently in the area.	초대하려는 대상이 해당 지역에 없습니다.			
 ETC_20190104_037622	You cannot form parties with people that do not belong to the same guild as you in this area.	해당 지역에서는 같은 길드 구성원이 아니면 파티에 가입할 수 없습니다.			
-ETC_20190104_037623	The war against the [{GuildName}] guild has begun.	[{GuildName}]길드와 전쟁이 시작되었습니다.	ETC_20151224_019707	The war against the {GuildName} guild has begun.	{GuildName}길드와 전쟁이 시작되었습니다.
-ETC_20190104_037624	The war against the [{GuildName}] guild has ended.	[{GuildName}]길드와 전쟁이 종료되었습니다.	ETC_20151224_019708	The war against the {GuildName} guild has ended.	{GuildName}길드와 전쟁이 종료되었습니다.
-ETC_20190104_037625	The [{Name1}] guild has declared war against the [{Name2}] guild.	[{Name1}]길드가 [{Name2}]길드에게 전쟁을 선포했습니다.	ETC_20160224_020625	The {Name1} guild has declared war against the {Name2} guild.	{Name1}길드가 {Name2}길드에게 전쟁을 선포했습니다.
-ETC_20190104_037626	The [{Name1}] guild has withdrawn their declaration of war against the [{Name2}] guild.	[{Name1}]길드가 [{Name2}]길드에게 전쟁 선포를 취소했습니다.	ETC_20160224_020629	The {Name1} guild has withdrawn their declaration of war against the {Name2} guild.	{Name1}길드가 {Name2}길드에게 전쟁 선포를 취소했습니다.
-ETC_20190104_037627	{Time} remains in the war with the [{Name}] guild.	[{Name}]길드와 전쟁시간이 {Time}남았습니다.	ETC_20160224_020631	{Time} remain in the war with the {Name} guild.	{Name}길드와 전쟁시간이 {Time}남았습니다.
-ETC_20190104_037628	Your Guild Tower is under attack by the [{Name}] guild.	길드타워가 [{Name}]길드에게 공격받고 있습니다.	ETC_20160224_020632	Your Guild Tower is under attack by the {Name} guild.	길드타워가 {Name}길드에게 공격받고 있습니다.
-ETC_20190104_037629	The war between the [{Name1}] guild and the [{Name2}] guild has ended.	[{Name1}]길드와 [{Name2}]길드의 전쟁이 종료되었습니다.	ETC_20160224_020633	The war between the {Name1} guild and the {Name2} guild has ended.	{Name1}길드와 {Name2}길드의 전쟁이 종료되었습니다.
-ETC_20190104_037630	The [{Name1}] guild has destroyed [{Name2}]'s Guild Tower.	[{Name1}]길드가 [{Name2}]길드의 타워를 파괴하였습니다.	ETC_20160224_020634	The {Name1} guild has destroyed {Name2}'s Guild Tower.	{Name1}길드가 {Name2}길드의 타워를 파괴하였습니다.
-ETC_20190104_037631	The Tower was destroyed by [{Name}] guild.	[{Name}]길드에게 파괴당함.	ETC_20160224_020635	The {Name} guild was destroyed.	{Name}길드에게 파괴당함.
+ETC_20190104_037623	A guerra contra a Guilda [{GuildName}] iniciou!
+ETC_20190104_037624	A guerra contra a Guilda [{GuildName}] terminou!
+ETC_20190104_037625	A Guilda [{Name1}] declarou guerra contra a Guilda [{Name2}]!
+ETC_20190104_037626	A Guilda [{Name1}] retirou a declaração de guerra contra a Guilda [{Name2}].
+ETC_20190104_037627	{Time} restante de guerra com a Guilda [{Name}].
+ETC_20190104_037628	A Torre da sua Guilda está sendo atacada pela Guilda [{Name}]!
+ETC_20190104_037629	A guerra entre as Guildas [{Name1}] e [{Name2}] terminou.
+ETC_20190104_037630	A Guilda [{Name1}] destruiu a Torre da Guilda [{Name2}]!
+ETC_20190104_037631	A Torre foi destruída pela Guilda [{Name}]!
 ETC_20190104_037632	Guild member [{#FF0000}{Name}{/}] has been defeated by [{#FF0000}{FromGuild}{/}]'s [{#FF0000}{From}{/}].	길드원 [{#FF0000}{Name}{/}]님이 [{#FF0000}{FromGuild}{/}]길드의 [{#FF0000}{From}{/}]에게 전투 불능 상태가 되셨습니다.	ETC_20171128_031009	Guild member {Name} has been attacked by {From} of {FromGuild}.	길드원 {Name}님이 {FromGuild}의 {From}에게 당했습니다.
 ETC_20190104_037633	Guild member [{#FF0000}{Name}{/}] has defeated [{#FF0000}{FromGuild}{/}]'s [{#FF0000}{From}{/}].	길드원 [{#FF0000}{Name}{/}]님이 [{#FF0000}{TargetGuild}{/}]길드의 [{#FF0000}{Target}{/}]을 처치했습니다.	ETC_20171128_031010	Guild member {Name} has defeated {Target} of {TargetGuild}.	길드원 {Name}님이 {TargetGuild}의 {Target}을 처치했습니다.
 ETC_20190104_037634	Missão de Guilda{nl}Gostaria de iniciar [{GuildEvent}]?
@@ -37730,7 +37730,7 @@ ETC_20190104_037644	You currently cannot use the Shared Guild Storage.	길드 �
 ETC_20190104_037645	Your Guild level is not high enough.	길드 레벨이 부족합니다.			
 ETC_20190104_037646	You cannot start a new guild while a GTW session is being held.	길드 콜로니전이 진행중인 시간에는 길드를 개설할 수 없습니다.			
 ETC_20190104_037647	You must complete 12 guild quests first.	길드 퀘스트를 12회 이상 완료하셔야 합니다.			
-ETC_20190104_037648	There are no online Guild members with the authority to accept applications. 	가입 승인 직급이 있는 접속한 길드원이 없습니다. 			
+ETC_20190104_037648	Não há membros da Guilda online no momento que possuem autoridade para aceitar pedidos.
 ETC_20190104_037649	Your Trade Grade is not sufficient to use the Shared Guild Storage.	개인 거래 등급이 낮아 길드 공용 창고를 이용할 수 없습니다.			
 ETC_20190104_037650	This item cannot be stored in the Shared Guild Storage.	길드 공용 창고를 이용할 수 없는 아이템 입니다.			
 ETC_20190104_037651	A new Guild application has arrived.	가입 요청이 들어왔습니다.			
@@ -40894,7 +40894,7 @@ ETC_20190223_040808	Raid de Hangout da Guilda
 ETC_20190223_040809	Você pode participar de uma Raid de Hangout da Guilda quando o Nível da Guilda alcançar o nível 5.
 ETC_20190223_040810	A Raid de Hangout da Guilda acontece no Hangout da sua Guilda.{nl}Requer que a Guilda esteja no nível 5 para que possa ser iniciada.{nl}Interaja com a Sage Emissária no Hangout da sua Guilda para iniciar a Raid.
 ETC_20190223_040811	{nl} {nl}Para iniciar uma Raid de Hangout da Guilda, você precisa ser o Líder da Guilda ou ter a autoridade para isso.{nl}A dificuldade será ajustada quando a Guilda alcançar o nível 6.
-ETC_20190223_040812	Níveis maiores de dificuldade serão liberados conforme o Nível da Guilda aumenta, atingindo no máximo o nível 15 de dificuldade.
+ETC_20190223_040812	Níveis maiores de dificuldade serão liberados conforme o Nível da Guilda aumenta, atingindo no máximo o nível 11 de dificuldade quando a Guilda alcança no Nível 15.
 ETC_20190223_040813	{nl} {nl}Somente membros da Guilda podem participar das Raids, e ela pode ser continuada ao derrotar o monstro Chefe.
 ETC_20190223_040814	Você pode invocar um novo monstro Chefe após derrotar o atual. Se a Raid for interrompida por qualquer motivo, você pode reiniciar de onde parou, com o HP do Chefe da forma que estava quando parou.{nl} {nl}Membros da Guilda que voltaram depois de terem saído não poderão participar destas Raids por 14 dias.{nl}Membros de outras Guildas não poderão participar das Raids da sua Guilda.
 ETC_20190223_040815	{nl} {nl}Participantes recebem 1 ponto de contribuição por 10.000 de dano causado no monstro Chefe.{nl}Os pontos de contribuição serão somados e convertidos em Silver toda Segunda-feira, às 6AM, pela Sage Emissária.
@@ -40998,13 +40998,13 @@ ETC_20190223_040912	O Mestre retornou!
 ETC_20190223_040913	Todos os guardiões, saúdem o Mestre!
 ETC_20190223_040914	Seus patetas preguiçosos!
 ETC_20190223_040915	Portal para a Guardian's Antechambers está aberto.{nl}Permanecerá aberto pelos próximos 30 minutos.
-ETC_20190223_040916	{@st42}{s16}Comparecimento
+ETC_20190223_040916	{@st42}{s16}Check
 ETC_20190223_040917	Vou participar.
 ETC_20190223_040918	Obrigado pela cooperação. Por favor, tenha cuidado.
 ETC_20190223_040919	O Chefe de Raid irá aparecer no Hangout da Guilda.
 ETC_20190223_040920	O Chefe de Raid apareceu no hangout da Guilda.
-ETC_20190223_040921	Seus pontos de contribuição da Raid de Hangout da Guilda são
-ETC_20190223_040922	e seu grau de contribuição é
+ETC_20190223_040921	Seus pontos de contribuição da Raid de Hangout da Guilda são 
+ETC_20190223_040922	, grau de contribuição 
 ETC_20190223_040923	.
 ETC_20190223_040924	Verificar grau de contribuição
 ETC_20190223_040925	A Raid em aberto foi interrompida por causa do período de reinício.
@@ -41071,3 +41071,23 @@ ETC_20190309_040985	Entrada permitida somente durante os seguintes horários:{nl
 ETC_20190309_040986	Entrada do Gemstone Feud
 ETC_20190316_040987	GM's Astro Ambition Costume Selection Box
 ETC_20190316_040988	Use para escolher um dos seguintes itens: {nl} - GM's Astro Ambition Costume (M) x1{nl} - GM's Astro Ambition Costume (F) x1
+ETC_20190322_040989	Doll (Fairy)
+ETC_20190322_040990	Erro na troca de Classe Base.
+ETC_20190322_040991	Mystic Savior School Uniform Selection Box
+ETC_20190322_040992	Use para escolher um dos seguintes itens:{nl} - Mystic Savior School Uniform (M) x1{nl} - Mystic Savior School Uniform (F) x1
+ETC_20190322_040993	Mystic Savior - Diamond Selection Box
+ETC_20190322_040994	Use para escolher um dos seguintes itens:{nl} - Mystic Boy - Diamond (M) x1{nl} - Mystic Girl - Diamond (F) x1{nl} - Mystic Girl - Diamond (M) x1
+ETC_20190322_040995	Mystic Savior - Heart Selection Box
+ETC_20190322_040996	Aumenta os pontos de atributo em 5. Clique com o botão direito do mouse para usar.
+ETC_20190322_040997	Magic Circle: Heart
+ETC_20190322_040998	Magic Circle: Diamond
+ETC_20190322_040999	[Evento] Oh, oh! O que temos aqui?
+ETC_20190322_041000	Obter [Evento] Fogueira de Pesca (1 dia)
+ETC_20190322_041001	Obter [Evento] Isca Artificial (1 Dia)
+ETC_20190322_041002	Receber lote diário de [Evento] Piramboia
+ETC_20190322_041003	Comprar [Evento] Piramboia
+ETC_20190322_041004	Brilhando através da escuridão! Salvador Místico Diamanteeee---!!
+ETC_20190322_041005	Pela coragem e pela justiça! Salvador Místico de Copaaaas---!!
+ETC_20190322_041006	{s24}Parabéns!{nl}{PC} achou {ITEMNAME} em um Hidden Treasure Chest!
+ETC_20190322_041007	Obteve [Evento] Piramboia.
+ETC_20190326_041008	Recompensas Diárias de Abril
