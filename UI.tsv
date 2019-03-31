@@ -271,7 +271,7 @@ UI_20150317_000270	{@st59}Traje{/}
 UI_20150317_000271	{@st59}Topo{/}
 UI_20150317_000272	{@st59}Luvas{/}
 UI_20150317_000273	{@st59}Calças{/}
-UI_20150317_000274	{@st59}Sapatos{/}
+UI_20150317_000274	{@st59}Botas{/}
 UI_20150317_000275	{@st59}Mão Esquerda{/}
 UI_20150317_000276	{@st59}Mão Direita{/}
 UI_20150317_000277	{@st59}Bracelete 1{/}
@@ -2396,15 +2396,15 @@ UI_20161005_002394	{@st66b}Coordenadas{/}
 UI_20161005_002395	{@st42b}Abrir Portal
 UI_20161005_002396	{@st66b}Corregamento do Portal{/}
 UI_20161010_002397	{@st66d_y}{s20}All{/}
-UI_20161107_002398	{@st43}Exchange List{/}
-UI_20161107_002399	{@st41b}Total Medal Consumed : {/}
-UI_20161107_002400	{@st41b}Total Medal Obtained : {/}
+UI_20161107_002398	{@st43}Lista de Troca{/}
+UI_20161107_002399	{@st41b}Medalhas Consumidas: {/}
+UI_20161107_002400	{@st41b}Medalhas Obtidas: {/}
 UI_20161107_002401	Quer gastar Medalhas pelo item?
 UI_20161107_002402	Uma vez trocado, não pode voltar atrás.
 UI_20161107_002403	Você quer trocar esse item por Medalhas?
-UI_20161107_002404	Exchanging the purchased back to medal might cause some loss due to the exchange rate.
+UI_20161107_002404	Trocar os itens comprados novamente por outras medalhas pode gerar perdas, devido as taxas.
 UI_20161107_002405	{@st43}{s24}TP Shop
-UI_20161107_002406	{@st43}{s24}NEW{/}
+UI_20161107_002406	{@st43}{s24}NOVIDADE{/}
 UI_20161107_002407	  {img Nexon_cash_mark 30 30} Owne{/}{/}
 UI_20161107_002408	{@st66d}{s20}Recarregar Carteira Steam{/}
 UI_20161107_002409	{@st66d}{s18}Prévia/Comprar{/}
@@ -2412,7 +2412,7 @@ UI_20161107_002410	{@st66d}Resetar Prévia{/}
 UI_20161107_002411	{@st66d}Finalizar Compra{/}
 UI_20161107_002412	  TP Atual{/}
 UI_20161107_002413	  TP Restante{/}
-UI_20161107_002414	{@st66d}Trocar por Medalha{/}
+UI_20161107_002414	{@st66d}Trocar Medalha{/}
 UI_20161107_002415	{@st66d}Trocar por Item{/}
 UI_20161107_002416	  Medalhas Atual{/}
 UI_20161107_002417	  Medalhas Restantes{/}
@@ -2424,7 +2424,7 @@ UI_20161107_002422	Trocar medalhas por itens
 UI_20161107_002423	Compráveis
 UI_20161107_002424	Vendíveis
 UI_20161107_002425	{@st66d}{s18}Top 5 Vendidos{/}
-UI_20161107_002426	{@st55_b} Enter a keyword.{/}
+UI_20161107_002426	{@st55_b} Digite algo para buscar.{/}
 UI_20161107_002427	 TP Purchaseable
 UI_20161107_002428	{@st66d}{s18}Special Offer{/}
 UI_20161107_002429	{@st66d}Comprar{/}
@@ -2437,11 +2437,11 @@ UI_20161107_002435	{@st66}{s18}Right to Cancel{/}
 UI_20161107_002436	{@st42b}{s16}Comprar{/}
 UI_20161107_002437	{@st42}{s16} Medal Cost {/}{img icon_item_recyclemedal 20 20}{/}
 UI_20161107_002438	{@st42}{s16} Obtained Medal {/}{img icon_item_recyclemedal 20 20}{/}
-UI_20161107_002439	Owned: %s
+UI_20161107_002439	Obtido: %s
 UI_20161107_002440	{@st42b}{s16}Comprar{/}
-UI_20161107_002441	{@st42b}{s16}Exchange for Medal{/}
-UI_20161107_002442	Medal Consumed
-UI_20161107_002443	Medal Obtained
+UI_20161107_002441	{@st42b}{s16}Trocar Medalhas{/}
+UI_20161107_002442	Medalhas Consumidas
+UI_20161107_002443	Medalhas Obtidas
 UI_20161108_002444	{@st43}%s obtido!{/}
 UI_20161108_002445	{@st42b}Open Goddess' Blessed Cube X %s
 UI_20161108_002446	{@st42b}Abrir Cubo Secreto da Leticia X %s
@@ -2926,7 +2926,7 @@ UI_20171128_002925	Fechar UI.
 UI_20171128_002926	Check Period
 UI_20171128_002927	* Recompensas por comparecimento diário serão enviadas automaticamente uma vez por dia ao inventário do primeiro personagem a acessar o jogo.{nl}* Enchant Scroll (14 Dias).{nl}* Recompensas só podem ser recebidas durante o período de verificação de comparecimento. Após esse período, as recompensas deixarão de ser eviadas.{nl}
 UI_20171128_002928	{@st66b18}※ A Mudança do Nome do seu Time com TP não é reembolsável.{/}
-UI_20171128_002929	Tamanho%s
+UI_20171128_002929	Tamanho %s
 UI_20171128_002930	{@st42b}Checar
 UI_20171128_002931	Expandir Armazém de Guilda
 UI_20171128_002932	> Recompensas são %s semanalmente.{nl}> As recompensas incluem  

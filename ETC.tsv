@@ -12732,7 +12732,7 @@ ETC_20150714_012733	You have found the information about the flow of the magical
 ETC_20150714_012734	You didn't find any particular information
 ETC_20150714_012735	It will be dangerous if you go near
 ETC_20150714_012736	Os Olhos do Grande Rei sussuraram que a pessoa certa apareceu
-ETC_20150714_012737	You can only use it in the Lot 2 of the Crystal Mine
+ETC_20150714_012737	Você só pode usar isso em Crystal Mine Lot 2
 ETC_20150714_012738	Derrote the monsters protecting the Demon Summoning Circle first!
 ETC_20150714_012739	Nepenthes is confused! Collect the Spiritually Enchanted Sap now!
 ETC_20150714_012740	Neutralize Nepenthes and collect the Spiritually Enchanted Sap!
@@ -20559,7 +20559,7 @@ ETC_20160224_020553	You are currently infusing magic into an item. Please try ag
 ETC_20160224_020554	You have exceeded the amount of silver you can carry.
 ETC_20160224_020555	You have exceeded the maximum amount of registrations.
 ETC_20160224_020556	Up to 2 times with Token benefits
-ETC_20160224_020557	Are you sure you want to expand{nl}{SLOT} slot(s) for {Silver} silver?
+ETC_20160224_020557	Tem certeza que deseja expandir{nl}{SLOT} espaço(s) por {Silver} Silver?
 ETC_20160224_020558	Cannot be used to go back to the area.
 ETC_20160224_020559	This item cannot be awakened.
 ETC_20160224_020560	When awakening an item, your magic scroll and the item's current awakened options will disappear. Do you still want to proceed?
@@ -22337,11 +22337,11 @@ ETC_20160718_022331	/y O que você deseja dizer
 ETC_20160718_022332	/p O que você deseja dizer
 ETC_20160718_022333	/g O que você deseja dizer
 ETC_20160718_022334	/w Nome do time + O que você deseja dizer
-ETC_20160718_022335	Warrior Costume
-ETC_20160718_022336	Wizard Costume
-ETC_20160718_022337	Archer Costume
-ETC_20160718_022338	Cleric Costume
-ETC_20160718_022339	Common Costume
+ETC_20160718_022335	Traje de Swordsman
+ETC_20160718_022336	Traje de Wizard
+ETC_20160718_022337	Traje de Archer
+ETC_20160718_022338	Traje de Cleric
+ETC_20160718_022339	Trajes Comuns
 ETC_20160718_022340	Ingredientes
 ETC_20160718_022341	Resultado
 ETC_20160718_022342	Informação
@@ -22930,8 +22930,8 @@ ETC_20160723_022924	Do you wish to enter an ongoing battle?
 ETC_20160723_022925	{@st59}Increases Physical and Ataque Crítico, Penetração de Bloqueio and Peso Máximo Carregável{/}
 ETC_20160723_022926	You either don't have a socket or using all sockets
 ETC_20160723_022927	é requerido.
-ETC_20160723_022928	The Token matches
-ETC_20160723_022929	The Token does not match
+ETC_20160723_022928	Token combina
+ETC_20160723_022929	Token não combina
 ETC_20160723_022930	Returning the Expensive-looking Box
 ETC_20160723_022931	Event Trigger
 ETC_20160723_022932	Event Trigger2
@@ -27973,7 +27973,7 @@ ETC_20170605_027946	Não pode ser usado enquanto montado.
 ETC_20170605_027947	Não pode ser usado no status atual. 
 ETC_20170605_027948	You have received {COUNT} Wooden Planks
 ETC_20170605_027949	{MIN} minuto(s) se passaram desde o início do evento.
-ETC_20170605_027950	You have already participated in the event today. 
+ETC_20170605_027950	Você já participou do evento hoje.
 ETC_20170605_027951	Missão 
 ETC_20170605_027952	{nl} If you are about to use Cheat
 ETC_20170605_027953	{nl}while using the quest tool
@@ -31942,7 +31942,7 @@ ETC_20180320_031910	[Kedora Alliance]{nl}Geraldasia
 ETC_20180320_031911	[Kedora Alliance]{nl}Geraldason
 ETC_20180320_031912	Blue Greentoshell
 ETC_20180320_031913	Quest failed. All players have been incapacitated.
-ETC_20180320_031914	Defeat the monster in the Basement Facility!
+ETC_20180320_031914	Derrote o monstro na Basement Facility!
 ETC_20180320_031915	Start Log
 ETC_20180320_031916	End Log
 ETC_20180320_031917	1st Room Log
@@ -37456,7 +37456,7 @@ ETC_20190104_037370	Class Change has started. Please wait while it is processed.
 ETC_20190104_037371	Class Change is currently underway.	클래스 변경 중에 있습니다.	ETC_20161221_026378	Resetting ranks.	랭크 초기화중에 있습니다.
 ETC_20190104_037372	Você tem Rank Cards para usar.{nl}Você poderá trocar de classe ase após usar todos os{nl}Rank Cards e Class EXP Recovery Cards.
 ETC_20190104_037373	You have either already reached the maximum level in the current rank or have exceeded the rank at which you can use the item.{nl}Click confirm to remove the card from the inventory.	이미 해당 랭크에 최고 레벨을 달성하셨거나 사용할 수 있는 랭크를 초과하였습니다.{nl}확인을 누르면 카드가 삭제됩니다.	ETC_20170510_027885	You have surpassed the Rank at which this card can be used.{nl}Confirm to delete the card.	이미 사용할 수 있는 랭크를 초과하였습니다.{nl}확인을 누르면 카드가 삭제됩니다.
-ETC_20190104_037374	[Item Removal] {ItemName} has expired and will be removed.	[아이템 삭제] {ItemName} 기간 만료로 삭제 됩니다.			
+ETC_20190104_037374	[Remoção de Item] {ItemName} expirou e será removido.
 ETC_20190104_037375	Gem Selection Box	젬 선택 상자			
 ETC_20190104_037376	{@st66d_y}{s20}{ITEM}{/}{/} {nl}Are you sure about your selection?{nl} {nl}Your choice cannot be reverted.	{@st66d_y}{s20}{ITEM}{/}{/} {nl}을/를 정말 선택하시겠습니까?{nl} {nl}선택 후에는 다른 선택지로 변경 할 수 없습니다.			
 ETC_20190104_037377	Dragon Strength {img green_up_arrow 16 16}	드래곤 기운 {img green_up_arrow 16 16}			
