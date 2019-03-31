@@ -25,7 +25,7 @@ UI_20150317_000024	{@st41b}Preço Inicial
 UI_20150317_000025	{@st41b}Lances
 UI_20150317_000026	{@st41b}Preço Atual
 UI_20150317_000027	{@st41b}Preço do Lance
-UI_20150317_000028	{@st41b}Preço Mínimo do Lance {@st57}%s{@st41b}de prata{/}
+UI_20150317_000028	{@st41b}Preço Mínimo do Lance {@st57}%s{@st41b} Silver{/}
 UI_20150317_000029	{@st41b}Lance{/}
 UI_20150317_000030	{@st43b}Comprar Já!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@st44}Configurações de Autorização{/}
@@ -1223,8 +1223,8 @@ UI_20150317_001222	Dica de ferramenta
 UI_20150317_001223	EXP: sad{br}+1 Cristal de Encantamento (Ataque)
 UI_20150317_001224	Espada de Aprendiz
 UI_20150317_001225	Durabilidade de Conserto:
-UI_20150317_001226	Custo de Conserto: 120 de prata
-UI_20150317_001227	Custo de Conserto: %s de prata
+UI_20150317_001226	Custo de Conserto: 120 Silve
+UI_20150317_001227	Custo de Conserto: %s Silver
 UI_20150317_001228	{@st42b}Quantidade de Lances {@sti7}%s{/}
 UI_20150317_001229	{@st42b}Preço Atual {img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001230	{@St41}Compra agora! {Img icon_item_silver 20 20}{@st57}%s{/}
@@ -1306,9 +1306,9 @@ UI_20150323_001305	{@st41b}Renovar
 UI_20150323_001306	{@st59}Renova o tempo de duração.{/}
 UI_20150323_001307	{@st41b}Duração do Acampamento
 UI_20150323_001308	{@st41b}Efeito
-UI_20150323_001309	{@st42b}Quando renovado, o acampamento permanece por mais 24 horas. Consome %s de prata.
+UI_20150323_001309	{@st42b}Quando renovado, o acampamento permanece por mais 24 horas. Consome %s Silver.
 UI_20150323_001310	{@st41b}Depósito Pessoal
-UI_20150323_001311	{@stc1}Guardar e pegar itens no depósito custa %s de prata.{/}
+UI_20150323_001311	{@stc1}Guardar e pegar itens no depósito custa %s Silver.{/}
 UI_20150323_001312	{@st41}{#ffff00}Travar Alvo{/}
 UI_20150323_001313	{@st43}Mesa de Refeição
 UI_20150323_001314	{@st41b}Tipo de comida
@@ -1377,7 +1377,7 @@ UI_20150323_001375	{@st41b}Aplicar Intensidade {/}
 UI_20150323_001376	{@st41b}Aplicar Suavidade{/}
 UI_20150323_001377	{@st43}Depósito Pessoal{/}
 UI_20150323_001378	{@st59}Fechar Depósito Pessoal{/}
-UI_20150323_001379	{@sti6}Guardar e pegar itens no depósito custa %s de prata...{/}
+UI_20150323_001379	{@sti6}Guardar e pegar itens no depósito custa %s Silver...{/}
 UI_20150323_001380	{@st59}Alt+Z para mudar de arma{/}
 UI_20150323_001381	{@st59}Salvar Configurações do Alojamento{/}
 UI_20150323_001382	Mudar Alojamento
@@ -1404,7 +1404,7 @@ UI_20150323_001402	{@st41}Criar
 UI_20150323_001403	{@st41}Quantidade
 UI_20150323_001404	{@st41}Material Consumível
 UI_20150401_001405	{@st59}Fechar Briquetagem{/}
-UI_20150401_001406	{@st41}Remover Acampamento
+UI_20150401_001406	{@st41}Remover Barraca
 UI_20150401_001407	{@st43}[Círculo %s]{/}
 UI_20150401_001408	{@st43}Habilidade{/}
 UI_20150401_001409	{@st43}Dica de Classe{/}
@@ -1460,8 +1460,8 @@ UI_20150406_001458	{@st42}Cancelar
 UI_20150406_001459	{@stc1}Duração do Acampamento
 UI_20150406_001460	{@st41b}Acampamento
 UI_20150406_001461	{@st41b}Duração do Acampamento
-UI_20150406_001462	{@st42b}Quando renovado, o acampamento permanece por mais 24 horas. {nl}Consome %s de prata.
-UI_20150406_001463	{@st41}Remover Acampamento
+UI_20150406_001462	{@st42b}Quando renovado, o acampamento permanece por mais 24 horas. {nl}Consome %s Silver.
+UI_20150406_001463	{@st41}Remover Barraca
 UI_20150406_001464	{@st42}Remover Mesa
 UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Coloque um cartão no deck para iniciar a invocação{/}
 UI_20150406_001466	{@st41}Minha Habilidade de Invocação
@@ -1478,7 +1478,7 @@ UI_20150406_001476	{@st59}Venda o(s) item(ns) que adquiriu.{/}
 UI_20150406_001477	{@st59}Fechar Depósito Pessoal{/}
 UI_20150406_001478	{@st41b} %s Guardar e pegar itens do Depósito consome prata.{/}
 UI_20150406_001479	{@st41b}Quantidade
-UI_20150414_001480	{@st42b}A duração do acampamento pode ser aumentada.{nl} Custo: %s de prata.
+UI_20150414_001480	{@st42b}A duração do acampamento pode ser aumentada.{nl} Custo: %s Silver.
 UI_20150414_001481	{@st41b}Tipo {@sti7}%s{/}
 UI_20150414_001482	{@st41b}Dificuldade de Controle {@sti7}%s{/}
 UI_20150414_001483	{@st59b} Item {/}
@@ -1554,19 +1554,19 @@ UI_20150428_001552	No mínimo Nv 100: (%s/%s)
 UI_20150511_001553	{@st41}Link de Convite de Grupo
 UI_20150714_001554	{@st66b}Itens Vendidos: ×%s/Itens Não Vendidos: ×%s{/}
 UI_20150714_001555	{@st41b}Registro da Negociação
-UI_20150714_001556	{@st41b}Remover Acampamento
+UI_20150714_001556	{@st41b}Remover Barraca
 UI_20150714_001557	Card Battles
 UI_20150714_001558	{@st64}%s Vitória(s) {/}
 UI_20150714_001559	Selecionar Cartão
 UI_20150714_001560	Índice de Aventura:{#ffff00} %s{/} ({#ffff00}classificação #%s{/})
 UI_20150714_001561	{@st66b}Curtir!
 UI_20150714_001562	Eu curto esse jogador {#ffff00}%s{/}
-UI_20150714_001563	{@st41b}Remover Mesa de Refeição
+UI_20150714_001563	{@st41b}Remover Mesa
 UI_20150714_001564	{@st42}Minha Habilidade de Invocação
 UI_20150714_001565	{@st42}Atributo
 UI_20150714_001566	{@st42}Local Atual: %s{/}
 UI_20150714_001567	{@st59b}Equipamento {nl}{@st59s} - Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Topo, Calças, Luvas, Calçados. {nl} - Acessórios: 1 Colar e 2 Braceletes. {nl} {/}
-UI_20150714_001568	{@st43}Abrir %s Loja {/}
+UI_20150714_001568	{@st43}%s: Abrir Loja{/}
 UI_20150714_001569	{@st41b}Lapidação{/}
 UI_20150714_001570	{@st66}Selecionar Tudo
 UI_20150714_001571	{@st43}Criar Flecha{/}
@@ -1773,7 +1773,7 @@ UI_20150804_001771	Soquetes Máximos : %s
 UI_20150807_001772	{@st41b}Detalhes {img red_down_arrow 16 16}
 UI_20150807_001773	{@st41b}Preço :{/}
 UI_20150807_001774	{@st41b}Após Reparo :{/}
-UI_20150918_001775	Duração do Acampamento
+UI_20150918_001775	Duração Barraca
 UI_20150918_001776	 - Efeito
 UI_20150918_001777	A duração do acampamento aumenta ao ser renovado{nl} Requer %s de prata.
 UI_20150918_001778	Depósito Pessoal
@@ -1838,10 +1838,10 @@ UI_20151224_001836	{@st43}Loja de Graças
 UI_20151224_001837	Loja de Graças
 UI_20151224_001838	{@st59}Fechar
 UI_20151224_001839	{@st59}Loja de Graças{nl} - Você pode receber buffs do jogador pagando em Silver.
-UI_20151224_001840	{@st41b}Build
+UI_20151224_001840	{@st41b}Construir
 UI_20151224_001841	{@st41b}Materiais e Preço
 UI_20151224_001842	{@st66b}Basement
-UI_20151224_001843	{@st66b}Records
+UI_20151224_001843	{@st66b}Registros
 UI_20151224_001844	Legs Quantity
 UI_20151224_001845	{@st41}Confirmar
 UI_20151224_001846	{@st42}Use{/}
@@ -1892,7 +1892,7 @@ UI_20151224_001890	{@st59}Penteado{/}
 UI_20151224_001891	{@st41b}Cancelar
 UI_20151224_001892	{@st41b}Confirmar
 UI_20151224_001893	{@st66b}Lapidação{/}
-UI_20151224_001894	{@st66b}Records{/}
+UI_20151224_001894	{@st66b}Registros{/}
 UI_20151224_001895	Remaining Number
 UI_20151224_001896	{@st66b}Manutenção{/}
 UI_20151224_001897	{@st66b}Reparar{/}
