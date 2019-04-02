@@ -25,7 +25,7 @@ UI_20150317_000024	{@st41b}Preço Inicial
 UI_20150317_000025	{@st41b}Lances
 UI_20150317_000026	{@st41b}Preço Atual
 UI_20150317_000027	{@st41b}Preço do Lance
-UI_20150317_000028	{@st41b}Preço Mínimo do Lance {@st57}%s{@st41b}de prata{/}
+UI_20150317_000028	{@st41b}Preço Mínimo do Lance {@st57}%s{@st41b} Silver{/}
 UI_20150317_000029	{@st41b}Lance{/}
 UI_20150317_000030	{@st43b}Comprar Já!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@st44}Configurações de Autorização{/}
@@ -271,7 +271,7 @@ UI_20150317_000270	{@st59}Traje{/}
 UI_20150317_000271	{@st59}Topo{/}
 UI_20150317_000272	{@st59}Luvas{/}
 UI_20150317_000273	{@st59}Calças{/}
-UI_20150317_000274	{@st59}Sapatos{/}
+UI_20150317_000274	{@st59}Botas{/}
 UI_20150317_000275	{@st59}Mão Esquerda{/}
 UI_20150317_000276	{@st59}Mão Direita{/}
 UI_20150317_000277	{@st59}Bracelete 1{/}
@@ -1223,8 +1223,8 @@ UI_20150317_001222	Dica de ferramenta
 UI_20150317_001223	EXP: sad{br}+1 Cristal de Encantamento (Ataque)
 UI_20150317_001224	Espada de Aprendiz
 UI_20150317_001225	Durabilidade de Conserto:
-UI_20150317_001226	Custo de Conserto: 120 de prata
-UI_20150317_001227	Custo de Conserto: %s de prata
+UI_20150317_001226	Custo de Conserto: 120 Silve
+UI_20150317_001227	Custo de Conserto: %s Silver
 UI_20150317_001228	{@st42b}Quantidade de Lances {@sti7}%s{/}
 UI_20150317_001229	{@st42b}Preço Atual {img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_001230	{@St41}Compra agora! {Img icon_item_silver 20 20}{@st57}%s{/}
@@ -1306,9 +1306,9 @@ UI_20150323_001305	{@st41b}Renovar
 UI_20150323_001306	{@st59}Renova o tempo de duração.{/}
 UI_20150323_001307	{@st41b}Duração do Acampamento
 UI_20150323_001308	{@st41b}Efeito
-UI_20150323_001309	{@st42b}Quando renovado, o acampamento permanece por mais 24 horas. Consome %s de prata.
+UI_20150323_001309	{@st42b}Quando renovado, o acampamento permanece por mais 24 horas. Consome %s Silver.
 UI_20150323_001310	{@st41b}Depósito Pessoal
-UI_20150323_001311	{@stc1}Guardar e pegar itens no depósito custa %s de prata.{/}
+UI_20150323_001311	{@stc1}Guardar e pegar itens no depósito custa %s Silver.{/}
 UI_20150323_001312	{@st41}{#ffff00}Travar Alvo{/}
 UI_20150323_001313	{@st43}Mesa de Refeição
 UI_20150323_001314	{@st41b}Tipo de comida
@@ -1377,7 +1377,7 @@ UI_20150323_001375	{@st41b}Aplicar Intensidade {/}
 UI_20150323_001376	{@st41b}Aplicar Suavidade{/}
 UI_20150323_001377	{@st43}Depósito Pessoal{/}
 UI_20150323_001378	{@st59}Fechar Depósito Pessoal{/}
-UI_20150323_001379	{@sti6}Guardar e pegar itens no depósito custa %s de prata...{/}
+UI_20150323_001379	{@sti6}Guardar e pegar itens no depósito custa %s Silver...{/}
 UI_20150323_001380	{@st59}Alt+Z para mudar de arma{/}
 UI_20150323_001381	{@st59}Salvar Configurações do Alojamento{/}
 UI_20150323_001382	Mudar Alojamento
@@ -1404,7 +1404,7 @@ UI_20150323_001402	{@st41}Criar
 UI_20150323_001403	{@st41}Quantidade
 UI_20150323_001404	{@st41}Material Consumível
 UI_20150401_001405	{@st59}Fechar Briquetagem{/}
-UI_20150401_001406	{@st41}Remover Acampamento
+UI_20150401_001406	{@st41}Remover Barraca
 UI_20150401_001407	{@st43}[Círculo %s]{/}
 UI_20150401_001408	{@st43}Habilidade{/}
 UI_20150401_001409	{@st43}Dica de Classe{/}
@@ -1460,8 +1460,8 @@ UI_20150406_001458	{@st42}Cancelar
 UI_20150406_001459	{@stc1}Duração do Acampamento
 UI_20150406_001460	{@st41b}Acampamento
 UI_20150406_001461	{@st41b}Duração do Acampamento
-UI_20150406_001462	{@st42b}Quando renovado, o acampamento permanece por mais 24 horas. {nl}Consome %s de prata.
-UI_20150406_001463	{@st41}Remover Acampamento
+UI_20150406_001462	{@st42b}Quando renovado, o acampamento permanece por mais 24 horas. {nl}Consome %s Silver.
+UI_20150406_001463	{@st41}Remover Barraca
 UI_20150406_001464	{@st42}Remover Mesa
 UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Coloque um cartão no deck para iniciar a invocação{/}
 UI_20150406_001466	{@st41}Minha Habilidade de Invocação
@@ -1478,7 +1478,7 @@ UI_20150406_001476	{@st59}Venda o(s) item(ns) que adquiriu.{/}
 UI_20150406_001477	{@st59}Fechar Depósito Pessoal{/}
 UI_20150406_001478	{@st41b} %s Guardar e pegar itens do Depósito consome prata.{/}
 UI_20150406_001479	{@st41b}Quantidade
-UI_20150414_001480	{@st42b}A duração do acampamento pode ser aumentada.{nl} Custo: %s de prata.
+UI_20150414_001480	{@st42b}A duração do acampamento pode ser aumentada.{nl} Custo: %s Silver.
 UI_20150414_001481	{@st41b}Tipo {@sti7}%s{/}
 UI_20150414_001482	{@st41b}Dificuldade de Controle {@sti7}%s{/}
 UI_20150414_001483	{@st59b} Item {/}
@@ -1554,19 +1554,19 @@ UI_20150428_001552	No mínimo Nv 100: (%s/%s)
 UI_20150511_001553	{@st41}Link de Convite de Grupo
 UI_20150714_001554	{@st66b}Itens Vendidos: ×%s/Itens Não Vendidos: ×%s{/}
 UI_20150714_001555	{@st41b}Registro da Negociação
-UI_20150714_001556	{@st41b}Remover Acampamento
+UI_20150714_001556	{@st41b}Remover Barraca
 UI_20150714_001557	Card Battles
 UI_20150714_001558	{@st64}%s Vitória(s) {/}
 UI_20150714_001559	Selecionar Cartão
 UI_20150714_001560	Índice de Aventura:{#ffff00} %s{/} ({#ffff00}classificação #%s{/})
 UI_20150714_001561	{@st66b}Curtir!
 UI_20150714_001562	Eu curto esse jogador {#ffff00}%s{/}
-UI_20150714_001563	{@st41b}Remover Mesa de Refeição
+UI_20150714_001563	{@st41b}Remover Mesa
 UI_20150714_001564	{@st42}Minha Habilidade de Invocação
 UI_20150714_001565	{@st42}Atributo
 UI_20150714_001566	{@st42}Local Atual: %s{/}
 UI_20150714_001567	{@st59b}Equipamento {nl}{@st59s} - Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Topo, Calças, Luvas, Calçados. {nl} - Acessórios: 1 Colar e 2 Braceletes. {nl} {/}
-UI_20150714_001568	{@st43}Abrir %s Loja {/}
+UI_20150714_001568	{@st43}%s: Abrir Loja{/}
 UI_20150714_001569	{@st41b}Lapidação{/}
 UI_20150714_001570	{@st66}Selecionar Tudo
 UI_20150714_001571	{@st43}Criar Flecha{/}
@@ -1773,7 +1773,7 @@ UI_20150804_001771	Soquetes Máximos : %s
 UI_20150807_001772	{@st41b}Detalhes {img red_down_arrow 16 16}
 UI_20150807_001773	{@st41b}Preço :{/}
 UI_20150807_001774	{@st41b}Após Reparo :{/}
-UI_20150918_001775	Duração do Acampamento
+UI_20150918_001775	Duração Barraca
 UI_20150918_001776	 - Efeito
 UI_20150918_001777	A duração do acampamento aumenta ao ser renovado{nl} Requer %s de prata.
 UI_20150918_001778	Depósito Pessoal
@@ -1831,17 +1831,17 @@ UI_20151022_001829	{@st66b}Mostrar outros efeitos
 UI_20151102_001830	TP
 UI_20151224_001831	{@st41b}Change{s18}(Requires 100 TP){/}
 UI_20151224_001832	Consume Quantity
-UI_20151224_001833	Quantity Available
+UI_20151224_001833	Quantidade Disponível
 UI_20151224_001834	{@st43}Loja de Graças{/}
 UI_20151224_001835	{@st59}Fechar{/}
 UI_20151224_001836	{@st43}Loja de Graças
 UI_20151224_001837	Loja de Graças
 UI_20151224_001838	{@st59}Fechar
 UI_20151224_001839	{@st59}Loja de Graças{nl} - Você pode receber buffs do jogador pagando em Silver.
-UI_20151224_001840	{@st41b}Build
+UI_20151224_001840	{@st41b}Construir
 UI_20151224_001841	{@st41b}Materiais e Preço
 UI_20151224_001842	{@st66b}Basement
-UI_20151224_001843	{@st66b}Records
+UI_20151224_001843	{@st66b}Registros
 UI_20151224_001844	Legs Quantity
 UI_20151224_001845	{@st41}Confirmar
 UI_20151224_001846	{@st42}Use{/}
@@ -1892,7 +1892,7 @@ UI_20151224_001890	{@st59}Penteado{/}
 UI_20151224_001891	{@st41b}Cancelar
 UI_20151224_001892	{@st41b}Confirmar
 UI_20151224_001893	{@st66b}Lapidação{/}
-UI_20151224_001894	{@st66b}Records{/}
+UI_20151224_001894	{@st66b}Registros{/}
 UI_20151224_001895	Remaining Number
 UI_20151224_001896	{@st66b}Manutenção{/}
 UI_20151224_001897	{@st66b}Reparar{/}
@@ -2327,7 +2327,7 @@ UI_20161005_002325	{@st66b}Enchant{/}
 UI_20161005_002326	{@st59}Fechar{/}
 UI_20161005_002327	{img silver 20 20}Preço
 UI_20161005_002328	 Nome da Loja
-UI_20161005_002329	{@st66b}Shop{/}
+UI_20161005_002329	{@st66b}Loja{/}
 UI_20161005_002330	{img silver 20 20}Preço
 UI_20161005_002331	{@st41b}Confirmar
 UI_20161005_002332	{@st41b}Fechar
@@ -2396,15 +2396,15 @@ UI_20161005_002394	{@st66b}Coordenadas{/}
 UI_20161005_002395	{@st42b}Abrir Portal
 UI_20161005_002396	{@st66b}Corregamento do Portal{/}
 UI_20161010_002397	{@st66d_y}{s20}All{/}
-UI_20161107_002398	{@st43}Exchange List{/}
-UI_20161107_002399	{@st41b}Total Medal Consumed : {/}
-UI_20161107_002400	{@st41b}Total Medal Obtained : {/}
+UI_20161107_002398	{@st43}Lista de Troca{/}
+UI_20161107_002399	{@st41b}Medalhas Consumidas: {/}
+UI_20161107_002400	{@st41b}Medalhas Obtidas: {/}
 UI_20161107_002401	Quer gastar Medalhas pelo item?
 UI_20161107_002402	Uma vez trocado, não pode voltar atrás.
 UI_20161107_002403	Você quer trocar esse item por Medalhas?
-UI_20161107_002404	Exchanging the purchased back to medal might cause some loss due to the exchange rate.
+UI_20161107_002404	Trocar os itens comprados novamente por outras medalhas pode gerar perdas, devido as taxas.
 UI_20161107_002405	{@st43}{s24}TP Shop
-UI_20161107_002406	{@st43}{s24}NEW{/}
+UI_20161107_002406	{@st43}{s24}NOVIDADE{/}
 UI_20161107_002407	  {img Nexon_cash_mark 30 30} Owne{/}{/}
 UI_20161107_002408	{@st66d}{s20}Recarregar Carteira Steam{/}
 UI_20161107_002409	{@st66d}{s18}Prévia/Comprar{/}
@@ -2412,7 +2412,7 @@ UI_20161107_002410	{@st66d}Resetar Prévia{/}
 UI_20161107_002411	{@st66d}Finalizar Compra{/}
 UI_20161107_002412	  TP Atual{/}
 UI_20161107_002413	  TP Restante{/}
-UI_20161107_002414	{@st66d}Trocar por Medalha{/}
+UI_20161107_002414	{@st66d}Trocar Medalha{/}
 UI_20161107_002415	{@st66d}Trocar por Item{/}
 UI_20161107_002416	  Medalhas Atual{/}
 UI_20161107_002417	  Medalhas Restantes{/}
@@ -2424,7 +2424,7 @@ UI_20161107_002422	Trocar medalhas por itens
 UI_20161107_002423	Compráveis
 UI_20161107_002424	Vendíveis
 UI_20161107_002425	{@st66d}{s18}Top 5 Vendidos{/}
-UI_20161107_002426	{@st55_b} Enter a keyword.{/}
+UI_20161107_002426	{@st55_b} Digite algo para buscar.{/}
 UI_20161107_002427	 TP Purchaseable
 UI_20161107_002428	{@st66d}{s18}Special Offer{/}
 UI_20161107_002429	{@st66d}Comprar{/}
@@ -2437,11 +2437,11 @@ UI_20161107_002435	{@st66}{s18}Right to Cancel{/}
 UI_20161107_002436	{@st42b}{s16}Comprar{/}
 UI_20161107_002437	{@st42}{s16} Medal Cost {/}{img icon_item_recyclemedal 20 20}{/}
 UI_20161107_002438	{@st42}{s16} Obtained Medal {/}{img icon_item_recyclemedal 20 20}{/}
-UI_20161107_002439	Owned: %s
+UI_20161107_002439	Obtido: %s
 UI_20161107_002440	{@st42b}{s16}Comprar{/}
-UI_20161107_002441	{@st42b}{s16}Exchange for Medal{/}
-UI_20161107_002442	Medal Consumed
-UI_20161107_002443	Medal Obtained
+UI_20161107_002441	{@st42b}{s16}Trocar Medalhas{/}
+UI_20161107_002442	Medalhas Consumidas
+UI_20161107_002443	Medalhas Obtidas
 UI_20161108_002444	{@st43}%s obtido!{/}
 UI_20161108_002445	{@st42b}Open Goddess' Blessed Cube X %s
 UI_20161108_002446	{@st42b}Abrir Cubo Secreto da Leticia X %s
@@ -2922,11 +2922,11 @@ UI_20170912_002921	+1 cubo de recompensa na missão de Saalus
 UI_20170925_002922	{img icon_item_tospoint 24 24}{@st41b}Consome 0 TP{nl}Remova o Card sem a perda de uma estrela{/}
 UI_20170925_002923	Total na Fila: %s
 UI_20170925_002924	Recebendo informações.
-UI_20171128_002925	Fechar UI.
-UI_20171128_002926	Check Period
+UI_20171128_002925	Fechar Janela.
+UI_20171128_002926	Duração
 UI_20171128_002927	* Recompensas por comparecimento diário serão enviadas automaticamente uma vez por dia ao inventário do primeiro personagem a acessar o jogo.{nl}* Enchant Scroll (14 Dias).{nl}* Recompensas só podem ser recebidas durante o período de verificação de comparecimento. Após esse período, as recompensas deixarão de ser eviadas.{nl}
 UI_20171128_002928	{@st66b18}※ A Mudança do Nome do seu Time com TP não é reembolsável.{/}
-UI_20171128_002929	Tamanho%s
+UI_20171128_002929	Tamanho %s
 UI_20171128_002930	{@st42b}Checar
 UI_20171128_002931	Expandir Armazém de Guilda
 UI_20171128_002932	> Recompensas são %s semanalmente.{nl}> As recompensas incluem  
@@ -2959,7 +2959,7 @@ UI_20171128_002958	{@st43b}{s18}Material
 UI_20171128_002959	{@st59}Mudar nome do Mascote{/}
 UI_20171128_002960	{@st43}Loja de Portais{/}
 UI_20171128_002961	{@st59}Fechar UI{/}
-UI_20171128_002962	Quantidade de Portais %s/%s 
+UI_20171128_002962	Qtde de Portais %s/%s 
 UI_20171128_002963	{@st59}Fechar UI{/}
 UI_20171128_002964	Gostaria de desfazer o seu último avanço?{/}
 UI_20171128_002965	Se você desfazer seu avanço de classe atual, o avanço será desfeito e sua EXP de classe atual desaparecerá.{/}
@@ -2971,7 +2971,7 @@ UI_20171128_002970	* Você retornará ao lodge depois de usar o Voucher.
 UI_20171128_002971	{@st59}Info do Rank{/}
 UI_20171128_002972	{@st66b}Simplificar Efeito de Buff{/}
 UI_20171128_002973	{@st66b}Simplificar modelo{/}
-UI_20171128_002974	{@st59}Recompensa de presença{/}
+UI_20171128_002974	{@st59}Recompensa Diária{/}
 UI_20171128_002975	Voltando à classe anterior.
 UI_20171128_002976	Nome do Mapa
 UI_20171128_002977	{@st42b}Usar
