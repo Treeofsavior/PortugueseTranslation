@@ -2922,8 +2922,8 @@ UI_20170912_002921	+1 cubo de recompensa na missão de Saalus
 UI_20170925_002922	{img icon_item_tospoint 24 24}{@st41b}Consome 0 TP{nl}Remova o Card sem a perda de uma estrela{/}
 UI_20170925_002923	Total na Fila: %s
 UI_20170925_002924	Recebendo informações.
-UI_20171128_002925	Fechar UI.
-UI_20171128_002926	Check Period
+UI_20171128_002925	Fechar Janela.
+UI_20171128_002926	Duração
 UI_20171128_002927	* Recompensas por comparecimento diário serão enviadas automaticamente uma vez por dia ao inventário do primeiro personagem a acessar o jogo.{nl}* Enchant Scroll (14 Dias).{nl}* Recompensas só podem ser recebidas durante o período de verificação de comparecimento. Após esse período, as recompensas deixarão de ser eviadas.{nl}
 UI_20171128_002928	{@st66b18}※ A Mudança do Nome do seu Time com TP não é reembolsável.{/}
 UI_20171128_002929	Tamanho %s
@@ -2971,7 +2971,7 @@ UI_20171128_002970	* Você retornará ao lodge depois de usar o Voucher.
 UI_20171128_002971	{@st59}Info do Rank{/}
 UI_20171128_002972	{@st66b}Simplificar Efeito de Buff{/}
 UI_20171128_002973	{@st66b}Simplificar modelo{/}
-UI_20171128_002974	{@st59}Recompensa de presença{/}
+UI_20171128_002974	{@st59}Recompensa Diária{/}
 UI_20171128_002975	Voltando à classe anterior.
 UI_20171128_002976	Nome do Mapa
 UI_20171128_002977	{@st42b}Usar
