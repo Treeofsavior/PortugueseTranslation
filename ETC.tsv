@@ -1656,7 +1656,7 @@ ETC_20150317_001655	{Day}d
 ETC_20150317_001656	{Hour}h
 ETC_20150317_001657	{Min}m
 ETC_20150317_001658	{Sec}s
-ETC_20150317_001659	Please enter a title.
+ETC_20150317_001659	Por favor, defina um nome.
 ETC_20150317_001660	Learning
 ETC_20150317_001661	You must spend all your skill points before you can advance.
 ETC_20150317_001662	Male
@@ -34369,9 +34369,9 @@ ETC_20180629_034333	{PC} usou o Dimensional Incense Burner em {ZONE} (canal {CHA
 ETC_20180629_034334	Move Down
 ETC_20180629_034335	Move Up
 ETC_20180629_034336	Are you sure you want to change the stats of {@st66}{b}{s18}{#8e0000}[{ItemName}]{/}{/}{/}{s18} as follows?
-ETC_20180629_034337	Are you sure you want to warp?{nl}{ol}{PRICE} Silver{/}
-ETC_20180629_034338	Are you sure you want to warp?{nl}{ol}{#ffcc00}{PRICE} Silver{/}
-ETC_20180629_034339	Are you sure you want to warp?{nl}{ol}{#ff6000}{PRICE} Silver{/}
+ETC_20180629_034337	Tem certeza que deseta teleportar?{nl}{ol}{PRICE} Silver{/}
+ETC_20180629_034338	Tem certeza que deseta teleportar?{nl}{ol}{#ffcc00}{PRICE} Silver{/}
+ETC_20180629_034339	Tem certeza que deseta teleportar?{nl}{ol}{#ff6000}{PRICE} Silver{/}
 ETC_20180629_034340	Your Mysterious Magnifiers will be consumed and the action cannot be reversed.{nl}Are you sure you want to continue?
 ETC_20180629_034341	Your Artisan Magnifiers will be consumed, but the item's stats can be changed again.{nl}Are you sure you want to continue?
 ETC_20180629_034342	You haven't selected a stat yet. Please select a stat.

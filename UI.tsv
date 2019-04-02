@@ -1831,7 +1831,7 @@ UI_20151022_001829	{@st66b}Mostrar outros efeitos
 UI_20151102_001830	TP
 UI_20151224_001831	{@st41b}Change{s18}(Requires 100 TP){/}
 UI_20151224_001832	Consume Quantity
-UI_20151224_001833	Quantity Available
+UI_20151224_001833	Quantidade Disponível
 UI_20151224_001834	{@st43}Loja de Graças{/}
 UI_20151224_001835	{@st59}Fechar{/}
 UI_20151224_001836	{@st43}Loja de Graças
@@ -2327,7 +2327,7 @@ UI_20161005_002325	{@st66b}Enchant{/}
 UI_20161005_002326	{@st59}Fechar{/}
 UI_20161005_002327	{img silver 20 20}Preço
 UI_20161005_002328	 Nome da Loja
-UI_20161005_002329	{@st66b}Shop{/}
+UI_20161005_002329	{@st66b}Loja{/}
 UI_20161005_002330	{img silver 20 20}Preço
 UI_20161005_002331	{@st41b}Confirmar
 UI_20161005_002332	{@st41b}Fechar
@@ -2959,7 +2959,7 @@ UI_20171128_002958	{@st43b}{s18}Material
 UI_20171128_002959	{@st59}Mudar nome do Mascote{/}
 UI_20171128_002960	{@st43}Loja de Portais{/}
 UI_20171128_002961	{@st59}Fechar UI{/}
-UI_20171128_002962	Quantidade de Portais %s/%s 
+UI_20171128_002962	Qtde de Portais %s/%s 
 UI_20171128_002963	{@st59}Fechar UI{/}
 UI_20171128_002964	Gostaria de desfazer o seu último avanço?{/}
 UI_20171128_002965	Se você desfazer seu avanço de classe atual, o avanço será desfeito e sua EXP de classe atual desaparecerá.{/}
