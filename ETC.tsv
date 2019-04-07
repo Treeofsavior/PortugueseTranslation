@@ -37438,7 +37438,7 @@ ETC_20190104_037352	Item Changes{nl} {nl} - Item changed from Stage {Before} to 
 ETC_20190104_037353	Usa Steam Guard
 ETC_20190104_037354	The item is equipped with an Ichor.{nl}The Ichor must first be extracted.	아이커를 통해 옵션이 장착된 아이템입니다.{nl}아이커를 먼저 분리해주세요.			
 ETC_20190104_037355	Items that are traded cannot be traded back.	교환된 아이템은 다시 교환 할 수 없습니다.			
-ETC_20190104_037356	{@st59}Close the {NAME} UI{/}	{@st59}{NAME} UI를 닫습니다{/}			
+ETC_20190104_037356	{@st59}Fechar a Janela - {NAME}{/}
 ETC_20190104_037357	Once an item is altered, {#ff0000}{ol}it can no longer be exchanged.{/}{/} {nl} {nl}{@st66d_y}(This includes enhancement, transcendence, personal and market trade, the addition of sockets, equipping and extracting Ichor, and appearance change){/}{nl}Will you proceed with the exchange?	계열 변경이 가능한 아이템에 변경이 생기는 경우 {#ff0000}{ol}계열 변경의 기회는 사라집니다.{/}{/} {nl} {nl}{@st66d_y}(강화, 초월, 마켓 판매, 개인 거래, 소켓 추가, 각성, 아이커 장착 및 추출, 무기 외형 변환){/}{nl} {nl}계속 하시겠습니까?			
 ETC_20190104_037358	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable via 1:1{/}.	아이템 변경사항 안내{nl} {nl} - 아이템이 {Before}초월에서{#62100c}{After}초월{/}로 변경 {nl} - 초월 성공시{#62100c}1:1거래가 불가능{/} 합니다.			
 ETC_20190104_037359	Você recebeu o máximo de Pontos de Troca de Classe para a semana.
@@ -37767,7 +37767,7 @@ ETC_20190104_037681	There are objects blocking the area.	해당 위치에 물체
 ETC_20190104_037682	Area out of bounds.	이동할 수 없는 지역입니다.			
 ETC_20190104_037683	Você já possui os benefícios de Token.{nl}Utilizar outro acumulará:{nl}- Duração total do Token;{nl}- Duração total de trocas inlimitadas;{nl}Todos os demais benefícios serão{nl}mantidos com os mesmos valores.{nl}Ainda deseja usar?
 ETC_20190104_037684	Unlimited Trades	거래 무제한	ETC_20160224_020691	Number of trades allowed	거래 가능 횟수
-ETC_20190104_037685	{@st63_red}{s18}Limited Trade{/}{/}	{@st63_red}{s18}무제한 거래 가능 불가{/}{/}	ETC_20180115_031184	{@st63_red}{s18}No Trades Left{/}{/}	{@st63_red}{s18}거래 가능 횟수 0{/}{/}	
+ETC_20190104_037685	{@st63_red}{s18}Troca Limitada{/}{/}
 ETC_20190104_037686	Use Rookie/Returning Player Shop	신규/복귀 상점 이용			
 ETC_20190104_037687	Do you want to move to Klaipeda and use the TP Shop?	TP 상점을 이용하기 위해 클라페다 마을로 이동하시겠습니까?			
 ETC_20190104_037688	You must be Lv. 15 or higher to deposit or withdraw silver.	실버 입금 및 출금은 15레벨 이상 가능합니다.	ETC_20160711_021986	You must be Rank 2 or higher to deposit or withdraw silver.	실버 입금 및 출금은 2랭크 이상 가능합니다.
