@@ -1826,7 +1826,7 @@ ETC_20150317_001825	Increased Companions attack by {Value}
 ETC_20150317_001826	Increased Companions HP by {Value}
 ETC_20150317_001827	Increased Companions defense by {Value}
 ETC_20150317_001828	Increased Companions hit rate by {Value}
-ETC_20150317_001829	Você não tem um Mascotepara chamar.
+ETC_20150317_001829	Você não tem um Mascote para chamar.
 ETC_20150317_001830	Por favor, desmonte do seu mascote primeiro.
 ETC_20150317_001831	Standby
 ETC_20150317_001832	Active
@@ -19985,8 +19985,8 @@ ETC_20151224_019979	Shinobi Mestre Trigger
 ETC_20151224_019980	Revived Believer
 ETC_20151224_019981	[Mestre Warlock]{nl}Melanie Melachim
 ETC_20151224_019982	[Mestre Featherfoot]{nl}  Kyoll Lurawa
-ETC_20151224_019983	The mission will end after 10 minutos.
-ETC_20151224_019984	The mission will end after 5 minutos.
+ETC_20151224_019983	A Missão terminará após 10 minutos.
+ETC_20151224_019984	A Missão terminará após 5 minutos.
 ETC_20151224_019985	Open the portal to go the den of monsters by collecting yellow spirits
 ETC_20151224_019986	Failed the test
 ETC_20151224_019987	Open the portal to go the den of monsters to purify monsters by attracting them to magic circles
@@ -32141,7 +32141,7 @@ ETC_20180418_032109	I came to talk to you about the Onmyoji support project.
 ETC_20180418_032110	Você parece muito cansado.
 ETC_20180418_032111	Atributos de Retiarius
 ETC_20180418_032112	Itens de Retiarius
-ETC_20180418_032113	Let me tell you about my journey.
+ETC_20180418_032113	Deixe-me contar sobre minha jornada.
 ETC_20180418_032114	Atributos de Onmyoji
 ETC_20180418_032115	Itens de Onmyoji
 ETC_20180418_032116	Follow the Bokor Master's request.
@@ -37527,8 +37527,8 @@ ETC_20190104_037441	[{#33FF33}{SELF}{/}] has reached [{#33FF33}maximum physical 
 ETC_20190104_037442	[{#33FF33}{SELF}{/}] has reached [{#33FF33}maximum magic damage of {NUM}{/}] for the first time in the Guild.	[{#33FF33}{SELF}{/}]님이 길드 최초로 [{#33FF33}최대 마법 공격력 : {NUM}{/}]을 돌파하셨습니다.			
 ETC_20190104_037443	[{#33FF33}{SELF}{/}] has reached [{#33FF33}physical defense of {NUM}{/}] for the first time in the Guild.	[{#33FF33}{SELF}{/}]님이 길드 최초로 [{#33FF33}물리 방어력 : {NUM}{/}]을 돌파하셨습니다.			
 ETC_20190104_037444	[{#33FF33}{SELF}{/}] has reached [{#33FF33}magic defense of {NUM}{/}] for the first time in the Guild.	[{#33FF33}{SELF}{/}]님이 길드 최초로 [{#33FF33}마법 방어력 : {NUM}{/}]을 돌파하셨습니다.			
-ETC_20190104_037445	Due to [{#33FF33}{SELF}{/}]'s contribution, the Guild has reached [{#33FF33}Guild Level {NUM}{/}].	[{#33FF33}{SELF}{/}]님의 마지막 기여로 [{#33FF33} 길드 {NUM}레벨{/}]을 달성했습니다.			
-ETC_20190104_037446	You have completed the [{#33FF33}{MISSION}{/}] quest with the help of your guild members.	길드원분들의 참여로 [{#33FF33}{MISSION}{/}] 길드 퀘스트를 성공했습니다.			
+ETC_20190104_037445	Graças a contribuição de [{#33FF33}{SELF}{/}], a Guilda alcançou o Nível de Guilda [{#33FF33} {NUM}{/}].
+ETC_20190104_037446	Você completou a Missão [{#33FF33}{MISSION}{/}] com a ajuda dos demais Membros da Guilda!
 ETC_20190104_037447	A Torre da Guilda foi construída no Canal 1{nl}do mapa [{#33FF33}{ZONE}{/}].
 ETC_20190104_037448	{@st64}Bottom Menu 	{@st64}하단 메뉴 			
 ETC_20190104_037449	You can press the button or the 	버튼이나 			
@@ -41049,7 +41049,7 @@ ETC_20190223_040963	Amiss Dog foi derrotado!
 ETC_20190223_040964	Não conseguiu derrotar o Amiss Dog.{nl}Você retornará para o local anterior.
 ETC_20190223_040965	Encontre os Porquinhos Dourados em Orsha!
 ETC_20190223_040966	Você só pode lutar contra o Chefe com os monstros que você capturou!{nl}Seu personagem não poderá utilizar ataques nem habilidades.
-ETC_20190223_040967	Clique com o botão direito no Orbe Azul para invocar seus monstros!
+ETC_20190223_040967	Clique com o botão direito do mouse na Esfera do Treinador para invocar seus monstros!
 ETC_20190223_040968	Um membro do grupo pode escolher o nível do monstro Chefe{nl}para invocar, interagindo com o círculo mágico.
 ETC_20190228_040969	Um pacote premium especial. Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Wake Up Growth Package x1{nl}- Wake Up Enhancement Package x1{nl}- Widnium Fragment x3{nl}- Recipe - HP Potion (7 Dias) x1{nl}- Recipe - SP Potion (7 Dias) x1
 ETC_20190228_040970	2019 Leticia's Treasure Chest (Season 2)
@@ -41098,7 +41098,7 @@ ETC_20190328_041012	O nome do seu personagem é muito pequeno ou contém caracte
 ETC_20190329_041013	Velocidade de Movimento reduzida!
 ETC_20190405_041014	Flower Road Mission
 ETC_20190405_041015	Evento: Treinador de Monstros
-ETC_20190405_041016	Flower Road
+ETC_20190405_041016	Caminho das Flores
 ETC_20190405_041017	Evento: Caminho das Flores
 ETC_20190405_041018	Artisan Enchant Scroll
 ETC_20190405_041019	Adiciona um efeito aleatório para Acessórios de Cabelo. Até 3 efeitos podem ser adicionados. Você não pode utilizar esse pergaminho em um item que estiver equipado.
