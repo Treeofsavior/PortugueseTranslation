@@ -280,7 +280,7 @@ UI_20150317_000279	{@st59}Braçadeira{/}
 UI_20150317_000280	{@st59}Procurar{/}
 UI_20150317_000281	Peso
 UI_20150317_000282	{@st43}Bônus de Equipamento{/}
-UI_20150317_000283	{@st59}Fechar IU de Consertar Item{/}
+UI_20150317_000283	{@st59}Fechar Janela de Consertar Item{/}
 UI_20150317_000284	{@st42}Disponível para Bônus
 UI_20150317_000285	{@st42}Consome{/}
 UI_20150317_000286	{@st42}Executar
@@ -408,7 +408,7 @@ UI_20150317_000407	{@st41} Item {/}
 UI_20150317_000408	{@st41} Conquista {/}
 UI_20150317_000409	Objeto
 UI_20150317_000410	{@st43}Necronomicon{/}
-UI_20150317_000411	{@st59}Fechar IU do Necronomicon{/}
+UI_20150317_000411	{@st59}Fechar Janela do Necronomicon{/}
 UI_20150317_000412	{@st59}Não quero nem pensar.{/}
 UI_20150317_000413	Criatura Invocada: {#ffcc33}%s{/}
 UI_20150317_000414	Morto-Vivo Feliz
@@ -491,7 +491,7 @@ UI_20150317_000490	{@st43}Ajuda{/}
 UI_20150317_000491	Tópicos de Ajuda
 UI_20150317_000492	{ol}{#AAAA00}{s16}Tempo Transcorrido: %s
 UI_20150317_000493	{@st43}Pote de Veneno{/}
-UI_20150317_000494	{@st59}Fechar IU do Pote de Veneno{/}
+UI_20150317_000494	{@st59}Fechar Janela do Pote de Veneno{/}
 UI_20150317_000495	{@st59}Necessário para escrever{/}
 UI_20150317_000496	Quantidade de veneno: %s
 UI_20150317_000497	Itens que podem ser usados para Confeccionar veneno
@@ -1329,7 +1329,7 @@ UI_20150323_001328	{@st41b}Configurações
 UI_20150323_001329	Preço Unitário
 UI_20150323_001330	{@st41b}Lista de Materiais
 UI_20150323_001331	{@st43}Lapidação de Gema{/}
-UI_20150323_001332	{@st59}Fechar IU{/}
+UI_20150323_001332	{@st59}Fechar Janela{/}
 UI_20150323_001333	{@st41b}Consertar{/}
 UI_20150323_001334	{@st41b}Registro{/}
 UI_20150323_001335	Preço a receber
@@ -1570,7 +1570,7 @@ UI_20150714_001568	{@st43}%s: Abrir Loja{/}
 UI_20150714_001569	{@st41b}Lapidação{/}
 UI_20150714_001570	{@st66}Selecionar Tudo
 UI_20150714_001571	{@st43}Criar Flecha{/}
-UI_20150714_001572	{@st59}Fechar IU{/}
+UI_20150714_001572	{@st59}Fechar Janela{/}
 UI_20150714_001573	{@st66b}Selecionar{/}
 UI_20150714_001574	{@st66b}Deixar Auxiliar (Requer %s TP){/}
 UI_20150714_001575	Custo de Soquete Adicional : {#000000}%s{/} {nl}Custo de extração de gemas : {#000000}%s{/}
@@ -2083,11 +2083,11 @@ UI_20160224_002081	{@st66b}Atributos da Guilda
 UI_20160224_002082	Guild Storage
 UI_20160224_002083	{@st59}Fechar{/}
 UI_20160224_002084	* The guild master can send items to guild members.{nl}* Items can be collected through the Message Box.
-UI_20160224_002085	{@st41b}Enchant
+UI_20160224_002085	{@st41b}Encantar
 UI_20160224_002086	{@st41b}Enchant Scroll{/}
 UI_20160224_002087	{@st59}Fechar{/}
-UI_20160224_002088	{@st66b}Consumes 1 Enchant Scroll{/}
-UI_20160224_002089	{@st42b}Current Scrolls  : %s{/}
+UI_20160224_002088	{@st66b}Consome 1 Enchant Scroll{/}
+UI_20160224_002089	{@st42b}Quantidade de Pergaminhos: %s{/}
 UI_20160224_002090	{@st66b}Missions{/}
 UI_20160224_002091	{@st66b}Saalus Convent{/}
 UI_20160224_002092	{@st66b}Earth Tower{/}
@@ -2402,7 +2402,7 @@ UI_20161107_002400	{@st41b}Medalhas Obtidas: {/}
 UI_20161107_002401	Quer gastar Medalhas pelo item?
 UI_20161107_002402	Uma vez trocado, não pode voltar atrás.
 UI_20161107_002403	Você quer trocar esse item por Medalhas?
-UI_20161107_002404	Trocar os itens comprados novamente por outras medalhas pode gerar perdas, devido as taxas.
+UI_20161107_002404	Trocar itens comprados novamente por outras medalhas pode gerar perdas devido as taxas.
 UI_20161107_002405	{@st43}{s24}TP Shop
 UI_20161107_002406	{@st43}{s24}NOVIDADE{/}
 UI_20161107_002407	  {img Nexon_cash_mark 30 30} Owne{/}{/}
@@ -2418,7 +2418,7 @@ UI_20161107_002416	  Medalhas Atual{/}
 UI_20161107_002417	  Medalhas Restantes{/}
 UI_20161107_002418	Preço em Medalhas
 UI_20161107_002419	{@st66b}TP Purchase{/}
-UI_20161107_002420	{@st66b}Shop Reciclável{/}
+UI_20161107_002420	{@st66b}Loja de Trocas{/}
 UI_20161107_002421	Trocar itens por medalhas
 UI_20161107_002422	Trocar medalhas por itens
 UI_20161107_002423	Compráveis
@@ -2958,9 +2958,9 @@ UI_20171128_002957	{@st43b}{s18}Depois
 UI_20171128_002958	{@st43b}{s18}Material
 UI_20171128_002959	{@st59}Mudar nome do Mascote{/}
 UI_20171128_002960	{@st43}Loja de Portais{/}
-UI_20171128_002961	{@st59}Fechar UI{/}
+UI_20171128_002961	{@st59}Fechar Janela{/}
 UI_20171128_002962	Qtde de Portais %s/%s 
-UI_20171128_002963	{@st59}Fechar UI{/}
+UI_20171128_002963	{@st59}Fechar Janela{/}
 UI_20171128_002964	Gostaria de desfazer o seu último avanço?{/}
 UI_20171128_002965	Se você desfazer seu avanço de classe atual, o avanço será desfeito e sua EXP de classe atual desaparecerá.{/}
 UI_20171128_002966	* Rank down só pode ser usado uma vez durante o mesmo ranking.{Nl}Não pode ser usado continuamente.
@@ -3203,8 +3203,8 @@ UI_20180517_003202	{img quest_giveup_btn 18 18}Não é Possível Extrair soquete
 UI_20180517_003203	Arma Principal
 UI_20180517_003204	Armadura
 UI_20180517_003205	Parte de Baixo
-UI_20180517_003206	{@st41b}{s18}Item Set
-UI_20180517_003207	{@st41b}{s16}Set Stats
+UI_20180517_003206	{@st41b}{s18}Itens do Conjunto
+UI_20180517_003207	{@st41b}{s16}Atributos do Conjunto
 UI_20180517_003208	Trocar
 UI_20180517_003209	{@st66d}Nome do Jogador{/}
 UI_20180517_003210	{@st66}{s18}Escrever{/}
@@ -3286,7 +3286,7 @@ UI_20180629_003285	{@st41b}{s18}Lupas Atuais: %s
 UI_20180629_003286	{@st66}{s18}Consome Artisan Magnifier x%s.
 UI_20180629_003287	Mysterious Magnifier
 UI_20180629_003288	{@st66}{s18}Consome Mysterious Magnifier x%s.
-UI_20180629_003289	{@st43}Cube List{/}
+UI_20180629_003289	{@st43}Lista do Cubo{/}
 UI_20180629_003290	Quantidade
 UI_20180629_003291	{@st41b}{s16}{nl}Adicionar
 UI_20180629_003292	{s22}%s defeated
@@ -3343,7 +3343,7 @@ UI_20180629_003342	{@st66b}Ver taxa de frames (FPS){/}
 UI_20180629_003343	{@st59}Displays current fps.{/}
 UI_20180629_003344	{@st66b}Premium{/}
 UI_20180629_003345	{@st66b}Cosmético{/}
-UI_20180629_003346	{@st43}Entrar no Beauty Shop{/}
+UI_20180629_003346	{@st43}Entrar no Salão{/}
 UI_20180629_003347	{s14}Beauty Shop Teste
 UI_20180629_003348	Câmera Fixa
 UI_20180629_003349	Cancelar Câmera Fixa
@@ -3828,3 +3828,4 @@ UI_20190223_003828	{@st42}Nr. Fragmentos de Corpos{/}
 UI_20190223_003829	{@st59}Coleção (F11){/}
 UI_20190223_003830	{@st66b}Ver HP de Invocação do grupo{/}
 UI_20190223_003831	Botão
+UI_20190409_003832	{@st66b}Consome %s x1.{/}
