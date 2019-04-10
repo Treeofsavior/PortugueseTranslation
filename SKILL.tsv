@@ -9774,7 +9774,7 @@ SKILL_20171128_009773	Attack: #{SkillFactor}#%{nl}Backward Movement Distance: #{
 SKILL_20171128_009774	Down Fall	다운 폴				
 SKILL_20171128_009775	{#DD5500}{ol}[Missile: Bow]{/}{/}{nl}Fire several arrows into the air to rain down on a single designated enemy. You will stop inflicting damage if you and the enemy are too far from each other.	{#DD5500}{ol}[미사일:활]{/}{/}{nl}여러발의 화살을 공중을 향해 발사하여 지정된 단일 적에게 화살 공격을 퍼붓습니다. 자신과 적이 일정 거리 이상 멀어지게되면 공격받지 않습니다.				
 SKILL_20171128_009776	Silver Bullet	실버불릿				
-SKILL_20171128_009777	Todos os ataques usando Pistola são aumentados, alterando-os para o elemento Divino.
+SKILL_20171128_009777	Todos os ataques usando Pistola são melhorados, alterando-os para o elemento Divino.
 SKILL_20171128_009778	Duração: #{CaptionTime}# segundos{nl}Able to use while riding	지속시간 #{CaptionTime}#초{nl}탑승 상태에서 사용 가능				
 SKILL_20171128_009779	Tase	테이즈				
 SKILL_20171128_009780	{#DD5500}{ol}[Missile: Gun] - [Lightning]{/}{/}{nl}Fire an electric bullet into the enemy's body, causing the target to take additional Lightning property damage when damaged.	{#DD5500}{ol}[미사일:총] - [전기]{/}{/}{nl}전기가 통하는 탄을 적의 몸에 박아 넣어 대상이 대미지를 입을 때마다 전기 속성 추가 대미지를 입습니다.				
@@ -15155,3 +15155,4 @@ SKILL_20190322_015155	Transformação Mística - Copas
 SKILL_20190322_015156	Salvador Místico - Transformação de Copas!{nl}Você retornará em breve para a sua forma original.
 SKILL_20190322_015157	Um efeito ao utilizar símbolos de Salvador Místico - Copas.
 SKILL_20190322_015158	Um efeito ao utilizar símbolos de Salvador Místico - Diamente.
+SKILL_20190405_015159	Aplica um efeito que impede que você e seus aliados de grupo sejam empurrados ou derrubados. O contador do efeito reduz com cada ataque recebido. A Velocidade de Movimento aumenta por 5 segundos, e você recebe contadores adicionais de defesa para cada membro do grupo que for um personagem da base Swordsman.
