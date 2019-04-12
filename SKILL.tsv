@@ -6835,7 +6835,7 @@ SKILL_20161005_006834	Gains one skill level for magic circle and installment ski
 SKILL_20161005_006835	Missile Attack Defense	미사일 공격 방어				
 SKILL_20161005_006836	Physical Attack Increased	물리 공격력이 증가합니다	SKILL_20160224_006251	Increased physical defense	물리 방어력이 증가합니다	
 SKILL_20161005_006837	When receiving damage, it decreases shield gauge instead of HP.{nl}The shield gauge is displayed in terms of one's own max. HP and{nl}shield gauges exceeding max. HP will be displayed with an indicators like x2, x3 etc.{nl}Furthermore, the max. shield gauge obtainable per rank is fixed.	피해를 입으면 HP 대신 실드 게이지의 실드가 감소합니다.{nl}실드 게이지는 자신의 최대 HP량 만큼 나타내며,{nl}최대 HP보다 높은 실드량은 실드 게이지에 x2, x3....로 표시됩니다.{nl}또한 랭크별로 얻을 수 있는 최대 실드량이 한정되어 있습니다.	SKILL_20151224_005964	Shield reduced instead of HP when hit by enemies	피해를 입으면 HP 대신 실드가 감소합니다.	
-SKILL_20161005_006838	AoE attack ratio increased.	광역 공격 비율이 증가합니다.				
+SKILL_20161005_006838	Taxa de Ataque em Área aumentada.
 SKILL_20161005_006839	Power Ancient	고대의 힘				
 SKILL_20161005_006840	Attack and Magic Attack increased.	공격력과 마법 공격력이 증가하였습니다.				
 SKILL_20161005_006841	Berserker Effect	버서커 효과				
@@ -12558,8 +12558,8 @@ SKILL_20181017_012557	Summoned demon ignores 20% of enemy's physical/magic defen
 SKILL_20181017_012558	Shoggoth Rigor Mortis	쇼고스 사후경직				
 SKILL_20181017_012559	Reduces damage inflicted on nearby summons.	주변에 있는 소환수가 받는 피해 감소				
 SKILL_20181017_012560	Reduced damage taken.	피해 감소				
-SKILL_20181017_012561	Target Set	타겟 설정				
-SKILL_20181017_012562	Keeps a watch over the targeted enemies. Inflicts damage proportional to the number of enemies under the Target Set debuff when reaching 3 stacks.	대상을 주시합니다. 3회 중첩시 주변의 타겟 설정에 걸린 적 수에 비례하여 대미지를 입힙니다.				
+SKILL_20181017_012561	Alvo Travado
+SKILL_20181017_012562	Presta atenção nos alvos inimigos. Causa dano proporcional ao número de inimigos sob efeito de [Alvo Travado] ao alcançar 3 acúmulos.
 SKILL_20181017_012563	Condemn	선고				
 SKILL_20181017_012564	Attacking applies a chance to Condemn enemies.{nl}An explosion will occur when the Condemn debuff reaches a certain number of stacks.	공격시 확률적으로 적에게 선고를 부여합니다. {nl}선고는 일정 수 중첩될 경우 폭발합니다.				
 SKILL_20181017_012565	Moon Rabbit	달 토끼				
@@ -12567,23 +12567,23 @@ SKILL_20181017_012566	Bazooka Additional Damage	바주카 추가 대미지
 SKILL_20181017_012567	Gives 10% chance to inflict the damage previously dealt in Bazooka status.	바주카 상태일 때 10% 확률로 이전 대미지를 한번 더 줍니다.				
 SKILL_20181017_012568	Lock-on	락온				
 SKILL_20181017_012569	Locking on.	현재 조준 중입니다.				
-SKILL_20181017_012570	The Eye of the Asiomage	아시오 메이지의 주시				
-SKILL_20181017_012571	Increases the number of enemies provokable.	도발 대상 수 증가				
+SKILL_20181017_012570	Olho do Asiomage
+SKILL_20181017_012571	Aumenta o número de inimigos provocados.
 SKILL_20181017_012572	Resist Status Ailments	상태 이상 저항				
 SKILL_20181017_012573	Gives a chance to ignore debuffs.	일정 확률로 디버프를 무시합니다.				
 SKILL_20181017_012574	Black & White Mask	흑백 가면				
 SKILL_20181017_012575	Additional Holy property damage: Increases in proportion to the enhancement value{nl}Additional Dark property damage: Increases in proportion to the transcendence value	신성 속성 추가대미지: 강화 수치에 비례하여 상승{nl}어둠 속성 추가대미지: 초월 수치에 비례하여 상승				
 SKILL_20181017_012576	Unseen Blade	보이지 않는 칼날				
 SKILL_20181017_012577	Increases damage dealt while in stealth mode.	은신 중 데미지가 증가합니다.				
-SKILL_20181017_012578	Sharp Blade	예리한 칼날				
-SKILL_20181017_012579	Increases critical attack. Sharp Blade buff is applied when a critical attack is successful.	치명타 공격력이 증가합니다. 치명타 발생시 예리한 칼날 버프효과를 받습니다.				
-SKILL_20181017_012580	Increases critical attack.	치명타 공격력이 증가합니다.				
-SKILL_20181017_012581	Animal Friend: Rabbit	동물 친구: 토끼				
-SKILL_20181017_012582	Has a chance to summon a rabbit when using a skill attack.	스킬 공격시 일정확률로 토끼를 소환합니다.				
-SKILL_20181017_012583	Smile Bunny	스마일 바니				
-SKILL_20181017_012584	Increases Taxa de Crítico.	치명타 발생이 증가합니다.				
-SKILL_20181017_012585	Angry Bunny	앵그리 바니				
-SKILL_20181017_012586	Has a chance to summon a Shaman Doll.	일정 확률로 주술 인형을 소환합니다.				
+SKILL_20181017_012578	Lâmina Afiada
+SKILL_20181017_012579	Aumenta o Ataque Crítico. O efeito é aplicado quando um Ataque Crítico acontece.
+SKILL_20181017_012580	Aumenta o Ataque Crítico.
+SKILL_20181017_012581	Amigo Animal: Coelho
+SKILL_20181017_012582	Chance de invocar um Coelho ao utilizar habilidades de ataque.
+SKILL_20181017_012583	Coelho Feliz
+SKILL_20181017_012584	Aumenta a Taxa de Crítico.
+SKILL_20181017_012585	Coelho Bravo
+SKILL_20181017_012586	Chance de invocar uma Boneca Xamã.
 SKILL_20181017_012587	Wastrel's Wrath	웨이스트럴의 분노				
 SKILL_20181017_012588	10% chance to increase Taxa de Crítico by 2x with every Strike attack.	때리기 공격시 10% 확률로 치명타 발생이 2배로 증가합니다.				
 SKILL_20181017_012589	Increases Taxa de Crítico by 2x.	치명타 발생이 2배로 증가합니다.				
