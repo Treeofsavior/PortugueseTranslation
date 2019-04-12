@@ -12989,14 +12989,14 @@ ITEM_20161214_012987	Brown Contact Lenses
 ITEM_20161214_012988	Saja
 ITEM_20161214_012989	Regular users will be subject to restrictions should this weapon be found in their possession. This weapon is never supposed to exist, you see.
 ITEM_20161214_012990	  5% chance to inflict [Bleeding] for 30 seconds on enemies when using a skill attack{nl} - A basic attack will hit 5 successive times every 5 times you apply [Bleeding] to enemies{nl} - {img red_down_arrow 16 16} 50% reduced damage of [Ghost] armor-type targets
-ITEM_20161214_012991	 - Final Block Rate {img green_up_arrow 16 16}15%
-ITEM_20161214_012992	 - Final Block Rate {img green_up_arrow 16 16}-3%
-ITEM_20161214_012993	 - Final Block Rate {img green_up_arrow 16 16}-1%
-ITEM_20161214_012994	 - Final Block Rate {img green_up_arrow 16 16}3%
-ITEM_20161214_012995	  Final Block Rate {img green_up_arrow 16 16}1% - 1% chance to regenerate 200 HP every second for 5 seconds when taking damage
-ITEM_20161214_012996	 Final Block Rate {img green_up_arrow 16 16}8% - 8% chance to reduce damage by 50% when hit
-ITEM_20161214_012997	 - Final Block Rate {img green_up_arrow 16 16}2%
-ITEM_20161214_012998	 - Final Block Rate {img green_up_arrow 16 16}7%
+ITEM_20161214_012991	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}15%
+ITEM_20161214_012992	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}-3%
+ITEM_20161214_012993	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}-1%
+ITEM_20161214_012994	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}3%
+ITEM_20161214_012995	  Taxa de Bloqueio Final {img green_up_arrow 16 16}1% - 1% chance to regenerate 200 HP every second for 5 seconds when taking damage
+ITEM_20161214_012996	 Taxa de Bloqueio Final {img green_up_arrow 16 16}8% - 8% chance to reduce damage by 50% when hit
+ITEM_20161214_012997	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}2%
+ITEM_20161214_012998	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}7%
 ITEM_20161214_012999	Zemyna Necklace (30 Days)
 ITEM_20161214_013000	A necklace with the powers of Goddess Zemyna. It will not last long as it is too crude to hold the power of the goddesses. Upon pick-up, use within 30 days.
 ITEM_20161214_013001	Solmiki Medal
@@ -14279,13 +14279,13 @@ ITEM_20170420_014275	Migantis Shield	미간티스 실드
 ITEM_20170420_014276	"There is a peculiar magic flowing through this shield, but no known way to awaken it; it is, for now, a dormant shield."	마력이 흐르는 방패이지만, 마력을 활성화 시킬 방법이 없어 마치 잠들어 있는 듯한 방패입니다.				
 ITEM_20170420_014277	Pevordimas Shield	페버디마스 실드				
 ITEM_20170420_014278	There is magic actively flowing through this shield.	마력이 흐르고 있는 방패로, 마력이 활성화된 상태입니다.				
-ITEM_20170420_014279	 - Final Block Rate {img green_up_arrow 16 16}1% - 1% chance to regenerate 40 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1% {nl} - 피격 시 1% 확률로 5초 동안 1초 간격으로 HP 40회복 효과 발생	ITEM_20161214_012995	  Final Block Rate {img green_up_arrow 16 16}1% - 1% chance to regenerate 200 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1% {nl} - 피격시 1% 확률로 1초 간격으로 5초 동안 HP를 200 회복	
+ITEM_20170420_014279	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}1% - 1% chance to regenerate 40 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1% {nl} - 피격 시 1% 확률로 5초 동안 1초 간격으로 HP 40회복 효과 발생	ITEM_20161214_012995	  Taxa de Bloqueio Final {img green_up_arrow 16 16}1% - 1% chance to regenerate 200 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1% {nl} - 피격시 1% 확률로 1초 간격으로 5초 동안 HP를 200 회복	
 ITEM_20170420_014280	Purine Migantis Shield	퓨리네 미간티스 실드				
 ITEM_20170420_014281	"There is strong magic flowing through this shield, but no known way to awaken it; it is, for now, a dormant shield."	강력한 마력이 흐르는 방패이지만, 마력을 활성화 시킬 방법이 없어 마치 잠들어 있는 듯한 방패입니다.				
 ITEM_20170420_014282	Purine Pevordimas Shield	퓨리네 페버디마스 실드				
 ITEM_20170420_014283	There is strong magic actively flowing through this shield.	강력한 마력이 흐르고 있는 방패로, 마력이 활성화된 상태입니다.				
-ITEM_20170420_014284	 - Final Block Rate {img green_up_arrow 16 16}8% - 8% chance to reduce damage by {img red_down_arrow 16 16} 50% when hit	 - 최종블럭률 {img green_up_arrow 16 16}2% {nl} - 피격 시 8% 확률로 받는 피해 {img red_down_arrow 16 16}50% 감소	ITEM_20161214_012996	 Final Block Rate {img green_up_arrow 16 16}8% - 8% chance to reduce damage by 50% when hit	 - 최종블럭률 {img green_up_arrow 16 16}2% {nl} - 피격 시 8% 확률로 받는 피해 -50% 감소	
-ITEM_20170420_014285	 - Increases all Peltasta skill levels by {img green_up_arrow 16 16}1{nl}- Increases all Rodelero skill levels by {img green_up_arrow 16 16}1{nl}- Final Block Rate {img green_up_arrow 16 16}3%	 - 모든 펠타스타 스킬 레벨 {img green_up_arrow 16 16}1 증가{nl}  - 모든 로델레로 스킬 레벨 {img green_up_arrow 16 16}1 증가{nl}  - 최종블럭률 {img green_up_arrow 16 16}3%	ITEM_20161214_012994	 - Final Block Rate {img green_up_arrow 16 16}3%	 - 최종블럭률 {img green_up_arrow 16 16}3%	
+ITEM_20170420_014284	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}8% - 8% chance to reduce damage by {img red_down_arrow 16 16} 50% when hit	 - 최종블럭률 {img green_up_arrow 16 16}2% {nl} - 피격 시 8% 확률로 받는 피해 {img red_down_arrow 16 16}50% 감소	ITEM_20161214_012996	 Taxa de Bloqueio Final {img green_up_arrow 16 16}8% - 8% chance to reduce damage by 50% when hit	 - 최종블럭률 {img green_up_arrow 16 16}2% {nl} - 피격 시 8% 확률로 받는 피해 -50% 감소	
+ITEM_20170420_014285	 - Increases all Peltasta skill levels by {img green_up_arrow 16 16}1{nl}- Increases all Rodelero skill levels by {img green_up_arrow 16 16}1{nl}- Taxa de Bloqueio Final {img green_up_arrow 16 16}3%	 - 모든 펠타스타 스킬 레벨 {img green_up_arrow 16 16}1 증가{nl}  - 모든 로델레로 스킬 레벨 {img green_up_arrow 16 16}1 증가{nl}  - 최종블럭률 {img green_up_arrow 16 16}3%	ITEM_20161214_012994	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}3%	 - 최종블럭률 {img green_up_arrow 16 16}3%	
 ITEM_20170420_014286	Replica Migantis Spear	레플리카 미간티스 스피어				
 ITEM_20170420_014287	Replica Pevordimas Spear	레플리카 페버디마스 스피어				
 ITEM_20170420_014288	 - Increases all Hoplite skill levels by {img green_up_arrow 16 16}2	 - 모든 하플라이트 스킬 레벨 {img green_up_arrow 16 16}2 증가	ITEM_20150717_005623	 - Increases all Hoplite skill levels by 2	 - 모든 하플라이트 스킬 레벨 +2 증가	
@@ -16119,8 +16119,8 @@ ITEM_20171128_016111	Berthas Pajoritas Shield
 ITEM_20171128_016112	Berthas Migantis Shield
 ITEM_20171128_016113	Berthas Pevordimas Shield
 ITEM_20171128_016114	Berthas Raffye Shield
-ITEM_20171128_016115	 - Final Block Rate {img green_up_arrow 16 16}2% - 8% chance to reduce damage by {img red_down_arrow 16 16} 50% when hit
-ITEM_20171128_016116	 - Final Block Rate {img green_up_arrow 16 16}3%{nl} - Increases all Peltasta skill level by {img green_up_arrow 16 16}1 {nl}  -  Increases all Rodelero skill levels by  {img green_up_arrow 16 16}1 
+ITEM_20171128_016115	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}2% - 8% chance to reduce damage by {img red_down_arrow 16 16} 50% when hit
+ITEM_20171128_016116	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}3%{nl} - Increases all Peltasta skill level by {img green_up_arrow 16 16}1 {nl}  -  Increases all Rodelero skill levels by  {img green_up_arrow 16 16}1 
 ITEM_20171128_016117	Primus Spike Kindl
 ITEM_20171128_016118	Primus Rodeleine Shield
 ITEM_20171128_016119	Primus Sketis Shield
@@ -18792,7 +18792,7 @@ ITEM_20180629_018777	Berthas Raffye Crossbow
 ITEM_20180629_018778	Berthas Raffye Mace
 ITEM_20180629_018779	Berthas Raffye Two-handed Mace
 ITEM_20180629_018780	Berthas Raffye Shield 
-ITEM_20180629_018781	- Final Block Rate {img green_up_arrow 16 16}2%
+ITEM_20180629_018781	- Taxa de Bloqueio Final {img green_up_arrow 16 16}2%
 ITEM_20180629_018782	Berthas Raffye Spear 
 ITEM_20180629_018783	Berthas Raffye Pike 
 ITEM_20180629_018784	Berthas Raffye Dagger
@@ -19100,8 +19100,8 @@ ITEM_20180827_019085	Zvaigzde Two-handed Mace	즈바이더 투 핸드 메이스
 ITEM_20180827_019086	Berthas Zvaigzde Two-handed Mace	베르타스 즈바이더 투 핸드 메이스			
 ITEM_20180827_019087	Primus Zvaigzde Two-handed Mace	프리머스 즈바이더 투 핸드 메이스			
 ITEM_20180827_019088	Zvaigzde Shield	즈바이더 실드			
-ITEM_20180827_019089	 - Final Block Rate {img green_up_arrow 16 16}2.75%	 - 최종블럭률 {img green_up_arrow 16 16}2.75%				
-ITEM_20180827_019090	 - Final block rate {img green_up_arrow 16 16}1%{nl}- 1% chance to regenerate 40 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1%{nl} - 피격 시 1% 확률로 5초 동안 1초 간격으로 HP 40회복	ITEM_20170420_014279	 - Final Block Rate {img green_up_arrow 16 16}1%{nl}  - 1% chance to regenerate 40 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1% {nl} - 피격 시 1% 확률로 5초 동안 1초 간격으로 HP 40회복 효과 발생
+ITEM_20180827_019089	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}2.75%	 - 최종블럭률 {img green_up_arrow 16 16}2.75%				
+ITEM_20180827_019090	 - Final block rate {img green_up_arrow 16 16}1%{nl}- 1% chance to regenerate 40 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1%{nl} - 피격 시 1% 확률로 5초 동안 1초 간격으로 HP 40회복	ITEM_20170420_014279	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}1%{nl}  - 1% chance to regenerate 40 HP every second for 5 seconds when taking damage	 - 최종블럭률 {img green_up_arrow 16 16}1% {nl} - 피격 시 1% 확률로 5초 동안 1초 간격으로 HP 40회복 효과 발생
 ITEM_20180827_019091	Berthas Zvaigzde Shield	베르타스 즈바이더 실드			
 ITEM_20180827_019092	Primus Zvaigzde Shield	프리머스 즈바이더 실드			
 ITEM_20180827_019093	Zvaigzde Spear	즈바이더 스피어			
@@ -19694,85 +19694,85 @@ ITEM_20181017_019679	Moon Rabbit Helmet	달 토끼 헬멧 코스튬
 ITEM_20181017_019680	Legends tell of a celestial rabbit that lives on the Moon and is often seen pounding rice in its mortar. Like all rabbits, it's as cute as a button.{nl}Can be exchanged for medals at the Loja de Trocas.{nl}Hair dyes do not apply.	복슬복슬한 털, 상대방의 방심을 유도하는 귀여운 얼굴, 쫑긋 솟은 두 개의 귀를 가진 달 토끼 헬멧 코스튬입니다.{nl}리사이클 샵에서 메달로 교환할 수 있습니다.{nl}염색약의 색상이 적용되지 않습니다.				
 ITEM_20181017_019681	Green Dumpling Helmet	쑥송편 헬멧 코스튬				
 ITEM_20181017_019682	A sweet dumpling featuring an aromatic herb filling.	풍성한 한가위의 쑥송편 입니다.				
-ITEM_20181017_019683	Wastrel Zvaigzde Sword	웨이스트럴 즈바이더 소드				
-ITEM_20181017_019684	 - 10% chance per Strike attack to increase Critical Rate by 2x for 5 sec	 - 때리기 공격시 10% 확률로 5초간 치명타 발생 2배증가				
-ITEM_20181017_019685	The Wastrel itself has no interest in artifacts returned from the past. It's the powerful magic accumulated in its body that attracts old artifacts and even connects them to it. 	웨이스트럴은 과거에서 돌아온 유물에 관심이 없습니다. 그러나 그 몸에 축적된 강력한 마력이 유물을 끌어당기고 어떤 것은 웨이스트럴의 신체에 융화까지 됩니다. 				
+ITEM_20181017_019683	Wastrel Zvaigzde Sword
+ITEM_20181017_019684	 - 10% de chance, por ataque do tipo [Impacto], de aumentar a Taxa de Crítico em 2x por 5 seg.
+ITEM_20181017_019685	O Wastrel mesmo não tem interesse em artefatos que retornaram do passado. É a forte magia acumulada no seu corpo que atrai estes artefatos antigos e até conecta eles no monstro.
 ITEM_20181017_019686	Asio Sword
 ITEM_20181017_019687	{nl} {nl}[Lâmina Afiada]{nl} - Ataques críticos realizados com uma Espada de 1 Mão aplicam um efeito que aumenta o Ataque Crítico em +250 por 10 seg{nl} {nl}- Enquanto [Lâmina Afiada] estiver ativa, cada Ataque Crítico aumenta o valor do seu Ataque Crítico em +80{nl}(Aumento máx.: 400)
 ITEM_20181017_019688	Este equipamento em específico desapareceu com o acidente de Nicopolis, mas retornou ao nosso mundo mais ou menos no mesmo momento que o Asiomage e o Quipmage.
-ITEM_20181017_019689	Wastrel Zvaigzde Two-handed Sword	웨이스트럴 즈바이더 투 핸드 소드				
-ITEM_20181017_019690	 - Increases movement speed while Cyclone is active	 - 사이클론 유지 시간 동안 이동속도 증가				
-ITEM_20181017_019691	Ancient artifacts attracted by the Wastrel are known to interact with the monster's peculiar magic. One cannot tell what new kinds of magic may arise from those interactions.	웨이스트럴에게 끌려든 과거의 유물은 웨이스트럴이 지닌 마력과 상호작용합니다. 여기서 어떤 새로운 마법이 부여될지 알 수 없습니다.				
+ITEM_20181017_019689	Wastrel Zvaigzde Two-handed Sword
+ITEM_20181017_019690	 - Aumenta a Velocidade de Movimento enquanto [Cyclone] estiver ativo
+ITEM_20181017_019691	Artefatos antigos atraídos pelo Wastrel são conhecidos por interagir com a magia peculiar do monstro. É difícil prever quais novos tipos de magia podem surgir dessas interações.
 ITEM_20181017_019692	Asio Two-handed Sword
 ITEM_20181017_019693	O Quipmage sempre teve interesse em expandir sua influência. Para alcançar isso, fez planos para recrutar mercenários e equipá-los com suas armas, capazes de superar os poderes das que são usadas pelo Exército Real.
 ITEM_20181017_019694	  - 1% chance to reduce an enemy's magic defense by 50% of your own magic defense and {img green_up_arrow 16 16} increase physical defense for 30 seconds with a basic attack (Does not apply to boss monsters)	 - 기본 공격 시 1% 확률로 적에게 30초간 상대방 마법 방어력의 50%만큼, 마법 방어력 {img red_down_arrow 16 16}감소, 물리 방어력 {img green_up_arrow 16 16}증가 효과 (보스몬스터에게 미적용)	ITEM_20170420_014225	 - 1% chance to reduce an enemy's magic defense by 50% of your own magic defense and {img green_up_arrow 16 16} increase physical defense for 30 seconds with a basic attack	 - 기본 공격 시 1% 확률로 적에게 30초간 상대방 마법 방어력의 50%만큼, 마법 방어력 {img red_down_arrow 16 16}감소, 물리 방어력 {img green_up_arrow 16 16}증가 효과	
 ITEM_20181017_019695	Asio Rod
 ITEM_20181017_019696	O Asiomage é notavelmente apaixonado por esta arma, pois ela garante um aumento de inteligência. Mais do que uma ferramenta, esta arma serve como um tipo de brinquedo que melhora o humor do monstro.
-ITEM_20181017_019697	Wastrel Zvaigzde Rod	웨이스트럴 즈바이더 로드				
-ITEM_20181017_019698	A long time ago, a wizard created a giant lock and key, and with that they produced this weapon. Despite its appearance, however, it's often used as a cane for walking.	아주 오래 전 어떤 마법사가 매우 큰 자물쇠를 만들고 그 열쇠로 이것을 만들었다고 합니다. 열쇠로 만들어졌지만, 지팡이로 짚고 다니는 일이 더 많았다고 합니다.				
-ITEM_20181017_019699	Wastrel Zvaigzde Bow	웨이스트럴 즈바이더 보우				
-ITEM_20181017_019700	All the equipment that disappeared during the accident of Nicopolis has returned in the exact same conditions, without any signs of the time that has passed. 	돌아온 니코폴리스의 장비는 사라질 때 구조와 모양이 그대로 입니다. 다시 말해 시간의 경과에 따른 노후화는 전혀 없습니다. 				
+ITEM_20181017_019697	Wastrel Zvaigzde Rod
+ITEM_20181017_019698	Há muito tempo atrás, um Wizard criou uma grande chave e uma fechadura, e com isso produziram esta arma. Apesar da aparência, porém, é normalmente utilizada como bengala para caminhar.
+ITEM_20181017_019699	Wastrel Zvaigzde Bow
+ITEM_20181017_019700	Todo o equipamento que desapareceu durante o acidente de Nicopolis retornou nas mesmas condições, sem qualquer sinal do passar do tempo.
 ITEM_20181017_019701	Asio Bow
 ITEM_20181017_019702	{nl} {nl}Amigo Animal: Coelho{nl} - Habilidades de ataque garantem 10% de chance de invocar um Coelho, que aplica dois efeitos:{nl} {nl} -  [Coelho Feliz]: Taxa de Crítico +20 por acúmulo, por 10s. Ativa [Coelho Bravo] após 3 acúmulos.{nl} - [Coelho Bravo]: Taxa de Ataque em Área +2, último efeito aplicado pelo Coelho (duração 15s).
 ITEM_20181017_019703	O Asiomage dá continuidade na pesquisa para improvisar o equipamento desenvolvido originalmente pelo seu outro eu, o Quipmage. Este item, por exemplo, já é mais efetivo do que quando retornou primeiramente ao nosso mundo.
-ITEM_20181017_019704	Wastrel Zvaigzde Crossbow	웨이스트럴 즈바이더 크로스보우				
-ITEM_20181017_019705	All Nicopolis equipment has returned to our world in the exact same conditions as when it disappeared, from its basic components down to the coatings of oil, now centuries old.	다시 우리 세계로 돌아온 니코폴리스 장비는 활줄같이 약한 부분은 물론이고 심지어 수백년 전에 칠해진 기름까지 그대로 남아있습니다.				
+ITEM_20181017_019704	Wastrel Zvaigzde Crossbow
+ITEM_20181017_019705	Todos os equipamentos de Nicopolis retornaram para o nosso mundo nas mesmas condições de quando desapareceram, desde os componentes mais básicos até a cobertura de óleo, que hoje estariam envelhecidos há séculos.
 ITEM_20181017_019706	Asio Crossbow
 ITEM_20181017_019707	O Asiomage não gosta desta arma. Ele ainda se lembra de ser usado como alvo vivo em experimentos anteriores, particularmente para Bestas.
-ITEM_20181017_019708	Wastrel Zvaigzde Mace	웨이스트럴 즈바이더 메이스				
-ITEM_20181017_019709	Some wizards of old Nicopolis were secretly opposed to the Kingdom, but in order to feign support, they developed a few weapons that make use of divine power. This is one of such weapons.	과거 니코폴리스의 일부 마법사는 내심으로는 왕국을 적대하면서 겉으로는 아닌 척하느라 신성력에 기반한 무기도 만들 필요가 있었습니다. 이 장비가 그 한 예입니다.				
+ITEM_20181017_019708	Wastrel Zvaigzde Mace
+ITEM_20181017_019709	Alguns Wizards da antiga Nicopolis eram opositores secretos do Reino, mas para fingir apoio, eles desenvolveram algumas armas que faem uso de poderes divinos.
 ITEM_20181017_019710	Asio Mace
 ITEM_20181017_019711	{nl} {nl}Invocar Boneca Xamã{nl}  - Ataques com Maças de 1 Mão garantem 10% de chance de invocar uma Boneca Xamã (duração de 5s, máx. 1 boneca).{nl} {nl}  - Destrua a boneca para causar dano ao redor em proporção ao HP dela.{nl}  (HP da Boneca Xamã: 30.000-50.000)
 ITEM_20181017_019712	Alguns cientistas reclamam que o nome desse item é arbitrário, afinal não possui nenhuma semelhança com corujas.
-ITEM_20181017_019713	Wastrel Zvaigzde Two-handed Mace	웨이스트럴 즈바이더 투 핸드 메이스				
-ITEM_20181017_019714	Some of the items attracted by the Wastrel's bodily magic are actually harmful to it. Otherwise, the Wastrel would be even more powerful than it is now.	어떤 마법 장비는 웨이스트럴의 몸속에서 웨이스트럴에게 나쁜 영향을 미칩니다. 그렇지 않았다면 웨이스트럴은 지금보다 더 강했을 것입니다.				
+ITEM_20181017_019713	Wastrel Zvaigzde Two-handed Mace
+ITEM_20181017_019714	Alguns dos itens atraídos pela magia corporal do Wastrel são, na verdade, nocivos a ele. Do contrário, o Wastrel seria ainda mais poderoso do que já é.
 ITEM_20181017_019715	Asio Two-handed Mace
 ITEM_20181017_019716	 - Nível de [Demolition] {img green_up_arrow 16 16}2{nl}  - Nível de [God Smash] {img green_up_arrow 16 16}2
 ITEM_20181017_019717	Dizem que essa arma foi projetada para um exército de monstros Golem. Não se sabe se o Quipmage ou o Asiomage possuem qualquer memória deste fato.
-ITEM_20181017_019718	Wastrel Zvaigzde Shield	웨이스트럴 즈바이더 실드				
-ITEM_20181017_019719	 - Final Block Rate {img green_up_arrow 16 16}2%{nl}  -  5% chance of resisting rank 2 or lower status ailments	 - 최종블럭률 {img green_up_arrow 16 16}2%{nl}  -  5% 확률로 2랭크 이하 상태 이상 저항				
-ITEM_20181017_019720	Fortunately for everyone, the Wastrel does not use this shield for protection. However, the shield is said to ease the pain of generating new equipment items.	다행히도 웨이스트럴이 이것으로 자신의 방어력을 올릴 일은 없습니다. 다만 다른 장비들이 발생시키는 고통은 조금 덜어준다고 합니다.				
+ITEM_20181017_019718	Wastrel Zvaigzde Shield
+ITEM_20181017_019719	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}2%{nl}  -  5% de chance de resistir efeitos negativos de Rank 2 ou menor
+ITEM_20181017_019720	Felizmente para todos, o Wastrel não usa esse escudo para proteção. Porém, dizem que o Escudo alivia as dores de gerar novos itens de equipamentos.
 ITEM_20181017_019721	Asio Shield
 ITEM_20181017_019722	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}2%{nl} {nl} [Olho do Asiomage]{nl} - Alvos provocados {img green_up_arrow 16 16}1
 ITEM_20181017_019723	Diferente de outros itens da linha Asio, este aqui representa fielmente o estilo e convenções populares da antiga Nicopolis, antes do grande acidente.
-ITEM_20181017_019724	Wastrel Zvaigzde Spear	웨이스트럴 즈바이더 스피어				
-ITEM_20181017_019725	Most items that contain magic gems have negative effects on the Wastrel's body. That can be considered a fortunate occurrence.	대개 이렇게 마법 보석이 포함된 장비는 웨이스트럴의 몸안에서 악영향을 미칩니다. 다행한 일입니다.				
+ITEM_20181017_019724	Wastrel Zvaigzde Spear
+ITEM_20181017_019725	Muitos itens que contém gemas mágicas possuem efeitos negativos no corpo do Wastrel. Isto pode ser considerado uma ocorrência afortunada.
 ITEM_20181017_019726	Asio Spear
 ITEM_20181017_019727	Uma Lança projetada por um Wizard. O Quipmage não parece que considerou que o formato desta arma poderia gerar problemas.
-ITEM_20181017_019728	Wastrel Zvaigzde Pike	웨이스트럴 즈바이더 파이크				
-ITEM_20181017_019729	Of all the items attracted by the Wastrel, some are incorporated physically, while some have only their magic properties absorbed. Physically assimilated objects are thought to be constantly prodding the body of the Wastrel.	웨이스트럴에게 끌린 장비는 물리적으로 그 몸안에 있는 경우와 실체없이 마법적으로 함유된 경우가 있습니다. 물리적인 경우 끊임없이 웨이스트럴을 콕콕 찌르는 셈입니다.				
+ITEM_20181017_019728	Wastrel Zvaigzde Pike
+ITEM_20181017_019729	De todos os itens atraídos pelo Wastrel, alguns são incorporados fisicamente, enquanto outros tem somente suas propriedades mágicas absorvidas. Dizem que os objetos fisicamente assimilados cutucam constantemente o corpo do Wastrel.
 ITEM_20181017_019730	Asio Pike
 ITEM_20181017_019731	O Asiomage perdeu memórias cruciais sobre a sua linha de equipamentos, ao mesmo tempo que se pergunta o por quê de lembrar de outras informações pouco relevantes. Dizem que é por isso que não há nenhuma versão melhorada da Asio Pike.
-ITEM_20181017_019732	Wastrel Zvaigzde Dagger	웨이스트럴 즈바이더 대거				
-ITEM_20181017_019733	{nl} {nl}Black & White Mask{nl}ENH: Additional Holy property attack +30 per weapon enhancement stage starting from +10{nl} {nl}TRA: Additional Dark property attack +30 per transcendence stage{nl}(Max. increase in additional Holy/Dark attack: 300)	{nl} {nl}흑백 가면 {nl}강화: 무기 10강 이상부터 강화 수치 1당 신성 속성 추가 대미지 30 증가 {nl} {nl}초월: 초월 수치 1당 어둠 속성 추가 대미지 30 증가 {nl}(신성 속성 추가 대미지, 어둠 속성 추가 대미지 최대 증가량: 300)				
-ITEM_20181017_019734	This item is thought to flow in the veins of the Wastrel. Although the monster's blood and circulatory system are very different from that of most living beings, it still seems to cause the Wastrel pain when it passes through certain regions of its body.	이 장비는 웨이스트럴의 혈관을 타고 그 몸안을 돌아다닌다고 합니다. 웨이스트럴의 피와 혈관은 일반적인 생물과는 많이 달라진 마법적인 성질을 지녔지만 그래도 특정부위를 지날 때는 아프다고 합니다.				
+ITEM_20181017_019732	Wastrel Zvaigzde Dagger
+ITEM_20181017_019733	{nl} {nl}[Máscara Preta & Branca]{nl}REFINO: Dano Adicional Divino +30 por nível de Refino da arma, começando com +10{nl} {nl}TRANSCENDÊNCIA: Dano Adicional Trevas +30 por Estágio de Transcendência{nl}(Aumentos máximos Divino/Trevas: 300)
+ITEM_20181017_019734	Dizem que este item corre pelas veias do Wastrel. Apesar do sangue e do sistema circulatório do monstro serem muito diferentes da maioria dos seres vivos, ainda parece causar dor ao Wastrel quando o item passa por certas regiões do corpo.
 ITEM_20181017_019735	Asio Dagger
 ITEM_20181017_019736	 - Ataques com Adaga, enquanto estiver escondido, aumentam o dano em 15%
 ITEM_20181017_019737	O Quipmage planejava usar esta arma para assassinar a Pervading Queen e o Teal Specter. Todos estes três Wizards tinham planos para aniquilar uns aos aoutros, cada um através dos seus próprios meios.
-ITEM_20181017_019738	Wastrel Zvaigzde Staff	웨이스트럴 즈바이더 스태프				
-ITEM_20181017_019739	In the early days of this weapon, it was common for it to break down into three pieces. Large amounts of magic were used to increase its durability, so much so that, now, it will not break even when it is fused into the Wastrel.	이 장비는 제조 초기에 세 부분으로 부러지는 일이 잦았습니다. 형체를 유지하도록 내구도를 올리는데 많은 마력이 사용되었고, 덕분에 웨이스트럴에 결합되어서도 부서지지 않았습니다.				
+ITEM_20181017_019738	Wastrel Zvaigzde Staff
+ITEM_20181017_019739	Nos primeiros dias de existência desta arma, era comum que se quebrasse em três pedaços. Grandes quantidades de magia foram utilizadas para aumentar a sua durabilidade, tanta que, hoje, ela não irá quebrar mesmo que seja fundida dentro do Wastrel.
 ITEM_20181017_019740	Asio Staff
 ITEM_20181017_019741	Diferente do Asio Rod, o Asio Staff é famoso por derrubar os espíritos do Asiomage. O ganho de inteligência faz com que ele reviva ainda mais memórias do seu passado turbulento.
-ITEM_20181017_019742	Wastrel Zvaigzde Pistol	웨이스트럴 즈바이더 피스톨				
-ITEM_20181017_019743	 - Full Metal Jacket skill level {img green_up_arrow 16 16}2{nl}  - Retreat Shot skill level {img green_up_arrow 16 16}2	 - 풀 메탈 자켓 스킬 레벨 {img green_up_arrow 16 16} 2{nl}  - 후퇴 사격 스킬 레벨 {img green_up_arrow 16 16} 2				
-ITEM_20181017_019744	Due to the gap created by Medzio Diena, the Wastrel's living quarters have begun to attract common items found in the present. This means that the Wastrel is not only surrounded by weapons like this pistol, but also by miscellaneous items like worn-out shoes and broken chairs.	웨이스트럴의 거처가 신수의 날 탓에 틈이 생기자 과거에서 넘어온 장비뿐 아니라 잡다한 현재의 다른 물품도 빨려들어갔다고 합니다. 따라서 이런 총이 아니라 헌 신발이나 부서진 의자 같은 그야말로 잡동사니가 나왔을 수도 있습니다.				
+ITEM_20181017_019742	Wastrel Zvaigzde Pistol
+ITEM_20181017_019743	 - Nível de [Full Metal Jacket] {img green_up_arrow 16 16}2{nl}  - Nível de [Retreat Shot] {img green_up_arrow 16 16}2
+ITEM_20181017_019744	Devido a fenda criada pelo Medzio Diena, o espaço onde fica o Wastrel começou a atrair itens comuns encontrados no presente. Isso significa que o Wastrel não está cercado só de armas como esta Pistola, mas também de uma diversidade de itens, como sapatos gastos e cadeiras quebradas.
 ITEM_20181017_019745	Asio Pistol
 ITEM_20181017_019746	{nl} {nl}[Alvo Travado]{nl} - Ataques de Pistola garantem 20% de chance de aplicar o efeito [Alvo Travado].{nl} {nl} - [Alvo Travado] causa 5.000-7.000 de dano em 10 inimigos ao redor quando alcança 3 acúmulos.{nl} {nl} - O dano aumenta em 30% para cada inimigo afetado por [Target Set] (aumento máx. 700%).
 ITEM_20181017_019747	O Asiomage possui muito orgulho desta arma. Ele começou a desenvolver as suas próprias armas de fogo após retonar para o nosso mundo.
-ITEM_20181017_019748	Wastrel Zvaigzde Rapier	웨이스트럴 즈바이더 레이피어				
-ITEM_20181017_019749	Weapons like these with low slashing power can easily end up lodged in the Wastrel's body. Fortunately for the Wastrel, however, they do not cause him pain.	베는 힘이 약한 이런 장비는 웨이스트럴의 몸안에 쉽게 고정됩니다. 웨이스트럴 입장에서는 그나마 고통을 안 주는 유형입니다.				
+ITEM_20181017_019748	Wastrel Zvaigzde Rapier
+ITEM_20181017_019749	Armas como esta, com baixo poder de corte, podem terminar facilmente presas no corpo do Wastrel. Felizmente para ele, porém, elas não causam nenhuma dor nele.
 ITEM_20181017_019750	Asio Rapier
 ITEM_20181017_019751	 - Nível de [Epee Garde] {img green_up_arrow 16 16}2
 ITEM_20181017_019752	Apesar da Pervading Queen ter sido a projetista original desta arma, o Asiomage é quem está atualmente desenvolvendo ela. A Pervading Queen perdeu o interesse, há muito tempo, na produção de equipamentos.
 ITEM_20181017_019753	  - Sweeping Cannon skill level {img green_up_arrow 16 16}1{nl}  - Cannon Barrage skill level 	 - 스위핑 캐논 스킬 레벨 {img green_up_arrow 16 16}1{nl}  - 캐논 배라지 스킬 레벨{img green_up_arrow 16 16}1				
-ITEM_20181017_019754	Wastrel Zvaigzde Cannon	웨이스트럴 즈바이더 캐논				
-ITEM_20181017_019755	 - Attacks in Bazooka status grant a 10% chance of applying the same damage as the previous attack.	 - 바주카 상태일 때 공격시 10% 확률로 이전 대미지와 동일한 대미지를 줍니다.				
-ITEM_20181017_019756	Seeing as so many weapons are absorbed into the Wastrel's body, one would think at least some of them would be deployed inside of it.	이왕 이렇게 현대적으로 제조된 장비가 웨이스트럴에게 빨려들어갈 상황이라면 몸 안에서 몇발 발사되었다면 좋았을 텐데 말입니다.				
+ITEM_20181017_019754	Wastrel Zvaigzde Cannon
+ITEM_20181017_019755	 - Ataques sob efeito de [Bazooka] garantem 10% de chance de aplicar o mesmo dano do ataque anterior.
+ITEM_20181017_019756	Vendo como várias armas foram absorvidas para dentro do corpo do Wastrel, alguém poderia pensar que ao menos algumas delas seriam incorporadas dentro dele.
 ITEM_20181017_019757	Asio Cannon
 ITEM_20181017_019758	 - Nível de [Sweeping Cannon] {img green_up_arrow 16 16}2{nl}  - Nível de [Siege Burst] {img green_up_arrow 16 16}2
 ITEM_20181017_019759	O Asiomage foi fortemente influenciado pela fervor escolar excessivo que é típico dos Wizards, que o levou a criar armas desnecessárias sem uma razão aparente.
-ITEM_20181017_019760	Wastrel Zvaigzde Musket	웨이스트럴 즈바이더 머스킷				
-ITEM_20181017_019761	This weapon was not absorbed into the Wastrel's body by traveling through the gap that appeared during Medzio Diena. It is said to have been carried by an adventurer who attempted to defeat the Wastrel.	이 장비는 현대의 장비가 신수의 날로 벌어진 틈을 타고 웨이스트럴에게 들어간 것이 아닙니다. 웨이스트럴을 잡아보겠다고 들어간 어느 모험가의 유품이라고 봅니다.				
+ITEM_20181017_019760	Wastrel Zvaigzde Musket
+ITEM_20181017_019761	Esta arma não foi absorvida para dentro do corpo do Wastrel, tendo viajado pela fenda que apareceu durante o Medzio Diena. Dizem que foi cuidada por um aventureiro que tentou derrotar o Wastrel.
 ITEM_20181017_019762	Asio Musket
 ITEM_20181017_019763	Após retornar para o nosso mundo e aprender que várias espécies de aves mutaram em monstros, o Asiomage fez planos para criar o seu próprio exército de pássaros para carregar esta arma. Um pensamento meio avoado, alguém poderia pensar.
 ITEM_20181017_019764	Moon Rabbit Costume	달 토끼 코스튬				
