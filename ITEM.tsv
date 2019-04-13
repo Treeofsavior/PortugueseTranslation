@@ -13067,14 +13067,14 @@ ITEM_20161214_013065	Increases attack of the Dark property against characters by
 ITEM_20161214_013066	Use to obtain the following items:{nl}Pode ser usado a partir do Lv. 60.{nl}- 35x Lv4 EXP Card{nl}- 5x Instanced Dungeon Reset Voucher{nl}- 10x Settlement Support Potion{nl}- Settlement Support Chest: Lv75{nl}This item will be removed after the server maintenance of April 7th.
 ITEM_20161214_013067	Coleção: Token of the Demon Treaty
 ITEM_20161214_013068	Coleção: Pasleptas
-ITEM_20161214_013069	Cubo Secreto da Letícia
+ITEM_20161214_013069	Leticia's Secret Cube
 ITEM_20161214_013070	Lv220 Recipe Box - Weapon
 ITEM_20161214_013071	Contains a random recipe for a Lv220 weapon.
 ITEM_20161214_013072	Recipe Box - Armor
 ITEM_20161214_013073	Contains a random recipe for Lv120 ~ 220 armor.
 ITEM_20161214_013074	Lv220 Recipe Box - Accessory
 ITEM_20161214_013075	Contains a random recipe for a Lv220 accessory.
-ITEM_20161214_013076	Cubo Secreto da Letícia x10 +1
+ITEM_20161214_013076	Leticia's Secret Cube x10 + 1
 ITEM_20161214_013077	 Shining Cube Piece
 ITEM_20161214_013078	Can be obtained from Leticia's Secret Cube.{nl}Collect 100 of them to use.
 ITEM_20161214_013079	Lucky Monster Card Box
@@ -14998,8 +14998,8 @@ ITEM_20170615_014994	Instantly restores 20% of max. SP. {nl}Additionally restore
 ITEM_20170615_014995	Coloque um equipamento na bigorna e acerte-a para melhorar a qualidade do seu equipamento. Você pode refiná-lo sem o custo de Silver. {nl}{img mouseclick_right 30 30} para usar.{nl} Cannot be exchanged for Medalhas no Loja de Trocas.
 ITEM_20170615_014996	Lv 315 Recipe Box - Weapon
 ITEM_20170615_014997	Use para obter uma receita aleatória de armas LV 315.
-ITEM_20170615_014998	Cubo Secreto da Letícia
-ITEM_20170615_014999	Cubo Secreto da Letícia x 10 + 1
+ITEM_20170615_014998	Leticia's Secret Cube
+ITEM_20170615_014999	Leticia's Secret Cube x 10 + 1
 ITEM_20170615_015000	Artisan Weapon Recipe Box (Lv. 315)
 ITEM_20170615_015001	Selecione uma receita de nível 315 que pode ser criada com menos materiais. {nl}{img mouseclick_right 30 30} para usar.
 ITEM_20170615_015002	Shining LV 7 Gem Abrasive
@@ -15964,7 +15964,7 @@ ITEM_20171128_015956	Primus Migatis Two-handed Sword
 ITEM_20171128_015957	Primus Pevordimas Two-handed Sword
 ITEM_20171128_015958	Primus Raffye Two-handed Sword
 ITEM_20171128_015959	Masinios Two-handed Sword
-ITEM_20171128_015960	 - 1% de chance por inimigo ao redor, ao atacar eles e no máximo 10%, de receber o efeito [Espírito de Batalha]. Ao acumular o efeito 5 vezes, ativa o efeito [Modo de Batalha] por 10 segundos{nl} {nl}[Modo de Batalha]{nl} - Ataque Físico {img green_up_arrow 16 16}120{nl} - Taxa de Ataque em Área {img green_up_arrow 16 16}2{nl} - Defesa Física {img red_down_arrow 16 16} 400{nl} - HP Máximo {img red_down_arrow 16 16}2.000
+ITEM_20171128_015960	 - 1% de chance por inimigo ao redor, ao atacar eles e no máximo 10%, de ativar [Espírito de Batalha]. Ao acumular 5 vezes, ativa [Modo de Batalha] por 10 segundos{nl} {nl}[Modo de Batalha]{nl} - Ataque Físico {img green_up_arrow 16 16}120{nl} - Taxa de Ataque em Área {img green_up_arrow 16 16}2{nl} - Defesa Física {img red_down_arrow 16 16} 400{nl} - HP Máximo {img red_down_arrow 16 16}2.000
 ITEM_20171128_015961	Como magia pode resolver vários problemas com facilidade, não havia necessidade de um mecanismo que transferisse forças físicas, feito engrenagens. Porém, Masinios estava preocupado com a ideia de transferir força mágica utilizando maquinismo. Foi assim que esta Espada de 2 Mãos foi criada logo no início das suas pesquisas. Só que, devido a este fato, o efeito mágico desta arma é um tanto quanto forte.
 ITEM_20171128_015962	(Faded) Replica Migantis Rod
 ITEM_20171128_015963	(Faded)  Replica Pevordimas Rod
@@ -16290,7 +16290,7 @@ ITEM_20171128_016282	Primus Migatis Rapier
 ITEM_20171128_016283	Primus Pevordimas Rapier
 ITEM_20171128_016284	Primus Raffye Rapier
 ITEM_20171128_016285	Masinios Rapier
-ITEM_20171128_016286	 - 15% de chance, ao atacar, de receber o efeito [Afiação] por 5 segundos. Quando [Afiação] acumular 5 vezes, o seu próximo ataque básico causará 5 golpes.{nl} {nl}[Afiação]{nl} - Ataque Crítico {img green_up_arrow 16 16}60
+ITEM_20171128_016286	 - 15% de chance, ao atacar, de ativar [Afiação] por 5 segundos. Quando acumular 5 vezes, o próximo ataque básico causará 5 golpes.{nl} {nl}[Afiação]{nl} - Ataque Crítico {img green_up_arrow 16 16}60
 ITEM_20171128_016287	Há razões conflitantes do por quê Masinios, sendo um Wizard, decidiu se dedicar ao maquinismo, mas uma teoria é de que isso é devido a penúltima Wizard, Agailla Flurry. Dizem que ele foi atraído pelo maquinismo devido a própria criação da Mage Tower por Flurry. É dito que este Florete foi feito durante um período em que Masinios favorecia a magia e considerava o maquinismo somente um hobby.
 ITEM_20171128_016288	(Faded) Replica Migantis Cannon
 ITEM_20171128_016289	(Faded)  Replica Pevordimas Cannon
@@ -16311,7 +16311,7 @@ ITEM_20171128_016303	Primus Pevordimas Cannon
 ITEM_20171128_016304	Primus Raffye Cannon
 ITEM_20171128_016305	Masinios Cannon
 ITEM_20171128_016306	 - Nível de [Sweeping Cannon] {img green_up_arrow 16 16}1{nl}  - Nível de [Bazooka] {img green_up_arrow 16 16}1
-ITEM_20171128_016307	É uma opinião muito comum de que as engrenagens, incluindo as da Mage Tower, não são dispositivos que usam magia, mas sim que atraem um certo poder e coletam ele na torre. Masinios entendeu mal este ponto e se aprofundou na maquinaria, então as armas que ele inventou poderiam ter sido muito melhores, mas não são. Isso também se faz verdadeiro para o Canhão.
+ITEM_20171128_016307	É uma opinião muito comum de que as engrenagens, incluindo as da Mage Tower, não são dispositivos que usam magia, mas sim que atraem um certo poder e coletam ele na torre. Masinios entendeu mal este ponto e se aprofundou no maquinismo, então as armas que ele inventou poderiam ter sido muito melhores, mas não são. Isso também se faz verdadeiro para o Canhão.
 ITEM_20171128_016308	(Faded) Replica Migantis Musket
 ITEM_20171128_016309	(Faded) Replica Pevordimas Musket
 ITEM_20171128_016310	(Faded) Migantis Musket
@@ -19757,7 +19757,7 @@ ITEM_20181017_019742	Wastrel Zvaigzde Pistol
 ITEM_20181017_019743	 - Nível de [Full Metal Jacket] {img green_up_arrow 16 16}2{nl}  - Nível de [Retreat Shot] {img green_up_arrow 16 16}2
 ITEM_20181017_019744	Devido a fenda criada pelo Medzio Diena, o espaço onde fica o Wastrel começou a atrair itens comuns encontrados no presente. Isso significa que o Wastrel não está cercado só de armas como esta Pistola, mas também de uma diversidade de itens, como sapatos gastos e cadeiras quebradas.
 ITEM_20181017_019745	Asio Pistol
-ITEM_20181017_019746	{nl} {nl}[Alvo Travado]{nl} - Ataques de Pistola garantem 20% de chance de aplicar o efeito [Alvo Travado].{nl} {nl} - [Alvo Travado] causa 5.000-7.000 de dano em 10 inimigos ao redor quando alcança 3 acúmulos.{nl} {nl} - O dano aumenta em 30% para cada inimigo afetado por [Target Set] (aumento máx. 700%).
+ITEM_20181017_019746	{nl} {nl}[Alvo Travado]{nl} - Ataques de Pistola garantem 20% de chance de aplicar o efeito [Alvo Travado].{nl} {nl} - [Alvo Travado] causa 5.000-7.000 de dano em 10 inimigos ao redor quando alcança 3 acúmulos.{nl} {nl} - Dano aumenta em 30% para cada inimigo afetado por [Alvo Travado] (aumento máx. 700%).
 ITEM_20181017_019747	O Asiomage possui muito orgulho desta arma. Ele começou a desenvolver as suas próprias armas de fogo após retonar para o nosso mundo.
 ITEM_20181017_019748	Wastrel Zvaigzde Rapier
 ITEM_20181017_019749	Armas como esta, com baixo poder de corte, podem terminar facilmente presas no corpo do Wastrel. Felizmente para ele, porém, elas não causam nenhuma dor nele.
