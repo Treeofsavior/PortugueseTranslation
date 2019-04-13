@@ -15937,7 +15937,7 @@ ITEM_20171128_015929	Primus Sketis Sword
 ITEM_20171128_015930	Primus Pajoritas Sword
 ITEM_20171128_015931	Primus Raffye Sword
 ITEM_20171128_015932	Masinios Sword
-ITEM_20171128_015933	Masinios is a wizard who lived in the age of Frienel. He came up with a very unique idea, and he recalled how to combine the power of magic with a machine and manufactured the equipment to which it was applied. The sushi is a product of late life reflects his life study.
+ITEM_20171128_015933	Masinios é um Wizard que viveu na era do Rei Frienel. Ele teve uma ideia muito singular, que era combinar o poder da magia com maquinismo, e este é um dos resultados desta aplicação. Esta espada é um produto que se aproxima dos últimos dias de vida dele, o que reflete este período de sua pesquisa.
 ITEM_20171128_015934	(Faded) Replica Migantis Two-handed Sword
 ITEM_20171128_015935	(Faded) Replica Pevordimas Two-handed Sword
 ITEM_20171128_015936	(Faded) Migantis Two-handed Sword
@@ -15964,8 +15964,8 @@ ITEM_20171128_015956	Primus Migatis Two-handed Sword
 ITEM_20171128_015957	Primus Pevordimas Two-handed Sword
 ITEM_20171128_015958	Primus Raffye Two-handed Sword
 ITEM_20171128_015959	Masinios Two-handed Sword
-ITEM_20171128_015960	{@st41b}{s16}{#f98d00}- 1% de chance de ao atacar, por inimigo próximo, até 10%, de ganhar uma carga. Ao ganhar 5 cargas, recebe o status [War Mode] por 10 segundos{nl} {nl}[War Mode]{nl}- Ataque Físico{img green_up_arrow 16 16}120{nl}- Taxa de Ataque em Área{img green_up_arrow 16 16}2{nl}- Defesa Física{img red_down_arrow 16 16}400{nl}- HP Máximo{img red_down_arrow 16 16} 2000
-ITEM_20171128_015961	Because magic is easy to solve most things, there is no need for a mechanical device that transfers the physical force of magic. However, Masinios was engaged in the idea that the machine delivered power rather than physical power. However, this two-hand sword is called work when his research is still weak. But thanks to it, the magical effect is rather stronger.
+ITEM_20171128_015960	 - 1% de chance por inimigo ao redor, ao atacar eles e no máximo 10%, de receber o efeito [Espírito de Batalha]. Ao acumular o efeito 5 vezes, ativa o efeito [Modo de Batalha] por 10 segundos{nl} {nl}[Modo de Batalha]{nl} - Ataque Físico {img green_up_arrow 16 16}120{nl} - Taxa de Ataque em Área {img green_up_arrow 16 16}2{nl} - Defesa Física {img red_down_arrow 16 16} 400{nl} - HP Máximo {img red_down_arrow 16 16}2.000
+ITEM_20171128_015961	Como magia pode resolver vários problemas com facilidade, não havia necessidade de um mecanismo que transferisse forças físicas, feito engrenagens. Porém, Masinios estava preocupado com a ideia de transferir força mágica utilizando maquinismo. Foi assim que esta Espada de 2 Mãos foi criada logo no início das suas pesquisas. Só que, devido a este fato, o efeito mágico desta arma é um tanto quanto forte.
 ITEM_20171128_015962	(Faded) Replica Migantis Rod
 ITEM_20171128_015963	(Faded)  Replica Pevordimas Rod
 ITEM_20171128_015964	(Faded) Migantis Rod
@@ -16099,7 +16099,7 @@ ITEM_20171128_016091	Primus Migatis Two-handed Mace
 ITEM_20171128_016092	rimus Pevordimas Two-handed Mace
 ITEM_20171128_016093	Primus Raffye Two-handed Mace
 ITEM_20171128_016094	Masinios Two-handed Mace
-ITEM_20171128_016095	This is the result of improving the mace made by Masinios himself. The mace and two-handed mace are distinctly different in performance from each other. I do not know if I can change the way this performance comes out.
+ITEM_20171128_016095	Este é o resultado da tentativa de aprimoramento da Maça feita pelo próprio Masinios. Devido ao fato da Maça de 2 Mãos ter uma performance completamente diferente da de 1 Mão, pode-se perceber que essa não era a intenção dele. Em vez disso, pode-se dizer que ele achava que estava tudo bem que esse desempenho fosse resultado de sua tentativa.
 ITEM_20171128_016096	(Faded) Replica Migantis Shield
 ITEM_20171128_016097	(Faded)  Replica Pevordimas Shield
 ITEM_20171128_016098	Practice Shield
@@ -16129,7 +16129,7 @@ ITEM_20171128_016121	Primus Migatis Shield
 ITEM_20171128_016122	Primus Pevordimas Shield
 ITEM_20171128_016123	Primus Raffye Shield
 ITEM_20171128_016124	Masinios Shield
-ITEM_20171128_016125	It is a shield made at the request of an anonymous noble at the time of Marc Nios. Since then, the recipe has not been made known, but according to the will of Marcinius, it has been released to the world after death. This post-release process has been commonly applied to products that he has made upon the request of several nobles to fund his research.
+ITEM_20171128_016125	Um Escudo feito baseado no pedido de um nobre anônimo, nos tempos do Masinios. Desde então, a receita era mantida em segredo mas, de acordo com a vontade do próprio Masinios, ela foi revelada para o mundo após a sua morte. Este processo foi comumente aplicado nos produtos que ele fez e que foram baseados em pedidos de diferentes nobres, os quais bancaram as suas pesquisas.
 ITEM_20171128_016126	(Faded) Replica Migantis Spear
 ITEM_20171128_016127	(Faded) Replica Pevordimas Spear
 ITEM_20171128_016128	Practice Short Spear
@@ -16158,8 +16158,8 @@ ITEM_20171128_016150	Primus Migatis Spear
 ITEM_20171128_016151	Primus Pevordimas Spear
 ITEM_20171128_016152	Primus Raffye Spear
 ITEM_20171128_016153	Masinios Spear
-ITEM_20171128_016154	{@st41b}{s16}{#f98d00} - Adiciona uma chance de 5% de causar dano adicional igual ao seu Dano Elemental Elétrico x10
-ITEM_20171128_016155	Masinios could not get enough of his machine in the future, so he changed his name to Masinios. Because of his renamed name was never known to be buried in the darkness of history forever. However, Masinios Spear is made by the recipe he invented before his rebirth, so he has the potential to track him in reverse through the horsepower left in the recipe. However, since Masinios is not such a popular past person, no one tries that far.
+ITEM_20171128_016154	 - 5% de chance, ao atacar, de causar dano adicional equivalente ao seu Dano Elemental: Raio * 10
+ITEM_20171128_016155	Masinios estava tão obcecado pelo futuro do maquinismo que trocou seu nome para Masinios. Por causa disso, o seu nome verdadeiro foi enterrado e esquecido na escuridão da história, nunca mais revelado. Porém, esta Lança é feita com a receita que ele desenvolveu antes dessa troca de nome, portanto seu nome poderia ser localizado através do poder mágico deixado na receita. Como Masinios não é uma pessoa dos tempos antigos tão popular assim, ninguém pensou em realizar este processo.
 ITEM_20171128_016156	(Faded) Replica Migantis Pike
 ITEM_20171128_016157	(Faded) Replica Pevordimas Pike
 ITEM_20171128_016158	Practice Pike
@@ -16245,7 +16245,7 @@ ITEM_20171128_016237	Primus Migatis Staff
 ITEM_20171128_016238	Primus Pevordimas Staff
 ITEM_20171128_016239	Primus Raffye Staff
 ITEM_20171128_016240	Masinios Staff
-ITEM_20171128_016241	In the tower of the wizard, it was discovered that the devices installed by Agailla Flurry were involved in the collection and accumulation of some power, not the operation of magic, and the magic amplification of Masinios' Performance is high. 
+ITEM_20171128_016241	Quando Masinios entendeu que os dispositivos instalados por Agailla Flurry na Mage Tower não operavam com poder mágico, mas sim pela coleção e acumulação de um certo poder, ele aplicou os mesmos princípios no Cajado, o que garantiu uma grande amplificação mágica, considerando os materiais e esforço que foram necessários.
 ITEM_20171128_016242	(Faded) Replica Migantis Pistol
 ITEM_20171128_016243	(Faded) Replica Pevordimas Pistol
 ITEM_20171128_016244	Practice Pistol
