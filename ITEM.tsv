@@ -15992,8 +15992,8 @@ ITEM_20171128_015984	Primus Migatis Rod
 ITEM_20171128_015985	Primus Pevordimas Rod
 ITEM_20171128_015986	Primus Raffye Rod
 ITEM_20171128_015987	Masinios Rod
-ITEM_20171128_015988	{@st41b}{s16}{#f98d00}- 10% de chance de ganhar {img green_up_arrow 16 16}5 SPR ao usar skills.{nl}Acumula 10 vezes
-ITEM_20171128_015989	It was made in a very wizard-like style for equipment designed and built by Masinios.
+ITEM_20171128_015988	 - 10% de chance, por habilidade de ataque, de receber o efeito de [Concentração Mental].{nl} {nl}[Concentração Mental]{nl} - SPR {img green_up_arrow 16 16}5{nl} - Acumula até 10 vezes
+ITEM_20171128_015989	Para um equipamento feito pelo Masinios, possui uma aparência bem no estilo Wizard.
 ITEM_20171128_015990	(Faded) Replica Migantis Bow
 ITEM_20171128_015991	(Faded) Replica Pevordimas Bow
 ITEM_20171128_015992	(Faded) Migantis Bow
@@ -16020,8 +16020,8 @@ ITEM_20171128_016012	Primus Migatis Bow
 ITEM_20171128_016013	Primus Pevordimas Bow
 ITEM_20171128_016014	Primus Raffye Bow
 ITEM_20171128_016015	Masinios Bow
-ITEM_20171128_016016	{@st41b}{s16}{#f98d00}- Chance de 10% de reduzir a Resistência a crítico ao atacar em {img red_down_arrow 16 16}10 por 5 segundos{nl}Acumula 20 vezes
-ITEM_20171128_016017	Rumor has it all, but when this bow was released to the world, Lucid Winter Spoon told me that it would have been nice if Masinios had actually experienced the battle of a different career and widened the scope of the accident. Of course, she can not confirm it because she rarely answers questions about old people who lived in the same era as her past. 
+ITEM_20171128_016016	 - 10% de chance, ao atacar, de reduzir a Resistência à Crítico em 10 por 5 segundos{nl} - Acumula até 20 vezes
+ITEM_20171128_016017	Os rumores são grandes, mas quando este Arco foi revelado ao mundo, Lucid Winterspoon disse que teria sido melhor se o Masinios tivesse, de fato, experimentado combater como uma classe diferente e expandido o seu pensamento. Claro, isso não pode ser confirmado, afinal ela raramente responde perguntas sobre as pessoas que viveram na mesma era que seu passado.
 ITEM_20171128_016018	(Faded) Replica Migantis Crossbow
 ITEM_20171128_016019	(Faded) Replica Pevordimas Crossbow
 ITEM_20171128_016020	(Faded) Migantis Crossbow
@@ -16048,8 +16048,8 @@ ITEM_20171128_016040	Primus Migantis Crossbow
 ITEM_20171128_016041	Primus Pevordimas Crossbow
 ITEM_20171128_016042	Primus Raffye Crossbow
 ITEM_20171128_016043	Masinios Crossbow
-ITEM_20171128_016044	{@st41b}{s16}{#f98d00} - Aumenta o nível das skills de Quarrel Shooter em {img green_up_arrow 16 16}2{nl} - Aumenta o nível da skill Running Shot em {img green_up_arrow 16 16}1
-ITEM_20171128_016045	Rumor has it that many of the later wizards laughed at the fact that Masinios was not able to produce a great production at Crossbow where he could demonstrate the goodness of the machine. Another rumor is that Lucid Winter Spoon admonished such mages that they were entitled to say such a thing if they worked on magic even after half of Masinios and joined the two master seats.
+ITEM_20171128_016044	 - Nível das Habilidades de Quarrel Shooter {img green_up_arrow 16 16}2{nl}  - Nível de [Running Shot] {img green_up_arrow 16 16}1
+ITEM_20171128_016045	Há um rumor de que vários Wizards que vieram após Masinios riram do fato dele não ser capaz de criar um método de produção incrível para a Besta, onde ele pudesse demonstrar a vantagem do maquinismo. Outro rumor é que Lucid Winterspoon reprimiu tais Wizards, fazendo com que fossem capazes de opinar somente se trabalhassem a teoria da magia ao menos na metade do nível que Masinios fez, além de manterem no mínimo duas posições de Mestre.
 ITEM_20171128_016046	(Faded) Replica Migantis Mace
 ITEM_20171128_016047	(Faded) Replica Pevordimas Mace
 ITEM_20171128_016048	(Faded) Migantis Mace
@@ -16076,8 +16076,8 @@ ITEM_20171128_016068	Primus Migatis Mace
 ITEM_20171128_016069	Primus Pevordimas Mace
 ITEM_20171128_016070	Primus Raffye Mace
 ITEM_20171128_016071	Masinios Mace
-ITEM_20171128_016072	{@st41b}{s16}{#f98d00}- 30% de chance de causar 2000 de dano da propriedade Elétrico{img attri_Lightning 20 20}
-ITEM_20171128_016073	It is the weapon that uses the physical pipe rather than the jewelery which the majors of the great contemporaries mainly use the expansion of the power. It is a choice of Masinios, and corresponds to his early mid-1970s production.
+ITEM_20171128_016072	 - 30% de chance de causar 2.000 de dano do elemento Raio
+ITEM_20171128_016073	Uma arma que usa um cano físico para ampliar o poder mágico, no lugar de jóias que eram usadas pela maioria dos grandes Wizards daquela era. Essa foi uma decisão muito do estilo do Masinios, além de um produto dos seus primeiros dias de criação.
 ITEM_20171128_016074	(Faded) Migantis Two-handed Mace
 ITEM_20171128_016075	(Faded) Pevordimas Two-handed Mace
 ITEM_20171128_016076	Raffye Two-handed Mace
@@ -16187,8 +16187,8 @@ ITEM_20171128_016179	Primus Migatis Pike
 ITEM_20171128_016180	Primus Pevordimas Pike
 ITEM_20171128_016181	Primus Raffye Pike
 ITEM_20171128_016182	Masinios Pike
-ITEM_20171128_016183	{@st41b}{s16}{#f98d00} - 10% de chance ao atacar de reduzir sua Stamina em 1.5 para aplicar o status [Colisão]. [Colisão] mudará para [Contração de Colisão] quando acumulado 10 vezes em 10 segundos. {nl} {nl} *[Contração de Colisão]{nl} - Aplica o debuff de Lentidão por 10 segundos {nl} - Defesa Física {img red_down_arrow 16 16}800
-ITEM_20171128_016184	This Pike is said to have made it to the needs of a certain nobleman when he was no longer paid by the Mages' Association. Wizards of the time would not have been able to understand Masinios, who was studying machinery that could not be called magic.
+ITEM_20171128_016183	 - 10% de chance, ao atacar, de reduzir a Stamina em 1.5 e aplicar o efeito [Colisão]. [Colisão] mudará para [Choque de Colisão] se for acumulado 10 vezes dentro de 10 segundos. {nl} {nl} [Choque de Colisão]{nl} - Aplica o efeito de [Slow] por 10 segundos{nl} - Defesa Física {img red_down_arrow 16 16}800
+ITEM_20171128_016184	É dito que esta Pique foi feita seguindo as necessidades de um certo nobre, quando Masinios não era mais pago pela Sociedade Mágica. Wizards daquele tempo não eram capazes de entender Masinios, que pesquisava maquinismo e poderia mal ser associado à pesquisa mágica.
 ITEM_20171128_016185	(Faded) Replica Migantis Dagger
 ITEM_20171128_016186	(Faded)  Replica Pevordimas Dagger
 ITEM_20171128_016187	Practice Knife
@@ -16217,8 +16217,8 @@ ITEM_20171128_016209	Primus Migatis Dagger
 ITEM_20171128_016210	Primus Pevordimas Dagger
 ITEM_20171128_016211	Primus Raffye Dagger
 ITEM_20171128_016212	Masinios Dagger
-ITEM_20171128_016213	{@st41b}{s16}{#f98d00} - Aumenta o dano do Backstab em 150%
-ITEM_20171128_016214	According to rumors, it is said to be a method of production devised at the request of famous Shinobi. Of course, it would have been the greatest reason for funding the research in Masinios.
+ITEM_20171128_016213	 - Aumenta o dano de [Backstab] em 150%
+ITEM_20171128_016214	De acordo com os rumores, dizem que a receita foi desenvolvida a pedido de um famoso Shinobi da época. Claro que, a partir da circunstância do Masinios, o maior motivo foi a obtenção de financiamento para a sua pesquisa.
 ITEM_20171128_016215	(Faded) Replica Migantis Staff
 ITEM_20171128_016216	(Faded) Replica Pevordimas Staff
 ITEM_20171128_016217	(Faded) Migantis Staff
@@ -16268,8 +16268,8 @@ ITEM_20171128_016260	Primus Migatis Pistol
 ITEM_20171128_016261	Primus Pevordimas Pistol
 ITEM_20171128_016262	Primus Raffye Pistol
 ITEM_20171128_016263	Masinios Pistol
-ITEM_20171128_016264	{@st41b}{s16}{#f98d00} - Aumenta o nível das skills Full Metal Jacket, Limacon e Pistol Shot em {img green_up_arrow 16 16}1
-ITEM_20171128_016265	The general assessment of this weapon is that I did not know about the gunpowder because I know the magic and magic, but also the machine.
+ITEM_20171128_016264	 - Nível de [Full Metal Jacket] {img green_up_arrow 16 16}1{nl}  - Nível de [Limacon] {img green_up_arrow 16 16}1{nl}  - Nível de [Pistol Shot] {img green_up_arrow 16 16}1
+ITEM_20171128_016265	A opinião sobre esta arma é que, enquanto Masinios entendeu magia e maquinismo, ele não entendeu a pólvora, por isso que as Pistolas foram feitas desta forma.
 ITEM_20171128_016266	(Faded) Replica Migantis Rapier
 ITEM_20171128_016267	(Faded) Replica Pevordimas Rapier
 ITEM_20171128_016268	(Faded) Migantis Rapier
@@ -16290,8 +16290,8 @@ ITEM_20171128_016282	Primus Migatis Rapier
 ITEM_20171128_016283	Primus Pevordimas Rapier
 ITEM_20171128_016284	Primus Raffye Rapier
 ITEM_20171128_016285	Masinios Rapier
-ITEM_20171128_016286	 - 15% de chance de, ao atacar, obter o status [Afiação] por 5 segundos. Quando [Afiação] acumular 5 vezes, seu próximo ataque básico golpeará 5 vezes.{nl} {nl}[Afiação]{nl} - Ataque Crítico {img green_up_arrow 16 16} 60
-ITEM_20171128_016287	According to one theory, the reason that Masinios became a wizard and devoted himself to the machine is contradictory, but it is due to Agailla Flurry, the ultimate wizard of all time. It is argued that she was attracted to the machine installed in the tower of the wizard she created. This rapier is said to be the work of the time when Masinios still considered magic and added machines.
+ITEM_20171128_016286	 - 15% de chance, ao atacar, de receber o efeito [Afiação] por 5 segundos. Quando [Afiação] acumular 5 vezes, o seu próximo ataque básico causará 5 golpes.{nl} {nl}[Afiação]{nl} - Ataque Crítico {img green_up_arrow 16 16}60
+ITEM_20171128_016287	Há razões conflitantes do por quê Masinios, sendo um Wizard, decidiu se dedicar ao maquinismo, mas uma teoria é de que isso é devido a penúltima Wizard, Agailla Flurry. Dizem que ele foi atraído pelo maquinismo devido a própria criação da Mage Tower por Flurry. É dito que este Florete foi feito durante um período em que Masinios favorecia a magia e considerava o maquinismo somente um hobby.
 ITEM_20171128_016288	(Faded) Replica Migantis Cannon
 ITEM_20171128_016289	(Faded)  Replica Pevordimas Cannon
 ITEM_20171128_016290	Equipment given to new Cannoneers.
@@ -16310,8 +16310,8 @@ ITEM_20171128_016302	Primus Migatis Cannon
 ITEM_20171128_016303	Primus Pevordimas Cannon
 ITEM_20171128_016304	Primus Raffye Cannon
 ITEM_20171128_016305	Masinios Cannon
-ITEM_20171128_016306	{@st41b}{s16}{#f98d00} - Aumenta o nível das skills Swiping Cannon e Bazooka em {img green_up_arrow 16 16}1
-ITEM_20171128_016307	It is common to say that the gears, including the serrations that are installed on the tower of the wizard, are not devices that use magic, but rather a device that draws some power and puts it in the tower. Masinios misunderstood this point and handled the machine, so the weapons he invented could have been much better, but they did not. This is also true of Canon.
+ITEM_20171128_016306	 - Nível de [Sweeping Cannon] {img green_up_arrow 16 16}1{nl}  - Nível de [Bazooka] {img green_up_arrow 16 16}1
+ITEM_20171128_016307	É uma opinião muito comum de que as engrenagens, incluindo as da Mage Tower, não são dispositivos que usam magia, mas sim que atraem um certo poder e coletam ele na torre. Masinios entendeu mal este ponto e se aprofundou na maquinaria, então as armas que ele inventou poderiam ter sido muito melhores, mas não são. Isso também se faz verdadeiro para o Canhão.
 ITEM_20171128_016308	(Faded) Replica Migantis Musket
 ITEM_20171128_016309	(Faded) Replica Pevordimas Musket
 ITEM_20171128_016310	(Faded) Migantis Musket
@@ -16329,8 +16329,8 @@ ITEM_20171128_016321	Primus Migatis Musket
 ITEM_20171128_016322	Primus Pevordimas Musket
 ITEM_20171128_016323	Primus Raffye Musket
 ITEM_20171128_016324	Masinios Musket
-ITEM_20171128_016325	{@st41b}{s16}{#f98d00}- 10% de chance de, ao acertar um golpe crítico, reduzir o Bloqueio do inimigo em {img red_down_arrow 16 16}400
-ITEM_20171128_016326	The Masinios muskets were made from a method designed in the latter half of Masino's life. He is regarded as a relatively successful work among his attempts to achieve success by combining magic and machine.
+ITEM_20171128_016325	 - 10% de chance, ao realizar um Ataque Crítico, de reduzir o Bloqueio do inimigo em 400
+ITEM_20171128_016326	O Mosquete era algo completamente novo, projetado na segunda metade da vida do Masinios. É considerado um sucesso entre suas tentativas de combinar magia e maquinismo.
 ITEM_20171128_016327	(faded)Replica Kalinis Robe
 ITEM_20171128_016328	(faded)Replica Albinosas Leather Armor
 ITEM_20171128_016329	(faded)Replica Tajtanas Plate Armor
@@ -16797,7 +16797,7 @@ ITEM_20171128_016789	- Staff attacks (C Key) increase damage equal to 200% of yo
 ITEM_20171128_016790	[E-Run] Markmen (30 Days)
 ITEM_20171128_016791	 - Attacks will reduce an enemy's critical resistance by {img red_down_arrow 16 16} 8 for 20 seconds (Max Stacks: 20)
 ITEM_20171128_016792	[E-Run] Didel Grand Cross (30 Days)
-ITEM_20171128_016793	 - All Quarrel Shooter skill levels {img green_up_arrow 16 16} 2
+ITEM_20171128_016793	 - Nível das Habilidades de Quarrel Shooter {img green_up_arrow 16 16} 2
 ITEM_20171128_016794	The Quarrel Shooter Master himself had received this bow recently.
 ITEM_20171128_016795	[E-Run] Pensara Mace (30 Days)
 ITEM_20171128_016796	[E-Run] Pensara Spear (30 Days)
@@ -17574,8 +17574,8 @@ ITEM_20180316_017559	[GM] Special Transformation Scroll
 ITEM_20180320_017560	You need the head to fully transform into a lucky golden puppy! Right-click to use and change your appearance.	복실복실 황금개 헬멧 코스튬입니다. 우클릭으로 착용하면 외형이 변경됩니다. 염색약의 색상이 적용되지 않습니다.	ITEM_20180202_017345	You need the head to fully transform into a lucky golden puppy! Right-click to use and change your appearance.	복실복실 황금개 헬멧 코스튬입니다. 우클릭으로 착용하면 외형이 변경됩니다.	
 ITEM_20180320_017561	Why stick to looking golden when you can BE gold? 24K, baby. Right-click to use and change your appearance.	24K 금괴 멍멍 헬멧 코스튬입니다. 우클릭으로 착용하면 외형이 변경됩니다. 염색약의 색상이 적용되지 않습니다.	ITEM_20180202_017347	Why stick to looking golden when you can BE gold? 24K, baby. Right-click to use and change your appearance.	24K 금괴 멍멍 헬멧 코스튬입니다. 우클릭으로 착용하면 외형이 변경됩니다.	
 ITEM_20180320_017562	A weapon that uses a physical pipe to magnify magical power instead of jewels which were used by the majority of the great mages of that era. This was a very Masinios-like decision and the product of his early mid days.	지닌 힘의 확대를 위해 동시대의 많은 마법사들이 주로 사용한 보석류가 아니라 물리적인 관을 사용한 무기입니다. 마시니오스다운 선택이며, 그의 초중반기 제작품에 해당합니다.				
-ITEM_20180320_017563	 - Increase Backstab damage by 150%{nl}  - Impale Dagger skill level {img green_up_arrow 16 16}1	 - 백스탭 공격력 150% 추가{nl}  - 임페일 대거 스킬 레벨 {img green_up_arrow 16 16}1 증가				
-ITEM_20180320_017564	 - Full Metal Jacket skill level {img green_up_arrow 16 16}1{nl}  - Limacon skill level {img green_up_arrow 16 16}1{nl}  - Quick and Dead skill level {img green_up_arrow 16 16}1	 - 풀 메탈 자켓 스킬 레벨 {img green_up_arrow 16 16} 1{nl}  - 리마콘 스킬 레벨 {img green_up_arrow 16 16} 1{nl}  - 퀵 앤드 데드 스킬 레벨 {img green_up_arrow 16 16} 1				
+ITEM_20180320_017563	 - Aumenta o dano de [Backstab] em 150%{nl}  - Nível de [Impale Dagger] {img green_up_arrow 16 16}1
+ITEM_20180320_017564	 - Nível de [Full Metal Jacket] {img green_up_arrow 16 16}1{nl}  - Nível de [Limacon] {img green_up_arrow 16 16}1{nl}  - Nível de [Quick and Dead] {img green_up_arrow 16 16}1
 ITEM_20180320_017565	Achiva Bracelet
 ITEM_20180320_017566	A common leather bracelet adorned with a flower trinket.
 ITEM_20180320_017567	Mirti Bracelet
@@ -19764,7 +19764,7 @@ ITEM_20181017_019749	Armas como esta, com baixo poder de corte, podem terminar f
 ITEM_20181017_019750	Asio Rapier
 ITEM_20181017_019751	 - Nível de [Epee Garde] {img green_up_arrow 16 16}2
 ITEM_20181017_019752	Apesar da Pervading Queen ter sido a projetista original desta arma, o Asiomage é quem está atualmente desenvolvendo ela. A Pervading Queen perdeu o interesse, há muito tempo, na produção de equipamentos.
-ITEM_20181017_019753	  - Sweeping Cannon skill level {img green_up_arrow 16 16}1{nl}  - Cannon Barrage skill level 	 - 스위핑 캐논 스킬 레벨 {img green_up_arrow 16 16}1{nl}  - 캐논 배라지 스킬 레벨{img green_up_arrow 16 16}1				
+ITEM_20181017_019753	  - Nível de [Sweeping Cannon] {img green_up_arrow 16 16}1{nl}  - Nível de [Cannon Barrage] {img green_up_arrow 16 16}1
 ITEM_20181017_019754	Wastrel Zvaigzde Cannon
 ITEM_20181017_019755	 - Ataques sob efeito de [Bazooka] garantem 10% de chance de aplicar o mesmo dano do ataque anterior.
 ITEM_20181017_019756	Vendo como várias armas foram absorvidas para dentro do corpo do Wastrel, alguém poderia pensar que ao menos algumas delas seriam incorporadas dentro dele.
@@ -20081,7 +20081,7 @@ ITEM_20190104_020066	A hood worn by the followers of Giltine to conceal their id
 ITEM_20190104_020067	Giltine Follower Hood (M)	길티네 추종자의 두건(남)				
 ITEM_20190104_020068	Giltine's Hood	길티네의 두건				
 ITEM_20190104_020069	A hood worn by the followers of Giltine when recruiting others to their cause.{nl}The cute aspect of the hood is said to reduce hostility from potential recruits.{nl}Can be exchanged for medals at the Loja de Trocas.{nl}Hair dyes do not apply.	길티네의 추종자들이 새로운 추종자를 모집하기 위한 포교 활동을 할 때 착용하는 헬멧 코스튬입니다.{nl}귀여운 모습으로 위화감을 최소화하기 위해서라고 합니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.{nl}염색약의 색상이 적용되지 않습니다.				
-ITEM_20190104_020070	 - All Quarrel Shooter skill levels {img green_up_arrow 16 16}2{nl}  - Additional non-property attack of 3,000 damage	 - 쿼렐슈터 모든 스킬 레벨 {img green_up_arrow 16 16} 2{nl}  - 대미지 3,000의 무속성 추가 공격				
+ITEM_20190104_020070	 - Nível das Habilidades de Quarrel Shooter {img green_up_arrow 16 16}2{nl}  - Ataque adicional neutro de 3.000 de dano
 ITEM_20190104_020071	Training Kris Dagger	연습용 크리스 대거				
 ITEM_20190104_020072	Stiletto	스틸레토				
 ITEM_20190104_020073	Blue Stiletto	블루 스틸레토				
