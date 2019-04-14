@@ -20120,37 +20120,37 @@ ITEM_20190104_020105	Crystaras Musket	크리스타라스 머스킷
 ITEM_20190104_020106	This item was designed as a remodeled version of a training musket. Rather than performance, however, the focus of the design was on ornamentation. The intention was to mimic the appearance of Lolopanther, although it doesn't possess the same splendor.	연습용 머스킷을 개조하여 제작한 아이템으로 성능의 차이보다는 외형 장식에 치중했습니다. 롤로팬서 외형을 따라하고자 했으나 그 화려함을 그대로 담아내지는 못한 것 같습니다.				
 ITEM_20190104_020107	Berthas Crystaras Musket	베르타스 크리스타라스 머스킷				
 ITEM_20190104_020108	Primus Crystaras Musket	프리머스 크리스타라스 머스킷				
-ITEM_20190104_020109	Ignas Robe	이그나스 로브				
-ITEM_20190104_020110	 - Triggers the Ignas - Immunity buff when equipped{nl} {nl}Ignas - Immunity{nl} - Grants a (2.5 * Ignas - Immunity stacks)% chance of resisting debuffs of Lv 2 and below.	 - 장착시 이그나스 - 면역 버프 활성화{nl} {nl}이그나스 - 면역{nl} - 2레벨 이하 디버프에 걸릴 때 (2.5 * 이그나스 - 면역 중첩수)% 확률로 저항합니다.				
-ITEM_20190104_020111	It is hard to tell what methods Ignas used to craft this item from the essence of Ziburynas. If he was able to harness the full power of the essence, he certainly would have created much stronger equipment.	이그나스가 무슨 수로 마왕 지부리니스의 정수를 사용해 이 장비를 제조했는지 모릅니다. 정수의 힘을 제대로 끌어낼 수 있었다면 더 대단한 장비가 되었을 것입니다.				
-ITEM_20190104_020112	Ignas Leather Armor	이그나스 레더 아머				
-ITEM_20190104_020113	 - Activates the Jab buff when equipped{nl} {nl}Jab{nl} - Triggers Ignas - Jab when you attack in stealth mode.{nl} {nl} Ignas - Jab{nl} - Increases physical and magic critical attack by (300 * Jab stacks). (10 sec duration)	 - 장착시 일격 버프 활성화{nl} {nl}일격{nl} - 은신 후 공격시 이그나스 - 일격이 발동합니다.{nl} {nl} 이그나스 - 일격{nl} - 물리, 마법 치명타 공격력이 (300 * 일격 버프 중첩수)만큼 증가합니다.(10초 유지)				
-ITEM_20190104_020114	No one knows exactly why Ignas produced different pieces of equipment from such varied materials. Some believe he intended to target enemies other than the Resistance.	이그나스가 어째서 다양한 소재의 장비를 만들었는지 알 수 없습니다. 그래서 이그나스가 저항군만을 적으로 상정하고 있지 않았다는 추측이 가능합니다.				
-ITEM_20190104_020115	Ignas Plate Armor	이그나스 플레이트 아머				
-ITEM_20190104_020116	 - Activates the Wrath buff when equipped{nl} {nl}Wrath{nl} - Grants a (5 * Wrath stacks)% chance of triggering Ignas - Wrath whenever you are attacked. {nl} {nl}Ignas - Wrath{nl} - Maximum attack + 250 (max. 3 stacks, 10 sec duration)	 - 장착시 격노 버프 활성화{nl} {nl}격노{nl} - 피격시 (5 * 격노 버프 중첩수)% 확률로 이그나스 - 격노가 발동합니다. {nl} {nl}이그나스 - 격노{nl} - 최대 공격력 + 250 증가(최대 3회 중첩 10초 유지)				
-ITEM_20190104_020117	Given how the Astral Tower is located in the middle of a lake, the likelihood of a surprise attack is significantly low. One wonders, then, what Ignas' intentions were behind the making of this plate armor.	별의 탑에서 수비만 한다면 호수 가운데 요새이기에 공성병기가 사용될 수 없고, 돌격을 당할 일도 없습니다. 그런데 플레이트 장비를 제작한 이그나스의 의도는 무척 수상합니다.				
-ITEM_20190104_020118	Ignas Pants	이그나스 팬츠				
-ITEM_20190104_020119	 - Triggers the Ignas - Immunity buff when equipped{nl} {nl}Ignas - Immunity{nl} - Grants a (2.5 * Ignas - Immunity stacks)% chance of resisting debuffs of Lv 2 and below.	 - 장착시 이그나스 - 면역 버프 활성화{nl} {nl}이그나스 - 면역{nl} - 2레벨 이하 디버프에 걸릴 때 (2.5 * 이그나스 -면역 중첩수)% 확률로 저항합니다.				
-ITEM_20190104_020120	One could assume that Ignas only possessed a limited amount of the Essence of Ziburynas, seeing as how he used fairly little of it on his line of equipment.  	어쩌면 이그나스에게 지브리니스의 정수는 사용하고 싶은 곳은 많지만, 매우 한정된 자원이어서 장비에는 적게 사용했는지도 모릅니다.  				
-ITEM_20190104_020121	Ignas Leather Pants	이그나스 레더 팬츠				
-ITEM_20190104_020122	Were it not for production constraints, a full Schaffenstar army equipped with Ignas' items would become the strongest in the Kingdom. One could even argue that would be enough to defeat any other armed forces in the nation 4-to-1.	대량생산 할 방법이 있다는 전제하에 이그나스의 장비를 착용한 샤펜스타의 전력은 왕국 최강입니다. 지형을 막론하고 왕국 최정예 군단과도 4대1의 교환비를 강요할 수 있다고 추정됩니다.				
-ITEM_20190104_020123	Ignas Plate Pants	이그나스 플레이트 팬츠				
-ITEM_20190104_020124	When he created these pants, Ignas mentioned that they were designed as testing equipment for Schwarzer Reiters and other mercenaries from the Astral Tower.	제조 당시 이그나스는 슈바르츠라이터 등의 외부에서 활약하는 별의 탑 출신 용병에게 선물하기 위한 시험적 장비라고 말했다고 합니다.				
-ITEM_20190104_020125	Ignas Boots	이그나스 부츠				
-ITEM_20190104_020126	 - Activates the Tactics buff when equipped{nl} {nl}Tactics{nl} - Triggers Ignas - Tactics with every critical attack.{nl} {nl}Ignas - Tactics{nl} - Increases magical critical attack by (125 * Tactics stacks){nl}(Max. 2 stacks, 10 sec duration)	 - 장착시 전술 버프 활성화{nl} {nl}전술{nl} - 치명타 공격시 이그나스 - 전술이 발동합니다.{nl} {nl}이그나스 - 전술{nl} - 마법 치명타 공격력 (125 * 전술 중첩수)만큼 증가{nl}(최대 2회 중첩 10초 유지)				
-ITEM_20190104_020127	The Astral Tower includes flooring of many types, including wire mesh floors. These boots were created to protect the wearer's feet from all kinds of floor materials.	별의 탑은 곳곳에 철망 바닥을 비롯한 다양한 소재의 바닥이 존재합니다. 따라서 이 신발의 밑창은 여러 소재의 바닥에 대비하여 낙상과 낙사 방지를 고려해 만들어졌습니다.				
-ITEM_20190104_020128	Ignas Leather Boots	이그나스 레더 부츠				
-ITEM_20190104_020129	 - Activates the Scrutiny buff when equipped{nl} {nl}Scrutiny{nl} - Triggers Ignas - Scrutiny with every successful evasion.{nl} {nl}Ignas - Scrutiny{nl} - Increases critical rate by (70 * Scrutiny stacks). (10 sec duration)	 - 장착시 주시 버프 활성화{nl} {nl}주시{nl} - 회피시 이그나스 - 주시가 발동합니다.{nl} {nl}이그나스 - 주 시{nl} - 치명타 발생 (70 * 주시 버프 중첩수)만큼 증가합니다.(10초 유지)				
-ITEM_20190104_020130	Some pieces are said to contain the inscription, "Schaffenstar under the stars, the world under Schaffenstar." 	샤펜스타는 별 아래, 세계는 샤펜스타의 아래라는 문장이 새겨진 장비가 가끔 있다고 합니다. 				
-ITEM_20190104_020131	Ignas Greaves	이그나스 그리브				
-ITEM_20190104_020132	 - Activates the Fortitude buff when equipped{nl} {nl}Fortitude{nl} - (5 * Fortitude stacks)% chance to trigger Ignas - Fortitude on successful block.{nl} {nl}Ignas - Fortitude{nl} - Physical and magic defense +300{nl}(Maximum of 5 stacks for 10 sec duration)	 - 장착시 인내 버프 활성화{nl} {nl}인내{nl} - 블록시 (5 * 인내 중첩수)% 확률로 이그나스 - 인내가 발동합니다.{nl} {nl}이그나스 - 인내{nl} - 물리/마법 방어력  300 증가{nl}(최대 5회 중첩 10초 유지)				
-ITEM_20190104_020133	According to Elder Ramunas' experiments, extracting the Essence of Ziburynas from Ignas' equipment is not as easy as it may seem. He believes, however, that a magic Class Master may be able to achieve just that one day.	라무나스 장로가 실험한 바에 따르면 이그나스가 제조한 장비를 분해하여 마왕의 정수를 되찾는 일은 어렵다고 합니다. 다만 마법 마스터 중에는 가능한 사람이 있을지도 모릅니다.				
-ITEM_20190104_020134	Ignas Gloves	이그나스 글로브				
-ITEM_20190104_020135	Looking at how each piece of Ignas' equipment is adorned with Schaffenstar symbols, one can assume that these would be the items used by its members, had he remained as head of the organization. 	장비마다 달린 샤펜스타 장식을 생각할 때, 만약 이그나스의 통치가 지속되었다면 그를 지지하는 샤펜스타 단원에게 이 장비가 지급되었을지도 모릅니다. 				
-ITEM_20190104_020136	Ignas Leather Gloves	이그나스 레더 글로브				
-ITEM_20190104_020137	According to reports from his early career, Ignas predicted that any act of treason within the Schaffenstar would be met with three obstacles: Lydia Schaffen's provisions, the Three-Layered Castle Wall, and Class Master neutrality. These gloves, however, provide a clue as to which Master he foresaw as an ally. 	라민 대장군이 초급 장교 시절에 작성한 보고서에 따르면 샤펜스타가 반역을 일으킨다면, 장애물은 셋입니다. 리디아 샤펜의 유지, 삼중성벽, 마스터들의 중립확보 입니다. 그런데 이 장갑에 어떤 마스터와의 동맹에 대해 추측 가능한 단서가 있습니다. 				
-ITEM_20190104_020138	Ignas Plate Gauntlets	이그나스 플레이트 건틀릿				
-ITEM_20190104_020139	The claws in these gauntlets are useful not just in combat situations, but also in the daily life of Schaffenstar members, especially when it comes to cleaning the external walls of the Astral Tower.	달려있는 손톱은 별의 탑에서 생활하는 샤펜스타 단원에게 편리합니다. 전투뿐 아니라 별의 탑 일상 생활에서도 그렇습니다. 특히 별의 탑 외벽을 청소할 때 도움이 됩니다.				
+ITEM_20190104_020109	Ignas Robe
+ITEM_20190104_020110	 - Ativa [Ignas - Imunidade] ao equipar{nl} {nl}[Ignas - Imunidade]{nl} - (2.5 * Acúmulos de [Ignas - Imunidade])% de chance de resistir efeitos negativos de Nível 2 ou menores.
+ITEM_20190104_020111	É difícil dizer quais métodos o Ignas usou para confeccionar este item através da Essência de Ziburynas. Se ele foi capaz de obter o poder completo da Essência, ele certamente teria criado um equipamento muito mais forte.
+ITEM_20190104_020112	Ignas Leather Armor
+ITEM_20190104_020113	 - Ativa [Investida] ao equipar{nl} {nl}[Investida]{nl} - Ativa [Ignas - Investida] ao atacar escondido.{nl} {nl}[Ignas - Investida]{nl} - Ataque Crítico Físico e Mágico +(300 * Acúmulo de [Investida]).{nl} - (10s de duração).
+ITEM_20190104_020114	Ninguém sabe exatamente o por quê do Ignas produzir diferentes peças de equipamento de materiais tão variados. Alguns acreditam que ele tinha a intenção de avançar contra outros inimigos além da Resistência.
+ITEM_20190104_020115	Ignas Plate Armor
+ITEM_20190104_020116	 - Ativa [Ira] ao equipar{nl} {nl}[Ira]{nl} - (5 * Acúmulos)% de chance de ativar [Ignas - Ira] ao ser atacado.{nl} {nl}[Ignas - Ira]{nl} - Ataque Máximo + 250 (máx. 3 acúmulos, 10s de duração).{nl} - Incapaz de Evadir ou Bloquear.
+ITEM_20190104_020117	Considerando que a Astral Tower fica localizada no meio de um lago, as chances de um ataque surpresa são significativamente baixas. Isto leva a imaginar, então, quais as intenções do Ignas por trás da confecção desta armadura de metal.
+ITEM_20190104_020118	Ignas Pants
+ITEM_20190104_020119	 - Ativa [Ignas - Imunidade] ao equipar{nl} {nl}[Ignas - Imunidade]{nl} - (2.5 * Acúmulos de [Ignas - Imunidade])% de chance de resistir efeitos negativos de Nível 2 ou menores.
+ITEM_20190104_020120	Pode-se assumir que Ignas só possuía uma quantidade limitade da Essência de Ziburynas, analisando a pouca quantidade que ele usou na sua linha de equipamentos.
+ITEM_20190104_020121	Ignas Leather Pants
+ITEM_20190104_020122	Se não fosse por restrições na produção, um exército da Schaffenstar equipado com os itens do Ignas se tornaria o mais forte do Reino. Pode-se até argumentar que seria suficiente para derrotar qualquer outra das forças armadas da nação de 4 para 1.
+ITEM_20190104_020123	Ignas Plate Pants
+ITEM_20190104_020124	Quando Ignas desenvolveu estas calças, ele mencionou que foram projetadas como equipamento de teste para os Scharzer Reiters e outros mercenários da Astral Tower.
+ITEM_20190104_020125	Ignas Boots
+ITEM_20190104_020126	 - Ativa [Táticas] ao equipar{nl} {nl}[Táticas]{nl} - Ativa [Ignas - Táticas] a cada Ataque Crítico.{nl} {nl}[Ignas - Táticas]{nl} - Ataque Crítico Mágico +(125 * Acúmulos de [Táticas]){nl}(Máx. 2 acúmulos, 10s de duração)
+ITEM_20190104_020127	A Astral Tower possui diferentes tipos de pavimentação, incluindo pisos de malha de arame. Estas Botas foram criadas para proteger os pés do usuário de qualquer material de piso.
+ITEM_20190104_020128	Ignas Leather Boots
+ITEM_20190104_020129	 - Ativa [Escrutínio] ao equipar{nl} {nl}[Escrutínio]{nl} - Ativa [Ignas - Escrutínio] ao Evadir.{nl} {nl}[Ignas - Escrutínio]{nl} - Taxa de Crítico +(70 * Acúmulos de [Escrutínio]).{nl} - (10s de duração).
+ITEM_20190104_020130	Dizem que algumas peças contém a inscrição "As Estrelas sob Schaffenstar, Schaffenstar sob o Mundo."
+ITEM_20190104_020131	Ignas Greaves
+ITEM_20190104_020132	 - Ativa [Fortitude] ao equipar{nl} {nl}[Fortitude]{nl} - (5 * acúmulos)% de chance de ativar [Ignas - Fortitude] ao Bloquear.{nl} {nl}[Ignas - Fortitude]{nl} - Defesa Física e Mágica +300{nl}(Máx. 5 acúmulos, 10s de duração)
+ITEM_20190104_020133	De acordo com os experimentos do Sênior Ramunas, extrair a Essência de Ziburynas do equipamento de Ignas não é tão fácil quando parece. Ele acredita, porém, que um Mestre de Classe mágico pode ser capaz de alcançar isso algum dia.
+ITEM_20190104_020134	Ignas Gloves
+ITEM_20190104_020135	Vendo como cada peça do equipamento de Ignas é adornado com símbolos da Schaffenstar, pode-se assumir que estes seriam os itens utilizados por seus membros, caso ele permanecesse como líder da organização.
+ITEM_20190104_020136	Ignas Leather Gloves
+ITEM_20190104_020137	Conforme relatos do início da carreira, Ignas previu que qualquer ato de traição dentro da Schaffenstar enfrentaria três obstáculos: as provisões de Lydia Schaffen, a Muralha de Três Camadas do Castelo, alem da neutralidade dos Mestres de Classe. Estas luvas, porém, possuem a pista de qual Mestre ele previu como um aliado.
+ITEM_20190104_020138	Ignas Plate Gauntlets
+ITEM_20190104_020139	As garras nestas Luvas são úteis não somente para situações de combate, mas também nas rotinas dos membros da Schaffenstar, especialmente na limpeza das paredes externas da Astral Tower.
 ITEM_20190104_020140	 - Increases magic critical attack by a value equal to {img green_up_arrow 16 16}40% of your HP recovery rate at the time of equipping this item{nl} - Reduces HP recovery rate to 0	 - 착용 시점의 HP 회복력의 {img green_up_arrow 16 16}40%만큼 마법 치명타 공격력이 증가{nl}  - 기본 HP 회복력이 0으로 감소	ITEM_20170420_014531	 - Increases Magic Amplification as much as {img green_up_arrow 16 16}40% as the HP recovery rate at the time of equipping this item{nl} - Reduces HP recovery rate to 0	 - 착용 시점의 HP 회복력의 {img green_up_arrow 16 16}40%만큼 마법 증폭이 증가{nl}  - 기본 HP 회복력이 0으로 감소	
 ITEM_20190104_020141	Drakonas Lynnki Sit Necklace	드라코나스 리느키 시트 네클리스				
 ITEM_20190104_020142	A different magic object was used to alter the nature of these jewels, and the resulting magic power was then spread throughout the rest of the ornaments.	새로운 마법 물품으로 거듭나면서 보석의 성질이 변화했으며 주변 보석 장식을 분할하여 마법의 권능을 나눠 담는 방식을 채책하였습니다.				

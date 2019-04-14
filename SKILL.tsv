@@ -13784,27 +13784,27 @@ SKILL_20190104_013784	Porapore - Roast	포라포레 - 가열
 SKILL_20190104_013785	At 20 stacks, increases additional Holy and Dark property damage by 8% of your magic defense for 10 seconds (maximum 3,000 increase per property).	20 중첩 시 10초간 마법 방어력의 8%만큼 신성, 어둠 속성 추가 대미지 증가 (각 속성별 최대 3,000 증가)				
 SKILL_20190104_013786	Hit and Hit	히트 앤 히트				
 SKILL_20190104_013787	Grants additional hits.	추가 공격을 합니다.				
-SKILL_20190104_013788	Jab	일격				
-SKILL_20190104_013789	Triggers Ignas - Jab for 10 seconds when you attack in stealth mode.	은신 후 공격시 10초 동안 이그나스 - 일격이 발동합니다.				
-SKILL_20190104_013790	Ignas - Jab	이그나스 - 일격				
-SKILL_20190104_013791	Increases physical and magic critical attack by (300 * Jab stacks). 	물리, 마법 치명타 공격력이 (300 * 일격 중첩수) 만큼 증가합니다. 				
-SKILL_20190104_013792	Scrutiny	주시				
-SKILL_20190104_013793	Triggers Ignas - Scrutiny for 10 seconds with every successful evasion.	회피시 10초 동안 이그나스 - 주시가 발동합니다.				
-SKILL_20190104_013794	Ignas - Scrutiny	이그나스 - 주시				
-SKILL_20190104_013795	Increases Taxa de Crítico by (70 * Scrutiny stacks).	치명타 발생이 (70 * 주시 중첩수) 만큼 증가합니다.				
-SKILL_20190104_013796	Grants a (5 * Wrath stacks)% chance of triggering Ignas - Wrath for 10 seconds whenever you are attacked.	피격시 10초 동안 (5 * 격노 중첩수)% 확률로 이그나스 - 격노가 발동합니다.				
-SKILL_20190104_013797	Ignas - Wrath	이그나스 - 격노				
-SKILL_20190104_013798	Maximum attack + 250 (maximum 3 stacks), unable to evade or block while under the buff.	최대 공격력 + 250 증가 (최대 3회 중첩) 버프에 걸린 본인은 회피, 블록이 불가능해집니다.				
-SKILL_20190104_013799	Fortitude	인내				
-SKILL_20190104_013800	Grants a (5 * Fortitude stacks)% chance of triggering Ignas - Fortitude for 10 seconds with every successful block.	블록시 (5 * 인내 중첩수)% 확률로 10초동안 이그나스 - 인내가 발동합니다.				
-SKILL_20190104_013801	Ignas - Fortitude	이그나스 - 인내				
-SKILL_20190104_013802	Physical/magic defense +300 (maximum 5 stacks).	물리/마법 방어력 300증가(최대 5회 중첩)				
-SKILL_20190104_013803	Ignas - Immunity	이그나스 - 면역				
-SKILL_20190104_013804	Grants a (2.5 * Ignas - Immunity stacks)% chance of resisting debuffs of Lv 2 and below.	디버프 걸릴 때 (2.5% * 이그나스 - 면역 중첩수)% 확률로 2레벨 이하 디버프 무시				
-SKILL_20190104_013805	Tactics	전술				
-SKILL_20190104_013806	Triggers Ignas - Tactics with every critical attack.	치명타 공격시 이그나스 - 전술이 발동합니다.				
-SKILL_20190104_013807	Ignas - Tactics	이그나스 - 전술				
-SKILL_20190104_013808	Magic Critical Attack +250 (maximum 2 stacks).	마법 치명타 공격력 250 증가 (최대 2회 중첩)				
+SKILL_20190104_013788	Investida
+SKILL_20190104_013789	Ativa [Ignas - Investida] por 10s ao atacar escondido.
+SKILL_20190104_013790	Ignas - Investida
+SKILL_20190104_013791	Ataque Crítico Físico e Mágico +(300 * Acúmulos de [Investida]).
+SKILL_20190104_013792	Escrutínio
+SKILL_20190104_013793	Ativa [Ignas - Escrutínio] por 10s ao Evadir.
+SKILL_20190104_013794	Ignas - Escrutínio
+SKILL_20190104_013795	Taxa de Crítico +(70 * Acúmulos de [Escrutínio]).
+SKILL_20190104_013796	(5 * Acúmulos)% de chance de ativar [Ignas - Ira] por 10s ao ser atacado.	
+SKILL_20190104_013797	Ignas - Ira
+SKILL_20190104_013798	Ataque Máximo + 250 (Máx. 3 acúmulos), incapaz de evadir ou bloquear enquanto estiver sob este efeito.
+SKILL_20190104_013799	Fortitude
+SKILL_20190104_013800	(5 * Fortitude stacks)% de chance de ativar [Ignas - Fortitude] por 10 segundos ao Bloquear.
+SKILL_20190104_013801	Ignas - Fortitude
+SKILL_20190104_013802	Defesa Física e Mágica +300 (máx. 5 acúmulos).
+SKILL_20190104_013803	Ignas - Imunidade
+SKILL_20190104_013804	(2.5 * Acúmulos de [Ignas - Imunity])% de chance de resistir efeitos negativos de Nível 2 ou menor.
+SKILL_20190104_013805	Táticas
+SKILL_20190104_013806	Ativa [Ignas - Táticas] a cada Ataque Crítico.
+SKILL_20190104_013807	Ignas - Táticas
+SKILL_20190104_013808	Ataque Crítico Mágico +250 (máx. 2 acúmulos).
 SKILL_20190104_013809	Dragon Strength	드래곤 기운				
 SKILL_20190104_013810	The energy of the dragon amplifies or supplements certain stats and equipment.	드래곤의 기운은 특정 능력,장비를 증폭하거나 보완합니다.				
 SKILL_20190104_013811	Change Property Attack	속성 공격 변경				
@@ -13818,8 +13818,8 @@ SKILL_20190104_013818	Drakonas Lynnki Set: Weaken	드라코나스 리느키 시�
 SKILL_20190104_013819	Defense -10%	방어력 10% 감소				
 SKILL_20190104_013820	Magic Damage Increase	마법 대미지 증가				
 SKILL_20190104_013821	Ignas - Legend Card	이그나스 - 레전드 카드				
-SKILL_20190104_013822	Ignas - Stealth	이그나스 - 은신				
-SKILL_20190104_013823	Momentarily conceals your body from the enemy.	적의 눈을 피해 잠시 몸을 숨깁니다.				
+SKILL_20190104_013822	Ignas - Stealth
+SKILL_20190104_013823	Esconde-se momentaneamente do inimigo.
 SKILL_20190104_013824	Boruta - Legend Card	보루타 - 레전드 카드				
 SKILL_20190104_013825	Looting Chance +2000	루팅 찬스 +2000	SKILL_20180320_010566	Looting Chance Event	루팅 찬스 이벤트	
 SKILL_20190104_013826	Looting Chance +200	루팅 찬스 + 200	SKILL_20180629_011970	Movement speed +1, looting chance +200	이동 속도 +1, 루팅 찬스 + 200	
