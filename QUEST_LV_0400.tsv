@@ -1007,7 +1007,7 @@ QUEST_LV_0400_20161005_001002	Tell him he is on his own	알아서 찾아가라�
 QUEST_LV_0400_20161005_001003	Future plans	앞으로의 계획				
 QUEST_LV_0400_20161005_001004	Ask about future plans	앞으로의 계획을 묻는다				
 QUEST_LV_0400_20161005_001005	Weeding(3)	제초 작업(3)				
-QUEST_LV_0400_20161005_001006	Wait and see	지켜본다				
+QUEST_LV_0400_20161005_001006	Aguarde um pouco
 QUEST_LV_0400_20161005_001007	Marks of a legend(11)	전설의 흔적(11)				
 QUEST_LV_0400_20161005_001008	Missing Child	사라진 아이				
 QUEST_LV_0400_20161005_001009	So, where should I search?	찾아봐 줄 테니 짐작가는 곳이 있느냐고 묻는다				
@@ -2336,7 +2336,7 @@ QUEST_LV_0400_20171128_002347	Have fun listening.	혼자 들으라고 한다
 QUEST_LV_0400_20171128_002348	I Can Hear You Singing (11)	너의 노래소리가 들려(11)				
 QUEST_LV_0400_20171128_002349	Try it yourself.	직접 해본다				
 QUEST_LV_0400_20171128_002350	A Dog Wandering Tekel Shelter	테켈 피난지를 배회하는 개				
-QUEST_LV_0400_20171128_002351	Follow.	따라간다				
+QUEST_LV_0400_20171128_002351	Prosseguir.
 QUEST_LV_0400_20171128_002352	Don't Follow.	따라가지 않는다				
 QUEST_LV_0400_20171128_002353	Into a Dogfight	난전 속으로				
 QUEST_LV_0400_20171128_002354	It's too difficult. I refuse.	너무 위험한 일이라 거절한다				
@@ -4662,3 +4662,91 @@ QUEST_LV_0400_20190104_004685	Kupole Kaze is waiting for you in Vedas Plateau.	�
 QUEST_LV_0400_20190104_004686	Check up on Boruta	보루타의 동태 확인				
 QUEST_LV_0400_20190104_004687	Kupole Kaze has asked for you to check up on Boruta in Sulivinas Lair.	큐폴 카제는 슬리비나스 레어에 진입하여 보루타의 동태를 확인하고 돌아와 달라고 부탁했습니다				
 QUEST_LV_0400_20190104_004688	You have checked up on  Boruta. Return to Kupole Kaze.	보루타의 동태를 확인했습니다. 큐폴 카제에게 돌아가세요				
+QUEST_LV_0400_20190412_004689	Estou procurando por alguém especial.{nl}Alguém que ajudou no sul e derrotou demônios.
+QUEST_LV_0400_20190412_004690	{nl}As únicas pessoas que encontraram as Deusas,{nl}que todos acreditamos terem desaparecido.
+QUEST_LV_0400_20190412_004691	{nl}Pessoas que vieram ao nosso mundo com os sonhos da Deusa.
+QUEST_LV_0400_20190412_004692	{nl}Pessoas que seguem o seu caminho para o norte,{nl}procurando pela última Revelação da Deusa.
+QUEST_LV_0400_20190412_004693	{nl}Parece que é você, não é mesmo?{nl}Eu me chamo Pajauta.{nl}Vim ouvir a sua história e ajudar na sua missão.
+QUEST_LV_0400_20190412_004694	{nl}Se você quer cruzar o Reino e chegar até a Capital, eu posso ajudar.{nl}Imagino que você não seja muito familiarizado com a região do norte.{nl}O que me diz, gostaria de se juntar a mim?
+QUEST_LV_0400_20190412_004695	Você é mais tranquilo do que eu esperava, sabia?{nl}Um pouco ingênuo demais, talvez...?
+QUEST_LV_0400_20190412_004696	Certo.{nl}Vamos nos encontrar em Barynwell 87 Waters, então.{nl}Espero você lá.{nl}
+QUEST_LV_0400_20190412_004697	Você demorou um pouco, mas ao menos veio até aqui.{nl}De qualquer forma, nosso trabalho aqui é bem simples.{nl}Deixe-me explicar.
+QUEST_LV_0400_20190412_004698	{nl}Acho que vai ser melhor decidir alguns locais pra bases,{nl}facilitando a nossa ida para a região mais ao norte.{nl}Eu selecionei alguns lugares que acho que devemos marcar.
+QUEST_LV_0400_20190412_004699	{nl}Vou continuar ajudando você nessa jornada.
+QUEST_LV_0400_20190412_004700	Escondi alguns itens de reparo antes de ir procurar por você...{nl}Mas parece que os monstros desenterraram todos eles.
+QUEST_LV_0400_20190412_004701	{nl}Fora isso, precisamos de um item para marcar os locais para base,{nl}mas sou em quem deve fazer esse processo de demarcação...{nl}Enquanto vou preparando esse item,{nl}acho que você poderia recuperar os itens de reparo.
+QUEST_LV_0400_20190412_004702	Leve o tempo que precisar.{nl}Mas não dê uma de preguiçoso, certo?
+QUEST_LV_0400_20190412_004703	Você é tão bom quanto dizem.{nl}Terminei os itens, então podemos seguir adiante.
+QUEST_LV_0400_20190412_004704	{nl}Deixe-me dizer o que tenho até agora.
+QUEST_LV_0400_20190412_004705	{nl}Esta é toda a informação que obtive nesta região até agora.{nl}Só falar comigo de novo quando estiver pronto para ouvir.
+QUEST_LV_0400_20190412_004706	A última vez que estive na Astral Tower foi antes do Medzio Diena,{nl}então não tenho certeza como está tudo agora.{nl}Só observei as reservas ao redor da torre.
+QUEST_LV_0400_20190412_004707	{nl}Sobreviventes mais ao sul da Astral Tower não ligam para ela.{nl}Não há muita gente interessada nisso hoje, a não ser que seja um Archer.{nl}Imagino que você também não seja. Você é?
+QUEST_LV_0400_20190412_004708	{nl}{nl}No geral, nenhuma das regiões que visitei querem interferir nos problemas da torre.{nl}Eles só parecem que querem ajudar as forças da Resistência.{nl}Ou, imagino que eles podem estar esperando algum retorno.
+QUEST_LV_0400_20190412_004709	{nl}Pessoas boas e inocentes vivem com medo todos os dias por causa dos monstros...{nl}E mesmo assim ninguém com poderes suficientes está fazendo nada...{nl}Nem mesmo as Deusas...{nl}Nem sei se encontrar você foi uma boa decisão...
+QUEST_LV_0400_20190412_004710	Mas bem, chega desse papo...
+QUEST_LV_0400_20190412_004711	{nl}Certo, vamos colocar a marca no local para a base, então?
+QUEST_LV_0400_20190412_004712	Vamos até a entrada das áreas de reserva primeiro.{nl}Se não houver monstros lá, cruzar a área deve ser até que fácil.{nl}Mas devemos nos certificar primeiro, só para garantir.
+QUEST_LV_0400_20190412_004713	{nl}Conto com a sua ajuda aqui.
+QUEST_LV_0400_20190412_004714	Muito bem, a marca está colocada.{nl}Vamos seguir para a próxima região.
+QUEST_LV_0400_20190412_004715	Próxima parada é em Outer Wall District 9.{nl}Me encontre lá.
+QUEST_LV_0400_20190412_004716	Pode acreditar que a Capital era logo depois desta muralha?{nl}Não muito tempo atrás haviam vários mercadores e aventureiros aqui...{nl}A vida deles enchia a cidade dia e noite.
+QUEST_LV_0400_20190412_004717	{nl}Onde estão as Deusas?{nl}Será que elas realmente partiram?
+QUEST_LV_0400_20190412_004718	Mas então, isso quer dizer que,{nl}elas colocaram o destido de todo o mundo nas mãos de uma só pessoa?{nl}Eu não faria isso se fosse uma Deusa...
+QUEST_LV_0400_20190412_004719	{nl}Quando você se sentiu perdido, chegou a pedir ajuda para as Deusas?{nl}Quando as encontrou, o que elas disseram?
+QUEST_LV_0400_20190412_004720	Me desculpe se estou meio agitada...{nl}Vamos focar no nosso objetivo.
+QUEST_LV_0400_20190412_004721	Outer Wall Districts 9 e 11 são interconectados.{nl}As pessoas lá agem como se estivessem hipnotizadas por algo.{nl}Tentei espantar algumas delas, mas elas só fugiam e mais nada.{nl}Se você vai seguir até lá, você precisa se preparar.
+QUEST_LV_0400_20190412_004722	{nl}Bem, vamos prosseguir.{nl}Primeiro, vamos instalar a marca neste local.
+QUEST_LV_0400_20190412_004723	Precisaremos de um pouco de Sujeira Magnética para esta marca.{nl}Eu enterrei um pouco nesta área,{nl}então não devemos ter muita dificuldade.
+QUEST_LV_0400_20190412_004724	Um de nós precisa procurar essas sujeiras magnéticas,{nl}então quero que você faça isso enquanto eu te dou cobertura.{nl}Assim que encontrar alguma Sujeira Magnética, é só cavar.
+QUEST_LV_0400_20190412_004725	Deve ser o suficiente para fazer a marca durar alguns dias.{nl}Vou colocar ela e seguir para o próximo local.{nl}Me encontre em Pystis Forest.
+QUEST_LV_0400_20190412_004726	Vamos lá.{nl}Este é o último local que precisamos marcar,{nl}depois daqui estará quase tudo pronto.
+QUEST_LV_0400_20190412_004727	{nl}Há um tempo atrás, quando eu investigava os Hereges,{nl}descobri que os demônios estiveram neste local.{nl}Pedi aos moradores locais para me ajudar na investigação, mas...
+QUEST_LV_0400_20190412_004728	{nl}Tudo o que eles faziam era brigar pelas terras...{nl}Acho que os demônios devem estar planejando algo na sua base.
+QUEST_LV_0400_20190412_004729	{nl}Devemos investigar por nós mesmos.
+QUEST_LV_0400_20190412_004730	Há rastros suficientes ao redor para ver que algo está errado.{nl}Por que ninguém percebe nem fala nada?{nl}Algo está, definitivamente, acontecendo em Pystis Forest.
+QUEST_LV_0400_20190412_004731	Tenho quase certeza que os demônios estão planejando algo.{nl}Vamos colocar a marca primeiro, veremos o resto depois.{nl}Demarcar o local de base é mais importante no momento.{nl}Me avise quando estiver preparado.
+QUEST_LV_0400_20190412_004732	Ótimo!{nl}Vamos colocar a última marca.
+QUEST_LV_0400_20190412_004733	Se este lugar estivesse limpo, poderíamos fazer isso mais facilmente.{nl}Mas, com esses monstros, preciso esconder a marca muito bem...{nl}Vou precisar de mais tempo que o normal.
+QUEST_LV_0400_20190412_004734	{nl}Não se preocupe.{nl}Eu volto para ajudar você com os monstros assim que arrumar tudo.
+QUEST_LV_0400_20190412_004735	Eu sei que, se eu fosse uma Deusa,{nl}apareceria nesse instante para nos ajudar...
+QUEST_LV_0400_20190412_004736	A marca está escondida, vamos voltar.
+QUEST_LV_0400_20190412_004737	Ainda há muito o que preparar antes de voltar para Fedimian.{nl}Espero que você não esqueça as nossas marcas,{nl}nem todas as coisas que conversamos nesse período.
+QUEST_LV_0400_20190412_004738	Ainda há muito o que fazer, eu sei...{nl}Mas eu estarei aqui, pronta para ajudar.
+QUEST_LV_0400_20190412_004739	{nl}Fale comigo novamente antes de se dirigir ao norte.
+QUEST_LV_0400_20190412_004740	Posto das Águas (1)
+QUEST_LV_0400_20190412_004741	Posto das Águas (2)
+QUEST_LV_0400_20190412_004742	Me fale mais.
+QUEST_LV_0400_20190412_004743	Me fale mais tarde.
+QUEST_LV_0400_20190412_004744	Posto das Águas (3)
+QUEST_LV_0400_20190412_004745	Posto de Outer Wall (1)
+QUEST_LV_0400_20190412_004746	Posto de Outer Wall (2)
+QUEST_LV_0400_20190412_004747	Posto de Outer Wall (3)
+QUEST_LV_0400_20190412_004748	Estou pronto.
+QUEST_LV_0400_20190412_004749	Posto de Parias Forest (1)
+QUEST_LV_0400_20190412_004750	Posto de Parias Forest (2)
+QUEST_LV_0400_20190412_004751	Posto de Parias Forest (3)
+QUEST_LV_0400_20190412_004752	Primeiro Passo
+QUEST_LV_0400_20190412_004753	Fale com Pajauta
+QUEST_LV_0400_20190412_004754	Rumores dizem que uma viajante desconhecida está procurando por você em Fedimian. Vá até lá e procure por Pajauta.
+QUEST_LV_0400_20190412_004755	Pajauta está esperando você em Barynwell 87 Waters.
+QUEST_LV_0400_20190412_004756	Posto das Águas
+QUEST_LV_0400_20190412_004757	Recupere os Itens de Reparo Roubados dos monstros ao redor
+QUEST_LV_0400_20190412_004758	Enquanto Pajauta prepara os itens para a marca, ela quer que você recupera os itens de reparo roubados pelos monstros. Derrote os monstros de Barynwell 87 Waters e encontre os itens roubados.
+QUEST_LV_0400_20190412_004759	Entregue os itens roubados para Pajauta.
+QUEST_LV_0400_20190412_004760	Obtenha %s dos monstros
+QUEST_LV_0400_20190412_004761	Fale com Pajauta em Barynwell 87 Waters.
+QUEST_LV_0400_20190412_004762	Fale com Pajauta em Barynwell 87 Waters.
+QUEST_LV_0400_20190412_004763	Vá para o local onde será colocada a marca para base
+QUEST_LV_0400_20190412_004764	Siga para o local que a Pajauta disse para você, para que coloquem a marca.
+QUEST_LV_0400_20190412_004765	Posto de Outer Wall
+QUEST_LV_0400_20190412_004766	Pajauta está esperando você em Outer Wall District 9.
+QUEST_LV_0400_20190412_004767	Fale com Pajauta.
+QUEST_LV_0400_20190412_004768	Derrote os monstros
+QUEST_LV_0400_20190412_004769	Obtenha Sujeira Magnética
+QUEST_LV_0400_20190412_004770	Pajauta pediu para coletar Sujeira Magnética para criar a marca.
+QUEST_LV_0400_20190412_004771	Posto de Parias Forest
+QUEST_LV_0400_20190412_004772	Pajauta está esperando você em Pystis Forest.
+QUEST_LV_0400_20190412_004773	Procure por Traços dos Demônios
+QUEST_LV_0400_20190412_004774	Procure pelos traços dos demônios que Pajauta mencionou mais cedo.
+QUEST_LV_0400_20190412_004775	Verifique o local que será marcado como base
+QUEST_LV_0400_20190412_004776	Acompanhe Pajauta nos locais onde vocês irão colocar as marcas.

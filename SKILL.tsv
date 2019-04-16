@@ -1724,7 +1724,7 @@ SKILL_20150317_001723	Great Bear camp	북두진
 SKILL_20150317_001724	Provocação
 SKILL_20150317_001725	During each attack, their threat level will increase.	매 공격시 자신의 위협수준이 증가합니다.				
 SKILL_20150317_001726	Hooked to enemy's provocation!	상대에 도발에 걸려들다!				
-SKILL_20150317_001727	Decreased defense.	방어력이 감소합니다.				
+SKILL_20150317_001727	Defesa reduzida.
 SKILL_20150317_001728	Receive damage after a while	잠시 후 피해를 받음				
 SKILL_20150317_001729	Continuously receive Fire damage.	지속적으로 화염 피해를 입는 상태입니다.				
 SKILL_20150317_001730	Nearby party members stats increased.	근처 파티원들의 힘스탯이 증가합니다.				
@@ -1745,7 +1745,7 @@ SKILL_20150317_001744	Recovering HP.	체력이 회복됩니다.
 SKILL_20150317_001745	Receiving Holy damage.	신성 피해를 받습니다.				
 SKILL_20150317_001746	Bless	블레스				
 SKILL_20150317_001747	Increased DEX stat.	민첩스탯이 증가합니다.				
-SKILL_20150317_001748	Decreased defense.	방어력이 감소합니다				
+SKILL_20150317_001748	Defesa reduzida.
 SKILL_20150317_001749	Sequentially heal all abnormal states.	상태이상을 순차적으로 치료합니다.				
 SKILL_20150317_001750	Continuously receive Holy damage.	지속적으로 신성 피해를 입는 상태입니다.				
 SKILL_20150317_001751	Increased HP recovery speed.	체력 회복속도가 향상됩니다.				
@@ -1817,7 +1817,7 @@ SKILL_20150317_001816	Casting speed of the next casting skill becomes faster.	�
 SKILL_20150317_001817	Shock	충격				
 SKILL_20150317_001818	Reduced INT and SPR.	지능, 정신력 감소 상태입니다.				
 SKILL_20150317_001819	Increased critical attack	치명타 공격력 증가				
-SKILL_20150317_001820	Decreased critical resistance	치명타 저항 감소				
+SKILL_20150317_001820	Resistência à Crítico Reduzida
 SKILL_20150317_001821	Divine Stigma buff	디바인 스티그마 버프				
 SKILL_20150317_001822	Increased stats.	스탯 증가 상태입니다.				
 SKILL_20150317_001823	HP is restore while activated.	지속시간 동안 소량의 HP가 회복됩니다.				
@@ -1843,7 +1843,7 @@ SKILL_20150317_001842	Reduce STR	힘감소
 SKILL_20150317_001843	Decreased STR	힘이 감소합니다				
 SKILL_20150317_001844	Holiness	신성함				
 SKILL_20150317_001845	Added Holy attack	신성 공격력 추가				
-SKILL_20150317_001846	Decreased defense	방어력 감소				
+SKILL_20150317_001846	Defesa reduzida
 SKILL_20150317_001847	Agility is temporarily increased significantly	민첩이 일시적으로 대폭 상승				
 SKILL_20150317_001848	Spirit attack: defense decrease	정신체공격 : 방어력감소				
 SKILL_20150317_001849	Flame attack increased.	화염 공격력 상승.				
@@ -4725,7 +4725,7 @@ SKILL_20150717_004724	Shoggoth additional attack #{CaptionRatio}#{nl}Shoggoth ad
 SKILL_20150717_004725	{#DD5500}{ol}[Physidal] - [Pierce]{/}{/}{nl}Sets up a trap that bounces off the enemy when it is stepped on.	{#DD5500}{ol}[물리] - [찌르기]{/}{/}{nl}적이 밟았을 때 튀어오르는 함정을 설치합니다.				
 SKILL_20150717_004726	Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the patern increase.	힘의 르와인 오구를 상징하는 문양을 지면에 설치합니다. 이 문양 주변의 좀비들과 동료는 힘 능력치가 증가합니다.	SKILL_20150414_003848	Install a Oguon pattern that represents strength noir on the ground. Strength of zombies and allies around the pattern increase.	힘의 르와인 오구를 상징하는 문양을 지면에 설치합니다. 이 문양 주변의 좀비들과 동료는 대상은 힘 능력치가 증가합니다.	
 SKILL_20150717_004727	Decreased physical defense 	물리 방어력 감소				
-SKILL_20150717_004728	Decreased defense 	물리 방어력이 감소함				
+SKILL_20150717_004728	Defesa reduzida
 SKILL_20150717_004729	Periodically receive Fire damage	주기적으로 화염 피해를 받음				
 SKILL_20150717_004730	SP Absorption	SP 흡수				
 SKILL_20150717_004731	SP Absorption Status	SP를 흡수하는 상태입니다				
@@ -5308,8 +5308,8 @@ SKILL_20151016_005307	Nullifies all magic near you.	자신 주변의 모든 마�
 SKILL_20151016_005308	 Cooldown time of the skill will be reduced in half.	스킬의 재사용 대기시간이 절반으로 적용됩니다.				
 SKILL_20151016_005309	Spear Lunge	스피어런지				
 SKILL_20151016_005310	The enemy is weak against Thrust type attacks.	찌르기 공격에 취약한 상태입니다.				
-SKILL_20151016_005311	Wide Range Attack Rate Increases	광역 공격 비율 증가				
-SKILL_20151016_005312	Wide Range Attack Rate Increases	광역 공격 비율이 증가				
+SKILL_20151016_005311	Taxa de Ataque em Área aumentada.
+SKILL_20151016_005312	Taxa de Ataque em Área aumentada.
 SKILL_20151016_005313	Orb Summon Debuff	오브 소환 디버프				
 SKILL_20151016_005314	Maestria em Adaga: Ataque Súbito
 SKILL_20151016_005315	Deals 2.5% additional damage per attribute level when attacking an enemy from behind with a dagger.	적의 후방에서 단검 기본 공격 시 특성 레벨당 2.5%의 추가 대미지를 입힙니다.	SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.	적의 후방에서 단검 공격 시 특성 레벨당 20의 추가 대미지를 입힙니다.	
@@ -6344,7 +6344,7 @@ SKILL_20160323_006343	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRati
 SKILL_20160323_006344	Increased movement speed and physical/magic attack	이동속도, 물리 공격력, 마법 공격력 증가				
 SKILL_20160323_006345	Magic Amplification	마력증폭				
 SKILL_20160323_006346	Amplified magic after a critical attack.	치명타와 공명하여 마력이 증폭된 상태입니다.				
-SKILL_20160323_006347	Decreased defense.	방어력이 감소된 상태입니다.				
+SKILL_20160323_006347	Defesa reduzida.
 SKILL_20160323_006348	Nv. Time
 SKILL_20160323_006349	 - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl}	 - 특성 스킬 2개 동시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 5개{nl} - 캐릭터 이동속도 +3{nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능{nl}	SKILL_20160317_006340	- Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - Can only trade up to 30 times{nl	- 특성 스킬 2개 동시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 5개{nl} - 캐릭터 이동속도 +3{nl} - 개인 거래 횟수 30회{nl} - 미션,던전 2회 추가입장	
 SKILL_20160323_006350	Increases the critical chance of [Double Slash] by 7% per attribute level.	스킬 [더블슬래쉬]의 치명타 확률이 특성 레벨당 7% 증가합니다.	SKILL_20150714_004290	Increases the critical chance of [Double Slash] by 5% per attribute level.	스킬 [더블슬래쉬]의 치명타 확률이 특성 레벨당 5% 증가합니다.	
@@ -6835,7 +6835,7 @@ SKILL_20161005_006834	Gains one skill level for magic circle and installment ski
 SKILL_20161005_006835	Missile Attack Defense	미사일 공격 방어				
 SKILL_20161005_006836	Physical Attack Increased	물리 공격력이 증가합니다	SKILL_20160224_006251	Increased physical defense	물리 방어력이 증가합니다	
 SKILL_20161005_006837	When receiving damage, it decreases shield gauge instead of HP.{nl}The shield gauge is displayed in terms of one's own max. HP and{nl}shield gauges exceeding max. HP will be displayed with an indicators like x2, x3 etc.{nl}Furthermore, the max. shield gauge obtainable per rank is fixed.	피해를 입으면 HP 대신 실드 게이지의 실드가 감소합니다.{nl}실드 게이지는 자신의 최대 HP량 만큼 나타내며,{nl}최대 HP보다 높은 실드량은 실드 게이지에 x2, x3....로 표시됩니다.{nl}또한 랭크별로 얻을 수 있는 최대 실드량이 한정되어 있습니다.	SKILL_20151224_005964	Shield reduced instead of HP when hit by enemies	피해를 입으면 HP 대신 실드가 감소합니다.	
-SKILL_20161005_006838	AoE attack ratio increased.	광역 공격 비율이 증가합니다.				
+SKILL_20161005_006838	Taxa de Ataque em Área aumentada.
 SKILL_20161005_006839	Power Ancient	고대의 힘				
 SKILL_20161005_006840	Attack and Magic Attack increased.	공격력과 마법 공격력이 증가하였습니다.				
 SKILL_20161005_006841	Berserker Effect	버서커 효과				
@@ -7675,7 +7675,7 @@ SKILL_20170313_007674	* [Scutum Hit] has 3% chance of stunning attacked target f
 SKILL_20170313_007675	* While equipped with Cassis Crista, Rodelero skill damage for Shield Charge, Targe Smash, Shield Push, Shield Shove and Shield Bash increases by 20% per attribute level	* 어인 투구를 착용한 상태에서 로델레로의 실드 챠지{nl}    타지스매쉬, 실드푸시, 실드셔빙, 실드배쉬 스킬의 공격력이{nl}    특성 레벨당 20% 증가	SKILL_20161005_006903	While equipped with the Cassis Crista, increases Rodelero's skill damage for Shield Charge, Targe Smash, Shield Push, Shield Shove and Shield Bash by 20% per attribute level.	어인 투구를 착용한 상태에서 로델레로의 실드 챠지, 타지스매쉬, 실드푸시, 실드셔빙, 실드배쉬 스킬의 공격력이 특성 레벨당 20% 증가합니다.	
 SKILL_20170313_007676	* While equipped with Cassis Crista, skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 15% per attribute level	* 어인 투구를 착용한 상태에서 펠타스타의 버터플라이와{nl}    로델레로의 슈팅스타 스킬의 공격력이 특성 레벨당 15% 증가	SKILL_20161005_006905	While equipped with the Cassis Crista, increases skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 15% per attribute level.	어인 투구를 착용한 상태에서 펠타스타의 버터플라이와 로델레로의 슈팅스타 스킬의 공격력이 특성 레벨당 15% 증가합니다.	
 SKILL_20170313_007677	* While equipped with Cassis Crista, skill attack damage for Hoplite's Synchro Thrusting increases by 28% per attribute level	* 어인 투구를 착용한 상태에서 하플라이트의 양손찌르기{nl}    스킬의 공격력이 특성 레벨당 28% 증가	SKILL_20161005_006907	While equipped with the Cassis Crista, increases skill attack damage for Hoplite's Synchro Thrusting increases by 28% per attribute level.	어인 투구를 착용한 상태에서 하플라이트의 양손찌르기 스킬의 공격력이 특성 레벨당 28% 증가합니다.	
-SKILL_20170313_007678	* Ataques normais possuem 1% de chance, por nível do atributo, de derrubar o inimigo
+SKILL_20170313_007678	* Ataques básicos possuem 1% de chance, por nível do atributo, de derrubar o inimigo
 SKILL_20170313_007679	* Increases damage dealt with [Crush] by 1% per attribute level	* 적에게 입히는 [크러쉬]의 대미지가 특성 레벨당 1% 증가	SKILL_20161005_006911	Increases the damage dealt on an enemy with [Crush] by 1% per attribute level.	적에게 입히는 [크러쉬]의 대미지가 특성 레벨당 1% 증가합니다.	
 SKILL_20170313_007680	* [Crush] reduces enemy's physical attack and physical defense by 10% per attribute level{nl}* Consumo de SP + 7	* 스킬 [크러쉬]에 피격된 적은 물리 공격력과 물리 방어력이{nl}    특성 레벨당 10% 추가로 감소{nl}* SP 소모 7증가	SKILL_20161005_006913	[Crush] reduces enemy's physical attack and physical defense by 10% per attribute level.	스킬 [크러쉬]에 피격된 적은 물리 공격력과 물리 방어력이 특성 레벨당 10% 추가로 감소합니다.	
 SKILL_20170313_007681	* Increases damage dealt with [Head Strike] by 1% per attribute level	* 적에게 입히는 [헤드 스트라이크]의 대미지가 특성 레벨당 1% 증가	SKILL_20161005_006915	Increases the damage dealt on an enemy with [Head Strike] by 1% per attribute level.	적에게 입히는 [헤드 스트라이크]의 대미지가 특성 레벨당 1% 증가합니다.	
@@ -9939,23 +9939,23 @@ SKILL_20171128_009938	Receiving Poison damage every 1 second.	1초마다 독 피
 SKILL_20171128_009939	Receiving Lightning damage every 1 second.	1초마다 전기 피해를 받습니다.				
 SKILL_20171128_009940	Increases natural recovery of HP	HP 자연 회복량 증가				
 SKILL_20171128_009941	Increased natural recovery of HP.	HP 자연 회복량이 증가합니다.				
-SKILL_20171128_009942	Decreases Block 	블럭 감소				
-SKILL_20171128_009943	Collision	충돌				
-SKILL_20171128_009944	The impact of the collision remains.	충돌의 충격이 남아있습니다.				
-SKILL_20171128_009945	Collision Aftershock	충돌 후유증				
-SKILL_20171128_009946	Masinios Two-handed Spear	마시니오스 양손창				
-SKILL_20171128_009947	Masinios Two-handed Spear	마시니오 양손창				
-SKILL_20171128_009948	Masinios Rapier	마시니오 레이피어				
-SKILL_20171128_009949	Sharpness	예리함				
-SKILL_20171128_009950	Increases Critical Attack by 60 with a max of 5 stacks.	치명타 공격력 60증가 최대 5 중첩				
-SKILL_20171128_009951	5 Consecutive Attacks	5연격				
-SKILL_20171128_009952	Your next basic attack will hit 5 times.	기본 공격 5회 적용				
-SKILL_20171128_009953	Mental Concentration	정신 집중				
-SKILL_20171128_009954	Increases SPR by 5.	정신이 5 상승				
-SKILL_20171128_009955	Fighting Spirit	투기				
-SKILL_20171128_009956	If you obtain 5 stacks within 5 seconds, you will receive the War Mode buff.	5초간 지속 5스택 쌓일 경우 전투광 효과 발동				
-SKILL_20171128_009957	War Mode	전투광				
-SKILL_20171128_009958	Increases Physical Attack by 120 and Taxa de Ataque em Área by 2 while reducing maximum HP by 2000 and Physical Defense by 400 for 10 seconds.	10초간 물리 공격력 120 광역 공격 비율 2 증가 자신의 방어력 400 감소, HP 2000 감소				
+SKILL_20171128_009942	Bloqueio Reduzido
+SKILL_20171128_009943	Colisão
+SKILL_20171128_009944	O impacto da colisão permanece.
+SKILL_20171128_009945	Choque de Colisão
+SKILL_20171128_009946	Masinios Two-handed Spear
+SKILL_20171128_009947	Masinios Two-handed Spear
+SKILL_20171128_009948	Masinios Rapier
+SKILL_20171128_009949	Afiação
+SKILL_20171128_009950	Aumenta o Ataque Crítico em 60, com o máximo de 5 acúmulos.
+SKILL_20171128_009951	5 Ataques Consecutivos
+SKILL_20171128_009952	O seu próximo ataque basico causará 5 danos.
+SKILL_20171128_009953	Concentração Mental
+SKILL_20171128_009954	SPR +5.
+SKILL_20171128_009955	Espírito de Batalha
+SKILL_20171128_009956	Acumular este efeito 5 vezes, dentro de 5 segundos, ativa [Modo de Batalha].
+SKILL_20171128_009957	[Modo de Batalha]
+SKILL_20171128_009958	Ataque Físico +120, Taxa de Ataque em Área +2, HP Máximo -2.000, Defesa Física -400. Duração 10 segundos.		
 SKILL_20171128_009959	Lightning Shock additional Effect	전기 속성 추가 공격				
 SKILL_20171128_009960	50% chance to deal 2000 Lightning property attacks	공격시 50% 확률로 2000의 전기 속성 추가 공격				
 SKILL_20171128_009961	-Increase + 25% Exp {nl} -Increase movement speed by 4 {nl} - Increase AoE by 1	- 경험치 + 25%증가{nl} - 이동속도 4 증가{nl} - 광역 공격 비율 1증가	SKILL_20160925_006494	The power of the Honey Dumpling is spreading.	대왕꿀 송편의 힘이 공유되고 있습니다.	
@@ -10316,7 +10316,7 @@ SKILL_20180208_010315	Counterattack Ready	반격 준비
 SKILL_20180208_010316	Cannot use Safe Distance	안전거리 확보 사용불가				
 SKILL_20180208_010317	Musketeer's Safe Distance not used.	머스킷티어 안전거리 확보가 발동하지 않습니다.				
 SKILL_20180208_010318	Muleta Buff	물레타 캐스팅 끝나고 걸리는 버프				
-SKILL_20180208_010319	30% chance to deal 2,000 of Lightning property attack	공격시 30% 확률로 2000의 전기 속성 추가 공격	SKILL_20171128_009960	50% chance to deal 2000 Lightning property attacks	공격시 50% 확률로 2000의 전기 속성 추가 공격	
+SKILL_20180208_010319	30% de chance de causar 2.000 de dano do elemento Raio
 SKILL_20180208_010320	Looting Chance Increased	루팅찬스 증가				
 SKILL_20180208_010321	Golden Dog	금강불개 보유 중				
 SKILL_20180208_010322	Added Holy attack	신성 속성 공격력이 증가합니다.				
@@ -12558,8 +12558,8 @@ SKILL_20181017_012557	Summoned demon ignores 20% of enemy's physical/magic defen
 SKILL_20181017_012558	Shoggoth Rigor Mortis	쇼고스 사후경직				
 SKILL_20181017_012559	Reduces damage inflicted on nearby summons.	주변에 있는 소환수가 받는 피해 감소				
 SKILL_20181017_012560	Reduced damage taken.	피해 감소				
-SKILL_20181017_012561	Target Set	타겟 설정				
-SKILL_20181017_012562	Keeps a watch over the targeted enemies. Inflicts damage proportional to the number of enemies under the Target Set debuff when reaching 3 stacks.	대상을 주시합니다. 3회 중첩시 주변의 타겟 설정에 걸린 적 수에 비례하여 대미지를 입힙니다.				
+SKILL_20181017_012561	Alvo Travado
+SKILL_20181017_012562	Presta atenção nos alvos inimigos. Causa dano proporcional ao número de inimigos sob efeito de [Alvo Travado] ao alcançar 3 acúmulos.
 SKILL_20181017_012563	Condemn	선고				
 SKILL_20181017_012564	Attacking applies a chance to Condemn enemies.{nl}An explosion will occur when the Condemn debuff reaches a certain number of stacks.	공격시 확률적으로 적에게 선고를 부여합니다. {nl}선고는 일정 수 중첩될 경우 폭발합니다.				
 SKILL_20181017_012565	Moon Rabbit	달 토끼				
@@ -12567,23 +12567,23 @@ SKILL_20181017_012566	Bazooka Additional Damage	바주카 추가 대미지
 SKILL_20181017_012567	Gives 10% chance to inflict the damage previously dealt in Bazooka status.	바주카 상태일 때 10% 확률로 이전 대미지를 한번 더 줍니다.				
 SKILL_20181017_012568	Lock-on	락온				
 SKILL_20181017_012569	Locking on.	현재 조준 중입니다.				
-SKILL_20181017_012570	The Eye of the Asiomage	아시오 메이지의 주시				
-SKILL_20181017_012571	Increases the number of enemies provokable.	도발 대상 수 증가				
+SKILL_20181017_012570	Olho do Asiomage
+SKILL_20181017_012571	Aumenta o número de inimigos provocados.
 SKILL_20181017_012572	Resist Status Ailments	상태 이상 저항				
 SKILL_20181017_012573	Gives a chance to ignore debuffs.	일정 확률로 디버프를 무시합니다.				
-SKILL_20181017_012574	Black & White Mask	흑백 가면				
-SKILL_20181017_012575	Additional Holy property damage: Increases in proportion to the enhancement value{nl}Additional Dark property damage: Increases in proportion to the transcendence value	신성 속성 추가대미지: 강화 수치에 비례하여 상승{nl}어둠 속성 추가대미지: 초월 수치에 비례하여 상승				
+SKILL_20181017_012574	Máscara Preta & Branca
+SKILL_20181017_012575	Dano Adicional Divino: aumenta em proporção ao valor de Refino{nl}Dano Adicional Trevas: aumenta em proporção à Transcendência
 SKILL_20181017_012576	Unseen Blade	보이지 않는 칼날				
 SKILL_20181017_012577	Increases damage dealt while in stealth mode.	은신 중 데미지가 증가합니다.				
-SKILL_20181017_012578	Sharp Blade	예리한 칼날				
-SKILL_20181017_012579	Increases critical attack. Sharp Blade buff is applied when a critical attack is successful.	치명타 공격력이 증가합니다. 치명타 발생시 예리한 칼날 버프효과를 받습니다.				
-SKILL_20181017_012580	Increases critical attack.	치명타 공격력이 증가합니다.				
-SKILL_20181017_012581	Animal Friend: Rabbit	동물 친구: 토끼				
-SKILL_20181017_012582	Has a chance to summon a rabbit when using a skill attack.	스킬 공격시 일정확률로 토끼를 소환합니다.				
-SKILL_20181017_012583	Smile Bunny	스마일 바니				
-SKILL_20181017_012584	Increases Taxa de Crítico.	치명타 발생이 증가합니다.				
-SKILL_20181017_012585	Angry Bunny	앵그리 바니				
-SKILL_20181017_012586	Has a chance to summon a Shaman Doll.	일정 확률로 주술 인형을 소환합니다.				
+SKILL_20181017_012578	Lâmina Afiada
+SKILL_20181017_012579	Aumenta o Ataque Crítico. O efeito é aplicado quando um Ataque Crítico acontece.
+SKILL_20181017_012580	Aumenta o Ataque Crítico.
+SKILL_20181017_012581	Amigo Animal: Coelho
+SKILL_20181017_012582	Chance de invocar um Coelho ao utilizar habilidades de ataque.
+SKILL_20181017_012583	Coelho Feliz
+SKILL_20181017_012584	Aumenta a Taxa de Crítico.
+SKILL_20181017_012585	Coelho Bravo
+SKILL_20181017_012586	Chance de invocar uma Boneca Xamã.
 SKILL_20181017_012587	Wastrel's Wrath	웨이스트럴의 분노				
 SKILL_20181017_012588	10% chance to increase Taxa de Crítico by 2x with every Strike attack.	때리기 공격시 10% 확률로 치명타 발생이 2배로 증가합니다.				
 SKILL_20181017_012589	Increases Taxa de Crítico by 2x.	치명타 발생이 2배로 증가합니다.				
@@ -12828,7 +12828,7 @@ SKILL_20190104_012827	Coloca o seu [Dragoon Helmet]. Enquanto estiver ativo, tod
 SKILL_20190104_012828	Dano das Habilidades de Dragoon: +#{CaptionRatio}#%{nl}Consome #{CaptionRatio2}#% do SP por segundo{nl}Duração: 300 segundos{nl}Nível máximo: 1
 SKILL_20190104_012829	Dragon Fear
 SKILL_20190104_012830	Aumenta a sua Taxa de Ataque em Área e causa [Fear] nos inimigos ao redor.
-SKILL_20190104_012831	Taxa de Ataque em Área: +3{nl}Duração: #{CaptionRatio}# segundos{nl}Duração de [Fear]: 3 segundos{nl}Alvos afetados: #{CaptionRatio2}#
+SKILL_20190104_012831	Taxa de Ataque em Área: +3{nl}Duração: #{CaptionRatio}# segundos{nl}Duração de [Fear]: 10 segundos{nl}Alvos afetados: #{CaptionRatio2}#
 SKILL_20190104_012832	Aumenta os Ataques Físico e Mágico dos membros de guilda e aliados próximos.{nl}O efeito desaparece ao afastar-se do Templar. Não funciona em conjunto com [Advanced Orders] (o que for aplicado por último irá permanecer).
 SKILL_20190104_012833	Duração: 30 segundos{nl}Ataque Físico e Mágico: +#{CaptionRatio2}#%{nl}Dano no PvP: +#{CaptionRatio}#%{nl}Requer [Horse Riding]
 SKILL_20190104_012834	Apresenta a sua arma antes de atacar o inimigo.{nl}Causa dano adicional em inimigos afetados por [Advanced Orders]. O cooldown é reduzido conforme a composição do seu grupo. Em PvP, ignora parte da defesa do inimigo.
@@ -13784,27 +13784,27 @@ SKILL_20190104_013784	Porapore - Roast	포라포레 - 가열
 SKILL_20190104_013785	At 20 stacks, increases additional Holy and Dark property damage by 8% of your magic defense for 10 seconds (maximum 3,000 increase per property).	20 중첩 시 10초간 마법 방어력의 8%만큼 신성, 어둠 속성 추가 대미지 증가 (각 속성별 최대 3,000 증가)				
 SKILL_20190104_013786	Hit and Hit	히트 앤 히트				
 SKILL_20190104_013787	Grants additional hits.	추가 공격을 합니다.				
-SKILL_20190104_013788	Jab	일격				
-SKILL_20190104_013789	Triggers Ignas - Jab for 10 seconds when you attack in stealth mode.	은신 후 공격시 10초 동안 이그나스 - 일격이 발동합니다.				
-SKILL_20190104_013790	Ignas - Jab	이그나스 - 일격				
-SKILL_20190104_013791	Increases physical and magic critical attack by (300 * Jab stacks). 	물리, 마법 치명타 공격력이 (300 * 일격 중첩수) 만큼 증가합니다. 				
-SKILL_20190104_013792	Scrutiny	주시				
-SKILL_20190104_013793	Triggers Ignas - Scrutiny for 10 seconds with every successful evasion.	회피시 10초 동안 이그나스 - 주시가 발동합니다.				
-SKILL_20190104_013794	Ignas - Scrutiny	이그나스 - 주시				
-SKILL_20190104_013795	Increases Taxa de Crítico by (70 * Scrutiny stacks).	치명타 발생이 (70 * 주시 중첩수) 만큼 증가합니다.				
-SKILL_20190104_013796	Grants a (5 * Wrath stacks)% chance of triggering Ignas - Wrath for 10 seconds whenever you are attacked.	피격시 10초 동안 (5 * 격노 중첩수)% 확률로 이그나스 - 격노가 발동합니다.				
-SKILL_20190104_013797	Ignas - Wrath	이그나스 - 격노				
-SKILL_20190104_013798	Maximum attack + 250 (maximum 3 stacks), unable to evade or block while under the buff.	최대 공격력 + 250 증가 (최대 3회 중첩) 버프에 걸린 본인은 회피, 블록이 불가능해집니다.				
-SKILL_20190104_013799	Fortitude	인내				
-SKILL_20190104_013800	Grants a (5 * Fortitude stacks)% chance of triggering Ignas - Fortitude for 10 seconds with every successful block.	블록시 (5 * 인내 중첩수)% 확률로 10초동안 이그나스 - 인내가 발동합니다.				
-SKILL_20190104_013801	Ignas - Fortitude	이그나스 - 인내				
-SKILL_20190104_013802	Physical/magic defense +300 (maximum 5 stacks).	물리/마법 방어력 300증가(최대 5회 중첩)				
-SKILL_20190104_013803	Ignas - Immunity	이그나스 - 면역				
-SKILL_20190104_013804	Grants a (2.5 * Ignas - Immunity stacks)% chance of resisting debuffs of Lv 2 and below.	디버프 걸릴 때 (2.5% * 이그나스 - 면역 중첩수)% 확률로 2레벨 이하 디버프 무시				
-SKILL_20190104_013805	Tactics	전술				
-SKILL_20190104_013806	Triggers Ignas - Tactics with every critical attack.	치명타 공격시 이그나스 - 전술이 발동합니다.				
-SKILL_20190104_013807	Ignas - Tactics	이그나스 - 전술				
-SKILL_20190104_013808	Magic Critical Attack +250 (maximum 2 stacks).	마법 치명타 공격력 250 증가 (최대 2회 중첩)				
+SKILL_20190104_013788	Investida
+SKILL_20190104_013789	Ativa [Ignas - Investida] por 10s ao atacar escondido.
+SKILL_20190104_013790	Ignas - Investida
+SKILL_20190104_013791	Ataque Crítico Físico e Mágico +(300 * Acúmulos de [Investida]).
+SKILL_20190104_013792	Escrutínio
+SKILL_20190104_013793	Ativa [Ignas - Escrutínio] por 10s ao Evadir.
+SKILL_20190104_013794	Ignas - Escrutínio
+SKILL_20190104_013795	Taxa de Crítico +(70 * Acúmulos de [Escrutínio]).
+SKILL_20190104_013796	(5 * Acúmulos)% de chance de ativar [Ignas - Ira] por 10s ao ser atacado.	
+SKILL_20190104_013797	Ignas - Ira
+SKILL_20190104_013798	Ataque Máximo + 250 (Máx. 3 acúmulos), incapaz de evadir ou bloquear enquanto estiver sob este efeito.
+SKILL_20190104_013799	Fortitude
+SKILL_20190104_013800	(5 * Fortitude stacks)% de chance de ativar [Ignas - Fortitude] por 10 segundos ao Bloquear.
+SKILL_20190104_013801	Ignas - Fortitude
+SKILL_20190104_013802	Defesa Física e Mágica +300 (máx. 5 acúmulos).
+SKILL_20190104_013803	Ignas - Imunidade
+SKILL_20190104_013804	(2.5 * Acúmulos de [Ignas - Imunity])% de chance de resistir efeitos negativos de Nível 2 ou menor.
+SKILL_20190104_013805	Táticas
+SKILL_20190104_013806	Ativa [Ignas - Táticas] a cada Ataque Crítico.
+SKILL_20190104_013807	Ignas - Táticas
+SKILL_20190104_013808	Ataque Crítico Mágico +250 (máx. 2 acúmulos).
 SKILL_20190104_013809	Dragon Strength	드래곤 기운				
 SKILL_20190104_013810	The energy of the dragon amplifies or supplements certain stats and equipment.	드래곤의 기운은 특정 능력,장비를 증폭하거나 보완합니다.				
 SKILL_20190104_013811	Change Property Attack	속성 공격 변경				
@@ -13818,8 +13818,8 @@ SKILL_20190104_013818	Drakonas Lynnki Set: Weaken	드라코나스 리느키 시�
 SKILL_20190104_013819	Defense -10%	방어력 10% 감소				
 SKILL_20190104_013820	Magic Damage Increase	마법 대미지 증가				
 SKILL_20190104_013821	Ignas - Legend Card	이그나스 - 레전드 카드				
-SKILL_20190104_013822	Ignas - Stealth	이그나스 - 은신				
-SKILL_20190104_013823	Momentarily conceals your body from the enemy.	적의 눈을 피해 잠시 몸을 숨깁니다.				
+SKILL_20190104_013822	Ignas - Stealth
+SKILL_20190104_013823	Esconde-se momentaneamente do inimigo.
 SKILL_20190104_013824	Boruta - Legend Card	보루타 - 레전드 카드				
 SKILL_20190104_013825	Looting Chance +2000	루팅 찬스 +2000	SKILL_20180320_010566	Looting Chance Event	루팅 찬스 이벤트	
 SKILL_20190104_013826	Looting Chance +200	루팅 찬스 + 200	SKILL_20180629_011970	Movement speed +1, looting chance +200	이동 속도 +1, 루팅 찬스 + 200	
@@ -15156,3 +15156,8 @@ SKILL_20190322_015156	Salvador Místico - Transformação de Copas!{nl}Você ret
 SKILL_20190322_015157	Um efeito ao utilizar símbolos de Salvador Místico - Copas.
 SKILL_20190322_015158	Um efeito ao utilizar símbolos de Salvador Místico - Diamente.
 SKILL_20190405_015159	Aplica um efeito que impede que você e seus aliados de grupo sejam empurrados ou derrubados. O contador do efeito reduz com cada ataque recebido. A Velocidade de Movimento aumenta por 5 segundos, e você recebe contadores adicionais de defesa para cada membro do grupo que for um personagem da base Swordsman.
+SKILL_20190412_015160	Ataque Físico + 7.000{nl}Ataque Mágico + 7.000{nl}Dano recebido -30%
+SKILL_20190412_015161	Evento: Graça da Deusa
+SKILL_20190412_015162	Dano recebido -20%
+SKILL_20190416_015163	Funciona somente dentro do Velcoffer's Nest.{nl}Ataque Físico +7.000{nl}Ataque Mágico +7.000{nl}Defesa Física +10.000{nl}Defesa Mágica +10.000
+SKILL_20190416_015164	Defesa Física +3.000{nl}Defesa Mágica +3.000
