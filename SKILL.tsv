@@ -5308,8 +5308,8 @@ SKILL_20151016_005307	Nullifies all magic near you.	자신 주변의 모든 마�
 SKILL_20151016_005308	 Cooldown time of the skill will be reduced in half.	스킬의 재사용 대기시간이 절반으로 적용됩니다.				
 SKILL_20151016_005309	Spear Lunge	스피어런지				
 SKILL_20151016_005310	The enemy is weak against Thrust type attacks.	찌르기 공격에 취약한 상태입니다.				
-SKILL_20151016_005311	Wide Range Attack Rate Increases	광역 공격 비율 증가				
-SKILL_20151016_005312	Wide Range Attack Rate Increases	광역 공격 비율이 증가				
+SKILL_20151016_005311	Taxa de Ataque em Área aumentada.
+SKILL_20151016_005312	Taxa de Ataque em Área aumentada.
 SKILL_20151016_005313	Orb Summon Debuff	오브 소환 디버프				
 SKILL_20151016_005314	Maestria em Adaga: Ataque Súbito
 SKILL_20151016_005315	Deals 2.5% additional damage per attribute level when attacking an enemy from behind with a dagger.	적의 후방에서 단검 기본 공격 시 특성 레벨당 2.5%의 추가 대미지를 입힙니다.	SKILL_20150717_004741	Incurs additional 20 damage per Attribute level whenever attack from an enemy's back with dagger.	적의 후방에서 단검 공격 시 특성 레벨당 20의 추가 대미지를 입힙니다.	
@@ -7675,7 +7675,7 @@ SKILL_20170313_007674	* [Scutum Hit] has 3% chance of stunning attacked target f
 SKILL_20170313_007675	* While equipped with Cassis Crista, Rodelero skill damage for Shield Charge, Targe Smash, Shield Push, Shield Shove and Shield Bash increases by 20% per attribute level	* 어인 투구를 착용한 상태에서 로델레로의 실드 챠지{nl}    타지스매쉬, 실드푸시, 실드셔빙, 실드배쉬 스킬의 공격력이{nl}    특성 레벨당 20% 증가	SKILL_20161005_006903	While equipped with the Cassis Crista, increases Rodelero's skill damage for Shield Charge, Targe Smash, Shield Push, Shield Shove and Shield Bash by 20% per attribute level.	어인 투구를 착용한 상태에서 로델레로의 실드 챠지, 타지스매쉬, 실드푸시, 실드셔빙, 실드배쉬 스킬의 공격력이 특성 레벨당 20% 증가합니다.	
 SKILL_20170313_007676	* While equipped with Cassis Crista, skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 15% per attribute level	* 어인 투구를 착용한 상태에서 펠타스타의 버터플라이와{nl}    로델레로의 슈팅스타 스킬의 공격력이 특성 레벨당 15% 증가	SKILL_20161005_006905	While equipped with the Cassis Crista, increases skill attack damage for Peltasta's Butterfly and Rodelero's Shooting Star increases by 15% per attribute level.	어인 투구를 착용한 상태에서 펠타스타의 버터플라이와 로델레로의 슈팅스타 스킬의 공격력이 특성 레벨당 15% 증가합니다.	
 SKILL_20170313_007677	* While equipped with Cassis Crista, skill attack damage for Hoplite's Synchro Thrusting increases by 28% per attribute level	* 어인 투구를 착용한 상태에서 하플라이트의 양손찌르기{nl}    스킬의 공격력이 특성 레벨당 28% 증가	SKILL_20161005_006907	While equipped with the Cassis Crista, increases skill attack damage for Hoplite's Synchro Thrusting increases by 28% per attribute level.	어인 투구를 착용한 상태에서 하플라이트의 양손찌르기 스킬의 공격력이 특성 레벨당 28% 증가합니다.	
-SKILL_20170313_007678	* Ataques normais possuem 1% de chance, por nível do atributo, de derrubar o inimigo
+SKILL_20170313_007678	* Ataques básicos possuem 1% de chance, por nível do atributo, de derrubar o inimigo
 SKILL_20170313_007679	* Increases damage dealt with [Crush] by 1% per attribute level	* 적에게 입히는 [크러쉬]의 대미지가 특성 레벨당 1% 증가	SKILL_20161005_006911	Increases the damage dealt on an enemy with [Crush] by 1% per attribute level.	적에게 입히는 [크러쉬]의 대미지가 특성 레벨당 1% 증가합니다.	
 SKILL_20170313_007680	* [Crush] reduces enemy's physical attack and physical defense by 10% per attribute level{nl}* Consumo de SP + 7	* 스킬 [크러쉬]에 피격된 적은 물리 공격력과 물리 방어력이{nl}    특성 레벨당 10% 추가로 감소{nl}* SP 소모 7증가	SKILL_20161005_006913	[Crush] reduces enemy's physical attack and physical defense by 10% per attribute level.	스킬 [크러쉬]에 피격된 적은 물리 공격력과 물리 방어력이 특성 레벨당 10% 추가로 감소합니다.	
 SKILL_20170313_007681	* Increases damage dealt with [Head Strike] by 1% per attribute level	* 적에게 입히는 [헤드 스트라이크]의 대미지가 특성 레벨당 1% 증가	SKILL_20161005_006915	Increases the damage dealt on an enemy with [Head Strike] by 1% per attribute level.	적에게 입히는 [헤드 스트라이크]의 대미지가 특성 레벨당 1% 증가합니다.	
@@ -12828,7 +12828,7 @@ SKILL_20190104_012827	Coloca o seu [Dragoon Helmet]. Enquanto estiver ativo, tod
 SKILL_20190104_012828	Dano das Habilidades de Dragoon: +#{CaptionRatio}#%{nl}Consome #{CaptionRatio2}#% do SP por segundo{nl}Duração: 300 segundos{nl}Nível máximo: 1
 SKILL_20190104_012829	Dragon Fear
 SKILL_20190104_012830	Aumenta a sua Taxa de Ataque em Área e causa [Fear] nos inimigos ao redor.
-SKILL_20190104_012831	Taxa de Ataque em Área: +3{nl}Duração: #{CaptionRatio}# segundos{nl}Duração de [Fear]: 3 segundos{nl}Alvos afetados: #{CaptionRatio2}#
+SKILL_20190104_012831	Taxa de Ataque em Área: +3{nl}Duração: #{CaptionRatio}# segundos{nl}Duração de [Fear]: 10 segundos{nl}Alvos afetados: #{CaptionRatio2}#
 SKILL_20190104_012832	Aumenta os Ataques Físico e Mágico dos membros de guilda e aliados próximos.{nl}O efeito desaparece ao afastar-se do Templar. Não funciona em conjunto com [Advanced Orders] (o que for aplicado por último irá permanecer).
 SKILL_20190104_012833	Duração: 30 segundos{nl}Ataque Físico e Mágico: +#{CaptionRatio2}#%{nl}Dano no PvP: +#{CaptionRatio}#%{nl}Requer [Horse Riding]
 SKILL_20190104_012834	Apresenta a sua arma antes de atacar o inimigo.{nl}Causa dano adicional em inimigos afetados por [Advanced Orders]. O cooldown é reduzido conforme a composição do seu grupo. Em PvP, ignora parte da defesa do inimigo.
@@ -15156,3 +15156,8 @@ SKILL_20190322_015156	Salvador Místico - Transformação de Copas!{nl}Você ret
 SKILL_20190322_015157	Um efeito ao utilizar símbolos de Salvador Místico - Copas.
 SKILL_20190322_015158	Um efeito ao utilizar símbolos de Salvador Místico - Diamente.
 SKILL_20190405_015159	Aplica um efeito que impede que você e seus aliados de grupo sejam empurrados ou derrubados. O contador do efeito reduz com cada ataque recebido. A Velocidade de Movimento aumenta por 5 segundos, e você recebe contadores adicionais de defesa para cada membro do grupo que for um personagem da base Swordsman.
+SKILL_20190412_015160	Ataque Físico + 7.000{nl}Ataque Mágico + 7.000{nl}Dano recebido -30%
+SKILL_20190412_015161	Evento: Graça da Deusa
+SKILL_20190412_015162	Dano recebido -20%
+SKILL_20190416_015163	Funciona somente dentro do Velcoffer's Nest.{nl}Ataque Físico +7.000{nl}Ataque Mágico +7.000{nl}Defesa Física +10.000{nl}Defesa Mágica +10.000
+SKILL_20190416_015164	Defesa Física +3.000{nl}Defesa Mágica +3.000
