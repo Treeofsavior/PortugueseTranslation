@@ -10740,7 +10740,7 @@ QUEST_LV_0100_20151102_010739	Oh, você tem o jeito. Estou um pouco surpreso.{nl
 QUEST_LV_0100_20151102_010740	VocÊ deseja se tornar um Cryomancer?{nl}
 QUEST_LV_0100_20151102_010741	Isso é bom de se ouvir.{nl}Mais pessoas se tornando Cryomancers são sempre bem-vindas.{nl}
 QUEST_LV_0100_20151102_010742	No entanto, aceitar todos os participantes só se mostrará prejudicial para todos nós.{nl}É o melhor se fizermos um simples teste para determinar sua aptidão {nl}em se tornar um Cryomancer.
-QUEST_LV_0100_20151102_010743	Aqui está um Unmelting Magical Piece of Ice.{nl}Isso é um peça de gelo injetado com um feitiço que mantém seu estado congelado.{nl}Derrote os monstros e use suas energias para manter a peça gelada.
+QUEST_LV_0100_20151102_010743	Aqui está um Unmelting Pedaço de Gelo Eterno Mágico.{nl}Isso é um peça de gelo injetado com um feitiço que mantém seu estado congelado.{nl}Derrote os monstros e use suas energias para manter a peça gelada.
 QUEST_LV_0100_20151102_010744	Derrote os monstros e use suas energias para manter a peça gelada.
 QUEST_LV_0100_20151102_010745	A magia é forte nessa peça de gelo.{nl}Impressionante. Você tem o que é preciso para lidar com a magia congelante.{nl}Agora, me observe com atenção.
 QUEST_LV_0100_20151102_010746	Você deseja aprender novas habilidades de um Archer?{nl}Tudo bem, mas vamos nos divertir um pouco primeiro. Vou te dar um simples teste.
@@ -13636,266 +13636,265 @@ QUEST_LV_0100_20151224_013637	Não acho que será útil
 QUEST_LV_0100_20151224_013638	Vou tentar verificar
 QUEST_LV_0100_20151224_013639	Durante Sua Ausência
 QUEST_LV_0100_20151224_013640	Desculpe, mas tenho coisas mais urgentes para fazer
-QUEST_LV_0100_20151224_013641	I want to hear it
-QUEST_LV_0100_20151224_013642	Talking about the contents of the journal
-QUEST_LV_0100_20151224_013643	I'll do it no matter what
-QUEST_LV_0100_20151224_013644	I don't want to get caught up in anything big
-QUEST_LV_0100_20151224_013645	Join Pranas in front of the Gebene Cliff in Paupys Crossing!
-QUEST_LV_0100_20151224_013646	Bishop Urbonas' Whereabouts (1)
-QUEST_LV_0100_20151224_013647	Bishop Urbonas' Whereabouts (2)
-QUEST_LV_0100_20151224_013648	I'm afraid
-QUEST_LV_0100_20151224_013649	Bishop Urbonas' Whereabouts (3)
-QUEST_LV_0100_20151224_013650	Bishop Urbonas' Whereabouts (7)
-QUEST_LV_0100_20151224_013651	Bishop Urbonas' Whereabouts (4)
-QUEST_LV_0100_20151224_013652	Is there no other way?
-QUEST_LV_0100_20151224_013653	Check the map of the Ashaq Underground Prison 1F in your inventory!
-QUEST_LV_0100_20151224_013654	Bishop Urbonas' Whereabouts (5)
-QUEST_LV_0100_20151224_013655	Explaining the nightmare
-QUEST_LV_0100_20151224_013656	Bishop Urbonas' Whereabouts (6)
-QUEST_LV_0100_20151224_013657	That's a little too much for me
-QUEST_LV_0100_20151224_013658	Using the Orb of Return
-QUEST_LV_0100_20151224_013659	The curse on Ashaq Underground Prison 1F has been lifted!
-QUEST_LV_0100_20151224_013660	Blackmail
-QUEST_LV_0100_20151224_013661	I don't think I can be of help
-QUEST_LV_0100_20151224_013662	Fight Poison With Poison
-QUEST_LV_0100_20151224_013663	I'm not sure, but I'll gather some
-QUEST_LV_0100_20151224_013664	Unidentified Package (1)
-QUEST_LV_0100_20151224_013665	I won't do anything that's not necessary
-QUEST_LV_0100_20151224_013666	Unidentified Package (2)
-QUEST_LV_0100_20151224_013667	Relaying the bishop's advice
-QUEST_LV_0100_20151224_013668	I still have other things to do
-QUEST_LV_0100_20151224_013669	That's a very dangerous idea
-QUEST_LV_0100_20151224_013670	Defeat the monsters around the Cursed Idol in the Examination Room.
-QUEST_LV_0100_20151224_013671	The Cursed Idol couldn't withstand the power and exploded!{nl}Go back and tell Priest Irma about it.
-QUEST_LV_0100_20151224_013672	Tell me about the legends
-QUEST_LV_0100_20151224_013673	Releasing
-QUEST_LV_0100_20151224_013674	Please wait a while
-QUEST_LV_0100_20151224_013675	Tell me about what the priests prepared
-QUEST_LV_0100_20151224_013676	Go to the Bird Room and absorb the crystal's power
-QUEST_LV_0100_20151224_013677	I don't think that'll be needed
-QUEST_LV_0100_20151224_013678	That looks dangerous too
-QUEST_LV_0100_20151224_013679	I don't think that'll happen
-QUEST_LV_0100_20151224_013680	I'm going to get some rest and go
-QUEST_LV_0100_20151224_013681	I can't just go
-QUEST_LV_0100_20151224_013682	Talking about the recent happenings
-QUEST_LV_0100_20151224_013683	I'll go back to Orsha
-QUEST_LV_0100_20151224_013684	Collecting Information
-QUEST_LV_0100_20151224_013685	I think it's best to get out of the prison
-QUEST_LV_0100_20151224_013686	Don't worry so much
-QUEST_LV_0100_20151224_013687	The fragments of the destroyed idol are spread throughout 3F.{nl}Find and purify them!
-QUEST_LV_0100_20151224_013688	I'll think about it again
-QUEST_LV_0100_20151224_013689	That doesn't look like a test
-QUEST_LV_0100_20151224_013690	I'll do what I have to do
-QUEST_LV_0100_20151224_013691	I don't want to push myself too far anymore
-QUEST_LV_0100_20151224_013692	I'll try and make a doll
-QUEST_LV_0100_20151224_013693	I don't think I can tend to such a puny request
-QUEST_LV_0100_20151224_013694	Do you need something delivered?
-QUEST_LV_0100_20151224_013695	Learning is why I came here in the first place
-QUEST_LV_0100_20151224_013696	I'm ready to take on the mission
-QUEST_LV_0100_20151224_013697	What kind of material is it?
-QUEST_LV_0100_20151224_013698	I have no time for that, sorry
-QUEST_LV_0100_20151224_013699	I'll go and look for it
-QUEST_LV_0100_20151224_013700	A New Plot
-QUEST_LV_0100_20151224_013701	I'm a Revelator
-QUEST_LV_0100_20151224_013702	I understand; I'm going somewhere safe
-QUEST_LV_0100_20151224_013703	Investigating the Protection Cast
-QUEST_LV_0100_20151224_013704	It'll be difficult for me to take part in that
-QUEST_LV_0100_20151224_013705	Okay
-QUEST_LV_0100_20151224_013706	I'll wait for Melchioras to get ready
-QUEST_LV_0100_20151224_013707	Tell me about the Revelators of Klaipeda
-QUEST_LV_0100_20151224_013708	What can I help you with?
-QUEST_LV_0100_20151224_013709	I'll help you next time
-QUEST_LV_0100_20151224_013710	Destroy the Fonte de Energia Mágica
-QUEST_LV_0100_20151224_013711	I'll set down the orbs
-QUEST_LV_0100_20151224_013712	Let's meet at Delmore Manor
-QUEST_LV_0100_20151224_013713	I can help you; what kind of information do you need me to gather?
-QUEST_LV_0100_20151224_013714	I don't think I'm skilled enough for that
-QUEST_LV_0100_20151224_013715	Relaying all information gathered
-QUEST_LV_0100_20151224_013716	That's unfortunate, but it can't be helped
-QUEST_LV_0100_20151224_013717	I'm busy with other things
-QUEST_LV_0100_20151224_013718	I'll do it while I hunt some monsters
-QUEST_LV_0100_20151224_013719	Give up everything that's already been used
-QUEST_LV_0100_20151224_013720	I think the other Revelators will find a way
-QUEST_LV_0100_20151224_013721	I'm a little tired now
-QUEST_LV_0100_20151224_013722	I can't believe anymore
-QUEST_LV_0100_20151224_013723	Kruvina and the Revelators
-QUEST_LV_0100_20151224_013724	Please wait a while
-QUEST_LV_0100_20151224_013725	Just tell me what you need
-QUEST_LV_0100_20151224_013726	It's best to gather as much as possible from this area
-QUEST_LV_0100_20151224_013727	I'll defeat some demons around here
-QUEST_LV_0100_20151224_013728	I have no time to help you
-QUEST_LV_0100_20151224_013729	A Sorrowful Heart
-QUEST_LV_0100_20151224_013730	Hometown Secret
-QUEST_LV_0100_20151224_013731	I have more urgent issues to tend to
-QUEST_LV_0100_20151224_013732	Chasing Lord Delmore (1)
-QUEST_LV_0100_20151224_013733	Let's follow after
-QUEST_LV_0100_20151224_013734	Chasing Lord Delmore (2)
-QUEST_LV_0100_20151224_013735	Unbreakable Barrier
-QUEST_LV_0100_20151224_013736	Let's hurry
-QUEST_LV_0100_20151224_013737	Let's catch our breath for a while
-QUEST_LV_0100_20151224_013738	To the Government Ruins
-QUEST_LV_0100_20151224_013739	Let's go now
-QUEST_LV_0100_20151224_013740	Let's get some rest first
-QUEST_LV_0100_20151224_013741	The Shaman Doll and the Savior
-QUEST_LV_0100_20151224_013742	Lead to a Dead-end (1)
-QUEST_LV_0100_20151224_013743	Don't worry, just get some rest
-QUEST_LV_0100_20151224_013744	Lead to a Dead-end (2)
-QUEST_LV_0100_20151224_013745	Comforting Them
-QUEST_LV_0100_20151224_013746	This is Only the Beginning
-QUEST_LV_0100_20151224_013747	Let's go back to Melchioras
-QUEST_LV_0100_20151224_013748	For It to Never Happen Again
-QUEST_LV_0100_20151224_013749	I'll help out as much as I can
-QUEST_LV_0100_20151224_013750	I think it's time to leave
-QUEST_LV_0100_20151224_013751	I'll take it from here
-QUEST_LV_0100_20151224_013752	I'll bring it to you as soon as I have it
-QUEST_LV_0100_20151224_013753	It doesn't seem like we need to take action
-QUEST_LV_0100_20151224_013754	Why can't you ask for help around here?
-QUEST_LV_0100_20151224_013755	Why don't you ask for help around here?
-QUEST_LV_0100_20151224_013756	I don't think I'm skilled enough to solve a problem like that
-QUEST_LV_0100_20151224_013757	Investigating
-QUEST_LV_0100_20151224_013758	I'll find the village chief
-QUEST_LV_0100_20151224_013759	I can't see any more accidents
-QUEST_LV_0100_20151224_013760	Read the diary to me
-QUEST_LV_0100_20151224_013761	Read it to me later
-QUEST_LV_0100_20151224_013762	That's a bit weird but I'll help you
-QUEST_LV_0100_20151224_013763	There's no way the goddesses would do that
-QUEST_LV_0100_20151224_013764	That sounds suspicious, but I'll go
-QUEST_LV_0100_20151224_013765	I don't think this is it
-QUEST_LV_0100_20151224_013766	I have nothing to do there
-QUEST_LV_0100_20151224_013767	I can help you with that
-QUEST_LV_0100_20151224_013768	I have no time for that, sorry
-QUEST_LV_0100_20151224_013769	Relaying the contents of the diary
-QUEST_LV_0100_20151224_013770	It's not time for that yet
-QUEST_LV_0100_20151224_013771	Joining Forces
-QUEST_LV_0100_20151224_013772	Let me know if you find a way
-QUEST_LV_0100_20151224_013773	Talking about the Hydra
-QUEST_LV_0100_20151224_013774	I'll wait until you're done with the trap
-QUEST_LV_0100_20151224_013775	I'll go and catch the Hydra
-QUEST_LV_0100_20151224_013776	You Can't Drink That
-QUEST_LV_0100_20151224_013777	I don't think I have time for that
-QUEST_LV_0100_20151224_013778	I'll help you so something like that doesn't happen again
-QUEST_LV_0100_20151224_013779	It's too dangerous; just hold on
-QUEST_LV_0100_20151224_013780	Waiting it out is definitely the best
-QUEST_LV_0100_20151224_013781	Check for requests at the Mercenary Post
-QUEST_LV_0100_20151224_013782	Check for requests at the Mercenary Post.
-QUEST_LV_0100_20151224_013783	Collect Monster Products
-QUEST_LV_0100_20151224_013784	You have accepted Receptionist Donnes' request. Collect the items to complete it.
-QUEST_LV_0100_20151224_013785	Mercenary Post Request Report
-QUEST_LV_0100_20151224_013786	You have completed the request. Report back to Donnes at the Mercenary Post.
-QUEST_LV_0100_20151224_013787	The materials for the test are ready. Go talk to the Linker Submaster to find out how the test is going to be carried out.
-QUEST_LV_0100_20151224_013788	The Linker Submaster says that if you're really talented you should have the eyes to find the World Behind at Tenet Church 1F. Go into this world, find a book there and bring it to the Linker Submaster.
-QUEST_LV_0100_20151224_013789	Give the book to the Linker Submaster
-QUEST_LV_0100_20151224_013790	You found the book in the World Behind and successfully passed the test. As proof of this, take the book to the Linker Submaster.
-QUEST_LV_0100_20151224_013791	This amount is not enough to offer the Cleric Master. Please collect 1,000 silver in donations to deliver to the Cleric Master.
-QUEST_LV_0100_20151224_013792	You have collected 1,000 silver in donations for the Cleric Master. Deliver the donations to the Cleric Master in Klaipeda.
-QUEST_LV_0100_20151224_013793	The book requested by the Quarrel Shooter Master belongs to the Hunter Master. Collect 1,000 silver to purchase the book from her.
-QUEST_LV_0100_20151224_013794	You have enough silver to purchase the book. Obtain it from the Hunter Master for 1,000 silver and deliver it to the Quarrel Shooter Master.
-QUEST_LV_0100_20151224_013795	The book requested by the Archer Master belongs to the Hunter Master. Collect 1,000 silver to purchase the book from her.
-QUEST_LV_0100_20151224_013796	You have enough silver to purchase the book. Obtain it from the Hunter Master for 1,000 silver and deliver it to the Archer Master.
-QUEST_LV_0100_20151224_013797	The book requested by the Ranger Master belongs to the Hunter Master. Collect 1,000 silver to purchase the book from her.
-QUEST_LV_0100_20151224_013798	Go see the Hoplite Submaster at the West Siauliai Woods.
-QUEST_LV_0100_20151224_013799	To the Hoplite Submaster, his most cherished spear is a source of pride. Enhance a piece of spear-type equipment up to level 6. Do this on any spear-type weapon.
-QUEST_LV_0100_20151224_013800	Report the results to the Hoplite Submaster
-QUEST_LV_0100_20151224_013801	You have enhanced a piece of spear-type equipment to level 6. Show it to the Hoplite Submaster.
-QUEST_LV_0100_20151224_013802	Go to Siauliai Miners' Village and talk to the Psychokino Submaster.
-QUEST_LV_0100_20151224_013803	The Psychokino Submaster is going to help you prove your skills, but she wants some demon essence in return. Defeat some Minotaurs Chapparitions at the Gate Route to obtain demon essence.
-QUEST_LV_0100_20151224_013804	Deliver the essence to the Psychokino Submaster
-QUEST_LV_0100_20151224_013805	You have obtained the essence of both demons. Deliver it to the Psychokino Submaster.
-QUEST_LV_0100_20151224_013806	Talk to the Linker Submaster at Siauliai Miners' Village.
-QUEST_LV_0100_20151224_013807	Duel the Linker Submaster
-QUEST_LV_0100_20151224_013808	The Linker Master wants to test the quality of mana through dueling. Duel against the Linker Master and win.
-QUEST_LV_0100_20151224_013809	You can feel the quality of mana enhanced after dueling with the Linker Master. Talk to the Linker Master.
-QUEST_LV_0100_20151224_013810	Talk to the Wugushi Submaster
-QUEST_LV_0100_20151224_013811	Go to the Gateway of the Great King and talk to the Wugushi Submaster.
-QUEST_LV_0100_20151224_013812	Duel the Wugushi Submaster
-QUEST_LV_0100_20151224_013813	The Wugushi Master says that even if cowardly, the last one standing is the true winner of the combat. Duel with the Wugushi Master.
-QUEST_LV_0100_20151224_013814	You have defeated the Wugushi Submaster in a duel. Go talk to the Wugushi Submaster again.
-QUEST_LV_0100_20151224_013815	Talk to the Rodelero Submaster
-QUEST_LV_0100_20151224_013816	Go to the Gateway of the Great King and talk to the Rodelero Submaster.
-QUEST_LV_0100_20151224_013817	The Rodelero Submaster asked for a shield enhanced to level 4. Enhance a shield-type piece of equipment and show it to the Rodelero Submaster.
-QUEST_LV_0100_20151224_013818	Report to the Rodelero Submaster
-QUEST_LV_0100_20151224_013819	You sucessfully enhanced a shield-type piece of equipment to level 4. Report to the Rodelero Submaster.
-QUEST_LV_0100_20151224_013820	Talk to the Elementalist Submaster
-QUEST_LV_0100_20151224_013821	Go to Akmens Ridge and talk to the Elementalist Submaster.
-QUEST_LV_0100_20151224_013822	Complete the Elementalist Submaster's task
-QUEST_LV_0100_20151224_013823	Relay the task to the Elementalist Submaster
-QUEST_LV_0100_20151224_013824	You have successfully completed the Elementalist Submaster's task. Deliver the collected materials to the Elementalist Submaster.
-QUEST_LV_0100_20151224_013825	Talk to the Cataphract Submaster
-QUEST_LV_0100_20151224_013826	Go to the Gateway of the Great King and talk to the Cataphract Submaster.
-QUEST_LV_0100_20151224_013827	Defeat Sparnasman around the Vieta Gorge to prove your skills to the Cataphract Submaster.
-QUEST_LV_0100_20151224_013828	Report to the Cataphract Submaster
-QUEST_LV_0100_20151224_013829	You successfully defeated Sparnasman. Report to the Cataphract Submaster.
-QUEST_LV_0100_20151224_013830	Defeat Sparnasman
-QUEST_LV_0100_20151224_013831	Defeat Boowooks near a Royal Cube to absorb
-QUEST_LV_0100_20151224_013832	The Officer's Spirit is trying to make a human figure by tying the wooden legs. Let's collect rustling skins from Old Kepas.
-QUEST_LV_0100_20151224_013833	Defeat the monster chasing Toby
-QUEST_LV_0100_20151224_013834	The Archer Master wants to see whether you have what it takes to keep learning. Go to Crystal Mine 1F and collect the wings of Bats.
-QUEST_LV_0100_20151224_013835	As Seguidor Rikke said, after setting fire to the Panto Totem, the Pantos started taking orders. They helped defeat the Big Panto Spearman and the Old Talisman seems like it could be of use. Tell this to Rikke.
-QUEST_LV_0100_20151224_013836	Vincent is lazy and asked you to do his work for him. Finish the forgeries as he told you to. Blue smoke will appear when the forgery is complete in the mold.
-QUEST_LV_0100_20151224_013837	Investigate the Red Energy
-QUEST_LV_0100_20151224_013838	Some areas in Ashaq Underground Prison 3F are glowing with an eery red energy. Go and have a look at them.
-QUEST_LV_0100_20151224_013839	Defeat Cerberus
-QUEST_LV_0100_20151224_013840	Cerberus was called out by the red energy and broke free! Defeat it.
-QUEST_LV_0100_20151224_013841	Investigate Bastymosi Field
-QUEST_LV_0100_20151224_013842	Mardas told you to run because the surrounding areas are filled with demons. Go to Bastymosi Field and see what's really happening.
-QUEST_LV_0100_20151224_013843	The monsters seem to be using the Esculturas de Coruja to send the light beads to somewhere. Ask Mardas if he knows anything about it.
-QUEST_LV_0100_20151224_013844	Ask Mardas if he's ever seen the Esculturas de Coruja sending light beads anywhere.
-QUEST_LV_0100_20151224_013845	Follow the light bead to Bonewide Cliff
-QUEST_LV_0100_20151224_013846	The light beads were delivered to the Esculturas de Coruja on top of a slope. Turn around and follow them to Bonewide Cliff.
-QUEST_LV_0100_20151224_013847	Retrieve the Karolis Altar Crystal
-QUEST_LV_0100_20151224_013848	To save the Esculturas de Coruja possessed by the demons you must restore the energy of Karolis Forest. To do that, you'll have to reconstruct the Karolis Altar destroyed by the demons. Follow the will of the leading owls and find the Karolis Altar Crystal.
-QUEST_LV_0100_20151224_013849	To spread out the forest's divine force, you need to find and light up all of Karolis' light rays. Hurry and light up all four of Karolis' rays before their light dies out.
-QUEST_LV_0100_20151224_013850	Destroy the Torre de Controle Mental at Duoklu Hall
-QUEST_LV_0100_20151224_013851	Destroy the Torre de Controle Mental at Duoklu Hall with the power of the Esculturas de Coruja.
-QUEST_LV_0100_20151224_013852	Mardas is with the Escultura do Coruja Líder. Listen to what he was saying.
-QUEST_LV_0100_20151224_013853	To save the Guide Owl Sculptures at Letas Stream, go to the birthplace of Karolis, where the energy of Karolis Springs is stronger, and collect that energy.
-QUEST_LV_0100_20151224_013854	Find the Guide Owl Sculpture at Letas Stream
-QUEST_LV_0100_20151224_013855	The Escultura do Coruja Líder requested you gather the energy of Karolis Springs and deliver it to the Guide Owl Sculptures. Go find the Guide Owl Sculptures.
-QUEST_LV_0100_20151224_013856	The Escultura do Coruja Líder requested a divine branch of Letas in order to defeat the demons. Use the crystal containing the energy of Karolis Springs to find the holy tree of Letas and obtain a branch.
-QUEST_LV_0100_20151224_013857	Mardas seems to have finally found a solution after discussing with the Escultura do Coruja Líder. Listen to what Mardas has to say.
-QUEST_LV_0100_20151224_013858	Clear out the evil energy contaminating the forest
-QUEST_LV_0100_20151224_013859	The first thing to do is eliminate the evil energy contaminating the forest. Set up the Namott of Suppression around the evil energy to clear it out.
-QUEST_LV_0100_20151224_013860	You have cleared out all of the evil energy. Go back to Mardas and tell him about it.
-QUEST_LV_0100_20151224_013861	You have eliminated all of the evil energy. Talk to Mardas about what to do next.
-QUEST_LV_0100_20151224_013862	Remove the Surveillance Sphere Magic Circle 
-QUEST_LV_0100_20151224_013863	Mardas says you need to remove the magic circle keeping the Esferas de Vigilância in order to access the black energy that's absorbing the forest's own energy. Avoid the Esferas de Vigilância and destroy its magic circle.
-QUEST_LV_0100_20151224_013864	Remove the Black Energy
-QUEST_LV_0100_20151224_013865	At the end of the forked roads at Senyvas Yard, destroy the black energy that's absorbing the forest's own energy.
-QUEST_LV_0100_20151224_013866	The black energy has been completely removed. Go and tell Mardas.
-QUEST_LV_0100_20151224_013867	Remove all magic circles protecting the Soul Starvation
-QUEST_LV_0100_20151224_013868	Mardas says the magic circles protecting Soul Starvation must be removed. The circles must be removed in the correct order, or they will become active again. Control each circle to figure out the order and remove them accordingly.
-QUEST_LV_0100_20151224_013869	Remove the magic circles protecting the Soul Starvation
-QUEST_LV_0100_20151224_013870	Destroy the Soul Starvation with the Namott of Suppression
-QUEST_LV_0100_20151224_013871	You have defeated all the demons around. Use the power of the Namott of Suppression to destroy Soul Starvation.
-QUEST_LV_0100_20151224_013872	Defeat monsters to supply magic to the Locked Chest
-QUEST_LV_0100_20151224_013873	The chest is locked with an unknown force. Defeat some monsters around it to fill the chest with magic.
-QUEST_LV_0100_20151224_013874	You defeated the monsters in the Woods of the Linked Bridges. Go see the Wizard Submaster.
-QUEST_LV_0100_20151224_013875	Defeat monsters with the Fire Energy Bead
-QUEST_LV_0100_20151224_013876	The Pyromancer Submaster wants to test your affinity with fire energy. Defeat some monsters while under the magic of the Pyromancer Submaster.
-QUEST_LV_0100_20151224_013877	You have defeated the monsters. Go and ask the Pyromancer Submaster to evaluate your affinity with fire.
-QUEST_LV_0100_20151224_013878	Defeat monsters and replenish the Magical Piece of Ice
-QUEST_LV_0100_20151224_013879	The Cryomancer Submaster believes that every Cryomaster needs a talent for frost magic. To prove yourself, fill the unmelting magical piece of ice with magic.
-QUEST_LV_0100_20151224_013880	You have replenished the magical piece of ice without letting it melt. Go back to the Cryomancer Submaster.
-QUEST_LV_0100_20151224_013881	The Archer Submaster believes that being able to aim at an enemy from afar is important. Attack monsters by hitting them from a distance.
-QUEST_LV_0100_20151224_013882	The Archer Submaster should be satisfied with your perfomance. Go back to the Archer Submaster.
-QUEST_LV_0100_20151224_013883	The Ranger Submaster believes that the ability to fight multiple foes is what sets Rangers apart. Defeat a monster within 10 seconds after having defeated another.
-QUEST_LV_0100_20151224_013884	Your performance was good enough to impress the Ranger Submaster. Go back to the Ranger Submaster.
-QUEST_LV_0100_20151224_013885	Achieve Lv. 1 enhancement on a crossbow
-QUEST_LV_0100_20151224_013886	The Quarrel Shooter Submaster mentioned the importance of your weapon. Bring her a crossbow-type equipment enhanced to level 1.
-QUEST_LV_0100_20151224_013887	You have obtained a crossbow enhanced to level 1 or higher. Go see the Quarrel Shooter Submaster.
-QUEST_LV_0100_20151224_013888	You have listened to the advice of all the Wizard Masters in Orsha. Go back to the Wizard Submaster.
-QUEST_LV_0100_20151224_013889	Defeat monsters nearby the Pedra de Fogo Condensada
-QUEST_LV_0100_20151224_013890	The energy of fire feels a little stronger now. Go back to the Pyromancer Submaster.
-QUEST_LV_0100_20151224_013891	The Cyomancer Submaster believes you need to become more familiar with handling frost. Use the Tomo Congelado and defeat the monsters with increased ice property resistance.
-QUEST_LV_0100_20151224_013892	You have completed your training. Go back to the Cryomancer Submaster.
-QUEST_LV_0100_20151224_013893	Blow away monsters using the Psychokino Scroll
-QUEST_LV_0100_20151224_013894	The Psychokino Master believes that instead of a lecture you should see the power of the Psychokino with your own eyes. Use the Psychokino Scroll to blow away monsters.
-QUEST_LV_0100_20151224_013895	You are now aware of how it feels to use Psychokino magic. Go back to the Psychokino Master.
-QUEST_LV_0100_20151224_013896	According to the Linker Master, the magic of the Linkers starts with finding how to connect to your foe. She believes you can learn with practice, so attack monsters and try to find their point of connection.
-QUEST_LV_0100_20151224_013897	The point of connection was there, even if briefly. Go back to the Linker Master.
-QUEST_LV_0100_20151224_013898	Your test ends here. Go back and see the Archer Submaster.
-QUEST_LV_0100_20151224_013899	Collect Wall Restoration Stones
-QUEST_LV_0100_20151224_013900	The Ranger Submaster hopes that Rangers can help the people of Orsha by contributing to the city's reconstruction. Find some hard building stone in Koru Jungle and collect wall restoration stones.
+QUEST_LV_0100_20151224_013641	Quero ouvir isso
+QUEST_LV_0100_20151224_013642	Falando sobre o conteúdo
+QUEST_LV_0100_20151224_013643	Farei o que for preciso
+QUEST_LV_0100_20151224_013644	Não quero ser pego em algo assim
+QUEST_LV_0100_20151224_013645	Junte-se ao Pranas na frente de Gebene Cliff, em Paupys Crossing!
+QUEST_LV_0100_20151224_013646	O Paradeiro do Bispo Urbonas (1)
+QUEST_LV_0100_20151224_013647	O Paradeiro do Bispo Urbonas (2)
+QUEST_LV_0100_20151224_013648	Estou com receio
+QUEST_LV_0100_20151224_013649	O Paradeiro do Bispo Urbonas (3)
+QUEST_LV_0100_20151224_013650	O Paradeiro do Bispo Urbonas (7)
+QUEST_LV_0100_20151224_013651	O Paradeiro do Bispo Urbonas (4)
+QUEST_LV_0100_20151224_013652	Não há outro meio?
+QUEST_LV_0100_20151224_013653	Verifique o mapa da Ashaq Underground Prison 1F no seu inventário!
+QUEST_LV_0100_20151224_013654	O Paradeiro do Bispo Urbonas (5)
+QUEST_LV_0100_20151224_013655	Explicando o pesadelo
+QUEST_LV_0100_20151224_013656	O Paradeiro do Bispo Urbonas (6)
+QUEST_LV_0100_20151224_013657	Isso é um pouco demais para mim
+QUEST_LV_0100_20151224_013658	Usando o Orb of Return
+QUEST_LV_0100_20151224_013659	A maldição em Ashaq Underground Prison 1F foi removida!
+QUEST_LV_0100_20151224_013660	Chantagem
+QUEST_LV_0100_20151224_013661	Não acho que posso ajudar
+QUEST_LV_0100_20151224_013662	Veneno Contra Veneno
+QUEST_LV_0100_20151224_013663	Não tenho certeza, mas pegarei alguns
+QUEST_LV_0100_20151224_013664	Pacote Não Identificado (1)
+QUEST_LV_0100_20151224_013665	Não farei o que não for necessário
+QUEST_LV_0100_20151224_013666	Pacote Não Identificado (2)
+QUEST_LV_0100_20151224_013667	Relatando o conselho do Bispo
+QUEST_LV_0100_20151224_013668	Ainda tenho outras coisas para fazer
+QUEST_LV_0100_20151224_013669	É uma ideia muito perigosa
+QUEST_LV_0100_20151224_013670	Derrote os montros ao redor do Totem Amaldiçoado, na Examination Room.
+QUEST_LV_0100_20151224_013671	O Totem Amaldiçoado não aguentou o poder e explodiu!{nl}Volte até a Priest Irma e relate o ocorrido.
+QUEST_LV_0100_20151224_013672	Me fale sobre as lendas
+QUEST_LV_0100_20151224_013673	Liberando
+QUEST_LV_0100_20151224_013674	Por favor, aguarde um pouco
+QUEST_LV_0100_20151224_013675	Me fale sobre o que os Priests prepararam
+QUEST_LV_0100_20151224_013676	Vá até a Bird Room e absorva o poder do cristal
+QUEST_LV_0100_20151224_013677	Não acho que é necessário
+QUEST_LV_0100_20151224_013678	Isso parece perigoso também
+QUEST_LV_0100_20151224_013679	Não acho que vai ser possível
+QUEST_LV_0100_20151224_013680	Vou descansar um pouco e partirei
+QUEST_LV_0100_20151224_013681	Não posso simplesmente ir
+QUEST_LV_0100_20151224_013682	Falando sobre os fatos recentes
+QUEST_LV_0100_20151224_013683	Voltarei até Orsha
+QUEST_LV_0100_20151224_013684	Coletando Informação
+QUEST_LV_0100_20151224_013685	Acho que é melhor sair da prisão
+QUEST_LV_0100_20151224_013686	Não se preocupe tanto assim
+QUEST_LV_0100_20151224_013687	Os fragmentos do totem destruído estão espalhados.{nl}Encontre-os para purificá-los!
+QUEST_LV_0100_20151224_013688	Vou pensar sobre isso novamente
+QUEST_LV_0100_20151224_013689	Isso não parece um teste
+QUEST_LV_0100_20151224_013690	Farei o que for preciso
+QUEST_LV_0100_20151224_013691	Não quero me forçar mais tanto
+QUEST_LV_0100_20151224_013692	Tentarei fazer uma boneca
+QUEST_LV_0100_20151224_013693	Não posso fazer um pedido tão insignificante
+QUEST_LV_0100_20151224_013694	Precisa que algo seja entregue?
+QUEST_LV_0100_20151224_013695	Vim aqui para aprender
+QUEST_LV_0100_20151224_013696	Estou pronto para a próxima missão
+QUEST_LV_0100_20151224_013697	Que tipo de material é esse?
+QUEST_LV_0100_20151224_013698	Não tenho tempo para isso, desculpe
+QUEST_LV_0100_20151224_013699	Vou ir procurar por isso
+QUEST_LV_0100_20151224_013700	Uma Nova Trama
+QUEST_LV_0100_20151224_013701	Sou um Revelador
+QUEST_LV_0100_20151224_013702	Entendo. Irei para um local seguro
+QUEST_LV_0100_20151224_013703	Investigando a Proteção
+QUEST_LV_0100_20151224_013704	Vai ser difícil eu tomar partido nisso
+QUEST_LV_0100_20151224_013705	Certo
+QUEST_LV_0100_20151224_013706	Vou esperar o Melchioras
+QUEST_LV_0100_20151224_013707	Me fale sobre os Reveladores de Klaipeda
+QUEST_LV_0100_20151224_013708	Em que posso ajudar?
+QUEST_LV_0100_20151224_013709	Vou ajudar na próxima
+QUEST_LV_0100_20151224_013710	Destrua a Fonte de Energia Mágica
+QUEST_LV_0100_20151224_013711	Vou colocar os orbes
+QUEST_LV_0100_20151224_013712	Nos vemos em Delmore Manor
+QUEST_LV_0100_20151224_013713	Posso ajudar. Que informação você precisa?
+QUEST_LV_0100_20151224_013714	Não acho que sou habilidoso o suficiente para isso
+QUEST_LV_0100_20151224_013715	Repassando a informação obtida
+QUEST_LV_0100_20151224_013716	Que pena, não posso ajudar
+QUEST_LV_0100_20151224_013717	Estou ocupado com outras coisas
+QUEST_LV_0100_20151224_013718	Farei enquanto caço alguns monstros
+QUEST_LV_0100_20151224_013719	Desista de tudo que já foi usado
+QUEST_LV_0100_20151224_013720	Acho que os outros Reveladores darão um jeito
+QUEST_LV_0100_20151224_013721	Estou um pouco cansado agora
+QUEST_LV_0100_20151224_013722	Não posso mais acreditar
+QUEST_LV_0100_20151224_013723	A Kruvina e os Reveladores
+QUEST_LV_0100_20151224_013724	Por favor, espere um pouco
+QUEST_LV_0100_20151224_013725	Só me dizer o que precisa
+QUEST_LV_0100_20151224_013726	É melhor pegar tudo que der daqui
+QUEST_LV_0100_20151224_013727	Vou derrotar alguns demônios ao redor
+QUEST_LV_0100_20151224_013728	Não tenho tempo para ajudar
+QUEST_LV_0100_20151224_013729	Um Coração Aflito
+QUEST_LV_0100_20151224_013730	Segredo da Cidade Natal
+QUEST_LV_0100_20151224_013731	Tenho coisas mais urgentes para fazer
+QUEST_LV_0100_20151224_013732	Perseguindo o Lorde Delmore (1)
+QUEST_LV_0100_20151224_013733	Vamos seguir
+QUEST_LV_0100_20151224_013734	Perseguindo o Lorde Delmore (2)
+QUEST_LV_0100_20151224_013735	Barreira Impenetrável
+QUEST_LV_0100_20151224_013736	Vamos nos apressar
+QUEST_LV_0100_20151224_013737	Vamos respirar um pouco
+QUEST_LV_0100_20151224_013738	Para as Ruínas do Governo
+QUEST_LV_0100_20151224_013739	Vamos lá
+QUEST_LV_0100_20151224_013740	Vamos descansar primeiro
+QUEST_LV_0100_20151224_013741	A Boneca Xamã e o Salvador
+QUEST_LV_0100_20151224_013742	O Caminho Sem Volta (1)
+QUEST_LV_0100_20151224_013743	Não se preocupe, descanse um pouco
+QUEST_LV_0100_20151224_013744	O Caminho Sem Volta (2)
+QUEST_LV_0100_20151224_013745	Confortando-os
+QUEST_LV_0100_20151224_013746	Isto É Só o Começo
+QUEST_LV_0100_20151224_013747	Vamos voltar até o Melchioras=
+QUEST_LV_0100_20151224_013748	Para Nunca Mais Acontecer
+QUEST_LV_0100_20151224_013749	Vou ajudar no que eu puder
+QUEST_LV_0100_20151224_013750	Acho que é hora de partir
+QUEST_LV_0100_20151224_013751	Eu assumo daqui
+QUEST_LV_0100_20151224_013752	Trarei assim que eu achar
+QUEST_LV_0100_20151224_013753	Não parece que precisamos agir
+QUEST_LV_0100_20151224_013754	Por que não pede ajuda por aqui?
+QUEST_LV_0100_20151224_013755	Por que não pede ajuda por aqui?
+QUEST_LV_0100_20151224_013756	Não acho que consigo resolver esse problema
+QUEST_LV_0100_20151224_013757	Investigando
+QUEST_LV_0100_20151224_013758	Vou procurar o chefe da vila
+QUEST_LV_0100_20151224_013759	Não vejo mais acidentes
+QUEST_LV_0100_20151224_013760	Leia o diário para mim
+QUEST_LV_0100_20151224_013761	Leia mais tarde
+QUEST_LV_0100_20151224_013762	Isso é meio estranho, mas vou ajudar
+QUEST_LV_0100_20151224_013763	Não é possível que as Deusas fariam isso
+QUEST_LV_0100_20151224_013764	Isso soa suspeito, mas eu irei
+QUEST_LV_0100_20151224_013765	Não acho que é isso
+QUEST_LV_0100_20151224_013766	Não tenho nada para fazer lá
+QUEST_LV_0100_20151224_013767	Posso ajudar nisso
+QUEST_LV_0100_20151224_013768	Não tenho tempo para isso, desculpe
+QUEST_LV_0100_20151224_013769	Relatando o conteúdo do diário
+QUEST_LV_0100_20151224_013770	Não é hora para isso
+QUEST_LV_0100_20151224_013771	Juntando Forças
+QUEST_LV_0100_20151224_013772	Me avise se achar um meio
+QUEST_LV_0100_20151224_013773	Falando sobre a Hydra
+QUEST_LV_0100_20151224_013774	Vou esperar até você terminar a armadilha
+QUEST_LV_0100_20151224_013775	Vou capturar a Hydra
+QUEST_LV_0100_20151224_013776	Não Beba Isso
+QUEST_LV_0100_20151224_013777	Não tenho tempo para isso
+QUEST_LV_0100_20151224_013778	Ajudarei para algo assim não acontecer mais
+QUEST_LV_0100_20151224_013779	É muito perigoso, aguarde um pouco
+QUEST_LV_0100_20151224_013780	Esperar é certamente melhor
+QUEST_LV_0100_20151224_013781	Verificar pedidos no Mercenary Post
+QUEST_LV_0100_20151224_013782	Verificar pedidos no Mercenary Post.
+QUEST_LV_0100_20151224_013783	Coletar Monster Products
+QUEST_LV_0100_20151224_013784	Você aceitou um pedido do Recepcionista Donnes. Colete os itens para completar.
+QUEST_LV_0100_20151224_013785	Resultado do Pedido do Mercenary Post
+QUEST_LV_0100_20151224_013786	Você completou o pedido. Informe o Donnes no Mercenary Post.
+QUEST_LV_0100_20151224_013787	Os materiais para o teste estão prontos. Fale com a Submestre Linker para descobrir como o teste ocorrerá.
+QUEST_LV_0100_20151224_013788	A Submestre Linker disse que, se você possui mesmo algum talento, você deve ter olhos capazes de encontral o Outro Mundo, em Tenet Church 1F. Vá até lá, encontre um livro e traga até a Submestre Linker.
+QUEST_LV_0100_20151224_013789	Entregue o livro para a Submestre Linker.
+QUEST_LV_0100_20151224_013790	Você encontrou o livro no Outro Mundo e passou no teste. Como prova disso, leve o livro para a Submestre Linker.
+QUEST_LV_0100_20151224_013791	Esta quantidade não é suficiente para ofecer para a Mestre Cleric. Por favor, obtenha 1.000 Silver em donativos para entregar para a Mestre Cleric.
+QUEST_LV_0100_20151224_013792	Você obteve 1.000 Silve em donativos para a Mestre Cleric. Entregue para ela na cidade de Klaipeda.
+QUEST_LV_0100_20151224_013793	O livro que o Mestre Quarrel Shooter pediu pertence à Mestre Hunter. Obtenha 1.000 Silve para comprar o livro dela.
+QUEST_LV_0100_20151224_013794	Você possui Silver suficiente para comprar o livro. Obtenha ele com a Mestre Hunter por 1.000 Silver e entregue ao Mestre Quarrel Shooter.
+QUEST_LV_0100_20151224_013795	O livro pedido pelo Mestre Archer pertence à Mestre Hunter. Obtenha 1.000 Silver para comprar o livro dela.
+QUEST_LV_0100_20151224_013796	Você possui Silver suficiente para comprar o livro. Obtenha ele com a Mestre Hunter por 1.000 Silver e entregue ao Mestre Archer.
+QUEST_LV_0100_20151224_013797	O livro pedido pela Mestre Ranger pertence à Mestre Hunter. Obtenha 1.000 Silve para comprar o livro dela.
+QUEST_LV_0100_20151224_013798	Fale com o Submestre Hoplite, na the West Siauliai Woods.
+QUEST_LV_0100_20151224_013799	Para o Submestre Hoplite, a lança mais querida por ele é fonte de orgulho. Refine uma lança até o nível 6.
+QUEST_LV_0100_20151224_013800	Informe os resultados para o Submestre Hoplite
+QUEST_LV_0100_20151224_013801	Você refinou uma lança até o nível 6. Mostre para o Submestre Hoplite.
+QUEST_LV_0100_20151224_013802	Vá até a Miners' Village e fale com a Submestre Psychokino.
+QUEST_LV_0100_20151224_013803	A Submestre Psychokino vai ajudar você a provar suas habilidades, mas ela quer essências demonícas como retorno. Derrote Minoutaur e Chapparition em Gate Route para obter isto.
+QUEST_LV_0100_20151224_013804	Entregue as essências para a Submestre Psychokino
+QUEST_LV_0100_20151224_013805	Você obteve a essência de ambos os demônios. Entregue para a Submestre Psychokino.
+QUEST_LV_0100_20151224_013806	Fale com a Submestre Linker, na Miners' Village.
+QUEST_LV_0100_20151224_013807	Duele contra a Submestre Linker
+QUEST_LV_0100_20151224_013808	A Mestre Linker quer testar a qualidade da mana através de um duelo. Enfrente e vença a Mestre Linker.
+QUEST_LV_0100_20151224_013809	Vocô pode sentir a qualidade da mana refinada após o duelo contra a Mestre Linker. Fale com ela.
+QUEST_LV_0100_20151224_013810	Fale com a Submstre Wugushi
+QUEST_LV_0100_20151224_013811	Vá até Gateway of the Great King e fale com a Submestre Wugushi.
+QUEST_LV_0100_20151224_013812	Duele contra a Submestre Wugushi
+QUEST_LV_0100_20151224_013813	A Mestre Wugushi disse que, mesmo que covardemente, o último que ficar de pé é o verdadeiro vencedor do combate. Duele contra a Mestre Wugushi.
+QUEST_LV_0100_20151224_013814	Você derrotou a Submestre Wugushi em um duelo. Fale com ela novamente.
+QUEST_LV_0100_20151224_013815	Fale com o Submestre Rodelero
+QUEST_LV_0100_20151224_013816	Vá até Gateway of the Great King e fale com o Submestre Rodelero.
+QUEST_LV_0100_20151224_013817	O Submestre Rodelero pediu por um escudo refinado até o nível 4. Faça o refino em um escudo e leve até ele.
+QUEST_LV_0100_20151224_013818	Retorne ao Submestre Rodelero
+QUEST_LV_0100_20151224_013819	Você refinou com sucesso um escudo até o nível 4. Retorne para o Submestre Rodelero.
+QUEST_LV_0100_20151224_013820	Fale com o Submestre Elementalist
+QUEST_LV_0100_20151224_013821	Vá até Akmens Ridge e fale com o Submestre Elementalist.
+QUEST_LV_0100_20151224_013822	Complete a terafa do Submestre Elementalist
+QUEST_LV_0100_20151224_013823	Retorne a tarefa para o Submestre Elementalist
+QUEST_LV_0100_20151224_013824	Você completou com sucesso a tarefa do Submestre Elementalist. Entregue os materiais coletados para ele.
+QUEST_LV_0100_20151224_013825	Fale com o Submestre Cataphract
+QUEST_LV_0100_20151224_013826	Vá até Gateway of the Great King e fale com o Submestre Cataphract
+QUEST_LV_0100_20151224_013827	Derrote o Sparnasman, em Vieta Gorge, para provar suas habilidades ao Submestre Cataphract.
+QUEST_LV_0100_20151224_013828	Retorne ao Submestre Cataphract
+QUEST_LV_0100_20151224_013829	Você derrotou o Sparnasman. Retorne para o Submestre Cataphract.
+QUEST_LV_0100_20151224_013830	Derrote o Sparnasman
+QUEST_LV_0100_20151224_013831	Derrote Boowooks próximo do Royal Cube para absorvê-los
+QUEST_LV_0100_20151224_013832	O Espírito do Oficial está tentando fazer uma figura humana através de madeira. Vamos coletar Rustling Skins dos Old Kepas.
+QUEST_LV_0100_20151224_013833	Derrote os monstros que estão perseguindo o Toby
+QUEST_LV_0100_20151224_013834	O Mestre Archer quer ver se você tem o que é preciso para aprender. Vá até Crystal Mine 1F e derrote Bats.
+QUEST_LV_0100_20151224_013835	Como disse o Seguidor Rikke, após colocar fogo no Totem dos Panto, os próprios Pantos começaram a receber ordens. Eles ajudaram a derrotar o Big Panto Spearman e o Old Talisman parece que pode ter um uso. Informe isso para o Rikke.
+QUEST_LV_0100_20151224_013836	Vincent é preguiçoso e pediu para você fazer o trabalho por ele. Termine o que ele pediu. Uma fumaça azul aparecerá quando o processo estiver completo.
+QUEST_LV_0100_20151224_013837	Investigue a Energia Vermelha
+QUEST_LV_0100_20151224_013838	Algumas áreas de Ashaq Underground Prison 3F estão brilhando com uma energia sinistra. Vá investigá-las.
+QUEST_LV_0100_20151224_013839	Derrote o Cerberus
+QUEST_LV_0100_20151224_013840	Cerberys foi atraído pela energia vermelha e fico livre! Derrote-o!
+QUEST_LV_0100_20151224_013841	Investigue Bastymosi Field
+QUEST_LV_0100_20151224_013842	Mardas disse para você correr porque as áreas ao redor estão cheias de demônios. Vá até Bastymosi Field e veja o que está acontecendo de fato.
+QUEST_LV_0100_20151224_013843	Parece que os monstros estão usando as Esculturas de Coruja para enviar as luzes para algum outro lugar. Pergunte ao Mardas se ele sabe de alguma coisa.
+QUEST_LV_0100_20151224_013844	Pergunte ao Mardas se ele já viu as Esculturas de Coruja enviando as luzes para outro lugar.
+QUEST_LV_0100_20151224_013845	Siga as luzes até Bonewide Cliff
+QUEST_LV_0100_20151224_013846	As luzes foram levadas para as Esculturas de Coruja no topo da colina. Volte e siga elas em Bonewide Cliff.
+QUEST_LV_0100_20151224_013847	Retorne o Karolis Altar Crystal
+QUEST_LV_0100_20151224_013848	Para salvar as Esculturas de Coruja possuídas pelos demônios, você precisa restaurar a energia da Karolis Forest. Para fazer isso, você precis reconstruir o Karolis Altar, destruído pelos demônios.
+QUEST_LV_0100_20151224_013849	Para espalhar a força divina da floresta, você precisa encontrar e reativar as luzes de Karolis.
+QUEST_LV_0100_20151224_013850	Destrua a Torre de Controle Mental, no Duoklu Hall
+QUEST_LV_0100_20151224_013851	Destrua a Torre de Controle Mental, no Duoklu Hall, com o poder das Esculturas de Coruja.
+QUEST_LV_0100_20151224_013852	Mardas está com a Escultura do Coruja Líder. Escute o que eles estão falando.
+QUEST_LV_0100_20151224_013853	Para salvar as Esculturas da Coruja Guia de Letas Stream, vá até a origem de Karolis, onde a energia de Karolis Springs é mais forte, e obenha esta energia.
+QUEST_LV_0100_20151224_013854	Encontre a Escultura da Coruja Guia em Letas Stream
+QUEST_LV_0100_20151224_013855	A Escultura do Coruja Líder pediu que você reunisse a energia de Karolis Springs e leve isso até as Esculturas da Coruja Guia. Vá procurar as Esculturas da Coruja Guia.		
+QUEST_LV_0100_20151224_013856	A Escultura do Coruja Líder pediu um galho divino de Letas para poder derrotar os demônios. Use o cristal contendo a energia de Karolis Springs para encontrar a árvore sagrada de Letas e obter um galho.
+QUEST_LV_0100_20151224_013857	Mardas parece que encontrou, finalmente, uma solução após conversar com a Escultura do Coruja Líder. Escute o que Mardas tem a dizer.
+QUEST_LV_0100_20151224_013858	Elimine a energia maligna contaminando a floresta
+QUEST_LV_0100_20151224_013859	A primeira coisa a fazer é eliminar a energia maligna que contamina a floresta. Coloque o Namott of Suppression próximo da energia maligna para removê-la.
+QUEST_LV_0100_20151224_013860	Você removeu toda a energia maligna. Retorne para Mardas e informe a situação.
+QUEST_LV_0100_20151224_013861	Você removeu toda a energia maligna. Fale com Mardas sobre o que fazer agora.
+QUEST_LV_0100_20151224_013862	Remova o Círculo Mágico da Esfera de Vigilância
+QUEST_LV_0100_20151224_013863	Mardas disse que você precisa remover o círculo mágico que mantém as Esferas de Vigilância para acessar a energia escura que absorve a energia da própria floresta. Evite as Esferas de Vigilância e destrua o círculo mágico.
+QUEST_LV_0100_20151224_013865	No final da bifurcação de Senyvas Yard, remova a energia negra que aborve a energia da própria floresta.	
+QUEST_LV_0100_20151224_013866	A energia negra foi removida. Avise Mardas sobre isso.
+QUEST_LV_0100_20151224_013867	Remova todos os círculos mágicos protegento a Soul Starvation
+QUEST_LV_0100_20151224_013868	Mardas disse que os círculos mágicos que protegem a Soul Starvation devem ser removidos. Os círculos devem ser removidos em ordem correta, ou eles serão ativados novamente. Controle cada círculo para descobrir a ordem correta.
+QUEST_LV_0100_20151224_013869	Remova os círculos mágicos protegendo a Soul Starvation
+QUEST_LV_0100_20151224_013870	Destrua a Soul Starvation com o Namott of Suppression
+QUEST_LV_0100_20151224_013871	Você derrotou todos os demônios na volta. Use o poder do Namott of Suppression para destruir a Soul Starvation.
+QUEST_LV_0100_20151224_013872	Derrote os montros para garantir poder mágico ao Baú Trancado
+QUEST_LV_0100_20151224_013873	O baú está trancado com uma força desconhecida. Derrote alguns montros ao redor para preencher o baú com magia.
+QUEST_LV_0100_20151224_013874	Você derrotou os monstros em Woods of the Linked Bridges. Fale com a Submestre Wizard.
+QUEST_LV_0100_20151224_013875	Derrote monstros com a Fire Energy Bead
+QUEST_LV_0100_20151224_013876	A Submestre Pyromancer quer testar a sua afinidade com energia de fogo. Derrote alguns monstros sob o efeito da magia da Submestre Pyromancer.
+QUEST_LV_0100_20151224_013877	Você derrotou os montros. Peça para a Submestre Pyromancer avaliar a sua afinidade com o fogo.
+QUEST_LV_0100_20151224_013878	Derrote os monstros para preencher o Pedaço de Gelo Eterno Mágico	
+QUEST_LV_0100_20151224_013879	A Submestre Cryomancer acredita que todo o Cryomancer precisa ter talento para magia congelante. Para provar isso, preencha o Pedaço de Gelo Eterno Mágico com magia.
+QUEST_LV_0100_20151224_013880	Você preencheu o Pedaço de Gelo Eterno Mágico sem deixar que deretesse. Retorne para a Submestre Cryomancer.
+QUEST_LV_0100_20151224_013881	O Submestre Archer acredita que ser capaz de mirar no inimigo a distância é muito importante. Ataque montros acertando eles de uma certa distância.
+QUEST_LV_0100_20151224_013882	O Submestre Archer deve ficar satisfeito com a sua performance. Retorne até ele.
+QUEST_LV_0100_20151224_013883	A Submestre Ranger acredita que a habilidade de lutar contra diversos inimigos é o que diferencia um Ranger. Derrote um monstro dentro de 10 segundos após derrotar outro.
+QUEST_LV_0100_20151224_013884	A sua performance foi boa o suficiente para impressionar a Submestre Ranger. Fale com ela.
+QUEST_LV_0100_20151224_013885	Alcance o nível 1 de refino em uma Besta
+QUEST_LV_0100_20151224_013886	A Submestre Quarrel Shooter mencionou a importância da sua arma. Traga para ela uma arma do tipo Besta refinada no nível 1.
+QUEST_LV_0100_20151224_013887	Você obteve uma Besta refinada até o nível 1 ou maior. Fale com a Submestre Quarrel Shooter.
+QUEST_LV_0100_20151224_013888	Você ouviu o conselho de todos os Mestres Wizard de Orsha. Fale com a Submestre Wizard.
+QUEST_LV_0100_20151224_013889	Derrote montros próximos da Pedra de Fogo Condensada
+QUEST_LV_0100_20151224_013890	A energia do fogo parece mais forte agora. Volte para a Submestre Pyromancer.
+QUEST_LV_0100_20151224_013891	A Submestre Cryomancer acredita que você precisa ser mais familiarizado na lida com o gelo. Use o Tomo Congelado e derrote os monstros com maior resistência à gelo.
+QUEST_LV_0100_20151224_013892	Você completou o seu treino. Fale com a Submestre Cryomancer.
+QUEST_LV_0100_20151224_013893	Derrote monstros utilizando o Pergaminho de Psychokino
+QUEST_LV_0100_20151224_013894	O Mestre Psychokino acredita que, ao invés de uma aula, você deveria ver o poder de um Psychokino com os seus próprios olhos. Use o Pergaminho de Psychokino para derrotar os monstros.
+QUEST_LV_0100_20151224_013895	Você agora sabe como que funciona a magia de um Psychokino. Retorne ao Mestre Psychokino.
+QUEST_LV_0100_20151224_013896	De acordo com a Mestre Linker, as capacidades dos Linkers iniciam por encontrar uma forma de se conectar com os alvos. Ela acredita que você pode aprender esta prática, então ataque monstros e tente encontrar o ponto de conexão deles.
+QUEST_LV_0100_20151224_013897	O ponde de conexão estava lá, mesmo que rapidamente. Retorne para a Mestre Linker.
+QUEST_LV_0100_20151224_013898	O seu teste termina aqui. Retorne para o Submestre Archer.
+QUEST_LV_0100_20151224_013899	Obtenha Pedras de Restauração da Muralha
+QUEST_LV_0100_20151224_013900	A Submestre Ranger espera que os Rangers possam ajudar as pessoas de Orsha contribuindo com a reconstrução da cidade. Encontre algumas pedras para reconstrução em Koru Jungle.
 QUEST_LV_0100_20151224_013901	You seem to have enough stones now. Go back to the Ranger Submaster.
 QUEST_LV_0100_20151224_013902	Obtain Sticky Plant Sap from Plant-type monsters
 QUEST_LV_0100_20151224_013903	The Quarrel Master requested you collect some material to join the wall restoration stones. Defeat plant-type monsters to obtain their sticky sap. The stronger the plant-type monster, the higher the chances of obtaining sap.
@@ -14410,7 +14409,7 @@ QUEST_LV_0100_20151224_014411	Inesa Hamondale preparou um presete que poderá aj
 QUEST_LV_0100_20151224_014412	If you are ready, go join Priest Pranas before leaving for the Ashaq Underground Prison to rescue Bishop Urbonas.
 QUEST_LV_0100_20151224_014413	Join Priest Pranas
 QUEST_LV_0100_20151224_014414	Priest Pranas says he is going to gather a few talented Chasers and head to the entrance of Ashaq Underground Prison. Join him by the Gebene Cliff in Paupys Crossing.
-QUEST_LV_0100_20151224_014415	Bishop Urbonas' Whereabouts
+QUEST_LV_0100_20151224_014415	O Paradeiro do Bispo Urbonas
 QUEST_LV_0100_20151224_014416	You have now met with Priest Pranas at the entrance to the Ashaq Underground Prison. Ask him whether he is ready to go inside the prison.
 QUEST_LV_0100_20151224_014417	Priest Pranas says he will enter Ashaq Underground Prison 1F first with the Chasers. Follow Priest Pranas to Ashaq Underground Prison 1F.
 QUEST_LV_0100_20151224_014418	There seems to be something wrong with Priest Pranas and the Chasers. Ask Priest Pranas about what happened.
@@ -14445,7 +14444,7 @@ QUEST_LV_0100_20151224_014446	Collect %s by defeating Blue Dumaros and Blue Wend
 QUEST_LV_0100_20151224_014447	Something seems to be disturbing Chaser Torvana. Ask Chaser Torvana if everything is alright.
 QUEST_LV_0100_20151224_014448	Chaser Torvana wants to beat the curse using the demons' evil energy. Obtain black wooden pieces from the demons in the Punishment Room.
 QUEST_LV_0100_20151224_014449	You have collected enough black wooden pieces. Will they help Chaser Torvana?
-QUEST_LV_0100_20151224_014450	Unidentified Package
+QUEST_LV_0100_20151224_014450	Pacote Não Identificado
 QUEST_LV_0100_20151224_014451	Chaser Daramaus has a favor to ask of you. Talk to Chaser Daramaus.
 QUEST_LV_0100_20151224_014452	Obtain Unidentified Packages
 QUEST_LV_0100_20151224_014453	Chaser Daramaus believes the solution to lifting the curse might be in the unidentified packages carried around by the demons. Defeat Blue Dumaros and obtain their packages.
@@ -14678,7 +14677,7 @@ QUEST_LV_0100_20151224_014679	More than demons, Seguidor Wedge is worried about 
 QUEST_LV_0100_20151224_014680	Collect Charog Sap
 QUEST_LV_0100_20151224_014681	Seguidor Wedge wants to produce a monster repellent. Defeat Charogs and collect their sap to use as material for the repellent.
 QUEST_LV_0100_20151224_014682	You have now collected enough Charog sap. Bring it to Seguidor Wedge.
-QUEST_LV_0100_20151224_014683	Chasing Lord Delmore
+QUEST_LV_0100_20151224_014683	Perseguindo o Lorde Delmore
 QUEST_LV_0100_20151224_014684	Talk to Revelator Yane
 QUEST_LV_0100_20151224_014685	Revelator Yane is in a hurry to chase after Lord Delmore accompanied by a party. Talk to her.
 QUEST_LV_0100_20151224_014686	Ask Revelator Mihail to accompany you
@@ -14701,7 +14700,7 @@ QUEST_LV_0100_20151224_014702	Collect Demons Souls in the Shaman Doll
 QUEST_LV_0100_20151224_014703	Yane wants to impart demons souls onto a shaman doll and replace Melchioras with it. Hunt demons and collect their souls on the doll.
 QUEST_LV_0100_20151224_014704	Deliver to Revelator Yane
 QUEST_LV_0100_20151224_014705	The shaman doll is now fully charged with souls. Bring it to Revelator Yane.
-QUEST_LV_0100_20151224_014706	Lead to a Dead-end
+QUEST_LV_0100_20151224_014706	O Caminho Sem Volta
 QUEST_LV_0100_20151224_014707	Mage Melchioras is still struggling but he is trying to tell you something. Talk to him.
 QUEST_LV_0100_20151224_014708	Chase Delmore Rephaim to the Odaginkas Vacant Lot
 QUEST_LV_0100_20151224_014709	Mage Melchioras says Delmore Rephaim has escaped to the Odaginkas Vacant Lot. Go and chase Delmore Rephaim with Revelator Mihail.
