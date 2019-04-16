@@ -10740,7 +10740,7 @@ QUEST_LV_0100_20151102_010739	Oh, você tem o jeito. Estou um pouco surpreso.{nl
 QUEST_LV_0100_20151102_010740	VocÊ deseja se tornar um Cryomancer?{nl}
 QUEST_LV_0100_20151102_010741	Isso é bom de se ouvir.{nl}Mais pessoas se tornando Cryomancers são sempre bem-vindas.{nl}
 QUEST_LV_0100_20151102_010742	No entanto, aceitar todos os participantes só se mostrará prejudicial para todos nós.{nl}É o melhor se fizermos um simples teste para determinar sua aptidão {nl}em se tornar um Cryomancer.
-QUEST_LV_0100_20151102_010743	Aqui está um Unmelting Magical Piece of Ice.{nl}Isso é um peça de gelo injetado com um feitiço que mantém seu estado congelado.{nl}Derrote os monstros e use suas energias para manter a peça gelada.
+QUEST_LV_0100_20151102_010743	Aqui está um Unmelting Pedaço de Gelo Eterno Mágico.{nl}Isso é um peça de gelo injetado com um feitiço que mantém seu estado congelado.{nl}Derrote os monstros e use suas energias para manter a peça gelada.
 QUEST_LV_0100_20151102_010744	Derrote os monstros e use suas energias para manter a peça gelada.
 QUEST_LV_0100_20151102_010745	A magia é forte nessa peça de gelo.{nl}Impressionante. Você tem o que é preciso para lidar com a magia congelante.{nl}Agora, me observe com atenção.
 QUEST_LV_0100_20151102_010746	Você deseja aprender novas habilidades de um Archer?{nl}Tudo bem, mas vamos nos divertir um pouco primeiro. Vou te dar um simples teste.
@@ -13796,106 +13796,105 @@ QUEST_LV_0100_20151224_013797	O livro pedido pela Mestre Ranger pertence à Mest
 QUEST_LV_0100_20151224_013798	Fale com o Submestre Hoplite, na the West Siauliai Woods.
 QUEST_LV_0100_20151224_013799	Para o Submestre Hoplite, a lança mais querida por ele é fonte de orgulho. Refine uma lança até o nível 6.
 QUEST_LV_0100_20151224_013800	Informe os resultados para o Submestre Hoplite
-QUEST_LV_0100_20151224_013801	You have enhanced a piece of spear-type equipment to level 6. Show it to the Hoplite Submaster.
-QUEST_LV_0100_20151224_013802	Go to Siauliai Miners' Village and talk to the Psychokino Submaster.
-QUEST_LV_0100_20151224_013803	The Psychokino Submaster is going to help you prove your skills, but she wants some demon essence in return. Defeat some Minotaurs Chapparitions at the Gate Route to obtain demon essence.
-QUEST_LV_0100_20151224_013804	Deliver the essence to the Psychokino Submaster
-QUEST_LV_0100_20151224_013805	You have obtained the essence of both demons. Deliver it to the Psychokino Submaster.
-QUEST_LV_0100_20151224_013806	Talk to the Linker Submaster at Siauliai Miners' Village.
-QUEST_LV_0100_20151224_013807	Duel the Linker Submaster
-QUEST_LV_0100_20151224_013808	The Linker Master wants to test the quality of mana through dueling. Duel against the Linker Master and win.
-QUEST_LV_0100_20151224_013809	You can feel the quality of mana enhanced after dueling with the Linker Master. Talk to the Linker Master.
-QUEST_LV_0100_20151224_013810	Talk to the Wugushi Submaster
-QUEST_LV_0100_20151224_013811	Go to the Gateway of the Great King and talk to the Wugushi Submaster.
-QUEST_LV_0100_20151224_013812	Duel the Wugushi Submaster
-QUEST_LV_0100_20151224_013813	The Wugushi Master says that even if cowardly, the last one standing is the true winner of the combat. Duel with the Wugushi Master.
-QUEST_LV_0100_20151224_013814	You have defeated the Wugushi Submaster in a duel. Go talk to the Wugushi Submaster again.
-QUEST_LV_0100_20151224_013815	Talk to the Rodelero Submaster
-QUEST_LV_0100_20151224_013816	Go to the Gateway of the Great King and talk to the Rodelero Submaster.
-QUEST_LV_0100_20151224_013817	The Rodelero Submaster asked for a shield enhanced to level 4. Enhance a shield-type piece of equipment and show it to the Rodelero Submaster.
-QUEST_LV_0100_20151224_013818	Report to the Rodelero Submaster
-QUEST_LV_0100_20151224_013819	You sucessfully enhanced a shield-type piece of equipment to level 4. Report to the Rodelero Submaster.
-QUEST_LV_0100_20151224_013820	Talk to the Elementalist Submaster
-QUEST_LV_0100_20151224_013821	Go to Akmens Ridge and talk to the Elementalist Submaster.
-QUEST_LV_0100_20151224_013822	Complete the Elementalist Submaster's task
-QUEST_LV_0100_20151224_013823	Relay the task to the Elementalist Submaster
-QUEST_LV_0100_20151224_013824	You have successfully completed the Elementalist Submaster's task. Deliver the collected materials to the Elementalist Submaster.
-QUEST_LV_0100_20151224_013825	Talk to the Cataphract Submaster
-QUEST_LV_0100_20151224_013826	Go to the Gateway of the Great King and talk to the Cataphract Submaster.
-QUEST_LV_0100_20151224_013827	Defeat Sparnasman around the Vieta Gorge to prove your skills to the Cataphract Submaster.
-QUEST_LV_0100_20151224_013828	Report to the Cataphract Submaster
-QUEST_LV_0100_20151224_013829	You successfully defeated Sparnasman. Report to the Cataphract Submaster.
-QUEST_LV_0100_20151224_013830	Defeat Sparnasman
-QUEST_LV_0100_20151224_013831	Defeat Boowooks near a Royal Cube to absorb
-QUEST_LV_0100_20151224_013832	The Officer's Spirit is trying to make a human figure by tying the wooden legs. Let's collect rustling skins from Old Kepas.
-QUEST_LV_0100_20151224_013833	Defeat the monster chasing Toby
-QUEST_LV_0100_20151224_013834	The Archer Master wants to see whether you have what it takes to keep learning. Go to Crystal Mine 1F and collect the wings of Bats.
-QUEST_LV_0100_20151224_013835	As Seguidor Rikke said, after setting fire to the Panto Totem, the Pantos started taking orders. They helped defeat the Big Panto Spearman and the Old Talisman seems like it could be of use. Tell this to Rikke.
-QUEST_LV_0100_20151224_013836	Vincent is lazy and asked you to do his work for him. Finish the forgeries as he told you to. Blue smoke will appear when the forgery is complete in the mold.
-QUEST_LV_0100_20151224_013837	Investigate the Red Energy
-QUEST_LV_0100_20151224_013838	Some areas in Ashaq Underground Prison 3F are glowing with an eery red energy. Go and have a look at them.
-QUEST_LV_0100_20151224_013839	Defeat Cerberus
-QUEST_LV_0100_20151224_013840	Cerberus was called out by the red energy and broke free! Defeat it.
-QUEST_LV_0100_20151224_013841	Investigate Bastymosi Field
-QUEST_LV_0100_20151224_013842	Mardas told you to run because the surrounding areas are filled with demons. Go to Bastymosi Field and see what's really happening.
-QUEST_LV_0100_20151224_013843	The monsters seem to be using the Esculturas de Coruja to send the light beads to somewhere. Ask Mardas if he knows anything about it.
-QUEST_LV_0100_20151224_013844	Ask Mardas if he's ever seen the Esculturas de Coruja sending light beads anywhere.
-QUEST_LV_0100_20151224_013845	Follow the light bead to Bonewide Cliff
-QUEST_LV_0100_20151224_013846	The light beads were delivered to the Esculturas de Coruja on top of a slope. Turn around and follow them to Bonewide Cliff.
-QUEST_LV_0100_20151224_013847	Retrieve the Karolis Altar Crystal
-QUEST_LV_0100_20151224_013848	To save the Esculturas de Coruja possessed by the demons you must restore the energy of Karolis Forest. To do that, you'll have to reconstruct the Karolis Altar destroyed by the demons. Follow the will of the leading owls and find the Karolis Altar Crystal.
-QUEST_LV_0100_20151224_013849	To spread out the forest's divine force, you need to find and light up all of Karolis' light rays. Hurry and light up all four of Karolis' rays before their light dies out.
-QUEST_LV_0100_20151224_013850	Destroy the Torre de Controle Mental at Duoklu Hall
-QUEST_LV_0100_20151224_013851	Destroy the Torre de Controle Mental at Duoklu Hall with the power of the Esculturas de Coruja.
-QUEST_LV_0100_20151224_013852	Mardas is with the Escultura do Coruja Líder. Listen to what he was saying.
-QUEST_LV_0100_20151224_013853	To save the Guide Owl Sculptures at Letas Stream, go to the birthplace of Karolis, where the energy of Karolis Springs is stronger, and collect that energy.
-QUEST_LV_0100_20151224_013854	Find the Guide Owl Sculpture at Letas Stream
-QUEST_LV_0100_20151224_013855	The Escultura do Coruja Líder requested you gather the energy of Karolis Springs and deliver it to the Guide Owl Sculptures. Go find the Guide Owl Sculptures.
-QUEST_LV_0100_20151224_013856	The Escultura do Coruja Líder requested a divine branch of Letas in order to defeat the demons. Use the crystal containing the energy of Karolis Springs to find the holy tree of Letas and obtain a branch.
-QUEST_LV_0100_20151224_013857	Mardas seems to have finally found a solution after discussing with the Escultura do Coruja Líder. Listen to what Mardas has to say.
-QUEST_LV_0100_20151224_013858	Clear out the evil energy contaminating the forest
-QUEST_LV_0100_20151224_013859	The first thing to do is eliminate the evil energy contaminating the forest. Set up the Namott of Suppression around the evil energy to clear it out.
-QUEST_LV_0100_20151224_013860	You have cleared out all of the evil energy. Go back to Mardas and tell him about it.
-QUEST_LV_0100_20151224_013861	You have eliminated all of the evil energy. Talk to Mardas about what to do next.
-QUEST_LV_0100_20151224_013862	Remove the Surveillance Sphere Magic Circle 
-QUEST_LV_0100_20151224_013863	Mardas says you need to remove the magic circle keeping the Esferas de Vigilância in order to access the black energy that's absorbing the forest's own energy. Avoid the Esferas de Vigilância and destroy its magic circle.
-QUEST_LV_0100_20151224_013864	Remove the Black Energy
-QUEST_LV_0100_20151224_013865	At the end of the forked roads at Senyvas Yard, destroy the black energy that's absorbing the forest's own energy.
-QUEST_LV_0100_20151224_013866	The black energy has been completely removed. Go and tell Mardas.
-QUEST_LV_0100_20151224_013867	Remove all magic circles protecting the Soul Starvation
-QUEST_LV_0100_20151224_013868	Mardas says the magic circles protecting Soul Starvation must be removed. The circles must be removed in the correct order, or they will become active again. Control each circle to figure out the order and remove them accordingly.
-QUEST_LV_0100_20151224_013869	Remove the magic circles protecting the Soul Starvation
-QUEST_LV_0100_20151224_013870	Destroy the Soul Starvation with the Namott of Suppression
-QUEST_LV_0100_20151224_013871	You have defeated all the demons around. Use the power of the Namott of Suppression to destroy Soul Starvation.
-QUEST_LV_0100_20151224_013872	Defeat monsters to supply magic to the Locked Chest
-QUEST_LV_0100_20151224_013873	The chest is locked with an unknown force. Defeat some monsters around it to fill the chest with magic.
-QUEST_LV_0100_20151224_013874	You defeated the monsters in the Woods of the Linked Bridges. Go see the Wizard Submaster.
-QUEST_LV_0100_20151224_013875	Defeat monsters with the Fire Energy Bead
-QUEST_LV_0100_20151224_013876	The Pyromancer Submaster wants to test your affinity with fire energy. Defeat some monsters while under the magic of the Pyromancer Submaster.
-QUEST_LV_0100_20151224_013877	You have defeated the monsters. Go and ask the Pyromancer Submaster to evaluate your affinity with fire.
-QUEST_LV_0100_20151224_013878	Defeat monsters and replenish the Magical Piece of Ice
-QUEST_LV_0100_20151224_013879	The Cryomancer Submaster believes that every Cryomaster needs a talent for frost magic. To prove yourself, fill the unmelting magical piece of ice with magic.
-QUEST_LV_0100_20151224_013880	You have replenished the magical piece of ice without letting it melt. Go back to the Cryomancer Submaster.
-QUEST_LV_0100_20151224_013881	The Archer Submaster believes that being able to aim at an enemy from afar is important. Attack monsters by hitting them from a distance.
-QUEST_LV_0100_20151224_013882	The Archer Submaster should be satisfied with your perfomance. Go back to the Archer Submaster.
-QUEST_LV_0100_20151224_013883	The Ranger Submaster believes that the ability to fight multiple foes is what sets Rangers apart. Defeat a monster within 10 seconds after having defeated another.
-QUEST_LV_0100_20151224_013884	Your performance was good enough to impress the Ranger Submaster. Go back to the Ranger Submaster.
-QUEST_LV_0100_20151224_013885	Achieve Lv. 1 enhancement on a crossbow
-QUEST_LV_0100_20151224_013886	The Quarrel Shooter Submaster mentioned the importance of your weapon. Bring her a crossbow-type equipment enhanced to level 1.
-QUEST_LV_0100_20151224_013887	You have obtained a crossbow enhanced to level 1 or higher. Go see the Quarrel Shooter Submaster.
-QUEST_LV_0100_20151224_013888	You have listened to the advice of all the Wizard Masters in Orsha. Go back to the Wizard Submaster.
-QUEST_LV_0100_20151224_013889	Defeat monsters nearby the Pedra de Fogo Condensada
-QUEST_LV_0100_20151224_013890	The energy of fire feels a little stronger now. Go back to the Pyromancer Submaster.
-QUEST_LV_0100_20151224_013891	The Cyomancer Submaster believes you need to become more familiar with handling frost. Use the Tomo Congelado and defeat the monsters with increased ice property resistance.
-QUEST_LV_0100_20151224_013892	You have completed your training. Go back to the Cryomancer Submaster.
-QUEST_LV_0100_20151224_013893	Blow away monsters using the Psychokino Scroll
-QUEST_LV_0100_20151224_013894	The Psychokino Master believes that instead of a lecture you should see the power of the Psychokino with your own eyes. Use the Psychokino Scroll to blow away monsters.
-QUEST_LV_0100_20151224_013895	You are now aware of how it feels to use Psychokino magic. Go back to the Psychokino Master.
-QUEST_LV_0100_20151224_013896	According to the Linker Master, the magic of the Linkers starts with finding how to connect to your foe. She believes you can learn with practice, so attack monsters and try to find their point of connection.
-QUEST_LV_0100_20151224_013897	The point of connection was there, even if briefly. Go back to the Linker Master.
-QUEST_LV_0100_20151224_013898	Your test ends here. Go back and see the Archer Submaster.
-QUEST_LV_0100_20151224_013899	Collect Wall Restoration Stones
-QUEST_LV_0100_20151224_013900	The Ranger Submaster hopes that Rangers can help the people of Orsha by contributing to the city's reconstruction. Find some hard building stone in Koru Jungle and collect wall restoration stones.
+QUEST_LV_0100_20151224_013801	Você refinou uma lança até o nível 6. Mostre para o Submestre Hoplite.
+QUEST_LV_0100_20151224_013802	Vá até a Miners' Village e fale com a Submestre Psychokino.
+QUEST_LV_0100_20151224_013803	A Submestre Psychokino vai ajudar você a provar suas habilidades, mas ela quer essências demonícas como retorno. Derrote Minoutaur e Chapparition em Gate Route para obter isto.
+QUEST_LV_0100_20151224_013804	Entregue as essências para a Submestre Psychokino
+QUEST_LV_0100_20151224_013805	Você obteve a essência de ambos os demônios. Entregue para a Submestre Psychokino.
+QUEST_LV_0100_20151224_013806	Fale com a Submestre Linker, na Miners' Village.
+QUEST_LV_0100_20151224_013807	Duele contra a Submestre Linker
+QUEST_LV_0100_20151224_013808	A Mestre Linker quer testar a qualidade da mana através de um duelo. Enfrente e vença a Mestre Linker.
+QUEST_LV_0100_20151224_013809	Vocô pode sentir a qualidade da mana refinada após o duelo contra a Mestre Linker. Fale com ela.
+QUEST_LV_0100_20151224_013810	Fale com a Submstre Wugushi
+QUEST_LV_0100_20151224_013811	Vá até Gateway of the Great King e fale com a Submestre Wugushi.
+QUEST_LV_0100_20151224_013812	Duele contra a Submestre Wugushi
+QUEST_LV_0100_20151224_013813	A Mestre Wugushi disse que, mesmo que covardemente, o último que ficar de pé é o verdadeiro vencedor do combate. Duele contra a Mestre Wugushi.
+QUEST_LV_0100_20151224_013814	Você derrotou a Submestre Wugushi em um duelo. Fale com ela novamente.
+QUEST_LV_0100_20151224_013815	Fale com o Submestre Rodelero
+QUEST_LV_0100_20151224_013816	Vá até Gateway of the Great King e fale com o Submestre Rodelero.
+QUEST_LV_0100_20151224_013817	O Submestre Rodelero pediu por um escudo refinado até o nível 4. Faça o refino em um escudo e leve até ele.
+QUEST_LV_0100_20151224_013818	Retorne ao Submestre Rodelero
+QUEST_LV_0100_20151224_013819	Você refinou com sucesso um escudo até o nível 4. Retorne para o Submestre Rodelero.
+QUEST_LV_0100_20151224_013820	Fale com o Submestre Elementalist
+QUEST_LV_0100_20151224_013821	Vá até Akmens Ridge e fale com o Submestre Elementalist.
+QUEST_LV_0100_20151224_013822	Complete a terafa do Submestre Elementalist
+QUEST_LV_0100_20151224_013823	Retorne a tarefa para o Submestre Elementalist
+QUEST_LV_0100_20151224_013824	Você completou com sucesso a tarefa do Submestre Elementalist. Entregue os materiais coletados para ele.
+QUEST_LV_0100_20151224_013825	Fale com o Submestre Cataphract
+QUEST_LV_0100_20151224_013826	Vá até Gateway of the Great King e fale com o Submestre Cataphract
+QUEST_LV_0100_20151224_013827	Derrote o Sparnasman, em Vieta Gorge, para provar suas habilidades ao Submestre Cataphract.
+QUEST_LV_0100_20151224_013828	Retorne ao Submestre Cataphract
+QUEST_LV_0100_20151224_013829	Você derrotou o Sparnasman. Retorne para o Submestre Cataphract.
+QUEST_LV_0100_20151224_013830	Derrote o Sparnasman
+QUEST_LV_0100_20151224_013831	Derrote Boowooks próximo do Royal Cube para absorvê-los
+QUEST_LV_0100_20151224_013832	O Espírito do Oficial está tentando fazer uma figura humana através de madeira. Vamos coletar Rustling Skins dos Old Kepas.
+QUEST_LV_0100_20151224_013833	Derrote os monstros que estão perseguindo o Toby
+QUEST_LV_0100_20151224_013834	O Mestre Archer quer ver se você tem o que é preciso para aprender. Vá até Crystal Mine 1F e derrote Bats.
+QUEST_LV_0100_20151224_013835	Como disse o Seguidor Rikke, após colocar fogo no Totem dos Panto, os próprios Pantos começaram a receber ordens. Eles ajudaram a derrotar o Big Panto Spearman e o Old Talisman parece que pode ter um uso. Informe isso para o Rikke.
+QUEST_LV_0100_20151224_013836	Vincent é preguiçoso e pediu para você fazer o trabalho por ele. Termine o que ele pediu. Uma fumaça azul aparecerá quando o processo estiver completo.
+QUEST_LV_0100_20151224_013837	Investigue a Energia Vermelha
+QUEST_LV_0100_20151224_013838	Algumas áreas de Ashaq Underground Prison 3F estão brilhando com uma energia sinistra. Vá investigá-las.
+QUEST_LV_0100_20151224_013839	Derrote o Cerberus
+QUEST_LV_0100_20151224_013840	Cerberys foi atraído pela energia vermelha e fico livre! Derrote-o!
+QUEST_LV_0100_20151224_013841	Investigue Bastymosi Field
+QUEST_LV_0100_20151224_013842	Mardas disse para você correr porque as áreas ao redor estão cheias de demônios. Vá até Bastymosi Field e veja o que está acontecendo de fato.
+QUEST_LV_0100_20151224_013843	Parece que os monstros estão usando as Esculturas de Coruja para enviar as luzes para algum outro lugar. Pergunte ao Mardas se ele sabe de alguma coisa.
+QUEST_LV_0100_20151224_013844	Pergunte ao Mardas se ele já viu as Esculturas de Coruja enviando as luzes para outro lugar.
+QUEST_LV_0100_20151224_013845	Siga as luzes até Bonewide Cliff
+QUEST_LV_0100_20151224_013846	As luzes foram levadas para as Esculturas de Coruja no topo da colina. Volte e siga elas em Bonewide Cliff.
+QUEST_LV_0100_20151224_013847	Retorne o Karolis Altar Crystal
+QUEST_LV_0100_20151224_013848	Para salvar as Esculturas de Coruja possuídas pelos demônios, você precisa restaurar a energia da Karolis Forest. Para fazer isso, você precis reconstruir o Karolis Altar, destruído pelos demônios.
+QUEST_LV_0100_20151224_013849	Para espalhar a força divina da floresta, você precisa encontrar e reativar as luzes de Karolis.
+QUEST_LV_0100_20151224_013850	Destrua a Torre de Controle Mental, no Duoklu Hall
+QUEST_LV_0100_20151224_013851	Destrua a Torre de Controle Mental, no Duoklu Hall, com o poder das Esculturas de Coruja.
+QUEST_LV_0100_20151224_013852	Mardas está com a Escultura do Coruja Líder. Escute o que eles estão falando.
+QUEST_LV_0100_20151224_013853	Para salvar as Esculturas da Coruja Guia de Letas Stream, vá até a origem de Karolis, onde a energia de Karolis Springs é mais forte, e obenha esta energia.
+QUEST_LV_0100_20151224_013854	Encontre a Escultura da Coruja Guia em Letas Stream
+QUEST_LV_0100_20151224_013855	A Escultura do Coruja Líder pediu que você reunisse a energia de Karolis Springs e leve isso até as Esculturas da Coruja Guia. Vá procurar as Esculturas da Coruja Guia.		
+QUEST_LV_0100_20151224_013856	A Escultura do Coruja Líder pediu um galho divino de Letas para poder derrotar os demônios. Use o cristal contendo a energia de Karolis Springs para encontrar a árvore sagrada de Letas e obter um galho.
+QUEST_LV_0100_20151224_013857	Mardas parece que encontrou, finalmente, uma solução após conversar com a Escultura do Coruja Líder. Escute o que Mardas tem a dizer.
+QUEST_LV_0100_20151224_013858	Elimine a energia maligna contaminando a floresta
+QUEST_LV_0100_20151224_013859	A primeira coisa a fazer é eliminar a energia maligna que contamina a floresta. Coloque o Namott of Suppression próximo da energia maligna para removê-la.
+QUEST_LV_0100_20151224_013860	Você removeu toda a energia maligna. Retorne para Mardas e informe a situação.
+QUEST_LV_0100_20151224_013861	Você removeu toda a energia maligna. Fale com Mardas sobre o que fazer agora.
+QUEST_LV_0100_20151224_013862	Remova o Círculo Mágico da Esfera de Vigilância
+QUEST_LV_0100_20151224_013863	Mardas disse que você precisa remover o círculo mágico que mantém as Esferas de Vigilância para acessar a energia escura que absorve a energia da própria floresta. Evite as Esferas de Vigilância e destrua o círculo mágico.
+QUEST_LV_0100_20151224_013865	No final da bifurcação de Senyvas Yard, remova a energia negra que aborve a energia da própria floresta.	
+QUEST_LV_0100_20151224_013866	A energia negra foi removida. Avise Mardas sobre isso.
+QUEST_LV_0100_20151224_013867	Remova todos os círculos mágicos protegento a Soul Starvation
+QUEST_LV_0100_20151224_013868	Mardas disse que os círculos mágicos que protegem a Soul Starvation devem ser removidos. Os círculos devem ser removidos em ordem correta, ou eles serão ativados novamente. Controle cada círculo para descobrir a ordem correta.
+QUEST_LV_0100_20151224_013869	Remova os círculos mágicos protegendo a Soul Starvation
+QUEST_LV_0100_20151224_013870	Destrua a Soul Starvation com o Namott of Suppression
+QUEST_LV_0100_20151224_013871	Você derrotou todos os demônios na volta. Use o poder do Namott of Suppression para destruir a Soul Starvation.
+QUEST_LV_0100_20151224_013872	Derrote os montros para garantir poder mágico ao Baú Trancado
+QUEST_LV_0100_20151224_013873	O baú está trancado com uma força desconhecida. Derrote alguns montros ao redor para preencher o baú com magia.
+QUEST_LV_0100_20151224_013874	Você derrotou os monstros em Woods of the Linked Bridges. Fale com a Submestre Wizard.
+QUEST_LV_0100_20151224_013875	Derrote monstros com a Fire Energy Bead
+QUEST_LV_0100_20151224_013876	A Submestre Pyromancer quer testar a sua afinidade com energia de fogo. Derrote alguns monstros sob o efeito da magia da Submestre Pyromancer.
+QUEST_LV_0100_20151224_013877	Você derrotou os montros. Peça para a Submestre Pyromancer avaliar a sua afinidade com o fogo.
+QUEST_LV_0100_20151224_013878	Derrote os monstros para preencher o Pedaço de Gelo Eterno Mágico	
+QUEST_LV_0100_20151224_013879	A Submestre Cryomancer acredita que todo o Cryomancer precisa ter talento para magia congelante. Para provar isso, preencha o Pedaço de Gelo Eterno Mágico com magia.
+QUEST_LV_0100_20151224_013880	Você preencheu o Pedaço de Gelo Eterno Mágico sem deixar que deretesse. Retorne para a Submestre Cryomancer.
+QUEST_LV_0100_20151224_013881	O Submestre Archer acredita que ser capaz de mirar no inimigo a distância é muito importante. Ataque montros acertando eles de uma certa distância.
+QUEST_LV_0100_20151224_013882	O Submestre Archer deve ficar satisfeito com a sua performance. Retorne até ele.
+QUEST_LV_0100_20151224_013883	A Submestre Ranger acredita que a habilidade de lutar contra diversos inimigos é o que diferencia um Ranger. Derrote um monstro dentro de 10 segundos após derrotar outro.
+QUEST_LV_0100_20151224_013884	A sua performance foi boa o suficiente para impressionar a Submestre Ranger. Fale com ela.
+QUEST_LV_0100_20151224_013885	Alcance o nível 1 de refino em uma Besta
+QUEST_LV_0100_20151224_013886	A Submestre Quarrel Shooter mencionou a importância da sua arma. Traga para ela uma arma do tipo Besta refinada no nível 1.
+QUEST_LV_0100_20151224_013887	Você obteve uma Besta refinada até o nível 1 ou maior. Fale com a Submestre Quarrel Shooter.
+QUEST_LV_0100_20151224_013888	Você ouviu o conselho de todos os Mestres Wizard de Orsha. Fale com a Submestre Wizard.
+QUEST_LV_0100_20151224_013889	Derrote montros próximos da Pedra de Fogo Condensada
+QUEST_LV_0100_20151224_013890	A energia do fogo parece mais forte agora. Volte para a Submestre Pyromancer.
+QUEST_LV_0100_20151224_013891	A Submestre Cryomancer acredita que você precisa ser mais familiarizado na lida com o gelo. Use o Tomo Congelado e derrote os monstros com maior resistência à gelo.
+QUEST_LV_0100_20151224_013892	Você completou o seu treino. Fale com a Submestre Cryomancer.
+QUEST_LV_0100_20151224_013893	Derrote monstros utilizando o Pergaminho de Psychokino
+QUEST_LV_0100_20151224_013894	O Mestre Psychokino acredita que, ao invés de uma aula, você deveria ver o poder de um Psychokino com os seus próprios olhos. Use o Pergaminho de Psychokino para derrotar os monstros.
+QUEST_LV_0100_20151224_013895	Você agora sabe como que funciona a magia de um Psychokino. Retorne ao Mestre Psychokino.
+QUEST_LV_0100_20151224_013896	De acordo com a Mestre Linker, as capacidades dos Linkers iniciam por encontrar uma forma de se conectar com os alvos. Ela acredita que você pode aprender esta prática, então ataque monstros e tente encontrar o ponto de conexão deles.
+QUEST_LV_0100_20151224_013897	O ponde de conexão estava lá, mesmo que rapidamente. Retorne para a Mestre Linker.
+QUEST_LV_0100_20151224_013898	O seu teste termina aqui. Retorne para o Submestre Archer.
+QUEST_LV_0100_20151224_013899	Obtenha Pedras de Restauração da Muralha
+QUEST_LV_0100_20151224_013900	A Submestre Ranger espera que os Rangers possam ajudar as pessoas de Orsha contribuindo com a reconstrução da cidade. Encontre algumas pedras para reconstrução em Koru Jungle.
 QUEST_LV_0100_20151224_013901	You seem to have enough stones now. Go back to the Ranger Submaster.
 QUEST_LV_0100_20151224_013902	Obtain Sticky Plant Sap from Plant-type monsters
 QUEST_LV_0100_20151224_013903	The Quarrel Master requested you collect some material to join the wall restoration stones. Defeat plant-type monsters to obtain their sticky sap. The stronger the plant-type monster, the higher the chances of obtaining sap.
