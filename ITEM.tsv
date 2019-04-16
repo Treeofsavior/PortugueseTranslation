@@ -19764,7 +19764,7 @@ ITEM_20181017_019749	Armas como esta, com baixo poder de corte, podem terminar f
 ITEM_20181017_019750	Asio Rapier
 ITEM_20181017_019751	 - Nível de [Epee Garde] {img green_up_arrow 16 16}2
 ITEM_20181017_019752	Apesar da Pervading Queen ter sido a projetista original desta arma, o Asiomage é quem está atualmente desenvolvendo ela. A Pervading Queen perdeu o interesse, há muito tempo, na produção de equipamentos.
-ITEM_20181017_019753	  - Nível de [Sweeping Cannon] {img green_up_arrow 16 16}1{nl}  - Nível de [Cannon Barrage] {img green_up_arrow 16 16}1
+ITEM_20181017_019753	 - Nível de [Sweeping Cannon] {img green_up_arrow 16 16}1{nl} - Nível de [Cannon Barrage] {img green_up_arrow 16 16}1
 ITEM_20181017_019754	Wastrel Zvaigzde Cannon
 ITEM_20181017_019755	 - Ataques sob efeito de [Bazooka] garantem 10% de chance de aplicar o mesmo dano do ataque anterior.
 ITEM_20181017_019756	Vendo como várias armas foram absorvidas para dentro do corpo do Wastrel, alguém poderia pensar que ao menos algumas delas seriam incorporadas dentro dele.
@@ -20127,7 +20127,7 @@ ITEM_20190104_020112	Ignas Leather Armor
 ITEM_20190104_020113	 - Ativa [Investida] ao equipar{nl} {nl}[Investida]{nl} - Ativa [Ignas - Investida] ao atacar escondido.{nl} {nl}[Ignas - Investida]{nl} - Ataque Crítico Físico e Mágico +(300 * Acúmulo de [Investida]).{nl} - (10s de duração).
 ITEM_20190104_020114	Ninguém sabe exatamente o por quê do Ignas produzir diferentes peças de equipamento de materiais tão variados. Alguns acreditam que ele tinha a intenção de avançar contra outros inimigos além da Resistência.
 ITEM_20190104_020115	Ignas Plate Armor
-ITEM_20190104_020116	 - Ativa [Ira] ao equipar{nl} {nl}[Ira]{nl} - (5 * Acúmulos)% de chance de ativar [Ignas - Ira] ao ser atacado.{nl} {nl}[Ignas - Ira]{nl} - Ataque Máximo + 250 (máx. 3 acúmulos, 10s de duração).{nl} - Incapaz de Evadir ou Bloquear.
+ITEM_20190104_020116	 - Ativa [Ira] ao equipar{nl} {nl}[Ira]{nl} - (5 * Acúmulos)% de chance de ativar [Ignas - Ira] ao ser atacado.{nl} {nl}[Ignas - Ira]{nl} - Ataque Máximo + 250 (máx. 3 acúmulos, 10s de duração).
 ITEM_20190104_020117	Considerando que a Astral Tower fica localizada no meio de um lago, as chances de um ataque surpresa são significativamente baixas. Isto leva a imaginar, então, quais as intenções do Ignas por trás da confecção desta armadura de metal.
 ITEM_20190104_020118	Ignas Pants
 ITEM_20190104_020119	 - Ativa [Ignas - Imunidade] ao equipar{nl} {nl}[Ignas - Imunidade]{nl} - (2.5 * Acúmulos de [Ignas - Imunidade])% de chance de resistir efeitos negativos de Nível 2 ou menores.

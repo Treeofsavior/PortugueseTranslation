@@ -2100,7 +2100,7 @@ UI_20160224_002098	Remaining Bidding Time
 UI_20160224_002099	Item Dice
 UI_20160224_002100	{@st42}Benefícios de %s{/}
 UI_20160224_002101	Este item desaparecerá do seu inventário{nl}e todos os %s serão redefinidos.{/}
-UI_20160224_002102	Tempo Restante é exibido nas configurações do personagem.{/}
+UI_20160224_002102	Tempo Restante exibido nas configurações do personagem.{/}
 UI_20160224_002103	Retrieving data.
 UI_20160224_002104	{@st66b}Ranking{/}
 UI_20160224_002105	{@st66b}Spectate
@@ -2444,7 +2444,7 @@ UI_20161107_002442	Medalhas Consumidas
 UI_20161107_002443	Medalhas Obtidas
 UI_20161108_002444	{@st43}%s obtido!{/}
 UI_20161108_002445	{@st42b}Open Goddess' Blessed Cube X %s
-UI_20161108_002446	{@st42b}Abrir Cubo Secreto da Leticia X %s
+UI_20161108_002446	{@st42b}Abrir Leticia Secret Cube X %s
 UI_20161108_002447	{@st41}Open Compensation Cube
 UI_20161108_002448	{@st59}Fechar{/}
 UI_20161108_002449	{@st66b}Poderá obter algo misterioso{nl}quando abrir.{/}
@@ -3470,8 +3470,8 @@ UI_20180827_003469	{s18}Cronômetro da tela principal
 UI_20180827_003470	{@st66b}Reverb ON/OFF{/}	{@st66b}잔향효과 ON/OFF{/}			
 UI_20180827_003471	{@st59}Aplicar Reverb.{/}	{@st59}잔향효과를 적용하려면 체크해 주세요.{/}			
 UI_20180827_003472	{@st66b}Ver Animação de Itens
-UI_20180827_003473	 - Usar este item?
-UI_20180827_003474	Ele será removido de %s e aplicado apenas a %s.{/}	
+UI_20180827_003473	{nl}Usar este item?
+UI_20180827_003474	Será removido de %s e aplicado apenas a %s.{/}	
 UI_20180827_003475	Ver Tela Animada			
 UI_20180827_003476	{@st41b}Comprar{/}
 UI_20180827_003477	Search crafting materials.	제작서에 필요한 재료를 검색합니다.			
