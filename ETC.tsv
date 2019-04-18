@@ -4968,7 +4968,7 @@ ETC_20150317_004967	Igniting
 ETC_20150317_004968	 x TreeAmbulo sap obtained!
 ETC_20150317_004969	Attached the sap collector!
 ETC_20150317_004970	Read Ruklys' memorial tombstone.
-ETC_20150317_004971	Console him
+ETC_20150317_004971	Consolar
 ETC_20150317_004972	You've dispelled the Demon Summoning Circle.{nl}Report back to Follower Kayetonas!
 ETC_20150317_004973	Obtained Long-Branched Tree Charcoal!
 ETC_20150317_004974	Not enough Long-Branched Tree Charcoal.
@@ -10322,7 +10322,7 @@ ETC_20150323_010323	Doesn't feel good.
 ETC_20150323_010324	You can feel something not good from the greenery
 ETC_20150323_010325	Demon Summoning Crystal
 ETC_20150323_010326	Buff Removal Item
-ETC_20150323_010327	This item is currently equipped.
+ETC_20150323_010327	O item está em uso no momento.
 ETC_20150323_010328	You cannot add more than one of each type.
 ETC_20150323_010329	The buyer does not want this item.
 ETC_20150323_010330	Tem certeza que quer vender esse item?
@@ -11552,9 +11552,9 @@ ETC_20150428_011553	The Helper was let go.
 ETC_20150428_011554	You've already hired a Helper.
 ETC_20150428_011555	Só pode ser adicionado na NPC Sociedade Mágica de Klaipeda.
 ETC_20150428_011556	This cannot be used while moving.
-ETC_20150428_011557	You do not have enough SP.
-ETC_20150428_011558	You do not have enough STA.
-ETC_20150428_011559	You do not have enough HP.
+ETC_20150428_011557	Você não tem SP suficiente.
+ETC_20150428_011558	Você não tem Stamina suficiente.
+ETC_20150428_011559	Você não tem HP suficiente.
 ETC_20150428_011560	There is no target in sight.
 ETC_20150428_011561	Insufficient items available for skill use.
 ETC_20150428_011562	[Moving Validation Error] Too fast.
@@ -12516,17 +12516,17 @@ ETC_20150714_012517	End the conversation
 ETC_20150714_012518	It seems that there isn't anything that you can feel magical power from
 ETC_20150714_012519	You can sense strong magical power somewhere
 ETC_20150714_012520	This magic generating stone is fake!{nl}All the stones are starting to supply the magical power again
-ETC_20150714_012521	Checking the responses of Balryus to the magical power
+ETC_20150714_012521	Checking the responses of Valius to the magical power
 ETC_20150714_012522	You've found the real magic generating stone!
-ETC_20150714_012523	It doesn't react to the magical power of Balryus
+ETC_20150714_012523	It doesn't react to the magical power of Valius
 ETC_20150714_012524	Blocking the magical power of magic generating stones
 ETC_20150714_012525	This stone has been already blocked
 ETC_20150714_012526	Magic generating stones are reacting to the magical power of Malryus and all the stones started to supply the magical power
-ETC_20150714_012527	Injecting the magical power into Balryus
+ETC_20150714_012527	Injecting the magical power into Valius
 ETC_20150714_012528	This is the lamp which is already injected with magical power
-ETC_20150714_012529	The magical power of Balryus should be injected to the lamp of the proof for the artifacts of Balryus{nl}Use the Brooch that is endowed with the magical power of Balryus
+ETC_20150714_012529	The magical power of Valius should be injected to the lamp of the proof for the artifacts of Valius{nl}Use the Brooch that is endowed with the magical power of Valius
 ETC_20150714_012530	Using the seal
-ETC_20150714_012531	All the seals of the lamps has been released{nl}Obtain the artifacts of Balryus
+ETC_20150714_012531	All the seals of the lamps has been released{nl}Obtain the artifacts of Valius
 ETC_20150714_012532	The evil energy has been already suppressed!
 ETC_20150714_012533	There is heavy interference by Naktis' servants!
 ETC_20150714_012534	The door may open.
@@ -19344,7 +19344,7 @@ ETC_20151224_019338	The flame of Sequoia has found you
 ETC_20151224_019339	Sequoia fell asleep to recover its HP{nl}Derrote Sequoia to prevent it from recovering HP
 ETC_20151224_019340	You've defeated the monster{nl}(
 ETC_20151224_019341	You've defeated Bearkaras!{nl}Search for the parts nearby the Spare Purifier
-ETC_20151224_019342	The magical power of Valius should be injected to the lamp of the proof for the artifacts of Valius{nl}Use the Brooch that is endowed with the magical power of Balryus
+ETC_20151224_019342	The magical power of Valius should be injected to the lamp of the proof for the artifacts of Valius{nl}Use the Brooch that is endowed with the magical power of Valius
 ETC_20151224_019343	Collecting the Fruit-smelling fragment
 ETC_20151224_019344	You've collected the Fruit-smelling fragment
 ETC_20151224_019345	A monster is that already has the fragment
@@ -19848,7 +19848,7 @@ ETC_20151224_019842	Your Token has already been activated.
 ETC_20151224_019843	Premium goodies have arrived in your Lodge.{nl}Please retrieve them at your Lodge.
 ETC_20151224_019844	 the item
 ETC_20151224_019845	Character
-ETC_20151224_019846	Server Team
+ETC_20151224_019846	Time do Servidor
 ETC_20151224_019847	This item will be bound to you upon purchase.{nl}Are you sure you want to buy?
 ETC_20151224_019848	Are you sure you want to{nl}add the following item to the Market?
 ETC_20151224_019849	Este item não pode ser vendido em NPCs.
@@ -24001,7 +24001,7 @@ ETC_20160811_023995	You require protection magic to meet Goddess Dalia.
 ETC_20160811_023996	Step on the next magic circle once the previous one disappears.
 ETC_20160811_023997	One magic circle will not be enough.
 ETC_20160811_023998	Purifying the Kupole's Darkness
-ETC_20160811_023999	Supressing Evil Energies
+ETC_20160811_023999	Suppressing Evil Energies
 ETC_20160811_024000	There are some Kupole's that are tainted by Goddess Dalia's Darkness...
 ETC_20160811_024001	Destroy all Evil Idols that you have fount
 ETC_20160811_024002	Absorb the spirit of the Goddess when you find it
@@ -24841,7 +24841,7 @@ ETC_20161005_024835	Nullify damage
 ETC_20161005_024836	This monster does not take any damage
 ETC_20161005_024837	Monster rampage rejuvenation
 ETC_20161005_024838	Protected by magic.
-ETC_20161005_024839	The divine energy is supressing the evil energy.
+ETC_20161005_024839	The divine energy is suppressing the evil energy.
 ETC_20161005_024840	Smell
 ETC_20161005_024841	You can smell monster A
 ETC_20161005_024842	Search
@@ -28758,7 +28758,7 @@ ETC_20170912_028731	500 Attribute Points (TBL)
 ETC_20170912_028732	100 Attribute Points (TBL)
 ETC_20170912_028733	Enchant Scroll Box (x10)
 ETC_20170912_028734	Right-click to obtain the following items:{nl} - Enchant Scroll x10
-ETC_20170912_028735	Cubo Secreto da Leticia
+ETC_20170912_028735	Leticia Secret Cube
 ETC_20170912_028736	Gele Plateau Barrier (HP UI)
 ETC_20170912_028737	Torre do Território
 ETC_20170912_028738	Compre itens de Guilda e Templar
@@ -29000,8 +29000,8 @@ ETC_20170912_028973	5 minutos restantes.
 ETC_20170912_028974	1 minuto restante.
 ETC_20170912_028975	Você já encontrou muitos produtos. {Nl}Continue procurando por algum que você possa ter perdido!
 ETC_20170912_028976	Gimmick termina em breve.
-ETC_20170912_028977	Queime todas as culturas mortas!
-ETC_20170912_028978	Culturas Mortas e Murchas
+ETC_20170912_028977	Burn all the dead crops!
+ETC_20170912_028978	Withered Dead Crops
 ETC_20170912_028979	The burning crops intensified the fire!{nl}For 90 seconds, acquire twice as much!
 ETC_20170912_028980	You've dealt with almost all of the crops!{nl}For 90 seconds, acquire twice as much with increased movement and collecting speed!
 ETC_20170912_028981	Você queimou todas as culturas mortas!{Nl}Retorne ao colonizador para sua recompensa!
@@ -31751,7 +31751,7 @@ ETC_20180320_031719	After all the participants are gathered, you can interact wi
 ETC_20180320_031720	{nl}According to the kind of Guild Quest,{nl}you will receive different rewards.{nl}You can get guild currency{nl}to upgrade your guild, or{nl}items to grow on your Guild Hangout.
 ETC_20180320_031721	Rewards are sent to the guild storage, and can be distributed to guild members by the guild master.
 ETC_20180320_031722	Cards can be unequipped without the loss of level by using silver.{nl}Card Level *2,000 silver is consumed.
-ETC_20180320_031723	Legend Card
+ETC_20180320_031723	Carta Lendária
 ETC_20180320_031724	Legend cards can be equipped to obtain special beneficial effects.
 ETC_20180320_031725	Legend Card can be obtained through features such as raids, Demon Lord field bosses, Guild Quests, etc.
 ETC_20180320_031726	{nl} {nl}The Legend Card Slot is locked.
@@ -37136,7 +37136,7 @@ ETC_20190104_037050	Activates the stacking Porapore - Roast buff for 8 seconds w
 ETC_20190104_037051	Magic Attack {img green_up_arrow 16 16}571{nl}Magic Critical Attack {img green_up_arrow 16 16}69	마법 공격력 {img green_up_arrow 16 16}571 증가{nl} 마법 치명타 공격력 {img green_up_arrow 16 16}69 증가	ETC_20180517_032707	Magic Attack {img green_up_arrow 16 16}571{nl}Magic Amplification {img green_up_arrow 16 16}69	마법 공격력 {img green_up_arrow 16 16}571 증가{nl} 마법증폭 {img green_up_arrow 16 16}69 증가
 ETC_20190104_037052	Physical Critical Attack {img green_up_arrow 16 16}225{nl}Accuracy {img green_up_arrow 16 16}100	물리 치명타 공격력 {img green_up_arrow 16 16}225 증가{nl}명중 {img green_up_arrow 16 16}100 증가	ETC_20180517_032708	Critical Attack {img green_up_arrow 16 16}225{nl}Accuracy {img green_up_arrow 16 16}100	치명타 공격력 {img green_up_arrow 16 16}225 증가{nl}명중 {img green_up_arrow 16 16}100 증가
 ETC_20190104_037053	Magic Critical Attack {img green_up_arrow 16 16}60	마법 치명타 공격력 {img green_up_arrow 16 16}60 증가	ETC_20180517_032716	Magic Amplification {img green_up_arrow 16 16}60	마법 증폭 {img green_up_arrow 16 16}60 증가	
-ETC_20190104_037054	AoE Attack Ratio {img green_up_arrow 16 16}1{nl}Physical critical attack {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl} 물리 치명타 공격력 {img green_up_arrow 16 16}231	ETC_20180517_032720	AoE Attack Ratio {img green_up_arrow 16 16}1{nl}Critical Attack {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl} 치명타 공격력 {img green_up_arrow 16 16}231
+ETC_20190104_037054	AoE Attack Ratio {img green_up_arrow 16 16}1{nl}Physical Critical Attack {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl} 물리 치명타 공격력 {img green_up_arrow 16 16}231	ETC_20180517_032720	AoE Attack Ratio {img green_up_arrow 16 16}1{nl}Critical Attack {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl} 치명타 공격력 {img green_up_arrow 16 16}231
 ETC_20190104_037055	Drakonas Kite Moor Set	드라코나스 카이트 무어 세트			
 ETC_20190104_037056	Resistance to Poison, Fire, Ice, Electricity, Dark, Psychokinesis, Holy and Earth property attacks {img green_up_arrow 16 16}150	독, 불, 얼음, 전기, 독, 어둠, 신성, 땅, 염 속성 저항력 {img green_up_arrow 16 16}150 증가				
 ETC_20190104_037057	Increases the additional Holy-property damage on every attack by a value equal to your property resistance.{nl}- Properties: Poison, Fire, Ice, Electricity, Poison, Dark, Holy, Earth, Psychokinesis (max. 1,500 increase){nl} {nl}Dragon Strength Lv 2 Effects{nl}Additional Holy-property damage increased by a value equal to 8% of your magic defense (max. 4,000 increase).	공격시 속성 저항력만큼 신성 속성 추가 대미지 증가 {nl}- 적용 속성: 독, 불, 얼음, 전기, 독, 어둠, 신성, 땅, 염(최대: 1,500 증가){nl} {nl}드래곤 기운 2단계 효과{nl}마법 방어력의 8%만큼 신성 속성 공격력이 증가합니다.(최대 4,000 증가)			
@@ -37755,7 +37755,7 @@ ETC_20190104_037669	Check Next Collection Compensation List	다음 컬렉션 보
 ETC_20190104_037670	{Auto_1} collection(s) acquired	획득한 컬렉션 {Auto_1}	ETC_20150317_002873	{Auto_1} collection(s) acquired	획득한 콜렉션 {Auto_1}
 ETC_20190104_037671	{Auto_1} collection(s) completed	완성한 컬렉션 {Auto_1}	ETC_20150317_002877	{Auto_1} collection(s) completed	완성한 콜렉션 {Auto_1}
 ETC_20190104_037672	Level {LV} or higher are allowed.	{LEVEL}레벨 이상만 참여 가능합니다.			
-ETC_20190104_037673	{ID_NAME} (Nv. mínimo: {ID_LV}, 1 avanço de classe)
+ETC_20190104_037673	{ID_NAME} (Nível Mínimo: {ID_LV})
 ETC_20190104_037674	{nl}Avançar para a classe?{nl}(Esta escolha só poderá ser alterada através de Mudança de Classe)
 ETC_20190104_037675	{@st44}Info do próximo Avanço de Classe
 ETC_20190104_037676	{@st59}Aumenta Ataque Físico{/}
@@ -40936,7 +40936,7 @@ ETC_20190223_040850	Recompensas Diárias de Fevereiro
 ETC_20190223_040851	Recompensas Diárias de Março
 ETC_20190223_040852	Irredian Shelter PC Session
 ETC_20190223_040853	Aumenta o ataque elemental em proporção ao valor equipavente à resistência do elemento{nl}- Elementos afetados: Fogo, Gelo, Raio, Terra, Trevas, Divino e Psíquico{nl}- Máximo 300 por elemento
-ETC_20190223_040854	Resistência contra ataques dos elementos Fogo, Gelo, Terra, Raio, Trevas, Divino e Psíquico {img green_up_arrow 16 16}150
+ETC_20190223_040854	Resistência contra ataques dos elementos Fogo, Gelo, Terra, Raio, Veneno, Trevas, Divino e Psíquico {img green_up_arrow 16 16}150
 ETC_20190223_040855	Aumenta o Dano Adicional: Divino, para cada ataque, em um valor igual ao da sua resistência elemental.{nl}- Elementos: Fogo, Gelo, Raio, Terra, Veneno, Trevas, Divino e Psíquico (aumento máximo 1.500){nl} {nl}Efeito de Dragon Strength Nv 2{nl}Dano Adicional: Divino aumenta em 8% da sua Defesa Mágica (aumento máximo 4.000).
 ETC_20190223_040856	Conjunto Abyss Irredian
 ETC_20190223_040857	5% de chance de ativar [Abyss - Fúria] ao ser atacado.{nl} {nl}[Abyss - Fúria]{nl}Aumenta a Taxa de Crítico em 10% por 5 segundos (aumento máximo de 200)
@@ -41114,4 +41114,30 @@ ETC_20190405_041028	Derrote Throneweaver.
 ETC_20190405_041029	Missão concluída: retornando em 30 segundos.
 ETC_20190409_041030	Fechar a Janela do Enchant Scroll.
 ETC_20190409_041031	Fechar a Janela do Artisan Enchant Scroll.
-
+ETC_20190412_041032	Sujeira Magnética
+ETC_20190412_041033	Dark Energy Package
+ETC_20190412_041034	Clique com o botão direito do mouse para obter os seguintes itens:{nl} - Shining 8-Star Gem Abrasive{nl} - Ancient Golden Coin x25{nl} - Ancient Gold Socket{nl} - Dark Energy
+ETC_20190412_041035	Dark Card & Gem Package
+ETC_20190412_041036	Clique com o botão direito do mouse para obter os seguintes itens:{nl} - Monster Card Album: Black x5{nl} - Lv 10 Enhancement Card x3{nl} - Shining 8-Star Gem Abrasive x2{nl} - Ancient Golden Coin x25{nl} - Ancient Gold Socket x2{nl} - Dark Energy
+ETC_20190412_041037	Dark Energy All-in-One Package
+ETC_20190412_041038	Clique com o botão direito do mouse para obter os seguintes itens:{nl} - Dark Energy Package{nl} - Dark Card & Gem Package{nl} - Diamond Anvil (14 Days)
+ETC_20190412_041039	[Evento] Recompensas do Término de Missão
+ETC_20190412_041040	Posto de Parias Forest (1)
+ETC_20190412_041041	Verificar Rastros Demoníacos
+ETC_20190412_041042	Posto de Parias Forest (2)
+ETC_20190412_041043	Posto de Parias Forest (3)
+ETC_20190412_041044	Por favor, complete a missão para receber as recompensas.
+ETC_20190412_041045	Não preciso me mostrar para eles.
+ETC_20190412_041046	Não vou me expor aqui.
+ETC_20190412_041047	As suas sementes foram plantadas.{nl}Recebendo um estágio do broto por minuto.
+ETC_20190412_041048	O Efeito de [Dark Energy] já está ativo.
+ETC_20190412_041049	Marca de Pajauta
+ETC_20190412_041050	Rastros Demoníacos
+ETC_20190416_041051	Deusa Medeina
+ETC_20190416_041052	Kartas(without dogs)
+ETC_20190416_041053	Vou proteger você!
+ETC_20190416_041054	Esse aqui é meu!
+ETC_20190416_041055	Te dou cobertura!
+ETC_20190416_041056	Encontrou Rastros Demoníacos
+ETC_20190416_041057	Marquei o local!{nl}Vou ajudar você!
+ETC_20190416_041058	Você plantou a semente.{nl}Você receberá novos estágios do Broto a cada 1 minuto.

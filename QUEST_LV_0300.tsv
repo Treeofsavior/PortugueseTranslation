@@ -621,7 +621,7 @@ QUEST_LV_0300_20151022_000620	Oh, I shouldn't think about negative things.	에�
 QUEST_LV_0300_20151022_000621	Civilians better go down the mountains.{nl}If they stay here, they would either die of hunger or freeze to death.	민간인은 어서 산 아래로 내려가는 것이 좋을 겁니다.{nl}여기 있어봤자 얼어죽거나, 굶어죽기 십상일테니.	QUEST_LV_0300_20151001_000326	An outsider is better at going down the mountains.{nl}You will either freeze to death or die from hunger.	외부인은 어서 산 아래로 내려가는 것이 좋을 거요.{nl}여기 있어봤자 얼어죽거나, 굶어죽기 십상일테니.	스토가스 분대장 아데스
 QUEST_LV_0300_20151022_000622	Although the kingdom has become ineffective, we are still soldiers.{nl}This is a military zone and if you are not related to the military, please leave.	왕국이 유명무실해졌어도 저흰 아직 군인입니다.{nl}여긴 군사지역이고. 관계자가 아니라면 떠나 주십시오.	QUEST_LV_0300_20151001_000327	Although the kingdom has become famous, we are still soldiers.{nl}This is a military zone. Please leave you are not an official.	왕국이 유명무실해졌어도 우린 아직 군인이오.{nl}여긴 군사지역이고. 관계자가 아니라면 떠나 주시오.	스토가스 분대장 아데스
 QUEST_LV_0300_20151022_000623	Thanks to you, Horace's condition has improved.{nl}I hope he can relax a bit now.	덕분에 호라스님의 상태가 많이 좋아진 것 같습니다.{nl}이제 그만 무리하셨으면 좋겠는데요.	QUEST_LV_0300_20151001_000328	I heard that this place was used as a workshop.{nl}We are able to find old materials easily, but the problem is the food shortage.	이 곳은 먼 옛날에 노역장으로 쓰인 적이 있다더군요.{nl}그래서인지 낡은 자재 같은 것은 손쉽게 구할 수 있습니다만 문제는 먹을 것이군요.	스토가스 분대장 아데스
-QUEST_LV_0300_20151022_000624	Although orders from the kingdom have stopped, {nl}we are staying here because we are soldiers.{nl}The same holds true hor Horace. {nl}	비록 왕명은 끊겼지만, 저흰 군인이기 때문에 여기 남아있는 겁니다.{nl}호라스님도 마찬가지고요. {nl}	QUEST_LV_0300_20151001_000329	I am worried since the number of my men who are running away is increasing.{nl}Our supplies will last longer, but I am worried that I may become the only one left.	도망치는 부하놈들이 갈 수록 늘어서 걱정입니다.{nl}그만큼 비축물자는 절약되겠지만 이러다가는 나 혼자 남는 건 아닌지 모르겠군요.	스토가스 분대장 아데스
+QUEST_LV_0300_20151022_000624	Although orders from the kingdom have stopped, {nl}we are staying here because we are soldiers.{nl}The same holds true for Horace. {nl}	비록 왕명은 끊겼지만, 저흰 군인이기 때문에 여기 남아있는 겁니다.{nl}호라스님도 마찬가지고요. {nl}	QUEST_LV_0300_20151001_000329	I am worried since the number of my men who are running away is increasing.{nl}Our supplies will last longer, but I am worried that I may become the only one left.	도망치는 부하놈들이 갈 수록 늘어서 걱정입니다.{nl}그만큼 비축물자는 절약되겠지만 이러다가는 나 혼자 남는 건 아닌지 모르겠군요.	스토가스 분대장 아데스
 QUEST_LV_0300_20151022_000625	If someone doesn't do it, the kingdom will collapse.{nl}Our homes too, there will be no one left to protect our families.	누구라도 그렇게 하지 않으면 왕국은 무너지고 말 겁니다.{nl}고향도, 가족도 지켜줄 이 하나 남지 않게 되는 것이죠.				스토가스 분대장 아데스
 QUEST_LV_0300_20151022_000626	I thought... I was going to enter the goddesses' embrace.{nl}	아깐 정말.. 여신의 품으로 가는 줄 알았습니다.{nl}	QUEST_LV_0300_20151001_000334	Thanks for saving me.{nl}But, if we don't act now, we won't be able to hold out much longer.	덕분에 살았습니다.{nl}하지만 그런 극단적인 선택이라도 하지 않는다면 저나 이분들은 오래 버틸 수 없을 겁니다.	마법사 호라스
 QUEST_LV_0300_20151022_000627	Though, I learned something as a result.{nl}Some things that the monsters eat aren't always edible.	하지만 덕분에 한 가지 배웠죠. {nl}몬스터가 먹는다고 꼭 식용일 수는 없다는 것을요.				마법사 호라스
@@ -861,7 +861,7 @@ QUEST_LV_0300_20151224_000860	I wish to avoid the difficult path	어려운 길�
 QUEST_LV_0300_20151224_000861	Basic Leadership [Templar Advancement]	기본은 리더쉽[템플러 전직]				
 QUEST_LV_0300_20151224_000862	It seems too hard	너무 어려운 것 같다고 한다				
 QUEST_LV_0300_20151224_000863	The Power That Even Controls Evil Spirits [Warlock Advancement]	악령조차도 지배하는 힘[워록 전직]				
-QUEST_LV_0300_20151224_000864	I am ready	각오하고 왔다고 한다				
+QUEST_LV_0300_20151224_000864	Estou pronto
 QUEST_LV_0300_20151224_000865	I will quit since I am scared	두려우니 그만두겠다고 한다				
 QUEST_LV_0300_20151224_000866	The Power Imbued In The Curse [Featherfoot Advancement]	저주에 깃든 힘[페더풋 전직]				
 QUEST_LV_0300_20151224_000867	You better back off	물러서는 게 좋을 것 같다				
@@ -1911,7 +1911,7 @@ QUEST_LV_0300_20160323_001910	Sea Magic Circle	바다의 마법진
 QUEST_LV_0300_20160323_001911	I'll go there.	그 곳으로 가겠다고 한다				
 QUEST_LV_0300_20160323_001912	That's going to be difficult.	어렵겠다고 한다				
 QUEST_LV_0300_20160323_001913	Balancing Magic Circle (1)	조화의 마법진 (1)				
-QUEST_LV_0300_20160323_001914	Let's go.	가자고 한다				
+QUEST_LV_0300_20160323_001914	Vamos lá.
 QUEST_LV_0300_20160323_001915	Balancing Magic Circle (2)	조화의 마법진 (2)				
 QUEST_LV_0300_20160323_001916	I can't go alone.	혼자는 못 간다고 한다				
 QUEST_LV_0300_20160323_001917	More Earth Energy	대지의 기운을 더				
@@ -2770,7 +2770,7 @@ QUEST_LV_0300_20160718_002769	I'm sure you'll find it eventually.	찾을 수 있
 QUEST_LV_0300_20160718_002770	For Safety (1)	안전을 위해서(1)				
 QUEST_LV_0300_20160718_002771	For Safety (2)	안전을 위해서(2)				
 QUEST_LV_0300_20160718_002772	Observing the Owl (2)	부엉이 살펴보기(2)				
-QUEST_LV_0300_20160718_002773	Let's go.	가보자고 한다				
+QUEST_LV_0300_20160718_002773	Vamos lá.
 QUEST_LV_0300_20160718_002774	Please wait a little.	조금 기다려 달라고 한다				
 QUEST_LV_0300_20160718_002775	Full of Evil Energy	사악한 기운으로 가득 찬				
 QUEST_LV_0300_20160718_002776	Investigating the greenery.	풀더미 조사 중				
@@ -3894,7 +3894,7 @@ QUEST_LV_0300_20160811_003893	Re... Revelator...{nl}She... has escaped... Ugh...
 QUEST_LV_0300_20160811_003894	Ah... That is correct. {nl}Of course you could also stop their plans by destroying the device.{nl}	아아.. 맞아요. {nl}물론 장치를 부숴도 그들의 음모를 막을 수는 있겠지요.{nl}				수도사 스텔라
 QUEST_LV_0300_20160811_003895	But don't you think that it is a bit wasteful to do so?{nl}	그런데 그러기엔 장치가 너무 아깝지 않나요?{nl}				수도사 스텔라
 QUEST_LV_0300_20160811_003896	At times like these... It is sometimes better to use their powers against them.{nl}With these magic scrolls.{nl}	이럴 때엔 오히려.. 그 힘을 거꾸로 이용하는 것도 하나의 방법이랍니다.{nl}이 마법 스크롤로요.{nl}				수도사 스텔라
-QUEST_LV_0300_20160811_003897	This Scroll allows you to transfrom all energies into divine power.{nl}You will be able to use this scroll to make the Divine Power Supression Device release large amount of divine power.{nl}	이 스크롤은 모든 기운을 신성력으로 바꿔주는 굉장한 스크롤이랍니다.{nl}신성력 억제 장치에 이 스크롤을 사용하면 엄청난 신성력으로 바뀔 거예요.{nl}				수도사 스텔라
+QUEST_LV_0300_20160811_003897	This Scroll allows you to transfrom all energies into divine power.{nl}You will be able to use this scroll to make the Divine Power Suppression Device release large amount of divine power.{nl}	이 스크롤은 모든 기운을 신성력으로 바꿔주는 굉장한 스크롤이랍니다.{nl}신성력 억제 장치에 이 스크롤을 사용하면 엄청난 신성력으로 바뀔 거예요.{nl}				수도사 스텔라
 QUEST_LV_0300_20160811_003898	You will help me of course... won't you?{nl}	물론.. 도와주시겠지요?{nl}				수도사 스텔라
 QUEST_LV_0300_20160811_003899	I was certain that you would help me.{nl}	여행자님은 물론 기꺼이 나서주실 거라 생각했어요.{nl}				수도사 스텔라
 QUEST_LV_0300_20160811_003900	What are you doing?{nl}Hurry to Krasjia Hill.{nl}	뭐하고 계신가요.{nl}어서 서둘러 크라샤 언덕으로 가셔야지요.{nl}				수도사 스텔라
@@ -6765,7 +6765,7 @@ QUEST_LV_0300_20161005_006764	Let the Hunting Begin [Falconer Advancement]	사�
 QUEST_LV_0300_20161005_006765	I am fully ready to go.	당연히 준비가 되었다고 한다				
 QUEST_LV_0300_20161005_006766	Not now.	아직은 어렵다고 한다				
 QUEST_LV_0300_20161005_006767	Mission Initiated [Schwarzer Reiter Advancement]	의뢰 수행[슈바르츠라이터 전직]				
-QUEST_LV_0300_20161005_006768	I am ready.	실력에 자신있다고 한다				
+QUEST_LV_0300_20161005_006768	Estou pronto.
 QUEST_LV_0300_20161005_006769	I think I need some more time.	아직은 이른 것 같다고 한다				
 QUEST_LV_0300_20161005_006770	De-Contruction  [Cannoneer Advancement]	구조물 파괴[캐노니어 전직]				
 QUEST_LV_0300_20161005_006771	Don't worry. I will do it.	무엇이든 맡겨달라고 한다				
@@ -8421,9 +8421,9 @@ QUEST_LV_0300_20190104_008420	To train, pick up the rocks and sand laying about 
 QUEST_LV_0300_20190104_008421	use Brick Smash while standing behind the monster	몬스터의 뒤에서 벽돌 깨기				아웃로 마스터 마에아 켈러핀커
 QUEST_LV_0300_20190104_008422	use Throw Sand while standing in front of the monster	몬스터의 앞에서 모래 뿌리기				아웃로 마스터 마에아 켈러핀커
 QUEST_LV_0300_20190104_008423	to debuff monsters and defeat them with normal attacks. You will earn 1 point for each kill.{nl}The training grounds can be found in Odur Backyard at the Seir Rainforest.	로 몬스터를 디버프를 걸고 기본 공격으로 처치하면 1점씩 얻을 수 있을 거야.{nl}훈련장은 세이르 숲의 오두르 안뜰에 있으니 어서 가봐!				아웃로 마스터 마에아 켈러핀커
-QUEST_LV_0300_20190104_008424	Guild Foundation	길드의 주춧돌				
-QUEST_LV_0300_20190104_008425	The [Guild Foundation] quest will begin.{nl}Increase your guild contribution level to clear the quest!	[길드의 주춧돌] 퀘스트가 시작됩니다{nl}길드 퀘스트 기여도를 올리고 클리어하세요!				
-QUEST_LV_0300_20190104_008426	Congratulations on completing the [Guild Foundation] quest!{nl}The [Guild Foundation] quest will be open again at 06:00 next Monday (server time).	[길드의 주춧돌] 퀘스트를 완료를 축하드립니다{nl}[길드의 주춧돌] 퀘스트는 다음주 월요일 6시 이후에 다시 시작 됩니다				
+QUEST_LV_0300_20190104_008424	Alicerce da Guilda
+QUEST_LV_0300_20190104_008425	A Missão [Alicerce da Guilda] será iniciada.{nl}Aumente a sua contribuição com a Guilda para finalisar a missão!
+QUEST_LV_0300_20190104_008426	Parabéns por completar a Missão [Alicerce da Guilda]!{nl}Esta missão poderá ser aberta novamente na próxima semana,{nl}à partir das 06AM de Segunda-Feira (horário do servidor).
 QUEST_LV_0300_20190104_008427	The Art of Assassination	어쌔신의 전투 비법				
 QUEST_LV_0300_20190104_008428	Can you tell me more...?	좀 더 자세히 알려달라고 한다.				
 QUEST_LV_0300_20190104_008429	I'll have to pass, sorry.	정중히 거절한다.				
