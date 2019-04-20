@@ -37440,7 +37440,7 @@ ETC_20190104_037354	The item is equipped with an Ichor.{nl}The Ichor must first 
 ETC_20190104_037355	Items that are traded cannot be traded back.	교환된 아이템은 다시 교환 할 수 없습니다.			
 ETC_20190104_037356	{@st59}Fechar a Janela - {NAME}{/}
 ETC_20190104_037357	Once an item is altered, {#ff0000}{ol}it can no longer be exchanged.{/}{/} {nl} {nl}{@st66d_y}(This includes enhancement, transcendence, personal and market trade, the addition of sockets, equipping and extracting Ichor, and appearance change){/}{nl}Will you proceed with the exchange?	계열 변경이 가능한 아이템에 변경이 생기는 경우 {#ff0000}{ol}계열 변경의 기회는 사라집니다.{/}{/} {nl} {nl}{@st66d_y}(강화, 초월, 마켓 판매, 개인 거래, 소켓 추가, 각성, 아이커 장착 및 추출, 무기 외형 변환){/}{nl} {nl}계속 하시겠습니까?			
-ETC_20190104_037358	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable via 1:1{/}.	아이템 변경사항 안내{nl} {nl} - 아이템이 {Before}초월에서{#62100c}{After}초월{/}로 변경 {nl} - 초월 성공시{#62100c}1:1거래가 불가능{/} 합니다.			
+ETC_20190104_037358	Mudança de Item{nl} {nl} - Altera o Estágio de {Before} para {#62100c}{After}{/}{nl} - Se Transcendência não falhar, item ficará {#62100c}introcável por Troca 1:1{/}.
 ETC_20190104_037359	Você recebeu o máximo de Pontos de Troca de Classe para a semana.
 ETC_20190104_037360	Você não pode receber mais Pontos de Troca de Classe.
 ETC_20190104_037361	Você não pode mudar para {TARGET} enquanto {JOB} não for trocado primeiro;

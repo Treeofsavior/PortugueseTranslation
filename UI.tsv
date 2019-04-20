@@ -3057,8 +3057,8 @@ UI_20180418_003055	{@st42b}Estágio %s{/}
 UI_20180418_003056	{@st66b}Ver Próximos Efeitos{/}
 UI_20180418_003057	{@st59}Close.{/}
 UI_20180418_003058	{@st41}{s20}Transcendence Scroll{/}
-UI_20180418_003059	Transcendence Value: %s
-UI_20180418_003060	Success Rate: %s%
+UI_20180418_003059	Estágio Aplicado: %s
+UI_20180418_003060	Chance de Sucesso: %s%
 UI_20180418_003061	{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}
 UI_20180418_003062	{@st41b}{s20}Transcendência
 UI_20180418_003063	{@st41b}{s20}Confirmar
@@ -3754,7 +3754,7 @@ UI_20190104_003752	{@st66b}Class Tree Costume Exchange{/}	{@st66b}계열 코스�
 UI_20190104_003753	{@st66b}Rookie Player Shop{/}	{@st66b}신규유저 전용상점{/}			
 UI_20190104_003754	{@st66b}Returning Player Shop{/}	{@st66b}복귀유저 전용상점{/}			
 UI_20190104_003755	Trade your Exchange Vouchers{nl}for a costume	보유 중인 교환권을 {nl}코스튬으로 교환			
-UI_20190104_003756	{@st66}Use to apply transcendence Stage %s.{/}	{@st66}사용 시 %s초월로 변경됩니다.{/}	UI_20180418_003061	{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}	{@st66}이미 초월된 장비에는 사용할 수 없으며{nl}사용시 %s초월로 변경됩니다.{/}
+UI_20190104_003756	{@st66}Usar aplica Transcendência Estágio %s.{/}
 UI_20190104_003757	{@st41}Horizontal (%s){/}	{@st41}가로 (%s){/}			
 UI_20190104_003758	{@st41}Vertical (%s){/}	{@st41}세로 (%s){/}			
 UI_20190104_003759	{@st41}Zoom In/Zoom Out (%s){/}	{@st41}확대/축소 (%s){/}			
