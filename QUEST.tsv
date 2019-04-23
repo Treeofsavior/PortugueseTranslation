@@ -2534,7 +2534,7 @@ QUEST_20151001_002541	Não conte para eles sobre mim por algum tempo.{nl}Humanos
 QUEST_20151001_002542	O guardião do Royal Mausoleum onde a próxima revelação aguarda está bem longe daqui.{nl}Abrirei um portal para você como um atalho.{nl}Em nome de Saule, a Deusa do sol, rezarei pela sua segurança.
 QUEST_20151001_002543	Falando em vida eterna... veja Tesla. {nl}Você imaginaria que não se envelhece com vida eterna, concorda?
 QUEST_20151001_002544	(Há palavras pouco legíveis aqui.) {nl}...Euros não podia mais prender a respiração, então acabou inalando os esporos e morreu. {nl}Os Mushworts caçam pessoas com o método mais cruel que já vi. {nl}Eles circulam nossos locais de encontro e chacoalham os cogumelos que liberam esporos.{nl}
-QUEST_20151001_002545	Mesmo quando as Deusas não estão por aqui, os Oráculos ainda podem entregar a mensagem delas às pessoas. {nl}Certamente, isso é prova de que as Deusas ainda existem.
+QUEST_20151001_002545	Mesmo quando as Deusas não estão por aqui,{nl}os Oracles ainda podem entregar a mensagem delas às pessoas.{nl}Certamente, isso é prova de que as Deusas ainda existem.
 QUEST_20151001_002546	Medzio Diena não foi a vontade da natureza.{nl}Afinal de contas, a natureza é governada pelas Deusas, e elas jamais fariam mal a todos nós.
 QUEST_20151001_002547	Ofereço essa Estátua da Deusa, na qual coloquei todo meu carinho e alma, à Deusa da grande honra e luz.
 QUEST_20151001_002548	Entre meus discípulos, dois deles me seguiram até minha velhice e também serão meus sucessores depois da minha morte. {nl}
@@ -6804,8 +6804,8 @@ QUEST_20171128_006828	Suas práticas seguem largamente desconhecidas, tanto pelo
 QUEST_20171128_006829	No processo de captura e tortura destes demônios de alto escalão, os Zealots cometeram um alto número de assassinatos não intencionais.{nl}Em alguns casos, os demônios foram mortos durante o processo de captura. Não cientes das circunstâncias, um pequeno grupo da população demonstrava apoio aos, aparentemente, assassinatos calculados.
 QUEST_20171128_006830	Mesmo com este pouco suporte obtido, os Zealots continuavam vistos como algo negativo, o que só reforçava seu distanciamento da população em geral.{nl}Era desconsiderado o fato de suas ações servirem a nobre causa de obter contato com a Deusa Jurate.
 QUEST_20171128_006831	Diferente dos Loremasters de Jurate, os Zealots estavam determinados em resolver o problema através de seus meios radicais.{nl}A ordem acreditava que a falta de comunicação com Jurate era por causa da indústria da pesca e outras intrusões humanas em seu reino.{nl}Isto fez com que os Zealots não só sabotassem pescadores, mas também a Marinha Real, navios piratas e qualquer humano com alguma ligação com os mares.
-QUEST_20171128_006832	Mesmo que os Zealots não estavam completamente errados em suas interpretações dos desejos de Jurate, seus métodos dúbios e a recusa de adotar meios mais moderados fez com que caíssem em desgosto pela população.
-QUEST_20171128_006833	Ciente todos os acontecidos, o Reino forçou-se a colocar várias restrições legais contra as atividades dos Zealots, o que contribuiu com uma redução à oposição pública da ordem, mesmo com alguma aversão ainda restante.
+QUEST_20171128_006832	Mesmo que os Zealots não estivessem completamente errados em suas interpretações dos desejos de Jurate, seus métodos dúbios e a recusa de adotar meios mais moderados fez com que caíssem em desgosto pela população.
+QUEST_20171128_006833	Ciente de todos os acontecidos, o Reino forçou-se a colocar várias restrições legais contra as atividades dos Zealots, o que contribuiu com uma redução à oposição pública da ordem, mesmo com alguma aversão ainda restante.
 QUEST_20171128_006834	Apesar de sua devoção indiscutível, até hoje Zealots não conseguiram estabelecer-se como uma liderança religiosa entre outros Clerics devido sua abordagem singular e extrema da fé.{nl}Porém, por causa dessa característica, a ordem conseguiu manter suas atividades no Reino através das eras.
 QUEST_20171128_006835	Escrito pelo aprendiz de Inquistor, Thomas Iconostasis. Ano 1021 do Reino.
 QUEST_20171128_006836	Zealots: Uma História
@@ -10669,3 +10669,15 @@ QUEST_20190412_010788	Veja as pessoas aqui.{nl}Estão assustadas, mas elas conti
 QUEST_20190412_010789	Mesmo assim,{nl}é muito legal finalmente ver outras pessoas,{nl}depois de tanto tempo.
 QUEST_20190412_010790	Tem certeza que deseja usar {#FF0000}Dark Energy{/}?{nl}O efeito aplicará por {#FF0000}6 dias{/} somente para o {#FF0000}personagem atual{/}.
 QUEST_20190416_010791	Tem certeza que deseja usar {#FF0000}Dark Energy{/}?{nl}O efeito aplicará por {#FF0000}6 dias{/} somente para o {#FF0000}personagem atual{/} e somente dentro do {#FF0000}Velcoffer's Nest{/}.
+QUEST_20190419_010792	Então você poderia conseguir 10 Pedaços de Estrela Cintilantes?{nl}Ah, claro! Isso é importante, então vou repetir.
+QUEST_20190419_010793	{#003399}Dica!{/}Você encontra Pedaços de Estrela Cintilantes em{nl}- Raids Lendárias
+QUEST_20190419_010794	: x5{nl}- Raids Únicas: x5{nl}- Estágio 5+ do Modo Desafio: x2{nl}- Missões de Saalus Convent: x1{nl}- Dungeons Instanciadas: x1
+QUEST_20190419_010795	{#FF0000}Dica!{/}{nl} 
+QUEST_20190419_010796	Pedaço de Estrela Cintilante
+QUEST_20190419_010797	cai por volta de 5 minutos após você terminar o conteúdo!
+QUEST_20190419_010798	Certo, jovem. Estarei esperando pelos itens!
+QUEST_20190419_010799	Eu poderia usar ainda mais Pedaços de Estrela Cintilantes.{nl}Sabe, todos estão vindo aqui atrás de itens melhores.
+QUEST_20190419_010800	Estive trabalhando em um tipo especial de armamento,{nl}mas estou com problemas em manter o estoque desses pedaços.{nl}Poderia obter alguns Pedaços de Estrela Cintilantes para mim?
+QUEST_20190419_010801	Ei, você já junto dez deles! Valeu!{nl}Certo, aqui está uma das minhas melhores bigornas.{nl}Experimenta usar e depois me diz o que achou.
+QUEST_20190419_010802	Parece que você ainda não achou Pedaços de Estrela Cintilantes suficientes.{nl}Ainda vai juntar mais alguns?{nl}Caso tenha esquecido, eu explico de novo.
+QUEST_20190419_010803	Vê se não esquece agora!

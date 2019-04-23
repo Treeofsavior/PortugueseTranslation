@@ -1,4 +1,4 @@
-﻿UI_20150317_000001		{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
+﻿UI_20150317_000001	{@st41b}Aprender Atributos{nl}dos respectivos Mestres de cada classe.{/}
 UI_20150317_000002	{@st43}Lista de Atributos {/}
 UI_20150317_000003	{@st59}Fechar{/}
 UI_20150317_000004	{@st43}Aprender Atributos{/}
@@ -2752,8 +2752,9 @@ UI_20170912_002750	Exploração
 UI_20170912_002751	%s % Explorado
 UI_20170912_002752	- Nv. Recomendado
 UI_20170912_002753	- Exploração
-UI_20170912_002754	Tipo %s
-UI_20170912_002756	Pontos de Aquisição %s
+UI_20170912_002754	Tipo
+UI_20170912_002755	Pontos Obtidos %s
+UI_20170912_002756	Pontos Obtidos %s
 UI_20170912_002757	Status
 UI_20170912_002758	SPR +6
 UI_20170912_002759	Diário de Aventura Ranking
@@ -2764,7 +2765,7 @@ UI_20170912_002763	Uphill Defense Ranking
 UI_20170912_002764	Pontos Totais
 UI_20170912_002765	{@st66b}Point Shop{/}
 UI_20170912_002766	{@st66b}Exploração de Mapas
-UI_20170912_002767	{@st66b}Quests/Conquistas
+UI_20170912_002767	{@st66b}Missão/Conquista
 UI_20170912_002768	{@st66b}Coleção
 UI_20170912_002769	{@st66b}Shops Pessoais
 UI_20170912_002770	{@st66b}Pescaria
@@ -3056,8 +3057,8 @@ UI_20180418_003055	{@st42b}Estágio %s{/}
 UI_20180418_003056	{@st66b}Ver Próximos Efeitos{/}
 UI_20180418_003057	{@st59}Close.{/}
 UI_20180418_003058	{@st41}{s20}Transcendence Scroll{/}
-UI_20180418_003059	Transcendence Value: %s
-UI_20180418_003060	Success Rate: %s%
+UI_20180418_003059	Estágio Aplicado: %s
+UI_20180418_003060	Chance de Sucesso: %s%
 UI_20180418_003061	{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}
 UI_20180418_003062	{@st41b}{s20}Transcendência
 UI_20180418_003063	{@st41b}{s20}Confirmar
@@ -3714,7 +3715,7 @@ UI_20190104_003713	{@st42}Magic Stone	{@st42}마정석
 UI_20190104_003714	{img silver_pic 24 24} Price {img white_right_arrow 16 16} %s	{img silver_pic 24 24} 가격 {img white_right_arrow 16 16} %s			
 UI_20190104_003715	The item has been destroyed.	아이템이 파괴 되었습니다.			
 UI_20190104_003716	{@st42}OK	{@st42}확인			
-UI_20190104_003717	Custo Para Abrir Soquete %s : {#000000}%s{/} {nl}Custo Para Extrair Gema %s : {#000000}%s{/}
+UI_20190104_003717	Abrir Soquete %s : {#000000}%s{/}{nl}Extrair Gema %s : {#000000}%s{/}
 UI_20190104_003718	{@st59}Close the map.{/}	{@st59}지도를 닫습니다{/}			
 UI_20190104_003719	%s{@st42}{s14}{#ffff00}Cancel (Jump Key){/}	%s{@st42}{s14}{#ffff00}취소(점프 키){/}			
 UI_20190104_003720	{@st41b}Collection{/}	{@st41b}컬렉션{/}	UI_20170313_002554	{@st41b}Collection{/}	{@st41b}콜렉션{/}
@@ -3753,7 +3754,7 @@ UI_20190104_003752	{@st66b}Class Tree Costume Exchange{/}	{@st66b}계열 코스�
 UI_20190104_003753	{@st66b}Rookie Player Shop{/}	{@st66b}신규유저 전용상점{/}			
 UI_20190104_003754	{@st66b}Returning Player Shop{/}	{@st66b}복귀유저 전용상점{/}			
 UI_20190104_003755	Trade your Exchange Vouchers{nl}for a costume	보유 중인 교환권을 {nl}코스튬으로 교환			
-UI_20190104_003756	{@st66}Use to apply transcendence Stage %s.{/}	{@st66}사용 시 %s초월로 변경됩니다.{/}	UI_20180418_003061	{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}	{@st66}이미 초월된 장비에는 사용할 수 없으며{nl}사용시 %s초월로 변경됩니다.{/}
+UI_20190104_003756	{@st66}Usar aplica Transcendência Estágio %s.{/}
 UI_20190104_003757	{@st41}Horizontal (%s){/}	{@st41}가로 (%s){/}			
 UI_20190104_003758	{@st41}Vertical (%s){/}	{@st41}세로 (%s){/}			
 UI_20190104_003759	{@st41}Zoom In/Zoom Out (%s){/}	{@st41}확대/축소 (%s){/}			

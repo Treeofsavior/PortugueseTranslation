@@ -1693,7 +1693,7 @@ ETC_20150317_001692	Re-enhance
 ETC_20150317_001693	Clique no item p/ Refinar
 ETC_20150317_001694	Sucesso {img emoticon_0002 40 40}
 ETC_20150317_001695	Falhou {img emoticon_0016 40 40}
-ETC_20150317_001696	There is no empty socket that matches this type.
+ETC_20150317_001696	Não há um soquete vazio que combine com este tipo.
 ETC_20150317_001697	Coloque o item que deseja melhorar.
 ETC_20150317_001698	Aprimorar Cartas
 ETC_20150317_001699	Aprimorar Gemas
@@ -15224,8 +15224,8 @@ ETC_20151001_015224	Wizard Shaman Doll
 ETC_20151001_015225	Black Note
 ETC_20151001_015226	Hidden Sanctuary's Wall Painting
 ETC_20151001_015227	Priest Pranas
-ETC_20151001_015228	Chaser Torvana
-ETC_20151001_015229	Chaser Daramaus
+ETC_20151001_015228	Mercenário Torvana
+ETC_20151001_015229	Mercenário Daramaus
 ETC_20151001_015230	Priest Auranas
 ETC_20151001_015231	Priest Draznie
 ETC_20151001_015232	Priest Irma1
@@ -15278,18 +15278,18 @@ ETC_20151001_015278	2nd Pillar
 ETC_20151001_015279	3rd Pillar
 ETC_20151001_015280	4th Pillar to summon
 ETC_20151001_015281	Bracken Forest63_1
-ETC_20151001_015282	Chaser Talbasi
-ETC_20151001_015283	Chaser Sendal
-ETC_20151001_015284	Chaser Zegaus
-ETC_20151001_015285	Agent Larena
-ETC_20151001_015286	Agent Orwen
-ETC_20151001_015287	Agent Notres
-ETC_20151001_015288	Agent Cherasia
-ETC_20151001_015289	Agent Moren
-ETC_20151001_015290	Chaser Ulysses
-ETC_20151001_015291	Chaser Raitis
-ETC_20151001_015292	Agent Pierneef
-ETC_20151001_015293	Chaser Germeja
+ETC_20151001_015282	Mercenário Talbasi
+ETC_20151001_015283	Mercenário Sendal
+ETC_20151001_015284	Mercenário Zegaus
+ETC_20151001_015285	Agente Larena
+ETC_20151001_015286	Agente Orwen
+ETC_20151001_015287	Agente Notres
+ETC_20151001_015288	Agente Cherasia
+ETC_20151001_015289	Agente Moren
+ETC_20151001_015290	Mercenário Ulysses
+ETC_20151001_015291	Mercenário Raitis
+ETC_20151001_015292	Agente Pierneef
+ETC_20151001_015293	Mercenário Germeja
 ETC_20151001_015294	Imigrante Bowein
 ETC_20151001_015295	Imigrante Brophen
 ETC_20151001_015296	Imigrante Layla
@@ -28491,7 +28491,7 @@ ETC_20170728_028464	N/A
 ETC_20170728_028465	N/A
 ETC_20170728_028466	Diana
 ETC_20170728_028467	Entregar Peixe Prateado
-ETC_20170808_028468	Classe {JOB}: Adotar {COMPANION} 
+ETC_20170803_028468	Classe {JOB}: Adotar {COMPANION} 
 ETC_20170810_028469	Recipe - [Evento] Escultura Restaurada da Deusa
 ETC_20170810_028470	A recipe to craft an "[Evento] Escultura Restaurada da Deusa"
 ETC_20170810_028471	Piece Back Mission Event
@@ -30977,16 +30977,16 @@ ETC_20171128_030950	Destroying with divine energy
 ETC_20171128_030951	It seems that the power of Loremaster Ugnius is not enough.{nl}Try using divine energy on the Massive Kruvina.
 ETC_20171128_030952	You've destroyed the Massive Kruvina.
 ETC_20171128_030953	Searching through the suspicious pile
-ETC_20171128_030954	Ask about the Zealots.
-ETC_20171128_030955	Ask about how to enter the Zealots.
-ETC_20171128_030956	Interested in entering
-ETC_20171128_030957	I need a little more time.
-ETC_20171128_030958	Kidnap
-ETC_20171128_030959	Assassination
-ETC_20171128_030960	Clear Out
-ETC_20171128_030961	Revelator
+ETC_20171128_030954	Pergunte sobre os Zealots.
+ETC_20171128_030955	Pergunte sobre como entrar para os Zealots.
+ETC_20171128_030956	Interessado em entrar
+ETC_20171128_030957	Preciso de mais tempo.
+ETC_20171128_030958	Sequestro
+ETC_20171128_030959	Assassinato
+ETC_20171128_030960	Remoção
+ETC_20171128_030961	Revelador
 ETC_20171128_030962	Loremaster
-ETC_20171128_030963	Seeker
+ETC_20171128_030963	Procurador
 ETC_20171128_030964	You've obtained the Demon Device Fragments.
 ETC_20171128_030965	Purification successful.
 ETC_20171128_030966	Collecting the Gigantic magic source
@@ -31003,7 +31003,7 @@ ETC_20171128_030976	Failed the test.{nl}Use the Zealot Crystal Necklace to finis
 ETC_20171128_030977	You need to avoid a total of
 ETC_20171128_030978	circles containing the Evil Aura and activate the other circles.{nl}Go up on the white circle and use the Zealot Crystal Necklace.
 ETC_20171128_030979	When you use an item, a number will be displayed in a green circle.{nl}This number indicates the number of Evil Aura in 8 circles around the relevant circle.
-ETC_20171128_030980	Talk to the Master
+ETC_20171128_030980	Fale com o Mestre
 ETC_20171128_030981	 activated.
 ETC_20171128_030982	Receiving damage from Giltine's mighty power.
 ETC_20171128_030983	You must stay close to me. You cannot endure the power of Giltine now.
@@ -32030,7 +32030,7 @@ ETC_20180418_031998	Terra Rytaswort
 ETC_20180418_031999	Fire Fox Shikigami
 ETC_20180418_032000	Greenwood Shikigami
 ETC_20180418_032001	Convent
-ETC_20180418_032002	Ninho do Velcoffer
+ETC_20180418_032002	Velcoffer's Nest
 ETC_20180418_032003	A Yeti has appeared, and it's coming for you!
 ETC_20180418_032004	Allow me to summon the evil spirits.
 ETC_20180418_032005	Defeat the evil spirits.
@@ -37440,7 +37440,7 @@ ETC_20190104_037354	The item is equipped with an Ichor.{nl}The Ichor must first 
 ETC_20190104_037355	Items that are traded cannot be traded back.	교환된 아이템은 다시 교환 할 수 없습니다.			
 ETC_20190104_037356	{@st59}Fechar a Janela - {NAME}{/}
 ETC_20190104_037357	Once an item is altered, {#ff0000}{ol}it can no longer be exchanged.{/}{/} {nl} {nl}{@st66d_y}(This includes enhancement, transcendence, personal and market trade, the addition of sockets, equipping and extracting Ichor, and appearance change){/}{nl}Will you proceed with the exchange?	계열 변경이 가능한 아이템에 변경이 생기는 경우 {#ff0000}{ol}계열 변경의 기회는 사라집니다.{/}{/} {nl} {nl}{@st66d_y}(강화, 초월, 마켓 판매, 개인 거래, 소켓 추가, 각성, 아이커 장착 및 추출, 무기 외형 변환){/}{nl} {nl}계속 하시겠습니까?			
-ETC_20190104_037358	Item Changes{nl} {nl} - Item changed from Stage {Before} to {#62100c}{After}{/}{nl} - If transcendence succeeds, the item becomes {#62100c}untradable via 1:1{/}.	아이템 변경사항 안내{nl} {nl} - 아이템이 {Before}초월에서{#62100c}{After}초월{/}로 변경 {nl} - 초월 성공시{#62100c}1:1거래가 불가능{/} 합니다.			
+ETC_20190104_037358	Mudança de Item{nl} {nl} - Altera o Estágio de {Before} para {#62100c}{After}{/}{nl} - Se Transcendência não falhar, item ficará {#62100c}introcável por Troca 1:1{/}.
 ETC_20190104_037359	Você recebeu o máximo de Pontos de Troca de Classe para a semana.
 ETC_20190104_037360	Você não pode receber mais Pontos de Troca de Classe.
 ETC_20190104_037361	Você não pode mudar para {TARGET} enquanto {JOB} não for trocado primeiro;
@@ -40939,7 +40939,7 @@ ETC_20190223_040853	Aumenta o ataque elemental em proporção ao valor equipaven
 ETC_20190223_040854	Resistência contra ataques dos elementos Fogo, Gelo, Terra, Raio, Veneno, Trevas, Divino e Psíquico {img green_up_arrow 16 16}150
 ETC_20190223_040855	Aumenta o Dano Adicional: Divino, para cada ataque, em um valor igual ao da sua resistência elemental.{nl}- Elementos: Fogo, Gelo, Raio, Terra, Veneno, Trevas, Divino e Psíquico (aumento máximo 1.500){nl} {nl}Efeito de Dragon Strength Nv 2{nl}Dano Adicional: Divino aumenta em 8% da sua Defesa Mágica (aumento máximo 4.000).
 ETC_20190223_040856	Conjunto Abyss Irredian
-ETC_20190223_040857	5% de chance de ativar [Abyss - Fúria] ao ser atacado.{nl} {nl}[Abyss - Fúria]{nl}Aumenta a Taxa de Crítico em 10% por 5 segundos (aumento máximo de 200)
+ETC_20190223_040857	5% de chance de ativar [Abyss - Fúria] ao atacar.{nl} {nl}[Abyss - Fúria]{nl}Aumenta a Taxa de Crítico em 10% por 5 segundos (aumento máximo de 200)
 ETC_20190223_040858	Conjunto Cevisa Irredian
 ETC_20190223_040859	3% de chance de ativar [Cevisa - Proteção] ao atacar.{nl} {nl}[Cevisa - Proteção]{nl}Dano recebido {img green_down_arrow 16 16}10%{nl}Velocidade de Movimento {img green_up_arrow 16 16}5{nl}(Duração: 10 segundos)		
 ETC_20190223_040860	Recipe - Abyss Irredian Necklace
@@ -41131,7 +41131,7 @@ ETC_20190412_041045	Não preciso me mostrar para eles.
 ETC_20190412_041046	Não vou me expor aqui.
 ETC_20190412_041047	As suas sementes foram plantadas.{nl}Recebendo um estágio do broto por minuto.
 ETC_20190412_041048	O Efeito de [Dark Energy] já está ativo.
-ETC_20190412_041049	Marca de Pajauta
+ETC_20190412_041049	Marca da Pajauta
 ETC_20190412_041050	Rastros Demoníacos
 ETC_20190416_041051	Deusa Medeina
 ETC_20190416_041052	Kartas(without dogs)
@@ -41141,3 +41141,16 @@ ETC_20190416_041055	Te dou cobertura!
 ETC_20190416_041056	Encontrou Rastros Demoníacos
 ETC_20190416_041057	Marquei o local!{nl}Vou ajudar você!
 ETC_20190416_041058	Você plantou a semente.{nl}Você receberá novos estágios do Broto a cada 1 minuto.
+ETC_20190419_041059	Private-Eye Costume Selection Box
+ETC_20190419_041060	Use para selecionar um dos seguintes itens:{nl} - Private-Eye Costume (M) x1{nl} - Private-Eye Costume (F) x1
+ETC_20190419_041061	Laima Kindergarten Costume Selection Box
+ETC_20190419_041062	Use para selecionar um dos seguintes itens:{nl} - Laima Kindergarten Costume (M) x1{nl} - Laima Kindergarten Costume (F) x1
+ETC_20190419_041063	I♥TOS Costume Selection Box	I♥TOS
+ETC_20190419_041064	Use para selecionar um dos seguintes itens:{nl}- I♥TOS Costume (Male) x1{nl}- I♥TOS Costume (Female) x1
+ETC_20190419_041065	Teeny Chick
+ETC_20190419_041066	O pintinho mais brilhante e alegre, adorado por todas as crianças do Reino.
+ETC_20190419_041067	[Evento] Pequeno Ajudante do Teliavelis
+ETC_20190419_041068	[Evento] Gostaria de trabalhar para você.
+ETC_20190419_041069	[Evento] Aqui estão os Pedaços de Estrela Cintilantes.
+ETC_20190419_041070	Você receberá {#003399}Pedaços de Estrela Cintilantes{/} em torno de 5 segundos após o término.
+ETC_20190419_041071	Você não pode receber os prêmios de participação enquanto está acontecendo GTW.
