@@ -6482,7 +6482,7 @@ SKILL_20160811_006481	Concealed as to not be seen.	보이지 않도록 은폐된
 SKILL_20160811_006482	Increase Physical/Magical Defense	물리/마법 방어력 증가				
 SKILL_20160811_006483	Physical/Magical Defense will be increased	물리/마법 방어력이 증가				
 SKILL_20160811_006484	Battlebird Owner	전투 뱁새 보유중				
-SKILL_20160811_006485	Increases HP and SP recovery rate.	HP회복력과 SP회복력이 증가합니다.				
+SKILL_20160811_006485	Aumenta a taxa de Recuperação de HP e SP.
 SKILL_20160811_006486	120% increase in EXP gain from monsters{nl}x5 increase in Stamina recovery rate	몬스터 처치 시 획득 경험치 +120% 증가{nl}스태미나 회복량 5배 증가				
 SKILL_20160811_006487	240% increase in EXP gain from monsters{nl}x9 increase in Stamina recovery rate	몬스터 처치 시 획득 경험치 +240% 증가{nl}스태미나 회복량 9배 증가				
 SKILL_20160811_006488	50% increase in EXP gain from monsters{nl}x2 increase in Stamina recovery rate	몬스터 처치 시 획득 경험치 +50% 증가{nl}스태미나 회복량 2배 증가				
@@ -11216,21 +11216,21 @@ SKILL_20180517_011215	Double Chance	연타 찬스
 SKILL_20180517_011216	Based on the number derived from selected targets, gain a chance to perform   repeated hits. The attacked target receives damage according to the number of hits.	지정된 적에게 수비술로 산출된 숫자를 기반으로 연타 찬스가 발동됩니다. 그 상태에서 공격받은 적은 연타 찬스의 수만큼 연타 피해 받습니다.	SKILL_20161005_006728	Based on the number derived from selected targets, gains a chance to perform   Repeated Hits. The attacked target gains damage according to the Repeated Hits chance.	지정된 적에게 수비술로 산출된 숫자를 기반으로 연타 챤스가 발동됩니다. 그 상태에서 공격받은 적은 연타 챤스의 수만큼 연타 피해 받습니다.	
 SKILL_20180517_011217	Applies number of repeated hits set by Double Chance {nl}Attack per repeated hit  #{CaptionRatio}#%	연타 찬스의 숫자 만큼 타격횟수 적용{nl}연타당 공격력 #{CaptionRatio}#%	SKILL_20161005_006729	The number of repeated hits based on Double Chance{nl}Attack per Repeated Hit: #{CaptionRatio}#%	연타 챤스의 숫자 만큼 타격횟수 적용{nl}연타당 공격력 #{CaptionRatio}#%	
 SKILL_20180517_011218	Duração 15 seg{nl}Aumenta o dano em #{CaptionRatio}#%{nl}Não pode ser usado em conjunto com [Healing Factor]
-SKILL_20180517_011219	Sumazinti	슈마진				
-SKILL_20180517_011220	Reduces the magic defense of enemies nearby.	자신 주변 적의 마법 방어력을 감소시킵니다.				
-SKILL_20180517_011221	Magic Defense: -15%{nl}Duração: 15 seg{nl}Targets: 5	마법 방어력 15% 감소{nl}지속시간 15초{nl}적용 대상 수 5				
-SKILL_20180517_011222	Tiksline	티크라스				
-SKILL_20180517_011223	Marks enemies within skill range. Marked enemies receive additional damage when attacked by the caster. After 5 seg, the skill deals magic damage to marked enemies equal to the total damage they received while the mark was active. 	자신 주변의 적에게 표식을 남깁니다. 시전자가 표식이 남은 대상을 타격했을 때 대미지가 증가합니다. 5초 후에 표식이 적용된 동안 해당 적에게 가한 모든 누적 피해만큼 마법 대미지를 줍니다. 				
-SKILL_20180517_011224	Targets: 3{nl}Damage Increase: 50%{nl}Duração: 5 seg	적용 대상 수 3{nl} 대미지 증가 50%{nl}지속시간 5초				
-SKILL_20180517_011225	Mergaite	메가테				
-SKILL_20180517_011226	Increases your physical and magic defense. Maintains invincibility throughout the execution of the skill.	메가테 시전 후 시전자의 마법 방어력, 물리 방어력을 향상시킵니다. 동작시간 동안은 무적 상태가 유지됩니다.				
-SKILL_20180517_011227	Duração: 20 seg{nl}Set of 3 effects{nl} Physical/Magic Defense +0%{nl}Set of 4 effects{nl}  Physical/Magic Defense +40%{nl}Set of 5 effects{nl}  Physical/Magic Defense +100%	지속시간 20초{nl}3세트 효과{nl}  물리/마법 방어력 0% 증가{nl}4세트 효과{nl}  물리/마법 방어력 40% 증가{nl}5세트 효과{nl}  물리/마법 방어력 100% 증가				
-SKILL_20180517_011228	Kraujas	카루자				
-SKILL_20180517_011229	Receive the effects of the Ire of Kraujas, increasing both the damage you deal to enemies and the damage you receive from them. The effects stack with every attack dealt.   	시전자는 카루자의 분노 효과를 받아 적에게 주는 대미지와 적에게 받는 대미지가 증가합니다. 카루자의 효과를 받는 동안 적 공격시 버프가 중첩됩니다.   				
-SKILL_20180517_011230	Max Stacks: 10{nl}Damage dealt increases 10% per stack{nl}Damage received increases 20% per stack{nl}Duração: 20 seg	최대 중첩수 10{nl}중첩당 대미지 증가 10%{nl}중첩당 피격 대미지 증가 20% {nl}지속시간 20초				
-SKILL_20180517_011231	Gyvenimas	가베니				
-SKILL_20180517_011232	Creates a protective shield around you. When the shield's health is under 50%, it restores 1 health per seg. At 0 health, the shield no longer restores itself.	자신에게 실드를 부여합니다. 실드가 50%이하로 깎이면 1초마다 실드를 회복합니다. 실드량이 0이 되면 실드가 회복 되지 않습니다.				
-SKILL_20180517_011233	Max. shield health is 50% of your HP{nl}Duração: 30 seg	실드량 최대 체력 50%{nl}지속시간 30초				
+SKILL_20180517_011219	Sumazinti
+SKILL_20180517_011220	Reduz a Defesa Mágica dos inimigos ao redor.
+SKILL_20180517_011221	Defesa Mágica: -15%{nl}Duração: 15 seg{nl}Alvos: 5
+SKILL_20180517_011222	Tiksline
+SKILL_20180517_011223	Marca os inimigos que estiverem dentro da área da habilidade. Estes inimigos receberão dano adicional ao serem atacados por você. Após 5 segundos, a habilidade causará um dano mágico nos inimigos marcados igual ao total de dano que receberam enquanto a marca estava ativa.
+SKILL_20180517_011224	Alvos: 3{nl}Aumento de dano: 50%{nl}Duração: 5 segundos
+SKILL_20180517_011225	Mergaite
+SKILL_20180517_011226	Aumenta a defesa física e mágica. Mantém invencibilidade durante a execução da habilidade.
+SKILL_20180517_011227	Duração: 20 segungos{nl}Efeito: 3 itens{nl}  Defesa Física/Mágica: +0%{nl}Efeito: 4 itens{nl}  Defesa Física/Mágica +40%{nl}Efeito: 5 itens{nl}  Defesa Física/Mágica +100%
+SKILL_20180517_011228	Kraujas
+SKILL_20180517_011229	Recebe os efeitos da [Ira de Kraujas], aumentando tanto o dano que você causa como o dano que você recebe. Os efeitos acumulam a cada ataque causado.
+SKILL_20180517_011230	Máx. acúmulos: 10{nl}+10% de dano realizado por acúmulo{nl}+20% de dano recebido por acúmulo{nl}Duração: 20 segundos
+SKILL_20180517_011231	Gyvenimas
+SKILL_20180517_011232	Cria um escudo protetivo ao seu redor. Quando a vida do escuto estiver menor que 50%, restaurará 1 de vida por segundo. Ao atingir 0, o escudo não vai mais se recuperar.
+SKILL_20180517_011233	Vida máx. do escudo: 50% do seu HP{nl}Duração: 30 segundos
 SKILL_20180517_011234	Your body is stiffened. More vulnerable to Umbo Blow.	몸이 경직 됩니다. 엄보 블로에 취약해집니다.	SKILL_20160718_006390	Your body gets staggered. More vulnerable to Umbo Blow.	몸이 경직 됩니다. 엄보블로에 취약해집니다.	
 SKILL_20180517_011235	Bwa Kayiman state applied.	브와 카이망 상태입니다.	SKILL_20150918_005153	In the state of Bwa Kayiman.	브와카이망 상태입니다.	
 SKILL_20180517_011236	Shield Bash - Mix Stats	실드 배시-스탯 뒤섞임	SKILL_20150918_005157	Shield Bash-Mix stat	실드배쉬-스탯 뒤섞임	
@@ -11238,14 +11238,14 @@ SKILL_20180517_011237	High Anchoring: Critical Chance	하이 앵커링: 크리�
 SKILL_20180517_011238	Rapid Fire: Critical Chance	래피드 파이어: 크리티컬 찬스	SKILL_20160224_006245	Rapid Fire: Critical Chance	래피드파이어: 크리티컬 찬스	
 SKILL_20180517_011239	Jolly Roger: Enemy Debuff	졸리 로저:적 디버프	SKILL_20170313_007379	Jolly Roger: Enemy Debuff	졸리로저:적 디버프	
 SKILL_20180517_011240	Steed Charge can be used 1 more time	스티드 차지 스킬 한번 더 사용 가능	SKILL_20180208_010309	Steed Charge can be used 1 more time	스티드 챠지 스킬 한번 더 사용 가능	
-SKILL_20180517_011241	Magic defense reduced	마법 방어력 감소 상태				
-SKILL_20180517_011242	Increased damage received from Tiksline caster	티크라스 시전자에게 받는 대미지 증가				
-SKILL_20180517_011243	Magical Girl	마법소녀				
-SKILL_20180517_011244	Increased magic and physical defense	마법 방어력, 물리 방어력 상승				
-SKILL_20180517_011245	Ire of Kraujas	카루자의 분노				
-SKILL_20180517_011246	Increased damage dealt and received	대미지 증가, 피격 대미지 증가				
-SKILL_20180517_011247	Gyvenimas' Protection	가베니의 보호				
-SKILL_20180517_011248	Shield Effects	실드효과				
+SKILL_20180517_011241	Defesa Mágica reduzida
+SKILL_20180517_011242	Aumento do dano recebido de quem utilizou [Tiksline]
+SKILL_20180517_011243	Magical Girl
+SKILL_20180517_011244	Defesas Física e Mágica aumentadas
+SKILL_20180517_011245	Ira de Kraujas
+SKILL_20180517_011246	Dano causado e dano recebido aumentados
+SKILL_20180517_011247	Proteção de Gyvenimas
+SKILL_20180517_011248	Efeitos de Proteção
 SKILL_20180517_011249	Running Shot applied.	런닝 샷 적용 상태입니다	SKILL_20161005_006823	Running Shot applied.	런닝샷 적용 상태입니다	
 SKILL_20180517_011250	Item Awakening: Dungeon Event	아이템 각성: 던전 이벤트				
 SKILL_20180517_011251	Gae Bulg: Attack Zone	게이 불그: 공격지대				
@@ -13796,7 +13796,7 @@ SKILL_20190104_013796	(5 * Acúmulos)% de chance de ativar [Ignas - Ira] por 10s
 SKILL_20190104_013797	Ignas - Ira
 SKILL_20190104_013798	Ataque Máximo + 250 (Máx. 3 acúmulos), incapaz de evadir ou bloquear enquanto estiver sob este efeito.
 SKILL_20190104_013799	Fortitude
-SKILL_20190104_013800	(5 * Fortitude stacks)% de chance de ativar [Ignas - Fortitude] por 10 segundos ao Bloquear.
+SKILL_20190104_013800	(5 * Acúmulos)% de chance de ativar [Ignas - Fortitude] por 10 segundos ao Bloquear.
 SKILL_20190104_013801	Ignas - Fortitude
 SKILL_20190104_013802	Defesa Física e Mágica +300 (máx. 5 acúmulos).
 SKILL_20190104_013803	Ignas - Imunidade
@@ -15161,3 +15161,4 @@ SKILL_20190412_015161	Evento: Graça da Deusa
 SKILL_20190412_015162	Dano recebido -20%
 SKILL_20190416_015163	Funciona somente dentro do Velcoffer's Nest.{nl}Ataque Físico +7.000{nl}Ataque Mágico +7.000{nl}Defesa Física +10.000{nl}Defesa Mágica +10.000
 SKILL_20190416_015164	Defesa Física +3.000{nl}Defesa Mágica +3.000
+SKILL_20190419_015165	Dono de um Teeny Chick
