@@ -13779,7 +13779,7 @@ SKILL_20190104_013779	Magic Critical Attack Increase	마법 치명타 공격력 
 SKILL_20190104_013780	Increased magic critical attack at the cost of reducing HP recovery to 0.	HP 회복력의 일부가 마법 치명타 공격력에 더해지는 대신 HP 회복력이 0으로 감소	SKILL_20151224_005961	Increased Magic Amplification at the cost of reducing HP Recovery to 0.	HP 회복력의 일부가 마법 증폭에 더해지는 대신 HP 회복력이 0으로 감소	
 SKILL_20190104_013781	At 20 stacks, increases additional Holy and Dark property damage by 8% of your magic defense for 10 seconds (maximum 3,000 increase per property).	20 중첩 시 10초간 마법 방어력의 8%만큼 신성, 어둠 속성 추가 대미지 증가 (최대 속성별 3,000)	SKILL_20180629_011952	100 stacks = add. Holy and Dark damage equal to 8% of magic defense for 10 seg	100 중첩 시 10초간 마법 방어력의 8%만큼 신성, 어둠 속성 추가 대미지 증가	
 SKILL_20190104_013782	You feel fabulous in your new look.{nl}Movement speed +1{nl}Looting chance +50{nl}+10% threat increase per attack	아름답게 변해 기분이 매우 좋은 상태입니다.{nl}이동속도 +1{nl}루팅찬스 +50{nl}공격 시 증가하는 위협도 10% 증가	SKILL_20180629_011958	You feel fabulous in your new look.{nl}Movement speed +1{nl}Looting chance +50{nl}+10% provocation increase per attack	아름답게 변해 기분이 매우 좋은 상태입니다.{nl}이동속도 +1{nl}루팅찬스 +50{nl}공격 시 증가하는 도발 수치 10% 증가	
-SKILL_20190104_013783	Number of Targets Threatened Increased	위협 대상 수 증가	SKILL_20181017_012571	Increases the number of enemies provokable.	도발 대상 수 증가	
+SKILL_20190104_013783	Número de Alvos Provocados aumentado
 SKILL_20190104_013784	Porapore - Roast	포라포레 - 가열				
 SKILL_20190104_013785	At 20 stacks, increases additional Holy and Dark property damage by 8% of your magic defense for 10 seconds (maximum 3,000 increase per property).	20 중첩 시 10초간 마법 방어력의 8%만큼 신성, 어둠 속성 추가 대미지 증가 (각 속성별 최대 3,000 증가)				
 SKILL_20190104_013786	Hit and Hit	히트 앤 히트				
@@ -13800,7 +13800,7 @@ SKILL_20190104_013800	(5 * Acúmulos)% de chance de ativar [Ignas - Fortitude] p
 SKILL_20190104_013801	Ignas - Fortitude
 SKILL_20190104_013802	Defesa Física e Mágica +300 (máx. 5 acúmulos).
 SKILL_20190104_013803	Ignas - Imunidade
-SKILL_20190104_013804	(2.5 * Acúmulos de [Ignas - Imunity])% de chance de resistir efeitos negativos de Nível 2 ou menor.
+SKILL_20190104_013804	(2.5 * Acúmulos de [Ignas - Imunidade])% de chance de resistir efeitos negativos de Nível 2 ou menor.
 SKILL_20190104_013805	Táticas
 SKILL_20190104_013806	Ativa [Ignas - Táticas] a cada Ataque Crítico.
 SKILL_20190104_013807	Ignas - Táticas
@@ -15149,7 +15149,7 @@ SKILL_20190322_015149	Transformação Mística: Diamante
 SKILL_20190322_015150	Salvador Místico - Transformação de Diamante!
 SKILL_20190322_015151	Transformação Mística: Copas
 SKILL_20190322_015152	Salvador Místico - Transformação de Copas!
-SKILL_20190322_015153	Transformação Mística - Diamente
+SKILL_20190322_015153	Transformação Mística - Diamante
 SKILL_20190322_015154	Salvador Místico - Transformação de Diamante!{nl}Você retornará em breve para sua forma original.
 SKILL_20190322_015155	Transformação Mística - Copas
 SKILL_20190322_015156	Salvador Místico - Transformação de Copas!{nl}Você retornará em breve para a sua forma original.
