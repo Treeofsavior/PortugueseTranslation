@@ -12074,7 +12074,7 @@ QUEST_LV_0100_20151224_012073	Eu posso estar somente trabalhando para a Lorde de
 QUEST_LV_0100_20151224_012074	Eu não sei se estou disposto a trabalhar com isso depois que tudo acabar.{nl}Quero dizer, demônios né...
 QUEST_LV_0100_20151224_012075	Ouvi dizer que você encontrou a pessoa que falhamos em achar.{nl}Não sei se alguma vez me senti tão envergonhado como agora.
 QUEST_LV_0100_20151224_012076	Há tantos monstros próximos de Orsha...{nl}Consegue imaginar como estará daqui pra frente?
-QUEST_LV_0100_20151224_012077	Ah sim, você disse que estava procurando pelo Prefeito Romanas, não?{nl}O prefeito foi em direção ao Temporary Settler Camp com a Layla.{nl}
+QUEST_LV_0100_20151224_012077	Ah sim, você disse que estava procurando pelo Prefeito Romanas, não?{nl}O prefeito foi em direção ao Temporary Imigrante Camp com a Layla.{nl}
 QUEST_LV_0100_20151224_012078	Você poderia dar este Grass Leaf Ointment para Layla?{nl}Minhas pernas ainda estão tremendo depois do ataque...
 QUEST_LV_0100_20151224_012079	Perseguição nunca foi tão difícil assim.{nl}Há monstros perto de Orsha os quais nunca havia visto antes.
 QUEST_LV_0100_20151224_012080	Impressionante. Você salvou o Bispo...{nl}Bem, pelo menos tenho um pouco de satisfação em saber que eu estava certo.
@@ -12088,7 +12088,7 @@ QUEST_LV_0100_20151224_012087	Estou feliz que Pranas está a salvo.{nl}Recompen�
 QUEST_LV_0100_20151224_012088	Você salvou a minha vida, literalmente!{nl}Eu não seria capaz de ir a nenhum lugar mais se você não tivesse salvo Priest Pranas.
 QUEST_LV_0100_20151224_012089	Por favor, não fale a ninguém as investigações que estamos fazendo aqui.{nl}Vai haver muita discussão se os refugiados que descobrirem.
 QUEST_LV_0100_20151224_012090	Isto aqui... Brophen pediu para você me dar isto?{nl}Muito obrigada!{nl}
-QUEST_LV_0100_20151224_012091	Prefeito Romanas foi para o Temporary Settler Camp.{nl}Estava aqui esperando por Brophen.{nl}
+QUEST_LV_0100_20151224_012091	Prefeito Romanas foi para o Temporary Imigrante Camp.{nl}Estava aqui esperando por Brophen.{nl}
 QUEST_LV_0100_20151224_012092	Ah, talvez Brophen não tenha te falado disso.{nl}Você ouviu falar dos Pontos de Habilidades?{nl}
 QUEST_LV_0100_20151224_012093	Ouvi dizer que você pode usa-los para aprender novas habilidades{nl}ou aprimorar alguma das que você já possui.{nl}Tenho certeza que irá ajudar no combate. Escolha bem!
 QUEST_LV_0100_20151224_012094	Você começou a virar uma celebridade, hein.{nl}Rumores sobre você começaram a se alastrar para fora da cidade.
@@ -14248,8 +14248,8 @@ QUEST_LV_0100_20151224_014250	Brophen disse que você pode usar um Ponto de Stat
 QUEST_LV_0100_20151224_014251	Você se sente mais forte ao usar um Ponto de Status. Fale com Brophen.
 QUEST_LV_0100_20151224_014252	Brophen ensinou você a usar Pontos de Status. Fale com ele novamente.
 QUEST_LV_0100_20151224_014253	Entrege Grass Leaf Ointment para Layla
-QUEST_LV_0100_20151224_014254	Brophen disse que Layla deve saber onde está o prefeito. Ele também pediu para entregar este Grass Leaf Ointment para ela. No caminho para o Temporary Settler Camp, fale com Layla e entrege-a o item.
-QUEST_LV_0100_20151224_014255	Layla disse que o Prefeito Romanas está no Temporary Settler Camp. Procure por ele.
+QUEST_LV_0100_20151224_014254	Brophen disse que Layla deve saber onde está o prefeito. Ele também pediu para entregar este Grass Leaf Ointment para ela. No caminho para o Temporary Imigrante Camp, fale com Layla e entrege-a o item.
+QUEST_LV_0100_20151224_014255	Layla disse que o Prefeito Romanas está no Temporary Imigrante Camp. Procure por ele.
 QUEST_LV_0100_20151224_014256	Romanas acredita em seu talento e irá garantir que você entre em Orsha o quanto antes. Oficial Lutas está procurando por você, encontre-o no Orsha Migration Office.
 QUEST_LV_0100_20151224_014257	Lutas está processando a entrada dos imigrantes em Orsha, mas a tarefa parece não ter fim. Fale com ele novamente.
 QUEST_LV_0100_20151224_014258	O Poata apareceu de repente no acesso à Orsha e está atacando os imigrantes! Derrote-o!
@@ -14995,106 +14995,106 @@ QUEST_LV_0100_20160718_014997	Eu comprei elas de um Sapper que conheci em Klaipe
 QUEST_LV_0100_20160718_014998	Eu fiz algumas dúzias delas,{nl}então ainda faltam várias para serem pegas.{nl}Quando eu sair daqui, preciso ir para Klaipeda achar esse Sapper.
 QUEST_LV_0100_20160718_014999	Sabe o que é mais difícil do que fugir do Marnox?{nl}Tentar se esconder entre os Varvs na Felon Prison.{nl}Quero que você se livre dos Varvs que encontrar.
 QUEST_LV_0100_20160718_015000	Se você ver algum Varv, se livre dele o quanto antes.
-QUEST_LV_0100_20160718_015001	If I get out of here, I can talk proudly of having faced Marnox.{nl}But the thing with the Varvs is not something I want to talk about over dinner, or ever, to be honest.
-QUEST_LV_0100_20160718_015002	{nl}They were so many; there's no way, huh...{nl}Still, thanks for clearing them out a little...
-QUEST_LV_0100_20160718_015003	I think I'm going to need to camp out here for a few days, but I'm worried about spending the{nl}night here. Will you get me the blue coal I buried at Goram Shores and Saunu Brook?
-QUEST_LV_0100_20160718_015004	I buried it before Medzio Diena, but given my situation I really need to use it...
-QUEST_LV_0100_20160718_015005	I bought it from the mine in the northern snowfield thinking I could sell it in Orsha...{nl}However, after Medzio Diena, everyone was busy reconstructing the city and cutting down the tree around it.{nl}
-QUEST_LV_0100_20160718_015006	In the end, no one was buying my items.{nl}So I ended up burying it nearby in Koru Jungle.{nl}
-QUEST_LV_0100_20160718_015007	I didn't mean to leave it there for so long...{nl}Not sure if it'll still light up, because of the humidity.
-QUEST_LV_0100_20160718_015008	I've lost all of my Holy Stones...{nl}I don't know how much longer I'll be able to stay here.{nl}
-QUEST_LV_0100_20160718_015009	If you happen to find an Orb Crystal when fighting demons, will you bring it to me?{nl}I can use it to create a makeshift Holy Stone and protect myself.
-QUEST_LV_0100_20160718_015010	I'm still in pain from the beating.
-QUEST_LV_0100_20160718_015011	It's not much... But it will have to do.{nl}Thank you so much!
-QUEST_LV_0100_20160718_015012	You weren't thinking of ditching me and doing everything yourself, were you?{nl}Don't you have to be around here for that, anyways?{nl}
-QUEST_LV_0100_20160718_015013	While you're at it, you could clear out some monsters for me, too.
-QUEST_LV_0100_20160718_015014	Guess I shouldn't just trust whoever Niels recommends.
-QUEST_LV_0100_20160718_015015	Thank you.{nl}If you finish the other job, would you work here with me for a few months?{nl}It's okay if you don't want to, though...
+QUEST_LV_0100_20160718_015001	Se sairmos daqui, poderei dizer com orgulho que enfrentei o Marnox.{nl}Mas a situação com os Varvs não é algo que eu falaria durante a janta,{nl}para ser bem sincera. Seria nojento.
+QUEST_LV_0100_20160718_015002	{nl}Eram tantos... Não posso nem lembrar, credo...{nl}Mesmo assim, obrigada por se livrar de alguns deles...
+QUEST_LV_0100_20160718_015003	Acho que precisarei acampar aqui alguns dias,{nl}mas estou com medo de passar a noite.{nl}Poderia conseguir Blue Coal, enterrado em Goram Shores e Saunu Brook?
+QUEST_LV_0100_20160718_015004	Eu enterrei antes do Medzio Diena,{nl}mas dada a situação, preciso usar...
+QUEST_LV_0100_20160718_015005	Comprei na mina do campo gelado do norte,{nl}pensando em vender em Orsha...{nl}Porém, após o Medzio Diena,{nl}todos estão preocupados em reconstruir a cidade e não querem gastar.{nl}
+QUEST_LV_0100_20160718_015006	No fim, ninguém estava comprando os meus itens.{nl}Então acabei enterrando aqui próximo em Koru Jungle.{nl}
+QUEST_LV_0100_20160718_015007	Eu não queria manter aqui por tanto tempo...{nl}Não sei se ainda vai ascender, devido a humidade.
+QUEST_LV_0100_20160718_015008	Perdi todas as minhas Holy Stones...{nl}Não sei quanto tempo mais ficarei aqui.{nl}
+QUEST_LV_0100_20160718_015009	Se você encontrar um Orb Crystal ao enfrentar os monstros, poderia trazer para mim?{nl}Posso usar para criar uma Holy Stone e me proteger.
+QUEST_LV_0100_20160718_015010	Ainda sinto dor da pancada.
+QUEST_LV_0100_20160718_015011	Não é muito... Mas vai ter que servir.{nl}Muito obrigado!
+QUEST_LV_0100_20160718_015012	Você não estava pensando em me abandonar e fazer tudo sozinho, estava?{nl}Você não precisa estar aqui para isso, de qualquer forma?{nl}
+QUEST_LV_0100_20160718_015013	Enquanto está aqui,{nl}você poderia se livrar dos monstros para mim, também.
+QUEST_LV_0100_20160718_015014	Pelo jeito não devo confiar no que o Niels recomenda.
+QUEST_LV_0100_20160718_015015	Muito obrigado!{nl}Se você terminar o outro trabalho, você trabalharia comigo alguns meses?{nl}Está tudo bem se você não quiser...
 QUEST_LV_0100_20160718_015016	Epigrafista Deltran
-QUEST_LV_0100_20160718_015017	Please help me!{nl}There are important records here that I must find.{nl}
-QUEST_LV_0100_20160718_015018	But those monsters... If I move they'll come running right away.{nl}Please clear out the ones wandering over there!
-QUEST_LV_0100_20160718_015019	I got out of Stele Road without my master knowing.{nl}If I go back empty-handed, I'll be in big trouble.{nl}
-QUEST_LV_0100_20160718_015020	I could even be expelled from the Association...
-QUEST_LV_0100_20160718_015021	Thank you for helping me.{nl}I wonder where all those monsters came from.{nl}
-QUEST_LV_0100_20160718_015022	I know for sure there's something important in here!{nl} But please don't tell the other adventurers I'm here...
-QUEST_LV_0100_20160718_015023	With that many monsters, taking anything is almost impossible...
-QUEST_LV_0100_20160718_015024	Never have I seen such a dreadful place.{nl}The monsters corrupted by evil energy are interfering with our attempts of purification.{nl}
-QUEST_LV_0100_20160718_015025	If you follow the word of the goddess, you know what to do.{nl}Defeat them all!
-QUEST_LV_0100_20160718_015026	There's no time to wonder how this happened.{nl}We need to fix it before it's too late.
-QUEST_LV_0100_20160718_015027	I will make sure to tell the other believers about your generous help.{nl}Thank you.
-QUEST_LV_0100_20160718_015028	Please don't leave me alone here!{nl}If you go, the Lapasape Mages will come and take me!{nl}Please!
-QUEST_LV_0100_20160718_015029	I don't want them to take me.{nl}I miss my mother...
-QUEST_LV_0100_20160718_015030	Did you really get all of them?{nl}I can still feel them glaring at me from between the trees...
+QUEST_LV_0100_20160718_015017	Por favor, me ajude!{nl}Há registros importantes aqui que preciso encontrar.{nl}
+QUEST_LV_0100_20160718_015018	Mas estes monstros...{nl}Se eu me mover, eles virão correndo.{nl}Por favor, se livre de alguns deles por mim!
+QUEST_LV_0100_20160718_015019	Eu saí de Stele Road sem meu mestre saber.{nl}Se eu voltar sem nada, estarei com problemas.{nl}
+QUEST_LV_0100_20160718_015020	Eu poderia até ser expulso da Sociedade...
+QUEST_LV_0100_20160718_015021	Muito obrigado por me ajudar!{nl}Fico pensando de onde vieram todos estes monstros.{nl}
+QUEST_LV_0100_20160718_015022	Tenho certeza que há algo importante aqui!{nl}Mas, por favor, não fale aos outros que estou aqui...
+QUEST_LV_0100_20160718_015023	Com todos estes monstros, conseguir algo é quase impossível...
+QUEST_LV_0100_20160718_015024	Nunca vi um lugar tão terrível.{nl}Os monstros corrompidos pela energia maligna interferem na nossa tentativa de purificação.{nl}
+QUEST_LV_0100_20160718_015025	Se você seguir a palavra da Deusa, você sabe o que fazer.{nl}Derrote todos eles!
+QUEST_LV_0100_20160718_015026	Não há tempo para pensar quando que isso tudo aconteceu.{nl}Precisamos corrigir tudo antes que seja tarde demais.
+QUEST_LV_0100_20160718_015027	Garantirei que os outros Fiéis saibam da sua ajuda generosa.{nl}Muito obrigado!
+QUEST_LV_0100_20160718_015028	Por favor, não me abandone aqui!{nl}Se você sair, os Lapasape Mages virão atrás de mim!{nl}Por favor!
+QUEST_LV_0100_20160718_015029	Não quero que eles me levem.{nl}Tenho saudades da minha mãe...
+QUEST_LV_0100_20160718_015030	Você conseguiu derrotar todos eles?{nl}AInda sinto o olhar deles por entre as árvores...
 QUEST_LV_0100_20160718_015031	Herborista Talas
-QUEST_LV_0100_20160718_015032	It's useless.{nl}The demons won't let me collect the herbs I need from Badoca Hill.{nl}
-QUEST_LV_0100_20160718_015033	Without those herbs I can't make medicine for the refugees.{nl}It would be great if you could help...
-QUEST_LV_0100_20160718_015034	There's not much I can do with my legs like this...
-QUEST_LV_0100_20160718_015035	Thank you!{nl}I should tend to my legs now.
-QUEST_LV_0100_20160718_015036	The village priest asked me to collect some antidote from the Merog Stingers.{nl}I thought the villagers could help but, as you can see... it's hopeless...{nl}
-QUEST_LV_0100_20160718_015037	If you see any Merog Stingers, would you collect some antidote samples from them?{nl}
-QUEST_LV_0100_20160718_015038	For some time now the people coming to the shrine ruins are being chased away by Merog Stingers.{nl}They even stung and almost killed a few villagers...
-QUEST_LV_0100_20160718_015039	Thank you!{nl}We should collect as much as we can until everyone has recovered.
-QUEST_LV_0100_20160718_015040	Help!{nl}My spirits were taken away by monsters...{nl}
-QUEST_LV_0100_20160718_015041	Please save them!
-QUEST_LV_0100_20160718_015042	You need to observe the monsters carefully to find them...
-QUEST_LV_0100_20160718_015043	Thank you.{nl}I pray that they rest in peace with the goddess...
-QUEST_LV_0100_20160718_015044	I'm sorry... I'm so sorry...
-QUEST_LV_0100_20160718_015045	Frail Owl Sculpture
-QUEST_LV_0100_20160718_015046	I wish I could do something for the spirits, like you...
-QUEST_LV_0100_20160718_015047	The spirits I need to collect are all scattered, in fear of the monsters.{nl}Would you find these frightened spirits and bring them back to me?
-QUEST_LV_0100_20160718_015048	I miss the old, peaceful times...
-QUEST_LV_0100_20160718_015049	If I wasn't hidden among the trees like this, who knows if the monsters wouldn't have taken me too.{nl}But I will guide the spirits for as long as I can.{nl}Thank you for helping.
-QUEST_LV_0100_20160718_015050	Could you please... Help a bit more?{nl}The reason I am being chased by them is because I am getting rid of the defiling aura from the forest.{nl}
-QUEST_LV_0100_20160718_015051	I think you'd be able to deal with them more effectively...{nl}Could you help me?
-QUEST_LV_0100_20160718_015052	I want to finish them off as soon as possible and return.
-QUEST_LV_0100_20160718_015053	Thank you!{nl}We should finish the rest of them off as well.
-QUEST_LV_0100_20160718_015054	Historian Grenus
-QUEST_LV_0100_20160718_015055	Hey there. Could you help me out?{nl}There are a lot of relics in this area that are important to my research, but I can't gather them on my own.{nl}
-QUEST_LV_0100_20160718_015056	So here's my proposition... {nl}Why don't you go to the exploration sites that I've marked and dig the relics up.
-QUEST_LV_0100_20160718_015057	I assure you that you will be mentioned in my papers if my research sees the light of day.
-QUEST_LV_0100_20160718_015058	Well look at that, a kind traveler helping me more than any of my apprentices.{nl}Your name will be on my research papers when they're finished in a few years.{nl}Thank you!{nl}
-QUEST_LV_0100_20160718_015059	Maybe I should look for another line of work before I get any older...{nl}I think I'll do some serious thinking once I finish this research..
-QUEST_LV_0100_20160718_015060	What to do..{nl}I was planning on waiting at the gravekeeper's hut until the professor was well, but there are just too many monsters here.
-QUEST_LV_0100_20160718_015061	{nl}Could you please deal with some of the monsters in the surrounding area?{nl}I beg of you.
-QUEST_LV_0100_20160718_015062	I think I'll be leaving any strange things alone in the future...{nl}I never thought that something like this would happen.
-QUEST_LV_0100_20160718_015063	Thank you.{nl}I hope that the professor will get better soon...
-QUEST_LV_0100_20160718_015064	Settler Rodonas
-QUEST_LV_0100_20160718_015065	I've heard that you've been helping people around here..{nl}I was wondering if you could help me as well?{nl}I have to reclaim some land that Gytis asked me, but I haven't been able to go anywhere near it because of the monsters...{nl}I'd be grateful if you could deal with some of them..
-QUEST_LV_0100_20160718_015066	It's so sad that we have to be developing the land around Klaipeda...{nl}I'm worried that some of the monsters will come running towards us since they've lost their habitats.
-QUEST_LV_0100_20160718_015067	Thank you!{nl}You've scared a lot of the monsters away..{nl}I think we'll be able to start working in just a bit.
-QUEST_LV_0100_20160718_015068	What the settlement area needs is mercenaries to protect us... not more farmers...{nl}I can't see a single mercenary.
-QUEST_LV_0100_20160718_015069	I'm sorry, but could you help me out a bit?{nl}I wasn't able to gather more than half of the materials required for my mission.{nl}Could you please deal with the monsters and get the dirty pouches that they are carrying?{nl}I'd really appreciate it...
-QUEST_LV_0100_20160718_015070	I'm pretty sure that anyone asking for these are mages or alchemists...{nl}I'd like to tell them to try gathering this stuff themselves...
-QUEST_LV_0100_20160718_015071	Thank you so much!{nl}I'll be able to make it back much more quickly thanks to you.{nl}Even if this is only the beginning...
-QUEST_LV_0100_20160718_015072	Clear the Royal Mausoleum of the Guardians that overlook sinister presences and are trying to destroy the defense systems.{nl}That is the only way that you will be able to safely achieve your goals here.
-QUEST_LV_0100_20160718_015073	The defense system is being destroyed.
-QUEST_LV_0100_20160718_015074	The Guardians are being defiled at an increased rate.{nl}This has only delayed the destruction of the Royal Mausoleum.
-QUEST_LV_0100_20160718_015075	You must retrieve the essence from the Tainted Guardians.{nl}You will be able to interrupt the destruction of the Royal Mausoleum by doing so.
-QUEST_LV_0100_20160718_015076	Deal with all of the Tainted Guardians.{nl}That is the fate of the Royal Mausoleum Guardians.
+QUEST_LV_0100_20160718_015032	Não adianta.{nl}Os demônios não me deixam coletar as ervas que preciso de Badoca Hill.{nl}
+QUEST_LV_0100_20160718_015033	Sem estas ervas, não posso fazer o remédio para os refugiados.{nl}Seria muito bom se você pudesse ajudar....
+QUEST_LV_0100_20160718_015034	Não posso fazer muito com as minhas pernas nesse estado...
+QUEST_LV_0100_20160718_015035	Muito obrigado!{nl}Preciso repousar as minhas pernas agora.
+QUEST_LV_0100_20160718_015036	O Priest da vila pediu para coletar antídodo dos Merog Stingers.{nl}Pensei que os moradores poderiam ajudar mas,{nl}como você vê... Não teve ajuda...{nl}
+QUEST_LV_0100_20160718_015037	Se você encontrar algum Merog Stinger,{nl}poderia coletar amostras de antídoto dele?{nl}
+QUEST_LV_0100_20160718_015038	Já faz algum tempo que as pessoas vem até aqui e são perseguidas pelos Merog Stingers.{nl}Eles até picam e quase matam alguns dos moradores...
+QUEST_LV_0100_20160718_015039	Muito obrigada!{nl}Devemos coletar o máximo possível até todos se recuperarem.
+QUEST_LV_0100_20160718_015040	Socorro!{nl}Meus espíritos foram levados pelos monstros...{nl}
+QUEST_LV_0100_20160718_015041	Por favor, salve eles!
+QUEST_LV_0100_20160718_015042	Você precisa observar bem os monstros...
+QUEST_LV_0100_20160718_015043	Muito obrigado!{nl}Rezo para que descansem em paz com a Deusa...
+QUEST_LV_0100_20160718_015044	Sinto muito... Sinto muito...
+QUEST_LV_0100_20160718_015045	Escultura da Coruja Frágil
+QUEST_LV_0100_20160718_015046	Gostaria de fazer algo pelos espíritos, como você....
+QUEST_LV_0100_20160718_015047	Os espíritos que preciso coletar estão espalhados,{nl}todos com muito medo dos monstros.{nl}Poderia encontrar estes espíritos e trazê-los para mim?
+QUEST_LV_0100_20160718_015048	Sinto falta dos tempos antigos, pacíficos...
+QUEST_LV_0100_20160718_015049	Se eu não estivesse escondido entre as árvores,{nl}quem sabe se os monstros não teriam me levado também.{nl}Mas irei guiar os espíritos o máximo que eu puder.{nl}Muito obrigado pela ajuda.
+QUEST_LV_0100_20160718_015050	Você poderia... ajudar mais um pouco?{nl}Estou sendo perseguido porque estou me livrando da{nl}aura suja que tomou a floresta.{nl}
+QUEST_LV_0100_20160718_015051	Acho que você vai lidar com eles de forma mais efetiva...{nl}Poderia me ajudar?
+QUEST_LV_0100_20160718_015052	Quero me livrar deles o quanto antes e retornar.
+QUEST_LV_0100_20160718_015053	Muito obrigado!{nl}Devemos nos livrar dos demais também.
+QUEST_LV_0100_20160718_015054	Historiador Grenus
+QUEST_LV_0100_20160718_015055	Olá. Poderia me ajudar?{nl}Há várias relíquias nesta área que são importantes para minha pesquisa,{nl}porém não consigo obter todas elas sozinho.{nl}
+QUEST_LV_0100_20160718_015056	Então esta é a minha proposta...{nl}Que você vá aos locais de exploração e cave as relíquias.
+QUEST_LV_0100_20160718_015057	Garanto para você que mencionarei seu nome nos papéis,{nl}caso minha pesquisa seja publicada.
+QUEST_LV_0100_20160718_015058	Olha veja só, um gentil viajante que ajuda mais que qualquer aprendiz.{nl}O seu nome estará nos meus papéis da pesquisa,{nl}assim que eu terminar ela dentro de alguns anos.{nl}Muito obrigado!{nl}
+QUEST_LV_0100_20160718_015059	Talvez eu deva procurar outra linha de trabalho antes de envelhecer...{nl}Acho que pensarei bem nisso quando terminar esta pesquisa...
+QUEST_LV_0100_20160718_015060	O que fazer...{nl}Eu planejava esperar no Gravekeeper's Hut até o professor melhorar,{nl}mas ainda assim há muitos monstros no local.
+QUEST_LV_0100_20160718_015061	{nl}Você poderia lidar com alguns destes monstros?{nl}Eu imploro a sua ajuda.
+QUEST_LV_0100_20160718_015062	Acho que deixarei qualquer coisa estranha para lá, no futuro...{nl}Nunca pensei que algo assim fosse acontecer.
+QUEST_LV_0100_20160718_015063	Muito obrigada!{nl}Espero que o professor melhore logo...
+QUEST_LV_0100_20160718_015064	Imigrante Rodonas
+QUEST_LV_0100_20160718_015065	Ouvi que você está ajudando as pessoas por aqui.{nl}Estava pensando... Você poderia me ajudar também?{nl}Preciso rever umas terras que Gytis me pediu,{nl}mas eu não pude chegar nem perto por causa dos monstros...{nl}Ficaria feliz se você pudesse lidar com alguns deles.
+QUEST_LV_0100_20160718_015066	É muito triste que precisamos desenvolver as terras ao redor de Klaipeda...{nl}Fico preocupado que os monstros venham correndo até aqui, por terem perdido o habitat.
+QUEST_LV_0100_20160718_015067	Muito obrigado!{nl}Você espantou vários monstros.{nl}Acho que poderemos começar a trabalhar logo.
+QUEST_LV_0100_20160718_015068	O que os assentamentos precisam é de mercenários para proteção...{nl}Não de ainda mais fazendeiros....{nl}E eu não vejo um único mercenário aqui.
+QUEST_LV_0100_20160718_015069	Sinto muito, mas você poderia me ajudar um pouco?{nl}Não pude reunir nem metade dos materiais para a minha missão.{nl}Você poderia lidar com alguns monstros por mim,{nl}e coletar as Dirty Pouches que eles carregam?{nl}Iria gostar muito desta ajuda...
+QUEST_LV_0100_20160718_015070	Tenho certeza que quem pede por isso é Wizard ou Alchemist...{nl}Gostaria que eles tentassem coletar isso sozinhos...
+QUEST_LV_0100_20160718_015071	Muito obrigada pela ajuda!{nl}Poderei voltar muito mais cedo graças a sua ajuda.{nl}Mesmo que isso seja só o começo...
+QUEST_LV_0100_20160718_015072	Remova do Royal Mausoleum os guardiões que ignoram presenças sinistras,{nl}e acabam tentando destruir o sistema de defesa.{nl}Esta é a única forma para você alcançar seus objetivos aqui.
+QUEST_LV_0100_20160718_015073	O sistema de defesa está sendo destruído.
+QUEST_LV_0100_20160718_015074	Os guardiões estão sendo profanados muito rapidamente.{nl}Isto só atrazou a destruição do Royal Mausoleum.
+QUEST_LV_0100_20160718_015075	Você precisa recuperar a essência dos Tainted Guardians.{nl}Você poderá interromper a destruição do Royal Mausoleum ao fazer isso.
+QUEST_LV_0100_20160718_015076	Lide com todos os Tainted Guardians.{nl}Esta é a sina dos Guardiões do Royal Mausoleum.
 QUEST_LV_0100_20160718_015077	Laterous
-QUEST_LV_0100_20160718_015078	The people are scared because of all sorts of strange rumors...{nl}I need to find some people to raise a farm but people refuse to venture out because of the rumors and monsters.{nl}I'm getting more anxious by the day.{nl}You seem like a strong adventurer, so could you please deal with some of the monsters nearby?{nl}I'm sure that dealing with the monsters will help out with the rumors as well.
-QUEST_LV_0100_20160718_015079	I am not leaving here no matter what anyone says..{nl}I've come here after ignoring all my family and friends that told be that this was a bad idea, you see.
-QUEST_LV_0100_20160718_015080	Thank you so much!{nl}I'm sure that many people will be more eager since the monsters are gone.{nl}We'll be able to get a foothold now!
-QUEST_LV_0100_20160718_015081	I thought that this was supposed to be a pleasant place to live instead of being infested with monsters...{nl}I still won't give up though...
-QUEST_LV_0100_20160718_015082	Wandering Fiel's Soul
-QUEST_LV_0100_20160718_015083	One of the living all the way over here... The goddess must have sent you...{nl}Please help me... Strange figures and monsters are taking the spirits away...
-QUEST_LV_0100_20160718_015084	I'll be taken away as well if something isn't done about it...{nl}Please! Could you deal with some of the monsters in the area?
-QUEST_LV_0100_20160718_015085	I don't remember anything from when I was alive...{nl}Why did I even die?
-QUEST_LV_0100_20160718_015086	Thank you...{nl}With them gone, I can now leave whenever I wish.
-QUEST_LV_0100_20160718_015087	Why am I here... and why are they trying to catch me?
-QUEST_LV_0100_20160718_015088	Pilgrim Seronia
-QUEST_LV_0100_20160718_015089	I'm relieved to meet a person here.{nl}Could you deal with some of the monsters in the surrounding area?{nl}They're more than a match for me on my own..{nl}I'd greatly appreciate your help.
-QUEST_LV_0100_20160718_015090	I don't know how I got all the way over here...{nl}I got separated from the people I came with since we were chased by monsters...{nl}I have no idea where any of them might be...{nl}I hope they are alright...
-QUEST_LV_0100_20160718_015091	Thank you so much..{nl}I think I'll start moving once the monsters have thinned out a bit more.
-QUEST_LV_0100_20160718_015092	This way leads to the cursed city...{nl}Where did we start going wrong?
+QUEST_LV_0100_20160718_015078	As pessoas estão assustadas por causa de vários rumores estranhos...{nl}Preciso achar pessoas para erguer uma fazenda,{nl}mas as pessoas não querem por causa dos rumores de monstros.{nl}Fico ansioso a cada dia que passa.{nl}Você parece um aventureiro muito forte,{nl}poderia me ajudar a lidar com alguns monstros?
+QUEST_LV_0100_20160718_015079	Não vou sair daqui, não importa o que digam...{nl}Vim até aqui após ignorar toda a minha família e amigos,{nl}que diziam não ser uma boa ideia, sabe.
+QUEST_LV_0100_20160718_015080	Muito obrigado!{nl}Sei que várias pessoas estarão agitadas agora que os monstros sumiram.{nl}Vamos conseguir nos instalar definitivamente agora.
+QUEST_LV_0100_20160718_015081	Pensei que este seria um bom lugar para viver,{nl}ao invés de ser um lugar infestado de monstros...{nl}Mesmo assim eu não vou desistir tão cedo...
+QUEST_LV_0100_20160718_015082	Espírito do Fiel
+QUEST_LV_0100_20160718_015083	Alguém vivo neste local... A Deusa deve ter enviado você...{nl}Por favor, me ajude...{nl}Figuras estranhas e monstros estão levando os espíritos...
+QUEST_LV_0100_20160718_015084	Serei levado também se nada for feito...{nl}Por favor! Livre-se de alguns monstros nesta área!
+QUEST_LV_0100_20160718_015085	Não lembro de nada de quando eu era vivo...{nl}Por que será que acabei morrendo?
+QUEST_LV_0100_20160718_015086	Muito obrigado...{nl}Sem eles, posso ficar mais tranquilo.
+QUEST_LV_0100_20160718_015087	Por que estou aqui...{nl}E por que estão tentando me pegar?
+QUEST_LV_0100_20160718_015088	Peregrina Seronia
+QUEST_LV_0100_20160718_015089	Fico feliz de encontrar uma pessoa aqui.{nl}Poderia se livrar de alguns monstros ao redor?{nl}Eles são demais, não consigo lidar sozinha...{nl}Vou ser muito grata a sua ajuda.
+QUEST_LV_0100_20160718_015090	Não sei como que cheguei até aqui...{nl}Me separei das pessoas que estavam comigo,{nl}desde que começamos a ser perseguidos por monstros...{nl}Não tenho ideia de onde eles possam estar...{nl}Só espero que estejam bem...
+QUEST_LV_0100_20160718_015091	Muito obrigada!{nl}Acho que seguirei adiante quando a quantidade de monstros diminuirem.
+QUEST_LV_0100_20160718_015092	Este caminho leva até a cidade amaldiçoada...{nl}Onde começamos a dar errado?
 QUEST_LV_0100_20160718_015093	Seguidor Nedluss
-QUEST_LV_0100_20160718_015094	I've decided to stay here and help out as repentance to my wrongs against Melchioras.{nl}I've just found several suspicious spell devices on the Garden Watchtower.{nl}However, they're a bit too much for me to deal by myself.{nl}So I was thinking... could you destroy them for me?
-QUEST_LV_0100_20160718_015095	I shudder to think of how many of those monsterous devices are still hidden...
-QUEST_LV_0100_20160718_015096	Well done.{nl}I'm sure that there will be a few more to destroy if we comb the area but...{nl}I think we can call it a day.
-QUEST_LV_0100_20160718_015097	I hope Melchioras gets well soon...
-QUEST_LV_0100_20160718_015098	We'll need to know about the demons well in order to drive them out of this area.{nl}Defeat the demons and bring back their condensed magic.{nl}Melchioras may be able to do some research in order to find a fatal weakness.
-QUEST_LV_0100_20160718_015099	I'm sure that they'll be easier to handle if we know their weaknesses...
-QUEST_LV_0100_20160718_015100	I think that this will be enough to find a weakness or two.{nl}Thank you!
+QUEST_LV_0100_20160718_015094	Decidi ficar aqui para ajudar e pagar pelos meus erros com o Melchioras.{nl}Encontrei vários feitiços suspeitos na Garden Watchtower.{nl}Porém, é um pouco demais para que eu lide.{nl}Então estava pensando... poderia destruí-los para mim?
+QUEST_LV_0100_20160718_015095	Me tremo todo só de pensar quantos destes aparelhos ainda estão escondidos...
+QUEST_LV_0100_20160718_015096	Muito bem.{nl}Tenho certeza que haverão mais alguns para destruir...{nl}Mas acho que podemos encerrar por hoje.
+QUEST_LV_0100_20160718_015097	Espero que o Melchioras fique melhor logo...
+QUEST_LV_0100_20160718_015098	Precisaremos saber mais sobre os demônios,{nl}assim poderemos removê-los desta área.{nl}Derrote os demônios e traga a magia condensada deles.{nl}Melchioras pode ser capaz de analisar e encontrar a fraqueza.
+QUEST_LV_0100_20160718_015099	Tenho certeza que será mais fácil quando descobrirmos a fraqueza...
+QUEST_LV_0100_20160718_015100	Acho que será possível achar uma ou duas fraquezas.{nl}Muito obrigado pela ajuda!
 QUEST_LV_0100_20160718_015101	I am thinking of setting up traps around the Delmore Outskirts but...{nl}I wasn't able to do anything due to the Pag Emitters coming from all over.{nl}Could you deal with some of them if they come near?{nl}I'm sure that setting up any traps will be much easier if you help.
 QUEST_LV_0100_20160718_015102	I'll be discussing where the best places would be to set up the traps with my colleagues here.
 QUEST_LV_0100_20160718_015103	That's a lot of monsters!{nl}Now all that is left is to set up the traps without them noticing.
@@ -15425,16 +15425,16 @@ QUEST_LV_0100_20160718_015427	Collect Orb Crystals
 QUEST_LV_0100_20160718_015428	Seguidor Vaidutis asked you to collect orb crystals in order to craft a Holy Stone to complete his mission. You can find orb crystals near the Worship Anteroom and Nuosirdum Chapel.
 QUEST_LV_0100_20160718_015429	Report back to Seguidor Vaidutis
 QUEST_LV_0100_20160718_015430	You have collected sufficient amounts of orb crystals. Take them to Seguidor Vaidutis.
-QUEST_LV_0100_20160718_015431	Historian Kepeck is waiting for help on Apvija Hill.
-QUEST_LV_0100_20160718_015432	Historian Kepeck says that he has nothing to protect him. Defeat monsters from the surrounding area to keep him safe.
-QUEST_LV_0100_20160718_015433	Report back to Historian Kepeck
+QUEST_LV_0100_20160718_015431	Historiador Kepeck is waiting for help on Apvija Hill.
+QUEST_LV_0100_20160718_015432	Historiador Kepeck says that he has nothing to protect him. Defeat monsters from the surrounding area to keep him safe.
+QUEST_LV_0100_20160718_015433	Report back to Historiador Kepeck
 QUEST_LV_0100_20160718_015434	You have dealed with enough monsters. Go back to Kepeck.
-QUEST_LV_0100_20160718_015435	Talk to Historian Grenus
-QUEST_LV_0100_20160718_015436	Historian Grenus is waiting for help at the Gateway of the Great King.
+QUEST_LV_0100_20160718_015435	Talk to Historiador Grenus
+QUEST_LV_0100_20160718_015436	Historiador Grenus is waiting for help at the Gateway of the Great King.
 QUEST_LV_0100_20160718_015437	Find Worn Ancient Scriptures
-QUEST_LV_0100_20160718_015438	Historian Grenus wishes to produce some research results by excavating relics at the Gateway of the Great King. Look for Worn Ancient Scriptures from the excavation site while he takes a rest.
-QUEST_LV_0100_20160718_015439	Report back to Historian Grenus
-QUEST_LV_0100_20160718_015440	You have collected sufficient Worn Ancient Scriptures. Take them to Historian Grenus even if you don't think they are worth much.
+QUEST_LV_0100_20160718_015438	Historiador Grenus wishes to produce some research results by excavating relics at the Gateway of the Great King. Look for Worn Ancient Scriptures from the excavation site while he takes a rest.
+QUEST_LV_0100_20160718_015439	Report back to Historiador Grenus
+QUEST_LV_0100_20160718_015440	You have collected sufficient Worn Ancient Scriptures. Take them to Historiador Grenus even if you don't think they are worth much.
 QUEST_LV_0100_20160718_015441	Talk to Epigrafista Deltlan
 QUEST_LV_0100_20160718_015442	Epigrafista Deltlan is waiting for help at Overlong Bridge Valley.
 QUEST_LV_0100_20160718_015443	Epigrafista Deltlan has asked you to deal with the monsters from the surrounding area so that he can carry on with his research.
@@ -15480,11 +15480,11 @@ QUEST_LV_0100_20160718_015482	Assistant Airine at Akmens Ridge is waiting for he
 QUEST_LV_0100_20160718_015483	Assistant Airine says that she will stay with Archeologist Dezic until he recovers. Help Airine nurse Dezic back to health safely by dealing with the monsters nearby.
 QUEST_LV_0100_20160718_015484	Report back to Assistant Airine
 QUEST_LV_0100_20160718_015485	You have defeated enough monsters for Assistant Airine to be safe. Go back to Airine.
-QUEST_LV_0100_20160718_015486	Talk to Settler Rodonas
-QUEST_LV_0100_20160718_015487	Settler Rodonas from Gytis Settlement is waiting for help.
-QUEST_LV_0100_20160718_015488	Settler Rodonas says that he is unable to establish the settlement because there are too many monsters. Help Rodonas by defeating monsters near Bandrass Forkroad.
-QUEST_LV_0100_20160718_015489	Report back to Settler Rodonas
-QUEST_LV_0100_20160718_015490	You have dealed with monsters near Bandrass Forkroad as Settler Rodonas requested. Report back to Settler Rodonas.
+QUEST_LV_0100_20160718_015486	Talk to Imigrante Rodonas
+QUEST_LV_0100_20160718_015487	Imigrante Rodonas from Gytis Settlement is waiting for help.
+QUEST_LV_0100_20160718_015488	Imigrante Rodonas says that he is unable to establish the settlement because there are too many monsters. Help Rodonas by defeating monsters near Bandrass Forkroad.
+QUEST_LV_0100_20160718_015489	Report back to Imigrante Rodonas
+QUEST_LV_0100_20160718_015490	You have dealed with monsters near Bandrass Forkroad as Imigrante Rodonas requested. Report back to Imigrante Rodonas.
 QUEST_LV_0100_20160718_015491	Talk to the Tired Soldier
 QUEST_LV_0100_20160718_015492	The Tired Soldier is waiting for help near Zachariel Crossroads.
 QUEST_LV_0100_20160718_015493	Obtain Dirty Pouches
@@ -15522,11 +15522,11 @@ QUEST_LV_0100_20160718_015524	Collect Condensed Magic
 QUEST_LV_0100_20160718_015525	Seguidor Bigs says that he requires Condensed Magic from demons to help Melchioras. Defeat the demons from the surrounding area to collect condensed magic.
 QUEST_LV_0100_20160718_015526	Report back to Seguidor Bigs
 QUEST_LV_0100_20160718_015527	You have collected sufficient Condensed Magic. Go back to Seguidor Bigs.
-QUEST_LV_0100_20160718_015528	Talk to Pilgrim Seronia
-QUEST_LV_0100_20160718_015529	Pilgrim Seronia is waiting for help at Feretory Hills.
-QUEST_LV_0100_20160718_015530	Pilgrim Seronia says that she has been chased by monsters all the way here. Deal with the monsters from the surrounding area so that she can rest a little.
-QUEST_LV_0100_20160718_015531	Report back to Pilgrim Seronia
-QUEST_LV_0100_20160718_015532	You have dealt with enough monsters from the surrounding area. Go back to Pilgrim Seronia.
+QUEST_LV_0100_20160718_015528	Talk to Peregrina Seronia
+QUEST_LV_0100_20160718_015529	Peregrina Seronia is waiting for help at Feretory Hills.
+QUEST_LV_0100_20160718_015530	Peregrina Seronia says that she has been chased by monsters all the way here. Deal with the monsters from the surrounding area so that she can rest a little.
+QUEST_LV_0100_20160718_015531	Report back to Peregrina Seronia
+QUEST_LV_0100_20160718_015532	You have dealt with enough monsters from the surrounding area. Go back to Peregrina Seronia.
 QUEST_LV_0100_20160718_015533	Revelator Mihail is waiting for help at Delmore Outskirts.
 QUEST_LV_0100_20160718_015534	Defeat the Pag Emitter
 QUEST_LV_0100_20160718_015535	Revelator Mihail has asked you to defeat the Pag Emitters that are attacking people at Delmore Outskirts.
@@ -16908,7 +16908,7 @@ QUEST_LV_0100_20170330_016910	O fato mais importante é que tipo de alvo Lydia S
 QUEST_LV_0100_20170330_016911	Serviçal Kupole
 QUEST_LV_0100_20170330_016912	Fale com o Submestre Rodelero em Gateway of the Great King.
 QUEST_LV_0100_20170330_016913	O Submestre Rodelero pediu para você trazer um escudo aprimorado em 4 níveis. Aprimore um escudo que seja reconhecido pelo Submestre Rodelero.
-QUEST_LV_0100_20170330_016914	Follower Donatas pediu para você derrotar alguns Pawndels e Pawnds para você adquirir confiança, para então poder se transformar em um demônio usando o pergaminho de transformação. Depois de transformar você mesmo em um demônio, interaja com Pawndels e Pawnds, atraia-os para o Apsauga Altar e elimine-os.
+QUEST_LV_0100_20170330_016914	Seguidor Donatas pediu para você derrotar alguns Pawndels e Pawnds para você adquirir confiança, para então poder se transformar em um demônio usando o pergaminho de transformação. Depois de transformar você mesmo em um demônio, interaja com Pawndels e Pawnds, atraia-os para o Apsauga Altar e elimine-os.
 QUEST_LV_0100_20170330_016915	Vá para Klaipeda e fale com o Cavaleiro Comandante Uska
 QUEST_LV_0100_20170330_016916	 - Pressione esta tecla para abrir o mapa e siga a bandeira até Klaipeda.{nl}Cavaleiro Comandante Uska está procurando por pessoas que sonharam com as deusas. Conte-lhe seus sonhos com as Revelações.
 QUEST_LV_0100_20170330_016917	O Mestre Rodelero pediu para você trazer um escudo aprimorado em 4 níveis. Aprimore um escudo que seja reconhecido pelo Mestre Rodelero.
