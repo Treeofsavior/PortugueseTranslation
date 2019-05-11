@@ -13088,6 +13088,7 @@ SKILL_20190104_013087	Gera uma poderosa energia através da harmonização do Yi
 SKILL_20190104_013088	Multiplicador: #{SkillFactor}#% a cada 0.1 segundos{nl}Duração máxima: 4 segundos{nl}Alvos: 15{nl}Consome Paper Doll x#{SpendItemCount}#
 SKILL_20190104_013089	Amaldiçoa um inimigo para reduzir a defesa mágica e evitar que consiga se recuperar.
 SKILL_20190104_013090	Causa dano nos inimigos almaldiçoados, gerando um dano adicional no terceiro ataque em sequência.
+SKILL_20190104_013091	Multiplicador: #{SkillFactor}#%{nl}Bônus no terceiro golpe: #{CaptionRatio}#x até #{CaptionRatio2}#x
 SKILL_20190104_013092	Marca os inimigos ao redor, fazendo com que eles retornem como zumbis após serem derrotados. Os atributos de um zumbi serão baseados no inimigo derrotado. HP e STR dos zumbis aumentam conforme a sua INT e SPR.
 SKILL_20190104_013093	Invoca até 8 zumbis{nl}Dano do zumbi aumenta com o nível
 SKILL_20190104_013094	Instrui os seus zumbis a celebrar fazendo com que sigam você. Os zumbis causarão dano em tudo que tocarem. A STR dos zumbis será aplicado como dano adicional.
