@@ -41141,26 +41141,783 @@ ETC_20190416_041055	Te dou cobertura!
 ETC_20190416_041056	Encontrou Rastros Demoníacos
 ETC_20190416_041057	Marquei o local!{nl}Vou ajudar você!
 ETC_20190416_041058	Você plantou a semente.{nl}Você receberá novos estágios do Broto a cada 1 minuto.
-ETC_20190419_041059	Private-Eye Costume Selection Box
-ETC_20190419_041060	Use para selecionar um dos seguintes itens:{nl} - Private-Eye Costume (M) x1{nl} - Private-Eye Costume (F) x1
-ETC_20190419_041061	Laima Kindergarten Costume Selection Box
-ETC_20190419_041062	Use para selecionar um dos seguintes itens:{nl} - Laima Kindergarten Costume (M) x1{nl} - Laima Kindergarten Costume (F) x1
-ETC_20190419_041063	I♥TOS Costume Selection Box	I♥TOS
-ETC_20190419_041064	Use para selecionar um dos seguintes itens:{nl}- I♥TOS Costume (Male) x1{nl}- I♥TOS Costume (Female) x1
-ETC_20190419_041065	Teeny Chick
-ETC_20190419_041066	O pintinho mais brilhante e alegre, adorado por todas as crianças do Reino.
-ETC_20190419_041067	[Evento] Pequeno Ajudante do Teliavelis
-ETC_20190419_041068	[Evento] Gostaria de trabalhar para você.
-ETC_20190419_041069	[Evento] Aqui estão os Pedaços de Estrela Cintilantes.
-ETC_20190419_041070	Você receberá {#003399}Pedaços de Estrela Cintilantes{/} em torno de 5 segundos após o término.
-ETC_20190419_041071	Você não pode receber os prêmios de participação enquanto está acontecendo GTW.
-ETC_20190426_041072	Oferecer Tulipa
-ETC_20190426_041073	Recompensa Diária - Maio
-ETC_20190426_041074	Entregue a Tulipa para{nl}"{@st66d_y}{s16}{NPC}{/}{/}".
-ETC_20190426_041075	Receber a Lista dos Amantes de Tulipas
-ETC_20190426_041076	Este personagem já recebeu a Lista dos Amantes de Tulipas.
-ETC_20190426_041077	Troque Tulipas com os NPCs de Klaipeda por uma recompensa de sua escolha.{nl}Você recebe a {@st66d_y}{s16}Lista dos Amantes de Tulipas{/}{/} no Quadro de Eventos.
-ETC_20190504_041078	Challenge Reset Mega Box
-ETC_20190504_041079	Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Challenge Mode One Entry Voucher x100{nl}- Challenge Portal Scroll x100
-ETC_20190504_041080	2019 Leticia's Treasure Chest (May)
-ETC_20190504_041081	Um baú repleto dos itens mais preciosos da Leticia. Use para obter os seguintes itens:{nl} - Token x3{nl} - Shining Golden Socket Box{nl} - Goddesses' Blessed Gem x100{nl} - Shining 8-Star Gem Abrasive x3
+ETC_20190419_041059	Pennamayo
+ETC_20190419_041060	No one is yet aware as to how this little bird came to be such a ferocious beast.
+ETC_20190419_041061	Frocoli
+ETC_20190419_041062	Since Medzio Diena, people have tried to hunt Frocoli to use as a source of food. Although they found out they weren't edible, they found out that their oil could be used to light fires.
+ETC_20190419_041063	Amphibigola
+ETC_20190419_041064	Golas are creatures that exist both in our world as well as the demon realm. While the Golas of the demon realm have higher intelligence, Amphibigolas are named so due to their amphibious nature. 
+ETC_20190419_041065	Infro Crabil
+ETC_20190419_041066	Crabils are big enough as they are but Infro Crabils are even bigger and stronger.
+ETC_20190419_041067	Spider
+ETC_20190419_041068	It is just a regular spider, only massively enlarged. It is one of the strangest creatures to appear since Medzio Diena in that it is so ordinary in appearance.
+ETC_20190419_041069	Tooter
+ETC_20190419_041070	This monster is known to let out a long howl similar to that of a large bull. Some say it even sounds like a wind instrument.
+ETC_20190419_041071	Ghosnatus
+ETC_20190419_041072	Ghosnatus are formed from the ghosts of men who used to be murderes.
+ETC_20190419_041073	Moringponia
+ETC_20190419_041074	Giltine needed powerful demons in order to interfere in the plans of the Goddess Laima. She had organized the Demon Lords as her very own elite demon army, which Moringponia was a part of. Ever since being elected into the ranks, Moringponia had been after Laima's Revelations under orders from Baiga. Moringponia was elected as a Demon Lord relatively late in comparison to others in her ranks, but seeing that she answers personally to Baiga tells that she is not to be taken lightly because of this.
+ETC_20190419_041075	Tantalizer
+ETC_20190419_041076	Giltine needed powerful demons in order to interfere in the plans of the Goddess Laima. She had organized the Demon Lords as her very own elite demon army, which Tantalizer was a part of. Tantalizer had since begun working under Kartas, during the time which he had secretly been in contact with Baiga and taking his orders as well. 
+ETC_20190419_041077	Amacalf
+ETC_20190419_041078	Schaffenstar members often make fun of the monster's short legs. 
+ETC_20190419_041079	Rudas Elavine
+ETC_20190419_041080	The scholars claim that a different kind of Elavine exists somewhere in this world but they have yet to find any proof of this. 
+ETC_20190419_041081	Velsoarer
+ETC_20190419_041082	The scholars had long considered Velsoarers to be demons but they have recently come to realize that it is actually a mutated beast of some sort.
+ETC_20190419_041083	Velpod
+ETC_20190419_041084	It is still under debate which plant the spores of a Velpod actually come from.
+ETC_20190419_041085	Cloverin
+ETC_20190419_041086	The spores of a Cloverin can be found spread across almost all of the Kingdom, although they are less seldom seen in the northern parts of the Kingdom where the climate is colder.
+ETC_20190419_041087	Rafflet
+ETC_20190419_041088	New plant monsters such as the Rafflet, are being discovered every day in the Great Woodlands, which is a heavily forested area with a sparse population density.
+ETC_20190419_041089	Ghoscandle
+ETC_20190419_041090	Ghoscandles are formed out of souls of deceased humans. As you can tell from its appearance, only the vilest and the most perverted humans become Ghoscandles after their souls leave their body.
+ETC_20190419_041091	Gigglecat
+ETC_20190419_041092	Little is known about the Gigglecat, a ghostly demon that lets out a spine chilling giggle every once in a while.
+ETC_20190419_041093	Infro Gremlin
+ETC_20190419_041094	Blueberrin
+ETC_20190419_041095	They're cute but they can't be tamed nor can they be eaten as food.  
+ETC_20190419_041096	Delione
+ETC_20190419_041097	Despite its appearances, Delione does not belong to an independent species of plants but is a mutation of an already known plant species. Many plant monsters like these have begun to appear since Medzio Diena.
+ETC_20190419_041098	Fragolin
+ETC_20190419_041099	Fragolin is one of the newer monsters that have only recently been found by the adventurers of the Kingdom. Most of these new monsters are found in the areas around the Fallen City.
+ETC_20190419_041100	Chesha Papa
+ETC_20190419_041101	They say that Chesha Papas are not affected by the force of gravity.
+ETC_20190419_041102	Chesha Venom
+ETC_20190419_041103	It is said that Chesha Venom's poison rots the mind of the victims that are weak willed.
+ETC_20190419_041104	Ghosbebe
+ETC_20190419_041105	Ghosbebes are demons created from souls of humans that had been a clergyman during their lives. 
+ETC_20190419_041106	Ghoscat
+ETC_20190419_041107	Ghoscats are former pets that have become demons. They are lovable pets to demons but are known as vicious murderers to humans. 
+ETC_20190419_041108	Gland
+ETC_20190419_041109	Glands always aim for a specific part of the human body when attacking. Because of this, It is believed that this demon has some knowledge of the human anatomy. 
+ETC_20190419_041110	Grievous Wheel
+ETC_20190419_041111	These demons are said to be found mostly in the areas ruled by Baiga as the terrain there is flat.
+ETC_20190419_041112	Banterers are a friendly lot among demons. Unlike other demons, Banterers are known to be friendly amongst demons but their hostility towards humans is not all that different from the other demons.
+ETC_20190419_041113	Arch Gargoyle
+ETC_20190419_041114	People doubt that they will ever come across any other gargoyles larger than the Arch Gargoyle, aptly named because of their unusually large size. Even if so, their names will probably remain unchanged.
+ETC_20190419_041115	Hooter
+ETC_20190419_041116	Despite having been mutated in Medzio Diena, they can still make the sounds they used to make before they were transformed. 
+ETC_20190419_041117	Kisylion
+ETC_20190419_041118	Originally believed to be herbivores, Kisylions have grown a taste for meat since Medzio Deina. They prone to gathering left-over meat than hunt for themselves, but are dangerous creatures nonetheless.
+ETC_20190419_041119	Monitor Lizard
+ETC_20190419_041120	This monster is known to observe the objects around it when it thinks that no one is looking. A scholar has even gone as far as to confirm this by casting an invisibility spell on himself.
+ETC_20190419_041121	Red Grievous Wheel
+ETC_20190419_041122	Red Banterer
+ETC_20190419_041123	Red Gland
+ETC_20190419_041124	Chesa Torso
+ETC_20190419_041125	The sewers of the major cities of the Kingdom were well maintained before Medzio Diena. But now the sewers have become a growing pain, providing habitat for mutant monsters such as these.
+ETC_20190419_041126	Chesha Riel
+ETC_20190419_041127	Chesha Riels are believed to be a result of Mutant-type monsters that have been possessed by evil spirits.
+ETC_20190419_041128	Chesha Needle
+ETC_20190419_041129	No one has yet witnessed this monster actually sewing something.
+ETC_20190419_041130	White Scarecrow
+ETC_20190419_041131	Tenacious Tutu
+ETC_20190419_041132	Devious Moldyhorn
+ETC_20190419_041133	Ferocious Kurmis
+ETC_20190419_041134	General Banshee Boss
+ETC_20190419_041135	Deranged Vel's Chariot
+ETC_20190419_041136	Demon Lord Tantalizer
+ETC_20190419_041137	Canister Gravity Round
+ETC_20190419_041138	Central Parias Forest
+ETC_20190419_041139	Southern Parias Forest
+ETC_20190419_041140	Northern Parias Forest
+ETC_20190419_041141	At arms!
+ETC_20190419_041142	Fire!
+ETC_20190419_041143	Enemy incoming!!
+ETC_20190419_041144	All volunteering members gather around!
+ETC_20190419_041145	Come over here.
+ETC_20190419_041146	I want you to disguise yourselves as the enemy and infiltrate their ranks to collect intel.
+ETC_20190419_041147	Please be careful as this is a very dangerous mission.
+ETC_20190419_041148	Got it?
+ETC_20190419_041149	My the Goddess' watch over you all!
+ETC_20190419_041150	I hope the same for you too, Revelator.
+ETC_20190419_041151	Go!
+ETC_20190419_041152	I see... It's an emergency. Alright!
+ETC_20190419_041153	The enemy captain has been dealt with but...
+ETC_20190419_041154	We have too many casualties... I sure hope this is over soon...
+ETC_20190419_041155	There's still more of them..!
+ETC_20190419_041156	Men and Women of the Resistance...!
+ETC_20190419_041157	Everyone, charge! We will die fighting where we stand!
+ETC_20190419_041158	It... It's over...
+ETC_20190419_041159	Sigh...
+ETC_20190419_041160	Those wretched demons...
+ETC_20190419_041161	We've made it...
+ETC_20190419_041162	We won!!
+ETC_20190419_041163	Everyone, get in position and fire!!
+ETC_20190419_041164	What are you doing? Stand up and fight!
+ETC_20190419_041165	We've done it. We have won!
+ETC_20190419_041166	Hoorah!!
+ETC_20190419_041167	We won!!
+ETC_20190419_041168	Reinforcements will arrive soon. We must hold our positions!
+ETC_20190419_041169	Everyone. Fire!!
+ETC_20190419_041170	They're coming!
+ETC_20190419_041171	It's them!
+ETC_20190419_041172	Run... They're... Coming...
+ETC_20190419_041173	Arrrgh...
+ETC_20190419_041174	Eeik...
+ETC_20190419_041175	Ugh...
+ETC_20190419_041176	Gasp...
+ETC_20190419_041177	Waagh...
+ETC_20190419_041178	Yeeek!!
+ETC_20190419_041179	Aaahh!!
+ETC_20190419_041180	Yarrgh!!
+ETC_20190419_041181	Locking Mechanism
+ETC_20190419_041182	The obelisk has been demolished!
+ETC_20190419_041183	Place the colored shards on the pedestal in the correct order!
+ETC_20190419_041184	Well, then. Let's get moving!
+ETC_20190419_041185	Over there. There's the portal.
+ETC_20190419_041186	Now we only need to destroy that portal.
+ETC_20190419_041187	Huh...?!
+ETC_20190419_041188	We've been discovered... Initiate fire!
+ETC_20190419_041189	Aaaahhhh!!
+ETC_20190419_041190	Argh!!
+ETC_20190419_041191	What?!!
+ETC_20190419_041192	You thought you could kill me with a flimsy arrow?
+ETC_20190419_041193	I have no time for distractions. Be gone!
+ETC_20190419_041194	I took care of the disruptors.
+ETC_20190419_041195	Those dregs don't even stand a chance.
+ETC_20190419_041196	Now, let us dance the waltz of death!
+ETC_20190419_041197	Obtain the Shiny Glass Shards from monsters
+ETC_20190419_041198	We only just got the artifact, what is...
+ETC_20190419_041199	Give me the artifact!
+ETC_20190419_041200	I can't die in a place like this!
+ETC_20190419_041201	I can start over! If only I have the artifact!
+ETC_20190419_041202	Aaaah!!!
+ETC_20190419_041203	Master?
+ETC_20190419_041204	Master, what happened...!
+ETC_20190419_041205	It's an attack!
+ETC_20190419_041206	Why are they still...!
+ETC_20190419_041207	They're already...!
+ETC_20190419_041208	Uhh... Please look out for the back. Revelator!
+ETC_20190419_041209	I'll try and lure in some monsters!
+ETC_20190419_041210	Huff, huff...
+ETC_20190419_041211	...?! No wounds...?
+ETC_20190419_041212	Huh?!
+ETC_20190419_041213	Come here!
+ETC_20190419_041214	Huh? Where did it go?
+ETC_20190419_041215	The demons are coming!
+ETC_20190419_041216	Ah... Medeina...
+ETC_20190419_041217	Compressed Magic Stone
+ETC_20190419_041218	The Kupole's scream has drawn the attention of demons!{nl}Protect the Kupole from the demons!
+ETC_20190419_041219	That branch... It's...
+ETC_20190419_041220	But..
+ETC_20190419_041221	Medeina!!
+ETC_20190419_041222	Ilona!
+ETC_20190419_041223	Support Magic Circle
+ETC_20190419_041224	I'm sorry...
+ETC_20190419_041225	Aaaah!! Medeina!!
+ETC_20190419_041226	Hurry, Medeina...!
+ETC_20190419_041227	Protect Goddess Medeina from the oncoming demons!
+ETC_20190419_041228	Ugh!!
+ETC_20190419_041229	Defeat the Demon Lord Tantalizer who has been released from his binding!
+ETC_20190419_041230	Agh!
+ETC_20190419_041231	Budding Sprout
+ETC_20190419_041232	A title given to a budding sprout that will one day grow to become a big tree
+ETC_20190419_041233	Kartas' Worst Enemy
+ETC_20190419_041234	Complete main story quest of Paris Forest.
+ETC_20190419_041235	Mark: Familiar Foe
+ETC_20190419_041236	A mark imprinted by Boruta onto those he deems traitors.{nl}The mark lasts for 2 weeks after abandoning a guild and keeps you from entering Sulivinas Lair and obtaining contribution points.
+ETC_20190419_041237	Checking for reactions to the Time Meter Necklace
+ETC_20190419_041238	The monster is reacting to the Time Meter Necklace
+ETC_20190419_041239	You transformed into a Banterer by using the Druid Master's solution.
+ETC_20190419_041240	Mana protected due to the effects of the Mana Lamp.
+ETC_20190419_041241	Bone Fragment
+ETC_20190419_041242	Bone Pointing buff that takes the caster's attack.
+ETC_20190419_041243	{nl} {nl}To apply set stats to your items you need a Pamoka Solution, which you can purchase from the Alchemist Master.
+ETC_20190419_041244	{nl} {nl}Right-click the Pamoka Solution to activate it and store some of the EXP you gain in combat in the solution.
+ETC_20190419_041245	{nl} {nl}When the solution is full, the item image will change to the icon below.
+ETC_20190419_041246	{nl} {nl}At the Alchemist Master, register your Legend item and full Pamoka Solution to apply the set stats of your choosing.
+ETC_20190419_041247	The different areas of Earth Tower can be entered according to your character's level, and there is a weekly entry limit applied.
+ETC_20190419_041248	{nl} {nl}Special materials obtained from Earth Tower can be exchanged for powerful equipment items at the Kedora Alliance NPC located by the entrance of Earth Tower.
+ETC_20190419_041249	{nl} {nl}Velcoffer's Nest does not share its entry limit with Earth Tower raids.{nl}The consumed entry counts will be reset every week.
+ETC_20190419_041250	{nl} {nl}At the end of the dungeon is Velcoffer, a dragon who escaped its confinement after being sealed during a war with the Goddesses many eras ago. {nl}Your goal is to defeat Velcoffer to obtain its special rewards.{nl}All Token users can use the [Re-open] option to obtain extra rewards. 
+ETC_20190419_041251	Players who complete Remnants of Bernice can receive Remnants of Bernice Coins according to the number of stages cleared.{nl}Remnants of Bernice Coins can be exchanged at the Oracle Master.{nl}The top 3 players in each class tree also get special rewards.
+ETC_20190419_041252	{nl} {nl}Players will obtain rewards immediately upon successfully completing the mission, and doing so will generate a Secret Cube NPC in the area. Interact with the NPC to use the [Re-open] option.
+ETC_20190419_041253	You can enter the Uphill Defense Mission by interacting with Sister Lhasa in the Saalus Convent.{nl}The mission has a per-team entry limit that resets every Monday at 06:00.
+ETC_20190419_041254	{nl} {nl}Before entering the Uphill Defense Mission, you can select its difficulty.
+ETC_20190419_041255	Please consider the level of your party members when selecting the difficulty.{nl}When the difficulty options appear before all the members are gathered, you may select a degree of difficulty that is not adequate, so make sure to consider that.
+ETC_20190419_041256	{nl} {nl}The goal of the Uphill Defense Mission is to protect the Divine Torch at the center.
+ETC_20190419_041257	To win, you need to defend the Divine Torch from the hordes of monsters, which grow stronger and stronger as the stages progress.{nl}Among the monsters you will find the Lapemiters, which deal massive damage, as well as powerful monsters.
+ETC_20190419_041258	{nl} {nl}Within the defense area, you will see Fire Crystals appear that help you progress through the mission.
+ETC_20190419_041259	{nl} {nl}Any Fire Crystals you collect can be exchanged for beneficial effects at the Essence Purifier, located in the center of the lower section.
+ETC_20190419_041260	Players who clear 15 stages of the Uphill Defense mission can receive Gem Abrasives from Sister Lhasa at the Saalus Convent.
+ETC_20190419_041261	{nl} {nl}Even if you can't complete 15 stages, you can still collect Uphill Defense Shop Points, which you can trade at the shop for other items.
+ETC_20190419_041262	{nl} {nl}Players will obtain rewards and a Cube of Blessing upon successfully completing the mission, and doing so will generate a Secret Cube NPC in the area.{nl}Interact with the NPC to use the [Re-open] option.
+ETC_20190419_041263	Additionally, you can receive Sister Aiste's Gift{nl}up to 3 times per team per day. 
+ETC_20190419_041264	{nl} {nl}Sister Aiste's Gift and Cube of Blessing will give you Blessed Shards which you can use to craft the Goddess' Blessed Gems.
+ETC_20190419_041265	The Gemstone Feud can be entered through the Gemstone Feud NPC.{nl}The NPC can be located in the following areas.{nl}1. Klaipeda (North) 2. Miner's Village (North end){nl}3. Orsha (East) 4. Fedimian (West)
+ETC_20190419_041266	{nl}[Important]{nl}- Entrance is allowed only at 21:00 and 21:20 (according to your server region's timezone).{nl}- You can enter with characters of level 350 and above who are not in a party.{nl}- You can enter the Feud up to 5 minutes after the start of the session.
+ETC_20190419_041267	- Before the start, players have 1 minute of standby where skill use becomes unavailable.{nl}- Once the teams are decided, they are moved to their corresponding safe zones where they are granted 
+ETC_20190419_041268	 {nl}- Players can re-enter before the session ends, and re-entering returns them to the Team they had been previously allocated to.
+ETC_20190419_041269	s are equally distributed throughout all team members.{nl} {nl}When you are killed by a player in the opposing team, you will revive at the starting point in 5 seconds and gain 1 minute of 
+ETC_20190419_041270	 buff. You will not lose any Crystals you hold if you die while still under the effects of the buff.
+ETC_20190419_041271	The boss spawns in the center of the map, and defeating it gives 50 team points.
+ETC_20190419_041272	Victory is decided based on the total of points gathered by each camp. After the results are announced, you receive Mercenary Badges that equal to 3x the Personal Points that you have earned, to a maximum of 1500 badges.{nl}The winning team receives 1500 bonus badges while the losing team receives 300 badges additionally. In the event of a tie, both teams receive a bonus of 300 Badges.{nl} {nl}MVP{nl}
+ETC_20190419_041273	Kill Points
+ETC_20190419_041274	Crystal Retrieval Points
+ETC_20190419_041275	have reached the Top 5 Rank for your team, you receive additional Mercenary Badges.{nl} {nl}Penalty{nl}You will forfeit from receiving any Mercenary Badges when your personal Crystal Points are below 10.{nl}However, you will still be able to receive badges for being within the Top 5 Rank.
+ETC_20190419_041276	{nl} {nl}You can use the Mercenary Badges you receive from{nl}the Gemstone Feud to purchase other items through the Gemstone Feud NPC.
+ETC_20190419_041277	Tracking log for class tree change error
+ETC_20190419_041278	Lolopanther Area 1
+ETC_20190419_041279	Lolopanther Area 2
+ETC_20190419_041280	Lolopanther Area 3
+ETC_20190419_041281	Lolopanther Area 4
+ETC_20190419_041282	Solmiki Area 1
+ETC_20190419_041283	Solmiki Area 2
+ETC_20190419_041284	Solmiki Area 3
+ETC_20190419_041285	Solmiki Area 4
+ETC_20190419_041286	Use to select one of the following items.{nl} - Mystic Boy - Heart (M) x1{nl} - Mystic Girl - Heart (F) x1{nl} - Mystic Girl - Heart (M) x1
+ETC_20190419_041287	Private-Eye Costume Selection Box
+ETC_20190419_041288	Use para selecionar um dos seguintes itens:{nl} - Private-Eye Costume (M) x1{nl} - Private-Eye Costume (F) x1
+ETC_20190419_041289	Laima Kindergarten Costume Selection Box
+ETC_20190419_041290	Use para selecionar um dos seguintes itens:{nl} - Laima Kindergarten Costume (M) x1{nl} - Laima Kindergarten Costume (F) x1
+ETC_20190419_041291	I♥TOS Costume Selection Box
+ETC_20190419_041292	Use para selecionar um dos seguintes itens:{nl}- I♥TOS Costume (Male) x1{nl}- I♥TOS Costume (Female) x1
+ETC_20190419_041293	Randomly changes the number, groups and values of stats contained in a random stat item. It also alters the item's stats themselves. Applied stats cannot be reversed.{nl} {nl}- Will be automatically deleted at the end of the event period.
+ETC_20190419_041294	Randomly changes the number, groups and values of stats contained in a random-stat item. You can select one stat from the before or after to keep. To use the item you must select one stat to keep.{nl} {nl}- Will be automatically deleted at the end of the event period.
+ETC_20190419_041295	Increases Class Points by +3,000.{nl}Class Points can be accumulated to a maximum of 3,000 and excess points earned will not be saved.{nl} {nl}- Will be automatically deleted at the end of the event period.
+ETC_20190419_041296	2019 Leticia's Treasure Chest (April)
+ETC_20190419_041297	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Goddess' Blessed Gem x150
+ETC_20190419_041298	[Event] Hair 90% OFF Coupon
+ETC_20190419_041299	Applies a 90% discount to one hairstyle purchased at the Barber Shop.{nl}Cannot be used with other discount coupons.{nl} {nl}- Will be automatically deleted at the end of the event period.
+ETC_20190419_041300	[Event] Hair Dye 90% OFF Coupon
+ETC_20190419_041301	Applies a 90% discount to one hair dye purchased at the Barber Shop.{nl}Cannot be used with other discount coupons.{nl} {nl}- Will be automatically deleted at the end of the event period.
+ETC_20190419_041302	Attribute Points: 5
+ETC_20190419_041303	Matross
+ETC_20190419_041304	If the primary focus of a Cannoneer is on maximizing the cannon's firepower, a Matross aims to overcome the sluggish and cumbersome nature of the weapon.{nl}Their primary focus in combat is evasion and sabotage tactics using the cannon.
+ETC_20190419_041305	Tiger Hunter
+ETC_20190419_041306	Tiger Hunters are not your ordinary hunters. They pride themselves on their survival skills, as mastered artfully by the Tiger Hunter Master Yuna.{nl}Tiger Hunters use the musket as their weapon of choice and specialize in combating against Beast-type enemies.
+ETC_20190419_041307	Ardito
+ETC_20190419_041308	The Arditi attack their close-range targets using daggers and throw grenades against far off enemies. You could argue that they lack appear to lack focus, but seeing them in the heat of the combat will be more than enough to change your mind about them.{nl}The Arditi are a class that specialize in annihilation tactics against a large number of enemies using the dagger and the grenade.
+ETC_20190419_041309	Sheriff
+ETC_20190419_041310	Sheriffs specialize in high mobility ranged combat using the precise and unrelenting rounds fired from the pistol. They are known to be highly evasive against enemy attacks all the while dealing accurate attacks for upper hand in 1 on 1 situations.
+ETC_20190419_041311	Set Date
+ETC_20190419_041312	Savinose
+ETC_20190419_041313	CON {img green_up_arrow 16 16} 42
+ETC_20190419_041314	Movement Speed {img green_up_arrow 16 16} 3{nl} STA 30
+ETC_20190419_041315	Grace of Rykuma{nl}- Grants immunity to debuffs Rank 4 and below for 20 seconds.{nl}- Consumes Lensterseum x1{nl} {nl}Dragon Strength Lv 1 Effects{nl}- Increases the duration of Grace of Rykuma by 10 seconds
+ETC_20190419_041316	STR {img green_up_arrow 16 16} 32{nl}INT {img green_up_arrow 16 16} 32
+ETC_20190419_041317	Korup's Decay{nl}- Reduces maximum HP by 30%, Increases damage dealt to the enemy by 30% for each debuff the target is under(10 seconds duration, maximum of 240% increase){nl} {nl}- Consumes Riperium x1{nl} {nl}Dragon Strength Level 1{nl}Following effects are applied for the duration of Korup's Decay{nl}- Increases Physical, Poison damage by 10%{nl}- Increases Critical Rates for Magic and Curse attacks by 20%
+ETC_20190419_041318	If you exchange your current gear for {@st66d_y}Lv 400 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}
+ETC_20190419_041319	{/}provides items such as Silver Ichor Extraction Kit, Goddess' Blessed Gems, Attribute Points and miscellaneous items that temporarily boost your character's attributes when fighting bosses.{nl}Gemstone Feud can be entered through {@st66d_y}
+ETC_20190419_041320	{/}, which is located in the following areas.{nl}1. Klaipeda (North) 2. Miner's Village (North end){nl}3. Orsha (East) 4. Fedimian (West){nl}Two sessions of Gemstone Feud will be held and can be entered at 9:00 PM and 9:20 PM server time.
+ETC_20190419_041321	Syla Forest Entrance
+ETC_20190419_041322	Paslaptis Lot
+ETC_20190419_041323	Parias Falls
+ETC_20190419_041324	Poilsis Pond
+ETC_20190419_041325	Ilgas Trail
+ETC_20190419_041326	Gilus Lot
+ETC_20190419_041327	Klevas Intersection
+ETC_20190419_041328	Southern Parias Forest Entrance
+ETC_20190419_041329	Ruduo Garden
+ETC_20190419_041330	Tvenkinys Lot
+ETC_20190419_041331	Paprastas Lot
+ETC_20190419_041332	Astuonkojis Crossroads
+ETC_20190419_041333	Apelsinas Trail
+ETC_20190419_041334	Gardus Lot
+ETC_20190419_041335	Gaivus Lot
+ETC_20190419_041336	Parias Foot Bridge
+ETC_20190419_041337	Mazas Pond
+ETC_20190419_041338	Tesiamas Falls
+ETC_20190419_041339	Kvepavimas Lot
+ETC_20190419_041340	Gyvenimas Shelter
+ETC_20190419_041341	Maple Bridge
+ETC_20190419_041342	Grazus Cliff
+ETC_20190419_041343	Spindintis Lot
+ETC_20190419_041344	Drugelis Hill
+ETC_20190419_041345	Old Concert Hall
+ETC_20190419_041346	Collapsed Square
+ETC_20190419_041347	Recovery Squad Temporary Base
+ETC_20190419_041348	Barynwell Hill Road
+ETC_20190419_041349	Old Residential Quarters
+ETC_20190419_041350	Barynwell Lot
+ETC_20190419_041351	Old Observatory Entrance
+ETC_20190419_041352	Collapsed Shelter
+ETC_20190419_041353	Collapsed Observatory
+ETC_20190419_041354	Himil Family Base
+ETC_20190419_041355	Mayvern Waters Trade Route
+ETC_20190419_041356	Old Training Grounds
+ETC_20190419_041357	Old Market
+ETC_20190419_041358	Watch Post
+ETC_20190419_041359	Aqueduct Control Room
+ETC_20190419_041360	Old Warehouse
+ETC_20190419_041361	Old Laker Base
+ETC_20190419_041362	Old Laker Training Grounds
+ETC_20190419_041363	Laker Temporary Base
+ETC_20190419_041364	Old Stakeout Box
+ETC_20190419_041365	Laker Shelter
+ETC_20190419_041366	Reservoir
+ETC_20190419_041367	Mayvern Intersection
+ETC_20190419_041368	Vacant Lot
+ETC_20190419_041369	Training Grounds
+ETC_20190419_041370	Armory
+ETC_20190419_041371	Graveyard
+ETC_20190419_041372	Meeting Grounds
+ETC_20190419_041373	Hall of Fame
+ETC_20190419_041374	Drill Seargent's Lab
+ETC_20190419_041375	Schaffenstar Camp
+ETC_20190419_041376	Western Beacon
+ETC_20190419_041377	Eastern Beacon
+ETC_20190419_041378	Entryway Square
+ETC_20190419_041379	Northern Tournament Hall
+ETC_20190419_041380	Collapsed Assembly Area
+ETC_20190419_041381	Weapons Assembly Area
+ETC_20190419_041382	Watchman's Post
+ETC_20190419_041383	Barrack Roof
+ETC_20190419_041384	Area 13 Passage
+ETC_20190419_041385	Area 15 Passage
+ETC_20190419_041386	Mors Point
+ETC_20190419_041387	Grave of the Nameless
+ETC_20190419_041388	Beacon Mound Entrance
+ETC_20190419_041389	Outskirts Bridge
+ETC_20190419_041390	Area 64
+ETC_20190419_041391	Area 65
+ETC_20190419_041392	Tackle Box Stage 3
+ETC_20190419_041393	Castle Main Gate
+ETC_20190419_041394	Castle Main Gate (open)
+ETC_20190419_041395	Maple Leaf
+ETC_20190419_041396	Bound Tantalizer
+ETC_20190419_041397	Young Maple Leaf
+ETC_20190419_041398	Teeny Chick
+ETC_20190419_041399	O pintinho mais brilhante e alegre, adorado por todas as crianças do Reino.
+ETC_20190419_041400	[Episode 11] Adventure Sprout
+ETC_20190419_041401	[Episode 11] New Class Sprout Shop
+ETC_20190419_041402	[Episode 11] Growth Gem Shop
+ETC_20190419_041403	[Epsiode 11] Uska's Support Shop
+ETC_20190419_041404	[Episode 11] Warp to Pajauta's Mark
+ETC_20190419_041405	Buy Arditi Goods
+ETC_20190419_041406	Collect the Broken Arrows
+ETC_20190419_041407	Talk to the Kedoran Merchant Alliance Nergui
+ETC_20190419_041408	Stop the demon invasion
+ETC_20190419_041409	Transform into a Banterer to collect information
+ETC_20190419_041410	Fight off the demon forces until reinforcements arrive
+ETC_20190419_041411	Defeat the souls of the soldiers who have turned into demons
+ETC_20190419_041412	Attach the Purifiers to the nearby obelisks
+ETC_20190419_041413	Use the Holy Water to purify the demons
+ETC_20190419_041414	Avoid the traps to arrive at the locking device safely
+ETC_20190419_041415	Protect the Goddess State from the demons
+ETC_20190419_041416	Obtain the explosives to throw
+ETC_20190419_041417	Defeat the demons to find clues
+ETC_20190419_041418	Arrange the fragments in the correct order
+ETC_20190419_041419	Install Portal Suppressors Near the Portal
+ETC_20190419_041420	Follow the firefly and obtain the Yellow Flower
+ETC_20190419_041421	Follow the firefly to obtain the Red Flower
+ETC_20190419_041422	Follow the firefly to obtain the White Flower
+ETC_20190419_041423	Look for the Yellow Butterfly Leaf
+ETC_20190419_041424	Look for the Red Butterfly Leaf
+ETC_20190419_041425	Look for the White Butterfly Leaf
+ETC_20190419_041426	Search the bed of Yellow Flowers
+ETC_20190419_041427	Search the bed of Red Flowers
+ETC_20190419_041428	Search the bed of White Flowers
+ETC_20190419_041429	Obtain the Transparent Crystal
+ETC_20190419_041430	Defeat the attacking demons
+ETC_20190419_041431	Use the Suppression Scroll to bind the Demon Lord Tantalizer
+ETC_20190419_041432	Search near the sappling
+ETC_20190419_041433	Defeat the oncoming demons and retrieve the Seed of the Divine Tree
+ETC_20190419_041434	Protect the Kupoles from attacking demons
+ETC_20190419_041435	Defeat the demons that were guarding the Goddess Medeina
+ETC_20190419_041436	Suppress the power of the Magic Stone
+ETC_20190419_041437	Defend Goddess Medeina from the oncoming demons
+ETC_20190419_041438	Deliver the return orders to the soldiers
+ETC_20190419_041439	Repair the damaged Barricades
+ETC_20190419_041440	Give words of encouragement to the soldiers
+ETC_20190419_041441	Install the bomb in the entry point of the road
+ETC_20190419_041442	Install the bomb in the middle of the road
+ETC_20190419_041443	Install the bomb at the end of the road
+ETC_20190419_041444	Move the Water Plants
+ETC_20190419_041445	Gives you 20% chance to inflict between 5,000 and 8,000 damage to 10 enemies around and including the target.{nl}Dragon Strength Lv 2{nl}Damage received by target from Drakonas Frieno increases by 10% with a reduced number of enemies targetted.
+ETC_20190419_041446	The pain...
+ETC_20190419_041447	Recipe - Legend Raid Portal Stone
+ETC_20190419_041448	Matross Advancement
+ETC_20190419_041449	Tiger Hunter Advancement
+ETC_20190419_041450	Arditi Advancement
+ETC_20190419_041451	Sheriff Advancement
+ETC_20190419_041452	/sprout
+ETC_20190419_041453	This function is temporarily disabled.
+ETC_20190419_041454	You are carrying an abnormal Multiply Token. Please read the News page at treeofsavior.com for more information.
+ETC_20190419_041455	Please select a set stat you would like to apply
+ETC_20190419_041456	Cannot be used during combat.
+ETC_20190419_041457	Cannot be used while the skill has consumed all overheats or is in cooldown.
+ETC_20190419_041458	You can only place equipment of identical types.
+ETC_20190419_041459	Your class is forbidden from using that item.
+ETC_20190419_041460	All items registered as ingredients will be destroyed during Transmutation.
+ETC_20190419_041461	You may fail in Ichor Transmutation.{nl}All of the registered items will be {#aa0000}destroyed{/} if Transmutation fails.
+ETC_20190419_041462	{nl}You will be returned to the character select screen after a successful skill reset.
+ETC_20190419_041463	{Inviter} has invited you to group chat. Will you accept?
+ETC_20190419_041464	Your invitation has been declined.
+ETC_20190419_041465	Divine Torch HP recovered!
+ETC_20190419_041466	You must be below level 380 to participate
+ETC_20190419_041467	Drawn water from the lake.
+ETC_20190419_041468	You have drawn enough water.
+ETC_20190419_041469	You have already drawn water here. You must wait before you can draw water again.
+ETC_20190419_041470	Say that you are the Revelator and explain your situation.
+ETC_20190419_041471	Delivering the return orders
+ETC_20190419_041472	You have caught enough fish.
+ETC_20190419_041473	Cheering the soldiers
+ETC_20190419_041474	Removing the Water Plants
+ETC_20190419_041475	You have removed enough Water Plants. Return to the Laker Youth.
+ETC_20190419_041476	Picking up the Water Plant
+ETC_20190419_041477	You cannot carry any more Water Plants.
+ETC_20190419_041478	Moved the Water Plant.
+ETC_20190419_041479	You have moved all the Water Plants. Report to the Laker Youth.
+ETC_20190419_041480	Collecting Water Facility Magic Source
+ETC_20190419_041481	Obtained a Water Facility Magic Source.
+ETC_20190419_041482	Collecting Plant with Lake Energy
+ETC_20190419_041483	Successfully collected the plant.
+ETC_20190419_041484	Removed the Water Plant.
+ETC_20190419_041485	Unloading
+ETC_20190419_041486	There are no Water Plants.
+ETC_20190419_041487	You have already collected a Magic Source.
+ETC_20190419_041488	You have collected enough Magic Sources. Return to the Laker Youth.
+ETC_20190419_041489	You have collected enough plants. Return to the Laker Leader.
+ETC_20190419_041490	Destroying the Demon Portal
+ETC_20190419_041491	The Portal has been destroyed.
+ETC_20190419_041492	Lifted the Water Plant.
+ETC_20190419_041493	You do not know how to use the device.
+ETC_20190419_041494	A bomb has already been planted here.
+ETC_20190419_041495	The bomb has been planted.
+ETC_20190419_041496	Caught a Lake Fish.
+ETC_20190419_041497	Catching Lake Fish.
+ETC_20190419_041498	Growth Gem Shop
+ETC_20190419_041499	Adventure Sprout Shop
+ETC_20190419_041500	New Class Sprout Shop
+ETC_20190419_041501	The effects of Urbas Seal has expired.{nl}You will be returned to Vedas Plateau in {COUNT} seconds
+ETC_20190419_041502	You cannot use Urbas Seal again.{nl}Try again tomorrow at 10 PM.
+ETC_20190419_041503	Receive items.
+ETC_20190419_041504	Do not receive items.
+ETC_20190419_041505	Check eligible classes.
+ETC_20190419_041506	Receive Class Points.
+ETC_20190419_041507	Receive items.
+ETC_20190419_041508	Receive Class Change Points and Items
+ETC_20190419_041509	  o'clock direction
+ETC_20190419_041510	[Event] I'd like to work for you.
+ETC_20190419_041511	[Event] Here are my Twinkling Star Pieces.
+ETC_20190419_041512	You will receive your {#003399}Twinkling Star Pieces{/} around 5 seconds after the end.
+ETC_20190419_041513	Obtained the Ancient Tree Essence from the roots of the Ancient Tree
+ETC_20190419_041514	 Mary!
+ETC_20190419_041515	Heeya!
+ETC_20190419_041516	Move it!
+ETC_20190419_041517	[Kedoran Alliance]{nl}Nergui
+ETC_20190419_041518	Over here!
+ETC_20190419_041519	Who is that?
+ETC_20190419_041520	Poor thing...
+ETC_20190419_041521	What is going on?
+ETC_20190419_041522	Did you hear?
+ETC_20190419_041523	The word is that the royal family are leaving the Capital city one by one.
+ETC_20190419_041524	Earthquake again?{nl}It sure is happening a lot these days
+ETC_20190419_041525	Evacuate?
+ETC_20190419_041526	Watch out!{nl}It's happening!
+ETC_20190419_041527	I have to get my family to safety!
+ETC_20190419_041528	We are all going to die!{nl}Run!
+ETC_20190419_041529	What happend?
+ETC_20190419_041530	I have to find my brother...
+ETC_20190419_041531	Oh, Goddess...{nl}Where are you...
+ETC_20190419_041532	Please, save us...
+ETC_20190419_041533	It's over now...
+ETC_20190419_041534	Goddess...{nl}Please...
+ETC_20190419_041535	The earth is splitting open!
+ETC_20190419_041536	Run!
+ETC_20190419_041537	Everyone's been engulfed by the land!
+ETC_20190419_041538	What are those gigantic roots?
+ETC_20190419_041539	Take everything you can with you!
+ETC_20190419_041540	We have to get out of here
+ETC_20190419_041541	Take only your valuables...{nl}Ah!
+ETC_20190419_041542	The Capital{nl}has collapsed just over a single day...
+ETC_20190419_041543	What were the orders from headquarters?
+ETC_20190419_041544	Did they leave us behind?!
+ETC_20190419_041545	Grab the gold and the diamonds!
+ETC_20190419_041546	The Kingdom is in ruins!{nl}They're just pieces of paper now!
+ETC_20190419_041547	Look!
+ETC_20190419_041548	The wall is falling!
+ETC_20190419_041549	Help! Over here!
+ETC_20190419_041550	Do you value your riches{nl}over the lives of innocent children?
+ETC_20190419_041551	Resistance is futile
+ETC_20190419_041552	Kill all humans
+ETC_20190419_041553	Go and bring me anyone that's still hidden
+ETC_20190419_041554	Kill them al if they resist
+ETC_20190419_041555	Capture the old folks and children first
+ETC_20190419_041556	Humans bend their knees when easily{nl}when their family's involved
+ETC_20190419_041557	How foolish of them to cry out for the Goddesses
+ETC_20190419_041558	Foolish humans
+ETC_20190419_041559	Bring me the one who fired this arrow at me
+ETC_20190419_041560	You are quite brave for a human
+ETC_20190419_041561	I must find my brother
+ETC_20190419_041562	Who is that man?
+ETC_20190419_041563	Show me your face
+ETC_20190419_041564	I remember you from somewhere
+ETC_20190419_041565	Interesting
+ETC_20190419_041566	You do not cry out for the Goddesses...
+ETC_20190419_041567	Look into my eyes{nl}I want to get a good look at you
+ETC_20190419_041568	There's something strange about you{nl}Very interesting...
+ETC_20190419_041569	Take him away
+ETC_20190419_041570	Everything we're doing is for the greater good...
+ETC_20190419_041571	Wait!
+ETC_20190419_041572	Let him go!
+ETC_20190419_041573	Looks like your brother is a little smarter than you are
+ETC_20190419_041574	If you ever have a question about the Goddesses,{nl}come visit me.
+ETC_20190419_041575	Hold it!{nl}Give me back my brother!
+ETC_20190419_041576	I can't do anything...{nl}What are the Goddesses doing?!
+ETC_20190419_041577	I've given my life for the Kingdom and the Goddesses...
+ETC_20190419_041578	But the Goddesses have abandoned us
+ETC_20190419_041579	Using Time Meter
+ETC_20190419_041580	Why should I listen to you?
+ETC_20190419_041581	Do you have a death wish?
+ETC_20190419_041582	I keep my word!
+ETC_20190419_041583	You should be ashamed of yourself!
+ETC_20190419_041584	I guess it can't be helped{nl}Let's hunt them down
+ETC_20190419_041585	You can now warp to the Episode 11 starting quest area via Pajauta.
+ETC_20190419_041586	Remaining: {COUNT}
+ETC_20190419_041587	Go to Barynwell 27 Waters
+ETC_20190419_041588	Go to the Outer Wall District 11
+ETC_20190419_041589	Go to the Northern Parias Forest
+ETC_20190419_041590	When will the battle ever end.
+ETC_20190419_041591	I think we'll be alright for now.
+ETC_20190419_041592	Can't go on any longer...
+ETC_20190419_041593	You have given me strength and courage, Revelator.
+ETC_20190419_041594	I miss my parents more than ever today.
+ETC_20190419_041595	I will finally get to return home when we accomplish our mission here!
+ETC_20190419_041596	Am I going to die?
+ETC_20190419_041597	Yes! That's what the Schaffenstar are about!
+ETC_20190419_041598	There's just no end to them...
+ETC_20190419_041599	I managed to survive somehow. Is this a miracle?
+ETC_20190419_041600	I didn't even get to tell her I love her...
+ETC_20190419_041601	I will survive and go confess my love to her.
+ETC_20190419_041602	We are doing all we can...
+ETC_20190419_041603	Everything is A.O.K, sir!
+ETC_20190419_041604	Will I make it out alive...?
+ETC_20190419_041605	I guess it's true. Miracles DO happen.
+ETC_20190419_041606	We're running low on supplies...
+ETC_20190419_041607	We have received supplies from the Resistance. We're good to go!
+ETC_20190419_041608	I want to go home...
+ETC_20190419_041609	It's good that we managed to hold our position, but I still want to go home...
+ETC_20190419_041610	I have decided to remain here and help out around the place.
+ETC_20190419_041611	I am on a lookout for enemy ambush.
+ETC_20190419_041612	We will assist the soldiers here.
+ETC_20190419_041613	I am waiting for the supplies to arrive.
+ETC_20190419_041614	Let's get cracking, shall we?
+ETC_20190419_041615	Say that you've come to ask again about the orders
+ETC_20190419_041616	Say you are sorry and leave
+ETC_20190419_041617	Defend the area
+ETC_20190419_041618	Take over the area
+ETC_20190419_041619	Resistance Soldier
+ETC_20190419_041620	Both
+ETC_20190419_041621	You... Didn't think you would be able to fool me, did you?!
+ETC_20190419_041622	Used the solution to transform into a Banterer!
+ETC_20190419_041623	Hurry... Get out of here...
+ETC_20190419_041624	Attaching the Purifier to the pillar
+ETC_20190419_041625	The purifier is taking effect!
+ETC_20190419_041626	The pillar is already under the effect of the purifier.
+ETC_20190419_041627	Thank you... I can finally rest...
+ETC_20190419_041628	The unholy energy has been purified by the holy water!
+ETC_20190419_041629	Purified Soul
+ETC_20190419_041630	Activate the devices in the order they were lit.
+ETC_20190419_041631	The first barrier has been removed!
+ETC_20190419_041632	The demons have been alerted because the devices had been activated in the wrong order!
+ETC_20190419_041633	There are still demons around.{nl}Try again after you defeat them.
+ETC_20190419_041634	Searching the Explosives Cargo
+ETC_20190419_041635	Found an Explosive!
+ETC_20190419_041636	Found a grenade!{nl}Position yourself accordingly and throw it at the explosives.
+ETC_20190419_041637	You cannot carry any more.
+ETC_20190419_041638	Setting up the Explosive
+ETC_20190419_041639	You have set up the explosives!
+ETC_20190419_041640	The device is still warming up. Please try again later.
+ETC_20190419_041641	The demons attack because of the wrong answer!
+ETC_20190419_041642	You must defeat the nearby monsters to proceed.
+ETC_20190419_041643	Red Crytal Piece
+ETC_20190419_041644	Your transformation has been undone!
+ETC_20190419_041645	Let's get into action.
+ETC_20190419_041646	We are preparing to make a strategic move.
+ETC_20190419_041647	I hope we get through the day safely...
+ETC_20190419_041648	Let's get it over and done with!
+ETC_20190419_041649	That Demon Lord... So powerful...
+ETC_20190419_041650	We're almost there.
+ETC_20190419_041651	I've let my guard down...
+ETC_20190419_041652	I don't feel good about this.
+ETC_20190419_041653	I should have trusted my instincts...
+ETC_20190419_041654	The items have been set. 
+ETC_20190419_041655	Set up the explosives!{nl}Now search for a grenade to throw at the explosives.
+ETC_20190419_041656	Glowing Firefly
+ETC_20190419_041657	Collecting the flower
+ETC_20190419_041658	Obtained the Yellow Flower.
+ETC_20190419_041659	Obtained the Red Flower.
+ETC_20190419_041660	Obtained the White Flower.
+ETC_20190419_041661	Shake it at the butterflies.
+ETC_20190419_041662	Bury it in the ground.
+ETC_20190419_041663	Smell its scent.
+ETC_20190419_041664	Shaking the flower
+ETC_20190419_041665	Burying the flower
+ETC_20190419_041666	Smelling the flower
+ETC_20190419_041667	Nothing happens.
+ETC_20190419_041668	Found a butterfly-shaped leaf where the butterflies were.
+ETC_20190419_041669	Yellow Butterfly Leaf
+ETC_20190419_041670	Red Butterfly Leaf
+ETC_20190419_041671	White Butterfly Leaf
+ETC_20190419_041672	Place it on the bed of flowers.
+ETC_20190419_041673	Shake it.
+ETC_20190419_041674	Place it on the ground.
+ETC_20190419_041675	Placing the leaf on the bed of flowers
+ETC_20190419_041676	Shaking the leaf
+ETC_20190419_041677	Placing the leaf on the ground
+ETC_20190419_041678	The leaf transforms into a butterfly and flies over the flowers
+ETC_20190419_041679	Obtained a Transparent Crystal{nl}after all the butterflies had flown away.
+ETC_20190419_041680	Using scroll
+ETC_20190419_041681	The power of the Magic Stone has been sealed!
+ETC_20190419_041682	Lure the Tantalizer into the white circle and use the Binding Scroll!
+ETC_20190419_041683	Use the scroll after you've lured the Tantalizer closer to the center of the scroll!
+ETC_20190419_041684	Place it on the rock.
+ETC_20190419_041685	Roll it over the rock.
+ETC_20190419_041686	Shake it at the rock.
+ETC_20190419_041687	Placing the crystal
+ETC_20190419_041688	Rolling the crystal
+ETC_20190419_041689	Shaking the crystal
+ETC_20190419_041690	Something has appeared!
+ETC_20190419_041691	Something has appeared on top of the rock!
+ETC_20190419_041692	Obtained a mysterious seed.
+ETC_20190419_041693	The power of the seed is seeping into the grass
+ETC_20190419_041694	Obtained a Vivacious Grass.
+ETC_20190419_041695	A small maple tree has grown all of a sudden!
+ETC_20190419_041696	Collecting tree branches
+ETC_20190419_041697	Obtained a Holy Branch
+ETC_20190419_041698	Checking to see if the altar reacts to the seed
+ETC_20190419_041699	There is no reaction.{nl}Try the other altars first.
+ETC_20190419_041700	Sealing the power of the seed.
+ETC_20190419_041701	Retrieving the Seed of the Divine Tree
+ETC_20190419_041702	Retrieved the Seed of the Divine Tree
+ETC_20190419_041703	Failed to protect the Kupole.
+ETC_20190419_041704	There's Ilona over there!
+ETC_20190419_041705	Defeat the Red Banterers in the area to look for something to free the Kupole with.
+ETC_20190419_041706	Obtained an Unbinding Scroll.
+ETC_20190419_041707	Using the Holy Orb
+ETC_20190419_041708	You notice something shining in the ground nearby.
+ETC_20190419_041709	Found the trace of Goddess Medeina.
+ETC_20190419_041710	Failed to defeat all demons within the given time.
+ETC_20190419_041711	Obtained the Red Banterer Essence
+ETC_20190419_041712	You have obtained enough Red Banterer Essences.
+ETC_20190419_041713	The power of the Magic Stone has been successfully sealed!
+ETC_20190419_041714	Failed to protect Goddess Medeina.
+ETC_20190419_041715	Retelling your journey so far
+ETC_20190419_041716	Removed {Auto_1} buffs!
+ETC_20190419_041717	The maximum number of parties in Challenge Mode has been reached in the area. Please try again on another channel.
+ETC_20190419_041718	{@st66d}Without an Awakening Stone,{nl}the item's{/} {st66d_y}Potential will be reduced{/}.{nl}
+ETC_20190419_041719	{@st66d}There are no Awakening Abrasives.{nl}Awakening will only be affected by {@st66d_y}the Alchemist's basic stats{@st66d}.{nl}
+ETC_20190419_041720	{@st66d}Awakening Abrasive will be consumed,{nl}resulting in {@st66d_y}higher stats{@st66d}.{nl}
+ETC_20190419_041721	Will you proceed?
+ETC_20190419_041722	Medium - Select Party Member No.
+ETC_20190419_041723	Hard - Select Party Member No.
+ETC_20190419_041724	All crafted Unique Items will be in {@st66d_y}Stage 5 Transcendence{/}.
+ETC_20190419_041725	Proceed?
+ETC_20190419_041726	Instanced Dungeon Usage
+ETC_20190419_041727	You can use Silver to receive rewards {NoToken} more times.{nl}The number is increased to {Token} when using a Token.{nl}Proceed?{nl}({Remain} remaining)
+ETC_20190419_041728	You can use Silver or a voucher to receive rewards {NoToken} more times.{nl}The number is increased to {Token} when using a Token.{nl}Proceed?{nl}({Remain} remaining)
+ETC_20190419_041729	Re-open({Price} Silver)
+ETC_20190419_041730	Use Voucher
+ETC_20190419_041731	Leaving a party during Challenge Mode may cause problems. Are you sure you want to leave the party?
+ETC_20190419_041732	Goddess' Blessing Applied
+ETC_20190419_041733	[ List ]
+ETC_20190419_041734	You have gathered a total of {@st66d_y}{s18}{GET}{/}{/} Seeds today. You can gather {@st66d_y}{s18}{REMAIN}{/}{/} more Seeds.
+ETC_20190419_041735	Sprouts will be issued shortly. If you return before they are issued, you can miss out on receiving the items.
+ETC_20190419_041736	Gemstone Feud starting in 5 minutes.{nl}The entrance is at the north end of the Miners' Village and at the major cities.
+ETC_20190419_041737	The Gemstone Feud is starting now!{nl}Enter at the north end of the Miners' Village and at the major cities.
+ETC_20190419_041738	Session 2 of the Gemstone Feud starting in 3 minutes.{nl}The entrance is at the north end of the Miners' Village and at the major cities.
+ETC_20190419_041739	Session 2 of the Gemstone Feud is starting now!{nl}Enter at the north end of the Miners' Village and at the major cities.
+ETC_20190419_041740	Oath Keepers of the Blade
+ETC_20190419_041741	Band of the Golden Song
+ETC_20190419_041742	{cnt} guild members participated in the last GTW session.{nl}You can receive Stage {buffLevel} participation rewards.
+ETC_20190419_041743	Receive EXP buff (remaining:  
+ETC_20190419_041744	{remainCnt})
+ETC_20190419_041745	You can no longer receive this buff.
+ETC_20190419_041746	You achieved {needPoint} or more points during GTW.{nl}Receive your rewards at the Expedition Merchant after the session.
+ETC_20190419_041747	Receive Attribute Points
+ETC_20190419_041748	Received [{itemName}] x{Cnt}.
+ETC_20190419_041749	Already received the Attribute Points.
+ETC_20190419_041750	You cannot receive participation rewards while Guild Territory Wars is ongoing.
+ETC_20190419_041751	Connection detected on a global IP different from your login. Your IP environment may cause connection issues. Please contact your network administrator or provider for more information.
+ETC_20190419_041752	Returning to Vedas Plateau. ({SEC} seconds)
+ETC_20190419_041753	Remnants of Bernice Point Shop
+ETC_20190419_041754	[Matross Master]{nl}Pauline
+ETC_20190419_041755	[Ardito Master]{nl}Alexa
+ETC_20190419_041756	[Sheriff Master]{nl}Evan
+ETC_20190419_041757	Investigation Soldier
+ETC_20190419_041758	Bomb Location
+ETC_20190419_041759	Damaged Barricade
+ETC_20190419_041760	Aqueduct
+ETC_20190419_041761	[Tiger Hunter Master]{nl}Yuna
+ETC_20190419_041762	Switchgear
+ETC_20190419_041763	Energized Tombstone
+ETC_20190419_041764	Detachment Soldier
+ETC_20190419_041765	Explosive Barrel
+ETC_20190419_041766	Steering Device
+ETC_20190419_041767	Pile of Explosives
+ETC_20190419_041768	[Kedoran Alliance]{nl}Tadas
+ETC_20190419_041769	Ancient Tree Root
+ETC_20190419_041770	[Kedoran Alliance]{nl}Ineta
+ETC_20190419_041771	Dying Grass
+ETC_20190419_041772	Yellow Butterflies
+ETC_20190419_041773	Red Butterflies
+ETC_20190419_041774	White Butterflies
+ETC_20190419_041775	Yellow Flowerbed
+ETC_20190419_041776	Red Flowerbed
+ETC_20190419_041777	White Flowerbed
+ETC_20190419_041778	Little Sapling
+ETC_20190419_041779	Mission Complete!!
+ETC_20190419_041780	You will be returned to the entrance in 60 seconds{nl}A Cube will appear in the center of the map before you are returned. Interact with the Cube to [Re-open] the Cube.
+ETC_20190419_041781	The energy from the scroll is attracting the demons!{nl}Defeat the approaching demons!
+ETC_20190419_041782	The energy from the altar is attracting the demons!{nl}Defeat the approaching demons!
+ETC_20190419_041783	The energy of the altar has been subdued.{nl}Retrieve the Seed of the Divine Tree from the altar.
+ETC_20190419_041784	Defeat the demons watching over Goddess Medeina!
+ETC_20190419_041785	Kupole Astra is approaching from afar
+ETC_20190419_041786	Stage 1 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041787	Difficulty selection in progress.{nl}The mission will start in the difficulty chosen by the majority of party members.
+ETC_20190419_041788	  mission selected.{nl}Stage 1 initiating in 10 seconds.
+ETC_20190419_041789	Stage 2 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041790	Stage 3 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041791	Stage 4 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041792	Stage 5 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041793	All monsters defeated.{nl}The remaining time will be converted to ranking points.{nl}Stage 6 starts now!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041794	Stage 7 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041795	Stage 8 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041796	Stage 9 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041797	Stage 10 is about to start!{nl}Protect the Divine Torch and defeat all monsters in 3 minutes.
+ETC_20190419_041798	All monsters defeated. The remaining time will be converted to ranking points.{nl}Stage 11 starts now!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041799	Stage 12 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041800	Stage 13 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041801	Stage 14 is about to start!{nl}Protect the Divine Torch for 30 seconds.
+ETC_20190419_041802	Stage 15 is about to start!{nl}Protect the Divine Torch and defeat all monsters in 3 minutes.
+ETC_20190419_041803	"Mission Complete!!	미션 성공!!"
+ETC_20190419_041804	You will return to the entrance in 60 seconds{nl}A Cube will appear in the center of the map before you are returned. Interact with the Cube to [Re-open] the Cube.
+ETC_20190419_041805	Solmiki Area 1 complete.{nl}Moving to Istora Ruins soon.
+ETC_20190419_041806	Earth Tower 26F is about to start!{nl}Move to the 26th floor.
+ETC_20190419_041807	Solmiki Area 2 complete.{nl}Moving to Istora Ruins soon.
+ETC_20190419_041808	Solmiki Area 3 complete.{nl}Moving to Istora Ruins soon.
+ETC_20190419_041809	Solmiki Area 4 complete.{nl}Moving to Istora Ruins soon.
+ETC_20190419_041810	Lolopanther Area 2 complete.{nl}Moving to Istora Ruins soon.
+ETC_20190419_041811	Lolopanther Area 3 complete.{nl}Moving to Istora Ruins soon.
+ETC_20190419_041812	Lolopanther Area 4 complete.{nl}Moving to Istora Ruins soon.
+ETC_20190419_041813	Lolopanther Area 1 complete.{nl}Moving to Istora Ruins soon.
+ETC_20190419_041814	You will be returned to the entrance in 60 seconds{nl}A Cube will appear before you are returned. Interact with the Cube to [Re-open] the Cube.
+ETC_20190501_041815	Applies Token benefits to all your characters in the server for 60 days. Right-click to use.{nl}[Token Benefits]{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +30% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade freely without limits{nl} - 1 extra instance entry for missions and dungeons
+ETC_20190501_041816	Applies Token benefits to all your characters in the server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - +30% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade freely without limits{nl} - 1 extra instance entry for missions and dungeons
+ETC_20190501_041817	Grants Token benefits to all your characters in the server for 60 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade freely without limits{nl} - 1 extra instance entry for missions and dungeons
+ETC_20190501_041818	Unused Item
+ETC_20190501_041819	Use to obtain 396 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20190501_041820	Use to obtain 16500 TP.{nl}This item cannot be refunded or returned after use.
+ETC_20190501_041821	{/}{/}{#7AE4FF}[Available from the 2nd Advancement]{/}{/}{nl}Appraisers are considered a friend by many. Their jobs sees that they form relations with many different people from various walks of life so they hardly have any enemies. They are known to keep secrets as they often deal in appraising rare and valuable items for many people.{nl}Appraisers are a class that can identify unidentified items. In combat, Appraisers use their skills to evaluate both allies and enemies.
+ETC_20190501_041822	{/}{/}{#7AE4FF}[Available from the 2nd Advancement]{/}{/}Miko's(Kannushi) have joined in the Kingdom's Goddess Worship earlier than the Onmyoji but they are similar with the Onmyoji in that their services are not provided for the public in general. They have been involved in the incident surrounding Princess Kaonilla but the story is not widely known by the public as it was a business of the Royal courts.{nl}Mikos(Kannushi) receive the prophecy and serve the goddesses. They attack enemies with Holy property attacks or give buffs to the allies by raising their spirits up.
+ETC_20190501_041823	May Attendance Check Rewards
+ETC_20190501_041824	Your next Tulip should go to{nl}"{@st66d_y}{s16}{NPC}{/}{/}".
+ETC_20190501_041825	Receive the Tulip Lovers List
+ETC_20190501_041826	This character has already received the Tulip Lovers List.
+ETC_20190501_041827	Visit Klaipeda's NPCs and exchange Tulips for a prize of your choice.{nl}You can get the {@st66d_y}{s16}Tulip Lovers List{/}{/} from the Event Notice Board.
+ETC_20190501_041828	Offer Tulip
+ETC_20190510_041829	Challenge Reset Mega Box
+ETC_20190510_041830	Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Challenge Mode One Entry Voucher x100{nl}- Challenge Portal Scroll x100
+ETC_20190510_041831	2019 Leticia's Treasure Chest (May)
+ETC_20190510_041832	Um baú repleto dos itens mais preciosos da Leticia. Use para obter os seguintes itens:{nl} - Token x3{nl} - Shining Golden Socket Box{nl} - Goddesses' Blessed Gem x100{nl} - Shining 8-Star Gem Abrasive x3
+ETC_20190510_041833	Wake Up: Learner's Package
+ETC_20190510_041834	Right-click to use and obtain the items.{nl}- Attribute Reset Potion{nl}- Class Change Voucher Lv. 2{nl}- Attribute Points: 10,000{nl}- Lv 15 Basic Condensed SP Potion x150
+ETC_20190510_041835	Wake Up: First Steps Package
+ETC_20190510_041836	Right-click to use and obtain the items.{nl}- Enchant Scroll x3{nl}- x8 EXP Tome{nl}- Team Storage Expansion Voucher +1{nl}- Baby Chick{nl}- Character Slot Voucher{nl}- [Freebie] Penguin Selection Box
+ETC_20190510_041837	Wake Up: ALL-IN-ONE Package
+ETC_20190510_041838	Right-click to use and obtain the items.{nl}- Wake Up: Learner's Package{nl}Wake Up: First Steps Package{nl}- Attribute Reset Potion.

@@ -21745,92 +21745,637 @@ ITEM_20190412_021729	Itens obtidos dos monstros em Barynwell 87 Waters, conforme
 ITEM_20190412_021730	Sujeira Magnética
 ITEM_20190412_021731	Material obtido em Outer Wall District 9, conforme pedido por Pajauta.
 ITEM_20190416_021732	Use para receber o efeito [Energia Sombria] por um período de 6 dias.{nl}(O efeito aplica somente dentro de Velcoffer's Nest){nl}- Ataque Físico +7.000{nl}- Ataque Mágico +7.000{nl}- Defesa Física +10.000{nl}- Defesa Mágica +10.000
-ITEM_20190419_021733	Baby Chick Armband
-ITEM_20190419_021734	Uma Braçadeira bonitinha para comemorar um dia especial.
-ITEM_20190419_021735	Laima Kindergarten Costume (M)
-ITEM_20190419_021736	Uniforme dos estudantes do Jardim de Infância da Laima, conhecido pela sua cor amarelada brilhante.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
-ITEM_20190419_021737	Laima Kindergarten Costume (F)
-ITEM_20190419_021738	Private-Eye Costume (M)
-ITEM_20190419_021739	Vestimenta usada por um investigator privado, que investiga uma série de casos entre Orsha e Klaipeda.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
-ITEM_20190419_021740	Private-Eye Costume (F)
-ITEM_20190419_021741	Uma roupa necessária para viajar para o infinito e além.{nl}Use para alterar a sua aparência.
-ITEM_20190419_021742	Tiger Hunter Costume
-ITEM_20190419_021743	Roupa de caça básica de um The Tiger Hunter.
-ITEM_20190419_021744	Tiger Hunter White Tiger Costume
-ITEM_20190419_021745	Vestuário feito com a pele de uma fera rara, encontrada nas terras natais dos Tiger Hunters.
-ITEM_20190419_021746	Tiger Hunter Special Costume
-ITEM_20190419_021747	Vestuário utilizado somente pelo mais talentoso dos Tiger Hunters.
-ITEM_20190419_021748	Tiger Hunter White Tiger Special Costume
-ITEM_20190419_021749	Matross Costume
-ITEM_20190419_021750	Traje básico fornecido a todos os Matrosses.
-ITEM_20190419_021751	Matross Special Costume
-ITEM_20190419_021752	Símbolo de honra entregue aos Matrosses que alcançaram a vitória em batalha.
-ITEM_20190419_021753	Matross Victor Costume
-ITEM_20190419_021754	Vestuário premiado ao mais talentoso dos Matrosses no campo de batalha.
-ITEM_20190419_021755	Matross Victor Special Costume
-ITEM_20190419_021756	[Evento] Tiger Hunter White Tiger Costume
-ITEM_20190419_021757	[Evento] Matross Victor Costume
-ITEM_20190419_021758	Ardito Costume
-ITEM_20190419_021759	Os Arditi são conhecidos por avançarem nas forças inimigas com ataques cruéis. Este traje é um reflexo disso.
-ITEM_20190419_021760	Ardito Seasoned Troops Costume
-ITEM_20190419_021761	Roupas entregues aos Arditi honoráveis que sobreviveram nas linhas de frente de batalha.
-ITEM_20190419_021762	Ardito Special Costume
-ITEM_20190419_021763	Vestuário utilizado pelos Arditi que possuem maestria em técnicas de combate com granadas.
-ITEM_20190419_021764	Ardito Seasoned Troops Special Costume
-ITEM_20190419_021765	Os Arditi que vestem estas roupas são conhecidos, nos campos de batalha, como a personificação da própria guerra.
-ITEM_20190419_021766	Sheriff Costume
-ITEM_20190419_021767	Traje utilizado por Sheriffs responsáveis por uma jurisdição.
-ITEM_20190419_021768	Sheriff Raven Costume
-ITEM_20190419_021769	Roupas entregues somente aos Sheriffs reconhecidos pelo Mestre de Classe, Evan.
-ITEM_20190419_021770	Sheriff Special Costume
-ITEM_20190419_021771	Traje utilizado por Sheriffs encarregados de vigias ativas.
-ITEM_20190419_021772	Sheriff Raven Special Costume
-ITEM_20190419_021773	Item entregue pelo Sheriff Evan, afim de condecorar Sheriffs experientes e habilidosos.
-ITEM_20190419_021774	[Evento] Ardito Seasoned Troops Costume
-ITEM_20190419_021775	[Evento]
-ITEM_20190419_021776	Parece que este pintinho fez um ninho na sua cabeça! Mas cuidado, isso pode virar uma bagunça quando virar uma galinha...{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
-ITEM_20190419_021777	Laima Kindergarten Hat
-ITEM_20190419_021778	Chapéu utilizado pelos estudantes do Jardim de Infância da Laima, conhecido pela sua cor amarelada brilhante.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
-ITEM_20190419_021779	Little Budding Sprout
-ITEM_20190419_021780	Este pequeno brotinho simboliza o crescimento.{nl}Use para alterara a sua aparência.
-ITEM_20190419_021781	Crunchy Choco Dagger
-ITEM_20190419_021782	Crunchy Choco Sword
-ITEM_20190419_021783	Crunchy Choco Two-handed Sword
-ITEM_20190419_021784	Crunchy Choco Rapier
-ITEM_20190419_021785	Crunchy Choco Shield
-ITEM_20190419_021786	Crunchy Choco Pike
-ITEM_20190419_021787	Crunchy Choco Spear
-ITEM_20190419_021788	Crunchy Choco Two-handed Mace
-ITEM_20190419_021789	Crunchy Choco Mace
-ITEM_20190419_021790	Crunchy Choco Staff
-ITEM_20190419_021791	Crunchy Choco Rod
-ITEM_20190419_021792	Crunchy Choco Bow
-ITEM_20190419_021793	Crunchy Choco Crossbow
-ITEM_20190419_021794	Cruncy Choco Cannon
-ITEM_20190419_021795	Crunchy Choco Musket
-ITEM_20190419_021796	Crunchy Choco Pistol
-ITEM_20190419_021797	I♥TOS Costume (M)
-ITEM_20190419_021798	Demonstre o seu amor por TOS com este traje comemorativo. Use para alterar a sua aparência.	
-ITEM_20190419_021799	I♥TOS Costume (F)
-ITEM_20190419_021800	Steel Anvil
-ITEM_20190419_021801	Coloque um equipamento nesta bigorna para bater e refinar a qualidade do item. Reduz os custos de refino em 50%. Clique com o botão direito do mouse para usar.
-ITEM_20190419_021802	Steel Anvil (14 Dias)
-ITEM_20190419_021803	Coloque um equipamento nesta bigorna para bater e refinar a qualidade do item. Reduz os custos de refino em 50%. Clique com o botão direito do mouse para usar. Use dentro de 14 dias.				
-ITEM_20190419_021804	Teeny Chick Egg
-ITEM_20190419_021805	Clique com o botão direito para usar. Ao fazer isso, o Mascote será imediatamente registrado.{nl}Este Mascote pode ser montado sem necessitar de uma habilidade de combate montado.{nl}Este Mascote aumenta a Recuperação de HP e SP do personagem.{nl}- Pode ser trocado por Medalhas na Loja de Trocas.
-ITEM_20190419_021806	[Evento] Pedaço de Estrela Cintilante
-ITEM_20190419_021807	Essências obtidas durante o período do evento.
-ITEM_20190419_021808	Um material que foi pedido pelo Ferreiro de Fedimian, Teliavelis, utilizado para fazer equipamentos especiais.{nl}Pode ser obtido ao completar Velcoffer's Nest, Raids Únicas, Estágio 5 do Modo Desafio, missões de Saalus, e Dungeons instanciadas.{nl}Será removido no final do período do evento.
-ITEM_20190419_021809	[Evento] Teliavelis' Anvil Box
-ITEM_20190419_021810	Use para obter uma das bigornas especiais do Ferreiro Teliavelis.{nl}- Anvil{nl}- Steel Anvil (14 Dias){nl}- Silver Anvil (14 Dias){nl}- Golden Anvil (14 Dias){nl}Será removido no final do período do evento.
-ITEM_20190426_021811	Tulipa
-ITEM_20190426_021812	Entregue para um morador de Klaipeda para trocar por um prêmio.{nl}(Verifique a Lista dos Amantes de Tulipas para ver para qual morador você deve entregar)
-ITEM_20190426_021813	Lista dos Amantes de Tulipas
-ITEM_20190426_021814	Use para verificar qual o morador de Klaipeda você deve entregar a Tulipa.
-ITEM_20190504_021815	Sweet Candy Necklace (Physical) (14 Dias)
-ITEM_20190504_021816	Itens especiais para um dia bem doce. Equipe junto do Sweet Candy Bracelet para completar o conjunto e receber os efeitos.
-ITEM_20190504_021817	Sweet Candy Necklace (Magic) (14 Dias)
-ITEM_20190504_021818	Sweet Candy Bracelet (Physical) (14 Dias)
-ITEM_20190504_021819	Itens especiais para um dia bem doce. Equipe junto do Sweet Candy Necklace para completar o conjunto e receber os efeitos.
-ITEM_20190504_021820	Sweet Candy Bracelet (Magic) (14 Dias)
-ITEM_20190504_021821	Um doce em forma de coração para um dia especial.
+ITEM_20190419_021733	A space helmet required to travel to infinity and beyond.{nl}Use to change your appearance.	머나먼 세계, 저 너머로 여행을 하기 위해 필요하다고 전해지는 우주 비행사 헬멧입니다.{nl}착용하면 외형이 변경 됩니다.	ITEM_20190316_021602	Can't go out into space without your trusty helmet!{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	머나먼 세계, 저 너머로 여행을 하기 위해 필요하다고 전해지는 우주 비행사 헬멧입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	
+ITEM_20190419_021734	Baby Chick Armband	삐약삐약 병아리 암밴드				
+ITEM_20190419_021735	Uma Bracadeira bonitinha para comemorar um dia especial.	세 번째 맞이하는 식목일을 기념하여 만든 암밴드입니다.				
+ITEM_20190419_021736	Legva Sword	레그바 소드				
+ITEM_20190419_021737	It may seem a little short in length for a sword, but it is capable of leaving fatal wounds on its targets due to its paired blades.	한손검으로 보기에는 검날이 짧아 보이지만, 움푹 패어 양쪽으로 갈라져 있는 검날 덕분에 적에게 깊은 상처를 남길 수 있습니다.				
+ITEM_20190419_021738	Berthas Legva Sword	베르타스 레그바 소드				
+ITEM_20190419_021739	Primus Legva Sword	프리머스 레그바 소드				
+ITEM_20190419_021740	Savinose Legva Sword	세비노스 레그바 소드				
+ITEM_20190419_021741	Legva Two-handed Sword	레그바 투 핸드 소드				
+ITEM_20190419_021742	It is a great weapon that is both fancy and modest at the same time. It's handle is quite thick so some may have trouble gripping it properly.	화려함과 투박함을 동시에 지녔고, 성능은 우월한 검입니다. 단, 손잡이가 상당히 두꺼워서 들기 힘들 수 있습니다.				
+ITEM_20190419_021743	Berthas Legva Two-handed Sword	베르타스 레그바 투 핸드 소드				
+ITEM_20190419_021744	Primus Legva Two-handed Sword	프리머스 레그바 투 핸드 소드				
+ITEM_20190419_021745	Savinose Legva Two-handed Sword	세비노스 레그바 투 핸드 소드				
+ITEM_20190419_021746	Legva Rod	레그바 로드				
+ITEM_20190419_021747	A rod that makes use of a powerful magic source as a material. It is said to be mined in Nicopolis, but nobody knows for sure.	강력한 마력의 힘을 지닌 원석을 제어한 지팡이입니다. 원석의 출처는 정확히 알 수 없지만, 니코폴리스에서 추출된 것으로 보입니다.				
+ITEM_20190419_021748	Berthas Legva Rod	베르타스 레그바 로드				
+ITEM_20190419_021749	Primus Legva Rod	프리머스 레그바 로드				
+ITEM_20190419_021750	Savinose Legva Rod	세비노스 레그바 로드				
+ITEM_20190419_021751	Legva Bow	레그바 보우				
+ITEM_20190419_021752	A very flexible bow made from the trees growing in Parias Forest. It is great for dead-accurate aims from miles away.	파리아스 숲에서 자라나는 나무를 활대로 쓴 이 활은 탄력성이 매우 좋아 멀리 있는 표적도 단숨에 꿰뚫어 버립니다.				
+ITEM_20190419_021753	Berthas Legva Bow	베르타스 레그바 보우				
+ITEM_20190419_021754	Primus Legva Bow	프리머스 레그바 보우				
+ITEM_20190419_021755	Savinose Legva Bow	세비노스 레그바 보우				
+ITEM_20190419_021756	Legva Crossbow	레그바 크로스보우				
+ITEM_20190419_021757	Berthas Legva Crossbow	베르타스 레그바 크로스보우				
+ITEM_20190419_021758	Primus Legva Crossbow	프리머스 레그바 크로스보우				
+ITEM_20190419_021759	Savinose Legva Crossbow	세비노스 레그바 크로스보우				
+ITEM_20190419_021760	Legva Mace	레그바 메이스				
+ITEM_20190419_021761	It is a deadly mace despite being made of materials that can be found in the forest.	숲에서 얻을 수 있는 재료로 만들어졌지만 내구성, 위력은 상당한 메이스입니다.				
+ITEM_20190419_021762	Berthas Legva Mace	베르타스 레그바 메이스				
+ITEM_20190419_021763	Primus Legva Mace	프리머스 레그바 메이스				
+ITEM_20190419_021764	Savinose Legva Mace	세비노스 레그바 메이스				
+ITEM_20190419_021765	Legva Two-handed Mace	레그바 투 핸드 메이스				
+ITEM_20190419_021766	A mace crafted in a similar fashion to those used by the Royal Military. Although similar in appearance, Legva maces are much more rare and highly sought after.	왕국군과 교단의 사제들 사이에서 유행하는 메이스와 유사하지만, 어쩌면 그것이 이 레그바 보다 상대적으로 구하기 쉽기 때문에 그럴지도 모릅니다.				
+ITEM_20190419_021767	Berthas Legva Two-handed Mace	베르타스 레그바 투 핸드 메이스				
+ITEM_20190419_021768	Primus Legva Two-handed Mace	프리머스 레그바 투 핸드 메이스				
+ITEM_20190419_021769	Savinose Legva Two-handed Mace	세비노스 레그바 투 핸드 메이스				
+ITEM_20190419_021770	Legva Shield	레그바 실드				
+ITEM_20190419_021771	A simple wooden shield finished off with rare metal ores. The wood used in crafting the shield is also hard to come by.	기본적으로 목재로 되어 있는 방패지만 구하기 힘든 원석을 가공하여 붙여 단단합니다. 물론 쓰인 목재 또한 구하기 힘든 소재입니다.				
+ITEM_20190419_021772	Berthas Legva Shield	베르타스 레그바 실드				
+ITEM_20190419_021773	Primus Legva Shield	프리머스 레그바 실드				
+ITEM_20190419_021774	Savinose Legva Shield	세비노스 레그바 실드				
+ITEM_20190419_021775	Legva Spear	레그바 스피어				
+ITEM_20190419_021776	There is a symbolic meaning behind the shape of this spear, but no one really knows exactly what it is.	창의 생김새가 어떤 상징성을 지니고 있으나, 이를 아는 사람은 몇몇 없습니다.				
+ITEM_20190419_021777	Berthas Legva Spear	베르타스 레그바 스피어				
+ITEM_20190419_021778	Primus Legva Spear	프리머스 레그바 스피어				
+ITEM_20190419_021779	Savinose Legva Spear	세비노스 레그바 스피어				
+ITEM_20190419_021780	Legva Pike	레그바 파이크				
+ITEM_20190419_021781	Berthas Legva Pike	베르타스 레그바 파이크				
+ITEM_20190419_021782	Primus Legva Pike	프리머스 레그바 파이크				
+ITEM_20190419_021783	Savinose Legva Pike	세비노스 레그바 파이크				
+ITEM_20190419_021784	Legva Dagger	레그바 대거				
+ITEM_20190419_021785	The trademark of this dagger is the central ornament piece that looks like a monster's eye.	가운데 새겨져 있는 장식이 마치 몬스터의 눈처럼 생긴것이 이 단검의 트레이드 마크입니다.				
+ITEM_20190419_021786	Berthas Legva Dagger	베르타스 레그바 대거				
+ITEM_20190419_021787	Primus Legva Dagger	프리머스 레그바 대거				
+ITEM_20190419_021788	Savinose Legva Dagger	세비노스 레그바 대거				
+ITEM_20190419_021789	Legva Staff	레그바 스태프				
+ITEM_20190419_021790	Despite its blunt looks, it is an artifact very potent with magical energy that many powerful mages covet. 	투박하게 생겼지만 강력한 마력의 힘을 지닌 소재로 만든 지팡이로 정통한 마법사들이 탐내곤 합니다 				
+ITEM_20190419_021791	Berthas Legva Staff	베르타스 레그바 스태프				
+ITEM_20190419_021792	Primus Legva Staff	프리머스 레그바 스태프				
+ITEM_20190419_021793	Savinose Legva Staff	세비노스 레그바 스태프				
+ITEM_20190419_021794	Legva Pistol	레그바 피스톨				
+ITEM_20190419_021795	Not only does it look good, but it also fits perfectly in the user's hand. Many highly experienced soldiers want to own one because of this.	생김새도 준수하지만 특히나 사용성이 좋아 숙련된 왕국 병사들이 가지고 싶어합니다.				
+ITEM_20190419_021796	Berthas Legva Pistol	베르타스 레그바 피스톨				
+ITEM_20190419_021797	Primus Legva Pistol	프리머스 레그바 피스톨				
+ITEM_20190419_021798	Savinose Legva Pistol	세비노스 레그바 피스톨				
+ITEM_20190419_021799	Legva Rapier	레그바 레이피어				
+ITEM_20190419_021800	With designs staying true to its purpose, its edges are sharp enough to slice through its targets. 	기본에 충실한 단순한 모양과는 달리, 찌른 표적을 간단하게 도려낼 수 있는 검날을 지닌 레이피어입니다. 				
+ITEM_20190419_021801	Berthas Legva Rapier	베르타스 레그바 레이피어				
+ITEM_20190419_021802	Primus Legva Rapier	프리머스 레그바 레이피어				
+ITEM_20190419_021803	Savinose Legva Rapier	세비노스 레그바 레이피어				
+ITEM_20190419_021804	Legva Cannon	레그바 캐논				
+ITEM_20190419_021805	Berthas Legva Cannon	베르타스 레그바 캐논				
+ITEM_20190419_021806	Primus Legva Cannon	프리머스 레그바 캐논				
+ITEM_20190419_021807	Savinose Legva Cannon	세비노스 레그바 캐논				
+ITEM_20190419_021808	Legva Musket	레그바 머스킷				
+ITEM_20190419_021809	Berthas Legva Musket	베르타스 레그바 머스킷				
+ITEM_20190419_021810	Primus Legva Musket	프리머스 레그바 머스킷				
+ITEM_20190419_021811	Savinose Legva Musket	세비노스 레그바 머스킷				
+ITEM_20190419_021812	Pilgriste Robe	피그림테 로브				
+ITEM_20190419_021813	A weapon used mostly by pilgrims. Its practicality and ease of use is well suited for long travels.	순례자들이 주로 사용하는 무난한 디자인입니다. 먼 길을 여행할 필요한 편안함과 실용성을 강조했습니다.				
+ITEM_20190419_021814	Vymedzai Leather Armor	비메자이 레더 아머				
+ITEM_20190419_021815	It is said to be made of plants that reacted to magic. Its thorns are capable of leaving fatal wounds on its targets.	신수의 날 마력에 반응하는 식물을 이용하여 만들었다고 합니다. 가시를 이용하여 공격하는 적에게 피해를 줄 수 있을 것 같습니다.				
+ITEM_20190419_021816	Akmo Plate Armor	아크모 플레이트 아머				
+ITEM_20190419_021817	Made of sturdy material, it wraps around the whole body comfortably. There is no need to fear enemy strikes in battle.	단단한 재질로 몸 전체를 보호합니다. 적의 공격을 두려워할 필요가 없습니다.				
+ITEM_20190419_021818	Berthas Pilgriste Robe	베르타스 피그림테 로브				
+ITEM_20190419_021819	A weapon used mostly by pilgrims. Its practicality and ease of use is well suited for long travels.	순례자들이 주로 사용하는 무난한 디자인입니다. 먼 길을 여행할 때 필요한 편안함과 실용성을 강조했습니다.				
+ITEM_20190419_021820	BerthasVymedzai Leather Armor	베르타스 비메자이 레더 아머				
+ITEM_20190419_021821	Berthas Akmo Plate Armor	베르타스 아크모 플레이트 아머				
+ITEM_20190419_021822	 - Activates the Wrath buff when equipped{nl} {nl}Wrath{nl} - Grants a (5 * Wrath stacks)% chance of triggering Ignas - Wrath whenever you are attacked. {nl} {nl}Ignas - Wrath{nl} - Maximum attack + 250 (max. 3 stacks, 10 sec duration)	 - 장착시 격노 버프 활성화{nl} {nl}격노{nl} - 피격시 (5 * 격노 버프 중첩수)% 확률로 이그나스 - 격노가 발동합니다. {nl} {nl}이그나스 - 격노{nl} - 최대 공격력 + 250 증가 (최대 3회 중첩 10초 유지)				
+ITEM_20190419_021823	Primus Pilgriste Robe	프리머스 피그림테 로브				
+ITEM_20190419_021824	Primus Vymedzai Leather Armor	프리머스 비메자이 레더 아머				
+ITEM_20190419_021825	Primus Akmo Plate Armor	프리머스 아크모 플레이트 아머				
+ITEM_20190419_021826	Savinose Pilgriste Robe	세비노스 피그림테 로브				
+ITEM_20190419_021827	Savinose Vymedzai Leather Armor	세비노스 비메자이 레더 아머				
+ITEM_20190419_021828	Savinose Akmo Plate Armor	세비노스 아크모 플레이트 아머				
+ITEM_20190419_021829	Pilgriste Pants	피그림테 팬츠				
+ITEM_20190419_021830	Vymedzai Leather Pants	비메자이 레더 팬츠				
+ITEM_20190419_021831	Akmo Plate Pants	아크모 플레이트 팬츠				
+ITEM_20190419_021832	Berthas Pilgriste Pants	베르타스 피그림테 팬츠				
+ITEM_20190419_021833	Berthas Vymedzai Leather Pants	베르타스 비메자이 레더 팬츠				
+ITEM_20190419_021834	Berthas Akmo Plate Pants	베르타스 아크모 플레이트 팬츠				
+ITEM_20190419_021835	Primus Pilgriste Pants	프리머스 피그림테 팬츠				
+ITEM_20190419_021836	Primus Vymedzai Leather Pants	프리머스 비메자이 레더 팬츠				
+ITEM_20190419_021837	Primus Akmo Plate Pants	프리머스 아크모 플레이트 팬츠				
+ITEM_20190419_021838	Savinose Pilgriste Pants	세비노스 피그림테 팬츠				
+ITEM_20190419_021839	Savinose Vymedzai Leather Pants	세비노스 비메자이 레더 팬츠				
+ITEM_20190419_021840	Savinose Akmo Plate Pants	세비노스 아크모 플레이트 팬츠				
+ITEM_20190419_021841	Pilgriste Boots	피그림테 부츠				
+ITEM_20190419_021842	Vymedzai Leather Boots	비메자이 레더 부츠				
+ITEM_20190419_021843	Akmo Greaves	아크모 그리브				
+ITEM_20190419_021844	Berthas Pilgriste Boots	베르타스 피그림테 부츠				
+ITEM_20190419_021845	Berthas Vymedzai Leather Boots	베르타스 비메자이 레더 부츠				
+ITEM_20190419_021846	Berthas Akmo Greaves	베르타스 아크모 그리브				
+ITEM_20190419_021847	Primus Pilgriste Boots	프리머스 피그림테 부츠				
+ITEM_20190419_021848	Primus Vymedzai Leather Boots	프리머스 비메자이 레더 부츠				
+ITEM_20190419_021849	Primus Akmo Greaves	프리머스 아크모 그리브				
+ITEM_20190419_021850	Savinose Pilgriste Boots	세비노스 피그림테 부츠				
+ITEM_20190419_021851	Savinose Vymedzai Leather Boots	세비노스 비메자이 레더 부츠				
+ITEM_20190419_021852	Savinose Akmo Greaves	세비노스 아크모 그리브				
+ITEM_20190419_021853	Pilgriste Gloves	피그림테 글로브				
+ITEM_20190419_021854	Vymedzai Leather Gloves	비메자이 레더 글로브				
+ITEM_20190419_021855	Akmo Gauntlet	아크모 건틀릿				
+ITEM_20190419_021856	Berthas Pilgriste Gloves	베르타스 피그림테 글로브				
+ITEM_20190419_021857	Berthas Vymedzai Leather Gloves	베르타스 비메자이 레더 글로브				
+ITEM_20190419_021858	Berthas Akmo Gauntlet	베르타스 아크모 건틀릿				
+ITEM_20190419_021859	Primus Pilgriste Gloves	프리머스 피그림테 글로브				
+ITEM_20190419_021860	Primus Vymedzai Leather Gloves	프리머스 비메자이 레더 글로브				
+ITEM_20190419_021861	Primus Akmo Gauntlet	프리머스 아크모 건틀릿				
+ITEM_20190419_021862	Savinose Pilgriste Gloves	세비노스 피그림테 글로브				
+ITEM_20190419_021863	Savinose Vymedzai Leather Gloves	세비노스 비메자이 레더 글로브				
+ITEM_20190419_021864	Savinose Akmo Gauntlets	세비노스 아크모 건틀릿				
+ITEM_20190419_021865	Sugar Necklace (Physical) (14 Days)	화이트데이 목걸이 (물리)(14일)	ITEM_20180418_017904	Sugar Necklace (Physical) (7 Days)	화이트데이 목걸이 (물리)(7일)	
+ITEM_20190419_021866	Special items for a sugary day. Equip with the Sugar Bracelet to complete the set and receive the effects. Will be automatically deleted at the end of the event period.	화이트데이 이벤트 아이템입니다. 화이트데이 팔찌와 함께 착용하면 세트 효과를 얻습니다. 4월 4일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190419_021867	Sugar Necklace (Magic) (14 Days)	화이트데이 목걸이 (마법)(14일)	ITEM_20180418_017906	Sugar Necklace (Magic) (7 Days)	화이트데이 목걸이 (마법)(7일)	
+ITEM_20190419_021868	[Episode 11] Adventurer's Necklace (30 Days)	[Episode11] 모험가의 네클리스(30일)				
+ITEM_20190419_021869	Wearing the necklace makes your feet feel lighter and makes your heart ready for adventure.	이 목걸이를 착용하면 어디든 갈 수 있을거 같다.				
+ITEM_20190419_021870	  - Adds {img green_up_arrow 16 16}50% Skill Factor when using the following skills{nl}- Fireball{nl} - Fire Wall{nl} - Fire Pillar{nl} - Hell Breath{nl} - Flame Ground{nl} - Meteor{nl} - Incineration{nl} - Prominence{nl} - Combustion{nl} - Immolation	 - 아래의 스킬 사용 시 {img green_up_arrow 16 16}50% 공격력 추가{nl}   - 파이어볼{nl}   - 파이어 월{nl}   - 파이어 필라{nl}   - 헬 브레쓰{nl}   - 플레임 그라운드{nl}   - 메테오{nl}   - 소각{nl}   - 홍염{nl}   - 컴버스천{nl}   - 이몰레이션	ITEM_20180517_018327	 - Adds {img green_up_arrow 16 16}50% Skill Factor when using the following skills{nl}- Fireball{nl} - Fire Wall{nl} - Fire Pillar{nl} - Hell Breath{nl} - Flame Ground{nl} - Meteor{nl} - Incineration{nl} - Prominence{nl} - Combustion{nl} - Immolation	 - 아래의 스킬 사용 시 {img green_up_arrow 16 16}50% 공격력 추가{nl}   - 파이어볼{nl}   - 파이어 월{nl}   - 플레어{nl}   - 파이어 필라{nl}   - 헬 브레쓰{nl}   - 플레임 그라운드{nl}   - 메테오{nl}   - 소각{nl}   - 홍염{nl}   - 컴버스천{nl}   - 이몰레이션	
+ITEM_20190419_021871	Sugar Bracelet (Physical) (14 Days)	화이트데이 팔찌 (물리)(14일)	ITEM_20180418_017920	Sugar Bracelet (Physical) (7 Days)	화이트데이 팔찌 (물리)(7일)	
+ITEM_20190419_021872	Special items for a sugary day. Equip with the Sugar Necklace to complete the set and receive the effects. Will be automatically deleted at the end of the event period.	화이트데이 이벤트 아이템입니다. 화이트데이 목걸이와 함께 착용하면 세트 효과를 얻습니다. 4월 4일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190419_021873	Sugar Bracelet (Magic) (14 Days)	화이트데이 팔찌 (마법)(14일)	ITEM_20180418_017922	Sugar Bracelet (Magic) (3 Days)	화이트데이 팔찌 (마법)(7일)	
+ITEM_20190419_021874	[Episode 11] Adventurer's Bracelet (30 Days)	[Episode11] 모험가의 브레이슬릿(30일)				
+ITEM_20190419_021875	It lightens the heart, preparing the wearer from the weary road ahead.	가벼운 마음으로 착용하곧 돌아다니기 좋다.				
+ITEM_20190419_021876	Laima Kindergarten Costume (M)	라이마 유치원 원아복 코스튬 (남)				
+ITEM_20190419_021877	Uniforme dos estudantes do Jardim de Infancia da Laima, conhecido pela sua cor amarelada brilhante.{nl}Use para alterar a sua aparencia.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20190419_021878	Laima Kindergarten Costume (F)	라이마 유치원 원아복 코스튬 (여)				
+ITEM_20190419_021879	Private-Eye Costume (M)	소문난 명탐정 코스튬 (남)				
+ITEM_20190419_021880	Vestimenta usada por um investigator privado, que investiga uma serie de casos entre Orsha e Klaipeda.{nl}Use para alterar a sua aparencia.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20190419_021881	Private-Eye Costume (F)	소문난 명탐정 코스튬 (여)				
+ITEM_20190419_021882	Uma roupa necessaria para viajar para o infinito e alem.{nl}Use para alterar a sua aparencia.
+ITEM_20190419_021883	Tiger Hunter Costume	산포 코스튬				
+ITEM_20190419_021884	Roupa de caca basica de um The Tiger Hunter.
+ITEM_20190419_021885	Tiger Hunter White Tiger Costume	산포 백호가죽 코스튬				
+ITEM_20190419_021886	Vestuario feito com a pele de uma fera rara, encontrada nas terras natais dos Tiger Hunters.
+ITEM_20190419_021887	Tiger Hunter Special Costume	산포 스페셜 코스튬				
+ITEM_20190419_021888	Vestuario utilizado somente pelo mais talentoso dos Tiger Hunters.
+ITEM_20190419_021889	Tiger Hunter White Tiger Special Costume	산포 백호가죽 스페셜 코스튬				
+ITEM_20190419_021890	Matross Costume
+ITEM_20190419_021891	Traje basico fornecido a todos os Matrosses.
+ITEM_20190419_021892	Matross Special Costume
+ITEM_20190419_021893	Simbolo de honra entregue aos Matrosses que alcancaram a vitoria em batalha.
+ITEM_20190419_021894	Matross Victor Costume
+ITEM_20190419_021895	Vestuario premiado ao mais talentoso dos Matrosses no campo de batalha.
+ITEM_20190419_021896	Matross Victor Special Costume
+ITEM_20190419_021897	[Evento] Tiger Hunter White Tiger Costume
+ITEM_20190419_021898	[Evento] Matross Victor Costume
+ITEM_20190419_021899	Ardito Costume
+ITEM_20190419_021900	Os Arditi sao conhecidos por avancarem nas forcas inimigas com ataques crueis. Este traje e um reflexo disso.
+ITEM_20190419_021901	Ardito Seasoned Troops Costume
+ITEM_20190419_021902	Roupas entregues aos Arditi honoraveis que sobreviveram nas linhas de frente de batalha.
+ITEM_20190419_021903	Ardito Special Costume
+ITEM_20190419_021904	Vestuario utilizado pelos Arditi que possuem maestria em tecnicas de combate com granadas.
+ITEM_20190419_021905	Ardito Seasoned Troops Special Costume
+ITEM_20190419_021906	Os Arditi que vestem estas roupas sao conhecidos, nos campos de batalha, como a personificacao da propria guerra.
+ITEM_20190419_021907	Sheriff Costume
+ITEM_20190419_021908	Traje utilizado por Sheriffs responsaveis por uma jurisdicao.
+ITEM_20190419_021909	Sheriff Raven Costume
+ITEM_20190419_021910	Roupas entregues somente aos Sheriffs reconhecidos pelo Mestre de Classe, Evan.
+ITEM_20190419_021911	Sheriff Special Costume
+ITEM_20190419_021912	Traje utilizado por Sheriffs encarregados de vigias ativas.
+ITEM_20190419_021913	Sheriff Raven Special Costume
+ITEM_20190419_021914	Item entregue pelo Sheriff Evan, afim de condecorar Sheriffs experientes e habilidosos.
+ITEM_20190419_021915	[Evento] Ardito Seasoned Troops Costume
+ITEM_20190419_021916	[Evento] Sheriff Raven Costume
+ITEM_20190419_021917	A heart-shaped treat for a special day.
+ITEM_20190419_021918	Parece que este pintinho fez um ninho na sua cabeca! Mas cuidado, isso pode virar uma bagunca quando virar uma galinha...{nl}Use para alterar a sua aparencia.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20190419_021919	Laima Kindergarten Hat
+ITEM_20190419_021920	Chapeu utilizado pelos estudantes do Jardim de Infancia da Laima, conhecido pela sua cor amarelada brilhante.{nl}Use para alterar a sua aparencia.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20190419_021921	Little Budding Sprout
+ITEM_20190419_021922	Este pequeno brotinho simboliza o crescimento.{nl}Use para alterara a sua aparencia.
+ITEM_20190419_021923	Crunchy Choco Dagger
+ITEM_20190419_021924	Crunchy Choco Sword
+ITEM_20190419_021925	Crunchy Choco Two-handed Sword
+ITEM_20190419_021926	Crunchy Choco Rapier
+ITEM_20190419_021927	Crunchy Choco Shield
+ITEM_20190419_021928	Crunchy Choco Pike
+ITEM_20190419_021929	Crunchy Choco Spear
+ITEM_20190419_021930	Crunchy Choco Two-handed Mace
+ITEM_20190419_021931	Crunchy Choco Mace
+ITEM_20190419_021932	Crunchy Choco Staff
+ITEM_20190419_021933	Crunchy Choco Rod
+ITEM_20190419_021934	Crunchy Choco Bow
+ITEM_20190419_021935	Crunchy Choco Crossbow
+ITEM_20190419_021936	Crunchy Choco Cannon
+ITEM_20190419_021937	Crunchy Choco Musket
+ITEM_20190419_021938	Crunchy Choco Pistol
+ITEM_20190419_021939	[Episode 11] Deathweaver Cutter (30 Days)
+ITEM_20190419_021940	[Episode 11] Deathweaver Tooth (30 Days)
+ITEM_20190419_021941	[Episode 11] Deathweaver Rod (30 Days)
+ITEM_20190419_021942	[Episode 11] Melinas Staff (30 Days)
+ITEM_20190419_021943	[Episode 11] Deathweaver Bow (30 Days)
+ITEM_20190419_021944	[Episode 11] Deathweaver Crossbow (30 Days)
+ITEM_20190419_021945	[Episode 11] Vubbe Morning Star (30 Days)
+ITEM_20190419_021946	[Episode 11] Vubbe Armor (30 Days)
+ITEM_20190419_021947	[Episode 11] Vubbe Pants (30 Days)
+ITEM_20190419_021948	[Episode 11] Cheminis Sword (30 Days)
+ITEM_20190419_021949	[Episode 11] Chapparition Two-handed Sword (30 Days)
+ITEM_20190419_021950	[Episode 11] Chapparition Rod (30 Days)
+ITEM_20190419_021951	[Episode 11] Patrice Staff (30 Days)
+ITEM_20190419_021952	[Episode 11] Chapparition Bow (30 Days)
+ITEM_20190419_021953	[Episode 11] Chapparition Shooter (30 Days)
+ITEM_20190419_021954	[Episode 11] Chapparition Mace (30 Days)
+ITEM_20190419_021955	[Episode 11] Silver Spear (30 Days)
+ITEM_20190419_021956	[Episode 11] Cheminis Pike (30 Days)
+ITEM_20190419_021957	[Episode 11] Mark Tunic (30 Days)
+ITEM_20190419_021958	[Episode 11] Mark Pants (30 Days)
+ITEM_20190419_021959	[Episode 11] Durandal (30 Days)
+ITEM_20190419_021960	[Episode 11] Flamini (30 Days)
+ITEM_20190419_021961	[Episode 11] Secretum (30 Days)
+ITEM_20190419_021962	[Episode 11] Candle Staff (30 Days)
+ITEM_20190419_021963	[Episode 11] Heart Seeker (30 Days)
+ITEM_20190419_021964	[Episode 11] Shooting Star (30 Days)
+ITEM_20190419_021965	[Episode 11] Escanciu Mace (30 Days)
+ITEM_20190419_021966	[Episode 11] Doom Spear (30 Days)
+ITEM_20190419_021967	[Episode 11] Laideca (30 Days)
+ITEM_20190419_021968	[Episode 11] Brigandine Armor (30 Days)
+ITEM_20190419_021969	[Episode 11] Brigandine Pants (30 Days)
+ITEM_20190419_021970	[Episode 11] Velniup (30 Days)
+ITEM_20190419_021971	[Episode 11] Tily Two-handed Sword (30 Days)
+ITEM_20190419_021972	[Episode 11] Temere (30 Days)
+ITEM_20190419_021973	[Episode 11] Sunflower (30 Days)
+ITEM_20190419_021974	[Episode 11] Wilding Bane (30 Days)
+ITEM_20190419_021975	[Episode 11] Seimos Crossbow (30 Days)
+ITEM_20190419_021976	[Episode 11] Semios Mace (30 Days)
+ITEM_20190419_021977	[Episode 11] Seimos Spear (30 Days)
+ITEM_20190419_021978	[Episode 11] Seimos Pike (30 Days)
+ITEM_20190419_021979	[Episode 11] Hunting Armor (30 Days)
+ITEM_20190419_021980	[Episode 11] Hunting Pants (30 Days)
+ITEM_20190419_021981	[Episode 11] Flame (30 Days)
+ITEM_20190419_021982	[Episode 11] Hell and Heaven (30 Days)
+ITEM_20190419_021983	[Episode 11] Casti Rod (30 Days)
+ITEM_20190419_021984	[Episode 11] Maledoom (30 Days)
+ITEM_20190419_021985	[Episode 11] Casti Bow (30 Days)
+ITEM_20190419_021986	[Episode 11] Karacha Crossbow (30 Days)
+ITEM_20190419_021987	[Episode 11] Drake Tail (30 Days)
+ITEM_20190419_021988	[Episode 11] Casti Spear (30 Days)
+ITEM_20190419_021989	[Episode 11] Magas Pike (30 Days)
+ITEM_20190419_021990	[Episode 11] Duelist (30 Days)
+ITEM_20190419_021991	[Episode 11] Veteran Tunic (30 Days)
+ITEM_20190419_021992	[Episode 11] Veteran Pants (30 Days)
+ITEM_20190419_021993	[Episode 11] Pensara Sword (30 Days)
+ITEM_20190419_021994	[Episode 11] Pensara Two-handed Sword (30 Days)
+ITEM_20190419_021995	[Episode 11] Pensara Rod (30 Days)
+ITEM_20190419_021996	[Episode 11] Power Staff (30 Days)
+ITEM_20190419_021997	[Episode 11] Marksman (30 Days)
+ITEM_20190419_021998	[Episode 11] Didel Grand Cross (30 Days)
+ITEM_20190419_021999	[Episode 11] Pensara Mace (30 Days)
+ITEM_20190419_022000	[Episode 11] Pensara Spear (30 Days)
+ITEM_20190419_022001	[Episode 11] Pensara Pike (30 Days)
+ITEM_20190419_022002	[Episode 11] Spada (30 Days)
+ITEM_20190419_022003	[Episode 11] Finisher (30 Days)
+ITEM_20190419_022004	[Episode 11] Bandit Armor (30 Days)
+ITEM_20190419_022005	[Episode 11] Bandit Pants (30 Days)
+ITEM_20190419_022006	[Episode 11] Primus Migantis Sword (30 Days)
+ITEM_20190419_022007	[Episode 11] Primus Migantis Two-handed Sword (30 Days)
+ITEM_20190419_022008	[Episode 11] Primus Migantis Rod (30 Days)
+ITEM_20190419_022009	[Episode 11] Primus Migantis Bow (30 Days)
+ITEM_20190419_022010	[Episode 11] Primus Migantis Crossbow (30 Days)
+ITEM_20190419_022011	[Episode 11] Primus Migantis Mace (30 Days)
+ITEM_20190419_022012	[Episode 11] Primus Migantis Two-handed Mace (30 Days)
+ITEM_20190419_022013	[Episode 11] Primus Migantis Spear (30 Days)
+ITEM_20190419_022014	[Episode 11] Primus Migantis Pike (30 Days)
+ITEM_20190419_022015	[Episode 11] Primus Migantis Staff (30 Days)
+ITEM_20190419_022016	[Episode 11] Primus Migantis Pistol (30 Days)
+ITEM_20190419_022017	[Episode 11] Primus Migantis Rapier (30 Days)
+ITEM_20190419_022018	[Episode 11] Primus Migantis Cannon (30 Days)
+ITEM_20190419_022019	[Episode 11] Primus Migantis Musket (30 Days)
+ITEM_20190419_022020	[Episode 11] Primus Albinosas Leather Armor (30 Days)
+ITEM_20190419_022021	[Episode 11] Primus Albinosas Leather Pants (30 Days)
+ITEM_20190419_022022	[Episode 11] Primus Pevordimas Sword (30 Days)
+ITEM_20190419_022023	[Episode 11] Primus Pevordimas Two-handed Sword (30 Days)
+ITEM_20190419_022024	[Episode 11] Primus Pevordimas Two-handed Sword (30 Days)
+ITEM_20190419_022025	[Episode 11] Primus Pevordimas Bow (30 Days)
+ITEM_20190419_022026	[Episode 11] Primus Pevordimas Crossbow (30 Days)
+ITEM_20190419_022027	[Episode 11] Primus Pevordimas Mace (30 Days)
+ITEM_20190419_022028	[Episode 11] Primus Pevordimas Two-handed Mace (30 Days)
+ITEM_20190419_022029	[Episode 11] Primus Pevordimas Spear (30 Days)
+ITEM_20190419_022030	[Episode 11] Primus Pevordimas Pike (30 Days)
+ITEM_20190419_022031	[Episode 11] Primus Pevordimas Staff (30 Days)
+ITEM_20190419_022032	[Episode 11] Primus Pevordimas Pistol (30 Days)
+ITEM_20190419_022033	[Episode 11] Primus Pevordimas Rapier (30 Days)
+ITEM_20190419_022034	[Episode 11] Primus Pevordimas Cannon (30 Days)
+ITEM_20190419_022035	[Episode 11] Primus Pevordimas Musket (30 Days)
+ITEM_20190419_022036	[Episode 11] Primus Kaulas Leather Armor (30 Days)
+ITEM_20190419_022037	[Episode 11] Primus Kaulas Leather Pants (30 Days)
+ITEM_20190419_022038	[Episode 11] Primus Raffye Sword (30 Days)
+ITEM_20190419_022039	[Episode 11] Primus Raffye Two-handed Sword (30 Days)
+ITEM_20190419_022040	[Episode 11] Primus Raffye Rod (30 Days)
+ITEM_20190419_022041	[Episode 11] Primus Raffye Bow (30 Days)
+ITEM_20190419_022042	[Episode 11] Primus Raffye Crossbow (30 Days)
+ITEM_20190419_022043	[Episode 11] Primus Raffye Mace (30 Days)
+ITEM_20190419_022044	[Episode 11] Primus Raffye Two-handed Mace (30 Days)
+ITEM_20190419_022045	[Episode 11] Primus Raffye Shield (30 Days)
+ITEM_20190419_022046	[Episode 11] Primus Raffye Spear (30 Days)
+ITEM_20190419_022047	[Episode 11] Primus Raffye Pike (30 Days)
+ITEM_20190419_022048	[Episode 11] Primus Raffye Dagger (30 Days)
+ITEM_20190419_022049	[Episode 11] Primus Raffye Staff (30 Days)
+ITEM_20190419_022050	[Episode 11] Primus Raffye Pistol (30 Days)
+ITEM_20190419_022051	[Episode 11] Primus Raffye Rapier (30 Days)
+ITEM_20190419_022052	[Episode 11] Primus Raffye Cannon (30 Days)
+ITEM_20190419_022053	[Episode 11] Primus Raffye Musket (30 Days)
+ITEM_20190419_022054	[Episode 11] Primus Jevenellis Leather Armor (30 Days)
+ITEM_20190419_022055	[Episode 11] Primus Jevenellis Leather Pants (30 Days)
+ITEM_20190419_022056	[Episode 11] Stiletto (30 Days)
+ITEM_20190419_022057	[Episode 11] Blue Stiletto (30 Days)
+ITEM_20190419_022058	[Episode 11] Berthas Sketis Dagger (30 Days)
+ITEM_20190419_022059	[Episode 11] Berthas Short Duelist (30 Days)
+ITEM_20190419_022060	[Episode 11] Berthas Small Crystaras (30 Days)
+ITEM_20190419_022061	[Episode 11] Berthas Pajoritas Dagger (30 Days)
+ITEM_20190419_022062	[Episode 11] Primus Migantis Dagger (30 Days)
+ITEM_20190419_022063	[Episode 11] Primus Pevordimas Dagger (30 Days)
+ITEM_20190419_022064	[Episode 11] Wooden Buckler (30 Days)
+ITEM_20190419_022065	[Episode 11] Round Shield (30 Days)
+ITEM_20190419_022066	[Episode 11] Berthas Sketis Shield (30 Days)
+ITEM_20190419_022067	[Episode 11] Berthas Spike Kindl (30 Days)
+ITEM_20190419_022068	[Episode 11] Berthas Rodeleine Shield (30 Days)
+ITEM_20190419_022069	[Episode 11] Berthas Pajoritas Shield (30 Days)
+ITEM_20190419_022070	[Episode 11] Primus Migantis Shield (30 Days)
+ITEM_20190419_022071	[Episode 11] Primus Pevordimas Shield (30 Days)
+ITEM_20190419_022072	[Episode 11] Practice Cannon (30 Days)
+ITEM_20190419_022073	[Episode 11] Berthas Reine Cannon (30 Days)
+ITEM_20190419_022074	[Episode 11] Berthas Pajoritas Cannon (30 Days)
+ITEM_20190419_022075	[Episode 11] Practice Musket (30 Days)
+ITEM_20190419_022076	[Episode 11] Berthas Crystaras Musket (30 Days)
+ITEM_20190419_022077	[Episode 11] Practice Rapier (30 Days)
+ITEM_20190419_022078	[Episode 11] Dunkel Rapier (30 Days)
+ITEM_20190419_022079	[Episode 11] Berthas Sketis Rapier (30 Days)
+ITEM_20190419_022080	[Episode 11] Berthas Duelist Rapier (30 Days)
+ITEM_20190419_022081	[Episode 11] Dunkel Pistol (30 Days)
+ITEM_20190419_022082	[Episode 11] Dunkel Wooden Pistol (30 Days)
+ITEM_20190419_022083	[Episode 11] Berthas Sketis Pistol (30 Days)
+ITEM_20190419_022084	[Episode 11] Berthas Spiare Pistol (30 Days)
+ITEM_20190419_022085	[Episode 11] Berthas Alcris (30 Days)
+ITEM_20190419_022086	[Episode 11] Berthas Pajoritas Pistol (30 Days)
+ITEM_20190419_022087	I♥TOS Costume (M)
+ITEM_20190419_022088	Demonstre o seu amor por TOS com este traje comemorativo. Use para alterar a sua aparencia.
+ITEM_20190419_022089	I♥TOS Costume (F)
+ITEM_20190419_022090	[Episode 11] Traxia (30 Days)
+ITEM_20190419_022091	[Episode 11] Erera Cannon (30 Days)
+ITEM_20190419_022092	[Episode 11] Two-handed Battle Maul (30 Days)
+ITEM_20190419_022093	[Episode 11] Crystaras Musket (30 Days)
+ITEM_20190419_022094	[Episode 11] Adatag (30 Days)
+ITEM_20190419_022095	[Episode 11] Pensara Musket (30 Days)
+ITEM_20190419_022096	[Episode 11] Reine Two-handed Mace (30 Days)
+ITEM_20190419_022097	[Episode 11] Stropy Cannon (30 Days)
+ITEM_20190419_022098	[Episode 11] Vista Cannon (30 Days)
+ITEM_20190419_022099	[Episode 11] Migantis Musket (30 Days)
+ITEM_20190419_022100	[Episode 11] Finisher (30 Days)
+ITEM_20190419_022101	[Episode 11] Two-handed Rune Mace
+ITEM_20190419_022102	[Episode 11] Vienarazis Two-handed Mace
+ITEM_20190419_022103	[Episode 11] Pajoritas Two-handed Mace
+ITEM_20190419_022104	[Episode 11] Krendall Two-handed Mace (30 Days)
+ITEM_20190419_022105	Dokkaebi Epaulet
+ITEM_20190419_022106	[Tiger Hunter Special Costume]
+ITEM_20190419_022107	An epaulet awarded to the greatest of hunters.
+ITEM_20190419_022108	Wings of Victory
+ITEM_20190419_022109	[Matross Special Costume]
+ITEM_20190419_022110	An ornament that is worn by the most honored fighters of the Matrosses
+ITEM_20190419_022111	Sheriff Badge
+ITEM_20190419_022112	[Sheriff Special Costume]
+ITEM_20190419_022113	A badge worn by the high ranking sheriffs.
+ITEM_20190419_022114	Grenade
+ITEM_20190419_022115	[Ardito Special Costume]
+ITEM_20190419_022116	The Arditi who have been recognized for their distinguished services in battle wear grenades such as this one.
+ITEM_20190419_022117	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro{nl} - Lucky Golden Pig{nl} - Hawk
+ITEM_20190419_022118	Instantly restores 20% of max. HP. {nl}Additionally restores the other 20% of HP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022119	Instantly restores 20% of max. SP. {nl}Additionally restores the other 20% of SP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022120	Restores 78 Stamina. Right-click to use.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022121	Recovers the durability of currently-equipped items by +5.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022122	An event warp scroll. Use it to move to Kupole Kaze in Vedas Plateau.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022123	Combat Potion: Uphill Mission
+ITEM_20190419_022124	A potion used exclusively inside the Uphill Defense mission. Increases damage dealt by 5% and reduces damage taken by 5%. Maximum 10 stacks. Right-use to click.
+ITEM_20190419_022125	[Event] New Class Premium Costume Selection Box
+ITEM_20190419_022126	Right-click to use. Contains the class costume for the following classes.{nl}Class list{nl}- Tiger Hunter{nl}- Matross{nl}- Ardito{nl}- Sheriff{nl} {nl}- Will be automatically deleted at the end of the event period.
+ITEM_20190419_022127	(Old) The First Refuge Raid Dungeon Cube
+ITEM_20190419_022128	Collect 20 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.
+ITEM_20190419_022129	Collect 20 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.
+ITEM_20190419_022130	Collect 40 spirit fragments and use to obtain either a recipe or the finished product. Right-click to use.
+ITEM_20190419_022131	A reward obtained from Castle Dungeon
+ITEM_20190419_022132	Spirit Fragment: Prodigious Kugheri Balzermancer
+ITEM_20190419_022133	Collect 10 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.
+ITEM_20190419_022134	Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022135	Steel Anvil
+ITEM_20190419_022136	Coloque um equipamento nesta bigorna para bater e refinar a qualidade do item. Reduz os custos de refino em 50%. Clique com o botao direito do mouse para usar.
+ITEM_20190419_022137	Steel Anvil (14 Dias)
+ITEM_20190419_022138	Coloque um equipamento nesta bigorna para bater e refinar a qualidade do item. Reduz os custos de refino em 50%. Clique com o botao direito do mouse para usar. Use dentro de 14 dias.
+ITEM_20190419_022139	Ichor Transmutation Kit
+ITEM_20190419_022140	Tool used for transmuting Ichors. Can be purchased from Teliavelis.
+ITEM_20190419_022141	Silver Ichor Transmutation Kit
+ITEM_20190419_022142	Tool used for transmuting Ichors. It does not require consumables.
+ITEM_20190419_022143	[Event] Ancient Golden Socket
+ITEM_20190419_022144	Use to add a socket on equipment with 0 potential. The socket will not be added if the equipment has already reached its maximum socket limit. Right-click to use. Will be automatically deleted at the end of the event period.
+ITEM_20190419_022145	Remnants of Bernice Coin
+ITEM_20190419_022146	A reward from the Remnants of Bernice dungeon. Exchange it for other items at the Oracle Master.
+ITEM_20190419_022147	Med Kit
+ITEM_20190419_022148	A box containing various emergency medicine
+ITEM_20190419_022149	Lv. 400 Awakening Abrasive
+ITEM_20190419_022150	Use to obtain better stats in Awakening items.
+ITEM_20190419_022151	Planium
+ITEM_20190419_022152	A material that can be obtained rarely from basic monsters. Take them to the Black Smith Teliavelis in Fedimian to create new equipment.
+ITEM_20190419_022153	Lensterseum
+ITEM_20190419_022154	Nobody knows where this mineral comes from but it shines brilliantly just as its name suggests.
+ITEM_20190419_022155	Riperium
+ITEM_20190419_022156	When unrefined, it is said that this mineral decays everything in its surrounding area.
+ITEM_20190419_022157	Luminous Red Leaf
+ITEM_20190419_022158	A suspiciously luminous maple leaf. There is an unknown power radiating from it.
+ITEM_20190419_022159	White Cosmos
+ITEM_20190419_022160	White Cosmos is often used as an ingredient for medicine.
+ITEM_20190419_022161	Purple Lavender
+ITEM_20190419_022162	This cannot be used for medicinal purposes. 
+ITEM_20190419_022163	Red Tulip
+ITEM_20190419_022164	Unlike your everyday Tulip, its stem is beaming with dark energy.
+ITEM_20190419_022165	Round Golden Emblem
+ITEM_20190419_022166	An emblem decorated with golden circular edges. It holds an unknown power.
+ITEM_20190419_022167	Complete Golden Emblem
+ITEM_20190419_022168	An emblem decorated with golden edges. It holds an unknown power.
+ITEM_20190419_022169	Broken Emblem Fragment
+ITEM_20190419_022170	It holds a power different from the other emblems. Perhaps it is the arrangement of the golden edges that determine its final use.
+ITEM_20190419_022171	[Episode 11] Growth Gem
+ITEM_20190419_022172	[Episode 11] Commemorative gems celebrating the new Episode 11 update. Will be deleted automatically at the end of the event period.
+ITEM_20190419_022173	[Episode 11] Adventure Sprout
+ITEM_20190419_022174	[Episode 11] Event item to commemorate the new Episode 11 update. Will be deleted at the end of the event period.{nl} {nl}Can be used at the Adventure Sprout shop.
+ITEM_20190419_022175	Teeny Chick Egg
+ITEM_20190419_022176	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without a riding skill.{nl}This companion increases the character's HP recovery and SP recovery.{nl}- Can be exchanged for Medals at the Exchange Shop.
+ITEM_20190419_022177	N/A
+ITEM_20190419_022178	[Episode 11] Level Up Chest (Lv 15)
+ITEM_20190419_022179	Right-click to use. This item can be used by players above level 15.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022180	[Episode 11] Level Up Chest (Lv 40)
+ITEM_20190419_022181	Right-click to use. This item can be used by players above level 40.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022182	[Episode 11] Level Up Chest (Lv 50)
+ITEM_20190419_022183	Right-click to use. This item can be used by players above level 50.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022184	[Episode 11] Level Up Chest (Lv 75)
+ITEM_20190419_022185	Right-click to use. This item can be used by players above level 75.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022186	[Episode 11] Level Up Chest (Lv 85)
+ITEM_20190419_022187	Right-click to use. This item can be used by players above level 85.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022188	[Episode 11] Level Up Chest (Lv 100)
+ITEM_20190419_022189	Right-click to use. This item can be used by players above level 100.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022190	[Episode 11] Level Up Chest (Lv 120)
+ITEM_20190419_022191	Right-click to use. This item can be used by players above level 120.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022192	[Episode 11] Level Up Chest (Lv 140)
+ITEM_20190419_022193	Right-click to use. This item can be used by players above level 140.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022194	[Episode 11] Level Up Chest (Lv 170)
+ITEM_20190419_022195	Right-click to use. This item can be used by players above level 170.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022196	[Episode 11] Level Up Chest (Lv 180)
+ITEM_20190419_022197	Right-click to use. This item can be used by players above level 180.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022198	[Episode 11] Level Up Chest (Lv 200)
+ITEM_20190419_022199	Right-click to use. This item can be used by players above level 200.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022200	[Episode 11] Level Up Chest (Lv 220)
+ITEM_20190419_022201	Right-click to use. This item can be used by players above level 220.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022202	[Episode 11] Level Up Chest (Lv 230)
+ITEM_20190419_022203	Right-click to use. This item can be used by players above level 230.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022204	[Episode 11] Level Up Chest (Lv 270)
+ITEM_20190419_022205	Right-click to use. This item can be used by players above level 270.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022206	[Episode 11] Level Up Chest (Lv 315)
+ITEM_20190419_022207	Right-click to use. This item can be used by players above level 315.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022208	[Episode 11] Level Up Chest (Lv 330)
+ITEM_20190419_022209	Right-click to use. This item can be used by players above level 330.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022210	[Episode 11] Level Up Chest (Lv 350)
+ITEM_20190419_022211	Right-click to use. This item can be used by players above level 350.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022212	[Episode 11] Daily Attribute Point Box
+ITEM_20190419_022213	Right-click to use. Grants 500 Attribute Points every day during the event period.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022214	[Episode 11] Level Up Chest (Lv 380)
+ITEM_20190419_022215	Right-click to use. This item can be used by players above level 380.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022216	[Episode 11] Attribute Point 1,000
+ITEM_20190419_022217	Event item. Grants 1000 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022218	Select the equipment you want to receive from the list.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022219	Increases Class Points by +1,000.{nl}Class Points can be accumulated to a maximum of 1,000 and excess points earned will not be saved.{nl} {nl}- Will be automatically deleted at the end of the event period.
+ITEM_20190419_022220	Hidden Class Unlock Voucher Box {nl} List of Unlockable Classes {nl} - Shinobi Unlock Voucher {nl} - Miko Unlock Voucher {nl} - Rune Caster Unlock Voucher {nl} - Appraiser Unlock Voucher {nl} - Nak Muay Unlock Voucher{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022221	[Event] Twinkling Star Piece
+ITEM_20190419_022222	Monster essence obtained during the event period.
+ITEM_20190419_022223	A material item requested by Fedimian's Blacksmith Teliavelis, used to produce special equipment.{nl}Can be obtained by clearing Velcoffer's Nest, Unique Raids, Challenge Mode Stage 5, Saalus missions, and level dungeons.{nl}Will be deleted at the end of the event period.
+ITEM_20190419_022224	[Event] Teliavelis' Anvil Box
+ITEM_20190419_022225	Use to obtain one of Blacksmith Teliavelis' special anvils.{nl}- Anvil{nl}- Steel Anvil (14 Days){nl}- Silver Anvil (14 Days){nl}- Golden Anvil (14 Days){nl}Will be deleted at the end of the event period.
+ITEM_20190419_022226	[Event] Character Slot Voucher
+ITEM_20190419_022227	Event item. Adds one character slot to your Lodge. Right-click to use. Will be deleted at the end of the event period.
+ITEM_20190419_022228	[Event] Enhancement Coupon: 100,000 Silver
+ITEM_20190419_022229	Enhancement Silver Discount Coupon {nl} {nl}- Will be deleted at the end of the event period
+ITEM_20190419_022230	Title - Budding Sprout
+ITEM_20190419_022231	The box containing the title given to Budding Sprouts.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022232	[Episode 11] Level Up Chest (Lv 400)
+ITEM_20190419_022233	Right-click to use. This item can be used by players above level 400.{nl}This item will be removed at the end of the event period.
+ITEM_20190419_022234	Goddess' Blessed Cube (1 Day)
+ITEM_20190419_022235	Legend Raid Portal Stone
+ITEM_20190419_022236	Item required to enter the Legend Raid dungeon. 
+ITEM_20190419_022237	Pamoka Solution
+ITEM_20190419_022238	Use to move to a Spot Area.{nl}You will be directed to the location of the Divine Flag.{nl}Cannot be used inside Spot Areas.{nl}Can only be used by guilds that are not currently seizing the Spot Area.{nl}
+ITEM_20190419_022239	Use to move to a Spot Area.{nl}You will be directed to the location of the Divine Flag.{nl}Cannot be used inside Spot Areas.{nl}Can only be used by guilds that are not currently seizing the Spot Area.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022240	Topaz Fragment
+ITEM_20190419_022241	Found in the Outer Wall District 14 area. Looks like it has been formed from pieces of the castle wall that has accumulated inside monsters.
+ITEM_20190419_022242	Shiny Glass Shard
+ITEM_20190419_022243	Found in the Outer Wall District 14 area. They look like common glass shards.
+ITEM_20190419_022244	Cornerstone Piece
+ITEM_20190419_022245	Found in the Outer Wall District 14 area. A piece of the cornerstone that was embedded deep in the ground.
+ITEM_20190419_022246	Ancient Tree Essence
+ITEM_20190419_022247	Found in the Outer Wall District 14 area. Found between trees that have grown during Medzio Diena that destroyed the castle walls.
+ITEM_20190419_022248	Time Meter Necklace
+ITEM_20190419_022249	A tool handed to you by Ineta in Outer Wall District 15. Use to read the afterimage left behind in time to obtain useful information. 
+ITEM_20190419_022250	Lever Piece
+ITEM_20190419_022251	Found in the Outer Wall District 15 area. Looks like it's a part of some old weapon that was destroyed.
+ITEM_20190419_022252	Broken Goddess Statue
+ITEM_20190419_022253	Found in the Outer Wall District 15 area. Looks like a piece of a Goddess Statue that was destroyed.
+ITEM_20190419_022254	Broken Wheel Piece
+ITEM_20190419_022255	Found in the Outer Wall District 15 area. Looks like a wheel from an old wagon that was destroyed.
+ITEM_20190419_022256	Burnt Arrow
+ITEM_20190419_022257	Found in the Outer Wall District 15 area. An arrow that seems to have been burnt by fire.
+ITEM_20190419_022258	Found in the Outer Wall District 15 area. It does not seem to have been used much seeing how it is relatively clean.
+ITEM_20190419_022259	Lost Pendant
+ITEM_20190419_022260	Found in the Outer Wall District 15 area. It seems to have seen some use over the years.
+ITEM_20190419_022261	Pajauta's Pendant
+ITEM_20190419_022262	Given to you by Kedoran Merchant Alliance's Ineta in Outer Wall District 15. 
+ITEM_20190419_022263	To my beloved Pajauta
+ITEM_20190419_022264	is engraved on the back of the pendant.
+ITEM_20190419_022265	A seal carried by Kupole Urbas, who observed Boruta by order of Goddess Austeja.{nl}Required for entering Boruta's realm. The seal is consumed after entering his realm.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20190419_022266	Glass Bottle
+ITEM_20190419_022267	Simple bottle for carrying water.
+ITEM_20190419_022268	Filled Glass Bottle
+ITEM_20190419_022269	It is filled to the brim with water.
+ITEM_20190419_022270	Recovery Squad Insignia
+ITEM_20190419_022271	An insignia worn by the Recovery Squad to distinguish between friend and foe.
+ITEM_20190419_022272	Shock Bomb
+ITEM_20190419_022273	Detonates in reaction to weight.
+ITEM_20190419_022274	Barricade Kit
+ITEM_20190419_022275	Contains the tools used in building a barricade.
+ITEM_20190419_022276	Fish Net
+ITEM_20190419_022277	A hand-held net for fishing.
+ITEM_20190419_022278	Big Lake Fish
+ITEM_20190419_022279	Water Plant
+ITEM_20190419_022280	Water plant that has been enlarged after Medzio Diena.
+ITEM_20190419_022281	Water Plant Pile
+ITEM_20190419_022282	Removed plants have been bundled up. They are quite heavy because they are wet.
+ITEM_20190419_022283	Water Point Magic Source
+ITEM_20190419_022284	A magical stone that is required to activate the aqueduct device.
+ITEM_20190419_022285	Plant with Lake Energy
+ITEM_20190419_022286	Plant full of the lake's energy. Can be harmful to monsters.
+ITEM_20190419_022287	Paralysis Pouch
+ITEM_20190419_022288	Essential ingredient in crafting an effective self-defense weapon.
+ITEM_20190419_022289	Yellow Flower
+ITEM_20190419_022290	A flower with a slight yellow shade.
+ITEM_20190419_022291	Red Flower
+ITEM_20190419_022292	A red-tinted flower.
+ITEM_20190419_022293	White Flower
+ITEM_20190419_022294	A snow-white flower.
+ITEM_20190419_022295	Yellow Butterfly Leaf
+ITEM_20190419_022296	Butterfly-shaped yellow leaf.{nl}Looks like it might fly away immediately.
+ITEM_20190419_022297	Red Butterfly Leaf
+ITEM_20190419_022298	Butterfly-shaped red leaf.{nl}Looks like it might fly away immediately.
+ITEM_20190419_022299	White Butterfly Leaf
+ITEM_20190419_022300	Butterfly-shaped white leaf.{nl}Looks like it might fly away immediately.
+ITEM_20190419_022301	Transparent Crystal
+ITEM_20190419_022302	Mysterious transparent crystal.{nl}It is radiating with holy energy.
+ITEM_20190419_022303	Sealing Scroll
+ITEM_20190419_022304	A scroll for sealing away magic.
+ITEM_20190419_022305	Binding Scroll
+ITEM_20190419_022306	A scroll that allows for the caster to bind someone.
+ITEM_20190419_022307	Mysterious Seed
+ITEM_20190419_022308	A mysterious, yet beautiful, seed.{nl}A strange power can be felt when holding it.
+ITEM_20190419_022309	Seed of the Divine Tree
+ITEM_20190419_022310	The only seed of the Divine Tree, given by the Goddess Medeina.{nl}It has astonishing properties.
+ITEM_20190419_022311	Vivacious Grass
+ITEM_20190419_022312	Lively and vivacious grass.
+ITEM_20190419_022313	Holy Branch
+ITEM_20190419_022314	A holy branch full of divine energy.
+ITEM_20190419_022315	Unbinding Scroll
+ITEM_20190419_022316	An unbinding scroll held by a Red Banterer.
+ITEM_20190419_022317	Orb filled with Natural Energy
+ITEM_20190419_022318	An orb given to Kupole Ilona by the Goddess Medeina{nl}Ilona believes that she can use this orb to locate Medeina.
+ITEM_20190419_022319	Red Banterer Essence
+ITEM_20190419_022320	An essence found where a Red Banterer used to stand.{nl}It feels evil.
+ITEM_20190419_022321	Sealed Seed of the Divine Tree
+ITEM_20190419_022322	The only seed of the Divine Tree, given by the Goddess Medeina.{nl}Most of its powers had been sealed away through the altar.
+ITEM_20190419_022323	Demon Orders
+ITEM_20190419_022324	An order given out to the demons of Outer Wall District 11. It is indecipherable as it is written in the language of demons.
+ITEM_20190419_022325	Transformation Potion
+ITEM_20190419_022326	A potion given to you by the Druid Master. Use to transform into a demon that you have come across before.
+ITEM_20190419_022327	A purifier given to you by the Taoist Master. It looks like ordinary yellow paper, but it takes effect when attached to evil objects.
+ITEM_20190419_022328	Purifying Holy Water
+ITEM_20190419_022329	A holy water given to you by the Exorcist Master. Spray on weakened demons to purify their souls.
+ITEM_20190419_022330	Statue of Purification
+ITEM_20190419_022331	A small statue given to you by the Exorcist Master. Carry it around to collect ominous energy that is harnessed by the state to produce greater power.
+ITEM_20190419_022332	Grenade
+ITEM_20190419_022333	A grenade found in the Armory. Throw them to make them go boom.
+ITEM_20190419_022334	Explosives
+ITEM_20190419_022335	Common explosives found in abundance in the Armory. You can only carry one at a time because of its weight. Be careful with them as they are highly volatile.
+ITEM_20190419_022336	Red Crystal Piece
+ITEM_20190419_022337	Crystal pieces dropped by demons around the Obelisk in the Training Grounds. They could be a clue to destroying the Obelisk.
+ITEM_20190419_022338	Blue Crystal Piece
+ITEM_20190419_022339	Yellow Crystal Piece
+ITEM_20190419_022340	Green Crystal Piece
+ITEM_20190419_022341	An item given to you by Antanina. Antanina wants you to use this item on the demon portals in Outer Wall District 13 to inhibit them.
+ITEM_20190419_022342	Antanina's Note
+ITEM_20190419_022343	A memo written by the Resistance Adjutant Antanina. It is a to-do list of missions in Outer Wall District 13. Right-click to use.
+ITEM_20190501_022344	Tulip
+ITEM_20190501_022345	Give it to a resident of Klaipeda in exchange for a prize.{nl}(Check the Tulip Lovers List to see the location of your target NPC.)
+ITEM_20190501_022346	Tulip Lovers List
+ITEM_20190501_022347	Use to check the location of the NPC currently available.
+ITEM_20190510_022348	To begin: Sword
+ITEM_20190510_022349	. Items obtained can be increased to Lv. 400 in correspondence with the owner's level.
+ITEM_20190510_022350	To begin: Two-handed Sword
+ITEM_20190510_022351	To begin: Rod
+ITEM_20190510_022352	To begin: Bow
+ITEM_20190510_022353	To begin: Crossbow
+ITEM_20190510_022354	To begin: Mace
+ITEM_20190510_022355	To begin: Spear
+ITEM_20190510_022356	To begin: Pike
+ITEM_20190510_022357	To begin: Staff
+ITEM_20190510_022358	To begin: Rapier
+ITEM_20190510_022359	To begin: Shield
+ITEM_20190510_022360	To begin: Dagger
+ITEM_20190510_022361	To begin: Cannon
+ITEM_20190510_022362	To begin: Pistol
+ITEM_20190510_022363	To begin: Musket
+ITEM_20190510_022364	To begin: Two-handed Mace
+ITEM_20190510_022365	Contains equipment with random TRA and ENH values that can be raised to Lv. 400 in correspondence with the player's level.{nl}- ENH: 6~16{nl}- TRA: 5~10
+ITEM_20190510_022366	[Freebie] Penguin Selection Box
