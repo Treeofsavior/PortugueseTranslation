@@ -20885,9 +20885,9 @@ ITEM_20190104_020870	Lv14 Magic Critical Attack Potion	마법 치명타 공격�
 ITEM_20190104_020871	Increases your magic critical attack by +62 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 마법 치명타 공격력을 +62 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005268	Increases your magic amplification by 62 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 마법 증폭을 +62 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
 ITEM_20190104_020872	Lv15 Magic Critical Attack Potion	마법 치명타 공격력 증가 포션 LV15	ITEM_20150714_005269	Lv15 Magic Amplification Potion	마법 증폭 증가 포션 LV15	
 ITEM_20190104_020873	Increases your magic critical attack by +66 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 마법 치명타 공격력을 +66 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	ITEM_20150714_005270	Increases your magic amplification by 66 for 180 seconds. {nl}Right-click to use. Cooldown of 60 seconds.	180초 동안 마법 증폭을 +66 상승시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 60초.	
-ITEM_20190104_020874	Ore Collection	HP를 5614 즉시 회복시키고 2초 간격으로 15초 동안 HP를 5614회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 45초.				
+ITEM_20190104_020874		HP를 5614 즉시 회복시키고 2초 간격으로 15초 동안 HP를 5614회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 45초.				
 ITEM_20190104_020875		SP를 1288 즉시 회복시키고 2초 간격으로 15초 동안 SP를 1288 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 45초.				
-ITEM_20190104_020876		광석 컬렉션				
+ITEM_20190104_020876	Ore Collection	광석 컬렉션				
 ITEM_20190104_020877	A collection where you can register your items.{nl}You can register an item by right-clicking it.	아이템을 수집할 수 있는 컬렉션입니다. 마법협회 NPC의 컬렉션창에서 마우스 오른쪽 버튼 클릭으로 등록할 수 있습니다.				
 ITEM_20190104_020878	Flower Collection	꽃 컬렉션				
 ITEM_20190104_020879	Bone Collection	뼈 컬렉션				
@@ -21745,92 +21745,637 @@ ITEM_20190412_021729	Itens obtidos dos monstros em Barynwell 87 Waters, conforme
 ITEM_20190412_021730	Sujeira Magnética
 ITEM_20190412_021731	Material obtido em Outer Wall District 9, conforme pedido por Pajauta.
 ITEM_20190416_021732	Use para receber o efeito [Energia Sombria] por um período de 6 dias.{nl}(O efeito aplica somente dentro de Velcoffer's Nest){nl}- Ataque Físico +7.000{nl}- Ataque Mágico +7.000{nl}- Defesa Física +10.000{nl}- Defesa Mágica +10.000
-ITEM_20190419_021733	Baby Chick Armband
-ITEM_20190419_021734	Uma Braçadeira bonitinha para comemorar um dia especial.
-ITEM_20190419_021735	Laima Kindergarten Costume (M)
-ITEM_20190419_021736	Uniforme dos estudantes do Jardim de Infância da Laima, conhecido pela sua cor amarelada brilhante.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
-ITEM_20190419_021737	Laima Kindergarten Costume (F)
-ITEM_20190419_021738	Private-Eye Costume (M)
-ITEM_20190419_021739	Vestimenta usada por um investigator privado, que investiga uma série de casos entre Orsha e Klaipeda.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
-ITEM_20190419_021740	Private-Eye Costume (F)
-ITEM_20190419_021741	Uma roupa necessária para viajar para o infinito e além.{nl}Use para alterar a sua aparência.
-ITEM_20190419_021742	Tiger Hunter Costume
-ITEM_20190419_021743	Roupa de caça básica de um The Tiger Hunter.
-ITEM_20190419_021744	Tiger Hunter White Tiger Costume
-ITEM_20190419_021745	Vestuário feito com a pele de uma fera rara, encontrada nas terras natais dos Tiger Hunters.
-ITEM_20190419_021746	Tiger Hunter Special Costume
-ITEM_20190419_021747	Vestuário utilizado somente pelo mais talentoso dos Tiger Hunters.
-ITEM_20190419_021748	Tiger Hunter White Tiger Special Costume
-ITEM_20190419_021749	Matross Costume
-ITEM_20190419_021750	Traje básico fornecido a todos os Matrosses.
-ITEM_20190419_021751	Matross Special Costume
-ITEM_20190419_021752	Símbolo de honra entregue aos Matrosses que alcançaram a vitória em batalha.
-ITEM_20190419_021753	Matross Victor Costume
-ITEM_20190419_021754	Vestuário premiado ao mais talentoso dos Matrosses no campo de batalha.
-ITEM_20190419_021755	Matross Victor Special Costume
-ITEM_20190419_021756	[Evento] Tiger Hunter White Tiger Costume
-ITEM_20190419_021757	[Evento] Matross Victor Costume
-ITEM_20190419_021758	Ardito Costume
-ITEM_20190419_021759	Os Arditi são conhecidos por avançarem nas forças inimigas com ataques cruéis. Este traje é um reflexo disso.
-ITEM_20190419_021760	Ardito Seasoned Troops Costume
-ITEM_20190419_021761	Roupas entregues aos Arditi honoráveis que sobreviveram nas linhas de frente de batalha.
-ITEM_20190419_021762	Ardito Special Costume
-ITEM_20190419_021763	Vestuário utilizado pelos Arditi que possuem maestria em técnicas de combate com granadas.
-ITEM_20190419_021764	Ardito Seasoned Troops Special Costume
-ITEM_20190419_021765	Os Arditi que vestem estas roupas são conhecidos, nos campos de batalha, como a personificação da própria guerra.
-ITEM_20190419_021766	Sheriff Costume
-ITEM_20190419_021767	Traje utilizado por Sheriffs responsáveis por uma jurisdição.
-ITEM_20190419_021768	Sheriff Raven Costume
-ITEM_20190419_021769	Roupas entregues somente aos Sheriffs reconhecidos pelo Mestre de Classe, Evan.
-ITEM_20190419_021770	Sheriff Special Costume
-ITEM_20190419_021771	Traje utilizado por Sheriffs encarregados de vigias ativas.
-ITEM_20190419_021772	Sheriff Raven Special Costume
-ITEM_20190419_021773	Item entregue pelo Sheriff Evan, afim de condecorar Sheriffs experientes e habilidosos.
-ITEM_20190419_021774	[Evento] Ardito Seasoned Troops Costume
-ITEM_20190419_021775	[Evento]
-ITEM_20190419_021776	Parece que este pintinho fez um ninho na sua cabeça! Mas cuidado, isso pode virar uma bagunça quando virar uma galinha...{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
-ITEM_20190419_021777	Laima Kindergarten Hat
-ITEM_20190419_021778	Chapéu utilizado pelos estudantes do Jardim de Infância da Laima, conhecido pela sua cor amarelada brilhante.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
-ITEM_20190419_021779	Little Budding Sprout
-ITEM_20190419_021780	Este pequeno brotinho simboliza o crescimento.{nl}Use para alterara a sua aparência.
-ITEM_20190419_021781	Crunchy Choco Dagger
-ITEM_20190419_021782	Crunchy Choco Sword
-ITEM_20190419_021783	Crunchy Choco Two-handed Sword
-ITEM_20190419_021784	Crunchy Choco Rapier
-ITEM_20190419_021785	Crunchy Choco Shield
-ITEM_20190419_021786	Crunchy Choco Pike
-ITEM_20190419_021787	Crunchy Choco Spear
-ITEM_20190419_021788	Crunchy Choco Two-handed Mace
-ITEM_20190419_021789	Crunchy Choco Mace
-ITEM_20190419_021790	Crunchy Choco Staff
-ITEM_20190419_021791	Crunchy Choco Rod
-ITEM_20190419_021792	Crunchy Choco Bow
-ITEM_20190419_021793	Crunchy Choco Crossbow
-ITEM_20190419_021794	Cruncy Choco Cannon
-ITEM_20190419_021795	Crunchy Choco Musket
-ITEM_20190419_021796	Crunchy Choco Pistol
-ITEM_20190419_021797	I♥TOS Costume (M)
-ITEM_20190419_021798	Demonstre o seu amor por TOS com este traje comemorativo. Use para alterar a sua aparência.	
-ITEM_20190419_021799	I♥TOS Costume (F)
-ITEM_20190419_021800	Steel Anvil
-ITEM_20190419_021801	Coloque um equipamento nesta bigorna para bater e refinar a qualidade do item. Reduz os custos de refino em 50%. Clique com o botão direito do mouse para usar.
-ITEM_20190419_021802	Steel Anvil (14 Dias)
-ITEM_20190419_021803	Coloque um equipamento nesta bigorna para bater e refinar a qualidade do item. Reduz os custos de refino em 50%. Clique com o botão direito do mouse para usar. Use dentro de 14 dias.				
-ITEM_20190419_021804	Teeny Chick Egg
-ITEM_20190419_021805	Clique com o botão direito para usar. Ao fazer isso, o Mascote será imediatamente registrado.{nl}Este Mascote pode ser montado sem necessitar de uma habilidade de combate montado.{nl}Este Mascote aumenta a Recuperação de HP e SP do personagem.{nl}- Pode ser trocado por Medalhas na Loja de Trocas.
-ITEM_20190419_021806	[Evento] Pedaço de Estrela Cintilante
-ITEM_20190419_021807	Essências obtidas durante o período do evento.
-ITEM_20190419_021808	Um material que foi pedido pelo Ferreiro de Fedimian, Teliavelis, utilizado para fazer equipamentos especiais.{nl}Pode ser obtido ao completar Velcoffer's Nest, Raids Únicas, Estágio 5 do Modo Desafio, missões de Saalus, e Dungeons instanciadas.{nl}Será removido no final do período do evento.
-ITEM_20190419_021809	[Evento] Teliavelis' Anvil Box
-ITEM_20190419_021810	Use para obter uma das bigornas especiais do Ferreiro Teliavelis.{nl}- Anvil{nl}- Steel Anvil (14 Dias){nl}- Silver Anvil (14 Dias){nl}- Golden Anvil (14 Dias){nl}Será removido no final do período do evento.
-ITEM_20190426_021811	Tulipa
-ITEM_20190426_021812	Entregue para um morador de Klaipeda para trocar por um prêmio.{nl}(Verifique a Lista dos Amantes de Tulipas para ver para qual morador você deve entregar)
-ITEM_20190426_021813	Lista dos Amantes de Tulipas
-ITEM_20190426_021814	Use para verificar qual o morador de Klaipeda você deve entregar a Tulipa.
-ITEM_20190504_021815	Sweet Candy Necklace (Physical) (14 Dias)
-ITEM_20190504_021816	Itens especiais para um dia bem doce. Equipe junto do Sweet Candy Bracelet para completar o conjunto e receber os efeitos.
-ITEM_20190504_021817	Sweet Candy Necklace (Magic) (14 Dias)
-ITEM_20190504_021818	Sweet Candy Bracelet (Physical) (14 Dias)
-ITEM_20190504_021819	Itens especiais para um dia bem doce. Equipe junto do Sweet Candy Necklace para completar o conjunto e receber os efeitos.
-ITEM_20190504_021820	Sweet Candy Bracelet (Magic) (14 Dias)
-ITEM_20190504_021821	Um doce em forma de coração para um dia especial.
+ITEM_20190419_021733	A space helmet required to travel to infinity and beyond.{nl}Use to change your appearance.	머나먼 세계, 저 너머로 여행을 하기 위해 필요하다고 전해지는 우주 비행사 헬멧입니다.{nl}착용하면 외형이 변경 됩니다.	ITEM_20190316_021602	Can't go out into space without your trusty helmet!{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	머나먼 세계, 저 너머로 여행을 하기 위해 필요하다고 전해지는 우주 비행사 헬멧입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	
+ITEM_20190419_021734	Baby Chick Armband	삐약삐약 병아리 암밴드				
+ITEM_20190419_021735	A cute armband created to commemorate a special day.	세 번째 맞이하는 식목일을 기념하여 만든 암밴드입니다.				
+ITEM_20190419_021736	Legva Sword	레그바 소드				
+ITEM_20190419_021737	It may seem a little short in length for a sword, but it is capable of leaving fatal wounds on its targets due to its paired blades.	한손검으로 보기에는 검날이 짧아 보이지만, 움푹 패어 양쪽으로 갈라져 있는 검날 덕분에 적에게 깊은 상처를 남길 수 있습니다.				
+ITEM_20190419_021738	Berthas Legva Sword	베르타스 레그바 소드				
+ITEM_20190419_021739	Primus Legva Sword	프리머스 레그바 소드				
+ITEM_20190419_021740	Savinose Legva Sword	세비노스 레그바 소드				
+ITEM_20190419_021741	Legva Two-handed Sword	레그바 투 핸드 소드				
+ITEM_20190419_021742	It is a great weapon that is both fancy and modest at the same time. It's handle is quite thick so some may have trouble gripping it properly.	화려함과 투박함을 동시에 지녔고, 성능은 우월한 검입니다. 단, 손잡이가 상당히 두꺼워서 들기 힘들 수 있습니다.				
+ITEM_20190419_021743	Berthas Legva Two-handed Sword	베르타스 레그바 투 핸드 소드				
+ITEM_20190419_021744	Primus Legva Two-handed Sword	프리머스 레그바 투 핸드 소드				
+ITEM_20190419_021745	Savinose Legva Two-handed Sword	세비노스 레그바 투 핸드 소드				
+ITEM_20190419_021746	Legva Rod	레그바 로드				
+ITEM_20190419_021747	A rod that makes use of a powerful magic source as a material. It is said to be mined in Nicopolis, but nobody knows for sure.	강력한 마력의 힘을 지닌 원석을 제어한 지팡이입니다. 원석의 출처는 정확히 알 수 없지만, 니코폴리스에서 추출된 것으로 보입니다.				
+ITEM_20190419_021748	Berthas Legva Rod	베르타스 레그바 로드				
+ITEM_20190419_021749	Primus Legva Rod	프리머스 레그바 로드				
+ITEM_20190419_021750	Savinose Legva Rod	세비노스 레그바 로드				
+ITEM_20190419_021751	Legva Bow	레그바 보우				
+ITEM_20190419_021752	A very flexible bow made from the trees growing in Parias Forest. It is great for dead-accurate aims from miles away.	파리아스 숲에서 자라나는 나무를 활대로 쓴 이 활은 탄력성이 매우 좋아 멀리 있는 표적도 단숨에 꿰뚫어 버립니다.				
+ITEM_20190419_021753	Berthas Legva Bow	베르타스 레그바 보우				
+ITEM_20190419_021754	Primus Legva Bow	프리머스 레그바 보우				
+ITEM_20190419_021755	Savinose Legva Bow	세비노스 레그바 보우				
+ITEM_20190419_021756	Legva Crossbow	레그바 크로스보우				
+ITEM_20190419_021757	Berthas Legva Crossbow	베르타스 레그바 크로스보우				
+ITEM_20190419_021758	Primus Legva Crossbow	프리머스 레그바 크로스보우				
+ITEM_20190419_021759	Savinose Legva Crossbow	세비노스 레그바 크로스보우				
+ITEM_20190419_021760	Legva Mace	레그바 메이스				
+ITEM_20190419_021761	It is a deadly mace despite being made of materials that can be found in the forest.	숲에서 얻을 수 있는 재료로 만들어졌지만 내구성, 위력은 상당한 메이스입니다.				
+ITEM_20190419_021762	Berthas Legva Mace	베르타스 레그바 메이스				
+ITEM_20190419_021763	Primus Legva Mace	프리머스 레그바 메이스				
+ITEM_20190419_021764	Savinose Legva Mace	세비노스 레그바 메이스				
+ITEM_20190419_021765	Legva Two-handed Mace	레그바 투 핸드 메이스				
+ITEM_20190419_021766	A mace crafted in a similar fashion to those used by the Royal Military. Although similar in appearance, Legva maces are much more rare and highly sought after.	왕국군과 교단의 사제들 사이에서 유행하는 메이스와 유사하지만, 어쩌면 그것이 이 레그바 보다 상대적으로 구하기 쉽기 때문에 그럴지도 모릅니다.				
+ITEM_20190419_021767	Berthas Legva Two-handed Mace	베르타스 레그바 투 핸드 메이스				
+ITEM_20190419_021768	Primus Legva Two-handed Mace	프리머스 레그바 투 핸드 메이스				
+ITEM_20190419_021769	Savinose Legva Two-handed Mace	세비노스 레그바 투 핸드 메이스				
+ITEM_20190419_021770	Legva Shield	레그바 실드				
+ITEM_20190419_021771	A simple wooden shield finished off with rare metal ores. The wood used in crafting the shield is also hard to come by.	기본적으로 목재로 되어 있는 방패지만 구하기 힘든 원석을 가공하여 붙여 단단합니다. 물론 쓰인 목재 또한 구하기 힘든 소재입니다.				
+ITEM_20190419_021772	Berthas Legva Shield	베르타스 레그바 실드				
+ITEM_20190419_021773	Primus Legva Shield	프리머스 레그바 실드				
+ITEM_20190419_021774	Savinose Legva Shield	세비노스 레그바 실드				
+ITEM_20190419_021775	Legva Spear	레그바 스피어				
+ITEM_20190419_021776	There is a symbolic meaning behind the shape of this spear, but no one really knows exactly what it is.	창의 생김새가 어떤 상징성을 지니고 있으나, 이를 아는 사람은 몇몇 없습니다.				
+ITEM_20190419_021777	Berthas Legva Spear	베르타스 레그바 스피어				
+ITEM_20190419_021778	Primus Legva Spear	프리머스 레그바 스피어				
+ITEM_20190419_021779	Savinose Legva Spear	세비노스 레그바 스피어				
+ITEM_20190419_021780	Legva Pike	레그바 파이크				
+ITEM_20190419_021781	Berthas Legva Pike	베르타스 레그바 파이크				
+ITEM_20190419_021782	Primus Legva Pike	프리머스 레그바 파이크				
+ITEM_20190419_021783	Savinose Legva Pike	세비노스 레그바 파이크				
+ITEM_20190419_021784	Legva Dagger	레그바 대거				
+ITEM_20190419_021785	The trademark of this dagger is the central ornament piece that looks like a monster's eye.	가운데 새겨져 있는 장식이 마치 몬스터의 눈처럼 생긴것이 이 단검의 트레이드 마크입니다.				
+ITEM_20190419_021786	Berthas Legva Dagger	베르타스 레그바 대거				
+ITEM_20190419_021787	Primus Legva Dagger	프리머스 레그바 대거				
+ITEM_20190419_021788	Savinose Legva Dagger	세비노스 레그바 대거				
+ITEM_20190419_021789	Legva Staff	레그바 스태프				
+ITEM_20190419_021790	Despite its blunt looks, it is an artifact very potent with magical energy that many powerful mages covet. 	투박하게 생겼지만 강력한 마력의 힘을 지닌 소재로 만든 지팡이로 정통한 마법사들이 탐내곤 합니다 				
+ITEM_20190419_021791	Berthas Legva Staff	베르타스 레그바 스태프				
+ITEM_20190419_021792	Primus Legva Staff	프리머스 레그바 스태프				
+ITEM_20190419_021793	Savinose Legva Staff	세비노스 레그바 스태프				
+ITEM_20190419_021794	Legva Pistol	레그바 피스톨				
+ITEM_20190419_021795	Not only does it look good, but it also fits perfectly in the user's hand. Many highly experienced soldiers want to own one because of this.	생김새도 준수하지만 특히나 사용성이 좋아 숙련된 왕국 병사들이 가지고 싶어합니다.				
+ITEM_20190419_021796	Berthas Legva Pistol	베르타스 레그바 피스톨				
+ITEM_20190419_021797	Primus Legva Pistol	프리머스 레그바 피스톨				
+ITEM_20190419_021798	Savinose Legva Pistol	세비노스 레그바 피스톨				
+ITEM_20190419_021799	Legva Rapier	레그바 레이피어				
+ITEM_20190419_021800	With designs staying true to its purpose, its edges are sharp enough to slice through its targets. 	기본에 충실한 단순한 모양과는 달리, 찌른 표적을 간단하게 도려낼 수 있는 검날을 지닌 레이피어입니다. 				
+ITEM_20190419_021801	Berthas Legva Rapier	베르타스 레그바 레이피어				
+ITEM_20190419_021802	Primus Legva Rapier	프리머스 레그바 레이피어				
+ITEM_20190419_021803	Savinose Legva Rapier	세비노스 레그바 레이피어				
+ITEM_20190419_021804	Legva Cannon	레그바 캐논				
+ITEM_20190419_021805	Berthas Legva Cannon	베르타스 레그바 캐논				
+ITEM_20190419_021806	Primus Legva Cannon	프리머스 레그바 캐논				
+ITEM_20190419_021807	Savinose Legva Cannon	세비노스 레그바 캐논				
+ITEM_20190419_021808	Legva Musket	레그바 머스킷				
+ITEM_20190419_021809	Berthas Legva Musket	베르타스 레그바 머스킷				
+ITEM_20190419_021810	Primus Legva Musket	프리머스 레그바 머스킷				
+ITEM_20190419_021811	Savinose Legva Musket	세비노스 레그바 머스킷				
+ITEM_20190419_021812	Pilgriste Robe	피그림테 로브				
+ITEM_20190419_021813	A weapon used mostly by pilgrims. Its practicality and ease of use is well suited for long travels.	순례자들이 주로 사용하는 무난한 디자인입니다. 먼 길을 여행할 필요한 편안함과 실용성을 강조했습니다.				
+ITEM_20190419_021814	Vymedzai Leather Armor	비메자이 레더 아머				
+ITEM_20190419_021815	It is said to be made of plants that reacted to magic. Its thorns are capable of leaving fatal wounds on its targets.	신수의 날 마력에 반응하는 식물을 이용하여 만들었다고 합니다. 가시를 이용하여 공격하는 적에게 피해를 줄 수 있을 것 같습니다.				
+ITEM_20190419_021816	Akmo Plate Armor	아크모 플레이트 아머				
+ITEM_20190419_021817	Made of sturdy material, it wraps around the whole body comfortably. There is no need to fear enemy strikes in battle.	단단한 재질로 몸 전체를 보호합니다. 적의 공격을 두려워할 필요가 없습니다.				
+ITEM_20190419_021818	Berthas Pilgriste Robe	베르타스 피그림테 로브				
+ITEM_20190419_021819	A weapon used mostly by pilgrims. Its practicality and ease of use is well suited for long travels.	순례자들이 주로 사용하는 무난한 디자인입니다. 먼 길을 여행할 때 필요한 편안함과 실용성을 강조했습니다.				
+ITEM_20190419_021820	BerthasVymedzai Leather Armor	베르타스 비메자이 레더 아머				
+ITEM_20190419_021821	Berthas Akmo Plate Armor	베르타스 아크모 플레이트 아머				
+ITEM_20190419_021822	 - Activates the Wrath buff when equipped{nl} {nl}Wrath{nl} - Grants a (5 * Wrath stacks)% chance of triggering Ignas - Wrath whenever you are attacked. {nl} {nl}Ignas - Wrath{nl} - Maximum attack + 250 (max. 3 stacks, 10 sec duration)	 - 장착시 격노 버프 활성화{nl} {nl}격노{nl} - 피격시 (5 * 격노 버프 중첩수)% 확률로 이그나스 - 격노가 발동합니다. {nl} {nl}이그나스 - 격노{nl} - 최대 공격력 + 250 증가 (최대 3회 중첩 10초 유지)				
+ITEM_20190419_021823	Primus Pilgriste Robe	프리머스 피그림테 로브				
+ITEM_20190419_021824	Primus Vymedzai Leather Armor	프리머스 비메자이 레더 아머				
+ITEM_20190419_021825	Primus Akmo Plate Armor	프리머스 아크모 플레이트 아머				
+ITEM_20190419_021826	Savinose Pilgriste Robe	세비노스 피그림테 로브				
+ITEM_20190419_021827	Savinose Vymedzai Leather Armor	세비노스 비메자이 레더 아머				
+ITEM_20190419_021828	Savinose Akmo Plate Armor	세비노스 아크모 플레이트 아머				
+ITEM_20190419_021829	Pilgriste Pants	피그림테 팬츠				
+ITEM_20190419_021830	Vymedzai Leather Pants	비메자이 레더 팬츠				
+ITEM_20190419_021831	Akmo Plate Pants	아크모 플레이트 팬츠				
+ITEM_20190419_021832	Berthas Pilgriste Pants	베르타스 피그림테 팬츠				
+ITEM_20190419_021833	Berthas Vymedzai Leather Pants	베르타스 비메자이 레더 팬츠				
+ITEM_20190419_021834	Berthas Akmo Plate Pants	베르타스 아크모 플레이트 팬츠				
+ITEM_20190419_021835	Primus Pilgriste Pants	프리머스 피그림테 팬츠				
+ITEM_20190419_021836	Primus Vymedzai Leather Pants	프리머스 비메자이 레더 팬츠				
+ITEM_20190419_021837	Primus Akmo Plate Pants	프리머스 아크모 플레이트 팬츠				
+ITEM_20190419_021838	Savinose Pilgriste Pants	세비노스 피그림테 팬츠				
+ITEM_20190419_021839	Savinose Vymedzai Leather Pants	세비노스 비메자이 레더 팬츠				
+ITEM_20190419_021840	Savinose Akmo Plate Pants	세비노스 아크모 플레이트 팬츠				
+ITEM_20190419_021841	Pilgriste Boots	피그림테 부츠				
+ITEM_20190419_021842	Vymedzai Leather Boots	비메자이 레더 부츠				
+ITEM_20190419_021843	Akmo Greaves	아크모 그리브				
+ITEM_20190419_021844	Berthas Pilgriste Boots	베르타스 피그림테 부츠				
+ITEM_20190419_021845	Berthas Vymedzai Leather Boots	베르타스 비메자이 레더 부츠				
+ITEM_20190419_021846	Berthas Akmo Greaves	베르타스 아크모 그리브				
+ITEM_20190419_021847	Primus Pilgriste Boots	프리머스 피그림테 부츠				
+ITEM_20190419_021848	Primus Vymedzai Leather Boots	프리머스 비메자이 레더 부츠				
+ITEM_20190419_021849	Primus Akmo Greaves	프리머스 아크모 그리브				
+ITEM_20190419_021850	Savinose Pilgriste Boots	세비노스 피그림테 부츠				
+ITEM_20190419_021851	Savinose Vymedzai Leather Boots	세비노스 비메자이 레더 부츠				
+ITEM_20190419_021852	Savinose Akmo Greaves	세비노스 아크모 그리브				
+ITEM_20190419_021853	Pilgriste Gloves	피그림테 글로브				
+ITEM_20190419_021854	Vymedzai Leather Gloves	비메자이 레더 글로브				
+ITEM_20190419_021855	Akmo Gauntlet	아크모 건틀릿				
+ITEM_20190419_021856	Berthas Pilgriste Gloves	베르타스 피그림테 글로브				
+ITEM_20190419_021857	Berthas Vymedzai Leather Gloves	베르타스 비메자이 레더 글로브				
+ITEM_20190419_021858	Berthas Akmo Gauntlet	베르타스 아크모 건틀릿				
+ITEM_20190419_021859	Primus Pilgriste Gloves	프리머스 피그림테 글로브				
+ITEM_20190419_021860	Primus Vymedzai Leather Gloves	프리머스 비메자이 레더 글로브				
+ITEM_20190419_021861	Primus Akmo Gauntlet	프리머스 아크모 건틀릿				
+ITEM_20190419_021862	Savinose Pilgriste Gloves	세비노스 피그림테 글로브				
+ITEM_20190419_021863	Savinose Vymedzai Leather Gloves	세비노스 비메자이 레더 글로브				
+ITEM_20190419_021864	Savinose Akmo Gauntlets	세비노스 아크모 건틀릿				
+ITEM_20190419_021865	Sugar Necklace (Physical) (14 Days)	화이트데이 목걸이 (물리)(14일)	ITEM_20180418_017904	Sugar Necklace (Physical) (7 Days)	화이트데이 목걸이 (물리)(7일)	
+ITEM_20190419_021866	Special items for a sugary day. Equip with the Sugar Bracelet to complete the set and receive the effects. Will be automatically deleted at the end of the event period.	화이트데이 이벤트 아이템입니다. 화이트데이 팔찌와 함께 착용하면 세트 효과를 얻습니다. 4월 4일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190419_021867	Sugar Necklace (Magic) (14 Days)	화이트데이 목걸이 (마법)(14일)	ITEM_20180418_017906	Sugar Necklace (Magic) (7 Days)	화이트데이 목걸이 (마법)(7일)	
+ITEM_20190419_021868	[Episode 11] Adventurer's Necklace (30 Days)	[Episode11] 모험가의 네클리스(30일)				
+ITEM_20190419_021869	Wearing the necklace makes your feet feel lighter and makes your heart ready for adventure.	이 목걸이를 착용하면 어디든 갈 수 있을거 같다.				
+ITEM_20190419_021870	  - Adds {img green_up_arrow 16 16}50% Skill Factor when using the following skills{nl}- Fireball{nl} - Fire Wall{nl} - Fire Pillar{nl} - Hell Breath{nl} - Flame Ground{nl} - Meteor{nl} - Incineration{nl} - Prominence{nl} - Combustion{nl} - Immolation	 - 아래의 스킬 사용 시 {img green_up_arrow 16 16}50% 공격력 추가{nl}   - 파이어볼{nl}   - 파이어 월{nl}   - 파이어 필라{nl}   - 헬 브레쓰{nl}   - 플레임 그라운드{nl}   - 메테오{nl}   - 소각{nl}   - 홍염{nl}   - 컴버스천{nl}   - 이몰레이션	ITEM_20180517_018327	 - Adds {img green_up_arrow 16 16}50% Skill Factor when using the following skills{nl}- Fireball{nl} - Fire Wall{nl} - Fire Pillar{nl} - Hell Breath{nl} - Flame Ground{nl} - Meteor{nl} - Incineration{nl} - Prominence{nl} - Combustion{nl} - Immolation	 - 아래의 스킬 사용 시 {img green_up_arrow 16 16}50% 공격력 추가{nl}   - 파이어볼{nl}   - 파이어 월{nl}   - 플레어{nl}   - 파이어 필라{nl}   - 헬 브레쓰{nl}   - 플레임 그라운드{nl}   - 메테오{nl}   - 소각{nl}   - 홍염{nl}   - 컴버스천{nl}   - 이몰레이션	
+ITEM_20190419_021871	Sugar Bracelet (Physical) (14 Days)	화이트데이 팔찌 (물리)(14일)	ITEM_20180418_017920	Sugar Bracelet (Physical) (7 Days)	화이트데이 팔찌 (물리)(7일)	
+ITEM_20190419_021872	Special items for a sugary day. Equip with the Sugar Necklace to complete the set and receive the effects. Will be automatically deleted at the end of the event period.	화이트데이 이벤트 아이템입니다. 화이트데이 목걸이와 함께 착용하면 세트 효과를 얻습니다. 4월 4일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190419_021873	Sugar Bracelet (Magic) (14 Days)	화이트데이 팔찌 (마법)(14일)	ITEM_20180418_017922	Sugar Bracelet (Magic) (3 Days)	화이트데이 팔찌 (마법)(7일)	
+ITEM_20190419_021874	[Episode 11] Adventurer's Bracelet (30 Days)	[Episode11] 모험가의 브레이슬릿(30일)				
+ITEM_20190419_021875	It lightens the heart, preparing the wearer from the weary road ahead.	가벼운 마음으로 착용하곧 돌아다니기 좋다.				
+ITEM_20190419_021876	Laima Kindergarten Costume (M)	라이마 유치원 원아복 코스튬 (남)				
+ITEM_20190419_021877	The uniform of Laima Kindergarten students, known for its bright, baby chick-yellow color.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	삐약삐약 병아리처럼 무럭무럭 자라나는 새싹, 귀여운 라이마 유치원의 원아복 코스튬입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20190419_021878	Laima Kindergarten Costume (F)	라이마 유치원 원아복 코스튬 (여)				
+ITEM_20190419_021879	Private-Eye Costume (M)	소문난 명탐정 코스튬 (남)				
+ITEM_20190419_021880	Outfit worn by a renown private-eye investing a series of cases between Orsha and Klaipeda.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	클라페다와 오르샤 사이에서 연쇄 사건을 해결한 소문난 명탐정이 입고 다닌다는 코스튬입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20190419_021881	Private-Eye Costume (F)	소문난 명탐정 코스튬 (여)				
+ITEM_20190419_021882	A costume required to travel to infinity and beyond.{nl}Use to change your appearance.	머나먼 세계, 저 너머로 여행을 하기 위해 필요하다고 전해지는 우주 비행사 코스튬입니다.{nl}착용하면 외형이 변경 됩니다.				
+ITEM_20190419_021883	Tiger Hunter Costume	산포 코스튬				
+ITEM_20190419_021884	The Tiger Hunter's basic hunting outfit.	산포가 사냥을 나갈 때 입는 기본적인 의상입니다.				
+ITEM_20190419_021885	Tiger Hunter White Tiger Costume	산포 백호가죽 코스튬				
+ITEM_20190419_021886	Garments made from the skin of a rare beast found in the Tiger Hunter's homeland.	산포의 고향에서 드물게 발견되는 맹수를 사냥하여 만든 의상입니다.				
+ITEM_20190419_021887	Tiger Hunter Special Costume	산포 스페셜 코스튬				
+ITEM_20190419_021888	Outfit worn only by the most talented of Tiger Hunters.	산포 중에서도 사냥 실력이 뛰어난 산포들이 입는 의상입니다.				
+ITEM_20190419_021889	Tiger Hunter White Tiger Special Costume	산포 백호가죽 스페셜 코스튬				
+ITEM_20190419_021890	Matross Costume	매트로스 코스튬				
+ITEM_20190419_021891	Basic costume given to all Matrosses.	매트로스가 되면 기본적으로 지급되는 의상입니다.				
+ITEM_20190419_021892	Matross Special Costume	매트로스 스페셜 코스튬				
+ITEM_20190419_021893	Symbol of honor awarded to Matrosses who have emerged victorious in battle.	전투에서 승리한 매트로스에게 지급되는, 명예를 상징하는 의상입니다.				
+ITEM_20190419_021894	Matross Victor Costume	매트로스 빅터 코스튬				
+ITEM_20190419_021895	Garments awarded to the most talented Matrosses in the battlefield.	수많은 전투를 치른 노련한 매트로스가 입는 의상입니다.				
+ITEM_20190419_021896	Matross Victor Special Costume	매트로스 빅터 스페셜 코스튬				
+ITEM_20190419_021897	[Event] Tiger Hunter White Tiger Costume	[이벤트] 산포 백호가죽 코스튬				
+ITEM_20190419_021898	[Event] Matross Victor Costume	[이벤트] 매트로스 빅터 코스튬				
+ITEM_20190419_021899	Ardito Costume	아르디티 코스튬				
+ITEM_20190419_021900	The Arditi are known for charging onto enemy forces with ruthless attacks. This costume is a reflection of that.	아르디티는 적진 한가운데로 돌격하여 무자비하게 공격을 퍼붓습니다. 이 의상은 그런 아르디티가 활동하기에 적합하게 제작되었습니다.				
+ITEM_20190419_021901	Ardito Seasoned Troops Costume	아르디티 시즌드 트룹스 코스튬				
+ITEM_20190419_021902	Clothes granted to honorable Arditi who survived in the front lines of battle.	최전선에서 살아남은 정예 아르디티를 위한 의상입니다.				
+ITEM_20190419_021903	Ardito Special Costume	아르디티 스페셜 코스튬				
+ITEM_20190419_021904	Garments worn by Arditi well-versed in grenade combat techniques.	수류탄을 노련하게 사용할 수 있는 자만이 지급받는 아르디티 의상입니다.				
+ITEM_20190419_021905	Ardito Seasoned Troops Special Costume	아르디티 시즌드 트룹스 스페셜 코스튬				
+ITEM_20190419_021906	Arditi who wear these clothes are known on the battlefield as the personification of war itself.	출전한 병사들은 이 옷을 입은 아르디티를 전장의 화신이었다고 칭합니다.				
+ITEM_20190419_021907	Sheriff Costume	셰리프 코스튬				
+ITEM_20190419_021908	Costume worn by Sheriffs who are in charge of a jurisdiction.	한 구역의 보안을 책임질 수 있는 셰리프가 지급 받는 의상입니다.				
+ITEM_20190419_021909	Sheriff Raven Costume	셰리프 레이븐 코스튬				
+ITEM_20190419_021910	Clothes given only to Sheriffs recognized by Class Master Evan.	셰리프 마스터 에반이 인정한 셰리프만이 지급 받을 수 있는 의상입니다.				
+ITEM_20190419_021911	Sheriff Special Costume	셰리프 스페셜 코스튬				
+ITEM_20190419_021912	Costume worn by Sheriffs in charge of assuring.	한 마을의 보안을 책임질 수 있는 셰리프가 지급 받는 의상입니다.				
+ITEM_20190419_021913	Sheriff Raven Special Costume	셰리프 레이븐 스페셜 코스튬				
+ITEM_20190419_021914	Garments awarded by Sheriff Evan to those who have been recognized as a master marksman by the great Sheriff himself.	셰리프 마스터 에반이 자신보다 뛰어난 사격술을 가지고 있다고 판단되는 셰리프에게 지급해 주는 의상입니다.				
+ITEM_20190419_021915	[Event] Ardito Seasoned Troops Costume	[이벤트] 아르디티 시즌드 트룹스 코스튬				
+ITEM_20190419_021916	[Event] Sheriff Raven Costume	[이벤트] 셰리프 레이븐 코스튬				
+ITEM_20190419_021917	A heart-shaped treat for a special day.	화이트데이를 기념하여 구원자 여러분께 드리는, 하트모양을 한 달콤한 사탕입니다	ITEM_20170307_013560	Nothing is sweeter or lovelier than heart-shaped candy.{nl}Can be exchanged for medals at the Exchange Shop.	하트모양을 한 달콤한 사탕입니다.{nl} 리사이클샵에서 메달로 교환 가능합니다.	
+ITEM_20190419_021918	This tiny baby chick seems to have made a nest out of your head! But beware, it may grow a little hefty when it turns into a chicken...{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	머리 위가 푹신해서 기분이 좋은지 삐약삐약 병아리가 머리 위에 그대로 눌러 앉았습니다. 닭으로 성장하면 얼마나 무거워질까요..{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.	ITEM_20190316_021607	This tiny baby chick seems to have made a nest out of your head! But beware, it may grow a little hefty when it turns into a chicken...{nl}Can be exchanged for Medals at the Exchange Shop.	머리 위가 푹신해서 기분이 좋은지 삐약삐약 병아리가 머리 위에 그대로 눌러 앉았습니다. 닭으로 성장하면 얼마나 무거워질까요..{nl}리사이클 샵에서 메달로 교환할 수 있습니다.	
+ITEM_20190419_021919	Laima Kindergarten Hat	라이마 유치원 원아 모자				
+ITEM_20190419_021920	The hat worn by Laima Kindergarten students, known for its bright, baby chick-yellow color.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	삐약삐약 병아리처럼 무럭무럭 자라나는 새싹, 귀여운 라이마 유치원의 아기 오리 모자입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.				
+ITEM_20190419_021921	Little Budding Sprout	무럭무럭 자라나는 새싹				
+ITEM_20190419_021922	This little budding sprout symbolizes growth.{nl}Use to change your appearance.	무럭무럭 자라나 잘 크기를 바라는 마음을 담은 새싹입니다{nl}착용하면 외형이 변경 됩니다.				
+ITEM_20190419_021923	Crunchy Choco Dagger	바삭바삭 초콜릿 대거				
+ITEM_20190419_021924	Crunchy Choco Sword	바삭바삭 초콜릿 소드				
+ITEM_20190419_021925	Crunchy Choco Two-handed Sword	바삭바삭 초콜릿 투 핸드 소드				
+ITEM_20190419_021926	Crunchy Choco Rapier	바삭바삭 초콜릿 레이피어				
+ITEM_20190419_021927	Crunchy Choco Shield	바삭바삭 초콜릿 실드				
+ITEM_20190419_021928	Crunchy Choco Pike	바삭바삭 초콜릿 파이크				
+ITEM_20190419_021929	Crunchy Choco Spear	바삭바삭 초콜릿 스피어				
+ITEM_20190419_021930	Crunchy Choco Two-handed Mace	바삭바삭 초콜릿 투 핸드 메이스				
+ITEM_20190419_021931	Crunchy Choco Mace	바삭바삭 초콜릿 메이스				
+ITEM_20190419_021932	Crunchy Choco Staff	바삭바삭 초콜릿 스태프				
+ITEM_20190419_021933	Crunchy Choco Rod	바삭바삭 초콜릿 로드				
+ITEM_20190419_021934	Crunchy Choco Bow	바삭바삭 초콜릿 보우				
+ITEM_20190419_021935	Crunchy Choco Crossbow	바삭바삭 초콜릿 크로스보우				
+ITEM_20190419_021936	Cruncy Choco Cannon	바삭바삭 초콜릿 캐논				
+ITEM_20190419_021937	Crunchy Choco Musket	바삭바삭 초콜릿 머스킷				
+ITEM_20190419_021938	Crunchy Choco Pistol	바삭바삭 초콜릿 피스톨				
+ITEM_20190419_021939	[Episode 11] Deathweaver Cutter (30 Days)	[Episode11] 데스위버 커터 (30일)	ITEM_20190104_020209	[Re:Build] Deathweaver Cutter (30 Days)	[Re:Build] 데스위버 커터 (30일)	
+ITEM_20190419_021940	[Episode 11] Deathweaver Tooth (30 Days)	[Episode11] 데스위버 투스 (30일)	ITEM_20190104_020210	[Re:Build] Deathweaver Tooth (30 Days)	[Re:Build] 데스위버 투스 (30일)	
+ITEM_20190419_021941	[Episode 11] Deathweaver Rod (30 Days)	[Episode11] 데스위버 로드 (30일)	ITEM_20190104_020211	[Re:Build] Deathweaver Rod (30 Days)	[Re:Build] 데스위버 로드 (30일)	
+ITEM_20190419_021942	[Episode 11] Melinas Staff (30 Days)	[Episode11] 멜리나스 스태프 (30일)	ITEM_20190104_020212	[Re:Build] Melinas Staff (30 Days)	[Re:Build] 멜리나스 스태프 (30일)	
+ITEM_20190419_021943	[Episdoe 11] Deathweaver Bow (30 Days)	[Episode11] 데스위버 보우 (30일)	ITEM_20190104_020213	[Re:Build] Deathweaver Bow (30 Days)	[Re:Build] 데스위버 보우 (30일)	
+ITEM_20190419_021944	[Episdoe 11] Deathweaver Crossbow (30 Days)	[Episode11] 데스위버 크로스보우 (30일)	ITEM_20190104_020214	[Re:Build] Deathweaver Cross Bow (30 Days)	[Re:Build] 데스위버 크로스보우 (30일)	
+ITEM_20190419_021945	[Episode 11] Vubbe Morning Star (30 Days)	[Episode11] 부베 모닝스타 (30일)	ITEM_20190104_020215	[Re:Build] Vubbe Morning Star (30 Days)	[Re:Build] 부베 모닝스타 (30일)	
+ITEM_20190419_021946	[Episode 11] Vubbe Armor (30 Days)	[Episode11] 부베 아머 (30일)	ITEM_20190104_020216	[Re:Build] Vubbe Armor (30 Days)	[Re:Build] 부베 아머 (30일)	
+ITEM_20190419_021947	[Episode 11] Vubbe Pants (30 Days)	[Episode11] 부베 팬츠 (30일)	ITEM_20190104_020217	[Re:Build] Vubbe Boots (30 Days)	[Re:Build] 부베 팬츠 (30일)	
+ITEM_20190419_021948	[Episode 11] Cheminis Sword (30 Days)	[Episode11] 케미니스 소드 (30일)	ITEM_20190104_020218	[Re:Build] Cheminis Sword (30 Days)	[Re:Build] 케미니스 소드 (30일)	
+ITEM_20190419_021949	[Episode 11] Chapparition Two-handed Sword (30 Days)	[Episode11] 채퍼리션 투 핸드 소드 (30일)	ITEM_20190104_020219	[Re:Build] Chapparition Two-Hand Sword (30 Days)	[Re:Build] 채퍼리션 투 핸드 소드 (30일)	
+ITEM_20190419_021950	[Episode 11] Chapparition Rod (30 Days)	[Episode11] 채퍼리션 로드 (30일)	ITEM_20190104_020220	[Re:Build] Chapparition Rod (30 Days)	[Re:Build] 채퍼리션 로드 (30일)	
+ITEM_20190419_021951	[Episode 11] Patrice Staff (30 Days)	[Episode11] 파트리스 스태프 (30일)	ITEM_20190104_020221	[Re:Build] Patrice Staff (30 Days)	[Re:Build] 파트리스 스태프 (30일)	
+ITEM_20190419_021952	[Episode 11] Chapparition Bow (30 Days)	[Episode11] 채퍼리션 보우 (30일)	ITEM_20190104_020222	[Re:Build] Chapparition Bow (30 Days)	[Re:Build] 채퍼리션 보우 (30일)	
+ITEM_20190419_021953	[Episode 11] Chapparition Shooter (30 Days)	[Episode11] 채퍼리션 슈터 (30일)	ITEM_20190104_020223	[Re:Build] Chapparition Shooter (30 Days)	[Re:Build] 채퍼리션 슈터 (30일)	
+ITEM_20190419_021954	[Episode 11] Chapparition Mace (30 Days)	[Episode11] 채퍼리션 메이스 (30일)	ITEM_20190104_020224	[Re:Build] Chapparition Mace (30 Days)	[Re:Build] 채퍼리션 메이스 (30일)	
+ITEM_20190419_021955	[Episode 11] Silver Spear (30 Days)	[Episode11] 실버 스피어 (30일)	ITEM_20190104_020225	[Re:Build] Silver Spear (30 Days)	[Re:Build] 실버 스피어 (30일)	
+ITEM_20190419_021956	[Episode 11] Cheminis Pike (30 Days)	[Episode11] 케미니스 파이크 (30일)	ITEM_20190104_020226	[Re:Build] Cheminis Pike (30 Days)	[Re:Build] 케미니스 파이크 (30일)	
+ITEM_20190419_021957	[Episode 11] Mark Tunic (30 Days)	[Episode11] 마크 튜닉 (30일)	ITEM_20190104_020227	[Re:Build] Mark Tunic (30 Days)	[Re:Build] 마크 튜닉 (30일)	
+ITEM_20190419_021958	[Episode 11] Mark Pants (30 Days)	[Episode11] 마크 팬츠 (30일)	ITEM_20190104_020228	[Re:Build] Mark Pants (30 Days)	[Re:Build] 마크 팬츠 (30일)	
+ITEM_20190419_021959	[Episode 11] Durandal (30 Days)	[Episode11] 듀란달 (30일)	ITEM_20190104_020229	[Re:Build] Durandal (30 Days)	[Re:Build] 듀란달 (30일)	
+ITEM_20190419_021960	[Episode 11] Flamini (30 Days)	[Episode11] 플라미니 (30일)	ITEM_20190104_020230	[Re:Build] Flamini (30 Days)	[Re:Build] 플라미니 (30일)	
+ITEM_20190419_021961	[Episode 11] Secretum (30 Days)	[Episode11] 세크레툼 (30일)	ITEM_20190104_020231	[Re:Build] Secretum (30 Days)	[Re:Build] 세크레툼 (30일)	
+ITEM_20190419_021962	[Episode 11] Candle Staff (30 Days)	[Episode11] 캔들 스태프 (30일)	ITEM_20190104_020232	[Re:Build] Candle Staff (30 Days)	[Re:Build] 캔들 스태프 (30일)	
+ITEM_20190419_021963	[Episode 11] Heart Seeker (30 Days)	[Episode11] 하트 시커 (30일)	ITEM_20190104_020233	[Re:Build] Heart Seeker (30 Days)	[Re:Build] 하트 시커 (30일)	
+ITEM_20190419_021964	[Episode 11] Shooting Star (30 Days)	[Episode11] 슈팅스타 (30일)	ITEM_20190104_020234	[Re:Build] Shooting Star (30 Days)	[Re:Build] 슈팅스타 (30일)	
+ITEM_20190419_021965	[Episode 11] Escanciu Mace (30 Days)	[Episode11] 에산치우 메이스 (30일)	ITEM_20190104_020235	[Re:Build] Escanciu Mace (30 Days)	[Re:Build] 에산치우 메이스 (30일)	
+ITEM_20190419_021966	[Episode 11] Doom Spear (30 Days)	[Episode11] 둠 스피어 (30일)	ITEM_20190104_020236	[Re:Build] Doom Spear (30 Days)	[Re:Build] 둠 스피어 (30일)	
+ITEM_20190419_021967	[Episode 11] Laideca (30 Days)	[Episode11] 라이데카 (30일)	ITEM_20190104_020237	[Re:Build] Laideca (30 Days)	[Re:Build] 라이데카 (30일)	
+ITEM_20190419_021968	[Episode 11] Brigandine Armor (30 Days)	[Episode11] 브리간딘 아머 (30일)	ITEM_20190104_020238	[Re:Build] Brigandine Armor (30 Days)	[Re:Build] 브리간딘 아머 (30일)	
+ITEM_20190419_021969	[Episode 11] Brigandine Pants (30 Days)	[Episode11] 브리간딘 팬츠 (30일)	ITEM_20190104_020239	[Re:Build] Brigandine Pants (30 Days)	[Re:Build] 브리간딘 팬츠 (30일)	
+ITEM_20190419_021970	[Episode 11] Velniup (30 Days)	[Episode11] 벨니웁 (30일)	ITEM_20190104_020240	[Re:Build] Belnium (30 Days)	[Re:Build] 벨니웁 (30일)	
+ITEM_20190419_021971	[Episode 11] Tily Two-handed Sword (30 Days)	[Episode11] 틸리 투 핸드 소드 (30일)	ITEM_20190104_020241	[Re:Build] Tily Two-Hand Sword (30 Days)	[Re:Build] 틸리 투 핸드 소드 (30일)	
+ITEM_20190419_021972	[Episode 11] Temere (30 Days)	[Episode11] 테메레 (30일)	ITEM_20190104_020242	[Re:Build] Temere (30 Days)	[Re:Build] 테메레 (30일)	
+ITEM_20190419_021973	[Episode 11] Sunflower (30 Days)	[Episode11] 선플라워 (30일)	ITEM_20190104_020243	[Re:Build] Sunflower (30 Days)	[Re:Build] 선플라워 (30일)	
+ITEM_20190419_021974	[Episode 11] Wilding Bane (30 Days)	[Episode11] 와이들링 베인 (30일)	ITEM_20190104_020244	[Re:Build] Wilding Bane (30 Days)	[Re:Build] 와이들링 베인 (30일)	
+ITEM_20190419_021975	[Episode 11] Seimos Crossbow (30 Days)	[Episode11] 세이모스 크로스보우 (30일)	ITEM_20190104_020245	[Re:Build] Seimos Crossbow (30 Days)	[Re:Build] 세이모스 크로스보우 (30일)	
+ITEM_20190419_021976	[Episode 11] Semios Mace (30 Days)	[Episode11] 세이모스 메이스 (30일)	ITEM_20190104_020246	[Re:Build] Seimos Mace (30 Days)	[Re:Build] 세이모스 메이스 (30일)	
+ITEM_20190419_021977	[Episode 11] Seimos Spear (30 Days)	[Episode11] 세이모스 스피어 (30일)	ITEM_20190104_020247	[Re:Build] Seimos Spear (30 Days)	[Re:Build] 세이모스 스피어 (30일)	
+ITEM_20190419_021978	[Episode 11] Seimos Pike (30 Days)	[Episode11] 세이모스 파이크 (30일)	ITEM_20190104_020248	[Re:Build] Seimos Pike (30 Days)	[Re:Build] 세이모스 파이크 (30일)	
+ITEM_20190419_021979	[Episode 11] Hunting Armor (30 Days)	[Episode11] 헌팅 아머 (30일)	ITEM_20190104_020249	[Re:Build] Hunting Armor (30 Days)	[Re:Build] 헌팅 아머 (30일)	
+ITEM_20190419_021980	[Episode 11] Hunting Pants (30 Days)	[Episode11] 헌팅 팬츠 (30일)	ITEM_20190104_020250	[Re:Build] Hunting Pants (30 Days)	[Re:Build] 헌팅 팬츠 (30일)	
+ITEM_20190419_021981	[Episode 11] Flame (30 Days)	[Episode11] 플레임 (30일)	ITEM_20190104_020251	[Re:Build] Flame (30 Days)	[Re:Build] 플레임 (30일)	
+ITEM_20190419_021982	[Episode 11] Hell and Heaven (30 Days)	[Episode11] 헬 엔드 헤븐 (30일)	ITEM_20190104_020252	[Re:Build] Hell and Heaven (30 Days)	[Re:Build] 헬 엔드 헤븐 (30일)	
+ITEM_20190419_021983	[Episode 11] Casti Rod (30 Days)	[Episode11] 카스티 로드 (30일)	ITEM_20190104_020253	[Re:Build] Casti Rod (30 Days)	[Re:Build] 카스티 로드 (30일)	
+ITEM_20190419_021984	[Episode 11] Maledoom (30 Days)	[Episode11] 말레둠 (30일)	ITEM_20190104_020254	[Re:Build] Maledoom (30 Days)	[Re:Build] 말레둠 (30일)	
+ITEM_20190419_021985	[Episode 11] Casti Bow (30 Days)	[Episode11] 카스티 보우 (30일)	ITEM_20190104_020255	[Re:Build] Casti Bow (30 Days)	[Re:Build] 카스티 보우 (30일)	
+ITEM_20190419_021986	[Episode 11] Karacha Crossbow (30 Days)	[Episode11] 카라챠 크로스보우 (30일)	ITEM_20190104_020256	[Re:Build] Karacha Crossbow (30 Days)	[Re:Build] 카라챠 크로스보우 (30일)	
+ITEM_20190419_021987	[Episode 11] Drake Tail (30 Days)	[Episode11] 드레이크 테일 (30일)	ITEM_20190104_020257	[Re:Build] Drake Tail (30 Days)	[Re:Build] 드레이크 테일 (30일)	
+ITEM_20190419_021988	[Episode 11] Casti Spear (30 Days)	[Episode11] 카스티 스피어 (30일)	ITEM_20190104_020258	[Re:Build] Casti Spear (30 Days)	[Re:Build] 카스티 스피어 (30일)	
+ITEM_20190419_021989	[Episode 11] Magas Pike (30 Days)	[Episode11] 마가스 파이크 (30일)	ITEM_20190104_020259	[Re:Build] Magas Pike (30 Days)	[Re:Build] 마가스 파이크 (30일)	
+ITEM_20190419_021990	[Episode 11] Duelist (30 Days)	[Episode11] 듀얼리스트 (30일)	ITEM_20190104_020260	[Re:Build] Duelist (30 Days)	[Re:Build] 듀얼리스트 (30일)	
+ITEM_20190419_021991	[Episode 11] Veteran Tunic (30 Days)	[Episode11] 베테랑 튜닉 (30일)	ITEM_20190104_020261	[Re:Build] Veteran Tunic (30 Days)	[Re:Build] 베테랑 튜닉 (30일)	
+ITEM_20190419_021992	[Episode 11] Veteran Pants (30 Days)	[Episode11] 베테랑 팬츠 (30일)	ITEM_20190104_020262	[Re:Build] Veteran Pants (30 Days)	[Re:Build] 베테랑 팬츠 (30일)	
+ITEM_20190419_021993	[Episode 11] Pensara Sword (30 Days)	[Episode11] 펜사라 소드 (30일)	ITEM_20190104_020263	[Re:Build] Pensara Sword (30 Days)	[Re:Build] 펜사라 소드 (30일)	
+ITEM_20190419_021994	[Episode 11] Pensara Two-handed Sword (30 Days)	[Episode11] 펜사라 투 핸드 소드 (30일)	ITEM_20190104_020264	[Re:Build] Pensara Two-Hand Sword (30 Days)	[Re:Build] 펜사라 투 핸드 소드 (30일)	
+ITEM_20190419_021995	[Episode 11] Pensara Rod (30 Days)	[Episode11] 펜사라 로드 (30일)	ITEM_20190104_020265	[Re:Build] Pensara Rod (30 Days)	[Re:Build] 펜사라 로드 (30일)	
+ITEM_20190419_021996	[Episode 11] Power Staff (30 Days)	[Episode11] 파워 스태프 (30일)	ITEM_20190104_020266	[Re:Build] Power Staff (30 Days)	[Re:Build] 파워 스태프 (30일)	
+ITEM_20190419_021997	[Episode 11] Marksman (30 Days)	[Episode11] 마크맨 (30일)	ITEM_20190104_020267	[Re:Build] Markmen (30 Days)	[Re:Build] 마크맨 (30일)	
+ITEM_20190419_021998	[Episode 11] Didel Grand Cross (30 Days)	[Episode11] 디델 그랜드 크로스 (30일)	ITEM_20190104_020268	[Re:Build] Didel Grand Cross (30 Days)	[Re:Build] 디델 그랜드 크로스 (30일)	
+ITEM_20190419_021999	[Episode 11] Pensara Mace (30 Days)	[Episode11] 펜사라 메이스 (30일)	ITEM_20190104_020269	[Re:Build] Pensara Mace (30 Days)	[Re:Build] 펜사라 메이스 (30일)	
+ITEM_20190419_022000	[Episode 11] Pensara Spear (30 Days)	[Episode11] 펜사라 스피어 (30일)	ITEM_20190104_020270	[Re:Build] Pensara Spear (30 Days)	[Re:Build] 펜사라 스피어 (30일)	
+ITEM_20190419_022001	[Episode 11] Pensara Pike (30 Days)	[Episode11] 펜사라 파이크 (30일)	ITEM_20190104_020271	[Re:Build] Pensara Pike (30 Days)	[Re:Build] 펜사라 파이크 (30일)	
+ITEM_20190419_022002	[Episode 11] Spada (30 Days)	[Episode11] 스파다 (30일)	ITEM_20190104_020272	[Re:Build] Spada (30 Days)	[Re:Build] 스파다 (30일)	
+ITEM_20190419_022003	[Episode 11] Finisher (30 Days)	[Episode11] 피니셔 (30일)	ITEM_20190104_020273	[Re:Build] Finisher (30 Days)	[Re:Build] 피니셔 (30일)	
+ITEM_20190419_022004	[Episde 11] Bandit Armor (30 Days)	[Episode11] 밴딧 아머 (30일)	ITEM_20190104_020274	[Re:Build] Bandit Armor (30 Days)	[Re:Build] 밴딧 아머 (30일)	
+ITEM_20190419_022005	[Episode 11] Bandit Pants (30 Days)	[Episode11] 밴딧 팬츠 (30일)	ITEM_20190104_020275	[Re:Build] Bandit Pants (30 Days)	[Re:Build] 밴딧 팬츠 (30일)	
+ITEM_20190419_022006	[Episode 11] Primus Migantis Sword (30 Days)	[Episode11] 프리머스 미간티스 소드 (30일)	ITEM_20190104_020276	[Re:Build] Primus Migantis Sword (30 Days)	[Re:Build] 프리머스 미간티스 소드 (30일)	
+ITEM_20190419_022007	[Episode 11] Primus Migantis Two-handed Sword (30 Days)	[Episode11] 프리머스 미간티스 투 핸드 소드 (30일)	ITEM_20190104_020277	[Re:Build] Primus Migantis Two-handed Sword (30 Days)	[Re:Build] 프리머스 미간티스 투 핸드 소드 (30일)	
+ITEM_20190419_022008	[Episode 11] Primus Migantis Rod (30 Days)	[Episode11] 프리머스 미간티스 로드 (30일)	ITEM_20190104_020278	[Re:Build] Primus Migantis Rod (30 Days)	[Re:Build] 프리머스 미간티스 로드 (30일)	
+ITEM_20190419_022009	[Episode 11] Primus Migantis Bow (30 Days)	[Episode11] 프리머스 미간티스 보우 (30일)	ITEM_20190104_020279	[Re:Build] Primus Migantis Bow (30 Days)	[Re:Build] 프리머스 미간티스 보우 (30일)	
+ITEM_20190419_022010	[Episode 11] Primus Migantis Crossbow (30 Days)	[Episode11] 프리머스 미간티스 크로스보우 (30일)	ITEM_20190104_020280	[Re:Build] Primus Migantis Crossbow (30 Days)	[Re:Build] 프리머스 미간티스 크로스보우 (30일)	
+ITEM_20190419_022011	[Episode 11] Primus Migantis Mace (30 Days)	[Episode11] 프리머스 미간티스 메이스 (30일)	ITEM_20190104_020281	[Re:Build] Primus Migantis Mace (30 Days)	[Re:Build] 프리머스 미간티스 메이스 (30일)	
+ITEM_20190419_022012	[Episode 11] Primus Migantis Two-handed Mace (30 Days)	[Episode11] 프리머스 미간티스 투 핸드 메이스 (30일)	ITEM_20190104_020282	[Re:Build] Primus Migantis Two-handed Mace (30 Days)	[Re:Build] 프리머스 미간티스 투 핸드 메이스 (30일)	
+ITEM_20190419_022013	[Episode 11] Primus Migantis Spear (30 Days)	[Episode11] 프리머스 미간티스 스피어 (30일)	ITEM_20190104_020283	[Re:Build] Primus Migantis Spear (30 Days)	[Re:Build] 프리머스 미간티스 스피어 (30일)	
+ITEM_20190419_022014	[Episode 11] Primus Migantis Pike (30 Days)	[Episode11] 프리머스 미간티스 파이크 (30일)	ITEM_20190104_020284	[Re:Build] Primus Migantis Pike (30 Days)	[Re:Build] 프리머스 미간티스 파이크 (30일)	
+ITEM_20190419_022015	[Episode 11] Primus Migantis Staff (30 Days)	[Episode11] 프리머스 미간티스 스태프 (30일)	ITEM_20190104_020285	[Re:Build] Primus Migantis Staff (30 Days)	[Re:Build] 프리머스 미간티스 스태프 (30일)	
+ITEM_20190419_022016	[Episode 11] Primus Migantis Pistol (30 Days)	[Episode11] 프리머스 미간티스 피스톨 (30일)	ITEM_20190104_020286	[Re:Build] Primus Migantis Pistol (30 Days)	[Re:Build] 프리머스 미간티스 피스톨 (30일)	
+ITEM_20190419_022017	[Episode 11] Primus Migantis Rapier (30 Days)	[Episode11] 프리머스 미간티스 레이피어 (30일)	ITEM_20190104_020287	[Re:Build] Primus Migantis Rapier (30 Days)	[Re:Build] 프리머스 미간티스 레이피어 (30일)	
+ITEM_20190419_022018	[Episode 11] Primus Migantis Cannon (30 Days)	[Episode11] 프리머스 미간티스 캐논 (30일)	ITEM_20190104_020288	[Re:Build] Primus Migantis Cannon (30 Days)	[Re:Build] 프리머스 미간티스 캐논 (30일)	
+ITEM_20190419_022019	[Episode 11] Primus Migantis Musket (30 Days)	[Episode11] 프리머스 미간티스 머스킷 (30일)	ITEM_20190104_020289	[Re:Build] Primus Migantis Musket (30 Days)	[Re:Build] 프리머스 미간티스 머스킷 (30일)	
+ITEM_20190419_022020	[Episode 11] Primus Albinosas Leather Armor (30 Days)	[Episode11] 프리머스 알비노사스 레더 아머 (30일)	ITEM_20190104_020290	[Re:Build] Primus Albinosas Leather Armor (30 Days)	[Re:Build] 프리머스 알비노사스 레더 아머 (30일)	
+ITEM_20190419_022021	[Episode 11] Primus Albinosas Leather Pants (30 Days)	[Episode11] 프리머스 알비노사스 레더 팬츠 (30일)	ITEM_20190104_020291	[Re:Build] Primus Albinosas Leather Pants (30 Days)	[Re:Build] 프리머스 알비노사스 레더 팬츠 (30일)	
+ITEM_20190419_022022	[Episode 11] Primus Pevordimas Sword (30 Days)	[Episode11] 프리머스 페버디마스 소드 (30일)	ITEM_20190104_020292	[Re:Build] Primus Pevordimas Sword (30 Days)	[Re:Build] 프리머스 페버디마스 소드 (30일)	
+ITEM_20190419_022023	[Episode 11] Primus Pevordimas Two-handed Sword (30 Days)	[Episode11] 프리머스 페버디마스 투 핸드 소드 (30일)	ITEM_20190104_020293	[Re:Build] Primus Pevordimas Two-handed Sword (30 Days)	[Re:Build] 프리머스 페버디마스 투 핸드 소드 (30일)	
+ITEM_20190419_022024	[Episode 11] Primus Pevordimas Two-handed Sword (30 Days)	[Episode11] 프리머스 페버디마스 로드 (30일)	ITEM_20190104_020294	[Re:Build] Primus Pevordimas Rod (30 Days)	[Re:Build] 프리머스 페버디마스 로드 (30일)	
+ITEM_20190419_022025	[Episode 11] Primus Pevordimas Bow (30 Days)	[Episode11] 프리머스 페버디마스 보우 (30일)	ITEM_20190104_020295	[Re:Build] Primus Pevordimas Bow (30 Days)	[Re:Build] 프리머스 페버디마스 보우 (30일)	
+ITEM_20190419_022026	[Episode 11] Primus Pevordimas Crossbow (30 Days)	[Episode11] 프리머스 페버디마스 크로스보우 (30일)	ITEM_20190104_020296	[Re:Build] Primus Pevordimas Crossbow (30 Days)	[Re:Build] 프리머스 페버디마스 크로스보우 (30일)	
+ITEM_20190419_022027	[Episode 11] Primus Pevordimas Mace (30 Days)	[Episode11] 프리머스 페버디마스 메이스 (30일)	ITEM_20190104_020297	[Re:Build] Primus Pevordimas Mace (30 Days)	[Re:Build] 프리머스 페버디마스 메이스 (30일)	
+ITEM_20190419_022028	[Episode 11] Primus Pevordimas Two-handed Mace (30 Days)	[Episode11] 프리머스 페버디마스 투 핸드 메이스 (30일)	ITEM_20190104_020298	[Re:Build] Primus Pevordimas Two-handed Mace (30 Days)	[Re:Build] 프리머스 페버디마스 투 핸드 메이스 (30일)	
+ITEM_20190419_022029	[Episode 11] Primus Pevordimas Spear (30 Days)	[Episode11] 프리머스 페버디마스 스피어 (30일)	ITEM_20190104_020299	[Re:Build] Primus Pevordimas Spear (30 Days)	[Re:Build] 프리머스 페버디마스 스피어 (30일)	
+ITEM_20190419_022030	[Episode 11] Primus Pevordimas Pike (30 Days)	[Episode11] 프리머스 페버디마스 파이크 (30일)	ITEM_20190104_020300	[Re:Build] Primus Pevordimas Pike (30 Days)	[Re:Build] 프리머스 페버디마스 파이크 (30일)	
+ITEM_20190419_022031	[Episode 11] Primus Pevordimas Staff (30 Days)	[Episode11] 프리머스 페버디마스 스태프 (30일)	ITEM_20190104_020301	[Re:Build] Primus Pevordimas Staff (30 Days)	[Re:Build] 프리머스 페버디마스 스태프 (30일)	
+ITEM_20190419_022032	[Episode 11] Primus Pevordimas Pistol (30 Days)	[Episode11] 프리머스 페버디마스 피스톨 (30일)	ITEM_20190104_020302	[Re:Build] Primus Pevordimas Pistol (30 Days)	[Re:Build] 프리머스 페버디마스 피스톨 (30일)	
+ITEM_20190419_022033	[Episode 11] Primus Pevordimas Rapier (30 Days)	[Episode11] 프리머스 페버디마스 레이피어 (30일)	ITEM_20190104_020303	[Re:Build] Primus Pevordimas Rapier (30 Days)	[Re:Build] 프리머스 페버디마스 레이피어 (30일)	
+ITEM_20190419_022034	[Episode 11] Primus Pevordimas Cannon (30 Days)	[Episode11] 프리머스 페버디마스 캐논 (30일)	ITEM_20190104_020304	[Re:Build] Primus Pevordimas Cannon (30 Days)	[Re:Build] 프리머스 페버디마스 캐논 (30일)	
+ITEM_20190419_022035	[Episode 11] Primus Pevordimas Musket (30 Days)	[Episode11] 프리머스 페버디마스 머스킷 (30일)	ITEM_20190104_020305	[Re:Build] Primus Pevordimas Musket (30 Days)	[Re:Build] 프리머스 페버디마스 머스킷 (30일)	
+ITEM_20190419_022036	[Episode 11] Primus Kaulas Leather Armor (30 Days)	[Episode11] 프리머스 카울라스 레더 아머 (30일)	ITEM_20190104_020306	[Re:Build] Primus Kaulas Leather Armor (30 Days)	[Re:Build] 프리머스 카울라스 레더 아머 (30일)	
+ITEM_20190419_022037	[Episode 11] Primus Kaulas Leather Pants (30 Days)	[Episode11] 프리머스 카울라스 레더 팬츠 (30일)	ITEM_20190104_020307	[Re:Build] Primus Kaulas Leather Pants (30 Days)	[Re:Build] 프리머스 카울라스 레더 팬츠 (30일)	
+ITEM_20190419_022038	[Episode 11] Primus Raffye Sword (30 Days)	[Episode11] 프리머스 라파이 소드 (30일)	ITEM_20190104_020308	[Re:Build] Primus Raffye Sword (30 Days)	[Re:Build] 프리머스 라파이 소드 (30일)	
+ITEM_20190419_022039	[Episode 11] Primus Raffye Two-handed Sword (30 Days)	[Episode11] 프리머스 라파이 투 핸드 소드 (30일)	ITEM_20190104_020309	[Re:Build] Primus Raffye Two-handed Sword (30 Days)	[Re:Build] 프리머스 라파이 투 핸드 소드 (30일)	
+ITEM_20190419_022040	[Episode 11] Primus Raffye Rod (30 Days)	[Episode11] 프리머스 라파이 로드 (30일)	ITEM_20190104_020310	[Re:Build] Primus Raffye Rod (30 Days)	[Re:Build] 프리머스 라파이 로드 (30일)	
+ITEM_20190419_022041	[Episode 11] Primus Raffye Bow (30 Days)	[Episode11] 프리머스 라파이 보우 (30일)	ITEM_20190104_020311	[Re:Build] Primus Raffye Bow (30 Days)	[Re:Build] 프리머스 라파이 보우 (30일)	
+ITEM_20190419_022042	[Episode 11] Primus Raffye Crossbow (30 Days)	[Episode11] 프리머스 라파이 크로스보우 (30일)	ITEM_20190104_020312	[Re:Build] Primus Raffye Crossbow (30 Days)	[Re:Build] 프리머스 라파이 크로스보우 (30일)	
+ITEM_20190419_022043	[Episode 11] Primus Raffye Mace (30 Days)	[Episode11] 프리머스 라파이 메이스 (30일)	ITEM_20190104_020313	[Re:Build] Primus Raffye Mace (30 Days)	[Re:Build] 프리머스 라파이 메이스 (30일)	
+ITEM_20190419_022044	[Episode 11] Primus Raffye Two-handed Mace (30 Days)	[Episode11] 프리머스 라파이 투 핸드 메이스 (30일)	ITEM_20190104_020314	[Re:Build] Primus Raffye Two-handed Mace (30 Days)	[Re:Build] 프리머스 라파이 투 핸드 메이스 (30일)	
+ITEM_20190419_022045	[Episode 11] Primus Raffye Shield (30 Days)	[Episode11] 프리머스 라파이 실드 (30일)	ITEM_20190104_020315	[Re:Build] Primus Raffye Shield (30 Days)	[Re:Build] 프리머스 라파이 실드 (30일)	
+ITEM_20190419_022046	[Episode 11] Primus Raffye Spear (30 Days)	[Episode11] 프리머스 라파이 스피어 (30일)	ITEM_20190104_020316	[Re:Build] Primus Raffye Spear (30 Days)	[Re:Build] 프리머스 라파이 스피어 (30일)	
+ITEM_20190419_022047	[Episode 11] Primus Raffye Pike (30 Days)	[Episode11] 프리머스 라파이 파이크 (30일)	ITEM_20190104_020317	[Re:Build] Primus Raffye Pike (30 Days)	[Re:Build] 프리머스 라파이 파이크 (30일)	
+ITEM_20190419_022048	[Episode 11] Primus Raffye Dagger (30 Days)	[Episode11] 프리머스 라파이 대거 (30일)	ITEM_20190104_020318	[Re:Build] Primus Raffye Dagger (30 Days)	[Re:Build] 프리머스 라파이 대거 (30일)	
+ITEM_20190419_022049	[Episode 11] Primus Raffye Staff (30 Days)	[Episode11] 프리머스 라파이 스태프 (30일)	ITEM_20190104_020319	[Re:Build] Primus Raffye Staff (30 Days)	[Re:Build] 프리머스 라파이 스태프 (30일)	
+ITEM_20190419_022050	[Episode 11] Primus Raffye Pistol (30 Days)	[Episode11] 프리머스 라파이 피스톨 (30일)	ITEM_20190104_020320	[Re:Build] Primus Raffye Pistol (30 Days)	[Re:Build] 프리머스 라파이 피스톨 (30일)	
+ITEM_20190419_022051	[Episode 11] Primus Raffye Rapier (30 Days)	[Episode11] 프리머스 라파이 레이피어 (30일)	ITEM_20190104_020321	[Re:Build] Primus Raffye Rapier (30 Days)	[Re:Build] 프리머스 라파이 레이피어 (30일)	
+ITEM_20190419_022052	[Episode 11] Primus Raffye Cannon (30 Days)	[Episode11] 프리머스 라파이 캐논 (30일)	ITEM_20190104_020322	[Re:Build] Primus Raffye Cannon (30 Days)	[Re:Build] 프리머스 라파이 캐논 (30일)	
+ITEM_20190419_022053	[Episode 11] Primus Raffye Musket (30 Days)	[Episode11] 프리머스 라파이 머스킷 (30일)	ITEM_20190104_020323	[Re:Build] Primus Raffye Musket (30 Days)	[Re:Build] 프리머스 라파이 머스킷 (30일)	
+ITEM_20190419_022054	[Episode 11] Primus Jevenellis Leather Armor (30 Days)	[Episode11] 프리머스 제베넬리스 레더 아머 (30일)	ITEM_20190104_020324	[Re:Build] Primus Jevenellis Leather Armor (30 Days)	[Re:Build] 프리머스 제베넬리스 레더 아머 (30일)	
+ITEM_20190419_022055	[Episode 11] Primus Jevenellis Leather Pants (30 Days)	[Episode11] 프리머스 제베넬리스 레더 팬츠 (30일)	ITEM_20190104_020325	[Re:Build] Primus Jevenellis Leather Pants (30 Days)	[Re:Build] 프리머스 제베넬리스 레더 팬츠 (30일)	
+ITEM_20190419_022056	[Episode 11] Stiletto (30 Days)	[Episode11] 스틸레토 (30일)	ITEM_20190104_020343	[Re:Build] Stiletto (30 Days)	[Re:Build] 스틸레토 (30일)	
+ITEM_20190419_022057	[Episode 11] Blue Stiletto (30 Days)	[Episode11] 블루 스틸레토 (30일)	ITEM_20190104_020344	[Re:Build] Blue Stiletto (30 Days)	[Re:Build] 블루 스틸레토 (30일)	
+ITEM_20190419_022058	[Episode 11] Berthas Sketis Dagger (30 Days)	[Episode11] 베르타스 스케티스 대거 (30일)	ITEM_20190104_020345	[Re:Build] Berthas Sketis Dagger (30 Days)	[Re:Build] 베르타스 스케티스 대거 (30일)	
+ITEM_20190419_022059	[Episode 11] Berthas Short Duelist (30 Days)	[Episode11] 베르타스 숏 듀얼리스트 (30일)	ITEM_20190104_020346	[Re:Build] Berthas Short Duelist (30 Days)	[Re:Build] 베르타스 숏 듀얼리스트 (30일)	
+ITEM_20190419_022060	[Episode 11] Berthas Small Crystaras (30 Days)	[Episode11] 베르타스 스몰 크리스타라스 (30일)	ITEM_20190104_020347	[Re:Build] Berthas Small Crystaras (30 Days)	[Re:Build] 베르타스 스몰 크리스타라스 (30일)	
+ITEM_20190419_022061	[Episode 11] Berthas Pajoritas Dagger (30 Days)	[Episode11] 베르타스 파저리타스 대거 (30일)	ITEM_20190104_020348	[Re:Build] Berthas Pajoritas Dagger (30 Days)	[Re:Build] 베르타스 파저리타스 대거 (30일)	
+ITEM_20190419_022062	[Episode 11] Primus Migantis Dagger (30 Days)	[Episode11] 프리머스 미간티스 대거 (30일)	ITEM_20190104_020349	[Re:Build] Primus Migantis Dagger (30 Days)	[Re:Build] 프리머스 미간티스 대거 (30일)	
+ITEM_20190419_022063	[Episode 11] Primus Pevordimas Dagger (30 Days)	[Episode11] 프리머스 페버디마스 대거 (30일)	ITEM_20190104_020350	[Re:Build] Primus Pevordimas Dagger (30 Days)	[Re:Build] 프리머스 페버디마스 대거 (30일)	
+ITEM_20190419_022064	[Episode 11] Wooden Buckler (30 Days)	[Episode11] 우든 버클러 (30일)	ITEM_20190104_020351	[Re:Build] Wooden Buckler (30 Days)	[Re:Build] 우든 버클러 (30일)	
+ITEM_20190419_022065	[Episode 11] Round Shield (30 Days)	[Episode11] 라운드 실드 (30일)	ITEM_20190104_020352	[Re:Build] Round Shield (30 Days)	[Re:Build] 라운드 실드 (30일)	
+ITEM_20190419_022066	[Episode 11] Berthas Sketis Shield (30 Days)	[Episode11] 베르타스 스케티스 실드 (30일)	ITEM_20190104_020353	[Re:Build] Berthas Sketis Shield (30 Days)	[Re:Build] 베르타스 스케티스 실드 (30일)	
+ITEM_20190419_022067	[Episode 11] Berthas Spike Kindl (30 Days)	[Episode11] 베르타스 스파이크 킨들 (30일)	ITEM_20190104_020354	[Re:Build] Berthas Spike Kindl (30 Days)	[Re:Build] 베르타스 스파이크 킨들 (30일)	
+ITEM_20190419_022068	[Episode 11] Berthas Rodeleine Shield (30 Days)	[Episode11] 베르타스 로들렌 실드 (30일)	ITEM_20190104_020355	[Re:Build] Berthas Rodeleine Shield (30 Days)	[Re:Build] 베르타스 로들렌 실드 (30일)	
+ITEM_20190419_022069	[Episode 11] Berthas Pajoritas Shield (30 Days)	[Episode11] 베르타스 파저리타스 실드 (30일)	ITEM_20190104_020356	[Re:Build] Berthas Pajoritas Shield (30 Days)	[Re:Build] 베르타스 파저리타스 실드 (30일)	
+ITEM_20190419_022070	[Episode 11] Primus Migantis Shield (30 Days)	[Episode11] 프리머스 미간티스 실드 (30일)	ITEM_20190104_020357	[Re:Build] Primus Migantis Shield (30 Days)	[Re:Build] 프리머스 미간티스 실드 (30일)	
+ITEM_20190419_022071	[Episode 11] Primus Pevordimas Shield (30 Days)	[Episode11] 프리머스 페버디마스 실드 (30일)	ITEM_20190104_020358	[Re:Build] Primus Pevordimas Shield (30 Days)	[Re:Build] 프리머스 페버디마스 실드 (30일)	
+ITEM_20190419_022072	[Episode 11] Practice Cannon (30 Days)	[Episode11] 연습용 캐논 (30일)	ITEM_20190104_020359	[Re:Build] Practice Cannon (30 Days)	[Re:Build] 연습용 캐논 (30일)	
+ITEM_20190419_022073	[Episode 11] Berthas Reine Cannon (30 Days)	[Episode11] 베르타스 레이네 캐논 (30일)	ITEM_20190104_020360	[Re:Build] Berthas Reine Cannon (30 Days)	[Re:Build] 베르타스 레이네 캐논 (30일)	
+ITEM_20190419_022074	[Episode 11] Berthas Pajoritas Cannon (30 Days)	[Episode11] 베르타스 파저리타스 캐논 (30일)	ITEM_20190104_020361	[Re:Build] Berthas Pajoritas Cannon (30 Days)	[Re:Build] 베르타스 파저리타스 캐논 (30일)	
+ITEM_20190419_022075	[Episode 11] Practice Musket (30 Days)	[Episode11] 연습용 머스킷 (30일)	ITEM_20190104_020362	[Re:Build] Practice Musket (30 Days)	[Re:Build] 연습용 머스킷 (30일)	
+ITEM_20190419_022076	[Episode 11] Berthas Crystaras Musket (30 Days)	[Episode11] 베르타스 크리스타라스 머스킷 (30일)	ITEM_20190104_020363	[Re:Build] Berthas Small Musket (30 Days)	[Re:Build] 베르타스 크리스타라스 머스킷 (30일)	
+ITEM_20190419_022077	[Episode 11] Practice Rapier (30 Days)	[Episode11] 연습용 레이피어 (30일)	ITEM_20190104_020364	[Re:Build] Training Rapier (30 Days)	[Re:Build] 연습용 레이피어 (30일)	
+ITEM_20190419_022078	[Episode 11] Dunkel Rapier (30 Days)	[Episode11] 던켈 레이피어 (30일)	ITEM_20190104_020365	[Re:Build] Dunkel Rapier (30 Days)	[Re:Build] 던켈 레이피어 (30일)	
+ITEM_20190419_022079	[Episode 11] Berthas Sketis Rapier (30 Days)	[Episode11] 베르타스 스케티스 레이피어 (30일)	ITEM_20190104_020366	[Re:Build] Berthas Sketis Rapier (30 Days)	[Re:Build] 베르타스 스케티스 레이피어 (30일)	
+ITEM_20190419_022080	[Episode 11] Berthas Duelist Rapier (30 Days)	[Episode11] 베르타스 듀얼리스트 레이피어 (30일)	ITEM_20190104_020367	[Re:Build] Berthas Duelist Rapier (30 Days)	[Re:Build] 베르타스 듀얼리스트 레이피어 (30일)	
+ITEM_20190419_022081	[Episode 11] Dunkel Pistol (30 Days)	[Episode11] 던켈 피스톨 (30일)	ITEM_20190104_020368	[Re:Build] Dunkel Pistol (30 Days)	[Re:Build] 던켈 피스톨 (30일)	
+ITEM_20190419_022082	[Episode 11] Dunkel Wooden Pistol (30 Days)	[Episode11] 던켈 우든 피스톨 (30일)	ITEM_20190104_020369	[Re:Build] Dunkel Wooden Pistol (30 Days)	[Re:Build] 던켈 우든 피스톨 (30일)	
+ITEM_20190419_022083	[Episode 11] Berthas Sketis Pistol (30 Days)	[Episode11] 베르타스 스케티스 피스톨 (30일)	ITEM_20190104_020370	[Re:Build] Berthas Sketis Pistol (30 Days)	[Re:Build] 베르타스 스케티스 피스톨 (30일)	
+ITEM_20190419_022084	[Episode 11] Berthas Spiare Pistol (30 Days)	[Episode11] 베르타스 스피아 피스톨 (30일)	ITEM_20190104_020371	[Re:Build] Berthas Spiare Pistol (30 Days)	[Re:Build] 베르타스 스피아 피스톨 (30일)	
+ITEM_20190419_022085	[Episode 11] Berthas Alcris (30 Days)	[Episode11] 베르타스 알크리스 (30일)	ITEM_20190104_020372	[Re:Build] Berthas Alcris (30 Days)	[Re:Build] 베르타스 알크리스 (30일)	
+ITEM_20190419_022086	[Episode 11] Berthas Pajoritas Pistol (30 Days)	[Episode11] 베르타스 파저리타스 피스톨 (30일)	ITEM_20190104_020373	[Re:Build] Berthas Pajoritas Pistol (30 Days)	[Re:Build] 베르타스 파저리타스 피스톨 (30일)	
+ITEM_20190419_022087	I♥TOS Costume (M)	I♥TOS 코스튬(남)				
+ITEM_20190419_022088	Show your love for TOS with this commemorative costume. Use to change your appearance.	2019년 식목일을 기념하여 제작된 I♥TOS 코스튬입니다. 착용하면 외형이 변경됩니다.				
+ITEM_20190419_022089	I♥TOS Costume (F)	I♥TOS 코스튬(여)				
+ITEM_20190419_022090	[Episode 11] Traxia (30 Days)	[Episode11] 트렉시아(30일)				
+ITEM_20190419_022091	[Episode 11] Erera Cannon (30 Days)	[Episode11] 이레라 캐논(30일)				
+ITEM_20190419_022092	[Episode 11] Two-handed Battle Maul (30 Days)	[Episode11] 투 핸드 배틀 마울(30일)				
+ITEM_20190419_022093	[Episode 11] Crystaras Musket (30 Days)	[Episode11] 크리스타라스 머스킷(30일)				
+ITEM_20190419_022094	[Episode 11] Adatag (30 Days)	[Episode11] 아다타그(30일)				
+ITEM_20190419_022095	[Episode 11] Pensara Musket (30 Days)	[Episode11] 펜사라 머스킷(30일)				
+ITEM_20190419_022096	[Episode 11] Reine Two-handed Mace (30 Days)	[Episode11] 레이네 투 핸드 메이스(30일)				
+ITEM_20190419_022097	[Episode 11] Stropy Cannon (30 Days)	[Episode11] 스트로피 캐논(30일)				
+ITEM_20190419_022098	[Episode 11] Vista Cannon (30 Days)	[Episode11] 비스타 캐논(30일)				
+ITEM_20190419_022099	[Episode 11] Migantis Musket (30 Days)	[Episode11] 미간티스 머스킷(30일)				
+ITEM_20190419_022100	[Episode 11] Finisher (30 Days)	[Episode11] 피니셔(30일)				
+ITEM_20190419_022101	[Episode 11] Two-handed Rune Mace	[Episode11] 투 핸드 룬 메이스(30일)				
+ITEM_20190419_022102	[Episode 11] Vienarazis Two-handed Mace	[Episode11] 비엔나라지스 투 핸드 메이스(30일)				
+ITEM_20190419_022103	[Episode 11] Pajoritas Two-handed Mace	[Episode11] 파저리타스 투 핸드 메이스(30일)				
+ITEM_20190419_022104	[Episode 11] Krendall Two-handed Mace (30 Days)	[Episode11] 크렌달 투 핸드 메이스(30일)				
+ITEM_20190419_022105	Dokkaebi Epaulet	도깨비 견장				
+ITEM_20190419_022106	[Tiger Hunter Special Costume]	[산포 스페셜 코스튬]				
+ITEM_20190419_022107	An epaulet awarded to the greatest of hunters.	우수한 사냥 실력을 가진 산포에게 주어지는 특별한 장식입니다.				
+ITEM_20190419_022108	Wings of Victory	승리의 날개				
+ITEM_20190419_022109	[Matross Special Costume]	[매트로스 스페셜 코스튬]				
+ITEM_20190419_022110	An ornament that is worn by the most honored fighters of the Matrosses	큰 공을 새운 매트로스들은 이 장식을 달고 있습니다.				
+ITEM_20190419_022111	Sheriff Badge	별뱃지				
+ITEM_20190419_022112	[Sheriff Special Costume]	[셰리프 스페셜 코스튬]				
+ITEM_20190419_022113	A badge worn by the high ranking sheriffs.	계급이 높은 셰리프들이 달고 있는 뱃지입니다.				
+ITEM_20190419_022114	Grenade	수류탄				
+ITEM_20190419_022115	[Ardito Special Costume]	[아르디티 스페셜 코스튬]				
+ITEM_20190419_022116	The Arditi who have been recognized for their distinguished services in battle wear grenades such as this one.	최전선에서 아군의 승리에 공헌한 아르디티들은 좀 더 많은 수류탄을 가지고 있습니다.				
+ITEM_20190419_022117	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro{nl} - Lucky Golden Pig{nl} - Hawk	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이{nl} - 황금 복돼지{nl} - 매	ITEM_20190108_021413	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro{nl} - Lucky Golden Pig	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이{nl} - 황금 복돼지	
+ITEM_20190419_022118	Instantly restores 20% of max. HP. {nl}Additionally restores the other 20% of HP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.{nl}Will be automatically deleted at the end of the event period.	HP를 20% 즉시 회복시키고 2초 간격으로 11초 동안 HP를 20% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.{nl}19년 3월 28일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_020759	Instantly restores 20% of max. HP. {nl}Additionally restores the other 20% of HP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.{nl}Will be automatically deleted at the end of the event period.	HP를 20% 즉시 회복시키고 2초 간격으로 11초 동안 HP를 20% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.{nl}19년 1월 10일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022119	Instantly restores 20% of max. SP. {nl}Additionally restores the other 20% of SP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.{nl}Will be automatically deleted at the end of the event period.	SP를 20% 즉시 회복시키고 2초 간격으로 11초 동안 SP를 20% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.{nl}19년 3월 28일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_020761	Instantly restores 20% of max. SP. {nl}Additionally restores the other 20% of SP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.{nl}Will be automatically deleted at the end of the event period.	SP를 20% 즉시 회복시키고 2초 간격으로 11초 동안 SP를 20% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.{nl}19년 1월 10일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022120	Restores 78 Stamina. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	스태미나를 78 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}19년 3월 28일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_020763	Restores 78 Stamina. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	스태미나를 78 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}19년 1월 10일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022121	Recovers the durability of currently-equipped items by +5.{nl}Will be automatically deleted at the end of the event period.	사용 시 착용하고 있는 장비의 내구도를 +5 회복시켜 줍니다.{nl}19년 3월 28일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_020765	Recovers the durability of currently-equipped items by +5.{nl}Will be automatically deleted at the end of the event period.	사용 시 착용하고 있는 장비의 내구도를 +5 회복시켜 줍니다.{nl}19년 1월 10일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022122	An event warp scroll. Use it to move to Kupole Kaze in Vedas Plateau.{nl}Will be automatically deleted at the end of the event period.	이벤트용 워프 주문서입니다.{nl}사용 시 베다 고원의 큐폴 카제에게 이동합니다.{nl}19년 3월 28일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_020767	An event warp scroll. Use it to move to Kupole Kaze in Vedas Plateau.{nl}Will be automatically deleted at the end of the event period.	이벤트용 워프 주문서입니다.{nl}사용 시 베다 고원의 큐폴 카제에게 이동합니다.{nl}19년 1월 10일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022123	Combat Potion: Uphill Mission	전투 포션: 업힐 미션				
+ITEM_20190419_022124	A potion used exclusively inside the Uphill Defense mission. Increases damage dealt by 5% and reduces damage taken by 5%. Maximum 10 stacks. Right-use to click.	업힐 디펜스 미션에서만 사용 가능한 포션입니다. 대미지 5% 증가, 받는 피해 5%감소합니다. 최대 10회 중첩됩니다. 아이템 우클릭으로 사용합니다.				
+ITEM_20190419_022125	[Event] New Class Premium Costume Selection Box	[이벤트] 신규 클래스 프리미엄 코스튬 선택 상자				
+ITEM_20190419_022126	Right-click to use. Contains the class costume for the following classes.{nl}Class list{nl}- Tiger Hunter{nl}- Matross{nl}- Ardito{nl}- Sheriff{nl} {nl}- Will be automatically deleted at the end of the event period.	마우스 우클릭으로 사용할 수 있습니다. 다음 클래스 코스튬을 얻을 수 있습니다. {nl} 클래스 리스트 {nl} - 산포{nl} - 매트로스{nl} - 아르디티{nl} - 셰리프{nl} {nl} - 5월 23일 점검시, 일괄 삭제 됩니다.				
+ITEM_20190419_022127	(Old) The First Refuge Raid Dungeon Cube	(구)첫 번째 피난처 레이드 던전 큐브	ITEM_20171128_016863	The First Refuge Raid Dungeon Cube	첫 번째 피난처 레이드 던전 큐브	
+ITEM_20190419_022128	Collect 20 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.	레시피 조각 20개를 모아서 사용하면 레서피 혹은 완제품을 얻을 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	ITEM_20181017_019838	Collect 50 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.	레시피 조각 50개를 모아서 사용하면 레서피 혹은 완제품을 얻을 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.	
+ITEM_20190419_022129	Collect 20 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.	레시피 조각 20개를 모아서 사용하면 레서피 혹은 완제품을 얻을 수 있습니다.  마우스 오른쪽 버튼 클릭으로 사용합니다.	ITEM_20181017_019841	Collect 50 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.	레시피 조각 50개를 모아서 사용하면 레서피 혹은 완제품을 얻을 수 있습니다.  마우스 오른쪽 버튼 클릭으로 사용합니다.	
+ITEM_20190419_022130	Collect 40 spirit fragments and use to obtain either a recipe or the finished product. Right-click to use.	영혼 조각 40개를 모아서 사용하면 레서피 혹은 완제품을 얻을 수 있습니다.  마우스 오른쪽 버튼 클릭으로 사용합니다.	ITEM_20190104_021150	Collect 50 spirit fragments and use to obtain either a recipe or the finished product. Right-click to use.	영혼 조각 50개를 모아서 사용하면 레서피 혹은 완제품을 얻을 수 있습니다.  마우스 오른쪽 버튼 클릭으로 사용합니다.	
+ITEM_20190419_022131	A reward obtained from Castle Dungeon	캐슬 지하 던전을 클리어하여 받은 보상입니다.	ITEM_20171128_016866	A reward obtained from Underground Chapel Dungeon	성당 지하 던전을 클리어하여 받은 보상입니다.	
+ITEM_20190419_022132	Spirit Fragment: Prodigious Kugheri Balzermancer	영혼 조각: 영험한 쿠게리 발저맨서				
+ITEM_20190419_022133	Collect 10 recipe fragments and use to obtain either a full recipe or the finished product. Right-click to use.	레시피 조각 10개를 모아서 사용하면 완제품을 얻을 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.				
+ITEM_20190419_022134	Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Will be automatically deleted at the end of the event period.	장비의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.{nl}5월 23일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021162	Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Will be automatically deleted at the end of the event period.	장비의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.{nl}1월 24일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022135	Steel Anvil	강철 모루				
+ITEM_20190419_022136	Place a piece of equipment on this anvil and hit it to upgrade its quality. Reduces enhancement costs by 50%. Right-click to use.	모루 위에 장비를 놓고 두드리면 성능이 향상됩니다. 장비 강화 비용이 50% 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.				
+ITEM_20190419_022137	Steel Anvil (14 Days)	강철 모루(14일)				
+ITEM_20190419_022138	Place a piece of equipment on this anvil and hit it to upgrade its quality. Reduces enhancement costs by 50%. Right-click to use. Use within 14 days.	모루 위에 장비를 놓고 두드리면 성능이 향상됩니다. 장비 강화 비용이 50% 감소합니다. 마우스 오른쪽 클릭으로 사용합니다.획득 후부터 14일동안 사용 가능합니다.				
+ITEM_20190419_022139	Ichor Transmutation Kit	아이커 연성 키트				
+ITEM_20190419_022140	Tool used for transmuting Ichors. Can be purchased from Teliavelis.	아이커 연성에 사용되는 도구입니다. 일반 도구로 테리아베리스에게서 구매할 수 있습니다.				
+ITEM_20190419_022141	Silver Ichor Transmutation Kit	은빛 아이커 연성 키트				
+ITEM_20190419_022142	Tool used for transmuting Ichors. It does not require consumables.	아이커 연성에 사용되는 도구입니다. 소모하는 재화가 필요 없습니다.				
+ITEM_20190419_022143	[Event] Ancient Golden Socket	[이벤트] 오래된 황금 소켓				
+ITEM_20190419_022144	Use to add a socket on equipment with 0 potential. The socket will not be added if the equipment has already reached its maximum socket limit. Right-click to use. Will be automatically deleted at the end of the event period.	포텐셜이 0인 장비에만 사용가능 하며, 사용시 소켓이 추가됩니다. 단, 최대 소켓 개수 이상으로 추가 할 수 없습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl} {nl} - 5월 23일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190419_022145	Remnants of Bernice Coin	베르니케 파편 주화				
+ITEM_20190419_022146	A reward from the Remnants of Bernice dungeon. Exchange it for other items at the Oracle Master.	베르니케 파편 던전보상 아이템입니다. 오라클 마스터를 통해 아이템으로 교환 할 수 있습니다.				
+ITEM_20190419_022147	Med Kit	구급상자				
+ITEM_20190419_022148	A box containing various emergency medicine	각종 구급 약품이 담겨 있는 상자입니다.				
+ITEM_20190419_022149	Lv. 400 Awakening Abrasive	Lv.400 각성 연마재				
+ITEM_20190419_022150	Use to obtain better stats in Awakening items.	각성 연마재를 사용하여 각성을 할 경우 더 높은 옵션을 얻을 수 있습니다.				
+ITEM_20190419_022151	Planium	플래니움				
+ITEM_20190419_022152	A material that can be obtained rarely from basic monsters. Take them to the Black Smith Teliavelis in Fedimian to create new equipment.	하급 몬스터에게서 낮은 확률로 얻을 수 있는 재료입니다. 페디미안의 테리아베리스가 장비로 만들 수 있습니다.				
+ITEM_20190419_022153	Lensterseum	렌스터슘				
+ITEM_20190419_022154	Nobody knows where this mineral comes from but it shines brilliantly just as its name suggests.	광휘를 뜻하는 이 광물의 정체는 아무도 모릅니다. 다만 엄청난 빛을 내며 응축되어있습니다.				
+ITEM_20190419_022155	Riperium	리페리움				
+ITEM_20190419_022156	When unrefined, it is said that this mineral decays everything in its surrounding area.	부패를 뜻하는 이 광물의 정체를 알 수 있었던건 어느날의 사고입니다. 이 광물이 부서진 곳에서 뿜어져 나온 기운은 주위의 모든 것을 부패시키고, 노화시켰습니다.				
+ITEM_20190419_022157	Luminous Red Leaf	빛나는 붉은 단풍잎				
+ITEM_20190419_022158	A suspiciously luminous maple leaf. There is an unknown power radiating from it.	단풍잎이 머금은 이슬이 수상합니다. 어떠한 변형이 발생했는지 결코 무시할 수 없는 기운이 느껴집니다.				
+ITEM_20190419_022159	White Cosmos	순백의 코스모스				
+ITEM_20190419_022160	White Cosmos is often used as an ingredient for medicine.	순백의 코스모스는 약재로도 많이 사용됩니다.				
+ITEM_20190419_022161	Purple Lavender	보라색 라벤더				
+ITEM_20190419_022162	This cannot be used for medicinal purposes. 	해당 약초는 약재로 사용하기에는 문제가 있습니다. 				
+ITEM_20190419_022163	Red Tulip	붉은 튤립				
+ITEM_20190419_022164	Unlike your everyday Tulip, its stem is beaming with dark energy.	산뜻한 튤립의 꽃과는 달리 줄기가 음산합니다.				
+ITEM_20190419_022165	Round Golden Emblem	원형 금빛 문양				
+ITEM_20190419_022166	An emblem decorated with golden circular edges. It holds an unknown power.	원형 금빛 테두리로 장식된 문양입니다. 무슨 용도와 어떤 과정을 거친지 확인되지 않으나 많은 힘을 갖고있습니다.				
+ITEM_20190419_022167	Complete Golden Emblem	완성된 금빛 문양				
+ITEM_20190419_022168	An emblem decorated with golden edges. It holds an unknown power.	금빛 테두리로 장식된 문양입니다. 무슨 용도와 어떤 과정을 거친지 확인되지 않으나 많은 힘을 갖고있습니다.				
+ITEM_20190419_022169	Broken Emblem Fragment	부서진 문양 파편				
+ITEM_20190419_022170	It holds a power different from the other emblems. Perhaps it is the arrangement of the golden edges that determine its final use.	깨어진 문양이 기존의 문양과 다른 힘을 갖고있습니다. 어쩌면 저 금색 광물의 배치에 따라 힘이 다른건 아닐까 싶습니다.				
+ITEM_20190419_022171	[Episode 11] Growth Gem	[Episode11] 성장의 보석				
+ITEM_20190419_022172	[Episode 11] Commemorative gems celebrating the new Episode 11 update. Will be deleted automatically at the end of the event period.	[Episode11] 에피소드 업데이트 기념 주화입니다. 5월 9일 삭제됩니다.				
+ITEM_20190419_022173	[Episode 11] Adventure Sprout	[Episode11] 탐험의 새싹				
+ITEM_20190419_022174	[Episode 11] Event item to commemorate the new Episode 11 update. Will be deleted at the end of the event period.{nl} {nl}Can be used at the Adventure Sprout shop.	[Episode11] 에피소드 업데이트 기념 탐험의 새싹 주화입니다. 5월 9일 삭제됩니다. {nl} {nl}탐험의 새싹 상점에서 사용 가능합니다.				
+ITEM_20190419_022175	Teeny Chick Egg	병아리 뱁새 알				
+ITEM_20190419_022176	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without a riding skill.{nl}This companion increases the character's HP recovery and SP recovery.{nl}- Can be exchanged for Medals at the Exchange Shop.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl} 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능합니다. {nl} 해당 컴패니언과 동행 시 캐릭터의 HP회복력과 SP회복력이 증가하는 버프를 얻습니다.{nl} 리사이클 메달로 교환 가능합니다.				
+ITEM_20190419_022177	N/A	넥슨 캐시 추첨에 응모하셨습니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021189	N/A	넥슨 캐시 추첨에 응모하셨습니다.{nl}12월 20일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022178	[Episode 11] Level Up Chest (Lv 15)	[Episode11] 레벨업 상자 (15레벨)	ITEM_20190104_021203	[Re:Build] Booster Pack (Lv 15)	[Re:Build] 레벨업 상자 (15레벨)	
+ITEM_20190419_022179	Right-click to use. This item can be used by players above level 15.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.15레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021204	Right-click to use. Your character must be level 15 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.15레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022180	[Episode 11] Level Up Chest (Lv 40)	[Episode11] 레벨업 상자 (40레벨)	ITEM_20190104_021205	[Re:Build] Booster Pack (Lv 40)	[Re:Build] 레벨업 상자 (40레벨)	
+ITEM_20190419_022181	Right-click to use. This item can be used by players above level 40.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.40레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021206	Right-click to use. Your character must be level 40 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.40레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022182	[Episode 11] Level Up Chest (Lv 50)	[Episode11] 레벨업 상자 (50레벨)	ITEM_20190104_021207	[Re:Build] Booster Pack (Lv 50)	[Re:Build] 레벨업 상자 (50레벨)	
+ITEM_20190419_022183	Right-click to use. This item can be used by players above level 50.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.50레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021208	Right-click to use. Your character must be level 50 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.50레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022184	[Episode 11] Level Up Chest (Lv 75)	[Episode11] 레벨업 상자 (75레벨)	ITEM_20190104_021209	[Re:Build] Booster Pack (Lv 75)	[Re:Build] 레벨업 상자 (75레벨)	
+ITEM_20190419_022185	Right-click to use. This item can be used by players above level 75.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.75레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021210	Right-click to use. Your character must be level 75 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.75레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022186	[Episode 11] Level Up Chest (Lv 85)	[Episode11] 레벨업 상자 (85레벨)	ITEM_20190104_021211	[Re:Build] Booster Pack (Lv 85)	[Re:Build] 레벨업 상자 (85레벨)	
+ITEM_20190419_022187	Right-click to use. This item can be used by players above level 85.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.85레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021212	Right-click to use. Your character must be level 85 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.85레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022188	[Episode 11] Level Up Chest (Lv 100)	[Episode11] 레벨업 상자 (100레벨)	ITEM_20190104_021213	[Re:Build] Booster Pack (Lv 100)	[Re:Build] 레벨업 상자 (100레벨)	
+ITEM_20190419_022189	Right-click to use. This item can be used by players above level 100.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.100레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021214	Right-click to use. Your character must be level 100 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.100레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022190	[Episode 11] Level Up Chest (Lv 120)	[Episode11] 레벨업 상자 (120레벨)	ITEM_20190104_021215	[Re:Build] Booster Pack (Lv 120)	[Re:Build] 레벨업 상자 (120레벨)	
+ITEM_20190419_022191	Right-click to use. This item can be used by players above level 120.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.120레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021216	Right-click to use. Your character must be level 120 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.120레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022192	[Episode 11] Level Up Chest (Lv 140)	[Episode11] 레벨업 상자 (140레벨)	ITEM_20190104_021217	[Re:Build] Booster Pack (Lv 140)	[Re:Build] 레벨업 상자 (140레벨)	
+ITEM_20190419_022193	Right-click to use. This item can be used by players above level 140.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.140레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021218	Right-click to use. Your character must be level 140 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.140레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022194	[Episode 11] Level Up Chest (Lv 170)	[Episode11] 레벨업 상자 (170레벨)	ITEM_20190104_021219	[Re:Build] Booster Pack (Lv 170)	[Re:Build] 레벨업 상자 (170레벨)	
+ITEM_20190419_022195	Right-click to use. This item can be used by players above level 170.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.170레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021220	Right-click to use. Your character must be level 170 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.170레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022196	[Episode 11] Level Up Chest (Lv 180)	[Episode11] 레벨업 상자 (180레벨)	ITEM_20190104_021221	[Re:Build] Booster Pack (Lv 180)	[Re:Build] 레벨업 상자 (180레벨)	
+ITEM_20190419_022197	Right-click to use. This item can be used by players above level 180.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.180레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021222	Right-click to use. Your character must be level 180 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.180레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022198	[Episode 11] Level Up Chest (Lv 200)	[Episode11] 레벨업 상자 (200레벨)	ITEM_20190104_021223	[Re:Build] Booster Pack (Lv 200)	[Re:Build] 레벨업 상자 (200레벨)	
+ITEM_20190419_022199	Right-click to use. This item can be used by players above level 200.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.200레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021224	Right-click to use. Your character must be level 200 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.200레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022200	[Episode 11] Level Up Chest (Lv 220)	[Episode11] 레벨업 상자 (220레벨)	ITEM_20190104_021225	[Re:Build] Booster Pack (Lv 220)	[Re:Build] 레벨업 상자 (220레벨)	
+ITEM_20190419_022201	Right-click to use. This item can be used by players above level 220.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.220레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021226	Right-click to use. Your character must be level 220 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.220레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022202	[Episode 11] Level Up Chest (Lv 230)	[Episode11] 레벨업 상자 (230레벨)	ITEM_20190104_021227	[Re:Build] Booster Pack (Lv 230)	[Re:Build] 레벨업 상자 (230레벨)	
+ITEM_20190419_022203	Right-click to use. This item can be used by players above level 230.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.230레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021228	Right-click to use. Your character must be level 230 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.230레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022204	[Episode 11] Level Up Chest (Lv 270)	[Episode11] 레벨업 상자 (270레벨)	ITEM_20190104_021229	[Re:Build] Booster Pack (Lv 270)	[Re:Build] 레벨업 상자 (270레벨)	
+ITEM_20190419_022205	Right-click to use. This item can be used by players above level 270.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.270레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021230	Right-click to use. Your character must be level 270 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.270레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022206	[Episode 11] Level Up Chest (Lv 315)	[Episode11] 레벨업 상자 (315레벨)	ITEM_20190104_021231	[Re:Build] Booster Pack (Lv 300)	[Re:Build] 레벨업 상자 (300레벨)	
+ITEM_20190419_022207	Right-click to use. This item can be used by players above level 315.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.315레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021232	Right-click to use. Your character must be level 300 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.300레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022208	[Episode 11] Level Up Chest (Lv 330)	[Episode11] 레벨업 상자 (330레벨)	ITEM_20190104_021233	[Re:Build] Booster Pack (Lv 330)	[Re:Build] 레벨업 상자 (330레벨)	
+ITEM_20190419_022209	Right-click to use. This item can be used by players above level 330.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.330레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021234	Right-click to use. Your character must be level 330 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.330레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022210	[Episode 11] Level Up Chest (Lv 350)	[Episode11] 레벨업 상자 (350레벨)	ITEM_20190104_021239	[Re:Build] Booster Pack (Lv 350)	[Re:Build] 레벨업 상자 (350레벨)	
+ITEM_20190419_022211	Right-click to use. This item can be used by players above level 350.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.350레벨 이상에서 사용 가능합니다.{nl}5월 23일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021240	Right-click to use. Your character must be level 350 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.350레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022212	[Episode 11] Daily Attribute Point Box	[Episode11] 날마다 특성 포인트 상자	ITEM_20190104_021241	[Re:Build] Daily Attribute Points Box	[Re:Build] 날마다 특성 포인트 상자	
+ITEM_20190419_022213	Right-click to use. Grants 500 Attribute Points every day during the event period.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.{nl}매일 특성 포인트를 500씩 획득하실 수 있습니다.	ITEM_20190104_021242	Right-click to use. Grants 500 Attribute Points every day during the event period.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.{nl}매일 특성 포인트를 500씩 획득하실 수 있습니다.	
+ITEM_20190419_022214	[Episode 11] Level Up Chest (Lv 380)	[Episode11] 레벨업 상자 (380레벨)	ITEM_20190104_021246	[Re:Build] Booster Pack (Lv 380)	[Re:Build] 레벨업 상자 (380레벨)	
+ITEM_20190419_022215	Right-click to use. This item can be used by players above level 380.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.380레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021247	Right-click to use. Your character must be level 380 or above to use.{nl}Will be automatically deleted at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.380레벨 이상에서 사용 가능합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022216	[Episode 11] Attribute Point 1,000	[Episode11] 특성 포인트 1,000	ITEM_20190104_021248	[Re:Build] Attribute Points: 1,000	[Re:Build] 특성 포인트 1,000	
+ITEM_20190419_022217	Event item. Grants 1000 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 1000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}5월 23일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021249	Event item. Grants 1000 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 1000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}1월 31일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022218	Select the equipment you want to receive from the list.{nl}Will be automatically deleted at the end of the event period.	사용 시 리스트 중 원하시는 장비가 지급됩니다.{nl}5월 23일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190419_022219	Increases Class Points by +1,000.{nl}Class Points can be accumulated to a maximum of 1,000 and excess points earned will not be saved.{nl} {nl}- Will be automatically deleted at the end of the event period.	클래스 변경 포인트가 1,000 증가합니다.{nl}클래스 변경 포인트는 3,000까지 누적되고 초과하는 포인트는 사라집니다.{nl}5월 23일 점검 시, 일괄 삭제됩니다.	ITEM_20190223_021573	Increases Class Points by +1,000.{nl}Class Points can be accumulated to a maximum of 1,000 and excess points earned will not be saved.{nl}Will be automatically deleted at the end of the event period.	클래스 변경 포인트가 1,000 증가합니다.{nl}클래스 변경 포인트는 3,000까지 누적되고 초과하는 포인트는 사라집니다.{nl}2월 21일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022220	Hidden Class Unlock Voucher Box {nl} List of Unlockable Classes {nl} - Shinobi Unlock Voucher {nl} - Miko Unlock Voucher {nl} - Rune Caster Unlock Voucher {nl} - Appraiser Unlock Voucher {nl} - Nak Muay Unlock Voucher{nl}Will be automatically deleted at the end of the event period.	히든 직업 해금권 선택 상자 {nl} 선택 가능 목록 {nl} - 시노비 해금권 {nl} - 무녀 해금권 {nl} - 룬 캐스터 해금권 {nl} - 감정사 해금권 {nl} - 낙무아이 해금권{nl}(5월 23일 점검 시, 일괄 삭제됩니다.)	ITEM_20180629_018808	Hidden Class Unlock Voucher Box {nl} List of Unlockable Classes {nl} - Shinobi Unlock Voucher {nl} - Miko Unlock Voucher {nl} - Rune Caster Unlock Voucher {nl} - Appraiser Unlock Voucher {nl} - Nak Muay Unlock Voucher	히든 직업 해금권 선택 상자 {nl} 선택 가능 목록 {nl} - 시노비 해금권 {nl} - 무녀 해금권 {nl} - 룬 캐스터 해금권 {nl} - 감정사 해금권 {nl} - 낙무아이 해금권	
+ITEM_20190419_022221	[Event] Twinkling Star Piece	[이벤트]반짝이는 별의 조각				
+ITEM_20190419_022222	Monster essence obtained during the event period.	이벤트 기간 동안 콘텐츠 수행을 통해 얻을 수 있는 몬스터의 정수				
+ITEM_20190419_022223	A material item requested by Fedimian's Blacksmith Teliavelis, used to produce special equipment.{nl}Can be obtained by clearing Velcoffer's Nest, Unique Raids, Challenge Mode Stage 5, Saalus missions, and level dungeons.{nl}Will be deleted at the end of the event period.	페디미안의 대장장이 테리아베리스가 요청한 특별한 장비를 만들기 위한 특별한 재료입니다.{nl}벨코퍼의 둥지, 유니크 레이드, 챌린지 5단계, 수녀원 미션, 레벨 던전 클리어 시 획득할 수 있습니다.{nl}4월 11일 점검 시, 일괄 삭제 됩니다				
+ITEM_20190419_022224	[Event] Teliavelis' Anvil Box	[이벤트]테리아베리스의 모루 상자				
+ITEM_20190419_022225	Use to obtain one of Blacksmith Teliavelis' special anvils.{nl}- Anvil{nl}- Steel Anvil (14 Days){nl}- Silver Anvil (14 Days){nl}- Golden Anvil (14 Days){nl}Will be deleted at the end of the event period.	사용 시 대장장이 테리아베리스가 준비한 모루 중 하나를 얻을 수 있습니다.{nl}- 모루{nl}- 강철 모루(14일){nl}- 은빛 모루(14일){nl}- 황금 모루(14일){nl}4월 11일 점검 시, 일괄 삭제 됩니다				
+ITEM_20190419_022226	[Event] Character Slot Voucher	[이벤트] 캐릭터 슬롯 추가 이용권				
+ITEM_20190419_022227	Event item. Adds one character slot to your Lodge. Right-click to use. Will be deleted at the end of the event period.	이벤트로 지급되는 아이템입니다.{nl}캐릭터 슬롯이 추가됩니다. 마우스 오른쪽 클릭으로 사용합니다. 5월 23일 이벤트 종료시 일괄 삭제				
+ITEM_20190419_022228	[Event] Enhancement Coupon: 100,000 Silver	[이벤트] 강화 실버 할인 쿠폰 : 10만 실버				
+ITEM_20190419_022229	Enhancement Silver Discount Coupon {nl} {nl}- Will be deleted at the end of the event period	강화 실버 할인 쿠폰 {nl} {nl} - 5월 23일 이벤트 종료시 일괄 삭제				
+ITEM_20190419_022230	Title - Budding Sprout	칭호 - 새로운 새싹				
+ITEM_20190419_022231	The box containing the title given to Budding Sprouts.{nl}Will be automatically deleted at the end of the event period.	새로운 새싹 칭호 상자 입니다.{nl}5월 23일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190419_022232	[Episode 11] Level Up Chest (Lv 400)	[Episode11] 레벨업 상자 (400레벨)				
+ITEM_20190419_022233	Right-click to use. This item can be used by players above level 400.{nl}This item will be removed at the end of the event period.	마우스 오른쪽 버튼 클릭으로 사용합니다.400레벨 이상에서 사용 가능합니다.{nl}5월 9일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190419_022234	Goddess' Blessed Cube (1 Day)	축복받은 여신의 큐브 (1일)				
+ITEM_20190419_022235	Legend Raid Portal Stone	레전드 레이드 포탈 스톤				
+ITEM_20190419_022236	Item required to enter the Legend Raid dungeon. 	레전드 레이드에 입장할 때 필요한 아이템입니다. 				
+ITEM_20190419_022237	Pamoka Solution	파모카 시약병				
+ITEM_20190419_022238	Use to move to a Spot Area.{nl}You will be directed to the location of the Divine Flag.{nl}Cannot be used inside Spot Areas.{nl}Can only be used by guilds that are not currently seizing the Spot Area.{nl}	사용 시 스팟 지역으로 이동할 수 있습니다.{nl}스팟 지역에 신성한 깃발이 설치된 위치로 이동합니다.{nl}스팟 지역에서는 사용할 수 없습니다.{nl}해당 아이템은 비점령 길드 인원만 사용할 수 있습니다.	ITEM_20190228_021589	Use to move to a Spot Area.{nl}You will be directed to the location of the Divine Flag.{nl}Cannot be used inside Spot Areas.	사용 시 스팟 지역으로 이동할 수 있습니다.{nl}스팟 지역에 신성한 깃발이 설치된 위치로 이동합니다.{nl}스팟 지역에서는 사용할 수 없습니다.	
+ITEM_20190419_022239	Use to move to a Spot Area.{nl}You will be directed to the location of the Divine Flag.{nl}Cannot be used inside Spot Areas.{nl}Can only be used by guilds that are not currently seizing the Spot Area.{nl}Will be automatically deleted at the end of the event period.	사용 시 스팟 지역으로 이동할 수 있습니다.{nl}스팟 지역에 신성한 깃발이 설치된 위치로 이동합니다.{nl}스팟 지역에서는 사용할 수 없습니다.{nl}콜로니전 전투 지원으로 지급되는 아이템입니다.{nl}해당 아이템은 비점령 길드 인원만 사용할 수 있습니다.{nl}11월 29일 점검 시, 일괄 삭제됩니다.	ITEM_20190228_021590	Use to move to a Spot Area.{nl}You will be directed to the location of the Divine Flag.{nl}Cannot be used inside Spot Areas.{nl}Will be automatically deleted at the end of the event period.	사용 시 스팟 지역으로 이동할 수 있습니다.{nl}스팟 지역에 신성한 깃발이 설치된 위치로 이동합니다.{nl}스팟 지역에서는 사용할 수 없습니다.{nl}콜로니전 전투 지원으로 지급되는 아이템입니다.{nl}11월 29일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022240	Topaz Fragment	몬스터가 집어삼킨 노란 파편				
+ITEM_20190419_022241	Found in the Outer Wall District 14 area. Looks like it has been formed from pieces of the castle wall that has accumulated inside monsters.	외성벽 제 14구역에서 발견했습니다. 몬스터들의 체내에 쌓인 성벽의 부스러기 같습니다.				
+ITEM_20190419_022242	Shiny Glass Shard	눈부신 유리 조각				
+ITEM_20190419_022243	Found in the Outer Wall District 14 area. They look like common glass shards.	외성벽 제 14구역에서 발견했습니다. 용도를 알 수 없는 유리 조각 입니다.				
+ITEM_20190419_022244	Cornerstone Piece	주춧돌 조각				
+ITEM_20190419_022245	Found in the Outer Wall District 14 area. A piece of the cornerstone that was embedded deep in the ground.	외성벽 제 14구역에서 발견했습니다. 땅속 깊이 박혀있어야 할 주춧돌의 조각입니다.				
+ITEM_20190419_022246	Ancient Tree Essence	고목의 정수				
+ITEM_20190419_022247	Found in the Outer Wall District 14 area. Found between trees that have grown during Medzio Diena that destroyed the castle walls.	외성벽 제 14구역에서 발견했습니다. 단단한 성벽을 뚫고 자라난 고사한 나무에서 발견했습니다.				
+ITEM_20190419_022248	Time Meter Necklace	시간의 잔상 계측기				
+ITEM_20190419_022249	A tool handed to you by Ineta in Outer Wall District 15. Use to read the afterimage left behind in time to obtain useful information. 	외성벽 제 15구역의 이네타로부터 받은 도구입니다. 사용 시, 사물에 깃든 시간의 잔상을 계측하여 유용한 정보를 확인할 수 있습니다.				
+ITEM_20190419_022250	Lever Piece	손잡이 조각				
+ITEM_20190419_022251	Found in the Outer Wall District 15 area. Looks like it's a part of some old weapon that was destroyed.	외성벽 제 15구역에서 발견했습니다. 오래전 파괴된 어떤 무기의 파편인 것 같습니다.				
+ITEM_20190419_022252	Broken Goddess Statue	여신상 조각				
+ITEM_20190419_022253	Found in the Outer Wall District 15 area. Looks like a piece of a Goddess Statue that was destroyed.	외성벽 제 15구역에서 발견했습니다. 오래전 파괴된 여신상의 조각인 것 같습니다.				
+ITEM_20190419_022254	Broken Wheel Piece	부서진 바퀴 파편				
+ITEM_20190419_022255	Found in the Outer Wall District 15 area. Looks like a wheel from an old wagon that was destroyed.	외성벽 제 15구역에서 발견했습니다. 오래전 파괴된 마차의 바퀴인 것 같습니다.				
+ITEM_20190419_022256	Burnt Arrow	그을린 화살				
+ITEM_20190419_022257	Found in the Outer Wall District 15 area. An arrow that seems to have been burnt by fire.	외성벽 제 15구역에서 발견했습니다. 무엇인가에 의하여 그을린 흔적이 있는 화살입니다.				
+ITEM_20190419_022258	Found in the Outer Wall District 15 area. It does not seem to have been used much seeing how it is relatively clean.	외성벽 제 15구역에서 발견했습니다. 비교적 깨끗한 것으로 보아 사용된적이 없는 것 같습니다.				
+ITEM_20190419_022259	Lost Pendant	버려진 팬던트				
+ITEM_20190419_022260	Found in the Outer Wall District 15 area. It seems to have seen some use over the years.	외성벽 제 15구역에서 발견했습니다. 사용한 흔적이 있습니다.				
+ITEM_20190419_022261	Pajauta's Pendant	파야우타의 팬던트				
+ITEM_20190419_022262	Given to you by Kedoran Merchant Alliance's Ineta in Outer Wall District 15. 	외성벽 제 15구역에서 케도라 상단원 이네타에게 전달 받았습니다. 팬던트의 뒷면에 				
+ITEM_20190419_022263	"To my beloved Pajauta"	사랑하는 파야우타에게				
+ITEM_20190419_022264	is engraved on the back of the pendant.	라고 적혀있습니다.				
+ITEM_20190419_022265	A seal carried by Kupole Urbas, who observed Boruta by order of Goddess Austeja.{nl}Required for entering Boruta's realm. The seal is consumed after entering his realm.{nl}Will be automatically deleted at the end of the event period.	아우스테야를 명으로 드래곤 보루타를 감시하던 큐폴 우르바스가 지니고 다니던 증표입니다.{nl}드래곤 보루타의 영역으로 진입하기 위하여 반드시 필요합니다.{nl}진입시 파괴됩니다.{nl}19년 3월 28일 점검 시, 일괄 삭제됩니다.	ITEM_20190104_021360	A seal carried by Kupole Urbas, who observed Boruta by order of Goddess Austeja.{nl}Required for entering Boruta's realm. The seal is consumed after entering his realm.{nl}Will be automatically deleted at the end of the event period.	아우스테야를 명으로 드래곤 보루타를 감시하던 큐폴 우르바스가 지니고 다니던 증표입니다.{nl}드래곤 보루타의 영역으로 진입하기 위하여 반드시 필요합니다.{nl}진입시 파괴됩니다.{nl}19년 1월 10일 점검 시, 일괄 삭제됩니다.	
+ITEM_20190419_022266	Glass Bottle	유리병				
+ITEM_20190419_022267	Simple bottle for carrying water.	물을 담을 수 있는 일반적인 병입니다.				
+ITEM_20190419_022268	Filled Glass Bottle	물이 담긴 유리병				
+ITEM_20190419_022269	It is filled to the brim with water.	물이 가득 담겨있습니다.				
+ITEM_20190419_022270	Recovery Squad Insignia	탈환대 증표				
+ITEM_20190419_022271	An insignia worn by the Recovery Squad to distinguish between friend and foe.	아군을 식별하기 위한 증표입니다.				
+ITEM_20190419_022272	Shock Bomb	충격식 폭탄				
+ITEM_20190419_022273	Detonates in reaction to weight.	무게에 반응하여 폭발합니다.				
+ITEM_20190419_022274	Barricade Kit	방책 키트				
+ITEM_20190419_022275	Contains the tools used in building a barricade.	방책을 세우기 위한 재료가 있습니다.				
+ITEM_20190419_022276	Fish Net	물고기 뜰채				
+ITEM_20190419_022277	A hand-held net for fishing.	물고기를 쉽게 낚을 수 있는 뜰채입니다.				
+ITEM_20190419_022278	Big Lake Fish	호수에 살고있는 큰 물고기				
+ITEM_20190419_022279	Water Plant	수초				
+ITEM_20190419_022280	Water plant that has been enlarged after Medzio Diena.	신수의 날 이후로 거대해진 수초입니다.				
+ITEM_20190419_022281	Water Plant Pile	수초 더미				
+ITEM_20190419_022282	Removed plants have been bundled up. They are quite heavy because they are wet.	제거한 수초를 모아 들기 쉽게 묶었습니다. 단 물을 많이 머금어 무겁습니다.				
+ITEM_20190419_022283	Water Point Magic Source	수반 시설 마력원				
+ITEM_20190419_022284	A magical stone that is required to activate the aqueduct device.	수반 장치를 사용하기 위해 필요한 마력이 담긴 돌입니다.				
+ITEM_20190419_022285	Plant with Lake Energy	호수의 기운이 담긴 풀				
+ITEM_20190419_022286	Plant full of the lake's energy. Can be harmful to monsters.	몬스터에게 해가 되는 호수의 기운이 가득 담긴 풀입니다.				
+ITEM_20190419_022287	Paralysis Pouch	마비 주머니				
+ITEM_20190419_022288	Essential ingredient in crafting an effective self-defense weapon.	호신용품을 만들때 핵심이 되는 소재입니다.				
+ITEM_20190419_022289	Yellow Flower	노란 꽃				
+ITEM_20190419_022290	A flower with a slight yellow shade.	노란색이 감도는 꽃.				
+ITEM_20190419_022291	Red Flower	붉은 꽃				
+ITEM_20190419_022292	A red-tinted flower.	붉은색이 감도는 꽃.				
+ITEM_20190419_022293	White Flower	하얀 꽃				
+ITEM_20190419_022294	A snow-white flower.	하얀색이 감도는 꽃.				
+ITEM_20190419_022295	Yellow Butterfly Leaf	나비 모양의 노란 나뭇잎				
+ITEM_20190419_022296	Butterfly-shaped yellow leaf.{nl}Looks like it might fly away immediately.	나비 모양의 노란 나뭇잎.{nl}마치 나비처럼 날아다닐 것만 같다.				
+ITEM_20190419_022297	Red Butterfly Leaf	나비 모양의 붉은 나뭇잎				
+ITEM_20190419_022298	Butterfly-shaped red leaf.{nl}Looks like it might fly away immediately.	나비 모양의 붉은 나뭇잎.{nl}마치 나비처럼 날아다닐 것만 같다.				
+ITEM_20190419_022299	White Butterfly Leaf	나비 모양의 하얀 나뭇잎				
+ITEM_20190419_022300	Butterfly-shaped white leaf.{nl}Looks like it might fly away immediately.	나비 모양의 하얀 나뭇잎.{nl}마치 나비처럼 날아다닐 것만 같다.				
+ITEM_20190419_022301	Transparent Crystal	투명한 결정				
+ITEM_20190419_022302	Mysterious transparent crystal.{nl}It is radiating with holy energy.	정체를 알수없는 투명한 결정.{nl}그러나 결정에서 신성한 기운이 감돌고 있다.				
+ITEM_20190419_022303	Sealing Scroll	마력 봉인의 주문서				
+ITEM_20190419_022304	A scroll for sealing away magic.	마력을 봉인할 수 있는 주문서.				
+ITEM_20190419_022305	Binding Scroll	속박의 주문서				
+ITEM_20190419_022306	A scroll that allows for the caster to bind someone.	누군가를 속박할 수 있는 주문서.				
+ITEM_20190419_022307	Mysterious Seed	정체를 알수 없는 씨앗				
+ITEM_20190419_022308	A mysterious, yet beautiful, seed.{nl}A strange power can be felt when holding it.	정체를 알수 없는 아름다운 씨앗.{nl}씨앗에 감돌고 있는 기운이 범상치 않아 보인다.				
+ITEM_20190419_022309	Seed of the Divine Tree	신수의 씨앗				
+ITEM_20190419_022310	The only seed of the Divine Tree, given by the Goddess Medeina.{nl}It has astonishing properties.	메데이나가 건내준 단 하나뿐인 신수의 씨앗.{nl}이루어 말할 수 없을 정도로 놀라운 효과를 가지고 있다고 한다.				
+ITEM_20190419_022311	Vivacious Grass	생기가 도는 풀				
+ITEM_20190419_022312	Lively and vivacious grass.	생기가 돌아 생생한 풀.{nl}지금까지 죽어가던 풀로 보이지 않는다				
+ITEM_20190419_022313	Holy Branch	신성한 기운이 감도는 나뭇가지				
+ITEM_20190419_022314	A holy branch full of divine energy.	신성한 기운이 감돌아 성스럽게 느껴지는 나뭇가지.				
+ITEM_20190419_022315	Unbinding Scroll	속박의 결계 해제 주문서				
+ITEM_20190419_022316	An unbinding scroll held by a Red Banterer.	붉은 밴터러가 지니고 있던 속박의 결계 해제 주문서.				
+ITEM_20190419_022317	Orb filled with Natural Energy	자연의 정기가 담긴 보주				
+ITEM_20190419_022318	An orb given to Kupole Ilona by the Goddess Medeina{nl}Ilona believes that she can use this orb to locate Medeina.	큐폴 일로나가 메데이나 여신에게 받은 보주{nl}큐폴 일로나는 이 보주로 메데이나 여신의 흔적을 찾을 수 있을 것 같다고 한다.				
+ITEM_20190419_022319	Red Banterer Essence	붉은 밴터러의 정수				
+ITEM_20190419_022320	An essence found where a Red Banterer used to stand.{nl}It feels evil.	붉은 밴터러가 죽은 자리에서 생성된 정수.{nl}사악한 기운이 느껴진다.				
+ITEM_20190419_022321	Sealed Seed of the Divine Tree	봉인된 신수의 씨앗				
+ITEM_20190419_022322	The only seed of the Divine Tree, given by the Goddess Medeina.{nl}Most of its powers had been sealed away through the altar.	메데이나가 건내준 단 하나뿐인 신수의 씨앗.{nl}메데이나가 안배해놓은 제단의 기운으로 메데이나의 치료를 제외한 대부분의 효과가 봉인되었다.				
+ITEM_20190419_022323	Demon Orders	마족의 지령서				
+ITEM_20190419_022324	An order given out to the demons of Outer Wall District 11. It is indecipherable as it is written in the language of demons.	외성벽 제 11구역에 모여있는 마족들이 들고 있는 지령서. 다른 곳에서 봤던 지령서와 같이 난해한 마족어로 기록되어 읽을 수 없습니다.				
+ITEM_20190419_022325	Transformation Potion	변신 시약병				
+ITEM_20190419_022326	A potion given to you by the Druid Master. Use to transform into a demon that you have come across before.	드루이드 마스터가 준 변신 시약병입니다. 이걸 이용해 주변에서 본 적이 있는 마족으로 일정 시간동안 변신할 수 있다고 합니다.				
+ITEM_20190419_022327	A purifier given to you by the Taoist Master. It looks like ordinary yellow paper, but it takes effect when attached to evil objects.	도사 마스터가 준 정화부입니다. 겉보기에는 일반 괴황지로 보이나 사악한 기운이 닿는 곳에 붙이면 그 효력이 나타난다고 합니다.				
+ITEM_20190419_022328	Purifying Holy Water	정화의 성수				
+ITEM_20190419_022329	A holy water given to you by the Exorcist Master. Spray on weakened demons to purify their souls.	엑소시스트 마스터가 준 정화의 성수입니다. 약해진 마족에게 뿌리면 영혼의 정화를 일으킬 수 있습니다.				
+ITEM_20190419_022330	Statue of Purification	정화의 여신상				
+ITEM_20190419_022331	A small statue given to you by the Exorcist Master. Carry it around to collect ominous energy that is harnessed by the state to produce greater power.	엑소시스트 마스터가 준 작은 여신상입니다. 이 여신상을 가지고 다니면 사악한 기운이 여신상에 모여 정화되면서 여신상이 더 큰 힘을 발휘한다고 합니다.				
+ITEM_20190419_022332	Grenade	투척용 폭탄				
+ITEM_20190419_022333	A grenade found in the Armory. Throw them to make them go boom.	폭약통 속에 들어있던 폭탄입니다. 그 위력은 던져봐야 알 수 있을 것 같습니다.				
+ITEM_20190419_022334	Explosives	화약 상자				
+ITEM_20190419_022335	Common explosives found in abundance in the Armory. You can only carry one at a time because of its weight. Be careful with them as they are highly volatile.	폭약고에 넘쳐나는 화약 상자입니다. 화약의 양이 많아 무거우므로 하나 밖에 들지 못합니다. 자칫 잘못으로 불이 붙여졌다간 한 방에 여신 곁으로 가게 될지도 모릅니다.				
+ITEM_20190419_022336	Red Crystal Piece	붉은 수정 조각				
+ITEM_20190419_022337	Crystal pieces dropped by demons around the Obelisk in the Training Grounds. They could be a clue to destroying the Obelisk.	훈련장의 오벨리스크 주변에 있던 마족에게서 찾아낸 조각입니다. 훈련장에 있는 오벨리스크를 파괴하기 위한 단서가 될 지도 모릅니다.				
+ITEM_20190419_022338	Blue Crystal Piece	푸른 수정 조각				
+ITEM_20190419_022339	Yellow Crystal Piece	노란 수정 조각				
+ITEM_20190419_022340	Green Crystal Piece	초록 수정 조각				
+ITEM_20190419_022341	An item given to you by Antanina. Antanina wants you to use this item on the demon portals in Outer Wall District 13 to inhibit them.	안타니나가 건네준 아이템입니다. 안타니나는 이걸 외성벽 제 13구역에 있는 마족을 수송하는 포탈 주변에 설치하여 포탈을 억제해 제거해달라고 합니다.				
+ITEM_20190419_022342	Antanina's Note	안타니나의 메모				
+ITEM_20190419_022343	A memo written by the Resistance Adjutant Antanina. It is a to-do list of missions in Outer Wall District 13. Right-click to use.	저항군 부관 안타니나가 작성한 메모입니다. 외성벽 제 13구역에서 할 일들을 기록했다고 합니다. 마우스 오른쪽 버튼을 클릭하면 내용을 읽을 수 있습니다.				
+ITEM_20190501_022344	Tulip	튤립				
+ITEM_20190501_022345	Give it to a resident of Klaipeda in exchange for a prize.{nl}(Check the Tulip Lovers List to see the location of your target NPC.)	NPC에게 튤립을 선물하여 보상을 교환할 수 있습니다.{nl}(튤립 선물 리스트를 사용하면 NPC 위치를 확인할 수 있습니다.)				
+ITEM_20190501_022346	Tulip Lovers List	튤립 선물 리스트				
+ITEM_20190501_022347	Use to check the location of the NPC currently available.	사용 시 현재 튤립을 선물할 NPC 위치를 확인할 수 있습니다.				
+ITEM_20190510_022348	To begin: Sword	To begin: 소드				
+ITEM_20190510_022349	. Items obtained can be increased to Lv. 400 in correspondence with the owner's level.	을 사용한 유저만 얻을 수 있는 전용 무기입니다. 주인의 레벨에 따라 400 레벨까지 성장합니다.				
+ITEM_20190510_022350	To begin: Two-handed Sword	To begin: 투 핸드 소드				
+ITEM_20190510_022351	To begin: Rod	To begin: 로드				
+ITEM_20190510_022352	To begin: Bow	To begin: 보우				
+ITEM_20190510_022353	To begin: Crossbow	To begin: 크로스보우				
+ITEM_20190510_022354	To begin: Mace	To begin: 메이스				
+ITEM_20190510_022355	To begin: Spear	To begin: 스피어				
+ITEM_20190510_022356	To begin: Pike	To begin: 파이크				
+ITEM_20190510_022357	To begin: Staff	To begin: 스태프				
+ITEM_20190510_022358	To begin: Rapier	To begin: 레이피어				
+ITEM_20190510_022359	To begin: Shield	To begin: 실드				
+ITEM_20190510_022360	To begin: Dagger	To begin: 대거				
+ITEM_20190510_022361	To begin: Cannon	To begin: 캐논				
+ITEM_20190510_022362	To bein: Pistol	To begin: 피스톨				
+ITEM_20190510_022363	To begin: Musket	To begin: 머스킷				
+ITEM_20190510_022364	To begin: Two-handed Mace	To begin: 투 핸드 메이스				
+ITEM_20190510_022365	Contains equipment with random TRA and ENH values that can be raised to Lv. 400 in correspondence with the player's level.{nl}- ENH: 6~16{nl}- TRA: 5~10	캐릭터의 레벨에 따라 400 레벨까지 성장하는 강화, 초월이 무작위로 부여된 장비를 선택하여 획득할 수 있습니다.{nl} - 강화 : 6~16{nl} - 초월 : 5~10				
+ITEM_20190510_022366	[Freebie] Penguin Selection Box	[Freebie] 펭귄 선택 상자				
