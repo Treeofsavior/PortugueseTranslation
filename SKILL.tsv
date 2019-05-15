@@ -15367,21 +15367,21 @@ SKILL_20190419_015366	Additional Lightning Multiplicador: +#{SkillFactor}#%{nl}D
 SKILL_20190419_015367	Accuracy: +#{CaptionRatio}#%{nl}Duração: 30 minutes{nl}Consumes Enchant Rounds x#{SpendItemCount}#	명중 #{CaptionRatio}#% 증가{nl}지속시간 30분{nl}인챈트탄 #{SpendItemCount}#개 소비	SKILL_20190104_013589	Accuracy: +#{CaptionRatio}#%{nl}Duração: 300 seconds{nl}Consumes Enchant Round x#{SpendItemCount}#	명중 #{CaptionRatio}#% 증가{nl}지속시간 300초{nl}인챈트탄 #{SpendItemCount}#개 소비	
 SKILL_20190419_015368	Duração: 30 minutes{nl}Pistol Basic Attack Damage: +#{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# SP per Hawk attack	지속시간 30분{nl}권총 기본 공격 대미지 #{CaptionRatio2}#% 증가{nl}매 공격 시 SP #{CaptionRatio}#소모	SKILL_20190104_013606	Duração: 300 seconds{nl}Pistol Basic Attack Damage: +#{CaptionRatio2}#%{nl}Consumes #{CaptionRatio}# SP per attack	지속시간 300초{nl}권총 기본 공격 대미지 #{CaptionRatio2}#% 증가{nl}매 공격 시 SP #{CaptionRatio}#소모	
 SKILL_20190419_015369	Evasion: +#{CaptionRatio}#%{nl}Duração: 30 minutes	회피율 증가 #{CaptionRatio}#%{nl}지속시간 30분	SKILL_20170912_009595	Evasion: +#{CaptionRatio}#%{nl}Duração: #{CaptionTime}# segundos	회피율 증가 #{CaptionRatio}#%{nl}지속시간 #{CaptionTime}#초	
-SKILL_20190419_015370	Granata	그라나다				
-SKILL_20190419_015371	Throws a grenade towards a designated area to attack the enemy. The targeted enemies are knocked down where they stand. Granata's cooldown is reduced by 0.5 seconds every time a critical pierce attack is landed.	지정된 위치에 수류탄을 투척하여 적을 공격합니다. 공격 받은 적은 그 자리에 바로 넉다운 됩니다. 자신의 찌르기 스킬 공격이 치명타로 적중되면 재사용 대기시간이 0.5초씩 감소합니다.				
-SKILL_20190419_015372	Tre Granate	트레 그라나다				
-SKILL_20190419_015373	Throws three molotovs towards a designated area to deal continuous damage to enemies.	지정된 위치에 화염병을 3개를 던져 그 지역에 있는 적들에게 지속 대미지를 줍니다.				
-SKILL_20190419_015374	Multiplicador: #{SkillFactor}#%{nl}Target: #{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos	스킬 계수 #{SkillFactor}#%{nl}피격 대상 수 #{CaptionRatio}#{nl}지속시간 #{CaptionTime}#초				
-SKILL_20190419_015375	Ritirarsi	리티라르시				
-SKILL_20190419_015376	The player leaps backward after dropping a grenade in place. You do not take damage while the skill is in use. Ritirarsi's cooldown is reduced by 0.5 seconds every time a slashing skill is used.	자신의 발 밑에 수류탄을 떨어트린 뒤, 후방으로 도약합니다. 스킬 사용 중에는 피해를 받지 않습니다. 자신의 베기 스킬 공격을 사용하면 재사용 대기시간이 0.5초씩 감소합니다.				
-SKILL_20190419_015377	Recupero	레쿠페로				
-SKILL_20190419_015378	The player injects a syringe on self to recover HP and STA.{nl}The HP recovered cannot exceed 50% of the player's maximum HP.	자신의 팔에 주사를 놓아 HP와 STA를 회복합니다.{nl}단, HP 회복량은 자신의 최대 HP의 50%를 초과할 수 없습니다.				
-SKILL_20190419_015379	HP Recovery: #{CaptionRatio}#(Recovery rate reduced by #{CaptionRatio3}#){nl}STA Recovery: #{CaptionRatio2}#{nl}Consumes 1x Med Kit	HP #{CaptionRatio}# 회복 (회복량 #{CaptionRatio3}# 깎임){nl}STA #{CaptionRatio2}# 회복{nl}구급상자 1개 소모				
-SKILL_20190419_015380	Invasione	인바시오네				
-SKILL_20190419_015381	Attacks the enemy in front by stabbing them.	단검을 이용해 전방의 적을 연속해서 찌릅니다.				
-SKILL_20190419_015382	Taglio	탈리오				
-SKILL_20190419_015383	Dashes forward and slashes at the enemy in the way. Enemies are knocked down and the player receives a temporary boost in movement speed.	앞으로 전진하며 전방의 적을 벱니다. 피격되는 적은 넉백되고, 잠시동안 이동속도가 증가합니다.				
-SKILL_20190419_015384	Multiplicador: #{SkillFactor}#%{nl}Movement Speed: +#{CaptionRatio}#{nl}Maximum duration: #{CaptionTime}# segundos{nl}3 STA consumed per second	스킬 계수 #{SkillFactor}#%{nl}이동속도 #{CaptionRatio}# 증가{nl}최대 지속시간 #{CaptionTime}#초{nl}1초당 STA 3 감소				
+SKILL_20190419_015370	Granata
+SKILL_20190419_015371	Joga uma granada para a frente. Inimigos alvejados serão derrubados no local. O cooldown de [Granata] será reduzido em 0.5s cada vez que um ataque crítico do tipo Perfurante for realizado.
+SKILL_20190419_015372	Tre Granate
+SKILL_20190419_015373	Joga três coquetéis molotov para a rente, causando dano contínuo nos inimigos.
+SKILL_20190419_015374	Multiplicador: #{SkillFactor}#%{nl}Alvo: #{CaptionRatio}#{nl}Duração: #{CaptionTime}# segundos
+SKILL_20190419_015375	Ritirarsi
+SKILL_20190419_015376	Pula para trás depois de derrubar uma granada no local. Você não recebe dano enquanto estiver utilizando esta habilidade. O cooldown de [Ritirarsi] será reduzido em 0.5s cada vez que um ataque tipo Corte for realizado.
+SKILL_20190419_015377	Recupero
+SKILL_20190419_015378	Injeta uma seringa em si mesmo para recuperar HP e Stamina.{nl}A quantidade de HP recuperada não será maior que 50% do seu HP Máximo.
+SKILL_20190419_015379	HP Recuperado: #{CaptionRatio}#(Taxa de Recuperação reduzida em #{CaptionRatio3}#){nl}Stamina Recuperada: #{CaptionRatio2}#{nl}Consome 1x Med Kit
+SKILL_20190419_015380	Invasione
+SKILL_20190419_015381	Ataca violentamente o inimigo que estiver na sua frente.
+SKILL_20190419_015382	Taglio
+SKILL_20190419_015383	Avança e ataca os inimigos que estiverem no caminho. Derruba os inimigos que forem alvejados. Velocidade de Movimento aumentada ao utilizar esta habilidade.
+SKILL_20190419_015384	Multiplicador: #{SkillFactor}#%{nl}Velocidade de Movimento: +#{CaptionRatio}#{nl}Duração máximo: #{CaptionTime}# segundos{nl}Consome 3 Stamina por segundo
 SKILL_20190419_015385	Quick Draw	퀵 드로우				
 SKILL_20190419_015386	Draws the pistol to attack the target quickly.{nl}Deals additional 50% damage to targets under [Peacemaker: Fatigue] debuff.	권총을 매우 빠르게 격발하여 전방의 적들을 공격합니다.{nl}[피스메이커: 무기력] 상태의 적에게 50% 추가대미지가 적용됩니다.				
 SKILL_20190419_015387	Fanning	패닝				
@@ -15418,8 +15418,8 @@ SKILL_20190419_015417	Gives a chance to [Slow] attacked enemies	공격 당한 �
 SKILL_20190419_015418	Knockback and Knockdown resistance for summons	소환수 넉백/넉다운 저항	SKILL_20190223_015072	Knockback and Knockdown resistance	넉백/넉다운 저항	
 SKILL_20190419_015419	Lethargy: Enchant Lethargy	레써지: 인챈트 레써지				
 SKILL_20190419_015420	Gives a chance to apply [Lethargy] to attacked enemies	공격 당한 적은 일정 확률로 [레써지] 디버프				
-SKILL_20190419_015421	Tre Granate: Lingering Flames	트레 그라나다: 불 잔존				
-SKILL_20190419_015422	Deals continual damage	지속적인 피해를 입힘.				
+SKILL_20190419_015421	Tre Granate: Chamas Persistentes
+SKILL_20190419_015422	Causa dano contínuo
 SKILL_20190419_015423	Dagger Slash: Sharpened Blade	대거 슬래시: 예리한 날				
 SKILL_20190419_015424	Increases attacks using daggers	단검 전용 공격 대미지 증가				
 SKILL_20190419_015425	Increases the duration of current debuffs.	걸려있는 디버프 시간을 연장됨.	SKILL_20150323_003080	Discerning Evil	디서닝 이블	
@@ -15456,7 +15456,7 @@ SKILL_20190419_015455	Tracking: Prey	추적: 사냥감
 SKILL_20190419_015456	Enemy is treated as Beast-type temporarily to allow for Tiger Hunter skill bonuses to take effect	일시적으로 야수형 판정을 받아, 산포 스킬들에 한해 야수형에 관련된 효과가 발동됨				
 SKILL_20190419_015457	Camo Shot: Vantagem
 SKILL_20190419_015458	Aumenta a STR e DEX
-SKILL_20190419_015459	Invasione: Charge	인바시오네: 돌격				
+SKILL_20190419_015459	Invasione: Avançar
 SKILL_20190419_015460	Pain Barrier: Immunity	페인 배리어: 상태저항				
 SKILL_20190419_015461	Temporary immunity to debuffs	디버프에 대한 일시적 면역				
 SKILL_20190419_015462	Redemption: Increased movement speed	리뎀션: 이동속도 증가				
@@ -15605,22 +15605,22 @@ SKILL_20190419_015604	Free Step: Aprimorar	프리 스텝: 강화	SKILL_20190104_
 SKILL_20190419_015605	* Evade all enemy attacks during [Mangle] except for unevadable attacks{nl}* Consumo de SP + 20%	* [난도질] 사용 중에 회피 불가 공격은 제외한 적의 공격을 회피{nl}* SP 소모 20% 증가	SKILL_20190104_014537	* Allows you to evade all attacks while [Mangle] is in use{nl}* Consumo de SP + 20%	* [난도질] 사용 중에 모든 공격을 회피{nl}* SP 소모 20% 증가	
 SKILL_20190419_015606	* Evade all enemy attacks during [Blindfire] except for unevadable attacks{nl}* Consumo de SP + 20%	* [난사] 사용 중에 회피 불가 공격은 제외한 적의 공격을 회피{nl}* SP 소모 20% 증가	SKILL_20190104_014542	* Allows you to evade all attacks while [Blindfire] is in use{nl}* Consumo de SP + 20%	* [난사] 사용 중에 모든 공격을 회피{nl}* SP 소모 20% 증가	
 SKILL_20190419_015607	* Increases [Blindfire]'s damage by 30% when a critical attack lands{nl}* Consumo de SP + 20%	* [난사]가 치명타로 적중 했을 때, 최종 대미지가 30% 증가{nl}* SP 소모 20% 증가	SKILL_20190104_014544	* Increases [Blindfire]'s critical damage by 30%{nl}* Consumo de SP + 20%	* [난사]가 치명타 대미지가 30% 증가{nl}* SP 소모 20% 증가	
-SKILL_20190419_015608	Granata: Aprimorar	그라나다: 강화				
-SKILL_20190419_015609	* Increases the skill factor of [Granata] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [그라나다]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015610	Tre Granate: Aprimorar	트레 그라나다: 강화				
-SKILL_20190419_015611	* Increases the skill factor of [Tre Granate] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [트레 그라나다]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015612	* Deals 1 damage per attribute level to enemies that have escaped the range of Tre Granate{nl}* Consumo de SP + 20%	* [트레 그라나다]의 범위를 벗어나도 특성 레벨당 1초씩 피해를 받음{nl}* SP 소모 20% 증가				
-SKILL_20190419_015613	Ritirarsi: Aprimorar	리티라르시: 강화				
-SKILL_20190419_015614	* Increases the skill factor of [Ritiarsi] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [리티라르시]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015615	Recupero: Aprimorar	레쿠페로: 강화				
-SKILL_20190419_015616	* Increases the HP recovery of [Recupero] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [레쿠페로]의 HP 치유량이 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015617	* Increases movement speed for a 10 seconds during [Invasione]{nl}* Consumo de SP + 20%	* [인바시오네] 사용시 10초 동안 이동속도 증가{nl}* SP 소모 20% 증가				
-SKILL_20190419_015618	Taglio: Aprimorar	탈리오: 강화				
-SKILL_20190419_015619	* Increases the skill factor of [Taglio] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [탈리오]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015620	Taglio: Remove Knockback	탈리오: 넉백 제거				
-SKILL_20190419_015621	* Removes [Taglio]'s knockback effects{nl}* Consumo de SP + 20%	* 스킬 [탈리오]의 넉백 제거{nl}* SP 소모 20%증가				
-SKILL_20190419_015622	Invasione: Aprimorar	인바시오네: 강화				
-SKILL_20190419_015623	* Increases the skill factor of [Invasione] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [인바시오네]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
+SKILL_20190419_015608	Granata: Aprimorar
+SKILL_20190419_015609	* Aumenta o Multiplicador de [Granata] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015610	Tre Granate: Aprimorar
+SKILL_20190419_015611	* Aumenta o Multiplicador de [Tre Granate] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015612	* Causa 1 dano, por nível do atributo, nos inimigos que escaparem da área de [Tre Granate].{nl}* Consumo de SP + 20%
+SKILL_20190419_015613	Ritirarsi: Aprimorar
+SKILL_20190419_015614	* Aumenta o Multiplicador de [Ritiarsi] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015615	Recupero: Aprimorar
+SKILL_20190419_015616	* Aumenta o HP recuperado de [Recupero] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015617	* Ao utilizar [Invasione], aumenta a Velocidade de Movimento por 10 segundos.{nl}* Consumo de SP + 20%
+SKILL_20190419_015618	Taglio: Aprimorar
+SKILL_20190419_015619	* Aumenta o Multiplicador de [Taglio] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015620	Taglio: Não Empurrar
+SKILL_20190419_015621	* [Taglio] não empurra os inimigos.{nl}* Consumo de SP + 20%
+SKILL_20190419_015622	Invasione: Aprimorar
+SKILL_20190419_015623	* Aumenta o Multiplicador de [Invasione] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190419_015624	Quick Draw: Aprimorar	퀵 드로우: 강화				
 SKILL_20190419_015625	* Increases the skill factor of [Quick Draw] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [퀵 드로우]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
 SKILL_20190419_015626	Fanning: Aprimorar	패닝: 강화				
