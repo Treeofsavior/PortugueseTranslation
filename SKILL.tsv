@@ -15295,22 +15295,22 @@ SKILL_20190419_015294	Ataques com Canhão: +#{CaptionRatio}#%{nl}Duração do Bu
 SKILL_20190419_015295	Canister Shot
 SKILL_20190419_015296	Dispara uma bala de canhão que puxa os inimigos para perto por um determinado tempo. A bala de canhão explode quando a duração termina, causando dano e derrubando os inimigos próximos.
 SKILL_20190419_015297	Multiplicador: #{SkillFactor}#%{nl}Duração: #{CaptionTime}# segundos{nl}Alvos: #{CaptionRatio}#
-SKILL_20190419_015298	Piercing Shot	관통 사격				
-SKILL_20190419_015299	Fires piercing bullets against the enemy in rapid succession. Inflicts additional damage against beast-type enemies. Deals additional 50% damage against enemies in [Slow] and [Immobility] states.	전방에 적을 관통하는 총탄을 발사합니다. 피격되는 적이 야수형일 경우 받는 대미지가 증가합니다. [슬로우] 또는 [이동불가] 상태의 적에게 50% 추가대미지가 적용됩니다.				
-SKILL_20190419_015300	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Damage increase against Beast-type: +#{CaptionRatio}#%	스킬 계수 #{SkillFactor}#%{nl}광역 공격 비율 #{SkillSR}#{nl}야수형 적에게 대미지 #{CaptionRatio}#% 증가				
-SKILL_20190419_015301	Adds a buff that lets you dash during combat. Also increases the stamina cost of dashing.	자신에게 전투 상태일때도 대쉬가 가능해지는 버프를 부여합니다. 대쉬로 인한 스태미나 소모량이 증가합니다.				
-SKILL_20190419_015302	Duração: #{CaptionTime}# segundos{nl}STA consumption increase: +#{CaptionRatio}#%	버프 지속시간 #{CaptionTime}#초{nl}대쉬 시 STA 소모량 #{CaptionRatio}#% 증가				
-SKILL_20190419_015303	Rapid Shot	연발 사격				
-SKILL_20190419_015304	Rapidly fires at the targeted enemy. Each shot is ricocheted off the target and has increased chance of landing as a critical hit against Beast-type monsters. Deals additional 50% damage against enemies in [Slow] and [Immobility] states.	타겟된 대상에게 사격합니다. 매 사격마다 도탄이 발생하고, 피격되는 적이 야수형일 경우 치명타가 발생할 확률이 증가합니다. [슬로우] 또는 [이동불가] 상태의 적에게 50% 추가대미지가 적용됩니다.				
-SKILL_20190419_015305	Multiplicador: #{SkillFactor}#% x5{nl}Minimum critical rate increased against Beast-type: +#{CaptionRatio}#%	스킬 계수 #{SkillFactor}#% x 5회{nl}야수형 적에게 최소 치명타 확률 #{CaptionRatio}#%				
-SKILL_20190419_015306	Eye of the Tiger	맹수의 눈				
-SKILL_20190419_015307	Adds the Death Stare buff to enemies near the target. Enemies with the debuff receive increased damage from the player for one attack. If the enemy survives the attack with the debuff, Death Stare will be changed to Retribution, which causes the enemies to have increased Critical Rates when attacking the player.	타겟 근처에 있는 적들에게 주시 디버프를 겁니다. 주시 디버프에 걸린 적은 시전자에게 받는 피해가 1회 증가하지만, 이 공격으로 적이 사망하지 않으면 분노 버프가 걸려 시전자를 공격할 때 치명타 발생이 증가되어 적용됩니다.				
-SKILL_20190419_015308	Death Stare{nl}* Damage: +#{CaptionRatio2}#%{nl}* Duração: #{CaptionTime}# segundos{nl}Retribution{nl}* Critical Rate against Player from Enemies: +30%{nl}* Duração: #{CaptionRatio}# segundos	주시 디버프{nl} * 받는 피해 #{CaptionRatio2}#% 증가{nl} * 지속시간 #{CaptionTime}#초{nl}분노 버프{nl}* 시전자에게 치명타 발생 30% 증가{nl} * 지속시간 #{CaptionRatio}#초				
-SKILL_20190419_015309	Quickly approaches the targeted enemy to attack. Beast-type monsters have a chance to become stunned when targeted.	전방으로 빠르게 돌진한 뒤 사격합니다. 적이 야수형일 경우 확률적으로 스턴 디버프에 걸립니다.				
-SKILL_20190419_015310	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Stun chance against Beast-type: #{CaptionRatio}#%{nl}* Duração: 3.5 seconds	스킬 계수 #{SkillFactor}#%{nl}광역 공격 비율 #{SkillSR}#{nl}야수형 적에게 #{CaptionRatio}#% 확률로 스턴{nl} * 지속시간 3.5초				
-SKILL_20190419_015311	Camo Shot	은폐 사격				
-SKILL_20190419_015312	Grants a Camouflage buff that hides you from the enemies. There is a chance that the buff could be removed every time you attack. Entering the camouflaged state fixes your movement speed at 25. (The movement speed set from Sniper's Serenity takes precedence when two buffs are conflicted.)	몸을 감춰 적들에게 보이지 않게 되는 은폐 버프를 자신에게 부여합니다. 은폐 버프는 매 공격 시마다 확률적으로 풀리게 됩니다. 은폐 버프 중에는 이동속도가 25로 고정됩니다. (단, 스나이퍼즈 세레니티에서 변경되는 이동속도가 더 우선 적용됩니다.)				
-SKILL_20190419_015313	Chace for Camouflage to be removed: #{CaptionRatio}#% per attack{nl}Duração: #{CaptionTime}# segundos	공격시 #{CaptionRatio}#% 확률로 버프 해제{nl}버프 지속시간 #{CaptionTime}#초				
+SKILL_20190419_015298	Piercing Shot
+SKILL_20190419_015299	Realiza disparos rápidos contra o inimigo. Causa dano adicional em inimigos da raça Fera. Causa 50% a mais de dano em alvos afetados por [Slow] e [Immobility].
+SKILL_20190419_015300	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Dano contra Raça Fera: +#{CaptionRatio}#%
+SKILL_20190419_015301	Permite correr enquanto estiver em combate. Também aumenta o consumo de Stamina ao correr.
+SKILL_20190419_015302	Duração: #{CaptionTime}# segundos{nl}Consumo de Stamina: +#{CaptionRatio}#%
+SKILL_20190419_015303	Rapid Shot
+SKILL_20190419_015304	Dispara rapidamente contra o inimigo que está na mira. Cada disparo ricocheteia e possui uma maior chance de causar um ataque crítico contra monstros da raça Fera. Causa 50% a mais de dano em alvos afetados por [Slow] e [Immobility].
+SKILL_20190419_015305	Multiplicador: #{SkillFactor}#% x5{nl}Chance de Crítico mínima contra Feras: +#{CaptionRatio}#%
+SKILL_20190419_015306	Eye of the Tiger
+SKILL_20190419_015307	Causa o efeito [Death Stare] nos inimigos próximos ao alvo. Inimigos afetados recebem um dano maior do seu próximo ataque. Se o inimigo sobreviver, [Death Stare] será alterado para [Retribution], que faz o inimigo ter uma Taxa de Crítico maior ao atacar você.
+SKILL_20190419_015308	[Death Stare]{nl}* Dano: +#{CaptionRatio2}#%{nl}* Duração: #{CaptionTime}# segundos{nl}[Retribution]{nl}* Taxa de Crítico do inimigo: +30%{nl}* Duração: #{CaptionRatio}# segundos
+SKILL_20190419_015309	Aproxima-se rapidamente do alvo para atacar. Monstros da raça Fera poderão sofrer [Stun] quando alvejados.
+SKILL_20190419_015310	Multiplicador: #{SkillFactor}#%{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Chance de [Stun] contra Feras: #{CaptionRatio}#%{nl}* Duração: 3.5 segundos
+SKILL_20190419_015311	Camo Shot
+SKILL_20190419_015312	Garante o efeito de camuflagem, que esconde você dos inimigos. Há uma chance de remover essa camuflagem a cada ataque realizado. Enquanto estiver sob efeito da camuflagem, sua Velocidade de Movimento estará fixa em 25. (A Velocidade de Movimento de [Sniper's Serenity] tem preferência quando os dois efeitos estiverem ativos.)
+SKILL_20190419_015313	Chance de remover [Camouflage]: #{CaptionRatio}#% por ataque{nl}Duração: #{CaptionTime}# segundos
 SKILL_20190419_015314	Restores the HP of a designated target. The amount of HP restored depends on the caster's Heal Factor.{nl}Repeated casting increases SP consumption that is dependent on the player's SPR stat.	지정된 대상의 HP를 회복합니다. 시전자의 치유력에 따라 회복량이 달라집니다.{nl}힐을 연속적으로 사용할수록 소모 SP가 증가하지만, 최종적으로 정신 스탯에 비례하여 SP 소모가 감소합니다.	SKILL_20190104_013308	Restores the HP of a selected target. The amount of HP restored depends on the caster's Healing stat.	지정된 대상의 HP를 회복합니다. 시전자의 치유력에 따라 회복량이 달라집니다.	
 SKILL_20190419_015315	Heal Factor: #{CaptionRatio2}#%{nl}[Heal: Overload] increases SP consumption by +50% per stack	치유 계수 #{CaptionRatio2}#%{nl}[힐: 과부하] 스택 당 SP 소모 +50% 증가	SKILL_20190104_013309	Heal Factor: #{CaptionRatio2}#%	치유 계수 #{CaptionRatio2}#%	
 SKILL_20190419_015316	Removes the debuff of Rank 3 and below on the targeted player.	지정된 대상의 3랭크 이하 디버프를 해제합니다.	SKILL_20190104_013310	Cure allies with a Lv. 1 status ailment or inflict damage on enemies.	동료의 1레벨 상태이상을 해제하거나 적에게 피해를 줍니다.	
@@ -15454,8 +15454,8 @@ SKILL_20190419_015453	Peacemaker: Silence	피스메이커: 침묵
 SKILL_20190419_015454	Unable to Attack	공격 불가.				
 SKILL_20190419_015455	Tracking: Prey	추적: 사냥감				
 SKILL_20190419_015456	Enemy is treated as Beast-type temporarily to allow for Tiger Hunter skill bonuses to take effect	일시적으로 야수형 판정을 받아, 산포 스킬들에 한해 야수형에 관련된 효과가 발동됨				
-SKILL_20190419_015457	Camo Shot: Advantage	은폐 사격: 획득				
-SKILL_20190419_015458	Increases STR and DEX	힘과 민첩이 증가				
+SKILL_20190419_015457	Camo Shot: Vantagem
+SKILL_20190419_015458	Aumenta a STR e DEX
 SKILL_20190419_015459	Invasione: Charge	인바시오네: 돌격				
 SKILL_20190419_015460	Pain Barrier: Immunity	페인 배리어: 상태저항				
 SKILL_20190419_015461	Temporary immunity to debuffs	디버프에 대한 일시적 면역				
@@ -15571,21 +15571,21 @@ SKILL_20190419_015570	Canister Shot: Duração
 SKILL_20190419_015571	* Aumenta a duração do magnetismo de [Canister Shot] em 1 segundo por nível do atributo.{nl}* Consumo de SP + 20%
 SKILL_20190419_015572	Canister Shot: Aprimorar
 SKILL_20190419_015573	* Aumenta o Multiplicador de [Canister Shot] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
-SKILL_20190419_015574	Piercing Shot: Aprimorar	관통 사격: 강화				
-SKILL_20190419_015575	* Increases the skill factor of [Piercing Shot] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [관통 사격]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015576	Tracking: Duration	추적: 지속시간				
-SKILL_20190419_015577	* Increases the duration of [Tracking] by 10 seconds{nl}* Consumo de SP + 30%	* [추적]의 지속시간이 10초 증가{nl}* SP 소모 30% 증가				
-SKILL_20190419_015578	Rapid Shot: Aprimorar	연발 사격: 강화				
-SKILL_20190419_015579	* Increases the skill factor of [Rapid Shot] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [연발 사격]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015580	Ambush: Aprimorar	기습: 강화				
-SKILL_20190419_015581	* Increases the skill factor of [Ambush] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [기습]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015582	Ambush: Knockback	기습: 넉백				
-SKILL_20190419_015583	* [Ambush] knocks enemies down{nl}* Consumo de SP + 10%	* [기습]에 당한 적은 넉백 됨{nl}* SP 소모 10% 증가				
-SKILL_20190419_015584	* Defeating an enemy while under [Camo Shot] buff increases your STR and DEX by 2% per attribute level{nl}* Increases the buff duration by 1 second for every kill if you are already under its effect.{nl}* Consumo de SP + 50%	* [은폐 사격] 버프 중 적을 공격하여 적이 죽으면, 5초동안 자신의 힘과 민첩이 특성 레벨당 2% 증가{nl}* 만약 해당 특성의 효과를 이미 받고 있는 중이라면 지속시간이 1초씩 추가됨{nl}* SP 소모 50% 증가				
-SKILL_20190419_015585	Camo Shot: Grasslands	은폐 사격: 밑 자리				
-SKILL_20190419_015586	* Using [Camo Shot] on floors with long grass increases its duration for 5 seconds{nl}* Chortasmata included{nl}* Consumo de SP + 30%	* [은폐 사격]을 긴 풀 지형에서 사용하면, 지속시간이 5초 증가{nl}* 코르타스마타 마법진도 긴 풀 지형으로 포함{nl}* SP 소모 30% 증가				
-SKILL_20190419_015587	Tracking: Hunting Season	추적: 사냥 개시				
-SKILL_20190419_015588	* Attacking an enemy while under [Tracking] buff is active gives 20% chance per attribute level to apply [Prey] debuff to the enemy. [Prey] debuff shares the same duration with the [Tracking] buff and all Tiger Hunter skills used on the debuffed enemy will gain a bonus equal to attacking a beast-type monster.{nl}- Rapid Shot: Increases Critical Rate by 30%{nl}- Ambush: [Ambush Lv]x5% chance to stun enemy	* [추적] 버프 중에 적을 공격하면 특성 레벨당 20% 확률로 적에게 [사냥감] 디버프가 부여됨. [사냥감] 디버프는 시전자의 [추적] 버프의 현재 지속시간 만큼 지속되고, 산포 스킬 한정으로 야수형 판정을 받게되어 아래와 같은 효과가 발동됨.{nl}　{nl} - 관통 사격 : 대미지 50% 증가{nl} - 연발 사격 : 치명타 발생 확률 30% 증가{nl} - 기습 : 적은 [기습 스킬레벨] * 5% 확률로 스턴에 걸림				
+SKILL_20190419_015574	Piercing Shot: Aprimorar
+SKILL_20190419_015575	* Aumenta o Multiplicador de [Piercing Shot] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015576	Tracking: Duração
+SKILL_20190419_015577	* Aumenta a duração de [Tracking] em 10 segundos.{nl}* Consumo de SP + 30%
+SKILL_20190419_015578	Rapid Shot: Aprimorar
+SKILL_20190419_015579	* Aumenta o Multiplicador de [Rapid Shot] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015580	Ambush: Aprimorar
+SKILL_20190419_015581	* Aumenta o Multiplicador de [Ambush] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015582	Ambush: Derrubar
+SKILL_20190419_015583	* [Ambush] derruba os inimigos.{nl}* Consumo de SP + 10%
+SKILL_20190419_015584	* Derrotar um inimigo enquanto estiver sob efeito de [Camo Shot] aumenta a sua STR e DEX em 2% por nível do atributo.{nl}* Aumenta a duração em 1 segundo para cada morte enquanto a habilidade estiver ativa.{nl}* Consumo de SP + 50%
+SKILL_20190419_015585	Camo Shot: Pastagens
+SKILL_20190419_015586	* Utilizar [Camo Shot] em terrenos com gramas longas aumenta a duração em 5 segundos.{nl}* Também considera a habilidade [Chortasmata].{nl}* Consumo de SP + 30%
+SKILL_20190419_015587	Tracking: Temporada de Caça
+SKILL_20190419_015588	* Atacar inimigos enquanto estiver sob efeito de [Tracking] garante 20% de chance, por nível do atributo, de aplicar [Prey] no inimigo.{nl}* [Prey] compartilha da duração de [Tracking].{nl}* Todas as habilidades de Tiger Hunter que acertarem os inimigos sob este efeito igual como se atacasse um monstro da raça Fera.{nl}- [Rapid Shot]: Aumenta a Taxa de Crítico em 30%{nl}- [Ambush]: [Nv Ambush]x5% de chance de causar [Stun]
 SKILL_20190419_015589	* Increases the chance for [Cure] to remove additional debuffs by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [큐어]의 디버프 추가 제거 확률이 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20190104_014323	* Increases the skill factor of [Cure] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [큐어]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
 SKILL_20190419_015590	* Increases the minimum critical rate of all Dark-property attacks{nl}on enemies under [Hexing] by 2% per attribute level{nl}* Consumo de SP + 10%	* [헥싱]에 걸린 적을 공격 한 어둠 속성 스킬은 {nl}    최소 치명타 확률이 특성 레벨당 2% 추가 적용{nl}* SP 소모 10%증가	SKILL_20170420_009235	* Enemies affected by [Hexing] will receive 10% additional damage per attribute level from Dark property attacks{nl}* Consumo de SP + 10%	* [헥싱]에 걸린 적은 어둠 속성 공격에 특성 레벨당 10%{nl}    추가 대미지{nl}* SP 소모 10%증가	
 SKILL_20190419_015591	Grace Additional Holy Hits: Aprimorar	축복 신성 추가타: 강화				
