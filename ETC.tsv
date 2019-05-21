@@ -5521,7 +5521,7 @@ ETC_20150317_005520	Knocked out 50 players.
 ETC_20150317_005521	Dejected People
 ETC_20150317_005522	Monster Energy
 ETC_20150317_005523	Play 7 days.
-ETC_20150317_005524	Great Blessing	대길			
+ETC_20150317_005524	Great Blessing
 ETC_20150317_005525	Dae-Gil Stalker
 ETC_20150317_005526	Annoyed Dae-Gil 100 times.
 ETC_20150317_005527	Hair
@@ -10143,9 +10143,9 @@ ETC_20150323_010144	Nipping off Sweet Herbs
 ETC_20150323_010145	Acquired the Sweet Herb!
 ETC_20150323_010146	The thorns of the Sweet Herb poked you!
 ETC_20150323_010147	It seems that you have entered a spot where food gets spoiled
-ETC_20150323_010148	Go meet Marius and get some new rice cake!
+ETC_20150323_010148	Go meet Malus and get some new rice cake!
 ETC_20150323_010149	The new rice cake is not spoiled! Bring it to Dalius!
-ETC_20150323_010150	The new rice cake is spoiled! Throw away the spoiled cake and go to Marius to get the new rice cake!
+ETC_20150323_010150	The new rice cake is spoiled! Throw away the spoiled cake and go to Malus to get the new rice cake!
 ETC_20150323_010151	Throwing away the spoiled rice cake
 ETC_20150323_010152	An Orange Hamming suddenly appeared
 ETC_20150323_010153	As you throw away the spoiled rice cake, an Orange Hamming appeared!
@@ -10568,9 +10568,9 @@ ETC_20150401_010569	SP recovery time decreases by {Value} segundos for {Time} mi
 ETC_20150401_010570	Click to use the title.
 ETC_20150401_010571	Collecting the Sweet Herb
 ETC_20150401_010572	Arrived at the area where food spoils.
-ETC_20150401_010573	Return to Marius and get new bread.
+ETC_20150401_010573	Return to Malus and get new bread.
 ETC_20150401_010574	The bread is safe. Give it to Dalius.
-ETC_20150401_010575	The bread is spoiled. {nl}Throw it away and get a new one from Marius.
+ETC_20150401_010575	The bread is spoiled. {nl}Throw it away and get a new one from Malus.
 ETC_20150401_010576	Throwing spoiled bread
 ETC_20150401_010577	The Hammings smelled the bread and are coming to attack!
 ETC_20150401_010578	You've rubbed the strange energy to make it disappear!
@@ -12314,9 +12314,9 @@ ETC_20150714_012315	You have succeeded in destroying the Demon Summoning Circle
 ETC_20150714_012316	You've put the handkerchief back into the box{nl} You can pull it out again
 ETC_20150714_012317	There's no key that works{nl}Try finding the key from the monsters
 ETC_20150714_012318	Obtain the patterned stone again and enter
-ETC_20150714_012319	Return to Marius and get the new bread
+ETC_20150714_012319	Return to Malus and get the new bread
 ETC_20150714_012320	The bread is okay! Hand it over to Dalius
-ETC_20150714_012321	The bread is spoiled{nl}Throw away the spoiled bread and get the new bread from Marius
+ETC_20150714_012321	The bread is spoiled{nl}Throw away the spoiled bread and get the new bread from Malus
 ETC_20150714_012322	You've rubbed off the strange aura
 ETC_20150714_012323	It seems this is the 'strange aura'
 ETC_20150714_012324	The leaves are cut down so you can't investigate further.{nl}Try extracting others!
@@ -12516,17 +12516,17 @@ ETC_20150714_012517	End the conversation
 ETC_20150714_012518	It seems that there isn't anything that you can feel magical power from
 ETC_20150714_012519	You can sense strong magical power somewhere
 ETC_20150714_012520	This magic generating stone is fake!{nl}All the stones are starting to supply the magical power again
-ETC_20150714_012521	Checking the responses of Valius to the magical power
+ETC_20150714_012521	Checking the responses of Balryus to the magical power
 ETC_20150714_012522	You've found the real magic generating stone!
-ETC_20150714_012523	It doesn't react to the magical power of Valius
+ETC_20150714_012523	It doesn't react to the magical power of Balryus
 ETC_20150714_012524	Blocking the magical power of magic generating stones
 ETC_20150714_012525	This stone has been already blocked
 ETC_20150714_012526	Magic generating stones are reacting to the magical power of Malryus and all the stones started to supply the magical power
-ETC_20150714_012527	Injecting the magical power into Valius
+ETC_20150714_012527	Injecting the magical power into Balryus
 ETC_20150714_012528	This is the lamp which is already injected with magical power
-ETC_20150714_012529	The magical power of Valius should be injected to the lamp of the proof for the artifacts of Valius{nl}Use the Brooch that is endowed with the magical power of Valius
+ETC_20150714_012529	The magical power of Balryus should be injected to the lamp of the proof for the artifacts of Valius{nl}Use the Brooch that is endowed with the magical power of Balryus
 ETC_20150714_012530	Using the seal
-ETC_20150714_012531	All the seals of the lamps has been released{nl}Obtain the artifacts of Valius
+ETC_20150714_012531	All the seals of the lamps has been released{nl}Obtain the artifacts of Balryus
 ETC_20150714_012532	The evil energy has been already suppressed!
 ETC_20150714_012533	There is heavy interference by Naktis' servants!
 ETC_20150714_012534	The door may open.
@@ -15676,8 +15676,8 @@ ETC_20151016_015670	What! Demons!
 ETC_20151016_015671	There they are!
 ETC_20151016_015672	You check it with Monocle.
 ETC_20151016_015673	Cozy Lodge
-ETC_20151016_015674	Kedora Merchant Alliance Benefit
-ETC_20151016_015675	PR Notice : Join the Kedora Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and Ataque Mágico!
+ETC_20151016_015674	Kedoran Merchant Alliance Benefit
+ETC_20151016_015675	PR Notice : Join the Kedoran Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and Ataque Mágico!
 ETC_20151016_015676	Drowsy Ferret
 ETC_20151016_015677	Observe
 ETC_20151016_015678	The ferret has been already observed.
@@ -15826,7 +15826,7 @@ ETC_20151016_015820	Por Peso
 ETC_20151016_015821	Por Preço
 ETC_20151016_015822	Por Nome
 ETC_20151016_015823	Hidden Pillar
-ETC_20151016_015824	Kedora Merchant Alliance Benefits!
+ETC_20151016_015824	Kedoran Merchant Alliance Benefits!
 ETC_20151016_015825	Already detected
 ETC_20151016_015826	Not being detected well{nl}Activate it again
 ETC_20151016_015827	It seems that it is out of the range of the detector{nl}Move within the range marked on the map and activate it again
@@ -16286,7 +16286,7 @@ ETC_20151022_016280	Eliminate the power source
 ETC_20151022_016281	Eliminate the Device that forms the defensive layer
 ETC_20151022_016282	Eliminate the cauldron
 ETC_20151022_016283	Extract the shiny moss
-ETC_20151022_016284	Use the Kedora Merchant Alliance Scroll to the novice Revelators near the fields of Klaipeda or Orsha
+ETC_20151022_016284	Use the Kedoran Merchant Alliance Scroll to the novice Revelators near the fields of Klaipeda or Orsha
 ETC_20151022_016285	Collect the fresh body fluid of monsters
 ETC_20151022_016286	Collect the materials of tombstones from the rocks nearby
 ETC_20151022_016287	Collect the short Couro strings from monsters
@@ -16307,7 +16307,7 @@ ETC_20151022_016301	Number of Party Quest participated : {count} / {max}{nl}from
 ETC_20151022_016302	You are doing a quest!
 ETC_20151022_016303	Acquired all necessary breathes
 ETC_20151022_016304	You can't see any peculiarities anymore
-ETC_20151022_016305	You've used the Kedora Merchant Alliance Scroll!
+ETC_20151022_016305	You've used the Kedoran Merchant Alliance Scroll!
 ETC_20151022_016306	The level of the Revelator is too high!
 ETC_20151022_016307	You've set the trap.
 ETC_20151022_016308	Obtaining the body fluid
@@ -16465,11 +16465,11 @@ ETC_20151022_016459	Protection Magic
 ETC_20151022_016460	Protection Magic Circle
 ETC_20151022_016461	Letter on the Ground
 ETC_20151022_016462	Suspicious Sack
-ETC_20151022_016463	[Aliança Comercial Kedora]{nl}   Leopoldas
-ETC_20151022_016464	[Aliança Comercial Kedora]{nl}     Edita
-ETC_20151022_016465	[Aliança Comercial Kedora]{nl} Margellius
-ETC_20151022_016466	[Aliança Comercial Kedora]{nl}     Gerda
-ETC_20151022_016467	[Aliança Comercial Kedora]{nl}   Serapinas
+ETC_20151022_016463	[Aliança Comercial Kedoran]{nl}   Leopoldas
+ETC_20151022_016464	[Aliança Comercial Kedoran]{nl}     Edita
+ETC_20151022_016465	[Aliança Comercial Kedoran]{nl} Margellius
+ETC_20151022_016466	[Aliança Comercial Kedoran]{nl}     Gerda
+ETC_20151022_016467	[Aliança Comercial Kedoran]{nl}   Serapinas
 ETC_20151022_016468	[Mestre Fencer]{nl}  Sorscha Hutton
 ETC_20151022_016469	[Submestre Barbarian]{nl}        Twinhal Koreont
 ETC_20151022_016470	[Submestre Dievdirbys]{nl}        Zenoa Gallant
@@ -16523,7 +16523,7 @@ ETC_20151102_016517	Barha Forest
 ETC_20151102_016518	Nahash Forest
 ETC_20151102_016519	Vera Coast
 ETC_20151102_016520	Elgos Monastery Annex
-ETC_20151102_016521	Elgos Monastery Main Building
+ETC_20151102_016521	Elgos Abbey Main Building
 ETC_20151102_016522	Vedas Plateau
 ETC_20151102_016523	Koru Jungle
 ETC_20151102_016524	Knidos Jungle
@@ -16842,7 +16842,7 @@ ETC_20151102_016836	Cronewt Gem
 ETC_20151102_016837	Infro Blood Gem
 ETC_20151102_016838	Pink Chupaluka Gem
 ETC_20151102_016839	Sauga Gem
-ETC_20151102_016840	Catacombs Maggot Gem	카타콤 마고트의 젬				
+ETC_20151102_016840	Catacombs Maggot Gem
 ETC_20151102_016841	Tontus Gem
 ETC_20151102_016842	Karas Mage Gem
 ETC_20151102_016843	Echad Magician Gem
@@ -19344,7 +19344,7 @@ ETC_20151224_019338	The flame of Sequoia has found you
 ETC_20151224_019339	Sequoia fell asleep to recover its HP{nl}Derrote Sequoia to prevent it from recovering HP
 ETC_20151224_019340	You've defeated the monster{nl}(
 ETC_20151224_019341	You've defeated Bearkaras!{nl}Search for the parts nearby the Spare Purifier
-ETC_20151224_019342	The magical power of Valius should be injected to the lamp of the proof for the artifacts of Valius{nl}Use the Brooch that is endowed with the magical power of Valius
+ETC_20151224_019342	The magical power of Balryus should be injected to the lamp of the proof for the artifacts of Valius{nl}Use the Brooch that is endowed with the magical power of Valius
 ETC_20151224_019343	Collecting the Fruit-smelling fragment
 ETC_20151224_019344	You've collected the Fruit-smelling fragment
 ETC_20151224_019345	A monster is that already has the fragment
@@ -19890,7 +19890,7 @@ ETC_20151224_019884	Hairstyle17
 ETC_20151224_019885	Hairstyle18
 ETC_20151224_019886	Underground Catacombs Dungeon Entrance
 ETC_20151224_019887	[Lojista Premiun]{nl}     Leticia
-ETC_20151224_019888	        [Mestre Templar]{nl}Cavaleiro Comandante Uska
+ETC_20151224_019888	[Mestre Templar]{nl}Cavaleiro Comandante Uska
 ETC_20151224_019889	[Mestre Cryomancer]{nl}     Aleister Crowley
 ETC_20151224_019890	[Ferreiro]{nl}   Ilanai
 ETC_20151224_019891	[Mercador de Equips]{nl}                Jura
@@ -19956,7 +19956,7 @@ ETC_20151224_019950	Torre de Controle Mental
 ETC_20151224_019951	Black Energy
 ETC_20151224_019952	Charged Device
 ETC_20151224_019953	Temporary
-ETC_20151224_019954	[Aliança Comercial Kedora]{nl}     Merrisa
+ETC_20151224_019954	[Aliança Comercial Kedoran]{nl}     Merrisa
 ETC_20151224_019955	[Mestre Sorcerer]{nl}    Dame Circe
 ETC_20151224_019956	Fallen Legwyn Family Dungeon: Entrada
 ETC_20151224_019957	Fencer Sword Pell
@@ -20600,7 +20600,7 @@ ETC_20160224_020594	Iniciar Area Lolopanther
 ETC_20160224_020595	Pergunte sobre a origem da Earth Tower
 ETC_20160224_020596	Ask where the goddess is
 ETC_20160224_020597	Trocar por Equipamentos
-ETC_20160224_020598	Pergunte sobre a Aliança de Comerciantes Kedora
+ETC_20160224_020598	Pergunte sobre a Aliança de Comerciantes Kedoran
 ETC_20160224_020599	Pergunte sobre o Coletor de Relíquia
 ETC_20160224_020600	A aura da Earth Tower está sumindo
 ETC_20160224_020601	A aura da Earth Tower está aumentando
@@ -20714,7 +20714,7 @@ ETC_20160224_020708	Soldier
 ETC_20160224_020709	Injured Soldier
 ETC_20160224_020710	Injured Refugee
 ETC_20160224_020711	Team Battle League{nl}     Valis
-ETC_20160224_020712	[Aliança Comercial Kedora]{nl}   Coletor de Relíquia
+ETC_20160224_020712	[Aliança Comercial Kedoran]{nl}   Coletor de Relíquia
 ETC_20160224_020713	Earth Tower: Entrada
 ETC_20160224_020714	[Mestre Rune Caster]{nl}      Shelly Pennington
 ETC_20160224_020715	Team 2 wins
@@ -25533,7 +25533,7 @@ ETC_20161005_025527	Castle Dungeon Entrance
 ETC_20161005_025528	[Mestre Inquisitor]{nl}Thomas Iquinostasys
 ETC_20161005_025529	[Mestre Hackapell]{nl} Flyntess
 ETC_20161005_025530	  [Mestre Mergen]{nl}Vhangomont Breogen
-ETC_20161005_025531	[Aliança Comercial Kedora]{nl}         Operador
+ETC_20161005_025531	[Aliança Comercial Kedoran]{nl}         Operador
 ETC_20161005_025532	[Mestre Taoist]{nl} Geuhong
 ETC_20161005_025533	Whitetree Forest 22_2
 ETC_20161005_025534	Whitetree Forest 22_3
@@ -25869,7 +25869,7 @@ ETC_20161214_025863	Change Petrification Detector
 ETC_20161214_025864	Petrification Detector Color Changing
 ETC_20161214_025865	Summon Party Members
 ETC_20161214_025866	Summon all player characters in the map to you every 50 segundos. If the character in question is within the range of 50, the summon doesn't happen.
-ETC_20161214_025867	PR Notice : Join the Kedora Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and Ataque Mágico!
+ETC_20161214_025867	PR Notice : Join the Kedoran Merchant Alliance!{nl}Benefit Effect : Temporary increase in attack and Ataque Mágico!
 ETC_20161214_025868	Curse of the Red Waters
 ETC_20161214_025869	Be careful! It looks like the energy is escaping!{nl}Stop moving to keep the stamina from decreasing!{nl}Moving zones or logging out will also make the curse disappear.
 ETC_20161214_025870	Happy Cat
@@ -25904,7 +25904,7 @@ ETC_20161214_025898	A Manticen has appeared at Shaton Reservoir. Hide in the cav
 ETC_20161214_025899	Apparently, the bees at Dina Bee Farm have started to disappear little by little. Someone found a gigantic spider web in the forest, and soon after a Honeypin appeared at the Farm. Derrote the Honeypin before it destroys the entire region.
 ETC_20161214_025900	Derrote Kurmis
 ETC_20161214_025901	An enormous monster has appeared in Viltis Forest and is attacking the adventurers. Derrote the monster and make the forest safe again.
-ETC_20161214_025902	The Kedora Alliance, who the Mage Tower adventurers support, suffered a monster attack at Istora Ruins. They request your help to defeat their biggest threat, the Yonazolem. Derrote the Yonazolem and help the Mage Tower adventurers proceed with their work in safety.
+ETC_20161214_025902	The Kedoran Alliance, who the Mage Tower adventurers support, suffered a monster attack at Istora Ruins. They request your help to defeat their biggest threat, the Yonazolem. Derrote the Yonazolem and help the Mage Tower adventurers proceed with their work in safety.
 ETC_20161214_025903	The Naktis so often mentioned by the adventurers has suddenly disappeared. Meanwhile, the adventurers exploring the Kaliss Province say they were attacked at the Roxona Reconstruction Agency West Building by someone under the form of the Naktis. Go and investigate!
 ETC_20161214_025904	Derrote Demon Lord Hauberk
 ETC_20161214_025905	The Kupoles of Demon Prison District 4 say Demon Lord Hauberk has been appearing in the area recently. Go and check whether he has returned, or if it's just another one of his fragments.
@@ -25912,7 +25912,7 @@ ETC_20161214_025906	Derrote the Gosal
 ETC_20161214_025907	The Gosal that suddenly appeared at Uskis Arable Land is causing serious harm to the hardworking farmers in the area. Derrote the Gosal and save the farmers.
 ETC_20161214_025908	The rumor that there is something watching between the lush trees of Spring Light Woods has been around for a long time. This time, the rumor became true and there is a creature threatening the passing residents. Find the Woodspirit in Spring Light Woods and defeat it.
 ETC_20161214_025909	The soldiers operating at the thorny Glade Hillroad seem to be facing a problem with an enormous monster. According to the reports, the monster is a Bebraspion. Go and check whether the gigantic Bebraspion is really roaming the thorny area.
-ETC_20161214_025910	A few members of the Kedora Alliance were walking past the nearly-deserted Laukyme Swamp when they heard a deafening roar. They believe the sound came from a Gaigalas. The Alliance is now looking for an adventurer to defeat the Gaigalas and make the road safe again.
+ETC_20161214_025910	A few members of the Kedoran Alliance were walking past the nearly-deserted Laukyme Swamp when they heard a deafening roar. They believe the sound came from a Gaigalas. The Alliance is now looking for an adventurer to defeat the Gaigalas and make the road safe again.
 ETC_20161214_025911	Guild Raid Sample
 ETC_20161214_025912	Guild Raid Sample
 ETC_20161214_025913	The Dievdirbys Mestre received a letter from Tesla.{nl}Tesla created several Spirit Guide Owl Sculptures and the Sequoia to protect them. However, the Sequoia was corrupted by the demons' evil energy and is destroying the statues and setting Fogo to the forest. Tesla is now looking for a brave adventurer to defeat the Sequoia.
@@ -26043,7 +26043,7 @@ ETC_20161214_026037	Ask the Young Settler
 ETC_20161214_026038	Ask the Orsha Citizen
 ETC_20161214_026039	Sprikle the Holy Powder on the Box
 ETC_20161214_026040	Bury the Strange Crystals
-ETC_20161214_026041	Use the Kedora Merchant Alliance Scroll to the novice Revelators near the fields of Klaipeda or Orsha
+ETC_20161214_026041	Use the Kedoran Merchant Alliance Scroll to the novice Revelators near the fields of Klaipeda or Orsha
 ETC_20161214_026042	Take Notes About the Sentry Bailey
 ETC_20161214_026043	Take Notes About the Drill Ground of Confliction
 ETC_20161214_026044	Take Notes About the Resident Quarter
@@ -26875,7 +26875,7 @@ ETC_20170313_026869	{nl} {nl}The different areas of Earth Tower are divided by f
 ETC_20170313_026870	{nl} {nl}Some floors of Earth Tower will contain a boss monster that can drop special material items after it is defeated.
 ETC_20170313_026871	{nl} {nl}Also, after you defeat a boss monster and obtain the rewards, you can choose whether to stop or continue to another mission.
 ETC_20170313_026872	{nl} {nl}If you decide to stop, you will receive an Earth Tower cube as reward, from which you can obtain special material items.
-ETC_20170313_026873	{nl} {nl}These special materials obtained from Earth Tower can be exchanged for powerful equipment items at the Kedora Alliance NPC located by the entrance of Earth Tower.
+ETC_20170313_026873	{nl} {nl}These special materials obtained from Earth Tower can be exchanged for powerful equipment items at the Kedoran Alliance NPC located by the entrance of Earth Tower.
 ETC_20170313_026874	At the Former Fantasy Library, you can experience events that happened in the past.
 ETC_20170313_026875	The Former Fantasy Library can only be accessed by characters of a certain level, and it has a daily entry limit.
 ETC_20170313_026876	Press {img space 40 40} at the entrance to be matched with other players before you enter the Former Fantasy Library.
@@ -27194,7 +27194,7 @@ ETC_20170313_027188	Using the Draining Orb...
 ETC_20170313_027189	Drained the evil spirit.
 ETC_20170313_027190	Evil Spirit
 ETC_20170313_027191	The detector has sensed something buried.
-ETC_20170313_027192	Found part of the Kedora Alliance ledger.
+ETC_20170313_027192	Found part of the Kedoran Alliance ledger.
 ETC_20170313_027193	Region already found.
 ETC_20170313_027194	I'll try and put it together.
 ETC_20170313_027195	I'll try and find more.
@@ -29201,7 +29201,7 @@ ETC_20171128_029174	A magical creature created to protect the Royal Mausoleum. D
 ETC_20171128_029175	The Tree Ambulo is not a mutation of a plant. In fact, it has it's origins in the demonic world. However, the demons to seem to think of it as some sort of pot plant.
 ETC_20171128_029176	A lesser demon that acts as a sort of everyday object for other demons.
 ETC_20171128_029177	The souls of liers and crooks turned into monsters in the demonic world end up like this.
-ETC_20171128_029178	The Kedora Merchant Alliance is thinking of ways to make a product out of this monster.
+ETC_20171128_029178	The Kedoran Merchant Alliance is thinking of ways to make a product out of this monster.
 ETC_20171128_029179	Shredded is a demon monster that was derived from the by-product that results when you transform a monster into a powerful ghost. 
 ETC_20171128_029180	The Ritasfung eats small animals and feeds off them as they decay in it's body. However, it is known to try to bite whatever it can so larger animals also need to take care.
 ETC_20171128_029181	The Tisfung is a monster mutated from mushrooms. As such, it can easily spread it's pores. That's why it isn't uncommon for people that live in dark and humid areas to be attacked by Tisfung that have grown overnight. 
@@ -29566,7 +29566,7 @@ ETC_20171128_029539	You might think that the Ragbird doesn't look like much. You
 ETC_20171128_029540	Did they raise crops in the demonic world and were they affected by Medzio Diena? Nobody knows, but it is an interesting topic to think about.
 ETC_20171128_029541	It is impossible to tell if it is a real scarecrow or a monster. It might look similar because a demon might have imitated a human scarecrow. It might also be a mutation from the demonic world, but nobody knows for certain.
 ETC_20171128_029542	What passes for a cute puppy in the demonic world is a savage beast by human standards.
-ETC_20171128_029543	Rumpelstiltskin is the first demon who dealt with the Kedora Merchant Alliance, but Vhaldobas is the demon who dealt with them the most. Vhaldobas had a strong sense of curiosity for a demon and especially so for science and engineering. Vhaldobas did not mind trading with humans. Of course, this doesn't mean that any human can trade with demons. 
+ETC_20171128_029543	Rumpelstiltskin is the first demon who dealt with the Kedoran Merchant Alliance, but Vhaldobas is the demon who dealt with them the most. Vhaldobas had a strong sense of curiosity for a demon and especially so for science and engineering. Vhaldobas did not mind trading with humans. Of course, this doesn't mean that any human can trade with demons. 
 ETC_20171128_029544	They are not high ranking demons. In fact, they even play the role of clowns in front of high ranking demons. However, demons will sometimes boast that they are simply close to stronger demons.
 ETC_20171128_029545	They are not high ranking demons. In fact, they even play the role of clowns in front of high ranking demons. While some will boast about being near stronger demons, most dislike grouping up. As such, these demons are looked down upon.
 ETC_20171128_029546	They are not high ranking demons. In fact, they even play the role of clowns in front of high ranking demons. They play various clown roles due to the complexity of demon society.
@@ -29626,7 +29626,7 @@ ETC_20171128_029599	This evil demon will do all that it can to torment those wea
 ETC_20171128_029600	Lavisher
 ETC_20171128_029601	Lavishers are all evil, but how they torment their prey depends on an individual level. This particular specimen loves to torment it's prey without saying anything until the prey manages to understand what the Lavisher wants. 
 ETC_20171128_029602	Lake Golem
-ETC_20171128_029603	A magical levitation stone from the Starfilled Lake that turned into a monster during Medzio Diena. It was thought to only exist near Starfilled Lake since most of the magical levitation stones throughout human history were used there, but it seems as if the Kedora Merchant Alliance and Agailla Flurry had quite a few of their own. 
+ETC_20171128_029603	A magical levitation stone from the Starfilled Lake that turned into a monster during Medzio Diena. It was thought to only exist near Starfilled Lake since most of the magical levitation stones throughout human history were used there, but it seems as if the Kedoran Merchant Alliance and Agailla Flurry had quite a few of their own. 
 ETC_20171128_029604	Fondus
 ETC_20171128_029605	Fondus were known to occasionally appear near Starfilled Lake even before Medzio Diena. There was a massive increase in their population after Medzio Diena. The liquid on top of the Fondus is an extremely rare foodstuff. It costs a fortune to detoxicate it enough to be fit for human consumption. It may be put back on the tables of nobles if the Scharffen Star manages to recover.  
 ETC_20171128_029606	Anchor Golem
@@ -31827,8 +31827,8 @@ ETC_20180320_031795	F key for Card Synthesis
 ETC_20180320_031796	{/} to open the corresponding UI.
 ETC_20180320_031797	Heretic Pantorex
 ETC_20180320_031798	Magical Orb
-ETC_20180320_031799	[Aliança Kedora]{nl}Geraldasia
-ETC_20180320_031800	[Aliança Kedora]{nl}Geraldason
+ETC_20180320_031799	[Aliança Kedoran]{nl}Geraldasia
+ETC_20180320_031800	[Aliança Kedoran]{nl}Geraldason
 ETC_20180320_031801	Comprar itens de Thaumaturge
 ETC_20180320_031802	Comprar itens de Cryomancer
 ETC_20180320_031803	Comprar itens de Wizard
@@ -31938,8 +31938,8 @@ ETC_20180320_031906	 adicional a cada 5 níveis.
 ETC_20180320_031907	Fedimian Under Attack Event
 ETC_20180320_031908	Evento Especial - Treinador
 ETC_20180320_031909	Chance de Drop +100 (30 min.): {@st66d}{needSilver} Silver{/}
-ETC_20180320_031910	[Kedora Alliance]{nl}Geraldasia
-ETC_20180320_031911	[Kedora Alliance]{nl}Geraldason
+ETC_20180320_031910	[Kedoran Alliance]{nl}Geraldasia
+ETC_20180320_031911	[Kedoran Alliance]{nl}Geraldason
 ETC_20180320_031912	Blue Greentoshell
 ETC_20180320_031913	Quest failed. All players have been incapacitated.
 ETC_20180320_031914	Derrote o monstro na Basement Facility!
@@ -32336,7 +32336,7 @@ ETC_20180418_032304	Sorry, I have no time to talk.
 ETC_20180418_032305	I don't think I can do that much.
 ETC_20180418_032306	Klaipeda Item Merchant
 ETC_20180418_032307	Lord of Orsha, Inesa Hamondale
-ETC_20180418_032308	Aliança Comercial Kedora, Leopoldas
+ETC_20180418_032308	Aliança Comercial Kedoran, Leopoldas
 ETC_20180418_032309	Add in.
 ETC_20180418_032310	Crafting Fur Pieces...
 ETC_20180418_032311	Not enough materials to craft the Fur Pieces.{nl}(Min. {cnt} items required)
@@ -40647,11 +40647,11 @@ ETC_20190104_040561	[Cavaleiros de Kaliss]{nl}Wilhelmina Carriot
 ETC_20190104_040562	[Mestre Musketeer]{nl}Alloden Marzarine
 ETC_20190104_040563	[Cavaleiros de Kaliss]{nl}Bokor Edita
 ETC_20190104_040564	[Cavaleiros de Kaliss]{nl}Alchemist Saliamonas
-ETC_20190104_040565	[Aliança Comercial Kedora]{nl}Leopoldas
-ETC_20190104_040566	[Aliança Comercial Kedora]{nl}Merrisa
-ETC_20190104_040567	[Aliança Comercial Kedora]{nl}Margellius
-ETC_20190104_040568	[Aliança Comercial Kedora]{nl}Gerda
-ETC_20190104_040569	[Aliança Comercial Kedora]{nl}Serapinas
+ETC_20190104_040565	[Aliança Comercial Kedoran]{nl}Leopoldas
+ETC_20190104_040566	[Aliança Comercial Kedoran]{nl}Merrisa
+ETC_20190104_040567	[Aliança Comercial Kedoran]{nl}Margellius
+ETC_20190104_040568	[Aliança Comercial Kedoran]{nl}Gerda
+ETC_20190104_040569	[Aliança Comercial Kedoran]{nl}Serapinas
 ETC_20190104_040570	[Mestre Schwarzer Reiter]{nl}Warsis Creak
 ETC_20190104_040571	[Mestre Fencer Master]{nl}Sorscha Hutton
 ETC_20190104_040572	[Mestre Chronomancer]{nl}Lucid Winterspoon
@@ -40716,9 +40716,9 @@ ETC_20190104_040630	[Mestre Shadowmancer]{nl}Eclipse Ubik
 ETC_20190104_040631	[Mestre Pied Piper]{nl}Jogaila
 ETC_20190104_040632	[Mestre Dragoon]{nl}Valeska Himil
 ETC_20190104_040633	[Mestre Kabbalist]{nl}Libgar Hippathia
-ETC_20190104_040634	[Aliança Comercial Kedora]{nl}Coletor de Relíquias
+ETC_20190104_040634	[Aliança Comercial Kedoran]{nl}Coletor de Relíquias
 ETC_20190104_040635	[Mestre Hackapell]{nl}Flyntess
-ETC_20190104_040636	[Aliança Comercial Kedora]{nl}Operador
+ETC_20190104_040636	[Aliança Comercial Kedoran]{nl}Operador
 ETC_20190104_040637	[Mestre Rune Caster]{nl}Shelly Pennington
 ETC_20190104_040638	[Mestre Assassin]{nl}Rashid Zabanya
 ETC_20190104_040639	[Mestre Corsair]{nl}Hayraven
@@ -41330,7 +41330,7 @@ ETC_20190419_041244	{nl} {nl}Right-click the Pamoka Solution to activate it and 
 ETC_20190419_041245	{nl} {nl}When the solution is full, the item image will change to the icon below.	{nl} {nl}파모카 시약병에 경험치를 모두 채울 경우, 파모카 시약병 아이템의 이미지가 아래 이미지와 같이{nl}변경됩니다.	ETC_20180517_032608	{nl} {nl}When the solution is full, the item image will change to the icon below.	{nl} {nl}파르티스 시약병에 경험치를 모두 채울 경우, 파르티스 시약병 아이템의 이미지가 아래 이미지와 같이{nl}변경됩니다.	
 ETC_20190419_041246	{nl} {nl}At the Alchemist Master, register your Legend item and full Pamoka Solution to apply the set stats of your choosing.	{nl} {nl}알케미스트 마스터의 세트 옵션 부여를 통해 레전드 장비와 파모카 시약병을 넣은 뒤 원하는 세트 옵션을 선택하고 확인 버튼을 누르면 레전드 장비에 세트 옵션이 부여됩니다.	ETC_20180517_032609	{nl} {nl}At the Alchemist Master, register your Legend item and full Partis Solution to apply the set stats.	{nl} {nl}알케미스트 마스터에게 세트 옵션 부여를 통해 레전드 장비와 파르타스 시약병을 넣은 뒤 확인 버튼을 누르면 레전드 장비에 세트 옵션이 부여됩니다.	
 ETC_20190419_041247	The different areas of Earth Tower can be entered according to your character's level, and there is a weekly entry limit applied.	대지의 탑은 구간별로 플레이어의 레벨에 따라 입장이 제한되며, 주간 입장 횟수가 제한됩니다.	ETC_20170313_026867	The different areas of Earth Tower can be entered according to your character's level, and there is a daily entry limit applied.	대지의 탑은 구간별로 플레이어의 레벨에 따라 입장이 제한되며, 일일 입장 횟수가 제한됩니다.	
-ETC_20190419_041248	{nl} {nl}Special materials obtained from Earth Tower can be exchanged for powerful equipment items at the Kedora Alliance NPC located by the entrance of Earth Tower.	{nl} {nl}대지의 탑에서 획득한 특별한 재료는 인스턴스 던전 입구에 위치한 케도라 상단 NPC를 통해 강력한{nl}장비와 교환할 수 있습니다.	ETC_20170313_026871	{nl} {nl}Also, after you defeat a boss monster and obtain the rewards, you can choose whether to stop or continue to another mission.	{nl} {nl}또한 보스몬스터를 처치하게 되면 보상을 받고 도전을 끝낼지 아니면 도전을 계속 진행할지를 선택할 수{nl}있습니다.	
+ETC_20190419_041248	{nl} {nl}Special materials obtained from Earth Tower can be exchanged for powerful equipment items at the Kedoran Alliance NPC located by the entrance of Earth Tower.	{nl} {nl}대지의 탑에서 획득한 특별한 재료는 인스턴스 던전 입구에 위치한 케도라 상단 NPC를 통해 강력한{nl}장비와 교환할 수 있습니다.	ETC_20170313_026871	{nl} {nl}Also, after you defeat a boss monster and obtain the rewards, you can choose whether to stop or continue to another mission.	{nl} {nl}또한 보스몬스터를 처치하게 되면 보상을 받고 도전을 끝낼지 아니면 도전을 계속 진행할지를 선택할 수{nl}있습니다.	
 ETC_20190419_041249	{nl} {nl}Velcoffer's Nest does not share its entry limit with Earth Tower raids.{nl}The consumed entry counts will be reset every week.	{nl} {nl}벨코퍼의 둥지는 대지의 탑과 입장 횟수를 공유하지 않습니다.{nl}사용한 입장 횟수는 주마다 초기화됩니다.	ETC_20180517_032613	{nl} {nl}Velcoffer's Nest shares its entry count with the Earth Tower. This count is reset every week, with one additional weekly entry granted to Token users.	{nl} {nl}벨코퍼의 둥지는 대지의 탑과 입장 횟수를 공유합니다.{nl}사용한 입장 횟수는 주마다 초기화됩니다.{nl}토큰을 사용하고 있으면 입장 횟수가 1회 추가됩니다.	
 ETC_20190419_041250	{nl} {nl}At the end of the dungeon is Velcoffer, a dragon who escaped its confinement after being sealed during a war with the Goddesses many eras ago. {nl}Your goal is to defeat Velcoffer to obtain its special rewards.{nl}All Token users can use the [Re-open] option to obtain extra rewards. 	{nl} {nl}던전의 끝으로 가면 과거 여신과의 전쟁에서 패하여{nl}갇혀있었으나 봉인이 풀려난 드래곤, 벨코퍼가{nl}등장합니다.{nl}이를 처치하면 특별한 보상을 바로 획득할 수{nl}있으며, 토큰을 사용하고 있으면 [한 번 더 열기] 시스템을 한 번 더 사용할 수 있습니다. 	ETC_20180517_032616	{nl} {nl}At the end of the dungeon is Velcoffer, a dragon who escaped its confinement after being sealed during a war with the goddesses many eras ago. Your goal is to defeat Velcoffer to obtain its special rewards.	{nl} {nl}던전의 끝으로 가면 과거 여신과의 전쟁에서 패하여{nl}갇혀있었으나 봉인이 풀려난 드래곤, 벨코퍼가{nl}등장하며 이를 처치하면 특별한 보상을 획득할 수{nl}있습니다.	
 ETC_20190419_041251	Players who complete Remnants of Bernice can receive Remnants of Bernice Coins according to the number of stages cleared.{nl}Remnants of Bernice Coins can be exchanged at the Oracle Master.{nl}The top 3 players in each class tree also get special rewards.	베르니케의 파편을 진행한 유저는 진행 층수에 따라 베르니케 파편 주화를 받을 수 있습니다.{nl}베르니케 파편 주화는 [오라클 마스터]의 [베르니케 파편 포인트 샵]에서 사용할 수 있습니다.{nl}각 직업 계열별 3위 내에 속한 유저는 특별한 보상도 받을 수 있습니다.	ETC_20190104_036763	Participation rewards are available for all players who participate in Remnants of Bernice.{nl}There are also special prizes for the top 3 highest ranking players per class tree.	베르니케의 파편을 진행한 유저는 기본적으로 참여 보상을 받을 수 있습니다.{nl}각 직업 계열별 3위 내에 속한 유저는 특별한 보상도 받을 수 있습니다.	
@@ -41921,3 +41921,9 @@ ETC_20190510_041835	Wake Up: First Steps Package	Start 패키지
 ETC_20190510_041836	Right-click to use and obtain the items.{nl}- Enchant Scroll x3{nl}- x8 EXP Tome{nl}- Team Storage Expansion Voucher +1{nl}- Baby Chick{nl}- Character Slot Voucher{nl}- [Freebie] Penguin Selection Box	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 마법 부여 스크롤 3개{nl} - x8 경험의 서{nl} - 팀 창고 확장권 +1{nl} - 삐약삐약 병아리{nl} - 캐릭터 슬롯 추가 이용권{nl} - [Freebie]펭귄 선택상자				
 ETC_20190510_041837	Wake Up: ALL-IN-ONE Package	ALL-IN-ONE 패키지				
 ETC_20190510_041838	Right-click to use and obtain the items.{nl}- Wake Up: Learner's Package{nl}Wake Up: First Steps Package{nl}- Attribute Reset Potion.	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - Attribute 패키지{nl} - Start 패키지{nl} - 특성 초기화 포션				
+ETC_20190521_041839	Elegant Noble Party Costume Selection Box	고결한 귀족의 연회복 선택상자				
+ETC_20190521_041840	Use to select one of the following items.{nl}- Elegant Noble Party Costume (Male) x1{nl}- Elegant Noble Party Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 고결한 귀족의 연회복 코스튬 (남) 1개{nl} - 고결한 귀족의 연회복 코스튬 (여) 1개				
+ETC_20190521_041841	Red Rose Knight Selection Box	붉은 장미의 기사 선택상자				
+ETC_20190521_041842	Use to select one of the following items.{nl}- Red Rose Knight Costume (Male) x1{nl}- Red Rose Knight Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 붉은 장미의 기사 코스튬 (남) 1개{nl} - 붉은 장미의 기사 코스튬 (여) 1개				
+ETC_20190521_041843	White Rose Knight Selection Box	흰 장미의 기사 선택상자				
+ETC_20190521_041844	Use to select one of the following items.{nl}- White Rose Knight Costume (Male) x1{nl}- White Rose Knight costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 흰 장미의 기사 코스튬 (남) 1개{nl} - 흰 장미의 기사 코스튬 (여) 1개				

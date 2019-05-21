@@ -1776,7 +1776,7 @@ ITEM_20150317_001775	Restores HP every 2 segundos. {nl}640 HP é restaurado em 1
 ITEM_20150317_001776	Small SP Potion
 ITEM_20150317_001777	Restores SP every 2 segundos. {nl}144 SP é restaurado em 15 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 30 seconds.
 ITEM_20150317_001778	Restores SP every 2 segundos. {nl}240 SP é restaurado em 15 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 45 seconds.
-ITEM_20150317_001779	Medium SP Potion	큰 SP포션	
+ITEM_20150317_001779	Large SP Potion	큰 SP포션	
 ITEM_20150317_001780	Restores SP every 2 segundos. {nl}480 SP é restaurado em 15 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 60 seconds.
 ITEM_20150317_001781	Stamina Pill
 ITEM_20150317_001782	Restores 15 Stamina. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 30 seconds.
@@ -1907,7 +1907,7 @@ ITEM_20150317_001906	Basic HP Potion Supply
 ITEM_20150317_001907	Basic Large HP Potion
 ITEM_20150317_001908	Basic Small SP Potion
 ITEM_20150317_001909	Basic SP Potion
-ITEM_20150317_001910	Basic Medium SP Potion	보급용 큰 SP포션		
+ITEM_20150317_001910	Basic Large SP Potion	보급용 큰 SP포션		
 ITEM_20150317_001911	Basic Stamina Pill
 ITEM_20150317_001912	Basic STA Potion (Medium)
 ITEM_20150317_001913	Basic STA Potion (Large)
@@ -4088,7 +4088,7 @@ ITEM_20150323_004087	Leaves of the Sweet Herb. Useful when eaten with bitter med
 ITEM_20150323_004088	Nutritious Tonic
 ITEM_20150323_004089	A nutritious tonic made by diluting the Baron's concentrate with Scorpio venom.
 ITEM_20150323_004090	Brand New Rice Cake
-ITEM_20150323_004091	A rice cake from Marius.
+ITEM_20150323_004091	A rice cake from Malus.
 ITEM_20150323_004092	Spoiled Rice Cake
 ITEM_20150323_004093	Pieces of a spoiled rice cake.
 ITEM_20150323_004094	Fresh Rice Cake
@@ -22379,3 +22379,69 @@ ITEM_20190510_022363	To begin: Musket	To begin: 머스킷
 ITEM_20190510_022364	To begin: Two-handed Mace	To begin: 투 핸드 메이스				
 ITEM_20190510_022365	Contains equipment with random TRA and ENH values that can be raised to Lv. 400 in correspondence with the player's level.{nl}- ENH: 6~16{nl}- TRA: 5~10	캐릭터의 레벨에 따라 400 레벨까지 성장하는 강화, 초월이 무작위로 부여된 장비를 선택하여 획득할 수 있습니다.{nl} - 강화 : 6~16{nl} - 초월 : 5~10				
 ITEM_20190510_022366	[Freebie] Penguin Selection Box	[Freebie] 펭귄 선택 상자				
+ITEM_20190521_022367	Elegant Voluminous Rolls	소라빵 귀염둥이 귀족 영애 얼굴
+ITEM_20190521_022368	An elegant face of a nobility with voluminous twin rolls.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	양쪽의 소라빵 머리가 인상적인 초롱초롱한 눈망울을 가진 귀족 영애의 얼굴입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20190521_022369	Rose Knight in Shock	충격받은 장미 기사 얼굴
+ITEM_20190521_022370	The shocked visage of the Rose Knight.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	여러가지 사건을 겪어 충격받아 창백해진 장미 기사의 얼굴입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20190521_022371	 - All Quarrel Shooter Skill Level {img green_up_arrow 16 16}1	 - 모든 쿼렐슈터 스킬 레벨{img green_up_arrow 16 16}1 증가
+ITEM_20190521_022372	Elegant Noble Party Costume (Male)	고결한 귀족의 연회복 (남)
+ITEM_20190521_022373	An elegant party-wear worn by the highest nobility of the kingdom of roses.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	장미가 가득한 왕국의 성대한 연회에서 높은 직위를 가진 귀족들이 입었다는 고결한 귀족의 옷입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20190521_022374	Elegant Noble Party Costume (Female)	고결한 귀족의 연회복 (여)
+ITEM_20190521_022375	Red Rose Knight Costume (Male)	붉은 장미의 기사 코스튬 (남)
+ITEM_20190521_022376	Royal guard uniform worn by the Red Rose Knight.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	가슴 속 깊이 불길처럼 타오르는 정열의 장미를 상징하는 기사의 멋진 근위복입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20190521_022377	Red Rose Knight Costume (Female)	붉은 장미의 기사 코스튬 (여)
+ITEM_20190521_022378	White Rose Knight Costume (Male)	흰 장미의 기사 코스튬 (남)
+ITEM_20190521_022379	Royal guard uniform worn by the White Rose Knight.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	민중을 위해 자신을 희생하면서까지 싸우던 흰 장미 기사의 근위복입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20190521_022380	White Knight Rose Costume (Female)	흰 장미의 기사 코스튬 (여)
+ITEM_20190521_022381	Blue Twin Ribbons	아름다운 소녀의 리본
+ITEM_20190521_022382	A ribbon worn by a beautiful girl who lives deep within the mountains.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	머나먼 산골짜기 맑은 물 흐르는 아름다운 자연의 언덕에 사는 소녀가 자주 착용하던 리본이라고 합니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20190521_022383	Honorable Medal Hat	명예로운 훈장의 이각모
+ITEM_20190521_022384	The medals that adorn the hat are representative of the valor you showed on the battlefield.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	모자에 달린 훈장은 수많은 전투를 거쳐온 당신의 공적을 보여주고 있습니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20190521_022385	Rose Knight Hat	장미 기사의 삼각모
+ITEM_20190521_022386	A triangular hat worn by the Red Rose Knight.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	장미의 기사가 쓰고 다니는 근사한 삼각모입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20190521_022387	Elegant Noble Capeline	고결한 귀족의 카플린
+ITEM_20190521_022388	Beautiful capeline worn by the elegant nobility.{nl}Use to change your appearance.{nl}Can be exchanged for Medals at the Exchange Shop.	우아하고 고귀한 귀족만이 착용할 수 있었다는 아름다운 카플린입니다.{nl}착용하면 외형이 변경 됩니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20190521_022389	Impassioned Rose Pistol	정열의 장미 피스톨
+ITEM_20190521_022390	Impassioned Rose Musket	정열의 장미 머스킷
+ITEM_20190521_022391	Impassioned Rose Cannon	정열의 장미 캐논
+ITEM_20190521_022392	Impassioned Rose Rapier	정열의 장미 레이피어
+ITEM_20190521_022393	[Popo Shop] Sword (3 Days)	[Popo Shop] 소드 (3일)
+ITEM_20190521_022394	. Items obtained can be increased to Lv. 400 in correspondence with the owner's level.	을 이용한 유저만 얻을 수 있는 전용 무기입니다. 주인의 레벨에 따라 400 레벨까지 성장합니다.
+ITEM_20190521_022395	[Popo Shop] Two-handed Sword (3 Days)	[Popo Shop] 투 핸드 소드 (3일)
+ITEM_20190521_022396	[Popo Shop] Rod (3 Days)	[Popo Shop] 로드 (3일)
+ITEM_20190521_022397	[Popo Shop] Bow (3 Days)	[Popo Shop] 보우 (3일)
+ITEM_20190521_022398	[Popo Shop] Crossbow (3 Days)	[Popo Shop] 크로스 보우 (3일)
+ITEM_20190521_022399	[Popo Shop] Mace (3 Days)	[Popo Shop] 메이스 (3일)
+ITEM_20190521_022400	[Popo Shop] Spear (3 Days)	[Popo Shop] 스피어 (3일)
+ITEM_20190521_022401	[Popo Shop] Two-handed Spear (3 Days)	[Popo Shop] 투 핸드 스피어 (3일)
+ITEM_20190521_022402	[Popo Shop] Staff (3 Days)	[Popo Shop] 스태프 (3일)
+ITEM_20190521_022403	[Popo Shop] Rapier (3 Days)	[Popo Shop] 레이피어 (3일)
+ITEM_20190521_022404	[Popo Shop] Shield (3 Days)	[Popo Shop] 실드 (3일)
+ITEM_20190521_022405	[Popo Shop] Dagger (3 Days)	[Popo Shop] 대거 (3일)
+ITEM_20190521_022406	[Popo Shop] Cannon (3 Days)	[Popo Shop] 캐논 (3일)
+ITEM_20190521_022407	[Popo Shop] Pistol (3 Days)	[Popo Shop] 피스톨 (3일)
+ITEM_20190521_022408	[Popo Shop] Musket (3 Days)	[Popo Shop] 머스킷 (3일)
+ITEM_20190521_022409	[Popo Shop] Two-handed Mace (3 Days)	[Popo Shop] 투 핸드 메이스 (3일)
+ITEM_20190521_022410	[Popo Shop] Sword (7 Days)	[Popo Shop] 소드 (7일)
+ITEM_20190521_022411	[Popo Shop] Two-handed Sword (7 Days)	[Popo Shop] 투 핸드 소드 (7일)
+ITEM_20190521_022412	[Popo Shop] Rod (7 Days)	[Popo Shop] 로드 (7일)
+ITEM_20190521_022413	[Popo Shop] Bow (7 Days)	[Popo Shop] 보우 (7일)
+ITEM_20190521_022414	[Popo Shop] Crossbow (7 Days)	[Popo Shop] 크로스 보우 (7일)
+ITEM_20190521_022415	[Popo Shop] Mace (7 Days)	[Popo Shop] 메이스 (7일)
+ITEM_20190521_022416	[Popo Shop] Spear (7 Days)	[Popo Shop] 스피어 (7일)
+ITEM_20190521_022417	[Popo Shop] Two-handed Spear (7 Days)	[Popo Shop] 투 핸드 스피어 (7일)
+ITEM_20190521_022418	[Popo Shop] Staff (7 Days)	[Popo Shop] 스태프 (7일)
+ITEM_20190521_022419	[Popo Shop] Rapier (7 Days)	[Popo Shop] 레이피어 (7일)
+ITEM_20190521_022420	[Popo Shop] Shield (7 Days)	[Popo Shop] 실드 (7일)
+ITEM_20190521_022421	[Popo Shop] Dagger (7 Days)	[Popo Shop] 대거 (7일)
+ITEM_20190521_022422	[Popo Shop] Cannon (7 Days)	[Popo Shop] 캐논 (7일)
+ITEM_20190521_022423	[Popo Shop] Pistol (7 Days)	[Popo Shop] 피스톨 (7일)
+ITEM_20190521_022424	[Popo Shop] Musket (7 Days)	[Popo Shop] 머스킷 (7일)
+ITEM_20190521_022425	[Popo Shop] Two-handed Mace (7 Days)	[Popo Shop] 투 핸드 메이스 (7일)
+ITEM_20190521_022426	Glittering Rose Bouquet	샤방샤방 장미꽃 판넬
+ITEM_20190521_022427	A cut-out featuring beautiful roses.{nl}Can be exchanged for Medals at the Exchange Shop.Honorable Medal Hat	옛 순정 만화에서 봤을 법한 장미가 그려진 판넬입니다.{nl}리사이클샵에서 메달로 교환 가능합니다.
+ITEM_20190521_022428	Rose Petal Shower	흩날리는 장밋잎
+ITEM_20190521_022429	You are showered with fluttering rose petals.{nl}Can be exchanged for Medals at the Exchange Shop.	바람에 날아가던 장미가 당신에게 홀리듯 주변을 맴돕니다.{nl}리사이클샵에서 메달로 교환 가능합니다.
+ITEM_20190521_022430	Popo Shop Weapon Selection Box (3 Days)	포포샵 무기 선택 상자 (3일)
+ITEM_20190521_022431	A box containing Popo Shop weapons that grow along with the player. Right-click to use.	주인의 레벨에 따라 400 레벨까지 성장하는 포포샵 무기가 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ITEM_20190521_022432	Popo Shop Weapon Selection Box (7 Days)	포포샵 무기 선택 상자 (7일)
