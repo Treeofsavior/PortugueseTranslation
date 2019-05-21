@@ -3376,7 +3376,7 @@ UI_20180629_003374	Básico{/}
 UI_20180629_003375	{#003997}{b}Estágio Completo: %s
 UI_20180629_003376	{ol}Add ao Carro
 UI_20180629_003377	Current Items
-UI_20180629_003378	{@st41b}{S16}%s% Cupom de Desconto
+UI_20180629_003378	{@st41b}{S16}%s% Desconto
 UI_20180629_003379	{@st41b}{s16}{nl}Trocar
 UI_20180704_003380	Por favor registre um Material de Aparência ou itens equivalentes.
 UI_20180723_003381	{@st42}{s20}Prêmios da Vitória
@@ -3750,7 +3750,7 @@ UI_20190104_003748	99 Days 99 Hours 99 Minutes	99일 99시간 99분
 UI_20190104_003749	  Exchange Vouchers available{/}	  보유중인 교환권{/}			
 UI_20190104_003750	  Remaining Exchange Vouchers{/}	  잔여 교환권{/}			
 UI_20190104_003751	Exchange Voucher to be used	장바구니 교환권			
-UI_20190104_003752	{@st66b}Costume Exchange{/}	{@st66b}계열 코스튬 교환{/}				
+UI_20190104_003752	{@st66b}Class Costumes{/}	{@st66b}계열 코스튬 교환{/}				
 UI_20190104_003753	{@st66b}Rookie Player Shop{/}	{@st66b}신규유저 전용상점{/}			
 UI_20190104_003754	{@st66b}Returning Player Shop{/}	{@st66b}복귀유저 전용상점{/}			
 UI_20190104_003755	Trade your Exchange Vouchers{nl}for a costume	보유 중인 교환권을 {nl}코스튬으로 교환			
