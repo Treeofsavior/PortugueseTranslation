@@ -15380,7 +15380,7 @@ SKILL_20190419_015380	Invasione
 SKILL_20190419_015381	Ataca violentamente o inimigo que estiver na sua frente.
 SKILL_20190419_015382	Taglio
 SKILL_20190419_015383	Avança e ataca os inimigos que estiverem no caminho. Derruba os inimigos que forem alvejados. Velocidade de Movimento aumentada ao utilizar esta habilidade.
-SKILL_20190419_015384	Multiplicador: #{SkillFactor}#%{nl}Velocidade de Movimento: +#{CaptionRatio}#{nl}Duração máximo: #{CaptionTime}# segundos{nl}Consome 3 Stamina por segundo
+SKILL_20190419_015384	Multiplicador: #{SkillFactor}#%{nl}Velocidade de Movimento: +#{CaptionRatio}#{nl}Duração máxima: #{CaptionTime}# segundos{nl}Consome 3 Stamina por segundo
 SKILL_20190419_015385	Quick Draw
 SKILL_20190419_015386	Saca a Pistola para atacar rapidamente o alvo.{nl}Causa 50% a mais de dano em alvos afetados por [Peacemaker: Fatigue].
 SKILL_20190419_015387	Fanning
