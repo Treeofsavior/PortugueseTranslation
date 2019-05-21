@@ -15398,88 +15398,88 @@ SKILL_20190419_015398	Velocidade de Movimento: +#{CaptionRatio}#{nl}Duração do
 SKILL_20190419_015399	Aiming Shot
 SKILL_20190419_015400	Realiza um disparo imprevisível. Os inimigos que estiverem na mira terão seus efeitos benéficos removidos, causando dano adicional baseado o número de efeitos que forem removidos.{nl}Segurar a mira por mais tempo aumenta o número de efeitos removidos.{nl}Causa 50% a mais de dano em alvos afetados por [Peacemaker: Fatigue].
 SKILL_20190419_015401	Multiplicador: #{SkillFactor}#%{nl}Nr. máximo de buffs removidos: #{CaptionRatio}#{nl}Dano adicional por buff removido: +#{CaptionRatio2}#%
-SKILL_20190419_015402	Rykuma	리쿠마				
-SKILL_20190419_015403	Grants temporary immunity to debuffs of rank 4 or below by the Grace of Rykuma.{nl}All activated Dispellers and Charm of Protections will be consumed even while the player is under the effects of immunity.	리쿠마의 가호를 받아, 잠시 동안 4랭크 이하의 디버프에 면역 상태가 됩니다.{nl}버프 효과로 디버프에 면역되더라도, 활성화된 디스펠러나 오마모리는 소모됩니다.				
-SKILL_20190419_015404	Duração: #{CaptionRatio}# segundos{nl}Consumes x1 Lesnterseum	버프 지속시간 #{CaptionRatio}#초{nl}렌스터슘 1개 소모				
-SKILL_20190419_015405	Korup	코르프				
-SKILL_20190419_015406	Reduces your maximum HP by 30% and adds 30% damage for each debuff the target is under. (Maximum of 240% additional damage.)	자신의 최대 HP를 30% 감소시키는 대신, 적 공격시에 적이 걸려 있는 디버프 개수당 30%의 추가 대미지를 줍니다. (추가 대미지는 최대 240%까지 적용됩니다.)				
-SKILL_20190419_015407	Duração: 10 seconds{nl}Consumes x1 Riperium	버프 지속시간 10초{nl}리페리움 1개 소모				
-SKILL_20190419_015408	Increases evasion against physical and magic attacks and reduces damage received from magic circles 	물리, 마법 공격력과 회피가 감소하고 마법진 공격에 받는 피해 증가 	SKILL_20150317_001663	Attack and evasion decrease	공격력과 회피 수치 감소	
-SKILL_20190419_015409	Removes natural recovery and reduces magic defense	자연 회복이 불가능하고, 마법 방어력 하락	SKILL_20150317_001670	Natural recovery impossible, magic defense decreases.	자연 회복이 불가능하고, 마법 방어력이 하락	
-SKILL_20190419_015410	Numb to pain	틍증에 무감각	SKILL_20150414_003907	Insensible to pain.	통증이 무감각 해짐.	
-SKILL_20190419_015411	Grants additional Psychokinesis damage that increases in proportion to your minimum magic attack values. Also increases your Magic Critical Rate.	자신의 최소 마법 공격력에 비례하는 염속성 추가대미지를 입힙니다. 자신의 마법 치명타 확률이 증가합니다.	SKILL_20170512_009451	Deals additional Psychokinesis damage proportional to your magic attack, but increases your taken damage by 50% when attacked with Psychokinesis.	자신의 최소 마법 공격력에 비례하는 염속성 추가대미지를 주지만, 염속성 공격에 피격 시 50% 추가대미지를 입습니다.	
-SKILL_20190419_015412	Leaves cursed footprints in path and caster's movement speed is slowed	지나가는 자리에 저주의 발자국이 찍히고, 시전자는 이동속도 감소	SKILL_20151102_005565	Decreased movement speed	이동속도 감소 상태입니다	
-SKILL_20190419_015413	Being followed by Evil Spirits	악령이 따라오는 상태	SKILL_20161005_006774	Currently in Ghastly Trail state.	사바쓰 상태입니다.	
-SKILL_20190419_015414	Condensation monster behavior	콘덴세이션 몬스터 행동	SKILL_20171128_009868	Condensation	콘덴세이션	
-SKILL_20190419_015415	Decreases the penalties of becoming incapable of combat	사망 시 발생하는 패널티가 줄어듦	SKILL_20190104_013662	Durability Penalty Upon Death Reduced	사망 시 감소하는 장비 내구도가 줄어듦	
-SKILL_20190419_015416	Slash, Pierce and Missile attack damage increase	베기, 찌르기, 총 타입 공격 대미지 증가	SKILL_20190223_015070	Slash and Missile attack damage increase	베기, 총 타입 공격 대미지 증가	
-SKILL_20190419_015417	Gives a chance to [Slow] attacked enemies	공격 당한 적은 일정 확률로 [슬로우] 디버프	SKILL_20190104_013688	1% chance per attribute level of inflicting Slow	적을 공격하면 특성 레벨당 1% 확률로 적 슬로우	
-SKILL_20190419_015418	Knockback and Knockdown resistance for summons	소환수 넉백/넉다운 저항	SKILL_20190223_015072	Knockback and Knockdown resistance	넉백/넉다운 저항	
-SKILL_20190419_015419	Lethargy: Enchant Lethargy	레써지: 인챈트 레써지				
-SKILL_20190419_015420	Gives a chance to apply [Lethargy] to attacked enemies	공격 당한 적은 일정 확률로 [레써지] 디버프				
+SKILL_20190419_015402	Rykuma
+SKILL_20190419_015403	Garante imunidade temporária contra efeitos negativos de Nível 4 ou menor, através da Graça de Rykuma.{nl}Todos os [Dispellers] e [Charm of Protection] que estiverem ativados continuarão sendo consumidos, mesmo que você esteja sobre os efeitos desta imunidade.
+SKILL_20190419_015404	Duração: #{CaptionRatio}# segundos{nl}Consome x1 Lesnterseum
+SKILL_20190419_015405	Korup
+SKILL_20190419_015406	Reduz o seu HP Máximo em 30% e adiciona 30% de dano para cada efeito negativo que o alvo esteja sob efeito (Máximo de 240% de dano adicional).
+SKILL_20190419_015407	Duração: 10 segundos{nl}Consome x1 Riperium
+SKILL_20190419_015408	Aumenta a Evasão contra ataques físicos e mágicos e reduz o dano recebido de círculos mágicos
+SKILL_20190419_015409	Remove a recuperação natural e reduz a defesa mágica
+SKILL_20190419_015410	Insensível à dor
+SKILL_20190419_015411	Garante dano adicional Psíquico que aumenta em proporção ao seu valor de Ataque Mágico mínimo. Também aumenta a Taxa de Crítico.
+SKILL_20190419_015412	Deixa pegadas amaldiçoadas no caminho. Reduz a sua Velocidade de Movimento
+SKILL_20190419_015413	Sendo seguido por Espíritos Malignos
+SKILL_20190419_015414	Condensando comportamento de monstro
+SKILL_20190419_015415	Reduz as penalidades ao ser derrotado em combate
+SKILL_20190419_015416	Aumento da dano do tipo [Corte], [Perfurante] e [Projétil]
+SKILL_20190419_015417	Chance de causar [Slow] nos inimigos alvejados
+SKILL_20190419_015418	Proteção para as invocações contra serem empurrados e derrubados
+SKILL_20190419_015419	Lethargy: Encantar com Letargia
+SKILL_20190419_015420	Chance de causar [Lethargy] nos inimigos alvejados
 SKILL_20190419_015421	Tre Granate: Chamas Persistentes
 SKILL_20190419_015422	Causa dano contínuo
 SKILL_20190419_015423	Dagger Slash: Lâmina Afiada
 SKILL_20190419_015424	Aumenta o ataque utilizando adagas
-SKILL_20190419_015425	Increases the duration of current debuffs.	걸려있는 디버프 시간을 연장됨.	SKILL_20150323_003080	Discerning Evil	디서닝 이블	
-SKILL_20190419_015426	Stigma	낙인	SKILL_20151102_005515	Mastema	마스테마	
-SKILL_20190419_015427	Additional damage from Holy-property attacks	신성 속성 스킬에 추가 대미지	SKILL_20151102_005566	Stigma.	낙인 상태입니다.	
-SKILL_20190419_015428	Periodically summons evil spirits	주기적으로 악령 소환	SKILL_20151224_005945	Invocation.	인보케이션.	
-SKILL_20190419_015429	Increases damage taken from Fire-property magic attacks	불 속성 마법 공격에 피격시 피해량이 증가				
-SKILL_20190419_015430	Increases attack speed.	공격 속도가 상승합니다.	SKILL_20171128_009871	The attack speed is increased, and the evasion rate for the melee attack is increased.	공격 속도가 상승하고, 근접 공격에 대한 회피율이 증가된 상태입니다.	
-SKILL_20190419_015431	Resets Threat	위협도 초기화				
-SKILL_20190419_015432	Receives additional Holy-property damage when taking damage from magic attacks	마법 공격에 피격 시 신성 속성 추가 대미지를 입습니다.	SKILL_20161214_007243	Receives more damage from Magic attacks.	근접 공격에 피격 시 신성 속성 추가 대미지를 입습니다.	
-SKILL_20190419_015433	Cursed by Blood	피의 저주	SKILL_20161005_006592	Blood Curse	블러드 커스	
-SKILL_20190419_015434	Gives the chance to nullify enemy attacks and adds holy-property to attacks, increases magic defense by 10%	적의 공격을 확률적으로 무효화하고 신성 속성을 부여, 마법방어력이 10%증가	SKILL_20161005_006811	Either all physical attacks blocked or magic attacks nullified.	모든 물리 공격이 블록되거나 마법 공격이 무효화 됨.	
-SKILL_20190419_015435	Immunity to [Slow], [Immobility], [Bound]	[슬로우][이동불가][포박] 디버프 면역	SKILL_20171128_009882	Debuff Immunity	디버프에 면역됨	
-SKILL_20190419_015436	Compressed space expands rapidly after 1.5 seconds to deal additional damage	1.5초 후 압축된 공간이 급속도로 팽창하며 추가 대미지	SKILL_20171128_009911	Compressed area expands after 1.5 sec., inflicting damage all around.	1.5초 후에 압축된 공간이 급속도로 확장되며 주변에 대미지를 줍니다.	
-SKILL_20190419_015437	Reduces movement speed and increases non-property attacks	이동속도 감소와 무 속성 추가 대미지	SKILL_20171128_009913	Deals property-less additional damage.	무속성의 추가 대미지를 줍니다.	
-SKILL_20190419_015438	Rubric: Reduce Movement Speed	루브릭: 이동속도 감소	SKILL_20180629_011888	Rubric	루브릭	
-SKILL_20190419_015439	Phantom pain	팬텀 페인	SKILL_20171128_010021	Mastema: Phantom Pain	마스테마: 팬텀 페인	
-SKILL_20190419_015440	Continuous magic damage	지속적인 마법 대미지	SKILL_20180629_011949	Dealing continuous damage.	지속 대미지를 입습니다.	
-SKILL_20190419_015441	Menace Shot: Panic	메니스 샷: 패닉				
-SKILL_20190419_015442	Immobility. Stops all actions in case of monsters	이동불가. 몬스터일 경우 행동도 멈춤				
-SKILL_20190419_015443	Increases damage dealt using cannons	캐논을 사용하는 공격의 대미지 증가				
-SKILL_20190419_015444	Allows dashing during combat	전투 상태일 때도 대시가 가능함				
-SKILL_20190419_015445	Eye of the Tiger: Death Stare	맹수의 눈: 주시				
-SKILL_20190419_015446	Increased Damage	피해량 증가				
-SKILL_20190419_015447	Eye of the Tiger: Retribution	맹수의 눈: 분노				
-SKILL_20190419_015448	Increases critical rate by 30% when attacking targets under debuff	디버프를 건 시전자 공격시 치명타 발생 30% 증가				
-SKILL_20190419_015449	Camouflage. Reduced movement speed	은신. 이동속도 감소				
-SKILL_20190419_015450	Attack cannot be evaded. Stacks reduced by 1 per attack	공격이 무조건 명중함. 공격시 중첩값이 1개씩 줄어듦				
-SKILL_20190419_015451	Evades enemy attack. Increases movement speed	적의 공격을 회피함. 이동속도 증가				
-SKILL_20190419_015452	Recovers HP and STA slightly	HP와 STA가 소량 회복됨				
-SKILL_20190419_015453	Peacemaker: Silence	피스메이커: 침묵				
-SKILL_20190419_015454	Unable to Attack	공격 불가.				
-SKILL_20190419_015455	Tracking: Prey	추적: 사냥감				
-SKILL_20190419_015456	Enemy is treated as Beast-type temporarily to allow for Tiger Hunter skill bonuses to take effect	일시적으로 야수형 판정을 받아, 산포 스킬들에 한해 야수형에 관련된 효과가 발동됨				
+SKILL_20190419_015425	Aumenta a duração dos efeitos negativos atuais.
+SKILL_20190419_015426	Estigma
+SKILL_20190419_015427	Dano adicional de ataques do elemento Divino
+SKILL_20190419_015428	Invoca periodicamente Espíritos Malignos
+SKILL_20190419_015429	Aumenta o dano recebido de magias do elemento Fogo
+SKILL_20190419_015430	Aumenta a Velocidade de Ataque.
+SKILL_20190419_015431	Remove Provocação
+SKILL_20190419_015432	Recebe dano adicional do elemento Divino ao receber dano de ataques mágicos
+SKILL_20190419_015433	Cursed by Blood
+SKILL_20190419_015434	Garante chance de negar ataques inimigos e adiciona o elemento Divino aos ataques, aumentando a Defesa Mágica em 10%
+SKILL_20190419_015435	Imunidade contra [Slow], [Immobility], [Bound]
+SKILL_20190419_015436	Espaço comprimido expande rapidamente após 1.5s para causar dano adicional
+SKILL_20190419_015437	Reduz a Velocidade de Movimento e aumenta ataques sem elemento
+SKILL_20190419_015438	Rubric: Velocidade de Movimento Reduzida
+SKILL_20190419_015439	Castigo Fantasmagórico
+SKILL_20190419_015440	Dano mágico contínuo
+SKILL_20190419_015441	Menace Shot: Pânico
+SKILL_20190419_015442	Imobilidade. Impete todas as ações dos monstros
+SKILL_20190419_015443	Aumenta o dano causado usando Canhões
+SKILL_20190419_015444	Permite correr enquanto estiver em combate
+SKILL_20190419_015445	Eye of the Tiger: Death Stare
+SKILL_20190419_015446	Dano aumentado
+SKILL_20190419_015447	Eye of the Tiger: Retribution
+SKILL_20190419_015448	Aumenta a Taxa de Crítico em 30% ao atacar os alvos sob o debuff
+SKILL_20190419_015449	Camuflagem. Reduz a Velocidade de Movimento
+SKILL_20190419_015450	Ataques não podem ser desviados. Acúmulos reduzem em 1 por ataque
+SKILL_20190419_015451	Desvia de ataques inimigos. Velocidade de Movimento aumentada
+SKILL_20190419_015452	Recupera HP e Stamina lentamente
+SKILL_20190419_015453	Peacemaker: Silence
+SKILL_20190419_015454	Incapaz de atacar
+SKILL_20190419_015455	Tracking: Prey
+SKILL_20190419_015456	Inimigo é considerado da raça Fera temporariamente, permitindo que as habilidades de Tiger Hunter causem os seus bônus
 SKILL_20190419_015457	Camo Shot: Vantagem
 SKILL_20190419_015458	Aumenta a STR e DEX
 SKILL_20190419_015459	Invasione: Avançar
-SKILL_20190419_015460	Pain Barrier: Immunity	페인 배리어: 상태저항				
-SKILL_20190419_015461	Temporary immunity to debuffs	디버프에 대한 일시적 면역				
+SKILL_20190419_015460	Pain Barrier: Imunidade
+SKILL_20190419_015461	Imunidade temporária à debuffs
 SKILL_20190419_015462	Redemption: Velocidade de Movimento Aumentada
-SKILL_20190419_015463	Peacemaker: Fatigue	피스메이커: 무기력				
-SKILL_20190419_015464	The peace of the heart comes from fatigue	마음의 평화는 곧 무기력				
-SKILL_20190419_015465	Increases accuracy and minimum critical rate.	명중과 최소 치명타 확률이 증가합니다.	SKILL_20190104_013768	Increased accuracy.	명중이 증가합니다.	
-SKILL_20190419_015466	Recovers HP continuously	지속적으로 HP 회복	SKILL_20150323_003088	Removes harmful effects	해로운 효과를 해제	
-SKILL_20190419_015467	Immunity to melee attacks, increased damage from missile attacks	밀리 공격 면역, 적 미사일 공격에 받는 대미지 증가	SKILL_20161005_006589	Levitation	레비테이션	
-SKILL_20190419_015468	Temporary immunity to Condensation	콘덴세이션 일시면역				
-SKILL_20190419_015469	Increases Evil Spirit damage	악령 대미지 증가	SKILL_20180320_010547	Sabath damage increased	사바쓰 대미지 증가 상태	
-SKILL_20190419_015470	Granata: Reduced Cooldown	그라나다: 재사용 대기시간 감소				
-SKILL_20190419_015471	Reduces the cooldown of Granata.	그라나다 재사용 대기시간 감소됨.				
+SKILL_20190419_015463	Peacemaker: Fatigue
+SKILL_20190419_015464	A paz do coração vem da fadiga
+SKILL_20190419_015465	Aumenta a Precisão e a Taxa de Crítico mínima.
+SKILL_20190419_015466	Recupera HP continuamente
+SKILL_20190419_015467	Imunidade contra ataques corpo-a-corpo, dano de ataques [Projétil] aumentado
+SKILL_20190419_015468	Imunidade temporária à [Condensation]
+SKILL_20190419_015469	Aumenta o dano do Espírito Maligno
+SKILL_20190419_015470	Granata: Cooldown Reduzido
+SKILL_20190419_015471	Reduz o cooldown de [Granata].
 SKILL_20190419_015472	Heal: Sobrecarga
 SKILL_20190419_015473	Aumenta o Consumo de SP ao utilizar [Heal]
 SKILL_20190419_015474	Out of Body: Absorção
 SKILL_20190419_015475	Aumenta o Multiplicador de [Astral Body Explosion]
-SKILL_20190419_015476	Teeny Chick Owner	뱁새 보유중	SKILL_20160811_006484	Battlebird Owner	전투 뱁새 보유중	
-SKILL_20190419_015477	Increases maximum attack by +250 (Maximum of 250 stacks)	최대 공격력 + 250 증가 (최대 3회 중첩)	SKILL_20190104_013798	Maximum attack + 250 (maximum 3 stacks), unable to evade or block while under the buff.	최대 공격력 + 250 증가 (최대 3회 중첩) 버프에 걸린 본인은 회피, 블록이 불가능해집니다.	
-SKILL_20190419_015478	Decreased Magic Defense by -15%	마법 방어력 15% 감소	SKILL_20190104_013819	Defense -10%	방어력 10% 감소	
-SKILL_20190419_015479	Damage increase +5%, received damage -5% (maximum of 10 stacks)	대미지 증가 +5%, 받는 피해 -5% (최대 10중첩)				
-SKILL_20190419_015480	Grace of Rykuma	리쿠마의 가호				
-SKILL_20190419_015481	Immunity to debuffs or rank 4 or below	4랭크 이하의 디버프 면역 상태				
-SKILL_20190419_015482	Korup's Decay	코르프의 부패				
-SKILL_20190419_015483	Reduces maximum HP by 30% but deals an additional 30% damage for every debuff on enemies. (Maximum of 240% additional damage)	최대 HP 30% 감소하는 대신 적이 걸려 있는 디버프 개수당 30%의 추가 대미지를 줌.(추가 대미지는 최대 240%까지 적용)				
+SKILL_20190419_015476	Dono de um Teeny Chick
+SKILL_20190419_015477	Aumenta o ataque máximo em 250 (máximo de 250 acúmulos)
+SKILL_20190419_015478	Defesa Mágica reduzida em -15%
+SKILL_20190419_015479	Dano +5%, dano recebido -5% (máximo 10 acúmulos)
+SKILL_20190419_015480	Graça de Rykuma
+SKILL_20190419_015481	Imunidade a efeitos negativos de Nível 4 ou menor
+SKILL_20190419_015482	Ruína de Korup
+SKILL_20190419_015483	Reduz o HP Máximo em 30%, porém causa 30% a mais de dano para cada debuff no inimigo (máximo de 240%).
 SKILL_20190419_015484	Growing Evergreen Farming Buff	자라나라 나무나무 파밍 버프				
 SKILL_20190419_015485	Increases looting chance by 1,000 and reduces reidentification costs by 50%.{nl}Also raises the effects of Goddess Statues in Klaipeda by 10x.	자라나라 나무나무! 루팅 찬스가 1,000 증가하며, 장비 재감정에 필요한 비용이 50% 감소합니다. {nl}또한, 클라페다에 있는 탁본 동상 경배 효과가 10배 증가합니다.				
 SKILL_20190419_015486	Growing Evergreen Leveling Buff	자라나라 나무나무 성장 버프				
