@@ -15480,70 +15480,70 @@ SKILL_20190419_015480	Graça de Rykuma
 SKILL_20190419_015481	Imunidade a efeitos negativos de Nível 4 ou menor
 SKILL_20190419_015482	Ruína de Korup
 SKILL_20190419_015483	Reduz o HP Máximo em 30%, porém causa 30% a mais de dano para cada debuff no inimigo (máximo de 240%).
-SKILL_20190419_015484	Growing Evergreen Farming Buff	자라나라 나무나무 파밍 버프				
-SKILL_20190419_015485	Increases looting chance by 1,000 and reduces reidentification costs by 50%.{nl}Also raises the effects of Goddess Statues in Klaipeda by 10x.	자라나라 나무나무! 루팅 찬스가 1,000 증가하며, 장비 재감정에 필요한 비용이 50% 감소합니다. {nl}또한, 클라페다에 있는 탁본 동상 경배 효과가 10배 증가합니다.				
-SKILL_20190419_015486	Growing Evergreen Leveling Buff	자라나라 나무나무 성장 버프				
-SKILL_20190419_015487	Increases the EXP earned from hunting monsters by 70% and increases movement speed by +3.	자라나라 나무나무! 몬스터 직접 처치로 획득하는 경험치가 70% 추가 증가하며, 이동 속도가 +3 증가합니다.				
-SKILL_20190419_015488	Growing Evergreen Upgrade Buff	자라나라 나무나무 장비 업그레이드 버프				
-SKILL_20190419_015489	The cost of silver for enhancement and Blessed Gems for even numbered transcendence are reduced by 50%.	자라나라 나무나무! 장비 강화에 필요한 비용과 짝수 단계 초월에 필요한 축복석 개수가 50% 감소합니다.				
-SKILL_20190419_015490	Growing Evergreen EXP Buff	자라나라 나무나무 경험치 버프				
-SKILL_20190419_015491	Increases the EXP earned from hunting monsters by 30%.	자라나라 나무나무! 몬스터 직접 처치로 획득하는 경험치가 30% 증가합니다.				
-SKILL_20190419_015492	Growing Together	새싹과 함께한				
-SKILL_20190419_015493	You have helped a budding player.{nl} {nl}You are now able to obtain [Episode 11] Adventure Sprouts on your own by completing the various game contents and the amount obtained from defeating monsters is increased by 2x.	새싹과 함께 했습니다.{nl} {nl}보유자와 함께하지 않아도 특정 콘텐츠 클리어 시 약 5초 내에 [Episode11]탐험의 새싹을 획득할 수 있고,{nl}몬스터 처치로 획득하는 수량이 2배 증가합니다.				
-SKILL_20190419_015494	Budding Sprout	자라나는 새싹				
-SKILL_20190419_015495	[Default] HP +5000, SP +2000, Movement Speed +3, Physical/Magic ATK +500{nl}EXP gain increased by +100% until Lv 380, the chance of acquiring [Episode 11] Adventure Sprouts by defeating monsters are increased by 2x{nl}Can obtain [Episode 11] Adventure Sprouts by completing the various game contents	[기본 효과]HP+5000, SP+2000, 이동 속도+3, 물리/마법 공격력+500{nl}380레벨 미만까지 경험치 +100%, 몬스터 처치 시 [Episode11] 탐험의 새싹 획득량 2배{nl}특정 콘텐츠 클리어 시 약 5초 내에 [Episode11]탐험의 새싹 획득 가능				
-SKILL_20190419_015496	 - Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Ability to list up to 10 items on the Market{nl} - Ability to register items in Market outside min./max. price limits{nl} - Ability to retrieve Market silver instantaneously{nl} - Movement speed +3{nl} - +50% EXP from hunting monsters{nl}(Stacks with EXP Tome effects){nl} - Team Storage +30{nl} - Premium Gestures{nl} - Infinite Personal Trades	 - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 마켓 판매금 즉시 수령{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +50% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 팀 창고 +30칸 증가{nl} - 프리미엄 제스쳐 사용 가능{nl} - 개인 거래 무제한	SKILL_20190104_013842	- Reduced Market commission fee (30%{img white_right_arrow 16 16}10%){nl} - Ability to list up to 10 items on the Market{nl} - Ability to retrieve Market silver instantaneously{nl} - Able to register items in Market outside min./max. price limits{nl} - Mo	- 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 10개{nl} - 마켓 판매금 즉시 수령{nl} - 마켓 상/하한가 관계없이 물품 등록 가능{nl} - 캐릭터 이동속도 +3{nl} - 몬스터 처치 시 획득 경험치 증가{nl} - 프리미엄 제스쳐 사용 가능{nl} - 팀 창고 +30칸 증가	
-SKILL_20190419_015497	Adjusts companion movement speed	컴패니언 이동속도 보정				
-SKILL_20190419_015498	Waiting for Gemstone Feud to Begin	광산쟁탈전 대기중				
-SKILL_20190419_015499	Cannot use skills	스킬사용불가				
-SKILL_20190419_015500	Urbas Effect Expired	우르바스 효과 만료				
-SKILL_20190419_015501	The effect of the Urbas Seal will soon expire	우르바스 증표의 효과가 곧 만료됩니다				
-SKILL_20190419_015502	Gradually reduces maximum HP, poison and physical-property damage received increased by 10%	최대 HP가 점차 감소하고, 물리 공격과 독 속성 공격에 대미지 10% 증가	SKILL_20190104_013861	Physical attack and Fire property attack damage +10%	물리 공격과 불 속성 공격에 대미지 10% 증가	
-SKILL_20190419_015503	Gradually reduces maximum HP, poison and physical-property damage received increased by 30%	최대 HP가 점차 감소하고,물리 공격과 독 속성 공격에 대미지 30% 증가	SKILL_20190104_013862	+30% damage on physical attacks and Fire attacks, maximum HP steadily reduced	물리 공격과 불 속성 공격에 대미지 30% 증가, 최대HP가 주기적으로 감소	
-SKILL_20190419_015504	* Allows you to equip [Cloth] armor{nl}* 15% Magic Damage reduced when the player is equipped with 4 pieces of [Cloth] armor	* [천] 계열 방어구 착용 가능{nl}* [천] 계열 방어구 4개 착용 시, 착용자가 받는 마법 피해 15% 감소	SKILL_20190223_015106	* Can equip [Cloth] armor{nl}* When equipped with 4 pieces of [Cloth] armor, reduces magic damage taken in proportion to equipment grade{nl}* Effect is dependent on your lowest equipment grade{nl}　{nl}　- [Normal]: Magic damage taken -5%{nl}　- [Magic]: Magic damage taken -7.5%{nl} 　- [Rare]: Magic damage taken -10%{nl}　- [Unique]: Magic damage taken -12.5%{nl}　- [Legend]: Magic damage taken -15%	* [천] 계열 방어구 착용 가능{nl}* [천] 계열 방어구 4개 착용 시, 방어구 등급에 따라 마법 피해 감소{nl}* 효과는 착용한 방어구 중 가장 낮은 등급을 기준으로 적용{nl}　{nl}　- [노멀] : 마법 피해 5% 감소{nl}　- [매직] : 마법 피해 7.5% 감소{nl} 　- [레어] : 마법 피해 10% 감소{nl}　- [유니크] : 마법 피해 12.5% 감소{nl}　- [레전드] : 마법 피해 15% 감소	
-SKILL_20190419_015505	* Allows you to equip [Leather] armor{nl}* Increases the player's Critical Rate by 20% when equipped with 4 pieces of [Leather] armor	* [가죽] 계열 방어구 착용 가능{nl} * [가죽] 계열 방어구 4개 착용 시, 착용자의 치명타 확률 20% 증가	SKILL_20190223_015107	* Can equip [Leather] armor{nl}* When equipped with 4 pieces of [Leather] armor, increases critical rate in proportion to equipment grade{nl}* Maximum critical rate increased by 10% regardless of equipment grade{nl}* Effect is dependent on your lowest equipment grade{nl}　{nl}　- [Normal]: Critical rate +4%{nl}　- [Magic]: Critical rate +8%{nl}　- [Rare]: Critical rate +12%{nl}　- [Unique]: Critical rate +16%{nl}　- [Legend]: Critical rate +20%	* [가죽] 계열 방어구 착용 가능{nl} * [가죽] 계열 방어구 4개 착용 시, 방어구 등급에 따라 치명타 확률 증가{nl}* 등급과 무관하게 치명타 확률 최대치가 10% 증가{nl} * 효과는 착용한 방어구 중 가장 낮은 등급을 기준으로 적용{nl}　{nl}　- [노멀] : 치명타 확률 4% 증가{nl}　- [매직] : 치명타 확률 8% 증가{nl}　- [레어] : 치명타 확률 12% 증가{nl}　- [유니크] : 치명타 확률 16% 증가{nl}　- [레전드] : 치명타 확률 20% 증가	
-SKILL_20190419_015506	* Allows you to equip [Plate] armor{nl}* 15% Physical Damage reduced when the player is equipped with 4 pieces of [Plate] armor	* [판금] 계열 방어구 착용 가능{nl} * [판금] 계열 방어구 4개 착용 시, 착용자가 받는 물리 피해 15% 감소	SKILL_20190223_015108	* Can equip [Plate] armor{nl}* When equipped with 4 pieces of [Plate] armor, reduces physical damage taken in proportion to equipment grade{nl}* Effect is dependent on your lowest equipment grade{nl}　{nl}　- [Normal]: Physical damage taken -5%{nl}　- [Magic]: Physical damage taken -7.5%{nl}　- [Rare]: Physical damage taken -10%{nl}　- [Unique]: Physical damage taken -12.5%{nl}　- [Legend]: Physical damage taken -15%	* [판금] 계열 방어구 착용 가능{nl} * [판금] 계열 방어구 4개 착용 시, 방어구 등급에 따라 물리 피해 감소{nl}* 효과는 착용한 방어구 중 가장 낮은 등급을 기준으로 적용{nl}　{nl}　- [노멀] : 물리 피해 5% 감소{nl}　- [매직] : 물리 피해 7.5% 감소{nl}　- [레어] : 물리 피해 10% 감소{nl}　- [유니크] : 물리 피해 12.5% 감소{nl}　- [레전드] : 물리 피해 15% 감소	
-SKILL_20190419_015507	* Equips a modified Dragoon helmet.{nl}* Reduces the increase in Dragoon skill damage to 25%, but removes the movement speed penalty and reduces additional SP consumption by 50%.	* 외형이 변경된 드라군 헬멧을 착용합니다.{nl}* 드라군 스킬의 대미지 증가량이 25%로 감소하는 대신 이동속도 감소 효과가 사라지며, 추가 SP 소모값도 50% 감소합니다.	SKILL_20190104_013991	* Equips a modified Dragoon helmet.{nl}* Reduces the increase in Dragoon skill damage to 25%, but removes the movement speed penalty and reduces SP consumption to 1% per second.	* 외형이 변경된 드라군 헬멧을 착용합니다.{nl}* 드라군 스킬의 대미지 증가량이 25%로 감소하는 대신 이동속도 감소 효과가 사라지며, SP 소모값도 1초당 1%로 줄어듭니다.	
-SKILL_20190419_015508	* Resets the cooldown of Paso Doble when an enemy attack is evaded with [Black Slide]{nl}* Consumo de SP + 20%	* [백 슬라이드]로 적의 공격을 회피 시, 파소 도블레 쿨타임 초기화{nl}* SP 소모 20%증가	SKILL_20180827_012340	* Resets the cooldown of Paso Doble when an enemy attack is evaded with [Black Slide]{nl}* Consumo de SP + 20%	* [백 슬라이드]의 100% 회피 기능으로 적의 공격을 회피 시, 파소 도블레 쿨타임 초기화{nl}* SP 소모 20%증가	
-SKILL_20190419_015509	* Limit of attacks of [Sleep] decreases by 80% (min. 1 time){nl}* Enemies affected by [Sleep] will receive 200% damage from Non-Property and Psychokinesis magic attacks	* [슬리프]의 공격 한계치가 80% 감소(최소 1회){nl}* [슬리프]에 걸린 적은 무 속성과 염속성 마법 공격에 2배 피해	SKILL_20180320_010704	* Limit of attacks of [Sleep] decreases by 80% (min. 1 time){nl}* Enemies affected by [Sleep] will receive 200% damage from Non-Property and Psychokinesis magic attacks	* [슬리프]의 공격 한계치가 80% 감소(최소 1회){nl}* [슬리프]에 걸린 적은 무속성과 염속성 마법 공격에 2배 피해	
-SKILL_20190419_015510	Magic Shield: Protect Party	매직 실드: 파티 보호				
-SKILL_20190419_015511	* [Magic Shield] is also applied to nearby party members.{nl}* [Magic Shield] duration: 5 minutes	* [매직 실드]가 근처 파티원에게도 적용 됨.{nl}* [매직 실드] 버프 지속시간은 5분으로 변경				
-SKILL_20190419_015512	* The caster receives [Enchant Lethargy] buff when casting [Lethargy]{nl}* 1% chance per attribute level to apply [Lethargy] to enemies upon attack{nl}* Cannot be used along with [Enchant Slow]{nl}* Consumo de SP + 50%	* 스킬 [레써지] 사용 시, 시전자에게 [인챈트 레써지] 버프 적용{nl}* 적 공격 시 특성 레벨당 1% 확률로 [레써지] 디버프 적용{nl}* [인챈트 슬로우]와 함께 사용할 수 없음{nl}* SP 소모 50%증가				
-SKILL_20190419_015513	Psychokino: Teleportation	사이코키노: 텔레포테이션				
-SKILL_20190419_015514	* Increases the overheat of [Teleportation] by +1	* 스킬 [텔레포테이션]의 오버히트 1 증가				
-SKILL_20190419_015515	Elemental Essence: Balance	엘리멘탈 에센스: 밸런스				
-SKILL_20190419_015516	* Reduces [Elemental Essence]'s damage increase effects by 5% per attribute level while also reducing attack property penalties received by enemies by 5%.	* [엘리멘탈 에센스]의 대미지 증가 효과가 특성 레벨당 5% 감소하는 대신, 약한 속성에 대한 대미지 감소도 특성 레벨당 5% 감소함.				
-SKILL_20190419_015517	* Deals damage to nearby enemies with a 5% chance per attribute level when the summoned familiar of [Summon Familiar] explodes itself{nl}* Consumo de SP + 10%	* 스킬 [사역마 소환]의 사역마가 자폭할 때 특성 레벨당{nl}    5% 확률로 주변 적에게도 같은 피해를 줌{nl}* SP 소모 10%증가	SKILL_20170420_008951	* Deals damage to nearby enemies with a 1% chance per attribute level when the summoned familiar of [Summon Familiar] explodes itself{nl}* Consumo de SP + 10%	* 스킬 [사역마 소환]의 사역마가 자폭할 때 특성 레벨당{nl}    1% 확률로 주변 적에게도 같은 피해를 줌{nl}* SP 소모 10%증가	
-SKILL_20190419_015518	* The caster receives [Enchant Slow] buff when casting [Slow]{nl}* 1% chance per attribute level to apply [Slow] to enemies upon attack{nl}* Cannot be used along with [Enchant Lethargy] and cannot be used in PvP{nl}* Consumo de SP + 50%	* 스킬 [슬로우] 사용 시, 시전자에게 [인챈트 슬로우] 버프 적용{nl}* 적 공격 시 특성 레벨당 1% 확률로 [슬로우] 디버프 적용{nl}* [인챈트 레써지]와 함께 사용할 수 없고, PvP에서 사용할 수 없음{nl}* SP 소모 50%증가	SKILL_20190104_014109	* Casting [Slow] applies the [Enchant Slow] buff to yourself for 60 seconds{nl}* The buff grants a 1% chance per attribute level of applying your current Slow debuff effects to enemies you attack{nl}* Does not apply in PvP{nl}* Consumo de SP + 20%	* [슬로우] 시전 시 자신에게 [인챈트 슬로우] 버프가 60초 동안 적용{nl}* 버프 중 적 공격 시 특성 레벨당 1% 확률로 적에게 자신이 가진 슬로우 효과의 디버프 부여{nl}* PVP 시 적용되지 않음{nl}* SP 소모 20%증가	
-SKILL_20190419_015519	* Grants a 1-time knockback/knockdown immunity to all summons when Skull Mage is summoned{nl}* Buff duration: 45 seconds{nl}* Consumo de SP + 20%	* 해골 마법사 소환 시, 최초 1회에 한하여 소환수들에게 넉백 / 넉다운 면역 버프 부여{nl}* 버프 지속시간 45초{nl}* SP 소모 20%증가	SKILL_20190223_015121	* Grants a 1-time knockback/knockdown immunity to all summons when Skull Mage is summoned{nl}* Buff duration: 30 seconds{nl}* Consumo de SP + 20%	* 해골 마법사 소환 시, 최초 1회에 한하여 소환수들에게 넉백 / 넉다운 면역 버프 부여{nl}* 버프 지속시간 30초{nl}* SP 소모 20%증가	
-SKILL_20190419_015520	Evil Spirit: Darkness	악령: 암흑	SKILL_20180517_011573	Dark Theurge: Blind	다크 써지: 어둠	
-SKILL_20190419_015521	* Enemies hit by Evil Spirits have a 1% chance per attribute level to be afflicted with [Blind] for 10 seconds{nl}* Consumo de SP + 10%	* 악령에 피격되는 적이 특성 레벨당 1% 확률로{nl}    10초 동안 [암흑] 디버프{nl}* SP 소모 10%증가	SKILL_20180517_011574	* Enemies hit by [Dark Theurge] have a 1% chance per attribute level to be afflicted with [Blind] for 10 sec{nl}* Consumo de SP + 10%	* 스킬 [다크 써지]에 피격되는 적이 특성 레벨당 1% 확률로{nl}    10초 동안 [어둠] 디버프{nl}* SP 소모 10%증가	
-SKILL_20190419_015522	* When using [Blood Curse], HP consumption reduced to 40% but duration for [Cursed by Blood] increases by 7 seconds{nl}* Consumo de SP + 30%	* [블러드 커스] 사용 시 HP 소모량이 40%로 감소하는 대신{nl}    적에게 부여하는 [피의 저주] 지속시간이 7초 증가{nl}* SP 소모 30%증가	SKILL_20170420_009008	* When using [Blood Curse], HP consumption rises to 80% but duration for [Blood Curse] increases by 7 seconds{nl}* Consumo de SP + 10%	* [블러드 커스] 사용 시 HP 소모량이 80%으로 증가하는 대신{nl}    적에게 부여하는 [피의 저주]의 지속시간이 7초 증가{nl}* SP 소모 10%증가	
-SKILL_20190419_015523	* Movement speed during [Kurdaitcha] increases to match normal walking speed{nl}* Cooldown increases by 10 seconds	* 스킬 [커다이챠] 중의 이동속도가 보통 뛰는 수준으로 증가{nl}* 재사용 대기시간 10초 증가	SKILL_20170420_009010	* Movement speed during [Kurdaitcha] increases to match normal walking speed{nl}* Consumo de SP + 10%	* 스킬 [커다이챠] 중의 이동속도가 보통 뛰는 수준으로 증가{nl}* SP 소모 10%증가	
-SKILL_20190419_015524	[Kundela Slash] hits multiple times{nl}if the enemy is affected by 2 or more debuffs{nl}* Maximum of 3 hits{nl}* Consumo de SP + 30%	* 대상에게 적용 중인 디버프가 2개 이상일 경우{nl}   디버프 개수만큼 [쿤델라 슬래시] 연타 적용{nl}* 최대 3연타{nl}* SP 소모 30%증가	SKILL_20180827_012369	* [Kundela Slash] hits twice if the enemy is affected by 2 or more debuffs{nl}* Consumo de SP + 30%	* 대상에게 적용 중인 디버프가 2개 이상이라면{nl}   [쿤델라 슬래시]가 2연타로 적용{nl}* SP 소모 30%증가	
-SKILL_20190419_015525	* Increases damage against enemies under [Curse]{nl}by 10% per attribute level when using Dark-property attacks	* [저주] 디버프에 걸린 적을 어둠 속성 스킬로 공격 시{nl}    특성 레벨당 10% 대미지 증가	SKILL_20180827_012372	* Increases the damage of all Featherfoot skills on debuffed enemies by 1.5% per attribute level	* 디버프에 걸린 적에게 모든 페더풋 스킬의 대미지가{nl}    특성 레벨당 1.5% 증가	
-SKILL_20190419_015526	Blood Curse: Aprimorar	블러드 커스: 강화				
-SKILL_20190419_015527	* Increases the skill factor of [Blood Curse] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [블러드 커스]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015528	Kurdaitcha: Aprimorar	커다이챠: 강화				
-SKILL_20190419_015529	* Increases the skill factor of [Kurdaitcha] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [커다이챠]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015530	* Grants immunity to Knock Back and Knockdowns while casting [Rune of Protection].{nl}* [Rune of Protection] Duração: 5 minutes	* [보호의 룬] 시전 시 넉백, 넉다운 면역 버프가 적용됨.{nl}* [보호의 룬] 버프 지속시간은 5분으로 변경	SKILL_20190104_014155	* Applies a buff of immunity against knockback and knockdown when using [Rune of Protection]	* [보호의 룬] 시전 시 넉백, 넉다운 면역 버프가 적용됨	
-SKILL_20190419_015531	Micro Dimension: Confusion	마이크로 디멘션: 혼란	SKILL_20161005_006978	Ultimate Dimension: Confusion	얼티밋 디멘션: 혼란	
-SKILL_20190419_015532	* Grants [Micro Dimension] a 5% chance per attribute level to inflict enemies with [Confusion] debuff for 8 seconds{nl}* Consumo de SP + 20%	* 스킬 [마이크로 디멘션]에 피격된 적이 특성 레벨당 5% 확률로 8초동안 [혼란] 디버프{nl}* SP 소모 20%증가	SKILL_20190104_014163	* Grants [Ultimate Dimension] a 10% chance per attribute level to confuse the enemy for 8 seconds{nl}* Consumo de SP + 20%	* 스킬 [얼티밋 디멘션]에 피격된 적이 특성 레벨당 10% 확률로 8초동안 [혼란] 디버프{nl}* SP 소모 20%증가	
-SKILL_20190419_015533	* Enemies hit receive [Slow] debuff for seconds equal to the attribute level{nl}and receive non-property damage every 0.5 seconds{nl}* Consumo de SP + 30%	* 피격된 적은 [특성 레벨 x 1초]간 [슬로우] 디버프{nl}    0.5초마다 무 속성 추가 대미지 적용{nl}* SP 소모 30%증가	SKILL_20180827_012384	* Enemies hit receive additional property-less damage every 0.5 sec for [attribute level * 1 sec]{nl}* Consumo de SP + 30%	* 피격된 적은 [특성 레벨 x 1초]간 0.5초마다{nl}    무속성 추가 대미지 적용{nl}* SP 소모 30%증가	
-SKILL_20190419_015534	Dimension Compression: Aftermath	디멘션 컴프레션: 충돌 후유증				
-SKILL_20190419_015535	* Grants [Dimension Compression] a 10% chance per attribute level to inflict enemies with [Stun] for 4 seconds{nl}* Consumo de SP + 30%	* 스킬 [디멘션 컴프레션]에 피격 된 적은 특성 레벨당{nl}    10% 확률로 4초 동안 [스턴]{nl}* SP 소모 30%증가				
-SKILL_20190419_015536	Sage: Maestro of Dimension	세이지: 공간연주자				
-SKILL_20190419_015537	* Increases damage against enemies under [Slow] or [Hold] debuff{nl}by 10% per attribute level when using non-property attacks	* [슬로우] 또는 [홀드] 디버프에 걸린 적을 무 속성 스킬로 공격 시{nl}    특성 레벨당 10% 대미지 증가				
-SKILL_20190419_015538	Hole of Darkness: Black Hole	홀 오브 다크니스: 블랙홀				
-SKILL_20190419_015539	* Enemies targeted by [Hole of Darkness] vanish from the sight of other players while the magic circle is active. They are unable to perform any actions while invisible but do not take damage{nl}* Targets reappear when magic circle duration is over and damage received from Hole of Darkness is increased by 50%{nl}* Increases cooldown by 10 seconds	* 스킬 [홀 오브 다크니스]에 피격 당한 적은 마법진이 있는 동안 다른 캐릭터의 시야에서 사라짐. 사라져 있는 동안에는 아무런 행동도 할 수 없지만, 피해를 받지 않는 상태가 됨{nl}* 마법진이 끝날 때 나타남. 홀 오브 다크니스에 의해 받는 피해가 50% 증가됨{nl}* 재사용 대기시간 10초 증가				
-SKILL_20190419_015540	* Increases the block penetration rate of cannon skills{nl}by 6% per attribute level.	* 캐논 스킬로 적 공격시 해당 공격의 블록 관통률이{nl}    특성 레벨당 6% 증가	SKILL_20170313_008085	* Penetrates 6% of an enemy's block chance per attribute level when attacking with Cannoneer skills	* 캐노니어 스킬로 적 공격시 해당 공격의 블록 관통률이{nl}    특성 레벨당 6% 증가	
-SKILL_20190419_015541	* Increases critical rate of some Cannoneer and Matross skills by 1% per attribute level when in the [Kneeling Shot] state{nl}* Applies to the following skills: Cannon Blast, Cannon Shot, Shootdown, Siege Burst, Cannon Barrage, Fire and Run, Explosion, Crouching Strike, Canister Shot	* [닐링 샷] 상태일 때 캐노니어와 매트로스 스킬 공격의 치명타 발생율이 특성 레벨당 1% 증가{nl}* 치명타 발생율 증가 스킬: 캐논 블래스트, 캐논 샷, 슛다운 시즈 버스트, 캐논 배라지, 파이어 앤드 런, 익스플로전, 크라우칭 스트라이크, 캐니스터 샷	SKILL_20180517_011711	* Increases critical rate of some Cannoneer skills by 1% per attribute level when in the [Kneeling Shot] state{nl}* Applies to the following skills: Cannon Blast, Cannon Shot, Shootdown, Siege Burst, Cannon Barrage	* [닐링 샷] 상태일 때 캐노니어 일부 스킬 공격의 치명타 발생율이{nl}    특성 레벨당 1% 증가{nl}* 치명타 발생율 증가 스킬: 캐논 블래스트, 캐논 샷, 슛다운{nl}    시즈 버스트, 캐논 배라지	
-SKILL_20190419_015542	* Ignores part of the enemy's defense according to the type of armor{nl}* 2% per attribute level for Cloth and Leather, 4% per attribute level for Plate{nl}* Increases SP consumption of Canon skills by 10%	* 적 방어구 재질에 따른 방어력 일부 무시{nl}* 천.가죽 계열 특성 레벨당 2% / 판금 계열 특성 레벨당 4%{nl}* 캐논 공격 스킬 SP 소모 10% 증가	SKILL_20180827_012422	* Ignores part of the enemy's defense according to the type of armor{nl}* 2% per attribute level for Cloth and Leather, 4% per attribute level for Plate{nl}* Increases SP consumption of Cannoneer attack skills by 10%	* 적 방어구 재질에 따른 방어력 일부 무시{nl}* 천.가죽 계열 특성 레벨당 2% / 판금 계열 특성 레벨당 4%{nl}* 캐노니어 공격 스킬 SP 소모 10% 증가	
-SKILL_20190419_015543	* Applies 1% of additional attack per attribute level on Musketeer and Tiger Hunter skills{nl}* Reduces movement speed by 1	* 머스킷티어, 산포 스킬 사용 시 특성 레벨당 1% 증가된 공격력 적용{nl}* 이동속도 1 감소	SKILL_20180827_012430	* Applies 1% of additional attack per attribute level on Musketeer skills{nl}* Reduces movement speed by 1	* 머스킷티어 스킬 사용 시 특성 레벨당 1% 증가된 공격력 적용{nl}* 이동속도 1 감소	
-SKILL_20190419_015544	* Deals 50% of the damage of [Down Fall] to enemies within a range of 40 from the skill's original target{nl}* Accelerates [Down Fall]'s cycle by 0.1 seconds{nl}* Alvos: 3 + (Caster Taxa de Ataque em Área/3){nl}* Consumo de SP + 50%	* 스킬 [다운 폴]의 피해 대상 기준 40 범위 내 적에게 [다운 폴]의 50% 대미지 피해{nl}* [다운 폴] 적용 주기 0.1초 증가{nl}* 적용 대상 수 3 + (시전자 광공비 / 3){nl}* SP 소모 50%증가	SKILL_20190104_014307	* Deals 50% of the damage of [Down Fall] to enemies within a range of 50 from the skill's original target{nl}* Accelerates [Down Fall]'s cycle by 2 times{nl}* Consumo de SP + 50%	* 스킬 [다운 폴]의 피해 대상 기준 50 범위 내 적에게 [다운 폴]의 50% 대미지 피해{nl}* [다운 폴] 적용 주기 2배 증가{nl}* SP 소모 50%증가	
-SKILL_20190419_015545	* Increases [Blindside]'s Multiplicador and minimum critical rate by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [약점공격]의 스킬 계수와 최소 치명타 확률이 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20190104_014309	* Increases [Blindside]'s minimum critical chance by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [약점공격] 최소 치명타 확률이 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190419_015546	Overestimate: Aprimorar Allies	과대평가: 파티원 강화				
-SKILL_20190419_015547	* Applies [Overestimate] buff to party members.{nl}* Consumo de SP + 200%	* [과대평가] 버프가 파티원에게도 적용됨.{nl}* SP 소모 200% 증가				
+SKILL_20190419_015484	Growing Evergreen Farming Buff
+SKILL_20190419_015485	Aumenta a Chance de Drop em 1.000 e reduz os custos de reidentificação em 50%.{nl}Também aumenta os efeitos das Estátuas da Deusa em Klaipeda em 10x.
+SKILL_20190419_015486	Growing Evergreen Leveling Buff
+SKILL_20190419_015487	Aumenta a EXP recebida ao derrotar monstros em 70% e aumenta a Velocidade de Movimento em +3.
+SKILL_20190419_015488	Growing Evergreen Upgrade Buff
+SKILL_20190419_015489	O custo de Silver para Refino e Blessed Gems para transcendência em números ímpares é reduzido em 50%.	
+SKILL_20190419_015490	Growing Evergreen EXP Buff
+SKILL_20190419_015491	Aumenta o ganho de EXP ao derrotar monstros em 30%.
+SKILL_20190419_015492	Crescendo Juntos
+SKILL_20190419_015493	Você ajudou um jogador em crescimento!{nl} {nl}Você pode obter '[Episódio 11] Broto da Aventura' por si só, completando vários conteúdos do jogo. A quandidade obtida ao derrotar dos monstros também será dobrada.
+SKILL_20190419_015494	Broto em Crescimento
+SKILL_20190419_015495	[Padrão] HP +5.000, SP +2.000, Velocidade de Movimento +3, Ataque Físico/Mágico +500{nl}+100% de EXP até o Nv 380, chance de obter '[Episódio 11] Broto da Aventura' dobrada ao derrotar monstros{nl}Pode obter '[Episódio 11] Broto da Aventura' ao completar vários conteúdos do jogo
+SKILL_20190419_015496	 - Taxa de comissão do Mercado reduzida (30%{img white_right_arrow 16 16}10%){nl} - Permitido até 10 itens no Mercado{nl} - Pode registrar fora dos valores min/max{nl} - Pode resgatar Silver imediatamente{nl} - Velocidade de Movimento +3{nl} - +50% de EXP derrotando monstros{nl}(Acumula com EXP Tome){nl} - Espaços no Armazém +30{nl} - Gestos Premium{nl} - Trocas 1:1 ilimitadas
+SKILL_20190419_015497	Ajusta a Velocidade de Movimento do Mascote
+SKILL_20190419_015498	Esperando iniciar o Gemstone Feud
+SKILL_20190419_015499	Não pode utilizar habilidades
+SKILL_20190419_015500	Efeito de Urbas expirado
+SKILL_20190419_015501	O efeito do Urbas Seal expira em breve
+SKILL_20190419_015502	Reduz o HP Máximo gradualmente, danos recebidos do tipo Veneno e Físico aumentam em 10%
+SKILL_20190419_015503	Reduz o HP Máximo gradualmente, danos recebidos do tipo Veneno e Físico aumentam em 30%
+SKILL_20190419_015504	* Permite utilizar armaduras do tipo [Tecido]{nl}* -15% de Dano Mágico recebido ao utilizar 4 peças de [Tecido]
+SKILL_20190419_015505	* Permite utilizar armaduras do tipo [Couro]{nl}* +20% de Taxa de Crítico ao utilizar 4 peças de [Couro]
+SKILL_20190419_015506	* Permite utilizar armaduras do tipo [Metal]{nl}* -15% de Dano Físico recebido ao utilizar 4 peças de [Metal]
+SKILL_20190419_015507	* Utilizar um elmo de Dragoon modificado.{nl}* Reduz o aumento no dano das habilidades de Dragoon para 25%, porém remove a penalidade de Velocidade de Movimento e reduz o consumo adicional de SP em 50%.
+SKILL_20190419_015508	* Termina o cooldown de Paso Doble quando um ataque inimigo é desviado com [Black Slide].{nl}* Consumo de SP + 20%
+SKILL_20190419_015509	* Limite de ataques de [Sleep] reduz em 80% (mínimo de 1 vez).{nl}* Inimigos afetados por [Sleep] recebem 200% a mais de dano de ataques mágicos do elemento Psíquico e sem elemento
+SKILL_20190419_015510	Magic Shield: Proteger Grupo
+SKILL_20190419_015511	* [Magic Shield] também se aplica aos membros do grupo que estiverem próximos.{nl}* Duração de [Magic Shield]: 5 minutos
+SKILL_20190419_015512	* Recebe o efeito [Encantar com Letargia] ao utilizar [Lethargy].{nl}* 1% de chance, por nível do atributo, de aplicar [Lethargy] ao atacar os inimigos.{nl}* Não pode ser utilizado junto com [Encantar com Lentidão]{nl}* Consumo de SP + 50%
+SKILL_20190419_015513	Psychokino: Teleporte
+SKILL_20190419_015514	* Aumenta a quantidade de usos de [Teleportation] em +1
+SKILL_20190419_015515	Elemental Essence: Balanço
+SKILL_20190419_015516	* Reduz o aumento de dano de [Elemental Essence] em 5%, por nível do atributo, enquanto também reduz as penalidades elementais em 5%
+SKILL_20190419_015517	* 5% de chance, por nível do atributo, de causar dano nos inimigos ao redor quando um morgeço de [Summon Familiar] explodir.{nl}* Consumo de SP + 10%
+SKILL_20190419_015518	* Recebe o efeito de [Encantar com Lentidão] ao utilizar [Slow].{nl}* 1% de chance, por nível do atributo, de aplicar [Slow] ao atacar os inimigos.{nl}* Não pode ser utilizado junto com [Encantar com Letargia] e também não pode ser utilizado no PvP.{nl}* Consumo de SP + 50%
+SKILL_20190419_015519	* Garante 1 imunidade, para todas as invocações, para que não sejam derrubadas ou empurradas quando um Esqueleto Mago é invocado.{nl}* Duração do efeito: 45 segundos{nl}* Consumo de SP + 20%
+SKILL_20190419_015520	Espírito Maligno: Escuridão
+SKILL_20190419_015521	* Inimigos alvejados por Espíritos Malignos terão 1% de chance, por nível do atributo, de sofrerem [Blind] por 10 segundos.{nl}* Consumo de SP + 10%
+SKILL_20190419_015522	* Ao utilizar [Blood Curse], o Consumo de HP reduz para 40% mas a duração de [Cursed by Blood] aumenta em 7 segundos.{nl}* Consumo de SP + 30%
+SKILL_20190419_015523	* A Velocidade de Movimento retorna ao normal ao utilizar [Kurdaitcha].{nl}* Cooldown aumenta em 10 segundos
+SKILL_20190419_015524	* [Kundela Slash] causa múltiplos golpes no inimigo, caso esteja afedado por 2 ou mais efeitos negativos.{nl}* Máximo de 3 golpes.{nl}* Consumo de SP + 30%
+SKILL_20190419_015525	* Aumenta o dano em inimigos sob o efeito de [Curse] em 10%, por nível do atributo, ao utilizar ataques do elemento Trevas
+SKILL_20190419_015526	Blood Curse: Aprimorar
+SKILL_20190419_015527	* Aumenta o Multiplicador de [Blood Curse] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015528	Kurdaitcha: Aprimorar
+SKILL_20190419_015529	* Aumenta o Multiplicador de [Kurdaitcha] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015530	* Impede que seja derrubado ou empurrado ao conjurar [Rune of Protection].{nl}* Duração de [Rune of Protection]: 5 minutos
+SKILL_20190419_015531	Micro Dimension: Confusão
+SKILL_20190419_015532	* 5% de chance, por nível do atributo, de causar [Confusion] por 8 segundos ao utilizar [Micro Dimension].{nl}* Consumo de SP + 20%
+SKILL_20190419_015533	* Inimigos alvejados recebem o efeito de [Slow] por tantos segundos quanto o nível do atributo.{nl}Também recebem dano não elemental a cada 0.5 segundos.{nl}* Consumo de SP + 30%
+SKILL_20190419_015534	Dimension Compression: Rescaldo
+SKILL_20190419_015535	* 10% de chance, por nível do atributo, de causar [Stun] por 4 segundos ao utilizar [Dimension Compression].{nl}* Consumo de SP + 30%
+SKILL_20190419_015536	Sage: Maestro da Dimensão
+SKILL_20190419_015537	* Aumenta o dano contra inimigos sob efeito de [Slow] ou [Hold] em 10%, por nível do atributo, ao utilizar ataques sem elemento
+SKILL_20190419_015538	Hole of Darkness: Buraco Negro
+SKILL_20190419_015539	* Inimigos afetados por [Hole of Darkness] somem para outra dimensão enquanto o círculo mágico estiver ativo.{nl}* Estes inimigos não poderão realizar nenhuma ação enquanto isso, mas também não recebem dano.{nl}* Os alvos reaparecem quando a duração do círculo mágico acaba e o dano recebido de [Hole of Darkness] é aumentado em 50%.{nl}* Aumenta o cooldown em 10 segundos
+SKILL_20190419_015540	* Aumenta a taxa de Penetração de Bloqueio das habilidades de Canhão em 6% por nível do atributo.
+SKILL_20190419_015541	* Aumenta a Taxa de Crítico de algumas das habilidades de Cannoneer e Matross em 1%, por nível do atributo, enquanto estiver com [Kneeling Shot] ativo.{nl}* Aplica para as seguintes habilidades: [Cannon Blast], [Cannon Shot], [Shootdown], [Siege Burst], [Cannon Barrage], [Fire and Run], [Explosion], [Crouching Strike], [Canister Shot]
+SKILL_20190419_015542	* Ignora parte da defesa do inimigo de acordo com o tipo da armadura.{nl}* 2%, por nível do atributo, para [Tecido] e [Couro].{nl}* 4%, por nível do atributo, para [Metal].{nl}* Consumo de SP das habilidades de Canhão +10%
+SKILL_20190419_015543	* 1%, por nível do atributo, de ataque adicioonal nas habilidades de Mosketeer e Tiger Hunter.{nl}* Reduz a Velocidade de Movimento em 1
+SKILL_20190419_015544	* Causa 50% a mais de dano de [Down Fall] em inimigos dentro de uma área de 40 do alvo original da habilidade.{nl}* Acelera o ciclo de dano de [Down Fall] em 0.1 segundo{nl}* Alvos: 3 + (Taxa de Ataque em Área / 3).{nl}* Consumo de SP + 50%
+SKILL_20190419_015545	* Aumenta o Multiplicador e a Taxa de Crítico mínima de [Blindside] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015546	Overestimate: Aprimorar Aliados
+SKILL_20190419_015547	* Aplica o efeito de [Overestimate] para os membros do grupo.{nl}* Consumo de SP + 200%
 SKILL_20190419_015548	Fire and Run: Aprimorar
 SKILL_20190419_015549	* Aumenta o Multiplicador de [Fire and Run] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190419_015550	Fire and Run: Controlar Distância
@@ -15585,25 +15585,25 @@ SKILL_20190419_015585	Camo Shot: Pastagens
 SKILL_20190419_015586	* Utilizar [Camo Shot] em terrenos com gramas longas aumenta a duração em 5 segundos.{nl}* Também considera a habilidade [Chortasmata].{nl}* Consumo de SP + 30%
 SKILL_20190419_015587	Tracking: Temporada de Caça
 SKILL_20190419_015588	* Atacar inimigos enquanto estiver sob efeito de [Tracking] garante 20% de chance, por nível do atributo, de aplicar [Prey] no inimigo.{nl}* [Prey] compartilha da duração de [Tracking].{nl}* Todas as habilidades de Tiger Hunter que acertarem os inimigos sob este efeito igual como se atacasse um monstro da raça Fera.{nl}- [Rapid Shot]: Aumenta a Taxa de Crítico em 30%{nl}- [Ambush]: [Nv Ambush]x5% de chance de causar [Stun]
-SKILL_20190419_015589	* Increases the chance for [Cure] to remove additional debuffs by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [큐어]의 디버프 추가 제거 확률이 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	SKILL_20190104_014323	* Increases the skill factor of [Cure] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [큐어]의 스킬 계수가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가	
-SKILL_20190419_015590	* Increases the minimum critical rate of all Dark-property attacks{nl}on enemies under [Hexing] by 2% per attribute level{nl}* Consumo de SP + 10%	* [헥싱]에 걸린 적을 공격 한 어둠 속성 스킬은 {nl}    최소 치명타 확률이 특성 레벨당 2% 추가 적용{nl}* SP 소모 10%증가	SKILL_20170420_009235	* Enemies affected by [Hexing] will receive 10% additional damage per attribute level from Dark property attacks{nl}* Consumo de SP + 10%	* [헥싱]에 걸린 적은 어둠 속성 공격에 특성 레벨당 10%{nl}    추가 대미지{nl}* SP 소모 10%증가	
-SKILL_20190419_015591	Grace Additional Holy Hits: Aprimorar	축복 신성 추가타: 강화				
-SKILL_20190419_015592	* Increases the damage inflicted by additional Holy Hits given by [Grace: Additional Holy Hits] in [Spell Shop] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [주문 판매상점 개설]에 등록된 [축복: 신성 추가타] 버프의 신성 속성 추가 공격 대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015593	Grace: Additional Holy Damage	축복 신성 추가 대미지: 강화				
-SKILL_20190419_015594	* Increases the additional Holy Damage given by [Grace: Additional Holy Damage] in [Spell Shop] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [주문 판매상점 개설]에 등록된 [축복: 신성 추가 대미지] 버프의 추가대미지가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015595	Grace: Increase Magic Defense	축복 마법 방어력 증가: 강화				
-SKILL_20190419_015596	* Increases the additional magic defense given by [Grace: Increase Magic Defense] in [Spell Shop] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [주문 판매상점 개설]에 등록된 [축복: 마법 방어력 증가] 버프의 마법 방어력 증가 효과가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015597	Grace Increase Physical Defense: Aprimorar	축복 물리 방어력 증가: 강화				
-SKILL_20190419_015598	* Increases the additional physical defense given by [Grace: Increase Physical Defense] in [Spell Shop] by 0.5% per attribute level{nl}* +10% de aumento adicional no nível máximo	* [주문 판매상점 개설]에 등록된 [축복: 물리 방어력 증가] 버프의 물리 방어력 증가 효과가 특성 레벨당 0.5% 증가{nl} * 최고 레벨 마스터 시 10% 추가로 증가				
-SKILL_20190419_015599	* Decreases the interval of [Incineration]'s hits by 0.2 seconds{nl}* Consumo de SP + 30%	* 스킬 [소각]의 대미지 연타 주기가 0.2초 감소{nl}* SP 소모 30%증가	SKILL_20180827_012469	* Decreases the interval of [Incineration]'s hits by 0.1 sec{nl}* Consumo de SP + 30%	* 스킬 [소각]의 대미지 연타 주기가 0.1초 감소{nl}* SP 소모 30%증가	
-SKILL_20190419_015600	*Decreases the accuracy of enemies within [Storm Calling] range by 2% per attribute level	* [호풍환우부] 범위에 있는 적 명중 특성 레벨당 2% 감소	SKILL_20190104_014463	* Decreases the accuracy of enemies within [Storm Calling] range	* [호풍환우부] 범위에 있는 적 명중 감소	
-SKILL_20190419_015601	Kagura: Nightingale Dance	카구라: 꾀꼬리 춤				
-SKILL_20190419_015602	* Decreases the critical resistance of enemies within [Kagura]'s range by 3% per attribute level and grants party members under the effects of [Kagura] the ability to ignore enemy's Magic Defense by 3% per attribute level.{nl}* Consumo de SP + 30%	* [카구라] 범위 안에 있는 적은 치명타 저항이 특성 레벨당 3% 감소 하며, [카구라] 버프 효과를 받는 아군이 해당 적을 마법으로 공격할 때 적의 마법 방어력을 특성 레벨당 3% 만큼 무시함{nl}* SP 소모 30% 증가				
-SKILL_20190419_015603	* Increases damage received by enemies when hit by the critical attacks from Blind Faith by 10% per attribute level for 10 sec.	* 스킬 [블라인드 페이쓰]의 추가 대미지에 피격된 적은 10초간{nl}    받는 치명타 피해에 대해 대미지가 특성 레벨당 10% 증가	SKILL_20171128_010178	* Increases critical damage dealt to enemies hit by the additional damage of Blind Faith by 10% per attribute level for 10 sec.	* 스킬 [블라인드 페이쓰]의 추가 대미지에 피격된 적은 10초간{nl}    받는 치명타 대미지가 특성 레벨당 10% 증가	
-SKILL_20190419_015604	Free Step: Aprimorar	프리 스텝: 강화	SKILL_20190104_014492	Free Step: Aprimorar	프리 스텝 : 강화	
-SKILL_20190419_015605	* Evade all enemy attacks during [Mangle] except for unevadable attacks{nl}* Consumo de SP + 20%	* [난도질] 사용 중에 회피 불가 공격은 제외한 적의 공격을 회피{nl}* SP 소모 20% 증가	SKILL_20190104_014537	* Allows you to evade all attacks while [Mangle] is in use{nl}* Consumo de SP + 20%	* [난도질] 사용 중에 모든 공격을 회피{nl}* SP 소모 20% 증가	
-SKILL_20190419_015606	* Evade all enemy attacks during [Blindfire] except for unevadable attacks{nl}* Consumo de SP + 20%	* [난사] 사용 중에 회피 불가 공격은 제외한 적의 공격을 회피{nl}* SP 소모 20% 증가	SKILL_20190104_014542	* Allows you to evade all attacks while [Blindfire] is in use{nl}* Consumo de SP + 20%	* [난사] 사용 중에 모든 공격을 회피{nl}* SP 소모 20% 증가	
-SKILL_20190419_015607	* Increases [Blindfire]'s damage by 30% when a critical attack lands{nl}* Consumo de SP + 20%	* [난사]가 치명타로 적중 했을 때, 최종 대미지가 30% 증가{nl}* SP 소모 20% 증가	SKILL_20190104_014544	* Increases [Blindfire]'s critical damage by 30%{nl}* Consumo de SP + 20%	* [난사]가 치명타 대미지가 30% 증가{nl}* SP 소모 20% 증가	
+SKILL_20190419_015589	* Aumenta a chance de [Cure] remover um debuff adicional em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015590	* Aumenta a Taxa de Crítico mínima de todos os ataques do elemento Trevas em inimigos sob efeito de [Hexing] em 2% por nível do atributo.{nl}* Consumo de SP + 10%
+SKILL_20190419_015591	Graça: Ataque Adicional Divino
+SKILL_20190419_015592	* Aumenta o dano causado por [Graça: Ataque Adicional Divino], vendido no [Spell Shop], em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015593	Graça: Dano Adicional Divino
+SKILL_20190419_015594	* Aumenta o dano adicional causado por [Graça: Dano Adicional Divino], vendido no [Spell Shop], em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015595	Graça: Aumentar Defesa Mágica
+SKILL_20190419_015596	* Aumenta o ganho de Defesa Mágica de [Graça: Aumentar Defesa Mágica], vendido no [Spell Shop], em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015597	Graça: Aumentar Defesa Física
+SKILL_20190419_015598	* Aumenta o ganho de Defesa Física de [Graça: Aumentar Defesa Física], vendido no [Spell Shop], em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
+SKILL_20190419_015599	* Reduz o intervalo de [Incineration] em 0.2 segundos.{nl}* Consumo de SP + 30%
+SKILL_20190419_015600	* Reduz a Precisão dos inimigos dentro da área de [Storm Calling] em 2% por nível do atributo
+SKILL_20190419_015601	Kagura: Dança do Rouxinol
+SKILL_20190419_015602	* Reduz a Resistência à Crítico dos inimigos dentro da área de [Kagura] em 3% por nível do atributo.{nl}* Aliados dentro da área ignoram 3%, por nível do atributo, da Defesa Mágica do inimigo.{nl}* Consumo de SP + 30%
+SKILL_20190419_015603	* Aumenta o dano causado nos inimigos acertados pelos ataques críticos de [Blind Faith] em 10%, por nível do atributo, por 10 segundos.
+SKILL_20190419_015604	Free Step: Aprimorar
+SKILL_20190419_015605	* Permite evadir todos os ataques enquanto estiver utilizando [Mangle], exceto ataques que não podem ser desviados.{nl}* Consumo de SP + 20%
+SKILL_20190419_015606	* Permite evadir todos os ataques enquanto estiver utilizando [Blindfire], exceto ataques que não podem ser desviados.{nl}* Consumo de SP + 20%
+SKILL_20190419_015607	* Aumenta o dano de [Blindfire] em 30% ao causar um ataque crítico.{nl}* Consumo de SP + 20%
 SKILL_20190419_015608	Granata: Aprimorar
 SKILL_20190419_015609	* Aumenta o Multiplicador de [Granata] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190419_015610	Tre Granate: Aprimorar
@@ -15634,39 +15634,39 @@ SKILL_20190419_015634	Redemption: Escapar
 SKILL_20190419_015635	* Dobra o ganho de Velocidade de Movimento de [Redemption], porém reduz a duração pela metade.{nl}* Consumo de SP + 30%
 SKILL_20190419_015636	Peacemaker: Desarmar
 SKILL_20190419_015637	* Se um outro jogador estiver sob o efeito de [Peacemaker: Silence], será adicionado 1% de chance, por nível do atributo, de desarmar o alvo.{nl}* Consumo de SP + 30%
-SKILL_20190419_015638	Overestimate Nv5 ou mais	과대평가 5레벨 이상				
-SKILL_20190419_015639	Granata Nv1 ou mais	그라나다 1레벨 이상				
-SKILL_20190419_015640	Tre Granate Nv1 ou mais	트레 그라나다 1레벨 이상				
-SKILL_20190419_015641	Ritirarsi Nv1 ou mais	리티라르시 1레벨 이상				
-SKILL_20190419_015642	Recupero Nv1 ou mais	레쿠페로 1레벨 이상				
-SKILL_20190419_015643	Invasione Nv1 ou mais	인바시오네 1레벨 이상				
-SKILL_20190419_015644	Taglio Nv1 ou mais	탈리오 1레벨 이상				
-SKILL_20190419_015645	Personagem Nv400 ou mais	캐릭터 400레벨 이상				
-SKILL_20190419_015646	Kurdaitcha Nv1 ou mais	커다이챠 1레벨 이상				
-SKILL_20190419_015647	Blood Curse Nv1 ou mais	블러드 커스 1레벨 이상				
-SKILL_20190419_015648	Fire and Run Nv1 ou mais	파이어 앤드 런 1레벨 이상				
-SKILL_20190419_015649	Explosion Nv1 ou mais	익스플로전 1레벨 이상				
-SKILL_20190419_015650	Crouching Strike Nv1 ou mais	크라우칭 스트라이크 1레벨 이상				
-SKILL_20190419_015651	Canister Shot Nv1 ou mais	캐니스터 샷 1레벨 이상				
-SKILL_20190419_015652	Spell Shop Nv1 ou mais	주문 판매상점 개설 1레벨 이상				
-SKILL_20190419_015653	Teleportation Nv1 ou mais	텔레포테이션 1레벨 이상				
-SKILL_20190419_015654	Micro Dimension Nv5 ou mais	마이크로 디멘션 5레벨 이상				
-SKILL_20190419_015655	Dimension Compression Nv5 ou mais	디멘션 컴프레션 5레벨 이상				
-SKILL_20190419_015656	Quick Draw Nv1 ou mais	퀵 드로우 1레벨 이상				
-SKILL_20190419_015657	Fanning Nv1 ou mais	패닝 1레벨 이상				
-SKILL_20190419_015658	Peacemaker Nv1 ou mais	피스메이커 1레벨 이상				
-SKILL_20190419_015659	Peacemaker Nv1 ou mais	피스메이커 5레벨 이상				
-SKILL_20190419_015660	Aiming Shot Nv1 ou mais	에이밍 샷 1레벨 이상				
-SKILL_20190419_015661	Piercing Shot Nv1 ou mais	관통 사격 1레벨 이상				
-SKILL_20190419_015662	Rapid Shot Nv1 ou mais	연발 사격 1레벨 이상				
-SKILL_20190419_015663	Ambush Nv1 ou mais	기습 1레벨 이상				
-SKILL_20190419_015664	Invocation Nv1 ou mais	인보케이션 1레벨 이상				
-SKILL_20190419_015665	Lethargy Nv5 ou mais	레써지 5레벨 이상				
-SKILL_20190501_015666	Summon a Tree Shikigami. The summoned Shikigami sprouts from the ground, dealing continuous damage and pulling in nearby enemies. Once fully grown, the Shikigami disappears, slowing down enemies around it.{nl}{/}{#00113F}Enemies hit by the Shikigami have their Slow debuff extended by 5 seconds.	나무의 식신령을 불러 생목을 급속도로 자라나게 합니다. 자라나는 나무는 주변의 적에게 계속해서 대미지를 주며 적을 끌어당깁니다. 완전히 자라난 후에는 사라지며 적들을 느려지게 합니다.{nl}{/}{#00113F}생목의 식신령 범위에 피격 중인 적이 슬로우 스킬에 당하면 생목의 식신령 디버프 지속시간이 5초 증가합니다.{/}	SKILL_20190104_013077	Summon a Tree Shikigami. The summoned Shikigami sprouts from the ground, dealing continuous damage and pulling in nearby enemies. Once fully grown, the Shikigami disappears, slowing down enemies around it.{nl}{#00113F}Enemies hit by the Shikigami have their Slow debuff extended by 5 seconds.{/}	나무의 식신령을 불러 생목을 급속도로 자라나게 합니다. 자라나는 나무는 주변의 적에게 계속해서 대미지를 주며 적을 끌어당깁니다. 완전히 자라난 후에는 사라지며 적들을 느려지게 합니다.{nl}{#00113F}생목의 식신령 범위에 피격 중인 적이 슬로우 스킬에 당하면 생목의 식신령 디버프 지속시간이 5초 증가합니다.{/}	
-SKILL_20190501_015667	Inflicts Holy-property magic damage to enemies all around, with a chance of defeating Mutant or Demon enemies instantly (does not apply to characters or boss monsters).{nl}{#00113F}Mutant and Demon enemies under the Malleus Maleficarum debuff that survive Turn Undead become stunned for 3 seconds.{nl}{/}{#00113F}While Engkrateia is active, the AoE attack ratio of Turn Undead increases by 50%.{/}	전방의 적에게 신성 속성 마법 대미지를 주며 확률적으로 캐릭터 및 보스 몬스터를 제외한 변이형 또는 악마형 적을 한 번에 처치합니다.{nl}{#00113F}마도 심판 디버프에 걸린 변이형 또는 악마형이 턴 언데드에 맞고 살았다면 3초간 스턴에 빠집니다.{nl}{/}{#00113F}엥크라테이야 버프 적용 중에는 턴 언데드의 광역 공격 비율이 50% 증가합니다.{/}	SKILL_20190104_013331	Inflicts Holy-property magic damage to enemies all around, with a chance of defeating Mutant or Demon enemies instantly (does not apply to characters or boss monsters).{nl}{#00113F}Mutant and Demon enemies under the Malleus Maleficarum debuff that survive Turn Undead become stunned for 3 seconds.{/}{nl}{#00113F}While Engkrateia is active, the AoE attack ratio of Turn Undead increases by 50%.{/}	전방의 적에게 신성 속성 마법 대미지를 주며 확률적으로 캐릭터 및 보스 몬스터를 제외한 변이형 또는 악마형 적을 한 번에 처치합니다.{nl}{#00113F}마도 심판 디버프에 걸린 변이형 또는 악마형이 턴 언데드에 맞고 살았다면 3초간 스턴에 빠집니다.{nl}{#00113F}엥크라테이야 버프 적용 중에는 턴 언데드의 광역 공격 비율이 50% 증가합니다.{/}	
-SKILL_20190501_015668	* While under the effect of [Ein Sof], the amount recovered by [Heal] and [Mass Heal] increases by 30%{nl}* While under the effect of [Ein Sof], the amount of HP recovered increases by 30%{nl}* Both effects do not stack with each other	* [아인 소프]의 효과를 받고 있는 동안 사용하는{nl}    [힐], [매스 힐] 스킬의 회복 효과가 30% 증가{nl}* [아인 소프]의 효과를 받고 있는 동안 HP 회복 효과가 30% 증가{nl}* 위 효과는 중첩되지 않음	SKILL_20170912_009657	* While under the effect of [Ein Sof], the amount recovered by [Heal] and [Mass Heal] doubles{nl}* While under the effect of [Ein Sof], the amount of HP recovered doubles{nl}* Both effects do not stack with each other{nl}* Effects decrease by 30% inside Team Battle League	* [아인 소프]의 효과를 받고 있는 동안 사용하는{nl}    [힐], [매스 힐] 스킬의 회복 효과가 2배 증가{nl}* [아인 소프]의 효과를 받고 있는 동안 HP 회복 효과가 2배 증가{nl}* 위 효과는 중첩되지 않음{nl}* 위 효과는 팀 배틀 리그 내에서 70%적용	
-SKILL_20190521_015669	Skill Factor: #{SkillFactor}#%{nl}Target: #{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds	스킬 계수 #{SkillFactor}#%{nl}적용 대상 수 #{CaptionRatio}#{nl}지속시간 #{CaptionRatio2}#초	SKILL_20190104_012950	Skill Factor: #{SkillFactor}#%{nl}Targets: #{CaptionRatio}#{nl}Duration: 10 seconds	스킬 계수 #{SkillFactor}#%{nl}적용 대상 수 #{CaptionRatio}#{nl}지속시간 10초	
-SKILL_20190521_015670	Swing your dagger towards the enemy's neck. Attacked enemies become afflicted with [Behead: Bleeding]. Inflicting damage using [Behead: Bleeding] while cloaked, does not remove the [Cloaking] debuff. In PvP, your character moves behind the enemy to attack.{nl}{#00113F}Deals additional +200% damage when used while under the [Cloaking] debuff.{/}	단검을 휘둘러 적의 목을 공격합니다. 공격당한 적은 [카트 라시흐：출혈] 디버프에 걸립니다. [카트 라시흐: 출혈]로 대미지를 줄 땐 클로킹 버프가 풀리지 않습니다. [카트 라시흐: 출혈]의 대미지는 캐릭터의 최소 공격력을 넘지 않습니다. PVP시에는 적의 뒤로 이동하여 공격합니다.{nl}{#00113F}[클로킹] 상태에서 카트 라시흐로 공격 시, 200% 추가대미지를 입힙니다.{/}	SKILL_20190419_015352	Swing your dagger towards the enemy's neck. Attacked enemies become afflicted with [Behead: Bleeding]. Inflicting damage using [Behead: Bleeding] while cloaked, does not remove the [Cloaking] debuff. In PvP, your character moves behind the enemy to attack.{nl}{#00113F}Deals 200% additional damage if used when your character is in a cloaked state.{/}	단검을 휘둘러 적의 목을 공격합니다. 공격당한 적은 [카트 라시흐：출혈] 디버프에 걸립니다. [카트 라시흐: 출혈]로 대미지를 줄 땐 클로킹 버프가 풀리지 않습니다. PVP시에는 적의 뒤로 이동하여 공격합니다.{nl}{#00113F}[클로킹] 상태에서 카트 라시흐로 공격 시, 200% 추가대미지를 입힙니다.{/}	
-SKILL_20190521_015671	Beautiful rose petals flutter around you.	마치 장미에게 선택받은 듯, 자신의 주변에 장미가 흩날립니다.				
-SKILL_20190521_015672	* Decreases time of [Broom Trap]'s rotation by 1 second{nl}and increase the number of rotations by 2.5 cycles per attribute level.{nl}* Increases SP consumption by 10%	* 스킬 [브룸 트랩]의 1회전 소요시간이 1초{nl}    감소하고, 회전수가 2.5 증가{nl}* SP 소모 10%증가	SKILL_20180517_011661	* Decreases time of first rotation by 0.3 seconds and increases number of rotations for [Broom Trap] by 0.8 per attribute level{nl}* Increases SP consumption by 10%	* 스킬 [브룸 트랩]의 1회전 소요시간이 특성 레벨당 0.3초{nl}    감소하고, 회전수가 특성 레벨당 0.8 증가{nl}* SP 소모 10%증가	
-SKILL_20190521_015673	* Applies the Bleeding damage of [Behead] in proportion to the target's maximum HP but reduces the duration of [Behead: Bleeding] by 50%.{nl} * Does not apply to boss monsters, and the amount of Bleeding will not exceed 5% of the caster's maximum HP{nl}* Increases SP consumption by 30%	* [카트 라시흐]의 출혈 대미지가 대상의 최대 HP에 비례하여 추가 적용되는 대신 [카트 라시흐: 출혈]의 지속시간이 50% 감소합니다.{nl} * 단, 보스 몬스터에게는 적용되지 않으며, 출혈량은 시전자의 최대 HP 5%를 넘지 않음{nl}* SP 소모 30% 증가	SKILL_20190223_015136	* Applies the Bleeding damage of [Behead] in proportion to the target's maximum HP, but reduces the duration of [Behead: Bleeding] by 50%{nl} * Does not apply to boss monsters, and the amount of Bleeding will not exceed 5% of the caster's maximum HP{nl}* Increases SP consumption by 30%	* [카트 라시흐]의 출혈 대미지가 대상의 최대 HP에 비례하여 적용되는 대신 [카트 라시흐: 출혈]의 지속시간이 50% 감소합니다.{nl} * 단, 보스 몬스터에게는 적용되지 않으며, 출혈량은 시전자의 최대 HP 5%를 넘지 않음{nl}* SP 소모 30% 증가	
+SKILL_20190419_015638	Overestimate Nv5 ou mais
+SKILL_20190419_015639	Granata Nv1 ou mais
+SKILL_20190419_015640	Tre Granate Nv1 ou mais
+SKILL_20190419_015641	Ritirarsi Nv1 ou mais
+SKILL_20190419_015642	Recupero Nv1 ou mais
+SKILL_20190419_015643	Invasione Nv1 ou mais
+SKILL_20190419_015644	Taglio Nv1 ou mais
+SKILL_20190419_015645	Personagem Nv400 ou mais
+SKILL_20190419_015646	Kurdaitcha Nv1 ou mais
+SKILL_20190419_015647	Blood Curse Nv1 ou mais
+SKILL_20190419_015648	Fire and Run Nv1 ou mais
+SKILL_20190419_015649	Explosion Nv1 ou mais
+SKILL_20190419_015650	Crouching Strike Nv1 ou mais
+SKILL_20190419_015651	Canister Shot Nv1 ou mais
+SKILL_20190419_015652	Spell Shop Nv1 ou mais
+SKILL_20190419_015653	Teleportation Nv1 ou mais
+SKILL_20190419_015654	Micro Dimension Nv5 ou mais
+SKILL_20190419_015655	Dimension Compression Nv5 ou mais
+SKILL_20190419_015656	Quick Draw Nv1 ou mais
+SKILL_20190419_015657	Fanning Nv1 ou mais
+SKILL_20190419_015658	Peacemaker Nv1 ou mais
+SKILL_20190419_015659	Peacemaker Nv1 ou mais
+SKILL_20190419_015660	Aiming Shot Nv1 ou mais
+SKILL_20190419_015661	Piercing Shot Nv1 ou mais
+SKILL_20190419_015662	Rapid Shot Nv1 ou mais
+SKILL_20190419_015663	Ambush Nv1 ou mais
+SKILL_20190419_015664	Invocation Nv1 ou mais
+SKILL_20190419_015665	Lethargy Nv5 ou mais
+SKILL_20190501_015666	Invoca o shikigami da árvore, que irá crescer vindo da terra, causando dano contínuo e puxando os inimigos ao redor. Ao final, o shikigami desaparece e reduz a velocidade dos inimigos ao redor.{nl}{/}{#00113F}Inimigos que sofrerem dano do shikigami terão o efeito de [Slow] extendido em 5 segundos.{/}
+SKILL_20190501_015667	Causa dano mágico Divino nos inimigos ao redor. Chance de derrotar instantaneamente inimigos da raça Mutante ou Demônio (não se aplica à outros personagens ou monstros Chefe).{nl}{#00113F}Inimigos da raça Mutante ou Demônio sob o efeito de [Malleus Maleficarum] sofrerão [Stun] por 3 segundos.{nl}{/}{#00113F}Enquanto [Engkrateia] estiver ativo, a Taxa de Ataque em Área de [Turn Undead] aumenta em 50%.{/}
+SKILL_20190501_015668	* Enquanto estiver sob efeito de [Ein Sof], a quantidade recperada por [Heal] e [Mass Heal] aumenta em 30%.{nl}* Enquanto estiver sob efeito de [Ein Sof], a quantidade de HP recuperado aumenta em 30%.{nl}* Ambos os efeitos não podem ser combinados
+SKILL_20190521_015669	Multiplicador: #{SkillFactor}#%{nl}Alvos: #{CaptionRatio}#{nl}Duração: #{CaptionRatio2}# segundos
+SKILL_20190521_015670	Direciona a sua adaga para o pescoço do inimigo. Alvos atacados sofrerão [Behead: Bleeding]. [Cloaking] não será removido com o dano de [Behead: Bleeding]. No PvP, você atacará o inimigo pelas costas.{nl}{#00113F}Causa 200% a mais de dano enquanto estiver escondido.{/}
+SKILL_20190521_015671	Lindas pétalas de rosas rodopiam ao redor de você.
+SKILL_20190521_015672	* Reduz o tempo de rotação de [Broom Trap] em 1 segundo e aumenta o número de rotaçãos em 2.5 ciclos, por nível do atributo.{nl}* Consumo de SP + 10%
+SKILL_20190521_015673	* Aplica o dano de [Bleed] de [Behead] em proporção ao HP Máximo do alvo, porém reduz em 50% a duração de [Behead: Bleeding].{nl} * Não se aplica para monstros Chefe, e o valor não ultrapassará 5% do seu HP Máximo.{nl}* Consumo de SP + 30%
