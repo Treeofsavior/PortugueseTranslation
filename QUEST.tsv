@@ -5860,7 +5860,7 @@ QUEST_20170420_005865	Deseja entra na Bokor Master's Home?
 QUEST_20170420_005866	Deseja entra no Highlander Master's Training Hall?
 QUEST_20170420_005867	Deseja entra no Pyromancer Master's Lab?
 QUEST_20170420_005868	Este é um aviso para todos os aventureiros que tentarem entrar em Rancid Labyrinth!{nl}O Exército Real relatou que esta dungeon é habitada atualmente por um grande número de demônios.
-QUEST_20170420_005869	Kupole Ajudante de Reset
+QUEST_20170420_005869	{@st41}{#FF6700}Kupole Ajudante de Reset{/}{/}
 QUEST_20170420_005870	"Estamos fornecendo itens para resetar status, skills e rank todos os dias."
 QUEST_20170420_005871	Você já recebeu seus itens de redefinição hoje.
 QUEST_20170420_005872	"Retirar o livre arbítrio dos humanos é condenado até pelas Deusas.{nl}Mas o que o Mestre Monk Olfas Grimm planejou, sendo certo ou errado, prejudica muitas pessoas e pode até matá-las.{nl}É isso que me entristece."
@@ -7148,7 +7148,7 @@ QUEST_20180202_007220	Bem-vindo de volta a Tree of Savior!
 QUEST_20180202_007221	Bem-vindo ao Tree of Savior!
 QUEST_20180202_007222	Obrigado por usar o seu Homecoming Gift.{nl}Certifique-se de receber seu Boost Pack no Quadro de Eventos.
 QUEST_20180208_007223	Select a quest to use the Challenge Voucher.
-QUEST_20180208_007224	Ajudante de Reset
+QUEST_20180208_007224	{@st41}{#FF6700}Ajudante de Reset{/}{/}
 QUEST_20180208_007225	Olá! Tenho itens para Falconers, Linkers, Quarrel Shooters, Hoplites e Dragoons.{nl}Posso entregar uma vez por personagem, então pense bem.{nl}Deseja pegar os itens de reset agora?
 QUEST_20180208_007226	Desculpe, você já pegou seus itens de reset para esse personagem.{nl}Não posso liberar mais itens.
 QUEST_20180208_007227	Desculpe, seu personagem não possui uma das classes listadas para{nl}receber os itens de reset.
@@ -10714,7 +10714,7 @@ QUEST_20190419_010833	Estamos auxiliando Salvadores que possuem classes afetadas
 QUEST_20190419_010834	{#003399}Base Swordsman{/}: Dragoon, Fencer{nl}{#003399}Base Wizard{/}: Wizard, Cryomancer, Warlock, Featherfoot, Shadowmancer,{nl}Bokor, Taoist, Necromancer, Pyromancer, Sage, Elementalist
 QUEST_20190419_010835	{#003399}Base Archer{/}: Hunter, Appraiser{nl}{#003399}Base Cleric{/}: Druid, Pardoner, Miko{nl}{#003399}Base Scout{/}: Shinobi, Assassin, Bullet Marker
 QUEST_20190419_010836	Estas classes recebem {#003399}Pontos de Troca de Classe{/} OU os itens de compensação:{nl}- {#003399}Skill Reset Potion (14 Dias){/}{nl}- {#003399}Attribute Reset Potion (14 Dias){nl}
-QUEST_20190419_010837	{#003399}Dica 1:{/}{nl}Se escolher {#003399}Pontos de Troca de Classe{/}, você recebe 1.000 pontos.{nl}{#FF0000}Porém, classes base recebem itens de compensação.{/}{nl}Ex.:Construção Barbarian-Shinobi-Rogue recebe os itens + 2.000 Pontos de Troca de Classe.
+QUEST_20190419_010837	{#003399}Dica 1:{/}{nl}Se escolher {#003399}Pontos de Troca de Classe{/}, você recebe 1.000 pontos.{nl}{#FF0000}Porém, classes base recebem itens de compensação.{/}{nl}Ex.: Construção Barbarian-Shinobi-Rogue recebe itens + 2.000 Pontos de Troca de Classe.
 QUEST_20190419_010838	{#003399}Dica 2:{/}{nl}Se você escolher {#003399}itens de compensação{/}, você recebe 1 vez todos os itens por classe elegível.{nl}{#FF0000}Porém, classes base recebem itens adicionais.
 QUEST_20190419_010839	Este personagem já recebeu a compensação.{nl}Você só pode receber 1 vez somente, por personagem elegível.
 QUEST_20190419_010840	Selecione o local para entrar.
@@ -10722,7 +10722,7 @@ QUEST_20190419_010841	Você não pode entrar por possuir {#FF0000}Mark: Familiar
 QUEST_20190419_010842	Crescer é algo muito valioso, mas uma recompensa não machuca ninguém.{nl}Me traga as suas {#003399}[Episódio 11] Growth Gems{/} e você, também, entenderá isso.{nl}* Você obtém {#003399}[Episódio 11] Growth Gems{/} nos eventos do Uska e de Growing Evergreen.{nl}* Salvadores novatos e que estiverem retornando recebem {#003399}o dobro{/}de itens na loja de trocas.
 QUEST_20190419_010843	Você coletou {#003399}[Episódio 11] Broto da Aventura{/}? Então deixe-me trocá-los por algo útil.{nl} Mas lembre-se: nada é mais valioso do que o tempo{nl}que você passa ao lado dos seus aliados confiáveis.
 QUEST_20190419_010844	Temos alguns prêmios especiais para celebrar as novas classes que chegaram:{nl}{#003399}Tiger Hunter{/}, {#003399}Matross{/}, {#003399}Ardito{/} e {#003399}Sheriff{/}.{nl}Você pode recebê-los trocando por {#003399}[Episódio 11] Broto da Aventura{/}.
-QUEST_20190419_010845	* Você pode obter {#003399}[Episódio 11] Broto da Aventura{/} através de:{nl}1. Realizar estes conteúdos sob efeito dos buffs {#003399}[Broto em Crescimento]{/} ou {#003399}[Crescendo Juntos]{/}{nl}- {#003399}Dungeons{/}, {#003399}Mercenary Post{/}, {#003399}Saalus{/}, {#003399}Raids Únicas{/}, {#003399}Earth Tower{/}, {#003399}Velcoffer{/}, {#003399}Uphill{/}, {#003399}Modo Desafio Estágio 5+{/}{nl}2. Derrotar monstros na sua faixa de nível{nl}3. Participar do evento {#003399}Growing Evergreen{/}.
+QUEST_20190419_010845	* Você pode obter {#003399}[Episódio 11] Broto da Aventura{/} através de:{nl}1. Realizar estes conteúdos sob efeito dos buffs {#003399}[Broto em Crescimento]{/} ou {#003399}[Crescendo Juntos]{/}{nl}- {#003399}Dungeons{/}, {#003399}Mercenary Post{/}, {#003399}Saalus{/}, {#003399}Raids Únicas e Lendárias{/}, {#003399}Uphill{/}, {#003399}Modo Desafio Estágio 5+{/}{nl}2. Derrotar monstros na sua faixa de nível{nl}3. Participar do evento {#003399}Growing Evergreen{/}.
 QUEST_20190419_010846	Estamos auxiliando Salvadores que avançaram para classes{nl}que foram afetadas nas últimas mudanças de balanceamento.{nl}
 QUEST_20190419_010847	Muito obrigada!{nl}Fico feliz que você ajudou a proteger a Tocha Divina.{nl}
 QUEST_20190419_010848	Em nome de todos aqui do convento, por favor aceite isto.{nl}Não é muito, mas espero que possa ser útil.{nl}
@@ -10926,7 +10926,9 @@ QUEST_20190419_011045	Sentinela Ailee
 QUEST_20190419_011046	Selecione a dificuldade para Uphill Defense.{nl}A dificuldade será definida de acordo com a maioria.
 QUEST_20190419_011047	Lapemiter está indo até a Tocha Divina!
 QUEST_20190501_011048	{#003399}Base Swordsman{/}: Dragoon, Fencer{nl}{#003399}Base Wizard{/}: Wizard, Cryomancer, Warlock, Featherfoot, Shadowmancer,{nl}Bokor, Taoist, Necromancer, Pyromancer, Sage, Elementalist
-QUEST_20190501_011050	{#003399}Base Archer{/}: Hunter, Appraiser{nl}{#003399}Base Cleric{/}: Druid, Pardoner, Miko{nl}{#003399}Base Scout{/}: Shinobi, Assassin, Bullet Marker
+QUEST_20190501_011049	{#003399}Base Archer{/}: Hunter, Appraiser{nl}{#003399}Base Cleric{/}: Druid, Pardoner, Miko{nl}
+QUEST_20190501_011050	{#003399}Base Scout{/}: Shinobi, Assassin, Bullet Marker
+QUEST_20190501_011051   #N/A QUEST_011051
 QUEST_20190501_011052	Amantes de Tulipas de Klaipeda
 QUEST_20190501_011053	É a minha vez de receber uma Tulipa?{nl}Que ótimo! E o que você quer em troca?
 QUEST_20190510_011055	{@st41}{#FF6700}Evento Doce Surpresa{/}{/}
