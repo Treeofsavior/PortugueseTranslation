@@ -1776,7 +1776,7 @@ ITEM_20150317_001775	Restores HP every 2 segundos. {nl}640 HP é restaurado em 1
 ITEM_20150317_001776	Small SP Potion
 ITEM_20150317_001777	Restores SP every 2 segundos. {nl}144 SP é restaurado em 15 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 30 seconds.
 ITEM_20150317_001778	Restores SP every 2 segundos. {nl}240 SP é restaurado em 15 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 45 seconds.
-ITEM_20150317_001779	Large SP Potion	큰 SP포션	
+ITEM_20150317_001779	Medium SP Potion	큰 SP포션	
 ITEM_20150317_001780	Restores SP every 2 segundos. {nl}480 SP é restaurado em 15 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 60 seconds.
 ITEM_20150317_001781	Stamina Pill
 ITEM_20150317_001782	Restores 15 Stamina. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 30 seconds.
@@ -1907,7 +1907,7 @@ ITEM_20150317_001906	Basic HP Potion Supply
 ITEM_20150317_001907	Basic Large HP Potion
 ITEM_20150317_001908	Basic Small SP Potion
 ITEM_20150317_001909	Basic SP Potion
-ITEM_20150317_001910	Basic Large SP Potion	보급용 큰 SP포션		
+ITEM_20150317_001910	Basic Medium SP Potion	보급용 큰 SP포션		
 ITEM_20150317_001911	Basic Stamina Pill
 ITEM_20150317_001912	Basic STA Potion (Medium)
 ITEM_20150317_001913	Basic STA Potion (Large)
@@ -4088,7 +4088,7 @@ ITEM_20150323_004087	Leaves of the Sweet Herb. Useful when eaten with bitter med
 ITEM_20150323_004088	Nutritious Tonic
 ITEM_20150323_004089	A nutritious tonic made by diluting the Baron's concentrate with Scorpio venom.
 ITEM_20150323_004090	Brand New Rice Cake
-ITEM_20150323_004091	A rice cake from Malus.
+ITEM_20150323_004091	A rice cake from Marius.
 ITEM_20150323_004092	Spoiled Rice Cake
 ITEM_20150323_004093	Pieces of a spoiled rice cake.
 ITEM_20150323_004094	Fresh Rice Cake
@@ -12918,7 +12918,7 @@ ITEM_20161108_012916	Elixir of HP Recovery
 ITEM_20161108_012917	Restaura instantaneamente 50% of your maximum HP. {nl}Additionally restores the other 50% of HP every 2 seconds over 15 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 30 seconds.
 ITEM_20161108_012918	Elixir of SP Recovery
 ITEM_20161108_012919	Restaura instantaneamente 50% of your maximum SP. {nl}Additionally restores the other 50% of SP every 2 seconds over 15 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 30 seconds.
-ITEM_20161112_012920	Red Seed (1 Dia)
+ITEM_20161112_012920	Red Seeds (1 Dia)
 ITEM_20161112_012921	Increases +2 movement speed and +25 EXP gains for 1 hour.{nl}{nl} - Can be planted in some locations.
 ITEM_20161130_012922	A hair ornament traditional to an unknown tribe. This style of ornament has been passed down through many generations.{nl} Pode ser trocado por Medalhas no Loja de Trocas.
 ITEM_20161130_012923	A small, dainty hat reminiscent of a crown.{nl} Pode ser trocado por Medalhas no Loja de Trocas.
@@ -13337,7 +13337,7 @@ ITEM_20161214_013335	A magic stone devised by the Linker Master. It disrupts Gaz
 ITEM_20161214_013336	Gina Greene's Certificate
 ITEM_20161214_013337	A certificate written by Druid Master Gina Greene. It says that 
 ITEM_20161214_013338	Herbalist Calsis
-ITEM_20161214_013339	or his family can be paid the amount written by Gina Green from the Kedora Alliance or the Pardoner Master.
+ITEM_20161214_013339	or his family can be paid the amount written by Gina Greene from the Kedora Alliance or the Pardoner Master.
 ITEM_20161214_013340	Herbalist Calsis' diary. In it, he wrote about his trip to Dadan Jungle and about his daughter.
 ITEM_20161214_013341	Arzeli
 ITEM_20161214_013342	These flowers go by the name of Arzeli. They are very expensive and are said to relieve the symptoms of any disease.
@@ -14961,9 +14961,9 @@ ITEM_20170605_014957	Heart-Throb Wedding Bouquet
 ITEM_20170605_014958	A bouquet that matches well with the May Wedding Dress. 
 ITEM_20170605_014959	Shining Silver Anvil (5 Medals) 
 ITEM_20170605_014960	Coloque um equipamento na bigorna e acerte-a para melhorar a qualidade do seu equipamento. Você pode refiná-lo sem o custo de Silver. {nl}{img mouseclick_right 30 30} para usar.{nl} Pode ser trocado por 5 Medalhas no Loja de Trocas.
-ITEM_20170605_014961	Elixir of HP Recovery (5 Medals)
+ITEM_20170605_014961	Elixir of HP Recovery (2 Medals)
 ITEM_20170605_014962	Instantly restores 50% of max. HP. Additionally restores the other 50% of HP every 2 seconds over 11 seconds. {nl}{img mouseclick_right 30 30} para usar. Cooldown of 20 seconds.{nl} Pode ser trocado por 2 Medalhas no Loja de Trocas.
-ITEM_20170605_014963	Elixir of SP Recovery (5 Medals) 
+ITEM_20170605_014963	Elixir of SP Recovery (2 Medals) 
 ITEM_20170605_014964	Instantly restores 50% of max. SP. Additionally restores the other 50% of SP every 2 seconds over 11 seconds. {nl}{img mouseclick_right 30 30} para usar. Cooldown of 20 seconds.{nl} Pode ser trocado por 2 Medalhas no Loja de Trocas.
 ITEM_20170605_014965	Random Toy Box 
 ITEM_20170605_014966	Will acquire 1 random toy when opened. 
@@ -17110,7 +17110,7 @@ ITEM_20171128_017102	Collectable Item
 ITEM_20171128_017103	Beads with cloudy aura. It seems that purification is needed. The item disappears when it leaves Nazarene Tower.
 ITEM_20171128_017104	A essence containing the aura of the starlight
 ITEM_20171128_017105	A essence that has long aura and strength of starlight. If you can use the power contained in this integer, it seems to be stronger. The item disappears when it leaves Nazarene Tower.
-ITEM_20171128_017106	I am told that his family can get money from the Kedora Merchant Alliance or from Pardner Master or the amount of money Green has written down.
+ITEM_20171128_017106	I am told that his family can get money from the Kedora Merchant Alliance or from Pardner Master or the amount of money Greene has written down.	나 그의 가족이 케도라 상단이나 파드너 마스터에게 지나 그린이 적어둔 액수의 돈을 받을 수 있다고 적혀있다.	ITEM_20161214_013339	or his family can be paid the amount written by Gina Greene from the Kedora Alliance or the Pardoner Master.	나 그의 가족이 켈도라 상단이나 파드너 마스터에게 지나 그린이 적어둔 액수의 돈을 받을 수 있다고 적혀있다.	
 ITEM_20171128_017107	The material that the revelator Puden was stolen. It seems to contain food and potions.
 ITEM_20171128_017108	Coral powder of Nimrah Damsel
 ITEM_20171128_017109	The coral powder that Nimrah Damsel had. I do not know where it is used, but according to the translator Mirius, it is said to be helpful for healing.
@@ -17899,7 +17899,7 @@ ITEM_20180402_017884	Good Student Stamp
 ITEM_20180402_017885	Jump to display the effect.{nl}Can be exchanged for medals at the Loja de Trocas.
 ITEM_20180402_017886	Freshman School Uniform Box (M)
 ITEM_20180402_017887	Freshman School Uniform Box (F)
-ITEM_20180413_017888	An armband given to participants in thes new Guild Territory Wars.	콜로니전 베타 참여자에게 지급되는 암밴드 입니다.				
+ITEM_20180413_017888	An armband given to participants in the new Guild Territory Wars.	콜로니전 베타 참여자에게 지급되는 암밴드 입니다.				
 ITEM_20180413_017889	Shining 9 Star Gem Abrasive
 ITEM_20180413_017890	Usado para melhorar gemas. Aumenta o EXP de gemas.{nl}- EXP da Gema: 5414700
 ITEM_20180413_017891	Challenge Portal Scroll
@@ -21425,7 +21425,7 @@ ITEM_20190108_021409	Fluffy Kitty Pike	파이크다냥
 ITEM_20190108_021410	Fluffy Kitty Rapier	레이피어다냥				
 ITEM_20190108_021411	Fluffy Kitty Two-handed Mace	투 핸드 메이스다냥				
 ITEM_20190108_021412	Fluffy Kitty Rod	로드다냥				
-ITEM_20190108_021413	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro{nl} - Lucky Golden Pig	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이{nl} - 황금 복돼지	ITEM_20180827_019392	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이	
+ITEM_20190108_021413	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro{nl} - Lucky Golden Pig	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이{nl} - 황금 복돼지	ITEM_20180827_019392	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup{nl} - Goro	스태미나를 30 회복 시켜줍니다.{nl}사용가능 목록{nl} - 벨하이더 {nl} - 호글란 {nl} - 아기돼지 {nl} - 락스돈 {nl} - 아르마딜로 {nl} - 금강불개{nl} - 댄디 멍뭉이	
 ITEM_20190108_021414	Lucky Golden Pig Egg	황금 복돼지 알				
 ITEM_20190108_021415	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without the riding skill.{nl}This companion increases the player's looting chance by +777.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl} 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능합니다.{nl} 해당 컴패니언과 동행 시 루팅 찬스가 +777 증가하는 버프를 얻습니다.				
 ITEM_20190108_021416	Installs a weapon that shoots arrows in a single shot or in continuous shots at members of rival guilds within range for 600 seconds. The arrows include knockback and stunning effects.{nl}Can be used only by members of the guild defending the Spot.{nl}Provides the following bonus when the user is a Squire, Alchemist or Pardoner:{nl}    - Ballista durability and attack +20%	600초 동안 범위 내로 들어온 상대 길드원에게 화살을 단발 또는 연발로 발사해 피해를 주는 병기를 설치합니다.{nl}단발로 발사되는 화살은 넉백 및 기절 효과를 가지고 있습니다.{nl}스팟 지역에 있는 점령 길드 인원만 사용할 수 있습니다.{nl}사용자가 스콰이어, 알케미스트, 파드너 클래스를 가진 경우 다음의 혜택을 받을 수 있습니다.{nl}    - 구조물 설치시 구조물의 내구도, 공격력 20% 향상	ITEM_20190104_021338	Installs a weapon that shoots arrows in a single shot or in continuous shots at members of rival guilds within range for 600 seconds. The arrows include penetration, knockback and stunning effects.{nl}Can be used only by members of the guild defending the Spot.{nl}Provides the following bonus when the user is a Squire, Alchemist or Pardoner:{nl}    - Ballista durability and attack +20%	600초 동안 범위 내로 들어온 상대 길드원에게 화살을 단발 또는 연발로 발사해 피해를 주는 병기를 설치합니다.{nl}단발로 발사되는 화살은 관통, 넉백 및 기절 효과를 가지고 있습니다.{nl}스팟 지역에 있는 점령 길드 인원만 사용할 수 있습니다.{nl}사용자가 스콰이어, 알케미스트, 파드너 클래스를 가진 경우 다음의 혜택을 받을 수 있습니다.{nl}    - 구조물 설치시 구조물의 내구도, 공격력 20% 향상	
