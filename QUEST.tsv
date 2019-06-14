@@ -5860,7 +5860,7 @@ QUEST_20170420_005865	Deseja entra na Bokor Master's Home?
 QUEST_20170420_005866	Deseja entra no Highlander Master's Training Hall?
 QUEST_20170420_005867	Deseja entra no Pyromancer Master's Lab?
 QUEST_20170420_005868	Este é um aviso para todos os aventureiros que tentarem entrar em Rancid Labyrinth!{nl}O Exército Real relatou que esta dungeon é habitada atualmente por um grande número de demônios.
-QUEST_20170420_005869	Kupole Ajudante de Reset
+QUEST_20170420_005869	{@st41}{#FF6700}Kupole Ajudante de Reset{/}{/}
 QUEST_20170420_005870	"Estamos fornecendo itens para resetar status, skills e rank todos os dias."
 QUEST_20170420_005871	Você já recebeu seus itens de redefinição hoje.
 QUEST_20170420_005872	"Retirar o livre arbítrio dos humanos é condenado até pelas Deusas.{nl}Mas o que o Mestre Monk Olfas Grimm planejou, sendo certo ou errado, prejudica muitas pessoas e pode até matá-las.{nl}É isso que me entristece."
@@ -7148,7 +7148,7 @@ QUEST_20180202_007220	Bem-vindo de volta a Tree of Savior!
 QUEST_20180202_007221	Bem-vindo ao Tree of Savior!
 QUEST_20180202_007222	Obrigado por usar o seu Homecoming Gift.{nl}Certifique-se de receber seu Boost Pack no Quadro de Eventos.
 QUEST_20180208_007223	Select a quest to use the Challenge Voucher.
-QUEST_20180208_007224	Ajudante de Reset
+QUEST_20180208_007224	{@st41}{#FF6700}Ajudante de Reset{/}{/}
 QUEST_20180208_007225	Olá! Tenho itens para Falconers, Linkers, Quarrel Shooters, Hoplites e Dragoons.{nl}Posso entregar uma vez por personagem, então pense bem.{nl}Deseja pegar os itens de reset agora?
 QUEST_20180208_007226	Desculpe, você já pegou seus itens de reset para esse personagem.{nl}Não posso liberar mais itens.
 QUEST_20180208_007227	Desculpe, seu personagem não possui uma das classes listadas para{nl}receber os itens de reset.
@@ -7181,7 +7181,7 @@ QUEST_20180208_007253	Porém, não sabemos quem é o dono original.{nl}O que sab
 QUEST_20180208_007254	E agora não dá pra falar com o fantasma do amuleto sem atender o que{nl}estes espíritos querem. Para piorar, o atual dono do amuleto sofre de{nl}pesadelos tão terríveis que está difícil falar com ele.
 QUEST_20180208_007255	Na minha opinião, somente um Exorcist ou alguém igualmente{nl}abençoado pela graça das Deusas poderia resolver isso.
 QUEST_20180208_007256	Nós lembramos do nosso amigo, que gostava tanto de Strawberry Cupcakes.{nl}Esperamos que esteja saboreando alguns junto das Deusas agora...
-QUEST_20180208_007257	Para minha amada esposa Isala, que partiu sem nem ver nossa filha Asana crescer.{nl}Que você encotnre felicidade junto das Deusas...
+QUEST_20180208_007257	Para minha amada esposa Isala, que partiu sem nem ver nossa filha Asana crescer.{nl}Que você encontre felicidade junto das Deusas...
 QUEST_20180208_007258	Nosso querido amigo, sua doença não pode mais machucar você onde agora.{nl}Que você encontre a paz eterna ao lado das Deusas...
 QUEST_20180208_007259	Meu amigo. Você queria tanto voltar para Inner Enceinte District,{nl}sua casa destruída pela maldição. Que a nova casa junto{nl}das Deusas dê o conforto que merece.
 QUEST_20180208_007260	Para meu amigo, que morreu antes que pudesse confessar seu amor...{nl}(A lápide está destruída, impossível de ler o resto).
@@ -10669,19 +10669,273 @@ QUEST_20190412_010788	Veja as pessoas aqui.{nl}Estão assustadas, mas elas conti
 QUEST_20190412_010789	Mesmo assim,{nl}é muito legal finalmente ver outras pessoas,{nl}depois de tanto tempo.
 QUEST_20190412_010790	Tem certeza que deseja usar {#FF0000}Dark Energy{/}?{nl}O efeito aplicará por {#FF0000}6 dias{/} somente para o {#FF0000}personagem atual{/}.
 QUEST_20190416_010791	Tem certeza que deseja usar {#FF0000}Dark Energy{/}?{nl}O efeito aplicará por {#FF0000}6 dias{/} somente para o {#FF0000}personagem atual{/} e somente dentro do {#FF0000}Velcoffer's Nest{/}.
-QUEST_20190419_010792	Então você poderia conseguir 10 Pedaços de Estrela Cintilantes?{nl}Ah, claro! Isso é importante, então vou repetir.
-QUEST_20190419_010793	{#003399}Dica!{/}Você encontra Pedaços de Estrela Cintilantes em{nl}- Raids Lendárias
-QUEST_20190419_010794	: x5{nl}- Raids Únicas: x5{nl}- Estágio 5+ do Modo Desafio: x2{nl}- Missões de Saalus Convent: x1{nl}- Dungeons Instanciadas: x1
-QUEST_20190419_010795	{#FF0000}Dica!{/}{nl} 
-QUEST_20190419_010796	Pedaço de Estrela Cintilante
-QUEST_20190419_010797	cai por volta de 5 minutos após você terminar o conteúdo!
-QUEST_20190419_010798	Certo, jovem. Estarei esperando pelos itens!
-QUEST_20190419_010799	Eu poderia usar ainda mais Pedaços de Estrela Cintilantes.{nl}Sabe, todos estão vindo aqui atrás de itens melhores.
-QUEST_20190419_010800	Estive trabalhando em um tipo especial de armamento,{nl}mas estou com problemas em manter o estoque desses pedaços.{nl}Poderia obter alguns Pedaços de Estrela Cintilantes para mim?
-QUEST_20190419_010801	Ei, você já junto dez deles! Valeu!{nl}Certo, aqui está uma das minhas melhores bigornas.{nl}Experimenta usar e depois me diz o que achou.
-QUEST_20190419_010802	Parece que você ainda não achou Pedaços de Estrela Cintilantes suficientes.{nl}Ainda vai juntar mais alguns?{nl}Caso tenha esquecido, eu explico de novo.
-QUEST_20190419_010803	Vê se não esquece agora!
-QUEST_20190426_010804	Amantes de Tulipas de Klaipeda
-QUEST_20190426_010805	É a minha vez de receber uma Tulipa?{nl}Que ótimo! E o que você quer em troca?
-QUEST_20190504_010806	{@st41}{#FF6700}Evento Doce Surpresa{/}{/}
-QUEST_20190504_010807	Você pode receber as seguintes recompensas durante o evento.{nl}10 de Maio: Sweet Candy Necklace (Physical/14 Dias) x1{nl}11 de Maio: Sweet Candy Necklace (Magic) (14 Dias) x1{nl}12 de Maio: Sweet Candy Bracelet (Magic) (14 Dias) x2{nl}13 de Maio: Sweet Candy Bracelet (Physical) (14 Dias) x2
+QUEST_20190419_010792	Estes devem ser nossos suprimentos militares...{nl}Quem é você?
+QUEST_20190419_010793	... Entendo.{nl}Obrigado por nos ajudar, Revelador!
+QUEST_20190419_010794	Membro do Esquadrão de Resgate
+QUEST_20190419_010795	Um Revelador...!{nl}Nós finalmente podemos recuperar o que é nosso!{nl}Eu e meus camaradas prometemos recuperar a nossa cidade.{nl}Eu devo voltar e me preparar para o combate.
+QUEST_20190419_010796	O Mestre disse que devemos focar na investigação.{nl}Se voltarmos agora, estaremos em grandes problemas...
+QUEST_20190419_010797	O Mestre vai se juntar a nossa batalha?{nl}Ele só nos deu ordens até agora, nunca batalhou ao nosso lado.{nl}Estou começando a duvidar de suas razões...
+QUEST_20190419_010798	Vou enviar uma mensagem para o Mestre!{nl}Aguente firme!
+QUEST_20190419_010799	Você está aqui.{nl}O monstro gigante já comeu a isca com tranquilizante e está derrubado.{nl}Eu vou atacá-lo e criar uma distração.
+QUEST_20190419_010800	Este monstro é extremamente agressivo, ele virá correndo assim que acordar.{nl}Quando vier atrás de mim, por favor, ataque ele pelo lado.
+QUEST_20190419_010801	Ah... Me desculpe, Revelador... Eu não queria que ele escapasse...{nl}Eu congelei, não soube o que fazer!{nl}Ao menos o veneno parece que funcionou, percebi que o monstro estava sofrendo quando me atacou.{nl}Não se preocupe comigo, vá atrás desse monstro e derrote ele o quanto antes!
+QUEST_20190419_010802	Eu estaria acabado se não fosse por você.{nl}Muito obrigado por tudo!
+QUEST_20190419_010803	Eu realmente pensei que fosse morrer...{nl}Muito obrigado, Revelador!
+QUEST_20190419_010804	Selecione a área da Earth Tower que você deseja entrar.
+QUEST_20190419_010805	Então você poderia conseguir 10 Pedaços de Estrela Cintilantes?{nl}Ah, claro! Isso é importante, então vou repetir.
+QUEST_20190419_010806	{#003399}Dica!{/}Você encontra Pedaços de Estrela Cintilantes em{nl}- Raids Lendárias
+QUEST_20190419_010807	: x5{nl}- Raids Únicas: x5{nl}- Estágio 5+ do Modo Desafio: x2{nl}- Missões de Saalus Convent: x1{nl}- Dungeons Instanciadas: x1
+QUEST_20190419_010808	{#FF0000}Dica!{/}{nl} 
+QUEST_20190419_010809	Pedaço de Estrela Cintilante
+QUEST_20190419_010810	cai por volta de 5 minutos após você terminar o conteúdo!
+QUEST_20190419_010811	Certo, jovem. Estarei esperando pelos itens!
+QUEST_20190419_010812	Eu poderia usar ainda mais Pedaços de Estrela Cintilantes.{nl}Sabe, todos estão vindo aqui atrás de itens melhores.
+QUEST_20190419_010813	Estive trabalhando em um tipo especial de armamento,{nl}mas estou com problemas em manter o estoque desses pedaços.{nl}Poderia obter alguns Pedaços de Estrela Cintilantes para mim?
+QUEST_20190419_010814	Ei, você já junto dez deles! Valeu!{nl}Certo, aqui está uma das minhas melhores bigornas.{nl}Experimenta usar e depois me diz o que achou.
+QUEST_20190419_010815	Parece que você ainda não achou Pedaços de Estrela Cintilantes suficientes.{nl}Ainda vai juntar mais alguns?{nl}Caso tenha esquecido, eu explico de novo.
+QUEST_20190419_010816	Vê se não esquece agora!
+QUEST_20190419_010817	Mestre Sheriff
+QUEST_20190419_010818	Nunca se sabe quem estará mirando em você, quando você aponta a sua arma.
+QUEST_20190419_010819	A última coisa que se deseja, em uma batalha, é a pressa.{nl}A velocidade tem sim o seu lugar, mas o trunfo mesmo é a precisão.
+QUEST_20190419_010820	Mestre Matross
+QUEST_20190419_010821	Antes de você disparar, olhe ao redor e veja quem está atrás de você.{nl}Entende isso?
+QUEST_20190419_010822	{nl}Do contrário, você vai acabar com sérios problemas.
+QUEST_20190419_010823	Mestre Ardito
+QUEST_20190419_010824	Ah... Sabe onde encontro um ninho de monstros?{nl}Estou com vontade de atirar umas bombas...
+QUEST_20190419_010825	O que você está dizendo?!{nl}Não tenho nada a ver com esta mulher!{nl}Não sei por que ela está tão brava.
+QUEST_20190419_010826	E você.{nl}Se você está buscando algo por aqui,{nl}não acharia interessante um parceiro?
+QUEST_20190419_010827	Ouvi rumores sobre você desde lá de Mors...{nl}Você é tão insuportável quanto eu imaginava.{nl}Se vai trabalhar com o Wolke, não conte comigo.
+QUEST_20190419_010828	Tudo pronto para seguir até o norte?
+QUEST_20190419_010829	Onde você vai?
+QUEST_20190419_010830	Eu não posso mais ajudar você...Já usei muitas marcas.{nl}Me desculpe.
+QUEST_20190419_010831	Estou aqui para ajudar os Salvadores a desafiarem Boruta.{nl}Se você está pronto, posso ajudar você também.
+QUEST_20190419_010832	Você não avançou para uma classe elegível.
+QUEST_20190419_010833	Estamos auxiliando Salvadores que possuem classes afetadas{nl}nas últimas mudanças de balanceamento.{nl}
+QUEST_20190419_010834	Por favor, verifique a lista de classes elegíveis!{nl}
+QUEST_20190419_010835	{#003399}Base Archer{/}: Hunter, Appraiser{nl}{#003399}Base Cleric{/}: Druid, Pardoner, Miko{nl}{#003399}Base Scout{/}: Shinobi, Assassin, Bullet Marker
+QUEST_20190419_010836	Estas classes recebem {#003399}Pontos de Troca de Classe{/} OU os itens de compensação:{nl}- {#003399}Skill Reset Potion (14 Dias){/}{nl}- {#003399}Attribute Reset Potion (14 Dias){nl}
+QUEST_20190419_010837	{#003399}Dica 1:{/}{nl}Se escolher {#003399}Pontos de Troca de Classe{/}, você recebe 1.000 pontos.{nl}{#FF0000}Porém, classes base recebem itens de compensação.{/}{nl}Ex.: Construção Barbarian-Shinobi-Rogue recebe itens + 2.000 Pontos de Troca de Classe.
+QUEST_20190419_010838	{#003399}Dica 2:{/}{nl}Se você escolher {#003399}itens de compensação{/}, você recebe 1 vez todos os itens por classe elegível.{nl}{#FF0000}Porém, classes base recebem itens adicionais.
+QUEST_20190419_010839	Este personagem já recebeu a compensação.{nl}Você só pode receber 1 vez somente, por personagem elegível.
+QUEST_20190419_010840	Selecione o local para entrar.
+QUEST_20190419_010841	Você não pode entrar por causa da {#FF0000}[Marca: Inimigo Familiar]{/}.
+QUEST_20190419_010842	Crescer é algo muito valioso, mas uma recompensa não machuca ninguém.{nl}Me traga as suas {#003399}[Episódio 11] Growth Gems{/} e você, também, entenderá isso.{nl}* Você obtém {#003399}[Episódio 11] Growth Gems{/} nos eventos do Uska e de Growing Evergreen.{nl}* Salvadores novatos e que estiverem retornando recebem {#003399}o dobro{/}de itens na loja de trocas.
+QUEST_20190419_010843	Você coletou {#003399}[Episódio 11] Broto da Aventura{/}? Então deixe-me trocá-los por algo útil.{nl} Mas lembre-se: nada é mais valioso do que o tempo{nl}que você passa ao lado dos seus aliados confiáveis.
+QUEST_20190419_010844	Temos alguns prêmios especiais para celebrar as novas classes que chegaram:{nl}{#003399}Tiger Hunter{/}, {#003399}Matross{/}, {#003399}Ardito{/} e {#003399}Sheriff{/}.{nl}Você pode recebê-los trocando por {#003399}[Episódio 11] Broto da Aventura{/}.
+QUEST_20190419_010845	* Você pode obter {#003399}[Episódio 11] Broto da Aventura{/} através de:{nl}1. Realizar estes conteúdos sob efeito dos buffs {#003399}[Broto em Crescimento]{/} ou {#003399}[Crescendo Juntos]{/}{nl}- {#003399}Dungeons{/}, {#003399}Mercenary Post{/}, {#003399}Saalus{/}, {#003399}Raids Únicas e Lendárias{/}, {#003399}Uphill{/}, {#003399}Modo Desafio Estágio 5+{/}{nl}2. Derrotar monstros na sua faixa de nível{nl}3. Participar do evento {#003399}Growing Evergreen{/}.
+QUEST_20190419_010846	Estamos auxiliando Salvadores que avançaram para classes{nl}que foram afetadas nas últimas mudanças de balanceamento.{nl}
+QUEST_20190419_010847	Muito obrigada!{nl}Fico feliz que você ajudou a proteger a Tocha Divina.{nl}
+QUEST_20190419_010848	Em nome de todos aqui do convento, por favor aceite isto.{nl}Não é muito, mas espero que possa ser útil.{nl}
+QUEST_20190419_010849	Mais uma vez, muito obrigada!{nl}Por favor, volte para nos ajudar sempre que puder.
+QUEST_20190419_010850	Banterer
+QUEST_20190419_010851	Sou o responsável por esta área...{nl}Este não é o seu local, não é mesmo...?
+QUEST_20190419_010852	Hein? Você esqueceu...?{nl}Espera aí... Não lembro de ter visto você antes...{nl}
+QUEST_20190419_010853	Preciso fazer uma pergunta para você.{nl}Qual é o nome do humano que estamos ajudando?
+QUEST_20190419_010854	Preciso fazer uma pergunta para você.{nl}Qual é o nome do nosso Demon King?
+QUEST_20190419_010855	Preciso fazer uma pergunta para você.{nl}Qual é o motivo de estarmos neste local?
+QUEST_20190419_010856	Preciso fazer uma pergunta para você.{nl}Quem é o nosso subordinado, mas que não está neste local?
+QUEST_20190419_010857	Preciso fazer uma pergunta para você.{nl}Quem é o nosso inimigo?
+QUEST_20190419_010858	Hum... Me enganei.{nl}Muito bem, é assim que vamos agir.{nl}
+QUEST_20190419_010859	Quando a Resistência entrar na Astral Tower, iremos atacá-los por aqui.{nl}Entendeu? Então hora de voltar para a sua posição.
+QUEST_20190419_010860	O ataque acontecerá após o entardecer, quando a lua estiver sob as árvores.{nl}Entendeu? Então hora de voltar para a sua posição.
+QUEST_20190419_010861	Desta vez, iremos com tudo pra cima deles quando eles menos esperam.{nl}Entendeu? Então hora de voltar para a sua posição.
+QUEST_20190419_010862	Nosso general, Banshee Boss, vai estar junto da gente desta vez.{nl}Entendeu? Então hora de voltar para a sua posição.
+QUEST_20190419_010863	Se nosso ataque der certo, destruiremos tanto a Resistência quanto toda a Schaffenstar!{nl}Entendeu? Então hora de voltar para a sua posição.
+QUEST_20190419_010864	Pobrezinho, deve ter passado por muita coisa...{nl}Infelizmente não ficamos sabendo disso até agora.{nl}
+QUEST_20190419_010865	Estarei pronto para partir assim que possível.{nl}Conto com você até lá.
+QUEST_20190419_010866	É muito cedo para desistir!
+QUEST_20190419_010867	Não vou mentir, isso parece uma armadilha...
+QUEST_20190419_010868	Escolha um Crystal Piece para colocar no pedestal.
+QUEST_20190419_010869	Retirar o Crystal Piece colocado no pedestal?
+QUEST_20190419_010870	Pensou que se livraria facilmente, não pensou?{nl}Tsk, tsk... E você nem sabia sobre mim?
+QUEST_20190419_010871	Demon Lord Moringponia
+QUEST_20190419_010872	Como? Pensou que eu não perceberia todo esse barulho?{nl}É muita bravura sua atrapalhar os meus negócios...{nl}Você não acha mesmo que vai se safar disso tudo, acha...?
+QUEST_20190419_010873	Encontrado um Crystal Piece estranho.{nl}Tente encontrar mais.
+QUEST_20190419_010874	Encontrado Crystal Pieces suficientes para colocar nos pedestais.{nl}Volte ao Obelisco e coloque-os nos pedestais.
+QUEST_20190419_010875	Fico feliz em saber que a Estátua da Deusa funcionou.{nl}Mas a energia maligna não desapareceu por completo, ainda.{nl}Onde será que ela está se espalhando...?{nl}Precisarei investigar um pouco mais.
+QUEST_20190419_010876	Encontrei! Mwahahah!
+QUEST_20190419_010877	Vá! Capture-as de uma vez por todas!
+QUEST_20190419_010878	Ah...{nl}Seres malignos estão vindo ao nosso encontro.{nl}Kartas deve ter nos encontrado.{nl}
+QUEST_20190419_010879	Infelizmente, não poderei enfrentá-lo no estado que me encontro.{nl}Acredito que... Posso esconder-te jundo de Illina, longe da visão de Kartas.{nl}Por favor, aguardem aqui...
+QUEST_20190419_010880	Não fiques preocupada.{nl}Kartas não poderá causar nenhum mal contra mim.{nl}Há um motivo pelo qual ele me persegue há tanto tempo.{nl}
+QUEST_20190419_010881	Acredito que seja relacionado a estas sementes...{nl}Se for possível usar o seu próprio temperamento contra ele mesmo...{nl}
+QUEST_20190419_010882	Ah não...{nl}Precisamos nos apressar!
+QUEST_20190419_010883	Mwahaha!{nl}Encontrei você, Medeina!{nl}Escondida no seu cantinho, como sempre!
+QUEST_20190419_010884	Ainda tem esses seus poderezinhos, hein?!{nl}Nossa, como estou surpreso...!{nl}Hahahahaha!
+QUEST_20190419_010885	Kartas!{nl}Não sei o que desejas, mas nada funcionará do teu jeito!
+QUEST_20190419_010886	Bwahaha!{nl}Não estou preocupado com isso, minha querida. Aliás...
+QUEST_20190419_010887	Parece que esse seu galho não é um galho qualquer, não é mesmo?{nl}Eu fico com ele, muito obrigado.{nl}
+QUEST_20190419_010888	Ah... E Medeina...{nl}Vou precisar que você me acompanhe.
+QUEST_20190419_010889	Medeina, minha querida...{nl}Você sabe que a minha paciência é extremamente curta,{nl}por que você quer testá-la tanto assim? Vou só perguntar mais uma coisa.{nl}
+QUEST_20190419_010890	Como que alguém revive de dentro da Árvore Divina?{nl}Como que você faz isso!!{nl}
+QUEST_20190419_010891	E esse seu galho.{nl}O que ele tem a ver com tudo isso!?
+QUEST_20190419_010892	Minha resposta permanece a mesma, Kartas.{nl}Não direi àqueles que buscam pela resposta.
+QUEST_20190419_010893	Pensando um pouco mais...{nl}Não parece ter sido Giltine que te enviou para me encontrar.{nl}
+QUEST_20190419_010894	Ah... Entendo.{nl}
+QUEST_20190419_010895	Tu e Giltine devem ter objetivos diferentes, não restam dúvidas.
+QUEST_20190419_010896	Heheh.{nl}Eu não sigo a Giltine por termos os mesmos objetivos, minha querida.{nl}Faço isso porque ela é mais forte que eu!
+QUEST_20190419_010897	Mesmo assim, não ousas dizer isto na frente dela.{nl}Tu tens medo.
+QUEST_20190419_010898	Medo?{nl}Quem disse que tenho medo?{nl}
+QUEST_20190419_010899	Escute bem isto aqui!{nl}E não tenho medo de ninguém, me ouviu?{nl}NINGUÉM!!
+QUEST_20190419_010900	Kartas.{nl}Por acaso pensastes no que aconteceria se Giltine atingisse seus objetivos?{nl}Tu continuarias a segui-la caso ela consiga?{nl}
+QUEST_20190419_010901	Quando o Criador despertar,{nl}o mundo que conhecemos deixará de existir.{nl}
+QUEST_20190419_010902	O que será de ti, Kartas, quando isto acontecer?
+QUEST_20190419_010903	Chega!!
+QUEST_20190419_010904	Ande logo e faça o Círculo Mágico de Teleporte!{nl}Estamos perdendo tempo.{nl}
+QUEST_20190419_010905	Ah...{nl}Falando isso, onde está aquela inútil da Tantaliser?{nl}Estou cercado de idiotas!{nl}TODOS IDIOTAS!
+QUEST_20190419_010906	É seguro de continuar, agora.
+QUEST_20190419_010907	Ah...{nl}Ah não. É tarde demais...
+QUEST_20190419_010908	Mas o que-? Você..!!{nl}Foi você que destruiu o meu círculo mágico e a minha Tantalizer, não foi?{nl}Se metendo nos meus planos mais uma vez!!{nl}
+QUEST_20190419_010909	E você, Medeina!{nl}Tentando me enganar com esse galho estúpido...!
+QUEST_20190419_010910	Kartas!{nl}Tu nunca terás a resposta que desejas de mim!
+QUEST_20190419_010911	Ilona! Yulia!
+QUEST_20190419_010912	Kupole Ilona
+QUEST_20190419_010913	Argh... Mestre Medeina...{nl}Por favor, pegue o Revelador e vá...
+QUEST_20190419_010914	Não! Não posso!{nl}Não irei deixar vocês aqui...!
+QUEST_20190419_010915	Kupole Yulia
+QUEST_20190419_010916	Mestre Medeina...!{nl}Nós Kupoles estamos aqui somente para te servir!{nl}A sua segurança é muito mais importante que a nossa!{nl}
+QUEST_20190419_010917	Não podemos deixar você em maiores perigos!{nl}Vá, fuja! Para longe do Kartas...!{nl}
+QUEST_20190419_010918	Vá e proteja o que você deve proteger!
+QUEST_20190419_010919	Kartas sabe onde estamos. Ele nos encontrará em breve.{nl}Revelador, tu precisas partir o quanto antes...
+QUEST_20190419_010920	Ha! Medeina!
+QUEST_20190419_010921	Kartas, quantas vezes terei que te dizer?{nl}
+QUEST_20190419_010922	Tu nunca terás as respostas que desejas de mim...
+QUEST_20190419_010923	Ha, quero ver você dizer isso quando eu levar você para o reino demoníaco.
+QUEST_20190419_010924	O que você está fazendo, usando o Revelador para me provocar!{nl}Eu não daria nem mais um passo se fosse você...!
+QUEST_20190419_010925	Medeina!{nl}Se dependesse de mim,{nl}estas idiotas estariam gritando o seu nome com as cabeças cortadas!{nl}
+QUEST_20190419_010926	Você quer mesmo ver a duas sofrere?{nl}Pela eternidade?
+QUEST_20190419_010927	Muito bem, então.{nl}Que seja como você deseja...
+QUEST_20190419_010928	kartas!{nl}Você não vai conseguir o que deseja!
+QUEST_20190419_010929	Bwahahah!{nl}
+QUEST_20190419_010930	Neringa!{nl}Não posso acreditar que você trouxe estes humanos para me atrapalharem!{nl}
+QUEST_20190419_010931	Nenhum humano é páreo para mim, ouviu?!{nl}NENHUM!!!!{nl}Hah!
+QUEST_20190419_010932	Suas criaturinhas estúpidas!{nl}Aguardem um pouco mais e vocês irão ver.{nl}
+QUEST_20190419_010933	Na próxima vez que eu cruzar com vocês,{nl}farei com que vocês sofram uma eternidade!{nl}
+QUEST_20190419_010934	E Neringa.{nl}Sempre com esse papinho de 'destino isso', 'destino aquilo', com a sua Mestre Laima!{nl}
+QUEST_20190419_010935	Será mesmo que vai tudo acabar como vocês esperam?{nl}Bwahahaha!
+QUEST_20190419_010936	Eu errei!{nl}Conhecendo o Kartas, tinha certeza que ele nos atacaria...{nl}
+QUEST_20190419_010937	Não podemos perdê-lo agora!{nl}Eu e o Mestre Paladin iremos seguí-lo!
+QUEST_20190419_010938	Um vagalume apareceu e está apontando para algo.
+QUEST_20190419_010939	Um vagalume está sobrevoando, como se pedisse para você seguí-lo.
+QUEST_20190419_010940	Uma flor brotou de repente, próxima do vagalume.
+QUEST_20190419_010941	Borboletas perdidas sempre voarão até as flores.
+QUEST_20190419_010942	Um grupo de borboletas amarelas.{nl}Qual flor deseja usar?
+QUEST_20190419_010943	Um grupo de borboletas vermelhas.{nl}Qual flor deseja usar?
+QUEST_20190419_010944	Um grupo de borboletas brancas.{nl}Qual flor deseja usar?
+QUEST_20190419_010945	O que você fará com a flor amarela?
+QUEST_20190419_010946	O que você fará com a flor vermelha?
+QUEST_20190419_010947	O que você fará com a flor branca?
+QUEST_20190419_010948	Além do monte há um local onde asas de borboletas alcançam somente em sonhos.
+QUEST_20190419_010949	Um conjunto de flores amareladas.{nl}Qual folha você irá usar?
+QUEST_20190419_010950	Um conjunto de flores avermelhadas.{nl}Qual folha você irá usar?
+QUEST_20190419_010951	Um conjunto de flores brancas.{nl}Qual folha você irá usar?
+QUEST_20190419_010952	O que você fará com a folha amarela?
+QUEST_20190419_010953	O que você fará com a folha vermelha?
+QUEST_20190419_010954	O que você fará com a folha branca?
+QUEST_20190419_010955	Aqueles que guiam as borboletas serão abençoados pelas árvores no abrigo da vida.
+QUEST_20190419_010956	Tente fazer algo com os cristais de Drugelis Hill.
+QUEST_20190419_010957	Onde o cervo ardente é bem-vindo, o abençoado pelas árvores estará aguardando.
+QUEST_20190419_010958	Precisamos ir!
+QUEST_20190419_010959	Os dois pergaminhos que te dei são os Binding e Sealing Scrolls.{nl}Use o Sealing Scroll na Magic Stone para selar seu poder mágico.
+QUEST_20190419_010960	{nl}É muito difícil alterar o destino da magia dela enquanto está sendo enviado.{nl}Então você precisa usar o Sealing Scroll para selar a pedra primeiro.
+QUEST_20190419_010961	{nl}O Binding Scroll é para prender a Tantaliser, ao menos por um tempo.{nl}Se conseguirmos mantê-la presa no destino da magia da pedra...{nl}Ela não poderá escapar enquanto a pedra estiver ativa.
+QUEST_20190419_010962	Eu vou procurar a Tantaliser e atraí-la para a Magic Stone.{nl}Conto com você para o resto!
+QUEST_20190419_010963	Rápido!
+QUEST_20190419_010964	Algo parece muito sinistro!{nl}Rápido, esconda-se atrás de uma árvore!
+QUEST_20190419_010965	Esta era a Demon Lord Tantaliser.{nl}O que ela está fazendo aqui...?
+QUEST_20190419_010966	De qualquer forma, tenho certeza que a Mestre Medeina está escondida na floresta.{nl}A Tantaliser só pode estar procurando por ela.
+QUEST_20190419_010967	Ah! É a Tantaliser!
+QUEST_20190419_010968	Vou mudar o destino da Magic Stone para a frente.{nl}Traga a Tantaliser para o local o quanto antes.{nl}Depois que você usar o Binding Scroll, vou liberar o poder da Magic Stone!
+QUEST_20190419_010969	Este é o Gyvenimas Shelter.
+QUEST_20190419_010970	Está bem fraca, mas posso sentir energia divina nos brotos e nas pedras.{nl}Será que o cristal que você encontrou em Drugelis Hill pode ajudar aqui?{nl}Acho que pode ser uma pista.
+QUEST_20190419_010971	Aparição da Deusa Medeina
+QUEST_20190419_010972	Sabia que tu encontrarias a minha semente, Revelador.{nl}Eu sou medeina, Deusa da Floresta.
+QUEST_20190419_010973	Venho até tu através de uma aparição para evitar o maligno Kartas.{nl}Por razões que ignoro, ele me persegue incessantemente, desde o Medzio Diena.{nl}
+QUEST_20190419_010974	Enfraquecida após aquele trágico dia,{nl}nada pude fazer a não ser fugir dele e me esconder na Floresta...{nl}Porém, Kartas está mais próximo de me encontrar a cada dia que passa.{nl}
+QUEST_20190419_010975	Além disso, ele criou uma barreira ao redor da floresta,{nl}prevenindo que eu consiga escapar de qualquer forma.{nl}
+QUEST_20190419_010976	A semente que carregas me foi entregue pelo Único Divino, que descansa em sono eterno.{nl}Esta mesma semente contém poderes inimagináveis.{nl}
+QUEST_20190419_010977	Kartas pode não saber nada referente a esta semente...{nl}Mas se ele obtê-la, as consequências serão catastróficas.{nl}
+QUEST_20190419_010978	Revelador, tu trarias esta semente até mim, em Parias Forest?{nl}Reconheço não ser algo simples, mas tenho fé em ti.{nl}
+QUEST_20190419_010979	Estarei esperando.
+QUEST_20190419_010980	O cristal pode ser uma pista...{nl}Mas o que devemos fazer com ele?
+QUEST_20190419_010981	Estou preocupada com a Mestre Medeina,{nl}mas a Ilona também deve estar em perigo.{nl}A floresta está cheia de monstros e demônios...
+QUEST_20190419_010982	Preciso ir para o sul e encontrar a Ilona!
+QUEST_20190419_010983	Um vagalume apareceu e aponta para algo.
+QUEST_20190419_010984	O vagalume parece apontar para algo.
+QUEST_20190419_010985	Tu selastes os poderes da Magic Stone. Ótimo.{nl}A barreira parece enfraquecida, agora.
+QUEST_20190419_010986	E Ilona também está contigo. Fico aliviada.
+QUEST_20190419_010987	Mestre!{nl}Por que nos abandonou...{nl}Por que se escondeu aqui, sozinha...
+QUEST_20190419_010988	Não tive escolha, precisava proteger-te do Kartas.{nl}Não esperava ser encontrada por ti.
+QUEST_20190419_010989	Se Kartas te encontrar, estarás em grande perigo.{nl}Traga o Revelador contigo e venha até mim.
+QUEST_20190419_010990	Os vagalumes guiarão os teus passos.{nl}
+QUEST_20190419_010991	Revelador, por favor mantenha Ilona a salvo.
+QUEST_20190419_010992	... Ah!{nl}Posso sentir a energia da Mestre Medeina vindo do sul!{nl}Revelador! Precisamos ir!
+QUEST_20190419_010993	Ilona!{nl}Ah! E o Revelador!{nl}
+QUEST_20190419_010994	Senti uma energia muito forte vindo daqui, aconteceu alguma coisa?
+QUEST_20190419_010995	Kartas levou nossa Mestre Medeina!{nl}Senti a energia dela vindo do sul, precisamos ir logo!
+QUEST_20190419_010996	Então a Mestre Medeina está mesmo nesta floresta!{nl}Eu sou a Kupole Yulia, sirvo a Deusa Medeina.{nl}
+QUEST_20190419_010997	A Mestre Medeina desapareceu muito de repente após o Medzio Diena.{nl}Desde então, estou tentando encontrá-la.{nl}Minha última pista me trouxe até aqui, na Parias Forest...{nl}
+QUEST_20190419_010998	Não posso acreditar que o Kartas levou a Mestre Medeina...
+QUEST_20190419_010999	Eu fui descuidada,{nl}não percebi a armadilha da barreira demoníaca, e agora...{nl}Tenho certeza que os demônios ao redor carregam algo que pode desarmar a barreira...{nl}
+QUEST_20190419_011000	Sinto muito, mas poderia verificar nos Red Banterer?{nl}Eles devem possuir algo para desarmar a barreira.
+QUEST_20190419_011001	Os demônios estão vigiando a Mestre Medeina!{nl}Revelador! Derrote os demônios e resgate a nossa Mestre!
+QUEST_20190419_011002	Pegue a Semente da Árvore Divina e parta.{nl}Eu devo ficar, não posso deixar minhas Kupoles para trás.
+QUEST_20190419_011003	Ah não...{nl}Nos encontraram!
+QUEST_20190419_011004	Bem na hora.
+QUEST_20190419_011005	Deusa Laima advertiu Medeina para seguir o que ela previu.{nl}Destino não é algo simples de se escapar.{nl}
+QUEST_20190419_011006	Medeina caiu em grande perigo, como era o destino dela.
+QUEST_20190419_011007	Acho que perdemos o Kartas de vista.{nl}Só podemos torcer para que a Deusa Medeina esteja bem...
+QUEST_20190419_011008	Paladin.{nl}Não se culpe por isso.{nl}
+QUEST_20190419_011009	Kartas não poderá fazer nenhum mal contra Medeina.{nl}Não até encontrar as respostas que ele deseja, obviamente.
+QUEST_20190419_011010	Vamos precisar da ajuda dos demais Mestres de Classe.{nl}Senhorita Neringa. Iremos atrás deles.
+QUEST_20190419_011011	Neringa acha que sabe o por quê de Kartas levar a Deusa Medeina.{nl}Foi como previsto por Laima.{nl}Seja o que for que ele planeja, está relacionado com a Árvore Divina.{nl}Não há dúvidas quanto a isto.{nl}
+QUEST_20190419_011012	Kartas pode ter levado a Deusa Medeina, mas não irá obter o que está procurando.{nl}A Semente da Árvore Divina que você carrega é o que ele quer.{nl}
+QUEST_20190419_011013	Porém...{nl}É estranho ele estar planejando isso, considerando sua personalidade.{nl}Neringa não acha que ele agiria sozinho,{nl}sem as instruções da sua mestre, Giltine.{nl}
+QUEST_20190419_011014	Mesmo assim, Neringa pode estar esquecendo de alguma coisa.{nl}
+QUEST_20190419_011015	Entregue-me a semente. Neringa pode mantê-la protegida.{nl}Mesmo que as habilidades da semente estejam adormecidas,{nl}não podemos deixá-la cair nas mãos dos demônios.{nl}
+QUEST_20190419_011016	Não se preocupe com a Deusa Medeina.{nl}Kartas não pode machucá-la,{nl}o futuro previsto por Laima não pode ser alterado.{nl}
+QUEST_20190419_011017	Estas Kupoles estão muito machucadas,{nl}Neringa precisa cuidar delas primeiro.{nl}
+QUEST_20190419_011018	O futuro previsto por Laima está sob nós.{nl}E você está no centro dele.{nl}
+QUEST_20190419_011019	Mas primeiro, você precisa recuperar a última Revelação,{nl}deixada para você pela Deusa Laima.{nl}Não perca mais tempo.
+QUEST_20190419_011020	Por que a Mestre Medeina se escondeu sozinho, sem nos avisar...
+QUEST_20190419_011021	Mesmo com estas pistas, não consigo entender.{nl}Mas sei que, com você, certamente conseguiremos encontrá-la.
+QUEST_20190419_011022	Então, Kartas está perseguindo a nossa Mestre Medeina...{nl}Só espero que ela esteja segura...
+QUEST_20190419_011023	A Mestre Medeina está por aqui, em algum lugar.{nl}Assim que a encontrarmos, você precisa sair da floresta imediatamente.
+QUEST_20190419_011024	A personalidade do Kartas é imprevisível e caótica.{nl}Ele é incontrolável. Ele só responde à sua mestre Giltine.
+QUEST_20190419_011025	Se ao menos a Mestre Medeina estivesse totalmente recuperada,{nl}Kartas não conseguiria ir tão longe assim.{nl}Estamos atrasados...
+QUEST_20190419_011026	Oh... Espero que ela esteja bem...
+QUEST_20190419_011027	Perdemos tempo novamente por causa de mim!{nl}Você está ajudando a resgatar a Mestre Medeina,{nl}sinto que estou atrasando você.
+QUEST_20190419_011028	Pensei que não sobreviveríamos quando nosso navio encalhou...{nl}Felizmente as pessoas do Reino estavam lá para nos salvar.{nl}É um ato que eu nunca conseguirei esquecer.
+QUEST_20190419_011029	Qual é, você consegue lidar com isso em uma explosão.{nl}Por que se preocupar tanto com a mira?
+QUEST_20190419_011030	{nl}Ei, não seja um franguinho.{nl}É so uma pequena ferroada.
+QUEST_20190419_011031	Sempre que você sacar a sua arma, lembre-se.
+QUEST_20190419_011032	{nl}Quanto mais você dispara, mais inimigos você chama,{nl}esteja você enfrentando monstros, demônios ou feras selvagens.
+QUEST_20190419_011033	Os três regentes de Nicopoles estão mais poderosos do que nunca. A ganância deles não conhece limites. Não satisfeitos em tiranizar Nicopolis, eles tentam influenciar a vida do Reino além da cidade.{nl}
+QUEST_20190419_011034	Você pode entrar na área do Gemstone Feud. Prosseguir?{nl}- Ao entrar, você será direcionado para um time aleatório para enfrentar o outro.{nl}{#FF0000}(Você pode não receber recompensas se tiver muitas Mercenary Badges no Inventário.){/}
+QUEST_20190419_011035	Você pode entrar na área do Gemstone Feud. Prosseguir?{nl}- Você será direcionado para um time aleatório para enfrentar o outro time (PvP).
+QUEST_20190419_011036	Retornar ao local que você estava antes de entrar no Gemstone Feud?
+QUEST_20190419_011037	{ol}{img mine_pvp_teamicon_bladetryst 60 60}{/}O Time {#5ae2e7}Golden Note{/} derrotou o Monstro Chefe!
+QUEST_20190419_011038	{ol}{img mine_pvp_teamicon_bladetryst 60 60}{/}O Time {#5ae2e7}Pledge of the Blade{/} derrotou o Monstro Chefe!
+QUEST_20190419_011039	Cubo Misterioso Vermelho
+QUEST_20190419_011040	Cubo Misterioso Dourado
+QUEST_20190419_011041	Cubo Misterioso Azul
+QUEST_20190419_011042	Excedido o limite de uso.
+QUEST_20190419_011043	Uso concluído.
+QUEST_20190419_011044	Sentinela Viola
+QUEST_20190419_011045	Sentinela Ailee
+QUEST_20190419_011046	Selecione a dificuldade para Uphill Defense.{nl}A dificuldade será definida de acordo com a maioria.
+QUEST_20190419_011047	Lapemiter está indo até a Tocha Divina!
+QUEST_20190501_011048	{#003399}Base Swordsman{/}: Dragoon, Fencer{nl}{#003399}Base Wizard{/}: Wizard, Cryomancer, Warlock, Featherfoot, Shadowmancer,{nl}Bokor, Taoist, Necromancer, Pyromancer, Sage, Elementalist
+QUEST_20190501_011049	{#003399}Base Archer{/}: Hunter, Appraiser{nl}{#003399}Base Cleric{/}: Druid, Pardoner, Miko{nl}
+QUEST_20190501_011050	{#003399}Base Scout{/}: Shinobi, Assassin, Bullet Marker
+QUEST_20190501_011051   #N/A QUEST_011051
+QUEST_20190501_011052	Amantes de Tulipas de Klaipeda
+QUEST_20190501_011053	É a minha vez de receber uma Tulipa?{nl}Que ótimo! E o que você quer em troca?
+QUEST_20190510_011055	{@st41}{#FF6700}Evento Doce Surpresa{/}{/}
+QUEST_20190510_011056	Você pode receber as seguintes recompensas durante o evento.{nl}10 de Maio: Sweet Candy Necklace (Physical/14 Dias) x1{nl}11 de Maio: Sweet Candy Necklace (Magic) (14 Dias) x1{nl}12 de Maio: Sweet Candy Bracelet (Magic) (14 Dias) x2{nl}13 de Maio: Sweet Candy Bracelet (Physical) (14 Dias) x2 
+QUEST_20190510_011057	{@st41}{#FF6700}Ajutante de Prêmios{/}{/}
+QUEST_20190510_011058	Entre no TOS nos finais de semana do período do evento para receber prêmios especiais!
+QUEST_20190529_011059	Os três regentes de Nicopolis estão mais poderosos do que nunca. A ganância deles não conhece limites. Não satisfeitos em tiranizar Nicopolis, eles tenttam influenciar a vida no Reino além da própria cidade.{nl}O Reino e as suas leis são tudo o que se coloca entre eles e o poder maior. Os moradores de Nicopolis ficarão ainda mais amarrados se forem ignorados dos limites da lei do Reino. Não importam os meios, eles tentarão apertar Nicopolis ainda mais.
+QUEST_20190601_011060	Obrigado por derrotar todos os Little Sunfishes!{nl}Isto não é muito, mas por favor aceite isto como gratidão.
+QUEST_20190601_011061	Desculpe, mas não tenho mais nada para te dar.{nl}
+QUEST_20190601_011062	Baús do Tesouro devem aparecer quando derrotar todos os Little Sunfishes.{nl}Ouvi que só podem ser abertos uma vez por personagem.

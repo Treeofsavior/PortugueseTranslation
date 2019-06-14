@@ -1,4 +1,4 @@
-﻿UI_20150317_000001	{@st41b}Aprender Atributos{nl}dos respectivos Mestres de cada classe.{/}
+﻿UI_20150317_000001		{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
 UI_20150317_000002	{@st43}Lista de Atributos {/}
 UI_20150317_000003	{@st59}Fechar{/}
 UI_20150317_000004	{@st43}Aprender Atributos{/}
@@ -213,7 +213,7 @@ UI_20150317_000212	{@st59b}Amigos{nl}{@st59s} - Fazer amizade com outros jogador
 UI_20150317_000213	{@st41b}Mostrar amigos online{/}
 UI_20150317_000214	{@st41b}Lista
 UI_20150317_000215	{@st41b}Gerenciar
-UI_20150317_000216	{@st41b}Enviar Pedido de Amizade
+UI_20150317_000216	{@st41b}Add. Amizade
 UI_20150317_000217	{@st41b}Bloquear
 UI_20150317_000218	{@st59}Procurar{/}
 UI_20150317_000219	{@st44}Guilda{/}
@@ -591,7 +591,7 @@ UI_20150317_000590	{Gr gradation1}Consertar{/}
 UI_20150317_000591	{@st43}Consertar{/}
 UI_20150317_000592	Lista de itens para conserto
 UI_20150317_000593	{@st41b}Custo de Conserto{/}
-UI_20150317_000594	{@st41b}Após Consertar{/}
+UI_20150317_000594	{@st41b}Saldo Restante{/}
 UI_20150317_000595	{@st41b}Consertar{/}
 UI_20150317_000596	Consertar o item selecionado.
 UI_20150317_000597	{@st59}Fechar{/}
@@ -3161,8 +3161,8 @@ UI_20180517_003159	Extrair
 UI_20180517_003160	{s22}O item foi destruído.
 UI_20180517_003161	{@st43b}{s18}Potencial
 UI_20180517_003162	{@st43b}{s18}Opções Extraídas
-UI_20180517_003163	Desmontar Item Lendário
-UI_20180517_003164	Desmontar
+UI_20180517_003163	Desmanchar Item Lendário
+UI_20180517_003164	Desmanchar
 UI_20180517_003165	Aplicar Atributos de Conjunto
 UI_20180517_003166	{@st43}Criar Equip Lendário{/}
 UI_20180517_003167	{@st59}Fechar.{/}
@@ -3376,7 +3376,7 @@ UI_20180629_003374	Básico{/}
 UI_20180629_003375	{#003997}{b}Estágio Completo: %s
 UI_20180629_003376	{ol}Add ao Carro
 UI_20180629_003377	Current Items
-UI_20180629_003378	{@st41b}{S16}%s% Cupom de Desconto
+UI_20180629_003378	{@st41b}{S16}%s% Desconto
 UI_20180629_003379	{@st41b}{s16}{nl}Trocar
 UI_20180704_003380	Por favor registre um Material de Aparência ou itens equivalentes.
 UI_20180723_003381	{@st42}{s20}Prêmios da Vitória
@@ -3750,7 +3750,7 @@ UI_20190104_003748	99 Days 99 Hours 99 Minutes	99일 99시간 99분
 UI_20190104_003749	  Exchange Vouchers available{/}	  보유중인 교환권{/}			
 UI_20190104_003750	  Remaining Exchange Vouchers{/}	  잔여 교환권{/}			
 UI_20190104_003751	Exchange Voucher to be used	장바구니 교환권			
-UI_20190104_003752	{@st66b}Class Tree Costume Exchange{/}	{@st66b}계열 코스튬 교환{/}			
+UI_20190104_003752	{@st66b}Costume Exchange{/}	{@st66b}계열 코스튬 교환{/}				
 UI_20190104_003753	{@st66b}Rookie Player Shop{/}	{@st66b}신규유저 전용상점{/}			
 UI_20190104_003754	{@st66b}Returning Player Shop{/}	{@st66b}복귀유저 전용상점{/}			
 UI_20190104_003755	Trade your Exchange Vouchers{nl}for a costume	보유 중인 교환권을 {nl}코스튬으로 교환			
@@ -3830,3 +3830,19 @@ UI_20190223_003829	{@st59}Coleção (F11){/}
 UI_20190223_003830	{@st66b}Ver HP de Invocação do grupo{/}
 UI_20190223_003831	Botão
 UI_20190409_003832	{@st66b}Consome %s x1.{/}
+UI_20190419_003833	Kit de Transmutação
+UI_20190419_003834	Transmutação de Ichor
+UI_20190419_003835	Transmutar
+UI_20190419_003836	{@st43b}{s18}Sucesso de Transmutação: %s%
+UI_20190419_003837	{@st43b}{s18}Atributos do Ichor
+UI_20190419_003838	{s14}※ Você pode acumular até 20.000 pontos, que são reiniciados a cada 3 meses (Dia 1 de Jan, Abr, Jul e Out, à 00:00 do servidor).
+UI_20190419_003839	{@st66d}Voltar para a Cidade{/}
+UI_20190419_003840	{@st43}{s26}Insignias Obtidas: %s
+UI_20190419_003841	{@st66d_y}{s22}Bônus de Rank + %s Insígnias
+UI_20190419_003842	{@st66b}Ranking{/}
+UI_20190419_003843	{@st66b}Time{/}
+UI_20190419_003844	{@st66b}Pontos{/}
+UI_20190419_003845	{@st66b}Voltar para Vedas Plateau (30 seg).{/}
+UI_20190419_003846	O item desaparecerá do seu inventário{nl}e %s será reiniciado.%s{/}
+UI_20190419_003847	{@st66b}O Top 3 de jogadores de cada Classe Base recebe{nl}{#003997}"Dimensional Incense Burner"{/} baseado no ranking da semana passada.{nl}Jogadores que participaram na semana recebem{nl}{#003997}"Remnants of Bernice Coins"{/} baseado na sua pontuação.{nl} {nl}{s13}A semana começa na Segunda ás 06:00 (servidor).{nl} {nl}{s13}{#8e0000}Jogadores no Top 3 de várias Classes Base recebem somente a recompensa da maior pontuação.{nl} {nl}Se isso acontecer, o próximo jogador elegível da Classe Base recebe a recompensa.
+UI_20190419_003848	{@st66b}Mira Automática{/}
