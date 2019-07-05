@@ -14863,7 +14863,6 @@ ETC_20151001_014864	Unable to find the property of IES object that match the cla
 ETC_20151001_014865	DSN file is incorrect. Please check the serverDB.int file is exists and the information.
 ETC_20151001_014866	Information of ID, PW to connect DB is incorrect. Please check the server.int is exists and the information.
 ETC_20151001_014867	Failed to create the field boss creation. Unable to find the server and zone from the mapID.
-ETC_00000000_0000TK
 ETC_20151001_014868	The error related with Redis server happened. Please check the error message.
 ETC_20151001_014869	Failed to the running SP. Please check the SP information and error code.
 ETC_20151001_014870	The command line parameter is incorrect. Please check the information of program bath file.
@@ -15348,12 +15347,6 @@ ETC_20151001_015348	You've restored the energies!{nl}The energies form the cryst
 ETC_20151001_015349	Capture a Hanaming!
 ETC_20151001_015350	Capture the Hanaming before the other players!
 ETC_20151001_015351	Disuse
-
-print("ZZZ");
-
-
-
-return 다른 플레이어보다 먼저 하나밍을 포획dd!;	ETC_20151001_015350	Capture the Hanaming before the other players!	다른 플레이어보다 먼저 하나밍을 포획!
 ETC_20151001_015352	The game has ended.
 ETC_20151001_015353	{@st42}Goal
 ETC_20151001_015354	Mage Tower Formation Movement Magic Circle
@@ -15465,7 +15458,7 @@ ETC_20151001_015459	The fourth barrier was destroyed due to the monster's attack
 ETC_20151001_015460	All barriers have disappeared. The room to the fifth barrier will soon open.
 ETC_20151001_015461	The room to the fifth barrier has opened.{nl}Derrote all the boss monsters within the time limit
 ETC_20151001_015462	Missão Sucedida: você retornará em aproximadamente 1 minuto.
-ETC_20151001_015463Missão Perdida!{nl}você retornará em breve.
+ETC_20151001_015463	Missão Perdida!{nl}você retornará em breve.
 ETC_20151001_015464	A missão começa em 1 minuto.
 ETC_20151001_015465	A missão começa em 50 segundos.
 ETC_20151001_015466	A missão começa em 40 segundos.
@@ -28340,7 +28333,7 @@ ETC_20170726_028313	Festival Balloon Kiosk	축제용 풍선 가판대
 ETC_20170726_028314	CON {img green_up_arrow 16 16} 25	체력 {img green_up_arrow 16 16}25 증가
 ETC_20170726_028315	Aumenta o ataque elemental em valor equivalente à sua resistência elemental{nl}- Todos os Elementos afetados{nl}- Máx. 300 por elemento	속성 저항력만큼 속성 공격력 증가 {nl}- 적용 속성: 독, 불, 얼음, 전기, 독, 어둠, 신성, 땅, 염{nl}- 각 속성당 최대 300까지 전환
 ETC_20170726_028316	Ataque em área {img green_up_arrow 16 16}1{nl}Ataque Crítico {img green_up_arrow 16 16}231	광역 공격 비율 {img green_up_arrow 16 16}1 증가{nl}                         치명타 공격력 {img green_up_arrow 16 16}231
-ETC_20170726_028317 Chance de causar dano adicional de 2000 a 3000 no inimigo.{Nl}- Chance aumenta com o n° de inimigos próximos.{nl}- Max. Aumento de 20%
+ETC_20170726_028317	Chance de causar dano adicional de 2000 a 3000 no inimigo.{Nl}- Chance aumenta com o n° de inimigos próximos.{nl}- Max. Aumento de 20%
 ETC_20170726_028318	HP {img green_up_arrow 16 16}1023{nl}DEX {img green_up_arrow 16 16}10	HP {img green_up_arrow 16 16}1023 증가{nl}                         민첩 {img green_up_arrow 16 16}10
 ETC_20170726_028319	- Aumenta o ataque físico e mágico em 10 por cada golpe recebido.{nl} 50 cargas aumentam o ataque físico e mágico em 500 e mantêm-se por 10 segundos.	1회 피격시 물리, 마법 방어력이 10씩 상승합니다. 50스택 달성시 물리, 마법방어력 500 추가 증가 후 10초간 유지됩니다.
 ETC_20170726_028320	Lynnki Sit Set	라느키 시트 세트
@@ -30009,10 +30002,10 @@ ETC_20171128_029982	Right-click to obtain the following items:{nl}- Chuseok Hanb
 ETC_20171128_029983	Living Support Box
 ETC_20171128_029984	A box containing items useful for living. Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Premium Warp Scroll x5{nl}  - Urgent Repair Kit x2{nl} - Movement Speed Potion: 1 Hour x2
 ETC_20171128_029985	Rank Reset Voucher
-ETC_20171128_029986	
-ETC_20171128_029987	
-ETC_20171128_029988	
-ETC_20171128_029989	
+ETC_20171128_029986	Halloween Costume Package (Male)
+ETC_20171128_029987	Right-click to obtain the following items.{nl}- Vampire costume (Male) x1{nl}- Halloween Surprise Cube x3
+ETC_20171128_029988	Halloween Costume Package (Female)
+ETC_20171128_029989	Right-click to obtain the following items.{nl}- Vampire costume (Female) x1{nl}- Halloween Surprise Cube x3
 ETC_20171128_029990	Token: (15 Days)[Vakarine]
 ETC_20171128_029991	Applies Token benefits to all your characters in the server for 15 days. Right-click to use. Remaining time can be checked in the Character Info window. {nl}[Token Benefits]{nl} - Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl}  - Able to use Premium Gestures{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 
 ETC_20171128_029992	Guild Emblem Change Voucher
@@ -30550,8 +30543,8 @@ ETC_20171128_030523	This item can be used after {DAY} days {HOUR} hours {MIN} mi
 ETC_20171128_030524	From the item  
 ETC_20171128_030525	you've obtained 
 ETC_20171128_030526	You cannot participate in the event because you're currently restricted from events.
-ETC_20171128_030527	
-ETC_20171128_030528	
+ETC_20171128_030527	You can only use with {COUNT} or more Candies!
+ETC_20171128_030528	You must unlock the class before advancing
 ETC_20171128_030529	You've obtained Teresh Pollen.
 ETC_20171128_030530	The flower has not yet fully bloomed.
 ETC_20171128_030531	Sprinkling Atti Yellow Juice
@@ -31147,10 +31140,10 @@ ETC_20171207_031120	Tel Harshas are one of the many forms a human can take when 
 ETC_20171207_031121	Christmas Sled Box
 ETC_20171207_031122	You fell asleep. Can't perform any actions until hit by an attack.
 ETC_20171207_031123	Presente Perdido
-ETC_20171207_031124	
-ETC_20171207_031125	
-ETC_20171207_031126	
-ETC_20171207_031127	
+ETC_20171207_031124	Beach Santa Costume Package (Female)
+ETC_20171207_031125	Right-click to obtain the following items.{nl}- Beach Santa Costume (Female) x1{nl}- Tree Ornament Cube x2
+ETC_20171207_031126	Beach Santa Costume Package (Male)
+ETC_20171207_031127	Right-click to obtain the following items.{nl}- Beach Santa Costume (Male) x1{nl}- Tree Ornament Cube x2
 ETC_20171207_031128	Rudolph Costume Box
 ETC_20171207_031129	Right-click to use and obtain the following items.{nl}- Rudolph Costume x1{nl}- Rudolph Helmet x1
 ETC_20171207_031130	Christmas Sled
@@ -34918,8 +34911,8 @@ ETC_20180730_034882	Gol
 ETC_20180730_034883	Charge Crystal
 ETC_20180730_034884	Se você cehgar a 0, irá falhar o desafio. {Nl} Usando uma Charge Crystal adiciona  
 ETC_20180730_034885	+10 chutes
-ETC_20180806_034886 Mensagem não pode ser maior que {Len} bytes.	
-ETC_20180806_034887 Não pode usar enquanto montado.
+ETC_20180806_034886	Mensagem não pode ser maior que {Len} bytes.	
+ETC_20180806_034887	Não pode usar enquanto montado.
 ETC_20180809_034888	Legend Cube Reopen Voucher
 ETC_20180809_034889	Isenta os custos de Silver da primeira reabertura de um Legend Cube.{nl}O Voucher precisa estar no seu inventário, ele será consumido automaticamente.{nl}Use para os seguintes Cubos:{nl}- Velcoffer Cube
 ETC_20180809_034890	Legend Cube Reopen Voucher x5 Box
@@ -41885,7 +41878,7 @@ ETC_20190419_041799	Estágio 12 vai começar!{nl}Proteja a Tocha Divina por 30 s
 ETC_20190419_041800	Estágio 13 vai começar!{nl}Proteja a Tocha Divina por 30 segundos.
 ETC_20190419_041801	Estágio 14 vai começar!{nl}Proteja a Tocha Divina por 30 segundos.
 ETC_20190419_041802	Estágio 15 vai começar!{nl}Proteja a Tocha Divina e derrote todos os monstros em 3 minutos.
-ETC_20190419_041803	"Missão Concluída!!
+ETC_20190419_041803	Missão Concluída!!
 ETC_20190419_041804	Você retornará para a entrada em 60 segundos.{nl}Um cubo aparecerá no centro do mapa, interaja com ele para poder [Re-abrir] o Cubo.
 ETC_20190419_041805	Solmiki - Área 1 concluída.{nl}Saindo em breve para Istora Ruins.
 ETC_20190419_041806	Earth Tower 26F vai começar!{nl}Siga para o 26F.
