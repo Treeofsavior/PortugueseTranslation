@@ -18786,7 +18786,7 @@ ETC_20151224_018787	OptDesc/Gelo Spike Skill Lv +1
 ETC_20151224_018788	OptDesc/Gelo Wall Skill Lv +1
 ETC_20151224_018789	OptDesc/Gelo Blast Skill Lv +1
 ETC_20151224_018790	OptDesc/Gust Skill Lv +1
-ETC_20151224_018791	OptDesc/Snow Rollng Skill Lv +1
+ETC_20151224_018791	OptDesc/Snow Rolling Skill Lv +1
 ETC_20151224_018792	OptDesc/Frost Pillar Skill Lv +1
 ETC_20151224_018793	OptDesc/Psychic Pressure Skill Lv +1
 ETC_20151224_018794	OptDesc/Telekinesis Skill Lv +1
@@ -24589,7 +24589,7 @@ ETC_20161005_024590	Sausis Room 10
 ETC_20161005_024591	Valandis Room 2
 ETC_20161005_024592	Valandis Room 3
 ETC_20161005_024593	Valandis Room 91
-ETC_20161005_024594	Valandis Room 27
+ETC_20161005_024594	Barynwell 27 Waters
 ETC_20161005_024595	Maven 31 Waters
 ETC_20161005_024596	Maven 32 Waters
 ETC_20161005_024597	Zeteor Coast
@@ -41389,7 +41389,7 @@ ETC_20190419_041310	Sheriffs são especializados em mobilidade e combate à dist
 ETC_20190419_041311	Definir Data
 ETC_20190419_041312	Savinose
 ETC_20190419_041313	CON {img green_up_arrow 16 16} 42
-ETC_20190419_041314	Velocidade de Movimento {img green_up_arrow 16 16} 3{nl} STA 30
+ETC_20190419_041314	Velocidade de Movimento {img green_up_arrow 16 16} 3{nl} Stamina {img green_up_arrow 16 16}30
 ETC_20190419_041315	[Graça de Rykuma]{nl}- Imunidade à debuffs de Nv.4 ou menor por 20 segundos.{nl}- Consome Lensterseum x1{nl} {nl}[Dragon Strength Lv 1]{nl}- Aumenta a duração de [Graça de Rykuma] em 10 segundos
 ETC_20190419_041316	STR {img green_up_arrow 16 16} 32{nl} INT {img green_up_arrow 16 16} 32
 ETC_20190419_041317	[Ruína de Korup]{nl}- HP Máximo em -30%, Dano +30% por debuff no inimigo (10 segundos de duração, aumento máximo de 240%){nl} {nl}- Consome Riperium x1{nl} {nl}[Dragon Strength Lv 1]{nl}Os seguintes efeitos também se aplicam junto de [Ruína de Korup]:{nl}- Dano Físico e Veneno +10%{nl}- Taxa de Crítico para Ataques Mágico e de [Curse] +20%
@@ -42037,7 +42037,7 @@ ETC_20190611_041958	Recipe - Skiaclipse Cannon	제작서 - 스키아클립스 �
 ETC_20190611_041959	Recipe - Skiaclipse Musket	제작서 - 스키아클립스 머스킷				
 ETC_20190611_041960	Recipe - Skiaclipse Maul	제작서 - 스키아클립스 마울				
 ETC_20190611_041961	Recipe - Skiaclipse Two-handed Maul	제작서 - 스키아클립스 투 핸드 마울				
-ETC_20190611_041962	Recipe - Skiacliipse Caster	제작서 - 스키아클립스 캐스터				
+ETC_20190611_041962	Recipe - Skiaclipse Caster	제작서 - 스키아클립스 캐스터				
 ETC_20190611_041963	Recipe - Skiaclipse Rune Staff	제작서 - 스키아클립스 룬스탭				
 ETC_20190611_041964	Recipe - Skiaclipse Epee	제작서 - 스키아클립스 에페				
 ETC_20190611_041965	Recipe - Skiaclipse Knife	제작서 - 스키아클립스 나이프				
@@ -42045,7 +42045,7 @@ ETC_20190611_041966	Recipe - Skiaclipse Robe	제작서-스키아클립스 로브
 ETC_20190611_041967	Recipe - Skiaclipse Leather Armor	제작서-스키아클립스 레더 아머				
 ETC_20190611_041968	Recipe - Skiaclipse Plate Armor	제작서-스키아클립스 플레이트 아머				
 ETC_20190611_041969	Recipe - Skiaclipse Pants	제작서-스키아클립스 팬츠				
-ETC_20190611_041970	Recipe - Skiacliipse Leather Pants	제작서-스키아클립스 레더 팬츠				
+ETC_20190611_041970	Recipe - Skiaclipse Leather Pants	제작서-스키아클립스 레더 팬츠				
 ETC_20190611_041971	Recipe - Skiaclipse Plate Pants	제작서-스키아클립스 플레이트 팬츠				
 ETC_20190611_041972	Recipe - Skiaclipse Boots	제작서-스키아클립스 부츠				
 ETC_20190611_041973	Recipe - Skiaclipse Leather Boots	제작서-스키아클립스 레더 부츠				
@@ -42056,14 +42056,14 @@ ETC_20190611_041977	Recipe - Skiaclipse Plate Gauntlet	제작서-스키아클립
 ETC_20190611_041978	Recipe - Skiaclipse Fist	제작서-스키아클립스 피스트				
 ETC_20190611_041979	Recipe - Skiaclipse Leather Fist	제작서-스키아클립스 레더 피스트				
 ETC_20190611_041980	Recipe - Skiaclipse Handguard	제작서-스키아클립스 핸드가드				
-ETC_20190611_041981	Recipe - Skiacliipse Shoes	제작서-스키아클립스 슈즈				
+ETC_20190611_041981	Recipe - Skiaclipse Shoes	제작서-스키아클립스 슈즈				
 ETC_20190611_041982	Recipe - Skiaclipse Leather Shoes	제작서-스키아클립스 레더 슈즈				
 ETC_20190611_041983	Recipe - Skiaclipse Sabaton	제작서-스키아클립스 사바톤				
 ETC_20190611_041984	Recipe - Skiaclipse Cotton Wear	제작서-스키아클립스 코튼 웨어				
 ETC_20190611_041985	Recipe - Skiaclipse Brigandine	제작서-스키아클립스 브리간딘				
 ETC_20190611_041986	Recipe - Skiaclipse Steel Mail	제작서-스키아클립스 스틸 메일				
-ETC_20190611_041987	Recipe - Skiacliipse Slacks	제작서-스키아클립스 슬랙스				
-ETC_20190611_041988	Recipe - Skiaclipse Trouser	제작서-스키아클립스 트라우저				
+ETC_20190611_041987	Recipe - Skiaclipse Slacks	제작서-스키아클립스 슬랙스				
+ETC_20190611_041988	Recipe - Skiaclipse Trousers	제작서-스키아클립스 트라우저				
 ETC_20190611_041989	Recipe - Skiaclipse Steel Pants	제작서-스키아클립스 스틸 팬츠				
 ETC_20190611_041990	/badge	/뱃지				
 ETC_20190611_041991	The skill cannot be used in this area.	해당 지역에서 사용이 제한된 스킬입니다.				
@@ -42090,7 +42090,7 @@ ETC_20190611_042011	The Sealing Stone has been activated!{nl}Defeat the number o
 ETC_20190611_042012	You were successful in preventing the Skiaclipse from powering up!	시간 내에 성공하여 스키아클립스가 강해지는 걸 막았습니다!				
 ETC_20190611_042013	You ran out of time.{nl}The Skiaclipse's power has increased and it has trapped you.	시간 내에 성공하지 못했습니다.{nl}스키아클립스가 강해지며 잠시 동안 나갈 수 없게 됩니다.				
 ETC_20190611_042014	The Skiaclipse has cursed you!{nl}Transfer the curse to another party member quickly!	스키아클립스가 당신에게 저주를 걸었습니다!{nl}빠른 시간 내에 다른 파티원에게 저주를 전달해주세요!				
-ETC_20190611_042015	The Skiacliipse has cursed your party member!{nl}Hurry and take the curse away from your ally before its too late!	스키아클립스가 당신의 파티원에게 저주를 걸었습니다!{nl}파티원이 사망하지 않도록 저주가 발동되기 전에 저주를 서로서로 받아주세요!				
+ETC_20190611_042015	The Skiaclipse has cursed your party member!{nl}Hurry and take the curse away from your ally before its too late!	스키아클립스가 당신의 파티원에게 저주를 걸었습니다!{nl}파티원이 사망하지 않도록 저주가 발동되기 전에 저주를 서로서로 받아주세요!				
 ETC_20190611_042016	You've transferred the curse!{nl}You are immune from being cursed again for a while.	저주를 보냈습니다!{nl}잠시 동안 다른 파티원으로부터 저주를 받지 못합니다.				
 ETC_20190611_042017	You have received the curse!{nl}Transfer the curse to another party member!	저주를 받았습니다!{nl}빠른 시간 내에 다른 파티원에게 저주를 전달해주세요!				
 ETC_20190611_042018	The Skiaclipse's curse has been lifted!	시간이 지나 스키아클립스의 저주가 풀렸습니다!				

@@ -2023,7 +2023,7 @@ SKILL_20150317_002022	Number of attacks Telekinesis can do increases. {nl} (Incr
 SKILL_20150317_002023	Ignite	이그나이트				
 SKILL_20150317_002024	Amount of damage is doubled when attacking enemy under Slow with Fire Ball.	슬로우 상태의 적에게 파이어볼 공격시 데미지가 2배로 적용됩니다.				
 SKILL_20150317_002025	Spear Blow has a chance to stun.{nl} (Increases by 5% per level.)	스피어블로우 스킬 스턴 확률 추가.{nl}(레벨당 5%씩 증가)				
-SKILL_20150317_002026	Surprise Attack	기습				
+SKILL_20150317_002026	Ambush	기습				
 SKILL_20150317_002027	Additional critical chance against stunned enemies. {nl} (Basic chance of 30% + 5% added per level.)	스턴 상태인 적 공격시 일정확률로 추가 데미지를 줍니다.{nl}(기본 30% + 레벨당 5%씩 추가)				
 SKILL_20150317_002028	Concentration	집중				
 SKILL_20150317_002029	Taxa de Crítico increases when attacking far away enemies. {nl} (Basic chance of 50% + 5% added per level.)	최대 사거리 근처에 있는 적 공격시 일정확률로 치명타가 들어갑니다.{nl}(기본 50% + 레벨당 5%씩 추가)				
@@ -3402,7 +3402,7 @@ SKILL_20150401_003401	Damage of [Snow Rolling] Increase per Attribute level.	특
 SKILL_20150401_003402	Gather Corpse: Aprimorar	게더 콥스: 강화				
 SKILL_20150401_003403	Damage of [Gather Corpse] Increase per Attribute level.	특성 레벨당 [게더 콥스] 대미지가 상승합니다.				
 SKILL_20150401_003404	Flesh Cannon: Aprimorar	플레쉬 캐논: 강화				
-SKILL_20150401_003405	Damage of [Flesh Canon] Increase per Attribute level.	특성 레벨당 [플레쉬 캐논] 대미지가 상승합니다.				
+SKILL_20150401_003405	Damage of [Flesh Cannon] Increase per Attribute level.	특성 레벨당 [플레쉬 캐논] 대미지가 상승합니다.				
 SKILL_20150401_003406	Flesh Cannon: Aprimorar 2	플레쉬 캐논: 강화 2				
 SKILL_20150401_003407	Enhanced the damage of [Flesh Cannon] to Necromancer's 2nd Circle standards.	[플레쉬 캐논] 대미지가 네크로맨서 2서클 수준으로 강화됩니다.				
 SKILL_20150401_003408	Flesh Cannon: Aprimorar 3	플레쉬 캐논: 강화 3				
@@ -3985,8 +3985,8 @@ SKILL_20150414_003984	Summon Familar: Espalhar
 SKILL_20150414_003985	When summoned familiar spirit explodes itself, there 1% chance per attribute level for it to damage nearby enemies.	스킬 [사역마 소환]의 사역마가 자폭할 때 특성 레벨 당 1% 확률로 주변 적에게도 피해를 줍니다.				
 SKILL_20150414_003986	Sorcerer: Recuperação de SP
 SKILL_20150414_003987	Character's SP recovery increase by 1 per attribute level.	캐릭터의 SP 회복력이 특성 레벨 당 1씩 증가합니다.				
-SKILL_20150414_003988	Flesh Canon: Decompose	플래쉬 캐논: 부패				
-SKILL_20150414_003989	There is a chance of enemy falling under decompose status for 30 seconds when attacked with [Flesh Canon]. Chance increases by 5% per attribute level.	스킬 [플래쉬 캐논]에 피격 된 적은 확률적으로 30초 동안 부패 상태에 빠집니다. 특성 레벨 당 확률이 5%씩 증가합니다.				
+SKILL_20150414_003988	Flesh Cannon: Decompose	플래쉬 캐논: 부패				
+SKILL_20150414_003989	There is a chance of enemy falling under decompose status for 30 seconds when attacked with [Flesh Cannon]. Chance increases by 5% per attribute level.	스킬 [플래쉬 캐논]에 피격 된 적은 확률적으로 30초 동안 부패 상태에 빠집니다. 특성 레벨 당 확률이 5%씩 증가합니다.				
 SKILL_20150414_003990	Flesh Hoop: Desmoralizar
 SKILL_20150414_003991	Attak of enemies nearby the hoop after using [Flesh Hoop] decrease for 15 seconds. It turns back to normal when moving away from the hoop.	[플래쉬 후프] 사용 후 15초 동안 후프 근처에 있는 적은 공격력이 감소됩니다. 후프에서 멀어지면 정상적으로 돌아옵니다.				
 SKILL_20150414_003992	Item Awakening: Quick	아이템 어웨이크닝: 속전				
@@ -4492,7 +4492,7 @@ SKILL_20150714_004491	Increases the duration of [Confusion] from Lv. 2 by 2 seco
 SKILL_20150714_004492	Increases the damage dealt on an enemy with [Gather Corpse] by 1% per attribute level.	적에게 입히는 [게더 콥스]의 대미지가 특성 레벨당 1% 증가합니다.				
 SKILL_20150714_004493	Increases the damage dealt on an enemy with [Flesh Cannon] by 1% per attribute level.	적에게 입히는 [플레쉬 캐논]의 대미지가 특성 레벨당 1% 증가합니다.				
 SKILL_20150714_004494	Increases the damage dealt on an enemy with [Flesh Hoop] by 1% per attribute level.	적에게 입히는 [플레쉬 후프]의 대미지가 특성 레벨당 1% 증가합니다.				
-SKILL_20150714_004495	When an enemy gets shot by [Flash Canon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.	스킬 [플래쉬 캐논]에 피격 된 적은 확률적으로 30초 동안 부패 상태에 빠집니다. 특성 레벨당 확률이 5%씩 증가합니다.				
+SKILL_20150714_004495	When an enemy gets shot by [Flash Cannon], it will fall into Decay status for 30 secs with a certain probability. The rate will increase by 5% per Attribute level.	스킬 [플래쉬 캐논]에 피격 된 적은 확률적으로 30초 동안 부패 상태에 빠집니다. 특성 레벨당 확률이 5%씩 증가합니다.				
 SKILL_20150714_004496	Create Shoggoth: Decomposição
 SKILL_20150714_004497	Enemies near Shoggoth will be afflicted with [Corruption] for 10 seconds. Lasts for 1 minute per attribute level after Shoggoth is summoned.	쇼고스 근처에 있는 적은 10초 동안 부패 상태에 걸립니다. 이 능력은 쇼고스가 소환 되고서 특성 레벨당 1분간 지속됩니다.				
 SKILL_20150714_004498	Disinter: Increased Range	디신터: 범위 증가				
@@ -7172,7 +7172,7 @@ SKILL_20161005_007171	Schwarzer Reiter 3rd Circle Required	슈바르츠라이터
 SKILL_20161005_007172	Warlock 2nd Circle Required	워록 2서클 필요				
 SKILL_20161010_007173	Deals constant Holy property damage.	지속적으로 신성 속성 피해를 받음.				
 SKILL_20161010_007174	Applies beneficial effects to allies.	동료에게 이로운 효과를 부여함.				
-SKILL_20161010_007175	Adds +1 skill level for installment skills.	설치물 스킬레벨이 +1 증가				
+SKILL_20161010_007175	Adds +1 skill level for Magic Circle skills.	설치물 스킬레벨이 +1 증가				
 SKILL_20161010_007176	Server EXP Bonus	서버 추가 경험치				
 SKILL_20161010_007177	EXP Event Bonus	추가 경험치 이벤트				
 SKILL_20161010_007178	N/A	PC방 추가 경험치				
@@ -9969,10 +9969,10 @@ SKILL_20171128_009968	Challenger	챌린저
 SKILL_20171128_009969	Increases Looting Chance.	루팅 찬스가 증가합니다.				
 SKILL_20171128_009970	End Challenge	도전 종료				
 SKILL_20171128_009971	You can no longer participate today.	금일은 더이상 참여할 수 없습니다.				
-SKILL_20171128_009972	* Can equip [Two-handed Sword] type weapons{nl}* Increase AoE by 1 when equipped with a [Two-handed Sword].	* [양손검] 계열 무기 착용 가능{nl}* [양손검] 착용시 광역 공격 비율 1 증가	SKILL_20170313_007410	* Can equip [Two-handed Sword] type weapons	* [양손검] 계열 무기 착용 가능	
+SKILL_20171128_009972	* Can equip [Two-handed Sword] type weapons{nl}* Increase AoE Attack Ratio by 1 when equipped with a [Two-handed Sword].	* [양손검] 계열 무기 착용 가능{nl}* [양손검] 착용시 광역 공격 비율 1 증가	SKILL_20170313_007410	* Can equip [Two-handed Sword] type weapons	* [양손검] 계열 무기 착용 가능	
 SKILL_20171128_009973	* Can equip [One-handed Spear] type weapons{nl}* Increase attack range by 5 when equipped with a [One-handed Spear].	* [한손창] 계열 무기 착용 가능{nl}* [한손창] 착용시 공격 범위 5 증가{nl}* [한손창] 착용시 중형, 대형 크기 적에게 주는 대미지 5% 증가	SKILL_20170313_007411	* Can equip [One-handed Spear] type weapons	* [한손창] 계열 무기 착용 가능	
 SKILL_20171128_009974	* Can equip [Two-handed Spear] type weapons{nl}* Increase attack range by 10 when equipped with a [Two-handed Spear].	* [양손창] 계열 무기 착용 가능{nl}* [양손창] 착용시 공격 범위 10 증가	SKILL_20170313_007412	* Can equip [Two-handed Spear] type weapons	* [양손창] 계열 무기 착용 가능	
-SKILL_20171128_009975	* Can equip [Staff] type weapons{nl}* Increase AoE by 1 when equipped with a [Staff].	* [스태프] 계열 무기 착용 가능{nl}* [스태프] 착용시 광역 공격 비율 1 증가	SKILL_20170313_007416	* Can equip [Staff] type weapons	* [스태프] 계열 무기 착용 가능	
+SKILL_20171128_009975	* Can equip [Staff] type weapons{nl}* Increase AoE Attack Ratio by 1 when equipped with a [Staff].	* [스태프] 계열 무기 착용 가능{nl}* [스태프] 착용시 광역 공격 비율 1 증가	SKILL_20170313_007416	* Can equip [Staff] type weapons	* [스태프] 계열 무기 착용 가능	
 SKILL_20171128_009976	* Can equip [Two-handed Blunt Weapon] type weapons{nl}* Increase block penetration by 85 when equipped with a [Two-handed Blunt Weapon].	* [양손둔기] 계열 무기 착용 가능{nl}* [양손둔기] 착용시 블록 관통 85 증가	SKILL_20170912_009631	* Can equip [Two-handed Blunt] type weapons	* [양손둔기] 계열 무기 착용 가능	
 SKILL_20171128_009977	Dragon Fall: Aprimorar	드래곤 폴: 강화				
 SKILL_20171128_009978	* Increases damage dealt with [Dragon Fall] by 0.5% per attribute level	* 적에게 입히는 [드래곤 폴]의 대미지가 특성 레벨당 0.5% 증가				
@@ -10178,7 +10178,7 @@ SKILL_20171128_010177	* Increases accuracy of [Fanatic Illusion] by 100 per attr
 SKILL_20171128_010178	* Aumenta o dano crítico causado em inimigos acertados pelo ataque adicional de [Blind Faith] em 10% por nível do atributo por 10 segundos.
 SKILL_20171128_010179	Bulletmarker 1st Circle Required	불릿 마커 1서클 필요				
 SKILL_20171128_010180	Bulletmarker 2nd Circle Required	불릿 마커 2서클 필요				
-SKILL_20171128_010181	Canoneer 3rd Circle Required	캐노니어 3서클 필요				
+SKILL_20171128_010181	Canonneer 3rd Circle Required	캐노니어 3서클 필요				
 SKILL_20171128_010182	Taoist 2nd Circle Required	도사 2서클 필요				
 SKILL_20171128_010183	Dragoon 3rd Circle Required	드라군 3서클 필요				
 SKILL_20171128_010184	Requires Dragon Soar Lv 11	드래곤소어 11레벨 필요				
@@ -14822,7 +14822,7 @@ SKILL_20190104_014821	Demolition Nv1 ou mais	데몰리션 1레벨 이상
 SKILL_20190104_014822	Indulgentia Nv1 ou mais	인둘겐티아 1레벨 이상	SKILL_20151224_006170	Pardoner 1st Circle required	파드너 1서클 필요	
 SKILL_20190104_014823	Discerning Evil Nv1 ou mais	디서닝 이블 1레벨 이상				
 SKILL_20190104_014824	Increase Magic Defense Nv1 ou mais	마법 방어력 증가 1레벨 이상				
-SKILL_20190104_014825	Decatose Nv1 ou mais	데카토스 1레벨 이상				
+SKILL_20190104_014825	Dekatos Nv1 ou mais	데카토스 1레벨 이상				
 SKILL_20190104_014826	Umbo Blow Nv1 ou mais	엄보 블로 1레벨 이상	SKILL_20151224_006171	Peltasta 1st Circle required	펠타스타 1서클 필요	
 SKILL_20190104_014827	Umbo Blow Nv5 ou mais	엄보 블로 5레벨 이상				
 SKILL_20190104_014828	Rim Blow Nv1 ou mais	림 블로 1레벨 이상	SKILL_20151224_006171	Peltasta 1st Circle required	펠타스타 1서클 필요	
@@ -15222,7 +15222,7 @@ SKILL_20190419_015221	Multiplicador:#{SkillFactor}#% a cada 0.4 segundos{nl}Cons
 SKILL_20190419_015222	Invoca um osso pontiagudo, chamado de Kundela. O osso aponta para os inimigos dentro da área, aplicando o efeito de [Hexing] Nv.1 nos alvos.
 SKILL_20190419_015223	Multiplicador: #{SkillFactor}#%{nl}Número de Bloqueios: #{CaptionRatio}#{nl}Duração de [Bone Pointing: #{CaptionRatio2}# segundos{nl}Duração de {#339999}{ol}[Hexing]{/}{/}: 7 segundos
 SKILL_20190419_015224	Ataca um inimigo com uma adaga amaldiçoada, feita de ossos. Os inimigos alvejados sofrerão com [Decay].
-SKILL_20190419_015225	Multiplicador: #{SkillFactor}#%{nl}Alvos: 10{nl}Duração de [Decay]: #{CaptionRatio2}# segundos
+SKILL_20190419_015225	Multiplicador: #{SkillFactor}#%{nl}Alvos: 10{nl}Duração de [Corruption]: #{CaptionRatio2}# segundos
 SKILL_20190419_015226	Coloca sapatos feitos de cabelo e sangue. Você deixará pegadas de sangue ao caminhar, causando dano e amaldiçoando temporariamente os inimigos que tocarem nas pegadas.
 SKILL_20190419_015227	Multiplicador: #{SkillFactor}#%{nl}Duração da pegada: #{CaptionRatio}# segundos{nl}Vel. Movimento reduzida em -#{CaptionRatio2}#
 SKILL_20190419_015228	Ataca os inimigos utilizando a Kundela.{nl}{#00113F}Se for utilizada contra uma [Ice Wall], libera fragmentos de gelo.{/}
@@ -15250,7 +15250,7 @@ SKILL_20190419_015249	Deixa uma aparição no seu local, enquanto você teleport
 SKILL_20190419_015250	Duração da aparição: #{CaptionTime}# segundos{nl}Leva junto aliados dentro de uma área de 100
 SKILL_20190419_015251	Comprime o espaço ao redor de um inimigo, causando dano. Quanto mais você carregar a habilidade, mais dano será causado. Inimigos próximos serão puxados para este alvo.
 SKILL_20190419_015252	Multiplicador: #{SkillFactor}#% x 4{nl}Conjuração máxima: 2 segundos{nl}Dano pode aumentar em até 2x{nl}Puxa até 15 inimigos
-SKILL_20190419_015253	Conjura um buraco negro que causa dano do elemento Trevas. Quando o buraco desaparece, os inimigos dentro da área recebem dano.
+SKILL_20190419_015253	Conjura um buraco negro que causa [Blind] nos inimigos. Quando o buraco desaparece, os inimigos dentro da área recebem dano.
 SKILL_20190419_015254	Multiplicador: #{SkillFactor}#%{nl}Duração do círculo mágico: 3 segundos{nl}Alvos: #{CaptionRatio}#{nl}Duração de [Blind]: 15 segundos
 SKILL_20190419_015255	Multiplicador: #{SkillFactor}#%%{nl}Ignora 50% da defesa do inimigo sob efeito de [Blind]
 SKILL_20190419_015256	Extrai a sombra dos seus aliados e dos inimigos, comprimindo em esferas. Os inimigos que tiverem suas sombras extraídas sofrerão [Blind]. As esferas explodem após 3 segundos.
@@ -15379,7 +15379,7 @@ SKILL_20190419_015379	HP Recuperado: #{CaptionRatio}#(Taxa de Recuperação redu
 SKILL_20190419_015380	Invasione
 SKILL_20190419_015381	Ataca violentamente o inimigo que estiver na sua frente.
 SKILL_20190419_015382	Taglio
-SKILL_20190419_015383	Avança e ataca os inimigos que estiverem no caminho. Derruba os inimigos que forem alvejados. Velocidade de Movimento aumentada ao utilizar esta habilidade.
+SKILL_20190419_015383	Avança e ataca o inimigo que estiver no caminho. Empurra os inimigos que forem alvejados. Velocidade de Movimento aumentada ao utilizar esta habilidade.
 SKILL_20190419_015384	Multiplicador: #{SkillFactor}#%{nl}Velocidade de Movimento: +#{CaptionRatio}#{nl}Duração máxima: #{CaptionTime}# segundos{nl}Consome 3 Stamina por segundo
 SKILL_20190419_015385	Quick Draw
 SKILL_20190419_015386	Saca a Pistola para atacar rapidamente o alvo.{nl}Causa 50% a mais de dano em alvos afetados por [Peacemaker: Fatigue].
@@ -15400,7 +15400,7 @@ SKILL_20190419_015400	Realiza um disparo imprevisível. Os inimigos que estivere
 SKILL_20190419_015401	Multiplicador: #{SkillFactor}#%{nl}Nr. máximo de buffs removidos: #{CaptionRatio}#{nl}Dano adicional por buff removido: +#{CaptionRatio2}#%
 SKILL_20190419_015402	Rykuma
 SKILL_20190419_015403	Garante imunidade temporária contra efeitos negativos de Nível 4 ou menor, através da Graça de Rykuma.{nl}Todos os [Dispellers] e [Charm of Protection] que estiverem ativados continuarão sendo consumidos, mesmo que você esteja sobre os efeitos desta imunidade.
-SKILL_20190419_015404	Duração: #{CaptionRatio}# segundos{nl}Consome x1 Lesnterseum
+SKILL_20190419_015404	Duração: #{CaptionRatio}# segundos{nl}Consome x1 Lensterseum
 SKILL_20190419_015405	Korup
 SKILL_20190419_015406	Reduz o seu HP Máximo em 30% e adiciona 30% de dano para cada efeito negativo que o alvo esteja sob efeito (Máximo de 240% de dano adicional).
 SKILL_20190419_015407	Duração: 10 segundos{nl}Consome x1 Riperium
@@ -15526,7 +15526,7 @@ SKILL_20190419_015526	Blood Curse: Aprimorar
 SKILL_20190419_015527	* Aumenta o Multiplicador de [Blood Curse] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190419_015528	Kurdaitcha: Aprimorar
 SKILL_20190419_015529	* Aumenta o Multiplicador de [Kurdaitcha] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
-SKILL_20190419_015530	* Impede que seja derrubado ou empurrado ao conjurar [Rune of Protection].{nl}* Duração de [Rune of Protection]: 5 minutos
+SKILL_20190419_015530	* Impede que seja derrubado ou empurrado enquanto [Rune of Protection] estiver ativa.{nl}* Duração de [Rune of Protection]: 5 minutos
 SKILL_20190419_015531	Micro Dimension: Confusão
 SKILL_20190419_015532	* 5% de chance, por nível do atributo, de causar [Confusion] por 8 segundos ao utilizar [Micro Dimension].{nl}* Consumo de SP + 20%
 SKILL_20190419_015533	* Inimigos alvejados recebem o efeito de [Slow] por tantos segundos quanto o nível do atributo.{nl}Também recebem dano não elemental a cada 0.5 segundos.{nl}* Consumo de SP + 30%
@@ -15608,7 +15608,7 @@ SKILL_20190419_015608	Granata: Aprimorar
 SKILL_20190419_015609	* Aumenta o Multiplicador de [Granata] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190419_015610	Tre Granate: Aprimorar
 SKILL_20190419_015611	* Aumenta o Multiplicador de [Tre Granate] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
-SKILL_20190419_015612	* Causa 1 dano, por nível do atributo, nos inimigos que escaparem da área de [Tre Granate].{nl}* Consumo de SP + 20%
+SKILL_20190419_015612	* Continua causando dano durante 1 segundo, por nível do atributo, nos inimigos que escaparem da área de [Tre Granate].{nl}* Consumo de SP + 20%
 SKILL_20190419_015613	Ritirarsi: Aprimorar
 SKILL_20190419_015614	* Aumenta o Multiplicador de [Ritiarsi] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190419_015615	Recupero: Aprimorar
@@ -15747,7 +15747,7 @@ SKILL_20190611_015747	Multiplicador de Cura: #{CaptionRatio}#% a cada 5 segundos
 SKILL_20190611_015748	Utiliza o poder da Deusa nos aliados. Reduz o dano recebido e reflete o dano restante contra o atacante. O efeito não se aplica em certos monstros Chefe. O efeito é removido quando o dano for refletido.{nl}{#00113F}Se [Omikuji] estiver ativo, [Revenged Sevenfold] causa [Great Curse] no inimigo ao refletir o dano.{/}
 SKILL_20190611_015749	Duração: #{CaptionTime}# segundos{nl}Dano recebido: -#{CaptionRatio}#%
 SKILL_20190611_015750	Usa o poder da Cabala para invocar serpentes que atacam os inimigos e removem, periodicamente, efeitos negativos dos aliados.
-SKILL_20190611_015751	Multiplicador: #{SkillFactor}#% a cada 0.2 segundos{nl}Remove 1 debuff de aliados a cada 2 segundos{nl}Duração: 10 segundos{nl}Alvos: 10
+SKILL_20190611_015751	Multiplicador: #{SkillFactor}#% a cada 2 segundos{nl}Remove 1 debuff de aliados a cada 2 segundos{nl}Duração: 10 segundos{nl}Alvos: 10
 SKILL_20190611_015752	Duração: #{CaptionTime}# segundos{nl}HP Máximo: +#{CaptionRatio}#%
 SKILL_20190611_015753	Multiplicador de Cura: #{CaptionRatio}#% a cada 0.5 segundos{nl}Duração: #{CaptionTime}# segundos{nl}Consome Holy Water x10
 SKILL_20190611_015754	Altera a raça dos inimigos na área para Demônio. Alvos alterados recebem 10% de dano adicional de ataques do elemento Divino.{nl}A duração do efeito em monstros Chefe varia dependendo da classificação:{nl}* Chefes de Raid Única: 50%{nl}* Chefes de Raid Lendária: 25%{nl}* Boruta: 12.5%
@@ -15778,7 +15778,7 @@ SKILL_20190611_015778	Fanning Flag
 SKILL_20190611_015779	Rubric Flag
 SKILL_20190611_015780	Skiaclipse - Compaixão
 SKILL_20190611_015781	Taxa de Cura: {img green_up_arrow 16 16} (5 x acúmulos)%
-SKILL_20190611_015782	Skiaclipese - Investida
+SKILL_20190611_015782	Skiaclipse - Investida
 SKILL_20190611_015783	Dano: {img green_up_arrow 16 16} (1.24 x acúmulos)%{nl}Provocação: -(5 x acúmulos)%
 SKILL_20190611_015784	Skiaclipse - Muralha de Ferro
 SKILL_20190611_015785	Dano recebido: -(1.25 x acúmulos)%
