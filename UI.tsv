@@ -3845,56 +3845,56 @@ UI_20190419_003845	{@st66b}Voltar para Vedas Plateau (30 seg).{/}
 UI_20190419_003846	O item desaparecerá do seu inventário{nl}e %s será reiniciado.%s{/}
 UI_20190419_003847	{@st66b}O Top 3 de jogadores de cada Classe Base recebe{nl}{#003997}"Dimensional Incense Burner"{/} baseado no ranking da semana passada.{nl}Jogadores que participaram na semana recebem{nl}{#003997}"Remnants of Bernice Coins"{/} baseado na sua pontuação.{nl} {nl}{s13}A semana começa na Segunda ás 06:00 (servidor).{nl} {nl}{s13}{#8e0000}Jogadores no Top 3 de várias Classes Base recebem somente a recompensa da maior pontuação.{nl} {nl}Se isso acontecer, o próximo jogador elegível da Classe Base recebe a recompensa.
 UI_20190419_003848	{@st66b}Mira Automática{/}
-UI_20190611_003849	{@st43}{s22}See Location{/}	{@st43}{s22}위치 보기{/}				
-UI_20190611_003850	{@st59}Close Location{/}	{@st59}위치 보기 창을 닫습니다{/}				
-UI_20190611_003851	{img NOTICE_Dm_! 30 30}{@st43}{s16}Skill Limitation{/}	{img NOTICE_Dm_! 30 30}{@st43}{s16}스킬 제한{/}				
-UI_20190611_003852	{@st59}Insert the Abrasive{/}	{@st59}연마재를 올려주세요{/}				
-UI_20190611_003853	{@st66d_y}Insert the Awakening Abrasive.{/}	{@st66d_y}각성 연마재를 추가해주세요.{/}				
+UI_20190611_003849	{@st43}{s22}Ver Local{/}
+UI_20190611_003850	{@st59}Fechar Local{/}
+UI_20190611_003851	{img NOTICE_Dm_! 30 30}{@st43}{s16}Limite de Habilidade{/}
+UI_20190611_003852	{@st59}Insira um Abrasive{/}
+UI_20190611_003853	{@st66d_y}Insira Awakening Abrasive.{/}
 UI_20190611_003854	Awakening Abrasive Item Name	각성 연마재 아이템 이름				
-UI_20190611_003855	Unequip Ichor	아이커 장착 해제				
-UI_20190611_003856	Unequip	장착 해제				
-UI_20190611_003857	{@st43}{s20}Dismantlement Info	{@st43}{s20}분해 상세정보				
-UI_20190611_003858	{@st41b}Sort by Level	{@st41b}레벨별 분류				
-UI_20190611_003859	{@st66b}  Quest List  {/}	{@st66b}  퀘스트 목록  {/}				
-UI_20190611_003860	{@st66b}  Complete  {/}	{@st66b}  완료  {/}				
-UI_20190611_003861	{@st66b}Available{/}	{@st66b}시작 가능{/}				
-UI_20190611_003862	{@st66b}In Progress{/}	{@st66b}진행중{/}				
-UI_20190611_003863	{@st66b}Abandoned{/}	{@st66b}포기{/}				
-UI_20190611_003864	{@st59}Search by Quest Name or Location.{/}	{@st59}퀘스트 이름 또는 지역 이름으로 검색 합니다.{/}				
-UI_20190611_003865	{s18}{b}{ol}{ds}All Levels	{s18}{b}{ol}{ds}모든 레벨				
-UI_20190611_003866	{s18}{b}{ol}{ds}Recommended	{s18}{b}{ol}{ds}적정 레벨				
-UI_20190611_003867	{s18}{b}{ol}{ds}Quest Display Settings {img option_icon 21 21}	{s18}{b}{ol}{ds}퀘스트 표시 설정 {img option_icon 21 21}				
-UI_20190611_003868	{@st66}TIP. You can register up to 5 Quests to be displayed on the game screen.	{@st66}TIP. 퀘스트 알림은 5개까지 등록할 수 있습니다.				
-UI_20190611_003869	{img quest_detail_pic1 24 24}{@st41b}Location{/}	{img quest_detail_pic1 24 24}{@st41b}위치{/}				
-UI_20190611_003870	{img quest_detail_pic2 24 24}{@st41b}Overview{/}	{img quest_detail_pic2 24 24}{@st41b}개요{/}				
-UI_20190611_003871	{img quest_detail_pic3 24 24}{@st41b}Objective{/}	{img quest_detail_pic3 24 24}{@st41b}목표{/}				
-UI_20190611_003872	{img quest_detail_pic4 24 24}{@st41b}Reward{/}	{img quest_detail_pic4 24 24}{@st41b}보상{/}				
-UI_20190611_003873	{img quest_detail_pic4 24 24}{@st41b}Select a Reward{/}	{img quest_detail_pic4 24 24}{@st41b}선택 보상{/}				
-UI_20190611_003874	Quest Name	퀘스트 제목				
-UI_20190611_003875	Level 1	1 레벨				
-UI_20190611_003876	{@st43b}{s16}Quest List	{@st43b}{s16}퀘스트 목록				
-UI_20190611_003877	{ol}All Quests	{ol}모든 퀘스트				
-UI_20190611_003878	{ol}Main Quests	{ol}메인 퀘스트				
-UI_20190611_003879	{ol}Sub Quests	{ol}서브 퀘스트				
-UI_20190611_003880	{ol}Repeatable Quests	{ol}반복 퀘스트				
-UI_20190611_003881	{ol}Party Quests	{ol}파티 퀘스트				
-UI_20190611_003882	{ol}Hethran Badge Quests	{ol}증표 퀘스트				
-UI_20190611_003883	{ol}Tracking Quests	{ol}추적 퀘스트				
-UI_20190611_003884	{@st66b}Quest Window Transparency{%s}{/}	{@st66b}지령창 배경 투명도 (%s){/}				
-UI_20190611_003885	{@st59}Display Quest to Party{/}	{@st59}파티원에게 노출{/}				
-UI_20190611_003886	{@st59}Check Quest Location{/}	{@st59}퀘스트 위치 확인{/}				
+UI_20190611_003855	Remover Ichor
+UI_20190611_003856	Remover
+UI_20190611_003857	{@st43}{s20}Info de Destruição
+UI_20190611_003858	{@st41b}Filtrar por Nv
+UI_20190611_003859	{@st66b}  Lista de Missões  {/}
+UI_20190611_003860	{@st66b}  Finalizadas  {/}
+UI_20190611_003861	{@st66b}Disponíveis{/}
+UI_20190611_003862	{@st66b}Em Progresso{/}
+UI_20190611_003863	{@st66b}Abandonadas{/}
+UI_20190611_003864	{@st59}Buscar por Nome ou Local.{/}
+UI_20190611_003865	{s18}{b}{ol}{ds}Todos os Níveis
+UI_20190611_003866	{s18}{b}{ol}{ds}Recomendadas
+UI_20190611_003867	{s18}{b}{ol}{ds}Configurar Janela {img option_icon 21 21}
+UI_20190611_003868	{@st66}DICA: Registre até 5 Missões para serem exibidas abaixo do mini mapa.
+UI_20190611_003869	{img quest_detail_pic1 24 24}{@st41b}Local{/}
+UI_20190611_003870	{img quest_detail_pic2 24 24}{@st41b}Visão Geral{/}
+UI_20190611_003871	{img quest_detail_pic3 24 24}{@st41b}Objetivo{/}
+UI_20190611_003872	{img quest_detail_pic4 24 24}{@st41b}Recompensa{/}
+UI_20190611_003873	{img quest_detail_pic4 24 24}{@st41b}Escolha uma Recompensa{/}
+UI_20190611_003874	Nome da Missão
+UI_20190611_003875	Nível 1
+UI_20190611_003876	{@st43b}{s16}Lista de Missões
+UI_20190611_003877	{ol}Todas as Missões
+UI_20190611_003878	{ol}Principais
+UI_20190611_003879	{ol}Secundárias
+UI_20190611_003880	{ol}Repetitivas
+UI_20190611_003881	{ol}Missões em Grupo
+UI_20190611_003882	{ol}Hethran Badge
+UI_20190611_003883	{ol}Rastreamento
+UI_20190611_003884	{@st66b}Transparência da Janela de Missões{%s}{/}
+UI_20190611_003885	{@st59}Exibir Missão apra o Grupo{/}
+UI_20190611_003886	{@st59}Verificar Local da Missão{/}
 UI_20190611_003887	Item Name	아이템 명				
 UI_20190611_003888	Enchant Item Name	인첸트 아이템 명				
-UI_20190611_003889	{@st43}{s16}Limit the use of certain skills.{/}	{@st43}{s16}특정 종류의 스킬 사용을 일정 부분 제한합니다.{/}				
-UI_20190612_003890	{s16}{b}{ol}{ds} All Levels	{s16}{b}{ol}{ds}모든 레벨				
-UI_20190612_003891	{s16}{b}{ol}{ds}Recommended	{s16}{b}{ol}{ds}적정 레벨				
-UI_20190612_003892	{s16}{b}{ol}{ds}Quest Display Settings {img option_icon 21 21}	{s16}{b}{ol}{ds}퀘스트 표시 설정 {img option_icon 21 21}				
-UI_20190612_003893	{s16}{ol} All Quests	{s16}{ol}모든 퀘스트	UI_20190611_003877	{ol}All Quests	{ol}모든 퀘스트	
-UI_20190612_003894	{s16}{ol} Main Quests	{s16}{ol}메인 퀘스트	UI_20190611_003878	{ol}Main Quests	{ol}메인 퀘스트	
-UI_20190612_003895	{s16}{ol} Sub Quests	{s16}{ol}서브 퀘스트	UI_20190611_003879	{ol}Sub Quests	{ol}서브 퀘스트	
-UI_20190612_003896	{s16}{ol} Repeatable Quests	{s16}{ol}반복 퀘스트	UI_20190611_003880	{ol}Repeatable Quests	{ol}반복 퀘스트	
-UI_20190612_003897	{s16}{ol} Party Quests	{s16}{ol}파티 퀘스트	UI_20190611_003881	{ol}Party Quests	{ol}파티 퀘스트	
-UI_20190612_003898	{s16}{ol} Hethran Badge Quests	{s16}{ol}증표 퀘스트	UI_20190611_003882	{ol}Hethran Badge Quests	{ol}증표 퀘스트	
-UI_20190612_003899	{s16}{ol} Tracking Quests	{s16}{ol}추적 퀘스트	UI_20190611_003883	{ol}Tracking Quests	{ol}추적 퀘스트	
-UI_20190621_003900	{@st66b}Item trade counts and entry limits will be reset during weekly scheduled maintenance.{/}	{@st66b}탈트 및 실버 입장 횟수는 매주 화요일 점검 시에 초기화 됩니다.{/}
-UI_20190621_003901	{@st43}{s22}Victory Cube{/}	{@st43}{s22}이벤트: 승부 큐브{/}
+UI_20190611_003889	{@st43}{s16}Limita o uso de certas habilidades.{/}
+UI_20190612_003890	{s16}{b}{ol}{ds} Todos os Níveis
+UI_20190612_003891	{s16}{b}{ol}{ds}Recomendadas
+UI_20190612_003892	{s16}{b}{ol}{ds}Configurar Janela {img option_icon 21 21}
+UI_20190612_003893	{s16}{ol} Todas as Missões
+UI_20190612_003894	{s16}{ol} Principais
+UI_20190612_003895	{s16}{ol} Secundárias
+UI_20190612_003896	{s16}{ol} Repetitivas
+UI_20190612_003897	{s16}{ol} Missões em Grupo
+UI_20190612_003898	{s16}{ol} Hethran Badge
+UI_20190612_003899	{s16}{ol} Rastreamento
+UI_20190621_003900	{@st66b}Contador de trocas e limite de entrada reiniciam com a manutenção semanal.{/}
+UI_20190621_003901	{@st43}{s22}Cubo da Vitória{/}
