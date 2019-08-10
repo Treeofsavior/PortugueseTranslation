@@ -15500,9 +15500,9 @@ SKILL_20190419_015500	Efeito de Urbas expirado
 SKILL_20190419_015501	O efeito do Urbas Seal expira em breve
 SKILL_20190419_015502	Reduz o HP Máximo gradualmente, danos recebidos do tipo Veneno e Físico aumentam em 10%
 SKILL_20190419_015503	Reduz o HP Máximo gradualmente, danos recebidos do tipo Veneno e Físico aumentam em 30%
-SKILL_20190419_015504	* Permite utilizar armaduras do tipo [Tecido]{nl}* -15% de Dano Mágico recebido ao utilizar 4 peças de [Tecido]
-SKILL_20190419_015505	* Permite utilizar armaduras do tipo [Couro]{nl}* +20% de Taxa de Crítico ao utilizar 4 peças de [Couro]
-SKILL_20190419_015506	* Permite utilizar armaduras do tipo [Metal]{nl}* -15% de Dano Físico recebido ao utilizar 4 peças de [Metal]
+SKILL_20190419_015504	* Permite utilizar armaduras do tipo [Tecido]. Efeito para 4 peças:{nl}* -15% de Dano Mágico recebido
+SKILL_20190419_015505	* Permite utilizar armaduras do tipo [Couro]. Efeito para 4 peças:{nl}* +20% de Taxa de Crítico
+SKILL_20190419_015506	* Permite utilizar armaduras do tipo [Metal]. Efeito para 4 peças:{nl}* -15% de Dano Físico recebido
 SKILL_20190419_015507	* Utilizar um elmo de Dragoon modificado.{nl}* Reduz o aumento no dano das habilidades de Dragoon para 25%, porém remove a penalidade de Velocidade de Movimento e reduz o consumo adicional de SP em 50%.
 SKILL_20190419_015508	* Termina o cooldown de Paso Doble quando um ataque inimigo é desviado com [Black Slide].{nl}* Consumo de SP + 20%
 SKILL_20190419_015509	* Limite de ataques de [Sleep] reduz em 80% (mínimo de 1 vez).{nl}* Inimigos afetados por [Sleep] recebem 200% a mais de dano de ataques mágicos do elemento Psíquico e sem elemento
@@ -15797,7 +15797,7 @@ SKILL_20190611_015797	NA	[보통] 단계의 비비드 시티 참여 중
 SKILL_20190611_015798	NA	[보통] 단계의 비비드 시티에 참여중입니다.{nl}스킬을 사용할 수 없습니다.{nl}30분 뒤 마을로 이동합니다.				
 SKILL_20190611_015799	NA	[어려움] 단계의 비비드 시티 참여 중				
 SKILL_20190611_015800	NA	[어려움] 단계의 비비드 시티에 참여중입니다.{nl}스킬을 사용할 수 없습니다.{nl}20분 뒤 마을로 이동합니다.				
-SKILL_20190611_015801	* Permite utilizar armaduras do tipo [Couro]. Utilizar 4 peças garante os efeitos:{nl}* Chance de Crítico +20%{nl}* Limite da Chance Máxima de Crítico +10%{nl}* Dano Físico e Mágico + 15%
+SKILL_20190611_015801	* Permite utilizar armaduras do tipo [Couro]. Efeitos para 4 peças:{nl}* Chance de Crítico +20%{nl}* Limite da Chance Máxima de Crítico +10%{nl}* Dano Físico e Mágico + 15%
 SKILL_20190611_015802	* Aumenta o ganho de dano de [Acrobatic Mount] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190611_015803	* Inimigos alvejados por Espíritos Malignos terão 10% de chance, por nível do atributo, de sofrerem [Blind] por 10 segundos.{nl}* Consumo de SP + 10%
 SKILL_20190611_015804	* Cria uma cópia das instalações aliadas dentro da área de [Micro Dimension].{nl}* Clones não podem ser copiados novamente.{nl}* Consumo de SP + 30%
