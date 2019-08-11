@@ -2018,7 +2018,7 @@ UI_20151224_002017	{@st59}Lodge Nome{/}
 UI_20151224_002018	{@st59}Lodge Settings{/}
 UI_20151224_002019	{@st42}Reset Count
 UI_20151224_002020	{@st41}Message
-UI_20151224_002021	{@st59}Show Quest Dialogue{/}
+UI_20151224_002021	{@st59}Exibir Diálogo da Missão{/}
 UI_20151224_002022	{@st59}Abandonar Quest{/}
 UI_20151224_002023	{@st49}Preview{/}
 UI_20151224_002024	{@st49}Add{/}
@@ -2707,7 +2707,7 @@ UI_20170726_002706	{@st41}Selecionar e confirmar.{/}	{@st41}선택 후 확인을
 UI_20170726_002707	{@st59}Ajuda{/}
 UI_20170726_002708	Dias/Horas/Minutos
 UI_20170726_002709	{@st59}Novo{/}
-UI_20170726_002710	{@st59}Fechando em breve{/}
+UI_20170726_002710	{@st59}Encerrando{/}
 UI_20170726_002711	{@st59}Período de Troca{/}
 UI_20170726_002712	{@st66b}Receba Recompensas
 UI_20170901_002713	{@st59}Asas{/}
@@ -3861,7 +3861,7 @@ UI_20190611_003861	{@st66b}Disponíveis{/}
 UI_20190611_003862	{@st66b}Em Progresso{/}
 UI_20190611_003863	{@st66b}Abandonadas{/}
 UI_20190611_003864	{@st59}Buscar por Nome ou Local.{/}
-UI_20190611_003865	{s18}{b}{ol}{ds}Todos os Níveis
+UI_20190611_003865	{s18}{b}{ol}{ds}Todas
 UI_20190611_003866	{s18}{b}{ol}{ds}Recomendadas
 UI_20190611_003867	{s18}{b}{ol}{ds}Configurar Janela {img option_icon 21 21}
 UI_20190611_003868	{@st66}DICA: Registre até 5 Missões para serem exibidas abaixo do mini mapa.
@@ -3881,12 +3881,12 @@ UI_20190611_003881	{ol}Missões em Grupo
 UI_20190611_003882	{ol}Hethran Badge
 UI_20190611_003883	{ol}Rastreamento
 UI_20190611_003884	{@st66b}Transparência da Janela de Missões{%s}{/}
-UI_20190611_003885	{@st59}Exibir Missão apra o Grupo{/}
+UI_20190611_003885	{@st59}Exibir Missão para o Grupo{/}
 UI_20190611_003886	{@st59}Verificar Local da Missão{/}
 UI_20190611_003887	Item Name	아이템 명				
 UI_20190611_003888	Enchant Item Name	인첸트 아이템 명				
 UI_20190611_003889	{@st43}{s16}Limita o uso de certas habilidades.{/}
-UI_20190612_003890	{s16}{b}{ol}{ds} Todos os Níveis
+UI_20190612_003890	{s16}{b}{ol}{ds} Todas
 UI_20190612_003891	{s16}{b}{ol}{ds}Recomendadas
 UI_20190612_003892	{s16}{b}{ol}{ds}Configurar Janela {img option_icon 21 21}
 UI_20190612_003893	{s16}{ol} Todas as Missões
