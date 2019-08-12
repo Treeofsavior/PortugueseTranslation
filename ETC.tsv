@@ -41993,9 +41993,9 @@ ETC_20190611_041914	CON {img green_up_arrow 16 16} 40
 ETC_20190611_041915	HP Máximo {img green_up_arrow 16 16} 6000
 ETC_20190611_041916	[Barreira de Goduma]{nl}- Reduz o dano recebido baseado no percentual de HP perdido (Máximo de 100%. Duração: 10 segundos){nl}[Dragon Strength Nv 1]{nl}- Duração aumenta em 5 segundos
 ETC_20190611_041917	Gymas
-ETC_20190611_041918	Taxa de Cura {img green_up_arrow 16 16} 450
+ETC_20190611_041918	Cura {img green_up_arrow 16 16} 450
 ETC_20190611_041919	SPR {img green_up_arrow 16 16} 57
-ETC_20190611_041920	[Convicção de Gymas]{nl}- Taxa de Cura: +30%, Consumo de SP das habilidades: -25% (Duração: 10 segundos){nl}[Dragon Strength Nv 1]{nl}- Redução adicional no Consumo de SP de 25%
+ETC_20190611_041920	[Convicção de Gymas]{nl}- Cura: +30%, Consumo de SP das habilidades: -25% (Duração: 10 segundos){nl}[Dragon Strength Nv 1]{nl}- Redução adicional no Consumo de SP de 25%
 ETC_20190611_041921	Smugis
 ETC_20190611_041922	STR {img green_up_arrow 16 16} 37{nl}INT {img green_up_arrow 16 16} 37
 ETC_20190611_041923	Ataque Físico {img green_up_arrow 16 16} 572{nl}Ataque Mágico {img green_up_arrow 16 16} 572
@@ -42223,7 +42223,7 @@ ETC_20190702_042144	Clique com o botão direito do mouse para utilizar e obtenha
 ETC_20190702_042145	[Reforço de Apsauga]{nl}- Aumenta a Defesa dos aliados, dentro de uma área de 500, em 25% da sua defesa (Duração: 30 segundos){nl} {nl}[Dragon Strength Nv 1]{nl}- O efeito aumenta para 50%
 ETC_20190702_042146	Cura os aliados, dentro de uma área deo 80, em 25% da quantidade curada (Duração: 30 segundos){nl} {nl}[Dragon Strength Nv 1]{nl}- A quantidade de HP recuperado aumenta em 15%
 ETC_20190702_042147	[Barreira de Goduma]{nl}- Reduz o dano recebido baseado no percentual de HP perdido (Máximo: 90%. Duração: 30 segundos){nl}[Dragon Strength Nv 1]{nl}- Duração aumentada em 10 segundos
-ETC_20190702_042148	[Convicção de Gymas]{nl}- Taxa de Cura: +30%, Consumo de SP das habilidades: -25% (Duração: 40 segundos){nl}[Dragon Strength Nv 1]{nl}- Redução adicional do Consumo de SP em 25%
+ETC_20190702_042148	[Convicção de Gymas]{nl}- Cura: +30%, Consumo de SP das habilidades: -25% (Duração: 40 segundos){nl}[Dragon Strength Nv 1]{nl}- Redução adicional do Consumo de SP em 25%
 ETC_20190702_042149	[Contra Ataque de Smugis]{nl}- Acumula o dano causado por 10 segundos, depois libera o dano dividido entre 3~7 golpes{nl} {nl}[Dragon Strength Nv 1]{nl}- O número de golpes é fixado em 7
 ETC_20190706_042150	Clique com o botão direito do mouse para utilizar e obtenha os itens:{nl}- [PP] Legend Enchant Jewel x1{nl}- [PP] Unique Enchant Jewel x20
 ETC_20190706_042151	Tempo de Reinício para Entrada do Modo Desafio
