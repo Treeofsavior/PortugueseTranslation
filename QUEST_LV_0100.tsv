@@ -15063,7 +15063,7 @@ QUEST_LV_0100_20160718_015065	Ouvi que você está ajudando as pessoas por aqui.
 QUEST_LV_0100_20160718_015066	É muito triste que precisamos desenvolver as terras ao redor de Klaipeda...{nl}Fico preocupado que os monstros venham correndo até aqui, por terem perdido o habitat.
 QUEST_LV_0100_20160718_015067	Muito obrigado!{nl}Você espantou vários monstros.{nl}Acho que poderemos começar a trabalhar logo.
 QUEST_LV_0100_20160718_015068	O que os assentamentos precisam é de mercenários para proteção...{nl}Não de ainda mais fazendeiros....{nl}E eu não vejo um único mercenário aqui.
-QUEST_LV_0100_20160718_015069	Sinto muito, mas você poderia me ajudar um pouco?{nl}Não pude reunir nem metade dos materiais para a minha missão.{nl}Você poderia lidar com alguns monstros por mim,{nl}e coletar as Dirty Pouches que eles carregam?{nl}Iria gostar muito desta ajuda...
+QUEST_LV_0100_20160718_015069	Sinto muito, mas você poderia me ajudar um pouco?{nl}Não pude reunir nem metade dos materiais para a minha missão.{nl}Você poderia lidar com alguns monstros por mim,{nl}e coletar as Bolsas Sujas que eles carregam?{nl}Iria gostar muito desta ajuda...
 QUEST_LV_0100_20160718_015070	Tenho certeza que quem pede por isso é Wizard ou Alchemist...{nl}Gostaria que eles tentassem coletar isso sozinhos...
 QUEST_LV_0100_20160718_015071	Muito obrigada pela ajuda!{nl}Poderei voltar muito mais cedo graças a sua ajuda.{nl}Mesmo que isso seja só o começo...
 QUEST_LV_0100_20160718_015072	Remova do Royal Mausoleum os guardiões que ignoram presenças sinistras,{nl}e acabam tentando destruir o sistema de defesa.{nl}Esta é a única forma para você alcançar seus objetivos aqui.
@@ -15395,106 +15395,105 @@ QUEST_LV_0100_20160718_015398	O Mestre Quarrel Shooter disse que está procurand
 QUEST_LV_0100_20160718_015399	Obtenha Vubbe Poison Samples
 QUEST_LV_0100_20160718_015400	A Mestre Ranger disse que um assassino, chamado Ebonyphon, do qual deseja obter uma amostra do seu veneno. Vá até Miners' Village, passando East Siauliai Woods, e colete amostras de veneno dos Vubbes no local.
 QUEST_LV_0100_20160718_015401	Obtenha %s derrotando Vubbes
-QUEST_LV_0100_20160718_015402	Gustas says that only the final seal remains but is worried about a dangerous presence. Break the seal left of the Collapsed Sanctum. You should also be wary of monster attacks.
-QUEST_LV_0100_20160718_015403	The Ranger Sub-master wishes that the Rangers will help the people by participating in the reconstruction of Orsha. Go to Koru Jungle past the Woods of the Linked Bridges and Paupys Crossing. You will be able to find stones that can be used to reconstruct Orsha there.
-QUEST_LV_0100_20160718_015404	The Sapper Sub-master is researching new Sapper techniques. Go to Koru Jungle past the Woods of the Linked Bridges and Paupys Crossing. You will be able to find some stones there that can be used for research purposes.
-QUEST_LV_0100_20160718_015405	Joana seems to know something about this sculpture. Talk to Joana about the sculpture.
-QUEST_LV_0100_20160718_015406	Agente Moren parece saber de alguma coisa. Fale com ele
+QUEST_LV_0100_20160718_015402	Gustas disse que resta somente o selo final, mas está preocupado com uma presença perigosa. Quebre o selo restante, no Collapsed Sanctum. Você deve ter cuidado com os ataques dos monstros.
+QUEST_LV_0100_20160718_015403	A Submestre Ranger deseja que os Rangers ajudem as pessoas, participando da reconstrução de Orsha. Vá até Koru Jungle, passando por Woods of the Linked Bridges e Paupys Crossing. Você será capaz de encontrar pedras que podem ser usada na reconstrução de Orsha.
+QUEST_LV_0100_20160718_015404	O Submestre Sapper está pesquisando novas técnicas. Vá até Koru Jungle, passando por Woods of the Linked Bridges e Paupys Crossing. Você será capaz de encontrar algumas pedras que podem ser usadas nesta pesquisa.
+QUEST_LV_0100_20160718_015405	Joana parece saber algo sobre essa escultura. Fale com a Joana sobre a escultura.
+QUEST_LV_0100_20160718_015406	Agente Moren parece saber de alguma coisa. Fale com ele.
 QUEST_LV_0100_20160718_015407	Verifique o Purificador em Crystal Mine 3F.
 QUEST_LV_0100_20160718_015408	Parece que o purificador não tem energia suficiente. Leve o Emergency Power Source e complete-o com magia dos cristais ao redor. Utilize esta magia para repor a energia do purificador.
 QUEST_LV_0100_20160718_015409	Você arrecadou energia suficiente. Volte para o Purificador e restaure-o.
-QUEST_LV_0100_20160718_015410	Vigia Molly at Srautas Gorge is waiting for your help.
-QUEST_LV_0100_20160718_015411	Vigia Molly thinks that the reason behind the strange behavior of the Pantos is the Sugar Beets that they enjoy eating. Get rid of the Sugar Beets like Molly suggested.
-QUEST_LV_0100_20160718_015412	You have removed enough Plateau Sugar Beets. Report back to Vigia Molly.
-QUEST_LV_0100_20160718_015413	Vigia Molly is waiting for someone's help at Gele Plateau.
-QUEST_LV_0100_20160718_015414	Dealing with Nearby Monsters
-QUEST_LV_0100_20160718_015415	Vigia Molly requires monster information in order to effectively use Shaman Dolls on Gele Plateau. Defeat Spion Archers, Leaflies and Mali in order to deal with the new monsters to give Molly advice.
-QUEST_LV_0100_20160718_015416	This should be enough information for Molly. Go back and tell Molly what you have learned about the monsters.
-QUEST_LV_0100_20160718_015417	Priest Draznie is looking for help in Ashaq Underground Prison 2F.
-QUEST_LV_0100_20160718_015418	Priest Draznie has asked you to collect some traps she set up a long time ago. According to her, most traps are set up in the Waiting Room and the Supply Room.
-QUEST_LV_0100_20160718_015419	You have collected a large number of malfunctioning traps. Take them to Priest Draznie.
-QUEST_LV_0100_20160718_015420	Priest Gelija is waiting for help in Ashaq Underground Prison 3F
-QUEST_LV_0100_20160718_015421	Priest Gelija has asked you to clear out the Varvs that have been terrorizing the priests in Ashaq Underground Prison. They are often found at the Felon Prison.
-QUEST_LV_0100_20160718_015422	You have cleared out enough Varvs. Report to Gelija.
-QUEST_LV_0100_20160718_015423	A traveling merchant in Koru Jungle is waiting for help.
-QUEST_LV_0100_20160718_015424	Deliver the Blue Coal to the Merchant
-QUEST_LV_0100_20160718_015425	You have collected enough blue coal. Deliver it to the merchant.
-QUEST_LV_0100_20160718_015426	Seguidor Vaidutis on the Ground Floor of Tenet Church is waiting for help.
-QUEST_LV_0100_20160718_015427	Collect Orb Crystals
-QUEST_LV_0100_20160718_015428	Seguidor Vaidutis asked you to collect orb crystals in order to craft a Holy Stone to complete his mission. You can find orb crystals near the Worship Anteroom and Nuosirdum Chapel.
-QUEST_LV_0100_20160718_015429	Report back to Seguidor Vaidutis
-QUEST_LV_0100_20160718_015430	You have collected sufficient amounts of orb crystals. Take them to Seguidor Vaidutis.
-QUEST_LV_0100_20160718_015431	Historiador Kepeck is waiting for help on Apvija Hill.
-QUEST_LV_0100_20160718_015432	Historiador Kepeck says that he has nothing to protect him. Defeat monsters from the surrounding area to keep him safe.
-QUEST_LV_0100_20160718_015433	Report back to Historiador Kepeck
-QUEST_LV_0100_20160718_015434	You have dealed with enough monsters. Go back to Kepeck.
-QUEST_LV_0100_20160718_015435	Talk to Historiador Grenus
-QUEST_LV_0100_20160718_015436	Historiador Grenus is waiting for help at the Gateway of the Great King.
-QUEST_LV_0100_20160718_015437	Find Worn Ancient Scriptures
-QUEST_LV_0100_20160718_015438	Historiador Grenus wishes to produce some research results by excavating relics at the Gateway of the Great King. Look for Worn Ancient Scriptures from the excavation site while he takes a rest.
-QUEST_LV_0100_20160718_015439	Report back to Historiador Grenus
-QUEST_LV_0100_20160718_015440	You have collected sufficient Worn Ancient Scriptures. Take them to Historiador Grenus even if you don't think they are worth much.
-QUEST_LV_0100_20160718_015441	Talk to Epigrafista Deltlan
-QUEST_LV_0100_20160718_015442	Epigrafista Deltlan is waiting for help at Overlong Bridge Valley.
-QUEST_LV_0100_20160718_015443	Epigrafista Deltlan has asked you to deal with the monsters from the surrounding area so that he can carry on with his research.
-QUEST_LV_0100_20160718_015444	Report back to Epigrafista Deltlan
-QUEST_LV_0100_20160718_015445	You have dealed with enough monsters. Go back to Epigrafista Deltlan.
-QUEST_LV_0100_20160718_015446	Fiel Kazis is waiting for help at Kvailas Forest.
-QUEST_LV_0100_20160718_015447	Defeat monsters at Kvailas Forest
-QUEST_LV_0100_20160718_015448	Fiel Kazis desperately wishes for the defiled forest to be cleansed of demons. Deal with demons in the surrounding area to make his wish come true.
-QUEST_LV_0100_20160718_015449	Report back to Fiel Kazis
-QUEST_LV_0100_20160718_015450	You have defeated enough monsters at Kvailas Forest. Report back to Fiel Kazis.
-QUEST_LV_0100_20160718_015451	Fiel Bronius is waiting for help at Kvailas Forest.
-QUEST_LV_0100_20160718_015452	Cleansing the Defiling Energies
-QUEST_LV_0100_20160718_015453	Fiel Bronius wishes to cleanse Kvailas Forest of the demon energy that is defiling it. Let's cleanse Kvailas Forest of the demon's energy.
-QUEST_LV_0100_20160718_015454	Report Back to Fiel Bronius
-QUEST_LV_0100_20160718_015455	You have cleansed enough of the defiling energies. Report back to Fiel Bronius.
-QUEST_LV_0100_20160718_015456	Tess, who is alone in Knidos Jungle, is waiting for hlep.
-QUEST_LV_0100_20160718_015457	Collect Lapasape Wand Fragments
-QUEST_LV_0100_20160718_015458	Collect Lapasape wand fragments to show that you have dealed with Lapasape Mages in order to calm Tess.
-QUEST_LV_0100_20160718_015459	Take the Fragments to Tess
-QUEST_LV_0100_20160718_015460	You have collected enough Lapasape wand fragments. This should be enough to calm Tess a bit. Go back to Tess.
-QUEST_LV_0100_20160718_015461	Herborista Talas is waiting for help at Dadan Jungle.
-QUEST_LV_0100_20160718_015462	Collect Dry Dadania Leaves
-QUEST_LV_0100_20160718_015463	Herborista Talas has become injured by a trap after coming to collect dry Dadania leaves at Badoca Hill. Go find dry Dadania leaves from Dadania bushes at Badoca Hill for Talas.
-QUEST_LV_0100_20160718_015464	Report back to Herborista Talas
-QUEST_LV_0100_20160718_015465	You have collected sufficient dry Dadania leaves. Report back to Herborista Talas.
-QUEST_LV_0100_20160718_015466	The Gloomy Owl sculpture at Karolis Springs is waiting for someone.
-QUEST_LV_0100_20160718_015467	Rescue Spirits Taken by the Monsters
-QUEST_LV_0100_20160718_015468	The Gloomy Owl sculpture says that the monsters near Duokliu Hall have swallowed all of the spirits it is supposed to lead. Find and deal with the monsters that have swallowed the spirits to free them.
-QUEST_LV_0100_20160718_015469	Report back to the Gloomy Owl Sculpture
-QUEST_LV_0100_20160718_015470	You have freed a great deal of spirits. Go back and report to the Gloomy Owl Sculpture.
-QUEST_LV_0100_20160718_015471	Free the Swallowed Spirits
-QUEST_LV_0100_20160718_015472	Talk to the Frail Owl Sculpture
-QUEST_LV_0100_20160718_015473	The Frail Owl sculpture at Letas Stream is waiting for help.
-QUEST_LV_0100_20160718_015474	Retreiving Fading Spirits
-QUEST_LV_0100_20160718_015475	The Frail Owl sculpture asked you to bring back the fading spirits that ran away because of the monsters.
-QUEST_LV_0100_20160718_015476	Return to the Frail Owl sculpture
-QUEST_LV_0100_20160718_015477	Acquired enough fading spirits. Go back to the Frail Owl sculpture.
-QUEST_LV_0100_20160718_015478	The Mayor's granddaughter of Pelke Shrine Ruins is waiting for help.
-QUEST_LV_0100_20160718_015479	The Mayor's granddaughter has asked you to collect antidote samples after defeating Merog Stingers.
-QUEST_LV_0100_20160718_015480	Report Back to the Mayors' Granddaughter
-QUEST_LV_0100_20160718_015481	You have collected enough antidote samples. Return to the Mayor's granddaughter.
-QUEST_LV_0100_20160718_015482	Assistant Airine at Akmens Ridge is waiting for help.
-QUEST_LV_0100_20160718_015483	Assistant Airine says that she will stay with Archeologist Dezic until he recovers. Help Airine nurse Dezic back to health safely by dealing with the monsters nearby.
-QUEST_LV_0100_20160718_015484	Report back to Assistant Airine
-QUEST_LV_0100_20160718_015485	You have defeated enough monsters for Assistant Airine to be safe. Go back to Airine.
-QUEST_LV_0100_20160718_015486	Talk to Imigrante Rodonas
-QUEST_LV_0100_20160718_015487	Imigrante Rodonas from Gytis Settlement is waiting for help.
-QUEST_LV_0100_20160718_015488	Imigrante Rodonas says that he is unable to establish the settlement because there are too many monsters. Help Rodonas by defeating monsters near Bandrass Forkroad.
-QUEST_LV_0100_20160718_015489	Report back to Imigrante Rodonas
-QUEST_LV_0100_20160718_015490	You have dealed with monsters near Bandrass Forkroad as Imigrante Rodonas requested. Report back to Imigrante Rodonas.
-QUEST_LV_0100_20160718_015491	Talk to the Tired Soldier
-QUEST_LV_0100_20160718_015492	The Tired Soldier is waiting for help near Zachariel Crossroads.
-QUEST_LV_0100_20160718_015493	Obtain Dirty Pouches
-QUEST_LV_0100_20160718_015494	The Tired Soldier says that he has been ordered to obtain dirty pouches from the monsters. Defeat the monsters near Zachariel Crossroads and bring the Tired Soldier Filthy Parcels that may contain something of worth.
-QUEST_LV_0100_20160718_015495	Report to the Tired Soldier
-QUEST_LV_0100_20160718_015496	You have collected a sufficient amount of dirty pouches. Go back to the Tired Soldier.
-QUEST_LV_0100_20160718_015497	Talk with the Royal Mausoleum Guardian
-QUEST_LV_0100_20160718_015498	The Royal Mausoleum Guardian is waiting for the Revelator on the ground floor.
-QUEST_LV_0100_20160718_015499	The Royal Mausoleum Guardian says that those who once protected the Royal Mausoleum are now corrupt and are destroying that which they once protected. The Royal Mausoleum Guardian asked you to deal with the corrupted ones and the monsters that breached the defenses.
-QUEST_LV_0100_20160718_015500	You have dealt with enough monsters. Go back to the Royal Mausoleum Guardian.
-QUEST_LV_0100_20160718_015501	Talk to Laterous
+QUEST_LV_0100_20160718_015410	Vigia Molly, em Srautas Gorge, está esperando a sua ajuda.
+QUEST_LV_0100_20160718_015411	Vigia Molly acha que a razão por trás do comportamento esquisito dos Pantos está nas Sugar Beets que eles estão comendo. Livre-se destes Sugar Beets, como sugerido pelo Molly.
+QUEST_LV_0100_20160718_015412	Você removeu Planteau Sugar Beets suficientes. Fale com o Vigia Molly.
+QUEST_LV_0100_20160718_015413	Vigia Molly está esperando por ajuda em Gele Plateau.
+QUEST_LV_0100_20160718_015414	Lidando com os monstros próximos
+QUEST_LV_0100_20160718_015415	Vigia Molly busca informações dos monstros para poder utilizar as Bonecas Xamãs de forma eficiente em Gele Plateau. Derrote Spion Archers, Leaflies e Mali para poder lidar com novos monstros e auxiliar Molly.
+QUEST_LV_0100_20160718_015416	Isso pode ser informação suficiente para Molly. Fale com ele e diga o que você aprendeu dos monstros.
+QUEST_LV_0100_20160718_015417	Priest Draznie está buscando ajuda na Ashaq Underground Prison 2F.
+QUEST_LV_0100_20160718_015418	Priest Draznie pediu ajuda para coletar armadilhas instaladas há muito tempo. A maioria delas foram instaladas na Waiting Room e na Supply Room.
+QUEST_LV_0100_20160718_015419	Você coletou um grande número de armadilhas estragadas. Leve-as para Priest Draznie.
+QUEST_LV_0100_20160718_015420	Priest Gelija está esperando ajuda na Ashaq Underground Prison 3F.
+QUEST_LV_0100_20160718_015421	Priest Gelija pediu que você remover os Varvs que aterrorizam os Priests na prisão. A maioria está na Felon Prison.
+QUEST_LV_0100_20160718_015422	Você removeu uma boa quantidade de Varvs. Fale com Gelija.
+QUEST_LV_0100_20160718_015423	Uma vendedora ambulante está esperando ajuda em Koru Jungle.
+QUEST_LV_0100_20160718_015424	Entregue o Blue Coral para a Mercadora
+QUEST_LV_0100_20160718_015425	Você obteve Blue Corals suficientes. Leve-os para a Mercadora.
+QUEST_LV_0100_20160718_015426	Seguidor Vaidutis, no térreo da Tenet Church, está esperando por ajuda.
+QUEST_LV_0100_20160718_015427	Obtena Orb Crystals
+QUEST_LV_0100_20160718_015428	Seguidor Vaidutis pediu para coletar Orb Crystals para poder criar uma Holy Stone e completar a missão. Você encontrará Orb Crystals próximo da Worship Anteroom e na Nuosirdum Chapel.
+QUEST_LV_0100_20160718_015429	Fale com o Seguidor Vaidutis
+QUEST_LV_0100_20160718_015430	Obteve Orb Crystals suficientes. Leve-os para o Seguidor Vaidutis.
+QUEST_LV_0100_20160718_015431	Historiador Kepeck está esperando ajuda em Apvija Hill.
+QUEST_LV_0100_20160718_015432	Historiador Kepeck disse que não tem nada para se proteger. Derrote alguns monstros ao redor para deixar o local seguro.
+QUEST_LV_0100_20160718_015433	Fale com o Historiador Kepeck
+QUEST_LV_0100_20160718_015434	Você derrotou monstros suficientes. Fale com Kepeck.
+QUEST_LV_0100_20160718_015435	Fale com o Historiador Grenus
+QUEST_LV_0100_20160718_015436	Historiador Grenus está esperando ajuda no Gateway of the Great King.
+QUEST_LV_0100_20160718_015437	Encontre Worn Ancient Scriptures
+QUEST_LV_0100_20160718_015438	Historiador Grenus deseja produzir resultados de uma pesquisa escavando relíquias no Gateway of the Great King. Procure por Worn Ancient Scriptures nos locais de escavação, enquanto Grenus descansa.
+QUEST_LV_0100_20160718_015439	Fale com o Historiador Grenus
+QUEST_LV_0100_20160718_015440	Obteve Worn Ancient Scriptures suficientes. Fale com o Historiador Grenus mesmo que ache que não são suficientes.
+QUEST_LV_0100_20160718_015441	Fale com o Epigrafista Deltlan
+QUEST_LV_0100_20160718_015442	Epigrafista Deltlan está esperando ajuda no Overlong Bridge Valley.
+QUEST_LV_0100_20160718_015443	Epigrafista Deltlan pediu para você lidar com os monstros na área, para que ele possa prosseguir com a sua pesquisa.
+QUEST_LV_0100_20160718_015444	Fale com o Epigrafista Deltlan
+QUEST_LV_0100_20160718_015445	Você derrotou monstros suficientes. Fale com o Epigrafista Deltlan.
+QUEST_LV_0100_20160718_015446	Fiel Kazis está esperando ajuda na Kvailas Forest.
+QUEST_LV_0100_20160718_015447	Derrote os monstros da Kvailas Forest
+QUEST_LV_0100_20160718_015448	Fiel Kazis deseja desesperadamente que a floresta fique livre dos demônios. Derrote os demônios ao redor para que sue desejo se torne realidade.
+QUEST_LV_0100_20160718_015449	Fale com Fiel Kazis
+QUEST_LV_0100_20160718_015450	Você derrotou monstros suficientes. Fale com Fiel Kazis.
+QUEST_LV_0100_20160718_015451	Fiel Bronius está esperando por ajuda na Kvailas Forest.
+QUEST_LV_0100_20160718_015452	Eliminando Energias Profanas
+QUEST_LV_0100_20160718_015453	Fiel Bronius quer limpar a Kvailas Forest da energia demoníaca. Ajude-o no processo.
+QUEST_LV_0100_20160718_015454	Fale com o Fiel Bronius
+QUEST_LV_0100_20160718_015455	Você eliminou boa quantidade da energia profana. Fale com Bronius.
+QUEST_LV_0100_20160718_015456	Tess, que está sozinho em Knidos Jungle, está esperando por ajuda.
+QUEST_LV_0100_20160718_015457	Obtenha Lapasape Wand Fragments
+QUEST_LV_0100_20160718_015458	Obtenha Lapasape Wand Fragments para mostrar que você lidou com os Lapasape Mages, assim você acalmará Tess.
+QUEST_LV_0100_20160718_015459	Mostre os fragmentos para Tess
+QUEST_LV_0100_20160718_015460	Você obteve Lapasape Wand Fragments suficientes. Isto deve ser suficiente para acalmar o Tess. Fale com ele.
+QUEST_LV_0100_20160718_015461	Herborista Talas está esperando por ajuda em Dadan Jungle.
+QUEST_LV_0100_20160718_015462	Obtenha Dry Dadania Leaves
+QUEST_LV_0100_20160718_015463	Herborista Talas ficou ferido em uma armadilha, depois de ir coletar Dry Dadania Leaves, em Badoca Hill. Procure por estas folhas por ele.
+QUEST_LV_0100_20160718_015464	Fale com o Herborista Talas
+QUEST_LV_0100_20160718_015465	Você obteve folhas suficientes. Fale com Talas.
+QUEST_LV_0100_20160718_015466	A Escultura da Coruja Sombria, em Karolis Springs, está esperando por alguém.
+QUEST_LV_0100_20160718_015467	Recupere os espíritos levados pelos monstros
+QUEST_LV_0100_20160718_015468	A Escultura da Coruja Sombria disse que os monstros próximos do Duokliu Hall engoliram todos os espíritos que ela deveria guiar. Encontre estes monstros e dê uma lição neles.
+QUEST_LV_0100_20160718_015469	Fale com a Escultura da Coruja Sombria
+QUEST_LV_0100_20160718_015470	Você liberou um monte de espíritos. Fale com a Escultura da Coruja Sombria.
+QUEST_LV_0100_20160718_015471	Libere os espíritos engolidos
+QUEST_LV_0100_20160718_015472	Fale com a Escultura da Coruja Frágil
+QUEST_LV_0100_20160718_015473	A Escultura da Coruja Frágil, em Letas Stream, está esperando por ajuda.
+QUEST_LV_0100_20160718_015474	Recuperando Espíritos Enfraquecidos
+QUEST_LV_0100_20160718_015475	A Escultura da Coruja Frágil pediu para você trazer os espíritos enfraquecidos que fugiram por causa dos monstros.
+QUEST_LV_0100_20160718_015476	Fale com a Escultura da Coruja Frágil
+QUEST_LV_0100_20160718_015477	Obteve espíritos suficientes. Fale com a Escultura da Coruja Frágil.
+QUEST_LV_0100_20160718_015478	Uma moça em Pelke Shrine Ruins está esperando por ajuda.
+QUEST_LV_0100_20160718_015479	A neta do senhor pediu ajuda para obter amostras de antídoto, derrotando Merog Stingers.
+QUEST_LV_0100_20160718_015480	Fale com a Neta do Senhor
+QUEST_LV_0100_20160718_015481	Obteve amostras de antídoto suficientes. Fale coma neta do senhor.
+QUEST_LV_0100_20160718_015482	Assistente Airine, em Akmens Ridge, está esperando por ajuda.
+QUEST_LV_0100_20160718_015483	Assistente Airine disse que ela precisa ficar com o Arqueólogo Dezic até ele se recuperar. Ajude Airine lidando com os monstros ao redor.
+QUEST_LV_0100_20160718_015484	Fale com a Assistente Airine
+QUEST_LV_0100_20160718_015485	Você derrotou monstros suficientes. Fale com Airine.
+QUEST_LV_0100_20160718_015486	Fale com o Imigrante Rodonas
+QUEST_LV_0100_20160718_015487	Imigrante Rodonas, na Gytis Settlement Area, está procurando por ajuda.
+QUEST_LV_0100_20160718_015488	Imigrante Rodonas disse que ele não consegue estabelecer um assentamento por causa da quantidade de monstros. Ajude Rodonas derrotando alguns monstros próximo da Bandrass Forkroad.
+QUEST_LV_0100_20160718_015489	Fale com o Imigrante Rodonas
+QUEST_LV_0100_20160718_015490	Você derrotou monstros suficientes, como pedido pelo Imigrante Rodonas. Fale com ele.
+QUEST_LV_0100_20160718_015491	Fale com a Soldado Cansada
+QUEST_LV_0100_20160718_015492	Uma soldado está esperando por ajuda em Zachariel Crossroads.
+QUEST_LV_0100_20160718_015493	Obtenha Bolsas Sujas
+QUEST_LV_0100_20160718_015494	A Soldado Cansada disse que foi ordenada para obter umas bolsas sujas dos monstros. Derrote alguns ao redor e obtenha algo que possa ajudar a soldado.
+QUEST_LV_0100_20160718_015495	Fale com a Soldado Cansada
+QUEST_LV_0100_20160718_015496	Você obteve uma quantidade suficiente de Bolsas Sujas. Fale com a Soldado Cansada.
+QUEST_LV_0100_20160718_015497	Fale com o Guardião do Royal Mausoleum
+QUEST_LV_0100_20160718_015498	O Guardião do Royal Mausoleum está esperando pelo Revelador no primeiro andar.
+QUEST_LV_0100_20160718_015499	O Guardião do Royal Mausoleum disse que aqueles que uma vez defenderam o Royal Mausoleum estão corrompidos e estão destruindo o que protegiam. O Guardião pediu que você lide com os corrompidos, além dos monstros que enfraquecem as defesas.
+QUEST_LV_0100_20160718_015500	Você lidou com uma quantidade suficiente de monstros. Fale com o Guardião do Royal Mausoleum.
 QUEST_LV_0100_20160718_015502	Laterous from Baron Allerno is waiting for help.
 QUEST_LV_0100_20160718_015503	Deal with the monsters from the surrounding area
 QUEST_LV_0100_20160718_015504	Laterous is saying that the reason behind the disappearances and bad rumors is the monsters. Deal with the monsters from the surrounding area to see if that is true.
@@ -16708,8 +16707,8 @@ QUEST_LV_0100_20161214_016711	Contando suas histórias...
 QUEST_LV_0100_20161214_016712	Monstros após Monstros
 QUEST_LV_0100_20161214_016713	Eu levarei o relatório para a Lorde.
 QUEST_LV_0100_20161214_016714	Você mesmo deveria reportar a ela.
-QUEST_LV_0100_20161214_016715	Eu trarei espíritos para a Frail Owl Sculpture.
-QUEST_LV_0100_20161214_016716	Trazer os espíritos perdidos para a Frail Owl Sculpture.
+QUEST_LV_0100_20161214_016715	Eu trarei espíritos para a Escultura da Coruja Frágil.
+QUEST_LV_0100_20161214_016716	Trazer os espíritos perdidos para a Escultura da Coruja Frágil.
 QUEST_LV_0100_20161214_016717	Os Segredos do Morador
 QUEST_LV_0100_20161214_016718	Eu vou abrir.
 QUEST_LV_0100_20161214_016719	A caixa está fechada com um dispositivo.{nl}Encontre uma forma de abrir.
@@ -16769,9 +16768,9 @@ QUEST_LV_0100_20161214_016772	Fale com a Lord de Orsha
 QUEST_LV_0100_20161214_016773	Agente Pierneef quer que você entregue o relatório para a Lorde de Orsha.
 QUEST_LV_0100_20161214_016774	Fale com o Espírito Perdido
 QUEST_LV_0100_20161214_016775	Há um espírito perdido em Letas Stream. Fale com ele.
-QUEST_LV_0100_20161214_016776	Traga o Espírito Perdido para a Frail Owl Sculpture
+QUEST_LV_0100_20161214_016776	Traga o Espírito Perdido para a Escultura da Coruja Frágil
 QUEST_LV_0100_20161214_016777	O espírito estava procurando por um objeto importante todo este tempo. Agora que ele recuperou, ajude-o a alcançar a Frail Owls Sculpture para que possa fazer a passagem, finalmente.
-QUEST_LV_0100_20161214_016778	O espírito conseguiu chegar na Frail Owl Sculpture. Fale com a Owl Sculpture.
+QUEST_LV_0100_20161214_016778	O espírito conseguiu chegar na Escultura da Coruja Frágil. Fale com a Owl Sculpture.
 QUEST_LV_0100_20161214_016779	Abra O Dispositivo Secreto de Bloqueio do Habitante
 QUEST_LV_0100_20161214_016780	Você seguiu as notas suspeitas e encontrou um dispositivo de bloqueio. Tente abri-lo.
 QUEST_LV_0100_20161214_016781	Abra o Aparelho de Bloqueio
