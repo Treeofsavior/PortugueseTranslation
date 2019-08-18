@@ -31040,7 +31040,7 @@ ETC_20171128_031020	Slash Attack
 ETC_20171128_031021	Strike Attack
 ETC_20171128_031022	Rubbing Rank {Rank}
 ETC_20171128_031023	Você pode perder Silver, Gems, ou Blessed shards quando você se torna incapaz de combater nesta área atual.
-ETC_20171128_031024	Insufficient items to enter the dungeon.
+ETC_20171128_031024	Quantidade insuficiente de itens para entrar no calabouço.
 ETC_20171128_031025	Não pode usar enquanto em busca automática.
 ETC_20171128_031026	Cannot lock inside instanced dungeon.
 ETC_20171128_031027	Saindo da dungeon em {Sec} segundos...
@@ -33003,7 +33003,7 @@ ETC_20180517_032974	This item is already in your basket.{nl}Add to basket?
 ETC_20180517_032975	{s16}{@st66b}Efeito: {Auto_1}{Auto_2} Itens{nl}
 ETC_20180517_032976	Tem certeza que deseja remover {#85070a}[{ITEM}]{/} x{#85070a}[{COUNT}]{/}?
 ETC_20180517_032977	Tem certeza que deseja remover {#85070a}[{ITEM}]{/}?
-ETC_20180517_032978	For more information, check the official website at treeofsavior.com.
+ETC_20180517_032978	Para maiores informações, acesse o site oficial treeofsavior.com.
 ETC_20180517_032979	Non-probability Items
 ETC_20180517_032980	Probability Items
 ETC_20180517_032981	{img icon_item_tpBox_30 30 30} {TOTAL} will be consumed.
@@ -34361,7 +34361,7 @@ ETC_20180629_034332	{@st66d_y}{s20}{ITEM}{/}{/} {nl}Are you sure you want this c
 ETC_20180629_034333	{PC} usou o Dimensional Incense Burner em {ZONE} (canal {CHANNEL}).
 ETC_20180629_034334	Move Down
 ETC_20180629_034335	Move Up
-ETC_20180629_034336	Are you sure you want to change the stats of {@st66}{b}{s18}{#8e0000}[{ItemName}]{/}{/}{/}{s18} as follows?
+ETC_20180629_034336	Deseja alterar os atributos de {@st66}{b}{s18}{#8e0000}[{ItemName}]{/}{/}{/}{s18} para os seguintes?
 ETC_20180629_034337	Tem certeza que deseta teleportar?{nl}{ol}{PRICE} Silver{/}
 ETC_20180629_034338	Tem certeza que deseta teleportar?{nl}{ol}{#ffcc00}{PRICE} Silver{/}
 ETC_20180629_034339	Tem certeza que deseta teleportar?{nl}{ol}{#ff6000}{PRICE} Silver{/}
@@ -34686,7 +34686,7 @@ ETC_20180629_034657	You already own this dye.{nl}Are you sure you want to purcha
 ETC_20180629_034658	You already own this dye. You may purchase it again after trying it on.{nl}Are you sure you want to try it on?
 ETC_20180629_034659	Um ou mais dos seus Acessórios de Cabelo{nl}estão marcados como escondidos.{nl}Itens colocados no mesmo espaço{nl}acabarão permanecendo escondidos.
 ETC_20180629_034660	Investigar
-ETC_20180629_034661	 Os monstros estão vindo! Derrote todos!
+ETC_20180629_034661	 - Os monstros estão vindo! Derrote todos!
 ETC_20180629_034662	Enter the Other Dimension (rec. level: 300).
 ETC_20180629_034663	See those who entered the Other Dimension.
 ETC_20180629_034664	Don't enter.
@@ -41814,7 +41814,7 @@ ETC_20190419_041735	Brotos serão entregues em breve. Se você retornar antes de
 ETC_20190419_041736	Gemstone Feud começa em 5 minutos.{nl}Entre nas cidades ou Minners' Village.
 ETC_20190419_041737	Gemstone Feud começará agora!{nl}Entre nas cidades ou Minners' Village.
 ETC_20190419_041738	Gemstone Feud Sessão 2 começa em 3 minutos.{nl}Entre nas cidades ou Minners' Village.
-ETC_20190419_041739	emstone Feud Sessão 2 começará agora!{nl}Entre nas cidades ou Minners' Village.
+ETC_20190419_041739	Gemstone Feud Sessão 2 começará agora!{nl}Entre nas cidades ou Minners' Village.
 ETC_20190419_041740	Pledge of the Blade
 ETC_20190419_041741	Golden Note
 ETC_20190419_041742	{cnt} membros da Guildaparticiparam do último GTW.{nl}Você pode receber recompensa de participação Estágio {buffLevel}.

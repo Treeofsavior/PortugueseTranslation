@@ -7391,16 +7391,16 @@ SKILL_20170313_007390	You are receiving the effects of an Appraiser's accessorie
 SKILL_20170313_007391	Rocksodon Owner	락스돈 보유중				
 SKILL_20170313_007392	Increases physical attack and maximum HP.	물리공격력과 최대 HP가 증가합니다.				
 SKILL_20170313_007393	Character EXP Event	캐릭별 경험치 이벤트				
-SKILL_20170313_007394	Blessed Sprout Stage 1	축복이 깃든 새싹 1단계				
-SKILL_20170313_007395	Increases +10% EXP gains with the goddess' blessing	여신의 축복으로 경험치 +10% 증가				
-SKILL_20170313_007396	Blessed Sprout Stage 2	축복이 깃든 새싹 2단계				
-SKILL_20170313_007397	Increases +20% EXP gains and +1 movement speed{nl}with the goddess' blessing	여신의 축복으로 경험치 +20% 증가{nl}이동속도 +1				
-SKILL_20170313_007398	Blessed Sprout Stage 3	축복이 깃든 새싹 3단계				
-SKILL_20170313_007399	Increases +30% EXP gains, +1 movement speed{nl}and +500 maximum HP with the goddess' blessing	여신의 축복으로 경험치 +30% 증가{nl}이동속도 +1{nl}최대 체력 +500				
-SKILL_20170313_007400	Blessed Sprout Stage 4	축복이 깃든 새싹 4단계				
-SKILL_20170313_007401	Increases +40% EXP gains, +2 movement speed{nl}and +1000 maximum HP with the goddess' blessing	여신의 축복으로 경험치 +40% 증가{nl}이동속도 +2{nl}최대 체력 +1000				
-SKILL_20170313_007402	Blessed Sprout Stage 5	축복이 깃든 새싹 5단계				
-SKILL_20170313_007403	Increases +50% EXP gains, +3 movement speed{nl}and +2000 maximum HP with the goddess' blessing	여신의 축복으로 경험치 +50% 증가{nl}이동속도 +3{nl}최대 체력 +2000				
+SKILL_20170313_007394	Broto Abençoado Estágio 1
+SKILL_20170313_007395	+10% de EXP com a bênção da Deusa
+SKILL_20170313_007396	Broto Abençoado Estágio 2
+SKILL_20170313_007397	+20% de EXP e +1 de Velocidade de Movimento{nl}com a bênção da Deusa
+SKILL_20170313_007398	Broto Abençoado Estágio 3
+SKILL_20170313_007399	+30% de EXP, +1 de Velocidade de Movimento e{nl}+500 de HP Máximo com a bênção da Deusa
+SKILL_20170313_007400	Broto Abençoado Estágio 4
+SKILL_20170313_007401	+40% de EXP, +2 de Velocidade de Movimento e{nl}+1000 de HP Máximo com a bênção da Deusa
+SKILL_20170313_007402	Broto Abençoado Estágio 5
+SKILL_20170313_007403	+50% de EXP, +3 de Velocidade de Movimento e{nl}+2000 de HP Máximo com a bênção da Deusa
 SKILL_20170313_007404	+30% EXP gains from hunting monsters{nl}+2 movement speed	몬스터 처치 시 획득 경험치 +30%{nl}이동 속도 +2	SKILL_20161226_007304	+60% EXP from hunting monsters{nl}+2 movement speed	몬스터 처치 시 획득 경험치 +60%{nl}이동 속도 +2	
 SKILL_20170313_007405	+50% EXP gains from hunting monsters{nl}+3 movement speed{nl}+500 max. HP	몬스터 처치 시 획득 경험치 +50%{nl}이동 속도 +3{nl}최대 체력 + 500	SKILL_20161226_007306	+90% EXP from hunting monsters{nl}+3 movement speed	몬스터 처치 시 획득 경험치 +90%{nl}이동 속도 +3	
 SKILL_20170313_007406	+50% EXP gains from hunting monsters{nl}+4 movement speed{nl}+1000 max. HP	몬스터 처치 시 획득 경험치 +50%{nl}이동 속도 +4{nl}최대 체력 + 1000	SKILL_20161226_007308	+120% EXP from hunting monsters{nl}+4 movement speed	몬스터 처치 시 획득 경험치 +120%{nl}이동 속도 +4	
@@ -13690,7 +13690,7 @@ SKILL_20190104_013689	Reincarnate: Aliados
 SKILL_20190104_013690	Prevents becoming unable to act.	행동불능 상태를 막아줍니다.				
 SKILL_20190104_013691	Graça: Ataque Adicional Divino
 SKILL_20190104_013692	Garante ataques adicionais de propriedade Divino aos seus ataques básicos
-SKILL_20190104_013693	Graça Dano Adicional Divino
+SKILL_20190104_013693	Graça: Dano Adicional Divino
 SKILL_20190104_013694	Garante Dano Adicional Divino aos seus ataques
 SKILL_20190104_013695	Graça: Aumentar Defesa Mágica
 SKILL_20190104_013696	Graça: Aumentar Defesa Física
