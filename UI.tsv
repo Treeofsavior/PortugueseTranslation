@@ -3293,11 +3293,11 @@ UI_20180629_003292	{s22}%s defeated
 UI_20180629_003293	{s22}%s points
 UI_20180629_003294	{s26}%s Badges
 UI_20180629_003295	Ranking
-UI_20180629_003296	{@st66b}Last Week 
-UI_20180629_003297	{@st59}See last week's ranking.{/}
-UI_20180629_003298	{@st66b}This Week 
-UI_20180629_003299	{@st59}See this week's ranking. Updated every hour.{/}
-UI_20180629_003300	{@st59}Close solo dungeon ranking.{/}
+UI_20180629_003296	{@st66b}Semana Ant.
+UI_20180629_003297	{@st59}Ver ranking da semana anterior.{/}
+UI_20180629_003298	{@st66b}Esta Semana
+UI_20180629_003299	{@st59}Ver o ranking desta semana. Atualiza a cada 1 hora.{/}
+UI_20180629_003300	{@st59}Fecha o ranking do calabouço individual.{/}
 UI_20180629_003301	Remnants of Bernice Ranking
 UI_20180629_003302	{@st66d}Prêmios
 UI_20180629_003303	{@st66b}TOP 10 ranking players get {#003997}"Dimensional Incense Burner"{/} items from the previous week's rankings.{nl}Players who participated in the season receive a set of {#003997}"Dimensional Potion"{/} according to their score.{nl} {nl}{s13}Seasons start every Monday at 06:00 (server time).
@@ -3305,16 +3305,16 @@ UI_20180629_003304	{@st66b}Swordsman
 UI_20180629_003305	{@st66b}Wizard
 UI_20180629_003306	{@st66b}Archer
 UI_20180629_003307	{@st66b}Cleric
-UI_20180629_003308	{@st66d}See Last Week's Rewards
+UI_20180629_003308	{@st66d}Prêmios da Semana Ant.
 UI_20180629_003309	Guilda
 UI_20180629_003310	Classe
 UI_20180629_003311	Maior Estágio
-UI_20180629_003312	Monstros Derrotados
+UI_20180629_003312	Monstros
 UI_20180629_003313	Maior Estágio: %s
-UI_20180629_003314	Maior Monstros Derrotados: %s
+UI_20180629_003314	Maior Nr. Monstros: %s
 UI_20180629_003315	Maior Ranking: %s
 UI_20180629_003316	Estágio Atual: %s
-UI_20180629_003317	Monstros Derrotados: %s
+UI_20180629_003317	Monstros: %s
 UI_20180629_003318	Rank Atual: %s
 UI_20180629_003319	{@st66b}{s16}Todos
 UI_20180629_003320	{@st66b}{s16}Wizard
@@ -3735,8 +3735,8 @@ UI_20190104_003734	{@st42}{s20}Habilidades e Atributos
 UI_20190104_003735	{@st43}Craft Scroll	{@st43}주문서 제작	UI_20161005_002365	{@st43}Craft Spellbook	{@st43}스펠북 제작
 UI_20190104_003736	{s18}Are you sure you want to use %s?{/}	{s18}%s 아이템을 사용하시겠습니까?{/}			
 UI_20190104_003737	This item will disappear from your inventory{nl}and %s will be reset.{/}	사용한 아이템은 인벤토리에서 사라지며{nl}%s가 초기화 됩니다.{/}			
-UI_20190104_003738	{@st66b}Overall Ranking 	{@st66b}통합 랭킹 			
-UI_20190104_003739	{@st59}Show overall ranking{/}	{@st59}초기화되지 않는 통합 랭킹을 보여줍니다{/}			
+UI_20190104_003738	{@st66b}Ranking Geral
+UI_20190104_003739	{@st59}Exibe ranging geral{/}
 UI_20190104_003740	{@st66b}Top 3 ranking players per class tree receive a{nl}{#003997} "Dimensional Incense Burner"{/}for the previous week's rankings. All players who participated in the week receive a set of{nl}{#003997} "Dimensional Potions"{/}{nl}according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).{nl} {nl}{s13}{#8e0000}Players who make it to the top 3 of more than one class tree receive only the rewards corresponding to their own highest ranking.{nl} {nl}When a player is excluded from a class tree ranking because of multiple entries, the player next to them takes their place in that ranking.	{@st66b}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "차원의 포션"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.	UI_20180629_003303	{@st66b}Top 10 ranking players receive a{nl}{#003997}"Dimensional Incense Burner"{/} for the previous week's rankings.{nl}Players who participated in the week receive a set of{nl}{#003997}"Dimensional Potions"{/} according to their score.{nl} {nl}{s13}The week starts every Monday at 06:00 (server time).	{@st66b}랭킹 TOP 10 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "차원의 포션"{/}{nl}을 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다
 UI_20190104_003741	{@st66b}Scout	{@st66b}스카우트			
 UI_20190104_003742	{@st66b}{s16}Scout	{@st66b}{s16}스카우트			
