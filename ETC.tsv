@@ -32697,7 +32697,7 @@ ETC_20180517_032668	INT {img green_up_arrow 16 16} 25{nl}SPR {img green_up_arrow
 ETC_20180517_032669	Magic attack {img green_up_arrow 16 16} 571
 ETC_20180517_032670	SP {img green_up_arrow 16 16} 1435 {nl}Sumazinti{nl} - Reduces the magic defense of 5 enemies nearby by 15% for 10 sec (cooldown 100 sec)
 ETC_20180517_032671	DEX {img green_up_arrow 16 16} 25{nl}SPR {img green_up_arrow 16 16} 25
-ETC_20180517_032672	AoE attack ratio {img green_up_arrow 16 16} 3
+ETC_20180517_032672	Taxa de Ataque em Área {img green_up_arrow 16 16} 3
 ETC_20180517_032673	Tiksline{nl} - Marks 3 enemies nearby. Marked enemies receive 50% more damage for 5 seconds. After the mark disappears, the enemies receive their total damage taken while the mark was active in the form of magic damage.
 ETC_20180517_032674	Mergaite{nl} - Provides invincibility throughout the duration of the skill (cooldown 100 sec).
 ETC_20180517_032675	 - After using Mergaite, your physical/magic defense increases by 40% for 20 sec.
@@ -42221,7 +42221,7 @@ ETC_20190702_042142	Clique com o botão direito do mouse para utilizar e obtenha
 ETC_20190702_042143	[PP] Pamoka Solution Box
 ETC_20190702_042144	Clique com o botão direito do mouse para utilizar e obtenha os itens:{nl}- Full Pamoka Solution x20
 ETC_20190702_042145	[Reforço de Apsauga]{nl}- Aumenta a Defesa dos aliados, dentro de uma área de 500, em 25% da sua defesa (Duração: 30 segundos){nl} {nl}[Dragon Strength Nv 1]{nl}- O efeito aumenta para 50%
-ETC_20190702_042146	Cura os aliados, dentro de uma área deo 80, em 25% da quantidade curada (Duração: 30 segundos){nl} {nl}[Dragon Strength Nv 1]{nl}- A quantidade de HP recuperado aumenta em 15%
+ETC_20190702_042146	 cura os aliados, dentro de uma área de 80, em 25% da quantidade curada (Duração: 30 segundos){nl} {nl}[Dragon Strength Nv 1]{nl}- A quantidade de HP recuperado aumenta em 15%
 ETC_20190702_042147	[Barreira de Goduma]{nl}- Reduz o dano recebido baseado no percentual de HP perdido (Máximo: 90%. Duração: 30 segundos){nl}[Dragon Strength Nv 1]{nl}- Duração aumentada em 10 segundos
 ETC_20190702_042148	[Convicção de Gymas]{nl}- Cura: +30%, Consumo de SP das habilidades: -25% (Duração: 40 segundos){nl}[Dragon Strength Nv 1]{nl}- Redução adicional do Consumo de SP em 25%
 ETC_20190702_042149	[Contra Ataque de Smugis]{nl}- Acumula o dano causado por 10 segundos, depois libera o dano dividido entre 3~7 golpes{nl} {nl}[Dragon Strength Nv 1]{nl}- O número de golpes é fixado em 7
