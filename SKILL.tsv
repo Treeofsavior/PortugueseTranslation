@@ -15584,7 +15584,7 @@ SKILL_20190419_015584	* Derrotar um inimigo enquanto estiver sob efeito de [Camo
 SKILL_20190419_015585	Camo Shot: Pastagens
 SKILL_20190419_015586	* Utilizar [Camo Shot] em terrenos com gramas longas aumenta a duração em 5 segundos.{nl}* Também considera a habilidade [Chortasmata].{nl}* Consumo de SP + 30%
 SKILL_20190419_015587	Tracking: Temporada de Caça
-SKILL_20190419_015588	* Atacar inimigos enquanto estiver sob efeito de [Tracking] garante 20% de chance, por nível do atributo, de aplicar [Prey] no inimigo.{nl}* [Prey] compartilha da duração de [Tracking].{nl}* Todas as habilidades de Tiger Hunter que acertarem os inimigos sob este efeito igual como se atacasse um monstro da raça Fera.{nl}- [Rapid Shot]: Aumenta a Taxa de Crítico em 30%{nl}- [Ambush]: [Nv Ambush]x5% de chance de causar [Stun]
+SKILL_20190419_015588	* Atacar inimigos enquanto estiver sob efeito de [Tracking] garante 20% de chance, por nível do atributo, de aplicar [Prey] no inimigo.{nl}* [Prey] compartilha da duração de [Tracking].{nl}* Todas as habilidades de Tiger Hunter que acertarem os inimigos aplicam efeito igual como se atacasse um monstro da raça Fera.{nl}- [Rapid Shot]: Aumenta a Taxa de Crítico em 30%{nl}- [Ambush]: [Nv Ambush]x5% de chance de causar [Stun]
 SKILL_20190419_015589	* Aumenta a chance de [Cure] remover um debuff adicional em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo
 SKILL_20190419_015590	* Aumenta a Taxa de Crítico mínima de todos os ataques do elemento Trevas em inimigos sob efeito de [Hexing] em 2% por nível do atributo.{nl}* Consumo de SP + 10%
 SKILL_20190419_015591	Graça: Ataque Adicional Divino
