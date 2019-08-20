@@ -22165,7 +22165,7 @@ ETC_20160718_022166	Lezsa Hill
 ETC_20160718_022167	Prascill Fields
 ETC_20160718_022168	Sticla Village
 ETC_20160718_022169	Dvejoti Cliff
-ETC_20160718_022170	Verde Ridge
+ETC_20160718_022170	Green Ridge
 ETC_20160718_022171	Kadumel Cliff Entrance
 ETC_20160718_022172	Kalna Crossroads
 ETC_20160718_022173	Dalvin Assembly Point
@@ -22636,7 +22636,7 @@ ETC_20160718_022637	Pomona
 ETC_20160718_022638	Tree Root
 ETC_20160718_022639	Clair
 ETC_20160718_022640	Lada
-ETC_20160718_022641	Defiled Energy
+ETC_20160718_022641	Energia Profana
 ETC_20160718_022642	Dadania Grass
 ETC_20160718_022643	Unique Stone
 ETC_20160718_022644	Charm1
@@ -28322,8 +28322,8 @@ ETC_20170726_028302	Pledge of the Blade Mercenary (M)	칼날서약 용병단원 
 ETC_20170726_028303	Pledge of the Blade Mercenary (F)	칼날서약 용병단원 여자
 ETC_20170726_028304	Gerente de Pesca	낚시터 관리인
 ETC_20170726_028305	Local de Pesca	낚시터
-ETC_20170726_028306	Caixa de Pesca Stage 1	살림통 1단계
-ETC_20170726_028307	Caixa de Pesca Stage 2	살림통 2단계
+ETC_20170726_028306	Caixa de Pesca Estágio 1
+ETC_20170726_028307	Caixa de Pesca Estágio 2
 ETC_20170726_028308	Pesca: Quadro de Avisos	낚시터 알림판
 ETC_20170726_028309	Garoto Poodle	푸들 남자
 ETC_20170726_028310	Menina Gato	고양이 여자
@@ -30494,7 +30494,7 @@ ETC_20171128_030474	Itens de Entrada usados
 ETC_20171128_030475	Não é possível entrar pois os itens de entrada estão travados.
 ETC_20171128_030476	[50% OFF]
 ETC_20171128_030477	Achievement Reward for each Stage
-ETC_20171128_030478	Stage {STEP}
+ETC_20171128_030478	Estágio {STEP}
 ETC_20171128_030479	Achievement Stage: Stage {s16}{ol}{#ffcc33}{STEP}
 ETC_20171128_030480	Daily Token Given: Once a day
 ETC_20171128_030481	Cube Exchange: Twice a day
@@ -31040,7 +31040,7 @@ ETC_20171128_031020	Slash Attack
 ETC_20171128_031021	Strike Attack
 ETC_20171128_031022	Rubbing Rank {Rank}
 ETC_20171128_031023	Você pode perder Silver, Gems, ou Blessed shards quando você se torna incapaz de combater nesta área atual.
-ETC_20171128_031024	Insufficient items to enter the dungeon.
+ETC_20171128_031024	Quantidade insuficiente de itens para entrar no calabouço.
 ETC_20171128_031025	Não pode usar enquanto em busca automática.
 ETC_20171128_031026	Cannot lock inside instanced dungeon.
 ETC_20171128_031027	Saindo da dungeon em {Sec} segundos...
@@ -31050,9 +31050,9 @@ ETC_20171128_031030	{ID_NAME} (Nv Recomendado: {ID_LV})
 ETC_20171128_031031	You have obtained a reward for the Refuge Visitor achievement.
 ETC_20171128_031032	Can only be used after entering the Challenge Mode 1 time.
 ETC_20171128_031033	Recebeu uma entrada adicional para o Modo Desafio!
-ETC_20171128_031034	Can only purchase {Value} of this item for each team.{nl}Continue?
+ETC_20171128_031034	Liberado {Value} deste item por Time.{nl}Prosseguir?
 ETC_20171128_031035	Recompensas Diárias
-ETC_20171128_031036	Can only purchase {Value} of this item per month.{nl}Continue?
+ETC_20171128_031036	Liberado {Value} deste item por mês.{nl}Continuar?
 ETC_20171128_031037	Você está no primeiro lugar do ranking destas cópias!
 ETC_20171128_031038	Você entrou no ranking destas cópias!
 ETC_20171128_031039	Ele era um bom peixinho.
@@ -32694,20 +32694,20 @@ ETC_20180517_032665	Grants Token benefits to all your characters in the server f
 ETC_20180517_032666	Grants Token benefits to all your characters in the server for 15 days. See remaining time under Character Info.{nl}[Token Benefits]{nl} - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantaneously{nl}- Movement speed +3{nl} - +50% EXP from hunting monsters{nl}(Stacks with EXP Tome effects){nl}- Team Storage slots +30{nl} - Able to use Premium Gestures
 ETC_20180517_032667	Delete your current Guild Emblem and register a new one free of charge.
 ETC_20180517_032668	INT {img green_up_arrow 16 16} 25{nl}SPR {img green_up_arrow 16 16} 25
-ETC_20180517_032669	Magic attack {img green_up_arrow 16 16} 571
-ETC_20180517_032670	SP {img green_up_arrow 16 16} 1435 {nl}Sumazinti{nl} - Reduces the magic defense of 5 enemies nearby by 15% for 10 sec (cooldown 100 sec)
+ETC_20180517_032669	Ataque Mágico {img green_up_arrow 16 16} 571
+ETC_20180517_032670	SP {img green_up_arrow 16 16} 1435 {nl}[Sumazinti]{nl} - Reduz a Defesa Mágica de 5 inimigos próximos em 15% por 10 segundos{nl}(Cooldown: 100 segundos)
 ETC_20180517_032671	DEX {img green_up_arrow 16 16} 25{nl}SPR {img green_up_arrow 16 16} 25
-ETC_20180517_032672	AoE attack ratio {img green_up_arrow 16 16} 3
-ETC_20180517_032673	Tiksline{nl} - Marks 3 enemies nearby. Marked enemies receive 50% more damage for 5 seconds. After the mark disappears, the enemies receive their total damage taken while the mark was active in the form of magic damage.
-ETC_20180517_032674	Mergaite{nl} - Provides invincibility throughout the duration of the skill (cooldown 100 sec).
-ETC_20180517_032675	 - After using Mergaite, your physical/magic defense increases by 40% for 20 sec.
-ETC_20180517_032676	 - After using Mergaite, the physical/magic defense increase goes from 40% to 100%.
+ETC_20180517_032672	Taxa de Ataque em Área {img green_up_arrow 16 16} 3
+ETC_20180517_032673	[Tiksline]{nl} - Marca 3 inimigos próximos. Inimigos marcados recebem 50% a mais de dano por 5 segundos. Depois que a marca desaparece, os inimigos recebem o dano total causado neles, enquanto a marca estava ativa, como Dano Mágico.
+ETC_20180517_032674	[Mergaite]{nl} - Provê invencibilidade durante a execução da habilidade.{nl}(Cooldown 100 segundos)
+ETC_20180517_032675	 - Após utilizar [Mergaite], Defesa Mágica e Física +40% por 20 segundos
+ETC_20180517_032676	 - Após utilizar [Mergaite], Defesa Física e Mágica +100% (ao invés dos +40% do efeito de 4 itens)
 ETC_20180517_032677	CON {img green_up_arrow 16 16} 25{nl} DEX {img green_up_arrow 16 16} 25
-ETC_20180517_032678	Physical attack {img green_up_arrow 16 16} 571
-ETC_20180517_032679	Ire of Kraujas{nl} - Receive Ire of Kraujas effects for 20 seconds. While the effects are active, the buff stacks as you deal damage to enemies.{nl} Stack Effects {nl} - Max. 10 stacks{nl} - Damage increase: (no. of stacks) * 10%{nl} - Damage received increase: (no. of stacks) * 20%
+ETC_20180517_032678	Ataque Físico {img green_up_arrow 16 16} 571
+ETC_20180517_032679	[Ira de Kraujas]{nl} - Recebe o efeito desta habilidade por 20 segundos. Enquanto ativo, o efeito se acumula conforme você causa dano nos inimigos.{nl} Efeitos por Acúmulo {nl} - +10% de dano{nl} - +20% de dano recebido{nl} - Máx. 10 acúmulos
 ETC_20180517_032680	CON {img green_up_arrow 16 16} 35
-ETC_20180517_032681	Movement speed {img green_up_arrow 16 16} 1
-ETC_20180517_032682	Gyvenimas' Protection{nl} - Creates a protective shield corresponding to 50% of your max. HP for 30 seconds. When the shield's health is at 50% or lower, it restores its health every 1 second. The shield stops restoring health when it reaches 0 health or the 30 seconds are over.
+ETC_20180517_032681	Velocidade de Movimento {img green_up_arrow 16 16} 1
+ETC_20180517_032682	[Proteção de Gyvenimas]{nl} - cria um escudo de proteção, correspondente a 50% do seu HP Máximo, por 30 segundos. Quando o escudo estiver em 50% ou menos, recubera a sua vida a cada 1 segundo. O escudo para de recuperar quando alcança 0 de vida, ou os 30 segundos acabarem.
 ETC_20180517_032683	Crystal Mine Spider
 ETC_20180517_032684	Crystal Mine Vubbe
 ETC_20180517_032685	Crystal Mine Shtayim
@@ -32722,8 +32722,8 @@ ETC_20180517_032693	Tree
 ETC_20180517_032694	Leafy Tree
 ETC_20180517_032695	Flowerbed
 ETC_20180517_032696	Desmanchar Equipamento Lendário
-ETC_20180517_032697	Craft Legend Equipment
-ETC_20180517_032698	Transcend High Grade Item
+ETC_20180517_032697	Criar Equipamento Lendário
+ETC_20180517_032698	Transcender Item de Alto Nível
 ETC_20180517_032699	Stretch
 ETC_20180517_032700	Twirl Clap
 ETC_20180517_032701	Whack-a-Mole Bingo
@@ -33003,7 +33003,7 @@ ETC_20180517_032974	This item is already in your basket.{nl}Add to basket?
 ETC_20180517_032975	{s16}{@st66b}Efeito: {Auto_1}{Auto_2} Itens{nl}
 ETC_20180517_032976	Tem certeza que deseja remover {#85070a}[{ITEM}]{/} x{#85070a}[{COUNT}]{/}?
 ETC_20180517_032977	Tem certeza que deseja remover {#85070a}[{ITEM}]{/}?
-ETC_20180517_032978	For more information, check the official website at treeofsavior.com.
+ETC_20180517_032978	Para maiores informações, acesse o site oficial treeofsavior.com.
 ETC_20180517_032979	Non-probability Items
 ETC_20180517_032980	Probability Items
 ETC_20180517_032981	{img icon_item_tpBox_30 30 30} {TOTAL} will be consumed.
@@ -34361,7 +34361,7 @@ ETC_20180629_034332	{@st66d_y}{s20}{ITEM}{/}{/} {nl}Are you sure you want this c
 ETC_20180629_034333	{PC} usou o Dimensional Incense Burner em {ZONE} (canal {CHANNEL}).
 ETC_20180629_034334	Move Down
 ETC_20180629_034335	Move Up
-ETC_20180629_034336	Are you sure you want to change the stats of {@st66}{b}{s18}{#8e0000}[{ItemName}]{/}{/}{/}{s18} as follows?
+ETC_20180629_034336	Deseja alterar os atributos de {@st66}{b}{s18}{#8e0000}[{ItemName}]{/}{/}{/}{s18} para os seguintes?
 ETC_20180629_034337	Tem certeza que deseta teleportar?{nl}{ol}{PRICE} Silver{/}
 ETC_20180629_034338	Tem certeza que deseta teleportar?{nl}{ol}{#ffcc00}{PRICE} Silver{/}
 ETC_20180629_034339	Tem certeza que deseta teleportar?{nl}{ol}{#ff6000}{PRICE} Silver{/}
@@ -34686,7 +34686,7 @@ ETC_20180629_034657	You already own this dye.{nl}Are you sure you want to purcha
 ETC_20180629_034658	You already own this dye. You may purchase it again after trying it on.{nl}Are you sure you want to try it on?
 ETC_20180629_034659	Um ou mais dos seus Acessórios de Cabelo{nl}estão marcados como escondidos.{nl}Itens colocados no mesmo espaço{nl}acabarão permanecendo escondidos.
 ETC_20180629_034660	Investigar
-ETC_20180629_034661	 Os monstros estão vindo! Derrote todos!
+ETC_20180629_034661	 - Os monstros estão vindo! Derrote todos!
 ETC_20180629_034662	Enter the Other Dimension (rec. level: 300).
 ETC_20180629_034663	See those who entered the Other Dimension.
 ETC_20180629_034664	Don't enter.
@@ -36833,7 +36833,7 @@ ETC_20190104_036754	Except under some circumstances, you cannot receive more tha
 ETC_20190104_036755	{nl} {nl}Clicking on the button below the class you want to change lets you select a new class. You can finalize your change by clicking on the confirmation button which displays the prerequisites for advancement.	{nl} {nl}변경하고자 하는 클래스 아래의 변경 버튼을 누르면, 변경할 클래스를 선택할 수 있으며 전직을 누르면 변경 조건을 확인하는 창으로 넘어갑니다.			
 ETC_20190104_036756	{nl} {nl}You will be able to change classes once you meet the requirements for the requested class change 	{nl} {nl}클래스를 변경하기 위한 조건에 모두 부합할 경우, 클래스 변경이 가능해지며 			
 ETC_20190104_036757	 and you will be returned to the character select screen once the class change has been finalized.{nl} {nl}Your character's class will be changed once you reconnect to the game.	 버튼을 눌러 변경이 완료되면 캐릭터 선택 창으로 돌아갑니다.{nl} {nl}변경한 캐릭터를 재접속하면 클래스가 변경된 것을 확인할 수 있습니다.			
-ETC_20190104_036758	Enhance Seal	인장 강화			
+ETC_20190104_036758	Aprimorar Selos
 ETC_20190104_036759	Seals can be enhanced to improve their stats.	인장 강화를 통해 획득한 인장의 성능을 올릴 수 있습니다.			
 ETC_20190104_036760	{nl} {nl}Seals can be enhanced by visiting Blacksmith Teliavelis in Fedimian.	{nl} {nl}페디미안의 대장장이 테리아베리스를 통해 인장 강화를 할 수 있습니다.			
 ETC_20190104_036761	A Seal of equal enhancement level is required for enhancement. The amount of Silver required varies depending on the level of enhancement.	동일한 강화 수치의 인장을 등록해야 됩니다. 각 등급에 따라 확률 및 요구 실버량이 변경됩니다.			
@@ -37047,11 +37047,11 @@ ETC_20190104_036968	Linkers buscam pelo elo entre diferentes materiais, usando e
 ETC_20190104_036969	Rogues eram pessoas procuradas pelo Reino, mas ganharam perdão após a assistência que deram para diversos aventureiros. Há mais ou menos 300 anos, durante o reinado de Nachel I, receberam o perdão que garante imunidade de punição, a não ser que seus crimes fossem muito sérios, como assassinatos ou traição.{nl}Um Rogue fará o que for preciso para vencer uma batalha. É uma classe especializada em emboscar furtivamente os alvos pelas costas.
 ETC_20190104_036970	Schwarzer Reiters são uma das principais unidades militares que formam o Exército Real, existindo desde o reinado de Sawsel II. Recentemente iniciaram trabalhos como mercenários, mas seus números cresceram pouco quando foram agrupados como forças especiais do serviço real.{nl}Schwarzer Reiters possuem manobras rápidas. São especializados em diversas técnicas de tiro utilizando Pistola.
 ETC_20190104_036971	Bullet Markers foram estabelecidos muito recentemente, surgindo agora na atualidade. Sendo relativamente nvoos, Flint Winterwood é o primeiro Mestre da classe. O futuro deles está nas mãos daqueles que carregarão o nome de Bullet Marker.
-ETC_20190104_036972	SP {img green_up_arrow 16 16} 1435 {nl}Sumazinti{nl} - Reduces the magic defense of 5 enemies nearby by 15% for 10 seconds (cooldown 100 seconds){nl} {nl}Dragon Strength Lv 1 Effects{nl} - Duration increased to 15 seconds and magic defense reduction increased to 20%	SP {img green_up_arrow 16 16} 1435 {nl}슈마진{nl} - 사용시 10초간 전방의 적 5명에게 마법 방어력 15% 감소 (재사용 대기 시간 100초){nl} {nl}드래곤 기운 1단계 효과{nl} - 유지시간 15초 마법 방어력 20% 감소로 변경	ETC_20180517_032670	SP {img green_up_arrow 16 16} 1435 {nl}Sumazinti{nl} - Reduces the magic defense of 5 enemies nearby by 15% for 10 sec (cooldown 100 sec).	SP {img green_up_arrow 16 16} 1435 {nl}슈마진{nl} - 사용시 10초간 전방의 적 5명에게 마법 방어력 15% 감소 (재사용 대기 시간 100초)
-ETC_20190104_036973	Tiksline{nl} - Marks 3 enemies nearby. Marked enemies receive 50% additional damage for 5 seconds. After the mark disappears, the enemies receive their total damage taken while the mark was active in the form of magic damage.{nl}Dragon Strength Lv 1 Effects{nl} - Duration increased to 10 seconds and additional damage taken over 7 hits	티크라스{nl} - 사용시 주위의 적 3명에게 표식을 남깁니다. 5초간 표식이 존재하는 적에게 공격한 대미지의 50%를 추가로 줍니다. 표식 지속시간이 종료될 때, 표식 지속시간동안 시전자가 입힌 누적대미지로 대상에게 마법 대미지를 줍니다.{nl} {nl}드래곤 기운 1단계 효과{nl} - 유지시간 10초 타격 횟수 누적 대미지를 7회에 걸쳐 입힙니다.	ETC_20180517_032673	Tiksline{nl} - Marks 3 enemies nearby. Marked enemies receive 50% more damage for 5 seconds. After the mark disappears, the enemies receive their total damage taken while the mark was active in the form of magic damage.	티크라스{nl} - 사용시 주위의 적 3명에게 표식을 남깁니다. 5초간 표식이 존재하는 적에게 공격한 대미지의 50%를 추가로 줍니다. 표식 지속시간이 종료될 때, 표식 지속시간동안 시전자가 입힌 누적대미지로 대상에게 마법 대미지를 줍니다.
-ETC_20190104_036974	  - After using Mergaite, the physical/magic defense increase rises from 40% to 100%.{nl}Dragon Strength Lv 1 Effects{nl} - Stun 5 nearby enemies for 5 seconds upon skill use	 - 메가테 사용 후 물리/마법 방어력 증가 효과가 40%에서 100%로 변경됩니다. {nl} {nl}드래곤 기운 1단계 효과{nl} - 스킬 사용시 주위의 적 5명 5초간 스턴	ETC_20180517_032676	 - After using Mergaite, the physical/magic defense increase rises from 40% to 100%.	 - 메가테 사용 후 물리/마법 방어력 증가 효과가 40%에서 100%로 변경됩니다.
-ETC_20190104_036975	Ire of Kraujas{nl} - Receive the Ire of Kraujas buff for 20 seconds. The buff stacks as you deal damage to enemies while under its effects.{nl} Stack Effects {nl} - Max. 10 stacks{nl} - Damage Increase: (no. of stacks) * 10%{nl} - Damage Received Increase: (no. of stacks) * 20%{nl} {nl}Dragon Strength Lv 1 Effects{nl} - Damaged Received increase reduced to (no. of stacks)* 5%	카루자의 분노{nl} - 스킬 시전하면 20초동안 카루자의 분노 효과를 얻습니다. 카루자 효과를 받는 동안 적에게 대미지를 주면 버프가 중첩됩니다.{nl} 중첩 효과 {nl} - 최대 중첩 횟수: 10회 {nl} - 적에게 주는 대미지 증가: (중첩 수) * 10%{nl} - 적에게 받는 대미지 증가: (중첩 수) * 20%{nl} {nl}드래곤 기운 1단계 효과{nl} - 받는 대미지 증가 효과 (중첩 수)* 5%로 변경	ETC_20180517_032679	Ire of Kraujas{nl} - Receive the Ire of Kraujas effect for 20 seconds. While the effect is active, the buff stacks as you deal damage to enemies.{nl} Stack Effects {nl} - Max. 10 stacks{nl} - Damage Increase: (no. of stacks) * 10%{nl} - Damage Received Increase: (no. of stacks) * 20%	카루자의 분노{nl} - 스킬 시전하면 20초동안 카루자의 분노 효과를 얻습니다. 카루자 효과를 받는 동안 적에게 대미지를 주면 버프가 중첩됩니다.{nl} 중첩 효과 {nl} - 최대 중첩 횟수: 10회 {nl} - 적에게 주는 대미지 증가: (중첩 수) * 10%{nl} - 적에게 받는 대미지 증가: (중첩 수) * 20%
-ETC_20190104_036976	Gyvenimas' Protection{nl} - Creates a protective shield corresponding to 50% of your max. HP for 30 seconds. When the shield's health is at 50% or lower, it restores its health every 1 second. The shield stops restoring health when it reaches 0 health or the 30 seconds are over.{nl} {nl}Dragon Strength Lv1 Effects{nl} - Knocks back nearby enemies when the shield health reaches 0 or is expired	가베니의 보호{nl} - 자신에게 30초간 최대 체력의 50%에 해당하는 실드를 부여합니다. 실드가 50%이하로 깎이면 1초마다 실드를 회복합니다. 실드량이 0이 되거나 30초가 지나면 실드가 회복 되지 않습니다.{nl} {nl}드래곤 기운 1단계 효과{nl} - 실드가 0이 되거나, 사라질 때 주위의 적 넉백	ETC_20180517_032682	Gyvenimas' Protection{nl} - Creates a protective shield corresponding to 50% of your max. HP for 30 seconds. When the shield's health is at 50% or lower, it restores its health every 1 second. The shield stops restoring health when it reaches 0 health or the 30 seconds are over.	가베니의 보호{nl} - 자신에게 30초간 최대 체력의 50%에 해당하는 실드를 부여합니다. 실드가 50%이하로 깎이면 1초마다 실드를 회복합니다. 실드량이 0이 되거나 30초가 지나면 실드가 회복 되지 않습니다.
+ETC_20190104_036972	SP {img green_up_arrow 16 16} 1435 {nl}[Sumazinti]{nl} - Reduz a Defesa Mágica de 5 inimigos próximos em 15% por 10 segundos.{nl}(Cooldown 100 segundos){nl} {nl}[Dragon Strength Nv 1]{nl} - Duração aumenta para 15 segundos e a redução da Defesa Mágica aumenta para 20%
+ETC_20190104_036973	[Tiksline]{nl} - Marca 3 inimigos próximos. Estes inimigos recebem 50% a mais de dano por 5 segundos. Depois que a marca desaparecer, o inimigo recebe todo o dano já recebido neste período novamente como Dano Mágico.{nl}[Dragon Strength Nv 1]{nl} - Duração da marca aumenta para 10 segundos e dano adicional recebido por 7 ataques
+ETC_20190104_036974	  - Após utilizar [Mergaite], Defesa Física e Mágica +100% (ao invés dos +40% do efeito de 4 itens).{nl} {nl}[Dragon Strength Nv 1]{nl} - Ao utilizar [Mergaite], causa [Stun] em 5 inimigos próximos por 5 segundos
+ETC_20190104_036975	[Ira de Kraujas]{nl} - Recebe o efeito desta habilidade por 20 segundos. Enquanto ativo, o efeito se acumula conforme você causa dano nos inimigos.{nl} Efeitos por Acúmulo {nl} - +10% de dano{nl} - +20% de dano recebido{nl} - Máx. 10 acúmulos{nl} {nl}[Dragon Strength Nv 1]{nl} - Dano recebido passa a ser +5% por acúmulo
+ETC_20190104_036976	[Proteção de Gyvenimas]{nl} - Cria um escudo de proteção, correspondente a 50% do seu HP Máximo, por 30 segundos. Quando o escudo estiver em 50% ou menos, recubera a sua vida a cada 1 segundo. O escudo para de recuperar quando alcança 0 de vida, ou os 30 segundos acabarem.{nl} {nl}[Dragon Strength Nv1]{nl} - Empurra os inimigos ao redor quando o escudo alcançar 0 de vida ou seu tempo expirar
 ETC_20190104_036977	If you exchange your current gear for {@st66d_y}Lv 380 equipment{/}, you can defeat even stronger monsters. Press the {@st66d_y}	현재 착용 중인 장비를 {@st66d_y}380레벨 착용 장비{/}로 교체하시면 좀 더 강한 몬스터를 처치할 수 있습니다. 장비 아이템은 {@st66d_y}			
 ETC_20190104_036978	{/} as reward.{nl}- {@st66d_y}	{/}를 획득할 수 있습니다.{nl}- {@st66d_y}	ETC_20180320_031784	{/} as reward.{nl}{@st66d_y}	{/}를 획득할 수 있습니다.{nl}{@st66d_y}
 ETC_20190104_036979	First Shelter Raid	첫 번째 피난처 레이드	ETC_20160811_022941	Nobreer Forest	노브리어 숲
@@ -40727,7 +40727,7 @@ ETC_20190104_040648	[Mestre Shinobi]{nl}Yura Swanjone
 ETC_20190104_040649	[Mestre Necromancer]{nl}Loretta Nimbus
 ETC_20190104_040650	[Mestre Miko]{nl}Hitomiko
 ETC_20190104_040651	Competir por 8 minutos
-ETC_20190104_040652	Oficial de Suprimentos Real{nl}Manfredas
+ETC_20190104_040652	Oficial de Suprimentos Reais{nl}Manfredas
 ETC_20190104_040653	Boruta olha longe para o horizonte
 ETC_20190104_040654	Portal de Fuga
 ETC_20190104_040655	O Eco será escutado em breve
@@ -41520,7 +41520,7 @@ ETC_20190419_041441	Instale a bomba na entrada do caminho
 ETC_20190419_041442	Instale a bomba no meio do caminho
 ETC_20190419_041443	Instale a bomba no final do caminho
 ETC_20190419_041444	Mova as Algas
-ETC_20190419_041445	Garante 20% de chance de causar entre 5.000 e 8.000 de dano em 10 inimigos ao redor, incluindo o alvo.{nl}[Dragon Strength Lv 2[{nl}O dano que o alvo recebe do Drakonas Frieno aumenta em 10%, com um número reduzido de alvos afetados.
+ETC_20190419_041445	Garante 20% de chance de causar entre 5.000 e 8.000 de dano em 10 inimigos ao redor, incluindo o alvo.{nl}[Dragon Strength Lv 2]{nl}O dano que o alvo recebe do Drakonas Frieno aumenta em 10%, com um número reduzido de alvos afetados.
 ETC_20190419_041446	A dor...
 ETC_20190419_041447	Recipe - Legend Raid Portal Stone
 ETC_20190419_041448	Avanço para Matross
@@ -41814,7 +41814,7 @@ ETC_20190419_041735	Brotos serão entregues em breve. Se você retornar antes de
 ETC_20190419_041736	Gemstone Feud começa em 5 minutos.{nl}Entre nas cidades ou Minners' Village.
 ETC_20190419_041737	Gemstone Feud começará agora!{nl}Entre nas cidades ou Minners' Village.
 ETC_20190419_041738	Gemstone Feud Sessão 2 começa em 3 minutos.{nl}Entre nas cidades ou Minners' Village.
-ETC_20190419_041739	emstone Feud Sessão 2 começará agora!{nl}Entre nas cidades ou Minners' Village.
+ETC_20190419_041739	Gemstone Feud Sessão 2 começará agora!{nl}Entre nas cidades ou Minners' Village.
 ETC_20190419_041740	Pledge of the Blade
 ETC_20190419_041741	Golden Note
 ETC_20190419_041742	{cnt} membros da Guildaparticiparam do último GTW.{nl}Você pode receber recompensa de participação Estágio {buffLevel}.
@@ -41993,9 +41993,9 @@ ETC_20190611_041914	CON {img green_up_arrow 16 16} 40
 ETC_20190611_041915	HP Máximo {img green_up_arrow 16 16} 6000
 ETC_20190611_041916	[Barreira de Goduma]{nl}- Reduz o dano recebido baseado no percentual de HP perdido (Máximo de 100%. Duração: 10 segundos){nl}[Dragon Strength Nv 1]{nl}- Duração aumenta em 5 segundos
 ETC_20190611_041917	Gymas
-ETC_20190611_041918	Taxa de Cura {img green_up_arrow 16 16} 450
+ETC_20190611_041918	Cura {img green_up_arrow 16 16} 450
 ETC_20190611_041919	SPR {img green_up_arrow 16 16} 57
-ETC_20190611_041920	[Convicção de Gymas]{nl}- Taxa de Cura: +30%, Consumo de SP das habilidades: -25% (Duração: 10 segundos){nl}[Dragon Strength Nv 1]{nl}- Redução adicional no Consumo de SP de 25%
+ETC_20190611_041920	[Convicção de Gymas]{nl}- Cura: +30%, Consumo de SP das habilidades: -25% (Duração: 10 segundos){nl}[Dragon Strength Nv 1]{nl}- Redução adicional no Consumo de SP de 25%
 ETC_20190611_041921	Smugis
 ETC_20190611_041922	STR {img green_up_arrow 16 16} 37{nl}INT {img green_up_arrow 16 16} 37
 ETC_20190611_041923	Ataque Físico {img green_up_arrow 16 16} 572{nl}Ataque Mágico {img green_up_arrow 16 16} 572
@@ -42221,9 +42221,9 @@ ETC_20190702_042142	Clique com o botão direito do mouse para utilizar e obtenha
 ETC_20190702_042143	[PP] Pamoka Solution Box
 ETC_20190702_042144	Clique com o botão direito do mouse para utilizar e obtenha os itens:{nl}- Full Pamoka Solution x20
 ETC_20190702_042145	[Reforço de Apsauga]{nl}- Aumenta a Defesa dos aliados, dentro de uma área de 500, em 25% da sua defesa (Duração: 30 segundos){nl} {nl}[Dragon Strength Nv 1]{nl}- O efeito aumenta para 50%
-ETC_20190702_042146	Cura os aliados, dentro de uma área deo 80, em 25% da quantidade curada (Duração: 30 segundos){nl} {nl}[Dragon Strength Nv 1]{nl}- A quantidade de HP recuperado aumenta em 15%
+ETC_20190702_042146	 cura os aliados, dentro de uma área de 80, em 25% da quantidade curada (Duração: 30 segundos){nl} {nl}[Dragon Strength Nv 1]{nl}- A quantidade de HP recuperado aumenta em 15%
 ETC_20190702_042147	[Barreira de Goduma]{nl}- Reduz o dano recebido baseado no percentual de HP perdido (Máximo: 90%. Duração: 30 segundos){nl}[Dragon Strength Nv 1]{nl}- Duração aumentada em 10 segundos
-ETC_20190702_042148	[Convicção de Gymas]{nl}- Taxa de Cura: +30%, Consumo de SP das habilidades: -25% (Duração: 40 segundos){nl}[Dragon Strength Nv 1]{nl}- Redução adicional do Consumo de SP em 25%
+ETC_20190702_042148	[Convicção de Gymas]{nl}- Cura: +30%, Consumo de SP das habilidades: -25% (Duração: 40 segundos){nl}[Dragon Strength Nv 1]{nl}- Redução adicional do Consumo de SP em 25%
 ETC_20190702_042149	[Contra Ataque de Smugis]{nl}- Acumula o dano causado por 10 segundos, depois libera o dano dividido entre 3~7 golpes{nl} {nl}[Dragon Strength Nv 1]{nl}- O número de golpes é fixado em 7
 ETC_20190706_042150	Clique com o botão direito do mouse para utilizar e obtenha os itens:{nl}- [PP] Legend Enchant Jewel x1{nl}- [PP] Unique Enchant Jewel x20
 ETC_20190706_042151	Tempo de Reinício para Entrada do Modo Desafio
@@ -42268,10 +42268,10 @@ ETC_20190727_042189	Aprimora seu equipamento para Transcendência Estágio 8.{nl
 ETC_20190727_042190	2019 Leticia's Treasure Chest (August)
 ETC_20190727_042191	Um baú recheado dos itens mais preciosos da Leticia. Use para obter os seguintes itens:{nl} - Token Box (5 ea) x1{nl}Transcendence Selection Box x1{nl} Shining Golden Socket Box x1
 ETC_20190727_042192	Recompensa Diária - Agosto
-ETC_20190813_042193	Campfire Popup Book	캠프 파이어 팝업북
-ETC_20190813_042194	Camping Costume Selection Box	한여름 밤의 캠핑 코스튬 선택 상자
-ETC_20190813_042195	Use to select one of the following items.{nl} - Camping Costume (Male) x1{nl}Camping Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 한여름 밤의 캠핑 코스튬 (남) 1개{nl} - 한여름 밤의 캠핑 코스튬 (여) 1개
-ETC_20190813_042196	Jungle Explorer Costume Selection Box	정글 탐험가의 코스튬 선택 상자
-ETC_20190813_042197	Use to select one of the following items.{nl} - Jungle Explorer Costume (Male) x1{nl} - Jungle Explorer Costume (Female)	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 정글 탐험가의 코스튬 (남) 1개{nl} - 정글 탐험가의 코스튬 (여) 1개
-ETC_20190813_042198	Black Bear Costume Box	반달가슴곰 코스튬 상자
-ETC_20190813_042199	Use to obtain the following items.{nl}- Black Bear Costume x1{nl}- Black Bear Helmet x1	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 반달가슴곰 코스튬 1개{nl} - 반달가슴곰 헤드 1개
+ETC_20190813_042193	Campfire Popup Book
+ETC_20190813_042194	Camping Costume Selection Box
+ETC_20190813_042195	Use para selecionar um dos seguintes itens:{nl} - Camping Costume (Male) x1{nl}Camping Costume (Female) x1
+ETC_20190813_042196	Jungle Explorer Costume Selection Box
+ETC_20190813_042197	Use para selecionar um dos seguintes itens:{nl} - Jungle Explorer Costume (Male) x1{nl} - Jungle Explorer Costume (Female)
+ETC_20190813_042198	Black Bear Costume Box
+ETC_20190813_042199	Use para obter os seguintes itens:{nl}- Black Bear Costume x1{nl}- Black Bear Helmet x1
