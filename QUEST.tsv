@@ -3894,7 +3894,7 @@ QUEST_20160718_003902	Selecione Destino para Aliado
 QUEST_20160718_003903	Recompensa Evento Voluntário
 QUEST_20160718_003904	Obrigado por participar no evento de defesa contra Warpulis.
 QUEST_20160718_003905	Não tenho mais nada no momento.
-QUEST_20160718_003906	Ajudante de Evento
+QUEST_20160718_003906	{@st41}{#FF6700}Ajudante de Evento{/}{/}
 QUEST_20160718_003907	Obrigado por participar do evento.{nl}Depois que terminar o recrutamento, siga os gestos ao meu redor.{nl}Pressione
 QUEST_20160718_003908	para abrir a UI de Macro e clique nos gestos para usa-los.
 QUEST_20160718_003909	Impossível participar enquanto o evento acontece.{nl}Por favor, junte-se no próximo.
@@ -6264,7 +6264,7 @@ QUEST_20171120_006287	Por favor, selecione o nível do Chefe.
 QUEST_20171120_006289	O nível do Boss selecionada é muito alto, ou inválido.
 QUEST_20171128_006290	Historic Site Ruins (Lv Recomendado : 120){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
 QUEST_20171128_006291	Demon Prison Guild (Lv Recomendado : 180){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
-QUEST_20171128_006292	Ajudante de Evento
+QUEST_20171128_006292	{@st41}{#FF6700}Ajudante de Evento{/}{/}
 QUEST_20171128_006293	Desculpe, este evento é para novos Salvadores.
 QUEST_20171128_006294	Hoje 
 QUEST_20171128_006295	este evento
@@ -10691,7 +10691,7 @@ QUEST_20190419_010810	cai por volta de 5 minutos após você terminar o conteúd
 QUEST_20190419_010811	Certo, jovem. Estarei esperando pelos itens!
 QUEST_20190419_010812	Eu poderia usar ainda mais Pedaços de Estrela Cintilantes.{nl}Sabe, todos estão vindo aqui atrás de itens melhores.
 QUEST_20190419_010813	Estive trabalhando em um tipo especial de armamento,{nl}mas estou com problemas em manter o estoque desses pedaços.{nl}Poderia obter alguns Pedaços de Estrela Cintilantes para mim?
-QUEST_20190419_010814	Ei, você já junto dez deles! Valeu!{nl}Certo, aqui está uma das minhas melhores bigornas.{nl}Experimenta usar e depois me diz o que achou.
+QUEST_20190419_010814	Ei, você já juntou dez deles! Valeu!{nl}Certo, aqui está uma das minhas melhores bigornas.{nl}Experimenta usar e depois me diz o que achou.
 QUEST_20190419_010815	Parece que você ainda não achou Pedaços de Estrela Cintilantes suficientes.{nl}Ainda vai juntar mais alguns?{nl}Caso tenha esquecido, eu explico de novo.
 QUEST_20190419_010816	Vê se não esquece agora!
 QUEST_20190419_010817	Mestre Sheriff
@@ -10983,11 +10983,11 @@ QUEST_20190715_011105	Eu vou cuidar do seu Chupacabra de agora em diante.{nl}At�
 QUEST_20190723_011106	Os três governantes de Nicopolis estão mais fortes do que nunca. A ganância deles não tem limite. Não contentes em pressionar a cidade, eles estão tentando influenciar a vida no Reino além de Nicopolis.{nl}O Reino e as suas leis são tudo o que está entre eles e o poder total. Os cidadãos de Nicopolis ficarão ainda mais presos se não estiverem sob a tutela das leis do Reino. Não importam os meios, eles tentarão prender Nicopolis o quanto for possível.
 QUEST_20190723_011107	Se quiser tentar, use a minha isca especial durante o evento.{nl}É só pegar algumas no balde aqui do lado!
 QUEST_20190802_011108	 pode ser trocado aqui.{nl}
-QUEST_20190802_011109	Vendemos BBQ Prawn Skewers por 5, Blue Lemonade por 10, Fresh Coconut Water por 20 Cubos de Gelo.{nl}Também damos {#003399}[Evento] Moedas Vasalos{/} para cada Cubo de Gelo que nos trouxer!{nl}Também daremos {#003399}[Evento] Moedas Vasalos{/} adicionais para quem trocar Cubos de Gelo por lanches 20 vezes!
+QUEST_20190802_011109	Aqui estamos vendendo BBQ Prawn Skewers por 5 Cubos de Gelo,{nl}Blue Lemonade por 10 Cubos de Gelo e Fresh Coconut Water por 20 Cubos de Gelo.{nl}Também damos {#003399}[Evento] Moedas Vasalos{/} para cada Cubo de Gelo que nos trouxer!{nl}E tem {#003399}[Evento] Moedas Vasalos{/} adicionais ao trocar Cubos de Gelo por lanches 20 vezes!
 QUEST_20190802_011110	O evento de verão 2019 começou!{nl}{#003399}Trocamos [Evento] Moedas Vasalos{/} e ajudamos membros de Guildas.{nl}{#003399}[Evento] Savinose Armor Selection Box e [Evento] +8 Transcendence Scroll (90 Dias){/}serão adicionados em breve na loja.
-QUEST_20190802_011111	Estamos trocando prêmios incríveis por {#003399}[Evento} Moedas Vasalos{/}!{nl}Cada prêmio custa uma quantidade diferente de moedas.
+QUEST_20190802_011111	Estamos trocando prêmios incríveis por {#003399}[Evento] Moedas Vasalos{/}!{nl}Cada prêmio custa uma quantidade diferente de moedas.
 QUEST_20190802_011112	{#003399}[Evento] Moedas Vasalos{/} podem ser obtidas através dos seguintes métodos:
-QUEST_20190802_011113	1. Membros de Guildas recebem o dobro de moedas nos seguintes conteúdos:{nl}- {#003399}Dungeon Normal{/}, {#003399}Missões do Mercenary Post{/}, {#003399}Missões de Saalus{/} e {#003399}Raids Lendárias e Únicas{/}{nl}- Completar 10 estágios da {#003399}Uphill Defense{/} no modo Normal, ou 5 no modo Difícil e Muito Difícil{nl}- Alcançar, no mínimo, o Estágio 5 do {#003399}Modo Desafio{/}{nl}- Derrotar monstros que estejam dentro da faixa de nível do personagem
+QUEST_20190802_011113	1. Membros de Guildas recebem o dobro de moedas nos seguintes conteúdos:{nl}- {#003399}Dungeon Normal{/}, {#003399}Missões do Mercenary Post{/} e {#003399}Saalus{/}, {#003399}Raids Lendárias e Únicas{/}{nl}- Completar 10 estágios da {#003399}Uphill Defense{/} modo Normal, ou 5 do modo Difícil/Muito Difícil{nl}- Alcançar, no mínimo, o Estágio 5 do {#003399}Modo Desafio{/}{nl}- Derrotar monstros que estejam dentro da faixa de nível do personagem
 QUEST_20190802_011114	2. Trocadas através do {#003399}evento [Summer Festa]{/}, em Klaipeda{nl}3. Trocadas através da loja {#003399}Growth Gem Shop{/}
 QUEST_20190802_011115	[Summer Festa] Estagiária
 QUEST_20190802_011116	Estou aqui para ajudar o meu irmão!{nl}Infelizmente, não restou mais nenhum brinquedo desta vez.

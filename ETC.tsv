@@ -24029,7 +24029,7 @@ ETC_20160811_024030	It will be applied in accordance to your skill level. Do you
 ETC_20160811_024031	You may only use the One-line Message Board 3 times per day.
 ETC_20160811_024032	You have reached the limit and cannot charge any more.
 ETC_20160811_024033	Creating.
-ETC_20160811_024034	Processing. Please try again later.
+ETC_20160811_024034	Processando. Por favor, tente novamente mais tarde.
 ETC_20160811_024035	You already have this item. {nl} Do you really wish to purchase it?
 ETC_20160811_024036	You already have this item. {nl} Do you wish to preview it?
 ETC_20160811_024037	Failed to retrieve the item. Please try again later.
@@ -34407,7 +34407,7 @@ ETC_20180629_034378	Guild membership required.
 ETC_20180629_034379	Lv 1 guild required.
 ETC_20180629_034380	Guild level increased to Lv 4.
 ETC_20180629_034381	You must join a guild in order to receive the Attribute Points.
-ETC_20180629_034382	You already received your Attribute Points for this week.{nl}The rewards reset every Tuesday.
+ETC_20180629_034382	Você já recebeu os Pontos de Atributos desta semana.{nl}As recompensas reiniciam todas as Terças.
 ETC_20180629_034383	Guild quests completed: {COUNT}
 ETC_20180629_034384	West Siauliai Woods (onde a história começou)
 ETC_20180629_034385	West Siauliai Woods (onde a Deusa da Terra não pode ver)
@@ -37048,7 +37048,7 @@ ETC_20190104_036969	Rogues eram pessoas procuradas pelo Reino, mas ganharam perd
 ETC_20190104_036970	Schwarzer Reiters são uma das principais unidades militares que formam o Exército Real, existindo desde o reinado de Sawsel II. Recentemente iniciaram trabalhos como mercenários, mas seus números cresceram pouco quando foram agrupados como forças especiais do serviço real.{nl}Schwarzer Reiters possuem manobras rápidas. São especializados em diversas técnicas de tiro utilizando Pistola.
 ETC_20190104_036971	Bullet Markers foram estabelecidos muito recentemente, surgindo agora na atualidade. Sendo relativamente nvoos, Flint Winterwood é o primeiro Mestre da classe. O futuro deles está nas mãos daqueles que carregarão o nome de Bullet Marker.
 ETC_20190104_036972	SP {img green_up_arrow 16 16} 1435 {nl}[Sumazinti]{nl} - Reduz a Defesa Mágica de 5 inimigos próximos em 15% por 10 segundos.{nl}(Cooldown 100 segundos){nl} {nl}[Dragon Strength Nv 1]{nl} - Duração aumenta para 15 segundos e a redução da Defesa Mágica aumenta para 20%
-ETC_20190104_036973	[Tiksline]{nl} - Marca 3 inimigos próximos. Estes inimigos recebem 50% a mais de dano por 5 segundos. Depois que a marca desaparecer, o inimigo recebe todo o dano já recebido neste período novamente como Dano Mágico.{nl}[Dragon Strength Nv 1]{nl} - Duração da marca aumenta para 10 segundos e dano adicional recebido por 7 ataques
+ETC_20190104_036973	[Tiksline]{nl} - Marca 3 inimigos próximos. Estes inimigos recebem 50% a mais de dano por 5 segundos. Depois que a marca desaparecer, o inimigo recebe todo o dano já recebido neste período novamente como Dano Mágico.{nl} {nl}[Dragon Strength Nv 1]{nl} - Duração da marca aumenta para 10 segundos e dano adicional recebido por 7 ataques
 ETC_20190104_036974	  - Após utilizar [Mergaite], Defesa Física e Mágica +100% (ao invés dos +40% do efeito de 4 itens).{nl} {nl}[Dragon Strength Nv 1]{nl} - Ao utilizar [Mergaite], causa [Stun] em 5 inimigos próximos por 5 segundos
 ETC_20190104_036975	[Ira de Kraujas]{nl} - Recebe o efeito desta habilidade por 20 segundos. Enquanto ativo, o efeito se acumula conforme você causa dano nos inimigos.{nl} Efeitos por Acúmulo {nl} - +10% de dano{nl} - +20% de dano recebido{nl} - Máx. 10 acúmulos{nl} {nl}[Dragon Strength Nv 1]{nl} - Dano recebido passa a ser +5% por acúmulo
 ETC_20190104_036976	[Proteção de Gyvenimas]{nl} - Cria um escudo de proteção, correspondente a 50% do seu HP Máximo, por 30 segundos. Quando o escudo estiver em 50% ou menos, recubera a sua vida a cada 1 segundo. O escudo para de recuperar quando alcança 0 de vida, ou os 30 segundos acabarem.{nl} {nl}[Dragon Strength Nv1]{nl} - Empurra os inimigos ao redor quando o escudo alcançar 0 de vida ou seu tempo expirar
@@ -37501,7 +37501,7 @@ ETC_20190104_037422	Você pode usar a Estátua da Deusa para transportar até o 
 ETC_20190104_037423	The item can be used only until {DAY} (day) of {MONTH} (month).{nl}The item has expired.	{MONTH}월 {DAY}일까지만 사용 가능합니다{nl}사용 기간이 지났습니다	ETC_20180827_035674	The event has ended.	6월 28일까지만 사용 가능합니다{nl}사용 기간이 지났습니다
 ETC_20190104_037424	{#0054FF}[{NUM2}]{/} points will be added because you already have [{NUM1}] points.{nl}Use the item?	[{NUM1}] 포인트을 이미 갖고 계셔서 {#0054FF}[{NUM2}]{/} 포인트가 추가됩니다.{nl}사용하시겠습니까?			
 ETC_20190104_037425	You cannot earn any more points as you already have the maximum amount of points allowed.	이미 최대 포인트를 갖고 계셔서 포인트를 추가할 수 없습니다			
-ETC_20190104_037426	Weekly Attribute Points for Guild Members	길드 가입자 매주 특성 포인트	ETC_20180629_034377	All players: guild members' weekly Attribute Points	모든 구원자 : 길드 가입자 매주 특성 포인트
+ETC_20190104_037426	Atributos Semanais para Membros de Guilda
 ETC_20190104_037427	{nl}The {#FF0000}Red Team{/} is the winner!	{#FF0000}레드팀{/}이 승리하셨습니다!	ETC_20180629_034424	{nl}The {#FF0000}Red Team{/} is the winner!	{nl}{#FF0000}레드팀{/}이 승리하셨습니다!
 ETC_20190104_037428	{nl}The {#0000FF}Blue Team{/} is the winner!	{#0000FF}블루팀{/}이 승리하셨습니다!	ETC_20180629_034425	{nl}The {#0000FF}Blue Team{/} is the winner!	{nl}{#0000FF}블루팀{/}이 승리하셨습니다!
 ETC_20190104_037429	Draw game! It's a tie!	동점! 무승부입니다!	ETC_20180629_034426	{nl}It's a tie!	{nl}동점! 무승부입니다!
@@ -42363,21 +42363,21 @@ ETC_20190802_042284	Secret Cube Gold Reopen Voucher x5 Box
 ETC_20190802_042285	Caixa contendo Secret Cube Gold Reopen Voucher x5.{nl}Clique com o botão direito do mouse para receber os itens.
 ETC_20190802_042286	[Evento] Mysterious Magnifier (14 Dias)
 ETC_20190802_042287	[Evento] Artisan Magnifier (14 Dias)
-ETC_20190802_042288	no Salão de Beleza (primeiro andar).
+ETC_20190802_042288	No Salão de Beleza (primeiro andar), 
 ETC_20190802_042289	Mudar Penteado
-ETC_20190802_042290	pode ser clicado para receber 10% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
-ETC_20190802_042291	pode ser clicado para receber 20% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
-ETC_20190802_042292	pode ser clicado para receber 30% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
-ETC_20190802_042293	pode ser clicado para receber 40% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
-ETC_20190802_042294	pode ser clicado para receber 50% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
-ETC_20190802_042295	pode ser clicado para receber 60% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
-ETC_20190802_042296	pode ser clicado para receber 70% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
-ETC_20190802_042297	pode ser clicado para receber 80% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
-ETC_20190802_042298	pode ser clicado para receber 90% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
-ETC_20190802_042299	pode ser clicado para colorir o cabelo sem custo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042290	 pode ser clicado para receber 10% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042291	 pode ser clicado para receber 20% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042292	 pode ser clicado para receber 30% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042293	 pode ser clicado para receber 40% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042294	 pode ser clicado para receber 50% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042295	 pode ser clicado para receber 60% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042296	 pode ser clicado para receber 70% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042297	 pode ser clicado para receber 80% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042298	 pode ser clicado para receber 90% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042299	 pode ser clicado para colorir o cabelo sem custo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
 ETC_20190802_042300	[Evento] Hair 90% OFF (14 Dias)
 ETC_20190802_042301	[Evento] Dye 90% OFF (14 Dias)
-ETC_20190802_042302	pode ser clicado para receber 90% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
+ETC_20190802_042302	 pode ser clicado para receber 90% de desconto ao colorir o cabelo.{nl}Não pode ser utilizado junto com outros cupons de desconto. Não pode ser utilizado para colorir perucas.
 ETC_20190802_042303	[Swordsman]
 ETC_20190802_042304	[Highlander]
 ETC_20190802_042305	[Peltasta]
