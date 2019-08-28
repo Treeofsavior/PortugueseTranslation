@@ -4278,7 +4278,7 @@ SKILL_20150714_004277	Maestria em Metal: Defesa
 SKILL_20150714_004278	Able to equip [Plate] armor. In addition, increases your maximum HP and Physical Defense depending on the number of equipped [Plate] armor and the attribute level. (Applies from 3 armor pieces)	[판금] 계열 방어구를 착용할 수 있습니다. 또한 현재 착용한 [판금] 방어구 수와 특성 레벨에 따라 최대 HP와 물리 방어력이 증가합니다. (3개 부터 적용)				
 SKILL_20150714_004279	Dagger Mastery	단검 마스터리				
 SKILL_20150714_004280	Deals 20 additional damage per attribute level when attacking behind the enemy with a dagger. 	적의 후방에서 단검 공격 시 추가 대미지를 특성 레벨당 20 입힙니다.				
-SKILL_20150714_004281	Companion Riding	컴패니언 탑승				
+SKILL_20150714_004281	Montaria: Mascote
 SKILL_20150714_004282	You can mount a companion.	컴패니언에 탑승할 수 있습니다.				
 SKILL_20150714_004283	Increases the damage dealt on an enemy with [Bash] by 1% per attribute level.	적에게 입히는 [배쉬]의 대미지가 특성 레벨당 1% 증가합니다.				
 SKILL_20150714_004284	Increases the damage dealt on an enemy with [Thrust] by 1% per attribute level.	적에게 입히는 [쓰러스트]의 대미지가 특성 레벨당 1% 증가합니다.				
@@ -5164,7 +5164,7 @@ SKILL_20150918_005163	Able to equip [Cloth] armor. In addition, your maximum SP 
 SKILL_20150918_005164	Allows you to equip [Leather] armor.{nl}When equipped with 3 or more pieces of [Leather] armor, increases your Evasion.{nl} {nl}When equipped with 4 [Leather] armor pieces, your Evasion increases from attributes by an additional 50%.	[가죽] 계열 방어구를 착용할 수 있습니다. [가죽] 계열 방어구 3개 이상 착용 시, 회피가 증가합니다. [가죽] 계열 방어구 4개 착용 시, 추가로 특성으로 상승하는 회피가 50% 증가합니다.	SKILL_20150717_004739	Evasion increases based on number of [Leather] armor equipped and Attribute level. (at least 3 same equipment type).	[가죽] 계열 방어구를 착용할 수 있습니다. 또한 현재 착용한 [가죽] 방어구 수와 특성 레벨에 따라 회피가 증가합니다. (같은 계열의 장비 3개 이상부터 적용)	
 SKILL_20150918_005165	Able to equip [Plate] armor. In addition, your maximum HP increases when you equip 3 or more pieces of [Plate] armor. Your maximum Stamina increases once you have 4 [Plate] armor pieces equipped.	[판금] 계열 방어구를 착용할 수 있습니다. [판금] 계열 방어구 3개 이상 착용 시, 최대 HP가 증가합니다. [판금] 계열 방어구 4개 착용 시, 추가로 최대 스태미나가 증가합니다.	SKILL_20150717_004740	Max HP and Physical DEF increase based on number of [Plate] armor equipped and Attribute level. (at least 3 same equipment type).	[판금] 계열 방어구를 착용할 수 있습니다. 또한 현재 착용한 [판금] 방어구 수와 특성 레벨에 따라 최대 HP와 물리 방어력이 증가합니다. (같은 계열의 장비 3개 이상부터 적용)	
 SKILL_20150918_005166	Double Slash: Critical	더블슬래쉬: 치명타	SKILL_20150714_004289	Double Slash: Increased Critical Chance	더블슬래쉬: 치명타 확률	
-SKILL_20150918_005167	Shield Guard	실드 가드	SKILL_20150317_002078	Peltasta: Guard	펠타스타: 가드	
+SKILL_20150918_005167	Guarda com Escudo
 SKILL_20150918_005168	Umbo Thrust: Aprimorar	엄보 쓰러스트: 강화				
 SKILL_20150918_005169	Increases the damage dealt on an enemy with [Umbo Thrust] by 1% per attribute level.	적에게 입히는 [엄보 쓰러스트]의 대미지가 특성 레벨당 1% 증가합니다.				
 SKILL_20150918_005170	Moulinet: Critical	뮬리넷: 치명타	SKILL_20150317_002104	Moulinet: Taxa de Crítico	뮬리넷: 치명타발생	
@@ -7421,7 +7421,7 @@ SKILL_20170313_007420	* Can equip [Cloth] armor{nl}* When equipped with 3 or mor
 SKILL_20170313_007421	* Can equip [Leather] armor{nl}* When equipped with 3 or more pieces of [Leather] armor, increases evasion proportionally to attribute level{nl}* When equipped with 4 [Leather] armor pieces, increases evasion obtained from attributes by 50%.	* [가죽] 계열 방어구 착용 가능{nl} * [가죽] 계열 방어구 3개 이상 착용 시, 특성 레벨에 비례하여{nl}    회피가 증가{nl}* [가죽] 계열 방어구 4개 착용 시, 특성으로 증가하는 회피가{nl}    50% 상승	SKILL_20151224_006011	Allows you to equip [Leather] armor. When equipped with 3 or more pieces of [Leather] armor, increases your evasion. When equipped with 4 [Leather] armor pieces, your evasion increases from attributes by an additional 50%.	[가죽] 계열 방어구를 착용할 수 있습니다. [가죽] 계열 방어구 3개 이상 착용 시, 특성 레벨에 비례하여 회피가 증가합니다. [가죽] 계열 방어구 4개 착용 시, 특성으로 증가하는 회피가 50% 상승합니다.	
 SKILL_20170313_007422	* Can equip [Plate] armor{nl}* When equipped with 3 or more pieces of [Plate] armor, increases maximum HP proportionally to attribute level and decreases physical damage taken by 5%{nl}* When equipped with 4 [Cloth] armor pieces, increases maximum stamina proportionally to attribute level and decreases physical damage taken by 10%	* [판금] 계열 방어구 착용 가능{nl} * [판금] 계열 방어구 3개 이상 착용 시, 받는 물리 피해가 5%{nl}    감소하며 특성 레벨에 비례하여 최대 HP가 증가{nl} * [판금] 계열 방어구 4개 착용 시, 받는 물리 피해가 10%{nl}    감소하며 특성 레벨에 비례하여 최대 STA가 추가로 증가	SKILL_20151224_006012	Allows you to equip [Plate] armor.{nl}{nl}When equipped with 3 or more pieces of [Plate] armor, increases your maximum HP and physical damage taken is decreased by 5%.{nl}When equipped with 4 [Plate] armor pieces, your maximum stamina increases and physical damage taken is decreased by an additional 10%.	[판금] 계열 방어구를 착용할 수 있습니다. [판금] 계열 방어구 3개 이상 착용 시, 받는 물리 피해가 5% 감소하며 특성 레벨에 비례하여 최대 HP가 증가합니다. [판금] 계열 방어구 4개 착용 시, 받는 물리 피해가 10% 감소하며 특성 레벨에 비례하여 최대 STA가 추가로 증가합니다.	
 SKILL_20170313_007423	* Deals 2.5% additional damage per attribute level when attacking an enemy from behind with a dagger	* 적의 후방에서 단검 기본 공격 시 특성 레벨당{nl}    2.5%의 추가 대미지	SKILL_20151016_005315	Deals 2.5% additional damage per attribute level when attacking an enemy from behind with a dagger.	적의 후방에서 단검 기본 공격 시 특성 레벨당 2.5%의 추가 대미지를 입힙니다.	
-SKILL_20170313_007424	* Can use skill while riding companion	* 컴패니언에 탑승한채로 스킬 사용 가능	SKILL_20160718_006410	You can use the skill while mounting a companion.	컴패니언에 탑승한채로 스킬을 사용할 수 있습니다.	
+SKILL_20170313_007424	* Pode utilizar habilidades enquanto estiver montado em um Mascote
 SKILL_20170313_007425	* Permite utilizar armas do tipo [Florete]
 SKILL_20170313_007426	* Increases character's maximum inventory weight by 20	* 캐릭터 인벤토리의 휴대 가능무게가 20 증가	SKILL_20151016_005319	Increases the maximum weight you can carry in your inventory by 20.	캐릭터 인벤토리의 휴대 가능무게가 20 증가합니다.	
 SKILL_20170313_007427	* Aumenta o intervalo de ciclo do consumo de Stamina do Mascote em 10 segundos por nível do atributo.
@@ -9465,7 +9465,7 @@ SKILL_20170525_009464	Decreased movement speed and evasion	이동속도, 회피 
 SKILL_20170525_009465	SPR and INT stats have been decreased. Receiving Bleeding damage every 1 second.	정신, 지능 능력치가 감소된 상태입니다. 1초당 출혈 데미지를 입힙니다.	SKILL_20151224_005946	Reduced SPR and INT.	정신, 지능 능력치가 감소된 상태입니다.	
 SKILL_20170525_009466	When attacking with Skarphuggning, additional damage will be dealt.	스칼푸그닝 스킬 공격 시, 추가 피해를 입힙니다.	SKILL_20170420_008689	When attacking with Hackapell skill, additional damage will be dealt.	하카펠 스킬 공격 시, 추가 피해를 입힙니다.	
 SKILL_20170525_009467	Shining Luck	빛나는 행운				
-SKILL_20170525_009468	* Able to use Guard by pressing C after equipping a shield{nl}* Disabled in friendly duels and PvP{nl}Cooldown time 3 seconds	* 방패 착용 후 C 버튼으로 [가드] 사용 가능{nl}* 친선대결 및 PVP 중 피격 시 해제되며 재사용 대기시간{nl}    3초 적용	SKILL_20170313_007467	* After equipping a shield, press the C button to use [Guard].	* 방패 착용 후 C 버튼으로 [가드] 사용 가능	
+SKILL_20170525_009468	* Consegue se proteger com um Escudo, utilizando a tecla C.{nl}* Desabilitado em duelos e em PvP.{nl}Cooldown: 3 segundos
 SKILL_20170525_009469	Slithering: Lower Slash	회피이동: 하단베기	SKILL_20151224_006026	Slithering: Additional Damage	회피이동: 추가대미지	
 SKILL_20170525_009470	* Applies debuff to enemies attacked with Slithering{nl}* Reduces movement speed by 4 per attribute level{nl}* Reduces evasion by 15 per attribute level{nl}* Knocks down attacked enemies{nl}* Consumo de SP + 10%	* [회피이동]에 공격 당한 적에게 디버프{nl}* 특성 레벨당 이동속도 4 감소{nl}* 특성 레벨당 회피 15 감소{nl}* 공격 당한 적 넉다운{nl}* SP 소모 10%증가	SKILL_20170420_008792	* Enemies hit by [Slithering] become vulnerable to [Strike] attacks for 10 seconds{nl}Increases additional damage by 10% per attribute level{nl}* Consumo de SP + 10%	* [회피이동]에 공격 당한 적은 10초 동안 때리기 속성 공격에{nl}    특성 레벨당 10%의 추가 대미지{nl}* SP 소모 10%증가	
 SKILL_20170525_009471	* Increases [Zucken] attack count, raising total amount of damage by +100%{nl}* Consumo de SP + 150%	* 스킬 [츠켄]의 공격 횟수가 좀 더 많아져 총 대미지량이{nl}    +100% 증가{nl}* SP 소모 150%증가	SKILL_20170420_008827	* Increases [Zucken] attack count, raising total amount of damage by +100%{nl}* Consumo de SP + 100%	* 스킬 [츠켄]의 공격 횟수가 좀 더 많아져 총 대미지량이{nl}    +100% 증가{nl}* SP 소모 100%증가	
@@ -9659,10 +9659,10 @@ SKILL_20170912_009658	* Increases block penetration on the attack that hits an e
 SKILL_20170925_009659	Increased evasion rate	회피율 증가	SKILL_20161005_006792	Increased evasion rate, decreased movement speed.	회피율 증가, 이동속도 감소	
 SKILL_20171013_009660	New Savior's Tome 	신규 유저의 서				
 SKILL_20171013_009661	+ 50% experience for the entire party for 60 minutes	60분 동안 파티원 전체에 경험치 +50%				
-SKILL_20171013_009662	Returning Savior's Book 	복귀 유저의 서				
-SKILL_20171013_009663	Maximum HP +2000{nl}Maximum SP +1000{nl}Movement Speed +1{nl}for the entire party for 60 minutes	60분 동안 파티원 전체에{nl}최대HP +2000{nl}최대SP +1000{nl}이동 속도 +1				
-SKILL_20171013_009664	Returning Savior's Potion	복귀 유저의 포션				
-SKILL_20171013_009665	Physical Attack +500{nl}Magic Attack +500{nl}for 60 minutes	60분 동안{nl}물리 공격력 +500{nl}마법 공격력 +500				
+SKILL_20171013_009662	Livro do Salvador Retornando
+SKILL_20171013_009663	HP Máximo +2000{nl}SP Máximo +1000{nl}Velocidade de Movimento +1{nl}para todo o grupo, por 60 minutos
+SKILL_20171013_009664	Poção do Salvador Retornando
+SKILL_20171013_009665	Ataque Físico +500{nl}Ataque Mágico +500{nl}por 60 minutos
 SKILL_20171023_009666	Creepy Klaipeda Basic Attack	아가리오 기본 공격				
 SKILL_20171023_009667	Candy Dash	캔디 대쉬				
 SKILL_20171023_009668	Creepy Klaipeda Basic Attack2	아가리오 기본 공격2				
@@ -9969,11 +9969,11 @@ SKILL_20171128_009968	Challenger	챌린저
 SKILL_20171128_009969	Increases Looting Chance.	루팅 찬스가 증가합니다.				
 SKILL_20171128_009970	End Challenge	도전 종료				
 SKILL_20171128_009971	You can no longer participate today.	금일은 더이상 참여할 수 없습니다.				
-SKILL_20171128_009972	* Can equip [Two-handed Sword] type weapons{nl}* Increase AoE Attack Ratio by 1 when equipped with a [Two-handed Sword].	* [양손검] 계열 무기 착용 가능{nl}* [양손검] 착용시 광역 공격 비율 1 증가	SKILL_20170313_007410	* Can equip [Two-handed Sword] type weapons	* [양손검] 계열 무기 착용 가능	
-SKILL_20171128_009973	* Can equip [One-handed Spear] type weapons{nl}* Increase attack range by 5 when equipped with a [One-handed Spear].	* [한손창] 계열 무기 착용 가능{nl}* [한손창] 착용시 공격 범위 5 증가{nl}* [한손창] 착용시 중형, 대형 크기 적에게 주는 대미지 5% 증가	SKILL_20170313_007411	* Can equip [One-handed Spear] type weapons	* [한손창] 계열 무기 착용 가능	
-SKILL_20171128_009974	* Can equip [Two-handed Spear] type weapons{nl}* Increase attack range by 10 when equipped with a [Two-handed Spear].	* [양손창] 계열 무기 착용 가능{nl}* [양손창] 착용시 공격 범위 10 증가	SKILL_20170313_007412	* Can equip [Two-handed Spear] type weapons	* [양손창] 계열 무기 착용 가능	
-SKILL_20171128_009975	* Can equip [Staff] type weapons{nl}* Increase AoE Attack Ratio by 1 when equipped with a [Staff].	* [스태프] 계열 무기 착용 가능{nl}* [스태프] 착용시 광역 공격 비율 1 증가	SKILL_20170313_007416	* Can equip [Staff] type weapons	* [스태프] 계열 무기 착용 가능	
-SKILL_20171128_009976	* Can equip [Two-handed Blunt Weapon] type weapons{nl}* Increase block penetration by 85 when equipped with a [Two-handed Blunt Weapon].	* [양손둔기] 계열 무기 착용 가능{nl}* [양손둔기] 착용시 블록 관통 85 증가	SKILL_20170912_009631	* Can equip [Two-handed Blunt] type weapons	* [양손둔기] 계열 무기 착용 가능	
+SKILL_20171128_009972	* Pode utilizar armas do tipo [Espada de 2 Mãos].{nl}* Taxa de Ataque em Área +1 ao utilizar este tipo de arma
+SKILL_20171128_009973	* Pode utilizar armas do tipo [Lança de 1 Mão].{nl}* Alcance dos ataques +5 ao utilizar este tipo de arma
+SKILL_20171128_009974	* Pode utilizar armas do tipo [Lança de 2 Mãos].{nl}* Alcance dos ataques +10 ao utilizar este tipo de arma
+SKILL_20171128_009975	* Pode utilizar armas do tipo [Cajado].{nl}* Taxa de Ataque em Área +1 ao utilizar este tipo de arma
+SKILL_20171128_009976	* Pode utilizar armas do tipo [Maça de 2 Mãos]{nl}* Penetração de Bloqueio +85 ao utilizar este tipo de arma
 SKILL_20171128_009977	Dragon Fall: Aprimorar	드래곤 폴: 강화				
 SKILL_20171128_009978	* Increases damage dealt with [Dragon Fall] em 0.5% por nível do atributo.	* 적에게 입히는 [드래곤 폴]의 대미지가 특성 레벨당 0.5% 증가				
 SKILL_20171128_009979	Dragon Soar: Ascensão
@@ -12098,8 +12098,8 @@ SKILL_20180629_012097	Requires Pied Piper Circle 1	파이드 파이퍼 1서클 �
 SKILL_20180629_012098	Requires Pied Piper Circle 2	파이드 파이퍼 2서클 필요				
 SKILL_20180709_012099	Teleport Silence	순간이동 침묵				
 SKILL_20180730_012100	Blessing of the Sea	바다의 가호				
-SKILL_20180730_012101	Relaxing	[Summer Festa] 휴식				
-SKILL_20180730_012102	EXP +20%	경험치 증가 + 20%				
+SKILL_20180730_012101	Relaxamento
+SKILL_20180730_012102	EXP +20%
 SKILL_20180730_012103	HP +500 and SP +500 every 10 seg	10초마다 HP+500, SP+500 회복				
 SKILL_20180730_012104	Movement speed +2	이동속도+2				
 SKILL_20180730_012105	Looting Chance +300	루팅찬스 +300				
@@ -12569,8 +12569,8 @@ SKILL_20181017_012568	Lock-on	락온
 SKILL_20181017_012569	Locking on.	현재 조준 중입니다.				
 SKILL_20181017_012570	Olho do Asiomage
 SKILL_20181017_012571	Aumenta o número de inimigos provocados.
-SKILL_20181017_012572	Resist Status Ailments	상태 이상 저항				
-SKILL_20181017_012573	Gives a chance to ignore debuffs.	일정 확률로 디버프를 무시합니다.				
+SKILL_20181017_012572	Resistência à Efeitos Negativos
+SKILL_20181017_012573	Chance de ignorar efeitos negativos.
 SKILL_20181017_012574	Máscara Preta & Branca
 SKILL_20181017_012575	Dano Adicional Divino: aumenta em proporção ao valor de Refino{nl}Dano Adicional Trevas: aumenta em proporção à Transcendência
 SKILL_20181017_012576	Unseen Blade	보이지 않는 칼날				

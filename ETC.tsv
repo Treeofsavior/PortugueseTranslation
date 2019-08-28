@@ -32931,8 +32931,8 @@ ETC_20180517_032902	This item does not contain valid random stats.
 ETC_20180517_032903	Stats extracted; the item has been consumed.
 ETC_20180517_032904	Equippable on Legend equipment of level {LEVEL} and above.
 ETC_20180517_032905	No reward information.
-ETC_20180517_032906	If dismantled, the Legend item will be consumed and you will receive  
-ETC_20180517_032907	 .{nl}Do you want to dismantle the item?
+ETC_20180517_032906	Se desmanchado, o item Lendário será consumido e você receberá  
+ETC_20180517_032907	 .{nl}Deseja desmanchar o item?
 ETC_20180517_032908	Cannot extract stats from this item.
 ETC_20180517_032909	Incorrect item extraction kit.
 ETC_20180517_032910	No item extraction kit.
@@ -34687,8 +34687,8 @@ ETC_20180629_034658	You already own this dye. You may purchase it again after tr
 ETC_20180629_034659	Um ou mais dos seus Acessórios de Cabelo{nl}estão marcados como escondidos.{nl}Itens colocados no mesmo espaço{nl}acabarão permanecendo escondidos.
 ETC_20180629_034660	Investigar
 ETC_20180629_034661	 - Os monstros estão vindo! Derrote todos!
-ETC_20180629_034662	Enter the Other Dimension (rec. level: 300).
-ETC_20180629_034663	See those who entered the Other Dimension.
+ETC_20180629_034662	Entrar na Outra Dimensão (Nv. recomendado: 300)
+ETC_20180629_034663	Ver aqueles que entraram na Outra Dimensão
 ETC_20180629_034664	Don't enter.
 ETC_20180629_034665	You cannot enter with this character.{nl}The Remnants of Bernice dungeon requires level 300 or above to enter.
 ETC_20180629_034666	No rewards to receive.
@@ -34888,8 +34888,8 @@ ETC_20180730_034859	You truly are blessed by the goddesses.
 ETC_20180730_034860	I am eternally grateful, Revelator.
 ETC_20180730_034861	We can make it to the Astral Tower.
 ETC_20180730_034862	Total count rewards can be received after your count reaches {COUNT}.
-ETC_20180730_034863	{SEC} segundos 
-ETC_20180730_034864	 para ativar o buff
+ETC_20180730_034863	{SEC} segundos - 
+ETC_20180730_034864	 será ativado
 ETC_20180730_034865	Comprar BBQ Prawn Skewers [Total Count: {COUNT}]
 ETC_20180730_034866	Comprar Blue Lemonade [Total Count: {COUNT}]
 ETC_20180730_034867	Comprar Fresh Coconut Water [Total Count: {COUNT}]
@@ -34900,7 +34900,7 @@ ETC_20180730_034871	You already used this item's buff today.
 ETC_20180730_034872	Total Purchase Rewards 
 ETC_20180730_034873	 Item sent.
 ETC_20180730_034874	Log time: {MIN} min{nl}Adquirido Gelo Mágico x5
-ETC_20180730_034875	 Buff activated!
+ETC_20180730_034875	 ativado!
 ETC_20180730_034876	Chutes Restantes: {COUNT}
 ETC_20180730_034877	Entrar no Desafio
 ETC_20180730_034878	Hair Accessory Box
@@ -36480,9 +36480,9 @@ ETC_20181017_036401	Equipment Rental	PC방 대여
 ETC_20181017_036402	Appearance Items	외형 변환 아이템				
 ETC_20181017_036403	Equipamentos que foram {@st47}{s18}refinados, transcendidos, com atributos de Enchant, com gemas, soquetes ou despertados{/}{/} podem ser desmanchados.
 ETC_20181017_036404	Hair dye registered.{nl}Do you want to apply {@st66d_y}{s19}{COLOR}{/}{/} now?{nl} {nl} {@st43b}{s16}* You can go to the Appearance tab of your inventory to change your hair color.{/}{/}	염색약이 정상적으로 적용 되었습니다.{nl}현재 {@st66d_y}{s19}{COLOR}{/}{/}를 적용하시겠습니까?{nl} {nl} {@st43b}{s16}* 인벤토리 외형 탭의 가발 슬롯에서 가발 염색을 변경할 수 있습니다.{/}{/}	ETC_20180208_031536	Hair dye registered.{nl}Do you want to apply {@st66d_y}{s19}{COLOR}{/}{/} now?{nl} {nl} {@st43b}{s16}* You can go to character settings to change your hair color.{/}{/}	염색약이 정상적으로 적용 되었습니다.{nl}현재 {@st66d_y}{s19}{COLOR}{/}{/}를 적용하시겠습니까?{nl} {nl} {@st43b}{s16}* 캐릭터 설정에서 헤어 염색을 바꿀 수 있습니다.{/}{/}	
-ETC_20181017_036405	If dismantled, the Legend item will be consumed and you may receive  	해당 아이템을 분해할 경우{nl}레전드 아이템은 사라지며 일정 확률로{nl}	ETC_20180517_032906	If dismantled, the Legend item will be consumed and you will receive  	해당 아이템을 분해할 경우{nl}레전드 아이템은 사라지며 	
-ETC_20181017_036406	 or 	 또는 	ETC_20180517_032907	 .{nl}Do you want to dismantle the item?	 아이템이 지급됩니다.{nl}분해하시겠습니까?	
-ETC_20181017_036407	Legend Jewel	레전드 쥬얼				
+ETC_20181017_036405	Se desmanchado, o item Lendário será consumido e você pode receber  
+ETC_20181017_036406	 ou 	
+ETC_20181017_036407	Legend Jewel
 ETC_20181017_036408	Equippable on equipment of level {LEVEL} and below.	{LEVEL} 레벨 이하 아이템에 장착 가능				
 ETC_20181017_036409	Você usou todos os Enchant Jewel de nível {LEVEL}.{nl}Fechar a janela de Enchant Jewel?
 ETC_20181017_036410	Impossível aplicar o Enchant Jewel ({REASON}).
@@ -37880,9 +37880,9 @@ ETC_20190104_037801	A guild index is required.	조회할 길드 인덱스가 필
 ETC_20190104_037802	The guild has not set a cover page.	해당 길드가 소개 이미지를 설정하지 않았습니다.			
 ETC_20190104_037803	The guild has not registered a promotional text.	해당 길드가 홍보글을 등록하지 않았습니다.			
 ETC_20190104_037804	Viajando pelo círculo mágico...
-ETC_20190104_037805	Enter the Other Dimension (rec. level: 300)	이공간에 들어간다(권장레벨:300)	ETC_20180629_034662	Enter the Other Dimension (rec. level: 300).	이공간에 들어간다.(권장레벨:300)
-ETC_20190104_037806	See those who entered the Other Dimension	이공간에 들어간 자들을 살펴본다	ETC_20180629_034663	See those who entered the Other Dimension.	이공간에 들어간 자들을 살펴본다.
-ETC_20190104_037807	Do not enter	들어가지 않는다	ETC_20180629_034664	Don't enter.	들어가지 않는다.
+ETC_20190104_037805	Entrar na Outra Dimensão (Nv. recomendado: 300)
+ETC_20190104_037806	Ver aqueles que entraram na Outra Dimensão
+ETC_20190104_037807	Não prosseguir
 ETC_20190104_037808	Arrow	화살			
 ETC_20190104_037809	Compatible	호환 가능			
 ETC_20190104_037810	Cannot be used while mounted	탑승시 불가			
@@ -42685,4 +42685,4 @@ ETC_20190820_042606	Nuaele? Aquela coisinha ficou maior?
 ETC_20190820_042607	Só pode ser usado nas cidades.{nl}Verifique na descrição do item as áreas específicas.
 ETC_20190820_042608	Limite diário de {COUNT}
 ETC_20190820_042609	Estamos ajudando os Salvadores que avançaram para as classes afetadas pelo balanceamento.{nl}Por favor, verifique a lista de classes elegíveis.
-ETC_20190824_042610	September Attendance Rewards	9월 출석 보상				
+ETC_20190824_042610	Recompensa Diária - Setembro

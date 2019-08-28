@@ -2951,7 +2951,7 @@ UI_20171128_002950	{@st41b}Custo{/}
 UI_20171128_002951	{@st41b}Desconstruir{/}
 UI_20171128_002952	Re-Identificação de Item
 UI_20171128_002953	Re-Identificar
-UI_20171128_002954	{@st43b}{s18}Coloque o item que deseja melhorar.
+UI_20171128_002954	{@st43b}{s18}Coloque o item desejado.
 UI_20171128_002955	{@st43b}{s18}Opção Atual
 UI_20171128_002956	{@st43b}{s18}Antes
 UI_20171128_002957	{@st43b}{s18}Depois
@@ -3744,7 +3744,7 @@ UI_20190104_003743	{@st59b}My Information{nl}{@st59s}- Stats: Leveling up enhanc
 UI_20190104_003744	{@st66b}Comparar Equipamento{/}
 UI_20190104_003745	{@st66b}Ver Guilda/Nome em GTW{/}
 UI_20190104_003746	{@st66b}Efeitos de Equip. em GTW{/}
-UI_20190104_003747	{@st68b}{@st43b}{s18}{img clock_3 25 25}Time Remaining: %s{/}{/}	{@st68b}{@st43b}{s18}{img clock_3 25 25}남은 상점이용시간 : %s{/}{/}			
+UI_20190104_003747	{@st68b}{@st43b}{s18}{img clock_3 25 25}Tempo Restante: %s{/}{/}	{@st68b}{@st43b}{s18}{img clock_3 25 25}남은 상점이용시간 : %s{/}{/}			
 UI_20190104_003748	99 Days 99 Hours 99 Minutes	99일 99시간 99분			
 UI_20190104_003749	  Exchange Vouchers available{/}	  보유중인 교환권{/}			
 UI_20190104_003750	  Remaining Exchange Vouchers{/}	  잔여 교환권{/}			
@@ -3903,9 +3903,9 @@ UI_20190802_003903	{@st42}{s20}Liga dos Campeões
 UI_20190802_003904	{@st41b}{s16}{b}Campeões
 UI_20190802_003905	{@st41b}{s16}{b}Desafiantes
 UI_20190802_003906	Liga Regional
-UI_20190802_003907	Remover Ichor (Atributos Fixos)
+UI_20190802_003907	Remover Ichor (Atrib. Fixos)
 UI_20190802_003908	{@st43b}{s18}Atributos do Ichor (Fixo)
-UI_20190802_003909	Remover Ichor (Atributos Aleatórios)
+UI_20190802_003909	Remover Ichor (Atrib. Aleatórios)
 UI_20190802_003910	{@st43b}{s18}Atributos do Ichor (Aleatório)
 UI_20190802_003911	Clique em Confirmar para retornar.
 UI_20190802_003912	{@st42b}Aperte duas vezes o direcional para correr{/}
@@ -3914,5 +3914,5 @@ UI_20190802_003914	{@st66}{s18}{b}Consome %sx %s Enchant Jewel(s).
 UI_20190802_003915	Não pode ser desmanchado
 UI_20190802_003916	Liga Regional
 UI_20190802_003917	{@st42}{s16}Receber
-UI_20190824_003918	{@st66b}Dead Parts	{@st66b}데드 파츠 적용				
-UI_20190824_003919	{@st66b}Item Drop Effects{/}	{@st66b}아이템 드랍 이펙트 사용{/}				
+UI_20190824_003918	{@st66b}Partes Mortas{/}
+UI_20190824_003919	{@st66b}Brilho de Item Obtido{/}
