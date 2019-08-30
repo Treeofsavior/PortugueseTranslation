@@ -23086,7 +23086,7 @@ ETC_20160811_023087	Use to obtain 24 TP.
 ETC_20160811_023088	5 TP [Event - 14 Days]
 ETC_20160811_023089	30 TP [Event - 14 Days]
 ETC_20160811_023090	Path of the Powerful Day 1 Box (7 Days)
-ETC_20160811_023091	Right-click to use and acquire the contents of the box.
+ETC_20160811_023091	Clique com o botão direito do mouse para receber o conteúdo.
 ETC_20160811_023092	Path of the Powerful Day 2 Box (7 Days)
 ETC_20160811_023093	Path of the Powerful Day 3 Box (7 Days)
 ETC_20160811_023094	Path of the Powerful Day 4 Box (7 Days)
@@ -23117,9 +23117,9 @@ ETC_20160811_023118	One More Time Day 8 Box (7 Days)
 ETC_20160811_023119	One More Time Day 9 Box (7 Days)
 ETC_20160811_023120	One More Time Day 10 Box (7 Days)
 ETC_20160811_023121	Defense Mission Reward Box
-ETC_20160811_023122	Right-click to use and acquire the contents of the box.
+ETC_20160811_023122	Clique com o botão direito do mouse para receber o conteúdo.
 ETC_20160811_023123	Weapon Support Box
-ETC_20160811_023124	Right-click to use and acquire the contents of the box. This box will be batch deleted on August 9.
+ETC_20160811_023124	Clique com o botão direito do mouse para receber o conteúdo. This box will be batch deleted on August 9.
 ETC_20160811_023125	Battlebird Companion Package
 ETC_20160811_023126	Jurate Starter Package
 ETC_20160811_023127	Swimwear Package - Swordsman (Male)
@@ -30024,7 +30024,7 @@ ETC_20171128_030004	Contains Goddess' Blessed Cube and Enchant Scroll(14 Days). 
 ETC_20171128_030005	Vakarine Package - Dionys
 ETC_20171128_030006	Contains Dionys Armband, EXP Tome, Instanced Dungeon Reset Voucher, and 10 TP [Evento]. Right-click to obtain. 
 ETC_20171128_030007	Vakarine Package
-ETC_20171128_030008	Right-click to use and acquire the contents of the box. Will receive 1 item per day when you login for up to 28 days. 
+ETC_20171128_030008	Clique com o botão direito do mouse para receber o conteúdo. Will receive 1 item per day when you login for up to 28 days. 
 ETC_20171128_030009	Matador
 ETC_20171128_030010	The Matador is a bullfighter who strongly provokes enemies and is specialized in swift movement for attacking and retreating.{nl}Interact with the Matador Notice Board in Orsha then speak with Litis, Naglis, and Linas in Escanciu Village. Afterwards, meet with the Matador Master in Fedimian.
 ETC_20171128_030011	The Matador is a bullfighter who strongly provokes enemies and is specialized in swift movement for attacking and retreating.
@@ -42685,4 +42685,42 @@ ETC_20190820_042606	Nuaele? Aquela coisinha ficou maior?
 ETC_20190820_042607	Só pode ser usado nas cidades.{nl}Verifique na descrição do item as áreas específicas.
 ETC_20190820_042608	Limite diário de {COUNT}
 ETC_20190820_042609	Estamos ajudando os Salvadores que avançaram para as classes afetadas pelo balanceamento.{nl}Por favor, verifique a lista de classes elegíveis.
-ETC_20190824_042610	Recompensa Diária - Setembro
+ETC_20190828_042610	Recompensa Diária - Agosto
+ETC_20190830_042611	Vakarine Package
+ETC_20190830_042612	Clique com o botão direito do mouse para receber o conteúdo. Você receberá 1 item por dia, por 25 dias, quando entrar no jogo.
+ETC_20190830_042613	Vakarine First Time Package
+ETC_20190830_042614	[Vakarine] Token
+ETC_20190830_042615	Clique com o botão direito do mouse para obter os itens:{nl}- Token: 15 Days
+ETC_20190830_042616	[Vakarine] Raid Portal Stone
+ETC_20190830_042617	Clique com o botão direito do mouse para obter os itens:{nl}- Raid Portal Stone x30
+ETC_20190830_042618	[Vakarine] Ichor Extraction Kit
+ETC_20190830_042619	Clique com o botão direito do mouse para obter os itens:{nl}- Shining Silver Ichor Extraction Kit x10
+ETC_20190830_042620	[Vakarine] Attribute Points
+ETC_20190830_042621	Clique com o botão direito do mouse para obter os itens:{nl}- Attribute Points 500 x10
+ETC_20190830_042622	[Vakarine] Challenge Reset Box
+ETC_20190830_042623	Clique com o botão direito do mouse para obter os itens:{nl}- Challenge Reset Box
+ETC_20190830_042624	[Vakarine] Artisan Enchant Scroll
+ETC_20190830_042625	Clique com o botão direito do mouse para obter os itens:{nl}- Artisan Enchant Scroll x3
+ETC_20190830_042626	[Vakarine] x8 EXP Tome
+ETC_20190830_042627	Clique com o botão direito do mouse para obter os itens:{nl}- x8 EXP Tome x5
+ETC_20190830_042628	[Vakarine] Legend Card Slot Unlock Voucher
+ETC_20190830_042629	Clique com o botão direito do mouse para obter os itens:{nl}- Legend Card Slot Unlock Voucher
+ETC_20190830_042630	[Vakarine] Token
+ETC_20190830_042631	Clique com o botão direito do mouse para obter os itens:{nl}- Token: 7 Days
+ETC_20190830_042632	[Vakarine] x8 EXP Tome
+ETC_20190830_042633	[Vakarine] Instanced Dungeon Reset Voucher
+ETC_20190830_042634	Clique com o botão direito do mouse para obter os itens:{nl}- Instanced Dungeon Reset Voucher x10
+ETC_20190830_042635	[Vakarine] Instanced Dungeon Multiplier Token
+ETC_20190830_042636	Clique com o botão direito do mouse para obter os itens:{nl}- Instanced Dungeon Multiplier Token x20
+ETC_20190830_042637	[Vakarine] Character Slot Voucher
+ETC_20190830_042638	Clique com o botão direito do mouse para obter os itens:{nl}- Character Slot Voucher
+ETC_20190830_042639	[Vakarine] Free Hair Coupon
+ETC_20190830_042640	Clique com o botão direito do mouse para obter os itens:{nl}- Free Hair Coupon
+ETC_20190830_042641	[Vakarine] Class Change Voucher
+ETC_20190830_042642	Clique com o botão direito do mouse para obter os itens:{nl}- Class Change Voucher Lv. 3
+ETC_20190830_042643	[Vakarine] Class Unlock Selection Box
+ETC_20190830_042644	Clique com o botão direito do mouse para obter os itens:{nl}- [Evento] Class Unlock Voucher Selection Box
+ETC_20190830_042645	{s24}Parabéns!{nl}{PC} obeve {ITEMNAME}{nl}da {BOX}!
+ETC_20190830_042646	[Summer Festa] Loja de Cubos de Gelo
+ETC_20190830_042647	[Vakarine] Character Slot Voucher + Free Hair Coupon
+ETC_20190830_042648	Você não pode ofertar nem receber bênçãos{nl}Visite o Mestre Pardoner para ser aconselhado

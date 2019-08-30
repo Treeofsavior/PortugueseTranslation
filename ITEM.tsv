@@ -21170,11 +21170,11 @@ ITEM_20190104_021154	A prize awarded to the player that most contributed towards
 ITEM_20190104_021155	Boruta's Pouch	보루타 주머니				
 ITEM_20190104_021156	A pouch that can be traded with the medal of honor awarded to those who have contributed to defeating Boruta. Contains an unknown object. Clique com o botão direito do mouse para utilizar.	보루타 처치에 기여해서 얻은 영예의 훈장으로 교환 할 수 있는 주머니입니다. 사용하면 무언가 알 수 없는 것을 획득할 수 있을 것 같습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.				
 ITEM_20190104_021157	[Evento] Transcendence Stage 5 Scroll (90 Dias)	[이벤트] 5초월 스크롤 (90일)				
-ITEM_20190104_021158	Increases an item's transcendence stage to Stage 5. Clique com o botão direito do mouse para utilizar.	장비의 초월 수치를 5단계로 만들어줍니다. 마우스 오른쪽 클릭으로 사용합니다.				
+ITEM_20190104_021158	Aumenta o estágio de Transcendência de um item para o Estágio 5. Clique com o botão direito do mouse para utilizar.	장비의 초월 수치를 5단계로 만들어줍니다. 마우스 오른쪽 클릭으로 사용합니다.				
 ITEM_20190104_021159	[Re:Build] 100% Ichor Extraction Kit	[Rebuild] 100% 아이커 추출 키트				
 ITEM_20190104_021160	[Re:Build] Ichor Extraction Kit that can be used during the Re:Build adjustment period.{nl} - Item will be removed at the end of the event period.	[Rebuild] 패치 케어 기간 동안 사용 가능한 아이커 추출권입니다. {nl} - 1월 17일 일괄 삭제됩니다.				
 ITEM_20190104_021161	[Evento] Transcendence Stage 5 Scroll	[이벤트] 5초월 스크롤				
-ITEM_20190104_021162	Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Será removido automaticamente após o período do evento.	장비의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.{nl}1월 24일 점검 시, 일괄 삭제됩니다.				
+ITEM_20190104_021162	Aumenta o estágio de Transcendência de um item para o Estágio 5.{nl}CSó pode ser utilizado em itens com Transcendência entre os Estágios 0 to 4. Clique com o botão direito no pergaminho, depois escolha o item que deseja transcender.{nl}Será removido automaticamente após o período do evento.	장비의 초월 수치를 5단계로 만들어줍니다.{nl}0~4단계 초월 아이템만 사용할 수 있으며, 5초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 5초월 상태로 변경됩니다.{nl}1월 24일 점검 시, 일괄 삭제됩니다.				
 ITEM_20190104_021163	[Re:Build] 100% Ichor Extraction Kit: Random Stat	[Rebuild] 100% 아이커 추출 키트: 랜덤 옵션				
 ITEM_20190104_021164	[Re:Build] Ichor Extraction Kit that can be used during the Rebuild adjustment period.{nl}It can only be used on items with random stats.{nl} - Será removido automaticamente após o período do evento.	[Rebuild] 패치 케어 기간 동안 사용 가능한 아이커 추출권입니다.{nl}랜덤 옵션 장비에만 사용할 수 있습니다. {nl} - 1월 31일 일괄 삭제됩니다.				
 ITEM_20190104_021165	[Re:Build] 100% Ichor Extraction Kit: Craft	[Rebuild] 100% 아이커 추출 키트: 제작				
@@ -23133,5 +23133,23 @@ ITEM_20190820_023117	Item do evento [Summer Festa]. Será removido automaticamen
 ITEM_20190820_023118	Item do evento [Summer Festa]. Recupera +500 de HP e SP a cada 10 segundos, por 30 minutos.{nl}So pode ser utilizado em Klaipeda, Orsha, Fedimian, Saalus Convent, Hangout da Guilda, Highlander Master's Training Hall, Bokor Master's House e Pyromancer Master's Lab.{nl}Será removido automaticamente quando o evento acabar.
 ITEM_20190820_023119	Item do evento [Summer Festa]. Velocidade de Movimento +2 por 30 minutos.{nl}So pode ser utilizado em Klaipeda, Orsha, Fedimian, Saalus Convent, Hangout da Guilda, Highlander Master's Training Hall, Bokor Master's House e Pyromancer Master's Lab.{nl}Será removido automaticamente quando o evento acabar.
 ITEM_20190820_023120	Item do evento [Summer Festa]. Chance de Drop +300 por 30 minutos.{nl}So pode ser utilizado em Klaipeda, Orsha, Fedimian, Saalus Convent, Hangout da Guilda, Highlander Master's Training Hall, Bokor Master's House e Pyromancer Master's Lab.{nl}Será removido automaticamente quando o evento acabar.
-ITEM_20190824_023121	Selo carregado pela Kupole Urbas, que vigia o dragão Boruta seguindo as ordens da Deusa Austeja.{nl}Entregue para a Deusa Austeja, em Sulivinas Lair, para reduzir os efeitos do rugido do Boruta.
-ITEM_20190824_023122	Selo carregado pela Kupole Urbas, que vigia o dragão Boruta segundo as ordens da Deusa Austeja.{nl}Entregue para a Deusa Austeja, em Sulivinas Lair, para reduzir os efeitos do rugido do Boruta.{nl}Será automaticamente removido ao término do evento.
+ITEM_20190828_023121	Selo carregado pela Kupole Urbas, que vigia o dragão Boruta seguindo as ordens da Deusa Austeja.{nl}Entregue para a Deusa Austeja, em Sulivinas Lair, para reduzir os efeitos do rugido do Boruta.
+ITEM_20190828_023122	Selo carregado pela Kupole Urbas, que vigia o dragão Boruta segundo as ordens da Deusa Austeja.{nl}Entregue para a Deusa Austeja, em Sulivinas Lair, para reduzir os efeitos do rugido do Boruta.{nl}Será automaticamente removido ao término do evento.
+ITEM_20190830_023123	[Summer Festa] Lv. 15 Basic Condensed HP Potion
+ITEM_20190830_023124	Recupera 5.614 do HP Máximo.{nl}Recupera 5.614 HP a cada 2 segundos, por 15 segundos.{nl}Clique com o botão direito do mouse para utilizar. Cooldown: 45 segundos.{nl}Será removido automaticamente no final do evento.
+ITEM_20190830_023125	[Summer Festa] Lv. 15 Basic Condensed SP Potion
+ITEM_20190830_023126	Recupera 1.288 dp SP Máximo.{nl}Recupera 1.288 SP a cada 2 segundos, por 15 segundos.{nl}Clique com o botão direito do mouse para utilizar. Cooldown: 45 segundos.{nl}Será removido automaticamente no final do evento.
+ITEM_20190830_023127	[Eventp] Guild Quest Reward Coin: Bronze
+ITEM_20190830_023128	Use para aumentar a EXP da Guilda em +100.{nl}Será removido automaticamente no final do evento.
+ITEM_20190830_023129	[Event] Guild Quest Reward Coin: Silver
+ITEM_20190830_023130	Use para aumentar a EXP da Guilda em +200.{nl}Será removido automaticamente no final do evento.
+ITEM_20190830_023131	[Event] Guild Quest Reward Coin: Gold
+ITEM_20190830_023132	Use para aumentar a EXP da Guilda em +400.{nl}Será removido automaticamente no final do evento.
+ITEM_20190830_023133	Aumenta o estágio de Transcendência de um item para o Estágio 3.{nl}Só pode ser utilizado em itens com Transcendência entre os Estágios 0~2. Clique com o botão direito no pergaminho, depois escolha o item que deseja transcender.{nl}Será removido automaticamente no final do evento.
+ITEM_20190830_023134	Aumenta o estágio de Transcendência de um item para o Estágio 5.{nl}Só pode ser utilizado em itens com Transcendência entre os Estágios 0~4. Clique com o botão direito no pergaminho, depois escolha o item que deseja transcender.{nl}Será removido automaticamente no final do evento.
+ITEM_20190830_023135	[Summer Festa] Red Reward Box
+ITEM_20190830_023136	Clique com o botão direito do mouse para receber um dos itens de forma aleatória:{nl}- [Evento] Stage 3 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Bronze x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x1{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x1{nl}- [Evento] Moeda Vasalos x(1~2){nl}Será removido automaticamente no final do evento.
+ITEM_20190830_023137	[Summer Festa] Blue Reward Box
+ITEM_20190830_023138	Clique com o botão direito do mouse para receber um dos itens de forma aleatória:{nl}- [Evento] Stage 5 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Silver x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x2{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x2{nl}- [Evento] Moeda Vasalos x(5~10){nl}Será removido automaticamente no final do evento.
+ITEM_20190830_023139	[Summer Festa] Black Reward Box
+ITEM_20190830_023140	Clique com o botão direito do mouse para receber um dos itens de forma aleatória:{nl}- Butler and Maid Costume Box (Black) x1{nl}- [Evento] Guild Quest Reward Coin: Gold x1{nl}- [Evento] Small Elixir of HP Recovery x2{nl}- [Evento] Small Elixir of SP Recovery x2{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x5{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x5{nl}- [Evento] Moeda Vasalos x(10~20){nl}Será removido automaticamente no final do evento.
