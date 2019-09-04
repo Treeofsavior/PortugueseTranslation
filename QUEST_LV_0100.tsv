@@ -1062,8 +1062,8 @@ QUEST_LV_0100_20150317_001061	Mesa Suspeita
 QUEST_LV_0100_20150317_001062	Há um Golem aqui perto.{nl}Tenho medo demais para sair. Por favor, me ajude.
 QUEST_LV_0100_20150317_001063	Isso não vai sair.
 QUEST_LV_0100_20150317_001064	Obrigado.{nl}Ficarei aqui até que tudo esteja seguro, e depois fujo.
-QUEST_LV_0100_20150317_001065	Maga Peculiar
-QUEST_LV_0100_20150317_001066	Prazer em conhecer você. {nl}Sou uma Maga Peculiar. Sou uma maga especializada em variação de objeto.{nl}
+QUEST_LV_0100_20150317_001065	Aprendiz da Flurry
+QUEST_LV_0100_20150317_001066	Prazer em conhecer você. {nl}Sou uma aprendiz da Agailla Flurry.{nl}Sou uma maga especializada em variação de objeto.{nl}
 QUEST_LV_0100_20150317_001067	Eu vejo que o Revelador está aqui para ajudar a Deusa.{nl}Enquanto você faz isso, pode me ajudar a coletar Variation Mediators dos monstros?
 QUEST_LV_0100_20150317_001068	O mágico fugiu?{nl}O que podemos fazer... Para eles, suas vidas são mais importantes do que a Deusa Gabija.{nl}Eu não acho que são covardes. Eles não têm salvação.
 QUEST_LV_0100_20150317_001069	Obrigado. Você é muito confiável.
@@ -5584,21 +5584,21 @@ QUEST_LV_0100_20150317_005583	Golem está mirando nas suas costas, como a mesa d
 QUEST_LV_0100_20150317_005584	Fale com a mesa suspeita
 QUEST_LV_0100_20150317_005585	Parece que você escapou do perigo. Fale com a mesa estranha e educada.
 QUEST_LV_0100_20150317_005586	Derrote o Gray Golem
-QUEST_LV_0100_20150317_005587	Fale com a Maga Peculiar Transmutada
+QUEST_LV_0100_20150317_005587	Fale com o Transmutador da Maga
 QUEST_LV_0100_20150317_005588	Há uma senhora mágica na área de descanso. Fale com ela.
 QUEST_LV_0100_20150317_005589	Derrote os monstros próximos e obtenha Mediador de Variação
-QUEST_LV_0100_20150317_005590	Maga Peculiar precisa de mais Variation Mediators para derrotar monstros de forma eficiente. Obtenha Mediador de Variação de monstros próximos.
-QUEST_LV_0100_20150317_005591	Entregue os Variation Mediators da Maga Peculiar
-QUEST_LV_0100_20150317_005592	Coletou todos os Variation Mediators necessários. Entregue-os à Maga Peculiar.
-QUEST_LV_0100_20150317_005593	Maga Peculiar parece ter mais favores a pedir. Fale com ela novamente.
+QUEST_LV_0100_20150317_005590	Aprendiz da Flurry precisa de mais Variation Mediators para derrotar monstros de forma eficiente. Obtenha Mediador de Variação de monstros próximos.
+QUEST_LV_0100_20150317_005591	Entregue os Variation Mediators da Aprendiz da Flurry
+QUEST_LV_0100_20150317_005592	Coletou todos os Variation Mediators necessários. Entregue-os à Aprendiz da Flurry.
+QUEST_LV_0100_20150317_005593	Aprendiz da Flurry parece ter mais favores a pedir. Fale com ela novamente.
 QUEST_LV_0100_20150317_005594	Derrote monstros e obtenha Hardened Black Crystal
-QUEST_LV_0100_20150317_005595	Maga Peculiar disse para encontrá-la na Machinery Room 1 e trazer o cristal reforçado com você. Obtenha os cristais com os monstros próximos.
-QUEST_LV_0100_20150317_005596	Encontre a Maga Peculiar na frente da Machinery Room 1
-QUEST_LV_0100_20150317_005597	Obteve os cristais reforçados. Encontre-se com Maga Peculiar na Machinery Room 1.
-QUEST_LV_0100_20150317_005598	Encontrou Maga Peculiar perto da Machinery Room. Fale com ela.
+QUEST_LV_0100_20150317_005595	Aprendiz da Flurry disse para encontrá-la na Machinery Room 1 e trazer o cristal reforçado com você. Obtenha os cristais com os monstros próximos.
+QUEST_LV_0100_20150317_005596	Encontre a Aprendiz da Flurry na frente da Machinery Room 1
+QUEST_LV_0100_20150317_005597	Obteve os cristais reforçados. Encontre-se com Aprendiz da Flurry na Machinery Room 1.
+QUEST_LV_0100_20150317_005598	Encontrou Aprendiz da Flurry perto da Machinery Room. Fale com ela.
 QUEST_LV_0100_20150317_005599	Derrote Yonazolem
-QUEST_LV_0100_20150317_005600	Maga Peculiar diz que viu um Yonazolem dentro da Machinery Room. Derrote o Yonazolem enquanto Maga Peculiar bloqueia os monstros na entrada.
-QUEST_LV_0100_20150317_005601	Derrotou Yonazolem. Volte à Maga Peculiar.
+QUEST_LV_0100_20150317_005600	Aprendiz da Flurry diz que viu um Yonazolem dentro da Machinery Room. Derrote o Yonazolem enquanto Aprendiz da Flurry bloqueia os monstros na entrada.
+QUEST_LV_0100_20150317_005601	Derrotou Yonazolem. Volte à Aprendiz da Flurry.
 QUEST_LV_0100_20150317_005602	Há uma Selo de Pedra perto do Dispositivo de Estabilização de Magia. Fale com ela.
 QUEST_LV_0100_20150317_005603	O Selo de Pedra pediu para você derrotar os monstros próximos para que ela possa ser libertada. O que acontecerá quando todas forem liberadas? Primeiro, derrote os monstros como a Pedra pediu.
 QUEST_LV_0100_20150317_005604	Complete o favor para o Selo de Pedra. Liberte a alma.
@@ -5779,13 +5779,13 @@ QUEST_LV_0100_20150317_005778	Traga %s
 QUEST_LV_0100_20150317_005779	Fale com Koven
 QUEST_LV_0100_20150317_005780	Encontre o Baú do Tesouro
 QUEST_LV_0100_20150317_005781	Encontre o Baú do tesouro escondido em algum lugar do Regato de Cristal. Pode ser aberto com a chave que Koven te deu.
-QUEST_LV_0100_20150317_005782	Fale com Maga Peculiar
-QUEST_LV_0100_20150317_005783	Maga Peculiar está surpresa com a sacola cheia de Drake's Horn. Fale com ela.
+QUEST_LV_0100_20150317_005782	Fale com Aprendiz da Flurry
+QUEST_LV_0100_20150317_005783	Aprendiz da Flurry está surpresa com a sacola cheia de Drake's Horn. Fale com ela.
 QUEST_LV_0100_20150317_005784	Faça distintivo de Drake
-QUEST_LV_0100_20150317_005785	Obteve o recibo da Maga Peculiar
+QUEST_LV_0100_20150317_005785	Obteve o recibo da Aprendiz da Flurry
 QUEST_LV_0100_20150317_005786	Chave pode ser usada para criar emblema de Drake
-QUEST_LV_0100_20150317_005787	Confeccionou o emblema de Drake. Fale com Maga Peculiar.
-QUEST_LV_0100_20150317_005788	Faça %s e entregue à Maga Peculiar
+QUEST_LV_0100_20150317_005787	Confeccionou o emblema de Drake. Fale com Aprendiz da Flurry.
+QUEST_LV_0100_20150317_005788	Faça %s e entregue à Aprendiz da Flurry
 QUEST_LV_0100_20150317_005789	Fale com todos os mestres. Fale com a Mestre Thaumaturge em Fedimian.
 QUEST_LV_0100_20150317_005790	Encontre os Magos na Mage Tower.
 QUEST_LV_0100_20150317_005791	A Mestre Thaumaturge sugeriu uma aposta. Você precisa encontrar todos os magos na Mage Tower, e resolver os enigmas que eles propõem.
@@ -6837,9 +6837,9 @@ QUEST_LV_0100_20150428_006836	Obteve a Seal Stone's Voice derrotando Armas
 QUEST_LV_0100_20150428_006837	O Selo de Pedra disse que seu outro espírito perdeu sua voz e quer que você a resgate. Recupere as Vozes da Selo de Pedra de Armas.
 QUEST_LV_0100_20150428_006838	Derrote Gray Golem
 QUEST_LV_0100_20150428_006839	Como uma escrivaninha suspeita lhe disse, o Gray Golem está perseguindo você. Será melhor derrotar o Gray Golem primeiro.
-QUEST_LV_0100_20150428_006840	Maga Peculiar disse para encontrá-la na 1st Machinery Room e pediu para você trazer Hardened Black Crystals. Obtenha os Hardened Black Crystals com os monstros próximos.
-QUEST_LV_0100_20150428_006841	Encontre a Maga Peculiar na frente da 1a Machinery Room
-QUEST_LV_0100_20150428_006842	Você obteve os Black Crystals. Encontre Maga Peculiar na 1st Machinery Room.
+QUEST_LV_0100_20150428_006840	Aprendiz da Flurry disse para encontrá-la na 1st Machinery Room e pediu para você trazer Hardened Black Crystals. Obtenha os Hardened Black Crystals com os monstros próximos.
+QUEST_LV_0100_20150428_006841	Encontre a Aprendiz da Flurry na frente da 1a Machinery Room
+QUEST_LV_0100_20150428_006842	Você obteve os Black Crystals. Encontre Aprendiz da Flurry na 1st Machinery Room.
 QUEST_LV_0100_20150428_006843	A Stone Whale que estava protegendo Hauberk acordou. Derrote a Stone Whale que está em posse da alma.
 QUEST_LV_0100_20150428_006844	Vigia Basil disse que os Panto Wizards na Valio Mountain Cottage Cabin estão procurando pela corda necessária para restaurar a Shaman Doll. Ele disse que, caso palavras não sejam suficientes, é melhor usar força.
 QUEST_LV_0100_20150428_006845	Obtenha %s derrotando Panto Wizards
