@@ -5341,7 +5341,7 @@ ETC_20150317_005340	What do you mean?
 ETC_20150317_005341	For the moment being, from the Golem!
 ETC_20150317_005342	Burning the dumble ball called on the angry Vubbes!
 ETC_20150317_005343	Austeja Follower
-ETC_20150317_005344	Goddess Austeja
+ETC_20150317_005344	Deusa Austeja
 ETC_20150317_005345	Austeja Altar
 ETC_20150317_005346	Seal Tower
 ETC_20150317_005347	Giant Mutated Plant
@@ -7108,7 +7108,7 @@ ETC_20150317_007108	Block the Thorn Forest Raid 1
 ETC_20150317_007109	Block the Thorn Forest Raid 2
 ETC_20150317_007110	Bouquet 1
 ETC_20150317_007111	Bouquet 2
-ETC_20150317_007112	Gatíneo
+ETC_20150317_007112	Gato
 ETC_20150317_007113	Royal Mausoleum Cube
 ETC_20150317_007114	Royal Mausoleum Tombstone01
 ETC_20150317_007115	Royal Mausoleum Tombstone02
@@ -10513,7 +10513,7 @@ ETC_20150401_010514	Fedimian Mercenary Post Manager
 ETC_20150401_010515	Fedimian Accessory Merchant
 ETC_20150401_010516	Fedimian Manager
 ETC_20150401_010517	Fedimian Village Lady
-ETC_20150401_010518	Goddess Austeja
+ETC_20150401_010518	Deusa Austeja
 ETC_20150401_010519	OBB Pillar
 ETC_20150401_010520	Dungeon Event Manager
 ETC_20150401_010521	Joseph Rock
@@ -34760,7 +34760,7 @@ ETC_20180629_034731	Mission cleared!{nl}Returning in 10 seconds.
 ETC_20180629_034732	Protect the Bouquet for 3 Minutes
 ETC_20180629_034733	Protect the bouquet for 3 minutes!
 ETC_20180629_034734	The number of monsters is increasing.
-ETC_20180629_034735	Match starting in 10 seconds!
+ETC_20180629_034735	Iniciando em 10 segundos!
 ETC_20180629_034736	3 Minute Match
 ETC_20180629_034737	Todos os monstros derrotados. O tempo restante será convertido em pontos.{nl}Stage 2 começa agora!{nl}Proteja a Tocha Divina por 40 segundos.
 ETC_20180629_034738	Todos os monstros derrotados. O tempo restante será convertido em pontos.{nl}Stage 3 começa agora!{nl}Proteja a Tocha Divina por 40 segundos.
@@ -36565,7 +36565,7 @@ ETC_20181017_036486	Ichors - Armas
 ETC_20181017_036487	Ichors - Armaduras
 ETC_20181017_036488	Stats	능력				
 ETC_20181017_036489	The request cannot be executed on an automatching server.	자동 매칭 서버에서는 수행할 수 없습니다.				
-ETC_20181017_036490	Cannot use while the instanced dungeon UI is open. If the problem persists, please restart the game and try again.	인던 신청 UI가 열려 있는 상태에선 신청할 수 없습니다. 문제가 지속된다면 재접속을 해보시기 바랍니다.				
+ETC_20181017_036490	Não pode ser utilizado enquanto a janela de dungeon está aberta. Se o problema persistir, por favor reinicie o jogo e tente novamente.
 ETC_20181017_036491	Failed to import instanced dungeon data. If the problem persists, please restart the game and try again.	인던 정보를 얻어오는데 실패했습니다. 문제가 지속된다면 재접속을 해보시기 바랍니다.				
 ETC_20181017_036492	There isn't enough space to create a portal.	공간이 협소하여 포탈을 생성할 수 없습니다.				
 ETC_20181017_036493	Clear time: {MIN} min {SEC} sec.	클리어 시간 : {MIN}분 {SEC}초	ETC_20180517_032982	Clear time: {MIN} min {SEC} sec.	클리어 시간 : {MIN}분 {SEC}초 입니다.	
@@ -37502,8 +37502,8 @@ ETC_20190104_037423	The item can be used only until {DAY} (day) of {MONTH} (mont
 ETC_20190104_037424	{#0054FF}[{NUM2}]{/} points will be added because you already have [{NUM1}] points.{nl}Use the item?	[{NUM1}] 포인트을 이미 갖고 계셔서 {#0054FF}[{NUM2}]{/} 포인트가 추가됩니다.{nl}사용하시겠습니까?			
 ETC_20190104_037425	You cannot earn any more points as you already have the maximum amount of points allowed.	이미 최대 포인트를 갖고 계셔서 포인트를 추가할 수 없습니다			
 ETC_20190104_037426	Atributos Semanais para Membros de Guilda
-ETC_20190104_037427	{nl}The {#FF0000}Red Team{/} is the winner!	{#FF0000}레드팀{/}이 승리하셨습니다!	ETC_20180629_034424	{nl}The {#FF0000}Red Team{/} is the winner!	{nl}{#FF0000}레드팀{/}이 승리하셨습니다!
-ETC_20190104_037428	{nl}The {#0000FF}Blue Team{/} is the winner!	{#0000FF}블루팀{/}이 승리하셨습니다!	ETC_20180629_034425	{nl}The {#0000FF}Blue Team{/} is the winner!	{nl}{#0000FF}블루팀{/}이 승리하셨습니다!
+ETC_20190104_037427	{nl}O {#FF0000}Time Vermelho{/} venceu!
+ETC_20190104_037428	{nl}O {#0000FF}Time Azul{/} venceu!
 ETC_20190104_037429	Draw game! It's a tie!	동점! 무승부입니다!	ETC_20180629_034426	{nl}It's a tie!	{nl}동점! 무승부입니다!
 ETC_20190104_037430	{ol}{@st45w3}{s18}{#0064FF}Additional rewards can be claimed through the Wings of Vaivora NPC{/}	{ol}{@st45w3}{s18}{#0064FF}바이보라 날개에서 추가 보상 지급{/}			
 ETC_20190104_037431	{ol}{@st45w3}{s18}{ITEM} : x{COUNT}{/}	{ol}{@st45w3}{s18}{ITEM} : {COUNT}개{/}			
@@ -37598,7 +37598,7 @@ ETC_20190104_037519	Seguir Giltine: Batalha de Times da Giltine
 ETC_20190104_037520	Não mesmo, isso não é para mim.
 ETC_20190104_037521	Tu és, de fato, inteligente.
 ETC_20190104_037522	Você já coletou a recompensa do evento hoje.
-ETC_20190104_037523	- Invoque monstros interajindo com os objetos próximos da Estátua da Deusa Ausrine!{nl}- Monstros invocados irão até o campo inimigo.{nl}- Vence o time que mais monstros chegaram no campo inimigo.{nl}- Derrote os monstros inimigos e evite que chegem no seu campo.{nl}- Em 4 minutos, o time que estiver perdendo recebe +10 de Velocidade de Movimento nos seus monstros.{nl}  Cuidado, os monstros são rápidos!
+ETC_20190104_037523	- Invoque monstros interagindo com os objetos próximos da Estátua da Deusa Ausrine!{nl}- Monstros invocados irão até o campo inimigo.{nl}- Vence o time que mais monstros chegaram no campo inimigo.{nl}- Derrote os monstros inimigos e evite que chegem no seu campo.{nl}- Em 4 minutos, o time que estiver perdendo recebe +10 de Velocidade de Movimento nos seus monstros.{nl}  Cuidado, os monstros são rápidos!
 ETC_20190104_037524	 x30 necessários para receber prêmio.
 ETC_20190104_037525	Escolha o Mascote
 ETC_20190104_037526	[Dico Tomb Thieves]{nl}Arghidas
@@ -42211,7 +42211,7 @@ ETC_20190628_042132	Multi-color Monster Card Box
 ETC_20190628_042133	Clique com o botão direito do mouse para utilizar e obtenha os itens:{nl}- Monster Card Album: Red x2{nl}- Monster Card Album: Blue x2{nl}- Monster Card Album: Green x2{nl}- Monster Card Album: Purple x2
 ETC_20190628_042134	Glowing Lv. 400 Awakening Abrasive
 ETC_20190628_042135	Golden Anvil Box S Rank
-ETC_20190628_042136	Clique com o botão direito do mouse para utilizar e obtenha os itens:{nl}- Golden Anvil x50{nl}* ATENÇÃO: Golden Anvils podem só podem ser transferidos pelo Armazém do time e consomem Silver ao serem utilizados.
+ETC_20190628_042136	Clique com o botão direito do mouse para utilizar e obtenha os itens:{nl}- Golden Anvil x50{nl}* ATENÇÃO: Golden Anvils só podem ser transferidos pelo Armazém do time e consomem Silver ao serem utilizados.
 ETC_20190628_042137	2019 Leticia's Treasure Chest
 ETC_20190628_042138	Um baú repleto dos itens mais preciosos da Leticia. Utilize para obter os seguintes itens:{nl}- Transcendence Selection Box x1{nl}- Unique Enchant Jewel x20{nl}- Legend Enchant Jewel x3
 ETC_20190628_042139	Transcendence Selection Box
