@@ -34622,7 +34622,7 @@ ETC_20180629_034593	The platform is already heading towards that direction.
 ETC_20180629_034594	[Liberar Pied Piper]{nl}Use o Empty Bottle para coletar Glowing Blue Sand.{nl}Verifique a Nota da Mestre Oracle para mais detalhes.
 ETC_20180629_034595	The bombs carried by the monsters were lit by the torches and exploded!{nl}The torches have been damaged!
 ETC_20180629_034596	The guild quest has already started. To join or cancel, go to the starting point of {EVENT_NAME}.
-ETC_20180629_034597	Guild quest "{GuildEvent}" has been canceled.
+ETC_20180629_034597	Missão de Guilda "{GuildEvent}" foi cancelada.
 ETC_20180629_034598	Read
 ETC_20180629_034599	Unread
 ETC_20180629_034600	This item is already in your basket.
@@ -36109,7 +36109,7 @@ ETC_20180827_036072	The Crystal Orb is protected!{nl}Its powerful energy is weak
 ETC_20180827_036073	2 more minutes to protect the Crystal Orb.	수정구를 보호하기까지 2분 남았습니다				
 ETC_20180827_036074	1 more minute to protect the Crystal Orb.	수정구를 보호하기까지 1분 남았습니다				
 ETC_20180827_036075	No skills to use.	사용할 수 있는 스킬이 없습니다.				
-ETC_20180827_036076	No authority to initiate guild quests.	길드 퀘스트를 시작할 권한이 없습니다.				
+ETC_20180827_036076	Sem autoridade para iniciar Missões de Guilda.
 ETC_20180827_036077	Purchased	구매 완료	ETC_20170330_027644	Purchased	구매{nl}완료	
 ETC_20180827_036078	Sold	판매 완료	ETC_20170330_027645	Sold	판매{nl}완료	
 ETC_20180827_036079	Canceled	판매 취소	ETC_20170330_027646	Cancelled	판매{nl}취소	
@@ -36879,8 +36879,8 @@ ETC_20190104_036800	Territory Taxation Info	콜로니 세금 정보
 ETC_20190104_036801	Error code 8 tracking log.	Error code 8 추적 로그.			
 ETC_20190104_036802	Legend Raid: Earth Tower	레전드 레이드 : 대지의 탑			
 ETC_20190104_036803	Legend Raid: Velcoffer's Nest	레전드 레이드 : 벨코퍼의 둥지	ETC_20180517_032649	Legend Raid	레전드 레이드
-ETC_20190104_036804	Ataque em Klaipeda
-ETC_20190104_036805	Evento: Ataque em Klaipeda
+ETC_20190104_036804	Batalha de Times da Giltine
+ETC_20190104_036805	Evento: Batalha de Times da Giltine
 ETC_20190104_036806	Selo
 ETC_20190104_036807	Boneco
 ETC_20190104_036808	Deleted Gem	삭제된 젬			
@@ -37593,8 +37593,8 @@ ETC_20190104_037514	[Disponível montado]
 ETC_20190104_037515	[Somente montado]
 ETC_20190104_037516	Invocando...
 ETC_20190104_037517	Acredito que tu sejas mais inteligente do que pareces.{nl}Então, o que achas?{nl}Tu acreditas nas Deusas?{nl}Ou irás seguir-me e, de fato, fazer história?
-ETC_20190104_037518	Giltine's Team Clash
-ETC_20190104_037519	Seguir Giltine: Ataque em Klaipeda
+ETC_20190104_037518	Batalha de Times da Giltine
+ETC_20190104_037519	Seguir Giltine: Batalha de Times da Giltine
 ETC_20190104_037520	Não mesmo, isso não é para mim.
 ETC_20190104_037521	Tu és, de fato, inteligente.
 ETC_20190104_037522	Você já coletou a recompensa do evento hoje.
