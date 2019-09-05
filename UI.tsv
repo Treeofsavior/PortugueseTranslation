@@ -2396,7 +2396,7 @@ UI_20161005_002395	{@st42b}Abrir Portal
 UI_20161005_002396	{@st66b}Corregamento do Portal{/}	
 UI_20161010_002397	{@st66d_y}{s20}All{/}	
 UI_20161107_002398	{@st43}Lista de Troca{/}	
-UI_20161107_002399	{@st41b}Medalhas Consumidas: {/}	
+UI_20161107_002399	{@st41b}Custo: {/}  (Loja de Trocas)
 UI_20161107_002400	{@st41b}Medalhas Obtidas: {/}	
 UI_20161107_002401	Quer gastar Medalhas pelo item?	
 UI_20161107_002402	Uma vez trocado, não pode voltar atrás.	
@@ -2439,7 +2439,7 @@ UI_20161107_002438	{@st42}{s16} Obtained Medal {/}{img icon_item_recyclemedal 20
 UI_20161107_002439	Obtido: %s	
 UI_20161107_002440	{@st42b}{s16}Comprar{/}	
 UI_20161107_002441	{@st42b}{s16}Trocar Medalhas{/}	
-UI_20161107_002442	Medalhas Consumidas	
+UI_20161107_002442	Custo   (Loja de Trocas)
 UI_20161107_002443	Medalhas Obtidas	
 UI_20161108_002444	{@st43}%s obtido!{/}	
 UI_20161108_002445	{@st42b}Open Goddess' Blessed Cube X %s	
