@@ -11751,7 +11751,7 @@ QUEST_LV_0100_20151224_011750	Conseguiu encontrar?{nl}
 QUEST_LV_0100_20151224_011751	Se o relatório encontrado estiver correto,{nl}logo não precisaremos mais nos preocupar com a vegetação gigante.{nl}Vamos seguir até o Mosteiro Novaha então!
 QUEST_LV_0100_20151224_011752	A segurança é muito rigorosa...{nl}Os demônios estão guardando a entrada do Mosteiro Novaha.{nl}
 QUEST_LV_0100_20151224_011753	Meu irmão e os outros moradores da vila...{nl}Eles vão ficar bem, não vão?{nl}Por favor, tente não causar muito tumulto...
-QUEST_LV_0100_20151224_011754	You need to be as quiet as possible.{nl}	최대한 조용히 처리하셔야 해요.{nl}				Rose
+QUEST_LV_0100_20151224_011754	You need to be as quiet as possible.{nl}
 QUEST_LV_0100_20151224_011755	Tenho certeza que meu irmão e os demais estão bem,{nl}afinal parece que eles não servem o propósito por enquanto...{nl}Mas tudo pode ir por água abaixo se não tivermos cuidado.
 QUEST_LV_0100_20151224_011756	Você está bem?{nl}Suas habilidades são muito incríveis!{nl}
 QUEST_LV_0100_20151224_011757	Vamos entrar no Mosteiro Novaha então.{nl}Oh Deusa... Faça com que estejam bem...
@@ -12031,7 +12031,7 @@ QUEST_LV_0100_20151224_012030	Ainda assim... Não podemos parar aqui.{nl}Vou faz
 QUEST_LV_0100_20151224_012031	Entregue esta carta com o plano do Ignas para Irmantas.{nl}
 QUEST_LV_0100_20151224_012032	Eu vou levar adiante a tarefa da Alina,{nl}de informar e levar adiante o desejo de Lydia Schaffen.{nl}Vou sobreviver e alcançar Orsha, custe o que custar!{nl}
 QUEST_LV_0100_20151224_012033	Eu... Gostaria de agradecer por nos proteger até o fim.{nl}Tenho certeza que Alina e Lydia Schaffen também gostaria.
-QUEST_LV_0100_20151224_012034	This should be enough...{nl}Now I will take back my shattered soul!	이 정도면 충분하다.. {nl}이제 부서진 내 영혼을 되찾을 때다!	QUEST_LV_0100_20151001_008688	É o suficiente.{nl}Agora é hora de encontrar o meu espírito destroçado!
+QUEST_LV_0100_20151224_012034	This should be enough...{nl}Now I will take back my shattered soul!
 QUEST_LV_0100_20151224_012035	Agatas honrou o lado dele do contrato.{nl}Agora vou deixá-lo e iniciar uma jornada de vingança.{nl}
 QUEST_LV_0100_20151224_012036	Colocou a poção de separação de espírito no bolso de Agatas.
 QUEST_LV_0100_20151224_012037	Eu não sei onde ele pode estar.{nl}Acho que Brophen deve ter ido com ele para Malkos Felled Area. Quem sabe?{nl}
@@ -12666,9 +12666,9 @@ QUEST_LV_0100_20151224_012665	Sinto muito.{nl}Não posso anunciar que demônios 
 QUEST_LV_0100_20151224_012666	Agradeço mais uma vez, agora como Lorde de Orsha, pelo que você fez.{nl}O Bispo Urbonas está esperando por você.
 QUEST_LV_0100_20151224_012667	Olá! Momento impecável!{nl}Acabei de finalizar a interpretação das Ordens Demoníacas.{nl}
 QUEST_LV_0100_20151224_012668	Podem haver partes que não são precisa, mas...{nl}Me permita expor com um pouco de tradução livre.{nl}
-QUEST_LV_0100_20151224_012669	"Deixe a Lorde humana de lado, pois obtemos o poder divino que buscamos.{nl}Miss Giltine deseja resultados mais tangíveis.{nl}
-QUEST_LV_0100_20151224_012670	Instale a Kruvina no reservatório predeterminado{nl}e execute o plano dos esporos.{nl}Morte irá engolir este mundo.{nl}
-QUEST_LV_0100_20151224_012671	OBS.: Miss Giltine ordenou a aniquilação do Revelador.{nl}Você precisa se livrar dele antes que encontre a garota."{nl}
+QUEST_LV_0100_20151224_012669	You may leave the human lord alone since we have obtained the holy power we were after.{nl}Miss Giltine wants more tangible results.{nl}
+QUEST_LV_0100_20151224_012670	Deploy the Kruvina in the predetermined reservoir and execute the spore plan.{nl}Death will engulf this world.{nl}
+QUEST_LV_0100_20151224_012671	P.S. Miss Giltine has ordered the annihilation of the Revelator.{nl}You must get rid of the Revelator before they meet the girl.{nl}
 QUEST_LV_0100_20151224_012672	Isso é tudo.{nl}O conteúdo é tão forte que penso se traduzi corretamente...{nl}
 QUEST_LV_0100_20151224_012673	Vou entregar esta informação para a Lorde...{nl}Isso tudo é muito frustrante,{nl}pois mal podemos proteger Orsha,{nl}quem dirá enviar grupos investigativos.{nl}
 QUEST_LV_0100_20151224_012674	E o que será que essa tal de 'Kruvina'...{nl}Não achei nada mencionado em nenhum documento mais antigo.{nl}
@@ -12725,7 +12725,7 @@ QUEST_LV_0100_20151224_012724	Derrotar Woodins em Paupys Crossing, para você,{n
 QUEST_LV_0100_20151224_012725	Nem é um teste tão difícil assim.{nl}Se você tiver noção da sua própria força, claro.
 QUEST_LV_0100_20151224_012726	Você não parece ser alguém que irá manchar o nome dos Higlanders.{nl}O meu pai, também um Highlander, também diria isso.
 QUEST_LV_0100_20151224_012727	Eu, através do meu Mestre, ensinarei a você o caminho do Highlander.
-QUEST_LV_0100_20151224_012728	Do you desire to become a Peltasta?{nl}You made a wise choice.	펠타스타를 지망하십니까? {nl}현명한 선택입니다.{nl}	QUEST_UNUSED_20151022_001078	Deseja se tornar Peltasta?{nl}É uma decisão inteligente.{nl}Deixe-me fazer uma pergunta: Você odeia os demônios?
+QUEST_LV_0100_20151224_012728	Do you desire to become a Peltasta?{nl}You made a wise choice.
 QUEST_LV_0100_20151224_012729	Nós, Peltastas, devemos saber como utilizar nossos escudos,{nl}para propriamente afastar os inimigos.{nl}Sendo assim, um entendimento básico de um escudo é pré-requisito.
 QUEST_LV_0100_20151224_012730	Quero que você me consiga alguns materiais para fazer um escudo.{nl}Se conseguir fazer isso, considerarei você habilitado para ser um Peltasta.
 QUEST_LV_0100_20151224_012731	Derrote Pokuborns, em Woods of the Linked Bridges, e traga Pokuborn Tusks.{nl}Ah, e mais uma coisa...{nl}
@@ -12753,6 +12753,7 @@ QUEST_LV_0100_20151224_012752	Muito bem. Aceito isso como um sim.{nl}Vá até Da
 QUEST_LV_0100_20151224_012753	Dez Gosarus deve bastar.
 QUEST_LV_0100_20151224_012754	Você tem palavra e cumpre que diz.{nl}Eu, através do meu Mestre, ensinarei todas as habilidades de um Swordsman.
 QUEST_LV_0100_20151224_012755	Quero ver o quanto você se dedicou como Highlander.{nl}Os Gosarus em Dadan Jungle serão um bom medidor.{nl}
+QUEST_LV_0100_20151224_012756	Training comes later.
 QUEST_LV_0100_20151224_012757	O objetivo é simples.{nl}Derrote os Gosarus, em Dadan Jungle.
 QUEST_LV_0100_20151224_012758	Incrível!{nl}Manterei a minha promessa e ensinarei técnicas avançadas dos Highlanders.
 QUEST_LV_0100_20151224_012759	Antes de começarmos,{nl}é melhor testar se você conseguirá avançar no treino ou não.{nl}
@@ -12904,6 +12905,7 @@ QUEST_LV_0100_20151224_012904	Você é um Revelador também?{nl}Hmm... Se isso �
 QUEST_LV_0100_20151224_012905	Nos reunímos aqui para impedir Delmore Rephaim, o Lorde do Castelo Delmore.{nl}Ele está tentando criar mais uma Kruvina.{nl}
 QUEST_LV_0100_20151224_012906	Ah, você já sabe sobre a Kruvina?{nl}O plano dos demônios de usar esporos mortíferos para invadir Orsha...{nl}
 QUEST_LV_0100_20151224_012907	A Kruvina feita por Delmore Rephaim está no centro deste plano...{nl}Ela pode acabar com um tremendo poder, dependendo de como for usada.{nl}
+QUEST_LV_0100_20151224_012908	Delmore Rephaim was once a revered lord and established alchemist...{nl}But he touched upon forbidden alchemy by conspiring with the demons. {nl}
 QUEST_LV_0100_20151224_012909	É aqui que o ápice da magia demoníaca e tecnologia humana foi criado.{nl}Essa criação é chamada de Kruvina.
 QUEST_LV_0100_20151224_012910	Eu já fui um mago a serviço de Delmore Rephaim.{nl}Mas eu fugi após ver ele criando a Kruvina,{nl}o que simplesmente me fez muito mal.{nl}
 QUEST_LV_0100_20151224_012911	Eu deveria ter impedido a criação...{nl}Mas eu fui muito covarde naquele momento.{nl}Delmore Rephaim está tentando criar aquela Kruvina mais uma vez.{nl}
@@ -12955,7 +12957,7 @@ QUEST_LV_0100_20151224_012956	Sucesso!{nl}Tanto você quanto Mihail fizeram um �
 QUEST_LV_0100_20151224_012957	O Dispositivo da Kruvina logo vai parar por completo,{nl}afinal os Aparelhos de Fornecimento de Energia Mágica foram destruídos.{nl}O escudo protetivo irá desaparecer também.{nl}
 QUEST_LV_0100_20151224_012958	Mas não podemos relaxar porque o dispositivo parou.{nl}Precisamos destruir tudo o quanto antes,{nl}para que nunca mais pensem em fazer uma Kruvina de novo.{nl}
 QUEST_LV_0100_20151224_012959	Vamos até Delmore Manor, onde o dispositivo está.{nl}Vou ficar esperando lá.
-QUEST_LV_0100_20151224_012960	Seguidora Andrea				
+QUEST_LV_0100_20151224_012960	Seguidora Andrea
 QUEST_LV_0100_20151224_012961	Eu esperava que fosse as sugestões de migração...{nl}Mas, por algum motivo, não acho que seja isso.{nl}Onde estão todos os soldados e servos,{nl}sem contar o moradores daqui?
 QUEST_LV_0100_20151224_012962	Estamos ajudando os Reveladores pelos bastidores.{nl}Só não achávamos que teriam tantos demônios assim...
 QUEST_LV_0100_20151224_012963	Este local... Está terrível.{nl}Eu já vi várias ruínas, mas nenhuma feito este local qui.{nl}
@@ -12971,7 +12973,7 @@ QUEST_LV_0100_20151224_012972	Eu queria entregar a eles o restante das págias d
 QUEST_LV_0100_20151224_012973	Muito obrigada!{nl}Ele disse que seu nome é Ardel, e que vive em Old Bazaar Site.
 QUEST_LV_0100_20151224_012974	Eu ouvi pequenas coisas sobre o Castelo Delmore.{nl}Mas não sei como que ele acabou nesse estado.{nl}Melchioras sempre evita falar sobre isso...
 QUEST_LV_0100_20151224_012975	Eu nem sei como agradecer!{nl}Vou lembrar de entregar para você se conseguir recuperar.
-QUEST_LV_0100_20151224_012976	Seguidor Nuodas				
+QUEST_LV_0100_20151224_012976	Seguidor Nuodas
 QUEST_LV_0100_20151224_012977	O que precisa ser feito para que tantas pessoas desapareçam?{nl}É assustador ver as casas e pertences abandonados assim.
 QUEST_LV_0100_20151224_012978	Ouvi várias histórias sobre perder casas por causa de ataques{nl}de monstros ou de demônios após o Medzio Diena.{nl}Mas isso é diferente.{nl}Parece que algo atingiu o castelo como um todo...
 QUEST_LV_0100_20151224_012979	Este era o castelo mais próspero após Orsha.{nl}O fato de um local assim ficar nesse estado em um instante...{nl}
@@ -13850,7 +13852,7 @@ QUEST_LV_0100_20151224_013851	Destrua a Torre de Controle Mental, no Duoklu Hall
 QUEST_LV_0100_20151224_013852	Mardas está com a Escultura do Coruja Líder. Escute o que eles estão falando.
 QUEST_LV_0100_20151224_013853	Para salvar as Esculturas da Coruja Guia de Letas Stream, vá até a origem de Karolis, onde a energia de Karolis Springs é mais forte, e obenha esta energia.
 QUEST_LV_0100_20151224_013854	Encontre a Escultura de Coruja Guia em Letas Stream
-QUEST_LV_0100_20151224_013855	A Escultura do Coruja Líder pediu que você reunisse a energia de Karolis Springs e leve isso até as Esculturas da Coruja Guia. Vá procurar as Esculturas da Coruja Guia.		
+QUEST_LV_0100_20151224_013855	A Escultura do Coruja Líder pediu que você reunisse a energia de Karolis Springs e leve isso até as Esculturas da Coruja Guia. Vá procurar as Esculturas da Coruja Guia.
 QUEST_LV_0100_20151224_013856	A Escultura do Coruja Líder pediu um galho divino de Letas para poder derrotar os demônios. Use o cristal contendo a energia de Karolis Springs para encontrar a árvore sagrada de Letas e obter um galho.
 QUEST_LV_0100_20151224_013857	Mardas parece que encontrou, finalmente, uma solução após conversar com a Escultura do Coruja Líder. Escute o que Mardas tem a dizer.
 QUEST_LV_0100_20151224_013858	Elimine a energia maligna contaminando a floresta
@@ -13859,7 +13861,8 @@ QUEST_LV_0100_20151224_013860	Você removeu toda a energia maligna. Retorne para
 QUEST_LV_0100_20151224_013861	Você removeu toda a energia maligna. Fale com Mardas sobre o que fazer agora.
 QUEST_LV_0100_20151224_013862	Remova o Círculo Mágico da Esfera de Vigilância
 QUEST_LV_0100_20151224_013863	Mardas disse que você precisa remover o círculo mágico que mantém as Esferas de Vigilância para acessar a energia escura que absorve a energia da própria floresta. Evite as Esferas de Vigilância e destrua o círculo mágico.
-QUEST_LV_0100_20151224_013865	No final da bifurcação de Senyvas Yard, remova a energia negra que aborve a energia da própria floresta.	
+QUEST_LV_0100_20151224_013864	Remove the Black Energy
+QUEST_LV_0100_20151224_013865	No final da bifurcação de Senyvas Yard, remova a energia negra que aborve a energia da própria floresta.
 QUEST_LV_0100_20151224_013866	A energia negra foi removida. Avise Mardas sobre isso.
 QUEST_LV_0100_20151224_013867	Remova todos os círculos mágicos protegento a Soul Starvation
 QUEST_LV_0100_20151224_013868	Mardas disse que os círculos mágicos que protegem a Soul Starvation devem ser removidos. Os círculos devem ser removidos em ordem correta, ou eles serão ativados novamente. Controle cada círculo para descobrir a ordem correta.
@@ -13872,7 +13875,7 @@ QUEST_LV_0100_20151224_013874	Você derrotou os monstros em Woods of the Linked 
 QUEST_LV_0100_20151224_013875	Derrote monstros com a Fire Energy Bead
 QUEST_LV_0100_20151224_013876	A Submestre Pyromancer quer testar a sua afinidade com energia de fogo. Derrote alguns monstros sob o efeito da magia da Submestre Pyromancer.
 QUEST_LV_0100_20151224_013877	Você derrotou os montros. Peça para a Submestre Pyromancer avaliar a sua afinidade com o fogo.
-QUEST_LV_0100_20151224_013878	Derrote os monstros para preencher o Pedaço de Gelo Eterno Mágico	
+QUEST_LV_0100_20151224_013878	Derrote os monstros para preencher o Pedaço de Gelo Eterno Mágico
 QUEST_LV_0100_20151224_013879	A Submestre Cryomancer acredita que todo o Cryomancer precisa ter talento para magia congelante. Para provar isso, preencha o Pedaço de Gelo Eterno Mágico com magia.
 QUEST_LV_0100_20151224_013880	Você preencheu o Pedaço de Gelo Eterno Mágico sem deixar que deretesse. Retorne para a Submestre Cryomancer.
 QUEST_LV_0100_20151224_013881	O Submestre Archer acredita que ser capaz de mirar no inimigo a distância é muito importante. Ataque montros acertando eles de uma certa distância.
@@ -13979,7 +13982,7 @@ QUEST_LV_0100_20151224_013981	Laswi tomou a Stamina Pill e parece que está melh
 QUEST_LV_0100_20151224_013982	Encontre os vendedores com a ajuda da Laswi
 QUEST_LV_0100_20151224_013983	Faça com que Laswi cheire as roupas dos mercadores para seguir o odor e encontrar todos eles. Quando achar todos, explique à Rose o paradeiro de cada um.
 QUEST_LV_0100_20151224_013984	Encontre o último Vendedor Ambulante
-QUEST_LV_0100_20151224_013985	Você encontrou três dos vendedores. Encontre o último perdido com a ajuda da Laswi.		
+QUEST_LV_0100_20151224_013985	Você encontrou três dos vendedores. Encontre o último perdido com a ajuda da Laswi.
 QUEST_LV_0100_20151224_013986	Fale com o Vendedor Ambulante Cassias
 QUEST_LV_0100_20151224_013987	Você encontrou todos os colegas da Rose. Continue conversando com Cassias.
 QUEST_LV_0100_20151224_013988	Enfrente o ataque dos demônios
@@ -14064,7 +14067,7 @@ QUEST_LV_0100_20151224_014066	Volte para a Rose e entregue o diário
 QUEST_LV_0100_20151224_014067	Salve a Vendedora Ambulante Rose
 QUEST_LV_0100_20151224_014068	Rose foi capturada por demônios e um Wizard desconhecido. Salve a Rose.
 QUEST_LV_0100_20151224_014069	Você salvou a Rose.
-QUEST_LV_0100_20151224_014070	Defeat the demons that tried to kidnap Rose	로제를 납치하려는 마족 처치				
+QUEST_LV_0100_20151224_014070	Defeat the demons that tried to kidnap Rose
 QUEST_LV_0100_20151224_014071	Vendedora Ambulante Rose parece estar bem. Fale com ela para definir o que fazer agora.
 QUEST_LV_0100_20151224_014072	Encontre a Fonte de Energia e remova-a
 QUEST_LV_0100_20151224_014073	É preciso desativar o aparelho que dá energia para o aparelho da vegetação gigante. Use os monstros para parar os círculos mágicos de congelamento e remova as fontes de energia.
@@ -14143,7 +14146,7 @@ QUEST_LV_0100_20151224_014145	Edmundas, irmão da Rose, está preso na Apega Sta
 QUEST_LV_0100_20151224_014146	Siga a Rose até a Apega State Chamber
 QUEST_LV_0100_20151224_014147	Rose saiu correndo em direção da Apega State Chamber, onde o irmão dela está preso. Siga ela até o local.
 QUEST_LV_0100_20151224_014148	Elimine a causa das dores do Edmundas
-QUEST_LV_0100_20151224_014149	Edmundas disse que um Wizard veio no local, fazendo com que ele sentisse muita dor de repente. Procure na Apega State Chamber pelo que possa estar causando esta dor em Edmundas e remova rapidamente.			
+QUEST_LV_0100_20151224_014149	Edmundas disse que um Wizard veio no local, fazendo com que ele sentisse muita dor de repente. Procure na Apega State Chamber pelo que possa estar causando esta dor em Edmundas e remova rapidamente.
 QUEST_LV_0100_20151224_014150	Você destruiu todos os pilares de cristal. Fale com a Rose.
 QUEST_LV_0100_20151224_014151	Edmundas ficará bem agora. Fale novamente com a Rose.
 QUEST_LV_0100_20151224_014152	Destrua a Mysterious Wizard's Magic Stone of Pain
@@ -17573,7 +17576,7 @@ QUEST_LV_0100_20180827_017575	A Cidade Sob Ameaça (3)
 QUEST_LV_0100_20180827_017576	O que você vai fazer com os documentos de pesquisa?
 QUEST_LV_0100_20180827_017577	Eu acredito que você pode fazer isso sozinho.
 QUEST_LV_0100_20180827_017579	Encontrando os Documentos de Pesquisa Antigos
-QUEST_LV_0100_20180827_017578	O Mestre Cryomancer disse que está procurando por um livro, e quer que você o ajude a encontrá-lo. Fale com o prefeito de Siaulai Miner's Village e pergunte sobre o livro.	QUEST_JOBSTEP_20150714_002825	O Mestre Cryomancer disse que está procurando por um livro, e quer que você o ajude a encontrá-lo. Fale com o prefeito de Siaulai Miner's Village e pergunte sobre o livro.
+QUEST_LV_0100_20180827_017578	O Mestre Cryomancer disse que está procurando por um livro, e quer que você o ajude a encontrá-lo. Fale com o prefeito de Siaulai Miner's Village e pergunte sobre o livro.
 QUEST_LV_0100_20180827_017580	Encontre Documentos de Pesquisa Antigos.
 QUEST_LV_0100_20180827_017581	A Cidade Sob Ameaça
 QUEST_LV_0100_20180827_017582	Procure pelo Resto das Wizards
@@ -17585,19 +17588,18 @@ QUEST_LV_0100_20180827_017587	Persiga Quipmage e o derrote.
 QUEST_LV_0100_20180827_017588	Procure e derrote o Quipmage
 QUEST_LV_0100_20180827_017589	Fale com Asas de Vaivora
 QUEST_LV_0100_20180827_017590	Fale com Asas de Vaivora.
-QUEST_LV_0100_20181017_017591	They're running late.{nl}They were in Fantomas street the last I saw them, I am worried something has happened to them.	생각보다 늦어요.{nl}그들은 판토마스 골목에 있는데  혹시 무슨 일이 있나 걱정이 되네요.	QUEST_LV_0100_20180827_017552	They're running late.{nl}They were in Fantomas street the last I saw them, I am worried something has happened to them.	생각보다 너무 늦어요.{nl}걔네들은 판토마스 골목에 있는데  혹시 무슨 일이 있나 걱정이 되네요.	위저드 니디아
-QUEST_LV_0100_20181017_017592	Ane said that the Quipmage was headed for Spresti Lot.{nl}I don't know how long the tracking spell is going to last.{nl}Ane said that the Beholder may be there, but it's just her assumption.	아네가 큅메이지가 스프레스티 공터로 갔다고 했어요.{nl}추적 마법이 언제까지 큅메이지를 추적할지 알 수 없어요.{nl}주시자가 있을지도 모른다는 아네의 말은 추측일 뿐이에요.	QUEST_LV_0100_20180827_017556	Ane said that the Quipmage was headed for Spresti Lot.{nl}I don't know how long the tracking spell is going to last.{nl}Ane said that the Beholder may be there, but it's just her assumption.	아네가 큅메이지가 스프레스티 공터로 갔다고 했어요.{nl}추적 마법이 언제까지 큅메이지를 추적할지는 알 수 없어요.{nl}주시자가 있을지도 모른다는 아네의 말은 추측일 뿐이에요.	위저드 알도니
-QUEST_LV_0100_20181017_017593	It was reckless of Aldoni to face the Quipmage alone.{nl}But thanks to you, the damage done could be kept to a minimum.	큅메이지를 상대하려 하다니 알도니는 정말 무모했어요.{nl}그래도 여행자님의 실력 덕분에 큰 피해는 없어 다행이에요.	QUEST_LV_0100_20180827_017563	It was reckless of Aldoni to face the Quipmage alone.{nl}But thanks to you, the damage done could be kept to a minimum.	알도니는 큅메이지를 상대하려 하다니 정말 무모했어요.{nl}그래도 여행자님의 실력 덕분에 큰 피해는 없어 다행이에요.	위저드 니디아
-QUEST_LV_0100_20181017_017594	The Old Research Papers have been switched and the Quipmage was also defeated.{nl}If the Beholder finds out, he will try to steal them again.	오래된 연구 기록도 전부 바꾸고 큅메이지도 처치했어요.{nl}그렇지만 연구 기록지가 바뀌었다는 사실을 주시자가 알게 된다면 분명히 빼앗으려 들 거에요.	QUEST_LV_0100_20180827_017564	The Old Research Papers have been switched and the Quipmage was also defeated.{nl}If the Beholder finds out, he will try to steal them again.	오래된 연구 기록도 전부 바꾸고 큅메이지도 처치했어요.{nl}그렇지만 연구 기록지가 바뀌었다는 사실을 주시자가 알게 된다면 분명히 빼았으려 들거에요.	위저드 니디아
-QUEST_LV_0100_20181017_017595	So these are the research papers of the Quipmage that caused the incident at Nicopolis.	니코폴리스 사고의 주동자인 큅메이지의 연구 기록이라고요?	QUEST_LV_0100_20180827_017567	So these are the research papers of the Quipmage that caused the incident at Nicopolis.	니코폴리스 사고에 주동자인 큅메이지의 연구 기록이라고요?	레나
-QUEST_LV_0100_20181017_017596	Looks like it's written in the language of the demons.{nl}We will keep it safe so that it doesn't fall into the Beholder's hands.	읽어보니 마족어 같아요.{nl}이게 주시자의 손에 안 들어가도록 저희가 지킬게요.	QUEST_LV_0100_20180827_017568	Looks like it's written in the language of the demons.{nl}We will keep it safe so that it doesn't fall into the Beholder's hands.	읽어보니 마족어인거 같아요.{nl}이게 주시자의 손에 안 들어가도록 저희가 지킬게요.	레나
-QUEST_LV_0100_20181017_017597	But, see, if someone talented like you can take me there...{nl}I can teach them not to disrespect their village chief.{nl}	그러니 자네같은 실력자를 내가 데려 왔다고 한다면 말이지.{nl}감히 이 촌장을 함부로 못 대할 거라고.{nl}	QUEST_LV_0100_20151224_013393	But, see, if someone talented like you can take me there...{nl}I can teach them not to disrespect their village chief.{nl}	그러니 자네같은 실력자를 내가 대려 왔다고 한다면 말이지.{nl}감히 이 촌장을 함부로 못 대할 거라고.{nl}	Senhor Eloizard
-QUEST_LV_0100_20181116_017598	Hmm... It is rather familiar... But I don't remember.{nl}Coud I have misplaced it?	음.. 분명 낯이 익은 물건인데.. 기억이 나질 않네요.{nl}내가 언제 이런 걸 잃어버린 걸까..?				잡화 상인 미리나
-QUEST_LV_0100_20181116_017599	Did you deliver the goods?{nl}If not, please do so. I don't have the courage to go myself...	혹시 물건은 다 전해줬어?{nl}아직이라면 부탁할게. 내가 가기엔 용기가 나질 않아서..				Mestre Sapper
+QUEST_LV_0100_20181017_017591	They're running late.{nl}They were in Fantomas street the last I saw them, I am worried something has happened to them.
+QUEST_LV_0100_20181017_017592	Ane said that the Quipmage was headed for Spresti Lot.{nl}I don't know how long the tracking spell is going to last.{nl}Ane said that the Beholder may be there, but it's just her assumption.
+QUEST_LV_0100_20181017_017593	It was reckless of Aldoni to face the Quipmage alone.{nl}But thanks to you, the damage done could be kept to a minimum.
+QUEST_LV_0100_20181017_017594	The Old Research Papers have been switched and the Quipmage was also defeated.{nl}If the Beholder finds out, he will try to steal them again.
+QUEST_LV_0100_20181017_017595	So these are the research papers of the Quipmage that caused the incident at Nicopolis.
+QUEST_LV_0100_20181017_017596	Looks like it's written in the language of the demons.{nl}We will keep it safe so that it doesn't fall into the Beholder's hands.
+QUEST_LV_0100_20181017_017597	But, see, if someone talented like you can take me there...{nl}I can teach them not to disrespect their village chief.{nl}
+QUEST_LV_0100_20181116_017598	Hmm... It is rather familiar... But I don't remember.{nl}Coud I have misplaced it?
+QUEST_LV_0100_20181116_017599	Did you deliver the goods?{nl}If not, please do so. I don't have the courage to go myself...
 QUEST_LV_0100_20190104_017600	Ah, o Salvador.{nl}Veio atrás do que mesmo?
 QUEST_LV_0100_20190104_017601	Ele disse que a dor começou quando o Wizard veio na Apega Protocol Room.{nl}Vou ficar de olho nele aqui.{nl}Vá e ache um meio de parar isso. Rápido!
 QUEST_LV_0100_20190104_017602	Não há missões impossíveis para um Assassin.{nl}Se existir, somente em sonhos.
 QUEST_LV_0100_20190104_017603	Como já sabe, Assassins encontram o ponto fraco até do mais forte inimigo.{nl}Não importa o quanto ele possa estar escondido.
 QUEST_LV_0100_20190104_017604	Entregue a bolsa do Mestre Sapper para a Mestre Cleric!
-QUEST_LV_0100_20190419_017605	Dungeon Secret Cube NPC	던전 시크릿 큐브 NPC			
-	
+QUEST_LV_0100_20190419_017605	Dungeon Secret Cube NPC
