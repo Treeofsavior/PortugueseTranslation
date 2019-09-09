@@ -1062,8 +1062,8 @@ QUEST_LV_0100_20150317_001061	Mesa Suspeita
 QUEST_LV_0100_20150317_001062	Há um Golem aqui perto.{nl}Tenho medo demais para sair. Por favor, me ajude.
 QUEST_LV_0100_20150317_001063	Isso não vai sair.
 QUEST_LV_0100_20150317_001064	Obrigado.{nl}Ficarei aqui até que tudo esteja seguro, e depois fujo.
-QUEST_LV_0100_20150317_001065	Maga Peculiar
-QUEST_LV_0100_20150317_001066	Prazer em conhecer você. {nl}Sou uma Maga Peculiar. Sou uma maga especializada em variação de objeto.{nl}
+QUEST_LV_0100_20150317_001065	Aprendiz da Flurry
+QUEST_LV_0100_20150317_001066	Prazer em conhecer você. {nl}Sou uma aprendiz da Agailla Flurry.{nl}Sou uma maga especializada em variação de objeto.{nl}
 QUEST_LV_0100_20150317_001067	Eu vejo que o Revelador está aqui para ajudar a Deusa.{nl}Enquanto você faz isso, pode me ajudar a coletar Variation Mediators dos monstros?
 QUEST_LV_0100_20150317_001068	O mágico fugiu?{nl}O que podemos fazer... Para eles, suas vidas são mais importantes do que a Deusa Gabija.{nl}Eu não acho que são covardes. Eles não têm salvação.
 QUEST_LV_0100_20150317_001069	Obrigado. Você é muito confiável.
@@ -5584,21 +5584,21 @@ QUEST_LV_0100_20150317_005583	Golem está mirando nas suas costas, como a mesa d
 QUEST_LV_0100_20150317_005584	Fale com a mesa suspeita
 QUEST_LV_0100_20150317_005585	Parece que você escapou do perigo. Fale com a mesa estranha e educada.
 QUEST_LV_0100_20150317_005586	Derrote o Gray Golem
-QUEST_LV_0100_20150317_005587	Fale com a Maga Peculiar Transmutada
+QUEST_LV_0100_20150317_005587	Fale com o Transmutador da Maga
 QUEST_LV_0100_20150317_005588	Há uma senhora mágica na área de descanso. Fale com ela.
 QUEST_LV_0100_20150317_005589	Derrote os monstros próximos e obtenha Mediador de Variação
-QUEST_LV_0100_20150317_005590	Maga Peculiar precisa de mais Variation Mediators para derrotar monstros de forma eficiente. Obtenha Mediador de Variação de monstros próximos.
-QUEST_LV_0100_20150317_005591	Entregue os Variation Mediators da Maga Peculiar
-QUEST_LV_0100_20150317_005592	Coletou todos os Variation Mediators necessários. Entregue-os à Maga Peculiar.
-QUEST_LV_0100_20150317_005593	Maga Peculiar parece ter mais favores a pedir. Fale com ela novamente.
+QUEST_LV_0100_20150317_005590	Aprendiz da Flurry precisa de mais Variation Mediators para derrotar monstros de forma eficiente. Obtenha Mediador de Variação de monstros próximos.
+QUEST_LV_0100_20150317_005591	Entregue os Variation Mediators da Aprendiz da Flurry
+QUEST_LV_0100_20150317_005592	Coletou todos os Variation Mediators necessários. Entregue-os à Aprendiz da Flurry.
+QUEST_LV_0100_20150317_005593	Aprendiz da Flurry parece ter mais favores a pedir. Fale com ela novamente.
 QUEST_LV_0100_20150317_005594	Derrote monstros e obtenha Hardened Black Crystal
-QUEST_LV_0100_20150317_005595	Maga Peculiar disse para encontrá-la na Machinery Room 1 e trazer o cristal reforçado com você. Obtenha os cristais com os monstros próximos.
-QUEST_LV_0100_20150317_005596	Encontre a Maga Peculiar na frente da Machinery Room 1
-QUEST_LV_0100_20150317_005597	Obteve os cristais reforçados. Encontre-se com Maga Peculiar na Machinery Room 1.
-QUEST_LV_0100_20150317_005598	Encontrou Maga Peculiar perto da Machinery Room. Fale com ela.
+QUEST_LV_0100_20150317_005595	Aprendiz da Flurry disse para encontrá-la na Machinery Room 1 e trazer o cristal reforçado com você. Obtenha os cristais com os monstros próximos.
+QUEST_LV_0100_20150317_005596	Encontre a Aprendiz da Flurry na frente da Machinery Room 1
+QUEST_LV_0100_20150317_005597	Obteve os cristais reforçados. Encontre-se com Aprendiz da Flurry na Machinery Room 1.
+QUEST_LV_0100_20150317_005598	Encontrou Aprendiz da Flurry perto da Machinery Room. Fale com ela.
 QUEST_LV_0100_20150317_005599	Derrote Yonazolem
-QUEST_LV_0100_20150317_005600	Maga Peculiar diz que viu um Yonazolem dentro da Machinery Room. Derrote o Yonazolem enquanto Maga Peculiar bloqueia os monstros na entrada.
-QUEST_LV_0100_20150317_005601	Derrotou Yonazolem. Volte à Maga Peculiar.
+QUEST_LV_0100_20150317_005600	Aprendiz da Flurry diz que viu um Yonazolem dentro da Machinery Room. Derrote o Yonazolem enquanto Aprendiz da Flurry bloqueia os monstros na entrada.
+QUEST_LV_0100_20150317_005601	Derrotou Yonazolem. Volte à Aprendiz da Flurry.
 QUEST_LV_0100_20150317_005602	Há uma Selo de Pedra perto do Dispositivo de Estabilização de Magia. Fale com ela.
 QUEST_LV_0100_20150317_005603	O Selo de Pedra pediu para você derrotar os monstros próximos para que ela possa ser libertada. O que acontecerá quando todas forem liberadas? Primeiro, derrote os monstros como a Pedra pediu.
 QUEST_LV_0100_20150317_005604	Complete o favor para o Selo de Pedra. Liberte a alma.
@@ -5779,13 +5779,13 @@ QUEST_LV_0100_20150317_005778	Traga %s
 QUEST_LV_0100_20150317_005779	Fale com Koven
 QUEST_LV_0100_20150317_005780	Encontre o Baú do Tesouro
 QUEST_LV_0100_20150317_005781	Encontre o Baú do tesouro escondido em algum lugar do Regato de Cristal. Pode ser aberto com a chave que Koven te deu.
-QUEST_LV_0100_20150317_005782	Fale com Maga Peculiar
-QUEST_LV_0100_20150317_005783	Maga Peculiar está surpresa com a sacola cheia de Drake's Horn. Fale com ela.
+QUEST_LV_0100_20150317_005782	Fale com Aprendiz da Flurry
+QUEST_LV_0100_20150317_005783	Aprendiz da Flurry está surpresa com a sacola cheia de Drake's Horn. Fale com ela.
 QUEST_LV_0100_20150317_005784	Faça distintivo de Drake
-QUEST_LV_0100_20150317_005785	Obteve o recibo da Maga Peculiar
+QUEST_LV_0100_20150317_005785	Obteve o recibo da Aprendiz da Flurry
 QUEST_LV_0100_20150317_005786	Chave pode ser usada para criar emblema de Drake
-QUEST_LV_0100_20150317_005787	Confeccionou o emblema de Drake. Fale com Maga Peculiar.
-QUEST_LV_0100_20150317_005788	Faça %s e entregue à Maga Peculiar
+QUEST_LV_0100_20150317_005787	Confeccionou o emblema de Drake. Fale com Aprendiz da Flurry.
+QUEST_LV_0100_20150317_005788	Faça %s e entregue à Aprendiz da Flurry
 QUEST_LV_0100_20150317_005789	Fale com todos os mestres. Fale com a Mestre Thaumaturge em Fedimian.
 QUEST_LV_0100_20150317_005790	Encontre os Magos na Mage Tower.
 QUEST_LV_0100_20150317_005791	A Mestre Thaumaturge sugeriu uma aposta. Você precisa encontrar todos os magos na Mage Tower, e resolver os enigmas que eles propõem.
@@ -6837,9 +6837,9 @@ QUEST_LV_0100_20150428_006836	Obteve a Seal Stone's Voice derrotando Armas
 QUEST_LV_0100_20150428_006837	O Selo de Pedra disse que seu outro espírito perdeu sua voz e quer que você a resgate. Recupere as Vozes da Selo de Pedra de Armas.
 QUEST_LV_0100_20150428_006838	Derrote Gray Golem
 QUEST_LV_0100_20150428_006839	Como uma escrivaninha suspeita lhe disse, o Gray Golem está perseguindo você. Será melhor derrotar o Gray Golem primeiro.
-QUEST_LV_0100_20150428_006840	Maga Peculiar disse para encontrá-la na 1st Machinery Room e pediu para você trazer Hardened Black Crystals. Obtenha os Hardened Black Crystals com os monstros próximos.
-QUEST_LV_0100_20150428_006841	Encontre a Maga Peculiar na frente da 1a Machinery Room
-QUEST_LV_0100_20150428_006842	Você obteve os Black Crystals. Encontre Maga Peculiar na 1st Machinery Room.
+QUEST_LV_0100_20150428_006840	Aprendiz da Flurry disse para encontrá-la na 1st Machinery Room e pediu para você trazer Hardened Black Crystals. Obtenha os Hardened Black Crystals com os monstros próximos.
+QUEST_LV_0100_20150428_006841	Encontre a Aprendiz da Flurry na frente da 1a Machinery Room
+QUEST_LV_0100_20150428_006842	Você obteve os Black Crystals. Encontre Aprendiz da Flurry na 1st Machinery Room.
 QUEST_LV_0100_20150428_006843	A Stone Whale que estava protegendo Hauberk acordou. Derrote a Stone Whale que está em posse da alma.
 QUEST_LV_0100_20150428_006844	Vigia Basil disse que os Panto Wizards na Valio Mountain Cottage Cabin estão procurando pela corda necessária para restaurar a Shaman Doll. Ele disse que, caso palavras não sejam suficientes, é melhor usar força.
 QUEST_LV_0100_20150428_006845	Obtenha %s derrotando Panto Wizards
@@ -11751,7 +11751,7 @@ QUEST_LV_0100_20151224_011750	Conseguiu encontrar?{nl}
 QUEST_LV_0100_20151224_011751	Se o relatório encontrado estiver correto,{nl}logo não precisaremos mais nos preocupar com a vegetação gigante.{nl}Vamos seguir até o Mosteiro Novaha então!
 QUEST_LV_0100_20151224_011752	A segurança é muito rigorosa...{nl}Os demônios estão guardando a entrada do Mosteiro Novaha.{nl}
 QUEST_LV_0100_20151224_011753	Meu irmão e os outros moradores da vila...{nl}Eles vão ficar bem, não vão?{nl}Por favor, tente não causar muito tumulto...
-QUEST_LV_0100_20151224_011754	You need to be as quiet as possible.{nl}
+QUEST_LV_0100_20151224_011754	Você precisa ser o mais silencioso possível.{nl}
 QUEST_LV_0100_20151224_011755	Tenho certeza que meu irmão e os demais estão bem,{nl}afinal parece que eles não servem o propósito por enquanto...{nl}Mas tudo pode ir por água abaixo se não tivermos cuidado.
 QUEST_LV_0100_20151224_011756	Você está bem?{nl}Suas habilidades são muito incríveis!{nl}
 QUEST_LV_0100_20151224_011757	Vamos entrar no Mosteiro Novaha então.{nl}Oh Deusa... Faça com que estejam bem...
@@ -12031,7 +12031,7 @@ QUEST_LV_0100_20151224_012030	Ainda assim... Não podemos parar aqui.{nl}Vou faz
 QUEST_LV_0100_20151224_012031	Entregue esta carta com o plano do Ignas para Irmantas.{nl}
 QUEST_LV_0100_20151224_012032	Eu vou levar adiante a tarefa da Alina,{nl}de informar e levar adiante o desejo de Lydia Schaffen.{nl}Vou sobreviver e alcançar Orsha, custe o que custar!{nl}
 QUEST_LV_0100_20151224_012033	Eu... Gostaria de agradecer por nos proteger até o fim.{nl}Tenho certeza que Alina e Lydia Schaffen também gostaria.
-QUEST_LV_0100_20151224_012034	This should be enough...{nl}Now I will take back my shattered soul!
+QUEST_LV_0100_20151224_012034	Isto deve ser o suficiente...{nl}Agora eu terei de volta meu espírito destruído!
 QUEST_LV_0100_20151224_012035	Agatas honrou o lado dele do contrato.{nl}Agora vou deixá-lo e iniciar uma jornada de vingança.{nl}
 QUEST_LV_0100_20151224_012036	Colocou a poção de separação de espírito no bolso de Agatas.
 QUEST_LV_0100_20151224_012037	Eu não sei onde ele pode estar.{nl}Acho que Brophen deve ter ido com ele para Malkos Felled Area. Quem sabe?{nl}
@@ -12666,9 +12666,9 @@ QUEST_LV_0100_20151224_012665	Sinto muito.{nl}Não posso anunciar que demônios 
 QUEST_LV_0100_20151224_012666	Agradeço mais uma vez, agora como Lorde de Orsha, pelo que você fez.{nl}O Bispo Urbonas está esperando por você.
 QUEST_LV_0100_20151224_012667	Olá! Momento impecável!{nl}Acabei de finalizar a interpretação das Ordens Demoníacas.{nl}
 QUEST_LV_0100_20151224_012668	Podem haver partes que não são precisa, mas...{nl}Me permita expor com um pouco de tradução livre.{nl}
-QUEST_LV_0100_20151224_012669	You may leave the human lord alone since we have obtained the holy power we were after.{nl}Miss Giltine wants more tangible results.{nl}
-QUEST_LV_0100_20151224_012670	Deploy the Kruvina in the predetermined reservoir and execute the spore plan.{nl}Death will engulf this world.{nl}
-QUEST_LV_0100_20151224_012671	P.S. Miss Giltine has ordered the annihilation of the Revelator.{nl}You must get rid of the Revelator before they meet the girl.{nl}
+QUEST_LV_0100_20151224_012669	Deixe a Lorde humana de lado, pois obtemos o poder divino que buscamos.{nl}Miss Giltine deseja resultados mais tangíveis.{nl}
+QUEST_LV_0100_20151224_012670	Instale a Kruvina no reservatório predeterminado{nl}e execute o plano dos esporos.{nl}Morte irá engolir este mundo.{nl}
+QUEST_LV_0100_20151224_012671	OBS.: Miss Giltine ordenou a aniquilação do Revelador.{nl}Você precisa se livrar dele antes que encontre a garota."{nl}
 QUEST_LV_0100_20151224_012672	Isso é tudo.{nl}O conteúdo é tão forte que penso se traduzi corretamente...{nl}
 QUEST_LV_0100_20151224_012673	Vou entregar esta informação para a Lorde...{nl}Isso tudo é muito frustrante,{nl}pois mal podemos proteger Orsha,{nl}quem dirá enviar grupos investigativos.{nl}
 QUEST_LV_0100_20151224_012674	E o que será que essa tal de 'Kruvina'...{nl}Não achei nada mencionado em nenhum documento mais antigo.{nl}
@@ -12725,7 +12725,7 @@ QUEST_LV_0100_20151224_012724	Derrotar Woodins em Paupys Crossing, para você,{n
 QUEST_LV_0100_20151224_012725	Nem é um teste tão difícil assim.{nl}Se você tiver noção da sua própria força, claro.
 QUEST_LV_0100_20151224_012726	Você não parece ser alguém que irá manchar o nome dos Higlanders.{nl}O meu pai, também um Highlander, também diria isso.
 QUEST_LV_0100_20151224_012727	Eu, através do meu Mestre, ensinarei a você o caminho do Highlander.
-QUEST_LV_0100_20151224_012728	Do you desire to become a Peltasta?{nl}You made a wise choice.
+QUEST_LV_0100_20151224_012728	Você deseja se tornar um Peltasta?{nl}Você fez uma boa escolha.
 QUEST_LV_0100_20151224_012729	Nós, Peltastas, devemos saber como utilizar nossos escudos,{nl}para propriamente afastar os inimigos.{nl}Sendo assim, um entendimento básico de um escudo é pré-requisito.
 QUEST_LV_0100_20151224_012730	Quero que você me consiga alguns materiais para fazer um escudo.{nl}Se conseguir fazer isso, considerarei você habilitado para ser um Peltasta.
 QUEST_LV_0100_20151224_012731	Derrote Pokuborns, em Woods of the Linked Bridges, e traga Pokuborn Tusks.{nl}Ah, e mais uma coisa...{nl}
@@ -12753,7 +12753,7 @@ QUEST_LV_0100_20151224_012752	Muito bem. Aceito isso como um sim.{nl}Vá até Da
 QUEST_LV_0100_20151224_012753	Dez Gosarus deve bastar.
 QUEST_LV_0100_20151224_012754	Você tem palavra e cumpre que diz.{nl}Eu, através do meu Mestre, ensinarei todas as habilidades de um Swordsman.
 QUEST_LV_0100_20151224_012755	Quero ver o quanto você se dedicou como Highlander.{nl}Os Gosarus em Dadan Jungle serão um bom medidor.{nl}
-QUEST_LV_0100_20151224_012756	Training comes later.
+QUEST_LV_0100_20151224_012756	Treinamento vem depois.
 QUEST_LV_0100_20151224_012757	O objetivo é simples.{nl}Derrote os Gosarus, em Dadan Jungle.
 QUEST_LV_0100_20151224_012758	Incrível!{nl}Manterei a minha promessa e ensinarei técnicas avançadas dos Highlanders.
 QUEST_LV_0100_20151224_012759	Antes de começarmos,{nl}é melhor testar se você conseguirá avançar no treino ou não.{nl}
@@ -12905,7 +12905,7 @@ QUEST_LV_0100_20151224_012904	Você é um Revelador também?{nl}Hmm... Se isso �
 QUEST_LV_0100_20151224_012905	Nos reunímos aqui para impedir Delmore Rephaim, o Lorde do Castelo Delmore.{nl}Ele está tentando criar mais uma Kruvina.{nl}
 QUEST_LV_0100_20151224_012906	Ah, você já sabe sobre a Kruvina?{nl}O plano dos demônios de usar esporos mortíferos para invadir Orsha...{nl}
 QUEST_LV_0100_20151224_012907	A Kruvina feita por Delmore Rephaim está no centro deste plano...{nl}Ela pode acabar com um tremendo poder, dependendo de como for usada.{nl}
-QUEST_LV_0100_20151224_012908	Delmore Rephaim was once a revered lord and established alchemist...{nl}But he touched upon forbidden alchemy by conspiring with the demons. {nl}
+QUEST_LV_0100_20151224_012908	Delmore Rephaim foi um Lorde reverenciado e Alchemist estabilizado...{nl}Mas ele encontrou um processo alquímico proibido, conspirando com os demônios.{nl}
 QUEST_LV_0100_20151224_012909	É aqui que o ápice da magia demoníaca e tecnologia humana foi criado.{nl}Essa criação é chamada de Kruvina.
 QUEST_LV_0100_20151224_012910	Eu já fui um mago a serviço de Delmore Rephaim.{nl}Mas eu fugi após ver ele criando a Kruvina,{nl}o que simplesmente me fez muito mal.{nl}
 QUEST_LV_0100_20151224_012911	Eu deveria ter impedido a criação...{nl}Mas eu fui muito covarde naquele momento.{nl}Delmore Rephaim está tentando criar aquela Kruvina mais uma vez.{nl}
@@ -13861,7 +13861,7 @@ QUEST_LV_0100_20151224_013860	Você removeu toda a energia maligna. Retorne para
 QUEST_LV_0100_20151224_013861	Você removeu toda a energia maligna. Fale com Mardas sobre o que fazer agora.
 QUEST_LV_0100_20151224_013862	Remova o Círculo Mágico da Esfera de Vigilância
 QUEST_LV_0100_20151224_013863	Mardas disse que você precisa remover o círculo mágico que mantém as Esferas de Vigilância para acessar a energia escura que absorve a energia da própria floresta. Evite as Esferas de Vigilância e destrua o círculo mágico.
-QUEST_LV_0100_20151224_013864	Remove the Black Energy
+QUEST_LV_0100_20151224_013864	Remova a Energia Escura
 QUEST_LV_0100_20151224_013865	No final da bifurcação de Senyvas Yard, remova a energia negra que aborve a energia da própria floresta.
 QUEST_LV_0100_20151224_013866	A energia negra foi removida. Avise Mardas sobre isso.
 QUEST_LV_0100_20151224_013867	Remova todos os círculos mágicos protegento a Soul Starvation
@@ -14067,7 +14067,7 @@ QUEST_LV_0100_20151224_014066	Volte para a Rose e entregue o diário
 QUEST_LV_0100_20151224_014067	Salve a Vendedora Ambulante Rose
 QUEST_LV_0100_20151224_014068	Rose foi capturada por demônios e um Wizard desconhecido. Salve a Rose.
 QUEST_LV_0100_20151224_014069	Você salvou a Rose.
-QUEST_LV_0100_20151224_014070	Defeat the demons that tried to kidnap Rose
+QUEST_LV_0100_20151224_014070	Derrote os demônios que tentaram sequestrar a Rose
 QUEST_LV_0100_20151224_014071	Vendedora Ambulante Rose parece estar bem. Fale com ela para definir o que fazer agora.
 QUEST_LV_0100_20151224_014072	Encontre a Fonte de Energia e remova-a
 QUEST_LV_0100_20151224_014073	É preciso desativar o aparelho que dá energia para o aparelho da vegetação gigante. Use os monstros para parar os círculos mágicos de congelamento e remova as fontes de energia.
@@ -15421,8 +15421,8 @@ QUEST_LV_0100_20160718_015420	Priest Gelija está esperando ajuda na Ashaq Under
 QUEST_LV_0100_20160718_015421	Priest Gelija pediu que você remover os Varvs que aterrorizam os Priests na prisão. A maioria está na Felon Prison.
 QUEST_LV_0100_20160718_015422	Você removeu uma boa quantidade de Varvs. Fale com Gelija.
 QUEST_LV_0100_20160718_015423	Uma vendedora ambulante está esperando ajuda em Koru Jungle.
-QUEST_LV_0100_20160718_015424	Entregue o Blue Coral para a Mercadora
-QUEST_LV_0100_20160718_015425	Você obteve Blue Corals suficientes. Leve-os para a Mercadora.
+QUEST_LV_0100_20160718_015424	Entregue o Coral Azul para a Mercadora
+QUEST_LV_0100_20160718_015425	Você obteve Corais Azuis suficientes. Leve-os para a Mercadora.
 QUEST_LV_0100_20160718_015426	Seguidor Vaidutis, no térreo da Tenet Church, está esperando por ajuda.
 QUEST_LV_0100_20160718_015427	Obtena Orb Crystals
 QUEST_LV_0100_20160718_015428	Seguidor Vaidutis pediu para coletar Orb Crystals para poder criar uma Holy Stone e completar a missão. Você encontrará Orb Crystals próximo da Worship Anteroom e na Nuosirdum Chapel.
@@ -15616,11 +15616,11 @@ QUEST_LV_0100_20160718_015615	Fale com o Loremaster Daroul
 QUEST_LV_0100_20160718_015616	Loremaster Daroul está te agradecendo. Pergunte o que aconteceu.
 QUEST_LV_0100_20160718_015617	Ajude o Loremaster Daroul contra os monstros que estão atacando.
 QUEST_LV_0100_20160718_015618	Loremaster Daroul está buscando uma maneira de contactar a Deusa Jurate. Fale com Daroul novamente.
-QUEST_LV_0100_20160718_015619	Obtena Blue Coral
-QUEST_LV_0100_20160718_015620	Loremaster Daroul quer criar algo para oferecer à Deusa Jurate. Ele pediu para você ajudar a coletar mais Blue Coral, pois não possui o suficiente para terminar o produto.
-QUEST_LV_0100_20160718_015621	Leve o Blue Coral para o Loremaster Daroul
-QUEST_LV_0100_20160718_015622	Você obteve Blue Coral suficiente. Entregue o material para o Loremaster Daroul.
-QUEST_LV_0100_20160718_015623	Loremaster Daroul está satisfeito com o Blue Coral coletado. Pergunte à ele o que fazer agora.
+QUEST_LV_0100_20160718_015619	Obtenha Coral Azul
+QUEST_LV_0100_20160718_015620	Loremaster Daroul quer criar algo para oferecer à Deusa Jurate. Ele pediu para você ajudar a coletar mais Coral Azul, pois não possui o suficiente para terminar o produto.
+QUEST_LV_0100_20160718_015621	Leve o Coral Azul para o Loremaster Daroul
+QUEST_LV_0100_20160718_015622	Você obteve Coral Azul suficiente. Entregue o material para o Loremaster Daroul.
+QUEST_LV_0100_20160718_015623	Loremaster Daroul está satisfeito com o Coral Azul coletado. Pergunte à ele o que fazer agora.
 QUEST_LV_0100_20160718_015624	Fale com o Loremaster Daroul.
 QUEST_LV_0100_20160718_015625	Loremaster Daroul disse que sua colega encontrou um bom logal para um altar. Siga o Loremaster Daroul.
 QUEST_LV_0100_20160718_015626	Fale com a Loremaster Verta
@@ -15634,11 +15634,11 @@ QUEST_LV_0100_20160718_015633	Eles disseram que o Crabil foi atraído pela energ
 QUEST_LV_0100_20160718_015634	Você derrotou o Crabil. Fale com a Loremaster Verta.
 QUEST_LV_0100_20160718_015635	Proteja o Loremaster e derrote %s.
 QUEST_LV_0100_20160718_015636	Loremaster Daroul parece estar em perigo. Pergunte o que aconteceu.
-QUEST_LV_0100_20160718_015637	Loremaster Daroul disse que as oeferentas que foram colocadas no altar foram destruídas por causa do Crabil. Ele pediu para você coletar mais Blue Coral e levá-los para Joana, Mercadora de Acessórios em Fedimian.
+QUEST_LV_0100_20160718_015637	Loremaster Daroul disse que as oeferentas que foram colocadas no altar foram destruídas por causa do Crabil. Ele pediu para você coletar mais Coral Azul e levá-los para Joana, Mercadora de Acessórios em Fedimian.
 QUEST_LV_0100_20160718_015638	Fale com a Mercadora de Acessórios Joana, em Fedimian
-QUEST_LV_0100_20160718_015639	Loremaster Daroul pediu para você levar o Blue Coral para que a Mercadora de Acessórios Joana, em Fedimian trabalhe eles. Fale com Joana.
+QUEST_LV_0100_20160718_015639	Loremaster Daroul pediu para você levar o Coral Azul para que a Mercadora de Acessórios Joana, em Fedimian trabalhe eles. Fale com Joana.
 QUEST_LV_0100_20160718_015640	Fale com a Mercadora de Acessórios Joana
-QUEST_LV_0100_20160718_015641	Você pediu para a Mercadora de Acessórios Joanna processasse o Blue Coral. Parece que ela também tem um pedido.
+QUEST_LV_0100_20160718_015641	Você pediu para a Mercadora de Acessórios Joanna processasse o Coral Azul. Parece que ela também tem um pedido.
 QUEST_LV_0100_20160718_015642	Colete Whole Shell, dos Gab Crabs, em Kranta Skerries
 QUEST_LV_0100_20160718_015643	Joana pediu para você coletar Whole Gap Crab Shell como pagamento pelos serviços. Obtenha este item em Igti Coast.
 QUEST_LV_0100_20160718_015644	Entregue o material para a Mercadora de Acessórios Joana
@@ -16598,80 +16598,80 @@ QUEST_LV_0100_20161005_016597	As Kupoles Lina e Aeglei querem mais um material p
 QUEST_LV_0100_20161005_016598	Colete Pó Cintilante
 QUEST_LV_0100_20161005_016599	Kupoles Lina e Aeglei precisam de pó cintilante para completar a esfera mágica. Colete isto para a Kupole Aeglei.
 QUEST_LV_0100_20161005_016600	Você obteve o pó cintilante, conforme pedido pelas Kupoles Lina e Aeglei.
-QUEST_LV_0100_20161214_016601	Thank you for helping out. {nl}You've reduced my workload quite a bit.
-QUEST_LV_0100_20161214_016602	Ah, it won't be effective to ones who have already been blessed, so please keep that in mind.{nl}Ashaq Underground Prison and Crystal Mine are included, too.
-QUEST_LV_0100_20161214_016603	I heard you defeated Ebonypawn.{nl}I'm sorry you had to do something that should be my responsibility, I'm not quite sure how to feel about it.
-QUEST_LV_0100_20161214_016604	{nl}In any case, thank you.
-QUEST_LV_0100_20161214_016605	Was the Formine Armor useful?{nl}Actually, the Formine Armor was originally made for me by Mr. Juan over there.
-QUEST_LV_0100_20161214_016606	{nl}He made them for free, although he did complain about the materials.{nl}Still, Mr. Juan wanted to get all the materials himself then give away the finished armors.
-QUEST_LV_0100_20161214_016607	{nl}But Mr. Juan isn't so young anymore... He fell ill trying to make all those armors and had to stop.{nl}Then... he left me with the armors and passed away.
-QUEST_LV_0100_20161214_016608	The records you are holding at the moment.{nl}Let me have alook.
-QUEST_LV_0100_20161214_016609	{nl}The Namu Temple Ruins...this record was there, you say?{nl}This information is much more valuable than we thought.
-QUEST_LV_0100_20161214_016610	{nl}This warrants further investigation. Until then I cannot say much.
-QUEST_LV_0100_20161214_016611	{nl}I will hold my silence until we have certainty.
-QUEST_LV_0100_20161214_016612	The tombstone is up. Now to write a few words of praise to the victims.
+QUEST_LV_0100_20161214_016601	Agradeço muito pela ajuda!{nl}Diminuiu um monte o meu trabalho.
+QUEST_LV_0100_20161214_016602	Ah, não terá efeito em quem já foi abençoado, lembre-se disso.{nl}Ashaq Underground Prison e Crystal Mine também contam.
+QUEST_LV_0100_20161214_016603	Ouvi que você derrotou o Ebonyphon.{nl}Sinto muito por você ter feito algo que é minha responsabilidade,{nl}não sei ao certo como reagir a isso.
+QUEST_LV_0100_20161214_016604	{nl}De qualquer forma, agradeço muito.
+QUEST_LV_0100_20161214_016605	A Formine Armor foi útil?{nl}Na verdade, ela foi feita originalmente pelo Sr. Juan para mim.
+QUEST_LV_0100_20161214_016606	{nl}Ele fez ela de graça, apesar de eu ter ido atrás dos materiais.{nl}Mesmo assim, o Sr. Juan queria ter ele mesmo coletado todos os materiais.
+QUEST_LV_0100_20161214_016607	{nl}Mas o Sr. Juan não é mais alguém tão novo assim...{nl}Ele passou mal fazendo todas estas armaduras e teve que parar.{nl}Então... Ele me deu as armaduras e acabou falecendo.
+QUEST_LV_0100_20161214_016608	Os registros que você está carregando.{nl}Deixe-me dar uma olhada neles.
+QUEST_LV_0100_20161214_016609	{nl}Namu Temple Ruins...este registro estava ali, você disse?{nl}Esta informação é mais valiosa do que pensamos.
+QUEST_LV_0100_20161214_016610	{nl}Isso merece mais investigação. Até lá, não tenho muito a dizer.
+QUEST_LV_0100_20161214_016611	{nl}Vou me manter em silêncio até ter certeza.
+QUEST_LV_0100_20161214_016612	A lápide está posta.{nl}Só falta escrever umas palavras em honra às vítimas.
 QUEST_LV_0100_20161214_016613	Os monstros continuam aparecendo.{nl}Mesmo que derrotemos milhares, será que diminuiria mesmo os números?
 QUEST_LV_0100_20161214_016614	{nl}De qualquer forma, não temos o poder militar para resolver isso em Orsha...
-QUEST_LV_0100_20161214_016615	My friends and I made friendship badges.{nl}We were at the Pelke Shrine Ruins with the badges when a huge monster appeared, so we ran away.
-QUEST_LV_0100_20161214_016616	We lost some of the badges while we were running away.{nl}I wanted to go find them, but I'm scared of the monsters so I gave up.
-QUEST_LV_0100_20161214_016617	In hard times, it's only natural to miss those dear to you...{nl}Justina must miss her family a lot...
-QUEST_LV_0100_20161214_016618	So it's true, flower branches really are mesmerizing.{nl}They're definitely different from any accessory I've ever seen.
-QUEST_LV_0100_20161214_016619	{nl}It's the first time I see an accessory so beautiful but mysterious at the same time.{nl}If you don't mind, may I look at them for a little longer?
-QUEST_LV_0100_20161214_016620	Thank you for letting me have another look at them.
-QUEST_LV_0100_20161214_016621	They truly are ethereal.{nl}To think a simple couple of branches and flowers could be so fascinating...
-QUEST_LV_0100_20161214_016622	The people of our village must be worried for us, still living here at the Mosteiro Novaha.{nl}Especially Anne, who was always with me... She must be so worried...
-QUEST_LV_0100_20161214_016623	Rose is writing a letter.
-QUEST_LV_0100_20161214_016624	I need to write Anne a letter.{nl}Please wait.
-QUEST_LV_0100_20161214_016625	Anne is writing a letter to Rose and her brother.
-QUEST_LV_0100_20161214_016626	Here.{nl}Please deliver this letter to Anne.
-QUEST_LV_0100_20161214_016627	I'm glad to hear Rose and Edmundas are okay.{nl}When Edmundas was taken by the demons, I really...
-QUEST_LV_0100_20161214_016628	{nl}I should write back to Rose and Edmundas.{nl}Just a moment.
+QUEST_LV_0100_20161214_016615	Eu e os meus amigos fizemos insígnias de amizade.{nl}Estávamos nas Pelke Shrine Ruins com elas quando um monstrão apareceu,{nl}então acabamos fugindo.
+QUEST_LV_0100_20161214_016616	Perdemos algumas delas enquanto corríamos.{nl}Queria ir procurar por elas, mas estou com medo do monstro.
+QUEST_LV_0100_20161214_016617	Em épocas difícieis, é natural sentir falta de quem é importante...{nl}Justina deve sentir muita falta da família dela...
+QUEST_LV_0100_20161214_016618	Então é verdade, ramos de flores são maravilhosos.{nl}São definitivamente diferentes de qualquer acessório que já vi.
+QUEST_LV_0100_20161214_016619	{nl}É a primeira vez que vejo um acessório tão lindo e misterioso.{nl}Se você não se importa, posso dar uma olhadinha?
+QUEST_LV_0100_20161214_016620	Agradeço por deixar eu olhar mais de perto.
+QUEST_LV_0100_20161214_016621	São mesmo incríveis.{nl}E pensar que algo tão simples pode ser tão fascinante...
+QUEST_LV_0100_20161214_016622	As pessoas da nossa vila devem estar preocupados conosco...{nl}Ainda vivendo aqui no Mosteiro Novaha.{nl}Principalmente a Anne, que andava sempre comigo... Ela deve estar preocupada...
+QUEST_LV_0100_20161214_016623	Rose está escrevendo uma carta.
+QUEST_LV_0100_20161214_016624	Preciso escrever uma carta para a Anne.{nl}Por favor, aguarde.
+QUEST_LV_0100_20161214_016625	Anne está escrevendo uma carta para Rose e seu irmão.
+QUEST_LV_0100_20161214_016626	Aqui está.{nl}Por favor, entregue esta carta para a Anne.
+QUEST_LV_0100_20161214_016627	Fico feliz em ouvir que a Rose e o Edmundas estão bem.{nl}Quando o Edmundas foi levado pelos demônios, eu...
+QUEST_LV_0100_20161214_016628	{nl}É melhor eu escrever uma resposta para eles.{nl}Só um momento.
 QUEST_LV_0100_20161214_016629	Anne is very kind and thoughtful, I'm sure she's even more worried about us.
-QUEST_LV_0100_20161214_016630	Please take this letter to Rose.
-QUEST_LV_0100_20161214_016631	Anne has a crush on someone!{nl}Wow, to think the little girl I knew now likes someone...
-QUEST_LV_0100_20161214_016632	{nl}As a big sister, I should hear her out and comfort her but...{nl}At least I now know how she is doing.
-QUEST_LV_0100_20161214_016633	And please don't read the letter on your way there.
-QUEST_LV_0100_20161214_016634	That sword pell... It was hard enough to make, I can't afford to lose it.{nl}I've been so busy lately I don't even know if I would have time to make another one.
-QUEST_LV_0100_20161214_016635	It does look broken beyond repair though.{nl}I think I really need a new one.
-QUEST_LV_0100_20161214_016636	{nl}I'm going to give you the tools to make the pell, so you can gather the materials and make a new one.
-QUEST_LV_0100_20161214_016637	I know it's a pell meant for training, but try not to hit it too hard.
-QUEST_LV_0100_20161214_016638	Your companion has grown a lot, I see.{nl}It's almost like family now, huh?
-QUEST_LV_0100_20161214_016639	Sometimes it's good to make food for your companion, you know.{nl}It'll be more loyal to you if you feed it something your made yourself.
-QUEST_LV_0100_20161214_016640	Do you wanna try and make some food for your companion?
-QUEST_LV_0100_20161214_016641	I assume it's your first time making food for your companion, so I'll give you a bag with the cooking tools.{nl}There's a recipe and a few ingredients. Should be enough.{nl}
-QUEST_LV_0100_20161214_016642	Oh, right. I don't think there's any Raffly Leaves or Ellogua Flower Wine in there.{nl}You'll have to get those yourself.
-QUEST_LV_0100_20161214_016643	So? Does your companion like the food?{nl}I bet it does, you made it yourself after all.
-QUEST_LV_0100_20161214_016644	Revelator, so nice to see you again!
-QUEST_LV_0100_20161214_016645	What have you been doing? I can't wait to know...{nl}Come on, tell me all about your new adventures!
-QUEST_LV_0100_20161214_016646	Mihail looks filled with expectation.
-QUEST_LV_0100_20161214_016647	Last time someone broke this sword pell. I did make a new one but...
-QUEST_LV_0100_20161214_016648	You've had an audience with Goddess Gabija in Mage Tower and Goddess Vakarine in the Demon Prison?{nl}My word...{nl}
-QUEST_LV_0100_20161214_016649	I'm glad to hear the goddesses are safe.
-QUEST_LV_0100_20161214_016650	Did you defeat 1000 monsters?{nl}Their numbers seem to have reduced a little, but they're still many.{nl}
-QUEST_LV_0100_20161214_016651	I should send a report to Orsha.{nl}I'll collect some more information. 
-QUEST_LV_0100_20161214_016652	{nl}Would you be so kind as to deliver the report to Orsha for me?
-QUEST_LV_0100_20161214_016653	This report...?{nl}It was sent by the agent in Woods of the Linked Bridges.{nl}
+QUEST_LV_0100_20161214_016630	Por favor, leve esta carta para a Rose.
+QUEST_LV_0100_20161214_016631	Anne está apaixonada por alguém!{nl}Uau, e pensar que a garotinha que eu conhecia está gostando de alguém...
+QUEST_LV_0100_20161214_016632	{nl}Como uma irmã mais velha, eu deveria ouvir e aconselhar, mas...{nl}Pelo menos eu sei o que ela está fazendo.
+QUEST_LV_0100_20161214_016633	Por favor, não leia a carta no caminho até lá.
+QUEST_LV_0100_20161214_016634	O boneco de treino...{nl}Foi bem difícil de fazer, não posso perdê-lo.{nl}Ultimamente tem sido uma correria, não sei se conseguiria fazer outro.
+QUEST_LV_0100_20161214_016635	Mas parece que está quebrado de uma forma que não tem conserto...{nl}Acho que preciso de um novo mesmo.
+QUEST_LV_0100_20161214_016636	{nl}Vou te dar as ferramentas para fazer um novo,{nl}aí você só precisa pegar os materiais pra fazer ele.
+QUEST_LV_0100_20161214_016637	Sei que é um boneco feito para treinar,{nl}mas tente nao acertá-lo com tanta força.
+QUEST_LV_0100_20161214_016638	Vejo que o seu Mascote já cresceu um monte.{nl}Já é parte da família, não?
+QUEST_LV_0100_20161214_016639	Sabe, às vezes é bom fazer comida pro seu Mascote.{nl}Ele ficará mais leal se alimentá-lo com algo feito por você mesmo.
+QUEST_LV_0100_20161214_016640	Quer tentar fazer um pouco de comida pro seu Mascote?
+QUEST_LV_0100_20161214_016641	Presumo que seja a primeira fez que você faz isso,{nl}então vou te dar uma sacola com ferramentas de cozinha.{nl}Tem uma receita e alguns ingredientes também. Deve ser o suficiente.{nl}
+QUEST_LV_0100_20161214_016642	Ah, certo.{nl}Não deve ter nenhuma Raffly Leaves ou Ellogua Flower Wine aí.{nl}Você vai ter que ir atrás desses ingredientes.
+QUEST_LV_0100_20161214_016643	E então? O seu Mascote gostou da comida?{nl}Aposto que sim, você mesmo que preparou.
+QUEST_LV_0100_20161214_016644	Revelador! Que bom ver você novamente!
+QUEST_LV_0100_20161214_016645	O que você esteve fazendo?{nl}Mal posso esperar pra ouvir...{nl}Qual é, me conta sobre as suas aventuras!
+QUEST_LV_0100_20161214_016646	Mihail parece cheio de expectativas.
+QUEST_LV_0100_20161214_016647	Da última vez que alguém quebrou este boneco de treino,{nl}eu acabei fazendo um novo, mas...
+QUEST_LV_0100_20161214_016648	Você se encontrou com a Deusa Gabija na Mage Tower{nl}e com a Deusa Vakarine dentro da Demon Prison?{nl}Minha nossa...{nl}
+QUEST_LV_0100_20161214_016649	Fico feliz em saber que as Deusas estão bem.
+QUEST_LV_0100_20161214_016650	Você derrotou 1.000 monstros?{nl}O volume parece ter diminuído mesmo, mas ainda há muitos por aí.{nl}
+QUEST_LV_0100_20161214_016651	Eu devo enviar um relatório para Orsha.{nl}Vou coletar mais informações.
+QUEST_LV_0100_20161214_016652	{nl}Poderia fazer a gentileza de entregar o relatório em Orsha por mim?
+QUEST_LV_0100_20161214_016653	Este relatório...?{nl}Foi enviado pelo agente nas Woods of the Linked Bridges.{nl}
 QUEST_LV_0100_20161214_016654	Irei lê-lo agora.
 QUEST_LV_0100_20161214_016655	A Lorde de Orsha está lendo o relatório.
-QUEST_LV_0100_20161214_016656	It seems eliminating even 1000 monsters didn't too much to reduce their numbers...{nl}We need to find a solution to protect the areas around Orsha from the monsters.
-QUEST_LV_0100_20161214_016657	Lost Spirit
-QUEST_LV_0100_20161214_016658	My ring... The ring I exchanged with Sarah for our wedding vows...{nl}Thank you for finding it.{nl}
-QUEST_LV_0100_20161214_016659	I can go in peace now.{nl}But, where do I go...?
-QUEST_LV_0100_20161214_016660	Oh, if you guide me to the Owl Statue, I'll gladly follow.
-QUEST_LV_0100_20161214_016661	Some spirits are still attached to a lost object and end up staying behind.{nl}They'll linger behind until their belongings are found.
-QUEST_LV_0100_20161214_016662	Thanks to you, another wandering spirit is now going home.
-QUEST_LV_0100_20161214_016663	Device Note
-QUEST_LV_0100_20161214_016664	Good find.{nl}You read all my notes, right?
-QUEST_LV_0100_20161214_016665	Put the amount of all the foods we ate in order: that's the code to open the locking device.
-QUEST_LV_0100_20161214_016666	Those are the friendship badges I made with my friends!{nl}We were playing at the Pelke Shrine Ruins when we saw a huge monster and ran away without the badges.
-QUEST_LV_0100_20161214_016667	{nl}I thought I had lost them forever, I'm so glad to have them back.{nl}But I'm afraid some of the badges are still missing; would you please find them for me?
-QUEST_LV_0100_20161214_016668	I don't know what monster it is.{nl}The only thing I can tell you is that it's huge.
-QUEST_LV_0100_20161214_016669	You found them all.{nl}Thank you so much.
+QUEST_LV_0100_20161214_016656	Parece que ter eliminado 1.000 monstros não resolveu muita coisa...{nl}Precisamos achar uma solução para proteger as áreas ao redor de Orsha.
+QUEST_LV_0100_20161214_016657	Espírito Perdido
+QUEST_LV_0100_20161214_016658	Meu anel...{nl}O anel dos votos de casamento com a Sarah...{nl}Obrigado por encontrá-lo.{nl}
+QUEST_LV_0100_20161214_016659	Posso partir em paz.{nl}Mas, para onde eu vou...?
+QUEST_LV_0100_20161214_016660	Ah, se você me levar até a Estátua da Coruja, seguirei com prazer.
+QUEST_LV_0100_20161214_016661	Alguns espíritos ainda estão presos aos pertences e não descansam.{nl}Eles permanecem até que os pertences sejam encontrados.
+QUEST_LV_0100_20161214_016662	Graças à você, outro espírito poderá descansar.
+QUEST_LV_0100_20161214_016663	Nota do Dispositivo
+QUEST_LV_0100_20161214_016664	Muito bom.{nl}Você leu todas as minhas notas, certo?
+QUEST_LV_0100_20161214_016665	Coloque as quantidades do que comemos em ordem:{nl}este é o código para destravar o aparelho.
+QUEST_LV_0100_20161214_016666	Estas são as insígnias de amizade que fiz com meus amigos!{nl}Estávamos brincando em Pelke Shrine Ruins quando um monstrão apareceu!{nl}Aí acabamos fugindo e perdemos as insígnias.
+QUEST_LV_0100_20161214_016667	{nl}Achei que nunca mais iria encontrar, que bom que estão de volta!{nl}Mas acho que algumas ainda estão perdidas...{nl}Poderia tentar encontrar as que faltam?
+QUEST_LV_0100_20161214_016668	Eu não sei qual é o monstro.{nl}Só sei dizer que era enorme!
+QUEST_LV_0100_20161214_016669	Você conseguiu achar tudo!{nl}Nossa, você ajudou muito!
 QUEST_LV_0100_20161214_016670	Espírito de Gintas
-QUEST_LV_0100_20161214_016671	Minha única esperança... ninguém mais será vítima das mentiras da Ordem da Árvore da Verdade de novo.
+QUEST_LV_0100_20161214_016671	Minha única esperança...{nl}Ninguém mais será vítima das mentiras da Ordem da Árvore da Verdade de novo.
 QUEST_LV_0100_20161214_016672	{nl}Eu sei que Margiris estava mantendo uma lista das atividades da Order em algum lugar.{nl}Ache essa lista e entregue ao Mestre Inquisitor, faça com que as pessoas saibam o que houve aqui.
 QUEST_LV_0100_20161214_016673	O Mestre Inquisitor saberá o que fazer.
-QUEST_LV_0100_20161214_016674	Estas são as anotações da Tree of Truth, uma ordem operando em Carlyle's Mausoleum?{nl}Tantos espíritos foram mortos por causa deles...
+QUEST_LV_0100_20161214_016674	Estas são as anotações da Ordem da Árvore da Verdade,{nl}uma ordem operando em Carlyle's Mausoleum?{nl}Tantos espíritos foram mortos por causa deles...
 QUEST_LV_0100_20161214_016675	{nl}Eu preciso garantir que nenhuma vida a mais será sacrificada por essa heresia.{nl}Obrigado pela sua dedicação.
 QUEST_LV_0100_20161214_016676	Os Ferrets já pegaram nossa comida, agora os itens de oferenda da vila...
 QUEST_LV_0100_20161214_016677	Estes Ferrets nojentos roubariam qualquer coisa.{nl}Obrigado por trazer nossos itens de oferenda de volta.
@@ -16737,11 +16737,11 @@ QUEST_LV_0100_20161214_016736	Derrote os Monstros que Atacam a Caverna
 QUEST_LV_0100_20161214_016737	Enquanto a Kupole Medena estava distante, o número de demônios aumentou muito, junto com a tribo Tala. Destrua-os
 QUEST_LV_0100_20161214_016738	Você derrotou os demônios, os Tala e demais monstros, como Medena pediu. Fale com ela.
 QUEST_LV_0100_20161214_016739	Kupole Serija acha que a força constante dos demônios pode comprometer a missão. Antes de achar a Deusa, ela pede que você reduza os números de monstros.
-QUEST_LV_0100_20161214_016740	Fale com Accessory Merchant Jurus
-QUEST_LV_0100_20161214_016741	Accessory Merchant Jurus parece interessado nos sus acessórios. Fale com Accessory Merchant Jurus.
+QUEST_LV_0100_20161214_016740	Fale com Mercador de Acessórios Jurus
+QUEST_LV_0100_20161214_016741	Mercador de Acessórios Jurus parece interessado nos sus acessórios. Fale com Mercador de Acessórios Jurus.
 QUEST_LV_0100_20161214_016742	Mostre o Flower Branch Accessory
-QUEST_LV_0100_20161214_016743	Accessory Merchant Jurus quer analisar melhor o Flower Branch. Mostre o acessório Flower Branch.
-QUEST_LV_0100_20161214_016744	Accessory Merchant Jurus parece estar com inveja do seu Flower Branch. Fale com ele.
+QUEST_LV_0100_20161214_016743	Mercador de Acessórios Jurus quer analisar melhor o Flower Branch. Mostre o acessório Flower Branch.
+QUEST_LV_0100_20161214_016744	Mercador de Acessórios Jurus parece estar com inveja do seu Flower Branch. Fale com ele.
 QUEST_LV_0100_20161214_016745	Fale para Rose que Anne sente sua falta.
 QUEST_LV_0100_20161214_016746	Entregue a Carta de Rose para Anne
 QUEST_LV_0100_20161214_016747	Rose escreveu uma carta para a vila, dizendo para as pessoas como ela está. Entregue a carta para Anne.
@@ -16749,21 +16749,21 @@ QUEST_LV_0100_20161214_016748	Entregue a Carda de Anne para Rose
 QUEST_LV_0100_20161214_016749	Anne escreveu uma carta para Rose falando sobre as pessoas da vila. Entregue a carta para Rose.
 QUEST_LV_0100_20161214_016750	Restaurar o Boneco de Treino
 QUEST_LV_0100_20161214_016751	A Submestre Highlander parece furiosa. Tente descobrir o motivo.
-QUEST_LV_0100_20161214_016752	Colete Materias para o Boneco
+QUEST_LV_0100_20161214_016752	Colete Materiais para o Boneco
 QUEST_LV_0100_20161214_016753	A Submestre Highlander quer que você faça um novo boneco de treino, já que destruiu o anterior. Colete os materiais para o boneco.
 QUEST_LV_0100_20161214_016754	Restaure o Boneco de Treino
 QUEST_LV_0100_20161214_016755	Você tem materiais suficientes. Repare o boneco de treino
 QUEST_LV_0100_20161214_016756	Você tem materiais suficientes. Use as ferramentas para fazer um boneco novo
 QUEST_LV_0100_20161214_016757	Você fez um novo boneco de treino. Fale com a Submestre Highlander
 QUEST_LV_0100_20161214_016758	Meu Amigo Precioso
-QUEST_LV_0100_20161214_016759	Fale com Companion Trader Toras
-QUEST_LV_0100_20161214_016760	Companion Trader Toras parece querer falar com você. Fale com ele.
+QUEST_LV_0100_20161214_016759	Fale com Treinador de Mascotes Toras
+QUEST_LV_0100_20161214_016760	Treinador de Mascotes Toras parece querer falar com você. Fale com ele.
 QUEST_LV_0100_20161214_016761	Colete Ingredientes
-QUEST_LV_0100_20161214_016762	Companion Trader Toras quer que você faça comida para o seu Companion, como símbolo de estima. Colete os ingredientes para fazer o alimento.
-QUEST_LV_0100_20161214_016763	Dê Sua Comida para o Companion
-QUEST_LV_0100_20161214_016764	Você fez a comida para o seu Companion. Alimente-o.
-QUEST_LV_0100_20161214_016765	Você fez a comida para o seu Companion. Alimente um Companion de nível 300 ou mais.
-QUEST_LV_0100_20161214_016766	O Companion adorou sua comida. Fale com o Companion Trader Toras.
+QUEST_LV_0100_20161214_016762	Treinador de Mascotes Toras quer que você faça comida para o seu Mascote, como símbolo de estima. Colete os ingredientes para fazer o alimento.
+QUEST_LV_0100_20161214_016763	Dê Sua Comida para o Mascote
+QUEST_LV_0100_20161214_016764	Você fez a comida para o seu Mascote. Alimente-o.
+QUEST_LV_0100_20161214_016765	Você fez a comida para o seu Mascote. Alimente um Mascote de nível 300 ou mais.
+QUEST_LV_0100_20161214_016766	O Mascote adorou sua comida. Fale com o Treinador de Mascotes Toras.
 QUEST_LV_0100_20161214_016767	Revelador Mihail parece ansioso para te conhecer. Fale com ele.
 QUEST_LV_0100_20161214_016768	Conte para Revelador Mihail suas aventuras
 QUEST_LV_0100_20161214_016769	Revelador Mihail quer saber suas aventuras recentes. Conte-o suas histórias.
@@ -16796,8 +16796,8 @@ QUEST_LV_0100_20161214_016795	Lembrando as Vítimas
 QUEST_LV_0100_20161214_016796	Fale com Rona
 QUEST_LV_0100_20161214_016797	Rona parece atordoada pelos eventos de Mosteiro Novaha, ainda. Fale com ela.
 QUEST_LV_0100_20161214_016798	Faça uma lápide em Novaha Assembly Hall.
-QUEST_LV_0100_20161214_016799	Rona quer erguer uma lápide em Mosteiro Novaha, como um memoria paras as vítimas dos experimentos demoníacos. Infelizmente, ela não pode ir por causa dos monstros. Vá para Mosteiro Novaha e monte o memorial por ela.
-QUEST_LV_0100_20161214_016800	Rona quer erguer uma lápide em Mosteiro Novaha, como um memoria paras as vítimas dos experimentos demoníacos. Infelizmente, ela não pode ir por causa dos monstros. Vá para Mosteiro Novaha e monte o memorial por ela.
+QUEST_LV_0100_20161214_016799	Rona quer erguer uma lápide em Mosteiro Novaha, como um memorial paras as vítimas dos experimentos demoníacos. Infelizmente, ela não pode ir por causa dos monstros. Vá para Mosteiro Novaha e monte o memorial por ela.
+QUEST_LV_0100_20161214_016800	Rona quer erguer uma lápide em Mosteiro Novaha, como um memorial paras as vítimas dos experimentos demoníacos. Infelizmente, ela não pode ir por causa dos monstros. Vá para Mosteiro Novaha e monte o memorial por ela.
 QUEST_LV_0100_20161214_016801	Entalhe uma Mensagem em Honra às Vítimas
 QUEST_LV_0100_20161214_016802	Você ergueu uma lápide. Entalhe a mensagem em honra às vítimas nela.
 QUEST_LV_0100_20161214_016803	Você terminou o memorial e entalhou a mensagem parar as vítimas. Volte para Rona e informe-a.
@@ -16825,7 +16825,7 @@ QUEST_LV_0100_20170313_016824	As pessoas de Nestospa sabem sobre Albinas?{nl}Eu 
 QUEST_LV_0100_20170313_016825	Eu estou furioso e irritado! {nl}Se tivéssemos chegado mais cedo, não teríamos sido totalmente dizimados... {nl}
 QUEST_LV_0100_20170313_016826	Querido Revelador, eu tenho um favor para te pedir. {nl}Você poderia recuperar os itens dos meus companheiros?
 QUEST_LV_0100_20170313_016827	Já é ruim o suficiente eles acabarem mortos pelos Vubbes,{nl}mas até seus pertences estão sendo usados.{nl}Que horrível...
-QUEST_LV_0100_20170313_016828	Meu Deus! Os Vubbes roubaram todo o nosso estoque de comida. {nl}Eles levaram até o que tínhamos para hoje... Por favor, nos ajude! precisamos de sua força!
+QUEST_LV_0100_20170313_016828	Pelas Deusas!{nl}Os Vubbes roubaram todo o nosso estoque de comida.{nl}Eles levaram até o que tínhamos para hoje...{nl}Por favor, nos ajude! Precisamos de sua força!
 QUEST_LV_0100_20170313_016829	Muito obrigado.{nl}Esta quantidade nos ajudará pelos próximos dias, pelo menos.
 QUEST_LV_0100_20170313_016830	Obrigado pela ajuda de antes, mas ainda tem mais itens que precisamos reaver. {nl}Meus companheiros não irão descansar em paz sem eles...{nl}
 QUEST_LV_0100_20170313_016831	Então nos ajude, por favor. {nl}Se você puder recuperar os itens restantes para nós, nós iremos te retribuir.
@@ -16851,14 +16851,14 @@ QUEST_LV_0100_20170313_016850	Nós precisamos conseguir tudo que a direção que
 QUEST_LV_0100_20170313_016851	Nós precisamos conseguir tudo que a direção quer, porém estamos desfalcados.{nl}Ainda temos um bom tempo sobrando até os novatos chegarem.
 QUEST_LV_0100_20170313_016852	As pessoas acham que é por causa que Fedimian está na área divida onde a grande estátua da Deusa Austeja está.{nl}Agora eles estão passando trabalho para reconstruir a cidade.
 QUEST_LV_0100_20170313_016853	As pessoas lá acham que é por causa da estátua da Deusa Zemyna no Distrito Sagrado, não?{nl}De qualquer forma, todo esforço está sendo usado para reconstruir a cidade.
-QUEST_LV_0100_20170313_016854	Você pode acessar a Dungeon através deste Notice Board.{nl}{nl}Dungeons de outras regiões também são acessadas através do Notice Board correspondente.
-QUEST_LV_0100_20170313_016855	{nl}{nl}Para acessar a Dungeon, interaja com este Notice Board mais uma vez.
+QUEST_LV_0100_20170313_016854	Você pode acessar a Dungeon através deste Quadro de Anúncios.{nl}{nl}Dungeons de outras regiões também são acessadas através do Quadro de Anúncios correspondente.
+QUEST_LV_0100_20170313_016855	{nl}{nl}Para acessar a Dungeon, interaja com este Quadro de Anúncios mais uma vez.
 QUEST_LV_0100_20170313_016856	De agora em diante, fale com meus recepcionistas para qualquer missão que você deseja fazer.
 QUEST_LV_0100_20170313_016857	{nl}Para as mais perigosas, é mais seguro ir com outros aventureiros.{nl}Você também pode abandonar a missão se for muito difícil, não se preocupe.
 QUEST_LV_0100_20170313_016858	{nl}As missões de Ramba, especialmente, te darão recompensas bem gordas.{nl}Estas missões são muito populares entre os aventureiros.
 QUEST_LV_0100_20170313_016859	Explicando o acontecido...
 QUEST_LV_0100_20170313_016860	Este portal não está funcionado.
-QUEST_LV_0100_20170313_016861	Obteve a Soul Flower; retorne para o sacerdote.
+QUEST_LV_0100_20170313_016861	Obteve a Soul Flower; retorne para o Priest.
 QUEST_LV_0100_20170313_016862	Remova a magia de protetiva sobre o Amjene Sanctuary
 QUEST_LV_0100_20170313_016863	Vá para a Fonte de Energia Mágica em Ishinti Crossroads
 QUEST_LV_0100_20170313_016864	O caminho das Dungeons cruéis
@@ -16890,9 +16890,9 @@ QUEST_LV_0100_20170313_016889	Agora você pode participar de Dungeons.{nl}Elas e
 QUEST_LV_0100_20170313_016890	na janela de Chat para ver a localização e nível recomendado de todas as Dungeons.{nl}Primeiro, verifique a localização e vá até a Underground Chapel Dungeon.{nl}{nl}Ao chegar, localize o Underground Chapel Dungeon Notice Board.{nl}Você pode acessar a Dungeon ao interagir com este mural.
 QUEST_LV_0100_20170313_016891	Visite o Mercenary Post em Fedimian
 QUEST_LV_0100_20170313_016892	Agora você pode participar de um guia simples sobre o Mercenary Post. {nl} Realize esta missão se você não for familiarizado com o Mercenary Post.
-QUEST_LV_0100_20170313_016893	Agore você pode realizar missões do Mercenary Post, que te ajudarão a evoluir seu personagem rapidamente e receber diferentes recompensas.{nl}{nl} Começe falando com Recepcionist Ramda no Mercenary Post em Fedimian.{nl} Digite
-QUEST_LV_0100_20170313_016894	na janela de Chat para ver a localização e o tipo de missões disponíveis, assim como o número de acessos diários.{nl}{nl}Primeiro, encontre o Mercenary Post em Fedimian e fale com Manager Rota
-QUEST_LV_0100_20170313_016895	na janela de Chat para ver a localização e o tipo de missões disponíveis, assim como o nível recomendado e o número de acessos diários.{nl}{nl}Primeiro, encontre o Mercenary Post em Fedimian e fale com Manager Rota
+QUEST_LV_0100_20170313_016893	Agore você pode realizar missões do Mercenary Post, que te ajudarão a evoluir seu personagem rapidamente e receber diferentes recompensas.{nl}{nl} Começe falando com Recepcionista Ramda no Mercenary Post em Fedimian.{nl} Digite
+QUEST_LV_0100_20170313_016894	na janela de Chat para ver a localização e o tipo de missões disponíveis, assim como o número de acessos diários.{nl}{nl}Primeiro, encontre o Mercenary Post em Fedimian e fale com Gerente Rota
+QUEST_LV_0100_20170313_016895	na janela de Chat para ver a localização e o tipo de missões disponíveis, assim como o nível recomendado e o número de acessos diários.{nl}{nl}Primeiro, encontre o Mercenary Post em Fedimian e fale com Gerente Rota
 QUEST_LV_0100_20170313_016896	Fale com a Mestre Rune Caster sobre as runas que você encontrou em Galeed Plateau.
 QUEST_LV_0100_20170313_016897	A Mestre Rune Caster parece interessada nas runas que você encontrou. Ela quer que você traga uma cópia das runas para que ela possa interpretar.
 QUEST_LV_0100_20170313_016898	Você adquiriu a cópia das runas. Leve-a para a Mestre Rune Caster.
@@ -16916,8 +16916,8 @@ QUEST_LV_0100_20170330_016915	Vá para Klaipeda e fale com o Cavaleiro Comandant
 QUEST_LV_0100_20170330_016916	 - Pressione esta tecla para abrir o mapa e siga a bandeira até Klaipeda.{nl}Cavaleiro Comandante Uska está procurando por pessoas que sonharam com as deusas. Conte-lhe seus sonhos com as Revelações.
 QUEST_LV_0100_20170330_016917	O Mestre Rodelero pediu para você trazer um escudo aprimorado em 4 níveis. Aprimore um escudo que seja reconhecido pelo Mestre Rodelero.
 QUEST_LV_0100_20170330_016918	O Submestre Dievdirbys pediu para você coletar Sparnasman's Horns para usar como material de entalhe. Vá para Novaha Annex e derrote monstros Sparnasman para obter seus chifres.
-QUEST_LV_0100_20170330_016919	Fale com o Treasure Chest Helper
-QUEST_LV_0100_20170330_016920	Fale com o Treasure Chest Helper em Klaipeda, Orsha ou Fedimian.
+QUEST_LV_0100_20170330_016919	Fale com o Ajudante do Baú do Tesouro
+QUEST_LV_0100_20170330_016920	Fale com o Ajudante do Baú do Tesouro em Klaipeda, Orsha ou Fedimian.
 QUEST_LV_0100_20170420_016921	Eu vou achar a chave para abrir o último selo. {nl} Depois de aberto um espaço com esse pergaminho. Tome cuidado, certo? Pode ter outras coisas lá além da chave.
 QUEST_LV_0100_20170420_016922	Vai ser difícil achar essas plantas na subida, mas {nl} eu estou pedindo por três, somente.
 QUEST_LV_0100_20170420_016923	Eu vou pegar três Sweet Herbs no meu caminho. Esse remédio é nojento.
@@ -16933,315 +16933,315 @@ QUEST_LV_0100_20170420_016932	Ahylas disse que precisa que Amalas faça o crista
 QUEST_LV_0100_20170420_016933	Fale com Rota, Gerente do Mercenary Post de Klaipeda
 QUEST_LV_0100_20170420_016934	Agora você pode participar de um guia simples sobre o Mercenary Post de Klaipeda. {nl} Realize esta missão se você não for familiarizado com o Mercenary Post.
 QUEST_LV_0100_20170420_016935	Fale com o gerente e a recepcionista.
-QUEST_LV_0100_20170420_016936	Agore você pode realizar missões do Mercenary Post, que te ajudarão a evoluir seu personagem rapidamente e receber diferentes recompensas.{nl}{nl} Começe falando com Recepcionist Ramda no Mercenary Post em Klaipeda.{nl} Digite
+QUEST_LV_0100_20170420_016936	Agore você pode realizar missões do Mercenary Post, que te ajudarão a evoluir seu personagem rapidamente e receber diferentes recompensas.{nl}{nl} Começe falando com Recepcionista Ramda no Mercenary Post em Klaipeda.{nl} Digite
 QUEST_LV_0100_20170420_016937	 na janela de Chat para ver a localização e o tipo de missões disponíveis, assim como o número de acessos diários.{nl}{nl}
-QUEST_LV_0100_20170420_016938	 na janela de Chat para ver a localização e o tipo de missões disponíveis, assim como o nível recomendado e o número de acessos diários.{nl}{nl}Primeiro, encontre o Mercenary Post em Klaipeda e fale com Manager Rota
-QUEST_LV_0100_20170726_016939	Hello! My name's Leticia and I'm in charge of the TP Shop.{nl}My shop is full of items that can help you in your adventures.{nl}
-QUEST_LV_0100_20170726_016940	Unlike other shops, here you can use 
-QUEST_LV_0100_20170726_016941	to purchase items.{nl}You can recharge your TP at our Steam page, and you also get up to 5 free TP, which automatically recharge 1 TP at a time every 2 hours.{nl}
-QUEST_LV_0100_20170726_016942	To revive on the same spot you'll need the 
-QUEST_LV_0100_20170726_016943	,{nl}to boost your hair accessory stats, you need the 
-QUEST_LV_0100_20170726_016944	 .{nl}You can dress up with the various 
-QUEST_LV_0100_20170726_016945	{nl}and move faster using the 
-QUEST_LV_0100_20170726_016946	 . Feel free to look around, I'm sure you'll find what you need.{nl}
-QUEST_LV_0100_20170726_016947	Click the 
+QUEST_LV_0100_20170420_016938	 na janela de Chat para ver a localização e o tipo de missões disponíveis, assim como o nível recomendado e o número de acessos diários.{nl}{nl}Primeiro, encontre o Mercenary Post em Klaipeda e fale com Gerente Rota
+QUEST_LV_0100_20170726_016939	Olá!{nl}Meu nome é Leticia e esta é a Loja de TP!{nl}Minha loja tem muitos itens que podem ajudar você nesta aventura.{nl}
+QUEST_LV_0100_20170726_016940	Diferente de outras lojas, aqui você pode usar 
+QUEST_LV_0100_20170726_016941	 para comprar os itens.{nl}Você pode recarregar seus TP na loja da Steam,{nl}além de ganhar até 5 TP grátis,{nl}que recarregam 1 TP a cada 2 horas.
+QUEST_LV_0100_20170726_016942	Para renascer no mesmo local, você precisa de 
+QUEST_LV_0100_20170726_016943	,{nl}para melhorar os Acessórios, você precisa de 
+QUEST_LV_0100_20170726_016944	.{nl}Você pode vestir vários 
+QUEST_LV_0100_20170726_016945	{nl}e mover-se rapidamente usando 
+QUEST_LV_0100_20170726_016946	. Fique a vontade, tenho certeza que vai achar o que precisa.{nl}
+QUEST_LV_0100_20170726_016947	Clique no botão 
 QUEST_LV_0100_20170726_016948	Add
-QUEST_LV_0100_20170726_016949	 button on the items you want, then click 
-QUEST_LV_0100_20170726_016950	 to purchase them.{nl}
-QUEST_LV_0100_20170726_016951	Now that you know the Shop, make sure to have a look once in a while.{nl}The 
-QUEST_LV_0100_20170726_016952	I gave you will be very useful too.{nl}I also recommend you try the 
-QUEST_LV_0100_20170726_016953	which is also sold here at the TP Shop!
-QUEST_LV_0100_20170726_016954	He was once very healthy, but these days he is old and weak both in mind and body.{nl}It was after Jonas went out to a visit with his servant.{nl}
-QUEST_LV_0100_20170726_016955	Jonas is the head of the family that protects the Royal Mausoleum of the Great King Zachariel.{nl}He was once very healthy, but these days he is old and weak.{nl}
-QUEST_LV_0100_20170726_016956	This is an opportunity for us. The Cockats are suffering from a disease.{nl}Please get their tails for us to use in our research.
-QUEST_LV_0100_20170726_016957	Here's the tranquilizer. Use it on the Black Maizes.{nl}It'll be easier to collect their venom that way.{nl}
-QUEST_LV_0100_20170726_016958	Fishing Manager
-QUEST_LV_0100_20170726_016959	How to Use the TP Shop
-QUEST_LV_0100_20170726_016960	Fantasy of the Vigia (1)
-QUEST_LV_0100_20170726_016961	Fantasy of the Vigia (2)
-QUEST_LV_0100_20170726_016962	Defeat the Infro Holder Shamans and Chafperor chasing Bronius!
-QUEST_LV_0100_20170726_016963	Talk to TP Merchant Leticia in town.
-QUEST_LV_0100_20170726_016964	Talk to TP Merchant Leticia in Klaipeda, Orsha or Fedimian.
-QUEST_LV_0100_20170726_016965	Listen to the explanation on how to use the TP Shop.
-QUEST_LV_0100_20170726_016966	Vigia Kenneth told you to weaken the demons to less than half HP, then use the holy powers of the barrier to sever their souls and defeat them. 
-QUEST_LV_0100_20170726_016967	The wandering spirit is roaming Escanciu Village. Find the wandering soldier and talk to him.
-QUEST_LV_0100_20170726_016968	Completed Operation Wooden Village. Let the Wandering Spirit know about it.
-QUEST_LV_0100_20170726_016969	Collect some Black Maize Venom as a gift to the Village Priest. You can only obtain Black Maize Venom by using Paralysis Powder on a Black Maize while its HP is below half.
-QUEST_LV_0100_20170803_016970	If you don't have a Velheider, you can adopt one for free at the Companion Trader!
-QUEST_LV_0100_20170912_016971	Do you want to go fishing?{nl}There's a stream up here where you can catch fish and some neat items!{nl}The reason you have things other than fish come up is...{nl}... a secret!{nl}
-QUEST_LV_0100_20170912_016972	Here's how you fish.{nl}First, buy a fishing rod and some bait from my shop!{nl}Go to the stream and use your fishing rod, then place the bait on it to start fishing.{nl}
-QUEST_LV_0100_20170912_016973	I also sell paste bait and fishing bonfires that can help you fish better.
+QUEST_LV_0100_20170726_016949	 nos itens que você deseja, então clique 
+QUEST_LV_0100_20170726_016950	 para comprar os itens.{nl}
+QUEST_LV_0100_20170726_016951	Agora que você conhece a loja, visite sempre que puder!{nl}O 
+QUEST_LV_0100_20170726_016952	que te dei será muito útil também.{nl}Recomendo que você experimente 
+QUEST_LV_0100_20170726_016953	, que está a venda na Loja de TP!
+QUEST_LV_0100_20170726_016954	Ele já teve uma saúde melhor,{nl}mas ultimamente tanto o corpo quanto a mente estão fracos.{nl}Foi depois que o Jonas foi visitar seu servo.{nl}
+QUEST_LV_0100_20170726_016955	Jonas é o chefe da família que protege o Royal Mausoleum, do Grande Rei Zachariel.{nl}Ele já teve uma saúde melhor, mas ultimamente a velhice deixou ele fraco.{nl}
+QUEST_LV_0100_20170726_016956	Esta é uma oportunidade para nós.{nl}Os Cockats estão sofrendo com uma doença.{nl}Por favor, colete seus rabos para utilizarmos na pesquisa.
+QUEST_LV_0100_20170726_016957	Aqui está o tranquilizador. Use isto nas Black Maizes.{nl}Será mais fácil coletar o veneno desta forma.{nl}
+QUEST_LV_0100_20170726_016958	Gerente de Pesca
+QUEST_LV_0100_20170726_016959	Como Usar a Loja de TP
+QUEST_LV_0100_20170726_016960	Fantasia do Vigia (1)
+QUEST_LV_0100_20170726_016961	Fantasia do Vigia (2)
+QUEST_LV_0100_20170726_016962	Derrote Infro Holder Shamans e Chafperor que perseguem Bronius!
+QUEST_LV_0100_20170726_016963	Fale com a Leticia na cidade.
+QUEST_LV_0100_20170726_016964	Fale com a Leticia, da Loja de TP, em Klaipeda, Orsha ou Fedimian.
+QUEST_LV_0100_20170726_016965	Escute as explicações de como utilizar a Loja de TP.
+QUEST_LV_0100_20170726_016966	Vigia Kenneth disse para você enfraquecer os demônios até menos da mentade do HP, então use os poderes divinos da barreira para afetar seus espíritos e derrotá-los.
+QUEST_LV_0100_20170726_016967	O espírito errante está rondando Escanciu Village. Encontre o espírito e fale com ele.
+QUEST_LV_0100_20170726_016968	Finalizada a missão. Faça com que o espírito fique sabendo.
+QUEST_LV_0100_20170726_016969	Colete Black Maize Venom para o Priest da Vila. Você consegue utilizando Paralysis Powder nas Black Maize quando o HP estiver abaixo da metade.
+QUEST_LV_0100_20170803_016970	Se você não tem um Velheider, você pode adotar um de graça com um Treinador de Mascotes!
+QUEST_LV_0100_20170912_016971	Você quer pescar?{nl}Tem um riacho loco acima que você pode achar peixe ou itens!{nl}A razão de ter mais coisas além de peixe ali é...{nl}... um segredo!!{nl}
+QUEST_LV_0100_20170912_016972	Você pesca dessa forma:{nl}Primeiro, compre uma vara de pesca e iscas na minha loja!{nl}Vá até o riacho e use a vara de pesca, escolhendo a isca que deseja usar.{nl}
+QUEST_LV_0100_20170912_016973	Eu também vendo isca artificial e fogueiras,{nl}ambos itens ajudam a pescar melhor.
 QUEST_LV_0100_20170912_016974	De onde todos esses Reveladores apareceram...{nl}Deve ser mesmo sua tarefa de nos salvar.
 QUEST_LV_0100_20170912_016975	Clique em {img help_button_normal 30 30} no Menu do Sistema para abrir a ajuda.
-QUEST_LV_0100_20170912_016976	Team Battle League Valis
-QUEST_LV_0100_20170912_016977	Try Fishing
-QUEST_LV_0100_20170912_016978	Talk to Fishing Manager Joha in Klaipeda.
-QUEST_LV_0100_20170912_016979	Let the Fishing Manager in Klaipeda tell you all about how to fish.
-QUEST_LV_0100_20171128_016980	If I wasn't for the migration order from Orsha, I may have been wandering, homeless.{nl}{nl}
-QUEST_LV_0100_20171128_016981	Are you doing the instanced dungeon tutorial?
-QUEST_LV_0100_20171128_016982	{nl}You can level up faster with the dungeons.{nl}Although, of course, it's always a little dangerous.
-QUEST_LV_0100_20171128_016983	{nl}You can come to me whenever you want to use an instanced dungeon.{nl}If you want to enter now, would you let me know again?
-QUEST_LV_0100_20171128_016984	Revelator Pudhin 
-QUEST_LV_0100_20171128_016985	Hm...?{nl}I meet many different people here due to unexpected circumstances. 
-QUEST_LV_0100_20171128_016986	Are you, by chance, a Revelator?{nl}Did you come because you also heard the rumors about Goddess Jurate and the Loremasters?{nl}
-QUEST_LV_0100_20171128_016987	After Medzio Diena, rumors spread that the sea turned to land and demons appeared.{nl}And, to protect Goddess Jurate's domain, her priests also appeared. 
-QUEST_LV_0100_20171128_016988	I heard these rumors and came here to help the Loremasters of Goddess Jurate defeat the demons.{nl}I was delivering the necessary supplies.{nl}
-QUEST_LV_0100_20171128_016989	But as I was moving the supplies, monsters appeared and took them and now I'm not sure what to do.{nl}If you are a Seguidor of Goddess Jurate, would you mind lending me a hand?
-QUEST_LV_0100_20171128_016990	Thank you.{nl} I will look around Husk Bridge, so please check if the monsters went another way.
-QUEST_LV_0100_20171128_016991	Please be quick.{nl}As the number of demons increase so does the need for supplies. Everyone is becoming weary.
-QUEST_LV_0100_20171128_016992	Oh you found them all.{nl}I was starting to get worried when I found nothing around Husk Bridge...{nl}
-QUEST_LV_0100_20171128_016993	Thank goodness.
-QUEST_LV_0100_20171128_016994	Hm...?{nl} You would like to know exactly what happened here?
-QUEST_LV_0100_20171128_016995	Recently there were talks of an appearance by Goddess Jurate at Igyti Seashore.{nl} After that, to carry out the Goddess' meaning, Loremaster's began appearing around the Coral Plains.{nl}
-QUEST_LV_0100_20171128_016996	And upon hearing this news, Revelators also gathered to help Goddess Jurate and the Loremasters.{nl} In this place, demons trying to take Goddess Jurate domain have appeared and are creating quite the headache.
-QUEST_LV_0100_20171128_016997	Recently Loremasters with the strength of the Revelators are forcing the demons out.{nl} But the demons have placed suspicious devices here and there on the coast thus accelerating their return.{nl} If the rumors are correct, other coasts and the Coral Plains are also under attack.
-QUEST_LV_0100_20171128_016998	This area's Loremasters also heard Goddess Jurate's words and were fired up to fight, but it's still a difficult battle.
-QUEST_LV_0100_20171128_016999	If you go a little further down, in Mopuli Lowlands is Ugnius, the leader of this area's Loremasters.{nl}Meeting with him would be good. 
-QUEST_LV_0100_20171128_017000	Ah, the road ahead is filled with savage monsters so please be careful.{nl}But if you are able to clear the road of them, I would be thankful.
+QUEST_LV_0100_20170912_016976	[Team Battle League] Valis
+QUEST_LV_0100_20170912_016977	Experimente Pescar
+QUEST_LV_0100_20170912_016978	Fale com a Gerente de Pesca Joha em Klaipeda.
+QUEST_LV_0100_20170912_016979	Aprenda com a Gerente de Pesca, em Klaipeda, tudo sobre pescaria.
+QUEST_LV_0100_20171128_016980	Se não posse pelas ordens de migração de Orsha,{nl}eu talvez estaria zanzando por aí, sem casa.{nl}
+QUEST_LV_0100_20171128_016981	Você está aprendendo sobre as dungeons?
+QUEST_LV_0100_20171128_016982	{nl}Você pode aumentar o seu nível rapidamente através das dungeons.{nl}Porém, claro, tem um pouco de perigo no meio do processo.
+QUEST_LV_0100_20171128_016983	{nl}Você pode vir até mim sempre que quiser participar de uma dungeon.{nl}Se você quer entrar agora, me avise que deixo você ir.
+QUEST_LV_0100_20171128_016984	Revelador Pudhin
+QUEST_LV_0100_20171128_016985	Hm...?{nl}Já encontrei diversas pessoas por causas de circunstâncias inesperadas.
+QUEST_LV_0100_20171128_016986	Por acaso, você seria um Revelador?{nl}Você também veio por causa dos rumores da Deusa Jurate e dos Loremasters?{nl}
+QUEST_LV_0100_20171128_016987	Depois do Medzio Diena,{nl}rumores se espalharam dizendo que o mar virou terra e demônios surgiram.{nl}E, para proteger os domínios da Deusa Jurate, seus seguidores também apareceram.
+QUEST_LV_0100_20171128_016988	Ouvi estes rumores e vim ajudar os Loremasters da Deusa Jurate.{nl}Eu estava transportando os suprimentos necessários.{nl}
+QUEST_LV_0100_20171128_016989	Mas quando eu estava transportando os suprimentos,{nl}monstros apareceram e levaram tudo, não sei o que fazer.{nl}Se você é um seguidor da Deusa Jurate, se importaria de me ajudar?
+QUEST_LV_0100_20171128_016990	Agradeço muito!{nl}Vou procurar pela Husk Bridge, então verifique no outro lado, por favor.
+QUEST_LV_0100_20171128_016991	Por favor, seja rápido.{nl}Quanto mais demônios, mais suprimentos precisamos.{nl}Todo mundo está precisando deles.
+QUEST_LV_0100_20171128_016992	Ah, você achou todos eles!{nl}Comecei a me preocupar quando não achei nada na Husk Bridge...{nl}
+QUEST_LV_0100_20171128_016993	Pela Deusa.
+QUEST_LV_0100_20171128_016994	Hm...?{nl}Você quer saber exatamente o que houve aqui?
+QUEST_LV_0100_20171128_016995	Recentemente têm-se falado da aparição da Deusa Jurate em Igti Coast.{nl}Depois disso, seguindo essa falação, os Loremasters começaram a aparecer na costa.{nl}
+QUEST_LV_0100_20171128_016996	E, depois de ouvir as novidades,{nl}Reveladores também apareceram para ajudar a Deusa Jurate e os Loremasters.{nl}Neste local, demônios tentam tomar os domínios da Deusa Jurate, dando muito trabalho.
+QUEST_LV_0100_20171128_016997	Recentemente, os Loremasters junto da força dos Reveladores estão expulsando os demônios.{nl}Mas eles colocaram dispositivos suspeitos em vários lugares da costa, acelerando a volta deles.{nl}Se os rumores estiverem corretos, outras áreas costeiras também estão sob ataque.
+QUEST_LV_0100_20171128_016998	Os Loremasters do local também ouviram as palavras da Deusa Jurate,{nl}ficando mais eufóricos para lutar, mas possuem dificuldade para isso.
+QUEST_LV_0100_20171128_016999	Se você quer ir mais a fundo,{nl}o líder dos Loremasters está em Mopuli Lowlands, seu nome é Ugnius.{nl}Encontrá-lo deve ser bom para você.
+QUEST_LV_0100_20171128_017000	Ah, o caminho está cheio de monstros perigosos, cuidado!{nl}Mas se você conseguir limpar eles do caminho, agradecerei muito...
 QUEST_LV_0100_20171128_017001	Loremaster Ugnius
-QUEST_LV_0100_20171128_017002	This is where I meet with others. Are you a Revelator?
-QUEST_LV_0100_20171128_017003	Please say that you will deliver the supplies to Ugnius.{nl}Then please travel safely.
-QUEST_LV_0100_20171128_017004	Ah, you are the Revelator who accepted the request from Pudhin.{nl} Thank you for your help.
-QUEST_LV_0100_20171128_017005	Now that I think about it, you seem to be the Revelator that other Loremaster's have talked about..{nl} Are you the Revelator who helped us at Igyti Seashore?{nl}
-QUEST_LV_0100_20171128_017006	Yes, you are the Revelator from those rumors.{nl}I heard Berta and Daroul received a great amount of help from you at Igyti Seashore. 
-QUEST_LV_0100_20171128_017007	Thanks to you we were able to hear Goddess Jurate again.{nl}From the goddess we were told that the demons want to corrupt both Eperotao Coast and Sorfus Coast and in order to make it their own.{nl}
-QUEST_LV_0100_20171128_017008	She requested that we get rid of the demons.{nl}And bcause of the help we've received from Revelators, we've been able to fight like this, thus far, but our strength is still lacking.
-QUEST_LV_0100_20171128_017009	Recently, as a form of sabotage, the demons destroyed the altar where we performed rituals to Goddess Jurate and this has fatigued us.{nl}
-QUEST_LV_0100_20171128_017010	Oh, can you help us?{nl}We would be more than grateful.{nl}
-QUEST_LV_0100_20171128_017011	If that's the case, could you carefully check the Sacred Coral Reef?{nl}That's where Goddess Jurate alter is located, but not too long ago it was attacked by demons{nl}
-QUEST_LV_0100_20171128_017012	The Loremaster Narius went there to repair the altar but he has yet to return.{nl}Recently, because of the effect from demons, the monster there have become more violent causing us to have a hard time sending someone to bring him back.
-QUEST_LV_0100_20171128_017013	So, I ask this of you.{nl}If you could go to the Sacred Coral Reef and check on Loremaster Narius' situation and why he has yet to return, I would be grateful.
+QUEST_LV_0100_20171128_017002	É aqui que me encontro com os demais.{nl}Você é um Revelador?
+QUEST_LV_0100_20171128_017003	Por favor, diga que você entregará os suprimentos para o Ugnius.{nl}E tenha cuidado na sua viagem.
+QUEST_LV_0100_20171128_017004	Ah, você é o Revelador que aceitou o pedido de Pudhin.{nl}Agradeço a sua ajuda.
+QUEST_LV_0100_20171128_017005	Pensando bem, você parece ser o Revelador que os outros Loremasters têm falado...{nl}É você quem ajudou nos problemas em Igti Coast?{nl}
+QUEST_LV_0100_20171128_017006	Sim, você é o Revelador que estão falando!{nl}Ouvi que você ajudou muito Berta e Daroul na Igti Coast.
+QUEST_LV_0100_20171128_017007	Graças a você, conseguimos nos comunicar com a Deusa Jurate novamente.{nl}Foi da Deusa que ouvimos que os demônios querem corromper a região da Epherotao Coast,{nl}para então tomarem a região para si.{nl}
+QUEST_LV_0100_20171128_017008	Ela pediu para que nos livrássemos destes demônios.{nl}E graças à ajuda que recebemos dos Reveladores,{nl}conseguimos lutar até agora, mas ainda não somos fortes o suficiente.
+QUEST_LV_0100_20171128_017009	Recentemente, como forma de sabotagem,{nl}os demônios destruíram o altar que usávamos para comunicarmos com a Deusa Jurate,{nl}isso acabou nos deixando muito cansados.{nl}
+QUEST_LV_0100_20171128_017010	Ah, você consegue nos ajudar?{nl}Seremos muito gratos!{nl}
+QUEST_LV_0100_20171128_017011	Se for este o caso, poderia verificar o Sacred Coral Reef?{nl}É lá que fica o altar para a Deusa Jurate,{nl}só que ele foi atacado por demônios não faz muito tempo.{nl}
+QUEST_LV_0100_20171128_017012	O Loremaster Narius foi lá reparar o altar, mas não voltou até agora.{nl}Recentemente, por causa do efeito dos demônios,{nl}os monstros ficaram mais violentos, dificultando nossas ações.
+QUEST_LV_0100_20171128_017013	Então, preciso pedir isso para você.{nl}Por favor, descubra a situação do Loremaster Narius, em Sacred Coral Reef.{nl}Serei muito agradecido se puder fazer isso.
 QUEST_LV_0100_20171128_017014	Loremaster Narius
-QUEST_LV_0100_20171128_017015	Uhg..thank you for helping me.{nl}Thanks to you I'm still alive.
-QUEST_LV_0100_20171128_017016	It wasn't supposed to be a difficult task..{nl}After destroying the alter the demons left so without a Revelator's help I went alone, but what happened..
-QUEST_LV_0100_20171128_017017	Ah, you are the Revelator sent by Ugnius.{nl}Thanks to you I'm alive.
-QUEST_LV_0100_20171128_017018	As I was repairing the alter, monsters suddenly swarmed me and attacked.{nl}When the demons ran away after destroying the alter something seems to have called the monsters to this area.
-QUEST_LV_0100_20171128_017019	I'm sorry, but could you help me please?
-QUEST_LV_0100_20171128_017020	Then, could you please go back and bring Loremaster Ugnius?{nl}The monsters attacked by legs and I'm bleeding too much to move.{nl}
-QUEST_LV_0100_20171128_017021	The bleeding has stopped but I'm still in a difficult spot so please bring Ugnius here.{nl}Because of the monsters I wouldn't advise that he come alone, so please have either you or another Revelator protect him.{nl}
-QUEST_LV_0100_20171128_017022	On your way back, please defeat Nimrah Damsels and collect their coral powder. Ugnius can use it to help treat my wounds. {nl}I'm sorry, but I must ask you for this favor.
-QUEST_LV_0100_20171128_017023	Hm..?{nl} Narius was attacked by monsters and was wounded?{nl}
-QUEST_LV_0100_20171128_017024	This is a problem.{nl}But I'm grateful that you collected Nimrah Damsel coral powder.{nl}
-QUEST_LV_0100_20171128_017025	If you sprinkle this powder on the wound and treat it, it helps heal serious injuries.{nl}We use the material from monsters in this area as medicine.
-QUEST_LV_0100_20171128_017026	Please hurry.{nl} I ask of you..
-QUEST_LV_0100_20171128_017027	There is no time to waste, we must hurry.{nl}Could you please protect this old man until the Sacred Coral Reef?{nl}
-QUEST_LV_0100_20171128_017028	The monsters have become more violent and more prone to attack, recently.{nl}I can handle one or two, but if three appear I will be in hot water.
-QUEST_LV_0100_20171128_017029	Then I will ask that you help.{nl}Let's move quickly.
-QUEST_LV_0100_20171128_017030	Thanks to you, I've finished treating Narius.{nl}At first glance, it may seem that all is well, but due to the loss of blood, he needs to rest a bit more.
-QUEST_LV_0100_20171128_017031	Sorry but, in Narius's stead, could you please collect the material needed to perform the ritual?
-QUEST_LV_0100_20171128_017032	Then I will ask for your help.{nl}If you go down there you will see Blue Coral.{nl}
-QUEST_LV_0100_20171128_017033	Please bring back some.{nl}For regular rituals to the goddesses' we use sacred herbs or tributes as an offering.{nl}
-QUEST_LV_0100_20171128_017034	But for Goddess Jurate we usually offer coral or handcrafted coral ornaments.{nl}But, since we are in a rush, first dig up some Blue Coral and we will offer them to the Goddess. 
-QUEST_LV_0100_20171128_017035	If you dig up and bring back the Blue Coral, I will be thankful.{nl}We must hear the voice of the Goddess again.
-QUEST_LV_0100_20171128_017036	Oh, you finished so fast.{nl}Alright, time to prepare the ritual.
-QUEST_LV_0100_20171128_017037	Are preparations complete?{nl}I will start the ritual ceremony.
-QUEST_LV_0100_20171128_017038	Did you hear the voice of the Goddess?{nl}
-QUEST_LV_0100_20171128_017039	{nl}The Goddess asked an important task of you and requested that I help.{nl}You may be a special Revelator, yet.{nl}
-QUEST_LV_0100_20171128_017040	Can you go to Aitheo Coast first?{nl}I will watch over Narius' condition until Revelator Pudhin arrives and then follow after you.
-QUEST_LV_0100_20171128_017041	Then go first and find Revelator Nichi.{nl}Help her and I will follow soon after.
-QUEST_LV_0100_20171128_017042	Revelator Nichi
-QUEST_LV_0100_20171128_017043	An ordinary person here? Who are you?{nl}
-QUEST_LV_0100_20171128_017044	Revelator, I'm sorry, but can I make a request?{nl}
-QUEST_LV_0100_20171128_017045	I was collecting materials to repair the altar, when I noticed demons roaming around Tolata Sandbank.{nl}Demons sometimes appear in Aitheo Coast, but this region was still safe from them.
-QUEST_LV_0100_20171128_017046	The area of the destroyed altar and where they appeared in Tolata Sandbank are suspicious.{nl}I'm sorry, but could you investigate that area?
-QUEST_LV_0100_20171128_017047	Then I leave that to you.{nl}Please check what those demons are planning at Tolata Sandbank.
-QUEST_LV_0100_20171128_017048	They destroyed the altar but what else are they planning...
-QUEST_LV_0100_20171128_017049	This Red Crystal..?{nl}
-QUEST_LV_0100_20171128_017050	It's emitting an evil energy.{nl}But it's unclear if there is a connection between this and the increase in violent monsters.{nl}
-QUEST_LV_0100_20171128_017051	I'll look into this.{nl}Thank you for your help.
-QUEST_LV_0100_20171128_017052	Ah, Loremaster Ugnius sent you?{nl}Then you are also a Revelator.{nl}
-QUEST_LV_0100_20171128_017053	I'm Revelator Nichi, a helper of the Loremasters.{nl} Here, at the Aitheo Coast, I've been fighting off the demon provoked Nimrah and Varle.  
-QUEST_LV_0100_20171128_017054	From one day the number of Nimrah and Varle increased, and a suspicious device was set on a corrupted sandbank causing me to think that there is some plan behind this.
-QUEST_LV_0100_20171128_017055	Hm..then the objective of the Nimrah and Varle is to occupy this coast.{nl}Because of the sealed Goddess' relics, the demons..{nl}
-QUEST_LV_0100_20171128_017056	There is a questionable location.{nl}I'll search one spot so could you check the occupied lowlands?{nl}
-QUEST_LV_0100_20171128_017057	There is nothing special about the low lands, but recently the Nimrah have flocked to occupy it.{nl}I'm not sure if that has something to do with all this.
-QUEST_LV_0100_20171128_017058	Please clear the occupied lowlands of its patrols and of the Nimrah and Varle that are in the area.{nl} I'll check another location as well.
-QUEST_LV_0100_20171128_017059	I'll leave it to you to clear the lowlands of its patrols and of the Nimrah and Varle in the area.{nl}
-QUEST_LV_0100_20171128_017060	First we must weaken the evil seal in order to purify the holy relic.{nl} If we use the ocean's energy to awaken the relic's power, we may be able to vanquish the evil aura. 
-QUEST_LV_0100_20171128_017061	You're back?{nl}I heard from Revelator Nichi.
-QUEST_LV_0100_20171128_017062	Hm..They created a magic circle and were performing a ritual ceremony..?{nl}It seems that the holy relic in that area is sealed and suppressed so that we are unable to find it.{nl}
-QUEST_LV_0100_20171128_017063	As we investigate another location, could you break the magic circle?{nl} If the demons really are performing a ritual and are suppressing the holy relic, it will not be easy to break.{nl}
-QUEST_LV_0100_20171128_017064	Take this with you.{nl}It might prove helpful when breaking the demon's magic circle.{nl}
-QUEST_LV_0100_20171128_017065	Be safe.
-QUEST_LV_0100_20171128_017066	Of course, it would be best if you found Goddess Jurate's second holy relic.{nl}From what the Goddess says, without it we will not be able to destroy the demon device. 
-QUEST_LV_0100_20171128_017067	Oh, that's the Goddess' holy relic!{nl}As shown with the sacrifice tools from the ancient records.{nl}
-QUEST_LV_0100_20171128_017068	Due to the demons, the Divine Energy was sealed. 
-QUEST_LV_0100_20171128_017069	If you go to Kite Coral Reef you will find Ancient Coral Rock and Blue Coral.{nl}This Ancient Coral was blessed by Goddess Jurate and carries with it a strong energy from the ocean. 
-QUEST_LV_0100_20171128_017070	If you take the Sealed Relic there and touch it against the Coral, the energy of the ocean will repel the evil and purify the relic.{nl}But keep in mind that if all of the ocean's energy is released, the Coral will need time to recharge. 
-QUEST_LV_0100_20171128_017071	I'll leave this to you.{nl}While you are removing the evil from the holy relic, I will prepare the restoration.
-QUEST_LV_0100_20171128_017072	You've returned?{nl}Oh, the evil has been completely vanquished from the holy relic! 
-QUEST_LV_0100_20171128_017073	I'll begin restoring the relic.{nl}While I'm doing that, could you please report back to me about the Corrupted Sandbank?{nl}
-QUEST_LV_0100_20171128_017074	The demons could be on the move since we took the sealed relic.
-QUEST_LV_0100_20171128_017075	Alright, I'll leave the Corrupted Sandbank in your hands.{nl}There may be attacks against other Revelators as well, so please prepare.{nl}
-QUEST_LV_0100_20171128_017076	And it would be a great help if you could cut down the number of Nimrah and Varle in the area.
-QUEST_LV_0100_20171128_017077	Carefully examine the situation at the Corrupted Sandbank.{nl}There might be some changes to the Demon Device. 
-QUEST_LV_0100_20171128_017078	The demons are arriving through a portal?{nl}The demons have set their sights on this area as well.{nl}
-QUEST_LV_0100_20171128_017079	It seems the small devices amplify the Kruvina that the Goddess spoke of, which then sends out an evil energy. 
-QUEST_LV_0100_20171128_017080	The restoration is complete.{nl}The time has come to destroy that Suspicious Device.
-QUEST_LV_0100_20171128_017081	You have proven your skill, so you'll come with me to destroy the device.{nl}I will tell the other Revelators to head off any potential disruptions.{nl}
-QUEST_LV_0100_20171128_017082	Go to the Corrupted Sandbank first and I'll follow after you.{nl}We'll meet there.
-QUEST_LV_0100_20171128_017083	Alright, then I'll meet you at the Corrupted Sandbank.{nl}
-QUEST_LV_0100_20171128_017084	The device has be successfully destroyed!{nl}Now the Aitheo Coast corruption must be relieved!
-QUEST_LV_0100_20171128_017085	The Demon Device has been destroyed but some parts of the Coast are still corrupted.{nl}We must prepare to purify it. 
-QUEST_LV_0100_20171128_017086	The Kruvina is also an urgent matter, but if we leave this area like it is the demons may find a way to ambush us.{nl}The purification ceremony doesn't take long, so let's start.  
-QUEST_LV_0100_20171128_017087	Could you take this bottle to Letave Plateau and bring back some Sea Aura?{nl}And on your way, please dig up some Jurate's Moss to use for the ceremony.
-QUEST_LV_0100_20171128_017088	If I ask the other Revelators to find the remaining materials it won't take long. 
-QUEST_LV_0100_20171128_017089	You just need to bring back Sea Aura and Yulates Moss.{nl}The Plateau is still free from the influnce of demons.
-QUEST_LV_0100_20171128_017090	You collected everything so fast.{nl}Thank you. 
-QUEST_LV_0100_20171128_017091	Preparations for the purification ceremony are complete.{nl}Shall I begin?
-QUEST_LV_0100_20171128_017092	You removed the demon army from the Aitheo Coast{nl}Thank you.{nl}
-QUEST_LV_0100_20171128_017093	However, Kartas' subordinates have become smarter and swifter. {nl}When Kruvina was activated, Eperotao Coast became overrun with demons.{nl}
-QUEST_LV_0100_20171128_017094	Yet, with the help of the two holy relics, the devices protecting the Kruvina can be nullified and the Kruvina, destroyed.{nl}If the corruption accelerates our power will grow weaker.{nl}
-QUEST_LV_0100_20171128_017095	Please disrupt Kartas' Plans.
-QUEST_LV_0100_20171128_017096	If we are to follow the Goddess, we must be quick.{nl}I'll go on ahead, when you are ready come to Eperotao Coast. 
-QUEST_LV_0100_20171128_017097	Alright then, I will see you at Eperotao Coast. 
-QUEST_LV_0100_20171128_017098	Would you mind lending a hand?{nl}Thanks to the purification ceremony the corruption was removed, but parts of the Coast still retains an evil energy.{nl} 
-QUEST_LV_0100_20171128_017099	I'm planning to purify these areas as well, but doing so alone will take me awhile.{nl}I can finish faster with your help,  so would you mind?
-QUEST_LV_0100_20171128_017100	Then take this Coral Talisman.{nl} It was made by Loremaster Ugnius.{nl}
-QUEST_LV_0100_20171128_017101	The talisman will direct you towards the evil energy.{nl}Just be careful since there may be demons or monsters waiting to attack. 
-QUEST_LV_0100_20171128_017102	I'll deal with the other regions so please clear the Husk Reef and the occupied lowlands of its evil energy.
-QUEST_LV_0100_20171128_017103	All done?{nl}I also just returned{nl}
-QUEST_LV_0100_20171128_017104	Thanks to you I was able to finish in no time.{nl}Now Aitheo Coast is free from corruption.
-QUEST_LV_0100_20171128_017105	You still saw some demon forces in the area?{nl}The device was destroyed and the evil energy cleared, but these remnant forces could prove troublesome.
-QUEST_LV_0100_20171128_017106	To keep Aitheo Coast safe, I'm planning to drive those forces out. Would you join me?
-QUEST_LV_0100_20171128_017107	Well then, please drive out the remaining Nimrah and Varle that are in the Aitheo Coast.{nl}It doesn't matter where.
-QUEST_LV_0100_20171128_017108	Then, I will leave this to you.
-QUEST_LV_0100_20171128_017109	Thank you.{nl}I will remain here and ensure that Aitheo Coast stays safe.
-QUEST_LV_0100_20171128_017110	There's no time to delay.{nl}The Revelators are carefully searching for Demon Devices in other locations. 
-QUEST_LV_0100_20171128_017111	Did you also come to scout Coral Forest Hill?{nl}There may be a Demon Device there.
-QUEST_LV_0100_20171128_017112	Alright, I'll leave that to you.{nl}Go to Coral Forest Hill and report back on the demons and the possible device. 
-QUEST_LV_0100_20171128_017113	If the demons are using the device as a warp, then they are planning to cross at once.{nl}There's no time.
-QUEST_LV_0100_20171128_017114	Hm..the demons have started gathering here as well.{nl}Hurry, the device must be destroyed.{nl}
-QUEST_LV_0100_20171128_017115	It may be difficult but it must be done.
-QUEST_LV_0100_20171128_017116	The demons have already started to summon their forces.{nl}Things will prove more difficult if we don't destroy that device.{nl}
-QUEST_LV_0100_20171128_017117	Just like how the device in Aitheo Coast was destroyed, we must do the same to that one.{nl}It'll be dangerous, but it'll be possible with your skills. 
-QUEST_LV_0100_20171128_017118	Good.{nl}Then could you please go ahead first and rid the area around the device of its demon forces?{nl}
-QUEST_LV_0100_20171128_017119	I will leave dealing with the other device to the other Revelators and Loremaster.{nl}When they return I will explain the situation and join you right after.
-QUEST_LV_0100_20171128_017120	Let's meet in front of the device. Be safe.
-QUEST_LV_0100_20171128_017121	Thanks to you I arrived safely.{nl}Are you ready?{nl}
-QUEST_LV_0100_20171128_017122	Demons will flock here while we are trying to destroy the device.{nl}Just like before, please watch my back.
-QUEST_LV_0100_20171128_017123	Thanks to you, the device was safely destroyed.{nl}Now we need to see how the other Revelators and Loremaster fared.{nl}
-QUEST_LV_0100_20171128_017124	First, we should make our way to where the other Revelators went.{nl}I'll see you there.
-QUEST_LV_0100_20171128_017125	You're here.{nl}The other Revelators and Loremaster went below to deal with the device.
-QUEST_LV_0100_20171128_017126	Would you mind helping them?{nl}I also want to go, but the demons are acting strangely so I'm going to scout around first.
-QUEST_LV_0100_20171128_017127	Alright, then I have a request.{nl}Since there are already two other Revelators there, everything should finish quite soon. 
-QUEST_LV_0100_20171128_017128	I would like to ask that you handle another Demon Device.{nl}I, on the other hand, will check the demons' reactions.
-QUEST_LV_0100_20171128_017129	Is the Demon Device destroyed?
-QUEST_LV_0100_20171128_017130	That's good to hear.{nl}Now that all the devices are gone we can set our sights on the Kruvina.{nl}
-QUEST_LV_0100_20171128_017131	But there's a problem.{nl}It looks like the demons have activated a trap.
-QUEST_LV_0100_20171128_017132	The path in the direction of the Massive Kruvina is overflowing with an evil energy.{nl}I've experienced a similar situation before.
-QUEST_LV_0100_20171128_017133	At that time, the Revelator who tried to remove the concentrated evil energy was badly hurt.{nl}If we continue on like this, reaching the Kruvina will be difficult.
-QUEST_LV_0100_20171128_017134	Revelator, there is no one here with greater skill than yourself.{nl}I must ask, could you destroy the evil energy along with the suppressor?{nl}
-QUEST_LV_0100_20171128_017135	Take this talisman with you.{nl}This talisman will keep you out of sight of the demons until you are closer.
-QUEST_LV_0100_20171128_017136	Okay, I will follow shortly.{nl}We'll meet at Aitheo Coast.
-QUEST_LV_0100_20171128_017137	Oh, you've returned?{nl}Seeing as you've returned safely, I can assume it was a success!{nl}
-QUEST_LV_0100_20171128_017138	The surrounding area feels as though it's been released from the evil energy.{nl}You completed a dangerous task. Thank you.{nl}
-QUEST_LV_0100_20171128_017139	We can now head in the direction of the Massive Kruvina.
-QUEST_LV_0100_20171128_017140	Let's make haste.{nl}I feel a strange magic stemming from the area around the Massive Kruvina. 
-QUEST_LV_0100_20171128_017141	The other Revelators and Loremasters will take care of the incoming demon reinforcements.{nl}And we will go to destroy the Massive Kruvina.
-QUEST_LV_0100_20171128_017142	When you are ready, we'll leave.
-QUEST_LV_0100_20171128_017143	Without your help, we wouldn't have been able to destroy Kruvina.{nl}With only my divine energy, we may not have been as successful.
-QUEST_LV_0100_20171128_017144	Now the only thing left is to restore the Coast to what it was.{nl}This is really all thanks to you.
+QUEST_LV_0100_20171128_017015	Ugh... Obrigado pela ajuda.{nl}Graças à você estou vivo!
+QUEST_LV_0100_20171128_017016	Não era pra ser uma tarefa difícil...{nl}Depois de destruir o altar, os demônios foram embora.{nl}Sem a ajuda de um Revelador, acabei ficando sozinho, mas nada aconteceu.
+QUEST_LV_0100_20171128_017017	Ah, você é o Revelador enviado pelo Ugnius!{nl}Graças à você ainda estou vivo.
+QUEST_LV_0100_20171128_017018	Como eu estava reparando o altar, os monstros atacaram de repente e em grupo.{nl}Quando eles partiram, depois de destruir o altar,{nl}parece que algo começou a chamar os monstros para esta área.
+QUEST_LV_0100_20171128_017019	Desculpe-me, mas poderia me ajudar?
+QUEST_LV_0100_20171128_017020	Então, poderia trazer o Loremaster Ugnius aqui?{nl}Os monstros atacaram nas pernas, estou sangrando muito para me mover.{nl}
+QUEST_LV_0100_20171128_017021	O sangramento parou, mas ainda não estou bem.{nl}Por favor, traga o Ugnius até aqui.{nl}É melhor ele não vir sozinho por causa dos monstros,{nl}mas se você proteger ele acredito que será mais tranquilo.{nl}
+QUEST_LV_0100_20171128_017022	No caminho de volta, por favor derrote Nimrah Damsels e colete Coral em Pó.{nl}Ugnius pode usar isso para curar meus ferimentos.{nl}Sinto muito, mas não tenho escolha a não ser pedir por este favor.
+QUEST_LV_0100_20171128_017023	Hm..?{nl}Narius foi atacado por monstros e foi ferido?{nl}
+QUEST_LV_0100_20171128_017024	Isto é um problema.{nl}Mas que bom que você obteve Coral em Pó.{nl}
+QUEST_LV_0100_20171128_017025	Colocar este pó no ferimento ajuda a curar machucados mais graves.{nl}Usamos os materiais dos monstros desta área como medicamento.
+QUEST_LV_0100_20171128_017026	Por favor, apresse-se...{nl}Preciso da sua ajuda.
+QUEST_LV_0100_20171128_017027	Não temos tempo a perder, precisamos nos apressar.{nl}Você poderia proteger este velho até chegarmos em Sacred Coral Reef?{nl}
+QUEST_LV_0100_20171128_017028	Os monstros ficaram mais violentos e mais tendenciosos a atacar.{nl}Posso lidar com um ou dois, mas mais que isso vai ser difícil.
+QUEST_LV_0100_20171128_017029	Por isso preciso da sua ajuda.{nl}Vamos o mais rápido possível.
+QUEST_LV_0100_20171128_017030	Graças à você, eu terminei o tratamento do Narius.{nl}Inicialmente parecia tudo bem, mas por causa do sangue perdido,{nl}ele precisa descansar um pouco mais.
+QUEST_LV_0100_20171128_017031	Desculpe mas, em nome do Narius,{nl}poderia coletar o material necessário para fazer o ritual?
+QUEST_LV_0100_20171128_017032	Então eu peço a sua ajuda.{nl}Se você seguir para baixo, você verá um coral azul.{nl}
+QUEST_LV_0100_20171128_017033	Por favor, me traga recifes deste coral.{nl}Para os rituais comuns de outras Deusas,{nl}usamos ervas sagradas ou outros tributos como oferendas.{nl}
+QUEST_LV_0100_20171128_017034	Mas a Deusa Jurate oferecemos coral ou ornamentos feitos destes corais.{nl}Só que, como estamos com pressa,{nl}vamos ofertar estes Corais Azuis mesmo.
+QUEST_LV_0100_20171128_017035	Se você puder cavar estes Corais Azuis e me trazer, eu agradeço.{nl}Precisamos ouvir a voz da Deusa Jurate novamente.
+QUEST_LV_0100_20171128_017036	Ah, você foi rápido!{nl}Certo, hora de preparar o ritual.
+QUEST_LV_0100_20171128_017037	Os preparativos estão completos?{nl}Vou começar o ritual de cerimônia.
+QUEST_LV_0100_20171128_017038	Você ouviu a voz da Deusa?{nl}
+QUEST_LV_0100_20171128_017039	{nl}A Deusa pediu uma tarefa importante para você e que eu te ajude.{nl}Você deve ser um Revelador muito especial.{nl}
+QUEST_LV_0100_20171128_017040	Pode ir até Iotheo Coast primeiro?{nl}Vou cuidar de Narius até o Revelador Pudhin chegar.{nl}Quando ele chegar, vou até lá encontrar você.
+QUEST_LV_0100_20171128_017041	Vá primeiro e encontre a Reveladora Nichi.{nl}Vá ajudando ela que eu chegarei logo em seguida.
+QUEST_LV_0100_20171128_017042	Reveladora Nichi
+QUEST_LV_0100_20171128_017043	Uma pessoa comum por aqui?{nl}Quem é você?{nl}
+QUEST_LV_0100_20171128_017044	Revelador, desculpe, mas posso fazer um pedido?{nl}
+QUEST_LV_0100_20171128_017045	Eu estava coletando materiais para reparar o altar,{nl}quando percebi demônios ao redor do Tolata Sandbank.{nl}Demônios, às vezes, aparecem em Iotheo Coast,{nl}mas esta região estava livre deles até então.
+QUEST_LV_0100_20171128_017046	O local do altar destruído e o local onde eles apareceram são suspeitos.{nl}Desculpe-me por pedir isso, mas poderia verificar estes locais?
+QUEST_LV_0100_20171128_017047	Então deixo isso por sua conta.{nl}Por favor, verifique o que os demônios estão tramando no Tolata Sandbank.
+QUEST_LV_0100_20171128_017048	Eles destruíram o altar, mas o que mais estão planejando...
+QUEST_LV_0100_20171128_017049	Esse cristal vermelho...?{nl}
+QUEST_LV_0100_20171128_017050	Está emitindo uma energia muito maligna.{nl}Mas não dá pra saber se isso tem conexão com o aumento na violência dos monstros.{nl}
+QUEST_LV_0100_20171128_017051	Eu vou verificar isso.{nl}Muito obrigada pela ajuda.
+QUEST_LV_0100_20171128_017052	Ah, Loremaster Ugnius enviou você?{nl}Então você também é um Revelador.{nl}
+QUEST_LV_0100_20171128_017053	Eu sou a Reveladora Nichi, ajudante dos Loremasters.{nl}Aqui em Iotheo Coast a situação está complicada, estive lutando contra os Nimrah e os Varle.
+QUEST_LV_0100_20171128_017054	Os números de ambos subiram muito de uma hora pra outra,{nl}e um dispositivo suspeito foi instalado em um Corrupted Sandbank.{nl}Isso me leva a pensar que só pode haver algum plano por trás disso tudo.
+QUEST_LV_0100_20171128_017055	Hmm...{nl}Então o objetivo dos Nimrah e dos Varle é ocupar a costa.{nl}Por causa das relíquias seladas da Deusa, os demônios...{nl}
+QUEST_LV_0100_20171128_017056	Tem um local meio suspeito.{nl}Vou verificar este local, você poderia verificar a área ocupada?{nl}
+QUEST_LV_0100_20171128_017057	Não tem nada muito especial lá, mas os Nimrah estão concentrados no local.{nl}Não sei se tem alguma ligação com tudo isso.
+QUEST_LV_0100_20171128_017058	Por favor, lide com os Varle e os Nimrah que estão por lá.{nl}Enquanto isso vou verificar outro local.
+QUEST_LV_0100_20171128_017059	Vou deixar você lidar com a área que mencionei,{nl}por favor se livre dos Varle e dos Nimrah que estiverem na planície.{nl}
+QUEST_LV_0100_20171128_017060	Primeito, temos que enfraquecer o selo maligno para purificar a relíquia sagrada.{nl}Se usarmos a energia do oceano para despertar a relíquia,{nl}talvez poderemos eliminar esta aura maligna.
+QUEST_LV_0100_20171128_017061	Você voltou?{nl}Ouvi sobre você com a Reveladora Nichi.
+QUEST_LV_0100_20171128_017062	Hm... Eles criaram um círculo mágico e estão fazendo um ritual...?{nl}Parece que a relíquia sagrada no local foi selada e suprimida,{nl}então não temos como econtrar...{nl}
+QUEST_LV_0100_20171128_017063	Enquanto investigamos outro loca, poderia quebrar o círculo mágico?{nl}Se os demônios realmente estão fazendo um ritual e suprimindo a relíquia,{nl}não será algo fácil de fazer.{nl}
+QUEST_LV_0100_20171128_017064	Leve isto com você.{nl}Pode ser útil para quebrar o círculo mágico.{nl}
+QUEST_LV_0100_20171128_017065	Tenha cuidado.
+QUEST_LV_0100_20171128_017066	Claro que, seria melhor se você encontrasse a segunda relíqua da Deusa Jurate.{nl}Pelo que a Deusa disse, sem isso não poderemos destruir o dispositivo dos demônios.
+QUEST_LV_0100_20171128_017067	Ah, é a relíquia divina da Deusa!{nl}Como mostrado nos itens de sacrifício de registros antigos!{nl}
+QUEST_LV_0100_20171128_017068	Por causa dos demônios e energia divina foi selada.
+QUEST_LV_0100_20171128_017069	Se você ir até Kite Coral Reef, vai achar Ancient Coral Rock e Coral Azul.{nl}Este coral antigo foi abençoado pela Deusa Jurate,{nl}ele possui uma energia oceânica muito poderosa.
+QUEST_LV_0100_20171128_017070	Se você levar a relíquia lá e tocá-la no coral,{nl}a energia oceânica vai repelir a energia maligna e purificá-la.{nl}Mas saiba que, quando a energia oceânica for liberada, o coral precisará de tempo para recarregar.
+QUEST_LV_0100_20171128_017071	Vou deixar isso com você.{nl}Enquanto você remove a energia maligna da relíquia divina,{nl}vou preparar a restauração.
+QUEST_LV_0100_20171128_017072	Você voltou?{nl}Ah, a energia maligna foi completamente removida da relíquia!
+QUEST_LV_0100_20171128_017073	Vou começar a restaurar esta relíquia.{nl}Enquanto faço isso, poderia me falar sobre o Corrupted Sandbank?{nl}
+QUEST_LV_0100_20171128_017074	Os demônios podem estar agindo, já que estamos com a relíquia.
+QUEST_LV_0100_20171128_017075	Certo, vou deixar o Corrupted Sandbank nas suas mãos.{nl}Podem acontecer ataques contra outros Reveladores, esteja preparado.{nl}
+QUEST_LV_0100_20171128_017076	Seria de grande ajuda se conseguir diminuir os números dos Nimrah e dos Varle.
+QUEST_LV_0100_20171128_017077	Verifique com cuidado a situação no Corrupted Sandbank.{nl}Podem haver mudanças no dispositivo demoníaco.
+QUEST_LV_0100_20171128_017078	Os demônios estão vindo de um portal?{nl}Os demônios estão de olho nessa área também.{nl}
+QUEST_LV_0100_20171128_017079	Parece que pequenos dispositivos amplificam a Kruvina mencionada pela Deusa,{nl}que então emite esta energia maligna.
+QUEST_LV_0100_20171128_017080	A restauração está concluída.{nl}Chegou a hora de destruir o dispositivo suspeito.
+QUEST_LV_0100_20171128_017081	Você provou as suas habilidades, então venha comigo para destruir o dispositivo.{nl}Vou falar para os demais Reveladores para impedir possíveis interrupções.{nl}
+QUEST_LV_0100_20171128_017082	Vá para o Corrupted Sandbank, estarei logo atrás.{nl}Nos encontramos lá.
+QUEST_LV_0100_20171128_017083	Certo, encontro você no Corrupted Sandbank.{nl}
+QUEST_LV_0100_20171128_017084	O dispositivo foi destruído!{nl}Agora a Iotheo Coast está livre da corrupção!
+QUEST_LV_0100_20171128_017085	O dispositivo demoníaco foi destruído,{nl}mas algumas partes desta costa continuam corrompidas.{nl}Precisamos nos preparar para purificar o local.
+QUEST_LV_0100_20171128_017086	A Kruvina também é urgente,{nl}mas se deixarmos a área assim, os demônios podem fazer uma emboscada.{nl}A cerimônia de purificação não demora muito, então vamos começar.
+QUEST_LV_0100_20171128_017087	Poderia levar esta garrafa para Letave Plateau e trazer um pouco de aura do mar?{nl}No caminho, pegue também um pouco de Musgo de Jurate para usar na cerimônia.
+QUEST_LV_0100_20171128_017088	Se eu pedir para os demais Reveladores ajudarem,{nl}não deve demorar muito pra reunir todos os materiais.
+QUEST_LV_0100_20171128_017089	Você só precisa trazer a aura do mar e Musgo de Jurate.{nl}O local está livre da influência dos demônios.
+QUEST_LV_0100_20171128_017090	Você coletou tudo rapidamente!{nl}Muito obrigado.
+QUEST_LV_0100_20171128_017091	Os preparativos para a cerimônia de purificação estão completos.{nl}Podemos começar?
+QUEST_LV_0100_20171128_017092	Você removeu o exército demoníaco da Iotheo Coast.{nl}Agradeço pela ajuda!{nl}
+QUEST_LV_0100_20171128_017093	Porém, os subordinados de Kartas ficaram mais espertos e ágeis.{nl}Quando a Kruvina foi ativada, Epherotao Coast foi tomada por demônios.{nl}
+QUEST_LV_0100_20171128_017094	Mesmo assim, com a ajuda das duas relíquias divinas,{nl}os dispositivos protegendo a Kruvina podem ser anulados e a Kruvina destruída.{nl}Se a corrupção acelerar, nosso poder será enfraquecido.{nl}
+QUEST_LV_0100_20171128_017095	Por favor, impeça os planos do Kartas.
+QUEST_LV_0100_20171128_017096	Se vamos seguir a Deusa, precisamos ser rápidos.{nl}Vou indo em frente, quando estiver pronto me encontre na Epherotao Coast. 
+QUEST_LV_0100_20171128_017097	Muito bem, vejo você na Epherotao Coast. 
+QUEST_LV_0100_20171128_017098	Se importa de me dar uma mão?{nl}Graças à cerimônia de purificação, a terra ficou livre da corrupção.{nl}Mas tem áreas na costa que ainda possuem energia maligna.{nl} 
+QUEST_LV_0100_20171128_017099	Planejo purificar estas áreas também, mas isso pode levar um tempo.{nl}Eu poderia terminar tudo mais rápido com a sua ajuda, então o que me diz?
+QUEST_LV_0100_20171128_017100	Então leve este Talismã de Coral.{nl}Foi feito pelo Loremaster Ugnius.{nl}
+QUEST_LV_0100_20171128_017101	O talismã irá direcionar você até a energia maligna.{nl}Só tenha cuidado, pois podem haver demônios ou monstros esperando para atacar.
+QUEST_LV_0100_20171128_017102	Vou cuidar das demais regiões,{nl}então peço que livre a Husk Reef da energia maligna.
+QUEST_LV_0100_20171128_017103	Tudo pronto?{nl}Eu também acabei de retornar.{nl}
+QUEST_LV_0100_20171128_017104	Graças à você, consegui terminar tudo em tempo.{nl}Agora Iotheo Coast não será mais corrompida!
+QUEST_LV_0100_20171128_017105	Você ainda viu algumas forças demoníacas nesta área?{nl}O dispositivo foi destruído e a energia maligna foi removida,{nl}mas estas forças restantes podem acabar causando problemas.
+QUEST_LV_0100_20171128_017106	Para manter a Iotheo Coast a salvo, quero me livrar destas forças.{nl}Quer se juntar a mim?
+QUEST_LV_0100_20171128_017107	Muito bem, por favor derrote os Ninmrah e Varle restantes.{nl}Não importa o local, só livre-se deles.
+QUEST_LV_0100_20171128_017108	Então, deixarei isso para você.
+QUEST_LV_0100_20171128_017109	Agradeço muito pela ajuda!{nl}Ficarei aque para garantir que a Iotheo Coast esteja a salvo.
+QUEST_LV_0100_20171128_017110	Não temos tempo para perder.{nl}Os Reveladores estão buscando pelos dispositivos demoníacos em outros locais.
+QUEST_LV_0100_20171128_017111	Você também veio para verificar Coral Forest Hill?{nl}Talvez haja um dispositivo demoníaco no local.
+QUEST_LV_0100_20171128_017112	Muito bem, vou deixar isso com você.{nl}Vá até Coral Forest Hill e informe sobre os demônios e possíveis dispositivos.
+QUEST_LV_0100_20171128_017113	Se os demônios estão utilizando o dispositivo como meio de teleporte,{nl}então eles planejam cruzar tudo de uma só vez.{nl}Não temos tempo.
+QUEST_LV_0100_20171128_017114	Hm...{nl}Os demônios começaram a se reunir aqui também.{nl}Rápido, o dispositivo precisa ser destruído.{nl}
+QUEST_LV_0100_20171128_017115	Pode ser difícil, mas isto precisa ser feito!
+QUEST_LV_0100_20171128_017116	Os demônios começaram a invocar as suas forças!{nl}As coisas ficarão mais difíceis se não destruirmos o dispositivo!{nl}
+QUEST_LV_0100_20171128_017117	Da mesma forma que o dispositivo de Iotheo Coast foi destruído,{nl}precisamos fazer o mesmo com o dispositivo deste local.{nl}Será perigoso, mas será possível graças à sua habilidade.
+QUEST_LV_0100_20171128_017118	Ótimo!{nl}Então poderia ir na frente,{nl}removendo as forças demoníacas da área ao redor do dispositivo?{nl}
+QUEST_LV_0100_20171128_017119	Vou deixar os outros dispositivos sob responsabilidade dos outros Reveladores e dos Loremasters.{nl}Quando eles voltarem, explico a situação e vou atrás de você.
+QUEST_LV_0100_20171128_017120	Nos encontramos na frente do dispositivo.{nl}Seja cuidadoso.
+QUEST_LV_0100_20171128_017121	Graças à sua ajuda, cheguei aqui em segurança.{nl}Você está preparado?{nl}
+QUEST_LV_0100_20171128_017122	Demônios irão brotar aqui quando tentarmos destruir o dispositivo.{nl}Da mesma forma que antes, por favor me dê retaguarda.
+QUEST_LV_0100_20171128_017123	O dispositivo foi destruído graças à você!{nl}Agora precisamos ver como que os outros Reveladores e os Loremasters estão.{nl}
+QUEST_LV_0100_20171128_017124	Primeiro, vamos até onde estão os Reveladores.{nl}Vejo você lá.
+QUEST_LV_0100_20171128_017125	Você veio.{nl}Os outros Reveladores e Loremasters seguiram para lidar com o dispositivo.
+QUEST_LV_0100_20171128_017126	Se importaria de ajudá-los?{nl}Eu também gostaria de ir, mas os demônios estão agindo estranhamente,{nl}então vou analisar as redondezas primeiro.
+QUEST_LV_0100_20171128_017127	Certo, então tenho um pedido.{nl}Como já tem dois outros Reveladores lá,{nl}tudo deve ser finalizado rapidamente.
+QUEST_LV_0100_20171128_017128	Gostaria que você lidasse com outro dispositivo demoníaco.{nl}Enquanto isso, eu verifico as reações dos demônios.
+QUEST_LV_0100_20171128_017129	O dispositivo demoníaco foi destruído?
+QUEST_LV_0100_20171128_017130	São ótimas notícias!{nl}Agora que todos os dispositivos se foram, podemos lidar com a Kruvina.{nl}
+QUEST_LV_0100_20171128_017131	Mas tem um problema.{nl}Parece que os demônios ativaram uma armadilha.
+QUEST_LV_0100_20171128_017132	O caminho na direção da enorme Kruvina está transbordando de energia maligna.{nl}Você já teve ter visto algo semelhante no passado.
+QUEST_LV_0100_20171128_017133	Naquele momento, o Revelador que tentou remover a energia maligna concentrada se machucou feio.{nl}Se continuarmos assim, alcançar esta Kruvina será muito difícil.
+QUEST_LV_0100_20171128_017134	Revelador, não há ninguém mais habilidoso que você no momento.{nl}Preciso pedir... Por favor, destrua a energia maligna junto com o supressor.{nl}
+QUEST_LV_0100_20171128_017135	Leve este talismã com você.{nl}Isto irá manter você fora da visão dos demônios quando estiverem próximos.
+QUEST_LV_0100_20171128_017136	Certo, seguirei logo em seguida.{nl}Nos encontramos em Iotheo Coast.
+QUEST_LV_0100_20171128_017137	Ah, você veio!{nl}Vendo que você chegou em segurança, imagino que foi um sucesso!{nl}
+QUEST_LV_0100_20171128_017138	As áreas ao redor parecem estar livres da energia maligna.{nl}Você realizou uma tarefa perigosa.{nl}Agradeço muito pela ajuda.{nl}
+QUEST_LV_0100_20171128_017139	Agora podemos ir até a enorme Kruvina.
+QUEST_LV_0100_20171128_017140	Vamos rápido.{nl}Sinto uma magia estranha vindo da volta dessa enorme Kruvina.
+QUEST_LV_0100_20171128_017141	Os outros Reveladores e Loremasters cuidarão dos reforços dos demônios.{nl}Nós vamos destruir esta enorme Kruvina.
+QUEST_LV_0100_20171128_017142	Quando estiver pronto, vamos agir.
+QUEST_LV_0100_20171128_017143	Sem a sua ajuda, não conseguiríamos destruir esta Kruvina!{nl}Só a minha energia divina talvez não seria o suficiente.
+QUEST_LV_0100_20171128_017144	Agora só resta restaurar a costa para o seu estado anterior.{nl}E tudo só foi possível graças à sua ajuda.
 QUEST_LV_0100_20171128_017145	Hm?
-QUEST_LV_0100_20171128_017146	I feel a strange divine energy from the relic!
-QUEST_LV_0100_20171128_017147	I must listen to Goddess Jurate and purify this place.{nl}As you travel to other coasts and fight against the demons, I pray that Goddess Jurate keeps you safe.
-QUEST_LV_0100_20171128_017148	You have helped Goddess Jurate by saving this coast. Thank you.
-QUEST_LV_0100_20171128_017149	Your name will forever be remembered amongst the Loremasters. 
-QUEST_LV_0100_20171128_017150	Well then, I will collect the other Revelators and Loremasters and meet you at the entrance to the Heart of the Sea.
-QUEST_LV_0100_20171128_017151	The Varle will be blocking our way.{nl}But the other Revelators and Loremasters will fight them off so that we will have a chance to destroy the Massive Kruvina. 
+QUEST_LV_0100_20171128_017146	Sinto uma energia divina muito estranha vindo da relíquia!
+QUEST_LV_0100_20171128_017147	Preciso ouvir a Deusa Jurate e purificar este local.{nl}Enquanto você viaja por outras costas e enfrenta os demônios,{nl}rezarei para que a Deusa Jurate mantenha você a salvo.
+QUEST_LV_0100_20171128_017148	Você ajudou a Deusa Jurate salvando esta costa!{nl}A sua ajuda será lembrada para sempre!
+QUEST_LV_0100_20171128_017149	Seu nome será lembrado pelos Loremasters.
+QUEST_LV_0100_20171128_017150	Muito bem, irei reunir os outros Reveladores e Loremasters.{nl}Nos encontramos na entrada do Heart of the Sea.
+QUEST_LV_0100_20171128_017151	Os Varle irão bloquear o nosso caminho.{nl}Mas os demais Reveladores e Loremasters irão enfrentá-los,{nl}sendo assim teremos uma chance de destruir esta enorme Kruvina.
 QUEST_LV_0100_20171128_017152	Loremaster Emmanuelis
-QUEST_LV_0100_20171128_017153	Ah, you are the Revelator.{nl}You and Ugnius did well destroying the device.{nl}
-QUEST_LV_0100_20171128_017154	During that time, I was monitoring the demon forces.{nl}After the device was destroyed, their movements through the portal also stopped, but it seems many problems still remain.
-QUEST_LV_0100_20171128_017155	The broken fragments of the device have been embedded in the soil.{nl}It's unclear what they are up to..{nl}
-QUEST_LV_0100_20171128_017156	Ugnius and I were discussing how to purify corruption areas, but we're not sure if this is all connected.{nl}If it's no burden to you, could you collect the fragments buried by the demons and bring them to me?{nl} 
-QUEST_LV_0100_20171128_017157	If you go to the location of the broken device you'll see shiny red fragments buried in the soil.
-QUEST_LV_0100_20171128_017158	Hm, are those fragments fueling the corruption or accelerating it?{nl}Or could be blocking the purification..{nl}
-QUEST_LV_0100_20171128_017159	Oh, you collected more than expected!{nl}Thank you!{nl}
-QUEST_LV_0100_20171128_017160	This will help us research more about the corruption.
-QUEST_LV_0100_20171128_017161	Thanks to you and the other Revelators, the Kartas's plan has been disrupted.{nl}You deferred a potential attack. 
-QUEST_LV_0100_20171128_017162	However, due to the demons, some areas have fallen under corruption.{nl}The Loremasters are planning to purify these areas, but the water has dried up and bring life back will take time.
-QUEST_LV_0100_20171128_017163	I will work harder to prevent this disaster from happening again.{nl}I was the one protecting the ocean from evil...
-QUEST_LV_0100_20171128_017164	But now humans are protecting it from the demons working to defile it.{nl}
-QUEST_LV_0100_20171128_017165	This is my small gift.{nl}The ocean's blessing will be with you.
-QUEST_LV_0100_20171128_017166	It seems that the corruption is seeping into the soil.{nl}When we try to purify the coast the corruption simply returns again.{nl}
-QUEST_LV_0100_20171128_017167	Because the fragments are buried deep within the soil, the corruption remains. And digging them all up would be a tiring task.{nl}However, another idea came to mind. Could you help?
-QUEST_LV_0100_20171128_017168	The remaining demon forces are preventing us from purifying the coast.{nl}Other Revelators and Loremasters are lending a hand, but the remaining number is too great.{nl}
-QUEST_LV_0100_20171128_017169	Would you be willing to help?
-QUEST_LV_0100_20171128_017170	Then I have a request.{nl}Unlike the other coasts, this area had the most devices and the most corruption.The number of demons is unbelievable.{nl}
-QUEST_LV_0100_20171128_017171	If you can finish off as many demons as possible, I would be grateful.
-QUEST_LV_0100_20171128_017172	I'm sorry for giving you a difficult task.
-QUEST_LV_0100_20171128_017173	That was fast.{nl}Thank you for your help.{nl}
-QUEST_LV_0100_20171128_017174	I need to conduct deeper research on the Demon Device and restore the Coast.
-QUEST_LV_0100_20171128_017175	Good.{nl}Please take this holy water.{nl}
-QUEST_LV_0100_20171128_017176	This holy water is blessed by Jurate and is mixed with a few materials used during exorcisms.{nl}I used the fragments you collected to test which materials would cause the corruption to react.{nl}
-QUEST_LV_0100_20171128_017177	I then sprayed the holy water on buried fragments and they melted away, purifying the area.{nl}So I recommend going to the Eperotao Coast and using the holy water on areas that feel corrupted.
-QUEST_LV_0100_20171128_017178	Please purify the coast.{nl}I will continue to research other ways to fight the corruption.{nl}
-QUEST_LV_0100_20171128_017179	It looks like the holy water was put to good use!{nl}Well done.{nl}
-QUEST_LV_0100_20171128_017180	The corruption has disappeared from view but there may still be some residue hiding out of sight.{nl}I'll grateful for your help.{nl}
-QUEST_LV_0100_20171128_017181	Ugnius and I will stay here and investigate the remaining corruption and purify it.
-QUEST_LV_0100_20171128_017182	The demons are still greedy for the Coral Plains.{nl}{nl}Through your deeds you have protected the Coral Plains from the demons thus far, but they lie in wait for their next opportunity. {nl}I ask that you continue to protect the coral and the ocean.
-QUEST_LV_0100_20171128_017183	Dungeon Message 
-QUEST_LV_0100_20171128_017184	You can now use Instanced Dungeons!{nl}Press the F5 key to read the details in the Quest info window!
-QUEST_LV_0100_20171128_017185	Followers of Goddess Jurate(1)
-QUEST_LV_0100_20171128_017186	I have other reasons for coming. 
-QUEST_LV_0100_20171128_017187	Followers of Goddess Jurate(2)
-QUEST_LV_0100_20171128_017188	Followers of Goddess Jurate(3)
-QUEST_LV_0100_20171128_017189	Followers of Goddess Jurate(4)
-QUEST_LV_0100_20171128_017190	That's correct.
-QUEST_LV_0100_20171128_017191	No, that's another person.
-QUEST_LV_0100_20171128_017192	The Missing Loremaster
-QUEST_LV_0100_20171128_017193	That sounds difficult.
-QUEST_LV_0100_20171128_017194	First Aid(1)
-QUEST_LV_0100_20171128_017195	Of course I will help.
-QUEST_LV_0100_20171128_017196	First Aid(2)
-QUEST_LV_0100_20171128_017197	That's a difficult request. I'll need some time.
-QUEST_LV_0100_20171128_017198	Ritual for the Sea(1)
-QUEST_LV_0100_20171128_017199	Ritual for the Sea(2)
-QUEST_LV_0100_20171128_017200	Just wait a moment.
-QUEST_LV_0100_20171128_017201	Ritual for the Sea(3)
-QUEST_LV_0100_20171128_017202	I'll go first.
-QUEST_LV_0100_20171128_017203	I'll wait.
-QUEST_LV_0100_20171128_017204	Demons here too..?
-QUEST_LV_0100_20171128_017205	I can handle it
-QUEST_LV_0100_20171128_017206	I'll do it later.
-QUEST_LV_0100_20171128_017207	The Suspicious Demons
-QUEST_LV_0100_20171128_017208	Talk about what happened in Zeteor Coast. 
-QUEST_LV_0100_20171128_017209	Identifying the Magic Circle
-QUEST_LV_0100_20171128_017210	Talk about what you witnessed at the occupied lowlands.
-QUEST_LV_0100_20171128_017211	There was nothing new.
-QUEST_LV_0100_20171128_017212	Sealed Relic
-QUEST_LV_0100_20171128_017213	What do I have to do?
-QUEST_LV_0100_20171128_017214	Solve it as quickly as possible. 
-QUEST_LV_0100_20171128_017215	I'll check and come right back.
-QUEST_LV_0100_20171128_017216	Destroy the Suspicious Device
-QUEST_LV_0100_20171128_017217	Purification Ritual 
-QUEST_LV_0100_20171128_017218	I'll help with the purification
-QUEST_LV_0100_20171128_017219	Tell me when you are finished
-QUEST_LV_0100_20171128_017220	Goddess Jurate's Message
-QUEST_LV_0100_20171128_017221	There's no problem
-QUEST_LV_0100_20171128_017222	Towards Eperotao Coast
-QUEST_LV_0100_20171128_017223	Swift Purification
-QUEST_LV_0100_20171128_017224	Right now I have other important task
-QUEST_LV_0100_20171128_017225	Dealing with the remaining demons
-QUEST_LV_0100_20171128_017226	It'll be difficult this time
-QUEST_LV_0100_20171128_017227	Figuring out the situation
-QUEST_LV_0100_20171128_017228	Let me get ready
-QUEST_LV_0100_20171128_017229	Relaying what you saw
-QUEST_LV_0100_20171128_017230	Destroy the Demon Device(1)
-QUEST_LV_0100_20171128_017231	Destroy the Demon Device(2)
-QUEST_LV_0100_20171128_017232	Destroy the Demon Device(3)
-QUEST_LV_0100_20171128_017233	I'll wait here
-QUEST_LV_0100_20171128_017234	Destroy the Massive Kruvina(1) 
-QUEST_LV_0100_20171128_017235	I'll stop the device
-QUEST_LV_0100_20171128_017236	Destroy the Massive Kruvina(2) 
-QUEST_LV_0100_20171128_017237	The Goddess' Reply
-QUEST_LV_0100_20171128_017238	Purification Research(1)
-QUEST_LV_0100_20171128_017239	Purification Research(2) 
-QUEST_LV_0100_20171128_017240	How can I do it?
-QUEST_LV_0100_20171128_017241	That's too difficult to do now
-QUEST_LV_0100_20171128_017242	Defeat the stragglers
-QUEST_LV_0100_20171128_017243	I'll eradicate the stragglers
-QUEST_LV_0100_20171128_017244	It has to be easier now
+QUEST_LV_0100_20171128_017153	Ah, você é o Revelador.{nl}Você e o Ugnius agiram bem destruindo o dispositivo.{nl}
+QUEST_LV_0100_20171128_017154	Enquanto faziam isso, eu monitorava as forças demoníacas.{nl}Depois que o dispositivo foi destruído, a movimentação deles parou,{nl}só que parece que muitos problemas ainda persistem.
+QUEST_LV_0100_20171128_017155	Os fragmentos quebrados do dispositivos se entranharam no solo.{nl}Não dá pra saber o que pode acontecer...{nl}
+QUEST_LV_0100_20171128_017156	Eu e o Ugnius discutimos como purificar as áreas corrompidas,{nl}mas não temos certeza se isso possui alguma conexão.{nl}Se não for algo muito complicado para você,{nl}poderia coletar os fragmentos enterrados pelos demônios e trazê-los até mim?{nl} 
+QUEST_LV_0100_20171128_017157	Se você ir até o local do dispositivo quebrado,{nl}verá alguns fragmentos brilhosos e vermelhos, enterrados no solo.
+QUEST_LV_0100_20171128_017158	Hm, estes fragmentos alimentam a corrupção ou estão acelerando o processo?{nl}Ou estariam bloqueando a purificação...{nl}
+QUEST_LV_0100_20171128_017159	Ah, você coletou mais do que eu esperava!{nl}Muito obrigado!{nl}
+QUEST_LV_0100_20171128_017160	Isso vai nos ajudar a pesquisar mais sobre a corrupção do local.
+QUEST_LV_0100_20171128_017161	Graças a ti e aos demais Reveladores, os planos do Kartas foram interrompidos.{nl}Tu realizastes um ataque muito forte nos planos dele.
+QUEST_LV_0100_20171128_017162	Porém, por causa dos demônios, algumas áreas ficaram corrompidas.{nl}Os Loremasters planejam purificar estas áreas,{nl}mas a água foi drenada e fazer gerar vida no local vai demorar.
+QUEST_LV_0100_20171128_017163	Vou trabalhar duro para evitar que este desastre aconteça novamente.{nl}Era eu quem protegia o oceano contra a maldade...
+QUEST_LV_0100_20171128_017164	Mas agora humanos estão protegendo o local contra as ações dos demônios.{nl}
+QUEST_LV_0100_20171128_017165	Este é um pequeno agradecimento meu.{nl}A bênção dos oceanos estará contigo.
+QUEST_LV_0100_20171128_017166	Parece que a corrupção está se infiltrando no solo.{nl}Ela retorna sempre que tentamos purificar a costa.{nl}
+QUEST_LV_0100_20171128_017167	Por causa dos fragmentos enterrados no solo, a corrupção permanece.{nl}Retirar estes fragmentos será uma tarefa demorada e complicada.{nl}Porémn, tive uma outra ideia. Poderia me ajudar?
+QUEST_LV_0100_20171128_017168	As forças demoníacas restantes estão proibindo a purificação.{nl}Outros Reveladores e Loremasters estão ajudando, mas o número restante ainda é muito grande.{nl}
+QUEST_LV_0100_20171128_017169	Estaria disposto a ajudar?
+QUEST_LV_0100_20171128_017170	Então tenho um pedido a fazer.{nl}Diferente das outras costas, esta área tem muitos dispositivos e a maior corrupção.{nl}O número de demônios aqui é fora da realidade.{nl}
+QUEST_LV_0100_20171128_017171	Se você puder derrotar o maior número possível deles, seria uma enorme ajuda.
+QUEST_LV_0100_20171128_017172	Desculpe por pedir algo tão difícil assim.
+QUEST_LV_0100_20171128_017173	Nossa, mas foi rápido!{nl}Agradeço muito pela ajuda!{nl}
+QUEST_LV_0100_20171128_017174	Vou conduzir um estudo profundo no dispositivo demoníaco e restaurar a costa.
+QUEST_LV_0100_20171128_017175	Ótimo!{nl}Por favor, pegue esta Holy Water.{nl}
+QUEST_LV_0100_20171128_017176	Ela está abençoada pela Deusa Jurate e misturada com alguns materiais de exorcismo.{nl}Usei os fragmentos coletados para testar quais materiais reagem à corrupção.{nl}
+QUEST_LV_0100_20171128_017177	Espalhei a Holy Water nos fragmentos enterrados e eles derretaram, purificando a área.{nl}Recomento ir até Epherotao Coast e usar esta Holy Water nas áreas corrompidas.
+QUEST_LV_0100_20171128_017178	Por favor, purifique a costa.{nl}Continuarei a pesquisar outros meios de lutar contra a corrupção.{nl}
+QUEST_LV_0100_20171128_017179	Parece que a Holy Water foi muito útil!{nl}Muito bom.{nl}
+QUEST_LV_0100_20171128_017180	A corrupção sumiu de vista, mas ainda devem existir focos residuais.{nl}Agradeço muito a sua ajuda.{nl}
+QUEST_LV_0100_20171128_017181	Eu e o Ugnius ficaremos aqui para investigar e purificar os focos restantes.
+QUEST_LV_0100_20171128_017182	Os demônios ainda desejam a planície de corais.{nl}Você protegeu o local contra os demônios até agora,{nl}mas certamente eles continuarão tentando, aguardando a próxima oportunidade.{nl}Peço que você continue protegento tanto os corais quanto o oceano.
+QUEST_LV_0100_20171128_017183	Mensagem da Dungeon
+QUEST_LV_0100_20171128_017184	Agora você já pode acessar as Dungeons!{nl}Pressione F5 e leia os detalhes nas informações da Missão!
+QUEST_LV_0100_20171128_017185	Os Seguidores da Deusa Jurate (1)
+QUEST_LV_0100_20171128_017186	Tenho outras razões para ter vindo.
+QUEST_LV_0100_20171128_017187	Os Seguidores da Deusa Jurate (2)
+QUEST_LV_0100_20171128_017188	Os Seguidores da Deusa Jurate (3)
+QUEST_LV_0100_20171128_017189	Os Seguidores da Deusa Jurate (4)
+QUEST_LV_0100_20171128_017190	Está correto.
+QUEST_LV_0100_20171128_017191	Não, deve ser outra pessoa.
+QUEST_LV_0100_20171128_017192	Loremaster Desaparecido
+QUEST_LV_0100_20171128_017193	Isso parece ser muito difícil.
+QUEST_LV_0100_20171128_017194	Primeiros Socorros (1)
+QUEST_LV_0100_20171128_017195	Claro que irei ajudar.
+QUEST_LV_0100_20171128_017196	Primeiros Socorros (2)
+QUEST_LV_0100_20171128_017197	Isso é muito difícil. Preciso de um tempo.
+QUEST_LV_0100_20171128_017198	Ritual para o Mar (1)
+QUEST_LV_0100_20171128_017199	Ritual para o Mar (2)
+QUEST_LV_0100_20171128_017200	Espere só um pouco.
+QUEST_LV_0100_20171128_017201	Ritual para o Mar (3)
+QUEST_LV_0100_20171128_017202	Eu vou indo primeiro.
+QUEST_LV_0100_20171128_017203	Vou esperar.
+QUEST_LV_0100_20171128_017204	Demônios aqui também...?
+QUEST_LV_0100_20171128_017205	Posso lidar com isso
+QUEST_LV_0100_20171128_017206	Vou fazer isso mais tarde.
+QUEST_LV_0100_20171128_017207	Os Demônios Suspeitos
+QUEST_LV_0100_20171128_017208	Falar sobre o que houve em Zeteor Coast. 
+QUEST_LV_0100_20171128_017209	Identificando o Círculo Mágico
+QUEST_LV_0100_20171128_017210	Fale sobre o que viu na área ocupada.
+QUEST_LV_0100_20171128_017211	Nada de novo.
+QUEST_LV_0100_20171128_017212	Relíquia Selada
+QUEST_LV_0100_20171128_017213	O que tenho que fazer?
+QUEST_LV_0100_20171128_017214	Resolver o mais rápido possível.
+QUEST_LV_0100_20171128_017215	Vou ver e volto logo.
+QUEST_LV_0100_20171128_017216	Destruir o Dispositivo Suspeito
+QUEST_LV_0100_20171128_017217	Ritual de Purificação
+QUEST_LV_0100_20171128_017218	Ajudarei com a purificação
+QUEST_LV_0100_20171128_017219	Me avise quando estiver tudo pronto
+QUEST_LV_0100_20171128_017220	Mensagem da Deusa Jurate
+QUEST_LV_0100_20171128_017221	Sem problemas
+QUEST_LV_0100_20171128_017222	Para Epherotao Coast
+QUEST_LV_0100_20171128_017223	Purificação Rápida
+QUEST_LV_0100_20171128_017224	No momento tenho coisas mais importantes...
+QUEST_LV_0100_20171128_017225	Lidando com os demônios restantes
+QUEST_LV_0100_20171128_017226	Dessa vez vai ser difícil
+QUEST_LV_0100_20171128_017227	Entendendo a situação
+QUEST_LV_0100_20171128_017228	Vou me preparar
+QUEST_LV_0100_20171128_017229	Repassando o que viu
+QUEST_LV_0100_20171128_017230	Destruir o Dispositivo Demoníaco (1)
+QUEST_LV_0100_20171128_017231	Destruir o Dispositivo Demoníaco (2)
+QUEST_LV_0100_20171128_017232	Destruir o Dispositivo Demoníaco (3)
+QUEST_LV_0100_20171128_017233	Vou esperar aqui
+QUEST_LV_0100_20171128_017234	Destruir a Enorme Kruvina (1)
+QUEST_LV_0100_20171128_017235	Vou parar o dispositivo
+QUEST_LV_0100_20171128_017236	Destruir a Enorme Kruvina (2)
+QUEST_LV_0100_20171128_017237	A Resposta da Deusa
+QUEST_LV_0100_20171128_017238	Pesquisa de Purificação (1)
+QUEST_LV_0100_20171128_017239	Pesquisa de Purificação (2) 
+QUEST_LV_0100_20171128_017240	Como que eu faço isso?
+QUEST_LV_0100_20171128_017241	Muito difícil para mim agora
+QUEST_LV_0100_20171128_017242	Derrote os retardatários
+QUEST_LV_0100_20171128_017243	Vou acabar com os retardatários
+QUEST_LV_0100_20171128_017244	Deve ser mais fácil agora
 QUEST_LV_0100_20171128_017245	Archivist Jonas seem to have finally regained his consciousness. Jonas told you to follow him as there is a task that you are qualified to do. In order for Jonas to guide you safely to Beacon Hill Pass, defeat monsters along the way.
 QUEST_LV_0100_20171128_017246	Find Sentinel Rian
 QUEST_LV_0100_20171128_017247	You are now allowed to use instanced dungeons.{nl}Instanced dungeons help you raise your character faster.{nl}{nl}Type 
@@ -17273,22 +17273,22 @@ QUEST_LV_0100_20171128_017272	Escort Loremaster Ugnius
 QUEST_LV_0100_20171128_017273	Escort Loremaster Ugnius safely to Loremaster Narius. Protect Loremaster Ugnius from attacking monsters and escort him to Loremaster Narius' location.
 QUEST_LV_0100_20171128_017274	Check on Loremaster Narius
 QUEST_LV_0100_20171128_017275	Loremaster Ugnius is preparing a ritual to hear the voice of the Goddess Jurate. Talk to him. 
-QUEST_LV_0100_20171128_017276	Collect Blue Coral
+QUEST_LV_0100_20171128_017276	Collect Coral Azul
 QUEST_LV_0100_20171128_017277	Loremaster Ugnius is asking you to collect some blue coral instead of Loremaster Ugnius. 
 QUEST_LV_0100_20171128_017278	You have collected all the coral Loremaster Ugnius requested. Return to him. 
 QUEST_LV_0100_20171128_017279	Loremaster Ugnius is about to start the offering ceremony to Goddess Jurate. Talk to him. 
 QUEST_LV_0100_20171128_017280	Loremaster Ugnius seems to have something to say to you.
-QUEST_LV_0100_20171128_017281	Speak with Revelator Nichi
-QUEST_LV_0100_20171128_017282	Loremaster Ugnius asked you to go to Aitheo Coast and meet with Revelator Nichi. Talk to her. 
+QUEST_LV_0100_20171128_017281	Speak with Reveladora Nichi
+QUEST_LV_0100_20171128_017282	Loremaster Ugnius asked you to go to Iotheo Coast and meet with Reveladora Nichi. Talk to her. 
 QUEST_LV_0100_20171128_017283	Loremaster Narius seems to have a request for you.
 QUEST_LV_0100_20171128_017284	Investigate Tolata Sandbank
 QUEST_LV_0100_20171128_017285	Loremaster Narius said he saw a few demons roaming around Tolata Sandbank. Go investigate the area.
 QUEST_LV_0100_20171128_017286	You have found the suspicious crystal at Tolata Sandbank that Loremaster Narius mentioned. Return to him. 
-QUEST_LV_0100_20171128_017287	Revelator Nichi is preparing something. Talk to her.
+QUEST_LV_0100_20171128_017287	Reveladora Nichi is preparing something. Talk to her.
 QUEST_LV_0100_20171128_017288	Clear out the Demons
-QUEST_LV_0100_20171128_017289	Revelator Nichi has asked you to remove the Nimrah and Varle that roam the area.
+QUEST_LV_0100_20171128_017289	Reveladora Nichi has asked you to remove the Nimrah and Varle that roam the area.
 QUEST_LV_0100_20171128_017290	Occupied Lowlands Recon 
-QUEST_LV_0100_20171128_017291	Revelator Nichi has asked you to clear out the Nimrah and Varle and to report back about the occupied lowlands. Go to the occupied lowlands.
+QUEST_LV_0100_20171128_017291	Reveladora Nichi has asked you to clear out the Nimrah and Varle and to report back about the occupied lowlands. Go to the occupied lowlands.
 QUEST_LV_0100_20171128_017292	Defeat the Nimrah and Varle
 QUEST_LV_0100_20171128_017293	Loremaster Ugnius has arrived. Talk to him about what you saw at the occupied lowlands.
 QUEST_LV_0100_20171128_017294	Search for the relic at the occupied lowlands
@@ -17296,7 +17296,7 @@ QUEST_LV_0100_20171128_017295	Loremaster Ugnius believes the magic circles seen 
 QUEST_LV_0100_20171128_017296	You have retrieved the relic that was sealed by the demons. Return to Loremaster Ugnius.
 QUEST_LV_0100_20171128_017297	Break the magic circle and retrieve %s 
 QUEST_LV_0100_20171128_017298	Loremaster Ugnius seems to know a way to remove the seal from the sealed relic. Talk to him. 
-QUEST_LV_0100_20171128_017299	Purifying the Sealed Relic
+QUEST_LV_0100_20171128_017299	Purifying the Relíquia Selada
 QUEST_LV_0100_20171128_017300	Loremaster Ugnius has recommended that you use the ocean's energy to wash the sealed relic. Go to Kite Coral Reef and use the energy in the coral to repel the evil from the relic.
 QUEST_LV_0100_20171128_017301	You have completed the task that Loremaster Ugnius requested of you. Return to him. 
 QUEST_LV_0100_20171128_017302	Loremaster Ugnius looks like he is going to remove the seal from the washed relic. Talk to him. 
@@ -17312,15 +17312,15 @@ QUEST_LV_0100_20171128_017311	Loremaster Ugnius is preparing to purify the demon
 QUEST_LV_0100_20171128_017312	You have collected all the material that Loremaster Ugnius requested. Return to him. 
 QUEST_LV_0100_20171128_017313	It seems that Loremaster Ugnius will begin the Purification Ritual. 
 QUEST_LV_0100_20171128_017314	Loremaster Ugnius has finished the ritual. Talk to him.
-QUEST_LV_0100_20171128_017315	Loremaster Ugnius went ahead first to the Eperotao Coast. Find Loremaster Ugnius at Eperotao Coast. 
-QUEST_LV_0100_20171128_017316	Revelator Nichi may be planning to remove the remaining corruption from the Aitheo Coast.
-QUEST_LV_0100_20171128_017317	Clear the Aitheo Coast of the remaining evil energy
-QUEST_LV_0100_20171128_017318	As Revelator Nichi said, the purification ritual cleared the source of the pollution but some evil still remains. Use the Coral Talisman given to you by Nichi and release this evil energy.
-QUEST_LV_0100_20171128_017319	You cleared the Aitheo Coast of the remaining evil energy. Go tell Revelator Nichi.
-QUEST_LV_0100_20171128_017320	Revelator Nichi seems to have a request for you.
-QUEST_LV_0100_20171128_017321	Defeat the demons at Aitheo Coast
-QUEST_LV_0100_20171128_017322	Revelator Nichi has asked you to defeat the remaining demon forces.
-QUEST_LV_0100_20171128_017323	You defeated the remaining demons as Revelator Nichi requested. Report back to Revelator Nichi. 
+QUEST_LV_0100_20171128_017315	Loremaster Ugnius went ahead first to the Epherotao Coast. Find Loremaster Ugnius at Epherotao Coast. 
+QUEST_LV_0100_20171128_017316	Reveladora Nichi may be planning to remove the remaining corruption from the Iotheo Coast.
+QUEST_LV_0100_20171128_017317	Clear the Iotheo Coast of the remaining evil energy
+QUEST_LV_0100_20171128_017318	As Reveladora Nichi said, the purification ritual cleared the source of the pollution but some evil still remains. Use the Talismã de Coral given to you by Nichi and release this evil energy.
+QUEST_LV_0100_20171128_017319	You cleared the Iotheo Coast of the remaining evil energy. Go tell Reveladora Nichi.
+QUEST_LV_0100_20171128_017320	Reveladora Nichi seems to have a request for you.
+QUEST_LV_0100_20171128_017321	Defeat the demons at Iotheo Coast
+QUEST_LV_0100_20171128_017322	Reveladora Nichi has asked you to defeat the remaining demon forces.
+QUEST_LV_0100_20171128_017323	You defeated the remaining demons as Reveladora Nichi requested. Report back to Reveladora Nichi. 
 QUEST_LV_0100_20171128_017324	Loremaster Ugnius seems to have a scouting request for you.
 QUEST_LV_0100_20171128_017325	Coral Forest Hill Recon 
 QUEST_LV_0100_20171128_017326	Loremaster Ugnius has asked you to scout out Coral Forest Hill.
@@ -17344,9 +17344,9 @@ QUEST_LV_0100_20171128_017343	It seems like Loremaster Ugnius wants to explain m
 QUEST_LV_0100_20171128_017344	Avoid the demon's trap and destroy the suppressor
 QUEST_LV_0100_20171128_017345	Because of the demon's trap, Loremaster Ugnius said the path to the Kruvina is too dangerous. Avoid the demon's trap and destory the suppressor.
 QUEST_LV_0100_20171128_017346	You destroyed the device blocking the way to the Massive Kruvina. Listen to Loremaster Ugnius next plan.
-QUEST_LV_0100_20171128_017347	Destroy the Massive Kruvina at the Heart of the Sea.
+QUEST_LV_0100_20171128_017347	Destruir a Enorme Kruvina  at the Heart of the Sea.
 QUEST_LV_0100_20171128_017348	Loremaster Ugnius has said to go destroy the Massive Kruvina. He will gather the other Revelators and Loremasters and meet you there.
-QUEST_LV_0100_20171128_017349	Destroy the Massive Kruvina
+QUEST_LV_0100_20171128_017349	Destruir a Enorme Kruvina 
 QUEST_LV_0100_20171128_017350	You helped Loremaster Ugnius destroy the Massive Kruvina. Talk to him. 
 QUEST_LV_0100_20171128_017351	Talk with Loremaster Emmanuelis
 QUEST_LV_0100_20171128_017352	It looks like Loremaster Emmanuelis is researching the demon's effects on the coast. Speak to him. 
@@ -17359,7 +17359,7 @@ QUEST_LV_0100_20171128_017358	The source of the corruption remains in the ground
 QUEST_LV_0100_20171128_017359	You have purified all the piles of soil that Emmanuelis requested of you. Return to him. 
 QUEST_LV_0100_20171128_017360	Emmanuelis seems to have a request for you.
 QUEST_LV_0100_20171128_017361	Eradicate the surviving demon forces
-QUEST_LV_0100_20171128_017362	Emmanuelis has asked you to defeat the remaining demon forces in Eperotao Coast. Go and eradicate them.
+QUEST_LV_0100_20171128_017362	Emmanuelis has asked you to defeat the remaining demon forces in Epherotao Coast. Go and eradicate them.
 QUEST_LV_0100_20171128_017363	As Emmanuelis requested, you have forced out all the remaining forces. Return to him. 
 QUEST_LV_0100_20171128_017364	Defeat the remaining demon forces
 QUEST_LV_0100_20171207_017365	The fact that a metal, Mana Metal, with such high resistance against magic exists is strange, but if such a metal does exist, then there couldn't have been enough to make more than one set of armor. The commander, Ruklys, would have been the only one wearing such an armor, otherwise it wouldn't make sense if the Mana Metal were distributed to that many of his troops.{nl}It is just as reasonable that the opposite was true.

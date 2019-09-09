@@ -5341,7 +5341,7 @@ ETC_20150317_005340	What do you mean?
 ETC_20150317_005341	For the moment being, from the Golem!
 ETC_20150317_005342	Burning the dumble ball called on the angry Vubbes!
 ETC_20150317_005343	Austeja Follower
-ETC_20150317_005344	Goddess Austeja
+ETC_20150317_005344	Deusa Austeja
 ETC_20150317_005345	Austeja Altar
 ETC_20150317_005346	Seal Tower
 ETC_20150317_005347	Giant Mutated Plant
@@ -7108,7 +7108,7 @@ ETC_20150317_007108	Block the Thorn Forest Raid 1
 ETC_20150317_007109	Block the Thorn Forest Raid 2
 ETC_20150317_007110	Bouquet 1
 ETC_20150317_007111	Bouquet 2
-ETC_20150317_007112	Gatíneo
+ETC_20150317_007112	Gato
 ETC_20150317_007113	Royal Mausoleum Cube
 ETC_20150317_007114	Royal Mausoleum Tombstone01
 ETC_20150317_007115	Royal Mausoleum Tombstone02
@@ -10513,7 +10513,7 @@ ETC_20150401_010514	Fedimian Mercenary Post Manager
 ETC_20150401_010515	Fedimian Accessory Merchant
 ETC_20150401_010516	Fedimian Manager
 ETC_20150401_010517	Fedimian Village Lady
-ETC_20150401_010518	Goddess Austeja
+ETC_20150401_010518	Deusa Austeja
 ETC_20150401_010519	OBB Pillar
 ETC_20150401_010520	Dungeon Event Manager
 ETC_20150401_010521	Joseph Rock
@@ -21301,7 +21301,7 @@ ETC_20160323_021302	Recipe - Palemidas Amulet
 ETC_20160323_021303	Recipe - Pertraukos Amulet
 ETC_20160323_021304	Rank: {Number}
 ETC_20160323_021305	You can't move to the instanced dungeon.
-ETC_20160323_021306	EXP Gain
+ETC_20160323_021306	Ganho de EXP
 ETC_20160323_021307	You can't use it at the max level.
 ETC_20160323_021308	Physical Damage Decrease
 ETC_20160323_021309	Magic Damage Decrease
@@ -26413,9 +26413,9 @@ ETC_20170123_026414	Skill Reset Potion (14 Days)
 ETC_20170126_026415	Ashaq Underground Prison - Modo Fácil
 ETC_20170126_026416	Entrar em Ashaq Underground Prison (Fácil)
 ETC_20170126_026417	Hanbok Package (Male)
-ETC_20170126_026418	Right-click to use and obtain the following items.{nl} - Hanbok Costume (Male) x1{nl} - Rooster Hair Accessory x1{nl} - Special Rice Cake Soup x30
+ETC_20170126_026418	Clique com o botão direito do mouse para obter os seguintes itens:{nl} - Hanbok Costume (Male) x1{nl} - Rooster Hair Accessory x1{nl} - Special Rice Cake Soup x30
 ETC_20170126_026419	Hanbok Package (Female)
-ETC_20170126_026420	Right-click to use and obtain the following items.{nl} - Hanbok Costume (Female) x1{nl} - Hen Hair Accessory x1{nl} - Special Rice Cake Soup x30
+ETC_20170126_026420	Clique com o botão direito do mouse para obter os seguintes itens:{nl} - Hanbok Costume (Female) x1{nl} - Hen Hair Accessory x1{nl} - Special Rice Cake Soup x30
 ETC_20170213_026421	A title given to the winners of the Fan Art Fest: The Art of Loving event.
 ETC_20170213_026422	Tile Resistance
 ETC_20170213_026423	Receive less damage from tile attacks.
@@ -28183,7 +28183,7 @@ ETC_20170703_028184	Right-click to use and obtain the contents.{nl}- Fried Chick
 ETC_20170703_028185	Limite de Gastos
 ETC_20170703_028186	Você tem {Value} TP para gastar este mês.{/}Para aumentar seu limite, envie-nos um ticket no nosso site oficial.
 ETC_20170703_028187	Você excedeu {Value} TP gasto este mês.{/}Para aumentar seu limite, envie-nos um ticket no nosso site oficial.
-ETC_20170703_028188	Você possui um ou mais itens não equipados.
+ETC_20170703_028188	Você possui um ou mais itens que não podem ser equipados.
 ETC_20170703_028189	Long Terius
 ETC_20170703_028190	Natural Wave Up
 ETC_20170703_028191	Fried Chicken Poodle Head
@@ -31124,7 +31124,7 @@ ETC_20171207_031125	Clique com o botão direito do mouse para obter os seguintes
 ETC_20171207_031126	Beach Santa Costume Package (Male)
 ETC_20171207_031127	Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Beach Santa Costume (Male) x1{nl}- Tree Ornament Cube x2
 ETC_20171207_031128	Rudolph Costume Box
-ETC_20171207_031129	Right-click to use and obtain the following items.{nl}- Rudolph Costume x1{nl}- Rudolph Helmet x1
+ETC_20171207_031129	Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Rudolph Costume x1{nl}- Rudolph Helmet x1
 ETC_20171207_031130	Christmas Sled
 ETC_20171207_031131	Applied Attribute Level
 ETC_20171207_031132	No companion for this skill.
@@ -32237,47 +32237,47 @@ ETC_20180418_032238	Agility training complete.
 ETC_20180418_032239	You need to complete {GOAL1} more gladiator training session(s).
 ETC_20180418_032240	Gladiator training complete.
 ETC_20180418_032241	You have completed {point} agility training sessions. You don't need to complete any more.
-ETC_20180418_032242	Title Stage {num}
-ETC_20180418_032243	Título Estágio 1 aplicado.{nl}STR +1, physical attack +5{nl}Move to a different map to update.
-ETC_20180418_032244	Título Estágio 2 aplicado.{nl}STR +1, CON +1, physical attack +5, physical defense +10{nl}Move to a different map to update.
-ETC_20180418_032245	Título Estágio 3 aplicado.{nl}STR +1, CON +1, INT +1, ataque físico +5, ataque mágico +5, physical defense +10{nl}Move to a different map to update.
-ETC_20180418_032246	Título Estágio 4 aplicado.{nl}STR +1, CON +1, INT +1, SPR +1 ataque físico +5, ataque mágico +5, physical defense +10, magical defense +10{nl}Move to a different map to update.
-ETC_20180418_032247	Título Estágio 5 aplicado.{nl}STR +1, CON +1, INT +1, SPR +1, DEX +1, ataque físico +5, ataque mágico +5, defesa física +10, defesa mágica +10, SP +25{nl}Move to a different map to update.
-ETC_20180418_032248	Título Estágio 6 aplicado.{nl}STR +2, CON +1, INT +1, SPR +1, DEX +1, ataque físico +10, ataque mágico +5, defesa física +10, defesa mágica +10, SP +25{nl}Move to a different map to update.
-ETC_20180418_032249	Título Estágio 7 aplicado.{nl}STR +2, CON +2, INT +1, SPR +1, DEX +1, ataque físico +10, ataque mágico +5, defesa física +20, defesa mágica +10, SP +25{nl}Move to a different map to update.
-ETC_20180418_032250	Título Estágio 8 aplicado.{nl}STR +2, CON +2, INT +2, SPR +1, DEX +1, ataque físico +10, ataque mágico +10, defesa física +20, defesa mágica +10, SP +25{nl}Move to a different map to update.
-ETC_20180418_032251	Título Estágio 9 aplicado.{nl}STR +2, CON +2, INT +2, SPR +2, DEX +1, ataque físico +10, ataque mágico +10, defesa física +20, defesa mágica +20, SP +25{nl}Move to a different map to update.
-ETC_20180418_032252	Título Estágio 10 aplicado.{nl}STR +2, CON +2, INT +2, SPR +2, DEX +2, ataque físico +10, ataque mágico +10, defesa física +20, defesa mágica +20, SP +50{nl}Move to a different map to update.
-ETC_20180418_032253	Título Estágio 11 aplicado.{nl}STR +3, CON +2, INT +2, SPR +2, DEX +2, ataque físico +15, ataque mágico +10, defesa física +20, defesa mágica +20, SP +50{nl}Move to a different map to update.
-ETC_20180418_032254	Título Estágio 12 aplicado.{nl}STR +3, CON +3, INT +2, SPR +2, DEX +2, ataque físico +15, ataque mágico +10, defesa física +30, defesa mágica +20, SP +50{nl}Move to a different map to update.
-ETC_20180418_032255	Título Estágio 13 aplicado.{nl}STR +3, CON +3, INT +3, SPR +2, DEX +2, ataque físico +15, ataque mágico +15, defesa física +30, defesa mágica +20, SP +50{nl}Move to a different map to update.
-ETC_20180418_032256	Título Estágio 14 aplicado.{nl}STR +3, CON +3, INT +3, SPR +3, DEX +2, ataque físico +15, ataque mágico +15, defesa física +30, defesa mágica +30, SP +50{nl}Move to a different map to update.
-ETC_20180418_032257	Título Estágio 15 aplicado.{nl}STR +3, CON +3, INT +3, SPR +3, DEX +3, ataque físico +15, ataque mágico +15, defesa física +30, defesa mágica +30, SP +75{nl}Move to a different map to update.
-ETC_20180418_032258	Título Estágio 16 aplicado.{nl}STR +4, CON +3, INT +3, SPR +3, DEX +3, ataque físico +20, ataque mágico +15, defesa física +30, defesa mágica +30, SP +75{nl}Move to a different map to update.
-ETC_20180418_032259	Título Estágio 17 aplicado.{nl}STR +4, CON +4, INT +3, SPR +3, DEX +3, ataque físico +20, ataque mágico +15, defesa física +40, defesa mágica +30, SP +75{nl}Move to a different map to update.
-ETC_20180418_032260	Título Estágio 18 aplicado.{nl}STR +4, CON +4, INT +4, SPR +3, DEX +3, ataque físico +20, ataque mágico +20, defesa física +40, defesa mágica +30, SP +75{nl}Move to a different map to update.
-ETC_20180418_032261	Título Estágio 19 aplicado.{nl}STR +4, CON +4, INT +4, SPR +4, DEX +3, ataque físico +20, ataque mágico +20, defesa física +40, defesa mágica +40, SP +75{nl}Move to a different map to update.
-ETC_20180418_032262	Título Estágio 20 aplicado.{nl}STR +4, CON +4, INT +4, SPR +4, DEX +4, ataque físico +20, ataque mágico +20, defesa física +40, defesa mágica +40, SP +100{nl}Move to a different map to update.
-ETC_20180418_032263	Título Estágio 21 aplicado.{nl}STR +5, CON +4, INT +4, SPR +4, DEX +4, ataque físico +25, ataque mágico +20, defesa física +40, defesa mágica +40, SP +100{nl}Move to a different map to update.
-ETC_20180418_032264	Título Estágio 22 aplicado.{nl}STR +5, CON +5, INT +4, SPR +4, DEX +4, ataque físico +25, ataque mágico +20, defesa física +50, defesa mágica +40, SP +100{nl}Move to a different map to update.
-ETC_20180418_032265	Título Estágio 23 aplicado.{nl}STR +5, CON +5, INT +5, SPR +4, DEX +4, ataque físico +25, ataque mágico +25, defesa física +50, defesa mágica +40, SP +100{nl}Move to a different map to update.
-ETC_20180418_032266	Título Estágio 24 aplicado.{nl}STR +5, CON +5, INT +5, SPR +5, DEX +4, ataque físico +25, ataque mágico +25, defesa física +50, defesa mágica +50, SP +100{nl}Move to a different map to update.
-ETC_20180418_032267	Título Estágio 25 aplicado.{nl}STR +5, CON +5, INT +5, SPR +5, DEX +5, ataque físico +25, ataque mágico +25, defesa física +50, defesa mágica +50, SP +125{nl}Move to a different map to update.
-ETC_20180418_032268	Título Estágio 26 aplicado.{nl}STR +6, CON +5, INT +5, SPR +5, DEX +5, ataque físico +30, ataque mágico +25, defesa física +50, defesa mágica +50, SP +125{nl}Move to a different map to update.
-ETC_20180418_032269	Título Estágio 27 aplicado.{nl}STR +6, CON +6, INT +5, SPR +5, DEX +5, ataque físico +30, ataque mágico +25, defesa física +60, defesa mágica +50, SP +125{nl}Move to a different map to update.
-ETC_20180418_032270	Título Estágio 28 aplicado.{nl}STR +6, CON +6, INT +6, SPR +5, DEX +5, ataque físico +30, ataque mágico +30, defesa física +60, defesa mágica +50, SP +125{nl}Move to a different map to update.
-ETC_20180418_032271	Título Estágio 29 aplicado.{nl}STR +6, CON +6, INT +6, SPR +6, DEX +5, ataque físico +30, ataque mágico +30, defesa física +60, defesa mágica +60, SP +125{nl}Move to a different map to update.
-ETC_20180418_032272	Título Estágio 30 aplicado.{nl}STR +6, CON +6, INT +6, SPR +6, DEX +6, ataque físico +30, ataque mágico +30, defesa física +60, defesa mágica +60, SP +150{nl}Move to a different map to update.
-ETC_20180418_032273	Título Estágio 31 aplicado.{nl}STR +7, CON +6, INT +6, SPR +6, DEX +6, ataque físico +35, ataque mágico +30, defesa física +60, defesa mágica +60, SP +150{nl}Move to a different map to update.
-ETC_20180418_032274	Título Estágio 32 aplicado.{nl}STR +7, CON +7, INT +6, SPR +6, DEX +6, ataque físico +35, ataque mágico +30, defesa física +70, defesa mágica +60, SP +150{nl}Move to a different map to update.
-ETC_20180418_032275	Título Estágio 33 aplicado.{nl}STR +7, CON +7, INT +7, SPR +6, DEX +6, ataque físico +35, ataque mágico +35, defesa física +70, defesa mágica +60, SP +150{nl}Move to a different map to update.
-ETC_20180418_032276	Título Estágio 34 aplicado.{nl}STR +7, CON +7, INT +7, SPR +7, DEX +6, ataque físico +35, ataque mágico +35, defesa física +70, defesa mágica +70, SP +150{nl}Move to a different map to update.
-ETC_20180418_032277	Título Estágio 35 aplicado.{nl}STR +7, CON +7, INT +7, SPR +7, DEX +7, ataque físico +35, ataque mágico +35, defesa física +70, defesa mágica +70, SP +175{nl}Move to a different map to update.
-ETC_20180418_032278	Título Estágio 36 aplicado.{nl}STR +8, CON +7, INT +7, SPR +7, DEX +7, ataque físico +40, ataque mágico +35, defesa física +70, defesa mágica +70, SP +175{nl}Move to a different map to update.
-ETC_20180418_032279	Título Estágio 37 aplicado.{nl}STR +8, CON +8, INT +7, SPR +7, DEX +7, ataque físico +40, ataque mágico +35, defesa física +80, defesa mágica +70, SP +175{nl}Move to a different map to update.
-ETC_20180418_032280	Título Estágio 38 aplicado.{nl}STR +8, CON +8, INT +8, SPR +7, DEX +7, ataque físico +40, ataque mágico +40, defesa física +80, defesa mágica +70, SP +175{nl}Move to a different map to update.
-ETC_20180418_032281	Título Estágio 39 aplicado.{nl}STR +8, CON +8, INT +8, SPR +8, DEX +7, ataque físico +40, ataque mágico +40, defesa física +80, defesa mágica +80, SP +175{nl}Move to a different map to update.
-ETC_20180418_032282	Título Estágio 40 aplicado.{nl}STR +8, CON +8, INT +8, SPR +8, DEX +8, ataque físico +40, ataque mágico +40, defesa física +80, defesa mágica +80, SP +200{nl}Move to a different map to update.
+ETC_20180418_032242	Títulos - Estágio {num}
+ETC_20180418_032243	Título Estágio 1 aplicado.{nl}STR +1, Ataque Físico +5{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032244	Título Estágio 2 aplicado.{nl}STR +1, CON +1, Ataque Físico +5, Defesa Física +10{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032245	Título Estágio 3 aplicado.{nl}STR +1, CON +1, INT +1, Ataque Físico +5, Ataque Mágico +5, Defesa Física +10{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032246	Título Estágio 4 aplicado.{nl}STR +1, CON +1, INT +1, SPR +1 Ataque Físico +5, Ataque Mágico +5, Defesa Física +10, Defesa Mágica +10{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032247	Título Estágio 5 aplicado.{nl}STR +1, CON +1, INT +1, SPR +1, DEX +1, Ataque Físico +5, Ataque Mágico +5, Defesa Física +10, Defesa Mágica +10, SP +25{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032248	Título Estágio 6 aplicado.{nl}STR +2, CON +1, INT +1, SPR +1, DEX +1, Ataque Físico +10, Ataque Mágico +5, Defesa Física +10, Defesa Mágica +10, SP +25{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032249	Título Estágio 7 aplicado.{nl}STR +2, CON +2, INT +1, SPR +1, DEX +1, Ataque Físico +10, Ataque Mágico +5, Defesa Física +20, Defesa Mágica +10, SP +25{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032250	Título Estágio 8 aplicado.{nl}STR +2, CON +2, INT +2, SPR +1, DEX +1, Ataque Físico +10, Ataque Mágico +10, Defesa Física +20, Defesa Mágica +10, SP +25{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032251	Título Estágio 9 aplicado.{nl}STR +2, CON +2, INT +2, SPR +2, DEX +1, Ataque Físico +10, Ataque Mágico +10, Defesa Física +20, Defesa Mágica +20, SP +25{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032252	Título Estágio 10 aplicado.{nl}STR +2, CON +2, INT +2, SPR +2, DEX +2, Ataque Físico +10, Ataque Mágico +10, Defesa Física +20, Defesa Mágica +20, SP +50{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032253	Título Estágio 11 aplicado.{nl}STR +3, CON +2, INT +2, SPR +2, DEX +2, Ataque Físico +15, Ataque Mágico +10, Defesa Física +20, Defesa Mágica +20, SP +50{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032254	Título Estágio 12 aplicado.{nl}STR +3, CON +3, INT +2, SPR +2, DEX +2, Ataque Físico +15, Ataque Mágico +10, Defesa Física +30, Defesa Mágica +20, SP +50{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032255	Título Estágio 13 aplicado.{nl}STR +3, CON +3, INT +3, SPR +2, DEX +2, Ataque Físico +15, Ataque Mágico +15, Defesa Física +30, Defesa Mágica +20, SP +50{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032256	Título Estágio 14 aplicado.{nl}STR +3, CON +3, INT +3, SPR +3, DEX +2, Ataque Físico +15, Ataque Mágico +15, Defesa Física +30, Defesa Mágica +30, SP +50{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032257	Título Estágio 15 aplicado.{nl}STR +3, CON +3, INT +3, SPR +3, DEX +3, Ataque Físico +15, Ataque Mágico +15, Defesa Física +30, Defesa Mágica +30, SP +75{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032258	Título Estágio 16 aplicado.{nl}STR +4, CON +3, INT +3, SPR +3, DEX +3, Ataque Físico +20, Ataque Mágico +15, Defesa Física +30, Defesa Mágica +30, SP +75{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032259	Título Estágio 17 aplicado.{nl}STR +4, CON +4, INT +3, SPR +3, DEX +3, Ataque Físico +20, Ataque Mágico +15, Defesa Física +40, Defesa Mágica +30, SP +75{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032260	Título Estágio 18 aplicado.{nl}STR +4, CON +4, INT +4, SPR +3, DEX +3, Ataque Físico +20, Ataque Mágico +20, Defesa Física +40, Defesa Mágica +30, SP +75{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032261	Título Estágio 19 aplicado.{nl}STR +4, CON +4, INT +4, SPR +4, DEX +3, Ataque Físico +20, Ataque Mágico +20, Defesa Física +40, Defesa Mágica +40, SP +75{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032262	Título Estágio 20 aplicado.{nl}STR +4, CON +4, INT +4, SPR +4, DEX +4, Ataque Físico +20, Ataque Mágico +20, Defesa Física +40, Defesa Mágica +40, SP +100{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032263	Título Estágio 21 aplicado.{nl}STR +5, CON +4, INT +4, SPR +4, DEX +4, Ataque Físico +25, Ataque Mágico +20, Defesa Física +40, Defesa Mágica +40, SP +100{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032264	Título Estágio 22 aplicado.{nl}STR +5, CON +5, INT +4, SPR +4, DEX +4, Ataque Físico +25, Ataque Mágico +20, Defesa Física +50, Defesa Mágica +40, SP +100{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032265	Título Estágio 23 aplicado.{nl}STR +5, CON +5, INT +5, SPR +4, DEX +4, Ataque Físico +25, Ataque Mágico +25, Defesa Física +50, Defesa Mágica +40, SP +100{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032266	Título Estágio 24 aplicado.{nl}STR +5, CON +5, INT +5, SPR +5, DEX +4, Ataque Físico +25, Ataque Mágico +25, Defesa Física +50, Defesa Mágica +50, SP +100{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032267	Título Estágio 25 aplicado.{nl}STR +5, CON +5, INT +5, SPR +5, DEX +5, Ataque Físico +25, Ataque Mágico +25, Defesa Física +50, Defesa Mágica +50, SP +125{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032268	Título Estágio 26 aplicado.{nl}STR +6, CON +5, INT +5, SPR +5, DEX +5, Ataque Físico +30, Ataque Mágico +25, Defesa Física +50, Defesa Mágica +50, SP +125{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032269	Título Estágio 27 aplicado.{nl}STR +6, CON +6, INT +5, SPR +5, DEX +5, Ataque Físico +30, Ataque Mágico +25, Defesa Física +60, Defesa Mágica +50, SP +125{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032270	Título Estágio 28 aplicado.{nl}STR +6, CON +6, INT +6, SPR +5, DEX +5, Ataque Físico +30, Ataque Mágico +30, Defesa Física +60, Defesa Mágica +50, SP +125{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032271	Título Estágio 29 aplicado.{nl}STR +6, CON +6, INT +6, SPR +6, DEX +5, Ataque Físico +30, Ataque Mágico +30, Defesa Física +60, Defesa Mágica +60, SP +125{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032272	Título Estágio 30 aplicado.{nl}STR +6, CON +6, INT +6, SPR +6, DEX +6, Ataque Físico +30, Ataque Mágico +30, Defesa Física +60, Defesa Mágica +60, SP +150{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032273	Título Estágio 31 aplicado.{nl}STR +7, CON +6, INT +6, SPR +6, DEX +6, Ataque Físico +35, Ataque Mágico +30, Defesa Física +60, Defesa Mágica +60, SP +150{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032274	Título Estágio 32 aplicado.{nl}STR +7, CON +7, INT +6, SPR +6, DEX +6, Ataque Físico +35, Ataque Mágico +30, Defesa Física +70, Defesa Mágica +60, SP +150{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032275	Título Estágio 33 aplicado.{nl}STR +7, CON +7, INT +7, SPR +6, DEX +6, Ataque Físico +35, Ataque Mágico +35, Defesa Física +70, Defesa Mágica +60, SP +150{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032276	Título Estágio 34 aplicado.{nl}STR +7, CON +7, INT +7, SPR +7, DEX +6, Ataque Físico +35, Ataque Mágico +35, Defesa Física +70, Defesa Mágica +70, SP +150{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032277	Título Estágio 35 aplicado.{nl}STR +7, CON +7, INT +7, SPR +7, DEX +7, Ataque Físico +35, Ataque Mágico +35, Defesa Física +70, Defesa Mágica +70, SP +175{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032278	Título Estágio 36 aplicado.{nl}STR +8, CON +7, INT +7, SPR +7, DEX +7, Ataque Físico +40, Ataque Mágico +35, Defesa Física +70, Defesa Mágica +70, SP +175{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032279	Título Estágio 37 aplicado.{nl}STR +8, CON +8, INT +7, SPR +7, DEX +7, Ataque Físico +40, Ataque Mágico +35, Defesa Física +80, Defesa Mágica +70, SP +175{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032280	Título Estágio 38 aplicado.{nl}STR +8, CON +8, INT +8, SPR +7, DEX +7, Ataque Físico +40, Ataque Mágico +40, Defesa Física +80, Defesa Mágica +70, SP +175{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032281	Título Estágio 39 aplicado.{nl}STR +8, CON +8, INT +8, SPR +8, DEX +7, Ataque Físico +40, Ataque Mágico +40, Defesa Física +80, Defesa Mágica +80, SP +175{nl}Trocar de mapa atualiza os efeitos.
+ETC_20180418_032282	Título Estágio 40 aplicado.{nl}STR +8, CON +8, INT +8, SPR +8, DEX +8, Ataque Físico +40, Ataque Mágico +40, Defesa Física +80, Defesa Mágica +80, SP +200{nl}Trocar de mapa atualiza os efeitos.
 ETC_20180418_032283	Putting down sandbag...
 ETC_20180418_032284	Sandbag down.
 ETC_20180418_032285	HP recharged.{nl}Training will be easier now.
@@ -34592,7 +34592,7 @@ ETC_20180629_034593	The platform is already heading towards that direction.
 ETC_20180629_034594	[Liberar Pied Piper]{nl}Use o Empty Bottle para coletar Glowing Blue Sand.{nl}Verifique a Nota da Mestre Oracle para mais detalhes.
 ETC_20180629_034595	The bombs carried by the monsters were lit by the torches and exploded!{nl}The torches have been damaged!
 ETC_20180629_034596	The guild quest has already started. To join or cancel, go to the starting point of {EVENT_NAME}.
-ETC_20180629_034597	Guild quest "{GuildEvent}" has been canceled.
+ETC_20180629_034597	Missão de Guilda "{GuildEvent}" foi cancelada.
 ETC_20180629_034598	Read
 ETC_20180629_034599	Unread
 ETC_20180629_034600	This item is already in your basket.
@@ -34730,7 +34730,7 @@ ETC_20180629_034731	Mission cleared!{nl}Returning in 10 seconds.
 ETC_20180629_034732	Protect the Bouquet for 3 Minutes
 ETC_20180629_034733	Protect the bouquet for 3 minutes!
 ETC_20180629_034734	The number of monsters is increasing.
-ETC_20180629_034735	Match starting in 10 seconds!
+ETC_20180629_034735	Iniciando em 10 segundos!
 ETC_20180629_034736	3 Minute Match
 ETC_20180629_034737	Todos os monstros derrotados. O tempo restante será convertido em pontos.{nl}Stage 2 começa agora!{nl}Proteja a Tocha Divina por 40 segundos.
 ETC_20180629_034738	Todos os monstros derrotados. O tempo restante será convertido em pontos.{nl}Stage 3 começa agora!{nl}Proteja a Tocha Divina por 40 segundos.
@@ -36071,7 +36071,7 @@ ETC_20180827_036072	The Crystal Orb is protected!{nl}Its powerful energy is weak
 ETC_20180827_036073	2 more minutes to protect the Crystal Orb.
 ETC_20180827_036074	1 more minute to protect the Crystal Orb.
 ETC_20180827_036075	No skills to use.
-ETC_20180827_036076	No authority to initiate guild quests.
+ETC_20180827_036076	Sem autoridade para iniciar Missões de Guilda.
 ETC_20180827_036077	Purchased
 ETC_20180827_036078	Sold
 ETC_20180827_036079	Canceled
@@ -36485,7 +36485,7 @@ ETC_20181017_036486	Ichors - Armas
 ETC_20181017_036487	Ichors - Armaduras
 ETC_20181017_036488	Stats
 ETC_20181017_036489	The request cannot be executed on an automatching server.
-ETC_20181017_036490	Cannot use while the instanced dungeon UI is open. If the problem persists, please restart the game and try again.
+ETC_20181017_036490	Não pode ser utilizado enquanto a janela de dungeon está aberta. Se o problema persistir, por favor reinicie o jogo e tente novamente.
 ETC_20181017_036491	Failed to import instanced dungeon data. If the problem persists, please restart the game and try again.
 ETC_20181017_036492	There isn't enough space to create a portal.
 ETC_20181017_036493	Clear time: {MIN} min {SEC} sec.
@@ -36799,8 +36799,8 @@ ETC_20190104_036800	Territory Taxation Info
 ETC_20190104_036801	Error code 8 tracking log.
 ETC_20190104_036802	Legend Raid: Earth Tower
 ETC_20190104_036803	Legend Raid: Velcoffer's Nest
-ETC_20190104_036804	Ataque em Klaipeda
-ETC_20190104_036805	Evento: Ataque em Klaipeda
+ETC_20190104_036804	Batalha de Times da Giltine
+ETC_20190104_036805	Evento: Batalha de Times da Giltine
 ETC_20190104_036806	Selo
 ETC_20190104_036807	Boneco
 ETC_20190104_036808	Deleted Gem
@@ -37422,8 +37422,8 @@ ETC_20190104_037423	The item can be used only until {DAY} (day) of {MONTH} (mont
 ETC_20190104_037424	{#0054FF}[{NUM2}]{/} points will be added because you already have [{NUM1}] points.{nl}Use the item?
 ETC_20190104_037425	You cannot earn any more points as you already have the maximum amount of points allowed.
 ETC_20190104_037426	Atributos Semanais para Membros de Guilda
-ETC_20190104_037427	{nl}The {#FF0000}Red Team{/} is the winner!
-ETC_20190104_037428	{nl}The {#0000FF}Blue Team{/} is the winner!
+ETC_20190104_037427	{nl}O {#FF0000}Time Vermelho{/} venceu!
+ETC_20190104_037428	{nl}O {#0000FF}Time Azul{/} venceu!
 ETC_20190104_037429	Draw game! It's a tie!
 ETC_20190104_037430	{ol}{@st45w3}{s18}{#0064FF}Additional rewards can be claimed through the Wings of Vaivora NPC{/}
 ETC_20190104_037431	{ol}{@st45w3}{s18}{ITEM} : x{COUNT}{/}
@@ -37513,12 +37513,12 @@ ETC_20190104_037514	[Disponível montado]
 ETC_20190104_037515	[Somente montado]
 ETC_20190104_037516	Invocando...
 ETC_20190104_037517	Acredito que tu sejas mais inteligente do que pareces.{nl}Então, o que achas?{nl}Tu acreditas nas Deusas?{nl}Ou irás seguir-me e, de fato, fazer história?
-ETC_20190104_037518	Giltine's Team Clash
-ETC_20190104_037519	Seguir Giltine: Ataque em Klaipeda
+ETC_20190104_037518	Batalha de Times da Giltine
+ETC_20190104_037519	Seguir Giltine: Batalha de Times da Giltine
 ETC_20190104_037520	Não mesmo, isso não é para mim.
 ETC_20190104_037521	Tu és, de fato, inteligente.
 ETC_20190104_037522	Você já coletou a recompensa do evento hoje.
-ETC_20190104_037523	- Invoque monstros interajindo com os objetos próximos da Estátua da Deusa Ausrine!{nl}- Monstros invocados irão até o campo inimigo.{nl}- Vence o time que mais monstros chegaram no campo inimigo.{nl}- Derrote os monstros inimigos e evite que chegem no se
+ETC_20190104_037523	- Invoque monstros interagindo com os objetos próximos da Estátua da Deusa Ausrine!{nl}- Monstros invocados irão até o campo inimigo.{nl}- Vence o time que mais monstros chegaram no campo inimigo.{nl}- Derrote os monstros inimigos e evite que chegem no se
 ETC_20190104_037524	 x30 necessários para receber prêmio.
 ETC_20190104_037525	Escolha o Mascote
 ETC_20190104_037526	[Dico Tomb Thieves]{nl}Arghidas
@@ -42131,7 +42131,7 @@ ETC_20190628_042132	Multi-color Monster Card Box
 ETC_20190628_042133	Clique com o botão direito do mouse para utilizar e obtenha os itens:{nl}- Monster Card Album: Red x2{nl}- Monster Card Album: Blue x2{nl}- Monster Card Album: Green x2{nl}- Monster Card Album: Purple x2
 ETC_20190628_042134	Glowing Lv. 400 Awakening Abrasive
 ETC_20190628_042135	Golden Anvil Box S Rank
-ETC_20190628_042136	Clique com o botão direito do mouse para utilizar e obtenha os itens:{nl}- Golden Anvil x50{nl}* ATENÇÃO: Golden Anvils podem só podem ser transferidos pelo Armazém do time e consomem Silver ao serem utilizados.
+ETC_20190628_042136	Clique com o botão direito do mouse para utilizar e obtenha os itens:{nl}- Golden Anvil x50{nl}* ATENÇÃO: Golden Anvils só podem ser transferidos pelo Armazém do time e consomem Silver ao serem utilizados.
 ETC_20190628_042137	2019 Leticia's Treasure Chest
 ETC_20190628_042138	Um baú repleto dos itens mais preciosos da Leticia. Utilize para obter os seguintes itens:{nl}- Transcendence Selection Box x1{nl}- Unique Enchant Jewel x20{nl}- Legend Enchant Jewel x3
 ETC_20190628_042139	Transcendence Selection Box
@@ -42645,5 +42645,5 @@ ETC_20190830_042646	[Summer Festa] Loja de Cubos de Gelo
 ETC_20190830_042647	[Vakarine] Character Slot Voucher + Free Hair Coupon
 ETC_20190830_042648	Você não pode ofertar nem receber bênçãos{nl}Visite o Mestre Pardoner para ser aconselhado
 ETC_20190903_042649	Vakarine NBU Voucher Pack
-ETC_20190903_042650	Right-click to use and obtain the following items.{nl}- Character Slot Voucher{nl}- Free Hair Coupon
-ETC_20190903_042651	Right-click to use and obtain the items.{nl}- Class Unlock Selection Box
+ETC_20190903_042650	Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Character Slot Voucher{nl}- Free Hair Coupon
+ETC_20190903_042651	Clique com o botão direito do mouse para obter os seguintes itens:{nl}- Class Unlock Selection Box
