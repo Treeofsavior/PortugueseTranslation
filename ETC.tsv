@@ -34800,7 +34800,7 @@ ETC_20180723_034801	Only the Guild Master can retrieve victory rewards.
 ETC_20180723_034802	Your Guild Storage is full.{nl}Please clear it out and try again.
 ETC_20180724_034803	There are no reward items available.
 ETC_20180730_034804	Sailor Popup Book
-ETC_20180730_034805	[Evento] Aitheo Coast
+ETC_20180730_034805	[Evento] Iotheo Coast
 ETC_20180730_034806	Summer Vibes
 ETC_20180730_034807	A title given to event participants. Right-click to use.
 ETC_20180730_034808	Summer Marine Cube
@@ -37045,7 +37045,7 @@ ETC_20190104_037046	Fantasy Library Area Collection
 ETC_20190104_037047	Lanko Waters Area Collection
 ETC_20190104_037048	Acquired Points
 ETC_20190104_037049	Borutos Kapas PC Session
-ETC_20190104_037050	Activates the stacking Porapore - Roast buff for 8 seconds when using basic attacks. Upon reaching 20 stacks, provides additional Darkness property damage equal to {img green_up_arrow 16 16}8% of your Magic Defense for 10 seconds.
+ETC_20190104_037050	Activates the stacking Porapore - Roast buff for 8 seconds when using basic attacks. Upon reaching 20 stacks, provides additional Holy and Darkness property damage equal to {img green_up_arrow 16 16}8% of your Magic Defense for 10 seconds.{nl}(max. 3,000 increase per attribute)	기본 공격 시 8초간 포라포레-가열 중첩{nl}포라포레-가열 20중첩시 10초 동안{nl}빛, 어둠 속성 추가 대미지가 자신의 마법 방어력의 {img green_up_arrow 16 16}8%만큼 증가{nl}(각 속성별 최대 3,000 증가)
 ETC_20190104_037051	Magic Attack {img green_up_arrow 16 16}571{nl}Magic Critical Attack {img green_up_arrow 16 16}69
 ETC_20190104_037052	Physical Critical Attack {img green_up_arrow 16 16}225{nl}Accuracy {img green_up_arrow 16 16}100
 ETC_20190104_037053	Magic Critical Attack {img green_up_arrow 16 16}60
@@ -42024,7 +42024,7 @@ ETC_20190611_042025	Graças ao seu esforço, o Reino está a salvo. Agradeço mu
 ETC_20190611_042026	Permanecerei aqui para verificar se há mais alguma ameaça.{nl}A sua atuação foi incrível!
 ETC_20190611_042027	A batalha exigiu muito da minha mente e do meu corpo...{nl}Estou bem, só preciso descansar um pouco.
 ETC_20190611_042028	Parece que ainda há alguns que não estão prontos.{nl}Abrirei o portal assim que todos estiverem prontos.
-ETC_20190611_042029	Tenha cuidado.{nl}Os demônios que habitam esta tumba sao muito poderosos.
+ETC_20190611_042029	Tenha cuidado.{nl}Os demônios que habitam esta tumba são muito poderosos.
 ETC_20190611_042030	Parece que todos estão prontos.{nl}Abrirei o portal então.{nl}Pode prosseguir por ele.
 ETC_20190611_042031	Monstros Restantes: {COUNT}{nl}Dicas restantes: {ASSIST}
 ETC_20190611_042032	Obteve um Transparent Crystal{nl}depois que todas as borboletas voaram.
