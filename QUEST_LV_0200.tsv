@@ -451,11 +451,11 @@ QUEST_LV_0200_20150317_000450	A Unidade de Retaguarda sempre reclama que os supr
 QUEST_LV_0200_20150317_000451	Oh, você pegou eles. Obrigado. {nl} Por favor, volte para o ninho do monstro e queime as Corujas Destruídas.
 QUEST_LV_0200_20150317_000452	Coisas terríveis estão acontecendo. {nl} Não podemos simplesmente voltar aos dias de paz?
 QUEST_LV_0200_20150317_000453	A Deusa pode ser tão cruel. {nl} Por favor, ore para que meus colegas descansem em paz.
-QUEST_LV_0200_20150317_000454	Pilgrim Liliya	순례자 릴리야				
-QUEST_LV_0200_20150317_000455	If I die, please bury me..{nl}Make my body unseen...{nl}If I lose my breath, please bury me...	제가 죽으면 저를 묻어 주세요.. {nl}제 몸이 안보이게 해 주세요..{nl}제가 숨이 끊어지면 저를 묻어 주세요..				
-QUEST_LV_0200_20150317_000456	And if you meet a pilgrim named Julius, please tell him these words... tell him goodbye...	혹시 그리고 율리우스라는 순례자를 만나면, 제 소식을 전해 주세요.. 안녕..이라고..				
-QUEST_LV_0200_20150317_000457	Pilgrim's Memo	순례자의 쪽지				
-QUEST_LV_0200_20150317_000458	This land is cursed by Naktis. {nl}I may die but let it be known to the pilgrims who pass this place. {nl}Demon Lord Naktis drove cursed Tree Root Crystals around this Ray-lit Land, and those Tree Root Crystals are spreading curse of indolence to the pilgrims.	이 곳은 나크티스의 저주가 내려진 땅이다. {nl}나는 죽어가지만 이 곳을 지나는 순례자들에게 알린다. {nl}마군주 나크티스는 이 빛내린 땅 곳곳에 저주의 나무뿌리 수정을 박았고, 그 나무뿌리 수정은 순례자들에게 나태의 저주를 뿌리고 있다. {nl}				
+QUEST_LV_0200_20150317_000454	Peregrina Liliya				
+QUEST_LV_0200_20150317_000455	Se eu morrer, por favor me enterre...{nl}Não deixe meu corpo ser visto...{nl}Se eu perder minha respiração, pora favor me enterre...
+QUEST_LV_0200_20150317_000456	E, se você encontrar um peregrinho chamado Julius,{nl}por favor passe minhas palavras para ele...{nl}Diga o meu adeus...
+QUEST_LV_0200_20150317_000457	Nota do Peregrino
+QUEST_LV_0200_20150317_000458	Esta terra está amaldiçoada por Naktis.{nl}Talvez eu morra, mas faça com que os peregrinos que aqui passarem saibam disso.{nl}Demon Lord Naktis amaldiçoou os Tree Root Crystals ao redor de Ray-lit Land,{nl}e eles estão espalhando a maldição da indolência nos peregrinos.
 QUEST_LV_0200_20150317_000459	You must destroy the Tree Root Crystals to avoid the curse. {nl}May the goddess' blessings be with the pilgrims.	나태의 저주를 피하기 위해서는 그 저주의 나무뿌리 수정을 없애야 한다. {nl}순례자들에게 여신의 축복이 함께 하기를.				
 QUEST_LV_0200_20150317_000460	Who? {nl}	누구? {nl}				
 QUEST_LV_0200_20150317_000461	Anyway, do you have any food? Please give me something to eat... I can't stand the hunger anymore. I can't move. Hey, if you have faith in the goddess, please get me some food.	아 그런 것 보다, 먹을 걸 가진 게 있어? 아 제발 나에게 먹을 걸.. 먹을 걸 좀 줘. 배가 고파서 견딜 수가 없어. 움직일 수도 없어. 저기, 여신의 믿음과 함께 한다면 먹을 걸 좀 구해 줘.				
@@ -3177,20 +3177,20 @@ QUEST_LV_0200_20150317_003176	Priest Benedict wants samples from other monsters 
 QUEST_LV_0200_20150317_003177	Collected all sample of monsters. Please give to the Priest Benedict.	몬스터의 표본을 모두 모았습니다. 사제 베네딕트에게 전해 주세요.				
 QUEST_LV_0200_20150323_003178	The occurrence of the Petrifying Frost became irregular after Medzio Diena four years ago.{nl}Due to its irregularity, we lost many of our soldiers in this wasteland.{nl}And we also install the search devices for the Petrifying Frost limitedly here in Verkti Square and we move out our soldiers accordingly based on the frequency of the occurrence.	4년전 신수의 날 이후로 석화서리의 발생 주기가 불규칙적으로 변했습니다.{nl}불규칙한 석화서리로 인해 우린 많은 병력을 이 황무지에서 잃게되었죠.{nl}그리곤 한정적으로 이곳 베르크티 광장에서 석화탐지기를 설치하여 그 주기를 기록하고 병력들을 대피시키고 있습니다.				
 QUEST_LV_0200_20150323_003179	You've accepted a difficult mission, so I don't know how I can thank you...{nl}Okay, I need you to defeat monsters at the Forest of Prayer.{nl}The Forest of Prayer is located past Fedimian and on the way to the Great Cathedral.	어려운 임무를 쾌히 승락해 주셔서 뭐라 감사해야 할지..{nl}그럼, 기원의 숲의 몬스터를 부탁드리겠습니다.{nl}기원의 숲은 페디미안을 지나 대성당으로 향하는 길에 있습니다.				기사단장 우스카
-QUEST_LV_0200_20150323_003180	My necklace... My music box...	내 목걸이.. 내 오르골..				순례자 릴리야
-QUEST_LV_0200_20150323_003181	Julius... I am sorry...	율리우스.. 미안해요..				순례자 릴리야
-QUEST_LV_0200_20150323_003182	Hey... I am so hungry, I can't move at all.{nl}Anything will do, please get me something to eat.	저기.. 배가 고파서 꼼짝할 수도 없어.{nl}뭐든 좋으니 제발 먹을 것 좀 구해 줘.				순례자 릴리야
-QUEST_LV_0200_20150323_003183	The meat of those monsters over there will do.{nl}Please hurry..	저기 날뛰고 있는 몬스터의 고기라도 상관 없어.{nl}그러니 제발 어서..				순례자 릴리야
-QUEST_LV_0200_20150323_003184	Not yet?{nl}I am so hungry that I feel like I could even eat a handful of dust...	아직이야?{nl}너무 배가 고파서 흙이라도 집어 먹고 싶어..				순례자 릴리야
+QUEST_LV_0200_20150323_003180	My necklace... My music box...	내 목걸이.. 내 오르골..				Peregrina Liliya
+QUEST_LV_0200_20150323_003181	Julius... I am sorry...	율리우스.. 미안해요..				Peregrina Liliya
+QUEST_LV_0200_20150323_003182	Hey... I am so hungry, I can't move at all.{nl}Anything will do, please get me something to eat.	저기.. 배가 고파서 꼼짝할 수도 없어.{nl}뭐든 좋으니 제발 먹을 것 좀 구해 줘.				Peregrina Liliya
+QUEST_LV_0200_20150323_003183	The meat of those monsters over there will do.{nl}Please hurry..	저기 날뛰고 있는 몬스터의 고기라도 상관 없어.{nl}그러니 제발 어서..				Peregrina Liliya
+QUEST_LV_0200_20150323_003184	Not yet?{nl}I am so hungry that I feel like I could even eat a handful of dust...	아직이야?{nl}너무 배가 고파서 흙이라도 집어 먹고 싶어..				Peregrina Liliya
 QUEST_LV_0200_20150323_003185	Meat? Are you going to eat it?{nl}Yes.. Give me that!	고기? 먹을 건가?{nl}어.. 어서 그걸 내놔!				
-QUEST_LV_0200_20150323_003186	Don't go yet! I am starving to death.{nl}The meat you brought me came too late. What must I do?	아직 가지 마! 배고파 죽을 것 같단 말야.{nl}고기는 너무 늦어. 어떡해야 하지?				순례자 릴리야
-QUEST_LV_0200_20150323_003187	Okay.. I think I can eat those Young Leaves.{nl}They're thin and wet... yes, they will be good!	그래.. 어린 들풀잎이라면 먹을 수 있을 것 같아.{nl}여리여리하고 물기 많은.. 그게 좋겠어!				순례자 릴리야
-QUEST_LV_0200_20150323_003188	My hunger doesn't go away even after eating a lot.{nl}It's actually getting worse, I might as well just die.	먹어도 먹어도 허기가 가시질 않아.{nl}오히려 점점 심해져서 차라리 죽는 게 나을지도 몰라.				순례자 릴리야
+QUEST_LV_0200_20150323_003186	Don't go yet! I am starving to death.{nl}The meat you brought me came too late. What must I do?	아직 가지 마! 배고파 죽을 것 같단 말야.{nl}고기는 너무 늦어. 어떡해야 하지?				Peregrina Liliya
+QUEST_LV_0200_20150323_003187	Okay.. I think I can eat those Young Leaves.{nl}They're thin and wet... yes, they will be good!	그래.. 어린 들풀잎이라면 먹을 수 있을 것 같아.{nl}여리여리하고 물기 많은.. 그게 좋겠어!				Peregrina Liliya
+QUEST_LV_0200_20150323_003188	My hunger doesn't go away even after eating a lot.{nl}It's actually getting worse, I might as well just die.	먹어도 먹어도 허기가 가시질 않아.{nl}오히려 점점 심해져서 차라리 죽는 게 나을지도 몰라.				Peregrina Liliya
 QUEST_LV_0200_20150323_003189	There must be something to eat around here..{nl}Please... get me something to eat.{nl}	여기 어디 먹을 게 있었던 것 같은데..{nl}제발 제게 먹을 것을.. 먹을 것 좀 주세요.{nl}				순례자 율리우스
 QUEST_LV_0200_20150323_003190	I am so hungry yet something is echoing inside my head...{nl}The sound of a music box..  I can't eat an echo..	배고파 죽겠는데 머리 속에서 이상한 소리가 울려..{nl}먹지도 못하는 오르골 소리가..				순례자 율리우스
 QUEST_LV_0200_20150323_003191	Ahh, my Liliya...{nl}I will never be able to see you again...	아아, 나의 릴리야.. {nl}다신 볼 수 없겠지.				순례자 율리우스
 QUEST_LV_0200_20150323_003192	Please think of that necklace as the gift from Liliya and keep it safe.{nl}It carries a blessing from the Great Cathedral, so it will help you.	그 목걸이는 릴리야의 선물이라 생각해 주시고 부디 잘 간직해 주세요.{nl}대성당의 축복이 내려진 것이라 계시자님께 꼭 도움이 될 겁니다.				순례자 율리우스
-QUEST_LV_0200_20150323_003193	I am still hungry. Hungry...{nl}I can't take it anymore. I am hungry!	부족해. 부족하다고. 배고파.{nl}더 이상 참을 수 없어. 배고프다고!				순례자 릴리야
+QUEST_LV_0200_20150323_003193	I am still hungry. Hungry...{nl}I can't take it anymore. I am hungry!	부족해. 부족하다고. 배고파.{nl}더 이상 참을 수 없어. 배고프다고!				Peregrina Liliya
 QUEST_LV_0200_20150323_003194	I am so... hungry.{nl}Hey, if you have any leftover food, please share it with me...	너무 배가 고파.. 견딜 수가 없어.{nl}이봐요. 혹시 음식 찌꺼기같은거라도 있다면 조금만..				순례자 율리우스
 QUEST_LV_0200_20150323_003195	Even if that's all you have, please share it with me... Please...	그렇다면 그것이라도.. 제발요..				순례자 율리우스
 QUEST_LV_0200_20150323_003196	Meat... Quickly... {nl}I feel like I am dying.	고기.. 빨리요. {nl}정말 죽을 것 같단 말입니다.				순례자 율리우스
@@ -3348,8 +3348,8 @@ QUEST_LV_0200_20150323_003347	Farmer Druva	농사꾼 드루바
 QUEST_LV_0200_20150323_003348	I don't care about the monsters or the seals.{nl}Someone else getting hurt is their problem. We clear?	몬스터니 봉인이니 하는 건 난 알 바 없지.{nl}덕분에 서리 걱정도 없고 말야. 자넨 이해 하지?				농사꾼 드루바
 QUEST_LV_0200_20150323_003349	Times like this are an opportunity.{nl}Prices for agricultural products are increasing due to the monsters.	이런 때일 수록 기회를 잘 잡아야지.{nl}몬스터 때문에 농작물 가격은 계속 오르고 있다고.				농사꾼 드루바
 QUEST_LV_0200_20150323_003350	I was a refugee from the capital.{nl}I moved here hearing that this place was safe.. but that apparently is untrue. I'm ruined.	전 수도에서 온 피난민이에요.{nl}여긴 안전하대서 이사왔는데.. 다 거짓이었어요. 전 망했다고요.				망한 양봉가 로센
-QUEST_LV_0200_20150323_003351	Ah, I am so hungry... I can't endure any longer.{nl}Hey. Is there something to eat?	아아 배고파.. 더 이상 견딜 수 없어.{nl}이봐요. 혹시 먹을 것 좀 있나요?				순례자 릴리야
-QUEST_LV_0200_20150323_003352	I can't do anything since I am starving to death...	너무 배가 고파서 아무 것도 할 수가 없어..				순례자 릴리야
+QUEST_LV_0200_20150323_003351	Ah, I am so hungry... I can't endure any longer.{nl}Hey. Is there something to eat?	아아 배고파.. 더 이상 견딜 수 없어.{nl}이봐요. 혹시 먹을 것 좀 있나요?				Peregrina Liliya
+QUEST_LV_0200_20150323_003352	I can't do anything since I am starving to death...	너무 배가 고파서 아무 것도 할 수가 없어..				Peregrina Liliya
 QUEST_LV_0200_20150323_003353	I came here to save my son who is cursed.{nl}If you see a young man who is about to starve to death, let me know.	난 나크티스의 저주를 받은 아들을 구하러 왔소.{nl}혹시나 굶주림에 지쳐 있는 젊은 청년을 보게 된다면 내게 알려 주시오.				순례자 재뉴스
 QUEST_LV_0200_20150323_003354	I will return to my hometown with my son.{nl}Yes. The Revelator of the goddesses helped us.	난 반드시 아들을 데리고 고향으로 돌아갈 거요.{nl}암. 여신의 계시자가 도와 준 건데.				
 QUEST_LV_0200_20150323_003355	I want to see my son being healthy again.{nl}It's too painful to wait until my son to throw up the vicious energy.	빨리 아들의 건강한 모습을 보고 싶소.{nl}아들이 저주의 기운을 토해낼 때까지 기다리는게 고통스럽군.				
@@ -4673,24 +4673,24 @@ QUEST_LV_0200_20150323_004672	Defeat the monsters at Forest of Prayer	기원의 
 QUEST_LV_0200_20150323_004673	Knight Commander Uska told you that many monsters have appeared from the deep in the forest, but he couldn't do anything since he didn't have enough soldiers. Defeat 100 monsters at the Forest of Prayer on behalf of the knightage.	기사단장 우스카는 숲의 깊은 곳에서 몬스터가 대량으로 쏟아져 나왔지만 병력이 부족한 관계로 손을 쓸 수 없었다고 합니다. 기사단을 대신해서 기원의 숲의 몬스터를 100마리 처치하세요.				
 QUEST_LV_0200_20150323_004674	You've completed defeating all the monsters at the Forest of Prayer. Return to Uska and help him relieve his worry.	기원의 숲의 몬스터 토벌 작전을 완수했습니다. 기사단장 우스카에게 돌아가 그의 시름을 덜어 주세요.				
 QUEST_LV_0200_20150323_004675	Defeat the monsters at Forest of Prayer	기원의 숲의 몬스터 처치				
-QUEST_LV_0200_20150323_004676	Talk to Pilgrim Liliya	순례자 릴리야와 대화				
+QUEST_LV_0200_20150323_004676	Talk to Pilgrim Liliya	Peregrina Liliya와 대화				
 QUEST_LV_0200_20150323_004677	You can see Liliya at the Starving Demon's Way. She desperately wants something so get closer to her and talk to her.	큰아귀 길에 릴리야라는 순례자가 보입니다. 간절하게 뭔가를 원하고 있는 것 같으니 다가가 말을 걸어 보세요.				
 QUEST_LV_0200_20150323_004678	Collect monster meat	몬스터의 고기 수집				
-QUEST_LV_0200_20150323_004679	Pilgrim Liliya told you that she is very hungry, so get her any food you can find. Get some edible meats from the monsters.	순례자 릴리야는 배가 고프니 먹을 수 있는 거라면 뭐라도 구해 달라고 합니다. 몬스터에게 먹을 수 있을 만한 고기를 구해 보세요.				
-QUEST_LV_0200_20150323_004680	Hand them over to Pilgrim Liliya	순례자 릴리야에게 전달				
-QUEST_LV_0200_20150323_004681	Got enough to eat for three consecutive days without any worries. Bring her the lumps of meat.	이 정도 양의 고기라면 사흘 밤낮은 넉넉히 먹을 수 있을 것 같습니다. 순례자 릴리야에게 고기덩어리를 가져다 주세요.				
+QUEST_LV_0200_20150323_004679	Pilgrim Liliya told you that she is very hungry, so get her any food you can find. Get some edible meats from the monsters.	Peregrina Liliya는 배가 고프니 먹을 수 있는 거라면 뭐라도 구해 달라고 합니다. 몬스터에게 먹을 수 있을 만한 고기를 구해 보세요.				
+QUEST_LV_0200_20150323_004680	Hand them over to Pilgrim Liliya	Peregrina Liliya에게 전달				
+QUEST_LV_0200_20150323_004681	Got enough to eat for three consecutive days without any worries. Bring her the lumps of meat.	이 정도 양의 고기라면 사흘 밤낮은 넉넉히 먹을 수 있을 것 같습니다. Peregrina Liliya에게 고기덩어리를 가져다 주세요.				
 QUEST_LV_0200_20150323_004682	Obtain %s from the monsters	몬스터들로부터 %s획득				
 QUEST_LV_0200_20150323_004683	Get some Young Leaves	여린 들풀잎 구해 오기				
-QUEST_LV_0200_20150323_004684	Pilgrim Liliya is saying she wants more even after eating a lot. Get some Young Leaves for hungry Liliya.	순례자 릴리야는 그렇게 많은 고기를 먹고도 부족해 합니다. 배고픈 릴리야를 위해 들풀의 연한 잎을 구해 주세요.				
-QUEST_LV_0200_20150323_004685	You've collected a lot of Young Leaves. Hand them over to Pilgrim Liliya.	여린 들풀잎을 잔뜩 모았습니다. 순례자 릴리야에게 전해 주세요.				
+QUEST_LV_0200_20150323_004684	Pilgrim Liliya is saying she wants more even after eating a lot. Get some Young Leaves for hungry Liliya.	Peregrina Liliya는 그렇게 많은 고기를 먹고도 부족해 합니다. 배고픈 릴리야를 위해 들풀의 연한 잎을 구해 주세요.				
+QUEST_LV_0200_20150323_004685	You've collected a lot of Young Leaves. Hand them over to Pilgrim Liliya.	여린 들풀잎을 잔뜩 모았습니다. Peregrina Liliya에게 전해 주세요.				
 QUEST_LV_0200_20150323_004686	Extract %s from the wild herbs	들풀에서 %s 채취				
-QUEST_LV_0200_20150323_004687	Did Pilgrim Liliya's hunger go away? Talk to her again	순례자 릴리야의 허기는 채워 진 걸까요? 다시 그녀에게 말을 걸어 봅시다.				
-QUEST_LV_0200_20150323_004688	Talk to the fallen Pilgrim Liliya	쓰러져 있는 순례자 릴리야와 대화				
-QUEST_LV_0200_20150323_004689	Pilgrim Liliya appeared again from the place where the Carnivore was defeated. Talk to Liliya again.	카너버를 처치한 자리에서 순례자 릴리야가 다시 나타났습니다. 쓰러져 있는 릴리야와 대화를 시도해 보세요.				
+QUEST_LV_0200_20150323_004687	Did Pilgrim Liliya's hunger go away? Talk to her again	Peregrina Liliya의 허기는 채워 진 걸까요? 다시 그녀에게 말을 걸어 봅시다.				
+QUEST_LV_0200_20150323_004688	Talk to the fallen Pilgrim Liliya	쓰러져 있는 Peregrina Liliya와 대화				
+QUEST_LV_0200_20150323_004689	Pilgrim Liliya appeared again from the place where the Carnivore was defeated. Talk to Liliya again.	카너버를 처치한 자리에서 Peregrina Liliya가 다시 나타났습니다. 쓰러져 있는 릴리야와 대화를 시도해 보세요.				
 QUEST_LV_0200_20150323_004690	Defeat Liliya who turned into a Carnivore	카버너로 변한 릴리야 처치				
-QUEST_LV_0200_20150323_004691	Make a grave for Pilgrim Liliya	순례자 릴리야의 무덤 만들기				
-QUEST_LV_0200_20150323_004692	Liliya is dying... Please listen to her last words	순례자 릴리야는 곧 숨이 멎을 것 같습니다.. 마지막으로 그녀의 말을 들어 주세요.				
-QUEST_LV_0200_20150323_004693	Liliya passed away. Please make a grave for Liliya.	순례자 릴리야는 숨을 거두었습니다. 릴리야의 무덤을 만들어 주세요.				
+QUEST_LV_0200_20150323_004691	Make a grave for Pilgrim Liliya	Peregrina Liliya의 무덤 만들기				
+QUEST_LV_0200_20150323_004692	Liliya is dying... Please listen to her last words	Peregrina Liliya는 곧 숨이 멎을 것 같습니다.. 마지막으로 그녀의 말을 들어 주세요.				
+QUEST_LV_0200_20150323_004693	Liliya passed away. Please make a grave for Liliya.	Peregrina Liliya는 숨을 거두었습니다. 릴리야의 무덤을 만들어 주세요.				
 QUEST_LV_0200_20150323_004694	The pilgrim, Julius, can't move due to his severe hunger. Obtain some meat from the monsters.	순례자 율리우스는 배가 고파서 움직일 수 없는 듯 합니다. 몬스터로부터 먹을 만한 살코기를 구해 보세요.				
 QUEST_LV_0200_20150323_004695	Acquired enough meat from the monsters. Bring them to the pilgrim, Julius.	몬스터의 살점을 충분히 구했습니다. 순례자 율리우스에게 가져다 주세요.				
 QUEST_LV_0200_20150323_004696	Obtain %s from the monsters	몬스터로부터 %s 획득				
@@ -6590,7 +6590,7 @@ QUEST_LV_0200_20150414_006593	I'm thinking that it could be something from the o
 QUEST_LV_0200_20150414_006594	I wonder what the baron told the Revelator.{nl}Purify? That's ridiculous.	남작이 계시자님께 뭐라고 말하던가요.{nl}정화요? 웃기지도 않는 얘깁니다.				호라치우스
 QUEST_LV_0200_20150414_006595	Can you keep this a secret from the others?{nl} 'Cause if this reaches the baron's ears, all will be in vain.	혹시라도 다른 사람에겐 비밀로 해 주십시오.{nl}남작의 귀에 들어가기라도 한다면 모든 것이 물거품이 될 테니까요.				호라치우스
 QUEST_LV_0200_20150414_006596	Never listen to anything the baron says.{nl} He's just a greedy old man.	절대로 남작이 하는 말은 믿지 마세요.{nl}그저 욕심많은 늙은이일 뿐입니다.				타우라스
-QUEST_LV_0200_20150414_006597	Come... Come on! Give it!	어.. 어서 그걸 내놔!				순례자 릴리야
+QUEST_LV_0200_20150414_006597	Come... Come on! Give it!	어.. 어서 그걸 내놔!				Peregrina Liliya
 QUEST_LV_0200_20150414_006598	Do not bother the placed food piles.{nl} They should have shuffled over here by now... just keep watching.	이식량더미는 건들면 안 되오.{nl}슬슬 올 때가 됐는데.. 잠시만 지켜보시오.				순례자 재뉴스
 QUEST_LV_0200_20150414_006599	My son stole from a pile of food that was mixed with Holy Water.{nl}Over time, all of the curse's energy within him should be released.	아들이 훔쳐간 식량더미엔 성수를 섞어 놓았지.{nl}시간이 지나면 저주의 기운을 모두 토해 낼 거요.{nl}				순례자 재뉴스
 QUEST_LV_0200_20150414_006600	Strangely, we always lack manpower. {nl}Of course, the laziness of the workers here adds to it. {nl}	이상하게 항상 일손이 부족하단 말야.{nl}물론 여기 일꾼들이 게으름을 부리는 탓이 더 크지만.{nl}				사병장 타다스
@@ -8885,7 +8885,7 @@ QUEST_LV_0200_20150729_008888	The Seal Stone will just scatter away when release
 QUEST_LV_0200_20150729_008889	Defeat the Flask Mage and get the Crystal of Restriction	플라스크 메이지를 처치하여 속박의 결정 획득	QUEST_LV_0100_20150317_005577	Defeat the monsters nearby and get Trap Crystal	주변 몬스터를 처치하여 속박의 결정 획득	
 QUEST_LV_0200_20150729_008890	{memo Why is there a memo x, if this is used in the game?} The spirit of the Sealed Stone wants to be freed from the seal. Gather the Crystal of Restriction from the Flask Mage and break them.	봉인석의 영혼은 봉인석의 속박에서 풀려나고 싶어 합니다. 플라스크 메이지에게서 속박의 결정을 모아 파괴해 주세요.	QUEST_LV_0100_20150317_005578	The soul of seal stone wants to be freed. Gather Trap Crystal from the monsters nearby.	봉인석의 영혼은 봉인석의 속박에서 풀려나고 싶어 합니다. 주변 몬스터에게서 속박의 결정을 모아 파괴해 주세요.	
 QUEST_LV_0200_20150729_008891	The Weak Owl wants you to find other owls that the monsters took away. Find the traces of owl statue in the monster's hideaway locate at the end of Ishrai Crossroads.	약해진 부엉이는 몬스터들이 먹지 못하고 가져가버린 동료 부엉이를 찾아 주길 원하고 있습니다. 이쉬라이 사거리 길의 끝에 있는 몬스터의 은거지에서 부엉이 조각상의 흔적을 찾아 보세요.	QUEST_LV_0200_20150317_002649	The Weak Owl wants you to find other owls that the monsters took away. Find the traces of owl statue in the monster's hideaway located at each end of the Ishrai Crossroad.	약해진 부엉이는 몬스터들이 먹지 못하고 가져가버린 동료 부엉이를 찾아 주길 원하고 있습니다. 이쉬라이 사거리 길, 각각의 끝에 있는 몬스터의 은거지 세 곳에서 부엉이 조각상의 흔적을 찾아 보세요.	
-QUEST_LV_0200_20150729_008892	Pilgrim Liliya told you that she is very hungry and asked you to get her some food. Get some edible meat from Kepo.	순례자 릴리야는 배가 고프니 먹을 수 있는 거라면 뭐라도 구해 달라고 합니다. 케포로부터 먹을 수 있을 만한 고기를 구해 보세요.	QUEST_LV_0200_20150323_004679	Pilgrim Liliya told you that she is very hungry, so get her any food you can find. Get some edible meats from the monsters.	순례자 릴리야는 배가 고프니 먹을 수 있는 거라면 뭐라도 구해 달라고 합니다. 몬스터에게 먹을 수 있을 만한 고기를 구해 보세요.	
+QUEST_LV_0200_20150729_008892	Pilgrim Liliya told you that she is very hungry and asked you to get her some food. Get some edible meat from Kepo.	Peregrina Liliya는 배가 고프니 먹을 수 있는 거라면 뭐라도 구해 달라고 합니다. 케포로부터 먹을 수 있을 만한 고기를 구해 보세요.	QUEST_LV_0200_20150323_004679	Pilgrim Liliya told you that she is very hungry, so get her any food you can find. Get some edible meats from the monsters.	Peregrina Liliya는 배가 고프니 먹을 수 있는 거라면 뭐라도 구해 달라고 합니다. 몬스터에게 먹을 수 있을 만한 고기를 구해 보세요.	
 QUEST_LV_0200_20150729_008893	Get the meat of Kepari	케파리 살점 구해 오기	QUEST_LV_0200_20150317_002674	Get monster meat	몬스터 살점 구해 오기	
 QUEST_LV_0200_20150729_008894	Pilgrim Julius can't move due to severe hunger. Get some Kepari meat for him to eat.	순례자 율리우스는 배가 고파서 움직일 수 없는 듯 합니다. 케파리로부터 먹을 만한 살코기를 구해 보세요.	QUEST_LV_0200_20150323_004694	The pilgrim, Julius, can't move due to his severe hunger. Obtain some meat from the monsters.	순례자 율리우스는 배가 고파서 움직일 수 없는 듯 합니다. 몬스터로부터 먹을 만한 살코기를 구해 보세요.	
 QUEST_LV_0200_20150729_008895	Got enough Kepari meat. Give it to Pilgrim Julius.	케파리의 살점을 충분히 구했습니다. 순례자 율리우스에게 가져다 주세요.	QUEST_LV_0200_20150323_004695	Acquired enough meat from the monsters. Bring them to the pilgrim, Julius.	몬스터의 살점을 충분히 구했습니다. 순례자 율리우스에게 가져다 주세요.	
