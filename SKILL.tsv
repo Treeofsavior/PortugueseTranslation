@@ -15218,7 +15218,7 @@ SKILL_20190419_015217	Blood Bath
 SKILL_20190419_015218	Faz com que monstros da raça Fera, Demônio e Inseto sejam afetados por [Bleed]. Se o inimigo estiver sob o efeito de [Curse], ele também será afetado independente da raça. O sangue dos inimigos recupera o seu HP.	
 SKILL_20190419_015219	Multiplicador: #{SkillFactor}#%{nl}Duração de {#339999}{ol}[Bleed]{/}{/}: 7 segundos{nl}Recuperação: #{CaptionRatio2}#% do dano	
 SKILL_20190419_015220	Drena o HP de monstros da raça Fera, Demônio e Inseto. Se o inimigo estiver sob o efeito de [Curse], ele também será afetado independente da raça.	
-SKILL_20190419_015221	Multiplicador:#{SkillFactor}#% a cada 0.4 segundos{nl}Consumo de SP: #{CaptionTime}# SP a cada 0.4 segundos{nl}Recuperação: #{CaptionRatio2}#% do dano	
+SKILL_20190419_015221	Multiplicador: #{SkillFactor}#% a cada 0.4 segundos{nl}Consumo de SP: #{CaptionTime}# SP a cada 0.4 segundos{nl}Recuperação: #{CaptionRatio2}#% do dano	
 SKILL_20190419_015222	Invoca um osso pontiagudo, chamado de Kundela. O osso aponta para os inimigos dentro da área, aplicando o efeito de [Hexing] Nv.1 nos alvos.	
 SKILL_20190419_015223	Multiplicador: #{SkillFactor}#%{nl}Número de Bloqueios: #{CaptionRatio}#{nl}Duração de [Bone Pointing: #{CaptionRatio2}# segundos{nl}Duração de {#339999}{ol}[Hexing]{/}{/}: 7 segundos	
 SKILL_20190419_015224	Ataca um inimigo com uma adaga amaldiçoada, feita de ossos. Os inimigos alvejados sofrerão com [Decay].	
@@ -15397,7 +15397,7 @@ SKILL_20190419_015396	Redemption
 SKILL_20190419_015397	Por um determinado período, faz com que você desvie dos ataques de inimigos e aumenta a Velocidade de Movimento. Você não poderá desviar de ataques certeiros.{nl}A duração do efeito, bem como a Velocidade de Movimento, aumentam conforme a quantidade de vezes que você desviar de ataques.	
 SKILL_20190419_015398	Velocidade de Movimento: +#{CaptionRatio}#{nl}Duração do Buff: +#{CaptionTime}# segundos	
 SKILL_20190419_015399	Aiming Shot	
-SKILL_20190419_015400	Realiza um disparo imprevisível. Os inimigos que estiverem na mira terão seus efeitos benéficos removidos, causando dano adicional baseado o número de efeitos que forem removidos.{nl}Segurar a mira por mais tempo aumenta o número de efeitos removidos.{nl}Causa 50% a mais de dano em alvos afetados por [Peacemaker: Fatigue].	
+SKILL_20190419_015400	Realiza um disparo imprevisível. Os inimigos que estiverem na mira terão seus efeitos benéficos removidos, causando dano adicional baseado o número de efeitos que forem removidos.{nl}Segurar a mira por mais tempo aumenta a chance de remover efeitos benéficos.{nl}Causa 50% a mais de dano em alvos afetados por [Peacemaker: Fatigue].	
 SKILL_20190419_015401	Multiplicador: #{SkillFactor}#%{nl}Nr. máximo de buffs removidos: #{CaptionRatio}#{nl}Dano adicional por buff removido: +#{CaptionRatio2}#%	
 SKILL_20190419_015402	Rykuma	
 SKILL_20190419_015403	Garante imunidade temporária contra efeitos negativos de Nível 4 ou menor, através da Graça de Rykuma.{nl}Todos os [Dispellers] e [Charm of Protection] que estiverem ativados continuarão sendo consumidos, mesmo que você esteja sobre os efeitos desta imunidade.	
@@ -15541,7 +15541,7 @@ SKILL_20190419_015540	* Aumenta a taxa de Penetração de Bloqueio das habilidad
 SKILL_20190419_015541	* Aumenta a Taxa de Crítico de algumas das habilidades de Cannoneer e Matross em 1%, por nível do atributo, enquanto estiver com [Kneeling Shot] ativo.{nl}* Aplica para as seguintes habilidades: [Cannon Blast], [Cannon Shot], [Shootdown], [Siege Burst], [Cannon Barrage], [Fire and Run], [Explosion], [Crouching Strike], [Canister Shot]	
 SKILL_20190419_015542	* Ignora parte da defesa do inimigo de acordo com o tipo da armadura.{nl}* 2%, por nível do atributo, para [Tecido] e [Couro].{nl}* 4%, por nível do atributo, para [Metal].{nl}* Consumo de SP das habilidades de Canhão +10%	
 SKILL_20190419_015543	* 1%, por nível do atributo, de ataque adicioonal nas habilidades de Mosketeer e Tiger Hunter.{nl}* Reduz a Velocidade de Movimento em 1	
-SKILL_20190419_015544	* Causa 50% a mais de dano de [Down Fall] em inimigos dentro de uma área de 40 do alvo original da habilidade.{nl}* Acelera o ciclo de dano de [Down Fall] em 0.1 segundo{nl}* Alvos: 3 + (Taxa de Ataque em Área / 3).{nl}* Consumo de SP + 50%	
+SKILL_20190419_015544	* Causa 50% a mais de dano de [Down Fall] em inimigos dentro de uma área de 40 do alvo original da habilidade.{nl}* Reduz o ciclo de dano de [Down Fall] em 0.1 segundo{nl}* Alvos: 3 + (Taxa de Ataque em Área / 3).{nl}* Consumo de SP + 50%	
 SKILL_20190419_015545	* Aumenta o Multiplicador e a Taxa de Crítico mínima de [Blindside] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo	
 SKILL_20190419_015546	Overestimate: Aprimorar Aliados	
 SKILL_20190419_015547	* Aplica o efeito de [Overestimate] para os membros do grupo.{nl}* Consumo de SP + 200%	
@@ -15580,7 +15580,7 @@ SKILL_20190419_015579	* Aumenta o Multiplicador de [Rapid Shot] em 0.5% por nív
 SKILL_20190419_015580	Ambush: Aprimorar	
 SKILL_20190419_015581	* Aumenta o Multiplicador de [Ambush] em 0.5% por nível do atributo.{nl}* +10% de aumento adicional no nível máximo	
 SKILL_20190419_015582	Ambush: Derrubar	
-SKILL_20190419_015583	* [Ambush] derruba os inimigos.{nl}* Consumo de SP + 10%	
+SKILL_20190419_015583	* [Ambush] empurra os inimigos.{nl}* Consumo de SP + 10%	
 SKILL_20190419_015584	* Derrotar um inimigo enquanto estiver sob efeito de [Camo Shot] aumenta a sua STR e DEX em 2% por nível do atributo.{nl}* Aumenta a duração em 1 segundo para cada morte enquanto a habilidade estiver ativa.{nl}* Consumo de SP + 50%	
 SKILL_20190419_015585	Camo Shot: Pastagens	
 SKILL_20190419_015586	* Utilizar [Camo Shot] em terrenos com gramas longas aumenta a duração em 5 segundos.{nl}* Também considera a habilidade [Chortasmata].{nl}* Consumo de SP + 30%	
@@ -15895,7 +15895,7 @@ SKILL_20190802_015894	Ataca continuamente utilizando a sua Adaga. Um ataque dupl
 SKILL_20190802_015895	Multiplicador: #{SkillFactor}#% x2{nl}Taxa de Ataque em Área: #{SkillSR}#{nl}Duração de [Stun]: #{CaptionRatio2}# segundos{nl}Chance de Crítico: +#{CaptionRatio}#%	
 SKILL_20190802_015896	Reduz a Defesa Física e Mágica dos inimigos ao redor.	
 SKILL_20190802_015897	Defesa Física e Mágica: -25%{nl}Duração: 10 segundos{nl}Alvos: 5	
-SKILL_20190802_015898	Reduz o dano que você e os seus aliados recebem, proporcional ao seu HP Máximo. A quantidade de dano reduzido diminui em 1% a cada 0.5 segundos. O efeito é removido quando a duração acabar, ou quando a a redução alcançar 0%.	
+SKILL_20190802_015898	Reduz o dano que você e os seus aliados recebem, proporcional ao seu HP Máximo. A quantidade de dano reduzido diminui em 1% a cada 0.5 segundos. O efeito é removido quando a duração acabar, ou quando a a redução alcançar 0%.
 SKILL_20190802_015899	Dano recebido: -#{CaptionRatio}#%{nl}Duração: 20 segundos{nl}Consome Lensterseum x1	
 SKILL_20190802_015900	Aumenta a sua cura em 40%, além de reduzir o custo de SP das habilidades que forem utilizadas. Também reduz o dano que você e os seus aliados recebem em 10%.	
 SKILL_20190802_015901	Consumo de SP: -#{CaptionRatio}#%{nl}Duração de [Convicção de Gymas]: 40 segundos{nl}Duração de [Proteção de Gymas]: 20 segundos{nl}Consome Lensterseum x1	

@@ -640,7 +640,7 @@ UI_20150317_000639	{@st41}Itens comprados{/}
 UI_20150317_000640	{@sti1c}Simonia	
 UI_20150317_000641	{@st41}Habilidade de Confecção	
 UI_20150317_000642	{@st42}Nível %s{/}	
-UI_20150317_000643	Custos de confecção	
+UI_20150317_000643	Custo	
 UI_20150317_000644	Qtde. de Confecção	
 UI_20150317_000645	Requer quase %s segundos	
 UI_20150317_000646	{@st41}Confeccionar	
@@ -1953,8 +1953,8 @@ UI_20151224_001952	{@st66b}  Em progresso  {/}
 UI_20151224_001953	{@st66b}  Abandonada  {/}	
 UI_20151224_001954	{@st66b}Renascer com um Soul Crystal{/}	
 UI_20151224_001955	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click to enter a quantity to Vender/buy multiple items{nl} - Right-click twice to Vender all the items{/}	
-UI_20151224_001956	Número	
-UI_20151224_001957	{@st42}Benefícios de%s{/}	
+UI_20151224_001956	Quantidade	
+UI_20151224_001957	{@st42}Benefícios de %s{/}	
 UI_20151224_001958	Você quer usar este %s?{/}	
 UI_20151224_001959	Este item irá desaparecer do inventário{nl}Reseta todos os pontos de Skill.	
 UI_20151224_001960	{@st41}Use	
