@@ -2289,7 +2289,7 @@ UI_20160811_002288	Transcendência
 UI_20160811_002289	{@st59b}Transcender Item{nl}{@st59s}- Outra maneira de aprimorar o desempenho do item além da bigorna{nl}- Itens que podem transcender : Armas, armaduras e acessórios{nl}- Taxa de Sucessão de Transcendência = Ingredientes Usados / Máximo de Ingredientes Requeridos{nl}- Aumenta o estágio de Transcendência em 1 caso tenha sucesso (Maximo de 10 estágios){nl}- Diminui o estágio de transcendência em 1 caso falhe (Sem perda de potencial){nl}- Itens transcendidos não podem ser negociados{/}	
 UI_20160811_002290	{@st42}Estágio %s{/}	
 UI_20160811_002291	Extrair Gema Abençoada	
-UI_20160811_002292	{@st59b}Extrair Gema Abençoada{nl}{@st59s}- Extrai Gema Abençoada de itens transcendidos{nl}- Requerimento de extração : Martelo de Desmanche{nl}- Você vai receber algumas das Gema Abençoadas utilizadas para a transcendência, mas o item será destruído. {nl}- Você não pode usar isso quando seu item estiver no estágio 0 de Transcendência.{/}	
+UI_20160811_002292	{@st59b}Extrair Gema Abençoada{nl}{@st59s}- Extrai Gema Abençoada de itens transcendidos{nl}- Requerimento de extração : Martelo de Desmantelamento{nl}- Você vai receber algumas das Gemas Abençoadas utilizadas para a transcendência, mas o item será destruído. {nl}- Você não pode usar isso quando seu item estiver no estágio 0 de Transcendência.{/}	
 UI_20160811_002293	Resultados de Extração
 UI_20160811_002294	Extrair Item	
 UI_20160811_002295	{@st59b}Extrair Item{nl}{@st59s}- Remove os efeitos transcedentais de um item transcendido{nl}- Requerimentos de Extração : Cajado de Feitiço{/}	
@@ -2344,57 +2344,57 @@ UI_20161005_002343	{@st66b}Até quatro habilidade de IA de Homunculus podem ser 
 UI_20161005_002344	Nome{/}	
 UI_20161005_002345	Configurações{/}	
 UI_20161005_002346	{@st59}Fechar{/}	
-UI_20161005_002347	{@st66d}Você não pode reverter isso quando a habilidade for aplicada.{nl}Deseja continuar?{/}	
+UI_20161005_002347	{@st66d}Isso não poderá ser revertido depois de aplicada a habilidade.{nl}Deseja continuar?{/}	
 UI_20161005_002348	É um cupom de feitiço que{nl}derrota rapidamente monstros em masmorras instanciadas.	
-UI_20161005_002349	Cupom de Remoção Instanciada
+UI_20161005_002349	Cupom de Limpeza de Instância
 UI_20161005_002350	Aviso	
-UI_20161005_002351	 Os monstros derrotados pelo pilar da luz{nl}não serão registrados no Diário de Aventura e {nl} os itens cairão perto do pilar de luz. Por favor, esteja ciente da possível perda de itens.{Nl}O voucher usado desaparece instantaneamente e só pode ser usado no calabouço instanciado dessa contagem.{/}	
-UI_20161005_002352	Deseja usar um Instanced Clear Voucher?{/}	
-UI_20161005_002353	{@st59b}Extração de Gema Abençoadas{nl}{@st59s}- Extrai a Gema Abençoada de um item transcendido{nl}- Requerimento de extração : Hammer of Dismantlement{nl}- Você vai receber algumas das Gema Abençoadas utilizadas para a transcendência, mas o item será destruído.{nl}  : Taxa de sucesso atual / 40% da quantidade de Gema Abençoadas será devolvido. {nl}- Você não pode usar isso quando seu item estiver no estágio 0 de Transcendência.{/}	
+UI_20161005_002351	 Os monstros derrotados pelo pilar da luz{nl}não serão registrados no Diário de Aventura e {nl} os itens cairão perto do pilar de luz. Por favor, esteja ciente da possível perda de itens.{Nl}O cupom usado desaparece instantaneamente e só pode ser usado em masmorras de instância.{/}	
+UI_20161005_002352	Deseja usar um Cupom de Limpeza de Instância?{/}	
+UI_20161005_002353	{@st59b}Extração de Gemas Abençoadas{nl}{@st59s}- Extrai a Gema Abençoada de um item transcendido{nl}- Requerimento de extração : Martelo de Desmantelamento{nl}- Você vai receber algumas das Gemas Abençoadas utilizadas para a transcendência, mas o item será destruído.{nl}  : Taxa de sucesso atual / 40% da quantidade de Gemas Abençoadas será devolvido. {nl}- Você não pode usar isso quando seu item estiver no estágio 0 de Transcendência.{/}	
 UI_20161005_002354	A Missão Falhou	
 UI_20161005_002355	Todos os jogadores foram incapacitados.	
 UI_20161005_002356	Confirmar para sair da torre.	
 UI_20161005_002357	{@st43b}{s20}Confirmar{/}	
-UI_20161005_002358	{@st41}Auto-Attack	
+UI_20161005_002358	{@st41}Auto-Ataque	
 UI_20161005_002359	{s16}{#000000}Amigos Online %s/%s{/}	
-UI_20161005_002360	{@st43}Go to Friend{/}	
+UI_20161005_002360	{@st43}Ir para Amigo{/}	
 UI_20161005_002361	{@st43}Portal	
 UI_20161005_002362	{@st41b}Salvar Posição	
 UI_20161005_002363	{@st59}Fechar{/}	
 UI_20161005_002364	{@st66b}Portais Salvos: %s/%s{/}	
-UI_20161005_002365	{@st43}Craft Spellbook	
-UI_20161005_002366	{@st43}Loja de Mudar Gênero{/}	
+UI_20161005_002365	{@st43}Confeccionar Livro de Feitiços
+UI_20161005_002366	{@st43}Loja de Mudança de Gênero{/}	
 UI_20161005_002367	{@st66b}Alterar{/}	
 UI_20161005_002368	{@st59}Fechar{/}	
 UI_20161005_002369	{img silver 20 20}Preço	
 UI_20161005_002370	{@st41b}Open	
 UI_20161005_002371	Antes{/}	
 UI_20161005_002372	Depois{/}	
-UI_20161005_002373	{@st66d}Muda Gênero{/}	
+UI_20161005_002373	{@st66d}Mudar Gênero{/}	
 UI_20161005_002374	{#CC0000}{ol}AVISO{/}{/}{/}	
 UI_20161005_002375	Remova todo equipamento antes de prosseguir {nl} Roupas de classe mudarão juntamente com o seu gênero {/}	
 UI_20161005_002376	{@st67}Todos os itens premium que forem específicos{nl}de gênero não serão mais equipáveis{/}	
-UI_20161005_002377	Stat	
-UI_20161005_002378	{@st66d}{s30}The webpage reached its end. {nl} Please, press Fechar.{/}	
-UI_20161005_002379	View from the Player's POV	
+UI_20161005_002377	Atributo	
+UI_20161005_002378	{@st66d}{s30}A página web chegou ao fim. {nl} Por favor, aperte Fechar.{/}	
+UI_20161005_002379	Ponto de Vista do Personagem	
 UI_20161005_002380	Personagens	
-UI_20161005_002381	{@st66e}%s{nl}Change from %s to {@st66d_y}%s{/}	
+UI_20161005_002381	{@st66e}%s{nl}Mudar de %s para {@st66d_y}%s{/}	
 UI_20161005_002382	{@st66b}Recomeçar{/}	
 UI_20161005_002383	{@st66d_y}%s{/}	
-UI_20161005_002384	Selected Option:{nl}%s	
+UI_20161005_002384	Opção Selecionada:{nl}%s	
 UI_20161005_002385	Guilda: Atributos & Info	
 UI_20161005_002386	{@st66b}Salvar	
 UI_20161005_002387	{@st42}Quadro de mensagens de uma linha - Até 3 vezes ao dia.{/}	
 UI_20161005_002388	{@st42}Registros	
-UI_20161005_002389	GvG Ranks	
-UI_20161005_002390	{@st66e}Forge (%s/%s){/}	
-UI_20161005_002391	{@st66e}Shield Charge (%s/%s){/}	
+UI_20161005_002389	Rankings GvG
+UI_20161005_002390	{@st66e}Forja (%s/%s){/}	
+UI_20161005_002391	{@st66e}Investida de escudo (%s/%s){/}	
 UI_20161005_002392	{@st45tw2}Apenas Membros{/}	
-UI_20161005_002393	{@st42}Ter a skill [% s] é necessária.{/}	
+UI_20161005_002393	{@st42}A habilidade [% s] é necessária.{/}	
 UI_20161005_002394	{@st66b}Coordenadas{/}	
 UI_20161005_002395	{@st42b}Abrir Portal	
-UI_20161005_002396	{@st66b}Corregamento do Portal{/}	
-UI_20161010_002397	{@st66d_y}{s20}All{/}	
+UI_20161005_002396	{@st66b}Recarga do Portal{/}	
+UI_20161010_002397	{@st66d_y}{s20}Todos{/}	
 UI_20161107_002398	{@st43}Lista de Troca{/}	
 UI_20161107_002399	{@st41b}Custo: {/}  (Loja de Trocas)
 UI_20161107_002400	{@st41b}Medalhas Obtidas: {/}	
@@ -2402,9 +2402,9 @@ UI_20161107_002401	Quer gastar Medalhas pelo item?
 UI_20161107_002402	Uma vez trocado, não pode voltar atrás.	
 UI_20161107_002403	Você quer trocar esse item por Medalhas?	
 UI_20161107_002404	Trocar itens comprados novamente por outras medalhas pode gerar perdas devido as taxas.	
-UI_20161107_002405	{@st43}{s24}TP Shop	
+UI_20161107_002405	{@st43}{s24}Loja de TP	
 UI_20161107_002406	{@st43}{s24}NOVIDADE{/}	
-UI_20161107_002407	  {img Nexon_cash_mark 30 30} Owne{/}{/}	
+UI_20161107_002407	  {img Nexon_cash_mark 30 30} Guardado{/}{/}	
 UI_20161107_002408	{@st66d}{s20}Recarregar Carteira Steam{/}	
 UI_20161107_002409	{@st66d}{s18}Prévia/Comprar{/}	
 UI_20161107_002410	{@st66d}Resetar Prévia{/}	
@@ -2416,46 +2416,46 @@ UI_20161107_002415	{@st66d}Trocar por Item{/}
 UI_20161107_002416	  Medalhas Atual{/}	
 UI_20161107_002417	  Medalhas Restantes{/}	
 UI_20161107_002418	Preço em Medalhas	
-UI_20161107_002419	{@st66b}TP Purchase{/}	
+UI_20161107_002419	{@st66b}Comprar TP{/}	
 UI_20161107_002420	{@st66b}Loja de Trocas{/}	
 UI_20161107_002421	Trocar itens por medalhas	
 UI_20161107_002422	Trocar medalhas por itens	
 UI_20161107_002423	Compráveis	
-UI_20161107_002424	Vendíveis	
+UI_20161107_002424	Vendáveis	
 UI_20161107_002425	{@st66d}{s18}Top 5 Vendidos{/}	
 UI_20161107_002426	{@st55_b} Digite algo para buscar.{/}	
-UI_20161107_002427	 TP Purchaseable	
-UI_20161107_002428	{@st66d}{s18}Special Offer{/}	
+UI_20161107_002427	 Comprável por TP
+UI_20161107_002428	{@st66d}{s18}Oferta Especial{/}	
 UI_20161107_002429	{@st66d}Comprar{/}	
-UI_20161107_002430	{@st66d}{s18}Cash Storage{/}	
-UI_20161107_002431	{@st43d}{s18}- Can only be used when the item purchase is finalized.{nl} -Right-click to finalize the purchase.{nl}- The purchased item will be on your character's inventory.{nl}- Items on Cash Storage can be refunded within 7 days of purchase.{/}	
-UI_20161107_002432	{@st67}{s18}A purchase cannot be reverted once it is finalized.{/}	
+UI_20161107_002430	{@st66d}{s18}Armazém de Cash{/}	
+UI_20161107_002431	{@st43d}{s18}- Só pode ser usado quando a compra do item for finalizada.{nl} - Clique com o botão direito para finalizar a compra.{nl}- O item comprado estará no inventário do seu personagem.{nl}- Itens no Armazém de Cash podem ser reembolsados em até 7 dias da sua compra.{/}	
+UI_20161107_002432	{@st67}{s18}Uma compra não pode ser desfeita depois de finalizada.{/}	
 UI_20161107_002433	{@st66d}{s18}Sim{/}	
 UI_20161107_002434	{@st66d}{s18}Não{/}	
-UI_20161107_002435	{@st66}{s18}Right to Cancel{/}	
+UI_20161107_002435	{@st66}{s18}Direito à Cancelamento{/}	
 UI_20161107_002436	{@st42b}{s16}Comprar{/}	
-UI_20161107_002437	{@st42}{s16} Medal Cost {/}{img icon_item_recyclemedal 20 20}{/}	
-UI_20161107_002438	{@st42}{s16} Obtained Medal {/}{img icon_item_recyclemedal 20 20}{/}	
+UI_20161107_002437	{@st42}{s16} Custo em Medalhas {/}{img icon_item_recyclemedal 20 20}{/}	
+UI_20161107_002438	{@st42}{s16} Medalhas Obtidas {/}{img icon_item_recyclemedal 20 20}{/}	
 UI_20161107_002439	Obtido: %s	
 UI_20161107_002440	{@st42b}{s16}Comprar{/}	
 UI_20161107_002441	{@st42b}{s16}Trocar Medalhas{/}	
 UI_20161107_002442	Custo   (Loja de Trocas)
 UI_20161107_002443	Medalhas Obtidas	
 UI_20161108_002444	{@st43}%s obtido!{/}	
-UI_20161108_002445	{@st42b}Open Goddess' Blessed Cube X %s	
-UI_20161108_002446	{@st42b}Abrir Leticia Secret Cube X %s	
-UI_20161108_002447	{@st41}Open Compensation Cube	
+UI_20161108_002445	{@st42b}Abrir Cubo Abençoado da Deusa X %s	
+UI_20161108_002446	{@st42b}Abrir Cubo Secreto da Leticia X %s	
+UI_20161108_002447	{@st41}Abrir Cubo de Compensação	
 UI_20161108_002448	{@st59}Fechar{/}	
 UI_20161108_002449	{@st66b}Poderá obter algo misterioso{nl}quando abrir.{/}	
-UI_20161121_002450	{@st41}Entry Count Reset : 06:00 AM Every Day{/}	
+UI_20161121_002450	{@st41}Reset de Entradas : 06:00 AM Every Day{/}	
 UI_20161121_002451	Nome/Local	
 UI_20161121_002452	Nível para Entrar	
 UI_20161121_002453	Entradas	
 UI_20161121_002454	Entradas na Masmorra	
 UI_20161121_002455	%s/%s	
-UI_20161121_002456	Principais Itens dropáveis	
-UI_20161121_002457	{@st66b}Voltar a partida{nl}	
-UI_20161121_002458	Entering the place previously matched.	
+UI_20161121_002456	Principais Itens Adquiríveis	
+UI_20161121_002457	{@st66b}Voltar à partida{nl}	
+UI_20161121_002458	Voltando ao lugar anterior.	
 UI_20161121_002459	Buscar	
 UI_20161121_002460	Monstros Principais	
 UI_20161121_002461	Aguardando a participação do grupo.{nl}Uma mensagem será enviada aos jogadores no nível apropriado.	
@@ -2473,41 +2473,41 @@ UI_20161214_002472	{@st66}Lista de itens identificáveis
 UI_20161214_002473	{@st41b}Custo de identificação{/}	
 UI_20161214_002474	{@st41b}Identificar{/}	
 UI_20161214_002475	Nome	
-UI_20161214_002476	{@st43}Companion Shop	
+UI_20161214_002476	{@st43}Loja de Mascote	
 UI_20161214_002477	{@st66b}Adotar{/}	
-UI_20161214_002478	{@st66b}Pet Food{/}	
-UI_20161214_002479	{img icon_item_silver 20 20}{@st41b}Proceed {/}{img white_right_arrow 15 18}	
-UI_20161214_002480	{img icon_item_silver 20 20}{@st41b}Remaining Fund {/}{img white_right_arrow 15 18}	
-UI_20161214_002481	{@st66b}Clear{/}	
-UI_20161214_002482	{@st41b}Proceed {/}{img white_right_arrow 15 18}	
-UI_20161214_002483	{@st41b}Remaining Fund {/}{img white_right_arrow 15 18}	
-UI_20161214_002484	Level 1 cards do not consume 5TP.	
-UI_20161214_002485	{@st66b}Real-time Standings	
-UI_20161214_002486	Last Season Standings	
-UI_20161214_002487	Aumenta a taxa de EXP/Drop{nl}até 3 vezes{nl}ao consumir as entradas e os{nl}Tokens de Multiplicação de Masmorras de Instãncia
-UI_20161214_002488	{@st41b}Ativar Multiply Mode	
-UI_20161214_002489	{@st41b}Cancelar Multiply Mode	
-UI_20161214_002490	Multiply Mode Number	
+UI_20161214_002478	{@st66b}Comida de Bichinho{/}	
+UI_20161214_002479	{img icon_item_silver 20 20}{@st41b}Continuar {/}{img white_right_arrow 15 18}	
+UI_20161214_002480	{img icon_item_silver 20 20}{@st41b}Fundos Remanescentes {/}{img white_right_arrow 15 18}	
+UI_20161214_002481	{@st66b}Limpar{/}	
+UI_20161214_002482	{@st41b}Continuar {/}{img white_right_arrow 15 18}	
+UI_20161214_002483	{@st41b}Fundos remanescentes {/}{img white_right_arrow 15 18}	
+UI_20161214_002484	Cartas de nível 1 nào consomem 5TP.	
+UI_20161214_002485	{@st66b}Classificação em tempo real	
+UI_20161214_002486	Classificações da Temporada Anterior
+UI_20161214_002487	Aumenta a taxa de EXP/Drop{nl}até 3 vezes{nl}ao consumir as entradas e os{nl}Tokens de Multiplicação de Masmorras de Instância
+UI_20161214_002488	{@st41b}Ativar Modo Multiplicador	
+UI_20161214_002489	{@st41b}Cancelar Modo Multiplicador	
+UI_20161214_002490	Número do Modo Multiplicador	
 UI_20161214_002491	Aguardando...	
 UI_20161214_002492	{@st66b}Equipamento{/}	
-UI_20161214_002493	{@st66b}Item{/}	
-UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}	
-UI_20161214_002495	{@st59b}Gema Abençoada Extraction{nl}{@st59s}- Extracting Gema Abençoadas from Transcended Items{nl}- Ingredient for Gema Abençoada Extraction : Hammer of Dismantlement{nl}- A portion of Gema Abençoadas used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}	
+UI_20161214_002493	{@st66b}Item{/}	 
+UI_20161214_002494	{@st59b}Transcendência de Item{nl}{@st59s}- Melhora a performance de um item de maneira diferente do refinamento por bigorna{nl}- Transcendentais : Armas, Armaduras, Acessórios{nl}- Chance de Transcendência = Número de Ingredients / Mínimo Requerido{nl}- Se for bem sucedida, aumenta o nível de Transcendência em 1 (Max. 10){nl}- Se falhar, o nível de Transcendência e o potencial do item diminuem em 1(Nível de Transcendência não cai para menos de 1){nl}- Itens Transcendentais não podem ser trocados{/}	
+UI_20161214_002495	{@st59b}Gema Abençoada Extraction{nl}{@st59s}- Extracting Gemas Abençoadas from Transcended Items{nl}- Ingredient for Gema Abençoada Extraction : Hammer of Dismantlement{nl}- A portion of Gemas Abençoadas used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}	
 UI_20161214_002496	{@st66b}Salvar{/}	
 UI_20161214_002497	{@st66b}Mostrar dano dos outros jogadores	
 UI_20161214_002498	{@st59}Selecione o servidor.{/}	
-UI_20161214_002499	{@st59}Record FPS and Activate Replay.{/}	
+UI_20161214_002499	{@st59}Gravar FPS e Replay Ativo.{/}	
 UI_20161214_002500	Atual	
-UI_20161214_002501	Max.	
+UI_20161214_002501	Máx.	
 UI_20161214_002502	{@st66b}Aprender	
-UI_20161214_002503	{img white_right_arrow 24 24}{@st66d_y} Total Cost{/}	
+UI_20161214_002503	{img white_right_arrow 24 24}{@st66d_y} Custo Total{/}	
 UI_20161214_002504	{@brown_16}Participação da guilda{/}	
 UI_20161214_002505	{@black_18_b}Diário{/}	
-UI_20161214_002506	{@black_18_b}Semanal (Reset every monday){/}	
+UI_20161214_002506	{@black_18_b}Semanal (Reinicia toda segunda-feira){/}	
 UI_20161214_002507	{@brown_16}Participação individual{/}	
 UI_20161214_002508	Autoridade da Guilda	
-UI_20161221_002509	Deseja utilizar o Rank Reset Voucher?	
-UI_20161221_002510	O item desaparecerá do seu inventário{nl}e seus Ranks serão redefinidos.	
+UI_20161221_002509	Deseja utilizar o Cupom de Reset de Classificação?	
+UI_20161221_002510	O item desaparecerá do seu inventário{nl}e suas Classificações serão redefinidas.	
 UI_20161221_002511	{@st66d_y}Condições e Precauções{/}	
 UI_20161221_002512	{@st58}Sem itens equipados{/}	
 UI_20161221_002513	{@st59}Não estar aprendendo Atributos{/}	
@@ -2518,13 +2518,13 @@ UI_20161221_002517	{@st59}Não estar construindo itens{/}
 UI_20161221_002518	{@st59}Não ser Mestre de Guilda{/}	
 UI_20161221_002519	* As Cartas de Monstros equipadas serão{nl}automaticamente removidas sem penalidades.	
 UI_20161221_002520	* Níveis de atributo comprados antes do reset{nl}podem ser aprendidos novamente sem nenhum custo após o reset.	
-UI_20161221_002521	* EXP cards equivalent to the last Rank to have achieved{nl}	
-UI_20161221_002522	Class Level 15	
-UI_20161221_002523	 will be provided to your inventory.	
-UI_20161221_002524	* Trajes específicos de classe recebidos{nl}por avanço de Rank serão excluídos.	
-UI_20161221_002525	* Você retornará a tela inicial após usar o Voucher.	
+UI_20161221_002521	* Cartas de EXP equivalentes ao último nível alcançado{nl}	
+UI_20161221_002522	Nível de Classe 15
+UI_20161221_002523	 serão adicionados ao seu inventário.	
+UI_20161221_002524	* Trajes específicos de classe recebidos{nl}por avanço de Classe serão excluídos.	
+UI_20161221_002525	* Você retornará à tela inicial após usar o Voucher.	
 UI_20170117_002526	{@st66b}Otimização (Beta){/}	
-UI_20170117_002527	{@st59}ON/OFF function for optimized multithread processing.{/}	
+UI_20170117_002527	{@st59}Liga/Desliga otimização por processamento multithread.{/}	
 UI_20170313_002528	Transação	
 UI_20170313_002529	Depósito	
 UI_20170313_002530	Retirada	
@@ -2542,32 +2542,32 @@ UI_20170313_002541	{@st68b}Incompleto(%s){/}
 UI_20170313_002542	{@st66b}Todos os Efeitos{/}	
 UI_20170313_002543	{@st59}Ver o total de efeitos obtidos.{/}	
 UI_20170313_002544	{@st59}Pesquisar o nome de uma coleção ou efeito.{/}	
-UI_20170313_002545	{@st68b}{s18}Complete(%s){/}	
+UI_20170313_002545	{@st68b}{s18}Completo(%s){/}	
 UI_20170313_002546	{@st59}Fechar a imagem.{/}	
 UI_20170313_002547	{@st59}Fechar janela do item.{/}	
 UI_20170313_002548	{@st41b}%s {nl}Você obteve um item!	
 UI_20170313_002549	{@st59}Reexpandir o armazém da guilda.{/}	
 UI_20170313_002550	Só pode ser usado em dungeons instanciadas e missões mercenárias.	
 UI_20170313_002551	{@st66}Somente Usados	
-UI_20170313_002552	{@st59b}Gema Abençoada Extraction{nl}{@st59s}- Extracts Gema Abençoadas from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Gema Abençoadas will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Gema Abençoadas, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}	
+UI_20170313_002552	{@st59b}Extração de Gema Abençoada{nl}{@st59s}- Extrai Gemas Abençoadas de Itens Transcendentais.{nl}- Materiais necessários: Martelo de Desmantelamento.{nl}- Extrair Gemas Abençoadas vai remover o item, mas manter parte das gemas. {nl}   : Você vao receber de 20% à 90% das suas Gemas Abençoadas, dependendo do estágio de transcendência do item e seu potencial atual. {nl}- Seu item deve ter transcendido até, no mínimo, o estágio 2 para extrair suas gemas.{/}	
 UI_20170313_002553	!! Exploração do Mapa Completa !!	
 UI_20170313_002554	{@st41b}Coleção{/}	
 UI_20170313_002555	{@st66b}[%s]{nl}Peça obtida.{/}	
 UI_20170313_002556	{@st59}Fechar Janela.{/}	
 UI_20170313_002557	{@st41b}Combinar as {@sti9}%s insígnias selecionadas{/}?{/}	
-UI_20170313_002558	{@st59b}Combinar Insígnia{nl}{@st59s} - Select the badges from your inventory.{nl}{/}	
+UI_20170313_002558	{@st59b}Combinar Insígnia{nl}{@st59s} - Selecione as insígnias de seu inventário.{nl}{/}	
 UI_20170313_002559	{@st41b}Combinar	
 UI_20170313_002560	{@st66b}Items para reparar	
-UI_20170313_002561	{@st66b}Efeitos de drop de item	
-UI_20170313_002562	{@st66d}Appraiser [Forgery] Item{nl}Duração %s	
+UI_20170313_002561	{@st66b}Mostrar efeitos de queda de item	
+UI_20170313_002562	{@st66d}Avaliador [Falsificação] Item{nl}Duração %s	
 UI_20170313_002563	1m30s	
 UI_20170313_002564	{@st59}Reiniciar Quest{/}	
-UI_20170313_002565	{@st59}Registar item na colecção.{/}	
+UI_20170313_002565	{@st59}Registar item na coleção.{/}	
 UI_20170313_002566	Bracelete de Defesa Mágica	
 UI_20170313_002567	Meu item	
-UI_20170313_002568	Appraiser %s	
-UI_20170313_002569	Upon{nl}equipment change	
-UI_20170313_002570	No items equipped on Appraiser.	
+UI_20170313_002568	Avaliador %s	
+UI_20170313_002569	Na{nl}troca de equipamento	
+UI_20170313_002570	Nenhum item equipado no Avaliador.	
 UI_20170313_002571	Investido	
 UI_20170330_002572	{@st59}Shift + Tab para Alternar{/}	{@st59}Shift + Tab
 UI_20170330_002573	{@st59}Chat de Grupo{/}	
@@ -2596,7 +2596,7 @@ UI_20170330_002595	{@st66}Tamanho da Fonte
 UI_20170330_002596	{@st66b}Mostrar quem entra	
 UI_20170330_002597	{@st66}Membros da Guilda{/}	
 UI_20170330_002598	{@st66}Amigos{/}	
-UI_20170330_002599	{@st66b}If both trading players are Token users,{nl}tradable equipment, consumables, gems and other items will remain tradable.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비, 소모품, 기타, 카드, 젬 아이템의 속성 변경이 없습니다.{/}
+UI_20170330_002599	{@st66b}Se ambos os jogadores trocando forem usuários de Token,{nl}equipamentos, consumíveis, gemas e outros itens continuarão trocáveis.{/}	
 UI_20170330_002600	{s18}Itens com data para usar	
 UI_20170330_002601	Item (s) perto da data de validade. Fechar?	
 UI_20170330_002602	{@st43}{s20}Itens expirados{/}	
@@ -2629,7 +2629,7 @@ UI_20170330_002628	Expirado
 UI_20170330_002629	Prata do Mercado é instantaneamente recuperável	
 UI_20170330_002630	Registro fora do Max./Min. preço permitido	
 UI_20170330_002631	Passa pelo Armazém do Time	
-UI_20170418_002632	{@st66} Se a lista de compras não aparecer corretamente devido a um erro temporário, tente clicar no botão Receber Tudo para receber o item.{/}	
+UI_20170418_002632	{@st66} Se a lista de compras não aparecer corretamente devido à um erro temporário, tente clicar no botão Receber Tudo para receber o item.{/}	
 UI_20170418_002633	{@st68}Recarregar{/}	
 UI_20170418_002634	{@st68}Receber todos{/}	
 UI_20170418_002635	Pontos Requeridos	
@@ -2694,15 +2694,15 @@ UI_20170726_002693	{@st66b}Mostrar N°de Fragmentos{/}	{@st66b}메인 화면에 
 UI_20170726_002694	{@st42}Fragmentos do Necronomicon{/}	{@st42}네크로노미콘 파편의 개수{/}
 UI_20170726_002695	{@st66b}Mostrar quantidade de Veneno{/}	{@st66b}메인 화면에 독의 양 표시하기{/}
 UI_20170726_002696	{s20}Veneno	{s20}독의 양
-UI_20170726_002697	{@st42}Veneno no Poison Pot{/}	{@st42}포이즌 팟의 독의 양{/}
+UI_20170726_002697	{@st42}Veneno no Pote de Veneno{/}	{@st42}포이즌 팟의 독의 양{/}
 UI_20170726_002698	{@st59}Caixa de Pesca{/}	{@st59}낚시 살림통{/}
 UI_20170726_002699	{@st59}Info de Masmorra (F10){/}	{@st59}던전 정보(F10){/}
 UI_20170726_002700	{@st66b}Ver Info básica dos chars{/}	{@st66b}캐릭터 기본 정보 보기{/}
-UI_20170726_002701	{@st66b}Mostrar barra de HP e SP{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
+UI_20170726_002701	{@st66b}Mostrar barra de PV e PE{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
 UI_20170726_002702	{@st66b}Usar multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}
-UI_20170726_002703	{@st59}Aplicar multithread update (Beta).{/}	{@st59}멀티스레드 업데이트(Beta)를 적용합니다.{/}
-UI_20170726_002704	{@st66d}{s18}TP Cubes{/}	{@st66d}{s18}유료 확률형 아이템{/}
-UI_20170726_002705	{@st43d}{s18}Veja o nosso site oficial para obter as listas de itens contidos nos TP Cubes.{/}	{@st43d}{s18}- 홈페이지 하단의 확률형 아이템 목록 메뉴에서 구성품과 확률을 확인 할 수 있습니다.{/}
+UI_20170726_002703	{@st59}Usar processamento multithread (Beta).{/}	{@st59}멀티스레드 업데이트(Beta)를 적용합니다.{/}
+UI_20170726_002704	{@st66d}{s18}Cubos de TP{/}	{@st66d}{s18}유료 확률형 아이템{/}
+UI_20170726_002705	{@st43d}{s18}Veja o nosso site oficial para obter as listas de itens contidos nos Cubos de TP.{/}	{@st43d}{s18}- 홈페이지 하단의 확률형 아이템 목록 메뉴에서 구성품과 확률을 확인 할 수 있습니다.{/}
 UI_20170726_002706	{@st41}Selecionar e confirmar.{/}	{@st41}선택 후 확인을 눌러주세요{/}
 UI_20170726_002707	{@st59}Ajuda{/}	
 UI_20170726_002708	Dias/Horas/Minutos	
@@ -2712,10 +2712,10 @@ UI_20170726_002711	{@st59}Período de Troca{/}
 UI_20170726_002712	{@st66b}Receba Recompensas	
 UI_20170901_002713	{@st59}Asas{/}	
 UI_20170912_002714	{@st43b}Diário de Aventura	
-UI_20170912_002715	{@st59}Diário de Aventura Ranking	
-UI_20170912_002716	{@st59}Liga de Batalha de Times Ranking{/}	
-UI_20170912_002717	{@st59}Uphill Defense Ranking{/}	
-UI_20170912_002718	{@st59}Main{/}	
+UI_20170912_002715	{@st59}Ranking do Diário de Aventura
+UI_20170912_002716	{@st59}Ranking da Liga de Batalha de Times{/}	
+UI_20170912_002717	{@st59}Ranking de Defesa da Colina{/}	
+UI_20170912_002718	{@st59}Principal{/}	
 UI_20170912_002719	{@st59}Monstros{/}	
 UI_20170912_002720	{@st59}Items{/}	
 UI_20170912_002721	{@st59}Construção{/}	
@@ -2726,13 +2726,13 @@ UI_20170912_002725	{@st59}Exploração{/}
 UI_20170912_002726	Time	
 UI_20170912_002727	Personagem	
 UI_20170912_002728	{img test_cooltime 24 24}Os Pontos resetam no 1º dia de cada mês.{/}	
-UI_20170912_002729	{@st41b}Top Ranks	
-UI_20170912_002730	{@st41b}Ranks mais Próximos	
+UI_20170912_002729	{@st41b}Melhores Jogadores	
+UI_20170912_002730	{@st41b}Jogadores mais Próximos	
 UI_20170912_002731	{@st43b}Pontos Totais %s	
 UI_20170912_002732	{@st66b}Mais Monstros	
 UI_20170912_002733	{@st66d_y}%s Pontos / {/}{@st42}%s Pontos{/}	
 UI_20170912_002734	Derrotado	
-UI_20170912_002735	{@st41b}Area	
+UI_20170912_002735	{@st41b}Área	
 UI_20170912_002736	Descrição	
 UI_20170912_002737	Subcategoria	
 UI_20170912_002738	{@st66b}Mais Itens	
@@ -2742,7 +2742,7 @@ UI_20170912_002741	{@st66b}Mais
 UI_20170912_002742	Nome A-Z	
 UI_20170912_002743	Nome Z-A	
 UI_20170912_002744	%s Peixes Pegos	
-UI_20170912_002745	Clears	
+UI_20170912_002745	FInalizadas	
 UI_20170912_002746	Localização	
 UI_20170912_002747	%s	
 UI_20170912_002748	Pontos de Classe %s	
@@ -2755,53 +2755,53 @@ UI_20170912_002754	Tipo
 UI_20170912_002755	Pontos Obtidos %s	
 UI_20170912_002756	Pontos Obtidos %s	
 UI_20170912_002757	Status	
-UI_20170912_002758	SPR +6	
-UI_20170912_002759	Diário de Aventura Ranking	
+UI_20170912_002758	ESP +6	
+UI_20170912_002759	Ranking do Diário de Aventura
 UI_20170912_002760	{@st66d_y}%s{/} Batalhas {@st66d_y}%s{/} Vitórias {@st66d_y}%s{/} Derrotas	
-UI_20170912_002761	%s Points	
+UI_20170912_002761	%s Pontos	
 UI_20170912_002762	{@st59}Participação{/}	
-UI_20170912_002763	Uphill Defense Ranking	
+UI_20170912_002763	Ranking de Defesa da Colina	
 UI_20170912_002764	Pontos Totais	
-UI_20170912_002765	{@st66b}Point Shop{/}	
+UI_20170912_002765	{@st66b}Loja de Pontos{/}	
 UI_20170912_002766	{@st66b}Exploração de Mapas	
 UI_20170912_002767	{@st66b}Missão/Conquista	
 UI_20170912_002768	{@st66b}Coleção	
-UI_20170912_002769	{@st66b}Shops Pessoais	
+UI_20170912_002769	{@st66b}Lojas Pessoais	
 UI_20170912_002770	{@st66b}Pescaria	
 UI_20170912_002771	{@st59}Espadachim{/}	
 UI_20170912_002772	{@st59}Mago{/}	
 UI_20170912_002773	{@st59}Arqueiro{/}	
 UI_20170912_002774	{@st59}Clérigo{/}	
-UI_20170912_002775	{@st66b}Spectate{/}	
+UI_20170912_002775	{@st66b}Observar{/}	
 UI_20170912_002776	Área: %s	
 UI_20170912_002777	Área	
 UI_20170912_002778	{@st42}{s18}Lista de Personagens	
 UI_20170912_002779	[%s] Recompensas	
-UI_20170912_002780	ⓘ Colete suas recompensas nas Asas da Vaivora.	
+UI_20170912_002780	ⓘ Colete suas recompensas com as Asas de Vaivora.	
 UI_20170912_002781	Retirar Todos	
-UI_20170912_002782	Territory Wars Alerta	
-UI_20170912_002783	Spot Last Seized By	
+UI_20170912_002782	Alerta de Guerras de Território
+UI_20170912_002783	Lugar Capturado pela Última Vez por
 UI_20170912_002784	Pontos Atuais	
 UI_20170912_002785	Minha Guilda	
-UI_20170912_002786	{@st66d}Return to a city in {s20}%s seconds.{/}	
-UI_20170912_002787	{@st66d}Return to city{/}	
-UI_20170912_002788	{@st43}{s20}Protecting Guild{/}	
-UI_20170912_002789	Protecting Guild	
+UI_20170912_002786	{@st66d}Retornar para uma cidade em {s20}%s segundos.{/}	
+UI_20170912_002787	{@st66d}Retornar para uma cidade{/}	
+UI_20170912_002788	{@st43}{s20}Guilda Protegendo{/}	
+UI_20170912_002789	Guilda Protegendo	
 UI_20170912_002790	{@st41_red}Efeito Perdido{/}	
-UI_20170912_002791	{@st43}Exchange Artifact{/}	
-UI_20170912_002792	{@st59}Close Exchange Artifact{/}	
+UI_20170912_002791	{@st43}Trocar Artefato{/}	
+UI_20170912_002792	{@st59}Fechar Trocar Artefato{/}	
 UI_20170912_002793	{@st41b}Trocar	
 UI_20170912_002794	Para começar a pescar, selecione sua isca.	
-UI_20170912_002795	{@st43b}{s22}Stage %s Caixa de Pesca{/}	
-UI_20170912_002796	{@st66d_y}{s22}Stage %s Caixa de Pesca{/}	
+UI_20170912_002795	{@st43b}{s22}Caixa de Pesca Estágio %s{/}	
+UI_20170912_002796	{@st66d_y}{s22}Caixa de Pesca Estágio %s{/}	
 UI_20170912_002797	Máx. %s espaços{nl}%s pescas	
-UI_20170912_002798	{img icon_item_tpBox_30 30 30}{@st43b}{s18}%s TP Upgrade{/}	
+UI_20170912_002798	{img icon_item_tpBox_30 30 30}{@st43b}{s18}%s Melhorias de TP{/}	
 UI_20170912_002799	{@st43}Imagem %s{/}	
-UI_20170912_002800	Enter	
-UI_20170912_002801	{@st59b}Enter image{nl}{@st59s}- Browse for an image and register it{nl}- Refresh to update the list, then select the image	
+UI_20170912_002800	Entrar	
+UI_20170912_002801	{@st59b}Carregar imagem{nl}{@st59s}- Busque por uma imagem e a registre{nl}- Atualize para reacrregar a lista e depois selecione a imagem
 UI_20170912_002802	{@st66b}{s18}Abrir Pasta	
-UI_20170912_002803	Open the folder containing the image.	
-UI_20170912_002804	Update the list.	
+UI_20170912_002803	Abra a pasta contendo a imagem.	
+UI_20170912_002804	Atualizar lista.	
 UI_20170912_002805	{@st41b}{nl}Confirmar	
 UI_20170912_002806	{@st41b}{nl}Cancelar	
 UI_20170912_002807	{@st43}Guilda	
@@ -2825,17 +2825,17 @@ UI_20170912_002824	{@st41b}Convidar
 UI_20170912_002825	{@st66d_y}{s18}Nível da Guilda{/}	
 UI_20170912_002826	{@st43b}{s18}Torre da Guilda (%s/1){/}	
 UI_20170912_002827	Benefícios	
-UI_20170912_002828	Os benefícios da Guild são atualizados para o atual nível da torre do Templar.	
+UI_20170912_002828	Os benefícios da Guilda são atualizados para o atual nível da torre do Templário.	
 UI_20170912_002829	Pontos de Atributo: %s	
-UI_20170912_002830	ⓘ Guild upgrading is only available inside the Guild Tower.	
+UI_20170912_002830	ⓘ Aprimoramento da Guilda só é permitido dentro da Torre da Guilda.	
 UI_20170912_002831	{@st43b}{s18}Itens da Guilda{/}	
 UI_20170912_002832	{@st43b}{s18}Fundos da Guilda{/}	
 UI_20170912_002833	Nota	
 UI_20170912_002834	{img icon_item_silver 24 24} Quantidade	
 UI_20170912_002835	{img in_arrow 20 20}{@st66b}{s18}Depositar  {/}	
-UI_20170912_002836	ⓘ This item can be distributed to guild members by the guild master, after which it becomes bound to each character that receives it.{nl}ⓘ To receive the item, check your lodge Message Box.	
-UI_20170912_002837	{@st43b}{s18}Guild Wars{/}	
-UI_20170912_002838	Neutro Desativado: Alerta	
+UI_20170912_002836	ⓘ Este item pode ser distribuído para os membros da guilda pelo líder da guilda, e então se torna anexado ao personagem que o recebeu.{nl}ⓘ Para receber o item, veja a Caixa de Mensagensdo seu Alojamento.	
+UI_20170912_002837	{@st43b}{s18}Guerras de Guildas{/}	
+UI_20170912_002838	Alerta de Neutralidade Desativado
 UI_20170912_002839	O alerta é exibido a partir de 1 dia antes da neutralidade ser cancelada.{Nl}Apenas o Líder da Guilda pode alterar essa opção.	
 UI_20170912_002840	ⓘ Torres de Guilda destruídas em guerras podem ser reconstruídas após 24 horas.{Nl} ⓘ Declarações de guerra podem ser feitas na torre da guilda adversária. {Nl} ⓘ A guerra começa 1 hora depois de ter sido declarada. {Nl} ⓘ Depois de declarar guerra, sua guilda não pode ser dissolvida até depois do fim da guerra. {nl} ⓘ Você não pode declarar uma guerra sem uma Torre da Guilda.	
 UI_20170912_002841	{@st43b}{s18}Guerras Territoriais{/}	
@@ -2843,25 +2843,25 @@ UI_20170912_002842	O que são Guerras Territoriais
 UI_20170912_002843	Status	
 UI_20170912_002844	Não Entrar	
 UI_20170912_002845	> Guildas com Áreas apreendidas participam automaticamente.{nl}> Depois de definir o status para  	
-UI_20170912_002846	, você não pode transferir a posição do Líder da Guilda.{nl}> Apenas um Líder da Guilda Templar pode mudar o status da participação.{nl}> Esta opção só pode ser alterada até 5 minutos antes do início da Guerra, ou após 1 minuto após o término.{nl}> O status de participação pode ser alterado independentemente de sua guilda ter uma torre ou não.	
+UI_20170912_002846	, você não pode transferir a posição do Líder da Guilda.{nl}> Apenas um Templário Líder da Guilda pode mudar o status da participação.{nl}> Esta opção só pode ser alterada até 5 minutos antes do início da Guerra, ou 1 minuto após o término.{nl}> O status de participação pode ser alterado independentemente de sua guilda ter uma torre ou não.	
 UI_20170912_002847	{@st43b}{s18}Benefícios da Área{/}	
 UI_20170912_002848	Áreas	
 UI_20170912_002849	Grade	
-UI_20170912_002850	Prata Ganho (%)	
+UI_20170912_002850	Prata Ganha (%)	
 UI_20170912_002851	Prêmios do Local	
-UI_20170912_002852	> Spot rewards are %s every week.{nl}> The rewards include  	
-UI_20170912_002853	 of your Market fees of the previous week.{nl}> Spot rewards are delivered as Copper Bars.{nl}> The maximum possible amount rewarded is %s hundred million Prata.{nl}> Please check our official website for more information.	
-UI_20170912_002854	Tuesday 06:00	
+UI_20170912_002852	> Prêmios do Local são %s cada semana.{nl}> As recompensas incluem
+UI_20170912_002853	 de suas taxas do mercado da semana anterior.{nl}> Prêmios do Local são entregues como Barras de Cobre.{nl}> A quantidade máxima possível de recompensa é %s centenas de milhóes de Prata.{nl}> Por favor, verifique nosso site oficial para mais informações.	
+UI_20170912_002854	Terça-feira 06:00	
 UI_20170912_002855	{@st43b}{s18}Emblema da Guilda{/}	
 UI_20170912_002856	{@st41b}{nl}Imagem %s{/}	
-UI_20170912_002857	> O primeiro emblema pode ser registrado gratuitamente.{nl}> Mudar o emblema custa %s0000 Pratas.{nl}> Sua imagem deve ter tamanho %s e em formato %s.{nl}> O nome do arquivo deve conter apenas caracteres alfanuméricos.{nl}> O uso de imagens problemáticas podem resultar em restrições.	
+UI_20170912_002857	> O primeiro emblema pode ser registrado gratuitamente.{nl}> Mudar o emblema custa %s0000 Pratas.{nl}> Sua imagem deve ter tamanho %s e estar em formato %s.{nl}> O nome do arquivo deve conter apenas caracteres alfanuméricos.{nl}> O uso de imagens problemáticas podem resultar em restrições.	
 UI_20170912_002858	{@st43b}{s18}Configurar Salão{/}	
 UI_20170912_002859	Permitir Estranhos	
 UI_20170912_002860	{@st43b}{s18}Novidades{/}	
 UI_20170912_002861	{@st66}{s18}Registrar{/}	
 UI_20170912_002862	{@st43b}{s18}Notas da Guilda{/}	
 UI_20170912_002863	{@st43b}{s18}Quadro de Mensagens{/}	
-UI_20170912_002864	Max. 25 caracteres permitidos.	
+UI_20170912_002864	Máx. 25 caracteres permitidos.	
 UI_20170912_002865	> Você pode postar no Quadro de Mensagens 3 vezes por dia.	
 UI_20170912_002866	Info da Guilda	
 UI_20170912_002867	Guerras	
@@ -2878,14 +2878,14 @@ UI_20170912_002877	{@st66}Fechar
 UI_20170912_002878	{@st59}Trocar Equipamento (Alt+Z){/}	
 UI_20170912_002879	{img monsterbtn_image 29 28}{@st66b}{s12}    Cartas{/}	
 UI_20170912_002880	{@st59}Abrir janela de Cartas de Monstros{/}	
-UI_20170912_002881	{@st43}{s22}Leticia's Secret Cube{/}	
-UI_20170912_002882	Cube Name	
+UI_20170912_002881	{@st43}{s22}Cubo Secreto da Leticia{/}	
+UI_20170912_002882	Nome do Cubo
 UI_20170912_002883	{nl}{img %s 40 40}{@st42b}{s20}Cubos 	
 UI_20170912_002884	> Veja o site oficial e descrições de itens para mais informações.	
 UI_20170912_002885	{@st43}Equipar Cartas de Monstro{/}	
 UI_20170912_002886	{@st59}Fechar{/}	
-UI_20170912_002887	{@st59}Only Templar Guild Master in Team{/}	
-UI_20170912_002888	{@st66b}Renascendo na cidade próxima (30 segundos){/}	
+UI_20170912_002887	{@st59}Somente Templário Líder da Guilda no Time{/}	
+UI_20170912_002888	{@st66b}Renascendo na cidade mais próxima (30 segundos){/}	
 UI_20170912_002889	{@st66b}Ver nome do Grupo{/}	
 UI_20170912_002890	{@st66b}Item de Receita Obtido{/}	
 UI_20170912_002891	{@st43}Configurar PvP{/}	
@@ -2895,7 +2895,7 @@ UI_20170912_002894	{@st66b}Usar efeitos de ataque
 UI_20170912_002895	{@st66b}O nome do seu Time representa todos os seus personagens e é usado na negociação, Guilds, bate-papo, etc. {nl} Alterar o nome da sua equipe consome 150 TP, então escolha com cuidado.{/}	
 UI_20170912_002896	{@st41}%s Pontos	
 UI_20170912_002897	Texto	
-UI_20170912_002898	Qtt.	
+UI_20170912_002898	Qtd.	
 UI_20170912_002899	{@st66b}Rank %s	
 UI_20170912_002900	{@st66b}%s Pontos	
 UI_20170912_002901	Mapas	
@@ -2904,12 +2904,12 @@ UI_20170912_002903	Tipo do Item
 UI_20170912_002904	Aquisição mais recente	
 UI_20170912_002905	Localização	
 UI_20170912_002906	N/A	
-UI_20170912_002907	Nome do Shop	
+UI_20170912_002907	Nome da Loja
 UI_20170912_002908	Vendas	
 UI_20170912_002909	Atributo	
 UI_20170912_002910	Nome do Peixe	
-UI_20170912_002911	Total %s Vezes concluída	
-UI_20170912_002912	Area	
+UI_20170912_002911	Total de %s Vezes concluída	
+UI_20170912_002912	Área	
 UI_20170912_002913	Mapa	
 UI_20170912_002914	Digite o nome do personagem ou time.	
 UI_20170912_002915	Nome	
@@ -2930,13 +2930,13 @@ UI_20171128_002929	Tamanho %s
 UI_20171128_002930	{@st42b}Checar	
 UI_20171128_002931	Expandir Armazém de Guilda	
 UI_20171128_002932	> Recompensas são %s semanalmente.{nl}> As recompensas incluem  	
-UI_20171128_002933	 das suas taxas do Mercado da última semana.{nl}> Recompensas de território são entregues como itens de Guerra de Guildas.{nl}> A quantia máxima recebida é de %skk de Prata.{nl}> Visite nosso site oficial para mais informações.	
+UI_20171128_002933	 das suas taxas do Mercado da última semana.{nl}> Recompensas de território são entregues como itens de Guerra de Guildas.{nl}> A quantia máxima recebida é de %s centenas de milhões de Prata.{nl}> Visite nosso site oficial para mais informações.	
 UI_20171128_002934	Busca Automática%s	
 UI_20171128_002935	{@st41b}Entrar Agora%s	
 UI_20171128_002936	{@st43}{#ffcc33}{s24}COMPLETO	
 UI_20171128_002937	{@ST43}{s19}Concluído: 	
 UI_20171128_002938	{@st43b}{s18}Recompensas	
-UI_20171128_002939	{@st66d_y}Efeito do Multiply x	
+UI_20171128_002939	{@st66d_y}Efeito Multiplicador de Recompensa x	
 UI_20171128_002940	{img icon_item_silver 24 24} Prata	
 UI_20171128_002941	{img icon_item_cube3 25 25} Cubo	
 UI_20171128_002942	{img test_indun_exp 30 15} EXP	
@@ -2962,12 +2962,12 @@ UI_20171128_002961	{@st59}Fechar Janela{/}
 UI_20171128_002962	Qtde de Portais %s/%s 	
 UI_20171128_002963	{@st59}Fechar Janela{/}	
 UI_20171128_002964	Gostaria de desfazer o seu último avanço?{/}	
-UI_20171128_002965	Se você desfazer seu avanço de classe atual, o avanço será desfeito e sua EXP de classe atual desaparecerá.{/}	
-UI_20171128_002966	* Rank down só pode ser usado uma vez durante o mesmo ranking.{Nl}Não pode ser usado continuamente.	
-UI_20171128_002967	* Por fim, o Rank down não pode ser usado em um Rank inferior{nl} do que o rank que já está sendo usado.	
+UI_20171128_002965	Se você desfizer seu avanço de classe atual, o avanço será desfeito e sua EXP de classe atual desaparecerá.{/}	
+UI_20171128_002966	* Diminuição de Rank só pode ser usado uma vez durante o mesmo ranking.{Nl}Não pode ser usado continuamente.	
+UI_20171128_002967	* Por fim, a diminuição de Rank não pode ser usada em um Rank inferior{nl} ao rank que já está sendo usado.	
 UI_20171128_002968	* Habilidades e atributos dos círculos de classe removidos ou ajustados{nl} serão convertidos em pontos.	
 UI_20171128_002969	* Os trajes específicos de classe recebidos{nl} pelo processo serão excluídos se a classe for completamente removida.	
-UI_20171128_002970	* Você retornará ao lodge depois de usar o Voucher.	
+UI_20171128_002970	* Você retornará ao alojamento depois de usar o Cupom.	
 UI_20171128_002971	{@st59}Info do Rank{/}	
 UI_20171128_002972	{@st66b}Simplificar Efeito de Buff{/}	
 UI_20171128_002973	{@st66b}Simplificar modelo{/}	
@@ -2980,10 +2980,10 @@ UI_20180108_002979	{@st59}Efeito Especial{/}
 UI_20180115_002980	{@st66b}{s16}*Itens permanecem trocáveis apenas se possuir N° de Trocas disponíveis.{/}{/}	
 UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}Sem trocas disponíveis{/}{@st66b} siginifica que {/} {@st66d_y}todos os itens{nl}não poderão ser comercializados ou depositados no Armazém{/}{@st66b}.{/}{/}	
 UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Tokens de evento não possuem n° de trocas.{nl}{/} {@st66b}Certifique-se de verificar a contagem antes da negociação.{/}{/}	
-UI_20180115_002983	{@st66d_y}Itens ficarão introcáveis{/}	
-UI_20180115_002984	{@st42}Itens ficam trocáveis, Armazém permitido	
-UI_20180115_002985	{@st66d}Itens ficarão{nl}  {@st66d_y}introcáveis (nem pelo Armazém){/}.{/}	
-UI_20180115_002986	{@st42}Itens Introcáveis (Troca NÃO, Armazém NÃO){/}	
+UI_20180115_002983	{@st66d_y}Itens não serão mais trocáveis{/}	
+UI_20180115_002984	{@st42}Itens continuam trocáveis e armazenáveis	
+UI_20180115_002985	{@st66d}Os seguintes itens deixarão de{nl}  {@st66d_y}ser trocáveis (nem pelo Armazém){/}.{/}	
+UI_20180115_002986	{@st42}Itens não-trocáveis (Troca NÃO, Armazém NÃO){/}	
 UI_20180208_002987	{@st59}Fechar{/}	
 UI_20180208_002988	Item Adquirido	
 UI_20180208_002989	Servidor: {@st40}	
@@ -2993,11 +2993,11 @@ UI_20180208_002992	{@st43}{s24}Reportar Jogador
 UI_20180208_002993	{@st41b}Reportar	
 UI_20180208_002994	Reportar.	
 UI_20180208_002995	Cancelar.	
-UI_20180208_002996	{@st59b}Transcendência de Item{nl}{@st59s}- Outra opção para melhorar a performance do item sem usar a bigorna{nl}- Transcendíveis : Arma, Equipamento, Acessório{nl}- Chance de Transcendência = Quantidade de Ingredientes / Máximo Necessário{nl}- Se bem-sucedido, o nível da Transcendência aumentará em 1(Máx. 10){nl}- Se falhar, o nível da Transcendência diminuirá em 1(Nível da Transcendência não pode ficar abaixo de 1){nl}- Itens Transcendentes não podem ser trocados{/}	
+UI_20180208_002996	{@st59b}Transcendência de Item{nl}{@st59s}- Outra opção para melhorar a performance do item sem usar a bigorna{nl}- Transcendíveis : Arma, Equipamento, Acessório{nl}- Chance de Transcendência = Quantidade de Ingredientes / Máximo Necessário{nl}- Se bem-sucedido, o nível da Transcendência aumentará em 1(Máx. 10){nl}- Se falhar, o nível de Transcendência e o potencial diminuirão em 1(Nível da Transcendência não pode ficar abaixo de 1){nl}- Itens Transcendentais não podem ser trocados{/}	
 UI_20180208_002997	Chance de Sucesso: 100%	
 UI_20180208_002998	*Transcendência pode falhar se não atingir 100%.{nl}Potencial será reduzido caso falhe.	
-UI_20180208_002999	Extrair Blessed Shard	
-UI_20180208_003000	{@st59b}Extract Blessed Shard{nl}{@st59s}- Extract Blessed Shard from Transcended item{nl}- Material for Extracting: Hammer of Dismantlement.{nl}- Extracting Blessed Shards will delete the item, but retain part of the Blessed Stone as Blessed Shards.{nl} :90% of Blessed Stone used to transcend can be returned.{nl}- Your item must be transcended to at least stage 2 in order to extract the shards.{/}	
+UI_20180208_002999	Extrair Fragmento Abençoado	
+UI_20180208_003000	{@st59b}Extrair Fragmento Abençoado{nl}{@st59s}- Extrai Fragmento Abençoado do item Transcendental{nl}- Material para Extração : Martelo de Desmantelamento{nl}- Extrair Fragmentos Abençoados vai apagar o item, mas manter parte das Pedras Abençoadas como Fragmentos Abençoados.{nl} :90% das Pedras Abençoadas usadas para transcender podem ser devolvidas.{nl}- Seu item deve ter sido transcendido até, no mínimo, o estágio 2 para poder extrair os fragmentos.{/}	
 UI_20180208_003001	Blessed Shard Resultado	
 UI_20180208_003002	{@st43b}{s18}Efeito Aplicado{/}	
 UI_20180208_003003	{@st43b}{s20}Efeito Aplicado{/}	
