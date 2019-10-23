@@ -291,7 +291,7 @@ UI_20150317_000290	{@st42b}Mostrar itens construíveis{/}
 UI_20150317_000291	{@st59}Fechar{/}	
 UI_20150317_000292	{@st43}{s22}Dividir Item	
 UI_20150317_000293	{@st59}Digite a quantidade{/}	
-UI_20150317_000294	Barra de PV do Monstro	
+UI_20150317_000294	Barra de HP do Monstro	
 UI_20150317_000295	{@st44}Item de Conjunto adquirido{/}	
 UI_20150317_000296	Guerreiro do Teclado	
 UI_20150317_000297	Mortes	
@@ -1070,7 +1070,7 @@ UI_20150317_001069	{@st59}Depois de clicar aqui, selecione um personagem para o 
 UI_20150317_001070	UI de Criação de Item	
 UI_20150317_001071	{s24}Nome:	
 UI_20150317_001072	{s16} FOR:	
-UI_20150317_001073	{s16} PV:	
+UI_20150317_001073	{s16} HP:	
 UI_20150317_001074	{s16} AGI:	
 UI_20150317_001075	{s16} VIT:	
 UI_20150317_001076	{s16} Força:	
@@ -1119,7 +1119,7 @@ UI_20150317_001118	{@St59}Configurações do Quartel{/}
 UI_20150317_001119	Moldura de Item Personalizado	
 UI_20150317_001120	Verde	
 UI_20150317_001121	Densidade	
-UI_20150317_001122	Conforme PV	
+UI_20150317_001122	Conforme HP	
 UI_20150317_001123	{@st59}Acessórios{/}	
 UI_20150317_001124	{@st59}Acessórios Auxiliares{/}	
 UI_20150317_001125	{@St42}Texto{/}	
@@ -1849,7 +1849,7 @@ UI_20151224_001848	{@st59}Guilda  (/g chat){/}
 UI_20151224_001849	{@st59}Guilda   (/g chat){/}	
 UI_20151224_001850	{@st42}Tamanho do Texto	
 UI_20151224_001851	{@st66b}Informação	
-UI_20151224_001852	PV da Estátua da Deusa
+UI_20151224_001852	HP da Estátua da Deusa
 UI_20151224_001853	Rodada	
 UI_20151224_001854	Jogador	
 UI_20151224_001855	Aliado	
@@ -2225,7 +2225,7 @@ UI_20160718_002224	{@st66d}%s aceitaram (%s online){/}
 UI_20160718_002225	{@st41}Mover para Zona	
 UI_20160718_002226	{@st46}Resultado ada Batalha de Guilda{/}	
 UI_20160718_002227	{@st45tw2}Duração da Batalha{/}	
-UI_20160718_002228	{@st43b}PV da Torre da Guilda{/}	
+UI_20160718_002228	{@st43b}HP da Torre da Guilda{/}	
 UI_20160718_002229	{@sti9}Total de Abates{/}	
 UI_20160718_002230	{@stz1}Total de Mortes{/}	
 UI_20160718_002231	{@sti1c}Recorde{/}	
@@ -2698,7 +2698,7 @@ UI_20170726_002697	{@st42}Veneno no Pote de Veneno{/}	{@st42}포이즌 팟의 �
 UI_20170726_002698	{@st59}Caixa de Pesca{/}	{@st59}낚시 살림통{/}
 UI_20170726_002699	{@st59}Info de Masmorra (F10){/}	{@st59}던전 정보(F10){/}
 UI_20170726_002700	{@st66b}Ver Info básica dos chars{/}	{@st66b}캐릭터 기본 정보 보기{/}
-UI_20170726_002701	{@st66b}Mostrar barra de PV e PE{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
+UI_20170726_002701	{@st66b}Mostrar barra de HP e PE{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
 UI_20170726_002702	{@st66b}Usar multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}
 UI_20170726_002703	{@st59}Usar processamento multithread (Beta).{/}	{@st59}멀티스레드 업데이트(Beta)를 적용합니다.{/}
 UI_20170726_002704	{@st66d}{s18}Cubos de TP{/}	{@st66d}{s18}유료 확률형 아이템{/}
@@ -3330,7 +3330,7 @@ UI_20180629_003329	Por favor, remova todos os seus equipamentos primeiro.{nl}Rou
 UI_20180629_003330	{@st66b}Ver apenas Nome do Time{/}	
 UI_20180629_003331	{@st66b}Ver nome do Grupo{/}	
 UI_20180629_003332	{@st66b}Ver nome dos Jogadores{/}	
-UI_20180629_003333	{@st66b}Ver PV/PE abaixo do Char{/}	
+UI_20180629_003333	{@st66b}Ver HP/PE abaixo do Char{/}	
 UI_20180629_003334	{@st66b}Nome Item Obtido{/}	
 UI_20180629_003335	{@st66b}Mensagem de Prata Ganho{/}	
 UI_20180629_003336	{@st66b}Mensagem de EXP Ganho{/}	
@@ -3655,8 +3655,8 @@ UI_20190104_003654	Você gostaria de trocar seus cupons por itens?	교환권을 
 UI_20190104_003655	Você pode adicionar itens à Oficina de Alquimia para usá-los em habilidades.	연금공방에 아이템을 등록하여 스킬을 사용할 수 있습니다.
 UI_20190104_003656	{@st43}Oficina de Alquimia	{@st43}연금공방
 UI_20190104_003657	Registre itens para serem consumidos com a habilidade Combustão.	컴버스천 스킬 사용시 소모될 재료를 등록해주세요.
-UI_20190104_003658	Registre poções de PV para usar com a habilidade Borrifar Poção de PV.	스프링클 HP 포션 스킬 사용시 소모될 HP 포션을 등록해주세요.
-UI_20190104_003659	Registre poções de EP para usar com a habilidade Borrifar Poção de EP.	스프링클 SP 포션 스킬 사용시 소모될 SP 포션을 등록해주세요.
+UI_20190104_003658	Registre poções de HP para usar com a habilidade Borrifar Poção de HP.	스프링클 HP 포션 스킬 사용시 소모될 HP 포션을 등록해주세요.
+UI_20190104_003659	Registre poções de SP para usar com a habilidade Borrifar Poção de SP.	스프링클 SP 포션 스킬 사용시 소모될 SP 포션을 등록해주세요.
 UI_20190104_003660	{@st63}Receber recompensa e sair.{/}	{@st63}보상을 획득하고 퇴장합니다.{/}
 UI_20190104_003661	{@st63}Próximo Andar{/}	{@st63}다음층으로 이동{/}
 UI_20190104_003662	{@st66b}{s16}* Itens permancerão trocáveis após a troca{nl}somente se já NÃO possuírem alguma restrição.{/}{/}	
