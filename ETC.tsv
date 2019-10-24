@@ -42681,38 +42681,1065 @@ ETC_20190920_042682	Você já possui uma arma de crescimento que alcançou Refin
 ETC_20190920_042683	Você só pode ter uma arma de crescimento no seu inventário para utilizar este item.
 ETC_20190920_042684	Você não possui uma arma de crescimento no seu inventário.
 ETC_20190920_042685	{nl} {nl}Aumenta a EXP base do personagem até o nível 400.{nl} {nl}{@st66d_y}Utilizar o cartão de EXP?
-ETC_20190930_042686	{#FA3366}Pizza Time{/}	{#FA3366}피자 배달 서비스{/}
-ETC_20190930_042687	Pizza Time	피자 배달 서비스
-ETC_20190930_042688	[PP] Pizza	[포포샵] 피자
-ETC_20190930_042689	Delicious, mouth-watering Pizza available for sale at the Popo Point Shop!!{nl}- Spread the scent of delicious Pizza across the whole server to grant all players with a buff that grants {#8e0000}200% increased EXP when defeating monsters{/} for a 1-hour duration.{nl}- The player using the item receives a special {#8e0000}Delivery{/} buff for 24 hours. {nl} {nl}{#8e0000}[Important]{/}{nl}- Re-using the item before the Delivery buff runs out does not extend or refresh the buff duration.{nl}- Buff is not applied in PvP environments.	포포샵에서 판매하고 있는 맛있는 피자!!{nl}- 피자의 냄새를 풍겨 월드 내 접속 중인 전체 캐릭터 대상으로{#8e0000}몬스터 처치 시 경험치 200%{/}버프가 1시간 동안 적용됩니다. {nl}- 아이템을 사용한 캐릭터에게 특별한 {#8e0000}배달원{/} 버프가 24시간 동안 적용됩니다. {nl} {nl}{#8e0000}[주의]{/}{nl}- 아이템을 재사용할 시 배달원의 버프는 추가 시간이 제공되지 않습니다.{nl}- PVP 서버에서는 버프가 부여되지 않습니다.
-ETC_20190930_042690	2019 Leticia's Treasure Chest (October)	2019 레티샤의 보물 상자(9월)
-ETC_20190930_042691	The smell of {#FA3366}Delivery Savior{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}'s Pizza is spreading all across the world.{/}	{#FA3366}배달원{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}님의 피자 냄새가 느껴집니다.{/}
-ETC_20190930_042692	Pizza Buff (1 hr)	피자 버프 적용 (1시간)
-ETC_20190930_042693	Delivery Buff (24 hr)	배달원 버프 적용 (24시간)
-ETC_20190930_042694	{@st47}{s21}You are already receiving the Delivery Buff.{/}{/}{nl} {nl}Re-using the item{nl}{@st66d_y}does not extend the duration of your current Delivery Buff{/},{nl}and only the duration of the Pizza Buff is recharged to 1 hour.{nl} {nl}Still use the item?	{@st47}{s21}이미 배달원의 혜택을 적용받고 있습니다.{/}{/}{nl} {nl}아이템을 재사용할 경우{nl}배달원 버프의 {@st66d_y}추가 시간이 제공되지 않으며{/},{nl}피자 버프만 1시간으로 변경됩니다.{nl} {nl}그래도 적용하시겠습니까?
-ETC_20191007_042695	Dainu Svente Helper	다이누 슈벤테 도우미				
-ETC_20191014_042696	Black Rabbit Costume Box	검은 토끼 인형탈 세트 상자
-ETC_20191014_042697	Use to obtain all of the following items.{nl}- Black Rabbit Costume{nl}- Black Rabbit Helmet Costume	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 검은 토끼 인형탈 코스튬{nl} - 검은 토끼 인형탈 헬멧 코스튬
-ETC_20191014_042698	Candy Killer Costume Selection Box	캔디킬러 코스튬 선택 상자
-ETC_20191014_042699	Use to obtain one of the following items.{nl}- Candy Killer Rascal Costume (Male){nl}- Candy Killer Clown Costume (Female)	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 캔디킬러 악동 코스튬 (남){nl} - 캔디킬러 피에로 코스튬 (여)
-ETC_20191014_042700	Haunted Hospital Costume Selection Box	유령병동 간호사 세트 선택 상자
-ETC_20191014_042701	Use to obtain one of the following items.{nl}- Haunted Hospital Costume Box (Male){nl}- Haunted Hospital Costume Box (Female)	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 유령병동 간호사 세트 상자 (남){nl} - 유령병동 간호사 세트 상자 (여)
-ETC_20191014_042702	Haunted Hospital Costume Box (Male)	유령병동 간호사 세트 상자 (남)
-ETC_20191014_042703	Use to obtain all of the following items.{nl}- Haunted Hospital Nurse Costume (Male){nl}- Haunted Hospital Nurse Helmet Costume (Male)	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 유령병동 간호사 코스튬 (남){nl} - 유령병동 간호사 헬멧 코스튬 (남)
-ETC_20191014_042704	Haunted Hospital Costume Box (Female)	유령병동 간호사 세트 상자 (여)
-ETC_20191014_042705	Use to obtain all of the following items.{nl}- Haunted Hospital Nurse Costume (Female){nl}- Haunted Hospital Nurse Helmet Costume (Female)	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 유령병동 간호사 코스튬 (여){nl} - 유령병동 간호사 헬멧 코스튬 (여)
-ETC_20191014_042706	Skull Party Costume Selection Box	밤의 무도회 해골 코스튬 선택 상자
-ETC_20191014_042707	Use to obtain one of the following items.{nl}- Skull Party Skeleton Costume (Male){nl}- Skull Party Skeleton Costume (Female)	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 밤의 무도회 해골 코스튬 (남) {nl} - 밤의 무도회 해골 코스튬 (여)
-ETC_20191014_042708	Halloween Weapon Selection Box	할로윈 무기 선택 상자
-ETC_20191014_042709	Use to obtain one of the following items.{nl}- The Bat Count Sword{nl}- The Bat Count Two-handed Sword{nl}- Pumpkin Lantern Spear{nl}- Pumpkin Streetlamp Pike{nl}- Surgical Scissors Rapier{nl}- Ripped Teddy Mace{nl}- Rag Doll Two-handed Mace{nl}- Haunted Oak Bow{nl}- Clown Crossbow{nl}- Pumpkin Mage Musket{nl}- Heavy Coffin Cannon{nl}- Surgical Scalpel Dagger{nl}- Vital Sign Pistol{nl}- Haunted Skull Staff{nl}- Hallowventer Hand Rod{nl}- Occult Paper Charm Shield	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 박쥐 남작의 소드{nl} - 박쥐 백작의 투 핸드 소드{nl} - 호박 랜턴 스피어{nl} - 호박 가로등 파이크{nl} - 수술용 가위 레이피어{nl} - 상처입은 곰인형 메이스{nl} - 봉제인형 투 핸드 메이스{nl} - 고목나무 보우{nl} - 피에로 장난감 석궁{nl} - 펌프킨 메이지 머스킷{nl} - 묵직한 관 캐논{nl} - 수술용 메스 대거{nl} - 바이탈사인 피스톨{nl} - 망령의 두개골 스태프{nl} - 할로우벤터의 야광 손뼈 로드{nl} - 액막이 실드
-ETC_20191021_042710	A title given to high scorers in the 3 vs 3 Soccer League.	3대3축구리그 득점왕에게 지급되는 칭호입니다.
-ETC_20191021_042711	A title for fans of Klaipeda Capricorns.	클라페다 카프리콘즈를 응원하는 칭호입니다.
-ETC_20191021_042712	A title for fans of Orsha Lions.	오르샤 라이온스를 응원하는 칭호입니다.
-ETC_20191021_042713	A title given to participants of Summer Festa event.	[Summer Festa] 이벤트 참여자 중 장난감을 사랑하는 분께 드리는 칭호입니다.
-ETC_20191021_042714	A title given to participants of the My Buddy Chupacabra event.	3주년 이벤트 사막 츄파카브라 성장 시 지급되는 칭호입니다.
-ETC_20191021_042715	A title given to winners of Popo Vacation event.	PoPo Vacation 수상자에게 지급되는 칭호입니다.
-ETC_20191021_042716	A title given to Saviors who have made the world a better place by delivering Pizza.	피자를 기부한 구원자에게 지급되는 칭호입니다.
-ETC_20191021_042717	Medeina's Bootcamp Package	성장 패키지
-ETC_20191021_042718	Right-click to use and obtain the following items.{nl} - Legend Growth Weapon Selection Box x1{nl} - Growth Weapon +11 Enchantment Voucher x1{nl} - Growth Weapon Stage 5 Transcendence Voucher x1{nl} - Challenge Mode One Entry Voucher x30{nl} - Instanced Dungeon Multiplier Token x40{nl} - Instanced Dungeon Reset Voucher x20{nl}	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 레전드 성장 무기상자{nl} - 성장 무기 +11 강화권{nl} - 성장 무기 +5 초월권{nl} - 챌린지 모드 1회 입장권 30개{nl} - 인던 배수토큰 40개{nl} - 인던 초기화권 20개{nl}
-ETC_20191021_042719	Ausurine's Power Leveling Package	점핑 패키지
-ETC_20191021_042720	Right-click to use and obtain the following items.{nl} - Lv. 400 EXP Card x1{nl} - Class EXP Card Box x1{nl} - Character Slot Voucher x1{nl} - Legend Card (Demon Lord) Envelope{nl} - 1,000 Attribute Points Ticket x5{nl} - Raid Portal Stone x30{nl}	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 캐릭터 경험치 카드 (400레벨){nl} - 클래스 경험치 카드 상자{nl} - 캐릭터 슬롯 추가 이용권{nl} - 레전드 카드(마군주) 봉투{nl} - 특성 포인트 1,000 5개{nl} - 레이드 포탈 스톤 30개{nl}
+ETC_20191024_042686	Misrus	머즈루스
+ETC_20191024_042687	Misrus had been isolated in the Outer Wall Sewers since Medzio Diena. According to a diary of a dead Schaffenstar member found in the sewers, the Chesha had been fearful of Misrus but did not run away as if something even greater than Misrus was keeping them trapped in the sewers. Whatever that creature may be, it must be at least a demon lord or something even greater.	머즈루스는 신수의 날 이후 누군가에 의해 외성벽 지하수로에 격리되어있었습니다. 그곳에서 발견된 죽은 샤펜스타 단원의 일지로 추측해보면, 체샤들은 머즈루스를 매우 두려워하면서도 아무도 도망치려고 하지 않았습니다. 별다른 수단도 없이 머즈루스와 체샤들을 그 어둡고 음산한 공간에 가둬 둘 수 있는 존재는 누구였을지 모르지만, 머즈루스의 흉포함만 보더라도 그 존재가 가볍게 무시할 수 있는 인물은 아니라는 생각이 듭니다. 수북이 쌓인 뼈 무더기들을 밝고 서 있는 두 머리의 짐승 앞에서 떨지 않을 수 있는 건 마왕, 혹은 그보다 더 강한 존재들뿐입니다.
+ETC_20191024_042688	Tiny Tini	꼬꼬마 티니
+ETC_20191024_042689	A Tiny Tini that has followed you because of its fondness for humans.	인간이 좋아서 당신을 따라온 꼬꼬마 티니입니다.
+ETC_20191024_042690	Large Cheshavenom	커다란 체샤베놈
+ETC_20191024_042691	Moring Sphere	모링 구체
+ETC_20191024_042692	Unique Moringponia	유니크 모링포니아
+ETC_20191024_042693	Legend Moringponia	레전드 모링포니아
+ETC_20191024_042694	Unique Tantaliser	유니크 탄타이저
+ETC_20191024_042695	Legend Tantaliser	레전드 탄타이저
+ETC_20191024_042696	Raid Helper	레이드 도우미
+ETC_20191024_042697	Gimmick Fairy	기믹 요정
+ETC_20191024_042698	[Event] Bernice Giant Denoptic	[이벤트] 베르니케 거대 덴옵틱
+ETC_20191024_042699	[Event] Bernice Gimmick Monster	[이벤트] 베르니케 기믹 몬스터
+ETC_20191024_042700	Gravity Sphere	중력 구체
+ETC_20191024_042701	TOS Ranger City Popup Book	TOS 레인저 시티 팝업북
+ETC_20191024_042702	Large Moonlight Anvil	거대 달빛 모루
+ETC_20191024_042703	Moonlight Anvil	달빛 모루
+ETC_20191024_042704	[Event] Remnants of Bernice Dungeon	[이벤트] 베르니케의 파편 던전
+ETC_20191024_042705	White Witch Forest	하얀 마녀의 숲
+ETC_20191024_042706	Snow Maiden	설녀
+ETC_20191024_042707	Mysterious Lair	의문의 레어
+ETC_20191024_042708	Chapparition has appeared!	채퍼리션이 모습을 드러냈습니다!
+ETC_20191024_042709	A title given to high scorers in the 3 vs 3 Soccer League.	3대3축구리그 득점왕에게 지급되는 칭호입니다.
+ETC_20191024_042710	A title for fans of Klaipeda Capricorns.	클라페다 카프리콘즈를 응원하는 칭호입니다.
+ETC_20191024_042711	A title for fans of Orsha Lions.	오르샤 라이온스를 응원하는 칭호입니다.
+ETC_20191024_042712	A title given to participants of Summer Festa event.	[Summer Festa] 이벤트 참여자 중 장난감을 사랑하는 분께 드리는 칭호입니다.
+ETC_20191024_042713	A title given to participants of the My Buddy Chupacabra event.	3주년 이벤트 사막 츄파카브라 성장 시 지급되는 칭호입니다.
+ETC_20191024_042714	A title given to winners of Popo Vacation event.	PoPo Vacation 수상자에게 지급되는 칭호입니다.
+ETC_20191024_042715	{#FA3366}Pizza Time{/}	{#FA3366}피자 배달 서비스{/}
+ETC_20191024_042716	A title given to Saviors who have made the world a better place by delivering Pizza.	피자를 기부한 구원자에게 지급되는 칭호입니다.
+ETC_20191024_042717	Pizza Time	피자 배달 서비스
+ETC_20191024_042718	Fire 2 Set	불 2셋
+ETC_20191024_042719	Fire 4 Set	불 4셋
+ETC_20191024_042720	Ice 2 Set	얼음 2셋
+ETC_20191024_042721	Ice 4 Set	얼음 4셋
+ETC_20191024_042722	Lightning 2 Set	전기 2셋
+ETC_20191024_042723	Lightning 4 Set	전기 4셋
+ETC_20191024_042724	Earth 2 Set	땅 2셋
+ETC_20191024_042725	Earth 4 Set	땅 4셋
+ETC_20191024_042726	Poison 2 Set	독 2셋
+ETC_20191024_042727	Poison 4 Set	독 4셋
+ETC_20191024_042728	Dark 2 Set	어둠 2셋
+ETC_20191024_042729	Dark 4 Set	어둠 4셋
+ETC_20191024_042730	Divine 2 Set	신성 2셋
+ETC_20191024_042731	Divine 4 Set	신성 4셋
+ETC_20191024_042732	Beast 2 Set	야수 2셋
+ETC_20191024_042733	Beast 4 Set	야수 4셋
+ETC_20191024_042734	Plant 2 Set	식물 2셋
+ETC_20191024_042735	Plant 4 Set	식물 4셋
+ETC_20191024_042736	Mutant 2 Set	변이 2셋
+ETC_20191024_042737	Mutant 4 Set	변이 4셋
+ETC_20191024_042738	Insect 2 Set	곤충 2셋
+ETC_20191024_042739	Insect 4 Set	곤충 4셋
+ETC_20191024_042740	Devil 2 Set	악마 2셋
+ETC_20191024_042741	Devil 4 Set	악마 4셋
+ETC_20191024_042742	Costume (Unisex)	코스튬(남여 공용)
+ETC_20191024_042743	Increases damage against Misrus	머즈루스에게 입히는 대미지가 증가합니다.
+ETC_20191024_042744	Increases DEF	방여력 증가
+ETC_20191024_042745	Reduces damage received from Misrus.	머즈루스에게 받는 대미지가 감소합니다.
+ETC_20191024_042746	Shields damage received from Misrus.	머즈루스에게 받는 대미지를 대신 받는 실드입니다.
+ETC_20191024_042747	Beserk	광폭
+ETC_20191024_042748	Misrus' true power is unleashed as he breaks free from the powers binding him.	머즈루스를 구속하던 효과가 사라지자 머즈루스가 진정한 힘을 발휘합니다.
+ETC_20191024_042749	Misrus' Psychokinesis	머즈루스의 염동력
+ETC_20191024_042750	Movement is slowed due to Psychokinesis.	염동력에 의해 행동이 둔해집니다.
+ETC_20191024_042751	Successfully bound Misrus	머즈루스 제어 성공
+ETC_20191024_042752	Paralysis Misrus to hinder his movement.	머즈루스를 마비시켜 행동을 저지합니다.
+ETC_20191024_042753	Counterbalance	상쇄 발생
+ETC_20191024_042754	Misrus' two powers collide, causing an unknown phenomenon. 	머즈루스의 두 힘이 충돌하여 알 수 없는 현상이 일어납니다. 
+ETC_20191024_042755	Unleashed Misrus	제어가 풀린 머즈루스
+ETC_20191024_042756	Misrus is freed from the binds and has grown more powerful.	머즈루스를 제어하던 힘이 사라져 매우 강력합니다.
+ETC_20191024_042757	Misrus' Wrath	머즈루수의 분노
+ETC_20191024_042758	Misrus grows more powerful from the pain he is in.	고통으로 인한 분노가 머즈루스를 강하게 만듭니다.
+ETC_20191024_042759	Large Moonlight Anvil - Event	거대 달빛 모루 - 이벤트
+ETC_20191024_042760	Can use the Large Moonlight Anvil while the effect is active.	이 효과가 지속되는 시간 동안 거대 달빛 모루를 이용할 수 있습니다.
+ETC_20191024_042761	Moonlight Anvil - Event	달빛 모루 - 이벤트
+ETC_20191024_042762	Can use the Moonlight Anvil while the effect is active.	이 효과가 지속되는 시간 동안 달빛 모루를 이용할 수 있습니다.
+ETC_20191024_042763	The event cannot be progressed while the NPC is under the effect	NPC에 해당 효과가 진행되는 동안 다음 이벤트를 진행할 수 없습니다.
+ETC_20191024_042764	Crystal in Possession	크리스탈 소지
+ETC_20191024_042765	Knockback when monsters approach.	몬스터가 근접 시, 넉백됩니다.
+ETC_20191024_042766	[Event] Bernice Buff	[이벤트]베르니케 버프
+ETC_20191024_042767	[Event] Bernice No Skills	[이벤트]베르니케 스킬 사용 불가
+ETC_20191024_042768	Slows the target with cold waves and amplifies ice-property damage.{nl}Continual exposure to Frostbite may lead to Freeze.	냉기로 인해 느려지며, 얼음 속성 피해가 커집니다.{nl}지속적인 동상은 결빙으로 이어질수 있습니다.
+ETC_20191024_042769	Immunity to Frostbite	동상 면역
+ETC_20191024_042770	You are immune to Frostbite	동상에 면역된 상태입니다.
+ETC_20191024_042771	Shared Vine Walker	바인 워커 공유
+ETC_20191024_042772	Vine Walkers are connected with one another.{nl}Their connection is lost when they are distanced from one anotehr.	바인 워커는 서로 연결되어 있습니다.{nl}서로의 거리가 멀어지면 연결이 끊어집니다.
+ETC_20191024_042773	Magic Sphere Strike Buff	마력구 타격 버프
+ETC_20191024_042774	HP Recovery	체력회복
+ETC_20191024_042775	Recovers HP every second.	1초마다 체력을 회복합니다.
+ETC_20191024_042776	You have unlocked the sealing device to receive the power hidden by the Shadowmancer Master.	봉인석 장치를 해제시켜, 섀도우맨서 마스터가 심어놓은 힘을 받았습니다.
+ETC_20191024_042777	ATK is increased due to rage.	광폭화 상태이며, 공격력이 증가 합니다.
+ETC_20191024_042778	Continued Damage	지속피해
+ETC_20191024_042779	Damage received increases due to continued damage.	지속적인 피해로 인하여, 더 많은 피해를 입습니다.
+ETC_20191024_042780	Fear	두려움
+ETC_20191024_042781	Your body is frozen with fear.	공포에 온 몸이 말을 듣지 않습니다.
+ETC_20191024_042782	Bind	속박
+ETC_20191024_042783	You cannot move due to Moringponia's curse.	모링포니아가 저주를 걸어, 움직이지 못하는 상태가 됩니다.
+ETC_20191024_042784	Magic Absorption	마력 흡수
+ETC_20191024_042785	Reduces HP and SP by 5% every 5 seconds.	SP와 HP가 5초에 5%씩 감소됩니다.
+ETC_20191024_042786	Recovers HP by 10% per second.	HP가 1초에 10%씩 회복됩니다.
+ETC_20191024_042787	Nullify Pushback	밀림 방지
+ETC_20191024_042788	Accumulates incoming damage.	피격 받은 데미지를 축적시킵니다.
+ETC_20191024_042789	Become petrified for a specified duration due to a curse.	저주에 걸려 일정 시간 동안, 석화 상태에 걸립니다.
+ETC_20191024_042790	Launch	공중 띄우기
+ETC_20191024_042791	Launches the target into the air.	대상을 공중으로 띄웁니다.
+ETC_20191024_042792	Reduce Defense	방어력 하락
+ETC_20191024_042793	Defense is reduced from acid rain.	산성비에 의해서 방어력이 감소합니다.
+ETC_20191024_042794	medeinaflustered	메데이나당황
+ETC_20191024_042795	medeinahappy	메데이나기쁨
+ETC_20191024_042796	Decorate Hangout	아지트 꾸미기
+ETC_20191024_042797	Facility Management	전문 시설 관리
+ETC_20191024_042798	Silence Resistance +{@st66d_y}{s16}[%d]{/}{/}	침묵 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042799	Sleep Resistance +{@st66d_y}{s16}[%d]{/}{/}	수면 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042800	Blind Resistance +{@st66d_y}{s16}[%d]{/}{/}	암흑 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042801	Bleeding Resistance +{@st66d_y}{s16}[%d]{/}{/}	출혈 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042802	Stun Resistance +{@st66d_y}{s16}[%d]{/}{/}	스턴 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042803	Freeze resistance +{@st66d_y}{s16}[%d]{/}{/}, Max. HP +{@st66d_y}{s16}[%d]{/}{/}	빙결 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}, 최대 HP +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042804	ATK against Medium-type monsters +{@st66d_y}{s16}[%d]{/}{/}	중형 대상 공격력+{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042805	Blind resistance +{@st66d_y}{s16}[%d]{/}{/}, Max. SP +{@st66d_y}{s16}[%d]{/}{/}	암흑 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}, 최대 SP +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042806	Additional damage +{@st66d_y}{s16}[%d]{/}{/} against shielded enemies	실드 적용 중인 대상에게 {@st66d_y}{s16}[%d]{/}{/} 추가 대미지
+ETC_20191024_042807	Hangout Expansion Lv. 1	아지트 확장 1단계
+ETC_20191024_042808	Hangout Expansion Lv. 2	아지트 확장 2단계
+ETC_20191024_042809	Expanded Hangout facilities available{nl}    - Housing items and facilities can be bought and sold{nl}    - Crafting Workshop can be installed{nl}    - Additional spaces in Hangout to install new items and facilities	확장된 길드 아지트 이용 가능{nl}    - 하우징 용품, 시설 구매 및 판매 가능{nl}    - 제작 공방소 설치 가능{nl}    - 아지트 내 하우징 용품 및 시설 배치 가능한 구역 추가
+ETC_20191024_042810	Hangout Expansion Lv. 3	아지트 확장 3단계
+ETC_20191024_042811	Various labs and facilities can be installed{nl}    - Additional spaces in Hangout to install new items and facilities	각종 연구소 설치 및 이용 가능{nl}    - 아지트 내 하우징 용품 및 시설 배치 가능한 구역 확장
+ETC_20191024_042812	Additional spaces in Hangout to install new items and facilities	아지트 내 하우징 용품 및 시설 배치 가능한 구역 확장
+ETC_20191024_042813	Weapons Research max. level +5	무기 연구 최대 레벨 +5
+ETC_20191024_042814	Armor Research max. level +5	방어구 연구 최대 레벨 +5
+ETC_20191024_042815	Property Research max. level +5	속성 연구 최대 레벨 +5
+ETC_20191024_042816	Max. Housing Points +100	하우징 포인트 최대치 +100
+ETC_20191024_042817	Weapons Research - Plant	특수 무기학 - 식물형
+ETC_20191024_042818	Reseach weapons that are effective against{nl}Plant-type monsters.	식물형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
+ETC_20191024_042819	Damage against Plant-type monsters +%s%%	식물형 몬스터에게 주는 대미지 +%s%% 증가
+ETC_20191024_042820	Weapons Research - Insect	특수 무기학 - 곤충형
+ETC_20191024_042821	Reseach weapons that are effective against{nl}Insect-type monsters.	곤충형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
+ETC_20191024_042822	Damage against Insect-type monsters +%s%%	곤충형 몬스터에게 주는 대미지 +%s%% 증가
+ETC_20191024_042823	Weapons Research - Beast	특수 무기학 - 야수형
+ETC_20191024_042824	Reseach weapons that are effective against{nl}Beast-type monsters.	야수형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
+ETC_20191024_042825	Damage against Beast-type monsters +%s%%	야수형 몬스터에게 주는 대미지 +%s%% 증가
+ETC_20191024_042826	Weapons Research - Mutant	특수 무기학 - 변이형
+ETC_20191024_042827	Reseach weapons that are effective against{nl}Mutant-type monsters.	변이형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
+ETC_20191024_042828	Damage against Mutant-type monsters +%s%%	변이형 몬스터에게 주는 대미지 +%s%% 증가
+ETC_20191024_042829	Weapons Research - Devil	특수 무기학 - 악마형
+ETC_20191024_042830	Reseach weapons that are effective against{nl}Devil-type monsters.	악마형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
+ETC_20191024_042831	Damage against Devil-type monsters +%s%%	악마형 몬스터에게 주는 대미지 +%s%% 증가
+ETC_20191024_042832	Cloth Armor - Material	천 방어구 - 재질
+ETC_20191024_042833	Research the materials that{nl}cloth armor is made from.	천 방어구의 재질을 강화할 수 있는{nl}연구를 진행합니다.
+ETC_20191024_042834	Reduces +%s%% damage received from monsters{nl}for every cloth armor piece equipped	착용한 천 계열 방어구 개수당{nl}몬스터에게 받는 대미지 +%s%% 감소
+ETC_20191024_042835	Leather Armor - Material	가죽 방어구 - 재질
+ETC_20191024_042836	Research the materials that{nl}leather armor is made from.	가죽 방어구의 재질을 강화할 수 있는{nl}연구를 진행합니다.
+ETC_20191024_042837	Reduces +%s%% damage received from monsters{nl}for every leather armor piece equipped	착용한 가죽 계열 방어구 개수당{nl}몬스터에게 받는 대미지 +%s%% 감소
+ETC_20191024_042838	Plate Armor - Material	판금 방어구 - 재질
+ETC_20191024_042839	Research the materials that{nl}plate armor is made from.	판금 방어구의 재질을 강화할 수 있는{nl}연구를 진행합니다.
+ETC_20191024_042840	Reduces +%s%% damage received from monsters{nl}for every plate armor piece equipped	착용한 판금 계열 방어구 개수당{nl}몬스터에게 받는 대미지 +%s%% 감소
+ETC_20191024_042841	Cloth Armor - Functionality	천 방어구 - 기능성
+ETC_20191024_042842	Research to enhance the functionality{nl}of cloth armor.	천 방어구의 기능성을 보완할 수 있는{nl}연구를 진행합니다.
+ETC_20191024_042843	- SP Recovery +%s for every cloth armor equipped{nl}- %s%% chance to recover additional SP equal to 10%% of SP Recovery amount affected by the number of cloth armor equipped every 20 seconds	- 착용한 천 계열 방어구 개수당 SP 회복력 +%s 증가{nl}- 20초 마다 %s%%확률로 착용한 천계열 방어구 개수당 SP 회복력의 10%%만큼 SP 추가 회복
+ETC_20191024_042844	Leather Armor - Functionality	가죽 방어구 - 기능성
+ETC_20191024_042845	Research to enhance the functionality{nl}of leather armor.	가죽 방어구의 기능성을 보완할 수 있는{nl}연구를 진행합니다.
+ETC_20191024_042846	- +%s max. Stamina for every leather armor equipped{nl}- Reduces stamina consumed while running by %s%% for every leather armor equipped	- 착용한 가죽 계열 방어구 개수당 최대 스태미나 +%s 증가{nl}- 착용한 가죽 계열 방어구 개수당 대시 중 스태미나 소모량 +%s%% 감소
+ETC_20191024_042847	Plate Armor - Functionality	판금 방어구 - 기능성
+ETC_20191024_042848	Research to enhance the functionality{nl}of plate armor.	판금 방어구의 기능성을 보완할 수 있는{nl}연구를 진행합니다.
+ETC_20191024_042849	- HP Recovery +%s for every plate armor equipped{nl}- %s%% chance to recover additional HP equal to 10%% of HP Recovery amount affected by the number of plate armor equipped every 20 seconds	- 착용한 판금 계열 방어구 개수당 HP 회복력 +%s 증가{nl}- 20초 마다 %s%%확률로 착용한 판금 계열 방어구 개수당 HP 회복력의 10%%만큼 SP 추가 회복
+ETC_20191024_042850	- HP Recovery +%s for every plate armor equipped{nl}- %s%%% chance to recover additional HP equal to 10%% of HP Recovery amount affected by the number of plate armor equipped every 20 seconds	- 착용한 판금 계열 방어구 개수당 HP 회복력 +%s 증가{nl}- 20초 마다 %s%%%확률로 착용한 판금 계열 방어구 개수당 HP 회복력의 10%%만큼 SP 추가 회복
+ETC_20191024_042851	Property Theory - Fire	원리 이해 - 불
+ETC_20191024_042852	Conduct a study to understand the theory{nl}behind Fire-property.	불 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
+ETC_20191024_042853	Additional Fire-property damage +%s	불 속성 추가 대미지 +%s 증가
+ETC_20191024_042854	Property Theory - Ice	원리 이해 - 얼음
+ETC_20191024_042855	Conduct a study to understand the theory{nl}behind Ice-property.	얼음 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
+ETC_20191024_042856	Additional Ice-property damage +%s	얼음 속성 추가 대미지 +%s 증가
+ETC_20191024_042857	Property Theory - Lightning	원리 이해 - 전기
+ETC_20191024_042858	Conduct a study to understand the theory{nl}behind Lightning-property.	전기 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
+ETC_20191024_042859	Additional Lightning-property damage +%s	전기 속성 추가 대미지 +%s 증가
+ETC_20191024_042860	Property Theory - Poison	원리 이해 - 독
+ETC_20191024_042861	Conduct a study to understand the theory{nl}behind Poison-property.	독 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
+ETC_20191024_042862	Additional Poison-property damage +%s	독 속성 추가 대미지 +%s 증가
+ETC_20191024_042863	Property Theory - Dark	원리 이해 - 어둠
+ETC_20191024_042864	Conduct a study to understand the theory{nl}behind Dark-property.	어둠 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
+ETC_20191024_042865	Additional Dark-property damage +%s	어둠 속성 추가 대미지 +%s 증가
+ETC_20191024_042866	Property Theory - Holy	원리 이해 - 신성
+ETC_20191024_042867	Conduct a study to understand the theory{nl}behind Holy-property.	신성 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
+ETC_20191024_042868	Additional Holy-property damage +%s	신성 속성 추가 대미지 +%s 증가
+ETC_20191024_042869	Property Theory - Earth	원리 이해 - 땅
+ETC_20191024_042870	Conduct a study to understand the theory{nl}behind Earth-property.	땅 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
+ETC_20191024_042871	Additional Earth-property damage +%s	땅 속성 추가 대미지 +%s 증가
+ETC_20191024_042872	Property Theory - Psychokinesis	원리 이해 - 염
+ETC_20191024_042873	Conduct a study to understand the theory{nl}behind Psychokinesis-property.	염 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
+ETC_20191024_042874	Additional Psychokinesis-property damage +%s	염 속성 추가 대미지 +%s 증가
+ETC_20191024_042875	Item awakening allows you to unravel hidden features of certain equipments.	아이템 각성을 통해 장비 아이템의 잠재되어 있는 성능을 끌어올릴 수 있습니다.
+ETC_20191024_042876	[Open Item Awakening Shop]{nl} {nl}Use the [Item Awakening] skill to open a player shop.	[아이템 각성 상점 개설]{nl} {nl}[아이템 각성] 스킬을 사용 하면 상점을 개설할 수 있습니다.
+ETC_20191024_042877	{nl} {nl}Enter the name for your shop and press the confirm button to open the shop with sufficient [Awakening Powder] in your inventory.{nl}Awakening requires [Awakening Powders] and you will no longer be able to provide the service when your stock of [Awakening Powders] have run out.	{nl} {nl}상점 이름을 입력하고 [각성 가루]를 충분히 소지한 뒤 개설 버튼을 클릭하면 아이템 각성 상점이 개설됩니다.{nl}각성시에는 [각성 가루]가 반드시 필요하며, [각성 가루]가 모두 소진되면 각성을 진행할 수 없습니다.
+ETC_20191024_042878	{nl} {nl}[Item Awakening]{nl} {nl}Register an item to Awaken to proceed. When an Awakening Stone or Awakening Abrasive is not registered, the registered item's potential will be reduced by -1 when Awakening.	{nl} {nl}[아이템 각성]{nl} {nl}각성할 아이템을 등록하면 아이템 각성이 가능합니다. 각성석이나 연마재를 등록하지 않으면 장비의 포텐셜이 1 차감되고 각성이 완료됩니다.
+ETC_20191024_042879	{nl} {nl}Additional items that can be used by the shop's patrons are as follows.{nl}- [Awakening Stone]: Does not deduct the item's potential{nl}- [Awakening Abrasive]: Grants higher stat bonuses through Awakening	{nl} {nl}추가로 상점 이용자가 사용할 수 있는 재료는 아래와 같습니다.{nl} - [각성석] : 장비 아이템의 포텐셜을 차감하지 않음{nl} - [연마재] : 좀 더 높은 수치의 옵션을 얻을 수 있음
+ETC_20191024_042880	The [Awakened Stats] are displayed on the item tooltip when the Awakening is complete.	각성이 완료되면 아래 그림과 같이 [각성 옵션]이 아이템 툴팁에 표기됩니다.
+ETC_20191024_042881	Guild Housing	길드 하우징
+ETC_20191024_042882	You can decorate your Guild Hangout to make it fun and unique.	길드 아지트를 꾸며 개성 있고 독특한 길드 아지트를 연출할 수 있습니다.
+ETC_20191024_042883	{@st66d_y}{s17}[Expand Hangout]{/}{/}{nl}Select the [Expand Hangout] option at your Guild Tower to expand your Hangout. Expanding the Hangout allows you to use various Guild Housing contents.	{@st66d_y}{s17}[아지트 확장]{/}{/}{nl}길드 타워에서 [길드 성장] 선택지를 눌러 아지트 확장이 가능하며, 길드 아지트 확장 시 길드 하우징과 관련된 여러 콘텐츠를 이용할 수 있습니다.
+ETC_20191024_042884	Hangouts can be expanded to Lv. 5 and expanding your Hangout requires your Guild to be at a certain level and also costs Guild Funds and Guild Mileage.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- Your Hangout begins at level 1 by default.{nl}- You can no longer access your old Hangout after expanding your Hangout to level 2.{nl}- All sprouts growing in your Hangout will be removed when your Hangout is expanded to level 2.	길드 아지트 확장에는 단계별로 적정 길드 레벨 및 일정량의 길드 자금과 길드 마일리지가 필요하며, 5단계까지 확장이 가능합니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 아지트는 기본적으로 1단계입니다.{nl}- 아지트를 2단계로 확장 시, 기존 아지트에는 더이상 입장이 불가능합니다.{nl}- 아지트를 2단계로 확장 시, 기존 아지트에 남아있던 새싹은 모두 제거됩니다.
+ETC_20191024_042885	{nl} {nl}{@st66d_y}{s17}[Purchasing Housing Items and Facilities]{/}{/}{nl}You can purchase and sell Housing items and facilities through the Hangout Manager in your Guild Hangout when your Hangout is expanded to level 2.	{nl} {nl}{@st66d_y}{s17}[하우징 물품 및 시설 구매]{/}{/}{nl}길드 아지트가 2단계 이상인 경우 길드 아지트에 위치한 아지트 관리인으로부터 하우징 물품 및 시설 등을 구매하거나 판매할 수 있습니다.
+ETC_20191024_042886	You are required to have Guild Housing Points in order to purchase Housing items and facilities, which can be purchased using Guild Mileage in the [Hangout Info] section of the Guild UI.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- Guild Housing Points can only be purchased when your Guild Expansion Level is 2 or above.{nl}- Only Guild members with the authority to [Decorate Hangout] can buy and sell housing items and facilities.{nl}- Guild Housing Points can be purchased at a given exchange rate.	하우징 물품 및 시설 등을 구매하기 위해서는 길드 하우징 포인트가 필요하며, 길드창의 [아지트 정보]에서 길드 마일리지로 구매할 수 있습니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 아지트 확장 단계가 2단계 이상인 경우에만 길드 하우징 포인트 구매가 가능합니다.{nl}- [아지트 꾸미기] 권한을 가진 길드원만 길드 하우징 포인트 구매가 가능합니다.{nl}- [아지트 꾸미기] 권한을 가진 길드원만 하우징 물품 및 시설 등을 구매 및 판매할 수 있습니다.{nl}- 길드 하우징 포인트 구매 시 일정량의 교환 비율이 적용되어 구매됩니다.
+ETC_20191024_042887	{nl} {nl}{@st66d_y}{s17}[Edit Mode]{/}{/}You can enter Edit Mode by either clicking on the Edit Mode icon to the bottom left of the minimap or by using a Housing item or facility.	{nl} {nl}{@st66d_y}{s17}[편집 모드]{/}{/}{nl}미니맵 좌측 하단에 위치한 편집 모드 아이콘을 클릭하거나, 하우징 물품 및 시설 아이템을 사용하여 편집 모드를 활성화할 수 있습니다.
+ETC_20191024_042888	You can place, move or remove Housing items and facilities in Edit Mode. Certain items and facilities can be interacted with using your character.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- Only Guild members with the authority to [Decorate Hangout] can access Edit Mode.{nl}- The areas in which housing items can be placed expands with Hangout Expansion Level.{nl}- Removing installed items/facilities will cost Guild Funds.	편집 모드 상태에서는 하우징 물품 및 시설 배치하거나, 배치된 물품을 이동, 철거할 수 있으며 일부 물품 및 시설은 배치 시 특별한 상호작용이 가능합니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- [아지트 꾸미기] 권한을 가진 길드원만 편집 모드를 활성화할 수 있습니다.{nl}- 아지트의 확장 단계에 따라 배치 구역이 확장됩니다.{nl}- 배치된 물품을 철거할 시, 물품 크기에 따라 일정량의 길드 자금이 소모됩니다.
+ETC_20191024_042889	{nl} {nl}{@st66d_y}{s17}[Guild Facilities]{/}{/}{nl}Various Guild Facilities can be installed for beneficial effects.	{nl} {nl}{@st66d_y}{s17}[길드 시설]{/}{/}{nl}다양한 길드 시설을 설치하고 시설을 이용해 유용한 효과를 얻을 수 있습니다.
+ETC_20191024_042890	Guild Facilities can be upgraded and upgrading costs Guild Funds and Guild Mileage.{nl}When a facility is upgraded, its effects can be boosted.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- Research Labs can only be installed with Guild Hangout Expansion Level 3 and above.{nl}- Only Guild members with the [Facility Management] authority can upgrade facilities.	길드 시설은 증축이 가능하며, 증축에는 단계별로 일정량의 길드 자금과 길드 마일리지가 필요합니다.{nl}시설 증축 시, 증축 레벨에 따라 시설 이용에 따른 효과를 더 높일 수 있습니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 연구소는 아지트 확장 단계가 3단계 이상인 경우에만 설치가 가능합니다.{nl}- [전문 시설 관리] 권한을 가진 길드원만 시설 증축이 가능합니다.
+ETC_20191024_042891	{nl} {nl}{@st66d_y}{s17}[Research Lab]{/}{/}Research Labs can be installed to conduct various fields of research at the cost of Guild Funds.	{nl} {nl}{@st66d_y}{s17}[연구소]{/}{/}{nl}연구소별로 다양한 연구를 강화할 수 있고, 연구 강화에는 연구 레벨에 따라 일정량의 길드 자금이 필요합니다.
+ETC_20191024_042892	You can activate researches to receive beneficial buffs.{nl} {nl}{@st66d_y}{s17}Solo Activation{/}{/}{nl}- Consumes Contribution Points depending on the Research Level.{nl}- Research effect is applied for 1 hour for the player's Team.{nl}- Only appiles 50% of the Research effects.{nl}{@st66d_y}{s17}{nl} {nl}Group Activation{/}{/}{nl}- Consumes Guild Funds depending on the Research Level.{nl}- Research effect is applied for 6 hours to all Guild Members on a Team basis.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- The maximum Research Level increases when the Research Lab is upgraded.{nl}- Research effects are not applied in PvP environments.{nl}- Only Guild members with the [Facility Management] authority can activate the group buff.{nl}- Activating another research effect or an identical research effect when solo/group will remove the research effect previously applied to the player/Guild.{nl} {nl}{@st66d_y}{s17}[Crafting Workshop]{/}{/}Installing a Crafting Workshop increases the maximum Guild Housing Points that can be accumulated.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}- Crafting Workshop can only be installed when Guild Hangout Expansion level is at 2 or above.{nl}- Only Guild members with [Facility Management] authority can build Crafting Workshops.	강화된 연구를 활성화하여 유용한 버프를 받을 수 있습니다.{nl} {nl}{@st66d_y}{s17}개인 활성화{/}{/}{nl}- 연구 레벨에 따라 일정량의 기여도가 소비됩니다.{nl}- 연구 효과를 가진 버프가 1시간 동안 팀 단위로 적용됩니다.{nl}- 해당 연구 효과의 50%만 적용됩니다.{nl}{@st66d_y}{s17}{nl} {nl}단체 활성화{/}{/}{nl}- 연구 레벨에 따라 일정량의 길드 자금이 소비됩니다.{nl}- 연구 효과를 가진 버프가 6시간 동안 모든 길드원에게 팀 단위로 적용됩니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 연구소 증축 시, 증축 레벨에 따라 연구 강화 레벨 최대치가 증가합니다.{nl}- 연구 효과는 PVP 지역에서는 적용되지 않습니다.{nl}- [전문 시설 관리] 권한을 가진 길드원만 단체 활성화를 이용할 수 있습니다.{nl}- 개인 활성화로 연구 버프가 적용된 상태에서 동일 연구소의 동일 연구 혹은 다른 연구 버프를 개인 활성화할 경우 기존에 적용된 개인 연구 버프는 사라집니다.{nl}- 단체 활성화로 연구 버프가 적용된 상태에서 동일 연구소의 동일 연구 혹은 다른 연구 버프를 단체 활성화할 경우 기존에 적용된 단체 연구 버프는 사라집니다.{nl} {nl}{@st66d_y}{s17}[제작 공방소]{/}{/}{nl}제작 공방소 증축 시, 길드 하우징 포인트의 최대치가 증가합니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 제작 공방소는 아지트 확장 단계가 2단계 이상인 경우에만 설치가 가능합니다.{nl}- [전문 시설 관리] 권한을 가진 길드원만 시설 증축이 가능합니다.
+ETC_20191024_042893	{nl} {nl}{@st66d_y}{s17}[Contribution and Mileage Management]{/}{/}{nl}Guild members can exchange their Contribution into Guild Mileage on the [Hangout Info.] tab of the Guild UI. Guild Masters can also convert Guild Mileage into Contribution or distribute their Contribution to other Guild members.	{nl} {nl}{@st66d_y}{s17}[기여도 및 길드 마일리지 관리]{/}{/}{nl}길드창의 [아지트정보] 탭에서 길드원은 자신의 기여도를 길드 마일리지로 전환할 수 있으며, 길드 마스터의 경우 길드 마일리지를 기여도로 전환하거나, 자신의 기여도를 다른 길드원에게 분배할 수 있습니다.
+ETC_20191024_042894	{@st66d_y}{s17}[Important]{/}{/}{nl}- Only the Guild Master can convert Guild Mileage to Contribution and distribute Contribution among Guild members.{nl}- Guild Contribution and Mileage will be exchanged following a specified rate.	{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 길드 마일리지를 기여도로 전환하기, 길드원에게 기여도 분배하기 기능은 길드 마스터만 이용할 수 있습니다.{nl}- 기여도 및 길드 마일리지 전환 시 일정량의 교환 비율이 적용되어 전환됩니다.
+ETC_20191024_042895	{nl} {nl}Each deposit/withdrawal costs 20 mileage.{nl}How to Obtain Guild Mileage{nl}- +3 per Guild Member logged in daily{nl}- Completing the following contents{nl}   Complete Challenge Mode Stage 5 or above: +1{nl}   Complet Unique Raid: +2{nl}   Complete Legend Raid: +4{nl}   * Up to +100 Mileage can be saved per week per Guild member{nl}   * The amount of Mileage that can be accumulated is reset every Monday at 6 AM EST	{nl} {nl}입고/출고 시 길드 마일리지가 20씩 차감됩니다.{nl}길드 마일리지 적립 방법{nl}- 일일 접속한 길드원 한 명 당 +3{nl}- 특정 콘텐츠 이용{nl}    챌린지 5단계 이상 클리어 : +1{nl}    유니크 레이드 클리어 : +2{nl}    레전드 레이드 클리어 : +4{nl}    * 길드원별 주간 최대 +100까지 누적 적립 가능{nl}    * 매주 월요일 오전 6시 누적 적립 초기화
+ETC_20191024_042896	Bench (Brown)	벤치(갈색)
+ETC_20191024_042897	Landscaping	조경
+ETC_20191024_042898	Garden	정원
+ETC_20191024_042899	Klaipeda Streetlamp	클라페다 가로등
+ETC_20191024_042900	Hydrangea A (Blue)	수국_01(파란색)
+ETC_20191024_042901	Hydrangea B (Blue)	수국_02(파란색)
+ETC_20191024_042902	Orsha Streetlamp	오르샤 가로등
+ETC_20191024_042903	Magic Streetlamp	마법 가로등
+ETC_20191024_042904	Tree Streetlamp	나무 가로등
+ETC_20191024_042905	Basic Fountain (Small)	일반 분수대(소형)
+ETC_20191024_042906	Musical Sculpture	연주하는 조각상
+ETC_20191024_042907	Sculpture	조각상
+ETC_20191024_042908	Garden Fountain (Small)	정원 분수대(소형)
+ETC_20191024_042909	Garden Fountain (Medium)	정원 분수대(중형)
+ETC_20191024_042910	Garden Fountain (Large)	정원 분수대(대형)
+ETC_20191024_042911	Monastery Fountain	수도원 분수대
+ETC_20191024_042912	Floral Garden Lantern L (Pink)	꽃모양 정원 랜턴_좌(분홍색)
+ETC_20191024_042913	Floral Garden Lantern R (Pink)	꽃모양 정원 랜턴_우(분홍색)
+ETC_20191024_042914	Flower Arch (Purple)	꽃 아치(보라색)
+ETC_20191024_042915	Arch	아치
+ETC_20191024_042916	Iron Lantern	철제 랜턴
+ETC_20191024_042917	Garden Fence (Brown)	정원 울타리(갈색)
+ETC_20191024_042918	Big Tree and Swing	커다란 나무와 그네
+ETC_20191024_042919	Decoration	장식
+ETC_20191024_042920	Pond (White)	연못(하얀색)
+ETC_20191024_042921	Pond	연못
+ETC_20191024_042922	Flower Bed A (Green)	화단_01(초록색)
+ETC_20191024_042923	Flower Bed B (Green)	화단_02(초록색)
+ETC_20191024_042924	Flower Bed C (Green)	화단_03(초록색)
+ETC_20191024_042925	Farm Fence A (Brown)	농장 울타리_01(갈색)
+ETC_20191024_042926	Farm Fence B (Brown)	농장 울타리_02(갈색)
+ETC_20191024_042927	Farm Fence C (Brown)	농장 울타리_03(갈색)
+ETC_20191024_042928	Farm Fence D (Brown)	농장 울타리_04(갈색)
+ETC_20191024_042929	Decorative Tree (Green)	조경용 나무(초록색)
+ETC_20191024_042930	Wooden Fence	나무 울타리
+ETC_20191024_042931	Pump	펌프
+ETC_20191024_042932	Fertilizer	비료
+ETC_20191024_042933	Farm Fence A (White)	농장 울타리_01(하얀색)
+ETC_20191024_042934	Farm Fence B (White)	농장 울타리_02(하얀색)
+ETC_20191024_042935	Farm Fence C (White)	농장 울타리_03(하얀색)
+ETC_20191024_042936	Farm Fence D (White)	농장 울타리_04(하얀색)
+ETC_20191024_042937	Farm Fence E (White)	농장 울타리_05(하얀색)
+ETC_20191024_042938	Potted Rose (Yellow)	장미꽃 화분(노란색)
+ETC_20191024_042939	Potted Rose (Green)	조경용 화단(초록색)
+ETC_20191024_042940	Garden Arch	정원 아치
+ETC_20191024_042941	Potted Hydrangea (Blue)	수국화단(파란색)
+ETC_20191024_042942	Parasol (White)	파라솔(하얀색)
+ETC_20191024_042943	Table	테이블
+ETC_20191024_042944	Flower Bed D (Green)	화단_04(초록색)
+ETC_20191024_042945	Flower Table Set (White)	꽃 테이블 세트(하얀색)
+ETC_20191024_042946	Topiary (Swan)	토피어리(백조)
+ETC_20191024_042947	Farm Windmill	농장 풍차
+ETC_20191024_042948	Topiary (Tree)	토피어리(나무)
+ETC_20191024_042949	Topiary (Popolion)	토피어리(포포리온)
+ETC_20191024_042950	Topiary (Kepa)	토피어리(케파)
+ETC_20191024_042951	Topiary (Horse)	토피어리(말)
+ETC_20191024_042952	Topiary (Cube)	토피어리(큐브)
+ETC_20191024_042953	Topiary (Decorative Garden)	토피어리(장식 정원)
+ETC_20191024_042954	Knight Sculpture	기사 조각상
+ETC_20191024_042955	Aged Tree (Pink)	오래된 나무(분홍색)
+ETC_20191024_042956	Decorative Tree	장식용 나무
+ETC_20191024_042957	Stone Tower B	돌탑_02
+ETC_20191024_042958	Praying Sculpture	기도하는 조각상
+ETC_20191024_042959	Goat Monster Sculpture	산양 형태의 몬스터 조각상
+ETC_20191024_042960	Anemone (Red)	말미잘(빨간색)
+ETC_20191024_042961	Oak Barrel Set	오크통 세트
+ETC_20191024_042962	Fruit Basket (Brown)	과일 바구니(갈색)
+ETC_20191024_042963	Dewy Flower (Yellow)	물을 머금은 꽃(노란색)
+ETC_20191024_042964	Alocasia (White)	알로카시아 꽃(하얀색)
+ETC_20191024_042965	Alcyonium (Blue)	팔방산호(파란색)
+ETC_20191024_042966	Alcyonium (Red)	팔방산호(빨간색)
+ETC_20191024_042967	Blue Coral	푸른산호
+ETC_20191024_042968	Conch Shell (Brown)	소라껍질(갈색)
+ETC_20191024_042969	Cactus	선인장
+ETC_20191024_042970	Farm Plot	논밭
+ETC_20191024_042971	Facility	시설
+ETC_20191024_042972	Castle Wall	성벽 울타리
+ETC_20191024_042973	Stone Tower A	돌탑_01
+ETC_20191024_042974	Castle Streetlamp	캐슬 가로등
+ETC_20191024_042975	Flower Arch (Red)	꽃 아치(빨간색)
+ETC_20191024_042976	Flower Arch (White)	꽃 아치(하얀색)
+ETC_20191024_042977	Flower Arch (Yellow)	꽃 아치(노란색)
+ETC_20191024_042978	Bench (Green)	벤치(초록색)
+ETC_20191024_042979	Bench (White)	벤치(하얀색)
+ETC_20191024_042980	Bench (Wine)	벤치(와인색)
+ETC_20191024_042981	Alocasia (Orange)	알로카시아 꽃(주황색)
+ETC_20191024_042982	Alocasia (Pink)	알로카시아 꽃(분홍색)
+ETC_20191024_042983	Alocasia (Yellow)	알로카시아 꽃(노란색)
+ETC_20191024_042984	Dewy Flower (Purple)	물을 머금은 꽃(보라색)
+ETC_20191024_042985	Dewy Flower (Red)	물을 머금은 꽃(빨간색)
+ETC_20191024_042986	Dewy Flower (White)	물을 머금은 꽃(하얀색)
+ETC_20191024_042987	Conch Shell (Pink)	소라껍질(분홍색)
+ETC_20191024_042988	Conch Shell (Purple)	소라껍질(보라색)
+ETC_20191024_042989	Fruit Basket (Purple)	과일 바구니(보라색)
+ETC_20191024_042990	Fruit Basket (Red)	과일 바구니(빨간색)
+ETC_20191024_042991	Anemone (Blue)	말미잘(파란색)
+ETC_20191024_042992	Anemone (Yellow)	말미잘(노란색)
+ETC_20191024_042993	Garden Fence (Black)	정원 울타리(검정색)
+ETC_20191024_042994	Garden Fence (White)	정원 울타리(하얀색)
+ETC_20191024_042995	Potted Hydrangea (Red)	수국화단(빨간색)
+ETC_20191024_042996	Potted Hydrangea (White)	수국화단(하얀색)
+ETC_20191024_042997	Potted Hydrangea (Yellow)	수국화단(노란색)
+ETC_20191024_042998	Flower Bed D (Turquoise)	화단_04(청록색)
+ETC_20191024_042999	Flower Table Set (Pink)	꽃 테이블 세트(분홍색)
+ETC_20191024_043000	Flower Table Set (Yellow)	꽃 테이블 세트(노란색)
+ETC_20191024_043001	Aged Tree (Purple)	오래된 나무(보라색)
+ETC_20191024_043002	Aged Tree (White)	오래된 나무(하얀색)
+ETC_20191024_043003	Aged Tree (Yellow)	오래된 나무(노란색)
+ETC_20191024_043004	Floral Garden Lantern L (Red)	꽃모양 정원 랜턴_좌(빨간색)
+ETC_20191024_043005	Floral Garden Lantern L (White)	꽃모양 정원 랜턴_좌(하얀색)
+ETC_20191024_043006	Floral Garden Lantern R (Red)	꽃모양 정원 랜턴_우(빨간색)
+ETC_20191024_043007	Floral Garden Lantern R (White)	꽃모양 정원 랜턴_우(하얀색)
+ETC_20191024_043008	Hydrangea A (Red)	수국_01(빨간색)
+ETC_20191024_043009	Hydrangea A (White)	수국_01(하얀색)
+ETC_20191024_043010	Hydrangea A (Yellow)	수국_01(노란색)
+ETC_20191024_043011	Hydrangea B (Red)	수국_02(빨간색)
+ETC_20191024_043012	Hydrangea B (White)	수국_02(하얀색)
+ETC_20191024_043013	Hydrangea B (Yellow)	수국_02(노란색)
+ETC_20191024_043014	Flower Bed A (Turquoise)	화단_01(청록색)
+ETC_20191024_043015	Flower Bed B (Turquoise)	화단_02(청록색)
+ETC_20191024_043016	Flower Bed C (Turquoise)	화단_03(청록색)
+ETC_20191024_043017	Decorative Tree (Pink)	조경용 나무(분홍색)
+ETC_20191024_043018	Decorative Tree (Purple)	조경용 나무(보라색)
+ETC_20191024_043019	Decorative Tree (Yellow)	조경용 나무(노란색)
+ETC_20191024_043020	Potted Rose (Blue)	장미꽃 화분(파란색)
+ETC_20191024_043021	Potted Rose (Red)	장미꽃 화분(빨간색)
+ETC_20191024_043022	Potted Rose (White)	장미꽃 화분(하얀색)
+ETC_20191024_043023	Decorative Flower Bed (Blue)	조경용 화단(파란색)
+ETC_20191024_043024	Decorative Flower Bed (Red)	조경용 화단(빨간색)
+ETC_20191024_043025	Decorative Flower Bed (Yellow)	조경용 화단(노란색)
+ETC_20191024_043026	Parasol (Blue)	파라솔(파란색)
+ETC_20191024_043027	Parasol (Red)	파라솔(빨간색)
+ETC_20191024_043028	Pond (Blue)	연못(파란색)
+ETC_20191024_043029	Pond (Red)	연못(빨간색)
+ETC_20191024_043030	Pond (Yellow)	연못(노란색)
+ETC_20191024_043031	Farm Manager (Male)	농장 관리인(남)
+ETC_20191024_043032	Hire	고용
+ETC_20191024_043033	Farm Manager (Female)	농장 관리인(여)
+ETC_20191024_043034	Housing data not available.	하우징 데이터가 없습니다.
+ETC_20191024_043035	Incorrect Housing furniture information.	하우징 가구 정보가 올바르지 않습니다.
+ETC_20191024_043036	Incorrect Housing grid information.	하우징 그리드 정보가 올바르지 않습니다.
+ETC_20191024_043037	Field Boss World Event Error	필드보스 월드이벤트 관련 에러
+ETC_20191024_043038	Incorrect Housing item information.	하우징 아이템 정보가 올바르지 않습니다.
+ETC_20191024_043039	Related to Guild Mission Start Fail	길드 미션 실행 실패 관련.
+ETC_20191024_043040	Former Fantasy Library: Sausis Room 9: Casual	과거 환상도서관 : 사우시스 9 관 : 캐주얼
+ETC_20191024_043041	Unique Raid: Casual	유니크 레이드: 캐주얼
+ETC_20191024_043042	First Refuge: Casual	첫 번째 피난처: 캐주얼
+ETC_20191024_043043	Magic Research Facility: Casual	마법 실험 구역: 캐주얼
+ETC_20191024_043044	Astral Tower Closed Quarters: Casual	별의 탑 폐쇄 구역: 캐주얼
+ETC_20191024_043045	Asiomage Testing Grounds: Casual	아시오 메이지의 실험실: 캐주얼
+ETC_20191024_043046	Tomb of the White Crow: Casual	흰 까마귀의 영면지: 캐주얼
+ETC_20191024_043047	Former Fantasy Library: Sausis Room 9: Casual	과거 환상도서관 : 사우시스 9 관: 캐주얼
+ETC_20191024_043048	Arts	아츠
+ETC_20191024_043049	Unidentified	미식별
+ETC_20191024_043050	Encyclopedia	전집
+ETC_20191024_043051	Mystic Tome: Swordsman	신비한 서: 소드맨
+ETC_20191024_043052	Mystic Tome: Wizard	신비한 서: 위저드
+ETC_20191024_043053	Mystic Tome: Cleric	신비한 서: 클레릭
+ETC_20191024_043054	Mystic Tome: Scout	신비한 서: 스카우트
+ETC_20191024_043055	Mystic Tome: Archer	신비한 서: 아처
+ETC_20191024_043056	Housing	하우징
+ETC_20191024_043057	2019 Leticia's Treasure Chest (Season 3)	2019 레티샤의 보물 상자(9월)
+ETC_20191024_043058	2019 Leticia's Treasure Chest (Season 4)	2019 레티샤의 보물 상자(10월)
+ETC_20191024_043059	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Shining 10-Star Gem Abrasive x2{nl} - Shining Golden Socket x3	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 빛나는 10성 젬 연마제 x2{nl} - 빛나는 황금 소켓 x3
+ETC_20191024_043060	[PP] Shining Golden Anvil Box	[PC방] 빛나는 황금 모루 상자
+ETC_20191024_043061	A box containing Shining Golden Anvil x30. Right-click to use and obtain the items.{nl}All items contained within can be traded.	빛나는 황금 모루 30개가 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.{nl}구성품은 모든 거래가 가능합니다.
+ETC_20191024_043062	[PP] Shining Golden Ichor Box	[PC방] 빛나는 황금 아이커 상자
+ETC_20191024_043063	A box containing Shining Golden Ichor Extraction Kit x40. Right-click to use and obtain the items.{nl}All items contained within can be traded.	빛나는 황금 아이커 추출 키트 40개가 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.{nl}구성품은 모든 거래가 가능합니다.
+ETC_20191024_043064	Red TOS Ranger Costume Selection Box	TOS 스쿼드 레드 코스튬 선택상자
+ETC_20191024_043065	Use to select one of the following items to obtain.{nl}- Red TOS Ranger Costume (Male) x1{nl}- Red TOS Ranger Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - TOS 레인저 레드 코스튬 (남) 1개{nl} - TOS 레인저 레드 코스튬 (여) 1개
+ETC_20191024_043066	Pink/Blue TOS Ranger Costume Selection Box	TOS 스쿼드 핑크/블루 코스튬 선택상자
+ETC_20191024_043067	Use to select one of the following items to obtain.{nl}- Pink TOS Ranger Costume (Male) x1{nl}- Blue TOS Ranger Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - TOS 레인저 핑크 코스튬 (남) 1개{nl} - TOS 레인저 블루 코스튬 (여) 1개
+ETC_20191024_043068	Green/Yellow TOS Ranger Costume Selection Box	TOS 스쿼드 그린/옐로우 코스튬 선택상자
+ETC_20191024_043069	Use to select one of the following items to obtain.{nl}- Green TOS Ranger Costume (Male) x1{nl}- Yellow TOS Ranger Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - TOS 레인저 그린 코스튬 (남) 1개{nl} - TOS 레인저 옐로우 코스튬 (여) 1개
+ETC_20191024_043070	Go Go TOS Ranger	TOS 스쿼드 출동
+ETC_20191024_043071	Use to obtain all of the following items.{nl}- TOS Ranger Weapon Selection Box{nl}- Red TOS Ranger Costume Selection Box{nl}- Pink/Blue TOS Ranger Costume Selection Box{nl}- Green/Yellow TOS Ranger Costume Selection Box{nl}- TOS Ranger City Popup Book	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - TOS 스쿼드 무기 선택 상자{nl} - TOS 스쿼드 레드 코스튬 선택상자{nl} - TOS 스쿼드 핑크/블루 코스튬 선택상자{nl} - TOS 스쿼드 그린/옐로우 코스튬 선택상자{nl} - TOS 스쿼드 시티 팝업북
+ETC_20191024_043072	TOS Ranger Weapon Selection Box	TOS 스쿼드 무기 선택 상자
+ETC_20191024_043073	Use to select one of the following items to obtain.{nl}- TOS Ranger Sword{nl}- TOS Ranger Two-handed Sword{nl}- TOS Ranger Spear{nl}- TOS Ranger Pike{nl}- TOS Ranger Rapier{nl}- TOS Ranger Mace{nl}- TOS Ranger Two-handed Mace{nl}- TOS Ranger Bow{nl}- TOS Ranger Crossbow{nl}- TOS Ranger Musket{nl}- TOS Ranger Cannon{nl}- TOS Ranger Dagger{nl}- TOS Ranger Pistol{nl}- TOS Ranger Staff{nl}- TOS Ranger Rod{nl}- TOS Ranger Shield	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - TOS 스쿼드 소드{nl} - TOS 스쿼드 투 핸드 소드{nl} - TOS 스쿼드 스피어{nl} - TOS 스쿼드 파이크{nl} - TOS 스쿼드 레이피어{nl} - TOS 스쿼드 메이스{nl} - TOS 스쿼드 투 핸드 메이스{nl} - TOS 스쿼드 보우{nl} - TOS 스쿼드 크로스 보우{nl} - TOS 스쿼드 머스킷{nl} - TOS 스쿼드 캐논{nl} - TOS 스쿼드 대거{nl} - TOS 스쿼드 피스톨{nl} - TOS 스쿼드 스태프{nl} - TOS 스쿼드 로드{nl} - TOS 스쿼드 실드
+ETC_20191024_043074	Right-click to obtain the following items.{nl}- shining Golden Ichor Extraction Kit x3{nl}- Artisan Magnifier x3{nl}- Glowing Awakening Stone{nl}- Golden Anvil x10	우클릭으로 다음 아이템을 획득할 수 있습니다.{nl}- 빛나는 황금 아이커 추출 키트 3개{nl}- 장인의 돋보기 3개{nl}- 빛나는 각성석{nl}- 황금 모루 10개
+ETC_20191024_043075	2nd Anniversary Cube	2주년 기념 큐브
+ETC_20191024_043076	2nd Anniversary Cube x10 + 1	2주년 기념 큐브 x10 + 1
+ETC_20191024_043077	[PP] Pizza	[포포샵] 피자
+ETC_20191024_043078	Delicious, mouth-watering Pizza available for sale at the Popo Point Shop!!{nl}- Spread the scent of delicious Pizza across the whole server to grant all players with a buff that grants {#8e0000}200% increased EXP when defeating monsters{/} for a 1-hour duration.{nl}- The player using the item receives a special {#8e0000}Delivery{/} buff for 24 hours. {nl} {nl}{#8e0000}[Important]{/}{nl}- Re-using the item before the Delivery buff runs out does not extend or refresh the buff duration.{nl}- Buff is not applied in PvP environments.	포포샵에서 판매하고 있는 맛있는 피자!!{nl}- 피자의 냄새를 풍겨 월드 내 접속 중인 전체 캐릭터 대상으로{#8e0000}몬스터 처치 시 경험치 200%{/}버프가 1시간 동안 적용됩니다. {nl}- 아이템을 사용한 캐릭터에게 특별한 {#8e0000}배달원{/} 버프가 24시간 동안 적용됩니다. {nl} {nl}{#8e0000}[주의]{/}{nl}- 아이템을 재사용할 시 배달원의 버프는 추가 시간이 제공되지 않습니다.{nl}- PVP 서버에서는 버프가 부여되지 않습니다.
+ETC_20191024_043079	Resets the attributes learnt by the character. (Arts will not be reset.)	캐릭터에 적용된 특성을 초기화 합니다. (아츠는 초기화 하지 않습니다.)
+ETC_20191024_043080	Randomly changes the number, groups and values of stats contained in a random-stat item. You can select one stat from the before or after to keep. To use the item you must select one stat to keep.{nl} {nl}- Will be automatically deleted at the end of the event period.	랜덤 옵션 아이템의 옵션 개수, 옵션 그룹, 옵션, 옵션 수치를 랜덤하게 변경합니다. 옵션은 변경 전 옵션과 변경 후 옵션 중 1개를 선택 할 수 있습니다. 옵션 선택을 하지 않으면 아이템을 사용 할 수 없습니다.8월 8일 점검 후 일괄 삭제됩니다.
+ETC_20191024_043081	Arts Reset Potion - Swordsman (1 Day)	아츠 초기화 포션 - 소드맨 (1일)
+ETC_20191024_043082	Resets the Swordsman Arts obtained by the character.	캐릭터에 적용된 소드맨 아츠를 초기화 합니다.
+ETC_20191024_043083	Arts Reset Potion - Highlander (1 Day)	아츠 초기화 포션 - 하이랜더 (1일)
+ETC_20191024_043084	Resets the Highlander Arts obtained by the character.	캐릭터에 적용된 하이랜더 아츠를 초기화 합니다.
+ETC_20191024_043085	Arts Reset Potion - Peltasta (1 Day)	아츠 초기화 포션 - 펠타스타 (1일)
+ETC_20191024_043086	Resets the Peltasta Arts obtained by the character.	캐릭터에 적용된 펠타스타 아츠를 초기화 합니다.
+ETC_20191024_043087	Arts Reset Potion - Hoplite (1 Day)	아츠 초기화 포션 - 하플라이트 (1일)
+ETC_20191024_043088	Resets the Hoplite Arts obtained by the character.	캐릭터에 적용된 하플라이트 아츠를 초기화 합니다.
+ETC_20191024_043089	Arts Reset Potion - Barbarian (1 Day)	아츠 초기화 포션 - 바바리안 (1일)
+ETC_20191024_043090	Resets the Barbarian Arts obtained by the character.	캐릭터에 적용된 바바리안 아츠를 초기화 합니다.
+ETC_20191024_043091	Arts Reset Potion - Cataphract (1 Day)	아츠 초기화 포션 - 캐터프랙트 (1일)
+ETC_20191024_043092	Resets the Cataphract Arts obtained by the character.	캐릭터에 적용된 캐터프랙트 아츠를 초기화 합니다.
+ETC_20191024_043093	Arts Reset Potion - Doppelsoeldner (1 Day)	아츠 초기화 포션 - 도펠죌트너 (1일)
+ETC_20191024_043094	Resets the Doppelsoeldner Arts obtained by the character.	캐릭터에 적용된 도펠죌트너 아츠를 초기화 합니다.
+ETC_20191024_043095	Arts Reset Potion - Rodelero (1 Day)	아츠 초기화 포션 - 로델레로 (1일)
+ETC_20191024_043096	Resets the Rodelero Arts obtained by the character.	캐릭터에 적용된 로델레로 아츠를 초기화 합니다.
+ETC_20191024_043097	Arts Reset Potion - Murmillo (1 Day)	아츠 초기화 포션 - 무르밀로 (1일)
+ETC_20191024_043098	Resets the Murmillo Arts obtained by the character.	캐릭터에 적용된 무르밀로 아츠를 초기화 합니다.
+ETC_20191024_043099	Arts Reset Potion - Fencer (1 Day)	아츠 초기화 포션 - 펜서 (1일)
+ETC_20191024_043100	Resets the Fencer Arts obtained by the character.	캐릭터에 적용된 펜서 아츠를 초기화 합니다.
+ETC_20191024_043101	Arts Reset Potion - Dragoon (1 Day)	아츠 초기화 포션 - 드라군 (1일)
+ETC_20191024_043102	Resets the Dragoon Arts obtained by the character.	캐릭터에 적용된 드라군 아츠를 초기화 합니다.
+ETC_20191024_043103	Arts Reset Potion - Templar (1 Day)	아츠 초기화 포션 - 템플러 (1일)
+ETC_20191024_043104	Resets the Templar Arts obtained by the character.	캐릭터에 적용된 템플러 아츠를 초기화 합니다.
+ETC_20191024_043105	Arts Reset Potion - Lancer (1 Day)	아츠 초기화 포션 - 랜서 (1일)
+ETC_20191024_043106	Resets the Lancer Arts obtained by the character.	캐릭터에 적용된 랜서 아츠를 초기화 합니다.
+ETC_20191024_043107	Arts Reset Potion - Matador (1 Day)	아츠 초기화 포션 - 마타도르 (1일)
+ETC_20191024_043108	Resets the Matador Arts obtained by the character.	캐릭터에 적용된 마타도르 아츠를 초기화 합니다.
+ETC_20191024_043109	Arts Reset Potion - Nak Muay (1 Day)	아츠 초기화 포션 - 낙무아이 (1일)
+ETC_20191024_043110	Resets the Nak Muay Arts obtained by the character.	캐릭터에 적용된 낙무아이 아츠를 초기화 합니다.
+ETC_20191024_043111	Arts Reset Potion - Retiarius (1 Day)	아츠 초기화 포션 - 레티아리이 (1일)
+ETC_20191024_043112	Resets the Retiarius Arts obtained by the character.	캐릭터에 적용된 레티아리이 아츠를 초기화 합니다.
+ETC_20191024_043113	Arts Reset Potion - Hackapell (1 Day)	아츠 초기화 포션 - 하카펠 (1일)
+ETC_20191024_043114	Resets the Hackapell Arts obtained by the character.	캐릭터에 적용된 하카펠 아츠를 초기화 합니다.
+ETC_20191024_043115	Arts Reset Potion - Wizard (1 Day)	아츠 초기화 포션 - 위저드 (1일)
+ETC_20191024_043116	Resets the Wizard Arts obtained by the character.	캐릭터에 적용된 위저드 아츠를 초기화 합니다.
+ETC_20191024_043117	Arts Reset Potion - Pyromancer (1 Day)	아츠 초기화 포션 - 파이로맨서 (1일)
+ETC_20191024_043118	Resets the Pyromancer Arts obtained by the character.	캐릭터에 적용된 파이로맨서 아츠를 초기화 합니다.
+ETC_20191024_043119	Arts Reset Potion - Cryomancer (1 Day)	아츠 초기화 포션 - 크리오맨서 (1일)
+ETC_20191024_043120	Resets the Cryomancer Arts obtained by the character.	캐릭터에 적용된 크리오맨서 아츠를 초기화 합니다.
+ETC_20191024_043121	Arts Reset Potion - Psychokino (1 Day)	아츠 초기화 포션 - 사이코키노 (1일)
+ETC_20191024_043122	Resets the Psychokino Arts obtained by the character.	캐릭터에 적용된 사이코키노 아츠를 초기화 합니다.
+ETC_20191024_043123	Arts Reset Potion - Alchemist (1 Day)	아츠 초기화 포션 - 알케미스트 (1일)
+ETC_20191024_043124	Resets the Alchemist Arts obtained by the character.	캐릭터에 적용된 알케미스트 아츠를 초기화 합니다.
+ETC_20191024_043125	Arts Reset Potion - Sorcerer (1 Day)	아츠 초기화 포션 - 소서러 (1일)
+ETC_20191024_043126	Resets the Sorcerer Arts obtained by the character.	캐릭터에 적용된 소서러 아츠를 초기화 합니다.
+ETC_20191024_043127	Arts Reset Potion - Chronomancer (1 Day)	아츠 초기화 포션 - 크로노맨서 (1일)
+ETC_20191024_043128	Resets the Chronomancer Arts obtained by the character.	캐릭터에 적용된 크로노맨서 아츠를 초기화 합니다.
+ETC_20191024_043129	Arts Reset Potion - Necromancer (1 Day)	아츠 초기화 포션 - 네크로맨서 (1일)
+ETC_20191024_043130	Resets the Necromancer Arts obtained by the character.	캐릭터에 적용된 네크로맨서 아츠를 초기화 합니다.
+ETC_20191024_043131	Arts Reset Potion - Elementalist (1 Day)	아츠 초기화 포션 - 엘리멘탈리스트 (1일)
+ETC_20191024_043132	Resets the Elementalist Arts obtained by the character.	캐릭터에 적용된 엘리멘탈리스트 아츠를 초기화 합니다.
+ETC_20191024_043133	Arts Reset Potion - Sage (1 Day)	아츠 초기화 포션 - 세이지 (1일)
+ETC_20191024_043134	Resets the Sage Arts obtained by the character.	캐릭터에 적용된 세이지 아츠를 초기화 합니다.
+ETC_20191024_043135	Arts Reset Potion - Warlock (1 Day)	아츠 초기화 포션 - 워록 (1일)
+ETC_20191024_043136	Resets the Warlock Arts obtained by the character.	캐릭터에 적용된 워록 아츠를 초기화 합니다.
+ETC_20191024_043137	Arts Reset Potion - Featherfoot (1 Day)	아츠 초기화 포션 - 페더풋 (1일)
+ETC_20191024_043138	Resets the Featherfoot Arts obtained by the character.	캐릭터에 적용된 페더풋 아츠를 초기화 합니다.
+ETC_20191024_043139	Arts Reset Potion - Rune Caster (1 Day)	아츠 초기화 포션 - 룬캐스터 (1일)
+ETC_20191024_043140	Resets the Rune Caster Arts obtained by the character.	캐릭터에 적용된 룬캐스터 아츠를 초기화 합니다.
+ETC_20191024_043141	Arts Reset Potion - Shadowmancer (1 Day)	아츠 초기화 포션 - 섀도우맨서 (1일)
+ETC_20191024_043142	Resets the Shadowmancer Arts obtained by the character.	캐릭터에 적용된 섀도우맨서 아츠를 초기화 합니다.
+ETC_20191024_043143	Arts Reset Potion - Onmyoji (1 Day)	아츠 초기화 포션 - 음양사 (1일)
+ETC_20191024_043144	Resets the Onmyoji Arts obtained by the character.	캐릭터에 적용된 음양사 아츠를 초기화 합니다.
+ETC_20191024_043145	Arts Reset Potion - Taoist (1 Day)	아츠 초기화 포션 - 도사 (1일)
+ETC_20191024_043146	Resets the Taoist Arts obtained by the character.	캐릭터에 적용된 도사 아츠를 초기화 합니다.
+ETC_20191024_043147	Arts Reset Potion - Bokor (1 Day)	아츠 초기화 포션 - 보코르 (1일)
+ETC_20191024_043148	Resets the Bokor Arts obtained by the character.	캐릭터에 적용된 보코르 아츠를 초기화 합니다.
+ETC_20191024_043149	Arts Reset Potion - Archer (1 Day)	아츠 초기화 포션 - 아처 (1일)
+ETC_20191024_043150	Resets the Archer Arts obtained by the character.	캐릭터에 적용된 아처 아츠를 초기화 합니다.
+ETC_20191024_043151	Arts Reset Potion - Hunter (1 Day)	아츠 초기화 포션 - 헌터 (1일)
+ETC_20191024_043152	Resets the Hunter Arts obtained by the character.	캐릭터에 적용된 헌터 아츠를 초기화 합니다.
+ETC_20191024_043153	Arts Reset Potion - Quarrel Shooter (1 Day)	아츠 초기화 포션 - 쿼렐슈터 (1일)
+ETC_20191024_043154	Resets the Quarrel Shooter Arts obtained by the character.	캐릭터에 적용된 쿼렐슈터 아츠를 초기화 합니다.
+ETC_20191024_043155	Arts Reset Potion - Ranger (1 Day)	아츠 초기화 포션 - 레인저 (1일)
+ETC_20191024_043156	Resets the Ranger Arts obtained by the character.	캐릭터에 적용된 레인저 아츠를 초기화 합니다.
+ETC_20191024_043157	Arts Reset Potion - Sapper (1 Day)	아츠 초기화 포션 - 새퍼 (1일)
+ETC_20191024_043158	Resets the Sapper Arts obtained by the character.	캐릭터에 적용된 새퍼 아츠를 초기화 합니다.
+ETC_20191024_043159	Arts Reset Potion - Wugushi (1 Day)	아츠 초기화 포션 - 무고사 (1일)
+ETC_20191024_043160	Resets the Wugushi Arts obtained by the character.	캐릭터에 적용된 무고사 아츠를 초기화 합니다.
+ETC_20191024_043161	Arts Reset Potion - Fletcher (1 Day)	아츠 초기화 포션 - 플레쳐 (1일)
+ETC_20191024_043162	Resets the Fletcher Arts obtained by the character.	캐릭터에 적용된 플레쳐 아츠를 초기화 합니다.
+ETC_20191024_043163	Arts Reset Potion - Pied Piper (1 Day)	아츠 초기화 포션 - 파이드 파이퍼 (1일)
+ETC_20191024_043164	Resets the Pied Piper Arts obtained by the character.	캐릭터에 적용된 파이드 파이퍼 아츠를 초기화 합니다.
+ETC_20191024_043165	Arts Reset Potion - Appraiser (1 Day)	아츠 초기화 포션 - 감정사 (1일)
+ETC_20191024_043166	Resets the Appraiser Arts obtained by the character.	캐릭터에 적용된 감정사 아츠를 초기화 합니다.
+ETC_20191024_043167	Arts Reset Potion - Falconer (1 Day)	아츠 초기화 포션 - 응사 (1일)
+ETC_20191024_043168	Resets the Falconer Arts obtained by the character.	캐릭터에 적용된 응사 아츠를 초기화 합니다.
+ETC_20191024_043169	Arts Reset Potion - Cannoneer (1 Day)	아츠 초기화 포션 - 캐노니어 (1일)
+ETC_20191024_043170	Resets the Cannoneer Arts obtained by the character.	캐릭터에 적용된 캐노니어 아츠를 초기화 합니다.
+ETC_20191024_043171	Arts Reset Potion - Musketeer (1 Day)	아츠 초기화 포션 - 머스킷티어 (1일)
+ETC_20191024_043172	Resets the Musketeer Arts obtained by the character.	캐릭터에 적용된 머스킷티어 아츠를 초기화 합니다.
+ETC_20191024_043173	Arts Reset Potion - Mergen (1 Day)	아츠 초기화 포션 - 메르겐 (1일)
+ETC_20191024_043174	Resets the Mergen Arts obtained by the character.	캐릭터에 적용된 메르겐 아츠를 초기화 합니다.
+ETC_20191024_043175	Arts Reset Potion - Matross (1 Day)	아츠 초기화 포션 - 매트로스 (1일)
+ETC_20191024_043176	Resets the Matross Arts obtained by the character.	캐릭터에 적용된 매트로스 아츠를 초기화 합니다.
+ETC_20191024_043177	Arts Reset Potion - Tiger Hunter (1 Day)	아츠 초기화 포션 - 산포 (1일)
+ETC_20191024_043178	Resets the Tiger Hunter Arts obtained by the character.	캐릭터에 적용된 산포 아츠를 초기화 합니다.
+ETC_20191024_043179	Arts Reset Potion - Cleric (1 Day)	아츠 초기화 포션 - 클레릭 (1일)
+ETC_20191024_043180	Resets the Cleric Arts obtained by the character.	캐릭터에 적용된 클레릭 아츠를 초기화 합니다.
+ETC_20191024_043181	Arts Reset Potion - Priest (1 Day)	아츠 초기화 포션 - 프리스트 (1일)
+ETC_20191024_043182	Resets the Priest Arts obtained by the character.	캐릭터에 적용된 프리스트 아츠를 초기화 합니다.
+ETC_20191024_043183	Arts Reset Potion - Krivis (1 Day)	아츠 초기화 포션 - 크리비 (1일)
+ETC_20191024_043184	Resets the Krivis Arts obtained by the character.	캐릭터에 적용된 크리비 아츠를 초기화 합니다.
+ETC_20191024_043185	Arts Reset Potion - Druid (1 Day)	아츠 초기화 포션 - 드루이드 (1일)
+ETC_20191024_043186	Resets the Druid Arts obtained by the character.	캐릭터에 적용된 드루이드 아츠를 초기화 합니다.
+ETC_20191024_043187	Arts Reset Potion - Sadhu (1 Day)	아츠 초기화 포션 - 사두 (1일)
+ETC_20191024_043188	Resets the Sadhu Arts obtained by the character.	캐릭터에 적용된 사두 아츠를 초기화 합니다.
+ETC_20191024_043189	Arts Reset Potion - Dievdirbys (1 Day)	아츠 초기화 포션 - 딥디르비 (1일)
+ETC_20191024_043190	Resets the Dievdirbys Arts obtained by the character.	캐릭터에 적용된 딥디르비 아츠를 초기화 합니다.
+ETC_20191024_043191	Arts Reset Potion - Oracle (1 Day)	아츠 초기화 포션 - 오라클 (1일)
+ETC_20191024_043192	Resets the Oracle Arts obtained by the character.	캐릭터에 적용된 오라클 아츠를 초기화 합니다.
+ETC_20191024_043193	Arts Reset Potion - Monk (1 Day)	아츠 초기화 포션 - 몽크 (1일)
+ETC_20191024_043194	Resets the Monk Arts obtained by the character.	캐릭터에 적용된 몽크 아츠를 초기화 합니다.
+ETC_20191024_043195	Arts Reset Potion - Pardoner (1 Day)	아츠 초기화 포션 - 파드너 (1일)
+ETC_20191024_043196	Resets the Pardoner Arts obtained by the character.	캐릭터에 적용된 파드너 아츠를 초기화 합니다.
+ETC_20191024_043197	Arts Reset Potion - Paladin (1 Day)	아츠 초기화 포션 - 팔라딘 (1일)
+ETC_20191024_043198	Resets the Paladin Arts obtained by the character.	캐릭터에 적용된 팔라딘 아츠를 초기화 합니다.
+ETC_20191024_043199	Arts Reset Potion - Chaplain (1 Day)	아츠 초기화 포션 - 채플린 (1일)
+ETC_20191024_043200	Resets the Chaplain Arts obtained by the character.	캐릭터에 적용된 채플린 아츠를 초기화 합니다.
+ETC_20191024_043201	Arts Reset Potion - Plague Doctor (1 Day)	아츠 초기화 포션 - 플레이그닥터 (1일)
+ETC_20191024_043202	Resets the Plague Doctor Arts obtained by the character.	캐릭터에 적용된 플레이그닥터 아츠를 초기화 합니다.
+ETC_20191024_043203	Arts Reset Potion - Kabbalist (1 Day)	아츠 초기화 포션 - 카발리스트 (1일)
+ETC_20191024_043204	Resets the Kabbalist Arts obtained by the character.	캐릭터에 적용된 카발리스트 아츠를 초기화 합니다.
+ETC_20191024_043205	Arts Reset Potion - Inquisitor (1 Day)	아츠 초기화 포션 - 인퀴지터 (1일)
+ETC_20191024_043206	Resets the Inquisitor Arts obtained by the character.	캐릭터에 적용된 인퀴지터 아츠를 초기화 합니다.
+ETC_20191024_043207	Arts Reset Potion - Miko (1 Day)	아츠 초기화 포션 - 무녀 (1일)
+ETC_20191024_043208	Resets the Miko Arts obtained by the character.	캐릭터에 적용된 무녀 아츠를 초기화 합니다.
+ETC_20191024_043209	Arts Reset Potion - Zealot (1 Day)	아츠 초기화 포션 - 질럿 (1일)
+ETC_20191024_043210	Resets the Zealot Arts obtained by the character.	캐릭터에 적용된 질럿 아츠를 초기화 합니다.
+ETC_20191024_043211	Arts Reset Potion - Exorcist (1 Day)	아츠 초기화 포션 - 엑소시스트 (1일)
+ETC_20191024_043212	Resets the Exorcist Arts obtained by the character.	캐릭터에 적용된 엑소시스트 아츠를 초기화 합니다.
+ETC_20191024_043213	Arts Reset Potion - Scout (1 Day)	아츠 초기화 포션 - 스카우트 (1일)
+ETC_20191024_043214	Resets the Scout Arts obtained by the character.	캐릭터에 적용된 스카우트 아츠를 초기화 합니다.
+ETC_20191024_043215	Arts Reset Potion - Assassin (1 Day)	아츠 초기화 포션 - 어쌔신 (1일)
+ETC_20191024_043216	Resets the Assassin Arts obtained by the character.	캐릭터에 적용된 어쌔신 아츠를 초기화 합니다.
+ETC_20191024_043217	Arts Reset Potion - Outlaw (1 Day)	아츠 초기화 포션 - 아웃로 (1일)
+ETC_20191024_043218	Resets the Outlaw Arts obtained by the character.	캐릭터에 적용된 아웃로 아츠를 초기화 합니다.
+ETC_20191024_043219	Arts Reset Potion - Squire (1 Day)	아츠 초기화 포션 - 스콰이어 (1일)
+ETC_20191024_043220	Resets the Squire Arts obtained by the character.	캐릭터에 적용된 스콰이어 아츠를 초기화 합니다.
+ETC_20191024_043221	Arts Reset Potion - Corsair (1 Day)	아츠 초기화 포션 - 커세어 (1일)
+ETC_20191024_043222	Resets the Corsair Arts obtained by the character.	캐릭터에 적용된 커세어 아츠를 초기화 합니다.
+ETC_20191024_043223	Arts Reset Potion - Shinobi (1 Day)	아츠 초기화 포션 - 시노비 (1일)
+ETC_20191024_043224	Resets the Shinobi Arts obtained by the character.	캐릭터에 적용된 시노비 아츠를 초기화 합니다.
+ETC_20191024_043225	Arts Reset Potion - Thaumaturge (1 Day)	아츠 초기화 포션 - 쏘마터지 (1일)
+ETC_20191024_043226	Resets the Thaumaturge Arts obtained by the character.	캐릭터에 적용된 쏘마터지 아츠를 초기화 합니다.
+ETC_20191024_043227	Arts Reset Potion - Enchanter (1 Day)	아츠 초기화 포션 - 인챈터 (1일)
+ETC_20191024_043228	Resets the Enchanter Arts obtained by the character.	캐릭터에 적용된 인챈터 아츠를 초기화 합니다.
+ETC_20191024_043229	Arts Reset Potion - Linker (1 Day)	아츠 초기화 포션 - 링커 (1일)
+ETC_20191024_043230	Resets the Linker Arts obtained by the character.	캐릭터에 적용된 링커 아츠를 초기화 합니다.
+ETC_20191024_043231	Arts Reset Potion - Rogue (1 Day)	아츠 초기화 포션 - 로그 (1일)
+ETC_20191024_043232	Resets the Rogue Arts obtained by the character.	캐릭터에 적용된 로그 아츠를 초기화 합니다.
+ETC_20191024_043233	Arts Reset Potion - Schwarzer Reiter (1 Day)	아츠 초기화 포션 - 슈바르츠라이터 (1일)
+ETC_20191024_043234	Resets the Schwarzer Reiter Arts obtained by the character.	캐릭터에 적용된 슈바르츠라이터 아츠를 초기화 합니다.
+ETC_20191024_043235	Arts Reset Potion - Bullet Marker (1 Day)	아츠 초기화 포션 - 불릿 마커 (1일)
+ETC_20191024_043236	Resets the Bullet Marker Arts obtained by the character.	캐릭터에 적용된 불릿 마커 아츠를 초기화 합니다.
+ETC_20191024_043237	Arts Reset Potion - Ardito (1 Day)	아츠 초기화 포션 - 아르디티 (1일)
+ETC_20191024_043238	Resets the Ardito Arts obtained by the character.	캐릭터에 적용된 아르디티 아츠를 초기화 합니다.
+ETC_20191024_043239	Arts Reset Potion - Sheriff (1 Day)	아츠 초기화 포션 - 셰리프 (1일)
+ETC_20191024_043240	Resets the Sheriff Arts obtained by the character.	캐릭터에 적용된 셰리프 아츠를 초기화 합니다.
+ETC_20191024_043241	Arts Reset Potion - Crouching Strike: Lightning (1 Day)	아츠 초기화 포션 - 크라우칭 스트라이크: 라이트닝 (1일)
+ETC_20191024_043242	Resets the [Crouching Strike: Lightning] Arts obtained by the character.	캐릭터에 적용된 [크라우칭 스트라이크:라이트닝] 아츠를 초기화 합니다.
+ETC_20191024_043243	Marina Oceanware Costume Selection Box	마리나 오션웨어 코스튬 선택 상자
+ETC_20191024_043244	Red Ranger TOS Costume Selection Box	TOS 레인저 레드 코스튬 선택상자
+ETC_20191024_043245	Pink/Blue TOS Costume Selection Box	TOS 레인저 핑크/블루 코스튬 선택상자
+ETC_20191024_043246	Green/Yellow TOS Ranger Costume Selection Box	TOS 레인저 그린/옐로우 코스튬 선택상자
+ETC_20191024_043247	Black Rabbit Costume Box	검은 토끼 인형탈 세트 상자
+ETC_20191024_043248	Use to obtain all of the following items.{nl}- Black Rabbit Costume{nl}- Black Rabbit Helmet Costume	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 검은 토끼 인형탈 코스튬{nl} - 검은 토끼 인형탈 헬멧 코스튬
+ETC_20191024_043249	Candy Killer Costume Selection Box	캔디킬러 코스튬 선택 상자
+ETC_20191024_043250	Use to obtain one of the following items.{nl}- Candy Killer Rascal Costume (Male){nl}- Candy Killer Clown Costume (Female)	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 캔디킬러 악동 코스튬 (남){nl} - 캔디킬러 피에로 코스튬 (여)
+ETC_20191024_043251	Haunted Hospital Costume Selection Box	유령병동 간호사 세트 선택 상자
+ETC_20191024_043252	Use to obtain one of the following items.{nl}- Haunted Hospital Costume Box (Male){nl}- Haunted Hospital Costume Box (Female)	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 유령병동 간호사 세트 상자 (남){nl} - 유령병동 간호사 세트 상자 (여)
+ETC_20191024_043253	Haunted Hospital Costume Box (Male)	유령병동 간호사 세트 상자 (남)
+ETC_20191024_043254	Use to obtain all of the following items.{nl}- Haunted Hospital Nurse Costume (Male){nl}- Haunted Hospital Nurse Helmet Costume (Male)	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 유령병동 간호사 코스튬 (남){nl} - 유령병동 간호사 헬멧 코스튬 (남)
+ETC_20191024_043255	Haunted Hospital Costume Box (Female)	유령병동 간호사 세트 상자 (여)
+ETC_20191024_043256	Use to obtain all of the following items.{nl}- Haunted Hospital Nurse Costume (Female){nl}- Haunted Hospital Nurse Helmet Costume (Female)	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 유령병동 간호사 코스튬 (여){nl} - 유령병동 간호사 헬멧 코스튬 (여)
+ETC_20191024_043257	Skull Party Costume Selection Box	밤의 무도회 해골 코스튬 선택 상자
+ETC_20191024_043258	Use to obtain one of the following items.{nl}- Skull Party Skeleton Costume (Male){nl}- Skull Party Skeleton Costume (Female)	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 밤의 무도회 해골 코스튬 (남) {nl} - 밤의 무도회 해골 코스튬 (여)
+ETC_20191024_043259	Halloween Weapon Selection Box	할로윈 무기 선택 상자
+ETC_20191024_043260	Use to obtain one of the following items.{nl}- The Bat Count Sword{nl}- The Bat Count Two-handed Sword{nl}- Pumpkin Lantern Spear{nl}- Pumpkin Streetlamp Pike{nl}- Surgical Scissors Rapier{nl}- Ripped Teddy Mace{nl}- Rag Doll Two-handed Mace{nl}- Haunted Oak Bow{nl}- Clown Crossbow{nl}- Pumpkin Mage Musket{nl}- Heavy Coffin Cannon{nl}- Surgical Scalpel Dagger{nl}- Vital Sign Pistol{nl}- Haunted Skull Staff{nl}- Hallowventer Hand Rod{nl}- Occult Paper Charm Shield	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 박쥐 남작의 소드{nl} - 박쥐 백작의 투 핸드 소드{nl} - 호박 랜턴 스피어{nl} - 호박 가로등 파이크{nl} - 수술용 가위 레이피어{nl} - 상처입은 곰인형 메이스{nl} - 봉제인형 투 핸드 메이스{nl} - 고목나무 보우{nl} - 피에로 장난감 석궁{nl} - 펌프킨 메이지 머스킷{nl} - 묵직한 관 캐논{nl} - 수술용 메스 대거{nl} - 바이탈사인 피스톨{nl} - 망령의 두개골 스태프{nl} - 할로우벤터의 야광 손뼈 로드{nl} - 액막이 실드
+ETC_20191024_043261	Medeina's Bootcamp Package	성장 패키지
+ETC_20191024_043262	Right-click to use and obtain the following items.{nl} - Legend Growth Weapon Selection Box x1{nl} - Growth Weapon +11 Enchantment Voucher x1{nl} - Growth Weapon Stage 5 Transcendence Voucher x1{nl} - Challenge Mode One Entry Voucher x30{nl} - Instanced Dungeon Multiplier Token x40{nl} - Instanced Dungeon Reset Voucher x20{nl}	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 레전드 성장 무기상자{nl} - 성장 무기 +11 강화권{nl} - 성장 무기 +5 초월권{nl} - 챌린지 모드 1회 입장권 30개{nl} - 인던 배수토큰 40개{nl} - 인던 초기화권 20개{nl}
+ETC_20191024_043263	Ausurine's Power Leveling Package	점핑 패키지
+ETC_20191024_043264	Right-click to use and obtain the following items.{nl} - Lv. 400 EXP Card x1{nl} - Class EXP Card Box x1{nl} - Character Slot Voucher x1{nl} - Legend Card (Demon Lord) Envelope{nl} - 1,000 Attribute Points Ticket x5{nl} - Raid Portal Stone x30{nl}	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 캐릭터 경험치 카드 (400레벨){nl} - 클래스 경험치 카드 상자{nl} - 캐릭터 슬롯 추가 이용권{nl} - 레전드 카드(마군주) 봉투{nl} - 특성 포인트 1,000 5개{nl} - 레이드 포탈 스톤 30개{nl}
+ETC_20191024_043265	SPR {img green_up_arrow 16 16} 35{nl}HP {img green_up_arrow 16 16} 52	정신 {img green_up_arrow 16 16} 35{nl}체력 {img green_up_arrow 16 16} 52
+ETC_20191024_043266	Healing {img green_up_arrow 16 16} 357	치유력 {img green_up_arrow 16 16} 357
+ETC_20191024_043267	Aqkrova{nl}Creates a red magic circle. Increases the damage of allies within the range of the circle by +30% and recovers their HP in amounts equal to 0.1% of their attack(cannot be stacked, Duration: 10 seconds){nl}Reduces damage received by caster by -50% (Duration: 100 seconds, cannot be removed){nl} {nl}Dragon Strength Lv. 1{nl}- Ally damage increase is boosted to +50%	앱크로바{nl} 붉은색 마법진이 펼쳐집니다. 해당 마법진 위에있는 아군의 대미지 30% 증가 공격시 대미지의 0.1%만큼 체력 회복(중복 적용 불가, 10초 지속){nl}시전자의 최종 대미지 50% 감소 (100초 지속, 제거 불가){nl} {nl}드래곤의 기운 1단계 효과{nl} - 아군의 대미지 증가 50%로 변경됩니다.
+ETC_20191024_043268	Physical Attack {img green_up_arrow 16 16} 257{nl}Magic Attack {img green_up_arrow 16 16} 257	물리 공격력 {img green_up_arrow 16 16} 257{nl}마법 공격력 {img green_up_arrow 16 16} 257
+ETC_20191024_043269	Attack against Medium-type Monsters {img green_up_arrow 16 16} 571	중형 대상 공격력 {img green_up_arrow 16 16} 571
+ETC_20191024_043270	Physical Defense {img green_up_arrow 16 16} 1300	물리 방어력  {img green_up_arrow 16 16} 1300
+ETC_20191024_043271	Magic Defense {img green_up_arrow 16 16} 1300	마법 방어력  {img green_up_arrow 16 16} 1300
+ETC_20191024_043272	Atagal{nl}Deals damage equal to the DEF value of your shield when attacked. (Duration: 50 seconds, Cooldown: 100 seconds){nl}Dragon Strength Lv. 1{nl}- Physical damage increased to 160% of shield's DEF value.	아트갈{nl} 피격시 방패 방어력 만큼 물리 대미지로 돌려줍니다. (버프 지속시간 50초, 재사용 대기시간 100초) {nl}드래곤의 기운 1단계 효과{nl} - 물리 대미지가 방패 방어력의 160%로 늘어납니다.
+ETC_20191024_043273	DEX {img green_up_arrow 16 16} 37{nl}SPR {img green_up_arrow 16 16} 37 	민첩 {img green_up_arrow 16 16} 37{nl} 정신 {img green_up_arrow 16 16} 37 
+ETC_20191024_043274	Critical Attack {img green_up_arrow 16 16} 1072	치명타 공격력  {img green_up_arrow 16 16} 1072
+ETC_20191024_043275	Ataka{nl}- Continuous effect: Deals equal damage split between the number of enemies nearby within a range of 60 (max. 10 enemies, cooldown of 8 seconds) when a critical hit occurs.{nl} {nl}Dragon Strength Lv. 1- Increases the damage effect by 100%	아타카{nl} - 상시 적용되며 치명타 발생시 자신의 주변 60 범위 이내의 적 10명에게 입힌 대미지 1/대상수 만큼의 대미지를 줍니다. (재사용 대기 시간: 8초){nl} {nl}드래곤의 기운 1단계 효과 - 주는 대미지가 100% 증가합니다.
+ETC_20191024_043276	STR {img green_up_arrow 16 16} 37{nl}INT {img green_up_arrow 16 16} 37 	힘 {img green_up_arrow 16 16} 37{nl} 지능 {img green_up_arrow 16 16} 37 
+ETC_20191024_043277	Critical Rate {img green_up_arrow 16 16} 52	치명타 발생  {img green_up_arrow 16 16} 52
+ETC_20191024_043278	Proverbs{nl}- The max. damage cap is increased to 4,000,000 on use. Deals additional damage equal to 20% of your damage if the damage is over 999,999. (Duration: 25 seconds, Cooldown: 100 seconds){nl}- Dragon Strength Lv. 1{nl}- Additional damage dealt increases to 30%	프로버스{nl} - 사용시 최대 대미지 상한이 4,000,000으로 증가합니다. 또한 대미지가 999,999를 넘으면 가한 대미지의 20%만큼 추가대미지를 줍니다.(버프 지속시간: 25초, 재사용 대기시간 100초){nl} - 드래곤의 기운 1단계 효과{nl} - 추가 대미지가 30%로 증가합니다.
+ETC_20191024_043279	SPR {img green_up_arrow 16 16} 65	정신 {img green_up_arrow 16 16} 65
+ETC_20191024_043280	SPR {img green_up_arrow 16 16} 72	정신  {img green_up_arrow 16 16} 72
+ETC_20191024_043281	Liris{nl}- Grants a Liris buff on summons. Liris buff provides additional damage equal to damage from the summon's attack. (Duration: 30 seconds, Cooldown: 100 seconds){nl}- Dragon Strength Lv. 1{nl}- Duration increases by 15 seconds.	리리스{nl} - 리리스 사용시 현재 소환된 소환수에게 리리스 버프를 적용합니다. 리리스 버프는 공격한 대미지와 동일한 수치의 대미지로 적에게 추가 타격을 입힙니다.(버프 지속 시간 30초, 재사용 대기 시간 100초){nl} - 드래곤의 기운 1단계 효과{nl} - 지속시간이 15초 증가합니다.
+ETC_20191024_043282	Sewer Docks	지하수로 선착장
+ETC_20191024_043283	Misrus' Chamber	폐쇄구역
+ETC_20191024_043284	Sealed Passage	폐쇄된 연결 통로
+ETC_20191024_043285	Sewers Main Control Room	지하수로 시설 주 제어실
+ETC_20191024_043286	Sewers Sub Control Room	지하수로 시설 보조 제어실
+ETC_20191024_043287	Sewers Storage Warehouse	시설 관리 물자 창고 구역
+ETC_20191024_043288	Flower Bed E (Turquoise)	화단_05(청록색)
+ETC_20191024_043289	Misrus Ball of Magic	머즈루스 마력 덩어리
+ETC_20191024_043290	PC Count 1	PC 카운트1
+ETC_20191024_043291	PC Count 2	PC 카운트2
+ETC_20191024_043292	Misrus Magic Crystal	머즈루스 마력 수정
+ETC_20191024_043293	Guild Hangout Manager (Male)	길드 아지트 관리인(남)
+ETC_20191024_043294	Complete 1st Advancement	1번째 전직 완료
+ETC_20191024_043295	Complete 3rd Advancement	3번째 전직 완료
+ETC_20191024_043296	Reach Lv. 420	레벨 420 달성
+ETC_20191024_043297	Enhancement (1)	강화(1)
+ETC_20191024_043298	Have your +6 equipment inspected by the Magic Association NPC	마법협회 NPC에게 인벤토리 내 6강 장비 검사
+ETC_20191024_043299	Have your Stage 3 equipment by the Magic Association NPC	마법협회 NPC에게 인벤토리 내 3초월 장비 검사
+ETC_20191024_043300	Have your +11 Stage 8 equipment inspected by the Magic Association NPC	마법협회 NPC에게 인벤토리 내 11강, 8초월 장비 검사
+ETC_20191024_043301	Enhancement (2)	강화(2)
+ETC_20191024_043302	Enhance a Gem or a Monster Card over 10 times during the Tour: The number of items used in the enhancement will be counted towards the mission.	투어 기간 중 카드 및 젬 강화 통합 10회 이상 진행:젬 강화 또는 카드 강화 시에 여러 아이템을 넣을 경우, 넣은 수 만큼 진행도에 더해집니다.
+ETC_20191024_043303	Have your 10-Star Monster Card or 8-Star Gem inspected by the Magic Association NPC	마법협회 NPC에게 인벤토리 내 10성 카드 및 8성 젬 검사
+ETC_20191024_043304	Remove socket from an equipment of Lv. 390 or above 7 times	390 레벨 이상 장비의 소켓 7회 해제
+ETC_20191024_043305	Battle (1)	전투(1)
+ETC_20191024_043306	Complete a Level Dungeon or Mercenary Post Mission 3 times during the Tour: Using a Multiplier Token counts towards the mission.	투어 기간 중 인던 또는 미션 3회 클리어:배수 토큰 사용 시, 커진 배수만큼 클리어 횟수도 인정됩니다.
+ETC_20191024_043307	Complete a Level Dungeon or Mercenary Post Mission 40 times during the Tour: Using a Multiplier Token counts towards the mission.	투어 기간 중 인던 또는 미션 40회 클리어:배수 토큰 사용 시, 커진 배수만큼 클리어 횟수도 인정됩니다.
+ETC_20191024_043308	Complete a Level Dungeon or Mercenary Post Mission 100 times during the Tour: Using a Multiplier Token counts towards the mission.	투어 기간 중 인던 또는 미션 100회 클리어:배수 토큰 사용 시, 커진 배수만큼 클리어 횟수도 인정됩니다.
+ETC_20191024_043309	Battle (2)	전투(2)
+ETC_20191024_043310	Complete Saalus Convent Mission 5 times during the Tour	투어 기간 중 살러스 수녀원 던전 5회 클리어
+ETC_20191024_043311	Participate in Team Battle League 10 times during the Tour: Your participation will be counted when TBL ranks are announced.	투어 기간 중 팀 배틀 리그 10회 진행:팀 배틀리그 순위를 발표할 때 진행도에 더해집니다.
+ETC_20191024_043312	Become an MVP in Gemstone Feud once during the Tour	투어 기간 중 수정광산 MVP 1회 달성
+ETC_20191024_043313	Cooperation (1)	협동(1)
+ETC_20191024_043314	Complete Uphill Defense at any difficulty 3 times during the Tour: You do not need to complete up to 15 stages for your mission to count.	투어 기간 중 업힐 디펜스 난이도 무관 3회 클리어:15단계까지 클리어 못해도 포인트를 획득하고 진행 횟수가 차감되면 클리어로 인정됩니다.
+ETC_20191024_043315	Complete Uphill Defense at any difficulty 8 times during the Tour: You do not need to complete up to 15 stages for your mission to count.	투어 기간 중 업힐 디펜스 난이도 무관 8회 클리어:15단계까지 클리어 못해도 포인트를 획득하고 진행 횟수가 차감되면 클리어로 인정됩니다.
+ETC_20191024_043316	Complete Uphill Defense at any Very Hard difficulty 5 times during the Tour: You do not need to complete up to 15 stages for your mission to count.	투어 기간 중 업힐 디펜스 매우 어려움 난이도 5회 클리어:15단계까지 클리어 못해도 포인트를 획득하고 진행 횟수가 차감되면 클리어로 인정됩니다.
+ETC_20191024_043317	Cooperation (2)	협동(2)
+ETC_20191024_043318	Complete a Unique Raid 3 times during the Tour	투어 기간 중 유니크 레이드 3회 클리어
+ETC_20191024_043319	Complete a Unique Raid 8 times during the Tour	투어 기간 중 유니크 레이드 8회 클리어
+ETC_20191024_043320	Complete a Legend Raid 5 times during the Tour	투어 기간 중 레전드 레이드 5회 클리어
+ETC_20191024_043321	Complete Challenge Mode Stage 5 during the Tour	투어 기간 중 챌린지 모드 5단계 클리어
+ETC_20191024_043322	Complete Challenge Mode Stage 7 during the Tour	투어 기간 중 챌린지 모드 7단계 클리어
+ETC_20191024_043323	Complete Remnants of Bernice to Stage 40 during the Tour	투어 기간 중 베르니케의 파편 40단계 클리어
+ETC_20191024_043324	Adventure (1)	모험(1)
+ETC_20191024_043325	Complete a specific quest (refer to tooltip): Mysterious Slate (2)	특정 퀘스트를 클리어(툴팁 참고):정체불명의 석판(2)
+ETC_20191024_043326	Complete a specific quest (refer to tooltip): Mysterious Slate (2){nl}The Hidden Sanctum's Revelation (1){nl}To Gateway of the Great King	특정 퀘스트를 클리어(툴팁 참고):정체불명의 석판(2){nl}숨겨진 성소의 계시(1){nl}대왕의 관문으로
+ETC_20191024_043327	Complete a specific quest (refer to tooltip): Mysterious Slate (2){nl}The Hidden Sanctum's Revelation (1){nl}To Gateway of the Great King{nl}The King of the Great Humans{nl}Goddess Gabija{nl}The Bishop's Last Mission (2){nl}Revelations of Forest of the Land{nl}Revelation of Kalejimas{nl}The Final Battle (6)	특정 퀘스트를 클리어(툴팁 참고):정체불명의 석판(2){nl}숨겨진 성소의 계시(1){nl}대왕의 관문으로{nl}위대한 인간의 왕{nl}여신 가비야{nl}주교의 마지막 사명(2){nl}대지의 요새 계시{nl}칼레이마스의 계시{nl}저항의 결착(6)
+ETC_20191024_043328	Adventure (2)	모험(2)
+ETC_20191024_043329	Explore a map 100% 20 times	맵 탐사율 100% 20회 달성
+ETC_20191024_043330	Complete over 30 Collections	컬렉션 30개 이상 완성
+ETC_20191024_043331	Explore a map 100% 50 times, complete over 50 Collections	맵 탐사율 100% 50회 달성, 컬렉션 50개 이상 완성
+ETC_20191024_043332	Livelihood (1)	생활(1)
+ETC_20191024_043333	Use a Goddess Statue 3 times during Tour (refer to tooltip): Only applies to Ausurine and Vakarine Goddess Statues.	투어 기간 중 여신상 사용 3회 진행(툴팁 참고):여신 아우슈리네 상과 여신 바카리네의 상만 해당합니다.
+ETC_20191024_043334	Repair equipment 100 times through the town's blacksmith: Each of the items that are repaired will be counted towards the mission when using the repair all function.	투어 기간 중 마을 대장장이에게 장비 수리 100회 진행:전체 수리를 할 경우, 수리한 장비 수만큼 진행도에 더해집니다.
+ETC_20191024_043335	Find all Goddess Statues on the map (refer to tooltip): Only applies to Ausurine and Vakarine Goddess Statues.	모든 맵 여신상 100% 달성(툴팁 참고):여신 아우슈리네 상과 여신 바카리네의 상만 해당합니다.
+ETC_20191024_043336	Livelihood (2)	생활(2)
+ETC_20191024_043337	Purchase an item on the Market during the Tour	투어 기간 중 마켓에서 아이템 구매 1회 진행
+ETC_20191024_043338	Purchase Soul Crystal x20 from the TP Shop during the Tour: You can earn 1 TP every 2 hours by connecting to the game daily.	투어 기간 중 TP샵에서 소울 크리스탈 20개 구입:매일 접속 2시간 간격으로 1TP를 얻을 수 있습니다.
+ETC_20191024_043339	Fish successfully 300 times	낚시 성공 300회 달성
+ETC_20191024_043340	Craft Mystic Tome	신비한 서 제작
+ETC_20191024_043341	Dismantle Mystic Tome	신비한 서 분해
+ETC_20191024_043342	Receive Kedora Merchant Support Selection Box	케도라 상단의 지원 선택 상자 수령
+ETC_20191024_043343	Enter Former Fantasy Library: Sausis Room 9 (Solo)	과거 환상도서관 : 사우시스 9 관 진입(1인)
+ETC_20191024_043344	Enter Former Fantasy Library: Sausis Room 9 (5 member party)	과거 환상도서관 : 사우시스 9 관 진입(5인)
+ETC_20191024_043345	Enter Asiomage Testing Grounds Solo	아시오 메이지의 실험실 진입 1인
+ETC_20191024_043346	Enter Asiomage Testing Grounds with a 5 member party	아시오 메이지의 실험실 진입 5인
+ETC_20191024_043347	Participate in Stamp Tour	스탬프 투어에 참가한다
+ETC_20191024_043348	Learn about Stamp Tour	스탬프 투어 문의
+ETC_20191024_043349	Klaipeda Sewers Gimmick	클라페다 지하수로 기믹
+ETC_20191024_043350	Max. Damage	최대 대미지
+ETC_20191024_043351	Damage that can go over max. damage	최대 대미지에서 오버될 수 있는 대미지
+ETC_20191024_043352	Grimoire Monster EXP Rate	트켓몬 경험치율
+ETC_20191024_043353	Max. Number of Grimoire Monsters	트켓몬 최대 보유 수
+ETC_20191024_043354	Rate for exchanging Guild Mileage to Contribution Points	길드 마일리지를 기여도로 전환 비율
+ETC_20191024_043355	Rate for exchanging Contribution Points to Guild Mileage	기여도를 길드 마일리지로 전환 비율
+ETC_20191024_043356	Rate for exchanging Guild Mileage to Housing Points	길드 마일리지를 하우징 포인트로 전환 비율
+ETC_20191024_043357	Attribute Points earned when clearing a Legend Raid	레전드 레이드 클리어시 지급 특성 포인트
+ETC_20191024_043358	Attribute Points earned when clearing the Uphill Defense Mission	업힐 디펜스 클리어시 지급 특성 포인트
+ETC_20191024_043359	Attribute Points earned when clearing the Saalus Convent Mission	살러스 수녀원 클리어시 지급 특성 포인트
+ETC_20191024_043360	Attribute Points earned when completing Daily Quests	일일 퀘스트 클리어시 지급 특성 포인트
+ETC_20191024_043361	World Event Click Delay	월드 이벤트 클릭 딜레이
+ETC_20191024_043362	Check Allocated Space per Level	레벨 별 배치 가능 공간 확인용
+ETC_20191024_043363	Recipe - Moringponia Crown	제작서-모링포니아 왕관
+ETC_20191024_043364	Recipe - Misrus Chain	제작서 - 머즈루스 사슬
+ETC_20191024_043365	Recipe - Misrus Sword	제작서 - 머즈루스 소드
+ETC_20191024_043366	Recipe - Misrus Two-handed Sword	제작서 - 머즈루스 투 핸드 소드
+ETC_20191024_043367	Recipe - Misrus Rod	제작서 - 머즈루스 로드
+ETC_20191024_043368	Recipe - Misrus Bow	제작서 - 머즈루스 보우
+ETC_20191024_043369	Recipe - Misrus Crossbow	제작서 - 머즈루스 크로스보우
+ETC_20191024_043370	Recipe - Misrus Mace	제작서 - 머즈루스 메이스
+ETC_20191024_043371	Recipe - Misrus Two-handed Mace	제작서 - 머즈루스 투 핸드 메이스
+ETC_20191024_043372	Recipe - Misrus Shield	제작서 - 머즈루스 실드
+ETC_20191024_043373	Recipe - Misrus Spear	제작서 - 머즈루스 스피어
+ETC_20191024_043374	Recipe - Misrus Pike	제작서 - 머즈루스 파이크
+ETC_20191024_043375	Recipe - Misrus Dagger	제작서 - 머즈루스 대거
+ETC_20191024_043376	Recipe - Misrus Staff	제작서 - 머즈루스 스태프
+ETC_20191024_043377	Recipe - Misrus Pistol	제작서 - 머즈루스 피스톨
+ETC_20191024_043378	Recipe - Misrus Rapier	제작서 - 머즈루스 레이피어
+ETC_20191024_043379	Recipe - Misrus Cannon	제작서 - 머즈루스 캐논
+ETC_20191024_043380	Recipe - Misrus Musket	제작서 - 머즈루스 머스킷
+ETC_20191024_043381	Recipe - Misrus Plate Armor	제작서 - 머즈루스 플레이트 아머
+ETC_20191024_043382	Recipe - Misrus Robe	제작서 - 머즈루스 로브
+ETC_20191024_043383	Recipe - Misrus Leather Armor	제작서 - 머즈루스 레더 아머
+ETC_20191024_043384	Recipe - Misrus Plate Pants	제작서 - 머즈루스 플레이트 팬츠
+ETC_20191024_043385	Recipe - Misrus Pants	제작서 - 머즈루스 팬츠
+ETC_20191024_043386	Recipe - Misrus Leather Pants	제작서 - 머즈루스 레더 팬츠
+ETC_20191024_043387	Recipe - Misrus Greaves	제작서 - 머즈루스 그리브
+ETC_20191024_043388	Recipe - Misrus Boots	제작서 - 머즈루스 부츠
+ETC_20191024_043389	Recipe - Misrus Leather Boots	제작서 - 머즈루스 레더 부츠
+ETC_20191024_043390	Recipe - Misrus Gauntlets	제작서 - 머즈루스 플레이트 건틀릿
+ETC_20191024_043391	Recipe - Misrus Gloves	제작서 - 머즈루스 글로브
+ETC_20191024_043392	Recipe - Misrus Leather Gloves	제작서 - 머즈루스 레더 글로브
+ETC_20191024_043393	/fragment	/조각
+ETC_20191024_043394	/grimoire	/그리모어
+ETC_20191024_043395	Cannot connect to the chat server. If the problem persists, please check to see if your Network port is open.	채팅 서버에 연결할 수 없습니다 문제가 지속된다면, 응답 Network port의 가용 여부를 확인해주시기 바랍니다.
+ETC_20191024_043396	Cannot load chat server info. Please enquire with the customer service if the problem persists.	채팅 서버정보를 로드할 수 없습니다. 재 접속 이후에도 문제 발생시 게임 고객센터에 문의해주세요.
+ETC_20191024_043397	{#fe7e00}This Gem has not been roasted.{/}{nl}Really equip this gem?{nl}Please type the number [0000] to equip the Gem.	{#fe7e00}로스팅 되지 않은 젬입니다.{/}{nl}정말 장착하시겠습니까?{nl}장착하시려면 숫자 [0000] 을 입력해주세요.
+ETC_20191024_043398	Select the item to imbue with Set Bonus Stats	세트 옵션을 부여할 아이템을 등록해주세요
+ETC_20191024_043399	Use to reset all Arts and Attributes learned for this class and refunded as Attribute Points and [Reward] Unidentified Mystic Tomes.{nl}Proceed?	사용시 해당 직업의 모든 아츠 특성을 초기화 하며 특성 포인트 및 [보상용] 미식별 신비한 서 가 환급됩니다.{nl}계속 진행하시겠습니까?
+ETC_20191024_043400	You have not advanced into the selected Class.	해당 직업을 보유하고 있지 않습니다.
+ETC_20191024_043401	Use to reset all Attributes learned for this class and refunded as Attribute Points and [Reward] Unidentified Mystic Tomes.{nl}Proceed?	사용시 해당 특성을 초기화 하며 특성 포인트 및 [보상용] 미식별 신비한 서 가 환급됩니다.{nl}계속 진행하시겠습니까?
+ETC_20191024_043402	Unavailable in this area.	현재 지역에서는 사용이 불가능 합니다.
+ETC_20191024_043403	Cannot be used due to Class restriction.	사용할 수 없는 직업입니다.
+ETC_20191024_043404	Can only be used in towns.	마을에서만 가능합니다.
+ETC_20191024_043405	Items that cannot be transferred via Team Storage cannot be equipped on a Companion.	팀 창고 이동이 불가능한 아이템은 컴패니언에게 착용시킬 수 없습니다.
+ETC_20191024_043406	Evolution Grade	진화등급순
+ETC_20191024_043407	Cannot warp or end the game while feeding a Companion.	컴패니언 먹이주기 중 워프하거나 게임을 종료할 수 없습니다.
+ETC_20191024_043408	Place the item you want to add Set Bonus Stats to.	옵션을 부여할 아이템을 등록해주세요.
+ETC_20191024_043409	The item already has that Set Stat.	이미 적용된 옵션입니다.
+ETC_20191024_043410	Cannot be dismantled because you have too many [{Name}] in the inventory.	인벤토리에 [{Name}]이(가) 가득 차서 분해할 수 없습니다.
+ETC_20191024_043411	{#ffc500}{s14}Item filtering applied	{#ffc500}{s14}아이템 필터링 옵션 적용중
+ETC_20191024_043412	Cloth Mastery: Master Tailor	천 마스터리: 재봉 장인 적용중
+ETC_20191024_043413	Leather Mastery: Master Craftsman	가죽 마스터리: 세공 장인 적용중
+ETC_20191024_043414	Plate Mastery: Master Smelter	판금 마스터리: 제련 장인 적용중
+ETC_20191024_043415	Applied Earth Tower One Entry Voucher	대지의 탑 1회 입장권이 적용되었습니다
+ETC_20191024_043416	Can only be used if one or more Earth Tower entries have been consumed.	대지의 탑 주간 입장 횟수가 1 이상일 때만 사용 가능합니다
+ETC_20191024_043417	{JOB} Class: Adopt {COMPANION}	{JOB} 클래스 혜택 : {COMPANION} 분양 받기
+ETC_20191024_043418	Attendance Reward: Obtained [The ARTS] Class Change Voucher Lv. 3 (1 Day)	접속 보상 : [The ARTS] 클래스 변경권 Lv.3 (1일)을 획득했습니다
+ETC_20191024_043419	Login Time: {MIN} min{nl}Obtained [The ARTS] Class Change Voucher Lv. 3 (1 Day)	접속 시간 : {MIN}분{nl}[The ARTS] 클래스 변경권 Lv.3 (1일)을 획득했습니다
+ETC_20191024_043420	You have received the Kedora Merchant Support Selection Box	케도라 상단의 지원 선택 상자를 획득했습니다.
+ETC_20191024_043421	 Receive Kedora Merchant Support Selection Box	 케도라 상단의 지원 선택 상자 수령
+ETC_20191024_043422	The Supply Device in the Sewer Docks has been activated.{nl}You must acquire the Magical Charm from the Supply Device in the Sewer Docks{nl}to be able to attack the Coward Chesha due to appear in 3 minutes time.	지하수로 선착장에 있는 특별한 보급 장치가 활성화 되었습니다.{nl}3분 뒤 나타날 겁쟁이 체샤를 공격하기 위해선 지하수로 선착장에 있는{nl}특별한 보급 장치에서 마력이 깃든 팔찌를 얻어야 합니다.
+ETC_20191024_043423	Used the scroll.{nl}Damage dealt against Misrus increases.	보급품을 사용하였습니다.{nl}머즈루스에게 가하는 대미지가 증가합니다.
+ETC_20191024_043424	You hear loud approaching footsteps.{nl}It seems the Coward Chesha has almost arrived at the sewers.	다가오는 소리가 점점 크게 들립니다.{nl}겁쟁이 체샤가 지하수로에 가까워진듯 합니다.
+ETC_20191024_043425	Special Supply Device	특별한 보급 장치
+ETC_20191024_043426	Used the scroll.{nl}Damage received from Misrus decreases.	보급품을 사용하였습니다.{nl}머즈루스에게 받는 대미지가 감소합니다.
+ETC_20191024_043427	Used the scroll.{nl}Damage received from Misrus will be nullified to a certain amount.	보급품을 사용하였습니다.{nl}머즈루스에게 받는 대미지를 일정치 무효화합니다.
+ETC_20191024_043428	Go to the location where the Coward Chesha appears.	겁쟁이 체샤가 나타나는 장소로 이동한다.
+ETC_20191024_043429	Misrus is crying out in pain due to the device being activated.	장치가 작동하여 머즈루스가 괴로워 합니다.
+ETC_20191024_043430	Misrus Suppression Device	머즈루스 제압 장치
+ETC_20191024_043431	Using Misrus Suppression Device	머즈루스 제압 장치 사용 중
+ETC_20191024_043432	60 seconds remaining until Coward Chesha arrives.	겁쟁이 체샤가 지하수로에 도착하기까지 60초 남았습니다.
+ETC_20191024_043433	Device used for entering Misrus' Chamber.{nl}You have {#ff0000}{COUNT}{/} tries remaining this week.{nl}Your entry will be counted only after acquiring the reward after defeating the boss.{nl}Enter?{nl}{#ff0000}※	폐쇄구역에 들어가기 위한 장치입니다.{nl}이번주의 남은 이용 횟수는 {#ff0000}{COUNT} 회{/} 입니다.{nl}보스처치 후 클리어 보상 획득 시 이용 횟수가 차감됩니다.{nl}입장하시겠습니까?{nl}{#ff0000}※
+ETC_20191024_043434	 bosses.{nl}	 보스처치와 횟수를 공유합니다.{nl}
+ETC_20191024_043435	Please select the difficulty.{nl}※ Scroll Device Effect{nl}1. Attack +1200 per stack, max. 4 stacks{nl}2. Defense +1500 per stack, max. 4 stacks{nl}3. Shield +25000 per stack, max. 4 stacks{nl}{#ff0000}The effects of the buff is halved with the Hard difficulty.{/}	난이도를 선택해주세요.{nl}※보급품 이용 장치 효과{nl}1. 중첩당 공격력 1200 증가 최대 4 중첩 가능{nl}2. 중첩당 방어력 1500 증가, 최대 4 중첩 가능{nl}3. 중첩당 대미지를 대신 받는 실드 25000 획득, 최대 4중첩 가능{nl}{#ff0000}어려움 난이도에서는 버프의 증가되는 효과가 반으로 줄어듭니다.{/}
+ETC_20191024_043436	120 seconds remaining until Coward Chesha arrives.	겁쟁이 체샤가 지하수로에 도착하기까지 120초 남았습니다.
+ETC_20191024_043437	30 seconds remaining until Coward Chesha arrives.	겁쟁이 체샤가 지하수로에 도착하기까지 30초 남았습니다.
+ETC_20191024_043438	Use the device.	장치를 사용한다.
+ETC_20191024_043439	Do not use the device.	장치를 사용하지 않는다.
+ETC_20191024_043440	Misrus has created a Psychokinetic crystal.{nl}You must destroy it before it is activated.	머즈루스가 염력 결정을 생성했습니다.{nl}염력 결정이 활성화되기 전에 파괴해야 합니다.
+ETC_20191024_043441	Time until the player-tracking Psychokinesis activates	계시자 추적 염력 활성화까지
+ETC_20191024_043442	Time until Misrus recovery Psychokinesis activates	머즈루스 회복 염력 활성화까지
+ETC_20191024_043443	You already have a Red Scroll.	이미 붉은색 보급품을 소지하고 있습니다.
+ETC_20191024_043444	You have obtained a total of {@st66d_y}{s18}{GET}{/}{/} fragments today.{nl}You can still obtain {@st66d_y}{s18}{REMAIN}{/}{/} fragments for the day.{nl}Fragments earned are counted on a Team basis{nl}and is reset 00:00 AM EST daily	오늘 조각을 총 {@st66d_y}{s18}{GET}{/}{/}개 획득하였습니다.{nl}{@st66d_y}{s18}{REMAIN}{/}{/}개의 조각을더 획득할 수 있습니다.{nl}조각은 팀 단위로 획득할 수 있으며{nl}다음날 00시에 초기화 됩니다
+ETC_20191024_043445	Hand in Mini Moon	미니 보름달을 교환하여
+ETC_20191024_043446	Moonlight Shop	달맞이 상점
+ETC_20191024_043447	Receive Mini Moon	미니 보름달을 수령한다
+ETC_20191024_043448	Hand in Mini Moon	미니 보름달을 교환한다
+ETC_20191024_043449	Use the [Moonlight Shop]	[달맞이 상점]을 이용한다
+ETC_20191024_043450	{ITEM_NAME} [Remaining: {REMAIN}]	{ITEM_NAME} [교환 가능 : {REMAIN} 개]
+ETC_20191024_043451	[Event] Mini Moon Exchange	[이벤트] 미니 보름달 교환
+ETC_20191024_043452	You have not grown your Mini Moon big enough!{nl}Try using more {#003399}[Event] Full Moon Fragment{/} to grow your Mini Moon!{nl}{#003399}Mini Moon Level: {MOON_LV}{/}	아직 교환할 만큼 미니 보름달을 성장시키지 못 하셨네요!{nl}미니 보름달에 {#003399}[이벤트]보름달 조각{/}을 사용해서 더 성장시켜보세요!{nl}{#003399}미니 보름달의 레밸 : {MOON_LV}{/}
+ETC_20191024_043453	{PC_NAME}'s Mini Moon	{PC_NAME}의 미니 보름달
+ETC_20191024_043454	Grow your Mini Moon: Lv. {LV}	미니 보름달을 성장 시킨다 : Lv {LV}
+ETC_20191024_043455	[Event] Full Moon Fragment Gain	[이벤트] 보름달 조각 획득량 증가 효과
+ETC_20191024_043456	Attack/Defense increase	공격력/방어력 증가 효과
+ETC_20191024_043457	HP/SP Recovery increase	HP/SP 회복량 증가 효과
+ETC_20191024_043458	Looting Chance increase	루팅 찬스 증가 효과
+ETC_20191024_043459	Increase as much as you can	가능한 만큼 올린다
+ETC_20191024_043460	Increase level by 5	5 레벨을 올린다
+ETC_20191024_043461	Increase level by 4	4 레벨을 올린다
+ETC_20191024_043462	Increase level by 3	3 레벨을 올린다
+ETC_20191024_043463	Increase level by 2	2 레벨을 올린다
+ETC_20191024_043464	Increase level by 1	1 레벨을 올린다
+ETC_20191024_043465	You have used {COUNT} {#ff6d00}{ITEM_NAME}{/}{nl}to increase the level of your Mini Moon from {BF} to {AF}	{#ff6d00}{ITEM_NAME}{/}을 {COUNT}만큼 사용하여{nl}미니 보름달의 레벨을 {BF}에서 {AF}로 증가 시켰습니다
+ETC_20191024_043466	You have insufficient {#ff6d00}{ITEM_NAME}{/}.{nl}Current amount: {COUNT}	{#ff6d00}{ITEM_NAME}{/}이 부족합니다.{nl}현재 소지 수량 :  {COUNT}
+ETC_20191024_043467	Log-in Reward: Received {#ff6d00}{ITEM_NAME}{/} x{COUNT}	접속 보상 : {#ff6d00}{ITEM_NAME}{/}을 {COUNT}개 획득했습니다
+ETC_20191024_043468	Log-in Time: Obtained {#ff6d00}{ITEM_NAME}{/} x{COUNT}	접속 시간 : {#ff6d00}{ITEM_NAME}{/}을 {COUNT}개 획득했습니다
+ETC_20191024_043469	No need to hurry. There's still time!	아직 시간이 있으니 여유를 가지세요!
+ETC_20191024_043470	I'm always here.{nl}Please come visit again!	저는 항상 여기 있으니{nl}또 찾아와 주세요!
+ETC_20191024_043471	[In Use] Use the Large Moonlight Anvil	[사용 중]거대 달빛 모루를 이용한다
+ETC_20191024_043472	Use the Large Moonlight Anvil	거대 달빛 모루를 이용한다
+ETC_20191024_043473	Use the Moonlight Anvil	달빛 모루를 이용한다
+ETC_20191024_043474	Challenge [{COUNT}] times	[{COUNT}]번 도전 한다
+ETC_20191024_043475	Challenge once	1번 도전 한다
+ETC_20191024_043476	Begin in 30 seconds as there are people waiting!	다음 사람이 기다리니 30초 내에 진행해 주세요!
+ETC_20191024_043477	Please come back when you're done!	우선 다 끝내시고 돌아와주세요!
+ETC_20191024_043478	Swing harder!	좀 더 힘차게 휘두르세요!
+ETC_20191024_043479	You've won the garnd prize!{nl}Congratulations!!	대박 상품이 나왔습니다!{nl}축하드립니다!!
+ETC_20191024_043480	You've won a prize!{nl}Congratulations	이것도 꽤나 좋은 상품이군요!{nl}축하드립니다
+ETC_20191024_043481	Please try again tomorrow!	아쉽지만 내일 또 도전해주세요!
+ETC_20191024_043482	{nl}is starting the event!	님이{nl}이벤트를 시작합니다!
+ETC_20191024_043483	Please take a step back and cheer on!	모두 뒤로 물러나서 응원해주세요!
+ETC_20191024_043484	That was close.{nl}Please try again later!	너무 여유를 부리셨네요.{nl}다음에 또 도전해주세요!
+ETC_20191024_043485	You have obtained [Event] Full Moon Fragment x10,000 for the day.	하루 획득가능한 [이벤트]보름달 조각 10,000개를 모두 모았습니다.
+ETC_20191024_043486	Receive the highest effect	가장 높은 효과를 얻는다
+ETC_20191024_043487	Stage 5	5 단계
+ETC_20191024_043488	Stage 4	4 단계
+ETC_20191024_043489	Stage 3	3 단계
+ETC_20191024_043490	Stage 2	2 단계
+ETC_20191024_043491	Stage 1	1 단계
+ETC_20191024_043492	Used {#ff6d00}{ITEM_NAME}{/} x{COUNT}{nl}to recieve {BUFF} effect.	{#ff6d00}{ITEM_NAME}{/}을 {COUNT}만큼 사용하여{nl}{BUFF} 효과를 적용 받았습니다.
+ETC_20191024_043493	Cannot receive buffs that are lower level than your current buff.	적용중인 효과 보다 낮은 단계의 버프는 이용할 수 없습니다
+ETC_20191024_043494	Insufficient [Event] Full Moon Fragment.	[이벤트] 보름달 조각이 부족합니다.
+ETC_20191024_043495	{#FF0000}Ask to explain the event again{/}	{#FF0000}이벤트 설명을 다시 물어 본다{/}
+ETC_20191024_043496	Collected Souls: {COUNT} / 	수집된 영혼 : {COUNT} / 
+ETC_20191024_043497	You have collected the soul of the defeated monster{nl}Collected Souls: {COUNT} / {MAXCOUNT}	몬스터를 처치하여 영혼을 수집했습니다{nl}수집된 영혼 : {COUNT} / {MAXCOUNT}
+ETC_20191024_043498	Check eligible classes	추가 대상 클래스를 확인한다
+ETC_20191024_043499	Check the eligible classes for Arts reset	아츠 초기화 지원 대상 클래스를 확인한다
+ETC_20191024_043500	The Skiaclipse has cursed you!{nl}Quickly run to the Purification Altar to remove the curse!	스키아클립스가 당신에게 저주를 걸었습니다!{nl}빠른 시간 내에 정화의 제단에서 저주를 해제하세요!
+ETC_20191024_043501	Vine Walker lives again	바인 워커가 되살아납니다
+ETC_20191024_043502	Obtain daily Coin, Scroll	일일 무료 주화, 스크롤 획득
+ETC_20191024_043503	Trade in {#003399}[Event] Monster Selection Scroll{/}	{#003399}[이벤트] 몬스터 선택 스크롤{/} 교환
+ETC_20191024_043504	Enter {#003399}[Event] Remnants of Bernice Dungeon{/}	{#003399}[이벤트] 베르니케의 파편 던전{/} 입장
+ETC_20191024_043505	Come talk to me for a sec	잠깐 와서 얘기좀 하세
+ETC_20191024_043506	Talk to Elder Ramunas!	라무나스 장로와 대화를 진행하세요!
+ETC_20191024_043507	Enter Astral Tower Closed Quarters (Solo)	별의 탑 폐쇄 구역 진입(1인)
+ETC_20191024_043508	Enter Astral Tower Closed Quarters (5 member party)	별의 탑 폐쇄 구역 진입(5인)
+ETC_20191024_043509	Numbers gimmick will begin{nl}(Leaving the area forfeits you from participating in the gimmick)	숫자조합 기믹이 시작됩니다{nl}(해당 지역을 벗어날 경우, 숫자조합 기믹이 자동으로 포기됩니다)
+ETC_20191024_043510	How to Participate	이벤트 참여 방법
+ETC_20191024_043511	Enter [Event] Remnants of Bernice Dungeon	[이벤트] 베르니케의 파편 던전 입장하기
+ETC_20191024_043512	Learn about [Event] Remnants of Bernice Dungeon	[이벤트] 베르니케의 파편 던전 설명듣기
+ETC_20191024_043513	Flame Vapor	불꽃 증기
+ETC_20191024_043514	All characters have been reset during the [Re:Build] update on December 6, 2019.{nl}	2018년 12월 6일에 [Re:Build]업데이트로 모든 캐릭터가 초기화되었습니다.{nl}
+ETC_20191024_043515	Log-in with a different character and check your Market retrieve tab first.{nl}	이후 다른 캐릭터 접속시에도 마켓 보관함을 먼저 확인해 주시기 바랍니다.{nl}
+ETC_20191024_043516	received a divine aura	가 신성한 기운 효과를 얻었습니다
+ETC_20191024_043517	Enter Tomb of the White Crow: Unique (Solo)	흰 까마귀의 영면지: 유니크 진입(1인)
+ETC_20191024_043518	Enter Tomb of the White Crow: Unique (5 member party)	흰 까마귀의 영면지: 유니크 진입(5인)
+ETC_20191024_043519	The Grimoire Master	그리모어를 찢어라
+ETC_20191024_043520	Visible Talent Attack (Max. Damage!)	비지블 탤런트 공격 (최대 대미지 도달!)
+ETC_20191024_043521	Items have been transferred to your Market Retrieve tab.	아이템이 마켓 보관함으로 지급되었습니다.
+ETC_20191024_043522	You have {#ff0000}World Event Items{#000000} ready to be retrieved.{nl}You may retrieve it from the {#0000ff}[Market Retrieve Tab]{#000000}.	수령 가능한 {#ff0000}월드 이벤트 보상 아이템{#000000}이 있습니다.{nl}{#0000ff}[마켓 수령함]{#000000}에서 수령 가능합니다.
+ETC_20191024_043523	You have {#ff0000}Silver from World Event{#000000} ready to be retrieved.{nl}You may retrieve it from the {#0000ff}[Market Retrieve Tab]{#000000}.	수령 가능한 {#ff0000}월드 이벤트 보상 실버{#000000}가 있습니다.{nl}{#0000ff}[마켓 수령함]{#000000}에서 수령 가능합니다.
+ETC_20191024_043524	You can only plant crops on farm plots.	밭에서만 작물을 심을 수 있습니다.
+ETC_20191024_043525	[Status change available after {TIME}]	[{TIME} 후 상태 변경 가능]
+ETC_20191024_043526	Congratulations!{nl}{PC} has received {ITEM} by the Goddess' Grace!	축하드립니다!{nl}{PC} 님이 여신의 가호를 받아 {ITEM} 를 획득하셨습니다!
+ETC_20191024_043527	The Goddess' Grace event has begun!{nl}You can only participate in towns.{nl}The event may end prematurely when all Legend items are given away.	여신의 가호 이벤트가 시작되었습니다!{nl}마을에서 참여 가능합니다.{nl}레전드 아이템 소진 시 조기 종료될 수 있습니다
+ETC_20191024_043528	The Goddess' Grace event has ended!	여신의 가호 이벤트가 종료되었습니다!
+ETC_20191024_043529	An error occurred and the Goddess' Grace event has failed to initialize. We are sorry.	문제가 발생하여 여신의 가호 이벤트 시작에 실패했습니다. 죄송합니다.
+ETC_20191024_043530	The world boss has been defeated by the brave Saviors. Goddess' Grace event will begin in {TIME} seconds.{nl}Please return to a nearest town if you want to take part in the event.	월드 보스가 구원자들에 의해 쓰러졌습니다. {TIME}초 후 여신의 가호 이벤트가 시작됩니다.{nl}참여를 원하시는 구원자분들은 마을로 이동해 주시기 바랍니다.
+ETC_20191024_043531	Leave the Guild?{nl}    {nl}All Housing Items in your possession will be returned to the Guild Storage.	길드를 탈퇴하시겠습니까?{nl}    {nl}소지중인 하우징 물품들은 길드 보관함으로 반환 됩니다.
+ETC_20191024_043532	Obtained {value} Guild Contribution Points.	{value}의 길드 기여도를 획득했습니다.
+ETC_20191024_043533	The Guild Quest cannot be entered from the current location.	현재 맵에서는 시도중인 길드 퀘스트에 입장할 수 없습니다.
+ETC_20191024_043534	Grimoire Monster Duel Request	트켓몬 친선대결 신청
+ETC_20191024_043535	Enter [0000] to confirm.	[0000]입력 후 확인 가능합니다.
+ETC_20191024_043536	Enter Asiomage Testing Grounds (Solo)	아시오 메이지의 실험실 진입(1인)
+ETC_20191024_043537	Enter Asiomage Testing Grounds (5 member party)	아시오 메이지의 실험실 진입(5인)
+ETC_20191024_043538	Enter First Refuge (Solo)	첫 번째 피난처 진입(1인)
+ETC_20191024_043539	Enter First Refuge (5 member party)	첫 번째 피난처 진입(5인)
+ETC_20191024_043540	Enter Magic Research Facility (Solo)	마법 실험 구역 진입(1인)
+ETC_20191024_043541	Enter Magic Research Facility (5 member party)	마법 실험 구역 진입(5인)
+ETC_20191024_043542	I'll take care of it!	제가 해결하겠습니다!
+ETC_20191024_043543	Select a Mystic Tome	신비한 서를 선택하세요
+ETC_20191024_043544	Beginner	초심자
+ETC_20191024_043545	Novice	숙련자
+ETC_20191024_043546	Expert	전문가
+ETC_20191024_043547	Mission has been completed!{nl}Open your Stamp Journal to receive your reward!	미션이 완료됐습니다!{nl}지금 바로 스탬프 수첩을 열어 미션 보상을 받으세요!
+ETC_20191024_043548	Stamp Tour Guide	스탬프 투어 진행 안내
+ETC_20191024_043549	Inspect the item's Enhancement and Transcendence	아이템의 강화와 초월 상태를 검사
+ETC_20191024_043550	Magic Association Warp Support	마법 협회 워프 지원
+ETC_20191024_043551	Receive Reward for Hidden Mission	히든 미션 보상받기
+ETC_20191024_043552	Warp to the beginning of a Revelation Quest	계시 관련 퀘스트 시작 지점으로 이동
+ETC_20191024_043553	Warp to Raid Entrance	레이드 입장 지역으로 이동
+ETC_20191024_043554	Warp to Saalus Convent	살러스 수녀원으로 이동
+ETC_20191024_043555	Warp to Level Dungeon NPC	인던 입장 NPC로 이동
+ETC_20191024_043556	Warp to Fishing NPC	낚시 상점 NPC로 이동
+ETC_20191024_043557	Warp to Blacksmith	대장장이 NPC로 이동
+ETC_20191024_043558	Warp to TP Shop NPC	TP샵 NPC로 이동
+ETC_20191024_043559	Warp to Wings of Vaivora NPC	바이보라의 날개 NPC로 이동
+ETC_20191024_043560	Warp to Goddess Statue	여신상으로 이동
+ETC_20191024_043561	Warp to Market NPC	마켓 NPC로 이동
+ETC_20191024_043562	Revelation of Crystal Mine	수정 광산의 계시
+ETC_20191024_043563	Cannot warp due to level restriction or an incomplete quest.{nl}Please try again after increasing your level or completing more quests.	레벨 제한 또는 퀘스트 미 완료로 인해 이동하실 수 없습니다.{nl}레벨을 더 올려주시거나 일부 퀘스트를 클리어하고 다시 시도해주세요.
+ETC_20191024_043564	You've accomplished the hidden mission!{nl}Talk to the Magic Association NPC in Klaipeda or Orsha to claim your reward!	히든 미션의 목표를 달성했습니다!{nl}클라페다나 오르샤에 있는 마법협회 NPC와 대화해 보상을 받아 가세요!
+ETC_20191024_043565	The smll of {#FA3366}Delivery Savior{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}'s Pizza is spreading all across the world.{/}	{#FA3366}배달원{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}님의 피자 냄새가 느껴집니다.{/}
+ETC_20191024_043566	Pizza Buff (1 hr)	피자 버프 적용 (1시간)
+ETC_20191024_043567	Delivery Buff (24 hr)	배달원 버프 적용 (24시간)
+ETC_20191024_043568	{@st47}{s21}You are already receiving the Delivery Buff.{/}{/}{nl} {nl}Re-using the item{nl}{@st66d_y}does not extend the duration of your current Delivery Buff{/},{nl}and only the duration of the Pizza Buff is recharged to 1 hour.{nl} {nl}Still use the item?	{@st47}{s21}이미 배달원의 혜택을 적용받고 있습니다.{/}{/}{nl} {nl}아이템을 재사용할 경우{nl}배달원 버프의 {@st66d_y}추가 시간이 제공되지 않으며{/},{nl}피자 버프만 1시간으로 변경됩니다.{nl} {nl}그래도 적용하시겠습니까?
+ETC_20191024_043569	Choose [Check eligible classes] to receive support for Class balance changes.	[지원 대상 클래스를 확인한다]를 선택하시면 현재 구원자님의 클래스에 따라 지원 절차가 진행됩니다.
+ETC_20191024_043570	Cannot be used without Guild membership.	길드에 가입하지 않으면 사용할 수 없습니다.
+ETC_20191024_043571	Saved {Count} Guild Mileage.	길드 마일리지 {Count}을 적립 했습니다.
+ETC_20191024_043572	Cannot be used without Guild Membership.	길드에 소속되지 않아 사용이 불가능합니다
+ETC_20191024_043573	Sit on the bench	벤치에 앉기
+ETC_20191024_043574	Sit on the swing	그네 타기
+ETC_20191024_043575	Switch on	점등 하기
+ETC_20191024_043576	Switch off	소등 하기
+ETC_20191024_043577	Activate	작동 시키기
+ETC_20191024_043578	Stop	작동 중지하기
+ETC_20191024_043579	Sit on the first chair	1번 의자에 앉기
+ETC_20191024_043580	Sit on the second chair	2번 의자에 앉기
+ETC_20191024_043581	Sit on the mat	돗자리에 앉기
+ETC_20191024_043582	Upgrade	증축 하기
+ETC_20191024_043583	Use	이용 하기
+ETC_20191024_043584	Building	건설하는 중
+ETC_20191024_043585	Skip	스킵
+ETC_20191024_043586	Guild Shop	길드 상점
+ETC_20191024_043587	Housing Shop	하우징 상점
+ETC_20191024_043588	About expanding the Guild Hangout	길드 아지트 확장에 대해
+ETC_20191024_043589	No more objects can be placed.	더이상 배치할 수 없습니다
+ETC_20191024_043590	{s18}{#f8bb00}{ol}{Name} Lv. {Level}{/}{/}{/} Individual Activation will cost the following materials.{nl}{nl}Contribution Points: {s18}{@st66d_y}{Contribution}{/}{/}{nl}{nl}Proceed?	{s18}{#f8bb00}{ol}{Name} Lv.{Level}{/}{/}{/} 연구를 개인 활성화하여 버프를 받을 시 다음의 재화가 소비됩니다.{nl} {nl} 기여도 : {s18}{@st66d_y}{Contribution}{/}{/}{nl} {nl}활성화 하시겠습니까?
+ETC_20191024_043591	Objects cannot be placed at the current Hangout Expansion level	현재 아지트 확장 단계에서는 해당 물건을 배치할 수 없습니다
+ETC_20191024_043592	Solo Activation	개인 활성화
+ETC_20191024_043593	Group Activation	단체 활성화
+ETC_20191024_043594	{s18}{#f8bb00}{ol}{ApplyName}{/}{/} buff is currently active.{nl} {nl}{s18}{#f8bb00}{ol}{Name} Lv. {Level}{/}{/}{/} Individual Activation will cost the following materials and remove the currently activated buff.{nl} {nl}Contribution Points: {s18}{@st66d_y}{Contribution}{/}{/}{nl} {nl}Proceed?	현재 {s18}{#f8bb00}{ol}{ApplyName}{/}{/}{/} 버프가 적용중 입니다.{nl} {nl}{s18}{#f8bb00}{ol}{Name} Lv.{Level}{/}{/}{/}  연구를 개인 활성화하여 버프를 받을 시 현재 적용중인 버프가 사라지며, 다음의 재화가 소비됩니다.{nl} {nl} 기여도 : {s18}{@st66d_y}{Contribution}{/}{/}{nl} {nl}활성화 하시겠습니까?
+ETC_20191024_043595	{s18}{#f8bb00}{ol}{Name} Lv. {Level}{/}{/}{/} Group Activation will cost the following materials.{nl} {nl}Guild Funds: {s18}{@st66d_y}{Silver}{/}{/}{nl} {nl}Proceed?	{s18}{#f8bb00}{ol}{Name} Lv.{Level}{/}{/}{/} 연구를 단체 활성화하여 버프를 받을 시 다음의 재화가 소비됩니다.{nl} {nl} 길드 자금 : {s18}{@st66d_y}{Silver}{/}{/}{nl} {nl}활성화 하시겠습니까?
+ETC_20191024_043596	{s18}{#f8bb00}{ol}{ApplyName}{/}{/} buff is currently active.{nl} {nl}{s18}{#f8bb00}{ol}{Name} Lv. {Level}{/}{/}{/} Group Activation will cost the following materials and remove the currently activated buff.{nl} {nl}Guild Funds: {s18}{@st66d_y}{Silver}{/}{/}{nl} {nl}Proceed?	현재 {s18}{#f8bb00}{ol}{ApplyName}{/}{/}{/} 버프가 적용중 입니다.{nl} {nl}{s18}{#f8bb00}{ol}{Name} Lv.{Level}{/}{/}{/}  연구를 단체 활성화하여 버프를 받을 시 현재 적용중인 버프가 사라지며, 다음의 재화가 소비됩니다.{nl} {nl} 길드 자금 : {s18}{@st66d_y}{Silver}{/}{/}{nl} {nl}활성화 하시겠습니까?
+ETC_20191024_043597	You have received {#33FF33}{Name} Lv. {Level}{/} buff through Solo Activation{nl}(The buff does not take effect in a PvP area)	개인 활성화로 {#33FF33}{Name} {Level}단계{/} 버프를 받았습니다{nl}(PvP 지역에서는 해당 버프가 적용되지 않습니다)
+ETC_20191024_043598	You have received {#33FF33}{Name} Lv. {Level}{/} buff through Group Activation{nl}(The buff does not take effect in a PvP area)	단체 활성화로 {#33FF33}{Name} {Level}단계{/} 버프를 받았습니다{nl}(PvP 지역에서는 해당 버프가 적용되지 않습니다)
+ETC_20191024_043599	{#33FF33}You have received {Count} Guild Mileage by completing a game content.{nl}(Max. Weekly Mileage Earning: {NowCount}/{MaxCount}){/}	{#33FF33}특정 콘텐츠 이용으로 {Count}의 길드 마일리지를 획득했습니다.{nl}(주간 획득 가능한 길드 마일리지 : {NowCount}/{MaxCount}){/}
+ETC_20191024_043600	You have acquired {MaxCount} Guild Mileage, which is the maximum you can earn for the week	주간 획득 가능한 {MaxCount}의 길드 마일리지를 모두 획득했습니다
+ETC_20191024_043601	Pray	경배 하기
+ETC_20191024_043602	Guild Hangout has been expanded to Lv. {Level}!{nl}(Check your Guild Storage for newly stored items)	길드 아지트가 {Level}단계로 확장되었습니다!{nl}(길드 보관함에 지급된 아이템이 있으니 확인해 주세요)
+ETC_20191024_043603	Guild Hangout has been expanded to Lv. {Level}!	길드 아지트가 {Level}단계로 확장되었습니다!
+ETC_20191024_043604	Upgrade Lab	연구소 증축
+ETC_20191024_043605	Research	연구 강화
+ETC_20191024_043606	Remove Furniture	가구 제거
+ETC_20191024_043607	You cannot exit the Guild area because you are currently participating in a Guild Hangout Raid.	현재 길드 아지트 레이드에 참가중이므로 길드 외부로 나갈 수 없습니다
+ETC_20191024_043608	Current Contribution Points	보유 기여도
+ETC_20191024_043609	Contribution Cost	차감 예정 기여도
+ETC_20191024_043610	Remaining Contribution	예상 잔여 기여도
+ETC_20191024_043611	Cannot interact while [{Name}] buff is active	[{Name}] 버프가 적용중인 상태에서는 상호작용이 불가능합니다
+ETC_20191024_043612	{#33FF33}[{Name}]{/} has been upgraded to {#33FF33}[Lv. {Level}]{/} in the Guild Hangout	길드 아지트에서 {#33FF33}[{Name}]{/}가 {#33FF33}[{Level}단계]{/}로 증축되었습니다
+ETC_20191024_043613	{#33FF33}[{ResearchName}]{/} has been progressed to {#33FF33}[Lv. {Level}]{/} in the Guild Hangout	길드 아지트에서 {#33FF33}[{ResearchName}]{/} 연구가 {#33FF33}[{Level}레벨]{/}로 강화되었습니다
+ETC_20191024_043614	Research Group Activation	연구 단체 활성화
+ETC_20191024_043615	Successfully purchased Guild Housing Points	길드 하우징 포인트 구매에 성공했습니다
+ETC_20191024_043616	Can only be used in the Housing area.	하우징 영역에서만 사용 가능합니다.
+ETC_20191024_043617	Current Mileage	보유 마일리지
+ETC_20191024_043618	Deducted Mileage	차감 예정 마일리지
+ETC_20191024_043619	Remaining Mileage	예상 잔여 마일리지
+ETC_20191024_043620	Mileage	마일리지
+ETC_20191024_043621	{@st66d_y}{s20}{monName}{/}{/} will be registered. Proceed?	{@st66d_y}{s20}{monName}{/}{/} 몬스터가 등록됩니다. 획득하시겠습니까?
+ETC_20191024_043622	Evolution	진화
+ETC_20191024_043623	Fusion	합성
+ETC_20191024_043624	The Grimoire Master: Open UI	그리모어를 찢어라 : UI 열기
+ETC_20191024_043625	Please remove the generated monster from the slot.	먼저 생성된 몬스터를 슬롯에서 제거해주세요.
+ETC_20191024_043626	Can only be used with Monsters of identical Grade	동일한 등급의 몬스터만 가능합니다
+ETC_20191024_043627	Please try again later.	잠시 후에 시도해주세요.
+ETC_20191024_043628	You will obtain {#FF0000}{ol}{price}{/}{/} Coins by selling {monName}. Proceed?	{monName} 판매 시 주화 {#FF0000}{ol}{price}{/}{/}개를 획득합니다. 판매하시겠습니까?
+ETC_20191024_043629	You must complete the previous stage to proceed.	이전 구간을 클리어해야 진행할 수 있습니다.
+ETC_20191024_043630	Proceed to next stage	다음 구간 진행
+ETC_20191024_043631	End	종료하기
+ETC_20191024_043632	You must first register a monster.	몬스터를 먼저 등록해주세요.
+ETC_20191024_043633	Only identical monsters can be registered.	동일한 몬스터만 가능합니다.
+ETC_20191024_043634	Only monsters of identical Evolution Grade can be registered.	동일한 진화 등급의 몬스터만 가능합니다.
+ETC_20191024_043635	Doing so will consume {@st66d_y}{s20}{itemName}{/}{/}. Proceed?	{@st66d_y}{s20}{itemName}{/}{/}이 소모되며 취소할 수 없습니다. 소모하시겠습니까?
+ETC_20191024_043636	You must be at least Lv. 100 to participate.	100레벨부터 참여할 수 있습니다.
+ETC_20191024_043637	Stage {stage_first} ~ Stage {stage_last} [{section}]	Stage {stage_first} ~ Stage {stage_last} [{section}구간]
+ETC_20191024_043638	Insufficient [Event] Ancient Coins.	[이벤트] 고대 주화가 부족합니다.
+ETC_20191024_043639	Insufficient space.	공간이 부족합니다.
+ETC_20191024_043640	No selection has been made. Close?	선택한 목록이 없습니다. 닫으시겠습니까?
+ETC_20191024_043641	Give up?	포기하시겠습니까?
+ETC_20191024_043642	{@st66d_y}{s20}[Event] Ancient Coins{/}{/} will be issued shortly. If you return before they are issued, you can miss out on receiving the items.	곧 {@st66d_y}{s20}[이벤트] 고대 주화{/}{/}가 지급됩니다. 주화 지급 전 종료시 정상적으로 아이템이 지급되지 않을 수 있습니다.
+ETC_20191024_043643	This monster cannot be evolved.	진화가 불가능한 몬스터입니다.
+ETC_20191024_043644	The monster in the slot will acquire twice the EXP.	해당 슬롯의 몬스터는 두 배의 경험치를 획득합니다.
+ETC_20191024_043645	Item cannot be used because you do not have any [Event] Ancient Coins.	[이벤트]고대 주화를 보유하고 있지 않아 아이템 사용이 취소됩니다.
+ETC_20191024_043646	Place the object in a different place.	다른 곳에 배치해주세요.
+ETC_20191024_043647	The object cannot be placed on the chosen location.	배치 할 수 없는 물건입니다.
+ETC_20191024_043648	Cancelled furniture placement.	가구 배치를 취소하셨습니다.
+ETC_20191024_043649	Incorrect placement information.	배치 정보가 올바르지 않습니다.
+ETC_20191024_043650	Removing object. Please wait.	제거 중입니다. 잠시만 기다려주세요.
+ETC_20191024_043651	To expand your Guild Hangout to {s18}{#f8bb00}{ol}Lv. {LEVEL}{/}{/}{/}{nl}the following materials will be consumed.{nl}{nl}Guild Funds: {s18}{@st66d_y}{GUILD_MONEY}{/}{/}{nl}Guild Mileage: {s18}{@st66d_y}{GUILD_MILEAGE}{/}{/}{nl}{nl}Expand Guild Hangout?	길드 아지트를 {s18}{#f8bb00}{ol}{LEVEL}단계{/}{/}{/}로 확장하기 위해{nl}다음의 재화가 소비됩니다.{nl}{nl}길드 자금 : {s18}{@st66d_y}{GUILD_MONEY}{/}{/}{nl}길드 마일리지 : {s18}{@st66d_y}{GUILD_MILEAGE}{/}{/}{nl}{nl}길드 아지트를 확장하시겠습니까?
+ETC_20191024_043652	{@st59b}Weapons Lab{nl}{@st59s}Max. research level +5 every time the facility is upgraded{nl}Important{nl}1. Increasing the research level consumes Guild Funds.{nl}2. You can reap the benefits of your research either solo or for a group by clicking on corresponding the activation button to the right.{nl}3. Solo activation consumes Contribution Points and only 50% of the buff's effect is applied.{nl}4. Group activation consumes Guild Funds. 	{@st59b}무기 연구소{nl}{@st59s}연구소 증축 레벨당 연구 최대 Lv+5{nl}유의사항{nl}1. 연구 레벨업 시 일정량의 길드 자금이 소비됩니다.{nl}2. 우측의 개인, 단체 활성화 버튼을 통해 진행된 연구의 효과를 버프 형태로 받을 수 있습니다.{nl}3. 개인 활성화로 버프를 받을 시 일정량의 기여도가 소비되며, 연구 효과가 50%만 적용됩니다.{nl}4. 단체 활성화로 버프를 받을 시 일정량의 길드 자금이 소비됩니다. 
+ETC_20191024_043653	{@st59b}Armor Lab{nl}{@st59s}Max. research level +5 every time the facility is upgraded{nl}Important{nl}1. Increasing the research level consumes Guild Funds.{nl}2. You can reap the benefits of your research either solo or for a group by clicking on corresponding the activation button to the right.{nl}3. Solo activation consumes Contribution Points and only 50% of the buff's effect is applied.{nl}4. Group activation consumes Guild Funds. 	{@st59b}방어구 연구소{nl}{@st59s}연구소 증축 레벨당 연구 최대 Lv+5{nl}유의사항{nl}1. 연구 레벨업 시 일정량의 길드 자금이 소비됩니다.{nl}2. 우측의 개인, 단체 활성화 버튼을 통해 진행된 연구의 효과를 버프 형태로 받을 수 있습니다.{nl}3. 개인 활성화로 버프를 받을 시 일정량의 기여도가 소비되며, 연구 효과가 50%만 적용됩니다.{nl}4. 단체 활성화로 버프를 받을 시 일정량의 길드 자금이 소비됩니다. 
+ETC_20191024_043654	{@st59b}Property Lab{nl}{@st59s}Max. research level +5 every time the facility is upgraded{nl}Important{nl}1. Increasing the research level consumes Guild Funds.{nl}2. You can reap the benefits of your research either solo or for a group by clicking on corresponding the activation button to the right.{nl}3. Solo activation consumes Contribution Points and only 50% of the buff's effect is applied.{nl}4. Group activation consumes Guild Funds. 	{@st59b}속성 연구소{nl}{@st59s}연구소 증축 레벨당 연구 최대 Lv+5{nl}유의사항{nl}1. 연구 레벨업 시 일정량의 길드 자금이 소비됩니다.{nl}2. 우측의 개인, 단체 활성화 버튼을 통해 진행된 연구의 효과를 버프 형태로 받을 수 있습니다.{nl}3. 개인 활성화로 버프를 받을 시 일정량의 기여도가 소비되며, 연구 효과가 50%만 적용됩니다.{nl}4. 단체 활성화로 버프를 받을 시 일정량의 길드 자금이 소비됩니다. 
+ETC_20191024_043655	Weapons Research - Humanoid	특수 무기학 - 인간형
+ETC_20191024_043656	Cloth Armor - Functionality	천 방어구 - 기능
+ETC_20191024_043657	Leather Armor - Functionality	가죽 방어구 - 기능
+ETC_20191024_043658	Plate Armor - Functionality	판금 방어구 - 기능
+ETC_20191024_043659	Insufficient Mileage.	마일리지가 부족합니다.
+ETC_20191024_043660	The following materials will be consumed{nl}to enhance the level of{s18}{#f8bb00}{ol}{RESEARCH}{/}{/}{/} to {s18}{#f8bb00}{ol}{LEVEL}{/}{/}{/}.{nl}{nl}Guild Funds: {s18}{@st66d_y}{GUILD_MONEY}{/}{/}{nl}{nl}Proceed?	{s18}{#f8bb00}{ol}{RESEARCH}{/}{/}{/}연구를{nl}{s18}{#f8bb00}{ol}{LEVEL}단계{/}{/}{/}로 강화하기 위해{nl}다음의 재화가 소비됩니다.{nl}{nl}길드 자금 : {s18}{@st66d_y}{GUILD_MONEY}{/}{/}{nl}{nl}강화 하시겠습니까?
+ETC_20191024_043661	 You do not have the required authority.	 권한이 없습니다.
+ETC_20191024_043662	You already have that facility.	이미 배치되어 있는 연구소입니다.
+ETC_20191024_043663	Insufficient Contribution Points.	기여도가 부족합니다.
+ETC_20191024_043664	Cannot acquire any more Housing Points.	더 이상 하우징 포인트를 올릴 수 없습니다.
+ETC_20191024_043665	Remove housing item?{nl}{ol}{ds}{b}{s20}{FURNITURE}{/}{/}{/}{/}{nl}Current Guild Funds: {@st66d_y}{GUILD_MONEY}{/}{nl}Guild Funds Required: {ol}{s18}{#ec0000}{NEED_GUILD_MONEY}{/}{/}{/}{nl}You will no longer be able to use all related functions by removing the housing item and the removed item will be placed in the inventory.	철거 하시겠습니까?{nl}{ol}{ds}{b}{s20}{FURNITURE}{/}{/}{/}{/}{nl}소지 길드 자금 : {@st66d_y}{GUILD_MONEY}{/}{nl}소비 길드 자금 : {ol}{s18}{#ec0000}{NEED_GUILD_MONEY}{/}{/}{/}{nl}해당 하우징 물품을 철거하면 관련 기능을 이용할 수 없으며, 철거된 물품은 아이템 창으로 이동합니다.
+ETC_20191024_043666	Insufficient Housing Points	하우징 포인트가 부족합니다.
+ETC_20191024_043667	Cannot be sold because the maximum Housing Points will be exceeded.	하우징 포인트 최대치를 초과해 판매 할 수 없습니다.
+ETC_20191024_043668	That item cannot be sold to the NPC.	이 NPC에게 판매 할 수 없는 아이템입니다.
+ETC_20191024_043669	All crops planted on the plot will be removed.{nl}Really {ol}{@st66d_y} {WORD}{/}{/}?	논밭의 모든 작물이 제거됩니다.{nl}정말 {ol}{@st66d_y} {WORD}{/}{/}하시겠습니까?
+ETC_20191024_043670	The following materials will be consumed{nl}to upgrade the Guild Hangout to {s18}{#f8bb00}{ol}Lv. {LEVEL}{/}{/}{/}.{nl}{nl}Guild Funds: {s18}{@st66d_y}{GUILD_MONEY}{/}{/}{nl}Guild Mileage: {s18}{@st66d_y}{GUILD_MILEAGE}{/}{/}{nl}{nl}Proceed with the expansion?{nl}        {nl}{s18}{#ec0000}Warning: All sprouts will be removed from the Hangout.{/}{/}	길드 아지트를 {s18}{#f8bb00}{ol}{LEVEL}단계{/}{/}{/}로 확장하기 위해{nl}다음의 재화가 소비됩니다.{nl}{nl}길드 자금 : {s18}{@st66d_y}{GUILD_MONEY}{/}{/}{nl}길드 마일리지 : {s18}{@st66d_y}{GUILD_MILEAGE}{/}{/}{nl}{nl}길드 아지트를 확장하시겠습니까?{nl}        {nl}{s18}{#ec0000}주의 : 아지트에 있는 새싹이 모두 제거됩니다.{/}{/}
+ETC_20191024_043671	Cannot be used while installing.	배치 중에는 사용할 수 없습니다.
+ETC_20191024_043672	Your controls may be limited in editing mode while using a Controller.	조이패드 사용 시, 하우징 편집 모드 이용이 제한됩니다.
+ETC_20191024_043673	The Hangout cannot be expanded during a Guild Raid.	길드 레이드 중에는 아지트를 확장 할 수 없습니다.
+ETC_20191024_043674	File does not exist.	존재하지 않는 파일 입니다.
+ETC_20191024_043675	Play the music	음악을 재생 합니다
+ETC_20191024_043676	Pause the music	음악을 일시 정지 합니다
+ETC_20191024_043677	BMG Player cannot be used in this area.	BGM 플레이가 적용 및 작동하지 않는 지역입니다.
+ETC_20191024_043678	BGM Player Play	BGM 플레이어 재생
+ETC_20191024_043679	BGM Player Next Song	BGM 플레이어 다음 곡 재생
+ETC_20191024_043680	BGM Player Previous Song	BGM 플레이어 이전 곡 재생
+ETC_20191024_043681	BGM Player Shuffle	BGM 플레이어 랜덤 재생
+ETC_20191024_043682	BGM Player Repeat	BGM 플레이어 반복 재생
+ETC_20191024_043683	Favorite	즐겨찾기
+ETC_20191024_043684	BGM Player	BGM 플레이어
+ETC_20191024_043685	Select a Mystic Tome to craft	제작할 신비한 서를 선택해주세요
+ETC_20191024_043686	Place the materials to use	사용할 재료를 등록해주세요
+ETC_20191024_043687	Place the Goddess' Blessed Gems.	여신의 축복석을 등록해 주세요.
+ETC_20191024_043688	Place the item to be dismantled	분해할 아이템을 등록해 주세요
+ETC_20191024_043689	The selected Arts cannot be levelled any more	더 이상 해당 아츠의 레벨을 올릴 수 없습니다
+ETC_20191024_043690	Increase {abilName} to Lv. {abilLevel} by using {bookName} and {abilPrice} Attribute Points?	{bookName} 및 {abilPrice} 특성 포인트를 사용하여 {abilName} {abilLevel}레벨을 획득하시겠습니까?
+ETC_20191024_043691	The unlock requirements have not been met for the selected Arts	해당 아츠의 해금조건을 만족하지 않습니다
+ETC_20191024_043692	You must first register a Mystic Tome Page	신비한 서 낱장 아이템을 먼저 등록해주세요
+ETC_20191024_043693	You already have this emote.	이미 보유한 이모티콘입니다.
+ETC_20191024_043694	{nl} {nl}Using the item will acquire a chat emote for this character.{nl} {nl}{#FF0000}Item will be consumed when used.{nl} {nl}{@st66d_y}Obtain the emote?	{nl} {nl}사용한 캐릭터가 채팅 이모티콘을 흭득합니다.{nl} {nl}{#FF0000}사용 후 복구가 불가능합니다.{nl} {nl}{@st66d_y}이모티콘을 습득하시겠습니까?
+ETC_20191024_043695	Red TOS Ranger Helmet	TOS 레인저 레드 헬멧
+ETC_20191024_043696	Pink TOS Ranger Helmet	TOS 레인저 핑크 헬멧
+ETC_20191024_043697	Green TOS Ranger Helmet	TOS 레인저 그린 헬멧
+ETC_20191024_043698	Kaiju Helmet	괴수 헬멧
+ETC_20191024_043699	Blue TOS Ranger Helmet	TOS 레인저 블루 헬멧
+ETC_20191024_043700	Yellow TOS Ranger Helmet	TOS 레인저 옐로우 헬멧
+ETC_20191024_043701	Demon Lord Helgasercle	마군주 헬가세르클
+ETC_20191024_043702	Secret Supply Device	비밀 보급 장치
+ETC_20191024_043703	Docks	선착장 방향
+ETC_20191024_043704	[Magic Research Facility] Entrance	[마법 실험 구역] 입구
+ETC_20191024_043705	Inside the Hideout	아지트 내부
+ETC_20191024_043706	Outside the Hideout	아지트 외부
+ETC_20191024_043707	Contribution Notice Board	공헌도 알림판
+ETC_20191024_043708	Starting in 5 seconds	5초 후 시작합니다
+ETC_20191024_043709	A monster has appeared{nl}(1/5)	몬스터가 등장합니다{nl}(1/5)
+ETC_20191024_043710	A monster has appeared{nl}(2/5)	몬스터가 등장합니다{nl}(2/5)
+ETC_20191024_043711	A monster has appeared{nl}(3/5)	몬스터가 등장합니다{nl}(3/5)
+ETC_20191024_043712	A monster has appeared{nl}(4/5)	몬스터가 등장합니다{nl}(4/5)
+ETC_20191024_043713	A monster has appeared{nl}(5/5)	몬스터가 등장합니다{nl}(5/5)
+ETC_20191024_043714	Aisomage has been defeated!{nl}Returning in 30 seconds.	아시오 메이지 처치!{nl}30초 후 돌아갑니다.
+ETC_20191024_043715	A monster has appeared{nl}(1/3)	몬스터가 등장합니다{nl}(1/3)
+ETC_20191024_043716	A monster has appeared{nl}(2/3)	몬스터가 등장합니다{nl}(2/3)
+ETC_20191024_043717	A monster has appeared{nl}(3/3)	몬스터가 등장합니다{nl}(3/3)
+ETC_20191024_043718	Execute Stage Manager	스테이지매니저 실행
+ETC_20191024_043719	Stage Time Check	스테이지 시간 체크
+ETC_20191024_043720	All Die	모두 사망
+ETC_20191024_043721	Execute Stage Start	스테이지 시작 처리
+ETC_20191024_043722	Stage Time Update	스테이지 시간 업데이트
+ETC_20191024_043723	Zone Buff Settings	존 버프 세팅
+ETC_20191024_043724	Execute Next Stage	다음 스테이지 실행
+ETC_20191024_043725	Increase Attack Device	공격력 증가 장치
+ETC_20191024_043726	Increase Defense Device	방어력 증가 장치
+ETC_20191024_043727	Create Shield Device	실드 생성 장치
+ETC_20191024_043728	PC Life 1	피씨 목숨 1
+ETC_20191024_043729	Continue?	이어하시겠습니까?
+ETC_20191024_043730	Fail Check	실패 확인 용
+ETC_20191024_043731	The battle will begin shortly.{nl}Use the scrolls before the battle begins for desired effect.	곧 전투가 시작됩니다.{nl}전투 시작 전 보급품을 사용하여 원하는 효과를 받으세요.
+ETC_20191024_043732	Misrus has appeared.{nl}Defeat Misrus before it goes into a rampage.	머즈루스가 등장합니다.{nl}머즈루스가 폭주하기 전에 처지해야 합니다.
+ETC_20191024_043733	Mini Game Reward Cube	미니게임 보상 큐브
+ETC_20191024_043734	Failed to defeat Misrus.	머즈루스 처치에 실패하였습니다.
+ETC_20191024_043735	Successfully defeated Misrus.{nl}Warp gate to the Docks will be opened in 10 seconds.	머즈루스 처치에 성공하였습니다.{nl}10초 후 선착장 방향 포탈이 생성됩니다.
+ETC_20191024_043736	    Time until Misrus goes into Rampage	    머즈루스 폭주까지 남은 시간
+ETC_20191024_043737	Misrus' magic is stabilized, hence enhancing the power of its skills.	머즈루스의 마력이 안정화되어 스킬이 강화됩니다.
+ETC_20191024_043738	Misrus is going into a Rampage. 	머즈루스가 폭주합니다. 
+ETC_20191024_043739	Misrus Challenge	머즈루스 도전 과제 포인트
+ETC_20191024_043740	Defeat the boss without becoming incapable of combat	한번도 죽지 않고 보스 몬스터 처치
+ETC_20191024_043741	Defeat the boss with your character's HP above 30%	HP 30% 이상인 상태로 보스 몬스터 처치
+ETC_20191024_043742	Defeat the boss within 5 minutes	5분 안에 보스 몬스터 처치
+ETC_20191024_043743	Defeat the powered up boss	강화된 보스 몬스터를 처치
+ETC_20191024_043744	You were defeated by Misrus. The battle has ended.	머즈루스에게 패배하였습니다. 전투가 종료됩니다.
+ETC_20191024_043745	You've defeated the demons!	마족 몬스터를 처치했습니다
+ETC_20191024_043746	Defeat the demons{nl}while protecting Agailla Flurry!	아가일라 플러리를 보호하면서{nl}마족 몬스터들을 처치하세요!
+ETC_20191024_043747	You've defeated the demons!	마족 몬스터를 처치했습니다!
