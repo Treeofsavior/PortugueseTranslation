@@ -22982,11 +22982,11 @@ ITEM_20190802_022981	Savinose Akmo Greaves (20 min)
 ITEM_20190802_022982	Savinose Akmo Plate Pants (20 min)
 ITEM_20190802_022983	Savinose Akmo Plate Armor (20 min)
 ITEM_20190802_022984	Nepagristas Necklace (20 min)
-ITEM_20190802_022985	Nepatristas Necklace (20 min)
+ITEM_20190802_022985	Nematomas Necklace (20 min)
 ITEM_20190802_022986	Rangovas Necklace (20 min)
 ITEM_20190802_022987	Abyss Irredian Necklace (20 min)
 ITEM_20190802_022988	Cevisa Irredian Necklace (20 min)
-ITEM_20190802_022989	Nepagritas Bracelet (20 min)
+ITEM_20190802_022989	Nepagristas Bracelet (20 min)
 ITEM_20190802_022990	Nematomas Bracelet (20 min)
 ITEM_20190802_022991	Rangovas Bracelet (20 min)
 ITEM_20190802_022992	Abyss Irredian Bracelet (20 min)
@@ -23257,7 +23257,7 @@ ITEM_20191024_023256	The wing-shaped ornaments are highly regarded by arms affic
 ITEM_20191024_023257	Misrus Crossbow
 ITEM_20191024_023258	{nl} {nl} - Block and Shoot damage increase buff activates when a Pavies is hit while under Block and Shoot buff 
 ITEM_20191024_023259	Moringponia Mace
-ITEM_20191024_023260	{nl} {nl}Saving Prayer{nl}- Healilng increaes in proportion of Heal: Overload stacks{nl}1 stack: Healing {img green_up_arrow 16 16}60{nl}2 stacks: Healing {img green_up_arrow 16 16}240{nl}3 stacks: Healing {img green_up_arrow 16 16}600
+ITEM_20191024_023260	{nl} {nl}Saving Prayer{nl}- Healing increases in proportion of Heal: Overload stacks{nl}1 stack: Healing {img green_up_arrow 16 16}60{nl}2 stacks: Healing {img green_up_arrow 16 16}240{nl}3 stacks: Healing {img green_up_arrow 16 16}600	{nl} {nl}구원의 기도{nl}- 힐: 과부화 중첩 수에 따라 치유력 상승 {nl} 1 중첩 : 치유력{img green_up_arrow 16 16}60{nl} 2 중첩 : 치유력{img green_up_arrow 16 16}240{nl} 3 중첩 : 치유력{img green_up_arrow 16 16}600
 ITEM_20191024_023261	One needs to look back at oneself before wielding this weapon. Responsibility is something that extends much farther than simply defeating one's enemy.
 ITEM_20191024_023262	Misrus Mace
 ITEM_20191024_023263	{nl} {nl}Awaken Mind{nl}- Damage reduced effect increases as Heal: Overload stacks{nl}- Damage reduction 6% per stack, max. 30% reduction
@@ -23301,7 +23301,7 @@ ITEM_20191024_023300	Moringponia Caster
 ITEM_20191024_023301	{nl} {nl}Flood{nl}- Casts Lv. 8 Slow when Water Shikigami hits target{nl}(Duration: 5 seconds)
 ITEM_20191024_023302	It is difficult to replicate the innate powers found in demonic weapons. But with excellent craftsmanship and elbow grease, it is possible to come close to reproducing the powers that the originals can produce.
 ITEM_20191024_023303	Misrus Staff
-ITEM_20191024_023304	{nl} {nl}Gravity Curve{nl}- Duration of Heavy Gravity {img green_up_arrow 16 16} 5 seconds{nl}- Reduces he damage received from Missile attacks by -50% for allies within the area of Heavy Gravity{nl} {nl}[Arts] 
+ITEM_20191024_023304	{nl} {nl}Gravity Curve{nl}- Duration of Heavy Gravity {img green_up_arrow 16 16} 5 seconds{nl}- Reduces the damage received from Missile attacks by -50% for allies within the area of Heavy Gravity{nl} {nl}[Arts] 	{nl} {nl}중력 변곡점{nl} - 헤비 그라비티 지속시간 {img green_up_arrow 16 16}5초{nl} - 헤비 그라비티 효과 범위에 있는 아군은 미사일 타입으로 받는 피해 50% 감소{nl} {nl}[아츠] 
 ITEM_20191024_023305	Heavy Gravity: Distort
 ITEM_20191024_023306	not affected 
 ITEM_20191024_023307	Moringponia Pistol
@@ -23773,9 +23773,9 @@ ITEM_20191024_023772	Right click to obtain the following items.{nl}Will be autom
 ITEM_20191024_023773	Title - Pizza Time
 ITEM_20191024_023774	A title given to Saviors who have made the world a better place by delivering Pizza. Right-click to use.
 ITEM_20191024_023775	Moringponia Crown
-ITEM_20191024_023776	Crown with the lingering powers of Moringponia.{nl} {nl}Used as an ingredient in adding Set Stats to Savinose Legva, Skiaclipse and Varna equipment.
+ITEM_20191024_023776	Crown with the lingering powers of Moringponia.{nl} {nl}Used as an ingredient in adding Set Stats to Savinose Legva, Skiaclipse Varna equipment.	모링포니아의 힘이 남겨져있습니다. {nl} {nl}세비노스 레그바, 스키아클립스 바르나 장비에 세트 옵션 부여 재료로 사용됩니다.
 ITEM_20191024_023777	Misrus Chain
-ITEM_20191024_023778	Chain with the lingering powers of Misrus.{nl} {nl}Used as an ingredient in adding Set Stats to Savinose Legva, Skiaclipse and Varna equipment.
+ITEM_20191024_023778	Chain with the lingering powers of Misrus.{nl} {nl}Used as an ingredient in adding Set Stats to Savinose Legva, Skiaclipse Varna equipment.	머즈루스의 힘이 남겨져있습니다. {nl} {nl}세비노스 레그바, 스키아클립스 바르나 장비에 세트 옵션 부여 재료로 사용됩니다.
 ITEM_20191024_023779	Removes all removable debuffs and applies the following effects when used.{nl}    - Immunity to Knockback/Knockdown for 5 seconds{nl}    - Immunity to all removable debuffs for 5 seconds{nl}    - Boosts movement speed momentarily. Movement speed returns to normal gradually over 5 seconds{nl}Can only be used in Spot Areas.
 ITEM_20191024_023780	[Guild Housing] Bench (Brown)
 ITEM_20191024_023781	[Guild Housing Item]
@@ -24007,7 +24007,7 @@ ITEM_20191024_024006	Mystic Encyclopedia: Archer Book V
 ITEM_20191024_024007	Use to obtain a [Mystic Tome] of your choice from the following.{nl}- Mystic Tome (Pheasant: Enhanced Upgrade){nl}- Mystic Tome (Barbed Arrow: Enhanced Upgrade){nl}- Mystic Tome (Bounce Shot: Enhanced Upgrade){nl}- Mystic Tome (Volley Fire: Enhanced Upgrade){nl}- Mystic Tome (Stake Stockades: Enhanced Upgrade){nl}- Mystic Tome (Barrage: Enhanced Upgrade){nl}- Mystic Tome (Bodkin Point: Enhanced Upgrade){nl}- Mystic Tome (Broadhead: Enhanced Upgrade){nl}- Mystic Tome (Broom Trap: Enhanced Upgrade){nl}- Mystic Tome (Snipe: Enhanced Upgrade){nl}- Mystic Tome (Sweeping Cannon: Enhanced Upgrade){nl}- Mystic Tome (Stone Shot: Enhanced Upgrade){nl}- Mystic Tome (Spiral Arrow: Enhanced Upgrade)
 ITEM_20191024_024008	Mystic Encyclopedia: Archer Book VI
 ITEM_20191024_024009	Use to obtain a [Mystic Tome] of your choice from the following.{nl}- Mystic Tome (Spike Shooter: Enhanced Upgrade){nl}- Mystic Tome (Spread Shot: Enhanced Upgrade){nl}- Mystic Tome (Spring Trap: Enhanced Upgrade){nl}- Mystic Tome (Siege Burst: Enhanced Upgrade){nl}- Mystic Tome (Divine Machine Arrow: Enhanced Upgrade){nl}- Mystic Tome (Blindside: Enhanced Upgrade){nl}- Mystic Tome (Rapid Shot: Enhanced Upgrade){nl}- Mystic Tome (Wugong Gu: Enhanced Upgrade){nl}- Mystic Tome (Oblique Shot: Enhanced Upgrade){nl}- Mystic Tome (Sonic Strike: Enhanced Upgrade){nl}- Mystic Tome (Explosion: Enhanced Upgrade){nl}- Mystic Tome (Latent Venom: Enhanced Upgrade)
-ITEM_20191024_024010	Mystic Encylopedia: Archer Book VII
+ITEM_20191024_024010	Mystic Encyclopedia: Archer Book VII
 ITEM_20191024_024011	Use to obtain a [Mystic Tome] of your choice from the following.{nl}- Mystic Tome (Zenith: Enhanced Upgrade){nl}- Mystic Tome (Teardown: Enhanced Upgrade){nl}- Mystic Tome (Cannon Barrage: Enhanced Upgrade){nl}- Mystic Tome (Cannon Blast: Enhanced Upgrade){nl}- Mystic Tome (Cannon Shot: Enhanced Upgrade){nl}- Mystic Tome (Canister Shot: Enhanced Upgrade){nl}- Mystic Tome (Scatter Caltrops: Enhanced Upgrade){nl}- Mystic Tome (Covering Fire: Enhanced Upgrade){nl}- Mystic Tome (Coursing: Enhanced Upgrade){nl}- Mystic Tome (Crouching Strike: Enhanced Upgrade){nl}- Mystic Tome (Claymore: Enhanced Upgrade){nl}- Mystic Tome (Crossfire: Enhanced Upgrade)
 ITEM_20191024_024012	Mystic Encyclopedia: Archer Book VIII
 ITEM_20191024_024013	Use to obtain a [Mystic Tome] of your choice from the following.{nl}- Mystic Tome (Critical Shot: Enhanced Upgrade){nl}- Mystic Tome (Tomahawk: Enhanced Upgrade){nl}- Mystic Tome (Triple Arrow: Enhanced Upgrade){nl}- Mystic Tome (Twin Arrow: Enhanced Upgrade){nl}- Mystic Tome (Fire and Run: Enhanced Upgrade){nl}- Mystic Tome (Penetration Shot: Enhanced Upgrade){nl}- Mystic Tome (Punji Stake: Enhanced Upgrade){nl}- Mystic Tome (Hameln Nagetier: Enhanced Upgrade){nl}- Mystic Tome (High Anchoring: Enhanced Upgrade){nl}- Mystic Tome (Headshot: Enhanced Upgrade){nl}- Mystic Tome (Homing Arrow: Enhanced Upgrade){nl}- Mystic Tome (Arrow Sprinkle: Enhanced Upgrade)
@@ -24021,7 +24021,7 @@ ITEM_20191024_024020	Mystic Encyclopedia: Scout Book IV
 ITEM_20191024_024021	Use to obtain a [Mystic Tome] of your choice from the following.{nl}- Mystic Tome (R.I.P.: Enhanced Upgrade){nl}- Mystic Tome(Granata: Enhanced Upgrade){nl}- Mystic Tome(Knife Throw: Enhanced Upgrade){nl}- Mystic Tome(Mangle: Enhanced Upgrade){nl}- Mystic Tome(Rampage: Enhanced Upgrade){nl}- Mystic Tome(Blindfire: Enhanced Upgrade){nl}- Mystic Tome(Dagger Slash: Enhanced Upgrade){nl}- Mystic Tome(Dust Devil: Enhanced Upgrade){nl}- Mystic Tome(Deadly Combo: Enhanced Upgrade){nl}- Mystic Tome(Marching Fire: Enhanced Upgrade){nl}- Mystic Tome(Lightning Hands: Enhanced Upgrade){nl}- Mystic Tome(Ritirarsi: Enhanced Upgrade){nl}- Mystic Tome(Throw Sand: Enhanced Upgrade){nl}- Mystic Tome(Mozambique Drill: Enhanced Upgrade){nl}- Mystic Tome(Backstab: Enhanced Upgrade){nl}- Mystic Tome(Burrow: Enhanced Upgrade)
 ITEM_20191024_024022	Mystic Encyclopedia: Scout Book V
 ITEM_20191024_024023	Use to obtain a [Mystic Tome] of your choice from the following.{nl}- Mystic Tome (Brick Smash: Enhanced Upgrade){nl}- Mystic Tome(Bloody Overdrive: Enhanced Upgrade){nl}- Mystic Tome(Napalm Bullet: Enhanced Upgrade){nl}- Mystic Tome (Outrage: Enhanced Upgrade){nl}- Mystic Tome (Aiming Shot: Enhanced Upgrade){nl}- Mystic Tome (Oblique Fire: Enhanced Upgrade){nl}- Mystic Tome (Annihilation: Enhanced Upgrade){nl}- Mystic Tome (Invasione: Enhanced Upgrade){nl}- Mystic Tome (Raiton no Jutsu: Enhanced Upgrade){nl}- Mystic Tome (Mijin no Jutsu: Enhanced Upgrade){nl}- Mystic Tome (Katon no Jutsu: Enhanced Upgrade){nl}- Mystic Tome (Electric Shock: Enhanced Upgrade){nl}- Mystic Tome (Impale Dagger: Enhanced Upgrade){nl}- Mystic Tome (Concentrated Fire: Enhanced Upgrade){nl}- Mystic Tome (Caracole: Enhanced Upgrade)
-ITEM_20191024_024024	Mystic Encylopedia: Scout Book VI
+ITEM_20191024_024024	Mystic Encyclopedia: Scout Book VI
 ITEM_20191024_024025	Use to obtain a [Mystic Tome] of your choice from the following.{nl}- Mystic Tome (Behead: Enhanced Upgrade){nl}- Mystic Tome (Kunai: Enhanced Upgrade){nl}- Mystic Tome (Quick Draw: Enhanced Upgrade){nl}- Mystic Tome (Quick and Dead: Enhanced Upgrade){nl}- Mystic Tome (Keel Hauling: Enhanced Upgrade){nl}- Mystic Tome (Piercing Heart: Enhanced Upgrade){nl}- Mystic Tome (Taglio: Enhanced Upgrade){nl}- Mystic Tome (Instant Acceleration: Enhanced Upgrade){nl}- Mystic Tome (Tre Granata: Enhanced Upgrade){nl}- Mystic Tome (Smash Bullet: Enhanced Upgrade){nl}- Mystic Tome (Fanning: Enhanced Upgrade){nl}- Mystic Tome (Full Metal Jacket: Enhanced Upgrade){nl}- Mystic Tome (Peacemaker: Enhanced Upgrade){nl}- Mystic Tome (Hexen Dropper: Enhanced Upgrade){nl}- Mystic Tome (Retreat Shot: Enhanced Upgrade)
 ITEM_20191024_024026	Mystic Tome (Thrust: Charge)
 ITEM_20191024_024027	Learn the art [Thrust: Charge] upon use.{nl} - Learn Condition: Swordsman Class Level 15{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Increases the Overheat of [Thrust] to 2, and upon use, dashes to your target and deals damage.
@@ -24134,12 +24134,12 @@ ITEM_20191024_024133	Learn the art [Rubric: Corruption] upon use.{nl} - Learn Co
 ITEM_20191024_024134	Mystic Tome (Katadikazo: Flame Spear)
 ITEM_20191024_024135	Learn the art [Katadikazo: Flame Spear] upon use.{nl} - Learn Condition: Exorcist Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Changes the property of [Katadikazo] to [Fire], and after the spear lands, fire remains and deals damage to enemies.
 ITEM_20191024_024136	Mystic Tome (Divine Might: Ill Omen)
-ITEM_20191024_024137	Learn the art [Divine Might: Ill Omen] upon use.{nl} - Learn Condition: Oracle Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* The effects of [Divine Might] now only apply to enemies. [Divine Might] applies a debuff that causes enemy skills to be forced to level 1 for remaining every application on the skill.
+ITEM_20191024_024137	Learn the art [Divine Might: Ill Omen] upon use.{nl} - Learn Condition: Oracle Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* The effects of [Divine Might] now only apply to enemies. [Divine Might] applies a debuff that causes enemy skills to be forced to level 1 for every remaining application on the skill.	사용 시 [디바인 마이트: 불길한 징조] 아츠를 획득할 수 있습니다.{nl} - 습득 조건 : 오라클 클래스 45 레벨 달성{nl} - 습득 또는 레벨업 특성 비용 : 36000 포인트{nl} - 아츠 설명{nl}* [디바인 마이트]의 효과가 적 캐릭터에게만 적용됩니다. [디바인 마이트] 디버프에 걸린 적이 스킬 시전 시 스킬 레벨이 적용 횟수 만큼 1레벨로 적용됩니다.
 ITEM_20191024_024138	Mystic Tome (Visible Talent: In Goddess' Name)
 ITEM_20191024_024139	Learn the art [Visible Talent: In Goddess' Name] upon use.{nl} - Learn Condition: Chaplain Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* The [Visible Talent] buff no longer accumulates damage. It now causes you to ignore the enemy's block and evasion when attacking, and deal additional damage in porportion to their block and evasion.
 ITEM_20191024_024140	Mystic Tome (Aukuras: Mobile Torch)
 ITEM_20191024_024141	Learn the art [Aukuras: Mobile Torch] upon use.{nl} - Learn Condition: Krivis Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* The torch created by [Aukuras] will follow your character for the duration of the skill.
-ITEM_20191024_024142	Mystic Tome (Barrier: Sanctuary)
+ITEM_20191024_024142	Mystic Tome (Barrier: Holy Ground)	신비한 서 (배리어: 성역)
 ITEM_20191024_024143	Learn the art [Barrier: Holy Ground] upon use.{nl} - Learn Condition: Paladin Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Damage taken while inside [Barrier] is reduced by 20%, and damage taken through [Barrier: Devotion] is reduced by 50%.{nl}* The arts effect is not activated if you do not have the [Barrier] skill.
 ITEM_20191024_024144	Mystic Tome (Healing Factor: Melee Heal)
 ITEM_20191024_024145	Learn the art [Healing Factor: Close Healing] upon use.{nl} - Learn Condition: Plague Doctor Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Increases the buff duration of [Healing Factor] to 120 seconds, and the HP recovery cap is removed, but the continous healing effect only applies while the caster and target are close to one another. (Range: 100){nl}* The caster cannot apply [Healing Factor] to themself, and the duration of [Healing Factor: Heal Party] doesn't apply.
@@ -24158,7 +24158,7 @@ ITEM_20191024_024157	Learn the art [Joint Penalty: Chain Heart] upon use.{nl} - 
 ITEM_20191024_024158	Mystic Tome (Freeze Bullet: Fog)
 ITEM_20191024_024159	Learn the art [Freeze Bullet: Fog] upon use.{nl} - Learn Condition: Bullet Marker Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* [Freeze Bullet] creates a fog during the buff that chills and eventually freezes enemies.{nl}* Enemies within the fog continously gain stacks of the [Chill] debuff.{nl}* Enemies under the [Chill] debuff are slowed, and will be [Frozen] for 2 seconds upon reaching 4 stacks.
 ITEM_20191024_024160	Mystic Tome (Westraid: Final Roulette)
-ITEM_20191024_024161	Learn the art [Westraid: Final Roulette] upon use.{nl} - Learn Condition: Sheriff Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* [Westraid] now grants 100% increased critical strike chance instead of the original effect, and this effect decreases by 3.5% every second. (Decreases until at 30%)
+ITEM_20191024_024161	Learn the art [Westraid: Final Roulette] upon use.{nl} - Learn Condition: Sheriff Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* [Westraid] now grants 100% increased critical rate instead of the original effect, and this effect decreases by 3.5% every second. (Decreases until at 30%)	사용 시 [웨스트레이드: 비장의 룰렛] 아츠를 획득할 수 있습니다.{nl} - 습득 조건 : 셰리프 클래스 45 레벨 달성{nl} - 습득 또는 레벨업 특성 비용 : 36000 포인트{nl} - 아츠 설명{nl}* [웨스트레이드] 버프가 기존 효과 대신에 치명타 발생이 100% 증가하고, 치명타 발생 증가치가 1초마다 3.5%씩 감소합니다. (증가한 치명타 발생은 30%까지만 감소함)
 ITEM_20191024_024162	Mystic Tome (Peacemaker: Shotgun)
 ITEM_20191024_024163	Learn the art [Peacemaker: Shotgun] upon use.{nl} - Learn Condition: Sheriff Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* [Peacemaker] spreads bullets around the target, dealing damage to enemies nearby. It no longer inflicts [Silence].
 ITEM_20191024_024164	Mystic Tome (Evasive Action: Cobra)
@@ -24190,7 +24190,7 @@ ITEM_20191024_024189	Learn the art [Zenith: Whistling Arrow] upon use.{nl} - Lea
 ITEM_20191024_024190	Mystic Tome (Latent Venom: Enervation)
 ITEM_20191024_024191	Learn the art [Latent Venom: Enervation] upon use.{nl} - Learn Condition: Wugushi Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Enemies inflicted with [Latent Venom] have their STR decreased by 3% every 2 seconds, and the caster's STR increases by 5%{nl}* The reduction and increase of STR applies only to a maximum of 50% and is dependent on the target's STR at the time buff/debuff is applied
 ITEM_20191024_024192	Mystic Tome (Hanging Shot: Dodge)
-ITEM_20191024_024193	Learn the art [Hanging Shot: Dodge] upon use.{nl} - Learn Condition: Falconer Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* When using [Hanging Shot], your hawk will rescue you from an emergency, providing your temporary invincibility and decreasing damage taken by 30% for 5 seconds after [Hanging Shot] ends{nl}* Hanging Shot Duration: 3 seconds
+ITEM_20191024_024193	Learn the art [Hanging Shot: Dodge] upon use.{nl} - Learn Condition: Falconer Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* When using [Hanging Shot], your hawk will rescue you from an emergency, providing you temporary invincibility and decreasing damage taken by 30% for 5 seconds after [Hanging Shot] ends{nl}* Hanging Shot Duration: 3 seconds	사용 시 [행잉샷: 순간 회피] 아츠를 획득할 수 있습니다.{nl} - 습득 조건 : 응사 클래스 45 레벨 달성{nl} - 습득 또는 레벨업 특성 비용 : 36000 포인트{nl} - 아츠 설명{nl}* 행잉샷을 사용 시 위기에 순간에서 매가 구출하여 일시적으로 무적 상태가 되고, 행잉샷 버프가 끝난 이후 5초 동안 받는 피해 30% 감소{nl}* 행잉샷 지속시간 : 3초
 ITEM_20191024_024194	Mystic Tome (Sweeping Cannon: Siege Shot)
 ITEM_20191024_024195	Learn the art [Sweeping Cannon: Siege Shot] upon use.{nl} - Learn Condition: Cannoneer Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* [Sweeping Cannon] deals 50% more damage to Boss monsters, and instantly destroys enemy [Installations]{nl} * Does not destroy Territory Wars installations
 ITEM_20191024_024196	Mystic Tome (Kneeling Shot: Fortress)
