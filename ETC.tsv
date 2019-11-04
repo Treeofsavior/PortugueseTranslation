@@ -43744,3 +43744,50 @@ ETC_20191024_043745	You've defeated the demons!	마족 몬스터를 처치했습
 ETC_20191024_043746	Defeat the demons{nl}while protecting Agailla Flurry!	아가일라 플러리를 보호하면서{nl}마족 몬스터들을 처치하세요!
 ETC_20191024_043747	You've defeated the demons!	마족 몬스터를 처치했습니다!
 ETC_20191029_043748	November Attendance Rewards	11월 출석 보상				
+ETC_20191104_043749	Pumpkin Candy	호박맛 사탕의 달콤함
+ETC_20191104_043750	The sweet Pumpkin Candy waters the mouth.{nl}The amount of 	호박맛 사탕의 달콤함이 입 안을 기분 좋게 해줍니다.{nl}잔여 시간 동안 
+ETC_20191104_043751	obtained is increased by 2x for the duration.{nl}Effect does not stack with [Halloween Midnight Rumble] event dungeon and log-in rewards.	의 획득량이 2배로 늘어납니다.{nl}단, [할로윈 밤의 소동] 이벤트 던전과 접속 보상에는 효과가 적용되지 않습니다.
+ETC_20191104_043752	Wrath of Klaipeda	클라페다의 분노
+ETC_20191104_043753	Fills the player with the anger felt by the residents of Klaipeda who have been looking forward to a happy Halloween.{nl}Following effects are applied.{nl}Movement speed +1 per stack{nl}Additional candy eared on Sweet Magic Circle +1 per stack{nl}Max. 4 stacks	할로윈을 손꼽아 기다렸을 클라페다 주민들의 분노가 느껴집니다.{nl}다음의 효과가 적용됩니다.{nl}중첩당 이동속도 + 1 증가{nl}중첩당 달콤한 마법진에서 주화 획득 + 1 증가{nl}최대 중첩 수 4
+ETC_20191104_043754	Dizzy	어질어질
+ETC_20191104_043755	You have been dizzied by the Specter Monarch's scream and cannot move.	스펙터 군주의 비명에 정신이 혼미해져서 뜻대로 움직일 수가 없습니다.
+ETC_20191104_043756	Your movement speed has been slowed by the Necroventer's magic.	네크로벤터의 마력이 몸의 움직임을 방해해 이동속도가 감소합니다.
+ETC_20191104_043757	Participating in the Halloween Event	할로윈 이벤트 참여 중
+ETC_20191104_043758	{@st66d_y}{s16}[%d]{/}{/}%% chance per attack received of using Pain Barrier (Duration: 15 seconds)	피격 시 {@st66d_y}{s16}[%d]{/}{/}%% 확률로 페인배리어 사용 (지속시간 15초)
+ETC_20191104_043759	Halloween Midnight Rumble	할로윈 밤의 소동
+ETC_20191104_043760	The Halloween Vubbe who stole the Halloween Treats have hidden and locked themselves indoors.	사탕을 훔친 할로윈 부베는 문을 꼭 걸어 잠그고는 클라페다 집 곳곳에 숨어 들었습니다.
+ETC_20191104_043761	Amberdogs are running amok in Klaipeda.	호박개들은 클라페다 곳곳을 돌아다니고 있습니다.
+ETC_20191104_043762	The culprit behind the Halloween night commotion in Klaipeda. Defeat the Wicked Witch and retrieve the stolen treats.	할로윈 밤에 소동을 일으킨 주범입니다. 할로윈 마녀를 처치하고 클라페다의 사탕을 되찾아야 합니다.
+ETC_20191104_043763	This Necroventer has invaded Klaipeda along with the Wicked Witch. 	이 네크로벤터는 할로윈 마녀와 함게 사탕을 훔치기 위해 클라페다를 습격했습니다. 
+ETC_20191104_043764	This Specter of Deceit has invaded Klaipeda along with the Wicked Witch. 	이 현혹의 스펙터는 할로윈 마녀와 함게 사탕을 훔치기 위해 클라페다를 습격했습니다. 
+ETC_20191104_043765	This Specter Monarch has invaded Klaipeda along with the Wicked Witch. 	이 스펙터 군주는 할로윈 마녀와 함게 사탕을 훔치기 위해 클라페다를 습격했습니다. 
+ETC_20191104_043766	Spicy Treat	화끈한 사탕
+ETC_20191104_043767	Locked Door	잠긴 문
+ETC_20191104_043768	Sweet Magic Circle	달콤한 마법진
+ETC_20191104_043769	Note left by a resident	주민이 남긴 쪽지
+ETC_20191104_043770	/candy	/사탕
+ETC_20191104_043771	Durability of all equipped items have been restored by +5 by GM's support!	GM의 응원을 받아 착용 중인 모든 장비의 내구도가 5씩 회복됩니다!
+ETC_20191104_043772	Red Ox buff is currently active.	현재 레드옥스 버프가 적용 중입니다.
+ETC_20191104_043773	Red Ox - GM's Support is currently active.	현재 레드옥스 - GM의 응원이 적용 중입니다.
+ETC_20191104_043774	You do not have any Spoiled Treats.	맛이 이상한 할로윈 사탕을 소지하고 있지 않습니다.
+ETC_20191104_043775	Bonus goal of defeating {MON_NAME} x20 has been completed. Bonus rewards will be issued once the event dungeon is over.	보너스 목표 {MON_NAME} 20마리 처치 완료. 이벤트 던전 종료 시 보너스 보상이 지급됩니다.
+ETC_20191104_043776	Bonus goal of defeating {MON_NAME} has been completed. Bonus rewards will be issued once the event dungeon is over.	보너스 목표 {MON_NAME} 처치 완료. 이벤트 던전 종료 시 보너스 보상이 지급됩니다.
+ETC_20191104_043777	You have obtained the maximum amount of candy for the day.	오늘 획득 할 수 있는 주화를 모두 획득했습니다.
+ETC_20191104_043778	You have obtained the maximum amount of candy that can be obtained from the Halloween Midnight Rumble.	할로윈 밤의 소동에서 오늘 획득 할 수 있는 주화를 모두 획득했습니다.
+ETC_20191104_043779	Halloween Event Shop	할로윈 이벤트 상점
+ETC_20191104_043780	You have obtained {@st66d_y}{s18}{GET_BONUS{/}{/} candy today and recieved {@st66d_y}{s18}{GET_EVENT}{/}{/} bonus amount.{nl}Total candy obtained today is {@st66d_y}{s18}{GET_TOTAL}{/}{/}.	오늘 사탕을 {@st66d_y}{s18}{GET_BONUS}{/}{/}개 획득하였으며, 보너스 획득량은 총 {@st66d_y}{s18}{GET_EVENT}{/}{/}개 입니다.{nl}총 획득량은 {@st66d_y}{s18}{GET_TOTAL}{/}{/}개 입니다.
+ETC_20191104_043781	{@st66d_y}{s20}Sweet Treats{/}{/} will be issued shortly. If you return before they are issued, you can miss out on receiving the items.	곧 {@st66d_y}{s20}달콤한 할로윈 사탕{/}{/}이 지급됩니다. 사탕 지급 전 종료시 정상적으로 아이템이 지급되지 않을 수 있습니다.
+ETC_20191104_043782	{#003399}Halloween Midnight Rumble{/} event introduction	{#003399}할로윈 밤의 소동{/} 이벤트 안내
+ETC_20191104_043783	{#003399}Halloween Midnight Rumble{/} event dungeon	{#003399}할로윈 밤의 소동{/} 이벤트 던전 입장
+ETC_20191104_043784	{#003399}Halloween Midnight Rumble{/} event shop	{#003399}할로윈 밤의 소동{/} 이벤트 상점 열기
+ETC_20191104_043785	Knocking on the door	문을 두드리는 중
+ETC_20191104_043786	Charging the Scarecrow	허수아비에 힘을 충전 하는 중
+ETC_20191104_043787	Pumpkin Candy's effect is already taking place.{nl}Please try again after its duration has expired.	이미 호박맛 할로윈 사탕의 효과가 적용되고 있습니다.{nl}잔여 시간이 지난 뒤 다시 사용해주세요.
+ETC_20191104_043788	Halloween Midnight Rumble Peak Time Points	할로윈 밤의 소동 피크 타임 포인트
+ETC_20191104_043789	Peak Time will end in 20 seconds	피크타임이 20초 후 종료됩니다.
+ETC_20191104_043790	Peak Time will end in 10 seconds	피크타임이 10초 후 종료됩니다.
+ETC_20191104_043791	Peak Time will end in 5 seconds	피크타임이 5초 후 종료됩니다.
+ETC_20191104_043792	You have completed the Halloween Midnight Rumble event dungeon. You will be returned in a moment.	할로윈 밤의 소동 이벤트 던전을 클리어했습니다. 잠시 후 입장 전 원래 장소로 이동합니다.
+ETC_20191104_043793	Defeat Amberdogs	호박개 처치
+ETC_20191104_043794	Defeat Halloween Vubbe by opening locked doors	잠긴 문을 열어 할로윈 부베 처치
+ETC_20191104_043795	Defeat the mid-boss at the town square	중앙광장에 있는 보스 몬스터 처치
