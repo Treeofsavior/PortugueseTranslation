@@ -17829,7 +17829,7 @@ SKILL_20191024_017828	Zealot Class Lv. 45	질럿 클래스 45레벨 달성
 SKILL_20191024_017829	[Immolation: Enhance] attribute Lv. 65	[이몰레이션: 강화] 특성 65 레벨 달성
 SKILL_20191024_017830	[Fanatic Illusion: Enhance] attribute Lv. 65	[파나틱 일루젼: 강화] 특성 65 레벨 달성
 SKILL_20191024_017831	[Emphatic Thrust: Enhance] attribute Lv. 65	[엠퍼시스 트러스트: 강화] 특성 65 레벨 달성
-SKILL_20191026_017832	Duration: #CaptionTime}# seconds{nl}Max. Level 1	지속시간 #{CaptionTime}#초{nl}1레벨 마스터
+SKILL_20191026_017832	Duration: #{CaptionTime}# seconds{nl}Max. Level 1	지속시간 #{CaptionTime}#초{nl}1레벨 마스터
 SKILL_20191026_017833	Bloody Battle	혈전
 SKILL_20191026_017834	Healing received is reduced by -10% per stack.	받는 힐량이 중첩당 10%씩 감소합니다.
 SKILL_20191026_017835	Skirmish	투쟁
