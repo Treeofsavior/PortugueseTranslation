@@ -9491,7 +9491,7 @@ QUEST_20180517_009629	Tem certeza de que deseja sair?{nl}Se atingir o objetivo, 
 QUEST_20180517_009630	.
 QUEST_20180517_009631	{@st41}{#FF6700}Blessed Gem Shop
 QUEST_20180517_009632	Estou trocando Blessed Gems por vários outros itens.{nl} Que item você gostaria de trocar?
-QUEST_20180517_009633	Ajudante do Evento do Baú
+QUEST_20180517_009633	Phantom Thief Helper
 QUEST_20180517_009634	Evite os monstros e chegue ao Baú do Tesouro para receber seu prêmio.{nl}Use seus reflexos rápidos e torça para um pouco de sorte!{nl}Deseja iniciar a missão?{nl}Se você pofr derrotado, {#003399}seu equipamento perderá Durabilidade{/}.{nl}Recomendo que você {#003399}remova seus equipamentos antes de inciar{/}.
 QUEST_20180517_009635	Você já usou todas as suas entradas diárias.{nl}Retorne amanhã.
 QUEST_20180517_009636	Você pode abrir este baú.
@@ -11187,3 +11187,9 @@ QUEST_20191104_011330	Amberdog Guide	호박개 가이드
 QUEST_20191104_011331	Sweet Magic Circle has spawned. Stand on top of the Sweet Magic Circle to receive bonuses.	달콤한 마법진이 나타났습니다. 달콤한 마법진 위로 올라가 보상을 획득 할 수 있습니다.
 QUEST_20191104_011332	Peak Time Guide	피버 가이드
 QUEST_20191104_011333	Peak Time will begin soon! Defeat the Halloween Vubbe for 30 seconds to earn Sweet Treats.	잠시 후 피크타임이 시작됩니다! 30초 동안 등장하는 할로윈 부베를 처치하여 달콤한 할로윈 사탕을 획득 할 수 있습니다.
+QUEST_20191203_011334	Christmas Royal Chest	크리스마스 로열 상자
+QUEST_20191203_011335	Use the {#FF0000}[Event] Royal Christmas Keys{/} to obtain reward items from the chest.{nl}[Reward List]{nl}- {#003399}[Event] Attribute Points 10,000{/} x1, {#003399}[Event] Attribute Points 1,000{/} x1{nl}- {#003399}[Event] Attribute Points 500{/} x1, {#003399}Raid Portal Stone{/} x3{nl}- {#003399}Goddess Sculpture (14 Days){/} x5, {#003399}Miracle Seed (14 Days){/} x5{nl}- {#003399}[Event] Guild Quest Reward Coin: Silver{/} x1	{#FF0000}[이벤트] 로열 크리스마스 열쇠{/}를 사용하여 상자를 열어 보상을 획득할 수 있습니다.{nl}[보상 목록]{nl}- {#003399}[이벤트]특성 포인트 10,000{/}, {#003399}[이벤트]특성 포인트 1,000{/}{nl}- {#003399}[이벤트]특성 포인트 500{/}, {#003399}레이드 포탈 스톤{/}{nl}- {#003399}여신의 조각상(14일){/}, {#003399}축복이 깃든 씨앗(14일){/}{nl}- {#003399}[이벤트]특성 포인트 10,000{/}, {#003399}[이벤트] 길드 퀘스트 보상 주화 : 은{/}
+QUEST_20191203_011336	NA	{#003399}[Tip!]{/}{nl}신비한 크리스마스 상자보다 고급 보상을 얻을 확률이 높습니다.{nl}{#FF0000}[이벤트] 로열 크리스마스 열쇠{/}를 사용하여 상자를 여시겠습니까?
+QUEST_20191203_011337	NA	신비한 크리스마스 상자
+QUEST_20191203_011338	NA	{#FF0000}[이벤트] 신비한 크리스마스 열쇠{/}를 사용하여 상자를 열어 보상을 획득할 수 있습니다.{nl}[보상 목록]{nl}- {#003399}[이벤트]특성 포인트 10,000{/}, {#003399}[이벤트]특성 포인트 1,000{/}{nl}- {#003399}[이벤트]특성 포인트 500{/}, {#003399}레이드 포탈 스톤{/}{nl}- {#003399}여신의 조각상(14일){/}, {#003399}축복이 깃든 씨앗(14일){/}{nl}- {#003399}[이벤트]특성 포인트 10,000{/}, {#003399}[이벤트] 길드 퀘스트 보상 주화 : 은{/}
+QUEST_20191203_011339	NA	{#003399}[Tip!]{/}{nl}크리스마스 로열 상자보다 고급 보상을 얻을 확률이 낮습니다.{nl}{#FF0000}[이벤트] 신비한 크리스마스 열쇠{/}를 사용하여 상자를 여시겠습니까?
