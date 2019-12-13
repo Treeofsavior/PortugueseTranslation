@@ -42682,7 +42682,7 @@ ETC_20190920_042683	Você só pode ter uma arma de crescimento no seu inventári
 ETC_20190920_042684	Você não possui uma arma de crescimento no seu inventário.
 ETC_20190920_042685	{nl} {nl}Aumenta a EXP base do personagem até o nível 400.{nl} {nl}{@st66d_y}Utilizar o cartão de EXP?
 ETC_20191024_042686	Misrus	머즈루스
-ETC_20191024_042687	Misrus had been isolated in the Outer Wall Sewers since Medzio Diena. According to a diary of a dead Schaffenstar member found in the sewers, the Chesha had been fearful of Misrus but did not run away as if something even greater than Misrus was keeping them trapped in the sewers. Whatever that creature may be, it must be at least a demon lord or something even greater.	머즈루스는 신수의 날 이후 누군가에 의해 외성벽 지하수로에 격리되어있었습니다. 그곳에서 발견된 죽은 샤펜스타 단원의 일지로 추측해보면, 체샤들은 머즈루스를 매우 두려워하면서도 아무도 도망치려고 하지 않았습니다. 별다른 수단도 없이 머즈루스와 체샤들을 그 어둡고 음산한 공간에 가둬 둘 수 있는 존재는 누구였을지 모르지만, 머즈루스의 흉포함만 보더라도 그 존재가 가볍게 무시할 수 있는 인물은 아니라는 생각이 듭니다. 수북이 쌓인 뼈 무더기들을 밝고 서 있는 두 머리의 짐승 앞에서 떨지 않을 수 있는 건 마왕, 혹은 그보다 더 강한 존재들뿐입니다.
+ETC_20191024_042687	Misrus está aprisionado em Outer Wall Sewers desde Medzio Diena. De acordo com o diário de um membro morto de Schaffenstar encontrado nos esgotos, os Chesha tinham medo do Misrus, mas não fogiam por medo de algo ainda maior que os deixava aprisionados nos esgotos. Seja lá o que fosse a criatura, ela deve ter sido pelo menos um Demon Lord ou algo ainda pior.
 ETC_20191024_042688	Tiny Tini	꼬꼬마 티니
 ETC_20191024_042689	A Tiny Tini that has followed you because of its fondness for humans.	인간이 좋아서 당신을 따라온 꼬꼬마 티니입니다.
 ETC_20191024_042690	Large Cheshavenom	커다란 체샤베놈
@@ -42737,23 +42737,23 @@ ETC_20191024_042738	Insect 2 Set	곤충 2셋
 ETC_20191024_042739	Insect 4 Set	곤충 4셋
 ETC_20191024_042740	Devil 2 Set	악마 2셋
 ETC_20191024_042741	Devil 4 Set	악마 4셋
-ETC_20191024_042742	Costume (Unisex)	코스튬(남여 공용)
-ETC_20191024_042743	Increases damage against Misrus	머즈루스에게 입히는 대미지가 증가합니다.
-ETC_20191024_042744	Increases DEF	방여력 증가
-ETC_20191024_042745	Reduces damage received from Misrus.	머즈루스에게 받는 대미지가 감소합니다.
-ETC_20191024_042746	Shields damage received from Misrus.	머즈루스에게 받는 대미지를 대신 받는 실드입니다.
-ETC_20191024_042747	Beserk	광폭
-ETC_20191024_042748	Misrus' true power is unleashed as he breaks free from the powers binding him.	머즈루스를 구속하던 효과가 사라지자 머즈루스가 진정한 힘을 발휘합니다.
-ETC_20191024_042749	Misrus' Psychokinesis	머즈루스의 염동력
-ETC_20191024_042750	Movement is slowed due to Psychokinesis.	염동력에 의해 행동이 둔해집니다.
-ETC_20191024_042751	Successfully bound Misrus	머즈루스 제어 성공
-ETC_20191024_042752	Paralysis Misrus to hinder his movement.	머즈루스를 마비시켜 행동을 저지합니다.
-ETC_20191024_042753	Counterbalance	상쇄 발생
-ETC_20191024_042754	Misrus' two powers collide, causing an unknown phenomenon. 	머즈루스의 두 힘이 충돌하여 알 수 없는 현상이 일어납니다. 
-ETC_20191024_042755	Unleashed Misrus	제어가 풀린 머즈루스
-ETC_20191024_042756	Misrus is freed from the binds and has grown more powerful.	머즈루스를 제어하던 힘이 사라져 매우 강력합니다.
-ETC_20191024_042757	Misrus' Wrath	머즈루수의 분노
-ETC_20191024_042758	Misrus grows more powerful from the pain he is in.	고통으로 인한 분노가 머즈루스를 강하게 만듭니다.
+ETC_20191024_042742	Costume (Unisex)
+ETC_20191024_042743	Aumenta o dano contra o Misrus.
+ETC_20191024_042744	Aumenta a defesa.
+ETC_20191024_042745	Reduz o dano recebido do Misrus.
+ETC_20191024_042746	Protege contra o dano recebido por Misrus.
+ETC_20191024_042747	Beserk
+ETC_20191024_042748	O verdadeiro poder de Misrus é liberado quando ele se liberta dos poderes que o prendem.
+ETC_20191024_042749	Misrus' Psychokinesis
+ETC_20191024_042750	Movimento é retardado devido à Psychokinesis.
+ETC_20191024_042751	Misrus preso com sucesso
+ETC_20191024_042752	Paralise Misrus para impedir que se mova.
+ETC_20191024_042753	Contrabalança
+ETC_20191024_042754	Os dois poderes de Misrus colidem, causando um fenômeno desconhecido.
+ETC_20191024_042755	Misrus foi libertado.
+ETC_20191024_042756	Misrus está livre dos vínculos e se tornou mais poderoso.
+ETC_20191024_042757	Ira de Misrus
+ETC_20191024_042758	O poder de Misrus cresce junto da dor que sente.
 ETC_20191024_042759	Large Moonlight Anvil - Event	거대 달빛 모루 - 이벤트
 ETC_20191024_042760	Can use the Large Moonlight Anvil while the effect is active.	이 효과가 지속되는 시간 동안 거대 달빛 모루를 이용할 수 있습니다.
 ETC_20191024_042761	Moonlight Anvil - Event	달빛 모루 - 이벤트
@@ -42763,113 +42763,113 @@ ETC_20191024_042764	Crystal in Possession	크리스탈 소지
 ETC_20191024_042765	Knockback when monsters approach.	몬스터가 근접 시, 넉백됩니다.
 ETC_20191024_042766	[Event] Bernice Buff	[이벤트]베르니케 버프
 ETC_20191024_042767	[Event] Bernice No Skills	[이벤트]베르니케 스킬 사용 불가
-ETC_20191024_042768	Slows the target with cold waves and amplifies ice-property damage.{nl}Continual exposure to Frostbite may lead to Freeze.	냉기로 인해 느려지며, 얼음 속성 피해가 커집니다.{nl}지속적인 동상은 결빙으로 이어질수 있습니다.
-ETC_20191024_042769	Immunity to Frostbite	동상 면역
-ETC_20191024_042770	You are immune to Frostbite	동상에 면역된 상태입니다.
+ETC_20191024_042768	Retarda o alvo com ondas de frio e amplifica os danos às propriedades de gelo.{nl}A exposição contínua ao [Frostbite] pode causar [Freeze].
+ETC_20191024_042769	Imunidade a [Frostbite].
+ETC_20191024_042770	Você está imune a [Frostbite].
 ETC_20191024_042771	Shared Vine Walker	바인 워커 공유
 ETC_20191024_042772	Vine Walkers are connected with one another.{nl}Their connection is lost when they are distanced from one anotehr.	바인 워커는 서로 연결되어 있습니다.{nl}서로의 거리가 멀어지면 연결이 끊어집니다.
 ETC_20191024_042773	Magic Sphere Strike Buff	마력구 타격 버프
-ETC_20191024_042774	HP Recovery	체력회복
-ETC_20191024_042775	Recovers HP every second.	1초마다 체력을 회복합니다.
-ETC_20191024_042776	You have unlocked the sealing device to receive the power hidden by the Shadowmancer Master.	봉인석 장치를 해제시켜, 섀도우맨서 마스터가 심어놓은 힘을 받았습니다.
-ETC_20191024_042777	ATK is increased due to rage.	광폭화 상태이며, 공격력이 증가 합니다.
-ETC_20191024_042778	Continued Damage	지속피해
-ETC_20191024_042779	Damage received increases due to continued damage.	지속적인 피해로 인하여, 더 많은 피해를 입습니다.
-ETC_20191024_042780	Fear	두려움
-ETC_20191024_042781	Your body is frozen with fear.	공포에 온 몸이 말을 듣지 않습니다.
+ETC_20191024_042774	HP Recovery
+ETC_20191024_042775	Regenera HP a cada segundo.
+ETC_20191024_042776	Você desbloqueou o dispositivo responsável por selar o poder oculto recebido pelo Shadowmancer Master.
+ETC_20191024_042777	Ataque é aumentado devido a rage.
+ETC_20191024_042778	Dano contínuo
+ETC_20191024_042779	Dano recebido aumenta devido ao dano contínuo.
+ETC_20191024_042780	Fear
+ETC_20191024_042781	Seu corpo está congelado pelo medo.
 ETC_20191024_042782	Bind	속박
-ETC_20191024_042783	You cannot move due to Moringponia's curse.	모링포니아가 저주를 걸어, 움직이지 못하는 상태가 됩니다.
-ETC_20191024_042784	Magic Absorption	마력 흡수
-ETC_20191024_042785	Reduces HP and SP by 5% every 5 seconds.	SP와 HP가 5초에 5%씩 감소됩니다.
-ETC_20191024_042786	Recovers HP by 10% per second.	HP가 1초에 10%씩 회복됩니다.
+ETC_20191024_042783	Você não pode se mover devido à Moringponia Curse.
+ETC_20191024_042784	Absorção Mágica
+ETC_20191024_042785	Reduz HP e SP em 5% a cada 5 segundos.
+ETC_20191024_042786	Regenera HP em 10% por segundo.
 ETC_20191024_042787	Nullify Pushback	밀림 방지
-ETC_20191024_042788	Accumulates incoming damage.	피격 받은 데미지를 축적시킵니다.
-ETC_20191024_042789	Become petrified for a specified duration due to a curse.	저주에 걸려 일정 시간 동안, 석화 상태에 걸립니다.
-ETC_20191024_042790	Launch	공중 띄우기
-ETC_20191024_042791	Launches the target into the air.	대상을 공중으로 띄웁니다.
-ETC_20191024_042792	Reduce Defense	방어력 하락
-ETC_20191024_042793	Defense is reduced from acid rain.	산성비에 의해서 방어력이 감소합니다.
-ETC_20191024_042794	medeinaflustered	메데이나당황
-ETC_20191024_042795	medeinahappy	메데이나기쁨
-ETC_20191024_042796	Decorate Hangout	아지트 꾸미기
-ETC_20191024_042797	Facility Management	전문 시설 관리
-ETC_20191024_042798	Silence Resistance +{@st66d_y}{s16}[%d]{/}{/}	침묵 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20191024_042799	Sleep Resistance +{@st66d_y}{s16}[%d]{/}{/}	수면 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20191024_042800	Blind Resistance +{@st66d_y}{s16}[%d]{/}{/}	암흑 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20191024_042801	Bleeding Resistance +{@st66d_y}{s16}[%d]{/}{/}	출혈 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20191024_042802	Stun Resistance +{@st66d_y}{s16}[%d]{/}{/}	스턴 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20191024_042803	Freeze resistance +{@st66d_y}{s16}[%d]{/}{/}, Max. HP +{@st66d_y}{s16}[%d]{/}{/}	빙결 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}, 최대 HP +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20191024_042804	ATK against Medium-type monsters +{@st66d_y}{s16}[%d]{/}{/}	중형 대상 공격력+{@st66d_y}{s16}[%d]{/}{/}
-ETC_20191024_042805	Blind resistance +{@st66d_y}{s16}[%d]{/}{/}, Max. SP +{@st66d_y}{s16}[%d]{/}{/}	암흑 상태이상 저항 +{@st66d_y}{s16}[%d]{/}{/}, 최대 SP +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20191024_042806	Additional damage +{@st66d_y}{s16}[%d]{/}{/} against shielded enemies	실드 적용 중인 대상에게 {@st66d_y}{s16}[%d]{/}{/} 추가 대미지
-ETC_20191024_042807	Hangout Expansion Lv. 1	아지트 확장 1단계
-ETC_20191024_042808	Hangout Expansion Lv. 2	아지트 확장 2단계
-ETC_20191024_042809	Expanded Hangout facilities available{nl}    - Housing items and facilities can be bought and sold{nl}    - Crafting Workshop can be installed{nl}    - Additional spaces in Hangout to install new items and facilities	확장된 길드 아지트 이용 가능{nl}    - 하우징 용품, 시설 구매 및 판매 가능{nl}    - 제작 공방소 설치 가능{nl}    - 아지트 내 하우징 용품 및 시설 배치 가능한 구역 추가
-ETC_20191024_042810	Hangout Expansion Lv. 3	아지트 확장 3단계
-ETC_20191024_042811	Various labs and facilities can be installed{nl}    - Additional spaces in Hangout to install new items and facilities	각종 연구소 설치 및 이용 가능{nl}    - 아지트 내 하우징 용품 및 시설 배치 가능한 구역 확장
-ETC_20191024_042812	Additional spaces in Hangout to install new items and facilities	아지트 내 하우징 용품 및 시설 배치 가능한 구역 확장
-ETC_20191024_042813	Weapons Research max. level +5	무기 연구 최대 레벨 +5
-ETC_20191024_042814	Armor Research max. level +5	방어구 연구 최대 레벨 +5
-ETC_20191024_042815	Property Research max. level +5	속성 연구 최대 레벨 +5
+ETC_20191024_042788	Acumula dano recebido.
+ETC_20191024_042789	Torne-se petrificado por um período especificado devido a uma curse.
+ETC_20191024_042790	Lançamento
+ETC_20191024_042791	Lança o alvo no ar.
+ETC_20191024_042792	Reduz a defesa.
+ETC_20191024_042793	Defesa é reduzida pela chuva ácida.
+ETC_20191024_042794	medeinaflustered
+ETC_20191024_042795	medeinahappy
+ETC_20191024_042796	Decorar o Hangout	
+ETC_20191024_042797	Gerenciamento da Instalação	
+ETC_20191024_042798	Resistência à Silence +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042799	Resistência à Sleep +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042800	Resistência à Blind +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042801	Resistência à Bleeding +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042802	Resistência à Stun +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042803	Resistência à Freeze +{@st66d_y}{s16}[%d]{/}{/}, Max. HP +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042804	Ataque contra monstros de tipo médio +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042805	Resistência à Blind +{@st66d_y}{s16}[%d]{/}{/}, Max. SP +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042806	Dano adicional +{@st66d_y}{s16}[%d]{/}{/} contra inimigos com escudo
+ETC_20191024_042807	Expansão do Hangout Lv. 1
+ETC_20191024_042808	Expansão do Hangout Lv. 2	
+ETC_20191024_042809	Instalações do Hangout expandidas disponíveis{nl}    - Itens e instalações de habitação podem ser comprados e vendidos{nl}    - Estação de Crafting pode ser instalada{nl}    - Espaço adicional no Hangout para adicionar novos itens e instalações
+ETC_20191024_042810	Expansão do Hangout Lv. 3
+ETC_20191024_042811	Vários laboratórios e instalações podem ser instalados{nl}    - Espaço adicional para instalar novos itens e instalações no Hangout{nl}
+ETC_20191024_042812	Espaço adicional para instalar novos itens e instalações no Hangout
+ETC_20191024_042813	Pesquisa de Armas max. level +5	
+ETC_20191024_042814	Pesquisa de Armor max. level +5	
+ETC_20191024_042815	Pesquisa de Propriedades max. level +5
 ETC_20191024_042816	Max. Housing Points +100	하우징 포인트 최대치 +100
-ETC_20191024_042817	Weapons Research - Plant	특수 무기학 - 식물형
-ETC_20191024_042818	Reseach weapons that are effective against{nl}Plant-type monsters.	식물형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
-ETC_20191024_042819	Damage against Plant-type monsters +%s%%	식물형 몬스터에게 주는 대미지 +%s%% 증가
-ETC_20191024_042820	Weapons Research - Insect	특수 무기학 - 곤충형
-ETC_20191024_042821	Reseach weapons that are effective against{nl}Insect-type monsters.	곤충형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
-ETC_20191024_042822	Damage against Insect-type monsters +%s%%	곤충형 몬스터에게 주는 대미지 +%s%% 증가
-ETC_20191024_042823	Weapons Research - Beast	특수 무기학 - 야수형
-ETC_20191024_042824	Reseach weapons that are effective against{nl}Beast-type monsters.	야수형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
-ETC_20191024_042825	Damage against Beast-type monsters +%s%%	야수형 몬스터에게 주는 대미지 +%s%% 증가
-ETC_20191024_042826	Weapons Research - Mutant	특수 무기학 - 변이형
-ETC_20191024_042827	Reseach weapons that are effective against{nl}Mutant-type monsters.	변이형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
-ETC_20191024_042828	Damage against Mutant-type monsters +%s%%	변이형 몬스터에게 주는 대미지 +%s%% 증가
-ETC_20191024_042829	Weapons Research - Devil	특수 무기학 - 악마형
-ETC_20191024_042830	Reseach weapons that are effective against{nl}Devil-type monsters.	악마형 타입의 몬스터에게 효과적인{nl}무기 연구를 진행합니다.
-ETC_20191024_042831	Damage against Devil-type monsters +%s%%	악마형 몬스터에게 주는 대미지 +%s%% 증가
-ETC_20191024_042832	Cloth Armor - Material	천 방어구 - 재질
-ETC_20191024_042833	Research the materials that{nl}cloth armor is made from.	천 방어구의 재질을 강화할 수 있는{nl}연구를 진행합니다.
-ETC_20191024_042834	Reduces +%s%% damage received from monsters{nl}for every cloth armor piece equipped	착용한 천 계열 방어구 개수당{nl}몬스터에게 받는 대미지 +%s%% 감소
-ETC_20191024_042835	Leather Armor - Material	가죽 방어구 - 재질
-ETC_20191024_042836	Research the materials that{nl}leather armor is made from.	가죽 방어구의 재질을 강화할 수 있는{nl}연구를 진행합니다.
-ETC_20191024_042837	Reduces +%s%% damage received from monsters{nl}for every leather armor piece equipped	착용한 가죽 계열 방어구 개수당{nl}몬스터에게 받는 대미지 +%s%% 감소
-ETC_20191024_042838	Plate Armor - Material	판금 방어구 - 재질
-ETC_20191024_042839	Research the materials that{nl}plate armor is made from.	판금 방어구의 재질을 강화할 수 있는{nl}연구를 진행합니다.
-ETC_20191024_042840	Reduces +%s%% damage received from monsters{nl}for every plate armor piece equipped	착용한 판금 계열 방어구 개수당{nl}몬스터에게 받는 대미지 +%s%% 감소
-ETC_20191024_042841	Cloth Armor - Functionality	천 방어구 - 기능성
-ETC_20191024_042842	Research to enhance the functionality{nl}of cloth armor.	천 방어구의 기능성을 보완할 수 있는{nl}연구를 진행합니다.
-ETC_20191024_042843	- SP Recovery +%s for every cloth armor equipped{nl}- %s%% chance to recover additional SP equal to 10%% of SP Recovery amount affected by the number of cloth armor equipped every 20 seconds	- 착용한 천 계열 방어구 개수당 SP 회복력 +%s 증가{nl}- 20초 마다 %s%%확률로 착용한 천계열 방어구 개수당 SP 회복력의 10%%만큼 SP 추가 회복
-ETC_20191024_042844	Leather Armor - Functionality	가죽 방어구 - 기능성
-ETC_20191024_042845	Research to enhance the functionality{nl}of leather armor.	가죽 방어구의 기능성을 보완할 수 있는{nl}연구를 진행합니다.
-ETC_20191024_042846	- +%s max. Stamina for every leather armor equipped{nl}- Reduces stamina consumed while running by %s%% for every leather armor equipped	- 착용한 가죽 계열 방어구 개수당 최대 스태미나 +%s 증가{nl}- 착용한 가죽 계열 방어구 개수당 대시 중 스태미나 소모량 +%s%% 감소
-ETC_20191024_042847	Plate Armor - Functionality	판금 방어구 - 기능성
-ETC_20191024_042848	Research to enhance the functionality{nl}of plate armor.	판금 방어구의 기능성을 보완할 수 있는{nl}연구를 진행합니다.
-ETC_20191024_042849	- HP Recovery +%s for every plate armor equipped{nl}- %s%% chance to recover additional HP equal to 10%% of HP Recovery amount affected by the number of plate armor equipped every 20 seconds	- 착용한 판금 계열 방어구 개수당 HP 회복력 +%s 증가{nl}- 20초 마다 %s%%확률로 착용한 판금 계열 방어구 개수당 HP 회복력의 10%%만큼 SP 추가 회복
-ETC_20191024_042850	- HP Recovery +%s for every plate armor equipped{nl}- %s%%% chance to recover additional HP equal to 10%% of HP Recovery amount affected by the number of plate armor equipped every 20 seconds	- 착용한 판금 계열 방어구 개수당 HP 회복력 +%s 증가{nl}- 20초 마다 %s%%%확률로 착용한 판금 계열 방어구 개수당 HP 회복력의 10%%만큼 SP 추가 회복
-ETC_20191024_042851	Property Theory - Fire	원리 이해 - 불
-ETC_20191024_042852	Conduct a study to understand the theory{nl}behind Fire-property.	불 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
-ETC_20191024_042853	Additional Fire-property damage +%s	불 속성 추가 대미지 +%s 증가
-ETC_20191024_042854	Property Theory - Ice	원리 이해 - 얼음
-ETC_20191024_042855	Conduct a study to understand the theory{nl}behind Ice-property.	얼음 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
-ETC_20191024_042856	Additional Ice-property damage +%s	얼음 속성 추가 대미지 +%s 증가
-ETC_20191024_042857	Property Theory - Lightning	원리 이해 - 전기
-ETC_20191024_042858	Conduct a study to understand the theory{nl}behind Lightning-property.	전기 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
-ETC_20191024_042859	Additional Lightning-property damage +%s	전기 속성 추가 대미지 +%s 증가
-ETC_20191024_042860	Property Theory - Poison	원리 이해 - 독
-ETC_20191024_042861	Conduct a study to understand the theory{nl}behind Poison-property.	독 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
-ETC_20191024_042862	Additional Poison-property damage +%s	독 속성 추가 대미지 +%s 증가
-ETC_20191024_042863	Property Theory - Dark	원리 이해 - 어둠
-ETC_20191024_042864	Conduct a study to understand the theory{nl}behind Dark-property.	어둠 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
-ETC_20191024_042865	Additional Dark-property damage +%s	어둠 속성 추가 대미지 +%s 증가
-ETC_20191024_042866	Property Theory - Holy	원리 이해 - 신성
-ETC_20191024_042867	Conduct a study to understand the theory{nl}behind Holy-property.	신성 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
-ETC_20191024_042868	Additional Holy-property damage +%s	신성 속성 추가 대미지 +%s 증가
-ETC_20191024_042869	Property Theory - Earth	원리 이해 - 땅
-ETC_20191024_042870	Conduct a study to understand the theory{nl}behind Earth-property.	땅 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
-ETC_20191024_042871	Additional Earth-property damage +%s	땅 속성 추가 대미지 +%s 증가
-ETC_20191024_042872	Property Theory - Psychokinesis	원리 이해 - 염
-ETC_20191024_042873	Conduct a study to understand the theory{nl}behind Psychokinesis-property.	염 속성에 대한 원리를 깊이 이해하는{nl}연구를 진행합니다.
-ETC_20191024_042874	Additional Psychokinesis-property damage +%s	염 속성 추가 대미지 +%s 증가
+ETC_20191024_042817	Pesquisa de Armas - Planta
+ETC_20191024_042818	Armas que são efetivas contra{nl}monstros tipo Planta.
+ETC_20191024_042819	Dano contra monstros tipo Planta +%s%%	
+ETC_20191024_042820	Pesquisa de Armas - Inseto	
+ETC_20191024_042821	Armas que são efetivas contra{nl}monstros tipo Inseto.	
+ETC_20191024_042822	Dano contra monstros tipo Inseto +%s%%	
+ETC_20191024_042823	Pesquisa de Armas - Besta	
+ETC_20191024_042824	Armas que são efetivas contra{nl}monstros tipo Besta.
+ETC_20191024_042825 Dano contra monstros tipo Besta +%s%%	
+ETC_20191024_042826	Pesquisa de Armas - Mutante	
+ETC_20191024_042827	Armas que são efetivas contra{nl}}monstros tipo Mutante.
+ETC_20191024_042828	Dano contra monstros tipo Mutante +%s%%	
+ETC_20191024_042829	Pesquisa de Armas - Demônio	
+ETC_20191024_042830	Armas que são efetivas contra{nl}monstros tipo Demônio.
+ETC_20191024_042831	Dano contra monstros tipo Demônio +%s%%	
+ETC_20191024_042832	Cloth Armor - Material
+ETC_20191024_042833	Pesquisa dos materiais dos quais{nl}são feitas as Cloth Armors.
+ETC_20191024_042834	Reduz em +%s%% o dano recebido de monstros{nl}por cada peça de cloth armor equipada
+ETC_20191024_042835	Leather Armor - Material
+ETC_20191024_042836	Pesquisa dos materiais dos quais{nl}são feitas as Leather Armors.
+ETC_20191024_042837	Reduz em +%s%% o dano recebido de monstros{nl}por cada peça de leather armor equipada
+ETC_20191024_042838	Plate Armor - Material
+ETC_20191024_042839	Pesquisa dos materiais dos quais{nl}são feitas as Plate Armors.	
+ETC_20191024_042840	Reduz em +%s%% o dano recebido de monstros{nl}por cada peça de plate armor equipada
+ETC_20191024_042841	Cloth Armor - Funcionalidade
+ETC_20191024_042842	Pesquisa para aumentar a funcionalidade{nl}da cloth armor.
+ETC_20191024_042843	- Recuperação de SP +%s por cada peça de cloth armor equipada{nl}- %s%% chance de regenerar SP adicional igual a 10%% do valor da regeneração de SP a cada 20 segundos de acordo com o número de peças de cloth armor equipadas
+ETC_20191024_042844	Leather Armor - Funcionalidade
+ETC_20191024_042845	Pesquisa para aumentar a funcionalidade{nl}da leather armor.
+ETC_20191024_042846	- +%s max. Stamina por cada peça de leather armor equipada{nl}- Reduz a stamina consumida enquanto corre em %s%% por cada peça de leather armor equipada
+ETC_20191024_042847	Plate Armor - Funcionalidade
+ETC_20191024_042848	Pesquisa para aumentar a funcionalidade{nl}da plate armor.
+ETC_20191024_042849	- Regeneração de HP +%s por cada peça de plate armor equipada{nl}- %s%% chance de regenerar HP adicional igual a 10%% do valor da regeneração de HP a cada 20 segundos de acordo com o número de peças de plate armor equipadas
+ETC_20191024_042850	- Regeneração de HP +%s por cada peça de plate armor equipada{nl}- %s%% chance de regenerar HP adicional igual a 10%% do valor da regeneração de HP a cada 20 segundos de acordo com o número de peças de plate armor equipadas
+ETC_20191024_042851	Teoria da Propriedade - Fogo	원리 이해 - 불
+ETC_20191024_042852	Conduz um estudo para entender a teoria{nl}da propriedade de fogo.
+ETC_20191024_042853	Dano Adicional de propriedade de Fogo +%s
+ETC_20191024_042854	Teoria da Propriedade - Gelo
+ETC_20191024_042855	Conduz um estudo para entender a teoria{nl}da propriedade de gelo.
+ETC_20191024_042856	Dano Adicional de propriedade de Gelo +%s
+ETC_20191024_042857	Teoria da Propriedade - Raio
+ETC_20191024_042858	Conduz um estudo para entender a teoria{nl}da propriedade de raio.
+ETC_20191024_042859	Dano Adicional de propriedade de Raio +%s
+ETC_20191024_042860	Teoria da Propriedade - Veneno
+ETC_20191024_042861	Conduz um estudo para entender a teoria{nl}da propriedade de veneno.
+ETC_20191024_042862	Dano Adicional de propriedade de Veneno +%s	
+ETC_20191024_042863	Teoria da Propriedade - Trevas
+ETC_20191024_042864	Conduz um estudo para entender a teoria{nl}da propriedade de trevas.
+ETC_20191024_042865	Dano Adicional de propriedade de Trevas +%s
+ETC_20191024_042866	Teoria da Propriedade - Divino
+ETC_20191024_042867	Conduz um estudo para entender a teoria{nl}da propriedade de divino.
+ETC_20191024_042868	Dano Adicional de propriedade de Divino +%s
+ETC_20191024_042869	Teoria da Propriedade - Terra
+ETC_20191024_042870	Conduz um estudo para entender a teoria{nl}da propriedade de terra.
+ETC_20191024_042871	Dano Adicional de propriedade de Terra +%s
+ETC_20191024_042872	Teoria da Propriedade - Psicocinese
+ETC_20191024_042873	Conduz um estudo para entender a teoria{nl}da propriedade de psicocinese.
+ETC_20191024_042874	Dano Adicional de propriedade de Psicocinese +%s
 ETC_20191024_042875	Item awakening allows you to unravel hidden features of certain equipments.	아이템 각성을 통해 장비 아이템의 잠재되어 있는 성능을 끌어올릴 수 있습니다.
 ETC_20191024_042876	[Open Item Awakening Shop]{nl} {nl}Use the [Item Awakening] skill to open a player shop.	[아이템 각성 상점 개설]{nl} {nl}[아이템 각성] 스킬을 사용 하면 상점을 개설할 수 있습니다.
 ETC_20191024_042877	{nl} {nl}Enter the name for your shop and press the confirm button to open the shop with sufficient [Awakening Powder] in your inventory.{nl}Awakening requires [Awakening Powders] and you will no longer be able to provide the service when your stock of [Awakening Powders] have run out.	{nl} {nl}상점 이름을 입력하고 [각성 가루]를 충분히 소지한 뒤 개설 버튼을 클릭하면 아이템 각성 상점이 개설됩니다.{nl}각성시에는 [각성 가루]가 반드시 필요하며, [각성 가루]가 모두 소진되면 각성을 진행할 수 없습니다.
