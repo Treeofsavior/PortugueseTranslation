@@ -13952,7 +13952,7 @@ ETC_20150729_013953	The one with the longest English name
 ETC_20150729_013954	The one with the shortest English name
 ETC_20150729_013955	Por favor coloque uma carta na mesa. 
 ETC_20150729_013956	There is no opponent.
-ETC_20150729_013957	You have not yet reached the required level to start this main quest.
+ETC_20150729_013957	Uma missão precisa ser completada antes que você possa prosseguir
 ETC_20150729_013958	{@st41}Recompensa Aleatória{/}
 ETC_20150729_013959	Stunned Wendigo Searcher
 ETC_20150729_013960	You've shot the Wendigo Searcher with the paralyzing needle!{nl}Collect its hair within 10 segundos!
@@ -15051,7 +15051,7 @@ ETC_20151001_015052	Acquired all stones that are needed!
 ETC_20151001_015053	Connecting the Couro strings to make a bundle for bookbinding
 ETC_20151001_015054	You have created the bundle of strings for bookbinding!
 ETC_20151001_015055	You have obtained the Couro string!
-ETC_20151001_015056	The reseach documents have fallen a lot!
+ETC_20151001_015056	The research documents have fallen a lot!
 ETC_20151001_015057	You have obtained research materials!
 ETC_20151001_015058	You don't have research materials
 ETC_20151001_015059	The Revelator already received the benefits before
@@ -28420,7 +28420,7 @@ ETC_20170726_028421	Este item não é uma isca.
 ETC_20170726_028422	Coloque a isca no slot.
 ETC_20170726_028423	Você não tem itens para receber.
 ETC_20170726_028424	Tem certeza de que deseja parar de pescar?
-ETC_20170726_028425	Você tem itens para receber.
+ETC_20170726_028425	Você tem itens para receber. 
 ETC_20170726_028426	Experimente na água.
 ETC_20170726_028427	Você não está em um local de pesca. Por favor, vá para um local de pesca.
 ETC_20170726_028428	Espaços máximo da Caixa de Pesca.
@@ -31010,8 +31010,8 @@ ETC_20171128_031011	The player has denied your request for {SKILL_NAME}.
 ETC_20171128_031012	You have a voucher to change your Guild emblem. Do you want to use it?
 ETC_20171128_031013	Failed to change Guild emblem. Please check the item status.
 ETC_20171128_031014	Portal Stones insuficientes.
-ETC_20171128_031015	Piercing
-ETC_20171128_031016	Corte
+ETC_20171128_031015	Ataque tipo Perfurante
+ETC_20171128_031016	Ataque tipo Corte
 ETC_20171128_031017	Ataque tipo Impacto
 ETC_20171128_031018	Chance de Drop
 ETC_20171128_031019	Pierce Attack
@@ -31417,7 +31417,7 @@ ETC_20180208_031418	Brown Colimen Gem
 ETC_20180208_031419	Blue Fisherman Gem
 ETC_20180208_031420	Yellow Dumaro Gem
 ETC_20180208_031421	Blue Gravegolem Gem
-ETC_20180208_031422	Blue Ticen Crossbow soldier Gem
+ETC_20180208_031422	Blue Ticen Crossbow Soldier Gem
 ETC_20180208_031423	Red Chafperor Gem
 ETC_20180208_031424	Brown Rambear Magician Gem
 ETC_20180208_031425	White Wendigo Searcher Gem
@@ -37754,7 +37754,7 @@ ETC_20190104_037755	No guild has seized this region yet.
 ETC_20190104_037756	After abandoning a guild, you cannot participate in GTW for {day} days.{nl}(You can participate in {time}.)
 ETC_20190104_037757	{day} days {hour} hrs {min} min {sec} sec
 ETC_20190104_037758	- Guilds that seize a Spot can adjust the tax rates in cities ({Min}% to {Max}%). {nl}- The default tax rate applied is {Default}%.{nl}- Tax rates can be adjusted only by the Guild Master or members with the corresponding authority.{nl}- Tax rates can be 
-ETC_20190104_037759	- Itens em geral, armas, armaduras, acessórios e receitas{nl}- Adotar e Treinar Mascotes, e comprar comidas de Mascotes{nl}- Compras com a Sociedade Mágica{nl}- Itens de pescaria{nl}- Reparos, identificação, desmanchar itens, soquetes e extração de gemas{
+ETC_20190104_037759	- Comprando itens, armas, armaduras, acessórios e receitas{nl}- Adotar e Treinar Mascotes, e comprar comidas de Mascotes{nl}- Compras com a Sociedade Mágica{nl}- Comprando Itens de pescaria{nl}- Reparos, identificação, desmanchar itens, adicionar soquetes e extração de gemas{nl}- Mudando a aparência de armas com a opção "Manter Potencial" desmarcada{nl}- Expandindo o espaço do Armazém{nl}- Comprando gemas com a família de Geraldas{nl}- Comprando itens com o Ferreiro Teliavelis
 ETC_20190104_037760	- Tax lists are updated {TaxLoadDelay} hours after the end of GTW.{nl}- Tax allocation is available for {TaxDistributeTime} days after the payment day.{nl}- Important: Tax not distributed during the aforementioned period disappears from the system.{nl}- I
 ETC_20190104_037761	{Date} days
 ETC_20190104_037762	{#000000}You have {#ff0000}Silver{#000000} distributed from the guild.{nl}Will you collect it now?
@@ -40914,14 +40914,14 @@ ETC_20190223_040915	Portal para a Guardian's Antechambers está aberto.{nl}Perma
 ETC_20190223_040916	{@st42}{s16}Ver
 ETC_20190223_040917	Vou participar.
 ETC_20190223_040918	Obrigado pela cooperação. Por favor, tenha cuidado.
-ETC_20190223_040919	O Chefe de Raid irá aparecer no Hangout da Guilda.
-ETC_20190223_040920	O Chefe de Raid apareceu no hangout da Guilda.
+ETC_20190223_040919	Um Chefe de Raid irá aparecer no Hangout da Guilda.
+ETC_20190223_040920	Um Chefe de Raid apareceu no hangout da Guilda.
 ETC_20190223_040921	Seus pontos de contribuição da Raid de Hangout da Guilda são 
 ETC_20190223_040922	, grau de contribuição 
 ETC_20190223_040923	.
 ETC_20190223_040924	Verificar grau de contribuição
 ETC_20190223_040925	A Raid em aberto foi interrompida por causa do período de reinício.
-ETC_20190223_040926	Monstro Chefe foi Derrotado!
+ETC_20190223_040926	O Chefe da Raid de Hangout da Guilda derrotado!
 ETC_20190223_040927	Você não participou de uma Raid de Hangout da Guilda ou não causou dano no Chefe.
 ETC_20190223_040928	Você não pode voltar para o Guild Hall porque está participando em uma Raid de Hangout da Guilda.
 ETC_20190223_040929	Não pode ser usado em locais de Territory War.
@@ -42368,7 +42368,7 @@ ETC_20190802_042369	[Miko]
 ETC_20190802_042370	[Zealot]
 ETC_20190802_042371	[Exorcist]
 ETC_20190802_042372	[Scout]
-ETC_20190802_042373	[Assasin]
+ETC_20190802_042373	[Assassin]
 ETC_20190802_042374	[Outlaw]
 ETC_20190802_042375	[Squire]
 ETC_20190802_042376	[Corsair]
@@ -42386,7 +42386,7 @@ ETC_20190802_042387	Ataque Mágico {img green_up_arrow 16 16} 571{nl}Ataque Fís
 ETC_20190802_042388	SP {img green_up_arrow 16 16} 1435{nl}[Sumazinti]{nl}- Reduz a Defesa Física e Mágica de 5 inimigos próximos em 25% por 10 segundos.{nl}(Cooldown: 100 segundos){nl} {nl}[Dragon Strength Nv. 1]{nl}- Duração aumenta para 15 segundos e redução da Defesa Física e Mágica aumenta para 30%
 ETC_20190802_042389	DEX {img green_up_arrow 16 16} 25{nl}SPR {img green_up_arrow 16 16} 25
 ETC_20190802_042390	CON {img green_up_arrow 16 16} 25{nl}DEX {img green_up_arrow 16 16} 25{nl}SPR {img green_up_arrow 16 16} 25
-ETC_20190802_042391	[Barreira de Goduma]{nl}- Reduz o dano recebido em 1/5 do percentual de HP perdido (máximo de 10%, efeito contínuo){nl}- Efeito de redução de dano aplicado nos aliados em proporção ao seu HP Máximo (máximo 50%){nl}- 1% de redução de dano a cada 0.5s, por 20s{nl} {nl}[Dragon Strength Nv. 1]{nl}- Redução máxima de dano aumentado para 60%
+ETC_20190802_042391	[Barreira de Goduma]{nl}- Reduz o dano recebido em 1/5 do percentual de HP perdido (máximo de 10%, efeito contínuo){nl}- Efeito de redução de dano aplicado nos aliados em proporção ao seu HP Máximo (máximo 50%){nl}- O efeito de redução de dano reduz em 1% a cada 0.5s, por 20s{nl} {nl}[Dragon Strength Nv. 1]{nl}- Redução máxima de dano aumentado para 60%
 ETC_20190802_042392	[Convicção de Gymas]{nl}- Cura: +40%, Consumo de SP das habilidades: -25% (Duração: 40 segundos){nl}- Aliados recebem -10% de dano por 20 segundos{nl} {nl}[Dragon Strength Nv. 1]{nl}- Redução adicional do Consumo de SP em 25%
 ETC_20190802_042393	[Contra Ataque de Smugis]{nl}- Aumenta o dano causado em propoção ao valor atual do HP do inimigo (HP Atual / HP Total) x 200% (mínimo 120%, máximo 240%){nl}- Dano fixo igual a 1% do HP Máximo do inimigo (máximo: 10.000, ciclo de dano: 0.5 seg, duração: 20 seg){nl} {nl}[Dragon Strength Nv 1]{nl}- Duração aumentada em 5 segundos
 ETC_20190802_042394	{/}: Derrote os monstros roxos em mapas de {@st66d_y}nível 100 ou mais{/} para abrir um portal para o Modo Desafio.{nl}Neste modo, a Chance de Drop, que aumenta a {@st66d_y}a chance de obter itens itendificáveis{/}, é aumentada e, a cada estágio, você pode receber {@st66d_y}
@@ -42414,7 +42414,7 @@ ETC_20190802_042415	Você não possui a classe necessária para utilizar este Ma
 ETC_20190802_042416	Você não pode ter mais que {MaxStack} [{Name}].
 ETC_20190802_042417	Os efeitos de algumas missões podem não serem exibidos corretamente. Prosseguir?
 ETC_20190802_042418	Só pode ser utilizado nas cidades de Klaipeda, Orsha e Fedimian
-ETC_20190802_042419	Melhorar Ataque do Grupo [Cristal de Fogo x{COUNT}]
+ETC_20190802_042419	Melhorar Dano do Grupo [Cristal de Fogo x{COUNT}]
 ETC_20190802_042420	Invocar Raio [Cristal de Fogo x{COUNT}]
 ETC_20190802_042421	Recompensas do evento só são entregues se fizer parte da uma Guilda
 ETC_20190802_042422	Você recebeu as Warpstones das cidades!{nl}Verifique no seu Inventário!
@@ -42742,7 +42742,7 @@ ETC_20191024_042743	Aumenta o dano contra o Misrus.
 ETC_20191024_042744	Aumenta a defesa.
 ETC_20191024_042745	Reduz o dano recebido do Misrus.
 ETC_20191024_042746	Protege contra o dano recebido por Misrus.
-ETC_20191024_042747	Beserk
+ETC_20191024_042747	Berserk
 ETC_20191024_042748	O verdadeiro poder de Misrus é liberado quando ele se liberta dos poderes que o prendem.
 ETC_20191024_042749	Misrus' Psychokinesis
 ETC_20191024_042750	Movimento é retardado devido à Psychokinesis.
@@ -42813,19 +42813,19 @@ ETC_20191024_042814	Pesquisa de Armor max. level +5
 ETC_20191024_042815	Pesquisa de Propriedades max. level +5
 ETC_20191024_042816	Max. Housing Points +100	하우징 포인트 최대치 +100
 ETC_20191024_042817	Pesquisa de Armas - Planta
-ETC_20191024_042818	Armas que são efetivas contra{nl}monstros tipo Planta.
+ETC_20191024_042818	Pesquisa armas que são efetivas contra{nl}monstros tipo Planta.
 ETC_20191024_042819	Dano contra monstros tipo Planta +%s%%	
 ETC_20191024_042820	Pesquisa de Armas - Inseto	
-ETC_20191024_042821	Armas que são efetivas contra{nl}monstros tipo Inseto.	
+ETC_20191024_042821	Pesquisa armas que são efetivas contra{nl}monstros tipo Inseto.	
 ETC_20191024_042822	Dano contra monstros tipo Inseto +%s%%	
 ETC_20191024_042823	Pesquisa de Armas - Besta	
-ETC_20191024_042824	Armas que são efetivas contra{nl}monstros tipo Besta.
+ETC_20191024_042824	Pesquisa armas que são efetivas contra{nl}monstros tipo Besta.
 ETC_20191024_042825 Dano contra monstros tipo Besta +%s%%	
 ETC_20191024_042826	Pesquisa de Armas - Mutante	
-ETC_20191024_042827	Armas que são efetivas contra{nl}}monstros tipo Mutante.
+ETC_20191024_042827	Pesquisa armas que são efetivas contra{nl}}monstros tipo Mutante.
 ETC_20191024_042828	Dano contra monstros tipo Mutante +%s%%	
 ETC_20191024_042829	Pesquisa de Armas - Demônio	
-ETC_20191024_042830	Armas que são efetivas contra{nl}monstros tipo Demônio.
+ETC_20191024_042830	Pesquisa armas que são efetivas contra{nl}monstros tipo Demônio.
 ETC_20191024_042831	Dano contra monstros tipo Demônio +%s%%	
 ETC_20191024_042832	Cloth Armor - Material
 ETC_20191024_042833	Pesquisa dos materiais dos quais{nl}são feitas as Cloth Armors.
@@ -43262,9 +43262,9 @@ ETC_20191024_043263	Ausurine's Power Leveling Package	점핑 패키지
 ETC_20191024_043264	Right-click to use and obtain the following items.{nl} - Lv. 400 EXP Card x1{nl} - Class EXP Card Box x1{nl} - Character Slot Voucher x1{nl} - Legend Card (Demon Lord) Envelope{nl} - 1,000 Attribute Points Ticket x5{nl} - Raid Portal Stone x30{nl}	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 캐릭터 경험치 카드 (400레벨){nl} - 클래스 경험치 카드 상자{nl} - 캐릭터 슬롯 추가 이용권{nl} - 레전드 카드(마군주) 봉투{nl} - 특성 포인트 1,000 5개{nl} - 레이드 포탈 스톤 30개{nl}
 ETC_20191024_043265	SPR {img green_up_arrow 16 16} 35{nl}HP {img green_up_arrow 16 16} 52	정신 {img green_up_arrow 16 16} 35{nl}체력 {img green_up_arrow 16 16} 52
 ETC_20191024_043266	Healing {img green_up_arrow 16 16} 357	치유력 {img green_up_arrow 16 16} 357
-ETC_20191024_043267	Aqkrova{nl}Creates a red magic circle. Increases the damage of allies within the range of the circle by +30% and recovers their HP in amounts equal to 0.1% of their attack(cannot be stacked, Duration: 10 seconds){nl}Reduces damage received by caster by -50% (Duration: 100 seconds, cannot be removed){nl} {nl}Dragon Strength Lv. 1{nl}- Ally damage increase is boosted to +50%	앱크로바{nl} 붉은색 마법진이 펼쳐집니다. 해당 마법진 위에있는 아군의 대미지 30% 증가 공격시 대미지의 0.1%만큼 체력 회복(중복 적용 불가, 10초 지속){nl}시전자의 최종 대미지 50% 감소 (100초 지속, 제거 불가){nl} {nl}드래곤의 기운 1단계 효과{nl} - 아군의 대미지 증가 50%로 변경됩니다.
+ETC_20191024_043267	Aqkrova{nl}Creates a red magic circle. Increases the damage of allies within the range of the circle by +30% and recovers their HP in amounts equal to 0.1% of their damage dealt (cannot be stacked, Duration: 10 seconds){nl}Reduces final damage dealt by caster by -50% (Duration: 100 seconds, cannot be removed){nl} {nl}Dragon Strength Lv. 1{nl}- Ally damage increase is boosted to +50%	앱크로바{nl} 붉은색 마법진이 펼쳐집니다. 해당 마법진 위에있는 아군의 대미지 30% 증가 공격시 대미지의 0.1%만큼 체력 회복(중복 적용 불가, 10초 지속){nl}시전자의 최종 대미지 50% 감소 (100초 지속, 제거 불가){nl} {nl}드래곤의 기운 1단계 효과{nl} - 아군의 대미지 증가 50%로 변경됩니다.
 ETC_20191024_043268	Physical Attack {img green_up_arrow 16 16} 257{nl}Magic Attack {img green_up_arrow 16 16} 257	물리 공격력 {img green_up_arrow 16 16} 257{nl}마법 공격력 {img green_up_arrow 16 16} 257
-ETC_20191024_043269	Attack against Medium-type Monsters {img green_up_arrow 16 16} 571	중형 대상 공격력 {img green_up_arrow 16 16} 571
+ETC_20191024_043269	Ataque contra alvos de tamanho Médio {img green_up_arrow 16 16} 571
 ETC_20191024_043270	Physical Defense {img green_up_arrow 16 16} 1300	물리 방어력  {img green_up_arrow 16 16} 1300
 ETC_20191024_043271	Magic Defense {img green_up_arrow 16 16} 1300	마법 방어력  {img green_up_arrow 16 16} 1300
 ETC_20191024_043272	Atagal{nl}Deals damage equal to the DEF value of your shield when attacked. (Duration: 50 seconds, Cooldown: 100 seconds){nl}Dragon Strength Lv. 1{nl}- Physical damage increased to 160% of shield's DEF value.	아트갈{nl} 피격시 방패 방어력 만큼 물리 대미지로 돌려줍니다. (버프 지속시간 50초, 재사용 대기시간 100초) {nl}드래곤의 기운 1단계 효과{nl} - 물리 대미지가 방패 방어력의 160%로 늘어납니다.
@@ -43276,8 +43276,7 @@ ETC_20191024_043277	Critical Rate {img green_up_arrow 16 16} 52	치명타 발생
 ETC_20191024_043278	Proverbs{nl}- The max. damage cap is increased to 4,000,000 on use. Deals additional damage equal to 20% of your damage if the damage is over 999,999. (Duration: 25 seconds, Cooldown: 100 seconds){nl}- Dragon Strength Lv. 1{nl}- Additional damage dealt increases to 30%	프로버스{nl} - 사용시 최대 대미지 상한이 4,000,000으로 증가합니다. 또한 대미지가 999,999를 넘으면 가한 대미지의 20%만큼 추가대미지를 줍니다.(버프 지속시간: 25초, 재사용 대기시간 100초){nl} - 드래곤의 기운 1단계 효과{nl} - 추가 대미지가 30%로 증가합니다.
 ETC_20191024_043279	SPR {img green_up_arrow 16 16} 65	정신 {img green_up_arrow 16 16} 65
 ETC_20191024_043280	SPR {img green_up_arrow 16 16} 72	정신  {img green_up_arrow 16 16} 72
-ETC_20191024_043281	Liris{nl}- Grants a Liris buff on summons. Liris buff provides additional damage equal to damage from the summon's attack. (Duration: 30 seconds, Cooldown: 100 seconds){nl}- Dragon Strength Lv. 1{nl}- Duration increases by 15 seconds.	리리스{nl} - 리리스 사용시 현재 소환된 소환수에게 리리스 버프를 적용합니다. 리리스 버프는 공격한 대미지와 동일한 수치의 대미지로 적에게 추가 타격을 입힙니다.(버프 지속 시간 30초, 재사용 대기 시간 100초){nl} - 드래곤의 기운 1단계 효과{nl} - 지속시간이 15초 증가합니다.
-ETC_20191024_043282	Sewer Docks	지하수로 선착장
+ETC_20191024_043281	Liris{nl}- Grants the Liris buff to summons. The Liris buff provides additional damage equal to damage from the summon's attack. (Duration: 30 seconds, Cooldown: 100 seconds){nl}- Dragon Strength Lv. 1{nl}- Duration increases by 15 seconds.	리리스{nl} - 리리스 사용시 현재 소환된 소환수에게 리리스 버프를 적용합니다. 리리스 버프는 공격한 대미지와 동일한 수치의 대미지로 적에게 추가 타격을 입힙니다.(버프 지속 시간 30초, 재사용 대기 시간 100초){nl} - 드래곤의 기운 1단계 효과{nl} - 지속시간이 15초 증가합니다.
 ETC_20191024_043283	Misrus' Chamber	폐쇄구역
 ETC_20191024_043284	Sealed Passage	폐쇄된 연결 통로
 ETC_20191024_043285	Sewers Main Control Room	지하수로 시설 주 제어실
@@ -43525,7 +43524,7 @@ ETC_20191024_043526	Congratulations!{nl}{PC} has received {ITEM} by the Goddess'
 ETC_20191024_043527	The Goddess' Grace event has begun!{nl}You can only participate in towns.{nl}The event may end prematurely when all Legend items are given away.	여신의 가호 이벤트가 시작되었습니다!{nl}마을에서 참여 가능합니다.{nl}레전드 아이템 소진 시 조기 종료될 수 있습니다
 ETC_20191024_043528	The Goddess' Grace event has ended!	여신의 가호 이벤트가 종료되었습니다!
 ETC_20191024_043529	An error occurred and the Goddess' Grace event has failed to initialize. We are sorry.	문제가 발생하여 여신의 가호 이벤트 시작에 실패했습니다. 죄송합니다.
-ETC_20191024_043530	The world boss has been defeated by the brave Saviors. Goddess' Grace event will begin in {TIME} seconds.{nl}Please return to a nearest town if you want to take part in the event.	월드 보스가 구원자들에 의해 쓰러졌습니다. {TIME}초 후 여신의 가호 이벤트가 시작됩니다.{nl}참여를 원하시는 구원자분들은 마을로 이동해 주시기 바랍니다.
+ETC_20191024_043530	The world boss has been defeated by the brave Saviors. Goddess' Grace event will begin in {TIME} seconds.{nl}Please return to the nearest town if you want to take part in the event.	월드 보스가 구원자들에 의해 쓰러졌습니다. {TIME}초 후 여신의 가호 이벤트가 시작됩니다.{nl}참여를 원하시는 구원자분들은 마을로 이동해 주시기 바랍니다.
 ETC_20191024_043531	Leave the Guild?{nl}    {nl}All Housing Items in your possession will be returned to the Guild Storage.	길드를 탈퇴하시겠습니까?{nl}    {nl}소지중인 하우징 물품들은 길드 보관함으로 반환 됩니다.
 ETC_20191024_043532	Obtained {value} Guild Contribution Points.	{value}의 길드 기여도를 획득했습니다.
 ETC_20191024_043533	The Guild Quest cannot be entered from the current location.	현재 맵에서는 시도중인 길드 퀘스트에 입장할 수 없습니다.
@@ -43560,7 +43559,7 @@ ETC_20191024_043561	Warp to Market NPC	마켓 NPC로 이동
 ETC_20191024_043562	Revelation of Crystal Mine	수정 광산의 계시
 ETC_20191024_043563	Cannot warp due to level restriction or an incomplete quest.{nl}Please try again after increasing your level or completing more quests.	레벨 제한 또는 퀘스트 미 완료로 인해 이동하실 수 없습니다.{nl}레벨을 더 올려주시거나 일부 퀘스트를 클리어하고 다시 시도해주세요.
 ETC_20191024_043564	You've accomplished the hidden mission!{nl}Talk to the Magic Association NPC in Klaipeda or Orsha to claim your reward!	히든 미션의 목표를 달성했습니다!{nl}클라페다나 오르샤에 있는 마법협회 NPC와 대화해 보상을 받아 가세요!
-ETC_20191024_043565	The smll of {#FA3366}Delivery Savior{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}'s Pizza is spreading all across the world.{/}	{#FA3366}배달원{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}님의 피자 냄새가 느껴집니다.{/}
+ETC_20191024_043565	The smell of {#FA3366}Delivery Savior{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}'s Pizza is spreading all across the world.{/}	{#FA3366}배달원{/}{s18}{@st66d_y}{PC}{/}{/}{#FA3366}님의 피자 냄새가 느껴집니다.{/}
 ETC_20191024_043566	Pizza Buff (1 hr)	피자 버프 적용 (1시간)
 ETC_20191024_043567	Delivery Buff (24 hr)	배달원 버프 적용 (24시간)
 ETC_20191024_043568	{@st47}{s21}You are already receiving the Delivery Buff.{/}{/}{nl} {nl}Re-using the item{nl}{@st66d_y}does not extend the duration of your current Delivery Buff{/},{nl}and only the duration of the Pizza Buff is recharged to 1 hour.{nl} {nl}Still use the item?	{@st47}{s21}이미 배달원의 혜택을 적용받고 있습니다.{/}{/}{nl} {nl}아이템을 재사용할 경우{nl}배달원 버프의 {@st66d_y}추가 시간이 제공되지 않으며{/},{nl}피자 버프만 1시간으로 변경됩니다.{nl} {nl}그래도 적용하시겠습니까?
