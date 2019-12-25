@@ -43277,6 +43277,7 @@ ETC_20191024_043278	Proverbs{nl}- The max. damage cap is increased to 4,000,000 
 ETC_20191024_043279	SPR {img green_up_arrow 16 16} 65	정신 {img green_up_arrow 16 16} 65
 ETC_20191024_043280	SPR {img green_up_arrow 16 16} 72	정신  {img green_up_arrow 16 16} 72
 ETC_20191024_043281	Liris{nl}- Grants the Liris buff to summons. The Liris buff provides additional damage equal to damage from the summon's attack. (Duration: 30 seconds, Cooldown: 100 seconds){nl}- Dragon Strength Lv. 1{nl}- Duration increases by 15 seconds.	리리스{nl} - 리리스 사용시 현재 소환된 소환수에게 리리스 버프를 적용합니다. 리리스 버프는 공격한 대미지와 동일한 수치의 대미지로 적에게 추가 타격을 입힙니다.(버프 지속 시간 30초, 재사용 대기 시간 100초){nl} - 드래곤의 기운 1단계 효과{nl} - 지속시간이 15초 증가합니다.
+ETC_20191024_043282	Sewer Docks	지하수로 선착장
 ETC_20191024_043283	Misrus' Chamber	폐쇄구역
 ETC_20191024_043284	Sealed Passage	폐쇄된 연결 통로
 ETC_20191024_043285	Sewers Main Control Room	지하수로 시설 주 제어실
@@ -43426,14 +43427,14 @@ ETC_20191024_043428	Go to the location where the Coward Chesha appears.	겁쟁�
 ETC_20191024_043429	Misrus is crying out in pain due to the device being activated.	장치가 작동하여 머즈루스가 괴로워 합니다.
 ETC_20191024_043430	Misrus Suppression Device	머즈루스 제압 장치
 ETC_20191024_043431	Using Misrus Suppression Device	머즈루스 제압 장치 사용 중
-ETC_20191024_043432	60 seconds remaining until Coward Chesha arrives.	겁쟁이 체샤가 지하수로에 도착하기까지 60초 남았습니다.
-ETC_20191024_043433	Device used for entering Misrus' Chamber.{nl}You have {#ff0000}{COUNT}{/} tries remaining this week.{nl}Your entry will be counted only after acquiring the reward after defeating the boss.{nl}Enter?{nl}{#ff0000}※	폐쇄구역에 들어가기 위한 장치입니다.{nl}이번주의 남은 이용 횟수는 {#ff0000}{COUNT} 회{/} 입니다.{nl}보스처치 후 클리어 보상 획득 시 이용 횟수가 차감됩니다.{nl}입장하시겠습니까?{nl}{#ff0000}※
-ETC_20191024_043434	 bosses.{nl}	 보스처치와 횟수를 공유합니다.{nl}
-ETC_20191024_043435	Please select the difficulty.{nl}※ Scroll Device Effect{nl}1. Attack +1200 per stack, max. 4 stacks{nl}2. Defense +1500 per stack, max. 4 stacks{nl}3. Shield +25000 per stack, max. 4 stacks{nl}{#ff0000}The effects of the buff is halved with the Hard difficulty.{/}	난이도를 선택해주세요.{nl}※보급품 이용 장치 효과{nl}1. 중첩당 공격력 1200 증가 최대 4 중첩 가능{nl}2. 중첩당 방어력 1500 증가, 최대 4 중첩 가능{nl}3. 중첩당 대미지를 대신 받는 실드 25000 획득, 최대 4중첩 가능{nl}{#ff0000}어려움 난이도에서는 버프의 증가되는 효과가 반으로 줄어듭니다.{/}
-ETC_20191024_043436	120 seconds remaining until Coward Chesha arrives.	겁쟁이 체샤가 지하수로에 도착하기까지 120초 남았습니다.
-ETC_20191024_043437	30 seconds remaining until Coward Chesha arrives.	겁쟁이 체샤가 지하수로에 도착하기까지 30초 남았습니다.
-ETC_20191024_043438	Use the device.	장치를 사용한다.
-ETC_20191024_043439	Do not use the device.	장치를 사용하지 않는다.
+ETC_20191024_043432	60 segundos restantes até Coward Chesha aparecer.
+ETC_20191024_043433	Dispositivo para entrar na Câmara do Misrus.{nl}Você possui {#ff0000}{COUNT}{/} tentativas restantes nesta semana.{nl}Sua entrada será contabilizada somente depois de obter a recompensa ao derrotar o Misrus.{nl}Deseja Prosseguir?{nl}{#ff0000}※
+ETC_20191024_043434	 .{nl}
+ETC_20191024_043435	Por favor, escolha a dificuldade:{nl}※ Efeito do Dispositivo de Pergaminho{nl}1. +1.200 Ataque por acúmulo (máx. 4 acúmulos){nl}2. +1.500 Defesa por acúmulo (máx. 4 acúmulos){nl}3. +25.000 de escudo por acúmulo (máx. 4 acúmulos){nl}{#ff0000}Efeitos reduzidos pela metade no modo Difícil.{/}
+ETC_20191024_043436	120 segundos restantes até Coward Chesha aparecer.
+ETC_20191024_043437	30 segundos restantes até Coward Chesha aparecer.
+ETC_20191024_043438	Usar o dispositivo.
+ETC_20191024_043439	Não usar o dispositivo.
 ETC_20191024_043440	Misrus has created a Psychokinetic crystal.{nl}You must destroy it before it is activated.	머즈루스가 염력 결정을 생성했습니다.{nl}염력 결정이 활성화되기 전에 파괴해야 합니다.
 ETC_20191024_043441	Time until the player-tracking Psychokinesis activates	계시자 추적 염력 활성화까지
 ETC_20191024_043442	Time until Misrus recovery Psychokinesis activates	머즈루스 회복 염력 활성화까지
@@ -43725,8 +43726,8 @@ ETC_20191024_043727	Create Shield Device	실드 생성 장치
 ETC_20191024_043728	PC Life 1	피씨 목숨 1
 ETC_20191024_043729	Continue?	이어하시겠습니까?
 ETC_20191024_043730	Fail Check	실패 확인 용
-ETC_20191024_043731	The battle will begin shortly.{nl}Use the scrolls before the battle begins for desired effect.	곧 전투가 시작됩니다.{nl}전투 시작 전 보급품을 사용하여 원하는 효과를 받으세요.
-ETC_20191024_043732	Misrus has appeared.{nl}Defeat Misrus before it goes into a rampage.	머즈루스가 등장합니다.{nl}머즈루스가 폭주하기 전에 처지해야 합니다.
+ETC_20191024_043731	A batalha começará em breve!{nl}Use os pergaminhos antes do início para obter seus efeitos!
+ETC_20191024_043732	Misrus apareceu!{nl}Derrote-o antes que fique mais violento!
 ETC_20191024_043733	Mini Game Reward Cube	미니게임 보상 큐브
 ETC_20191024_043734	Failed to defeat Misrus.	머즈루스 처치에 실패하였습니다.
 ETC_20191024_043735	Successfully defeated Misrus.{nl}Warp gate to the Docks will be opened in 10 seconds.	머즈루스 처치에 성공하였습니다.{nl}10초 후 선착장 방향 포탈이 생성됩니다.
