@@ -7271,10 +7271,10 @@ ETC_20150317_007271	Ordinary Wife
 ETC_20150317_007272	Old Man
 ETC_20150317_007273	Secret Warp Portal
 ETC_20150317_007274	Old Lady (Aquamarine)
-ETC_20150317_007275	Old Lady (Blue)
+ETC_20150317_007275	Old Lady (Azul)
 ETC_20150317_007276	Old Lady (Dark Brown)
-ETC_20150317_007277	Old Lady (Pink)
-ETC_20150317_007278	Old Lady (Purple)
+ETC_20150317_007277	Old Lady (Rosa)
+ETC_20150317_007278	Old Lady (Roxo)
 ETC_20150317_007279	Cable Car
 ETC_20150317_007280	Half-destroyed Altar
 ETC_20150317_007281	Sanctum Object
@@ -11341,7 +11341,7 @@ ETC_20150428_011342	Wagon Warehouse
 ETC_20150428_011343	Siauliai Discolored Grass4
 ETC_20150428_011344	Teleport Magic Circle
 ETC_20150428_011345	Vine_For Goddess Statue
-ETC_20150428_011346	Mausoleum Gravestone03 (Blue)
+ETC_20150428_011346	Mausoleum Gravestone03 (Azul)
 ETC_20150428_011347	Wide leaf vine_blue
 ETC_20150428_011348	Empty Wagon_Collusion Box present
 ETC_20150428_011349	Fluttering Paper
@@ -14183,9 +14183,9 @@ ETC_20150804_014184	TypeFManager
 ETC_20150804_014185	Place to put the Stone
 ETC_20150804_014186	Zachariel's Epitaph
 ETC_20150807_014187	Taxa de Ataque em Área {img red_up_arrow 16 16} 2
-ETC_20150807_014188	Dano Elemental Raio{img attri_Lightning 23 23} {img red_up_arrow 16 16} 30
+ETC_20150807_014188	Dano Adicional: Raio{img attri_Lightning 23 23} {img red_up_arrow 16 16} 30
 ETC_20150807_014189	Defesa {img red_up_arrow 16 16} 6
-ETC_20150807_014190	Dano Elemental Trevas{img attri_Dark 23 23} {img red_up_arrow 16 16} 30
+ETC_20150807_014190	Dano Adicional: Trevas{img attri_Dark 23 23} {img red_up_arrow 16 16} 30
 ETC_20150807_014191	Veloc. de Movimento {img red_up_arrow 16 16} 5
 ETC_20150807_014192	Resistência Elementar Fogo {img red_up_arrow 16 16} 15
 ETC_20150807_014193	Ataque Elemental Divino {img red_up_arrow 16 16} 168{nl}Ataque Elemental Trevas {img red_up_arrow 16 16} 168
@@ -14349,10 +14349,10 @@ ETC_20150918_014350	Traitor's Diary
 ETC_20150918_014351	Light Metal Set
 ETC_20150918_014352	Taxa de Ataque em Área {img green_up_arrow 16 16} 1
 ETC_20150918_014353	Defense {img green_up_arrow 16 16} 6
-ETC_20150918_014354	Dano Elemental Trevas{img attri_Dark 23 23} {img green_up_arrow 16 16} 30
+ETC_20150918_014354	Dano Adicional: Trevas{img attri_Dark 23 23} {img green_up_arrow 16 16} 30
 ETC_20150918_014355	Movement Speed {img green_up_arrow 16 16} 5
 ETC_20150918_014356	Ataque Elemental Fogo {img green_up_arrow 16 16} 15
-ETC_20150918_014357	Ataque Elemental Divino {img green_up_arrow 16 16}168{nl}Dano Elemental Trevas{img attri_Dark 23 23} {img green_up_arrow 16 16} 168
+ETC_20150918_014357	Ataque Elemental Divino {img green_up_arrow 16 16}168{nl}Dano Adicional: Trevas{img attri_Dark 23 23} {img green_up_arrow 16 16} 168
 ETC_20150918_014358	HP Recovery {img green_up_arrow 16 16} 16
 ETC_20150918_014359	Todos os Stats {img green_up_arrow 16 16} 1
 ETC_20150918_014360	Earth Property Additional Damage {img green_up_arrow 16 16} 12
@@ -31375,7 +31375,7 @@ ETC_20180208_031376	STR +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{
 ETC_20180208_031377	Dano Adicional: Fogo{img attri_Fire 23 23} +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031378	INT +{@st66d_y}{s16}[%d]{/}{/}, SPR +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031379	{@st66d_y}{s16}[%d]{/}{/}%% chance de rec. 3%% HP quando atacado por monstro Grande
-ETC_20180208_031380	Resistência Elemental: FogoFogo{img attri_Fire 23 23} +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20180208_031380	Resistência Elemental: Fogo{img attri_Fire 23 23} +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031381	Defesa Física +{@st66d_y}{s16}[%d]{/}{/}%%
 ETC_20180208_031382	Taxa de Crítico +{@st66d_y}{s16}[%d]{/}{/}
 ETC_20180208_031383	Provocação ao atacar +{@st66d_y}{s16}[%d]{/}{/}%%
@@ -32101,9 +32101,9 @@ ETC_20180418_032102	Os Onmyoji são capazes de invocar espíritos divinos e usar
 ETC_20180418_032103	Os Onmyoji são capazes de invocar espíritos divinos e usar a magia de Yin e Yang em combate, o que lhes permite enfrentar um grande número de oponentes simultaneamente. 
 ETC_20180418_032104	Magic Stone Tower
 ETC_20180418_032105	Mestre Retiarius
-ETC_20180418_032106	Paper Doll (White)
-ETC_20180418_032107	Paper Doll (Red)
-ETC_20180418_032108	Paper Doll (Black)
+ETC_20180418_032106	Paper Doll (Branco)
+ETC_20180418_032107	Paper Doll (Vermelho)
+ETC_20180418_032108	Paper Doll (Preto)
 ETC_20180418_032109	I came to talk to you about the Onmyoji support project.
 ETC_20180418_032110	Você parece muito cansado.
 ETC_20180418_032111	Atributos de Retiarius
@@ -42681,62 +42681,62 @@ ETC_20190920_042682	Você já possui uma arma de crescimento que alcançou Refin
 ETC_20190920_042683	Você só pode ter uma arma de crescimento no seu inventário para utilizar este item.
 ETC_20190920_042684	Você não possui uma arma de crescimento no seu inventário.
 ETC_20190920_042685	{nl} {nl}Aumenta a EXP base do personagem até o nível 400.{nl} {nl}{@st66d_y}Utilizar o cartão de EXP?
-ETC_20191024_042686	Misrus	머즈루스
-ETC_20191024_042687	Misrus está aprisionado em Outer Wall Sewers desde Medzio Diena. De acordo com o diário de um membro morto de Schaffenstar encontrado nos esgotos, os Chesha tinham medo do Misrus, mas não fogiam por medo de algo ainda maior que os deixava aprisionados nos esgotos. Seja lá o que fosse a criatura, ela deve ter sido pelo menos um Demon Lord ou algo ainda pior.
-ETC_20191024_042688	Tiny Tini	꼬꼬마 티니
-ETC_20191024_042689	A Tiny Tini that has followed you because of its fondness for humans.	인간이 좋아서 당신을 따라온 꼬꼬마 티니입니다.
-ETC_20191024_042690	Large Cheshavenom	커다란 체샤베놈
-ETC_20191024_042691	Moring Sphere	모링 구체
-ETC_20191024_042692	Unique Moringponia	유니크 모링포니아
-ETC_20191024_042693	Legend Moringponia	레전드 모링포니아
-ETC_20191024_042694	Unique Tantaliser	유니크 탄타이저
-ETC_20191024_042695	Legend Tantaliser	레전드 탄타이저
-ETC_20191024_042696	Raid Helper	레이드 도우미
-ETC_20191024_042697	Gimmick Fairy	기믹 요정
-ETC_20191024_042698	[Event] Bernice Giant Denoptic	[이벤트] 베르니케 거대 덴옵틱
-ETC_20191024_042699	[Event] Bernice Gimmick Monster	[이벤트] 베르니케 기믹 몬스터
-ETC_20191024_042700	Gravity Sphere	중력 구체
-ETC_20191024_042701	TOS Ranger City Popup Book	TOS 레인저 시티 팝업북
+ETC_20191024_042686	Misrus
+ETC_20191024_042687	Misrus está aprisionado em Outer Wall Sewers desde Medzio Diena. De acordo com o diário de um membro morto da Schaffenstar, encontrado nos esgotos, os Chesha tinham medo do Misrus, mas não fugiam por medo de algo ainda maior que os deixava aprisionados nos esgotos. Seja lá o que fosse a criatura, ela deve ter sido pelo menos um Demon Lord ou algo ainda pior.
+ETC_20191024_042688	Tiny Tini
+ETC_20191024_042689	Um pequeno Tini que seguiu você por causa do carinho que possui por humanos.
+ETC_20191024_042690	Large Cheshavenom
+ETC_20191024_042691	Moring Sphere
+ETC_20191024_042692	Unique Moringponia
+ETC_20191024_042693	Legend Moringponia
+ETC_20191024_042694	Unique Tantaliser
+ETC_20191024_042695	Legend Tantaliser
+ETC_20191024_042696	Raid Helper
+ETC_20191024_042697	Gimmick Fairy
+ETC_20191024_042698	[Evento] Bernice Giant Denoptic
+ETC_20191024_042699	[Evento] Bernice Gimmick Monster
+ETC_20191024_042700	Gravity Sphere
+ETC_20191024_042701	TOS Ranger City Popup Book
 ETC_20191024_042702	Grande Bigorna do Luar
 ETC_20191024_042703	Bigorna do Luar
-ETC_20191024_042704	[Event] Remnants of Bernice Dungeon	[이벤트] 베르니케의 파편 던전
-ETC_20191024_042705	White Witch Forest	하얀 마녀의 숲
-ETC_20191024_042706	Snow Maiden	설녀
-ETC_20191024_042707	Mysterious Lair	의문의 레어
-ETC_20191024_042708	Chapparition has appeared!	채퍼리션이 모습을 드러냈습니다!
-ETC_20191024_042709	A title given to high scorers in the 3 vs 3 Soccer League.	3대3축구리그 득점왕에게 지급되는 칭호입니다.
-ETC_20191024_042710	A title for fans of Klaipeda Capricorns.	클라페다 카프리콘즈를 응원하는 칭호입니다.
-ETC_20191024_042711	A title for fans of Orsha Lions.	오르샤 라이온스를 응원하는 칭호입니다.
-ETC_20191024_042712	A title given to participants of Summer Festa event.	[Summer Festa] 이벤트 참여자 중 장난감을 사랑하는 분께 드리는 칭호입니다.
-ETC_20191024_042713	A title given to participants of the My Buddy Chupacabra event.	3주년 이벤트 사막 츄파카브라 성장 시 지급되는 칭호입니다.
-ETC_20191024_042714	A title given to winners of Popo Vacation event.	PoPo Vacation 수상자에게 지급되는 칭호입니다.
-ETC_20191024_042715	{#FA3366}Pizza Time{/}	{#FA3366}피자 배달 서비스{/}
-ETC_20191024_042716	A title given to Saviors who have made the world a better place by delivering Pizza.	피자를 기부한 구원자에게 지급되는 칭호입니다.
-ETC_20191024_042717	Pizza Time	피자 배달 서비스
-ETC_20191024_042718	Fire 2 Set	불 2셋
-ETC_20191024_042719	Fire 4 Set	불 4셋
-ETC_20191024_042720	Ice 2 Set	얼음 2셋
-ETC_20191024_042721	Ice 4 Set	얼음 4셋
-ETC_20191024_042722	Lightning 2 Set	전기 2셋
-ETC_20191024_042723	Lightning 4 Set	전기 4셋
-ETC_20191024_042724	Earth 2 Set	땅 2셋
-ETC_20191024_042725	Earth 4 Set	땅 4셋
-ETC_20191024_042726	Poison 2 Set	독 2셋
-ETC_20191024_042727	Poison 4 Set	독 4셋
-ETC_20191024_042728	Dark 2 Set	어둠 2셋
-ETC_20191024_042729	Dark 4 Set	어둠 4셋
-ETC_20191024_042730	Divine 2 Set	신성 2셋
-ETC_20191024_042731	Divine 4 Set	신성 4셋
-ETC_20191024_042732	Beast 2 Set	야수 2셋
-ETC_20191024_042733	Beast 4 Set	야수 4셋
-ETC_20191024_042734	Plant 2 Set	식물 2셋
-ETC_20191024_042735	Plant 4 Set	식물 4셋
-ETC_20191024_042736	Mutant 2 Set	변이 2셋
-ETC_20191024_042737	Mutant 4 Set	변이 4셋
-ETC_20191024_042738	Insect 2 Set	곤충 2셋
-ETC_20191024_042739	Insect 4 Set	곤충 4셋
-ETC_20191024_042740	Devil 2 Set	악마 2셋
-ETC_20191024_042741	Devil 4 Set	악마 4셋
+ETC_20191024_042704	[Evento] Remnants of Bernice Dungeon
+ETC_20191024_042705	White Witch Forest
+ETC_20191024_042706	Snow Maiden
+ETC_20191024_042707	Mysterious Lair
+ETC_20191024_042708	Chapparition apareceu!
+ETC_20191024_042709	Título entregue aos que conseguiram pontuações altas na Liga de Futebol 3 vs 3.
+ETC_20191024_042710	Título para os fãs dos Capricórnios de Klaipeda.
+ETC_20191024_042711	Título para os fãs dos Leões de Orsha.
+ETC_20191024_042712	Título entregue aos participantes do evento Summer Festa.
+ETC_20191024_042713	Título entregue para os participantes do evento Meu Amigo Chupacabra.
+ETC_20191024_042714	Título entregue aos vencedores do evento Popo Vacation.
+ETC_20191024_042715	{#FA3366}Pizza Time{/}
+ETC_20191024_042716	Título entregue aos Salvadores que fizeram do mundo um lugar melhor entregando Pizza.
+ETC_20191024_042717	Pizza Time
+ETC_20191024_042718	Fire 2 Set
+ETC_20191024_042719	Fire 4 Set
+ETC_20191024_042720	Ice 2 Set
+ETC_20191024_042721	Ice 4 Set
+ETC_20191024_042722	Lightning 2 Set
+ETC_20191024_042723	Lightning 4 Set
+ETC_20191024_042724	Earth 2 Set
+ETC_20191024_042725	Earth 4 Set
+ETC_20191024_042726	Poison 2 Set
+ETC_20191024_042727	Poison 4 Set
+ETC_20191024_042728	Dark 2 Set
+ETC_20191024_042729	Dark 4 Set
+ETC_20191024_042730	Divine 2 Set
+ETC_20191024_042731	Divine 4 Set
+ETC_20191024_042732	Beast 2 Set
+ETC_20191024_042733	Beast 4 Set
+ETC_20191024_042734	Plant 2 Set
+ETC_20191024_042735	Plant 4 Set
+ETC_20191024_042736	Mutant 2 Set
+ETC_20191024_042737	Mutant 4 Set
+ETC_20191024_042738	Insect 2 Set
+ETC_20191024_042739	Insect 4 Set
+ETC_20191024_042740	Devil 2 Set
+ETC_20191024_042741	Devil 4 Set
 ETC_20191024_042742	Costume (Unisex)
 ETC_20191024_042743	Aumenta o dano contra o Misrus.
 ETC_20191024_042744	Aumenta a defesa.
@@ -42744,316 +42744,316 @@ ETC_20191024_042745	Reduz o dano recebido do Misrus.
 ETC_20191024_042746	Protege contra o dano recebido por Misrus.
 ETC_20191024_042747	Berserk
 ETC_20191024_042748	O verdadeiro poder de Misrus é liberado quando ele se liberta dos poderes que o prendem.
-ETC_20191024_042749	Misrus' Psychokinesis
-ETC_20191024_042750	Movimento é retardado devido à Psychokinesis.
+ETC_20191024_042749	Psicocinese do Misrus
+ETC_20191024_042750	Movimento reduzido devido à Psicocinese.
 ETC_20191024_042751	Misrus preso com sucesso
-ETC_20191024_042752	Paralise Misrus para impedir que se mova.
-ETC_20191024_042753	Contrabalança
+ETC_20191024_042752	Misrus paralizado para impedir que se mova.
+ETC_20191024_042753	Contrabalanceado
 ETC_20191024_042754	Os dois poderes de Misrus colidem, causando um fenômeno desconhecido.
-ETC_20191024_042755	Misrus foi libertado.
-ETC_20191024_042756	Misrus está livre dos vínculos e se tornou mais poderoso.
+ETC_20191024_042755	Misrus Liberado
+ETC_20191024_042756	Misrus está livre das coleiras e se tornou mais poderoso.
 ETC_20191024_042757	Ira de Misrus
 ETC_20191024_042758	O poder de Misrus cresce junto da dor que sente.
 ETC_20191024_042759	Grande Bigorna do Luar - Evento
 ETC_20191024_042760	Pode utilizar a Grande Bigorna do Luar enquanto o efeito está ativo.
 ETC_20191024_042761	Bigorna do Luar - Evento
 ETC_20191024_042762	Pode utilizar a Bigorna do Luar enquanto o efeito está ativo.
-ETC_20191024_042763	The event cannot be progressed while the NPC is under the effect	NPC에 해당 효과가 진행되는 동안 다음 이벤트를 진행할 수 없습니다.
-ETC_20191024_042764	Crystal in Possession	크리스탈 소지
-ETC_20191024_042765	Knockback when monsters approach.	몬스터가 근접 시, 넉백됩니다.
-ETC_20191024_042766	[Event] Bernice Buff	[이벤트]베르니케 버프
-ETC_20191024_042767	[Event] Bernice No Skills	[이벤트]베르니케 스킬 사용 불가
-ETC_20191024_042768	Retarda o alvo com ondas de frio e amplifica os danos às propriedades de gelo.{nl}A exposição contínua ao [Frostbite] pode causar [Freeze].
-ETC_20191024_042769	Imunidade a [Frostbite].
+ETC_20191024_042763	O evento não pode prosseguir enquanto o NPC estiver sob o efeito
+ETC_20191024_042764	Cristal Possuído
+ETC_20191024_042765	Empurra quando monstros se aproximam
+ETC_20191024_042766	[Evento] Bernice Buff
+ETC_20191024_042767	[Evento] Bernice No Skills
+ETC_20191024_042768	Retarda o alvo com ondas de frio e amplifica o dano do elemento gelo.{nl}A exposição contínua ao [Frostbite] pode causar [Freeze].
+ETC_20191024_042769	Imunidade à [Frostbite].
 ETC_20191024_042770	Você está imune a [Frostbite].
-ETC_20191024_042771	Shared Vine Walker	바인 워커 공유
-ETC_20191024_042772	Vine Walkers are connected with one another.{nl}Their connection is lost when they are distanced from one anotehr.	바인 워커는 서로 연결되어 있습니다.{nl}서로의 거리가 멀어지면 연결이 끊어집니다.
-ETC_20191024_042773	Magic Sphere Strike Buff	마력구 타격 버프
-ETC_20191024_042774	HP Recovery
+ETC_20191024_042771	Shared Vine Walker
+ETC_20191024_042772	Vine Walkers estão conectados um ao outro.{nl}A conexão é desfeita caso se distanciem um do outro.
+ETC_20191024_042773	Magic Sphere Strike Buff
+ETC_20191024_042774	Recuperação de HP
 ETC_20191024_042775	Regenera HP a cada segundo.
-ETC_20191024_042776	Você desbloqueou o dispositivo responsável por selar o poder oculto recebido pelo Shadowmancer Master.
-ETC_20191024_042777	Ataque é aumentado devido a rage.
-ETC_20191024_042778	Dano contínuo
+ETC_20191024_042776	Você desbloqueou o dispositivo responsável por selar o poder oculto recebido pela Mestre Shadowmancer.
+ETC_20191024_042777	ATK aumentado devido a raiva
+ETC_20191024_042778	Dano Contínuo
 ETC_20191024_042779	Dano recebido aumenta devido ao dano contínuo.
-ETC_20191024_042780	Fear
+ETC_20191024_042780	Medo
 ETC_20191024_042781	Seu corpo está congelado pelo medo.
-ETC_20191024_042782	Bind	속박
-ETC_20191024_042783	Você não pode se mover devido à Moringponia Curse.
+ETC_20191024_042782	Aprisionamento
+ETC_20191024_042783	Você não pode se mover devido à maldição de Moringponia.
 ETC_20191024_042784	Absorção Mágica
 ETC_20191024_042785	Reduz HP e SP em 5% a cada 5 segundos.
 ETC_20191024_042786	Regenera HP em 10% por segundo.
-ETC_20191024_042787	Nullify Pushback	밀림 방지
+ETC_20191024_042787	Nega Empurrões
 ETC_20191024_042788	Acumula dano recebido.
-ETC_20191024_042789	Torne-se petrificado por um período especificado devido a uma curse.
+ETC_20191024_042789	Petrificado por um período determinado devido a uma Maldição.
 ETC_20191024_042790	Lançamento
 ETC_20191024_042791	Lança o alvo no ar.
-ETC_20191024_042792	Reduz a defesa.
+ETC_20191024_042792	Defesa Reduzida
 ETC_20191024_042793	Defesa é reduzida pela chuva ácida.
 ETC_20191024_042794	medeinaflustered
 ETC_20191024_042795	medeinahappy
-ETC_20191024_042796	Decorar o Hangout	
-ETC_20191024_042797	Gerenciamento da Instalação	
-ETC_20191024_042798	Resistência à Silence +{@st66d_y}{s16}[%d]{/}{/}	
-ETC_20191024_042799	Resistência à Sleep +{@st66d_y}{s16}[%d]{/}{/}	
-ETC_20191024_042800	Resistência à Blind +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20191024_042801	Resistência à Bleeding +{@st66d_y}{s16}[%d]{/}{/}	
-ETC_20191024_042802	Resistência à Stun +{@st66d_y}{s16}[%d]{/}{/}	
-ETC_20191024_042803	Resistência à Freeze +{@st66d_y}{s16}[%d]{/}{/}, Max. HP +{@st66d_y}{s16}[%d]{/}{/}	
-ETC_20191024_042804	Ataque contra monstros de tipo médio +{@st66d_y}{s16}[%d]{/}{/}	
-ETC_20191024_042805	Resistência à Blind +{@st66d_y}{s16}[%d]{/}{/}, Max. SP +{@st66d_y}{s16}[%d]{/}{/}
-ETC_20191024_042806	Dano adicional +{@st66d_y}{s16}[%d]{/}{/} contra inimigos com escudo
+ETC_20191024_042796	Decorar o Hangout
+ETC_20191024_042797	Gerenciar Instalações
+ETC_20191024_042798	Resistência contra [Silence] +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042799	Resistência contra [Sleep] +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042800	Resistência contra [Blind] +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042801	Resistência contra [Bleed] +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042802	Resistência contra [Stun] +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042803	Resistência contra [Freeze] +{@st66d_y}{s16}[%d]{/}{/}, HP Máx +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042804	Dano contra monstros de tamanho Médio +{@st66d_y}{s16}[%d]{/}{/}	
+ETC_20191024_042805	Resistência contra [Blind] +{@st66d_y}{s16}[%d]{/}{/}, SP Máx +{@st66d_y}{s16}[%d]{/}{/}
+ETC_20191024_042806	+{@st66d_y}{s16}[%d]{/}{/} dado adicional contra inimigos com escudo
 ETC_20191024_042807	Expansão do Hangout Lv. 1
 ETC_20191024_042808	Expansão do Hangout Lv. 2	
-ETC_20191024_042809	Instalações do Hangout expandidas disponíveis{nl}    - Itens e instalações de habitação podem ser comprados e vendidos{nl}    - Estação de Crafting pode ser instalada{nl}    - Espaço adicional no Hangout para adicionar novos itens e instalações
+ETC_20191024_042809	Instalações do Hangout expandido disponíveis{nl}    - Decorações e instalações podem ser compradas e vendidas{nl}    - Oficina de Construções pode ser instalada{nl}    - Espaço adicional no Hangout para adicionar novos itens e instalações
 ETC_20191024_042810	Expansão do Hangout Lv. 3
 ETC_20191024_042811	Vários laboratórios e instalações podem ser instalados{nl}    - Espaço adicional para instalar novos itens e instalações no Hangout{nl}
 ETC_20191024_042812	Espaço adicional para instalar novos itens e instalações no Hangout
-ETC_20191024_042813	Pesquisa de Armas max. level +5	
-ETC_20191024_042814	Pesquisa de Armor max. level +5	
-ETC_20191024_042815	Pesquisa de Propriedades max. level +5
-ETC_20191024_042816	Max. Housing Points +100	하우징 포인트 최대치 +100
+ETC_20191024_042813	Pesquisa de Armas Nv. máx. +5	
+ETC_20191024_042814	Pesquisa de Armaduras Nv. máx. +5	
+ETC_20191024_042815	Pesquisa Elemental Nv. máx. +5
+ETC_20191024_042816	Pontos de Decoração máx. +100
 ETC_20191024_042817	Pesquisa de Armas - Planta
-ETC_20191024_042818	Pesquisa armas que são efetivas contra{nl}monstros tipo Planta.
-ETC_20191024_042819	Dano contra monstros tipo Planta +%s%%	
+ETC_20191024_042818	Pesquisa armas que são efetivas contra{nl}monstros da raça Planta.
+ETC_20191024_042819	Dano contra monstros da raça Planta +%s%%	
 ETC_20191024_042820	Pesquisa de Armas - Inseto	
-ETC_20191024_042821	Pesquisa armas que são efetivas contra{nl}monstros tipo Inseto.	
-ETC_20191024_042822	Dano contra monstros tipo Inseto +%s%%	
-ETC_20191024_042823	Pesquisa de Armas - Besta	
-ETC_20191024_042824	Pesquisa armas que são efetivas contra{nl}monstros tipo Besta.
-ETC_20191024_042825 Dano contra monstros tipo Besta +%s%%	
+ETC_20191024_042821	Pesquisa armas que são efetivas contra{nl}monstros da raça Inseto.	
+ETC_20191024_042822	Dano contra monstros da raça Inseto +%s%%	
+ETC_20191024_042823	Pesquisa de Armas - Fera	
+ETC_20191024_042824	Pesquisa armas que são efetivas contra{nl}monstros da raça Fera.
+ETC_20191024_042825 Dano contra monstros da raça Besta +%s%%	
 ETC_20191024_042826	Pesquisa de Armas - Mutante	
-ETC_20191024_042827	Pesquisa armas que são efetivas contra{nl}}monstros tipo Mutante.
-ETC_20191024_042828	Dano contra monstros tipo Mutante +%s%%	
+ETC_20191024_042827	Pesquisa armas que são efetivas contra{nl}}monstros da raça Mutante.
+ETC_20191024_042828	Dano contra monstros da raça Mutante +%s%%	
 ETC_20191024_042829	Pesquisa de Armas - Demônio	
-ETC_20191024_042830	Pesquisa armas que são efetivas contra{nl}monstros tipo Demônio.
-ETC_20191024_042831	Dano contra monstros tipo Demônio +%s%%	
-ETC_20191024_042832	Cloth Armor - Material
-ETC_20191024_042833	Pesquisa dos materiais dos quais{nl}são feitas as Cloth Armors.
-ETC_20191024_042834	Reduz em +%s%% o dano recebido de monstros{nl}por cada peça de cloth armor equipada
-ETC_20191024_042835	Leather Armor - Material
-ETC_20191024_042836	Pesquisa dos materiais dos quais{nl}são feitas as Leather Armors.
-ETC_20191024_042837	Reduz em +%s%% o dano recebido de monstros{nl}por cada peça de leather armor equipada
-ETC_20191024_042838	Plate Armor - Material
-ETC_20191024_042839	Pesquisa dos materiais dos quais{nl}são feitas as Plate Armors.	
-ETC_20191024_042840	Reduz em +%s%% o dano recebido de monstros{nl}por cada peça de plate armor equipada
-ETC_20191024_042841	Cloth Armor - Funcionalidade
-ETC_20191024_042842	Pesquisa para aumentar a funcionalidade{nl}da cloth armor.
-ETC_20191024_042843	- Recuperação de SP +%s por cada peça de cloth armor equipada{nl}- %s%% chance de regenerar SP adicional igual a 10%% do valor da regeneração de SP a cada 20 segundos de acordo com o número de peças de cloth armor equipadas
-ETC_20191024_042844	Leather Armor - Funcionalidade
-ETC_20191024_042845	Pesquisa para aumentar a funcionalidade{nl}da leather armor.
-ETC_20191024_042846	- +%s max. Stamina por cada peça de leather armor equipada{nl}- Reduz a stamina consumida enquanto corre em %s%% por cada peça de leather armor equipada
-ETC_20191024_042847	Plate Armor - Funcionalidade
-ETC_20191024_042848	Pesquisa para aumentar a funcionalidade{nl}da plate armor.
-ETC_20191024_042849	- Regeneração de HP +%s por cada peça de plate armor equipada{nl}- %s%% chance de regenerar HP adicional igual a 10%% do valor da regeneração de HP a cada 20 segundos de acordo com o número de peças de plate armor equipadas
-ETC_20191024_042850	- Regeneração de HP +%s por cada peça de plate armor equipada{nl}- %s%% chance de regenerar HP adicional igual a 10%% do valor da regeneração de HP a cada 20 segundos de acordo com o número de peças de plate armor equipadas
-ETC_20191024_042851	Teoria da Propriedade - Fogo	원리 이해 - 불
-ETC_20191024_042852	Conduz um estudo para entender a teoria{nl}da propriedade de fogo.
-ETC_20191024_042853	Dano Adicional de propriedade de Fogo +%s
-ETC_20191024_042854	Teoria da Propriedade - Gelo
-ETC_20191024_042855	Conduz um estudo para entender a teoria{nl}da propriedade de gelo.
-ETC_20191024_042856	Dano Adicional de propriedade de Gelo +%s
-ETC_20191024_042857	Teoria da Propriedade - Raio
-ETC_20191024_042858	Conduz um estudo para entender a teoria{nl}da propriedade de raio.
-ETC_20191024_042859	Dano Adicional de propriedade de Raio +%s
-ETC_20191024_042860	Teoria da Propriedade - Veneno
-ETC_20191024_042861	Conduz um estudo para entender a teoria{nl}da propriedade de veneno.
-ETC_20191024_042862	Dano Adicional de propriedade de Veneno +%s	
-ETC_20191024_042863	Teoria da Propriedade - Trevas
-ETC_20191024_042864	Conduz um estudo para entender a teoria{nl}da propriedade de trevas.
-ETC_20191024_042865	Dano Adicional de propriedade de Trevas +%s
-ETC_20191024_042866	Teoria da Propriedade - Divino
-ETC_20191024_042867	Conduz um estudo para entender a teoria{nl}da propriedade de divino.
-ETC_20191024_042868	Dano Adicional de propriedade de Divino +%s
-ETC_20191024_042869	Teoria da Propriedade - Terra
-ETC_20191024_042870	Conduz um estudo para entender a teoria{nl}da propriedade de terra.
-ETC_20191024_042871	Dano Adicional de propriedade de Terra +%s
-ETC_20191024_042872	Teoria da Propriedade - Psicocinese
-ETC_20191024_042873	Conduz um estudo para entender a teoria{nl}da propriedade de psicocinese.
-ETC_20191024_042874	Dano Adicional de propriedade de Psicocinese +%s
-ETC_20191024_042875	Item awakening allows you to unravel hidden features of certain equipments.	아이템 각성을 통해 장비 아이템의 잠재되어 있는 성능을 끌어올릴 수 있습니다.
-ETC_20191024_042876	[Open Item Awakening Shop]{nl} {nl}Use the [Item Awakening] skill to open a player shop.	[아이템 각성 상점 개설]{nl} {nl}[아이템 각성] 스킬을 사용 하면 상점을 개설할 수 있습니다.
-ETC_20191024_042877	{nl} {nl}Enter the name for your shop and press the confirm button to open the shop with sufficient [Awakening Powder] in your inventory.{nl}Awakening requires [Awakening Powders] and you will no longer be able to provide the service when your stock of [Awakening Powders] have run out.	{nl} {nl}상점 이름을 입력하고 [각성 가루]를 충분히 소지한 뒤 개설 버튼을 클릭하면 아이템 각성 상점이 개설됩니다.{nl}각성시에는 [각성 가루]가 반드시 필요하며, [각성 가루]가 모두 소진되면 각성을 진행할 수 없습니다.
-ETC_20191024_042878	{nl} {nl}[Item Awakening]{nl} {nl}Register an item to Awaken to proceed. When an Awakening Stone or Awakening Abrasive is not registered, the registered item's potential will be reduced by -1 when Awakening.	{nl} {nl}[아이템 각성]{nl} {nl}각성할 아이템을 등록하면 아이템 각성이 가능합니다. 각성석이나 연마재를 등록하지 않으면 장비의 포텐셜이 1 차감되고 각성이 완료됩니다.
-ETC_20191024_042879	{nl} {nl}Additional items that can be used by the shop's patrons are as follows.{nl}- [Awakening Stone]: Does not deduct the item's potential{nl}- [Awakening Abrasive]: Grants higher stat bonuses through Awakening	{nl} {nl}추가로 상점 이용자가 사용할 수 있는 재료는 아래와 같습니다.{nl} - [각성석] : 장비 아이템의 포텐셜을 차감하지 않음{nl} - [연마재] : 좀 더 높은 수치의 옵션을 얻을 수 있음
-ETC_20191024_042880	The [Awakened Stats] are displayed on the item tooltip when the Awakening is complete.	각성이 완료되면 아래 그림과 같이 [각성 옵션]이 아이템 툴팁에 표기됩니다.
-ETC_20191024_042881	Guild Housing	길드 하우징
-ETC_20191024_042882	You can decorate your Guild Hangout to make it fun and unique.	길드 아지트를 꾸며 개성 있고 독특한 길드 아지트를 연출할 수 있습니다.
-ETC_20191024_042883	{@st66d_y}{s17}[Expand Hangout]{/}{/}{nl}Select the [Expand Hangout] option at your Guild Tower to expand your Hangout. Expanding the Hangout allows you to use various Guild Housing contents.	{@st66d_y}{s17}[아지트 확장]{/}{/}{nl}길드 타워에서 [길드 성장] 선택지를 눌러 아지트 확장이 가능하며, 길드 아지트 확장 시 길드 하우징과 관련된 여러 콘텐츠를 이용할 수 있습니다.
-ETC_20191024_042884	Hangouts can be expanded to Lv. 5 and expanding your Hangout requires your Guild to be at a certain level and also costs Guild Funds and Guild Mileage.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- Your Hangout begins at level 1 by default.{nl}- You can no longer access your old Hangout after expanding your Hangout to level 2.{nl}- All sprouts growing in your Hangout will be removed when your Hangout is expanded to level 2.	길드 아지트 확장에는 단계별로 적정 길드 레벨 및 일정량의 길드 자금과 길드 마일리지가 필요하며, 5단계까지 확장이 가능합니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 아지트는 기본적으로 1단계입니다.{nl}- 아지트를 2단계로 확장 시, 기존 아지트에는 더이상 입장이 불가능합니다.{nl}- 아지트를 2단계로 확장 시, 기존 아지트에 남아있던 새싹은 모두 제거됩니다.
-ETC_20191024_042885	{nl} {nl}{@st66d_y}{s17}[Purchasing Housing Items and Facilities]{/}{/}{nl}You can purchase and sell Housing items and facilities through the Hangout Manager in your Guild Hangout when your Hangout is expanded to level 2.	{nl} {nl}{@st66d_y}{s17}[하우징 물품 및 시설 구매]{/}{/}{nl}길드 아지트가 2단계 이상인 경우 길드 아지트에 위치한 아지트 관리인으로부터 하우징 물품 및 시설 등을 구매하거나 판매할 수 있습니다.
-ETC_20191024_042886	You are required to have Guild Housing Points in order to purchase Housing items and facilities, which can be purchased using Guild Mileage in the [Hangout Info] section of the Guild UI.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- Guild Housing Points can only be purchased when your Guild Expansion Level is 2 or above.{nl}- Only Guild members with the authority to [Decorate Hangout] can buy and sell housing items and facilities.{nl}- Guild Housing Points can be purchased at a given exchange rate.	하우징 물품 및 시설 등을 구매하기 위해서는 길드 하우징 포인트가 필요하며, 길드창의 [아지트 정보]에서 길드 마일리지로 구매할 수 있습니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 아지트 확장 단계가 2단계 이상인 경우에만 길드 하우징 포인트 구매가 가능합니다.{nl}- [아지트 꾸미기] 권한을 가진 길드원만 길드 하우징 포인트 구매가 가능합니다.{nl}- [아지트 꾸미기] 권한을 가진 길드원만 하우징 물품 및 시설 등을 구매 및 판매할 수 있습니다.{nl}- 길드 하우징 포인트 구매 시 일정량의 교환 비율이 적용되어 구매됩니다.
-ETC_20191024_042887	{nl} {nl}{@st66d_y}{s17}[Edit Mode]{/}{/}You can enter Edit Mode by either clicking on the Edit Mode icon to the bottom left of the minimap or by using a Housing item or facility.	{nl} {nl}{@st66d_y}{s17}[편집 모드]{/}{/}{nl}미니맵 좌측 하단에 위치한 편집 모드 아이콘을 클릭하거나, 하우징 물품 및 시설 아이템을 사용하여 편집 모드를 활성화할 수 있습니다.
-ETC_20191024_042888	You can place, move or remove Housing items and facilities in Edit Mode. Certain items and facilities can be interacted with using your character.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- Only Guild members with the authority to [Decorate Hangout] can access Edit Mode.{nl}- The areas in which housing items can be placed expands with Hangout Expansion Level.{nl}- Removing installed items/facilities will cost Guild Funds.	편집 모드 상태에서는 하우징 물품 및 시설 배치하거나, 배치된 물품을 이동, 철거할 수 있으며 일부 물품 및 시설은 배치 시 특별한 상호작용이 가능합니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- [아지트 꾸미기] 권한을 가진 길드원만 편집 모드를 활성화할 수 있습니다.{nl}- 아지트의 확장 단계에 따라 배치 구역이 확장됩니다.{nl}- 배치된 물품을 철거할 시, 물품 크기에 따라 일정량의 길드 자금이 소모됩니다.
-ETC_20191024_042889	{nl} {nl}{@st66d_y}{s17}[Guild Facilities]{/}{/}{nl}Various Guild Facilities can be installed for beneficial effects.	{nl} {nl}{@st66d_y}{s17}[길드 시설]{/}{/}{nl}다양한 길드 시설을 설치하고 시설을 이용해 유용한 효과를 얻을 수 있습니다.
-ETC_20191024_042890	Guild Facilities can be upgraded and upgrading costs Guild Funds and Guild Mileage.{nl}When a facility is upgraded, its effects can be boosted.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- Research Labs can only be installed with Guild Hangout Expansion Level 3 and above.{nl}- Only Guild members with the [Facility Management] authority can upgrade facilities.	길드 시설은 증축이 가능하며, 증축에는 단계별로 일정량의 길드 자금과 길드 마일리지가 필요합니다.{nl}시설 증축 시, 증축 레벨에 따라 시설 이용에 따른 효과를 더 높일 수 있습니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 연구소는 아지트 확장 단계가 3단계 이상인 경우에만 설치가 가능합니다.{nl}- [전문 시설 관리] 권한을 가진 길드원만 시설 증축이 가능합니다.
-ETC_20191024_042891	{nl} {nl}{@st66d_y}{s17}[Research Lab]{/}{/}Research Labs can be installed to conduct various fields of research at the cost of Guild Funds.	{nl} {nl}{@st66d_y}{s17}[연구소]{/}{/}{nl}연구소별로 다양한 연구를 강화할 수 있고, 연구 강화에는 연구 레벨에 따라 일정량의 길드 자금이 필요합니다.
-ETC_20191024_042892	You can activate researches to receive beneficial buffs.{nl} {nl}{@st66d_y}{s17}Solo Activation{/}{/}{nl}- Consumes Contribution Points depending on the Research Level.{nl}- Research effect is applied for 1 hour for the player's Team.{nl}- Only appiles 50% of the Research effects.{nl}{@st66d_y}{s17}{nl} {nl}Group Activation{/}{/}{nl}- Consumes Guild Funds depending on the Research Level.{nl}- Research effect is applied for 6 hours to all Guild Members on a Team basis.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}{nl}- The maximum Research Level increases when the Research Lab is upgraded.{nl}- Research effects are not applied in PvP environments.{nl}- Only Guild members with the [Facility Management] authority can activate the group buff.{nl}- Activating another research effect or an identical research effect when solo/group will remove the research effect previously applied to the player/Guild.{nl} {nl}{@st66d_y}{s17}[Crafting Workshop]{/}{/}Installing a Crafting Workshop increases the maximum Guild Housing Points that can be accumulated.{nl} {nl}{@st66d_y}{s17}[Important]{/}{/}- Crafting Workshop can only be installed when Guild Hangout Expansion level is at 2 or above.{nl}- Only Guild members with [Facility Management] authority can build Crafting Workshops.	강화된 연구를 활성화하여 유용한 버프를 받을 수 있습니다.{nl} {nl}{@st66d_y}{s17}개인 활성화{/}{/}{nl}- 연구 레벨에 따라 일정량의 기여도가 소비됩니다.{nl}- 연구 효과를 가진 버프가 1시간 동안 팀 단위로 적용됩니다.{nl}- 해당 연구 효과의 50%만 적용됩니다.{nl}{@st66d_y}{s17}{nl} {nl}단체 활성화{/}{/}{nl}- 연구 레벨에 따라 일정량의 길드 자금이 소비됩니다.{nl}- 연구 효과를 가진 버프가 6시간 동안 모든 길드원에게 팀 단위로 적용됩니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 연구소 증축 시, 증축 레벨에 따라 연구 강화 레벨 최대치가 증가합니다.{nl}- 연구 효과는 PVP 지역에서는 적용되지 않습니다.{nl}- [전문 시설 관리] 권한을 가진 길드원만 단체 활성화를 이용할 수 있습니다.{nl}- 개인 활성화로 연구 버프가 적용된 상태에서 동일 연구소의 동일 연구 혹은 다른 연구 버프를 개인 활성화할 경우 기존에 적용된 개인 연구 버프는 사라집니다.{nl}- 단체 활성화로 연구 버프가 적용된 상태에서 동일 연구소의 동일 연구 혹은 다른 연구 버프를 단체 활성화할 경우 기존에 적용된 단체 연구 버프는 사라집니다.{nl} {nl}{@st66d_y}{s17}[제작 공방소]{/}{/}{nl}제작 공방소 증축 시, 길드 하우징 포인트의 최대치가 증가합니다.{nl} {nl}{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 제작 공방소는 아지트 확장 단계가 2단계 이상인 경우에만 설치가 가능합니다.{nl}- [전문 시설 관리] 권한을 가진 길드원만 시설 증축이 가능합니다.
-ETC_20191024_042893	{nl} {nl}{@st66d_y}{s17}[Contribution and Mileage Management]{/}{/}{nl}Guild members can exchange their Contribution into Guild Mileage on the [Hangout Info.] tab of the Guild UI. Guild Masters can also convert Guild Mileage into Contribution or distribute their Contribution to other Guild members.	{nl} {nl}{@st66d_y}{s17}[기여도 및 길드 마일리지 관리]{/}{/}{nl}길드창의 [아지트정보] 탭에서 길드원은 자신의 기여도를 길드 마일리지로 전환할 수 있으며, 길드 마스터의 경우 길드 마일리지를 기여도로 전환하거나, 자신의 기여도를 다른 길드원에게 분배할 수 있습니다.
-ETC_20191024_042894	{@st66d_y}{s17}[Important]{/}{/}{nl}- Only the Guild Master can convert Guild Mileage to Contribution and distribute Contribution among Guild members.{nl}- Guild Contribution and Mileage will be exchanged following a specified rate.	{@st66d_y}{s17}[유의 사항]{/}{/}{nl}- 길드 마일리지를 기여도로 전환하기, 길드원에게 기여도 분배하기 기능은 길드 마스터만 이용할 수 있습니다.{nl}- 기여도 및 길드 마일리지 전환 시 일정량의 교환 비율이 적용되어 전환됩니다.
-ETC_20191024_042895	{nl} {nl}Each deposit/withdrawal costs 20 mileage.{nl}How to Obtain Guild Mileage{nl}- +3 per Guild Member logged in daily{nl}- Completing the following contents{nl}   Complete Challenge Mode Stage 5 or above: +1{nl}   Complet Unique Raid: +2{nl}   Complete Legend Raid: +4{nl}   * Up to +100 Mileage can be saved per week per Guild member{nl}   * The amount of Mileage that can be accumulated is reset every Monday at 6 AM EST	{nl} {nl}입고/출고 시 길드 마일리지가 20씩 차감됩니다.{nl}길드 마일리지 적립 방법{nl}- 일일 접속한 길드원 한 명 당 +3{nl}- 특정 콘텐츠 이용{nl}    챌린지 5단계 이상 클리어 : +1{nl}    유니크 레이드 클리어 : +2{nl}    레전드 레이드 클리어 : +4{nl}    * 길드원별 주간 최대 +100까지 누적 적립 가능{nl}    * 매주 월요일 오전 6시 누적 적립 초기화
-ETC_20191024_042896	Bench (Brown)	벤치(갈색)
-ETC_20191024_042897	Landscaping	조경
-ETC_20191024_042898	Garden	정원
-ETC_20191024_042899	Klaipeda Streetlamp	클라페다 가로등
-ETC_20191024_042900	Hydrangea A (Blue)	수국_01(파란색)
-ETC_20191024_042901	Hydrangea B (Blue)	수국_02(파란색)
-ETC_20191024_042902	Orsha Streetlamp	오르샤 가로등
-ETC_20191024_042903	Magic Streetlamp	마법 가로등
-ETC_20191024_042904	Tree Streetlamp	나무 가로등
-ETC_20191024_042905	Basic Fountain (Small)	일반 분수대(소형)
-ETC_20191024_042906	Musical Sculpture	연주하는 조각상
-ETC_20191024_042907	Sculpture	조각상
-ETC_20191024_042908	Garden Fountain (Small)	정원 분수대(소형)
-ETC_20191024_042909	Garden Fountain (Medium)	정원 분수대(중형)
-ETC_20191024_042910	Garden Fountain (Large)	정원 분수대(대형)
-ETC_20191024_042911	Monastery Fountain	수도원 분수대
-ETC_20191024_042912	Floral Garden Lantern L (Pink)	꽃모양 정원 랜턴_좌(분홍색)
-ETC_20191024_042913	Floral Garden Lantern R (Pink)	꽃모양 정원 랜턴_우(분홍색)
-ETC_20191024_042914	Flower Arch (Purple)	꽃 아치(보라색)
-ETC_20191024_042915	Arch	아치
-ETC_20191024_042916	Iron Lantern	철제 랜턴
-ETC_20191024_042917	Garden Fence (Brown)	정원 울타리(갈색)
-ETC_20191024_042918	Big Tree and Swing	커다란 나무와 그네
-ETC_20191024_042919	Decoration	장식
-ETC_20191024_042920	Pond (White)	연못(하얀색)
-ETC_20191024_042921	Pond	연못
-ETC_20191024_042922	Flower Bed A (Green)	화단_01(초록색)
-ETC_20191024_042923	Flower Bed B (Green)	화단_02(초록색)
-ETC_20191024_042924	Flower Bed C (Green)	화단_03(초록색)
-ETC_20191024_042925	Farm Fence A (Brown)	농장 울타리_01(갈색)
-ETC_20191024_042926	Farm Fence B (Brown)	농장 울타리_02(갈색)
-ETC_20191024_042927	Farm Fence C (Brown)	농장 울타리_03(갈색)
-ETC_20191024_042928	Farm Fence D (Brown)	농장 울타리_04(갈색)
-ETC_20191024_042929	Decorative Tree (Green)	조경용 나무(초록색)
-ETC_20191024_042930	Wooden Fence	나무 울타리
-ETC_20191024_042931	Pump	펌프
-ETC_20191024_042932	Fertilizer	비료
-ETC_20191024_042933	Farm Fence A (White)	농장 울타리_01(하얀색)
-ETC_20191024_042934	Farm Fence B (White)	농장 울타리_02(하얀색)
-ETC_20191024_042935	Farm Fence C (White)	농장 울타리_03(하얀색)
-ETC_20191024_042936	Farm Fence D (White)	농장 울타리_04(하얀색)
-ETC_20191024_042937	Farm Fence E (White)	농장 울타리_05(하얀색)
-ETC_20191024_042938	Potted Rose (Yellow)	장미꽃 화분(노란색)
-ETC_20191024_042939	Potted Rose (Green)	조경용 화단(초록색)
-ETC_20191024_042940	Garden Arch	정원 아치
-ETC_20191024_042941	Potted Hydrangea (Blue)	수국화단(파란색)
-ETC_20191024_042942	Parasol (White)	파라솔(하얀색)
-ETC_20191024_042943	Table	테이블
-ETC_20191024_042944	Flower Bed D (Green)	화단_04(초록색)
-ETC_20191024_042945	Flower Table Set (White)	꽃 테이블 세트(하얀색)
-ETC_20191024_042946	Topiary (Swan)	토피어리(백조)
-ETC_20191024_042947	Farm Windmill	농장 풍차
-ETC_20191024_042948	Topiary (Tree)	토피어리(나무)
-ETC_20191024_042949	Topiary (Popolion)	토피어리(포포리온)
-ETC_20191024_042950	Topiary (Kepa)	토피어리(케파)
-ETC_20191024_042951	Topiary (Horse)	토피어리(말)
-ETC_20191024_042952	Topiary (Cube)	토피어리(큐브)
-ETC_20191024_042953	Topiary (Decorative Garden)	토피어리(장식 정원)
-ETC_20191024_042954	Knight Sculpture	기사 조각상
-ETC_20191024_042955	Aged Tree (Pink)	오래된 나무(분홍색)
-ETC_20191024_042956	Decorative Tree	장식용 나무
-ETC_20191024_042957	Stone Tower B	돌탑_02
-ETC_20191024_042958	Praying Sculpture	기도하는 조각상
-ETC_20191024_042959	Goat Monster Sculpture	산양 형태의 몬스터 조각상
-ETC_20191024_042960	Anemone (Red)	말미잘(빨간색)
-ETC_20191024_042961	Oak Barrel Set	오크통 세트
-ETC_20191024_042962	Fruit Basket (Brown)	과일 바구니(갈색)
-ETC_20191024_042963	Dewy Flower (Yellow)	물을 머금은 꽃(노란색)
-ETC_20191024_042964	Alocasia (White)	알로카시아 꽃(하얀색)
-ETC_20191024_042965	Alcyonium (Blue)	팔방산호(파란색)
-ETC_20191024_042966	Alcyonium (Red)	팔방산호(빨간색)
-ETC_20191024_042967	Blue Coral	푸른산호
-ETC_20191024_042968	Conch Shell (Brown)	소라껍질(갈색)
-ETC_20191024_042969	Cactus	선인장
-ETC_20191024_042970	Farm Plot	논밭
-ETC_20191024_042971	Facility	시설
-ETC_20191024_042972	Castle Wall	성벽 울타리
-ETC_20191024_042973	Stone Tower A	돌탑_01
-ETC_20191024_042974	Castle Streetlamp	캐슬 가로등
-ETC_20191024_042975	Flower Arch (Red)	꽃 아치(빨간색)
-ETC_20191024_042976	Flower Arch (White)	꽃 아치(하얀색)
-ETC_20191024_042977	Flower Arch (Yellow)	꽃 아치(노란색)
-ETC_20191024_042978	Bench (Green)	벤치(초록색)
-ETC_20191024_042979	Bench (White)	벤치(하얀색)
-ETC_20191024_042980	Bench (Wine)	벤치(와인색)
-ETC_20191024_042981	Alocasia (Orange)	알로카시아 꽃(주황색)
-ETC_20191024_042982	Alocasia (Pink)	알로카시아 꽃(분홍색)
-ETC_20191024_042983	Alocasia (Yellow)	알로카시아 꽃(노란색)
-ETC_20191024_042984	Dewy Flower (Purple)	물을 머금은 꽃(보라색)
-ETC_20191024_042985	Dewy Flower (Red)	물을 머금은 꽃(빨간색)
-ETC_20191024_042986	Dewy Flower (White)	물을 머금은 꽃(하얀색)
-ETC_20191024_042987	Conch Shell (Pink)	소라껍질(분홍색)
-ETC_20191024_042988	Conch Shell (Purple)	소라껍질(보라색)
-ETC_20191024_042989	Fruit Basket (Purple)	과일 바구니(보라색)
-ETC_20191024_042990	Fruit Basket (Red)	과일 바구니(빨간색)
-ETC_20191024_042991	Anemone (Blue)	말미잘(파란색)
-ETC_20191024_042992	Anemone (Yellow)	말미잘(노란색)
-ETC_20191024_042993	Garden Fence (Black)	정원 울타리(검정색)
-ETC_20191024_042994	Garden Fence (White)	정원 울타리(하얀색)
-ETC_20191024_042995	Potted Hydrangea (Red)	수국화단(빨간색)
-ETC_20191024_042996	Potted Hydrangea (White)	수국화단(하얀색)
-ETC_20191024_042997	Potted Hydrangea (Yellow)	수국화단(노란색)
-ETC_20191024_042998	Flower Bed D (Turquoise)	화단_04(청록색)
-ETC_20191024_042999	Flower Table Set (Pink)	꽃 테이블 세트(분홍색)
-ETC_20191024_043000	Flower Table Set (Yellow)	꽃 테이블 세트(노란색)
-ETC_20191024_043001	Aged Tree (Purple)	오래된 나무(보라색)
-ETC_20191024_043002	Aged Tree (White)	오래된 나무(하얀색)
-ETC_20191024_043003	Aged Tree (Yellow)	오래된 나무(노란색)
-ETC_20191024_043004	Floral Garden Lantern L (Red)	꽃모양 정원 랜턴_좌(빨간색)
-ETC_20191024_043005	Floral Garden Lantern L (White)	꽃모양 정원 랜턴_좌(하얀색)
-ETC_20191024_043006	Floral Garden Lantern R (Red)	꽃모양 정원 랜턴_우(빨간색)
-ETC_20191024_043007	Floral Garden Lantern R (White)	꽃모양 정원 랜턴_우(하얀색)
-ETC_20191024_043008	Hydrangea A (Red)	수국_01(빨간색)
-ETC_20191024_043009	Hydrangea A (White)	수국_01(하얀색)
-ETC_20191024_043010	Hydrangea A (Yellow)	수국_01(노란색)
-ETC_20191024_043011	Hydrangea B (Red)	수국_02(빨간색)
-ETC_20191024_043012	Hydrangea B (White)	수국_02(하얀색)
-ETC_20191024_043013	Hydrangea B (Yellow)	수국_02(노란색)
-ETC_20191024_043014	Flower Bed A (Turquoise)	화단_01(청록색)
-ETC_20191024_043015	Flower Bed B (Turquoise)	화단_02(청록색)
-ETC_20191024_043016	Flower Bed C (Turquoise)	화단_03(청록색)
-ETC_20191024_043017	Decorative Tree (Pink)	조경용 나무(분홍색)
-ETC_20191024_043018	Decorative Tree (Purple)	조경용 나무(보라색)
-ETC_20191024_043019	Decorative Tree (Yellow)	조경용 나무(노란색)
-ETC_20191024_043020	Potted Rose (Blue)	장미꽃 화분(파란색)
-ETC_20191024_043021	Potted Rose (Red)	장미꽃 화분(빨간색)
-ETC_20191024_043022	Potted Rose (White)	장미꽃 화분(하얀색)
-ETC_20191024_043023	Decorative Flower Bed (Blue)	조경용 화단(파란색)
-ETC_20191024_043024	Decorative Flower Bed (Red)	조경용 화단(빨간색)
-ETC_20191024_043025	Decorative Flower Bed (Yellow)	조경용 화단(노란색)
-ETC_20191024_043026	Parasol (Blue)	파라솔(파란색)
-ETC_20191024_043027	Parasol (Red)	파라솔(빨간색)
-ETC_20191024_043028	Pond (Blue)	연못(파란색)
-ETC_20191024_043029	Pond (Red)	연못(빨간색)
-ETC_20191024_043030	Pond (Yellow)	연못(노란색)
-ETC_20191024_043031	Farm Manager (Male)	농장 관리인(남)
-ETC_20191024_043032	Hire	고용
-ETC_20191024_043033	Farm Manager (Female)	농장 관리인(여)
-ETC_20191024_043034	Housing data not available.	하우징 데이터가 없습니다.
-ETC_20191024_043035	Incorrect Housing furniture information.	하우징 가구 정보가 올바르지 않습니다.
-ETC_20191024_043036	Incorrect Housing grid information.	하우징 그리드 정보가 올바르지 않습니다.
-ETC_20191024_043037	Field Boss World Event Error	필드보스 월드이벤트 관련 에러
-ETC_20191024_043038	Incorrect Housing item information.	하우징 아이템 정보가 올바르지 않습니다.
-ETC_20191024_043039	Related to Guild Mission Start Fail	길드 미션 실행 실패 관련.
-ETC_20191024_043040	Former Fantasy Library: Sausis Room 9: Casual	과거 환상도서관 : 사우시스 9 관 : 캐주얼
-ETC_20191024_043041	Unique Raid: Casual	유니크 레이드: 캐주얼
-ETC_20191024_043042	First Refuge: Casual	첫 번째 피난처: 캐주얼
-ETC_20191024_043043	Magic Research Facility: Casual	마법 실험 구역: 캐주얼
-ETC_20191024_043044	Astral Tower Closed Quarters: Casual	별의 탑 폐쇄 구역: 캐주얼
-ETC_20191024_043045	Asiomage Testing Grounds: Casual	아시오 메이지의 실험실: 캐주얼
-ETC_20191024_043046	Tomb of the White Crow: Casual	흰 까마귀의 영면지: 캐주얼
-ETC_20191024_043047	Former Fantasy Library: Sausis Room 9: Casual	과거 환상도서관 : 사우시스 9 관: 캐주얼
-ETC_20191024_043048	Arts	아츠
-ETC_20191024_043049	Unidentified	미식별
-ETC_20191024_043050	Encyclopedia	전집
-ETC_20191024_043051	Mystic Tome: Swordsman	신비한 서: 소드맨
-ETC_20191024_043052	Mystic Tome: Wizard	신비한 서: 위저드
-ETC_20191024_043053	Mystic Tome: Cleric	신비한 서: 클레릭
-ETC_20191024_043054	Mystic Tome: Scout	신비한 서: 스카우트
-ETC_20191024_043055	Mystic Tome: Archer	신비한 서: 아처
-ETC_20191024_043056	Housing	하우징
-ETC_20191024_043057	2019 Leticia's Treasure Chest (Season 3)	2019 레티샤의 보물 상자(9월)
-ETC_20191024_043058	2019 Leticia's Treasure Chest (Season 4)	2019 레티샤의 보물 상자(10월)
+ETC_20191024_042830	Pesquisa armas que são efetivas contra{nl}monstros da raça Demônio.
+ETC_20191024_042831	Dano contra monstros da raça Demônio +%s%%	
+ETC_20191024_042832	Armadura de Tecido - Material
+ETC_20191024_042833	Pesquisa os materiais que{nl}são feitas as Armaduras de Tecido.
+ETC_20191024_042834	Reduz %s%% do dano recebido de monstros{nl}por cada peça de Tecido equipada
+ETC_20191024_042835	Armadura de Couro - Material
+ETC_20191024_042836	Pesquisa os materiais que{nl}são feitas as Armaduras de Couro.
+ETC_20191024_042837	Reduz %s%% do dano recebido de monstros{nl}por cada peça de Couro equipada
+ETC_20191024_042838	Armadura de Metal - Material
+ETC_20191024_042839	Pesquisa os materiais que{nl}são feitas as Armaduras de Metal.
+ETC_20191024_042840	Reduz %s%% do dano recebido de monstros{nl}por cada peça de Metal equipada
+ETC_20191024_042841	Armadura de Tecido - Funcionalidade
+ETC_20191024_042842	Pesquisa que aumenta a funcionalidade{nl}de Armaduras de Tecido.
+ETC_20191024_042843	- Rec. SP +%s por cada peça de Tecido equipada{nl}- %s%% chance de recuperar SP adicional igual a 10%% da Recuperação de SP, a cada 20 segundos, conforme o número de peças de Tecido equipadas
+ETC_20191024_042844	Armadura de Couro - Funcionalidade
+ETC_20191024_042845	Pesquisa que aumenta a funcionalidade{nl}de Armaduras de Couro.
+ETC_20191024_042846	- Stamina +%s por cada peça de Couro equipada{nl}- Reduz o gasto de Stamina enquanto corre em %s%% por cada peça de Couro equipada
+ETC_20191024_042847	Armadura de Metal - Funcionalidade
+ETC_20191024_042848	Pesquisa que aumenta a funcionalidade{nl}de Armaduras de Metal.
+ETC_20191024_042849	- Rec. HP +%s por cada peça de Metal equipada{nl}- %s%% chance de recuperar HP adicional igual a 10%% da Recuperação de HP, a cada 20 segundos, conforme o número de peças de Metal equipadas
+ETC_20191024_042850	- Rec. HP +%s por cada peça de Metal equipada{nl}- %s%%% chance de recuperar HP adicional igual a 10%% da Recuperação de HP, a cada 20 segundos, conforme o número de peças de Metal equipadas
+ETC_20191024_042851	Teoria Elemental - Fogo
+ETC_20191024_042852	Conduz um estudo para entender a teoria{nl}do elemento Fogo.
+ETC_20191024_042853	Dano Adicional: Fogo +%s
+ETC_20191024_042854	Teoria Elemental - Gelo
+ETC_20191024_042855	Conduz um estudo para entender a teoria{nl}do elemento Gelo.
+ETC_20191024_042856	Dano Adicional: Gelo +%s
+ETC_20191024_042857	Teoria Elemental - Raio
+ETC_20191024_042858	Conduz um estudo para entender a teoria{nl}do elemento Raio.
+ETC_20191024_042859	Dano Adicional: Raio +%s
+ETC_20191024_042860	Teoria Elemental - Veneno
+ETC_20191024_042861	Conduz um estudo para entender a teoria{nl}do elemento Veneno.
+ETC_20191024_042862	Dano Adicional: Veneno +%s	
+ETC_20191024_042863	Teoria Elemental - Trevas
+ETC_20191024_042864	Conduz um estudo para entender a teoria{nl}do elemento Trevas.
+ETC_20191024_042865	Dano Adicional: Trevas +%s
+ETC_20191024_042866	Teoria Elemental - Divino
+ETC_20191024_042867	Conduz um estudo para entender a teoria{nl}do elemento Divino.
+ETC_20191024_042868	Dano Adicional: Divino +%s
+ETC_20191024_042869	Teoria Elemental - Terra
+ETC_20191024_042870	Conduz um estudo para entender a teoria{nl}do elemento Terra.
+ETC_20191024_042871	Dano Adicional: Terra +%s
+ETC_20191024_042872	Teoria Elemental - Psíquico
+ETC_20191024_042873	Conduz um estudo para entender a teoria{nl}do elemento Psíquico.
+ETC_20191024_042874	Dano Adicional: Psíquico +%s
+ETC_20191024_042875	Despertar de item permite revelar capacidades escondidas de certos equipamentos.
+ETC_20191024_042876	[Abrir Loja de Despertar]{nl} {nl}Use a habilidade [Item Awakening] para abrir uma loja.
+ETC_20191024_042877	{nl} {nl}Digite um nome para a loja e pressione o botão de Confirmar para abrí-la. Certifique-se de possuir [Awakening Powder] suficiente no seu Inventário.{nl}Despertar necessida de [Awakening Powders] e, caso você não possua mais nenhum no Inventário, não poderá mais prover o serviço da loja.
+ETC_20191024_042878	{nl} {nl}[Despertar um Item]{nl} {nl}Adicione um item para o processo de Despertar iniciar. Caso não seja colocado uma [Awakening Stone] ou [Awakening Abrasive], o item percerá -1 de Potencal ao realizar o Despertar.
+ETC_20191024_042879	{nl} {nl}Os seguintes itens adicionais podem ser utilizados pelos clientes loja:{nl}- [Awakening Stone]: Não reduz o Potencial do item{nl}- [Awakening Abrasive]: Garante valores maiores de bônus ao despertar
+ETC_20191024_042880	Os atributos gerados no Despertar são exibidos nos detalhes do item após o término do processo.
+ETC_20191024_042881	Decoração de Guilda
+ETC_20191024_042882	Você pode decorar o Hangout da sua Guilda para deixar mais divertido e único.
+ETC_20191024_042883	{@st66d_y}{s17}[Expandir Hangout]{/}{/}{nl}Selecione a opção de [Expandir Hangout] na Torre da Guilda para expandir o espaço do Hangout. A expansão permite a utilização de vários conteúdos e itens de decoração.
+ETC_20191024_042884	Hangouts podem ser expandidos até o Nível 5, e o processo requer que sua Guilda possua um nível específico além de custo de fundos e de milhas.{nl} {nl}{@st66d_y}{s17}[Importante]{/}{/}{nl}- Por padrão, o Hangout inicia no Nível 1.{nl}- O antigo Hangout ficará inacessível após expandir para o Nível 2.{nl}- Todas as plantações que estiverem no Hangout serão removidas durante o processo de expansão.
+ETC_20191024_042885	{nl} {nl}{@st66d_y}{s17}[Adquirindo Itens de Decoração e Instalações]{/}{/}{nl}Você pode comprar e vender itens de decoração e instalações através do Gerente do Hangout, dentro do Hangout da sua Guilda, quando for expandido para o Nível 2.
+ETC_20191024_042886	Você precisa de Pontos de Decoração para poder comprar itens decorativos e instalações, e estes pontos são adquiridos através das Milhas da Guilda na aba de Hangout da Janela da Guilda (Alt + G).{nl} {nl}{@st66d_y}{s17}[Importante]{/}{/}{nl}- Pontos de Decoração só podem ser comprados quando a Expansão for de nível 2 ou mais.{nl}- Somente membros com autoridade para decorar o Hangout podem comprar e vender itens e instalações.{nl}- Pontos de Decoração podem ser comprados com uma determinada taxa de troca.
+ETC_20191024_042887	{nl} {nl}{@st66d_y}{s17}[Modo de Edição]{/}{/}Você pode entrar no Modo Edição clicando no ícone de edição no canto esquerdo inferior do minimapa, ou utilizando um item de decoração ou instalação.
+ETC_20191024_042888	Você pode colocar, mover ou remover itens de decoração e instalações no Modo Edição. Certos itens e instalações possuem interações disponíveis aos personagens.{nl} {nl}{@st66d_y}{s17}[Importante]{/}{/}{nl}- Somente Membros da Guilda com autorização para decorar o Hangout possuem acesso ao Modo Edição.{nl}- As áreas onde os itens de decoração podem ser colocados expandem junto com o nível de Expansão do Hangout.{nl}- Remover itens e instalações custam fundos da Guilda.
+ETC_20191024_042889	{nl} {nl}{@st66d_y}{s17}[Instalações]{/}{/}{nl}Várias instalações podem ser instaladas para receber efeitos benéficos.
+ETC_20191024_042890	Instalações podem ser aprimoradas, através de custos de Fundos e de Milhas da Guilda.{nl}Quando uma instalação é aprimorada, seus efeitos podem ser aumentados.{nl} {nl}{@st66d_y}{s17}[Importante]{/}{/}{nl}- Laboratórios de Pesquisa só podem ser instalados em Hangouts de Nível 3 ou mais.{nl}- Somente membros da Guilda com autorização para gerenciar instalações podem aprimorar estas instalações.
+ETC_20191024_042891	{nl} {nl}{@st66d_y}{s17}[Laboratórios]{/}{/}Laboratórios podem ser instalados para conduzir várias pesquisas que custam Fundos da Guilda.
+ETC_20191024_042892	Você pode ativar pesquisas para receber efeitos benéficos.{nl} {nl}{@st66d_y}{s17}Ativação Individual{/}{/}{nl}- Consome pontos de Contribuição, dependendo do nível da pesquisa.{nl}- Efeito da pesquisa é aplicado por 1 hora para o Time do jogador.{nl}- Somente alica 50% do efeito da pesquisa.{nl}{@st66d_y}{s17}{nl} {nl}Ativação em Grupo{/}{/}{nl}- Consome Fundos da Guilda, dependendo do nível pesquisa.{nl}- Efeito da pesquisa é aplicado por 6 horas para todos os Times dos Membros da Guilda.{nl} {nl}{@st66d_y}{s17}[Importante]{/}{/}{nl}- O nível máximo de pesquisa aumenta quando o Laboratório é aprimorado.{nl}- Os efeitos das pesquisas não se aplicam em ambientes de PvP.{nl}- Somente os membros com autorização para gerenciar instalações podem ativar os efeitos em grupo.{nl}- Ativar outro efeito de pesquisa, ou outro efeito idêntico, tanto individual quanto em grupo, removerá o efeito anterior aplicado ao jogador ou à Guilda.{nl} {nl}{@st66d_y}{s17}[Oficina de Construções]{/}{/}Instalar uma oficina aumenta o número máximo de Pontos de Decoração que podem ser acumulados.{nl} {nl}{@st66d_y}{s17}[Importante]{/}{/}- Oficina de Construções só pode ser instalado a partir do Nível 2 de Expansão do Hangout.{nl}- Somente membros da guilda com autorização para gerenciar instalações podem instalar uma oficina.
+ETC_20191024_042893	{nl} {nl}{@st66d_y}{s17}[Gerenciamento de Contribuição e Milhagem]{/}{/}{nl}Membros da Guilda podem trocar seus pontos de contribuição por milhas na aba de Hangout da janela da Guilda (Alt + G). Líderes de Guilda também podem converter milhas em pontos de contribuição, ou distribuir a contribuição para outros membros.
+ETC_20191024_042894	{@st66d_y}{s17}[Importante]{/}{/}{nl}- Somente o Líder da Guilda pode converter milhas em contribuição, além de distribuir esta contribuição entre os membros da Guilda.{nl}- Milhas e contribuições serão trocadas obedecendo uma taxa específica.
+ETC_20191024_042895	{nl} {nl}Cada depósito/saque consome 20 milhas.{nl}Como obter milhas:{nl}- +3 por log-in diário de cada membro{nl}- Completando os seguintes conteúdos{nl}   Modo Desafio Estágio 5 ou mais: +1{nl}   Raids Unicas: +2{nl}   Raids Lendárias: +4{nl}   * Até +100 milhas podem ser salvas, semanalmente, por membro da Guilda{nl}   * A quantidade semanal reinicia toda segunda-feira às 06:00 AM EST
+ETC_20191024_042896	Bench (Marrom)
+ETC_20191024_042897	Paisagismo
+ETC_20191024_042898	Jardim
+ETC_20191024_042899	Klaipeda Streetlamp
+ETC_20191024_042900	Hydrangea A (Azul)
+ETC_20191024_042901	Hydrangea B (Azul)
+ETC_20191024_042902	Orsha Streetlamp
+ETC_20191024_042903	Magic Streetlamp
+ETC_20191024_042904	Tree Streetlamp
+ETC_20191024_042905	Basic Fountain (Pequena)
+ETC_20191024_042906	Musical Sculpture
+ETC_20191024_042907	Escultura
+ETC_20191024_042908	Garden Fountain (Pequena)
+ETC_20191024_042909	Garden Fountain (Médio)
+ETC_20191024_042910	Garden Fountain (Grande)
+ETC_20191024_042911	Monastery Fountain
+ETC_20191024_042912	Floral Garden Lantern L (Rosa)
+ETC_20191024_042913	Floral Garden Lantern R (Rosa)
+ETC_20191024_042914	Flower Arch (Roxo)
+ETC_20191024_042915	Arco
+ETC_20191024_042916	Iron Lantern
+ETC_20191024_042917	Garden Fence (Marrom)
+ETC_20191024_042918	Big Tree and Swing
+ETC_20191024_042919	Decoração
+ETC_20191024_042920	Pond (Branco)
+ETC_20191024_042921	Lago
+ETC_20191024_042922	Flower Bed A (Verde)
+ETC_20191024_042923	Flower Bed B (Verde)
+ETC_20191024_042924	Flower Bed C (Verde)
+ETC_20191024_042925	Farm Fence A (Marrom)
+ETC_20191024_042926	Farm Fence B (Marrom)
+ETC_20191024_042927	Farm Fence C (Marrom)
+ETC_20191024_042928	Farm Fence D (Marrom)
+ETC_20191024_042929	Decorative Tree (Verde)
+ETC_20191024_042930	Wooden Fence
+ETC_20191024_042931	Pump
+ETC_20191024_042932	Fertilizer
+ETC_20191024_042933	Farm Fence A (Branca)
+ETC_20191024_042934	Farm Fence B (Branca)
+ETC_20191024_042935	Farm Fence C (Branca)
+ETC_20191024_042936	Farm Fence D (Branca)
+ETC_20191024_042937	Farm Fence E (Branca)
+ETC_20191024_042938	Potted Rose (Amarela)
+ETC_20191024_042939	Potted Rose (Verde)
+ETC_20191024_042940	Garden Arch
+ETC_20191024_042941	Potted Hydrangea (Azul)
+ETC_20191024_042942	Parasol (Branco)
+ETC_20191024_042943	Mesa
+ETC_20191024_042944	Flower Bed D (Verde)
+ETC_20191024_042945	Flower Table Set (Branca)
+ETC_20191024_042946	Topiary (Cisne)
+ETC_20191024_042947	Moinho de Vento
+ETC_20191024_042948	Topiary (Árvore)
+ETC_20191024_042949	Topiary (Popolion)
+ETC_20191024_042950	Topiary (Kepa)
+ETC_20191024_042951	Topiary (Cavalo)
+ETC_20191024_042952	Topiary (Cubo)
+ETC_20191024_042953	Topiary (Jardim Decorado)
+ETC_20191024_042954	Knight Sculpture
+ETC_20191024_042955	Aged Tree (Rosa)
+ETC_20191024_042956	Decorative Tree
+ETC_20191024_042957	Stone Tower B
+ETC_20191024_042958	Praying Sculpture
+ETC_20191024_042959	Goat Monster Sculpture
+ETC_20191024_042960	Anemone (Vermelho)
+ETC_20191024_042961	Oak Barrel Set
+ETC_20191024_042962	Fruit Basket (Marrom)
+ETC_20191024_042963	Dewy Flower (Amarelo)
+ETC_20191024_042964	Alocasia (Branco)
+ETC_20191024_042965	Alcyonium (Azul)
+ETC_20191024_042966	Alcyonium (Vermelho)
+ETC_20191024_042967	Blue Coral
+ETC_20191024_042968	Conch Shell (Marrom)
+ETC_20191024_042969	Cactus
+ETC_20191024_042970	Farm Plot
+ETC_20191024_042971	Facility
+ETC_20191024_042972	Castle Wall
+ETC_20191024_042973	Stone Tower A
+ETC_20191024_042974	Castle Streetlamp
+ETC_20191024_042975	Flower Arch (Vermelho)
+ETC_20191024_042976	Flower Arch (Branco)
+ETC_20191024_042977	Flower Arch (Amarelo)
+ETC_20191024_042978	Bench (Verde)
+ETC_20191024_042979	Bench (Branco)
+ETC_20191024_042980	Bench (Vinho)
+ETC_20191024_042981	Alocasia (Laranja)
+ETC_20191024_042982	Alocasia (Rosa)
+ETC_20191024_042983	Alocasia (Amarelo)
+ETC_20191024_042984	Dewy Flower (Roxo)
+ETC_20191024_042985	Dewy Flower (Vermelho)
+ETC_20191024_042986	Dewy Flower (Branco)
+ETC_20191024_042987	Conch Shell (Rosa)
+ETC_20191024_042988	Conch Shell (Roxo)
+ETC_20191024_042989	Fruit Basket (Roxo)
+ETC_20191024_042990	Fruit Basket (Vermelho)
+ETC_20191024_042991	Anemone (Azul)
+ETC_20191024_042992	Anemone (Amarelo)
+ETC_20191024_042993	Garden Fence (Preto)
+ETC_20191024_042994	Garden Fence (Branco)
+ETC_20191024_042995	Potted Hydrangea (Vermelho)
+ETC_20191024_042996	Potted Hydrangea (Branco)
+ETC_20191024_042997	Potted Hydrangea (Amarelo)
+ETC_20191024_042998	Flower Bed D (Turquesa)
+ETC_20191024_042999	Flower Table Set (Rosa)
+ETC_20191024_043000	Flower Table Set (Amarelo)
+ETC_20191024_043001	Aged Tree (Roxo)
+ETC_20191024_043002	Aged Tree (Branco)
+ETC_20191024_043003	Aged Tree (Amarelo)
+ETC_20191024_043004	Floral Garden Lantern L (Vermelho)
+ETC_20191024_043005	Floral Garden Lantern L (Branco)
+ETC_20191024_043006	Floral Garden Lantern R (Vermelho)
+ETC_20191024_043007	Floral Garden Lantern R (Branco)
+ETC_20191024_043008	Hydrangea A (Vermelho)
+ETC_20191024_043009	Hydrangea A (Branco)
+ETC_20191024_043010	Hydrangea A (Amarelo)
+ETC_20191024_043011	Hydrangea B (Vermelho)
+ETC_20191024_043012	Hydrangea B (Branco)
+ETC_20191024_043013	Hydrangea B (Amarelo)
+ETC_20191024_043014	Flower Bed A (Turquesa)
+ETC_20191024_043015	Flower Bed B (Turquesa)
+ETC_20191024_043016	Flower Bed C (Turquesa)
+ETC_20191024_043017	Decorative Tree (Rosa)
+ETC_20191024_043018	Decorative Tree (Roxo)
+ETC_20191024_043019	Decorative Tree (Amarelo)
+ETC_20191024_043020	Potted Rose (Azul)
+ETC_20191024_043021	Potted Rose (Vermelho)
+ETC_20191024_043022	Potted Rose (Branco)
+ETC_20191024_043023	Decorative Flower Bed (Azul)
+ETC_20191024_043024	Decorative Flower Bed (Vermelho)
+ETC_20191024_043025	Decorative Flower Bed (Amarelo)
+ETC_20191024_043026	Parasol (Azul)
+ETC_20191024_043027	Parasol (Vermelho)
+ETC_20191024_043028	Pond (Azul)
+ETC_20191024_043029	Pond (Vermelho)
+ETC_20191024_043030	Pond (Amarelo)
+ETC_20191024_043031	Gerente da Fazenda (Masc)
+ETC_20191024_043032	Contratar
+ETC_20191024_043033	Gerente da Fazenda (Fem)
+ETC_20191024_043034	Dados de decoração não disponíveis.
+ETC_20191024_043035	Informação incorreta de mobília decorativa.
+ETC_20191024_043036	Informação incorreta da grade decorativa.
+ETC_20191024_043037	Field Boss World Event Error
+ETC_20191024_043038	Informação incorreta de item decorativo.
+ETC_20191024_043039	Related to Guild Mission Start Fail
+ETC_20191024_043040	Antiga Biblioteca Fantástica: Sausis Room 9: Casual
+ETC_20191024_043041	Raid Única: Casual
+ETC_20191024_043042	O Primeiro Refúgio: Casual
+ETC_20191024_043043	Centro de Pesquisas Mágicas: Casual
+ETC_20191024_043044	Alojamentos Fechados da Astral Tower: Casual
+ETC_20191024_043045	Campo de Testes do Asiomage: Casual
+ETC_20191024_043046	Túmulo do Corvo Branco: Casual
+ETC_20191024_043047	Antiga Biblioteca Fantástica: Sausis Room 9: Casual
+ETC_20191024_043048	Artes
+ETC_20191024_043049	Não Identificado
+ETC_20191024_043050	Enciclopédia
+ETC_20191024_043051	Mystic Tome: Swordsman
+ETC_20191024_043052	Mystic Tome: Wizard
+ETC_20191024_043053	Mystic Tome: Cleric
+ETC_20191024_043054	Mystic Tome: Scout
+ETC_20191024_043055	Mystic Tome: Archer
+ETC_20191024_043056	Decoração
+ETC_20191024_043057	2019 Leticia's Treasure Chest (Season 3)
+ETC_20191024_043058	2019 Leticia's Treasure Chest (Season 4)
 ETC_20191024_043059	A chest filled with Leticia's most precious items. Use to obtain the following items.{nl} - Shining 10-Star Gem Abrasive x2{nl} - Shining Golden Socket x3	레티샤가 귀중한 물품들을 모아놓은 상자입니다. 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 빛나는 10성 젬 연마제 x2{nl} - 빛나는 황금 소켓 x3
 ETC_20191024_043060	[PP] Shining Golden Anvil Box	[PC방] 빛나는 황금 모루 상자
 ETC_20191024_043061	A box containing Shining Golden Anvil x30. Right-click to use and obtain the items.{nl}All items contained within can be traded.	빛나는 황금 모루 30개가 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.{nl}구성품은 모든 거래가 가능합니다.
@@ -43283,7 +43283,7 @@ ETC_20191024_043284	Sealed Passage	폐쇄된 연결 통로
 ETC_20191024_043285	Sewers Main Control Room	지하수로 시설 주 제어실
 ETC_20191024_043286	Sewers Sub Control Room	지하수로 시설 보조 제어실
 ETC_20191024_043287	Sewers Storage Warehouse	시설 관리 물자 창고 구역
-ETC_20191024_043288	Flower Bed E (Turquoise)	화단_05(청록색)
+ETC_20191024_043288	Flower Bed E (Turquesa)	화단_05(청록색)
 ETC_20191024_043289	Misrus Ball of Magic	머즈루스 마력 덩어리
 ETC_20191024_043290	PC Count 1	PC 카운트1
 ETC_20191024_043291	PC Count 2	PC 카운트2
