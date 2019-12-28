@@ -15,7 +15,7 @@ UI_20150317_000014	{@st41b}Pause{/}
 UI_20150317_000015	{@st43}Diário de Aventuras{/}	
 UI_20150317_000016	{@st43}Casa de Leilões{/}	
 UI_20150317_000017	{@st59}Fechar{/}	
-UI_20150317_000018	{@st41b}Itens Vendidos : ×%s, Itens Não-vendidos : ×%s{/}	{@st41b}낙찰물품 : %s개,  유찰물품 : %s개{/}
+UI_20150317_000018	{@st41b}Itens Vendidos: ×%s, Itens Não-vendidos: ×%s{/}	{@st41b}낙찰물품 : %s개,  유찰물품 : %s개{/}
 UI_20150317_000019	{@st43}{s22}Leilão de Item{/}	
 UI_20150317_000020	{@st59}Fechar Informações da Missão{/}	
 UI_20150317_000021	Avaliar	
@@ -76,7 +76,7 @@ UI_20150317_000075	{@st43}Game Settings{/}
 UI_20150317_000076	{@st64}Use as setas para selecionar a área!	
 UI_20150317_000077	{@st43}Informação de Avanço {/}	
 UI_20150317_000078	{@st43}Escolha a Classe	
-UI_20150317_000079	Psicocinetista
+UI_20150317_000079	Psychokinesist
 UI_20150317_000080	{@st42}%s Círculo {/}	
 UI_20150317_000081	Quantos círculos	
 UI_20150317_000082	Exibe uma descrição resumida da classe.	
@@ -106,8 +106,8 @@ UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - Como usar: {nl} 1. Arraste o í
 UI_20150317_000106	{@st59}Fechar{/}	
 UI_20150317_000107	{@st41b}Salvar {/}	
 UI_20150317_000108	{@st59}Salvar alterações{/}	
-UI_20150317_000109	{@st41b}Cancelar {/}	
-UI_20150317_000110	{@st59}Descartar alterações{/}	
+UI_20150317_000109	{@st41b}Cancelar{/}	
+UI_20150317_000110	{@st59}Cancelar alterações{/}
 UI_20150317_000111	{@st42}Configurações de Chat 	
 UI_20150317_000112	{@st42}Transparência	
 UI_20150317_000113	Mostrar balão de chat	
@@ -155,7 +155,7 @@ UI_20150317_000154	{@st41b}Registro
 UI_20150317_000155	Nome da Equipe	
 UI_20150317_000156	Nome do Personagem	
 UI_20150317_000157	Círculo {#ffff00}%s{/} %s Nv {#ffff00}%s{/}	
-UI_20150317_000158	Swordsman	
+UI_20150317_000158	Warrior	젼샤				
 UI_20150317_000159	Índice de Aventura {#ffff00}%s{/} (Classificação{#ffff00}%s{/}/%s)	
 UI_20150317_000160	Índice de Aventura {#ffff00}%s{/} ({#ffff00}Sem classificação{/})	
 UI_20150317_000161	Total de Conquistas: {#ffff00}%s{/}	
@@ -263,12 +263,12 @@ UI_20150317_000262	Consumo de Moedas: 0
 UI_20150317_000263	Introdução	
 UI_20150317_000264	{@st43}Inventário{/}	
 UI_20150317_000265	{@st59}Fechar{/}	
-UI_20150317_000266	{@st59b}Equipamento {nl} {@st59s}- Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Pode usar armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Corpo, Calças, Luvas, Calçados. {nl} - Acessórios: Pode equipar 1 Colar e 2 Braceletes. {nl} {/}	
+UI_20150317_000266	{@st59b}Equipamento {nl} {@st59s}- Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Pode usar armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Topo, Calças, Luvas, Calçados. {nl} - Acessórios: Pode equipar 1 Colar e 2 Braceletes. {nl} {/}	
 UI_20150317_000267	{@st59}Acessório 1{/}	
 UI_20150317_000268	{@st59}Acessório 2{/}	
 UI_20150317_000269	{@st59}Colar{/}	
 UI_20150317_000270	{@st59}Traje{/}	
-UI_20150317_000271	{@st59}Corpo{/}	
+UI_20150317_000271	{@st59}Topo{/}	
 UI_20150317_000272	{@st59}Luvas{/}	
 UI_20150317_000273	{@st59}Calças{/}	
 UI_20150317_000274	{@st59}Botas{/}	
@@ -319,7 +319,7 @@ UI_20150317_000318	{@st59}Iniciar confecção de item.{/}
 UI_20150317_000319	{@st44}Teclado Numérico{/}	
 UI_20150317_000320	{@st42}Limite de tempo	
 UI_20150317_000321	{@st56}Abate{/}	
-UI_20150317_000322	{@st56}Brutal{/}	
+UI_20150317_000322	{@st56}Overkill{/}	
 UI_20150317_000323	{@st56}Tiro{/}	
 UI_20150317_000324	{@st56}Morte{/}	
 UI_20150317_000325	Poder de Feitiço	
@@ -331,7 +331,7 @@ UI_20150317_000330	{@st59}Fechar{/}
 UI_20150317_000331	Insira os itens	
 UI_20150317_000332	Potencial	
 UI_20150317_000333	Soquete Adicional : {#ff9933}%s{/}{nl}Extrair Gema : {#ff9933}%s{/}	
-UI_20150317_000334	{@st41b}Adicionar Soquete	
+UI_20150317_000334	{@st41b}Add. Soquete	
 UI_20150317_000335	{@st41b}Extrair Gema	
 UI_20150317_000336	{@st41}Criar{/}	
 UI_20150317_000337	{@st41}%s %s ea	
@@ -375,12 +375,12 @@ UI_20150317_000374	{@st42b}Preço
 UI_20150317_000375	{@st42b}Ocultar Nome do Vendedor{/}	
 UI_20150317_000376	{@st41b}Adicionar	
 UI_20150317_000377	Moeda Quadrada	
-UI_20150317_000378	Alguém foi morto por alguém	
+UI_20150317_000378	Alguém foi morto por alguém
 UI_20150317_000379	{@st43}Minijogos{/}	
 UI_20150317_000380	{@st49}Disparar Catapulta{/}	
 UI_20150317_000381	{@st44}Controlar direção{/}	
 UI_20150317_000382	{@st44}Disparar{/}	
-UI_20150317_000383	Brincadeira	
+UI_20150317_000383	Minigame	미니게임				
 UI_20150317_000384	{s18}{ol}{gr gradation1}Brincadeira de esconde-esconde{/}	
 UI_20150317_000385	{s16}Você quer participar da brincadeira?	
 UI_20150317_000386	{s16}Participantes: (0/5)	
@@ -400,12 +400,12 @@ UI_20150317_000399	Informações de %s
 UI_20150317_000400	Kepa ou ...	
 UI_20150317_000401	{@st41}{Details}	
 UI_20150317_000402	{s20}{#050505}Descrição do Monstro Descrição do Monstro Descrição do Monstro Descrição do Monstro	
-UI_20150317_000403	{@st41} Abate {/}	
-UI_20150317_000404	{@st41} Abate Brutal {/}	
-UI_20150317_000405	{@st41} Abate Normal {/}	
-UI_20150317_000406	{@st41} Área {/}	
-UI_20150317_000407	{@st41} Item {/}	
-UI_20150317_000408	{@st41} Conquista {/}	
+UI_20150317_000403	{@st41} Abate {/}
+UI_20150317_000404	{@st41} Overkill {/}
+UI_20150317_000405	{@st41} Abate Normal {/}
+UI_20150317_000406	{@st41} Área {/}
+UI_20150317_000407	{@st41} Item {/}
+UI_20150317_000408	{@st41} Conquista {/}
 UI_20150317_000409	Objeto	
 UI_20150317_000410	{@st43}Necronomicon{/}	
 UI_20150317_000411	{@st59}Fechar Janela do Necronomicon{/}	
@@ -427,7 +427,7 @@ UI_20150317_000426	Como Jogar
 UI_20150317_000427	{@st42b}Mover uma vez com cada uma das teclas{/}	
 UI_20150317_000428	{@st42b}Realizar um ataque básico{/}	
 UI_20150317_000429	{@st42b}Realizar um salto{/}	
-UI_20150317_000430	{@st42b}Pressione duas teclas direcionais para se mover na diagonal.{/}	
+UI_20150317_000430	{@st42b}Pressione 2 teclas direcionais para se mover na diagonal.{/}	
 UI_20150317_000431	Ferramenta de Mapa de Névoa	
 UI_20150317_000432	Ferramenta para matar monstros	
 UI_20150317_000433	Ferramenta para criar um minimapa	
@@ -445,8 +445,8 @@ UI_20150317_000444	{@st41b}Público
 UI_20150317_000445	{@st41b}Privado	
 UI_20150317_000446	Nível de Desejo                                ~	
 UI_20150317_000447	{@st41}Distribuição de Itens	
-UI_20150317_000448	{@st41b}Livre	
-UI_20150317_000449	{@st41b}Um por Vez	
+UI_20150317_000448	{@st41b}Livre
+UI_20150317_000449	{@st41b}Turno
 UI_20150317_000450	{@st41b}Aleatório	
 UI_20150317_000451	{@st41}Distribuição de EXP	
 UI_20150317_000452	{@st41b}EXP Individual	
@@ -459,7 +459,7 @@ UI_20150317_000458	{@st41b}Criar Grupo
 UI_20150317_000459	{@st43}Lista de Grupos Públicos {/}	
 UI_20150317_000460	{@st59b}Lista de Grupos Públicos{nl}{@st59s} - Procure pelo grupo que deseja participar vendo os grupos abertos em seu servidor {nl} - Use a opção Procurar para achar o grupo de sua preferência{/}	
 UI_20150317_000461	{@st59}Fechar Lista de Grupo{/}	
-UI_20150317_000462	Buscar	
+UI_20150317_000462	Buscar
 UI_20150317_000463	Quest Compartilhada	
 UI_20150317_000464	Distribuição de EXP 	
 UI_20150317_000465	Distribuição de Item	
@@ -479,7 +479,7 @@ UI_20150317_000478	{@st59}Fechar Info. do Mascote{/}
 UI_20150317_000479	{@st41b}Nome: {@sti9}%s{/}	
 UI_20150317_000480	{@sti9}%s{@st41b}Proximidade: {@sti9}%s {@st41b}Nível{/}	
 UI_20150317_000481	{@st41b}EXP{/}	
-UI_20150317_000482	{@st41b}Energia{/}	
+UI_20150317_000482	{@st41b}Stamina{/}	
 UI_20150317_000483	{@st41b}Afinidade{/}	
 UI_20150317_000484	{@st41b}Atributos e Informações	
 UI_20150317_000485	{@st43}Mascote{/}	
@@ -570,7 +570,7 @@ UI_20150317_000569	{@st41}100 Melhores em Subir de Nível{/}
 UI_20150317_000570	{@st41b}Menu{/}	
 UI_20150317_000571	{@st43}{s22}Melhorar Item{/}	
 UI_20150317_000572	{@st41b}Item Selecionado	
-UI_20150317_000573	{@st41b}Bigorna	
+UI_20150317_000573	{@st41b}Bigorna
 UI_20150317_000574	{@st41}{s20}Golpes na Bigorna:{@st43} %s	
 UI_20150317_000575	{@st41} {s20}Preço: %s	
 UI_20150317_000576	{@st41b}Aprimorar{/}	
@@ -602,7 +602,7 @@ UI_20150317_000601	{@st42}Reforçar{/}
 UI_20150317_000602	{@st59}Reforçar com as configurações atuais{/}	
 UI_20150317_000603	{@st59}Não Reforçar{/}	
 UI_20150317_000604	{@st44}Continuar{/}	
-UI_20150317_000605	{@st41b}Você está {/}{s20}{#cc6600}{ol} incapacitado{/}{@st41b}{/}	
+UI_20150317_000605	{@st41b}Você está {/}{s20}{#cc6600}{ol}incapacitado{/}{@st41b}{/}
 UI_20150317_000606	{@st41b}Renascer no Ponto de Renascimento mais próximo{/}	
 UI_20150317_000607	{@st41b}Renascer aqui (requer %s TPs) {/}	
 UI_20150317_000608	{@st41b}Voltar ao campo{/}	
@@ -610,7 +610,7 @@ UI_20150317_000609	{@st41b}Abandonar quest e reiniciar{/}
 UI_20150317_000610	{@st41b}Tentar novamente{/}	
 UI_20150317_000611	Santuário de Ressurreição (70031)	
 UI_20150317_000612	Falta o item solicitado.	
-UI_20150317_000613	Slot rápido de Descanso	
+UI_20150317_000613	Slot rápido de Descanso
 UI_20150317_000614	{@st43}Caixa de diálogo{/}	
 UI_20150317_000615	Nome Temporário	
 UI_20150317_000616	{@st41b} {s18} Espaço de Inventário Insuficiente 	
@@ -743,7 +743,7 @@ UI_20150317_000742	{@st43}Game{/}
 UI_20150317_000743	{@st41b}Exibir EXP Ganha{/}	
 UI_20150317_000744	{@st41b}Mostrar nome do Personagem{/}	
 UI_20150317_000745	{@st41b}Mostrar nome do Time{/}	
-UI_20150317_000746	{@st41b}Mostrar Guia de Quest{/}	
+UI_20150317_000746	{@st41b}Mostrar Guia de Missão{/}	
 UI_20150317_000747	{@st43}Resolução{/}	
 UI_20150317_000748	{@st43}Gráficos{/}	
 UI_20150317_000749	{@st41b}Tela Cheia{/}	
@@ -906,7 +906,7 @@ UI_20150317_000905	{ol}Recompensas adicionais
 UI_20150317_000906	{@st45}Trapaças mais usadas	
 UI_20150317_000907	{@st41}Mapa de habilidades{/}	
 UI_20150317_000908	{@st42}Habilidade{/}	
-UI_20150317_000909	{@st42}Swordsman{/}	
+UI_20150317_000909	{@st42}Warrior{/}	{@st42}전사{/}				
 UI_20150317_000910	{@st42}Wizard{/}	
 UI_20150317_000911	{@st42}Archer{/}	
 UI_20150317_000912	{@st42}Monk{/}	
@@ -1007,12 +1007,12 @@ UI_20150317_001006	{@St44}Nome do Diálogo Novo{/}
 UI_20150317_001007	{@St42}Mudar{/}	
 UI_20150317_001008	{@St44}Nome da Janela Nova{/}	
 UI_20150317_001009	{@St43}{s40}{gr gradation4}Criação de Personagem{/}	
-UI_20150317_001010	{@St59}Criar um Personagem{/}	
+UI_20150317_001010	{@St59}Criar Personagem{/}	
 UI_20150317_001011	{@St59}Cancelar criação{/}	
 UI_20150317_001012	{@St59}Fechar{/}	
 UI_20150317_001013	{@St59}Criar um time com esse nome{/}	
 UI_20150317_001014	{@St43}{s30}{#f0dcaa}Escreva o nome do Time!	
-UI_20150317_001015	{@St41b}Seu nome de Time é um nome que representa todos os seus personagens.{nl}Este nome será usado universalmente no mercado, ao entrar em guilds, no chat e muito mais.{nl}         O nome do Time pode ser alterado a qualquer momento usando 150 TP.{/}	
+UI_20150317_001015	{@St41b}Seu nome de Time representa todos os seus personagens.{nl}Será usado universalmente no Mercado, Guildas, no chat e muito mais.{nl}         O nome do Time pode ser alterado a qualquer momento usando 150 TP.{/}
 UI_20150317_001016	Carregando fundo	
 UI_20150317_001017	Dica	
 UI_20150317_001018	Dicas de Jogo	
@@ -1069,7 +1069,7 @@ UI_20150317_001068	{@st41}Trazer Consigo
 UI_20150317_001069	{@st59}Depois de clicar aqui, selecione um personagem para o mascote seguir.{/}	
 UI_20150317_001070	UI de Criação de Item	
 UI_20150317_001071	{s24}Nome:	
-UI_20150317_001072	{s16} FOR:	
+UI_20150317_001072	{s16} STR:	
 UI_20150317_001073	{s16} HP:	
 UI_20150317_001074	{s16} AGI:	
 UI_20150317_001075	{s16} VIT:	
@@ -1288,7 +1288,7 @@ UI_20150317_001287	{@St53}Construir Item
 UI_20150323_001288	{@st59}Coloque o item aqui{/}	
 UI_20150323_001289	{@st42}Cancelar	
 UI_20150323_001290	{@st42}Confirmar	
-UI_20150323_001291	{@st43}Briquetagem{/}	
+UI_20150323_001291	{@st43}Briquetting{/}	
 UI_20150323_001292	Potencial Atual	
 UI_20150323_001293	Material Consumido 	
 UI_20150323_001294	Quantidade Consumida	
@@ -1322,7 +1322,7 @@ UI_20150323_001321	Carta Secundária
 UI_20150323_001322	Atributo	
 UI_20150323_001323	CON	
 UI_20150323_001324	INT	
-UI_20150323_001325	DES	
+UI_20150323_001325	DEX	
 UI_20150323_001326	CRT	
 UI_20150323_001327	{@st43}Configurar Loja{/}	
 UI_20150323_001328	{@st41b}Configurações	
@@ -1369,11 +1369,11 @@ UI_20150323_001368	{@st59}Invocar Mascote{/}
 UI_20150323_001369	{@st41b}Personagem{/}	
 UI_20150323_001370	{@st59}Grimoire{/}	
 UI_20150323_001371	{@st41b}Aplicar Bloom{/}	
-UI_20150323_001372	{@st41b}Aplicar Vignette{/}	
+UI_20150323_001372	{@st41b}Aplicar Vinheta{/}	
 UI_20150323_001373	{@st41b}Aplicar FXAA{/}	
-UI_20150323_001374	{@st41b}Aplicar GLOW{/}	
-UI_20150323_001375	{@st41b}Aplicar Depth {/}	
-UI_20150323_001376	{@st41b}Aplicar SoftParticle{/}	
+UI_20150323_001374	{@st41b}Aplicar Brilho{/}	
+UI_20150323_001375	{@st41b}Aplicar Profundidade{/}	
+UI_20150323_001376	{@st41b}Aplicar Suavidade{/}	
 UI_20150323_001377	{@st43}Depósito Pessoal{/}	
 UI_20150323_001378	{@st59}Fechar Depósito Pessoal{/}	
 UI_20150323_001379	{@sti6}Guardar e pegar itens no depósito custa %s Silver...{/}	
@@ -1564,7 +1564,7 @@ UI_20150714_001563	{@st41b}Remover Mesa
 UI_20150714_001564	{@st42}Minha Habilidade de Invocação	
 UI_20150714_001565	{@st42}Atributo	
 UI_20150714_001566	{@st42}Local Atual: %s{/}	
-UI_20150714_001567	{@st59b}Equipamento {nl}{@st59s} - Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Corpo, Calças, Luvas, Calçados. {nl} - Acessórios: 1 Colar e 2 Braceletes. {nl} {/}	
+UI_20150714_001567	{@st59b}Equipamento {nl}{@st59s} - Penteado/Traje: Equipamento para mudar a aparência dos personagens. {nl} - Arma: Armas de uma ou duas mãos {nl} (pode usar sub-arma/escudo com arma de uma mão) {nl} - Armadura: Topo, Calças, Luvas, Calçados. {nl} - Acessórios: 1 Colar e 2 Braceletes. {nl} {/}	
 UI_20150714_001568	{@st43}%s: Abrir Loja{/}	
 UI_20150714_001569	{@st41b}Lapidação{/}	
 UI_20150714_001570	{@st66}Selecionar Tudo	
@@ -1617,9 +1617,9 @@ UI_20150714_001616	{@st43}Caixa de Mensagem
 UI_20150714_001617	{@st41b}Todos	
 UI_20150714_001618	{@st41b}Novas Mensagens	
 UI_20150714_001619	{@st43}{s22}Escolha um personagem pra receber os itens.{/}	
-UI_20150714_001620	{@st41b}Melhorar	
+UI_20150714_001620	{@st41b}Refinar
 UI_20150714_001621	{@st66}Itens precisando de reparo	
-UI_20150714_001622	{@st43}Simonia	
+UI_20150714_001622	{@st43}Simony
 UI_20150714_001623	{@st59}Aumentar habilidades{/}	
 UI_20150714_001624	{@st59}Fechar{/}	
 UI_20150714_001625	{@st43}Habilidades e Atributos{/}	
@@ -1638,15 +1638,15 @@ UI_20150714_001637	{@st66b}Modo Janela{/}
 UI_20150714_001638	{@st66b}Efeitos Sonoros (%s){/}	
 UI_20150714_001639	{@st66b}Música de Fundo (%s){/}	
 UI_20150714_001640	{@st66b}Volume (%s){/}	
-UI_20150714_001641	{@st66b}Requisitos Mínimos{/}	
+UI_20150714_001641	{@st66b}Modo Mínimo{/}	
 UI_20150714_001642	{@st66b}Automático{/}	
 UI_20150714_001643	{@st66b}Não usar{/}	
 UI_20150714_001644	{@st66b}Aplicar Bloom{/}	
-UI_20150714_001645	{@st66b}Aplicar Vignette{/}	
+UI_20150714_001645	{@st66b}Aplicar Vinheta{/}	
 UI_20150714_001646	{@st66b}Aplicar FXAA{/}	
-UI_20150714_001647	{@st66b}Aplicar GLOW{/}	
-UI_20150714_001648	{@st66b}Aplicar Depth{/}	
-UI_20150714_001649	{@st66b}Aplicar SoftParticle{/}	
+UI_20150714_001647	{@st66b}Aplicar Brilho{/}	
+UI_20150714_001648	{@st66b}Aplicar Profundidade{/}	
+UI_20150714_001649	{@st66b}Aplicar Suavidade{/}	
 UI_20150714_001650	{@st66b}Aplicar Alta Textura{/}	
 UI_20150714_001651	{@st66b}Ativar Sinc. Vertical{/}	
 UI_20150714_001652	{@st66b}Desativar Sinc. Vertical{/}	
@@ -1663,8 +1663,8 @@ UI_20150714_001662	Dano
 UI_20150714_001663	{@st41}Retornar à Zona	
 UI_20150714_001664	{@st41b}Retornando em %s segundos...{/}	
 UI_20150714_001665	{@st59}Abrir a Caixa de mensagem{/}	
-UI_20150714_001666	{@st42}Mudar Alojamento{/}	
-UI_20150714_001667	{@st42}Configurações do Alojamento{/}	
+UI_20150714_001666	{@st42}Mudar Alojamento{/}
+UI_20150714_001667	{@st42}Config. Alojamento{/}
 UI_20150714_001668	{@st65}Pontuação %s{/}	
 UI_20150714_001669	{@st65}×%s{/}	
 UI_20150714_001670	{@st65}Pontuação %s{/}	
@@ -1683,7 +1683,7 @@ UI_20150714_001682	Você se divertiu com esse grupo?
 UI_20150714_001683	{@st42} obteve %s por %s	
 UI_20150714_001684	{@st42} melhorou %s por %s	
 UI_20150714_001685	Anotação: %s	
-UI_20150714_001686	{@st59}Adicionar o material à esse slot.{/}	
+UI_20150714_001686	{@st59}Adicionar o material à esse espaço.{/}	
 UI_20150714_001687	{@st66b}Preço: %s{/}	
 UI_20150714_001688	Saudação de Personagem	
 UI_20150714_001689	Loja de Compra	
@@ -1697,8 +1697,8 @@ UI_20150717_001696	Classificação T.
 UI_20150717_001697	{s40} {nl}Jogar por longos períodos de tempo pode prejudicar a sua saúde.{/}	
 UI_20150717_001698	{@st66b}Entrar	
 UI_20150717_001699	{@st42}Info. da Invocação	
-UI_20150717_001700	Seu movimento diminui quando você não tem ENE suficiente{@st59}{/}	
-UI_20150717_001701	{@st59}Organizar seu Inventário{/}	
+UI_20150717_001700	Seu movimento diminui quando você não tem STA suficiente{@st59}{/}	
+UI_20150717_001701	{@st59}Organizar Inventário{/}
 UI_20150717_001702	Organizar	
 UI_20150717_001703	{@st59}Fechar{/}	
 UI_20150717_001704	{@st59}Fechar{/}	
@@ -1706,12 +1706,12 @@ UI_20150717_001705	Tutorial de Mouse
 UI_20150717_001706	{@st59}Fechar{/}	
 UI_20150717_001707	Ataque : %s	
 UI_20150717_001708	Defesa : %s	
-UI_20150717_001709	FOR : %s	
+UI_20150717_001709	STR : %s	
 UI_20150717_001710	CON : %s	
 UI_20150717_001711	INT : %s	
-UI_20150717_001712	DES : %s	
-UI_20150717_001713	ESP : %s	
-UI_20150717_001714	{@st42b}Espadachins podem correr apertando duas vezes as teclas direcionais.{/}	
+UI_20150717_001712	DEX : %s	
+UI_20150717_001713	SPR : %s	
+UI_20150717_001714	{@st42b}Swordsman pode correr apertando duas vezes as teclas direcionais.{/}	
 UI_20150717_001715	{@st42}Nome e Descrição do Grupo{/}	
 UI_20150717_001716	{@st42}Inserir Tag de Convite de Grupo	
 UI_20150717_001717	{@st41b}Lista de Grupo Público{/}	
@@ -1723,7 +1723,7 @@ UI_20150717_001722	{@st66b}Nome da Classe da Quest{/}
 UI_20150717_001723	{@st59b}Loja{nl}{@st59s} - Use Shift + Clicar com o botão direito e digite uma quantidade para comprar/vender vários itens{nl} - Clique duas vezes com o botão direito para vender todos os itens{/}	
 UI_20150717_001724	{@st59}Info. do Mouse{/}	
 UI_20150717_001725	{@st66b}Ordenar	
-UI_20150717_001726	{@st59}Organizar itens no seu armazém.{/}	
+UI_20150717_001726	{@st59}Organizar Armazém.{/}	
 UI_20150717_001727	{@st59}Equipar armas nesse espaço{nl}Pressione Alt+Z para trocar entre armas{/}	
 UI_20150717_001728	Assistir outro personagem	
 UI_20150717_001729	{@st41}Campo de Batalha	
@@ -1737,8 +1737,8 @@ UI_20150729_001736	Peso
 UI_20150729_001737	{@st43}Lapidação de Gema{/}	
 UI_20150729_001738	{@st59b}Confecção de Item{nl}{@st59s} - O item pode ser confeccionado usando uma receita.{nl} - Coloque a receita e os materiais necessários no espaço para iniciar a confecção do item. {nl} - Você pode dar um nome exclusivo e uma anotação ao item.{/}	
 UI_20150729_001739	{@st59}Fechar{/}	
-UI_20150729_001740	Fragmentos necessários : Mutante %s / Besta %s / Planta %s	
-UI_20150729_001741	{@st42b}         Espadachins podem correr apertando duas vezes as teclas direcionais{/}	
+UI_20150729_001740	Fragmentos necessários : Mutante %s / Fera %s / Planta %s	
+UI_20150729_001741	{@st42b}Aperte duas vezes o direcional para correr{/}
 UI_20150729_001742	{@st41}Configurar Grupo	
 UI_20150729_001743	{@st41}Configurar Recrutamento de Grupo	
 UI_20150729_001744	{@st42}Procurar Integrantes de Grupo{/}	
@@ -1750,20 +1750,20 @@ UI_20150729_001749	{@st59b}Refinamento de Gema/Carta{nl}{@st59s} - Selecione uma
 UI_20150729_001750	{#000000}{s22}Fila do Servidor	
 UI_20150729_001751	{#000000}{s22}O servidor está lotado. Aguarde na fila para entrar.	
 UI_20150729_001752	{#000000}{s22}Posição Atual: %s	
-UI_20150729_001753	{@st43}Liga de Batalha de Times	
+UI_20150729_001753	{@st43}Team Battle League
 UI_20150729_001754	{@st59}Fechar	
-UI_20150729_001755	{@st42}Calendário da Liga de Batalha de Times	
-UI_20150729_001756	{@st43}Rankings da Liga de Batalha de Times	
-UI_20150729_001757	{@st59}Fechar Classificações da LBT	
+UI_20150729_001755	{@st42}Calendário da Team Battle League
+UI_20150729_001756	{@st43}Rankings da Team Battle League
+UI_20150729_001757	{@st59}Fechar Classificações da TBL	
 UI_20150729_001758	Nome do Time	
 UI_20150729_001759	{@st41b}Nome da Habilidade	
 UI_20150729_001760	{@st59}Aceitar Missão de Grupo{/}	
 UI_20150729_001761	{@st59}Excluir Bilhete{/}	
 UI_20150729_001762	Pontuação	
-UI_20150729_001763	Participar da Liga de Batalha de Times	
-UI_20150730_001764	{@st56}Minha Classificação		
-UI_20150730_001765	{@st56}Classificação de Abates	
-UI_20150730_001766	{@st56}Classificação de Dano	
+UI_20150729_001763	Participar da Team Battle League
+UI_20150730_001764	{@st56}Meu Rank	
+UI_20150730_001765	{@st56}Rank de Mortes
+UI_20150730_001766	{@st56}Rank de Dano
 UI_20150803_001767	Geral: /s chat{nl}Global: /y chat {nl}Grupo: /p chat{nl} Privado: /w TeamName chat	일반 : /s 할말{nl}외침 : /y 할말{nl}파티 : /p 할말{nl}귓속말 : /w 팀이름 할말	UI_20150317_000093	Geral: /s chat {nl} Global: /y chat {nl} Grupo: /p chat{nl} Privado: /w nome de personagem chat	일반 : /s 내용{nl}외침 : /y 내용{nl}파티 : /p 내용{nl}귓속말 : /w 캐릭명 내용	
 UI_20150803_001768	{@st66b}Vibração do Controle{/}	
 UI_20150803_001769	Partida encontrada. Aguarde para entrar.	
@@ -1805,9 +1805,9 @@ UI_20150918_001804	Total N/Trocável: %s
 UI_20150918_001805	{@st42b}Selecionar Diálogo{/}	
 UI_20150918_001806	{@st66b}Dar comida para grupo externo{/}	
 UI_20150918_001807	{@st41b}Mudar Título de Placa	
-UI_20150918_001808	{@sti9}Minha Classificação	
-UI_20150918_001809	{@sti9}Classificação de Abates	
-UI_20150918_001810	{@sti9}Classificação de Dano	
+UI_20150918_001808	{@sti9}Meu Rank
+UI_20150918_001809	{@sti9}Rank de Mortes
+UI_20150918_001810	{@sti9}Rank de Dano
 UI_20151001_001811	{@st43}Key Settings{/}	
 UI_20151001_001812	{@st45tw2}Categoria	
 UI_20151001_001813	Ação	
@@ -1831,15 +1831,15 @@ UI_20151102_001830	TP
 UI_20151224_001831	{@st41b}Mudar{s18}(Requer 100 TP){/}	
 UI_20151224_001832	Consumir Quantidade	
 UI_20151224_001833	Quantidade Disponível	
-UI_20151224_001834	{@st43}Loja de Buffs{/}	
+UI_20151224_001834	{@st43}Loja de Graças{/}	
 UI_20151224_001835	{@st59}Fechar{/}	
-UI_20151224_001836	{@st43}Loja de Buffs	
-UI_20151224_001837	Loja de Buffs	
+UI_20151224_001836	{@st43}Loja de Graças	
+UI_20151224_001837	Loja de Graças	
 UI_20151224_001838	{@st59}Fechar	
-UI_20151224_001839	{@st59}Loja de Buffs{nl} - Você pode receber buffs do jogador pagando em Silver.	
+UI_20151224_001839	{@st59}Loja de Graças{nl} - Você pode receber buffs do jogador pagando em Silver.	
 UI_20151224_001840	{@st41b}Construir	
 UI_20151224_001841	{@st41b}Materiais e Preço	
-UI_20151224_001842	{@st66b}Porão	
+UI_20151224_001842	{@st66b}Basement
 UI_20151224_001843	{@st66b}Registros	
 UI_20151224_001844	Quantidade de Pernas	
 UI_20151224_001845	{@st41}Confirmar	
@@ -1861,7 +1861,7 @@ UI_20151224_001860	{@st66b}Organizar
 UI_20151224_001861	{@st59}Fechar{/}	
 UI_20151224_001862	{@st43}Guilda{/}	
 UI_20151224_001863	{@st41b}Informação Básica	
-UI_20151224_001864	{@st41b}Propriedade	
+UI_20151224_001864	{@st41b}Elemento	
 UI_20151224_001865	Procurando participantes do evento da guilda.	
 UI_20151224_001866	{@st41b}Melhorias & Rank	
 UI_20151224_001867	{@st41b}Atributos da Guilda	
@@ -1876,7 +1876,7 @@ UI_20151224_001875	{@st45tw2}Categoria{/}
 UI_20151224_001876	{@st45tw2}Valor de Variaçào{/}	
 UI_20151224_001877	{@st45tw2}Tempo{/}	
 UI_20151224_001878	{@st45tw2}Recuperação{/}	
-UI_20151224_001879	{@st66b}Masmorras{/}	
+UI_20151224_001879	{@st66b}Dungeons{/}	
 UI_20151224_001880	{@st66b}Pedir Missão da Agência{/}	
 UI_20151224_001881	{@st66b18}Limite de Entrada{/}	
 UI_20151224_001882	{@st45tw2}Nome{/}	
@@ -1895,7 +1895,7 @@ UI_20151224_001894	{@st66b}Registros{/}
 UI_20151224_001895	Número Restante	
 UI_20151224_001896	{@st66b}Manutenção{/}	
 UI_20151224_001897	{@st66b}Reparar{/}	
-UI_20151224_001898	{@st41}Nível de Habilidade	
+UI_20151224_001898	{@st41}Nível de Habilidade
 UI_20151224_001899	{@st41}Objetos de Valor	
 UI_20151224_001900	{@st66b}Dispensar Ajuda (Requer %s TP){/}	
 UI_20151224_001901	{@st66b}Mapa Completo{/}	
@@ -1951,7 +1951,7 @@ UI_20151224_001950	{@st66b}Não Lida
 UI_20151224_001951	{@st59b}Quests{nl}{@st59s} - Quando você estiver em uma nova quest, ela será adicionada à janela de quests.{nl} - Quests principais tem a cor amarela, enquanto sub-quests tem cor azul.{nl} - A seta nos pés do seu personagem indica a localização da sua quest.{nl} - Um ícone de 'Retornar'é exibido na janela de quests quando uma quest está completa.{nl} (Teleporta você para o NPC da quest usando Backspace ou clicando com o mouse){nl} - Adicione ou remova quests na janela de quests marcando ou desmarcando a caixa na frente do nome da quest{/}
 UI_20151224_001952	{@st66b}  Em progresso  {/}	
 UI_20151224_001953	{@st66b}  Abandonada  {/}	
-UI_20151224_001954	{@st66b}Renascer com um Cristal da Alma{/}	
+UI_20151224_001954	{@st66b}Renascer com Soul Crystal{/}	
 UI_20151224_001955	{@st59b}Shop{nl}{@st59s} - Use Shift + Clique-direito para entrar a quantidade de itens para vender/comprar{nl} - Clique duas vezes com o botão direito para vender todos os itens{/}	
 UI_20151224_001956	Quantidade	
 UI_20151224_001957	{@st42}Benefícios de %s{/}	
@@ -2062,19 +2062,19 @@ UI_20160224_002061	Continuar subindo
 UI_20160224_002062	{@st43}Coletor de Relíquias{/}	
 UI_20160224_002063	{@st59}Fechar{/}	
 UI_20160224_002064	{@st59b}Trocar Itens{nl}{@st59s} - Pode trocar itens obtidos na Torre da Terra{nl} - A troca começa depois de inserir os ingredientes no slot.{nl}{/}	
-UI_20160224_002065	º andar	
+UI_20160224_002065	F	층				
 UI_20160224_002066	{@st59}Fechar{/}	
 UI_20160224_002067	{@st59}Coloque um acessório{/}	
 UI_20160224_002068	{@st66b}Abrir mais uma vez custa Silver.{/}	
 UI_20160224_002069	{@st66b}(Pode abrir até 2x se tiver Token){/}	
 UI_20160224_002070	{@st41b}Você excedeu o número máximo permitido.{/}	
 UI_20160224_002071	{@st66b}Info Básica	
-UI_20160224_002072	{@st66b}Propriedade	
+UI_20160224_002072	{@st66b}Elemento	
 UI_20160224_002073	O Líder da Guilda está à procura de participantes para o evento de Guilda.	
 UI_20160224_002074	{@st63_yellow}Membros:{/}	
 UI_20160224_002075	{@st63}%s participantes (Login %s){/}	
 UI_20160224_002076	{@st63_yellow}Local :{/}	
-UI_20160224_002077	Floresta de Cobalto	
+UI_20160224_002077	Cobalt Forest
 UI_20160224_002078	{@st63_yellow}Objetivo :{/}	
 UI_20160224_002079	{@st43}Guilda Nv. %s{/}	
 UI_20160224_002080	{@st66b}Upgrade & Rank	
@@ -2083,14 +2083,14 @@ UI_20160224_002082	Guild Storage
 UI_20160224_002083	{@st59}Fechar{/}	
 UI_20160224_002084	* O líder da guilda pode enviar itens para os membros da guilda.{nl}* Itens podem ser coletados através da caixa de mensagens.	
 UI_20160224_002085	{@st41b}Encantar	
-UI_20160224_002086	{@st41b}Pergaminho de Encantamento{/}	
+UI_20160224_002086	{@st41b}Enchant Scroll{/}	
 UI_20160224_002087	{@st59}Fechar{/}	
-UI_20160224_002088	{@st66b}Consome 1 Pergaminho de Encantamento{/}	
+UI_20160224_002088	{@st66b}Consome 1 Enchant Scroll{/}	
 UI_20160224_002089	{@st42b}Quantidade de Pergaminhos: %s{/}	
 UI_20160224_002090	{@st66b}Missões{/}	
-UI_20160224_002091	{@st66b}Convento de Saalus{/}	
-UI_20160224_002092	{@st66b}Torre da Terra{/}	
-UI_20160224_002093	{@st59b}Masmorras de Instância{nl}{@st59s}Conteúdo onde seu grupo deve alcançar certos objetivos em zonas isoladas do resto do mundo.{nl}Você pode tanto criar um grupo antes de entrar quanto procurar automaticamente por um grupo para desafiar uma masmorra.{nl} - Masmorras : Entre falando com o NPC na porta da masmorra em cada área.{nl} - Missões : Entre falando com os Recepcionistas do Posto de Mercenários em Fedimian{nl} - Missão do Convento Saalus : Entre falando com a Irmã Lhasa no Convento Saalus.{nl}{/}	
+UI_20160224_002091	{@st66b}Saalus Convent{/}	
+UI_20160224_002092	{@st66b}Earth Tower{/}	
+UI_20160224_002093	{@st59b}Dungeons Instanciadas{nl}{@st59s}Conteúdo onde seu grupo deve alcançar certos objetivos em zonas isoladas do resto do mundo.{nl}Você pode tanto criar um grupo antes de entrar quanto procurar automaticamente por um grupo para desafiar uma masmorra.{nl} - Masmorras : Entre falando com o NPC na porta da masmorra em cada área.{nl} - Missões : Entre falando com os Recepcionistas do Posto de Mercenários em Fedimian{nl} - Missão do Convento Saalus : Entre falando com a Irmã Lhasa no Convento Saalus.{nl}{/}	
 UI_20160224_002094	{@st59}Fechar{/}	
 UI_20160224_002095	{@st59}Mostrar/Não Mostrar{/}	
 UI_20160224_002096	{@st45tw2}Tempo{/}	
@@ -2110,18 +2110,18 @@ UI_20160224_002109	{@59}Mostrar em uma nova janela{/}
 UI_20160224_002110	Diário de Aventuras Atualizado	
 UI_20160224_002111	{@st41}Trocar	
 UI_20160224_002112	Venha para o reino feliz
-UI_20160224_002113	Agenda da Liga de Batalha de Times
+UI_20160224_002113	Agenda da Team Battle League
 UI_20160224_002114	Recordes Recentes
 UI_20160224_002115	{@st45tw2}Categoria{/}	
 UI_20160224_002116	{@st41c}%s{/}	
 UI_20160224_002117	{@st41c}%sm{/}	
-UI_20160224_002118	O Atirador do Templo está levando os Vubbes de volta para a Mina de Cristal livre do domínio de Mirtis.{nl}Derrote o Atirador do Templo e ajude a manter a Mina de Cristal segura novamente.	
+UI_20160224_002118	Temple Shooter está levando os Vubbes de volta para a Crystal Mine livre do domínio de Mirtis.{nl}Derrote o Temple Shooter e ajude a manter a Crystal Mine segura novamente.	
 UI_20160224_002119	{@st41c}Capítulo %s{/}	
 UI_20160224_002120	Nome & Classe	
 UI_20160224_002121	{@st41b}Atualizar	
 UI_20160224_002122	Ver Histórico Recente
 UI_20160224_002123	Observar	
-UI_20160224_002124	{#000000}%s V{/}	
+UI_20160224_002124	{#000000}%s W{/}
 UI_20160224_002125	{@st66b}Loja de Pontos	
 UI_20160224_002126	Pontos Diários	
 UI_20160224_002127	Pontos Comprados	
@@ -2136,10 +2136,10 @@ UI_20160310_002135	{@st65}{s12}Conquista{/}
 UI_20160310_002136	{#16120e}Conquista{/}	
 UI_20160310_002137	Contagem: %s	
 UI_20160310_002138	Dano: %s	
-UI_20160310_002139	{@sti9}Classificação de Abates	
-UI_20160310_002140	{@sti9}Classificação de Dano	
-UI_20160317_002141	1 entrada extra em Masmorras e Missões	
-UI_20160317_002142	2 entradas extras em Masmorras e Missões
+UI_20160310_002139	{@sti9}Rank de Mortes
+UI_20160310_002140	{@sti9}Rank de Dano
+UI_20160317_002141	1 entrada extra em Dungeons e Missões	
+UI_20160317_002142	2 entradas extras em Dungeons e Missões
 UI_20160323_002143	{@st41} Info da Invocação	
 UI_20160323_002144	{@st41} Ranking da Batalha de Guildas{/}	
 UI_20160323_002145	Ranking da Batlha de Guildas
@@ -2156,11 +2156,11 @@ UI_20160323_002155	{@st41}Criatura: {#ffcc33}%s{/}
 UI_20160323_002156	{@st41}Fragmentos: %s	
 UI_20160323_002157	ATQ : {@st41b}%s	
 UI_20160323_002158	DEF : {@st41b}%s	
-UI_20160323_002159	FOR : {@st41b}%s	
+UI_20160323_002159	STR : {@st41b}%s	
 UI_20160323_002160	CON : {@st41b}%s	
 UI_20160323_002161	INT : {@st41b}%s	
-UI_20160323_002162	DES : {@st41b}%s	
-UI_20160323_002163	ESP : {@st41b}%s	
+UI_20160323_002162	DEX : {@st41b}%s	
+UI_20160323_002163	SPR : {@st41b}%s	
 UI_20160323_002164	{@st42}Cor do Cabelo{/}	
 UI_20160323_002165	{@st42}Títulos Disponíveis{/}	
 UI_20160323_002166	Info do Time	
@@ -2213,7 +2213,7 @@ UI_20160718_002212	Chat - Forçar rolagem
 UI_20160718_002213	{@st43}Loja do Evento{/}	
 UI_20160718_002214	{@st59}Fechar{/}	
 UI_20160718_002215	{@st41}Atributo	
-UI_20160718_002216	{@st59}GvG a Regional	
+UI_20160718_002216	{@st59}GvG Regional	
 UI_20160718_002217	{@st43}Rankings de GvG Regional
 UI_20160718_002218	Rankings de GvG	
 UI_20160718_002219	{@st59}Fechar	
@@ -2237,7 +2237,7 @@ UI_20160718_002236	{@st45tw2}Abates
 UI_20160718_002237	{@st45tw2}Mortes	
 UI_20160718_002238	{@st59}Lentes{/}	
 UI_20160718_002239	{@st41}Sacrificar Material	
-UI_20160718_002240	{@st66b}Mostrar Efeitos de Outros Personagens{/}	
+UI_20160718_002240	{@st66b}Mostrar Efeitos de Terceiros{/}	
 UI_20160718_002241	{@st66b}Mostrar Efeitos de Fundo{/}	
 UI_20160718_002242	{@st59}Mostra efeitos de fundo e gráficos.{/}	
 UI_20160718_002243	{@st66b}Monstros pequenos e médios explodem quando derrotados
@@ -2248,7 +2248,7 @@ UI_20160718_002247	Você quer usar este %s?{/}
 UI_20160718_002248	Tempo para usar :	
 UI_20160718_002249	Dia Hora Minuto Segundo	
 UI_20160718_002250	{@st42b}Siauliai{/}	
-UI_20160718_002251	{#000000}Pontuação	{/}	
+UI_20160718_002251	{#000000}Pontuação{/}	
 UI_20160718_002252	{#000000}%s Pontos{/}	
 UI_20160718_002253	Ranking de GvG Regional
 UI_20160811_002254	{@st66b18}※ O item é consumido quando você muda o nome.{/}	
@@ -2280,7 +2280,7 @@ UI_20160811_002279	Classificação da Semana Passada
 UI_20160811_002280	20 x 300 Cupons de TP	
 UI_20160811_002281	Receber Recompensas
 UI_20160811_002282	{@sti1c}Ranking Semanal{/}	
-UI_20160811_002283	{@st66b}Defesa da Colina{/}	
+UI_20160811_002283	{@st66b}Uphill Defense{/}	
 UI_20160811_002284	Nível em ordem crescente{/}	
 UI_20160811_002285	Nível em ordem decrescente{/}	
 UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Carta de Monstro{/}	
@@ -2288,11 +2288,11 @@ UI_20160811_002287	Transcender Item
 UI_20160811_002288	Transcendência	
 UI_20160811_002289	{@st59b}Transcender Item{nl}{@st59s}- Outra maneira de aprimorar o desempenho do item além da bigorna{nl}- Itens que podem transcender : Armas, armaduras e acessórios{nl}- Taxa de Sucessão de Transcendência = Ingredientes Usados / Máximo de Ingredientes Requeridos{nl}- Aumenta o estágio de Transcendência em 1 caso tenha sucesso (Maximo de 10 estágios){nl}- Diminui o estágio de transcendência em 1 caso falhe (Sem perda de potencial){nl}- Itens transcendidos não podem ser negociados{/}	
 UI_20160811_002290	{@st42}Estágio %s{/}	
-UI_20160811_002291	Extrair Gema Abençoada	
-UI_20160811_002292	{@st59b}Extrair Gema Abençoada{nl}{@st59s}- Extrai Gema Abençoada de itens transcendidos{nl}- Requerimento de extração : Martelo de Desmantelamento{nl}- Você vai receber algumas das Gemas Abençoadas utilizadas para a transcendência, mas o item será destruído. {nl}- Você não pode usar isso quando seu item estiver no estágio 0 de Transcendência.{/}	
+UI_20160811_002291	Extrair Blessed Gem
+UI_20160811_002292	{@st59b}Extrair Blessed Gem{nl}{@st59s}- Extrai Blessed Gem de itens transcendidos{nl}- Requerimento de extração : Hammer of Dismantlement{nl}- Você vai receber algumas das Blessed Gemas utilizadas para a transcendência, mas o item será destruído. {nl}- Você não pode usar isso quando seu item estiver no estágio 0 de Transcendência.{/}	
 UI_20160811_002293	Resultados de Extração
 UI_20160811_002294	Extrair Item	
-UI_20160811_002295	{@st59b}Extrair Item{nl}{@st59s}- Remove os efeitos transcedentais de um item transcendido{nl}- Requerimentos de Extração : Cajado de Feitiço{/}	
+UI_20160811_002295	{@st59b}Extrair Item{nl}{@st59s}- Remove os efeitos transcedentais de um item transcendido{nl}- Requerimentos de Extração : Spell Rod{/}	
 UI_20160811_002296	Resultado de Extração de Item
 UI_20160811_002297	Nome do (Pacote) sendo vendido	
 UI_20160811_002298	{@st67}{s18} ※ Você só pode comprar 1 produto por conta.{/}	
@@ -2350,7 +2350,7 @@ UI_20161005_002349	Cupom de Limpeza de Instância
 UI_20161005_002350	Aviso	
 UI_20161005_002351	 Os monstros derrotados pelo pilar da luz{nl}não serão registrados no Diário de Aventura e {nl} os itens cairão perto do pilar de luz. Por favor, esteja ciente da possível perda de itens.{Nl}O cupom usado desaparece instantaneamente e só pode ser usado em masmorras de instância.{/}	
 UI_20161005_002352	Deseja usar um Cupom de Limpeza de Instância?{/}	
-UI_20161005_002353	{@st59b}Extração de Gemas Abençoadas{nl}{@st59s}- Extrai a Gema Abençoada de um item transcendido{nl}- Requerimento de extração : Martelo de Desmantelamento{nl}- Você vai receber algumas das Gemas Abençoadas utilizadas para a transcendência, mas o item será destruído.{nl}  : Taxa de sucesso atual / 40% da quantidade de Gemas Abençoadas será devolvido. {nl}- Você não pode usar isso quando seu item estiver no estágio 0 de Transcendência.{/}	
+UI_20161005_002353	{@st59b}Extração de Blessed Gems{nl}{@st59s}- Extrai a Blessed Gem de um item transcendido{nl}- Requerimento de extração : Martelo de Desmantelamento{nl}- Você vai receber algumas das Blessed Gems utilizadas para a transcendência, mas o item será destruído.{nl}  : Taxa de sucesso atual / 40% da quantidade de Blessed Gems será devolvido. {nl}- Você não pode usar isso quando seu item estiver no estágio 0 de Transcendência.{/}	
 UI_20161005_002354	A Missão Falhou	
 UI_20161005_002355	Todos os jogadores foram incapacitados.	
 UI_20161005_002356	Confirmar para sair da torre.	
@@ -2387,8 +2387,8 @@ UI_20161005_002386	{@st66b}Salvar
 UI_20161005_002387	{@st42}Quadro de mensagens de uma linha - Até 3 vezes ao dia.{/}	
 UI_20161005_002388	{@st42}Registros	
 UI_20161005_002389	Rankings GvG
-UI_20161005_002390	{@st66e}Forja (%s/%s){/}	
-UI_20161005_002391	{@st66e}Investida de escudo (%s/%s){/}	
+UI_20161005_002390	{@st66e}Forge (%s/%s){/}	
+UI_20161005_002391	{@st66e}Shield Charge (%s/%s){/}	
 UI_20161005_002392	{@st45tw2}Apenas Membros{/}	
 UI_20161005_002393	{@st42}A habilidade [% s] é necessária.{/}	
 UI_20161005_002394	{@st66b}Coordenadas{/}	
@@ -2442,8 +2442,8 @@ UI_20161107_002441	{@st42b}{s16}Trocar Medalhas{/}
 UI_20161107_002442	Custo   (Loja de Trocas)
 UI_20161107_002443	Medalhas Obtidas	
 UI_20161108_002444	{@st43}%s obtido!{/}	
-UI_20161108_002445	{@st42b}Abrir Cubo Abençoado da Deusa X %s	
-UI_20161108_002446	{@st42b}Abrir Cubo Secreto da Leticia X %s	
+UI_20161108_002445	{@st42b}Abrir Goddess' Blessed Cube X %s	
+UI_20161108_002446	{@st42b}Abrir Leticia Secret Cube X %s	
 UI_20161108_002447	{@st41}Abrir Cubo de Compensação	
 UI_20161108_002448	{@st59}Fechar{/}	
 UI_20161108_002449	{@st66b}Poderá obter algo misterioso{nl}quando abrir.{/}	
@@ -2451,7 +2451,7 @@ UI_20161121_002450	{@st41}Reset de Entradas : 06:00 AM Every Day{/}
 UI_20161121_002451	Nome/Local	
 UI_20161121_002452	Nível para Entrar	
 UI_20161121_002453	Entradas	
-UI_20161121_002454	Entradas na Masmorra	
+UI_20161121_002454	Entradas na Dungeon	
 UI_20161121_002455	%s/%s	
 UI_20161121_002456	Principais Itens Adquiríveis	
 UI_20161121_002457	{@st66b}Voltar à partida{nl}	
@@ -2477,22 +2477,22 @@ UI_20161214_002476	{@st43}Loja de Mascote
 UI_20161214_002477	{@st66b}Adotar{/}	
 UI_20161214_002478	{@st66b}Comida de Bichinho{/}	
 UI_20161214_002479	{img icon_item_silver 20 20}{@st41b}Continuar {/}{img white_right_arrow 15 18}	
-UI_20161214_002480	{img icon_item_silver 20 20}{@st41b}Fundos Remanescentes {/}{img white_right_arrow 15 18}	
+UI_20161214_002480	{img icon_item_silver 20 20}{@st41b}Fundos Restantes {/}{img white_right_arrow 15 18}	
 UI_20161214_002481	{@st66b}Limpar{/}	
 UI_20161214_002482	{@st41b}Continuar {/}{img white_right_arrow 15 18}	
-UI_20161214_002483	{@st41b}Fundos remanescentes {/}{img white_right_arrow 15 18}	
-UI_20161214_002484	Cartas de nível 1 nào consomem 5TP.	
+UI_20161214_002483	{@st41b}Fundos Restantes {/}{img white_right_arrow 15 18}	
+UI_20161214_002484	Cartas de nível 1 não consomem 5TP.	
 UI_20161214_002485	{@st66b}Classificação em tempo real	
 UI_20161214_002486	Classificações da Temporada Anterior
-UI_20161214_002487	Aumenta a taxa de EXP/Drop{nl}até 3 vezes{nl}ao consumir as entradas e os{nl}Tokens de Multiplicação de Masmorras de Instância
-UI_20161214_002488	{@st41b}Ativar Modo Multiplicador	
-UI_20161214_002489	{@st41b}Cancelar Modo Multiplicador	
-UI_20161214_002490	Número do Modo Multiplicador	
+UI_20161214_002487	Aumenta a taxa de EXP/Drop{nl}até 3 vezes{nl}ao consumir as entradas e os{nl}Instance Dungeon Multiply Token.
+UI_20161214_002488	{@st41b}Ativar Multiply
+UI_20161214_002489	{@st41b}Cancelar Multiply
+UI_20161214_002490	Número do Multiply
 UI_20161214_002491	Aguardando...	
 UI_20161214_002492	{@st66b}Equipamento{/}	
-UI_20161214_002493	{@st66b}Item{/}	 
+UI_20161214_002493	{@st66b}Item{/}
 UI_20161214_002494	{@st59b}Transcendência de Item{nl}{@st59s}- Melhora a performance de um item de maneira diferente do refinamento por bigorna{nl}- Transcendentais : Armas, Armaduras, Acessórios{nl}- Chance de Transcendência = Número de Ingredients / Mínimo Requerido{nl}- Se for bem sucedida, aumenta o nível de Transcendência em 1 (Max. 10){nl}- Se falhar, o nível de Transcendência e o potencial do item diminuem em 1(Nível de Transcendência não cai para menos de 1){nl}- Itens Transcendentais não podem ser trocados{/}	
-UI_20161214_002495	{@st59b}Gema Abençoada Extraction{nl}{@st59s}- Extracting Gemas Abençoadas from Transcended Items{nl}- Ingredient for Gema Abençoada Extraction : Hammer of Dismantlement{nl}- A portion of Gemas Abençoadas used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}	
+UI_20161214_002495	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracting Blessed Gems from Transcended Items{nl}- Ingredient for Blessed Gem Extraction : Hammer of Dismantlement{nl}- A portion of Blessed Gems used on the item can be refunded. {nl}   : Depending on the current transcendence level and remaining potential, the refund rate is minimum 20% to maximum 90%. {nl}- Cannot be used on Transcendence Level 0.{/}	
 UI_20161214_002496	{@st66b}Salvar{/}	
 UI_20161214_002497	{@st66b}Mostrar dano dos outros jogadores	
 UI_20161214_002498	{@st59}Selecione o servidor.{/}	
@@ -2506,8 +2506,8 @@ UI_20161214_002505	{@black_18_b}Diário{/}
 UI_20161214_002506	{@black_18_b}Semanal (Reinicia toda segunda-feira){/}	
 UI_20161214_002507	{@brown_16}Participação individual{/}	
 UI_20161214_002508	Autoridade da Guilda	
-UI_20161221_002509	Deseja utilizar o Cupom de Reset de Classificação?	
-UI_20161221_002510	O item desaparecerá do seu inventário{nl}e suas Classificações serão redefinidas.	
+UI_20161221_002509	Deseja utilizar o Rank Reset Voucher?	
+UI_20161221_002510	O item desaparecerá do seu inventário{nl}e seus Ranks serão redefinidos.
 UI_20161221_002511	{@st66d_y}Condições e Precauções{/}	
 UI_20161221_002512	{@st58}Sem itens equipados{/}	
 UI_20161221_002513	{@st59}Não estar aprendendo Atributos{/}	
@@ -2521,7 +2521,7 @@ UI_20161221_002520	* Níveis de atributo comprados antes do reset{nl}podem ser a
 UI_20161221_002521	* Cartas de EXP equivalentes ao último nível alcançado{nl}	
 UI_20161221_002522	Nível de Classe 15
 UI_20161221_002523	 serão adicionados ao seu inventário.	
-UI_20161221_002524	* Trajes específicos de classe recebidos{nl}por avanço de Classe serão excluídos.	
+UI_20161221_002524	* Trajes específicos de classe recebidos{nl}por avanço de Rank serão excluídos.	
 UI_20161221_002525	* Você retornará à tela inicial após usar o Voucher.	
 UI_20170117_002526	{@st66b}Otimização (Beta){/}	
 UI_20170117_002527	{@st59}Liga/Desliga otimização por processamento multithread.{/}	
@@ -2549,7 +2549,7 @@ UI_20170313_002548	{@st41b}%s {nl}Você obteve um item!
 UI_20170313_002549	{@st59}Reexpandir o armazém da guilda.{/}	
 UI_20170313_002550	Só pode ser usado em dungeons instanciadas e missões mercenárias.	
 UI_20170313_002551	{@st66}Somente Usados	
-UI_20170313_002552	{@st59b}Extração de Gema Abençoada{nl}{@st59s}- Extrai Gemas Abençoadas de Itens Transcendentais.{nl}- Materiais necessários: Martelo de Desmantelamento.{nl}- Extrair Gemas Abençoadas vai remover o item, mas manter parte das gemas. {nl}   : Você vao receber de 20% à 90% das suas Gemas Abençoadas, dependendo do estágio de transcendência do item e seu potencial atual. {nl}- Seu item deve ter transcendido até, no mínimo, o estágio 2 para extrair suas gemas.{/}	
+UI_20170313_002552	{@st59b}Extração de Blessed Gem{nl}{@st59s}- Extrai Blessed Gems de Itens Transcendentais.{nl}- Materiais necessários: Martelo de Desmantelamento.{nl}- Extrair Blessed Gems vai remover o item, mas manter parte das gemas. {nl}   : Você vao receber de 20% à 90% das suas Blessed Gems, dependendo do estágio de transcendência do item e seu potencial atual. {nl}- Seu item deve ter transcendido até, no mínimo, o estágio 2 para extrair suas gemas.{/}	
 UI_20170313_002553	!! Exploração do Mapa Completa !!	
 UI_20170313_002554	{@st41b}Coleção{/}	
 UI_20170313_002555	{@st66b}[%s]{nl}Peça obtida.{/}	
@@ -2559,15 +2559,15 @@ UI_20170313_002558	{@st59b}Combinar Insígnia{nl}{@st59s} - Selecione as insígn
 UI_20170313_002559	{@st41b}Combinar	
 UI_20170313_002560	{@st66b}Items para reparar	
 UI_20170313_002561	{@st66b}Mostrar efeitos de queda de item	
-UI_20170313_002562	{@st66d}Avaliador [Falsificação] Item{nl}Duração %s	
+UI_20170313_002562	{@st66d}Item de [Forgery]{nl}Duração %s	
 UI_20170313_002563	1m30s	
 UI_20170313_002564	{@st59}Reiniciar Quest{/}	
 UI_20170313_002565	{@st59}Registar item na coleção.{/}	
 UI_20170313_002566	Bracelete de Defesa Mágica	
 UI_20170313_002567	Meu item	
-UI_20170313_002568	Avaliador %s	
+UI_20170313_002568	Appraiser %s	
 UI_20170313_002569	Na{nl}troca de equipamento	
-UI_20170313_002570	Nenhum item equipado no Avaliador.	
+UI_20170313_002570	Nenhum item equipado no Appraiser.	
 UI_20170313_002571	Investido	
 UI_20170330_002572	{@st59}Shift + Tab para Alternar{/}	{@st59}Shift + Tab
 UI_20170330_002573	{@st59}Chat de Grupo{/}	
@@ -2652,7 +2652,7 @@ UI_20170420_002651	{@st41}Abra o cubo do traje	{@st41}코스튬 큐브  열기
 UI_20170420_002652	{@st66b}Use para obter um traje.{/}	{@st66b}코스튬을 얻을 수 있습니다.{/}
 UI_20170510_002653	* Após o reset, você receberá pontos de atributo{nl}equivalentes ao nível de seus atributos antes do reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 특성 포인트를 돌려드립니다.
 UI_20170510_002654	* EXP Cards de Classe equivalente ao último Nível de Classe {nl} que você atingiu serão enviados para o seu inventário.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.
-UI_20170615_002655	{@st42b}Abrir Cubo secreto da Leticia. X %s	
+UI_20170615_002655	{@st42b}Abrir Leticia Secret Cube. X %s	
 UI_20170615_002656	{@st43}{s22}Cubo de Receitas{/}	
 UI_20170615_002657	{@st41}Selecione uma e confirme{/}	
 UI_20170615_002658	{@st41b}Receber{/}	
@@ -2674,7 +2674,7 @@ UI_20170726_002673	Pontos de Pesca	낚시 포인트
 UI_20170726_002674	Você pode mover-se para a localização desejada.	거점 이동을 할 수 있습니다.
 UI_20170726_002675	{nl}As entradas diárias são contadas de forma diferente para cada tipo de dungeon. 	{nl}각 던전은 카테고리별로 입장 횟수가 카운트 됩니다. 
 UI_20170726_002676	{@st59}Fechar.{/}	{@st59}인스턴스 던전 창을 닫습니다{/}
-UI_20170726_002677	{@st43}Masmorras de Instância{/}	{@st43}인스턴스 던전{/}
+UI_20170726_002677	{@st43}Dungeons Instanciadas{/}	{@st43}인스턴스 던전{/}
 UI_20170726_002678	Nome	던전 이름
 UI_20170726_002679	Uma entrada diária adicional concedida aos usuários de Token.	토큰 혜택으로 1회 추가 입장 가능합니다.
 UI_20170726_002680	Nível para entrar	입장 레벨
@@ -2696,9 +2696,9 @@ UI_20170726_002695	{@st66b}Mostrar quantidade de Veneno{/}	{@st66b}메인 화면
 UI_20170726_002696	{s20}Veneno	{s20}독의 양
 UI_20170726_002697	{@st42}Veneno no Pote de Veneno{/}	{@st42}포이즌 팟의 독의 양{/}
 UI_20170726_002698	{@st59}Caixa de Pesca{/}	{@st59}낚시 살림통{/}
-UI_20170726_002699	{@st59}Info de Masmorra (F10){/}	{@st59}던전 정보(F10){/}
+UI_20170726_002699	{@st59}Info de Dungeons (F10){/}	{@st59}던전 정보(F10){/}
 UI_20170726_002700	{@st66b}Ver Info básica dos chars{/}	{@st66b}캐릭터 기본 정보 보기{/}
-UI_20170726_002701	{@st66b}Mostrar barra de HP e PE{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
+UI_20170726_002701	{@st66b}Mostrar barra de HP e SP{/}	{@st66b}캐릭터 아래에 HP, SP 표시{/}
 UI_20170726_002702	{@st66b}Usar multithread (Beta){/}	{@st66b}멀티스레드 사용(Beta){/}
 UI_20170726_002703	{@st59}Usar processamento multithread (Beta).{/}	{@st59}멀티스레드 업데이트(Beta)를 적용합니다.{/}
 UI_20170726_002704	{@st66d}{s18}Cubos de TP{/}	{@st66d}{s18}유료 확률형 아이템{/}
@@ -2713,14 +2713,14 @@ UI_20170726_002712	{@st66b}Receba Recompensas
 UI_20170901_002713	{@st59}Asas{/}	
 UI_20170912_002714	{@st43b}Diário de Aventura	
 UI_20170912_002715	{@st59}Ranking do Diário de Aventura
-UI_20170912_002716	{@st59}Ranking da Liga de Batalha de Times{/}	
-UI_20170912_002717	{@st59}Ranking de Defesa da Colina{/}	
+UI_20170912_002716	{@st59}Ranking da Team Battle League{/}	
+UI_20170912_002717	{@st59}Ranking de Uphill Defense{/}	
 UI_20170912_002718	{@st59}Principal{/}	
 UI_20170912_002719	{@st59}Monstros{/}	
 UI_20170912_002720	{@st59}Items{/}	
 UI_20170912_002721	{@st59}Construção{/}	
 UI_20170912_002722	{@st59}Vida{/}	
-UI_20170912_002723	{@st59}Masmorras{/}	
+UI_20170912_002723	{@st59}Dungeons{/}	
 UI_20170912_002724	{@st59}Crescimento{/}	
 UI_20170912_002725	{@st59}Exploração{/}	
 UI_20170912_002726	Time	
@@ -2742,7 +2742,7 @@ UI_20170912_002741	{@st66b}Mais
 UI_20170912_002742	Nome A-Z	
 UI_20170912_002743	Nome Z-A	
 UI_20170912_002744	%s Peixes Pegos	
-UI_20170912_002745	FInalizadas	
+UI_20170912_002745	Finalizadas	
 UI_20170912_002746	Localização	
 UI_20170912_002747	%s	
 UI_20170912_002748	Pontos de Classe %s	
@@ -2755,12 +2755,12 @@ UI_20170912_002754	Tipo
 UI_20170912_002755	Pontos Obtidos %s	
 UI_20170912_002756	Pontos Obtidos %s	
 UI_20170912_002757	Status	
-UI_20170912_002758	ESP +6	
+UI_20170912_002758	SPR +6	
 UI_20170912_002759	Ranking do Diário de Aventura
 UI_20170912_002760	{@st66d_y}%s{/} Batalhas {@st66d_y}%s{/} Vitórias {@st66d_y}%s{/} Derrotas	
 UI_20170912_002761	%s Pontos	
 UI_20170912_002762	{@st59}Participação{/}	
-UI_20170912_002763	Ranking de Defesa da Colina	
+UI_20170912_002763	Ranking de Uphill Defense
 UI_20170912_002764	Pontos Totais	
 UI_20170912_002765	{@st66b}Loja de Pontos{/}	
 UI_20170912_002766	{@st66b}Exploração de Mapas	
@@ -2843,7 +2843,7 @@ UI_20170912_002842	O que são Guerras Territoriais
 UI_20170912_002843	Status	
 UI_20170912_002844	Não Entrar	
 UI_20170912_002845	> Guildas com Áreas apreendidas participam automaticamente.{nl}> Depois de definir o status para  	
-UI_20170912_002846	, você não pode transferir a posição do Líder da Guilda.{nl}> Apenas um Templário Líder da Guilda pode mudar o status da participação.{nl}> Esta opção só pode ser alterada até 5 minutos antes do início da Guerra, ou 1 minuto após o término.{nl}> O status de participação pode ser alterado independentemente de sua guilda ter uma torre ou não.	
+UI_20170912_002846	, você não pode transferir a posição do Líder da Guilda.{nl}> Apenas um Templar Líder da Guilda pode mudar o status da participação.{nl}> Esta opção só pode ser alterada até 5 minutos antes do início da Guerra, ou 1 minuto após o término.{nl}> O status de participação pode ser alterado independentemente de sua guilda ter uma torre ou não.	
 UI_20170912_002847	{@st43b}{s18}Benefícios da Área{/}	
 UI_20170912_002848	Áreas	
 UI_20170912_002849	Grade	
@@ -2854,7 +2854,7 @@ UI_20170912_002853	 de suas taxas do mercado da semana anterior.{nl}> Prêmios d
 UI_20170912_002854	Terça-feira 06:00	
 UI_20170912_002855	{@st43b}{s18}Emblema da Guilda{/}	
 UI_20170912_002856	{@st41b}{nl}Imagem %s{/}	
-UI_20170912_002857	> O primeiro emblema pode ser registrado gratuitamente.{nl}> Mudar o emblema custa %s0000 Pratas.{nl}> Sua imagem deve ter tamanho %s e estar em formato %s.{nl}> O nome do arquivo deve conter apenas caracteres alfanuméricos.{nl}> O uso de imagens problemáticas podem resultar em restrições.	
+UI_20170912_002857	> O primeiro emblema pode ser registrado gratuitamente.{nl}> Mudar o emblema custa %s0000 Silver.{nl}> Sua imagem deve ter tamanho %s e estar em formato %s.{nl}> O nome do arquivo deve conter apenas caracteres alfanuméricos.{nl}> O uso de imagens problemáticas podem resultar em restrições.	
 UI_20170912_002858	{@st43b}{s18}Configurar Salão{/}	
 UI_20170912_002859	Permitir Estranhos	
 UI_20170912_002860	{@st43b}{s18}Novidades{/}	
@@ -2878,13 +2878,13 @@ UI_20170912_002877	{@st66}Fechar
 UI_20170912_002878	{@st59}Trocar Equipamento (Alt+Z){/}	
 UI_20170912_002879	{img monsterbtn_image 29 28}{@st66b}{s12}    Cartas{/}	
 UI_20170912_002880	{@st59}Abrir janela de Cartas de Monstros{/}	
-UI_20170912_002881	{@st43}{s22}Cubo Secreto da Leticia{/}	
+UI_20170912_002881	{@st43}{s22}Leticia's Secret Cube{/}	
 UI_20170912_002882	Nome do Cubo
 UI_20170912_002883	{nl}{img %s 40 40}{@st42b}{s20}Cubos 	
 UI_20170912_002884	> Veja o site oficial e descrições de itens para mais informações.	
 UI_20170912_002885	{@st43}Equipar Cartas de Monstro{/}	
 UI_20170912_002886	{@st59}Fechar{/}	
-UI_20170912_002887	{@st59}Somente Templário Líder da Guilda no Time{/}	
+UI_20170912_002887	{@st59}Somente Templar Líder da Guilda no Time{/}	
 UI_20170912_002888	{@st66b}Renascendo na cidade mais próxima (30 segundos){/}	
 UI_20170912_002889	{@st66b}Ver nome do Grupo{/}	
 UI_20170912_002890	{@st66b}Item de Receita Obtido{/}	
@@ -2930,13 +2930,13 @@ UI_20171128_002929	Tamanho %s
 UI_20171128_002930	{@st42b}Checar	
 UI_20171128_002931	Expandir Armazém de Guilda	
 UI_20171128_002932	> Recompensas são %s semanalmente.{nl}> As recompensas incluem  	
-UI_20171128_002933	 das suas taxas do Mercado da última semana.{nl}> Recompensas de território são entregues como itens de Guerra de Guildas.{nl}> A quantia máxima recebida é de %s centenas de milhões de Silver.{nl}> Visite nosso site oficial para mais informações.	
+UI_20171128_002933	 das suas taxas do Mercado da última semana.{nl}> Recompensas de território são entregues como itens de Guerra de Guildas.{nl}> A quantia máxima recebida é de %s kk de Silver.{nl}> Visite nosso site oficial para mais informações.	
 UI_20171128_002934	Busca Automática%s	
 UI_20171128_002935	{@st41b}Entrar Agora%s	
 UI_20171128_002936	{@st43}{#ffcc33}{s24}COMPLETO	
 UI_20171128_002937	{@ST43}{s19}Concluído: 	
 UI_20171128_002938	{@st43b}{s18}Recompensas	
-UI_20171128_002939	{@st66d_y}Efeito Multiplicador de Recompensa x	
+UI_20171128_002939	{@st66d_y}Efeito Multiply x	
 UI_20171128_002940	{img icon_item_silver 24 24} Silver	
 UI_20171128_002941	{img icon_item_cube3 25 25} Cubo	
 UI_20171128_002942	{img test_indun_exp 30 15} EXP	
@@ -2975,7 +2975,7 @@ UI_20171128_002974	{@st59}Recompensa Diária{/}
 UI_20171128_002975	Voltando à classe anterior.	
 UI_20171128_002976	Nome do Mapa	
 UI_20171128_002977	{@st42b}Usar	
-UI_20171128_002978	Cosumo de itens para entrar em Masmorras de Invasão -2	
+UI_20171128_002978	Consumo de itens para entrar em Raid -2	
 UI_20180108_002979	{@st59}Efeito Especial{/}	
 UI_20180115_002980	{@st66b}{s16}*Itens permanecem trocáveis apenas se possuir N° de Trocas disponíveis.{/}{/}	
 UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}Sem trocas disponíveis{/}{@st66b} siginifica que {/} {@st66d_y}todos os itens{nl}não poderão ser comercializados ou depositados no Armazém{/}{@st66b}.{/}{/}	
@@ -2996,9 +2996,9 @@ UI_20180208_002995	Cancelar.
 UI_20180208_002996	{@st59b}Transcendência de Item{nl}{@st59s}- Outra opção para melhorar a performance do item sem usar a bigorna{nl}- Transcendíveis : Arma, Equipamento, Acessório{nl}- Chance de Transcendência = Quantidade de Ingredientes / Máximo Necessário{nl}- Se bem-sucedido, o nível da Transcendência aumentará em 1(Máx. 10){nl}- Se falhar, o nível de Transcendência e o potencial diminuirão em 1(Nível da Transcendência não pode ficar abaixo de 1){nl}- Itens Transcendentais não podem ser trocados{/}	
 UI_20180208_002997	Chance de Sucesso: 100%	
 UI_20180208_002998	*Transcendência pode falhar se não atingir 100%.{nl}Potencial será reduzido caso falhe.	
-UI_20180208_002999	Extrair Fragmento Abençoado	
-UI_20180208_003000	{@st59b}Extrair Fragmento Abençoado{nl}{@st59s}- Extrai Fragmento Abençoado do item Transcendental{nl}- Material para Extração : Martelo de Desmantelamento{nl}- Extrair Fragmentos Abençoados vai apagar o item, mas manter parte das Pedras Abençoadas como Fragmentos Abençoados.{nl} :90% das Pedras Abençoadas usadas para transcender podem ser devolvidas.{nl}- Seu item deve ter sido transcendido até, no mínimo, o estágio 2 para poder extrair os fragmentos.{/}	
-UI_20180208_003001	Resultado de Extração de Fragmentos Abençoados	
+UI_20180208_002999	Extrair Blessed Shard	
+UI_20180208_003000	{@st59b}Extrair Blessed Shard{nl}{@st59s}- Extrai Blessed Shard do item Transcendental{nl}- Material para Extração : Martelo de Desmantelamento{nl}- Extrair Blessed Shards vai apagar o item, mas manter parte das Pedras Abençoadas como Blessed Shards.{nl} :90% das Pedras Abençoadas usadas para transcender podem ser devolvidas.{nl}- Seu item deve ter sido transcendido até, no mínimo, o estágio 2 para poder extrair os fragmentos.{/}	
+UI_20180208_003001	Resultado de Extração de Blessed Shards
 UI_20180208_003002	{@st43b}{s18}Efeito Aplicado{/}	
 UI_20180208_003003	{@st43b}{s20}Efeito Aplicado{/}	
 UI_20180208_003004	{@st59}Mostrar opção de Aplicar Carta de Monstro{/}	
@@ -3008,9 +3008,9 @@ UI_20180208_003007	{@st43}{s22}Abrir Soquete{/}
 UI_20180208_003008	{@st59}Cancelar{/}	
 UI_20180208_003009	{@st41}{s20}Soquetes Atuais:{@st43} %s / {@st43}%s	
 UI_20180208_003010	{@st41}{s20}Novo Soquete: %s	
-UI_20180208_003011	{@st41b}Adicionar Soquete{/}	
-UI_20180208_003012	{@st59}Adicionar Soquete.{/}	
-UI_20180208_003013	{@st59}Info de Avanço{/}	
+UI_20180208_003011	{@st41b}Add Soquete{/}	
+UI_20180208_003012	{@st59}add Soquete.{/}	
+UI_20180208_003013	{@st59}Info de Avanço{/}
 UI_20180208_003014	{@st66b}Nome do item obtido{/}	
 UI_20180320_003015	{img icon_item_silver 24 24}{@st41b}Consome %s Silver{nl}Remova a carta sem perder estrelas{/}	
 UI_20180320_003016	Cartas Nível 1 não consomem Silver.	
@@ -3033,8 +3033,8 @@ UI_20180320_003032	Qtt to add (count)
 UI_20180320_003033	Procure o nome do item e pressione Enter	
 UI_20180320_003034	Pesquise o item para criar e pressione Enter	
 UI_20180320_003035	Pesquise o nome da dungeon instanciada e pressione Enter	
-UI_20180320_003036	{@st42}Automático	
-UI_20180320_003037	{@st42}Adicionar	
+UI_20180320_003036	{@st42}Automático
+UI_20180320_003037	{@st42}Adicionar
 UI_20180320_003038	{@st42}Enviar	
 UI_20180320_003039	{@st42}Resetar	
 UI_20180320_003040	Não conseguiu iniciar o jogo.	
@@ -3055,7 +3055,7 @@ UI_20180418_003054	{@st42}N° para o próximo Estágio
 UI_20180418_003055	{@st42b}Estágio %s{/}	
 UI_20180418_003056	{@st66b}Ver Próximos Efeitos{/}	
 UI_20180418_003057	{@st59}Fechar.{/}	
-UI_20180418_003058	{@st41}{s20}Pergaminho de Transcendência{/}	
+UI_20180418_003058	{@st41}{s20}Transcendence Scroll{/}	
 UI_20180418_003059	Estágio Aplicado: %s	
 UI_20180418_003060	Chance de Sucesso: %s%	
 UI_20180418_003061	{@st66}Não pode ser usado com equipamentos transcedentais.{nl}Usá-lo vai mudar o item para o Estágio de Transcendência %s.{/}	
@@ -3088,8 +3088,8 @@ UI_20180517_003087	{@st42}Manejar Guilda{/}
 UI_20180517_003088	{@st42}Fundos da Guilda{/}	
 UI_20180517_003089	{@st42}Comunidade{/}	
 UI_20180517_003090	{@st42}Conteúdo{/}	
-UI_20180517_003091	{@st41b}{s16}Adicionar	
-UI_20180517_003092	{@st41b}{s16}Apagar	
+UI_20180517_003091	{@st41b}{s16}Adicionar
+UI_20180517_003092	{@st41b}{s16}Apagar
 UI_20180517_003093	{@st41b}{s16}Salvar	
 UI_20180517_003094	{@st43b}{s18}Dar Cargo	
 UI_20180517_003095	Nível do Personagem	
@@ -3150,12 +3150,12 @@ UI_20180517_003149	{@st43}Log de Inscrições
 UI_20180517_003150	Data	
 UI_20180517_003151	Status	
 UI_20180517_003152	{@st66b}Entradas Semanais reiniciam na Segunda - %s (servidor).{/}	
-UI_20180517_003153	Equipar Ícor	
+UI_20180517_003153	Equipar Ichor
 UI_20180517_003154	Equipar	
 UI_20180517_003155	{@st43b}{s18}Atrib. Atuais	
 UI_20180517_003156	{@st43b}{s18}Atrib. Equipado	
-UI_20180517_003157	Kit de Extração
-UI_20180517_003158	Extrair Ícor	
+UI_20180517_003157	Extraction Kit
+UI_20180517_003158	Extrair Ichor
 UI_20180517_003159	Extrair	
 UI_20180517_003160	{s22}O item foi destruído.	
 UI_20180517_003161	{@st43b}{s18}Potencial	
@@ -3279,13 +3279,13 @@ UI_20180629_003278	{@st42}Abrir Loja
 UI_20180629_003279	{@st41d}{b}{ol}{s14}{img icon_item_silver 22 22}Silver Adquirido: %s%s	
 UI_20180629_003280	{#fde43f}{b}{ol}{s14}EXP de Char ganha: %s	
 UI_20180629_003281	{#fde43f}{b}{ol}{s14}EXP de Classe ganha: %s	
-UI_20180629_003282	Lupa de Artesão
+UI_20180629_003282	Artisan Magnifier
 UI_20180629_003283	Re-identifique	
 UI_20180629_003284	{@st66}{s16}{nl}Selecionar	
 UI_20180629_003285	{@st41b}{s18}Lupas Atuais: %s	
-UI_20180629_003286	{@st66}{s18}Consome Lupa de Artesão x%s.	
-UI_20180629_003287	Lupa Misteriosa
-UI_20180629_003288	{@st66}{s18}Consome Lupa Misteriosa x%s.	
+UI_20180629_003286	{@st66}{s18}Consome Artisan Magnifier x%s.	
+UI_20180629_003287	Mysterious Magnifier
+UI_20180629_003288	{@st66}{s18}Consome Mysterious Magnifier x%s.	
 UI_20180629_003289	{@st43}Lista do Cubo{/}	
 UI_20180629_003290	Quantidade	
 UI_20180629_003291	{@st41b}{s16}{nl}Adicionar	
@@ -3330,7 +3330,7 @@ UI_20180629_003329	Por favor, remova todos os seus equipamentos primeiro.{nl}Rou
 UI_20180629_003330	{@st66b}Ver apenas Nome do Time{/}	
 UI_20180629_003331	{@st66b}Ver nome do Grupo{/}	
 UI_20180629_003332	{@st66b}Ver nome dos Jogadores{/}	
-UI_20180629_003333	{@st66b}Ver HP/PE abaixo do Char{/}	
+UI_20180629_003333	{@st66b}Ver HP/SP abaixo do Char{/}	
 UI_20180629_003334	{@st66b}Nome Item Obtido{/}	
 UI_20180629_003335	{@st66b}Mensagem de Silver Ganho{/}	
 UI_20180629_003336	{@st66b}Mensagem de EXP Ganho{/}	
@@ -3542,10 +3542,10 @@ UI_20181017_003541	{@st41d}Salvar
 UI_20181017_003542	Importar opções de categoria.	
 UI_20181017_003543	{@st66d}Opções de Importação	
 UI_20181017_003544	Limite de Troca	
-UI_20181017_003545	Jóias de Encantamento	
+UI_20181017_003545	Enchant Jewels
 UI_20181017_003546	Atributos de Encantamento	
-UI_20181017_003547	{@st41b}{s18}Jóias de Encantamento Atuais: %s	
-UI_20181017_003548	{@st66}{s18}{b}Consome %s Jóia(s) de Encantamento.	
+UI_20181017_003547	{@st41b}{s18}Enchant Jewels Atuais: %s	
+UI_20181017_003548	{@st66}{s18}{b}Consome %s Enchant Jewel(s).	
 UI_20181017_003549	{@st59}Definir Classe Principal{/}	
 UI_20181017_003550	{@st59}Caixa de Pesca (Alt+F){/}	
 UI_20181017_003551	{@st59}Habilidades e Atributos (F3){/}	
@@ -3589,23 +3589,23 @@ UI_20190104_003588	Valor Gasto
 UI_20190104_003589	Pontos Extraídos	
 UI_20190104_003590	Pontos Restantes	
 UI_20190104_003591	{@st66b}Extrair	
-UI_20190104_003592	Efeitos de Coleção	컬렉션 효과
-UI_20190104_003593	{@st59}Árvore de Scout{/}	{@st59}스카우트 계열{/}
-UI_20190104_003594	{@st41b}Custo de Identificação{/} %s	{@st41b}감정 비용{/}%s
+UI_20190104_003592	Efeitos de Coleção
+UI_20190104_003593	{@st59}Base Scout{/}
+UI_20190104_003594	{@st41b}Custo de Identificação{/} %s
 UI_20190104_003595	{@st59}Boneca{/}	
-UI_20190104_003596	{img silver 20 20}Preço %s	{img silver 20 20}가격 %s
+UI_20190104_003596	{img silver 20 20}Preço %s
 UI_20190104_003597	{@st44}Lista de Classes{/}	
-UI_20190104_003598	{@st43}Informação das Classes Atuais	
+UI_20190104_003598	{@st43}Informação das Classes Atuais
 UI_20190104_003599	{@st43}Mudar de Classe {img testquesten_button 30 30}	
-UI_20190104_003600	A quantidade máxima de pontos possíveis de se obter reiniciam toda Segunda às 6AM (Servidor).{nl}Pontos podem ser obtidos através de:{nl} {nl}- Conectar no jogo: 10 pontos (5 adicionais para membros de Guilda e sobre efeitos de Token){nl} - Pescaria: 1 ponto por item pescado{nl}- Missão de Saalus: 15 pontos{nl}- Invasão Lendária: 20 points{nl} (Exceto Torre da Terra, onde são 5 pontos a cada 5 andares){nl}- Missão de Defesa da Colina: 10 pontos{nl}- Invasão Única: 20 pontos{nl}- Masmorra Simples: 10 pontos{nl}- Missão do Posto de Mercenários: 10 pontos{nl}- Missão Diária: 10 pontos	
+UI_20190104_003600	A quantidade máxima de pontos possíveis de se obter reiniciam toda Segunda às 6AM (Servidor).{nl}Pontos podem ser obtidos através de:{nl} {nl}- Conectar no jogo: 10 pontos (5 adicionais para membros de Guilda e sobre efeitos de Token){nl} - Pescaria: 1 ponto por item pescado{nl}- Missão de Saalus: 15 pontos{nl}- Invasão Lendária: 20 points{nl} (Exceto Torre da Terra, onde são 5 pontos a cada 5 andares){nl}- Missão de Uphill Defense: 10 pontos{nl}- Invasão Única: 20 pontos{nl}- Dungeon Simples: 10 pontos{nl}- Missão Mercenary Post: 10 pontos{nl}- Missão Diária: 10 pontos	
 UI_20190104_003601	{@st42}Pontos Semanais{/} {@st66d_y}(%s/%s){/}	
 UI_20190104_003602	{@st43}Avançar	
 UI_20190104_003603	{@st66d_y}{#ffa800}Modificadores de Atributos	
-UI_20190104_003604	{@st42}{#FFCC66}FOR	{@st42}{#FFCC66}힘
+UI_20190104_003604	{@st42}{#FFCC66}STR	{@st42}{#FFCC66}힘
 UI_20190104_003605	{@st42}{#FFCC66}CON	{@st42}{#FFCC66}체력
 UI_20190104_003606	{@st42}{#FFCC66}INT	{@st42}{#FFCC66}지능
-UI_20190104_003607	{@st42}{#FFCC66}ESP	{@st42}{#FFCC66}정신
-UI_20190104_003608	{@st42}{#FFCC66}DES	{@st42}{#FFCC66}민첩
+UI_20190104_003607	{@st42}{#FFCC66}SPR	{@st42}{#FFCC66}정신
+UI_20190104_003608	{@st42}{#FFCC66}DEX	{@st42}{#FFCC66}민첩
 UI_20190104_003609	{@st43}Informação da Classe{/}	
 UI_20190104_003610	Fecha o modo de mudança de classe.	
 UI_20190104_003611	{@st43}Selecione uma classe e clique no botão Avançar.	
@@ -3615,7 +3615,7 @@ UI_20190104_003614	{@st59}Fechar{/}	{@st59}컬렉션 정보를 닫습니다{/}
 UI_20190104_003615	{@st43}Coleção{/}	{@st43}컬렉션{/}
 UI_20190104_003616	{@st68b}{s18}Coleção{/}	{@st68b}{s18}컬렉션 상태{/}
 UI_20190104_003617	{@st59}Busque pelo nome de uma coleção ou um efeito.{/}	{@st59}컬렉션 이름 또는 효과로 검색 합니다.{/}
-UI_20190104_003618	ⓘ Listas de recompensa são atualizadas 1 hora depois de cada sessão.{nl}ⓘ Recompensas podem ser resgatadas apenas pelo Mestre de Guilda. Itens resgatados são enviados para o armazém da guilda.{nl}ⓘ Sessão de teste Beta não oferecem recompensas.	ⓘ 점령 보상 목록은 콜로니전 종료 후 1시간 뒤에 갱신됩니다.{nl}ⓘ 보상 수령은 길드마스터만 가능하며, 수령된 아이템은 길드 보관함으로 이동됩니다.{nl}ⓘ Beta로 진행되는 길드 콜로니전에서는 점령 보상이 지급되지 않습니다.
+UI_20190104_003618	ⓘ Listas de recompensa são atualizadas 1 hora depois de cada sessão.{nl}ⓘ Recompensas podem ser resgatadas apenas pelo Líder de Guilda. Itens resgatados são enviados para o armazém da guilda.{nl}ⓘ Sessão de teste Beta não oferecem recompensas.	ⓘ 점령 보상 목록은 콜로니전 종료 후 1시간 뒤에 갱신됩니다.{nl}ⓘ 보상 수령은 길드마스터만 가능하며, 수령된 아이템은 길드 보관함으로 이동됩니다.{nl}ⓘ Beta로 진행되는 길드 콜로니전에서는 점령 보상이 지급되지 않습니다.
 UI_20190104_003619	{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}Pontos Atuais{nl}{/}	{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}포인트 현황{nl}{/}
 UI_20190104_003620	{s6} {nl}{/}{@st41d}{img colony_deploy_pic 24 24}Posições{/}	{s6} {nl}{/}{@st41d}{img colony_deploy_pic 24 24}배치 현황{/}
 UI_20190104_003621	Utilidades	유틸형
@@ -3623,28 +3623,28 @@ UI_20190104_003622	Impedimentos	이동 방지형
 UI_20190104_003623	Pontuação Atual	점령 포인트
 UI_20190104_003624	Efeitos	적용 효과
 UI_20190104_003625	{@st42}{s20}Benefícios de Vitória	
-UI_20190104_003626	{@st66b}Ajustar Impostos{/}	
-UI_20190104_003627	{@st66b}Coletar Impostos{/}	
+UI_20190104_003626	{@st66b}Ajustar Imposto{/}	
+UI_20190104_003627	{@st66b}Coletar Taxa{/}	
 UI_20190104_003628	Cidades Alvo	
-UI_20190104_003629	Impostos	
+UI_20190104_003629	Imposto	
 UI_20190104_003630	Data Pgto	
-UI_20190104_003631	Cidades Coletando	
+UI_20190104_003631	Cidades Coletoras	
 UI_20190104_003632	Tempo Restante	
-UI_20190104_003633	Impostos	
-UI_20190104_003634	Alocar Impostos	
-UI_20190104_003635	Receber Impostos	
+UI_20190104_003633	Imposto
+UI_20190104_003634	Alocar Taxa
+UI_20190104_003635	Receber Taxa
 UI_20190104_003636	Total Alocado	
 UI_20190104_003637	{@st66b}Importante{/}	
-UI_20190104_003638	{@st66b}Itens Tributados{/}	
+UI_20190104_003638	{@st66b}Itens Tributados{/}
 UI_20190104_003639	{@st66b}Registros{/}	
-UI_20190104_003640	{@st42}{s20}Alocar Impostos	
+UI_20190104_003640	{@st42}{s20}Alocar Taxa
 UI_20190104_003641	Total Atual	
 UI_20190104_003642	Enviando	
 UI_20190104_003643	Fundos Restantes	
 UI_20190104_003644	Time: %s	
 UI_20190104_003645	Valor	
 UI_20190104_003646	{@st42}{s16}Enviar	
-UI_20190104_003647	{@st42}{s20}Receber Impostos	
+UI_20190104_003647	{@st42}{s20}Receber Taxas
 UI_20190104_003648	Período Restante	
 UI_20190104_003649	{@st42}{s20}Lista de Portais	{@st42}{s20}워프 목록
 UI_20190104_003650	Status Atual	점령 현황
@@ -3655,8 +3655,8 @@ UI_20190104_003654	Você gostaria de trocar seus cupons por itens?	교환권을 
 UI_20190104_003655	Você pode adicionar itens à Oficina de Alquimia para usá-los em habilidades.	연금공방에 아이템을 등록하여 스킬을 사용할 수 있습니다.
 UI_20190104_003656	{@st43}Oficina de Alquimia	{@st43}연금공방
 UI_20190104_003657	Registre itens para serem consumidos com a habilidade Combustão.	컴버스천 스킬 사용시 소모될 재료를 등록해주세요.
-UI_20190104_003658	Registre poções de HP para usar com a habilidade Borrifar Poção de HP.	스프링클 HP 포션 스킬 사용시 소모될 HP 포션을 등록해주세요.
-UI_20190104_003659	Registre poções de SP para usar com a habilidade Borrifar Poção de SP.	스프링클 SP 포션 스킬 사용시 소모될 SP 포션을 등록해주세요.
+UI_20190104_003658	Registre poções de HP para usar com a habilidade [Sprinkle HP Potion].	스프링클 HP 포션 스킬 사용시 소모될 HP 포션을 등록해주세요.
+UI_20190104_003659	Registre poções de SP para usar com a habilidade [Sprinkle SP Potion].	스프링클 SP 포션 스킬 사용시 소모될 SP 포션을 등록해주세요.
 UI_20190104_003660	{@st63}Receber recompensa e sair.{/}	{@st63}보상을 획득하고 퇴장합니다.{/}
 UI_20190104_003661	{@st63}Próximo Andar{/}	{@st63}다음층으로 이동{/}
 UI_20190104_003662	{@st66b}{s16}* Itens permancerão trocáveis após a troca{nl}somente se já NÃO possuírem alguma restrição.{/}{/}	
@@ -3670,12 +3670,12 @@ UI_20190104_003669	{s18}Tem certeza que quer fechar?	{s18}그래도 종료 하�
 UI_20190104_003670	{@st66b}Atualizar	{@st66b}업그레이드
 UI_20190104_003671	{@st66b}Armazém Compart.{/}	
 UI_20190104_003672	ⓘ Guildas defendendo um território são definidas automaticamente como participantes.{nl}ⓘ Somente o Líder da Guilda pode mudar a configuração de participação, e uma vez colocado como  	
-UI_20190104_003673	, a função de Líder não pode mais ser transferida.{nl}ⓘ Configurações de participação só podem ser mudadas até 5 minutos antes do início da GTW, ou 1 minuto após o final.{nl}ⓘ Mudanças podem ser feitas independente de ter instalado ou não uma Torre de Guilda.{nl}ⓘ Membros da Guilda que abandonaram sua Guilda anterior há menos de 14 dias não podem participar da BTG.	
+UI_20190104_003673	, a função de Líder não pode mais ser transferida.{nl}ⓘ Configurações de participação só podem ser mudadas até 5 minutos antes do início da GTW, ou 1 minuto após o final.{nl}ⓘ Mudanças podem ser feitas independente de ter instalado ou não uma Torre de Guilda.{nl}ⓘ Membros da Guilda que abandonaram sua Guilda anterior há menos de 14 dias não podem participar da GTW.	
 UI_20190104_003674	{@st41b}{s16}Benefícios da Vitória	
 UI_20190104_003675	Impostos da Cidade	도시 세율
 UI_20190104_003676	Impostos da Cidade {img tip_questionmark 20 20}	징수될 도시 세금{img tip_questionmark 20 20}
 UI_20190104_003677	Imposto de Mercado {img tip_questionmark 20 20}	징수될 마켓 세금{img tip_questionmark 20 20}
-UI_20190104_003678	ⓘ Guildas que cpturaram um Território podem usar o botão de Benefícios de Vitória para ajustar os impostos da cidade e coletá-los.	ⓘ 점령 길드는 점령 혜택 버튼을 통해 도시의 세율 조정 및 세금 징수가 가능합니다
+UI_20190104_003678	ⓘ Guildas que capturaram um Território podem usar o botão de Benefícios de Vitória para ajustar os impostos da cidade e coletá-los.	ⓘ 점령 길드는 점령 혜택 버튼을 통해 도시의 세율 조정 및 세금 징수가 가능합니다
 UI_20190104_003679	{@st43b}{s18}Itens{/}	
 UI_20190104_003680	{@st66b}Milhagem da Guilda: %s{/}	
 UI_20190104_003681	{@st66b}{s18}Receber Itens{/}	
@@ -3690,7 +3690,7 @@ UI_20190104_003689	{@st41d}7 dias
 UI_20190104_003690	{@st41d}1 mês       	
 UI_20190104_003691	{@st41d}2 meses       	
 UI_20190104_003692	{@st41d}3 meses       	
-UI_20190104_003693	ⓘ Cada depósito/retirada equivale a 20 milhas.{nl}ⓘ A milhagem é acumulada quando membros da guilda conectam, além de participar de missões de guilda e BTG.	
+UI_20190104_003693	ⓘ Cada depósito/retirada equivale a 20 milhas.{nl}ⓘ A milhagem é acumulada quando membros da guilda conectam, além de participar de missões de guilda e GTW.	
 UI_20190104_003694	Marcar membros online com autoridade para aceitar pedidos	
 UI_20190104_003695	Exibir somente Guildas recrutando	
 UI_20190104_003696	Pular animação do cubo	
@@ -3699,24 +3699,24 @@ UI_20190104_003698	Rank
 UI_20190104_003699	{@st43}Notícias{/}	
 UI_20190104_003700	{@st59}Selos{/}	
 UI_20190104_003701	{@st41b}Custo para Desmanchar{/}%s	
-UI_20190104_003702	{@st66d_y}Insira Pedra do Despertar.{/}	
-UI_20190104_003703	Nome do Item da Pedra do Despertar	각성석 아이템 이름
+UI_20190104_003702	{@st66d_y}Insira Awakening Stone.{/}	
+UI_20190104_003703	Nome do Item da Awakening Stone	각성석 아이템 이름
 UI_20190104_003704	{@st66b}* Reidentificar um item mantém o número de atributos e os grupos (cores) à que eles pertencem. Somente os atributos particulares e seus valores podem mudar.{/}	{@st66b}* 재감정시 옵션 그룹(색상)과 옵션 개수는 유지되며, {nl}세부 옵션과 옵션 수치만 변경됩니다.{/}
 UI_20190104_003705	{@st43}Aprimorar Selo	{@st43}인장 강화
 UI_20190104_003706	{@st66d_y}{b}Selo Principal	{@st66d_y}{b}주 옵션 인장
 UI_20190104_003707	{@st43b}{s18}{b}Material	{@st43b}{s18}{b}재료 인장
 UI_20190104_003708	Nome do Item	주 옵션 인장 아이템의 이름
 UI_20190104_003709	{@st68b}{b}Chance Base: %s%	{@st68b}{b}기본 확률: %s%
-UI_20190104_003710	{@st66d_y}Amplificação por Pedra Mágica + %s%	{@st66d_y}마정석 증폭 + %s%
-UI_20190104_003711	{@st43}{s20}%s% Chande de Sucesso	{@st43}{s20}성공률 %s%
+UI_20190104_003710	{@st66d_y}Amplificação por Magic Stone + %s%	{@st66d_y}마정석 증폭 + %s%
+UI_20190104_003711	{@st43}{s20}%s% Chance de Sucesso	{@st43}{s20}성공률 %s%
 UI_20190104_003712	{@st42}Aprimoramento	{@st42}강화
-UI_20190104_003713	{@st42}Pedra Mágica	{@st42}마정석
+UI_20190104_003713	{@st42}Magic Stone	{@st42}마정석
 UI_20190104_003714	{img silver_pic 24 24} Preço {img white_right_arrow 16 16} %s	{img silver_pic 24 24} 가격 {img white_right_arrow 16 16} %s
 UI_20190104_003715	O item foi destruído.	아이템이 파괴 되었습니다.
 UI_20190104_003716	{@st42}OK	{@st42}확인
 UI_20190104_003717	Abrir Soquete %s : {#000000}%s{/}{nl}Extrair Gema %s : {#000000}%s{/}	
 UI_20190104_003718	{@st59}Fechar o mapa.{/}	{@st59}지도를 닫습니다{/}
-UI_20190104_003719	%s{@st42}{s14}{#ffff00}Cancelar (Tecla ed Pulo){/}	%s{@st42}{s14}{#ffff00}취소(점프 키){/}
+UI_20190104_003719	%s{@st42}{s14}{#ffff00}Cancelar (Tecla de Pulo){/}	%s{@st42}{s14}{#ffff00}취소(점프 키){/}
 UI_20190104_003720	{@st41b}Coleção{/}	{@st41b}컬렉션{/}
 UI_20190104_003721	{s20}Mudar Classe Base?{/}	
 UI_20190104_003722	* Após a mudança, você receberá pontos de atributos{nl}equivalentes ao nível dos atributos que já possuia.	
@@ -3742,18 +3742,18 @@ UI_20190104_003741	{@st66b}Scout	{@st66b}스카우트
 UI_20190104_003742	{@st66b}{s16}Scout	{@st66b}{s16}스카우트
 UI_20190104_003743	{@st59b}Minha Informação{nl}{@st59s}- Atributos: Evoluir de nível melhora seus 5 atribuots básicos. {nl}- Informação: Mostra informações sobre seu personagem de acordo com seus atributos e equipamentos atuais. {nl}- Título: Títulos podem ser obtidos realizando conquistas. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 증가하는 5가지 능력{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}
 UI_20190104_003744	{@st66b}Comparar Equipamento{/}	
-UI_20190104_003745	{@st66b}Ver Guilda/Nome em BTG{/}	
-UI_20190104_003746	{@st66b}Efeitos de Equip. em BTG{/}	
+UI_20190104_003745	{@st66b}Ver Guilda/Nome em GTW{/}	
+UI_20190104_003746	{@st66b}Efeitos de Equip. em GTW{/}	
 UI_20190104_003747	{@st68b}{@st43b}{s18}{img clock_3 25 25}Tempo Restante: %s{/}{/}	{@st68b}{@st43b}{s18}{img clock_3 25 25}남은 상점이용시간 : %s{/}{/}
 UI_20190104_003748	99 Dias 99 Horas 99 Minutos	99일 99시간 99분
 UI_20190104_003749	  Cupons de Troca Disponíveis{/}	  보유중인 교환권{/}
 UI_20190104_003750	  Cupons de Troca Restantes{/}	  잔여 교환권{/}
 UI_20190104_003751	Cupom de Troca à ser usado	장바구니 교환권
-UI_20190104_003752	{@st66b}Troca de Fantasia{/}	{@st66b}계열 코스튬 교환{/}
-UI_20190104_003753	{@st66b}Loja para Novatos{/}	
-UI_20190104_003754	{@st66b}Loja para Jogadores que Voltaram{/}	
-UI_20190104_003755	Troque seus Cupons de Troca{nl}por uma fantasia	보유 중인 교환권을 {nl}코스튬으로 교환
-UI_20190104_003756	{@st66}Use para aplicar Estágio de Transcendência %s.{/}	
+UI_20190104_003752	{@st66b}Troca de Traje{/}	{@st66b}계열 코스튬 교환{/}
+UI_20190104_003753	{@st66b}Loja de Novatos{/}	
+UI_20190104_003754	{@st66b}Loja de Retorno{/}	
+UI_20190104_003755	Troque seus Cupons de Troca{nl}por um Traje	보유 중인 교환권을 {nl}코스튬으로 교환
+UI_20190104_003756	{@st66}Use para aplicar Transcendência: Estágio %s.{/}	
 UI_20190104_003757	{@st41}Horizontal (%s){/}	{@st41}가로 (%s){/}
 UI_20190104_003758	{@st41}Vertical (%s){/}	{@st41}세로 (%s){/}
 UI_20190104_003759	{@st41}Aumentar Zoom/Diminuir Zoom (%s){/}	{@st41}확대/축소 (%s){/}
@@ -3761,8 +3761,8 @@ UI_20190104_003760	{@st41}Câmera Horizontal (%s){/}	{@st41}카메라 가로 (%s
 UI_20190104_003761	{@st41}Câmera Vertical (%s){/}	{@st41}카메라 세로 (%s){/}
 UI_20190104_003762	{s16}Ver caixa do item	
 UI_20190104_003763	{b}Atributos Especializados	
-UI_20190104_003764	{@st66d}Falsificação	{@st66d}모조품
-UI_20190104_003765	{#00fec5}{ol}Mudança de Árvore de Classe (disponível por 30 dias){/}	{#00fec5}{ol}계열 변경 가능(1월 24일까지){/}
+UI_20190104_003764	{@st66d}Forgery	{@st66d}모조품
+UI_20190104_003765	{#00fec5}{ol}Mudar Classe Base (disponível por 30 dias){/}	{#00fec5}{ol}계열 변경 가능(1월 24일까지){/}
 UI_20190104_003766	SEM Despertar	각성 불가
 UI_20190104_003767	{@st42}{s16} Cupom de Troca {/}{/}{img icon_item_exchange_costumeCoupon 32 32}{/}	{@st42}{s16}  소모 교환권 {/}{img icon_item_exchange_costumeCoupon 32 32}{/}
 UI_20190104_003768	Cupom Gasto	소비 교환권
@@ -3831,7 +3831,7 @@ UI_20190223_003830	{@st66b}Ver HP de Invocação do grupo{/}
 UI_20190223_003831	Botão	
 UI_20190409_003832	{@st66b}Consome %s x1.{/}	
 UI_20190419_003833	Kit de Transmutação	
-UI_20190419_003834	Transmutação de Ícor	
+UI_20190419_003834	Transmutação de Ichor	
 UI_20190419_003835	Transmutar	
 UI_20190419_003836	{@st43b}{s18}Sucesso de Transmutação: %s%	
 UI_20190419_003837	{@st43b}{s18}Atributos do Ichor	
@@ -3842,19 +3842,19 @@ UI_20190419_003841	{@st66d_y}{s22}Bônus de Rank + %s Insígnias
 UI_20190419_003842	{@st66b}Ranking{/}	
 UI_20190419_003843	{@st66b}Time{/}	
 UI_20190419_003844	{@st66b}Pontos{/}	
-UI_20190419_003845	{@st66b}Voltar para Plateau Vedas (30 seg).{/}	
+UI_20190419_003845	{@st66b}Voltar para Vedas Plateau (30 seg).{/}	
 UI_20190419_003846	O item desaparecerá do seu inventário{nl}e %s será reiniciado.%s{/}	
 UI_20190419_003847	{@st66b}Os 3 melhores jogadores de cada Classe Base recebem{nl}{#003997}"Incensário Dimensional"{/} de acordo com sua classificação da semana passada.{nl}Jogadores que participaram na semana recebem{nl}{#003997}"Moedas dos Restos de Bernice"{/} de acordo com sua pontuação.{nl} {nl}{s13}A semana começa na segunda-feira ás 06:00 (horário do servidor).{nl} {nl}{s13}{#8e0000}Os 3 melhores jogadores de várias Classes Base recebem somente a recompensa da maior pontuação.{nl} {nl}Se isso acontecer, o próximo jogador elegível da Classe Base recebe a recompensa.	
 UI_20190419_003848	{@st66b}Mira Automática{/}	
 UI_20190611_003849	{@st43}{s22}Ver Local{/}	
 UI_20190611_003850	{@st59}Fechar Local{/}	
 UI_20190611_003851	{img NOTICE_Dm_! 30 30}{@st43}{s16}Limite de Habilidade{/}	
-UI_20190611_003852	{@st59}Insira um Abrasivo{/}	
-UI_20190611_003853	{@st66d_y}Insira o Abarasivo do Despertar.{/}	각성 연마재 아이템 이름
-UI_20190611_003854	Nome do Item para ABrasivo do Despertar	
-UI_20190611_003855	Remover Ícor	
+UI_20190611_003852	{@st59}Insira Abrasive{/}	
+UI_20190611_003853	{@st66d_y}Insira Awakening Abrasive.{/}	각성 연마재 아이템 이름
+UI_20190611_003854	Nome do Item para Awakening Abrasive
+UI_20190611_003855	Remover Ichor	
 UI_20190611_003856	Remover	
-UI_20190611_003857	{@st43}{s20}Info de Desmantelamento	
+UI_20190611_003857	{@st43}{s20}Info de Desmanche	
 UI_20190611_003858	{@st41b}Filtrar por Nv	
 UI_20190611_003859	{@st66b}  Lista de Missões  {/}	
 UI_20190611_003860	{@st66b}  Finalizadas  {/}	
@@ -3895,7 +3895,7 @@ UI_20190612_003894	{s16}{ol} Principais
 UI_20190612_003895	{s16}{ol} Secundárias	
 UI_20190612_003896	{s16}{ol} Repetíveis	
 UI_20190612_003897	{s16}{ol} Missões em Grupo	
-UI_20190612_003898	{s16}{ol} Insígnia de Hethran	
+UI_20190612_003898	{s16}{ol} Hethran Badge
 UI_20190612_003899	{s16}{ol} Rastreamento	
 UI_20190621_003900	{@st66b}Contador de trocas e limite de entrada reiniciam com a manutenção semanal.{/}	
 UI_20190621_003901	{@st43}{s22}Cubo da Vitória{/}	
@@ -3904,26 +3904,26 @@ UI_20190802_003903	{@st42}{s20}Liga dos Campeões
 UI_20190802_003904	{@st41b}{s16}{b}Campeões	
 UI_20190802_003905	{@st41b}{s16}{b}Desafiantes	
 UI_20190802_003906	Liga Regional	
-UI_20190802_003907	Remover Ícor (Atrib. Fixos)	
+UI_20190802_003907	Remover Ichor (Atrib. Fixos)	
 UI_20190802_003908	{@st43b}{s18}Atributos do Ícor (Fixo)	
-UI_20190802_003909	Remover Ícor (Atrib. Aleatórios)	
+UI_20190802_003909	Remover Ichor (Atrib. Aleatórios)	
 UI_20190802_003910	{@st43b}{s18}Atributos do Ícor (Aleatório)	
 UI_20190802_003911	Clique em Confirmar para retornar.	
 UI_20190802_003912	{@st42b}Aperte duas vezes o direcional para correr{/}	
-UI_20190802_003913	{@st41b}{s18}%s Jóias de Encantamento Atuais: %s	
-UI_20190802_003914	{@st66}{s18}{b}Consome %sx %s Jóia(s) de Encantamento.	
+UI_20190802_003913	{@st41b}{s18}%s Enchant Jewels Atuais: %s	
+UI_20190802_003914	{@st66}{s18}{b}Consome %sx %s Enchant Jewel(s).
 UI_20190802_003915	Não pode ser desmantelado	
 UI_20190802_003916	Liga Regional	
 UI_20190802_003917	{@st42}{s16}Receber	
 UI_20190828_003918	{@st66b}Mostrar Monstros Explodindo{/}	
-UI_20190828_003919	{@st66b}Brilho de Item Obtido{/}	
+UI_20190828_003919	{@st66b}Brilho de Item Obtido{/}
 UI_20191024_003920	{@st43}{s22}Mestre do Grimório{/}
 UI_20191024_003921	{@st59b}Info. Monstros{nl}{@st59s} - Você pode ver os monstros que possuir na aba Info. Monstros.{nl} - Os monstros que você quer usar precisam ser registrados no espaço principal, que pode ser feito movendo os monstros da lista abaixo segurando o clique com o botão direito.{nl} - Todos os monstros possuem Nível e Potencial.{nl}[Nível]{nl}   - Exibe o nível de força do monstro.{nl}   - Níveis são divididos em Normal, Mágico e Lendário e afeta como o monstro performa em batalha.{nl}[Nível de Evolução]{nl}   - Todos os monstros podem evoluir, no máximo, 2 vezes. Evoluir aumenta o número de habilidades disponíveis e os atributos dos monstros.{nl}   - Todos os monstros começam com 1 Estrela de Nível de Evolução e podem evoluir até 3 Estrelas.{/}{nl}{@st59b}Venda{nl}{@st59s} - Você também pode vender os monstros que possuir na aba Info. Monstros.{nl} - Você ganha [Evento] Moeda Antiga ao vender seus monstros, e a quantidade corresponde ao Nível do monstro.{nl} - Ganho de Moedas{nl}   - Normal: 0, Mágico: 1{nl}   - Único: 2, Lendário 3{nl}   * A quantidade não é influenciada pelo Nível de Evolução do monstro.{/}{nl}{@st59b}Fusão{nl}{@st59s} - Você pode fusionar 3 monstros com o mesmo Nível para conseguir um novo monstro aleatório com este mesmo Nível.{nl} - Há 5% de chance de obter um monstro de um Nível maior ao realizar uma fusão.{/}{nl}{@st59b}Evolução{nl}{@st59s} - Você pode usar 3 monstros idênticos para evoluir o seu monstro.{nl} - Evolução só funciona ao utilizar 3 monstros idênticos, com o mesmo Nível de Evolução, e o resultado será 1 monstro idêntico com +1 Nível de Evolução.{nl} - O Nível do monstro criado será idêntico ao do monstro que utilizado na evolução que possuir o maior Nível.{/}
 UI_20191024_003922	{@st66b}{s16}Info. Monstros{/}
 UI_20191024_003923	Exibe informações dos monstros registrados.
-UI_20191024_003924	{@st66b}{s16}Fusão{/}	{@st66b}{s16}합성{/}
+UI_20191024_003924	{@st66b}{s16}Fusão{/}
 UI_20191024_003925	Permite fusionar dois monstros do mesmo nível para produzir um novo monstro aleatório do mesmo Nível.{nl}5% de chance de produzir um monstro com +1 Nível maior.
-UI_20191024_003926	{@st66b}{s16}Evoluir{/}	{@st66b}{s16}진화{/}
+UI_20191024_003926	{@st66b}{s16}Evoluir{/}
 UI_20191024_003927	3 monstros idênticos, de Nível idêntico, podem ser utilizados para evoluir um monstro.
 UI_20191024_003928	A sinergia ocorrerá quando há 2 ou mais monstros da mesma espécio ou elemento no seu espaço principal.{nl}Esta sinergia só acontece dentro da Dungeon [Evento] Remnants of Bernice.
 UI_20191024_003929	{@st59}Organizar lista de monstros.{/}
@@ -3967,7 +3967,7 @@ UI_20191024_003966	{@st41b}{s18}Nv. 2: %s{/}{/}
 UI_20191024_003967	{@st41b}{s18}Nv. 3: %s{/}{/}
 UI_20191024_003968	{@st41b}{s18}Nv. 4: %s{/}{/}
 UI_20191024_003969	{@st41b}{s18}Nv. 5: %s{/}{/}
-UI_20191024_003970	Info. Decoração de Guilda   -> 'Guild Housing Facility'
+UI_20191024_003970	Info. Decoração de Guilda
 UI_20191024_003971	Contribuição e Milhas
 UI_20191024_003972	[Converter Contribuição em Milhas]{nl}- Taxa de conversão 1 (Contribuição) : 1 (Milha).{nl} {nl}[Converter Milhas em Contribuição]{nl}- Taxa de conversão 10 (Milhas) : 1 (Contribuição){nl}- Esta opção só pode ser usada pelo Líder da Guilda.{nl} {nl}[Distribuir Contribuição aos Membros]{nl}- Taxa de distribuição 1 (minha contribuição): 1 (contribuição do membro){nl}- Esta opção só pode ser usada pelo Líder da Guilda.
 UI_20191024_003973	{@st42}{s18}Milhas da Guilda: %s{/}{/}
@@ -4037,7 +4037,7 @@ UI_20191024_004036	{@st59}BGM Player{/}
 UI_20191024_004037	{@st66b}Aba 1
 UI_20191024_004038	{@st66b}Aba 2
 UI_20191024_004039	{@st43b}{s16}Somente Objetivos de Missão
-UI_20191024_004040	* Os atributos que já foram investidos{nl}retornarão como Pontos de Atributo depois da troca de Classe Base.{nl}(As Artes aprendidas serão reiniciadas também.{nl}Pontos de Atributo serão devolvidos, mas Mystic Tomes usados não.)
+UI_20191024_004040	* Os atributos que já foram investidos{nl}retornarão como Pontos de Atributo depois da troca de Classe Base.{nl}(As Artes aprendidas serão reiniciadas também.{nl}Pontos de Atributo serão devolvidos, mas Mystic Tomes usados não)
 UI_20191024_004041	* As classes removidas devido a mudança{nl}terão ses atributos e habilidades devolvidas como pontos.{nl}{#FF1122}Artes não serão reiniciadas com a troca de classe.{nl}Por favor, lembre-se de usar uma Arts Reset Potion antes de mudar a sua classe.{/}
 UI_20191024_004042	{@st66b}Manter UI de Alvo de Habilidade{/}
 UI_20191024_004043	{@st66b}Aplicar Efeito de Fundo
