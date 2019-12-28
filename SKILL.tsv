@@ -16117,18 +16117,18 @@ SKILL_20191024_016116	Skill Factor: #{SkillFactor}#%{nl}Ignores 50% defense{nl}[
 SKILL_20191024_016117	Applies a buff that increases evasion by 100% for a duration and increases movement speed. You will not be able to evade undodgeable attacks.{nl}Movement speed and buff duration increases proportionally to the number of times you have successfully evaded attacks.	일정시간 동안 회피율이 100% 증가 하고, 이동속도가 증가하는 버프를 자신에게 부여합니다. 반드시 명중되는 공격은 회피 할 수 없습니다.{nl}리뎀션 버프 중에 회피한 횟수 만큼 이동속도 증가 효과가 추가로 지속됩니다.
 SKILL_20191024_016118	Fires an unevadable shot into an area. Targeted enemies will have their buffs removed and deals additional damage that depends on the number of removed buffs.{nl}Holding the aim longer will increase the number of buffs removed.{nl}Deals 50% additional damage to enemies under [Peacemaker: Fatigue], [Silence] debuff.	타겟된 적을 정확히 조준하여 무조건 명중하는 사격을 합니다. 피격된 적은 버프가 제거되고, 제거 하려한 버프 개수만큼 추가 피해를 줍니다.{nl}조준을 길게 할 수록 버프가 더 많이 지워질 확률이 증가합니다.{nl}[피스메이커: 무기력], [침묵] 상태의 적에게 50% 추가대미지가 적용됩니다.
 SKILL_20191024_016119	Grants temporary immunity to debuffs by the Grace of Rykuma.{nl}All activated Dispellers and Charm of Protections will be consumed even while the player is under the effects of immunity.	리쿠마의 가호를 받아, 잠시 동안 고급 해제 가능한 디버프에 면역 상태가 됩니다.{nl}버프 효과로 디버프에 면역되더라도, 활성화된 디스펠러나 오마모리는 소모됩니다.
-SKILL_20191024_016120	Aqkrova	앱크로바
-SKILL_20191024_016121	Creates a red magic circle. The damage of allies increase while within the circle and allies recover HP proportional to the damage they have dealt.{nl}Caster's final damage is reduced by 50% for 100 seconds.	붉은색 장판이 펼쳐집니다. 해당 장판 위있는 아군의 대미지가 증가하고, 공격시 대미지의 일정 비율만큼 체력 회복합니다.{nl}시전자는 가하는 최종 대미지가 100초간 50% 감소합니다.
-SKILL_20191024_016122	Magic circle duration: 10 seconds{nl}Damage +30%{nl}Recovers HP equal to 0.1% of damage dealt{nl}Consumes Lensterseum x10	장판 지속 시간 10초{nl}대미지 30%증가{nl}대미지의 0.1%만큼 체력 회복{nl} 렌스터슘 10개 소비
-SKILL_20191024_016123	Atagal	아트갈
-SKILL_20191024_016124	Returns damage equal to the DEF value of the equipped shield when attacked.	피격시 방패 방어력 만큼 물리 대미지로 돌려줍니다.
-SKILL_20191024_016125	Duration: 50 seconds{nl}Returning damage: 100%{nl}Consumes Lensterseum x10	지속 시간 50초 {nl} 돌려 주는 대미지 100%{nl}렌스터슘 10개 소비
-SKILL_20191024_016126	Liris	리리스
-SKILL_20191024_016127	Applies Liris buff on player's current summon. Liris buff provides additional damage equal to original attack damage.	사용시 현재 소환된 소환수에게 리리스 버프를 적용합니다. 리리스 버프는 공격한 대미지와 동일한 수치의 대미지로 적에게 추가 타격을 입힙니다.
-SKILL_20191024_016128	Duration: 30 seconds{nl}Additional Hit: 1{nl}Additional Hit Ratio: 100%{nl}Consumes Riperium x10	지속 시간 30초 {nl}추가 1타 {nl}추가타 비율 100%{nl}리페리움 10개 소비
-SKILL_20191024_016129	Proverbs	프로버스
-SKILL_20191024_016130	Increases the max. damage cap to 4,000,000. Additional 20% of the damage dealt by the player is inflicted on target when the caster's damage is over 999,999.{nl}Does not stack with other effects that raise the max. damage cap.	사용시 최대 대미지 상한이 4,000,000으로 증가합니다. 또한 대미지가 999,999를 넘으면 가한 대미지의 20%만큼 추가대미지를 줍니다.{nl}다른 최대 대미지 상한을 넘는 효과와 중복 적용되지 않습니다.
-SKILL_20191024_016131	Duration: 25 seconds{nl}Additional Damage: 20%{nl}Consumes Riperium x10	지속 시간 25초 {nl}20% 추가 대미지{nl}리페리움 10개 소비
+SKILL_20191024_016120	Aqkrova
+SKILL_20191024_016121	Cria um círculo mágico vermelho. O dano dos aliados aumenta quando estiverem dentro do círculo, além de recuperar o HP deles proporcionalmente ao dano que causarem.{nl}O dano final que você causa é reduzido em 50% por 100 segundos.
+SKILL_20191024_016122	Duração do Círculo Mágico: 10 segundos{nl}Dano dos aliados: +30%{nl}Recupera HP igual a 0.1% do dano causado{nl}Consome Lensterseum x10
+SKILL_20191024_016123	Atagal
+SKILL_20191024_016124	Retorna dano igual ao valor de Defesa do Escudo euipado quando atacado.
+SKILL_20191024_016125	Duração: 50 segundos{nl}Dano retornado: 100%{nl}Consome Lensterseum x10
+SKILL_20191024_016126	Liris
+SKILL_20191024_016127	Ativa o efeito [Liris] nas suas invocações. Garante dano adicional igual ao dano original do ataque.
+SKILL_20191024_016128	Duração: 30 segunods{nl}Golpes Adicionais: 1{nl}Taxa de Golpe Adicional: 100%{nl}Consome Riperium x10
+SKILL_20191024_016129	Provérbios
+SKILL_20191024_016130	Aumenta o limite de dano para 4.000.000. Se o seu dano ultrapassar 999.999, causa dano adicional no alvo em proporção a este dano causado.{nl}Não acumula com outros efeitos que aumentam o limite de dano.
+SKILL_20191024_016131	Duração: 25 segundos{nl}Dano Adicional: 20%{nl}Consome Riperium x10
 SKILL_20191024_016132	Ranger Transform: Red	스쿼드 폼 체인지 : 레드
 SKILL_20191024_016133	Transform into Red TOS Ranger.	TOS 스쿼드 레드로 변신합니다.
 SKILL_20191024_016134	Ranger Transform: Pink	스쿼드 폼 체인지 : 핑크
@@ -16337,8 +16337,8 @@ SKILL_20191024_016336	Shield is consumed before HP.	실드는 HP보다 먼저 �
 SKILL_20191024_016337	Additional hits for the duration.	지속시간 동안 추가타.
 SKILL_20191024_016338	Grants additional hits against summons for the duration.	지속시간 동안 소환수에게 추가타를 입히는 효과를 줍니다.
 SKILL_20191024_016339	Temporarily increases maximum damage cap. Also, additional damage is dealt when the damage reaches over 999,999.	최대 대미지 제한이 일시적으로 증가합니다. 또한 999,999 대미지가 넘으면 추가 대미지를 줍니다.
-SKILL_20191024_016340	Ataka	아타카
-SKILL_20191024_016341	Ataka{nl}- Deals equal damage split between the number of enemies nearby within a range of 60 (max. 10 enemies, cooldown of 8 seconds) when a critical hit occurs.{nl} {nl}Dragon Strength Lv. 1- Increases the damage effect by 100%	치명타 발생시 자신의 주변 60 범위 이내의 적 10명에게 입힌 대미지 1/대상수 만큼의 대미지를 줍니다. (재사용 대기 시간: 8초){nl} {nl}드래곤의 기운 1단계 효과 - 주는 대미지가 100% 증가합니다.
+SKILL_20191024_016340	Ataka
+SKILL_20191024_016341	[Ataka] - Quando um golpe crítico é lançado, causa um dano fixo dividido entre os inimigos próximos em uma áre de 60 (Máx. 10 inimigos. Cooldown: 8 segundos){nl}[Dragon Strength Nv. 1] - Aumenta o efeito de dano em 100%
 SKILL_20191024_016342	Misrus Staff equipped	머즈루스 스태프 착용
 SKILL_20191024_016343	TOS Ranger Transform - Red	TOS 스쿼드 폼 체인지 - 레드
 SKILL_20191024_016344	Transform into the Red TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 레드로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
@@ -16356,10 +16356,10 @@ SKILL_20191024_016355	Halloween Effect Free Check	할로윈 이펙트 프리체�
 SKILL_20191024_016356	Halloween Effect	할로윈 이펙트
 SKILL_20191024_016357	Misrus - Legend Card	머즈루스 - 레전드 카드
 SKILL_20191024_016358	Shield target additional damage	실드 대상 추가 대미지
-SKILL_20191024_016359	Delicious Pizza	맛있는 피자
-SKILL_20191024_016360	You eat the Pizza!{nl}EXP earned from monsters is increased by 200%.	피자를 먹었습니다!{nl}몬스터 처치 시 경험치가 200% 증가됩니다.
-SKILL_20191024_016361	The Smell of Fresh Pizza	배달원의 피자 냄새
-SKILL_20191024_016362	You feel motivated by the smell of freshly cooked Pizza carried by the Delivery Savior!{nl}Your looting chance increases by +1000.{nl}(Buff is removed when a the Delivery Savior is not in your proximity.) 	배달원에게 피자 냄새가 납니다!{nl}의욕이 솟아 루팅 찬스가 1000 증가됩니다.{nl}(지역 이동 시 주변에 배달원이 없으면 버프가 삭제됩니다.) 
+SKILL_20191024_016359	Pizza Deliciosa
+SKILL_20191024_016360	Você comeu uma pizza!{nl}+200% EXP recebida ao derrotar monstros.
+SKILL_20191024_016361	Cheiro de Pizza Fresca
+SKILL_20191024_016362	Você se sente motivado ao cheirar uma pizza recém preparada, entregue pelo Salvador Entregador!{nl}Chance de Drop +1.000.{nl}(Efeito é removido caso o Salvador Entregador não esteja por perto)
 SKILL_20191024_016363	EXP earned +50%	경험치 50% 증가
 SKILL_20191024_016364	Increases EXP earned by 50%.	받게 되는 경험치가 50% 증가합니다.
 SKILL_20191024_016365	Anvil enhancements 50% discount	모루 강화 비용 50% 할인
@@ -16434,13 +16434,13 @@ SKILL_20191024_016433	[Out Comes the Full Moon] EXP Gain Up: Stage 4	[보름달 
 SKILL_20191024_016434	[Special Effects] Increases EXP gain.{nl}[Stage 4 Effect]: EXP gain +15%{nl}[Duration]: 30 minutes	[특수 효과] 경험치 획득량이 증가합니다.{nl}[4단계 효과] : 경험치 획득량 + 15% 증가{nl}[지속시간] : 30분
 SKILL_20191024_016435	[Out Comes the Full Moon] EXP Gain Up: Stage 5	[보름달 키우기 대작전] 경험치 획득량 증가 5단계
 SKILL_20191024_016436	[Special Effects] Increases EXP gain.{nl}[Stage 5 Effect]: EXP gain +20%{nl}[Duration]: 30 minutes	[특수 효과] 경험치 획득량이 증가합니다.{nl}[5단계 효과] : 경험치 획득량 + 20% 증가{nl}[지속시간] : 30분
-SKILL_20191024_016437	Delivery Companion	배달원의 컴패니언
-SKILL_20191024_016438	Your companion has grown plump after eating the Pizza.	피자를 먹고 컴패니언 크기가 커졌습니다.
+SKILL_20191024_016437	Mascote Entregador
+SKILL_20191024_016438	Seu Mascote cresceu um monte depois de comer pizza.
 SKILL_20191024_016439	Attack increase - Event	공격력 증가-이벤트
 SKILL_20191024_016440	Defense increase - Event	방어력 증가-이벤트
 SKILL_20191024_016441	Revive - Event	리바이브-이벤트
-SKILL_20191024_016442	Delivery	배달원
-SKILL_20191024_016443	Delivered Pizza to the Saviors on your server!{nl}Looting chance of all nearby players are increased by +1000 and their companions grow bigger.	월드의 구원자들에게 피자를 배달했습니다!{nl}주변에 루팅 찬스를 1000증가 시키며, 컴패니언 크기가 커집니다.
+SKILL_20191024_016442	Entregador	배달원
+SKILL_20191024_016443	Entregou pizza aos Salvadores no seu servidor!{nl}+1.000 de Chance de Drop para todos os jogadores próximos, e seus Mascotes ficarão maiores.
 SKILL_20191024_016444	Forced displacement	강제이동상태
 SKILL_20191024_016445	Under forced displacement.	강제이동 상태입니다.
 SKILL_20191024_016446	Immunity to Knockback and Knockdowns{nl}Immunity to normally removeable debuffs{nl}Boosts movement speed momentarily. Movement speed returns to normal gradually	넉백, 넉다운 면역 상태{nl}일반 해제 가능한 디버프 면역 상태{nl}이동속도가 크게 증가하고 점차 감소
