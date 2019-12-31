@@ -16279,54 +16279,54 @@ SKILL_20191024_016278	Immunity from all removable debuffs	일반 해제 가능�
 SKILL_20191024_016279	Haste	쾌속
 SKILL_20191024_016280	Grants 5% chance to remove cooldown from Multi Shot for 6 seconds when attacking.	공격시 5% 확률로 6초간 멀티 샷의 재사용 대기시간이 사라집니다.
 SKILL_20191024_016281	Removes cooldown of Multi Shot	멀티 샷의 재사용 대기시간이 사라집니다.
-SKILL_20191024_016282	Stealth Strike	암습
-SKILL_20191024_016283	Doubles critical rate when Behead or Backstab is used	카트 라시흐, 백스탭 사용시 치명타 발생 2배
-SKILL_20191024_016284	Musket Overheat	머스킷 과열
-SKILL_20191024_016285	Increases Healing while under Heal: Overload	힐: 과부화 일 때 치유력 상승
-SKILL_20191024_016286	Saving Prayer	구원의 기도
-SKILL_20191024_016287	Increases Healing depending on the number of Heal: Overload stacks	힐 : 과부화 중첩에 따라 치유력 상승
-SKILL_20191024_016288	Moringponia - Backlight	모링포니아 - 역광
-SKILL_20191024_016289	Increases resistance against blind by +7 for every stack	중첩당 암흑 상태이상 저항 7 증가
-SKILL_20191024_016290	Moringponia - Winterize	모링포니아 - 방한
-SKILL_20191024_016291	Increases resistance against freeze by +7 for every stack	중첩당 결빙 상태이상 저항 7 증가
-SKILL_20191024_016292	Moringponia - Zen	모링포니아 - 참선
-SKILL_20191024_016293	Increases resistance against stun by +7 for every stack	중첩당 스턴 상태이상 저항 7 증가
-SKILL_20191024_016294	Additional damage with Smite equal to the difference in STR stat between the target and the caster	피격 대상 힘 차이만큼 스마이트 추가 대미지
-SKILL_20191024_016295	Increases Rune of Justice damage	정의의 룬 대미지 증가
-SKILL_20191024_016296	Increases the damage of allies within the range of the circle by +30% and recovers their HP in amounts equal to 0.1% of their attack(cannot be stacked, Duration: 10 seconds){nl}Reduces the final damage dealt by the caster by -50% (Duration: 100 seconds, cannot be removed){nl} {nl}Dragon Strength Lv. 1{nl}- Ally damage increase is boosted to +50%	아군의 대미지 30% 증가 공격시 대미지의 0.1%만큼 체력 회복(중복 적용 불가, 10초 지속){nl}시전자의 최종 대미지 50% 감소 (100초 지속, 제거 불가){nl} {nl}드래곤의 기운 1단계 효과{nl} - 시전자가 드래곤의 기운 1단계가 적용중일 경우 아군의 대미지 증가 50%로 변경됩니다.
-SKILL_20191024_016297	Cower	위축
-SKILL_20191024_016298	Physical Attack: -(stack * 1,000)	물리 공격력 (중첩 수 * 1,000) 감소
-SKILL_20191024_016299	Recovers own HP in amount proportional to player's Healing	공격시 자신의 HP회복력 비례 HP회복
-SKILL_20191024_016300	Awaken Mind	정신개벽
-SKILL_20191024_016301	Damage received reduced depending on the number of Heal: Overload stacks	힐: 과부화 중첩 수에 따라 받는 대미지 감소
-SKILL_20191024_016302	Damage increased for the last overheat of Quick Draw	퀵 드로우 마지막 오버히트 대미지 증가
-SKILL_20191024_016303	Ambush skill dismounts enemies	기습 스킬 낙마 유발
-SKILL_20191024_016304	Ignores block of enemies under Gae Bulg debuff	게이 불그 디버프 대상 블록 무시
-SKILL_20191024_016305	Max. SP increase when using Magic Shield	매직 실드 사용시 최대 SP 증가
-SKILL_20191024_016306	Resonance	공명
-SKILL_20191024_016307	Max. SP +3,500	최대 SP 3,500 증가
-SKILL_20191024_016308	Misrus Crossbow Pavise	머즈루스 크로스보우 파비스
-SKILL_20191024_016309	Expulsion	축출
-SKILL_20191024_016310	Reduces target's SP with every attack	공격할 때 상대의 SP에 피해를 줍니다
-SKILL_20191024_016311	Harden	경화
-SKILL_20191024_016312	Increases Physical and Magic Defense	물리 방어력 / 마법 방어력 증가
-SKILL_20191024_016313	Misrus - Harden	머즈루스 - 경화
-SKILL_20191024_016314	Physical/Magic Defense buff when using SP potions{nl}Efficacy increases with increased number of Harden stacks	SP포션 사용시 물리/마법 방어력 버프 발동{nl}경화 중첩 수에 따라 효과 증가
-SKILL_20191024_016315	Misrus - Lucid	머즈루스 - 명징
-SKILL_20191024_016316	Grants buff that increases SPR when using HP potions{nl}Efficacy increases with the number of Lucid stacks	HP포션 사용시 정신 증가 버프 발동{nl}명징 중첩 수에 따라 효과 증가
-SKILL_20191024_016317	Lucid	명징
-SKILL_20191024_016318	Misrus - Potential	머즈루스 - 저력
-SKILL_20191024_016319	Max. Physical/Magic attack increased when using HP potion{nl}Efficacy increases with the number of Potential stacks	HP포션 사용시 물리 / 마법 최대 공격력 증가{nl}저력 중첩 수에 따라 효과 증가
-SKILL_20191024_016320	Potential	저력
-SKILL_20191024_016321	Maximum Physical and Magic Attack Increase	물리 / 마법 최대 공격력 증가
-SKILL_20191024_016322	Gravity Curve	중력 변곡점
-SKILL_20191024_016323	+50% damage received from Missile attacks	미사일 타입 받는 피해 50% 감소
-SKILL_20191024_016324	Ice Breaker	쇄빙
-SKILL_20191024_016325	Critical rate x2 when attacking frozen enemies 	결빙 디버프 대상 공격시 치명타 발생 2배 
-SKILL_20191024_016326	Agress: Complacency	시비걸기: 안전불감증
-SKILL_20191024_016327	Additional damage received	추가 피해를 받음
-SKILL_20191024_016328	Napalm	네이팜
-SKILL_20191024_016329	Damage received every second	1초 마다 피해를 받음
+SKILL_20191024_016282	Ataque Furtivo
+SKILL_20191024_016283	Dobra a Taxa de Crítico para as habilidaes [Behead] e [Backstab]
+SKILL_20191024_016284	Mosquete Sobrecarregado
+SKILL_20191024_016285	Aumenta Taxa de Cura enquanto estiver sob efeito de [Heal: Sobrecarga]
+SKILL_20191024_016286	Oração Salvadora
+SKILL_20191024_016287	Aumenta a Taxa de Cura dependendo do número de acúmulos de [Heal: Sobrecarga]
+SKILL_20191024_016288	Moringponia - Luz de Fundo
+SKILL_20191024_016289	+7 de resistência contra [Blind] por acúmulo
+SKILL_20191024_016290	Moringponia - Invernal
+SKILL_20191024_016291	+7 de resistência contra [Freeze] por acúmulo
+SKILL_20191024_016292	Moringponia - Zen
+SKILL_20191024_016293	+7 de resistência contra [Stun] por acúmulo
+SKILL_20191024_016294	Ao utilizar [Smite], dano adicional igual à diferença de STR entre o usuário e o alvo
+SKILL_20191024_016295	Aumento de Dano de [Rune of Justice]
+SKILL_20191024_016296	Aumenta o dano dos aliados dentro da área do círculo em +30% e recupera o HP deles em 0.1% do dano (não acumula. Duração: 10 segundos){nl}Reduz o dano final causado pelo usuário em -50% (Duração: 100 segundos, não pode ser removido){nl} {nl}[Dragon Strength Nv. 1]{nl}- Dano dos aliados é aumentado para +50%
+SKILL_20191024_016297	Encolher de Medo
+SKILL_20191024_016298	Ataque Físico - (acúmulo * 1.000)
+SKILL_20191024_016299	Recupera o próprio HP em valor proporcional à Taxa de Cura do usuário
+SKILL_20191024_016300	Despertar da Mente
+SKILL_20191024_016301	Dano recebido é reduzido conforme os acúmulos de [Heal: Sobrecarga]
+SKILL_20191024_016302	Dano aumentado do último overheat de [Quick Draw]
+SKILL_20191024_016303	Habilidade [Ambush] desmonta os inimigos
+SKILL_20191024_016304	Ignora o bloqueio de inimigos sob efeito de [Gae Bulg]
+SKILL_20191024_016305	SP Máximo aumenta ao utilizar [Magic Shield]
+SKILL_20191024_016306	Ressonância
+SKILL_20191024_016307	SP Máximo +3.500
+SKILL_20191024_016308	Misrus Crossbow Pavise
+SKILL_20191024_016309	Expulsão
+SKILL_20191024_016310	Reduz o SP do alvo a cada ataque
+SKILL_20191024_016311	Firmeza
+SKILL_20191024_016312	Aumenta a Defesa Física e Mágica
+SKILL_20191024_016313	Misrus - Firmeza
+SKILL_20191024_016314	Defesa Física e Mágica aumentada ao utilizar Poção de SP{nl}Eficiência aumenta conforme os acúmulos
+SKILL_20191024_016315	Misrus - Lucidez
+SKILL_20191024_016316	SPR aumentado ao utilizar Poção de HP{nl}Eficiência aumenta conforme os acúmulos
+SKILL_20191024_016317	Lucidez
+SKILL_20191024_016318	Misrus - Potencial
+SKILL_20191024_016319	Ataque Físico e Mágico máximo aumentado ao utilizar Poção de HP{nl}Eficiência aumenta conforme os acúmulos
+SKILL_20191024_016320	Potencial
+SKILL_20191024_016321	Aumenta Ataque Físico e Mágico máximos
+SKILL_20191024_016322	Curva Gravitacional
+SKILL_20191024_016323	-50% de dano recebido de ataques do tipo Projétil
+SKILL_20191024_016324	Quebra-gelo
+SKILL_20191024_016325	Taxa de Crítico x2 ao atacar inimigos sob efeito de [Freeze]
+SKILL_20191024_016326	Aggress: Complacência
+SKILL_20191024_016327	Dano adicional recebido
+SKILL_20191024_016328	Napalm
+SKILL_20191024_016329	Dano recebido por segundo
 SKILL_20191024_016330	Reflect Damage State	대미지 반사 상태
 SKILL_20191024_016331	Aqkrova Debuff	앱크로바 디버프
 SKILL_20191024_016332	Final damage reduced by -50%	최종 대미지 50%감소 상태
@@ -16825,7 +16825,7 @@ SKILL_20191024_016824	[Arts] Snow Rolling: Enhanced Upgrade	[아츠] 스노우 �
 SKILL_20191024_016825	* Increases the Skill Factor of [Snow Rolling] by 1.25% per attribute level	* [스노우 롤링]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_016826	[Arts] Frost Pillar: Enhanced Upgrade	[아츠] 프로스트 필라: 상급 강화
 SKILL_20191024_016827	* Increases the Skill Factor of [Frost Pillar] by 1.25% per attribute level	* [프로스트 필라]의 스킬 계수가 특성 레벨당 1.25% 증가
-SKILL_20191024_016828	[Arts] Heavy Gravity: Distort	[아츠] 헤비 그라비티: 왜곡된 중력
+SKILL_20191024_016828	[Arts] Heavy Gravity: Distorção	[아츠] 헤비 그라비티: 왜곡된 중력
 SKILL_20191024_016829	* When [Heavy Gravity] and [Raise] are stacked in the same location, a fused magic circle appears to immobilize enemies{nl} and enemies are lifted into the air then dropped when the magic circle's duration is over.	* 헤비 그라비티가 레이즈와 겹쳐지면 합성된 마법진이 나와 적이 이동할 수 없게되며,{nl}    마법진이 끝난 시점에 적들이 공중으로 높이 떴다가 떨어짐
 SKILL_20191024_016830	[Arts] Psychic Pressure: Enhanced Upgrade	[아츠] 사이킥 프레셔: 상급 강화
 SKILL_20191024_016831	* Increases the Skill Factor of [Psychic Pressure] by 1.25% per attribute level	* [사이킥 프레셔]의 스킬 계수가 특성 레벨당 1.25% 증가

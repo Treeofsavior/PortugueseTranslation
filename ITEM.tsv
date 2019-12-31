@@ -23218,140 +23218,140 @@ ITEM_20191024_023217	Blue TOS Ranger Helmet
 ITEM_20191024_023218	Green TOS Ranger Helmet
 ITEM_20191024_023219	Yellow TOS Ranger Helmet
 ITEM_20191024_023220	Black Rabbit Helmet Costume
-ITEM_20191024_023221	The head of the Black Rabbit costume.{nl}Use to change your appearance.{nl}Can be exchanged for medals at the Exchange shop.
+ITEM_20191024_023221	Capacete do traje de Coelho Preto.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023222	Grumpy Bear Armband
-ITEM_20191024_023223	Armband adorned with the face of a a grumpy bear.
+ITEM_20191024_023223	Braçadeira decorada com o rosto de um urso rabugento.
 ITEM_20191024_023224	Kaiju Helmet Costume
-ITEM_20191024_023225	A helmet replicating the head of the Kaiju that TOS Rangers battle against.{nl} Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023225	Capacete que é uma réplica da cabeça de um Kaiju, derrotado pelos TOS Rangers em batalha.{nl} Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023226	Haunted Hospital Nurse Helmet Costume (Male)
-ITEM_20191024_023227	A costume of a spooky nurse guarding the haunted hospital.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023227	Traje assustador de uma enfermeira que protege um hospital assombrado.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023228	Haunted Hospital Nurse Helmet Costume (Female)
-ITEM_20191024_023229	 - 10% chance to apply Berserk buff on self for a 5-second duration with Strike attacks{nl} {nl}Berserk{nl} - Critical rate 2x (cannot be stacked)
+ITEM_20191024_023229	 - 10% de chance de ativar [Fúria] por 5 segundos ao utilizar ataques do tipo Impacto.{nl} {nl}[Fúria]{nl} - Taxa de Crítico 2x (não acumula)
 ITEM_20191024_023230	Moringponia Sword
-ITEM_20191024_023231	{nl} {nl}Lightning Rod{nl} - Deals additional attack by casting Thunder Strike when performing Slash attacks{nl}on targets under Storm Bolt debuff{nl}(Cooldown 0.1 sec){nl} {nl}Thunder Strike Skill Factor: (Storm Bolt skill level x 12)%
-ITEM_20191024_023232	This weapon is high risk, high reward. It makes of demonic powers that puts its wielder at risk in order to amplify the output of damage.
+ITEM_20191024_023231	{nl} {nl}[Pára-raios]{nl} - Causa ataque adicional conjurando [Trovão] ao realizar ataques do tipo Corte nos alvos sob efeito da habilidade [Storm Bolt].{nl} - Cooldown: 0.1 segundos{nl} {nl}Multiplicador de [Trovão]: Nv de [Storm Bolt] x 12%
+ITEM_20191024_023232	Esta arma é do tipo alto risco, alta recompensa. Cria poderes demoníacos que colocam quem a utiliza em risco para poder amplificar o dano causado.
 ITEM_20191024_023233	Misrus Sword
-ITEM_20191024_023234	{nl} {nl}Cower{nl} - Applies a debuff that reduces the physical attack value of target by -1,000 for 5 seconds when using Bash (max. 5 stacks)
-ITEM_20191024_023235	The items created by the Chesha are highly sought after by scholars due to the way they manipulate the magical energy to harness its power. Due to the variety of its possible application, it is also commonly used in crafting of weapons.
+ITEM_20191024_023234	{nl} {nl}[Encolher de Medo]{nl} - Ao utilizar [Bash], reduz o Ataque Físico do alvo em -1.000 por 5 segundos (máx. 5 acúmulos)
+ITEM_20191024_023235	Este item criado pelos Chesha são muito solicitados por estudiosos, devido a maneira que eles manipulam a energia mágica para aproveitar-se deste poder. Devido a variedade de aplicações possíveis, é também comumente utilizado na criação de novas armas.
 ITEM_20191024_023236	Moringponia Two-handed Sword
-ITEM_20191024_023237	{nl} {nl} - Number of Frenzy Stacks {img green_up_arrow 16 16}5
-ITEM_20191024_023238	Weapons are known to yield to the will of its wielder but at times the opposite could also be true. Do not underestimate the power this weapon possesses.
+ITEM_20191024_023237	{nl} {nl} - Acúmulos de [Frenzy] {img green_up_arrow 16 16}5
+ITEM_20191024_023238	Armas são normalmente reconhecidas por ceder a vontade daqueles que as utilizam, mas o contrário também pode ser verdade. Não subestime o poder que esta arma possui.
 ITEM_20191024_023239	Misrus Two-handed Sword
-ITEM_20191024_023240	{nl} {nl}Sharp Reaction{nl}- Recovers own HP in amount equal to (Player's HP Recovery value x 3){nl} - Cooldown 10 seconds 
-ITEM_20191024_023241	Items crafted by the Chesha was amazing in that their special properties could be stacked as much as you want. This sword's durability is a product of such properties found in Chesha-made equipment.
+ITEM_20191024_023240	{nl} {nl}[Reação Afiada]{nl} - Recupera o próprio HP em valor igual à (Recuperação de HP x 3){nl} - Cooldown: 10 segundos
+ITEM_20191024_023241	Itens forjados pelos Chesha são incríveis, pois suas propriedades especiais podem ser acumuladas o quanto você quiser. A durabilidade desta espada é um produto de tal propriedade encontrada nos equipamentos feitos pelos Chesha.
 ITEM_20191024_023242	Moringponia Rod
-ITEM_20191024_023243	{nl} {nl}Rune Refinement{nl} - Rune of Justice final damage {img green_up_arrow 16 16} 50%{nl}- Recovers 30 SP for every time Rune of Justice hits accurately
-ITEM_20191024_023244	No one thought that this rod could be refined to be used with the divine power of the goddesses. But thanks to the efforts put in by many craftsmen, we can now use this rod with whatever power we wish to.
+ITEM_20191024_023243	{nl} {nl}[Refinamento de Runa]{nl} - Dano final de [Rune of Justice] {img green_up_arrow 16 16} 50%{nl} - Recupera 30 SP sempre que [Rune of Justice] acertar o alvo
+ITEM_20191024_023244	Ninguém pensou que este cetro poderia ser refinado para utilizar com o poder divido das Deusas. Mas, graças aos esforços colocados por vários artesãos, podemos utilizar este cetro com o poder que bem entendemos.
 ITEM_20191024_023245	Misrus Rod
-ITEM_20191024_023246	{nl} {nl}Ice Breaker{nl}- Additional +100% critical rate applied when attacking a frozen target
-ITEM_20191024_023247	Cheshas have devised a magical staff in order to calm the angered Misrus. You plant one staff on the ground and hit it with the other to resonate the magical power hidden within the staff, which calms Misrus. Nobody knows where this magical power originates from to this day.
+ITEM_20191024_023246	{nl} {nl}[Quebra-gelo]{nl} - Taxa de Crítico +100% adicional ao atacar alvos sob efeito de [Freeze]
+ITEM_20191024_023247	Cheshas inventaram um cajado mágico para acalmar a raiva do Misrus. Você fixa um cajado no chão e acerta ele com outro para ressoar o poder mágico escondido no cajado, o que acalma o Misrus. Até hoje, ninguém sabe de onde vem este poder mágico.
 ITEM_20191024_023248	Moringponia Bow
-ITEM_20191024_023249	{nl} - Multi Shot final damage {img green_up_arrow 16 16}100%{nl} {nl}3% chance to apply Quickness buff that lasts 6 seconds{nl}- Multi Shot cooldown removed while buff is active
-ITEM_20191024_023250	The superfluous ornaments adorned on the bow is a testament to the craftsmanship that was required to craft it. It is imbued with powerful magic that increases its wielder's concentration momentarily for greater aim.
+ITEM_20191024_023249	{nl} - Dano final de [Multi Shot] {img green_up_arrow 16 16}100%{nl} {nl} - 3% de chance de ativar [Rapidez], que dura 6 segundos{nl} - Cooldown de [Multi Shot] removido durante este efeito
+ITEM_20191024_023250	Os ornamentos supérfluos que adornam este arco é um atestado do nível de habilidade necessária para forjá-lo. Está imbuído com uma magia muito forte que aumenta a concentração do usuário momentaneamente, atingindo uma grande mira.
 ITEM_20191024_023251	Misrus Bow
-ITEM_20191024_023252	 - Triple Arrow skill final damage {img green_up_arrow 16 16}25%
-ITEM_20191024_023253	Cheshas are terrified of Misrus. Because of this, they have decided to feed Misrus by shooting its food attached to arrows from a crossbow. This is the exact same bow used by Cheshas when feeding Misrus and is of fine build. Despite its origin, it serves its purpose as a weapon better than most other crossbows out there.
+ITEM_20191024_023252	 - Dano final de [Triple Arrow] {img green_up_arrow 16 16}25%
+ITEM_20191024_023253	Os Cheshas morrem de medo do Misrus. Por causa disso, decidiram alimentá-lo atirando a comida presa em flechas. Esta é a mesma arma utilizada pelos Cheshas para alimentar o Misrus. Apesar da origem, ela serve ao seu propósito como arma melhor do que muitas outras por aí.
 ITEM_20191024_023254	Moringponia Crossbow
-ITEM_20191024_023255	{nl}{nl} - Crossbow basic attack damage {img green_up_arrow 16 16} 35%{nl}- Attack ricochets on enemies near the target (target number: 2)
-ITEM_20191024_023256	The wing-shaped ornaments are highly regarded by arms afficionados.  Appraisers put a hefty price on this item on the account of its detailed adornments.
+ITEM_20191024_023255	{nl}{nl} - Dano de ataque básico utilizando Bestas {img green_up_arrow 16 16} 35%{nl} - Ataques ricocheteiam em inimigos próximos (Número de alvos: 2)
+ITEM_20191024_023256	Os ornamentos em formato de asas são muito recompensados por aficionados por armas. Appraisers colocam um alto preço neste item devido o detalhamento dos adornos.
 ITEM_20191024_023257	Misrus Crossbow
-ITEM_20191024_023258	{nl} {nl} - Block and Shoot damage increase buff activates when a Pavise is hit while under Block and Shoot buff
+ITEM_20191024_023258	{nl} {nl} - Efeito de aumento de dano de [Block and Shoot] ativa quando uma Pavise for alvejada enquanto estiver sob efeito de [Block and Shoot]
 ITEM_20191024_023259	Moringponia Mace
-ITEM_20191024_023260	{nl} {nl}Saving Prayer{nl}- Healing increases in proportion of Heal: Overload stacks{nl}1 stack: Healing {img green_up_arrow 16 16}60{nl}2 stacks: Healing {img green_up_arrow 16 16}240{nl}3 stacks: Healing {img green_up_arrow 16 16}600	{nl} {nl}구원의 기도{nl}- 힐: 과부화 중첩 수에 따라 치유력 상승 {nl} 1 중첩 : 치유력{img green_up_arrow 16 16}60{nl} 2 중첩 : 치유력{img green_up_arrow 16 16}240{nl} 3 중첩 : 치유력{img green_up_arrow 16 16}600
-ITEM_20191024_023261	One needs to look back at oneself before wielding this weapon. Responsibility is something that extends much farther than simply defeating one's enemy.
+ITEM_20191024_023260	{nl} {nl}[Oração Salvadora]{nl} - Taxa de Cura aumenta em proporção os acúmulos de [Heal: Sobrecarga]:{nl} - 1 acúmulo: Taxa de Cura {img green_up_arrow 16 16}60{nl} - 2 acúmulos: Taxa de Cura {img green_up_arrow 16 16}240{nl} - 3 acúmulos: Taxa de Cura {img green_up_arrow 16 16}600
+ITEM_20191024_023261	É preciso olhar para trás antes de empunhar esta arma. Responsabilidade é algo que se extende muito mais do que simplesmente derrotar seu inimigo.
 ITEM_20191024_023262	Misrus Mace
-ITEM_20191024_023263	{nl} {nl}Awaken Mind{nl}- Damage reduced effect increases as Heal: Overload stacks{nl}- Damage reduction 6% per stack, max. 30% reduction
-ITEM_20191024_023264	Misrus' breath is fused with saliva that holds great magical power. This weapon has been reinforced with Misurs' saliva, which has caused the weapon to become discolored.
+ITEM_20191024_023263	{nl} {nl}[Despertar da Mente]{nl} - Efeito de redução de dano aumenta conforme acumula o atributo [Heal: Sobrecarga]{nl} - 6% de redução de dano por acúmulo. Máximo 30% de redução
+ITEM_20191024_023264	O bafo do Misrus é combinado com a saliva, que possui grandes poderes mágicos. Esta arma foi reforçada com a saliva dele, o que fez com que a arma ficasse sem cor.
 ITEM_20191024_023265	Moringponia Two-handed Mace
-ITEM_20191024_023266	{nl} {nl}Overpower{nl}- Skill final damage increases based on the difference of STR between self and target when using Smite{nl}- Max. +145% increase (0.25% increase per STR difference of 1)
-ITEM_20191024_023267	The demons have long feared Moringponia's great power. Even after its death, they refuse to let their guard down because of this.
+ITEM_20191024_023266	{nl} {nl}[Subjugar]{nl} - Ao utilizar [Smite], o dano final aumenta baseado na diferença entre a sua STR e a do alvo{nl} - Máx. +145% de aumento (0.25% de aumento para cada 1 STR de diferença)
+ITEM_20191024_023267	Há muito tempo atrás, os demônios temiam o grande poder da Moringponia. Mesmo depois de sua morte, eles se recusam a baixar a guarda.
 ITEM_20191024_023268	Misrus Two-handed Mace
-ITEM_20191024_023269	{nl} {nl}Sacellum{nl}- Deploy Cappella duration {img green_up_arrow 16 16}15 seconds
-ITEM_20191024_023270	This two-handed blunt weapon has been created with Misrus' bodily fluids which has been used to cool down hot metal repeatedly for reinforcements and also to fuse the weapon with magical powers.
-ITEM_20191024_023271	 - Final Block Rate {img green_up_arrow 16 16}2%{nl} - 5% chance of resisting all removable debuffs
+ITEM_20191024_023269	{nl} {nl}[Sacellum]{nl} - Duração de [Deploy Cappella] {img green_up_arrow 16 16}15 segundos
+ITEM_20191024_023270	Esta grande maça foi criada com os fluidos corporais do Misrus, utilizados para resfriar o metal repetidamente afim de refinar e reforçar a arma, mas também para combinar os poderes mágicos dentro da arma.
+ITEM_20191024_023271	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}2%{nl} - 5% de chance de resistir todos os efeitos negativos que podem ser removidos
 ITEM_20191024_023272	Moringponia Shield
-ITEM_20191024_023273	 - Final Block Rate {img green_up_arrow 16 16}2%{nl}- 3 second Berserk buff when an attack is blocked{nl} {nl}Berserk{nl} - Critical rate x2 (cannot be stacked)
-ITEM_20191024_023274	A demonic equipment are at times very valuable to humans due to their hostile nature, which makes them perfect for use in combat. Blacksmiths who craft such equipment hope that humans do not exploit these weapons to use in evil acts.
+ITEM_20191024_023273	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}2%{nl} - Ao bloquear um ataque, ativa [Furioso] por 3 segundos{nl} {nl}[Furioso]{nl} - Taxa de Crítico x2 (não acumula)
+ITEM_20191024_023274	Um equipamento demoníaco é, em algumas vezes, muito valioso para os humanos devido sua natureza hostil, o que faz dele um item perfeito para ser utilizado em combate. Ferreirros que forjam tais equipamentos esperam que os humanos não abusem destes itens para atos malignos.
 ITEM_20191024_023275	Misrus Shield
-ITEM_20191024_023276	 - Final Block Rate {img green_up_arrow 16 16}2%{nl} {nl}Resonance{nl}- SP +3,500 when using Magic Shield for 60 second duration
-ITEM_20191024_023277	This is a replica of a shield found within Misrus' stomach. It is believed that this shield belonged to a Chesha who wished to defend itself from Misrus. While it was an ordinary shield to begin with, it has over time absorbed the magic energy inside Misrus' stomach and became a powerful artefact.
+ITEM_20191024_023276	 - Taxa de Bloqueio Final {img green_up_arrow 16 16}2%{nl} {nl}[Ressonância]{nl} - Ao utilizar [Magic Shield], SP +3.500 por 60 segundos
+ITEM_20191024_023277	Esta é uma réplica de um escudo encontrado no estômago do Misrus. Acredita-se que este escudo pertenceu a algum Chesha que desejava se defender do Misrus. Apesar de ser um escudo qualquer no início, ao longo do tempo acabou absorvendo a energia mágica dentro do estômago do monstro e se tornou um artefato poderoso.
 ITEM_20191024_023278	Moringponia Spear
-ITEM_20191024_023279	{nl} {nl}- Additional critical rate for Finestra{nl}Critical rate changed to 4% per skill level
-ITEM_20191024_023280	The make of the weapon affects heavily on how effective the weapon will be in combat especially for one-handed weapons. The weapon must be well balanced in weight for the wielder to truly unleash its potential.
+ITEM_20191024_023279	{nl} {nl} - Taxa de Crítico adicional para [Finestra]{nl} - Taxa de Crítico alterada para 4% por nível da habilidade
+ITEM_20191024_023280	A criação dos efeitos de uma arma afetam fortemente a efetividade da mesma em combate, especialmente armas de 1 mão. A arma precisa ser bem balanceada em peso para que o usuário consiga, de fato, liberar todo o seu potencial.
 ITEM_20191024_023281	Misrus Spear
-ITEM_20191024_023282	{nl} {nl}Expulsion{nl}- Reduces target's SP by -50{nl}when attacking a target under Shock or Rete debuff{nl}- Additional SP reduction equal to (Target's INT + SPR)/3
-ITEM_20191024_023283	Spear crafted using Misrus' magic. You can feel the spear vibrate with power when you concentrate. It is suspected that the vibration is caused by the volatility of Misrus' magic.
-ITEM_20191024_023284	{nl} {nl}Iron Will{nl} - Immunity to removable status ailments for 2 seconds when the following skills are used{nl} {nl} - Steed Charge{nl} - Joust{nl} - Rhongomiant{nl} - Dragon Fall{nl}
+ITEM_20191024_023282	{nl} {nl}[Expulsão]{nl} - Ao atacar um alvo sob o efeito de [Shock], ou preso nas redes do Retiarius, reduz o SP do alvo em -50{nl} - Redução adicional de SP igual à (INT + SPR do alvo)/3
+ITEM_20191024_023283	Lança forjada utilizando a magia do Misrus. Você consegue sentir esta lança vibrando com o poder que concentra dentro de si. Suspeita-se que a vibração é causada pela volatilidade da magia do Misrus.
+ITEM_20191024_023284	{nl} {nl}[Vontade de Ferro]{nl} - Ao utilizar as habilidades abaixo, garante 2 segundos de imunidade contra efeitos negativos que podem ser removidos:{nl} {nl} - [Steed Charge]{nl} - [Joust]{nl} - [Rhongomiant]{nl} - [Dragon Fall]{nl}
 ITEM_20191024_023285	Moringponia Pike
-ITEM_20191024_023286	{nl} {nl}Collision{nl}- Additional +100% critical rate for Rhongomiant{nl}- Rhongomiant stun duration +2 seconds
-ITEM_20191024_023287	The spikes here act as sort of conductors of magical energy which pierce the skin and deliver torment. It is made to inflict pain that is unparalleled on this earth.
+ITEM_20191024_023286	{nl} {nl}[Colisão]{nl}- 100% adicionais de Taxa de Crítico para a habilidade [Rhongomiant]{nl}- Aumenta em +2s a duração do efeito de [Stun] da habilidade [Rhongomiant]
+ITEM_20191024_023287	Os espinhos desta arma funcionam como um tipo de condutor de energia mágica, que perfura a pele e causa tortura. Foram feitos para causar uma dor sem precedentes neste mundo.
 ITEM_20191024_023288	Misrus Pike
-ITEM_20191024_023289	{nl} {nl}Overpower{nl}- Ignors block against targets under Gae Bulg
-ITEM_20191024_023290	This pike has been crafted using the crafting technique of the Chesha with repeated reinforcements. It takes an ordinary blacksmith much more skill and time to craft when compared with other pikes of similar build.
+ITEM_20191024_023289	{nl} {nl}[Subjugar]{nl}- Ignora o Bloqueio contra alvos sob o efeito de [Gae Bulg]
+ITEM_20191024_023290	Este pique foi forjado utilizando técnicas dos Chesha e repetidos refinos. Demanda muito mais tempo e habilidade de um ferreiro comum quando comparado com outros piques com estrutura parecida.
 ITEM_20191024_023291	Moringponia Dagger
-ITEM_20191024_023292	{nl} {nl}Stealth Strike{nl} - Additional +100% critical rate for Backstab, Behead
-ITEM_20191024_023293	It is a beautifully crafted dagger that is more than enough to make onlookers green with envy.
+ITEM_20191024_023292	{nl} {nl}[Ataque Furtivo]{nl}- 100% adicionais de Taxa de Crítico para as habilidades [Backstab] e [Behead]
+ITEM_20191024_023293	Esta é uma adaga forjada tão lindamente que é mais do que suficiente para os espectadores verdes de inveja.
 ITEM_20191024_023294	Misrus Dagger
-ITEM_20191024_023295	{nl} {nl}Wild Dance{nl}- Taglio continues until remaining STA becomes 1{nl}- Cannot recover STA while casting Taglio
-ITEM_20191024_023296	This dagger was created by improving upon a dagger that was found within the depths of the sewers. It was later revealed that the dagger was crafted using Misrus' claw, although no one knows who managed to steal the beast's claw.
+ITEM_20191024_023295	{nl} {nl}[Dança Selvagem]{nl}- [Taglio] continua até restar somente 1 de STA{nl}- Impossível recuperar STA enquanto estiver utilizando [Taglio]
+ITEM_20191024_023296	Esta adaga foi criada através da melhoria de uma adaga encontrada nas profundezas dos esgotos. Somente mais tarde foi descoberto que a adaga foi forjada utilizando uma garra do Misrus, apesar de ninguém saber quem foi que conseguiu uma garra desta fera.
 ITEM_20191024_023297	Moringponia Staff
-ITEM_20191024_023298	{nl} {nl}Rising Flame{nl}- Creates a flame pillar that lasts 5 seconds when an enemy is defeated using Fire property magic (max. 3 pillars){nl}- Flame pillars do damage equal to caster's Flame Ground skill every 0.5 second
-ITEM_20191024_023299	This weapon looks very much like the one wielded by Moringponia. It is just as powerful but you must always be careful not to become engulfed by the power this weapon possesses.
+ITEM_20191024_023298	{nl} {nl}[Chama Crescente]{nl}- Ao derrotar um inimigo utilizando magias do elemento Fogo, cria um pilar de fogo que dura 5 segundos (máximo 3 pilares){nl}- O dano dos pilares de fogo é igual ao da habilidade [Flame Ground] do usuário, e ocorre a cada 0.5 segundos
+ITEM_20191024_023299	Esta arma é muito parecida com a que a própria Moringponia carrega. É tão poderosa quanto, porém você precisa ter cuidado para não ser engolido pelo poder que esta arma possui.
 ITEM_20191024_023300	Moringponia Caster
-ITEM_20191024_023301	{nl} {nl}Flood{nl}- Casts Lv. 8 Slow when Water Shikigami hits target{nl}(Duration: 5 seconds)
-ITEM_20191024_023302	It is difficult to replicate the innate powers found in demonic weapons. But with excellent craftsmanship and elbow grease, it is possible to come close to reproducing the powers that the originals can produce.
+ITEM_20191024_023301	{nl} {nl}[Inundação]{nl}- Conjura [Slow] nível 8 quando a habilidade [Water Shikigami] acerta o alvo{nl}(Duração: 5 segundos)
+ITEM_20191024_023302	É difícil replicar os poderes inados encontrados em armas demoníacas. Porém, com uma excelente habilidade para forja e muito trabalho duro, é possível se aproximar da reprodução dos poderes originais deste tipo de arma.
 ITEM_20191024_023303	Misrus Staff
-ITEM_20191024_023304	{nl} {nl}Gravity Curve{nl}- Duration of Heavy Gravity {img green_up_arrow 16 16} 5 seconds{nl}- Reduces the damage received from Missile attacks by -50% for allies within the area of Heavy Gravity{nl} {nl}[Arts] 	{nl} {nl}중력 변곡점{nl} - 헤비 그라비티 지속시간 {img green_up_arrow 16 16}5초{nl} - 헤비 그라비티 효과 범위에 있는 아군은 미사일 타입으로 받는 피해 50% 감소{nl} {nl}[아츠] 
-ITEM_20191024_023305	Heavy Gravity: Distort
-ITEM_20191024_023306	 not affected 
+ITEM_20191024_023304	{nl} {nl}[Curva Gravitacional]{nl}- Duração de [Heavy Gravity] {img green_up_arrow 16 16} 5 segundos{nl}- Reduz em 50% o dano recebido de projéteis para os aliados dentro da área de [Heavy Gravity]{nl} {nl}[Arte] 
+ITEM_20191024_023305	Heavy Gravity: Distorção
+ITEM_20191024_023306	 não afetada 
 ITEM_20191024_023307	Moringponia Pistol
-ITEM_20191024_023308	{nl} {nl}Agress - Complacency{nl}- The damage received for player under Aggress debuff reduced by -30%
-ITEM_20191024_023309	A bullet cursed with the soul of a begrudged demon is effective in making the enemy suffer. But you must always be aware that this curse may come back to haunt you some day.
+ITEM_20191024_023308	{nl} {nl}[Aggress - Complacência]{nl}- Aumenta em 30% o dano em alvos sob o efeito de [Aggress]
+ITEM_20191024_023309	Uma bala amaldiçoada com o espírito de um demônio relutante é muito efetivo para fazer o inimigo sofrer. Porém, você precisa estar ciente de que esta maldição pode voltar para assombrar você algum dia.
 ITEM_20191024_023310	Moringponia Revolver
-ITEM_20191024_023311	 - Corsair skill levels {img green_up_arrow 16 16}2
-ITEM_20191024_023312	It is fatiguing to be shooting a bullet enchanted with the power of a demon lord. This revolver has underwent special procedures in order to lessen the burden from the shooter.
+ITEM_20191024_023311	 - Nível das habilidades de Corsair {img green_up_arrow 16 16}2
+ITEM_20191024_023312	É muito cansativo disparar uma bala encantada com o poder de um Demon Lord. Esta pistola passou por procedimentos especiais para reduzir o fardo sob aquele que dispara.
 ITEM_20191024_023313	Misrus Pistol
-ITEM_20191024_023314	{nl} {nl}Finishing Shot{nl}- Quick Draw's last overheat's final damage {img green_up_arrow 16 16}300%
-ITEM_20191024_023315	It was originally devised to fire tranquilizers that will put Misrus to sleep but was abandoned when they found out that Misrus could not be subdued in such a way. Despite the failure, it was still a great weapon as is.
-ITEM_20191024_023316	{nl} {nl}Epee Garde - Expertiese{nl} - Epee Garde's final damage +10% when critical occurs
+ITEM_20191024_023314	{nl} {nl}[Tiro de Misericórdia]{nl}- Dano final da última carga de [Quick Draw] {img green_up_arrow 16 16}300%
+ITEM_20191024_023315	Esta arma foi originalmente planejada para disparar tranquilizadores e fazer o Misrus dormir, mas o conceito foi abandonado quando descobriram que o Misrus não pode ser dominado desta forma. Apesar da falha, ainda assim era uma boa arma.
+ITEM_20191024_023316	{nl} {nl}[Epee Garde - Expertise]{nl} - Dano final de [Epee Garde] +10% quando ocorre dano crítico
 ITEM_20191024_023317	Moringponia Rapier
-ITEM_20191024_023318	{nl} {nl}Ole - Disfurtar{nl}- Ole duration {img green_up_arrow 16 16}10 seconds
-ITEM_20191024_023319	The blade of the rapier is designed to provide sharp aim, enabling the wielder to take the target's life at a single strike.
+ITEM_20191024_023318	{nl} {nl}[Ole - Disfrutar{nl}- Duração de [Ole] {img green_up_arrow 16 16}10 segundos
+ITEM_20191024_023319	A lâmida deste florete foi projetada para garantir uma mira precisa, permitindo ao portador tirar a vida do seu alvo com um único golpe.
 ITEM_20191024_023320	Misrus Rapier
-ITEM_20191024_023321	 - Attaque Composee number of hits {img green_up_arrow 16 16}2
-ITEM_20191024_023322	A lot of the weapons gathered by the Chesha from the Outer Walls districts were of high quality. We don't know who these weapons belonged to but some of them have immense power. Not recognizing the weapon's value, the Chesha have been using this rapier as a fork to use in feeding Misrus.
+ITEM_20191024_023321	 - Número de golpes de [Attaque Composee] {img green_up_arrow 16 16}2
+ITEM_20191024_023322	Várias das armas reunídas pelos Chesha nos distritos da Muralha Externa possuem uma alta qualidade. Não se sabe a quem estas armas pertenceram, mas algumas delas possuem um poder imenso. Não reconhecendo o valor desta arma em particular, os Chesha utilizaram este florete como um garfo para alimentar o Misrus.
 ITEM_20191024_023323	Moringponia Cannon
-ITEM_20191024_023324	{nl} {nl}- Canister Shot target {img green_up_arrow 16 16}5
-ITEM_20191024_023325	Staring into this cannon's muzzle has a mesmerizing effect.
+ITEM_20191024_023324	{nl} {nl}- Alvos de [Canister Shot] {img green_up_arrow 16 16}5
+ITEM_20191024_023325	Olhar atentamente para a boca deste canhão causa um efeito hipnotizante.
 ITEM_20191024_023326	Misrus Cannon
-ITEM_20191024_023327	{nl} {nl}Sweeping Cannon - Napalm{nl}- Applies 5 second of debuff when Sweeping Cannon hits{nl}- Additionally deals 10% of the damage dealt every second
-ITEM_20191024_023328	The Chesha had used this cannon to shoot the cannon ball into the Misrus' mouth in order to subdue it. Even if they had managed to blow one head off, they would have been eaten alive by its other head.
-ITEM_20191024_023329	{nl} {nl}Eye of the Tiger - Concentration{nl} - Eye of the Tiger duration {img green_up_arrow 16 16}3 seconds
+ITEM_20191024_023327	{nl} {nl}[Sweeping Cannon - Napalm]{nl}- Ao atacar com [Sweeping Cannon], aplica um efeito que dura 5 segundos{nl}- Causa 10% de dano adicional por segundo, com base no dano original
+ITEM_20191024_023328	Os Chesha utilizaram este canhão para disparar uma balas de canhão contra a boca do Misrus, uma tentativa de dominá-lo. Mesmo que eles conseguissem explodir ao menos uma das cabeças, eles teriam sido devorados pela outra.
+ITEM_20191024_023329	{nl} {nl}[Eye of the Tiger - Concentração]{nl} - Duração de [Eye of the Tiger] {img green_up_arrow 16 16}3 segundos
 ITEM_20191024_023330	Moringponia Musket
-ITEM_20191024_023331	{nl} {nl}Musket Overheat{nl}- Buff applied 1 second after using Prime and Load{nl}- Critical rate increases according to the cooldown time on Prime and Load{nl}- Under 40 sec: Critical rate {img green_up_arrow 16 16}30{nl}- 45~50 sec: Critical rate {img green_up_arrow 16 16}60{nl}- 55~60 sec: Critical rate {img green_up_arrow 16 16}150{nl}Buff is maintained while Prime and Load is on cooldown
-ITEM_20191024_023332	This rifles long shaft helps stabilize the collision of magical energy that occurs when bullets are fired. The widened muzzle also helps to spread the knockback that occurs from the sheer force that occurs when firing.
+ITEM_20191024_023331	{nl} {nl}[Mosquete Sobrecarregado]{nl}- Efeito ativa 1 segundo após utilizar [Prime and Load]{nl}- Taxa de Crítico aumenta conforme o cooldown de [Prime and Load]:{nl}- Até 40seg: Taxa de Crítico {img green_up_arrow 16 16}30{nl}- 45~50seg: Taxa de Crítico {img green_up_arrow 16 16}60{nl}- 55~60seg: Taxa de Crítico {img green_up_arrow 16 16}150{nl}- O efeito é mantido enquanto [Prime and Load] está em cooldown
+ITEM_20191024_023332	O longo eixo deste mosquete ajuda a estabilizar a colisão de energia mágica que acontece quando as balas são disparadas. A boca mais larga também ajuda a diminuir o ricochete que acontece da força bruta ao disparar.
 ITEM_20191024_023333	Misrus Musket
-ITEM_20191024_023334	{nl} {nl}Ambush - Exterminator{nl}- Ambush skill final damage {img green_up_arrow 16 16}30%{nl}- Target dismounted from companion and unable to mount again for 10 sec when Ambush hits
-ITEM_20191024_023335	The Chesha have gathered weapons in order to prepare for Misrus' rampage. This musket was one of the weapons they had found while searching the Outer Walls district. It was heavily modified in order to be effective against Misrus, so it is also highly effective in battling demons and monsters.
-ITEM_20191024_023336	 - Triggers the Ignas - Immunity buff when equipped{nl} {nl}Ignas - Immunity{nl} - Grants a (2.5 * Ignas - Immunity stacks)% chance of resisting all removable debuff.
+ITEM_20191024_023334	{nl} {nl}[Ambush - Exterminador]{nl}- Dano final de [Ambush] {img green_up_arrow 16 16}30%{nl}- Quando [Ambush] acerta o alvo, o mesmo desmonta do Companion e não pode montar novamente por 10 segundos
+ITEM_20191024_023335	Os Chesha reuniram várias armas para se prepararem contra a raiva do Misrus. Este mosquete é uma destas armas, encontado enquanto eles procuravam pelos distritos da Muralha Externa. Esta arma foi muito modificada para poder ser utilizada contra o Misrus, portanto é muito efetiva contra demônios e monstros.
+ITEM_20191024_023336	 - Ativa [Ignas - Imunidade] ao equipar{nl} {nl}[Ignas - Imunidade]{nl} - (2.5 * Acúmulos de [Ignas - Imunidade])% de chance de resistir efeitos negativos que podem ser removidos
 ITEM_20191024_023337	Moringponia Plate Armor
-ITEM_20191024_023338	 - Activates Moringponia - Backlight buff when equipped{nl} {nl}Moringponia - Backlight{nl}- Resistance against Blind state {img green_up_arrow 16 16} (number of stacks x 7)
-ITEM_20191024_023339	Plate is material that maintains its shape even under heavy modification. Being made of plate, this armor has also suffered tremendous amounts of stress for it to reach its current state of perfection.
+ITEM_20191024_023338	 - Ativa [Moringponia - Luz de Fundo] ao equipar{nl} {nl}[Moringponia - Luz de Fundo]{nl}- Resistência contra [Blind] {img green_up_arrow 16 16} (acúmulos x 7)
+ITEM_20191024_023339	Metal é um material que mantém o seu formato mesmo sob pesadas modificações. Por ser feita de metal, esta armadura também passou por inúmeras alterações e conflitos até alcançar seu estado de perfeição.
 ITEM_20191024_023340	Moringponia Robe
-ITEM_20191024_023341	 - Activates Moringponia - Winterize buff when equipped{nl} {nl}Moringponia - Winterize{nl} - Resistance against Freeze state {img green_up_arrow 16 16} (number of stacks x 7)
-ITEM_20191024_023342	The fur used to craft this robe has been colored with the dye created using Moringponia's magic. The end product of this volatile process is rather impressive.
+ITEM_20191024_023341	 - Ativa [Moringponia - Invernal] ao equipar{nl} {nl}[Moringponia - Invernal]{nl}- Resistência contra [Freeze] {img green_up_arrow 16 16} (acúmulos x 7)
+ITEM_20191024_023342	O pelo utiliado para criar este manto foi tingido com uma tintura criada a partir da magia da Moringponia. O produto final deste processo volátil é um tanto quanto impressionante.
 ITEM_20191024_023343	Moringponia Leather Armor
-ITEM_20191024_023344	 - Activates Moringponia - Zen buff when equipped{nl} {nl}Moringponia - Zen{nl}- Resistance against Stun state {img green_up_arrow 16 16} (number of stacks x 7)
-ITEM_20191024_023345	At first, the magic used in crafting this armor caused it to erode quickly. It was later found that demon bones had the power to hold back the erosion process. It is something that is not understood fully but no other magic has this property.
+ITEM_20191024_023344	 - Ativa [Moringponia - Zen] ao equipar{nl} {nl}[Moringponia - Zen]{nl}- Resistência contra [Stun] {img green_up_arrow 16 16} (acúmulos x 7)
+ITEM_20191024_023345	Primeiramente, a magia utilizada para criar esta armadura fez com que ela corroesse rapidamente. Somente mais tarde foi descoberto que os ossos de demônios tinham o poder para segurar o efeito da erosão. É algo que não é entendido completamente, porém nenhuma outra magia possui esta capacidade.
 ITEM_20191024_023346	Misrus Plate Armor
-ITEM_20191024_023347	 - Activates Misrus - Harden buff when equipped{nl} {nl}Misrus - Harden{nl}- Physical and Magic Defense {img green_up_arrow 16 16} (number of stacks x 800) for 15 seconds when using SP Potion
-ITEM_20191024_023348	A plate armor created by mixing Misrus' bonemeal with molten metal. It was not easy to grind Misrus' bones into dust but the results were more than satisfactory.
+ITEM_20191024_023347	 - Ativa [Misrus - Firmeza] ao equipar{nl} {nl}[Misrus - Firmeza]{nl}- Defesa Física e Mágica {img green_up_arrow 16 16} (acúmulos x 800) por 15 segundos, ao utilizar uma Poção de SP
+ITEM_20191024_023348	Uma armadura de metal criada ao misturar ossos de misrus pulverizados e metal fundido. Não foi fácil triturar os ossos do Misrus em pó, mas os resultados foram muito satisfatórios.
 ITEM_20191024_023349	Misrus Robe
-ITEM_20191024_023350	 - Activates Misrus - Lucid buff when equipped{nl} {nl}Misrus - Lucid{nl}- SPR {img green_up_arrow 16 16} (number of stacks x 30) for 15 seconds when using HP Potion
-ITEM_20191024_023351	There were many cloth armor scattered around the sewers. It seemed that the Chesha were fond of cloth armor. Some of the cloth armor found in the sewers were of high craftsmanship.
+ITEM_20191024_023350	 - Ativa [Misrus - Lucidez] ao equipar{nl} {nl}[Misrus - Lucidez]{nl}- SPR {img green_up_arrow 16 16} (acúmulos x 30) por 15 segundos, ao utilizar uma poção de HP
+ITEM_20191024_023351	Haviam várias armaduras de tecido espalhadas ao redor dos esgotos. Parece que os Chesha gostavam deste tipo de armadura. Algumas destas armaduras encontradas no esgoto foram feitas por artesãos muito capacitados.
 ITEM_20191024_023352	Misrus Leather Armor
-ITEM_20191024_023353	 - Activates Misrus - Potential buff when equipped{nl} {nl}Misrus - Potential{nl}- Max. Physical and Magic Attack {img green_up_arrow 16 16} (number of stacks x 250) for 10 seconds when using HP Potion
-ITEM_20191024_023354	Crafted using the leather that has been wrapped around Misrus' body. It is highly durable and great armor can be crafted using it.
+ITEM_20191024_023353	 - Ativa [Misrus - Potencial] ao equipar{nl} {nl}[Misrus - Potencial]{nl}- Ataque Físico e Mágico máximo {img green_up_arrow 16 16} (acúmulos x 250) por 10 segundos, ao utilizar uma Poção de HP
+ITEM_20191024_023354	Construída utilizando o couro que estava enrolado no corpo do Misrus. Este material é muito durável e grandes armaduras podem ser forjadas dele.
 ITEM_20191024_023355	Moringponia Plate Pants
 ITEM_20191024_023356	Moringponia Pants
 ITEM_20191024_023357	Moringponia Leather Pants
@@ -23374,16 +23374,16 @@ ITEM_20191024_023373	Adventurer's Necklace (7 Days)
 ITEM_20191024_023374	It lightens the heart, preparing the wearer for the weary road ahead.
 ITEM_20191024_023375	Adventurer's Bracelet (7 Days)
 ITEM_20191024_023376	Red TOS Ranger Costume (Male)
-ITEM_20191024_023377	Costume worn by the leader of the TOS Rangers.{nl}Use to change your appearance. Allows you to use 
+ITEM_20191024_023377	Costume worn by the leader of the TOS Rangers.{nl}Use para alterar a sua aparência. Allows you to use 
 ITEM_20191024_023378	Red TOS Ranger Costume (Female)
 ITEM_20191024_023379	TOS Ranger Pink Costume (Male)
-ITEM_20191024_023380	Costume worn by the Pink TOS Ranger.{nl}Use to change your appearance. Allows you to use 
+ITEM_20191024_023380	Costume worn by the Pink TOS Ranger.{nl}Use para alterar a sua aparência. Allows you to use 
 ITEM_20191024_023381	Blue TOS Ranger Costume (Female)
-ITEM_20191024_023382	Costume worn by the Blue TOS Ranger.{nl}Use to change your appearance. Allows you to use 
+ITEM_20191024_023382	Costume worn by the Blue TOS Ranger.{nl}Use para alterar a sua aparência. Allows you to use 
 ITEM_20191024_023383	Green TOS Ranger Costume (Male)
-ITEM_20191024_023384	Costume worn by the Green TOS Ranger.{nl}Use to change your appearance. Allows you to use 
+ITEM_20191024_023384	Costume worn by the Green TOS Ranger.{nl}Use para alterar a sua aparência. Allows you to use 
 ITEM_20191024_023385	Yellow TOS Ranger Costume (Female)
-ITEM_20191024_023386	Costume worn by the Yellow TOS Ranger.{nl}Use to change your appearance. Allows you to use 
+ITEM_20191024_023386	Costume worn by the Yellow TOS Ranger.{nl}Use para alterar a sua aparência. Allows you to use 
 ITEM_20191024_023387	Red TOS Ranger Costume - Transform
 ITEM_20191024_023388	TOS Ranger Transfomation Costume
 ITEM_20191024_023389	Pink TOS Ranger Costume - Transform
@@ -23391,33 +23391,33 @@ ITEM_20191024_023390	Blue TOS Ranger Costume - Transform
 ITEM_20191024_023391	Yellow TOS Ranger Costume - Transform
 ITEM_20191024_023392	Green TOS Ranger Costume - Transform
 ITEM_20191024_023393	Black Rabbit Costume
-ITEM_20191024_023394	A Black Rabbit costume perfect for a spooky night.{nl}Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023394	A Black Rabbit costume perfect for a spooky night.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023395	Candy Killer Rascal Costume (Male)
-ITEM_20191024_023396	A popular Trick-or-treating costume among children.{nl}Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023396	A popular Trick-or-treating costume among children.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023397	Candy Killer Clown Costume (Female)
 ITEM_20191024_023398	Haunted Hospital Nurse Costume (Male)
-ITEM_20191024_023399	A costume of a spooky nurse guarding the haunted hospital.{nl}Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023399	A costume of a spooky nurse guarding the haunted hospital.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023400	Haunted Hospital Nurse Costume (Female)
 ITEM_20191024_023401	Skull Party Skeleton Costume (Male)
-ITEM_20191024_023402	A costume required for the living to join in the Skull Party.{nl}Use to change your appearance.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023402	A costume required for the living to join in the Skull Party.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023403	Skull Party Skeleton Costume (Female)
 ITEM_20191024_023404	Champa Hairpin
 ITEM_20191024_023405	A fragrant hairpin made using Champa flower. The Champa flower symbolizes 
 ITEM_20191024_023406	friendship
-ITEM_20191024_023407	.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023407	.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023408	Yellow Beanie
-ITEM_20191024_023409	Attire worn by the TOS Rangers when off duty.{nl} Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023409	Attire worn by the TOS Rangers when off duty.{nl} Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023410	Checkered Hat
 ITEM_20191024_023411	TOS Ranger Hairpin
-ITEM_20191024_023412	Hairpin worn by the Yellow TOS Ranger when off duty.{nl} Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023412	Hairpin worn by the Yellow TOS Ranger when off duty.{nl} Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023413	TOS Ranger Glasses
-ITEM_20191024_023414	Glasses worn by Green TOS Ranger when off duty.{nl} Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023414	Glasses worn by Green TOS Ranger when off duty.{nl} Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023415	Clown Mask
-ITEM_20191024_023416	A creepy clown mask.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023416	A creepy clown mask.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023417	Butcher Knife Headband
-ITEM_20191024_023418	A headband in the shape of a butcher's knife.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023418	A headband in the shape of a butcher's knife.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023419	Skull Party Mask
-ITEM_20191024_023420	A skull mask that can be worn at the Skull Party.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023420	A skull mask that can be worn at the Skull Party.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023421	TOS Ranger Sword
 ITEM_20191024_023422	TOS Ranger Two-handed Sword
 ITEM_20191024_023423	TOS Ranger Spear
@@ -23524,7 +23524,7 @@ ITEM_20191024_023523	Weapons like these with low slashing power can easily end u
 ITEM_20191024_023524	Seeing as so many weapons are absorbed into the Wastrel's body, one would think at least some of them would be deployed inside of it.{nl}- Can be extracted or transmuted for Ichor.
 ITEM_20191024_023525	This weapon was not absorbed into the Wastrel's body by traveling through the gap that appeared during Medzio Diena. It is said to have been carried by an adventurer who attempted to defeat the Wastrel.{nl}- Can be extracted or transmuted for Ichor.
 ITEM_20191024_023526	Crescent Moon
-ITEM_20191024_023527	Displays a crescent moon behind the character.{nl}- Effect is displayed when stationary.{nl}- Effects are removed when entering combat.{nl}Can be exchanged for medals at the Exchange Shop.
+ITEM_20191024_023527	Displays a crescent moon behind the character.{nl}- Effect is displayed when stationary.{nl}- Effects are removed when entering combat.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023528	Kedoran Primus Migantis Sword
 ITEM_20191024_023529	Kedoran Primus Migantis Two-handed Sword
 ITEM_20191024_023530	Kedoran Primus Migantis Rod
@@ -24902,7 +24902,7 @@ ITEM_20191104_024900	Can be used on Scarecrows to make the Wicked Witch vulnerab
 ITEM_20191111_024901	Level Up Chest	레벨업 상자
 ITEM_20191114_024902	Lv.400 Stage 10 Transcendence Scroll	Lv.400 10초월 스크롤				
 ITEM_20191125_024903	Fluffy Sparrow Egg	복실복실 참새 알
-ITEM_20191125_024904	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without a riding skill.{nl}This companion increases the character's movement speed by +2.{nl} Can be exchanged for medals at the Exchange Shop.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl} 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능합니다. {nl} 해당 컴패니언과 동행 시 이동 속도 +2 증가 버프를 얻습니다.{nl} 리사이클 메달로 교환 가능합니다.
+ITEM_20191125_024904	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without a riding skill.{nl}This companion increases the character's movement speed by +2.{nl} Pode ser trocado por Medalhas na Loja de Trocas.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl} 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능합니다. {nl} 해당 컴패니언과 동행 시 이동 속도 +2 증가 버프를 얻습니다.{nl} 리사이클 메달로 교환 가능합니다.
 ITEM_20191203_024905	NA	[이벤트] 4주년 폭죽
 ITEM_20191203_024906	NA	트리 오브 세이비어 4주년을 기념하기 위해 제작된 폭죽입니다.{nl}매일 이벤트 게시판 NPC에게 팀당 1회 획득 및 4주년 기념 상점에서도 구입할 수 있습니다.{nl}사용 시, 사용자에게 최대 24시간 지속되는 [이벤트] 4주년 x2 버프 효과를 얻을 수 있습니다. 해당 효과 적용 시 [이벤트] 4주년 기념 주화의 획득량이 2배 증가합니다.{nl}20년 1월 9일 점검 시 삭제됩니다.{nl} [이벤트] 4주년 x3버프와 중첩 시 [이벤트] 4주년 기념 주화의 획득량이 5배로 증가합니다.
 ITEM_20191203_024907	NA	[이벤트] 4주년 투게더 폭죽
@@ -24912,32 +24912,32 @@ ITEM_20191203_024910	Use para abrir o Baú Real Natalino, em Klaipeda, e obter u
 ITEM_20191203_024911	NA	[이벤트] 신비한 크리스마스 열쇠
 ITEM_20191203_024912	NA	클라페다에 위치한 신비한 크리스마스 상자를 열어 아래 아이템 중 각기 다른 확률로 한 개의 아이템을 획득할 수 있습니다.{nl}[이벤트]특성 포인트 10,000 x1{nl}[이벤트]특성 포인트 1,000 x1{nl}[이벤트]특성 포인트 500 x1{nl}축복이 깃든 씨앗(14일) x1{nl}여신의 조각상(14일) x1{nl}[이벤트] 길드 퀘스트 보상 주화 : 은 x1{nl}레이드 포탈 스톤 x1{nl}19년 12월 26일 점검시, 일괄 삭제됩니다.
 ITEM_20191216_024913	Sparking Tree Head Costume	빛나는 트리 헤드 코스튬
-ITEM_20191216_024914	Putting this on would make everyone want to come and decorate you.{nl}Can be exchanged for medals at the Exchange Shop.	이 트리 장식을 머리에 쓴다면 귀여운 아이들이 몰려와 예쁜 장식들로 꾸며줄 겁니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024914	Putting this on would make everyone want to come and decorate you.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	이 트리 장식을 머리에 쓴다면 귀여운 아이들이 몰려와 예쁜 장식들로 꾸며줄 겁니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024915	Sparking Tree Trunk Costume	빛나는 트리 줄기 코스튬
-ITEM_20191216_024916	You can't help but feel that you're growing when dressed in this costume.{nl}Can be exchanged for medals at the Exchange Shop.	이 줄기 옷을 입고서 비를 맞으면 점점 자라나고 있다는 착각이 듭니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024916	You can't help but feel that you're growing when dressed in this costume.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	이 줄기 옷을 입고서 비를 맞으면 점점 자라나고 있다는 착각이 듭니다.{nl}리사���클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024917	Platina Dafne Costume (Male)	플래티나 다프네 코스튬 (남)
-ITEM_20191216_024918	Clothes worn by fairies that greet the first snow of the winter morning.{nl}Can be exchanged for medals at the Exchange Shop.	겨울의 아침, 새벽 동안 내린 눈을 가장 먼저 맞이하는 요정의 옷입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024918	Clothes worn by fairies that greet the first snow of the winter morning.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	겨울의 아침, 새벽 동안 내린 눈을 가장 먼저 맞이하는 요정의 옷입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024919	Platina Dafne Costume (Female)	플래티나 다프네 코스튬 (여)
 ITEM_20191216_024920	Crimson Noel Costume (Male)	크림슨 노엘 코스튬 (남)
-ITEM_20191216_024921	Clothes worn by fairies that soothe the tired people in the Winter evenings.{nl}Can be exchanged for medals at the Exchange Shop.	겨울의 오후, 추위에 지친 사람들을 달래주는 요정의 옷입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024921	Clothes worn by fairies that soothe the tired people in the Winter evenings.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	겨울의 오후, 추위에 지친 사람들을 달래주는 요정의 옷입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024922	Crimson Noel Costume (Female)	크림슨 노엘 코스튬 (여)
 ITEM_20191216_024923	Midnight Snow Costume (Male)	미드나이트 스노우 코스튬 (남)
-ITEM_20191216_024924	Costume worn by fairies when greeting the new dawn during Winter nights.{nl}Can be exchanged for medals at the Exchange Shop.	겨울의 밤, 새벽을 맞이하기 위해 감청색의 장막으로 하늘을 가리는 요정의 옷입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024924	Costume worn by fairies when greeting the new dawn during Winter nights.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	겨울의 밤, 새벽을 맞이하기 위해 감청색의 장막으로 하늘을 가리는 요정의 옷입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024925	Midnight Snow Costume (Female)	미드나이트 스노우 코스튬 (여)
 ITEM_20191216_024926	Snowy Reindeer Antlers	눈덮힌 순록뿔
-ITEM_20191216_024927	The antlers of a reindeer flying over the Winter night sky.{nl}Can be exchanged for medals at the Exchange Shop.	한겨울에 밤하늘을 날아다니던 순록의 뿔입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024927	The antlers of a reindeer flying over the Winter night sky.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	한겨울에 밤하늘을 날아다니던 순록의 뿔입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024928	Snowy Deer Antlers	눈덮힌 꽃사슴뿔
-ITEM_20191216_024929	The antlers of a deer flying over the Winter night sky.{nl}Can be exchanged for medals at the Exchange Shop.	소중한 사람에게 선물을 주고 싶은 마음으로 밤하늘을 날아다니던 꽃사슴의 뿔입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024929	The antlers of a deer flying over the Winter night sky.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	소중한 사람에게 선물을 주고 싶은 마음으로 밤하늘을 날아다니던 꽃사슴의 뿔입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024930	Jingle Bell Earmuffs	징글벨 귀마개
-ITEM_20191216_024931	Jingles everytime the Winter wind blows.{nl}Can be exchanged for medals at the Exchange Shop.	차가운 겨울바람에 흔들리면 짤랑거리는 소리를 냅니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024931	Jingles everytime the Winter wind blows.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	차가운 겨울바람에 흔들리면 짤랑거리는 소리를 냅니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024932	Present Wrapper Ribbon	별장식 포장리본
-ITEM_20191216_024933	A present for someone special.{nl}Can be exchanged for medals at the Exchange Shop.	모두가 누군가에게는 소중한 선물입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024933	A present for someone special.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	모두가 누군가에게는 소중한 선물입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024934	Christmas Party Hat	크리스마스 콘
-ITEM_20191216_024935	You can become the star of the party with this party hat.{nl}Can be exchanged for Medals at the Exchange Shop.	사람들이 북적이는 겨울의 휴일, 눈에 띄는 주인공이 될 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024935	You can become the star of the party with this party hat.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	사람들이 북적이는 겨울의 휴일, 눈에 띄는 주인공이 될 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024936	Snowman Nose	당근 코
-ITEM_20191216_024937	A snowman nose made out of a carrot.{nl}Can be exchanged for Medals at the Exchange Shop.	당근 코를 끼면 모든 음식에서 당근 냄새를 맡을 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024937	A snowman nose made out of a carrot.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	당근 코를 끼면 모든 음식에서 당근 냄새를 맡을 수 있습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024938	Santa Beard	산타 수염
-ITEM_20191216_024939	Warmer than a real beard. The moustache stays in shape no matter what.{nl}Can be exchanged for Medals at the Exchange Shop.	진짜 수염보다도 곱고 따듯합니다. 양 끝이 위로 휘어진 콧수염은 어떤 일이 있어도 쳐지지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024939	Warmer than a real beard. The moustache stays in shape no matter what.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	진짜 수염보다도 곱고 따듯합니다. 양 끝이 위로 휘어진 콧수염은 어떤 일이 있어도 쳐지지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024940	Aurora Dafne Two-handed Sword	오로라 다프네 투 핸드 소드
 ITEM_20191216_024941	Ice Crystal Spear	얼음결정 스피어
 ITEM_20191216_024942	Ice Crystal Pike	얼음결정 파이크
@@ -24953,8 +24953,8 @@ ITEM_20191216_024951	Ice Crystal Staff	얼음결정 스태프
 ITEM_20191216_024952	Candy Cane Rod	캔디케인 로드
 ITEM_20191216_024953	Twinkle Shield	트윙클 실드
 ITEM_20191216_024954	Little Twinkle Star	작은 별이 반짝반짝
-ITEM_20191216_024955	A decoration inspired by the stars of the galaxy.{nl}Can be exchanged for Medals at the Exchange Shop.	서쪽 하늘부터 동쪽 하늘까지 이어지는 은하수를 보고 만든 장식입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024955	A decoration inspired by the stars of the galaxy.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	서쪽 하늘부터 동쪽 하늘까지 이어지는 은하수를 보고 만든 장식입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024956	Evergreen and Bountiful	붉은 열매가 아롱다롱
-ITEM_20191216_024957	A wing costume adorned with bountiful fruits.{nl}Can be exchanged for Medals at the Exchange Shop.	일 년 동안 좋은 일을 많이 한 사람을 위해서만 열린다는 신비한 열매가 달린 날개 장식입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024957	A wing costume adorned with bountiful fruits.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	일 년 동안 좋은 일을 많이 한 사람을 위해서만 열린다는 신비한 열매가 달린 날개 장식입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024958	Midnight Starlight	미드나이트 스타라이트
-ITEM_20191216_024959	For a brief moment, the birds of the night sky become one with the stars of the night.{nl}Can be exchanged for Medals at the Exchange Shop.	아주 짧은 자정의 한순간, 별들은 새가 되어 밤하늘을 수놓는 별자리를 만듭니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
+ITEM_20191216_024959	For a brief moment, the birds of the night sky become one with the stars of the night.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	아주 짧은 자정의 한순간, 별들은 새가 되어 밤하늘을 수놓는 별자리를 만듭니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
