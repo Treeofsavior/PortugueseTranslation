@@ -14968,7 +14968,7 @@ SKILL_20190112_014967	Raise Dead: Coletar Corpos
 SKILL_20190112_014968	* Quando um Esqueleto Soldado derrotar um monstro, o Necronomicon ganha 1 fragmento adicional por nível do atributo.{nl}* Consumo de SP + 10%	
 SKILL_20190122_014969	Taxa de Crítico: +#{CaptionRatio}#% aplicado{nl}Evasão: -20%{nl}Duração: #{CaptionTime}# segundos	
 SKILL_20190122_014970	Additional Taxa de Crítico applied, evasion reduced	치명타 발생 추가 적용, 회피 감소
-SKILL_20190122_014971	Fire Property Skill Damage Increased	불 속성 스킬 대미지 증가
+SKILL_20190122_014971	Poison Property Skill Damage Increased	불 속성 스킬 대미지 증가
 SKILL_20190122_014972	* Garante 10% de chance por habilidade usada de aumentar o dano de ataques do elemento Fogo em 30% por 5 segundos	
 SKILL_20190126_014973	+#{CaptionRatio3}#% de dano por acúmulo.{nl}Máximo de acúmulos: #{CaptionRatio2}# ataques{nl}Consome 101 SP{nl}Vel. Ataque básico: +#{CaptionRatio}#	
 SKILL_20190126_014974	Aplica uma chance de saquear Silver sempre que atacar um monstro.	
@@ -16068,8 +16068,8 @@ SKILL_20191024_016067	Summons a holy torch, reducing the duration of status ailm
 SKILL_20191024_016068	Torch Duration: 30 seconds{nl}Additional Fire Damage on Melee and Magic Attacks: #{CaptionRatio2}#	횃불 지속시간 30초{nl}근접, 마법 공격 시 불 속성 추가 대미지 #{CaptionRatio2}# 적용
 SKILL_20191024_016069	Accuracy: +#{CaptionRatio}#%{nl}Minimum Critical Rate: +#{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds	명중 #{CaptionRatio}#% 증가{nl}최소 치명타 확률 #{CaptionRatio2}#% 증가{nl}지속시간 #{CaptionTime}#초
 SKILL_20191024_016070	Create a magic circle that calls down bolts of lightning on an enemy using the power of the God of Thunder.{nl}25% chance to stagger enemy for 0.2 seconds.{nl}Increases movement speed by +10 for a 3-second duration.	뇌신의 힘으로 적에게 번개를 떨어뜨리는 마법진을 생성합니다.{nl}히트 시 25%확률로 적에게 0.2초간 경직을 줍니다.{nl}사용시 3초간 이동속도 10증가합니다.
-SKILL_20191024_016071	Applies [Meltdown] debuff on enemies during Melstis buff (max. 10 stacks) and damages the debuffed target and other enemies in the proximity.{nl}Debuff chance: 75% with basic attacks, 25% with skill attacks	멜스티스 버프중 일정 확률로 적에게 최대 10중첩이 가능한 [멜트다운] 디버프를 걸고, 디버프 걸린 대상과 주위 적에게 광역 피해를 줍니다.{nl} 디버프 확률 : 기본 공격 75%, 스킬 공격 25%
-SKILL_20191024_016072	Buff duration: 60 seconds{nl}[Meltdown] duration: 20 seconds, Magic Defense reduced by [Stack] x 1%{nl}[Stack] x #{CaptionRatio}# fixed damage every 2 seconds{nl}Consumes Holy Powder x5	버프 지속시간 60초{nl}[멜트다운]지속 시간 : 20초{nl} 물리, 마법 방어력 [중첩수]*1% 감소{nl}2초당 [중첩수] * #{CaptionRatio}# 고정 대미지{nl}홀리 파우더 5개 소모
+SKILL_20191024_016071	Applies the [Meltdown] debuff on enemies while active (max. 10 stacks) and periodically damages the debuffed target and other enemies in the proximity.{nl}Debuff chance: 75% with basic attacks, 25% with skill attacks	멜스티스 버프중 일정 확률로 적에게 최대 10중첩이 가능한 [멜트다운] 디버프를 걸고, 디버프 걸린 대상과 주위 적에게 광역 피해를 줍니다.{nl} 디버프 확률 : 기본 공격 75%, 스킬 공격 25%
+SKILL_20191024_016072	Buff duration: 60 seconds{nl}[Meltdown] duration: 20 seconds, Physical and Magic Defense reduced by [Stack] x 1%{nl}[Stack] x #{CaptionRatio}# fixed damage every 2 seconds{nl}Consumes Holy Powder x5	버프 지속시간 60초{nl}[멜트다운]지속 시간 : 20초{nl} 물리, 마법 방어력 [중첩수]*1% 감소{nl}2초당 [중첩수] * #{CaptionRatio}# 고정 대미지{nl}홀리 파우더 5개 소모
 SKILL_20191024_016073	Move your spirit out of the body. The spirit can only move near the body. Your evasion increases and damage received is reduced while the spirit is outside the body.{nl}When using the Out of Body skill and while out of body, explosions occur around your spirit form to damage nearby enemies.{nl}The character's actual body becomes immune to knock backs and knockdowns.{nl}Cooldown is reset when used against enemies under Possession.{nl}All debuffs cast while out of body is removed when the spirit form returns to the body.	자신의 유체를 이탈시킵니다. 유체는 본체 주변에서만 움직일 수 있습니다. 유체 상태에서는 회피가 증가하며, 받는 피해량이 감소합니다.{nl}유체 이탈 시, 그리고 이후 유체이탈 스킬 사용 시 유체 주변에 폭발이 일어나 주변에 피해를 줍니다.{nl}본체는 넉백, 넉다운에 면역이 됩니다.{nl}포제션에 걸린 적에게 사용시 재사용 대기 시간이 초기화 됩니다.{nl}유체를 활용하여 디버프를 걸었을 경우, 유체를 회수하면 걸었던 디버프는 사라집니다.
 SKILL_20191024_016074	Skill Factor: #{SkillFactor}#%{nl}AoE attack ratio: #{SkillSR}#{nl}Astral movement range: #{CaptionRatio}#{nl}Evasion: +#{CaptionRatio2}#%{nl}Received damage: -#{CaptionRatio3}#%{nl}Astral movement speed 55	스킬 계수 #{SkillFactor}#%{nl}광역 공격 비율 #{SkillSR}#{nl}유체 이동 범위 #{CaptionRatio}#{nl}회피 #{CaptionRatio2}#% 증가{nl}받는 피해 #{CaptionRatio3}#% 감소{nl}유체 이동속도 55
 SKILL_20191024_016075	Resets the cooldown of all Monk skills and briefly increases damage of all Monk skills.{nl}Player becomes immune to all removable debuffs during the buff's duration.	사용 즉시 몽크 스킬의 재사용 대기시간을 초기화하고, 잠시 동안 몽크 스킬의 대미지가 증가합니다.{nl}버프 중에는 일반 해제 가능한 모든 디버프에 면역이 됩니다.
@@ -16335,7 +16335,7 @@ SKILL_20191024_016334	Skidas{nl}Continous effect. Applies a shield around the pl
 SKILL_20191024_016335	Skidas Shield	스키다스 실드
 SKILL_20191024_016336	Shield is consumed before HP.	실드는 HP보다 먼저 소모됩니다.
 SKILL_20191024_016337	Additional hits for the duration.	지속시간 동안 추가타.
-SKILL_20191024_016338	Grants additional hits against summons for the duration.	지속시간 동안 소환수에게 추가타를 입히는 효과를 줍니다.
+SKILL_20191024_016338	Grants additional hits to summons for the duration.	지속시간 동안 소환수에게 추가타를 입히는 효과를 줍니다.
 SKILL_20191024_016339	Temporarily increases maximum damage cap. Also, additional damage is dealt when the damage reaches over 999,999.	최대 대미지 제한이 일시적으로 증가합니다. 또한 999,999 대미지가 넘으면 추가 대미지를 줍니다.
 SKILL_20191024_016340	Ataka
 SKILL_20191024_016341	[Ataka] - Quando um golpe crítico é lançado, causa um dano fixo dividido entre os inimigos próximos em uma áre de 60 (Máx. 10 inimigos. Cooldown: 8 segundos){nl}[Dragon Strength Nv. 1] - Aumenta o efeito de dano em 100%
@@ -17853,11 +17853,11 @@ SKILL_20191125_017852	Summons a pillar of fire to inflict damage on enemies.{nl}
 SKILL_20191125_017853	Fluffy Cheer	참새의 응원
 SKILL_20191125_017854	The Fluffy Sparrow cheers you on with its chirps.{nl}The cheering increases your movement speed by +2.	복실복실 참새가 곁에서 지저귀며 당신을 응원합니다.{nl}참새의 응원으로 이동 속도가 2 증가합니다.
 SKILL_20191216_017855	Equip Midnight Starlight Effect Costume	미드나이트 스타라이트 이펙트 코스튬 장착
-SKILL_20191228_017856	Gabija Effect Free Check	가비야 이펙트 프리체크
-SKILL_20191228_017857	Gabija Flame Effect	가비야의 불 이펙트
-SKILL_20191228_017858	[Event] New Year 2x	[이벤트] 4주년 x2
-SKILL_20191228_017859	[Buff Effect]: The amount of [Event] New Year Coins obtained is increased by two-fold.{nl}[Bonus Effect]: The amount of [Event] New Year Coins obtained is increased by 5x when stacked with [Event] New Year x3 buff.{nl}Duration: 24 hours	[버프 효과] : [이벤트] 4주년 기념 주화를 2배로 획득합니다.{nl}[특수 효과] :  [이벤트] 4주년 x3버프와 중첩 시 [이벤트] 4주년 기념 주화의 획득량이 5배로 증가합니다.{nl}[지속 시간] : 24시간
-SKILL_20191228_017860	[Event] New Year 3x	[이벤트] 4주년 x3
-SKILL_20191228_017861	[Buff Effect]: The amount of [Event] New Year Coins obtained is increased by 3x.{nl}[Bonus Effect]: The amount of [Event] New Year Coins obtained is increased by 5x when stacked with [Event] New Year x2 buff.{nl}Duration: 24 hours	[버프 효과] : [이벤트] 4주년 기념 주화를 3배로 획득합니다.{nl}[특수 효과] :  [이벤트] 4주년 x2버프와 중첩 시 [이벤트] 4주년 기념 주화의 획득량이 5배로 증가합니다.{nl}[지속 시간] : 24시간
-SKILL_20191228_017862	Summon Gabija Doll	가비야 인형 소환
-SKILL_20191228_017863	Gabija Doll has been summoned.	가비야 인형이 소환된 상태입니다.
+SKILL_20191228_017856	Verificação Livre do Efeito de Gabija
+SKILL_20191228_017857	Efeito do Fogo de Gabija
+SKILL_20191228_017858	[Evento] Ano Novo 2x
+SKILL_20191228_017859	[Efeito]: Ganha 2x mais [Evento] Moedas de Ano Novo.{nl}[Efeito Bônus]: Aumenta para 5x quando acumulado com o efeito [Evento] Ano Novo 3x.{nl}Duração: 24 horas
+SKILL_20191228_017860	[Evento] Ano Novo 3x
+SKILL_20191228_017861	[Efeito]: Ganha 3x mais [Evento] Moedas de Ano Novo.{nl}[Efeito Bônus]: Aumenta para 5x quando acumulado com o efeito [Evento] Ano Novo 2x.{nl}Duração: 24 horas
+SKILL_20191228_017862	Invoca a Boneca de Gabija
+SKILL_20191228_017863	Boneca de Gabija invocada.

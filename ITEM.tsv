@@ -14095,12 +14095,12 @@ ITEM_20170330_014094	Obtain 1 random material item.
 ITEM_20170330_014095	A cube obtained from the Hackapell Master. It contains an item from one of the following collections: Istora Ruins, Nuoridin Falls. Right-click to open.
 ITEM_20170330_014096	A cube obtained from the Warlock Master. It contains an item from one of the following collections: Mokusul Chamber, Videntis Shrine, Underground Grave of Ritinis. Right-click to open.
 ITEM_20170330_014097	Contains an unknown object. {nl}{img mouseclick_right 30 30} para usar.
-ITEM_20170330_014098	An event item.
+ITEM_20170330_014098	An Item de evento.
 ITEM_20170330_014099	Increases +100 physical and magic attack for 5 minutes.{nl}Collect Soda, Tutti Frutti and Lemon Candies to craft a Candy Basket.
 ITEM_20170330_014100	Increases +100 physical and magic attack for 5 minutes.{nl}Collect Strawberry, Tutti Frutti and Lemon Candies to craft a Candy Basket.
 ITEM_20170330_014101	Restores 500 HP and SP a cada 2 segundos por 15 segundos.{nl}Collect Strawberry, Soda and Lemon Candies to craft a Candy Basket.
 ITEM_20170330_014102	Increases +3 movement speed for 5 minutes.{nl}Collect Strawberry, Soda and Tutti Frutti Candies to craft a Candy Basket.
-ITEM_20170330_014103	An event item.
+ITEM_20170330_014103	An Item de evento.
 ITEM_20170330_014104	Great Pirate Vladslovas' Broken Necklace
 ITEM_20170330_014105	Official Appraiser Master Nomination Document
 ITEM_20170330_014106	Pink Hair Dye
@@ -17356,7 +17356,7 @@ ITEM_20180202_017355	The Golden Pup is all about good vibes and good luck.
 ITEM_20180202_017356	Golden Pup Paw Print
 ITEM_20180202_017357	Represent your pup pride with this golden paw print accessory.
 ITEM_20180202_017358	Giltine's Wings
-ITEM_20180202_017359	 A pair of wings created by to the image of Giltine's. Unfortunately, they don't let you fly.
+ITEM_20180202_017359	A pair of wings created in the image of Giltine's. Unfortunately, they don't let you fly.
 ITEM_20180202_017360	Golden Pup Lucky Pouch
 ITEM_20180202_017361	Use to receive one of the following random items. {nl} - Golden Pup Lucky Pouch{nl} - 24K Gold Bar Pup Helmet {nl} - Golden Pup Armband
 ITEM_20180202_017362	Golden Dog Warrior Box
@@ -17583,8 +17583,8 @@ ITEM_20180320_017582	You can wear the crown lopsided and pretend to be a tired k
 ITEM_20180320_017583	Lightning Cloud
 ITEM_20180320_017584	Golden brown, fresh out of the toaster. Too bad you can't eat it.{nl}But you can exchange it for medals at the Loja de Trocas.
 ITEM_20180320_017585	An imaginative crown made from a gigantic red pudding. 
-ITEM_20180320_017586	A pair of wings created by to the image of Giltine's. Unfortunately, they don't let you fly.
-ITEM_20180320_017587	A pair of wings made out of ice. Unfortunately they don't let you fly.{nl} Can be exchanged for medals.
+ITEM_20180320_017586	A pair of wings created in the image of Giltine's. Unfortunately, they don't let you fly.
+ITEM_20180320_017587	A pair of wings made out of ice. Unfortunately, they don't let you fly.{nl} Can be exchanged for medals.
 ITEM_20180320_017588	Restores 30 Stamina.{nl}Good for:{nl} - Velheider{nl} - Hoglan{nl} - Leaf Penguin{nl} - Baby Pig{nl} - Rocksodon{nl} - Armadillo{nl} - Golden Pup
 ITEM_20180320_017589	Shining Lv2 Gem Abrasive
 ITEM_20180320_017590	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 300
@@ -17840,13 +17840,13 @@ ITEM_20180320_017839	Created to celebrate TOS' 2nd Anniversary.
 ITEM_20180320_017840	2nd Anniversary Seeds
 ITEM_20180320_017841	Created to celebrate TOS' 2nd Anniversary.{nl}Can be exchanged for items at the event shop. Will be deleted after the event period.
 ITEM_20180320_017842	Christmas Firecracker
-ITEM_20180320_017843	Christmas event item. Will be deleted after the event period.
+ITEM_20180320_017843	Christmas Item de evento. Will be deleted after the event period.
 ITEM_20180320_017844	Challenge Portal Scroll (14 Dias)
 ITEM_20180320_017845	Use to create a Challenge Portal.
 ITEM_20180320_017846	Frozen Monster Card Album
 ITEM_20180320_017847	A card album covered in snow. You're advised to read it in a quiet, secluded place.{nl}Can be used from level 100 and up.{nl}Use to summon a level 330 boss monster. The summoned boss disappears after 10 minutes.{nl}Can only be used in fields.
 ITEM_20180320_017848	Christmas Gift Key
-ITEM_20180320_017849	Christmas event item. Will be deleted after the event period. 
+ITEM_20180320_017849	Christmas Item de evento. Will be deleted after the event period. 
 ITEM_20180320_017850	 Take it to the event NPC to receive your reward. Will be deleted after the event period.
 ITEM_20180320_017851	New Year's Card
 ITEM_20180320_017852	A 2018 New Year's card.
@@ -19803,7 +19803,7 @@ ITEM_20181017_019802	Blow it and make it sound like a real party. Use a maximum 
 ITEM_20181017_019803	Snow is falling. Item de evento.
 ITEM_20181017_019804	Just have a seat. Item de evento.
 ITEM_20181017_019805	[Evento] TOS Celebration Costume (Male)
-ITEM_20181017_019806	A Dainu Svente event item. Use para alterar a sua aparência.
+ITEM_20181017_019806	A Dainu Svente Item de evento. Use para alterar a sua aparência.
 ITEM_20181017_019807	[Evento] TOS Celebration Costume (Female)
 ITEM_20181017_019808	Moon Rabbit Kite
 ITEM_20181017_019809	This kite features a cute illustration of the Moon Rabbit.{nl}Can be exchanged for medals at the Loja de Trocas.
@@ -23126,9 +23126,9 @@ ITEM_20190830_023125	[Summer Festa] Lv. 15 Basic Condensed SP Potion
 ITEM_20190830_023126	Recupera 1.288 dp SP Máximo.{nl}Recupera 1.288 SP a cada 2 segundos, por 15 segundos.{nl}Clique com o botão direito do mouse para utilizar. Cooldown: 45 segundos.{nl}Será removido automaticamente no final do evento.
 ITEM_20190830_023127	[Eventp] Guild Quest Reward Coin: Bronze
 ITEM_20190830_023128	Use para aumentar a EXP da Guilda em +100.{nl}Será removido automaticamente no final do evento.
-ITEM_20190830_023129	[Event] Guild Quest Reward Coin: Silver
+ITEM_20190830_023129	[Evento] Guild Quest Reward Coin: Silver
 ITEM_20190830_023130	Use para aumentar a EXP da Guilda em +200.{nl}Será removido automaticamente no final do evento.
-ITEM_20190830_023131	[Event] Guild Quest Reward Coin: Gold
+ITEM_20190830_023131	[Evento] Guild Quest Reward Coin: Gold
 ITEM_20190830_023132	Use para aumentar a EXP da Guilda em +400.{nl}Será removido automaticamente no final do evento.
 ITEM_20190830_023133	Aumenta o estágio de Transcendência de um item para o Estágio 3.{nl}Só pode ser utilizado em itens com Transcendência entre os Estágios 0~2. Clique com o botão direito no pergaminho, depois escolha o item que deseja transcender.{nl}Será removido automaticamente no final do evento.
 ITEM_20190830_023134	Aumenta o estágio de Transcendência de um item para o Estágio 5.{nl}Só pode ser utilizado em itens com Transcendência entre os Estágios 0~4. Clique com o botão direito no pergaminho, depois escolha o item que deseja transcender.{nl}Será removido automaticamente no final do evento.
@@ -23467,29 +23467,29 @@ ITEM_20191024_023466	[Moonlight] Skiaclipse Varna Pistol
 ITEM_20191024_023467	[Moonlight] Skiaclipse Varna Rapier
 ITEM_20191024_023468	[Moonlight] Skiaclipse Varna Cannon
 ITEM_20191024_023469	[Moonlight] Skiaclipse Varna Musket
-ITEM_20191024_023470	[Event] Ignas Robe
+ITEM_20191024_023470	[Evento] Ignas Robe
 ITEM_20191024_023471	It is hard to tell what methods Ignas used to craft this item from the essence of Ziburynas. If he was able to harness the full power of the essence, he certainly would have created much stronger equipment.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023472	[Event] Ignas Leather Armor
+ITEM_20191024_023472	[Evento] Ignas Leather Armor
 ITEM_20191024_023473	No one knows exactly why Ignas produced different pieces of equipment from such varied materials. Some believe he intended to target enemies other than the Resistance.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023474	[Event] Ignas Plate Armor
+ITEM_20191024_023474	[Evento] Ignas Plate Armor
 ITEM_20191024_023475	Given how the Astral Tower is located in the middle of a lake, the likelihood of a surprise attack is significantly low. One wonders, then, what Ignas' intentions were behind the making of this plate armor.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023476	[Event] Ignas Pants
+ITEM_20191024_023476	[Evento] Ignas Pants
 ITEM_20191024_023477	One could assume that Ignas only possessed a limited amount of the Essence of Ziburynas, seeing as how he used fairly little of it on his line of equipment.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023478	[Event] Ignas Leather Pants
+ITEM_20191024_023478	[Evento] Ignas Leather Pants
 ITEM_20191024_023479	Were it not for production constraints, a full Schaffenstar army equipped with Ignas' items would become the strongest in the Kingdom. One could even argue that would be enough to defeat any other armed forces in the nation 4-to-1.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023480	[Event] Ignas Plate Pants
+ITEM_20191024_023480	[Evento] Ignas Plate Pants
 ITEM_20191024_023481	When he created these pants, Ignas mentioned that they were designed as testing equipment for Schwarzer Reiters and other mercenaries from the Astral Tower.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023482	[Event] Ignas Boots
+ITEM_20191024_023482	[Evento] Ignas Boots
 ITEM_20191024_023483	The Astral Tower includes flooring of many types, including wire mesh floors. These boots were created to protect the wearer's feet from all kinds of floor materials.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023484	[Event] Ignas Leather Boots
+ITEM_20191024_023484	[Evento] Ignas Leather Boots
 ITEM_20191024_023485	Some pieces are said to contain the inscription, "Schaffenstar under the stars, the world under Schaffenstar."{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023486	[Event] Ignas Greaves
+ITEM_20191024_023486	[Evento] Ignas Greaves
 ITEM_20191024_023487	According to Elder Ramunas' experiments, extracting the Essence of Ziburynas from Ignas' equipment is not as easy as it may seem. He believes, however, that a magic Class Master may be able to achieve just that one day.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023488	[Event] Ignas Gloves
+ITEM_20191024_023488	[Evento] Ignas Gloves
 ITEM_20191024_023489	Looking at how each piece of Ignas' equipment is adorned with Schaffenstar symbols, one can assume that these would be the items used by its members, had he remained as head of the organization.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023490	[Event] Ignas Leather Gloves
+ITEM_20191024_023490	[Evento] Ignas Leather Gloves
 ITEM_20191024_023491	According to reports from his early career, Ignas predicted that any act of treason within the Schaffenstar would be met with three obstacles: Lydia Schaffen's provisions, the Three-Layered Castle Wall, and Class Master neutrality. These gloves, however, provide a clue as to which Master he foresaw as an ally.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023492	[Event] Ignas Plate Gauntlet
+ITEM_20191024_023492	[Evento] Ignas Plate Gauntlet
 ITEM_20191024_023493	The claws in these gauntlets are useful not just in combat situations, but also in the daily life of Schaffenstar members, especially when it comes to cleaning the external walls of the Astral Tower.{nl}- Can be extracted or transmuted for Ichor.
 ITEM_20191024_023494	This piece of equipment disappeared with the accident of Nicopolis, but it returned to our world around the same time as the Asiomage and the Quipmage.{nl}- Can be extracted or transmuted for Ichor.
 ITEM_20191024_023495	The Asiomage is notably fond of this weapon, as it provides an increase in intelligence. More than a tool, it serves as a sort of mood-boosting toy to the monster.{nl}- Can be extracted or transmuted for Ichor.
@@ -23577,15 +23577,15 @@ ITEM_20191024_023576	Kedoran Primus Basticle Greaves
 ITEM_20191024_023577	Kedoran Primus Irellis Gloves
 ITEM_20191024_023578	Kedoran Primus Jevenellis Leather Gloves
 ITEM_20191024_023579	Kedoran Primus Basticle Gauntlets
-ITEM_20191024_023580	Instantly restores 20% of max. HP. {nl}Additionally restores the other 20% of HP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023581	Instantly restores 20% of max. SP. {nl}Additionally restores the other 20% of SP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20191024_023580	Instantly restores 20% of max. HP. {nl}Additionally restores the other 20% of HP every 2 seconds over 11 seconds. {nl}Clique com o botão direito do mouse para utilizar. Cooldown of 20 seconds.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023581	Instantly restores 20% of max. SP. {nl}Additionally restores the other 20% of SP every 2 seconds over 11 seconds. {nl}Clique com o botão direito do mouse para utilizar. Cooldown of 20 seconds.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023582	Ore Sack
 ITEM_20191024_023583	Goddess' Support Box: Punishment
 ITEM_20191024_023584	Use to obtain an item of your choice.
 ITEM_20191024_023585	Goddess' Support Box: Protection
 ITEM_20191024_023586	Hero's Support Box: Punishment
 ITEM_20191024_023587	Hero's Support Box: Protection
-ITEM_20191024_023588	Nullifies harmful status effects when used.{nl}Consumed after use.{nl}Right-click to use.
+ITEM_20191024_023588	Nullifies harmful status effects when used.{nl}Consumed after use.{nl}Clique com o botão direito do mouse para utilizar.
 ITEM_20191024_023589	Activate a Charm of Protection to nullify all debuffs that require advanced removal. 1 Charm of Protection is used per ailment nullified. (Charm of Protection's effect takes precedence over Grace of Rykuma.) Right-click to activate.
 ITEM_20191024_023590	Adds 15 Attack when using basic attack. Can be used after assigning it to a quick slot.
 ITEM_20191024_023591	Adds 18 Attack when using basic attack. Can be used after assigning it to a quick slot.
@@ -23602,11 +23602,11 @@ ITEM_20191024_023601	Adds 48 Attack when using basic attack. Can be used after a
 ITEM_20191024_023602	Adds 51 Attack when using basic attack. Can be used after assigning it to a quick slot.
 ITEM_20191024_023603	Adds 54 Attack when using basic attack. Can be used after assigning it to a quick slot.
 ITEM_20191024_023604	Adds 57 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023605	Instantly restores 5614 of max. HP. {nl}Additionally restores 5614 HP every 2 seconds over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023606	Instantly restores 1288 of max. SP. {nl}Additionally restores 1288 SP every 2 seconds over 15 seconds. {nl}Right-click to use. Cooldown of 45 seconds.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023607	Use to increase Guild EXP by +100.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023608	Use to increase Guild EXP by +200.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023609	Use to increase Guild EXP by +400.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20191024_023605	Instantly restores 5614 of max. HP. {nl}Additionally restores 5614 HP every 2 seconds over 15 seconds. {nl}Clique com o botão direito do mouse para utilizar. Cooldown of 45 seconds.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023606	Instantly restores 1288 of max. SP. {nl}Additionally restores 1288 SP every 2 seconds over 15 seconds. {nl}Clique com o botão direito do mouse para utilizar. Cooldown of 45 seconds.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023607	Use to increase Guild EXP by +100.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023608	Use to increase Guild EXP by +200.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023609	Use to increase Guild EXP by +400.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023610	Guild Mileage: 50
 ITEM_20191024_023611	Use to gain 50 points in Guild Mileage.
 ITEM_20191024_023612	Guild Mileage: 100
@@ -23618,11 +23618,11 @@ ITEM_20191024_023617	Use to gain 10000 points in Guild Mileage.
 ITEM_20191024_023618	Shiny Demon Lord Moringponia Cube
 ITEM_20191024_023619	Demon Lord Moringponia Cube
 ITEM_20191024_023620	Moringponia Unique Weapon Selection Box
-ITEM_20191024_023621	Allows you to obtain one Moringponia Unique Weapon of your choice. Right-click to use.{nl}Your selected item cannot be exchanged once chosen.
+ITEM_20191024_023621	Allows you to obtain one Moringponia Unique Weapon of your choice. Clique com o botão direito do mouse para utilizar.{nl}Your selected item cannot be exchanged once chosen.
 ITEM_20191024_023622	Moringponia Unique Armor Selection Box
-ITEM_20191024_023623	Allows you to obtain one Moringponia Unique Armor of your choice. Right-click to use.{nl}Your selected item cannot be exchanged once chosen.
+ITEM_20191024_023623	Allows you to obtain one Moringponia Unique Armor of your choice. Clique com o botão direito do mouse para utilizar.{nl}Your selected item cannot be exchanged once chosen.
 ITEM_20191024_023624	Moringponia Crown Box
-ITEM_20191024_023625	Use to obtain 10 Moringponia Crowns. Right-click to use.
+ITEM_20191024_023625	Use to obtain 10 Moringponia Crowns. Clique com o botão direito do mouse para utilizar.
 ITEM_20191024_023626	Mystic Tome Page Collection (x10)
 ITEM_20191024_023627	Right-click to obtain 10 Mystic Tome Pages.
 ITEM_20191024_023628	Moonlight Legend Weapon Selection Box
@@ -23630,20 +23630,20 @@ ITEM_20191024_023629	Right-click to obtain your choice of Stage 16 Transcendence
 ITEM_20191024_023630	Outer Wall Sewers Legend Cube
 ITEM_20191024_023631	Cube rewarded for conquering the Outer Wall Sewers.
 ITEM_20191024_023632	Spirit Fragment: Misrus
-ITEM_20191024_023633	Collect 10 and use to obtain a choice of Misrus equipment recipe. Right-click to use.
+ITEM_20191024_023633	Collect 10 and use to obtain a choice of Misrus equipment recipe. Clique com o botão direito do mouse para utilizar.
 ITEM_20191024_023634	Spirit Fragment: Froster Lord
-ITEM_20191024_023635	Collect 20 and use to obtain a choice of an accessory item. Right-click to use.
-ITEM_20191024_023636	Increases an item's transcendence stage to Stage 3.{nl}Can only be used in items transcended to Stage 0~2. Right-click the scroll, then select the item to transcend.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023637	Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023638	[Event] Golden Anvil (14 Days)
-ITEM_20191024_023639	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. Right-click to use. Must be used within 14 days after obtaining.
-ITEM_20191024_023640	[Event] Silver Anvil (14 Days)
-ITEM_20191024_023641	[Event] Transcendence Stage 8 Scroll
-ITEM_20191024_023642	Increases an item's transcendence stage to Stage 8.{nl}Can only be used in items transcended to Stage 0~7. Right-click the scroll, then select the item to transcend.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023643	[Event] Transcendence Stage 5 Scroll
-ITEM_20191024_023644	Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023645	[Event] Transcendence Stage 3 Scroll
-ITEM_20191024_023646	Increases an item's transcendence stage to Stage 3.{nl}Can only be used in items transcended to Stage 0~2. Right-click the scroll, then select the item to transcend.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20191024_023635	Collect 20 and use to obtain a choice of an accessory item. Clique com o botão direito do mouse para utilizar.
+ITEM_20191024_023636	Increases an item's transcendence stage to Stage 3.{nl}Can only be used in items transcended to Stage 0~2. Right-click the scroll, then select the item to transcend.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023637	Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023638	[Evento] Golden Anvil (14 Days)
+ITEM_20191024_023639	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. Clique com o botão direito do mouse para utilizar. Must be used within 14 days after obtaining.
+ITEM_20191024_023640	[Evento] Silver Anvil (14 Days)
+ITEM_20191024_023641	[Evento] Transcendence Stage 8 Scroll
+ITEM_20191024_023642	Increases an item's transcendence stage to Stage 8.{nl}Can only be used in items transcended to Stage 0~7. Right-click the scroll, then select the item to transcend.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023643	[Evento] Transcendence Stage 5 Scroll
+ITEM_20191024_023644	Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023645	[Evento] Transcendence Stage 3 Scroll
+ITEM_20191024_023646	Increases an item's transcendence stage to Stage 3.{nl}Can only be used in items transcended to Stage 0~2. Right-click the scroll, then select the item to transcend.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023647	[Card Equip Effect] Silence Resistance +[{img star_mark 20 20} * 2]
 ITEM_20191024_023648	[Card Equip Effect] Sleep Resistance +[{img star_mark 20 20} * 2]
 ITEM_20191024_023649	[Card Equip Effect] Blind Resistance +[{img star_mark 20 20} * 2]
@@ -23657,48 +23657,48 @@ ITEM_20191024_023656	Demon Lord Moringponia Card
 ITEM_20191024_023657	[Card Equip Effect] Attack against Medium-sized Targets 300 * [{img star_mark 20 20}]
 ITEM_20191024_023658	Enraged Misrus Card
 ITEM_20191024_023659	[Card Equip Effect] Additional 1,000 * [{img star_mark 20 20}] damage against enemies with a Shield effect
-ITEM_20191024_023660	[Event] Growth Gem. Will be automatically deleted at the end of the event period.
+ITEM_20191024_023660	[Evento] Growth Gem. Será automaticamente removido no final do período do evento.
 ITEM_20191024_023661	Shining LV 10 Gem Abrasive
 ITEM_20191024_023662	Emoticon: Medeina (Flustered)
 ITEM_20191024_023663	Emoticon: Medeina (Joy)
 ITEM_20191024_023664	TOS Ranger City Popup Book
-ITEM_20191024_023665	Right-click to use. You character must be level 15 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023666	Right-click to use. Your character must be level 40 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023667	Right-click to use. You character must be level 50 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023668	Right-click to use. You character must be level 75 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023669	Right-click to use. You character must be level 85 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023670	Right-click to use. Your character must be level 40 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023671	Right-click to use. You character must be level 120 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023672	Right-click to use. You character must be level 140 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023673	Right-click to use. You character must be level 170 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023674	Right-click to use. You character must be level 180 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023675	Right-click to use. You character must be level 200 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023676	Right-click to use. You character must be level 220 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023677	Right-click to use. You character must be level 230 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023678	Right-click to use. You character must be level 270 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023679	Right-click to use. Your character must be level 40 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023680	Right-click to use. You character must be level 330 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023681	Right-click to use. You character must be level 350 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023682	Right-click to use. Grants 500 Attribute Points every day during the event period.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023683	Right-click to use. You character must be level 380 or above to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023684	Event item. Grants 1000 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023685	Increases looting chance by +200 for 30 minutes.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20191024_023665	Clique com o botão direito do mouse para utilizar. You character must be level 15 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023666	Clique com o botão direito do mouse para utilizar. Your character must be level 40 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023667	Clique com o botão direito do mouse para utilizar. You character must be level 50 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023668	Clique com o botão direito do mouse para utilizar. You character must be level 75 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023669	Clique com o botão direito do mouse para utilizar. You character must be level 85 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023670	Clique com o botão direito do mouse para utilizar. Your character must be level 40 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023671	Clique com o botão direito do mouse para utilizar. You character must be level 120 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023672	Clique com o botão direito do mouse para utilizar. You character must be level 140 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023673	Clique com o botão direito do mouse para utilizar. You character must be level 170 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023674	Clique com o botão direito do mouse para utilizar. You character must be level 180 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023675	Clique com o botão direito do mouse para utilizar. You character must be level 200 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023676	Clique com o botão direito do mouse para utilizar. You character must be level 220 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023677	Clique com o botão direito do mouse para utilizar. You character must be level 230 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023678	Clique com o botão direito do mouse para utilizar. You character must be level 270 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023679	Clique com o botão direito do mouse para utilizar. Your character must be level 40 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023680	Clique com o botão direito do mouse para utilizar. You character must be level 330 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023681	Clique com o botão direito do mouse para utilizar. You character must be level 350 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023682	Clique com o botão direito do mouse para utilizar. Grants 500 Attribute Points every day during the event period.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023683	Clique com o botão direito do mouse para utilizar. You character must be level 380 or above to use.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023684	Item de evento. Grants 1000 Attribute Points. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023685	Increases looting chance by +200 for 30 minutes.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023686	[Summer Festa] Magic Ice Cube
-ITEM_20191024_023687	[Summer Festa] Event item. Will be automatically removed at the end of the event period.
-ITEM_20191024_023688	[Summer Festa] Event item. Recovers +500 HP and SP every 10 seconds for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023689	[Summer Festa] Event item. Use to increase movement speed by +2 for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023690	[Summer Festa] Event item. Use to increase looting chance +300 for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023691	Select the equipment you want to receive from the list.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023692	Right-click to use. Your character must be level 400 or above to use.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20191024_023687	[Summer Festa] Item de evento. Will be automatically removed at the end of the event period.
+ITEM_20191024_023688	[Summer Festa] Item de evento. Recovers +500 HP and SP every 10 seconds for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023689	[Summer Festa] Item de evento. Use to increase movement speed by +2 for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023690	[Summer Festa] Item de evento. Use to increase looting chance +300 for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023691	Select the equipment you want to receive from the list.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023692	Clique com o botão direito do mouse para utilizar. Your character must be level 400 or above to use.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023693	Kedora Merchant Alliance Support Selection Box (Lv. 270 weapon and shield)
 ITEM_20191024_023694	Kedora Merchant Alliance Support Selection Box (Lv. 270 armor)
 ITEM_20191024_023695	Kedora Merchant Alliance Support Selection Box (Lv. 315 armor)
 ITEM_20191024_023696	Kedora Merchant Alliance Support Selection Box (Lv. 350 armor)
 ITEM_20191024_023697	Special coins created for the 2019 summer event.{nl}Can be used at the Vasalos Coin Shop.{nl}Will be automatically removed at the end of the event period.{nl}
 ITEM_20191024_023698	Contains a title awarded for participating in the Guilds Make TOS event.{nl}This item will be removed at the end of the event period.
-ITEM_20191024_023699	Right-click to obtain one of the following items at random.{nl}- [Event] Stage 3 Transcendence Scroll x1{nl}- [Event] Guild Quest Reward Coin: Bronze x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x1{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x1{nl}- [Event] Vasalos Coin x(1~2){nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023700	Right-click to obtain one of the following items at random.{nl}- [Event] Stage 5 Transcendence Scroll x1{nl}- [Event] Guild Quest Reward Coin: Silver x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x2{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x2{nl}- [Event] Vasalos Coin x(5~10){nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023701	Right-click to obtain one of the following items at random.{nl}- Butler and Maid Costume Box (Black) x1{nl}- [Event] Guild Quest Reward Coin: Gold x1{nl}- [Event] Small Elixir of HP Recovery x2{nl}- [Event] Small Elixir of SP Recovery x2{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x5{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x5{nl}- [Event] Vasalos Coin x(10~20){nl}Will be automatically deleted at the end of the event period.
+ITEM_20191024_023699	Right-click to obtain one of the following items at random.{nl}- [Evento] Stage 3 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Bronze x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x1{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x1{nl}- [Evento] Vasalos Coin x(1~2){nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023700	Right-click to obtain one of the following items at random.{nl}- [Evento] Stage 5 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Silver x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x2{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x2{nl}- [Evento] Vasalos Coin x(5~10){nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023701	Right-click to obtain one of the following items at random.{nl}- Butler and Maid Costume Box (Black) x1{nl}- [Evento] Guild Quest Reward Coin: Gold x1{nl}- [Evento] Small Elixir of HP Recovery x2{nl}- [Evento] Small Elixir of SP Recovery x2{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x5{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x5{nl}- [Evento] Vasalos Coin x(10~20){nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023702	[Compensation] Class Change Voucher Lv.1
 ITEM_20191024_023703	[Compensation] Class Change Voucher Lv.2
 ITEM_20191024_023704	[Compensation] Class Change Voucher Lv.3
@@ -23716,34 +23716,34 @@ ITEM_20191024_023715	Use para produzir aleatoriamente 6 dos monstros listados.{n
 ITEM_20191024_023716	[Evento] Class Change Voucher Lv. 3 (90 Dias)
 ITEM_20191024_023717	[Evento] Fragmento de Lua Cheia
 ITEM_20191024_023718	Item de evento.{nl}Entrege-o para o Druid Raphindion do Luar para trocar por itens na Loja do Luar, ou receba a sua própria Lua Cheia para crescê-la.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023719	[Event] Attribute Points 500
-ITEM_20191024_023720	Event item. Grants 500 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023721	[Event] Attribute Points 1,000
-ITEM_20191024_023722	Event item. Grants 1000 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023723	[Event] Attribute Points 10,000
-ITEM_20191024_023724	Event item. Grants 10,000 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023725	[Event] Honey Dumpling
-ITEM_20191024_023726	A king-size dumpling filled with honey. It smells sweet and looks absolutely delicious. {nl} Grants everyone in your party +4 movement speed, +1 AoE attack ratio and +25% EXP gain for 20 minutes.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023727	[Event] Jumbo Dumpling
-ITEM_20191024_023728	A king-size dumpling made of several ingredients. It smells sweet and looks absolutely delicious. {nl} Grants everyone in your party +4 movement speed, +1 AoE attack ratio and +25% EXP gain for 10 minutes.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023729	[Event] Dumpling
-ITEM_20191024_023730	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes.{nl}Will be automatically deleted at the end of the event period.
-ITEM_20191024_023731	Right-click to obtain a +11 ENH Stage 8 TRA [Event] Savinose Legva weapon of your choice.{nl}The weapon cannot be further Enhanced, Transcended, Dismantled or be used to extract appearance.{nl}[Available Items]{nl}[Event] Savinose Legva Crossbow{nl}[Event] Savinose Legva Cannon{nl}[Event] Savinose Legva Dagger{nl}[Event] Savinose Legva Mace{nl}[Event] Savinose Legva Musket{nl}[Event] Savinose Legva Pistol{nl}[Event] Savinose Legva Rapier{nl}[Event] Savinose Legva Shield{nl}[Event] Savinose Legva Spear{nl}[Event] Savinose Legva Rod{nl}[Event] Savinose Legva Sword{nl}[Event] Savinose Legva Bow{nl}[Event] Savinose Legva Two-handed Mace{nl}[Event] Savinose Legva Staff{nl}[Event] Savinose Legva Pike{nl}[Event] Savinose Legva Two-handed sword
+ITEM_20191024_023719	[Evento] Attribute Points 500
+ITEM_20191024_023720	Item de evento. Grants 500 Attribute Points. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023721	[Evento] Attribute Points 1,000
+ITEM_20191024_023722	Item de evento. Grants 1000 Attribute Points. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023723	[Evento] Attribute Points 10,000
+ITEM_20191024_023724	Item de evento. Grants 10,000 Attribute Points. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023725	[Evento] Honey Dumpling
+ITEM_20191024_023726	A king-size dumpling filled with honey. It smells sweet and looks absolutely delicious. {nl} Grants everyone in your party +4 movement speed, +1 AoE attack ratio and +25% EXP gain for 20 minutes.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023727	[Evento] Jumbo Dumpling
+ITEM_20191024_023728	A king-size dumpling made of several ingredients. It smells sweet and looks absolutely delicious. {nl} Grants everyone in your party +4 movement speed, +1 AoE attack ratio and +25% EXP gain for 10 minutes.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023729	[Evento] Dumpling
+ITEM_20191024_023730	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023731	Right-click to obtain a +11 ENH Stage 8 TRA [Evento] Savinose Legva weapon of your choice.{nl}The weapon cannot be further Enhanced, Transcended, Dismantled or be used to extract appearance.{nl}[Available Items]{nl}[Evento] Savinose Legva Crossbow{nl}[Evento] Savinose Legva Cannon{nl}[Evento] Savinose Legva Dagger{nl}[Evento] Savinose Legva Mace{nl}[Evento] Savinose Legva Musket{nl}[Evento] Savinose Legva Pistol{nl}[Evento] Savinose Legva Rapier{nl}[Evento] Savinose Legva Shield{nl}[Evento] Savinose Legva Spear{nl}[Evento] Savinose Legva Rod{nl}[Evento] Savinose Legva Sword{nl}[Evento] Savinose Legva Bow{nl}[Evento] Savinose Legva Two-handed Mace{nl}[Evento] Savinose Legva Staff{nl}[Evento] Savinose Legva Pike{nl}[Evento] Savinose Legva Two-handed sword
 ITEM_20191024_023732	[Evento] Caixa de Álbum de Carta do Grimório
 ITEM_20191024_023733	Clique com o botão direito para obter um dos seguintes itens:{nl}- Monster Card Album: Red{nl}- Monster Card Album: Blue{nl}- Monster Card Album: Green{nl}- Monster Card Album: Purple{nl}- Monster Card Album: Black{nl}- Shining Monster Card Album: Ominous 
-ITEM_20191024_023734	[Event] Ignas Armor Selection Box
-ITEM_20191024_023735	Right-click to obtain your choice of [Event] Ignas Armor.{nl}Armor obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
-ITEM_20191024_023736	[Event] Unique Weapon Selection Box (Asio, Wastrel)
-ITEM_20191024_023737	Right-click to obtain your choice of [Event] Asio Unique weapon.{nl}Weapon obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
-ITEM_20191024_023738	[Event] Asio Unique Weapon Selection Box
-ITEM_20191024_023739	Right-click to obtain your choice of [Event] Asio weapon.{nl}Weapon obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
-ITEM_20191024_023740	[Event] Wastrel Unique Weapon Selection Box
-ITEM_20191024_023741	Right-click to obtain your choice of [Event] Wastrel weapon.{nl}Weapon obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
-ITEM_20191024_023742	[Event] Class Change Voucher Lv. 3 (14 Days)
+ITEM_20191024_023734	[Evento] Ignas Armor Selection Box
+ITEM_20191024_023735	Right-click to obtain your choice of [Evento] Ignas Armor.{nl}Armor obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
+ITEM_20191024_023736	[Evento] Unique Weapon Selection Box (Asio, Wastrel)
+ITEM_20191024_023737	Right-click to obtain your choice of [Evento] Asio Unique weapon.{nl}Weapon obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
+ITEM_20191024_023738	[Evento] Asio Unique Weapon Selection Box
+ITEM_20191024_023739	Right-click to obtain your choice of [Evento] Asio weapon.{nl}Weapon obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
+ITEM_20191024_023740	[Evento] Wastrel Unique Weapon Selection Box
+ITEM_20191024_023741	Right-click to obtain your choice of [Evento] Wastrel weapon.{nl}Weapon obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
+ITEM_20191024_023742	[Evento] Class Change Voucher Lv. 3 (14 Days)
 ITEM_20191024_023743	Increases Class Points by +1,000.{nl}Class Points can be accumulated to a maximum of 1,000 and excess points earned will not be saved.{nl}Will be automatically deleted when the expiry date is reached.
-ITEM_20191024_023744	[Event] Skill + Attribute Reset Potion Package (14 Days)
+ITEM_20191024_023744	[Evento] Skill + Attribute Reset Potion Package (14 Days)
 ITEM_20191024_023745	Right click to obtain the following items.{nl}Will be automatically deleted when the expiry date is reached.{nl}- Skill Reset Potion (14 Days){nl}- Attribute Reset Potion (14 Days)
-ITEM_20191024_023746	[Event] Enhancement Coupon: 100,000 Silver (14 Days)
+ITEM_20191024_023746	[Evento] Enhancement Coupon: 100,000 Silver (14 Days)
 ITEM_20191024_023747	Use to have your Enhancement cost discounted by 100,000 Silver.{nl}Will be automatically deleted when the expiry date is reached.
 ITEM_20191024_023748	[Lv. 420] Stage 3 Transcendence Scroll
 ITEM_20191024_023749	Increases the transcendence stage of equipment of level 420 or below to 3{nl}It can only be used on items at the transcendence stage between 0 to 2. Right-click the scroll and select the item you want to transcend to use.
@@ -23760,18 +23760,18 @@ ITEM_20191024_023759	Use to gain 1,000 Uphill Shop Points.{nl}The points gained 
 ITEM_20191024_023760	Uphill Defense Shop Points: 3000 (14 Days)
 ITEM_20191024_023761	Use to gain 3,000 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.{nl}Will be automatically deleted when the expiry date is reached.
 ITEM_20191024_023762	Looting Chance: 500 (14 Days)
-ITEM_20191024_023763	Increases looting chance by 500 for 60 minutes. Right-click to use. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.{nl}Will be automatically deleted when the expiry date is reached.
-ITEM_20191024_023764	[Event] Savinose Armor Selection Box
-ITEM_20191024_023765	Use to obtain a +11 ENH Stage 8 TRA [Event] Savinose Armor of your choice.{nl}Obtained item cannot be dismantled or further enhanced.
+ITEM_20191024_023763	Increases looting chance by 500 for 60 minutes. Clique com o botão direito do mouse para utilizar. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.{nl}Will be automatically deleted when the expiry date is reached.
+ITEM_20191024_023764	[Evento] Savinose Armor Selection Box
+ITEM_20191024_023765	Use to obtain a +11 ENH Stage 8 TRA [Evento] Savinose Armor of your choice.{nl}Obtained item cannot be dismantled or further enhanced.
 ITEM_20191024_023766	Lv. 10 Enhancement Card (14 Days)
 ITEM_20191024_023767	A card used to enhance a card. Increases a card's EXP by 5400.{nl}Will be automatically deleted when the expiry date is reached.
 ITEM_20191024_023768	Used to enhance gems. Amplifies the EXP of gems.{nl}Will be automatically deleted when the expiry date is reached.{nl}- Gem EXP: 230700
-ITEM_20191024_023769	[Event] Unidentified Mystic Tome
+ITEM_20191024_023769	[Evento] Unidentified Mystic Tome
 ITEM_20191024_023770	Contains a hidden technique. Bring to a Class Master NPC to obtain an Arts of your choice.
-ITEM_20191024_023771	[Event] Stamp Tour Completion Reward Box (14 Days)
+ITEM_20191024_023771	[Evento] Stamp Tour Completion Reward Box (14 Days)
 ITEM_20191024_023772	Right click to obtain the following items.{nl}Will be automatically deleted when the expiry date is reached.{nl}- [Lv. 420] Stage 10 Transcendence Scroll{nl}- 20,000,000 Silver
 ITEM_20191024_023773	Title - Pizza Time
-ITEM_20191024_023774	A title given to Saviors who have made the world a better place by delivering Pizza. Right-click to use.
+ITEM_20191024_023774	A title given to Saviors who have made the world a better place by delivering Pizza. Clique com o botão direito do mouse para utilizar.
 ITEM_20191024_023775	Moringponia Crown
 ITEM_20191024_023776	Crown with the lingering powers of Moringponia.{nl} {nl}Used as an ingredient in adding Set Stats to Savinose Legva, Skiaclipse Varna equipment.	모링포니아의 힘이 남겨져있습니다. {nl} {nl}세비노스 레그바, 스키아클립스 바르나 장비에 세트 옵션 부여 재료로 사용됩니다.
 ITEM_20191024_023777	Misrus Chain
@@ -24876,7 +24876,7 @@ ITEM_20191024_024874	Ichor - Top
 ITEM_20191024_024875	Ichor - Bottom
 ITEM_20191024_024876	Ichor - Gloves
 ITEM_20191024_024877	Ichor - Boots
-ITEM_20191024_024878	Use to obtain a TOS Beach Ball.{nl}Will be automatically deleted at the end of the event period.
+ITEM_20191024_024878	Use to obtain a TOS Beach Ball.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_024879	Certificado de Fornecimento
 ITEM_20191024_024880	Certificado de Fornecimento necessário para obter Pergaminhos com o Dispositivo de Fornecimento, em Sewer Docks.{nl}Obtido ao derrotar monstros em Outer Wall Sewers.{nl}Será automaticamente removido ao sair de Outer Wall Sewers.{nl}Pode ser descartado.
 ITEM_20191024_024881	Pergaminho Verde
@@ -24890,7 +24890,7 @@ ITEM_20191024_024888	Um amuleto necessário para conseguir atacar o Coward Chesh
 ITEM_20191024_024889	Pergaminho Vermelho
 ITEM_20191024_024890	Um pergaminho vermelho.{nl}Interaa com o aparelho dentro da Misrus' Chanber para receber o efeito correspondente. O pergaminho será consumido quando o efeito for aplicado.{nl}Será automaticamente removido ao sair de Outer Wall Sewers.{nl}Pode ser descartado.
 ITEM_20191104_024891	Little Ghost Balloon	꼬마 유령 풍선
-ITEM_20191104_024892	[Event] Back Costume	[이벤트] 등 코스튬
+ITEM_20191104_024892	[Evento] Back Costume	[이벤트] 등 코스튬
 ITEM_20191104_024893	A balloon in the shape of a little ghost that can be obtained from the [Halloween Midnight Rumble] event shop.{nl}It makes it so that as if there is a little ghost that is following you around.	[할로윈 밤의 소동] 이벤트 상점에서 교환할 수 있는 꼬마 유령 풍선입니다.{nl}귀여운 꼬마 유령이 따라다니는 것처럼 보입니다. 어두운 밤에 본다면 놀랄 수도 있으니 주의해야 합니다.
 ITEM_20191104_024894	[Card Equip Effect] [{img star_mark 20 20}]% chance of using Pain Barrier upon being hit (Duration: 15 seconds)	[슬롯 장착 효과] 피격 시 [★]% 확률로 페인배리어 사용 (지속시간 15초)
 ITEM_20191104_024895	Guloseima
@@ -24902,11 +24902,11 @@ ITEM_20191104_024900	Can be used on Scarecrows to make the Wicked Witch vulnerab
 ITEM_20191111_024901	Level Up Chest	레벨업 상자
 ITEM_20191114_024902	Lv.400 Stage 10 Transcendence Scroll	Lv.400 10초월 스크롤				
 ITEM_20191125_024903	Fluffy Sparrow Egg	복실복실 참새 알
-ITEM_20191125_024904	Right-click to use. Upon use, the companion is immediately registered.{nl}This companion can be mounted without a riding skill.{nl}This companion increases the character's movement speed by +2.{nl} Can be exchanged for medals at the Exchange Shop.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl} 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능합니다. {nl} 해당 컴패니언과 동행 시 이동 속도 +2 증가 버프를 얻습니다.{nl} 리사이클 메달로 교환 가능합니다.
-ITEM_20191203_024905	[Event] New Year Firecracker	[이벤트] 4주년 폭죽
-ITEM_20191203_024906	Firecracker prepared in celebration of the year 2020.{nl}Use to obtain a [Event] New Year 2x buff, which increases the amount of coins obtained by 2x.{nl}Will be removed automatically at the end of the event period.{nl}Increases the amount of coins obtained by 5x when stacked with effects of [Event] New Year 3x buff.	트리 오브 세이비어 4주년을 기념하기 위해 제작된 폭죽입니다.{nl}매일 이벤트 게시판 NPC에게 팀당 1회 획득 및 4주년 기념 상점에서도 구입할 수 있습니다.{nl}사용 시, 사용자에게 최대 24시간 지속되는 [이벤트] 4주년 x2 버프 효과를 얻을 수 있습니다. 해당 효과 적용 시 [이벤트] 4주년 기념 주화의 획득량이 2배 증가합니다.{nl}20년 1월 9일 점검 시 삭제됩니다.{nl} [이벤트] 4주년 x3버프와 중첩 시 [이벤트] 4주년 기념 주화의 획득량이 5배로 증가합니다.
-ITEM_20191203_024907	[Event] New Year Together Firecracker	[이벤트] 4주년 투게더 폭죽
-ITEM_20191203_024908	Firecracker prepared in celebration of the year 2020.{nl}Use to extend the effects of Firecrackers by 1 minute and applies [Event] New Year 3x buff to nearby Player Characters every 10 seconds. Increases the amount of New Year Coins earned by 3x for 24 hours max. when used.{nl}Will be removed automatically at the end of the event period.{nl}Increases the amount of coins obtained by 5x when stacked with effects of [Event] New Year 2x buff.	트리 오브 세이비어 4주년을 기념하기 위해 제작된 폭죽입니다.{nl}몬스터 사냥 시, 일정확률로 획득할 수 있습니다.{nl}사용 시, 사용자의 앞에 폭죽효과가 1분동안 지속되며 10초마다 범위 내의 PC에게 [이벤트] 4주년 x3 버프 효과를 부여합니다. 최대 24시간 지속되며. 해당 효과 적용 시 [이벤트] 4주년 기념 주화의 획득량이 3배 증가합니다.{nl}20년 1월 9일 점검 시 삭제됩니다.{nl}[이벤트] 4주년 x2버프와 중첩 시 [이벤트] 4주년 기념 주화의 획득량이 5배로 증가합니다.
+ITEM_20191125_024904	Clique com o botão direito do mouse para utilizar. Upon use, the companion is immediately registered.{nl}This companion can be mounted without a riding skill.{nl}This companion increases the character's movement speed by +2.{nl} Can be exchanged for medals at the Exchange Shop.	마우스 오른쪽 클릭으로 사용가능하며, 사용시 바로 컴패니언으로 등록됩니다. {nl} 해당 컴패니언은 컴패니언 탑승 스킬이 없어도 탑승 가능합니다. {nl} 해당 컴패니언과 동행 시 이동 속도 +2 증가 버프를 얻습니다.{nl} 리사이클 메달로 교환 가능합니다.
+ITEM_20191203_024905	[Evento] Fogo de Artifício de Ano Novo
+ITEM_20191203_024906	Fogos de artifício preparados para celebrar o ano de 2020.{nl}Use para obter o efeito [Evento] Ano Novo 2x, que aumenta o número de moedas obtidas em 2x.{nl}Será automaticamente removido no final do período do evento.{nl}Aumenta o número de moedas obtidas em 5x quando acumulado com o efeito [Evento] Ano Novo 3x.
+ITEM_20191203_024907	[Evento] Fogo de Artifício de Ano Novo Juntos
+ITEM_20191203_024908	Fogos de artifício preparados para celebrar o ano de 2020.{nl}Use para extender os efeitos dos fogos de artifício por 1 minuto e aplicar o efeito [Evento] Ano Novo 3x para os jogadores próximos, por 10 segundos. Aumenta a quantidade máxima de moedas obtidas em 3x por 24 horas.{nl}Será automaticamente removido no final do período do evento.{nl}Aumenta o número de moedas obtidas em 5x quando acumulado com o efeito [Evento] Ano Novo 2x.
 ITEM_20191203_024909	[Evento] Chave Real Natalina
 ITEM_20191203_024910	Use para abrir o Baú Real Natalino, em Klaipeda, e obter uma recompensa aleatória.{nl}[Lista de Recompensas]{nl}- {#003399}[Evento] Attribute Points 10,000{/} x1, {#003399}[Evento] Attribute Points 1,000{/} x1{nl}- {#003399}[Evento] Attribute Points 500{/} x1, {#003399}Raid Portal Stone{/} x3{nl}- {#003399}Goddess Sculpture (14 Dias){/} x5, {#003399}Miracle Seed (14 Dias){/} x5{nl}- {#003399}[Evento] Guild Quest Reward Coin: Silver{/} x1}{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191203_024911	NA	[이벤트] 신비한 크리스마스 열쇠
@@ -24958,50 +24958,50 @@ ITEM_20191216_024956	Evergreen and Bountiful	붉은 열매가 아롱다롱
 ITEM_20191216_024957	A wing costume adorned with bountiful fruits.{nl}Pode ser trocado por Medalhas na Loja de Trocas.	일 년 동안 좋은 일을 많이 한 사람을 위해서만 열린다는 신비한 열매가 달린 날개 장식입니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
 ITEM_20191216_024958	Midnight Starlight	미드나이트 스타라이트
 ITEM_20191216_024959	For a brief moment, the birds of the night sky become one with the stars of the night.{nl}Can be exchanged for Medals at the Exchange Shop.	아주 짧은 자정의 한순간, 별들은 새가 되어 밤하늘을 수놓는 별자리를 만듭니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.
-ITEM_20191224_024960	A title given to One of A Kind players. Right-click to use.	One of A Kind 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.
-ITEM_20191228_024961	Gabija Guardian Costume (Male)	가비야의 수호기사 코스튬 (남)
-ITEM_20191228_024962	Armor inspired by the legends of the knights that stand guard at the Goddess' Gabija's Sanctuary.{nl}Use to change your appearance.	전설로만 전해지는 가비야의 성소. 그곳을 지키는 수호기사들의 갑옷을 상상하여 만들었다고 합니다.{nl}착용하면 외형이 변경됩니다.
-ITEM_20191228_024963	Gabija Guardian Costume (Female)	가비야의 수호기사 코스튬 (여)
-ITEM_20191228_024964	Gabija Priest Costume (Male)	가비야의 사제 코스튬 (남)
-ITEM_20191228_024965	Clothing worn by the Priests and Priestesses of Gabija.{nl}Use to change your appearance.	왕국의 고위 인사 중 가비야 여신을 신실하게 모시던 사람들이 즐겨 입던 예복입니다.{nl}착용하면 외형이 변경됩니다.
-ITEM_20191228_024966	Gabija Priestess Costume (Female)	가비야의 사제 코스튬 (여)
-ITEM_20191228_024967	Firebird Hair Brooch	불새 헤어 브로치
-ITEM_20191228_024968	A certain someone may watch over you when wearing this item.	착용하면 누군가의 가호를 받을 수 있을지도 모릅니다.
-ITEM_20191228_024969	Red Hair Knot	붉은 머리 매듭
-ITEM_20191228_024970	An ornanment used to mimic the hairstyle of the Goddess Gabija.	가비야 여신의 헤어 스타일을 흉내 내기 위한 장식입니다.
-ITEM_20191228_024971	Gabija Feather Hairband	가비야 깃털 머리장식
-ITEM_20191228_024972	Made naturally with wax and red dye.	밀랍과 붉은색 안료로 만들어졌지만 자연스럽게 완성되었습니다.
-ITEM_20191228_024973	Messenger of Fire	불의 전령 새
-ITEM_20191228_024974	A means of communication created by the Pyromancers in the past.{nl}There are not many people left who know how to make use of it.	과거 파이로맨서들이 비밀리에 만들어낸 연락 수단입니다.{nl}그 실체를 아는 사람은 몇 남아있지 않습니다.
-ITEM_20191228_024975	Gabija Wings	가비야 날개
-ITEM_20191228_024976	Created in tribute to the Goddess Gabija by her worshipper.{nl}Its flames are known not to harm the followers of Gabija.	가비야 여신을 믿던 사람이 가비야 여신에게 바치는 신앙심의 표시로 정성껏 제작했습니다.{nl}어떤 원리로 만들어졌는지는 알 수 없지만, 날개의 화염이 착용자에게 해를 입히지는 않는다고 합니다.
-ITEM_20191228_024977	[Exchange Shop] Gabija Wings	[리사이클] 가비야 날개
-ITEM_20191228_024978	Little Gabija Doll	작은 가비야 인형
-ITEM_20191228_024979	A doll that's said to have been gifted by the Goddess Gabija.{nl}It used to belong to someone who lived in Fedimian.{nl}The doll will mimic the actions of its owner by magical means.{nl}The doll mimics basic and sub-attacks, emote poses and performs special actions when in rest mode or setting up personal shops.	가비야 여신이 직접 은총을 내려 선물했다고 전해지는 인형입니다.{nl}원래 페디미안에 있는 누군가의 물건이라고 합니다.{nl}주인의 힘에 영향을 받아, 착용자의 일부 행동을 따라합니다.{nl}인형은 기본 공격과 보조 공격, 유료 포즈를 따라 하며, 휴식 모드 및 개인 상점 개설 시 특수한 동작을 합니다.
-ITEM_20191228_024980	[Exchange Shop] Little Gabija Doll	[리사이클] 작은 가비야 인형
-ITEM_20191228_024981	Intense Sparkle	강렬한 반짝임
-ITEM_20191228_024982	Sparkles when the sun is about to set.{nl}- Displays a special effect when character is hit.	하늘이 노래질 때 별이 반짝입니다.{nl} - 캐릭터 피격시 이펙트가 재생됩니다.
-ITEM_20191228_024983	Gabija's Fire	가비야의 불
-ITEM_20191228_024984	A holy flame given to the most faithful of Gabija's followers.{nl}- Displays special effects and sound when equipped.{nl}- Effects are removed upon entering battle.	선택받은 가비야 여신의 신도에게 내려지는 신성한 불길입니다.{nl} - 착용시 이펙트, 사운드가 재생됩니다.{nl} - 전투 상태일 때 이펙트가 해제됩니다.
-ITEM_20191228_024985	[Exchange Shop] Gabija's Fire	[리사이클] 가비야의 불
-ITEM_20191228_024986	Instantly restores 20% of max. HP. {nl}Additionally restores the other 20% of HP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.{nl}Will be automatically deleted at the end of the event period.	HP를 20% 즉시 회복시키고 2초 간격으로 11초 동안 HP를 20% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.{nl}20년 1월 9일 점검 시, 일괄 삭제됩니다.
-ITEM_20191228_024987	Instantly restores 20% of max. SP. {nl}Additionally restores the other 20% of SP every 2 seconds over 11 seconds. {nl}Right-click to use. Cooldown of 20 seconds.{nl}Will be automatically deleted at the end of the event period.	SP를 20% 즉시 회복시키고 2초 간격으로 11초 동안 SP를 20% 회복 시켜줍니다. 마우스 오른쪽 클릭으로 사용합니다. 재사용 대기시간 20초.{nl}20년 1월 9일 점검 시, 일괄 삭제됩니다.
+ITEM_20191224_024960	Título entregue para os jogadores 'One of A Kind'. Clique com o botão direito do mouse para utilizar.
+ITEM_20191228_024961	Gabija Guardian Costume (Male)
+ITEM_20191228_024962	Armadura inspirada pelas lendas dos cavaleiros que guardam o Santuário da Deusa Gabija.{nl}Use para alterar a sua aparência.
+ITEM_20191228_024963	Gabija Guardian Costume (Female)
+ITEM_20191228_024964	Gabija Priest Costume (Male)
+ITEM_20191228_024965	Roupa utilizada pelos sacerdotes e sacerdotizas de Gabija.{nl}Use para alterar a sua aparência.
+ITEM_20191228_024966	Gabija Priestess Costume (Female)
+ITEM_20191228_024967	Firebird Hair Brooch
+ITEM_20191228_024968	Um certo alguém pode acabar notando você quando utilizar este item.
+ITEM_20191228_024969	Red Hair Knot
+ITEM_20191228_024970	Um ornamento feito para imitar o penteado da Deusa Gabija.
+ITEM_20191228_024971	Gabija Feather Hairband
+ITEM_20191228_024972	Feito naturalmente com cera e tinta vermelha.
+ITEM_20191228_024973	Messenger of Fire
+ITEM_20191228_024974	Um meio de comunicação, criado por Pyromancers no passado.{nl}Não restam muitas pessoas que sabem como utilizá-lo.
+ITEM_20191228_024975	Gabija Wings
+ITEM_20191228_024976	Criado por seus seguidores como um tributo à Deusa Gabija.{nl}Dizem que suas chamas não afetam os seguidores da Deusa.
+ITEM_20191228_024977	[Loja de Trocas] Gabija Wings
+ITEM_20191228_024978	Little Gabija Doll
+ITEM_20191228_024979	Dizem que esta boneca foi presenteada à Deusa Gabija.{nl}Costumava pertencer a alguém que viveu em Fedimian.{nl}A boneca imitará as ações de seu dono através de recursos mágicos.{nl}A boneca imita ataques básicos, poses e realiza ações especiais no Modo Descanso ou na abertura de lojas pessoais.
+ITEM_20191228_024980	[Loja de Trocas] Little Gabija Doll
+ITEM_20191228_024981	Intense Sparkle
+ITEM_20191228_024982	Brilha quando o sol está para se esconder.{nl}- Exibe um efeito especial quando o personagem é acertado.
+ITEM_20191228_024983	Gabija's Fire
+ITEM_20191228_024984	Uma chama sagrada entregue aos seguidores mais fiéis da Deusa Gabija.{nl}- Exibe um efeito especial e som ao ser equipado.{nl}- Efeitos são removidos quando se entra em batalha.
+ITEM_20191228_024985	[Loja de Trocas] Gabija's Fire
+ITEM_20191228_024986	Recupera 20% do HP Máximo instantaneamente.{nl}Adicionalmente, recupera outros 20% de HP a cada 2 segundos, por 11 segundos.{nl}Clique com o botão direito do mouse para utilizar. Cooldown: 20 segundos.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191228_024987	Recupera 20% do SP Máximo instantaneamente.{nl}Adicionalmente, recupera outros 20% de SP a cada 2 segundos, por 11 segundos.{nl}Clique com o botão direito do mouse para utilizar. Cooldown: 20 segundos.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191228_024988	NA	가비야의 수호기사 패키지
 ITEM_20191228_024989	NA	마우스 우클릭으로 사용할 수 있습니다. 사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - 가비야의 수호기사 선택상자 1개{nl} - 가비야의 은총이 담긴 깃털 x3
-ITEM_20191228_024990	Use to increase Guild EXP by +200.{nl}Will be automatically deleted at the end of the event period.	길드 경험치를 +200 상승시킬 수 있는 아이템입니다.{nl}19년 12월 26일 점검 시, 일괄 삭제됩니다.
-ITEM_20191228_024991	Pamoka Solution EXP 2x Voucher	시약병 경험치 증가량 2배 쿠폰
-ITEM_20191228_024992	Increase the amount of EXP earned for the Pamoka solution by 2x for 4 hours.{nl}Does not stack with other similar effects.	사용시 4시간 동안 시약병에 들어오는 경험치가 2배 증가합니다.{nl}동일 효과의 버프와는 중복되지 않습니다.
-ITEM_20191228_024993	Gabija Cube	가비야 여신의 큐브
-ITEM_20191228_024994	Gabija Cube x10+1	가비야 여신의 큐브 x10+1
-ITEM_20191228_024995	Upgrades your equipment to Stage 3 Transcendence.{nl}Can only be used on items of Stage 0~2 Transcendence. Right-click on the item and choose the equipment that you want to upgrade.	장비의 초월 수치를 3단계로 만들어줍니다.{nl}0~2단계 초월 아이템만 사용할 수 있으며, 3초월 스크롤을 우클릭한 후 초월할 아이템을 선택하면 3초월 상태로 변경됩니다.
-ITEM_20191228_024996	Event item. Grants 500 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 500 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}19년 12월 26일 점검시, 삭제됩니다.
-ITEM_20191228_024997	Event item. Grants 1,000 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 1000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}19년 12월 26일 점검시, 삭제됩니다.
-ITEM_20191228_024998	Event item. Grants 10,000 Attribute Points. Right-click to use.{nl}Will be automatically deleted at the end of the event period.	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 10,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}19년 12월 26일 점검시, 삭제됩니다.
-ITEM_20191228_024999	Right-click to obtain your choice of [Event] Savinose item.{nl}Obtained item cannot be enhanced, dismantled or used in changing appearance.{nl}[Event] Savinose Legva Shield x1{nl}[Event] Savinose Pilgriste Gloves x1{nl}[Event] Savinose Pilgriste Boots x1{nl}[Event] Savinose Pilgriste Pants x1{nl}[Event] Savinose Pilgriste Robe{nl}[Event] Savinose Vymedzai Leather Gloves x1{nl}[Event] Savinose Vymedzai Leather Boots x1{nl}[Event] Savinose Vymedzai Leather Pants x1{nl}[Event] Savinose Vymedzai Leather Armor x1{nl}[Event] Savinose Akmo Gauntlets x1{nl}[Event] Savinose Akmo Greaves x1{nl}[Event] Savinose Akmo Plate Pants x1{nl}[Event] Savinose Akmo Armor x1	우클릭 시, 11강 8초월 [이벤트] 세비노스 방어구를 선택하여 획득할 수 있습니다.{nl}획득한 방어구는 강화, 분해, 외형변경 추출이 불가합니다.{nl}[이벤트] 세비노스 레그바 실드 x1{nl}[이벤트] 세비노스 피그림테 글로브 x1{nl}[이벤트] 세비노스 피그림테 부츠 x1{nl}[이벤트] 세비노스 피그림테 팬츠 x1{nl}[이벤트] 세비노스 피그림테 로브 x1{nl}[이벤트] 세비노스 비메자이 레더 글로브 x1{nl}[이벤트] 세비노스 비메자이 레더 부츠 x1{nl}[이벤트] 세비노스 비메자이 레더 팬츠 x1{nl}[이벤트] 세비노스 비메자이 레더 아머 x1{nl}[이벤트] 세비노스 아크모 건틀릿 x1{nl}[이벤트] 세비노스 아크모 그리브 x1{nl}[이벤트] 세비노스 아크모 플레이트 팬츠 x1{nl}[이벤트] 세비노스 아크모 아머 x1
+ITEM_20191228_024990	Use para aumentar a EXP de Guilda em +200.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191228_024991	Pamoka Solution EXP 2x Voucher
+ITEM_20191228_024992	Aumenta a quantidade de EXP recebida por Pamoka Solution em 2x, por 4 horas.{nl}Não acumula com outros efeitos similares.
+ITEM_20191228_024993	Gabija Cube
+ITEM_20191228_024994	Gabija Cube x10+1
+ITEM_20191228_024995	Refina o seu equipamento para Transcendência Estágio 3.{nl}Só pode ser utilizado em itens com Transcendência Estágio 0~2. Clique com o botão direito do mouse e escolha qual equipamento você deseja Transcender.
+ITEM_20191228_024996	Item de evento. Garante 500 Pontos de Atributo. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191228_024997	Item de evento. Garante 1.000 Pontos de Atributo. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191228_024998	Item de evento. Garante 10.000 Pontos de Atributo. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191228_024999	Clique com o botão direito do mouse para escolher um item [Evento] Savinose.{nl}O item obtido não pode ser refinado, desmanchado nem utilizado para trocar aparência.{nl}[Evento] Savinose Legva Shield x1{nl}[Evento] Savinose Pilgriste Gloves x1{nl}[Evento] Savinose Pilgriste Boots x1{nl}[Evento] Savinose Pilgriste Pants x1{nl}[Evento] Savinose Pilgriste Robe{nl}[Evento] Savinose Vymedzai Leather Gloves x1{nl}[Evento] Savinose Vymedzai Leather Boots x1{nl}[Evento] Savinose Vymedzai Leather Pants x1{nl}[Evento] Savinose Vymedzai Leather Armor x1{nl}[Evento] Savinose Akmo Gauntlets x1{nl}[Evento] Savinose Akmo Greaves x1{nl}[Evento] Savinose Akmo Plate Pants x1{nl}[Evento] Savinose Akmo Armor x1
 ITEM_20191228_025000	NA	가비야의 은총이 담긴 깃털
 ITEM_20191228_025001	NA 	가비야의 은총을 담은 깃털입니다. 3개를 모아 교환 NPC 가비야의 전령에게 가져가면 가비야 테마 아이템 중 1개를 각 아이템별 확률에 따라 획득할 수 있습니다. {nl} {nl}{@st66d}1월 9일 점검 시 특성 포인트 4,000으로 일괄 변경됩니다.{/} {nl} {nl}{@st66d_y}{s18}가비야 테마 아이템 리스트{/}{/}{nl}- 가비야의 사제 코스튬 선택 상자 x1{nl}- 가비야의 불 x1{nl}- 작은 가비야 인형 x1{nl}- 가비야 날개 x1{nl}- 불새 헤어 브로치x1{nl}- 붉은 머리 매듭 x1{nl}- 가비야 깃털 머리장식 x1{nl}- 불의 전령 새x 1{nl}- 가비야의 은총이 담긴 날개 장식 x2 ~ 50{nl} {nl}{@st66d_y}{s18}* 게임 홈페이지 하단의 
 ITEM_20191228_025002	NA	을 통해 구성물과 확률을 확인할 수 있습니다.{/}{/}
 ITEM_20191228_025003	NA	가비야의 은총이 담긴 날개 장식
 ITEM_20191228_025004	NA	가비야의 은총을 담은 날개 장식입니다. 교환 NPC 가비야의 전령에게 가져가면  NPC 그리타에게 가져가면 가비야 테마 아이템 중 1개를 선택하여 가비야의 은총이 담긴 날개 장식을 요구 수량만큼 지급하고 획득할 수 있습니다. {nl} {nl}{@st66d}1월 9일 점검 시 특성 포인트 2,000으로 일괄 변경됩니다.{/}{nl} {nl}{@st66d_y}{s18}가비야 테마 아이템 리스트{/}{/}{nl}- 가비야 사제의 코스튬 선택 상자 x1{nl}- 가비야의 불 x1{nl}- 작은 가비야 인형 x1{nl}- 가비야 날개 x1{nl}- 불새 헤어 브로치x1{nl}- 붉은 머리 매듭 x1{nl}- 가비야 깃털 머리장식 x1
-ITEM_20191228_025005	[Event] New Year Coin	[이벤트] 4주년 기념 주화
-ITEM_20191228_025006	Coins created to commemorate the arrival of year 2020.{nl}Will be removed automatically at the end of the event period.	트리 오브 세이비어 4주년을 기념하기 위해 제작된 주화입니다. 20년 1월 9일 점검 전까지 획득할 수 있습니다.{nl}20년 1월 9일 점검 시 삭제됩니다.{nl}4주년 기념 상점에서 사용할 수 있습니다.
+ITEM_20191228_025005	[Evento] Moeda de Ano Novo
+ITEM_20191228_025006	Moeda criada para comemorar a chegada do ano 2020.{nl}Será automaticamente removido no final do período do evento.
