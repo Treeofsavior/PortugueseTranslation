@@ -4901,11 +4901,11 @@ ITEM_20150428_004900	A crystal obtained by processing a piece of crystal. {nl}Re
 ITEM_20150428_004901	A crystal obtained by processing a piece of crystal. {nl}Restores SP every 2 seconds. 280 SP é restaurado em 15 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 30 seconds.
 ITEM_20150428_004902	A crystal obtained by processing a piece of crystal. {nl}Increases your movement speed by 2 for 180 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 30 seconds.
 ITEM_20150428_004903	Attack Booster +10
-ITEM_20150428_004904	Adds 10 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20150428_004904	Adds 10 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20150428_004905	Attack Booster +15
-ITEM_20150428_004906	Adds 15 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20150428_004906	Adds 15 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20150428_004907	Attack Booster +20
-ITEM_20150428_004908	Adds 20 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20150428_004908	Adds 20 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20150428_004909	Lv1 Condensed HP Potion
 ITEM_20150428_004910	Restores HP every 2 segundos. {nl}800 HP é restaurado em 15 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 45 seconds.
 ITEM_20150428_004911	Lv1 Condensed SP Potion
@@ -7028,7 +7028,7 @@ ITEM_20151001_007027	A core containing spirit energy. Bring it to Svitrigaila.
 ITEM_20151001_007028	Petrified Last Breath
 ITEM_20151001_007029	The last breath that a monster took before it was petrified.
 ITEM_20151001_007030	Condensed Barrier Stone Core
-ITEM_20151001_007031	A barrier stone core that was able to be condensed. Using it during synthesis allows you to use another material as a detonator.
+ITEM_20151001_007031	A barrier stone core that was able to be condensed. Using it during synthesis Libera o uso de another material as a detonator.
 ITEM_20151001_007032	Magical orb made from a magical core and a detonator. Using it to aggravate spirit energy will cause the energy to overload and explode.
 ITEM_20151001_007033	Noctiluca Scintillans
 ITEM_20151001_007034	A monster that converts its food into an oil that glows in the water it lives in.
@@ -8829,17 +8829,17 @@ ITEM_20151224_008828	Guinea Pig
 ITEM_20151224_008829	Raw Meat
 ITEM_20151224_008830	Owl's favorite food. Completely restores your companion's HP and restores their Stamina by 60.
 ITEM_20151224_008831	Lv1 Attack Booster
-ITEM_20151224_008832	Adds 22 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008832	Adds 22 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008833	Lv1 Attack Booster
-ITEM_20151224_008834	Adds 15 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008834	Adds 15 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008835	Lv2 Attack Booster
-ITEM_20151224_008836	Adds 18 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008836	Adds 18 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008837	Lv3 Attack Booster
-ITEM_20151224_008838	Adds 21 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008838	Adds 21 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008839	Lv4 Attack Booster
-ITEM_20151224_008840	Adds 24 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008840	Adds 24 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008841	Lv5 Attack Booster
-ITEM_20151224_008842	Adds 27 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008842	Adds 27 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008843	Lv6 AoE Attack Ratio Potion
 ITEM_20151224_008844	Increases your AoE attack ratio by 3 for 45 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 60 seconds.
 ITEM_20151224_008845	Lv7 AoE Attack Ratio Potion
@@ -8861,25 +8861,25 @@ ITEM_20151224_008860	Increases your AoE attack ratio by 3 for 85 segundos. {nl}{
 ITEM_20151224_008861	Lv15 AoE Attack Ratio Potion
 ITEM_20151224_008862	Increases your AoE attack ratio by 3 for 90 segundos. {nl}{nl}{img mouseclick_right 30 30} para usar. Cooldown of 60 seconds.
 ITEM_20151224_008863	Lv6 Attack Booster
-ITEM_20151224_008864	Adds 30 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008864	Adds 30 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008865	Lv7 Attack Booster
-ITEM_20151224_008866	Adds 33 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008866	Adds 33 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008867	Lv8 Attack Booster
-ITEM_20151224_008868	Adds 36 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008868	Adds 36 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008869	Lv9 Attack Booster
-ITEM_20151224_008870	Adds 39 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008870	Adds 39 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008871	Lv10 Attack Booster
-ITEM_20151224_008872	Adds 42 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008872	Adds 42 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008873	Lv11 Attack Booster
-ITEM_20151224_008874	Adds 45 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008874	Adds 45 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008875	Lv12 Attack Booster
-ITEM_20151224_008876	Adds 48 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008876	Adds 48 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008877	Lv13 Attack Booster
-ITEM_20151224_008878	Adds 51 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008878	Adds 51 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008879	Lv14 Attack Booster
-ITEM_20151224_008880	Adds 54 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008880	Adds 54 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008881	Lv15 Attack Booster
-ITEM_20151224_008882	Adds 57 Attack to your weapon. {nl}Can be used after assigning it to a quick slot.
+ITEM_20151224_008882	Adds 57 Attack to your weapon. {nl}Pode ser utilizado depois de colocado na barra de habilidades.
 ITEM_20151224_008883	Highly Condensed HP Potion
 ITEM_20151224_008884	Highly Condensed SP Potion
 ITEM_20151224_008885	Highly Condensed Movement Speed Potion
@@ -16840,7 +16840,7 @@ ITEM_20171128_016839	Challenge Mode One Entry Voucher
 ITEM_20171128_016840	Use to enter the Challenge Mode one time.
 ITEM_20171128_016841	Challenge Mode One Entry Voucher (1 Dia)
 ITEM_20171128_016842	Challenge Mode One Entry Voucher (14 Dias)
-ITEM_20171128_016843	Adventure Journal Ranking Compensation Box (1 Day)
+ITEM_20171128_016843	Adventure Journal Ranking Compensation Box (1 Dia)
 ITEM_20171128_016844	Right-click to open and receive the following items:{nl} - Companion Voucher x12{nl} - x4 EXP Tome x3 {nl} - Attribute Points: 1,000 x2 {nl} - Instanced Dungeon Multiply Token x3{nl} - 500,000 Silver
 ITEM_20171128_016845	Halloween Surprise Cube
 ITEM_20171128_016846	Use to obtain one of the following items at random.{nl}Item List{nl}- Glow-in-the-Dark Skeleton Costume{nl}- Jack-o'-Lantern Helmet{nl}- Halloween Pop-up Book{nl}- Pumpkin Lantern
@@ -16939,37 +16939,37 @@ ITEM_20171128_016938	 A cake used in wedding celebrations.{nl}Increases +3 movem
 ITEM_20171128_016939	Earth's Happy Chest
 ITEM_20171128_016940	A Box given to the Savior whom helped to improve the happiness of the Earth
 ITEM_20171128_016941	Uska's Level up Chest (Nv.15)
-ITEM_20171128_016942	Clique com o botão direito do mouse para utilizar. Your character must be level 15 ou maior para utilizar.
+ITEM_20171128_016942	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 15 ou maior para utilizar.
 ITEM_20171128_016943	Uska's Level up Chest (Nv.40)
-ITEM_20171128_016944	Clique com o botão direito do mouse para utilizar. Your character must be level 40 ou maior para utilizar.
+ITEM_20171128_016944	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 40 ou maior para utilizar.
 ITEM_20171128_016945	Uska's Level up Chest (Nv.50)
-ITEM_20171128_016946	Clique com o botão direito do mouse para utilizar. Your character must be level 50 ou maior para utilizar.
+ITEM_20171128_016946	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 50 ou maior para utilizar.
 ITEM_20171128_016947	Uska's Level up Chest (Nv.75)
-ITEM_20171128_016948	Clique com o botão direito do mouse para utilizar. Your character must be level 75 ou maior para utilizar.
+ITEM_20171128_016948	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 75 ou maior para utilizar.
 ITEM_20171128_016949	Uska's Level up Chest (Nv.85)
-ITEM_20171128_016950	Clique com o botão direito do mouse para utilizar. Your character must be level 85 ou maior para utilizar.
+ITEM_20171128_016950	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 85 ou maior para utilizar.
 ITEM_20171128_016951	Uska's Level up Chest (Nv.100)
-ITEM_20171128_016952	Clique com o botão direito do mouse para utilizar. Your character must be level 100 ou maior para utilizar.
+ITEM_20171128_016952	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 100 ou maior para utilizar.
 ITEM_20171128_016953	Uska's Level up Chest (Nv.120)
-ITEM_20171128_016954	Clique com o botão direito do mouse para utilizar. Your character must be level 120 ou maior para utilizar.
+ITEM_20171128_016954	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 120 ou maior para utilizar.
 ITEM_20171128_016955	Uska's Level up Chest (Nv.140)
-ITEM_20171128_016956	Clique com o botão direito do mouse para utilizar. Your character must be level 140 ou maior para utilizar.
+ITEM_20171128_016956	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 140 ou maior para utilizar.
 ITEM_20171128_016957	Uska's Level up Chest (Nv.170)
-ITEM_20171128_016958	Clique com o botão direito do mouse para utilizar. Your character must be level 170 ou maior para utilizar.
+ITEM_20171128_016958	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 170 ou maior para utilizar.
 ITEM_20171128_016959	Uska's Level up Chest (Nv.180)
-ITEM_20171128_016960	Clique com o botão direito do mouse para utilizar. Your character must be level 180 ou maior para utilizar.
+ITEM_20171128_016960	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 180 ou maior para utilizar.
 ITEM_20171128_016961	Uska's Level up Chest (Nv.200)
-ITEM_20171128_016962	Clique com o botão direito do mouse para utilizar. Your character must be level 200 ou maior para utilizar.
+ITEM_20171128_016962	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 200 ou maior para utilizar.
 ITEM_20171128_016963	Uska's Level up Chest (Nv.220)
-ITEM_20171128_016964	Clique com o botão direito do mouse para utilizar. Your character must be level 220 ou maior para utilizar.
+ITEM_20171128_016964	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 220 ou maior para utilizar.
 ITEM_20171128_016965	Uska's Level up Chest (Nv.230)
-ITEM_20171128_016966	Clique com o botão direito do mouse para utilizar. Your character must be level 230 ou maior para utilizar.
+ITEM_20171128_016966	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 230 ou maior para utilizar.
 ITEM_20171128_016967	Uska's Level up Chest (Nv.270)
-ITEM_20171128_016968	Clique com o botão direito do mouse para utilizar. Your character must be level 270 ou maior para utilizar.
+ITEM_20171128_016968	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 270 ou maior para utilizar.
 ITEM_20171128_016969	Uska's Level up Chest (Nv.300)
-ITEM_20171128_016970	Clique com o botão direito do mouse para utilizar. Your character must be level 300 ou maior para utilizar.
+ITEM_20171128_016970	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 300 ou maior para utilizar.
 ITEM_20171128_016971	Uska's Level up Chest (Nv.330)
-ITEM_20171128_016972	Clique com o botão direito do mouse para utilizar. Your character must be level 330 ou maior para utilizar.
+ITEM_20171128_016972	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 330 ou maior para utilizar.
 ITEM_20171128_016973	7th Day TP box
 ITEM_20171128_016974	Clique com o botão direito do mouse para utilizar. It could be used after 7 days from acquiring it.
 ITEM_20171128_016975	[E-Run] Shining Golden Anvil
@@ -18837,63 +18837,63 @@ ITEM_20180629_018836	Maybe you're not the best soccer player out there, but you 
 ITEM_20180629_018837	PREEEEEET! Yellow card! This is your warning.{nl} Can be exchanged for medals at the Loja de Trocas.
 ITEM_20180629_018838	PREEEEEET! Red card! Out of the field! (Note: This doesn't actually let you expel other folks.){nl} Can be exchanged for medals at the Loja de Trocas.
 ITEM_20180629_018839	Goddess Sculpture
-ITEM_20180629_018840	A Goddess Statue will be created that gives the Goddess' Blessing buff for 5 minutes. {nl}This item will be removed at the end of the event period.
+ITEM_20180629_018840	A Goddess Statue will be created that gives the Goddess' Blessing buff for 5 minutes. {nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018841	5-Star Gem Abrasive
-ITEM_20180629_018842	Item used for enhancing gems that drastically increases the EXP of gems.{nl} - Gem EXP gained: 14700{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018842	Item used for enhancing gems that drastically increases the EXP of gems.{nl} - Gem EXP gained: 14700{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018843	Instanced Dungeon One Entry Voucher
-ITEM_20180629_018844	Use this to enter an instanced dungeons or redo a mercenary mission once more.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018844	Use this to enter an instanced dungeons or redo a mercenary mission once more.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018845	Instanced Dungeon Reset Voucher
-ITEM_20180629_018846	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018846	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018847	Level Up Chest (Lv 15)
-ITEM_20180629_018848	Clique com o botão direito do mouse para utilizar. This item can be used by players above level 15.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018848	Clique com o botão direito do mouse para utilizar. This item can be used by players above level 15.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018849	Level Up Chest (Lv 40)
-ITEM_20180629_018850	Clique com o botão direito do mouse para utilizar. This item can be used by players above level 40.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018850	Clique com o botão direito do mouse para utilizar. This item can be used by players above level 40.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018851	Level Up Chest (Lv 50)
-ITEM_20180629_018852	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 50 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018852	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 50 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018853	Level Up Chest (Lv 75)
-ITEM_20180629_018854	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 75 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018854	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 75 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018855	Level Up Chest (Lv 85)
-ITEM_20180629_018856	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 85 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018856	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 85 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018857	Level Up Chest (Lv 100)
-ITEM_20180629_018858	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 100 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018858	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 100 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018859	Level Up Chest (Lv 120)
-ITEM_20180629_018860	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 120 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018860	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 120 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018861	Level Up Chest (Lv 140)
-ITEM_20180629_018862	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 140 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018862	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 140 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018863	Level Up Chest (Lv 170)
-ITEM_20180629_018864	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 170 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018864	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 170 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018865	Level Up Chest (Lv 180)
-ITEM_20180629_018866	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 180 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018866	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 180 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018867	Level Up Chest (Lv 200)
-ITEM_20180629_018868	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 200 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018868	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 200 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018869	Level Up Chest (Lv 220)
-ITEM_20180629_018870	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 220 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018870	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 220 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018871	Level Up Chest (Lv 230)
-ITEM_20180629_018872	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 230 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018872	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 230 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018873	Level Up Chest (Lv 270)
-ITEM_20180629_018874	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 270 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018874	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 270 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018875	Level Up Chest (Lv 300)
-ITEM_20180629_018876	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 300 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018876	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 300 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018877	Level Up Chest (Lv 330)
-ITEM_20180629_018878	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 330 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018878	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 330 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018879	Shining Golden Anvil
-ITEM_20180629_018880	This item can only be used on equipment with 0 Potential. The item will not be destroyed if an enhancement attempt fails, but its enhancement level will be reduced by 1. When you fail with an item enhanced to +12 or higher, the enhancement level will be reduced to +10. Clique com o botão direito do mouse para utilizar.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018880	This item can only be used on equipment with 0 Potential. The item will not be destroyed if an enhancement attempt fails, but its enhancement level will be reduced by 1. When you fail with an item enhanced to +12 or higher, the enhancement level will be reduced to +10. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018881	Miracle Seeds
-ITEM_20180629_018882	A sprout gifted by the Goddess' Blessing will grow when used.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018882	A sprout gifted by the Goddess' Blessing will grow when used.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018883	Level Up Chest (Lv 350)
-ITEM_20180629_018884	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 350 or above.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018884	Clique com o botão direito do mouse para utilizar. This item can be used by players of level 350 or above.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018885	Jumping Package Box
 ITEM_20180629_018886	Daily Attribute Point Box
-ITEM_20180629_018887	Clique com o botão direito do mouse para utilizar. You will gain 500 attribute points every day during the event period.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018887	Clique com o botão direito do mouse para utilizar. You will gain 500 attribute points every day during the event period.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018888	Title - Ultimate Savior
-ITEM_20180629_018889	Use to obtain the event title. This item will be removed at the end of the event period.
+ITEM_20180629_018889	Use to obtain the event title. Será automaticamente removido no final do período do evento.
 ITEM_20180629_018890	Weapon Exchange Voucher
 ITEM_20180629_018891	Uska will exchange this voucher for a Rare Lv 350 weapon enhanced to +11 and transcended to Stage 5.{nl}The voucher will be removed at the end of the event period.
 ITEM_20180629_018892	Title - Receiver of the Revelations
-ITEM_20180629_018893	Contains a title awarded for participating in Uska's event. This item will be removed at the end of the event period.
+ITEM_20180629_018893	Contains a title awarded for participating in Uska's event. Será automaticamente removido no final do período do evento.
 ITEM_20180629_018894	Retiarius Ruidarius Costume Box
 ITEM_20180629_018895	Fragmento de Convite
-ITEM_20180629_018896	Used in the May Wedding Bouquet event. This item will be removed at the end of the event period.
+ITEM_20180629_018896	Used in the May Wedding Bouquet event. Será automaticamente removido no final do período do evento.
 ITEM_20180629_018897	Barbershop Chair
 ITEM_20180629_018898	Item received through the Beauty Shop event.{nl}Using this item will summon a barbershop chair that you can sit on.
 ITEM_20180629_018899	Firecrackers
@@ -18906,13 +18906,13 @@ ITEM_20180629_018905	Symbol of Unity
 ITEM_20180629_018906	When in a party, you must equip the  
 ITEM_20180629_018907	  title to use the item. Movement speed +2 and increased EXP gains for all party members for the duration of 30 minutes.{nl}The item will be removed after the event period.
 ITEM_20180629_018908	Title - New Friend
-ITEM_20180629_018909	Title awarded for participating in the Let's Be Partners event.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018909	Title awarded for participating in the Let's Be Partners event.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018910	Guild Lv 4 EXP Card
 ITEM_20180629_018911	This item can only be used with a Lv 1 Guild. The Guild level will be increased to 4.
 ITEM_20180629_018912	Symbol of Guild Membership
-ITEM_20180629_018913	Gives movement speed +1 and Looting Chance +200 for the duration of 30 minutes.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018913	Gives movement speed +1 and Looting Chance +200 for the duration of 30 minutes.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018914	Title - Love My Guild
-ITEM_20180629_018915	Contains a title awarded for participating in the Guilds Make TOS event.{nl}This item will be removed at the end of the event period.
+ITEM_20180629_018915	Contains a title awarded for participating in the Guilds Make TOS event.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20180629_018916	Penalty Shoot-Out
 ITEM_20180629_018917	Lena's Thank You Cube
 ITEM_20180629_018918	Contém itens premiados por participar do evento Secret Stone Plate Message . {Nl} Este item será removido no final do período do evento.
@@ -18923,7 +18923,7 @@ ITEM_20180629_018922	Contains a Fairy Costume. Clique com o botão direito do mo
 ITEM_20180629_018923	Pista do Hat Trick
 ITEM_20180629_018924	Use este item para adivinhar um número no evento do Hat Trick Quiz. Será eliminado no final do período do evento.
 ITEM_20180629_018925	Title - Big Scorer
-ITEM_20180629_018926	Contains a title awarded for participating in the 3 vs 3 Soccer League event. This item will be removed at the end of the event period.
+ITEM_20180629_018926	Contains a title awarded for participating in the 3 vs 3 Soccer League event. Será automaticamente removido no final do período do evento.
 ITEM_20180629_018927	Book given by the Exorcist Master. It contains information about the history of the Exorcists.
 ITEM_20180629_018928	Cure
 ITEM_20180629_018929	A cure for the soldiers in Dvaisa Ridge.
@@ -19490,7 +19490,7 @@ ITEM_20180827_019489	A sprout gifted by the Goddess' Blessing will grow when use
 ITEM_20180827_019490	[R10] Booster Pack (Nv. 350) 
 ITEM_20180827_019491	Clique com o botão direito do mouse para utilizar. Seu personagem precisa estar no nível 350 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20180827_019492	[R10] Title - Ultimate Savior
-ITEM_20180827_019493	Contains a title awarded for participating in Uska's event. This item will be removed at the end of the event period.
+ITEM_20180827_019493	Contains a title awarded for participating in Uska's event. Será automaticamente removido no final do período do evento.
 ITEM_20180827_019494	[R10] Title - Receiver of the Revelations
 ITEM_20180827_019495	[R10] Booster Pack (Nv. 380) 
 ITEM_20180827_019496	Clique com o botão direito do mouse para utilizar. Seu personagem precisa estar no nível 380 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
@@ -19756,7 +19756,7 @@ ITEM_20181017_019755	 - Ataques sob efeito de [Bazooka] garantem 10% de chance d
 ITEM_20181017_019756	Vendo como várias armas foram absorvidas para dentro do corpo do Wastrel, alguém poderia pensar que ao menos algumas delas seriam incorporadas dentro dele.
 ITEM_20181017_019757	Asio Cannon
 ITEM_20181017_019758	 - Nível de [Sweeping Cannon] {img green_up_arrow 16 16}2{nl}  - Nível de [Siege Burst] {img green_up_arrow 16 16}2
-ITEM_20181017_019759	O Asiomage foi fortemente influenciado pela fervor escolar excessivo que é típico dos Wizards, que o levou a criar armas desnecessárias sem uma razão aparente.
+ITEM_20181017_019759	O Asiomage foi fortemente influenciado pelo fervor escolar excessivo que é típico dos Wizards, que o levou a criar armas desnecessárias sem uma razão aparente.
 ITEM_20181017_019760	Wastrel Zvaigzde Musket
 ITEM_20181017_019761	Esta arma não foi absorvida para dentro do corpo do Wastrel, tendo viajado pela fenda que apareceu durante o Medzio Diena. Dizem que foi cuidada por um aventureiro que tentou derrotar o Wastrel.
 ITEM_20181017_019762	Asio Musket
@@ -19855,27 +19855,27 @@ ITEM_20181017_019854	Use it to enter an instanced dungeon one more time.{nl}Ser�
 ITEM_20181017_019855	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.{nl}Será removido automaticamente após o período do evento.
 ITEM_20181017_019856	Use it when you need some time out.{nl}Será removido automaticamente após o período do evento.
 ITEM_20181017_019857	Fire it up and enjoy with your party.{nl}Grants 60 minutes of +2 movement speed and +50% EXP gains to all party members.
-ITEM_20181017_019858	Clique com o botão direito do mouse para utilizar. Your character must be level 15 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019859	Clique com o botão direito do mouse para utilizar. Your character must be level 40 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019860	Clique com o botão direito do mouse para utilizar. Your character must be level 50 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019861	Clique com o botão direito do mouse para utilizar. Your character must be level 75 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019862	Clique com o botão direito do mouse para utilizar. Your character must be level 85 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019863	Clique com o botão direito do mouse para utilizar. Your character must be level 100 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019864	Clique com o botão direito do mouse para utilizar. Your character must be level 120 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019865	Clique com o botão direito do mouse para utilizar. Your character must be level 140 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019866	Clique com o botão direito do mouse para utilizar. Your character must be level 170 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019867	Clique com o botão direito do mouse para utilizar. Your character must be level 180 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019868	Clique com o botão direito do mouse para utilizar. Your character must be level 200 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019869	Clique com o botão direito do mouse para utilizar. Your character must be level 220 ou maior para utilizar.{nl}Will be automatically 
-ITEM_20181017_019870	Clique com o botão direito do mouse para utilizar. Your character must be level 230 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019871	Clique com o botão direito do mouse para utilizar. Your character must be level 270 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019872	Clique com o botão direito do mouse para utilizar. Your character must be level 300 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019873	Clique com o botão direito do mouse para utilizar. Your character must be level 330 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019858	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 15 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019859	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 40 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019860	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 50 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019861	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 75 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019862	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 85 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019863	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 100 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019864	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 120 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019865	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 140 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019866	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 170 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019867	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 180 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019868	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 200 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019869	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 220 ou maior para utilizar.{nl}Will be automatically 
+ITEM_20181017_019870	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 230 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019871	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 270 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019872	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 300 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019873	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 330 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20181017_019874	Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon 
 ITEM_20181017_019875	A sprout gifted by the Goddess' Blessing will grow when used.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019876	Clique com o botão direito do mouse para utilizar. Your character must be level 350 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
-ITEM_20181017_019877	Contains a title awarded for participating in Uska's event. This item will be removed at the end of the event period.
-ITEM_20181017_019878	Clique com o botão direito do mouse para utilizar. Your character must be level 380 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019876	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 350 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20181017_019877	Contains a title awarded for participating in Uska's event. Será automaticamente removido no final do período do evento.
+ITEM_20181017_019878	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 380 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20181017_019879	Right-click and enter the name of a gesture to make all characters within a range of 100 adopt the same gesture.{nl}To see the names of gestures, open [F8].{nl}Characters not using a Token will not be able to adopt Token-exclusive gestures.{nl}Será removido automaticamente após o período do evento.
 ITEM_20181017_019880	This invitation will help you level up. Será removido automaticamente após o período do evento.
 ITEM_20181017_019881	Selecione o equipamento que deseja receber da lista.{nl}Será removido automaticamente após o período do evento.
@@ -21201,50 +21201,50 @@ ITEM_20190104_021200	Use it to enter an instanced dungeon one more time.{nl}Ser�
 ITEM_20190104_021201	[Re:Build] Instanced Dungeon Reset Voucher
 ITEM_20190104_021202	Use this to reset the instance entry restrictions for instanced dungeons and mercenary missions.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021203	[Re:Build] Booster Pack (Lv 15)
-ITEM_20190104_021204	Clique com o botão direito do mouse para utilizar. Your character must be level 15 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021204	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 15 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021205	[Re:Build] Booster Pack (Lv 40)
-ITEM_20190104_021206	Clique com o botão direito do mouse para utilizar. Your character must be level 40 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021206	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 40 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021207	[Re:Build] Booster Pack (Lv 50)
-ITEM_20190104_021208	Clique com o botão direito do mouse para utilizar. Your character must be level 50 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021208	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 50 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021209	[Re:Build] Booster Pack (Lv 75)
-ITEM_20190104_021210	Clique com o botão direito do mouse para utilizar. Your character must be level 75 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021210	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 75 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021211	[Re:Build] Booster Pack (Lv 85)
-ITEM_20190104_021212	Clique com o botão direito do mouse para utilizar. Your character must be level 85 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021212	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 85 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021213	[Re:Build] Booster Pack (Lv 100)
-ITEM_20190104_021214	Clique com o botão direito do mouse para utilizar. Your character must be level 100 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021214	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 100 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021215	[Re:Build] Booster Pack (Lv 120)
-ITEM_20190104_021216	Clique com o botão direito do mouse para utilizar. Your character must be level 120 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021216	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 120 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021217	[Re:Build] Booster Pack (Lv 140)
-ITEM_20190104_021218	Clique com o botão direito do mouse para utilizar. Your character must be level 140 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021218	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 140 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021219	[Re:Build] Booster Pack (Lv 170)
-ITEM_20190104_021220	Clique com o botão direito do mouse para utilizar. Your character must be level 170 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021220	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 170 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021221	[Re:Build] Booster Pack (Lv 180)
-ITEM_20190104_021222	Clique com o botão direito do mouse para utilizar. Your character must be level 180 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021222	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 180 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021223	[Re:Build] Booster Pack (Lv 200)
-ITEM_20190104_021224	Clique com o botão direito do mouse para utilizar. Your character must be level 200 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021224	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 200 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021225	[Re:Build] Booster Pack (Lv 220)
-ITEM_20190104_021226	Clique com o botão direito do mouse para utilizar. Your character must be level 220 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021226	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 220 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021227	[Re:Build] Booster Pack (Lv 230)
-ITEM_20190104_021228	Clique com o botão direito do mouse para utilizar. Your character must be level 230 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021228	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 230 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021229	[Re:Build] Booster Pack (Lv 270)
-ITEM_20190104_021230	Clique com o botão direito do mouse para utilizar. Your character must be level 270 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021230	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 270 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021231	[Re:Build] Booster Pack (Lv 300)
-ITEM_20190104_021232	Clique com o botão direito do mouse para utilizar. Your character must be level 300 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021232	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 300 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021233	[Re:Build] Booster Pack (Lv 330)
-ITEM_20190104_021234	Clique com o botão direito do mouse para utilizar. Your character must be level 330 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021234	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 330 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021235	[Re:Build] Shining Golden Anvil
 ITEM_20190104_021236	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. Does not require a silver fee for enhancement. When you fail at an enhancement level of +12 or higher, it will reduce to +10.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021237	[Re:Build] Miracle Seeds
 ITEM_20190104_021238	Use to grow a sprout containing all the grace of the goddesses.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021239	[Re:Build] Booster Pack (Lv 350)
-ITEM_20190104_021240	Clique com o botão direito do mouse para utilizar. Your character must be level 350 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021240	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 350 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021241	[Re:Build] Daily Attribute Points Box
 ITEM_20190104_021242	Clique com o botão direito do mouse para utilizar. Grants 500 Attribute Points every day during the event period.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021243	[Re:Build] Title - Ultimate Savior
-ITEM_20190104_021244	Contains a title awarded for participating in Uska's event. This item will be removed at the end of the event period.
+ITEM_20190104_021244	Contains a title awarded for participating in Uska's event. Será automaticamente removido no final do período do evento.
 ITEM_20190104_021245	[Re:Build] Title - Receiver of the Revelations
 ITEM_20190104_021246	[Re:Build] Booster Pack (Lv 380)
-ITEM_20190104_021247	Clique com o botão direito do mouse para utilizar. Your character must be level 380 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
+ITEM_20190104_021247	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 380 ou maior para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021248	[Re:Build] Attribute Points: 1,000
 ITEM_20190104_021249	Item de evento. Grants 1000 Attribute Points. Clique com o botão direito do mouse para utilizar.{nl}Será removido automaticamente após o período do evento.
 ITEM_20190104_021250	Attribute Points: 10,000 (14 Dias)
@@ -23370,54 +23370,54 @@ ITEM_20191024_023369	Moringponia Leather Gloves
 ITEM_20191024_023370	Misrus Plate Gauntlet
 ITEM_20191024_023371	Misrus Gloves
 ITEM_20191024_023372	Misrus Leather Gloves
-ITEM_20191024_023373	Adventurer's Necklace (7 Days)
-ITEM_20191024_023374	It lightens the heart, preparing the wearer for the weary road ahead.
-ITEM_20191024_023375	Adventurer's Bracelet (7 Days)
+ITEM_20191024_023373	Adventurer's Necklace (7 Dias)
+ITEM_20191024_023374	Este item ilunima o coração, preparando o usuário para a difícil estrada pela frente.
+ITEM_20191024_023375	Adventurer's Bracelet (7 Dias)
 ITEM_20191024_023376	Red TOS Ranger Costume (Male)
-ITEM_20191024_023377	Costume worn by the leader of the TOS Rangers.{nl}Use para alterar a sua aparência. Allows you to use 
+ITEM_20191024_023377	Traje utilizado pelo líder dos TOS Rangers{nl}Use para alterar a sua aparência. Libera o uso de 
 ITEM_20191024_023378	Red TOS Ranger Costume (Female)
 ITEM_20191024_023379	TOS Ranger Pink Costume (Male)
-ITEM_20191024_023380	Costume worn by the Pink TOS Ranger.{nl}Use para alterar a sua aparência. Allows you to use 
+ITEM_20191024_023380	Traje utilizado pelo TOS Ranger Rosa.{nl}Use para alterar a sua aparência. Libera o uso de 
 ITEM_20191024_023381	Blue TOS Ranger Costume (Female)
-ITEM_20191024_023382	Costume worn by the Blue TOS Ranger.{nl}Use para alterar a sua aparência. Allows you to use 
+ITEM_20191024_023382	Traje utilizado pelo TOS Ranger Azul.{nl}Use para alterar a sua aparência. Libera o uso de 
 ITEM_20191024_023383	Green TOS Ranger Costume (Male)
-ITEM_20191024_023384	Costume worn by the Green TOS Ranger.{nl}Use para alterar a sua aparência. Allows you to use 
+ITEM_20191024_023384	Traje utilizado pelo TOS Ranger Verde.{nl}Use para alterar a sua aparência. Libera o uso de 
 ITEM_20191024_023385	Yellow TOS Ranger Costume (Female)
-ITEM_20191024_023386	Costume worn by the Yellow TOS Ranger.{nl}Use para alterar a sua aparência. Allows you to use 
-ITEM_20191024_023387	Red TOS Ranger Costume - Transform
-ITEM_20191024_023388	TOS Ranger Transfomation Costume
-ITEM_20191024_023389	Pink TOS Ranger Costume - Transform
-ITEM_20191024_023390	Blue TOS Ranger Costume - Transform
-ITEM_20191024_023391	Yellow TOS Ranger Costume - Transform
-ITEM_20191024_023392	Green TOS Ranger Costume - Transform
+ITEM_20191024_023386	Traje utilizado pelo TOS Ranger Amarelo.{nl}Use para alterar a sua aparência. Libera o uso de 
+ITEM_20191024_023387	Red TOS Ranger Costume - Transformado
+ITEM_20191024_023388	Traje transformado de TOS Ranger
+ITEM_20191024_023389	Pink TOS Ranger Costume - Transformado
+ITEM_20191024_023390	Blue TOS Ranger Costume - Transformado
+ITEM_20191024_023391	Yellow TOS Ranger Costume - Transformado
+ITEM_20191024_023392	Green TOS Ranger Costume - Transformado
 ITEM_20191024_023393	Black Rabbit Costume
-ITEM_20191024_023394	A Black Rabbit costume perfect for a spooky night.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023394	Um traje de coelho preto, perfeito para uma noite assustadora.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023395	Candy Killer Rascal Costume (Male)
-ITEM_20191024_023396	A popular Trick-or-treating costume among children.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023396	Um traje de dia das bruxas muito comum entre as crianças, utilizado para pedir doces.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023397	Candy Killer Clown Costume (Female)
 ITEM_20191024_023398	Haunted Hospital Nurse Costume (Male)
-ITEM_20191024_023399	A costume of a spooky nurse guarding the haunted hospital.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023399	Um traje de uma enfermeira muito assustadora que protege um hospital assombrado.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023400	Haunted Hospital Nurse Costume (Female)
 ITEM_20191024_023401	Skull Party Skeleton Costume (Male)
-ITEM_20191024_023402	A costume required for the living to join in the Skull Party.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023402	Traje absolutamente necessário para participar da Skull Party.{nl}Use para alterar a sua aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023403	Skull Party Skeleton Costume (Female)
 ITEM_20191024_023404	Champa Hairpin
-ITEM_20191024_023405	A fragrant hairpin made using Champa flower. The Champa flower symbolizes 
-ITEM_20191024_023406	friendship
+ITEM_20191024_023405	Um acessório de cabelo muito perfumado, feito utilizando uma Plumeria. Esta flor simboliza 
+ITEM_20191024_023406	amizade
 ITEM_20191024_023407	.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023408	Yellow Beanie
-ITEM_20191024_023409	Attire worn by the TOS Rangers when off duty.{nl} Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023409	Adorno utilizado pelos TOS Rangers quando não estão salvando o Reino.{nl} Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023410	Checkered Hat
 ITEM_20191024_023411	TOS Ranger Hairpin
-ITEM_20191024_023412	Hairpin worn by the Yellow TOS Ranger when off duty.{nl} Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023412	Presilha utilizada pelo TOS Ranger Amarelo quando não está salvando o Reino.{nl} Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023413	TOS Ranger Glasses
-ITEM_20191024_023414	Glasses worn by Green TOS Ranger when off duty.{nl} Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023414	Óculos utilizados pelo TOS Ranger Verde quando não está salvando o Reino.{nl} Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023415	Clown Mask
-ITEM_20191024_023416	A creepy clown mask.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023416	Uma máscara de palhaço assustadora.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023417	Butcher Knife Headband
-ITEM_20191024_023418	A headband in the shape of a butcher's knife.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023418	Um enfeite de cabelo no formato de faca de açogueiro.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023419	Skull Party Mask
-ITEM_20191024_023420	A skull mask that can be worn at the Skull Party.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023420	Uma máscara de esqueleto para ser utilizada na Skull Party.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023421	TOS Ranger Sword
 ITEM_20191024_023422	TOS Ranger Two-handed Sword
 ITEM_20191024_023423	TOS Ranger Spear
@@ -23450,81 +23450,81 @@ ITEM_20191024_023449	Vital Sign Pistol
 ITEM_20191024_023450	Haunted Skull Staff
 ITEM_20191024_023451	Hallowventer Hand Rod
 ITEM_20191024_023452	Occult Paper Charm Shield
-ITEM_20191024_023453	[Moonlight] Skiaclipse Varna Sword
-ITEM_20191024_023454	A copy of the Skiaclipse Varna Sword created by the Druid Master Gina Greene using the Moonlight Anvil. It is as effective as the real deal.
-ITEM_20191024_023455	[Moonlight] Skiaclipse Varna Two-handed Sword
-ITEM_20191024_023456	[Moonlight] Skiaclipse Varna Rod
-ITEM_20191024_023457	[Moonlight] Skiaclipse Varna Bow
-ITEM_20191024_023458	[Moonlight] Skiaclipse Varna Crossbow
-ITEM_20191024_023459	[Moonlight] Skiaclipse Varna Mace
-ITEM_20191024_023460	[Moonlight] Skiaclipse Varna Two-handed Mace
-ITEM_20191024_023461	[Moonlight] Skiaclipse Varna Shield
-ITEM_20191024_023462	[Moonlight] Skiaclipse Varna Spear
-ITEM_20191024_023463	[Moonlight] Skiaclipse Varna Pike
-ITEM_20191024_023464	[Moonlight] Skiaclipse Varna Dagger
-ITEM_20191024_023465	[Moonlight] Skiaclipse Varna Staff
-ITEM_20191024_023466	[Moonlight] Skiaclipse Varna Pistol
-ITEM_20191024_023467	[Moonlight] Skiaclipse Varna Rapier
-ITEM_20191024_023468	[Moonlight] Skiaclipse Varna Cannon
-ITEM_20191024_023469	[Moonlight] Skiaclipse Varna Musket
+ITEM_20191024_023453	[Luar] Skiaclipse Varna Sword
+ITEM_20191024_023454	Uma cópia da mesma arma Skiaclipse Varna, criada pela Mestre Druid, Gina Greene, utilizando a Bigorna do Luar. Esta cópia é tão efetiva quanto o item original.
+ITEM_20191024_023455	[Luar] Skiaclipse Varna Two-handed Sword
+ITEM_20191024_023456	[Luar] Skiaclipse Varna Rod
+ITEM_20191024_023457	[Luar] Skiaclipse Varna Bow
+ITEM_20191024_023458	[Luar] Skiaclipse Varna Crossbow
+ITEM_20191024_023459	[Luar] Skiaclipse Varna Mace
+ITEM_20191024_023460	[Luar] Skiaclipse Varna Two-handed Mace
+ITEM_20191024_023461	[Luar] Skiaclipse Varna Shield
+ITEM_20191024_023462	[Luar] Skiaclipse Varna Spear
+ITEM_20191024_023463	[Luar] Skiaclipse Varna Pike
+ITEM_20191024_023464	[Luar] Skiaclipse Varna Dagger
+ITEM_20191024_023465	[Luar] Skiaclipse Varna Staff
+ITEM_20191024_023466	[Luar] Skiaclipse Varna Pistol
+ITEM_20191024_023467	[Luar] Skiaclipse Varna Rapier
+ITEM_20191024_023468	[Luar] Skiaclipse Varna Cannon
+ITEM_20191024_023469	[Luar] Skiaclipse Varna Musket
 ITEM_20191024_023470	[Evento] Ignas Robe
-ITEM_20191024_023471	It is hard to tell what methods Ignas used to craft this item from the essence of Ziburynas. If he was able to harness the full power of the essence, he certainly would have created much stronger equipment.{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023471	É difícil dizer quais métodos o Ignas usou para confeccionar este item através da Essência de Ziburynas. Se ele foi capaz de obter o poder completo da Essência, ele certamente teria criado um equipamento muito mais forte.{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023472	[Evento] Ignas Leather Armor
-ITEM_20191024_023473	No one knows exactly why Ignas produced different pieces of equipment from such varied materials. Some believe he intended to target enemies other than the Resistance.{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023473	Ninguém sabe exatamente o por quê do Ignas produzir diferentes peças de equipamento de materiais tão variados. Alguns acreditam que ele tinha a intenção de avançar contra outros inimigos além da Resistência.{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023474	[Evento] Ignas Plate Armor
-ITEM_20191024_023475	Given how the Astral Tower is located in the middle of a lake, the likelihood of a surprise attack is significantly low. One wonders, then, what Ignas' intentions were behind the making of this plate armor.{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023475	Considerando que a Astral Tower fica localizada no meio de um lago, as chances de um ataque surpresa são significativamente baixas. Isto leva a imaginar, então, quais as intenções do Ignas por trás da confecção desta armadura de metal.{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023476	[Evento] Ignas Pants
-ITEM_20191024_023477	One could assume that Ignas only possessed a limited amount of the Essence of Ziburynas, seeing as how he used fairly little of it on his line of equipment.{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023477	Pode-se assumir que Ignas só possuía uma quantidade limitade da Essência de Ziburynas, analisando a pouca quantidade que ele usou na sua linha de equipamentos.{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023478	[Evento] Ignas Leather Pants
-ITEM_20191024_023479	Were it not for production constraints, a full Schaffenstar army equipped with Ignas' items would become the strongest in the Kingdom. One could even argue that would be enough to defeat any other armed forces in the nation 4-to-1.{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023479	Se não fosse por restrições na produção, um exército da Schaffenstar equipado com os itens do Ignas se tornaria o mais forte do Reino. Pode-se até argumentar que seria suficiente para derrotar qualquer outra das forças armadas da nação de 4 para 1.{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023480	[Evento] Ignas Plate Pants
-ITEM_20191024_023481	When he created these pants, Ignas mentioned that they were designed as testing equipment for Schwarzer Reiters and other mercenaries from the Astral Tower.{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023481	Quando Ignas desenvolveu estas calças, ele mencionou que foram projetadas como equipamento de teste para os Scharzer Reiters e outros mercenários da Astral Tower.{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023482	[Evento] Ignas Boots
-ITEM_20191024_023483	The Astral Tower includes flooring of many types, including wire mesh floors. These boots were created to protect the wearer's feet from all kinds of floor materials.{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023483	A Astral Tower possui diferentes tipos de pavimentação, incluindo pisos de malha de arame. Estas Botas foram criadas para proteger os pés do usuário de qualquer material de piso.{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023484	[Evento] Ignas Leather Boots
-ITEM_20191024_023485	Some pieces are said to contain the inscription, "Schaffenstar under the stars, the world under Schaffenstar."{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023485	Dizem que algumas peças contém a inscrição "As Estrelas sob Schaffenstar, Schaffenstar sob o Mundo."{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023486	[Evento] Ignas Greaves
-ITEM_20191024_023487	According to Elder Ramunas' experiments, extracting the Essence of Ziburynas from Ignas' equipment is not as easy as it may seem. He believes, however, that a magic Class Master may be able to achieve just that one day.{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023487	De acordo com os experimentos do Sênior Ramunas, extrair a Essência de Ziburynas do equipamento de Ignas não é tão fácil quando parece. Ele acredita, porém, que um Mestre de Classe mágico pode ser capaz de alcançar isso algum dia.{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023488	[Evento] Ignas Gloves
-ITEM_20191024_023489	Looking at how each piece of Ignas' equipment is adorned with Schaffenstar symbols, one can assume that these would be the items used by its members, had he remained as head of the organization.{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023489	Vendo como cada peça do equipamento de Ignas é adornado com símbolos da Schaffenstar, pode-se assumir que estes seriam os itens utilizados por seus membros, caso ele permanecesse como líder da organização.{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023490	[Evento] Ignas Leather Gloves
-ITEM_20191024_023491	According to reports from his early career, Ignas predicted that any act of treason within the Schaffenstar would be met with three obstacles: Lydia Schaffen's provisions, the Three-Layered Castle Wall, and Class Master neutrality. These gloves, however, provide a clue as to which Master he foresaw as an ally.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023492	[Evento] Ignas Plate Gauntlet
-ITEM_20191024_023493	The claws in these gauntlets are useful not just in combat situations, but also in the daily life of Schaffenstar members, especially when it comes to cleaning the external walls of the Astral Tower.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023494	This piece of equipment disappeared with the accident of Nicopolis, but it returned to our world around the same time as the Asiomage and the Quipmage.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023495	The Asiomage is notably fond of this weapon, as it provides an increase in intelligence. More than a tool, it serves as a sort of mood-boosting toy to the monster.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023496	The Quipmage was always interested in expanding his influence. To achieve this, he had plans to recruit mercenaries and provide them with weapons that could surpass the power of those used by the Royal Army.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023497	The Asiomage is carrying out research to improve the equipment originally developed by his other self, the Quipmage. This item, for example, is already more effective than when it first returned to our world.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023498	The Asiomage is not fond of this weapon. He still remembers being used as a living bullseye in past experiments, particularly for crossbows.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023499	Some scientists complain that the name of this item is arbitrary, as it bears no resemblance to owls whatsoever.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023500	This weapon is said to have been intended for an army of Golem monsters. It is unknown whether the Quipmage or the Asiomage have any memory of that fact.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023501	Unlike other Asio items, this one faithfully represents the style and conventions popular in old Nicopolis before the great accident.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023502	A spear designed by a wizard. The Quipmage doesn't seem to have thought that the shape of this weapon would pose any problem.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023503	The Asiomage is missing crucial memories about his line of equipment, while the Quipmage wonders why he remembers such useless information. This is thought to be the reason why there is still no upgraded version of the Asio Pike.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023504	The Quipmage intended to use this weapon to assassinate the Pervading Queen and the Teal Specter. All three of these wizards had plans to annihilate the others, each through their own methods.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023505	Unlike the Asio Rod, the Asio Staff is known to bring down the spirits of the Asiomage. The intelligence boost causes him to relive even more memories of his turbulent past.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023506	The Asiomage is quite proud of this weapon. He began designing his own gunpowder weapons after returning to our world.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023507	Although the original designer of this weapon was the Pervading Queen, the Asiomage is the one currently developing it. The Pervading Queen has long lost interest in the production of equipment.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023508	The Asiomage was heavily influenced by the excessive scholarly fervor that is typical of wizards, which led him to create unnecessary weapons for no apparent reason.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023509	After returning to our world and learning that many bird species had mutated into monsters, the Asiomage made plans to create his own army of birds to carry this weapon. A rather birdish thought, one might say.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023510	The Wastrel itself has no interest in artifacts returned from the past. It's the powerful magic accumulated in its body that attracts old artifacts and even connects them to it.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023511	Ancient artifacts attracted by the Wastrel are known to interact with the monster's peculiar magic. One cannot tell what new kinds of magic may arise from those interactions.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023512	A long time ago, a wizard created a giant lock and key, and with that they produced this weapon. Despite its appearance, however, it's often used as a cane for walking.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023513	All the equipment that disappeared during the accident of Nicopolis has returned in the exact same conditions, without any signs of the time that has passed.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023514	All Nicopolis equipment has returned to our world in the exact same conditions as when it disappeared, from its basic components down to the coatings of oil, now centuries old.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023515	Some wizards of old Nicopolis were secretly opposed to the Kingdom, but in order to feign support, they developed a few weapons that make use of divine power. This is one of such weapons.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023516	Some of the items attracted by the Wastrel's bodily magic are actually harmful to it. Otherwise, the Wastrel would be even more powerful than it is now.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023517	Fortunately for everyone, the Wastrel does not use this shield for protection. However, the shield is said to ease the pain of generating new equipment items.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023518	Most items that contain magic gems have negative effects on the Wastrel's body. That can be considered a fortunate occurrence.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023519	Of all the items attracted by the Wastrel, some are incorporated physically, while some have only their magic properties absorbed. Physically assimilated objects are thought to be constantly prodding the body of the Wastrel.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023520	This item is thought to flow in the veins of the Wastrel. Although the monster's blood and circulatory system are very different from that of most living beings, it still seems to cause the Wastrel pain when it passes through certain regions of its body.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023521	In the early days of this weapon, it was common for it to break down into three pieces. Large amounts of magic were used to increase its durability, so much so that, now, it will not break even when it is fused into the Wastrel.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023522	Due to the gap created by Medzio Diena, the Wastrel's living quarters have begun to attract common items found in the present. This means that the Wastrel is not only surrounded by weapons like this pistol, but also by miscellaneous items like worn-out shoes and broken chairs.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023523	Weapons like these with low slashing power can easily end up lodged in the Wastrel's body. Fortunately for the Wastrel, however, they do not cause him pain.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023524	Seeing as so many weapons are absorbed into the Wastrel's body, one would think at least some of them would be deployed inside of it.{nl}- Can be extracted or transmuted for Ichor.
-ITEM_20191024_023525	This weapon was not absorbed into the Wastrel's body by traveling through the gap that appeared during Medzio Diena. It is said to have been carried by an adventurer who attempted to defeat the Wastrel.{nl}- Can be extracted or transmuted for Ichor.
+ITEM_20191024_023491	Conforme relatos do início da carreira, Ignas previu que qualquer ato de traição dentro da Schaffenstar enfrentaria três obstáculos: as provisões de Lydia Schaffen, a Muralha de Três Camadas do Castelo, alem da neutralidade dos Mestres de Classe. Estas luvas, porém, possuem a pista de qual Mestre ele previu como um aliado.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023492	[Evento] Ignas Plate Gauntlets
+ITEM_20191024_023493	As garras nestas Luvas são úteis não somente para situações de combate, mas também nas rotinas dos membros da Schaffenstar, especialmente na limpeza das paredes externas da Astral Tower.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023494	Este equipamento em específico desapareceu com o acidente de Nicopolis, mas retornou ao nosso mundo mais ou menos no mesmo momento que o Asiomage e o Quipmage.
+ITEM_20191024_023495	O Asiomage é notavelmente apaixonado por esta arma, pois ela garante um aumento de inteligência. Mais do que uma ferramenta, esta arma serve como um tipo de brinquedo que melhora o humor do monstro.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023496	O Quipmage sempre teve interesse em expandir sua influência. Para alcançar isso, fez planos para recrutar mercenários e equipá-los com suas armas, capazes de superar os poderes das que são usadas pelo Exército Real.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023497	O Asiomage dá continuidade na pesquisa para improvisar o equipamento desenvolvido originalmente pelo seu outro eu, o Quipmage. Este item, por exemplo, já é mais efetivo do que quando retornou primeiramente ao nosso mundo.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023498	O Asiomage não gosta desta arma. Ele ainda se lembra de ser usado como alvo vivo em experimentos anteriores, particularmente para Bestas.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023499	Alguns cientistas reclamam que o nome desse item é arbitrário, afinal não possui nenhuma semelhança com corujas.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023500	Dizem que essa arma foi projetada para um exército de monstros Golem. Não se sabe se o Quipmage ou o Asiomage possuem qualquer memória deste fato.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023501	Diferente de outros itens da linha Asio, este aqui representa fielmente o estilo e convenções populares da antiga Nicopolis, antes do grande acidente.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023502	Uma Lança projetada por um Wizard. O Quipmage não parece que considerou que o formato desta arma poderia gerar problemas.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023503	O Asiomage perdeu memórias cruciais sobre a sua linha de equipamentos, ao mesmo tempo que se pergunta o por quê de lembrar de outras informações pouco relevantes. Dizem que é por isso que não há nenhuma versão melhorada da Asio Pike.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023504	O Quipmage planejava usar esta arma para assassinar a Pervading Queen e o Teal Specter. Todos estes três Wizards tinham planos para aniquilar uns aos aoutros, cada um através dos seus próprios meios.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023505	Diferente do Asio Rod, o Asio Staff é famoso por derrubar os espíritos do Asiomage. O ganho de inteligência faz com que ele reviva ainda mais memórias do seu passado turbulento.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023506	O Asiomage possui muito orgulho desta arma. Ele começou a desenvolver as suas próprias armas de fogo após retonar para o nosso mundo.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023507	Apesar da Pervading Queen ter sido a projetista original desta arma, o Asiomage é quem está atualmente desenvolvendo ela. A Pervading Queen perdeu o interesse, há muito tempo, na produção de equipamentos.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023508	O Asiomage foi fortemente influenciado pelo fervor escolar excessivo que é típico dos Wizards, que o levou a criar armas desnecessárias sem uma razão aparente.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023509	Após retornar para o nosso mundo e aprender que várias espécies de aves mutaram em monstros, o Asiomage fez planos para criar o seu próprio exército de pássaros para carregar esta arma. Um pensamento meio avoado, alguém poderia pensar.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023510	O Wastrel mesmo não tem interesse em artefatos que retornaram do passado. É a forte magia acumulada no seu corpo que atrai estes artefatos antigos e até conecta eles no monstro.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023511	Artefatos antigos atraídos pelo Wastrel são conhecidos por interagir com a magia peculiar do monstro. É difícil prever quais novos tipos de magia podem surgir dessas interações.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023512	Há muito tempo atrás, um Wizard criou uma grande chave e uma fechadura, e com isso produziram esta arma. Apesar da aparência, porém, é normalmente utilizada como bengala para caminhar.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023513	Todo o equipamento que desapareceu durante o acidente de Nicopolis retornou nas mesmas condições, sem qualquer sinal do passar do tempo.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023514	Todos os equipamentos de Nicopolis retornaram para o nosso mundo nas mesmas condições de quando desapareceram, desde os componentes mais básicos até a cobertura de óleo, que hoje estariam envelhecidos há séculos.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023515	Alguns Wizards da antiga Nicopolis eram opositores secretos do Reino, mas para fingir apoio, eles desenvolveram algumas armas que faem uso de poderes divinos.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023516	Alguns dos itens atraídos pela magia corporal do Wastrel são, na verdade, nocivos a ele. Do contrário, o Wastrel seria ainda mais poderoso do que já é.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023517	Felizmente para todos, o Wastrel não usa esse escudo para proteção. Porém, dizem que o Escudo alivia as dores de gerar novos itens de equipamentos.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023518	Muitos itens que contém gemas mágicas possuem efeitos negativos no corpo do Wastrel. Isto pode ser considerado uma ocorrência afortunada.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023519	De todos os itens atraídos pelo Wastrel, alguns são incorporados fisicamente, enquanto outros tem somente suas propriedades mágicas absorvidas. Dizem que os objetos fisicamente assimilados cutucam constantemente o corpo do Wastrel.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023520	Dizem que este item corre pelas veias do Wastrel. Apesar do sangue e do sistema circulatório do monstro serem muito diferentes da maioria dos seres vivos, ainda parece causar dor ao Wastrel quando o item passa por certas regiões do corpo.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023521	Nos primeiros dias de existência desta arma, era comum que se quebrasse em três pedaços. Grandes quantidades de magia foram utilizadas para aumentar a sua durabilidade, tanta que, hoje, ela não irá quebrar mesmo que seja fundida dentro do Wastrel.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023522	Devido a fenda criada pelo Medzio Diena, o espaço onde fica o Wastrel começou a atrair itens comuns encontrados no presente. Isso significa que o Wastrel não está cercado só de armas como esta Pistola, mas também de uma diversidade de itens, como sapatos gastos e cadeiras quebradas.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023523	Armas como esta, com baixo poder de corte, podem terminar facilmente presas no corpo do Wastrel. Felizmente para ele, porém, elas não causam nenhuma dor nele.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023524	Vendo como várias armas foram absorvidas para dentro do corpo do Wastrel, alguém poderia pensar que ao menos algumas delas seriam incorporadas dentro dele.{nl}- Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023525	Esta arma não foi absorvida para dentro do corpo do Wastrel, tendo viajado pela fenda que apareceu durante o Medzio Diena. Dizem que foi cuidada por um aventureiro que tentou derrotar o Wastrel.{nl}- Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023526	Crescent Moon
-ITEM_20191024_023527	Displays a crescent moon behind the character.{nl}- Effect is displayed when stationary.{nl}- Effects are removed when entering combat.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
+ITEM_20191024_023527	Exibe uma lua crescente atrás do personagem.{nl}- Efeito é exibido quando estiver parado.{nl}- Efeito é removido quando entrar em combate.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20191024_023528	Kedoran Primus Migantis Sword
 ITEM_20191024_023529	Kedoran Primus Migantis Two-handed Sword
 ITEM_20191024_023530	Kedoran Primus Migantis Rod
@@ -23577,136 +23577,136 @@ ITEM_20191024_023576	Kedoran Primus Basticle Greaves
 ITEM_20191024_023577	Kedoran Primus Irellis Gloves
 ITEM_20191024_023578	Kedoran Primus Jevenellis Leather Gloves
 ITEM_20191024_023579	Kedoran Primus Basticle Gauntlets
-ITEM_20191024_023580	Instantly restores 20% of max. HP. {nl}Additionally restores the other 20% of HP every 2 seconds over 11 seconds. {nl}Clique com o botão direito do mouse para utilizar. Cooldown of 20 seconds.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023581	Instantly restores 20% of max. SP. {nl}Additionally restores the other 20% of SP every 2 seconds over 11 seconds. {nl}Clique com o botão direito do mouse para utilizar. Cooldown of 20 seconds.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023580	Recupera 20% do HP Máximo instantaneamente.{nl}Adicionalmente, recupera 20% do HP a cada 2 segundos, por 11 segundos.{nl}Clique com o botão direito do mouse para utilizar. Cooldown: 20 segundos{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023581	Recupera 20% do SP Máximo instantaneamente.{nl}Adicionalmente, recupera 20% do SP a cada 2 segundos, por 11 segundos.{nl}Clique com o botão direito do mouse para utilizar. Cooldown: 20 segundos.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023582	Ore Sack
 ITEM_20191024_023583	Goddess' Support Box: Punishment
-ITEM_20191024_023584	Use to obtain an item of your choice.
+ITEM_20191024_023584	Use para escolher um item.
 ITEM_20191024_023585	Goddess' Support Box: Protection
 ITEM_20191024_023586	Hero's Support Box: Punishment
 ITEM_20191024_023587	Hero's Support Box: Protection
-ITEM_20191024_023588	Nullifies harmful status effects when used.{nl}Consumed after use.{nl}Clique com o botão direito do mouse para utilizar.
-ITEM_20191024_023589	Activate a Charm of Protection to nullify all debuffs that require advanced removal. 1 Charm of Protection is used per ailment nullified. (Charm of Protection's effect takes precedence over Grace of Rykuma.) Right-click to activate.
-ITEM_20191024_023590	Adds 15 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023591	Adds 18 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023592	Adds 21 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023593	Adds 24 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023594	Adds 27 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023595	Adds 30 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023596	Adds 33 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023597	Adds 36 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023598	Adds 39 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023599	Adds 42 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023600	Adds 45 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023601	Adds 48 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023602	Adds 51 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023603	Adds 54 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023604	Adds 57 Attack when using basic attack. Can be used after assigning it to a quick slot.
-ITEM_20191024_023605	Instantly restores 5614 of max. HP. {nl}Additionally restores 5614 HP every 2 seconds over 15 seconds. {nl}Clique com o botão direito do mouse para utilizar. Cooldown of 45 seconds.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023606	Instantly restores 1288 of max. SP. {nl}Additionally restores 1288 SP every 2 seconds over 15 seconds. {nl}Clique com o botão direito do mouse para utilizar. Cooldown of 45 seconds.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023607	Use to increase Guild EXP by +100.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023608	Use to increase Guild EXP by +200.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023609	Use to increase Guild EXP by +400.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023588	Nulifica efeitos negativos quando utilizado.{nl}Consumido após o uso.{nl}Clique com o botão direito do mouse para utilizar.
+ITEM_20191024_023589	Ativa uma proteção que nulifica todos os efeitos negativos que requerem uma forma de remoção avançada. 1 Charm of Protection é utilizado por efeito negativo que for nulificado (Charm of Protection tem prioridade sob [Graça de Rykuma]). Clique com o botão direito do mouse para ativar.
+ITEM_20191024_023590	Adiciona 15 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023591	Adiciona 18 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023592	Adiciona 21 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023593	Adiciona 24 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023594	Adiciona 27 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023595	Adiciona 30 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023596	Adiciona 33 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023597	Adiciona 36 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023598	Adiciona 39 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023599	Adiciona 42 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023600	Adiciona 45 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023601	Adiciona 48 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023602	Adiciona 51 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023603	Adiciona 54 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023604	Adiciona 57 Ataque ao utilizar ataque básico. Pode ser utilizado depois de colocado na barra de habilidades.
+ITEM_20191024_023605	Recupera 5614 do HP Máximo instantaneamente.{nl}Adicionalmente, recupera 5614 HP a cada 2 segundos, por 15 segundos.{nl}Clique com o botão direito do mouse para utilizar. Cooldown: 45 segundos.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023606	Recupera 1288 do SP Máximo instantaneamente.{nl}Adicionalmente, recupera 1288 SP a cada 2 segundos, por 15 segundos.{nl}Clique com o botão direito do mouse para utilizar. Cooldown: 45 segundos.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023607	Use para aumentar a EXP de Guilda em +100.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023608	Use para aumentar a EXP de Guilda em +200.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023609	Use para aumentar a EXP de Guilda em +400.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023610	Guild Mileage: 50
-ITEM_20191024_023611	Use to gain 50 points in Guild Mileage.
+ITEM_20191024_023611	Use para obter 50 pontos de Milhas de Guilda.
 ITEM_20191024_023612	Guild Mileage: 100
-ITEM_20191024_023613	Use to gain 100 points in Guild Mileage.
+ITEM_20191024_023613	Use para obter 100 pontos de Milhas de Guilda.
 ITEM_20191024_023614	Guild Mileage: 200
-ITEM_20191024_023615	Use to gain 200 points in Guild Mileage.
+ITEM_20191024_023615	Use para obter 200 pontos de Milhas de Guilda.
 ITEM_20191024_023616	[Kupole] Guild Mileage: 10000
-ITEM_20191024_023617	Use to gain 10000 points in Guild Mileage.
+ITEM_20191024_023617	Use para obter 10000 pontos de Milhas de Guilda.
 ITEM_20191024_023618	Shiny Demon Lord Moringponia Cube
 ITEM_20191024_023619	Demon Lord Moringponia Cube
 ITEM_20191024_023620	Moringponia Unique Weapon Selection Box
-ITEM_20191024_023621	Allows you to obtain one Moringponia Unique Weapon of your choice. Clique com o botão direito do mouse para utilizar.{nl}Your selected item cannot be exchanged once chosen.
+ITEM_20191024_023621	Permite escolher uma Arma Moringponia de raridade Única. Clique com o botão direito do mouse para utilizar.{nl}Você não pode trocar o item depois de ter feito uma escolha.
 ITEM_20191024_023622	Moringponia Unique Armor Selection Box
-ITEM_20191024_023623	Allows you to obtain one Moringponia Unique Armor of your choice. Clique com o botão direito do mouse para utilizar.{nl}Your selected item cannot be exchanged once chosen.
+ITEM_20191024_023623	Permite escolher uma Armadura Moringponia de raridade Única. Clique com o botão direito do mouse para utilizar.{nl}Você não pode trocar o item depois de ter feito uma escolha.
 ITEM_20191024_023624	Moringponia Crown Box
-ITEM_20191024_023625	Use to obtain 10 Moringponia Crowns. Clique com o botão direito do mouse para utilizar.
+ITEM_20191024_023625	Use para obter 10 Moringponia Crowns. Clique com o botão direito do mouse para utilizar.
 ITEM_20191024_023626	Mystic Tome Page Collection (x10)
-ITEM_20191024_023627	Right-click to obtain 10 Mystic Tome Pages.
+ITEM_20191024_023627	Clique com o botão direito do mouse para obter 10 Mystic Tome Pages.
 ITEM_20191024_023628	Moonlight Legend Weapon Selection Box
-ITEM_20191024_023629	Right-click to obtain your choice of Stage 16 Transcendence +10 Enhancement [Moonlight] Skiaclipse Varna weapon.{nl}The weapon obtained from this selection box cannot be Enhanced, Transcended, or extracted for appearance.{nl}[Items Available]{nl}[Moonlight] Skiaclipse Varna Crossbow{nl}[Moonlight] Skiaclipse Varna Cannon{nl}[Moonlight] Skiaclipse Varna Dagger{nl}[Moonlight] Skiaclipse Varna Mace{nl}[Moonlight] Skiaclipse Varna Musket{nl}[Moonlight] Skiaclipse Varna Pistol{nl}[Moonlight] Skiaclipse Varna Rapier{nl}[Moonlight] Skiaclipse Varna Shield{nl}[Moonlight] Skiaclipse Varna Spear{nl}[Moonlight] Skiaclipse Varna Rod{nl}[Moonlight] Skiaclipse Varna Sword{nl}[Moonlight] Skiaclipse Varna Bow{nl}[Moonlight] Skiaclipse Varna Two-handed Mace{nl}[Moonlight] Skiaclipse Varna Staff{nl}[Moonlight] Skiaclipse Varna Pike{nl}[Moonlight] Skiaclipse Varna Two-handed Sword
+ITEM_20191024_023629	Clique com o botão direito do mouse para escolher uma arma [Luar] Skiaclipse Varna, com Refino +16 e Transcendência Estágio 10{nl}A arma obtida não pode ser refinada, transcendida, utilizada para extrações e aparência.{nl}[Itens Disponíveis]{nl}[Luar] Skiaclipse Varna Crossbow{nl}[Luar] Skiaclipse Varna Cannon{nl}[Luar] Skiaclipse Varna Dagger{nl}[Luar] Skiaclipse Varna Mace{nl}[Luar] Skiaclipse Varna Musket{nl}[Luar] Skiaclipse Varna Pistol{nl}[Luar] Skiaclipse Varna Rapier{nl}[Luar] Skiaclipse Varna Shield{nl}[Luar] Skiaclipse Varna Spear{nl}[Luar] Skiaclipse Varna Rod{nl}[Luar] Skiaclipse Varna Sword{nl}[Luar] Skiaclipse Varna Bow{nl}[Luar] Skiaclipse Varna Two-handed Mace{nl}[Luar] Skiaclipse Varna Staff{nl}[Luar] Skiaclipse Varna Pike{nl}[Luar] Skiaclipse Varna Two-handed Sword
 ITEM_20191024_023630	Outer Wall Sewers Legend Cube
-ITEM_20191024_023631	Cube rewarded for conquering the Outer Wall Sewers.
+ITEM_20191024_023631	Cubo entregue ao conquistar Outer Wall Sewers.
 ITEM_20191024_023632	Spirit Fragment: Misrus
-ITEM_20191024_023633	Collect 10 and use to obtain a choice of Misrus equipment recipe. Clique com o botão direito do mouse para utilizar.
+ITEM_20191024_023633	Colete 10 e use para escolher uma receita de equipamento Misrus. Clique com o botão direito do mouse para utilizar.
 ITEM_20191024_023634	Spirit Fragment: Froster Lord
-ITEM_20191024_023635	Collect 20 and use to obtain a choice of an accessory item. Clique com o botão direito do mouse para utilizar.
-ITEM_20191024_023636	Increases an item's transcendence stage to Stage 3.{nl}Can only be used in items transcended to Stage 0~2. Right-click the scroll, then select the item to transcend.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023637	Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023638	[Evento] Golden Anvil (14 Days)
-ITEM_20191024_023639	Can only be used on equipment with 1 Potential. The equipment won't be destroyed upon failure. When you fail at an enhance level of +12 or higher, it will reduce to +10. Clique com o botão direito do mouse para utilizar. Must be used within 14 days after obtaining.
-ITEM_20191024_023640	[Evento] Silver Anvil (14 Days)
+ITEM_20191024_023635	Colete 20 e use para escolher um item de acessório. Clique com o botão direito do mouse para utilizar.
+ITEM_20191024_023636	Aumenta a Transcendência do item para o Estágio 3.{nl}Só pode ser usado em itens com Transcendência Estágio 0~2. Clique com o botão direito do mouse no pergaminho e escolha o item que deseja transcender.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023637	Aumenta a Transcendência do item para o Estágio 5.{nl}Só pode ser usado em itens com Transcendência Estágios 0 to 4. Clique com o botão direito do mouse no pergaminho e escolha o item que deseja transcender.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023638	[Evento] Golden Anvil (14 Dias)
+ITEM_20191024_023639	Só pode ser usado em equipamentos com 1 ponto de Potencial. O equipamento não será destruído caso falhe. Caso falhe no Refino +12 ou maior, o refino reduzirá para +10. Clique com o botão direito do mouse para utilizar. Precisa ser utilizado dentro dos 14 dias depois de obtido.
+ITEM_20191024_023640	[Evento] Silver Anvil (14 Dias)
 ITEM_20191024_023641	[Evento] Transcendence Stage 8 Scroll
-ITEM_20191024_023642	Increases an item's transcendence stage to Stage 8.{nl}Can only be used in items transcended to Stage 0~7. Right-click the scroll, then select the item to transcend.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023642	Aumenta a Transcendência do item para o Estágio 8.{nl}Só pode ser usado em itens com Transcendência Estágio 0~7. Clique com o botão direito do mouse no pergaminho e escolha o item que deseja transcender.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023643	[Evento] Transcendence Stage 5 Scroll
-ITEM_20191024_023644	Increases an item's transcendence stage to Stage 5.{nl}Can only be used in items transcended to Stages 0 to 4. Right-click the scroll, then select the item to transcend.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023644	Aumenta a Transcendência do item para o Estágio 5.{nl}Só pode ser usado em itens com Transcendência Estágios 0~4. Clique com o botão direito do mouse no pergaminho e escolha o item que deseja transcender.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023645	[Evento] Transcendence Stage 3 Scroll
-ITEM_20191024_023646	Increases an item's transcendence stage to Stage 3.{nl}Can only be used in items transcended to Stage 0~2. Right-click the scroll, then select the item to transcend.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023647	[Card Equip Effect] Silence Resistance +[{img star_mark 20 20} * 2]
-ITEM_20191024_023648	[Card Equip Effect] Sleep Resistance +[{img star_mark 20 20} * 2]
-ITEM_20191024_023649	[Card Equip Effect] Blind Resistance +[{img star_mark 20 20} * 2]
-ITEM_20191024_023650	[Card Equip Effect] Bleed Resistance +[{img star_mark 20 20} * 2]
-ITEM_20191024_023651	[Card Equip Effect] Stun Resistance +[{img star_mark 20 20} * 2]
+ITEM_20191024_023646	Aumenta a Transcendência do item para o Estágio 3.{nl}Só pode ser usado em itens com Transcendência Estágio 0~2. Clique com o botão direito do mouse no pergaminho e escolha o item que deseja transcender.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023647	[Efeito] Resistência contra [Silence] +[{img star_mark 20 20} * 2]
+ITEM_20191024_023648	[Efeito] Resistência contra [Sleep] +[{img star_mark 20 20} * 2]
+ITEM_20191024_023649	[Efeito] Resistência contra [Blind] +[{img star_mark 20 20} * 2]
+ITEM_20191024_023650	[Efeito] Resistência contra [Bleed] +[{img star_mark 20 20} * 2]
+ITEM_20191024_023651	[Efeito] Resistência contra [Stun] +[{img star_mark 20 20} * 2]
 ITEM_20191024_023652	Moringponia Card
-ITEM_20191024_023653	[Card Equip Effect] Resistance against Freeze +[{img star_mark 20 20}]{nl}Max. HP +[100 * {img star_mark 20 20}]
+ITEM_20191024_023653	[Efeito] Resistêcia contra [Freeze] +[{img star_mark 20 20}]{nl}HP Máximo +[100 * {img star_mark 20 20}]
 ITEM_20191024_023654	Misrus Card
-ITEM_20191024_023655	[Card Equip Effect] Resistance against Blind +[{img star_mark 20 20}]{nl}Max. SP +[100 * {img star_mark 20 20}]
+ITEM_20191024_023655	[Efeito] Resistência contra [Blind] +[{img star_mark 20 20}]{nl}SP Máximo +[100 * {img star_mark 20 20}]
 ITEM_20191024_023656	Demon Lord Moringponia Card
-ITEM_20191024_023657	[Card Equip Effect] Attack against Medium-sized Targets 300 * [{img star_mark 20 20}]
+ITEM_20191024_023657	[Efeito] Ataque contra alvos de tamanho Médio 300 * [{img star_mark 20 20}]
 ITEM_20191024_023658	Enraged Misrus Card
-ITEM_20191024_023659	[Card Equip Effect] Additional 1,000 * [{img star_mark 20 20}] damage against enemies with a Shield effect
+ITEM_20191024_023659	[Efeito] 1.000 * [{img star_mark 20 20}] adicional de dano contra inimigos sob algum efeito do tipo Escudo
 ITEM_20191024_023660	[Evento] Growth Gem. Será automaticamente removido no final do período do evento.
 ITEM_20191024_023661	Shining LV 10 Gem Abrasive
 ITEM_20191024_023662	Emoticon: Medeina (Flustered)
 ITEM_20191024_023663	Emoticon: Medeina (Joy)
 ITEM_20191024_023664	TOS Ranger City Popup Book
-ITEM_20191024_023665	Clique com o botão direito do mouse para utilizar. You character must be level 15 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023666	Clique com o botão direito do mouse para utilizar. Your character must be level 40 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023667	Clique com o botão direito do mouse para utilizar. You character must be level 50 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023668	Clique com o botão direito do mouse para utilizar. You character must be level 75 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023669	Clique com o botão direito do mouse para utilizar. You character must be level 85 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023670	Clique com o botão direito do mouse para utilizar. Your character must be level 40 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023671	Clique com o botão direito do mouse para utilizar. You character must be level 120 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023672	Clique com o botão direito do mouse para utilizar. You character must be level 140 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023673	Clique com o botão direito do mouse para utilizar. You character must be level 170 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023674	Clique com o botão direito do mouse para utilizar. You character must be level 180 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023675	Clique com o botão direito do mouse para utilizar. You character must be level 200 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023676	Clique com o botão direito do mouse para utilizar. You character must be level 220 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023677	Clique com o botão direito do mouse para utilizar. You character must be level 230 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023678	Clique com o botão direito do mouse para utilizar. You character must be level 270 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023679	Clique com o botão direito do mouse para utilizar. Your character must be level 40 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023680	Clique com o botão direito do mouse para utilizar. You character must be level 330 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023681	Clique com o botão direito do mouse para utilizar. You character must be level 350 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023682	Clique com o botão direito do mouse para utilizar. Grants 500 Attribute Points every day during the event period.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023683	Clique com o botão direito do mouse para utilizar. You character must be level 380 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023684	Item de evento. Grants 1000 Attribute Points. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023685	Increases looting chance by +200 for 30 minutes.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023686	[Summer Festa] Magic Ice Cube
-ITEM_20191024_023687	[Summer Festa] Item de evento. Will be automatically removed at the end of the event period.
-ITEM_20191024_023688	[Summer Festa] Item de evento. Recovers +500 HP and SP every 10 seconds for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023689	[Summer Festa] Item de evento. Use to increase movement speed by +2 for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023690	[Summer Festa] Item de evento. Use to increase looting chance +300 for 30 minutes{nl}Can only be used in Klaipeda, Orsha, Fedimian, Saalus Convent, Guild Hangout, Highlander Master's Training Hall, Bokor Master's House and Pyromancer Master's Lab.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023691	Select the equipment you want to receive from the list.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023692	Clique com o botão direito do mouse para utilizar. Your character must be level 400 or above to use.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023693	Kedora Merchant Alliance Support Selection Box (Lv. 270 weapon and shield)
-ITEM_20191024_023694	Kedora Merchant Alliance Support Selection Box (Lv. 270 armor)
-ITEM_20191024_023695	Kedora Merchant Alliance Support Selection Box (Lv. 315 armor)
-ITEM_20191024_023696	Kedora Merchant Alliance Support Selection Box (Lv. 350 armor)
-ITEM_20191024_023697	Special coins created for the 2019 summer event.{nl}Can be used at the Vasalos Coin Shop.{nl}Will be automatically removed at the end of the event period.{nl}
-ITEM_20191024_023698	Contains a title awarded for participating in the Guilds Make TOS event.{nl}This item will be removed at the end of the event period.
-ITEM_20191024_023699	Right-click to obtain one of the following items at random.{nl}- [Evento] Stage 3 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Bronze x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x1{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x1{nl}- [Evento] Vasalos Coin x(1~2){nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023700	Right-click to obtain one of the following items at random.{nl}- [Evento] Stage 5 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Silver x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x2{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x2{nl}- [Evento] Vasalos Coin x(5~10){nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023701	Right-click to obtain one of the following items at random.{nl}- Butler and Maid Costume Box (Black) x1{nl}- [Evento] Guild Quest Reward Coin: Gold x1{nl}- [Evento] Small Elixir of HP Recovery x2{nl}- [Evento] Small Elixir of SP Recovery x2{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x5{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x5{nl}- [Evento] Vasalos Coin x(10~20){nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023702	[Compensation] Class Change Voucher Lv.1
-ITEM_20191024_023703	[Compensation] Class Change Voucher Lv.2
-ITEM_20191024_023704	[Compensation] Class Change Voucher Lv.3
-ITEM_20191024_023705	Increases class change points by +3,000.{nl}Class points can be accumulated to a maximum of 1000 and excess points earned will not be saved.
-ITEM_20191024_023706	[Compensation] Class Change Voucher Lv.4
-ITEM_20191024_023707	Increases class change points by +3,000.{nl}Class points can be accumulated to a maximum of 3000 and excess points earned will not be saved.
-ITEM_20191024_023708	[The ARTS] Class Change Voucher Lv.3 (1 Day)
-ITEM_20191024_023709	Event item to commemorate The ARTS update.{nl}Increases your class change points by 1000.{nl}Max. class points that can be accumulated is 1000 and any surplus points will be removed.{nl}Removed in one day after receiving.
+ITEM_20191024_023665	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 15 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023666	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 40 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023667	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 50 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023668	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 75 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023669	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 85 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023670	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 40 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023671	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 120 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023672	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 140 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023673	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 170 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023674	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 180 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023675	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 200 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023676	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 220 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023677	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 230 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023678	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 270 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023679	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 40 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023680	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 330 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023681	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 350 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023682	Clique com o botão direito do mouse para utilizar. Garante 500 Pontos de Atributo todos os dias, durante o período do evento.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023683	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 380 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023684	Item de evento. Garante 1.000 Pontos de Atributo. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023685	Chance de Drop +200 por 30 minutos.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023686	[Summer Festa] Cubo de Gelo Mágico
+ITEM_20191024_023687	[Summer Festa] Item de evento. Será automaticamente removido no final do período do evento.
+ITEM_20191024_023688	[Summer Festa] Item de evento. Recupera 500 de HP e SP a cada 10 segundos, por 30 minutos.{nl}Só pode ser utilizado em Klaipeda, Orsha, Fedimian, Saalus Convent, Hangout da Guilda, Highlander Master's Training Hall, Bokor Master's House e Pyromancer Master's Lab.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023689	[Summer Festa] Item de evento. Velocidade de Movimento +2 por 30 minutos.{nl}Só pode ser utilizado em Klaipeda, Orsha, Fedimian, Saalus Convent, Hangout da Guilda, Highlander Master's Training Hall, Bokor Master's House e Pyromancer Master's Lab.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023690	[Summer Festa] Item de evento. Use to increase looting chance +300 for 30 minutes{nl}Só pode ser utilizado em Klaipeda, Orsha, Fedimian, Saalus Convent, Hangout da Guilda, Highlander Master's Training Hall, Bokor Master's House e Pyromancer Master's Lab.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023691	Selecione o equipamento que você deseja receber da lista.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023692	Clique com o botão direito do mouse para utilizar. Você precisa estar no nível 400 ou mais para usar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023693	Kedora Merchant Alliance Support Selection Box (Nv. 270 Arma e Escudo)
+ITEM_20191024_023694	Kedora Merchant Alliance Support Selection Box (Nv. 270 Armadura)
+ITEM_20191024_023695	Kedora Merchant Alliance Support Selection Box (Nv. 315 Armadura)
+ITEM_20191024_023696	Kedora Merchant Alliance Support Selection Box (Nv. 350 Armadura)
+ITEM_20191024_023697	Moedas especiais criadas para o evento de verão 2019.{nl}Pode ser utilizado na Loja de Moedas Vasalos.{nl}Será automaticamente removido no final do período do evento.{nl}
+ITEM_20191024_023698	Contém um título entregue por participar do evento 'Guilds Make TOS'.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023699	Clique com o botão direito do mouse para obter, aleatoriamente, um dos itens abaixo:{nl}- [Evento] Stage 3 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Bronze x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x1{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x1{nl}- [Evento] Vasalos Coin x(1~2){nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023700	Clique com o botão direito do mouse para obter, aleatoriamente, um dos itens abaixo:{nl}- [Evento] Stage 5 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Silver x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x2{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x2{nl}- [Evento] Vasalos Coin x(5~10){nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023701	Clique com o botão direito do mouse para obter, aleatoriamente, um dos itens abaixo:{nl}- Butler and Maid Costume Box (Black) x1{nl}- [Evento] Guild Quest Reward Coin: Gold x1{nl}- [Evento] Small Elixir of HP Recovery x2{nl}- [Evento] Small Elixir of SP Recovery x2{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x5{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x5{nl}- [Evento] Vasalos Coin x(10~20){nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023702	[Compensação] Class Change Voucher Lv.1
+ITEM_20191024_023703	[Compensação] Class Change Voucher Lv.2
+ITEM_20191024_023704	[Compensação] Class Change Voucher Lv.3
+ITEM_20191024_023705	Aumenta os Pontos de Troca de Classe em +3.000.{nl}Pontos de Troca de Classe podem acumular até, no máximo, 1.000 e pontos que passem deste limite serão perdidos.
+ITEM_20191024_023706	[Compensação] Class Change Voucher Lv.4
+ITEM_20191024_023707	Aumenta os Pontos de Troca de Classe em +3.000.{nl}Pontos de Troca de Classe podem acumular até, no máximo, 3.000 e pontos que passem deste limite serão perdidos.
+ITEM_20191024_023708	[ARTES] Class Change Voucher Lv.3 (1 Dia)
+ITEM_20191024_023709	Item de evento, em comemoração à atualização das Artes.{nl}Aumenta os seus Pontos de Troca de Classe em 1.000.{nl}O máximo que pode ser acumulado é 1.000 e qualquer ponto acima disso será perdido.{nl}Removido em 1 dia após o recebimento.
 ITEM_20191024_023710	[Evento] Moeda Antiga
 ITEM_20191024_023711	Moeda utilizada ao obter Páginas de Grimório ou [Evento] Pergaminho de Seleção de Monstro.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023712	Página de Grimório
@@ -23717,34 +23717,34 @@ ITEM_20191024_023716	[Evento] Class Change Voucher Lv. 3 (90 Dias)
 ITEM_20191024_023717	[Evento] Fragmento de Lua Cheia
 ITEM_20191024_023718	Item de evento.{nl}Entrege-o para o Druid Raphindion do Luar para trocar por itens na Loja do Luar, ou receba a sua própria Lua Cheia para crescê-la.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023719	[Evento] Attribute Points 500
-ITEM_20191024_023720	Item de evento. Grants 500 Attribute Points. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023720	Item de evento. Garante 500 Pontos de Atributo. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023721	[Evento] Attribute Points 1,000
-ITEM_20191024_023722	Item de evento. Grants 1000 Attribute Points. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023722	Item de evento. Garante 1.000 Pontos de Atributo. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023723	[Evento] Attribute Points 10,000
-ITEM_20191024_023724	Item de evento. Grants 10,000 Attribute Points. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023725	[Evento] Honey Dumpling
-ITEM_20191024_023726	A king-size dumpling filled with honey. It smells sweet and looks absolutely delicious. {nl} Grants everyone in your party +4 movement speed, +1 AoE attack ratio and +25% EXP gain for 20 minutes.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023727	[Evento] Jumbo Dumpling
-ITEM_20191024_023728	A king-size dumpling made of several ingredients. It smells sweet and looks absolutely delicious. {nl} Grants everyone in your party +4 movement speed, +1 AoE attack ratio and +25% EXP gain for 10 minutes.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023729	[Evento] Dumpling
-ITEM_20191024_023730	A sweet dumpling made of various ingredients. It may look difficult to cook, but the tasty treat is worth it. {nl} Increases +2 movement speed, +5000 maximum HP and SP for 15 minutes.{nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023731	Right-click to obtain a +11 ENH Stage 8 TRA [Evento] Savinose Legva weapon of your choice.{nl}The weapon cannot be further Enhanced, Transcended, Dismantled or be used to extract appearance.{nl}[Available Items]{nl}[Evento] Savinose Legva Crossbow{nl}[Evento] Savinose Legva Cannon{nl}[Evento] Savinose Legva Dagger{nl}[Evento] Savinose Legva Mace{nl}[Evento] Savinose Legva Musket{nl}[Evento] Savinose Legva Pistol{nl}[Evento] Savinose Legva Rapier{nl}[Evento] Savinose Legva Shield{nl}[Evento] Savinose Legva Spear{nl}[Evento] Savinose Legva Rod{nl}[Evento] Savinose Legva Sword{nl}[Evento] Savinose Legva Bow{nl}[Evento] Savinose Legva Two-handed Mace{nl}[Evento] Savinose Legva Staff{nl}[Evento] Savinose Legva Pike{nl}[Evento] Savinose Legva Two-handed sword
+ITEM_20191024_023724	Item de evento. Garante 10.000 Pontos de Atributo. Clique com o botão direito do mouse para utilizar.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023725	[Evento] Bolinho de Mel
+ITEM_20191024_023726	Um bolinho tamanho gigante, recheado de mel. O cheiro é doce e parece ser absolutamente delicioso.{nl}Velocidade de Movimento +4, Taxa de Ataque em Área +1 e +25% de EXP, por 20 minutos e para todos os membros do grupo.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023727	[Evento] Bolinho Grande
+ITEM_20191024_023728	Um bolinho tamanho gigante, feito de vários ingredientes. O cheiro é doce e parece ser absolutamente delicioso.{nl}Velocidade de Movimento +4, Taxa de Ataque em Área +1 e +25% de EXP, por 10 minutos e para todos os membros do grupo.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023729	[Evento] Bolinho
+ITEM_20191024_023730	Um bolinho doce, feito de vários ingredientes. Parece difícil de cozinhar, mas um doce gostoso vale o desafio.{nl}Velocidade de Movimento +2, HP e SP Máximos +5.000, por 15 minutos.{nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023731	Clique com o botão direito do mouse para obter uma arma [Evento] Savinose Legva de sua escolha, com Refino +11 e Transcendência Estágio 8.{nl}Esta arma não pode ser refinada, transcendida, desmanchada, utilizada para extrações ou troca de aparência.{nl}[Itens Disponíveis]{nl}[Evento] Savinose Legva Crossbow{nl}[Evento] Savinose Legva Cannon{nl}[Evento] Savinose Legva Dagger{nl}[Evento] Savinose Legva Mace{nl}[Evento] Savinose Legva Musket{nl}[Evento] Savinose Legva Pistol{nl}[Evento] Savinose Legva Rapier{nl}[Evento] Savinose Legva Shield{nl}[Evento] Savinose Legva Spear{nl}[Evento] Savinose Legva Rod{nl}[Evento] Savinose Legva Sword{nl}[Evento] Savinose Legva Bow{nl}[Evento] Savinose Legva Two-handed Mace{nl}[Evento] Savinose Legva Staff{nl}[Evento] Savinose Legva Pike{nl}[Evento] Savinose Legva Two-handed sword
 ITEM_20191024_023732	[Evento] Caixa de Álbum de Carta do Grimório
 ITEM_20191024_023733	Clique com o botão direito para obter um dos seguintes itens:{nl}- Monster Card Album: Red{nl}- Monster Card Album: Blue{nl}- Monster Card Album: Green{nl}- Monster Card Album: Purple{nl}- Monster Card Album: Black{nl}- Shining Monster Card Album: Ominous 
 ITEM_20191024_023734	[Evento] Ignas Armor Selection Box
-ITEM_20191024_023735	Right-click to obtain your choice of [Evento] Ignas Armor.{nl}Armor obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
+ITEM_20191024_023735	Clique com o botão direito do mouse para escolher uma armadura [Evento] Ignas.{nl}Esta armadura não pode ser refinada, transcendida, desmanchada ou trocar a aparência.{nl}Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023736	[Evento] Unique Weapon Selection Box (Asio, Wastrel)
-ITEM_20191024_023737	Right-click to obtain your choice of [Evento] Asio Unique weapon.{nl}Weapon obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
+ITEM_20191024_023737	Clique com o botão direito do mouse para escolher uma arma [Evento] Asio de raridade Única.{nl}Esta arma não pode ser refinada, transcendida, desmanchada ou trocar a aparência.{nl}Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023738	[Evento] Asio Unique Weapon Selection Box
-ITEM_20191024_023739	Right-click to obtain your choice of [Evento] Asio weapon.{nl}Weapon obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
+ITEM_20191024_023739	Clique com o btão direito do mouse para escolher uma arma [Evento] Asio.{nl}Esta arma não pode ser refinada, transcendida, desmanchada ou trocar a aparência.{nl}Pode ter seu Ichor extraído ou transmutado.
 ITEM_20191024_023740	[Evento] Wastrel Unique Weapon Selection Box
-ITEM_20191024_023741	Right-click to obtain your choice of [Evento] Wastrel weapon.{nl}Weapon obtained cannot be Enhanced, Transcended, Dismantled or have its appearance changed.{nl}Can be extracted or transmuted for Ichor.
-ITEM_20191024_023742	[Evento] Class Change Voucher Lv. 3 (14 Days)
-ITEM_20191024_023743	Increases Class Points by +1,000.{nl}Class Points can be accumulated to a maximum of 1,000 and excess points earned will not be saved.{nl}Will be automatically deleted when the expiry date is reached.
-ITEM_20191024_023744	[Evento] Skill + Attribute Reset Potion Package (14 Days)
-ITEM_20191024_023745	Right click to obtain the following items.{nl}Will be automatically deleted when the expiry date is reached.{nl}- Skill Reset Potion (14 Days){nl}- Attribute Reset Potion (14 Days)
-ITEM_20191024_023746	[Evento] Enhancement Coupon: 100,000 Silver (14 Days)
-ITEM_20191024_023747	Use to have your Enhancement cost discounted by 100,000 Silver.{nl}Will be automatically deleted when the expiry date is reached.
+ITEM_20191024_023741	Clique com o botão direito do mouse para escolher uma arma [Evento] Wastrel.{nl}Esta arma não pode ser refinada, transcendida, desmanchada ou trocar a aparência.{nl}Pode ter seu Ichor extraído ou transmutado.
+ITEM_20191024_023742	[Evento] Class Change Voucher Lv. 3 (14 Dias)
+ITEM_20191024_023743	Aumenta os Pontos de Troca de Classe em +1.000{nl}Pontos de Troca de Classe podem ser acumulados até 1.000 e pontos que passem deste limite serão perdidos.{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023744	[Evento] Skill + Attribute Reset Potion Package (14 Dias)
+ITEM_20191024_023745	Clique com o botão direito do mouse para obter os seguintes itens:{nl}Será automaticamente removido quando atingir a data de expiração.{nl}- Skill Reset Potion (14 Dias){nl}- Attribute Reset Potion (14 Dias)
+ITEM_20191024_023746	[Evento] Enhancement Coupon: 100,000 Silver (14 Dias)
+ITEM_20191024_023747	Use to have your Enhancement cost discounted by 100,000 Silver.{nl}Será automaticamente removido quando atingir a data de expiração.
 ITEM_20191024_023748	[Lv. 420] Stage 3 Transcendence Scroll
 ITEM_20191024_023749	Increases the transcendence stage of equipment of level 420 or below to 3{nl}It can only be used on items at the transcendence stage between 0 to 2. Right-click the scroll and select the item you want to transcend to use.
 ITEM_20191024_023750	[Lv. 420] Stage 5 Transcendence Scroll
@@ -23753,23 +23753,23 @@ ITEM_20191024_023752	[Lv. 420] Stage 8 Transcendence Scroll
 ITEM_20191024_023753	Increases the transcendence stage of equipment of level 420 or below to 8.{nl}It can only be used on items at the transcendence stage between 0 to 7. Right-click the scroll and select the item you want to transcend to use.
 ITEM_20191024_023754	[Lv. 420] Stage 10 Transcendence Scroll
 ITEM_20191024_023755	Increases the transcendence stage of equipment of level 420 or below to 10.{nl}It can only be used on items at the transcendence stage between 0 to 9. Right-click the scroll and select the item you want to transcend to use.
-ITEM_20191024_023756	Uphill Defense Shop Points: 400 (14 Days)
-ITEM_20191024_023757	Use to gain 500 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.{nl}Will be automatically deleted when the expiry date is reached.
-ITEM_20191024_023758	Uphill Defense Shop Points: 1000 (14 Days)
-ITEM_20191024_023759	Use to gain 1,000 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.{nl}Will be automatically deleted when the expiry date is reached.
-ITEM_20191024_023760	Uphill Defense Shop Points: 3000 (14 Days)
-ITEM_20191024_023761	Use to gain 3,000 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.{nl}Will be automatically deleted when the expiry date is reached.
-ITEM_20191024_023762	Looting Chance: 500 (14 Days)
-ITEM_20191024_023763	Increases looting chance by 500 for 60 minutes. Clique com o botão direito do mouse para utilizar. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.{nl}Will be automatically deleted when the expiry date is reached.
+ITEM_20191024_023756	Uphill Defense Shop Points: 400 (14 Dias)
+ITEM_20191024_023757	Use to gain 500 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023758	Uphill Defense Shop Points: 1000 (14 Dias)
+ITEM_20191024_023759	Use to gain 1,000 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023760	Uphill Defense Shop Points: 3000 (14 Dias)
+ITEM_20191024_023761	Use to gain 3,000 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023762	Looting Chance: 500 (14 Dias)
+ITEM_20191024_023763	Increases looting chance by 500 for 60 minutes. Clique com o botão direito do mouse para utilizar. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.{nl}Será automaticamente removido quando atingir a data de expiração.
 ITEM_20191024_023764	[Evento] Savinose Armor Selection Box
 ITEM_20191024_023765	Use to obtain a +11 ENH Stage 8 TRA [Evento] Savinose Armor of your choice.{nl}Obtained item cannot be dismantled or further enhanced.
-ITEM_20191024_023766	Lv. 10 Enhancement Card (14 Days)
-ITEM_20191024_023767	A card used to enhance a card. Increases a card's EXP by 5400.{nl}Will be automatically deleted when the expiry date is reached.
-ITEM_20191024_023768	Used to enhance gems. Amplifies the EXP of gems.{nl}Will be automatically deleted when the expiry date is reached.{nl}- Gem EXP: 230700
+ITEM_20191024_023766	Lv. 10 Enhancement Card (14 Dias)
+ITEM_20191024_023767	A card used to enhance a card. Increases a card's EXP by 5400.{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023768	Used to enhance gems. Amplifies the EXP of gems.{nl}Será automaticamente removido quando atingir a data de expiração.{nl}- Gem EXP: 230700
 ITEM_20191024_023769	[Evento] Unidentified Mystic Tome
 ITEM_20191024_023770	Contains a hidden technique. Bring to a Class Master NPC to obtain an Arts of your choice.
-ITEM_20191024_023771	[Evento] Stamp Tour Completion Reward Box (14 Days)
-ITEM_20191024_023772	Right click to obtain the following items.{nl}Will be automatically deleted when the expiry date is reached.{nl}- [Lv. 420] Stage 10 Transcendence Scroll{nl}- 20,000,000 Silver
+ITEM_20191024_023771	[Evento] Stamp Tour Completion Reward Box (14 Dias)
+ITEM_20191024_023772	Clique com o botão direito do mouse para obter os seguintes itens:{nl}Será automaticamente removido quando atingir a data de expiração.{nl}- [Lv. 420] Stage 10 Transcendence Scroll{nl}- 20,000,000 Silver
 ITEM_20191024_023773	Title - Pizza Time
 ITEM_20191024_023774	A title given to Saviors who have made the world a better place by delivering Pizza. Clique com o botão direito do mouse para utilizar.
 ITEM_20191024_023775	Moringponia Crown
@@ -24044,7 +24044,7 @@ ITEM_20191024_024043	Learn the art [Leather Mastery: Animal Instinct] upon use.{
 ITEM_20191024_024044	Mystic Tome (Rush: Pull)
 ITEM_20191024_024045	Learn the art [Rush: Pull] upon use.{nl} - Learn Condition: Cataphract Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Enemies are gradually drawn toward the you while using [Rush], and enemies take more damage the closer they are to you.
 ITEM_20191024_024046	Mystic Tome (Plate Mastery: Divine)
-ITEM_20191024_024047	Learn the art [Plate Mastery: Divine] upon use.{nl} - Learn Condition: Templar Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Regardless of the armor type you are using, allows you to use both Advanced Orders and Battle Orders even while not riding a companion.{nl}* While equipped with 4 pieces of [Plate] armor, reduces Physical and Magic damage taken by 5% and decreases damage taken from [Holy] property attacks by 30%.{nl}* Cannot be used simultaneously with [Arts] Leather Mastery: Animal Instinct
+ITEM_20191024_024047	Learn the art [Plate Mastery: Divine] upon use.{nl} - Learn Condition: Templar Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Regardless of the armor type you are using, Libera o uso de both Advanced Orders and Battle Orders even while not riding a companion.{nl}* While equipped with 4 pieces of [Plate] armor, reduces Physical and Magic damage taken by 5% and decreases damage taken from [Holy] property attacks by 30%.{nl}* Cannot be used simultaneously with [Arts] Leather Mastery: Animal Instinct
 ITEM_20191024_024048	Mystic Tome (Guardian: Reflect Spell)
 ITEM_20191024_024049	Learn the art [Guardian: Reflect Spell] upon use.{nl} - Learn Condition: Peltasta Class Level 45{nl} - Cost to Learn or Level Up: 36000 Attribute Points{nl} - Art Description{nl}* Removes the damage reduction effect from [Guardian], and instead reflects 50% of damage taken from enemy magic attacks. (You only take the remaining 50% damage)
 ITEM_20191024_024050	Mystic Tome (Highlander: Immortality)
@@ -24892,7 +24892,7 @@ ITEM_20191024_024890	Um pergaminho vermelho.{nl}Interaa com o aparelho dentro da
 ITEM_20191104_024891	Little Ghost Balloon	꼬마 유령 풍선
 ITEM_20191104_024892	[Evento] Back Costume	[이벤트] 등 코스튬
 ITEM_20191104_024893	A balloon in the shape of a little ghost that can be obtained from the [Halloween Midnight Rumble] event shop.{nl}It makes it so that as if there is a little ghost that is following you around.	[할로윈 밤의 소동] 이벤트 상점에서 교환할 수 있는 꼬마 유령 풍선입니다.{nl}귀여운 꼬마 유령이 따라다니는 것처럼 보입니다. 어두운 밤에 본다면 놀랄 수도 있으니 주의해야 합니다.
-ITEM_20191104_024894	[Card Equip Effect] [{img star_mark 20 20}]% chance of using Pain Barrier upon being hit (Duration: 15 seconds)	[슬롯 장착 효과] 피격 시 [★]% 확률로 페인배리어 사용 (지속시간 15초)
+ITEM_20191104_024894	[Efeito] [{img star_mark 20 20}]% chance of using Pain Barrier upon being hit (Duration: 15 seconds)	[슬롯 장착 효과] 피격 시 [★]% 확률로 페인배리어 사용 (지속시간 15초)
 ITEM_20191104_024895	Guloseima
 ITEM_20191104_024896	Item de evento.{nl}Pode ser trocado por prêmios com a Ajudante de Halloween.{nl}Será removido depois do final do período do evento.
 ITEM_20191104_024897	Bala de Abóbora

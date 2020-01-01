@@ -16129,16 +16129,16 @@ SKILL_20191024_016128	Duração: 30 segunods{nl}Golpes Adicionais: 1{nl}Taxa de 
 SKILL_20191024_016129	Provérbios
 SKILL_20191024_016130	Aumenta o limite de dano para 4.000.000. Se o seu dano ultrapassar 999.999, causa dano adicional no alvo em proporção a este dano causado.{nl}Não acumula com outros efeitos que aumentam o limite de dano.
 SKILL_20191024_016131	Duração: 25 segundos{nl}Dano Adicional: 20%{nl}Consome Riperium x10
-SKILL_20191024_016132	Ranger Transform: Red	스쿼드 폼 체인지 : 레드
-SKILL_20191024_016133	Transform into Red TOS Ranger.	TOS 스쿼드 레드로 변신합니다.
-SKILL_20191024_016134	Ranger Transform: Pink	스쿼드 폼 체인지 : 핑크
-SKILL_20191024_016135	Transform into Pink TOS Ranger.	TOS 스쿼드 핑크로 변신합니다.
-SKILL_20191024_016136	Ranger Transform: Blue	스쿼드 폼 체인지 : 블루
-SKILL_20191024_016137	Transform into Blue TOS Ranger.	TOS 스쿼드 블루로 변신합니다.
-SKILL_20191024_016138	Ranger Transform: Yellow	스쿼드 폼 체인지 : 옐로우
-SKILL_20191024_016139	Transform into Yellow TOS Ranger.	TOS 스쿼드 옐로우로 변신합니다.
-SKILL_20191024_016140	Ranger Transform: Green	스쿼드 폼 체인지 : 그린
-SKILL_20191024_016141	Transform into Green TOS Ranger.	TOS 스쿼드 그린으로 변신합니다.
+SKILL_20191024_016132	TOS Ranger: Vermelho
+SKILL_20191024_016133	Transformação em TOS Ranger Vermelho.
+SKILL_20191024_016134	TOS Ranger: Rosa
+SKILL_20191024_016135	Transformação em TOS Ranger Rosa.
+SKILL_20191024_016136	TOS Ranger: Azul
+SKILL_20191024_016137	Transformação em TOS Ranger Azul.
+SKILL_20191024_016138	TOS Ranger: Amarelo
+SKILL_20191024_016139	Transformação em TOS Ranger Amarelo.
+SKILL_20191024_016140	TOS Ranger: Verde
+SKILL_20191024_016141	Transformação em TOS Ranger Verde.
 SKILL_20191024_016142	Afflicted with Swell Body. The effects cannot be applied to the character.	크기 확대 상태입니다. 캐릭터에게는 효과가 적용되지 않습니다.
 SKILL_20191024_016143	Afflicted with Shrink Body. The effects cannot be applied to the character.	크기가 축소된 상태입니다. 캐릭터에게는 효과가 적용되지 않습니다.
 SKILL_20191024_016144	Enemies become open to attacks, they cannot use basic attacks and skills and their physical defense is decreased. They also become vulnerable to knockdown.	적이 잠시 무방비 상태가 되어, 기본 공격과 스킬 사용을 못하고 물리 방어력이 감소함. 또한 넉다운 공격에 취약해집니다.
@@ -16340,16 +16340,16 @@ SKILL_20191024_016339	Temporarily increases maximum damage cap. Also, additional
 SKILL_20191024_016340	Ataka
 SKILL_20191024_016341	[Ataka] - Quando um golpe crítico é lançado, causa um dano fixo dividido entre os inimigos próximos em uma áre de 60 (Máx. 10 inimigos. Cooldown: 8 segundos){nl}[Dragon Strength Nv. 1] - Aumenta o efeito de dano em 100%
 SKILL_20191024_016342	Misrus Staff equipped	머즈루스 스태프 착용
-SKILL_20191024_016343	TOS Ranger Transform - Red	TOS 스쿼드 폼 체인지 - 레드
-SKILL_20191024_016344	Transform into the Red TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 레드로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
-SKILL_20191024_016345	TOS Ranger Transform - Pink	TOS 스쿼드 폼 체인지 - 핑크
-SKILL_20191024_016346	Transform into the Pink TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 핑크로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
-SKILL_20191024_016347	TOS Ranger Transform - Blue	TOS 스쿼드 폼 체인지 - 블루
-SKILL_20191024_016348	Transform into the Blue TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 블루로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
-SKILL_20191024_016349	TOS Ranger Transform - Yellow	TOS 스쿼드 폼 체인지 - 옐로우
-SKILL_20191024_016350	Transform into the Yellow TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 옐로우로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
-SKILL_20191024_016351	TOS Ranger Transform - Green	TOS 스쿼드 폼 체인지 - 그린
-SKILL_20191024_016352	Transform into the Green TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 그린로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
+SKILL_20191024_016343	Transformação TOS Ranger - Vermelho
+SKILL_20191024_016344	Transformado em TOS Ranger Vermelho!{nl}Você retornará para a sua aparência original em breve.
+SKILL_20191024_016345	Transformação TOS Ranger - Rosa
+SKILL_20191024_016346	Transformado em TOS Ranger Rosa!{nl}Você retornará para a sua aparência original em breve.
+SKILL_20191024_016347	Transformação TOS Ranger - Azul
+SKILL_20191024_016348	Transformado em TOS Ranger Azul!{nl}Você retornará para a sua aparência original em breve.
+SKILL_20191024_016349	Transformação TOS Ranger - Amarelo
+SKILL_20191024_016350	Transformado em TOS Ranger Amarelo!{nl}Você retornará para a sua aparência original em breve.
+SKILL_20191024_016351	Transformação TOS Ranger - Verde
+SKILL_20191024_016352	Transformado em TOS Ranger Verde!{nl}Você retornará para a sua aparência original em breve.
 SKILL_20191024_016353	Load Magic Bullet	마력급탄
 SKILL_20191024_016354	Increases damage in proportion to the caster's critical attack value.	시전자의 치명타 공격력에 비례하여 주는 대미지가 증가합니다.
 SKILL_20191024_016355	Halloween Effect Free Check	할로윈 이펙트 프리체크
