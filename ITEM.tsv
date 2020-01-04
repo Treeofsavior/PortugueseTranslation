@@ -15236,11 +15236,11 @@ ITEM_20170726_015235	Marnox Cube
 ITEM_20170726_015236	Nuaele Cube
 ITEM_20170726_015237	Zaura Cube
 ITEM_20170726_015238	Blut Cube
-ITEM_20170726_015239	Buttler & Maid Costume Box (Black)
+ITEM_20170726_015239	Buttler & Maid Costume Box (Preto)
 ITEM_20170726_015240	Use para obter um item de sua escolha: Black Butler Costume (M) or Black Maid Costume (F).
-ITEM_20170726_015241	Buttler & Maid Costume Box (Red)
+ITEM_20170726_015241	Buttler & Maid Costume Box (Vermelho)
 ITEM_20170726_015242	Use para obter um item de sua escolha: Red Butler Costume (M) or Red Maid Costume (F).
-ITEM_20170726_015243	Buttler & Maid Costume Box (Blue)
+ITEM_20170726_015243	Buttler & Maid Costume Box (Azul)
 ITEM_20170726_015244	Use para obter um item de sua escolha: Blue Butler Costume (M) or Blue Maid Costume (F).
 ITEM_20170726_015245	A cube obtained from the Hackapell Master. It contains an item from one of the following collections: Istora Ruins, Nuoridin Falls. Right-click to open.
 ITEM_20170726_015246	Frag: Cubo de Arma Desconhecido (Nv. 75)
@@ -17598,11 +17598,11 @@ ITEM_20180320_017597	Gem Abrasive: 5000
 ITEM_20180320_017598	Used to enhance gems. Amplifies the EXP of gems.{nl}- Gem EXP Gain: 500{nl} Can be exchanged for medals at the Loja de Trocas.
 ITEM_20180320_017599	Increases EXP gains, movement speed and maximum HP according to number of stacks por 30 minutos. Maximum 5 stacks.
 ITEM_20180320_017600	Looting Chance: 100
-ITEM_20180320_017601	Aumenta a Chance de Drop em 100 for 60 minutes. Clique com o botão direito do mouse para utilizar. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.
+ITEM_20180320_017601	Aumenta a Chance de Drop em 100 for 60 minutes. Clique com o botão direito do mouse para utilizar. Cooldown of 60 minutes.{nl}- Não pode ser acumulado com outras poções de Chance de Drop.
 ITEM_20180320_017602	Looting Chance: 300
 ITEM_20180320_017603	Aumenta a Chance de Drop em 300 for 60 minutes. Clique com o botão direito do mouse para utilizar. Cooldown of 60 minutes.{nl}- cannot be stacked with other looting chance potion.
 ITEM_20180320_017604	Looting Chance: 500
-ITEM_20180320_017605	Aumenta a Chance de Drop em 500 for 60 minutes. Clique com o botão direito do mouse para utilizar. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.
+ITEM_20180320_017605	Aumenta a Chance de Drop em 500 for 60 minutes. Clique com o botão direito do mouse para utilizar. Cooldown of 60 minutes.{nl}- Não pode ser acumulado com outras poções de Chance de Drop.
 ITEM_20180320_017606	Coleção: Coasts
 ITEM_20180320_017607	Coleção: Fantasy Library
 ITEM_20180320_017608	Coleção: Narvas Temple
@@ -18804,7 +18804,7 @@ ITEM_20180629_018803	The Oracle Master built many gadgets in order to release th
 ITEM_20180629_018804	Dimensional Potion
 ITEM_20180629_018805	Restores 1234 HP and 617 SP every 2 seconds. {nl}224 HP and SP are restored over 15 seconds. {nl}Clique com o botão direito do mouse para utilizar. Cooldown 100 seconds.
 ITEM_20180629_018806	Uphill Defense Shop Points: 10
-ITEM_20180629_018807	Use to gain 10 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.
+ITEM_20180629_018807	Use to gain 10 Pontos da Loja Uphill Defense.{nl}Os pontos recebidos só podem ser utilizados na Loja Uphill Defense.
 ITEM_20180629_018808	Hidden Class Unlock Voucher Box {nl} List of Unlockable Classes {nl} - Shinobi Unlock Voucher {nl} - Miko Unlock Voucher {nl} - Rune Caster Unlock Voucher {nl} - Appraiser Unlock Voucher {nl} - Nak Muay Unlock Voucher
 ITEM_20180629_018809	Lv 350 Berthas Armor Selection Box
 ITEM_20180629_018810	Select one Lv 350 Berthas armor. Clique com o botão direito do mouse para utilizar.{nl}You cannot change your item once chosen.{nl}This box will be removed at the end of the event period.
@@ -21469,7 +21469,7 @@ ITEM_20190216_021468	Increases the transcendence stage a [Wake Up] weapon to 5.{
 ITEM_20190216_021469	Shining Golden Ichor Extraction Kit
 ITEM_20190216_021470	Tool used in the extraction of Ichors. Can only be used on equipment with 0 Potential. The equipment won't be destroyed upon failure.
 ITEM_20190216_021471	[Lv. 380] Stage 8 Transcendence Scroll
-ITEM_20190216_021472	Increases the transcendence stage of equipment of level 380 or below to 8.{nl}It can only be used on items at the transcendence stage between 0 to 7. Right-click the scroll and select the item you want to transcend to use.
+ITEM_20190216_021472	Increases the transcendence stage of equipment of level 380 or below to 8.{nl}Só pode ser usado em itens que a Transcendência esteja no Estágio 0 to 7. Clique com o botão direito do mouse no pergaminho e escolha o item que deseja Transcender.
 ITEM_20190216_021473	Will not decrease enhancement values even if the attempt fails. However, your item will lose potential. At 0 potential, the item is destroyed. Use within 14 days.
 ITEM_20190216_021474	Irredian Brooch
 ITEM_20190216_021475	Irredian Crystal Fragment
@@ -21649,7 +21649,7 @@ ITEM_20190322_021648	 no final do período do evento.
 ITEM_20190322_021649	[Evento] Isca Artificial (1 Dia)
 ITEM_20190322_021650	[Evento] Fogueira de Pesca (1 Dia)
 ITEM_20190322_021651	[Evento] Hidden Treasure Chest
-ITEM_20190322_021652	Clique com o botão direito do mouse para obter um dos seguintes itens:{nl} - Attribute Points: 100 (14 Dias) x2{nl} - Enchant Scroll (14 Dias) x1{nl} - Enhancement Card: 500 (14 Dias) x1{nl} - 5-Star Gem Abrasive (14 Dias) x1{nl} - Premium Awakening Stone (14 Dias) x1{nl} - Butler & Maid Costume Box (Black) x1{nl}Será automaticamente removido no final do período do evento.
+ITEM_20190322_021652	Clique com o botão direito do mouse para obter um dos seguintes itens:{nl} - Attribute Points: 100 (14 Dias) x2{nl} - Enchant Scroll (14 Dias) x1{nl} - Enhancement Card: 500 (14 Dias) x1{nl} - 5-Star Gem Abrasive (14 Dias) x1{nl} - Premium Awakening Stone (14 Dias) x1{nl} - Butler & Maid Costume Box (Preto) x1{nl}Será automaticamente removido no final do período do evento.
 ITEM_20190328_021653	Martian Ambition Helmet
 ITEM_20190328_021654	Martian Ambition Costume (M)
 ITEM_20190328_021655	Martian Ambition Costume (F)
@@ -23137,7 +23137,7 @@ ITEM_20190830_023136	Clique com o botão direito do mouse para receber um dos it
 ITEM_20190830_023137	[Summer Festa] Blue Reward Box
 ITEM_20190830_023138	Clique com o botão direito do mouse para receber um dos itens de forma aleatória:{nl}- [Evento] Stage 5 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Silver x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x2{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x2{nl}- [Evento] Moeda Vasalos x(5~10){nl}Será removido automaticamente no final do evento.
 ITEM_20190830_023139	[Summer Festa] Black Reward Box
-ITEM_20190830_023140	Clique com o botão direito do mouse para receber um dos itens de forma aleatória:{nl}- Butler and Maid Costume Box (Black) x1{nl}- [Evento] Guild Quest Reward Coin: Gold x1{nl}- [Evento] Small Elixir of HP Recovery x2{nl}- [Evento] Small Elixir of SP Recovery x2{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x5{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x5{nl}- [Evento] Moeda Vasalos x(10~20){nl}Será removido automaticamente no final do evento.
+ITEM_20190830_023140	Clique com o botão direito do mouse para receber um dos itens de forma aleatória:{nl}- Butler and Maid Costume Box (Preto) x1{nl}- [Evento] Guild Quest Reward Coin: Gold x1{nl}- [Evento] Small Elixir of HP Recovery x2{nl}- [Evento] Small Elixir of SP Recovery x2{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x5{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x5{nl}- [Evento] Moeda Vasalos x(10~20){nl}Será removido automaticamente no final do evento.
 ITEM_20190910_023141	Head Chef Costume (Male)
 ITEM_20190910_023142	Traje confeccionado para os chefes de cozinha mais habilidosos.{nl}Pode ser trocado por Medalhas na Loja de Trocas.
 ITEM_20190910_023143	Head Chef Costume (Female)
@@ -23698,7 +23698,7 @@ ITEM_20191024_023697	Moedas especiais criadas para o evento de verão 2019.{nl}P
 ITEM_20191024_023698	Contém um título entregue por participar do evento 'Guilds Make TOS'.{nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023699	Clique com o botão direito do mouse para obter, aleatoriamente, um dos itens abaixo:{nl}- [Evento] Stage 3 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Bronze x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x1{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x1{nl}- [Evento] Vasalos Coin x(1~2){nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023700	Clique com o botão direito do mouse para obter, aleatoriamente, um dos itens abaixo:{nl}- [Evento] Stage 5 Transcendence Scroll x1{nl}- [Evento] Guild Quest Reward Coin: Silver x1{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x2{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x2{nl}- [Evento] Vasalos Coin x(5~10){nl}Será automaticamente removido no final do período do evento.
-ITEM_20191024_023701	Clique com o botão direito do mouse para obter, aleatoriamente, um dos itens abaixo:{nl}- Butler and Maid Costume Box (Black) x1{nl}- [Evento] Guild Quest Reward Coin: Gold x1{nl}- [Evento] Small Elixir of HP Recovery x2{nl}- [Evento] Small Elixir of SP Recovery x2{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x5{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x5{nl}- [Evento] Vasalos Coin x(10~20){nl}Será automaticamente removido no final do período do evento.
+ITEM_20191024_023701	Clique com o botão direito do mouse para obter, aleatoriamente, um dos itens abaixo:{nl}- Butler and Maid Costume Box (Preto) x1{nl}- [Evento] Guild Quest Reward Coin: Gold x1{nl}- [Evento] Small Elixir of HP Recovery x2{nl}- [Evento] Small Elixir of SP Recovery x2{nl}- [Summer Festa] Lv.15 Basic Condensed HP Potion x5{nl}- [Summer Festa] Lv.15 Basic Condensed SP Potion x5{nl}- [Evento] Vasalos Coin x(10~20){nl}Será automaticamente removido no final do período do evento.
 ITEM_20191024_023702	[Compensação] Class Change Voucher Lv.1
 ITEM_20191024_023703	[Compensação] Class Change Voucher Lv.2
 ITEM_20191024_023704	[Compensação] Class Change Voucher Lv.3
@@ -23744,194 +23744,194 @@ ITEM_20191024_023743	Aumenta os Pontos de Troca de Classe em +1.000{nl}Pontos de
 ITEM_20191024_023744	[Evento] Skill + Attribute Reset Potion Package (14 Dias)
 ITEM_20191024_023745	Clique com o botão direito do mouse para obter os seguintes itens:{nl}Será automaticamente removido quando atingir a data de expiração.{nl}- Skill Reset Potion (14 Dias){nl}- Attribute Reset Potion (14 Dias)
 ITEM_20191024_023746	[Evento] Enhancement Coupon: 100,000 Silver (14 Dias)
-ITEM_20191024_023747	Use to have your Enhancement cost discounted by 100,000 Silver.{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023747	Use para reduzir o custo de Refino em 100.000 Silver.{nl}Será automaticamente removido quando atingir a data de expiração.
 ITEM_20191024_023748	[Lv. 420] Stage 3 Transcendence Scroll
-ITEM_20191024_023749	Increases the transcendence stage of equipment of level 420 or below to 3{nl}It can only be used on items at the transcendence stage between 0 to 2. Right-click the scroll and select the item you want to transcend to use.
+ITEM_20191024_023749	Aumenta o estágio da Transcendência de equipamentos que forem até o Nv 420 para o Estágio 3.{nl}Só pode ser usado em itens que a Transcendência esteja no Estágio 0~2. Clique com o botão direito do mouse no pergaminho e escolha o item que deseja Transcender.
 ITEM_20191024_023750	[Lv. 420] Stage 5 Transcendence Scroll
-ITEM_20191024_023751	Increases the transcendence stage of equipment of level 420 or below to 5{nl}It can only be used on items at the transcendence stage between 0 to 4. Right-click the scroll and select the item you want to transcend to use.
+ITEM_20191024_023751	Aumenta o estágio da Transcendência de equipamentos que forem até o Nv 420 para o Estágio 5.{nl}Só pode ser usado em itens que a Transcendência esteja no Estágio 0~4. Clique com o botão direito do mouse no pergaminho e escolha o item que deseja Transcender.
 ITEM_20191024_023752	[Lv. 420] Stage 8 Transcendence Scroll
-ITEM_20191024_023753	Increases the transcendence stage of equipment of level 420 or below to 8.{nl}It can only be used on items at the transcendence stage between 0 to 7. Right-click the scroll and select the item you want to transcend to use.
+ITEM_20191024_023753	Aumenta o estágio da Transcendência de equipamentos que forem até o Nv 420 para o Estágio 8.{nl}Só pode ser usado em itens que a Transcendência esteja no Estágio 0~7. Clique com o botão direito do mouse no pergaminho e escolha o item que deseja Transcender.
 ITEM_20191024_023754	[Lv. 420] Stage 10 Transcendence Scroll
-ITEM_20191024_023755	Increases the transcendence stage of equipment of level 420 or below to 10.{nl}It can only be used on items at the transcendence stage between 0 to 9. Right-click the scroll and select the item you want to transcend to use.
+ITEM_20191024_023755	Aumenta o estágio da Transcendência de equipamentos que forem até o Nv 420 para o Estágio 10.{nl}Só pode ser usado em itens que a Transcendência esteja no Estágio 0~9. Clique com o botão direito do mouse no pergaminho e escolha o item que deseja Transcender.
 ITEM_20191024_023756	Uphill Defense Shop Points: 400 (14 Dias)
-ITEM_20191024_023757	Use to gain 500 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023757	Use para obter 500 Pontos da Loja Uphill Defense.{nl}Os pontos recebidos só podem ser utilizados na Loja Uphill Defense.{nl}Será automaticamente removido quando atingir a data de expiração.
 ITEM_20191024_023758	Uphill Defense Shop Points: 1000 (14 Dias)
-ITEM_20191024_023759	Use to gain 1,000 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023759	Use para obter 1.000 Pontos da Loja Uphill Defense.{nl}Os pontos recebidos só podem ser utilizados na Loja Uphill Defense.{nl}Será automaticamente removido quando atingir a data de expiração.
 ITEM_20191024_023760	Uphill Defense Shop Points: 3000 (14 Dias)
-ITEM_20191024_023761	Use to gain 3,000 Uphill Shop Points.{nl}The points gained can be used in the Uphill Defense Shop.{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023761	Use para obter 3.000 Pontos da Loja Uphill Defense.{nl}Os pontos recebidos só podem ser utilizados na Loja Uphill Defense.{nl}Será automaticamente removido quando atingir a data de expiração.
 ITEM_20191024_023762	Looting Chance: 500 (14 Dias)
-ITEM_20191024_023763	Increases looting chance by 500 for 60 minutes. Clique com o botão direito do mouse para utilizar. Cooldown of 60 minutes.{nl}- Cannot be stacked with other looting chance potion.{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023763	Chance de Drop +500 por 60 minutos. Clique com o botão direito do mouse para utilizar. Cooldown: 60 minutos.{nl}- Não pode ser acumulado com outras poções de Chance de Drop.{nl}Será automaticamente removido quando atingir a data de expiração.
 ITEM_20191024_023764	[Evento] Savinose Armor Selection Box
-ITEM_20191024_023765	Use to obtain a +11 ENH Stage 8 TRA [Evento] Savinose Armor of your choice.{nl}Obtained item cannot be dismantled or further enhanced.
+ITEM_20191024_023765	Use para escolher uma armadura [Evento] Savinose, com Refino +11 e Transcendência Estágio 8.{nl}O item obtido não pode ser desmanchado nem refinado.
 ITEM_20191024_023766	Lv. 10 Enhancement Card (14 Dias)
-ITEM_20191024_023767	A card used to enhance a card. Increases a card's EXP by 5400.{nl}Será automaticamente removido quando atingir a data de expiração.
-ITEM_20191024_023768	Used to enhance gems. Amplifies the EXP of gems.{nl}Será automaticamente removido quando atingir a data de expiração.{nl}- Gem EXP: 230700
+ITEM_20191024_023767	Carta utilizada para aumentar o nível de outras cartas. Aumenta a EXP de uma carta em 5.400{nl}Será automaticamente removido quando atingir a data de expiração.
+ITEM_20191024_023768	Use para refinar gemas. Aplifica a EXP de uma gema.{nl}Será automaticamente removido quando atingir a data de expiração.{nl}- EXP de Gema: 230.700
 ITEM_20191024_023769	[Evento] Unidentified Mystic Tome
-ITEM_20191024_023770	Contains a hidden technique. Bring to a Class Master NPC to obtain an Arts of your choice.
+ITEM_20191024_023770	Contém uma técnica secreta. Leve este item para um Mestre de Classe para escolher uma Arte.
 ITEM_20191024_023771	[Evento] Stamp Tour Completion Reward Box (14 Dias)
-ITEM_20191024_023772	Clique com o botão direito do mouse para obter os seguintes itens:{nl}Será automaticamente removido quando atingir a data de expiração.{nl}- [Lv. 420] Stage 10 Transcendence Scroll{nl}- 20,000,000 Silver
+ITEM_20191024_023772	Clique com o botão direito do mouse para obter os seguintes itens:{nl}Será automaticamente removido quando atingir a data de expiração.{nl}- [Lv. 420] Stage 10 Transcendence Scroll{nl}- 20.000.000 Silver
 ITEM_20191024_023773	Title - Pizza Time
-ITEM_20191024_023774	A title given to Saviors who have made the world a better place by delivering Pizza. Clique com o botão direito do mouse para utilizar.
+ITEM_20191024_023774	Título entregue aos Salvadores que fizeram do mundo um lugar melhor entregando Pizza. Clique com o botão direito do mouse para utilizar.
 ITEM_20191024_023775	Moringponia Crown
-ITEM_20191024_023776	Crown with the lingering powers of Moringponia.{nl} {nl}Used as an ingredient in adding Set Stats to Savinose Legva, Skiaclipse Varna equipment.	모링포니아의 힘이 남겨져있습니다. {nl} {nl}세비노스 레그바, 스키아클립스 바르나 장비에 세트 옵션 부여 재료로 사용됩니다.
+ITEM_20191024_023776	Coroa com resquícios dos poderes da Moringgponia.{nl} {nl}Utilizado como ingrediente para adicionar Efeitos de Conjunto em equipamentos Savinose Legva e Skiaclipse Varna.
 ITEM_20191024_023777	Misrus Chain
-ITEM_20191024_023778	Chain with the lingering powers of Misrus.{nl} {nl}Used as an ingredient in adding Set Stats to Savinose Legva, Skiaclipse Varna equipment.	머즈루스의 힘이 남겨져있습니다. {nl} {nl}세비노스 레그바, 스키아클립스 바르나 장비에 세트 옵션 부여 재료로 사용됩니다.
-ITEM_20191024_023779	Removes all removable debuffs and applies the following effects when used.{nl}    - Immunity to Knockback/Knockdown for 5 seconds{nl}    - Immunity to all removable debuffs for 5 seconds{nl}    - Boosts movement speed momentarily. Movement speed returns to normal gradually over 5 seconds{nl}Can only be used in Spot Areas.
-ITEM_20191024_023780	[Guild Housing] Bench (Brown)
-ITEM_20191024_023781	[Guild Housing Item]
-ITEM_20191024_023782	Housing item that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(The bench can be sat on.){/}
-ITEM_20191024_023783	[Guild Housing] Klaipeda Streetlamp
-ITEM_20191024_023784	Housing item that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(The lanterns and streetlamps can be switched on and off.){/}
-ITEM_20191024_023785	[Guild Housing] Hydrangea A (Blue)
-ITEM_20191024_023786	Housing item that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(Place in hangout for item effects.){/}
-ITEM_20191024_023787	[Guild Housing] Hydrangea B (Blue)
-ITEM_20191024_023788	[Guild Housing] Orsha Streetlamp
-ITEM_20191024_023789	[Guild Housing] Magic Streetlamp
-ITEM_20191024_023790	[Guild Housing] Tree Streetlamp
-ITEM_20191024_023791	[Guild Housing] Basic Fountain (Small)
-ITEM_20191024_023792	[Guild Housing] Musical Sculpture
-ITEM_20191024_023793	[Guild Housing] Garden Fountain (Small)
-ITEM_20191024_023794	[Guild Housing] Garden Fountain (Medium)
-ITEM_20191024_023795	[Guild Housing] Garden Fountain (Large)
-ITEM_20191024_023796	[Guild Housing] Monastery Fountain
-ITEM_20191024_023797	[Guild Housing] Floral Garden Lantern L (Pink)
-ITEM_20191024_023798	[Guild Housing] Floral Garden Lantern R (Pink)
-ITEM_20191024_023799	[Guild Housing] Floral Arch (Purple)
-ITEM_20191024_023800	[Guild Housing] Iron Lantern
-ITEM_20191024_023801	[Guild Housing] Garden Fence (Brown)
-ITEM_20191024_023802	Housing item that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}{/}
-ITEM_20191024_023803	[Guild Housing] Big Tree with Swing
-ITEM_20191024_023804	Housing item that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(The swing can be sat on.){/}
-ITEM_20191024_023805	[Guild Housing] Phonograph
-ITEM_20191024_023806	Housing item that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(Music not included.){/}
-ITEM_20191024_023807	[Guild Housing] Pond (White)
-ITEM_20191024_023808	Housing item that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(Place in hangout to see the fish swim in the pond.){/}
-ITEM_20191024_023809	[Guild Housing] Flower Bed A (Green)
-ITEM_20191024_023810	[Guild Housing] Flower Bed B (Green)
-ITEM_20191024_023811	[Guild Housing] Flower Bed C (Green)
-ITEM_20191024_023812	[Guild Housing] Farm Fence A (Brown)
-ITEM_20191024_023813	[Guild Housing] Farm Fence B (Brown)
-ITEM_20191024_023814	[Guild Housing] Farm Fence C (Brown)
-ITEM_20191024_023815	[Guild Housing] Farm Fence D (Brown)
-ITEM_20191024_023816	[Guild Housing] Decorative Tree (Green)
-ITEM_20191024_023817	[Guild Housing] Wooden Fence
-ITEM_20191024_023818	[Guild Housing] Pump
-ITEM_20191024_023819	[Guild Housing] Fertilizer
-ITEM_20191024_023820	[Guild Housing] Farm Fence A (White)
-ITEM_20191024_023821	[Guild Housing] Farm Fence B (White)
-ITEM_20191024_023822	[Guild Housing] Farm Fence C (White)
-ITEM_20191024_023823	[Guild Housing] Farm Fence D (White)
-ITEM_20191024_023824	[Guild Housing] Farm Fence E (White)
-ITEM_20191024_023825	[Guild Housing] Potted Rose (Yellow)
-ITEM_20191024_023826	[Guild Housing] Decorative Flowerbed (Green)
-ITEM_20191024_023827	[Guild Housing] Garden Arch
-ITEM_20191024_023828	[Guild Housing] Potted Hydrangea (Blue)
-ITEM_20191024_023829	[Guild Housing] Parasol (White)
-ITEM_20191024_023830	Housing item that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(It can be sat on.){/}
-ITEM_20191024_023831	[Guild Housing] Assorted Shops
-ITEM_20191024_023832	[Guild Housing] Flower Bed D (Green)
-ITEM_20191024_023833	[Guild Housing] Table with Flower (White)
-ITEM_20191024_023834	[Guild Housing] Topiary (Swan)
-ITEM_20191024_023835	[Guild Housing] Windmill
-ITEM_20191024_023836	Housing item that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(The windmill will spin when placed in Hangout.){/}
-ITEM_20191024_023837	[Guild Housing] Topiary (Tree)
-ITEM_20191024_023838	[Guild Housing] Topiary (Popolion)
-ITEM_20191024_023839	[Guild Housing] Topiary (Kepa)
-ITEM_20191024_023840	[Guild Housing] Topiary (Horse)
-ITEM_20191024_023841	[Guild Housing] Topiary (Cube)
-ITEM_20191024_023842	[Guild Housing] Topiary (Decorative Garden)
-ITEM_20191024_023843	[Guild Housing] Knight Sculpture
-ITEM_20191024_023844	[Guild Housing] Aged Tree (Pink)
-ITEM_20191024_023845	[Guild Housing] Decorative Tree
-ITEM_20191024_023846	[Guild Housing] Stone Tower B
-ITEM_20191024_023847	[Guild Housing] Praying Sculpture
-ITEM_20191024_023848	[Guild Housing] Goat Monster Sculpture
-ITEM_20191024_023849	[Guild Housing] Anemone (Red)
-ITEM_20191024_023850	[Guild Housing] Oak Barrel Set
-ITEM_20191024_023851	[Guild Housing] Fruit Basket (Brown)
-ITEM_20191024_023852	[Guild Housing] Dewy Flower (Yellow)
-ITEM_20191024_023853	[Guild Housing] Alocasia (White)
-ITEM_20191024_023854	[Guild Housing] Alcyoniuml (Blue)
-ITEM_20191024_023855	[Guild Housing] Alcyonium (Red)
-ITEM_20191024_023856	[Guild Housing] Blue Coral
-ITEM_20191024_023857	[Guild Housing] Conch Shell (Brown)
-ITEM_20191024_023858	[Guild Housing] Cactus
-ITEM_20191024_023859	[Guild Housing] Farm Plot
-ITEM_20191024_023860	Housing facility that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(Place in Hangout to be able to farm.){/}{#8e000}(Max. 2 Farm Plots can be placed at a time.){/}
-ITEM_20191024_023861	[Guild Housing] Castle Wall
-ITEM_20191024_023862	[Guild Housing] Armor Lab
-ITEM_20191024_023863	Housing facility that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 3 or above.{nl}{#8e0000}(Place in Hangout to use or upgrade the Armor Lab.){/}{nl}{#8e0000}(Max. research level +5 with every upgrade.){/}{#8e0000}(Max. 1 Armor Lab can be placed at a time.){/}
-ITEM_20191024_023864	[Guild Housing] Property Lab
-ITEM_20191024_023865	Housing facility that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 3 or above.{nl}{#8e0000}(Place in Hangout to use or upgrade the Property Lab.){/}{nl}{#8e0000}(Max. research level +5 with every upgrade.){/}{#8e0000}(Max. 1 Property Lab can be placed at a time.){/}
-ITEM_20191024_023866	[Guild Housing] Weapon Lab
-ITEM_20191024_023867	Housing facility that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 3 or above.{nl}{#8e0000}(Place in Hangout to use or upgrade the Weapon Lab.){/}{nl}{#8e0000}(Max. research level +5 with every upgrade.){/}{#8e0000}(Max. 1 Weapon Lab can be placed at a time.){/}
-ITEM_20191024_023868	[Guild Housing] Crafting Lab
-ITEM_20191024_023869	Housing facility that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(Place in Hangout to upgrade the Crafting Lab.){/}{nl}{#8e0000}(Max. Housing Points +100 with every upgrade.){/}{#8e0000}(Max. 1 Crating Lab can be placed at a time.){/}
-ITEM_20191024_023870	[Guild Housing] Scarecrow
-ITEM_20191024_023871	[Guild Housing] Stone Tower A
-ITEM_20191024_023872	[Guild Housing] Castle Streetlamp
-ITEM_20191024_023873	[Guild Housing] Vakarine Goddess Statue
-ITEM_20191024_023874	Housing item that can be placed in the Guild Hangout.{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(You can pray to the Statue to warp to other areas.){/}
-ITEM_20191024_023875	[Guild Housing] Flower Arch (Red)
-ITEM_20191024_023876	[Guild Housing] Flower Arch (White)
-ITEM_20191024_023877	[Guild Housing] Flower Arch (Yellow)
-ITEM_20191024_023878	[Guild Housing] Bench (Green)
-ITEM_20191024_023879	[Guild Housing] Bench (White)
-ITEM_20191024_023880	[Guild Housing] Bench (Wine)
-ITEM_20191024_023881	[Guild Housing] Alocasia (Orange)
-ITEM_20191024_023882	[Guild Housing] Alocasia (Pink)
-ITEM_20191024_023883	[Guild Housing] Alocasia (Yellow)
-ITEM_20191024_023884	[Guild Housing] Dewy Flower (Purple)
-ITEM_20191024_023885	[Guild Housing] Dewy Flower (Red)
-ITEM_20191024_023886	[Guild Housing] Dewy Flower (White)
-ITEM_20191024_023887	[Guild Housing] Conch Shell (Pink)
-ITEM_20191024_023888	[Guild Housing] Conch Shell (Purple)
-ITEM_20191024_023889	[Guild Housing] Fruit Basket (Purple)
-ITEM_20191024_023890	[Guild Housing] Fruit Basket (Red)
-ITEM_20191024_023891	[Guild Housing] Anemone (Blue)
-ITEM_20191024_023892	[Guild Housing] Anemone (Yellow)
-ITEM_20191024_023893	[Guild Housing] Garden Fence (Black)
-ITEM_20191024_023894	[Guild Housing] Garden Fence (White)
-ITEM_20191024_023895	[Guild Housing] Potted Hydrangea (Red)
-ITEM_20191024_023896	[Guild Housing] Potted Hydrangea (White)
-ITEM_20191024_023897	[Guild Housing] Potted Hydrangea (Yellow)
-ITEM_20191024_023898	[Guild Housing] Flower Bed D (Turquoise)
-ITEM_20191024_023899	[Guild Housing] Table with Flower (Pink)
-ITEM_20191024_023900	[Guild Housing] Table with Flower (Yellow
-ITEM_20191024_023901	[Guild Housing] Aged Tree (Purple)
-ITEM_20191024_023902	[Guild Housing] Aged Tree (White)
-ITEM_20191024_023903	[Guild Housing] Aged Tree (Yellow)
-ITEM_20191024_023904	[Guild Housing] Floral Garden Lantern L (Red)
-ITEM_20191024_023905	[Guild Housing] Floral Garden Lantern L (White)
-ITEM_20191024_023906	[Guild Housing] Floral Garden Lantern R (Red)
-ITEM_20191024_023907	[Guild Housing] Floral Garden Lantern R (White)
-ITEM_20191024_023908	[Guild Housing] Hydrangea A (Red)
-ITEM_20191024_023909	[Guild Housing] Hydrangea A (White)
-ITEM_20191024_023910	[Guild Housing] Hydrangea A (Yellow)
-ITEM_20191024_023911	[Guild Housing] Hydrangea B (Red)
-ITEM_20191024_023912	[Guild Housing] Hydrangea B (White)
-ITEM_20191024_023913	[Guild Housing] Hydrangea B (Yellow)
-ITEM_20191024_023914	[Guild Housing] Flower Bed A (Turquoise)
-ITEM_20191024_023915	[Guild Housing] Flower Bed B (Turquoise)
-ITEM_20191024_023916	[Guild Housing] Flower Bed C (Turquoise)
-ITEM_20191024_023917	[Guild Housing] Decorative Tree (Pink)
-ITEM_20191024_023918	[Guild Housing] Decorative Tree (Purple)
-ITEM_20191024_023919	[Guild Housing] Decorative Tree (Yellow)
-ITEM_20191024_023920	[Guild Housing] Potted Rose (Blue)
-ITEM_20191024_023921	[Guild Housing] Potted Rose (Red)
-ITEM_20191024_023922	[Guild Housing] Potted Rose (White)
-ITEM_20191024_023923	[Guild Housing] Decorative Flowerbed (Blue)
-ITEM_20191024_023924	[Guild Housing] Decorative Flower Bed (Red)
-ITEM_20191024_023925	[Guild Housing] Decorative Flower Bed (Yellow)
-ITEM_20191024_023926	[Guild Housing] Parasol (Blue)
-ITEM_20191024_023927	[Guild Housing] Parasol (Red)
-ITEM_20191024_023928	[Guild Housing] Pond (Blue)
-ITEM_20191024_023929	[Guild Housing] Pond (Red)
-ITEM_20191024_023930	[Guild Housing] Pond (Yellow)
-ITEM_20191024_023931	[Guild Housing] Farm Manager (Male) Contract
-ITEM_20191024_023932	A contract of employment for a Farm Manager (Male).{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(Increases crops reaped by 0~5% when hired.){/}{nl}{#8e0000}(Max. 1 Farm Manager can be placed at a time.){/}
-ITEM_20191024_023933	[Guild Housing] Farm Manager (Female) Contract
-ITEM_20191024_023934	A contract of employment for a Farm Manager (Female).{nl}Can only be used for Guild Expansion Lv. 2 or above.{nl}{#8e0000}(Increases crops reaped by 0~5% when hired.){/}{nl}{#8e0000}(Max. 1 Farm Manager can be placed at a time.){/}
+ITEM_20191024_023778	Corrente com resquícios dos poderes do Misrus.{nl} {nl}Utilizado como ingrediente para adicionar Efeitos de Conjunto em equipamentos Savinose Legva e Skiaclipse Varna.
+ITEM_20191024_023779	Ao ser utilizado, remove todos os efeitos negativos removíveis e aplica os seguintes efeitos:{nl}    - Imunidade contra ser empurrado/derrubado por 5 segundos{nl}    - Imunidade contra efeitos negativos removíveis por 5 segundos{nl}    - Aumenta a Velocidade de Movimento momentaneamente. Retorna ao normal gradualmente durante 5 segundos.{nl}Só pode ser utilizado em áres de GTW.
+ITEM_20191024_023780	[Decoração de Guilda] Bench (Marrom)
+ITEM_20191024_023781	[Item de Decoração de Guilda]
+ITEM_20191024_023782	Item de decoração que pode ser colocado no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Pode-se sentar no banco){/}
+ITEM_20191024_023783	[Decoração de Guilda] Klaipeda Streetlamp
+ITEM_20191024_023784	Item de decoração que pode ser colocado no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Lanternas e postes de luz podem ser ligados e desligados){/}
+ITEM_20191024_023785	[Decoração de Guilda] Hydrangea A (Azul)
+ITEM_20191024_023786	Item de decoração que pode ser colocado no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Coloque no Hangout para visualizar seus efeitos){/}
+ITEM_20191024_023787	[Decoração de Guilda] Hydrangea B (Azul)
+ITEM_20191024_023788	[Decoração de Guilda] Orsha Streetlamp
+ITEM_20191024_023789	[Decoração de Guilda] Magic Streetlamp
+ITEM_20191024_023790	[Decoração de Guilda] Tree Streetlamp
+ITEM_20191024_023791	[Decoração de Guilda] Basic Fountain (Pequeno)
+ITEM_20191024_023792	[Decoração de Guilda] Musical Sculpture
+ITEM_20191024_023793	[Decoração de Guilda] Garden Fountain (Pequeno)
+ITEM_20191024_023794	[Decoração de Guilda] Garden Fountain (Médio)
+ITEM_20191024_023795	[Decoração de Guilda] Garden Fountain (Grande)
+ITEM_20191024_023796	[Decoração de Guilda] Monastery Fountain
+ITEM_20191024_023797	[Decoração de Guilda] Floral Garden Lantern L (Rosa)
+ITEM_20191024_023798	[Decoração de Guilda] Floral Garden Lantern R (Rosa)
+ITEM_20191024_023799	[Decoração de Guilda] Floral Arch (Roxo)
+ITEM_20191024_023800	[Decoração de Guilda] Iron Lantern
+ITEM_20191024_023801	[Decoração de Guilda] Garden Fence (Marrom)
+ITEM_20191024_023802	Item de decoração que pode ser colocado no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}{/}
+ITEM_20191024_023803	[Decoração de Guilda] Big Tree with Swing
+ITEM_20191024_023804	Item de decoração que pode ser colocado no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Pode-se sentar no balanço){/}
+ITEM_20191024_023805	[Decoração de Guilda] Phonograph
+ITEM_20191024_023806	Item de decoração que pode ser colocado no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Não inclui música){/}
+ITEM_20191024_023807	[Decoração de Guilda] Pond (Branco)
+ITEM_20191024_023808	Item de decoração que pode ser colocado no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Coloque no Hangout para ver peixes nadando){/}
+ITEM_20191024_023809	[Decoração de Guilda] Flower Bed A (Verde)
+ITEM_20191024_023810	[Decoração de Guilda] Flower Bed B (Verde)
+ITEM_20191024_023811	[Decoração de Guilda] Flower Bed C (Verde)
+ITEM_20191024_023812	[Decoração de Guilda] Farm Fence A (Marrom)
+ITEM_20191024_023813	[Decoração de Guilda] Farm Fence B (Marrom)
+ITEM_20191024_023814	[Decoração de Guilda] Farm Fence C (Marrom)
+ITEM_20191024_023815	[Decoração de Guilda] Farm Fence D (Marrom)
+ITEM_20191024_023816	[Decoração de Guilda] Decorative Tree (Verde)
+ITEM_20191024_023817	[Decoração de Guilda] Wooden Fence
+ITEM_20191024_023818	[Decoração de Guilda] Pump
+ITEM_20191024_023819	[Decoração de Guilda] Fertilizer
+ITEM_20191024_023820	[Decoração de Guilda] Farm Fence A (Branco)
+ITEM_20191024_023821	[Decoração de Guilda] Farm Fence B (Branco)
+ITEM_20191024_023822	[Decoração de Guilda] Farm Fence C (Branco)
+ITEM_20191024_023823	[Decoração de Guilda] Farm Fence D (Branco)
+ITEM_20191024_023824	[Decoração de Guilda] Farm Fence E (Branco)
+ITEM_20191024_023825	[Decoração de Guilda] Potted Rose (Amarelo)
+ITEM_20191024_023826	[Decoração de Guilda] Decorative Flowerbed (Verde)
+ITEM_20191024_023827	[Decoração de Guilda] Garden Arch
+ITEM_20191024_023828	[Decoração de Guilda] Potted Hydrangea (Azul)
+ITEM_20191024_023829	[Decoração de Guilda] Parasol (Branco)
+ITEM_20191024_023830	Item de decoração que pode ser colocado no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Pode-se sentar nesta decoração){/}
+ITEM_20191024_023831	[Decoração de Guilda] Assorted Shops
+ITEM_20191024_023832	[Decoração de Guilda] Flower Bed D (Verde)
+ITEM_20191024_023833	[Decoração de Guilda] Table with Flower (Branco)
+ITEM_20191024_023834	[Decoração de Guilda] Topiary (Cisne)
+ITEM_20191024_023835	[Decoração de Guilda] Windmill
+ITEM_20191024_023836	Item de decoração que pode ser colocado no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(O moinho irá girar quando colocado no Hangout){/}
+ITEM_20191024_023837	[Decoração de Guilda] Topiary (Árvore)
+ITEM_20191024_023838	[Decoração de Guilda] Topiary (Popolion)
+ITEM_20191024_023839	[Decoração de Guilda] Topiary (Kepa)
+ITEM_20191024_023840	[Decoração de Guilda] Topiary (Cavalo)
+ITEM_20191024_023841	[Decoração de Guilda] Topiary (Cubo)
+ITEM_20191024_023842	[Decoração de Guilda] Topiary (Jardim Decorativo)
+ITEM_20191024_023843	[Decoração de Guilda] Knight Sculpture
+ITEM_20191024_023844	[Decoração de Guilda] Aged Tree (Rosa)
+ITEM_20191024_023845	[Decoração de Guilda] Decorative Tree
+ITEM_20191024_023846	[Decoração de Guilda] Stone Tower B
+ITEM_20191024_023847	[Decoração de Guilda] Praying Sculpture
+ITEM_20191024_023848	[Decoração de Guilda] Goat Monster Sculpture
+ITEM_20191024_023849	[Decoração de Guilda] Anemone (Vermelho)
+ITEM_20191024_023850	[Decoração de Guilda] Oak Barrel Set
+ITEM_20191024_023851	[Decoração de Guilda] Fruit Basket (Marrom)
+ITEM_20191024_023852	[Decoração de Guilda] Dewy Flower (Amarelo)
+ITEM_20191024_023853	[Decoração de Guilda] Alocasia (Branco)
+ITEM_20191024_023854	[Decoração de Guilda] Alcyoniuml (Azul)
+ITEM_20191024_023855	[Decoração de Guilda] Alcyonium (Vermelho)
+ITEM_20191024_023856	[Decoração de Guilda] Blue Coral
+ITEM_20191024_023857	[Decoração de Guilda] Conch Shell (Marrom)
+ITEM_20191024_023858	[Decoração de Guilda] Cactus
+ITEM_20191024_023859	[Decoração de Guilda] Farm Plot
+ITEM_20191024_023860	Instalação que só pode ser colocada no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Coloque no Hangout para poder plantar){/}{#8e000}(Máx. 2 Farm Plots por vez){/}
+ITEM_20191024_023861	[Decoração de Guilda] Castle Wall
+ITEM_20191024_023862	[Decoração de Guilda] Armor Lab
+ITEM_20191024_023863	Instalação que só pode ser colocada no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 3 ou mais.{nl}{#8e0000}(Coloque no Hangout para utilizar ou melhorar o Laboratório de Armaduras){/}{nl}{#8e0000}(Nv Máximo de pesquisa +5 a cada melhoria da instalação){/}{#8e0000}(Máximo de 1 Laboratório de Armaduras por vez){/}
+ITEM_20191024_023864	[Decoração de Guilda] Property Lab
+ITEM_20191024_023865	Instalação que só pode ser colocada no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 3 ou mais.{nl}{#8e0000}(Coloque no Hangout para utilizar ou melhorar o Laboratório Elemental){/}{nl}{#8e0000}(Nv Máximo de pesquisa +5 a cada melhoria da instalação){/}{#8e0000}(Máximo de 1 Laboratório Elemental por vez){/}
+ITEM_20191024_023866	[Decoração de Guilda] Weapon Lab
+ITEM_20191024_023867	Instalação que só pode ser colocada no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 3 ou mais.{nl}{#8e0000}(Coloque no Hangout para utilizar ou melhorar o Laboratório de Armas){/}{nl}{#8e0000}(Nv Máximo de pesquisa +5 a cada melhoria da instalação){/}{#8e0000}(Máximo de 1 Laboratório de Armas por vez){/}
+ITEM_20191024_023868	[Decoração de Guilda] Crafting Lab
+ITEM_20191024_023869	Instalação que só pode ser colocada no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Coloque no Hangout para melhorar a Oficina de Construções){/}{nl}{#8e0000}(Pontos de Decoração +100 a cada melhoria){/}{#8e0000}(Máximo de 1 Oficina de Construções por vez){/}
+ITEM_20191024_023870	[Decoração de Guilda] Scarecrow
+ITEM_20191024_023871	[Decoração de Guilda] Stone Tower A
+ITEM_20191024_023872	[Decoração de Guilda] Castle Streetlamp
+ITEM_20191024_023873	[Decoração de Guilda] Vakarine Goddess Statue
+ITEM_20191024_023874	Item de decoração que pode ser colocado no Hangout da Guilda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Você pode utilizar funções de teleporte através da estátua){/}
+ITEM_20191024_023875	[Decoração de Guilda] Flower Arch (Vermelho)
+ITEM_20191024_023876	[Decoração de Guilda] Flower Arch (Branco)
+ITEM_20191024_023877	[Decoração de Guilda] Flower Arch (Amarelo)
+ITEM_20191024_023878	[Decoração de Guilda] Bench (Verde)
+ITEM_20191024_023879	[Decoração de Guilda] Bench (Branco)
+ITEM_20191024_023880	[Decoração de Guilda] Bench (Vinho)
+ITEM_20191024_023881	[Decoração de Guilda] Alocasia (Laranja)
+ITEM_20191024_023882	[Decoração de Guilda] Alocasia (Rosa)
+ITEM_20191024_023883	[Decoração de Guilda] Alocasia (Amarelo)
+ITEM_20191024_023884	[Decoração de Guilda] Dewy Flower (Roxo)
+ITEM_20191024_023885	[Decoração de Guilda] Dewy Flower (Vermelho)
+ITEM_20191024_023886	[Decoração de Guilda] Dewy Flower (Branco)
+ITEM_20191024_023887	[Decoração de Guilda] Conch Shell (Rosa)
+ITEM_20191024_023888	[Decoração de Guilda] Conch Shell (Roxo)
+ITEM_20191024_023889	[Decoração de Guilda] Fruit Basket (Roxo)
+ITEM_20191024_023890	[Decoração de Guilda] Fruit Basket (Vermelho)
+ITEM_20191024_023891	[Decoração de Guilda] Anemone (Azul)
+ITEM_20191024_023892	[Decoração de Guilda] Anemone (Amarelo)
+ITEM_20191024_023893	[Decoração de Guilda] Garden Fence (Preto)
+ITEM_20191024_023894	[Decoração de Guilda] Garden Fence (Branco)
+ITEM_20191024_023895	[Decoração de Guilda] Potted Hydrangea (Vermelho)
+ITEM_20191024_023896	[Decoração de Guilda] Potted Hydrangea (Branco)
+ITEM_20191024_023897	[Decoração de Guilda] Potted Hydrangea (Amarelo)
+ITEM_20191024_023898	[Decoração de Guilda] Flower Bed D (Turquesa)
+ITEM_20191024_023899	[Decoração de Guilda] Table with Flower (Rosa)
+ITEM_20191024_023900	[Decoração de Guilda] Table with Flower (Amarelo)
+ITEM_20191024_023901	[Decoração de Guilda] Aged Tree (Roxo)
+ITEM_20191024_023902	[Decoração de Guilda] Aged Tree (Branco)
+ITEM_20191024_023903	[Decoração de Guilda] Aged Tree (Amarelo)
+ITEM_20191024_023904	[Decoração de Guilda] Floral Garden Lantern L (Vermelho)
+ITEM_20191024_023905	[Decoração de Guilda] Floral Garden Lantern L (Branco)
+ITEM_20191024_023906	[Decoração de Guilda] Floral Garden Lantern R (Vermelho)
+ITEM_20191024_023907	[Decoração de Guilda] Floral Garden Lantern R (Branco)
+ITEM_20191024_023908	[Decoração de Guilda] Hydrangea A (Vermelho)
+ITEM_20191024_023909	[Decoração de Guilda] Hydrangea A (Branco)
+ITEM_20191024_023910	[Decoração de Guilda] Hydrangea A (Amarelo)
+ITEM_20191024_023911	[Decoração de Guilda] Hydrangea B (Vermelho)
+ITEM_20191024_023912	[Decoração de Guilda] Hydrangea B (Branco)
+ITEM_20191024_023913	[Decoração de Guilda] Hydrangea B (Amarelo)
+ITEM_20191024_023914	[Decoração de Guilda] Flower Bed A (Turquesa)
+ITEM_20191024_023915	[Decoração de Guilda] Flower Bed B (Turquesa)
+ITEM_20191024_023916	[Decoração de Guilda] Flower Bed C (Turquesa)
+ITEM_20191024_023917	[Decoração de Guilda] Decorative Tree (Rosa)
+ITEM_20191024_023918	[Decoração de Guilda] Decorative Tree (Roxo)
+ITEM_20191024_023919	[Decoração de Guilda] Decorative Tree (Amarelo)
+ITEM_20191024_023920	[Decoração de Guilda] Potted Rose (Azul)
+ITEM_20191024_023921	[Decoração de Guilda] Potted Rose (Vermelho)
+ITEM_20191024_023922	[Decoração de Guilda] Potted Rose (Branco)
+ITEM_20191024_023923	[Decoração de Guilda] Decorative Flowerbed (Azul)
+ITEM_20191024_023924	[Decoração de Guilda] Decorative Flower Bed (Vermelho)
+ITEM_20191024_023925	[Decoração de Guilda] Decorative Flower Bed (Amarelo)
+ITEM_20191024_023926	[Decoração de Guilda] Parasol (Azul)
+ITEM_20191024_023927	[Decoração de Guilda] Parasol (Vermelho)
+ITEM_20191024_023928	[Decoração de Guilda] Pond (Azul)
+ITEM_20191024_023929	[Decoração de Guilda] Pond (Vermelho)
+ITEM_20191024_023930	[Decoração de Guilda] Pond (Amarelo)
+ITEM_20191024_023931	[Decoração de Guilda] Farm Manager (Male) Contract
+ITEM_20191024_023932	Contrato com um empregado para Gerente de Fazenda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Aumenta os ganhos das fazendas em 0~5% ao contratar){/}{nl}{#8e0000}(Máximo de 1 Gerente de Fazenda por vez){/}
+ITEM_20191024_023933	[Decoração de Guilda] Farm Manager (Female) Contract
+ITEM_20191024_023934	Contrato com uma empregada para Gerente de Fazenda.{nl}Só pode ser utilizado em Expansão Nv. 2 ou mais.{nl}{#8e0000}(Aumenta os ganos das fazendas em 0~5% ao contratar){/}{nl}{#8e0000}(Máximo de 1 Gerente de Fazenda por vez){/}
 ITEM_20191024_023935	Mystic Tome Page
 ITEM_20191024_023936	A single page from a Mystic Tome containing the secret Arts. Take to a Class Master to help decipher the Arts hidden within the page.
 ITEM_20191024_023937	[Reward] Unidentified Mystic Tome
