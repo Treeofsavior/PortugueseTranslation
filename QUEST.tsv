@@ -2394,8 +2394,8 @@ QUEST_20150804_002401	Não há nada escrito nisso.
 QUEST_20150908_002402	Obteve a madeira
 QUEST_20150918_002403	Não há missões para hoje.
 QUEST_20150918_002404	Só há missões que parecem ser difíceis demais para você.{nl}Por favor, volte mais tarde.
-QUEST_20150918_002405	Historic Site Ruins
-QUEST_20150918_002406	Historic Site Ruins (Nv Recomendado: 90){nl}Só você e os membros de sua equipe podem entrar juntos.{nl}Tem certeza de que deseja entrar?
+QUEST_20150918_002405	Ruínas Históricas
+QUEST_20150918_002406	Ruínas Históricas (Nv Recomendado: 90){nl}Só você e os membros de sua equipe podem entrar juntos.{nl}Tem certeza de que deseja entrar?
 QUEST_20150918_002407	Certo. A Deusa Laima é a mais estranha de todas.{nl}Ninguém sabe quando ela desapareceu. Para falar a verdade, eu não sei{nl}se ela é realmente uma Deusa.{nl}
 QUEST_20150918_002408	Mesmo que digam que o mundo está arruinado, nossos soldados guardarão esse lugar até o fim. {nl}Entretanto, não nos responsabilizaremos se você se encrencar, então tome cuidado.
 QUEST_20150918_002409	Saudações. Sir Uska espera por você na Central Plaza de Klaipeda. {nl}Bem, você tem dúvidas sobre algo?
@@ -2417,8 +2417,8 @@ QUEST_20150918_002424	Mas a estátua da Deusa Ausrine em Klaipeda é meio estran
 QUEST_20150918_002425	Desça, rápido. É perigoso. {nl}Esse lugar está vazio.
 QUEST_20150918_002426	Eu não consigo sentir nenhuma magia.
 QUEST_20150918_002427	Está vazio agora.
-QUEST_20150918_002428	Underground Chapel Dungeon
-QUEST_20150918_002429	Underground Chapel Dungeon (Nv Recomendado: 50){nl}Só você e os membros de sua equipe podem entrar juntos.{nl}Deseja entrar?
+QUEST_20150918_002428	Capela Subterrânea
+QUEST_20150918_002429	Capela Subterrânea (Nv Recomendado: 50){nl}Só você e os membros de sua equipe podem entrar juntos.{nl}Deseja entrar?
 QUEST_20150918_002430	Fallen Legwyn Family Dungeon
 QUEST_20150918_002431	Fallen Legwyn Family Dungeon (Nv Recomendado: 132){nl}Só você e os membros de sua equipe podem entrar juntos.{nl}Deseja entrar?
 QUEST_20150918_002432	Archmage Tower Dungeon
@@ -4867,7 +4867,7 @@ QUEST_20161005_004875	Deseja usar o bote?
 QUEST_20161005_004876	O orbe está piscando fraco.
 QUEST_20161005_004877	O orbe está brilhando.
 QUEST_20161005_004878	Castle Dungeon Test
-QUEST_20161005_004879	Castle Dungeon (Lv Recomendado : 290){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
+QUEST_20161005_004879	Masmorra do Castelo (Lv Recomendado : 290){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
 QUEST_20161005_004880	Isto é sobre antes da enorme estátua de Fedimian.{nl}Claro, havia uma estátua menor antes.
 QUEST_20161005_004881	De qualquer forma, o fato de ser possível perder dinheiro ao deixa-lo cair em Fedimian{nl}fez os moradores loais cuidarem muito bem do seu dinheiro.
 QUEST_20161005_004882	Modestas admitiu ter perdido e disse que daria o troco. Quando estava saindo com vagão rebocado, o velho Alchemist deu um sorriso estranho que chamou a atenção de Modestas.
@@ -5432,7 +5432,7 @@ QUEST_20170303_005443	Uma receita de Cesta de Doces custa 100 silver. {Nl} Insir
 QUEST_20170303_005444	Enter monster ClassID.{nl}(monster.xml value){nl} - 400001 Kepa{nl} - 400981 Popolion{nl} - 400941 Hanaming
 QUEST_20170303_005445	Enter monster level.{nl}(Max. value: 1 ~ 500)
 QUEST_20170303_005446	Enter monster MHP.{nl}(Max. value: 1 ~ 500)
-QUEST_20170313_005448	Historic Site Ruins (Nível Recomendado: 80){nl}Apenas você e os membros do seu grupo podem entrar juntos.{nl}Tem certeza que deseja entrar?
+QUEST_20170313_005448	Ruínas Históricas (Nível Recomendado: 80){nl}Apenas você e os membros do seu grupo podem entrar juntos.{nl}Tem certeza que deseja entrar?
 QUEST_20170313_005449	Demon Prison Guild (Nível Recomendado: 110){nl}Apenas você e os membros do seu grupo podem entrar juntos.{nl}Tem certeza que deseja entrar?
 QUEST_20170313_005450	Olá sou a Appraiser Sandra.{nl}Posso ajudar em algo?
 QUEST_20170313_005451	Kupole de Vakarine
@@ -6242,7 +6242,7 @@ QUEST_20171113_006284	Você obtém Candies ao enfrentar monstros e outros jogado
 QUEST_20171113_006285	Você pode entrar novamente no máximo 2 vezes por hora.
 QUEST_20171120_006287	Por favor, selecione o nível do Chefe.
 QUEST_20171120_006289	O nível do Boss selecionada é muito alto, ou inválido.
-QUEST_20171128_006290	Historic Site Ruins (Lv Recomendado : 120){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
+QUEST_20171128_006290	Ruínas Históricas (Lv Recomendado : 120){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
 QUEST_20171128_006291	Demon Prison Guild (Lv Recomendado : 180){nl}Só você e os membros da equipe podem entrar juntos. {nl} Deseja entrar?
 QUEST_20171128_006292	{@st41}{#FF6700}Ajudante de Evento{/}{/}
 QUEST_20171128_006293	Desculpe, este evento é para novos Salvadores.
@@ -6704,7 +6704,7 @@ QUEST_20171128_006748	Fragmento Estelar
 QUEST_20171128_006749	Os fragmentos estelares desapareceram.
 QUEST_20171128_006750	Altar Antigo
 QUEST_20171128_006751	Parece que alguma coisa já foi colocada antes no altar.{nl}Tentar colocar a Starlight Essence no Altar?
-QUEST_20171128_006752	Castle Dungeon (Nv Recomendado: 300){nl}Somente você e os membros do grupo podem entrar juntos. {nl} Deseja entrar?
+QUEST_20171128_006752	Masmorra do Castelo (Nv Recomendado: 300){nl}Somente você e os membros do grupo podem entrar juntos. {nl} Deseja entrar?
 QUEST_20171128_006753	Vou ver o que consigo fazer.
 QUEST_20171128_006754	Aahh... Estou sobre ataque!
 QUEST_20171128_006755	Demon King Kartas está usando o poder da Kruvina{nl}para contaminar a terra e mudar a natureza deste lugar.{nl}
@@ -10319,7 +10319,7 @@ QUEST_20180827_010457	Poucos demônios sobreviveram. Muitos membros da Schaffens
 QUEST_20180827_010458	Deseja seguir para a próxima área?
 QUEST_20180827_010459	Parece que a lanterna pode ser acesa. Deseja fazer isso?
 QUEST_20180827_010460	A lanterna está acesa. Deseja apagá-la?
-QUEST_20180827_010461	Lanko Lake (Nv Recomendado: 330){nl}Somente você e os membros do grupo podem entrar juntos. {nl} Deseja entrar?
+QUEST_20180827_010461	Lago Lanko (Nv Recomendado: 330){nl}Somente você e os membros do grupo podem entrar juntos. {nl} Deseja entrar?
 QUEST_20181017_010462	Kupole Daina
 QUEST_20181017_010463	Você já recebeu todas as 10 recompensas.
 QUEST_20181017_010464	Estou aqui para entregar um presente da Deusa Vakarine,{nl}um desejo de boa sorte na batalha implacável.{nl}Agora, escolha um número entre 1 e 10, um que ainda não escolheu.
@@ -10352,7 +10352,7 @@ QUEST_20181017_010490	Você já completou esta região.
 QUEST_20181017_010491	Centro de Pesquisas Mágicas
 QUEST_20181017_010492	Centro de Pesquisas Mágicas (Nv Recomendado: 380){nl}Apenas você e os membros do seu grupo podem entrar juntos. {nl}Tem certeza que deseja entrar?
 QUEST_20181017_010493	Campo de Testes do Asiomage (Nv Recomendado: 380){nl}Apenas você e os membros do seu grupo podem entrar juntos. {nl}Tem certeza que deseja entrar?
-QUEST_20181017_010494	Portal Aberto Lanko Lake Dungeon
+QUEST_20181017_010494	Portal Aberto Lago Lanko
 QUEST_20181017_010495	Um portal para o outro lado do rio foi aberto.
 QUEST_20181017_010496	Nicopolis Raid Mensagem 1
 QUEST_20181017_010497	O portão que bloqueava o caminho está aberto.
@@ -10649,7 +10649,7 @@ QUEST_20190412_010787	Pode lidar com eles sem ajuda?{nl}Eu vou marcar o local en
 QUEST_20190412_010788	Veja as pessoas aqui.{nl}Estão assustadas, mas elas continuam levando as suas vidas.{nl}Seria por causa da enorme Estátua da Deusa?
 QUEST_20190412_010789	Mesmo assim,{nl}é muito legal finalmente ver outras pessoas,{nl}depois de tanto tempo.
 QUEST_20190412_010790	Tem certeza que deseja usar {#FF0000}Dark Energy{/}?{nl}O efeito aplicará por {#FF0000}6 dias{/} somente para o {#FF0000}personagem atual{/}.
-QUEST_20190416_010791	Tem certeza que deseja usar {#FF0000}Dark Energy{/}?{nl}O efeito aplicará por {#FF0000}6 dias{/} somente para o {#FF0000}personagem atual{/} e somente dentro do {#FF0000}Velcoffer's Nest{/}.
+QUEST_20190416_010791	Tem certeza que deseja usar {#FF0000}Dark Energy{/}?{nl}O efeito aplicará por {#FF0000}6 dias{/} somente para o {#FF0000}personagem atual{/} e somente dentro do {#FF0000}Ninho do Velcoffer{/}.
 QUEST_20190419_010792	Estes devem ser nossos suprimentos militares...{nl}Quem é você?
 QUEST_20190419_010793	... Entendo.{nl}Obrigado por nos ajudar, Revelador!
 QUEST_20190419_010794	Membro do Esquadrão de Resgate
@@ -10967,7 +10967,7 @@ QUEST_20190802_011109	Aqui estamos vendendo BBQ Prawn Skewers por 5 Cubos de Gel
 QUEST_20190802_011110	O evento de verão 2019 começou!{nl}{#003399}Trocamos [Evento] Moedas Vasalos{/} e ajudamos membros de Guildas.{nl}{#003399}[Evento] Savinose Armor Selection Box e [Evento] +8 Transcendence Scroll (90 Dias){/}serão adicionados em breve na loja.
 QUEST_20190802_011111	Estamos trocando prêmios incríveis por {#003399}[Evento] Moedas Vasalos{/}!{nl}Cada prêmio custa uma quantidade diferente de moedas.
 QUEST_20190802_011112	{#003399}[Evento] Moedas Vasalos{/} podem ser obtidas através dos seguintes métodos:
-QUEST_20190802_011113	1. Membros de Guildas recebem o dobro de moedas nos seguintes conteúdos:{nl}- {#003399}Dungeon Normal{/}, {#003399}Missões do Mercenary Post{/} e {#003399}Saalus{/}, {#003399}Raids Lendárias e Únicas{/}{nl}- Completar 10 estágios da {#003399}Uphill Defense{/} modo Normal, ou 5 do modo Difícil/Muito Difícil{nl}- Alcançar, no mínimo, o Estágio 5 do {#003399}Modo Desafio{/}{nl}- Derrotar monstros que estejam dentro da faixa de nível do personagem
+QUEST_20190802_011113	1. Membros de Guildas recebem o dobro de moedas nos seguintes conteúdos:{nl}- {#003399}Dungeon de Nível{/}, {#003399}Missões do Mercenary Post{/} e {#003399}Saalus{/}, {#003399}Raids Lendárias e Únicas{/}{nl}- Completar 10 estágios da {#003399}Uphill Defense{/} modo Normal, ou 5 do modo Difícil/Muito Difícil{nl}- Alcançar, no mínimo, o Estágio 5 do {#003399}Modo Desafio{/}{nl}- Derrotar monstros que estejam dentro da faixa de nível do personagem
 QUEST_20190802_011114	2. Trocadas através do {#003399}evento [Summer Festa]{/}, em Klaipeda{nl}3. Trocadas através da loja {#003399}Growth Gem Shop{/}
 QUEST_20190802_011115	[Summer Festa] Estagiária
 QUEST_20190802_011116	Estou aqui para ajudar o meu irmão!{nl}Infelizmente, não restou mais nenhum brinquedo desta vez.

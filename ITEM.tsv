@@ -21719,7 +21719,7 @@ ITEM_20190412_021718	Kedoran Galaktikos Gauntlets
 ITEM_20190412_021719	Pajauta Card
 ITEM_20190412_021720	[Efeito] Todos os Atributos +[{img star_mark 20 20} * 0.4]
 ITEM_20190412_021721	Dark Energy
-ITEM_20190412_021722	Use para aplicar um efeito que dura 6 horas.{nl}(O efeito aplica somente dentro de Velcoffer's Nest){nl} - Ataque Físico + 7.000{nl} - Ataque Mágico + 7.000{nl} - Dano recebido -30%
+ITEM_20190412_021722	Use para aplicar um efeito que dura 6 horas.{nl}(O efeito aplica somente dentro do Ninho do Velcoffer){nl} - Ataque Físico + 7.000{nl} - Ataque Mágico + 7.000{nl} - Dano recebido -30%
 ITEM_20190412_021723	Kedora Alliance Support Selection Box (Nv. 315 Weapon and Shield)
 ITEM_20190412_021724	Kedora Alliance Support Selection Box (Nv. 350 Weapon and Shield)
 ITEM_20190412_021725	Kedora Alliance Support Selection Box (Nv. 380 Weapon and Shield)
@@ -21729,7 +21729,7 @@ ITEM_20190412_021728	Itens de Reparo Roubados
 ITEM_20190412_021729	Itens obtidos dos monstros em Barynwell 87 Waters, conforme pedido por Pajauta.
 ITEM_20190412_021730	Sujeira Magnética
 ITEM_20190412_021731	Material obtido em Outer Wall District 9, conforme pedido por Pajauta.
-ITEM_20190416_021732	Use para receber o efeito [Energia Sombria] por um período de 6 dias.{nl}(O efeito aplica somente dentro de Velcoffer's Nest){nl}- Ataque Físico +7.000{nl}- Ataque Mágico +7.000{nl}- Defesa Física +10.000{nl}- Defesa Mágica +10.000
+ITEM_20190416_021732	Use para receber o efeito [Energia Sombria] por um período de 6 dias.{nl}(O efeito aplica somente dentro do Ninho do Velcoffer){nl}- Ataque Físico +7.000{nl}- Ataque Mágico +7.000{nl}- Defesa Física +10.000{nl}- Defesa Mágica +10.000
 ITEM_20190419_021733	Um capacete espacial necessário para viajar para o infinito e além.{nl}Use para mudar a sua aparência.
 ITEM_20190419_021734	Baby Chick Armband
 ITEM_20190419_021735	Uma braçadeira lindinha, criada para comemorar um dia especial.
@@ -22128,7 +22128,7 @@ ITEM_20190419_022127	(Old) The First Refuge Raid Dungeon Cube
 ITEM_20190419_022128	Colete 20 fragmentos e use-os para obter uma receita ou um produto final. Clique com o botão direito do mouse para utilizar.
 ITEM_20190419_022129	Colete 20 fragmentos e use-os para obter uma receita ou um produto final. Clique com o botão direito do mouse para utilizar.
 ITEM_20190419_022130	Colete 40 fragmentos e use-os para obter uma receita ou um produto final. Clique com o botão direito do mouse para utilizar.
-ITEM_20190419_022131	Recompensa obtida no Castle Dungeon
+ITEM_20190419_022131	Recompensa obtida na Masmorra do Castelo
 ITEM_20190419_022132	Spirit Fragment: Prodigious Kugheri Balzermancer
 ITEM_20190419_022133	Colete 10 fragmentos e use-os para obter uma receita ou um produto final. Clique com o botão direito do mouse para utilizar.
 ITEM_20190419_022134	Aumenta a transcendência do item para o Estágio 5.{nl}Só pode ser utilizados em itens entre os estágios 0 e 4 de transcendência. Clique com o botão direito no pergaminho, depois selecione o item para transcender.{nl}Será automaticamente removido no final do período do evento.
@@ -22220,7 +22220,7 @@ ITEM_20190419_022219	Aumenta os Pontos de Troca de Classe em +1.000{nl}Pontos de
 ITEM_20190419_022220	Caixa para escolher Cupons para desbloquear classes.{nl}Lista de classes desbloqueáveis:{nl} - Shinobi Unlock Voucher {nl} - Miko Unlock Voucher {nl} - Rune Caster Unlock Voucher {nl} - Appraiser Unlock Voucher {nl} - Nak Muay Unlock Voucher{nl}Será automaticamente removido no final do período do evento.
 ITEM_20190419_022221	[Evento] Pedaço de Estrela Cintilante
 ITEM_20190419_022222	Essências obtidas durante o período do evento.
-ITEM_20190419_022223	Um material que foi pedido pelo Ferreiro de Fedimian, Teliavelis, utilizado para fazer equipamentos especiais.{nl}Pode ser obtido ao completar Velcoffer's Nest, Raids Únicas, Estágio 5 do Modo Desafio, missões de Saalus, e Dungeons instanciadas.{nl}Será removido no final do período do evento.
+ITEM_20190419_022223	Um material que foi pedido pelo Ferreiro de Fedimian, Teliavelis, utilizado para fazer equipamentos especiais.{nl}Pode ser obtido ao completar o Ninho do Velcoffer, Raids Únicas, Estágio 5 do Modo Desafio, missões de Saalus, e Dungeons instanciadas.{nl}Será removido no final do período do evento.
 ITEM_20190419_022224	[Evento] Teliavelis' Anvil Box
 ITEM_20190419_022225	Use para obter uma das bigornas especiais do Ferreiro Teliavelis.{nl}- Anvil{nl}- Steel Anvil (14 Dias){nl}- Silver Anvil (14 Dias){nl}- Golden Anvil (14 Dias){nl}Será removido no final do período do evento.
 ITEM_20190419_022226	[Evento] Character Slot Voucher
@@ -23311,11 +23311,11 @@ ITEM_20191024_023310	Moringponia Revolver
 ITEM_20191024_023311	 - Nível das habilidades de Corsair {img green_up_arrow 16 16}2
 ITEM_20191024_023312	É muito cansativo disparar uma bala encantada com o poder de um Demon Lord. Esta pistola passou por procedimentos especiais para reduzir o fardo sob aquele que dispara.
 ITEM_20191024_023313	Misrus Pistol
-ITEM_20191024_023314	{nl} {nl}[Tiro de Misericórdia]{nl}- Dano final da última carga de [Quick Draw] {img green_up_arrow 16 16}300%
+ITEM_20191024_023314	{nl} {nl}[Tiro de Misericórdia]{nl}- Dano final causado pela última carga de [Quick Draw] {img green_up_arrow 16 16}300%
 ITEM_20191024_023315	Esta arma foi originalmente planejada para disparar tranquilizadores e fazer o Misrus dormir, mas o conceito foi abandonado quando descobriram que o Misrus não pode ser dominado desta forma. Apesar da falha, ainda assim era uma boa arma.
 ITEM_20191024_023316	{nl} {nl}[Epee Garde - Expertise]{nl} - Dano final de [Epee Garde] +10% quando ocorre dano crítico
 ITEM_20191024_023317	Moringponia Rapier
-ITEM_20191024_023318	{nl} {nl}[Ole - Disfrutar{nl}- Duração de [Ole] {img green_up_arrow 16 16}10 segundos
+ITEM_20191024_023318	{nl} {nl}[Ole - Disfrutar]{nl}- Duração de [Ole] {img green_up_arrow 16 16}10 segundos
 ITEM_20191024_023319	A lâmida deste florete foi projetada para garantir uma mira precisa, permitindo ao portador tirar a vida do seu alvo com um único golpe.
 ITEM_20191024_023320	Misrus Rapier
 ITEM_20191024_023321	 - Número de golpes de [Attaque Composee] {img green_up_arrow 16 16}2
@@ -23331,7 +23331,7 @@ ITEM_20191024_023330	Moringponia Musket
 ITEM_20191024_023331	{nl} {nl}[Mosquete Sobrecarregado]{nl}- Efeito ativa 1 segundo após utilizar [Prime and Load]{nl}- Taxa de Crítico aumenta conforme o cooldown de [Prime and Load]:{nl}- Até 40seg: Taxa de Crítico {img green_up_arrow 16 16}30{nl}- 45~50seg: Taxa de Crítico {img green_up_arrow 16 16}60{nl}- 55~60seg: Taxa de Crítico {img green_up_arrow 16 16}150{nl}- O efeito é mantido enquanto [Prime and Load] está em cooldown
 ITEM_20191024_023332	O longo eixo deste mosquete ajuda a estabilizar a colisão de energia mágica que acontece quando as balas são disparadas. A boca mais larga também ajuda a diminuir o ricochete que acontece da força bruta ao disparar.
 ITEM_20191024_023333	Misrus Musket
-ITEM_20191024_023334	{nl} {nl}[Ambush - Exterminador]{nl}- Dano final de [Ambush] {img green_up_arrow 16 16}30%{nl}- Quando [Ambush] acerta o alvo, o mesmo desmonta do Companion e não pode montar novamente por 10 segundos
+ITEM_20191024_023334	{nl} {nl}[Ambush - Exterminador]{nl}- Dano final de [Ambush] {img green_up_arrow 16 16}30%{nl}- Quando [Ambush] acerta o alvo, o mesmo desmonta do Mascote e não pode montar novamente por 10 segundos
 ITEM_20191024_023335	Os Chesha reuniram várias armas para se prepararem contra a raiva do Misrus. Este mosquete é uma destas armas, encontado enquanto eles procuravam pelos distritos da Muralha Externa. Esta arma foi muito modificada para poder ser utilizada contra o Misrus, portanto é muito efetiva contra demônios e monstros.
 ITEM_20191024_023336	 - Ativa [Ignas - Imunidade] ao equipar{nl} {nl}[Ignas - Imunidade]{nl} - (2.5 * Acúmulos de [Ignas - Imunidade])% de chance de resistir efeitos negativos que podem ser removidos
 ITEM_20191024_023337	Moringponia Plate Armor

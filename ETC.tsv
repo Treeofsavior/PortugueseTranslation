@@ -14609,8 +14609,8 @@ ETC_20150918_014610	Random
 ETC_20150918_014611	Individual
 ETC_20150918_014612	Shared
 ETC_20150918_014613	Unshared
-ETC_20150918_014614	Você excedeu o número de vezes que pode participar de uma dungeon instanciada por hoje.
-ETC_20150918_014615	Você não cumpre o requisito de nível desta dungeon instanciada
+ETC_20150918_014614	Você excedeu o número de vezes que pode participar de uma Dungeon de Nível por hoje.
+ETC_20150918_014615	Você não cumpre o requisito de nível desta Dungeon Instanciada
 ETC_20150918_014616	Derrote Matsums that are rushing in!
 ETC_20150918_014617	Treasure Vubbe has appeared!
 ETC_20150918_014618	Derrote the monsters nearby!
@@ -14648,7 +14648,7 @@ ETC_20150918_014649	[Armazenador]{nl}      Zadan
 ETC_20150918_014650	Underground Catacombs Dungeon: Entrada
 ETC_20150918_014651	[Mercador de Acessórios]{nl}   Joana
 ETC_20150918_014652	Bomb Box
-ETC_20150918_014653	Underground Chapel Dungeon: Entrada
+ETC_20150918_014653	Capela Subterrânea: Entrada
 ETC_20150918_014654	Crisp Grass Pile
 ETC_20150918_014655	Ownerless Grave
 ETC_20150918_014656	Suspicious Device
@@ -17828,7 +17828,7 @@ ETC_20151224_017829	Thorn Forest Guild Mission
 ETC_20151224_017830	Royal Mausoleum Guild Mission
 ETC_20151224_017831	Canyon Belt Guild Mission
 ETC_20151224_017832	Demon Prison Guild Mission
-ETC_20151224_017833	Monument of Desire Dungeon
+ETC_20151224_017833	Monumento do Desejo
 ETC_20151224_017834	Destroy the restrainment Devices attached to Monk Goss!
 ETC_20151224_017835	Hurry up, before the spore spurts!
 ETC_20151224_017836	Shhh, I'm going to release you.
@@ -19963,7 +19963,7 @@ ETC_20151224_019964	[Mestre Scout]{nl}    Recon Rimgaile
 ETC_20151224_019965	[Submestre Wugushi]{nl}          May Patt
 ETC_20151224_019966	Canyon Guild Mission
 ETC_20151224_019967	[Submestre Elementalist]{nl}              Zeddie Berrant
-ETC_20151224_019968	Historic Site Ruins Dungeon
+ETC_20151224_019968	Dungeon Ruínas Históricas
 ETC_20151224_019969	Lumber Pile
 ETC_20151224_019970	Lost Package
 ETC_20151224_019971	Unidentified Dust
@@ -23468,7 +23468,7 @@ ETC_20160811_023469	{COUNT}
 ETC_20160811_023470	Cristais de Fogo atuais : {COUNT}
 ETC_20160811_023471	You have participated in an event!
 ETC_20160811_023472	Successfully created {COUNT} event monsters!
-ETC_20160811_023473	You have been gifted [{BUFF}]!
+ETC_20160811_023473	Você foi premiado [{BUFF}]!
 ETC_20160811_023474	The item durability of all equipped items has been restored by 5!
 ETC_20160811_023475	Attendance Event{nl}Season : {SEASON}{nl}Attendend {COUNT} days {nl}Reward : {ITEMCOUNT} {ITEMNAME}
 ETC_20160811_023476	Attendance Event{nl}Season : {SEASON}{nl}Attendend {COUNT} days
@@ -24611,7 +24611,7 @@ ETC_20161005_024612	Castle Mission
 ETC_20161005_024613	Mine Mission
 ETC_20161005_024614	Monastery Mission
 ETC_20161005_024615	Battle Rumble
-ETC_20161005_024616	Castle Dungeon
+ETC_20161005_024616	Masmorra do Castelo
 ETC_20161005_024617	Victoras... Is coming to see me?
 ETC_20161005_024618	May he rest in peace...
 ETC_20161005_024619	The Centaurus has run off somewhere!
@@ -24902,7 +24902,7 @@ ETC_20161005_024903	Token: 5 Days [EVENTO] (14 Days)
 ETC_20161005_024904	Goddess' Present Chest
 ETC_20161005_024905	Right-click to use and obtain contents.{nl} - 190 TP{nl} - Token - Event (15 Days){nl} - Highly Enriched HP/SP Potion 20x{nl} - Soul Crystal 15x{nl} - Megaphone 15x{nl} - Warp Scroll 15x{nl} - EXP Tome 5x
 ETC_20161005_024906	Instanced Clear Voucher [{img star_mark 20 20}]
-ETC_20161005_024907	Um voucher que pode limpar uma dungeon instanciada mais rápido e mais eficaz. Todos os monstros serão derrotados e você receberá todos os drops e EXP deles.{nl} Clique com o botão direito do mouse dentro de uma dungeon instanciada para usar.{nl} Utilizável em dungeons de 1 estrela.
+ETC_20161005_024907	Um voucher que pode limpar uma Dungeon de Nível mais rápido e mais eficaz. Todos os monstros serão derrotados e você receberá todos os drops e EXP deles.{nl} Clique com o botão direito do mouse dentro de uma Dungeon de Nível para usar.{nl} Utilizável em dungeons de 1 estrela.
 ETC_20161005_024908	Instanced One Entry Voucher
 ETC_20161005_024909	Use-o para entrar em Dungeons e Mercenary mais uma vez.
 ETC_20161005_024910	Tintura: Violeta
@@ -29948,7 +29948,7 @@ ETC_20171128_029949	Team Battle League Error
 ETC_20171128_029950	Challenege Mode Error
 ETC_20171128_029951	Log to determine ability application
 ETC_20171128_029952	Classification of tags used in script
-ETC_20171128_029953	Castle Dungeon
+ETC_20171128_029953	Masmorra do Castelo
 ETC_20171128_029954	Applies Token benefits to all your characters in the server for 30 days. Right-click to use. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl}- Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 
 ETC_20171128_029955	Applies Token benefits to all your characters in the server for 7 days. Right-click to use. Remaining time can be checked in the Character Info window. {nl}[Token Benefits]{nl} - Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl}  - Able to use Premium Gestures{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 
 ETC_20171128_029956	Applies Token benefits to all your characters in the server for 5 days. Right-click to use. Remaining time can be checked in the Character Info window. {nl}[Token Benefits]{nl} - Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl}  - Able to use Premium Gestures{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 
@@ -30998,9 +30998,9 @@ ETC_20171128_030999	Ritual offered to God
 ETC_20171128_031000	Universal Divine Energy of World
 ETC_20171128_031001	Divine power of Goddess
 ETC_20171128_031002	Life energy
-ETC_20171128_031003	Chapel Underground (Nv. Recomendado: 50)
-ETC_20171128_031004	Historic Site Ruins (Nv. Recomendado: 120)
-ETC_20171128_031005	Monument of Desire (Nv. Recomendado: 180)
+ETC_20171128_031003	Capela Subterrânea (Nv. Recomendado: 50)
+ETC_20171128_031004	Ruínas Históricas (Nv. Recomendado: 120)
+ETC_20171128_031005	Monumento do Desejo (Nv. Recomendado: 180)
 ETC_20171128_031006	Residence of the Fallen Legwyn Family (Nv. Recomendado: 230)
 ETC_20171128_031007	Catacombs Underground (Nv. Recomendado: 270)
 ETC_20171128_031008	Castle Underground (Nv. Recomendado: 300)
@@ -31997,7 +31997,7 @@ ETC_20180418_031998	Terra Rytaswort
 ETC_20180418_031999	Fire Fox Shikigami
 ETC_20180418_032000	Greenwood Shikigami
 ETC_20180418_032001	Convent
-ETC_20180418_032002	Velcoffer's Nest
+ETC_20180418_032002	Ninho do Velcoffer
 ETC_20180418_032003	A Yeti has appeared, and it's coming for you!
 ETC_20180418_032004	Allow me to summon the evil spirits.
 ETC_20180418_032005	Defeat the evil spirits.
@@ -32720,7 +32720,7 @@ ETC_20180517_032721	Chance of dealing 2000-3000 additional damage.{nl}- The chan
 ETC_20180517_032722	HP {img green_up_arrow 16 16} 1023{nl}DEX {img green_up_arrow 16 16} 10
 ETC_20180517_032723	Physical attack {img green_up_arrow 16 16} 60{nl}Magic attack {img green_up_arrow 16 16} 60
 ETC_20180517_032724	Velcoffer Costume Set
-ETC_20180517_032725	Velcoffer's Nest
+ETC_20180517_032725	Ninho do Velcoffer
 ETC_20180517_032726	 provides a damage reduction of 10%
 ETC_20180517_032727	Max. no. of stats shown in item stat extraction UI
 ETC_20180517_032728	Market registration limit
@@ -33344,7 +33344,7 @@ ETC_20180629_033345	Solo Dungeon Error
 ETC_20180629_033346	Solo Dungeon Info
 ETC_20180629_033347	Incorrect loop effect.
 ETC_20180629_033348	Web Server Data Log
-ETC_20180629_033349	Level Dungeon
+ETC_20180629_033349	Dungeon de Nível
 ETC_20180629_033350	The Bouquet!
 ETC_20180629_033351	3 vs 3 Soccer League
 ETC_20180629_033352	Stat Reset Potion (30 Days)
@@ -35049,7 +35049,7 @@ ETC_20180827_035050	Astral Tower 12F
 ETC_20180827_035051	[Evento] Veja Ravine
 ETC_20180827_035052	Baubas Cave
 ETC_20180827_035053	Nevellet Quarry Dungeon
-ETC_20180827_035054	Lanko Lake Dungeon
+ETC_20180827_035054	Lago Lanko
 ETC_20180827_035055	Starry Town
 ETC_20180827_035056	Nicopolis
 ETC_20180827_035057	Feline Post Town
@@ -36797,8 +36797,8 @@ ETC_20190104_036798	Guild Mileage Info
 ETC_20190104_036799	Territory Taxation Error
 ETC_20190104_036800	Territory Taxation Info
 ETC_20190104_036801	Error code 8 tracking log.
-ETC_20190104_036802	Legend Raid: Earth Tower
-ETC_20190104_036803	Legend Raid: Velcoffer's Nest
+ETC_20190104_036802	Raid Lendária: Torre Terrestre
+ETC_20190104_036803	Raid Lendária: Ninho do Velcoffer
 ETC_20190104_036804	Batalha de Times da Giltine
 ETC_20190104_036805	Evento: Batalha de Times da Giltine
 ETC_20190104_036806	Selo
@@ -41244,7 +41244,7 @@ ETC_20190419_041245	{nl} {nl}Quando a solução estiver cheia, o ícone alterar�
 ETC_20190419_041246	{nl} {nl}Com o Mestre Alchemist, coloque o seu item Lendário e o número de Pamoka Solutions cheias para aplicar o efeito que você escolher.
 ETC_20190419_041247	As diferentes áreas da Earth Tower podem ser acessadas de acordo com o nível do personagem, além de possuir um limite de entradas semanais aplicado.
 ETC_20190419_041248	{nl} {nl}Materiais especiais obtidos na Earth Tower podem ser trocados por equipamentos poderosos com os membros da Aliança Kedora, localizados na entrada da Earth Tower.
-ETC_20190419_041249	{nl} {nl}Velcoffer's Nest não divide o seu limite de entradas com a Earth Tower.{nl}As entradas consumidas são reiniciadas a cada nova semana.
+ETC_20190419_041249	{nl} {nl}Ninho do Velcoffer não divide o seu limite de entradas com a Torre Terrestre.{nl}As entradas consumidas são reiniciadas a cada nova semana.
 ETC_20190419_041250	{nl} {nl}No final do calabouço está o Velcoffer, um dragão que escapou do seu confinamento após ter sido selado, durante uma guerra com as Deusas há muitas eras passadas.{nl}O seu objetivo é derrotá-lo para obter recompensas especiais.{nl}Usuários de Token podem utilizar opções de [Re-abrir], obtendo recompensas adicionais.
 ETC_20190419_041251	Os jogadores que completarem Remnants of Bernice podem receber [Remnants of Bernice Coins], de acordo com o número de estágios alcançado.{nl}[Remnants of Bernice Coins] podem ser trocadas com a Mestre Oracle.{nl}O Top 3 dos jogadores de cada Classe Base também recebem recompensas especiais.
 ETC_20190419_041252	{nl} {nl}Os jogadores receberão recompensas imediatamente após finalizarem com sucesso a missão, gerando um Cubo Secreto no local. Interaja com este cubo para utilizar a opção [Re-abrir].
@@ -43411,7 +43411,7 @@ ETC_20191024_043412	Maestria em Tecido: Mestre Alfaiate
 ETC_20191024_043413	Maestria em Couro: Mestre Artesão
 ETC_20191024_043414	Maestria em Metal: Mestre Fundidor
 ETC_20191024_043415	Earth Tower One Entry Voucher Aplicado
-ETC_20191024_043416	Só pode ser utilizado se uma ou mais entradas da Earth Tower foram consumidas.
+ETC_20191024_043416	Só pode ser utilizado se uma ou mais entradas da Torre Terrestre foram consumidas.
 ETC_20191024_043417	Classe {JOB}: Adotar {COMPANION}
 ETC_20191024_043418	Recompensa: Obteve [The ARTS] Class Change Voucher Lv. 3 (1 Dia)
 ETC_20191024_043419	Tempo Conectado: {MIN} min{nl}Obteve [The ARTS] Class Change Voucher Lv. 3 (1 Dia)

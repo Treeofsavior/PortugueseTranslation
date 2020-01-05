@@ -334,11 +334,11 @@ INTL_20190723_000333	Um tipo especial de isca, utilizada para pescaria. Usar est
 INTL_20190820_000334	[Burning Weekend] EXP	[주말 버닝] 경험치 증가
 INTL_20190820_000335	EXP +100%	경험치 증가 + 100%
 INTL_20190820_000336	[Burning Weekend] Velocidade de Movimento	[주말 버닝] 이동 속도 증가
-INTL_20190820_000337	Item pedido pelo Ferreiro Teliavelis, de Fedimian, para produzir um equipamento especial.{nl}Obtido ao completar Velcoffer's Nest, Tomb of the White Crow Lendário e Único, Modo Desafio Estágio 5, Missões de Saalus e Dungeons normais.{nl}Será removido quando o evento terminar.	페디미안의 대장장이 테리아베리스가 요청한 특별한 장비를 만들기 위한 특별한 재료입니다.{nl}벨코퍼의 둥지, 흰 까마귀의 영면지: 레전드, 흰 까마귀의 영면지: 유니크, 챌린지 5단계, 수녀원 미션, 레벨 던전 클리어 시 획득할 수 있습니다.{nl}4월 11일 점검 시, 일괄 삭제 됩니다
+INTL_20190820_000337	Item pedido pelo Ferreiro Teliavelis, de Fedimian, para produzir um equipamento especial.{nl}Obtido ao completar Ninho do Velcoffer, Túmulo do Corvo Branco Lendário e Único, Modo Desafio Estágio 5, Missões de Saalus e Dungeons de Nível.{nl}Será removido quando o evento terminar.	페디미안의 대장장이 테리아베리스가 요청한 특별한 장비를 만들기 위한 특별한 재료입니다.{nl}벨코퍼의 둥지, 흰 까마귀의 영면지: 레전드, 흰 까마귀의 영면지: 유니크, 챌린지 5단계, 수녀원 미션, 레벨 던전 클리어 시 획득할 수 있습니다.{nl}4월 11일 점검 시, 일괄 삭제 됩니다
 INTL_20190820_000338	Evento de Verão 2019 está aberto!{nl}Estamos trocando {#003399}[Evento] Moedas Vasalos{/} e ajudando membros de Guilda.
 INTL_20190820_000339	2. Como recompensa do evento {#003399}[Summer Festa] Férias de Verão{/} em Klaipeda.	2. {#003399}[Summer Festa] 클라페다에서 여름 나기 이벤트{/}의 보상 교환
 INTL_20190820_000340	 Completado: 5{nl}- Raid Única 	 클리어 : 5개{nl}- 유니크 레이드 
-INTL_20190820_000341	 Completado: 5{nl}- Modo Desafio Estágio 5: 2{nl}- Missões de Saalus: 1{nl}- Dungeon Normal: 1	 클리어 : 5개{nl}- 챌린지 5단계 이상 클리어 : 2개{nl}- 수녀원 미션 클리어 : 1개{nl}- 레벨던전 클리어 : 1개
+INTL_20190820_000341	 Completado: 5{nl}- Modo Desafio Estágio 5: 2{nl}- Missões de Saalus: 1{nl}- Dungeon de Nível: 1	 클리어 : 5개{nl}- 챌린지 5단계 이상 클리어 : 2개{nl}- 수녀원 미션 클리어 : 1개{nl}- 레벨던전 클리어 : 1개
 INTL_20190820_000342	NA	8/15일 하루동안 라떼 캣 헤어 악세사리를 1회 획득할 수 있습니다.
 INTL_20190820_000343	NA	추가로 이벤트 기간 아래의 보상을 받을 수 있습니다.{nl}8/14일:화이트 데이 목걸이 (물리/14일) 1개{nl}8/15일:화이트 데이 목걸이 (마법/14일) 1개{nl}8/16일:화이트 데이 팔찌 (마법/14일) 2개{nl}8/17일:화이트 데이 팔찌 (물리/14일) 2개{nl}8/18일:화이트 데이 목걸이 (물리/14일) 1개{nl}8/19일:화이트 데이 팔찌 (물리/14일) 2개
 INTL_20190828_000344	Este item só pode ser usado para alterar a aparência de outro.{nl}Não consome Silver se for utilizado como material de aparência.{nl}Pode ser trocado por Medalhas na Loja de Trocas.{nl}(Desenhado por Shiseptiana, do [SEA] Telsiai)	외형 변경 전용 아이템입니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.{nl}(This costume is designed by Shiseptiana from [SEA] Telsiai.)				
@@ -374,6 +374,6 @@ INTL_20191203_000373	+150% de EXP ao derrotar monstros{nl}+5 Velocidade de Movim
 INTL_20191203_000374	Usar {#FF0000}[Evento] Chave Real Natalina{/} para abrir o baú?	{#FF0000}[이벤트] 로열 크리스마스 열쇠{/}를 사용하여 상자를 여시겠습니까?
 INTL_20191203_000375	Só pode ser acessado em finais de semana.	주말에만 대화하실 수 있습니다.
 INTL_20191205_000376	Use para abrir o Baú Real Natalino, em Klaipeda, e obtenha uma recompensa aleatória dentre as seguintes:{nl}[Evento] Attribute Points 10,000 x1{nl}, [Evento] Attribute Points 1,000 x1{nl}- [Evento] Attribute Points 500 x1, Raid Portal Stone x3{nl}- Goddess Sculpture (14 Dias) x5, Miracle Seed (14 Dias) x5{nl}- [Evento] Guild Quest Reward Coin: Silver x1}{nl}Será automaticamente removido no finla do período do evento.	클라페다에 위치한 크리스마스 로열 상자를 열어 아래 아이템 중 각기 다른 확률로 한 개의 아이템을 획득할 수 있습니다.{nl}[이벤트]특성 포인트 10,000 x1{nl}[이벤트]특성 포인트 1,000 x1{nl}[이벤트]특성 포인트 500 x1{nl}축복이 깃든 씨앗(14일) x1{nl}여신의 조각상(14일) x1{nl}[이벤트] 길드 퀘스트 보상 주화 : 은 x1{nl}레이드 포탈 스톤 x1{nl}19년 12월 26일 점검시, 일괄 삭제됩니다.
-INTL_20191216_000377	{img test_cooltime 25 25}{s18}Pontos reiniciam a cada quarto.	{img test_cooltime 25 25}{s18}매 분기마다 포인트 초기화가 진행됩니다.
+INTL_20191216_000377	{img test_cooltime 25 25}{s18}Pontos reiniciam a cada trimestre.	{img test_cooltime 25 25}{s18}매 분기마다 포인트 초기화가 진행됩니다.
 INTL_20191216_000378	 {nl}Por favor, escolha uma recompensa.	 {nl}원하는 보상을 선택해주세요.
 INTL_20191230_000379	Só pode ser acessado nas Sextas, Sábados e Domingos.	금,토,일에만 대화하실 수 있습니다.
