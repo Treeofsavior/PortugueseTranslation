@@ -14968,7 +14968,7 @@ SKILL_20190112_014967	Raise Dead: Coletar Corpos
 SKILL_20190112_014968	* Quando um Esqueleto Soldado derrotar um monstro, o Necronomicon ganha 1 fragmento adicional por nível do atributo.{nl}* Consumo de SP + 10%	
 SKILL_20190122_014969	Taxa de Crítico: +#{CaptionRatio}#% aplicado{nl}Evasão: -20%{nl}Duração: #{CaptionTime}# segundos	
 SKILL_20190122_014970	Additional Taxa de Crítico applied, evasion reduced	치명타 발생 추가 적용, 회피 감소
-SKILL_20190122_014971	Fire Property Skill Damage Increased	불 속성 스킬 대미지 증가
+SKILL_20190122_014971	Poison Property Skill Damage Increased	불 속성 스킬 대미지 증가
 SKILL_20190122_014972	* Garante 10% de chance por habilidade usada de aumentar o dano de ataques do elemento Fogo em 30% por 5 segundos	
 SKILL_20190126_014973	+#{CaptionRatio3}#% de dano por acúmulo.{nl}Máximo de acúmulos: #{CaptionRatio2}# ataques{nl}Consome 101 SP{nl}Vel. Ataque básico: +#{CaptionRatio}#	
 SKILL_20190126_014974	Aplica uma chance de saquear Silver sempre que atacar um monstro.	
@@ -15160,7 +15160,7 @@ SKILL_20190405_015159	Aplica um efeito que impede que você e seus aliados de gr
 SKILL_20190412_015160	Ataque Físico + 7.000{nl}Ataque Mágico + 7.000{nl}Dano recebido -30%	
 SKILL_20190412_015161	Evento: Graça da Deusa	
 SKILL_20190412_015162	Dano recebido -20%	
-SKILL_20190416_015163	Funciona somente dentro do Velcoffer's Nest.{nl}Ataque Físico +7.000{nl}Ataque Mágico +7.000{nl}Defesa Física +10.000{nl}Defesa Mágica +10.000	
+SKILL_20190416_015163	Funciona somente dentro do Ninho do Velcoffer.{nl}Ataque Físico +7.000{nl}Ataque Mágico +7.000{nl}Defesa Física +10.000{nl}Defesa Mágica +10.000	
 SKILL_20190416_015164	Defesa Física +3.000{nl}Defesa Mágica +3.000	
 SKILL_20190419_015165	Círculo de Tempestade!!	
 SKILL_20190419_015166	Desmonta da invocação.	
@@ -15923,7 +15923,7 @@ SKILL_20190802_015922	Dano recebido -10%, -5% adicional por acúmulo (10% a part
 SKILL_20190802_015923	Absorve a energia dos monstros para garantir os efeitos:{nl}Dano Recebido: -50%{nl}Dano causado: +50%{nl}Resistência contra efeitos negativos: +20%{nl}Velocidade de Movimento +5{nl}Imunidade contra ser empurrado e derrubado	
 SKILL_20190802_015924	Efeito de [GTW] Status Ailment Resistance Potion	
 SKILL_20190802_015925	Imunidade contra ser empurrado e derrubado{nl}Imunidade contra efeitos negativos de Nível 3 e menor{nl}Aumenta a Velocidade de Movimento temporariamente, que retorna ao normal gradualmente	
-SKILL_20190802_015926	Dungeon Normal em Progresso	
+SKILL_20190802_015926	Dungeon de Nível em Progresso	
 SKILL_20190802_015927	Aumenta o dano final.	
 SKILL_20190802_015928	Invencibilidade não pode ser aplicada	
 SKILL_20190802_015929	Invencibilidade não pode ser aplicada{nl}Período de Revive de 30 segundos aplicado quando derrotado	
@@ -16068,8 +16068,8 @@ SKILL_20191024_016067	Summons a holy torch, reducing the duration of status ailm
 SKILL_20191024_016068	Torch Duration: 30 seconds{nl}Additional Fire Damage on Melee and Magic Attacks: #{CaptionRatio2}#	횃불 지속시간 30초{nl}근접, 마법 공격 시 불 속성 추가 대미지 #{CaptionRatio2}# 적용
 SKILL_20191024_016069	Accuracy: +#{CaptionRatio}#%{nl}Minimum Critical Rate: +#{CaptionRatio2}#%{nl}Duration: #{CaptionTime}# seconds	명중 #{CaptionRatio}#% 증가{nl}최소 치명타 확률 #{CaptionRatio2}#% 증가{nl}지속시간 #{CaptionTime}#초
 SKILL_20191024_016070	Create a magic circle that calls down bolts of lightning on an enemy using the power of the God of Thunder.{nl}25% chance to stagger enemy for 0.2 seconds.{nl}Increases movement speed by +10 for a 3-second duration.	뇌신의 힘으로 적에게 번개를 떨어뜨리는 마법진을 생성합니다.{nl}히트 시 25%확률로 적에게 0.2초간 경직을 줍니다.{nl}사용시 3초간 이동속도 10증가합니다.
-SKILL_20191024_016071	Applies [Meltdown] debuff on enemies during Melstis buff (max. 10 stacks) and damages the debuffed target and other enemies in the proximity.{nl}Debuff chance: 75% with basic attacks, 25% with skill attacks	멜스티스 버프중 일정 확률로 적에게 최대 10중첩이 가능한 [멜트다운] 디버프를 걸고, 디버프 걸린 대상과 주위 적에게 광역 피해를 줍니다.{nl} 디버프 확률 : 기본 공격 75%, 스킬 공격 25%
-SKILL_20191024_016072	Buff duration: 60 seconds{nl}[Meltdown] duration: 20 seconds, Magic Defense reduced by [Stack] x 1%{nl}[Stack] x #{CaptionRatio}# fixed damage every 2 seconds{nl}Consumes Holy Powder x5	버프 지속시간 60초{nl}[멜트다운]지속 시간 : 20초{nl} 물리, 마법 방어력 [중첩수]*1% 감소{nl}2초당 [중첩수] * #{CaptionRatio}# 고정 대미지{nl}홀리 파우더 5개 소모
+SKILL_20191024_016071	Applies the [Meltdown] debuff on enemies while active (max. 10 stacks) and periodically damages the debuffed target and other enemies in the proximity.{nl}Debuff chance: 75% with basic attacks, 25% with skill attacks	멜스티스 버프중 일정 확률로 적에게 최대 10중첩이 가능한 [멜트다운] 디버프를 걸고, 디버프 걸린 대상과 주위 적에게 광역 피해를 줍니다.{nl} 디버프 확률 : 기본 공격 75%, 스킬 공격 25%
+SKILL_20191024_016072	Buff duration: 60 seconds{nl}[Meltdown] duration: 20 seconds, Physical and Magic Defense reduced by [Stack] x 1%{nl}[Stack] x #{CaptionRatio}# fixed damage every 2 seconds{nl}Consumes Holy Powder x5	버프 지속시간 60초{nl}[멜트다운]지속 시간 : 20초{nl} 물리, 마법 방어력 [중첩수]*1% 감소{nl}2초당 [중첩수] * #{CaptionRatio}# 고정 대미지{nl}홀리 파우더 5개 소모
 SKILL_20191024_016073	Move your spirit out of the body. The spirit can only move near the body. Your evasion increases and damage received is reduced while the spirit is outside the body.{nl}When using the Out of Body skill and while out of body, explosions occur around your spirit form to damage nearby enemies.{nl}The character's actual body becomes immune to knock backs and knockdowns.{nl}Cooldown is reset when used against enemies under Possession.{nl}All debuffs cast while out of body is removed when the spirit form returns to the body.	자신의 유체를 이탈시킵니다. 유체는 본체 주변에서만 움직일 수 있습니다. 유체 상태에서는 회피가 증가하며, 받는 피해량이 감소합니다.{nl}유체 이탈 시, 그리고 이후 유체이탈 스킬 사용 시 유체 주변에 폭발이 일어나 주변에 피해를 줍니다.{nl}본체는 넉백, 넉다운에 면역이 됩니다.{nl}포제션에 걸린 적에게 사용시 재사용 대기 시간이 초기화 됩니다.{nl}유체를 활용하여 디버프를 걸었을 경우, 유체를 회수하면 걸었던 디버프는 사라집니다.
 SKILL_20191024_016074	Skill Factor: #{SkillFactor}#%{nl}AoE attack ratio: #{SkillSR}#{nl}Astral movement range: #{CaptionRatio}#{nl}Evasion: +#{CaptionRatio2}#%{nl}Received damage: -#{CaptionRatio3}#%{nl}Astral movement speed 55	스킬 계수 #{SkillFactor}#%{nl}광역 공격 비율 #{SkillSR}#{nl}유체 이동 범위 #{CaptionRatio}#{nl}회피 #{CaptionRatio2}#% 증가{nl}받는 피해 #{CaptionRatio3}#% 감소{nl}유체 이동속도 55
 SKILL_20191024_016075	Resets the cooldown of all Monk skills and briefly increases damage of all Monk skills.{nl}Player becomes immune to all removable debuffs during the buff's duration.	사용 즉시 몽크 스킬의 재사용 대기시간을 초기화하고, 잠시 동안 몽크 스킬의 대미지가 증가합니다.{nl}버프 중에는 일반 해제 가능한 모든 디버프에 면역이 됩니다.
@@ -16129,16 +16129,16 @@ SKILL_20191024_016128	Duração: 30 segunods{nl}Golpes Adicionais: 1{nl}Taxa de 
 SKILL_20191024_016129	Provérbios
 SKILL_20191024_016130	Aumenta o limite de dano para 4.000.000. Se o seu dano ultrapassar 999.999, causa dano adicional no alvo em proporção a este dano causado.{nl}Não acumula com outros efeitos que aumentam o limite de dano.
 SKILL_20191024_016131	Duração: 25 segundos{nl}Dano Adicional: 20%{nl}Consome Riperium x10
-SKILL_20191024_016132	Ranger Transform: Red	스쿼드 폼 체인지 : 레드
-SKILL_20191024_016133	Transform into Red TOS Ranger.	TOS 스쿼드 레드로 변신합니다.
-SKILL_20191024_016134	Ranger Transform: Pink	스쿼드 폼 체인지 : 핑크
-SKILL_20191024_016135	Transform into Pink TOS Ranger.	TOS 스쿼드 핑크로 변신합니다.
-SKILL_20191024_016136	Ranger Transform: Blue	스쿼드 폼 체인지 : 블루
-SKILL_20191024_016137	Transform into Blue TOS Ranger.	TOS 스쿼드 블루로 변신합니다.
-SKILL_20191024_016138	Ranger Transform: Yellow	스쿼드 폼 체인지 : 옐로우
-SKILL_20191024_016139	Transform into Yellow TOS Ranger.	TOS 스쿼드 옐로우로 변신합니다.
-SKILL_20191024_016140	Ranger Transform: Green	스쿼드 폼 체인지 : 그린
-SKILL_20191024_016141	Transform into Green TOS Ranger.	TOS 스쿼드 그린으로 변신합니다.
+SKILL_20191024_016132	TOS Ranger: Vermelho
+SKILL_20191024_016133	Transformação em TOS Ranger Vermelho.
+SKILL_20191024_016134	TOS Ranger: Rosa
+SKILL_20191024_016135	Transformação em TOS Ranger Rosa.
+SKILL_20191024_016136	TOS Ranger: Azul
+SKILL_20191024_016137	Transformação em TOS Ranger Azul.
+SKILL_20191024_016138	TOS Ranger: Amarelo
+SKILL_20191024_016139	Transformação em TOS Ranger Amarelo.
+SKILL_20191024_016140	TOS Ranger: Verde
+SKILL_20191024_016141	Transformação em TOS Ranger Verde.
 SKILL_20191024_016142	Afflicted with Swell Body. The effects cannot be applied to the character.	크기 확대 상태입니다. 캐릭터에게는 효과가 적용되지 않습니다.
 SKILL_20191024_016143	Afflicted with Shrink Body. The effects cannot be applied to the character.	크기가 축소된 상태입니다. 캐릭터에게는 효과가 적용되지 않습니다.
 SKILL_20191024_016144	Enemies become open to attacks, they cannot use basic attacks and skills and their physical defense is decreased. They also become vulnerable to knockdown.	적이 잠시 무방비 상태가 되어, 기본 공격과 스킬 사용을 못하고 물리 방어력이 감소함. 또한 넉다운 공격에 취약해집니다.
@@ -16279,54 +16279,54 @@ SKILL_20191024_016278	Immunity from all removable debuffs	일반 해제 가능�
 SKILL_20191024_016279	Haste	쾌속
 SKILL_20191024_016280	Grants 5% chance to remove cooldown from Multi Shot for 6 seconds when attacking.	공격시 5% 확률로 6초간 멀티 샷의 재사용 대기시간이 사라집니다.
 SKILL_20191024_016281	Removes cooldown of Multi Shot	멀티 샷의 재사용 대기시간이 사라집니다.
-SKILL_20191024_016282	Stealth Strike	암습
-SKILL_20191024_016283	Doubles critical rate when Behead or Backstab is used	카트 라시흐, 백스탭 사용시 치명타 발생 2배
-SKILL_20191024_016284	Musket Overheat	머스킷 과열
-SKILL_20191024_016285	Increases Healing while under Heal: Overload	힐: 과부화 일 때 치유력 상승
-SKILL_20191024_016286	Saving Prayer	구원의 기도
-SKILL_20191024_016287	Increases Healing depending on the number of Heal: Overload stacks	힐 : 과부화 중첩에 따라 치유력 상승
-SKILL_20191024_016288	Moringponia - Backlight	모링포니아 - 역광
-SKILL_20191024_016289	Increases resistance against blind by +7 for every stack	중첩당 암흑 상태이상 저항 7 증가
-SKILL_20191024_016290	Moringponia - Winterize	모링포니아 - 방한
-SKILL_20191024_016291	Increases resistance against freeze by +7 for every stack	중첩당 결빙 상태이상 저항 7 증가
-SKILL_20191024_016292	Moringponia - Zen	모링포니아 - 참선
-SKILL_20191024_016293	Increases resistance against stun by +7 for every stack	중첩당 스턴 상태이상 저항 7 증가
-SKILL_20191024_016294	Additional damage with Smite equal to the difference in STR stat between the target and the caster	피격 대상 힘 차이만큼 스마이트 추가 대미지
-SKILL_20191024_016295	Increases Rune of Justice damage	정의의 룬 대미지 증가
-SKILL_20191024_016296	Increases the damage of allies within the range of the circle by +30% and recovers their HP in amounts equal to 0.1% of their attack(cannot be stacked, Duration: 10 seconds){nl}Reduces the final damage dealt by the caster by -50% (Duration: 100 seconds, cannot be removed){nl} {nl}Dragon Strength Lv. 1{nl}- Ally damage increase is boosted to +50%	아군의 대미지 30% 증가 공격시 대미지의 0.1%만큼 체력 회복(중복 적용 불가, 10초 지속){nl}시전자의 최종 대미지 50% 감소 (100초 지속, 제거 불가){nl} {nl}드래곤의 기운 1단계 효과{nl} - 시전자가 드래곤의 기운 1단계가 적용중일 경우 아군의 대미지 증가 50%로 변경됩니다.
-SKILL_20191024_016297	Cower	위축
-SKILL_20191024_016298	Physical Attack: -(stack * 1,000)	물리 공격력 (중첩 수 * 1,000) 감소
-SKILL_20191024_016299	Recovers own HP in amount proportional to player's Healing	공격시 자신의 HP회복력 비례 HP회복
-SKILL_20191024_016300	Awaken Mind	정신개벽
-SKILL_20191024_016301	Damage received reduced depending on the number of Heal: Overload stacks	힐: 과부화 중첩 수에 따라 받는 대미지 감소
-SKILL_20191024_016302	Damage increased for the last overheat of Quick Draw	퀵 드로우 마지막 오버히트 대미지 증가
-SKILL_20191024_016303	Ambush skill dismounts enemies	기습 스킬 낙마 유발
-SKILL_20191024_016304	Ignores block of enemies under Gae Bulg debuff	게이 불그 디버프 대상 블록 무시
-SKILL_20191024_016305	Max. SP increase when using Magic Shield	매직 실드 사용시 최대 SP 증가
-SKILL_20191024_016306	Resonance	공명
-SKILL_20191024_016307	Max. SP +3,500	최대 SP 3,500 증가
-SKILL_20191024_016308	Misrus Crossbow Pavise	머즈루스 크로스보우 파비스
-SKILL_20191024_016309	Expulsion	축출
-SKILL_20191024_016310	Reduces target's SP with every attack	공격할 때 상대의 SP에 피해를 줍니다
-SKILL_20191024_016311	Harden	경화
-SKILL_20191024_016312	Increases Physical and Magic Defense	물리 방어력 / 마법 방어력 증가
-SKILL_20191024_016313	Misrus - Harden	머즈루스 - 경화
-SKILL_20191024_016314	Physical/Magic Defense buff when using SP potions{nl}Efficacy increases with increased number of Harden stacks	SP포션 사용시 물리/마법 방어력 버프 발동{nl}경화 중첩 수에 따라 효과 증가
-SKILL_20191024_016315	Misrus - Lucid	머즈루스 - 명징
-SKILL_20191024_016316	Grants buff that increases SPR when using HP potions{nl}Efficacy increases with the number of Lucid stacks	HP포션 사용시 정신 증가 버프 발동{nl}명징 중첩 수에 따라 효과 증가
-SKILL_20191024_016317	Lucid	명징
-SKILL_20191024_016318	Misrus - Potential	머즈루스 - 저력
-SKILL_20191024_016319	Max. Physical/Magic attack increased when using HP potion{nl}Efficacy increases with the number of Potential stacks	HP포션 사용시 물리 / 마법 최대 공격력 증가{nl}저력 중첩 수에 따라 효과 증가
-SKILL_20191024_016320	Potential	저력
-SKILL_20191024_016321	Maximum Physical and Magic Attack Increase	물리 / 마법 최대 공격력 증가
-SKILL_20191024_016322	Gravity Curve	중력 변곡점
-SKILL_20191024_016323	+50% damage received from Missile attacks	미사일 타입 받는 피해 50% 감소
-SKILL_20191024_016324	Ice Breaker	쇄빙
-SKILL_20191024_016325	Critical rate x2 when attacking frozen enemies 	결빙 디버프 대상 공격시 치명타 발생 2배 
-SKILL_20191024_016326	Agress: Complacency	시비걸기: 안전불감증
-SKILL_20191024_016327	Additional damage received	추가 피해를 받음
-SKILL_20191024_016328	Napalm	네이팜
-SKILL_20191024_016329	Damage received every second	1초 마다 피해를 받음
+SKILL_20191024_016282	Ataque Furtivo
+SKILL_20191024_016283	Dobra a Taxa de Crítico para as habilidaes [Behead] e [Backstab]
+SKILL_20191024_016284	Mosquete Sobrecarregado
+SKILL_20191024_016285	Aumenta Taxa de Cura enquanto estiver sob efeito de [Heal: Sobrecarga]
+SKILL_20191024_016286	Oração Salvadora
+SKILL_20191024_016287	Aumenta a Taxa de Cura dependendo do número de acúmulos de [Heal: Sobrecarga]
+SKILL_20191024_016288	Moringponia - Luz de Fundo
+SKILL_20191024_016289	+7 de resistência contra [Blind] por acúmulo
+SKILL_20191024_016290	Moringponia - Invernal
+SKILL_20191024_016291	+7 de resistência contra [Freeze] por acúmulo
+SKILL_20191024_016292	Moringponia - Zen
+SKILL_20191024_016293	+7 de resistência contra [Stun] por acúmulo
+SKILL_20191024_016294	Ao utilizar [Smite], dano adicional igual à diferença de STR entre o usuário e o alvo
+SKILL_20191024_016295	Aumento de Dano de [Rune of Justice]
+SKILL_20191024_016296	Aumenta o dano dos aliados dentro da área do círculo em +30% e recupera o HP deles em 0.1% do dano (não acumula. Duração: 10 segundos){nl}Reduz o dano final causado pelo usuário em -50% (Duração: 100 segundos, não pode ser removido){nl} {nl}[Dragon Strength Nv. 1]{nl}- Dano dos aliados é aumentado para +50%
+SKILL_20191024_016297	Encolher de Medo
+SKILL_20191024_016298	Ataque Físico - (acúmulo * 1.000)
+SKILL_20191024_016299	Recupera o próprio HP em valor proporcional à Taxa de Cura do usuário
+SKILL_20191024_016300	Despertar da Mente
+SKILL_20191024_016301	Dano recebido é reduzido conforme os acúmulos de [Heal: Sobrecarga]
+SKILL_20191024_016302	Dano aumentado do último overheat de [Quick Draw]
+SKILL_20191024_016303	Habilidade [Ambush] desmonta os inimigos
+SKILL_20191024_016304	Ignora o bloqueio de inimigos sob efeito de [Gae Bulg]
+SKILL_20191024_016305	SP Máximo aumenta ao utilizar [Magic Shield]
+SKILL_20191024_016306	Ressonância
+SKILL_20191024_016307	SP Máximo +3.500
+SKILL_20191024_016308	Misrus Crossbow Pavise
+SKILL_20191024_016309	Expulsão
+SKILL_20191024_016310	Reduz o SP do alvo a cada ataque
+SKILL_20191024_016311	Firmeza
+SKILL_20191024_016312	Aumenta a Defesa Física e Mágica
+SKILL_20191024_016313	Misrus - Firmeza
+SKILL_20191024_016314	Defesa Física e Mágica aumentada ao utilizar Poção de SP{nl}Eficiência aumenta conforme os acúmulos
+SKILL_20191024_016315	Misrus - Lucidez
+SKILL_20191024_016316	SPR aumentado ao utilizar Poção de HP{nl}Eficiência aumenta conforme os acúmulos
+SKILL_20191024_016317	Lucidez
+SKILL_20191024_016318	Misrus - Potencial
+SKILL_20191024_016319	Ataque Físico e Mágico máximo aumentado ao utilizar Poção de HP{nl}Eficiência aumenta conforme os acúmulos
+SKILL_20191024_016320	Potencial
+SKILL_20191024_016321	Aumenta Ataque Físico e Mágico máximos
+SKILL_20191024_016322	Curva Gravitacional
+SKILL_20191024_016323	-50% de dano recebido de ataques do tipo Projétil
+SKILL_20191024_016324	Quebra-gelo
+SKILL_20191024_016325	Taxa de Crítico x2 ao atacar inimigos sob efeito de [Freeze]
+SKILL_20191024_016326	Aggress: Complacência
+SKILL_20191024_016327	Dano adicional recebido
+SKILL_20191024_016328	Napalm
+SKILL_20191024_016329	Dano recebido por segundo
 SKILL_20191024_016330	Reflect Damage State	대미지 반사 상태
 SKILL_20191024_016331	Aqkrova Debuff	앱크로바 디버프
 SKILL_20191024_016332	Final damage reduced by -50%	최종 대미지 50%감소 상태
@@ -16335,21 +16335,21 @@ SKILL_20191024_016334	Skidas{nl}Continous effect. Applies a shield around the pl
 SKILL_20191024_016335	Skidas Shield	스키다스 실드
 SKILL_20191024_016336	Shield is consumed before HP.	실드는 HP보다 먼저 소모됩니다.
 SKILL_20191024_016337	Additional hits for the duration.	지속시간 동안 추가타.
-SKILL_20191024_016338	Grants additional hits against summons for the duration.	지속시간 동안 소환수에게 추가타를 입히는 효과를 줍니다.
+SKILL_20191024_016338	Grants additional hits to summons for the duration.	지속시간 동안 소환수에게 추가타를 입히는 효과를 줍니다.
 SKILL_20191024_016339	Temporarily increases maximum damage cap. Also, additional damage is dealt when the damage reaches over 999,999.	최대 대미지 제한이 일시적으로 증가합니다. 또한 999,999 대미지가 넘으면 추가 대미지를 줍니다.
 SKILL_20191024_016340	Ataka
 SKILL_20191024_016341	[Ataka] - Quando um golpe crítico é lançado, causa um dano fixo dividido entre os inimigos próximos em uma áre de 60 (Máx. 10 inimigos. Cooldown: 8 segundos){nl}[Dragon Strength Nv. 1] - Aumenta o efeito de dano em 100%
 SKILL_20191024_016342	Misrus Staff equipped	머즈루스 스태프 착용
-SKILL_20191024_016343	TOS Ranger Transform - Red	TOS 스쿼드 폼 체인지 - 레드
-SKILL_20191024_016344	Transform into the Red TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 레드로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
-SKILL_20191024_016345	TOS Ranger Transform - Pink	TOS 스쿼드 폼 체인지 - 핑크
-SKILL_20191024_016346	Transform into the Pink TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 핑크로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
-SKILL_20191024_016347	TOS Ranger Transform - Blue	TOS 스쿼드 폼 체인지 - 블루
-SKILL_20191024_016348	Transform into the Blue TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 블루로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
-SKILL_20191024_016349	TOS Ranger Transform - Yellow	TOS 스쿼드 폼 체인지 - 옐로우
-SKILL_20191024_016350	Transform into the Yellow TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 옐로우로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
-SKILL_20191024_016351	TOS Ranger Transform - Green	TOS 스쿼드 폼 체인지 - 그린
-SKILL_20191024_016352	Transform into the Green TOS Ranger!{nl}You will return to your original appearance shortly.	TOS 스쿼드 그린로 변신!{nl}시간이 지나면 원래의 모습으로 돌아옵니다.
+SKILL_20191024_016343	Transformação TOS Ranger - Vermelho
+SKILL_20191024_016344	Transformado em TOS Ranger Vermelho!{nl}Você retornará para a sua aparência original em breve.
+SKILL_20191024_016345	Transformação TOS Ranger - Rosa
+SKILL_20191024_016346	Transformado em TOS Ranger Rosa!{nl}Você retornará para a sua aparência original em breve.
+SKILL_20191024_016347	Transformação TOS Ranger - Azul
+SKILL_20191024_016348	Transformado em TOS Ranger Azul!{nl}Você retornará para a sua aparência original em breve.
+SKILL_20191024_016349	Transformação TOS Ranger - Amarelo
+SKILL_20191024_016350	Transformado em TOS Ranger Amarelo!{nl}Você retornará para a sua aparência original em breve.
+SKILL_20191024_016351	Transformação TOS Ranger - Verde
+SKILL_20191024_016352	Transformado em TOS Ranger Verde!{nl}Você retornará para a sua aparência original em breve.
 SKILL_20191024_016353	Load Magic Bullet	마력급탄
 SKILL_20191024_016354	Increases damage in proportion to the caster's critical attack value.	시전자의 치명타 공격력에 비례하여 주는 대미지가 증가합니다.
 SKILL_20191024_016355	Halloween Effect Free Check	할로윈 이펙트 프리체크
@@ -16825,7 +16825,7 @@ SKILL_20191024_016824	[Arts] Snow Rolling: Enhanced Upgrade	[아츠] 스노우 �
 SKILL_20191024_016825	* Increases the Skill Factor of [Snow Rolling] by 1.25% per attribute level	* [스노우 롤링]의 스킬 계수가 특성 레벨당 1.25% 증가
 SKILL_20191024_016826	[Arts] Frost Pillar: Enhanced Upgrade	[아츠] 프로스트 필라: 상급 강화
 SKILL_20191024_016827	* Increases the Skill Factor of [Frost Pillar] by 1.25% per attribute level	* [프로스트 필라]의 스킬 계수가 특성 레벨당 1.25% 증가
-SKILL_20191024_016828	[Arts] Heavy Gravity: Distort	[아츠] 헤비 그라비티: 왜곡된 중력
+SKILL_20191024_016828	[Arts] Heavy Gravity: Distorção	[아츠] 헤비 그라비티: 왜곡된 중력
 SKILL_20191024_016829	* When [Heavy Gravity] and [Raise] are stacked in the same location, a fused magic circle appears to immobilize enemies{nl} and enemies are lifted into the air then dropped when the magic circle's duration is over.	* 헤비 그라비티가 레이즈와 겹쳐지면 합성된 마법진이 나와 적이 이동할 수 없게되며,{nl}    마법진이 끝난 시점에 적들이 공중으로 높이 떴다가 떨어짐
 SKILL_20191024_016830	[Arts] Psychic Pressure: Enhanced Upgrade	[아츠] 사이킥 프레셔: 상급 강화
 SKILL_20191024_016831	* Increases the Skill Factor of [Psychic Pressure] by 1.25% per attribute level	* [사이킥 프레셔]의 스킬 계수가 특성 레벨당 1.25% 증가
@@ -17853,11 +17853,11 @@ SKILL_20191125_017852	Summons a pillar of fire to inflict damage on enemies.{nl}
 SKILL_20191125_017853	Fluffy Cheer	참새의 응원
 SKILL_20191125_017854	The Fluffy Sparrow cheers you on with its chirps.{nl}The cheering increases your movement speed by +2.	복실복실 참새가 곁에서 지저귀며 당신을 응원합니다.{nl}참새의 응원으로 이동 속도가 2 증가합니다.
 SKILL_20191216_017855	Equip Midnight Starlight Effect Costume	미드나이트 스타라이트 이펙트 코스튬 장착
-SKILL_20191228_017856	Gabija Effect Free Check	가비야 이펙트 프리체크
-SKILL_20191228_017857	Gabija Flame Effect	가비야의 불 이펙트
-SKILL_20191228_017858	[Event] New Year 2x	[이벤트] 4주년 x2
-SKILL_20191228_017859	[Buff Effect]: The amount of [Event] New Year Coins obtained is increased by two-fold.{nl}[Bonus Effect]: The amount of [Event] New Year Coins obtained is increased by 5x when stacked with [Event] New Year x3 buff.{nl}Duration: 24 hours	[버프 효과] : [이벤트] 4주년 기념 주화를 2배로 획득합니다.{nl}[특수 효과] :  [이벤트] 4주년 x3버프와 중첩 시 [이벤트] 4주년 기념 주화의 획득량이 5배로 증가합니다.{nl}[지속 시간] : 24시간
-SKILL_20191228_017860	[Event] New Year 3x	[이벤트] 4주년 x3
-SKILL_20191228_017861	[Buff Effect]: The amount of [Event] New Year Coins obtained is increased by 3x.{nl}[Bonus Effect]: The amount of [Event] New Year Coins obtained is increased by 5x when stacked with [Event] New Year x2 buff.{nl}Duration: 24 hours	[버프 효과] : [이벤트] 4주년 기념 주화를 3배로 획득합니다.{nl}[특수 효과] :  [이벤트] 4주년 x2버프와 중첩 시 [이벤트] 4주년 기념 주화의 획득량이 5배로 증가합니다.{nl}[지속 시간] : 24시간
-SKILL_20191228_017862	Summon Gabija Doll	가비야 인형 소환
-SKILL_20191228_017863	Gabija Doll has been summoned.	가비야 인형이 소환된 상태입니다.
+SKILL_20191228_017856	Verificação Livre do Efeito de Gabija
+SKILL_20191228_017857	Efeito do Fogo de Gabija
+SKILL_20191228_017858	[Evento] Ano Novo 2x
+SKILL_20191228_017859	[Efeito]: Ganha 2x mais [Evento] Moedas de Ano Novo.{nl}[Efeito Bônus]: Aumenta para 5x quando acumulado com o efeito [Evento] Ano Novo 3x.{nl}Duração: 24 horas
+SKILL_20191228_017860	[Evento] Ano Novo 3x
+SKILL_20191228_017861	[Efeito]: Ganha 3x mais [Evento] Moedas de Ano Novo.{nl}[Efeito Bônus]: Aumenta para 5x quando acumulado com o efeito [Evento] Ano Novo 2x.{nl}Duração: 24 horas
+SKILL_20191228_017862	Invoca a Boneca de Gabija
+SKILL_20191228_017863	Boneca de Gabija invocada.

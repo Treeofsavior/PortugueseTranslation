@@ -14609,8 +14609,8 @@ ETC_20150918_014610	Random
 ETC_20150918_014611	Individual
 ETC_20150918_014612	Shared
 ETC_20150918_014613	Unshared
-ETC_20150918_014614	Você excedeu o número de vezes que pode participar de uma dungeon instanciada por hoje.
-ETC_20150918_014615	Você não cumpre o requisito de nível desta dungeon instanciada
+ETC_20150918_014614	Você excedeu o número de vezes que pode participar de uma Dungeon de Nível por hoje.
+ETC_20150918_014615	Você não cumpre o requisito de nível desta Dungeon Instanciada
 ETC_20150918_014616	Derrote Matsums that are rushing in!
 ETC_20150918_014617	Treasure Vubbe has appeared!
 ETC_20150918_014618	Derrote the monsters nearby!
@@ -14648,7 +14648,7 @@ ETC_20150918_014649	[Armazenador]{nl}      Zadan
 ETC_20150918_014650	Underground Catacombs Dungeon: Entrada
 ETC_20150918_014651	[Mercador de Acessórios]{nl}   Joana
 ETC_20150918_014652	Bomb Box
-ETC_20150918_014653	Underground Chapel Dungeon: Entrada
+ETC_20150918_014653	Capela Subterrânea: Entrada
 ETC_20150918_014654	Crisp Grass Pile
 ETC_20150918_014655	Ownerless Grave
 ETC_20150918_014656	Suspicious Device
@@ -17828,7 +17828,7 @@ ETC_20151224_017829	Thorn Forest Guild Mission
 ETC_20151224_017830	Royal Mausoleum Guild Mission
 ETC_20151224_017831	Canyon Belt Guild Mission
 ETC_20151224_017832	Demon Prison Guild Mission
-ETC_20151224_017833	Monument of Desire Dungeon
+ETC_20151224_017833	Monumento do Desejo
 ETC_20151224_017834	Destroy the restrainment Devices attached to Monk Goss!
 ETC_20151224_017835	Hurry up, before the spore spurts!
 ETC_20151224_017836	Shhh, I'm going to release you.
@@ -18892,7 +18892,7 @@ ETC_20151224_018893	OptDesc/Broadhead Skill Lv +1
 ETC_20151224_018894	OptDesc/Bodkin Point Skill Lv +1
 ETC_20151224_018895	OptDesc/Barbed Arrow Skill Lv +1
 ETC_20151224_018896	OptDesc/CrossFire Skill Lv +1
-ETC_20151224_018897	OptDesc/Magic Arrow Skill Lv +!
+ETC_20151224_018897	OptDesc/Magic Arrow Skill Lv +1
 ETC_20151224_018898	OptDesc/Divine Arrow Skill Lv +1
 ETC_20151224_018899	OptDesc/Roost Skill Lv +1
 ETC_20151224_018900	OptDesc/Circling Skill Lv +1
@@ -19963,7 +19963,7 @@ ETC_20151224_019964	[Mestre Scout]{nl}    Recon Rimgaile
 ETC_20151224_019965	[Submestre Wugushi]{nl}          May Patt
 ETC_20151224_019966	Canyon Guild Mission
 ETC_20151224_019967	[Submestre Elementalist]{nl}              Zeddie Berrant
-ETC_20151224_019968	Historic Site Ruins Dungeon
+ETC_20151224_019968	Dungeon Ruínas Históricas
 ETC_20151224_019969	Lumber Pile
 ETC_20151224_019970	Lost Package
 ETC_20151224_019971	Unidentified Dust
@@ -23468,7 +23468,7 @@ ETC_20160811_023469	{COUNT}
 ETC_20160811_023470	Cristais de Fogo atuais : {COUNT}
 ETC_20160811_023471	You have participated in an event!
 ETC_20160811_023472	Successfully created {COUNT} event monsters!
-ETC_20160811_023473	You have been gifted [{BUFF}]!
+ETC_20160811_023473	Você foi premiado [{BUFF}]!
 ETC_20160811_023474	The item durability of all equipped items has been restored by 5!
 ETC_20160811_023475	Attendance Event{nl}Season : {SEASON}{nl}Attendend {COUNT} days {nl}Reward : {ITEMCOUNT} {ITEMNAME}
 ETC_20160811_023476	Attendance Event{nl}Season : {SEASON}{nl}Attendend {COUNT} days
@@ -24611,7 +24611,7 @@ ETC_20161005_024612	Castle Mission
 ETC_20161005_024613	Mine Mission
 ETC_20161005_024614	Monastery Mission
 ETC_20161005_024615	Battle Rumble
-ETC_20161005_024616	Castle Dungeon
+ETC_20161005_024616	Masmorra do Castelo
 ETC_20161005_024617	Victoras... Is coming to see me?
 ETC_20161005_024618	May he rest in peace...
 ETC_20161005_024619	The Centaurus has run off somewhere!
@@ -24902,7 +24902,7 @@ ETC_20161005_024903	Token: 5 Days [EVENTO] (14 Days)
 ETC_20161005_024904	Goddess' Present Chest
 ETC_20161005_024905	Right-click to use and obtain contents.{nl} - 190 TP{nl} - Token - Event (15 Days){nl} - Highly Enriched HP/SP Potion 20x{nl} - Soul Crystal 15x{nl} - Megaphone 15x{nl} - Warp Scroll 15x{nl} - EXP Tome 5x
 ETC_20161005_024906	Instanced Clear Voucher [{img star_mark 20 20}]
-ETC_20161005_024907	Um voucher que pode limpar uma dungeon instanciada mais rápido e mais eficaz. Todos os monstros serão derrotados e você receberá todos os drops e EXP deles.{nl} Clique com o botão direito do mouse dentro de uma dungeon instanciada para usar.{nl} Utilizável em dungeons de 1 estrela.
+ETC_20161005_024907	Um voucher que pode limpar uma Dungeon de Nível mais rápido e mais eficaz. Todos os monstros serão derrotados e você receberá todos os drops e EXP deles.{nl} Clique com o botão direito do mouse dentro de uma Dungeon de Nível para usar.{nl} Utilizável em dungeons de 1 estrela.
 ETC_20161005_024908	Instanced One Entry Voucher
 ETC_20161005_024909	Use-o para entrar em Dungeons e Mercenary mais uma vez.
 ETC_20161005_024910	Tintura: Violeta
@@ -29948,7 +29948,7 @@ ETC_20171128_029949	Team Battle League Error
 ETC_20171128_029950	Challenege Mode Error
 ETC_20171128_029951	Log to determine ability application
 ETC_20171128_029952	Classification of tags used in script
-ETC_20171128_029953	Castle Dungeon
+ETC_20171128_029953	Masmorra do Castelo
 ETC_20171128_029954	Applies Token benefits to all your characters in the server for 30 days. Right-click to use. Remaining time can be checked in the Character Info window.{nl}[Token Benefits]{nl}- Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl} - Able to use Premium Gestures{nl} - Able to use Personal Trade up to 30 times{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 
 ETC_20171128_029955	Applies Token benefits to all your characters in the server for 7 days. Right-click to use. Remaining time can be checked in the Character Info window. {nl}[Token Benefits]{nl} - Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl}  - Able to use Premium Gestures{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 
 ETC_20171128_029956	Applies Token benefits to all your characters in the server for 5 days. Right-click to use. Remaining time can be checked in the Character Info window. {nl}[Token Benefits]{nl} - Able to learn attributes instantly{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} -  - Able to register items in Market outside min./max. price limits{nl} - Able to retrieve Market silver instantly{nl} - +3 increased character movement{nl} - +20% EXP from hunting monsters{nl}(Stacks with EXP Tome effects) - Able to use Team Storage{nl}  - Able to use Premium Gestures{nl} - Additional +1 reward from Saalus Missions{nl} - Raid Dungeon Entry Item consume quantity -2 
@@ -30998,9 +30998,9 @@ ETC_20171128_030999	Ritual offered to God
 ETC_20171128_031000	Universal Divine Energy of World
 ETC_20171128_031001	Divine power of Goddess
 ETC_20171128_031002	Life energy
-ETC_20171128_031003	Chapel Underground (Nv. Recomendado: 50)
-ETC_20171128_031004	Historic Site Ruins (Nv. Recomendado: 120)
-ETC_20171128_031005	Monument of Desire (Nv. Recomendado: 180)
+ETC_20171128_031003	Capela Subterrânea (Nv. Recomendado: 50)
+ETC_20171128_031004	Ruínas Históricas (Nv. Recomendado: 120)
+ETC_20171128_031005	Monumento do Desejo (Nv. Recomendado: 180)
 ETC_20171128_031006	Residence of the Fallen Legwyn Family (Nv. Recomendado: 230)
 ETC_20171128_031007	Catacombs Underground (Nv. Recomendado: 270)
 ETC_20171128_031008	Castle Underground (Nv. Recomendado: 300)
@@ -31997,7 +31997,7 @@ ETC_20180418_031998	Terra Rytaswort
 ETC_20180418_031999	Fire Fox Shikigami
 ETC_20180418_032000	Greenwood Shikigami
 ETC_20180418_032001	Convent
-ETC_20180418_032002	Velcoffer's Nest
+ETC_20180418_032002	Ninho do Velcoffer
 ETC_20180418_032003	A Yeti has appeared, and it's coming for you!
 ETC_20180418_032004	Allow me to summon the evil spirits.
 ETC_20180418_032005	Defeat the evil spirits.
@@ -32720,7 +32720,7 @@ ETC_20180517_032721	Chance of dealing 2000-3000 additional damage.{nl}- The chan
 ETC_20180517_032722	HP {img green_up_arrow 16 16} 1023{nl}DEX {img green_up_arrow 16 16} 10
 ETC_20180517_032723	Physical attack {img green_up_arrow 16 16} 60{nl}Magic attack {img green_up_arrow 16 16} 60
 ETC_20180517_032724	Velcoffer Costume Set
-ETC_20180517_032725	Velcoffer's Nest
+ETC_20180517_032725	Ninho do Velcoffer
 ETC_20180517_032726	 provides a damage reduction of 10%
 ETC_20180517_032727	Max. no. of stats shown in item stat extraction UI
 ETC_20180517_032728	Market registration limit
@@ -33344,7 +33344,7 @@ ETC_20180629_033345	Solo Dungeon Error
 ETC_20180629_033346	Solo Dungeon Info
 ETC_20180629_033347	Incorrect loop effect.
 ETC_20180629_033348	Web Server Data Log
-ETC_20180629_033349	Level Dungeon
+ETC_20180629_033349	Dungeon de Nível
 ETC_20180629_033350	The Bouquet!
 ETC_20180629_033351	3 vs 3 Soccer League
 ETC_20180629_033352	Stat Reset Potion (30 Days)
@@ -35049,7 +35049,7 @@ ETC_20180827_035050	Astral Tower 12F
 ETC_20180827_035051	[Evento] Veja Ravine
 ETC_20180827_035052	Baubas Cave
 ETC_20180827_035053	Nevellet Quarry Dungeon
-ETC_20180827_035054	Lanko Lake Dungeon
+ETC_20180827_035054	Lago Lanko
 ETC_20180827_035055	Starry Town
 ETC_20180827_035056	Nicopolis
 ETC_20180827_035057	Feline Post Town
@@ -36797,8 +36797,8 @@ ETC_20190104_036798	Guild Mileage Info
 ETC_20190104_036799	Territory Taxation Error
 ETC_20190104_036800	Territory Taxation Info
 ETC_20190104_036801	Error code 8 tracking log.
-ETC_20190104_036802	Legend Raid: Earth Tower
-ETC_20190104_036803	Legend Raid: Velcoffer's Nest
+ETC_20190104_036802	Raid Lendária: Torre Terrestre
+ETC_20190104_036803	Raid Lendária: Ninho do Velcoffer
 ETC_20190104_036804	Batalha de Times da Giltine
 ETC_20190104_036805	Evento: Batalha de Times da Giltine
 ETC_20190104_036806	Selo
@@ -37231,7 +37231,7 @@ ETC_20190104_037232	OptDesc/Turn Undead Skill Lvl +1
 ETC_20190104_037233	OptDesc/Stone Skin Skill Lvl +1
 ETC_20190104_037234	OptDesc/Divine Might Skill Lvl +1
 ETC_20190104_037235	OptDesc/Bully Skill Lvl +1
-ETC_20190104_037236	OptDesc/Aggress Skill Lvl +1
+ETC_20190104_037236	OptDesc/Bully Skill Lvl +1
 ETC_20190104_037237	OptDesc/Rampage Skill Lvl +1
 ETC_20190104_037238	OptDesc/Raiton no Jutsu Skill Lvl +1
 ETC_20190104_037239	OptDesc/Swell Hands Skill Lvl +1
@@ -41244,7 +41244,7 @@ ETC_20190419_041245	{nl} {nl}Quando a solução estiver cheia, o ícone alterar�
 ETC_20190419_041246	{nl} {nl}Com o Mestre Alchemist, coloque o seu item Lendário e o número de Pamoka Solutions cheias para aplicar o efeito que você escolher.
 ETC_20190419_041247	As diferentes áreas da Earth Tower podem ser acessadas de acordo com o nível do personagem, além de possuir um limite de entradas semanais aplicado.
 ETC_20190419_041248	{nl} {nl}Materiais especiais obtidos na Earth Tower podem ser trocados por equipamentos poderosos com os membros da Aliança Kedora, localizados na entrada da Earth Tower.
-ETC_20190419_041249	{nl} {nl}Velcoffer's Nest não divide o seu limite de entradas com a Earth Tower.{nl}As entradas consumidas são reiniciadas a cada nova semana.
+ETC_20190419_041249	{nl} {nl}Ninho do Velcoffer não divide o seu limite de entradas com a Torre Terrestre.{nl}As entradas consumidas são reiniciadas a cada nova semana.
 ETC_20190419_041250	{nl} {nl}No final do calabouço está o Velcoffer, um dragão que escapou do seu confinamento após ter sido selado, durante uma guerra com as Deusas há muitas eras passadas.{nl}O seu objetivo é derrotá-lo para obter recompensas especiais.{nl}Usuários de Token podem utilizar opções de [Re-abrir], obtendo recompensas adicionais.
 ETC_20190419_041251	Os jogadores que completarem Remnants of Bernice podem receber [Remnants of Bernice Coins], de acordo com o número de estágios alcançado.{nl}[Remnants of Bernice Coins] podem ser trocadas com a Mestre Oracle.{nl}O Top 3 dos jogadores de cada Classe Base também recebem recompensas especiais.
 ETC_20190419_041252	{nl} {nl}Os jogadores receberão recompensas imediatamente após finalizarem com sucesso a missão, gerando um Cubo Secreto no local. Interaja com este cubo para utilizar a opção [Re-abrir].
@@ -43276,7 +43276,7 @@ ETC_20191024_043277	Taxa de Crítico {img green_up_arrow 16 16} 52
 ETC_20191024_043278	[Provérbios]{nl}- Ao utilizar, aumenta o limite de dano para 4.000.000. Se o seu dano ultrapassar 999.999, causa dano adicional igual a 20% do dano causado (Duração: 25 segundos. Cooldown: 100 segundos).{nl} {nl}[Dragon Strength Nv. 1]{nl}- Dano adicional causado aumenta para 30%
 ETC_20191024_043279	SPR {img green_up_arrow 16 16} 65
 ETC_20191024_043280	SPR {img green_up_arrow 16 16} 72
-ETC_20191024_043281	[Liris]{nl}- Ativa o efeito [Liris] nas invocações. Garante dano adicional igual ao dano causado pelo ataque das invocações (Duração: 30 segundos. Cooldown: 100 segundos){nl} {nl}[Dragon Strength Nv. 1]{nl}- Duração aumenta em 15 segundos.
+ETC_20191024_043281	[Liris]{nl}- Ativa o efeito [Liris] nas invocações atuais. Garante dano adicional igual ao dano original causado pelo ataque das invocações (Duração: 30 segundos. Cooldown: 100 segundos){nl} {nl}[Dragon Strength Nv. 1]{nl}- Duração aumenta em 15 segundos.
 ETC_20191024_043282	Sewer Docks
 ETC_20191024_043283	Misrus' Chamber
 ETC_20191024_043284	Sealed Passage
@@ -43411,7 +43411,7 @@ ETC_20191024_043412	Maestria em Tecido: Mestre Alfaiate
 ETC_20191024_043413	Maestria em Couro: Mestre Artesão
 ETC_20191024_043414	Maestria em Metal: Mestre Fundidor
 ETC_20191024_043415	Earth Tower One Entry Voucher Aplicado
-ETC_20191024_043416	Só pode ser utilizado se uma ou mais entradas da Earth Tower foram consumidas.
+ETC_20191024_043416	Só pode ser utilizado se uma ou mais entradas da Torre Terrestre foram consumidas.
 ETC_20191024_043417	Classe {JOB}: Adotar {COMPANION}
 ETC_20191024_043418	Recompensa: Obteve [The ARTS] Class Change Voucher Lv. 3 (1 Dia)
 ETC_20191024_043419	Tempo Conectado: {MIN} min{nl}Obteve [The ARTS] Class Change Voucher Lv. 3 (1 Dia)
@@ -43509,7 +43509,7 @@ ETC_20191024_043510	Como Participar
 ETC_20191024_043511	Entrar: [Evento] Remnants of Bernice
 ETC_20191024_043512	Aprender sobre [Evento] Remnants of Bernice
 ETC_20191024_043513	Vapor de Fogo
-ETC_20191024_043514	Todos os personagens foram resetados durante a atualização [Re:Build], em 6 de Dezembro, 2018.{nl}
+ETC_20191024_043514	Todos os personagens foram resetados durante a atualização [Re:Build], em 15 de Janeiro de 2018.{nl}
 ETC_20191024_043515	Entre com um personagem diferente e verifique as abas do Mercado primeiro.{nl}
 ETC_20191024_043516	recebeu uma aura divina
 ETC_20191024_043517	Entrar: Túmulo do Corvo Branco: Único (Solo)
@@ -43736,7 +43736,7 @@ ETC_20191024_043737	Magia do Misrus estabilizada, aumentando a força de suas ha
 ETC_20191024_043738	Misrus vai agir com violência.
 ETC_20191024_043739	Desafio Misrus
 ETC_20191024_043740	Derrote o Chefe sem ser derrotado em combate
-ETC_20191024_043741	Derrote o Chefe sem o HP ficar menor que 30%
+ETC_20191024_043741	Derrote o Chefe sem seu HP ficar menor que 30%
 ETC_20191024_043742	Derrote o Chefe dentro de 5 minutos
 ETC_20191024_043743	Derrote o Chefe mais forte
 ETC_20191024_043744	Você foi derrotado pelo Misrus. A batalha acabou.
@@ -43834,32 +43834,32 @@ ETC_20191224_043835	Clique com o botão direito do mouse para obter os seguintes
 ETC_20191224_043836	Recompensa Diária - Janeiro 2020
 ETC_20191224_043837	Recompensa Diária - Janeiro
 ETC_20191224_043838	NPC Buff de Final de Semana
-ETC_20191228_043839	Gabija Doll	가비야 인형
-ETC_20191228_043840	Gabija Guardian Costume Selection Box	가비야의 수호기사 코스튬 선택 상자
-ETC_20191228_043841	Use to select one of the following items.{nl}- Gabija Guardian Costume (Male) x1{nl}- Gabija Guardian Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 가비야 수호기사 코스튬 (남) 1개{nl} - 가비야 수호기사 코스튬 (여) 1개
-ETC_20191228_043842	Gabija Priest Costume Selection Box	가비야의 사제 코스튬 선택 상자
-ETC_20191228_043843	Use to select one of the following items.{nl}- Gabija Priest Costume (Male) x1{nl}- Gabija Priestess Costume (Female) x1	사용 시 아래의 구성물 중 하나를 선택해 획득할 수 있습니다.{nl} - 가비야 사제 코스튬 (남) 1개{nl} - 가비야 사제 코스튬 (여) 1개
-ETC_20191228_043844	Christmas NPC2	크리스마스 NPC2
-ETC_20191228_043845	Gabija Cube	스팀 가비야 여신의 큐브
-ETC_20191228_043846	/newyear	/이벤트주화
+ETC_20191228_043839	Gabija Doll
+ETC_20191228_043840	Gabija Guardian Costume Selection Box
+ETC_20191228_043841	Use para selecionar um dos seguintes itens:{nl}- Gabija Guardian Costume (Male) x1{nl}- Gabija Guardian Costume (Female) x1
+ETC_20191228_043842	Gabija Priest Costume Selection Box
+ETC_20191228_043843	Use para selecionar um dos seguintes itens:{nl}- Gabija Priest Costume (Male) x1{nl}- Gabija Priestess Costume (Female) x1
+ETC_20191228_043844	Christmas NPC2
+ETC_20191228_043845	Cubo de Gabija
+ETC_20191228_043846	/newyear
 ETC_20191228_043847	NA	가비야의 은총이 담긴 깃털 봉헌
-ETC_20191228_043848	Goddess Gabija Shop	가비야 테마 교환 상점
+ETC_20191228_043848	Loja da Deusa Gabija
 ETC_20191228_043849	NA	가비야의 은총이 담긴 재료 교환 상점
-ETC_20191228_043850	Pamoka Solution EXP 2x is already in effect.	이미 시약병 경험치 획득량 2배 증가 효과가 적용되어 있습니다.
+ETC_20191228_043850	2x EXP para Pamoka Solution já está ativo.
 ETC_20191228_043851	NA	{s24}축하드립니다!{nl}{PC} 님이 가비야의 은총이 담긴 깃털 장식으로{nl}{ITEMNAME} 를(을) 획득하셨습니다!
-ETC_20191228_043852	{#FF0000}Check Event details{/}	{#FF0000}이벤트 안내를 확인한다{/}
-ETC_20191228_043853	Obtain a {#003399}[Event] New Year Firecracker{/}	{#003399}[이벤트] 4주년 폭죽{/}을 수령한다
-ETC_20191228_043854	Use the [Event] New Year Shop	[이벤트] 4주년 기념 상점을 이용한다
-ETC_20191228_043855	TOS New Year Shop	T.O.S 4주년 기념 상점
-ETC_20191228_043856	You cannot obtain any more [Event] New Year Firecrackers for the day.	오늘은 더 이상 [이벤트] 4주년 폭죽을 수령할 수 없습니다.
-ETC_20191228_043857	Obtained {#ff6d00}{ITEM_NAME}{/} x{COUNT}	{#ff6d00}{ITEM_NAME}{/}을 {COUNT}개 획득했습니다
-ETC_20191228_043858	{#ff6d00}[Event] New Year 2x{/} buff is in effect	{#ff6d00}[이벤트] 4주년 x2{/} 효과가 적용되었습니다
-ETC_20191228_043859	{#ff6d00}[Event] New Year 3x{/} buff is in effect	{#ff6d00}[이벤트] 4주년 x3{/} 효과가 적용되었습니다
-ETC_20191228_043860	You have already obtained the daily limit of 5,000 {#ff6d00}[Event] New Year Coins{/} for the day.	하루 획득가능한 {#ff6d00}[이벤트] 4주년 기념 주화{/} 5,000개를 모두 모았습니다.
-ETC_20191228_043861	You have obtained a total of {@st66d_y}{s18}{GET}{/}{/} coins.{nl}You can obtain {@st66d_y}{s18}{REMAIN}{/}{/} more coins today.{nl}The daily limit of New Year coins that can be obtained is on a Team basis{nl}and the limit is reset daily at 06:00 AM EST.	오늘 4주년 기념 주화를 총 {@st66d_y}{s18}{GET}{/}{/}개 획득했습니다.{nl}{@st66d_y}{s18}{REMAIN}{/}{/}개의 4주년 기념 주화를 더 획득할 수 있습니다.{nl}4주년 기념 주화는 팀 단위로 획득할 수 있으며{nl}다음날 오전 06시에 초기화 됩니다
-ETC_20191228_043862	{@st66d_y}{s20}[Event] New Year Coins{/}{/} will be issued shortly. If you return before they are issued, you can miss out on receiving the items.	곧 {@st66d_y}{s20}[이벤트] 4주년 기념 주화{/}{/}가 지급됩니다. {@st66d_y}{s20}[이벤트] 4주년 기념 주화{/}{/} 지급 전 종료시 정상적으로 아이템이 지급되지 않을 수 있습니다.
-ETC_20191228_043863	{#003399}New Year Event Detail{/}	{#003399}신년 이벤트 안내{/}
+ETC_20191228_043852	{#FF0000}Detalhes do Evento{/}
+ETC_20191228_043853	Obter {#003399}[Evento] Fogo de Artifício de Ano Novo{/}
+ETC_20191228_043854	Acessar a [Evento] Loja de Ano Novo
+ETC_20191228_043855	Loja de Ano Novo do TOS
+ETC_20191228_043856	Você não pode mais obter [Evento] Fogo de Artifício de Ano Novo hoje.
+ETC_20191228_043857	Obteve {#ff6d00}{ITEM_NAME}{/} x{COUNT}
+ETC_20191228_043858	Efeito {#ff6d00}[Evento] Ano Novo 2x{/} está ativo
+ETC_20191228_043859	Efeito {#ff6d00}[Evento] Ano Novo 3x{/} está ativo
+ETC_20191228_043860	Você já obteve o limite diário de 5.000 {#ff6d00}[Evento] Moeda de Ano Novo{/} para hoje.
+ETC_20191228_043861	Você obteve o total de {@st66d_y}{s18}{GET}{/}{/} moedas.{nl}Você pode obter {@st66d_y}{s18}{REMAIN}{/}{/} moedas ainda hoje.{nl}O limite diário de moedas é contabilizado por Time{nl}e o limite reinicia diariamente às 06:00 AM EST.
+ETC_20191228_043862	{@st66d_y}{s20}[Evento] Moeda de Ano Novo{/}{/} será entregue em breve. Se você retornar antes, você poderá perder estes itens.
+ETC_20191228_043863	{#003399}Detalhes do Evento de Ano Novo{/}
 ETC_20191228_043864	NA	가비야의 은총이 담긴 깃털 부족합니다.
 ETC_20191228_043865	NA	[이벤트] 가비야 테마
 ETC_20191228_043866	NA	[유료 상품 교환 NPC]{nl}가비야의 전령
-ETC_20191228_043867	Weekend Event Helper	주말 이벤트 도우미
+ETC_20191228_043867	{@st41}{#ff6d00}Evento de Final de Semana{/}{/}
