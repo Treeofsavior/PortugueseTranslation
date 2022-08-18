@@ -5208,31 +5208,31 @@ UI_20220204_005207	{@st59}Greatly affects the performance. If too low, some effe
 UI_20220204_005208	Goddess Accessory Bound Removal Scroll	가디스 액세서리 귀속 해제 스크롤				
 UI_20220204_005209	{@st66}Use to remove the Bound.{/}	{@st66}사용 시 귀속 상태가 해제됩니다.{/}				
 UI_20220204_005210	Remove Bound	귀속 해제				
-UI_20220204_005211	Fire Flame Earring Bound Removal Scroll	화염불꽃 귀걸이 귀속 해제 스크롤				
-UI_20220204_005212	{@st66}Scroll x%s is needed to remove the bound.{/}	{@st66}귀속 해제를 위해 %s개의 스크롤이 필요합니다.{/}				
-UI_20220204_005213	{@st66}Same rank and number of scroll is needed to remove the bound.{/}	{@st66}귀속 해제를 위해 등급과 같은 수의 스크롤이 필요합니다.{/}				
-UI_20220204_005214	Vasilisa Equipment Bound Removal Scroll	바실리사 장비 귀속 해제 스크롤				
-UI_20220204_005215	{@st43}{s16}Party Damage{/}	{@st43}{s16}파티 대미지{/}				
-UI_20220204_005216	{@st43}{s28}Battle Result	{@st43}{s28}전투 결과				
-UI_20220204_005217	{@st43}{s22}Record	{@st43}{s22}기록				
-UI_20220204_005218	{@st43}{s22}Details	{@st43}{s22}세부 정보				
-UI_20220204_005219	{@st43}{s15}{#FFFF00}Battle Time{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}전투 시간{nl} {#FFFFFF}{s17}%s				
-UI_20220204_005220	48 seconds	48초				
-UI_20220204_005221	{@st43}{s15}{#FFFF00}Total Damage{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}총 피해량{nl} {#FFFFFF}{s17}%s				
-UI_20220204_005222	{@st43}{s15}{#FFFF00}Previous Highest Record{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}이전 최고 기록{nl} {#FFFFFF}{s17}%s				
-UI_20220204_005223	{@st43}{s17}{#FFFF00}Total Damage This Week{nl} {#FFFFFF}{s18}%s	{@st43}{s17}{#FFFF00}이번 주 누적 피해량{nl} {#FFFFFF}{s18}%s				
-UI_20220204_005224	{@st42b}{s18}End{/}	{@st42b}{s18}종료하기{/}				
-UI_20220204_005225	{s16}{#FF0000} %s left until count ends.	{s16}{#FF0000}집계 종료까지 %s 남았습니다.				
-UI_20220204_005226	5 Days 5 Hours 38 Minutes 49 Seconds	5일 5시간 38분 49초				
-UI_20220204_005227	{@st100cream_24}Archaeology	{@st100cream_24}고고학				
-UI_20220204_005228	{@st101lightbrown_16}Excavation Area	{@st101lightbrown_16}발굴 가능 지역				
-UI_20220204_005229	Close the Archaeology map window.	고고학 맵 정보창을 닫습니다.				
-UI_20220204_005230	Check Archeology Info.	고고학 정보를 확인합니다.				
-UI_20220204_005231	{@st101lightbrown_16}Archaeology	{@st101lightbrown_16}고고학				
-UI_20220204_005232	{s24}{b}Create a new character{/}{/}	{s24}{b}신규 캐릭터를 생성합니다{/}{/}				
-UI_20220204_005233	{/}{s20}{b}[%s]{/}{nl}can be selected once the following conditions are met.{/}	{/}{s20}{b}[%s]{/}은{nl}다음 조건을 충족해야 선택할 수 있습니다.{/}				
+UI_20220204_005211	Pergaminho de Desvinculação do Brinco de Chamas.	화염불꽃 귀걸이 귀속 해제 스크롤				
+UI_20220204_005212	{@st66}x%s pergaminho(s) necessário(s) para desvincular.{/}	{@st66}귀속 해제를 위해 %s개의 스크롤이 필요합니다.{/}				
+UI_20220204_005213	{@st66}É necessário o mesmo nível do pergaminho para desvincular.{/}	{@st66}귀속 해제를 위해 등급과 같은 수의 스크롤이 필요합니다.{/}				
+UI_20220204_005214	Pergaminho de Desvinculação do Equipamento Vasilisa	바실리사 장비 귀속 해제 스크롤				
+UI_20220204_005215	{@st43}{s16}Dano do Grupo{/}	{@st43}{s16}파티 대미지{/}				
+UI_20220204_005216	{@st43}{s28}Resultado da Batalha	{@st43}{s28}전투 결과				
+UI_20220204_005217	{@st43}{s22}Recorde	{@st43}{s22}기록				
+UI_20220204_005218	{@st43}{s22}Detalhes	{@st43}{s22}세부 정보				
+UI_20220204_005219	{@st43}{s15}{#FFFF00}Tempo de Luta{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}전투 시간{nl} {#FFFFFF}{s17}%s				
+UI_20220204_005220	48 segundos	48초				
+UI_20220204_005221	{@st43}{s15}{#FFFF00}Dano Total{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}총 피해량{nl} {#FFFFFF}{s17}%s				
+UI_20220204_005222	{@st43}{s15}{#FFFF00}Maior Recorde Anterior{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}이전 최고 기록{nl} {#FFFFFF}{s17}%s				
+UI_20220204_005223	{@st43}{s17}{#FFFF00}Dano Total da Semana{nl} {#FFFFFF}{s18}%s	{@st43}{s17}{#FFFF00}이번 주 누적 피해량{nl} {#FFFFFF}{s18}%s				
+UI_20220204_005224	{@st42b}{s18}Fim{/}	{@st42b}{s18}종료하기{/}				
+UI_20220204_005225	{s16}{#FF0000} %s restantes ate a contagem acabar.	{s16}{#FF0000}집계 종료까지 %s 남았습니다.				
+UI_20220204_005226	5 Dias 5 Horas 38 Minutos 49 Segundos	5일 5시간 38분 49초				
+UI_20220204_005227	{@st100cream_24}Arqueologia	{@st100cream_24}고고학				
+UI_20220204_005228	{@st101lightbrown_16}Área de escavação	{@st101lightbrown_16}발굴 가능 지역				
+UI_20220204_005229	Fechar o mapa arqueológico.	고고학 맵 정보창을 닫습니다.				
+UI_20220204_005230	Consultar informação arqueológica.	고고학 정보를 확인합니다.				
+UI_20220204_005231	{@st101lightbrown_16}Arqueologia	{@st101lightbrown_16}고고학				
+UI_20220204_005232	{s24}{b}Criar novo personagem{/}{/}	{s24}{b}신규 캐릭터를 생성합니다{/}{/}				
+UI_20220204_005233	{/}{s20}{b}[%s]{/}{nl}pode ser selecionado após as seguintes condições serem atingidas.{/}	{/}{s20}{b}[%s]{/}은{nl}다음 조건을 충족해야 선택할 수 있습니다.{/}				
 UI_20220204_005234	Ganho +%s	획득 +%s				
-UI_20220204_005235	{@sti1c}{s14}Somente lider do grupo	{@sti1c}{s14}파티장 전용 아이템				
+UI_20220204_005235	{@sti1c}{s14}Somente o lider do grupo	{@sti1c}{s14}파티장 전용 아이템				
 UI_20220204_005236	Usos	사용 횟수				
 UI_20220204_005237	460 charactername	460 캐릭터이름				
 UI_20220204_005238	460 character name	460 캐릭터 이름				
@@ -5314,10 +5314,10 @@ UI_20220614_005313	Reajuste de Status do Item	아이템 옵션 재설정
 UI_20220614_005314	{@st43b}{s18}Status Disponível	{@st43b}{s18}선택 가능 옵션				
 UI_20220614_005315	Reajustar	재설정				
 UI_20220614_005316	{@st66b}* Grupo do status (Cor) não muda quando reajustado,{nl} e somente o tipo e valor do status muda.{/}	{@st66b}* 재설정시 옵션 그룹(색상)은 유지되며, {nl}세부 옵션과 옵션 수치만 변경 가능합니다.{/}				
-UI_20220614_005317	Status reajustavél	재설정 가능 옵션				
+UI_20220614_005317	Status Reajustavél	재설정 가능 옵션				
 UI_20220614_005318	Mostra uma lista de status reajustavéis.	재설정 가능한 옵션 목록을 보여줍니다.				
-UI_20220614_005319	Pergaminho para remover vínculo do Cinto da Introspecção	통찰의 허리띠 귀속 해제 스크롤				
+UI_20220614_005319	Pergaminho de Desvinculação do Cinto da Introspecção	통찰의 허리띠 귀속 해제 스크롤				
 UI_20220614_005320	{@st59}Cinto{/}	{@st59}허리띠{/}				
 UI_20220614_005321	{@st59}Equipar Equipamento (Alt+Z){/}	{@st59}해당 번호로 장비를 장착합니다(Alt+Z){/}				
-UI_20220614_005322	Status reajustavél	재설정 가능 옵션 보기				
+UI_20220614_005322	Status Reajustavél	재설정 가능 옵션 보기				
 UI_20220622_005323	A quantidade de pontos máxima que pode ser obtida reseta toda Segunda às 6 da manhã do servidor.{nl}Pontos podem ser obtidos com:{nl} {nl}- Conectar ao jogo: 10 pontos (5 pontos adicionais são ganhos para jogadores em guild e jogadores sobre efeitos de Token.{nl} - Sucesso na pesca: 1 ponto ganho por apanho.{nl}- Raid Lendária/Divina: 35 pontos.{nl}- Calabouço de nível: 10 pontos.{nl}(Pontos podem ser perdidos se sair antes do término do calabouço.){nl}- Missão diária: 10 pontos{nl}- Batalha em equipe : 50 pontos (Ganhos em ambas vitórias ou derrotas){nl}- Res Sacrae Raid (Normal): 20 pontos.{nl}- Res Sacrae Raid (Difícil) : 30 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드/가디스 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트
