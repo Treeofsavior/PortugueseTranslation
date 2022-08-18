@@ -1,4 +1,4 @@
-UI_20150317_000001	{@st41b}Aprender Atributos{nl}do respectivos mestres de cada classe.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
+UI_20150317_000001	{@st41b}Aprender Atributos{nl}dos respectivos mestres de cada classe.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
 UI_20150317_000002	{@st43}Lista de Atributos {/}	{@st43}특성 목록{/}				
 UI_20150317_000003	{@st59}Fechar{/}	{@st59}특성리스트를 닫습니다{/}				
 UI_20150317_000004	{@st43}Aprender Atributos{/}	{@st43}특성 배우기{/}				
@@ -5231,35 +5231,35 @@ UI_20220204_005230	Check Archeology Info.	고고학 정보를 확인합니다.
 UI_20220204_005231	{@st101lightbrown_16}Archaeology	{@st101lightbrown_16}고고학				
 UI_20220204_005232	{s24}{b}Create a new character{/}{/}	{s24}{b}신규 캐릭터를 생성합니다{/}{/}				
 UI_20220204_005233	{/}{s20}{b}[%s]{/}{nl}can be selected once the following conditions are met.{/}	{/}{s20}{b}[%s]{/}은{nl}다음 조건을 충족해야 선택할 수 있습니다.{/}				
-UI_20220204_005234	Gain +%s	획득 +%s				
-UI_20220204_005235	{@sti1c}{s14}Party Leader only Item	{@sti1c}{s14}파티장 전용 아이템				
-UI_20220204_005236	Count	사용 횟수				
+UI_20220204_005234	Ganho +%s	획득 +%s				
+UI_20220204_005235	{@sti1c}{s14}Somente lider do grupo	{@sti1c}{s14}파티장 전용 아이템				
+UI_20220204_005236	Usos	사용 횟수				
 UI_20220204_005237	460 charactername	460 캐릭터이름				
 UI_20220204_005238	460 character name	460 캐릭터 이름				
 UI_20220204_005239	Gorilla	고릴라는				
 UI_20220204_005240	Banana	바나나				
-UI_20220204_005241	{@st43}{s16}Shows the factor currently applied to the dungeon.{/}	{@st43}{s16}현재 던전에 적용된 요소를 나타냅니다.{/}				
-UI_20220426_005242	{@st43}{s22}Goddess' Glory{/}	{@st43}{s22}여신의 축복{/}				
-UI_20220426_005243	Skip Animation	애니메이션 스킵				
-UI_20220426_005244	{nl}{img %s 40 40}{@st42b}{s20}Open	{nl}{img %s 40 40}{@st42b}{s20}캡슐 개봉   				
+UI_20220204_005241	{@st43}{s16}Exibe o elemento da masmorra atual.{/}	{@st43}{s16}현재 던전에 적용된 요소를 나타냅니다.{/}				
+UI_20220426_005242	{@st43}{s22} Glória Divina{/}	{@st43}{s22}여신의 축복{/}				
+UI_20220426_005243	Pular animação	애니메이션 스킵				
+UI_20220426_005244	{nl}{img %s 40 40}{@st42b}{s20}Abrir	{nl}{img %s 40 40}{@st42b}{s20}캡슐 개봉   				
 UI_20220426_005245	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	UI_20210809_004743	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}{nl}*Velcoffer's Nest : 100 point{nl}*Earth Tower : 25 points per every 5th floor{nl}- Uphill Defense Mission: 10 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
-UI_20220426_005246	{@st43b}{s16}Contents List	{@st43b}{s16}콘텐츠 리스트				
-UI_20220426_005247	{@st43}Inherit Goddess Card Level{/}	{@st43}여신 카드 레벨 전승{/}				
-UI_20220426_005248	Please put the original card. 	원본 카드를 올려주세요				
-UI_20220426_005249	{@st59}Close{/}	{@st59}여신 카드 레벨 전승을 닫습니다{/}	UI_20210809_004756	{@st59}Close{/}	{@st59}여신 카드 복사를 닫습니다{/}	
-UI_20220426_005250	Inherit Goddess Card Level	여신 카드 레벨 전승				
-UI_20220426_005251	{#ff0000}※ The level of original card will remain when inheriting the Goddess card level.	{#ff0000}※ 여신 카드 레벨 전승 시 원본 카드의 레벨은 유지됩니다.				
-UI_20220426_005252	{@st41b}Inherit	{@st41b}전승	UI_20210809_004758	{@st41b}Copy	{@st41b}복사	
-UI_20220426_005253	{@st66d}{#ffcc33}{s18}Lv.%s{/}{/}{/}	{@st66d}{#ffcc33}{s18}%s레벨{/}{/}{/}				
-UI_20220426_005254	{@st59}Pilgrim Info{/}	{@st59}순례자 정보{/}				
-UI_20220426_005255	{@st59}Open Party{/}	{@st59}파티 펼쳐보기{/}				
+UI_20220426_005246	{@st43b}{s16})Lista de conteúdos	{@st43b}{s16}콘텐츠 리스트				
+UI_20220426_005247	{@st43}Herdar nível de Carta Divina {/}	{@st43}여신 카드 레벨 전승{/}				
+UI_20220426_005248	Coloque a carta original. 	원본 카드를 올려주세요				
+UI_20220426_005249	{@st59}Fechar{/}	{@st59}여신 카드 레벨 전승을 닫습니다{/}	UI_20210809_004756	{@st59}Close{/}	{@st59}여신 카드 복사를 닫습니다{/}	
+UI_20220426_005250	Herdar nível de Carta Divina	여신 카드 레벨 전승				
+UI_20220426_005251	{#ff0000}※ O nível da carta original se manterá ao herdar nível da Carta Divina.	{#ff0000}※ 여신 카드 레벨 전승 시 원본 카드의 레벨은 유지됩니다.				
+UI_20220426_005252	{@st41b}Herdar	{@st41b}전승	UI_20210809_004758	{@st41b}Copiar	{@st41b}복사	
+UI_20220426_005253	{@st66d}{#ffcc33}{s18}Nv.%s{/}{/}{/}	{@st66d}{#ffcc33}{s18}%s레벨{/}{/}{/}				
+UI_20220426_005254	{@st59}Info. de Peregrinação{/}	{@st59}순례자 정보{/}				
+UI_20220426_005255	{@st59}Abrir Grupo{/}	{@st59}파티 펼쳐보기{/}				
 UI_20220426_005256	PilgrimGroupName	순례자그룹이름				
-UI_20220426_005257	{@st41}{s20}Leave	{@st41}{s20}나가기				
-UI_20220426_005258	{@st41}{s18}Pilgrim List	{@st41}{s18}순례자 목록				
-UI_20220426_005259	Number of Death : 0	사망 횟수 : 0				
-UI_20220426_005260	{@st59}You can see the information of current season's trial.	{@st59}현재 시즌의 시련 정보를 확인할 수 있습니다.				
+UI_20220426_005257	{@st41}{s20}Sair	{@st41}{s20}나가기				
+UI_20220426_005258	{@st41}{s18}Lista de Peregrinos	{@st41}{s18}순례자 목록				
+UI_20220426_005259	Mortes : 0	사망 횟수 : 0				
+UI_20220426_005260	{@st59}Você pode conferir informações da provação na temporada atual.	{@st59}현재 시즌의 시련 정보를 확인할 수 있습니다.				
 UI_20220426_005261	{@st41}{s20}Info. de Provação	{@st41}{s20}시련 정보				
-UI_20220426_005262	Por favor selecione as informações da Provação. 	시련 정보를 선택해주세요 .				
+UI_20220426_005262	Por favor selecione as informações da provação. 	시련 정보를 선택해주세요 .				
 UI_20220426_005263	Diminui o Nível da Provação	시련 랭크 레벨을 낮춥니다.				
 UI_20220426_005264	Aumentar o Nível da Provação	시련 랭크 레벨을 올립니다.				
 UI_20220426_005265	{@st59}Peregrino, selecione a provação.	{@st59}순례자, 시련을 선택합니다.				
