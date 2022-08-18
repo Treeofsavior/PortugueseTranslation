@@ -1,4 +1,4 @@
-﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
+UI_20150317_000001	{@st41b}Aprender Atributos{nl}do respectivos mestres de cada classe.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
 UI_20150317_000002	{@st43}Lista de Atributos {/}	{@st43}특성 목록{/}				
 UI_20150317_000003	{@st59}Fechar{/}	{@st59}특성리스트를 닫습니다{/}				
 UI_20150317_000004	{@st43}Aprender Atributos{/}	{@st43}특성 배우기{/}				
@@ -5258,66 +5258,66 @@ UI_20220426_005257	{@st41}{s20}Leave	{@st41}{s20}나가기
 UI_20220426_005258	{@st41}{s18}Pilgrim List	{@st41}{s18}순례자 목록				
 UI_20220426_005259	Number of Death : 0	사망 횟수 : 0				
 UI_20220426_005260	{@st59}You can see the information of current season's trial.	{@st59}현재 시즌의 시련 정보를 확인할 수 있습니다.				
-UI_20220426_005261	{@st41}{s20}Trial Info	{@st41}{s20}시련 정보				
-UI_20220426_005262	Please select the Trial information. 	시련 정보를 선택해주세요 .				
-UI_20220426_005263	Decrease the Trial Rank Level	시련 랭크 레벨을 낮춥니다.				
-UI_20220426_005264	Increase the Trial Rank Level	시련 랭크 레벨을 올립니다.				
-UI_20220426_005265	{@st59}Pilgrim, selects the trial.	{@st59}순례자, 시련을 선택합니다.				
-UI_20220426_005266	{@st41}{s20}Trial	{@st41}{s20}시련				
-UI_20220426_005267	Select Pilgrim	순례자 선택				
-UI_20220426_005268	PiligramNameMax.7	순례자명최대7				
-UI_20220426_005269	Select Penalty	페널티 선택				
-UI_20220426_005270	{@st41}{s18}Ready	{@st41}{s18}준비 완료				
-UI_20220426_005271	Res Sacrae Gem Enhance Scroll	성물 젬 강화 스크롤				
-UI_20220426_005272	{@st43b}{s24}Pilgrim Info{/}	{@st43b}{s24}순례자 정보{/} 				
-UI_20220426_005273	{@st59}Close{/}	{@st59}순례자를 종료합니다{/}				
-UI_20220426_005274	Goddess Message Extreme	여신의 전언 익스트림				
-UI_20220426_005275	{img current_group_mark 16 16}{@ps1_1}{s16} Current Group	{img current_group_mark 16 16}{@ps1_1}{s16} 현재 그룹				
-UI_20220426_005276	Group Name	그룹 이름				
-UI_20220426_005277	Disband	해제하기				
-UI_20220426_005278	Leave	탈퇴하기				
-UI_20220426_005279	Create Group	그룹 생성				
-UI_20220426_005280	{@st202}{s16}Group Name{/}	{@st202}{s16}그룹 명{/}				
-UI_20220426_005281	{@st202}{s16}Play Time{/}	{@st202}{s16}플레이 시간{/}				
-UI_20220426_005282	Trial Rank	{@st202}{s16}시련 단계{/}				
-UI_20220426_005283	{@ps2}{s14}Play Record	{@ps2}{s14}플레이 기록				
-UI_20220426_005284	If there is a record of playing the content in this season,{nl}The best score of the current group during this season will be shown.	해당 시즌의 플레이 기록이 존재할 경우,{nl}현재 그룹의 해당 시즌 최고 기록이 표시됩니다.				
-UI_20220426_005285	Group Name	그룹명				
-UI_20220426_005286	{@42b}{s14}Ranking Period{nl}%s ~ %s	{@42b}{s14}랭킹 기간{nl}%s ~ %s				
-UI_20220426_005287	{@st66b}Evolution Stone Effect Resolution(%s){/}	{@st66b}진화석 이펙트 선명도(%s){/}				
-UI_20220426_005288	There are no items to use.	사용할 수 있는 아이템이 없습니다.	ETC_20150317_001734	Indeciso	미정	
-UI_20220426_005289	{@st42}{s20}Squad Name	{@st42}{s20}스쿼드 이름				
+UI_20220426_005261	{@st41}{s20}Info. de Provação	{@st41}{s20}시련 정보				
+UI_20220426_005262	Por favor selecione as informações da Provação. 	시련 정보를 선택해주세요 .				
+UI_20220426_005263	Diminui o Nível da Provação	시련 랭크 레벨을 낮춥니다.				
+UI_20220426_005264	Aumentar o Nível da Provação	시련 랭크 레벨을 올립니다.				
+UI_20220426_005265	{@st59}Peregrino, selecione a provação.	{@st59}순례자, 시련을 선택합니다.				
+UI_20220426_005266	{@st41}{s20}Provação	{@st41}{s20}시련				
+UI_20220426_005267	Selecionar Peregrinação	순례자 선택				
+UI_20220426_005268	Nome de Peregrinação (Max. 7)	순례자명최대7				
+UI_20220426_005269	Selecionar Penalidade	페널티 선택				
+UI_20220426_005270	{@st41}{s18}Pronto	{@st41}{s18}준비 완료				
+UI_20220426_005271	Pergaminho de Melhoria da Gema Res Sacrae	성물 젬 강화 스크롤				
+UI_20220426_005272	{@st43b}{s24} Informação da Peregrinação {/}	{@st43b}{s24}순례자 정보{/} 				
+UI_20220426_005273	{@st59}Fechar{/}	{@st59}순례자를 종료합니다{/}				
+UI_20220426_005274	Mensagem Divina Extrema	여신의 전언 익스트림				
+UI_20220426_005275	{img current_group_mark 16 16}{@ps1_1}{s16} Grupo Atual	{img current_group_mark 16 16}{@ps1_1}{s16} 현재 그룹				
+UI_20220426_005276	Nome do Grupo	그룹 이름				
+UI_20220426_005277	Dissolver	해제하기				
+UI_20220426_005278	Sair	탈퇴하기				
+UI_20220426_005279	Criar Grupo	그룹 생성				
+UI_20220426_005280	{@st202}{s16}Nome do Grupo{/}	{@st202}{s16}그룹 명{/}				
+UI_20220426_005281	{@st202}{s16}Tempo da Tentativa{/}	{@st202}{s16}플레이 시간{/}				
+UI_20220426_005282	Nível da Provação {@st202}{s16}시련 단계{/}				
+UI_20220426_005283	{@ps2}{s14}Registro de Tentativa {@ps2}{s14}플레이 기록				
+UI_20220426_005284	Se houver um registro de tentativa nesta temporada,{nl}A melhor tentativa do grupo atual durante a temporada será exibida.	해당 시즌의 플레이 기록이 존재할 경우,{nl}현재 그룹의 해당 시즌 최고 기록이 표시됩니다.				
+UI_20220426_005285	Nome do Grupo	그룹명				
+UI_20220426_005286	{@42b}{s14} Período de classificação{nl}%s ~ %s	{@42b}{s14}랭킹 기간{nl}%s ~ %s				
+UI_20220426_005287	{@st66b} Resolução do efeito da Pedra de Evolução(%s){/}	{@st66b}진화석 이펙트 선명도(%s){/}				
+UI_20220426_005288	Não existe itens para serem usados.	사용할 수 있는 아이템이 없습니다.	ETC_20150317_001734	Indeciso	미정	
+UI_20220426_005289	{@st42}{s20}Nome do esquadrão	{@st42}{s20}스쿼드 이름				
 UI_20220614_005290	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid (Normal): 20 points{nl}- Res Sacrae Raid (Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트	UI_20220426_005245	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
-UI_20220614_005291	{@st106_lbr}{s20}Equipment	{@st106_lbr}{s20}장비				
-UI_20220614_005292	{@st106_lbr}{s20}Appearance	{@st106_lbr}{s20}외형				
-UI_20220614_005293	{@st41b}{s20}Fragmentize Item	{@st41b}{s20}아이템 파편화	UI_20220204_005136	{@st41b}{s20}Fragmentize Earring	{@st41b}{s20}귀걸이 파편화	
-UI_20220614_005294	{@st59}Skill Gem{/}	{@st59}스킬 젬{/}				
-UI_20220614_005295	{@st59}Res Sacrae Gem{/}	{@st59}성물 젬{/}				
-UI_20220614_005296	{@st202}{s18}Basic Probability{/}{/}	{@st202}{s18}기본 확률{/}{/}				
-UI_20220614_005297	{@st202}{s18}Failure Adjusted Probability{/}{/}	{@st202}{s18}누적 실패 보정{/}{/}				
-UI_20220614_005298	{@st202}{s18}Success Probability{/}{/}	{@st202}{s18}성공 확률{/}{/}				
-UI_20220614_005299	{@st202}Coupon Status{/}	{@st202}보유 쿠폰{/}				
-UI_20220614_005300	{@st202}{s16}Skip Confirmation	{@st202}{s16}확인 생략				
-UI_20220614_005301	%s Enter search keyword (Example: %s )	%s 검색 키워드 입력 (예시: %s )				
-UI_20220614_005302	Keyword	키워드				
-UI_20220614_005303	{@st59}Select the class within the main class{/}	{@st59}계열 내 세부직업을 선택하세요{/}				
-UI_20220614_005304	All of the Selected Class	해당 클래스 전체				
+UI_20220614_005291	{@st106_lbr}{s20}Equipmento	{@st106_lbr}{s20}장비				
+UI_20220614_005292	{@st106_lbr}{s20}Aparência	{@st106_lbr}{s20}외형				
+UI_20220614_005293	{@st41b}{s20}Fragmentar Item	{@st41b}{s20}아이템 파편화	UI_20220204_005136	{@st41b}{s20}Fragmentar Brinco	{@st41b}{s20}귀걸이 파편화	
+UI_20220614_005294	{@st59}Gemas de Habilidade{/}	{@st59}스킬 젬{/}				
+UI_20220614_005295	{@st59}Gemas Res Sacrae{/}	{@st59}성물 젬{/}				
+UI_20220614_005296	{@st202}{s18}Probabilidade Básica.{/}{/}	{@st202}{s18}기본 확률{/}{/}				
+UI_20220614_005297	{@st202}{s18} Probabilidade com ajust das falhas.{/}{/}	{@st202}{s18}누적 실패 보정{/}{/}				
+UI_20220614_005298	{@st202}{s18}Probabilidade de Sucesso{/}{/}	{@st202}{s18}성공 확률{/}{/}				
+UI_20220614_005299	{@st202}{/}	{@st202}Cupons em Posse{/}				
+UI_20220614_005300	{@st202}{s16}Pular Confirmação	{@st202}{s16}확인 생략				
+UI_20220614_005301	%s Entre a palavra chave (Exemplo: %s )	%s 검색 키워드 입력 (예시: %s )				
+UI_20220614_005302	Palavra-chave	키워드				
+UI_20220614_005303	{@st59}Selecione a classe da árvore selecionada{/}	{@st59}계열 내 세부직업을 선택하세요{/}				
+UI_20220614_005304	Todas as classes selecionadas	해당 클래스 전체				
 UI_20220614_005305	{@st66b}{s16}Cyan	{@st66b}{s16}시안				
-UI_20220614_005306	Cyan	시안				
+UI_20220614_005306	Ciano	시안				
 UI_20220614_005307	{@st66b}{s16}Magenta	{@st66b}{s16}마젠타				
 UI_20220614_005308	Magenta	마젠타				
-UI_20220614_005309	{@st66b}{s16}Black	{@st66b}{s16}블랙				
-UI_20220614_005310	{img star_mark 20 20}Collection Progress{img star_mark 20 20}	★수집 달성도★				
-UI_20220614_005311	{@st41}{s18}Selected Class : {@st45ty}{s20}%s{@st41}{s18}/%s{/}	{@st41}{s18}선택 계열 : {@st45ty}{s20}%s{@st41}{s18}/%s{/}				
-UI_20220614_005312	{@st41}{s18}All: {@st45ty}{s20}%s{@st41}{s18}/%s{/}	{@st41}{s18}전체: {@st45ty}{s20}%s{@st41}{s18}/%s{/}				
-UI_20220614_005313	Reset Item Stat	아이템 옵션 재설정				
-UI_20220614_005314	{@st43b}{s18}Available Stat	{@st43b}{s18}선택 가능 옵션				
-UI_20220614_005315	Reset	재설정				
-UI_20220614_005316	{@st66b}* Stat group(color) does not change when reset,{nl} and only the kind and value of the stat changes.{/}	{@st66b}* 재설정시 옵션 그룹(색상)은 유지되며, {nl}세부 옵션과 옵션 수치만 변경 가능합니다.{/}				
-UI_20220614_005317	Resettable Stat	재설정 가능 옵션				
-UI_20220614_005318	Displays a list of resettable stats.	재설정 가능한 옵션 목록을 보여줍니다.				
-UI_20220614_005319	Belt of Insight Bound Removal Scroll	통찰의 허리띠 귀속 해제 스크롤				
-UI_20220614_005320	{@st59}Belt{/}	{@st59}허리띠{/}				
-UI_20220614_005321	{@st59}Equip Equipment (Alt+Z){/}	{@st59}해당 번호로 장비를 장착합니다(Alt+Z){/}				
-UI_20220614_005322	Resettable Stat	재설정 가능 옵션 보기				
-UI_20220622_005323	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend/Goddess Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid (Normal): 20 points{nl}- Res Sacrae Raid (Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드/가디스 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트
+UI_20220614_005309	{@st66b}{s16}Preta	{@st66b}{s16}블랙				
+UI_20220614_005310	{img star_mark 20 20}Progresso da coleção{img star_mark 20 20}	★수집 달성도★				
+UI_20220614_005311	{@st41}{s18}Classe selecionada : {@st45ty}{s20}%s{@st41}{s18}/%s{/}	{@st41}{s18}선택 계열 : {@st45ty}{s20}%s{@st41}{s18}/%s{/}				
+UI_20220614_005312	{@st41}{s18}Todos: {@st45ty}{s20}%s{@st41}{s18}/%s{/}	{@st41}{s18}전체: {@st45ty}{s20}%s{@st41}{s18}/%s{/}				
+UI_20220614_005313	Reajuste de Status do Item	아이템 옵션 재설정				
+UI_20220614_005314	{@st43b}{s18}Status Disponível	{@st43b}{s18}선택 가능 옵션				
+UI_20220614_005315	Reajustar	재설정				
+UI_20220614_005316	{@st66b}* Grupo do status (Cor) não muda quando reajustado,{nl} e somente o tipo e valor do status muda.{/}	{@st66b}* 재설정시 옵션 그룹(색상)은 유지되며, {nl}세부 옵션과 옵션 수치만 변경 가능합니다.{/}				
+UI_20220614_005317	Status reajustavél	재설정 가능 옵션				
+UI_20220614_005318	Mostra uma lista de status reajustavéis.	재설정 가능한 옵션 목록을 보여줍니다.				
+UI_20220614_005319	Pergaminho para remover vínculo do Cinto da Introspecção	통찰의 허리띠 귀속 해제 스크롤				
+UI_20220614_005320	{@st59}Cinto{/}	{@st59}허리띠{/}				
+UI_20220614_005321	{@st59}Equipar Equipamento (Alt+Z){/}	{@st59}해당 번호로 장비를 장착합니다(Alt+Z){/}				
+UI_20220614_005322	Status reajustavél	재설정 가능 옵션 보기				
+UI_20220622_005323	A quantidade de pontos máxima que pode ser obtida reseta toda Segunda às 6 da manhã do servidor.{nl}Pontos podem ser obtidos com:{nl} {nl}- Conectar ao jogo: 10 pontos (5 pontos adicionais são ganhos para jogadores em guild e jogadores sobre efeitos de Token.{nl} - Sucesso na pesca: 1 ponto ganho por apanho.{nl}- Raid Lendária/Divina: 35 pontos.{nl}- Calabouço de nível: 10 pontos.{nl}(Pontos podem ser perdidos se sair antes do término do calabouço.){nl}- Missão diária: 10 pontos{nl}- Batalha em equipe : 50 pontos (Ganhos em ambas vitórias ou derrotas){nl}- Res Sacrae Raid (Normal): 20 pontos.{nl}- Res Sacrae Raid (Difícil) : 30 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드/가디스 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트
