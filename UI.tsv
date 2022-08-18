@@ -5176,39 +5176,39 @@ UI_20220204_005175	{@st43b}{s20}Request Participation	{@st43b}{s20}참가신청
 UI_20220204_005176	{@ps1_1}{s16}Condition to Join Party	{@ps1_1}{s16}파티 참가 조건				
 UI_20220204_005177	{@sti1c}{s16}Attribute Achievement Rate(%)	{@sti1c}{s16}특성 달성률(%)				
 UI_20220204_005178	{@sti1c}{s16}Gear Score	{@sti1c}{s16}기어 스코어				
-UI_20220204_005179	{@sti1c}{s16}Res Sacrae Level	{@sti1c}{s16}성물 레벨				
+UI_20220204_005179	{@sti1c}{s16}Nível Res Sacrae	{@sti1c}{s16}성물 레벨				
 UI_20220204_005180	{@st105_y_16}{s14}{@st43b}{s20} 19:59 {@st105_y_16}{s14} left until the recruitment deletion	{@st105_y_16}{s14}모집 공고 자동 삭제까지{@st43b}{s20} 19:59 {@st105_y_16}{s14}남았습니다				
 UI_20220204_005181	{img ps_icon_input 20 20}{@st66b}{s16}Recruitment Title	{img ps_icon_input 20 20}{@st66b}{s16}공고 제목				
-UI_20220204_005182	Please enter the title of Party Recruitment	파티공고 제목을 입력해주세요				
-UI_20220204_005183	{img ps_icon_input 20 20}{@st66b}{s16}Condition to Join Party	{img ps_icon_input 20 20}{@st66b}{s16}파티 참가 조건				
-UI_20220204_005184	Register Party Recruitment	파티 모집 공고 등록				
-UI_20220204_005185	{@st43}Arcanum Crafting{/}	{@st43}비약 연성술{/}				
+UI_20220204_005182	Entre o título do Recrutamento	파티공고 제목을 입력해주세요				
+UI_20220204_005183	{img ps_icon_input 20 20}{@st66b}{s16}Condições para se juntar ao Grupo	{img ps_icon_input 20 20}{@st66b}{s16}파티 참가 조건				
+UI_20220204_005184	Registrar Recrutamento de Grupo	파티 모집 공고 등록				
+UI_20220204_005185	{@st43}Construção Arcana{/}	{@st43}비약 연성술{/}				
 UI_20220204_005186	{@st59}Close the Arcanum Crafting window{/}	{@st59}비약 연성술 창을 닫습니다{/}				
-UI_20220204_005187	{@st59}Click to see the Help of Arcanum Brewing{/}	{@st59}비약 연성술 도움말을 보려면 클릭하세요{/}				
-UI_20220204_005188	{@st43}{s18}Remaining Time ({@st47}{s18}%s{/}{/}){/}{/}	{@st43}{s18}남은 시간 ({@st47}{s18}%s{/}{/}){/}{/}				
-UI_20220204_005189	Completion Level	완성도				
-UI_20220204_005190	Neutralize Left	남은 중화 횟수				
+UI_20220204_005187	{@st59}Clique para obter ajuda sobre Fermentação Arcana{/}	{@st59}비약 연성술 도움말을 보려면 클릭하세요{/}				
+UI_20220204_005188	{@st43}{s18}Tempo Restante ({@st47}{s18}%s{/}{/}){/}{/}	{@st43}{s18}남은 시간 ({@st47}{s18}%s{/}{/}){/}{/}				
+UI_20220204_005189	Nível de Conclusão	완성도				
+UI_20220204_005190	Neutralizadores Restantes	남은 중화 횟수				
 UI_20220204_005191	{@sti1c}{s14}Material{/}{/}	{@sti1c}{s14}합성 재료{/}{/}				
 UI_20220204_005192	{@st59}Material{/}	{@st59}합성 재료{/}				
-UI_20220204_005193	{@sti1c}{s11}Neutralizer{/}{/}	{@sti1c}{s14}중화제{/}{/}				
-UI_20220204_005194	{@st59}Neutralizer{/}	{@st59}중화제{/}				
-UI_20220204_005195	{@st59}Insert the Combining Material{/}	{@st59}합성 재료를 올려주세요{/}				
-UI_20220204_005196	{@st59}Start Combining{/}	{@st59}합성 시작{/}				
-UI_20220204_005197	{@st59}Insert the Neutralizer{/}	{@st59}중화제를 올려주세요{/}				
-UI_20220204_005198	{@st45tw2}Personal Highest Record	{@st45tw2}개인 최고 기록				
-UI_20220204_005199	{@st45tw2}Friend	{@st45tw2}친구				
-UI_20220204_005200	{@st43}{#ffcc33}{s14}Highest Record!	{@st43}{#ffcc33}{s14}최고 기록 경신!				
-UI_20220204_005201	{@st202}Coupon Status▶{/}	{@st202}보유 쿠폰 ▶{/}				
-UI_20220204_005202	{@st202}Consume Coupon ▶{/}	{@st202}쿠폰 소모 ▶{/}				
-UI_20220204_005203	{@st43}Sell Relief Supply{/}	{@st43}구호 물품 판매{/}				
-UI_20220204_005204	{@st41b}Sell{/}	{@st41b}판매{/}				
-UI_20220204_005205	{@st59}Party{/}	{@st59}파티{/}				
-UI_20220204_005206	{@st66b}Maximum Number of Particle(%s){/}	{@st66b}최대 파티클 개수(%s){/}				
-UI_20220204_005207	{@st59}Greatly affects the performance. If too low, some effects may not be seen. Applied after the restart.{/}	{@st59}성능에 큰 영향을 미칩니다. 너무 적으면 일부 효과가 안보일 수 있습니다. 재시작 후 적용됩니다.{/}				
-UI_20220204_005208	Goddess Accessory Bound Removal Scroll	가디스 액세서리 귀속 해제 스크롤				
-UI_20220204_005209	{@st66}Use to remove the Bound.{/}	{@st66}사용 시 귀속 상태가 해제됩니다.{/}				
-UI_20220204_005210	Remove Bound	귀속 해제				
-UI_20220204_005211	Pergaminho de Desvinculação do Brinco de Chamas.	화염불꽃 귀걸이 귀속 해제 스크롤				
+UI_20220204_005193	{@sti1c}{s11}Neutralizador{/}{/}	{@sti1c}{s14}중화제{/}{/}				
+UI_20220204_005194	{@st59}Neutralizador{/}	{@st59}중화제{/}				
+UI_20220204_005195	{@st59}Insirir o Material de Combinação{/}	{@st59}합성 재료를 올려주세요{/}				
+UI_20220204_005196	{@st59}Comece a Combinar{/}	{@st59}합성 시작{/}				
+UI_20220204_005197	{@st59}Insira o Neutralizador{/}	{@st59}중화제를 올려주세요{/}				
+UI_20220204_005198	{@st45tw2}Seu Maior Recorde	{@st45tw2}개인 최고 기록				
+UI_20220204_005199	{@st45tw2}Amigo	{@st45tw2}친구				
+UI_20220204_005200	{@st43}{#ffcc33}{s14}Atingiu seu melhor recorde!	{@st43}{#ffcc33}{s14}최고 기록 경신!				
+UI_20220204_005201	{@st202}Status do Cupom ▶{/}	{@st202}보유 쿠폰 ▶{/}				
+UI_20220204_005202	{@st202}Usar Cupom ▶{/}	{@st202}쿠폰 소모 ▶{/}				
+UI_20220204_005203	{@st43}Vender Mantimentos de Socorro{/}	{@st43}구호 물품 판매{/}				
+UI_20220204_005204	{@st41b}Vender{/}	{@st41b}판매{/}				
+UI_20220204_005205	{@st59}Grupó{/}	{@st59}파티{/}				
+UI_20220204_005206	{@st66b}Número Máximo de Partículas(%s){/}	{@st66b}최대 파티클 개수(%s){/}				
+UI_20220204_005207	{@st59}Alto impacto na perfomance. Se muito baixo, alguns efeitos podem não ser vistos. Necessário reiniciar.{/}	{@st59}성능에 큰 영향을 미칩니다. 너무 적으면 일부 효과가 안보일 수 있습니다. 재시작 후 적용됩니다.{/}				
+UI_20220204_005208	Pergaminho de Desvinculação de Acessório Divino	가디스 액세서리 귀속 해제 스크롤				
+UI_20220204_005209	{@st66}Use para desvincular.{/}	{@st66}사용 시 귀속 상태가 해제됩니다.{/}				
+UI_20220204_005210	Desvincular	귀속 해제				
+UI_20220204_005211	Pergaminho de Desvinculação do Brinco da Chama Ardente.	화염불꽃 귀걸이 귀속 해제 스크롤				
 UI_20220204_005212	{@st66}x%s pergaminho(s) necessário(s) para desvincular.{/}	{@st66}귀속 해제를 위해 %s개의 스크롤이 필요합니다.{/}				
 UI_20220204_005213	{@st66}É necessário o mesmo nível do pergaminho para desvincular.{/}	{@st66}귀속 해제를 위해 등급과 같은 수의 스크롤이 필요합니다.{/}				
 UI_20220204_005214	Pergaminho de Desvinculação do Equipamento Vasilisa	바실리사 장비 귀속 해제 스크롤				
@@ -5239,15 +5239,15 @@ UI_20220204_005238	460 character name	460 캐릭터 이름
 UI_20220204_005239	Gorilla	고릴라는				
 UI_20220204_005240	Banana	바나나				
 UI_20220204_005241	{@st43}{s16}Exibe o elemento da masmorra atual.{/}	{@st43}{s16}현재 던전에 적용된 요소를 나타냅니다.{/}				
-UI_20220426_005242	{@st43}{s22} Glória Divina{/}	{@st43}{s22}여신의 축복{/}				
+UI_20220426_005242	{@st43}{s22}Glória Divina{/}	{@st43}{s22}여신의 축복{/}				
 UI_20220426_005243	Pular animação	애니메이션 스킵				
 UI_20220426_005244	{nl}{img %s 40 40}{@st42b}{s20}Abrir	{nl}{img %s 40 40}{@st42b}{s20}캡슐 개봉   				
-UI_20220426_005245	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	UI_20210809_004743	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}{nl}*Velcoffer's Nest : 100 point{nl}*Earth Tower : 25 points per every 5th floor{nl}- Uphill Defense Mission: 10 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
+UI_20220426_005245	O máximo de pontos que pode ser obtida reseta toda Segunda às 6 da manhã do servidor.{nl}Pontos podem ser obtidos com:{nl} {nl}- Conectar ao jogo: 10 pontos (5 pontos adicionais são ganhos para jogadores em guild e jogadores sobre efeitos de Token.{nl} - Sucesso na pesca: 1 ponto ganho por apanho.{nl}- Raid Lendária/Divina: 35 pontos.{nl}- Calabouço de nível: 10 pontos.{nl}(Pontos podem ser perdidos se sair antes do término do calabouço.){nl}- Missão diária: 10 pontos{nl}- Batalha em equipe : 50 pontos (Ganho em vitórias ou derrotas){nl}- Res Sacrae Raid (Normal): 20 pontos.{nl}- Res Sacrae Raid (Difícil) : 30 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	UI_20210809_004743	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}{nl}*Velcoffer's Nest : 100 point{nl}*Earth Tower : 25 points per every 5th floor{nl}- Uphill Defense Mission: 10 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
 UI_20220426_005246	{@st43b}{s16})Lista de conteúdos	{@st43b}{s16}콘텐츠 리스트				
 UI_20220426_005247	{@st43}Herdar nível de Carta Divina {/}	{@st43}여신 카드 레벨 전승{/}				
 UI_20220426_005248	Coloque a carta original. 	원본 카드를 올려주세요				
 UI_20220426_005249	{@st59}Fechar{/}	{@st59}여신 카드 레벨 전승을 닫습니다{/}	UI_20210809_004756	{@st59}Close{/}	{@st59}여신 카드 복사를 닫습니다{/}	
-UI_20220426_005250	Herdar nível de Carta Divina	여신 카드 레벨 전승				
+UI_20220426_005250	Herdar Nível de Carta Divina	여신 카드 레벨 전승				
 UI_20220426_005251	{#ff0000}※ O nível da carta original se manterá ao herdar nível da Carta Divina.	{#ff0000}※ 여신 카드 레벨 전승 시 원본 카드의 레벨은 유지됩니다.				
 UI_20220426_005252	{@st41b}Herdar	{@st41b}전승	UI_20210809_004758	{@st41b}Copiar	{@st41b}복사	
 UI_20220426_005253	{@st66d}{#ffcc33}{s18}Nv.%s{/}{/}{/}	{@st66d}{#ffcc33}{s18}%s레벨{/}{/}{/}				
@@ -5284,25 +5284,25 @@ UI_20220426_005283	{@ps2}{s14}Registro de Tentativa {@ps2}{s14}플레이 기록
 UI_20220426_005284	Se houver um registro de tentativa nesta temporada,{nl}A melhor tentativa do grupo atual durante a temporada será exibida.	해당 시즌의 플레이 기록이 존재할 경우,{nl}현재 그룹의 해당 시즌 최고 기록이 표시됩니다.				
 UI_20220426_005285	Nome do Grupo	그룹명				
 UI_20220426_005286	{@42b}{s14} Período de classificação{nl}%s ~ %s	{@42b}{s14}랭킹 기간{nl}%s ~ %s				
-UI_20220426_005287	{@st66b} Resolução do efeito da Pedra de Evolução(%s){/}	{@st66b}진화석 이펙트 선명도(%s){/}				
+UI_20220426_005287	{@st66b} Brilho do Efeito de Evolução(%s){/}	{@st66b}진화석 이펙트 선명도(%s){/}				
 UI_20220426_005288	Não existe itens para serem usados.	사용할 수 있는 아이템이 없습니다.	ETC_20150317_001734	Indeciso	미정	
 UI_20220426_005289	{@st42}{s20}Nome do esquadrão	{@st42}{s20}스쿼드 이름				
-UI_20220614_005290	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid (Normal): 20 points{nl}- Res Sacrae Raid (Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트	UI_20220426_005245	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
+UI_20220614_005290	O máximo de pontos que pode ser obtida reseta toda Segunda às 6 da manhã do servidor.{nl}Pontos podem ser obtidos com:{nl} {nl}- Conectar ao jogo: 10 pontos (5 pontos adicionais são ganhos para jogadores em guild e jogadores sobre efeitos de Token.{nl} - Sucesso na pesca: 1 ponto ganho por apanho.{nl}- Raid Lendária/Divina: 35 pontos.{nl}- Calabouço de nível: 10 pontos.{nl}(Pontos podem ser perdidos se sair antes do término do calabouço.){nl}- Missão diária: 10 pontos{nl}- Batalha em equipe : 50 pontos (Ganho em vitórias ou derrotas){nl}- Res Sacrae Raid (Normal): 20 pontos.{nl}- Res Sacrae Raid (Difícil) : 30 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트	UI_20220426_005245	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
 UI_20220614_005291	{@st106_lbr}{s20}Equipmento	{@st106_lbr}{s20}장비				
 UI_20220614_005292	{@st106_lbr}{s20}Aparência	{@st106_lbr}{s20}외형				
 UI_20220614_005293	{@st41b}{s20}Fragmentar Item	{@st41b}{s20}아이템 파편화	UI_20220204_005136	{@st41b}{s20}Fragmentar Brinco	{@st41b}{s20}귀걸이 파편화	
 UI_20220614_005294	{@st59}Gemas de Habilidade{/}	{@st59}스킬 젬{/}				
 UI_20220614_005295	{@st59}Gemas Res Sacrae{/}	{@st59}성물 젬{/}				
 UI_20220614_005296	{@st202}{s18}Probabilidade Básica.{/}{/}	{@st202}{s18}기본 확률{/}{/}				
-UI_20220614_005297	{@st202}{s18} Probabilidade com ajust das falhas.{/}{/}	{@st202}{s18}누적 실패 보정{/}{/}				
+UI_20220614_005297	{@st202}{s18}Probabilidade com ajuste de falhas.{/}{/}	{@st202}{s18}누적 실패 보정{/}{/}				
 UI_20220614_005298	{@st202}{s18}Probabilidade de Sucesso{/}{/}	{@st202}{s18}성공 확률{/}{/}				
 UI_20220614_005299	{@st202}{/}	{@st202}Cupons em Posse{/}				
 UI_20220614_005300	{@st202}{s16}Pular Confirmação	{@st202}{s16}확인 생략				
 UI_20220614_005301	%s Entre a palavra chave (Exemplo: %s )	%s 검색 키워드 입력 (예시: %s )				
 UI_20220614_005302	Palavra-chave	키워드				
 UI_20220614_005303	{@st59}Selecione a classe da árvore selecionada{/}	{@st59}계열 내 세부직업을 선택하세요{/}				
-UI_20220614_005304	Todas as classes selecionadas	해당 클래스 전체				
-UI_20220614_005305	{@st66b}{s16}Cyan	{@st66b}{s16}시안				
+UI_20220614_005304	Classes selecionadas	해당 클래스 전체				
+UI_20220614_005305	{@st66b}{s16}Ciano	{@st66b}{s16}시안				
 UI_20220614_005306	Ciano	시안				
 UI_20220614_005307	{@st66b}{s16}Magenta	{@st66b}{s16}마젠타				
 UI_20220614_005308	Magenta	마젠타				
@@ -5318,6 +5318,6 @@ UI_20220614_005317	Status Reajustavél	재설정 가능 옵션
 UI_20220614_005318	Mostra uma lista de status reajustavéis.	재설정 가능한 옵션 목록을 보여줍니다.				
 UI_20220614_005319	Pergaminho de Desvinculação do Cinto da Introspecção	통찰의 허리띠 귀속 해제 스크롤				
 UI_20220614_005320	{@st59}Cinto{/}	{@st59}허리띠{/}				
-UI_20220614_005321	{@st59}Equipar Equipamento (Alt+Z){/}	{@st59}해당 번호로 장비를 장착합니다(Alt+Z){/}				
+UI_20220614_005321	{@st59}Equipar Item (Alt+Z){/}	{@st59}해당 번호로 장비를 장착합니다(Alt+Z){/}				
 UI_20220614_005322	Status Reajustavél	재설정 가능 옵션 보기				
-UI_20220622_005323	A quantidade de pontos máxima que pode ser obtida reseta toda Segunda às 6 da manhã do servidor.{nl}Pontos podem ser obtidos com:{nl} {nl}- Conectar ao jogo: 10 pontos (5 pontos adicionais são ganhos para jogadores em guild e jogadores sobre efeitos de Token.{nl} - Sucesso na pesca: 1 ponto ganho por apanho.{nl}- Raid Lendária/Divina: 35 pontos.{nl}- Calabouço de nível: 10 pontos.{nl}(Pontos podem ser perdidos se sair antes do término do calabouço.){nl}- Missão diária: 10 pontos{nl}- Batalha em equipe : 50 pontos (Ganhos em ambas vitórias ou derrotas){nl}- Res Sacrae Raid (Normal): 20 pontos.{nl}- Res Sacrae Raid (Difícil) : 30 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드/가디스 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트
+UI_20220622_005323	O máximo de pontos que pode ser obtida reseta toda Segunda às 6 da manhã do servidor.{nl}Pontos podem ser obtidos com:{nl} {nl}- Conectar ao jogo: 10 pontos (5 pontos adicionais são ganhos para jogadores em guild e jogadores sobre efeitos de Token.{nl} - Sucesso na pesca: 1 ponto ganho por apanho.{nl}- Raid Lendária/Divina: 35 pontos.{nl}- Calabouço de nível: 10 pontos.{nl}(Pontos podem ser perdidos se sair antes do término do calabouço.){nl}- Missão diária: 10 pontos{nl}- Batalha em equipe : 50 pontos (Ganhos em vitórias ou derrotas){nl}- Res Sacrae Raid (Normal): 20 pontos.{nl}- Res Sacrae Raid (Difícil) : 30 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드/가디스 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트
