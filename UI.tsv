@@ -5136,9 +5136,9 @@ UI_20220204_005135	One{nl}Two{nl}Three{nl}Four{nl}Five	하나{nl}두울{nl}세�
 UI_20220204_005136	{@st41b}{s20}Fragmentize Earring	{@st41b}{s20}귀걸이 파편화				
 UI_20220204_005137	Fragmentize	파편화				
 UI_20220204_005138	{@st43}{s18}Up to %s fragments can be received.	{@st43}{s18}최대 %s개의 파편을 획득할 수 있습니다.				
-UI_20220204_005139	{@st43}{s24}Gear Score Ranking	{@st43}{s24}기어스코어 랭킹				
-UI_20220204_005140	{@st66b}{s16}Character Name	{@st66b}{s16}캐릭터명				
-UI_20220204_005141	{@st66b}{s16}Gear Score	{@st66b}{s16}기어스코어				
+UI_20220204_005139	{@st43}{s24}Rank de Equipamento	{@st43}{s24}기어스코어 랭킹				
+UI_20220204_005140	{@st66b}{s16}Nome do Persoangem	{@st66b}{s16}캐릭터명				
+UI_20220204_005141	{@st66b}{s16}Pontuação de Equipamento	{@st66b}{s16}기어스코어				
 UI_20220204_005142	.{nl} {nl}{s20}Craft{nl} {s18}- Craft Goddess rank equipment with ingredients obtained from Goddess raid.{nl} {nl}{s20}Succession{nl} {s18}- Craft equipment of next level with Lv.440 Legend rank or above equipment.{nl}You can partially transfer the stat of the equipment used for crafting according to conditions.{nl} {nl}{s20}Type Change{nl} {s18}- By using an appropriate equipment level 	로 개방할 수 있습니다.{nl} {nl}{s20}제작{nl} {s18}- 가디스 레이드에서 획득한 재료로 가디스 장비를 제작할 수 있습니다.{nl} {nl}{s20}계승{nl} {s18}- Lv.440 레전드 등급 이상의 장비로 다음 레벨의 장비를 제작합니다.{nl}제작 시 조건에 따라 제작에 사용 된 장비 옵션의 일부를 이전할 수 있습니다.{nl} {nl}{s20}계열 변경{nl} {s18}- 장비 레벨에 맞는 	UI_20210809_004762	.{nl} {nl}{s20}Craft{nl} {s18}- Craft Goddess rank equipment with ingredients obtained from Goddess raid.{nl} {nl}{s20}Succession{nl} {s18}- Craft Goddess rank equipment by using Lv.440 Legend rank equipment as an ingredient.{nl}You can partially transfer the enhancement and enchant stat value to the Goddess rank equipment according to the enhancement and transcendence stage of the Legend rank equipment used as an ingredient.{nl} {nl}{s20}Type Change{nl} {s18}- By using an appropriate equipment level 	로 개방할 수 있습니다.{nl} {nl}{s20}제작{nl} {s18}- 가디스 레이드에서 획득한 재료로 가디스 장비를 제작할 수 있습니다.{nl} {nl}{s20}계승{nl} {s18}- Lv.440 레전드 등급 장비를 재료로 가디스 장비를 제작합니다.{nl}제작 시 레전드 등급 장비의 강화, 초월 단계에 따라 강화, 인챈트 옵션 수치를 일부 이전할 수 있습니다.{nl} {nl}{s20}계열 변경{nl} {s18}- 장비 레벨에 맞는 	
 UI_20220204_005143	{@sti1c}{s17}※Condition for Succession{nl} - Lv.440 Legend equipment{nl}   ** TRA 8 or above{nl} {nl}※Stat and value that can be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 10 or below or TRA 9 or below{nl}   **Cannot be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 11 or above or TRA 10 or above{nl}   **Transfers 66% of [ENH], [Enchant Stat] {nl} - Lv.440 Legend Accessory{nl}   **Transfers 50% of [ENH]{nl} {nl} {nl}{#11cc88} ※Maximum ENH value transferred when succeeding Lv.440 Legend Weapon/Armor is 14.{nl} ※ [Lv.460] Enhance Aid will be given for equipment with ENH value is 21 or above when succeeding Lv.440 Legend Weapon/Armor. {nl}{/}{/}	{@sti1c}{s17}※계승 가능 조건{nl} - Lv.440 레전드 등급 장비{nl}   **초월 단계 8이상{nl} {nl}※계승 시 이전되는 옵션 및 수치{nl} - Lv.440 레전드 등급 강화 수치 +11 미만 또는 초월 단계 10미만인 무기/방어구{nl}   **이전되지 않음{nl} - Lv.440 레전드 등급 강화 수치 +11 이상, 초월 단계 10인 무기/방어구{nl}   **[강화], [인챈트 옵션] 각 66.6% 이전{nl} - Lv.440 레전드 등급 액세서리{nl}   **[강화] 50% 이전{nl} {nl} {nl}{#11cc88} ※Lv.440 레전드 등급 무기/방어구 계승 시 이전되는 강화 수치는 최대 +14입니다.{nl} ※Lv.440 레전드 등급 무기/방어구 계승 시 강화 수치가 +21을 초과하는 장비는 [Lv.460] 강화 보조제(거래불가)가 지급됩니다. {nl}{/}{/}				
 UI_20220204_005144	{@st66b}You can obtain one of the items{nl}according to each probability.{/}	 {@st66b}사용 시 각 확률에 따라{nl}구성 아이템 중 1종을 획득할 수 있습니다.{/}				
@@ -5146,29 +5146,29 @@ UI_20220204_005145	Produce Consumable	재화 생산	UI_20210809_004834	Craft Rep
 UI_20220204_005146	{img NOTICE_Dm_! 30 30}{@st43}{s16}Dungeon Application{/}	{img NOTICE_Dm_! 30 30}{@st43}{s16}던전 적용 사항{/}				
 UI_20220204_005147	Clear Record	클리어 기록				
 UI_20220204_005148	{nl}{s18} Help of Battle in Sulivinas Lair{/}{nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle Rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	UI_20210115_004582	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being(Boruta)/Demonic Sanctuary(Giltine){nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재(보루타)/마신의 성소(길티네)를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	
-UI_20220204_005149	{@st59}Earring{/}	{@st59}귀걸이{/}				
-UI_20220204_005150	{@st59}Arcanum Crafting{/}	{@st59}비약 연성술{/}				
-UI_20220204_005151	{@st59}News{/}	{@st59}뉴스{/}				
-UI_20220204_005152	{@st59}Goddess Token Shop{/}	{@st59}여신의 증표 상점{/}				
-UI_20220204_005153	{@st59}Personal Housing Board{/}	{@st59}개인 하우징 게시판{/}				
-UI_20220204_005154	{@st59}Market{/}	{@st59}마켓{/}				
+UI_20220204_005149	{@st59}Brinco{/}	{@st59}귀걸이{/}				
+UI_20220204_005150	{@st59}Construção Arcana{/}	{@st59}비약 연성술{/}				
+UI_20220204_005151	{@st59}Notícias{/}	{@st59}뉴스{/}				
+UI_20220204_005152	{@st59}Loja de Moedas Divinas{/}	{@st59}여신의 증표 상점{/}				
+UI_20220204_005153	{@st59}Quadro de Casas{/}	{@st59}개인 하우징 게시판{/}				
+UI_20220204_005154	{@st59}Mercado{/}	{@st59}마켓{/}				
 UI_20220204_005155	{@st59}Search Party{/}	{@st59}파티 찾기{/}				
 UI_20220204_005156	{@st59}Mercenary Badge Shop{/}	{@st59}용병단 증표 상점{/}				
-UI_20220204_005157	{@st59}Open Boards{/}	{@st59}게시판 펼쳐보기{/}				
-UI_20220204_005158	{@st59}Open Shops{/}	{@st59}상점 펼쳐보기{/}				
-UI_20220204_005159	{@st59}TP Shop{/}	{@st59}TP상점{/}				
-UI_20220204_005160	{@st59}Change Name of Current Preset{/}	{@st59}현재 프리셋의 이름을 변경합니다{/}				
-UI_20220204_005161	{@st66b}Bring	{@st66b}가져오기				
-UI_20220204_005162	{@st59}Bring information of currently equipped card to current preset{/}	{@st59}현재 장착한 카드 정보를 현재 프리셋에 가져옵니다{/}				
-UI_20220204_005163	{@st66b}Apply	{@st66b}적용				
-UI_20220204_005164	{@st59}Change equipped card with current preset information{nl}{#FFFF00}※ Does not apply to card that isn't in the inventory{/}{/}	{@st59}현재 프리셋 정보로 장착 카드를 변경합니다{nl}{#FFFF00}※ 인벤토리에 없는 카드는 적용되지 않습니다{/}{/}				
-UI_20220204_005165	{@st43}Color Card Album Preset{/}	{@st43}컬러 카드첩 프리셋{/}				
-UI_20220204_005166	{@st59}Close Color Card Album Preset{/}	{@st59}컬러 카드첩 프리셋을 종료합니다{/}				
-UI_20220204_005167	{@st66b}Preset	{@st66b}프리셋				
-UI_20220204_005168	{@st59}Search Party Board{/}	{@st59}파티 찾기 게시판{/}				
-UI_20220204_005169	{@st59}Party Information (F6){/}	{@st59}파티 정보 (F6){/}				
-UI_20220204_005170	{@st43}{s24}Search Party Board	{@st43}{s24}파티 찾기 게시판				
-UI_20220204_005171	{@st59}Close Search Party Board{/}	{@st59}파티 찾기 게시판을 닫습니다{/}				
+UI_20220204_005157	{@st59}Abrir Quadros{/}	{@st59}게시판 펼쳐보기{/}				
+UI_20220204_005158	{@st59}Abrir Lojas{/}	{@st59}상점 펼쳐보기{/}				
+UI_20220204_005159	{@st59}Loja de TP{/}	{@st59}TP상점{/}				
+UI_20220204_005160	{@st59}Mudar o Nome da Predefinição{/}	{@st59}현재 프리셋의 이름을 변경합니다{/}				
+UI_20220204_005161	{@st66b}Trazer	{@st66b}가져오기				
+UI_20220204_005162	{@st59}Trazer as cartas equipadas atualmente para a predefinição{/}	{@st59}현재 장착한 카드 정보를 현재 프리셋에 가져옵니다{/}				
+UI_20220204_005163	{@st66b}Aplicar	{@st66b}적용				
+UI_20220204_005164	{@st59}Muda as cartas equipadas com a definição atual{nl}{#FFFF00}※ Não se aplica a cartas fora do inventário{/}{/}	{@st59}현재 프리셋 정보로 장착 카드를 변경합니다{nl}{#FFFF00}※ 인벤토리에 없는 카드는 적용되지 않습니다{/}{/}				
+UI_20220204_005165	{@st43}Predefinição de Cartas Coloridas{/}	{@st43}컬러 카드첩 프리셋{/}				
+UI_20220204_005166	{@st59}Fechar Predefinição de Cartas Coloridas{/}	{@st59}컬러 카드첩 프리셋을 종료합니다{/}				
+UI_20220204_005167	{@st66b}Predefinido	{@st66b}프리셋				
+UI_20220204_005168	{@st59}Procurar Grupo{/}	{@st59}파티 찾기 게시판{/}				
+UI_20220204_005169	{@st59}Informação de Grupo (F6){/}	{@st59}파티 정보 (F6){/}				
+UI_20220204_005170	{@st43}{s24}Procurar Grupo	{@st43}{s24}파티 찾기 게시판				
+UI_20220204_005171	{@st59}Fechar Procura de Grupo{/}	{@st59}파티 찾기 게시판을 닫습니다{/}				
 UI_20220204_005172	{@ps1_1}{s20}Procurar	{@ps1_1}{s20}조회				
 UI_20220204_005173	{@st106_lbr}{s20}Registrar	{@st106_lbr}{s20}등록				
 UI_20220204_005174	Nome do Grupo	파티이름				
