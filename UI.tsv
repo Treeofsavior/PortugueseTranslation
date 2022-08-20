@@ -1,4 +1,4 @@
-﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
+UI_20150317_000001	{@st41b}Aprender Atributos{nl}dos respectivos mestres de cada classe.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
 UI_20150317_000002	{@st43}Lista de Atributos {/}	{@st43}특성 목록{/}				
 UI_20150317_000003	{@st59}Fechar{/}	{@st59}특성리스트를 닫습니다{/}				
 UI_20150317_000004	{@st43}Aprender Atributos{/}	{@st43}특성 배우기{/}				
@@ -4195,7 +4195,7 @@ UI_20200320_004194	{s16}{ol}{#FFFFFF}Enter(%s/%s)	{s16}{ol}{#FFFFFF}입장하기
 UI_20200320_004195	{s16}{ol}{#FFFFFF}Practice Mode	{s16}{ol}{#FFFFFF}연습모드				
 UI_20200320_004196	Achievement Rate 	달성률	UI_20171128_002946	Porcentagem	인던 달성률	
 UI_20200320_004197	{img monsterbtn_image 29 28}{@st66b}{s14}  Card Album{/}	{img monsterbtn_image 29 28}{@st66b}{s16}  카드첩{/}	UI_20170912_002879	{img monsterbtn_image 29 28}{@st66b}{s12}    Cartas{/}	{img monsterbtn_image 29 28}{@st66b}{s16}몬스터 카드{/}	
-UI_20200320_004198	{@st59}Open Card Album{/}	{@st59}카드첩을 엽니다{/}				
+UI_20200320_004198	{@st59}Abrir Álbum de Cartas{/}	{@st59}카드첩을 엽니다{/}				
 UI_20200320_004199	Sandra's Perfect Magnifier	산드라의 완벽한 돋보기				
 UI_20200320_004200	{@st66}{s18}Consume %s Sandra's Perfect Magnifier.	{@st66}{s18}산드라의 완벽한 돋보기 %s개가 소비됩니다.				
 UI_20200320_004201	Sandra's Ultimate Magnifier	산드라의 궁극의 돋보기				
@@ -4582,7 +4582,7 @@ UI_20210115_004581	{@st66b}Giltine{/}	{@st66b}길티네{/}
 UI_20210115_004582	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being(Boruta)/Demonic Sanctuary(Giltine){nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재(보루타)/마신의 성소(길티네)를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	UI_20200710_004381	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being{nl} {nl}[Battle in Sulivinas Lair Ranking]{nl} Battle in Sulivinas Lair rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Battle in Sulivinas Lair rewards]{nl} Battle in Sulivinas Lair rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	
 UI_20210115_004583	{@st59}Res Sacrae{/}	{@st59}성물{/}				
 UI_20210115_004584	{@st59}Res Sacrae Customizing{/}	{@st59}성물 관리{/}				
-UI_20210115_004585	{@st59}Check if there is Stats in Legend Equipment{/}	{@st59}레전드 장비 옵션 유무 확인{/}				
+UI_20210115_004585	{@st59}Verique se há Pendências de Equipamento{/}	{@st59}레전드 장비 옵션 유무 확인{/}				
 UI_20210115_004586	{@st59}Check Contents Point Status{/}	{@st59}콘텐츠 포인트 현황을 확인합니다.{/}				
 UI_20210115_004587	{@st43}Enhance Advanced Card{/}	{@st43}고급 카드 강화{/}	UI_20180320_003018	{@st43}Aprimorar Carta Lendária{/}	{@st43}레전드 카드 강화{/}	
 UI_20210115_004588	Success Rate	성공확률				
@@ -4756,20 +4756,20 @@ UI_20210809_004755	Please put the target card. 	대상 카드를 올려주세요
 UI_20210809_004756	{@st59}Close{/}	{@st59}여신 카드 복사를 닫습니다{/}				
 UI_20210809_004757	Copy Goddess Card Level	여신 카드 레벨 복사				
 UI_20210809_004758	{@st41b}Copy	{@st41b}복사				
-UI_20210809_004759	Goddess Equipment Management	가디스 장비 관리				
+UI_20210809_004759	Gestão de Equipamentos Divinos	가디스 장비 관리				
 UI_20210809_004760	{@st61}{s24}Goddess Equipment Management{/}{s18}{nl} {nl}{s20}Forge{nl} {s18}- Enhance : You can try enhancing by using {#ffff11}Ingredients of the equipment and the Goddess Token as the basic ingredient{/}, and {#ffff11}increase the enhancement chance by using Enhance Aid as an additional ingredient.{nl}Enhancement value does not decrease upon failure and the Adjusted Probability increases according to the total number of failures.{nl}(Adjusted Probability is reset when succeeds in enhancing.){nl}  - Enchant : Apply enchant stats by using the Goddess Enchant Jewel with the appropriate equipment level.{nl}  - Transcendence : Increase the transcendence stage of the equipment by consuming Goddess' Blessed Gem. Maximum Transcendence stage is 10. {nl}  - Evolve : Use {#22aaff}Goddess Token, Goddess' Blessed Gem, Ingredient of the equipment, and Evolution Stone with the appropriate equipment level{/} to evolve the Goddess rank weapon{nl}(However, armors can not evolve and the Transcendence stage of the Goddess rank weapon to be evolved must be 10.){nl}The {#22aaff}basic attack of the weapon increases by 5% when evolving{/} and evolution effect is applied to the weapon appearance.{nl} {nl}{s20}Engrave{nl} {s18}- Save Engraving : You can save random stat of equipped Goddess Rank equipment to the engraving.{nl}{#ffff11}Engrave Stone of the appropriate equipment level is used{/} to save the engraving and requires at least one stone per single attempt.{nl}  - Apply Engraving : Apply the saved engraving to the current equipment. Goddess Token is consumed when applying the engraving.{nl}. - Ichor : You can save Lv.430 Armor Random Stat Ichor as an engraving. This will be saved by 100% chance and {#ffff11}the saved random stat ichor will be destroyed{/}.{nl} {nl}{s20}Socket{nl}{s18}  - Armor : 2 normal sockets can be opened. Goddess Token is consumed to open a normal socket.{nl}. - Weapon: 2 normal sockets and 1 Aether Gem socket can be opened.{nl}Goddess Token is consumed to open a normal socket and Aether Gem socket can be opened with an appropriate equipment level	{@st61}{s24}가디스 장비 관리 시스템{/}{s18}{nl} {nl}{s20}재련{nl} {s18}- 강화 : {#ffff11}장비의 제작 재료와 여신의 증표를 기본 재료{/}로 강화를 시도할 수 있으며, {#ffff11}추가 재료로 강화 보조제를 사용하여 강화 확률을 상승{/}시킬 수 있습니다.{nl}강화 실패시 강화 수치가 하락하지 않으며, 누적 실패 횟수에 따른 확률 보정이 증가합니다.{nl}(누적 실패에 따른 확률 보정은 강화 성공시 초기화됩니다.){nl}  - 인챈트 : 장비 레벨에 맞는 가디스 인챈트 쥬얼을 사용하여 인챈트 옵션을 부여할 수 있습니다.{nl}  - 초월 : 여신의 축복석을 사용하여 해당 장비의 초월 단계를 증가시킬 수 있습니다. 초월 단계는 10이 최대입니다. {nl}  - 진화 : {#22aaff}여신의 증표, 여신의 축복석, 장비의 제작 재료, 장비 레벨에 맞는 진화석{/}을 사용하여 가디스 등급 무기를 진화시킵니다{nl}(단, 방어구는 진화할 수 없으며, 진화하려는 가디스 등급 무기는 초월 단계가 10이어야 합니다.){nl}{#22aaff}진화 시 무기의 기본 공격력의 5%가 상승{/}하며, 무기 외형에 진화 이펙트가 추가됩니다.{nl} {nl}{s20}각인{nl} {s18}- 각인 저장 : 장착하고 있는 가디스 등급 장비의 랜덤 옵션을 각인에 저장합니다.{nl}각인 저장에는 {#ffff11}장비 레벨에 맞는 각인석이 사용{/}되며, 저장 시도마다 최소 1개를 필요로 합니다.{nl}  - 각인 부여 : 저장된 각인을 장착 중인 장비에 부여합니다. 각인 부여 시 여신의 증표가 소모됩니다.{nl}  - 아이커 : Lv.430 방어구 랜덤 옵션 아이커를 각인에 저장합니다. 100%확률로 저장되며 {#ffff11}저장 시 랜덤 옵션 아이커는 소멸{/}합니다.{nl} {nl}{s20}소켓 관리{nl}{s18}  - 방어구 : 총 2개의 일반 소켓을 개방할 수 있습니다. 일반 소켓 개방에는 여신의 증표가 소모됩니다.{nl}  - 무기 : 총 2개의 일반 소켓과 1개의 에테르 젬 소켓을 개방할 수 있습니다.{nl}일반 소켓 개방에는 여신의 증표가 소모되며, 에테르 젬 소켓은 장비 레벨에 알맞는 				
 UI_20210809_004761	Aether Gem Socket Key	에테르 젬 소켓 열쇠				
 UI_20210809_004762	.{nl} {nl}{s20}Craft{nl} {s18}- Craft Goddess rank equipment with ingredients obtained from Goddess raid.{nl} {nl}{s20}Succession{nl} {s18}- Craft Goddess rank equipment by using Lv.440 Legend rank equipment as an ingredient.{nl}You can partially transfer the enhancement and enchant stat value to the Goddess rank equipment according to the enhancement and transcendence stage of the Legend rank equipment used as an ingredient.{nl} {nl}{s20}Type Change{nl} {s18}- By using an appropriate equipment level 	로 개방할 수 있습니다.{nl} {nl}{s20}제작{nl} {s18}- 가디스 레이드에서 획득한 재료로 가디스 장비를 제작할 수 있습니다.{nl} {nl}{s20}계승{nl} {s18}- Lv.440 레전드 등급 장비를 재료로 가디스 장비를 제작합니다.{nl}제작 시 레전드 등급 장비의 강화, 초월 단계에 따라 강화, 인챈트 옵션 수치를 일부 이전할 수 있습니다.{nl} {nl}{s20}계열 변경{nl} {s18}- 장비 레벨에 맞는 				
 UI_20210809_004763	Equipment Type Change Tome	장비 계열 변경의 서				
 UI_20210809_004764	as an ingredient, you can change the equipment in to another type with the same level and rank.	를 재료로 동일 레벨, 등급의 다른 장비로 변경할 수 있습니다.				
-UI_20210809_004765	{@st59}Forge{/}	{@st59}재련{/}				
-UI_20210809_004766	{@st59}Engrave{/}	{@st59}각인{/}				
-UI_20210809_004767	{@st59}Succession{/}	{@st59}계승{/}				
-UI_20210809_004768	{@st59}Type change{/}	{@st59}계열 변경{/}				
-UI_20210809_004769	{@st66b}Enhance	{@st66b}강화				
-UI_20210809_004770	{@st66b}Enchant	{@st66b}인챈트				
-UI_20210809_004771	{@st66b}Transcend	{@st66b}초월				
-UI_20210809_004772	{@st66b}Evolve	{@st66b}진화				
+UI_20210809_004765	{@st59}Forja{/}	{@st59}재련{/}				
+UI_20210809_004766	{@st59}Gravuras{/}	{@st59}각인{/}				
+UI_20210809_004767	{@st59}Sucessão{/}	{@st59}계승{/}				
+UI_20210809_004768	{@st59}Mudança de Tipo{/}	{@st59}계열 변경{/}				
+UI_20210809_004769	{@st66b}Refino	{@st66b}강화				
+UI_20210809_004770	{@st66b}Encantamento	{@st66b}인챈트				
+UI_20210809_004771	{@st66b}Transcender	{@st66b}초월				
+UI_20210809_004772	{@st66b}Evoluir	{@st66b}진화				
 UI_20210809_004773	Proceed with the Enhance Tutorial.	강화 튜토리얼을 진행할 수 있습니다.				
 UI_20210809_004774	Proceed with the Enchant Tutorial.	인챈트 튜토리얼을 진행할 수 있습니다.				
 UI_20210809_004775	Enhancement Ingredient	강화 재료				
@@ -4789,15 +4789,15 @@ UI_20210809_004788	{@st45}{s20}Remaining Expansion Time : {#FF0000}%s{/}{/}{/}	{
 UI_20210809_004789	{@st41b}{s18}Change Name	{@st41b}{s18}이름 변경				
 UI_20210809_004790	{@st59}Change Engraving Set Name{/}	{@st59}각인 세트 이름을 변경합니다{/}				
 UI_20210809_004791	Select All	모두 선택				
-UI_20210809_004792	{@st66b}Save Engraving	{@st66b}각인 저장				
-UI_20210809_004793	{@st66b}Apply Engraving	{@st66b}각인 부여				
+UI_20210809_004792	{@st66b}Salvar Gravuras	{@st66b}각인 저장				
+UI_20210809_004793	{@st66b}Aplicar Gravuras	{@st66b}각인 부여				
 UI_20210809_004794	{@st66b}Ichor	{@st66b}아이커				
 UI_20210809_004795	{@sti1c}{s18} - At least one Engrave Stone is required to attempt saving the engraving,{nl}and {#1199bb}success chance increases by 5% per one Engrave Stone{/}.{nl} {nl}  - You can not save the engraving if the random stat trying to save and already saved is equal.{/}	{@sti1c}{s18} - 최소 1개의 각인석을 사용해야 각인 저장을 시도할 수 있으며,{nl}{#1199bb}각인석 1개당 성공 확률이 5% 상승{/}합니다,{nl} {nl}  - 저장 하려는 랜덤 옵션과 동일한 랜덤 옵션이 해당 부위에 저장되어 있다면 각인 저장을 시도할 수 없습니다.{/}				
-UI_20210809_004796	To be Saved	저장할 옵션				
-UI_20210809_004797	Currently Saved	현재 저장된 옵션				
+UI_20210809_004796	Opção Para Salvar	저장할 옵션				
+UI_20210809_004797	Opções Salvadas no Momento	현재 저장된 옵션				
 UI_20210809_004798	{@st42}{s24}Engraving Saving Chance: {/}{s34}%s{/}{s24}%{/}{s18} (%s% + %s%){/}{/}	{@st42}{s24}각인 저장 확률: {/}{s34}%s{/}{s24}%{/}{s18} (%s% + %s%){/}{/}				
-UI_20210809_004799	Save Engraving	각인 저장				
-UI_20210809_004800	Apply Engraving	각인 적용				
+UI_20210809_004799	Salvar Gravação	각인 저장				
+UI_20210809_004800	Aplicar Gravação	각인 적용				
 UI_20210809_004801	{@sti1c}{s18} - Only {#aa9911}Lv.430 Armor Random Stat Ichor{/} can be saved as a engraving.{nl} {nl}  - Engrave Stone is not required when saving {#aa991}Lv.430 Armor Random Stat Ichor{/} and is saved by a 100% chance.{/}	{@sti1c}{s18} - {#aa9911}Lv.430 방어구 랜덤 옵션 아이커{/}만 각인에 저장할 수 있습니다.{nl} {nl}  -{#aa991}Lv.430 방어구 랜덤 옵션 아이커{/}를 각인에 저장할 때에는 각인석이 필요하지 않으며, 100% 확률로 저장 됩니다.{/}				
 UI_20210809_004802	{@st42}{s24}Engraving Saving Chance: {/}{s34}%s{/}{s24}%{/}{/}	{@st42}{s24}각인 저장 확률: {/}{s34}%s{/}{s24}%{/}{/}				
 UI_20210809_004803	{@st42}{s24}Required ->{/}	{@st42}{s24}소모 비용 ▶{/}				
@@ -5136,9 +5136,9 @@ UI_20220204_005135	One{nl}Two{nl}Three{nl}Four{nl}Five	하나{nl}두울{nl}세�
 UI_20220204_005136	{@st41b}{s20}Fragmentize Earring	{@st41b}{s20}귀걸이 파편화				
 UI_20220204_005137	Fragmentize	파편화				
 UI_20220204_005138	{@st43}{s18}Up to %s fragments can be received.	{@st43}{s18}최대 %s개의 파편을 획득할 수 있습니다.				
-UI_20220204_005139	{@st43}{s24}Gear Score Ranking	{@st43}{s24}기어스코어 랭킹				
-UI_20220204_005140	{@st66b}{s16}Character Name	{@st66b}{s16}캐릭터명				
-UI_20220204_005141	{@st66b}{s16}Gear Score	{@st66b}{s16}기어스코어				
+UI_20220204_005139	{@st43}{s24}Rank de Equipamento	{@st43}{s24}기어스코어 랭킹				
+UI_20220204_005140	{@st66b}{s16}Nome do Persoangem	{@st66b}{s16}캐릭터명				
+UI_20220204_005141	{@st66b}{s16}Pontuação de Equipamento	{@st66b}{s16}기어스코어				
 UI_20220204_005142	.{nl} {nl}{s20}Craft{nl} {s18}- Craft Goddess rank equipment with ingredients obtained from Goddess raid.{nl} {nl}{s20}Succession{nl} {s18}- Craft equipment of next level with Lv.440 Legend rank or above equipment.{nl}You can partially transfer the stat of the equipment used for crafting according to conditions.{nl} {nl}{s20}Type Change{nl} {s18}- By using an appropriate equipment level 	로 개방할 수 있습니다.{nl} {nl}{s20}제작{nl} {s18}- 가디스 레이드에서 획득한 재료로 가디스 장비를 제작할 수 있습니다.{nl} {nl}{s20}계승{nl} {s18}- Lv.440 레전드 등급 이상의 장비로 다음 레벨의 장비를 제작합니다.{nl}제작 시 조건에 따라 제작에 사용 된 장비 옵션의 일부를 이전할 수 있습니다.{nl} {nl}{s20}계열 변경{nl} {s18}- 장비 레벨에 맞는 	UI_20210809_004762	.{nl} {nl}{s20}Craft{nl} {s18}- Craft Goddess rank equipment with ingredients obtained from Goddess raid.{nl} {nl}{s20}Succession{nl} {s18}- Craft Goddess rank equipment by using Lv.440 Legend rank equipment as an ingredient.{nl}You can partially transfer the enhancement and enchant stat value to the Goddess rank equipment according to the enhancement and transcendence stage of the Legend rank equipment used as an ingredient.{nl} {nl}{s20}Type Change{nl} {s18}- By using an appropriate equipment level 	로 개방할 수 있습니다.{nl} {nl}{s20}제작{nl} {s18}- 가디스 레이드에서 획득한 재료로 가디스 장비를 제작할 수 있습니다.{nl} {nl}{s20}계승{nl} {s18}- Lv.440 레전드 등급 장비를 재료로 가디스 장비를 제작합니다.{nl}제작 시 레전드 등급 장비의 강화, 초월 단계에 따라 강화, 인챈트 옵션 수치를 일부 이전할 수 있습니다.{nl} {nl}{s20}계열 변경{nl} {s18}- 장비 레벨에 맞는 	
 UI_20220204_005143	{@sti1c}{s17}※Condition for Succession{nl} - Lv.440 Legend equipment{nl}   ** TRA 8 or above{nl} {nl}※Stat and value that can be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 10 or below or TRA 9 or below{nl}   **Cannot be transferred{nl} - Lv.440 Legend Weapon/Armor with ENH value 11 or above or TRA 10 or above{nl}   **Transfers 66% of [ENH], [Enchant Stat] {nl} - Lv.440 Legend Accessory{nl}   **Transfers 50% of [ENH]{nl} {nl} {nl}{#11cc88} ※Maximum ENH value transferred when succeeding Lv.440 Legend Weapon/Armor is 14.{nl} ※ [Lv.460] Enhance Aid will be given for equipment with ENH value is 21 or above when succeeding Lv.440 Legend Weapon/Armor. {nl}{/}{/}	{@sti1c}{s17}※계승 가능 조건{nl} - Lv.440 레전드 등급 장비{nl}   **초월 단계 8이상{nl} {nl}※계승 시 이전되는 옵션 및 수치{nl} - Lv.440 레전드 등급 강화 수치 +11 미만 또는 초월 단계 10미만인 무기/방어구{nl}   **이전되지 않음{nl} - Lv.440 레전드 등급 강화 수치 +11 이상, 초월 단계 10인 무기/방어구{nl}   **[강화], [인챈트 옵션] 각 66.6% 이전{nl} - Lv.440 레전드 등급 액세서리{nl}   **[강화] 50% 이전{nl} {nl} {nl}{#11cc88} ※Lv.440 레전드 등급 무기/방어구 계승 시 이전되는 강화 수치는 최대 +14입니다.{nl} ※Lv.440 레전드 등급 무기/방어구 계승 시 강화 수치가 +21을 초과하는 장비는 [Lv.460] 강화 보조제(거래불가)가 지급됩니다. {nl}{/}{/}				
 UI_20220204_005144	{@st66b}You can obtain one of the items{nl}according to each probability.{/}	 {@st66b}사용 시 각 확률에 따라{nl}구성 아이템 중 1종을 획득할 수 있습니다.{/}				
@@ -5146,178 +5146,178 @@ UI_20220204_005145	Produce Consumable	재화 생산	UI_20210809_004834	Craft Rep
 UI_20220204_005146	{img NOTICE_Dm_! 30 30}{@st43}{s16}Dungeon Application{/}	{img NOTICE_Dm_! 30 30}{@st43}{s16}던전 적용 사항{/}				
 UI_20220204_005147	Clear Record	클리어 기록				
 UI_20220204_005148	{nl}{s18} Help of Battle in Sulivinas Lair{/}{nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle Rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	UI_20210115_004582	{nl}{s18}About Blockade Battle{/}{nl} {nl}[Authority to Participate]{nl}Only Guilds who sieged a territory in GTW can participate in the battle.{nl}*Guild Quest: Automatically participates when proceeding with the Ancient Being(Boruta)/Demonic Sanctuary(Giltine){nl} {nl}[Blockade Battle Ranking]{nl} Blockade Battle rankings are counted down to the decimal value so that the fastest guild to clear the content{nl}is ranked the highest. {nl} {nl}[Receive Blockade Battle rewards]{nl} Blockade Battle rewards will be given after 7 PM on Sunday, and the authorized guild master{nl}can	{nl}{s18}봉쇄전 도움말{/}{nl} {nl}[봉쇄전 참여 권한]{nl}봉쇄전은 길드 콜로니전 스팟 점령 길드만 참여가능합니다.{nl}*길드 퀘스트 : 고대의 존재(보루타)/마신의 성소(길티네)를 진행할 경우 자동으로 참여{nl} {nl}[봉쇄전 순위 정산]{nl} 봉쇄전 순위는 소숫점까지 계산되어 가장 빨리 콘텐츠를{nl}클리어한 길드가 높은 순위에 랭크되는 방식으로 진행됩니다.{nl} {nl}[봉쇄전 보상 수령]{nl} 봉쇄전 보상 수령은 일요일 오후 7시 이후, 길드 마스터 권한이 있는{nl}플레이어가 	
-UI_20220204_005149	{@st59}Earring{/}	{@st59}귀걸이{/}				
-UI_20220204_005150	{@st59}Arcanum Crafting{/}	{@st59}비약 연성술{/}				
-UI_20220204_005151	{@st59}News{/}	{@st59}뉴스{/}				
-UI_20220204_005152	{@st59}Goddess Token Shop{/}	{@st59}여신의 증표 상점{/}				
-UI_20220204_005153	{@st59}Personal Housing Board{/}	{@st59}개인 하우징 게시판{/}				
-UI_20220204_005154	{@st59}Market{/}	{@st59}마켓{/}				
+UI_20220204_005149	{@st59}Brinco{/}	{@st59}귀걸이{/}				
+UI_20220204_005150	{@st59}Construção Arcana{/}	{@st59}비약 연성술{/}				
+UI_20220204_005151	{@st59}Notícias{/}	{@st59}뉴스{/}				
+UI_20220204_005152	{@st59}Loja de Moedas Divinas{/}	{@st59}여신의 증표 상점{/}				
+UI_20220204_005153	{@st59}Quadro de Casas{/}	{@st59}개인 하우징 게시판{/}				
+UI_20220204_005154	{@st59}Mercado{/}	{@st59}마켓{/}				
 UI_20220204_005155	{@st59}Search Party{/}	{@st59}파티 찾기{/}				
 UI_20220204_005156	{@st59}Mercenary Badge Shop{/}	{@st59}용병단 증표 상점{/}				
-UI_20220204_005157	{@st59}Open Boards{/}	{@st59}게시판 펼쳐보기{/}				
-UI_20220204_005158	{@st59}Open Shops{/}	{@st59}상점 펼쳐보기{/}				
-UI_20220204_005159	{@st59}TP Shop{/}	{@st59}TP상점{/}				
-UI_20220204_005160	{@st59}Change Name of Current Preset{/}	{@st59}현재 프리셋의 이름을 변경합니다{/}				
-UI_20220204_005161	{@st66b}Bring	{@st66b}가져오기				
-UI_20220204_005162	{@st59}Bring information of currently equipped card to current preset{/}	{@st59}현재 장착한 카드 정보를 현재 프리셋에 가져옵니다{/}				
-UI_20220204_005163	{@st66b}Apply	{@st66b}적용				
-UI_20220204_005164	{@st59}Change equipped card with current preset information{nl}{#FFFF00}※ Does not apply to card that isn't in the inventory{/}{/}	{@st59}현재 프리셋 정보로 장착 카드를 변경합니다{nl}{#FFFF00}※ 인벤토리에 없는 카드는 적용되지 않습니다{/}{/}				
-UI_20220204_005165	{@st43}Color Card Album Preset{/}	{@st43}컬러 카드첩 프리셋{/}				
-UI_20220204_005166	{@st59}Close Color Card Album Preset{/}	{@st59}컬러 카드첩 프리셋을 종료합니다{/}				
-UI_20220204_005167	{@st66b}Preset	{@st66b}프리셋				
-UI_20220204_005168	{@st59}Search Party Board{/}	{@st59}파티 찾기 게시판{/}				
-UI_20220204_005169	{@st59}Party Information (F6){/}	{@st59}파티 정보 (F6){/}				
-UI_20220204_005170	{@st43}{s24}Search Party Board	{@st43}{s24}파티 찾기 게시판				
-UI_20220204_005171	{@st59}Close Search Party Board{/}	{@st59}파티 찾기 게시판을 닫습니다{/}				
-UI_20220204_005172	{@ps1_1}{s20}Search	{@ps1_1}{s20}조회				
-UI_20220204_005173	{@st106_lbr}{s20}Register	{@st106_lbr}{s20}등록				
-UI_20220204_005174	Party Name	파티이름				
-UI_20220204_005175	{@st43b}{s20}Request Participation	{@st43b}{s20}참가신청				
-UI_20220204_005176	{@ps1_1}{s16}Condition to Join Party	{@ps1_1}{s16}파티 참가 조건				
-UI_20220204_005177	{@sti1c}{s16}Attribute Achievement Rate(%)	{@sti1c}{s16}특성 달성률(%)				
-UI_20220204_005178	{@sti1c}{s16}Gear Score	{@sti1c}{s16}기어 스코어				
-UI_20220204_005179	{@sti1c}{s16}Res Sacrae Level	{@sti1c}{s16}성물 레벨				
+UI_20220204_005157	{@st59}Abrir Quadros{/}	{@st59}게시판 펼쳐보기{/}				
+UI_20220204_005158	{@st59}Abrir Lojas{/}	{@st59}상점 펼쳐보기{/}				
+UI_20220204_005159	{@st59}Loja de TP{/}	{@st59}TP상점{/}				
+UI_20220204_005160	{@st59}Mudar o Nome da Predefinição{/}	{@st59}현재 프리셋의 이름을 변경합니다{/}				
+UI_20220204_005161	{@st66b}Trazer	{@st66b}가져오기				
+UI_20220204_005162	{@st59}Trazer as cartas equipadas atualmente para a predefinição{/}	{@st59}현재 장착한 카드 정보를 현재 프리셋에 가져옵니다{/}				
+UI_20220204_005163	{@st66b}Aplicar	{@st66b}적용				
+UI_20220204_005164	{@st59}Muda as cartas equipadas com a definição atual{nl}{#FFFF00}※ Não se aplica a cartas fora do inventário{/}{/}	{@st59}현재 프리셋 정보로 장착 카드를 변경합니다{nl}{#FFFF00}※ 인벤토리에 없는 카드는 적용되지 않습니다{/}{/}				
+UI_20220204_005165	{@st43}Predefinição de Cartas Coloridas{/}	{@st43}컬러 카드첩 프리셋{/}				
+UI_20220204_005166	{@st59}Fechar Predefinição de Cartas Coloridas{/}	{@st59}컬러 카드첩 프리셋을 종료합니다{/}				
+UI_20220204_005167	{@st66b}Predefinido	{@st66b}프리셋				
+UI_20220204_005168	{@st59}Procurar Grupo{/}	{@st59}파티 찾기 게시판{/}				
+UI_20220204_005169	{@st59}Informação de Grupo (F6){/}	{@st59}파티 정보 (F6){/}				
+UI_20220204_005170	{@st43}{s24}Procurar Grupo	{@st43}{s24}파티 찾기 게시판				
+UI_20220204_005171	{@st59}Fechar Procura de Grupo{/}	{@st59}파티 찾기 게시판을 닫습니다{/}				
+UI_20220204_005172	{@ps1_1}{s20}Procurar	{@ps1_1}{s20}조회				
+UI_20220204_005173	{@st106_lbr}{s20}Registrar	{@st106_lbr}{s20}등록				
+UI_20220204_005174	Nome do Grupo	파티이름				
+UI_20220204_005175	{@st43b}{s20}Solicitar Participação	{@st43b}{s20}참가신청				
+UI_20220204_005176	{@ps1_1}{s16}Condições para se Juntar	{@ps1_1}{s16}파티 참가 조건				
+UI_20220204_005177	{@sti1c}{s16}Taxa de Conclusão dos Atributos(%)	{@sti1c}{s16}특성 달성률(%)				
+UI_20220204_005178	{@sti1c}{s16}Pontuação de Equipamento	{@sti1c}{s16}기어 스코어				
+UI_20220204_005179	{@sti1c}{s16}Nível Res Sacrae	{@sti1c}{s16}성물 레벨				
 UI_20220204_005180	{@st105_y_16}{s14}{@st43b}{s20} 19:59 {@st105_y_16}{s14} left until the recruitment deletion	{@st105_y_16}{s14}모집 공고 자동 삭제까지{@st43b}{s20} 19:59 {@st105_y_16}{s14}남았습니다				
 UI_20220204_005181	{img ps_icon_input 20 20}{@st66b}{s16}Recruitment Title	{img ps_icon_input 20 20}{@st66b}{s16}공고 제목				
-UI_20220204_005182	Please enter the title of Party Recruitment	파티공고 제목을 입력해주세요				
-UI_20220204_005183	{img ps_icon_input 20 20}{@st66b}{s16}Condition to Join Party	{img ps_icon_input 20 20}{@st66b}{s16}파티 참가 조건				
-UI_20220204_005184	Register Party Recruitment	파티 모집 공고 등록				
-UI_20220204_005185	{@st43}Arcanum Crafting{/}	{@st43}비약 연성술{/}				
-UI_20220204_005186	{@st59}Close the Arcanum Crafting window{/}	{@st59}비약 연성술 창을 닫습니다{/}				
-UI_20220204_005187	{@st59}Click to see the Help of Arcanum Brewing{/}	{@st59}비약 연성술 도움말을 보려면 클릭하세요{/}				
-UI_20220204_005188	{@st43}{s18}Remaining Time ({@st47}{s18}%s{/}{/}){/}{/}	{@st43}{s18}남은 시간 ({@st47}{s18}%s{/}{/}){/}{/}				
-UI_20220204_005189	Completion Level	완성도				
-UI_20220204_005190	Neutralize Left	남은 중화 횟수				
+UI_20220204_005182	Entre o título do Recrutamento	파티공고 제목을 입력해주세요				
+UI_20220204_005183	{img ps_icon_input 20 20}{@st66b}{s16}Condições para se juntar ao Grupo	{img ps_icon_input 20 20}{@st66b}{s16}파티 참가 조건				
+UI_20220204_005184	Registrar Recrutamento de Grupo	파티 모집 공고 등록				
+UI_20220204_005185	{@st43}Construção Arcana{/}	{@st43}비약 연성술{/}				
+UI_20220204_005186	{@st59}Fechar janela de construção Arcana{/}	{@st59}비약 연성술 창을 닫습니다{/}				
+UI_20220204_005187	{@st59}Clique para obter ajuda sobre Fermentação Arcana{/}	{@st59}비약 연성술 도움말을 보려면 클릭하세요{/}				
+UI_20220204_005188	{@st43}{s18}Tempo Restante ({@st47}{s18}%s{/}{/}){/}{/}	{@st43}{s18}남은 시간 ({@st47}{s18}%s{/}{/}){/}{/}				
+UI_20220204_005189	Nível de Conclusão	완성도				
+UI_20220204_005190	Neutralizadores Restantes	남은 중화 횟수				
 UI_20220204_005191	{@sti1c}{s14}Material{/}{/}	{@sti1c}{s14}합성 재료{/}{/}				
 UI_20220204_005192	{@st59}Material{/}	{@st59}합성 재료{/}				
-UI_20220204_005193	{@sti1c}{s11}Neutralizer{/}{/}	{@sti1c}{s14}중화제{/}{/}				
-UI_20220204_005194	{@st59}Neutralizer{/}	{@st59}중화제{/}				
-UI_20220204_005195	{@st59}Insert the Combining Material{/}	{@st59}합성 재료를 올려주세요{/}				
-UI_20220204_005196	{@st59}Start Combining{/}	{@st59}합성 시작{/}				
-UI_20220204_005197	{@st59}Insert the Neutralizer{/}	{@st59}중화제를 올려주세요{/}				
-UI_20220204_005198	{@st45tw2}Personal Highest Record	{@st45tw2}개인 최고 기록				
-UI_20220204_005199	{@st45tw2}Friend	{@st45tw2}친구				
-UI_20220204_005200	{@st43}{#ffcc33}{s14}Highest Record!	{@st43}{#ffcc33}{s14}최고 기록 경신!				
-UI_20220204_005201	{@st202}Coupon Status▶{/}	{@st202}보유 쿠폰 ▶{/}				
-UI_20220204_005202	{@st202}Consume Coupon ▶{/}	{@st202}쿠폰 소모 ▶{/}				
-UI_20220204_005203	{@st43}Sell Relief Supply{/}	{@st43}구호 물품 판매{/}				
-UI_20220204_005204	{@st41b}Sell{/}	{@st41b}판매{/}				
-UI_20220204_005205	{@st59}Party{/}	{@st59}파티{/}				
-UI_20220204_005206	{@st66b}Maximum Number of Particle(%s){/}	{@st66b}최대 파티클 개수(%s){/}				
-UI_20220204_005207	{@st59}Greatly affects the performance. If too low, some effects may not be seen. Applied after the restart.{/}	{@st59}성능에 큰 영향을 미칩니다. 너무 적으면 일부 효과가 안보일 수 있습니다. 재시작 후 적용됩니다.{/}				
-UI_20220204_005208	Goddess Accessory Bound Removal Scroll	가디스 액세서리 귀속 해제 스크롤				
-UI_20220204_005209	{@st66}Use to remove the Bound.{/}	{@st66}사용 시 귀속 상태가 해제됩니다.{/}				
-UI_20220204_005210	Remove Bound	귀속 해제				
-UI_20220204_005211	Fire Flame Earring Bound Removal Scroll	화염불꽃 귀걸이 귀속 해제 스크롤				
-UI_20220204_005212	{@st66}Scroll x%s is needed to remove the bound.{/}	{@st66}귀속 해제를 위해 %s개의 스크롤이 필요합니다.{/}				
-UI_20220204_005213	{@st66}Same rank and number of scroll is needed to remove the bound.{/}	{@st66}귀속 해제를 위해 등급과 같은 수의 스크롤이 필요합니다.{/}				
-UI_20220204_005214	Vasilisa Equipment Bound Removal Scroll	바실리사 장비 귀속 해제 스크롤				
-UI_20220204_005215	{@st43}{s16}Party Damage{/}	{@st43}{s16}파티 대미지{/}				
-UI_20220204_005216	{@st43}{s28}Battle Result	{@st43}{s28}전투 결과				
-UI_20220204_005217	{@st43}{s22}Record	{@st43}{s22}기록				
-UI_20220204_005218	{@st43}{s22}Details	{@st43}{s22}세부 정보				
-UI_20220204_005219	{@st43}{s15}{#FFFF00}Battle Time{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}전투 시간{nl} {#FFFFFF}{s17}%s				
-UI_20220204_005220	48 seconds	48초				
-UI_20220204_005221	{@st43}{s15}{#FFFF00}Total Damage{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}총 피해량{nl} {#FFFFFF}{s17}%s				
-UI_20220204_005222	{@st43}{s15}{#FFFF00}Previous Highest Record{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}이전 최고 기록{nl} {#FFFFFF}{s17}%s				
-UI_20220204_005223	{@st43}{s17}{#FFFF00}Total Damage This Week{nl} {#FFFFFF}{s18}%s	{@st43}{s17}{#FFFF00}이번 주 누적 피해량{nl} {#FFFFFF}{s18}%s				
-UI_20220204_005224	{@st42b}{s18}End{/}	{@st42b}{s18}종료하기{/}				
-UI_20220204_005225	{s16}{#FF0000} %s left until count ends.	{s16}{#FF0000}집계 종료까지 %s 남았습니다.				
-UI_20220204_005226	5 Days 5 Hours 38 Minutes 49 Seconds	5일 5시간 38분 49초				
-UI_20220204_005227	{@st100cream_24}Archaeology	{@st100cream_24}고고학				
-UI_20220204_005228	{@st101lightbrown_16}Excavation Area	{@st101lightbrown_16}발굴 가능 지역				
-UI_20220204_005229	Close the Archaeology map window.	고고학 맵 정보창을 닫습니다.				
-UI_20220204_005230	Check Archeology Info.	고고학 정보를 확인합니다.				
-UI_20220204_005231	{@st101lightbrown_16}Archaeology	{@st101lightbrown_16}고고학				
-UI_20220204_005232	{s24}{b}Create a new character{/}{/}	{s24}{b}신규 캐릭터를 생성합니다{/}{/}				
-UI_20220204_005233	{/}{s20}{b}[%s]{/}{nl}can be selected once the following conditions are met.{/}	{/}{s20}{b}[%s]{/}은{nl}다음 조건을 충족해야 선택할 수 있습니다.{/}				
-UI_20220204_005234	Gain +%s	획득 +%s				
-UI_20220204_005235	{@sti1c}{s14}Party Leader only Item	{@sti1c}{s14}파티장 전용 아이템				
-UI_20220204_005236	Count	사용 횟수				
+UI_20220204_005193	{@sti1c}{s11}Neutralizador{/}{/}	{@sti1c}{s14}중화제{/}{/}				
+UI_20220204_005194	{@st59}Neutralizador{/}	{@st59}중화제{/}				
+UI_20220204_005195	{@st59}Insirir o Material de Combinação{/}	{@st59}합성 재료를 올려주세요{/}				
+UI_20220204_005196	{@st59}Comece a Combinar{/}	{@st59}합성 시작{/}				
+UI_20220204_005197	{@st59}Insira o Neutralizador{/}	{@st59}중화제를 올려주세요{/}				
+UI_20220204_005198	{@st45tw2}Seu Maior Recorde	{@st45tw2}개인 최고 기록				
+UI_20220204_005199	{@st45tw2}Amigo	{@st45tw2}친구				
+UI_20220204_005200	{@st43}{#ffcc33}{s14}Atingiu seu melhor recorde!	{@st43}{#ffcc33}{s14}최고 기록 경신!				
+UI_20220204_005201	{@st202}Status do Cupom ▶{/}	{@st202}보유 쿠폰 ▶{/}				
+UI_20220204_005202	{@st202}Usar Cupom ▶{/}	{@st202}쿠폰 소모 ▶{/}				
+UI_20220204_005203	{@st43}Vender Mantimentos de Socorro{/}	{@st43}구호 물품 판매{/}				
+UI_20220204_005204	{@st41b}Vender{/}	{@st41b}판매{/}				
+UI_20220204_005205	{@st59}Grupo{/}	{@st59}파티{/}				
+UI_20220204_005206	{@st66b}Número Máximo de Partículas(%s){/}	{@st66b}최대 파티클 개수(%s){/}				
+UI_20220204_005207	{@st59}Alto impacto na perfomance. Se muito baixo, alguns efeitos podem não ser vistos. Necessário reiniciar.{/}	{@st59}성능에 큰 영향을 미칩니다. 너무 적으면 일부 효과가 안보일 수 있습니다. 재시작 후 적용됩니다.{/}				
+UI_20220204_005208	Pergaminho de Desvinculação de Acessório Divino	가디스 액세서리 귀속 해제 스크롤				
+UI_20220204_005209	{@st66}Use para desvincular.{/}	{@st66}사용 시 귀속 상태가 해제됩니다.{/}				
+UI_20220204_005210	Desvincular	귀속 해제				
+UI_20220204_005211	Pergaminho de Desvinculação do Brinco da Chama Ardente.	화염불꽃 귀걸이 귀속 해제 스크롤				
+UI_20220204_005212	{@st66}x%s pergaminho(s) necessário(s) para desvincular.{/}	{@st66}귀속 해제를 위해 %s개의 스크롤이 필요합니다.{/}				
+UI_20220204_005213	{@st66}É necessário o mesmo nível do pergaminho para desvincular.{/}	{@st66}귀속 해제를 위해 등급과 같은 수의 스크롤이 필요합니다.{/}				
+UI_20220204_005214	Pergaminho de Desvinculação do Equipamento Vasilisa	바실리사 장비 귀속 해제 스크롤				
+UI_20220204_005215	{@st43}{s16}Dano do Grupo{/}	{@st43}{s16}파티 대미지{/}				
+UI_20220204_005216	{@st43}{s28}Resultado da Batalha	{@st43}{s28}전투 결과				
+UI_20220204_005217	{@st43}{s22}Recorde	{@st43}{s22}기록				
+UI_20220204_005218	{@st43}{s22}Detalhes	{@st43}{s22}세부 정보				
+UI_20220204_005219	{@st43}{s15}{#FFFF00}Tempo de Luta{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}전투 시간{nl} {#FFFFFF}{s17}%s				
+UI_20220204_005220	48 segundos	48초				
+UI_20220204_005221	{@st43}{s15}{#FFFF00}Dano Total{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}총 피해량{nl} {#FFFFFF}{s17}%s				
+UI_20220204_005222	{@st43}{s15}{#FFFF00}Maior Recorde Anterior{nl} {#FFFFFF}{s17}%s	{@st43}{s15}{#FFFF00}이전 최고 기록{nl} {#FFFFFF}{s17}%s				
+UI_20220204_005223	{@st43}{s17}{#FFFF00}Dano Total da Semana{nl} {#FFFFFF}{s18}%s	{@st43}{s17}{#FFFF00}이번 주 누적 피해량{nl} {#FFFFFF}{s18}%s				
+UI_20220204_005224	{@st42b}{s18}Fim{/}	{@st42b}{s18}종료하기{/}				
+UI_20220204_005225	{s16}{#FF0000} %s restantes ate a contagem acabar.	{s16}{#FF0000}집계 종료까지 %s 남았습니다.				
+UI_20220204_005226	5 Dias 5 Horas 38 Minutos 49 Segundos	5일 5시간 38분 49초				
+UI_20220204_005227	{@st100cream_24}Arqueologia	{@st100cream_24}고고학				
+UI_20220204_005228	{@st101lightbrown_16}Área de escavação	{@st101lightbrown_16}발굴 가능 지역				
+UI_20220204_005229	Fechar o mapa arqueológico.	고고학 맵 정보창을 닫습니다.				
+UI_20220204_005230	Consultar informação arqueológica.	고고학 정보를 확인합니다.				
+UI_20220204_005231	{@st101lightbrown_16}Arqueologia	{@st101lightbrown_16}고고학				
+UI_20220204_005232	{s24}{b}Criar novo personagem{/}{/}	{s24}{b}신규 캐릭터를 생성합니다{/}{/}				
+UI_20220204_005233	{/}{s20}{b}[%s]{/}{nl}pode ser selecionado após as seguintes condições serem atingidas.{/}	{/}{s20}{b}[%s]{/}은{nl}다음 조건을 충족해야 선택할 수 있습니다.{/}				
+UI_20220204_005234	Ganho +%s	획득 +%s				
+UI_20220204_005235	{@sti1c}{s14}Somente o lider do grupo	{@sti1c}{s14}파티장 전용 아이템				
+UI_20220204_005236	Usos	사용 횟수				
 UI_20220204_005237	460 charactername	460 캐릭터이름				
 UI_20220204_005238	460 character name	460 캐릭터 이름				
 UI_20220204_005239	Gorilla	고릴라는				
 UI_20220204_005240	Banana	바나나				
-UI_20220204_005241	{@st43}{s16}Shows the factor currently applied to the dungeon.{/}	{@st43}{s16}현재 던전에 적용된 요소를 나타냅니다.{/}				
-UI_20220426_005242	{@st43}{s22}Goddess' Glory{/}	{@st43}{s22}여신의 축복{/}				
-UI_20220426_005243	Skip Animation	애니메이션 스킵				
-UI_20220426_005244	{nl}{img %s 40 40}{@st42b}{s20}Open	{nl}{img %s 40 40}{@st42b}{s20}캡슐 개봉   				
-UI_20220426_005245	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	UI_20210809_004743	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}{nl}*Velcoffer's Nest : 100 point{nl}*Earth Tower : 25 points per every 5th floor{nl}- Uphill Defense Mission: 10 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
-UI_20220426_005246	{@st43b}{s16}Contents List	{@st43b}{s16}콘텐츠 리스트				
-UI_20220426_005247	{@st43}Inherit Goddess Card Level{/}	{@st43}여신 카드 레벨 전승{/}				
-UI_20220426_005248	Please put the original card. 	원본 카드를 올려주세요				
-UI_20220426_005249	{@st59}Close{/}	{@st59}여신 카드 레벨 전승을 닫습니다{/}	UI_20210809_004756	{@st59}Close{/}	{@st59}여신 카드 복사를 닫습니다{/}	
-UI_20220426_005250	Inherit Goddess Card Level	여신 카드 레벨 전승				
-UI_20220426_005251	{#ff0000}※ The level of original card will remain when inheriting the Goddess card level.	{#ff0000}※ 여신 카드 레벨 전승 시 원본 카드의 레벨은 유지됩니다.				
-UI_20220426_005252	{@st41b}Inherit	{@st41b}전승	UI_20210809_004758	{@st41b}Copy	{@st41b}복사	
-UI_20220426_005253	{@st66d}{#ffcc33}{s18}Lv.%s{/}{/}{/}	{@st66d}{#ffcc33}{s18}%s레벨{/}{/}{/}				
-UI_20220426_005254	{@st59}Pilgrim Info{/}	{@st59}순례자 정보{/}				
-UI_20220426_005255	{@st59}Open Party{/}	{@st59}파티 펼쳐보기{/}				
+UI_20220204_005241	{@st43}{s16}Exibe o elemento da masmorra atual.{/}	{@st43}{s16}현재 던전에 적용된 요소를 나타냅니다.{/}				
+UI_20220426_005242	{@st43}{s22}Glória Divina{/}	{@st43}{s22}여신의 축복{/}				
+UI_20220426_005243	Pular animação	애니메이션 스킵				
+UI_20220426_005244	{nl}{img %s 40 40}{@st42b}{s20}Abrir	{nl}{img %s 40 40}{@st42b}{s20}캡슐 개봉   				
+UI_20220426_005245	O máximo de pontos que pode ser obtida reseta toda Segunda às 6 da manhã do servidor.{nl}Pontos podem ser obtidos com:{nl} {nl}- Conectar ao jogo: 10 pontos (5 pontos adicionais são ganhos para jogadores em guildas e jogadores sobre efeitos de Token.{nl} - Sucesso na pesca: 1 ponto ganho por apanho.{nl}- Raid Lendária/Divina: 35 pontos.{nl}- Calabouço de nível: 10 pontos.{nl}(Pontos podem ser perdidos se sair antes do término do calabouço.){nl}- Missão diária: 10 pontos{nl}- Batalha em equipe : 50 pontos (Ganho em vitórias ou derrotas){nl}- Res Sacrae Raid (Normal): 20 pontos.{nl}- Res Sacrae Raid (Difícil) : 30 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	UI_20210809_004743	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}{nl}*Velcoffer's Nest : 100 point{nl}*Earth Tower : 25 points per every 5th floor{nl}- Uphill Defense Mission: 10 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
+UI_20220426_005246	{@st43b}{s16})Lista de conteúdos	{@st43b}{s16}콘텐츠 리스트				
+UI_20220426_005247	{@st43}Herdar nível de Carta Divina {/}	{@st43}여신 카드 레벨 전승{/}				
+UI_20220426_005248	Coloque a carta original. 	원본 카드를 올려주세요				
+UI_20220426_005249	{@st59}Fechar{/}	{@st59}여신 카드 레벨 전승을 닫습니다{/}	UI_20210809_004756	{@st59}Close{/}	{@st59}여신 카드 복사를 닫습니다{/}	
+UI_20220426_005250	Herdar Nível de Carta Divina	여신 카드 레벨 전승				
+UI_20220426_005251	{#ff0000}※ O nível da carta original se manterá ao herdar nível da Carta Divina.	{#ff0000}※ 여신 카드 레벨 전승 시 원본 카드의 레벨은 유지됩니다.				
+UI_20220426_005252	{@st41b}Herdar	{@st41b}전승	UI_20210809_004758	{@st41b}Copiar	{@st41b}복사	
+UI_20220426_005253	{@st66d}{#ffcc33}{s18}Nv.%s{/}{/}{/}	{@st66d}{#ffcc33}{s18}%s레벨{/}{/}{/}				
+UI_20220426_005254	{@st59}Info. de Peregrinação{/}	{@st59}순례자 정보{/}				
+UI_20220426_005255	{@st59}Abrir Grupo{/}	{@st59}파티 펼쳐보기{/}				
 UI_20220426_005256	PilgrimGroupName	순례자그룹이름				
-UI_20220426_005257	{@st41}{s20}Leave	{@st41}{s20}나가기				
-UI_20220426_005258	{@st41}{s18}Pilgrim List	{@st41}{s18}순례자 목록				
-UI_20220426_005259	Number of Death : 0	사망 횟수 : 0				
-UI_20220426_005260	{@st59}You can see the information of current season's trial.	{@st59}현재 시즌의 시련 정보를 확인할 수 있습니다.				
-UI_20220426_005261	{@st41}{s20}Trial Info	{@st41}{s20}시련 정보				
-UI_20220426_005262	Please select the Trial information. 	시련 정보를 선택해주세요 .				
-UI_20220426_005263	Decrease the Trial Rank Level	시련 랭크 레벨을 낮춥니다.				
-UI_20220426_005264	Increase the Trial Rank Level	시련 랭크 레벨을 올립니다.				
-UI_20220426_005265	{@st59}Pilgrim, selects the trial.	{@st59}순례자, 시련을 선택합니다.				
-UI_20220426_005266	{@st41}{s20}Trial	{@st41}{s20}시련				
-UI_20220426_005267	Select Pilgrim	순례자 선택				
-UI_20220426_005268	PiligramNameMax.7	순례자명최대7				
-UI_20220426_005269	Select Penalty	페널티 선택				
-UI_20220426_005270	{@st41}{s18}Ready	{@st41}{s18}준비 완료				
-UI_20220426_005271	Res Sacrae Gem Enhance Scroll	성물 젬 강화 스크롤				
-UI_20220426_005272	{@st43b}{s24}Pilgrim Info{/}	{@st43b}{s24}순례자 정보{/} 				
-UI_20220426_005273	{@st59}Close{/}	{@st59}순례자를 종료합니다{/}				
-UI_20220426_005274	Goddess Message Extreme	여신의 전언 익스트림				
-UI_20220426_005275	{img current_group_mark 16 16}{@ps1_1}{s16} Current Group	{img current_group_mark 16 16}{@ps1_1}{s16} 현재 그룹				
-UI_20220426_005276	Group Name	그룹 이름				
-UI_20220426_005277	Disband	해제하기				
-UI_20220426_005278	Leave	탈퇴하기				
-UI_20220426_005279	Create Group	그룹 생성				
-UI_20220426_005280	{@st202}{s16}Group Name{/}	{@st202}{s16}그룹 명{/}				
-UI_20220426_005281	{@st202}{s16}Play Time{/}	{@st202}{s16}플레이 시간{/}				
-UI_20220426_005282	Trial Rank	{@st202}{s16}시련 단계{/}				
-UI_20220426_005283	{@ps2}{s14}Play Record	{@ps2}{s14}플레이 기록				
-UI_20220426_005284	If there is a record of playing the content in this season,{nl}The best score of the current group during this season will be shown.	해당 시즌의 플레이 기록이 존재할 경우,{nl}현재 그룹의 해당 시즌 최고 기록이 표시됩니다.				
-UI_20220426_005285	Group Name	그룹명				
-UI_20220426_005286	{@42b}{s14}Ranking Period{nl}%s ~ %s	{@42b}{s14}랭킹 기간{nl}%s ~ %s				
-UI_20220426_005287	{@st66b}Evolution Stone Effect Resolution(%s){/}	{@st66b}진화석 이펙트 선명도(%s){/}				
-UI_20220426_005288	There are no items to use.	사용할 수 있는 아이템이 없습니다.	ETC_20150317_001734	Indeciso	미정	
-UI_20220426_005289	{@st42}{s20}Squad Name	{@st42}{s20}스쿼드 이름				
-UI_20220614_005290	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid (Normal): 20 points{nl}- Res Sacrae Raid (Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트	UI_20220426_005245	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
-UI_20220614_005291	{@st106_lbr}{s20}Equipment	{@st106_lbr}{s20}장비				
-UI_20220614_005292	{@st106_lbr}{s20}Appearance	{@st106_lbr}{s20}외형				
-UI_20220614_005293	{@st41b}{s20}Fragmentize Item	{@st41b}{s20}아이템 파편화	UI_20220204_005136	{@st41b}{s20}Fragmentize Earring	{@st41b}{s20}귀걸이 파편화	
-UI_20220614_005294	{@st59}Skill Gem{/}	{@st59}스킬 젬{/}				
-UI_20220614_005295	{@st59}Res Sacrae Gem{/}	{@st59}성물 젬{/}				
-UI_20220614_005296	{@st202}{s18}Basic Probability{/}{/}	{@st202}{s18}기본 확률{/}{/}				
-UI_20220614_005297	{@st202}{s18}Failure Adjusted Probability{/}{/}	{@st202}{s18}누적 실패 보정{/}{/}				
-UI_20220614_005298	{@st202}{s18}Success Probability{/}{/}	{@st202}{s18}성공 확률{/}{/}				
-UI_20220614_005299	{@st202}Coupon Status{/}	{@st202}보유 쿠폰{/}				
-UI_20220614_005300	{@st202}{s16}Skip Confirmation	{@st202}{s16}확인 생략				
-UI_20220614_005301	%s Enter search keyword (Example: %s )	%s 검색 키워드 입력 (예시: %s )				
-UI_20220614_005302	Keyword	키워드				
-UI_20220614_005303	{@st59}Select the class within the main class{/}	{@st59}계열 내 세부직업을 선택하세요{/}				
-UI_20220614_005304	All of the Selected Class	해당 클래스 전체				
-UI_20220614_005305	{@st66b}{s16}Cyan	{@st66b}{s16}시안				
-UI_20220614_005306	Cyan	시안				
+UI_20220426_005257	{@st41}{s20}Sair	{@st41}{s20}나가기				
+UI_20220426_005258	{@st41}{s18}Lista de Peregrinos	{@st41}{s18}순례자 목록				
+UI_20220426_005259	Mortes : 0	사망 횟수 : 0				
+UI_20220426_005260	{@st59}Você pode conferir informações da provação na temporada atual.	{@st59}현재 시즌의 시련 정보를 확인할 수 있습니다.				
+UI_20220426_005261	{@st41}{s20}Info. de Provação	{@st41}{s20}시련 정보				
+UI_20220426_005262	Por favor selecione as informações da provação. 	시련 정보를 선택해주세요 .				
+UI_20220426_005263	Diminui o Nível da Provação	시련 랭크 레벨을 낮춥니다.				
+UI_20220426_005264	Aumentar o Nível da Provação	시련 랭크 레벨을 올립니다.				
+UI_20220426_005265	{@st59}Peregrino, selecione a provação.	{@st59}순례자, 시련을 선택합니다.				
+UI_20220426_005266	{@st41}{s20}Provação	{@st41}{s20}시련				
+UI_20220426_005267	Selecionar Peregrinação	순례자 선택				
+UI_20220426_005268	Nome de Peregrinação (Max. 7)	순례자명최대7				
+UI_20220426_005269	Selecionar Penalidade	페널티 선택				
+UI_20220426_005270	{@st41}{s18}Pronto	{@st41}{s18}준비 완료				
+UI_20220426_005271	Pergaminho de Melhoria da Gema Res Sacrae	성물 젬 강화 스크롤				
+UI_20220426_005272	{@st43b}{s24} Informação da Peregrinação {/}	{@st43b}{s24}순례자 정보{/} 				
+UI_20220426_005273	{@st59}Fechar{/}	{@st59}순례자를 종료합니다{/}				
+UI_20220426_005274	Mensagem Divina Extrema	여신의 전언 익스트림				
+UI_20220426_005275	{img current_group_mark 16 16}{@ps1_1}{s16} Grupo Atual	{img current_group_mark 16 16}{@ps1_1}{s16} 현재 그룹				
+UI_20220426_005276	Nome do Grupo	그룹 이름				
+UI_20220426_005277	Dissolver	해제하기				
+UI_20220426_005278	Sair	탈퇴하기				
+UI_20220426_005279	Criar Grupo	그룹 생성				
+UI_20220426_005280	{@st202}{s16}Nome do Grupo{/}	{@st202}{s16}그룹 명{/}				
+UI_20220426_005281	{@st202}{s16}Tempo da Tentativa{/}	{@st202}{s16}플레이 시간{/}				
+UI_20220426_005282	Nível da Provação {@st202}{s16}시련 단계{/}				
+UI_20220426_005283	{@ps2}{s14}Registro de Tentativa {@ps2}{s14}플레이 기록				
+UI_20220426_005284	Se houver um registro de tentativa nesta temporada,{nl}A melhor tentativa do grupo atual durante a temporada será exibida.	해당 시즌의 플레이 기록이 존재할 경우,{nl}현재 그룹의 해당 시즌 최고 기록이 표시됩니다.				
+UI_20220426_005285	Nome do Grupo	그룹명				
+UI_20220426_005286	{@42b}{s14} Período de classificação{nl}%s ~ %s	{@42b}{s14}랭킹 기간{nl}%s ~ %s				
+UI_20220426_005287	{@st66b} Brilho do Efeito de Evolução(%s){/}	{@st66b}진화석 이펙트 선명도(%s){/}				
+UI_20220426_005288	Não existe itens para serem usados.	사용할 수 있는 아이템이 없습니다.	ETC_20150317_001734	Indeciso	미정	
+UI_20220426_005289	{@st42}{s20}Nome do esquadrão	{@st42}{s20}스쿼드 이름				
+UI_20220614_005290	O máximo de pontos que pode ser obtida reseta toda Segunda às 6 da manhã do servidor.{nl}Pontos podem ser obtidos com:{nl} {nl}- Conectar ao jogo: 10 pontos (5 pontos adicionais são ganhos para jogadores em guildas e jogadores sobre efeitos de Token.{nl} - Sucesso na pesca: 1 ponto ganho por apanho.{nl}- Raid Lendária/Divina: 35 pontos.{nl}- Calabouço de nível: 10 pontos.{nl}(Pontos podem ser perdidos se sair antes do término do calabouço.){nl}- Missão diária: 10 pontos{nl}- Batalha em equipe : 50 pontos (Ganho em vitórias ou derrotas){nl}- Res Sacrae Raid (Normal): 20 pontos.{nl}- Res Sacrae Raid (Difícil) : 30 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트	UI_20220426_005245	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid: Auto Match: 20 points{nl}- Res Sacrae Raid: Auto Match(Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드: 자동 매칭 : 20 포인트{nl}- 성물 레이드: 자동 매칭(Hard) : 30 포인트	
+UI_20220614_005291	{@st106_lbr}{s20}Equipmento	{@st106_lbr}{s20}장비				
+UI_20220614_005292	{@st106_lbr}{s20}Aparência	{@st106_lbr}{s20}외형				
+UI_20220614_005293	{@st41b}{s20}Fragmentar Item	{@st41b}{s20}아이템 파편화	UI_20220204_005136	{@st41b}{s20}Fragmentar Brinco	{@st41b}{s20}귀걸이 파편화	
+UI_20220614_005294	{@st59}Gemas de Habilidade{/}	{@st59}스킬 젬{/}				
+UI_20220614_005295	{@st59}Gemas Res Sacrae{/}	{@st59}성물 젬{/}				
+UI_20220614_005296	{@st202}{s18}Probabilidade Básica.{/}{/}	{@st202}{s18}기본 확률{/}{/}				
+UI_20220614_005297	{@st202}{s18}Probabilidade com ajuste de falhas.{/}{/}	{@st202}{s18}누적 실패 보정{/}{/}				
+UI_20220614_005298	{@st202}{s18}Probabilidade de Sucesso{/}{/}	{@st202}{s18}성공 확률{/}{/}				
+UI_20220614_005299	{@st202}{/}	{@st202}Cupons em Posse{/}				
+UI_20220614_005300	{@st202}{s16}Pular Confirmação	{@st202}{s16}확인 생략				
+UI_20220614_005301	%s Entre a palavra chave (Exemplo: %s )	%s 검색 키워드 입력 (예시: %s )				
+UI_20220614_005302	Palavra-chave	키워드				
+UI_20220614_005303	{@st59}Selecione a classe da árvore selecionada{/}	{@st59}계열 내 세부직업을 선택하세요{/}				
+UI_20220614_005304	Classes selecionadas	해당 클래스 전체				
+UI_20220614_005305	{@st66b}{s16}Ciano	{@st66b}{s16}시안				
+UI_20220614_005306	Ciano	시안				
 UI_20220614_005307	{@st66b}{s16}Magenta	{@st66b}{s16}마젠타				
 UI_20220614_005308	Magenta	마젠타				
-UI_20220614_005309	{@st66b}{s16}Black	{@st66b}{s16}블랙				
-UI_20220614_005310	{img star_mark 20 20}Collection Progress{img star_mark 20 20}	★수집 달성도★				
-UI_20220614_005311	{@st41}{s18}Selected Class : {@st45ty}{s20}%s{@st41}{s18}/%s{/}	{@st41}{s18}선택 계열 : {@st45ty}{s20}%s{@st41}{s18}/%s{/}				
-UI_20220614_005312	{@st41}{s18}All: {@st45ty}{s20}%s{@st41}{s18}/%s{/}	{@st41}{s18}전체: {@st45ty}{s20}%s{@st41}{s18}/%s{/}				
-UI_20220614_005313	Reset Item Stat	아이템 옵션 재설정				
-UI_20220614_005314	{@st43b}{s18}Available Stat	{@st43b}{s18}선택 가능 옵션				
-UI_20220614_005315	Reset	재설정				
-UI_20220614_005316	{@st66b}* Stat group(color) does not change when reset,{nl} and only the kind and value of the stat changes.{/}	{@st66b}* 재설정시 옵션 그룹(색상)은 유지되며, {nl}세부 옵션과 옵션 수치만 변경 가능합니다.{/}				
-UI_20220614_005317	Resettable Stat	재설정 가능 옵션				
-UI_20220614_005318	Displays a list of resettable stats.	재설정 가능한 옵션 목록을 보여줍니다.				
-UI_20220614_005319	Belt of Insight Bound Removal Scroll	통찰의 허리띠 귀속 해제 스크롤				
-UI_20220614_005320	{@st59}Belt{/}	{@st59}허리띠{/}				
-UI_20220614_005321	{@st59}Equip Equipment (Alt+Z){/}	{@st59}해당 번호로 장비를 장착합니다(Alt+Z){/}				
-UI_20220614_005322	Resettable Stat	재설정 가능 옵션 보기				
-UI_20220622_005323	The maximum amount of points that can be earned is reset every Monday at 6 AM server time.{nl}Points can be earned as follows:{nl} {nl}- Connect to game: 10 points (5 additional points earned for players in a guild and players under token effects){nl} - Successful fishing: 1 point earned per catch.{nl}- Legend/Goddess Raid: 35 points{nl}- Level Dungeon: 10 points{nl}(Points can be omitted when exiting right after clearing the Level Dungeon.){nl}- Daily Quest: 10 points{nl}- Team Battle League : 50 points (Given regardless of win or loss){nl}- Res Sacrae Raid (Normal): 20 points{nl}- Res Sacrae Raid (Hard) : 30 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드/가디스 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트
+UI_20220614_005309	{@st66b}{s16}Preta	{@st66b}{s16}블랙				
+UI_20220614_005310	{img star_mark 20 20}Progresso da coleção{img star_mark 20 20}	★수집 달성도★				
+UI_20220614_005311	{@st41}{s18}Classe selecionada : {@st45ty}{s20}%s{@st41}{s18}/%s{/}	{@st41}{s18}선택 계열 : {@st45ty}{s20}%s{@st41}{s18}/%s{/}				
+UI_20220614_005312	{@st41}{s18}Todos: {@st45ty}{s20}%s{@st41}{s18}/%s{/}	{@st41}{s18}전체: {@st45ty}{s20}%s{@st41}{s18}/%s{/}				
+UI_20220614_005313	Reajuste de Status do Item	아이템 옵션 재설정				
+UI_20220614_005314	{@st43b}{s18}Status Disponível	{@st43b}{s18}선택 가능 옵션				
+UI_20220614_005315	Reajustar	재설정				
+UI_20220614_005316	{@st66b}* Grupo do status (Cor) não muda quando reajustado,{nl} e somente o tipo e valor do status muda.{/}	{@st66b}* 재설정시 옵션 그룹(색상)은 유지되며, {nl}세부 옵션과 옵션 수치만 변경 가능합니다.{/}				
+UI_20220614_005317	Status Reajustavél	재설정 가능 옵션				
+UI_20220614_005318	Mostra uma lista de status reajustavéis.	재설정 가능한 옵션 목록을 보여줍니다.				
+UI_20220614_005319	Pergaminho de Desvinculação do Cinto da Introspecção	통찰의 허리띠 귀속 해제 스크롤				
+UI_20220614_005320	{@st59}Cinto{/}	{@st59}허리띠{/}				
+UI_20220614_005321	{@st59}Equipar Item (Alt+Z){/}	{@st59}해당 번호로 장비를 장착합니다(Alt+Z){/}				
+UI_20220614_005322	Status Reajustavél	재설정 가능 옵션 보기				
+UI_20220622_005323	O máximo de pontos que pode ser obtida reseta toda Segunda às 6 da manhã do servidor.{nl}Pontos podem ser obtidos com:{nl} {nl}- Conectar ao jogo: 10 pontos (5 pontos adicionais são ganhos para jogadores em guildas e jogadores sobre efeitos de Token.{nl} - Sucesso na pesca: 1 ponto ganho por apanho.{nl}- Raid Lendária/Divina: 35 pontos.{nl}- Calabouço de nível: 10 pontos.{nl}(Pontos podem ser perdidos se sair antes do término do calabouço.){nl}- Missão diária: 10 pontos{nl}- Batalha em equipe : 50 pontos (Ganhos em vitórias ou derrotas){nl}- Res Sacrae Raid (Normal): 20 pontos.{nl}- Res Sacrae Raid (Difícil) : 30 pontos	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드/가디스 레이드 : 35 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 레이드(Normal) : 20 포인트{nl}- 성물 레이드(Hard) : 30 포인트
